@@ -68,8 +68,6 @@ Support provided to partners and their customers will vary depending on the circ
 
     1. Update `Organization Email (partners)` to use the correct email
     1. Change Requester of ticket by clicking `change` link under subject of ticket
-
-    
     1. Submit ticket to save changes
 
 
