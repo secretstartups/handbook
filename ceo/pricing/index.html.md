@@ -500,6 +500,10 @@ Also see [fork and commoditize](/handbook/leadership/biggest-risks/#fork-and-com
 
 > Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases. For more information please see our Buyer Based Open Core model: [/handbook/ceo/pricing/#buyer-based-open-core](/handbook/ceo/pricing/#buyer-based-open-core).
 
+### Below is a video of the CEO talking about monetizing open source with co-founders from Infracost.io
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UbMkw6GD7TQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## If a feature can be moved down do it quickly
 
 We should not hesitate to open source features. When we put a feature into too high of a tier we should move it quickly because not having it in all tiers limits who can use the feature and this hurts:
