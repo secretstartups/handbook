@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Demo Systems Roadmap"
-description: “GitLab’s future plans for Demo Systems”
+title: "Demo Systems How We Work"
+description: “This is an overview of how the Demo Systems group does planning and handles incoming requests.”
 ---
 
 ## On this page
@@ -12,308 +12,60 @@ description: “GitLab’s future plans for Demo Systems”
 
 ## Overview
 
-This page provides forward-looking plans for iterating our demo systems. As a rule of thumb, any current quarter initiatives are committed and any future quarter initiatives are wishlist items. 
+The Demo Systems group is a function of the Sales division and Customer Success department, however it is similar to a [Single-Engineer Group](https://about.gitlab.com/company/team/structure/#single-engineer-groups) in the Engineering division.
 
-The schedule for this quarter's projects can be found in the [Demo Systems - OKR issue tracker](https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues?sort=due_date).
+The Demo Systems Engineer has breadth across several infrastructure-related disciplines and is considered a hybrid of several roles, however with a smaller set of infrastructure that doesn't require a large team to manage. Here is a list of related job families:
+* [Site Reliability Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/site-reliability-engineer/)
+* [Security Engineer](https://about.gitlab.com/job-families/engineering/security-engineer/)
+* [Backend Engineer](https://about.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer)
+* [IT System Engineer](https://about.gitlab.com/job-families/finance/it-systems-engineer/)
+* [Director, Infrastructure (Reliability)](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-management/#director-infrastructure-reliability)
 
-Most of our project due dates are flexible, and are subject to change to accommodate the changing needs of the business and being able to prioritize support and bug fixes for our users as needed.
+You can learn more about the role and responsibilities in the [Demo Systems Engineer](https://about.gitlab.com/job-families/sales/demo-systems-engineer/) job family. 
 
-### How We Plan
+### What We Do
 
-Since the demo systems team is small, we have made some adaptations to conventional project planning processes to meet our needs. 
+* We develop web and CLI applications for automating the provisioning of ephemeral and long-lived infrastructure for showcasing the GitLab product in demos and training classes.
+* We create managed infrastructure and provide support for sales demos. See the [Demo Cloud](/handbook/customer-success/demo-systems/environments/demo-cloud/) to learn more.
+* We create automated provisioning of infrastructure for training classes and field marketing workshops. See the [Training Cloud](/handbook/customer-success/demo-systems/environments/training-cloud/) to learn more.
+* We create and manage the automated provisioning of AWS accounts and GCP projects for team members for non-production purposes. See [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/) to learn more.
+* We provide support triage for GitLab pipeline failures or Kubernetes errors for Customer Success team members.
+* We create and manage the provisioning of Kubernetes clusters for Customer Success team members for non-production purposes.
+* We lead the development of [HackyStack](https://gitlab.com/hackystack/hackystack-portal) which is a homegrown open-source project that powers the GitLab Sandbox Cloud.
+* We contribute infrastructure-as-code resources to the community. See our [Terraform modules](https://gitlab.com/gitlab-com/sandbox-cloud/tf-modules) and [Ansible roles](https://gitlab.com/gitlab-com/sandbox-cloud/ansible-roles).
+* We design and maintain our [company-wide infrastructure standards](/handbook/infrastructure-standards/) for non-production infrastructure, specifically the `sales-cs` and `sandbox` [realms](/handbook/infrastructure-standards/#gitlab-infrastructure-realms) and [labels and tags standards](https://about.gitlab.com/handbook/infrastructure-standards/labels-tags/).
+
+Approximately ~750 of GitLab team members are in departments that use cloud infrastructure for development, experiment, testing or non-production purposes. This includes the ~130 Customer Success team members that includes our Solutions Architects, Technical Account Managers, and Professional Services Engineers. For documentation purposes, we refer to this as the GitLab infrastructure community.
+
+The Demo Systems team is responsible for serving the AWS and GCP infrastructure needs of the Customer Success team. In alignment with our [efficiency value](https://about.gitlab.com/handbook/values/#efficiency), we also provide automation efficiencies-of-scale to the broader GitLab infrastructure community for provisioning sandbox infrastructure with the [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/).
+
+## How We Plan
+
+Since the demo systems team is small, we have made some adaptations to conventional project planning processes to meet our needs. Our team spends approximately 60% of time on support and incoming requests and 40% on projects and engineering iterations.
 
 Here's our loose guidelines for how we plan while keeping things simple.
 
-1. **Epic Initiatives** - We decide high-level initiatives approximately 6-12 months in advance based on business outcomes related to our company values. For the demo systems, these usually revolve around Collaboration, Efficiency, and Iteration.
-2. **Project Length** - We define the iterative steps for each initiative into 1-2 week projects. 
-3. **Project Issues and Scope-of-Work** - We spend a few days at the beginning of each quarter to create the scope of work for the upcoming quarter projects. Based on this scope of work, we'll define the sequence of projects and assign estimated dates. Future iteration projects are usually placeholders that will be defined later after we learn more from our current iterations.
-4. **OKR Alignment** - Our team OKRs focus on the needs of our users and may not always align with leadership OKRs.
+1. **Epic Initiatives** - We decide high-level initiatives approximately 6-12 months in advance based on business outcomes related to our company values.
+2. **Project Epics and Issues** - We spend a few days at the beginning of each quarter to create the scope of work for the upcoming quarter projects. Based on this scope of work, we'll define the sequence of projects and assign estimated dates. Future iteration projects are usually placeholders that will be defined later after we learn more from our current iterations.
+3. **Project Length** - We define the iterative steps for each initiative into 1-2 week projects. 
+4. **OKR Alignment** - The Demo Systems team does not use OKRs in the traditional way. Since our team primarily provides support and infrastructure iteration based on users changing needs, we align our projects with job family responsibilities and adapt as needed to prioritize issues and epics in our issue tracker.
 5. **Long-Term Solutions** - We want to build for the future and not spend time on one-off solutions to solve short-term needs unless it has major impact to our sales targets or leadership-sponsored initiatives.
 6. **Greater Good** - We cannot do everything for everyone, so we focus our time on projects that benefit the productivity of the majority of our users. We have the benefit at GitLab of many team members being self-sufficient and technical so they are able to solve their own problems if the demo systems do not offer a solution.
 7. **Headspace Efficiency** - We try to group similar projects together for efficiency gains and minimize the switching cost between projects. This also allows us to integrate the backlog of feature requests into the respective project(s).
 
-## Feature Requests
+## Incoming Requests and Support
 
-Please create an issue or comment on an existing issue in our [Demo Systems issue tracker](https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests) to contribute a feature request for our demo systems. 
+Please create an issue or comment on an existing issue in our [Demo Systems issue tracker](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues) or [Sandbox Cloud issue tracker](https://gitlab.com/gitlab-com/sandbox-cloud/issue-tracking/-/issues) for anything that would take more than 30 minutes to complete.
 
-Our issue tracker has sub-projects to allow for easier organization. Add your issue to the [Demo Cloud - Bug Reports and Support](https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demo-bugs) issue tracker if you're not sure which project to choose.
+You can post on the `#demo-systems` Slack channel to discuss ideas informally or request technical support for anything that should take less than 30 minutes to resolve.
 
-You can post on the `#demo-systems` Slack channel to discuss ideas informally.
+## Activity Tracking
 
-## Legacy Roadmap
+You can see what we're working on by following posts in the `#demo-systems` Slack channel.
 
-When the demo systems team was established in October 2019, we created a preliminary phased roadmap that is shown below for historical reference. This legacy roadmap has been deprecated and replaced with the [Current Initiatives](#current-initiatives) below with our ongoing iterations and OKRs.
+You can see historical activity by reading our [Demo Systems Weekly Report](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=demosys%3A%3Areport) issues and [QBR Analytics](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=demosys%3A%3Areport&search=qbr).
 
-## Current Initiatives
+## Roadmap
 
-### [Efficiency: Implement Demo Data Designer and project import tools for sample data](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/31)
-
-<table>
-    <thead>
-        <tr>
-            <th>Quarter</th>
-            <th>Issue/MR Link</th>
-            <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>FY21-Q1</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/infrastructure/demosys-portal/-/merge_requests/51">demosys-portal!51</a></td>
-            <td>Create designer proof-of-concept with project issue tracking</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/2">demosys-okrs#2</a></td>
-            <td>Add project and group API resources to Demo Data Designer</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/1">demosys-okrs#1</a></td>
-            <td>Add generated sample data to Demo Data Designer with <a href="/handbook/marketing/strategic-marketing/roles-personas/">Marketing personas</a></td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/4">demosys-okrs#4</a></td>
-            <td>Create project templates or public importable projects with demo data pre-loaded</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/3">demosys-okrs#3</a></td>
-            <td>Create perpetual data import capability for live instance</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7397">www-gitlab-com#7397</a></td>
-            <td>Collaborate with GitLab engineering team to integrate Demo Data Designer and Project Templates into GitLab product</td>
-        </tr>
-        <tr>
-            <td>FY21-Q3</td>
-            <td>TBD</td>
-            <td>Add instance-level API to Demo Data Designer</td>
-        </tr>
-        <tr>
-            <td>FY21-Q3</td>
-            <td>TBD</td>
-            <td>Create instance templates in GCP and AWS with demo data pre-loaded</td>
-        </tr>
-        <tr>
-            <td>FY21-2H</td>
-            <td>TBD</td>
-            <td>Release Demo Data Designer as open source project</td>
-        </tr>
-    </tbody>
-</table>
-
-### [Efficiency: Implement Demo Portal and Catalog for easy-access infrastructure and content](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/32)
-
-<table>
-    <thead>
-        <tr>
-            <th>Quarter</th>
-            <th>Issue/MR Link</th>
-            <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>FY21-Q1</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/infrastructure/demosys-portal/-/merge_requests/42">demosys-portal!42</a> <a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/infrastructure/demosys-portal/-/merge_requests/48">!48</a> <a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/infrastructure/demosys-portal/-/merge_requests/49">!49</a></td>
-            <td>Add community catalog of videos and slide presentations</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2/Q3</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/11">demosys-okrs#11</a></td>
-            <td>Create demo catalog contributor guide and docs </td>
-        </tr>
-        <tr>
-            <td>FY21-Q2/Q3</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/12">demosys-okrs#12</a></td>
-            <td>Add community catalog of Demo Data Designer playbooks</td>
-        </tr>
-    </tbody>
-</table>
-
-### [Efficiency: Deprecate legacy demo environments](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/34)
-
-<table>
-    <thead>
-        <tr>
-            <th>Quarter</th>
-            <th>Issue/MR Link</th>
-            <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/5">demosys-okrs#5</a></td>
-            <td>Collaborate with i2p Users on Transition Milestones</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/6">demosys-okrs#6</a></td>
-            <td>Deprecate i2p Demo Infrastructure</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/7">demosys-okrs#7</a> <a href="https://gitlab.com/gitlab-com/business-ops/team-member-enablement/it-ops-issue-tracker/-/issues/301">it-ops#301</a></td>
-            <td>Transition AWS `gitlab-np` account to new IT Ops AWS account</td>
-        </tr>
-        <tr>
-            <td>FY21-Q3</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demo-cloud-integrations/-/issues/7">demo-cloud-integrations#7</a></td>
-            <td>Deprecate GCP group-cs Kubernetes clusters</td>
-        </tr>
-    </tbody>
-</table>
-
-### [Efficiency: Implement 3rd party integrations and tools into Demo Cloud infrastructure](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/35)
-
-This epic is based on prioritized requests in the [Demo Cloud Integrations issue tracker](https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demo-cloud-integrations/-/issues).
-
-### [Efficiency: Improvements to Demo Systems GCP Infrastructure-as-Code (IaC)](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/38)
-
-<table>
-    <thead>
-        <tr>
-            <th>Quarter</th>
-            <th>Issue/MR Link</th>
-            <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/x">demosys-okrs#13</a></td>
-            <td>Improve reliability of Kubernetes for CI/CD use cases</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/x">demosys-okrs#14</a></td>
-            <td>Implement monitoring software for security and compliance</td>
-        </tr>
-    </tbody>
-</table>
-
-In addition to specific initiatives, this epic includes the ongoing collaboration with GitLab IT/SecOps to ensure best practices and security policy compliance
-
-### [Efficiency: Improvements to Demo Cloud Omnibus Infrastructure](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/39)
-
-<table>
-    <thead>
-        <tr>
-            <th>Quarter</th>
-            <th>Issue/MR Link</th>
-            <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/x">demosys-okrs#x</a></td>
-            <td>Provision new Omnibus instance for Designer Data</td>
-        </tr>
-        <tr>
-            <td>FY21-Q3</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/x">demosys-okrs#x</a></td>
-            <td>Update Ansible with manually configured environment variables</td>
-        </tr>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/x">demosys-okrs#x</a></td>
-            <td>x</td>
-        </tr>
-    </tbody>
-</table>
-
-In addition to specific initiatives, this epic includes the implementation of extended GitLab features and prioritized requests in the [Demo Cloud GitLab Core issue tracker](https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demo-cloud-gitlab-core/-/issues).
-
-### [Efficiency: Improvements to Training Cloud infrastructure](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/40)
-
-<table>
-    <thead>
-        <tr>
-            <th>Quarter</th>
-            <th>Issue/MR Link</th>
-            <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>FY21-Q2</td>
-            <td><a href="https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/demosys-okrs/-/issues/8">demosys-okrs#8</a></td>
-            <td>Provision new Omnibus instance for Training Cloud</td>
-        </tr>
-        <tr>
-            <td>FY21-Q3</td>
-            <td>TBD</td>
-            <td>Create new Portal Laravel app for "GitLab Training Cloud"</td>
-        </tr>
-        <tr>
-            <td>FY21-Q3</td>
-            <td>TBD</td>
-            <td>Create proof-of-concept of on-demand infrastructure for training use cases</td>
-        </tr>
-        <tr>
-            <td>FY21-Q4</td>
-            <td>TBD</td>
-            <td>Collaborate with training team on demo data use cases</td>
-        </tr>
-    </tbody>
-</table>
-
-### [Efficiency: Implement Container Sandbox infrastructure with on-demand K8s clusters](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/41)
-
-<table>
-    <thead>
-        <tr>
-            <th>Quarter</th>
-            <th>Issue/MR Link</th>
-            <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>FY21-Q3</td>
-            <td>TBD</td>
-            <td>Proof-of-concept with on-demand cluster provisioning</td>
-        </tr>
-    </tbody>
-</table>
-
-### [Efficiency: Implement Compute Sandbox infrastructure with on-demand provisioning](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/42)
-
-<table>
-    <thead>
-        <tr>
-            <th>Quarter</th>
-            <th>Issue/MR Link</th>
-            <th>Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>FY21-Q4</td>
-            <td>TBD</td>
-            <td>Proof-of-concept for compute sandbox</td>
-        </tr>
-    </tbody>
-</table>
-
-### [Collaboration: Ongoing team member side project requests](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/43)
-
-This epic is based on prioritized requests in the [Demo Side Projects issue tracker](https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/side-projects/-/issues).
-
-### [Collaboration: Iterative bug fixes and tweaks](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/36)
-
-This epic is based on prioritized requests in the [Demo Systems issue tracker](https://gitlab.com/gitlab-com/customer-success/demo-systems/demo-feature-requests/-/issues).
-
-### [Collaboration: Provide support for demo systems users](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/37)
-
-This epic is related to the day-to-day support that we provide in the `#demo-systems` Slack channel.
-
-### [Collaboration: Iterative documentation and handbook pages](https://gitlab.com/groups/gitlab-com/customer-success/demo-systems/-/epics/33)
-
-This epic is related to as-needed updates to the documentation and handbook pages.
+You can learn more in the [FY22 OKR High-Level Planning Themes](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/1) issue.
 
