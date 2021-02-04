@@ -1031,7 +1031,7 @@ We want to continue to encourage folks to build personal relationships with one 
 We know that DMs will always exist.
 We don't want to eliminate them.
 We set a target of Slack messages that are not DMs being at least 25% of messages.
-At the time that we set this target, it is <20% of communications.
+At the time that we set this target, it was <20% of communications.
 
 Everything at GitLab is a work in progress, so if we see a culture shift where Slack is *not* where work is occurring, thus inflating the amount of communication that is personal that is occurring, we can always change this KPI, but the steady growth of Slack messages paralleling the number of team members does not seem to suggest that is the case.
 
