@@ -404,11 +404,22 @@ The possible tier labels to be applied are:
   - ~"GitLab Premium"
   - ~"GitLab Enterprise"
 
-
 * Automation condition: Open issue without tier labels, with group and `~direction` label, in current milestone
 * Automation action:
   - Mention the relevant PM for the group asking to add appropriate label
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/prompt-for-tier-labels.yml>
+
+### Bug SLO Warning
+
+Bugs have a severity label that indicates the [SLO for a fix](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity). This automated policy aims to prompt managers about bugs in their group that are approaching the SLO threshold
+
+* Automation Condition:
+  - Open issue labelled `~bug` and has a `~severity::1` or `~severity::2`
+  - Time since current severity label was applied and today is over 75% towards the SLO threshold
+* Automation Action:
+  *  Mention EM and PM on the issue to make them aware of the impending SLO breach
+*  Example: <TBD>
+*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/comment-slo-breaching-bugs.yml>
 
 ## Reactive triage automation
 
