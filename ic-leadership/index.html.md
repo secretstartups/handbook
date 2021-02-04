@@ -26,7 +26,7 @@ Technical skills developed in their career up until now are still very important
 During a Handbook Learning discussion, Eric (EVP of Engineering), Engineering IC Leaders, and the Learning and Development team discuss Engineering IC Leadership. We discuss topics during an interactive handbook discussion about what it means to be an IC leader. 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/OXBwtaZ9edQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/OXBwtaZ9edQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 > Start with a level set. You have an intermediate Engineer, then they become a Senior Engineer, and there's a fork in the road. There is a dual career track where you can choose the "manager track" or the "IC Leadership track." - Eric Johnson (EVP of Engineering)
