@@ -81,6 +81,18 @@ Below is an outlined example of how the field enablement team created a handbook
 1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
 1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
 
+#### Using iframes to display the GitLab handbook
+
+The following video provides an example of how iframes can be used to display sections of the handbook in a Rise 360 course
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1423850601534bd8b098d13b68ce8d63" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+Consider copying and pasting the iframe tag below to apply the strategies outlined in the training.
+
+<iframe src="link-to-your-page" scrolling="no" height="XX"></iframe>
+
+GitLab team members can access [this Google doc resource](https://docs.google.com/document/d/1HvikZayptzqT8kFFB_EPdiXBl04iYsnRzwFKGKgLVxI/edit) for ease of access to iframe tags that can be copied and edited when building courses using Articulate360 tools.
+
 ### Examples of what is not considered handbook first
 
 Avoiding these examples can help ensure that the content you're producing follows a handbook first approach
@@ -96,4 +108,8 @@ Avoiding these examples can help ensure that the content you're producing follow
 - Updates to courses that are saved as SCORM files must be updated in the course creation tool and then reuploaded to the EdCast platform
 - When iframes are not used, the user needs to navigate to text and video content in the handbook on a new internet tab
 - New handbook/docs pages may need to be created in cases where videos should be included in a learning path
+
+
+
+
 
