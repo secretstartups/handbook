@@ -112,21 +112,11 @@ volunteer contributors.
 
 GitLab EE requires a license key to be used.
 
-To be able to run your own instances for development you can use [license.gitlab.com][license-app-hosted]
-or clone [license-app][license-app] and generate your own licenses.
+To be able to run your own instances for development,
+[open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab%20Team%20Member%20License)
+using the `GitLab Team Member License` template.
 
-[License-app][license-app] and [license.gitlab.com][license-app-hosted]
-are only available for GitLab employees. 
-
-- Individual GitLab employees can request access with the [single person access request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
-- GitLab managers can request access for multiple employees with the [bulk access request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Bulk%20Access%20Request).
-
-For information on what access to request, and for detailed steps and guidance for
-generating license keys, refer to [How to Request / Install GitLab License Key](https://goo.gl/VbNaZj) document.
-
-[license-app]: /handbook/engineering/projects/#license-app
-[license-app-hosted]: https://license.gitlab.com
-
+[Learn more about working with licensing and subscriptions internally.](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions)
 
 ### Ruby Gems
 
