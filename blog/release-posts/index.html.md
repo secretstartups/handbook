@@ -882,7 +882,7 @@ Below are the types of problems the release post mangers may need help with.
 
 **Release Post Manager**
 
-Should you exhaust your ability to resolve your blocker qucikly mention the Technical Advisor in `#dev-escalation` channel and cross-post in `#release-post` channel to ask for help, and make others aware that there may be a delay in assembly.
+Should you exhaust your ability to resolve your blocker quickly mention the Technical Advisor in `#dev-escalation` channel and cross-post in `#release-post` channel to ask for help, and make others aware that there may be a delay in assembly.
 Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem. Indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution. 
 
 **Technical Advisor**
