@@ -50,6 +50,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 1. We are fixing this amount at $1,000 thoughtfully and purposefully. We want the focus to be on the value and the behavior, not on the perceived monetary impact to GitLab. This is about recognition.
 1. A general guideline is that 1 in 10 team members might receive a discretionary bonus each month. This can vary greatly as we don't give out bonuses just to hit a quota, nor would we hold one back because a certain number had already been awarded.
 1. There is no limit to the frequency with which someone can receive a bonus. If someone deserves a bonus a day after being nominated for one we should do a second one.
+  - _Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)_
 1. As with other bonuses, only active GitLab team members can be nominated to receive discretionary bonuses.
    Should a nominated team member leave GitLab, they will not receive a discretionary bonus.
    It's at the discretion of the manager if they still want to publicly recognize the team member's behavior for the nomination.
@@ -99,6 +100,18 @@ You can read more about the process in [our handbook](https://about.gitlab.com/h
 
 For managers: as a reminder, please make sure when you are submitting the bonus in BambooHR that your description is clear and includes the valid criteria data needed for managers and PBP to review and approve.  Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the manager will be asked to provide further content and details.
 
+#### Multiple Discretionary Bonuses
+
+If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement.
+
+**For example:**
+- Person A submits a valid nomination for Project X on 2021-01-01
+- Manager approves and it progresses in the approval process
+- Person B submits a valid nomination for Project X (same project) on 2021-01-02
+- Manager copies the nomination (because Nominator Bot may not save the message), reaches out to let Person B know, and rejects Person B's nomination.
+- Person A's nomination is fully approved
+- Manager shares in #team-member-updates, mentioning nomination by both Person A and Person B and with the descriptions from both
+
 #### Process for Recommending a Team Member for a Discretionary Bonus
 
 **Note:** Kindly use Nominator Bot for discretionary bonus requests instead of BambooHR. 
@@ -124,7 +137,7 @@ For managers: as a reminder, please make sure when you are submitting the bonus 
 1. Notify Payroll of the bonus by updating the proper payroll google sheet based on entity.
   * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
 
-_Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement._
+_Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)._
 
 **Approval flow**
 ```mermaid
