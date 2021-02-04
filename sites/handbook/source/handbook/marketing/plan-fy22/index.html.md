@@ -74,7 +74,7 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 {: #gtm-motions .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-The GTM motions were built by CMO staff, and then evangelized with both product & sales leadership for feedback. Each motion describes the WHY behind why it was included as a GTM Motion, as well as related sales plays and alliance partners to leverage in the motion. <!-- Do we actually have the why included in the doc? Do we need to add that commentary? -->
+Based on discussions with Sales and Marketing leadership, feedback from Product & Product Management leadership and by consulting industry/analyst reports, we recommend that for FY22, our major GTM motions should be focused on **CI/CD**, **DevOps Platform**, and **GitOps**. The overall goal of our GTM motions and sales play initiative is to improve the predictability of attaining our FY22 New and Growth AR goals, and improve our GTM efficiency (e.g. CAC, Cost per SAO/CW).  We will do this by concentrating our efforts on the most important GTM motions that align to customer’s main business goals/needs. where GitLab has a distinct competitive advantage and with accounts that have the highest LAM growth potential. 
 
 To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`. You may also view the embedded sheet below.
 
@@ -113,10 +113,9 @@ All marketing team members should aim to focus ~70% of their time and plans arou
 {: #sales-plays .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-Sales Plays combine buyer personas, positioning, and messaging, integrated into go-to-market activities executed by, and with, sales. The focus of Sales Plays is narrow, focused on a specific group of accounts and enablement for how Sales will leverage the tools produced for the play.
+A sales play is a series of prescribed actions around a Go to Market theme that are taken by cross functional sales and marketing teams to reach a positive sales outcome. It includes prescribed actions taken jointly by marketing, sales development and sales executives to identify and create sales opportunities that can be closed. Sales Plays can be delivered as a PDF book, or as an interactive guide leveraging PathFactory - or both.
 
-The combination of Sales Plays for a given motion will develop a GTM Motion Playbook to be leveraged by Sales and SDRs. Sales Play Training will outline the Playbook and how sales can best leverage the tools of the Sales Plays.
-
+Sales Play categories will include new Land (e.g. CI/CD), Compete (e.g. Jenkins/Bitbucket/Travis/Rally/Jira takeout) and Category (VSMDevOps/DevOps Platform) plays.  We will also create Expand plays based on sales need/feedback.
 To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22#gtm-motions).
 
 ### What is included in a Sales Play?
