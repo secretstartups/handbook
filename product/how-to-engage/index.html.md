@@ -62,7 +62,7 @@ feature request and desired outcome. The process will be:
 - Sales schedules 1 hour zoom meeting with product manager, customer, and
 themselves. Call recorded if customer gives permission.
 - Product Manager prepares any additional questions they would like answered, beyond what is below.
-    - What version of GitLab are you currently using? CE / Starter / Premium?
+    - What version of GitLab are you currently using? CE / Premium / Ultimate?
     - How are you currently doing source code management? GitLab merge requests or another tool? How about CI/CD?
     - How are you currently doing issue management? How are you using HP ALM? Agile/Kanban? What do your sprint/iterations look like? 1 week? 1 month? 2 months?
     - What is the integration like between issue management and source code management?
