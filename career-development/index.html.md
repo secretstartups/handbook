@@ -488,6 +488,8 @@ It's obvious why a manager cannot manage too many people effectively, or why the
 
 Throughout engineering we have groups of team members organized in different structures towards completing a mission. For the purpose of gearing ratios we’ll accommodate this diversity of structure by referring to these as "workgroups". A workgroup is the collection of team members with a mission and typically arranged according to a product group, team, or other problem-solving unit.
 
+By default, each workgroup is limited to 1 Staff+ Engineer.
+
 Some workgroups within engineering may directly align to staffing of Staff+ roles according to team organization. Each team has a single Staff Engineer, just as they have a single Manager; with the two working together to lead the team in their mission. Other workgroups, based on their mission, may require multiple Staff+ team members. The need for multiple Staff+ team members in a workgroup should be examined and explained through the [four archetypes](/handbook/engineering/ic-leadership/#the-four-archetypes). As teams grow in both scope and size it is important to determine whether they should expand the number of Staff+ roles, or if the growth is reason to split out to another workgroup.
 
 In contrast, we place no numeric limits on the quantity of Intermediate and Senior Software Engineers because they are the center-of-gravity for any Product development organization. A healthy organization probably has the highest number of these positions compared to other roles, because they are collectively the most efficient, versatile, and immediately productive individuals. Most other parts of the organization, including managers and Staff+ ICs, revolve around Intermediate and Senior Software Engineers. 
@@ -498,7 +500,7 @@ It is intended that we provide Staff+ team members with a significant scope of i
 
 ### Staff+ Reporting Restrictions
 * Staff Software Engineers report to an Engineering Manager (a manager of ICs)
-* Principle Engineers report to a Senior Manager+ (a manager of managers)
+* Principal Engineers report to a Senior Manager+ (a manager of managers)
 * Distinguished Engineers report to Director+
 * Engineering Fellows report to VP+
 
