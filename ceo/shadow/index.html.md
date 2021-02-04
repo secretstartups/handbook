@@ -178,8 +178,8 @@ Exceptional community members may be able to participate, as well.
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
 | 2021-02-01 | 2021-02-05 | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing | [Parker Ennis](https://gitlab.com/parker_ennis) - Sr. PMM, CI/CD |
-| 2021-02-08 | 2021-02-11 | AVAILABLE - REMOTE (Sales Kickoff) | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing |
-| 2021-02-16 | 2021-02-19 | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience | AVAILABLE - REMOTE |
+| 2021-02-08 | 2021-02-11 | No Shadow Rotation - SKO | No Shadow Rotation - SKO |
+| 2021-02-16 | 2021-02-19 | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing |
 | 2021-02-22 | 2021-02-26 | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience |
 | 2021-03-01 | 2021-03-05 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
 | 2021-03-08 | 2021-03-12 | AVAILABLE - REMOTE | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
