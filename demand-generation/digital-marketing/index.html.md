@@ -20,7 +20,7 @@ The Digital Marketing team generates new prospects through paid channels by buil
 
 [Click here](/job-families/marketing/digital-marketing-programs-manager/) to learn about the Digital Marketing Programs role.
 
-**To learn about our Digital Marketing strategy and processes at length, head over to our [Digital Marketing Management page.](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/)**
+**To learn about our Digital Marketing strategy and processes at length, head over to our [Digital Marketing Management page.](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/)**
 
 ## DMP responsibilities
 Digital Marketing is responsible for planning, launching, and optimizing paid ad campaigns, with a focus on top of funnel demand generation to fill pipeline.  
