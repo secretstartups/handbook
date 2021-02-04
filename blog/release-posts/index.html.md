@@ -869,6 +869,7 @@ Each month the release post manager may need help with technical hurdles during 
 Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The release post manager will reach out to the technical advisor on call via Slack in `#dev-escalation` channel and then cross-posts to `#release-post` channel for transparency that issues are being worked on. It is then expected that the technical advisor will respond to the release post manager or release post DRI as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the 18th and the 22nd of the month**. The technical advisor is responsible for determining if further dev escalation should proceed. 
 
 The good news is that the release post technical hurdles are often reasonably easy to trouble shoot for technical experts, which is why we're excited about this partnership!
+
 Below are the types of problems the release post mangers may need help with.
 
 - Assist with setup of [local dev environment](#local-dev-environment-setup-to-run-content-assembly-script)
@@ -876,8 +877,6 @@ Below are the types of problems the release post mangers may need help with.
 - Triaging pipeline errors and suggest changes or provide a fix to related merge requests
 - Resolving merge conflicts with the release post
 - Identifying when to engage with other technical teams to resolve upstream problems
-
-The good news is that the release post technical hurdles are often reasonably easy to trouble shoot for technical experts, which is why we're excited about this partnership!
 
 #### Getting Help During the Release Post Assembly
 
