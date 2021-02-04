@@ -276,7 +276,14 @@ GitLab provides a policy through Cigna that may replace up to 66.7% of your base
 
 **Short Term Disability Claim Process**
 
-1. Employee call Cigna intake center and completes verbal authorization. Employee recieves Employee Assitance Program referral to help manage work-life balance. Within 3 business days the employee is contacted by a Cigna Claim Manager if additional information is needed. After 3 business days a estimated return to work date is estabilished and expectations for employee are set. If claim is denied, the employee will recieve a call from Cigna explaining the decision. 
+1. Team member notifies GitLab via PTO Roots
+1. Team member will submit both the [Short Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form and the [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) form by emailing it to the Total Rewards team at total-rewards@gitlab.com . The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will dispurse those funds to the team member. 
+1. The Total Rewards team will complete the employer portion of the Short Term Disability form and will send it over to Cigna
+1. The Total Rewards team will notify the team member of submission of claim and provided next steps 
+1. The Team member should notify Cigna and the Total Rewards team once birth has occurred. 
+1. Cigna processes the claim 
+1. The Total Rewards team will processes internally 
+ 
 
 ## Employee Assistance Program
 
