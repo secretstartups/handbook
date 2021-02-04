@@ -502,7 +502,7 @@ Also see [fork and commoditize](/handbook/leadership/biggest-risks/#fork-and-com
 
 ### Below is a video of the CEO talking about monetizing open source with co-founders from Infracost.io
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UbMkw6GD7TQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbMkw6GD7TQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## If a feature can be moved down do it quickly
 
