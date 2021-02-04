@@ -85,22 +85,26 @@ All marketing team members should aim to focus ~70% of their time and plans arou
 {: #gtm-motion-includes}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Always Included (TBD):**
-* Unified L2RM (Lead to Revenue Management) reporting/analytics
-* AR/PR
-* ABM, Focus account lists
-* Share of Voice Campaigns
-* Digital Marketing
-* Alliance and Channel Partner Campaigns
-* Buyer Journey Content & Assets for Awareness, Consideration and Decision
-* Bizible/Marketo Reporting
-* Sales Enablement
-* Messaging and Positioning Framework
-* Buyer Personas
-* Competitive Assets
-* Web ROI Model
+*The list below includes potential and recommended items to include in a GTM Motion, to assist with ideation at kickoff of planning. The Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage.*
 
-**Optional (discretion of Core Team):**
+**Potential/Recommended Pieces of a GTM Motion:**
+* Buyer personas
+* Messaging and positioning framework
+* Identification of alliance parter joint GTM campaigns and activities
+* LinkedIn / GDN display advertising
+* Buyer journey content (including awareness, consideration, and decision)
+* Focus account lists (in alignment with Sales, Channel, and Alliance Partners)
+* Definition of ABM intent triggers
+* Channel partner campaigns
+* Analyst relations content
+* Customer references
+* Competitive assets
+* Web ROI model
+* Sales enablement
+* Share of voice campaigns
+* Unified L2RM (Lead to Revenue Management) reporting/analytics
+* Bizible/Marketo Reporting
+
 
 ## Sales Plays
 {: #sales-plays .gitlab-purple}
@@ -116,25 +120,23 @@ To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/mark
 {: #sales-play-includes}
 <!-- DO NOT CHANGE ANCHOR -->
 
-**Included in each Sales Play:**
-* Buyer Personas
-* Sales Play Specific Campaigns
-* Email/LinkedIn Inmail campaigns
+*The list below includes potential and recommended items to include in a Sales Play. Not all Sales Plays will include the full list, and the Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage.*
+
+**Potential/Recommended Pieces of a Sales Play:**
+* Integrated sales playbooks
+* Sales play training (SDR, Sales, Partners)
+* ABM named accounts, Focus Account Lists
+* Target personas, key contacts, prospect criteria, and other competitive and intel sources
+* Buyer personas	
+* Sales Play specific campaigns
+* LinkedIn InMail campaigns
 * Outreach guide with intro messages, objection handling, differentiation
-* Pathfactory tracks, video intro that can be sent by sales to prospects (optionally with sales play specific content).
-* ABM, ICP, Prospect Criteria, Focus account lists
-* Outreach Guide & Sequences
-* SDR Enablement
-* Sales Play Training
-* Partner Sales Enablement
-* Sales Play specific SFDC Reporting
-
-
-**Optional for a Sales Play:**
-
-**At discretion of Core Team in collaboration across Marketing and Sales*
-* 
-* 
+* Outreach sequences
+* Email campaigns
+* Pathfactory tracks for sales use (or use of *Pathfactory for Sales* tool in SFDC)
+* Video intros that can be sent by sales to prospects (optionally with sales play specific content)
+* ROI training and support	
+* Sales Play specific SFDC Reporting	
 
 ## GTM Motion Core Teams
 {: #core-teams .gitlab-purple}
@@ -259,10 +261,9 @@ You will be expected to become a subject matter expert of the GTM Motion as a Co
 {: #project-management .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-The GTM Motions will each have an epic, where all teams can reference plans and the issues (i.e. action items) to accomplish the plans.
+The GTM Motions will each have an epic, where all teams can reference plans and the issues (i.e. action items) to accomplish the plans. More to come! This will be managed by Dara Warde.
 
-* Main Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785
-   - CI/CD Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821
-   - DevOps Platform Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822
-   - GitOps Epic: https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823
-   - Brand Epic: 
+* Main Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785)
+   - CI/CD Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821)
+   - DevOps Platform Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822)
+   - GitOps Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823)
