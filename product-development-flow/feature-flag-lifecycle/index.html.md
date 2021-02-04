@@ -91,3 +91,7 @@ graph TD
     M --> O;
     M -. *Optional* Yes .-> N
 ```
+
+### Dashboard & Metrics
+
+For more information on the lifecycle of a feature flag, such as how many are introduced per release, how long they exist in the application, or how long they've been enabled, [see this dashboard](https://app.periscopedata.com/app/gitlab/792066/Engineering-::-Feature-Flags) (internal only). We also carry 7 days worth of data [in Kibana](https://log.gprd.gitlab.net/goto/d060337c017723084c6d97e09e591fc6) (internal only) for feature flags that become disabled or enabled.
