@@ -79,7 +79,7 @@ When an issue for either GitLab.com or self-hosted installations is confirmed (b
 - [GitLab Runner issue tracker](https://gitlab.com/gitlab-org/gitlab-runner/-/issues) for issues specific to GitLab Runners.
 - [GitLab Charts issue tracker](https://gitlab.com/gitlab-org/charts/gitlab/-/issues) for issues specific to GitLab Helm Charts.
 - [GitLab Omnibus issue tracker](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues) for issues specific to GitLab Omnibus.
-- [GitLab Documentation issue tracker](https://gitlab.com/gitlab-org/gitlab-docs/-/issues) for issues specific to documentation.
+- [GitLab Documentation issue tracker](https://gitlab.com/gitlab-org/gitlab-docs/-/issues) for issues related to the docs site.
 
 ## Non Channel Work
 
