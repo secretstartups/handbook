@@ -1,5 +1,5 @@
 ---
 layout: handbook-page-toc
-title: Product handbook releases
+title: Product handbook updates
 ---
 
