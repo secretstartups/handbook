@@ -74,9 +74,13 @@ These examples are not exhaustive. If in doubt ask questions about the situation
 
 ## GitLab issue trackers
 
-When an issue is confirmed (bug, regression etc), it will be reported on the [GitLab project issue tracker](https://gitlab.com/gitlab-org/gitlab/issues).
+When an issue for either GitLab.com or self-hosted installations is confirmed (bug, regression etc), it will be reported on the main [GitLab project issue tracker](https://gitlab.com/gitlab-org/gitlab/issues). As a Support Team member, most issues will be reported here, however you might report issues in one of the other following areas listed below (based on the specific feature or product):
 
-For issues specific to GitLab.com (e.g. bug with payments), that are not related to site availability, we have the [gitlab.com issue tracker](https://gitlab.com/gitlab-com/support-forum/issues). As a Support Team member, you might open an issue there based on a .com customer ticket. Ensure that you assign the issue to yourself to enable you to keep track of the issue and also to enable other Support Engineers to easily pick up on unassigned tasks at a glance. Some people use this issue to report issues they are having with their self-hosted installation. In that case, you should refer them to the [issue tracker](https://gitlab.com/gitlab-org/gitlab/issues) or to our [get help](/get-help/) page, depending on the issue they are having.
+- [GitLab Runner issue tracker](https://gitlab.com/gitlab-org/gitlab-runner/-/issues) for issues specific to GitLab Runners.
+- [GitLab Charts issue tracker](https://gitlab.com/gitlab-org/charts/gitlab/-/issues) for issues specific to GitLab Helm Charts.
+- [GitLab Omnibus issue tracker](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues) for issues specific to GitLab Omnibus.
+- [GitLab Documentation issue tracker](https://gitlab.com/gitlab-org/gitlab-docs/-/issues) for issues specific to documentation.
+- [GitLab.com Support issue tracker](https://gitlab.com/gitlab-com/support-forum/-/issues?scope=all&utf8=%E2%9C%93&state=all) to search for archived GitLab.com issues (no longer used). 
 
 ## Non Channel Work
 
