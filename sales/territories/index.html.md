@@ -118,7 +118,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | NorCal | **ENT-NC-Named Santa Clara 3** | Alan Cooke* | Madison Taft |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 4** | Michael Scott | Aaron Young |
 | NA West | NorCal | **Large-AMER-NorCal | Jim McMahon** | Jim McMahon* | Isaac Mondesir |
-| NA West | NorCal | **Large-AMER-NorCal | Alan Cooke** | Alan Cooke* | Isaac Mondesir |
+| NA West | NorCal | **Large-AMER-Bay Area-1** | Alyssa Belardi | Isaac Mondesir |
 
 #### Public Sector
 
