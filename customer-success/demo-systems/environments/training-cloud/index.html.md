@@ -1,0 +1,133 @@
+---
+layout: handbook-page-toc
+title: "Training Cloud Omnibus-as-a-Service"
+---
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+## Overview
+
+The demo systems that we call the GitLab Training Cloud provides a perpetual shared GitLab instance that is used for Professional Services training classes and field marketing enablement workshops with hands-on lab scenarios. The GitLab Training Cloud is comparable to our hosted gitlab.com SaaS service, however it allows greater flexibility for demonstration and sandbox purposes without affecting our production environment.
+
+The GitLab Training Cloud provides you access to Ultimate license features with your own user account and an organizational group that you can use for creating projects and child groups. We also handle all of the GitLab Runner autoscaling and Kubernetes configuration behind the scenes. 
+
+
+
+## Version 1
+
+The Training Cloud v1 shares the [gitlab-core.us.gitlabdemo.cloud](https://gitlab-core.us.gitlabdemo.cloud) Omnibus instance with our Demo Cloud.
+
+* Shared GitLab (Core) Instance
+* Shared GitLab Runners
+* Shared Kubernetes Cluster
+
+### How It Works
+
+#### Self-service workflow for creating an invitation code
+
+1. Visit the [Invitation Codes Admin UI](https://gitlabdemo.com/invitations) to create a new invitation code. A new 8-character invitation code is generated that will be shared across all students, instructors and organizers for this class or workshop session.
+1. A new GitLab group will be created on the Omnibus instance for your session. (Ex. `https://gitlab-core.us.gitlabdemo.cloud/training-users/session-a1b2c3d4/`)
+1. You can create, import, or transfer projects that you have created into the session's sample projects child group (Ex. `/training-users/session-a1b2c3d4/sample-projects-a1b2c3d4/lab-scenario1`). 
+    * You will perform this using your credentials that you use for the Demo Cloud that provides you with Admin access to the Omnibus instance and all of the groups that you'll need to access. 
+    * The sample projects group will expire and be deleted after your session is over, so it is recommended to keep the "golden master copy" of your sample projects in the [Training and Workshop Sample Projects](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects) (Ex. `/training-sample-projects/workshop-name/lab-scenario1`) group and [export/import the project](https://docs.gitlab.com/ee/user/project/settings/import_export.html) into the session's sample projects (Ex. `/training-users/session-a1b2c3d4/sample-projects-a1b2c3d4/lab-scenario1`). Keep in mind that the Import from URL functionality only include all of the [contents of a project](https://docs.gitlab.com/ee/user/project/settings/import_export.html#exported-contents), so a full `tar` export is recommended. 
+1. Navigate to the Session group and configure [Group-level Project Templates](https://docs.gitlab.com/ee/user/group/custom_project_templates.html#setting-up-group-level-project-templates) and choose the `Sample Projects` child group from the drop down menu. This step is not automated since it is [not available in the API](https://gitlab.com/gitlab-org/gitlab/-/issues/296883). 
+
+#### Test your invitation code and sample projects.
+
+1. Open a new browser window in incognito mode (for a fresh authentication session).
+1. Redeem the invitation code like a student will at [https://gitlabdemo.com/invite](https://gitlabdemo.com/invite).
+1. Use the credentials provided to login to the GitLab instance.
+1. Navigate to your `My Test Group - a1b2c3d4` group, or use the blue `My Group` button on `gitlabdemo.com`.
+1. Create a new project choose `Import from Template`.
+1. You will find your sample projects under the `Group` tab and click the `Use template` button to import.
+1. Create a slide deck or use an [existing example for student lab instructions](https://docs.google.com/presentation/d/1ZKZSecu7orWyQxY8m-et26RQI2-ZELVaFuIrJxNN6-Q/edit?usp=sharing). These should be detailed enough to be followed async by a student.
+1. Perform your lab steps as if a student is following your instructions. Make any tweaks and corrections to make it flow easy for the student. This may take several hours or several iterations with multiple people. Each team member that's helping you can redeem the invitation code to create an account, and you can also redeem the invitation code multiple times in different incognito windows for a fresh session.
+1. Update your slide deck and/or sample project README with any changes you discovered during your testing.
+1. Take note of any challenges that you run into for your review discussion with the Demo Systems team. You may add them as comments on the issue you will create below.
+
+#### Demo Systems team scalability review
+
+1. Create an issue in the Demo Systems issue tracker using the [workshop_sample_projects_review](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/new?issueable_template=workshop_sample_projects_review) issue template. Follow the instructions in the issue description.
+1. The Demo Systems team will comment on the issue with async technical review of your lab scenarios and sample projects to identify scalability concerns. Here's some of the things we're looking for with scalability challenges.
+    * Autoscaling runners for 500 simultaneous pipelines started in 10 seconds
+    * Autoscaling Kubernetes nodes for 500 simultaneous review apps/deployments in 60 seconds
+    * Auto DevOps pipelines that consume lots of wasted resources
+    * Kubernetes services that are not needed (ex. Postgres database)
+    * Intensive test jobs that are not needed during workshop (ex. Code Quality, Dependency Scanning, etc.)
+    * Project export/import queued job fails with 500 simultaneous project imports
+    * Features in your project that have known issues with import/export process (ex. wikis)
+    * Administrative access for students (alternative use cases)
+    * Package registry caching and garbage collection
+    * Container registry caching and garbage collection
+    * CI images pulling from Docker Hub with rate limits
+    * CI image versions that are incompatible or have been upgraded with bug fixes
+    * Using templates in `.gitlab-ci.yml` without realizing the underlying job load.
+    * Using custom `.gitlab-ci.yml` files without comments of the actions being performed
+    * Dependency proxy configuration (particularly for npm and maven dependencies)
+    * Lack of step-by-step instructions that leads to student misconfigurations and errors
+1. A Zoom call will be scheduled to review the findings and discuss anything important or noteworthy.
+1. After the Demo Systems team approves your sample projects, you're ready for your workshop.
+
+#### Prepare for your class or workshop
+
+1. Share the invitation code with the event organizer in the GitLab issue or Slack channel.
+1. Create a Slack thread in `#demo-systems-workshops-{region}` for real-time support.
+
+#### During the class or workshop
+
+1. Post a message in the Slack thread when you start your workshop and end your workshop to let the Demo Systems team know for verifying autoscaling configuration for Runners, etc.
+1. Use the [slides to show students how to properly redeem an invitation code](https://docs.google.com/presentation/d/1ZKZSecu7orWyQxY8m-et26RQI2-ZELVaFuIrJxNN6-Q/edit?usp=sharing).
+1. Post messages in the Slack thread if you see problems and need triage assistance. 
+1. Ask students to perform an export of their project if they want to keep it and re-import it on GitLab.com or another Omnibus instance in their own environment.
+
+#### After the class or workshop
+
+1. If you want to keep any sample projects or you made changes that aren't reflected in the projects that you imported from originally, transfer these projects to the [Training and Workshop Sample Projects](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects) (Ex. `/training-sample-projects/workshop-name/lab-scenario1`) group or your own namespace.
+1. The session group and all sample projects and student groups will be destroyed during garbage collection on the date shown in the [Invitation Codes Admin UI](https://gitlabdemo.com/invitations) at 00:00 UTC. As a rule of thumb, copy anything from the session group to another location by the end of the day after your class or workshop is over to avoid data loss.
+
+#### Extension Policy
+
+1. We do not extend workshops since it is very resource intensive to keep resources around. Any student that needs more time should export their project(s) and import them on GitLab.com or Omnibus instance in their own environment.
+1. We can extend Professional Services class access only if the request is received before the expiration date of the user account and/or invitation code. We cannot extend after garbage collection scripts have been run.
+
+## Version 2
+
+The Training Cloud v2 environment is a WIP. You can see the GitLab projects for this initiative in the [Training Cloud](https://gitlab.com/gitlab-com/demo-systems/training-cloud) GitLab group. We are building v2 using infrastructure-as-code that we publish as open source for our community in the [Sandbox Cloud Terraform modules](https://gitlab.com/gitlab-com/sandbox-cloud/tf-modules) and [Sandbox Cloud Ansible roles](https://gitlab.com/gitlab-com/sandbox-cloud/ansible-roles) groups. We are [exploring the use of HashiCorp Packer](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/55) for easier distribution of pre-configured images in upcoming iterations.
+
+## Version Upgrades and Maintenance
+
+We perform version upgrades on the weekend following the 22nd of each month. The weekend upgrades are performed at a random time on Saturday or Sunday based on engineer availablility and lasts for approximately 30 minutes.
+
+We delay the upgrade window for updates that we consider risky or occur during holidays. This occurs during May each year when the major version of GitLab is released and usually aligns with the US Memorial Day holiday, in December around the Christmas Holiday, and in January at the end of the fiscal year when we have a configuration freeze until sales demos are completed. 
+
+In the current iteration, it is assumed that all classes and workshops will use the latest version of GitLab with an Ultimate license. In the future, we may considering offering version-specific or license/tier specific environments for each class or workshop.
+
+For patch and security updates, we will usually only perform upgrades for critical updates and will announce maintenance windows in the `#demo-systems` channel on Slack.
+
+### FY22 Upgrade Schedule
+
+| GitLab Version | Release Date     | Upgrade Window (Sat to Sun) |
+|----------------|------------------|-----------------------------|
+| v13.9          | 2021-02-22 (Mon) | 02-27 to 02-28              |
+| v13.10         | 2021-03-22 (Mon) | 03-27 to 03-28              |
+| v13.11         | 2021-04-22 (Thu) | 04-24 to 04-25              |
+| v14.0          | 2021-05-22 (Sat) | 06-05 to 06-06 (delay)      |
+| v14.1          | 2021-06-22 (Tue) | 06-26 to 06-27              |
+| v14.2          | 2021-07-22 (Thu) | 07-24 to 07-25              |
+| v14.3          | 2021-08-22 (Sun) | 08-28 to 08-29              |
+| v14.4          | 2021-09-22 (Wed) | 09-25 to 09-26              |
+| v14.5          | 2021-10-22 (Fri) | 10-23 to 10-24              |
+| v14.6          | 2021-11-22 (Mon) | 11-27 to 11-28              |
+| v14.7          | 2021-12-22 (Wed) | 01-01 to 01-02 (delay)      |
+| v14.8          | 2022-01-22 (Sat) | 02-05 to 02-06 (delay)      |
+
+### Legacy Version Support
+
+We keep our shared environment up-to-date with the latest versions to help showcase the value that the newest features and solutions offer.
+
+For demo and sandbox use cases requiring an older version, you can deploy a GitLab instance in a container in the Container Sandbox or using Omnibus in the Compute Sandbox. We do not offer any data migration or parity configuration support.
+
