@@ -11,17 +11,23 @@ title: "Digital Marketing Programs"
 
 ## Digital Marketing Programs (DMP)
 
-The Digital Marketing Programs team attracts new visitors through organic and paid channels, tests incremental changes for conversion rate improvement, builds and manages digital marketing campaigns, and tracks campaign performance.
+The Digital Marketing team generates new prospects through paid channels by building & managing digital marketing campaigns, testing incremental changes for conversion rate improvement, and tracking campaign performance.
 
-* [Role](/job-families/marketing/digital-marketing-programs-manager/)
-* [Responsibilities](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/)
+### Team
+ 
+- [Matt Nguyen](https://gitlab.com/mnguyen4) - Manager, Digital Marketing
+- [Leslie Stinson](https://gitlab.com/lstinson) - Digital Marketing Manager
+
+[Click here](/job-families/marketing/digital-marketing-programs-manager/) to learn about the Digital Marketing Programs role.
+
+**To learn about our Digital Marketing strategy and processes at length, head over to our [Digital Marketing Management page.](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/)**
 
 ## DMP responsibilities
-* Paid media management
+Digital Marketing is responsible for planning, launching, and optimizing paid ad campaigns, with a focus on top of funnel demand generation to fill pipeline.  
 
 ## Reporting
 
-Information about reporting done by the Digital Marketing Programs team and across the Marketing functional group can be found in the [Fiel Operations - Reporting](/handbook/sales/field-operations/gtm-resources/#reports-and-dashboard-naming-convention) section.
+Information about reporting done by the Digital Marketing Programs team and across the Marketing functional group can be found in the [Reporting](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/) section of the Digital Marketing Management page.
 
 ## Digital Marketing Tools
 
