@@ -80,7 +80,6 @@ When an issue for either GitLab.com or self-hosted installations is confirmed (b
 - [GitLab Charts issue tracker](https://gitlab.com/gitlab-org/charts/gitlab/-/issues) for issues specific to GitLab Helm Charts.
 - [GitLab Omnibus issue tracker](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues) for issues specific to GitLab Omnibus.
 - [GitLab Documentation issue tracker](https://gitlab.com/gitlab-org/gitlab-docs/-/issues) for issues specific to documentation.
-- [GitLab.com Support issue tracker](https://gitlab.com/gitlab-com/support-forum/-/issues?scope=all&utf8=%E2%9C%93&state=all) to search for archived GitLab.com issues (no longer used). 
 
 ## Non Channel Work
 
