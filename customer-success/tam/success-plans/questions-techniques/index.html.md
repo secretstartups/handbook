@@ -96,6 +96,10 @@ We also want to ask about Stage Adoption metrics so that we can tie their GitLab
   - What tools do you use to organize, plan and track project work?
   - Describe your issue and epic workflow.
   - What percentage of your users/teams are using GitLab for this?
+  - Do you have a separate QA department?
+  - Describe the workflow between the dev team and the QA team?
+  - Are you using some tools to create and manage the QA test plans?
+
 - **Create**
   - Where do you manage your code base?
   - What processes do you follow for code reviews?
