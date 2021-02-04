@@ -26,18 +26,24 @@ These are some of the reasons we use a success plan:
 - Serve as baseline to [track delivery of outcomes and adoption](/handbook/customer-success/tam/stage-adoption/)
 - Provide a foundation for the [TAM cadence call](/handbook/customer-success/tam/cadence-calls/) to give relevance to each touchpoint, and lead outcomes-based discussions such as the [Executive Business Reviews](/handbook/customer-success/tam/ebr/)
 
-## Understand the Customer’s Motivation
+Success plans are another facet of [account engagement](/handbook/customer-success/tam/engagement/) and are a separate entity than collaboration projects. The success plan is meant for articulating and tracking high-level strategic business objectives, while collaboration projects are best used for technical and tactical initiatives and to act as the primary communication method besides cadence calls on a day-to-day basis on issues to solve.
 
-Before we can develop a success plan, we need to understand what is driving the _customer's_ usage of GitLab. This goes beyond the features they are interested in, and extends to the business value GitLab provides.
+As you read through this page, you'll likely notice that the success plan is continually described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the TAM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
+
+### Success Plan Prerequisites
+
+#### Understand the Customer’s Motivation
+
+Before we can develop a success plan, we need to understand what is driving the customer's usage of GitLab. This goes beyond the features they are interested in, and extends to the business value GitLab provides.
 
 - Review the opportunity [Command Plan](/handbook/sales/command-of-the-message/command-plan/) in Salesforce
 - Work with the SAL/AE and SA to understand the customer's reasons for purchasing (e.g. [Value Driver](/handbook/sales/command-of-the-message/#customer-value-drivers)) and their expectations or Positive Business Outcomes (PBOs), as well as any potential risks or barriers, key stakeholders, and any other relevant information regarding their desire to use GitLab
 - [Prepare discovery questions to discuss with the customer](/handbook/customer-success/tam/success-plans/questions-techniques/) to collect any missing information
 - Review [account onboarding](/handbook/customer-success/tam/onboarding/) and [account engagement](/handbook/customer-success/tam/engagement/) for additional information that is useful to collecting information and developing a relationship
 
-## Talk with the Stakeholders
+#### Talk with the Stakeholders
 
-All stakeholders should agree on the business objectives that the customer is pursuing, which products and services will help them reach that goal, and to keep the scope focused to 1-3 objectives. As you close out objectives, you can restart the process to define and add new ones.
+All stakeholders should agree on the business objectives that the customer is pursuing, which products and services will help them reach that goal, and to keep the scope focused to 1-3 objectives. As you close out [objectives](/#objectives), you can restart the process to define and add new ones.
 
 [Prepare questions](/handbook/customer-success/tam/success-plans/questions-techniques/) to validate your existing knowledge of the customer's business outcomes and pain points, and learn about business outcomes you don't know yet.
 
@@ -50,7 +56,7 @@ For each business objective, review with the customer:
 - Are there deadlines for individual steps or overall completion?
 - Key contributions & responsibilities of everyone involved
 
-## Success Plans are Living Documents
+#### Success Plans are Living Documents
 
 It's important to share progress with everyone involved as time goes on. The Sales team and the customer should both be kept up to date on where the success plan objectives and tasks stand, so they can continue working on new tasks and in turn sharing the progress with anyone else they think should be aware.
 
@@ -64,30 +70,94 @@ To keep track that the success plan is up to date, use the custom date field on 
 
 Internally, TAMs can use the data to track their own trends and objectives achieved over time (e.g. quarter over quarter reports) and use the progress of the success plan to measure the [ROI health scorecard](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
-## ROI Success Plan
+### Create a Success Plan in Gainsight
+
+[Gainsight](/handbook/customer-success/tam/gainsight/) is the platform we use to develop and manage success plans. Below are the steps to create a success plan, followed by best practices and recommendations to apply these steps in practice.
+
+When a TAM is assigned to an account, a draft ROI Success Plan will be automatically created with a due date 365 days from the day it is created. To create an additional success plan in Gainsight, perform the following steps:
+
+1. From the Gainsight NXT home page, navigate to the customer's page
+1. From the menu on the left-hand side of the screen, choose "Success Plan"
+1. In the upper right-hand side, click "+ Success Plan"
+1. Add a Name for the success plan, e.g. "`Customer Name` ROI Success Plan" for customer-facing plans and "`Customer Name` Internal Success Plan" for internal plans
+1. Add Type as "ROI Success Plan" for customer-facing plans or "Stage Adoption" for internal plans
+   1. If a customer wants to adopt a stage as one of their goals, don't worry! This still falls under a "ROI success plan" and will be categorized as a "Stage Adoption" objective
+1. Set the "Due Date" as end of GitLab's fiscal calendar or a date logical given the content of the success plan
+1. Click "Save"
+
+After a success plan is created, you will need to input the [strategy](/#strategy), [highlights](/#highlights), and [objectives](/#objectives) that you've collected from working with the customer.
+
+Success plans can have multiple objectives, though it’s best to only have up to three at a time for focus and achievability. Key components of the objectives in the success plan include:
+
+- **Name**: Objective title, such as “Cut Time to First Commit by 20%”
+- **Owner**: Who is invested in this objective
+- **Due Date**: Due date for the objective
+- **Objective Category**:  Indicate if the objective is Stage Adoption or ROI Success (if the objective is focused on stage adoption, even if it also add to their ROI, choose "Stage Adoption" as we track metrics on this)
+- **Stage Name**: if the objective category above is `Stage Adoption`, then select from this dropdown which stage you're helping the customer adopt
+- **Status**: Mark the objective “New” or “Work in Progress”
+- **Priority**: Indicate if the priority is Low, Medium, or High
+- **Playbook**: If the objective is for Stage Adoption, choose the corresponding playbook (or customize your own!)
+- **Success Criteria**: Indicate what will need to happen for this objective to be considered successful (you can log Activity updates to capture progress)
+- **Comments**: Share any info that might be relevant to the objective (e.g. potential blockers, architecture details, or other important details worth mentioning)
+
+Objectives should be actionable, and Gainsight provides a way to create action items as part of the objective, called tasks. A task in Gainsight is equivalent to a milestone in GitLab's historical success plan terminology. In short, the objective is the goal and the set of tasks are the way to get there (similar to Objectives and Key Results).
+
+To create [tasks](/#tasks), perform the following steps:
+
+1. Click on the objective so that the side panel appears on the right
+1. To the right of the due date, click the three vertical dots, and click "Add Task"
+1. Fill out the details of the task:
+   - **Name**: The title of the task, such as "Establish baseline metrics for comparison"
+   - **Owner**: The person who is responsible for this task
+   - **Due Date**: When the task should be completed by
+   - **Status**: Mark the task as “New” or “Work in Progress”
+   - **Priority**: In relation to other tasks for the objective, how important is it?
+   - **Description**: Any additional details that are helpful to understanding what the task is, such as external references, risk factors that could impact the task, etc.
+   - **Milestone Details**: Additional details specific to our success plan structure
+     - **Customer DRI**: Who on the customer side is responsible for the task?
+     - **Milestone Risk**: How significant are the risk factors that could impact being able to complete the task?
+     - **Progress (%)**: How far along is the task?
+
+Tasks will affect the overall completion of the objective, and provide more granular visibility into progress on the objective when looking at the Gantt chart. To do this, navigate to the Gantt chart tab (next to the Objectives tab) in the success plan and confirm the representation captures the plan. You can adjust dates accordingly (for example, if a task actually started in the past but the entry defaulted its start date to today's date).
+
+Finally, next to the success plan due date, change the "Status" of the success plan from "Draft" to "Active". Don't forget this step, as it determines if your success plan with have a green [health score](/handbook/customer-success/tam/health-score-triage/) and if your objectives will show up in your cockpit.
+
+### Types of Success Plans
+
+#### ROI Success Plan
 
 The ROI success plan is the "public-facing" plan that we develop and maintain in collaboration with the customer. It is intended to be shared between GitLab and the customer, and should be considered the foundation of our strategic engagement and the reference for an [Executive Business Review](/handbook/customer-success/tam/ebr/).
 
 This success plan contains a few key components that combine to provide a summary of the customer, their business outcomes, and what we are doing to achieve them with GitLab.
 
-**Note:** as you read through each of the sections, you'll likely notice that each part is described as part of a living document - this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the TAM maintains on an ongoing basis, and [iterates](/handbook/values/#iteration) as they learn new information.
+##### Sharing a ROI Success Plan
 
-### Strategy
+To share a ROI Success Plan, click the link icon next to the success plan due date and status, search for the users you want to share it with, then click "Preview and Send" and send the email. Alternatively, you can export the success plan by clicking "Export" at the top right.
 
-The strategy section is a high-level overview of what **GitLab** is doing with the customer. At a glance, the reader should be able to see what we plan to do with the customer to drive value and success, and also to improve adoption and growth. This does not need to be as detailed as the [objectives](#objectives), but it should still let the reader understand what our overall plan is.
+#### Expansion: Internal Only Success Plan
 
-### Highlights
+When planning for future initiatives you want to work on with your customer that aren't yet on the roadmap, the internal success plan is the right approach. Unlike the [ROI Success Plan](#roi-success-plan), the internal plan is internal to GitLab only. It is for use by the TAM and the rest of the account team to keep track of things you're working on and/or plan to do at a later point.
 
-Customer highlights, like the [strategy section](#strategy), is a high-level overview of the **customer**. This can include:
+A good example of when to use an internal success plan is when the team is working on [stage expansion](/handbook/customer-success/tam/stage-enablement-and-expansion) (as opposed to stage enablement).
+
+### Components of a Success Plan
+
+#### Strategy
+
+The strategy section is a high-level overview of what GitLab is doing with the customer. At a glance, the reader should be able to see what we plan to do with the customer to drive value and success, and also to improve adoption and growth. This does not need to be as detailed as the [objectives](#objectives), but it should still let the reader understand what our overall plan is. This is required and especially important for ROI success plans, but still important for internal success plans so it's easy to understand what our strategy is.
+
+#### Highlights
+
+Customer highlights, like the [strategy section](#strategy), is a high-level overview of the customer. This can include:
 
 - The business the customer is in
 - Major focuses, interests, pain points, etc.
 - Our relationship with the customer
 - Risk factors to their continued relationship with us
 
-Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they bought GitLab, and what they are interested in achieving.
+Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they bought GitLab, and what they are interested in achieving. The highlights section is also required for ROI success plans and recommended for internal success plans.
 
-### Objectives
+#### Objectives
 
 Objectives are at the heart of a strong success plan, because they describe both the intended business outcomes and the actions we will take to achieve those outcomes. Well-crafted objectives provide an actionable plan that resonates with everyone involved, both within GitLab and on the customer side.
 
@@ -99,24 +169,37 @@ A good objective should contain three components:
 
 With these three elements, you can develop an objective that allows you to track progress on the actual implementation, while measuring progress and tying the results back to a strategic business outcome. You are able to address the needs of the customer's operations team, as well as their business and strategic interests.
 
-#### Objective Categories
+##### Objective Categories
 
-There are two types of objectives: **Stage Adoption** and **ROI**.
+There are two types of objectives: Stage Adoption and ROI.
 
-- **Stage Adoption** objectives are intended to be used only when the end result of the objective is [measurable adoption of a GitLab product stage](/handbook/customer-success/tam/stage-adoption/). For example, if you are going to be driving adoption of GitLab CI (Verify stage) to achieve the stated business outcome, you would categorize the objective as Stage Adoption. Please [reference the enablement material](#open-and-categorize-a-stage-adoption-objective-within-a-success-plan-in-gainsight) for more information, and guidance on creating a stage adoption objective.
-- **ROI** objectives are essentially for anything that isn't explicitly stage adoption. Examples include implementing HA architecture, or enabling integration with existing tools.
+- **Stage Adoption** objectives are intended to be used only when the end result of the objective is [measurable adoption of a GitLab product stage](/handbook/customer-success/tam/stage-adoption/). For example, if you are going to be driving adoption of GitLab CI (Verify stage) to achieve the stated business outcome, you would categorize the objective as Stage Adoption.
+- **ROI** objectives are essentially for anything that isn't explicitly stage adoption that ties to the customer's positive business outcomes and continued value-add from GitLab. Examples include implementing HA architecture, or enabling integration with existing tools.
 
-#### Business Outcomes vs. Value Drivers
+##### Open and Categorize a Stage Adoption Objective within a Success Plan in Gainsight
+
+Stage adoption can consist of two different motions: [stage enablement and stage expansion](/handbook/customer-success/tam/stage-enablement-and-expansion), and each belongs in a specific success plan. Understanding the differences and similarities between these motions is key to properly building your success plans and driving stage adoption plays.
+
+Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) (GitLab only) on how to open a stage adoption objective and categorize it correctly in Gainsight to enable reporting on our team's progress; the topics the video includes are:
+
+1. How to determine when to use a ROI Success Plan and when to use a Expansion: Internal Only Success Plan
+1. How to create the stage adoption objective
+1. How to categorize the stage adoption objective within the CTA so that it reflects the correct stage
+1. What is not considered stage adoption
+
+##### Business Outcomes vs. Value Drivers
 
 When talking to customers about their objectives, we want to [level up the conversation to strategic outcomes](/handbook/customer-success/tam/success-plans/questions-techniques/#leveling-up-from-operationaltechnical-to-strategic). Ideally, the customer will provide us a business outcome in their own words. However, we won't always be able to get that from the customer, and in which case we can use our [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome.
 
-**Tip:** When evaluating the customer's articulated outcome, a good way to know if it's a strategic outcome is whether you can connect it directly to one of our value drivers. In practice, if you can describe the connection between the outcome and a value driver with little to no intermediary explanation, it's likely a strategic outcome.
+When evaluating the customer's articulated outcome, a good way to know if it's a strategic outcome is whether you can connect it directly to one of our value drivers. In practice, if you can describe the connection between the outcome and a value driver with little to no intermediary explanation, it's likely a strategic outcome.
 
-#### Example Objectives
+##### Example Objectives
 
 Now that we've gone through the parts of a good objective, let's review some examples of good ones as well as ones that could use improvement.
 
-##### Good
+**Good**
+
+Example 1:
 
 > **Title:** Reduce SDLC times with higher reliability by implementing HA
 >
@@ -128,6 +211,8 @@ Now that we've gone through the parts of a good objective, let's review some exa
 
 This example provides the three main components. We have the "what" (higher reliability by implementing HA), the "why" (Reduce SDLC times), and the metrics that will let us determine whether we've achieved the objecive, both strategic (SDLC time reduction target) and operational (uptime and scalability).
 
+Example 2:
+
 > **Title:** Reduce security risk and operating costs by adopting SAST
 >
 > **Category:** Stage Adoption
@@ -137,6 +222,8 @@ This example provides the three main components. We have the "what" (higher reli
 > **Comments:** The customer wants to adopt the "shift left" security model, and conduct static code scanning earlier in the SDLC. They have an existing tool that runs late in the cycle and is expensive.
 
 Here we have all of the elements, and actually even have two strategic outcomes with one objective! The customer has given us reducing risk and cost reductions (efficiency). Since this is a new part of GitLab that the customer wants to use it's a Stage Adoption objective. We have both a metric related to the adoption across projects, as well as a "binary metric" of replacing a different tool with GitLab. The additional details in the comments help us to shape the narrative of the value we're providing.
+
+Example 3:
 
 > **Title:** Deliver better products faster by adopting GitLab CI
 >
@@ -148,7 +235,9 @@ Here we have all of the elements, and actually even have two strategic outcomes 
 
 This objective is using one of our [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome. The metrics allow us to track both new projects and existing projects, but as two separate items since they require a different approach. The comments let us describe additional reasons for doing this.
 
-##### Needs Improvement
+**Needs Improvement**
+
+Example 1:
 
 > **Title:** GitLab CI
 >
@@ -159,6 +248,8 @@ This objective is using one of our [value drivers](/handbook/sales/command-of-th
 > **Comments:** Customer wants to use GitLab CI more.
 
 This objective is lacking in general detail, and provides no strategic outcome for the listed action. There is no definitive metric. At best we can call this an operational outcome since it focuses on tool usage, but since we don't know why they want to use it we can't determine whether they're getting the desired result and value.
+
+Example 2:
 
 > **Title:** Improve reliability with HA
 >
@@ -176,113 +267,30 @@ The tasks for an objective are the actual steps we will take to acheive the obje
 
 Here is an example of a task list that is too broad:
 
-> - Initial discovery meeting
-> - Provide implementation plan
-> - Implement GitLab CI
+```
+- Initial discovery meeting
+- Provide implementation plan
+- Implement GitLab CI
+```
 
 The time between each of these tasks is likely weeks, and there is no detail about _how_ we're actually going to implement CI.
 
 Here's a task list that's a little more actionable and detailed:
 
-> - Initial discussion about adopting GitLab CI
-> - Schedule discovery call with stakeholders
-> - Complete discovery call
-> - Send follow-ups and review the interests discussed during discovery call
-> - Schedule implementation plan review meeting
-> - Finalize the implementation plan with the customer during review meeting
-> - Progress check-in meeting
-> - Evaluate metrics from the first phase of implementation
-> - Progress check-in meeting
-> - Evaluate metrics from the second phase of implementation
-> - Progress check-in meeting
-> - Complete implementation in accordance with implementation plan
-> - Evaluate metrics after implementation plan has been completed
+```
+- Initial discussion about adopting GitLab CI
+- Schedule discovery call with stakeholders
+- Complete discovery call
+- Send follow-ups and review the interests discussed during discovery call
+- Schedule implementation plan review meeting
+- Finalize the implementation plan with the customer during review meeting
+- Progress check-in meeting
+- Evaluate metrics from the first phase of implementation
+- Progress check-in meeting
+- Evaluate metrics from the second phase of implementation
+- Progress check-in meeting
+- Complete implementation in accordance with implementation plan
+- Evaluate metrics after implementation plan has been completed
+```
 
 The level of detail provides a step-by-step path to moving the customer from the starting point to completion, and accounts for the need to monitor progress on a regular basis.
-
-## Internal Success Plan
-
-When planning for future initiatives you want to work on with your customer that aren't yet on the roadmap, the internal success plan is the right approach. Unlike the [ROI Success Plan](#roi-success-plan), the internal plan is (as the name suggests) internal to GitLab only. It is for use by the TAM and the rest of the account team to keep track of things you plan to do at a later point.
-
-## Differences between Collaboration Projects and Success Plans
-
-### Collaboration Projects
-
-Collaborations projects are meant for continuous use with our customers to track/create issues, collaborate with product/SAs/others on feature requests, engagements, blockers, etc. The collaboration project is often focused on the tactical, day-to-day, and is more specific to Developers, DevOps Leads, Engineering Managers, and Admins, because they use it to talk about issues to solve as opposed to an overall business objectives.
-
-Within the collaboration project, TAMs focus on new/closed/open issues and collaboration with the customer on these issues. It's the primary communication method for the TAM to communicate with the customer on a day-to-day basis and is a way to help the customers adopt using GitLab.
-
-For additional details, see [Account Engagement](/handbook/customer-success/tam/engagement/).
-
-### Success Plans
-
-Gainsight ROI Success Plans are a separate entity, as they are meant for articulating and tracking business objectives, typically with executive sponsors, decision-makers, and economic buyers. The succcess plans focus on high-level strategic objectives, instead of the technical and tactical initiatives that are covered in the collaboration project.
-
-TAMs use success plans as part of their EBRs to share insights, progress, and objectives to offer deeper insight into their organization and the value of GitLab, as success plans can track progress towards goals and report on it to the executives.
-
-## Gainsight Guide
-
-### Create a Success Plan in Gainsight
-
-[Gainsight](/handbook/customer-success/tam/gainsight/) is the platform we use to develop and manage success plans. Applying the information outlined above, we can follow these steps to create a Gainsight success plan.
-
-**Note:** When a TAM is assigned to an account, a draft ROI Success Plan will be automatically created with a due date 365 days from the day it is created.
-
-To create an additional success plan in Gainsight, perform the following steps:
-
-1. From the Gainsight NXT home page, navigate to the customer's page
-1. From the menu on the left-hand side of the screen, choose "Success Plan"
-1. In the upper right-hand side, click "+ Success Plan"
-1. Add a Name for the success plan, e.g. "Customer Name ROI Success Plan" for customer-facing plans and "Customer Name Stage Adoption Success Plan" for internal plans
-1. Add Type as "ROI Success Plan" for customer-facing plans or "Stage Adoption" for internal plans
-   1. As noted below, a `Stage Adoption` objective can be listed under an ROI Success Plan if that is an explicit customer goal
-1. Set the "Due Date" as end of GitLab's fiscal calendar or a date logical given the content of the success plan
-1. Click "Save"
-
-After creating a success plan, you will need to input the objectives that you've collected. Success plans can have multiple objectives, though it’s best to limit it to 1-3 for focus and achievability. Key components of the objectives in the success plan include:
-
-- **Name**: Objective title, such as “Cut Time to First Commit by 20%”
-- **Owner**: Who is invested in this objective
-- **Due Date**: Due date for the objective
-- **Objective Category**:  Indicate if the objective is Stage Adoption, Rev Expansion, or ROI Success
-- **Stage Name**: if the objective category above is `Stage Adoption`, then select from this dropdown which stage you're helping the customer adopt
-- **Status**: Mark the objective “New” or “Work in Progress”
-- **Priority**: Indicate if the priority is Low, Medium, or High
-- **Playbook**: If the objective is for Stage Adoption, choose the corresponding playbook (or customize your own!)
-- **Success Criteria**: When you first create the Objective (and each time you check in with the customer), log an Activity update on it to capture the progress
-- **Comments**: Share any info that might be relevant to the objective (e.g. potential blockers, architecture details, or other important details worth mentioning)
-
-Objectives should be actionable, and Gainsight provides a way to create action items as part of the objective, called tasks. A task in Gainsight is equivalent to a milestone in GitLab's historical success plan terminology. In short, the objective is the goal and the set of tasks are the way to get there (similar to Objectives and Key Results).
-
-To create a task, perform the following steps:
-
-1. Click on the objective so that the side panel appears on the right
-1. To the right of the due date, click the three vertical dots, and click "Add Task"
-1. Fill out the details of the task:
-   - **Name**: The title of the task, such as "Establish baseline metrics for comparision"
-   - **Owner**: The person who is responsible for this task
-   - **Due Date**: When the task should be completed by
-   - **Status**: Is the task ongoing or completed?
-   - **Priority**: In relation to other tasks for the objective, how important is it?
-   - **Description**: Any additional details that are helpful to understanding what the task is, such as external references, risk factors that could impact the task, etc.
-   - **Milestone Details**: Additional details specific to our success plan structure
-     - **Customer DRI**: Who on the customer side is responsible for the task?
-     - **Milestone Risk**: How significant are the risk factors that could impact being able to complete the task?
-     - **Progress (%)**: How far along is the task?
-
-Tasks will affect the overall completion of the objective, and provide more granular visibility into progress on the objective when looking at the Gantt chart. To do this, navigate to the Gantt chart tab (next to the Objectives tab) in the success plan and confirm the representation captures the plan. You can adjust dates accordingly (for example, if a task actually started in the past but the entry defaulted its start date to today's date).
-
-Finally, next to the success plan due date, change the "Status" of the success plan from "Draft" to "Active".
-
-### Open and Categorize a Stage Adoption Objective within a Success Plan in Gainsight
-
-Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) on how to open a stage adoption objective and categorize it correctly in Gainsight to enable reporting on our team's progress (GitLab only). Video includes:
-
-1. How to determine when to use an ROI Success Plan and when to use a Stage Adoption Success Plan (as defined above)
-1. How to create the stage adoption objective
-1. How to tag the stage adoption objective within the CTA so that it reflects the correct stage
-1. What is not considered stage adoption
-
-### Share a ROI Success Plan
-
-To share a ROI Success Plan, click the link icon next to the success plan due date and status, search for the users you want to share it with, then click "Preview and Send" and send the email. Alternatively, you can export the success plan by clicking "Export" at the top right.
