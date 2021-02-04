@@ -262,7 +262,7 @@ The GitLab Partner Portal is a resource for our channel partners that provides p
 
 All of the partner account and contact data is available to GitLab teams in Salesforce.
 
-The GitLab Partner Locator is a valuable resource for GitLab partners and customers.  The Locator, which can be found at about.gitlab.com/resellers, enables customers to find Authorized GitLab partners based several factors including:
+The GitLab Partner Locator is a valuable resource for GitLab partners and customers.  The Locator, which can be found at about.gitlab.com/partners, enables customers to find Authorized GitLab partners based several factors including:
 
 
 
