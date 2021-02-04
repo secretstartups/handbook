@@ -128,6 +128,10 @@ As a departing team member, it is good to know that there are some tasks that yo
 The Exit Survey provides team members with the opportunity to freely express views about working at GitLab.
 People Operations Specialists will send the [CultureAmp](https://www.cultureamp.com/) survey to all team members who are leaving voluntarily. The People Specialist & the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however your input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
 
+#### Exit Survey Reporting on Culture Amp.(For Culture Amp Admins)
+
+Culture Amp Exit Survey now has an additional "Reporting to" demographic. Initially, for reporting purposes we were using the "Manager" demographic which is no longer used on our account, i.e the data that syncs across from BambooHR is the "Reports to" field. However, this was not enabled on the actual exit survey. The "Manager" demographic was disabled on 19th November 2019. For reporting purposes, Culture Amp admins should use the "Reporting to" demographic while running reports on Culture Amp for team members who left after 19th November 2019 and the "Manager" Demographic for team members who left prior to that date.
+
 #### GitLab Alumni Program
 
 All offboarding may request to be added to the Slack channel `gitlab-alumni` by requesting through the PBP who can review the request and confirm to the People Experience Associate who can open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=slack_googlegroup_1Passwordgroupvault) on behalf of the former team member.
