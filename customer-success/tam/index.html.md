@@ -30,7 +30,7 @@ title: "Technical Account Management Handbook"
 
 ### Customer Journey
 
-#### TAM-Assigned:
+##### TAM-Assigned:
 
 - [Account Engagement and Prioritization](/handbook/customer-success/tam/engagement/)
    - [Non-Engaged Customer Strategies](/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/)
@@ -47,7 +47,7 @@ title: "Technical Account Management Handbook"
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
 
 
-#### Digital Journey:
+##### Digital Journey:
 
 - [Digital Journey](/handbook/customer-success/tam/digital-journey/)
   * [Nominating Contacts for the Digital Journey](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/)
