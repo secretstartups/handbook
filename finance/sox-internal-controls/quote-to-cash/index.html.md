@@ -241,7 +241,7 @@ Resellers are further classified into 2 classes based on their experience and as
 | Qualified organizations who have sound business plans and qualifications. They have completed our training and review. | Organizations that have met our highest bars of training, services capabilities, and customer success. Must provide unique value. These are the partners that we invest the most in and must be invited into the Select track. |
 
 
-For details regarding requirements and benefits please visit: https://about.gitlab.com/resellers/program/  
+For details regarding requirements and benefits please visit: https://about.gitlab.com/partners/program/  
 
 
 Deal registration and closing a deal through Resellers:
