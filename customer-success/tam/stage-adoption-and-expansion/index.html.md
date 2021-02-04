@@ -3,7 +3,14 @@ layout: handbook-page-toc
 title: "Stage Enablement and Expansion"
 ---
 
-## "Stage Enablement & Stage Expansion: The Two Stage Enablement Motions"
+## On this page
+
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## "Stage Enablement & Stage Expansion: The Two Stage Adoption Motions"
 
 ### Why does stage enablement & expansion matter?
 
