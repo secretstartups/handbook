@@ -456,7 +456,7 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 1. TODO Outline process to return the team member to work
 
 #### Maternity Leave STD Form - Team Member to fill out:
-1. The team member will fill out the [Assignment Of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and send to the total rewards team.  
+1. The team member will fill out the [Short Term Disability form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and the [Assignment Of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and send to the total rewards team.  
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
 This section will be populated once we have the form from Cigna. 
