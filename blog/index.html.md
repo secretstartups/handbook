@@ -228,7 +228,7 @@ If we are doing a joint announcement with another company, the announcement post
 
 ### Guest posts by GitLab partners
 
-Official [GitLab partners](/resellers) may use our [CTA button](#call-to-action) and include promotional copy, however the blog post must still serve a function (informational or educational) other than simply promoting something.
+Official [GitLab partners](/partners/) may use our [CTA button](#call-to-action) and include promotional copy, however the blog post must still serve a function (informational or educational) other than simply promoting something.
 
 For either type of guest post, the process and guidelines for publishing are as follows:
 
