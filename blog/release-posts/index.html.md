@@ -1050,9 +1050,9 @@ features:
         Lorem ipsum dolor sit amet, [consectetur adipisicing](#link) elit.
 ```
 
-#### Primary vs Secondary
+#### Feature priority
 
-The second line of the content block should indicate whether the feature is a primary or secondary feature. For primary features, use the `primary` key as shown in the [sample content block above](/handbook/marketing/blog/release-posts/#content-blocks). For secondary features, replace the `primary` key with the word `secondary`.
+The second line of the content block should indicate whether the feature is a top, primary, or secondary feature. For primary features, use the `primary` key as shown in the [sample content block above](/handbook/marketing/blog/release-posts/#content-blocks). For secondary features, replace the `primary` key with the word `secondary` and for the top feature replace `primary` with `top`. 
 
 #### Feature name
 
