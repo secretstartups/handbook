@@ -12,7 +12,7 @@ description: Learn about integrating with GitLab, as well as partnership, market
 
 ## Instructions for getting listed as a GitLab Technology Partner
 
-Once the product integration has been completed, the next step is to submit a Merge Request to get listed on our [Partners page](https://about.gitlab.com/partners/). To add your app, you will need:
+Once the product integration has been completed, the next step is to submit a Merge Request to get listed on our [Partners page](https://about.gitlab.com/partners/technology-partners/). To add your app, you will need:
 
 - A URL page with details on the integration
 - A link to the technical documentation on the steps required to set it up. A Screencast / video walk through is highly preferred.
