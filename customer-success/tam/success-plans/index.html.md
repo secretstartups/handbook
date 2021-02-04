@@ -30,9 +30,9 @@ Success plans are another facet of [account engagement](/handbook/customer-succe
 
 As you read through this page, you'll likely notice that the success plan is continually described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the TAM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
 
-### Success Plan Prerequisites
+## Success Plan Prerequisites
 
-#### Understand the Customer’s Motivation
+### Understand the Customer’s Motivation
 
 Before we can develop a success plan, we need to understand what is driving the customer's usage of GitLab. This goes beyond the features they are interested in, and extends to the business value GitLab provides.
 
@@ -41,7 +41,7 @@ Before we can develop a success plan, we need to understand what is driving the 
 - [Prepare discovery questions to discuss with the customer](/handbook/customer-success/tam/success-plans/questions-techniques/) to collect any missing information
 - Review [account onboarding](/handbook/customer-success/tam/onboarding/) and [account engagement](/handbook/customer-success/tam/engagement/) for additional information that is useful to collecting information and developing a relationship
 
-#### Talk with the Stakeholders
+### Talk with the Stakeholders
 
 All stakeholders should agree on the business objectives that the customer is pursuing, which products and services will help them reach that goal, and to keep the scope focused to 1-3 objectives. As you close out [objectives](/#objectives), you can restart the process to define and add new ones.
 
@@ -56,7 +56,7 @@ For each business objective, review with the customer:
 - Are there deadlines for individual steps or overall completion?
 - Key contributions & responsibilities of everyone involved
 
-#### Success Plans are Living Documents
+## Success Plans are Living Documents
 
 It's important to share progress with everyone involved as time goes on. The Sales team and the customer should both be kept up to date on where the success plan objectives and tasks stand, so they can continue working on new tasks and in turn sharing the progress with anyone else they think should be aware.
 
@@ -70,7 +70,7 @@ To keep track that the success plan is up to date, use the custom date field on 
 
 Internally, TAMs can use the data to track their own trends and objectives achieved over time (e.g. quarter over quarter reports) and use the progress of the success plan to measure the [ROI health scorecard](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
-### Create a Success Plan in Gainsight
+## Create a Success Plan in Gainsight
 
 [Gainsight](/handbook/customer-success/tam/gainsight/) is the platform we use to develop and manage success plans. Below are the steps to create a success plan, followed by best practices and recommendations to apply these steps in practice.
 
@@ -122,9 +122,9 @@ Tasks will affect the overall completion of the objective, and provide more gran
 
 Finally, next to the success plan due date, change the "Status" of the success plan from "Draft" to "Active". Don't forget this step, as it determines if your success plan with have a green [health score](/handbook/customer-success/tam/health-score-triage/) and if your objectives will show up in your cockpit.
 
-### Types of Success Plans
+## Types of Success Plans
 
-#### ROI Success Plan
+### ROI Success Plan
 
 The ROI success plan is the "public-facing" plan that we develop and maintain in collaboration with the customer. It is intended to be shared between GitLab and the customer, and should be considered the foundation of our strategic engagement and the reference for an [Executive Business Review](/handbook/customer-success/tam/ebr/).
 
@@ -134,7 +134,7 @@ This success plan contains a few key components that combine to provide a summar
 
 To share a ROI Success Plan, click the link icon next to the success plan due date and status, search for the users you want to share it with, then click "Preview and Send" and send the email. Alternatively, you can export the success plan by clicking "Export" at the top right.
 
-#### Expansion: Internal Only Success Plan
+### Expansion: Internal Only Success Plan
 
 When planning for future initiatives you want to work on with your customer that aren't yet on the roadmap, the internal success plan is the right approach. Unlike the [ROI Success Plan](#roi-success-plan), the internal plan is internal to GitLab only. It is for use by the TAM and the rest of the account team to keep track of things you're working on and/or plan to do at a later point.
 
