@@ -865,6 +865,7 @@ The responsibilities of the Engineering Manager are documented in the
 ### Technical Advisors
 
 Each month the release post manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension. This insures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution. It is recommended that technical advisors review the documented [technical aspects](https://about.gitlab.com/handbook/marketing/blog/release-posts/#technical-aspects) of the release post for reference, and the [escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
+
 Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The release post manager will reach out to the technical advisor on call via Slack in `#dev-escalation` channel and then cross-posts to `#release-post` channel for transparency that issues are being worked on. It is then expected that the technical advisor will respond to the release post manager or release post DRI as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the 18th and the 22nd of the month**. The technical advisor is responsible for determining if further dev escalation should proceed. 
 
 The good news is that the release post technical hurdles are often reasonably easy to trouble shoot for technical experts, which is why we're excited about this partnership!
@@ -875,7 +876,7 @@ Below are the types of problems the release post mangers may need help with.
 - Triaging pipeline errors and suggest changes or provide a fix to related merge requests
 - Resolving merge conflicts with the release post
 - Identifying when to engage with other technical teams to resolve upstream problems
-Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The release post manager will reach out to the technical advisor for [on call support](/handbook/on-call/#development-team-on-call-rotation). It is then expected that the technical advisor will respond to the release post manager as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the 18th and the 22nd of the month**. 
+
 
 The good news is that the release post technical hurdles are often reasonably easy to trouble shoot for technical experts, which is why we're excited about this partnership!
 
