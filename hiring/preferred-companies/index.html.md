@@ -12,7 +12,7 @@ description: "We use this preferred companies list for two reasons; it's used in
 
 We use this preferred companies list for two reasons; it's used internally by our sourcing team, plus we hope that if you work, or have worked, at one of the following companies you know we may reach out to you. Of course, this list is not definitive and it is not necessary to have this experience to work at GitLab.
 
-We try to avoid mentioning [partners](/partners/) on this page because it might hurt the relationship.
+We try to avoid mentioning [partners](/partners/technology-partners/) on this page because it might hurt the relationship.
 
 ## DevOps Stages
 
