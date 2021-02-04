@@ -52,6 +52,7 @@ GitLab Legal will complete the remaining steps.
 Click on the pencil icon at the right-most edge of your file information line to edit the file name and name according to the sample below:
 
 **On-going Relationship Vendors**
+
 Vendor Name-GitLab Contract Type - yyyy.mm.dd.pdf
 
 **Event Vendors**
@@ -70,7 +71,6 @@ When a contract is terminated, an Omega sign should be added to the front of the
 ### Tagging the Document
 
 Please watch the [ContractWorks tutorial](https://securedocs.wistia.com/medias/28tju1vqmw) for tagging your document.
-
 
 
 #### 1. Choose the Correct Template for the Contract Type.
@@ -99,17 +99,12 @@ You can watch the [training video](https://securedocs.wistia.com/medias/28tju1vq
 
 To set notifications for start and end dates, select the `Enable Notifications` option. This will bring up 3 different fields to fill in. Follow the best practices below for each type of notification.
 
-###### Start Date
-
-1. Set the days to 180
-2. Input your e-mail address  
-3. Use the following message: This contract will auto-renew in 6 months. If this vendor is meeting the needs you had for it, you do not need to do anything at this time. If you are not happy with how this vendor is working out, please begin researching other options.
-
 ###### End Date
+Order forms have auto-notifications as part of the template. These will send a notice to Procurement 120 before renewal is due. However, there is addtional information that needs to be added with the tags.
 
-1. Set the days 30 day before termination notice is due. (For example, if we need to give 30 days’ notice, set the notification to 60 days.)
-2. Input your e-mail address and [legal@gitlab.com](mailto:legal@gitlab.com)
-3. Use the following message: This contract will auto-renew in xx days. If you do not wish to continue with this vendor, you must give x days’ notice.
+1. Add the Business Owner's email address to the notification list.
+2. Fill in the vendor's name where noted in the notification template.
+3. Copy and paste the document's link in the notification text. 
 
 ##### Legal Terms
 
@@ -133,10 +128,10 @@ Legal Terms need to be filled in by the owner of the contract upon uploading. Th
 
 If your document is an Order Form, Addendum, or other sub-document that is connected to a Master Agreement, you will need to attach the document to the Master Agreement, as detailed below:
 
-1. Go to the folder where your Order Form and Master Agreement are filed. (Ensure that your Order Form and Master agreement are filed in the same folder, as attaching may not work across different folders.)
-2. Select the new document by clicking the checkbox on the left end of the contract information line. This will make the options along the top of the file list blue and clickable.
-3. Click `Attach`
-4. Hover over the Master Agreement and click the paperclip that has appeared next to the edit pencil.
+1. Go to the folder where your Order Form and Master Agreement are filed. 
+2. Select the new contract by clicking the checkbox on the left end of the contract information line. This will bring up a drop-down menu at the top of the folder window.
+3. In the drop-down menu, click `Attach`
+4. Hover over the Master Agreement and click the paperclip that has appeared next to the file name.
 
 ### Linking to the Document
 
