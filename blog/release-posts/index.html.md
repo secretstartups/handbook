@@ -877,14 +877,13 @@ Below are the types of problems the release post mangers may need help with.
 - Resolving merge conflicts with the release post
 - Identifying when to engage with other technical teams to resolve upstream problems
 
-
 The good news is that the release post technical hurdles are often reasonably easy to trouble shoot for technical experts, which is why we're excited about this partnership!
 
 #### Getting Help During the Release Post Assembly
 
 **Release Post Manager**
 
-Should you exhaust your ability to resolve your blocker qucikly mention the Technical Advisor in `#release-post` and ask for help.
+Should you exhaust your ability to resolve your blocker qucikly mention the Technical Advisor in `#dev-escalation` channel and cross-post in `#release-post` channel to ask for help, and make others aware that there may be a delay in assembly.
 Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem. Indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution. 
 
 **Technical Advisor**
@@ -901,7 +900,7 @@ Following your best judgement with the resolution of the incdient, record the di
 
 **Release Post Manager**
 
-Should you exhaust your ability to resolve your blocker quickly mention the Technical Advisor in `#release-post` and ask for help.
+Should you exhaust your ability to resolve your blocker quickly mention the Technical Advisor in `#dev-escalation` channel and cross-post in `#release-post` channel to ask for help, and make others aware that there may be a delay in release post deployment.
 Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem. Indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution. 
 
 **Technical Advisor**
