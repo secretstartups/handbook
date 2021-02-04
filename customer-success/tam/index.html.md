@@ -30,21 +30,28 @@ title: "Technical Account Management Handbook"
 
 ### Customer Journey
 
+#### TAM-Assigned:
+
 - [Account Engagement and Prioritization](/handbook/customer-success/tam/engagement/)
    - [Non-Engaged Customer Strategies](/handbook/customer-success/tam/engagement/Non-engaged-customer-strategies/)
 - [Account Onboarding](/handbook/customer-success/tam/onboarding/)
-- [Digital Journey](/handbook/customer-success/tam/digital-journey/)
-  * [Nominating Contacts for the Digital Journey](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/)
-- [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
-   - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
    - [Developer & Productivity Metrics](/handbook/customer-success/tam/metrics/)
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
-- [Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
-- [Playbooks](/handbook/customer-success/playbooks/)
+- [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-adoption-and-expansion/)
+   - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
+   - [Tracking Adoption with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
+- [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
+- [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
-- [Customer Health Assessment and Triage](/handbook/customer-success/tam/health-score-triage/)
+
+
+#### Digital Journey:
+
+- [Digital Journey](/handbook/customer-success/tam/digital-journey/)
+  * [Nominating Contacts for the Digital Journey](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/)
+
 
 ### TAM Managers
 
