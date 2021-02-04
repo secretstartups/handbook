@@ -130,7 +130,7 @@ The ROI success plan is the "public-facing" plan that we develop and maintain in
 
 This success plan contains a few key components that combine to provide a summary of the customer, their business outcomes, and what we are doing to achieve them with GitLab.
 
-##### Sharing a ROI Success Plan
+##### Share a ROI Success Plan
 
 To share a ROI Success Plan, click the link icon next to the success plan due date and status, search for the users you want to share it with, then click "Preview and Send" and send the email. Alternatively, you can export the success plan by clicking "Export" at the top right.
 
