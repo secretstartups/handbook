@@ -51,45 +51,36 @@ purposes. To generate a new license, log in to LicenseDot and click on the
 without a Zuora subscription" at the bottom of the screen and fill out all non-optional
 fields.
 
-## Ephemeral Testing Environments
+## Testing Environments
 
-As a member of support, you have access to a variety of ephemeral testing environments. You can build and tear
-down whatever resources you need to reproduce customer environments, try new features or learn about deploying
-a new topology.
+You can create (ephemeral) testing environments. We recommend using the support-resources project for doing so.
 
-The resources that are created in these environments are:
-- **temporary**: if you need access to persistent resources as part of an integration or application, please don't create it in one of these testing environments.
-- **destructible**: be aware that anyone may destroy your provisioned resources at any time; by accident or on purpose.
-- **potentially expensive**: please clean up any unused resources when you are done. (**Exception**: you are welcome to keep a VM in GCP to maintain an Omnibus install, as specified in the Support Engineering Onboarding)
+### GCP Testing Environment (support-resources)
 
-There's 2 stages to approach creating your Ephemeral Testing instances. The first stage is to provision the infrastructure (in either GCP, DO, AWS, Azure, Okta) followed by the second stage where our products are deployed to the servers. 
+Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project.
 
-**Note:** Please be aware that we don't have access to the DO console and we are moving away from DO and focusing on using GCP as our cloud provider. Also we are transitioning from using the [dev-resources](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md) project in favor of [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md).
+If you need to manually create resources in a GCP Testing environment, please use the `support-resources` project. You can do so using the [GCP console](https://console.cloud.google.com/), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
+If you don't have access to this project, please create an access request and assign your manager for approval.
 
-### GCP Testing Environment
-
-Login to [GCP console](https://console.cloud.google.com/) using your GitLab Google account credentials.
-
-You can use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project.
-
-If you need to manually create resources in a GCP Testing environment, please use the `gitlab-support` project. 
-You should have access to this as a baseline entitlement. If you do not, please create an access request and tag your manager.
-
-**Note:** you may also have access to the `gitlab-internal` GCP project. You should **not** create resources in this project.
-
-You should also have access to the `support-resources` project and be able to use [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) as a means of spinning up complex resources in a convenient and programmatic way. With this project you are able to directly spin up GitLab and Runner instances, as well as regular Basic server instances (for which you can follow the steps in [Creating GitLab Test Instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) to continue to install GitLab).
+**Warning:** you may also have access to the `gitlab-internal` GCP project. You should **not** create resources in this project.
 
 #### GKE Cluster
+
+Please use the `support-resources` GCP project for creating a GCP Kubernetes cluster.
+
+<details>
+<summary>Open me for instructions on how to do so</summary>
 
 Select Kubernetes Engine from the dashboard, and then Create Cluster. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).
 
 All of the remaining options can be left as their default settings unless you have a need to add customization to your cluster.  Of note, the Maximum Pods per Node option [directly correlates with the CIDR assignment](https://cloud.google.com/kubernetes-engine/docs/how-to/flexible-pod-cidr?_ga=2.246280516.-1734733517.1581009580) of your node(s).
 
 Connecting to, and configuring, your cluster can be done locally using [gcloud](https://cloud.google.com/sdk/docs#install_the_latest_cloud_tools_version_cloudsdk_current_version) and [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#download-as-part-of-the-google-cloud-sdk). Or you can use the Google Cloud Shell.  Clicking Connect in GCP will provide the command to run locally for you to copy and paste, or let you open Cloud Shell immediately. Using [docker images](https://hub.docker.com/r/kiwigrid/gcloud-kubectl-helm) is also an option for a quick deployment of all tools locally.
+</details>
 
 ### AWS Testing Environment
 
-AWS credentials and instructions are stored in the Support Vault.
+Please use [Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) to create credentials for AWS.
 
 ### Azure Testing Environment
 
@@ -103,7 +94,7 @@ For SAML/SCIM testing, please open an access request for GitLab's Okta Preview i
 
 ### Digital Ocean and Docker Testing Environment
 
-**Note:** DO and dev-resources are being deprecated in favor of [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
+**Warning:** Digital Ocean (DO) and dev-resources is deprecated in favor of [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md)
 
 For a Digital Ocean droplets [follow this guide](https://gitlab.com/gitlab-com/dev-resources/blob/master/dev-resources/README.md).
 Once you've  created your resource you can follow the section named [Creating GitLab test instance](/handbook/support/workflows/test_env.html#creating-gitlab-test-instance) (though do keep in mind that we are moving away from this project).
@@ -180,6 +171,9 @@ docker-machine create \
 ```
 
 + Resource: [https://docs.docker.com/machine/drivers/virtualbox/](https://docs.docker.com/machine/drivers/virtualbox/)
+
+
+### Creating GitLab test instance with docker machine
 
 #### Connect your shell to the new machine
 
