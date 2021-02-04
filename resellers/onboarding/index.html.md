@@ -7,7 +7,7 @@ title: "Resellers Onboarding"
 {:.no_toc}
 
 - [Resellers Handbook](/handbook/resellers/)
-- [Main Resellers Page](/resellers)
+- [Main Resellers Page](/partners/)
 
 ----
 
@@ -47,7 +47,7 @@ The topics are ordered by priority in which they need to be tackled, and the mai
 
 US ONLY - [ ] Uniform Sales and Use Tax Exemption Certificate completed and emailed to partners@ gitlab.com
 
-## [Website Listing](/resellers) - To be completed before we can list you on our website
+## [Website Listing](/partners/) - To be completed before we can list you on our website
 - [ ] partner.com/GitLab landing page set up per guidelines in the [Resellers Handbook](/handbook/resellers/#landing-page)
 - [ ] hi-res logo added to this issue (svg, png, or tiff)
 - [ ] 250 character English Language Company overview added as a comment below

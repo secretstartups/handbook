@@ -619,7 +619,7 @@ GitLab marketing resources can be found on the [GitLab Partner Portal](https://p
 
 #### GitLab Landing Page Guidelines
 
-Your website needs to have a landing page with information about GitLab. You can see what others have done from the[ Resellers page](https://about.gitlab.com/resellers).
+Your website needs to have a landing page with information about GitLab. You can see what others have done from the[ Resellers page](https://about.gitlab.com/partners/).
 
 
 *   We prefer your landing page to be at yoururl.com/GitLab, but where this is not possible, we ask you to set a redirect for that URL to the actual one.
