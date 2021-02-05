@@ -38,7 +38,7 @@ title: "Technical Account Management Handbook"
 - [Success Plans](/handbook/customer-success/tam/success-plans/)
    - [Developer & Productivity Metrics](/handbook/customer-success/tam/metrics/)
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
-- [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-adoption-and-expansion/)
+- [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-enablement-and-expansion/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
    - [Tracking Adoption with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
