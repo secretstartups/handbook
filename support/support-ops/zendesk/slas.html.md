@@ -42,8 +42,8 @@ use the top most SLA based on the list of our SLAs (see below).
 
 * Conditions:
   * Matches ALL of:
-    * `Tags` contains at least one of `gold silver legacy_silver`
-    * `Tags` contain none of `upgrades_and_renewals security accounts_receivable`
+    * `Tags` contains at least one of `gold silver`
+    * `Tags` contain none of `ar_form lnr_form proserv_form security_form prospect`
 * Targets:
 
 | Target | Urgent | High | Normal | Low |
@@ -57,7 +57,7 @@ use the top most SLA based on the list of our SLAs (see below).
 * Conditions:
   * Matches ALL of:
     * `Tags` contains at least one of `premium ultimate`
-    * `Tags` contain none of `upgrades_and_renewals security accounts_receivable`
+    * `Tags` contain none of `ar_form lnr_form proserv_form security_form prospect`
 * Targets:
 
 | Target | Urgent | High | Normal | Low |
@@ -84,7 +84,6 @@ use the top most SLA based on the list of our SLAs (see below).
 
 * Conditions:
   * Matches ALL of:
-    * `Tags` contains at least one of `accounts_receivable`
     * `Form` is `Accounts Receivable / Refunds`
 * Targets:
 
@@ -92,19 +91,6 @@ use the top most SLA based on the list of our SLAs (see below).
 |--------|:------:|:----:|:------:|:---:|
 | First reply time | 4h | 16h | 24h| 36h |
 | Next reply time | 4h | 16h | 24h | 36h |
-| Hours of operation | Business hours | Business hours | Business hours | Business hours |
-
-### Upgrades & Renewals SLA
-
-* Conditions:
-  * Matches ALL of:
-    * `Form` is `License Renewals and Upgrades`
-* Targets:
-
-| Target | Urgent | High | Normal | Low |
-|--------|:------:|:----:|:------:|:---:|
-| First reply time | 8h | 8h | 8h| 8h |
-| Next reply time | 24h | 24h | 24h | 24h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
 ### Starter SLA
@@ -121,11 +107,25 @@ use the top most SLA based on the list of our SLAs (see below).
 | Next reply time | 24h | 24h | 24h | 24h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
+### Upgrades & Renewals SLA
+
+* Conditions:
+  * Matches ALL of:
+    * `Form` is `License Renewals and Upgrades`
+* Targets:
+
+| Target | Urgent | High | Normal | Low |
+|--------|:------:|:----:|:------:|:---:|
+| First reply time | 8h | 8h | 8h| 8h |
+| Next reply time | 24h | 24h | 24h | 24h |
+| Hours of operation | Business hours | Business hours | Business hours | Business hours |
+
 ### Prospects SLA
 
 * Conditions:
   * Matches ALL of:
-    * `Tags` contains at least one of `prospect`
+    * `Tags` contains at least one of `priority_prospect`
+    * `Tags` contains none of `ar_form lnr_form security_form proserv_form prospect`
 * Targets:
 
 | Target | Urgent | High | Normal | Low |
@@ -139,8 +139,6 @@ use the top most SLA based on the list of our SLAs (see below).
 * Conditions:
   * Matches ALL of:
     * `Form` is `Security Issue`
-    * `Tags` contains at least one of `security`
-    * `Assignee` is `Security Team`
 * Targets:
 
 | Target | Urgent | High | Normal | Low |
