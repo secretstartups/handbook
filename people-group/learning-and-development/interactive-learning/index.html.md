@@ -56,7 +56,7 @@ Consider the following when documenting course content in the handbook:
 
 1. Outline clear learning objectives
 1. Make content discoverable. For example, leadership content should not live in the Learning and Development handbook, but instead in the [Leadership handbook](/handbook/leadership)
-1. Emebed relevant YouTube videos in the handbook
+1. Embed relevant YouTube videos in the handbook
 1. Link to knowledge assessments
 1. Cross reference any additional handbook content with links
 
@@ -78,7 +78,7 @@ Content in the EdCast LXP at GitLab will adopt this handbook-first approach to l
 The following best practices should be followed when using video to create handbook first learning material.
 
 1. Upload recorded video to the GitLab Unfiltered channel
-1. Emebed videos into the handbook on the appropriate content page
+1. Embed videos into the handbook on the appropriate content page
 1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using SmartCards or iframes. Here is an [example of this layout](/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
 1. Add videos to SmartCards by linking to these sub headers
 1. Build iframes to display video by linking to these sub headers
