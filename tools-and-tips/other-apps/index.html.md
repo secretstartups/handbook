@@ -95,16 +95,17 @@ You can also make the entire web page editable, using the [`designMode`](https:/
 There is a free and premium version.
 
 _Warning_: Grammarly browser extensions are discouraged, Grammarly will have access to everything you type in your browser, and they have had [a security problem](https://gizmodo.com/grammarly-bug-let-snoops-read-everything-you-wrote-onli-1822740378).
-If you want to use it to check non-confidential text manually, you should either use [LanguageTool(#languagetool) or download [Grammarly's desktop version](https://www.grammarly.com/native/mac). The desktop version is not available for Linux.
+If you want to use it to check non-confidential text manually, you should download the [desktop version](https://www.grammarly.com/native/mac) instead. The desktop version is not available for Linux.
 
 ### LanguageTool
 
-[LanguageTool's browser extensions](https://www.languagetool.org/#firefox_chrome) are customer-privacy-friendly spell- and grammar-checking alternatives to [Grammarly](#grammarly) when combined with a [locally run, Dockerized LanguageTool server](https://github.com/languagetool-org/languagetool#docker).
+As an alternative to [Grammarly](#grammarly), we can combine LanguageTool in the browser
+with a LanguageTool server [run locally with Docker](https://github.com/languagetool-org/languagetool#docker).
+This ensures that spell and grammar checking remains both convenient and confidential:
 
-To use LanguageTool in your browser with one of the available community-contributed Docker files:
-
+1. Install the [LanguageTool browser extension](https://www.languagetool.org/#firefox_chrome).
 1. Follow the setup instructions at [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool).
-1. Configure the browser add-on under its `Experimental settings > Other server` with the IP address and port that your container exposes.
+1. Configure the browser extension under `Experimental settings > Other server` with the IP and port that the container exposes (see ReadMe in 2. for defaults).
 
 ### Simplenote
 
