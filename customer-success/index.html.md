@@ -128,6 +128,7 @@ SA's will be brought back into a customer account in the following situations
 TAM-Created, Enablement Focus:
 
 - [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
+- [Secure Workshop](/handbook/customer-success/workshops/secure/)
 
 SA-Created, Hands-On Focus:
 
