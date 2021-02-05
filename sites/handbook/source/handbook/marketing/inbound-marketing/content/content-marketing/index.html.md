@@ -66,21 +66,13 @@ Here's an example of what's included in a content set:
 
 **Sources:**
 
-- [What Is a Content Pillar? The Foundation for Efficient Content Marketing](https://kapost.com/b/content-pillar/)
-- [How to Create Pillar Content Google Will Love](https://contentmarketinginstitute.com/2018/04/pillar-content-google/)
-- [What Is a Pillar Page? (And Why It Matters For Your SEO Strategy)](https://blog.hubspot.com/marketing/what-is-a-pillar-page)
-- [Content for Each Buying Stage of the Consumer Purchase Cycle](https://contentwriters.com/blog/content-consumer-purchase-cycle/)
-- [AlsoAsked.com](https://alsoasked.com/)
+- [What Is a Content Pillar? The Foundation for Efficient Content Marketing](https://kapost.com/b/content-pillar/){:target="_blank"}
+- [How to Create Pillar Content Google Will Love](https://contentmarketinginstitute.com/2018/04/pillar-content-google/){:target="_blank"}
+- [What Is a Pillar Page? (And Why It Matters For Your SEO Strategy)](https://blog.hubspot.com/marketing/what-is-a-pillar-page){:target="_blank"}
+- [Content for Each Buying Stage of the Consumer Purchase Cycle](https://contentwriters.com/blog/content-consumer-purchase-cycle/){:target="_blank"}
+- [AlsoAsked.com](https://alsoasked.com/){:target="_blank"}
 
 ## Meet the Content Marketing team
-
-**[Erica Lindberg](https://gitlab.com/erica)**
-
-Title: Sr. Manager, Global Content
-
-GitLab handle: @erica
-
-Slack handle: @erica
 
 **[Brein Matturro](https://gitlab.com/bmatturro)**
 
@@ -205,11 +197,16 @@ An infographic is an illustrated overview of a topic or process, and is typicall
 
 #### Topic page
 
-A topic page is a high-level explanatory "pillar" page dedicated to a specific topic, such as [version control](/topics/version-control/), [application security](/topics/application-security/), or [cloud native](/solutions/cloud-native/). Topic pages should explain what the subject is, why it is important, and explain the basic concepts of the subject. Topic pages should include links to additional related resources, such as blogs, web articles, videos, and case studies, as well as at least one CTA to a gated asset.
+A topic page is a high-level explanatory "pillar" page dedicated to a specific topic, such as [version control](/topics/version-control/), [application security](/topics/application-security/), or [continuous integration](/topics/ci-cd/). Topic pages should explain what the subject is, why it is important, and explain the basic concepts of the subject. Topic pages should include links to additional related resources, such as blogs, web articles, videos, and case studies, as well as at least one CTA to a gated asset.
 
 #### Web article
 
 Web articles are educational, informational content, designed to support topic pages using keywords and search terms. They are similar to blogs in length, but differ in that they are not dated and the content is evergreen (see [more about blog posts](#blog-post)). Web articles should be linked on one or more topic pages, and should serve as a deep-dive into a specific sub-topic. Web articles are created in accordance with SEO research and campaign goals that are listed in the topics clusters spreadsheets. Complete the [SEO web article template](https://docs.google.com/document/d/1ON2CZ7uufl9gtqh-P67AxU5Y42ctQ3mRtPsgJRlep7Y/edit?usp=sharing) when creating a new piece of content.
+
+**Examples:**
+1. [How to choose the right continuous integration tool](/topics/ci-cd/choose-continuous-integration-tool/)
+2. [What are Git version control best practices?](/topics/version-control/version-control-best-practices/)
+3. [What is developer-first security?](/topics/application-security/what-is-developer-first-security.index.html)
 
 #### Case study
 
