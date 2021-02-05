@@ -244,6 +244,9 @@ Additional planning and notes around the sprint board can be found in [this issu
 - Consider having GitLab team members vote on priority issues to determine need and interest in learning & development content
 - Stack rank issues in the board based on priority if possible
 - Use the Time Tracking feature on issues to track time spend. When opening a new issue, use the `/estimate` command to set an estimate for the project to be complete. After each working session, use the`/spend` command to track actual time spent.
+- Consider using the `new-initiative` issue template when planning a new learning initiative, engagement program, or program idea
+- Consider using the `content-scoping` issue template when proposing a new pathway, creating a new course, or building any new learning experience
+
  
 
 ### Top five training content development principles
