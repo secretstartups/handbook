@@ -70,11 +70,11 @@ The following workflows will guide you on how to search Kibana and/or Sentry for
 
 #### Searching Kibana
 
-See the [500-specific section in the Kibana](kibana.html.md#searching-kibana-for-500-level-errors) workflow.
+See the [500-specific section in the Kibana](kibana.html#searching-kibana-for-500-level-errors) workflow.
 
 #### Searching Sentry
 
-See the [Sentry workflow](sentry.html.md).
+See the [Sentry workflow](sentry.html).
 
 #### Escalation
 
