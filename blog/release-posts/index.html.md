@@ -536,7 +536,6 @@ The messaging lead is responsible for:
 - Writing the blog post [introduction](#introduction)
 - Coordinating with the PMM team to make sure all feature descriptions have [strong messaging](#messaging-review)
 - Ordering release post items, both primary and secondary. (see more info [below](#feature-order))
-- Creating the What's New MR
 - [Coordinating Marketing efforts](#marketing-coordination) on release day
 
 #### Identify top three features and themes (18th of the previous month - 11th of the release month)
