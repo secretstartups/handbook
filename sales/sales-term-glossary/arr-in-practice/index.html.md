@@ -291,7 +291,7 @@ For the technical documentation for the implementation of Net ARR, ARR Basis, an
 
 ### ARR Analysis Framework
 
-A measure of changes to ARR compared to the prior month, fiscal quarter, or year. While retention calculations measure changes compared to the same period in a previous year, we also need to measure changes over smaller time periods (month-to-month and quarter-to-quarter) to make real-time business decisions and evaluate the immediate impact of our programs and initiatives. While the net and gross retention metrics are externally reported, corporate metrics, the month-to-month and quarter-to-quarter ARR changes reporting is used for internal analysis. ARR changes are reported at the parent account level, with drill down capability to see account level detail.
+A measure of changes to ARR compared to the prior month. While retention calculations measure changes compared to the same period in a previous year, we also need to measure changes over smaller time periods (month-to-month and quarter-to-quarter) to make real-time business decisions and evaluate the immediate impact of our programs and initiatives. While the net and gross retention metrics are externally reported, corporate metrics, the month-to-month and quarter-to-quarter ARR changes reporting is used for internal analysis. ARR changes are reported at the parent account level by default, with drill down capability to the subscription-product grain for certain types of analysis. ARR changes are reported at the monthly level by default, and months are aggregated up for quarterly reporting.
 
 Types of Delta ARR:
 - new - ARR for the customer's first paying month/quarter
