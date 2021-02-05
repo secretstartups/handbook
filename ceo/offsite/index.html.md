@@ -27,6 +27,7 @@ The agenda should include discussions that are:
 1. [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Internal Strategy Consultant](/job-families/chief-executive-officer/internal-strategy-consultant/)
 1. [CEO Shadows](/handbook/ceo/shadow/)
 1. [Executive Business Admin](/eba/#executive-business-administrator-team) to the CEO (optional)
+1. Invited participants: folks invited to participate in one or more specific session
 
 #### Roles
 
@@ -116,6 +117,14 @@ Examples of prep work include:
 Anyone who is presenting for a topic should share materials with the prep work.
 
 Prep work should be shared *at least* 1 business day before. EBAs should be cc'd, as some execs may want time carved out on their calendars for the review.
+
+## Guidance for invited participants
+
+There are a number of reasons why participants are invited to join specific Offsite meetings. These can range from giving team members a chance for greater context to expecting an invited participant to lead a discussion. Before you attend the Offsite, please:
+
+1. Understand expectations for your participation 
+1. Ensure that you have context about what is being discussed. If you are invited to a meeting and don't have context, proactively start an async conversation or schedule a 15 minute meeting with the E-Group sponsor and other participants. You should not need to attend a meeting without knowing what will be discussed or do any pre-work without clear direction
+1. **Don't** spend hours preparing unless there is a direct ask to do so
 
 ## Data team member on call
 
