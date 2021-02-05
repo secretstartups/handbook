@@ -127,25 +127,6 @@ This guide involves configuring and setting up VMWare and Docker locally and ass
 1. Launch VMWare Fusion.
 1. When prompted, enter the license details.
 
-#### Create new docker host
-
-This command will create a new VMware fusion virtual machine called `gitlab-test-env` that will act as a docker host.
-
-+ CPUs: Same as host (`-1`)
-+ RAM: `4GB`
-+ Name: `gitlab-test-env`
-+ Driver: `vmwarefusion`
-
-```
-docker-machine create \
---vmwarefusion-cpu-count -1 \
---vmwarefusion-memory-size 4096 \
---vmwarefusion-disk-size 30000 \
---driver vmwarefusion gitlab-test-env
-```
-
-+ Resource: [https://docs.docker.com/machine/drivers/vm-fusion/](https://docs.docker.com/machine/drivers/vm-fusion/)
-
 
 ### VirtualBox Testing Environment (free & opensource alternative to installing VMWare Fusion)
 
@@ -159,6 +140,18 @@ virtualization.
 1. Navigate to [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 1. Download the latest version of the software for your operating system.
 1. Install VirtualBox.
+
+**Note** The following list of commands can be saved as bash script for quickly spinning up new instances
+
+## Creating GitLab test instance
+#### Creating settings variables
+
+```
+export SSH_PORT=2222
+export HTTP_PORT=8888
+export VERSION=11.9.9-ee.0
+export NAME=gitlab-test-11.9
+```
 
 #### Create new docker host
 
@@ -174,7 +167,7 @@ docker-machine create \
 --virtualbox-cpu-count -1 \
 --virtualbox-memory 4096 \
 --virtualbox-disk-size 30000 \
---driver virtualbox gitlab-test-env
+--driver virtualbox $NAME
 ```
 
 + Resource: [https://docs.docker.com/machine/drivers/virtualbox/](https://docs.docker.com/machine/drivers/virtualbox/)
@@ -214,20 +207,20 @@ wget -q https://registry.hub.docker.com/v1/repositories/gitlab/gitlab-ee/tags -O
 + Container name: `gitlab-test-11.9`
 + GitLab version: **EE** `11.9.9-ee.0`
 
-#####  Set up container settings
+<!-- #####  Set up container settings
 
 ```
 export SSH_PORT=2222
 export HTTP_PORT=8888
 export VERSION=11.9.9-ee.0
 export NAME=gitlab-test-11.9
-```
+``` -->
 
 #####  Create container
 ```
 docker run --detach \
---env GITLAB_OMNIBUS_CONFIG="external_url 'http://$(docker-machine ip gitlab-test-env):$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
---hostname $(docker-machine ip gitlab-test-env) \
+--env GITLAB_OMNIBUS_CONFIG="external_url 'http://$(docker-machine ip $NAME):$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
+--hostname $(docker-machine ip $NAME) \
 -p $HTTP_PORT:$HTTP_PORT -p $SSH_PORT:22 \
 --name $NAME \
 gitlab/gitlab-ee:$VERSION
