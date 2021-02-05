@@ -243,10 +243,8 @@ Additional planning and notes around the sprint board can be found in [this issu
 - Apply labels to manage different work and priorities (leadership requests, prioritized, p1-p3, triage, WIP, Backlog)
 - Consider having GitLab team members vote on priority issues to determine need and interest in learning & development content
 - Stack rank issues in the board based on priority if possible
-
-#### Tips for issue project management
-
-1. Use the 
+- Use the Time Tracking feature on issues to track time spend. When opening a new issue, use the `/estimate` command to set an estimate for the project to be complete. After each working session, use the`/spend` command to track actual time spent.
+ 
 
 ### Top five training content development principles
 
