@@ -10,6 +10,8 @@ description: "All elearning courses tied to the Field Certification Program will
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Handbook First Learning Model
+
 All elearning courses at GitLab to the will utilize the Handbook as the Single Source of Truth (SSOT). 
 
 ![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
@@ -83,15 +85,18 @@ Below is an outlined example of how the field enablement team created a handbook
 
 #### Using iframes to display the GitLab handbook
 
-The following video provides an example of how iframes can be used to display sections of the handbook in a Rise 360 course
+This [training video](https://youtu.be/wlLKZz3vSAk
+) provides an example of how iframes can be used to display sections of the handbook in a Rise 360 course
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1423850601534bd8b098d13b68ce8d63" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wlLKZz3vSAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Consider copying and pasting the iframe tag below to apply the strategies outlined in the training.
 
-<iframe src="link-to-your-page" scrolling="no" height="XX"></iframe>
+##### iframe tag examples
 
-GitLab team members can access [this Google doc resource](https://docs.google.com/document/d/1HvikZayptzqT8kFFB_EPdiXBl04iYsnRzwFKGKgLVxI/edit) for ease of access to iframe tags that can be copied and edited when building courses using Articulate360 tools.
+Consider copying and pasting the iframe tag below to apply the strategies outlined in the training. GitLab team members can access [this Google doc resource](https://docs.google.com/document/d/1HvikZayptzqT8kFFB_EPdiXBl04iYsnRzwFKGKgLVxI/edit) for ease of access to iframe tags that can be copied and edited when building courses using Articulate360 tools.
+
+1. `<iframe src="link-to-your-page" title="title for iframe metadata" scrolling="no" height="XX"></iframe>`
+
 
 ### Examples of what is not considered handbook first
 
