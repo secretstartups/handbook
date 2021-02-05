@@ -251,8 +251,8 @@ Once negotiations are completed, and the digital stamp has been affixed to the f
 #### Process for Agreement Terms Negotiations (when applicable) and Contacting Legal
 
 If the Opportunity meets the dollar thresholds:
-  * Greater than $25,000 (USD) Opportunity to review edits on GitLab Agreement template(s)
-  * Greater than $100,000 (USD) Opportunity to review Customer template / agreement version(s)
+  * Greater than $25,000 ARR (USD) Opportunity to review edits on GitLab Agreement template(s)
+  * Greater than $100,000 ARR (USD) Opportunity to review Customer template / agreement version(s)
 The Sales Team Member will follow the below workflows to make requests for, (i) editable version(s) of GitLab Templates, (ii) engagement of contract negotiations, and (iii) assistance on general questions related to a Customer / Opportunity.
 
 A presentation overview of the process to engage GitLab Legal can be found [**HERE**](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0)
