@@ -81,7 +81,11 @@ The Deal Desk team is located around the world and will be available during stan
 
 #### Salesforce Chatter Communication
 
-Deal Desk's primary communication channel is Salesforce Chatter. When you chatter `@Sales-Support`, it will automatically create a case in the Deal Desk queue. Deal Desk team members monitor the queue throughout the day and will respond to a case within 6 hours, Monday-Friday, with the exception of National/Regional holidays. Resolution or escalation will occur within 24 hours. 
+Deal Desk's primary communication channel is Salesforce Chatter. When you chatter `@Sales-Support`, it will automatically create a case in the Deal Desk queue. 
+
+Deal Desk team members monitor the queue throughout the day. For all cases directly related to opportunites, quoting/deal structure or booking a deal, Deal Desk will respond to a case within 6 hours, Monday-Friday, with the exception of National/Regional holidays. Resolution or escalation for these cases will occur within 24 hours. 
+
+For cases related to Account Segmentation (ROE, Territory), account data, or account merges, Deal desk will reassign these cases to our Sales Ops team to review and resolve. 
 
 To Chatter the DD team, tag `@Sales-Support`in Chatter on the related opportunity or account page and a short sentence on your request. If the Deal Desk team needs more information, we will follow up directly via Chatter. 
 
