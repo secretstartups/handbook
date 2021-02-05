@@ -371,6 +371,88 @@ _Notify you with:_
 Click _Save_.
 
 
+## **WW Channel Partners Maintenance Calendar for Partner Help Desk Specialists.**
+
+**PHD Specialists are responsible for following the onboarding and enablement of new partners and the activities of our current Open and Select partners.**
+
+Regions assignment per PHD Specialist: 
+AMER: Evon Collett
+EMEA: Camille Dios
+APAC: Reena Yap
+
+Global PHD email address: partnersupport@gitlab.com
+
+**Weekly:**
+
+*  _Review new partner applicants (Fridays): 
+1. Check if the company is valid (website, etc.)
+2. Check if the correct region is assigned to the partner’s account in Impartner
+3. Check if the Welcome email was sent to the Primary User contact in Impartner
+4. Check Impartner Crm Id field to see if there is an SFDC account linked, if so, check that it is the correct account from Impartner to SFDC
+5. Check if the new contact has Administrative Privileges for the Partner Locator
+6. Check if the correct CAM is assigned as Account Owner on the partner’s account in SFDC
+7. Check if their access to Vartopia is set up in SFDC, make sure there is a phone number on the SFDC contact for the Impartner Primary User
+8. Check if the SFDC account information is correct (Partner Track, Partner Status, contract signed date, click-through agreement box checked, Vartopia)
+9. Check Partner Support email to see if the regional CAM received the internal notification email for the new partner
+10. Check if there are any new partners who are Alliance/Technology partners or partners who said they had questions on the contract and make sure their CAM received notification of that
+
+→ Once review is finished, update the Last PHD Review and Account Notes fields on the Partner Account in SFDC. 
+
+*  _Other partners: 
+1. SFDC sync issues - checking w/ K-Stagg
+2. Partner Payment Follow-Up - Partner rebate follow-up // MDF claims and payments - Wednesday?
+3. Partner Opportunity Review - Review deal registrations // Review services attach opportunities - update reports - (Fridays)
+
+
+**Monthly (Middle of the Month Friday):** 
+
+*  _Review New Partner Activity (from the past month):
+1. Check if any users on the Impartner account logged into the Partner Portal
+2. Check if other users were added on the Impartner account
+3. Check if Impartner Journeys and Training have been started/completed
+4. Check if any deal registrations were entered/approved under the Partner account in SFDC
+→ If one or more of the above have not been completed, send an email reminder about how to do it and why they need to do it, including a proposition for a Zoom meeting with us (sync with CAM first, there may already be existing call cadences/info).
+→ Once review is finished, update the Last PHD Review and Account Notes fields on the Partner Account in SFDC. 
+
+
+*  _Other partners (pending, not added yet): 
+1. Partner invitations to GitLab events (webinars, Commit, Hackerthon, etc.)
+2. Marketing campaign engagement
+
+
+
+**Quarterly - ⅓ of Selects per month, prioritize Open with Bastian/Jordan/Reporting:** 
+
+*  _Select Partner Review - All partners, focus on Select (⅓ of Selects per month): 
+1. Check if their training requirements for their Partner Level have been completed in Impartner
+2. Verify with CAM or Partner if the certified people are still part of the team 
+3. Check if the Partner Locator information has been updated in Impartner?
+4. Check if the Primary User is up-to-date since they receive the “Have Partner Contact Me”
+5. Help the Partner set up locations
+6. Check if they need other Admins for both Deal Registration (Vartopia) and Partner Locator
+7. Make sure everything is filled out (Videos, White Papers)
+8. Make sure logo is updated/current
+9. Check anything else from the Locator Instructions is filled out
+10. Check if a deal registration has been entered
+11. Check Journeys progress
+→ If one/many of the above are not completed, send a reminder email about how to do it and why it is important, including a proposition for a Zoom meeting with the CAM and us (sync with CAM first, there may already be existing call cadences).
+Numbers/target achievement
+12. See if any big/well-known companies were signed and talk about the possibility to work on a case study
+→ If an interesting potential case study is detected, notify the CAM for him/her to follow up with the partner.
+→ Once review is finished, update the Last PHD Review and Account Notes fields on the Partner Account in SFDC. 
+
+*  _Open Partner Review
+1. First, complete all the Select Partner Review checklist
+2. Prioritize with Jordan/Bastian/Amelia monthly to determine which Open Partner to focus on that month
+3. Run a report on any partners who have 
+- Registered a deal
+- How many deals have closed
+- Logged in/started training
+
+→ Once review is finished, update the Last PHD Review and Account Notes fields on the Partner Account in SFDC. 
+
+
+
 ## **Channel Marketing Processes**
 
 Complete process for submitting an MDF proposal request for funds and detailed instructions regarding the approval and claim process can be found in the [Channel Partner Handbook under MDF.](https://about.gitlab.com/handbook/resellers/#requesting-market-development-funds---mdf)
