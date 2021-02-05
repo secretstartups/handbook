@@ -51,6 +51,26 @@ The "Welcome to GitLab" call will introduce the customer to the Technical Accoun
 1. Have discussions in the public issues as much as possible. If there is a question/discussion point that requires interaction with the GitLab Engineering and Product teams, post it in the public issue, as it most likely benefits everyone reading the public issue.
 1. When adding a SFDC link to a public issue, remember to [provide feedback](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to the product managers using the [feedback template](/handbook/product/how-to-engage/#feedback-template)
 
+### Disengaging with a customer
+
+There are situations when a TAM needs to disengage with a customer. Examples include:
+
+- A customer downgrades or churns and is [below the TAM alignment threshold](/handbook/customer-success/tam/services/#tam-alignment)
+- A TAM has been engaged with a customer [below the TAM alignment threshold](/handbook/customer-success/tam/services/#tam-alignment) for a strategic purpose such as a tier upgrade that was unsuccessful
+
+When this happens, it is important to manage the disengagement so that the customer understands the reason, and is clear on who they should communicate with going forward. Here are some recommendations for how to have this conversation:
+
+- Do it in person (or face-to-face via Zoom), and include the SAL/AE since they will retain the relationship.
+- Be honest about the reason. Each situation will be different, and it's a good idea to talk it over with your manager.
+- Go over their options for assistance going forward (below).
+- Send a follow-up that summarizes what was discussed, including their assistance options.
+
+Recommended options to review with the customer include:
+
+- Troubleshooting, errors, outages, and basic "howto" technical questions should go to Support.
+- Complex "howto" and workflow advice should be sent _in writing_ to the SAL/AE. Doing it in writing lets them work with the whole of Customer Success asynchronously to get the best solution.
+- Online resources such as the GitLab documentation, blog, YouTube channels, [community forum](https://forum.gitlab.com/) and other relevant materials that they can for self-serve guidance.
+
 ## Customer Prioritization
 
 GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics) to focus the TAM's efforts where they will have maximum value and impact. Different regions utilize different models for determining customer prioritization, as described below. The customer prioritization can change during the lifecycle and is reviewed by each region quarterly.
