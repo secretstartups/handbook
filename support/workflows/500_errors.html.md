@@ -25,6 +25,12 @@ If reports of slowness are received on GitLab.com, first take a look at the [Git
 
 - Worker Load -> Git Worker Load
 
+#### Degraded Runner Performance
+
+If a customer reports a shared runner running slower than it normally does, it is likely there is a degraded performance happening during the period the customer experienced slowness on the pipeline. 
+
+Check the [CI Runners Overview](https://dashboards.gitlab.com/d/ci-runners-main/ci-runners-overview?orgId=1) graphs where you will find an increase in queue apdex and latency. 
+
 Check on the [#feed_alerts](https://gitlab.slack.com/messages/C12RCNXK5), [#production](https://gitlab.slack.com/messages/C101F3796), and [#incident-management](https://gitlab.slack.com/messages/CB7P5CJS1) Slack channels to ensure this isn't an outage or infrastructure issue.
 
 ### If you notice slowness yourself on GitLab.com
