@@ -162,6 +162,15 @@ When the conversation moves into a highly technical space, these questions can h
 - "What will success look like when this is implemented? How will you measure that?"
 - "Can we take a step back and look at how this relates to the larger workflow?" _(This question helps you to guide the customer's technical thinking to the bigger picture, setting you up for follow-on business questions)_
 
+## Finding the right person to talk to
+
+[Leveling up the conversation](#leveling-up-from-operationaltechnical-to-strategic) will sometimes reveal that our main points of contact are not familiar with the business outcomes that their company is trying to solve with GitLab. When that occurs, we want to identify and connect with the person who can help us understand those.
+
+Here are some questions you can ask to get to the right person:
+
+- "Who do you think might be able to help us understand [stated objective]?"
+- "Is there anyone else that we should include in this conversation?"
+
 ## Five Whys
 
 Frequently when talking to our champion or their team, the things they will tell you they’re focused on are operational or technical concerns, but aren’t strategic business outcomes. One technique that can be used is the [5 Whys](https://en.wikipedia.org/wiki/Five_whys). The basic overview of this technique is that when a customer tells you a focus or goal, you can get to the strategic objectives behind this focus why asking "help me better understand why that focus is important?" or something along these lines. On average, asking a "dig deeper" question takes 5 "rounds" as such before you get to the core problem, or in our case strategic initiative.
