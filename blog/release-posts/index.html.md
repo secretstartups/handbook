@@ -131,7 +131,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Creating MRs to collect [performance improvements and bug fixes](#create-mrs-for-bugs-and-performance-improvements)
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
-- Working with PMM to identify items to include in What's New 
+- Working with VP of Product Management to identify items to include in What's New 
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
 - Sending out reminders about upcoming deadlines.
