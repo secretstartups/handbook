@@ -1,0 +1,107 @@
+---
+layout: handbook-page-toc
+title: GitLab performance snowplow dashboards
+description: "GitLab.com performance dashboards"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Purpose
+
+The purpose of these dashboards are to show performance of GitLab.com for users who allow us to collect performance data via snowlow. This
+can be used to determine where there are potential performance issues in the product in order to improve the overall user experience.
+
+
+## [Overall performance dashboard](https://app.periscopedata.com/app/gitlab/790506/gitlab.com-performance-per-snowplow-dashboard)
+
+This dashboard shows:
+
+### Graph: Per week for the last 3 months
+
+* Average and 50/90/99th percentiles for total load time
+* Number of page hits (so it can be compared with load time)
+* Average time for key subcomponents of the total load time suchas request, redirect, DOM, and processing time.
+
+This can answer questions such as:
+* Is performance improving over time?
+* Is performance correlated to the amount of page hits?
+* Where is most of the time spent in terms of phases of the web pages loading?
+
+### Graph: Per hour for the last 2 weeks
+
+* Average and 50/90/99th percentiles for total load time
+* Number of page hits
+
+This can answer questions such as:
+* When did performance issues spike?  Were there incidents during those times? Was there background maintenance going on during those times?  Are there other causes?
+* Is performance correlated to the amount of page hits?
+
+### Graph: Per day of the week for the last 2 weeks
+
+* Average and 50/90/99th percentiles for total load time
+* Number of page hits
+
+This can answer questions such as:
+* Is performance better on certain days of the week?
+* Is performance correlated to the amount of page hits?
+
+### Graph: Per hour of the day for the last 2 weeks
+
+* Average and 50/90/99th percentiles for total load time
+* Number of page hits
+
+This can answer questions such as:
+* Is performance better on certain hours of the day?
+* Is performance correlated to the amount of page hits?
+
+### Table: Metrics per route
+
+* Route name (a summary of the type of page being displayed, such as `merge_list` or `sourcecode_mr`)
+* Average and 50/90/99th percentiles for total load time
+* Percentage of total page hits analyzed
+* Percentage of domains that used this page
+
+This can answer questions such as:
+* Which routes are used most often (by hits and/or by domains)?
+* What are the performance metrics of these routes?
+* Based on above, which routes should be analzyed for potential performance improvements?
+
+
+## [Route drilldown dashboard](https://app.periscopedata.com/app/gitlab/815841/gitlab.com-performance-per-snowplow-per-route)
+
+### How to use this page
+
+Choose filters and then choose a route
+
+### What does it contain in common with the main dashboard?
+
+This has all of the same graphs as the same dashboard, but limited to a specifif route.
+
+This can be used to get more information on a specific route to identify trends for the route that should be considered for prioritization to resolve.
+
+### Route Table
+
+This dashboard also contains a route table that shows the slowest hits for the `gitlab-org` project for the route selected in the filter:
+* Route name
+* Timestamp
+* Clickable URL
+* Perfomance metrics from snowplow including: total time, redirect, unload, app cache, dns, tcp, request, response, processing, dom loading to interactive, dom interactiveto complete, and onload time.
+
+This can be used to determine:
+* When is this page slow (by day, by hour, by hour of the day, by day of the week)?
+* What are some examples that were slow that can be analyzed to determine the causes as to why?
+ 
+
+## Snowplow metrics
+
+More information on snowplow metrics:
+* [Snowplow performance timing fields](https://github.com/snowplow/snowplow-web-data-model/blob/master/README.md#3114-performance-timing-fields)
+* [Measuring page load times](https://discourse.snowplowanalytics.com/t/measuring-page-load-times-with-the-performance-timing-context-tutorial/100)
+
+
+
+
