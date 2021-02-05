@@ -22,7 +22,7 @@ Everything posted to our **Branded** channel should pass through digital product
 
 ## Live Streaming
 
-Everyone within the GitLab team is encouraged to live stream their meetings and events on GitLab Unfiltered.  First time livestreaming?  Find out how below!
+Everyone within the GitLab team is encouraged to live stream their meetings and events on GitLab Unfiltered. First time livestreaming? Find out how below!
 
 ### Why livestream?
 
