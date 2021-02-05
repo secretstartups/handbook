@@ -147,7 +147,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
-If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement to the [Technical Advisors](#technical-advisors) via the dev escalation process. When you communicate with tech advisors, always indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution. 
+If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement to the [Technical Advisors](#technical-advisors) via the dev escalation process. When you communicate with tech advisors, always indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution.
 
 <i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
 **Important:** Please check beforehand if you have **merge rights** to the www project.
@@ -346,11 +346,11 @@ It is recommended for the Release Post Manager to review all content for quality
 1. Is the why (problem) and the what (solution) clearly stated? See [writing about feature](https://about.gitlab.com/handbook/product/product-processes/#writing-about-features) as a guideline for what feature descriptions should contain.
 1. Does the filenames follow the recommended file-naming convention? See **Important note on naming files** under [Instructions](#instructions) for PM contributors.
 
-##### Tips for reviews 
+##### Tips for reviews
 
-1. Utilize the [Available now on GitLab](https://about.gitlab.com/releases/gitlab-com/) page to easily scan release post items that have been merged 
-1. Search the [Available now on GitLab](https://about.gitlab.com/releases/gitlab-com/) and preview pages for characters like `[`, `]`, `(`, and `)` to find malformed links. 
-1. Copy/paste the content of those pages into a tool like Grammarly to find less obvious typos like duplicate words. 
+1. Utilize the [Available now on GitLab](https://about.gitlab.com/releases/gitlab-com/) page to easily scan release post items that have been merged
+1. Search the [Available now on GitLab](https://about.gitlab.com/releases/gitlab-com/) and preview pages for characters like `[`, `]`, `(`, and `)` to find malformed links.
+1. Copy/paste the content of those pages into a tool like Grammarly to find less obvious typos like duplicate words.
 
 ### PM Contributors
 
@@ -551,49 +551,55 @@ Each month a Product Marketing Manager (PMM) will lead the messaging and positio
 
 The messaging lead is responsible for:
 
-- Deciding on the [top three themes](#top-three-features)
+- Deciding on the [top three themes](#identify-top-three-themes)
 - Writing the blog post [introduction](#introduction)
 - Coordinating with the PMM team to make sure all feature descriptions have [strong messaging](#messaging-review)
 - Ordering release post items, both primary and secondary. (see more info [below](#feature-order))
 - [Coordinating Marketing efforts](#marketing-coordination) on release day
 
-#### Identify top three themes and features
+#### Identify top three themes
 
-Using some of the tools and links below you can familiarize yourself with the features being delievered in this release, get a sense for which have the potential to be top features included in your intro, and create 3 core themes that will be the anchor your release post intro. 
+Follow the timeline below to help you do peliminary reserach in identifying the features behign shipped in the next release, categorizing them into themes, and prioritizing the themes you'd like to focus on for the release post intro.
 
 ##### Around 18th of previous month
 
-  - Join the monthly kick-off call or listen to the recording. You'll find the video on the  on the [GitLab Unfiltered Youtube Channel](https://www.youtube.com/watch?v=RNZbWmv3Vq0&list=PL05JrBw4t0Kp4Sv3eCZbZKtmMox3NipN-). The [Product Kickoff Review page's Overview](/direction/kickoff/#overview) links to a playlist for the kickoff videos.
+  - Join the monthly kick-off call or listen to the recording on the [GitLab Unfiltered Youtube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). The [Product Kickoff Review page's Overview](/direction/kickoff/#overview) links to a playlist for the kickoff videos.
   - Along with the kick-off call or recording, review the [kick-off call agenda](/direction/kickoff/)  
   - Review the [upcoming releases page](/upcoming-releases/), where features the Directors consider important will be highlighted with the label **HIGHLIGHT**
 
 ##### After 22nd of the previous month
 
   - Schedule a meeting with the previous messaging lead to understand best practices
-  - Create a tab for the current release in the [Release Feature Story Planning](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) spreadsheet by duplicating the previous release tab. Make sure to name the new tab according to the current release number and edit the issue filters in the spreadsheet to sort by the current release milestone (otherwise you'll be looking at a list of the previous month's features).
-  - Optional: Make a copy of the [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) to fill out as you organize potential themes/features in preparation to circulate your progress for review closer to the release date.
-- **Between the 5th and 10th of the release month**, from the [issue list](https://gitlab.com/gitlab-org/gitlab/-/issues) with Milestone 'Release Number', e.g. [filtering for the milestone 12.9](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=12.9), shortlist issues by these criteria:
-  - Customer Interest - Look for issues with Label 'customer' and sort by Popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
-  - CEO Interest - Look for issues with Label 'CEO Interest'. Shortlist the issues listed
-  - Popularity - Sort by Popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
-  - Strategic Issues - Look for issues with Label 'Product Vision FY20' and sort by popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
-  - Oldest Issues - Sort by Created Date. Shortlist a few of the oldest issues
-- **By the 11th of the release month**
-  - Shortlist features from the Investor Update from CEO about the top features indicated to investors
-  - Start by looking at Release Post Items labeled ~"release post item::primary"
-  - Update your [Release Feature Story Planning](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) spreadsheet tab as necessary with the shortlist of features based on the previous criteria: Customer Interest, CEO Interest, Popularity, Strategic Issues, and Oldest Issues
-  - Optional: Update your [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) with potential themes/features based on your shortlist criteria
-- **On the 11th of the release month, take inventory to make sure you are ready for next steps**
-  - You should have already started identifying theme/features based on the various parameters outlined above and [Merge requests](https://gitlab.com/dashboard/merge_requests?scope=all&utf8=%E2%9C%93&state=all) with Milestone 'Release Number' and Label 'release-post' which give the indicator of all the features that could be released
-  - Ideally, you've identified more than 4-5 features or themes - as even at this stage, a few features may move to the next release, making a theme irrelevant. Watch the release post [preview page](https://about.gitlab.com/releases/gitlab-com/). Features posted there have been introduced on GitLab.com and are less likely to slip.
-  - Remember to leverage your [Release Feature Story Planning spreadsheet](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) and to update the optional [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) if you chose to use it, as it will be very handy in the next several days leading up to release post content reviews
+  - Create a tab for the current release in the [Release Feature Story Planning](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) spreadsheet by duplicating the previous release tab.
+      - Make sure to name the new tab according to the current release number and edit the issue filters in the spreadsheet to sort by the current release milestone (otherwise you'll be looking at a list of the previous month's features).
+  - Make a copy of the [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) to fill out as you organize potential themes/features in preparation to circulate your progress for review closer to the release date.
 
-#### Messaging lead positioning, content creation, and stakeholder reviews (11th of the release month - 22nd of the release month)
+##### Between the 5th and 10th of the release month
 
-**From the 11th until the release launch on the 22nd, your source of truth for remaining messaging lead tasks is the detailed PMM checklist included in each month's release post MR description entitled "Messaging content and positioning (Messaging Lead)."**
+  - Review the [issue list](https://gitlab.com/gitlab-org/gitlab/-/issues) with Milestone 'Release Number'. E.g. [filtering for the milestone 12.9](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&milestone_title=12.9),
+  - Shortlist issues by these criteria:
+    - Customer Interest - Look for issues with Label 'customer' and sort by Popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
+    - CEO Interest - Look for issues with Label 'CEO Interest'. Shortlist the issues listed
+    - Popularity - Sort by Popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
+    - Strategic Issues - Look for issues with Label 'Product Vision FY20' and sort by popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
+    - Oldest Issues - Sort by Created Date. Shortlist a few of the oldest issues
+  - Update your spreadsheet tab with the features you have shortlisted.
 
-- The messaging lead tasklist is sourced from the [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and acts as the SSoT for the remaining tasks leading up to the release on the 22nd. Date range: 11th of the release month - 22nd day of release.
-- After the 11th, you should have completed the preparation and planning tasks in the handbook section above, as well as have an idea for your potential themes/features.
+
+##### By the 11th of the release month
+
+  - Look at Release Post Item MRs found in the `www-gitlab-com` project
+    - Sort by MRs labeled ~"release post item::primary"
+    - Compare the release post primary items with your priviously shortlisted features and update accordingly.
+  - Based on your short listed features, draft 4-5 potential themes in your Release Feature Story Planning Doc.
+  - NOTE: Features may slip to the next release.
+    - Watch the release post [preview page](https://about.gitlab.com/releases/gitlab-com/). Features posted there have been introduced on GitLab.com and are less likely to slip.
+
+#### Move on to the release post MR
+
+After the 11th of the month, your list of tasks to prepare and deliver the release post is in the release post MR. The latest MR can be found linked in the description of the `#release-post` slack channel. You can see the tasks that will appear in the MR in the [monthly release post blog template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md).
+
+- The messaging lead tasklist is sourced from the [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and acts as the SSoT for the remaining tasks leading up to the release on the 22nd.
 
 #### Best practices for the release post
 
@@ -866,7 +872,7 @@ The responsibilities of the Engineering Manager are documented in the
 
 Each month the release post manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension. This insures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution. It is recommended that technical advisors review the documented [technical aspects](https://about.gitlab.com/handbook/marketing/blog/release-posts/#technical-aspects) of the release post for reference, and the [escalation process](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
-Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The release post manager will reach out to the technical advisor on call via Slack in `#dev-escalation` channel and then cross-posts to `#release-post` channel for transparency that issues are being worked on. It is then expected that the technical advisor will respond to the release post manager or release post DRI as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the 18th and the 22nd of the month**. The technical advisor is responsible for determining if further dev escalation should proceed. 
+Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The release post manager will reach out to the technical advisor on call via Slack in `#dev-escalation` channel and then cross-posts to `#release-post` channel for transparency that issues are being worked on. It is then expected that the technical advisor will respond to the release post manager or release post DRI as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the 18th and the 22nd of the month**. The technical advisor is responsible for determining if further dev escalation should proceed.
 
 The good news is that the release post technical hurdles are often reasonably easy to trouble shoot for technical experts, which is why we're excited about this partnership!
 
@@ -883,7 +889,7 @@ Below are the types of problems the release post mangers may need help with.
 **Release Post Manager**
 
 Should you exhaust your ability to resolve your blocker quickly mention the Technical Advisor in `#dev-escalation` channel and cross-post in `#release-post` channel to ask for help, and make others aware that there may be a delay in assembly.
-Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem. Indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution. 
+Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem. Indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution.
 
 **Technical Advisor**
 
@@ -900,7 +906,7 @@ Following your best judgement with the resolution of the incdient, record the di
 **Release Post Manager**
 
 Should you exhaust your ability to resolve your blocker quickly mention the Technical Advisor in `#dev-escalation` channel and cross-post in `#release-post` channel to ask for help, and make others aware that there may be a delay in release post deployment.
-Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem. Indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution. 
+Describe your blocker in detail, screenshots, videos, etc can assist in diagnosing the problem. Indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution.
 
 **Technical Advisor**
 
@@ -1052,7 +1058,7 @@ features:
 
 #### Feature priority
 
-The second line of the content block should indicate whether the feature is a top, primary, or secondary feature. For primary features, use the `primary` key as shown in the [sample content block above](/handbook/marketing/blog/release-posts/#content-blocks). For secondary features, replace the `primary` key with the word `secondary` and for the top feature replace `primary` with `top`. 
+The second line of the content block should indicate whether the feature is a top, primary, or secondary feature. For primary features, use the `primary` key as shown in the [sample content block above](/handbook/marketing/blog/release-posts/#content-blocks). For secondary features, replace the `primary` key with the word `secondary` and for the top feature replace `primary` with `top`.
 
 #### Feature name
 
@@ -1628,7 +1634,7 @@ In preparation for content assembly on the 18th of the month, the Release Post M
 
 #### Possible Script Errors with Corrective Actions
 
-The [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md) contains steps to setup your local development environment. 
+The [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md) contains steps to setup your local development environment.
 
 Here are some of the common errors that a user might encounter where it may not be clear as what to do.
 
