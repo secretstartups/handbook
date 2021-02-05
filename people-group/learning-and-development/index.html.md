@@ -242,6 +242,10 @@ Additional planning and notes around the sprint board can be found in [this issu
 - Consider having GitLab team members vote on priority issues to determine need and interest in learning & development content
 - Stack rank issues in the board based on priority if possible
 
+#### Tips for issue project management
+
+
+
 ### Top five training content development principles
 
 If you are developing content to meet your learning needs or partnering with the L&D team, here are five key principles to consider when formulating a learning session: 
