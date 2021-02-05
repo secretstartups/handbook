@@ -13,7 +13,9 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
 
-L&D will be rolling out a **three-week iteration of the program** during the month of March 2021. **The program will start 2021-03-15 and end on 2021-04-02. If you are interested in participating in March, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
+L&D will be rolling out a **three-week iteration of the program** during the month of March 2021. **The program will start 2021-03-15 and end on 2021-04-02. If you are interested in participating in March, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the March program! 
+
+Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
 
 One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the three-weeks. 
 
