@@ -336,7 +336,7 @@ An in-person or virtual workshop where the attendees are guided through an agend
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
+For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
@@ -565,7 +565,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Update local program tokens 
 - Update the campaign smart list filter with `contains` and the prefix
    - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [parameter]` 
-   - Available parameters are [here](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
+   - Available parameters are [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
 - Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
@@ -574,7 +574,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
   - Edit the `flow` steps to be the nurture program you desire to push leads into, and the stream.
 
 ##### Step 5: Update this Handbook page
-- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a :white_check_mark: for the parameter you have set up.
+- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a :white_check_mark: for the parameter you have set up.
 
 
 
