@@ -154,28 +154,32 @@ Each calendar month the intercompany transactions between GitLab entities are se
 GitLab's entities are subject to statutory reporting requirements of indirect tax in their home countries (i.e. GST and VAT).
 
 ### USA territory
-In the USA the filing of GST returns is managed via [Avalara](https://www.avalara.com/us/en/index.html) software. Avalara AvaTax automatically calculates sales and use tax for transactions, invoices, and other activities registered on [Zuora](https://www.zuora.com/). State returns are automatically filed by Avalara.
+In the USA the filing of Sales & Use Tax returns is managed via [Avalara](https://www.avalara.com/us/en/index.html) software. Avalara AvaTax automatically calculates sales and use tax for transactions, invoices, and other activities registered on [Zuora](https://www.zuora.com/). State returns are automatically filed by Avalara. Quarterly analysis is performed to check taxable nexus in each state (e.g. depending on ths state, nexus arises economically by volume of transactions, or physically by employees being resident of that state or sales representatives traveling through that state). 
+
+### Canada territory
+GitLab Inc. is registered as non-resident for QST purposes. As such Avalara AvaTax automatically calculates sales and use tax for transactions, invoices, and other activities registered on [Zuora](https://www.zuora.com/). Customers that have provided their TQ number to GitLab should not be charged with QST. QST returns are filed quarterly. See below section for a process description.
 
 ### International Territory
 All non-US entities are supported by local tax consultants to prepare and file indirect tax returns. The Netherlands, United Kingdom, and Australia have a quarterly reporting cycle. Germany requires a monthly reporting cycle. The GitLab Controller keeps track of the reporting deadlines.  The procedure for filing the statutory indirect tax returns is as follows:
 
 1. Calculate VAT on Sales
-  * GitLab Controller pulls the transactions from Avalara
+  * Tax Accountant pulls the transactions from Avalara
   * The report from Avalara generates the taxable sales
   * The report from Avalara generates the VAT/GST on Sales amount
 2. Calculate VAT on purchases
-  * GitLab Controller exports VAT on Purchases ledger from [Netsuite](https://system.netsuite.com/pages/customerlogin.jsp)
-  * GitLab Controller generates copies of all invoices relating to purchase transactions
-3. Share reports and documentation from steps 1 and 2 above with tax consultant
+  * Tax Accountant exports VAT on Purchases ledger from [Netsuite](https://system.netsuite.com/pages/customerlogin.jsp)
+  * Tax Accountant requests copies of all invoices relating to purchase transactions with the Accounting team
+3. Tax Accountant shares reports and documentation from steps 1 and 2 above with tax consultant
 4. Tax consultant drafts VAT return
-5. Draft VAT return is reviewed by GitLab Controller
-6. GitLab Controller approves or rejects draft
-7. Rejection > start with step 4 // Approval > tax consultant files VAT return
-8. Tax consultant provides copy of VAT return filed to GitLab Controller
-9. Tax consultant informs VAT payable amount to GitLab Controller
-10. GitLab Controller puts payment into banking system
-11. GitLab Controller requests approval for payment from CFO
-12. Once approved by CFO the VAT due is wire transferred directly to the Tax Authorities
+5. Draft VAT return is reviewed by Tax Accountant
+6. Tax Accountant approves or rejects draft
+7. Rejection > start with step 4 // Approval > Director, Tax gives final approval for submission
+8. Tax consultant files VAT return
+9. Tax consultant provides copy of VAT return filed to Tax Accountant
+10. Tax consultant informs VAT payable amount to Tax Accountant
+11. Tax Accountant informs AP team to lodge payment into banking system
+12. Standard approval flow for payment is adhered to
+13. Upon approval the VAT due is wire transferred directly to the Tax Authorities (except for Germany, auto debit)
 
 ## Tax Procedure for Reporting Taxable Gains on Option Exercises
 
@@ -205,21 +209,18 @@ All GitLab entities have engaged tax consultants in their country of establishme
 
 The procedure for filing the statutory corporate direct tax returns is as follows:
 
-1. Data request from the Tax Consultant to the Accounting & External Reporting Manager
-1. Accounting & External Reporting Manager informs Director of Tax on data request
-1. Accounting & External Reporting Manager gathers data to provide to Tax Consultant
-1. Director of Tax supports Accounting & External Reporting Manager with data gathering where necessary
-1. Data sent by Accounting & External Reporting Manager to Tax Consultant
+1. Data request from the Tax Consultant to the Tax Team
+1. International Tax Manager and Tax Accountant follow up on data request and provides data to Tax Consultant
 1. Tax Consultant prepares Corporate Income Tax Return
-1. Draft Corporate Income Tax Return sent by Tax Consultant to Accounting & External Reporting Manager
-1. Accounting & External Reporting Manager review Corporate Income Tax Return and informs Director of Tax
+1. Draft Corporate Income Tax Return sent by Tax Consultant to International Tax Manager
+1. International Tax Manager reviews Corporate Income Tax Return and informs Director of Tax
 1. Director of Tax reviews Corporate Income Tax Return and upon approval requests approval from CFO
-1. Upon approval of by the CFO the Accounting & External Reporting Manager confirms the Tax Consultant to file Corporate Income Tax Return with the local Tax Authorities
+1. Upon approval of by the CFO the International Tax Manager confirms the Tax Consultant to file Corporate Income Tax Return with the local Tax Authorities
 1. Tax Consultant files Corporate Income Tax Return with the local Tax Authorities
-1. Upon receipt of Assessment Notice - if applicable - Tax Consultant informs Accounting & External Reporting Manager
-1. Accounting & External Reporting Manager ensures payment of the Assessment Notice in case of amount payable
-1. GitLab Controller puts payment into banking system
-1. CFO approves payment order in banking system
+1. Upon receipt of Assessment Notice - if applicable - Tax Consultant informs Tax Team, tax team reviews the assessment notice
+1. Tax Accountant ensures payment of the Assessment Notice in case of amount payable
+1. GitLab AP team lodges payment into banking system
+1. Standard approval flow is adhered to for payment
 
 ## Tax Procedure for the R&D Wage Tax Credit in the Netherlands ("WBSO")
 
