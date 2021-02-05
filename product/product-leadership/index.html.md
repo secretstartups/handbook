@@ -10,7 +10,7 @@ title: Product Leadership
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-[**Principles**](/handbook/product/product-principles) - [**Processes**](/handbook/product/product-processes) - [**Categorization**](/handbook/product/categories) - [**GitLab the Product**](/handbook/product/gitlab-the-product) - [**Being a PM**](/handbook/product/product-manager-role) - [**Performance Indicators**](/handbook/product/performance-indicators/) - [**Leadership**](/handbook/product/product-leadership/)
+[**Principles**](/handbook/product/product-principles/) - [**Processes**](/handbook/product/product-processes/) - [**Categorization**](/handbook/product/categories/) - [**GitLab the Product**](/handbook/product/gitlab-the-product/) - [**Being a PM**](/handbook/product/product-manager-role/) - [**Performance Indicators**](/handbook/product/performance-indicators/) - [**Leadership**](/handbook/product/product-leadership/)
 
 ## General Product Organizational Structure
 
@@ -26,7 +26,7 @@ The GitLab Product team includes team members at various levels of [Product Mana
 
 ## Product Leaders
 
-All Managers and above in the Product function (as well as the VP of Product Strategy) are considered product leaders. They can be referenced using the `@gl-product-leadership` handle. This document describes important leadership concepts specific to the product management team. See also our page on [general GitLab leadership guidance](/handbook/leadership).
+All Managers and above in the Product function are considered product leaders. They can be referenced using the `@gl-product-leadership` handle. This document describes important leadership concepts specific to the product management team. See also our page on [general GitLab leadership guidance](/handbook/leadership).
 
 ### Product Leadership Team Structure
 
@@ -41,11 +41,9 @@ This group can be referenced in GitLab.com issues using the `@gl-product-plt` ha
 ## Product Leadership ReadMe's
 
 - [Scott Williamson's README](/handbook/product/readme/scott-williamson.html)
-- [Jeremy Watson's README](/handbook/product/readme/jeremy-watson.html)
-- [Eric Brinkman's README](/handbook/product/readme/eric-brinkman.html)
+- [Anoop Dawar's README](https://gitlab.com/adawar/readme/-/blob/master/README.md)
 - [Kevin Chu's README](https://gitlab.com/kbychu/README)
 - [Kenny Johnston's README](https://gitlab.com/kencjohnston/README)
-- [Tim Hey's README](/handbook/product/readme/tim-hey.html)
 - [Jackie Porter's README](https://gitlab.com/jreporter/read-me)
 
 ## Product Manager/Leader Collaboration

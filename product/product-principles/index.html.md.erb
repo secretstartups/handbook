@@ -8,7 +8,7 @@ title: Product Principles
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-[**Principles**](/handbook/product/product-principles) - [**Processes**](/handbook/product/product-processes) - [**Categorization**](/handbook/product/categories) - [**GitLab the Product**](/handbook/product/gitlab-the-product) - [**Being a PM**](/handbook/product/product-manager-role) - [**Performance Indicators**](/handbook/product/performance-indicators/) - [**Leadership**](/handbook/product/product-leadership/)
+[**Principles**](/handbook/product/product-principles/) - [**Processes**](/handbook/product/product-processes/) - [**Categorization**](/handbook/product/categories/) - [**GitLab the Product**](/handbook/product/gitlab-the-product) - [**Being a PM**](/handbook/product/product-manager-role) - [**Performance Indicators**](/handbook/product/performance-indicators/) - [**Leadership**](/handbook/product/product-leadership/)
 
 ## Our Product Principles
 
@@ -91,6 +91,10 @@ When considering how to scope a feature for a release remember it is ok to ship 
 
 An MVC approach is a byproduct of our spirit of iteration. That means we [break problems down](/handbook/product-development-flow/#build-phase-1-plan) as [small as possible](/handbook/values/#make-small-merge-requests), use [throughput as a performance indicator](/handbook/engineering/development/performance-indicators/#throughput), and focus on [reduced cycle time](/handbook/values/#reduce-cycle-time). Thinking iteratively is not always intuitive, and breaking certain topics or projects down can be challenging. Here's a helpful [video](https://www.youtube.com/watch?v=zwoFDSb__yM) from our CEO with guidance on how to think more iteratively.
 
+
+Here is a [great video](https://www.youtube.com/watch?v=MwHHErfX9hI) that illustrates how to build MVCs using Iteration. It shows Lego climbing obstacles. The first design fails. The second one can climb a book and so on. It also illustrates how modularity and good interfaces help with  iteration as things get complex.
+
+
 #### Feedback issues
 
 An MVC approach allows for maximum feedback while iterating. To help gather that feedback, Product Managers are encouraged to create feedback issues ([example](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/15367)) to consolidate suggestions and experiences from users. Consider mentioning the feedback issue in any release post items and related implementation issue(s) for awareness.
@@ -98,6 +102,27 @@ An MVC approach allows for maximum feedback while iterating. To help gather that
 - Feedback issues allow GitLab team members and the wider GitLab community to offer thoughts and suggestions for future iteration.
 - Feedback issues are particularly encouraged for major new customer-facing features.
 - These issues can be closed at the end of the milestone following the milestone when they were introduced.
+
+### Celebrate and Learn from Failures
+
+It's important that team members know they are encouraged by E-group to continue moving fast as GitLab grows and gets bigger as a company. This involves moving quickly even in the face of risk and complexity. In aligment with our [transparency value](https://about.gitlab.com/handbook/values/#transparency), we'd like to celebrate examples of failures or mistakes that were made while moving fast, where we ultimately learned from it and moved on. 
+
+The following failures provided by the product team are celebrated as opportunities to gain insight, share learnings and move on with additional knowledge: 
+
+1. We initially believed we should create a lift and shift translator for Jenkins, but learned from users and technical experts that it wasn't technically feasible and it would be better to invest in more detailed documentation and guidance. 
+1. With Auto DevOps, we discovered the desire for composability and the need to iterate on your DevOps platform makes a one-pipeline fits all capability miss the mark for tackling that user pain.
+1. We integrated with some monitoring and observability tools as MVCs (Jaeger) that were just too MVC to give us data points on their success.
+1. We relied upon "MVC" not including on by default and usable by default - resulting in lots of MVCs that we thought would garner us new information, but did not.
+1. We spent time delivering a marketplace offering, and had very little traction. We learned marketplace offerings alone are not a vehicle for adoption, and we need a sales alignment with the marketplace vendor to achieve success. 
+1. We had duplication of effort between Quality and Distribution. We didn't recognize / resolve this for too long. We have learned to better integrate Quality into the planning process.
+1. Data telemetry in general has been one of our failures. We didn't invest in telemetry seriously or early enough, and we attempted to accelerate via a 3rd party, but didn't do a good enough job talking to our community on the best ways to roll that out.
+1. We failed to capture significant users with APM. [Internal Deck for Reference](https://docs.google.com/presentation/d/1Iw79oaSZg1OVAmubIhXQZOAsKd_snxKUXrLCjSsawzs/edit#slide=id.g29a70c6c35_0_68)
+1. Historically, designers had been instructed to not spend time on problem validation, but we had a PM who realized in order for her group to be successful, she needed her design counterpart to be deeply involved in validation work. 
+1. We learned that GitLab's original Serverless strategy was dependent on immature technology and not necessarily aligned with the the market winner Lambda. This resulted in GitLab stopping investment in Serverless. 
+1. We recognized a big gap in security concerns with GitLab managed clusters, which was prohibiting this feature from being adopted by customers. Once we learned from this 'failure' we introduced the Kubernetes agent instead. 
+
+*If you have an failure that can serve as a learning opportunity, please make an MR to this page* 
+
 
 ### Avoid "Not Invented Here" Syndrome
 
@@ -156,10 +181,10 @@ When considering adding new configuration, we follow the following principles:
 - **Encourage favorable behaviors by limiting configuration** - Convention also implies that we're encouraging our customers to do things
 in a certain way. A very concrete example of this is the ability to disable pipelines. We believe that our integrated solution will give a superior user experience and we're motivated to encourage this behavior. For this reason, adding a configuration to allow disabling this permanently (be that in a template or instance-wide), is something that should be avoided.
 - **Design for users not intermediaries** - GitLab should avoid falling into the [Blackboard trap](https://twitter.com/random_walker/status/1182637292869115904) of building a product that administrators of GitLab love because it is configurable, but developers and other users of GitLab hate because it is overly complex and confusing.
-- **Working by Default** - From the perspective of someone using GitLab, the feature does not exist until it works by default. This means, with few exceptions, features should simply work on GitLab.com and self-managed installations of GitLab without any configuration. This is more difficult than "on by default," which implies that features may be enabled by default but then require additional effort to set up. Working by default is worth this extra thoughtfulness and effort, because it enables an extremely important outcome: It allows customers to easily adopt our entire platform and experience the benefits of a single app for the entire DevOps lifecycle. In order to be properly working by default a feature needs two things:
-   - **On-by-default** - it must not be behind a feature flag or off by default. In addition to encouraging behavior by limiting the ability to toggle features, new features, when introduced, should default to turning things ON (if they are configurable at all - preferably they should not be), and when necessary, automatically migrate existing users/groups/projects to have the new features ON. Similarly, feature flags should be consistently ON for both GitLab.com and self-managed users whenever possible. It is important to remember that vocal proponents of an issue that a Product Manager might interact with would likely be inclined to take the extra effort to enable a feature, but most users will not.
-   - On-by-default can be rolled out incrementally. A feature can sometimes be activated within days via a feature flag on [GitLab.com](https://gitlab.com). Other times a feature can take months to prove that it has the performance and visibility enterprises need.
-   - **Setup-by-default** - it should not require the admin or user to setup or configure the feature before it can be used. We should ensure every feature has sensible defaults where value can be extracted from the start.
+- **Working by Default** - From the perspective of someone using GitLab, the feature does not exist until it works by default. This means, with few exceptions, features should simply work on GitLab.com and self-managed installations of GitLab without setup, toggling feature flags, modifying GitLab Omnibus (`gitlab.rb`) or Charts configurations, or installing extra components. This is more difficult than "enabled by default," which implies that features may be available by default but then require additional effort to set up. Working by default is worth the extra thoughtfulness and effort, because it enables an extremely important outcome: It allows customers to easily adopt our entire platform and experience the benefits of a single app for the entire DevOps lifecycle. In order to be properly working by default a feature needs two things:
+   - **Enabled-by-default** - it must not require modifying GitLab Omnibus (`gitlab.rb`) or Charts configurations, installing extra components on the host machine, or be behind a feature flag. When features are not enabled-by-default most people will never benefit from it because admin access to the GitLab application or the host machine will be needed. Feature flags should be consistently ON for both GitLab.com and self-managed users whenever possible.
+   - Enabled-by-default can be rolled out incrementally. A feature can sometimes be activated within days via a feature flag on [GitLab.com](https://gitlab.com). Other times a feature can take months to prove that it has the performance and visibility enterprises need.
+   - **Setup-by-default** - it should not require the setup before the feature can be used. We should ensure every feature has sensible defaults, and automatically migrate existing users/groups/projects to have the new features setup by default, while ensuring that the security and infrastructure costs would not be substantially affected. It is important to remember that most people are not likely to take the extra effort to setup a new feature, nor will they be aware that the feature has been added. The vocal proponents of issues who a Product Manager might interact with would likely be inclined to take the extra effort to setup a feature, but most people will not.
 
 - **Avoid Limits** - Limits should be in place to [protect the system](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5617) but not to "slowly try out" a feature. By limiting the usefulness of a feature right from the start the only thing you are achieving is limiting its adoption and usefulness. If you are going to default to OFF or limited, you must have a good, documented reason for this.
 - **Avoid configuration completely when possible** - Requests for configuration can be a proxy for trying to support a fragile workflow. Rather than enabling bad habits and incurring product debt, effort should be spent helping customers adopt best practices.
@@ -174,6 +199,44 @@ Sometimes fast deployments are needed to fix a service or application outage tha
 <figure class="video_container">
  <iframe src="https://www.youtube.com/embed/03ODv1cEO6E" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
+
+
+#### Parity between SaaS and Self-managed deployments
+
+We want to provide the same capabilities to our users regardless of the method they choose to use GitLab (GitLab.com or Self-managed). At the same time, we believe in the power of a [single code base](https://about.gitlab.com/handbook/product/single-application/#single-codebase).
+
+Therefore we maintain feature parity between SaaS and Self-managed installations.
+
+
+#### Principled adherence to the established knowledge architecture
+
+**Exception to this product principle requires CEO approval. Work with VP, Product Management to add your request to the Product Scale agenda  describing the situation and request for exception to gain CEO approval.**
+
+Our [simplicity](https://about.gitlab.com/handbook/product/product-principles/#simplicity) and [SaaS/Self-Managed Parity](https://about.gitlab.com/handbook/product/product-principles/#parity-between-saas-and-self-managed-deployments) principles require that we adhere to our established knowledge architecture. Our established architecture is [Workspace](https://gitlab.com/groups/gitlab-org/-/epics/4257#proposal), [Group](https://docs.gitlab.com/ee/user/group/) and [Project](https://docs.gitlab.com/ee/user/project/). 
+
+* When we need to add capabilities that an admin needs to apply across the entire organization, then we provide them at the workspace level.
+
+* When we need to add capabilities that need to apply across all projects in a group, but not applicable to all groups in a workspace, then we provide them at a group level.
+
+* When we need to add capabilities that need to apply across a specific project, but not all projects in a group, then we provide them at a project level.
+
+* For capabilities our users want applied to a set of groups, it is tempting to create another aggregation concept for a “set of groups”. We do not consider that until it is available both at the project and group level for a few months. The solution is to implement it for all groups at the workspace level or for each group in the set individually.
+
+* For capabilities our users want applied to a set of projects, it is tempting to create another aggregation concept for a “set of projects”. We do not consider that until it is available both at the project and group level for a few months. The solution is to implement it for all projects at the group level or for each project in the set individually.
+
+Note: This implies that we will take pains to avoid instance-level features as We expect to move all capabilities from instance to workspace over time. 
+
+### Take pains to avoid instance-level features
+
+After making a tier decision on a new feature, we should strive to maximize the number of users who can use it.
+
+As part of this objective, we should avoid building instance-level features when possible. Building at the instance level (in the [admin area](https://docs.gitlab.com/ee/user/admin_area/)) leads to 
+[a separation between GitLab.com and self-managed](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/324#note_394401193) and limits 
+your audience to self-managed customers only:
+
+> Historically (and even net-new proposed features) we've often started with an "instance-wide" mindset which then means we need to iterate and adjust features to work at a group-level. This often delays functionality for our SaaS customers and makes GitLab.COM feel like a second-class citizen.
+
+There are factors that may justify an instance-level feature, like [engineering efficiency](https://gitlab.com/groups/gitlab-org/-/epics/4147#note_415603249) and [high infrastructure cost](https://gitlab.com/gitlab-org/gitlab/-/issues/276583#note_473354281), but we should always have a clear view on how we might bring the feature to GitLab.com and clearly document why we started with the instance-level in the issue.
 
 #### Deciding whether to add configuration
 
@@ -478,17 +541,6 @@ to manage multiple boards such as supporting the navigation interface, and all t
 
 This principle does not apply to our SaaS offering as limits are occasionally introduced to limit our hosting costs and protect other users from potential abuse. As an example we have [shared runner](https://docs.gitlab.com/ee/user/gitlab_com/#shared-runners) minute quotas and implement [rate limiting](https://docs.gitlab.com/ee/user/gitlab_com/#gitlabcom-specific-rate-limits).
 
-### Avoid instance-level features
-
-After making a tier decision on a new feature, we should strive to maximize the number of users who can use it. 
-
-As part of this objective, we should avoid building instance-level features when possible. Building at the instance level (in the [admin area](https://docs.gitlab.com/ee/user/admin_area/)) leads to 
-[a separation between GitLab.com and self-managed](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/324#note_394401193) and limits 
-your audience to self-managed customers only:
-
-> Historically (and even net-new proposed features) we've often started with an "instance-wide" mindset which then means we need to iterate and adjust features to work at a group-level. This often delays functionality for our SaaS customers and makes GitLab.COM feel like a second-class citizen.
-
-There are factors that may justify an instance-level feature, like [engineering efficiency](https://gitlab.com/groups/gitlab-org/-/epics/4147#note_415603249), but we should always have a clear view on how we might bring the feature to GitLab.com and clearly document why we started with the instance-level in the issue.
 
 ### Avoid enforced workflows but allow enterprise flexibility
 

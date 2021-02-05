@@ -62,7 +62,7 @@ feature request and desired outcome. The process will be:
 - Sales schedules 1 hour zoom meeting with product manager, customer, and
 themselves. Call recorded if customer gives permission.
 - Product Manager prepares any additional questions they would like answered, beyond what is below.
-    - What version of GitLab are you currently using? CE / Starter / Premium?
+    - What version of GitLab are you currently using? CE / Premium / Ultimate?
     - How are you currently doing source code management? GitLab merge requests or another tool? How about CI/CD?
     - How are you currently doing issue management? How are you using HP ALM? Agile/Kanban? What do your sprint/iterations look like? 1 week? 1 month? 2 months?
     - What is the integration like between issue management and source code management?
@@ -80,6 +80,12 @@ version of GitLab; even gitlab.com is running on GitLab Ultimate, and we move
 faster that way by minimizing technical complexity to determine features to
 follow after, it’s a trade off to make. This doesn’t mean that "no" is always
 going to stay "no." We keep an open mind for improvements.
+
+### Example: Customer needs support configuring a self-managed runner with a SaaS license or are looking for prescriptive advice for setting up GitLab 
+
+If you need support with a specific customer and your Technical account manager is unable configure what is being requested or you are being asked to provide very specific guidelines for use of GitLab, we suggest creating an issue using the [Product Support Request](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Support-Request.md), and following the steps suggested in the issue. 
+
+To remain focused on [customer results](/handbook/values/#customer-results) and [efficiency](/handbook/values/#efficiency), we recommend setting a due date on the issue in 5 business days and assigning the issue to the Product Leader of the section for triage. 
 
 ### Example: Many support requests come in about a bug with CI
 

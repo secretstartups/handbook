@@ -158,7 +158,7 @@ Enterprises that use a complex toolchain often need [20 people to manage all the
 1. Version control <=> Code review, the code review happens on a branch that is updated.
 1. Version control <=> Continuous integration, run CI automatically on the default branch, see CI status per branch.
 1. Version control <=> CD/Release automation, see whether a particular commit is live somewhere.
-1. Version control <=> Security testing, see whether a commit is vulnerable / with out of date dependencies.
+1. Version control <=> Security testing, see whether a commit is vulnerable / with out-of-date dependencies.
 1. Code review <=> Continuous integration, see the test results in the code review screen.
 1. Code review <=> Security testing, see the test results in the code review screen.
 1. Code review <=> CD/Release automation, see and control pushing to new environments in the code review screen.
@@ -307,7 +307,7 @@ apps and make them part of the review process.
 
 Cycle analytics tell you how what your time to value, from planning to
 monitoring is. Only by having direct access to each step in the software
-development lifecyle, GitLab can give actionable data on time to value.
+development lifecycle, GitLab can give actionable data on time to value.
 
 This means you can see where you are lagging and make meaningful change to ship
 faster.
