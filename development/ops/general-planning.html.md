@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: General Planning Process - Ops Sub-department
+description: "The general planning process followed by the groups within the Ops Sub-department."
 ---
 
 - TOC
