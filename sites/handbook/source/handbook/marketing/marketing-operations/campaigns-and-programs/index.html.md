@@ -24,10 +24,7 @@ Campaign buckets are used to improve reporting at a high level and Allocadia for
 |Users & Community| Campaigns geared towards GitLab users and Community|Commit, Meetups|
 |E-Commerce Conversion|Campaigns that do not require a touch by sales to close|`Buy Now` in our store|
 
-Campaign Types and Large Buckets will not always be 1:1, as certain programs could fall into multiple buckets (like webcasts, content)
-
-If you need help determining which bucket to choose, follow this decision tree Mural:
-<div style="width: 600px;" class="embed-thumb"> <div style="padding-left:50px"> </div> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://app.mural.co/static/images/mural-thumb.svg) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1611877933822/4f892a02d3ad35bd3a7c4bed03f9f15d85bb7d0a" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div></div>
+Campaign Types and Large Buckets will not always be 1:1, as certain programs could fall into multiple buckets (like webcasts, content).
 
 ### Campaign Cost Tracking
 
