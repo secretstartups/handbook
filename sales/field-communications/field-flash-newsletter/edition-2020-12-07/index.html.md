@@ -65,7 +65,7 @@ There are **only 2 months left to secure your spot at President’s Club 2021 at
 
 ----
 There is **exciting momentum from the Channel** team including: 
-1. The new [Partner Locator](https://about.gitlab.com/resellers/) is live, making it easier for customers to find a Channel Partner to fit their need(s) for implementation, integration and optimizations services.
+1. The new [Partner Locator](https://about.gitlab.com/partners/) is live, making it easier for customers to find a Channel Partner to fit their need(s) for implementation, integration and optimizations services.
 1. The [Channel Services Program](/handbook/resellers/services/) has launched to help new or existing partners design service portfolios around the DevOps Lifecycle in correlation to GitLab products.
 1. We have created a robust [Channel Partner Training and Certification Program](/handbook/resellers/training/) to enable partners in our ecosystem to sell, market, service and support GitLab prospects and customers.
 
