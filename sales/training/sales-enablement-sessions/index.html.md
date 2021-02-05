@@ -19,12 +19,22 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Winter 2020 Lineup**
+**Spring 2020 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Jan 21 | *No sessions during last 2 weeks of the quarter*
-| Jan 28 | *No sessions during last 2 weeks of the quarter*
+| Feb 11 |  **Cancelled due to SKO**
+| Feb 18 | [Q1 FY22 Channel Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/103) 
+| Feb 25 | [Q1 FY22 Competitive Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/94)
+| Mar 4 | [Co-selling with IBM](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/107)
+| Mar 11 |               |                 |
+| Mar 18 |               |                 |
+| Mar 25 |               |                 |
+| Apr 1  |               |                 |
+| Apr 8  |               |                 |
+| Apr 15 | [Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/95)
+| Apr 22 | *No sessions during last 2 weeks of the quarter*
+| Apr 29 | *No sessions during last 2 weeks of the quarter*
 
                                                                                                                                   
                                                                                                                                    
@@ -35,6 +45,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-02-04 | **[Peak Performance - SKO 2021 Preview](https://youtu.be/f_EZik5MaRU)** | Private |
 | 2021-01-14 | **[The GitLab / Red Hat Partnership](https://youtu.be/dfjuUQp5Y90)** | Private |
 | 2021-01-07 | **[Q4 FY21 Competitive Update](https://youtu.be/vTfAZIUtris)** | Private |
 | 2020-12-10 | **[Deal Registration Program and Working with Partners](https://youtu.be/8XyM4Z-0XLg)**  | Private |
