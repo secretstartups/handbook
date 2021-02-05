@@ -42,7 +42,6 @@ This group can be referenced in GitLab.com issues using the `@gl-product-plt` ha
 
 - [Scott Williamson's README](/handbook/product/readme/scott-williamson.html)
 - [Anoop Dawar's README](https://gitlab.com/adawar/readme/-/blob/master/README.md)
-- [Eric Brinkman's README](/handbook/product/readme/eric-brinkman.html)
 - [Kevin Chu's README](https://gitlab.com/kbychu/README)
 - [Kenny Johnston's README](https://gitlab.com/kencjohnston/README)
 - [Jackie Porter's README](https://gitlab.com/jreporter/read-me)
