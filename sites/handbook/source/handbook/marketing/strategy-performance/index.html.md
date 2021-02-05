@@ -159,7 +159,7 @@ Integrated with Salesforce
 </summary>
 
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
-- Allocadia
+- [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
 
 </details>
 
