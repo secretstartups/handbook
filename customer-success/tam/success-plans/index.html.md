@@ -56,7 +56,7 @@ For each business objective, review with the customer:
 - Are there deadlines for individual steps or overall completion?
 - Key contributions & responsibilities of everyone involved
 
-## Success Plans are Living Documents
+### Success Plans are Living Documents
 
 It's important to share progress with everyone involved as time goes on. The Sales team and the customer should both be kept up to date on where the success plan objectives and tasks stand, so they can continue working on new tasks and in turn sharing the progress with anyone else they think should be aware.
 
@@ -130,7 +130,7 @@ The ROI success plan is the "public-facing" plan that we develop and maintain in
 
 This success plan contains a few key components that combine to provide a summary of the customer, their business outcomes, and what we are doing to achieve them with GitLab.
 
-##### Share a ROI Success Plan
+#### Share a ROI Success Plan
 
 To share a ROI Success Plan, click the link icon next to the success plan due date and status, search for the users you want to share it with, then click "Preview and Send" and send the email. Alternatively, you can export the success plan by clicking "Export" at the top right.
 
@@ -140,13 +140,13 @@ When planning for future initiatives you want to work on with your customer that
 
 A good example of when to use an internal success plan is when the team is working on [stage expansion](/handbook/customer-success/tam/stage-enablement-and-expansion) (as opposed to stage enablement).
 
-### Components of a Success Plan
+## Components of a Success Plan
 
-#### Strategy
+### Strategy
 
 The strategy section is a high-level overview of what GitLab is doing with the customer. At a glance, the reader should be able to see what we plan to do with the customer to drive value and success, and also to improve adoption and growth. This does not need to be as detailed as the [objectives](#objectives), but it should still let the reader understand what our overall plan is. This is required and especially important for ROI success plans, but still important for internal success plans so it's easy to understand what our strategy is.
 
-#### Highlights
+### Highlights
 
 Customer highlights, like the [strategy section](#strategy), is a high-level overview of the customer. This can include:
 
@@ -157,7 +157,7 @@ Customer highlights, like the [strategy section](#strategy), is a high-level ove
 
 Reviewing the highlights, the reader should be able to quickly understand the customer's business, why they bought GitLab, and what they are interested in achieving. The highlights section is also required for ROI success plans and recommended for internal success plans.
 
-#### Objectives
+### Objectives
 
 Objectives are at the heart of a strong success plan, because they describe both the intended business outcomes and the actions we will take to achieve those outcomes. Well-crafted objectives provide an actionable plan that resonates with everyone involved, both within GitLab and on the customer side.
 
@@ -169,7 +169,7 @@ A good objective should contain three components:
 
 With these three elements, you can develop an objective that allows you to track progress on the actual implementation, while measuring progress and tying the results back to a strategic business outcome. You are able to address the needs of the customer's operations team, as well as their business and strategic interests.
 
-##### Objective Categories
+#### Objective Categories
 
 There are two types of objectives: Stage Adoption and ROI.
 
@@ -187,17 +187,17 @@ Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) (GitLab only) 
 1. How to categorize the stage adoption objective within the CTA so that it reflects the correct stage
 1. What is not considered stage adoption
 
-##### Business Outcomes vs. Value Drivers
+#### Business Outcomes vs. Value Drivers
 
 When talking to customers about their objectives, we want to [level up the conversation to strategic outcomes](/handbook/customer-success/tam/success-plans/questions-techniques/#leveling-up-from-operationaltechnical-to-strategic). Ideally, the customer will provide us a business outcome in their own words. However, we won't always be able to get that from the customer, and in which case we can use our [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome.
 
 When evaluating the customer's articulated outcome, a good way to know if it's a strategic outcome is whether you can connect it directly to one of our value drivers. In practice, if you can describe the connection between the outcome and a value driver with little to no intermediary explanation, it's likely a strategic outcome.
 
-##### Example Objectives
+#### Example Objectives
 
 Now that we've gone through the parts of a good objective, let's review some examples of good ones as well as ones that could use improvement.
 
-**Good**
+##### Good
 
 Example 1:
 
@@ -235,7 +235,7 @@ Example 3:
 
 This objective is using one of our [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome. The metrics allow us to track both new projects and existing projects, but as two separate items since they require a different approach. The comments let us describe additional reasons for doing this.
 
-**Needs Improvement**
+##### Needs Improvement
 
 Example 1:
 
@@ -261,7 +261,7 @@ Example 2:
 
 This is a good operational objective, but we have no articulated strategic outcome. This gives us a "what" and metrics, but there's no "why" that lets us show business value. It's a good starting point, but we'd want to dig deeper into the impact of doing this (and of _not_ doing this) on the business.
 
-#### Tasks
+### Tasks
 
 The tasks for an objective are the actual steps we will take to acheive the objective. These should be actionable, and they should be granular enough to provide a clear path to success. If your objective is likely going to take a long time and require coordination between a lot of different groups, incorporate the need for check-ins and planning meetings into the tasks, so that you can stay on track by regularly reviewing progress with the customer.
 
