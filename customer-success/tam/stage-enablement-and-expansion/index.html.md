@@ -22,7 +22,7 @@ For the TAM team in driving stage enablement, there are two critical motions:
 ### Where do I track the stage enablement and expansion?
 
 1. The Stage Enablement (agreed with the customer) is tracked with the relevant stage enablement CTA/playbook in the [ROI success plan](/handbook/customer-success/tam/success-plans/#roi-success-plan) in Gainsight, selecting "Stage enablement" in the `Category` field.
-1. The Stage Expansion (account planning & growth strategy, not yet shared by customer) is tracked with the relevant stage enablement CTA/playbook in the "Expansion: [Internal Only](/handbook/customer-success/tam/success-plans/#internal-success-plan)" success plan in Gainsight.
+1. The Stage Expansion (account planning & growth strategy, not yet shared by customer) is tracked with the relevant stage enablement CTA/playbook in the "Expansion: [Internal Only](/handbook/customer-success/tam/success-plans/#expansion-internal-only-success-plan)" success plan in Gainsight.
 
 ### Why is there only one CTA/playbook in Gainsight per stage instead of one for enablement and one for expansion?
 
