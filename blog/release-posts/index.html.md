@@ -1039,7 +1039,7 @@ features:
     - name: "Multi-Project Pipeline Graphs"
       available_in: [premium, ultimate]
       documentation_link: 'https://docs.gitlab.com/ee/ci/multi_project_pipelines.html#multi-project-pipeline-visualization-premium'
-      image_url: '/images/9_3/multi-project_pipelines.png'
+      image_url: '/images/topics/multi-project_pipelines.png'
       reporter: bikebilly
       stage: secure
       categories:
