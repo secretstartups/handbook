@@ -33,7 +33,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 
 Just like us, the product teams are spread across the globe. Due to this, it might not always be possible to sync with your counterparts.
 
-- If time zones permit, have an introductory coffee chat with your Product Manager. 
+- If time zones permit, have an introductory coffee chat with your Product Manager.
     - Talk about your interest in the group, and why you chose to become an SSC in it. Ask about the team and their day-to-day.
     - Ask them about their expectations of the SSC. Manage them and align.
 - If you are in non-overlapping time zones, do a handshake via Slack.
@@ -106,7 +106,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 
 ## How can I enroll and be a counterpart
 
-If you're interested in becoming a stable counterpart for a group, 
+If you're interested in becoming a stable counterpart for a group,
 
 - Discuss with your manager.
 - Open an issue with the [SSC Onboarding template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Support%20Stable%20Counterparts%20Basics.md) in the Support Training project.
@@ -143,14 +143,16 @@ If you're on the Support Team and have something you'd like to surface, or would
 The Open Source Support Liaison (OSS Liaison) role is a specialized type of Cross-Functional Support Counterpart role
 that assists GitLab's Open Source Partners with technical questions, problems, and needs.
 
-The OSS Liaison role has three main functions - building rapport, providing assistance, and facilitating connections.
+The OSS Liaison role has three main functions - building rapport, providing assistance, and making connections.
 
-To build rapport and nurture thriving relationships, OSS liaisons sit in on meetings and attend Q&A sessions
-with our open source partners. When Open Source partners are in need of technical support assistance with GitLab,
-the liaison serves as a point of contact on the Support team. OSS Liaisons also facilitate connections by getting other
-team members and/or teams involved in finding answers or solutions for our partners.
+OSS Liaisons sit in on meetings and attend Q&A sessions with open source partners to build rapport, address technical
+questions, and nurture a thriving relationship. When Open Source partners are in need of technical support or assistance
+with GitLab, an OSS Liaison serves as a point of contact on the Support team. As a point of contact, OSS Liaisons assist
+with basic technical support questions or escalate internally and find others to assist with more complicated technical
+problems. OSS Liaisons also subscribe to notifications on issues created by partners and help by getting other team
+members or teams involved in finding solutions.
 
-A familiarity with open source concepts, licences, and communities is recommended.
+Familiarity with open source concepts, licenses, and communities is recommended.
 
 If you're on the Support Team and would like to be an Open Source Support Liaison, post in `#spt_managers` and reach out
 to GitLab's Open Source Program Manager (`@nuritzi`).
