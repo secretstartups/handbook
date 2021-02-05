@@ -56,7 +56,7 @@ Consider the following when documenting course content in the handbook:
 
 1. Outline clear learning objectives
 1. Make content discoverable. For example, leadership content should not live in the Learning and Development handbook, but instead in the [Leadership handbook](/handbook/leadership)
-1. Emebed relevant YouTube videos in the handbook
+1. Embed relevant YouTube videos in the handbook
 1. Link to knowledge assessments
 1. Cross reference any additional handbook content with links
 
@@ -72,6 +72,27 @@ Content in the EdCast LXP at GitLab will adopt this handbook-first approach to l
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/1DSBF9tjAX50x2yOXoW5yQuJx3efVJdktYHdc86bM7WI/edit#slide=id.gb1c2c2e157_0_60" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
+
+### Handbook First Video
+
+The following best practices should be followed when using video to create handbook first learning material.
+
+1. Upload recorded video to the GitLab Unfiltered channel
+1. Embed videos into the handbook on the appropriate content page
+1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using SmartCards or iframes. Here is an [example of this layout](/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
+1. Add videos to SmartCards by linking to these sub headers
+1. Build iframes to display video by linking to these sub headers
+
+#### Private Video
+
+The following best practices should be followed when building learning content that includes private or internal only video.
+
+1. Professional services shares recordings of live learning sessions directly with customers involved in each specific training via a Zoom link and recording password. These videos are not published ot YouTube or to the handbook. Future iterations will include using EdCast to store and share these recordings using private Groups.
+
+#### Why not use the GitLab Unfiltered API in EdCast?
+
+Not all video on the GitLab Unfiltered channel is handbook first. In order to be sure that video in EdCast aligns with the handbook first best practices outlined above, we've elected to turn off the GitLab Unfiltered API in EdCast. 
+
 
 ### Handbook first course example
 
