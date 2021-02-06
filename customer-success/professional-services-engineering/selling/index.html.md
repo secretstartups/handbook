@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "Selling Professional Services"
+title: "Selling GitLab Professional Services"
 ---
-# Selling Professional Services
+# Selling GitLab Professional Services
 {:.no_toc}
 
 ## On this page
@@ -13,11 +13,17 @@ title: "Selling Professional Services"
 
 You can also [watch the sales enablement session](/handbook/customer-success/professional-services-engineering/sales-enablement) about how to sell services.
 
-## Workflow for selling Professional Services
+## A Note on Partner Professional Services
+Please remember to follow the [Rules of Engagment for Selling Professional Services](/handbook/sales/selling-professional-services) with the following highlights:
+- Always start by finding out if your customer/prospect has a qualified and preferred professional services partner and start be engaging with that partner to explore a solution for your customer/prospect
+- Please route all **SMB** needs through professional services Channel Partners as outlined in the [ROE](/handbook/sales/selling-professional-services)
+- Remember to update the SFDC Professional Services Opportunity to **"closed lost"** if for any reason after you have created a GitLab Professional Services Opportunity in SFDC the work is transitioned to being sold and delivered by a partner.  Then make sure that any Services Attach Registration that the partner registers for that work is attached to the relevant Licensing Opportunity in SFDC.  Please work with the Channel Account Manager for the partner (found in SFDC account for the partner) if you have any questions about this process.
 
-There are 4 main steps for selling Professional Services:
+## Workflow for GitLab selling Professional Services
+
+There are 4 main steps for selling GitLab Professional Services:
 1. Identify the right services needed.
-1. Create the Professional Services opportunity in SFDC.
+1. Create the GitLab Professional Services opportunity in SFDC.
 1. Generate the SOW / Service Description Docs
 1. Close the opportunity
 
@@ -62,9 +68,14 @@ For standard SKUs, the Order Form is generated directly from SFDC via the quote 
 For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager and have gotten it back from the customer with signature, attach it to the SOW doc to the SFDC PS opportunity.
 
 ### Step 4: Close the opportunity
+
+#### Closed Won
 Once the services have been rendered and the project is closed, the SAL/ISR should obtain signatures from the customer. The SAL/ISR should move the opportunity to `Closed Won` status
 
 As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the `#professional-services` slack channel given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).
+
+#### Transitioned to a Partner - Closed Lost
+Remember to update the SFDC Professional Services Opportunity to **"closed lost"** if for any reason after you have created a GitLab Professional Services Opportunity in SFDC the work is transitioned to being sold and delivered by a partner.  Then make sure that any Services Attach Registration that the partner registers for that work is attached to the relevant Licensing Opportunity in SFDC.  Please work with the Channel Account Manager for the partner (found in SFDC account for the partner) if you have any questions about this process.
 
 ### Custom-Scoped Services Detailed Workflow
 
