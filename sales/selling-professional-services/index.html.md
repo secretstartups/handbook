@@ -22,11 +22,12 @@ Please remember that as you evaluate your customer/prospect’s needs and build 
 
 # Rules of Engagement
 
-```html
+
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTj6tGFScRjVYDk3tj1t5CpRn1bBI12fsUm1IttZ0Pl6AO1_3-DU5I2Gmic9QR_yZvT5SFrKEGLwK4f/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
-```
+
+<br>
 
 # GitLab Professional Services Process
 
