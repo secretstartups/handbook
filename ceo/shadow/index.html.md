@@ -954,4 +954,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-01-04 | 2021-01-15 | [Tanya Pazitny](https://gitlab.com/tpazitny) | Quality Engineering Manager, Secure & Enablement | |
 | 2021-01-11 | 2021-01-22 | [Michael Preuss](https://about.gitlab.com/company/team/#mpreuss22) | Senior Manager, Digital Experience | |
 | 2021-01-18 | 2021-01-29 | [Traci Robinson](https://gitlab.com/traci) | Sr. PMM, Regulated Industries | |
+| 2021-01-25 | 2021-02-05 | [Parker Ennis](https://gitlab.com/parker_ennis) | Sr. PMM, GitLab CI/CD | |
 
