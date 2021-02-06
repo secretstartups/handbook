@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: "Anti-Harassment Policy"
+description: "Everyone at GitLab has a responsibility to prevent and stop harassment. Learn more about our Anti-harassment policy."
+canonical_path: "/handbook/anti-harassment/"
 ---
 
 ## On this page
@@ -11,16 +13,15 @@ title: "Anti-Harassment Policy"
 
 ## Introduction
 
-Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call or written communication, such as email or shared documents. The exceptions to this are team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Team member behavior is not limited to internal interactions with each other.  Our Anti-harassment policy applies to GitLab team members interaction with customers, vendors and community members. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values](/handbook/values/), please report the incident directly to the Chief People Officer or People Business Partner immediately for thorough investigation.
+Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call or written communication, such as email or shared documents. The exceptions to this are team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Team member behavior is not limited to internal interactions with each other.  Our Anti-harassment policy applies to GitLab team members interaction with customers, vendors and community members. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values](/handbook/values/), please report the incident directly to the Chief People Officer, the [Senior Director, People Success](/company/team/#cteskey) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) immediately for thorough investigation.
 
 ## Perspective
 
-GitLab is a San Francisco, California based start-up that has grown into a global fully distributed team. We strive to ensure our team is fully aligned with Gitlab’s no tolerance harassment policy despite their location. We want everyone to feel confident and comfortable communicating concerns. GitLab respects, appreciates, understands and supports every aspect of diversity. We aim to continuously foster a globally aware team.
+GitLab is a San Francisco, California-based start-up that has grown into a global fully distributed team. We strive to ensure our team is fully aligned with Gitlab’s no tolerance harassment policy despite their location. We want everyone to feel confident and comfortable communicating concerns. GitLab respects, appreciates, understands and supports every aspect of diversity. We aim to continuously foster a globally aware team.
 
 ## Scope
 
-This policy applies to all team members employed by any entity of GitLab, whether contractor or employee, in all locations. There are local labor laws in every country and in the case of the United States, state laws, that must be followed when handling, reporting and investigating incidents of harassment. The People operations team and legal counsel, if required, in each of those countries will be called upon to ensure compliance and the appropriate legal processes and procedures are followed. Specific country requirements for employees (subject to changes in employment law) are listed in the [Country & US State Specific Requirements](#country--us-state-specific-requirements) section and will be updated regularly.
-All individual contributors, managers, and leaders will be subject to disciplinary action, up to and including termination, for any act of harassment they commit.
+This policy applies to all team members employed by any entity of GitLab, whether contractor or employee, in all locations. There are local labor laws in every country and in the case of the United States, state laws, that must be followed when handling, reporting and investigating incidents of harassment. The People Business Partner team and legal counsel, if required, in each of those countries will be called upon to ensure compliance and the appropriate legal processes and procedures are followed. Specific country requirements for employees (subject to changes in employment law) are listed in the [Country & US State-Specific Requirements](#country--us-state-specific-requirements) section and will be updated regularly. All individual contributors, managers, and leaders will be subject to disciplinary action, up to and including termination, for any act of harassment they commit.
 
 ## Types of Harassment
 
@@ -54,7 +55,7 @@ Any form of discrimination towards an individual is strictly prohibited. Types o
 - Sexual orientation
 - Transgender status
 
-If you believe you have been discriminated against or witnessed discriminatory practices, please contact the Chief People Officer or the People Business Partner to initiate an investigation into the behavior.
+If you believe you have been discriminated against or witnessed discriminatory practices, please contact the Chief People Officer, the [Senior Director, People Success,](/company/team/#cteskey) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to initiate an investigation into the behavior.
 
 ### Bullying / Workplace Violence
 
@@ -62,7 +63,7 @@ GitLab does not tolerate violent acts or threats of violence. The company will n
 
 ### Retaliation
 
-Retaliation of any sort for filing a claim of harassment will not be tolerated. If you believe you have been retaliated against, please contact the Chief People Officer or the People Business Partner to initiate an investigation.
+Retaliation of any sort for filing a claim of harassment will not be tolerated. If you believe you have been retaliated against, please contact the Chief People Officer, the [Senior Director, People Success](/company/team/#cteskey) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to initiate an investigation.
 
 ## Speaking up during a public situation
 
@@ -77,21 +78,21 @@ This does not ensure there will be no consequences. However, it will greatly red
 If a threat is made against you or someone else that makes you or another team member question their safety due to an issue, merge request, email or other work related matters do not hesitate to initiate the following process:
 
 1. Contact local law enforcement. Note the proper number to contact in your locality and whether the emergency, or non-emergency number should be called.
-1. Notify the people operations team in #peopleops.  A private channel may then be opened with your People Business Partner, People Operations Specialist, Executive Business Administrator, Manager, and the security team helping with the situation.
+1. Notify the People Operations team in #peopleops.  A private channel may then be opened with your People Business Partner, People Operations Specialist, Executive Business Administrator, Manager, and the security team helping with the situation.
 1. The following steps may be taken based on the threat:
     - Internal threat assessment
     - Temporary accommodation (friends, family, hotel, etc.)
     - Transportation to alternate location (stay with family/friends for example)
     - Time off from work/LOA
     - Personal Security Detail
-1. The above can be triggered by the people operations team, manager, executive business administrator, or People Business Partner based on their knowledge of the threat.  Whenever it is safe to do so, please go through the normal permissions work flow, however if a threat is credible and potentially imminent, immediate action may be taken before the approvals have been put in place.
+1. The above can be triggered by the People Operations team, Manager, Executive Business Administrator, or People Business Partner based on their knowledge of the threat.  Whenever it is safe to do so, please go through the normal permissions work flow, however if a threat is credible and potentially imminent, immediate action may be taken before the approvals have been put in place.
 1. The Sr. Director of Security will advise when it is best to halt any of the above tasks.
 
 ## Reporting Alleged Harassment
 
 1. Any individual who believes they have been the target of harassment of any kind is encouraged to immediately and directly address the harasser, letting them know that their behavior is unwelcome, offensive, and must stop immediately.
-1. If they do not wish to address the harasser directly or the behavior doesn’t cease, they should report the misconduct to the Chief People Officer or the People Business Partner.
-1. Once reported, an impartial investigation will be conducted by People Business Partner or by an independent third party, depending on the severity and circumstances of the complaint.
+1. If they do not wish to address the harasser directly or the behavior doesn’t cease, they should report the misconduct to the Chief People Officer, the [Senior Director, People Success](/company/team/#cteskey) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
+1. Once reported, an impartial investigation will be conducted by a People Business Partner or by an independent third party, depending on the severity and circumstances of the complaint.
 1. Individual(s) reporting an incident or pattern of behavior will be asked to provide a written account, including any action(s) causing concern, the dates and times such actions occurred, and the names of anyone involved, including the participants and witnesses. All complaints or concerns of alleged harassment or discrimination will be taken seriously and handled confidentially.
 
 ### The Role of Managers
@@ -115,9 +116,9 @@ All employees have the responsibility to help create and maintain a work environ
 1. Intervening, if possible, to stop harassment or bullying from occurring.
 1. Reporting promptly to their manager or the People Business Partner any incident of bullying or harassment witnessed by them.
 
-### The Role of People Operations Department
+### The Role of People Business Partners
 
-The Chief People Officer and People Operations Business Partners are responsible for:
+The Chief People Officer and People Business Partners are responsible for:
 
 1. Ensuring that any individual filing a complaint and any accused individual(s) are made aware of the seriousness of misconduct.
 1. Explaining GitLab's no tolerance harassment policy and investigation procedures to all individuals included in a complaint.
@@ -169,7 +170,7 @@ Training and guidance on understanding, preventing, and dealing with discriminat
 [COM 001 Common Ground: Prevention of Harassment, Sexual Harassment, and Abusive Conduct in the workplace](https://learning.willinteractive.com/) (2 hrs for managers, 1 hr for non-managers). This training will be assigned to all team members and managers using [Will Interactive's content and LMS platform](https://willinteractive.com/) by email invitation. Details on how to use the platform can be found on the [learning and development page](/handbook/people-group/learning-and-development/#compliance-courses).
 Once the course has been completed, each team member and manager will receive a certificate of completion which will be kept in their employee record in BambooHR.
 
-## Country & US State Specific Requirements
+## Country & US State-Specific Requirements
 
 ### GitLab BV (The Netherlands)
 
@@ -274,7 +275,7 @@ We are continuously gathering country specific references to review regulation a
 - [Equal Employer Opportunity Commission (EEOC)](https://www.eeoc.gov/laws/index.cfm)
 - [Society of Human Resource Management (SHRM)](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/pages/federal-statutes-regulations-and-guidance.aspx)
 
-## Further Guidance (Country Specific)
+## Further Guidance (Country-Specific)
 
 - [UK: Acas (advisory service for employees and employers)](http://www.acas.org.uk/index.aspx?articleid=1864)
 - [The Netherlands: Inspectorate SZW](https://www.inspectieszw.nl/)
