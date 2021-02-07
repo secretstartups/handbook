@@ -102,7 +102,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 *  **Learn more**: Check out the [GitLab Jira Integration page](/solutions/jira/)  
 
 
-#### What is the difference between the Jira integration in Starter and in Premium?
+#### What is the difference between the Jira integration in Free and in Premium?
 
 *  **Short answer**: GitLab Premium and GitLab Ultimate provides more robust options for integration points, integration links, integration set up, sync frequency, and user authentication.
 *  **Update**: The end of the video discusses the Jira Development Panel as a differentiator. The Jira Development Panel integration has since moved to Core as of 13.4.
@@ -150,7 +150,7 @@ To improve sales efficiency and reduce the dependence of GitLab sales team membe
 
 #### What are the differences around merge request approvals between the EE tiers?
 
-*  **Short answer**: GitLab Core does not have merge request (MR) approvals. In GitLab Starter/Bronze, there is one approval rule with any number of eligible approvers allowed to approve with the option to set eligible approvers in a codeowners file. In GitLab Premium/Silver, there are multiple approval rules with specific approvers (optional required approvers from codeowners file). And in GitLab Ultimate/Gold, security approvals are introduced as merge request (MR) approvals can be configured to require approval from a member of your security team when a merge request would introduce a security vulnerability or a software license compliance violation.
+*  **Short answer**: GitLab Core does not have merge request (MR) approvals. In GitLab Free, there is one approval rule with any number of eligible approvers allowed to approve with the option to set eligible approvers in a codeowners file. In GitLab Premium, there are multiple approval rules with specific approvers (optional required approvers from codeowners file). And in GitLab Ultimate, security approvals are introduced as merge request (MR) approvals can be configured to require approval from a member of your security team when a merge request would introduce a security vulnerability or a software license compliance violation.
 *  **Context video**: 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/tQ_o_RkB4xg" frameborder="0" allowfullscreen="true"> </iframe>
