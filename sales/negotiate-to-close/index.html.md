@@ -24,7 +24,7 @@ In his book ["Closing Time"](https://www.amazon.com/Closing-immutable-Sales-Nego
 1. Never give without getting
 1. Know your walk-away price and conditions
 
-## When Do Negotiations Start?
+## When Do Negotiations Start
 In addition to demonstrating the right mindset, successful negotiation outcomes begin with embracing a value-based sales methodology like [Command of the Message](/handbook/sales/command-of-the-message/) from the very onset of the sales process. In fact, the below critical sales skills are prerequisites for a successful negotiation:
 
 ### Uncover Customer Needs
