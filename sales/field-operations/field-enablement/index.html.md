@@ -116,7 +116,7 @@ The below is a work in progress as we define success measures across each stage 
 - **Progress the Opportunity & Close the Deal**
     - Increase # of closed deals per rep
     - Accelerate sales cycle time and improve conversion of SAOs to Closed/Won deals
-    - Increase average sale price (inclusive of improved product mix to sell more Premium/Silver and Ultimate/Gold)
+    - Increase average sale price (inclusive of improved product mix to sell more Premium and Ultimate)
     - Accelerate and improve predictability of new rep ramp time
     - Improve forecasting accuracy
     - Improve win rates
