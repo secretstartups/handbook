@@ -103,5 +103,12 @@ More information on snowplow metrics:
 * [Measuring page load times](https://discourse.snowplowanalytics.com/t/measuring-page-load-times-with-the-performance-timing-context-tutorial/100)
 
 
+## How is this different than LCP?
+
+[LCP (Largest Contentful Paint)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp) measures the time to make a web page available for a user to see.  We measure this by periodically polling `specific pages` from a `specific user account` (_NEEDS TO BE CONFIRMED_).  This is an excellent way to measure performance for end-users.
+
+The dashboards described on this page use snowplow performance metrics which provide a different but also useful picture of end-user performance.  They don't show LCP but other related metrics and for `all pages` for `all users' (for users that allow us to collect this data).
+
+They should be used in conjunction with each other to provide a thorough picture of the user performance experience.
 
 
