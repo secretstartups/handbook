@@ -22,7 +22,6 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. Everyone who joins GitLab should consider themselves ambassadors of our [values](/handbook/values/) and protectors of our [culture](/company/culture/).
 1. Behavior should be consistent inside and outside the company. We do the right thing outside the company, too.
 1. GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don't stay at GitLab out of a sense of loyalty to the company.
-1. Be clear when you need help with something, and [avoid sticky bears](/handbook/leadership/be-clear-about-sticky-bears).
 1. In tough times people will put in their best effort when they are doing it for each other.
 1. We work [asynchronously](/company/culture/all-remote/management/#asynchronous). Lead by example and make sure people understand that [things need to be written down in issues as they happen](/company/culture/all-remote/self-service/#paying-it-forward).
 1. We are not a democratic or consensus driven company. People are encouraged to give their comments and opinions, but in the end [one person decides](/handbook/people-group/directly-responsible-individuals/) the matter after they have listened to all the feedback.
