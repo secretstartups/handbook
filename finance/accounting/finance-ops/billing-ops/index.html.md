@@ -363,6 +363,8 @@ If the payment doesn’t go through:
 * At 150 days old the account is sent to collections for recovery.
 * Self-managed accounts that were cancelled before the end of term will be put on credit hold and reviewed before another purchase.
 
+**For more information about how to use Zuora Collect please follow the link to the** [Enterprise Application Guides](https://about.gitlab.com/handbook/business-ops/enterprise-applications/guides/zuora-collect/#what-is-zuora-collect) 
+
 ### Month end reconciliation:
 
 1. Check AR sheet for minus amounts (balance that was not transferred)
