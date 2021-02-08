@@ -45,6 +45,8 @@ This can answer questions such as:
 
 ### Graph: Per day of the week for the last 2 weeks
 
+_0 = Sunday_
+
 * Average and 50/90/99th percentiles for total load time
 * Number of page hits
 
