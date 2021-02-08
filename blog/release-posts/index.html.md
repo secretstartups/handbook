@@ -1518,7 +1518,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
   - `title: "GitLab Security Release: x.y.z and x.y.z"`
   - `categories: releases`
 
-#### Creating an MR for What's New entries 
+### Creating an MR for What's New entries 
 
 1. The VP of Product Management will identify the 3-7 topics for What's New each release as part of the final review
 1. The VP of Product Management will create the What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
