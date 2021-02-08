@@ -430,6 +430,35 @@ For more informaiton on quoting or the Partner Program, please visit:
 
 [Partner Program](https://about.gitlab.com/handbook/resellers/)
 
+## Channel Reporting and Tagging
+![Reporting_Tagging_Matrix](/handbook/sales/field-operations/channel-operations/images/Reporting_Tagging_Matrix.png)
+
+**Definitions:**
+1. _Deal Path_: How the deal is transacted. Values can be Channel, Direct, or Web. Also, includes Referral Ops for Channel. 
+2. _Deal Reg_: Partner submits a Registration for their opportunity via the Partner Portal. For the purposes of this matrix the assumption is the Deal Reg is approved
+3. _Initial Source_: SFDC Lead value that is populated based on lead source. Will default to CQL when a Partner submits a Deal Reg and an Opportunity does not already exist in the system. 
+4. _SQS_: Who converts/creates the Opportunity in SFDC. **Can only be 1 value**
+5. _DR - Partner Engagement_: Partner Value on the deal via the Partner Program definitions. This is manually selected in most cases
+6. _Order Type_: Customer order designation in SFDC. New First Order or Growth
+
+**Use Cases:**
+1. **#1 and #3**
+   - Channel submits Deal Reg and no Opportunity exists in the system. Therefore the Initial source is CQL,  and SQS and DR-Partner Engagement default to Channel and Partner Sourced
+      - This applies to both New and Growth orders
+2. **#2 and #4**
+   **- Examples:**
+      - AE Creates Opportunity prior to Deal Reg being submitted  - **CAM to escalate for exception**
+      - Opportunity stalled and Channel helps to drive to closure - **If channel is simply unsticking an open opp then this is technically Assist. Exceptions can be reviewed**
+      - Aged opportunities that are closed and revived due to Channel - **Automated clean up with Sales Ops stale Opp policy**
+   **- Exception:** In the event an exception is needed per the scenarios below and exception can be submitted for review and have the ability “override” and restate these are Channel SQS
+
+
+**Default Logic**
+1. Deal Reg = True and no Opp Exists then Initial Source = CQL > SQS = Channel, Defaults to Partner Sourced
+2. Alliances: Does not have same logic and will need to be reported separately currently
+
+
+
 ## SFDC Opportunity Source Field Values for Channel
 
 **SFDC Opportunity Fields**:
