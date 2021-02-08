@@ -61,7 +61,7 @@ Every ticket which is `de-escalated` must include the `De-escalation`
      * Complete the information requested on the form and click on `Submit`
         ![alt text](images/escalation_form.png "Escalation Form")
      * All fields are required.
-
+     * Note: When escalating a US Federal case, **do not** fill in the customer's name, instead please fill in the Customer field with a link to the organization in SFDC
      * When you click `submit` an issue is created in the [support escalation issue tracker](https://gitlab.com/gitlab-com/support/escalations/-/issues). This issue is automatically assigned to the support manager on-call and will be used to keep a log of the escalation.
      Additionally a thread will be created in` #support_escalations` slack channel.
 
