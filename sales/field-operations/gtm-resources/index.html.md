@@ -226,7 +226,7 @@ All other non-US Pub Sec accounts (the accounts that are in countries with 20 mi
 1. **Indisputable:** Requestor must provide evidence with supporting links.
 1. **Final Decision:** For a final decision on account ownership, the current and next Area Sales Manager must both agree to transfer of ownership. If consensus cannot be reached by Area Sales Managers it will continue to escalate up the sales chain to the VP level if necessary.
 1. **Notify Sales Support:** Consensus must be met by all parties prior to asking for a transfer. Chatter @sales-support with the request to have the account transferred and provide all supporting documentation. Chattering @sales-support will create a case in Salesforce for the Sales Operations team to review.
-1. **Timing for Submitting Requests:** Dates for submittal, black out periods and moves will be posted on the [Field Operation's Calendar](https://msoares1-master-patch-71416.about.gitlab-review.app/handbook/sales/field-operations/sales-operations/#how-we-work)
+1. **Timing for Submitting Requests:** Dates for submittal, black out periods and moves will be posted on the [Field Operation's Calendar](#how-we-work)
    1. First week of Q2 (reactive) moves: Requests that come from the field
    1. First week of Q3 (proactive) moves: Sales Ops does a review and cleans up accounts + addresses field requests
    1. First week of Q4 (reactive) moves: Requests that come from the field
