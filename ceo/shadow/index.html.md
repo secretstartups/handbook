@@ -108,9 +108,8 @@ Hear what our CEO has to say about the CEO shadow program.
 
 You are eligible to apply for the program if you have been with GitLab for at least 1 month (recommended more than 3 months) and you are a:
 
-1. [Director or up](/company/team/structure/#layers), Distinguished engineer or up ([backend](/job-families/engineering/backend-engineer/) or [frontend](/job-families/engineering/frontend-engineer/)), [Senior Product Manager or up](/job-families/product/product-manager) or [Manager](/company/team/structure/#manager) in the People Group
-1. [Manager](/company/team/structure/#layers), Staff engineer ([backend](/job-families/engineering/backend-engineer/) or [frontend](/job-families/engineering/frontend-engineer/)), [SAL](/job-families/sales/strategic-account-leader/), [PMM](/job-families/marketing/product-marketing-manager/), or [Product Manager or up](/job-families/product/product-manager/), if there is 1 consideration.
-1. [Individual Contributor](/company/team/structure/#layers), if there are 2 considerations. This includes TAM and SA roles.
+1. [Manager or up](/company/team/structure/#layers), Staff engineer ([backend](/job-families/engineering/backend-engineer/) or [frontend](/job-families/engineering/frontend-engineer/)), [SAL](/job-families/sales/strategic-account-leader/), [PMM](/job-families/marketing/product-marketing-manager/), or [Product Manager or up](/job-families/product/product-manager/)
+1. [Individual Contributor](/company/team/structure/#layers), if there is 1 consideration. This includes TAM and SA roles.
 
 Considerations are cumulative and can be:
 
