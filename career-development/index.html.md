@@ -354,16 +354,17 @@ end
 subgraph Based on Merit &amp; Company Need
   %% Backend Engineers
     eng:sbe(Senior Backend Engineer)-->eng:stbe(Staff Backend Engineer);
-    eng:stbe(Staff Backend Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:stbe(Staff Backend Engineer)-->eng:pei(Principal Engineer Infrastructure);
+    eng:pei(Principal Engineer Infrastructure)-->eng:dei(Distinguished Engineer Infrastructure);
     eng:dei(Distinguished Engineer Infrastructure)-->eng:efi(Engineering Fellow Infrastructure);
 
   %% Site Reliability Engineer
     eng:srsre(Senior Site Reliability Engineer)-->eng:stsre(Staff Site Reliability Engineer);
-    eng:stsre(Staff Site Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:stsre(Staff Site Reliability Engineer)-->eng:pei(Principal Engineer Infrastructure);
 
   %% Database Reliability Engineer track
     eng:srdbre(Senior Database Reliability Engineer)-->eng:stdbre(Staff Database Reliability Engineer);
-    eng:stdbre(Staff Database Reliability Engineer)-->eng:dei(Distinguished Engineer Infrastructure);
+    eng:stdbre(Staff Database Reliability Engineer)-->eng:pei(Principal Engineer Infrastructure);
 
     %% Management
     eng:sbe(Senior Backend Engineer)-->eng:em(Engineering Manager);
