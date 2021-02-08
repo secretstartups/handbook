@@ -1518,25 +1518,18 @@ please make sure to specify them in the title, add the correct [category](../#ca
   - `title: "GitLab Security Release: x.y.z and x.y.z"`
   - `categories: releases`
 
-### Creating an MR for What's New entries 
+## Creating an MR for What's New entries 
 
 1. The VP of Product Management will identify the 3-7 topics for What's New each release as part of the final review
 1. The VP of Product Management will create the What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
    1. Utilize the [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml)
    1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled 202009300001_13_04.yml
    1. Using the content that is in the release post items, duplicate the content for What's New
+      1. Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
 1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`
 1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`
 1. Submit the MR and add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for. 
 1. IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display 
-
-##### Notes:
-Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
-
-##### Videos:
-Use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`
-
-
 
 <style>
   pre { margin-bottom: 20px; }
