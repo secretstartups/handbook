@@ -86,11 +86,19 @@ If there are extenuating circumstances, some leeway may be granted depending on 
 
 When underperformance is detected, managers compensate by checking their report's work more frequently. The company results should not be affected more than through under-hiring where the position was vacant and others would step in to compensate.
 
+### Verbal Warning
+
+One or several Verbal Warning(s) are used to bring attention to new or ongoing deficiencies in conduct and/or performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please contact your aligned PBP.
+
+Verbal warnings should be communicated in 1:1 meetings, and subsequently confirmed by email with the manager emailing the team member. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder.
+
 ### Written Warning
 
 A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a written warning; whether (and/or when) a team member receives a written warning may depend on local regulations. If you have any questions about whether you should complete a written warning, please contact your aligned PBP.  
 
 Here is a [Sample Formal Written Warning](https://docs.google.com/document/d/12wveh-73CDw6mD70_lRNHRxcnqmdnHGLu5pKP00puZk/edit) you can use a template. 
+
+A Written warning should be communicated by email. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder.  The verbal warning will remain in the BHR file for the requisite time as required by applicable local law.
 
 ### Performance Enablement Plan (PEP)
 
