@@ -116,6 +116,7 @@ There are two sections, [General Suggestions](/handbook/customer-success/tam/cad
 These are suggestions that can be used at any time on customer calls.
 
 - Questions about their [success plan objectives](/handbook/customer-success/tam/success-plans/questions-techniques/) and review of progress
+- Periodically (a couple times per year) ask about new goals or objectives they have coming up
 - Review upcoming features and releases
 - Review their current version, planned upgrades, and if they need [Live Upgrade Assistance](/support/scheduling-live-upgrade-assistance.html#how-do-i-schedule-live-upgrade-assistance)
 - Questions relating to [Stage Adoption](/handbook/customer-success/tam/stage-adoption/)
@@ -125,6 +126,7 @@ These are suggestions that can be used at any time on customer calls.
 - Discuss if their users have any feedback
 - Discuss their backup/recovery plans and if they have recently tested restoring from a backup
 - Discuss if they have signups enabled
+- Mention upcoming GitLab [workshops/events](https://about.gitlab.com/events/) in their region (or even ones in other regions)
 
 ### Ephemeral Suggestions
 
