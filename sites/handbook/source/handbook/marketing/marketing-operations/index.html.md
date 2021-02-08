@@ -348,13 +348,13 @@ Emails that contain mostly marketing or promotional content like newsletters, ev
 
 <div style="width: 600px;" class="embed-thumb"> 
 <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> 
- <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://app.mural.co/static/images/mural-thumb.svg) no-repeat center center; background-size: cover;">
+<div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://app.mural.co/static/images/mural-thumb.svg) no-repeat center center; background-size: cover;">
 <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);">
 </div> 
- <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="Decision Tree Mural" width="233" height="50"> </a> 
- </div> 
- </div>
- </div>
+<a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="Decision Tree Mural" width="233" height="50"> </a> 
+</div> 
+</div>
+</div>
 
 `Operational Emails` do not have an effect on the communication limits in marketo. Those limits are set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`.
 
