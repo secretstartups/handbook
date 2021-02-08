@@ -21,6 +21,11 @@ There are two ways to connect with us.
 * Via email sales-comp@gitlab.com
 * Via the Chatter feature in Salesforce
 
+## **What's New?**
+Exciting news for FY22! We are migrating our existing commission system to Xactly Incent! More information to follow, but you can find some key features listed in our last [**Sales Team Commission Update**](https://docs.google.com/presentation/d/1BrwEimK92RxVryiWebpuFZ7eWNV4ozAnKiz9Uj9dh4o/edit#slide=id.ga172a9cca6_0_0).
+
+Thank you for your patience as we work to update the handbook to reflect the FY22 Compensation Program.
+
 ## **Quick Reference Guide**
 
 | **GETTING STARTED** | **QUOTAS** | **COMMISSION PLANS** |
@@ -74,7 +79,7 @@ Given the fiscal period for public sector, our seasonality assumptions differ:
 * Fourth Fiscal Quarter: 11%
 
 #### **Quotas Proration**
-1. Native Quota-Carrying Reps: prorated quotas are based on each NQR’s territory / existing account base to determine your individual seasonality.  The above metrics are viewed from a WW GitLab perspective, but each individual will share a unique seasonality specific to their circumstances.
+1. Native Quota-Carrying Reps: prorated quotas are based on each NQR’s territory / existing account base and hire date to determine your individual seasonality.  The above metrics are viewed from a WW GitLab perspective, but each individual will share a unique seasonality specific to their circumstances.
 2. Overlay Quota Reps: proration is based off the number of days employed in the given period. Your prorated quota would be calculated as follows: (Quota / (Period End Date - Period Start Date)) * (Period End Date - Hire Date). For example, if the regional quota is $10,000,000 for the year and the start date is 4/1/2019, your quota will be calculated as ($10,000,000 / (2020-01-31 - 2019-02-01)) * (2020-01-31 - 2019-04-01) = $8,379,120.88.
 
 ## **Commissions Overview**
