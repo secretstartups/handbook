@@ -84,7 +84,7 @@ Choose filters and then choose a route
 
 ### What does it contain in common with the main dashboard?
 
-This has all of the same graphs as the same dashboard, but limited to a specifif route.
+This has all of the same graphs as the same dashboard, but limited to a specific route.
 
 This can be used to get more information on a specific route to identify trends for the route that should be considered for prioritization to resolve.
 
