@@ -55,8 +55,9 @@ In general, you can find our publicly marketed services at https://about.gitlab.
 | Consulting | Integration | [LDAP, SAML, SSO](https://about.gitlab.com/services/integration/) | TBD | Complete |
 | Consulting | Integration | [Jira](https://about.gitlab.com/services/integration/) | TBD | Complete |
 | Consulting | Advisory | [CI/CD Transformation](https://docs.google.com/presentation/d/1gCULkwewztptWPO4wnr6xU-E3B_C7oVqVAdT-yAc0SE/edit) | TBD | Planned |
-| Consulting | Advisory | Workflow Advisory Services | [Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) | Planned |
+| Consulting | Advisory | [General Advisory Services](https://about.gitlab.com/services/advisory/) | [Advisory Services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) | Minimal |
+| Consulting | Advisory | Agile/Plan Workflow Advisory | [Agile/Plan Advisory](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting/workflow-agile-ceremonies) | Minimal 
 | Consulting | Advisory | [Dedicated Services (Center of Excellence)]() | TBD | Planned |
-| Consulting | Advisory | DevSecOps Transformation | TBD | Planned |
+| Consulting | Advisory | DevSecOps Workflow Advisory | TBD | Planned |
 | Consulting | Development | Development | TBD | Planned |
 
