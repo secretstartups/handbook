@@ -680,7 +680,7 @@ for a video call.
 1. For meetings that are scheduled with Zoom:
    1. If you need more privileges on Zoom (longer meeting times, more people in the meeting, etc.), please contact People Operations Specialist as described [specifically for Zoom](/handbook/tools-and-tips/other-apps/#shush).
    1. Note that if you select to record meetings to the cloud (setting within Zoom), you must include the text `[REC]` in the meeting title if you want them to be automatically placed in the `GitLab Videos Recorded` folder in Google Drive on an hourly basis via a [scheduled pipeline](https://gitlab.com/gitlab-com/zoom-sync/pipelines).
-   1. You can find these videos in Google Drive by looking under `Shared drives` and `GitLab Videos Recorded`. If you do not have access to this drive, contact [IT Ops](https://gitlab.com/gitlab-com/business-ops/itops/issue-tracker/issues).
+   1. You can find these videos in Google Drive by looking under `Shared drives` and `GitLab Videos Recorded`. If you do not have access to this drive, contact [IT Ops](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/issues).
    1. The [script for syncing the files is here](https://gitlab.com/gitlab-com/zoom-sync).
    1. Note also that after a meeting ends, Zoom may take some time to process the recording before it is actually available. The sync to Google Drive happens on the hour mark, so if the recording is not available, it may take another hour to be transferred.
 1. As a remote company we are always striving to have the highest fidelity, collaborative conversations. Use of a headset with a microphone, is strongly suggested.
