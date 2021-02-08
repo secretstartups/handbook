@@ -45,7 +45,7 @@ In an effort to recognize buddies who go above and beyond to support new / trans
 
 The People Experience team will randomly select 3 winners. giveaway link to order a prize from our swag collection (approx $25 value).
 
-- If the new team member does not complete the **Onboarding Survey** or **Career Mobility Sruvey**, the buddy will not be entered into the raffle. 
+- If the new team member does not complete the **Onboarding Survey** or **Career Mobility Survey**, the buddy will not be entered into the raffle. 
 - In case of a buddy being selected twice, a re-draw will take place. 
 
 
