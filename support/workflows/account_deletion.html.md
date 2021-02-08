@@ -36,7 +36,7 @@ Upon submission, the submitter will receive an [autoresponder](https://gitlab.co
 
 >**NOTE:** Users have a total of 14 days to reply to our [autoresponder](https://gitlab.com/gitlab-com/gdpr-request/-/blob/master/.gitlab/service_desk_templates/thank_you.md) with confirmation that they wish to proceed before we close their request due to a lack of verification.
 
->**NOTE:** In order to keep track of which requests still require confirmation, you can optionally apply the `Awaiting Confirmation` label.
+>**NOTE:** In order to keep track of which requests still require confirmation or answers to the challenge questions, you can optionally apply the `Awaiting Confirmation` or `Awaiting Challenge Answers` labels.
 
 1. **Deletion Confirmation:** Confirm that the user has replied back confirming that they wish for us to proceed, this will appear as a comment on the issue. If the user has not provided this confirmation within **7** days, remind them to with the `Confirmation Reminder` snippet below.
 
