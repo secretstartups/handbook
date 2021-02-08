@@ -363,30 +363,7 @@ If you believe you have been incorrectly assigned a record that should belong to
 
 ##### Changing Account Ownership in Salesforce
 
-Everyone in Salesforce has **some** ability to change the ownership of accounts.
-When accounts have their owners changed, by anyone other then an admin, there will be an email notification go out to both the previous account owner and the new account owner.
-This is to allow individuals to change ownership of accounts if they think they should belong to them.
-If there are any questions in regard to who should own an account Sales Ops will assist in that decision and you can mention @sales-ops in salesforce.
-It's also important that just because a user can change the owner of an account does not mean that they should own the account.
-Please refer to the criteria for reassigning accounts and our account territories for more information.
-
-Criteria for Reassigning Accounts:
-
-- The account must have its address in the account owners territory.
-If the account has a parent account or the parent account also has a parent account the address that determines the final owner of the account is the address of the ultimate parent.
-This address follows our data hierarchy - with Datafox being our primary source of data.
-- The account must also have a matching sales segmentation that the owner should be working.
-Any Account adopts the highest sales segment that exists within an account hierarchy.
-Segment is determined by our data hierarchy - with Datafox being our primary source of data.
-1. Any account owner can reassign their own account to someone else
-1. Any RD can reassign any account
-1. Any Team Lead can reassign any account that is located within their region
-1. Anyone can reassign any account as long as the following criteria is met
-A. The account does not have a parent account
-B. The account is located in the same region as the individual transferring ownership of the account
-C. Datafox has enriched the number of employees on the account
-D. The sales segment of the account is the same as the segment that the user is working on (SALs/Large,AEs/Mid-Market)
-1. Any Admin can reassign any account
+Only Sales Operations and Channel Operations have the ability to change the account owner in Salesforce. This is to ensure that the Rules of Engagement are followed and to ensure that the account is assigned to the correct account owner based on TSP outputs and parent/child association. If there is an issue with account assignment, follow the exception process outlined in the Account Ownership Rules of Engagement. 
 
 ##### Changing Contact Ownership in Salesforce
 
