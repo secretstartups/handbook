@@ -523,7 +523,7 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 
 | Campaign                                 | Campaign Parameter for Tracking |Marketo Listener?|
 |------------------------------------------|---------------------------------|-----------------|
-| CI Use Case                              | singleappci                     |:white_check_mark: |
+| CI Use Case                              | singleappci                     | :white_check_mark:|
 | GItOps Use Case                          | iacgitops                       |:white_check_mark: |
 | Version Control & Collaboration Use Case | vccusecase                      |:white_check_mark: |
 | Simplify DevOps                          | simplifydevops                 |:white_check_mark: |
