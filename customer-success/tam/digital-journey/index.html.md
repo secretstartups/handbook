@@ -40,10 +40,22 @@ The [digital onboarding email content](https://docs.google.com/document/d/1yosBB
 
 The email templates will leverage existing materials from YouTube, the GitLab blog, GitLab docs, and other GitLab and 3rd party resources to help customers. However a strong emphasis needs to be placed on making these materials easy for a busy DevSecOps team to consume quickly. As such some longer form materials may need to be adapted to a shorter format for best results.
 
+### CI Digital Enablement
+
+The following topics are covered in the digital enablement series:
+1. An intro to GitLab CI/CD
+1. Let’s install GitLab Runner
+1. Configuring your pipeline
+1. GitLab CI in action
+1. Get started with Prometheus
+
+The [CI Digital Enablement content](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing) can be viewed here (GitLab only)
+
+**CI Digital Journey** - [Issue](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/115)
+
 ### Roadmap
 
-1. CI enablement (Verify Stage) [epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/69) for those customers who through product analytics are deemed to be using CI
-1. Security enablement (epic pending, Secure Stage)
+1. Security enablement (epic pending, Secure Stage, Protect Stage)
 1. CD enablement (Release Stage)
 
 ### How To Use
