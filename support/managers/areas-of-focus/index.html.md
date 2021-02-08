@@ -15,7 +15,7 @@ description: "Customer Support Areas of Focus workgroup description and overview
 | **Property** | **Value** |
 | -- | -- |
 | Date Created | 2020-11-02 | 
-| Date Ended | 2020-01-31 |
+| Date Ended | TBD |
 | Slack | [#spt_areas-of-focus](https://gitlab.slack.com/archives/C01D5LKPRPD) (only accessible from within the company) |
 | Google Doc | [Areas of Focus Workgroup Agenda](https://docs.google.com/document/d/1TLub48gTRd1qD6BaqnFObY0FhwcCeQ7xU6k68XbLHoc/edit?usp=sharing) (only accessible from within the company) | 
 | Playlist of Meetings | TBD |
