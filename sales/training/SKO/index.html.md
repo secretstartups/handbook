@@ -122,6 +122,41 @@ We are actively planning this event and will update this FAQ as more information
 
 Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/)
 
+## SKO 2021 Day 1 Sessions
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Welcome to GitLab Sales Kickoff 2021 | slides (coming soon) | video (coming soon) |
+| Product Keynote: A Winning Product for Peak Performance | slides (coming soon) | video (coming soon) |
+| Customer Spotlight: H-E-B and GitLab: A Happy Marriage | slides (coming soon) | video (coming soon) |
+
+## SKO 2021 Day 2 Sessions
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Marketing Keynote: Prepare for Peak Performance | slides (coming soon) | video (coming soon) |
+| Channel Keynote: Cover More Ground with Channel Partners | slides (coming soon) | video (coming soon) |
+| Alliances Keynote: Winning is a Team Sport! | slides (coming soon) | video (coming soon) |
+| Closing Keynote: It's Time for Peak Performance | slides (coming soon) | video (coming soon) |
+
+## SKO 2021 Day 3 Sessions
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Coming soon | slides (coming soon) | video (coming soon) |
+| Coming soon | slides (coming soon) | video (coming soon) |
+| Coming soon | slides (coming soon) | video (coming soon) |
+| Coming soon | slides (coming soon) | video (coming soon) |
+
+## SKO 2021 Day 4 Sessions
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Coming soon | slides (coming soon) | video (coming soon) |
+| Coming soon | slides (coming soon) | video (coming soon) |
+| Coming soon | slides (coming soon) | video (coming soon) |
+| Coming soon | slides (coming soon) | video (coming soon) |
+
 ----
 
 ## [Sales Kickoff 2020](/handbook/sales/training/SKO/2020)
