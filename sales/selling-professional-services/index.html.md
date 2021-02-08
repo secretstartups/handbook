@@ -1,3 +1,14 @@
+---
+layout: handbook-page-toc
+title: "Rules of Engagement for Selling Professional Services"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 # Rules of Engagement (ROE) for Selling GitLab or Partner Professional Services
 
 
