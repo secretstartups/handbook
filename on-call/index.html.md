@@ -24,6 +24,7 @@ If you're a GitLab team member looking for help with a security problem, please 
 - We take on-call seriously. There are escalation policies in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies are essentially expected to never be triggered, but they cover extreme and unforeseeable circumstances.
 - Provide support to the release managers in the release process.
 - As noted in the [main handbook](/handbook/paid-time-off), after being on-call take time off. Being available for issues and outages will wear you off even if you had no pages, and resting is critical for proper functioning. Just let your team know.
+  - Specific to team members in Australia review the [Time in lieu policy here](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/)
 - More detailed descriptions can be found [here](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/lead-away.md).
 
 ## Customer Emergency On-Call Rotation
