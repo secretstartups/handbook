@@ -4,11 +4,16 @@ title: "Marketo"
 description: "Marketo is our marketing automation platform used for email marketing, lead management, and program management."
 ---
 
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
 
 ### About Marketo
 
@@ -215,7 +220,6 @@ Below is the folder structure to hold and categorize different operational progr
     - Gated Content
         - Content Marketing
         - Content Syndication
-        - PathFactory Listening
     - Integrated Campaigns
     - Nurtures
     - Owned Events
@@ -242,11 +246,94 @@ Below is the folder structure to hold and categorize different operational progr
 ### Segmentations
 Marketo segmentations are used similar to a smartlist, but they are permanent and can only be changed by marketing ops. They are used to create dynamic content (emails and landing pages) and are used for faster processing of lists. Segmentations are constantly running in the background in Marketo, so they never need to be refreshed for current numbers. We can only have 20 total segmentations in Marketo. Segmentation criteria waterfalls down based on the order of the segment lists that make up the segmentation. You can only be in one segment of a segmentation. 
 
-These are the current segmentations that are alive and approved.
-- [Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
-- [Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)
-- [Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)
-- [Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)
+The following segmentations that are approved and live.
+
+<details>
+<summary markdown='span'>
+[Compliant and Emailable](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1016A1)
+</summary>
+</details>
+
+<details>
+<summary markdown='span'>
+[Personas - Level](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1018A1)
+</summary>
+
+- Executives
+- Managers
+- Practioners
+- Default
+
+</details>
+
+<details>
+<summary markdown='span'>
+[Sales Segment](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1017A1)
+</summary>
+
+- Enterprise
+- Mid-Market
+- SMB
+- Default
+
+</details>
+
+
+<details>
+<summary markdown='span'>
+[Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1013A1)
+</summary>
+
+- AMER
+- EMEA
+- APAC
+- LATAM
+- Default
+
+</details>
+
+<details>
+<summary>
+[Sub-Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1019A1)
+</summary>
+
+- NA East
+- LATAM
+- NA West
+- ANZ
+- Asia SE
+- Asia Central
+- China
+- Asia South
+- Japan
+- Korea
+- Europe Central
+- Europe East
+- Europe South
+- EMEA
+- Nordics
+- UKI
+- India
+- Africas
+- Benelux
+- France
+- Russia
+
+</details>
+
+<details>
+<summary markdown='span'>
+[Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)
+</summary>
+
+- Top
+- Middle
+- Bottom
+- Customer
+- Unqualified
+
+</details>
+
 
 ### Account Based Marketing List   
 

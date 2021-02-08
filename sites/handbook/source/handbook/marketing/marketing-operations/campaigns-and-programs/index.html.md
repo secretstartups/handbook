@@ -85,13 +85,13 @@ This is when a package or piece of mail is sent out.
 
 **This is for the Alyce Integration**
 
-**Bizible:** TBD is these will be tracked
+**Bizible:** This is tracked as an _offline_ channel. Only responded members are included.
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | Gift is being researched | Alyce Gift Created |  |
 | Need more information for gift| Alyce needs more information on the recipient |  |
-| Gift options ready| Gift options ready to be viewed  |  |
+| Gift options ready| Gift options ready to be viewed  | Yes |
 | Gift invitation scheduled|Gift invitation scheduled| |
 | Gift invitation in fulfillment | Alyce gift invitation sent to fulfillment | |
 | Gift out for delivery | Gift out for delivery| |
@@ -336,7 +336,7 @@ An in-person or virtual workshop where the attendees are guided through an agend
 
 The Marketo programs for the corresponding campaign types have been prebuilt to include all the possible necessary smart campaigns, email programs, reminder emails and tokens that are to be leveraged in the building of the program.
 
-For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
+For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
 
 For all other campaign types, follow Steps 1-5 below. All steps are required.
 
@@ -402,6 +402,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update the event epic
     - Update the description (if any)
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
+    - Update `Status` to `In Progress` or the approriate selection
     - Update `Region` and `Sub-region`, if these are local or targeted to a specific region
     - Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - NOTE: an offling Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/).
     - Click "Save"
@@ -446,6 +447,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
+    - Update `Status` to `In Progress` or the approriate selection
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
@@ -484,6 +486,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
     - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
+    - Update `Status` to `In Progress` or the approriate selection
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
@@ -558,6 +561,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
     - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
+    - Update `Status` to `In Progress` or the approriate selection
     - Click Save
 - Add the Marketo program link and SFDC campaign link to the epic.
 
@@ -565,7 +569,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Update local program tokens 
 - Update the campaign smart list filter with `contains` and the prefix
    - `Fills out Linkedin Lead Gen Form`, `Lead Gen Form Name contains [parameter]` 
-   - Available parameters are [here](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
+   - Available parameters are [listed above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only), or create new if not listed.
 - Make sure `opt-in` language is on the Linkedin Form, if not, remove the `opt-in` step in the campaign Flow
 - Turn on / Activate the triggered campaign in the `schedule` tab of the smart campaign
 - All linkedin programs with your form prefix will now flow through this campaign
@@ -574,7 +578,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
   - Edit the `flow` steps to be the nurture program you desire to push leads into, and the stream.
 
 ##### Step 5: Update this Handbook page
-- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a :white_check_mark: for the parameter you have set up.
+- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a :white_check_mark: for the parameter you have set up.
 
 
 
