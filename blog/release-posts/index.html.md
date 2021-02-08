@@ -1534,7 +1534,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
 Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
 
 ##### Videos:
-Use the youtube image. To get the image URL, insert the youtube unique ID into this format: https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
+Use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`
 
 
 
