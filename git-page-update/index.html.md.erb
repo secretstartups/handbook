@@ -143,7 +143,7 @@ help if you need it. There are **three** ways to update the website.  Choose the
   2. On the Repository page, click on the button labeled `Web IDE` near the middle of the page next to History and Find File buttons.
   3. In the file browser, navigate to `sites/marketing/source/images/team`.
   4. Click the `⋁` icon next to the `team` directory and choose upload file and choose the photo of yourself. Be sure to follow the [picture requirements](#picture-requirements).
-  5. Next, navigate to 'data/team.yml' in the file browser or click [data/team.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team.yml) to open it and edit using the editor.
+  5. Next, navigate to the file that specifies your GitLab slug `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in the file browser and click on it to open the editor.
   6. <%= partial "team-page-fields" %>
   7. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
   8. Check the files to ensure your updates are what you expect. If they are, click the check mark above the changed file list to "stage" all changes. You can also use the `Stage` button in the upper-right of the changed file view to stage each one individually. You should now see `0 unstaged and 2 staged changes`.
@@ -157,12 +157,12 @@ help if you need it. There are **three** ways to update the website.  Choose the
   1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
   1. Click the `+` under the red line near the top of the screen.
   1. Click `New branch`.
-  1. For `Branch name`, name it something unique (it's temporary so don't worry too much about the exact name) like *your initials-team-page-update-yourdepartment-the date* and click `Create branch`. Example: `hk-team-page-update-custsupport-feb06` 
+  1. For `Branch name`, name it something unique (it's temporary so don't worry too much about the exact name) like *your initials-team-page-update-yourdepartment-the date* and click `Create branch`. Example: `hk-team-page-update-custsupport-feb06`
   1. Start by adding your image. Click on `Repository` on the left side then `Files`.
   1. In the file browser, navigate to `sites/marketing/source/images/team`
   1. At the top of the page click `+` and choose `Upload file` to upload your picture. Be sure to follow the [picture requirements](#picture-requirements). Add text *Add YourFirstName YourLastName to team page* and click `Upload file`.
   1. Navigate on your branch near the top of the page following the text that has your unique branch name and click on the text that follows your branch name `www-gitlab-com`.
-  1. Now you will edit your biographical information. All the bio information displayed on the Team page is pulled from a data file. Click on `data`, and then scroll down to 'team.yml' or click the link [team.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team.yml).
+  1. Now you will edit your biographical information. All the bio information displayed on the Team page is pulled from a data file. Click on `data`, and then scroll down to `team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` (you are looking for a file that specifies your name / slug).
   1. Click on `edit` on the top right side of your screen.
   1. <%= partial "team-page-fields" %>
   1. After you added your information, add a comment to your commit and click on “Commit Changes”.
@@ -183,7 +183,7 @@ help if you need it. There are **three** ways to update the website.  Choose the
   3. Clone the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
   4. Create and checkout a new branch for the changes you will be making.
   5. Add your picture to the `sites/marketing/source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
-  6. Open [data/team.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team.yml) in your favorite editor.
+  6. Open `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in your favorite editor, specifically looking for the file with your name / slug.
   7. <%= partial "team-page-fields" %>
   8. Save changes to `data/team.yml` and `git add` it.
   9. To see your changes locally, follow the directions in `README.md`.
@@ -206,7 +206,7 @@ help if you need it. There are **three** ways to update the website.  Choose the
   1. Add your pet by following the format of the existing pets on the page (you can copy and paste their lines of code, even). Ensure that you include your pet's name, your full name, and the image you uploaded in step 1.
   1. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
   1. Check the file to ensure your updates are what you expect. If they are, click the check mark next to the filename to "stage" these changes.
-  1. Once you have verified all of the edits, click commit once more. Here, enter a short commit message including what you've changed. Choose `Create a new branch and merge request`. Choose a branch name of your choosing. Remember to name it something unique. We recommend the format *your initials-team-page-update-yourdepartment-the date* Example: `mh-team-page-update-custsupport-feb06` 
+  1. Once you have verified all of the edits, click commit once more. Here, enter a short commit message including what you've changed. Choose `Create a new branch and merge request`. Choose a branch name of your choosing. Remember to name it something unique. We recommend the format *your initials-team-page-update-yourdepartment-the date* Example: `mh-team-page-update-custsupport-feb06`
   1. Fill out the merge request details and assign it to your manager for review.
 
 ## 12. Edit the Handbook
