@@ -12,7 +12,7 @@ description: "GitLab.com performance dashboards"
 
 ## Purpose
 
-The purpose of these dashboards are to show performance of GitLab.com for users who allow us to collect performance data via snowlow. This
+The purpose of these dashboards is to show performance of GitLab.com for users who allow us to collect performance data via snowplow. This
 can be used to determine where there are potential performance issues in the product in order to improve the overall user experience.
 
 
@@ -24,12 +24,12 @@ This dashboard shows:
 
 * Average and 50/90/99th percentiles for total load time
 * Number of page hits (so it can be compared with load time)
-* Average time for key subcomponents of the total load time suchas request, redirect, DOM, and processing time.
+* Average time for key subcomponents of the total load time such as request, redirect, DOM, and processing time.
 
 This can answer questions such as:
 * Is performance improving over time?
 * Is performance correlated to the amount of page hits?
-* Where is most of the time spent in terms of phases of the web pages loading?
+* Where is most of the time spent in terms of components of the web pages loading?
 
 ### Graph: Per hour for the last 2 weeks
 
@@ -37,7 +37,10 @@ This can answer questions such as:
 * Number of page hits
 
 This can answer questions such as:
-* When did performance issues spike?  Were there incidents during those times? Was there background maintenance going on during those times?  Are there other causes?
+* When did performance issues spike?
+* Were there incidents during those times? 
+* Was there background maintenance going on during those times?
+* Are there other causes?
 * Is performance correlated to the amount of page hits?
 
 ### Graph: Per day of the week for the last 2 weeks
@@ -105,7 +108,7 @@ More information on snowplow metrics:
 
 ## How is this different than LCP?
 
-[LCP (Largest Contentful Paint)](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp) measures the time to make a web page available for a user to see.  We measure this by periodically polling `specific pages` from a `specific user account` (_NEEDS TO BE CONFIRMED_).  This is an excellent way to measure performance for end-users.
+[LCP (Largest Contentful Paint)](/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp) measures the time to make a web page available for a user to see.  We measure this by periodically polling `specific pages` from a `specific user account` (_NEEDS TO BE CONFIRMED_).  This is an excellent way to measure performance for end-users.
 
 The dashboards described on this page use snowplow performance metrics which provide a different but also useful picture of end-user performance.  They don't show LCP but other related metrics and for `all pages` for `all users' (for users that allow us to collect this data).
 
