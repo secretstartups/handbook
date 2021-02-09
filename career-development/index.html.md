@@ -452,7 +452,7 @@ We strive to set the clearest possible expectations with regard to performance a
 
 ### Engineering Promotion Rate
 
-People Operations tracks the [Promotion Rate](/handbook/people-group/people-group-metrics/#promotion-rate) for the company overall and each division separately. The target is 12% annually. This metric is treated as an organizational health indicator for the quality of decisioning making our leaders are employing, and for the fairness in our process. In FY21 Engineering was exactly on its target of 12%. So we would not currently consider blocking any individual promotion based on the overall rate. If that were to change, and Engineering became an outlier (20%?) we would reevaluate. Here is the company-wide [process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
+People Operations tracks the [Promotion Rate](/handbook/people-group/people-group-metrics/#promotion-rate) for the company overall and each division separately. The target is 12% annually. This metric is treated as an organizational health indicator for the quality of decisioning making our leaders are employing, and for the fairness in our process. In FY21 Engineering was exactly on its target of 12%. So we would not currently consider blocking any individual promotion based on the overall rate. If that were to change, and Engineering became an outlier, we would reevaluate. Here is the company-wide [process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
 
 #### Transfer Options
 
