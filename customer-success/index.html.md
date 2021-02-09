@@ -125,6 +125,8 @@ SA's will be brought back into a customer account in the following situations
 
 ### Customer Workshops
 
+2021-01 [Skills Exchange Enablement on Customer Workshops](https://www.youtube.com/watch?v=kSbTZgPLKUE&feature=youtu.be)
+
 TAM-Created, Enablement Focus:
 
 - [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
