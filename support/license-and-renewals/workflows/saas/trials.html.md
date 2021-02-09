@@ -11,12 +11,11 @@ category: GitLab.com subscriptions & purchases
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Bronze and Silver trial subscriptions
+## Premium subscriptions
 
-GitLab.com [only offers the self-service ability to trial the Gold subscription](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/409).
+GitLab.com [only offers the self-service ability to trial the Ultimate subscription](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/409).
 With manager approval, GitLab.com support can assist with trials of other plans.
-Ask the user to create the GitLab.com Gold trial, then change the plan via the
-CustomersDot admin `GitLab Groups` page.
+Ask the user to create the GitLab.com Ultimate trial, then change the plan via the CustomersDot admin `GitLab Groups` page.
 
 ## Extending trials
 
