@@ -91,6 +91,8 @@ When underperformance is detected, managers compensate by checking their report'
 
 One or several Verbal Warning(s) are used to bring attention to new or ongoing deficiencies in conduct and/or performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please contact your aligned PBP.
 
+The template for a Verbal Warning is found in the confidential PBP resources folder.
+
 Verbal warnings should be communicated in 1:1 meetings, and subsequently confirmed by email with the manager emailing the team member. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder. The verbal warning will remain in the BHR file for the requisite time, as required by applicable local law.
 
 ### Written Warning
