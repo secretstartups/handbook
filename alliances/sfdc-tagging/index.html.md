@@ -24,7 +24,7 @@ Read more [here](https://about.gitlab.com/handbook/sales/field-operations/channe
 
 **[Example SFDC Report](https://gitlab.my.salesforce.com/00O4M000004afLJ)**
 
-1. ***Registered opportunity to Alliance partner*** : These are deals registered with Alliance partners (via public cloud's partner portal for example) that are actively in the co-sell pipeline. These deals do not have an outcome yet since they are not closed opportunities. 
+1. ***Registered opportunity with Alliance partner*** : These are deals registered with Alliance partners (via public cloud's partner portal for example) that are actively in the co-sell pipeline. These deals do not have an outcome yet since they are not closed/won/lost opportunities. 
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 --- | --- | --- | --- 
@@ -52,7 +52,7 @@ None | None | Alliance Partner | None
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKG)
 
-3. **Alliance assisted, sold via reseller**: These are deals sold via a mutual channel reseller, but also where GitLab sellers and Alliance sellers got on joint calls and/or collaborated to help land, expand, or up sell an **existing** GitLab opportunity or a **new** GitLab opportunity previously registered by a channel partner. These deals have closed/won/lost status. ` DR Partner Engagement` field will be determined by the type of engagement with the channel partner. The only attribution for Alliance partner impact where a channel partner is involved and transacting will be determined by the `Influence Partner` field. 
+3. **Alliance assisted, sold via reseller**: These are deals sold via a mutual channel reseller, but also where GitLab sellers and Alliance sellers got on joint calls and/or collaborated to help land, expand, or up sell an **existing** GitLab opportunity or a **new** GitLab opportunity previously registered by a channel partner. These deals have closed/won/lost status. `DR Partner Engagement` field will be determined by the type of engagement with the channel partner. The only attribution for Alliance partner impact where a channel partner is involved and transacting will be determined by the `Influence Partner` field. 
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 --- | --- | --- | --- 
