@@ -64,6 +64,13 @@ There are two more states an issue can be placed in:
 - `Workflow::Blocked`: These issues are either blocked by another issue or by missing API endpoints. The People
 Ops Engineer always adds the reason why an issue is moved to blocked.
 
+### Review process
+1. Assign your merge request to anyone in the People Group Engineering team
+1. They will review it. Once the review is done, they will assign it back to you.
+1. If the merge request was not approved yet, address the feedback and assign it back to the reviewer. 
+1. Continue the previous two steps until the merge request is approved.
+1. If you have merge rights, merge the merge request. If you don't have merge rights, ask the reviewer to merge it.
+
 ## Current projects
 
 All projects are public in this [group](https://gitlab.com/gitlab-com/people-group/peopleops-eng/).
