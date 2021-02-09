@@ -116,7 +116,9 @@ More information on snowplow metrics:
 
 ## How is this different than LCP?
 
-[LCP (Largest Contentful Paint)](/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp) measures the time to make a web page available for a user to see.  We measure this by periodically polling `specific pages` from a `specific user account` (_NEEDS TO BE CONFIRMED_).  This is an excellent way to measure performance for end-users.
+[LCP (Largest Contentful Paint)](/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp) measures the time to make a web page available for a user to see.  We measure this by periodically polling `specific pages` from a `specific user account`.  This is an excellent way to measure performance for end-users.
+
+sitespeed.io measures hundreds of data points with a major focus is around loading performance on the different web vitals where LCP is one of them. It is a synthetic measurement by a docker container that does multiple runs against the specified URL's every 3 hours.
 
 The dashboards described on this page use snowplow performance metrics which provide a different but also useful picture of end-user performance.  They don't show LCP but other related metrics and for `all pages` for `all users` (for users that allow us to collect this data).
 
