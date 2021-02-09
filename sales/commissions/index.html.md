@@ -22,7 +22,13 @@ There are two ways to connect with us.
 * Via the Chatter feature in Salesforce
 
 ## **What's New?**
-Exciting news for FY22! We are migrating our existing commission system to Xactly Incent! More information to follow, but you can find some key features listed in our last [**Sales Team Commission Update**](https://docs.google.com/presentation/d/1BrwEimK92RxVryiWebpuFZ7eWNV4ozAnKiz9Uj9dh4o/edit#slide=id.ga172a9cca6_0_0).
+Exciting news for FY22! We are migrating our existing commission system to Xactly Incent! No action required at this time. Stay tuned for additional details on transition, training and Q&A sessions.
+
+**Key Benefits of Xactly Incent:**
+1. Refreshes multiple times per day for real-time estimated commission payout visibility, resulting in fewer adjustments after payroll
+2. Visibility into payout estimates on open opportunities with Incentive Estimator feature
+3. Incentive statements on a single layout instead of having to open individual monthly statements
+4. Manager access to their team’s individual statements
 
 Thank you for your patience as we work to update the handbook to reflect the FY22 Compensation Program.
 
