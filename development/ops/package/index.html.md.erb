@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Package Group
+title: Package Group - We design, build and maintain the GitLab Package stage
 ---
 
 ## On this page
@@ -21,16 +21,16 @@ The package group is using the integrated group model which means that all the e
 
 The package group is made up of 3 functional teams:
 - Two Go engineers primarily responsible for
-  - [Container Registry](https://about.gitlab.com/direction/package/container_registry/)
-  - [Helm Chart Registry](https://about.gitlab.com/direction/package/helm_chart_registry/)
+  - [Container Registry](https://about.gitlab.com/direction/ops/#container-registry/)
+  - [Helm Chart Registry](https://about.gitlab.com/direction/ops/#helm-chart-registry)
 - Three Ruby engineers who are primarily responsible for:
-  - [Package Registry](https://about.gitlab.com/direction/package/package_registry/)
-  - [Dependency Proxy](https://about.gitlab.com/direction/package/dependency_proxy/)
-  - [Dependency Firewall](https://about.gitlab.com/direction/package/dependency_firewall/)
-  - [Git LFS](https://about.gitlab.com/direction/package/git_lfs/)
+  - [Package Registry](https://about.gitlab.com/direction/ops/#package-registry)
+  - [Dependency Proxy](https://about.gitlab.com/direction/ops/#dependency-proxy)
+  - [Dependency Firewall](https://about.gitlab.com/direction/ops/#dependency-firewall)
+  - [Git LFS](https://about.gitlab.com/direction/ops/#git-lfs)
 - One frontend engineer who is primarily responsible for
-  - implementation of User Experience spanning all categories
-  - [Jupyter Notebooks](https://about.gitlab.com/direction/package/jupyter_notebooks/)
+  - Implementation of User Experience spanning all categories
+  
 
 Due to these small functional teams, the Package Group deliverables are sometimes more at risk given that there are fewer people who can help out.
 
@@ -114,6 +114,7 @@ Follow along our instrumentation and measurement of Package-related metrics in [
 
 ### Dependency Proxy
 - [Use the GitLab Dependency Proxy to proxy and cache images from DockeHub](https://youtu.be/fNTfL55fh5c)
+- [Automatically authenticate using pre-defined environment variables](https://youtu.be/8qhT55e780g)
 
 ### Competitor products
 
@@ -175,7 +176,7 @@ Issues that we're actually expecting to work on will have the `package:active` l
 
 ### Milestone Planning
 
-Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones. The issues are labelled and assigned to the milestone. The Product Manager creates an issue for milestone planning that includes the priorities for the milestone. Product Developers review the milestone planning issue, ask questions, raise concerns and weigh each issue. The result of this process is a groomed milestone. As an example, here is the [Milestone planning issue for 12.10](https://gitlab.com/gitlab-org/gitlab/-/issues/209298).
+Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones. The issues are labelled and assigned to the milestone. The Product Manager creates an issue for milestone planning that includes the priorities for the milestone. Product Developers review the milestone planning issue, ask questions, raise concerns and weigh each issue. The result of this process is a groomed milestone. Our milestone planning issues can be found in our [Milestone Planning Epic](https://gitlab.com/groups/gitlab-org/-/epics/3591).
 
 ### Priorities
 
@@ -232,6 +233,18 @@ The below epics detail the work required to move each respective category to the
 ### Testing
 
 To best understand how users use the GitLab package registry, when building and testing features, it is beneficial to test using projects that resemble real use-case scenarios. A Hello-World package is not going to simulate the same functionality that a large open source library or enterprise customer is going to experience. Depending on the feature that is being built, it is recommended during the development phase to test locally using a real package. Additionally, consider reviewing existing data to determine a good range of test cases. The package group has created an [ad-hoc test projects group](https://gitlab.com/gitlab-org/ci-cd/package-stage/ad-hoc-test-projects) to store larger projects that can be used to test against. This group may contain copies of open source projects or projects specifically designed to test certain aspects of the GitLab package registry. It is not meant to be a static collection of projects, so the projects may be replaced, updated, or removed as seen fit.
+
+### Quality
+
+The Package team has a goal of shipping enterprise grade software with a focus on Quality. The team accomplishes this goal with the following practices:
+
+* Following GitLab's [Culture of Quality](https://about.gitlab.com/handbook/engineering/quality/#culture-of-quality_) with a focus on being champions for better software design. 
+
+* Partnering with our [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/) stable counterparts.
+
+* Frequently [reviewing the code coverage](https://gitlab.com/gitlab-org/gitlab/-/issues/284185) across our functional areas (GoLang, Ruby, Frontend) and addressing low scoring areas as needed.
+
+* Actively reviewing [Triage reports](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
 
 ### Code Review
 

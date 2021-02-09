@@ -1,7 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Secure, Dynamic Analysis
-description: “Discover GitLab’s vision, mission, team members, and stable counterparts for secure, dynamic analysis”
+title: Dynamic Analysis Group
 ---
 
 ## On this page
@@ -10,32 +9,58 @@ description: “Discover GitLab’s vision, mission, team members, and stable co
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Vision
+## Dynamic Analysis
 
-...
+The Dynamic Analysis group at GitLab is charged with developing solutions which perform [Dynamic Analysis Software Testing (DAST)](/direction/secure/dynamic-analysis/dast/),
 
-## Mission
+We develop code in primarily three repositories. 
 
-...
+| Repo | Purpose  |
+| --- | --- |
+| [DAST](https://gitlab.com/gitlab-org/security-products/dast) | The DAST Analyzer which is deployed as a docker image.  |
+| [Browserker](https://gitlab.com/gitlab-org/security-products/analyzers/browserker) | GitLab's proprietary crawler currently undergoing development |
+| [API Fuzzer](https://gitlab.com/gitlab-org/security-products/analyzers/api-fuzzing-src) - Private | GitLab's API Fuzzing scanner. 
 
-## Team Members
+## How to Contact Us
 
-The following people are permanent members of the [Blank] Team:
+* Slack channel: #g_secure-dynamic-analysis
+* Slack alias: @secure_dynamic_analysis_be
+* Google groups: dynamic-analysis-be@gitlab.com
+* GitLab mention: @gitlab-org/secure/dynamic-analysis-be 
 
-<%= direct_team(manager_role: 'Engineering Manager, [Blank]') %>
+## How We Work
 
-## Stable Counterparts
+The Dynamic Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/). 
 
-The following members of other functional teams are our stable counterparts:
+Issues worked by this team are backend-centric and are typically in one the above repos, [vendored templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Security), and GitLab's [Rails monolith](https://gitlab.com/gitlab-org/gitlab). At times, issues can require support from Secure's frontend team if UI changes are required. We will [require more notice](/handbook/engineering/development/secure/fe-secure#How-to-work-with-us) for initiatives like these.
 
-<%= stable_counterparts(role_regexp: /[,&] Blank/, direct_manager_role: 'Engineering Manager, [Blank]') %>
+### We leverage existing open source tools
+The DAST analyzer we build relies heavily on OWASP's [ZAP](https://github.com/zaproxy/zaproxy) open source software and [ZAP Extensions](https://github.com/zaproxy/zap-extensions). This means the accuracy and quality of the DAST analyzer is impacted by the quality of the underlying OSS. 
 
-## Common Links
+We [monitor the underlying tools](https://gitlab.com/groups/gitlab-org/security-products/analyzers/zap/-/security/dashboard) for changes and for vulnerabilities. 
 
- * Issue Tracker
- * Slack Channel
- * ...
+ZAProxy and ZAP Extensions do not have significant test coverage and therefore changes in those tools could impact DAST in unexpected ways. Since our expectation is that customers run 
+DAST in a CI environment and stability and security is of utmost importance, we do not necessarily ship the latest ZAP build. We actively review the ZAP changelog and evaluate whether 
+new updates deliver value to our customers and their use cases. We may ship a [pre-release build of ZAP or a versioned build](https://github.com/zaproxy/zaproxy/releases) 
+if we determine it contains valuable updates for customers and it passes our CI pipelines.  
 
- ## How to work with us
+An assigned backend engineer reviews upstream updates at least monthly to identify new bug fixes or features. 
+Those changes are presented to the Product Manager for prioritization into DAST. 
 
- ...
+### Specialized Labels
+
+We use additional labels to categorize different areas of the application. 
+~"dast::browserker" 
+~"dast::peach api" 
+~"dast::zap" 
+
+### Community Contributions
+The Dynamic Analysis welcomes community contributions. Any community contribution should get prompt feedback from one of the DAST engineers. All engineers on the DAST team are responsible for
+working with community contributions. If a team member does not have time to review a community contribution, please tag the Engineering Manager, so that they can assign the community contribution to another team member.  
+
+
+## Issue Boards
+
+* [Dynamic Analysis Delivery Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/554644?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Adynamic%20analysis&label_name[]=devops%3A%3Asecure)
+* [Dynamic Analysis Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1229233?label_name[]=group%3A%3Adynamic%20analysis)
+* [Dynamic Analysis EM Board](https://gitlab.com/groups/gitlab-org/-/boards/1353832?scope=all&utf8=%E2%9C%93&state=opened)

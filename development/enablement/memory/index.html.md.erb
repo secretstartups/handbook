@@ -21,43 +21,7 @@ The Memory team is responsible for optimizing GitLab application performance by 
 
 The following people are permanent members of the Memory Team:
 
-<%-# Hard coding the team makeup for now until team.yml reflects the team structure -%>
-<%#= direct_team(manager_role: 'Backend Engineering Manager, Memory') %>
-<%-# Hard coding the team makeup for now until team.yml reflects the team structure -%>
-<table>
-<thead>
-<tr>
-<th>Person</th>
-<th>Role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Craig Gomes</td>
-<td><a href="/job-families/engineering/backend-engineer/#engineering-manager">Engineering Manager, Memory & Database</a></td>
-</tr>
-<tr>
-<td>Kamil Trzciński</td>
-<td><a href="/job-families/engineering/distinguished-engineer/">Distinguished Engineer, Ops and Enablement</a></td>
-</tr>
-<tr>
-<td>Qingyu Zhao</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
-</tr>
-<tr>
-<td>Aleksei Lipniagov</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
-</tr>
-<tr>
-<td>Nikola Milojevic</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
-</tr>
-<tr>
-<td>Matthias Käppler</td>
-<td><a href="/job-families/engineering/backend-engineer">Senior Backend Engineer, Memory</a></td>
-</tr>
-</tbody>
-</table>
+<%= direct_team(manager_slug: 'craiggomes', role_regexp: /Memory|Enablement/) %>
 
 ## Stable Counterparts
 
@@ -88,30 +52,26 @@ Where we can we follow the GitLab values and communicate asynchronously.  Howeve
 We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please create an issue in the relevant project, or in the [Memory team project](https://gitlab.com/gitlab-org/memory-team/team-tasks/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).  Add the `~"group::memory"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/memory/#stable-counterparts) section above.
 
 ### Planning
-The Memory Team uses the [Memory by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1143987?label_name[]=group%3A%3Amemory) board to plan issues for each milestone.
+When planning for a milestone, the Memory Team creates a [planning issue](https://gitlab.com/gitlab-org/memory-team/team-tasks/-/blob/master/.gitlab/issue_templates/Planning.md) to discuss the upcoming milestone asynchronously. We outline the major efforts planned for the milestone along with who is working on each effort. Often there are individual issues that are either operational in nature, or don't belong to an epic. These issues are also called out in the planning issue for prioritization.
 
-We are adopting a lightweight weighting system, similar to those adopted by other teams.
-* [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan-project-management-be/#capacity-planning)
-* [Create: Source Code BE Team Weights](/handbook/engineering/development/dev/create-source-code-be/#weights)
-* [Geo Team Weights](/handbook/engineering/development/enablement/geo/#weights)
+We have three main boards for tracking our work (listed below). 
+
+#### Boards
+
+[Memory by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1143987?label_name[]=group%3A%3Amemory)
+The Milestone board gives us a "big picture" view of issues planned in each milestone.
+
+[Memory: Build](https://gitlab.com/groups/gitlab-org/-/boards/2333522?label_name[]=group%3A%3Amemory&label_name[]=memory%3A%3Aactive)
+The build board gives you an overview of the current state of work for `group::memory`. These issues have already gone through validation and are on the [Product Development Build Track](https://about.gitlab.com/handbook/product-development-flow/#build-track). Issues are added to this board by adding the `memory::active` and `group::memory` labels. Issues in the `workflow::ready for development` column are ordered in priority order (top down). Team members use this column to select the next item to work on.
+
+[Memory: Validation](https://gitlab.com/groups/gitlab-org/-/boards/2334157?scope=all&utf8=%E2%9C%93&lab[%E2%80%A6]el_name[]=group%3A%3Amemory&label_name[]=memory%3A%3Avalidation&label_name[]=group%3A%3Amemory)
+The validation board is a queue for incoming issues for the Product Manager to review. A common scenario for the Memory Team validation board is when an issue is created that requires further definition before it can be prioritized. The issue typically states a big picture idea but is not yet detailed enough to take action. The Memory Team will then go through a refinement process to break down the issue into actionable steps, create exit criteria and prioritize against ongoing efforts. If an issue becomes too large, it will be promoted to an epic and small sub-issues will be created.
 
 #### Say/Do Ratio
 We use the `~Deliverable` label to track our Say/Do ratio.  At the beginning of each milestone, during a Memory Team Weekly meeting, we review the issues and determine those issues we are confident we can deliver within the milestone.  The issue will be marked with the `~Deliverable` label.  At the end of the milestone the successfully completed issues with the `~Deliverable` label are tracked in two places.  We have a dashboard in Sisense that will calculate how many were delivered within the mileston and account for issues that were moved.  Additionally, our milestone retro issue lists all of the `~Deliverable` issues shipped along with those that missed the milesone.
 
 ### Roadmap
 The Memory Team [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Amemory&label_name[]=Roadmap) gives a view of what is currently in flight as well as projects that have been prioritized for the next 3+ months.
-
-### Boards
-
- * [Memory by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/1143987?label_name[]=group%3A%3Amemory)
-   * The main board used for planning and prioritization.  Issues are placed into milestones and in priority order from top to bottom.  When looking for work, team members should choose the topmost item from this list that is unassigned.
- * [Memory:Workflow Kanban](https://gitlab.com/groups/gitlab-org/-/boards/1065668?&label_name[]=group%3A%3Amemory)
-   * Reflects the current state of the issue (Open, Ready for Development, In Dev, In Review, Blocked, Closed).
- * [Memory:Planning](https://gitlab.com/groups/gitlab-org/-/boards/1077383?&label_name[]=group%3A%3Amemory)
-   * A view of issues grouped by Priority or Severity.
- * [Memory by Team Member](https://gitlab.com/groups/gitlab-org/-/boards/1156292?&label_name[]=group%3A%3Amemory)
-   * A view of issues grouped by assignee.
-
 
 ## Links
 

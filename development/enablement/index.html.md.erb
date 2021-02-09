@@ -36,9 +36,14 @@ Enablement focuses on improving our capabilities and metrics in the following ar
 The following people are permanent members of the Enablement Sub-department:
 
 <%
-departments = ['Database', 'Distribution', 'Geo' , 'Memory', 'Global Search']
-interim_manager_departments = ['Fulfillment']
-department_regexp = /(#{Regexp.union(departments)})/
+  departments = [
+    { name: 'Database', manager: 'craiggomes', regexp: /Database/ },
+    { name: 'Distribution', manager: 'eng-manager-distribution' },
+    { name: 'Geo', manager: 'nick-nguyen' },
+    { name: 'Memory', manager: 'craiggomes', regexp: /Memory|Enablement/ },
+    { name: 'Global Search', manager: 'cliu' }
+ ]
+ department_regexp = /(#{Regexp.union(departments.map{ |d| d[:name] })})/
 %>
 
 <%=  direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Enablement') %>
@@ -48,9 +53,8 @@ department_regexp = /(#{Regexp.union(departments)})/
 The following people are permanent members of teams that belong to the Enablement Sub-department:
 
 <% departments.each do |dep| %>
-### <%= dep %>
-  <% manager_role = interim_manager_departments.include?(dep) ? "Backend Engineering Manager, #{dep} (Interim)" : "Backend Engineering Manager, #{dep}" %>
-  <%= direct_team(manager_role: manager_role) %>
+### <%= dep[:name] %>
+  <%= direct_team(manager_slug: dep[:manager], role_regexp: dep[:regexp]) %>
 <% end %>
 
 ## Business Continuity - Coverage and Escalation

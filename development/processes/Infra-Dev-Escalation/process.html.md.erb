@@ -15,7 +15,7 @@ title: Development Escalation Process
 **Note**
 {: .panel-heading}
 <div class="panel-body">
-We are piloting a [new bot-based escalation](#first-responder-pilot-program) combined with the spreadsheet escalation process.
+We use [Pagerslack](#bot-pagerslack-usage) as the primary combined with the [spreadsheet](https://tinyurl.com/wtdao82) as a backup for weekday escalations. Weekend escalations rely on the spreadsheet solely.
 </div>
 </div>
 
@@ -31,79 +31,105 @@ The expectation for the development engineers is to be a technical consultant an
 
 ### Scope of Process
 
-* This process is designed for the following issues:
-   * **GitLab.com** and **self-managed hosting** **`operational emergencies`** raised by the **Infrastructure** , **Security**, and **Support** teams.
-   * Engineering emergencies raised by **teams in engineering** such as the Delivery and QE teams, where an **imminent deployment or release is blocked**.
-* This process is **NOT** a path to reach development team for non-urgent issues that the Infrastructure, Security, and Support teams run into. Such issues can be moved forward by:
-   * labelling with `security` and the `@gitlab-com/security/appsec` team mentioned to be notified as part of the [Application Security Triage rotation](/handbook/engineering/security/#triage-rotation)
-   * labelling with `infradev` which will be raised to [Infra/Dev triage board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=gitlab.com&label_name[]=infradev)
-   * raising to the respective product stage/group Slack channel, or
-   * asking the [#is-this-known](/handbook/communication/#asking-is-this-known) Slack channel
-* This process provides 24x7 coverage.
+1. This process is designed for the following issues:
+   1. **GitLab.com** and **self-managed hosting** **`operational emergencies`** raised by the **Infrastructure** , **Security**, and **Support** teams.
+   1. Engineering emergencies raised by **teams in engineering** such as the Delivery and QE teams, where an **imminent deployment or release is blocked**.
+   1. Engineering emergencies raised by **teams in product** such as the Product Operations team, where the **imminent deployment of the Release Post is blocked**.
+1. This process is **NOT** a path to reach development team for non-urgent issues that the Infrastructure, Security, and Support teams run into. Such issues can be moved forward by:
+   1. Labelling with `security` and the `@gitlab-com/security/appsec` team mentioned to be notified as part of the [Application Security Triage rotation](/handbook/engineering/security/#triage-rotation)
+   1. Labelling with `infradev` which will be raised to [Infra/Dev triage board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=gitlab.com&label_name[]=infradev)
+   1. Raising to the respective product stage/group Slack channel, or
+   1. Asking the [#is-this-known](/handbook/communication/#asking-is-this-known) Slack channel
+1. This process provides 24x7 coverage.
 
-Example of qualified issue:
+#### Example of qualified issue
 
-* Production issue examples:
-   * GitLab.com: [DB failover and degraded GitLab.com performance](https://gitlab.com/gitlab-com/gl-infra/production/issues/1054)
-   * GitLab.com: [Severity 1](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) vulnerability being actively exploited or high likelihood of being exploited and puts the confidentiality, availability, and/or integrity of customer data in jeopardy.
-   * Self-managed: [Customer ticket - Our GitLab instance is down - request an emergency support](https://gitlab.zendesk.com/agent/tickets/129514)
-   * Self-managed: [Customer ticket - Database overloaded due to Sidekiq stuck jobs](https://gitlab.zendesk.com/agent/tickets/130598)
-* Engineering emergency examples:
-   * [A post deloyment issue with version.gitlab.com](https://gitlab.com/gitlab-com/gl-infra/production/issues/1615) that will cause self-managed deployment failure.
-   * [GitLab.com deployment](https://gitlab.com/gitlab-org/gitlab/issues/198440) or a security release is blocked due to pipeline failure.
-   * [A severity::1 regression found in the release staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/199316)
-   * [Evaluating severity and making decision on a potential release or deployment show stopper](https://gitlab.com/gitlab-org/gitlab/-/issues/217450) collaboratively when other engineering teams are challenged to accomplish alone.
+1. Production issue examples:
+   1. GitLab.com: [DB failover and degraded GitLab.com performance](https://gitlab.com/gitlab-com/gl-infra/production/issues/1054)
+   1. GitLab.com: [Severity 1](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) vulnerability being actively exploited or high likelihood of being exploited and puts the confidentiality, availability, and/or integrity of customer data in jeopardy.
+   1. Self-managed: [Customer ticket - Our GitLab instance is down - request an emergency support](https://gitlab.zendesk.com/agent/tickets/129514)
+   1. Self-managed: [Customer ticket - Database overloaded due to Sidekiq stuck jobs](https://gitlab.zendesk.com/agent/tickets/130598)
+1. Engineering emergency examples:
+   1. [A post deloyment issue with version.gitlab.com](https://gitlab.com/gitlab-com/gl-infra/production/issues/1615) that will cause self-managed deployment failure.
+   1. [GitLab.com deployment](https://gitlab.com/gitlab-org/gitlab/issues/198440) or a security release is blocked due to pipeline failure.
+   1. [A severity::1 regression found in the release staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/199316)
+   1. [Evaluating severity and making decision on a potential release or deployment show stopper](https://gitlab.com/gitlab-org/gitlab/-/issues/217450) collaboratively when other engineering teams are challenged to accomplish alone.
 
 
-Examples of non-qualified issues:
+#### Examples of non-qualified issues
 
-* Production issue examples:
-   * GitLab.Com:[Errors when import from GitHub](https://gitlab.com/gitlab-org/gitlab-ce/issues/66166)
-   * GitLab.com: [Last minute security patch to be included in an upcoming release](https://gitlab.com/gitlab-org/omnibus-gitlab/issues/4530)
-   * Self-managed(ZD): [View switch causing browser freeze](https://gitlab.com/gitlab-org/gitlab-ce/issues/52479)
-   * Self-managed(ZD): [Watch Everything Notification Level](https://gitlab.com/gitlab-org/gitlab-ee/issues/14214)
-* Engineering issue examples:
-   * [A priority::1/severity::1 enhancement of CI](https://gitlab.com/gitlab-org/gitlab/issues/36154)
-   * [A priority::1/severity::1 fix to API](https://gitlab.com/gitlab-org/gitlab-foss/issues/65381)
-   * [Non release blocking QA failures on staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/198692)
+1. Production issue examples:
+   1. GitLab.Com:[Errors when import from GitHub](https://gitlab.com/gitlab-org/gitlab-ce/issues/66166)
+   1. GitLab.com: [Last minute security patch to be included in an upcoming release](https://gitlab.com/gitlab-org/omnibus-gitlab/issues/4530)
+   1. Self-managed(ZD): [View switch causing browser freeze](https://gitlab.com/gitlab-org/gitlab-ce/issues/52479)
+   1. Self-managed(ZD): [Watch Everything Notification Level](https://gitlab.com/gitlab-org/gitlab-ee/issues/14214)
+1. Engineering issue examples:
+   1. [A priority::1/severity::1 enhancement of CI](https://gitlab.com/gitlab-org/gitlab/issues/36154)
+   1. [A priority::1/severity::1 fix to API](https://gitlab.com/gitlab-org/gitlab-foss/issues/65381)
+   1. [Non release blocking QA failures on staging.gitlab.com](https://gitlab.com/gitlab-org/gitlab/issues/198692)
 
 ### Process Outline
 
 **NOTE:** On-call engineer need not announce beginning/end of their shift in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) unless there is an active incident happening (check the chat history of the channel to know if there is an active incident). This is because many engineers have very noisy notifications enabled for that channel, and such announcements are essentially false positives which make them check the channel unnecessarily.
 
-Note: Beginning in September 2020 through the end of January 2021, we are using this [Pilot Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#first-responder-pilot-program)
+#### Weekdays
 
-1. Escalation arises.
-1. Infrastructure, Security, Support or Engineering team register tracking issue and determines the severity or references the Zendesk ticket, whichever is applicable.
-   * Explicitly mention whether the raised issue is for GitLab.com or a self-managed environment.
-   * The issue must be qualified as severity::1 or severity::2.
-1. Infrastructure, Security, Support or Engineering team pings on-duty engineer (@name) in Slack [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
-   * Find out who's on duty in the on-call [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
-   * Ping on-duty engineers by tagging @name.
-   * On-call engineer responds by reacting to the ping with `:eyes:`
-   * If no response from on-call engineer within 5 minutes then the Infrastructure, Security, or Support team will find their phone number from the on-call sheet and call that number.
-1. First response time SLOs - **OPERATIONAL EMERGENCY ISSUES ONLY**
+Weekdays will now leverage an automated system relying upon the [Pagerslack](https://gitlab.com/jameslopez/pagerslack).
+
+1. Incidents will be escalated by Pagerslack and randomly select a BE that is currently online in Slack and eligible due to their working hours.
+1. Pagerslack would also factor recency into the algorithm so that BEs that had recently been involved in an incident would be selected last.
+1. During incidents a randomly selected BE has the option to pass the incident to another BE if they are urgently needed somewhere else.
+1. Engineers who are eligible to be on-call during weekend shifts are deprioritized from the process
+
+##### Escalation
+
+1. SRE et al, types `/devoncall incident-issue-url` into #dev-escalation
+1. Pagerslack randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
+1. BE responds to the Pagerslack thread with 👀
+1. If Primary does not respond a secondary will be notified.
+1. Pagerslack will continue trying up to 6 different BEs with a preference for those who do not take weekend shifts
+1. BE triages the issue and works towards a solution.
+1. If necessary, BE reach out to domain experts as needed.
+
+In the event that no BEs respond to the bot, Pagerslack will then post a link to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) for the SRE to look up scheduled oncall BE. We assume escalating to using the spreadsheet as a last resort. In case there is no response to the Slack message, the escalator can call the engineer's number in the spreadsheet.
+
+#### Weekends and Holidays
+
+Weekend/Holiday oncall will continue to use the existing Oncall process using the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) outlined above.
+
+Holidays will continue to be included in the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing), those holidays include: Christmas Day, New Years Eve, New Years Day, Pi Day and Black Friday.
+
+##### Escalation
+
+1. SRE et al, types `/devoncall incident-issue-url` into #dev-escalation
+1. Pagerslack posts a link to the oncall spreadsheet
+1. SRE contacts the scheduled BE via Slack or make a phone call 5 minutes after Slack ping. Refer to bullet 3 under [#process-outline](#process-outline).
+1. BE triages the issue and works towards a solution.
+1. If necessary, BE will reach out to domain experts as needed.
+
+### First response time SLOs 
+
+**OPERATIONAL EMERGENCY ISSUES ONLY**
+
    1.  **GitLab.com**: Development engineers provide initial response (not solution) in both [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) and the tracking issue within **15 minutes**.
    1.  **Self-managed**: Development engineers provide initial response (not solution) in both [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) and the tracking issue on a best-effort basis. (SLO will be determined at a later time.)
    1. In the case of a tie between GitLab.com and self-managed issues, GitLab.com issue takes priority.
    1. In the case of a tie between production (GitLab.com, self-managed) and engineering issues, production issue takes priority. The preferred action is to either backout or rollback to the point before the offending MR.
-1. When on-call engineers need assistance of domain expertise:
-   * Ping domain expert engineer and their engineering manager IMMEDIATELY in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4). Make the best guess and it's fine to ping multiple persons when you are not certain. Domain experts are expected to get engaged ASAP.
-   * If needed, next level is to ping the development director(s) of the domain in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
-1. Whenever the issue status is changed to mitigated, the escalation process ends.
 
-### Logistics
+### Required Slack Channel and Notification Settings
 1. All on-call engineers, managers, distinguished engineers, fellows (who are not co-founders) and directors are required to join [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4).
 1. On-call engineers are required to add a phone number that they can be reached on during their on-call schedule to the on-call sheet.
-1. On-call engineers are recommended to turn on Slack notification while on duty, or there are better customized ways to be alerted realtime.
+1. On-call engineers are required to turn on Slack notification during regular working hours. Please refer to [Notification Settings](#notification-settings) for details.
 1. Similarly, managers and directors of on duty engineers are also recommended to do the same above to be informed. When necessary, managers and directors will assist to find domain experts.
 1. Hint: turn on Slack **email** notification while on duty to double ensure things don't fall into cracks.
 
 ## Rotation Scheduling
 
+**Important**: Sign-ups of weekdays and weekends are required as a backup while using Pagerslack as the primary scheduling and entry for weekday escalations.
+
 ### Guidelines
 
-1. Assignments
+#### Assignments
 
    On-call work comes in four-hour blocks, aligned to UTC:
 
@@ -118,8 +144,8 @@ Note: Beginning in September 2020 through the end of January 2021, we are using 
    must allocate 2,190 4-hour shifts.
 
    The total number of shifts is divided among the eligible engineers. This is
-   the minimum number of shifts any one engineer is expected to do. As of March
-   2020 we have around 150 eligible engineers, this means each engineer is
+   the minimum number of shifts any one engineer is expected to do. As of January
+   2021 we have around 157 eligible engineers, this means each engineer is
    expected to do 16 shifts per year, or 4 shifts per quarter.
 
    In general, engineers are free to choose which shifts they take across the
@@ -136,7 +162,7 @@ Note: Beginning in September 2020 through the end of January 2021, we are using 
 
    Scheduling and claiming specific shifts is done on the [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing). More on that below.
 
-1. Eligibility
+#### Eligibility
 
    All development backend and fullstack engineers who have been with the company for at least 3 months.
 
@@ -152,7 +178,7 @@ Note: Beginning in September 2020 through the end of January 2021, we are using 
    2. Identify each person's role in column C based on their profile in team.yml, specifically their `role` and/or `departments`.
    3. Filter column C by displaying `Backend/Distribution/Fullstack` engineers only.
 
-1. Nomination
+#### Nomination
 
    Engineers normally claim shifts themselves on this [Google sheet of schedule](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
    To ensure we get 100% coverage, the schedule is fixed one month in advance.
@@ -178,7 +204,7 @@ Note: Beginning in September 2020 through the end of January 2021, we are using 
 
    There is additional information regarding weekend shifts, which can be found in ["Additional Notes for Weekend Shifts"](https://drive.google.com/drive/search?q=%22Additional%20Notes%20for%20Weekend%20Shifts%22) under a sub-folder called *Development Escalation Process* in the shared *Engineering* folder on Google Drive.
 
-1. Relay Handover
+#### Relay Handover
    * Since the engineers who are on call may change frequently, responsibility
      for being available rests with them. Missing an on-call shift is a serious
      matter.
@@ -218,7 +244,9 @@ self-nomination is the way to go. On each month tab in the schedule
 spreadsheet, directors and managers are encouraged to sign up in the
 **Coordinator** column. One director or manager per month.
 
-The coordinator should:
+#### Responsibility
+
+The coordinator will:
 
 1. Remind engineers to sign up, by:
     * Posting reminders to the [#development](https://app.slack.com/client/T02592416/C02PF508L) and [#backend](https://app.slack.com/client/T02592416/C8HG8D9MY) channels in Slack
@@ -234,6 +262,20 @@ The coordinator should:
 
 An [Epic of execution tracking](https://gitlab.com/groups/gitlab-com/-/epics/122) was created, where each coordinator is expected to register an issue under this Epic for the month-on-duty to capture activities and send notifications. Here is [an example](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4965).
 
+#### How-To
+Refer to this [coordinator issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/dev-oncall-monthly-execution.md) for instructions or the steps below. The same template is used for monthly oncall planning and execution issues.
+
+1. Start by finding the least filled shift (Usually this is 00:00 - 04:00 UTC) in [the on-call sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
+1. Determine the appropriate timezone for this shift (in the case of 00:00 - 04:00 it is +9,+10,+11,+12,+13).
+1. Go to the [team members list sheet](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=1242210014) and filter the "UTC" column by the desired timezones for the shift . Now you have the list of possible people that can take this shift, and please try your best to honor the personal "Preferred Weekend Hours (UTC)" and "Preferred Weekend Day" whenever possible. Alternatively, you can use [this dev-on-call tool](https://gitlab.com/gitlab-com/dev-on-call) to find out people who may take this shift.
+1. Go to google calendar and start to create a dummy event that is on the day and time of the unclaimed shift . NOTE you will not actually end up creating this event.
+1. Add all of the people that can possibly take the shift to the event as guests.
+1. Go to the "Find a Time" tab in the calendar event to see availabilities of people.
+1. Find a person that is available (preferring people that have taken less than 4 shifts per quarter and few or no shifts overall, based on the [shifts counts sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit#gid=2078444703)). Note people who are on leave or otherwise busy or in interviews, do not schedule them for the shift. It would be fine to ignore events that appeared to be normal team meetings, 1:1, coffee chat as people can always leave a meeting if there is an urgent escalation.
+1. Assign them to the shift by filling their name in the on-call sheet in Purple font color.
+1. Now since there are likely many days that have this unfilled time slot then update the event date to the next day with this same unfilled time zone. Since it's the same time then the same set of people will be appropriate to take the shift which means you don't need to update the guest list.
+1. Repeat all of the above for all of the unclaimed timezones remembering that you want to solve for one shift (by time range) at a time as it means you will re-use the same guest list to determine availability.
+
 ### Additional Notes for Weekend Shifts
 
 For those eligible engineers, everyone is encouraged to explore options that work best for their personal situations in lieu of weekend shifts. When on-call you have the following possibilities:
@@ -243,6 +285,8 @@ For those eligible engineers, everyone is encouraged to explore options that wor
 1. Take up to double the time off for any time worked during the weekend when the above two options don't work with your personal schedule.
    1. When an engineer is in standby mode (e.g. not paged) during the weekend shift, they can take 1.25x time-off.
    1. When an engineer is in call-back mode (e.g. being paged) during the weekend shift, they can take double the time-off.
+   1. For those who reside in Australia, please refer to these [guidelines of time in lieu](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only) in the handbook.
+   1. Please create an OOO event in PTO by Roots and choose **On-Call Time in Lieu**.
 1. Other alternatives that promote work-life balance and have the least impact to your personal schedule.
 
 With the above alternatives we want to make sure we comply with local labor laws and not surpass the restricted weekly working hours (ranging from 38 to 60 hours) and offer enough rest time for the engineers who sign up on weekend on-call shifts.
@@ -256,20 +300,13 @@ week here.
 
 ## Resources
 
-### Coordinator Practice Guide
+### Bot (Pagerslack) Usage
 
-Below is a process that one coordinator used to fill unclaimed spots:
+ * In order to use the bot, type `/devoncall incident-issue-url` to trigger the escalation process.
+ * Message the bot privately with `top` to show the top 25 members that are next in the escalation queue
+ * Message the bot privately with `position` to see your position in the queue. The higher the number, the less probabilities to get pinged.
 
-1. Start by finding the least filled shift (Usually this is 00:00 - 04:00 UTC) in [the on-call sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
-1. Determine the appropriate timezone for this shift (in the case of 00:00 - 04:00 it is +9,+10,+11,+12,+13).
-1. Go to the [team members list sheet](https://docs.google.com/spreadsheets/d/1Uug3QHeGYobzUbB2ajJsw7CKe7vy1xRdflO5FOuHgDw/edit#gid=1242210014) and filter the "UTC" column by the desired timezones for the shift . Now you have the list of possible people that can take this shift, and please try your best to honor the personal "Preferred Weekend Hours (UTC)" and "Preferred Weekend Day" whenever possible. Alternatively, you can use [this dev-on-call tool](https://gitlab.com/gitlab-com/dev-on-call) to find out people who may take this shift.
-1. Go to google calendar and start to create a dummy event that is on the day and time of the unclaimed shift . NOTE you will not actually end up creating this event.
-1. Add all of the people that can possibly take the shift to the event as guests.
-1. Go to the "Find a Time" tab in the calendar event to see availabilities of people.
-1. Find a person that is available (preferring people that have taken less than 4 shifts per quarter and few or no shifts overall, based on the [shifts counts sheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit#gid=2078444703)). Note people who are on leave or otherwise busy or in interviews, do not schedule them for the shift. It would be fine to ignore events that appeared to be normal team meetings, 1:1, coffee chat as people can always leave a meeting if there is an urgent escalation.
-1. Assign them to the shift by filling their name in the on-call sheet in Purple font color.
-1. Now since there are likely many days that have this unfilled time slot then update the event date to the next day with this same unfilled time zone. Since it's the same time then the same set of people will be appropriate to take the shift which means you don't need to update the guest list.
-1. Repeat all of the above for all of the unclaimed timezones remembering that you want to solve for one shift (by time range) at a time as it means you will re-use the same guest list to determine availability.
+_Please report any problems by creating an issue in the [pagerslack project](https://gitlab.com/jameslopez/pagerslack/-/issues)._
 
 ### Shadowing An Incident Triage Session
 
@@ -307,86 +344,11 @@ To get an idea of [what's expected](#expectation) of an on-call engineer and how
    1. [SLAs](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1).
    1. [Web Overview](https://dashboards.gitlab.net/d/web-main/web-overview?orgId=1).
 
-## First Responder Pilot Program
-
-### Background
-
-Beginning 2020-09-01, a Pilot program will be initiated which is the outcome of a [recent proposal](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7831) to iterate on the oncall process.
-
-[A presentation](https://docs.google.com/presentation/d/1PEF9oBKEnRDXIxDQAPnx34JzNd4uXRbmklwn8YtBUN0/edit#slide=id.g8d95f3965b_0_20) and [a Q/A session](https://docs.google.com/document/d/1YPoddFwupwyDCn7AIPDscV4ECuNsU8xVFDE1FMIU_dY/edit#) can provide further background.
-
-### New Process
-
-The new process splits Weekdays and Weekends/Holidays and fully automates scheduling and escalation using a Bot (pagerslack) during the normal work week.
-
-A pilot of this new weekday process will happen concurrently with the existing scheduled one. In a sense there will be "double coverage" during the pilot to ensure that someone is always available, either via pagerslack or previously scheduled in the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing).
-
-**Important**: During the pilot period, sign-ups of weekday and weekends are still required as a backup.
-
-#### Weekdays
-
-Weekdays will now leverage an automated system relying upon a [chatbot](https://gitlab.com/jameslopez/pagerslack).
-
-1. Incidents will be escalated by Pagerslack and randomly select a BE that is currently online in Slack and eligible due to their working hours.
-1. Pagerslack would also factor recency into the algorithm so that BEs that had recently been involved in an incident would be selected last.
-1. During incidents a randomly selected BE has the option to pass the incident to another BE if they are urgently needed somewhere else.
-1. Engineers who are eligible to be on-call during weekend shifts are deprioritized from the process
-
-##### Escalation
-
-1. SRE et al, types `/devoncall incident-issue-url` into #dev-escalation
-1. Pagerslack randomly selects a BE first responder based on: working hours, whether they are online and notifies them via slack/cell etc.
-1. BE responds to the Pagerslack thread with 👀
-1. If Primary does not respond a secondary will be notified.
-1. Pagerslack will continue trying up to 6 different BEs with a preference for those who do not take weekend shifts
-1. BE triages the issue and works towards a solution.
-1. If necessary, BE reach out to domain experts as needed.
-
-In the event that no BEs respond to the bot, Pagerslack will then post a link to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) for the SRE to look up scheduled oncall BE. We assume escalating to using the spreadsheet as a last resort.
-
-#### Weekends and Holidays
-
-Weekend/Holiday oncall will continue to use the existing Oncall process using the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) outlined above.
-
-Holidays will continue to be included in the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing), those holidays include: Christmas Day, New Years Eve, New Years Day, Pi Day and Black Friday.
-
-##### Escalation
-
-1. SRE et al, types `/devoncall incident-issue-url` into #dev-escalation
-1. Pagerslack posts a link to the oncall spreadsheet
-1. SRE contacts the scheduled BE via Slack or make a phone call 5 minutes after Slack ping. Refer to bullet 3 under [#process-outline](#process-outline).
-1. BE triages the issue and works towards a solution.
-1. If necessary, BE will reach out to domain experts as needed.
-
-### Timeline
-
-We will pilot this new program from September 2020 to the end of January 2021.
-
-The aim is to see at least 8 escalations occur with the new process and reach a consensus whether the new process is ready for production before fully switching over. If we initiate the process on 2020-09-01 we estimate that criteria should be met within 60 days.
-
-During the experiment period, the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) is a backup and there will be a review how it is going at the end of September or when we have seen 8 escalations (whichever happens sooner). If the pilot is successful (see [success criteria](#success-criteria) below), we will move to this new process starting on 2020-11-01.
+### Pagerslack statistics ([Sisense](https://app.periscopedata.com/app/gitlab/780258/Pagerslack-Stats))
 
 <embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 10320020, dashboard: 780258, embed: 'v2') %>">
 
-### Success Criteria
-
-We measure success by the number of escalations handled solely via the bot-driven process. We aim for 0 total incidents to be escalated to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing), but allow up to 15% escalations falling back to the oncall spreadsheet.
-
-At the time of success assessment, all stakeholders - Development, Infrastructure, QE, Security, and Support - agree the new process is ready for production, in addition to the metric above.
-
 <embed width="100%" height="100%" style="min-height:300px;" src= "<%= signed_periscope_url(chart: 10320108, dashboard: 780258, embed: 'v2') %>">
-
-### Bot (Pagerslack) Usage
-
- * In order to use the bot, type `/devoncall incident-issue-url` to trigger the escalation process.
- * Message the bot privately with `top` to show the top 25 members that are next in the escalation queue
- * Message the bot privately with `position` to see your position in the queue. The higher the number, the less probabilities to get pinged.
-
-_Please report any problems by creating an issue in the [pagerslack project](https://gitlab.com/jameslopez/pagerslack/-/issues)._
-
-### Pagerslack statistics
-
-See the [Sisense Pagerslack Stats board](https://app.periscopedata.com/app/gitlab/780258/Pagerslack-Stats)
 
 ### Notification Settings
 
