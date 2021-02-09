@@ -33,6 +33,8 @@ This can answer questions such as:
 
 ### Graph: Per hour for the last 2 weeks
 
+_All times are UTC_
+
 * Average and 50/90/99th percentiles for total load time
 * Number of page hits
 
