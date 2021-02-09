@@ -484,7 +484,7 @@ Team members who were on loan to another team documented these best practices in
  
 We use [gearing ratios](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to govern the amount of Staff, Principal, Distinguished, and Fellow level positions (collectively referred to as "Staff+") in Engineering because the work needed to be done at these levels is proportional to the mission of their workgroup. This is similar to how Manager, Senior Manager, Director and VP level positions are proportional to the organization's size and our recommended [span-of-control limits (bullet #5)](/company/team/structure/#management-group).
 
-It's obvious why a manager cannot manage too many people effectively, or why they would be unable to have an impact if they managed too few people (see [Andy Grove's _High Output Management_](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) for more detail on the concept of "managerial leverage"). It's less obvious how to determine the amount of Staff+ work that needs to be done, because it partially involves solving our hardest technical problems, which are unpredictable. But other important Staff+ work is proportional to the organization, and so it's easier to characterize. So we call it "[technical leverage](/handbook/engineering/ic-leadership/#technical-leverage)" to mirror "managerial leverage".
+It's obvious why a manager cannot manage too many people effectively, or why they would be unable to have an impact if they managed too few people (see [chapter three in Andy Grove's _High Output Management_](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) for more detail on the concept of "managerial leverage"). It's less obvious how to determine the amount of Staff+ work that needs to be done, because it partially involves solving our hardest technical problems, which are unpredictable. But other important Staff+ work is proportional to the organization, and so it's easier to characterize. So we call it "[technical leverage](/handbook/engineering/ic-leadership/#technical-leverage)" to mirror "managerial leverage".
 
 Throughout engineering we have groups of team members organized in different structures towards completing a mission. For the purpose of gearing ratios we’ll accommodate this diversity of structure by referring to these as "workgroups". A workgroup is the collection of team members with a mission and typically arranged according to a product group, team, or other problem-solving unit.
 
@@ -496,7 +496,7 @@ In contrast, we place no numeric limits on the quantity of Intermediate and Seni
 
 Just as a healthy organization has managers with appropriate managerial leverage (or span-of-control), it also has Staff+ ICs with appropriate technical leverage. The potential number of workgroup Staff+ ICs will be directed by gearing restrictions (below) while still allowing for a deliberate justification for workgroups where the default approach is insufficient.
 
-It is intended that we provide Staff+ team members with a significant scope of influence and challenges worthy of their skills and experience. If a Staff+ IC cannot positively influence enough of their peers, or is overly focused on a smaller scope of work we aren’t benefiting their growth nor are we efficiently investing company funds.
+It is intended that we provide Staff+ team members with a significant scope of influence and challenges worthy of their skills and experience. If a Staff+ IC cannot positively influence enough of their peers, or is overly focused on a smaller scope of work, then we aren’t benefiting their growth nor are we efficiently investing company funds.
 
 ### Staff+ Reporting Restrictions
 * Staff Software Engineers report to an Engineering Manager (a manager of ICs)
@@ -518,6 +518,7 @@ The method for documenting and adopting an exception consists of:
 Since collective exceptions within a department will at some point impact overall funded headcount, exceptions will require the approval of department heads. In some cases the exception to gearing ratio may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted). All exceptions should be documented in a page local to the workgroup within the handbook but linked to the table below.
 
 | **Workgroup** | **Department** | **Ratio** | **Link** |
+|---------------|----------------|-----------|----------|
 | Scalability Team | Infrastructure | 2 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Scalability-Team-IC-Gearing) |
 | Delivery Team | Infrastructure | 3 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Delivery-Team-IC-Gearing) |
 | Staff Security Engineer Application Security | Security | 3 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/12) |
