@@ -773,7 +773,7 @@ Sometimes, we will want to let our users know that a small change will increment
 
 1. Open a feedback issue that provides context about the initial MVC ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/221284))
 1. Ensure the direction page articulate a longterm plan ([example](https://about.gitlab.com/direction/plan/#project-management))
-1. Announce the first MVC in a release post ([example](https://about.gitlab.com/releases/2020/07/22/gitlab-13-2-released/#assign-issues-to-iterations))
+1. Announce the MVC in a release post, link to the feedback issue, and link to the direction page ([example](https://about.gitlab.com/releases/2020/07/22/gitlab-13-2-released/#assign-issues-to-iterations))
 
 ##### Low level of shame
 {:.no_toc}
