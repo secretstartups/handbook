@@ -540,7 +540,7 @@ A number of alternative approaches were considered as a solution for this gearin
 * Doesn't require any title changes as part of a transition
 * Doesn't require any role changes as part of the transition
  
-Details of various options as well as additional detail on differences can be found in a [comparison sheet](https://docs.google.com/spreadsheets/d/17yKkJf2VihllVnD_nveDqitdt7KUCL-spD-WR4cxVHo/edit#gid=0), and in the [working group meeting notes](https://docs.google.com/document/d/1WJg306wfKhpdwAqMBDj7R_QuBUwGCmz11mvuxOXUHU8/edit#heading=h.g4xz6ruvxn73) (internal only)
+Details of various options as well as additional detail on differences can be found in a [comparison sheet](https://docs.google.com/spreadsheets/d/17yKkJf2VihllVnD_nveDqitdt7KUCL-spD-WR4cxVHo/edit#gid=0) (internal only), and in the [working group meeting notes](https://docs.google.com/document/d/1WJg306wfKhpdwAqMBDj7R_QuBUwGCmz11mvuxOXUHU8/edit#heading=h.g4xz6ruvxn73) (internal only)
 
 ### Drawbacks of this solution and mitigations
 
