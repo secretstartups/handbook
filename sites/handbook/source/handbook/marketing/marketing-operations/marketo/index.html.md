@@ -37,7 +37,7 @@ We do have a sandbox to work in for Marketo. The sandbox is used for training, c
 If you'd like access to the sandbox, please fill out an [AR](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions/).
 
 
-### Forms   
+## Forms   
 Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded forms. Marketing Operations is responsible for maintaining existing forms and creating any new forms. If you need a new form created, please open a [form creation issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request).
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
@@ -104,9 +104,9 @@ All of the standardization smart campaigns are contained in:
 - The following countries have common variations updated to their accepted values: United States, Bolivia, Canada, China, France, Germany, Hong Kong, India, Iran, Ireland, Macao, Myanmar, Netherlands, Russia, South Korea, Sweden, Switzerland, United Kingdom, Venezuela, Vietnam.
 
 
-### MQL Definition
-A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The "MQL score" defined below is comprised of various actions and/or profile data that are weighted with positive or negative point values.
-When a `Person Score` changes it will be inserted into the routing flow. Using LeanData every time a `Person Score` is updated, LeanData will run a check to see if the record needs to be processed through the flow.
+## MQL Definition
+A Marketing Qualified Lead is a lead that has reached a certain threshold, we have determined to be 100 points accumulated, based on demographic/firmographic and/or behavioral information. The [MQL Score](/handbook/marketing/marketing-operations/marketo/scoring-model) defined below is comprised of various actions and/or profile data that are weighted with positive or negative point values.
+When a `Person Score` changes it will be inserted into the routing flow. Using LeanData every time a `Person Score` is updated, [LeanData](/handbook/marketing/marketing-operations/leandata/#record-validation) will run a check to see if the record needs to be processed through the flow.
 
 ### Re-MQL
 
@@ -129,13 +129,12 @@ Follow the workflow mural:
 
 
 
-
 ### Scoring Model
 The MQL model is based on a 100 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL.
 
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
-The model below is updated as of 2021-01-18.
+The model below is updated as of 2021-02-09.
 
 Some leads are exluded from scoring if they:
 * Have a `@gitlab.com` email address
