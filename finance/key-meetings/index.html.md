@@ -60,14 +60,14 @@ Each month, one All-Direct will join the Key Rotation. This person should plan t
 
 A rotation includes 9 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings.
 
-Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the EBA of the CFO in the #key-meetings Slack channel. The EBA to the CFO will add participants to meetings.
+Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the [EBA of the CFO](handbook/eba/#executive-business-administrator-team) in the #key-meetings Slack channel. The EBA to the CFO will add participants to meetings.
 
 #### Key Rotation Schedule
 
 | Month | All-Direct |
 | ------ | ------ |
 | 2021-02 | AVAILABLE |
-| 2021-03 | AVAILABLE |
+| 2021-03 | [Michelle Hodges - VP WW Channels](https://about.gitlab.com/company/team/#mwhodges) |
 | 2021-04 | AVAILABLE |
 | 2021-05 | AVAILABLE |
 | 2021-06 | AVAILABLE |
