@@ -104,6 +104,13 @@ Below is an outlined example of how the field enablement team created a handbook
 1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
 1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
 
+### Building courses with Articulate360
+
+Articulate360 is a powerful course creation tool. Below are a set of best practices and tips for creating handbook first courses using Articulate360
+
+1. Our team has a GitLab branded template that can be used for course creation. The template has GitLab colored theme, buttons, and font. You can use this by clicking on the `Course Templat` > `Duplicate` > and then `rename`
+1. Use [iframes](/handbook/people-group/learning-and-development/interactive-learning/#using-iframes-to-display-the-GitLab-handbook) to display sections of the GitLab handbook in your course
+
 #### Using iframes to display the GitLab handbook
 
 This [training video](https://youtu.be/wlLKZz3vSAk
