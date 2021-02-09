@@ -917,6 +917,33 @@ Following your best judgement with the following:
 - For minor incidents that can be recovered from your intervention alone or in concert with the Release Post Manager, do so while record the diagnosis and the steps taken to resolve so that we can improve the process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
 - For major incidents that require immediate assistance from an SRE, developer on call, or other team members with increased access rights, create an issue and follow the [dev escalation procedure](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process). Record the diagnosis and the steps taken to resolve so that we can improve the process and our preparedness. Deposit this info in a new issue or as part of the current release post retrospective.
 
+#### Incident Response
+
+Release post content assembly on the 18th and release post deployment on the 22nd are time sensitive with multiple dependencies across various departments. GitLab team members often voluntarily go out of their way to assist with blockers found during these two time sensitive procedures, but it can be confusing as to who is doing what to resolve an active blocking incident. Some procedural detail to our response efforts is shown below.
+
+**Response and Resolution SLOs** Due to the time sensitive nature of both key Release Post actions, assembly and deployment, the initial response time must be very quick, within 15 minutes. Incident resolution should also be as quick, within 60 minutes or less, if possible.
+
+**The Role of the Technical Advisor** The introduction of the technical advisor role is meant to be a coordinating role responding to blockers that occur along the way. They may work alone or in tadem with other volunteers to resolve the blocker as they see fit. They are also responsible for clearing the blocker, assembly of others, delegating response tasks including engaging in dev escalation.
+
+**Ownership, Positive Control, and Intent** There should only be one owner of the incident at any given time. There must be clear understanding of who has control of actions to investigate and remedy the incident. Use positive exchange of control, that is pass control to another person who will now be in charge. The extreme example is from aviation where pilots exchange control in a manner like the following where you might hear "your airplane" to pass control followed by "my airplane" from the second pilot to accept control followed by the acknowledgement and release of control from the initiating pilot with "your airplane." This avoids multiple people working at cross purposes from each other. Pilots operating an airplane is an extreme example, but it shows how to use clear language in your efforts to resolve the incident as to who is doing what. Only one person should be have control at a time. Similarly, the person taking action should declare their intent, "I'm going to merge master into the 13.8 release post branch and resolve any conflicts."
+
+**Timeline**
+
+1. Release Post Manager is blocked. Initial attempts to unblock themself fails.
+1. Release Post Manager joins `#dev-escalation`; mentions the Technical Advisor for this release detailing the nature of the blocker and its severity.
+1. Technical Advisor responds to the previous message.
+1. Technical Advisor creates a dedicated public Slack channel for communication around the incident like `release-post-13.8-deploy-failure`. They share that channel with `#release-post` for others to follow along.
+1. Begin a Zoom call. Post the invitation to the zoom room in the newly created slack channel.
+1. Technical Advisor assumes control from the Release Post Manager.
+1. Investigation begins. Be as visible as possible, share your screen. Consider recording the Zoom session.
+1. Action taken.
+1. Blocker is resolved.
+1. Close Zoom.
+1. Collect screenshots, recordings, terminal history, comments in Slack, or other evidence on the issue.
+1. Open a new issue to document the incident, deposit history, and add suggestions for corrective action or prevention. Link issue to the current release post retrospective.
+
+See also: [Google SRE Ch. 14](https://sre.google/sre-book/managing-incidents/)
+
 ---
 
 ## Monthly release blog post sections
