@@ -81,8 +81,7 @@ Standard Option Grants are broken out by level for each division. If you have an
 
 If you are promoted, you are eligible to receive a new stock option grant for the
 difference between your old level and your new level based on the grant levels currently in effect.
-The vesting schedule for your new stock option grant will be based on the date
-of when you start your new position.
+The vesting schedule for your new stock option grant will align the date of your promotion.
 If you currently have more options than what your old level was eligible for
 (for example, if you joined early in the history of the company), you will still
 receive the difference between the two levels as an additional grant. Contact by email
