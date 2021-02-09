@@ -331,10 +331,6 @@ Our SLA workflow relies on end-users who submit tickets belonging to an organiza
 
 We have a Slack integration that notifies us if a ticket from a paying customer will breach in less than 2 hours.
 
-1.  GitLab.com / Self-managed - if a Premium, or Ultimate ticket will breach in less than 2 hours
-1.  GitLab.com - if a bronze (legacy) ticket will breach in less than 2 hours
-1.  Self-managed - if a starter (legacy) ticket will breach in less than 2 hours
-
 If you see an SLA notification in Slack, start a thread and consider this a _small emergency_. If you need help, draw the attention of other support engineers by tagging them, and work to move the ticket forward.
 
 If a customer's reply is the last one in the ticket, do not set it to any status silently (except for Solved), because the breach clock will continue to run and the ticket may breach silently. Instead, send a confirmation, greeting, or other message, while also changing the status.
