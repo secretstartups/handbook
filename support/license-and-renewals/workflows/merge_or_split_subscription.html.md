@@ -41,7 +41,7 @@ More context: [Internal Request #450](https://gitlab.com/gitlab-com/support/inte
 
 ## How to move the ticket forward
 
-To move the ticket forward, please check whether the new subscription was purchased through a new reseller. This can be done by:
+To move the ticket forward, please check whether the new subscription was purchased through a different resellers. This can be done by:
 
 1. [Searching for the subscriptions in Zuora](https://drive.google.com/file/d/1c7ChL7iCp9nYByBttX_RvWTrOxkVcDAn/view?t=2m09s)
 1. The reseller should be listed in the `Invoice Owner` field
