@@ -6,11 +6,7 @@ job: "Support Engineer"
 
 ## Daniel Diniz's README
 
-<<<<<<< HEAD
 **Daniel Diniz - Support Engineer (EMEA)**
-=======
-**Daniel Diniz - Senior Backend Engineer, Manage:Compliance**
->>>>>>> 44f4d046a3ae89d7fed09105b1126ed99d29e014
 
 Hey! My name is Daniel Diniz and this is the first interation on a personal README document.
 
