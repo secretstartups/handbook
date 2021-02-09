@@ -47,6 +47,32 @@ AMA meetings always start with an [agenda](https://docs.google.com/document/d/1-
 
 Whenever possible AMAs should be private or publicly [live streamed](/handbook/marketing/marketing-operations/youtube/#live-streaming). Please strive to remain [public by default](/handbook/values/#public-by-default) when hosting an AMA unless it is centered around a topic that is [not-public](/handbook/values/#not-public)
 
-### Reverse Ask Me Anything
+## Reverse Ask Me Anything 
 
-For details on hosting and scheduling a Reverse AMA, please visit the [Reverse AMA section](/handbook/people-group/women-in-sales-mentorship-pilot-program/#reverse-ask-me-anything) in the Handbook.
+The Reverse AMA format was launched in Sales with our [Black](https://about.gitlab.com/company/culture/inclusion/#definitions) team members. We wanted to start with this with Black team members to show support and to stand in solidarity, in response to domestic events in the US, and globally. One of our core [values](/handbook/values/) is DIB (Diversity, Inclusion and Belonging), and part of embracing that value means being better [allies](/handbook/communication/ally-resources/). These can be scheduled to facilitate meaningful conversations with any underrepresented group.
+
+**Benefits**
+* Improve efforts at driving inclusion and belonging at every level
+* Enhance open communication
+* Direct access to the leadership
+* Opportunity to share experiences and provide feedback
+* Improve Recruiting, Retention and Mobility of underrepresented groups
+* Continue to grow our great network of diverse talent
+
+**Goals**
+* To continue the momentum of conveying genuine empathy and solidarity for our underrepresented team members
+* To address areas of challenges and opportunities identified by underrepresented team members
+* To allow for open, honest communication within a specific format
+* To increase interaction between Sales Leadership and team members
+* To identify opportunities to implement specific DI&B initiatives with leadership support
+
+**Format**
+* A 50 minute closed Zoom call
+* Attendees: E-Group member and interested team members in the relevant department who identify as part of the underrepresented group
+* Questions asked by the E-Group member, answered by underrepresented group team members
+* Format facilitated by People Business Partners
+
+**Schedule**
+* Quarterly
+
+
