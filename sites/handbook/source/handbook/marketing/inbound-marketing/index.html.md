@@ -241,7 +241,7 @@ Meanings and usage
 
 #### Distribution Channel Labels
 These labels are to distinguish which distribution channel these issues are realted to 
-- `blog`, `marketing website`
+- `blog`, `about.gitlab.com`
 
 
 #### Additional Labels
