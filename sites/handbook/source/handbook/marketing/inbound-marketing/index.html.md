@@ -243,6 +243,8 @@ Meanings and usage
 These labels are to distinguish which distribution channel these issues are realted to 
 - `blog`, `about.gitlab.com`
 
+#### Projects
+- `mktg-website::design-system
 
 #### Additional Labels
 - `IM-Support`
