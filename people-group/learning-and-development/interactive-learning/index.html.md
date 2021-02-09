@@ -111,6 +111,10 @@ This [training video](https://youtu.be/wlLKZz3vSAk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wlLKZz3vSAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In the team Articulate360 license, there is a block template for iframes. You can access this template in the the `block templates` section and add your iframe code directly.
+
+![iframe-embed-template](/handbook/people-group/learning-and-development/interactive-learning/iframe-block.png)
+
 
 ##### iframe tag examples
 
