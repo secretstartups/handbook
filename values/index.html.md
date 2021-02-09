@@ -767,7 +767,13 @@ At GitLab, we rarely mark any content or proposals as drafts. Everything is alwa
 
 ##### Under construction
 {:.no_toc}
-As we get more users, they will ask for stability, especially in our UX. We should always optimize for the long term. This means that users will be inconvenienced in the short term, but current and future users will enjoy a better product in the end.
+As we get more users, they will ask for stability, especially in our UX. We should always optimize for the long term, which means that users could feel inconvenienced in the short term, but current and future users will enjoy a better product in the end. 
+
+Sometimes, we will want to let our users know that a small change will incrementally evolve into a more nuanced solution. When we want to articulate our plan (e.g., today it's a dropdown, but in the future, it will become much more), we can take the following steps:
+
+1. Open a feedback issue that provides context about the initial MVC ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/221284))
+1. Ensure the direction page articulate a longterm plan ([example](https://about.gitlab.com/direction/plan/#project-management))
+1. Announce the first MVC in a release post ([example](https://about.gitlab.com/releases/2020/07/22/gitlab-13-2-released/#assign-issues-to-iterations))
 
 ##### Low level of shame
 {:.no_toc}
