@@ -4,6 +4,7 @@ title: "Recognizing Alliance Sales Impact"
 description: "Process and tagging for Alliance Co-Sell deals."
 ---
 
+
 # Overview 
 
 Co-selling with Alliance partners can help GitLab expand it's sales reach and impact to mutual customer bases. There are various ways co-sell partners help GitLab's sales cycle and can be classified in a few categories: 
@@ -26,7 +27,7 @@ Read more [here](https://about.gitlab.com/handbook/sales/field-operations/channe
 1. ***Registered opportunity to Alliance partner*** : These are deals registered with Alliance partners (via public cloud's partner portal for example) that are actively in the co-sell pipeline. These deals do not have an outcome yet since they are not closed opportunities. 
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- : --- : --- : --- 
+--- | --- | --- | --- 
 None | None | Alliance Partner | None
 
 ## Assist Opportunities 
@@ -38,7 +39,7 @@ It should be noted that for each of the Alliance assist tagged opportunities, it
 1. **Alliance assisted, sold through cloud marketplace**: These are deals transacted through cloud marketplaces where GitLab sellers and Alliance sellers got on joint calls and/or collaborated to help land, expand, or up sell an **existing** GitLab opportunity. These deals have closed/won/lost status. 
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- : --- : --- : --- 
+--- | --- | --- | --- 
 Alliance Partner | Assisted | Alliance Partner | None
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKB)
@@ -46,7 +47,7 @@ Alliance Partner | Assisted | Alliance Partner | None
 2. **Alliance assisted, sold directly via GitLab**: These are deals sold directly through GitLab sales but where GitLab sellers and Alliance sellers got on joint calls and/or collaborated to help land, expand, or up sell an **existing** GitLab opportunity. These deals have closed/won/lost status.
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- : --- : --- : --- 
+--- | --- | --- | --- 
 None | None | Alliance Partner | None
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKG)
@@ -54,7 +55,7 @@ None | None | Alliance Partner | None
 3. **Alliance assisted, sold via reseller**: These are deals sold via a mutual channel reseller, but also where GitLab sellers and Alliance sellers got on joint calls and/or collaborated to help land, expand, or up sell an **existing** GitLab opportunity or a **new** GitLab opportunity previously registered by a channel partner. These deals have closed/won/lost status. ` DR Partner Engagement` field will be determined by the type of engagement with the channel partner. The only attribution for Alliance partner impact where a channel partner is involved and transacting will be determined by the `Influence Partner` field. 
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- : --- : --- : --- 
+--- | --- | --- | --- 
 VAR Partner | Partner Sourced or Partner Assist or Fulfillment | Alliance Partner | Re-sell
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKL)
@@ -65,7 +66,7 @@ VAR Partner | Partner Sourced or Partner Assist or Fulfillment | Alliance Partne
 1. **Limited Alliance partner assisted, sold through cloud marketplace**: Most of these types of deals will be inbound, possibly self service, where the customer is coming to GitLab sales directly to purchase via Cloud marketplaces. 
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- : --- : --- : --- 
+--- | --- | --- | --- 
 Alliance Partner | Fulfillment | Alliance Partner | None
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKQ)
@@ -77,7 +78,7 @@ Alliance Partner | Fulfillment | Alliance Partner | None
 1. **Alliance sourced, sold through cloud marketplace**: These are deals transacted through cloud marketplaces where the Alliance partner has registered and/or brought a new opportunity to GitLab sales teams. These deals have closed/won/lost status.
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- : --- : --- : --- 
+--- | --- | --- | --- 
 Alliance Partner | PIO | Alliance Partner | Referral
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKV)
@@ -85,7 +86,7 @@ Alliance Partner | PIO | Alliance Partner | Referral
 2. **Alliance sourced, sold directly via GitLab**: These are deals sold directly through GitLab where the Alliance partner has registered and/or brought a new opportunity to GitLab Sales teams. These deals have closed/won/lost status.
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- : --- : --- : --- 
+--- | --- | --- | --- 
 Alliance Partner | PIO | Alliance Partner | None
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKa)
@@ -101,19 +102,10 @@ This report is an example showing a summary of all public cloud marketplace deal
 Below is for a filter view of opportunities that have a stage of `closed/won` in SFDC. 
 
 Type of deal | DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- : --- : --- : --- : --- 
+--- | --- | --- | --- | --- 
 Assist 1 (MP) | Alliance Partner | Assisted | Alliance Partner | None
 Assist 2 | None | None | Alliance Partner | None
 Assist 3 | VAR Partner | PIO or Partner Assist or Fulfillment | Alliance Partner | Re-sell
 fulfillment (MP) | Alliance Partner | Fulfillment | Alliance Partner | None
 Sourced 1 (MP) | Alliance Partner | PIO | Alliance Partner | Referral
 Sourced 2 | Alliance Partner | PIO | Alliance Partner | None
-
-
-
-
-
-
-
-
-
