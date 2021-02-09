@@ -772,7 +772,7 @@ As we get more users, they will ask for stability, especially in our UX. We shou
 Educating users on the longer-term plan helps create a shared understanding of how a small change will incrementally grow into something more. For example, we could share how a dropdown will evolve into a much more nuanced solution in the future. We can take the following steps to articulate our plan:
 
 1. Open a feedback issue that provides context about the initial MVC ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/221284))
-1. Ensure the direction page articulates a long term plan ([example](https://about.gitlab.com/direction/plan/#project-management))
+1. Ensure the direction page articulates a long-term plan ([example](https://about.gitlab.com/direction/plan/#project-management))
 1. Announce the MVC in a release post, link to the feedback issue, and link to the direction page ([example](https://about.gitlab.com/releases/2020/07/22/gitlab-13-2-released/#assign-issues-to-iterations))
 
 ##### Low level of shame
