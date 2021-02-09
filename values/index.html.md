@@ -769,7 +769,7 @@ At GitLab, we rarely mark any content or proposals as drafts. Everything is alwa
 {:.no_toc}
 We should always optimize for the long term. However, users crave stability, especially in our UX. This means that users may feel inconvenienced in the short term, but current and future users will enjoy a better product in the end.
 
-Sometimes, we will want to let our users know that a small change will incrementally evolve into a more nuanced solution. When we want to articulate our plan (e.g., today it's a dropdown, but in the future, it will become much more), we can take the following steps:
+Educating users on the longer-term plan helps create a shared understanding of how a small change will incrementally grow into something more. For example, we could share how a dropdown will evolve into a much more nuanced solution in the future. We can take the following steps to articulate our plan:
 
 1. Open a feedback issue that provides context about the initial MVC ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/221284))
 1. Ensure the direction page articulate a longterm plan ([example](https://about.gitlab.com/direction/plan/#project-management))
