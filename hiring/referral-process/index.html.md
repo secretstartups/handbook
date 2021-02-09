@@ -39,8 +39,8 @@ A Referral is **not**:
 
 Other Referral clarifications:
 
-* *Contract* or *temporary* roles are **not** eligible for Referral Bonuses.
-    * However, if the *Contractor* is converted to a *Team Member* for the same/similar role, then the referring Team Member will receive a Referral Bonus per the [referral bonus guidelines](https://about.gitlab.com/handbook/incentives/#referral-bonuses) upon transitioning to the new employment status.
+* *Contract* or *temporary* roles, inlcuding *Internships*, are **not** eligible for Referral Bonuses.
+    * However, if the *Contractor* or *Intern* is converted to a *Team Member* for the same/similar role, then the referring Team Member will receive a Referral Bonus per the [referral bonus guidelines](https://about.gitlab.com/handbook/incentives/#referral-bonuses) upon transitioning to the new employment status.
 
 #### Referral Bonus Eligibility
 
