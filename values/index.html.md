@@ -767,7 +767,7 @@ At GitLab, we rarely mark any content or proposals as drafts. Everything is alwa
 
 ##### Under construction
 {:.no_toc}
-We should always optimize for the long term. However, users crave stability, especially in our UX. This means that users may feel inconvenienced in the short term, but current and future users will enjoy a better product in the end.
+As we get more users, they will ask for stability, especially in our UX. We should always optimize for the long term. This means that users will be inconvenienced in the short term, but current and future users will enjoy a better product in the end.
 
 Educating users on the longer-term plan helps create a shared understanding of how a small change will incrementally grow into something more. For example, we could share how a dropdown will evolve into a much more nuanced solution in the future. We can take the following steps to articulate our plan:
 
