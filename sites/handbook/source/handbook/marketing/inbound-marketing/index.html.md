@@ -209,34 +209,42 @@ Overarching Inbound Marketing Boards
 
 Meanings and usage
 
+#### Team Labels
 - `mktg-inbound`
-    - Denotes it could be part of the Inbound Marketing Teams scope.
+    - Means it is for the Inbound Marketing Team
     - Used to help pull in boards
     - Is not a label to denote the status of an issue
+    - [Team Labels within Inbound Marketing] `mktg-search`, `mktg-website`, `mktg-content`
+        - Denotes it could be part of a Inbound Marketing Group scope
+        - Is not a label to denote the status of an issue
+        - [Sub-team Labels] `content marketing`, `editorial`, `digital-production`, `UX-Design`, `Web-Dev`
+            - The sub-teams within Inbound Marketing Teams
+            - Is not a label to denote the status of an issue
+
+#### Status Labels            
 - `mktg-status::triage`
-    - Universal marketing label
     - Is used to denote the status of an issue as being reviewed to go into the working pipeline
     - Does not denote the timeline it will be worked on
 - `mktg-status::WIP`
-    - Universal marketing label
+   - Is used to donate that an issue has been assigned to a sprint and assignee and will be worked on
+- `mktg-status::plan` 
     - Is used to denote the status of an issue as having been reviewed for all details needed and will go into the working pipeline
     - Does not denote the timeline it will be worked on
 - `mktg-status::blocked`
-    - Universal marketing label
     - Is used to denote the status of an issue as not having enough information to proceed
     - Does not denote the timeline it will be worked on
     - This should ONLY be used in the Triage process or if an issue becomes so blocked it needs to be re-scheduled.
         - If an issue is blocked it goes back into the Triage process and is scheduled from there
 - `mktg-status::review`
-    - Universal marketing label
     - Is used to denote the status of an issue as in the peer-review process.
     - Does not denote the timeline it will be worked on
-- [Group Labels] `design`, `web-analytics`, `mktg-website`, `mktg-content`, `mktg-inbound`
-    - Denotes it could be part of a Inbound Marketing Group scope
-    - Is not a label to denote the status of an issue
-    - [Individual Team Labels] `content marketing`, `editorial`, `digital-production`, `Brand and Digital Design`
-        - Denotes it could be part of Inbound Marketing Group Team's scope
-        - Is not a label to denote the status of an issue
+
+#### Distribution Channel Labels
+These labels are to distinguish which distribution channel these issues are realted to 
+- `blog`, `marketing website`
+
+
+#### Additional Labels
 - `IM-Support`
     - Denotes if this is support provided to another team outside of Inbound Marketing
     - Will be used to help quickly view how many issues Inbound Marketing supported each year to provide as references for budget and resources requests.
@@ -244,6 +252,9 @@ Meanings and usage
     - Will be reviewed by InboundMarketing for potential future strategy
 - `IB-WEBAGENCY`
     - For the Digital Experience team to support at their 20% time allotment for internal agency work.
+
+
+
 
 ## Milestones
 
