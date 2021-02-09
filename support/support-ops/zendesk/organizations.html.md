@@ -32,6 +32,7 @@ determine such things as SLA, ARR, etc.
 | AM Project ID                | am_project_id | Text     | * |
 | Number of Seats              | seats_decimal | Decimal  | * |
 | Manual Support Upgrade       | manual_support_upgrade | Checkbox | True, False |
+| Region                       | org_region | Dropdown | APAC, EMEA, LATAM, NCSA, NORAM, AMER |
 
 ## How does SLA get determined for an organization?
 
@@ -45,7 +46,7 @@ This stems from the `GitLab Plan` field. It correlates as follows:
 | Starter/Basic                 | Standard SLA |
 | Premium                       | Priority SLA |
 | Ultimate                      | Priority SLA |
-| Custom/Expired/Hold/Community | Free tier, no SLA |
+| Custom/Expired/Hold/Community/Prospect SaaS/Prospect SM | Free tier, no SLA |
 
 When multiple of these tags appear on the same ticket, it will apply the SLA
 policy that comes first (order wise). See [Zendesk SLAs](slas.html) for more
