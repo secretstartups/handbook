@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Contribute to GitLab Learn
+title: Become a GitLab Learning Evangelist
+description: "GitLab Team Members can become learning content contributors, called Learning Evangelists, in the GitLab Learn platform."
 ---
 
 ## On this page
