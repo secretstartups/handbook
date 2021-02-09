@@ -251,7 +251,7 @@ Recognition can be given in a variety of forums:
 - Share an update of the team member(s) recognition during the next team meeting
 - Highlight the recognition of the team members during a group conversation with the broader organization 
 - Showcase the recognition during an e-group meeting to executives
-- Consider a [discretionary bonus per team member] (/handbook/incentives/#discretionary-bonuses-per-team-member/) as a form of superior recognition 
+- Consider a [discretionary bonus per team member](/handbook/incentives/#discretionary-bonuses-per-team-member/) as a form of superior recognition 
 - Managers can also recognize team members during 1-1 meetings
 
 ### Beware Of Saying "Thank You" Too Much
