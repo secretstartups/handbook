@@ -14,6 +14,15 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 * Swetha Kashyap, Sales Commissions Manager
 * Rachel Davies, Sales Commissions Analyst
 
+## **What's New?**
+
+Exciting news for FY22!  We are migrating our exisitng commission system to Xactly Incent!  More information to follow, however, some key features are shown below.
+
+![Xactly1](/handbook/sales/commissions/picturea.png)
+
+![Xactly2](/handbook/sales/commissions/pictureb.png)
+
+
 ## **How to Communicate with Us**
 
 There are two ways to connect with us.
