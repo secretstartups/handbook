@@ -450,6 +450,10 @@ Senior engineers typically receive fewer trivial comments on their merge request
 
 We strive to set the clearest possible expectations with regard to performance and [promotions](/handbook/people-group/promotions-transfers/). Nevertheless, some aspects are qualitative. Examples of attributes that are hard to quantify are communication skills, mentorship ability, accountability, and positive contributions to company culture and the sense of psychological safety on teams. For these attributes we primarily rely on the experience of our managers and the [360 feedback](/handbook/people-group/360-feedback/) process (especially peer reviews). It's our belief that while a manager provides feedback and opportunities for improvement or development, that it's actually the team that elevates individuals.
 
+### Engineering Promotion Rate
+
+People Operations tracks the [Promotion Rate](/handbook/people-group/people-group-metrics/#promotion-rate) for the company overall and each division separately. The target is 12% annually. This metric is treated as an organizational health indicator for the quality of decisioning making our leaders are employing, and for the fairness in our process. In FY21 Engineering was exactly on its target of 12%. So we would not currently consider blocking any individual promotion based on the overall rate. If that were to change, and Engineering became an outlier (20%?) we would reevaluate. Here is the company-wide [process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
+
 #### Transfer Options
 
 The following table outlines some of the possible lateral transfer options at any level of the role, but don't feel limited by this table. Compa Ratio might differ per individual to determine leveling for each of the positions listed.
