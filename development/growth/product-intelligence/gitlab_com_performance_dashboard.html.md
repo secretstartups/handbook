@@ -106,7 +106,8 @@ This can be used to determine:
 More information on snowplow metrics:
 * [Snowplow performance timing fields](https://github.com/snowplow/snowplow-web-data-model/blob/master/README.md#3114-performance-timing-fields)
 * [Measuring page load times](https://discourse.snowplowanalytics.com/t/measuring-page-load-times-with-the-performance-timing-context-tutorial/100)
-
+* [Snowplow implementation guide](https://docs.gitlab.com/ee/development/snowplow.html)
+* [Snowplow infrastructure](https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library/snowplow)
 
 ## How is this different than LCP?
 
