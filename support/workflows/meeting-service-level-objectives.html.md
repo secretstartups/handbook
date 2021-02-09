@@ -107,7 +107,7 @@ SLA Hawks drive achievement via our KPIs for [Service Level Agreement KPI](/hand
    C -->|Yes| D[Send <br> reply] --> H
    C -->|No| E[Ask for help in Slack <br> and link the ticket]
    E -->|Help received| F[Send <br> reply] --> H
-   E -->|No help received| G[Mention your manager in Slack <br> on the ticket thread] --> H[Go to the next ticket <br> - if no imminent breaches - <br> go to 'Starter and Free' view] --> B
+   E -->|No help received| G[Mention your manager in Slack <br> on the ticket thread] --> H[Go to the next ticket <br> - if no imminent breaches - <br> go to 'Free' view] --> B
    ```
 
 ### Team Responsibilities for the SLA Hawk
