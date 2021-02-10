@@ -183,7 +183,9 @@ These are boosters to scores that occur when a special action takes place above 
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |E-Book Booster|Lead is created with `Initial Source` of `Gated Content - Ebook`| +15| {{my.Booster}}|Trigger|Once|
 |Demo Webcast Booster|Attends (or On-Demand) demo webcast (not incl. demo form fills)| +15| {{my.Booster}}|Trigger|Everytime|
-|PathFactory Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|Everytime|
+|PF Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|Everytime|
+|PF Engagement Booster 1|Engagement Time >  2 minutes < 4 minutes|+10|{{my.Content Boost 1}}|Trigger|Everytime|
+|PF Engagement Booster 2|Engagement Time > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|Everytime|
 |LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
 
