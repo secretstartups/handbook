@@ -41,7 +41,7 @@ Task/Item - Key Contributors
 * Opening remarks, vF - IR/CEO/CFO/CLO
 * Q&A document, vF and simulated Q&A first session - IR/CEO/CFO/CLO
 * Audit Committee approval: earnings release, 10-Q/K - PAO/Audit Committee
-* Disclosure Committee review all docs and address open comments/issues - [Disclosure Committee](/handbook/internal-audit/sarbanes-oxley/#disclosure-committee-charter)
+* Disclosure Committee review all docs and address open comments/issues - Disclosure Committee
 
 ### 3 Days Prior	
 * Lock documents: stockholder letter, opening remarks, and earnings release	
