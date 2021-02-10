@@ -614,7 +614,7 @@ Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern 
 
 ### Meeting Cleanup Day
 
-On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](/handbook/values/#efficiency) as team members stop attending low value meetings and reassess how to make contiuining meetings more productive. Team members should be empowered to:
+On February 14, or the Tuesday after if this day falls over the weekend or on Monday, we have an annual calendar cleanup day. This is day when all team members are encouraged to look at their calendars and reassess the value and frequency of recurring meetings. The goals are to increase team member [efficiency](/handbook/values/#efficiency) as team members stop attending low value meetings and reassess how to make continuing meetings more productive. Team members should be empowered to:
 
 1. Cancel meetings or change the frequency if they feel that the current cadence does not add sufficient value
 1. Remove themselves as meeting attendees if they don't feel that they are contributing or that participation supports business results
