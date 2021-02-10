@@ -31,6 +31,8 @@ At a minimum, information about the items/products purchased and the total purch
 <summary>Instructions for redacting information</summary>
 The best way to capture only the necessary receipt information is to take a screenshot of your receipt that includes only the items purchased and total amount. On your Mac, you can press the <b>Command + Shift + 4</b> keys, which will turn the mouse pointer into a crosshair. Click and drag with the crosshair to take a screenshot. The screenshot is automatically saved to your desktop and can be uploaded to your expense report.
 
+Alternatively, the Preview application built in to macOS offers a redaction tool that is hidden away in the Markup toolbar when viewing a PDF. When used, this will permanently delete any content marked for redaction when the PDF is saved allowing for it to then be securely uploaded to your expense report.
+
 </details>
 
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
