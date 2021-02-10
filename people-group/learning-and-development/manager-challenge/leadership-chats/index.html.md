@@ -102,7 +102,7 @@ The following steps are outlined for the logistics purposes for the L&D team to 
 | Month 2 Meetings | This is a recurring meeting in the second month of every quarter on the third Tuesday without a host |
 | Month 3 Meetings | This is a recurring meeting in the third month of every quarter on the third Thursday without a host |
 
-#### Agenda
+#### Agenda and Issue Board Maintence
 
 The meeting agenda can be found in the [L&D Google Drive](https://docs.google.com/document/d/1Hq9CykJn3EvYI5XblntORSIaheCdmyqYsqiHdrlHbHE/edit). Before each session, the L&D team should:
 
@@ -110,8 +110,4 @@ The meeting agenda can be found in the [L&D Google Drive](https://docs.google.co
 1. Briefly review the notes from the following session. If any notes correlate to a current topic on the issue board, move that issue to the `discussed-topics` list.
 1. Review contributed ideas to the [issue board](https://gitlab.com/gitlab-com/people-group/leaders-leancoffee-topics/-/boards/965643) in the `new-topics` list. Pull 3-5 topics for discussion and add them to the top of the agenda. Link the corresponding issues from the issue board to the agenda.
 
-
-#### Issue Board
-
-#### L&D team hosted sessions
 
