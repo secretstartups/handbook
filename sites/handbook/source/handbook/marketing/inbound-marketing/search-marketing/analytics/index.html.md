@@ -35,7 +35,43 @@ When we connect data from Google Sheets everyone on the DMP team needs to able t
 - [Just Commit dashboard](https://datastudio.google.com/reporting/1dbt-3WI6KzySYrnolIUfCufvvtba20f9/page/kWdQ) — Tracks progress of Just Commit integrated campaign.
 - [Job pages dashboard](https://datastudio.google.com/reporting/1w6TwUeGjkQpPZz4jvp9Hye8vdGP6MYel/page/JcPY) — Provides context around job page interactions.
 - [Security releases dashboard](https://datastudio.google.com/reporting/1bP748BOhYmgWRcfeoRiSCOHz7q4NUMkV/page/l7vj) — Website analytics data for security release blog posts.
-- [about.gitlab.com CrUX dashboard](https://datastudio.google.com/reporting/1f-akzELoGzJRdBFPgMTzgHPrSOshUgki/page/cJUR) — *Public* See [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report/) for definition of report dimensions. This dashboard shows CrUX data for about.gitlab.com, assembled with PageSpeed Insights and Public Google BigQuery.  
+- [about.gitlab.com CrUX dashboard](https://datastudio.google.com/reporting/1f-akzELoGzJRdBFPgMTzgHPrSOshUgki/page/cJUR) — *Public* See [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report/) for definition of report dimensions. This dashboard shows CrUX data for about.gitlab.com, assembled with PageSpeed Insights and Public Google BigQuery.
+
+## Google Analytics flows
+
+We use events to create flows to understand how people interact with `about.gitlab.com`. The simplest flows are built-in to Google Analytics. They answer questions like
+
+- What page did someone visit? (Page dimension)
+- How did they find that URL? (Source/Medium)
+- How long were they on that page? (Average time on page)
+- Did they enter and exit the site without visting other pages? (% Exit)
+- Did they leave the site from this page? (Bounce rate)
+
+To create a deeper understanding we also employ custom events. 
+
+In the Event Category `navigation` you'll find events sorted by location in action and page with their label. This helps us identify what nav elements our visitors find most useful. A sample of our the post popular nav event you'll find in the `Behavior > Events > Top Events` section of GA is people clicking on sign in. Those events have the following values.
+
+`Event category = navigation`
+`Event Action = main navigation header`
+`Event Label = https://gitlab.com/users/sign_in`
+
+To understand what offers people find compelling we use CTA events to see when people click on buttons to follow through from a page. We're looking to see what resources, webcasts, trial, or other offers lead people to take action.  A sample of a popular CTA event would match these values in `Behavior > Events > Top Events in Google Analytics.
+
+`Event category = CTA`
+`Event action = button`
+`Event label = https://about.gitlab.com/`
+
+To add further context, because lots of people visit our homepage, we can add a secondary dimension of `Click URL` or `Click text` to see what people clicked on. `Try GitLab for FREE` is the most popular click text, right from the CTA in our hero.
+
+Finally, to help us measure conversion we use events as well. Every form on about.gitlab.com falls into one of several buckets, from resources to webcasts to trials. Trials are a little special right now because we don't have insight to SaaS trial activity, so we measure the last click we can see from `/free-trial/` with the `saas-trial-clicks` label. A popular conversion event has the following values.
+
+`Event category = forms`
+`Event action = submit`
+`Event label = resources`
+
+You can add a secondary dimension to the label here as well to get additional context around which pages drive the most resource conversions. Add `Page` and you'll see which URL drove form conversions. 
+
+We also use these events to fire goal conversions in Google Analytics. Goals are not always available for analysis in every GA report, so we use as a reporting mechanism for our paid demand gen activities with PMG. We can assemble detailed reports on pageviews, CTA clicks, and form conversions in dataStudio.
 
 ### GitLab Google Tag Manager system
 
