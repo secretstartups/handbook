@@ -329,10 +329,7 @@ When using Slack to work with others or communicate internally regarding a suppo
 
 Our SLA workflow relies on end-users who submit tickets belonging to an organization and that organization having a GitLab Plan. Organization information is automatically added to Zendesk via a Salesforce Integration. We sync all records with Account Type equal to `Customer` from Salesforce to Zendesk. The information we get from Salesforce includes but is not limited to: Account Owner, Technical Account Manager, GitLab Plan and Salesforce ID. Organizations should never be created manually in Zendesk as that can cause our sync to be ineffective.  If you think an Account in Salesforce doesn't have an equivalent Organization in Zendesk, please let the [Support Operations Specialist](/handbook/support/support-ops/#introduction-to-support-operations-team-support-ops) know so a manual sync can be run.
 
-We have a Slack integration that notifies us of impending breaches:
-
-1.  Self-managed - if a Starter, Premium, or Ultimate ticket will breach in less than 2 hours
-1.  GitLab.com - if a Bronze, Silver, or Gold ticket will breach in less than 2 hours
+We have a Slack integration that notifies us if a ticket from a paying customer will breach in less than 2 hours.
 
 If you see an SLA notification in Slack, start a thread and consider this a _small emergency_. If you need help, draw the attention of other support engineers by tagging them, and work to move the ticket forward.
 
