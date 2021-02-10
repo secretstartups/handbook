@@ -139,7 +139,60 @@ engineering team may ship smaller improvements independently of Manage's direct 
 and - like a contribution coming from the wider community - ultimately own the final result.
 
 ### Working with UX counterparts
-In progress - streamlin and move content from https://about.gitlab.com/handbook/engineering/ux/stage-group-ux-strategy/growth/
+#### How UX Works
+We follow the [Product Designer workflows](/handbook/engineering/ux/ux-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [UX section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessy measure the impact of our design changes following the [experimentation workflow](https://about.gitlab.com/handbook/engineering/development/growth/#running-experiments). In addition:
+
+- we have issue boards so we can see what everyone is up to.
+    - [by group](https://gitlab.com/groups/gitlab-org/-/boards/1334665?&label_name%5B%5D=UX&label_name%5B%5D=devops%3A%3Agrowth)
+    - [by workflow](https://gitlab.com/groups/gitlab-org/-/boards/1346572)
+- we **label** our issues with `UX`, `devops::growth` and `group::`.
+- we use the [workflow labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow%3A%3A) for regular issues and [experiment workflow labels](/handbook/engineering/development/growth/#experiment-workflow-labels) for experiment issues.
+- we use **milestones** to aid in planning and prioritizing the four growth groups of Acquisition, Conversion, Expansion and Retention.
+    - PMs provide an [ICE score for experiments](https://docs.google.com/spreadsheets/d/1yvLW0qM0FpvcBzvtnyFrH6O5kAlV1TEFn0TB8KM-Y1s/edit#gid=0) and by using [priority labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) for other issues.
+    - The Product Designer applies the milestone in which they plan to deliver the work (1-2 milestones in advance, or backlog for items that are several months out. For example, if an issue is not doable for a designer in the current milestone, they can add the next milestone to the issue, which will communicate to the PM when the work will be delivered.
+    - If the PM has any concern about the planned milestone, they will discuss trade-offs with the Product Designer and other Growth PMs.
+- we use [UX issue weights](https://about.gitlab.com/handbook/engineering/ux/ux-designer/#ux-issue-weights) in order to better estimate capacity, realistically break down our work, and give PMs a little insight into how much work we can take on in a milestone.
+    - Label the issue for UX work with `UX` and assess the issue weight. Issues larger than an **8** should be broken down further.
+    - When the UX work is ready to be transitioned into Engineering, apply the workflow lable `workflow::planning breakdown`.
+    - The Engineering team can create a new issue or issues with the broken down work, and apply issue weights. These issues should be labeled `Engineering`.
+    - Label issues with `UX` or `Engineering` but not both. This will make sure there is no confusion as to what the weight is for.
+
+#### UX Definition of Done (DoD)
+
+Together with the Product Manager, the Product Designer applies the DoD to epics in order to better break down design work and give counterparts better insight into which steps in the design workflow need to be completed before the MVC can move to the development phase.
+
+In addition to the [Validation Phase Outcomes](https://about.gitlab.com/handbook/product-development-flow/#validation-goals--outcomes) listed in the Product Development Flow, we also make sure that:
+
+- For an experiment, experiment issues have been created with a hypothesis and experiment plan, and experiment labels have been applied
+- Cross-team dependencies have been identified and those teams notified and their feedback received
+- Prototypes or mocks for the selected solution have been completed and and it is clear through the documentation and content of issues that they are Ready for Development
+- Previous versions and discussions of the solution(s) are labeled as 'Draft', and should not appear in the Epic description
+- If changes involve copy, ~"Technical Writing" and ~"UI text" labels have been added
+- Design spec has been added to the designs. Try to link to relevant components in gitlab-ui
+- For design patterns that aren't in Pajamas (done sparingly), detailed implementation annotations are included engineering has reviewed 
+- Follow up issues have been created in the design system project for any new design patterns or documentation updates 
+- UX issues are closed and the SSOT (epic) is updated with a link to the completed design, along with design rationale for key decisions.
+- The MVC engineering issue has been updated and labeled ~"workflow::planning breakdown"
+
+#### Visual Reviews of MRs
+
+The engineering team applies the `UX` label to any MR that introduces a visual, interaction or flow change. These MRs can be related to new issues, bugs, followups, or any type of MR. If the engineer isn't sure whether the MR needs UX, they should consult the designer who worked on the related issue, and/or the designer assigned to that stage group, or the UX manager.
+
+Visual reviews are required for any MR with the `UX` label. When the MR is in `workflow::In review`, the engineer assigns the MR to the designer for a visual review. This can happen in parallel with the maintainer review, but designers should prioritize these reviews to complete them as quickly as possible.
+
+There are times when it isn't possible or practical for a designer to complete their visual review via Review Apps or GDK. At these times the designer and engineer should coordinate a demo.
+
+## UX Themes and Labels
+
+We use labels to track UX improvements across a few themes. This allows us to track our work more holistically against big areas we've identified for UX improvement.
+
+
+For now, these themes/labels are:
+- [Easy to Trial GitLab](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=UX+Team%3A++Easy+to+Trial+GitLab+Theme)
+- [Feature Discoverability](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=UX+Team%3A++Feature+Discoverability+Theme)
+- [Onboarding New Users](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=UX+Team%3A+Easy+Onboarding+Theme)
+- [Easy Upgrade Flows](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=UX+Team%3A+Easy+Upgrades+Theme)
+
 
 ### Collaboration process with other Product teams
  
@@ -157,29 +210,19 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
    * Form a plan how the 2 teams can keep each other updated async, for example, ping the PMs on the relevant issues async or sync meetings etc.
    * Ideally, establish understanding of both teams' KPIs and objectives 
 
-3. Growth will post regular updates on what we are working on, what has been shipped, what's up & next, and the results & learnings from analyzed experiments to channels such as key meetings, GC, and potentially a monthly summary video.
+1. Growth will post regular updates on what we are working on, what has been shipped, what's up & next, and the results & learnings from analyzed experiments to channels such as key meetings, GC, and potentially a monthly summary video.
 
-4. Most growth experiments will be focused on UX/copy flow changes initially, and these will follow the typical GitLab code review process.
+1. Most growth experiments will be focused on UX/copy flow changes initially, and these will follow the typical GitLab code review process.
 
-5. We don't expect to have many new "features" developed from growth experiments, but in the rare case that this happens or if we feel like the UX flow we developed needs to have a permanent owner, the Growth team will work to identify an appropriate product owner, and hand it off to the owner following the typical community contribution process.
+1. We don't expect to have many new "features" developed from growth experiments, but in the rare case that this happens or if we feel like the UX flow we developed needs to have a permanent owner, the Growth team will work to identify an appropriate product owner, and hand it off to the owner following the typical community contribution process.
 
+1. For UX Collaboration, Product Designers will do the following
+    * The Growth Product Designer will mention the stage group Product Designer when starting work on a design issue for awareness and to gather background information such as existing constraints, usability problems and existing research. (Growth PMs will communicate in a similar way to Stage PMs)
+    * The Growth Product Designer will add the stage group Product Designer to design reviews to get feedback and ensure consistency. Design reviews can be sync or async, for example:
+        * Scheduling a recurring monthly sync call.
+        * Creating a document for async catching up ([template](https://docs.google.com/document/d/1r83O5AAo_o46ics-BF6NV_eIr1yR7KkKCarfc8kbFgM/edit?usp=sharing)) and a calendar event to remind everyone involved to share what they’re working on. 
+    * UX Researchers should share research results with stage groups whenever that research is relevant cross-stage.
 
-#### Proposed Growth-Feature Product Owner collaboration process
-
-1. Growth identifies a focus area that may potentially touch the areas owned by another product team, for example, growth will be focusing on new user adoption of Create & Verify features starting in FY21 Q4
-
-1. Growth reaches out to have a kickoff conversation with the product team (ideally including PM, EM, UX). The goal of the kickoff is to:
-
-* Inform the Product feature owner that growth is planning to experiment in this area;
-* Share growth's high level plans and ideas to avoid conflicting roadmap and duplicate efforts;
-* Form a plan how the 2 teams can keep each other updated async, for example, ping the PMs on the relevant issues async or sync meetings etc.
-* Ideally, establish understanding of both teams' KPIs and objectives 
-
-3. Growth will post regular updates on what we are working on, what have been shipped, what's up & next, results & learnings from analyzed experiments via channels such as key meetings, GC and potentially a monthly summary video
-
-4. Most growth experiments will be focused on UX/copy flow changes initially, and these will follow they typical GitLab code review process
-
-5. We don't expect to have many new "features" developed from growth experiments, but in rare case if this happens, or we feel the UX flow we developed need to have a permanent owner, we will hand it off to the relevant product owner, following the typical community contribution process.
 
 
 ### Growth RADCIE and DRIs
