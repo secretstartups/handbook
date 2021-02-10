@@ -136,7 +136,7 @@ Our goal is to deliver a release every 2 weeks. Our release day is always a Wedn
 
 ### Sprint Cycle
 
-For FY22 Qq we have one two-week sprint cycle.
+For FY22 Q1 we have one two-week sprint cycle.
 
 <figure class="video_container">
     <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=Y185Z2FiaTg1cmYxMTdnOGhhNDhya2tmbzUxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y19pcnFkNzNwNnA0YnJ1a2prOXUyZjF0NGNxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23F4511E&amp;color=%23B39DDB&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=1" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -156,7 +156,7 @@ This is the template we use for [Sprint Planning](https://docs.google.com/docume
     <iframe src="https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit"></iframe>
 </figure>
 
-TODO: Should we include a playlist of the PLANNING videos here?
+TODO: Should we include a playlist of the planning videos here?
 
 ### Sprint Releases
 
@@ -173,8 +173,7 @@ This is the template we use for [Sprint Retros](https://docs.google.com/document
     <iframe src="https://docs.google.com/document/d/1KSds3hjnJ250WWWZ9_uNpU4RYQA82mF3ylAcpsf7fGE/edit"></iframe>
 </figure>
 
-TODO: will we have retro videos to post here as well?
-
+TODO: should we include a playlist of the retro videso here?
 ## Contact Us
 
 ### Slack Group
