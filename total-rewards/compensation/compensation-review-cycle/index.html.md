@@ -22,7 +22,7 @@ If you have any feedback or questions about the compensation review cycle, pleas
 GitLab goes through 2 compensation reviews:
 
 1. **Annual Compensation Review** - Happens in the fourth quarter of each year. This is when Compensation Calculator inputs are reviewed and when majority of compensation is reviewed for team members. Any changes will be processed with an effective date of February 1st.
-1. **Targeted Mid-Year Increase Review** - For team members hired in November to January. The process starts in August with an effective date of September 1st.
+1. **Targeted Mid-Year Increase Review (previously called "catch-up" review)** - For team members hired in November to January. The process starts in August with an effective date of September 1st.
 
 ## Annual Compensation Review
 
@@ -283,7 +283,16 @@ Recommendations from Total Rewards for discretionary increases based on performa
 
 Do not expect that the final discretionary increases will fall into these ranges, as performance is only one factor out of many that goes into compensation adjustments.
 
-Managers should take into account any increases the team member received in the last fiscal year (for example, due to promotion, transfer, catch-up compensation review, etc.) or if the team member was recently hired and already aligned to market/performance rates. After a manager determines the performance increase percent, he or she should be able to clearly communicate to the team member how it was derived.
+When determining an increase, managers should account for increases in the current fiscal year,
+due to factors such as:
+* Promotion.
+* Transfer.
+* Targeted mid-year increase review.
+* Recent hire who is already aligned to market/performance rates.
+* Anything else that has already increased salary during the current fiscal year.
+
+After a manager determines the performance increase (in percentages), that manager should be able
+to clearly communicate to the team member how it was derived.
 
 Increases are not capped at 10%. If a manager would like to suggest an increase higher than the guidelines, they will want to add a justification for each indirect manager to review and approve.
 
@@ -403,7 +412,7 @@ As Person B's manager, Person B is one of my top performers and I want to compen
 
 ### Iterations to Compaas
 
-We have now completed two compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team during [Annual Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/80) and [Catch-up Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173), we are working to have the following iterations to our process in Compaas. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
+We have now completed two compensation reviewed utilizing Compaas. Based on some awesome [Annual Compensation Review feedback](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/80) and [Catch-up Compensation Review feedback](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173) from our GitLab team, we are working to have the following iterations to our process in Compaas. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
 
 The following iterations are expected to be live for FY22 Annual Compensation Review:
 * Implement Proxy Access for People Business Partners. People Business Partner currently have access to a report, but the goal is to have this access expanded to admin access for their parts of the organization.
@@ -459,7 +468,7 @@ For Fiscal Year 2022, the promotion and annual compensation review budget is sep
   * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level.
 1. Relocation Budget
   * Relocations are not considered in the budget. Theoretically throughout the year, there would be a net zero from those moving to higher-cost and lower-cost regions.
-1. Budget Rollovers: The budget from annual compensation review can rollover into the catch up compensation review or the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset.
+1. Budget Rollovers: The budget from annual compensation review can rollover into the targeted mid-year increase review or the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset.
 1. Budgets _cannot_ be transferred to a different division.
 
 **Calculating Budget Actuals**
