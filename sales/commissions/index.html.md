@@ -18,7 +18,7 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 
 Exciting news for FY22!  We are migrating our exisitng commission system to Xactly Incent!  More information to follow, however, some key features are shown below.
 
-#### **Key Benefits of Xactly Incent
+#### Key Benefits of Xactly Incent
 
 * Refreshes multiple times per day for real-time estimated commission payout visibility, resulting in fewer adjustments after payroll.
 * Visibility into payout estimates on open opportunities with Incentive Estimator feature.
