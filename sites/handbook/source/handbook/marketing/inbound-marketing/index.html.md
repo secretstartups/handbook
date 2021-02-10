@@ -61,8 +61,8 @@ Inbound Marketing is responsible for:
 
 ### Deliverables
 
-[Q1FY22 OKRs](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/227)
-
+- [Q1FY22 OKRs](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/227)
+- [CANDIDATES Q2FY22](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/226)
 ## Teams
 
 Inbound Marketing is comprised of these Marketing Teams:
@@ -280,38 +280,42 @@ Meanings and usage
 This is how we use Epics to organize our projects. We aim to include the highest level information at the top level and specific information in lower-level epics. This is to
 keep a SSoT and avoid duplicative placement of information that would need to be updated in multiple places
 
-- **Top Level Epic**
-    - Quarterly OKRs
-    - Links to the yearly strategy that contains themes
-- **Second Tier Epic**
-    - Stores the team or channel strategy/improvements broken into phases
-    - Includes
-        - Current state
-        - Stakeholders
-        - Metrics - Baseline and Target
-        - Desired state - Key audience + Intent and Key company goals
-        - Improvement Roadmap - broken out by quarter if it will cross multiple
-        - Phases - per quarter and includes:
-            - The Problem
-            - The Solution
-            - Why this Effort
-- **Third Tier Epics**
-    - Epic per phase - one epic per phase
-    - Contains:
-    - Scope of project
-    - Roles & Responsibilities Chart if different than the parent epic
-    - Relevant Documents
-    - High-level epic production only - All production for individual issues should be placed in those issues to avoid redundancy
-- **Fourth Tier Epics**
-    - MVCs for project - one epic per MVC
-    - Contains:
-        - Scope of MVC
-        - Relevant Documents
-        - High-level epic production only - All production for individual issues should be placed in those issues to avoid redundanc
-- **Fifth Tier Epics**
-    - Production issues
+* **Top Level Epic**
+  * Quarterly OKRs
+     * [OKR structure iteration](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/914)
+  * Links to the yearly strategy that contains themes
+* **Second Tier Epic**
+  * Stores the team or channel strategy/improvements broken into phases
+  * Includes
+    * Current state
+    * Stakeholders
+    * Metrics - Baseline and Target
+    * Desired state - Key audience + Intent and Key company goals
+    * Improvement Roadmap - broken out by quarter if it will cross multiple
+    * Phases - per quarter and includes: 
+      *   The Problem
+      *   The Solution 
+      *  Why this Effort
+* **Third Tier Epics**
+  * Epic per phase - one epic per phase
+  * Contains:
+   * Scope of project
+   * Roles & Responsibilities Chart if different than the parent epic
+   * Relevant Documents
+   * High-level epic production only - All production for individual issues should be placed in those issues to avoid redundancy 
+* **Fourth Tier Epics**
+  * MVCs for project - one epic per MVC  
+  * Contains: 
+    * Scope of MVC
+    * Relevant Documents
+    * High-level epic production only - All production for individual issues should be placed in those issues to avoid redundanc
+* **Fifth Tier Epics**
+  * Production issues 
+  
 
-## Issues
+
+
+## Issues 
 
 ### Issue Types
 
@@ -437,7 +441,13 @@ In an effort to make async communication and collaboration as effective as possi
 - [Digital Experience Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba)
 - [Global Content Updates](https://www.youtube.com/playlist?list=PL05JrBw4t0KrzoCLxdlF5eJjh0JDgn4Qs)
 
-# Vendor Management
+# Budget
+
+## Budget Management 
+- Allocadia is our SSoT for the budget
+
+
+# Vendor Management 
 
 ### Vendor recruitment
 
