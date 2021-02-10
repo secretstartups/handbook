@@ -9,6 +9,18 @@ title: Secure QA Process
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Everything starts with a Merge Request
+
+We expect and require all contributions to our products to go a merge request with a formal review. As such, we follow the [Merge Request workflow](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html) and [code review guidelines](https://docs.gitlab.com/ee/development/code_review.html) articulated in GitLab's developer documentation. We would, however, like to highlight a few items from these documents and add a few additional considerations for reviewers and authors.
+
+### Additional considerations for Merge Request reviewers
+
+* The best way to unblock a peer or community member is to [provide feedback in a timely manner](https://docs.gitlab.com/ee/development/code_review.html#review-turnaround-time). If you are at capacity and cannot fascilitate a review in the SLO to which we aspire, please let folks know in the merge request so another reviewer may be found.
+
+### Additional considerations for Merge Request authors
+
+* Being a globally distributed organization can, and frequently does, add latency to back-and-forth communication between folks. [Don't take it personally](https://about.gitlab.com/handbook/values/#assume-positive-intent) if it's taking longer than you expected to get feedback on your changes.
+
 ## Secure QA Process
 
 The secure analyzers verify merge requests by running a new commit against downstream test projects for their supported languages/frameworks (i.e. the [`gemnasium` analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium) of `Dependency Scanning` will trigger tests against `php`, `go`, and [several other](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium/-/blob/v2.21.0/.gitlab-ci.yml#L35-89) test projects). The verification is done by comparing the generated report output against an expected report committed to the analyzer's repository. If analyzer behavior has changed, then the pipeline will fail because the contents of the expected and generated reports will no longer match.
