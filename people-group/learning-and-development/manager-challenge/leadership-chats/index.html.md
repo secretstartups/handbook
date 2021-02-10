@@ -23,7 +23,7 @@ Leadership Chats are monthly calls for people leaders at GitLab. All people lead
 Some topics that managers can expect to discuss during these sessions include:
 
 1. Challenges faced as a manager of a all-remote team
-1. Crucial conversationsL: how to have them, what works, what doesn't
+1. Crucial conversations: how to have them, what works, what doesn't
 1. Work and life balance as a manager
 1. Professional development as both a manager and for direct reports
 1. Enabling GitLab culture
@@ -73,7 +73,7 @@ If you have an idea you feel strongly about that you'd like to discuss, please a
 
 ### Before the meeting
 
-If time, take the following action **before** each Leadership Chat you plan to attend:
+If time allows, take the following action **before** each Leadership Chat you plan to attend:
 
 1. Contribute a new topic idea to the issue board
 1. Upvote any topics you'd like to talk about
