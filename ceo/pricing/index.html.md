@@ -70,7 +70,7 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 | Self-Managed/SaaS tier | Free | Premium | Ultimate |
 | ---------- | ------ | ------ | ---- |
 | Per user per month | $0 | $19 | $99 |
-| [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Managers/Directors | Executives |
+| [Who cares most about the feature](/handbook/ceo/pricing/#buyer-based-open-core) | Individual Contributors | Directors | Executives |
 | Main competitor | GitHub Team | GitHub Enterprise | Veracode, Checkmarx |
 | Type of sell | No sell | Benefit/solution | Transformation |
 
@@ -79,7 +79,7 @@ How we make decisions on a day-to-day basis is specified on our [stewardship pag
 When considering buyers as part of product tiering decisions we use the following guidance:
 
 1. Free is for a single developer, with the purchasing decision led by that same person
-1. Premium is for team (s) usage, with the purchasing decision led by one or more Managers/Directors
+1. Premium is for team (s) usage, with the purchasing decision led by one or more Directors
 1. Ultimate is for strategic organizational usage, with the purchasing decision led by one or more Execs
 
 ### Examples
@@ -94,20 +94,20 @@ Below we list product categories and the current and proposed features which res
 #### Feature - Kanban Boards
 
 1. **Project and Group Boards (Free)** : The primary user and buyer for Issue Boards in general is Individual Contributors. While group boards likely span teams, there are also valid use cases for an individual to organize code in several projects and manage issues across those projects at the group level. The key differentiation is that an Individual Contributor will likely only ever need a single group level Issue Board; whereas Managers need several group level Issue Boards to facilitate their team's workflows.
-1. **Issue Weight on Boards (Premium)** : The users assigning issue weights are individual contributors but the value of that weight is for Managers of teams to ensure proper milestone planning.
+1. **Issue Weight on Boards (Premium)** : The users assigning issue weights are individual contributors but the value of that weight is for Directors of teams to ensure proper milestone planning.
 1. **Multiple Group Issue Boards (Premium)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer.
 1. **Issue Board Epic Swimlanes (Ultimate)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives.
 
 #### Feature - Merge Requests
 
 1. **Merge conflict resolution (Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors.
-1. **Merge approvals (Premium)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Manager (who isn't likely to be the user of approvals) requires specific individuals to provide their approval.
+1. **Merge approvals (Premium)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Director (who isn't likely to be the user of approvals) requires specific individuals to provide their approval.
 1. **Merge request reviews (Premium)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors.
 
 #### Feature - Pipelines
 
 1. **Built in CI Pipelines (Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors.
-1. **Show pipeline code coverage rate (Premium)** : The ability to determine code coverage rate is particularly valuable to team Managers.
+1. **Show pipeline code coverage rate (Premium)** : The ability to determine code coverage rate is particularly valuable to Directors.
 1. **Pipeline dashboards (Premium)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors.
 1. **Downloadable all pipeline logs (Ultimate)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
