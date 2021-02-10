@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Professional Services Agreement"
-description: "This agreement ..."
+description: "Learn more about GitLab Professional Services Agreement."
 ---
 
 ## On this page
