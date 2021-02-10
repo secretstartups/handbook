@@ -69,7 +69,7 @@ Participants can sign up in the Key Rotation Schedule by making an MR to this pa
 | 2021-02 | [Christie Lenneville - VP UX](https://gitlab.com/clenneville) |
 | 2021-03 | [Michelle Hodges - VP WW Channels](https://about.gitlab.com/company/team/#mwhodges) |
 | 2021-04 | [Steve Loyd - VP Infrastructure](https://gitlab.com/sloyd) |
-| 2021-05 | AVAILABLE |
+| 2021-05 | [Danielle Morrill - Sr. Director Inbound Marketing](https://about.gitlab.com/company/team/#dmor) |
 | 2021-06 | AVAILABLE |
 | 2021-07 | AVAILABLE |
 | 2021-08 | AVAILABLE |
