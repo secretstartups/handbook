@@ -108,7 +108,7 @@ Below is an outlined example of how the field enablement team created a handbook
 
 Articulate360 is a powerful course creation tool. Below are a set of best practices and tips for creating handbook first courses using Articulate360
 
-1. Our team has a GitLab branded template that can be used for course creation. The template has GitLab colored theme, buttons, and font. You can use this by clicking on the `Course Templat` > `Duplicate` > and then `rename`
+1. Our team has a GitLab branded template that can be used for course creation. The template has GitLab colored theme, buttons, and font. You can use this by clicking on the `Course Template` > `Duplicate` > and then rename using your course title
 1. Use [iframes](/handbook/people-group/learning-and-development/interactive-learning/#using-iframes-to-display-the-GitLab-handbook) to display sections of the GitLab handbook in your course
 
 #### Using iframes to display the GitLab handbook
@@ -118,7 +118,7 @@ This [training video](https://youtu.be/wlLKZz3vSAk
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wlLKZz3vSAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the team Articulate360 license, there is a block template for iframes. You can access this template in the the `block templates` section and add your iframe code directly.
+In the team Articulate- Rise 360 license, there is a block template for iframes. You can access this template in the the `block templates` section and add your iframe code directly.
 
 ![iframe-embed-template](/handbook/people-group/learning-and-development/interactive-learning/iframe-block.png)
 
