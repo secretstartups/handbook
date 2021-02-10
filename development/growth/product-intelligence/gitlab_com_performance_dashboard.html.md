@@ -23,7 +23,7 @@ This dashboard shows:
 ### Graph: Per week for the last 3 months
 
 * Average and 50/90/99th percentiles for total load time
-* Number of page hits (so it can be compared with load time)
+* Percentage of total page hits for the time period (to see if there is a relationship between page hits and response time)
 * Average time for key subcomponents of the total load time such as request, redirect, DOM, and processing time.
 
 This can answer questions such as:
@@ -36,7 +36,7 @@ This can answer questions such as:
 _All times are UTC_
 
 * Average and 50/90/99th percentiles for total load time
-* Number of page hits
+* * Percentage of total page hits for the time period 
 
 This can answer questions such as:
 * When did performance issues spike?
@@ -50,7 +50,7 @@ This can answer questions such as:
 _0 = Sunday_
 
 * Average and 50/90/99th percentiles for total load time
-* Number of page hits
+* Percentage of total page hits for the time period
 
 This can answer questions such as:
 * Is performance better on certain days of the week?
@@ -59,7 +59,7 @@ This can answer questions such as:
 ### Graph: Per hour of the day for the last 2 weeks
 
 * Average and 50/90/99th percentiles for total load time
-* Number of page hits
+* Percentage of total page hits for the time period
 
 This can answer questions such as:
 * Is performance better on certain hours of the day?
