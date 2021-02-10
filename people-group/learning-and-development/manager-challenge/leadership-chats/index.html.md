@@ -63,10 +63,34 @@ Since the meetings are not recorded, you can review the [meeting agenda](https:/
 
 ### How to propose a conversation idea
 
-If you have an idea or topic you'd like to discuss during these conversations, please open an issue on the `management-leancoffee-topics` [issue board](https://gitlab.com/gitlab-com/people-group/leaders-leancoffee-topics/-/boards/965643).
+If you have an idea or topic you'd like to discuss during these conversations, please open an issue on the `management-leancoffee-topics` [issue board](https://gitlab.com/gitlab-com/people-group/leaders-leancoffee-topics/-/boards/965643) and add the `new-topics` label. 
+
+Please review the current topics for overlap. If you find a topic you are also interested in that you'd like to discuss, you can vote on the issue using the `thumbs-up` emoji.
+
+### How are meeting topics choosen?
+
+Before each Leadership Chat session, the L&D team will populate the agenda with 3-5 topics for discussion. If your group of managers feels strongly about one of these topics, run with it! If you'd rather discuss something else, that is okay, too! These topics are meant to help get discussion going and are not required.
+
+If you have an idea you feel strongly about that you'd like to discuss, please add it to the [meeting agenda](https://docs.google.com/document/d/1Hq9CykJn3EvYI5XblntORSIaheCdmyqYsqiHdrlHbHE/edit) for the session you plan to attend.
+
+### Before the meeting
+
+If time, take the following action before each Leadership Chat you plan to attend.
+
+1. Contribute a new topic idea to the issue board
+1. Upvote any topics you'd like to talk about
+1. Add a topic you're passionate about to the agneda to review 
+
+### After the meeting
+
+If time, take the following action after each Leadership Chat you attend
+
+1. Based on your groups discussion, comment on any related issues
+1. Consider having a 1:1 coffee chat with another manager that you talked with during the call
+1. Invite another manger you know to attend the next session!
 
 
-### Logistics
+## Meeting Logistics
 
 The following steps are outlined for the logistics purposes for the L&D team to effectively organize and host these meetings.
 
@@ -79,6 +103,13 @@ The following steps are outlined for the logistics purposes for the L&D team to 
 | Month 3 Meetings | This is a recurring meeting in the third month of every quarter on the third Thursday without a host |
 
 #### Agenda
+
+The meeting agenda can be found in the [L&D Google Drive](https://docs.google.com/document/d/1Hq9CykJn3EvYI5XblntORSIaheCdmyqYsqiHdrlHbHE/edit). Before each session, the L&D team should:
+
+1. Update the days and times of the month's meetings in the agenda
+1. Briefly review the notes from the following session. If any notes correlate to a current topic on the issue board, move that issue to the `discussed-topics` list.
+1. Review contributed ideas to the [issue board](https://gitlab.com/gitlab-com/people-group/leaders-leancoffee-topics/-/boards/965643) in the `new-topics` list. Pull 3-5 topics for discussion and add them to the top of the agenda. Link the corresponding issues from the issue board to the agenda.
+
 
 #### Issue Board
 
