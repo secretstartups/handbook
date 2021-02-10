@@ -182,7 +182,11 @@ Visual reviews are required for any MR with the `UX` label. When the MR is in `w
 
 There are times when it isn't possible or practical for a designer to complete their visual review via Review Apps or GDK. At these times the designer and engineer should coordinate a demo.
 
-## UX Themes and Labels
+#### UX Scorecards
+All of the planned, in progress and completed UX Scorecards for Growth can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/2015).
+For more information, read about [UX Scorecards](/handbook/engineering/ux/ux-scorecards/).
+
+#### UX Themes and Labels
 
 We use labels to track UX improvements across a few themes. This allows us to track our work more holistically against big areas we've identified for UX improvement.
 
