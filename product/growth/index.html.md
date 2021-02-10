@@ -138,6 +138,9 @@ engineering team may ship smaller improvements independently of Manage's direct 
 - The group ultimately owning the change - in this case, Manage - would review Growth's contributions into their area of the product
 and - like a contribution coming from the wider community - ultimately own the final result.
 
+### Working with UX counterparts
+In progress - streamlin and move content from https://about.gitlab.com/handbook/engineering/ux/stage-group-ux-strategy/growth/
+
 ### Collaboration process with other Product teams
  
 
