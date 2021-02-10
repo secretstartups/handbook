@@ -253,7 +253,7 @@ Some wikis make it hard to view and/or link to diffs of changes, which is needed
 
 ### Sid and Paul Discussion on the benefits of markdown handbooks and limitations of wikis
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=eLc8PlD_ucw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/eLc8PlD_ucw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ## External use of the Handbook
