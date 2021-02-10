@@ -12,10 +12,8 @@ title: How the growth section works
 
 ## Overview
 
-The [Growth stage](/handbook/product/categories/#growth-stage) is responsible for
-scaling GitLab's business value. To accomplish this, Growth analyzes the entire customer journey from acquisition of
-a customer to the flow across multiple GitLab features - and even reactivation of lost users. Several groups
-help with this mission:
+The [Growth stage](/handbook/product/categories/#growth-stage) is responsible for scaling GitLab's business value. To accomplish this, Growth analyzes the entire customer journey from acquisition of
+a customer to the flow across multiple GitLab features - and even reactivation of lost users. Several groups help with this mission:
 
 - Activation, Conversion, Expansion, and Adoption connect users to the existing value that GitLab already delivers by
 rapid experimentation.
@@ -26,6 +24,7 @@ Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform 
 
 ## How the Growth section works
 [All the Growth team members are listed here](/handbook/product/categories/#growth-section)
+We follow the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).
 
 ### Growth ideation and prioritization
 
