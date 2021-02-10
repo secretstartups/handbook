@@ -60,7 +60,7 @@ Each month, one All-Direct will join the Key Rotation. This person should plan t
 
 A rotation includes 9 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings.
 
-Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the [EBA of the CFO](handbook/eba/#executive-business-administrator-team) in the #key-meetings Slack channel. The EBA to the CFO will add participants to meetings.
+Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the [EBA of the CFO](/handbook/eba/#executive-business-administrator-team) in the #key-meetings Slack channel. The EBA to the CFO will add participants to meetings.
 
 #### Key Rotation Schedule
 
