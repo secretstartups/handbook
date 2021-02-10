@@ -165,15 +165,15 @@ BD=Business Day, so for example BD4 means four business days after the month has
 
 - BD -2: **AP Closed.**
 - BD1: Ensure all accruals for Marketing, Legal, Hosting are collected.
-- BD2: **Payroll, Vendor and accruals booked.**
+- BD2: **Payroll, Vendor and accruals booked.** Forecast Version open in Adaptive.
 - BD3: Finance Business Partners: Review vendor accruals to check for accuracy.
 - BD4: **Revenue, AR Closed.**
 - BD5: **Sales Comp Booked**, Variance reviews with EVPs for Marketing, R&D, G&A (without sales comp and allocations).
-- BD6:
+- BD6: FP&A close AvF flux materially complete
 - BD7:
 - BD8: **Preliminary financials released**, Variance review with CRO.
 - BD9:
-- BD10: **Accounting Close**
+- BD10: **Accounting Close** FP&A close AvF flux locked
 - BD11: Review accounting controller book and fluxes. Prepare for 10Q/10K drafting.
 - BD12: Variance Review Package ready for CFO.
 - BD13: Revenue/EBIT guidance updated.
@@ -238,10 +238,14 @@ At GitLab, analysts begin the variance analysis process with trended data to und
 
 The FP&A team takes the following into consideration while evaluating variances in relation to materiality thresholds:
 
-- The percentage size of the variance (i.e. what was the overall varinace by percentage)
+- The percentage size of the variance (i.e. what was the overall variance by percentage)
 - The intent of the variance (i.e. did something stand out as deceptive)
 - The correlation to other variance (i.e. did a immaterial difference in one place cause a material difference in another)
 - The inherent character of the variance (i.e. does the expense correlate to the traits of the business)
+
+The FP&A team delivers an FP&A expense flux review document at each monthly close, documenting and quantifying business drivers for variance. The goal is two-fold:
+- **Control:** ensure accuracy of actuals. Analysts should aim for 80% coverage in explanations, e.g. if variance is $100, aim to list drivers for net $80 of the variance for any particular intersection above threshold. List drivers in descending order of impact, followed by large offsetting drivers.  
+- **Insights:** leverage insights gained from closed month to inform rolling forecast. Changes in business strategy/model, new accounting policies, and refinements on forecast methodology should be documented and incorporated into the new forecast.
 
 #### Performance Indicator: Variance percentage
 
