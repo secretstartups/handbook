@@ -136,7 +136,7 @@ Our goal is to deliver a release every 2 weeks. Our release day is always a Wedn
 
 ### Sprint Cycle
 
-For FY21 Q4 we have 2 sprint cycles running which start on alternate weeks.
+For FY22 Qq we have one two-week sprint cycle.
 
 <figure class="video_container">
     <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=Y185Z2FiaTg1cmYxMTdnOGhhNDhya2tmbzUxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y19pcnFkNzNwNnA0YnJ1a2prOXUyZjF0NGNxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23F4511E&amp;color=%23B39DDB&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=1" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -146,11 +146,22 @@ For FY21 Q4 we have 2 sprint cycles running which start on alternate weeks.
 
 Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards. We weight these issues and target delivering 10 weight points per sprint.
 
+**Weighting**
+
+We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day
+
 This is the template we use for [Sprint Planning](https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit)
 
 <figure class="video_container">
     <iframe src="https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit"></iframe>
 </figure>
+
+TODO: Should we include a playlist of the PLANNING videos here?
+
+### Sprint Releases
+
+TODO: What do we do for the "release async" calendar event?
+TODO: Should we include a playlist of the release videos here?
 
 ### Sprint Retros
 
@@ -162,18 +173,7 @@ This is the template we use for [Sprint Retros](https://docs.google.com/document
     <iframe src="https://docs.google.com/document/d/1KSds3hjnJ250WWWZ9_uNpU4RYQA82mF3ylAcpsf7fGE/edit"></iframe>
 </figure>
 
-**Marketing Design System Sprint Planning and Retros**
-
-[https://drive.google.com/drive/u/0/folders/1E0101X1-eYirolSxz-Q96HIdHFJhzzOK](https://drive.google.com/drive/u/0/folders/1E0101X1-eYirolSxz-Q96HIdHFJhzzOK)
-
-**CMS Sprint Planning and Retros**
-
-[https://drive.google.com/drive/folders/1req1RC4tdOgKrn-bZEvS5G2nKwuymIKy](https://drive.google.com/drive/folders/1req1RC4tdOgKrn-bZEvS5G2nKwuymIKy?usp=sharing)
-
-**Weighting**
-
-We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day
-
+TODO: will we have retro videos to post here as well?
 
 ## Contact Us
 
