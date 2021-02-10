@@ -177,7 +177,17 @@ Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gi
 
 ## CEO Performance Evaluation
 
-In Q1 of a new fiscal year, the Board does a CEO Evaluation. This Evaluation will flag specific areas for attention or improvement.
+In Q1 of a new fiscal year, the Chairperson of the Compensation Committee conducts the annual CEO Evaluation. The Chairperson meets with all members of GitLab's Board and E-Group for their feedback on the CEO's performance over the past Fiscal Year. The Chairperson meets with the CEO for their self-assessment at the beginning of the evaluation cycle. 
+
+The CEO's self assessment is centered on three main areas
+1. Areas of Notable Success 
+1. Areas of Disappointment 
+1. Areas for Improvement and Focus in the next fiscal year 
+
+The Staff EBA to the CEO assists the Chairperson to schedule the performance review meetings with each Board Member (50 minutes, 1:1) and E-Group member (25 minutes, 1:1). These are conducted in an interview format to capture the richest possible feedback regarding the CEO's performance. During these calls, Board Members can expect to share their perspectives on the CEO's major accomplishments and disappointments in areas such as: vision, strategy, operations, management team development, company culture and relationship with the Board. General areas of strength. Areas for improvement and/or additional focus. Key fiscal year strategic/operational, non financial goals. 
+
+The results from the Board and E-Group team interviews are summarized (without attribution) by the Chairperson and shared for discussion at the March Board of Directors meeting. 
+
 The CoS is responsible for an update every other quarter to the Board on the progress made across focus areas. This will come in the form of a progress scorecard.
 For example, if one area of focus is "set 3-year strategy", the CoS will evaluate whether the activity is on track or needs attention. The scorecard will be updated with a progress score (on track, needs attention, or at risk) and a high level summary of relevant key activities.
 
@@ -202,12 +212,11 @@ There is an issue to also [add DRIs and review the mitigations](https://gitlab.c
 This is not the SSOT for these dates and is meant only for informational/organizational purposes.
 
 **Informal Board Meetings**
-* 2020-04-17
-* 2020-05-15
-* 2020-06-19
+* Monthly on the 3rd Friday except in months where a formal BOD Meeting is scheduled 
 
 **NomGov Meetings**
-* 2020-04-24
+* 2021-03-15
+* 2021-09-17
 
 **Board Meetings**
 * March
@@ -218,7 +227,7 @@ This is not the SSOT for these dates and is meant only for informational/organiz
 **E-group Offsites**
 * January
 * April
-* July
+* June
 * October
 
 ## Daily Standup
