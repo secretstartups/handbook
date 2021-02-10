@@ -233,7 +233,7 @@ The key to identifying more GitLab Premium and GitLab Ultimate opportunities is 
 * How important is license compliance to your organization so that you can  track project dependencies for their licenses and approve or deny specific licenses?
 * GitLab Ultimate offers the following compliance features:
     * License Compliance - Identify the presence of new software licenses included in your project. Approve or deny the inclusion of a specific license
-    * [Compliance Templates](https://docs.gitlab.com/ee/gitlab-basics/create-project.html#enterprise-templates) - Templates to streamline audit management with specific regulatory standards. Currently, HIPAA is available. SOX & SOC2 are in the near term roadmap.
+    * [Compliance Templates](https://docs.gitlab.com/ee/user/project/working_with_projects.html#enterprise-templates) - Templates to streamline audit management with specific regulatory standards. Currently, HIPAA is available. SOX & SOC2 are in the near term roadmap.
 
 #### Project Insights
 * How would it affect your organization’s efficiencies to gain insights into things that matter for your projects (e.g. triage hygiene, issues created/closed per a given period, average time for merge requests to be merged, etc.)?
