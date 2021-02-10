@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: 'Sales Operations'
+description: "Sales Operations aim to help facilitate new and existing processes throughout our field organization via the use of systems, policies, and direct support. "
 ---
 ## On this page
 

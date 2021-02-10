@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Order Processing"
+description: "This page outlines the Quote to Cash process, starting from account and opportuntiy creation, quote configuration, approvals, booking requirements and to the ultimate closure of a deal."
 ---
 
 ## On this page
