@@ -71,7 +71,7 @@ Participants can sign up in the Key Rotation Schedule by making an MR to this pa
 | 2021-04 | [Steve Loyd - VP Infrastructure](https://gitlab.com/sloyd) |
 | 2021-05 | [Danielle Morrill - Sr. Director Inbound Marketing](https://about.gitlab.com/company/team/#dmor) |
 | 2021-06 | AVAILABLE |
-| 2021-07 | AVAILABLE |
+| 2021-07 | [David Sakamoto - VP Customer Success](https://about.gitlab.com/company/team/#dsakamoto)  |
 | 2021-08 | AVAILABLE |
 | 2021-09 | AVAILABLE |
 | 2021-10 | AVAILABLE |
