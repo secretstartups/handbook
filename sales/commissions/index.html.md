@@ -16,7 +16,7 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 
 ## **What's New?**
 
-Exciting news for FY22!  We are migrating our exisitng commission system to Xactly Incent!  More information to follow, however, some key features are shown below.
+Exciting news for FY22!  We are migrating our exisitng commission system to Xactly Incent!  More information to follow, however, some key features are shown below:
 
 #### Key Benefits of Xactly Incent
 
@@ -36,6 +36,8 @@ There are two ways to connect with us.
 
 * Via email sales-comp@gitlab.com
 * Via the Chatter feature in Salesforce
+
+#### Thank you for your patience while we work to update the handbook to reflect our FY22 Commission Program.
 
 ## **Quick Reference Guide**
 
