@@ -177,6 +177,8 @@ A ready to be published update should look similar to the following.
 
 ![Incident update](/images/support/cmoc_post_incident_update.png)
 
+Make sure to [verify](the https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
+
 ### Stage 3: **Incident Resolution**
 
 Closing an incident out has two stages, `Monitoring` and `Resolved`. Once the affected component is back to operating normally a monitoring period should begin where we switch an incident over to `Monitoring` where it remains open for ~30 minutes to ensure that the issue does not recur. We then mark it `Resolved` once we're confident the issue will not recur, which closes the incident.
