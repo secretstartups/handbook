@@ -956,20 +956,20 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
 **New Business/Add-On Opportunities:**
-- <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Subscription Start Date* as reflected on the opportunity.
-  - New Business and Add-On opportunities submitted for approval after the Subscription Start Date will be Closed Won on the date of approval submission.
+- <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Quote Start Date* as reflected on the opportunity.
+  - New Business and Add-On opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
   - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
 
 **Renewal Opportunities:**
-- <ins>Renewal opportunities with Expansion or Contraction</ins> (Net ARR not equal to $0) will be Closed Won *no more than 15 days prior to the Subscription Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
-  - Renewal opportunities with Expansion or Contraction submitted for approval after the Subscription Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
+- <ins>Renewal opportunities with Expansion or Contraction</ins> (Net ARR not equal to $0) will be Closed Won *no more than 15 days prior to the Quote Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
+  - Renewal opportunities with Expansion or Contraction submitted for approval after the Quote Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
   - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
-- <ins>Flat Renewal opportunities</ins> (Net ARR = $0) will be Closed Won *on the Subscription Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
-  - Flat Renewal opportunities submitted for approval after the Subscription Start Date will be Closed Won on the date of approval submission.
+- <ins>Flat Renewal opportunities</ins> (Net ARR = $0) will be Closed Won *on the Quote Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
+  - Flat Renewal opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
 
 **Late Renewals:**
-- If a renewal is achieved *within 45 days after the Subscription Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
-- **Renewal opportunities must be Closed Lost if the renewal is not achieved within 45 days after the Subscription Start date (Renewal Date).**
+- If a renewal is achieved *within 45 days after the Quote Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
+- **Renewal opportunities must be Closed Lost if the renewal is not achieved within 45 days after the Quote Start date (Renewal Date).**
 - If a renewal is achieved *more than 45 days after the Renewal Date, but less than 180 days after the Renewal Date*:
   - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
   - The original Closed Lost opportunity will remain as is. A second Closed Lost opportunity will be created and closed with the inverse values of the original, to effectively cancel the original Closed Lost opportunity. This new Closed Lost opportunity will have the same close date as the new Closed Won renewal opportunity. See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
@@ -1157,9 +1157,9 @@ Licenses (Self-Managed) and Provisioning Details (SaaS) are automatically emaile
 
 Notes on License Timing:
 - Self-Managed:
-  - For self-managed deals, the license is sent to the customer immediately upon opportunity closure, but the system will not activate until the Subscription Start Date.
+  - For self-managed deals, the license is sent to the customer immediately upon opportunity closure, but the system will not activate until the Quote Start Date.
 - SaaS:
-  - For SaaS deals, the entitlement will be provisioned and made available to the customer on the Subscription Start Date.
+  - For SaaS deals, the entitlement will be provisioned and made available to the customer on the Quote Start Date.
 
 Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Account record, and can be found under "Acitivity History" list on the Account level.
 
