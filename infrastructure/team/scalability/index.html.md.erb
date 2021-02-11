@@ -271,7 +271,7 @@ the progress of ongoing work.
 
 On the **planning board**, the goal is to get issues into a state where we have enough information to build the issue.
 However, not all issues that are `workflow-infra::Ready` to be built should be scheduled for development right away. Some
-issues may be too big, or have too low a priority. This means not all issues that are `workflow-infra::Ready` on the
+issues may be too big, or might not be as important as others. This means not all issues that are `workflow-infra::Ready` on the
 planning board will move to the build board immediately.
 
 Please see the [triage rotation section](#triage-rotation) for when to move issues between the boards.
@@ -287,18 +287,12 @@ Please see the [triage rotation section](#triage-rotation) for when to move issu
 The Scalability team routinely uses the following set of labels:
 
 1. The team label, `team::Scalability`.
-1. Priority labels `Scalability::`.
 1. Scoped `workflow-infra` labels.
+1. Priority labels `Scalability::`.
 1. Scoped `Service` labels.
 
 The `team::Scalability` label is used in order to allow for easier filtering of
 issues applicable to the team that have group level labels applied.
-
-<a name="priority-labels">The priority labels</a> allow us to track the issues correctly and raise/lower priority of work based on both external and internal factors.
-
-This means that the highest priority is given to working on issues that improve
-Gitlab.com SLO's either immediately and directly, or by unblocking other issues
-to achieve the same.
 
 #### Workflow labels
 
@@ -329,14 +323,16 @@ There are three other workflow labels of importance:
 
 #### Priority labels
 
-The Scalability team uses priority labels as a means to indicate order under which work is next to be picked up. Priorities are roughly defined as:
+The Scalability team has only one priority label: `Scalability::P1`.
 
-| Priority level  | Definition |
-| --------------- | ---------- |
-| Scalability::P1 | Issue is blocking other team-members, or blocking other work.  As soon as possible after completing ongoing task unless directly communicated otherwise. |
-| Scalability::P2 | Issue has a large impact, or will create additional work. |
-| Scalability::P3 | Issue should be completed once other urgent work is done. |
-| Scalability::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. |
+Only issues of the upmost importance are given this label.
+
+When an issue is given this label, a message should be pasted in the team's Slack channel so that an owner can be found as quickly as possible.
+
+These issues should be picked up soon as possible after completing ongoing task unless directly communicated otherwise.
+
+It is a scoped label as we previously had 4 levels of priority. We found that
+[in practise we primarily used P4](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/863), and used P1 to indicate the issues of greatest importance.
 
 #### Labels in gitlab-org group
 
@@ -409,13 +405,12 @@ Most of our work happens on the current in-progress sub epic. This is always pro
 epic's description.
 
 When choosing something new to work on you can either:
-- Go to the [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) and pick from the `Ready` column
-according to the priority labels.
+- Go to the [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) and pick from the `Ready` column.
 
 or
 
 - Go to the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168) and try to advance issues
-to the next appropriate column according to the priority labels.
+to the next appropriate column.
 
 ## History
 
