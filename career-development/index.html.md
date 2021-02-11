@@ -521,17 +521,9 @@ Since collective exceptions within a department will at some point impact overal
 |---------------|----------------|-----------|----------|
 | Scalability Team | Infrastructure | 2 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Scalability-Team-IC-Gearing) |
 | Delivery Team | Infrastructure | 3 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Delivery-Team-IC-Gearing) |
-| Staff Security Engineer Application Security | Security | 3 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/12) |
-| Distinguished Security Engineer Application Security | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/13)
-| Staff Security Engineer Security Research | Security |No cap | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/14)|
-|  Distinguished Security Engineer Security Research | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/13)
-| Distinguished Security Engineer Purple Team | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/management/-/issues/16)
-| Distinguished Security Engineer SIRT | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/management/-/issues/16)
-| Staff Engineer Security Compliance | Security  | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/management/-/issues/2) |
-| Staff Engineer Risk and Field Security | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/management/-/issues/2) |
-| Staff Security Engineer Red Team | Security | No cap | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/management/-/issues/17)
-| Staff Analyst Trust and Safety | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/housekeeping/documentation/-/issues/3) |
-| Staff Engineer Trust and Safety | Security | 1 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/housekeeping/documentation/-/issues/3) |
+| Staff Security Engineer Application Security | Security | 2 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/12) |
+| Staff Security Engineer Red Team | Security | 2 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/management/-/issues/17) |
+| Staff Security Engineer Security Research | Security | 2 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/14)|
 
 ### Benefits of this solution
 A number of alternative approaches were considered as a solution for this gearing. The [IC Gearing Working Group](/company/team/structure/working-groups/ic-gearing/) resulted in this model for the following reasons:
