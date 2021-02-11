@@ -277,8 +277,8 @@ GitLab provides a policy through Cigna that may replace up to 66.7% of your base
 **Short Term Disability Claim Process**
 
 1. Team member notifies GitLab via PTO Roots
-1. Team member will submit both the [Short Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form and the [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) form by emailing it to the Total Rewards team at total-rewards@gitlab.com . The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will dispurse those funds to the team member. 
-1. The Total Rewards team will complete the employer portion of the Short Term Disability form and will send it over to Cigna at dallasfco.intake2@cigna.com 
+1. Team member will submit both the [Short Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form and the form by emailing it to the Total Rewards team at total-rewards@gitlab.com . The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will dispurse those funds to the team member. 
+1. The Total Rewards team will complete the employer portion of the Short Term Disability form and will send it over to Cigna at `dallasfco.intake2@cigna.com`
 1. The Total Rewards team will notify the team member of submission of claim and provided next steps. Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed.  The claims team will also contact the Total Rewards team to confirm eligibility and verify job responsibilities, if needed.  Cigna claims team will immediately begin reviewing the information available to make a decision.  Cigna can also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so.  If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Total Rewards team will also receive a notification of the denial.  If approved, communication is sent to the Total Rewards team and claim status reports with approval date and estimated return-to-work date is provided to the Total Rewards team.   
 1. The Total Rewards team will process internally 
 
@@ -462,10 +462,7 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 #### Maternity Leave STD Form - Team Member to fill out:
 1. Team member notifies GitLab via PTO Roots
 1. Team member will submit both the [Short Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form and the [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) form by emailing it to the Total Rewards team at total-rewards@gitlab.com . The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will dispurse those funds to the team member. 
-1. The Total Rewards team will complete the employer portion of the Short Term Disability form and will send it over to Cigna at dallasfco.intake2@cigna.com 
-1. The Total Rewards team will notify the team member of submission of claim and provided next steps. Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed.  The claims team will also contact the Total Rewards team to confirm eligibility and verify job responsibilities, if needed.  Cigna claims team will immediately begin reviewing the information available to make a decision.  Cigna can also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so.  If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Total Rewards team will also receive a notification of the denial.  If approved, communication is sent to the Total Rewards team and claim status reports with approval date and estimated return-to-work date is provided to the Total Rewards team. 
-1. The team member should notify Cigna and the Total Rewards team once birth has occurred.  
-1. The Total Rewards team will process internally. 
+Please reference the Short Term Disability Claim Process for the complete process.
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
 This section will be populated once we have the form from Cigna. 
