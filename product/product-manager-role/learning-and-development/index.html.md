@@ -22,7 +22,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 Other books are shared below as relevant to specific product management skills. Each skill below  might include multiple competencies. For each skill or competency we've tried to find a single introductory level content, a detailed book and an online course to allow every PM to improve. The introductory contents should be accessible either freely or freely for GitLab Team members, the books and online courses [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
-### Validation Track Resources
+### Validation Track Skills
 
 Introductory material: UX Research introduction: [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
 
