@@ -953,18 +953,24 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 #### FY22 Bookings Policy
 
-This policy dicates the timing of opportunity closure in FY22. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
+This policy dicates the timing of opportunity closure in FY22 for all Sales-Assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
 **New Business/Add-On Opportunities:**
-
+- New Business and Add-On opportunities will be Closed Won no more than 15 days prior to the Subscription Start Date as reflected on the opportunity.
+  - New Business and Add-On opportunities submitted for approval after the Subscription Start Date will be Closed Won on the date of approval submission.
 
 **Renewal Opportunities:**
-
+- Renewal opportunities with Expansion or Contraction (Net ARR not equal to $0) will be Closed Won no more than 15 days prior to the Subscription Start Date (i.e. the Renewal Date) as reflected on the opportunity.
+  - Renewal opportunities with Expansion or Contraction submitted for approval after the Subscription Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
+- Flat Renewal opportunities (Net ARR = $0) will be Closed Won on the Subscription Start Date (i.e. the Renewal Date) as reflected on the opportunity.
+  - Flat Renewal opportunities will be Closed Won on the date of approval submission.
 
 **Late Renewals:**
 
+**Exceptions:**
+-Any exceptions to this policy must be approved in SFDC Chatter by the CFO.
 
-Note: All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
+**Note: All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.**
 
 
 #### Purchase Order Policy
