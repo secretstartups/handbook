@@ -955,6 +955,16 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 This policy dicates the timing of opportunity closure in FY22. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
+**New Business/Add-On Opportunities:**
+
+
+**Renewal Opportunities:**
+
+
+**Late Renewals:**
+
+
+Note: All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
 
 
 #### Purchase Order Policy
