@@ -982,6 +982,8 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
 **Do I have to wait to submit my opportunity for approval?**
 - All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
 
+**My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?
+- See [How do I know if a License Key was sent to the Customer?](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
 
 #### Purchase Order Policy
 
