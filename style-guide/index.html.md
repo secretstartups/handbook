@@ -27,9 +27,9 @@ Fragment identifiers are automatically generated from most headings. Keep that i
 
 ## Capitalization
 
-### Use Title Case for Titles and Headings
+### Use sentence case for titles and headings
 
-Handbook content currently uses both `Title Case` and `Sentence case` for titles and headlines. While sentence case can be a nice design option, title case can actually convey important information independent of punctuation, typographic emphasis, or additional descriptive text—it says _this text is the name of something_ all by itself. That might seem obvious from the styling of a title or a heading, but it isn't obvious in references from other contexts, such as links from other pages, of which there are _many_ in the Handbook. Thus, title case should be preferred over sentence case for Handbook titles and headings. Note that the GitLab Blog [uses sentence case](/handbook/marketing/corporate-marketing/content/editorial-team/#case), but that is a different context and the Blog is not as reference-heavy as the Handbook.
+Handbook content currently uses both `Title Case` and `Sentence case` for titles and headlines. Moving forward, we recommend using [sentence case](https://www.thoughtco.com/sentence-case-titles-1691944), as it aligns the handbook with our [pajamas design system](https://design.gitlab.com/content/punctuation/).
 
 ### Capitalize Brand Names
 
