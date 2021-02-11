@@ -12,7 +12,7 @@ title: Learning and Development for Product Management
 
 [**Principles**](/handbook/product/product-principles/) - [**Processes**](/handbook/product/product-processes/) - [**Categorization**](/handbook/product/categories/) - [**GitLab the Product**](/handbook/product/gitlab-the-product) - [**Being a PM**](/handbook/product/product-manager-role) - [**Performance Indicators**](/handbook/product/performance-indicators/) - [**Leadership**](/handbook/product/product-leadership/)
 
-## Learning and Development for Product Management
+## Recommended books to read for product management
 
 There are three recommended books to be read by every product manager at GitLab:
 
