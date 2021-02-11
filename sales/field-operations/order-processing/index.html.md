@@ -951,6 +951,12 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
+#### FY22 Bookings Policy
+
+This policy dicates the timing of opportunity closure in FY22. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
+
+
+
 #### Purchase Order Policy
 
 Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions.
