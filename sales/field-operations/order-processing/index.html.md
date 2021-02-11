@@ -951,6 +951,40 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 </details>
 
+#### FY22 Bookings Policy
+
+This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
+
+**New Business/Add-On Opportunities:**
+- <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Quote Start Date* as reflected on the opportunity.
+  - New Business and Add-On opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
+  - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
+
+**Renewal Opportunities:**
+- <ins>Renewal opportunities with Expansion or Contraction</ins> (Net ARR not equal to $0) will be Closed Won *no more than 15 days prior to the Quote Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
+  - Renewal opportunities with Expansion or Contraction submitted for approval after the Quote Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
+  - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
+- <ins>Flat Renewal opportunities</ins> (Net ARR = $0) will be Closed Won *on the Quote Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
+  - Flat Renewal opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
+
+**Late Renewals:**
+- If a renewal is achieved *within 45 days after the Quote Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
+- **Renewal opportunities must be Closed Lost if the renewal is not achieved within 45 days after the Quote Start date (Renewal Date).**
+- If a renewal is achieved *more than 45 days after the Renewal Date, but less than 180 days after the Renewal Date*:
+  - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+  - The original Closed Lost opportunity will remain as is. A second Closed Lost opportunity will be created and closed with the inverse values of the original, to effectively cancel the original Closed Lost opportunity. This new Closed Lost opportunity will have the same close date as the new Closed Won renewal opportunity. See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+- If a renewal is achieved *more than 180 days after the Renewal Date*:
+  - The transaction should be recorded as a New Business opportunity, using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). The original Closed Lost opportunity will not be reversed.
+
+**Exceptions:**
+- Any exceptions to this policy must be approved in SFDC Chatter by the CFO.
+
+**Do I have to wait to submit my opportunity for approval?**
+- All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
+
+**My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?**
+- See [How do I know if a License Key was sent to the Customer?](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
+
 #### Purchase Order Policy
 
 Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions.
@@ -1118,6 +1152,14 @@ Deal Desk must tag the Revenue Recognition team to review opportunities in the f
 The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them.
 
 #### How do I know if a License Key was sent to the Customer?
+
+Licenses (Self-Managed) and Provisioning Details (SaaS) are automatically emailed to the Sold To contact entered on the quote.
+
+Notes on License Timing:
+- Self-Managed:
+  - For self-managed deals, the license is sent to the customer immediately upon opportunity closure, but the system will not activate until the Quote Start Date.
+- SaaS:
+  - For SaaS deals, the entitlement will be provisioned and made available to the customer on the Quote Start Date.
 
 Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Account record, and can be found under "Acitivity History" list on the Account level.
 
