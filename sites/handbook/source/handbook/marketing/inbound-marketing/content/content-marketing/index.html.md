@@ -132,6 +132,10 @@ Visit the [Gated Content page](/handbook/marketing/revenue-marketing/digital-mar
 
 ### Content types: Definitions and workflows
 
+Content is most effective when it it's the right message, to the right audience, at the right time, in the right medium. That's why the content marketing team produces a variety of content types designed to reach different people at different stages of the buyer journey.
+
+At GitLab, everyone can contribute. While the content marketing team produces a large amount of the content used in marketing campaigns, they are by no means the only content creators at GitLab. If you would like to contribute content such as blog posts, eBooks, whitepapers, etc, read more about these content types and how to submit them.
+
 #### Blog post
 
 A post on the GitLab blog is used during the Awareness or Consideration stage of the buyer's journey. A blog post can educate, entertain, tell a story, take an opinionated stance, etc. (See: [Attributes of a successful blog post](/handbook/marketing/blog/#attributes-of-a-successful-blog-post).) A blog post is dated, so it only reflects thoughts, ideas, and processes from a specific period of time. For communicating long-term/evergreen ideas or processes, consider using a [topic page](/handbook/marketing/inbound-marketing/content/content-marketing/#topic-page) or [web article](/handbook/marketing/inbound-marketing/content/content-marketing/#web-article) instead.
@@ -141,6 +145,10 @@ A post on the GitLab blog is used during the Awareness or Consideration stage of
 2. Once the Editorial team has provided feedback and approved the blog topic, consider opening an issue in the [Content Marketing project](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to capture your work during the writing and collaboration process (See: [Every task should be an issue](/handbook/marketing/project-management-guidelines/issues/#every-task-should-be-an-issue)).
 3. Once blog copy has been reviewed by the required SMEs/strategic marketing counterparts, close the Content Marketing issue, [create a merge request](/handbook/marketing/blog/#when-your-post-is-formatted-and-youre-ready-to-create-your-merge-request) from your www-gitlab-com issue, and when ready, assign it to the Editorial team member who reviewed your pitch. They will then schedule your blog post for the next available date on the [Editorial calendar](/handbook/marketing/inbound-marketing/content/#editorial-calendar). 
 1. The Editorial team member will review your draft and may leave feedback for you to resolve before publishing. When you have done so, reassign the MR to the Editorial team member for final review and merging.
+
+Blogs can be pitched to the [official GitLab blog](/blog/){:target="_blank"} or published directly on the [Unfiltered blog](/blog/categories/unfiltered/){:target="_blank"} without editorial approval.
+
+Visit the blog handbook to learn more about the [blog publishing process](/handbook/marketing/blog/#publishing-process){:target="_blank"}.
 
 #### Blog repurpose
 
@@ -158,11 +166,13 @@ A blog can and should be repurposed as a web article/cluster page if the content
 
 A whitepaper is a technical and focused topic study intended to educate a prospective buyer during the Consideration or Purchase stages of a campaign. The whitepaper offers a problem and solution instance in a granular, technical tone. The content team member should collaborate closely with their product marketing counterpart when researching and writing the asset so that the content reaches appropriate technical standards for the intended audience.
 
+Any technical GitLab team member is welcome to write a whitepaper and collaborate with the content team. Go to the [product stage](/handbook/product/categories/#devops-stages) in the handbook to find the content marketer for your whitepaper topic, or post in the [#content](https://gitlab.slack.com/archives/C2R1NED61){:target="_blank"} slack channel. Whitepapers should be related to specific use cases and support campaigns, when possible.
+
 **Examples:**
 1. [A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/)
 2. [How to deploy on AWS from GitLab](/resources/whitepaper-deploy-aws-gitlab/)
 
-**Timeline:** 1-4 weeks to plan, research, and draft a whitepaper. Use [the content resource request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) for planning with team members and to define a specific deadline. All whitepapers should have a launch date on the [editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar).
+**Timeline:** 1-4 weeks to plan, research, and draft a whitepaper. Whitepapers created by GitLab team members will follow the [internal gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#internal-content-created-by-the-gitlab-team) asset workflow.
 
 **Deliverables:**
 * Week 1: Create and share a detailed outline of the whitepaper with involved team members.
@@ -172,16 +182,22 @@ A whitepaper is a technical and focused topic study intended to educate a prospe
 
 #### eBook
 
-An eBook tends to be broader in scope than a whitepaper and provides a clear definition of the topic, along with various industry standard best practices. eBooks typically provide awareness-level content, but can dive deeper into GitLab if it's intended for late-stage consumption. These are identified in the design template as Beginner, Intermediate, or Advanced ebooks.
+An eBook tends to be broader in scope than a whitepaper and provides a clear definition of the topic, along with various industry standard best practices. eBooks typically provide awareness-level content, but can dive deeper into GitLab if it's intended for late-stage consumption. eBooks should be related to specific use cases and support campaigns, when possible.
 
-The content team member takes the lead on developing eBook content, with input and review from their product marketing counterpart. More technical or instructive eBooks might require more collaboration with product marketing. Use this [content template](https://docs.google.com/document/d/1V944SVbjBxUVMtZiWIS-Baoxc7Ui-gjq3fCYf8tK0D4/edit?usp=sharing) to write the eBook. Use this [content request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) for the eBook content issue. 
+**Content Marketer workflow**
+
+A content team member develops eBook content with input and review from their product marketing counterpart. More technical or instructive eBooks may require more collaboration with product marketing. eBooks follow the [internal gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#internal-content-created-by-the-gitlab-team) asset workflow.
+
+Follow the instructions for creating an internal gated asset and start the eBook process by creating an epic using the [epic template](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#organizing-content-pillar-epics-and-issues). 
+
+**For other GitLab team members:** To request an eBook from the content team, feel free to open a [content request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue. If you would like to write an eBook, we have an [eBook google doc template](https://docs.google.com/document/d/1V944SVbjBxUVMtZiWIS-Baoxc7Ui-gjq3fCYf8tK0D4/edit?usp=sharing) available for GitLab team members to use with general best practices.
 
 **Examples:**
 1. [An intermediate guide to GitOps, Kubernetes, and GitLab](/resources-ebook-gitops-kubernetes-gitlab.html)
 2. [The GitLab Remote Playbook](/resources/ebook-remote-playbook/)
 3. [The benefits of single application CI/CD](/resources/ebook-single-app-cicd/)
 
-**Timeline:** 1-3 weeks to plan, research, and draft an eBook. Use [the design resource request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) for planning with team members and to define a specific deadline. All eBooks should have a launch date on the [editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar).
+**Timeline:** 1-3 weeks to plan, research, and draft an eBook. All eBooks should have a launch date on the [editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar).
 
 **Deliverables:**
 * Week 1: Share a detailed outline with involved team members.
@@ -190,10 +206,12 @@ The content team member takes the lead on developing eBook content, with input a
 
 #### Infographic
 
-An infographic is an illustrated overview of a topic or process, and is typically an ungated asset. Infographics should tell a story using data, diagrams, and text. It can be used to discuss industry trends, relate insights, or explain different stages of a project. When planning an infographic, it's important to meet with the design DRI before writing the content for the asset. Together, figure out a structure for the graphic, and ask the design DRI for recommended copy lengths.
+An infographic is an illustrated overview of a topic or process, and is typically an ungated asset. Infographics should tell a story using data, diagrams, and text. It can be used to discuss industry trends, relate insights, or explain different stages of a project. Open a [design request issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general) when planning an infographic to figure out a structure for the graphic, and ask the design DRI for recommended copy lengths.
+
 
 **Example:**
 1. [Git cheat sheet](/images/press/git-cheat-sheet.pdf)
+2. [How GitLab accelerates workload deployments on AWS](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/uploads/59d1390557bb304e7401443c4e710c0f/gitlab-aws-ci_t-campaign-infographic-01.pdf)
 
 #### Topic page
 
