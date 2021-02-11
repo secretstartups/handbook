@@ -116,11 +116,11 @@ Instructions on how to update the website are in the
 
 ## 11. Add yourself to the Team Page
 
-We are happy to have you join our company and to include you in our [team page](/company/team/)! Ask anyone in the company for
-help if you need it. There are **three** ways to update the website.  Choose the method below that feels most comfortable and have the following information handy:
+We are happy to have you join our company and to include you in our [team page](/company/team/)! [A sync](/handbook/people-group/engineering/miscellaneous/#sync-to-team-page) will add a basic entry for you on our team page on your second day of employment at GitLab. You are invited to personalize this entry and add more information to it.
+
+Ask anyone in the company for help if you need it. There are **three** ways to update the website.  Choose the method below that feels most comfortable and have the following information handy:
 
 * An invitation to the [www-gitLab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) at your GitLab email account.
-* Name of your manager
 * Name of the People Experience Associate helping you with onboarding.
 <a name="picture-requirements"></a>
 * A picture of yourself for the team page
@@ -139,17 +139,16 @@ help if you need it. There are **three** ways to update the website.  Choose the
 
 ### Method 1: Add your info on GitLab.com using the Web IDE
 
-  1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
-  2. On the Repository page, click on the button labeled `Web IDE` near the middle of the page next to History and Find File buttons.
-  3. In the file browser, navigate to `sites/marketing/source/images/team`.
-  4. Click the `⋁` icon next to the `team` directory and choose upload file and choose the photo of yourself. Be sure to follow the [picture requirements](#picture-requirements).
-  5. Next, navigate to the file that specifies your GitLab slug `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in the file browser and click on it to open the editor.
-  6. <%= partial "team-page-fields" %>
-  7. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
-  8. Check the files to ensure your updates are what you expect. If they are, click the check mark above the changed file list to "stage" all changes. You can also use the `Stage` button in the upper-right of the changed file view to stage each one individually. You should now see `0 unstaged and 2 staged changes`.
-  9. Once you have verified all of the edits, click commit and enter a short commit message in the box that appears. Your commit message should describe what you have changed. Choose `Create a new branch`. Name the branch in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06`
-  10. Tick the `Start a new merge request` checkbox. Then click `Commit` once more.
-  11. Fill out the merge request details and assign it to your manager. If your manager does not have access to merge your MR based on the permissions described above, then please reference the specific members page for the www-gitlab-com project for review.  Check the `Delete source branch when merge request is accepted` box to cleanup your merge request when complete. Click `Submit merge request` to submit the MR for review.
+  1. Go to the [Team page](https://about.gitlab.com/company/team/) and find yourself. Note: if you choose `No` on BambooHR for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name. 
+  1. Click on the avatar above your name (or job title). A modal will open.
+  1. In that modal, on the bottom, click `Edit in Web IDE`
+  1. Our web editor will open with your team page entry opened
+  1. <%= partial "team-page-fields" %>
+  1. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
+  1. Check the files to ensure your updates are what you expect. If they are, click the check mark above the changed file list to "stage" all changes. You can also use the `Stage` button in the upper-right of the changed file view to stage each one individually. You should now see `0 unstaged and 2 staged changes`.
+  1. Once you have verified all of the edits, click commit and enter a short commit message in the box that appears. Your commit message should describe what you have changed. Choose `Create a new branch`. Name the branch in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06`
+  1. Tick the `Start a new merge request` checkbox. Then click `Commit` once more.
+  1. Fill out the merge request details and assign it to your manager. If your manager does not have access to merge your MR based on the permissions described above, then please reference the specific members page for the www-gitlab-com project for review.  Check the `Delete source branch when merge request is accepted` box to cleanup your merge request when complete. Click `Submit merge request` to submit the MR for review.
 
 
 ### Method 2: Add your info on GitLab.com using the 'web interface'
