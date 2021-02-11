@@ -953,7 +953,7 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 #### FY22 Bookings Policy
 
-This policy dicates the timing of opportunity closure in FY22 for all Sales-Assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
+This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
 **New Business/Add-On Opportunities:**
 - New Business and Add-On opportunities will be Closed Won no more than 15 days prior to the Subscription Start Date as reflected on the opportunity.
@@ -966,11 +966,19 @@ This policy dicates the timing of opportunity closure in FY22 for all Sales-Assi
   - Flat Renewal opportunities will be Closed Won on the date of approval submission.
 
 **Late Renewals:**
+- If a renewal is achieved within 45 days after the Subscription Start Date (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
+- Renewal opportunities must be Closed Lost if the renewal is not achieved within 45 days after the Subscription Start date (Renewal Date).
+- If a renewal is achieved between more than 45 days after the Renewal Date, but less than 180 days after the Renewal Date:
+  - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+  - The original Closed Lost opportunity will remain as is. A second Closed Lost opportunity will be created and closed with the inverse values of the original, to effectively cancel the original Closed Lost opportunity. This new Closed Lost opportunity will have the same close date as the new Closed Won renewal opportunity. See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+- If a renewal is achieved more than 180 days after the Renewal Date:
+  - The transaction should be recorded as a New Business opportunity, using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). The original Closed Lost opportunity will not be reversed.
 
 **Exceptions:**
--Any exceptions to this policy must be approved in SFDC Chatter by the CFO.
+- Any exceptions to this policy must be approved in SFDC Chatter by the CFO.
 
-**Note: All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.**
+**Do I have to wait to submit my opportunity for approval?**
+- All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
 
 
 #### Purchase Order Policy
