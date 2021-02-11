@@ -958,10 +958,12 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
 **New Business/Add-On Opportunities:**
 - New Business and Add-On opportunities will be Closed Won *no more than 15 days prior to the Subscription Start Date* as reflected on the opportunity.
   - New Business and Add-On opportunities submitted for approval after the Subscription Start Date will be Closed Won on the date of approval submission.
+  - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
 
 **Renewal Opportunities:**
 - Renewal opportunities with Expansion or Contraction (Net ARR not equal to $0) will be Closed Won *no more than 15 days prior to the Subscription Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
   - Renewal opportunities with Expansion or Contraction submitted for approval after the Subscription Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
+  - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
 - Flat Renewal opportunities (Net ARR = $0) will be Closed Won *on the Subscription Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
   - Flat Renewal opportunities submitted for approval after the Subscription Start Date will be Closed Won on the date of approval submission.
 
