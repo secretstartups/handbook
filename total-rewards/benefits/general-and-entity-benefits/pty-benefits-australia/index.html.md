@@ -51,11 +51,12 @@ GitLab does not plan to offer life insurance at this time as Australians can acc
 
 ### GitLab PTY Australia Annual, Sick and Carer's Leave
 **Annual Leave**
-* Team members are entitled to 4 weeks of paid leave each year, which begins to accumulate from the first day of employment. Any unused annual leave rolls over to the following year.
+* Team members are entitled to 4 weeks of paid leave each year, which runs concurrently with GitLab PTO and accumulates from the first day of employment. Any unused annual leave rolls over to the following year.
 * Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. This balance won't have a cap to align with GitLab's unlimited PTO policy. When taking vacation time, team members must select the `Vacation` option in PTO by Roots to ensure this time is properly tracked.
 
 **Sick Leave**
-* Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
+* Team members are entitled to 10 days of sick/carer's leave each year. This leave runs concurrently with GitLab PTO.
+* Sick and carer's leave, also known as personal/carer's leave fall under the same statutory leave entitlement. Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
 
 ### GitLab PTY Australia Parental Leave Administrative Details
 
