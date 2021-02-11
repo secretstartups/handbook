@@ -122,14 +122,11 @@ We collaboratively define OKRs as a team with cross functional partners in advan
 
 **Key Result:** During Q3 FY21, we made the decision to move forward with a 3rd party CMS (content management system) for the GitLab marketing website. A vendor selection process was completed, and the decision is to implement NetlifyCMS.
 
-**Link To Slack Working Group:** [#wg_mktg-cms](https://gitlab.slack.com/archives/C01C3LAA8B1)
-
 **Objective:** [Q4 FY21 Digital Experience OKR: Marketing Design System
 ](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/92)
 
 **Key Result:** During Q3 FY21, we will invest in planning, designing, and building a design system for our Marketing site. The Marketing Design System will increase our efficiency and make it easier for everyone to contribute.
 
-**Link To Slack Working Group:** [#wg_mktg-design-system](https://gitlab.slack.com/archives/C01CZB21WU9)
 ## Our Process
 
 Our goal is to deliver a release every 2 weeks. Our release day is always a Wednesday. We can push MRs at any time but for collaborative work initiates we plan a package for delivery to ensure we're improving our customer's experience rapidly.
@@ -183,9 +180,9 @@ We use issue weight to plan and manage our work. Team members are not held to we
 
 ### Slack Channels
 
-[#marketing-website-team](https://gitlab.slack.com/archives/CN8AVSFEY)
+[#digital-experience-team](https://gitlab.slack.com/archives/CN8AVSFEY)
 
-[#growth-mktg](https://gitlab.slack.com/archives/C012U3CASJ2)
+[#inbound-mktg](https://gitlab.slack.com/archives/C012U3CASJ2)
 
 [#marketing](https://gitlab.slack.com/archives/C0AKZRSQ5)
 
