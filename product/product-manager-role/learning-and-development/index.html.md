@@ -20,7 +20,7 @@ There are three recommended books to be read by every product manager at GitLab:
 - **[Melissa Perry: Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/)** Describes how to build and operate a successful product team
 - **[Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intangibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)** Presents how to approach data-driven decision making without a degree in statistics
 
-The remaining books are per Product Management skill. Each skill might include multiple competencies. For each skill or competency we've tried to find a single introductory level content, a detailed book and an online course to allow every PM to improve. The introductory contents should be accessible either freely or freely for GitLab Team members, the books and online courses [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
+Other books are shared below as relevant to specific product management skills. Each skill below  might include multiple competencies. For each skill or competency we've tried to find a single introductory level content, a detailed book and an online course to allow every PM to improve. The introductory contents should be accessible either freely or freely for GitLab Team members, the books and online courses [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
 ### Validation Track Resources
 
