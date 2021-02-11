@@ -56,6 +56,21 @@ The [integration between Sigstr and Salesforce](https://support.terminus.com/hc/
 
 Sigstr appends campaign banners to Outreach signatures every 24 hours. If they are changed from Sigstr, campaign banners in Outreach update in real-time. There must be an employee in Sigstr with an email address that matches the user or mailbox in Outreach in order for a campaign banner to be appended.
 
+#### Gmail
+
+##### Terminus Chrome Extension
+
+**Instructions for install:**
+
+1. Click this [link](https://chrome.google.com/webstore/detail/terminus-chrome-extension/ihgbenpajiikgfimgecpdloilhaolijd?hl=en)
+1. Click `Add to Chrome`
+1. Click `Add extension`
+1. Ensure the extension is visible in your Chrome browser by clicking the puzzle icon in the top-right corner, navigate to `Terminus Chrome Extension`, and click the pin icon to pin it. 
+1. Once pinned in your browser, navigate to Gmail and do a hard refresh (Hold ⇧ Shift and click the Reload button. Or, hold down ⌘ Cmd and ⇧ Shift key and then press R.)
+1. Compose a message then click the Terminus icon. Here you will see a list of available campaigns that you can switch out within Gmail for your purposes. 
+
+**Please note:** The campaigns you will see or not see depend on which employee group you are a part of and the settings of those particular campaigns. If a campaign has not been set up as an `Alternate` campaign, you will not see it in this view. Likewise, if you are part of a specific employee group or you are targeting an account or prospect that is part of a `Targeted` or `Sender` based campaign, your default banner would likely fall under those respective settings. **This extension applies to emails sent from Gmail only.**
+
 #### PathFactory
 
 Each Sigstr campaign banner only points to one link. With PathFactory, you can use one link while providing additional content for the receipient to consume.
