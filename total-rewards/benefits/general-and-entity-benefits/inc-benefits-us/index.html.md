@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Inc (US) Benefits"
+description: "GitLab Inc (US) benefits specific to US based team members."
 ---
 
 ## On this page
@@ -170,13 +171,9 @@ For in-network services: N/A.
 
 For out-of-network services: 365 days from Date of Service.
 
-### Infertility Services
-
-Infertility services are provided through the UHC HSA plan. Please consult the legal SBC for more information or reach out to Total Rewards.
-
 ### Pregnancy & Maternity Care
 
-With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or Total Rewards with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regards to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
+With medical plans, GitLab offers pregnancy and maternity care. Depending on the plan you selected, your coverages may differ for in-network vs out-of-network, visits, and inpatient care. Please contact Lumity or Total Rewards with any questions about your plan. Once your child has arrived, please follow the steps outlined above in regard to this [Qualifying Life Event](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#qualifying-life-events).
 
 ## Dental
 
@@ -265,16 +262,16 @@ For out-of-network services: 365 days from Date of Service.
 
 ## Basic Life Insurance and AD&D
 
-GitLab offers company paid [basic life](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) and [accidental death and dismemberment (AD&D)](https://drive.google.com/open?id=1wl62igCepQ23kjF8QnyVLsvorkr7joxP) plans through UHC. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage.
+GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage.
 
 ## Group Long-Term and Short-Term Disability Insurance
 
-GitLab provides a policy through UHC that may replace up to 66.7% of your base salary, for qualifying disabilities. For [short-term disability](https://drive.google.com/open?id=12_xDzUIuBgSJB0AJ6I0oE2VEgMdwymWx) there is a weekly maximum benefit of $2,500; for [long-term disability](https://drive.google.com/open?id=14uIt3CUabd4Yj95BDgNl9Rdfzi6SxrFW) there is a monthly benefit maximum of $12,500. More information can be found in the [UHC Long-Term Disability Welcome brochure](https://drive.google.com/file/d/195tzz2R7cqmmMnor9sWDXjeelhyx4CoE/view?usp=sharing) and [UHC Short-Term Disability Welcome brochure](https://drive.google.com/file/d/19oWAPE-V5n88WRHgXFuyiOL-elX2FiG3/view?usp=sharing) for these benefits.
+GitLab provides a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500. 
 
 **Process for Disability Claim**
 
 1. If an team member will be unable to work due to disability for less than 25 calendar days, no action is needed and the absence will be categorized under [paid time off](/handbook/paid-time-off/).
-1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1). While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
+1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed Leave Request Form. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work. If they are unable to, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
 
 ## Employee Assistance Program
@@ -370,15 +367,15 @@ Chair: Principal Accounting Officer (PAO)
 
 ## Optional Plans Available at Team Member Expense
 
-### Discovery Benefits
+### Discovery Health Savings Accounts and Flexible Spending Accounts
 
-If you are enrolled in an HSA, FSA, or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
+If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account (FSA), Dependent Care Flexible Spending Account (DCFSA) or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
 
-If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.helloflock.com/login). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year.
+If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.helloflock.com/login). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year. If you leave GitLab and would like to keep your HSA account, GitLab will no longer be responsible for the administration fee. The account holder will become responsible for the $2.50 per month admin fee. 
 
 FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
 
-FSAs (and Dependent Cars FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with Lumity to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections. 
+FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with Lumity to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections. 
 
 #### Flexible Spending Account (FSA) Plans
 
@@ -444,10 +441,8 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 ### Apply For Parental Leave in the US
 
 1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable.
-2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/open?id=1BZKHKPHvmMoOS1ctjXG3q6RHk8RHYuv1) per the instructions below and email the form to total-rewards@ domain.
-      - Pages 3-5 and 8 have to be completed before Total Rewards can email the form to UHC. 
-3. Once the form is complete, the Total Rewards team will email the form the UHC using the email address provided on the form through the Secure UHC upload.
-      - Once the team member has filed a claim for STD, UHC will confirm the start and end dates of claim via a determination letter. 
+2. For a birthing parent (maternity leave), the team member will fill out the Leave Request Form per the instructions below and email the form to total-rewards@ domain.
+      - The form will be populated once we have a new form from Cigna. 
       - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
 1. The Total Rewards team will send the team member an email with how payments will be processed and advise any differences in pay.
       - Use PTO time for the Elimination Period
@@ -457,58 +452,10 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 1. TODO Outline process to return the team member to work
 
 #### Maternity Leave STD Form - Team Member to fill out:
-    - General Demographics (page 3): Name, SSN, address, phone number, date of birth, gender and marital status. 
-    - Employment and Claim Information (page 4):
-      - Date of hire
-      - Date you first noticed symptoms of illness/injury: When the symptoms of the pregnancy developed
-      - Date last worked: Due date of birth
-      - Hours worked that day: 8
-      - What date do you expect to return to work: Anticipated date of return
-      - When were you first treated for your injury or illness? First Prenatal appointment 
-    - Have you ever had the same similar condition in the past? Y if you have been pregnant before, N if it is your first pregnancy
-    - Have you returned to work: n/a
-    - Your occupation: Your job title
-    - What parts of your job are you unable to do? n/a
-    - Please describe the onset and nature of your illness or injury: Pregnancy
-    - Is your claim a result of illness or accident: N
-    - Was your injury or illness due to an auto accident? N
-    - Were you injured at work? N
-    - Fill out your physician's details and dates of appointments
-    - Benefits and Earnings Information (page 5): Leave blank
-    - Tax Information (page 5): Fill out based on your individual tax preferences 
-    - Final Signature and Certification (page 5)
-    - Review and sign the Disclosure Authorization (page 6)
-    - Complete the Authorization of Personal Representative section (page 7) if there is someone involved in your care that you would like to be able to contact UHC in relation to your disability claim
-    - Have your physician complete the Attending Physician's Disability Statement (page 8)
+This section will be populated once we have the form from Cigna. 
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
-    - General Demographics (page 1):
-      - Employee's Name, SSN, address, phone number, date of birth, gender and marital status
-      - Employer's name, phone number, employer's address
-    - Employment and Claim Information (page 2): 
-       - Date of hire
-       - Last day worked: Estimated last day of work
-       - Insurance/division: Insurance Class
-       - Effective date of STD coverage: 2020-01-01 (until policy is renewed)
-       - Was coverage effective date within the last 12 months? Y
-       - Occupation: Team member's job title
-       - List employee's job duties: Add the link to the team member's job responsibilities
-       - Has employment been terminated? N
-       - Has employee returned to work? Leave blank
-       - If yes, return to work date? TBD
-       - Employee has returned to work in what capacity? Leave blank
-       - Are you willing to make return-to-work accommodations for the employee if needed? Y
-       - Was employee injured at work? N
-    - Benefits and Earning Information
-       - Does the employee contribute to the STD premium? N
-       - Is the employee also covered under a LTD or Life Insurance Policy provided by us? Check both LTD and Life
-       - If yes, do they contribute to the LTD premium? N
-       - If yes, do they contribute on a PRE or POST tax basis? Leave blank
-       - How is the employee paid? Add hourly rate if team member is getting paid per hour. If not, add the annual salary next to "Salaried"
-       - Does the employee eceive other work related income? Add the annual commission amount if team member receives variable pay.
-       - Is the employee currently receiving or eligible for any other income benefits? Leave blank
-    - Final Signature and Certification: Stage for signatures via HelloSign
-
+This section will be populated once we have the form from Cigna. 
 
 ### Payroll Processing During Parental Leave
 
@@ -527,7 +474,7 @@ For maternity leave, GitLab will verify 100% of the wages are paid for eligible 
     * For example, if there are 80 hours in the pay period you would input 26.66 hours Leave with Pay / 53.34 Leave without Pay.
 1. When short-term disability ends, payroll will need to have 100% of the hours fall under leave with pay.
 
-Note: Also, ensure the disability is not is not capped out at the current maximum or that will also need to be supplemented in each pay cycle.
+Note: Also, ensure the disability is not capped out at the current maximum or that will also need to be supplemented in each pay cycle.
 
 ## COBRA
 
@@ -547,42 +494,34 @@ If you are currently employed and have any general COBRA questions, feel free to
 
 **Medical**
 
-| Tier                           | UHC HSA   | UHC EPO (A/B) |  UHC PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
+| Tier                           | Cigna EPO   | Cigna HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
 |--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
-| Team Member Only               | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
-| Team Member + Domestic Partner | $813.61   |   $1,088.96   | $1,086.49  |     $1,159.72     |     $1,159.72    |    $1,376.71   |   $963.66    |
-| Team Member + Spouse           | $813.61   |   $1,088.96   | $1,086.49  |     $1,159.72     |     $1,159.72    |    $1,376.71   |   $963.66    |            
-| Team Member + Child(ren)       | $705.88   |   $944.76     | $942.61    |     $1,024.48     |     $1,024.48    |    $1,251.56   |   $867.29    |
-| Family                         | $1,129.41 |   $1,511.63   | $1,508.19  |     $1,521.31     |     $1,521.31    |    $1,877.34   |   $1,445.49  |
-| Spouse Only                    | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
-| Spouse + Child(ren)            | $705.88   |   $944.76     | $942.61    |     $1,024.48     |     $1,024.48    |    $1,251.56   |   $867.29    |
-| Child Only                     | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
+| Team Member Only               | $562.21   |   $423.75     | $549.39   |     $532.72       |     $532.72      |    $734.04     |   $495.41    |
+| Team Member + Domestic Partner | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19    |    $1,614.88   |   $990.83    |
+| Team Member + Spouse           | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19   |    $1,614.88   |   $990.83    |            
+| Team Member + Child(ren)       | $1,063.98   |   $797.22     | $1,039.70    |     $1,086.73     |     $1,086.73   |    $1,468.08   |   $891.75    |
+| Family                         | $1,699.62 |   $1,270.30   | $1,660.70  |     $1,613.74     |     $1,613.74    |    $2,202.12   |   $1,486.24  |
+
 
 **Dental**
 
 | Tier                           | Cigna DPPO |
 |--------------------------------|:----------:|
-| Team Member Only               |   $38.99   |
-| Team Member + Domestic Partner |   $77.48   |
-| Team Member + Spouse           |   $77.48   |
-| Team Member + Child(ren)       |   $89.62   |
-| Family                         |   $137.49  |
-| Spouse Only                    |   $38.99   |
-| Spouse + Child(ren)            |   $89.62   |
-| Child Only                     |   $38.99   |
+| Team Member Only               |   $39.77   |
+| Team Member + Domestic Partner |   $79.03   |
+| Team Member + Spouse           |   $79.03   |
+| Team Member + Child(ren)       |   $91.41   |
+| Family                         |   $140.24  |
 
 **Vision**
 
 | Tier                           | Cigna VPPO |
 |--------------------------------|:----------:|
-| Team Member Only               |   $7.51    |
-| Team Member + Domestic Partner |   $15.05   |
-| Team Member + Spouse           |   $15.05   |          
-| Team Member + Child(ren)       |   $12.74   |
-| Family                         |   $21.01   |
-| Spouse Only                    |   $7.51    |
-| Spouse + Child(ren)            |   $12.74   |
-| Child Only                     |   $7.51    |
+| Team Member Only               |   $7.66    |
+| Team Member + Domestic Partner |   $15.35   |
+| Team Member + Spouse           |   $15.35   |          
+| Team Member + Child(ren)       |   $12.99   |
+| Family                         |   $21.43   |
 
 ## Audit Processes
 

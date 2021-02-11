@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Canada Corp"
+title: "Gitlab Canada Corp"
+description: "GitLab Canada Corp benefits specific to Canada based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
@@ -100,7 +101,7 @@ GitLab team members enrolled in Canada Life have the option of Akira Virtual Car
 
 ## PTO and Vacation Information
 
-GitLab Canada Corp's statutory vacation requirements are found on the [GitLab PTO handbook page](/handbook/paid-time-off/#statutory-vacation-requirements).
+GitLab Canada Corp's statutory vacation requirements are found on the [GitLab PTO handbook page](/handbook/paid-time-off/#statutory-vacation-requirements). Vacation time runs concurrently with GitLab PTO. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
 
 ## Sick Pay
 Ontario - Employees are entitled to up to three full days of job protected unpaid sick leave every calendar year under the Employment Standards Act (ESA). Leave under ESA runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.

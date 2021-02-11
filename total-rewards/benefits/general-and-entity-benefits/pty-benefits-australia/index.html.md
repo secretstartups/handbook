@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "PTY LTD Benefits"
+description: "GitLab PTY Australia benefits specific to Australia based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
@@ -54,9 +55,38 @@ GitLab does not plan to offer life insurance at this time as Australians can acc
 * Team members are entitled to 4 weeks of paid leave each year, which runs concurrently with GitLab PTO and accumulates from the first day of employment. Any unused annual leave rolls over to the following year.
 * Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. When taking vacation time, team members must select the `Vacation` option in PTO by Roots to ensure this time is properly tracked.  Annual leave does not expire and may be carried over year to year.  For team members who are not covered by a modern award or enterprise agreement, they may be asked to take a period of paid annual leave if such request is reasonable, such as when a team member has accrued an excessive amount of paid annual leave.
 
-**Sick Leave**
-* Team members are entitled to 10 days of sick/carer's leave each year. This leave runs concurrently with GitLab PTO.
-* Sick and carer's leave, also known as personal/carer's leave fall under the same statutory leave entitlement. Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
+### On-Call (Engineering only)
+
+Certain groups in the Engineering division are expected to participate in on-call for business continuity and/or customer support. For more details on the on-call procedure, please reference the [on-call page](https://about.gitlab.com/handbook/on-call/). The purpose of this section is to provide an overview of **time in lieu that will be offered for the Development and Infrastructure departments effective February 1, 2021.** We will continue to review and implement to other departments within Engineering iteratively.
+
+With our global team, we strive for a "follow the sun" model for on-call rotation. This way, team members can participate in on-call during their daytime rather than their nighttime in their respective regions (APAC, EMEA and AMER). In APAC, the majority of the team members are located in Australia. We want to ensure engineers in Australia are 1) eligible to volunteer for on-call shifts, and 2) stay aligned with local laws to ensure proper rest/recovery time after on-call shifts.
+
+Engineers based in Australia who are part of the Development and Infrastructure departments will be eligible for time in lieu after on-call shifts. Time in lieu is time off from work that is granted to team members to work outside of standard working hours (I.E. ordinary hours).
+
+##### How much time in lieu will I receive for volunteering for on-call shifts?
+
+* 4-hour shift = ½ day time in lieu
+* 8-hour shift = 1 day time in lieu
+* 24-hour shift = 3 days time in lieu 
+
+_Note: The full shift (state of readiness) is compensated by time in lieu - rather than only the "actual time worked"_
+
+##### What should I do when I want to take more time off after an on-call shift?
+
+If you need additional time to ensure a good work/life balance, on top of the time in lieu, you can leverage our Unlimited [PTO policy as described here](https://about.gitlab.com/handbook/paid-time-off/#paid-time-off). 
+
+##### When can time in lieu be taken?
+
+Time in lieu should be taken _within 2 weeks after completion of the on-call shift_. We want to ensure that time in lieu is taken close to the on-call shift to ensure that team members have sufficient time to rest.
+
+##### Do all on-call shifts result in time in lieu?
+
+No, only on-call shifts outside of working hours (I.E. weekends, evenings, etc.). _Please note that not all teams require weekend or evening on-call shifts, so this may not be applicable for all._
+
+##### How do I request time in lieu?
+
+Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) by selecting the `On-Call Time in Lieu` option.
+
 
 ### GitLab PTY Australia Parental Leave Administrative Details
 

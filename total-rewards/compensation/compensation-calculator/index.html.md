@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: The Compensation Calculator
+description: "On this page, we explain the different factors that make up our Compensation Calculator and its alignment to GitLab's values and Compensation Principles."
 ---
 
 ## On this page

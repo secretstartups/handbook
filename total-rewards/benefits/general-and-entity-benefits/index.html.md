@@ -76,7 +76,7 @@ If the course is over [$500 USD](/handbook/total-rewards/compensation/#exchange-
 * If you are a part-time GitLab team member, you may still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis.
 
 **What courses are eligible for reimbursement?**
-* Courses must be a requirement of a degree or certification program and delivered through a credentialed college or university or effective online education such as [Udacity](https://www.udacity.com/).
+* Courses must be a requirement of a degree or certification program and delivered through a credentialed college or university, an industry-recognized certification body, or effective online education such as [Udacity](https://www.udacity.com/).
 * There is no limit to the number of years a team member can participate in the program.
 * Courses eligible for reimbursement include classes for credit resulting in a grade (not pass/fail), courses providing continuing education credits, and/or courses taken as part of a certification program. You must earn a passing grade equivalent to a “B” or obtain a successful completion certification to submit for reimbursement.
 * A completed [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) (per the process below) along with a final grade report or satisfactory certificate of completion are required to receive reimbursement.
@@ -177,7 +177,7 @@ To apply for this program, please send a completed [Your 4th Trimester Form](htt
 1. Once a completed form has been sent to Total Rewards, the team will process for final approval. 
 1. When all signatures are complete, Total Rewards will file the form in BambooHR. 
 1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia and some cases in Belgium), notify payroll.
-1. Total Rewards will send an introductary email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date, and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
+1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date, and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
 
 **Monthly Reporting:**
 GitLab will provide Your 4th Trimester with a report monthly of any team members with an upcoming parental leave: expected leave date, expected return to work date, date of birthing event, country, whether the person has already opted in, and maternity or paternity leave. The purpose of this monthly report is to ensure Your 4th Trimester can plan accordingly to the volume of coaching for GitLab team members. 
@@ -228,7 +228,16 @@ You can find more details on the [All Remote](/company/culture/all-remote/) page
 _If you are already a GitLab employee and would like to share your story, simply add a `remote_story:` element to your entry in `team.yml` and it will appear
 on that page._
 
-### Meal Train
+
+### Part-time contracts
+
+As part of our Diversity, Inclusion & Belonging  value, we support [Family and friends first](/handbook/values/#family-and-friends-first-work-second) approach. This is one of the many reasons we offer part-time contracts in some teams.
+
+We are growing fast and unfortunately, not all teams are able to hire part-time team members yet. There are certain positions where we can only hire full-time team members.
+
+Candidates can ask for part-time contract during the interview process. Even when a team they are interviewing for can't accept part-time team members, there might be other teams looking for the same expertise that might do so. If you are a current team member and would like to switch to a part-time contract, talk to your manager first.
+
+## Meal Train
 
 In order to foster a sense of community and support fellow GitLab team members, if a team member is in need or experiencing a life disruption, they have the option of having a Meal Train started for them. A Meal Train is when a community comes together to support someone experiencing a difficult or disrupting event in their life who would benefit from having a meal provided to them during this time. 
 
@@ -239,7 +248,7 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
 * Extended illnesses
 * Condolences
 
-#### Instructions for starting a Meal Train
+### Instructions for starting a Meal Train
 
 1. You may create a Meal Train for yourself or for a fellow team member. If you are not the recipient of the Meal Train, please receive approval from the team member first and forward this to the Total Rewards team. We highly encourage managers to reach out to their team member to see if they would like a Meal Train if the manager informs them of a life disruption.
 1. When creating a Meal Train, please create this in GitLab using the [Meal Train issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/blob/master/.gitlab/issue_templates/meal_train.md).
@@ -248,7 +257,7 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
     * The Total Rewards team is also happy to create the issue on your behalf if you send the form details to total-rewards@ domain. 
 1. The issue template has 5 pre-populated entries to add a date to, but the Meal Train can be longer or shorter than this. Please add as many dates that are needed and if at the end, you feel more are needed, please add the additional dates and notify the Total Rewards Analyst assigned to the issue that you have added dates so they can help gather support.
 
-#### Instructions for participating in a Meal Train
+### Instructions for participating in a Meal Train
 
 1. All Meal Trains are posted by a Total Rewards Analyst in the #whats-happening-at-gitlab and #total-rewards slack channels. You can also check the [Total Rewards issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues) where all Meal Trains will be designated as such. 
 1. If there is a Meal Train occuring, please read through the entire issue. If you are interested in participating, please edit the issue and add your name to the date you would like to contribute to. There is also a field to add the meal you will be providing or the meal delivery service you intend to gift. More instructions for how to proceed as a team member will be located in the issue.
@@ -258,48 +267,27 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
 
 If you have any questions, please reach out to the Total Rewards team.
 
-### Part-time contracts
-
-As part of our Diversity, Inclusion & Belonging  value, we support [Family and friends first](/handbook/values/#family-and-friends-first-work-second) approach. This is one of the many reasons we offer part-time contracts in some teams.
-
-We are growing fast and unfortunately, not all teams are able to hire part-time team members yet. There are certain positions where we can only hire full-time team members.
-
-Candidates can ask for part-time contract during the interview process. Even when a team they are interviewing for can't accept part-time team members, there might be other teams looking for the same expertise that might do so. If you are a current team member and would like to switch to a part-time contract, talk to your manager first.
-
 ## Parental Leave
 
 GitLab offers anyone (regardless of gender) who has been at GitLab for six months and completed a [probationary period](/handbook/contracts/#probation-period) (if applicable) up to **16 weeks of 100% paid time off** during the first year of parenthood. This includes anyone who becomes a parent through childbirth or adoption. The 16-week balance is per birth or adoption event. If you live in a country where a statutory parental leave benefit is available, you will be required to claim statutory parental leave pay (if you are eligible) and GitLab will supplement any gaps. 
 
 We encourage parents to take the time they need. GitLab team-members will be encouraged to decide for themselves the appropriate amount of time to take and how to take it. For many reasons, a team member may require more time off for parental leave. Many GitLab members are from countries that have longer standard parental leaves, occasionally births have complications, and sometimes 16 weeks just isn't enough. Any GitLab team member can request additional unpaid parental leave, up to 4 weeks. We are happy to address anyone with additional leave requests on a one-on-one basis. All of the parental leave should be taken in the first year.
 
-If you have been at GitLab for a six months and completed your probationary period your parental leave is fully paid. If you've been at GitLab for less than a six months, it depends on your jurisdiction. If you don't meet the eligibility requirement as you haven't been at GitLab for 6 months, you can use our [Paid Time Off policy](/handbook/paid-time-off/#paid-time-off).
+If you have been at GitLab for a six months and completed your probationary period your parental leave is fully paid. If you've been at GitLab for less than a six months it depends on your jurisdiction. If applicable, commissions are paid while on parental leave based on the prior twelve months of performance with a cap at 100% of plan. For example, if in the twelve months prior to starting parental leave you attained 85% of plan, you will be compensated at the same rate while on leave. On the day you return from leave and going forward, your commissions will be based on current performance only. The rate of commissions paid during your leave will be confirmed by the sales commissions team and communicated to the team member through the total rewards team prior to your leave start date. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
 
-If applicable, commissions are paid while on parental leave based on the prior six months of performance with a cap at 100% of plan. For example, if in the six months prior to starting parental leave you attained 85% of plan, you will be compensated at the same rate while on leave. On the day you return from leave and going forward, your commissions will be based on current performance only. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
-
-You are more than welcome to send an e-mail to Total Rewards if you have any questions about taking Parental Leave. You may also send us an e-mail to schedule a 1:1 call with Total Rewards if you need any support regarding Parental Leave.
-
-### Country-Specific Parental Leave Policies
+Additionally, commissioned roles are eligible to receive quota relief during their parental leave if the team member has been with GitLab for eight months or longer. The team member will recieve credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave.  After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would recieve an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated OTI based off the number of days that a team member is in seat. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
 
 You are entitled to and need to comply with your local regulations. They override our policy.
 
-Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your country's leave policy:
-
-* [GitLab Inc. United States Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#gitlab-inc-united-states-leave-policy)
-    * [GitLab Inc. China Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-china/#gitlab-inc-china-leave-policy)
-    * [GitLab B.V. Netherlands Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-netherlands/#gitlab-bv-netherlands-leave-policy)
-    * [GitLab B.V. Belgium Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium/#gitlab-bv-belgium-leave-policy)
-    * [Global Upside India Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
-    * [GitLab LTD United Kingdom Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk/#gitlab-ltd-united-kingdom-leave-policy)
-    * [GitLab GmbH Germany Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/gmbh-benefits-germany/#gitlab-gmbh-germany-leave-policy)
-    * [GitLab PTY Australia Leave Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#gitlab-pty-australia-parental-leave-administrative-details)
+Some countries require extra paperwork or have specific leave requirements, which are subject to change as legal requirements change. Please take a look at your [country's leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits).
 
 ### How to Initiate Your Parental Leave
 
-Some teams require more time to put a plan of action in place so we recommend communicating your plan to your manager at least 3 months before your leave starts. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) (if any). You must initiate your Parental Leave at least 30 days before the leave starts.
+Some teams require more time to put a plan of action in place so we recommend communicating your plan to your manager at least 3 months before your leave starts. In the meantime, familiarize yourself with the steps below and specific leave requirements in your [country](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#general-and-entity-benefits) (if any). 
 
-To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Your manager and the Total Rewards team will get notified after you submit your leave. Total Rewards will send you an e-mail within 48 hours confirming that they've been notified of your Parental Leave dates.
+**To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.** We understand that parental leave dates may change. You can edit your PTO by Roots at a later time if you need to adjust the dates of your parental leave. It's important that you submit a tentative date at least 30 days in advance. Your manager and the Total Rewards team will get notified after you submit your leave. Total Rewards will send you an e-mail within 48 hours confirming that they've been notified of your Parental Leave dates.
 
-Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave at least 30 days before your leave starts.
+Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave **at least 30 days before your leave starts.**
 
 ### Planning Your Parental Leave Dates
 
@@ -307,7 +295,7 @@ Your 16 weeks of parental leave starts on the first day that you take off. This 
 
 If you don't meet the initial requirements for paid leave, GitLab payroll coverage begins once you meet the requirements. Until then, you will not receive pay.  If for example, you are someone who qualifies after 6 months at Gitlab and then goes on leave at the start of your 120th day at GitLab, you would not receive payment from GitLab for the first 60 days. You would receive payment from GitLab for up to 60 additional days taken within a year from the birth event.
 
-You can change the dates of your parental leave via PTO by Roots. Total Rewards will receive a notification everytime you edit your Parental Leave dates. Make sure your leave is under the Parental Leave category, otherwise Total Rewards won't get a notification.
+You can change the dates of your parental leave via PTO by Roots. Total Rewards will receive a notification every time you edit your Parental Leave dates. Make sure your leave is under the Parental Leave category, otherwise Total Rewards won't get a notification.
 Please note, if you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to Total Rewards.
 
 ### Taking PTO After Taking Parental Leave
@@ -328,10 +316,9 @@ If you're interested in learning about how other GitLab team members approach pa
 ### Process for Total Rewards Analysts
   * PTO by Roots will notify Total Rewards of any upcoming parental leave.
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
-  * Notify the team member that the parental leave request was received by sending the confirmation e-mail (Only send this e-mail if the team member is starting their parental leave. Team members who are splitting their leave or changing the dates of their original leave request do not need to receive the confirmation e-mail again).
+  * Notify the team member that the parental leave request was received by sending the confirmation e-mail template (only send this e-mail if the team member is starting their parental leave. Team members who are taking their leave intermittently or changing the dates of their original leave request do not need to receive the confirmation e-mail again).
   * Notify payroll - add the start date and end date on the payroll changes file ("Payroll Changes" sheet for team members in the US, "Canada Payroll Changes" sheet for team members in Canada and "Non-US Payroll Changes" sheet for everyone else). Ensure the entry is under the appropriate pay cycle date.
-  * Update the BambooHR Employment Status of the team member to "Parental Leave" with the start date of the leave.
-  * Add another entry with the date the team member will return from leave with the status "End of Parental Leave".
+  * PTO by Roots will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually. 
   * Check local statutory requirements and if applicable, arrange any paperwork and liaise with appropriate parties (such as the PEO and payroll team) to initiate the parental leave.
   * 1 day before the End of Parental Leave date, BambooHR will send a notification to Total Rewards. Confirm the team member's return by sending the return to work e-mail to the team member and manager. If the team member or manager doesn't reply at least 1 business day after the End of Parental Leave Date, follow up again or ping the manager to confirm the team member has returned from leave.
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
