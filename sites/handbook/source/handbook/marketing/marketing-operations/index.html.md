@@ -239,7 +239,6 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 </summary>
 
 - [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
-- [Cookiebot](/handbook/marketing/marketing-operations/cookiebot)
 - Disqus
 - Eventbrite
 - Figma
