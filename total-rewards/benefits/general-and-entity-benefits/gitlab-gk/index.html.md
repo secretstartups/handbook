@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab GK (Japan) Benefits"
+description: "Discover GitLab's benefits for team members in Japan"
 ---
 
 ## On this page

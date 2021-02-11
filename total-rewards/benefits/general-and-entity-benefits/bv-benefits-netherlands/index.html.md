@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab BV (Netherlands) Benefits"
+description: "GitLab BV (Netherlands) benefits specific to Netherlands based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).
@@ -18,7 +19,7 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 ## Vacation Money
 
 Dutch team members get the customary month of vacation money (Vakantiegeld) in the month of May, as defined [by the government](https://www.rijksoverheid.nl/onderwerpen/vakantiedagen-en-vakantiegeld/vraag-en-antwoord/hoe-hoog-is-mijn-vakantiegeld).
-Note that Vakantiegeld is built into offers as well as our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator).
+Note that Vakantiegeld is built into offers as well as our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/).
 
 Note that you can choose to have your vacation money distributed throughout the year.
 To request a change in the way you receive this, please reach out to peopleops@gitlab.com. [This template](https://docs.google.com/document/d/1IizjvTbZsAz1gCq5uYHlxhVvRW8LaEAlMrbHPHkgs1E/edit) should be completed by a member of the People Operations Specialist team, signed by GitLab and the team member and then send to HRSavvy to request the change.
@@ -33,11 +34,27 @@ GitLab does not plan on adding additional medical cover at this time due to the 
 
 ## Pension
 
-State pension (AOW) is standard and will be paid out at retirement age. There is no additional pension scheme through GitLab.
+State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [Brand New Day](https://new.brandnewday.nl/) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 3.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 1%. The pension base equals the pensionable salary less the state pension offset.
 
-GitLab will continue to review responses from the [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey/#global-benefits-survey) as well as budgetary availability to advise on implementing a private pension plan in the future.
+**Pension Plan Summary:**
+* Pension: The Pension plan is designed for team members to build up an invested pension fund that they cash in to purchase a retirement
+pension and a partner's pension that pays benefits upon their death after their retirement via monthly contributions. 
+* Death Benefits: If a team member dies while in service and before the retirement date, the partner and/or children will receive death benefits. This is a life-long retirement pension for the partner and a temporary dependant's pension for their children which pays benefits on the death of the team member. 
+* Incapacity for Work: This is a waiver of premium for incapacity for work. If a team member becomes partially or fully incapacitated for
+work, this portion of the plan continues to pay part or all of the pension contributions for team members to keep building up their pension fund and remain covered for the elected benefits. 
+
+**Voluntary Pension Plan Summary:**
+* Extra Pension: Team members can make additional voluntary contributions to have extra funds to purchase a retirement pension and a partner's pension that pays benefits upon their death after retirement.
+* Extra Death Benefits: Team members with a partner have the option of insuring an extra partner's pension upon their death prior to the retirement date. The following [doc](https://drive.google.com/file/d/1NGD1MNEqYI-acKECh7xNR73su_c-xesK/view?usp=sharing) outlines additional information on how the voluntary ANW-gap pension works. 
+
+**Individual value transfer:**
+A team member can have the pension value accrued at a former employer transferred to Brand New Day. An individual value transfer must be requested from Brand New Day within six months of joining the scheme. Once this is complete, the years of service at any former employers count towards Death Benefits. 
+
+**Investment Profile:**
+Team members choose their own investment profile: neutral, defensive or offensive or their own mix of equities and bonds, within the limits set by Brand New Day. Furthermore, you can choose to put all the contributions in a savings fund.
 
 ## Life Insurance
+
 GitLab does not offer life insurance in the Netherlands at this time. Team members are automatically covered up to 70% of their last wage in case of disability by the governmental Employee Insurance Agency.
 
 ## 30% Tax Ruling
@@ -60,6 +77,9 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
   - Within 6 months of the birth you are also entitled to 5 weeks of additional paid leave at 70% (["Aanvullend geboorteverlof"](https://www.rijksoverheid.nl/onderwerpen/geboorteverlof-en-partnerverlof/geboorteverlof-voor-partners)).
   - Team members who have children under the age of eight are entitled to take unpaid parental leave. In the case of a family with more than one child under the age of eight, that right is applicable for each child. The number of hours' leave is thirteen times the weekly working hours (65 days for full-time employment). However, no more than half of the number of weekly working hours can be taken each week.
   - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they superside the statutory leave benefits.
+
+* Vacation Leave
+  - Team members are entitled to at least 20 vacation days per year which run concurrently with GitLab PTO. The days will accrue at 1.67 days/month from the team member's start date. Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata part vacation days exists. Team members must designate all vacation days taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
 
 People Ops will consult with HRSavvy to ensure that the statute is met.
 
