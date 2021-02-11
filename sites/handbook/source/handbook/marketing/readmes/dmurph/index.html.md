@@ -30,6 +30,8 @@ Please feel free to contribute to this page by opening a merge request. (*Also, 
 
 ## What is a Head of Remote?
 
+I pioneered the Head of Remote role. The full backstory of this role's origin is found in a [dedicated Head of Remote guide](/company/culture/all-remote/head-of-remote/).
+
 I work at the intersection of culture, operations, people, talent branding, marketing, and communication. 
 
 * I collaborate with all functions of the business to support GitLab clients and partners seeking guidance on mastering remote workflows and building culture. 
@@ -38,6 +40,7 @@ I work at the intersection of culture, operations, people, talent branding, mark
 * I work across the company to ensure that GitLab team members [acclimate well](/company/culture/all-remote/getting-started/) to remote, give themselves permission to embrace our [values](/handbook/values/) and operate with [remote-first workflows](/company/culture/all-remote/how-to-work-remote-first/), and [share our learnings](/handbook/marketing/corporate-marketing/#evangelism-materials) with those outside of the GitLab organization. 
 
 For more on this topic, I've shared [17 questions that this role answers](https://www.linkedin.com/pulse/remote-work-transformation-full-time-job-why-you-need-darren-murph/), detailing why it is vital in companies which are [transitioning to remote](/company/culture/all-remote/transition/).
+
 
 ### Conversations and interviews
 
