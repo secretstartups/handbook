@@ -139,79 +139,87 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | Alliances Keynote: Winning is a Team Sport! | slides (coming soon) | video (coming soon) |
 | Closing Keynote: It's Time for Peak Performance | slides (coming soon) | video (coming soon) |
 
+## SKO Awards Ceremony
+ ([slides]()) (GitLab internal)
+FY21 SKO - President's Club
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| SKO FY21 Awards Ceremony | [slides](https://docs.google.com/presentation/d/1ur1lNCIqLutvsZQdaP8Gt8lQ-OWsEB-Lr2Vvxt99oxc/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| FY21 SKO - President's Club | [slides](https://docs.google.com/presentation/d/11jEBujHeSDjGPvhmjYIhaMt7BzyaJXknfN47o3_nuEI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+
 ## SKO 2021 Role-Based Breakout Sessions
 
 ### Enterprise Sales Strategic Account Leaders
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Landing New Logos | slides (coming soon) | video (coming soon) |
-| Expand Strategy Into Security and Plan | slides (coming soon) | video (coming soon) |
-| Account Planning: Master the Climb | slides (coming soon) | video (coming soon) |
-| Pivoting the Pricing Conversation | slides (coming soon) | video (coming soon) |
+| Landing New Logos | [slides](https://docs.google.com/presentation/d/1LlbAppVrITBviI5_fM_JeEhDh7eUfnV50LhXiuu1xzI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Expand Strategy Into Security and Plan | [slides](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Account Planning: Master the Climb | [slides](https://docs.google.com/presentation/d/1JPWozZ83z1kStjpo7d0gQV4sq5MLGWKg-ZpXA2qlfiw/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Pivoting the Pricing Conversation | [slides](https://docs.google.com/presentation/d/12VxCqUkLAOMrCA5Af3MYwiUyy-nkxbr33bwa9IJfFG8/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ### Commercial Sales Account Executives
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Co-Selling with Services Partners | slides (coming soon) | video (coming soon) |
-| Pitching to the Economic Buyer | slides (coming soon) | video (coming soon) |
-| Placing Customers in the Right Tier | slides (coming soon) | video (coming soon) |
-| Finding the "Why Now" | slides (coming soon) | video (coming soon) |
+| Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Pitching to the Economic Buyer | [slides](https://docs.google.com/presentation/d/1XY04MGHsS17LnT_KdqF62op6hK1v34flb9roAvq9miE/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Placing Customers in the Right Tier | [slides](https://docs.google.com/presentation/d/1FrJ9Xgh83l1lYn3jXOYM3aGbdd1XautBHlXoXd1MoCU/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Finding the "Why Now" | [slides](https://docs.google.com/presentation/d/1oli6HEGT7lStuEZ4MD5tL_ndl_TKEQveVHX5RRscTrs/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ### Channel Sales Account Managers
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Co-Selling with Services Partners | slides (coming soon) | video (coming soon) |
-| Planning for Joint GitLab and Partner Success | slides (coming soon) | video (coming soon) |
-| Growing Our Partner Business (Individual and CSM Partner Portfolio) | slides (coming soon) | video (coming soon) |
-| Building Pipeline with Your Partners - MDF and Marketing Campaigns | slides (coming soon) | video (coming soon) |
+| Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Planning for Joint GitLab and Partner Success | [slides](https://docs.google.com/presentation/d/1Bw-kIgYlIfX4kyOS4Wgb_k0PjXJ3u4-WdD0b4xxWhtU/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Growing Our Partner Business (Individual and CSM Partner Portfolio) | [slides](https://docs.google.com/presentation/d/126nNQ5VX-kFNVxfI1YBQL9uWo9EVh3P7tmabQwAX2UI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ### Solution Architects
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Landing New Logos | slides (coming soon) | video (coming soon) |
-| Expand Strategy Into Security and Plan | slides (coming soon) | video (coming soon) |
-| Strategies to Win Without a Long PoV (Proof of Value) | slides (coming soon) | video (coming soon) |
-| Leveling Up the Conversation with the 5 Whys | slides (coming soon) | video (coming soon) |
+| Landing New Logos | [slides](https://docs.google.com/presentation/d/1LlbAppVrITBviI5_fM_JeEhDh7eUfnV50LhXiuu1xzI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Expand Strategy Into Security and Plan | [slides](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Strategies to Win Without a Long PoV (Proof of Value) | [slides](https://docs.google.com/presentation/d/1TfrWlH6lhGbbBd0y6LOL5SYYvoqCgGz0fW1o_GBMn-U/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ### Technical Account Managers
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Account Based Strategy & Marketing for Customers | slides (coming soon) | video (coming soon) |
-| Expand Strategy Into Security and Plan | slides (coming soon) | video (coming soon) |
-| Embracing Differences with Social Styles | slides (coming soon) | video (coming soon) |
-| Leveling Up the Conversation with the 5 Whys | slides (coming soon) | video (coming soon) |
+| Account Based Strategy & Marketing for Customers | [slides](https://docs.google.com/presentation/d/1Ea1Fa7q7sXa_O552xlrJwHWf8YXFS7YCTIErjEJxMo0/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Expand Strategy Into Security and Plan | [slides](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Embracing Differences with Social Styles | [slides](https://docs.google.com/presentation/d/1c8HQHPzNLIK68LA7QSEEFuekeNEB45VlTCzQP_qDN2c/edit?usp=sharing) (GitLab internal) | no video |
+| Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ### Professional Services Engineers
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| How to Work with Partners: Tactically and Technically | slides (coming soon) | video (coming soon) |
-| Professional Services Methodology: Step by Step | slides (coming soon) | video (coming soon) |
-| Using Congregate to Migrate Customers to GitLab | slides (coming soon) | video (coming soon) |
-| Leveling Up the Conversation with the 5 Whys | slides (coming soon) | video (coming soon) |
+| How to Work with Partners: Tactically and Technically | [slides](https://docs.google.com/presentation/d/1k0MjqEnu6-zp7SyeZGddRfCeEx_iG3CYIg2l237hlc0/edit?usp=sharing) (GitLab internal) | no video |
+| Professional Services Methodology: Step by Step | slides (coming soon) | no video |
+| Using Congregate to Migrate Customers to GitLab | [slides](https://docs.google.com/presentation/d/1YL_A4uhrtPfUfPNzrJRq6stDFhMw-k4-jKOH-65LLaY/edit?usp=sharing) (GitLab internal) | no video |
+| Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ### Sales Development Reps
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Thriving as a Remote SDR: From Cold-calling Jiu-jitsu to Planning Long Term Career Success | slides (coming soon) | video (coming soon) |
-| Converting Free to Paid | slides (coming soon) | video (coming soon) |
-| SDR Competitive Blueprint | slides (coming soon) | video (coming soon) |
-| Security: Our Biggest Differentiator | slides (coming soon) | video (coming soon) |
+| Thriving as a Remote SDR: From Cold-calling Jiu-jitsu to Planning Long Term Career Success (featuring Tito Bohrt) | no slides | [video](https://drive.google.com/file/d/1CF_U1GnYPuGuZEeE9vwQpLdFqRRb3rVc/view?usp=sharing) (GitLab internal) |
+| Converting Free to Paid | [slides](https://docs.google.com/presentation/d/1VtKYJXowqh8amuW6opg2HzAJfhoOD_9PEEIVoAzF6CU/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| SDR Competitive Blueprint | [slides](https://docs.google.com/presentation/d/1RPkiF99Ogq7xr9S87tG5pQKYOHQVnlWok31beeTdHlY/edit?usp=sharing) (GitLab internal) | no video |
+| Security: Our Biggest Differentiator | [slides](https://docs.google.com/presentation/d/1Rog--UoCV71SvbdMdgkpMwY_s29tb8B5R2vR77J5jAQ/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ### Field Marketing
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Account Based Strategy & Marketing for Customers | slides (coming soon) | video (coming soon) |
-| Field Marketing Goals for FY22 | slides (coming soon) | video (coming soon) |
-| AMA (Ask Me Anything): Field Marketing Manager (FMM) reporting | slides (coming soon) | video (coming soon) |
-| Building Pipeline with Your Partners - MDF and Marketing Campaigns | slides (coming soon) | video (coming soon) |
+| Account Based Strategy & Marketing for Customers | [slides](https://docs.google.com/presentation/d/1Ea1Fa7q7sXa_O552xlrJwHWf8YXFS7YCTIErjEJxMo0/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Field Marketing Goals for FY22 | [slides](https://docs.google.com/presentation/d/1u1EOXR8WJsf464ILjMoun8gne2gazU9pGfHHjensp2c/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ----
 
