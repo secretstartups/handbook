@@ -57,12 +57,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 #### AMER
 
-For the United States, the following rules apply to all accounts **except** government agencies or publicly-funded educational institutions or departments, including those at private universities (Johns Hopkins Applied Physics Lab, for example). Government agencies and publicly-funded educational institutions will be managed by our [Public Sector](#public-sector) team.
-
-For other countries outside AMER, governments agencies will be handled by the territory owner.
-
-**Named Account identifiers will be updated in near future and currently are being worked on by the SalesOps team (status as of 2020-01-23)**
-
 ##### Area Sales Manager
 
 {:.no_toc}
@@ -75,50 +69,52 @@ For other countries outside AMER, governments agencies will be handled by the te
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Timm Ideker
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
-| ---------- | ---- | -------------- | ----- | --- |
-| NA East | Northeast | **Large-AMER-Eastern Canada** | Peter McCracken | Aashish Sharma |
-| NA East | Northeast | **Large-AMER-Ontario** | Peter McCracken | Aashish Sharma |
-| NA East | Northeast | **Large-AMER-Mass** | Tony Scafidi | Bill Zaferopolos |
-| NA East | Northeast | **Large-AMER-Manhattan** | Liz Corring | Max Chadliev |
-| NA East | Northeast | **Large-AMER-Northeast** | Tony Scafidi | Bill Zaferopolos |
-| NA East | Northeast | **Large-AMER-Mid-Atlantic** | Katherine Evans | Kelsey Steyn |
-| NA East | Northeast | **Large-AMER-NY/NJ** | Paul Duffy | Andrew Glidden |
-| LATAM | Southeast | **Large-AMER-LATAM North** | Carlos Dominguez | Bruno Lazzarin |
-| LATAM | Southeast | **Large-AMER-LATAM South** | Jim Torres | Bruno Lazzarin |
-| NA East | Southeast | **Large-AMER-Central Gulf Carolinas** | Chris Graham | Shakarra MCGuire |
-| NA East | Southeast | **Large-AMER-SunshinePeach** | Jim Bernstein | Bill Zaferopolos |
-| NA East | Central | **Large-AMER-Lake Michigan** | Tim Kuper | Marcus Stangl |
-| NA East | Central | **Large-AMER-Ohio Valley** | Ruben Govender | Morgen Smith |
-| NA East | Central | **Large-AMER-TOLA** | Matt Petrovick | Brandon Brooks |
-| NA East | Central | **Large-AMER-TOLA2** | Brandon Greenwell | Brandon Brooks |
-| NA East | Named East | **Named Accounts** | Mark Bell | Steven Cull |
-| NA East | Named East | **Named Accounts** | John May | Ryan Kimball |
-| NA East | Named East | **Named Accounts** | Jordan Goodwin | Marcus Stangl |
-| NA East | Named East | **Named Accounts** | David Wells | Kaleb Hill |
-| NA East | Named East | **Named Accounts** | Larry Biegel | Geraldine Lee |
-| NA East | Named East | **Named Accounts** | John Orvos | Ryan Kimball |
-| NA West | Midwest | **Large-AMER-Midwest** | Timmothy Ideker* | TBD |
-| NA West | Midwest | **ENT-MW-Named 1** | Philip Wieczorek | Paul Oakley |
-| NA West | Midwest | **ENT-MW-Named 2** | Timmothy Ideker* | TBD |
-| NA West | PNW | **ENT-PNW-Named 1** | Joe Drumtra | Eduardo Gonzalez |
-| NA West | PNW | **ENT-PNW-Named 2** | Chris Mayer | Suzy Verdin |
-| NA West | PNW | **Large-AMER-PNW** | Adi Wolff | TBD |
-| NA West | Southwest | **Large-AMER-Southwest** | Rick Walker | Blake Chalfant-Kero |
-| NA West | Southwest | **Named Accounts** | Chris Cornacchia | Jesse Muehlbauer |
-| NA West | Southwest | **Named Accounts** | Yvonne Zwolinski | Blake Chalfant-Kero |
-| NA West | Southwest | **Named Accounts** | Steve Clark | Blake Chalfant-Kero |
-| NA West | SoCal | **Large-AMER-SoCal**TBD** | Matthew MacFarlane |
-| NA West | SoCal | **Named Accounts** | Robert Hyry | Jesse Muehlbauer |
-| NA West | SoCal | **Named Accounts** | Brad Downey | Matthew MacFarlane |
-| NA West | NorCal | **ENT-NC-Named SF1** | TBD | TBD |
-| NA West | NorCal | **ENT-NC-Named SF2** | Mike Nevolo | James Altheide |
-| NA West | NorCal | **ENT-NC-Named Santa Clara 1** | Nico Ochoa | Madison Taft |
-| NA West | NorCal | **ENT-NC-Named Santa Clara 2** | Joe Miklos | TBD |
-| NA West | NorCal | **ENT-NC-Named Santa Clara 3** | Alan Cooke* | Madison Taft |
-| NA West | NorCal | **ENT-NC-Named Santa Clara 4** | Michael Scott | Aaron Young |
-| NA West | NorCal | **Large-AMER-NorCal | Jim McMahon** | Jim McMahon* | Isaac Mondesir |
-| NA West | NorCal | **Large-AMER-Bay Area-1** | Alyssa Belardi | Isaac Mondesir |
+| Sub-Region | Area | **Territory Name** | Sales 
+| ---------- | ---- | -------------- | ----- | 
+|	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area-2	|	Jim McMahon	|
+|	NA East	|	Northeast	|	Large-AMER-Central-1	|	Tim Kuper	|
+|	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	|
+|	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	|
+|	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	|
+|	NA West	|	Southwest	|	Large-AMER-Large-West-1	|	Haydn Mackay	|
+|	LATAM	|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	|
+|	LATAM	|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	|
+|	NA West	|	Midwest	|	Large-AMER-Midwest-1	|	Timmothy Ideker	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-1	|	Liz Corring	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-1	|	Chris Graham	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-2	|	Katherine Evans	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-3	|	Jim Bernstein	|
+|	Japan	|	Japan	|	Large-APAC-Japan-1	|	Tadashi Murakami	|
+|	APAC	|	APAC	|	Large-APAC-Large-APAC-1	|	Rob Hueston	|
+|	ANZ	|	ANZ	|	Large-APAC-Large-APAC-2	|	Rob Hueston	|
+|	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	|
+|	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	|
+|	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-4	|	Hui Hui Cheong	|
+|	Asia Central	|	Asia Central	|	Large-APAC-Large-APAC-5	|	Rob Hueston	|
+|	Asia Central	|	Asia Central	|	Large-APAC-Large-APAC-5	|	Rob Hueston	|
+|	Asia Central	|	Asia Central	|	Large-APAC-S Korea-1	|	Tae Ho Hyun	|
+|	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	|
+|	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	|
+|	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Christoph Stahl	|
+|	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	|
+|	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	|
+|	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	|
+|	Nordics	|	Nordics	|	Large-EMEA-UK/I-2	|	Aslihan Kurt	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Simon Williams	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	|
 
 #### Public Sector
 
