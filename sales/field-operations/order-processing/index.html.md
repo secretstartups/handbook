@@ -1151,6 +1151,14 @@ The opportunity closed! Congrats! Wait... my customer still has questions! Here 
 
 #### How do I know if a License Key was sent to the Customer?
 
+Licenses (Self-Managed) and Provisioning Details (SaaS) are automatically emailed to the Sold To contact entered on the quote.
+
+Notes on License Timing:
+- Self-Managed:
+  - For self-managed deals, the license is sent to the customer immediately upon opportunity closure, but the system will not activate until the Subscription Start Date.
+- SaaS:
+  - For SaaS deals, the entitlement will be provisioned and made available to the customer on the Subscription Start Date.
+
 Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Account record, and can be found under "Acitivity History" list on the Account level.
 
 Look for Task title: `Email: Your GitLab License File`
