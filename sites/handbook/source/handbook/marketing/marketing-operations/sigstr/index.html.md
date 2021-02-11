@@ -60,6 +60,10 @@ Sigstr appends campaign banners to Outreach signatures every 24 hours. If they a
 
 ##### Terminus Chrome Extension
 
+1. Target individual accounts and contacts with personalized campaign content through Email Experiences Targeted campaigns
+1. Provides insight into who is engaging with your email campaigns and how often
+1. Offers alternative campaign options for employees looking for more control of the content they share
+
 **Instructions for install:**
 
 1. Click this [link](https://chrome.google.com/webstore/detail/terminus-chrome-extension/ihgbenpajiikgfimgecpdloilhaolijd?hl=en)
