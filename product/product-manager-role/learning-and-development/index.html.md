@@ -59,7 +59,28 @@ Specific topics:
 
 - Competitor Analysis https://producthabits.com/competitor-analysis/
 
+### Communication Skills
+
+Introductory material: 
+
+Recommended book: 
+
+Online course:
+
+Specific topics:
+
+### People Management Skills
+
+Introductory material: 
+
+Recommended book: 
+
+Online course:
+
+Specific topics:
+
 ## Socializing in Product
+
 
 An accidental collection of newsletters, podcasts, slack channels and blogs organized around Product Management
 
