@@ -23,7 +23,7 @@ Team members are required to to complete an annual training course covering gene
 
    > The extent to which humans can enjoy their fundamental rights depends not only on legal frameworks and social norms, but also on the features of the technology at their disposal. - European Data Protection Supervisor, *Preliminary Opinion on Privacy by Design* ([Opinion 5/2018 at iii](https://edps.europa.eu/sites/edp/files/publication/18-05-31_preliminary_opinion_on_privacy_by_design_en_0.pdf))
 
-**Privacy Rights.** The GDPR acknowledges several individual rights related to privacy. These [definitions](https://about.gitlab.com/handbook/legal/global-compliance/#what-rights-are-established-by-the-gdpr) are outlined on our Compliance page.
+**Privacy Rights.** The GDPR acknowledges several individual rights related to privacy. These definitions are outlined on our [Privacy Compliance page](https://about.gitlab.com/privacy/privacy-compliance/).
 
 **Personal Data.** Generally, when we use the term *Personal Data*, we are using it as defined in the GDPR, regardless of whether we are talking about the GDPR or other privacy initiatives/regulations. 
 
