@@ -228,7 +228,7 @@ Integrated with Salesforce
 - [Marketo](/handbook/marketing/marketing-operations/marketo)
 - [Outreach.io](/handbook/marketing/marketing-operations/outreach)
 - [PathFactory](/handbook/marketing/marketing-operations/pathfactory)
-- [Sigstr](/handbook/marketing/marketing-operations/sigstr)
+- [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
 - [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 
 </details>
