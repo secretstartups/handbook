@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: The Product Manager Role at GitLab
+title: Learning and Development for Product Management
 ---
 
 ## On this page
