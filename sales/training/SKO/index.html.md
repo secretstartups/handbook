@@ -139,23 +139,79 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | Alliances Keynote: Winning is a Team Sport! | slides (coming soon) | video (coming soon) |
 | Closing Keynote: It's Time for Peak Performance | slides (coming soon) | video (coming soon) |
 
-## SKO 2021 Day 3 Sessions
+## SKO 2021 Role-Based Breakout Sessions
+
+### Enterprise Sales Strategic Account Leaders
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Coming soon | slides (coming soon) | video (coming soon) |
-| Coming soon | slides (coming soon) | video (coming soon) |
-| Coming soon | slides (coming soon) | video (coming soon) |
-| Coming soon | slides (coming soon) | video (coming soon) |
+| Landing New Logos | slides (coming soon) | video (coming soon) |
+| Expand Strategy Into Security and Plan | slides (coming soon) | video (coming soon) |
+| Account Planning: Master the Climb | slides (coming soon) | video (coming soon) |
+| Pivoting the Pricing Conversation | slides (coming soon) | video (coming soon) |
 
-## SKO 2021 Day 4 Sessions
+### Commercial Sales Account Executives
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Coming soon | slides (coming soon) | video (coming soon) |
-| Coming soon | slides (coming soon) | video (coming soon) |
-| Coming soon | slides (coming soon) | video (coming soon) |
-| Coming soon | slides (coming soon) | video (coming soon) |
+| Co-Selling with Services Partners | slides (coming soon) | video (coming soon) |
+| Pitching to the Economic Buyer | slides (coming soon) | video (coming soon) |
+| Placing Customers in the Right Tier | slides (coming soon) | video (coming soon) |
+| Finding the "Why Now" | slides (coming soon) | video (coming soon) |
+
+### Channel Sales Account Managers
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Co-Selling with Services Partners | slides (coming soon) | video (coming soon) |
+| Planning for Joint GitLab and Partner Success | slides (coming soon) | video (coming soon) |
+| Growing Our Partner Business (Individual and CSM Partner Portfolio) | slides (coming soon) | video (coming soon) |
+| Building Pipeline with Your Partners - MDF and Marketing Campaigns | slides (coming soon) | video (coming soon) |
+
+### Solution Architects
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Landing New Logos | slides (coming soon) | video (coming soon) |
+| Expand Strategy Into Security and Plan | slides (coming soon) | video (coming soon) |
+| Strategies to Win Without a Long PoV (Proof of Value) | slides (coming soon) | video (coming soon) |
+| Leveling Up the Conversation with the 5 Whys | slides (coming soon) | video (coming soon) |
+
+### Technical Account Managers
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Account Based Strategy & Marketing for Customers | slides (coming soon) | video (coming soon) |
+| Expand Strategy Into Security and Plan | slides (coming soon) | video (coming soon) |
+| Embracing Differences with Social Styles | slides (coming soon) | video (coming soon) |
+| Leveling Up the Conversation with the 5 Whys | slides (coming soon) | video (coming soon) |
+
+### Professional Services Engineers
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| How to Work with Partners: Tactically and Technically | slides (coming soon) | video (coming soon) |
+| Professional Services Methodology: Step by Step | slides (coming soon) | video (coming soon) |
+| Using Congregate to Migrate Customers to GitLab | slides (coming soon) | video (coming soon) |
+| Leveling Up the Conversation with the 5 Whys | slides (coming soon) | video (coming soon) |
+
+### Sales Development Reps
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Thriving as a Remote SDR: From Cold-calling Jiu-jitsu to Planning Long Term Career Success | slides (coming soon) | video (coming soon) |
+| Converting Free to Paid | slides (coming soon) | video (coming soon) |
+| SDR Competitive Blueprint | slides (coming soon) | video (coming soon) |
+| Security: Our Biggest Differentiator | slides (coming soon) | video (coming soon) |
+
+### Field Marketing
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Account Based Strategy & Marketing for Customers | slides (coming soon) | video (coming soon) |
+| Field Marketing Goals for FY22 | slides (coming soon) | video (coming soon) |
+| AMA (Ask Me Anything): Field Marketing Manager (FMM) reporting | slides (coming soon) | video (coming soon) |
+| Building Pipeline with Your Partners - MDF and Marketing Campaigns | slides (coming soon) | video (coming soon) |
 
 ----
 
