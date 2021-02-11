@@ -28,7 +28,7 @@ Some topics that managers can expect to discuss during these sessions include:
 1. Professional development as both a manager and for direct reports
 1. Enabling GitLab culture
 1. Relationship and trust building
-1. More topics proposed on the leadership call [issue boarad](https://gitlab.com/gitlab-com/people-group/leaders-leancoffee-topics/-/boards/965643)
+1. More topics proposed on the leadership call [issue board](https://gitlab.com/gitlab-com/people-group/leaders-leancoffee-topics/-/boards/965643)
 
 
 ## Background
