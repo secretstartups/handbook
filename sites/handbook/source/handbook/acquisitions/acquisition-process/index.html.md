@@ -135,7 +135,7 @@ The process is comprised of four key stages:
     1. Barriers for implementation
     1. Deal Milestones:
         1. We aim to set 3 milestones at 2, 4 and 6 months from joining GitLab, to provide a concise set of goals which should cover the bulk of our product interest in the target company
-        1. Milestones should be articulated as objectives as opposed to tasks. This will help target companies focus on driving the objectives and not be tied to, and concerned with, a specific task as changes are likely to occur once integration work starts. The milestones outline the objectives to facilitate the work required in achieving the roadmap advancement the deal was identified with delivering.
+        1. Milestones should be articulated as objectives as opposed to tasks. The structure of defining milestones should resemble that of OKRs, with each milestone having an objective and then a few key results which will are required to achieve the objetive. This will help target companies focus on driving the objectives and not be tied to, and concerned with, a specific task as changes are likely to occur once integration work starts. The milestones outline the objectives to facilitate the work required in achieving the roadmap advancement the deal was identified with delivering. Each milestone should be broken down to the keys required to complete in order to achieve success for the milestone's objective.
         1. First milestone shipped within 60 days of joining GitLab:
             1. Accounting for 3 weeks of onboarding, targets will ship the first milestone 5 weeks following the onboarding period
             1. Critical to adopting our culture and successful future integration of the target's engineering team in GitLab
