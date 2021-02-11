@@ -99,7 +99,7 @@ If resignation is the only solution after you have discussed your concerns, plea
 
     _Note: For GitLab UK team members, payroll can pay up to and including the 5th day of the following month. For example, if a team member's last day is February 2nd, the team member can receive their final pay for this in January's payroll._
 
-1. ***PBP***: The PBP will also inform the team member that they will receive and invitation in the next 48 hours from CultureAmp to complete an exit survey.
+1. ***PBP***: The PBP will also inform the team member that they will receive an invitation in the next 48 hours from CultureAmp to complete an exit survey.
 1. ***PBP***: PBP will forward the resignation email to the People Experience team at `people-exp@gitlab.com`, the People Operations Specialist team email inbox `peopleops@gitlab.com`, as well as to the payroll lead. The PBP will indicate the last day, reason for resignation, and rehire eligibility in the email. 
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
 1. ***Specialist***: The People Specialist will save a pdf of the resignation email to the team member's BambooHR profile in their `Contracts & Changes` folder. 
@@ -148,7 +148,7 @@ The GitLab [code of conduct](https://about.gitlab.com/community/contribute/code-
 
 Involuntary offboarding of any team member is never easy. We've created some guidelines and information to make this process as humane as we can. Beyond the points outlined below, make sure to refer to our guidelines on [underperformance](/handbook/leadership/underperformance), as well as the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md).
 
-If the need for Involuntary offboarding arises, the process is as indicate below:
+If the need for Involuntary offboarding arises, the process is as indicated below:
 
 #### Last Working Day or Garden Leave
 
@@ -170,16 +170,15 @@ The manager and the team member should have walked through the guidelines on [un
 1. ***Manager***: Reach out to the appropriate People Business Partner (PBP) for assistance.
     * PBP will ask about what the performance issues have been, how they have been attempted to be addressed, and review all manager/team member documentation.
     * Once the review has been completed and the decision has been made to offboard the team member, the PBP will partner with the People Specialists to coordinate the offboarding of the team member.
-1. ***PBP***: The PBP will notify the People Operations Specialist team of the offboarding by posting in the `#pbp-peopleops` confidential Slack channel. The PBP will indicate the team member's name, last day, reason for resignation, and rehire eligibility. The first Specialist to respond to the post will be the Specialist that partners with the PBP for the offboarding process.<br>
+1. ***PBP***: The PBP will notify the People Operations Specialist team of the offboarding by posting in the `#Offboardings` confidential Slack channel. The PBP will indicate the team member's name, last day, reason for resignation, and rehire eligibility. The first Specialist to respond to the post will be the Specialist that partners with the PBP for the offboarding process.<br>
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
-1. ***PBP***: The PBP will create a private Slack channel that will include the PBP, Manager, Specialist, and Leader of the organization to review the offboarding and agreed upon offboarding date. 
+1. ***PBP***: The PBP will create a private Slack channel that will include the PBP, Manager, and Leader of the organization to review the offboarding and agreed upon offboarding date. 
 1. ***Specialist***: If applicable, the People Specialist will prepare the severance agreement in preparation for the call between the PBP, Manager, and team member. Additional guidelines for the preparation of this agreement can be found below in the [Separation and Release of Claims Agreements](#separation-agreement) section. To determine whether or not a severance agreement is applicable, please refer to the `Severance Elgibility` guidelines accessible by PBPs and Specialists. 
    _Note: For any severance that has less than 48 hours turn around the People Business Partners will handle._
 1. ***Manager***: Once the date and time is confirmed, the manager will schedule time with the team member and send the PBP a _private and separate calendar invite_ with the Zoom details for the meeting with the team member to share the news of the offboarding. 
 1. ***Payroll***: If the team member is employed by a PEO/entity with statutory leave requirements, review if any time off needs to be paid on the last paycheck by looking in BambooHR in the `Time Off` section.
-1. ***Specialist***: The Specialist will confirm and coordinate the date and time of the offboarding and who will be available to assist with the offboarding. At this stage, the name of the departing team member is ***not*** yet shared. To share this information, the Specialist will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9). Once submitted a summary of the response will be posted to the `#offboarding` Slack channel. 
-
-1. ***Specialist***: Will send a private calendar request to the identified People Experience, PBP, Security, and Payroll lead blocking time on calendar to indicate when the offboarding will begin. 
+1. ***People Experience Associate***: The PEA will confirm and coordinate the date and time of the offboarding and who will be available to assist with the offboarding. At this stage, the name of the departing team member is ***not*** yet shared. To share this information, the People Business Partner will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9). Once submitted a summary of the response will be posted to the `#offboarding` Slack channel. 
+ 
 1. ***PBP/Manager***: Discuss best mode of communicating the bad news to the team member. This discussion can happen via a private chat-channel, but it is best to be done via video.
 1. ***PBP/Manager***: Decide who will handle which part of the conversation, and if desired, practice it.
     * If needed the PBP will provide the manager with a script for the offboarding meeting. 
@@ -188,8 +187,8 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Informing the team and answering questions should be the top priority.
       * No announcement should be made in the `#team-member-updates` Slack channel until the team call has been completed.
       * In most cases, a team call can occur the same day of the offboarding. If necessary, the offboarding can be announced in the `#team-member-updates` Slack channel the following day.
-1. ***PBP/Manager***: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager, Specialist, and Leader to provide visibility to the Specialist as well.
-1. ***PBP***: If the team member is a risk to the production environment, the PBP should privately reach out to the `Infrastructure Managers` to determine who will be available to assist with the offboarding. Once an infrastructure team member has been identified, they should be added to the private calendar invite sent to People Experience, Security, People Specialist, and Payroll to hold the time for the team member offboarding. Once the offboarding conversation starts the PBP will privately Slack the infrastructure contact the name of the team member to start the offboarding process.
+1. ***PBP/Manager***: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager and Leader.
+1. ***PBP***: If the team member is a risk to the production environment, the PBP should privately reach out to the `Infrastructure Managers` to determine who will be available to assist with the offboarding. Once an infrastructure team member has been identified, they should be added to the private calendar invite sent to People Experience, Security, and Payroll to hold the time for the team member offboarding. Once the offboarding conversation starts the PBP will privately Slack the infrastructure contact the name of the team member to start the offboarding process.
 
 When on the call...
 
@@ -202,8 +201,7 @@ Unfortunately, the reason I wanted to speak with you is because we have decided 
 1. ***Manager***: Hand the call over to the PBP to continue. 
 1. ***PBP***: The PBP will also make it clear that the decision is final, but also will genuinely listen to the team member's side of the story since there may be useful lessons in what they say for the rest of the team e.g. regarding hiring and vetting practices.
 1. ***PBP***: Make sure to communicate the [practical points](#offboarding-points) from the offboarding memo outlined below.
-1. ***Specialist***: Once the conversation is complete, the PBP will notify the Specialist to stage the severance document in HelloSign for review and signatures.
-1. ***Specialists***: If appropriate (default is that it is appropriate), send an [offboarding memo](#sample-offboarding-memo) to the departing team member.
+1. ***PBP***: Once the conversation is complete, the PBP will stage the severance document in HelloSign for review and signatures.
 
 ## Offboarding Workflow 
 This section will define key terms in offboarding workflow google form. 
@@ -266,15 +264,15 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 1. ***Specialist***: The People Specialist assigned to the particular offboarding case at hand should select the appropriate severance template. Options include: Non-California over 40, California over 40, Non-California under 40, California under 40. 
 1. ***Specialist***: The People Specialist should make a copy of the template and save it in the `Copies of Individual Severance Agreements` folder. 
 1. ***Specialist***: The People Specialist should fill out the document and share with the PBP and Legal for final review/approval. 
-1. ***Specialist***: The People Specialist will stage the document in HelloSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
+1. ***PBP***: The PBP will stage the document in HelloSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
 
 
 *  When staging the document for signatures, please note:
     *  Remember to send the document to the team member's _personal_ email address
     *  Select the `assign signature order` option in HelloSign to ensure the team member signs the document first
     
-1. ***Specialist***: When the signed document is received, the Specialist should upload it to the team member's BambooHR profile in the `termination` folder
-1. ***Specialist***: As a final step, the Specialist should ping the `#payoll_peopleops_terms` private channel and `@menion` the appropriate PBP to confirm that the Severance document has been signed and uploaded to BambooHR
+1. ***PBP***: When the signed document is received, the Specialist should upload it to the team member's BambooHR profile in the `termination` folder
+1. ***PBP***: As a final step, the PBP should ping the `#payoll_peopleops_terms` private channel to confirm that the Severance document has been signed and uploaded to BambooHR
 
 _Important Notes:_
 * Separation pay is not paid until the ex-team member signs the document and the revocation period has passed.
