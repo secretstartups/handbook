@@ -956,15 +956,15 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
 **New Business/Add-On Opportunities:**
-- New Business and Add-On opportunities will be Closed Won *no more than 15 days prior to the Subscription Start Date* as reflected on the opportunity.
+- <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Subscription Start Date* as reflected on the opportunity.
   - New Business and Add-On opportunities submitted for approval after the Subscription Start Date will be Closed Won on the date of approval submission.
   - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
 
 **Renewal Opportunities:**
-- Renewal opportunities with Expansion or Contraction (Net ARR not equal to $0) will be Closed Won *no more than 15 days prior to the Subscription Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
+- <ins>Renewal opportunities with Expansion or Contraction</ins> (Net ARR not equal to $0) will be Closed Won *no more than 15 days prior to the Subscription Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
   - Renewal opportunities with Expansion or Contraction submitted for approval after the Subscription Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
   - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
-- Flat Renewal opportunities (Net ARR = $0) will be Closed Won *on the Subscription Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
+- <ins>Flat Renewal opportunities</ins> (Net ARR = $0) will be Closed Won *on the Subscription Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
   - Flat Renewal opportunities submitted for approval after the Subscription Start Date will be Closed Won on the date of approval submission.
 
 **Late Renewals:**
@@ -982,7 +982,7 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
 **Do I have to wait to submit my opportunity for approval?**
 - All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
 
-**My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?
+**My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?**
 - See [How do I know if a License Key was sent to the Customer?](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
 
 #### Purchase Order Policy
