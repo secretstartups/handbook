@@ -132,9 +132,9 @@ Visit the [Gated Content page](/handbook/marketing/revenue-marketing/digital-mar
 
 ### Content types: Definitions and workflows
 
-Content is most effective when it it's the right message, to the right audience, at the right time, in the right medium. That's why the content marketing team produces a variety of content types designed to reach different people at different stages of the buyer journey.
+Content is most effective when it has the right message, to the right audience, at the right time, in the right medium. That's why the content marketing team produces a variety of content types designed to reach different people at different stages of the buyer journey.
 
-At GitLab, everyone can contribute. While the content marketing team produces a large amount of the content used in marketing campaigns, they are by no means the only content creators at GitLab. If you would like to contribute content such as blog posts, eBooks, whitepapers, etc, read more about these content types and how to submit them.
+At GitLab, everyone can contribute. While the content marketing team produces a large amount of content, they are by no means the only content creators at GitLab. If you would like to contribute content such as blog posts, eBooks, whitepapers, etc, read more about these content types and how to submit them.
 
 #### Blog post
 
