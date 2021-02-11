@@ -400,7 +400,11 @@ The customer may ask for a description of the CI process or other complex proces
 
 Hands-on GitLab workshops are interactive events which enable GitLab prospects and customers to learn more about GitLab, then apply that knowledge hands-on within a provided GitLab environment. Workshops include topics such as DevOps Automation, Portfolio and Project Management, Security and Advanced CI/CD. Workshops are ideally limited to 200 or fewer attendees in order to provide stable working environments as well as to be able to field Q&A from attendees in a timely manner. Workshops may be executed as marketing events or run independently for specific customers.
 
-Due to resource intensity and time requirements, workshops are typically limited to a minimum of 50 attendees. Workshops average 3 hours in length, requiring a minimum of 3 GitLab employees to execute successfully. These are not "training events" but rather informational events geared toward new users or users interested in expanding their use of GitLab into new functionality such as CI, PPM or security.
+Due to resource intensity and time requirements, workshops are typically limited to a minimum of 50 attendees. Workshops average 3 hours in length, requiring a minimum of 3 GitLab employees to execute successfully for up to 200 attendees. These are not "training events" but rather informational events geared toward new users or users interested in expanding their use of GitLab into new functionality such as CI, PPM or security.
+
+For workshops organized by Marketing, any actions required prior to taking the steps below will be templated and organized according to the [Marketing Virtual Workshop Handbook page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/virtual-workshops/).  
+
+In order to prepare for an interactive workshop, demo system resources should be requested and approved according to the [Training Cloud Self-Service Handbook page](/handbook/customer-success/demo-systems/environments/training-cloud/#how-it-works). 
 
 ### Creating a Workshop Instance
 
