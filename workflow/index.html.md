@@ -561,11 +561,28 @@ For technical debt which might span, or fall in gaps between groups they should 
 
 ## UX debt
 
-Sometimes features release to production without meeting design and [Pajamas](https://design.gitlab.com/) specifications. We create UX debt issues to capture these discrepancies. For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
+Sometimes features release to production without meeting design and [Pajamas](https://design.gitlab.com/) specifications for usability and feature viability standards as defined in agreed-upon design assets. We create UX debt issues to capture these discrepancies. For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
 
 We apply the `UX debt` label to these issues, and it is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
 
 As with [technical debt](#technical-debt), UX debt should be brought up for [globally optimized](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/).
+
+## UI polish
+
+UI polish issues are visual improvements to the existing user interface, touching mainly aesthetic aspects of the UI that are guided by [Pajamas](https://design.gitlab.com/) foundations. UI polish issues generally capture improvements related to color, typography, iconography, and spacing. We apply the `UI polish` label to these issues. UI polish issues don't introduce functionality or behavior changes to a feature.
+
+### Examples of UI polish
+
+- **Aesthetic improvements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/290262)): removing unnecessary borders from a UI, updating the background color of an element, fixing the font size of a heading element.
+- **Misalignment of text, buttons, etc** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/280538)): although because many times something isn't broken, these improvements are considered UI polish. These could also be considered a bug.
+- **Incorrect spacing between UI elements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/7905)): when two interface elements are using inconsistent spacing values, such as 10px instead of 8px. It could also be considered technical debt. Note that if two interface elements have zero space between them, its an obvious bug. 
+- **Visual inconsistencies across different product areas** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/296948)): visual inconsistencies could occur when we have have a series of buttons on a particular view. For example, when 3/4 of them have been migrated to use the Pajamas component, and 1/4 of them are still using a deprecated button, resulting in a visual inconsistency. This is considered a UI polish.
+
+### What is not UI polish 
+
+- **Functional inconsistency related to the experience**: for example, using a manual action to add an assignee automatically shows the assignee in the sidebar but using a manual action to add a weight to an issue does not automatically show the weight in the sidebar. This is not currently considered UI polish. It would be considered a UX issue.
+- **Improving visibility of system status**: status indicator improvements are experience improvements and are not classified as UI polish. 
+  - Even when updating something that is purely visual, such as a status icon, to improve the meaning the user has of what they are viewing, we are trying to improve the experience of that user.
 
 ## Monitor Merge Request Trends
 
