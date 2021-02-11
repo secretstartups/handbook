@@ -14,12 +14,30 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 * Swetha Kashyap, Sales Commissions Manager
 * Rachel Davies, Sales Commissions Analyst
 
+## **What's New?**
+
+Exciting news for FY22!  We are migrating our exisitng commission system to Xactly Incent!  More information to follow, however, some key features are shown below:
+
+#### Key Benefits of Xactly Incent
+
+* Refreshes multiple times per day for real-time estimated commission payout visibility, resulting in fewer adjustments after payroll.
+* Visibility into payout estimates on open opportunities with Incentive Estimator feature.
+* Incentive statements on a single layout instead of having to open individual monthly statements.
+* Manager access to their team's individual statements.
+
+![Xactly1](/handbook/sales/commissions/picturea.png)
+
+![Xactly2](/handbook/sales/commissions/pictureb.png)
+
+
 ## **How to Communicate with Us**
 
 There are two ways to connect with us.
 
 * Via email sales-comp@gitlab.com
 * Via the Chatter feature in Salesforce
+
+#### Thank you for your patience while we work to update the handbook to reflect our FY22 Commission Program.
 
 ## **Quick Reference Guide**
 
