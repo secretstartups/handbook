@@ -144,5 +144,16 @@ A quarterly cadence to review and update plans can help to ensure that plans ref
 
 ### Additional Considerations
 - Account plans should be thoughtful, collaborative, and cross-functional with contributions and input from the entire account team including Solutions Architects, Technical Account Managers, Sales Leadership, Partners, and more
-- Account plans are living documents. A customer’s business and strategies are always subject to change. To stay up to date, share the account plan with the account team regularly to maintain a fresh understanding of the customer's needs and to keep everyone informed and aligned. 
+- Account plans are living documents, and a customer’s business and strategies are always subject to change; share the account plan with the account team regularly to maintain a fresh understanding of the customer's needs and to keep everyone informed and aligned
 - Account reps should use QBRs and/or other recurring meetings such as SAL-SA-TAM calls to review progress, update objectives and/or action plans, and align on next steps 
+- Review the below ten reasons why strategic plans fail according to [this Forbes article](https://www.forbes.com/sites/aileron/2011/11/30/10-reasons-why-strategic-plans-fail/) and take proactive steps to avoid these pitfalls
+   1. Having a plan simply for plan's sake
+   1. Not understanding the environment or focusing on results
+   1. Partial commitment
+   1. Not having the right people involved
+   1. Writing the plan and putting it on the shelf
+   1. Unwillingness or inability to change
+   1. Overcomplication the plan (inspired from [this article](https://www.forbes.com/sites/jeroenkraaijenbrink/2019/09/10/20-reasons-why-strategy-execution-fails/))
+   1. Ignoring marketplace reality, facts, and assumptions
+   1. No accountability or follow through
+   1. Unrealistic goals or lack of focus and resources
