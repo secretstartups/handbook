@@ -327,3 +327,24 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
    As always, If you have any questions let me know!
    Thanks, xxx
+
+#### Reqs going Outbound to Inbound (DRI: CES Team)
+1. Once the req hits it’s 30 day outbound limit, the recruiter should tag CES in the req stating that this role will be going inbound. The recruiter will need to tell CES if there is a specific location the role needs to be “advertised” in if it's not specified in the job title.
+
+1. The CES will make sure this role is added to LinkedIn, you'll need to add a Job Wrapping tag to the source code.
+
+- Click on the < > on the menu bar in the description text box to open the source code
+- Scroll to the bottom of the pop-up
+- Paste the following HTML <div><span style="font-size: xx-small;"><span style="color: white">Remote-XXX</span></span></div> at the bottom and change the letters in Remote-XXX to the appropriate code for the current available LinkedIn Job Wrapping location(s)
+- Please copy directly from the sheet because spaces matter.
+- The default tag should be Remote-Global.
+- Click Ok
+
+If multiple tags are added to the description, please enter the additional tag on a new line. For example:
+
+<div><span style="font-size: xx-small;"><span style="color: white;">Remote-Global</span></span></div>
+<div><span style="font-size: xx-small;"><span style="color: white;">Remote-North America</span></span></div>
+
+While tags are not visible on the Greenhouse posting, they will appear when viewed on LinkedIn. So, please, be mindful of how many tags are added to any one particular requisition.
+
+1. Once the LinkedIn coding is complete, the CES will make the external job post live. 
