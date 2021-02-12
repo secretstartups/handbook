@@ -87,6 +87,14 @@ Governance: The quarterly rolling forecast is approved by the eGroup and CEO and
 
 - The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitability goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's Board Plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
 
+### Contingency Mechanics of the Board Plan (Future):
+- **Corporate Contingency:** unknown or uncertain spend held at CFO and released monthly based on performance / developments in business
+  - Goal: Provide the business agility in responding to new and shifting priorities. FP&A provides CFO an objective POV on how to deploy spend.
+  - Corporate Contingency is sized during annual planning for “known unknowns” and “unknown unknowns" for example, potential new markets, legal contingency, potential M&A. If there is uncertainty during Annual Planning around the commitment or scope of a particular project, funds should be sized and parked in Corporate Contingency rather than with the department in question.
+  - Operationally: funds sit in a Corporate GL at the Corporate Cost Center, funds are transferred to the appropriate GL and Cost Center when released
+- **Unallocated R&D:** A percentage of R&D unfilled and approved headcount held at CEO and released monthly to specific Product & Engineering departments based on company performance & shifting priorities
+  - Goal: Provide CEO & product teams agility in deploying headcount to respond to new and shifting priorities.
+
 ### Board Plan Diagram
 ![alt text](/handbook/finance/financial-planning-and-analysis/financial-workflow.png "Operating Model")
 
