@@ -119,10 +119,13 @@ Employees of GitLab Inc. can take off sick time in line with our paid time off p
 
 Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](/handbook/contracts/#employee-contractor-agreements):
 
-- Once People Operations has been notified of the sickness they will also inform HRSavvy.
-- GitLab has engaged with an occupational health and safety centre, Zorg van de Zaak, to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
-- If an employee is sick, People Operations will inform HRSavvy and they will be registered in their HR portal from the first day of sickness.
-- If the employee is then on long-term sick leave (1 working week or more), People Operations will instruct HRSavvy to register the employee at the occupational health and safety service, depending on the situation and agreement with the employee.
+- Team members should report sick time via PTO by Roots as aligned above. 
+- If the sick leave extends 8 days it should be reported to Total Rewards via total-rewards@gitlab.com by the Manager and (if possible) team member. 
+- If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to Total Rewards and your People Business Partner to discuss.
+- Once Total Rewards has been notified of the sick time they will inform HRSavvy.
+- HRSavvy will be registering the sick time in their HR portal from the first day of absence (retrospectively).
+- GitLab has engaged with an occupational health and safety centre, called [Zorg van de Zaak](https://www.zorgvandezaak.nl/), to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
+- If the team members is on long-term sick leave (8 days of more), Total Rewards will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
 - Zorg van de Zaak's contact details can be found in the People Operations 1Password vault.
 
 #### Doctor's Note
