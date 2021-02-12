@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "PTY LTD Benefits"
+description: "GitLab PTY Australia benefits specific to Australia based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
@@ -50,9 +51,45 @@ Team members in Australia have the option to make concessional super contributio
 GitLab does not plan to offer life insurance at this time as Australians can access [government payments and services](https://www.humanservices.gov.au/individuals/subjects/payments-people-living-illness-injury-or-disability) if they get ill, injured or have a disability. Most Australians who choose to have life insurance take out cover from their super fund.
 
 ### GitLab PTY Australia Annual, Sick and Carer's Leave
-Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. This balance won't have a cap to align with GitLab's unlimited PTO policy.
+**Annual Leave**
+* Team members are entitled to 4 weeks of paid leave each year, which runs concurrently with GitLab PTO and accumulates from the first day of employment. Any unused annual leave rolls over to the following year.
+* Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. When taking vacation time, team members must select the `Vacation` option in PTO by Roots to ensure this time is properly tracked.  Annual leave does not expire and may be carried over year to year.  For team members who are not covered by a modern award or enterprise agreement, they may be asked to take a period of paid annual leave if such request is reasonable, such as when a team member has accrued an excessive amount of paid annual leave.
 
-Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
+**Sick Leave**
+* Team members are entitled to 10 days of sick/carer's leave each year. This leave runs concurrently with GitLab PTO.
+* Sick and carer's leave, also known as personal/carer's leave fall under the same statutory leave entitlement. Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
+
+### On-Call (Engineering only)
+
+Certain groups in the Engineering division are expected to participate in on-call for business continuity and/or customer support. For more details on the on-call procedure, please reference the [on-call page](https://about.gitlab.com/handbook/on-call/). The purpose of this section is to provide an overview of **time in lieu that will be offered for the Development and Infrastructure departments effective February 1, 2021.** We will continue to review and implement to other departments within Engineering iteratively.
+
+With our global team, we strive for a "follow the sun" model for on-call rotation. This way, team members can participate in on-call during their daytime rather than their nighttime in their respective regions (APAC, EMEA and AMER). In APAC, the majority of the team members are located in Australia. We want to ensure engineers in Australia are 1) eligible to volunteer for on-call shifts, and 2) stay aligned with local laws to ensure proper rest/recovery time after on-call shifts.
+
+Engineers based in Australia who are part of the Development and Infrastructure departments will be eligible for time in lieu after on-call shifts. Time in lieu is time off from work that is granted to team members to work outside of standard working hours (I.E. ordinary hours).
+
+##### How much time in lieu will I receive for volunteering for on-call shifts?
+
+* 4-hour shift = ½ day time in lieu
+* 8-hour shift = 1 day time in lieu
+* 24-hour shift = 3 days time in lieu 
+
+_Note: The full shift (state of readiness) is compensated by time in lieu - rather than only the "actual time worked"_
+
+##### What should I do when I want to take more time off after an on-call shift?
+
+If you need additional time to ensure a good work/life balance, on top of the time in lieu, you can leverage our Unlimited [PTO policy as described here](https://about.gitlab.com/handbook/paid-time-off/#paid-time-off). 
+
+##### When can time in lieu be taken?
+
+Time in lieu should be taken _within 2 weeks after completion of the on-call shift_. We want to ensure that time in lieu is taken close to the on-call shift to ensure that team members have sufficient time to rest.
+
+##### Do all on-call shifts result in time in lieu?
+
+No, only on-call shifts outside of working hours (I.E. weekends, evenings, etc.). _Please note that not all teams require weekend or evening on-call shifts, so this may not be applicable for all._
+
+##### How do I request time in lieu?
+
+Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) by selecting the `On-Call Time in Lieu` option.
 
 
 ### GitLab PTY Australia Parental Leave Administrative Details
@@ -100,6 +137,24 @@ Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to 
 
 ### Accounting Fee Reimbursement
 New Zealand team members are eligible for a one time reimbursement of up to $750 NZD for accounting or tax-related fees. The purpose of this reimbursement is to help our team members reconcile any accounting activities and tax returns from when they were independent contractors through GitLab BV or contracted through CXC. Since tax-related activities will be less complex after the transition to our team members' employment under the PTY LTD entity, this reimbursement benefit will only be valid until December 2021. To get reimbursed for this expense, please follow the [Expense Reimbursement process](/handbook/spending-company-money/#expense-policy).
+
+### Annual Leave
+Team members are entitled to a minimum of four weeks’ annual leave per year. Annual leave does not expire and can be carried over each year, but GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice. Annual leave runs concurrently with GitLab PTO. Team members must select the `Vacation` option in PTO by Roots when taking vacation time to ensure that annual leave entitlement is properly tracked.
+
+### Sick Leave
+
+Team members in New Zealand are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Team members in New Zealand are entitled to 5 days' sick leave after six months’ current continuous employment with GitLab. For each 12-month period after meeting the above criteria, each team member gets at least five days’ sick leave. If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.
+
+* Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that sick leave entitlement is properly tracked.
+
+* In accordance with the Holidays Act, GitLab may require a medical certificate if you have been absent due to illness. 
+
+* Unused sick leave will not be paid out to the team member upon termination of employment.
+
+**Injured Leave**
+* When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO. Team members must designate time off for injury as `Out Sick` or `Vacation` in PTO by Roots if they wish to use sick leave or annual leave for the first week of an injury. Team members must notify Total rewards (total-rewards@gitlab.com) as soon as possible when they will need to go out on injured leave.
+
+* If the leave will last longer than five days and is [covered by the Accident Compensation Corporation (ACC) scheme](https://www.acc.co.nz/im-injured/what-we-cover/), GitLab will top up the ACC payment from 80 to 100% for the first 25 days.
 
 ### Medical
 GitLab does not plan at this time to offer Private Health Insurance benefits because New Zealand residents can access free or subsidised medical care in New Zealand through the public healthcare system. Injuries and accidents are covered by the Accident Compensation Corporation cover.

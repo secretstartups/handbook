@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Safeguard"
+description: "The following benefits are provided by Safeguard and apply to team members who are contracted through Safeguard."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).

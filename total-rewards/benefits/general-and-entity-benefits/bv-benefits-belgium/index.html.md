@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab BV (Belgium) Benefits"
+description: "GitLab BV (Belgium) benefits specific to Belgium based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
@@ -20,11 +21,6 @@ Belgian employees are on state benefits. This includes sickness, medical, disabi
 GitLab does not plan on offering additional private medical or pension benefits at this time due to the government cover.
 
 GitLab will continue to review responses from the [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey/#global-benefits-survey) as well as budgetary availability with respect to adding a Life Insurance policy for team members in Belgium. 
-
-**Annual Mandatory Indexation:** Every January, Belgian’s Joint Industrial Committee 200 (JIC 200) completes a salary review and recommends an adjustment in keeping with the cost of living. That adjustment is referred to as salary indexation and affects employees of companies that are subject to JIC 200 oversight. 
-**A salary indexation of 2% is applicable from 1 June 2020.** This 2% increase is applicable on the base amount.
-
-**Note:** This mandated 2% increase will be deducted from the Annual Comp Review total to ensure there is room for the additional 2% in June of each year. 
 
 ## Ecocheques
 

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Global Upside Benefits"
+description: "Global Upside Benefits specific to India based team members."
 ---
 
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
@@ -52,7 +53,7 @@ Sodexo Meal Cards are an optional benefit. These Meal Cards work like a Debit Ca
 
 * Statutory Maternity Leave
   - The statutory entitlement for maternity leave is 26 weeks as per Maternity Benefit Act 1961. This can be availed maximum on two occasions only. A fitness certificate should be submitted at the time of resumption of duties.
-  - Every female team member availing maternity leave is eligible for an insurance coverage of INR 50,000 for normal/C-section.
+  - Every female team member availing maternity leave is eligible for an insurance coverage of INR 50,000 for expenses related to delivery.
   - If a team member wishes to extend her maternity leave, she shall make a written request to her Reporting Manager and Total Rewards Analysts with a valid justification. In such situation Reporting Manager and Total Rewards Analyst will review the case and inform employee to utilize her SL, CL and PLs for payable days OR / up to a maximum of 4 weeks from 90th day with loss of pay.
 
 * Statutory Paternity Leave:  

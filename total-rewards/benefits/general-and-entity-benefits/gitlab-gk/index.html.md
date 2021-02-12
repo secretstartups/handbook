@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab GK (Japan) Benefits"
+description: "Discover GitLab's benefits for team members in Japan"
 ---
 
 ## On this page
@@ -40,6 +41,9 @@ Team members registered to the Social Insurance are also registered with the Emp
     * The invoice must be uploaded to Expensify to validate the total remiburseable amount. Please do not upload any personal medican data, only the invoice with the total amount due. If you have any questions or concerns please reach out to Total Rewards.  
 
 ### GitLab GK Leave Policy
+
+#### Annual/Vacation Leave
+A team member who has been continuously employed for six months is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Annual paid leave runs concurrently with GitLab PTO. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. Unused annual paid leave expires after two years if not used. Team members are not entitled to payment for unused vacation time upon termination of employment. 
 
 #### Statutory Maternity Leave
 
