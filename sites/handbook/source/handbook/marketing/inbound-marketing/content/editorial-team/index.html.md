@@ -562,7 +562,7 @@ Once the issue is open, the Editorial team member can create an MR for the full 
 
 ```
 This blog post was originally published on the [GitLab Unfiltered blog](/blog/categories/unfiltered/). It was reviewed and republished on yyyy-mm-dd.
-{: .alert .alert-info .note}
+{: .note .alert-info .text-center}
 ```
 - Remove Unfiltered disclaimers from [top](/handbook/marketing/blog/unfiltered/#link-to-disclaimer) and [bottom](/handbook/marketing/blog/unfiltered/#legal-disclaimer) of blog post
 - Change [category](/handbook/marketing/blog/#categories) from `unfiltered` to another
