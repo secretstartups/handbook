@@ -93,10 +93,10 @@ GitLab's Fiscal Year runs from February 1 to January 31.
 
 | Fiscal Year | Calendar Year |
 | ----------- | ------------- |
-| FY21-Q1 | 2020-02-01 to 2020-04-30 |
-| FY21-Q2 | 2020-05-01 to 2020-07-31 |
-| FY21-Q3 | 2020-08-01 to 2020-10-31 |
-| FY21-Q4 | 2020-11-01 to 2021-01-31 |
+| FY22-Q1 | 2021-02-01 to 2021-04-30 |
+| FY22-Q2 | 2021-05-01 to 2021-07-31 |
+| FY22-Q3 | 2021-08-01 to 2021-10-31 |
+| FY22-Q4 | 2021-11-01 to 2022-01-31 |
 
 Refer to our [writing style guidelines](/handbook/communication/#writing-style-guidelines) for proper use of date formats.
 

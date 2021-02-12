@@ -44,7 +44,7 @@ Please tag `@billing-ops` in the `#Finance` channel.
 ### The scope of our tasks:
 
 * Reviewing and invoicing orders
-* Processing refunds - please scroll down to see how to initiate a refund request
+* Processing refunds
 * Providing financial documents, e.g. W-9, certificates of incorporation, bank verification letters.
 * Handling tax exemptions
 * Working on customers’ requests with regards to invoicing and updating account information in Zuora:
@@ -268,11 +268,6 @@ The customers that bought their product over the portal and are renewing over th
 The customers or unauthorized resellers based in the UK, Netherlands, Germany and Australia that were billed through GitLab Inc will be moved to the appropriate entity where purchasing a renewal or initiating contract reset via a sales assisted quote (early termination of the existing contract and new term).
 Please note that add-on opportunities need to be billed via the entity of the opportunity that they are added to.
 
-### How to initiate a refund request within 45 days from the initial invoice date: 
-
-* Sales Rep can chatter us on the Opportunity that needs to be refunded, giving a reason as to why.
-* Customers can email ar@gitlab.com requesting a refund.
-* Customers can submit a ticket via the CustomersDot.
 
 ### Processing a refund in Zuora (credit card payments): 
 
@@ -367,6 +362,8 @@ If the payment doesn’t go through:
 * In exceptional and rare cases, if a customer on credit hold is to be invoiced for new service, a signed promise to pay document has to be received and approved by the Billing Manager.
 * At 150 days old the account is sent to collections for recovery.
 * Self-managed accounts that were cancelled before the end of term will be put on credit hold and reviewed before another purchase.
+
+**For more information about how to use Zuora Collect please follow the link to the** [Enterprise Application Guides](https://about.gitlab.com/handbook/business-ops/enterprise-applications/guides/zuora-collect/#what-is-zuora-collect) 
 
 ### Month end reconciliation:
 

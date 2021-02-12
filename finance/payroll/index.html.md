@@ -192,15 +192,19 @@ If you are a fulltime team member and you are contacted by your state's Unemploy
 
 ### Australia, UK, Belgium, Netherlands, Germany, Ireland, New Zealand and Japan Monthly Payroll Process
 
-1. Payroll changes due date to the payroll providers is around the 9/10th with exception of Australia (12th) & UK (15th) unless the due date falls on a weekend or a holiday, then it will be the working day before this (you can find the calendar for each country at the bottom of this page)  
-1. Total Rewards Team will add bonus, promotion, title changes, etc.. to the Payroll Changes template
-1. Payroll changes are entered into a spreadsheet for commission, bonus, new salary, expenses (where required through Payroll) and password protected the file
+1. The due date for payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. 
+1. The Total Rewards Team will add certain bonuses, promotions, title changes and other relevant information to the Payroll Changes template.
+1. Payroll will gather all changes, along with any commissions, salary changes & expenses (only UK & Canada) and enter onto a password protected file.
 1. Payroll sends the payroll changes file to the local payroll providers.
-1. Local payroll providers will send the payroll reports to Payroll for review and approval
-1. The Payroll Specialist will review and notify Payroll Manager for final review and approval.  Once that is completed then SPS will sends the approval email to the payroll provider before the 21st.
-1. Payroll to be saved and upload the payroll report to the GoogleDrive by month and under the right entity
-1. Payroll will notify the Payments team of funds requests due
-1. GL Reports to be worked on once available from the local provider and forwarded to the GL team.
+1. The Local payroll providers will send the payroll reports to Payroll for review and approval.
+1. The Payroll Specialist will review and notify Payroll Manager for final review and approval.  Once that is completed then final approval will be sent before the 21st of the month.
+1. Payroll & final reports will be uploaded and saved into the relevant Entity folder.
+1. Payroll will notify the Payments team of funds due.
+1. GL reporting will be worked on once available from the local provider and forwarded to the GL team at least 4 days before check date.
+
+### Changing bank information
+
+1. If changing banking information for any reason please ensure to let nonuspayroll@gitlab.com know, and then update BambooHR accordingly.
 
 
 ### iiPay - Australia
