@@ -33,6 +33,7 @@ This page outlines the Quote to Cash process, starting from account and opportun
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
     *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
+    *   [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
@@ -150,7 +151,7 @@ Eval users SKUs are subject to the discount authorization policy.
 Booking:
 
 1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Seek approval via chatter.
-1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. IACV, PCV, etc).
+1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. ARR, iACV, PCV, etc).
 
 ### Known Quote Issues
 
@@ -620,7 +621,7 @@ The following quote metrics are available:
 If a quote has mutiple product tier skus (ex. Premium AND Ultimate), **this requires additional approvals prior to booking the opportunity**.  
 
 1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Request approval via chatter.
-1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. IACV, PCV, etc).
+1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. ARR, iACV, PCV, etc).
 
 ### **How to Send an Order Form to a Customer**
 
@@ -862,7 +863,7 @@ Quoting:
 1. Create an Order Form per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license.
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. Deliver PDF of Order Form to Peter Goldberg (GitLab Alliances team) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance.
-1. Note that IACV will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
+1. Note that Net ARR will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
 
 Requirements to Close Deal:
 
@@ -872,7 +873,7 @@ Requirements to Close Deal:
 
 Closing the Deal:
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as reflected in the Transaction Detail spreadsheet attached to the opportunity. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final IACV. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as reflected in the Transaction Detail spreadsheet attached to the opportunity. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
 1. License keys will be sent to the Sold To Contact automatically upon deal closure, per standard practice.
 1. Billing will create the invoice in Zuora and apply cash once received.
@@ -891,7 +892,7 @@ Quoting:
 1. Create an Order Form per standard practice, and enter Google Cloud Marketplace as the Invoice Owner, and Cloud Marketplace Payments as the Invoice Owner Contact. The Sold To contact must be the individual who will receive the license.
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. Deliver PDF of Order Form to Mayank Tahilramani (GitLab Alliances team) to create the Private Offer. Be sure to select the GCP Quote Template before generating a PDF. Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must reference the GitLab Quote Number, and must match the deal elements as approved on the SFDC quote object / Order Form. Work with Alliances to provide Private Offer to customer for acceptance. Note that the Private Offer references GitLab's subscription terms, and that the customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
-1. Note that IACV will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
+1. Note that Net ARR will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
 
 Requirements to Close Deal:
 
@@ -900,7 +901,7 @@ Requirements to Close Deal:
 
 Closing the Deal:
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Deal Desk will also update your price to reflect the margin taken by GCP. This WILL reduce final IACV. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Deal Desk will also update your price to reflect the margin taken by GCP. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the GCP account is permanently set to silent, and no invoices created will go to GCP.
 1. License keys will be sent to the Sold To Contact automatically upon deal closure, per standard practice.
 1. Billing will create the invoice in Zuora and apply cash once received.
@@ -1119,7 +1120,7 @@ In addition to the above, Deal Desk will also review:
 
     *   Account Ownership
     *   Opportunity Ownership
-    *   Financial Fields [Amount, Renewal Amount, Renewal ACV, iACV]
+    *   Financial Fields [Amount, Renewal Amount, Renewal ACV, iACV, Net ARR]
     *   Compensation Fields [User Segment (O), Account Owner Team (O), Owner Team (O), SA Team - Xactly]
 
 **Professional Services Opportunities**
@@ -1199,7 +1200,7 @@ In some cases, a prospect or customer that is currently engaged with an AE on an
 1. Now go to the original opportunity worked by the Sales Rep.
    * Change the Stage to `Closed Won`.
    * Change the `Start Date`, `End Date`, and `Opportunity Term` to match the values from the web direct opportunity.
-   * Make sure the `IACV`, `ACV`, and `Amount` values are the same.
+   * Make sure the `Net ARR`, `IACV`, `ACV`, and `Amount` values are the same.
    * Save the record.
 1. If the web direct opportunity resulted in a duplicate accounts, please do the following:
    * Open both accounts in multiple tabs.
