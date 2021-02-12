@@ -97,9 +97,9 @@ People Experience team can discuss and take action.
 We're using a custom Slack app, the [Nominatorbot](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/)
 that team members can use to nominate others for discretionary bonuses.
 
-To nominate someone you type in `/nominate name of team member`. The bot will open a dialog
+To nominate someone you type in `/nominate @slack_name`. The bot will open a dialog
 with additional details to fill in. Once filled in, you can submit the dialog. This data
-will be stored in a Google Spreadsheet and is sent through Slack to the nominee's manager.
+will be stored in a database and is sent through Slack to the nominee's manager. 
 
 The manager can then decide to approve or reject this nomination. On approval, the bot will
 send this nomination to the second level manager, People Business Partners and Total Rewards
