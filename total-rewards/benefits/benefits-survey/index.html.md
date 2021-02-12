@@ -31,7 +31,15 @@ If you have any feedback or questions about the global benefits survey, please c
 
 ### 2020 Survey Results Roadmap
 
-* Increased Education around benefits as `I understand my benefits package at GitLab` decreased by 7% company wide. Also to increase awareness on the Total Rewards team is who to reach out to since there is company wide score of 3.82 out of 5 (lowest score among ICs). [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/191)
+* Increased Education around benefits as `I understand my benefits package at GitLab` decreased by 7% company wide. Also to increase awareness on the Total Rewards team is who to reach out to since there is company wide score of 3.82 out of 5 (lowest score among ICs). [Related Issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/191). Actions taken:
+  * Updated the [Total Rewards landing page](https://about.gitlab.com/handbook/total-rewards/) and the [People Group contacts page](https://about.gitlab.com/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group) with our contact details.
+  * Introduced the [Benefits calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#use-the-calculator) so team members can work out their overall Total Rewards package, including fixed costs, general benefits, remote benefits and entity-specific benefits.
+  * [WIP](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/206) - Embed the entity-specific benefits calculator under respective [entity benefit pages](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#entity-benefits). 
+  * Implemented the [Compensation](https://about.gitlab.com/handbook/total-rewards/compensation/#knowledge-assessment), [Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/#knowledge-assessment) and [Equity](https://about.gitlab.com/handbook/total-rewards/benefits/#knowledge-assessment) Knowledge Assessments.
+  * Updated the [onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md) to prompt new team members to familiarize themselves on their Total Rewards package and complete the knowledge assessments.
+  * Updated the [Becoming a GitLab Manager](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md) issue template to prompt new managers to read the Total Rewards pages and check-in with their team members to ensure they understand their Total Rewards package. 
+  * Added the Total Rewards handbook link to promotion and compensation change letters.
+  * Added the Benefits Calculator link and screenshot to all FY22 Total Rewards Statements.
 * Country Conversion Benefits Review:
   * [Austria](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/181): Complete
   * [Mexico](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/158): Complete

@@ -22,11 +22,6 @@ GitLab does not plan on offering additional private medical or pension benefits 
 
 GitLab will continue to review responses from the [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey/#global-benefits-survey) as well as budgetary availability with respect to adding a Life Insurance policy for team members in Belgium. 
 
-**Annual Mandatory Indexation:** Every January, Belgian’s Joint Industrial Committee 200 (JIC 200) completes a salary review and recommends an adjustment in keeping with the cost of living. That adjustment is referred to as salary indexation and affects employees of companies that are subject to JIC 200 oversight. 
-**A salary indexation of 2% is applicable from 1 June 2020.** This 2% increase is applicable on the base amount.
-
-**Note:** This mandated 2% increase will be deducted from the Annual Comp Review total to ensure there is room for the additional 2% in June of each year. 
-
 ## Ecocheques
 
 Each year all employees will be sent ecocheques no later than July 31. In accordance with the local law these are provided by GitLab at no cost to the individuals. These are currently sent by GitLab's payroll provider in electronic form via a [Sodexo](http://be.benefits-rewards.sodexo.com/) card. A pin for this card will be sent separately. The maximum value is 250 Euros, the amount that will be granted is pro-rated depending on the employee's start date. The reference period is from July 1 of the previous year to June 30 of the year of payment. These ecocheques must be used to purchase ecological products and services; you can always find a current list of what is available on the [National Labor Council](http://www.cnt-nar.be/CAO-ORIG/cao-098-quinquies-(23-05-2017).pdf) website. These ecocheques are exempt from social security contributions and may not be awarded for replacement or conversion of salary.

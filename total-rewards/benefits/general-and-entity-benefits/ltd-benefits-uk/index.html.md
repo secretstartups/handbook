@@ -48,6 +48,16 @@ During Vistra's initial onboarding email to enroll in the scheme, they will prov
 | Team Member + Child(ren) | 1.6x Team Member Premium |
 | Family | 2.5x Team Member Premium |
 
+### Vision 
+
+As GitLab team members work (DSE) display screens equipment on a regular basis, GitLab will reimburse team members for a full eye examination and vision test up to 30 GBP. 
+
+If the test shows that the team member needs corrective lenses exclusively for DSE work, GitLab will reimburse towards the cost of a basic pair of frames and lenses (i.e. not designer lenses) up to 120 GBP.
+
+The team member needs to provide documentation (a prescription) from the optician that confirms if the lenses are specifically required for reading a display screen only (this is normally a very small proportion of users) and not required for general day to day use. Please submit your receipts via expensify and prescription to Total Rewards. 
+
+GitLab will explore adding vision coverage as a future iteration to our health benefits 
+
 ## Life Insurance
 
 GitLab is currently reviewing implementing life insurance and disability in the following [issue](https://gitlab.com/gitlab-com/people-group/Compensation/issues/42).

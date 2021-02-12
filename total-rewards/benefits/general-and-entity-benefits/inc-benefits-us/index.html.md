@@ -268,11 +268,24 @@ GitLab offers company paid basic life and accidental death and dismemberment (AD
 
 GitLab provides a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500. 
 
-**Process for Disability Claim**
+**GitLab Process for Disability Claim**
 
 1. If an team member will be unable to work due to disability for less than 25 calendar days, no action is needed and the absence will be categorized under [paid time off](/handbook/paid-time-off/).
 1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed Leave Request Form. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
 1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work. If they are unable to, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
+
+**Short Term Disability Claim Process via Cigna**
+
+1. Team member will submit the [Short Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form by email to the Total Rewards team at `total-rewards@gitlab.com`.  
+1. The Total Rewards team will complete the employer portion of the Short Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
+1. The Total Rewards team will notify the team member of submission of claim and provided next steps. 
+1. Cigna Claims Process:   
+  * Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed.  
+  * The claims team will also contact the Total Rewards team to confirm eligibility and verify job responsibilities, if needed.  
+  * Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so.  
+  * If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Total Rewards team will also receive a notification of the denial. 
+  * If approved, communication is sent to the Total Rewards team and claim status reports with approval date and estimated return-to-work date is provided to the Total Rewards team.   
+1. The Total Rewards team will process the approval or denial and file all related paperwork in BambooHR.  
 
 ## Employee Assistance Program
 
@@ -440,19 +453,15 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 
 ### Apply For Parental Leave in the US
 
-1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable.
-2. For a birthing parent (maternity leave), the team member will fill out the Leave Request Form per the instructions below and email the form to total-rewards@ domain.
-      - The form will be populated once we have a new form from Cigna. 
-      - The typical pay for STD is six weeks for a vaginal birth and eight weeks for a c-section. STD can be extended if the team member has a pregnancy related complication (bed rest, complications from delivery, etc).
+1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable by entering the dates in PTO Roots via Slack.
+2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and email the completed forms to `total-rewards@gitlab.com`.
+      - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will dispurse those funds to the team member. The intention of this form is to keep payroll consistent for the team member via GitLab payroll vs needing to offset disability payments from Cigna. GitLab may need to offset any state related payments if applicable. 
+      - Please see the Short Term Disbaility claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance). 
 1. The Total Rewards team will send the team member an email with how payments will be processed and advise any differences in pay.
-      - Use PTO time for the Elimination Period
 1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
 1. The team member will notify the Total Rewards team on their first day back to work.
 1. The Total Rewards team will get a notification once the claim is closed. 
 1. TODO Outline process to return the team member to work
-
-#### Maternity Leave STD Form - Team Member to fill out:
-This section will be populated once we have the form from Cigna. 
 
 #### Maternity Leave STD Form - Total Rewards to fill out:
 This section will be populated once we have the form from Cigna. 
@@ -494,42 +503,34 @@ If you are currently employed and have any general COBRA questions, feel free to
 
 **Medical**
 
-| Tier                           | UHC HSA   | UHC EPO (A/B) |  UHC PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
+| Tier                           | Cigna EPO   | Cigna HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
 |--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
-| Team Member Only               | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
-| Team Member + Domestic Partner | $813.61   |   $1,088.96   | $1,086.49  |     $1,159.72     |     $1,159.72    |    $1,376.71   |   $963.66    |
-| Team Member + Spouse           | $813.61   |   $1,088.96   | $1,086.49  |     $1,159.72     |     $1,159.72    |    $1,376.71   |   $963.66    |            
-| Team Member + Child(ren)       | $705.88   |   $944.76     | $942.61    |     $1,024.48     |     $1,024.48    |    $1,251.56   |   $867.29    |
-| Family                         | $1,129.41 |   $1,511.63   | $1,508.19  |     $1,521.31     |     $1,521.31    |    $1,877.34   |   $1,445.49  |
-| Spouse Only                    | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
-| Spouse + Child(ren)            | $705.88   |   $944.76     | $942.61    |     $1,024.48     |     $1,024.48    |    $1,251.56   |   $867.29    |
-| Child Only                     | $371.52   |   $497.25     | $496.12    |     $502.20       |     $502.20      |    $625.78     |   $481.83    |
+| Team Member Only               | $562.21   |   $423.75     | $549.39   |     $532.72       |     $532.72      |    $734.04     |   $495.41    |
+| Team Member + Domestic Partner | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19    |    $1,614.88   |   $990.83    |
+| Team Member + Spouse           | $1,225.69   |   $917.57   | $1,197.64  |     $1,230.19     |     $1,230.19   |    $1,614.88   |   $990.83    |            
+| Team Member + Child(ren)       | $1,063.98   |   $797.22     | $1,039.70    |     $1,086.73     |     $1,086.73   |    $1,468.08   |   $891.75    |
+| Family                         | $1,699.62 |   $1,270.30   | $1,660.70  |     $1,613.74     |     $1,613.74    |    $2,202.12   |   $1,486.24  |
+
 
 **Dental**
 
 | Tier                           | Cigna DPPO |
 |--------------------------------|:----------:|
-| Team Member Only               |   $38.99   |
-| Team Member + Domestic Partner |   $77.48   |
-| Team Member + Spouse           |   $77.48   |
-| Team Member + Child(ren)       |   $89.62   |
-| Family                         |   $137.49  |
-| Spouse Only                    |   $38.99   |
-| Spouse + Child(ren)            |   $89.62   |
-| Child Only                     |   $38.99   |
+| Team Member Only               |   $39.77   |
+| Team Member + Domestic Partner |   $79.03   |
+| Team Member + Spouse           |   $79.03   |
+| Team Member + Child(ren)       |   $91.41   |
+| Family                         |   $140.24  |
 
 **Vision**
 
 | Tier                           | Cigna VPPO |
 |--------------------------------|:----------:|
-| Team Member Only               |   $7.51    |
-| Team Member + Domestic Partner |   $15.05   |
-| Team Member + Spouse           |   $15.05   |          
-| Team Member + Child(ren)       |   $12.74   |
-| Family                         |   $21.01   |
-| Spouse Only                    |   $7.51    |
-| Spouse + Child(ren)            |   $12.74   |
-| Child Only                     |   $7.51    |
+| Team Member Only               |   $7.66    |
+| Team Member + Domestic Partner |   $15.35   |
+| Team Member + Spouse           |   $15.35   |          
+| Team Member + Child(ren)       |   $12.99   |
+| Family                         |   $21.43   |
 
 ## Audit Processes
 
@@ -563,18 +564,11 @@ TODO
 
 This quarterly audit is conducted to identify any differences in enrollment between the carrier records and what a team member has elected in Lumity.
 
-#### UHC Medical
-
-TODO
 
 #### Kaiser Medical
 
 TODO
 
 #### Cigna Dental/Vision
-
-TODO
-
-#### UHC Life/Disability
 
 TODO

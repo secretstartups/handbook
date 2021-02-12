@@ -22,7 +22,7 @@ If you have any feedback or questions about the compensation review cycle, pleas
 GitLab goes through 2 compensation reviews:
 
 1. **Annual Compensation Review** - Happens in the fourth quarter of each year. This is when Compensation Calculator inputs are reviewed and when majority of compensation is reviewed for team members. Any changes will be processed with an effective date of February 1st.
-1. **Targeted Mid-Year Increase Review** - For team members hired in November to January. The process starts in August with an effective date of September 1st.
+1. **Targeted Mid-Year Increase Review (previously called "catch-up" review)** - For team members hired in November to January. The process starts in August with an effective date of September 1st.
 
 ## Annual Compensation Review
 
@@ -94,8 +94,8 @@ All team members hired on or before October 31st will be eligible to be evaluate
 1. January 27th - February 1st: Total Rewards will present all compensation changes to the Compensation Group for final approval.
 
 ##### February:
+1. February 1st - Februrary 4th: Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Total Rewards will be generating a "Total Rewards Statement" inclusive of Cash Compensation changes and current equity value for managers to use in communicating compensation changes in FY22.
 1. Once the People Group gives the ok: Managers will inform the team members of the increase and adjustments to compensation compared to their performance. Team members will need to be notified no later than February 12th.
-1. Total Rewards Analysts will update [BambooHR](https://www.bamboohr.com/d/), and notify all payroll providers to be effective February 1st. Letters of adjustment are not necessary for annual compensation review changes, but Total Rewards will be generating a "Compensation Summary" inclusive of Cash Compensation changes and current equity value for managers to use in communicating compensation changes in FY22.
 
 ### Duties and Responsibilities
 
@@ -283,7 +283,16 @@ Recommendations from Total Rewards for discretionary increases based on performa
 
 Do not expect that the final discretionary increases will fall into these ranges, as performance is only one factor out of many that goes into compensation adjustments.
 
-Managers should take into account any increases the team member received in the last fiscal year (for example, due to promotion, transfer, catch-up compensation review, etc.) or if the team member was recently hired and already aligned to market/performance rates. After a manager determines the performance increase percent, he or she should be able to clearly communicate to the team member how it was derived.
+When determining an increase, managers should account for increases in the current fiscal year,
+due to factors such as:
+* Promotion.
+* Transfer.
+* Targeted mid-year increase review.
+* Recent hire who is already aligned to market/performance rates.
+* Anything else that has already increased salary during the current fiscal year.
+
+After a manager determines the performance increase (in percentages), that manager should be able
+to clearly communicate to the team member how it was derived.
 
 Increases are not capped at 10%. If a manager would like to suggest an increase higher than the guidelines, they will want to add a justification for each indirect manager to review and approve.
 
@@ -403,7 +412,7 @@ As Person B's manager, Person B is one of my top performers and I want to compen
 
 ### Iterations to Compaas
 
-We have now completed two compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team during [Annual Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/80) and [Catch-up Compensation Review](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173), we are working to have the following iterations to our process in Compaas. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
+We have now completed two compensation reviewed utilizing Compaas. Based on some awesome [Annual Compensation Review feedback](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/80) and [Catch-up Compensation Review feedback](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173) from our GitLab team, we are working to have the following iterations to our process in Compaas. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
 
 The following iterations are expected to be live for FY22 Annual Compensation Review:
 * Implement Proxy Access for People Business Partners. People Business Partner currently have access to a report, but the goal is to have this access expanded to admin access for their parts of the organization.
@@ -423,11 +432,29 @@ The following iterations will not be ready to ship in time for FY22 Annual Compe
 
 All increases for Annual Compensation Review will be finalized by Feb 1st. FY 2022 compensation will be uploaded into BambooHR no later than Feb 4th for payroll to make changes in all subsequent systems. The Total Rewards team will turn off the ability to see compensation in BambooHR using Employee or Contractor Self Service from Jan 25th until Feb 12th for Employees and until Feb 5th for Contractors. Managers will have the ability to communicate any increases to their team before end of day on the 5th for Contractors and end of day on the 12th for Employees.
 
+For FY22, each team member with a compensation change will have a [Total Rewards Statment](/handbook/total-rewards/compensation/compensation-review-cycle/#total-rewards-statement) generated. Managers are able to utilize this letter when having conversations with your team members about their increase and overall Total Rewards Compensation package at GitLab. More information on these letters can be found in the handbook section below. 
+
 Communication Guidelines can be found in the [Leadership Toolkit](/handbook/leadership/compensation-review-conversations/).
 
-Please note, the % increases in Compaas are rounded up to the nearest whole number. Please either communicate the amount increase or calculate the % increase to at least the hundredths place for communication: `((FY22 Salary-FY21 Salary)/FY21 Salary)`.
-
 If your direct report has any questions on the calculation of their increase please feel free to have them reach out to the Total Rewards team.
+
+#### Total Rewards Statement
+
+Each team member who receives an increase during the Annual Compensation Review cycle will receive a Total Rewards Statement detailing their Total Rewards package (cash, equity, benefits). This letter will be available for managers to review in BambooHR no later than Feb 4th. Team members who are Contractors will be able to review their letter on Feb 6th and team members who are Employees will be able to review their letter on Feb 13th. Managers should share the letter in BambooHR once they have reviewed this with the team member. Please reach out to Total Rewards if the letter hasn't been shared by Feb 6th (Contractors) or Feb 13th (Employees) and we'll share this with you. Instructions for downloading and reviewing the letter are as follows:
+1. Log into [BambooHR](https://gitlab.bamboohr.com/).
+1. If you are a manager, navigate to the profile of one of your direct reports first. Select the Documents tab and expand the `Annual Compensation Review Total Rewards Statements` folder. You can either select the linked document name to open a quick view of the Total Rewards Statement in BambooHR or select the download button that appears to the right of the letter. If you are a manager and are unable to see the Documents tab for your team member, please reach out to `total-rewards@ gitlab` and we will review your access level.
+   * ![download change letter](/images/handbook/people-group/BHR_ACRLetter_Folder.png)
+1. There are two different letter formats depending on whether you/your team member is paid a base salary only or receives a commission/bonus:
+   * [Base + Bonus Letter Example](https://drive.google.com/file/d/141f-z4ID3kNHsPbRkBv5H38t9Ffy3lUr/view?usp=sharing)
+   * [Base Only Letter Example](https://drive.google.com/file/d/1_ytqLF6MlpNWLTorSzXJRoaKiT5aBUoI/view?usp=sharing)
+1. Each letter will have a Cash Compensation Section outlining the current (FY21) compensation and new (FY22) compensation in the team member's local currency.
+   * The Base Only letter will list the current and new Base Salary as well as the percent increase (Total Target Cash Compensation % Change).
+   * The Base + Bonus letter will list the current and new Base Salary, the current and new Target Bonus (Variable), the current and new Total Target Cash Compensation (Base + Bonus), and the Total Target Cash Compensation % Change. 
+1. Both letters will also have a section for Equity Compensation outlining the number of unvested stock options as of January 27, 2021. The letter will also include a link to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the manager and team member to review the potential value of the unvested stock options. 
+   * Please note that the current number of unvested stock options was pulled on January 27th. The total number of unvested options may have changed between this date and the time the letter is reviewed if more stock options were vested during this time period. Please see the handbook for more information on [vesting at GitLab](https://about.gitlab.com/handbook/stock-options/#vesting).
+1. Both letters will also have a section for Benefits linking to the [Compensation Calculator](https://comp-calculator.gitlab.net/) for the team member to review the value of their benefits package. The compensation calculator outlines the following benefits: Remote Benefits, General Benefits, and Entity-Specific benefits.
+1. To share the letter directly with the team member once their increase has been communicated, select the gear button to the right of the letter, select "Share with Employee", and, in the pop up prompt, select "Share" again.
+   *  ![share letter](/images/handbook/people-group/Share_Letter.png)
 
 ## FY 2022 Annual Compensation Review Budget
 
@@ -441,7 +468,7 @@ For Fiscal Year 2022, the promotion and annual compensation review budget is sep
   * The budget for [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and above is managed by the Compensation Group internally to GitLab, and approved by the Compensation Committee at the Board level.
 1. Relocation Budget
   * Relocations are not considered in the budget. Theoretically throughout the year, there would be a net zero from those moving to higher-cost and lower-cost regions.
-1. Budget Rollovers: The budget from annual compensation review can rollover into the catch up compensation review or the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset.
+1. Budget Rollovers: The budget from annual compensation review can rollover into the targeted mid-year increase review or the promotion budget for that fiscal year. For example, if Engineering has 20,000 USD left after the FY22 annual compensation review process, they can use these funds for promotions in FY22. At the end of each fiscal year, the budgets will reset.
 1. Budgets _cannot_ be transferred to a different division.
 
 **Calculating Budget Actuals**
