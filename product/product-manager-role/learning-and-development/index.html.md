@@ -32,12 +32,12 @@ Online course: [Continuous Interviewing by Product Talk](https://learn.productta
 
 Specific topics:
 
-- Jobs To Be Done: https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/
-- Growth hacking: https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X
+- Jobs To Be Done: [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
+- Growth hacking: [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
 
 ### Build Track Skills
 
-Introductory material: https://agileforall.com/how-to-split-a-user-story/
+Introductory material: [How to split a user story](https://agileforall.com/how-to-split-a-user-story/)
 
 Recommended book: [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
@@ -45,7 +45,7 @@ Online course: ?
 
 Speficic topics:
 
-- User story mapping: https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909
+- User story mapping: [Jeff Patton: User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 
 ### Business Skills
 
