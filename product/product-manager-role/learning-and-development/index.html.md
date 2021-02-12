@@ -35,7 +35,7 @@ Specific topics:
 - Jobs To Be Done: https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/
 - Growth hacking: https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X
 
-### Build Track Resources
+### Build Track Skills
 
 Introductory material: https://agileforall.com/how-to-split-a-user-story/
 
