@@ -173,6 +173,14 @@ Please ensure you have the [guide chrome extension](https://chrome.google.com/we
 1. Select the appropriate email template in the dropdown (e.g. New Interviewer, Shadow Added, Updated Interview Confirmation)
 1. Press ‘Send’
 
+#### If a Candidate Withdraws from the Hiring Process
+
+If a candidate emails the CES Service Desk stating they would like to withdraw from the interview process, the CES should respond to the candidate's email (not the service desk ticket) and cc the recruiter (if the recruiter isn't already on the email). The CES response should not say anything definite as there may be a chance for the recruiter to reel the candidate back in. A basic response is below: 
+
+> Hi `Candidate Name`, thank you for your email. I have cc'd your recruiter in this email and if there are any additional questions, they will be in touch. 
+
+The only exception to this should be for executive roles. Please just forward the withdrawal email to the Executive Recruiter and they will handle any follow-up. 
+
 ### Reference Checks/Background Checks
 
 GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) with employment verifications.
