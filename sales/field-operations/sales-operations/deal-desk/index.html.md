@@ -423,15 +423,17 @@ On the main contract reset opportunity, populate the "Opportunity Category" fiel
 
 All Contract Reset opportunities will be classified as a "Renewal" and will be subect to Renewal ACV, which will impact overall IACV depending on the scenario. 
 
-For more information on ARR calculation for Contract Resets, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce).
+For more information on ARR calculation for Contract Resets, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-contract-resets).
 
 #### Multi-Year Deals
 
-A.  Note: In the case of multi-year deals, the Initial Term” should be updated to reflect the number of months in the term - 24, 36, 48, etc. Also, select the correct Product (i.e. for a 2 year Starter deal, select “Starter - 2 Year”). Multi-year deals that do not utilize the correct SKU will be rejected. 
+A.  Note: In the case of multi-year deals, the Initial Term” should be updated to reflect the number of months in the term - 24, 36, 48, etc. Also, select the correct Product (i.e. for a 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Multi-year deals that do not utilize the correct SKU will be rejected. 
 
 B.  If annual payments are requested for multi-year deals, use the 1 Year product. Note that annual payments must be approved in chatter by Paul Machle.
 
 C.  Note: If annual payments are approved, create a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed. The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments."
+
+For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
 
 #### Ramp Deals 
 
@@ -468,6 +470,8 @@ B.  Request template:
 C.  Deal Desk will create the quotes and Order Form.
 
 On the opportunity, populate the "Opportunity Category" field with "Ramp."
+
+For more information on ARR calculation for Ramp Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals).
 
 #### Miscellaneous (But Important) Information related to Quotes
 
