@@ -62,10 +62,11 @@ For more info on the capabilities of each role, [see the knowledge base article]
 | Team | User Roles | Rules of Engagement |
 | ---- | ---------- | ------------------- |
 | Marketing Operations | `Admin` | Manage, quality assurance, user management, system integrations, training |
-| Marketing Campaign Managers | `Author` | Add content, create and edit content tracks for use in campaigns |
-| Content Marketing | `Author` | Upload new content, quality assurance |
-| Field Marketing | `Reporter` | View content performance |
-| Account Based Marketing | `Author` | Add content, create and edit content tracks for use in campaigns |
+| Content Marketing | `Author` | Add content, quality assurance, participate in quarterly content audits |
+| Marketing Campaign Managers | `Author` | Add content, create and edit tracks for use in campaigns, define form strategy for conversion on tracks, participate in quarterly content audits |
+| Product Marketing | `Author` (select users), `Reporter` (select users) | Upload new content, participate in quarterly content audits, collaborate with `Authors` of tracks on content selection |
+| Field Marketing | `Author` (select users), `Reporter` (select users) | Upload content from virtual workshops, clone existing workshop tracks for use in follow-up emails, view content performance |
+| Account-Based Marketing | `Author` | Add content, create and edit content tracks for use in campaigns |
 | Customer Reference Programs | `Author` | Upload new case studies and customer content |
 | Developer Evangelism | `Author` | Upload new technical content |
 | Sales Development Representative (SDR) | `Sales user` (PathFactory for Sales only) | PathFactory for Sales (SFDC) |
