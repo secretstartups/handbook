@@ -65,6 +65,7 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
 
 * Statutory Sick Leave
   - GitLab complies with [Dutch local Laws](https://business.gov.nl/regulation/reporting-employee-illness-recovery/) regarding sick leave. Local laws override any leave policy we have in the benefit of the team members.
+  - For reporting sick leave please review [the sick time procedure for The Netherlands here](/handbook/paid-time-off/#sick-time-procedures---netherlands). 
 
 * Statutory Maternity leave
   - The team member is entitled to a maximum six weeks' leave prior to the estimated date of childbirth and for ten weeks after that date; therefore totaling sixteen weeks.
