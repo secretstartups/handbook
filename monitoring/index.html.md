@@ -57,7 +57,7 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 - [Production Architecture](/handbook/engineering/infrastructure/production-architecture/)
 - [GitLab.com Settings](/gitlab-com/settings/)
-- [GitLab Performance Monitoring Documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html)
+- [GitLab Performance Monitoring Documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/#gitlab-performance-monitoring)
 - [Performance of the Application](/handbook/engineering/performance/)
 
 ## Related Videos
