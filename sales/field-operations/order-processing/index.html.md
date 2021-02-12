@@ -24,6 +24,7 @@ This page outlines the Quote to Cash process, starting from account and opportun
     *   [Current Quarter WW Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M0000007H7W)
     *   [Monthly Bookings Report](https://gitlab.my.salesforce.com/00O61000004Ik27)
     *   [Deal Desk Pending Opportunity Approvals Report](https://gitlab.my.salesforce.com/00O4M000004e0Dp)
+    *   [Billing Pending Opportunity Approvals Report](https://gitlab.my.salesforce.com/00O61000003iSpN)
 
 *   **Frequently Used Handbook Pages**
 
