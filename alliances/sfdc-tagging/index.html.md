@@ -40,7 +40,7 @@ It should be noted that for each of the Alliance assist tagged opportunities, it
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 --- | --- | --- | --- 
-Alliance Partner | Assisted | Alliance Partner | None
+Alliance Partner | Assisted | Alliance Partner | Resale
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKB)
 
@@ -56,7 +56,7 @@ None | None | Alliance Partner | None
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 --- | --- | --- | --- 
-VAR Partner | Partner Sourced or Partner Assist or Fulfillment | Alliance Partner | Re-sell
+VAR Partner | Partner Sourced or Partner Assist or Fulfillment | Alliance Partner | Resale
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKL)
 
@@ -67,7 +67,7 @@ VAR Partner | Partner Sourced or Partner Assist or Fulfillment | Alliance Partne
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 --- | --- | --- | --- 
-Alliance Partner | Fulfillment | Alliance Partner | None
+Alliance Partner | Fulfillment | Alliance Partner | Resale
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKQ)
 
@@ -79,7 +79,7 @@ Alliance Partner | Fulfillment | Alliance Partner | None
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 --- | --- | --- | --- 
-Alliance Partner | PIO | Alliance Partner | Referral
+Alliance Partner | PIO | Alliance Partner | Resale
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKV)
 
@@ -87,7 +87,7 @@ Alliance Partner | PIO | Alliance Partner | Referral
 
 DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 --- | --- | --- | --- 
-Alliance Partner | PIO | Alliance Partner | None
+Alliance Partner | PIO | Alliance Partner | Referral
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKa)
 
@@ -103,9 +103,9 @@ Below is for a filter view of opportunities that have a stage of `closed/won` in
 
 Type of deal | DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 --- | --- | --- | --- | --- 
-Assist 1 (MP) | Alliance Partner | Assisted | Alliance Partner | None
+Assist 1 (MP) | Alliance Partner | Assisted | Alliance Partner | Resale
 Assist 2 | None | None | Alliance Partner | None
-Assist 3 | VAR Partner | PIO or Partner Assist or Fulfillment | Alliance Partner | Re-sell
-fulfillment (MP) | Alliance Partner | Fulfillment | Alliance Partner | None
-Sourced 1 (MP) | Alliance Partner | PIO | Alliance Partner | Referral
-Sourced 2 | Alliance Partner | PIO | Alliance Partner | None
+Assist 3 | VAR Partner | PIO or Partner Assist or Fulfillment | Alliance Partner | Resale
+fulfillment (MP) | Alliance Partner | Fulfillment | Alliance Partner | Resale
+Sourced 1 (MP) | Alliance Partner | PIO | Alliance Partner | Resale
+Sourced 2 | Alliance Partner | PIO | Alliance Partner | Referral
