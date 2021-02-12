@@ -186,7 +186,7 @@ These are boosters to scores that occur when a special action takes place above 
 |PF Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|Everytime|
 |PF Engagement Booster 1|Engagement Time >  2 minutes < 4 minutes|+10|{{my.Content Boost 1}}|Trigger|Everytime|
 |PF Engagement Booster 2|Engagement Time > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|Everytime|
-|PF Fast Moving Buyer|Becomes fast moving buyer|+10|{{my.FMB Booster}}|Trigger|Once|
+|PF Fast Moving Buyer|Becomes fast moving buyer|+10|{{my.FMB Booster}}|Trigger|1/month|
 |LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
 
