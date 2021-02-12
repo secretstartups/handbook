@@ -62,7 +62,14 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales 
 | ---------- | ---- | -------------- | ----- | 
-
+|	NA East	|	Named East	|	**Named Accounts**	|	Mark Bell	|
+|	NA East	|	Named East	|	**Named Accounts**	|	Jordan Goodwin	|
+|	NA East	|	Named East	|	**Named Accounts**	|	David Wells	|
+|	NA East	|	Named East	|	**Named Accounts**	|	Larry Biegel	|
+|	NA East	|	Named East	|	**Named Accounts**	|	Chip Digirolamo	|
+|	NA East	|	Named East	|	**Named Accounts**	|	Josh Rector |
+|	NA East	|	Named East	|	**Named Accounts**	|	Sean Billow	|
+|	NA East	|	Named East	|	**Named Accounts**	|	Scott Hall	|
 |	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-2	|	Jim McMahon	|
@@ -126,6 +133,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales |
 | ---------- | ---- | -------------- | ----- | 
+|	EMEA	|	Named EMEA	|	**Named Accounts**	|	Hugh Christey	|
+|	EMEA	|	Named EMEA	|	**Named Accounts**	|	Timo Schuit	|
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	|
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	|
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Christoph Stahl	|
@@ -166,7 +175,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
-||	ANZ	|	ANZ	|	MM-APAC-ANZ	|	Ian Chiang	|
+| ANZ	|	ANZ	|	MM-APAC-ANZ	|	Ian Chiang	|
 |	Asia Central	|	Asia Central	|	MM-APAC-Central Asia	|	Ishan Padgotra	|
 |	Japan	|	Japan	|	MM-APAC-Japan	|	Ian Chiang	|
 |	Asia Central	|	Pakistan	|	MM-APAC-Pakistan	|	Ishan Padgotra	|
@@ -198,9 +207,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Conor Brady	|
 |	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	|
 |	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	|
-
 |	France	|	FR	|	MM-EMEA-France-FR 7x	|	Conor Brady	|
-
 |	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Conor Brady	|
 |	France	|	R	|	MM-EMEA-France-R	|	Conor Brady	|
 |	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Daisy Miclat	|
@@ -259,8 +266,12 @@ For the detailed breakdown of how the territories are mapped please reference th
 #### APAC
 
 | Sub-Region | Area | **Territory Name** | Sales | 
-| ---------- | ---- | -------------- | ----- | --- |
-
+| ---------- | ---- | -------------- | ----- |
+|	ANZ	|	ANZ	|	SMB-APAC-ANZ	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-JAPAN	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-SE Asia	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-Central Asia	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-Pakistan	|	Ishan Padgotra	|
 
 #### EMEA
 
@@ -280,5 +291,5 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	DACH	|	SMB-EMEA-Rest of DACH	|	Rahim Abdullayev
 |	Southern Europe	|	Europe South	|	SMB-EMEA-Southern Europe	|	Camilo Villanueva
 |	UKI	|	UKI	|	SMB-EMEA-UKI-1	|	Tim Guibert
-|	UKI		UKI		SMB-EMEA-UKI-2		Tim Guibert
+|	UKI	|	UKI	|	SMB-EMEA-UKI-2	|	Tim Guibert
 
