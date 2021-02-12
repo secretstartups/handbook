@@ -179,6 +179,8 @@ If a candidate emails the CES Service Desk stating they would like to withdraw f
 
 > Hi `Candidate Name`, thank you for your email. I have cc'd your recruiter in this email and if there are any additional questions, they will be in touch. 
 
+The CES should also tag the Recruiter in the Greenhouse profile of the candidate who withdrew.
+
 The only exception to this should be for executive roles. Please just forward the withdrawal email to the Executive Recruiter and they will handle any follow-up. 
 
 ### Reference Checks/Background Checks
