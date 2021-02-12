@@ -123,7 +123,7 @@ Supported topics include:
 
 #### Deal Desk AMA
 
-Deal Desk AMA's are an opporutity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opporutnities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
+Deal Desk AMA's are an opportunity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opportunities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
 
 Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
 
@@ -415,7 +415,7 @@ Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 mon
     *   **Note: The Start Date should be the new subscription term’s start date, or the “Early Renewal” date.**
 *   Click Next and update the products and fees per the steps above.
 *   **IMPORTANT:** Next, tag `@Sales-Support` in Chatter on the Renewal Opportunity to create a credit opportunity and quote to cancel the existing subscription, which in this scenario is being replaced with the new subscription. Deal Desk will then manually generate a Contract Reset Opp and Order Form to add the credit line into the order form once the quote has been fully approved.
-*   Deal Desk will attach a PDF of the consolidated quote to the opportuntiy 
+*   Deal Desk will attach a PDF of the consolidated quote to the opportunity 
 *   Sales team will send the order form to the customer for signature
 *   Upload the signed order form to the renewal opp and to the credit opp as well and submit both opps for approval
 
@@ -527,7 +527,7 @@ If an opportunity requires multiple invoices due to a specific professional serv
 
 **Invoice Amounts** 
 
-If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the original opporuntiy must reflect the entire opportunity term. 
+If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the original opporunity must reflect the entire opportunity term. 
 
 **Ex.** 
 
@@ -536,7 +536,7 @@ If all payments associated with the opportunity are equal (ex. 3 payments of $10
 * Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
 * Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
 
-If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- then the original opporuntiy quote should only reflect the first year (invoice period) of the subscription. 
+If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- then the original opporunity quote should only reflect the first year (invoice period) of the subscription. 
 
 **Ex.** 
 
