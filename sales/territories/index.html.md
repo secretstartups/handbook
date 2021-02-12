@@ -261,8 +261,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	AMER	|	AMER	|	SMB-AMER-WEST-NW	|	Marsja Jones
 |	AMER	|	AMER	|	SMB-AMER-WEST-SW	|	Adam Pestreich
 
-^ `SDR` = `AMER Commercial - SMB`: Round robin group consisting of Phillip Knorr and Kelsey Steyn 
-
 #### APAC
 
 | Sub-Region | Area | **Territory Name** | Sales | 
