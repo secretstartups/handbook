@@ -970,7 +970,7 @@ Blog images are stored in the `source/images/blogimages/` directory. If your pos
 
 #### Preparing images
 
-- If creating an original cover image, the dimensions should be 900x400 at least, but ideally 1800x800 for optimal quality on all displays.
+- If creating an original cover image, the dimensions should be 900px x 400px at least, but ideally 1800px x 800px for optimal quality on all displays.
 - If using an existing image for the cover (e.g. stock photography), if it is in landscape format you may not need to crop it. Please check the blog post preview locally or in the review app to ensure the image appears as expected.
 - All images should be less than 1MB. JPEGs tend to be smaller than PNGs so use JPEGs when possible. You can compress images using [TinyPNG.com](https://tinypng.com/) or any other image editor.
 - To resize in Preview go to `Tools`, `Adjust size` and adjust the entry in the `Resolution` field. Preview will estimate what the resulting image size will be before you click `OK` to confirm.
