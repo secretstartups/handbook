@@ -346,3 +346,5 @@ If multiple tags are added to the description, please enter the additional tag o
 <div><span style="font-size: xx-small;"><span style="color: white;">Remote-North America</span></span></div>
 
 While tags are not visible on the Greenhouse posting, they will appear when viewed on LinkedIn. So, please, be mindful of how many tags are added to any one particular requisition.
+
+1. Once the LinkedIn coding is complete, the CES will make the external job post live. 
