@@ -100,7 +100,7 @@ Deal Desk will review any quote to ensure accuracy and completion. **However, sa
 
 Occasionally, you may encounter a complex deal that has **non-standard** elements. The Deal Desk team will assist the opportunity owner in creating the quote correctly. Some examples of these complex scenarios include:
 
-* **Contract resets:** If the customer wishes to reset their subscription term in the middle of their term (for example, they want to upgrade, but want to reset their term for 12 months starting on the date of upgrade), you will need create a new subscription. In this case, the Subscription Type will be 'New' while the Opportunity Type will be 'Renewal'. Deal Desk will assist you with the credit portion for the remainder of the existing subscription, which in this case would be cancelled.
+* **Contract Resets:** If the customer wishes to reset their subscription term in the middle of their term (for example, they want to upgrade, but want to reset their term for 12 months starting on the date of upgrade), you will need create a new subscription. In this case, the Subscription Type will be 'New' while the Opportunity Type will be 'Renewal'. Deal Desk will assist you with the credit portion for the remainder of the existing subscription, which in this case would be cancelled.
 * **Co-term of multiple subscriptions:** If the customer has multiple groups and wishes to consolidate their subscriptions, an "Amendment" may be created against a "Renewal Business" opportunity.
 * **Splitting out a single subscription**. Conversely, there may be times when a customer needs to split their single subscription into multiple subscriptions. When this occurs, the Subscription Type and Opportunity Type will be 'Renewal'.
 * **Ramped Pricing:** If the prospect or customer would like to employ a ramped pricing schedule where they may want to increase their user count over time. Two examples of ramped schedules include:
@@ -905,6 +905,13 @@ Closing the Deal:
 1. Note that the GCP account is permanently set to silent, and no invoices created will go to GCP.
 1. License keys will be sent to the Sold To Contact automatically upon deal closure, per standard practice.
 1. Billing will create the invoice in Zuora and apply cash once received.
+
+</details>
+
+<details>
+<summary markdown="span"><b>Specific Requirements for opportunities sold via IBM</b></summary>
+
+IBM Transactions Placeholder
 
 </details>
 
