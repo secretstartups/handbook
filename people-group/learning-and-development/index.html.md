@@ -29,6 +29,8 @@ Our mission is to provide resources to enable our team members to enhance succes
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBdQFDSp8MBSkekUzM-DItdPxr-ETEjrCq85fhET_cC-6nAJGfwuFE-aK3jwSLJylg6yX8N1THaHsk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
+Learn more about our [FY22 Roadmap and curriculum](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375).
+
 ## Handbook First Training Content
 
 All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build handbook first learning content. One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
@@ -219,13 +221,15 @@ Our team will review and set the priority for your content request or review bas
 The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on three-week sprints.
 
 * The L&D team uses [this sprint issue board](hhttps://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538) to track priority issues each quarter.
-* The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint.
-* The `L&D Ongoing` list is meant for long term projects the team is working on that cannot be accomplished in one sprint but are a priority.
-* Following the ongoing list, the team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
-* Issues can be moved from the `open` list to the correct sprint when they are ready to be assigned/addressed.
+* The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint, backlog, or priority.
+* When a new issue is opened, it should be moved to either the `ld-backlog` or `ld-fyxx-q1-priority` list. This will determine if the issue is a priority for the current quarter, or a backlog issue to be addresses as time allows.
+* The team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
+* Issues can be moved from the `ld-backlog` or `ld-fyxx-q1-priority` list to the correct sprint when they are ready to be assigned/addressed.
 * When an issue is closed, it should remain in the given milestone.
 * At the end of the sprint, the milestone can be removed from the board, or the milestone list can be hidden on the issue board.
-* The `L&D Requests` column should be used to organize requests for L&D support or courses coming from other teams.
+* The `L&D Requests` list should be used to organize requests for L&D support or courses coming from other teams.
+* The `manager-challenge` list holds issues related to each Manager Challenge and can be hidden on the sprint board.
+* The `advanced-software-engineering-course` list houses issues related to external software engineer courses can can be hidden on the sprint board.
 
 Additional planning and notes around the sprint board can be found in [this issue.](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/111)
 
@@ -239,6 +243,11 @@ Additional planning and notes around the sprint board can be found in [this issu
 - Apply labels to manage different work and priorities (leadership requests, prioritized, p1-p3, triage, WIP, Backlog)
 - Consider having GitLab team members vote on priority issues to determine need and interest in learning & development content
 - Stack rank issues in the board based on priority if possible
+- Use the Time Tracking feature on issues to track time spend. When opening a new issue, use the `/estimate` command to set an estimate for the project to be complete. After each working session, use the`/spend` command to track actual time spent.
+- Consider using the `new-initiative` issue template when planning a new learning initiative, engagement program, or program idea
+- Consider using the `content-scoping` issue template when proposing a new pathway, creating a new course, or building any new learning experience
+
+ 
 
 ### Top five training content development principles
 

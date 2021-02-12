@@ -60,7 +60,7 @@ _Note: Be sure to scroll down and `Save` this change or it will not be reflected
    1. Check `Only affect specific envelope recipients` under the `Envelope filter` title.
    1. Enter the team members's email address right below the title `Email address`.
    1. Under the title `For the above types of messages, do the following`, please change from `Modify message` to `Reject message`.
-   1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/Offboarding%20Rejection%20Email%20Templates) per team member's department under the `Customize rejection notice`
+   1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/offboarding_rejection.md) per team member's department under the `Customize rejection notice`
    1. Scroll down and click on `Add setting` and then on `Save` at the bottom (once the window closes).
 
 After 5 days, when the former team member's offboarding issue is due, IT Ops will delete their Google Workspace account now refered to as `former_username@gitlab.com`. During this process, you will receive a prompt to transfer their Google Drive Documents. Please refer to the offboarded team member's Offboarding issue to review if the manager has requested to have Document ownership already transferred to them, or if they have agreed to not receive ownership.

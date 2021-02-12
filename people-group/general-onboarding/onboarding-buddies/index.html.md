@@ -36,7 +36,7 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
      * If they're new to [Markdown](/blog/2018/08/17/gitlab-markdown-tutorial/), consider asking experts in the `#content` Slack channel to reach out and offer support.
 1. **Help with the team page.** For less technical new hires, adding themselves to the [team page](/company/team/) might feel like the most daunting task on the onboarding issue. Offer to help with the process. This doesn't necessarily have to happen on day one, but you should let them know that you're available to help if and when they need it. Consider scheduling a second meeting later in the week to walk them through [the process](/handbook/git-page-update/#11-add-yourself-to-the-team-page)
   * In particular, help them to create their SSH key as this tends to be a sticking point for many new hires. You can also show them [Lyle's walkthrough](https://youtu.be/_FIOhk03VtM).
-1. **Check in regularly.** You may very well be the first friend the new GitLab team-member makes on the team. Checking in with them regularly will help them feel welcome and supported. Reach out via Slack, and schedule at least two follow-up calls for the week after their start date, and at least one follow-up call for the rest of the fisrt month. But since it differs from one perosn to another, you may also ask them if they prefer more or less frequent calls per week.
+1. **Check in regularly.** You may very well be the first friend the new GitLab team-member makes on the team. Checking in with them regularly will help them feel welcome and supported. Reach out via Slack, and schedule at least two follow-up calls for the week after their start date, and at least one follow-up call for the rest of the first month. But since it differs from one person to another, you may also ask them if they prefer more or less frequent calls per week.
 1. **Provide backup if needed**. If you plan to be out (e.g. [vacation](/handbook/paid-time-off/), [company business](/handbook/travel/), [events](/events/), etc.) during a new GitLab team-member's first few weeks, please ensure that a backup onboarding buddy is available to offer support.
 
 ## Buddy Program
@@ -45,7 +45,7 @@ In an effort to recognize buddies who go above and beyond to support new / trans
 
 The People Experience team will randomly select 3 winners. giveaway link to order a prize from our swag collection (approx $25 value).
 
-- If the new team member does not complete the **Onboarding Survey** or **Career Mobility Sruvey**, the buddy will not be entered into the raffle. 
+- If the new team member does not complete the **Onboarding Survey** or **Career Mobility Survey**, the buddy will not be entered into the raffle. 
 - In case of a buddy being selected twice, a re-draw will take place. 
 
 

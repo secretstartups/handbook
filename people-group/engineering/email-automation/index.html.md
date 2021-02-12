@@ -100,5 +100,3 @@ member means:
 - and who's temporary contract ends in two months.
 
 The email address used to send the email is `peoplespecialists@domain` and is set with a `reply-to: peopleops@domain` as nobody monitors replies to `peoplespecialists@domain`. The email address is strictly used for automation.
-
-Currently, this email runs in test mode. This means the email is not sent to the manager but to the People Engineer and only cc'd to `peopleops@domain` and not the People Business Partner.

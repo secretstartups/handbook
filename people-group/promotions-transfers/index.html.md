@@ -236,7 +236,7 @@ This section describes the approval chain after a manager submits a promotion or
 
 1. The indirect manager will review the promotion in BambooHR.
 1. The People Business Partner will then review the business case for promotion then they will ping the Total Rewards team to add the compensation notes (Review the [For People Business Partners](#for-people-business-partners-approving-promotions--compensation-changes) section below for details).
-1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#stock-option-grant-levels), job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The People Business Partner will then approve the request if applicable.
+1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#stock-option-grant-levels), job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The Total Rewards team will also add the average compa ratio for the job code to serve as an additional data points for PBPs and managers. The People Business Partner will then approve the request if applicable.
 1. The E-Group leader will review the entire proposal in BambooHR for approval.
 1. The CFO or CEO will review the request. If there are any questions, the CFO or CEO will add a comment outlining the specific concerns and the Total Rewards team will ensure follow-up within a week to escalate to the comp group or deny the request.
 1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the Letter of Adjustment in HelloSign.
@@ -283,7 +283,7 @@ If a department is over the 12% promotion rolling rate, the following process sh
 ### For Total Rewards: Processing Promotions & Compensation Changes
 
 1. If the request is approved through BambooHR, the Total Rewards Analyst/Coordinator will create the Letter of Adjustment whereas if the request is through Greenhouse the Total Rewards Analyst/Coordinator will be notified via the Total Rewards team email inbox that the letter has been signed. If this is the case, only data systems will need to be updated.
-1. If the request comes through BambooHR, approve the request, then update the entries in BambooHR to ensure that there are the proper dates, amounts and job information. Also, ensure to add stock options to the benefits tab if applicable. If the team member is moving to a Manager position, update their access level in BambooHR.
+1. If the request comes through BambooHR, approve the request, then update the entries in BambooHR to ensure that there are the proper dates, amounts, job information. Also, ensure to add stock options to the job tab if applicable. If the team member is moving to a Manager position, update their access level in BambooHR.
 1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
 1. If the team member is in Sales or transferred to Sales, update the changes tab on the "Final Sales OTE FY 2020" google doc.
 1. Make a copy of the Letter of Adjustment template and enter all applicable information based on the BambooHR request. The effective date is as follows:
@@ -405,7 +405,7 @@ If you are unsure of the role, set up a coffee chat with the hiring manager to i
 
 #### Announcing Internal Promotions/Transfers
 
-While the [Internal Transition Issue](/handbook/people-group/promotions-transfers/#internal-transition-issue) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
+While the [Career Mobility Issue Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
 
 1. Prior to any company-wide announcement, the team member should be given the opportunity to share the news with their immediate team members.
 1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezome permitting) on the <b>same day that the candidate signs their [Letter of Adjustment](/handbook/contracts/#letter-of-adjustment)</b>.

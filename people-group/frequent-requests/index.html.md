@@ -22,14 +22,9 @@ GitLab uses Slack profiles as an internal team directory, where team members can
 ## Letter of Employment
 {: #letter-of-employment}
 
-If you need a letter from GitLab verifying your employment/contractor status, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). The People Experience team will verify the accuracy and send you an email with the signed letter. We will also verify (but not provide) National Identification Numbers. In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
+If you need a letter from GitLab verifying your employment/contractor status or that you work remotely, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). The People Experience team will verify the accuracy and send you an email with the signed letter. We will also verify (but not provide) National Identification Numbers. In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
 
 If you are a GitLab GmbH employee, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfiFggqUAA12U_9NV52BLIuuOi7x7oBznIP2iaCcMQYcM39Ag/viewform). 
-
-## Letter Confirming Remote Employment
-{: #letter-confirming-remote-employment}
-
-If you need GitLab to create a letter confirming that you work remotely, please have the relevant company or organization request this by emailing `people-exp@gitlab.com`. You may also email the People Experience team directly if it is easier for you to provide the contact information of the organization requesting the letter. The People Experience team will complete this letter, sign it and email it to the company or organization who requested it.
 
 ## Employment Verification
 
@@ -117,9 +112,12 @@ In Japan, for a team member to qualify for subsidized day care, they need to dem
 
 To initiate a change in name please complete the following:
 
-- Team member: Open an access request issue following our [handbook instructions](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) to request to change your name and email address in Google.
+- Team member: Open an access request issue following our [handbook instructions](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) to request to change your name and all other applicable systems.
 - Team member: Email people-exp@gitlab.com, total-rewards@gitlab.com, and payroll@gitlab.com linking your access request issue and including legal documents with proof of your requested name.
-- People Experience: Update Name in BambooHR and Google Workspace.
+- People Experience: Update Name in BambooHR 
+- People Experience: Reach out to IT Ops team and request assistance with updating the Google Workspace with the new name.
+- People Experience: Update the name in Slack.
+- People Experience: Create an MR to update the Team Page with the new name, new GitLab username, as well as any direct reports with the new GitLab username. Ensure to rename the team members image file with the new name as well. 
 
 ## Reporting Requests
 All requests for BambooHR-related data or reports with personal people data should be made through an [Access Request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests).

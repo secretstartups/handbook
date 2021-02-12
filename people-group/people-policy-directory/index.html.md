@@ -125,11 +125,11 @@ Any questions or concerns? Please feel free to speak with anyone in People Ops.
 
 GitLab uses appropriate controls to ensure that assets of GitLab and its customer relationships and information are protected. To reduce these risks, GitLab will obtain and review background information of covered prospective, and, as applicable, current team members, as allowed by local law.
 
-GitLab currently contracts with [Sterling Talent Solutions](https://www.sterlingtalentsolutions.com/) to perform these background checks.  These checks will cover criminal records in those jurisdictions where GitLab can request this information. For all candidates being considered for a position at GitLab, an employment history for the last 5 years and/or the three most recent employers will be conducted. GitLab may use the returned background check information to make decisions regarding employment. For certain positions where the candidate's financial history is relevant to the position, we may also run a check for any financial related offenses.
+GitLab currently contracts with [Sterling Talent Solutions](https://www.sterlingtalentsolutions.com/) to perform these background checks.  These checks will cover criminal records as well as a search of the U.S. Department of Health and Human Services Office of Inspector General's List of Excluded Individuals/Entities in those jurisdictions where GitLab can request this information. For all candidates being considered for a position at GitLab, an employment history for the last 5 years and/or the three most recent employers will be conducted. GitLab may use the returned background check information to make decisions regarding employment. For certain positions where the candidate's financial history is relevant to the position, we may also run a check for any financial related offenses.
 
 All candidates who make it to the reference stage with GitLab will undergo a background screening according to this policy and in compliance with applicable local law. Contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to GitLab. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at GitLab. In the event the background check is not available on the scheduled hire date due to delays in processing, GitLab will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
-The Candidate Experience Specialists will [initiate](/handbook/hiring/recruiting-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. 
+The Candidate Experience Specialists will [initiate](/handbook/hiring/recruiting-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. The [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) will initiate all retroactive background checks for current team members.
 
 #### Disclosure and Authorization
 
@@ -139,7 +139,7 @@ To prepare for the employment verification for those candidates being considered
 
 Background checks will act as an additional mechanism of transparency and will help to build trust with our clients.
 
-#### Review Criteria
+#### Review Criteria for Candidates
 
 Once the background check is completed, Candidate Experience Specialists will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.  If the report shows any omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the Candidate Experience Specialist will reach out to the aligned People Business Partner and share the report.   The PBP will review the report and initiate a background check adjudication process in consultation with Legal - Employment, and, only to the extent necessary to ensure the requisite requirements of the job, the hiring manager, VP of department and VP of recruiting:
 
@@ -150,6 +150,17 @@ Once the background check is completed, Candidate Experience Specialists will re
 - If the decision is that the hiring process can continue the PBP will present the recommendation to the hiring manager and VP of the department for review
 - The hiring manager and the department VP will make the final decision on whether to proceed with the hire 
 - The hiring manager will inform the PBP and recruiter of their final decision on whether to proceed with the hire
+
+#### Review Criteria for Current Team Members
+
+Once the background check is completed, the People Compliance Specialist will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill their job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes. In addition, the report should be reviewed for serious omissions or inaccuracies contained in the employment application or made during the interview process. If the report is clear, then no action is taken. If the report shows any serious omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the People Compliance Specialist will reach out to the aligned People Business Partner and share the report.
+
+- The PBP will review the report, gather the background information and make a recommendation on potential next steps to Legal - Employment.
+- Legal - Employment will review the information to ensure that the adjudication process complies with applicable law in the jurisdiction.
+- In consultation with Legal - Employment, the PBP will determine whether any actions are deemed necessary and will then involve the team member's manager.
+- If the decision is that the team member can continue their role at GitLab even with the knowledge of these violations, the PBP will present the recommendation to Legal - Employment, to the team member's manager and VP of the department for review.
+- Legal - Employment, the manager and the department VP will make the final decision on any possible actions, from a direct discussion, to PEP, or up to possible immediate termination.
+- The team member will always be given a chance to explain any convictions, omissions, inaccuracies or relevant point in their background check that is deemed material to the successful ability to fulfill their job duties.
 
 #### US Citizens only: 
 
@@ -206,6 +217,15 @@ Finance team members **only** will be required to participate in a federal check
 When a team member is absent from work for three consecutive workdays, there is no entry on the availability calendar for time off, and fails to contact his or her supervisor, they can be [terminated](/handbook/people-group/offboarding/#involuntary-offboarding) for job abandonment unless otherwise required by law.
 
 If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
+
+#### Exceptions
+
+GitLab understands there are extenuating circumstances that can occur. In the instance that a team member is absent from work for three consecutive workdays due to an emergency outside of the team members' control (I.E. internet outage in their country of residence), the recommendation is:
+
+* The team member should give their manager a heads up about the current situation should a period of unavailability be a foreseen possibility.
+* The team members and manager should consider exchanging cell phone numbers to stay in contact as much as possible in the case that the situation should escalate. If you are based in different countries, consider ensuring you and your manager both have an app that facilitates international communication (I.E. Whatsapp, Zalo, etc.). If costs are incurred when trying to contact your manager, this can be considered a business expense and can be submitted for reimbursement through [Expensify](/handbook/finance/expenses/).
+* The aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) should be looped in for visibility.
+* Consider leveraging GitLab's [unlimited time off policy](/handbook/paid-time-off/) to take the time you need. 
 
 ### Other People Policies
 
