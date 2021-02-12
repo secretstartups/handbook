@@ -127,8 +127,8 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
 | Welcome to GitLab Sales Kickoff 2021 | slides (coming soon) | video (coming soon) |
-| Product Keynote: A Winning Product for Peak Performance | slides (coming soon) | video (coming soon) |
-| Customer Spotlight: H-E-B and GitLab: A Happy Marriage | slides (coming soon) | video (coming soon) |
+| Product Keynote: A Winning Product for Peak Performance | [slides](https://docs.google.com/presentation/d/1NunKRuZBnDcZi0k_N5-NQBvdy5X5ZaV4a1Qf7w126qs/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Customer Spotlight: H-E-B and GitLab: A Happy Marriage | [slides](https://docs.google.com/presentation/d/1-PZn0IlB6SYvPMDW2zcF06mqAY61u9b-Dnv0vxRgJTI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ## SKO 2021 Day 2 Sessions
 
@@ -140,8 +140,6 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | Closing Keynote: It's Time for Peak Performance | slides (coming soon) | video (coming soon) |
 
 ## SKO Awards Ceremony
- ([slides]()) (GitLab internal)
-FY21 SKO - President's Club
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
