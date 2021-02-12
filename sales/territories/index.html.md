@@ -62,12 +62,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales 
 | ---------- | ---- | -------------- | ----- | 
-|	NA East	|	Named East	|	**Named Accounts**	|	Mark Bell	|
-|	NA East	|	Named East	|	**Named Accounts**	|	John May	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Jordan Goodwin	|
-|	NA East	|	Named East	|	**Named Accounts**	|	David Wells	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Larry Biegel	|
-|	NA East	|	Named East	|	**Named Accounts**	|	John Orvos	|
+
 |	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-2	|	Jim McMahon	|
@@ -123,9 +118,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	APAC	|	APAC	|	Large-APAC-Large-APAC-1	|	Rob Hueston	|
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-2	|	Rob Hueston	|
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	|
-|	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	|
 |	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-4	|	Hui Hui Cheong	|
-|	Asia Central	|	Asia Central	|	Large-APAC-Large-APAC-5	|	Rob Hueston	|
 |	Asia Central	|	Asia Central	|	Large-APAC-Large-APAC-5	|	Rob Hueston	|
 |	Asia Central	|	Asia Central	|	Large-APAC-S Korea-1	|	Tae Ho Hyun	|
 
@@ -205,14 +198,9 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Conor Brady	|
 |	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	|
 |	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	|
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	|
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	|
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	|
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Conor Brady	|
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Conor Brady	|
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Conor Brady	|
+
 |	France	|	FR	|	MM-EMEA-France-FR 7x	|	Conor Brady	|
-|	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Conor Brady	|
+
 |	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Conor Brady	|
 |	France	|	R	|	MM-EMEA-France-R	|	Conor Brady	|
 |	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Daisy Miclat	|
