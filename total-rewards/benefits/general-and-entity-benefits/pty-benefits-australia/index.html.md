@@ -51,9 +51,13 @@ Team members in Australia have the option to make concessional super contributio
 GitLab does not plan to offer life insurance at this time as Australians can access [government payments and services](https://www.humanservices.gov.au/individuals/subjects/payments-people-living-illness-injury-or-disability) if they get ill, injured or have a disability. Most Australians who choose to have life insurance take out cover from their super fund.
 
 ### GitLab PTY Australia Annual, Sick and Carer's Leave
-Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. This balance won't have a cap to align with GitLab's unlimited PTO policy.
+**Annual Leave**
+* Team members are entitled to 4 weeks of paid leave each year, which runs concurrently with GitLab PTO and accumulates from the first day of employment. Any unused annual leave rolls over to the following year.
+* Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. When taking vacation time, team members must select the `Vacation` option in PTO by Roots to ensure this time is properly tracked.  Annual leave does not expire and may be carried over year to year.  For team members who are not covered by a modern award or enterprise agreement, they may be asked to take a period of paid annual leave if such request is reasonable, such as when a team member has accrued an excessive amount of paid annual leave.
 
-Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
+**Sick Leave**
+* Team members are entitled to 10 days of sick/carer's leave each year. This leave runs concurrently with GitLab PTO.
+* Sick and carer's leave, also known as personal/carer's leave fall under the same statutory leave entitlement. Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
 
 ### On-Call (Engineering only)
 
@@ -133,6 +137,9 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 
 ### Accounting Fee Reimbursement
 New Zealand team members are eligible for a one time reimbursement of up to $750 NZD for accounting or tax-related fees. The purpose of this reimbursement is to help our team members reconcile any accounting activities and tax returns from when they were independent contractors through GitLab BV or contracted through CXC. Since tax-related activities will be less complex after the transition to our team members' employment under the PTY LTD entity, this reimbursement benefit will only be valid until December 2021. To get reimbursed for this expense, please follow the [Expense Reimbursement process](/handbook/spending-company-money/#expense-policy).
+
+### Annual Leave
+Team members are entitled to a minimum of four weeks’ annual leave per year. Annual leave does not expire and can be carried over each year, but GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice. Annual leave runs concurrently with GitLab PTO. Team members must select the `Vacation` option in PTO by Roots when taking vacation time to ensure that annual leave entitlement is properly tracked.
 
 ### Sick Leave
 
