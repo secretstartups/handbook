@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Order Processing"
-description: "This page outlines the Quote to Cash process, starting from account and opportuntiy creation, quote configuration, approvals, booking requirements and to the ultimate closure of a deal."
+description: "This page outlines the Quote to Cash process, starting from account and opportunity creation, quote configuration, approvals, booking requirements and to the ultimate closure of a deal."
 ---
 
 ## On this page
@@ -15,7 +15,7 @@ description: "This page outlines the Quote to Cash process, starting from accoun
 **Welcome to the Sales Order Processing page!**
 {:.gitlab-purple .no_toc}
 
-This page outlines the Quote to Cash process, starting from account and opportuntiy creation, to quote configuration, to approvals and booking requirements, to the ultimate closure of a deal. This page will also cover common questions that may come up shortly after an opportunity has been closed.
+This page outlines the Quote to Cash process, starting from account and opportunity creation, to quote configuration, to approvals and booking requirements, to the ultimate closure of a deal. This page will also cover common questions that may come up shortly after an opportunity has been closed.
 
 ### Helpful Links
 
