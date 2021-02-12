@@ -77,7 +77,7 @@ Domain Experts are people with deep skills on the topic at hand, and they can wo
 
 All these people are here to amplify the influence of the author of the proposal in an environment that fosters creativity and knowledge sharing.
 
-Once the blueprint of the proposal gets approved, DRIs will be assigned to carry on the vision and coordinate work required to get it done. 
+Once the blueprint of the proposal gets approved, DRIs will be assigned to carry on the vision and coordinate work required to get it done.
 
 ### Roles
 
@@ -135,7 +135,7 @@ The QA expert is...
 
 The Infrastructure Expert is an engineer from Infrastructure's Reliability sub-department and can evaluate the impact of the blueprint on our reliability and availability posture. It is important to identify reliability aspects associated with the blueprint early, as workarounds to address availability, scalability and performance issues can be expensive, and directly affects GitLab.com's availability.
 
-@-mention `@gitlab-com/gl-infrastructure/mstaff` so that a specific Infrastructure Functional Expert DRI is assigned to the blueprint.
+@-mention `@gitlab-com/gl-infra/managers` so that a specific Infrastructure Functional Expert DRI is assigned to the blueprint.
 
 ### Blueprint merge request
 
