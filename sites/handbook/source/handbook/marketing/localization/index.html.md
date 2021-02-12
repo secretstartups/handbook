@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Localization
+description: Handbook page for localization processes.
+---
+
 ## Introduction
 
 This page contains guidelines for localization at GitLab. This page is maintained by the Global Content team.
@@ -67,7 +73,9 @@ All translated pages live in a sub-folder dedicated to a specific language. Thes
 
 ### hreflang tagging
 
-Search engines use the `hreflang` tag to determine a canonical version for translated pages.
+Search engines use the `hreflang` tag to determine a canonical version for translated pages. We'll use `hreflang` on our translated pages.
+
+The canonical version of our site will the United States English version on `about.gitlab.com`. We will not use any language sub-folders on this version of our marketing website.
 
 `hreflang` tags start with declaration `<link rel="alternate"`, adds URL `href={{url}}`, and ends with `hreflang={{language ISO}}`
 
