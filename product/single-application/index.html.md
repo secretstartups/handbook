@@ -124,7 +124,11 @@ everything you need available at all times makes for more efficient work.
 blocked no longer requires detective work. It's available everywhere and
 accessible to everyone.
 
-Some examples below.
+This is highlighted by analyst specified benefits of [Value Stream Delivery Platforms](/analysts/gartner-vsdp20/), of which GitLab is considered a representative vendor.
+
+> "VSDPs make product and platform teams more efficient by alleviating constraints in the software delivery pipeline. This results in improved flow of work from initial customer contact to production support. VSDPs are extensible by design and expose APIs for other tools to manage and monitor the software delivery life cycle. The goal is to improve the flow of value rather than automate a sequence of disparate tasks."
+
+Some additional example benefits include:
 
 ### CI and container registry
 
