@@ -59,7 +59,7 @@ The Deal Desk team will do their best to respond to each request to '@sales-supp
 | Basic Quote Assistance | 6 Hours | 8 Hours | 
 | Ramp Deal | 6 Hours | 24 hours |
 | Flat Renewal | 6 Hours | 24 Hours |
-| IACV Calculation | 6 Hours | 24 Hours |
+| IACV/ARR Review | 6 Hours | 24 Hours |
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
 
@@ -117,7 +117,7 @@ Weekly Deal Desk Office Hours are scheduled each Wednesday at 12 PM EST. During 
 Supported topics include:
 * Create or modifying a quote
 * Quote approval acceleration
-* IACV calculation
+* IACV/ARR calculation
 * Submitting an opportunity for close
 * Validation/segmentation of closed opportunities
 * And anything else to help drive opportunities closing within the quarter! 
@@ -148,14 +148,19 @@ Team members will review opps in their region each week. We are looking for anyt
 
 The team will review opps on a monthly basis, as time allows throughout the work week. During the last month of any quarter, the review will be conducted weekly. 
 
-### IACV + Renewals
+### iACV + Renewals
 
-#### Calculating IACV 
+#### Calculating iACV 
 
-To calculate IACV, please review the [IACV page of the handbook](/handbook/sales/sales-term-glossary/acv-in-practice). Alternatively, please chatter `@Sales-support` on the opportunity for assistance in calculating IACV. 
+Note: As of FY22, iACV is no longer GitLab's primary bookings metric. 
 
-You can also use [this calculator](https://docs.google.com/spreadsheets/d/10hX1ZwTuxa-5PyJr30rTlATClzXmc8i0OunW1u-2D2I/edit#gid=0) to **estimate** the IACV for renewals.
+To calculate iACV, please review the [iACV page of the handbook](/handbook/sales/sales-term-glossary/acv-in-practice). Alternatively, please chatter `@Sales-support` on the opportunity for assistance in calculating iACV. 
 
+You can also use [this calculator](https://docs.google.com/spreadsheets/d/10hX1ZwTuxa-5PyJr30rTlATClzXmc8i0OunW1u-2D2I/edit#gid=0) to **estimate** the iACV for renewals.
+
+#### Calculating ARR
+
+To calculate ARR, please review the [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce) handbook page.
 
 ### **Zuora Quote Configuration Guide - Standard Quotes**
 
@@ -418,6 +423,8 @@ Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 mon
 On the main contract reset opportunity, populate the "Opportunity Category" field with "Contract Reset." On the associated credit opportunity, populate the "Opportunity Category" field with "Credit." 
 
 All Contract Reset opportunities will be classified as a "Renewal" and will be subect to Renewal ACV, which will impact overall IACV depending on the scenario. 
+
+For more information on ARR calculation for Contract Resets, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce).
 
 #### Add-On + Early Renewal
 
