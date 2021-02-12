@@ -150,7 +150,8 @@ virtualization.
 export SSH_PORT=2222
 export HTTP_PORT=8888
 export VERSION=11.9.9-ee.0
-export NAME=gitlab-test-11.9
+export ENV_NAME=gitlab-test-env
+export CONTAINER_NAME=gitlab-test-11.9
 ```
 
 #### Create new docker host
@@ -167,7 +168,7 @@ docker-machine create \
 --virtualbox-cpu-count -1 \
 --virtualbox-memory 4096 \
 --virtualbox-disk-size 30000 \
---driver virtualbox $NAME
+--driver virtualbox $ENV_NAME
 ```
 
 + Resource: [https://docs.docker.com/machine/drivers/virtualbox/](https://docs.docker.com/machine/drivers/virtualbox/)
@@ -222,7 +223,7 @@ docker run --detach \
 --env GITLAB_OMNIBUS_CONFIG="external_url 'http://$(docker-machine ip $NAME):$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
 --hostname $(docker-machine ip $NAME) \
 -p $HTTP_PORT:$HTTP_PORT -p $SSH_PORT:22 \
---name $NAME \
+--name $CONTAINER_NAME \
 gitlab/gitlab-ee:$VERSION
 ```
 
@@ -242,7 +243,7 @@ docker-machine ip gitlab-test-env
 ##### Execute interactive shell/edit configuration
 
 ```
-docker exec -it $NAME /bin/bash
+docker exec -it $ENV_NAME /bin/bash
 ```
 
 ```
