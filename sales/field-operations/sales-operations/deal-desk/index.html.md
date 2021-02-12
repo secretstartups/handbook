@@ -77,7 +77,7 @@ The Deal Desk team is located around the world and will be available during stan
 *  Cal Baker - Seattle, WA
 
 **APAC**
-*  Kriti D'Souza - Pune, India (Currently on leave from November 2020 to May 2021)
+*  Kriti D'Souza - Pune, India (Currently on leave from November 2020 to March 2021)
 
 #### Salesforce Chatter Communication
 
@@ -85,7 +85,7 @@ Deal Desk's primary communication channel is Salesforce Chatter. When you chatte
 
 Deal Desk team members monitor the queue throughout the day. For all cases directly related to opportunites, quoting/deal structure or booking a deal, Deal Desk will respond to a case within 6 hours, Monday-Friday, with the exception of National/Regional holidays. Resolution or escalation for these cases will occur within 24 hours. 
 
-For cases related to Account Segmentation (ROE, Territory), account data, or account merges, Deal desk will reassign these cases to our Sales Ops team to review and resolve. 
+For cases related to Account Segmentation (ROE, Territory), account data, or account merges, Deal desk will reassign these cases to our Sales Operations team to review and resolve. 
 
 To Chatter the DD team, tag `@Sales-Support`in Chatter on the related opportunity or account page and a short sentence on your request. If the Deal Desk team needs more information, we will follow up directly via Chatter. 
 
@@ -108,7 +108,6 @@ In case of a specific opportunity or quote related question please use SF Chatte
 #### Slack Announcements
 
 Desk Desk process updates and announcements will be communicated via `**#sales**` and `**#sales-support**` Slack channels. 
-
 
 #### Deal Desk Office Hours
 
@@ -400,7 +399,7 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
 . To generate a legitimate order form, you must update the Quote Template from the Draft selection to relevant order form template for the opp
 
-### **Non-standard Quotes**
+### **Non-Standard Quotes**
 
 Occasionally an opportunity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
 
@@ -426,19 +425,7 @@ All Contract Reset opportunities will be classified as a "Renewal" and will be s
 
 For more information on ARR calculation for Contract Resets, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce).
 
-#### Add-On + Early Renewal
-
-When a customer is adding users to an existing subscription as well as renewing the same subscription in advance of their renewal date. This **will not** change the term dates of the subscription.
-
-You will need to create a Add-on Opprotunity *and* a Renewal opportunity.
-
-*   Create an Amendment quote per the Amendment quote guide above on the relevant Add On opportunity.
-*   Create a Renewal Quote object from the renewal opportunity per the Renewal Quote guide above.
-*   Once both qutoes are fully approved, tag `@Sales-Support` in Chatter on the Renewal opportunity to create the consolidated Order Form.
-
-
 #### Multi-Year Deals
-
 
 A.  Note: In the case of multi-year deals, the Initial Term” should be updated to reflect the number of months in the term - 24, 36, 48, etc. Also, select the correct Product (i.e. for a 2 year Starter deal, select “Starter - 2 Year”). Multi-year deals that do not utilize the correct SKU will be rejected. 
 
@@ -572,7 +559,6 @@ To create opportunities requiring multiple invoices:
 *  Submit the Opportunity for Deal Desk/Billing approval. The Billing team will flag each deliverable opportunity for future invoice periods.
 
 Note: The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments" or "Custom Payment Schedule," whichever applies.
-
 
 #### Zuora Quote Template Updates 
 
