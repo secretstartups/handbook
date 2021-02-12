@@ -200,7 +200,7 @@ FY21 SKO - President's Club
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
 | How to Work with Partners: Tactically and Technically | [slides](https://docs.google.com/presentation/d/1k0MjqEnu6-zp7SyeZGddRfCeEx_iG3CYIg2l237hlc0/edit?usp=sharing) (GitLab internal) | no video |
-| Professional Services Methodology: Step by Step | slides (coming soon) | no video |
+| Professional Services Methodology: Step by Step | [slides](https://docs.google.com/presentation/d/1XK_gALJgA13E-vUN-lv9fg5d1BmQ7ciG6nlkIK2BAKM/edit?usp=sharing) (GitLab internal) | no video |
 | Using Congregate to Migrate Customers to GitLab | [slides](https://docs.google.com/presentation/d/1YL_A4uhrtPfUfPNzrJRq6stDFhMw-k4-jKOH-65LLaY/edit?usp=sharing) (GitLab internal) | no video |
 | Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
