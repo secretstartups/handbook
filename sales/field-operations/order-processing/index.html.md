@@ -1139,7 +1139,7 @@ In addition to the above, Deal Desk will also review:
 
 Deal Desk must tag the Revenue Recognition team to review opportunities in the following scenarios:
 
-    *   Where there are multiple line items for the same product (i.e. 100 Starter licenses at 0% discount and 50 Starter licenses at 10% discount)
+    *   Where there are multiple line items for the same product (i.e. 100 SaaS - Premium licenses at 0% discount and 50 SaaS - Premium licenses at 10% discount)
     *   Any discounted Professional Services SKU
     *   Tiered Pricing
     *   Guest or Reporter Access SKU(s) in addition to a standard subscription product SKU on the same quote
