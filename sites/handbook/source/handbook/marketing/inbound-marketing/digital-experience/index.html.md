@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Digital Experience Handbook
+description: >-
+  Learn more about the Digital Experience purpose, vision, mission, objective
+  and more in this handbook.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -84,7 +92,7 @@ View long-term goals here: [https://about.gitlab.com/handbook/marketing/inbound-
 | Stephen McGuinness | Design System Lead (Contract) | - GitLab: [@smcguinness1](http://smcguinness1)<br>- Slack: @Stephen McGuinness |
 | Jessica Halloran | UX Designer (Contract) | - GitLab: [@jhalloran](https://gitlab.com/jhalloran)<br>- Slack: @jhalloran |
 | Tina Lise Ng | UX Designer (Contract) | - GitLab: [@Tinaliseng](https://gitlab.com/Tinaliseng)<br>- Slack: @Tina Lise Ng |
-| Javier Garcia | Frontend Engineer (Contract) | - GitLab: [@jgarc257](https://gitlab.com/jgarc257)<br>- Slack: @Javi |
+| Javier Garcia | Frontend Engineer (Contract) | - GitLab: [@jgarc](https://gitlab.com/jgarc257)<br>- Slack: @Javi |
 | Sanmi Ayotunde | Frontend Engineer (Contract) | - GitLab: [@sanmiayotunde](https://gitlab.com/sanmiayotunde)<br>- Slack: @sanmiayotunde<br>- ReadMe: [sanmiayotunde](https://about.gitlab.com/handbook/marketing/readmes/sanmiayotunde.html) |
 
 ## Metrics
@@ -119,7 +127,6 @@ We collaboratively define OKRs as a team with cross functional partners in advan
 
 **Objective:** [Q4 FY21 Digital Experience OKR: Marketing Design System](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/92)
 
-<br>
 **Key Result:** During Q3 FY21, we will invest in planning, designing, and building a design system for our Marketing site. The Marketing Design System will increase our efficiency and make it easier for everyone to contribute.
 
 ## Our Process
