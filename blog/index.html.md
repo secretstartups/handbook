@@ -1200,7 +1200,7 @@ Common errors are:
 You might find the following video helpful:
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/WlgH-6cX1k8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/tFp4dQJ8NRM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
