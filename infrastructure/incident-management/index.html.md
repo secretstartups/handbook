@@ -65,10 +65,7 @@ These definitions imply several on-call rotations for the different roles.
 #### Engineer on Call (EOC) Responsibilities
 
 1. **As EOC, your highest priority for the duration of your shift is the stability of GitLab.com.**
-1. The Single Source of Truth (SSOT) for who is EOC is the SRE Schedules in Pagerduty:
-   * [Americas](https://gitlab.pagerduty.com/schedules#POL1GSQ)
-   * [APAC](https://gitlab.pagerduty.com/schedules#PF02RF0)
-   * [EMEA](https://gitlab.pagerduty.com/schedules#P40KYLY)
+1. The SSOT for who is the current EOC is the [GitLab Production](https://gitlab.pagerduty.com/service-directory/PATDFCE) service definition in PagerDuty.
 1. Alerts that are routed to Pagerduty need to acknowledged within 15 minutes, otherwise they will be escalated to the oncall IMOC.
     1. Alert-manager alerts in [`#alerts`](https://gitlab.slack.com/archives/alerts) and [`#alerts-general`](https://gitlab.slack.com/archives/alerts-general) are an important source of information about the health of the environment and should be monitored during working hours.
     1. If the Pagerduty alert noise is too high, your task as an EOC is clearing out that noise by either fixing the system or changing the alert.
@@ -107,10 +104,7 @@ In some cases, we may choose not to post to status.io, the following are example
 
 #### Incident Manager on Call (IMOC) Responsibilities
 
-1. The SSOT for who is IMOC is the SRE Managers Schedules in Pagerduty:
-   * [Americas - weekdays](https://gitlab.pagerduty.com/schedules#P2SF64D)
-   * [EMEA - weekdays](https://gitlab.pagerduty.com/schedules#P69IQ96)
-   * [Weekends](https://gitlab.pagerduty.com/schedules#P12EH0Z)
+1. The SSOT for who is the current IMOC is the [GitLab Production - IMOC](https://gitlab.pagerduty.com/service-directory/PE8A5MX) service definition in PagerDuty.
 1. The IMOC should monitor ongoing incidents and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC.
 1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC may also take on the role of CMOC.
