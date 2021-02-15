@@ -24,8 +24,22 @@ The term *"sales"* refers to the Sales Team and *"field"* includes the Customer 
 ### Teams
 * [Sales Operations](/handbook/sales/field-operations/sales-operations/)
     *   [Deal Desk](/handbook/sales/field-operations/sales-operations/deal-desk/#welcome-to-the-deal-desk-handbook)
-    *   [Customer Success Operations](/handbook/sales/field-operations/sales-operations/customer-success-operations)
+    *   [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations)
+    *   [Sales Commissions](/handbook/sales/commissions/)
 * [Sales Systems](/handbook/sales/field-operations/sales-systems/)
 * [Sales Strategy](/handbook/sales/field-operations/sales-strategy/) 
 * [Field Enablement](/handbook/sales/field-operations/field-enablement/)
 * [Channel Operations](/handbook/sales/field-operations/channel-operations/)
+
+### Field Operations Calendar 
+* Field Operations utilizes a team calendar to communicate team member availability as well as office hour meetings. 
+
+#### How to add the Field Operations Calendar
+* To add the Field Operations Calendar to your Google Calendar click on the `+` Next to `Other Calendars` on the bottom left hand side of you Google Calendar. 
+* From there type in `Field Operations` into the search box and the Field Operation calendar should be the only calendar available to select. 
+
+#### What are Office Hours? 
+* Office hours is a weekly meeting that is set up where the hosting team is available to field questions from individuals who they may not generally sync with. The goal is to offer wider availability and support to the greater operations teams and to GitLab as a whole. Office hours are NOT a dedicated time for team members to join to check in on the status of a project or to be used as a recurring project meeting. 
+
+#### Current Office Hours 
+- Sales Systems currently holds office hours every Wednesday at 10:30 AM PST

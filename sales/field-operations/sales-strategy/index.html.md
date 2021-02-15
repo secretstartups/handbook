@@ -1,6 +1,9 @@
 ---
 layout: handbook-page-toc
-title: "Sales Strategy"
+title: "Sales Strategy and Analytics Handbook"
+description: "To drive sales success by providing data, reporting, analytics, and actionable insights to leadership across GitLab"
+
+
 ---
 
 ## On this page
@@ -24,6 +27,7 @@ Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-t
 | Team Member | Role | GitLab Handle |
 | ------ | ------ | ------ | 
 | Jake Bielecki | Sr Director Sales Strategy | [@jakebielecki](https://gitlab.com/jakebielecki) | 
+| Alex Cohen | Director GTM Planning & Operations | [@alex.cohen](https://gitlab.com/alex.cohen) | 
 | Matt Benzaquen | Sr Manager Sales Strategy | [@mbenza](https://gitlab.com/mbenza) | 
 | Melia Vilain | Sr Sales Analytics Analyst | [@mvilain](https://gitlab.com/mvilain) |
 | David Mack | Sr Sales Analytics Analyst | [@DavidMack](https://gitlab.com/DavidMack) |
@@ -39,4 +43,4 @@ You can find information about specific projects [here](/handbook/sales/field-op
 
 ### FY22 Field Planning
 
-Current FY22 Planning file can be found [here](https://docs.google.com/spreadsheets/d/1-SnZ0LGZEVuE-7qAU69m5p8wH7gJJCym6EsEmO-7idY/edit#gid=170681456) 
+Placeholder for the FY22 Planning file

@@ -80,7 +80,7 @@ Challenges
     *  [Continuous Integration (CI)](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#discovery-questions)
     *  [DevSecOps](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions)
     *  [Agile Planning and Management](/handbook/marketing/strategic-marketing/usecase-gtm/agile/#discovery-questions)
-    *  [Continuous Delivery (CD)](/handbook/marketing/strategic-marketing/usecase-gtm/cd/#discovery-questions) 
+    *  [Continuous Delivery (CD)](/handbook/marketing/strategic-marketing/usecase-gtm/cd/#discovery-questions)
     *  [GitOps](/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#discovery-questions)
 
 ### Level of Satisfaction
@@ -132,17 +132,17 @@ Challenges
 * Describe how your developer productivity would be impacted by education around best practices for using GitLab, git or GitLab CI/CD
 * How does your team manage the risk associated with adding a new tool or platform?
 
-## **QUESTIONS FOR SELLING GITLAB PREMIUM/SILVER AND ULTIMATE/GOLD**
-The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold opportunities is to *truly embrace a consultative mindset with your prospect and customer engagements*. More specifically:
+## **QUESTIONS FOR SELLING GITLAB PREMIUM AND ULTIMATE**
+The key to identifying more GitLab Premium and GitLab Ultimate opportunities is to *truly embrace a consultative mindset with your prospect and customer engagements*. More specifically:
 * **First, ensure you have an intimate understanding of the customer challenges and use cases that each version helps our customers address**
-    * See the [Why Premium/Silver?](https://about.gitlab.com/pricing/premium/) page
-    * See the [Why Ultimate/Gold?](https://about.gitlab.com/pricing/ultimate/) page
+    * See the [Why Premium?](https://about.gitlab.com/pricing/premium/) page
+    * See the [Why Ultimate?](https://about.gitlab.com/pricing/ultimate/) page
 * And more importantly, ask effective, open-ended discovery questions and actively listen to your customer’s responses to determine if and how the capabilities of these versions map to the required capabilities they need to deliver desired outcomes for their organization.
 
-### Discovery Questions for GitLab Premium/Silver
+### Discovery Questions for GitLab Premium
 
 #### Overview
-[GitLab Premium/Silver](https://about.gitlab.com/pricing/premium/) helps organizations increase operational efficiencies and deliver better products faster. With GitLab Premium/Silver, organizations may scale their DevOps delivery supporting high availability, geographic replication, progressive deployment, advanced configuration, and consistent standards. Are these capabilities important to your customer? Consider asking the below questions to find out.
+[GitLab Premium](https://about.gitlab.com/pricing/premium/) helps organizations increase operational efficiencies and deliver better products faster. With GitLab Premium, organizations may scale their DevOps delivery supporting high availability, geographic replication, progressive deployment, advanced configuration, and consistent standards. Are these capabilities important to your customer? Consider asking the below questions to find out.
 
 #### Enterprise level Support
 * What is the impact of outages and downtime with your SDLC toolchain?
@@ -157,9 +157,9 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 
 #### Achieve High Availability and Disaster Recovery
 * What is your organization’s HA (High Availability) strategy? Do you have one? Why / why not?
-    * If HA support is needed, position Premium’s HA support via our [Reference Architectures](https://about.gitlab.com/solutions/reference-architectures/); note: Core offers HA capabilities with self-support vs. expert GitLab support
+    * If HA support is needed, position Premium’s HA support via our [Reference Architectures](https://about.gitlab.com/solutions/reference-architectures/); note: Free offers HA capabilities with self-support vs. expert GitLab support
 * How does your organization handle [Disaster Recovery](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html)?
-    * GitLab’s Disaster Recovery feature, only available in Premium/Silver and Ultimate/Gold SKUs, handles fail-over to another data center within minutes
+    * GitLab’s Disaster Recovery feature, only available in Premium and Ultimate SKUs, handles fail-over to another data center within minutes
 * Are your development teams centrally located in generally the same vicinity or are they distributed across the world? If distributed, how do you ensure that latency between geographically dispersed developers is minimized?
     * If this is important to the customer, discuss with your SA whether or not [Geographic Replication](https://about.gitlab.com/solutions/geo/) is a required capability
 
@@ -169,7 +169,7 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 * If you were able to analyze graphs and reports to understand team, project, and group productivity to uncover patterns and best practices, how would that improve overall productivity?
     * If this is of interest, position [Productivity Analytics](https://docs.gitlab.com/ee/user/analytics/productivity_analytics.html)
 * How does your organization currently track and manage code reviews and feedback?
-    * GitLab Premium/Silver includes built-in [merge request reviews](https://docs.gitlab.com/ee/user/discussions/index.html#merge-request-reviews)
+    * GitLab Premium includes built-in [merge request reviews](https://docs.gitlab.com/ee/user/discussions/index.html#merge-request-reviews)
 * How important is having consistent and standard practices to boost overall developer productivity?
     * [Group and file templates](https://docs.gitlab.com/ee/user/group/#group-file-templates) allow you to share a set of templates for common file types with every project in a group
 * What is your organization doing to simplify and streamline system logon processes for developers? Do you currently use or have plans to use SmartCard authentication?
@@ -179,7 +179,7 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 * How do you currently handle project planning with your existing software development toolchain?
 * If you could change one thing to streamline your project planning efforts, what would it be and why?
 * How would your organization benefit from simplified management and visualization of work assignment and tracking?
-* If streamlining project planning is important, consider positioning how the following capabilities can help your customer (see the [Why GitLab Premium/Silver? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
+* If streamlining project planning is important, consider positioning how the following capabilities can help your customer (see the [Why GitLab Premium? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
     * [Group Backlog management](https://docs.gitlab.com/ee/user/project/issue_board.html#multiple-issue-boards) - Simplify tracking, scoping and planning future work with group level backlog management on multiple issue boards
     * [Group Milestone Boards/Lists](https://docs.gitlab.com/ee/user/project/issue_board.html#multiple-issue-boards) - Visualize future work to be delivered in future releases/milestones
     * [Assignee Boards/Lists](https://docs.gitlab.com/ee/user/project/issue_board.html) - Streamline assignment of work to team members in a graphical assignment board
@@ -192,8 +192,8 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
     * [Roadmaps](https://docs.gitlab.com/ee/user/group/roadmap/) - Visualize the flow of business initiatives across time in order to plan when future features will ship
 
 * How many tools do you have to use to understand current status? How long does that take? How does that affect your teams?
-    * If this line of questioning reveals challenges in lack of visibility across the DevOps toolchain, position GitLab Premium/Silver’s [Operations Dashboard](https://docs.gitlab.com/ee/user/operations_dashboard/index.html#doc-nav) which provides a holistic view of the overall health of an organization's operations
-* How would you assess your level of confidence in how your organization currently manages software deploys? Are there any risks you wish you could mitigate? If so, what are they and why? GitLab Premium/Silver offers a multitude of capabilities to allow organizations to deploy with confidence including the below (see the [Why GitLab Premium/Silver? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
+    * If this line of questioning reveals challenges in lack of visibility across the DevOps toolchain, position GitLab Premium’s [Operations Dashboard](https://docs.gitlab.com/ee/user/operations_dashboard/index.html#doc-nav) which provides a holistic view of the overall health of an organization's operations
+* How would you assess your level of confidence in how your organization currently manages software deploys? Are there any risks you wish you could mitigate? If so, what are they and why? GitLab Premium offers a multitude of capabilities to allow organizations to deploy with confidence including the below (see the [Why GitLab Premium? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
     * [Multi Project Pipelines](https://docs.gitlab.com/ee/ci/multi_project_pipeline_graphs.html) - Link CI pipelines from multiple projects to deliver integrated solutions
     * [Protected Environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html) - Establish controls and limit the access to change specific environments
 
@@ -205,17 +205,17 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 * How do you currently manage auditing and compliance with your existing software development toolchain?
 * How easy or difficult is it for you to pull together audit evidence and proof points across multiple tools? How could you benefit from a faster process?
 * How do you collect the data for security and compliance on a regular basis? When you have a breach, what are the implications and who has to get involved? What type of information is required? How long does it take for your teams to provide audit evidence?
-* GitLab Premium/Silver includes several enhancements that help with auditing and compliance including the below (see the [Why GitLab Premium/Silver? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
+* GitLab Premium includes several enhancements that help with auditing and compliance including the below (see the [Why GitLab Premium? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
     * [Audit Logs](https://docs.gitlab.com/ee/administration/audit_events.html) - Review changes by user and track access
     * [Auditor users](https://docs.gitlab.com/ee/administration/auditor_users.html) - Read-only access to all projects, groups, and other resources on the GitLab instance
     * [Merge Request Reviews](https://docs.gitlab.com/ee/user/discussions/index.html#merge-request-reviews) - Draft multiple comments in a merge request code review and review/resolve comments together
     * [Verified Committer](https://docs.gitlab.com/ee/push_rules/push_rules.html#enabling-push-rules) - Ensure only authorized and verified team members are allowed to commit to the project
     * [Require Signed Commits](https://docs.gitlab.com/ee/push_rules/push_rules.html#enabling-push-rules) - Enforce policy to require signed commits from contributors
 
-### Discovery Questions for GitLab Ultimate/Gold
+### Discovery Questions for GitLab Ultimate
 
 #### Overview
-[GitLab Ultimate/Gold](https://about.gitlab.com/pricing/ultimate/) helps organizations increase operational efficiencies, deliver better products faster, and reduce security and compliance risk. This product tier is ideal for projects with executive visibility and strategic organizational usage and helps enterprises transform IT by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. Ultimate/Gold helps organizations achieve advanced DevOps maturity. Are these capabilities important to your customer? Consider asking the below questions to find out.
+[GitLab Ultimate](https://about.gitlab.com/pricing/ultimate/) helps organizations increase operational efficiencies, deliver better products faster, and reduce security and compliance risk. This product tier is ideal for projects with executive visibility and strategic organizational usage and helps enterprises transform IT by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. Ultimate helps organizations achieve advanced DevOps maturity. Are these capabilities important to your customer? Consider asking the below questions to find out.
 
 #### Security
 * To what degree is cybersecurity a critical concern for you and your organization?
@@ -231,9 +231,9 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 
 #### Compliance
 * How important is license compliance to your organization so that you can  track project dependencies for their licenses and approve or deny specific licenses?
-* GitLab Ultimate/Gold offers the following compliance features:
+* GitLab Ultimate offers the following compliance features:
     * License Compliance - Identify the presence of new software licenses included in your project. Approve or deny the inclusion of a specific license
-    * [Compliance Templates](https://docs.gitlab.com/ee/gitlab-basics/create-project.html#enterprise-templates) - Templates to streamline audit management with specific regulatory standards. Currently, HIPAA is available. SOX & SOC2 are in the near term roadmap.
+    * [Compliance Templates](https://docs.gitlab.com/ee/user/project/working_with_projects.html#enterprise-templates) - Templates to streamline audit management with specific regulatory standards. Currently, HIPAA is available. SOX & SOC2 are in the near term roadmap.
 
 #### Project Insights
 * How would it affect your organization’s efficiencies to gain insights into things that matter for your projects (e.g. triage hygiene, issues created/closed per a given period, average time for merge requests to be merged, etc.)?
@@ -243,7 +243,7 @@ The key to identifying more GitLab Premium/Silver and GitLab Ultimate/Gold oppor
 * What does your organization do today to track software development and delivery projects from start to finish?
 * How easy or difficult is it to provide senior leadership with end to end visibility of these projects?
 * How would it affect productivity if everyone involved in critical projects had a common view of portfolio planning, tracking, and execution in one tool?
-* GitLab Ultimate/Gold delivers robust portfolio management that enables this end-to-end insight and visibility to help your organization focus on delivering business value. Highlighted features include:
+* GitLab Ultimate delivers robust portfolio management that enables this end-to-end insight and visibility to help your organization focus on delivering business value. Highlighted features include:
     * [Multi Level Epics](https://docs.gitlab.com/ee/user/group/epics/) - Organize, plan, and prioritize business ideas and initiatives
     * [VSM Workflow Analytics (future)](https://gitlab.com/gitlab-org/gitlab-ee/issues/7269) - Visualize the end to end value stream to identify and resolve bottlenecks
     * [Risk Management (future)](https://gitlab.com/gitlab-org/gitlab-ee/issues/3978) - Manage risk of epics not being completed on time

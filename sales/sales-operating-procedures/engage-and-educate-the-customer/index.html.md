@@ -146,7 +146,7 @@ As a rule of thumb here is the cadence for updating your [Command Plans](/handbo
 
 ## Step 5. Qualify the Opportunity
 
-Once you have conducted the initial qualifying meeting. You and your team should review all the data gathered in the [Command Plan](/handbook/sales/command-of-the-message/command-plan/). This includes a review of the research conducted, the discovery questions asked, how much [MEDDPPICC](/handbook/sales/meddppicc/) data was captured in the Command Plan, and what gaps you still have outstanding to capture.  Depending on the level of data captured, the lead can then be evaluated  according to the below listed criteria to recategorize from a lead to a **[Sales Accepted Opportunity](/handbook/business-ops/resources/#criteria-for-sales-accepted-opportunity-sao)**:
+Once you have conducted the initial qualifying meeting. You and your team should review all the data gathered in the [Command Plan](/handbook/sales/command-of-the-message/command-plan/). This includes a review of the research conducted, the discovery questions asked, how much [MEDDPPICC](/handbook/sales/meddppicc/) data was captured in the Command Plan, and what gaps you still have outstanding to capture.  Depending on the level of data captured, the lead can then be evaluated  according to the below listed criteria to recategorize from a lead to a **[Sales Accepted Opportunity](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao)**:
 
 *   **Authority (Is the prospect a person with decision- making authority?)**
     *   The prospect being met is directly involved in a project or team related to the potential purchase of GitLab within this buying group, either as an evaluator, decision maker, technical buyer, or *influencer.  
@@ -160,7 +160,7 @@ Once you have conducted the initial qualifying meeting. You and your team should
 *   **Timing (How Soon Will They Buy?)**
     *   After the initial qualifying meeting with the account leader/executive, there must be a next step that is set to occur within a _60 day timeframe_. (If next step isn’t within a 60 day timeframe, the opportunity remains in stage 0).
 
-Once the lead has been evaluated according to the above criteria, it can be designated as a qualified opportunity. An OPPORTUNITY can be created in Salesforce a) when converting a LEAD to CONTACT; b) from a CONTACT. **All opportunities** should be created with a Stage = 00-Pre Opportunity regardless of how you create the OPPORTUNITY. Once the initial setup is complete, the [OPPORTUNITY Stage](/handbook/business-ops/resources/#opportunity-stages) can be updated within Salesforce. 
+Once the lead has been evaluated according to the above criteria, it can be designated as a qualified opportunity. An OPPORTUNITY can be created in Salesforce a) when converting a LEAD to CONTACT; b) from a CONTACT. **All opportunities** should be created with a Stage = 00-Pre Opportunity regardless of how you create the OPPORTUNITY. Once the initial setup is complete, the [OPPORTUNITY Stage](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) can be updated within Salesforce. 
 
 ## Step 6. Pipeline Management and Forecasting
 

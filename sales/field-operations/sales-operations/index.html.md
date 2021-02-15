@@ -1,16 +1,17 @@
 ---
 layout: handbook-page-toc
 title: 'Sales Operations'
+description: "Sales Operations aim to help facilitate new and existing processes throughout our field organization via the use of systems, policies, and direct support. "
 ---
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
 ## On this page
 
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
   {:toc .hidden-md .hidden-lg}
+
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 {::options parse_block_html="true" /}
 
@@ -24,7 +25,7 @@ Sales Operations main focus is on the Sales organization and supports this group
   <a href="/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
   <a href="/handbook/sales/field-operations/sales-operations/#sales-operations-go-to-market" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
   <a href="/handbook/sales/qbrs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
-  <a href="/handbook/business-ops/resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
+  <a href="/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
     </div>
 
 ## **Meet the Team**
@@ -99,11 +100,11 @@ Salesforce [chatter](/handbook/sales/field-operations/sales-operations/deal-desk
 1. [Updating or creating Opportunity Splits ](/handbook/sales/forecasting/#opportunity-splits)
 1. [Salesforce Lightning for Gmail](/handbook/sales/prospect-engagement-best-practices)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/Zoominfo segmentation conflicts](/handbook/business-ops/resources/#segmentation)
-1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [Requesting Reassignment](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [If LEAD or CONTACT is owned by SDR team member](/handbook/business-ops/resources/#record-creation-in-salesforce)
-1. [Locked Deal](/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+1. [DataFox/Zoominfo segmentation conflicts](/handbook/sales/field-operations/gtm-resources/#segmentation)
+1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [If LEAD or CONTACT is owned by SDR team member](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce)
+1. [Locked Deal](/handbook/sales/field-operations/gtm-resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
 1. [Deal Desk assistance](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
 
 </details>
@@ -272,7 +273,6 @@ The full company tech stack list with definitions can be found on the [Business 
 
 1. An overdue opportunity report goes out every Tuesday to managers.
 1. An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email.
-1. Sales Operations will give until the 15th of the month and then forklift any opportunity with a close date in the past month to a future close date.
 1. Managers have "over due" reports on their dashboards for review as needed.
 
 </details>
@@ -296,7 +296,7 @@ The full company tech stack list with definitions can be found on the [Business 
 1. Check the Data in the [Provided Report](https://gitlab.my.salesforce.com/00O4M000004aGGo):
    - Make sure the last login date is set to LESS than or equal to 90 Days ago.
    - Verify that no integration users or users that might be tied to an external system are not included in the access removal. If there are questions, error on the cautious side and work with Sales Systems.
-1. Create an [Access Change Request](handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
+1. Create an [Access Change Request](/handbook/business-ops/employee-enablement/it-ops-team/access-requests/#access-change-request)
    - List the users that will be removed so that we have record of reason and users if needed in the future.
 1. Email Notification:
 
@@ -314,6 +314,72 @@ The full company tech stack list with definitions can be found on the [Business 
    - From Salesforce, access the setup menu and then manager users.
    - Locate the user and uncheck the Active box, or click the Freeze button. Freeze should only be used if the user can not be fully deactivated due to impact to other system or process.
    - If a user is frozen set a reminder in an issue to go back and deactivate user once related systems / process have been udpated.
+
+</details>
+</details>
+
+<details>
+<summary markdown='span'>
+  Sales Operations Case Management
+</summary>
+
+**What:**
+Salesforce case management system to enable the transfer of certain cases (created from Chatter requests) from the Deal Desk group to the Sales Ops group to take action and respond to the original chatter request.
+   - As of 2020-09-21, this will include all cases pertaining to account ownership/ROE and account segmentation, except for any cases that touch closed opportunities. 
+
+**Where:**
+- [Deal Desk Queue](https://gitlab.my.salesforce.com/500?fcf=00B4M000004O4ni)
+- [Sales Ops Queue](https://gitlab.my.salesforce.com/500?fcf=00B4M000004tewG)
+
+**How:**
+1. All Sales Support Chatter requests will continue to flow into the Sales Support queue managed by Deal Desk.
+1. Upon reviewing a case and identifying it as an account ownership/ROE or account segmentation request, Deal Desk will change the “Case Reason” field to “Account Reassignment/ROE” or “Account Segmentation Review.”
+1. Deal Desk will then change the Case Owner to “Sales Ops Queue,” which will move the case out of the Sales Support queue into the Sales Ops queue. 
+
+**Notes on Case Behavior:**
+1. Changing the “Case Owner” to the name of an individual team member marks that team member’s ownership of the case. This action can be taken at the individual case level or in bulk on the queue level.
+1. When case ownership is updated to a Sales Ops team member, the case will remain visible in the Sales Ops queue until closed.
+1. Changing the “Status” field to “In Progress” shows that someone is currently working on the case. 
+1. By changing Status to “In Progress,” ownership will automatically change to the individual who changes status. 
+1. By changing Status to “Closed,” the case will no longer appear in the queue.
+   - Note: Check the “Suppress auto case reply” button in the same motion, before saving, to prevent automated Chatter posts. If you do not check this box, and you change the status to “In Progress,” upon saving the case, Salesforce will create a Chatter reply from your account, tagging the original requester, noting that you are working on the case. Similarly, when you close the case, Salesforce will Chatter the requester to note that the work is complete.
+Click the “Related Chatter Object” link to view the original request. 
+
+**General Notes:**
+1. If working a case, and the requester makes a second request out of scope, please tag Sales Support so that a new case is opened for Deal Desk to review the request.
+1. If working a case, and any aspect of the request relates to ownership of a closed opportunity, please change the case owner back to Sales Support for Deal Desk to review the request.
+
+<details>
+<summary markdown='span'> Common Scenarios for Sales Operations team on completing Sales Operations Cases
+</summary>
+
+## Scenarios (these will expand):
+
+1.  Request to own an Account currently owned by the Sales Admin user:
+   - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
+   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) to assign the account to the correct owner.
+   - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
+1.  Request to own an Account currently owned by a Sales or Marketing Operations team member:
+   - NOTE: Most of the time these accounts came from a list load and need extra care in data validation.
+   - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
+   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) to assign the account to the correct owner.
+   - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
+1.  Request to reassign an account owned by the Impartner Integration user:
+   -  Chatter the Channel Manager to assist and validate the move.
+1.  Request to reassign an account owned by the Vartopia Integration user:
+   -  These customer accounts are OK to move and should follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) .
+1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
+   -  Chatter the Channel Manager to assist and validate the move.
+1.  Request to move an account to a Public Sector SAL. 
+   - Since PubSec is excluded from TSP at this time, the process will be different.
+   - Always cc Brent Caldwell on the chatter for awareness.  If unsure, ask Brent to advise on correct owner/territory. 
+   - Reference the [Master Territory List Public Sector Account Coverage](https://docs.google.com/spreadsheets/d/19LmWOxDegBfuPCdFK5e0voIUh7EpmF_OT4H4gY9YHUU/edit#gid=1263929675) sheet to determine the owner and the territory. The master tab will give the overview of the territory / SAL relationship.  The following tabs will list the accounts that belong in each territory.
+   - NOTE: Public Sector accounts use the **Owner field** and the **Account Territory field**. These will be the only 2 fields to update for Public Sector requests. 
+
+     
+
+
+
 
 </details>
 </details>
@@ -371,22 +437,23 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 **SMB AMER**
 
 1. [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+2. [SMB AMER Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **SMB EMEA & APAC**
-
-2. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+1. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+2. [SMB EMEA & APAC Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market East**
-
-3. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+1. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+2. [Mid Market-East Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market West**
-
-4. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+1. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+2. [Mid Market-West Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market EMEA**
-
-5. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+1. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+2. [Mid Market EMEA Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 </details>
 
@@ -394,7 +461,7 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 ### **Account Ownership Rules of Engagement**
 
-[Account Ownership Rules of Engagement Handbook](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+[Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 
 ### **Sales Territories**
 
@@ -494,7 +561,7 @@ The Sales Operations team supports the opportunity credit split approval process
    - If the opportunity is incorrectly assigned, the split should still match the owner until correct opportunity assignment is made.
    - This is automated and should be monitored on this [Exception Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXQt) weekly.
 3. There will never be a split that totals above 100%.
-4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includeds opportunity splits.
+4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includes opportunity splits.
 
 **Opportunity Splits in Clari**
 
@@ -516,7 +583,7 @@ Below are instructions on how Sales Operations provisions users within the vario
 For status on an issue please view the [Sales Operations Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331).
 
 <details>
-<summary markdown='span'>Operators Guide: Sales Opeartions Owned Provisioning </summary>
+<summary markdown='span'>Operators Guide: Sales Operations Owned Provisioning </summary>
 
 ### Sales Operations Access Request Labeling System
 
@@ -565,7 +632,7 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 1. Updated the Role, Team and License Type. These will be based off of the users job role/region and should be listed and or approved in the Access Request. If questionable, look at other provisioned users of the same title/role.
 1. Click the **Send Invites** button to invite the user to Chorus.
 
-Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, all else listener.
+Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, EMEA Commercial and SDR will get recorder once they have completed the GDPR training course.all else listener.
 
 ### DataFox
 
@@ -583,6 +650,6 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 ### **Sales Operations Owned System Offboarding**
 Below are instructions on how Sales Operations offboards users within the various Sales-owned systems.
 
-1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps).
+1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps%20Tech%20Stack-Completed).
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
-1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
+1. When the user has been deactivated in the systems listed for the Sales Operations DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'

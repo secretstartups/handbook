@@ -13,7 +13,7 @@ description: "October edition of the Field Flash Newsletter sent to the GitLab F
 *This email newsletter was originally sent to the GitLab Field Team and stakeholders on 2020-10-08.*
 
 ## NEW ⚡️ GitLab Field Flash: October Edition⚡️
-In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find numerous improvements from the Sales Ops team in response to your QBR asks, three new ROI Models, updated competitive resources, and more. Plus, Danny Petronio explains how he is embracing our Land & Expand vision in Australia with a recent deal closed for 800 seats of Gold, and learn more about how Kelley Shirazi embraces and promotes our value of Diversity, Inclusion & Belonging in her Team Member Spotlight.(***Pro Tip:*** Don’t forget to click the “View entire message” link at the bottom of this email when viewing in Gmail to see the full newsletter each month!)
+In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find numerous improvements from the Sales Ops team in response to your QBR asks, three new ROI Models, updated competitive resources, and more. Plus, Danny Petronio explains how he is embracing our Land & Expand vision in Australia with a recent deal closed for 800 seats of Ultimate SaaS, and learn more about how Kelley Shirazi embraces and promotes our value of Diversity, Inclusion & Belonging in her Team Member Spotlight.(***Pro Tip:*** Don’t forget to click the “View entire message” link at the bottom of this email when viewing in Gmail to see the full newsletter each month!)
 
 ### Q3 Sales Ops Cannonball Run Results
 Following Q3 QBRs, Field Operations captured 350+ individual asks from global field team members. Sales Ops, Channel Ops, Customer Success Ops, Deal Desk, and Sales Systems highlighted key areas where they could focus their energy for fast iteration with maximum impact and embarked on a Cannonball Run to deliver amazing value to the field by 2020-09-18. Here are the improvements available to you today:
@@ -25,7 +25,7 @@ Following Q3 QBRs, Field Operations captured 350+ individual asks from global fi
 Thanks to the team for their hard (and fast) work! See the [Cannonball Run Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1493) for full details on each initiative. Questions? Slack #sales-support.
 
 ### Deal of the Month 🏅
-Danny Petronio walks through how he closed a $600K iACV deal with a major Australian financial institution that will grow to 800 seats of Gold by the end of 2020. He also shares how he embraces the land and expand vision in his market through strong customer relationships, teamwork, and always remembering to have fun while selling. 🎊
+Danny Petronio walks through how he closed a $600K iACV deal with a major Australian financial institution that will grow to 800 seats of Ultimate SaaS by the end of 2020. He also shares how he embraces the land and expand vision in his market through strong customer relationships, teamwork, and always remembering to have fun while selling. 🎊
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/ve7yQ8Iy7Yw" frameborder="0" allowfullscreen="true"> </iframe>
@@ -76,7 +76,7 @@ There are only 3.5 months left in FY21 – which means, **only 3.5 months left t
 The GitLab 13.4 release is live! Here are the takeaways for customers and prospects:
 - **Reduce Security and Compliance Risk:** Teams can expand their DevSecOps with enhanced security capabilities including the ability to use HashiCorp Vault secrets in CI jobs, grant users deployment permissions without code access, and deploy to Kubernetes clusters from GitLab without the need to open a cluster to the entire Internet. In addition, the Instance Security Dashboard has evolved into the GitLab Security Center featuring Vulnerability Reporting and Settings.
 - **Increase Operational Efficiencies:** 13.4 brings with it a more efficient UX experience with improved global search capabilities that includes quick navigation from the search bar, GitLab Pages Redirects for redirecting individual pages and directories within a site, and the ability to manage hundreds of supported project deployments from the Environments dashboard.
-- **Deliver Better Products Faster:** GitLab is introducing inline code coverage remarks inside MR diffs which provide developers a visual representation of code coverage in the Merge Request diff when reviewing. Knowing whether modified code is covered by a unit test helps speed up code reviews and time to merge and deploy a feature. GitLab also moved feature flags to Starter and plan to move feature flags to Core in 13.5.
+- **Deliver Better Products Faster:** GitLab is introducing inline code coverage remarks inside MR diffs which provide developers a visual representation of code coverage in the Merge Request diff when reviewing. Knowing whether modified code is covered by a unit test helps speed up code reviews and time to merge and deploy a feature. GitLab also moved feature flags to Starter and plan to move feature flags to Free in 13.5.
 
 [Visit the 13.4 Release Post for more details](https://about.gitlab.com/releases/2020/09/22/gitlab-13-4-released/)
 

@@ -15,7 +15,7 @@ We must ensure all statements and representation to government procurement offic
 
 Any conduct that could appear improper should be avoided when dealing with government officials and employees or contractors. Payments, gifts, or other favors given to a government official or employee are strictly prohibited as it may appear to be a means of influence or a bribe. Failure to avoid these activities may expose the government agency, the government employee, our company, and you to substantial fines and penalties.
 
-GitLab Public Sector sales team sells EES, EEP, EEU, GitLab Hosted, and custom training directly to:
+GitLab Public Sector sales team sells EES, EEP, EEU, and custom training directly to:
 
 ## U.S. Federal Government
 * All Executive, Legislative, or Judicial agencies, departments, commissions, boards, offices, councils, or authorities, including Government Agencies as described above situated in U.S. Territories outside the Continental United States, Hospitals, Medical Centers, and other Health Facilities operated by U.S. Federal Government agencies.
@@ -25,16 +25,34 @@ GitLab Public Sector sales team sells EES, EEP, EEU, GitLab Hosted, and custom t
     * This includes For-Profit entities operating under the authority of a government bureaucracy such as Indian Gaming, Casinos under the supervision of the Deputy Asst. Secretary-Indian Affairs for Economic Development and Policy.
 
 
-## Federal Resellers & Systems Integrators
+## Federal Resellers & Federal Systems Integrators
 
-* All Resellers or Systems Integrators (also referred to as “Prime Contractors”) operating on the behalf of an otherwise-qualified Govt User is considered a Government customer for the specific tasks performed for that End-User.
+* Any one of the following qualify as a GitLab Public Sector Federal Reseller or Federal Systems Integrator (FSI) Customer: 
 
-* Any business unit/wholly-owned subsidiary or division of a public/private company that has as its primary business in providing technology, support and services to the Federal Government.
+    * All Resellers or Federal Systems Integrators (also referred to as “Prime Contractors”) operating on the behalf of an otherwise-qualified US Government User is considered a Government customer for the specific tasks performed for that End-User.
 
-* All Federally Funded Research and Development Centers (FFRDC’s).  For a current list of FFRDC’s see below link
-    * http://www.nsf.gov/statistics/ffrdclist/ 
+    * Any business unit/wholly-owned subsidiary or division of a public/private company that has as its primary business (75% or more) in providing technology, support and services to the Federal Government.
+    * Any business unit/wholly-owned subsidiary or division of a public/private company Where GitLab PubSec Support is required (https://about.gitlab.com/solutions/public-sector/)
+    * Any business unit/wholly-owned subsidiary or division of a public/private company that may realize tax exempt status on transactions
+    * All Federally Funded Research and Development Centers (FFRDC’s).  For a current list of FFRDC’s see below link
+        * http://www.nsf.gov/statistics/ffrdclist/ 
 
-
+* For GitLab Public Sector Federal Systems Integrator (FSI) customers, additional qualification is required for selling (to FSIs). The FSI sell-to qualification is primarily focused on GitLab license use, license ownership, and US tax exempt status of the transaction. There are unique Gitlab license procurement transactions in the FSI business model where the US Government procures and uses the GibLab license through the FSI. This is typically called a "sell-through" transaction. There are other procurement transactions where the FSI owns and operates GitLab licenses to promote FSI business to the US Government. This is typically called "sell-to" transactions. In a very broad summary the US government owns the license in a sell-through transaction, and the FSI owns the license in the sell-to transaction. In both cases however, the FSI may be responsible for procuring the license from GitLab or an authorized GitLab reseller. 
+* The following qualifications assist the PubSec sales teams in determining if the transaction should be credited as sell-to. By default any transaction that is not sell-to is automatically sell-through. In conducting the qualification with the FSI, the responses to the questions below must match all the expected responses, to qualify the transaction as sell-to.
+    * Defined Government agency: Civilian, DOD, U.S. Army (includes Army IC), USAF (includes USAF IC), US Navy (includes Navy IC), USMC. Is this the end customer? No
+    * Would a Government agency be responsible for paying for the licenses? No
+    * IC agency special qualifications (from PubSec IC team.): We use code names for those IC agencies that wish to remain unassociated and so we use USGov or Langley, we use MPO or The Fort, we use Westfields (or DAG) and then we use DIA or NGA as they have an open relationship with us. Would the license be procured by any of these entities? No
+    * Will internal FSI money be used to procure the license? Yes
+    * Will Federal programs or project dollars be used to purchase the licenses? No
+    * Would the FSI be directly reimbursed by any Federal dollars? No
+    * Once the project is over will the licenses be transferred to a government agency? No 
+    * Once the project is over will the FSI continue to own or use the license? Yes
+    * The technical point of contact must be an internal FSI employee or contractor. If the end customer involved in the transaction is a US government civilian employee or US military person the transaction is not sell-to. Is the technical point of contact a US government civilian employee or US military person? No
+    * Is this a directly funded FSI purchase (capital expense, R&D, bid and proposal)? Yes
+    * Is this transaction for a US Government program of record and can the FSI directly bill the government for the purchase? No
+    * Tax exemption status of the transaction.  While the tax exempt status of the transaction is not readily or easily known, tax exempt status is a true measure of the “paper process” and the identification of the end customer. The US government does not pay tax on its transaction.  FSIs that make purchases on behalf of the government enjoy the tax exemption for those transactions. If the FSI is not paying tax on the transaction the transaction is not sell-to.  Is the FSI paying tax on the transaction? Yes
+    * Is the procurement via a government contract vehicle like GSA, SEWP, CHESS, ITES, etc.? No
+    * Contract number on purchase orders confirms they’re on contract for a program of record.  DPAS numbers indicate the same.  Will there be a DPAS and/or contract numbers on the PO? No
 
 ## U.S. State & Local Government
 
@@ -130,7 +148,7 @@ The pricing in proposals submitted to the Federal Government must be arrived at 
 *d)* Pricing does not include any amount for a specified contingency to the extent that the contract provides for a price adjustment if that contingency occurs; and
 *e)* No attempt has been made or will be made by the offeror to induce any other concern to submit or not to submit an offer for the purpose of restricting competition.  
 
-**l. 	Prohibition on Subcontractors’ Restriction of Sales to the Government:**  Do not prevent subcontractors from permanently selling directly to the Government on an on-going basis.
+**l. 	Prohibition on Subcontractors’ Restriction of Sales to the Government:**  Do not prevent subcontractors from permanently selling directly to the Government on an ongoing basis.
 Federal law prohibits prime contractors from unreasonably restricting direct sales by their subcontractors to the Government under a prime contract or follow-on production contract. This prohibition does not, however, prevent a prime contractor from prohibiting its subcontractor from: (1) directly communicating with the prime contractor’s federal government client concerning the particular prime contract; or (2) interfering with the existing contractual relationship between the prime contractor and a Government.  
 
 

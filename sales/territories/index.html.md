@@ -67,11 +67,11 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 {:.no_toc}
 
-- **NA East - Named Accounts**: Adam Johnson
+- **NA East - Named Accounts**: TBD
 - **NA East - Southeast**: Tom Plumadore
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
-- **NA West - Rockies/SoCal**: James Roberts
+- **NA West - Rockies/SoCal**: TBD
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Timm Ideker
 
@@ -91,6 +91,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA East | Central | **Large-AMER-Lake Michigan** | Tim Kuper | Marcus Stangl |
 | NA East | Central | **Large-AMER-Ohio Valley** | Ruben Govender | Morgen Smith |
 | NA East | Central | **Large-AMER-TOLA** | Matt Petrovick | Brandon Brooks |
+| NA East | Central | **Large-AMER-TOLA2** | Brandon Greenwell | Brandon Brooks |
 | NA East | Named East | **Named Accounts** | Mark Bell | Steven Cull |
 | NA East | Named East | **Named Accounts** | John May | Ryan Kimball |
 | NA East | Named East | **Named Accounts** | Jordan Goodwin | Marcus Stangl |
@@ -106,17 +107,18 @@ For other countries outside AMER, governments agencies will be handled by the te
 | NA West | Southwest | **Large-AMER-Southwest** | Rick Walker | Blake Chalfant-Kero |
 | NA West | Southwest | **Named Accounts** | Chris Cornacchia | Jesse Muehlbauer |
 | NA West | Southwest | **Named Accounts** | Yvonne Zwolinski | Blake Chalfant-Kero |
-| NA West | Southwest | **Named Accounts** | John Williams | James Altheide |
-| NA West | SoCal | **Large-AMER-SoCal** | James Roberts* | Matthew MacFarlane |
+| NA West | Southwest | **Named Accounts** | Steve Clark | Blake Chalfant-Kero |
+| NA West | SoCal | **Large-AMER-SoCal**TBD** | Matthew MacFarlane |
 | NA West | SoCal | **Named Accounts** | Robert Hyry | Jesse Muehlbauer |
 | NA West | SoCal | **Named Accounts** | Brad Downey | Matthew MacFarlane |
-| NA West | NorCal | **ENT-NC-Named SF1** | Moses Mederos | TBD |
+| NA West | NorCal | **ENT-NC-Named SF1** | TBD | TBD |
 | NA West | NorCal | **ENT-NC-Named SF2** | Mike Nevolo | James Altheide |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 1** | Nico Ochoa | Madison Taft |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 2** | Joe Miklos | TBD |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 3** | Alan Cooke* | Madison Taft |
 | NA West | NorCal | **ENT-NC-Named Santa Clara 4** | Michael Scott | Aaron Young |
-| NA West | NorCal | **Large-AMER-NorCal** | Jim McMahon* | Isaac Mondesir |
+| NA West | NorCal | **Large-AMER-NorCal | Jim McMahon** | Jim McMahon* | Isaac Mondesir |
+| NA West | NorCal | **Large-AMER-Bay Area-1** | Alyssa Belardi | Isaac Mondesir |
 
 #### Public Sector
 
@@ -172,7 +174,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | China | China | **Large-APAC-China** | Danny Petronio | Aletha Alfarania |
 | China | Taiwan | **Large-APAC-Taiwan** | Danny Petronio | Aletha Alfarania |
 | Japan | Japan | **Large-APAC-Japan** | Eiji Morita | Minsu Han |
-| Korea | Korea | **Large-APAC-Korea** | Anthony McMahon | Minsu Han |
+| Korea | Korea | **Large-APAC-Korea** | Tae Ho Hyun | Minsu Han |
 
 #### EMEA
 
@@ -196,6 +198,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | UKI | UKI | **Large-EMEA-UKI E** | Steve Challis | Shay Fleming |
 |  |  | **Named Accounts** | Hugh Christey | Wiam Aissaoui |
 |  |  | **Named Accounts** | Timo Schuit | Peter Kunkli |
+| TBD | TBD | **TBD**| Aslihan Kurt | Goran Bijelic |
 
 
 
@@ -207,18 +210,9 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
 | LATAM | LATAM | **MM-AMER-EAST-LATAM** | Romer Gonzalez | Bruno Lazzarin |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-R** | Jenny Kline | MM SDR |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-FL** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-OHKY** | Steve Xu | MM SDR |
-| NA East | US East | **MM-AMER-EAST-MidSoAtlantic-VA** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-Toronto** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-ON** | Steve Xu | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral-QB** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NorthCentral** | Jenny Kline | MM SDR |
-| NA East | US East | **MM-AMER-EAST-Northeast** | Todd Lauver | MM SDR |
-| NA East | US East | **MM-AMER-EAST-NYPa** | Steve Xu | MM SDR |
+| NA East | US East | **MM-AMER-EAST-MidAtlantic** | Jenny Kline | MM SDR |
 | NA East | US East | **MM-AMER-EAST-Southeast** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-TriState** | Jenny Kline | MM SDR |
+| NA East | US East | **MM-AMER-EAST-Northeast** | Steve Xu | MM SDR |
 | NA West | US West | **MM-AMER-WEST-MtnMidwest** | Kyla Gradin | MM SDR |
 | NA West | US West | **MM-AMER-WEST-NorCal** | Matthew Kobilka | Da'Neil Olsen |
 | NA West | US West | **MM-AMER-WEST-NorCal-SJ** | Douglas Robbin | Da'Neil Olsen |
@@ -241,7 +235,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
-| ANZ | ANZ | **MM-APAC-ANZ** | Julie Manalo | Glenn Perez |
+| ANZ | ANZ | **MM-APAC-ANZ** | Ian Chiang | Glenn Perez |
 | Asia Central | Asia Central | **MM-APAC-Central Asia** | Ishan Padgotra | Glenn Perez |
 | China | China | **MM-APAC-China** | Ian Chiang | Aletha Alfarania |
 | Japan | Japan | **MM-APAC-Japan** | Ian Chiang | Minsu Han |
@@ -272,15 +266,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
 | France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
 | France | Rest Of | **MM-EMEA-France-R** | Israa Mahros | Camille Dios |
-| Nordics | FI | **MM-EMEA-Nordics-FI** | Hans Frederiks | Johan Rosendahl |
-| Nordics | NO | **MM-EMEA-Nordics-NO** | Hans Frederiks | Johan Rosendahl |
-| Nordics | DK | **MM-EMEA-Nordics-DK** | Hans Frederiks | Johan Rosendahl |
-| Nordics | SE | **MM-EMEA-Nordics-SE** | Hans Frederiks | Johan Rosendahl |
-| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Hans Frederiks | Johan Rosendahl |
+| Nordics | FI | **MM-EMEA-Nordics-FI** | Lisa VdKooij | Johan Rosendahl |
+| Nordics | NO | **MM-EMEA-Nordics-NO** | Sophia Simunec | Johan Rosendahl |
+| Nordics | DK | **MM-EMEA-Nordics-DK** | Israa Mahros | Johan Rosendahl |
+| Nordics | SE | **MM-EMEA-Nordics-SE** | Anthony Ogunbowale-Thomas | Johan Rosendahl |
+| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Sophia Simunec | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 10x-19x** | Lisa vdKooij | Johan Rosendahl |
 | Benelux | NL | **MM-EMEA-Benelux-NL 20x-29x** | Lisa vdKooij | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 30x-39x** | Hans Frederiks | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 40x-99x** | Hans Frederiks | Johan Rosendahl |
+| Benelux | NL | **MM-EMEA-Benelux-NL 30x-39x** | Chris Willis | Johan Rosendahl |
+| Benelux | NL | **MM-EMEA-Benelux-NL 40x-99x** | Conor Brady | Johan Rosendahl |
 | Benelux | BE/LU | **MM-EMEA-Benelux-BeLu** | Lisa VdKooij | Camille Dios |
 | Central Europe | DE | **MM-EMEA-Central-DE 0x** | Chris Willis | Rahim Abdullayev |
 | Central Europe | DE | **MM-EMEA-Central-DE 1x** | Chris Willis | Rahim Abdullayev |
@@ -317,20 +311,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | ---------- | ---- | -------------- | ----- | --- |
 | LATAM | Brazil | **SMB-AMER-Brazil** | Romer Gonzalez | Bruno Lazzarin |
 | LATAM | Rest of LATAM | **SMB-AMER-SoCenAmer** | Romer Gonzalez | Bruno Lazzarin |
-| NA East | US East | **SMB-AMER-Florida** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Quebec** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Ontario** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Great Lakes** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Illinois** | Kaley Johnson | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Northeast** | Michael Miranda / Matt Walsh | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Mid-Atlantic** | Matt Walsh | AMER Commercial - SMB^ |
+| NA East | US East | **SMB-AMER-Northeast** | Michael Miranda  | AMER Commercial - SMB^ |
+| NA East | US East | **SMB-AMER-Northeast-CAN** | Matthew Walsh | AMER Commercial - SMB^ |
+| NA East | US East | **SMB-AMER-Mid-Atlantic** | Anthony Feldman | AMER Commercial - SMB^ |
 | NA East | US East | **SMB-AMER-Southeast** | Kaley Johnson | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Mountain** | Adam Pestreich / Michael Miranda | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Northwest** | Marsja Jones | AMER Commercial - SMB^ |
+| NA West | US West | **SMB-AMER-Midwest** | Adam Pestreich | AMER Commercial - SMB^ |
+| NA West | US West | **SMB-AMER-Northwest** | Brooke Williamson | AMER Commercial - SMB^ |
 | NA West | US West | **SMB-AMER-Southwest** | Adam Pestreich | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Texas** | Brooke Williamson | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Washington** | Brooke Williamson | AMER Commercial - SMB^ |
 | NA West | US West  | **SMB-AMER-SoCal** | Carrie Nicholson | AMER Commercial - SMB^ |
+| NA West | US West  | **SMB-AMER-NorCal/HI** | Marsja Jones | AMER Commercial - SMB^ |
 
 ^ `SDR` = `AMER Commercial - SMB`: Round robin group consisting of Phillip Knorr and Kelsey Steyn 
 
@@ -350,11 +339,12 @@ For other countries outside AMER, governments agencies will be handled by the te
 
 | Sub-Region | Area | **Territory Name** | Sales | SDR |
 | ---------- | ---- | -------------- | ----- | --- |
-| Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Arina Voytenko | EMEA Commercial - SMB^ |
+| Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
 | Europe Central | DACH | **SMB-EMEA-North Germany** | Gábor Zaparkanszky | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-South Germany** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
+| Europe Central | DACH | **SMB-EMEA-South Germany** | Rahim Abdullayev | EMEA Commercial - SMB^ |
+| Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Rahim Abdullayev | EMEA Commercial - SMB^ |
 | Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
+| Europe South | Europe South | **SMB-EMEA-Greece** | Arina Voytenko | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-France** | Tim Guibert | EMEA Commercial - SMB^ |
 | Europe South | Europe South | **SMB-EMEA-Southern Europe** | Tim Guibert | EMEA Commercial - SMB^ |
 | MEA | MEA | **SMB-EMEA-MEA** | Daisy Miclat | EMEA Commercial - SMB^ |
@@ -366,15 +356,15 @@ For other countries outside AMER, governments agencies will be handled by the te
 | UKI | IE | **SMB-EMEA-UKI-Ireland** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Leeds** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London E** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC1** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC2** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC1** | Tim Guibert | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London EC2** | Tim Guibert | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC3** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London EC4** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London N** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London NW** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London SE** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London SW** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London W** | Daisy Miclat | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London SW** | Tim Guibert | EMEA Commercial - SMB^ |
+| UKI | GB | **SMB-EMEA-UKI-London W** | Tim Guibert | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-London WC** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | GB | **SMB-EMEA-UKI-Manchester** | Daisy Miclat | EMEA Commercial - SMB^ |
 | UKI | R | **SMB-EMEA-UKI-R** | Daisy Miclat | EMEA Commercial - SMB^ |

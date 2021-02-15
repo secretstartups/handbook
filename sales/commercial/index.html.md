@@ -5,7 +5,6 @@ department: "The Commercial Sales department at GitLab focuses on delivering max
 ---
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -13,7 +12,7 @@ department: "The Commercial Sales department at GitLab focuses on delivering max
 
 ## Welcome to the Commercial Sales Handbook
 
-The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on delivering maximum value to [SMB and Mid-Market](/handbook/business-ops/resources/#segmentation) customers throughout their entire journey with GitLab.
+The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on delivering maximum value to [SMB and Mid-Market](/handbook/sales/field-operations/gtm-resources/#segmentation) customers throughout their entire journey with GitLab.
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome"></i>Commercial Team Groups
 
@@ -44,7 +43,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 1. You might find it useful to create a Google doc to document all your learnings in your first 30 days, as you will get a lot of information to remember and it will also get you in the habit of taking notes, a [key part of GitLab’s culture](/handbook/communication/#external-communication).
 1. You can never have too many [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) with colleagues. You don’t need to ask permission from people, just put some time in their diary.
 1. Make sure your calendar is always up to date so that you can get meetings from SDRs without having to moving them around.
-1. Listen to as many [Chorus](https://chorus.ai/) calls as possible. We only record calls with the customer's permission in the US, but they are an excellent way to onboard even if you are not based in the US yourself.
+1. Listen to as many [Chorus](https://chorus.ai/) calls as possible. They are an excellent way to onboard.
 1. Add your own tips to this page as you onboard to pay it forward for the next new rep!
 
 ### Continuous Learning
@@ -121,7 +120,7 @@ Please follow the best practice process and use the [trip note template](https:/
 
 #### Example Give Back Projects
 
-**Customer AMAs:** Meetings for GitLab team members with current customers that provide an opportunity to ask them about anything in regards to their experience with GitLab
+**Customer AMAs:** Meetings for GitLab team members with current customers that provide an opportunity to ask them about anything in regard to their experience with GitLab
 
 **Customer Meetings:** Sharing the best practices for conducting any kind of external meeting at GitLab
 
@@ -140,7 +139,7 @@ For a complete list of our Give Back Projects and other Onboarding assignments o
 New team members should familiarize themselves with [The Required 7](/handbook/sales/commercial/enablement/required7/). These are the 7 tactical skills required to be an excellent Commercial Sales Account Executive:
 
 1. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
-    - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) tiering, not the previous owners, nor the tiering from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
+    - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) ranking, not the previous owners, nor the ranking from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
 1. Building your [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) for any opp amount over $5k SMB $10k MM **Amount** (n.b. amount, not iACV) that:
     - Calculates the ROI of using GitLab vs. next best option (this might be vs. do nothing)
     - Provides the 2 options for the customer going forward - normally both with GitLab (example: Ult or Prem)
@@ -158,15 +157,18 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
     - If you don’t yet know the answers or have the data, you will populate the Command Plan fields with your script and next steps to get that information
     - Exception to command plan: for channel managed opportunities we may not have access - put `Channel-Managed` in the opportunity title
     - ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
-1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-hygiene--activity) [video](https://youtu.be/o5gm7_5321w)
+1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-pipeline-activity) [video](https://youtu.be/o5gm7_5321w)
 ## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
 
 #### SMB
-* An Opportunity Consult happens when the opportunity IACV threshold is $10K +
-* A Light Weight Deal Review happens when the opportunity IACV threshold is $5K and is forecasted to close this month or next month. 
-#### Mid Market
-* An Opportunity Consult happens when the opportunity IACV threshold is $20K +
-* A Light Weight Deal Review happens when the opportunity IACV threshold is $10K and is forecasted to close this month or next month. 
+
+- An Opportunity Consult happens when the opportunity IACV threshold is $10K +
+- A Light Weight Deal Review happens when the opportunity IACV threshold is $5K and is forecasted to close this month or next month.
+
+#### Mid-Market
+
+- An Opportunity Consult happens when the opportunity IACV threshold is $20K +
+- A Light Weight Deal Review happens when the opportunity IACV threshold is $10K and is forecasted to close this month or next month.
 
 ### Opportunity Next Steps Best Practices
 
@@ -215,12 +217,18 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 
 ## SMB Account Executives
 
-SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/business-ops/resources/#segmentation) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
+SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/sales/field-operations/gtm-resources/#segmentation) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
+
+### Critical Salesforce reports to follow and bookmark
+- [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
+- [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+- [SMB APAC/EMEA Required 7](https://gitlab.my.salesforce.com/01Z4M000000oWyL)
+- [SMB APAC/EMEA 1:1 Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXKq)
 
 #### New Business
 
 - Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from Commercial SDR Team
-- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/business-ops/resources/#criteria-for-sales-accepted-opportunity-sao)
+- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao)
 - Nurture and help prospects during their Trial evaluation after Accepting Opportunities
 - Push to Webdirect or help with the Sales Order Process
 
@@ -244,19 +252,20 @@ Support will take the lead on all incoming requests in the queue and only forwar
 - There is an IACV affecting event from a **customer** -OR-
 - There is a credit or other request which requires sales manager approval
 
-### Salesforce Hygiene & Activity
+### Salesforce Pipeline Activity
 
 #### Opportunity Management in Salesforce
 
-- Prior to working a new opportunity always double-check the Account segmentation is "SMB" and the employee count for the company is less than 100, by viewing datafox information
-- Every SMB AE has an inidividual view for opportunity management: Access this view under the Opportunities tab in saleforce and use the drop down to find your view "SMB_name_ Active Opptys".
-- Once in the view follow the below steps for opportunity management;
-
+- Prior to working a new opportunity always double-check the Account segmentation is "SMB" and the employee count for the company is less than 100, by viewing datafox information and verifying with LinkedIn (especially outside of AMER)
+- Direct yourself every day to your Next Steps to know how to prioritize and organize your day. Recommendations on how to work through your next steps for the day:
 1. Sort by stage, placing highest priority stage at the top
 1. Prioritize the opportunities you are going to work on first by stage, amount, and close date
 1. Ensure "Next Steps," "Next Step Date," and "Next Steps Owner" are current with actionable and informative information that helps guide you on how to move the opportunity through the pipeline
-1. If a potential future opportunity that require action greater than 30 days out create an event with detailed notes on your agenda or action items
-1. Once stages Discovery - Awaiting Signature are updated, begin working on Pending Acceptance. Prioritize with the same criteria as above, rinse and repeat
+1. If a potential future opportunity that requires an action is greater than 30 days out, make sure this is detailed in the next steps field
+1. Once opportunities in the stages Discovery through Awaiting Signature are updated, begin working on Pending Acceptance. Continue to prioritize with the same criteria as above.
+
+#### Pipeline Generation
+- In weekly communication with your direct management review the health of your pipeline and update records as needed in real-time. You should know at all times what your pipeline multiplier is and if you need to create more pipeline to have a successful month and quarter. Refer to your team's **Pipeline Generation** checklist documents and the associated SFDC reports associated with keeping activity up to date. 
 
 #### Web Direct Oppty Management in Salesforce
 
@@ -278,7 +287,28 @@ GitLab.com Trials & Subscription Management
 
 - Access [the CustomersDot](https://customers.gitlab.com/admin/customer) to provide changes to a user, group, or subscription.
 
-### Troubleshooting & How-To Resources for Licensing & Subscription Management
+#### Close Date Conventions
+
+<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross IACV Best Case, Gross IACV Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
+
+1. <span class="colour" style="color: rgb(0, 0, 0);">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">At **all times** the iACV amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">The Stage represents where you believe the customer is in their buying process, not only the specific steps they have taken with you.</span>
+
+<span class="colour" style="color: rgb(0, 0, 0);">The three close dates:</span>
+
+1. <span class="colour" style="color: rgb(0, 0, 0);">Last day of the month it will close in **only if you have a compelling event defined**</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">The actual day the opportunity will close when the quote goes out for signature. It will appear past due if we don’t get the signature back and pushes to the Friday of the week it should close.  Renewals default to this convention</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">First day of the following month, no compelling event defined </span>
+    1. <span class="colour" style="color: rgb(0, 0, 0);">This is to straddle the first two and we have a plan to get a compelling event, then move to the last day of the month of actual closing</span>
+    1. <span class="colour" style="color: rgb(0, 0, 0);">This close date carries a window of roughly 60 days of when you think it will come in</span>
+
+**Example**: It's April 23rd, a new business Mid-Market opportunity is identified for a company at 410 employees and growing at an unknown rate (unclear due to being an agency). The company completed their evaluation with a trial ending this month, there are defined problems initially trying to solve, with some people who have used GitLab before.
+
+- Question for AE and self, what % chance of the purchase occurring in April, May, or June?
+    - 90% April, 10% May
+
+#### Troubleshooting & How-To Resources for Licensing & Subscription Management
 
 Detailed instructions on how to handle problems with licenses and subscriptions can be found in [these instructions and resources.](/handbook/business-ops/enterprise-applications/portal/troubleshooting/)
 
@@ -302,7 +332,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 #### New Business
 
 - Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from SDR Team
-- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/business-ops/resources/#criteria-for-sales-accepted-opportunity-sao)
+- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao)
 - Nurture and help prospects during their Trial evaluation after Accepting Opportunities
 - Push to Webdirect or help with the Sales Order Process
 
@@ -311,7 +341,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 - Log into Datafox or Sales Navigator
 - Input your territory criteria
 - Establish a list of accounts and sort by Company Head Count
-- Search for key words like DevOps
+- Search for keywords like DevOps
 - Look into each account to see if they are actually yours
 - Look into each employee that is either an engineer or technology professionals
 - Add that company name to your list
@@ -331,7 +361,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 ## Account Ownership Rules of Engagement for Commercial Sales
 
-It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 This section provides step by step clarity on how to follow the **ROE**.
 
 ### Process to follow:
@@ -360,19 +390,66 @@ It is a requirement for the Commercial Sales Team to tier their accounts using t
 
 #### Small Business Account Executive Definitions for Account Ranking
 
-- Tier 1: Top 10 Accounts with new business or upselling possibility within the next 12 months
-- Tier 1.5: Future opportunities that we should not lose track of as there is a sales opportunity here with no timeline
-- Tier 2: Believe there is an opportunity, but will take additional work before opening and beginning a sales cycle
-- Tier 3: Greenfield, SDR attention - perhaps a drip campaign
-- SMB AE must have potential user field filled in on the account object for Tier 1, and 1.5
-- SMB AE must have the notes section filled in on why an account is Tier 2 or 3
+- Rank 1: Top 10 Accounts with new business or upselling possibility within the next 12 months
+- Rank 1.5: Future opportunities that we should not lose track of as there is a sales opportunity here with no timeline
+- Rank 2: Believe there is an opportunity, but will take additional work before opening and beginning a sales cycle
+- Rank 3: Greenfield, SDR attention - perhaps a drip campaign
+- SMB AE must have potential user field filled in on the account object for Rank 1, and 1.5
+- SMB AE must have the notes section filled in on why an account is Rank 2 or 3
 
 #### Mid-Market Account Executive Definitions for Account Ranking
 
-- Tier 1: Accounts that I am working to maximize their iACV this fiscal year.
-- Tier 1.5 The subset of Tier 2 that is best and trending toward being future Tier 1s.
-- Tier 2 Accounts that I am working to grow and I speak with them at least once a month.
-- Tier 3 Accounts that I keep informed about GitLab and DevOps monthly.
+- Rank 1: Accounts that I am working to maximize their iACV this fiscal year.
+- Rank 1.5 The subset of Rank 2 that is best and trending toward being future Rank 1s.
+- Rank 2 Accounts that I am working to grow and I speak with them at least once a month.
+- Rank 3 Accounts that I keep informed about GitLab and DevOps monthly.
+
+## Co-Selling
+Co-selling is the responsibility of both the Account Executive and their Area Sales Manager to join sales calls together. This is to ensure the best client/prospect experience, along with jointly finding the highest potential within that account. 
+Area Sales Managers have an expectation to log a minimum of 5 co-selling calls per rolling 7 days, although we are aiming to achieve closer to 10-12 calls over a rolling 7 days.
+
+### Co-Selling Roles when working with your ASM
+* Primary Seller: Consider this role as the main pitch person. You are directing the conversation, sharing the deck and taking live notes and adding value, while also keeping on track with the agenda decided upon.
+* Co-Seller: This individual is responsible for raw notes in Salesforce, time management, and digging into comments to identify areas where we should be finding additional information. The Co-pilot should be digging into levels and amounts of pain when the Pilot moves on without capturing this.
+For additional information please visit this [reinforcement module](https://rise.articulate.com/share/-azahQvz24JLQ0yFj4JoRMorDMokvEeJ#/lessons/_fwDOSI3QjsRpf9LxRpm1R6gLVljSy0w)
+ 
+### Working with Channel Partners
+
+The GitLab partner network is ready to work with GitLab Account Executive's in order to extend the customer selling and services capacity offered by Commercial Sales. Channel's approach to this is called Partner Co-selling and working with Partners involves building a simple, clear, mutual customer opportunity plan establishing “who will do what, when?”. 
+
+#### What are the key benefits from working with partners? 
+
+*   AEs Working with Partners for Increased Customer Value & IACV
+*   Extended reach and capabilities via Partner sales and services capacity and reach via  GitLab-trained Partner AE’s, SA’s, Engineers, and often a GitLab channel manager to coordinate/assist.   
+*   Accelerated reach to new customer logos “**_Land_**”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
+*   Increased customer “**_Expand_**” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.  
+*   Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also TAM-like customer success services. 
+*   In the case of OPEN partners via distributors, dramatic reduction in the admin steps associated with quote-to-order process.
+
+#### How do AEs work with partners for increased customer value & IACV? 
+
+GitLab has a mature Partner network with good coverage of GitLab-trained Sales and Technical resources.  There are a few ways in which AEs will work with a customer including a Partner. 
+
+*   [Approved Partner GitLab Deal Registrations](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview) As these are received in your territory, in most cases* you will be contacted by a GitLab channel team member to arrange a co-selling kickoff call to develop a simple Partner co-selling plan to share with the Partner.  GitLab Channel Managers do not proactively manage all OPEN Partners. AEs can always request Channel Manager support for a Deal Registration by slacking channel-sales or available contacts.
+*  If you find themselves thinking 1. “a Partner SA could execute on this  customer-requested SA task”, or 2. AEs have customers that could benefit from a “Partner services attach engagement”, reach out on slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) with a Partner engagement request, if possible with a link to the related account or opportunity. A member of the channel team will promptly reach out to learn more about the request, and connect you with a Partner that is pre-qualified to promptly and properly execute on the task at hand, and keep you updated along the way. 
+*   AEs should lead planning and execution of the joint opportunity/customer pursuit with alignment and support of the partner and GitLab Channel Manager. The plan should be [tracked in SFDC with tasks and action items](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans). Partners should always get an email confirmation of any tasks assigned to them (via AE or Channel Mgr).  
+*   Channel Managers will engage with AE’s in the following ways:
+    *   When a new deal registration arrives in the AE’s pipeline
+    *   To review 2-3 Partners for the AE to work with for AE-selected joint customer success motions:
+        *   The Channel Manager will bring the possibilities forward during this call
+        *   2 examples of working with Partners are featured in this **[this Levelup](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2)**
+        *   AEs should share their thoughts about prioritizing which Partner activities would be best for which of their customers
+* In the case of Open partners via distributions, when the opportunity is ready, AE's email `partnersupport@gitlab.com` with the link to the opportunity requesting quote-to-order support (chatter alias coming soon) 
+
+#### Resources to learn more about teaming with Channel Partners?
+
+*   If this is a first time for an AE, we recommend watching the available training delivered. This Levelup video starts with a basic understanding of the [Channel Partner landscape](https://youtu.be/OeykHQetd7U). 
+*   LevelUp video on [Maximizing Value of Partners in a Deal](https://www.youtube.com/watch?v=ndrNX8fIIqs&list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX&index=2) specifically for AE’s to learn more about co-selling success.
+*   [Learn more about Partner co-selling best practices,  how Partners can help build out key elements of an AE’s R7 & Command Plans ](https://about.gitlab.com/handbook/sales/channel/#partner-co-selling-best-practices-and-how-partners-can-help-with-r7-and-command-plans)and much more in the [Channel Sales Handbook](https://about.gitlab.com/handbook/sales/channel/). 
+*   Slack [#channel-sales](https://gitlab.slack.com/archives/CT9KKE5RR) or reach out to your Channel Account Manager with any questions or requests for assistance. The channel is closely monitored by several members of the channel team who are here to help AE’s succeed in co-selling in any way we can. 
+*  List of [GitLab-trained OPEN and SELECT channel partners](https://help.salesforce.com/articleView?id=reports_schedule.htm&type=5)
+*  Channel Partner Finder **[Here](https://partners.gitlab.com/English/directory/)
+
 
 ## Center of Excellence
 

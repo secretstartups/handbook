@@ -51,7 +51,7 @@ description: "GitLab sales onboarding learning obejctives"
 - Observe how to deliver the GitLab Pitch Deck and practice making it yours.
 - Explain how GitLab helps in each stage of the DevOps Lifecycle.
 - Differentiate what's included in each product tier and be ready to ask questions during the live session.
-- Identify what sets higher tiers apart from Starter and practice advising clients on how they can create a more efficient and secure environment.
+- Identify what sets higher tiers apart from Free and practice advising clients on how they can create a more efficient and secure environment.
 - Review GitLab pricing at different tiers.
 - Describe what a use case is and identify GitLab's unique use cases.
 - Identify the GitLab Security Capabilities, practice using them, and observe a click-through demo of them.

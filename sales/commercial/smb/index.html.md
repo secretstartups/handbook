@@ -14,7 +14,7 @@ description: "SMB Account Executive guidelines to assist prospects through their
 {: .no_toc}
 {: .text-center}
 
-Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](/handbook/business-ops/resources/#segmentation). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
+Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](/handbook/sales/field-operations/gtm-resources/#segmentation). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
 
 ### Reaching the SMB team (internally)
 
@@ -69,7 +69,7 @@ True-ups are conversations that often come to the table with customers during re
 * [True Up Policy](/handbook/ceo/pricing/#true-up-pricing)
 * [What Causes True Ups?](/handbook/business-ops/business_systems/portal/troubleshooting/#user-counts-true-ups-add-ons-users-over-license)
 * [How To Find True Ups](https://about.gitlab.com/pricing/licensing-faq/#what-does-users-over-license-mean)
-* [Licensing and Subscription Troubleshooting ](/handbook/support/workflows/license_troubleshooting.html#licensing)
+* [Licensing and Subscription Troubleshooting ](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html#licensing)
 *  If you still have questions about a specific true up case, please write in the [`#smb_training_support`](https://app.slack.com/client/T02592416/CKYLWKGJU) channel for further assistance
 
 ### Solutions Architect & Technical Account Manager Rules of Engagement
@@ -78,9 +78,25 @@ True-ups are conversations that often come to the table with customers during re
   - Community Forum: https://forum.gitlab.com/
   - Reddit: https://www.reddit.com/r/gitlab/
 
-#### Renewals (WIP)
+#### Renewals & Account Management (WIP)
+For suggested email templates for a mid-term call along with renewal calls, reference the latest in the **SMB Email Templates** shared document.
 #### Discount Approval Process (WIP)
 #### Forecasting (WIP)
+
+Please use the following analysis of your pipeline to get the most accurate monthly and quarterly forecast
+1. Find your total Closed Won "CW" pipeline
+2. Find the iACV in your Current Active pipeline. Forecast this bucket by weighted amounts (it can be weighted by each stage to be micro, or an average weight based on your close ratio). Manual work is taken into account here. You may have top value deals that need to be adjusted, closing at 100% for best case, or maybe 0-low x% worst case/commit.
+3. The next important number is your expected pipeline growth. On average how much pipeline do you create and close each week. As months (or quarters) continue does the close rate decrease or increase. Typically it decreases therefore the average amount created+closed per day as the month (or quarter) continues goes down and then restarts day 1 of the next month (or quarter)
+4. Finally, use the following equations to get your 50/50, best case, and commit number to forecast. This is all using Gross iACV as the renewal loss will be automatically calculated into this equation based on the input in Clari
+- CW + (Active * x%) + (Growth * x%) = 50/50
+- CW + ((active  - top deals)* x% + top deals at 90-100%) + (Growth * x%) = best case
+- CW + ((active  - top deals)* x% + top deals at 0-20%) + (Growth * x%) =  commit/low
+5. Things to consider
+- Deals in next month that can pull into this month go into best case
+- Deals this month that can push to next month take out of commit
+- If you are earlier in the quarter you (growth *x%) is higher growth and higher % than end of month
+- How many blue birds do you get per quarter - have you had one this quarter? It can weigh the (growth *x%) to one extreme or another unexpectedly 
+
 
 ### Tools
 * [ZenDesk](/handbook/support/workflows/zendesk-overview.html) - Ticketing system
@@ -92,7 +108,7 @@ True-ups are conversations that often come to the table with customers during re
 * [Clari](/handbook/sales/forecasting#clari-for-salespeople-instructional-videos) - Forecasting 
 * [Datafox](/handbook/business-ops/tech-stack/#datafox) - Client Information
 * [CustomersDot Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
-* [Chorus](/handbook/business-ops/tech-stack/#chorus) (For NORAM SMB ONLY) - Call/Demo Recording 
+* [Chorus](/handbook/business-ops/tech-stack/#chorus) - Call/Demo Recording 
 *  [Crayon ](https://app.crayon.co/intel/gitlab/battlecards/) - Competitor Insights
 *  [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
 
@@ -126,6 +142,10 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 - [Adapting Command of the Message for SMB, part 1](https://docs.google.com/presentation/d/1ct5FksWRDtnsQeYkvceZLwi5IBlnZVx2dsA8tSzMHuY/edit?usp=sharing)
 - [Adapting Command of the Message for SMB, part 2](https://docs.google.com/presentation/d/1EWXuIwFQ20r6-Efb4xdwTBBRFaqgzT7xjnqpEK3F9z0/edit?usp=sharing)
 - [Mastering difficult conversations](https://docs.google.com/presentation/d/1M3PrP_h72qM7dPVIl8E1N98zYQR4-cKf51G3RCyXiDw/edit?usp=sharing) (video [here](https://youtu.be/6nCAyIIW_pE))
+- [Why Now? training](https://docs.google.com/presentation/d/11gjYDTYSYPffDnaDXjYXtXuQWi6ZZIotAWDKV86VIaQ/edit?usp=sharing) (video [here](https://youtu.be/bUls9lJh9P8))
+- [Expanding webstore customers](https://docs.google.com/presentation/d/1xPCEV8XCEkN493Jfz6DtbKGTV_t72FdkRPZX-RZbEwI/edit?usp=sharing)
+- [Account management: starting the relationship](https://docs.google.com/presentation/d/1ZvxdJEZIH8Cr7U2R_rF9gGlh_CjzUHyAz69ljo3zhTg/edit?usp=sharing) (video [here](https://youtu.be/GbET3hZrajk))
+- [Upselling Premium & Ultimate](https://docs.google.com/presentation/d/1u93b2TC3NDXQI1Ej8wKFOacBbfzra4wAgz5A2q2Ny_A/edit?usp=sharing) (video [here](https://youtu.be/XcTi8lWWnnI))
 
 ### Resources
 *  [Recommended books for SMB team](https://docs.google.com/document/d/19KOw5A84uUvKLBI9zdspbGpP4t3OOqsQLLKj6eTBjFw/edit) 
@@ -133,13 +153,14 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 *  [International G-drive with recordings of team meetings / trainings](https://drive.google.com/drive/folders/0ADQKNz5y48VuUk9PVA)
 
 ### Compensation
-*  The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/sales-term-glossary/acv-in-practice) goes toward the global *shared quota* retirement.
-*  Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/people-group/collaboration-and-effective-listening/#collaboration) is key. One teammate's success is everyone's success.
+* The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/sales-term-glossary/acv-in-practice) goes toward the global *shared quota* retirement.
+* The global SMB team is paid on [gross IACV](https://about.gitlab.com/handbook/sales/sales-term-glossary/acv-in-practice/#gross-incremental-annual-contract-value-gross-iacv).
+* Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/values/#collaboration) is key. One teammate's success is everyone's success.
 
 #### [Payment Schedule](/handbook/finance/payroll/#pay-date): 
 *  AMER: [commissions](/handbook/sales/commissions/#base-commission-rate-bcr) based on prior month attainment are paid on the 2nd payroll cycle the following month.
 *  EMEA & APAC: commission payout dates are specific to the country of residency. 
-* you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](captivateiq.com).
+* you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](https://www.captivateiq.com/).
 
 Any further questions related to SMB Compensation can be directed to the slack channel #total-rewards or your direct manager.
 

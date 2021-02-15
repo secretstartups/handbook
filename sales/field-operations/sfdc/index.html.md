@@ -9,6 +9,9 @@ title: "Business Operations - Salesforce Reference"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Page FYI 
+- UPDATE MESSAGE - JAN, 13, 2021 - THIS PAGE IS CURRENTLY UNDERGOING MAINTENANCE - WE WILL BE UPDATING THIS PAGE WITH THE LATEST INFORMATION WHICH ENTAILS DELETING FIELDS THAT NO LONGER EXIST, UPDATING THE LOGIC THAT IS USED TO POPULATE FIELDS AND ADDING NEW KEY FIELDS. IF YOU SUSPECT THAT INFORMATION ON THIS FIELD IS INCORRECT OR HAVING QUESTIONS ABOUT THESE FIELDS PLEASE COMMENT ON [THIS ISSUE](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1264)
+
 ## Purpose
 The purpose of this page is to provide insight into the internal workings of our Salesforce (SFDC) instance, how fields are populated, how fields are calculated, where they are used etc. This page does not serve to describe how the systems should be used by our internal stake holders. Instead it is meant to be used as a reference point for continual development by our internal ops teams as well as a reference point for all GitLab team-members as to the source of the information that is shown within SFDC. The goal of this document is not to document every field that exists within SFDC but instead to highlight the hidden process that affect fields that meet 1 or more of the following criteria  
 
