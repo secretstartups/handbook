@@ -125,8 +125,8 @@ The goal of the refinement process is to:
     * If you think that we should use the feature flag for a given issue, add ~"feature flag" label and add in the description a section called **Feature Flag** with the proposed name.
 1. Encourage Community Contributions.
     *  If the scope of the issue is well defined and there are no dependencies, consider adding [contribution Labels](/handbook/marketing/community-relations/code-contributor-program/#contribution-labels).
-    * The `~"Good for 1st time contributors"` label is particularly helpful but note that you would
-      be [volunteering to mentor new contributors](/handbook/marketing/community-relations/code-contributor-program/#issues-for-first-time-contributors).
+    * The `~"good for new contributors"` label is particularly helpful but note that you would
+      be [volunteering to mentor new contributors](/handbook/marketing/community-relations/code-contributor-program/#issues-for-new-contributors).
 1. Refinement Review.
     * If the weight you've assigned to the issue is less than 3, move the issue directly to `~"workflow::ready for development"`. 
     * If the weight of the issue is 3 or greater, unassign the issue from yourself and request a review from another engineer.
