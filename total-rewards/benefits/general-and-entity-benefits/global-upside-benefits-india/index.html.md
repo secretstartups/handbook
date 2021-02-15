@@ -49,17 +49,23 @@ Most companies in India do not offer life insurance as part of the benefits pack
 
 Sodexo Meal Cards are an optional benefit. These Meal Cards work like a Debit Card, which can be used at any outlet selling food items and non-alcoholic beverages that accept card payments. If you would like purchase these a deduction from salary will be made each month. All team members are gien the option to opt-in for Sodexo cards during the pre-onboarding process managed by the CES (Candidate Experience Specialist) team.  
 
-### Global Upside India Leave Policy
+### Global Upside India Parental Leave 
 
-* Statutory Maternity Leave
-  - The statutory entitlement for maternity leave is 26 weeks as per Maternity Benefit Act 1961. This can be availed maximum on two occasions only. A fitness certificate should be submitted at the time of resumption of duties.
-  - Every female team member availing maternity leave is eligible for an insurance coverage of INR 50,000 for expenses related to delivery.
-  - If a team member wishes to extend her maternity leave, she shall make a written request to her Reporting Manager and Total Rewards Analysts with a valid justification. In such situation Reporting Manager and Total Rewards Analyst will review the case and inform employee to utilize her SL, CL and PLs for payable days OR / up to a maximum of 4 weeks from 90th day with loss of pay.
+#### Statutory Leave Entitlement
 
-* Statutory Paternity Leave:  
-  - All confirmed male team members are eligible for availing Paternity Leave not exceeding 3 consecutive working days (excluding holidays) up to 2 children. These leaves are paid leaves.
+**Maternity Leave:** Team members can take up to 26 weeks of Maternity Leave (for up to 2 occassions).
 
-Total Rewards will consult with Global Upside to ensure that the statute is met.
+**Paternity Leave:** Team members can take up to 3 days of Paternity Leave.
+
+#### Maternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 26 weeks.
+* Every female team member availing maternity leave is eligible for an insurance coverage of INR 50,000 for expenses related to delivery.
+
+#### Paternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Applying for Parental Leave in India
+To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Familiarize yourself with GitLab's [Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 ### Gratuity
 
@@ -116,12 +122,21 @@ Every level of team member is entitled to 13th month pay as long as they have wo
 
 Team members are entitled to `five days` of paid vacation leave after 12 months of service, referred to as "service incentive leave" by the Labour Code.
 
-### Global Upside - Philippines Leave Policy
+### Global Upside Philippines Parental Leave
 
-#### Statutory Maternity Leave
+#### Statutory Leave Entitlement
 
-The statutory entitlement for maternity leave is 60 days (2 months) in case of normal delivery and 78 days in case of caesarian delivery.
+**Maternity Leave:** Team members can take up to 105 days of Maternity Leave. Team members may request an additional 30 days of unpaid Maternity Leave. Solo mothers have the option to extend by 15 days. 
 
-#### Statutory Paternity Leave
+**Paternity Leave:** Team members can take up 7 days of Paternity Leave or up to 14 days if the team member's wife allocates him 7 days of extra Paternity Leave.
 
-A male team member is entitled to 7 days of paid paternity leave for the first four children they have. Leave must be used within 60 days of birth.
+#### Maternity Leave Payment
+* Team members may receive Maternity Leave payment from the SSS for up to 105 days. 
+* If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement your pay to ensure you receive 100% pay for up to 16 weeks of your leave.
+
+#### Paternity Leave Payment
+* Team members may receive Paternity Leave payment from the SSS for up to 7 days (if allocated from the wife's Maternity Leave payment).
+* If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement your pay to ensure you receive 100% pay for up to 16 weeks of your leave.
+
+#### Applying for Parental Leave in the Philippines
+To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Familiarize yourself with GitLab's [Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
