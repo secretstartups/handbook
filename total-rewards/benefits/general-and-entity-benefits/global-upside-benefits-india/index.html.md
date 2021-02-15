@@ -65,7 +65,7 @@ Sodexo Meal Cards are an optional benefit. These Meal Cards work like a Debit Ca
 * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
 
 #### Applying for Parental Leave in India
-To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Familiarize yourself with GitLab's [Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 ### Gratuity
 
@@ -139,4 +139,4 @@ Team members are entitled to `five days` of paid vacation leave after 12 months 
 * If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement your pay to ensure you receive 100% pay for up to 16 weeks of your leave.
 
 #### Applying for Parental Leave in the Philippines
-To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Familiarize yourself with GitLab's [Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
