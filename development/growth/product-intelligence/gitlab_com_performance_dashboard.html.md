@@ -24,7 +24,7 @@ This dashboard shows:
 
 * Average and 50/90/99th percentiles for total load time
 * Percentage of total page hits for the time period (to see if there is a relationship between page hits and response time)
-* Average time for key subcomponents of the total load time such as request, redirect, DOM, and processing time.
+* Average and 99th percentile time for key subcomponents of the total load time such as request, redirect, DOM, and processing time.
 
 This can answer questions such as:
 * Is performance improving over time?
@@ -36,7 +36,7 @@ This can answer questions such as:
 _All times are UTC_
 
 * Average and 50/90/99th percentiles for total load time
-* * Percentage of total page hits for the time period 
+* Percentage of total page hits for the time period 
 
 This can answer questions such as:
 * When did performance issues spike?
