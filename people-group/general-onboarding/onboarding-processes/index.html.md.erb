@@ -18,9 +18,11 @@ In case this is a re-hire ping the ITOps team in the #it-help slack channel to e
 
 ### Timing
 
-On Monday and Wednesday the People Experience Associate in the `BHR Onboarding Report` [rotation](/handbook/people-group/people-experience-team/index.html#weekly-rotations) will pull a report from BambooHR which compiles a list of all new team members starting in 2 weeks. This data is pulled from the [Greenhouse <> BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) once the Candidate Experience Specialist team updates the team member to `hired`. The onboarding team members will then be added to the People Exp/Ops tracker under `Onboarding`. In the event that a team member has already been synced and a new team members start date changes, it is **important** that the Candidate Experience Specialist team notifies the People Experience team by submitting a Slack form in order to re-sync the team member and update the necessary systems (Onboarding issue, PEA tracker, BambooHR, etc).
+On Monday and Wednesday the People Experience Associate in the `BHR Onboarding Report` [rotation](/handbook/people-group/people-experience-team/index.html#weekly-rotations) will [pull a report from BambooHR](https://about.gitlab.com/handbook/people-group/people-experience-team/#pulling-of-bamboohr-onboarding-data) which compiles a list of all new team members starting in 2 weeks and added to the onboarding tracker. This data is pulled from the [Greenhouse <> BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) once the Candidate Experience Specialist team updates the team member to `hired`. 
 
-People Experience Associates will create the onboarding issue, and start completing the onboarding tasks, no later than one week before the new team member joins. People Experience Associates require a minimum of 4 business days (with the new hire timezone as the basis) before the new hire's start date to complete all onboarding tasks. To ensure we create a smooth onboarding experience for new team members, provide enough time for the IT Ops team for laptop orders, and completing the I-9 process (for US-base hires) 4 days is the minimum amount of time needed. Should a contract not be signed prior to 4 working days from the start date, a new start date will be required.
+In the event that a team member has already been synced and a new team members start date changes, it is **important** that the Candidate Experience Specialist team notifies the People Experience team by submitting a Slack form in order to re-sync the team member and update the necessary systems (Onboarding issue, PEA tracker, BambooHR, etc).
+
+People Experience Associates will create the onboarding issue, and start completing the onboarding tasks, no later than 5 days before the new team member joins. People Experience Associates require a minimum of 4 business days (with the new hire timezone as the basis) before the new hire's start date to complete all onboarding tasks. To ensure we create a smooth onboarding experience for new team members, provide enough time for the IT Ops team for laptop orders, and completing the I-9 process (for US-base hires) 4 days is the minimum amount of time needed. Should a contract not be signed prior to 4 working days from the start date, a new start date will be required.
 
 If any changes or updates need to be made to the onboarding template, kindly notify team members of the People Experience team by ccing them in the MR with the `@gl-people-exp` handle. Also notify other teams if a change will impact them.
 
@@ -75,6 +77,8 @@ _Note: You can reference what are considered to be “Acceptable Documents” [h
 
 1. **Section 1** → Employee personal details. New team members fill out this section online personally.
 1. **Section 2** → Employee assigns a “Designated Agent” to view, verify and document their government-issued official document(s). The Designated Agent completes this section online personally, but with the new team member and their documents physically in hand next to the Designated Agent.
+
+**If a team member is synced from Greenhouse to BambooHR less than 7 days prior to their start date, we will manually need to run the [pops command](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#new-hires) to sync from BambooHR to LawLogix.
 
 #### Sending of Employee Instructions
 
@@ -167,20 +171,14 @@ For certain systems and applications, it is required for Administrators to confi
 
 ## Pre-Onboarding Issue Creation Tasks
 
-The People Experience Associate who is responsible for allocating Onboading issues for the team, will open the  BambooHR report titled, New Hire.
-
-1. This report will be pulled on both Monday and Wednesday to ensure all new hires for the next week are accounted for.
-1. The People Experience Associate will need to download the report as a CSV and then copy and paste that data into the People Ex/Ops Task Tracker spreadsheet
-
 The People Experience Associate will create the Google Mail account first.
 
 ### **Google Mail Account Creation**<a name="Google"></a>
 
-
 1. People Experience Associates create email addresses for new team members using the convention of `firstinitiallastname@gitlab.com`. 
-- Review common naming customs for the team member region. If the team member is from a [LATAM country](https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America) ensure the email address is align with the team members preferred first name and last name(s).  
-1. To make sure that we create new GitLab.com Google Mail emails according to the new team member's preferred first and last name, we first look at the team member's resume & relevant communications to find their preferred name.
-1. Before creating the email account, verify that the proposed email is not conflicting with a current account by searching in Google Workspace Admin. If it is, add a letter for their middle name or ask the team member for their choice in preferred letter addition to their email address. After confirming, check the email again within the Admin Google Workspace Admin. Please note that you will not be creating the email address in Google Workspace Admin. 
+- Review common naming customs for the team member region. If the team member is from a [LATAM country](https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America), ensure the email address is aligned with the team members preferred first name and last name(s).  
+1. To make sure that we create the GitLab Google Mail account according to the new team member's preferred first and last name, we first look at the team member's resume & relevant communications to find their preferred name.
+1. Before creating the email account, verify that the proposed email is not conflicting with a current account by searching in Google Workspace Admin. If it is, add a letter for their middle name or ask the team member for their choice in preferred letter addition to their email address. After confirming, check the email again within the Google Workspace Admin. **Please note that you will not be creating the email address in Google Workspace Admin**. 
 1. Add the email address to the BambooHR profile under work email. The Okta and BambooHR sync will then create the email address automatically in Google Workspace. 
 
 Examples:
@@ -190,13 +188,12 @@ Examples:
 
 ### **BambooHR Profile Data**
 
-As part of [onboarding](/handbook/people-group/general-onboarding/), the People Experience Associates will process new team members in BambooHR. Aside from the steps listed in the onboarding issue, this is a description of how to add the proper information into BambooHR.
+As part of the [Greenhouse<>BambooHR automation](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/), certain fields in BambooHR are [pre-filled](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#synced-fields). The People Experience Associate will check all synced fields have been populated correctly.
 
-***Note:*** All fields are pre-filled by the [custom sync](/handbook/people-group/engineering/gh-bhr-sync/) that exists between Greenhouse and BambooHR, unless noted in the sections below. 
-
-***Note:*** If all of the necessary tabs in the new team member's BambooHR profile do not automatically populate, please go to the `Job` tab, scroll down to the `Job Information` section, click the pencil icon on the righthand side of the section, and ensure that the `Department` and `Division` fields are correctly populated. Save your changes and refresh the new team member's profile. All necessary tabs should now appear. Please also create an [issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync) for the People Operations Fullstack Engineer to [investigate](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/) why the sync did not auto complete the fields. 
+***Note:*** If all of the necessary tabs in the new team member's BambooHR profile do not automatically populate, please go to the `Job` tab, scroll down to the `Job Information` section, click the pencil icon on the righthand side of the section, and ensure that the `Department` and `Division` fields are correctly populated. Save your changes and refresh the new team member's profile. All necessary tabs should now appear. Please also create an [issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync) for the People Group Engineer to [investigate](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/) why the sync did not auto complete the fields. 
 
 ##### Hire Date Changes
+
 - If a new team member needs to adjust their start date but a new contract is not created, the People Experience team will:
 1. Have the Candidate Experience Specialist team complete the following [steps](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
 1. Check all **Hire Dates** in BambooHR
@@ -208,8 +205,8 @@ As part of [onboarding](/handbook/people-group/general-onboarding/), the People 
 1. The BambooHR dates will not be adjusted. 
 1. Update the Onboarding Issue title to reflect the "New Start Date". This date is used for the onboarding email automation. 
 
+##### New team member rejects offer
 
-#### New team member rejects offer
 If a new team member has already been marked as hired in Greenhouse and the sync has taken place, then they reject our offer, the Candidate Experience team will notify both the Senior Director, People Success and the People Experience team in the #people-group-confidential Slack channel. 
 1. Once confirmed, The People Experience Associate will verify that the profile has been deleted and then update the People Experience team onboarding tracker to remove the former team member.
 1. If a GitLab email address has already been created, proceed with deleting the email address from Google Workspace Admin.
@@ -217,12 +214,12 @@ If a new team member has already been marked as hired in Greenhouse and the sync
 
 #### Personal Tab
 
-1. **Name:**  Enter the team member's full legal name (as much as it is known before seeing legal ID) and preferred name if known. The custom sync will have filled in a name, this might not be the legal name, so you still need to check. The sync will import middle name as part of first name, you will need to seperate them if that was the case. There's an [issue](https://ops.gitlab.net/gitlab-people-engineering/employment-automation/-/issues/11) to fix that. Once you have seen the team member's legal ID (either through work eligibility confirmation or employee upload), please edit the 3 Name fields (First Name(s), Middle Name(s), Last Name(s)) to ensure that the team member's full and complete legal name is shown in BambooHR.
-1. **Address:** Enter full address, including Street address, City, Region, Zip/Post Code and Country. Only the country is pre-filled by the custom sync.
+1. **Name:**  Verify the team member's **full legal name** (as much as it is known before seeing legal ID) and preferred name if known has been added correctly as per the custom sync. The sync will import middle name as part of first name, you will need to seperate them if that was the case. 
+1. **Address:** Enter full address, including Street address, City, Region, Zip/Post Code and Country. Only the country is pre-filled by the custom sync. This data can be found in Greenhouse under the 'Details' section.
 1. **Locality:** ([geo area](/handbook/total-rewards/compensation/compensation-calculator/#geographical-areas), country). This information should be visible in the offer details. If you have any questions, please reach out to the Total Rewards team.
   * Please note the formatting must be entered exactly as outlined in the [location factor file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml) with "area, country" or the integration outside BambooHR will fail. Please only choose a locality from the already created fields in BambooHR. Do not create any new localities.
 1. **Region:** If not: the three options are Americas, EMEA, or JAPAC.
-1. **Work Email** Add the GitLab email created previously in the Work Email field. This can not be done by the sync, as the team member is synced before the email is created. Once added, this will sync from BambooHR to Okta and allow the team member to access their Google Mail via Okta. 
+1. **Work Email** Add the GitLab email in the Work Email field. This can not be done by the sync, as the team member is synced before the email is created. Once added, this will sync from BambooHR to Okta and allow the team member to access their Google Mail via Okta. 
 
 #### Jobs Tab
 
@@ -247,29 +244,20 @@ If a new team member has already been marked as hired in Greenhouse and the sync
    * Enter No if the team member answered No or None.
 1. **Candidate ID:** This is the candidate's ID in Greenhouse, and is found by looking at the URL for the candidate. It is an 11-digit number listed between /people/ and the ? symbol.
 1. **GHP_ID:** This is the GHP ID in Greenhouse. You can find this on the approvals tab for the team member, then scroll to the `Openings` table and scroll to the far left to get the `GHP ID`.
+
+**If any of the below information has not been correctly synced, rerun the sync. Alternatively, you can use the BambooHR calculator to verify the figures that need to be manually added**.
 1. **Compensation Table:**
-   * Use the BambooHR Calculator in Google Drive to do the following steps. Reach out to an Analyst if you need access.
-   * **Effective Date** - Hire Date
-   * **Pay Rate** - Yearly amount divided by pay frequency. For contractors it is the monthly contract amount.
-   * **Pay Per** - Monthly for contractors. If the pay frequency difference from 12, it is Pay Period else it is Monthly.
-   * **Pay Type** - Use either Salary or Hourly for employees, or Contract for contractors.
-   * **Overtime** - This is the FLSA Code - This will either be exempt or non-exempt depending on how the role is classified. If there are questions on the classification, please ask the Total Rewards Analyst.
-   * **Change Reason** - Hire
-   * **Comment** - Please add any comments that are relevant from the contract terms.
+   * Compare the data to the signed offer in Greenhouse. Reach out to a Total Rewards Analyst if you need any assistance.
 1. The **Pay Frequency** and the **Pay Schedule** should be filled in according to this table:
   <%= partial "includes/people-operations/pay_frequencies" %>
 
 1. **On Target Earnings**
-   * If the team member does not have any variable compensation, do not enter any information. If **yes**, continue.
-   * **Date:** Hire Date for new hires
-   * **Annual Amount USD & Annual Amount Local:** Use the BambooHR Calculator
-   * **OTE USD & OTE Local:** Use the BambooHR Calculator OTE is base + variable.
-   * **Frequency:** at which the variable component is paid out. This can be found in the contract and in the BambooHR Calculator tab "Frequency"
+   * If the team member has variable compensation listed in the signed contract, verify that the information has been added correctly. If **yes**, continue.
 1. **Currency Conversion**
    * **Effective Date:** Hire date for new hires.
    * **Exchange Rate Effective Date:** is either December 1 or June 1, whichever is more recent. Every December and June, the Total Rewards Analyst will conduct a currency conversion for all team members.
-   * Use [Oanda](https://www.oanda.com/currency/converter/) for the currency conversion. Always convert the currency from local currency into USD so that we remain consistent. Let Total-Rewards know if there is a difference between Oanda and the BambooHR Calculator
-   * **Currency Conversation:** enter factor from Oanda with all 5 decimal places.
+   * The existing [Currency Conversion](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/currency_conversions.yml) file is used as the SSoT for the currency conversion. 
+   * **Currency Conversation:** this should be entered with the factor from yml file, with all 5 decimal places.
    * **Local Annual Salary** with the appropriate currency code and the converted salary in USD.
 1. **Equity:**
    * **Effective Date:** Hire Date
@@ -282,17 +270,17 @@ If a new team member has already been marked as hired in Greenhouse and the sync
 1. **Job information:**
    * **Effective Date:**  Hire Date
    * **Location:**  Which entity the new team member is contracted through.
-   * **Division:**  Enter the appropriate division from the dropdown.
-   * **Department:**  Enter the appropriate department from the dropdown.
-   * **Job Title:**  Choose the job title. You will find the job title under On Job- Offer Details in Greenhouse. The title should read as Level Benchmark. If the position is at the Manager or Director level it should read as "Manager, Description".
-     - If the title does not exist already, Ping the `total-rewards` team in the slack channel `#peopleops_totalrewards` and verify the title is in the correct format before adding.
+   * **Division:**  Lists the appropriate division the new team member is contracted through.
+   * **Department:**  Lists the appropriate department the new team member is contracted through.
+   * **Job Title:**  This will list the job title as stipulated on the signed contract. 
+     - If the title does not exist, ping the `total-rewards` team in the private Slack channel `#peopleops_totalrewards` and verify the title is in the correct format before adding.
      - Once confirmed, scroll to the bottom, click "Add New", create and save the new job title.
-   * **Reports To:**  Select their manager.
-   * **Job Title Speciality:**  If there is a specialty ((this would be found under On Job-  Offer Details), use the drop down to select the appropriate specialty. If the specialty is not listed in the drop down menu, create a new one. The Job Title Specialty field has no restrictions)
+   * **Reports To:**  Check that the manager listed on the contract is listed correctly in BambooHR.
+   * **Job Title Speciality:**  If there is a specialty (this would be found under On Job-  Offer Details), this will be inserted in the field. If the specialty is not listed in the drop down menu, create a new one. The Job Title Specialty field has no restrictions)
          (Examples of a Specialty: Growth, Commercial, DoD, EMEA).<br>
-  _Note: For Development, the `Job Title Specialty` field should indicated the `Group` level within Development (I.E. Package, Verify, Fulfillment, etc). For reference, there is an overview of all of the stages and their corresponding `Groups` on the [Product sections, stages, groups, and categories](/handbook/product/categories/#devops-stages) handbook page.
+  * Note: For Development, the `Job Title Specialty` field should indicate the `Group` level within Development (I.E. Package, Verify, Fulfillment, etc). For reference, there is an overview of all of the stages and their corresponding `Groups` on the [Product sections, stages, groups, and categories](/handbook/product/categories/#devops-stages) handbook page.
 
-   * Select **Part Time or Full Time**
+   * This will list either **Part Time or Full Time**, check whether this is listed correctly.
 1. **Bonus**
    * Enter a bonus date, amount and type if applicable.
 
@@ -324,7 +312,7 @@ If a new team member has already been marked as hired in Greenhouse and the sync
 
 1. If the team member is a member of the People Group, the People Experience Team is unable to view the probation status. Simply the run the following command in a private Slack message to confirm that the probation period statuses have been added successfully for the team member dependent on their location:
 `/pops run probationstatus team member name or GitLab email address`.
-        1. If the status is incorrect, the People Experience Associate will need to request assistance from the Senior Manager, People Operations to update the status.
+        1. If the status is incorrect, the People Experience Associate will need to request assistance from the Total Rewards Analyst to update the status.
 1. If applicable, Ensure the `End of Probation Period` date is accurate, this date will drive an alert for the People Experience team automatically, 5 days before and on the day the probation period expires. Details of the probation period process can be found on the [Contracts and International Expansion page](/handbook/people-group/contracts-and-international-expansion/#probation-period). Please use these probation periods in BambooHR for team  members in these specific groups.
 
 
@@ -381,6 +369,10 @@ Each assigned People Experience Associate will send their new team members our C
 1. If a team member was sent the document for signature or reminder over 2 weeks in the past, click the Bell icon on their line at the far right. Clicking on the bell will send them a notification to sign.
 
 ## People Experience Day 1 Onboarding Tasks
+
+### Verify Team Members Legal Name
+
+Once you have seen the team member's legal ID (either through work eligibility confirmation or employee upload), please edit the 3 Name fields (First Name(s), Middle Name(s), Last Name(s)) to ensure that the team member's full and complete legal name is shown in BambooHR.
 
 ### Onboarding Welcome Email
 
