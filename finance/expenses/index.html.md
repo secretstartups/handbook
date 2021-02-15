@@ -19,7 +19,7 @@ GitLab utitilizes Expensify as our team member expense reimbursement tool. All t
 
 ### Redacting Personal Information from Receipts
 
-As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any receipts containing personal information should be rejected and sent back to be corrected. Personal information inclues:
+As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any receipts containing personal information should be rejected and sent back to be corrected. Personal information includes:
 * Your shipping and billing address(es)
 * Your credit card information
 * Your full name
