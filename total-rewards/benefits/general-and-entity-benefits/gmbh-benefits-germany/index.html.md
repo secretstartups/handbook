@@ -50,7 +50,7 @@ GitLab does not plan to offer different Life Insurance Benefits because team mem
 
 #### Applying for Parental Leave in Germany
 
-To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. You can find out more information about GitLab's Parental Leave policy [here](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 
 **Vacation Leave**
