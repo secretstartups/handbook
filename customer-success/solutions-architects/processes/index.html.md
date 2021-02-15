@@ -17,6 +17,37 @@ title: Solutions Architect Processes
 
 Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture) page.
 
+## Engaging Professional Services
+
+Follow the process detailed in the [Working with Professional Services
+](handbook/customer-success/professional-services-engineering/working-with/#for-sales-reps-and-sas-how-to-order-professional-services) handbook page.
+
+Simplified process description:
+- Ensure that PS Opportunity has already been created by SAL / AE.
+- If it a standard (non-customized) service from our [full catalog](https://about.gitlab.com/services/catalog/).
+   - SAL / AE to order PS directly from Zuora in SFDC.
+- If standard services do not meet the needs of the customer
+   - Use the [Services Calculator](http://services-calculator.gitlab.io/) to generate an issue and a draft quote.
+   - Iterate on that issue with PS and SAL / AE.
+
+## Customer Security Assurance
+
+Follow the process detailed in the [GitLab's Customer Assurance Activities
+](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html#customer-assurance-activities-workflow) handbook page.
+
+Simplified process description:
+- Start with [Security - GitLab Trust Center](https://about.gitlab.com/security/).
+- Encourage customers to use and review [Self-service Information Gathering](handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html#customer-self-service-information-gathering).
+- SAa are expected to attempt a first-pass for all security questionnaires
+   - Do it, it’s fun and educational!
+   - Make use of the [GitLab AnswerBase](handbook/engineering/security/security-assurance/risk-field-security/common-security-questions.html) (200+ pre-answered questions)
+- Additional requests can be made in [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel.
+
+## Generating Licenses
+
+- SAs and SALs no longer have access to the LicenseDot tool.
+- In order to support prospects and customers, refer to the [Internal Support](handbook/support/internal-support/#regarding-licensing-and-subscriptions) processes handbook page.
+
 ## Cross-functional Sales Team Processes
 
 ### Working Agreements
