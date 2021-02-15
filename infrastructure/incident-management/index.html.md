@@ -30,9 +30,14 @@ resolution. To that end, incident management provides:
 1. well-defined [roles and responsibilities](#roles-and-responsibilities) and [workflow](#incident-workflow) for members of the incident team,
 1. control points to manage the flow **information** and the **resolution path**,
 1. a **root-cause analysis** (RCA),
-1. and a post-incident review that assigns a **severity** classification after assessing the impact and scope of the incident.
+1. and a post-incident review where lessons and techniques are extracted and shared
 
-When an [incident starts](#reporting-an-incident): we use the #incident-management slack channel for chat based communication. There is a Situation Room Zoom link in the channel description for incident team members to join for synchronous communication. There will be a link to an incident issue in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel. We prefer to keep collaborative work towards incident mitigation in a thread based off of the original incident issue announcement. This makes it easier for incoming oncall for EOC and CMOC to look for status on handoffs.
+When an [incident starts](#reporting-an-incident), the automation sends a message
+in the [`#incident-management`](https://gitlab.slack.com/archives/CB7P5CJS1) channel
+containing a link to a per-incident Slack channels for chat based communication, the
+incident issue for permanent records, and the Situation Room Zoom link (also in all
+incident channel descriptions) for incident team members to join for synchronous verbal
+and screen-sharing communication.
 
 ### Ownership
 
@@ -47,10 +52,7 @@ be assigned to the current owner.
 It's important to clearly delineate responsibilities during an incident.
 Quick resolution requires focus and a clear hierarchy for delegation of
 tasks. Preventing overlaps and ensuring a proper order of operations is vital
-to mitigation. The responsibilities outlined in the roles below are
-cascading–**and ownership of the incident passes from one role to the next as those roles are engaged**. Until the next role in the hierarchy engages, the
-previous role assumes all of the subsequent roles' responsibilities and
-retains ownership of the incident.
+to mitigation.
 
 | **Role** | **Description** | **Who?** |
 | ---- | ----------- | ---- |
@@ -63,7 +65,7 @@ These definitions imply several on-call rotations for the different roles.
 #### Engineer on Call (EOC) Responsibilities
 
 1. **As EOC, your highest priority for the duration of your shift is the stability of GitLab.com.**
-1. The Single Source of Truth (SSOT) for who is EOC is the [SRE Schedule in Pagerduty](https://gitlab.pagerduty.com/schedules#P05EL5A).
+1. The SSOT for who is the current EOC is the [GitLab Production](https://gitlab.pagerduty.com/service-directory/PATDFCE) service definition in PagerDuty.
 1. Alerts that are routed to Pagerduty need to acknowledged within 15 minutes, otherwise they will be escalated to the oncall IMOC.
     1. Alert-manager alerts in [`#alerts`](https://gitlab.slack.com/archives/alerts) and [`#alerts-general`](https://gitlab.slack.com/archives/alerts-general) are an important source of information about the health of the environment and should be monitored during working hours.
     1. If the Pagerduty alert noise is too high, your task as an EOC is clearing out that noise by either fixing the system or changing the alert.
@@ -102,10 +104,9 @@ In some cases, we may choose not to post to status.io, the following are example
 
 #### Incident Manager on Call (IMOC) Responsibilities
 
-1. The SSOT for who is IMOC is the [SRE Managers Schedule in Pagerduty](https://gitlab.pagerduty.com/schedules/PQEEYGD)
+1. The SSOT for who is the current IMOC is the [GitLab Production - IMOC](https://gitlab.pagerduty.com/service-directory/PE8A5MX) service definition in PagerDuty.
 1. The IMOC should monitor ongoing incidents and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC.
-1. The time that the IMOC engages should be recorded in the incident issue by the IMOC co-assigning themselves to the issue. If GitLab.com is down, record the time in the Google working doc.
 1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC may also take on the role of CMOC.
     * Due to limited people on the IMOC rotation, there may be times of the day when the CMOC (if available; see [How to engage the CMOC](#how-to-engage-the-cmoc-only-during-weekdays)) is a more friendly choice.
 1. The IMOC should ensure that the appropriate team members from other teams engage within an appropriate amount of time.
