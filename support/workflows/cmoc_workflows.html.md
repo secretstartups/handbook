@@ -33,7 +33,7 @@ Infrastructure uses [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse
 
 This information will all be posted to Slack in the #incident-management channel by Woodhouse and it'll look similar to the following example.
 
-![Incident declared by Woodhouse](/images/support/cmoc_incident_declared.png)
+![Incident declared by Woodhouse](/images/support/cmoc_incident_declared.png){: .shadow}
 
 GitLab team members are encouraged to use this method of reporting incidents if they suspect GitLab.com is about to face one.
 
@@ -85,7 +85,7 @@ Keep in mind that you can always [review past incidents](https://status.gitlab.c
 
 Whether related to an ongoing incident or not, infra or security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [internal requests workflow](internal_requests.html#contact-request) to log the request.
 
-## The Incident Process
+## Setting Up Incidents
 
 As the CMOC you'll guide the incident through the following three stages.
 
@@ -125,11 +125,11 @@ Your role as CMOC while in this room is to follow along while the incident is wo
 
 After logging in to Status.io you should be met with the dashboard that displays various statistics about our current status. A new incident can be created by clicking `New Incident` along the top bar.
 
-![New incident](/images/support/cmoc_new_incident.png)
+![New incident](/images/support/cmoc_new_incident.png){: .shadow}
 
 This takes you to the new incident screen where you'll be asked to fill in the details of the incident. The following is an example of what a new incident would look like if we're experiencing an issue with a delay in job processing on GitLab.com.
 
-![Incident details](/images/support/cmoc_incident_details.png)
+![Incident details](/images/support/cmoc_incident_details.png){: .shadow}
 
 Change the following values:
 
@@ -159,11 +159,11 @@ The CMOC should make the [Community Relations](/handbook/marketing/community-rel
 
 To update an active incident click the incidents icon from the dashboard.
 
-![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png)
+![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
 
 Then click on the edit button next to the incident.
 
-![Incident edit button](/images/support/cmoc_update_incident.png)
+![Incident edit button](/images/support/cmoc_update_incident.png){: .shadow}
 
 Change the following values:
 
@@ -175,7 +175,7 @@ Change the following values:
 
 A ready to be published update should look similar to the following.
 
-![Incident update](/images/support/cmoc_post_incident_update.png)
+![Incident update](/images/support/cmoc_post_incident_update.png){: .shadow}
 
 Make sure to [verify](the https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
 
@@ -189,7 +189,7 @@ The two stages of the resolution process are covered in their respective section
 
 To start the monitoring period, edit the incident, and configure the update similar to the following.
 
-![Switch to monitoring](/images/support/cmoc_monitoring_stage.png)
+![Switch to monitoring](/images/support/cmoc_monitoring_stage.png){: .shadow}
 
 Take special note of the changes made to the following fields at this stage.
 
@@ -201,7 +201,7 @@ Take special note of the changes made to the following fields at this stage.
 
 Once we're confident that the underlying issue that caused the incident has been fully resolved and a monitoring period has been observed, we should close the incident. Before we do so, we should check with the IMOC via Slack for the all-clear. This should be done by starting a thread on the announcement in #incident-management that started the incident and [mentioning](https://slack.com/help/articles/205240127-Mention-a-member) the IMOC in it. The following is what one of these messages looks like.
 
-![Incident announcement in Slack](/images/support/cmoc_incident-slack-thread.jpg)
+![Incident announcement in Slack](/images/support/cmoc_incident-slack-thread.jpg){: .shadow}
 
 Once we have confirmation from the IMOC that the incident can be resolved, make an update to the incident and change the following fields.
 
@@ -211,7 +211,7 @@ Once we have confirmation from the IMOC that the incident can be resolved, make 
 
 Before resolving the incident your draft should look similar to the following:
 
-![Resolve incident](/images/support/cmoc_resolve_incident.png)
+![Resolve incident](/images/support/cmoc_resolve_incident.png){: .shadow}
 
 #### Post-Mortem
 
@@ -221,17 +221,33 @@ Do the following to add a post-mortem to a resolved incident:
 
 1. From the dashboard click the `Incidents` button.
 
-   ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png)
+   ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
 
 1. Scroll down and click on the title of the incident.
 
-   ![Incident history list](/images/support/cmoc_post_mortem_incident_list.png)
+   ![Incident history list](/images/support/cmoc_post_mortem_incident_list.png){: .shadow}
 
 1. Click `Add Post-Mortem` and supply the link to the issue being used for the incident review.
 
-   ![Add post-mortem link](/images/support/cmoc_add_post_mortem.png)
+   ![Add post-mortem link](/images/support/cmoc_add_post_mortem.png){: .shadow}
 
-### Handover Procedure
+## Setting Up Maintenance Events
+
+Infrastructure will at times plan scheduled maintenance events for GitLab.com, some of which will directly impact users. New maintenance events are announced as issues created in the [gl-infra/production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues) issue tracker using the [external_communication.md](https://gitlab.com/gitlab-com/gl-infra/production/-/blob/master/.gitlab/issue_templates/external_communication.md) issue template accompanied by the [**Scheduled Maintenance**](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=scheduled+maintenance) label.
+
+In the event that a maintenance will affect users, infrastructure can request that the maintenance be visible on our status page, and if required, that the CMOC actively provide status updates during the maintenance window. In these cases infrastructure will apply the [**CMOC Required**](https://gitlab.com/gitlab-com/gl-infra/production/-/labels?utf8=%E2%9C%93&subscribed=&search=cmoc+required) label to the issue, causing a notification to be sent to the `#support_gitlab-com` channel that mentions the on-call CMOC. Once this notification is received the CMOC uses the details within the issue to create the maintenance in Status.io.
+
+To create a new maintenance event, click `New Maintenance` from the Status.io dashboard.
+
+![New Maintenance](/images/support/cmoc_new_maintenance.png){: .shadow}
+
+The contents of the maintenance should be filled out according to the details provided in the maintenance issue. Once complete, it might look something like the following.
+
+![Maintenance Details](/images/support/cmoc_maintenance_details.png){: .shadow}
+
+After the maintenance has been created, be sure to include it in your handover to the next on-call CMOC in the [Maintenances](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/-/blob/master/.gitlab/issue_templates/Handover.md#maintenances) section.
+
+## Handover Procedure
 
 At the end of each on-call shift its necessary to inform the next CMOC of any relevant activity that occurred during it or is still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) issue template. Create the handover issue even if nothing happened during your shift, signaling that everything is fine is also useful information. It's critical to remember that since we [work out in the open](https://about.gitlab.com/blog/2015/08/03/almost-everything-we-do-is-now-open/) by default, the CMOC Handover issue tracker is open to the public. **A handover issue should be made confidential if it must contain any sensitive information.**
 
@@ -241,7 +257,6 @@ Slash commands such as the following can be used to expedite getting the meeting
 ```plain
 /zoom meeting CMOC Handover Briefing
 ```
-
 
 ## CMOC Shadow PagerDuty Schedule
 
