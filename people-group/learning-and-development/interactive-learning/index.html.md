@@ -70,7 +70,7 @@ Content in the EdCast LXP at GitLab will adopt this handbook-first approach to l
 - Assessments and learning checks referring back to content in the handbook to check for understanding
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/1DSBF9tjAX50x2yOXoW5yQuJx3efVJdktYHdc86bM7WI/edit#slide=id.gb1c2c2e157_0_60" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 ### Handbook First Video
