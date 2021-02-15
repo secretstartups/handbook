@@ -19,31 +19,17 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 - As part of this collaboration, we are measuring success by interaction with the field. For this reason, we ask that you **please watch the videos and "thumbs-up" or "like" them.**
 - **Please Note**: All videos provided will be up on the GitLab Unfiltered YouTube Account. You will need to login to this Account in order to view. 
 
+
 ## REQUESTING CONTENT
 - You are always encouraged to make requests for future content that will help you and the team. Simply complete the form [here](https://forms.gle/2zznmLFznSqJAQUH6).
 
-## GitLab Sales Kick Off 2021
-- The GitLab Legal Team is proud to present **"LEGALIZE IT!"**, an interactive learning session hosted during SKO.
-- People joining our session will: 
-   - Have a chance to participate in "WHO WANTS TO BE A LEGALAIRE" and win prizes!
-   - Learn more about the GitLab Legal Team
-   - Hear about updates and best practices for closing deals!
-   - Gain access to helpful resources
-- Be sure to sign up for the GitLab Legal Booth! Attendance is capped to 10 people, first come first served.  
-- Sessions are available:
-   - Monday (Feb 8th): 6am - 7am (PT), 11am - 12pm (PT), and 3pm - 4pm (PT)
-   - Tuesday (Feb 9th): 6am - 7am (PT), 11am - 12pm (PT), and 3pm - 4pm (PT)
-   - Wednesday (Feb 10th): 7am - 8am (PT), 11am - 12pm (PT), and 3pm - 4pm (PT)
-   - Thursday (Feb 8th): 6am - 7am (PT), 11am - 12pm (PT), and 3pm - 4pm (PT)
-
-All materials will be made available after SKO. 
 
 
 | OPERATIONAL| EDUCATIONAL |
 | ------ | ------ |
 | [**How to reach Legal** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Overview-of-GitLab-Agreements)  |
 | [**How do I get an Agreement signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-do-I-get-an-Agreement-signed)       | [**When does GitLab negotiate**](https://about.gitlab.com/handbook/legal/customer-negotiations/#When-does-GitLab-Negotiate)  |
-| [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | *COMING SOON: Introduction to Open Source* |
+| [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | [SKO 2021 Resources](https://about.gitlab.com/handbook/legal/customer-negotiations/#GitLab-Legal-SKO-2021-Resources) |
 |[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | *COMING SOON: Commonly negotiated elements* |
 | *COMING SOON: How Partner's can execute a Partner Agreement*      | *COMING SOON: What is Intellectual Property?* |
 
@@ -125,6 +111,13 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 2. GitLab will negotiate changes to our terms and conditions provided the [current] Opportunity is greater than $25K (USD).
 3. GitLab will negotiate using a Customer terms and conditions-if they are applicable to our Software and business-if the [current] Opportunity is greater than $100K (USD).
 4. **Why don't we negotiate with all Customers?** Using resources to negotiate on all deals would not be a good use of GitLab resources and instead, we created our terms to be reasonable and in line with industry standards which allows us to place our resources into creating better products and services. 
+
+## GitLab Legal SKO 2021 Resources
+### [Look through the GitLab Legal "Legalize IT!" Presentation](https://docs.google.com/presentation/d/11HK5GD4gyE2j2z0swLe644tQWmc3XFyvtM4tytYpIzI/edit?usp=sharing) 
+
+
+1. Learn about the GitLab Legal Team! Look through basic questions and answers which will help you collaborate with legal and close deals faster!
+
 
 **Additional Resources**
 [Field Operations Negotiation Overview](/handbook/sales/field-operations/order-processing/#using-customer-form-agreements-and-negotiating-gitlabs-standard-agreement)
