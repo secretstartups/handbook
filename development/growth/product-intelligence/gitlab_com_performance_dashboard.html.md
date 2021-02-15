@@ -69,6 +69,7 @@ This can answer questions such as:
 
 * Route name (a summary of the type of page being displayed, such as `merge_list` or `sourcecode_mr`)
 * Average and 50/90/99th percentiles for total load time
+* Percentage of total time on this route compared with all routes
 * Percentage of total page hits analyzed
 * Percentage of domains that used this page
 
@@ -124,4 +125,7 @@ The dashboards described on this page use snowplow performance metrics which pro
 
 They should be used in conjunction with each other to provide a thorough picture of the user performance experience.
 
+## Videos
+
+* [YouTube walkhrough of dashboards](https://www.youtube.com/watch?v=rcfO5RrpdDM)
 
