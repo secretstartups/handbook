@@ -235,6 +235,10 @@ We simply can't satisfy everyone. We need to balance pleasing users as much as p
 
 When an issue comes in, it should be triaged and labeled. Issues without labels are harder to find and often get lost.
 
+Be careful with severity labels. Underestimating severity can make a problem worse by suggesting resolution can wait longer than it should. Review available
+[Severity](#severity) labels. If you are not certain of the right label for a bug, it is OK
+to overestimate the severity. But do get confirmation from a [domain expert](/handbook/engineering/workflow/code-review/#domain-experts).
+
 ### Take ownership of issues you've opened
 
 Sort by "Author: your username" and close any issues which you know have been fixed or have become irrelevant for other reasons. Label them if they're not labeled already.
