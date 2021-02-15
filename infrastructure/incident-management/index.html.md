@@ -52,10 +52,7 @@ be assigned to the current owner.
 It's important to clearly delineate responsibilities during an incident.
 Quick resolution requires focus and a clear hierarchy for delegation of
 tasks. Preventing overlaps and ensuring a proper order of operations is vital
-to mitigation. The responsibilities outlined in the roles below are
-cascading–**and ownership of the incident passes from one role to the next as those roles are engaged**. Until the next role in the hierarchy engages, the
-previous role assumes all of the subsequent roles' responsibilities and
-retains ownership of the incident.
+to mitigation.
 
 | **Role** | **Description** | **Who?** |
 | ---- | ----------- | ---- |
