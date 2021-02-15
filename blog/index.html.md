@@ -1188,21 +1188,26 @@ Click on the last pipeline icon and retry the `review` job. This will re-deploy 
 
 #### If your pipeline fails
 
-If the blog post pipeline fails, it will suggest you retry, but the merge button will not be clickable. Instead, click on the red (failed) icon on your pipeline and you will see a list of builds with the failed ones on top. Click on the "retry" icon on the right to re-run the build.
+The most common reasons for a failed build or pipeline when working on blog posts is a production issue with GitLab.com, or something entered incorrectly in the [frontmatter](#frontmatter).
 
 Common errors are:
 
+- Incomplete quotation marks: on lines such as the title, description, and image, you usually wrap the text in quotation marks. If you leave a quotation mark off, the build will fail. If your text includes single quotation marks or an apostrophe, make sure you enclose the text in double quotation marks to avoid confusion:
+  - e.g. "There's something you need to know." or "Have you ever asked yourself, 'What am I doing here?'"
 - A special character in the front matter keys (for example, `#`). Fix this by wrapping the text value into single quotes: `title: 'Everyone can contribute: Insights from #GitChallenge'`
-- A dangling new line in the first line. The front matter header needs to start with **3 dashes**: `---`.
+- A dangling new line in the first line. The front matter header needs to begin and end with **3 dashes**: `---`.
 - The GitLab/Twitter authors have the `@` character added. This is not needed, remove the `@` character.
-
 
 You might find the following video helpful:
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/WlgH-6cX1k8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/tFp4dQJ8NRM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+If the blog post pipeline fails due to a timeout error (something beyond your control), you can trigger a new pipeline without pushing a new commit: go to the `Pipelines` tab and click on `Run Pipeline`.
+
+![Trigger new pipeline](/images/handbook/marketing/run-pipeline.png){: .shadow.medium.center}
 
 #### Making changes to your blog post
 
