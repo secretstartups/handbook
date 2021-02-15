@@ -97,30 +97,33 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 ### GitLab PTY Australia Parental Leave
 
 #### Statutory Leave Entitlement
-Team members can take up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of unpaid parental leave. 
+All team members are entitled to up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of _additional_ unpaid parental leave. 
 
 #### Maternity Leave Payment
 * For team members with a yearly salary of $150,000 AUD or less:
-  * Eligible team members who are the primary carer of a newborn or adopted child can receive up to 18 weeks of government-funded Parental Leave pay via [Centrelink](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay). 
+  * Eligible team members who are the primary carer of a newborn or adopted child can receive up to 18 weeks of government-funded Parental Leave Pay via [Centrelink](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay), which is paid at the national minimum wage. 
   * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
   * To receive the government-funded Parental Leave payment, please submit an application via [Centrelink](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay/claiming).
-  * Total Rewards will have to "accept" the Parental Lave pay for team members via [Business Hub](https://www.servicesaustralia.gov.au/organisations/business/services/centrelink/paid-parental-leave-scheme-employers/what-you-need-know/your-role-scheme/accept-parental-leave-pay-employees).
+  * Total Rewards will have to "accept" the Parental Leave Pay for team members via [Business Hub](https://www.servicesaustralia.gov.au/organisations/business/services/centrelink/paid-parental-leave-scheme-employers/what-you-need-know/your-role-scheme/accept-parental-leave-pay-employees).
+  * Parental Leave Pay can be claimed in one set period and one flexible period:
+    * The first (set) period consists of 12 weeks and must be taken in one continuous period within 12 months of the birth or adoption of a child.
+    * The second (flexible) period consists of 30 days and must be taken within 24 months of the birth or adoption of a child.
 * For team members with a yearly salary above $150,000 AUD:
   * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
 
 
 #### Paternity Leave Payment
 * Team members with a yearly salary of $150,000 AUD or less:
-  * Eligible team members can receive up to 2 weeks of government-funded Dad and Partner pay via [Centrelink](https://www.servicesaustralia.gov.au/individuals/services/centrelink/dad-and-partner-pay).
-  * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
+  * Eligible team members can receive up to 2 weeks of government-funded Dad and Partner pay via [Centrelink](https://www.servicesaustralia.gov.au/individuals/services/centrelink/dad-and-partner-pay), to be paid at the national minimum wage.
   * To receive the government-funded Parental Leave payment, please submit an application via [Centrelink](https://www.servicesaustralia.gov.au/individuals/services/centrelink/dad-and-partner-pay/how-claim).
-  * Total Rewards will have to "accept" the Parental Lave pay for team members via [Business Hub](https://www.servicesaustralia.gov.au/organisations/business/services/centrelink/paid-parental-leave-scheme-employers/what-you-need-know/your-role-scheme/accept-parental-leave-pay-employees).
+    * If approved, team members will receive payment directly from the Australian Government.
+    * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
 * Team members with a yearly salary above $150,000 AUD:
   * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
 
 
 #### Applying for Parental Leave in Australia
-* If you are applying for government-funded Parental Leave pay, you can apply up to 3 months before your child's due date.
+* If you are applying for government-funded Parental Leave Pay, you can apply up to 3 months before your child's due date.
 * To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 **Record-keeping for paid Parental Leave:**
