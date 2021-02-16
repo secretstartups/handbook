@@ -94,6 +94,18 @@ When current team members transition to roles and become managers of people, the
 1. On the employment issue, comment using the following template: `Hello [NAME]! Please follow this link [COURSE LINK] to complete  the [COURSE NAME] in WILL Learning. Thanks!`
 1. Follow the steps above in the `Checking Compliance for Offboarded Team Members` section to determine if this team member has completed the individual anti-harassment course in their previous role. If they did not complete the course, follow the steps to revoke their license.
 
+### Payment Process
+
+Please follow the following payment process when purchasing new licenses from WILL Interactive: 
+
+1. Request an invoice from WILL Interactive
+1. Once you have recieved the invoice, send the PDF to `gitlab @ supplierinvoices.com` and cc other team members on the [Learning & Development Job Family]()
+1. The Learning & Development Generalist will recieve an email from Tipalti to approve the invoice 
+1. Once approved, it will go to the Principal Accounting Officer to approve 
+1. Once fully approved, the payment will go out in the weeks payment run 
+
+If you have questions throughout the process, reach out to the Senior Accounts Payable Specilaist via the `#finance` Slack channel. 
+
 ## Compliance Next 
 
 The Compliance Next community offers free membership and comes with tons of excellent resources and tools for compliance professionals and people interested in learning more about the compliance space.  
