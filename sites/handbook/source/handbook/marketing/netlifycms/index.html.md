@@ -22,7 +22,7 @@ Netlify CMS is an open source content management system for your Git workflow th
 
 ## Resources
 
-- [Neltlify CMS docs](https://www.netlifycms.org/docs/intro/)
+- [Netlify CMS docs](https://www.netlifycms.org/docs/intro/)
 - [Developer documentation for our implementation](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/netlifycms.md)
 - [Current merge requests with the `netlify-cms/draft` label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=netlify-cms%2Fdraft)
 - [Current merge requests with the `netlify-cms/pending_review` label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=netlify-cms%2Fpending_review)
