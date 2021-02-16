@@ -897,7 +897,7 @@ We have a [checklist for writers in the blog handbook](/handbook/marketing/blog/
 - Has all the relevant [frontmatter](/handbook/marketing/blog/#frontmatter) been included correctly?
 - Has the correct [category](/handbook/marketing/blog/#categories) been entered? If not, the build will fail.
 - Has `gitlab` been added to the `author_twitter` field if the author doesn't wish to use their own handle?
-- Does the `Description` field copy fit on the tile on [/blog](/blog)?
+- Does the `Description` field copy fit on the tile on [/blog](/blog/)?
 - Is it appropriate to include a [trial CTA](/handbook/marketing/blog/#ee-trial-banner) on this post? Generally, if a post falls under `culture`, `engineering`, or `open source` it is best to remove it.
 - Has the appropriate [merchandizing](/handbook/marketing/blog/#merch-banner-and-sidebar) been included and are the sidebar and banner rendering correctly?
 - Are all [images formatted correctly](/handbook/marketing/blog#inline-images) and are they <1MB?
@@ -954,7 +954,7 @@ When this passes, proceed to the next step.
 
 ### When your pipeline passes
 
-Go to the [blog homepage](/blog) and your post should be visible there. Sometimes this takes a few minutes. When you see it, grab the link and share it in the #content-updates channel in Slack.
+Go to the [blog homepage](/blog/) and your post should be visible there. Sometimes this takes a few minutes. When you see it, grab the link and share it in the #content-updates channel in Slack.
 
 ### What happens if my pipeline fails?
 
