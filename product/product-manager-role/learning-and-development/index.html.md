@@ -46,6 +46,7 @@ Online course: ?
 Speficic topics:
 
 - User story mapping: [Jeff Patton: User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
+- Prioritization: [Kevin Chu: Ruthless Prioritization (Article)](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) 
 
 ### Business Skills
 
