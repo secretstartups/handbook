@@ -153,7 +153,7 @@ If you have any technical problems while doing any of your release post manager 
 If you don't, submit an issue to [request access](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) and inform the [release post DRI](https://gitlab.com/fseifoddini) as well as the Messaging and TW leads as FYI that it's in progress but you may need merge support.
 {:.alert .alert-warning}
 
-### Create your release post branch and required directories/files
+#### Create your release post branch and required directories/files
 
 **Note:** In the following sections we refer to the GitLab version as X.Y
 and the date of the release as YYYY/MM/22. You should replace those values
@@ -163,7 +163,7 @@ to change that.
 
 There are two ways to create the initial monthly release post in the [about.GitLab.com repository](https://gitlab.com/gitlab-com/www-gitlab-com): a) using a script and b) manually. The script does exactly what you would manually, but automates the process.
 
-#### First way: using a script
+##### First way: using a script
 
 1. Make sure you have [set everything up to contribute to the about.GitLab.com repository](/handbook/git-page-update/).
 1. Locally, in a terminal, run the task:
@@ -179,7 +179,7 @@ There are two ways to create the initial monthly release post in the [about.GitL
 
 1. Push the branch that was created and follow the link to [create the merge request](#create-the-release-post-mr).
 
-#### Second way: manually
+##### Second way: manually
 
 The manual way can be done either locally or using the GitLab Web IDE:
 
@@ -196,7 +196,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
 **Important!** Please be sure to use the **most recent templates** on `master` for the `mvp` and `cta` files you create, by clicking on the links provided in instructions. They can also be found when browsing the repository in the `master` branch.
 {:.alert .alert-info .text-center}
 
-### Create the release post MR
+#### Create the release post MR
 
 Create a merge request with the introductory changes _after the previous post has been merged and before the feature freeze date_ to make the post available to receive contributions from the team:
 
@@ -210,7 +210,7 @@ Create a merge request with the introductory changes _after the previous post ha
 
 Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for Bug and for Performance Improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
 
-### Create MRs for Bugs and Performance Improvements
+#### Create MRs for Bugs and Performance Improvements
 
 Create two merge requests that simply contain the sample templates for these content blocks. Having separate MRs (from the main Release Post MR) allows discussions to be easier to follow and the contribution process to be simpler.
 
@@ -239,7 +239,7 @@ _**Note:** The MRs for Bug and for Performance Improvements provide a place for 
    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
    to the  `data/release_posts/unreleased/` folder.
 
-### Local dev environment setup to run content assembly script
+#### Local dev environment setup to run content assembly script
 
 **Note**: You should not use the default system installed Ruby but should install a Ruby version manager like [RVM](https://rvm.io/rubies/installing), [Rbenv](https://github.com/rbenv/rbenv#installing-ruby-versions) or [asdf](https://github.com/asdf-vm/asdf-ruby) to manage your Ruby installation. See handbook guidance on [installing a Ruby version manager](https://about.gitlab.com/handbook/git-page-update/) and other requirements. Reach out for help if needed.
 {:.alert .alert-info}
@@ -263,7 +263,7 @@ those tools is returned to the screen if a Ruby version manager is installed.
 
 **What if I have a different Ruby Version Manager than what is in the handbook?** If something like `rbenv` already installed, then you likely just need to update Homebrew with `brew upgrade rbenv ruby-build` and install the latest with `rbenv install 2.6.6` or similar.
 
-### Content assembly: merging release post items (content blocks) to your branch
+#### Content assembly: merging release post items (content blocks) to your branch
 
 **Important**: This procedure applies until the 17th, at 11:59 PM PT (6:59 AM UTC). After this time, anyone who wants to include a change in the upcoming release post can either coordinate updates directly on the release post branch with the Release Post Manager or submit it in a separate MR, targeting the `release-X-Y` branch, and assign it to the Release Post Manager to merge. For more information, see our documentation on how to [Develop on a feature branch](https://docs.gitlab.com/ee/gitlab-basics/feature_branch_workflow.html).
 {:.alert .alert-info}
@@ -297,7 +297,7 @@ Sometimes `bin/release-post-assemble`  may fail if there is a Ruby version updat
 1. Using a text editor like VS Code **find and replace** all the image paths under `image_url:` in each release post `.yml` file from `/unreleased/` to `/x_y/`. The video above demonstrates that.
 1. `git commit` and `git push` and you should be good to go
 
-### Communication
+#### Communication
 
 The release post manager, the Messaging lead and the TW lead will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep to facilitate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration.
 
@@ -324,7 +324,7 @@ Cc `@Farnoosh @axil @Saumya Upadhyaya @Michael Karampalas`
 
 The Community Advocates team will reach out to the release post manager in Slack #release-post when they are using the [Involving Experts workflow](/handbook/marketing/community-relations/community-advocacy/workflows/involving-experts/) and need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question.
 
-### Content reviews
+#### Content reviews
 
 The due dates for various reviews across all participants can be found on the [release post MR template](#templates) and the [release post item MR template](#templates). PM contributors are encouraged to cease attempts to add new content blocks after the content merge deadline on the 17th, and especially after final content assembly happens on the 18th at 8 AM PT (3 PM UTC). Exceptions can be made for highly impactful features but it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
@@ -338,14 +338,14 @@ After the Review App for the release post has been generated, the Release Post M
 
 It is the Release Post Manager's responsibility to make sure all content is completed by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
-#### What RPM should look for when reviewing content blocks
+##### What RPM should look for when reviewing content blocks
 
 It is recommended for the Release Post Manager to review all content for quality, including the marketing intro. But when reviewing content blocks in each release post item MRs, the RPM should look for the following:
 
 1. Is the why (problem) and the what (solution) clearly stated? See [writing about feature](https://about.gitlab.com/handbook/product/product-processes/#writing-about-features) as a guideline for what feature descriptions should contain.
 1. Does the filenames follow the recommended file-naming convention? See **Important note on naming files** under [Instructions](#instructions) for PM contributors.
 
-#### Tips for reviews
+##### Tips for reviews
 
 1. Utilize the [Available now on GitLab](https://about.gitlab.com/releases/gitlab-com/) page to easily scan release post items that have been merged
 1. Search the [Available now on GitLab](https://about.gitlab.com/releases/gitlab-com/) and preview pages for characters like `[`, `]`, `(`, and `)` to find malformed links.
