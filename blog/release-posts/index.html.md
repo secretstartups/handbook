@@ -1523,7 +1523,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
 1. The VP of Product Management will identify the 3-7 topics for What's New each release as part of the final review
 1. The VP of Product Management will create the What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
    1. Utilize the [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml)
-   1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled 202009300001_13_04.yml
+   1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`
    1. Using the content that is in the release post items, duplicate the content for What's New
       1. Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
 1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`
