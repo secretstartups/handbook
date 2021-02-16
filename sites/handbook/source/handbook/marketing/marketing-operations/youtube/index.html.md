@@ -232,10 +232,10 @@ There are some recordings where it is not clear whether they should be Private o
 
 The below instructions apply to livestreams to YouTube.
 
-1. Before the Moderator  clicks `Live to YouTube` and start the livestream, the moderator will tell the host, 'I am getting ready to start the (public or private) stream. Please begin speaking once you see the YouTube Icon in the top left corner of Zoom'. 
-1. Be sure not to click `Live to YouTube` any earlier than 1 minute before the start since it can time out.
+1. The moderator asks host, 'I am getting ready to start the public/private stream. Are you ready to begin speaking as soon as you see the YouTube Icon in the top left corner of Zoom?'. Please make sure you mention public or private.
+1. After the hosts confirms the Moderator clicks `Live to YouTube` and start the livestream.
 1. The host should do an introduction stating who they are, what their role is, and what the meeting is about, e.g. "I am Jane Doe, the VP of Widget Production, and today's Group Conversation is about the molding phase of widget production."
-1. Please note that if the recording starts a 'this meeting is being recorded' message the host should talk over that because otherwise the recorded video will needed editing to prevent an awkward pause.
+1. Please note that if the recording starts a 'this meeting is being recorded' message the host should talk over that because otherwise the recorded video will needed editing to prevent an awkward pause. Livestreaming doesn't trigger this message, only recording does.
 
 #### Useful links
 {:.no_toc}
