@@ -23,31 +23,6 @@ I've spent my career in and around full time social media roles in community, ad
 I think Darren, our head of remote, spoke about this use of our README pages on his page quite well. 
 > This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. It's also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team.
 
-## How does Social Media work?
-
-Social Media is seen as "top of funnel" marketing for a lot of social activities, so our team focuses mainly on corporate level marketing, brand awareness tactics, and helping to make GitLab a loved brand in the marketplace. The execution of these activities can vary wildly from making a simple ["thank you" image to our community for growing over 10,000 meetup members](https://twitter.com/gitlab/status/1252664143187972099) to working on an integrated marketing campaign with social listening to drive content creation, a full calendar of posts, and post-campaign reporting.
-
-Really, we operate most often as an internal agency partner to stakeholders around the company to find how organic social can fit into their work. Sometimes it's our brand channels, other times it's team members amplifying our message on their own channels. 
-
-Core to my work is also creating the space for social-first/only content to thrive. Campaigns our team produces themselves across our channels, in partnership with, but not beholden to, other teams.
-
-## What's my current role and goal?
-As I lead social media at GitLab, ultimately everything I do is to better tie social media into our body of work as a company and to build a self-service culture of social media as a practice. What does that mean in real life? Sometimes it's bringing listening data to a call or a Slack chat that would otherwise not have had data to make decisions around, or it's when we're speaking in #HashtagsForCampaigns or #HashtagForEvents so that the practice becomes fluid. But most times, it shows up when our team brings our experiences and know-how for our everchanging channels to our larger marketing team, helping others to express their messages through social channels.
-
-* I collaborate with every part of GitLab to better tell our story, share our message, and generate awareness.
-* I help to build step-and-repeat practices and workflows to every area of the company social works with. 
-* I educate team members on those same social practices, so that they can learn as much as possible through a self-service mindset.
-* I help our team to remove obstacles, get to the simple solution, and keep us iterating further.
-* And sometimes, I tweet. 😉
-
-### Related pages
-
-* [job family description](/job-families/marketing/social-marketing-manager/)
-* [Handbook page](/handbook/marketing/corporate-marketing/social-marketing/)
-* [GitLab team page entry](/company/team/#wspillane)
-* [GitLab contribution graph](https://gitlab.com/wspillane)
-* [LinkedIn profile](https://www.linkedin.com/in/wilspillane/)
-
 ## About me
 
 * I've lived all over the United States: Wilmington, DE; Atlanta, GA; Los Angeles, CA; Orlando, FL; Stamford, CT; and Worcester, MA. A lot of these places were a part of a life of traveling for work, when I worked in the entertainment industry.
@@ -74,7 +49,7 @@ As I lead social media at GitLab, ultimately everything I do is to better tie so
    - Expect from others: Competence, common sense
    - When under pressure, I'm overly critical.
    - Questioning, skeptical, and prioritizes results.
-* MBTI: `INTP-T` (but 49/51 borderline with several others, [see the data here ](https://www.16personalities.com/profiles/963587215e246)
+* MBTI: `INTP-T` (but 49/51 borderline with several others) [see the data here ](https://www.16personalities.com/profiles/963587215e246)
    - "[The Turbulent Logician](https://www.16personalities.com/intp-personality)"
    - Role: Analyst / Strategy: Constant Improvement
    - *"The Logician personality type is fairly rare, making up only three percent of the population, which is definitely a good thing for them, as there’s nothing they’d be more unhappy about than being “common”.*
@@ -101,5 +76,22 @@ As I lead social media at GitLab, ultimately everything I do is to better tie so
 - Please interject if you’re not getting what you want out of me.
 - Brevity does not equate to being rude, short, or perturbed. 
 - Please do not take offense to periods of silence. I prefer long, uninterrupted windows of time for [deep work](/company/culture/all-remote/asynchronous/#mental-health). I disable **all** notifications on my Mac and everything but iMessage on my phone. This allows me to focus deeply on one task at a time, which is a more [efficient](/handbook/values/#efficiency) way of working than attempting to [multitask](https://signalvnoise.com/posts/1589-multitasking-is-the-fastest-way-to-mediocrity). In return, I try to devote my full attention to your request and respond thoughtfully, with context and passion. 
+
+## What's my current role and goal?
+As I lead social media at GitLab, ultimately everything I do is to better tie social media into our body of work as a company and to build a self-service culture of social media as a practice. What does that mean in real life? Sometimes it's bringing listening data to a call or a Slack chat that would otherwise not have had data to make decisions around, or it's when we're speaking in #HashtagsForCampaigns or #HashtagForEvents so that the practice becomes fluid. But most times, it shows up when our team brings our experiences and know-how for our everchanging channels to our larger marketing team, helping others to express their messages through social channels.
+
+* I collaborate with every part of GitLab to better tell our story, share our message, and generate awareness.
+* I help to build step-and-repeat practices and workflows to every area of the company social works with. 
+* I educate team members on those same social practices, so that they can learn as much as possible through a self-service mindset.
+* I help our team to remove obstacles, get to the simple solution, and keep us iterating further.
+* And sometimes, I tweet. 😉
+
+### Related pages
+
+* [job family description](/job-families/marketing/social-marketing-manager/)
+* [Handbook page](/handbook/marketing/corporate-marketing/social-marketing/)
+* [GitLab team page entry](/company/team/#wspillane)
+* [GitLab contribution graph](https://gitlab.com/wspillane)
+* [LinkedIn profile](https://www.linkedin.com/in/wilspillane/)
 
 Return to the main [Marketing handbook section](/handbook/marketing/).
