@@ -259,6 +259,7 @@ Below are the steps to update and/or replace ACV with ARR in existing SFDC repor
 - Refer to the [ARR in Practice handbook page](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#net-arr) for **additional information on ARR** 
 - If you **need help** updating the report or walking though these steps, please slack us with a link to the SFDC report in the `#sales-support` Slack channel
 
+</details>
 
 ## **How we work**
 
