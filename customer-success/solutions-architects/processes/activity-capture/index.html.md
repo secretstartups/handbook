@@ -148,6 +148,8 @@ Email communication with customers can be recorded in Salesforce within the acco
 1. BCC your "email to Salesforce address". Instructions to obtain this address are found on this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
 2. Or, download the [Salesforce Chrome plugin](/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails.
 
+Email communication that is collected and stored in Salesforce is not measured or reported on at this time. It can be useful to collect for sharing information with the broader sales team.
+
 ## Troops Workflows
 
 For transparency and awareness, the Troops activities specific to Solution Architects are listed below.
