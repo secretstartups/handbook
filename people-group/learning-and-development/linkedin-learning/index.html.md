@@ -124,6 +124,8 @@ The L&D Team will deprovision access to LinkedIn Learning to team members who le
 1. Under "Assign a license" change the selection to "No license" 
 1. Click "Confirm"
 
+If you are on the L&D Team, you can see a [video walkthrough](https://drive.google.com/file/d/1x0jhZ09xLN2VHMD_pc-ZUQu3FmXivg7e/view?usp=sharing) of the deprovisioning process. 
+
 ## User access process with the EdCast
 
 All GitLab Learn users will be able to access free content on LinkedIn Learning. 
