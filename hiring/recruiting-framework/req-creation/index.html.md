@@ -335,15 +335,15 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 - Click on the < > on the menu bar in the description text box to open the source code
 - Scroll to the bottom of the pop-up
-- Paste the following HTML <div><span style="font-size: xx-small;"><span style="color: white">Remote-XXX</span></span></div> at the bottom and change the letters in Remote-XXX to the appropriate code for the current available LinkedIn Job Wrapping location(s)
+- Paste the following HTML `<div><span style="font-size: xx-small;"><span style="color: white">Remote-XXX</span></span></div>` at the bottom and change the letters in Remote-XXX to the appropriate code for the current available LinkedIn Job Wrapping location(s)
 - Please copy directly from the sheet because spaces matter.
 - The default tag should be Remote-Global.
 - Click Ok
 
 If multiple tags are added to the description, please enter the additional tag on a new line. For example:
 
-<div><span style="font-size: xx-small;"><span style="color: white;">Remote-Global</span></span></div>
-<div><span style="font-size: xx-small;"><span style="color: white;">Remote-North America</span></span></div>
+`<div><span style="font-size: xx-small;"><span style="color: white;">Remote-Global</span></span></div>`
+`<div><span style="font-size: xx-small;"><span style="color: white;">Remote-North America</span></span></div>`
 
 While tags are not visible on the Greenhouse posting, they will appear when viewed on LinkedIn. So, please, be mindful of how many tags are added to any one particular requisition.
 
