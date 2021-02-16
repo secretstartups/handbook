@@ -302,7 +302,7 @@ We understand that our customers have non-developer use cases. Please [contact o
 ## True-up pricing
 
 1. With true-up pricing, the license/sale is never blocking user growth.
-1. We currently charge 100% for people added during the year, because some organizations gave an intentionally too-low estimate when we charged 50%. If we technically can count "user days," we can make it fair for everyone, but we're not sure if the technical and sales complexity is worth it.
+1. We currently charge 100% for users added during the year, because some organizations gave an intentionally too-low estimate when we charged 50%. If we technically can count "user days," we can make it fair for everyone, but we're not sure if the technical and sales complexity is worth it.
 1. We're also doing quarterly true-up on request for larger customers.
 
 ## Consumption pricing principles
