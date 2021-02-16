@@ -307,7 +307,7 @@ We understand that our customers have non-developer use cases. Please [contact o
 
 ## Consumption pricing principles
 
-1. These are some principles we think are useful. These are not a promise not an entitlement. Our [pricing page](/pricing) contains our current pricing which might deviate from the principles below.
+1. These are some principles we think are useful. These are not a promise not an entitlement. Our [pricing page](/pricing/) contains our current pricing which might deviate from the principles below.
 1. Our price is 5x the on-demand cost of the clouds, so we have 80% margin. This seems to be what's common in our market (for example: [GitHub](https://github.com/pricing) and [CircleCI](https://circleci.com/pricing/)), but we're open to other companies fact checking us with list prices. Here's [our long-term cost model](/handbook/finance/financial-planning-and-analysis/#long-term-targets) which shows how this enables us to get a 20% profit margin.
 1. The user has the flexibility to bring their own resources whenever practical (for example, runners and clusters). This can be their on-premise equipment or from their own cloud contract.
 1. We don't want to compete with the major clouds because they are our partners. The only reasons we'd offer our own are because it needs to be in our infrastructure (repository storage) and it's convenient for the end user (runners).
