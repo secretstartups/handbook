@@ -111,6 +111,30 @@ Linear Attribution is the simplest and most all-encompassing of the multi-touch 
 
 ![image](/handbook/marketing/marketing-operations/bizible/Linear-Bizible.png)
 
+### Custom Attribution (Based on Bizible Machine Learning Algorithm)
+Custom Attribution based on the Bizible machine learning attribution model uses our touchpoint data to calculate how much attribution weighting should be assigned to each stage. This is determined by how important each stage was in driving deals to close. 
+
+**How is the Machine Learning model Calculated?**
+
+Bizible calculates the importance of each custom stage by using the touchpoint data from your account. The criteria used to determine the importance of each stage are:
+
+- **Model Accuracy:** If we build a predictive model with the touchpoint data to predict whether we will win a deal eventually, how accurate will the model be? Higher predictive accuracy means that the details of this stage correlates more with whether a deal will close
+- **Conversion Rate:** If Leads or Opportunities at this certain stage convert to the next stage at a high rate, this suggests that the marketing activities that occurred at this stage didn't matter very much. Conversely, if a certain stage converts to the next stage at a low rate, this can suggest that the marketing activities that occurred at this stage were influential in driving the conversion.
+- **Touchpoint Uniqueness Weight:** If a stage occurs as a standalone transition, meaning there weren't any other stage transitions that occurred at the same time, this stage could receive a higher attribution weight. Conversely, if a touchpoint for a stage is shared with other stages (e.g. the touchpoint shares the First Touch, Lead Conversion, and Opportunity Conversion stages) this stage could receive a lower attribution weighting. 
+The final weight for a custom stage is calculated as such:
+
+_**Model Percentage = Model Accuracy x Conversion Rate x Touchpoint Uniqueness Weight**_
+
+At the end, all the custom stage weights are normalized and converted to % as shown below.
+
+In our case, the custom machine learning model has the following weights for each stage: 
+
+- **First Touch** - 27.5%
+- **Lead Creation** - 27.7%
+- **Opportunity Creation** - 19.6%
+- **Closed (Lost, Won)** - 15.2%	
+- **Middle Touches** - 10.0%
+
 #### How GitLab Calculates Linear Attribution IACV
 Here is an example of how we calculate linear IACV:    
 
