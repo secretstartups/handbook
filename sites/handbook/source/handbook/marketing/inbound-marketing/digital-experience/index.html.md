@@ -171,6 +171,12 @@ This is the template we use for [Sprint Retros](https://docs.google.com/document
 
 We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day
 
+### Internal Issue Boards
+
+These issue boards were created by the Digital Experience team to track our own workloads for a given release cycle.
+
+* [Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/2415116)
+* [Kanban](https://gitlab.com/groups/gitlab-com/-/boards/2415063)
 
 ## Contact Us
 
