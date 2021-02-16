@@ -95,34 +95,42 @@ Once the total rewards team has approved the bike or ticket application, an invo
 
 ## GitLab Ireland LTD Leave Policy
 
-* Sick Leave
+### Sick Leave
 
   * Team members should refer to [GitLab's PTO Policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time-procedures---all-team-members) as there is no statutory requirement to provide sick pay or unpaid sick leave in Ireland. 
   * Team members must designate all time off for illness as `Out Sick` to ensure that PTO is properly tracked. 
 
-* Maternity Leave in Ireland:
-  * Team members who become pregnant in Ireland are eligible to take 26 weeks of maternity leave. Team members must take at least 2 weeks of maternity leave before your baby is due and at least 4 weeks after the baby is born. 
-  * [Maternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/maternity_benefit.html#:~:text=Maternity%20Benefit%20is%20a%20payment,you%20are%20self%2Demployed) is payable by the state subject to a team member's PRSI contributions. The rate is 245 EUR per week for up to 26 weeks.
-  * Team members can also claim [Parent's Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.html) (also subject to a team member's PRSI contributions). The rate is 245 EUR per week for up to 5 weeks. This can be claimed anytime within the first year of a child's life.
-  * [If you have been at GitLab for six months, GitLab will supplement the Maternity Benefit up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for up to 16 weeks of your maternity leave.
-  * Team members can take additional unpaid maternity leave for up to 16 more weeks, beginning immediately after the end of the 26 weeks' basic maternity leave. To take additional leave, please send an e-mail to Total Rewards at least 4 weeks before your basic maternity leave ends. 
-  * Process for applying for state maternity benefit:
-    * Notify Total Rewards of your baby's due date, the start and end dates of your maternity leave.
-    * Total Rewards will send you the completed MB2 form.
-    * Submit your application for state maternity benefit via the [MyWelfare website](https://services.mywelfare.ie/en/topics/parents-children-family/).
-
-
-
-* Paternity Leave in Ireland:
-  *  The Paternity Leave and Benefit Act 2016 provides two weeks' statutory leave and benefit for team members who are the relevant parents of children born or adopted.
-  *  Paternity leave generally must be taken in one block of two weeks within the first six months following the birth or adoption placement. The term "relevant parent" is defined broadly to provide for fathers, adoptive fathers, civil partners, cohabitants and same-sex couples.
-  *  [Paternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/paternity_benefit.html#:~:text=Paternity%20Benefit%20is%20a%20payment,or%20after%201%20September%202016) is payable by the state subject to a team member's PRSI contributions at a rate of 245 EUR per week for up to two weeks. Team members should apply for the benefit 4 weeks before they intend to go on paternity leave.
-  * Team members can also claim [Parent's Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.html) (also subject to a team member's PRSI contributions). The rate is 245 EUR per week for up to 5 weeks. This can be claimed anytime within the first year of a child's life.
-  *  [If you have been at GitLab for six months, GitLab will supplement Paternity Benefit and Parent's Benefit up to the full salary amount](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) for up to 16 weeks of your parental leave.
-  * Process for applying for state paternity benefit:
-    * Notify Total Rewards of your baby's due date.
-    * Total Rewards will send you the completed PB2 form.
-    * Submit your application for state paternity benefit via the [MyWelfare website](https://services.mywelfare.ie/en/topics/parents-children-family/).
-
-* Vacation Leave
+### Vacation Leave
   * Team members are entitled to a maximum of four weeks of vacation each year, which is calculated in accordance with the [Organisation of Working Time Act of 1997](http://www.irishstatutebook.ie/eli/1997/act/20/section/19/enacted/en/html#sec19). Unused vacation time may not be carried over into the following calendar year. GitLab does not provide pay in lieu of unused vacation entitlement other than on termination of employment. If your employment terminates for any reason, you will receive pay for any accrued but unused statutory vacation entitlement. Vacation leave runs concurrently with GitLab PTO. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. 
+
+
+
+### GitLab Ireland LTD Parental Leave
+
+#### Statutory Leave Entitlement
+
+**Maternity Leave:** Team members can take up to 26 weeks of Maternity Leave. The leave must start 2 weeks before the baby's due date and at least 4 weeks after the baby is born. Team members can take additional unpaid Maternity Leave for up to 16 more weeks, beginning immediately after the end of 26 weeks of basic Maternity Leave. If you wish to extend your Maternity Leave, please notify Total Rewards at least 4 weeks before the basic Maternity Leave ends.
+
+**Paternity Leave:** Team members can take up to 2 weeks of Paternity Leave. The leave must be taken within the first 6 months following the birth/adoption. Team members can also take 5 weeks of Parent's Leave. 
+
+#### Maternity Leave Payment
+* You can receive State [Maternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/maternity_benefit.html#:~:text=Maternity%20Benefit%20is%20a%20payment,you%20are%20self%2Demployed) at 245 EUR per week for up to 26 weeks subject to your PRSI contributions.
+* You can also claim State [Parent's Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.html) at 245 EUR per week for up to 5 weeks, also subject to your PRSI contributions. This can be claimed anytime within the first year of a child's life. 
+* If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement your pay to ensure you receive 100% pay for up to 16 weeks of your leave.
+* To apply for State Maternity Benefit, please notify Total Rewards the start and end date of your leave. 
+  * Total Rewards will then send you a completed [MB2 form](https://www.into.ie/app/uploads/2019/07/MB1.pdf).
+  * Submit your application via the [Maternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-maternity-benefit/) at least 6 weeks before you intend to start your leave.
+* To apply for State Parent's Benefit, submit your application via the [Parent's Benefit gov.ie website](https://www.gov.ie/en/service/b321b1-parents-benefit/).
+
+#### Paternity Leave Payment
+* You can receive State [Paternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/paternity_benefit.html#:~:text=Paternity%20Benefit%20is%20a%20payment,or%20after%201%20September%202016) at 245 EUR per week for up to 2 weeks subject to your PRSI contributions. You have to submit your application 4 weeks before you intend to start your Paternity Leave. 
+* You can also claim State [Parent's Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.html) at 245 EUR per week for up to 5 weeks. 
+* If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement your pay to ensure you receive 100% pay for up to 16 weeks of your leave.
+* To apply for State Paternity Benefit, please notify Total Rewards your child's due date.
+  * Total Rewards will then send you a completed [PB2 form](https://www.gov.ie/en/service/apply-for-paternity-benefit/).
+  * Submit your application via the [Paternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-paternity-benefit/).
+* To apply for State Parent's Benefit, submit your application via the [Parent's Benefit gov.ie website](https://www.gov.ie/en/service/b321b1-parents-benefit/).
+
+#### Applying for Parental Leave in Ireland
+
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
