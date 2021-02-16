@@ -51,7 +51,7 @@ Speficic topics:
 
 ### Business Skills
 
-Introductory material: ?
+Introductory material: [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/)
 
 Recommended book: [Eric Ries:The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
