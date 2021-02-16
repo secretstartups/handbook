@@ -353,7 +353,6 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      - For SimplyDirect Surveys, [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc)
 - Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
 - Zoom GitLab Hosted Workshops [please follow directions in the workshop set-up section](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshop-logistical-set-up):
-     - CI/CD Advanced Workshop: [YYYYMMDD_VirtualWorkshop_CI/CD](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
      - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
