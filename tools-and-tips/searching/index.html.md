@@ -44,6 +44,11 @@ You can find instructions on how to set up keyword searches in Chrome and Firefo
 
 ### Setting up keyword searches on Chrome
 
+**Note:** In Chrome 88 and later, you need to press <kbd>Tab</kbd> to trigger keyword search.
+To change this so you only need to press space after a keyword, you can disable either of these flags in Chrome:
+[omnibox-keyword-search-button](chrome://flags/#omnibox-keyword-search-button) or [omnibox-suggestion-button-row](chrome://flags/#omnibox-suggestion-button-row).
+{: .note}
+
 Keyword searches are created as new search engines in Chrome.
 The steps below show you how to set up a keyword search for searching the GitLab handbook.
 
@@ -53,7 +58,7 @@ The steps below show you how to set up a keyword search for searching the GitLab
 | 2. In the new search engines page, click the `Add` button | ![Add search engine](/images/handbook/tools-and-tips/searching/2_add_search_engine.png) |
 | 3. In the new `Add search engine` dialog, enter the following then click `Add`: <br> a. `GitLab handbook` in *Search Engine* <br> b. `hb` in *Keyword* <br> c. `/handbook/#stq=%s` in *URL* | ![Enter search engine details](/images/handbook/tools-and-tips/searching/3_enter_search_engine_details.png) |
 
-To test this, open a new tab and in the address bar type `hb iteration` and press enter.
+To test this, open a new tab and in the address bar type: `hb` <kbd>Tab</kbd> `iteration` and press enter.
 The GitLab handbook page should load with the search results for `iteration` showing.
 
 ### Setting up keyword searches in Firefox
