@@ -1520,7 +1520,9 @@ please make sure to specify them in the title, add the correct [category](../#ca
 
 ## Creating an MR for What's New entries 
 
-1. The VP of Product Management will identify the 3-7 topics for What's New each release as part of the final review
+1. The VP of Product Management will identify the 3-7 topics for [What's New](LINK to some kind of feature over view or documentation of what's new feature for reference) each release as part of the their final review. 
+     - What gets highlighted in the What's new can but does not have to align with the primary features and/or theme of the release post.
+     - If the VP of Product Management wants to solicit feedback on their selection from the PM team, they can do so by posting in Slack #release-post. 
 1. The VP of Product Management will create the What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
    1. Utilize the [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml)
    1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`
