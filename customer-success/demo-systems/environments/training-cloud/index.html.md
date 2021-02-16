@@ -51,7 +51,7 @@ The Training Cloud v1 shares the [gitlab-core.us.gitlabdemo.cloud](https://gitla
 
 #### Demo Systems team scalability review
 
-1. Create an issue in the Demo Systems issue tracker using the [workshop_sample_projects_review](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/new?issueable_template=workshop_sample_projects_review) issue template. Follow the instructions in the issue description.
+1. Create an issue in the Demo Systems issue tracker using the [workshop_sample_projects_review](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/new?issuable_template=workshop_sample_projects_review) issue template. Follow the instructions in the issue description.
 1. The Demo Systems team will comment on the issue with async technical review of your lab scenarios and sample projects to identify scalability concerns. Here's some of the things we're looking for with scalability challenges.
     * Autoscaling runners for 500 simultaneous pipelines started in 10 seconds
     * Autoscaling Kubernetes nodes for 500 simultaneous review apps/deployments in 60 seconds
