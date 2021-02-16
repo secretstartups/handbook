@@ -69,7 +69,7 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 - [**PMM reviewers**](#pmm-reviewers)
 - [**TW lead**](#tw-lead)
 - [**TW reviewers**](#tw-reviewers)
-- [**Technical advisors](#technical-advisors)
+- [**Technical advisors**](#technical-advisors)
 - [**Engineering Managers**](#engineering-managers)
 
 ### Volunteering for the Release post  
