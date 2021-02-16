@@ -70,6 +70,7 @@ Recommended book:
 Online course:
 
 Specific topics:
+- Stakeholder Management: [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
 
 ### People Management Skills
 
