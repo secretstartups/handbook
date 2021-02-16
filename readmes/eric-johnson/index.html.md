@@ -8,7 +8,7 @@ This page was inspired by the recent trend of Engineering Manager README's. _e.g
 
 ## Eric J's README
 
-My name is Eric Johnson and I'm the EVP of Engineering at GitLab.
+My name is Eric Johnson and I'm the Chief Technology Officer at GitLab.
 
 * [GitLab Handle](https://gitlab.com/edjdev)
 * [Team Page](/company/team/#edjdev)
