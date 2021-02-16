@@ -34,6 +34,7 @@ Specific topics:
 
 - Jobs To Be Done: [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
 - Growth hacking: [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
+- Lean Product Management: [Melissa Perri - Lean Product Management (Video)](https://vimeo.com/122742946)
 
 ### Build Track Skills
 
