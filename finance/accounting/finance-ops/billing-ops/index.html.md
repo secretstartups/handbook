@@ -44,7 +44,7 @@ Please tag `@billing-ops` in the `#Finance` channel.
 ### The scope of our tasks:
 
 * Reviewing and invoicing orders
-* Processing refunds - please scroll down to see how to initiate a refund request
+* Processing refunds
 * Providing financial documents, e.g. W-9, certificates of incorporation, bank verification letters.
 * Handling tax exemptions
 * Working on customers’ requests with regards to invoicing and updating account information in Zuora:
@@ -105,8 +105,6 @@ The below points/fields need to be reviewed in the process:
 1. **Sold to** contact - search in Zuora and the portal to make sure it’s assigned to the correct account, for reseller orders ensure sold to email address is that of end-user
 1. **Bill to** - compare between Zuora and the documents - no need to change if Zuora bill to address is an accounts payable address (Please ensure that all orders for India have been submitted through a partner regardless the payment method.)
 1. **Invoice owner** and **Invoice owner contact** - needed for reseller orders
-1. **Click through EULA** - required for new-business and add-on reseller orders.
-This field should be set to No if no EULA required.
 1. **Payment method** and **payment term** - compare between documents and Zuora, check approvals where required
 1. **PO number** where available
 1. **Auto-renew** - ‘no’ for sales assisted purchases
@@ -160,7 +158,7 @@ Make sure the end user is on the same entity as the reseller.
 1. Confirm the **bill to** and **sold to** addresses are correct (sold to address must match the portal sold to address)
 1. **Payment terms**
 1. **VAT ID** where required
-1. **Default communication profile** - needed in order to send the license and EULA for renewals and add-ons, especially important for reseller deals!
+1. **Default communication profile** - needed in order to send the license for renewals and add-ons, especially important for reseller deals!
 1. **Silent communication profile** - for some ramped orders or special requests
 1. Check whether there are **outstanding invoices** older than 120 days - credit hold.
 1. **Email history** - upon processing the invoice ensure invoice was sent.
@@ -192,7 +190,7 @@ If the below are ok the invoice can be posted (**Post**).
 1. By searching with sold to email address ensure the **sold to** contact:
 * has been **updated** to the correct one
 * has the correct **Zuora account ID** assigned
-Check the quote vs. Zuora vs. portal - all three need to have the same sold to email address in order for the EULA/license to be sent out to the end user/customer.
+Check the quote vs. Zuora vs. portal - all three need to have the same sold to email address in order for the license to be sent out to the end user/customer.
 
 2. In case of an **upgrade for GitLab.com** portal needs to be updated manually.
 
@@ -270,11 +268,6 @@ The customers that bought their product over the portal and are renewing over th
 The customers or unauthorized resellers based in the UK, Netherlands, Germany and Australia that were billed through GitLab Inc will be moved to the appropriate entity where purchasing a renewal or initiating contract reset via a sales assisted quote (early termination of the existing contract and new term).
 Please note that add-on opportunities need to be billed via the entity of the opportunity that they are added to.
 
-### How to initiate a refund request within 45 days from the initial invoice date: 
-
-* Sales Rep can chatter us on the Opportunity that needs to be refunded, giving a reason as to why.
-* Customers can email ar@gitlab.com requesting a refund.
-* Customers can submit a ticket via the CustomersDot.
 
 ### Processing a refund in Zuora (credit card payments): 
 
@@ -369,6 +362,8 @@ If the payment doesn’t go through:
 * In exceptional and rare cases, if a customer on credit hold is to be invoiced for new service, a signed promise to pay document has to be received and approved by the Billing Manager.
 * At 150 days old the account is sent to collections for recovery.
 * Self-managed accounts that were cancelled before the end of term will be put on credit hold and reviewed before another purchase.
+
+**For more information about how to use Zuora Collect please follow the link to the** [Enterprise Application Guides](https://about.gitlab.com/handbook/business-ops/enterprise-applications/guides/zuora-collect/#what-is-zuora-collect) 
 
 ### Month end reconciliation:
 

@@ -224,8 +224,10 @@ If the repurchase is not completed prior to the team member leaving the company,
   * [Tax Treatment in Australia](/handbook/tax/stock-options/australia/)
   * [Tax Treatment in Belgium](/handbook/tax/stock-options/belgium/)
   * [Tax Treatment in Canada](/handbook/tax/stock-options/canada/)
+  * [Tax Treatment in Ireland](/handbook/tax/stock-options/ireland/)
   * [Tax Treatment in Germany](/handbook/tax/stock-options/germany/)
   * [Tax Treatment in Netherlands](/handbook/tax/stock-options/netherlands/)
+  * [Tax Treatment in New Zealand](/handbook/tax/stock-options/newzealand/)
   * [Tax Treatment in UK](/handbook/tax/stock-options/unitedkingdom/)
   * [Tax Treatment in USA](/handbook/tax/stock-options/unitedstates/)
 

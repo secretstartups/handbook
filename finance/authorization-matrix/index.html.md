@@ -10,7 +10,7 @@ For instruction on how to get Sales contracts countersigned, please our [order p
 ## Signing Legal Documents
 
 The table below designates team members that are authorized to sign legal documents, with the exception of NDAs covering a physical visit of another organization.
-When working with legal agreements with vendors, consultants, and so forth, bear in mind the [signature authorization matrix](/handbook/finance/authorization-matrix/).
+When working with legal agreements with vendors, consultants, and so forth, bear in mind the [signature authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix).
 If you need to obtain approval for a vendor contract, please create a confidential issue in the finance issue tracker using our [Contract Approval Workflow](/handbook/finance/procure-to-pay/).
 
 For all other documents that need to be signed, filled out, sent, or retrieved electronically, please do your best to fill out the form using the handbook and [wiki](https://gitlab.com/gitlab-com/finance/wikis/company-information ) then e-mail it to `legal@` with the following information:
@@ -115,7 +115,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
-  <div class="item-auth-matrix">Approves<sup>(1)</sup></div> <!-- Board -->
+  <div class="item-auth-matrix">Approves<sup>(2)</sup></div> <!-- Board -->
   <div class="item-auth-matrix"></div>  <!-- PAO or VP, FP&A -->
   <div class="item-auth-matrix">Approves/Signs<sup>(8)</sup></div> <!-- CFO -->
   <div class="item-auth-matrix"></div> <!-- Legal --> 

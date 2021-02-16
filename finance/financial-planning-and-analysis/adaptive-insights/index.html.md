@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Adaptive Insights"
+description: “Discover how GitLab uses Adaptive Insights to plan, budget, and forecast GitLab’s planning cycles”
 ---
 
 ## On this page

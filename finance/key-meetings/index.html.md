@@ -43,6 +43,7 @@ Functions that have these meetings are:
 *  Engineering (Eric Johnson - function DRI) - does not include Support or Infrastructure
 *  Finance (Brian Robins - function DRI)
 *  Infrastructure (Steve Lloyd - function DRI)
+*  Legal (Robin Schulman - function DRI)
 *  Marketing (Todd Barr - function DRI)
 *  People Group (Carol Teskey - function DRI)
 *  Product (Scott Williamson - function DRI)
@@ -50,6 +51,32 @@ Functions that have these meetings are:
 *  Support (Tom Cooney - function DRI)
 
 If you would like to be added to a function's Key Meeting post in [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
+
+### Key Rotation
+
+We expect that All-Directs have a general understanding of the business beyond their function. They are GitLab leaders who often have to work cross-functionally and need business context to guide their teams. Key Meetings are a forum for understanding what is happening in other functions. The Key Rotation is designed to encourage All-Directs to make time to learn about what is happening in other functions. 
+
+Each month, one All-Direct will join the Key Rotation. This person should plan to attend all Key Meetings in that month. The team member is encouraged to contribute questions and comments to the agenda in each of these meetings. The team member is also encouraged to bring takeaways back to the team member's E-Group manager and teams.
+
+A rotation includes 9 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings.
+
+Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the [EBA of the CFO](/handbook/eba/#executive-business-administrator-team) in the #key-meetings Slack channel. The EBA to the CFO will add participants to meetings.
+
+#### Key Rotation Schedule
+
+| Month | All-Direct |
+| ------ | ------ |
+| 2021-02 | [Christie Lenneville - VP UX](https://gitlab.com/clenneville) |
+| 2021-03 | [Michelle Hodges - VP WW Channels](https://about.gitlab.com/company/team/#mwhodges) |
+| 2021-04 | [Steve Loyd - VP Infrastructure](https://gitlab.com/sloyd) |
+| 2021-05 | [Danielle Morrill - Sr. Director Inbound Marketing](https://about.gitlab.com/company/team/#dmor) |
+| 2021-06 | [Mek Stittri - Director of Quality](https://gitlab.com/meks) |
+| 2021-07 | [David Sakamoto - VP Customer Success](https://about.gitlab.com/company/team/#dsakamoto)  |
+| 2021-08 | AVAILABLE |
+| 2021-09 | AVAILABLE |
+| 2021-10 | AVAILABLE |
+| 2021-11 | AVAILABLE |
+| 2021-12 | AVAILABLE |
 
 ## Meeting Format
 
@@ -73,7 +100,7 @@ Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Group Conversations and Key Meeting Metrics
-Function DRIs are expected to repurpose and leverage their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/people-group/group-conversations/). Group Conversations should follow Key Meetings, please see the [Group Conversation schedule](/people-group/group-conversations/#schedule--dri). 
+Function DRIs are expected to use their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/people-group/group-conversations/). Group Conversations should follow Key Meetings, please see the [Group Conversation schedule](/handbook/people-group/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key meeting to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
 
 ### Recordings
 
@@ -106,6 +133,7 @@ The following Key Meetings are automated: (all links are internal)
 
 1. The functional owner will prepare a google slide presentation with the content to be reviewed.
 1. The finance business partner assigned to the functional area will meet with the owner at least one week in advance and ensure that follow-ups from last meeting have been completed and that data to be presented has proper definitions and is derived from a Single Source of Truth.
+1. The finance business partner / preparer of the key review deck will ensure that the google slide permissions are set to comment for all in the GitLab domain.
 1. The title of every slide should be the key takeaway
 1. A label on the slide should convey whether the metric result is "on-track" (green), "needs improvement" (yellow), or is an "urgent concern" (red).
 1. A [blank template](https://docs.google.com/presentation/d/1lfQMEdSDc_jhZOdQ-TyoL6YQNg5Wo7s3F3m8Zi9NczI/edit) still needs labels.

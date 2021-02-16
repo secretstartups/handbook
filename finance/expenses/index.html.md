@@ -15,9 +15,27 @@ Welcome to the Expenses page!  You should be able to find answers to most of you
 - **Chat channel**: `#expense-reporting-inquires`
 - **Email**: `ap@gitlab.com`
 
-GitLab utilizes Expensify as our team member expense reimbursement tool. All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, please contact ap@gitlab.com. Note: Ensure to opt-out from news by logging in and navigating to `Settings > Preferences > Contact Preferences` and un-checking the box at `Relevant feature updates and Expensify news`.
+GitLab utitilizes Expensify as our team member expense reimbursement tool. All team members will have access to Expensify within 2 days from their hire date.  If you didn't receive an email from Expensify for your access, please contact ap@gitlab.com. Note: Ensure to opt-out from news by logging in and navigating to `Settings > Preferences > Contact Preferences` and un-checking the box at `Relevant feature updates and Expensify news`.
 
-Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://docs.expensify.com/using-expensify-day-to-day/using-expensify-as-an-expense-submitter/report-actions-create-submit-and-close).
+Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://community.expensify.com/discussion/5922/deep-dive-day-1-with-expensify-for-submitters/p1?new=1).
+
+### Redacting Personal Information from Receipts
+
+As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any receipts containing personal information should be rejected and sent back to be corrected. Personal information inclues:
+* Your shipping and billing address(es)
+* Your credit card information
+* Your full name
+* Any other data that is personal to you that you would not want publicly known
+
+At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
+
+<details>
+<summary>Instructions for redacting information</summary>
+The best way to capture only the necessary receipt information is to take a screenshot of your receipt that includes only the items purchased and total amount. On your Mac, you can press the <b>Command + Shift + 4</b> keys, which will turn the mouse pointer into a crosshair. Click and drag with the crosshair to take a screenshot. The screenshot is automatically saved to your desktop and can be uploaded to your expense report.
+
+Alternatively, the Preview application built in to macOS offers a redaction tool that is hidden away in the Markup toolbar when viewing a PDF. When used, this will permanently delete any content marked for redaction when the PDF is saved allowing for it to then be securely uploaded to your expense report.
+
+</details>
 
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
@@ -31,13 +49,13 @@ Team members in a US policy will be automatically reimbursed through Expensify a
 
 The company will reimburse for the following items if you **need it for work or use it mainly for business**, and local law allows us to pay for it without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require prior approval from your Manager and Accounting.
 
-The below averages are what GitLab **usually** reimburses. If you prefer to spend more on a given item, that's OK considering the average price. You are also welcome to expense the `GitLab Average Price in USD` portion, and cover the rest with personal funds. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money. 
+The below averages are what GitLab **usually** reimburses. If you prefer to spend more on a given item, that's OK considering the average price. You are also welcome to expense the `GitLab Average Price in USD` portion, and cover the rest with personal funds. For example, if you purchase a high-end Steelcase ergonomic chair, you are welcome to expense the average price per the table below and cover the rest with personal funds. We are encouraging our members to use their best judgment when spending the company's money.
 
-When reimbursing through Expensify please select "reimbursable" for the portion which GitLab will be covering, and add a note explaining the receipt difference. 
+When reimbursing through Expensify please select "reimbursable" for the portion which GitLab will be covering, and add a note explaining the receipt difference.
 
 * Please note Expensify cannot sync "non-reimbursable" line items, only reimbursable line items are to be entered in Expensify.
 
-Team members should not use a Corporate Credit Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.  
+Team members should not use a Corporate Credit Card to purchase office equipment for their personal workspace.  All office equipment purchases for a team member's personal workspace should be made on a personal credit card and expensed.
 
 For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) policy and procedure.
 
@@ -48,7 +66,7 @@ Take inspiration from our [all-remote page covering key considerations for a com
 ### Software
 1. We have central [license management](/handbook/tools-and-tips/other-apps/#jetbrains) for you to
    request licenses for JetBrains' products like RubyMine / GoLand.
-1. We do not issue Microsoft Office 365 licenses, as GitLab uses Google's G Suite
+1. We do not issue Microsoft Office 365 licenses, as GitLab uses Google Workspace
    ([Docs](/handbook/communication/#google-docs), Slides, Sheets, etc.) instead.
 1. For security related software, refer to the security page for [laptop and desktop
    configuration](/handbook/security/#laptop-or-desktop-system-configuration).
@@ -57,63 +75,70 @@ Take inspiration from our [all-remote page covering key considerations for a com
 
 It is uncommon for you to need all of the items listed below. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them. If you wonder if something is common, feel free to ask IT Ops (and in turn, IT Ops should update the list).
 
-| Item                                                         | Average Price in USD | Importance | Why                                                          |
-| ------------------------------------------------------------ | -------------------- | ---------- | ------------------------------------------------------------ |
-| [Height-adjustable desk](/company/culture/all-remote/workspace/#desks) | $300 - $500                 | 10/10      | We use our desks everyday and need them to be ergonomic and adjustable to our size and needs, whether that is sitting or standing. |
-| [Ergonomic chair](/company/culture/all-remote/workspace/#chairs) | $200                 | 10/10      | We use our desk chairs hours at a time, and need them to be healthy, supportive, and comfortable. |
-| [Headphones (wired or wireless, with mic ability)](/company/culture/all-remote/workspace/#headphones) | $100                 | 10/10      | We use our headphones everyday during our [meetings](/company/culture/all-remote/meetings/), to connect with our fellow team members. We need our headphones to be comfortable, functional, and great quality. |
-| [External monitor](/company/culture/all-remote/workspace/#monitors) | $380                 | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health. |
-| [Keyboard](/company/culture/all-remote/workspace/#external-keyboard-and-mouse) | $250                 | 10/10      | Find a keyboard that works for you and is comfortable for your workflow and hand size. |
-| [Mouse or Trackpad](/company/culture/all-remote/workspace/#external-keyboard-and-mouse) | $80 or $145          | 10/10      | Find a mouse/trackpad that works for you and is comfortable for your workflow. |
-| Laptop stand                                                 | $90                  | 10/10      | Your eyes and head must look at the same angle as you work and so your laptop must be elevated if you are working with an external monitor. |
-| [Webcam](/company/culture/all-remote/workspace/#webcams)     | $80                  | 9/10       | If you would like a much better image quality than from the camera in your laptop, a webcam can make video conversation better. For those who interface routinely with clients, leads, and external parties, you may also consider a pricier [mirrorless or DSLR camera as a webcam](https://docs.crowdcast.io/en/articles/1935406-how-to-use-your-dslr-as-a-webcam). |
-| [Dedicated microphone](/company/culture/all-remote/workspace/#microphones) | $130                 | 6/10       | For those who routinely interface with clients, leads, media, and external parties — or create regular content for GitLab channels — you may also consider a dedicated microphone to capture your voice with added richness and detail. |
-| Portable 15" external monitor                                | $200                 | 9/10       | You have the freedom to work from any location, and having a portable monitor allows that your workflow does not suffer from being constrained to a single small laptop screen. |
-| USB-C Adapter                                                | $80                  | 9/10       | Most MacBooks only have 1 free USB-C port, so an adapter with additional ports is a necessity. |
-| HDMI/monitor cable                                           | $15                  | 9/10       | Find a quality cable so that the connection between your laptop and monitor is healthy and secure. |
-| [Yubikey](https://www.yubico.com/store/)                     | $50                  | 8/10      | Per our [Security Practices](/handbook/security/), purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security. |
-| Monitor Privacy Filter                                       | $80                  | 8/10       | Important if you work in public places and need to be certain your work cannot be seen. |
-| WiFi Router with guest functionality     | $80                  | 7/10       | If your existing router does not allow for isolating your work notebook from your personal devices in your home network, consider buying a router that does. |
-| Laptop bag or backpack                                       | $60                  | 7/10       | Carry your laptop and external monitor safely with this travel bag. We recommended you get a bag (or backpack) with straps so the device stays on you when you need your hands free. |
-| [Earpods](https://www.apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug) | $30                  | 7/10       | If you use your headphones at home but would like lighter headphones to use while on the go, these earpods are the way to go. |
-| Ethernet connector                                           | $20                  | 6/10       | This is if you choose to connect to your internet directly versus by Wi-Fi. |
+| Item                                                                                                  | Average Price in USD | Reimbursable Amount | Importance | Why                                                                                                                                                                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------|----------------------|---------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Height-adjustable desk](/company/culture/all-remote/workspace/#desks)                                | $300 - $500          | $500                | 10/10      | We use our desks everyday and need them to be ergonomic and adjustable to our size and needs, whether that is sitting or standing.                                                                                                                                                                                                                                    |
+| [Ergonomic chair](/company/culture/all-remote/workspace/#chairs)                                      | $200 - $400          | $400                | 10/10      | We use our desk chairs hours at a time, and need them to be healthy, supportive, and comfortable.                                                                                                                                                                                                                                                                     |
+| [Headphones (wired or wireless, with mic ability)](/company/culture/all-remote/workspace/#headphones) | $100                 | $100                | 10/10      | We use our headphones everyday during our [meetings](/company/culture/all-remote/meetings/), to connect with our fellow team members. We need our headphones to be comfortable, functional, and great quality.                                                                                                                                                        |
+| [External monitor](/company/culture/all-remote/workspace/#monitors)                                   | $380                 | $380                | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health.                                                                                                                                                                                                                                                    |
+| [Keyboard](/company/culture/all-remote/workspace/#external-keyboard-and-mouse)                        | $250                 | $250                | 10/10      | Find a keyboard that works for you and is comfortable for your workflow and hand size.                                                                                                                                                                                                                                                                                |
+| [Mouse or Trackpad](/company/culture/all-remote/workspace/#external-keyboard-and-mouse)               | $80 or $145          | $145                | 10/10      | Find a mouse/trackpad that works for you and is comfortable for your workflow.                                                                                                                                                                                                                                                                                        |
+| Laptop stand                                                                                          | $90                  | $90                 | 10/10      | Your eyes and head must look at the same angle as you work and so your laptop must be elevated if you are working with an external monitor.                                                                                                                                                                                                                           |
+| [Webcam](/company/culture/all-remote/workspace/#webcams)                                              | $80                  | $80                 | 9/10       | If you would like a much better image quality than from the camera in your laptop, a webcam can make video conversation better. For those who interface routinely with clients, leads, and external parties, you may also consider a pricier [mirrorless or DSLR camera as a webcam](https://docs.crowdcast.io/en/articles/1935406-how-to-use-your-dslr-as-a-webcam). |
+| [Dedicated microphone](/company/culture/all-remote/workspace/#microphones)                            | $130                 | $130                | 6/10       | For those who routinely interface with clients, leads, media, and external parties — or create regular content for GitLab channels — you may also consider a dedicated microphone to capture your voice with added richness and detail.                                                                                                                               |
+| Portable 15" external monitor                                                                         | $200                 | $200                | 9/10       | You have the freedom to work from any location, and having a portable monitor allows that your workflow does not suffer from being constrained to a single small laptop screen.                                                                                                                                                                                       |
+| USB-C Adapter                                                                                         | $80                  | $80                 | 9/10       | Most MacBooks only have 1 free USB-C port, so an adapter with additional ports is a necessity.                                                                                                                                                                                                                                                                        |
+| HDMI / monitor cable                                                                                  | $15                  | $15                 | 9/10       | Find a quality cable so that the connection between your laptop and monitor is healthy and secure.                                                                                                                                                                                                                                                                    |
+| [Yubikey](https://www.yubico.com/store/)                                                              | $50                  | $50                 | 8/10       | Per our [Security Practices](/handbook/security/), purchasing Yubikey is not mandatory, but is considered as an extra layer of authentication for better security.                                                                                                                                                                                                    |
+| Monitor Privacy Filter                                                                                | $80                  | $80                 | 8/10       | Important if you work in public places and need to be certain your work cannot be seen.                                                                                                                                                                                                                                                                               |
+| WiFi Router with guest functionality                                                                  | $80                  | $80                 | 7/10       | If your existing router does not allow for isolating your work notebook from your personal devices in your home network, consider buying a router that does.                                                                                                                                                                                                          |
+| Ethernet connector                                                                                    | $20                  | $20                 | 6/10       | This is if you choose to connect to your internet directly versus by Wi-Fi.                                                                                                                                                                                                                                                                                           |
+| Powerline / WiFi network extender                                                                     | $50 - $100           | $100                | 6/10       | Useful for extending your home network to your workspace                                                                                                                                                                                                                                                                                                              |
+| Laptop bag or backpack                                                                                | $60                  | $60                 | 7/10       | Carry your laptop and external monitor safely with this travel bag. We recommended you get a bag (or backpack) with straps so the device stays on you when you need your hands free.                                                                                                                                                                                  |
+| [Earpods](https://www.apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug)             | $30                  | $30                 | 7/10       | If you use your headphones at home but would like lighter headphones to use while on the go, these earpods are the way to go.                                                                                                                                                                                                                                         |
+
+If you wish to go over the recommended reimbursement, this is an exception and should first be raised with your manager and if supported, should be raised in the "expense-reporting-inquiries who will review and respond to the request.
 
 ### Other
 1. Business cards ordered from Moo as per the [instructions](https://about.gitlab.com/handbook/people-group/frequent-requests/#business-cards) provided by the People Experience team.
-	* Urgent Business cards needed for day of start can be requested by emailing people-exp@gitlab.com. As a last resort, Moo does offer 3 to 4 Day Express service.
+	*Urgent Business cards needed for day of start can be requested by emailing people-exp@gitlab.com. As a last resort, Moo does offer 3 to 4 Day Express service.*
 1. Work-related books.
 
 ### Transport/Delivery of free procurements
 Also feel free to check your local [Freecycle group](https://www.freecycle.org/) or similar second-hand/free markets when looking for equipment, especially furniture such as desks and chairs. GitLab will reimburse the cost of any transport and delivery services you need to procure the item(s) provided the total cost does not exceed the average spend for the item based on the table above.
 
+GitLab will also reimburse costs relevant to one's location in cases where anniversary gifts or company issued swag incurs additional import costs.
+
 ### Not sure what to buy?
 
 Look at our [equipment examples page](/handbook/spending-company-money/equipment-examples) to see some of the items that other GitLab team members have purchased, and please consider adding to the list if there's something you'd like to share.
 
+### Reimbursements
+
+The company will reimburse for the following expenses if you need it for work or use it mainly for business, and local law allows us to pay for it without incurring taxes:
+1. Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates), [rate per km in the Netherlands](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eigen_auto), or [rate in Belgium](https://fedweb.belgium.be/nl/verloning_en_voordelen/vergoedingen/vergoeding-voor-reiskosten). Add a screenshot of a map to the expense in Expensify indicating the mileage.
+1. Internet connection subscription.
+	* For employees outside the Netherlands: follow normal expense report process.
+	* For employees in the Netherlands: fill in and sign the [Regeling Internet Thuis](https://docs.google.com/a/gitlab.com/document/d/1J70geARMCjRt_SfxIY6spdfpTbv_1v_KDeJtGRQ6JmM/edit#heading=h.5x5ssjstqpkq) form and send it to the People Experience team at `people-exp@ gitlab.com`. The People Experience team will then send it to the payroll provider in the Netherlands via email. The details of the payroll provider can be found in the PeopleOps vault in 1Password under "Payroll Contacts".
+1. VPN service subscription. Please read [Why We Don't Have A Corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn) for more information about VPN usage at GitLab.
+1. Mobile subscription, we commonly pay for that if you call a lot as a salesperson or executive, or if your position requires participation in an oncall rotation. If your device cost is part of your monthly subscription cost, please do not include the device cost from the expense reimbursement.
+1. Telephone land line (uncommon, except for positions that require a lot of phone calls)
+1. Skype/Google Hangouts calling credit (uncommon, since we mostly use [internet-based services such as Zoom](/blog/2019/08/05/tips-for-mastering-video-calls/))
+
 ### Coworking or external office  space
 If working from home is not practical you may submit for reimbursement for the cost of a co-working space. This can include non-traditional spaces that require a recurring (full-time monthly) membership as long as you average at least ~4 working days per month at the space. If flexible membership options exist in the form of daily passes or hourly packages, then these can be expensed as well, as long as the prorated cost per month does not exceed that of a recurring membership subscription. For instance, if both the monthly subscription and a hypothetical 10-day pass is $200 USD, then you can only expense one such pass each month.
 
-Any agreement must be between the team member and the co-working space (i.e. GitLab will not sign or appear on the agreement). All expenses must be submitted through the normal [travel and expense reimbursement policy](/handbook/finance/accounting/#reimbursable-expenses). The Company will not be responsible for any expense that relates to office space subsequent to the termination of service between GitLab and the team member.
-
+Any agreement must be between the team member and the co-working space (i.e. GitLab will not sign or appear on the agreement). All expenses must be submitted through the normal [travel and expense reimbursement policy](/handbook/finance/accounting/#reimbursable-expenses). The Company will not be responsible for the deposit, and therefore will not reimburse for the upfront deposit. This will solely be the responsibility of the employee. In addition, the company will not be responsible for any expense that relates to office space subsequent to the termination of service between GitLab and the team member.
 
 
 ### Work-related online courses and professional development certifications
 
-GitLab team members are allotted [$500 USD](https://www1.oanda.com/currency/converter/) per fiscal year to spend on one or multiple training courses. Reimbursement past the [$500 USD](https://www1.oanda.com/currency/converter/) total allotment requires manager approval, please follow the [Tuition Reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) process in this case.
-1. The company will pay for all courses related to learning how to code (for example [Learning Rails on Codecademy](https://www.codecademy.com/learn/learn-rails)), and you may also allocate work time to take courses that interest you. If you are new to development, we encourage you to learn Git through GitLab, and feel free to ask any questions in the #git-help Slack channel.
-1. Work-related conferences, including travel, lodging, and meals. If total costs exceed [$500 USD](https://www1.oanda.com/currency/converter/), reimbursement requires prior approval from your manager.
-	* Before scheduling any travel or time off to attend a conference a team member should review the request with their manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After  manager approval the team member can schedule travel and will be reimbursed for related expenses.
-	* We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Marketing](/handbook/marketing/corporate-marketing/#speakers) page.
-	* We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
-1. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself. The company will pay for certified English lanaguage courses online or in person. There is also the #lang-en channel in Slack to help with any English language questions you might have.
+GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per calendar year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit).
+
 
 ### Year-end Holiday Party Budget
 
-GitLab grants [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday in December We encourage GitLab team members to self organize holiday parties with those close by, but meeting up with GitLab team members is not a requirement as it is understood that timing and location of holiday parties will play a factor in ability to attend.
-
-For those who do not meet up with GitLab team members, you may expense up to [$100 USD](https://www1.oanda.com/currency/converter/) in December or January for a holiday celebration of your choosing.
-
-If a group of team members, Department or Division so choose, they are welcome to donate a portion of their per person holiday budget to the charity of their choosing.
+In previous years, GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. We also encouraged GitLab team members to self organize holiday parties with those close by, but due to COVID restrictions in most countries, we have decided to have a more universal approach this year. We will update this policy again ahead of December 2021. For December 2020, the E-Group is deciding how these dollars will be spent on a combination of swag and virtual events to celebrate the holiday season and build team belonging. If you have any questions, please reach out to your E-Group member.
 
 ## Travel and Expense Guidelines
 
@@ -185,11 +210,11 @@ No problem, and consider adding it to this list if others can benefit as well.
 1. GitLab uses Expensify to facilitate the reimbursement of your expenses. As part of onboarding you will receive an invitation by email to join GitLab's account. Please set up your account by following the instructions in the invitation.
 	* If you are a team member in Spain or France, please submit your expenses through Safeguard in-house expense reimbursement management system and also submit them through Expensify.  Accounts Payable will review, approve, and send the approval of your expense reports in Expensify to your gitlab email address.  You will need to forward the approval email to Safeguard enable for them to process your expense reimbursement via payroll.
 
-	* If you are new to Expensify and would like a brief review, please see [Getting Started](http://help.expensify.com/getting-started/)
+	* If you are new to Expensify and would like a brief review, please see [Getting Started](https://community.expensify.com/discussion/7703/getting-started-video)
 	* For step by step instructions on creating, submitting, and closing a report please see [Create, Submit, Close](https://docs.expensify.com/en/articles/2921-report-actions-create-submit-and-close)
 	* For US team members, the approved expense amount will be deposited into your account a few days after the report has been approved by Accounts Payable.
 	* For Australia, New Zealand, Belgium, Germany, and Netherlands, AP will process the approved report on Friday.  The payment will be deposited into your account no later than three business days the following week. 
-    Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding a invitiation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment. 
+    Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding, an invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment.
 
 	* For all team members being pay by Safeguard, iiPay, or Vistra, the approved expense amount will be deposited in your account with your monthly salary.
 
@@ -212,7 +237,7 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 ##### iiPay
 
-* All Individual contractors or C2C, with exception of Hungary, Nigeria, South Africa, and Switzerland, will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be include in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at nonuspayroll@gitlab.com and ap@gitlab.com if you need to set up a separate bank for your expense reimbursement.
+* All Individual contractors or C2C, with exception of Nigeria will be reimbursed by iiPay by the 22nd of each month.  All expense reports must be approved by the manager and the Accounts Payable team by the 8th of each month to be include in the current month payment.  For contractor with C2C status, be sure to contact Payroll team via email at nonuspayroll@gitlab.com and ap@gitlab.com if you need to set up a separate bank for your expense reimbursement.
 
 ##### Legal entities
 
@@ -225,13 +250,13 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 * Please include your expenses along with receipts on your monthly salary invoice.
 
-##### CXC 
+##### CXC Global
 
-Poland, Russia, Ukraine & Romania:
+Poland, Russia, Ukraine, Romania, Israel, Turkey, Czech Republic & Portugal:
 
-* Expense reports must be approved by the manager and the Accounts Payable team on or before the 8th of each month enable for it to be included in the current month payroll
+* Expense reports must be submitted on Expensify by team members, approved by their managers, and final approved by Accounts Payable team on or before the 8th of each month to ensure it is included in the current months payroll
 * GitLab Payroll will send the approved expense amount to CXC EMEA payroll to include with the monthly salary
-* Team members must include the approved expense amount on their monthly invoice
+* Team members must include the approved expense amount on their monthly invoice as well.
 
 ## Expense Policy
 
@@ -241,9 +266,9 @@ Poland, Russia, Ukraine & Romania:
 1. Expense report items should clearly state if the spend includes amounts for clients / non-team members.  Tax requirements in certain countries require us to account for client spend differently.
 1. All team members must submit their expense reports in their designated policies in Expensify - COGS team members in COGS policies and non-COGS team members in non-COGS policies.
 1. Giftcards are not accepted as a form of payment for business expenses.
-1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date. 
+1. All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
 
-* Please note we do not reimburse late fees or equipment costs. 
+* Please note we do not reimburse late fees or equipment costs.
 
 ## Team Member Expense Temporary Advances
 
@@ -277,7 +302,7 @@ Slack channel
 1.  **Expenses Reports approval deadline**
     * Australia, Germany, New Zealand, Netherlands, United States - as soon as possible
     * United Kingdom - all expense reports must be approved by manager no later than the 14th of each month.  Team members - please be sure to submit your report(s) couple days before the due date so your manager has enough time for approval.
-    * Canada - before 1st day of payroll period  
+    * Canada - before 1st day of payroll period
     * All non-US contractors - all expense reports must be approved by manager no later than the 8th of each month. Team members - please be sure to submit your report(s) couple days before the due date.
 
 ## Non-reimbursable Expenses:
@@ -295,6 +320,7 @@ Examples of things we have not reimbursed:
 1. Home office decor (picture frames, hanging plants, area rugs, book shelves)
 1. Meals or beverages while attending co working space
 1. Treadmill Desks
+1. Portable Air Conditioners
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 

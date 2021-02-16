@@ -43,21 +43,27 @@ title: "Financial Planning & Analysis"
 
 ### Definitions
 
+#### Street Model
+What: The Street Model is a three statement excel model that we will use to guide Wall Street on a quarterly and annual basis.
+
+Governance: Street model in the form of company guidance will be prepared by corporate finance, signed off on by CFO and eGroup. Reviewed by the Board of Directors.
+
 #### Board Plan
 
-Purpose: GitLab's Board Plan, or operating Plan, is a guideline to understand how much capital it needs and how the capital will be consumed. The Board Plan helps GitLab answer questions like "how fast can we hire and when?"
+Purpose: GitLab's Board Plan identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
 
-What: The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expense part of the plan is at the headcount and vendor level. The Board Plan will be a 90% confidence Plan. Additionally we will set stretch targets based on 50/50 confidence and will adjust the Board Plan to give us the best chance to hit our stretch targets. Corporate bonus and sales commissions will be set based on the stretch targets.
+What: The Board Plan includes the annual strategy, business Plans for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expenses are Planned at the headcount and vendor level. The Board Plan is a 90% confidence Plan and expenses for R&D and G&A are based on the revenue in the Plan. 
 
 Governance: The Board Plan is approved by the board of directors every year.
 
-#### Documentation 
+#### Target
+Purpose: Build a go-to-market business plan to achieve the companies tops-down target. 
 
-All archived and templated board plans can be found by searching `Google Drive > FP&A Shared Drive > Corporate FP&A > Board Meetings`. In the `Board Meetings` Folder there is a templated board meeting deck to help team members develop board decks in a consistent manner. GitLab uses `Google Presentation` for the deck and connects `Google Sheets` to the deck to display charts, graphs, and commentary associated with the topics for the board meeting. In each tab of the `Google Sheet` team members can find instructions on how to prep or modify each slide for the board deck. As with anything at GitLab, iteration is a big factor in building board decks. Having a consistent way to build upon makes the process of board deck building much faster. 
+What: This is the board Plan with stretch targets for bookings and revenue at a 50/50 confidence level with supporting marketing and sales inputs. The bookings component of the corporate bonus and sales commissions will be set based on this target. We will build enough sales and marketing capacity to achieve this goal.
 
 #### Actuals
 
-What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan.
+What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan, Target and our forecasts.
 
 #### Monthly Forecast
 
@@ -74,20 +80,20 @@ What: Forecast is a dynamic assessment based on current expectations of financia
 
 Governance: The quarterly rolling forecast is approved by the eGroup and CEO and reviewed with the board of directors. eGroup will be held accountable to the quarterly rolling forecast for expenses. For revenue the company will always be held accountable to Plan.
 
-
-#### Target
-What: Target is a goal or objective that may be higher or lower than the Plan or Forecast. Targets are typically used in conjunction with setting OKRs, compensation plans and other performance objectives.
-Governance: A target that relates to IACV is usually agreed upon by the DRI of the target and VP Finance or CFO. Other targets are part of OKRs and reviewed by the CEO.
-
-#### Baseline
-What: Baseline is a measurement of actual expense or revenue that relates to a certain point in time (i..e month, quarter or year). We use baselines to measure progress of improvement against actual results. The progress can be stated in monthly, quarterly or annualized terms.
-
 ### Mechanics of the Board Plan:
 - The Board Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
 - The Board Plan includes expenses for sales and marketing with capacity to achieve the stretch target. Expenses for R&D, G&A, Sales Commissions and Cost of Revenue are planned at the 90% confidence Booking Plan level. The Board Plan also assumes that the corporate bonus target will be fully achieved at stretch target.
 - The [rolling 4 quarter forecast](/handbook/finance/financial-planning-and-analysis/#rolling-4-quarter-forecast) builds off of the revenue projected in the revenue model. During the rolling 4 quarter, departments build out plans to help meet their strategic goals. Understanding the departmental plans determines how much of the capital will be consumed for foreseeable future.
 
-- The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitiablity goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's Board Plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
+- The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitability goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's Board Plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
+
+### Contingency Mechanics of the Board Plan (Future):
+- **Corporate Contingency:** unknown or uncertain spend held at CFO and released monthly based on performance / developments in business
+  - Goal: Provide the business agility in responding to new and shifting priorities. FP&A provides CFO an objective POV on how to deploy spend.
+  - Corporate Contingency is sized during annual planning for “known unknowns” and “unknown unknowns" for example, potential new markets, legal contingency, potential M&A. If there is uncertainty during Annual Planning around the commitment or scope of a particular project, funds should be sized and parked in Corporate Contingency rather than with the department in question.
+  - Operationally: funds sit in a Corporate GL at the Corporate Cost Center, funds are transferred to the appropriate GL and Cost Center when released
+- **Unallocated R&D:** A percentage of R&D unfilled and approved headcount held at CEO and released monthly to specific Product & Engineering departments based on company performance & shifting priorities
+  - Goal: Provide CEO & product teams agility in deploying headcount to respond to new and shifting priorities.
 
 ### Board Plan Diagram
 ![alt text](/handbook/finance/financial-planning-and-analysis/financial-workflow.png "Operating Model")
@@ -99,33 +105,35 @@ What: Baseline is a measurement of actual expense or revenue that relates to a c
 * Every quarter as part of the close process the team will generate a four quarter rolling forecast
 * If GitLab is exceeding the Board Plan, on a quarterly basis the executive team can decide to increase expense as long as we maintain operating income goals approved by the board of directors.
 
-### Annual Planning Steps (WIP)
+### Annual Planning Steps
 * Align executive team on strategic priorities
+* Prioritize efforts aligned with three year strategy and FY22 themes
 * Sign-off on financial priorities for the year
-* Develop baseline financial case for the year
-* Review product investments vs expected revenue generation.
-* Revise and update the annual sales compensation plan.
-* Set annual quota assignments for revenue producing roles.
-* Set expected amount for annual compensation increases.
-* Set targets for any contributors on a company based performance plan.
-* Set company targets for board, investors and creditors.
-* Our Annual Plan is viewable internally as a google slide presentation.  Search on "[current year e.g. 2018] Plan" to view.
 * Build out bottoms up integrated sales and marketing financial model with key assumptions documented so they can be tracked
 * Set targets agreed upon by Product, Marketing and Sales.
-* Generate a the Board Plan based on a headcount list, tbh list, vendor level spend list
+* Review product investments vs expected revenue generation.
+* Set expected amount for annual compensation increases.
+* Set targets for any contributors on a company based performance plan.
+* Generate the expense Plan based on a headcount list, tbh list, vendor level spend list
 * Headcount list communicated to recruiting, proposed vendor list communicated to procurement (future with Purchase Orders in place for existing vendors)
+* Generate and document key assumptions
+* Show trending of key metrics as output of the Plan
+* Capture Plans to drive key metrics
+* Capture X-functional dependencies of execution
+* Revise and update the annual sales compensation plan.
+* Set annual quota assignments for revenue producing roles.
 
-#### Annual Planning Important Dates (TBD - 2020 shown)
-* **28th of October** - Five quarter rolling forecast kick-off
-* **22nd of November** - Five quarter rolling forecast completed
-* **22nd of November** - Sales Compensation Direction
-* **2nd of December** - Preliminary outlook reviewed at Board of Directors
-* **16th of December** - Plan iteration and discussion at egroup meeting
-* **18th of December** - Product Roadmap and Investments (board review)
-* **17th of January** - Go to market planning deep dive (board review)
-* **24th of January** - Plan sent to Board for async commentary
-* **31st of January** - FY22 Plan Approved by Board
-* **7th of February** - Sales compensation plans distributed to sales team
+
+#### Annual Planning Important Dates (2021 shown)
+* **30th of October** - Three Year Strategy
+* **9th of November** - FY22 Themes
+* **20th of November** - GTM Planning offsite and Product Themes
+* **23rd of December** - First Plan Rollup
+* **6th of January** - v1 rollup and eGroup decisions on company wide assumptions
+* **12th of January** - v2 rollup and Planning Deck review including GTM business Plan review
+* **23th of January** - Plan sent to Board for async commentary
+* **29th of January** - FY22 Plan Approved by Board async (Pre FY21 numbers)
+* **17th of March** - Formal approval of FY22 Plan by Board with FY21 numbers
 
 ****
 
@@ -137,7 +145,7 @@ GitLab’s FP&A team will participate in a rigorous monthly close process. The c
 
 These dates are based on a 10 day accounting close. FP&A needs two days to do variance analysis, post close and another two days to lock rolling forecasts and complete guidance analysis.
 
-BD=Business Day, so for example BD4 means four business days after the month has ended. Let’s say the month ended on a Thursday. BD1 would be Friday, BD2 would be Saturday, etc.
+BD=Business Day, so for example BD4 means four business days after the month has ended. Let’s say the month ended on a Thursday. BD1 would be Friday, BD2 would be Monday, etc.
 
 #### Close process (today)
 
@@ -165,15 +173,15 @@ BD=Business Day, so for example BD4 means four business days after the month has
 
 - BD -2: **AP Closed.**
 - BD1: Ensure all accruals for Marketing, Legal, Hosting are collected.
-- BD2: **Payroll, Vendor and accruals booked.**
+- BD2: **Payroll, Vendor and accruals booked.** Forecast Version open in Adaptive.
 - BD3: Finance Business Partners: Review vendor accruals to check for accuracy.
 - BD4: **Revenue, AR Closed.**
 - BD5: **Sales Comp Booked**, Variance reviews with EVPs for Marketing, R&D, G&A (without sales comp and allocations).
-- BD6:
+- BD6: FP&A close AvF flux materially complete
 - BD7:
 - BD8: **Preliminary financials released**, Variance review with CRO.
 - BD9:
-- BD10: **Accounting Close**
+- BD10: **Accounting Close** FP&A close AvF flux locked
 - BD11: Review accounting controller book and fluxes. Prepare for 10Q/10K drafting.
 - BD12: Variance Review Package ready for CFO.
 - BD13: Revenue/EBIT guidance updated.
@@ -231,21 +239,21 @@ Each month after the financials have been published, GitLab reviews all aspects 
 
 The variance analysis will compare department budgets with actual results and examine any material differences between budgeted and actual costs. Additionally, the actuals for expenses will be compared to the quarterly rolling forecast. The expenses are reviewed at the divisional department level, allowing GitLab to measure progress in meeting its Plan (Q1-Q4) or rolling forecast (Q2-Q4). The team also evaluates the accuracy of forecasts, and operating model.
 
-#### Variance Deck details
-
-To be Updated
-
 #### Variance Analysis
-The study of differences between budgetary and expected cost. At GitLab, different measures of materiality thresholds are measured during the variance analysis process, including the Monthly Finance Planning Meeting. During the variance analysis processs the GitLab FP&A team analyzes and isolates any variance in question to the lowest level possible. The team reviews detailed items in order to identify the root cause of the variance. This could include transaction date, cost center, vendor, location, department or additional low level details.
+The study of differences between budgetary and expected cost. At GitLab, different measures of materiality thresholds are measured during the variance analysis process, including the Monthly Finance Planning Meeting. During the variance analysis processes the GitLab FP&A team analyzes and isolates any variance in question to the lowest level possible. The team reviews detailed items in order to identify the root cause of the variance. This could include transaction date, cost center, vendor, location, department or additional low level details.
 
 At GitLab, analysts begin the variance analysis process with trended data to understand if there is a recognizable pattern. This helps determine if the variance was caused by incremental change or driven by one particular event and helps identify the root path quickly.
 
 The FP&A team takes the following into consideration while evaluating variances in relation to materiality thresholds:
 
-- The percentage size of the variance (i.e. what was the overall varinace by percentage)
+- The percentage size of the variance (i.e. what was the overall variance by percentage)
 - The intent of the variance (i.e. did something stand out as deceptive)
 - The correlation to other variance (i.e. did a immaterial difference in one place cause a material difference in another)
 - The inherent character of the variance (i.e. does the expense correlate to the traits of the business)
+
+The FP&A team delivers an FP&A expense flux review document at each monthly close, documenting and quantifying business drivers for variance. The goal is two-fold:
+- **Control:** ensure accuracy of actuals. Analysts should aim for 80% coverage in explanations, e.g. if variance is $100, aim to list drivers for net $80 of the variance for any particular intersection above threshold. List drivers in descending order of impact, followed by large offsetting drivers.  
+- **Insights:** leverage insights gained from closed month to inform rolling forecast. Changes in business strategy/model, new accounting policies, and refinements on forecast methodology should be documented and incorporated into the new forecast.
 
 #### Performance Indicator: Variance percentage
 
@@ -261,11 +269,11 @@ Our goal is to have revenue and EBIT variance percentage within +/- 2% on a quar
 
 Generally accepted accounting principles (GAAP) does not provide definitive guidance in distinguishing material information from immaterial information. Therefore, GitLab uses a percentage based approach for defining materiality thresholds and can be found below. The [Plan vs Actuals vs Forecast](https://app.periscopedata.com/app/gitlab/525851/Plan-vs-Actuals-vs-Forecast) Sisense dashboard provides the data for the threshold analysis via a color coded legend.
 
-Thresholds Materiality
+###### Thresholds Materiality
 
 We believe that Revenue & EBIT actuals that have a greater variance of  +/- 5% vs Plan or Forecast is considered material. 
 
-Logging Threshold Differences
+###### Logging Threshold Differences
 
 Coming soon...
 
@@ -306,29 +314,32 @@ Once these components are in place, a comparison showing the difference between 
 | ISOdate_CampaignShortName | $000's | $000's | $000's | $000's | $000's |
 
 
-#### Making Changes to the Plan to Optimize for Growth, Efficiency, or Risk
+### Approach to making decisions on controlling expense and investing additional dollars
 
-Predictability is a top priority. If we are exceeding our Plan, the company will have opportunities to make additional investments that fit within our EBIT and free cash flow margin structure. We encourage our team members to actively seek opportunities that will help us grow faster or become more efficient each quarter. Ideally, team members can do this within the budget allocation. If a growth/efficiency initiatives requires additional spend will be evaluated and agreed upon by eGroup, as follows:
+As part of the variance and monthly review process we will evaluate two types of investments:
+**ROI positive investments:** There are an array of reasons we would want to invest in additional resources - here are some examples and eGroup will generate a full list: 
+1. A marketing program is accretive and has not hit its point of marginal return
+1. A channel or alliance program/partner that is working really well and can accelerate ARR so we would add sales/marketing/R&D  resources to accelerate
+1. Have an area of the product to invest in that has direct ARR impact, supports our three year strategy and cannot reprioritize other R&D resources due to skills
+1. There are many other…
 
-1. If the investment will allow us to increase bookings or increase efficiency in the current year or in future periods with a positive return.  
-1. If the investment de-risks future years bookings achievement
-1. If the investment decreases risk / increases compliance per our Enterprise Risk Management program
+**Business Plan drivers to review quarterly:**
+1. Sales capacity for FY23 so that we can spread hiring throughout the year
+1. R&D opportunities so that we can spread hiring throughout the year
 
-#### Out of Budget Business Case
+eGroup will generate a full list of the top items that were not funded in the Plan / would we would want to be gated.
 
-In the event an organization is asking to spend money outside either the [Annual Plan](/handbook/finance/financial-planning-and-analysis/) or [Quarterly Forecast](/handbook/finance/financial-planning-and-analysis/), you should develop a business case showcasing what the spend is for and how GitLab can benefit from spending it.
+**Scenarios that we could be in and will be discussed every month:**
 
-This business case should be completed in conjunction with your [Finance Business Partner (FBP)](/handbook/finance/financial-planning-and-analysis/) to articulate the financial impact of the request.  Below are a few examples of the question you should be trying to answer:
-* What is the purpose of the spend?
-* How much is the spend?
-* What kind of spend is it? (One time, contract, utility-based, etc..)
-* What is the Return on Investment?
-* If the ROI cant be measured what KPI are we trying to move?
-* Can we measure the impact in terms of ROI or KPI improvement?
-* Have we investigated any other options?
+ARR Plan refers to board Plan in which the expense Plan was built.
 
-Together with your FBP , this analysis should be presented to your leader and then to eGroup for Approval.
-
+| Scenario | Action to be taken |
+| ------ | ------ |
+| Behind ARR Plan based on actuals and forecasted pipeline. | Need to slow hiring and control expense on non-revenue generating heads. Potentially redirect dollars to specific areas in sales and marketing to correct the course watching CAC. Decision will be made by eGroup. |
+| On ARR Plan and expense Plan based on actuals and forecasted pipeline. | Need to evaluate ROI positive initiatives against existing spend and reprioritize dollars. For example Alliance is doing really well but we are not ahead of Plan - we would want to invest more in Alliance but need to fund from somewhere else. Decision will be made by eGroup. |
+| On ARR Plan and spending less than Expense Plan based on actuals and forecasted pipeline. | Identify and isolate the expense difference. We analyze the impact to our key metrics and collectively as an eGroup evaluate whether we reallocate the dollars. |
+| Ahead of ARR Plan (and either spending at or less than expense Plan) based on actuals and forecasted pipeline. | Identify and isolate the expense difference. We analyze the impact to our key metrics and FY23 and collectively as an eGroup evaluate whether we reallocate the dollars. |
+| Trending ahead of ARR Target and have confidence we will sustain based on actuals and forecasted pipeline. | Review FY23 impact and decide as an eGroup where to invest ahead of FY23 |
 
 ## Investor and Board Communication
 
@@ -339,23 +350,23 @@ Throughout the year the Executive Business Partner team puts together a calendar
 
 Below is a table showing the structure of GitLab departments as they exist in NetSuite. Please [check out the Team Page](/team/chart) to see our org chart.
 
-|Cost of Sales        |Sales               |Marketing                 |R&D                    |G&A | GitLab.com | GitHost |
-|:------:             |:------:            |:------:                  |:------:               |:------:|:------------: | :------------: |
-|Education Delivery   |Business Development|Content Marketing         |Product Strategy       |Business Operations|
-|Consulting Delivery  |Channel             |Sales Development         |Infrastructure         |CEO        |
-|Customer Support     |Commerical Sales    |Field Marketing           |Development            |Finance    |
-|                     |Practice Management |Partner Marketing         |Quality                |People Success |
-|                     |Customer Success    |Strategic Marketing       |Security               |Recruiting |
-|                     |Enterprise Sales    |Brand & Digital Design    |UX                     |Legal           |
-|                     |Field Operations    |Marketing Ops             |Product Management     |Accounting            |
-|                     |                    |Inbound Marketing         |                       | |  
-|                     |                    |Campaigns                 |                       | |
-|                     |                    |Digital Marketing         |
-|                     |                    |Owned Events              | | |
-|                     |                    |Sponsored Events          | | |
-|                     |                    |Community Relations       | | |
-|                     |                    |Communications         | | |
-|                     |                    |Awareness                 | | |
+|    Cost of Sales    |        Sales         |       Marketing        |        R&D         |         G&A         | GitLab.com |
+| :-----------------: | :------------------: | :--------------------: | :----------------: | :-----------------: | :--------: |
+| Education Delivery  | Business Development |   Content Marketing    |  Product Strategy  | Business Operations |
+| Consulting Delivery |       Channel        |   Sales Development    |   Infrastructure   |         CEO         |
+|  Customer Support   |   Commerical Sales   |    Field Marketing     |    Development     |       Finance       |
+|                     | Practice Management  |   Partner Marketing    |      Quality       |   People Success    |
+|                     |   Customer Success   |  Strategic Marketing   |      Security      |     Recruiting      |
+|                     |   Enterprise Sales   | Brand & Digital Design |         UX         |        Legal        |
+|                     |   Field Operations   |     Marketing Ops      | Product Management |     Accounting      |
+|                     |                      |   Inbound Marketing    |                    |                     |
+|                     |                      |       Campaigns        |                    |                     |
+|                     |                      |   Digital Marketing    |
+|                     |                      |      Owned Events      |                    |                     |
+|                     |                      |    Sponsored Events    |                    |                     |
+|                     |                      |  Community Relations   |                    |                     |
+|                     |                      |     Communications     |                    |                     |
+|                     |                      |       Awareness        |                    |                     |
 
 
 ## By Function - Where GitLabbers Report
@@ -378,98 +389,11 @@ Below is a table showing the structure of GitLab departments as they exist in Ne
 |                    |Communications         | | |
 |                    |Awareness                 | | |
 
-
-### Monthly Investor Update
 ****
 
-Each month we send to our investors an update no later than the 10th day following the end of the month. For further reference see our [blog post](/blog/2018/10/17/how-we-keep-investors-in-the-loop/).
-#### Format
-1. Thanks
-1. Asks
-1. Key Metrics
-1. Lowlights
-1. Highlights
-1. Expectations (next month)
+### Quarterly Investor Update Process
 
-#### Process
-1. On the 1st day of the month, the FinOps lead prepares a draft of the previous months investor update in a google document and posts in the #investor-update slack channel.
-1. On the same day the draft is added to the #investor update slack channel, the FinOps lead will `@mention` e-group members with asks for topics related to the investor update agenda.
-1. The e-group members will have no later than the 9th of each month to review and add input.
-1. No later than the 10th of each month the will CEO send the update to the investor mailing list.
-1. Once the investor update is sent to the investor mailing list, the FinOps lead will add the current investor update to the #investor-update slack channel, along with highlight commentary on GitLab's operating metrics.
-
-#### Relevant Locations for Investor Update Process
-
-##### Revenue Model & Metrics Tab within the Financial Model
-
-**1: Sales Metrics 2019 Monthly Metrics**
-* Gross New IACV → New IACV (Revenue Model)
-* Gross Growth IACV → Growth IACV (Line 14 Revenue Model)
-* Expiring Subscriptions gets updated once every 3 months
-* Won Renewal ACV → Renewal ACV (Line 8 Revenue Model)
-* Lost Renewals ACV + Growth Downgrade IACV + Growth Refund IACV + New Refund IACV + New Downgrade IACV → Lost Renewals, Credits, Downgrades (Line 11 Revenue Model)
-* Update new month with % of Lost Renewals, Credits, Downgrades
-* TCV --> filter out Professional Services, sum all relevant information, & in Revenue Model paste number in Line 34 for TCV
-* Double check to see if Revenue model Net IACV = Net IACV in Sales Metrics Sheet
-* Note: ACV on Sales Metrics Sheet will not equal ACV on Revenue Model because of Professional Services in the Sales Metrics Sheet
-
-**2: Sisense**
-* Exit ARR --> Filter data by current MRR month & then sum using (=subtotal(109, ARR column))
-* Retention
-* Licensed Users --> Make sure EDU & OSS are excluded
-* Active Hosts
-* Customer Count By ARR
-
-**3: Metrics Report (SFDC)**
-* Gives an overview of what happened within the stated month
-
-**4: All Pipeline Report (SFDC)**
-* Relevant number is the Grand Total Sum
-* Make sure the month is correct
-
-**5: Late Stage Report (SFDC)**
-* Relevant number is the Grand Total Sum
-* Make sure the month is correct
-
-**6: Orders Processed Report (SFDC)**
-* Ensure that closed deals are updated for the month (Bottom of Funnel Forecast Line 56 - 64)
-
-**7: Revenue Spreadsheet sent from Controller**
-* Non-GAAP Revenue -> Pull grand total and input into Line 29 in Revenue Model
-
-**8: Cash Flow Forecast (Accounting Will Send Over -- typically within the 4th of the Month)**
-* Step 1: Find Ending Balance for Latest Month (Line 60)
-* Step 2: Add to Financial Model Balance Sheet
-
-**9: Pingdom**
-* GitLab.com Availability, Response Time
-
-**10: LTV for Metrics**
-* LTV with DCF Tab (Line 116)
-* Go back to the Metrics Tab (Current Month and 2 Months Prior -- get the average)
-* Put that average number * .90 (GM) in Line 116
-* Pull LTV number into Line 123 & input into Financial Model
-
-**11: BambooHR**
-* To get updated team members number -- check Income Statement Monthly
-* If not updated within IS Monthly, go to BambooHR and pull actuals --> Put new numbers into IS Monthly (Lines 47 - 51)
-
-**12: Zendesk**
-* Step 1: Reporting --> Insights
-* Step 2: Corp Dash - OKR Overview should have the relevant information for Customer Support
-* Put them in the metrics tab (Line 8,9,& 10)
-
-**13: Snowflake**
-* Get GitLab.com Licensed Users --> Filter down by product category (Bronze, Silver, & Gold) --> Get grandtotal of each category and overall
-* Additionally, Add Revenue for each Product in the GitLab.com Model --> Information comes from Revenue spreadsheet listed above (Number 7)
-
-**14: Sales Pipeline Analysis**
-* Model is being updated & TBD
-
-#### Once Metrics & Financial Model Are Completed for Investor Update Process
-* Add relevant numbers to the GitLab.com & GitLab Allocation Model
-* Copy All of Metrics Tab in the Financial Model & Paste it in Static Metrics Sheet
-* *Note:* Remember to remove forecast, format new month to actual (from orange to light blue), copy/paste hyperlinks for names within static sheet, & anything in the previous month that was italicized needs to be back to normal.
+GitLab provides our investors updated information on the state of the business on a quarterly basis. The update includes highlights,lowlights, and what we're focusing on for the next quarter.
 
 ****
 
@@ -593,7 +517,7 @@ GitLab maintains a financial model and communicates high level financials five y
 
 #### Integrated Financial Model
 
-GitLab's [integrated financial model](/handbook/finance/financial-planning-and-analysis/#gitlab-integrated-financial-model) is synonymous to its operating plan, but the integrated financial model is based soley on [business drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers). The integrated financial model dynamcially answers questions like “What are our limits in comparison to the total addressable market?” and provides "What-if" scenarios. The integrated financial model also helps set the long term profitablity goals. GitLab has established business drivers in each function of the business and continues to refine them to ensure its tracking accordingly. The integrated financial model can also be considered a top-down plan.
+GitLab's [integrated financial model](/handbook/finance/financial-planning-and-analysis/#gitlab-integrated-financial-model) is synonymous to its operating plan, but the integrated financial model is based soley on [business drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers). The integrated financial model dynamcially answers questions like “What are our limits in comparison to the total addressable market?” and provides "What-if" scenarios. The integrated financial model also helps set the long term profitability goals. GitLab has established business drivers in each function of the business and continues to refine them to ensure its tracking accordingly. The integrated financial model can also be considered a top-down plan.
 
 #### Forecasting Growth Using a Growth Persistence Model
 
@@ -607,12 +531,6 @@ Business drivers are the key inputs and activities that drive the operational an
 
 ## Long Term Targets
 
-Our long term profitability target for EBITA (Earnings Before Interest Taxes and Amortization) is 20% of revenue.
-Other financial planning targets are described in the divisional area (e.g. sales, marketing, development, etc.) in this handbook. We plan to achieve our long term profitability target as our revenue growth rate approaches 30%.
-The long term target for operating expenses as a percentage of revenue for G&A is 10%.  
-The long term target for R&D spend is 20%. We expect it to take longer to reach the long term target compared to typical companies as we plan to continue to invest in R&D to drive higher than average growth.
-We have a large TAM at $60B and believe that high sustained growth rates will allow us to capture a larger percentage of market share compared to our competitors.
-
 | Division | Long Term Target  |
 |---|---|
 | Cost of Sales  |15% of Revenue   |
@@ -622,25 +540,6 @@ We have a large TAM at $60B and believe that high sustained growth rates will al
 | G&A  | 10% of Revenue  |
 | **Total**  | **80% of Revenue**  |
 
-
-## Where to find our Models?
-1. GitLab Financial Model:  Google Drive -- FP&A >> Models >> GitLab Financial Model
-2. Revenue Model: Google Drive -- FP&A >> Models >> Revenue Model
-3. Capacity Model(s): Google Drive -- FP&A >> [FBP - Function Owner Folder, i.e S&M] >> Planning >> Capacity Model
-4. Rolling 4 Quarter Forecast sheets: Google Drive -- FP&A>> Planning >> [Current Fiscal Year] >> [Current Fiscal Year] Plan >> [Quarter-Year thru Quarter-Year]]
-5. Rolling 4 Quarter Forecast Feed sheets for Program Spend & Team: Google Drive -- FP&A>> Planning >> Financial Model >> Feed Sheet
-6. Budgets vs. Actuals: Google Drive -- FP&A>> [FBP - Function Owner Folder, i.e S&M]>>  Budget vs. Actuals >> [Current Fiscal Year] >> Dashboard File
-
-## How To Add A New Department into Models
-1. Create new departments in each of the R4QF spreadsheets (Programs & People) feed
-2. Make sure the new department is rolled up into [Department] tab onto both of the feeds. Right now, you would need to add ’New Department’A5:AF! to the [Department] tab because currently it’s only referring to current departments
-3. Add new department to Headcount rollup
-4. Make sure the new department is in the Compensation, Base Salary, Benefits, and T&E tabs of the Capacity model
-5. The New Department needs to be added to the Account Based Department Budgets tab
-6. Ping Financial Analyst in order for the new department to be added in the Allocation Accounts tab and Department Post Allocated Budgets tab in GitLab Financial Model
-7. Everything else should flow through after that
-
-For new department approvals and more detail on the process, please reach out on the #fpanda channel in Slack for desktop procedures.
 
 ## Department Structure
 
@@ -659,7 +558,7 @@ Below is a table showing the structure of GitLab departments as they exist in Ba
 
 At GitLab, the lowest level of tracking reporting structure starts with departments. For reporting and accounting purposes, departments are assigned both a cost center and a division.  In certain cases, a department may span multiple cost centers based on GitLab's allocation methodology.
 
-The cost center, divison, and department reporting structure can be found in the Data Team repo located below. In efforts to keep a single source of truth for organizational and reporting purposes, the Data Team maintains any changes implemented by the FP&A team as a result of an organizational change.
+The cost center, division, and department reporting structure can be found in the Data Team repo located below. In efforts to keep a single source of truth for organizational and reporting purposes, the Data Team maintains any changes implemented by the FP&A team as a result of an organizational change.
 
 [Cost & Reporting Structure](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/data/cost_center_division_department_mapping.csv)
 
@@ -675,6 +574,9 @@ A grouping of departments in which specific activities are carried out within Gi
 
 An area of special expertise or responsibility within a GitLab division.
 
+## Adaptive Insights
+We produce all our forecasts and plan within Adaptive Insights. To see more details, [see here](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/adaptive-insights/)
+
 ## Allocation Methodology
 
 GitLab allocates cost items based on consumption of resources or headcount. Below are the workflow and diagrams that illustrate how various cost items are allocated:
@@ -687,13 +589,13 @@ The grid highlighted as `Pre-Allocation P&Ls` in the diagram below highlights wh
 
 #### Allocation Methodology
 
-The grid highlighted as `Allocation Methodology` in the diagram below highlights the specifc processes that occur in order to achieve proper expense allocations to their respective Cost Centers.
+The grid highlighted as `Allocation Methodology` in the diagram below highlights the specific processes that occur in order to achieve proper expense allocations to their respective Cost Centers.
 
 ###### Step 1: Yellow Process
 
 The allocation methodology is applied to the G&A Company Allocation department. Items that are recorded to the G&A Company Allocation department are software expenses and one off expenses. The software expenses are for software used by the entire company (examples include gmail and slack). At times one off expenses are also recorded to the G&A Company Allocation department (examples include Contribute, payroll service fees, etc).
 
-While credit card processing fees are not allocated company wide, it is important to call out the distinction of applying credit card processing fees to Sales. GitLab does not consider credit card processing a cost to it's product or service. GitLab believes that its credit card processing fees are more appropriately classified as marketing and selling expense because these fees are related to the cash collection process for completing customer orders, which supports sales and marketing classification.
+While credit card processing fees are not allocated company wide, it is important to call out the distinction of applying credit card processing fees to Sales. GitLab does not consider credit card processing a cost to its product or service. GitLab believes that its credit card processing fees are more appropriately classified as marketing and selling expense because these fees are related to the cash collection process for completing customer orders, which supports sales and marketing classification.
 
 **Note:** One thing to note during the Yellow Process is the Infrastructure expenses are removed. Infrastructure is allocated during the next phase of the allocation cycle. Therefore no shared expenses will hit the Infrastructure P&L.
 
@@ -779,31 +681,12 @@ The grid highlighted as `Pre-Allocation P&Ls` in the diagram below highlights th
 
 [![alt text](/handbook/finance/financial-planning-and-analysis/allocate.png "P&L Breakout")](https://drive.google.com/drive/folders/1hPZll6nWRk5waMTATJV9f4TojCSTxpCI)
 
-## Misc
-
-### Creating & Updating Models
-
-If you create and/or update to a model that materially impacts it, please make sure to make a quick note of what you did in the [ChangeLog](https://gitlab.com/gitlab-com/finance/blob/master/changelog.md). This is important because it keeps us on all the same page.
-
-**Note: At this time, GitLab use's the term `Division` to describe the makeup of its internal structure. In the future, the plan is to use the term `Function` to describe it's internal structure.**
-
-
-### Updating Budget vs. Actuals
-****
-
-1. Open file: FP&A > Templates > Corporate F&A > Open 'Budget vs. Actual' Blank File GSheet
-*  Please note that Budget vs. Actuals for all departments already exist within the FP&A Shared Drive
-2. Open Netsuite and go to Budget vs. Actual report
-*  Download the spreadsheet and copy & paste into the relevant month (e.g. For March 2019, paste into the March 2019 BvA Tab)
-3. Open Netsuite and go to 'Income Statement Detail with JE name data' report
-*  Copy / paste spreadsheet into the relevant month (e.g. For March 2019, paste into the March 2019 Detail Tab)
-4. Once these spreadsheets are loaded in the spreadsheet, the numbers should auto-populate for the relevant months
 
 ## How to work with us
 
 ### On issues
 
-Issues the FP&A team works on have the `~"FP&A"` label.  This applies to both the Finance and Analytics Issue Trackers. This will ensure that expectations are set accordingly and the work gets delievered in a timely and professional way.
+Issues the FP&A team works on have the `~"FP&A"` label.  This applies to both the Finance and Analytics Issue Trackers. This will ensure that expectations are set accordingly and the work gets delivered in a timely and professional way.
 
 The Analytics part of the FP&A team focuses on delivering project based works and at times will assist with ad-hoc analysis.
 
@@ -842,8 +725,8 @@ The FP&A Team uses GitLab's Engineering methodology to hold the Retrospectives, 
     - Having a templated calendar invite helps save time. There will be multiple folks involved in the process, broken out by each function.
     - It also helps if the Rolling 4 Quarter Forecast models are up to date prior to meeting. This would include the current team, planned hires, and program spend so leaders have a clear guide during the meeting. It won't be perfect and will inevitablty change during or shortly after the meetings, but this is an efficient way to make the meetings productive.
     - Meeting with the function leads after the department leads help tie everything together. However, if possible, it can be beneficial to meet with the function leads before and after to ensure buy in and close any gaps.
-- When applicable, it is important to always include the function operation leads to the meetings so they can help faciliate any work or changes during or after the meetings.
+- When applicable, it is important to always include the function operation leads to the meetings so they can help facilitate any work or changes during or after the meetings.
 - Continously gather feedback from stakeholders on what can be done more efficient
 - Planning is a team sport. It requires effort and communication on all sides to make it work well. Build the relationships, be patient, and be humble as some folks have less experience with planning while others have a lot of experience.
 
-**Note: During the last quarter of the year, GitLab runs a 5 quarter forecast that aligns with it's annual planning efforts.**
+**Note: During the last quarter of the year, GitLab runs a 5 quarter forecast that aligns with its annual planning efforts.**
