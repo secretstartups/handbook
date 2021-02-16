@@ -129,8 +129,9 @@ Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](peopleops@gi
 
 ### Administration of Your 4th Trimester 
 
-1. Once a completed form has been sent to Total Rewards, the team will process for final approval. 
-1. When all signatures are complete, Total Rewards will file the form in BambooHR. 
+1. When a new Your 4th Trimester request comes through, Total Rewards will be tagged on the "Growth & Development Benefit Log".
+1. Download the team member's agreement from the "Populated Agreements" folder. Delete the `Agreement` paragraph, `Manager Business Rationale` field, `People Business Partner` field and `C Level` field. Stage the agreement for the team member and manager to sign. 
+1. Update the Status column on the log once the agreement is staged and once the form has been signed (change to "In Progress").
 1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia and some cases in Belgium), notify payroll.
 1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
 
