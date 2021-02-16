@@ -329,7 +329,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
    Thanks, xxx
 
 #### Reqs going Outbound to Inbound (DRI: CES Team)
-1. Once the req hits it’s 30 day outbound limit, the recruiter should tag CES in the req stating that this role will be going inbound. The recruiter will need to tell CES if there is a specific location the role needs to be “advertised” in if it's not specified in the job title.
+1. Once it's been decided that the req is ready to go inbound, the recruiter should tag CES in the req. The recruiter will need to tell CES if there is a specific location the role needs to be “advertised” in if it's not specified in the job title.
 
 1. The CES will make sure this role is added to LinkedIn, you'll need to add a Job Wrapping tag to the source code.
 
