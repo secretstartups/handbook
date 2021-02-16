@@ -82,7 +82,7 @@ On the [team page](/company/team), you can see who is willing to be a mentor by 
 Completing an internship through this program does not guarantee an internal transfer. For example, there may not be enough
 allocated headcount in the time-frame in which you complete your internship.
 
-If at the end of your internship, you are interested in transferring teams please follow the guidelines in [Internal Department Transfers](#internal-department-transfers).
+If at the end of your internship, you are interested in transferring teams please follow the guidelines in [Internal Department Transfers](/handbook/people-group/promotions-transfers/#internal-department-transfers).
 
 ##### Starting Your New Internship
 
