@@ -226,7 +226,7 @@ The homepage hero is updated frequently to promote new content, events, and anno
 
 ### Requesting content and copy reviews
 
-1. Use the [editing request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#). 
+1. Use the [editing request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=editing-request). 
 
 ## Content production
 
