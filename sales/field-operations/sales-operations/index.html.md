@@ -224,6 +224,42 @@ Contacts, and Leads, Verify and Save)
 
 </details>
 
+<details>
+<summary markdown='span'>
+  Steps to update existing reports with ARR fields
+</summary>
+
+
+Below are the steps to update and/or replace ACV with ARR in existing SFDC reports and dashboards.
+ 
+1. **Step 1:** Navigate to the report that needs to be updated 
+1. **Step 2:** Click on the **Customize** button to make edits
+1. **Step 3:** In the **Preview** section of your report, click on the carrot next to **Show** and make sure  Details has been selected.  This will populate all the fields currently added to your report.
+1. **Step 4:** In the **Fields** panel on the left side of your screen, enter “ARR” into the Quick Find search to populate available ARR fields
+1. **Step 5:** Drag the ARR field(s) you want to add to your report from the **Fields** panel and drop into the reporting grid
+1. **Step 6:**  Once your ARR field has been added to the report grid, hover over the name and select the carrot.  From there choose the **Summarize this field** option and check the applicable summary option(s). Select **Apply**
+1. **Step 7:** Remove any old IACV fields by dragging them from the report grid to the **Fields** panel OR hover over the name and choose **Remove Column** from the drop down list
+1. **Step 8:** If there is a chart or a graph associated with your report that has been edited, you should also edit the chart to reflect your field changes. After you have added and summarized the Net ARR field, Select **Edit** on the very left corner of the chart. On the pop-up screen, change the data that is populated as Sum of Net IACV/Incremental ACV to Sum of Net ARR from the drop down list and Select **Ok**.
+1. **Step 9:** When you’ve added and removed all appropriate fields, click the **Run Report** button at the top of your screen.
+1. **Step 10:** On the following screen, review your changes to ensure the report is functioning as you expect (select the **Hide Details** button if you don’t want to see all fields) and click the **Save** button. 
+1. **Step 11:** In many cases, no changes need to be made to the name or location of the report so choose **Save** or **Save & Return to Report** to complete the final step.  However, if the report name references IACV in any capacity, please update the report name to the corresponding ARR from the **Report Properties** tab at the top before your final Save option.
+
+**Common fields that need to be updated**
+
+
+| **Existing Field Name** | **Field to Replace With** | 
+| ----------------------- | ----------------------- | 
+| Net IACV                | Net ARR                 | 
+| Incremental ACV         | Net ARR                 | 
+| Renewal ACV             | ARR Basis               | 
+
+**Resources**
+
+- Please take a moment to review this quick **video outlining the steps above**: https://www.screencast.com/t/dJxbf069 
+- Refer to the [ARR in Practice handbook page](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#net-arr) for **additional information on ARR** 
+- If you **need help** updating the report or walking though these steps, please slack us with a link to the SFDC report in the `#sales-support` Slack channel
+
+
 ## **How we work**
 
 - [Sales Operations Agile Board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1655825?label_name[]=SalesOPS)
