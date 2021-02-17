@@ -51,6 +51,7 @@ We hope that managers can find a day or time at least 1x per quarter to attend!
 | 1st month of the quarter | Third Wednesday | L&D led conversation |
 | 2nd month of the quarter | Third Tuesday | independent manager conversation |
 | 3rd month of the quarter | Third Thursday | independent manager conversation |
+
 Note: Due to a planned commitment by the L&D team, the first session will be held on the last Wednesday of February 2021. In future quarters, the call will be hosted based on the cadence above.
 
 ## Attendance
