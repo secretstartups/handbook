@@ -43,6 +43,11 @@ There are three recommended books to be read by every product manager at GitLab:
 ##### Books
 
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
+- [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
+
+##### Online courses 
+
+- [Continuous Interviewing by Product Talk](https://learn.producttalk.org/p/continuous-interviewing)
 
 #### Jobs to be done 
 
@@ -51,6 +56,8 @@ There are three recommended books to be read by every product manager at GitLab:
 ##### Videos
 
 ##### Books
+
+- [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
 
 #### Lean product development
 
@@ -72,19 +79,6 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
 
-
-#### General guidance
-
-##### Online courses 
-
-- [Continuous Interviewing by Product Talk](https://learn.producttalk.org/p/continuous-interviewing)
-
-##### Books
-
-- [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
-
-- [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
-
 ### Build Track Skills
 
 #### User stories
@@ -98,7 +92,6 @@ There are three recommended books to be read by every product manager at GitLab:
 ##### Books
 
 - [Jeff Patton: User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
-- [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
 #### Backlog management
 
@@ -106,13 +99,11 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Videos
 
-- Prioritization: [Kevin Chu: Ruthless Prioritization (Article)](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) 
+- [Brandon Chu: Ruthless Prioritization (Article)](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) 
 
 ##### Books 
 
-#### General guidance
-
-##### Online courses 
+- [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
 ##### Books
 
