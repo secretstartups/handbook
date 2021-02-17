@@ -32,9 +32,7 @@ There are three recommended books to be read by every product manager at GitLab:
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
      - [Related live talk by author](INSERT LINK TO VIDEO)
 
-## Validation Track Skills
-
-### Specific topics
+### Validation Track Skills
 
 #### Research and discovery
 
@@ -87,9 +85,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
 
-## Build Track Skills
-
-### Specific topics
+### Build Track Skills
 
 #### User stories
 
@@ -120,9 +116,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-## Business Skills
-
-### Specific topics
+### Business Skills
 
 #### Competitive analysis
 
@@ -140,9 +134,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-## Communication Skills
-
-### Specific topics
+### Communication Skills
 
 #### Stakeholder management
 
@@ -160,9 +152,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-## People Management Skills
-
-### Specific topics
+### People Management Skills
 
 #### Cross-functional team management
 
