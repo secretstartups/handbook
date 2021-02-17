@@ -731,6 +731,17 @@ The [`/resources`](/resources/) section of the website contains downloadable fil
 
 6. **Selecting topics & solutions**: The code snippet above provides all of the current topics and solutions; chose the topics and solutions that best apply to the content. Please note they are case sensitive and incorrect casing or spelling will result in the generation of new, unwanted, topics and/or solutions.
 
+### Netlify CMS 
+
+The Digital Experience team is [incrementally adopting Netlify CMS](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/220) for the marketing website. It offers a more user-friendly way of editing the marketing site, but comes with some limitations:
+
+- It is only available to GitLab team members with direct access to this repository (community members who are working off forked repositories cannot yet access it).
+- It is not yet available for all content in the marketing site.
+- It does not have fields for all types of content yet.
+- There are remaining implementation bugs and errors. 
+
+Read the [Netlify CMS handbook page](/handbook/marketing/netlifycms/) for up to date directions and status of the system. 
+
 ## Creating and publishing your GitLab README
 
 As part of GitLab's [transparency](/handbook/values/#transparency) value, we encourage each GitLab team member to consider adding a README — a great tool for transparently letting others know what it's like to work with you, and how you prefer to be [communicated](/company/culture/all-remote/effective-communication/) with.
