@@ -1,8 +1,3 @@
----
-layout: handbook-page-toc
-title: SA Practices
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
