@@ -55,7 +55,7 @@ All GitLab team members are eligible for the [Referral Bonus](/handbook/incentiv
 
 #### Submitting a Referral
 
-All GitLab Team Members can submit a referral by either submitting them directly through Greenhouse - if the vacancy is open **externally** - or by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission) if the vacancy is open **internally**. If the vacancy is posted externally, we ask that you please submit the referral via Greenhouse. Below are the steps for each:
+All GitLab Team Members can submit a referral by either submitting them directly through Greenhouse - if the vacancy is open **externally** - or by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission) if the vacancy is open **internally**. We ask that you please try to submit the referral in Greenhouse first and, in the event that you can't find the vacancy, use Issues as the second option.
 
 ##### Submitting a Referral in Greenhouse
 
