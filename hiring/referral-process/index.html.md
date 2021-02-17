@@ -55,7 +55,20 @@ All GitLab team members are eligible for the [Referral Bonus](/handbook/incentiv
 
 #### Submitting a Referral
 
-All GitLab Team Members can submit a referral by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission). Here's how to do that:
+All GitLab Team Members can submit a referral by either submitting them directly through Greenhouse - if the vacancy is open **externally** - or by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission) if the vacancy is open **internally**. If the vacancy is posted externally, we ask that you please submit the referral via Greenhouse. Below are the steps for each:
+
+##### Submitting a Referral in Greenhouse
+
+1. Login to Greenhouse and click the `+` icon in the top right corner, then `Add a Referral`.
+    * There's also an `Add a Referral` section on your dashboard and that'll take you to the same page.
+1. Fill-in all the required fields (designated by a red asterick) and as many of the non-required fields as possible. 
+    * Of note:
+        * When selecting a `Job` from the dropdown, make sure that an `Office` is **not** selected.
+            * If you **don't** see the desired vacancy there, please check the [Internal Job Board](https://gitlab.greenhouse.io/internal_job_board). If the vacancy is there, please [submit an Issue](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/hiring/referral-process/index.html.md#submitting-a-referral-via-an-issue).
+        * While the `Social media` field is not required, we highly encourage that the referral's LinkedIn URL is provided.
+1. Click `Add this referral` and you'll see the referral in the `My Referrals` section of your dashboard.
+
+##### Submitting a Referral via an Issue
 
 1. [Create a new issue](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission) in the Referrals Project and ensure the *Referral Submission* template is loaded.
 1. Please be mindful of **required** fields and selecting the appropriate checkbox, where applicable.
