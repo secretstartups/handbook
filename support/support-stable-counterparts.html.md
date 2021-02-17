@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Stable Counterparts
-description: The motto of this page is to give an overview and outline the expectations of the Support Stable Counterparts initiative.
+description: The purpose of this page is to give an overview and outline the expectations of the Support Stable Counterparts initiative.
 ---
 
 ## On this page
@@ -115,44 +115,3 @@ If you're interested in becoming a stable counterpart for a group,
 
 Note: We encourage having more than 1 SSC for a group - so if the group you are interested in already has an SSC, don't let that deter your interest!
 
-## Cross Functional Non-Product Counterparts
-
-Some functions don't fit as cleanly into the Support Stable Counterparts model. As such we have support counterparts for non-product areas to help surface issues and smooth the interface between such groups. If you're missing from this list (and want to be on it) please let the Support Managers know in `#spt_managers`.
-
-| Section    | Group               | Group Contact       | Support Manager     | Support Counterpart        | Frequency                         |
-|:----------:|:-------------------:|:-------------------:|:-------------------:|:--------------------------:|:---------------------------------:|
-| UX         | UX                  | Christie Lenneville | Lyle Kozloff        | Cynthia Ng                 | weekly team meeting |
-| UX         | Docs/Tech Writing   | Mike Lewis          | Tom Atkins          | Cynthia Ng                 | weekly team meeting |
-| Production | .com Infrastructure | Dave Smith          | Lyle Kozloff        | Vlad Stoianovici           | every 2 weeks |
-| Security   | Abuse               | Roger Ostrander     | Lyle Kozloff        | Greg Myers                 | N/A |
-| Security   | Security Operations | Jan Urbanc          | Lyle Kozloff        | Brie Carranza              | N/A |
-| Performance| Performance         | Stan Hu             | Lee Matos           | N/A                        | N/A |
-| Legal      | Legal               | Robin Schulman      | Lyle Kozloff        | N/A                        | N/A |
-| Finance    | Budget              | Chase Wright        | Tom Cooney          | N/A                        | 1x Qtr on budget + once per month |
-| Finance    | Accounts            | Cristine Tomago     | TBD                 | N/A                        | N/A |
-| PeopleOps  | Recruiting          | Cyndi Walsh         | Tom Cooney          | N/A                        | weekly |
-| PeopleOps  | After-hire care     | Jessica Mitchell    | Tom Cooney          | N/A                        | every 2 weeks |
-| Sales      | Sales               | TBD                 | Mike Dunninger      | N/A                        | TBD |
-| Sales      | Customer Success    | Kristen Lawrence    | Tom Atkins          | N/A                        | weekly on Fri join EMEA scrum |
-| Sales      | Community Relations | David Planella      | Tom Atkins          | Greg Myers                 | weekly team meeting |
-
-If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
-
-### Open Source Support Liaison
-
-The Open Source Support Liaison (OSS Liaison) role is a specialized type of Cross-Functional Support Counterpart role
-that assists GitLab's Open Source Partners with technical questions, problems, and needs.
-
-The OSS Liaison role has three main functions - building rapport, providing assistance, and making connections.
-
-OSS Liaisons sit in on meetings and attend Q&A sessions with open source partners to build rapport, address technical
-questions, and nurture a thriving relationship. When Open Source partners are in need of technical support or assistance
-with GitLab, an OSS Liaison serves as a point of contact on the Support team. As a point of contact, OSS Liaisons assist
-with basic technical support questions or escalate internally and find others to assist with more complicated technical
-problems. OSS Liaisons also subscribe to notifications on issues created by partners and help by getting other team
-members or teams involved in finding solutions.
-
-Familiarity with open source concepts, licenses, and communities is recommended.
-
-If you're on the Support Team and would like to be an Open Source Support Liaison, post in `#spt_managers` and reach out
-to GitLab's Open Source Program Manager (`@nuritzi`).
