@@ -20,7 +20,7 @@ Welcome to Learning and Development for Product Management at GitLab! Here you'l
 There are three recommended books to be read by every product manager at GitLab:
 
 - **[Marty Cagan: Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)** Provides a generic overview about Product Management
-     - [Related live talk by author](INSERT LINK TO VIDEO)
+     - [Related live talk by author](https://www.mindtheproduct.com/video-the-root-causes-of-product-failure-by-marty-cagan/)
 
 - **[Melissa Perry: Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/)** Describes how to build and operate a successful product team
      - [Related live talk by author](https://www.mindtheproduct.com/escaping-build-trap-melissa-perri/)
