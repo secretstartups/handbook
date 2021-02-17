@@ -87,7 +87,7 @@ Marketing attribution is the process of assigning revenue credit to a marketing 
 
 [Here](https://www.bizible.com/blog/marketing-attribution-models-complete-list) is Bizible's breakdown of the major attribution models. 
 
-**Note: GitLab uses [Linear Attribution](/handbook/marketing/marketing-operations/bizible#linear-attribution) as our source of truth, the other models are there for comparitive analysis.**
+**Note: GitLab uses a blended approach when it comes to attribution models. The Custom Attribution Model (Based on Bizible Machine Learning) is going to be used side-by-side the other attribution models in order to get us closer to the "true" attribution answer.**
 
 Below are the major attribution models that GitLab marketing uses of that list: 
 
