@@ -149,6 +149,8 @@ You can add a favicon by dragging and dropping the GitLab favicon ![favicon](/ic
 
 GitLab team member [Simon M.](https://gitlab.com/simon_mansfield) also recorded the following video to walk through the process of searching GitLab like a pro using Alfred and Firefox.
 
+There is also [a repo maintained by GitLab team members](https://gitlab.com/gitlab-org/alfred) with GitLab related workflows.
+
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/tu7YHZAKKN8" frameborder="0" allowfullscreen="true"> </iframe>
