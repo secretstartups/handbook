@@ -118,38 +118,82 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-### Business Skills
+## Business Skills
 
-Introductory material: [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/)
+### Specific topics
 
-- **[Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intangibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)** Presents how to approach data-driven decision making without a degree in statistics
+#### Competitive analysis
 
-Online course: [Defining Outcomes by Product Talk](https://learn.producttalk.org/p/defining-outcomes)
+##### Quick reads
 
-Specific topics:
+- [Stop Ignoring Your Competitors...](https://producthabits.com/competitor-analysis/)
 
-- Competitive Analysis: https://producthabits.com/competitor-analysis/
+##### Videos
 
-### Communication Skills
+##### Books
 
-Introductory material: 
+#### General guidance
 
-Recommended book: 
+##### Online courses 
 
-Online course:
+##### Books
 
-Specific topics:
-- Stakeholder Management: [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
+## Communication Skills
 
-### People Management Skills
+### Specific topics
 
-Introductory material: [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/) or [in video](https://www.youtube.com/watch?v=pAbU3WJ-NBw)
+#### Stakeholder management
 
-Recommended book: [Kim Scott: Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE) and [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
+##### Quick reads
 
-Online course:
+##### Videos
 
-Specific topics:
+- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
+
+##### Books
+
+#### General guidance
+
+##### Online courses 
+
+##### Books
+
+## People Management Skills
+
+### Specific topics
+
+#### Cross-functional team management
+
+##### Quick reads
+
+##### Videos
+
+##### Books
+
+#### General guidance
+
+##### Online courses 
+
+##### Books
+
+#### Direct team management
+
+##### Quick reads
+
+- [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
+
+##### Videos
+
+- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw)
+
+#### General guidance
+
+##### Online courses 
+
+##### Books
+
+- [Kim Scott: Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)
+- [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
 
 ## Socializing in Product
 
