@@ -123,7 +123,7 @@ Monitoring application performance and feedback is a most critical step in the D
 #### Portfolio Management
 The goal of portfolio management is to determine the optimal resource mix for delivery and to schedule activities to best achieve an organization’s operational and financial goals, while honoring constraints imposed by customers, strategic objectives, or external real-world factors. Examples in GitLab include epics, roadmaps, and milestones. Analyst Coverage: Gartner EAPT, Forrester. GitLab does Agile project mgmt, not Portfolio Mgmt at this time.
 
-#### Incident Management
+#### [Incident Management](/handbook/marketing/strategic-marketing/usecase-gtm/incident-management/)
 I need a platform that consumes alerts from my monitoring stack and provides me with tools to take action on the critical ones by creating incidents. This tooling would allow us to triage, troubleshoot, remediate, and optimize to reduce risk of future incidents.
 
 
