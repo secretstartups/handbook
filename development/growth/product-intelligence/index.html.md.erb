@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Product Intelligence Groups
-description: "The Product Intelligence groups work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
+title: Product Intelligence Group
+description: "The Product Intelligence group work on feature enhancements and implementing privacy focused product analytics across GitLab projects"
 ---
 
 ## On this page
@@ -12,9 +12,8 @@ description: "The Product Intelligence groups work on feature enhancements and i
 
 ## Vision
 
-The Product Intelligence Groups are part of the [Growth section](/handbook/engineering/development/growth/).
+The Product Intelligence Group is part of the [Growth section](/handbook/engineering/development/growth/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Product Intelligence enables us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Product Intelligence Direction page](/direction/product-intelligence/).
 
-Product Intelligence Group is responsible for the collection and analysis of data to improve GitLab's product which includes being the primary caretaker of the versions app.
 
 How we work:
 - We work in accordance with our [GitLab values](/handbook/values/).
@@ -25,11 +24,11 @@ How we work:
 - Everyone can contribute to our work.
 
 **I have a question. Who do I ask?**
-Questions should start by @ mentioning the product manager for the [Product Intelligence Group](/handbook/product/categories/#product-intelligence-group) or by creating an issue in our [workflow board](/handbook/engineering/development/growth/product-intelligence/#workflow-boards).
+Questions should start by @ mentioning the product manager for the [Product Intelligence Group](/handbook/product/categories/#product-intelligence-group) or by creating an issue in our [issue board](/handbook/engineering/development/growth/product-intelligence/#issue-boards).
 
 ## Team members
 
-The following people are permanent members of the Product Intelligence Groups:
+The following people are permanent members of the Product Intelligence Group:
 
 <%= direct_team(manager_role: 'Fullstack Engineering Manager, Product Intelligence') %>
 
@@ -37,35 +36,52 @@ The following people are permanent members of the Product Intelligence Groups:
 
 Our team uses a hybrid of Kanban for our project management process. This process balances the continuous flow of Kanban with GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#monthly-releases).
 
-- We only work off of workflow boards which act as our single source of truth.
+- We only work off of issue boards which act as our single source of truth.
 - We continuously progress issues to the next workflow stage.
 - We work on both product and engineering initiatives.
 - We prioritize and estimate all issues we work on.
 - We apply milestones and labels for reporting purposes.
-- We have weekly refinement to ensure our workflow board is always kept up to date.
+- We have weekly refinement to ensure our issue board is always kept up to date.
 - We have monthly roadmap planning sessions.
 
-### Workflow stages
+### Workflow
 
-Our teams use the following stages defined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
+Our team use the following workflow stages defined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 
-- `~"workflow::validation backlog"`
-- `~"workflow::problem validation"`
-- `~"workflow::design"`
-- `~"workflow::solution validation"`
-- `~"workflow::planning breakdown"`
-- `~"workflow::ready for development"`
-- `~"workflow::In dev"`
-- `~"workflow::In review"`
-- `~"workflow::staging"`
-- `~"workflow::production"`
-- `~"workflow::blocked"`
+#### Validation stage
 
-We specifically pay close attention to the `Completion Criteria` and `Who Transitions Out`. We also emphasize having engineers involved earlier in the process to provide feedback in `~"workflow::design"`.
+| Label | Usage |
+| -- | -- |
+| `~"workflow::validation backlog"` | Applied by the Product Manager for incoming issues that have not been refined or prioritized. |
+| `~"workflow::problem validation"` | Applied by the Product Manager for issues where the PM is developing a thorough understanding of the problem |
+| `~"workflow::design"` | Applied by the Product Manager or Designer (or Product Intelligence Engineer) to ideate and propose solutions. The proposed solutions should be reviewed by engineering to ensure technical feasibility. |
+| `~"workflow::solution validation"` | Applied by the Product Manager or Designer (or Product Intelligence Engineer) to validate a proposed solution through user interviews or usability testing. |
 
-### Workflow boards
+#### Build stage
 
-We use workflow boards to track issue progress. Workflow boards are our single source of truth for the status of our work. Workflow boards should be viewed at the highest group level for visibility into all nested projects in a group.
+| Label | Usage |
+| -- | -- | -- |
+| `~"workflow::planning breakdown"` | Applied by the Product Manager on or before the 4th of the month signaling an intent to prioritize the issue for the next milestone. |
+| `~"workflow::ready for development"` |  Applied by Product Manager. Issue has been broken down and prioritized by PM for development. Issue also has a milestone assigned at this point. |
+| `~"workflow::in dev"` | Applied by the engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. | 
+| `~"workflow::in review"` | Applied by an engineer indicating that all MRs required to close an issue are in review. |
+| `~"workflow::verification"` | Applied by engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. | 
+| `~"workflow::blocked"` | Applied by any team member if at any time during development the issue is blocked. For example: technical issue, open question to PM or PD, cross-group dependency. |
+
+
+### Epic roadmap
+
+We use an epic roadmap to track epic progress on a quarterly basis. The epic roadmap is a live view of the [Product Intelligence Direction page](/direction/product-intelligence/).
+
+To keep things simple, we primarily use the [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group for our roadmap. If epics are created on the [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) and [gitlab.com/gitlab-services](https://gitlab.com/gitlab-services/) groups, we create placeholders of them on [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) so that all epics show up in a single roadmap view.
+
+| gitlab-org | gitlab-com | gitlab-services | all groups |
+| ------ | ------ | ------ | ------ |
+| [gitlab-org Epic Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%3Aproduct+intelligence) | [-](https://gitlab.com/groups/gitlab-com/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%3Aproduct+intelligence) | [-](https://gitlab.com/groups/gitlab-services/-/roadmap?state=opened&sort=start_date_asc&label_name%5B%5D=group%3A%3Aproduct+intelligence) | |
+
+### Issue boards
+
+We use issue boards to track issue progress on a daily basis. Issue boards are our single source of truth for the status of our work. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group.
 
 There are three groups we use:
 - The [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group includes the [gitlab](https://gitlab.com/gitlab-org/gitlab), [customers-gitlab-com](https://gitlab.com/gitlab-org/customers-gitlab-com), and [license-gitlab-com](https://gitlab.com/gitlab-org/license-gitlab-com) projects.
@@ -74,11 +90,11 @@ There are three groups we use:
 
 | gitlab-org | gitlab-com | gitlab-services | all groups |
 | ------ | ------ | ------ | ------ |
-| [Product Intelligence Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [-](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [Product Intelligence Workflow](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) |
+| [gitlab-org Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [gitlab-com Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [gitlab-services Issue Board](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) |
 
-### Product and engineering initiatives
+### Initiatives
 
-The work done by our teams mainly fall into two categories: product initiatives and engineering initiatives.
+The work done by our team mainly fall into two categories: product initiatives and engineering initiatives.
 
 **Product initiatives:** This work is primarily related to driving value for our customers. This work is defined by a product manager and is outlined in the team's product roadmap.
 
@@ -93,9 +109,13 @@ We prioritize our product roadmap using milestone priority labels:
 - `~"milestone::p3"`
 - `~"milestone::p4"`
 
-Prioritization of our product roadmap is determined by our product managers. Every epic and issue that is part of a product roadmap should have a priority label. If an issue belongs to an epic, the issue priority should match the epic's priority.
+Prioritization of our product roadmap is determined by our product managers. Every epic and issue that is part of a product roadmap should have a priority label.
 
 We work from the highest to the lowest priority when working on product initiatives. For design prioritization, see [priority for UX issues](/handbook/engineering/ux/ux-designer/#priority-for-ux-issues).
+
+### Iteration
+
+We follow the [iteration process](/handbook/engineering/#iteration) outlined by the Engineering function.
 
 ### Estimation
 
@@ -109,21 +129,23 @@ We may also use due dates as a way to timebox our iterations. Instead of spendin
 
 ### Weekly refinement
 
-Refinement is the responsibility of every team member. Every Friday, Slack will post a refinement reminder in each group's channel. During refinement, we make sure that every issue on the workflow board is kept up to date with the necessary details and next steps.
+Refinement is the responsibility of every team member. Every Friday, Slack will post a refinement reminder in our group channel. During refinement, we make sure that every issue on the issue board is kept up to date with the necessary details and next steps.
 
-### Monthly release cycle
+### Timeline
 
-Our groups still pay attention to certain dates in the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline):
+Our team pays close attention to the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/). Since our group uses a hybrid kanban process, we only pay attention to certain dates such as:
 
-- Milestone starts on the 17th of the month
-- Milestone ends on the 18th of the following month.
-- Milestone retrospectives start on the 19th of the following month.
+- Milestones starting on the 17th of the previous month.
+- Milestones ending on the 18th of the current month
+- Release Day happening on the 22nd of the current month.
+- [Team Retrospectives](/engineering/management/team-retrospectives/) starting on the 19th of the current month.
+- [Retrospective Summary](/engineering/workflow/#retrospective) happening on the 4th of the following month.
+- [Retrospective Discussion](/engineering/workflow/#retrospective) happening on the 6th of the following month.
 
-These dates are important to understand when features are released on self-managed instances and when we conduct our [team retrospectives](/handbook/engineering/management/team-retrospectives/).
+In addition to these dates, our team also does the following:
 
-### Monthly roadmap planning
-
-We have monthly roadmap planning sessions to ensure our team is aligned on what's coming next. Monthly roadmap planning takes place as a part of our weekly sync meetings and it occurs on the first meeting of every month.
+- Team Retrospective discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the last meeting of every month.
+- Monthly Roadmap Planning discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the first meeting of every month.
 
 ## Epics and issues
 
@@ -137,7 +159,7 @@ We emphasize creating the epic at the topmost-level group so that it will show u
 
 ### Ratio of issues to MRs
 
-We used to aim for a 1:1 ratio between issues and merge requests, mainly for the sake of status visibility at the workflow-board level. We have since moved to using epics and the epic roadmap for product management visibility, and we are comfortable with the amount of status updates received during our weekly sync meetings as well as through comments within issues themselves.
+We used to aim for a 1:1 ratio between issues and merge requests, mainly for the sake of status visibility at the issue board level. We have since moved to using epics and the epic roadmap for product management visibility, and we are comfortable with the amount of status updates received during our weekly sync meetings as well as through comments within issues themselves.
 
 If an issue requires multiple merge requests, we no longer recommend splitting the issue itself up in order to maintain a 1:1 ratio of issues to MRs. The advantage is that an engineer is able to create an arbitrary number of MRs for a single issue and can move much more quickly through them. The trade-off is that doing so makes it more difficult to communicate the overall status of the issue itself. It is the engineer's responsibility to make sure that the status of each issue they are working on is effectively communicated to their Product Manager.
 
@@ -149,7 +171,7 @@ We group related issues together using parent [epics](https://docs.gitlab.com/ee
 - The conversation about the implementation or design is done in issues.
 - Designs in progress will be in UX issues, using the design tab for conversation, review, feedback, exploration, etc.
 - The final designs should be linked in the parent epic description.
-- Epics and Child Epics must have the same section and group labels to see them on the [roadmap](https://docs.gitlab.com/ee/user/group/roadmap/) when using the group filter
+- Epics and Child Epics must have the same section and group labels to see them on our roadmap.
 - We use the prefixes `[ENG]`, `[UX]` and `[Product]` to indicate their area of focus. The prefixes can be combined if the epic holds issues of different areas, e.g. `[ENG][UX]`.
 - We use the labels `Engineering` and `UX` to easily filter epics.
 
@@ -219,20 +241,12 @@ MR labels can mirror issue labels (which is automatically done when created from
 
 We tag each issue and MR with the planned milestone or the milestone at time of completion.
 
-## Meetings
+## Team Meetings
 
-Groups hold synchronus meetings at least once a week to gain additional clarity and alignment on our async discussions.
+Our group holds synchronus meetings to gain additional clarity and alignment on our async discussions. We aim to record all of our meetings as our team members are spread across several timezones and often cannot attend at the scheduled time.
 
-* The Product Intelligence Group meets on Mondays 03:00pm UTC and Wednesdays 03:00pm UTC
+### Meeting rules
 
-**Meeting agenda**
-
-The agenda for each meeting is structured around the [Product Development Flow](/handbook/product-development-flow/#workflow-summary).
-* **[Validation:](/handbook/product-development-flow/#validation-track)** Used for work in `~workflow::start`, `~workflow::problem validation`, `~workflow::design`, `workflow::solution validation`
-* **[Build:](/handbook/product-development-flow/#build-track)** Used for work in `workflow::planning breakdown`, `workflow::blocked`, `workflow::ready for development`, `workflow::In dev`, `workflow::In review`
-* **FYI:** Used for any other topics
-
-**Meeting rules**
 * Agenda items should be filled in 6 hours before meetings otherwise it's possible to cancel the meeting.
 * It's fine to add agenda items during the meeting as things come up in sync meetings we might not have thought about beforehand.
 * Meetings start :30 seconds after start time
@@ -240,6 +254,14 @@ The agenda for each meeting is structured around the [Product Development Flow](
 * Whoever has the last agenda item ends the meeting.
 * Meetings end early or on time.
 * Any missed agenda items are bumped to the next meeting.
+
+### Our meetings
+
+* **Product Intelligence Sync:** an optional weekly meeting for the Product Intelligence team to discuss any topics they please.
+* **Product Intelligence and Data Sync:** an optional weekly meeting for the Product Intelligence and Data teams to discuss cross-functional initiatives the teams are working on.
+* **Usage Ping Pairing:** an optional weekly meeting for engineers to pair program with each other on our Usage Ping tooling.
+* **Snowplow Pairing:** an optional weekly meeting for engineers to pair program with each other on our Snowplow tooling.
+* **Product Intelligence Team Social:** an optional bi-weekly call for our team to hang out and socialize.
 
 ## Daily standups
 
@@ -276,5 +298,5 @@ We aim for the current [development department MR rate](/handbook/engineering/de
 | [Growth Sub-Department Performance Indicators Process](/handbook/engineering/development/performance-indicators/growth/)              | The performance indicators for the Growth sub-department  |
 | [Growth UX Process](/handbook/engineering/ux/stage-group-ux-strategy/growth/)                                                        | The UX process for the Growth sub-department              |
 | [Growth QE Process](/handbook/engineering/quality/growth-qe-team/)                                                                   | The QE process for the Growth sub-department              |
-| [GitLab performance snowplow dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashbaords for GitLab.com via Snowplow  |
+| [GitLab Performance Snowplow Dashboards ](./gitlab_com_performance_dashboard.html) | Performance dashbaords for GitLab.com via Snowplow  |
 
