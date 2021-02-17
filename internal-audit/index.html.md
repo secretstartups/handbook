@@ -139,7 +139,7 @@ To build and continually improve an effective internal audit function, GitLab es
    * `@gitlab-com/internal-audit`
 
 * Slack
-   * Feel free to tag is with `@int-audit`
+   * Feel free to use tag `@int-audit`
    * The `#internal_audit` slack channel is the best place for questions relating to our team (please add the above tag)
 
 * [Sarbanes-Oxley (SOX) Compliance](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)
