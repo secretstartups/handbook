@@ -12,9 +12,8 @@ description: "The Product Intelligence groups work on feature enhancements and i
 
 ## Vision
 
-The Product Intelligence Groups are part of the [Growth section](/handbook/engineering/development/growth/).
+The Product Intelligence Group is part of the [Growth section](/handbook/engineering/development/growth/). Our group focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Product Intelligence enables us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Product Intelligence Direction page](/direction/product-intelligence/).
 
-Product Intelligence Group is responsible for the collection and analysis of data to improve GitLab's product which includes being the primary caretaker of the versions app.
 
 How we work:
 - We work in accordance with our [GitLab values](/handbook/values/).
@@ -49,19 +48,25 @@ Our team uses a hybrid of Kanban for our project management process. This proces
 
 Our teams use the following stages defined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 
-- `~"workflow::validation backlog"`
-- `~"workflow::problem validation"`
-- `~"workflow::design"`
-- `~"workflow::solution validation"`
-- `~"workflow::planning breakdown"`
-- `~"workflow::ready for development"`
-- `~"workflow::In dev"`
-- `~"workflow::In review"`
-- `~"workflow::staging"`
-- `~"workflow::production"`
-- `~"workflow::blocked"`
+#### Validation stage
 
-We specifically pay close attention to the `Completion Criteria` and `Who Transitions Out`. We also emphasize having engineers involved earlier in the process to provide feedback in `~"workflow::design"`.
+| Label | Usage |
+| -- | -- |
+| `~"workflow::validation backlog"` | Applied by the Product Manager for incoming issues that have not been refined or prioritized. |
+| `~"workflow::problem validation"` | Applied by the Product Manager for issues where the PM is developing a thorough understanding of the problem |
+| `~"workflow::design"` | Applied by the Product Manager or Designer (or Product Intelligence Engineer) to ideate and propose solutions. The proposed solutions should be reviewed by engineering to ensure technical feasibility. |
+| `~"workflow::solution validation"` | Applied by the Product Manager or Designer (or Product Intelligence Engineer) to validate a proposed solution through user interviews or usability testing |
+
+#### Build stage
+
+| Label | Usage |
+| -- | -- | -- |
+| `~"workflow::planning breakdown"` | Applied by the Product Manager on or before the 4th of the month signaling an intent to prioritize the issue for the next milestone. |
+| `~"workflow::ready for development"` |  Applied by Product Manager. Issue has been broken down and prioritized by PM for development. Issue also has a milestone assigned at this point. |
+| `~"workflow::in dev"` | Applied by the engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. | 
+| `~"workflow::in review"` | Applied by an engineer indicating that all MRs required to close an issue are in review. |
+| `~"workflow::verification"` | Applied by engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. | 
+| `~"workflow::blocked"` | Applied by any team member if at any time during development the issue is blocked. For example: technical issue, open question to PM or PD, cross-group dependency. |
 
 ### Workflow boards
 
