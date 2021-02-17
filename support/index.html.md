@@ -345,9 +345,31 @@ On Fridays at 3pm EST, [Support Slackbot](#support-slackbot) will remind the tea
 You can read about how we got this started
 [in this issue](https://gitlab.com/gitlab-com/support/support-team-meta/issues/1394).
 
-### Support Stable Counterparts
+### Cross-Department Roles
 
-If you are interested in becoming a Support Stable Counterpart, or would like to learn more about the initiative, read the page on [Support Stable Counterparts](/handbook/support/support-stable-counterparts.html).
+The Support Team collaborates with many other departments throughout GitLab -
+Sales, Channel, Product and Legal, to name a few. And we have created two
+different roles to help those collaborations to be as effective and efficient
+as possible.
+
+#### Support Stable Counterpart
+
+The Support Stable Counterpart role is designed to provide a strong connection
+between a product team and Support for the purpose of discussing product issues,
+sharing product knowledge and representing customer needs. If you are interested
+in becoming a Support Stable Counterpart, or would like to learn more about the
+role, read the
+[Support Stable Counterparts](/handbook/support/support-stable-counterparts.html)
+page.
+
+#### Support Liaison
+
+The Support Liaison role is designed to provide a strong relationship between
+a non-product team and Support for the purpose of sharing knowledge
+about each team's work and of developing processes and documentation to allow
+the two teams to work together well. If you are interested in becoming a
+Support Liaison, or would like to learn more about the role, read the
+[Support Liaisons](/handbook/support/support-liaisons.html) page.
 
 ## Processes
 
