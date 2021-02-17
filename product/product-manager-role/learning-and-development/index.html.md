@@ -85,18 +85,38 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
 
-### Build Track Skills
+## Build Track Skills
 
-Introductory material: [How to split a user story](https://agileforall.com/how-to-split-a-user-story/)
+### Specific topics
 
-Recommended book: [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
+#### User stories
 
-Online course: ?
+##### Quick reads
 
-Speficic topics:
+- [How to split a user story](https://agileforall.com/how-to-split-a-user-story/)
 
-- User story mapping: [Jeff Patton: User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
+##### Videos
+
+##### Books
+
+- [Jeff Patton: User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
+- [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
+
+#### Backlog management
+
+##### Quick reads
+
+##### Videos
+
 - Prioritization: [Kevin Chu: Ruthless Prioritization (Article)](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) 
+
+##### Books 
+
+#### General guidance
+
+##### Online courses 
+
+##### Books
 
 ### Business Skills
 
