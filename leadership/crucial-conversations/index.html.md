@@ -92,6 +92,24 @@ There are many different influencing strategies and in this section we are going
     *  Example: A manager makes a decision with no or little input from team and informs team members of actions or consequences if they do not comply. 
     *  Develop: Use it sparingly and not as the first resort, leave no room for ambiguity and do not use as a way to surpress your team member or others.
 
+### Having crucial conversations on an all-remote team
+
+Having crucial conversations via a Zoom call might be more difficult than having the conversation in person. These strategies are meant to identify what makes having crucial conversations in an all-remote environment challenging and things we can try to make the conversations more effective.
+
+1. In a video call, we might miss out on key body language markers that are more apparent when having conversations in person. Focus on the body language queues we can see. Does someone who typically uses video have their video off, or does someone turn their video off suddenly? Does the person seem to be looking away or looking down, avoiding the screen?
+1. Make space for pause. Silent pauses on a phone call might feel awkward or uncomfortable. These pauses are necessary for people to process feelings and stress and craft thoughtful responses during crucial conversations. Try using these phrases if you need to create a space for silence:
+
+     - `Can we wait one second before moving on to that topic?`
+     - `I need a minute to think through this one.`
+     - `Can we take a pause for a minute?`
+     - `I need a few extra seconds/minutes to think through my response here`
+
+1. If you're in a crucial conversation and a team member uses one of these phrases to indicate they need a pause, remember to respect their need for time by:
+
+     - Don't try to fill the space with more talking. Let there be a minute or two of quiet on the line.
+     - Let your eyes gaze around the room, down, or at your notes if you need something else to focus on
+     - Wait until the person you're speaking with initiates conversation again before speaking
+
 ## What GitLab Managers Say about Crucial Conversations
 
 During the Manager Challenge Program, we asked GitLab Managers what they had to say about holding crucial conversations"
