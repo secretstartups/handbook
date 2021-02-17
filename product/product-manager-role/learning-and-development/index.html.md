@@ -55,7 +55,7 @@ Speficic topics:
 
 Introductory material: [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/)
 
-Recommended book: [Eric Ries:The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+- **[Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intangibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)** Presents how to approach data-driven decision making without a degree in statistics
 
 Online course: [Defining Outcomes by Product Talk](https://learn.producttalk.org/p/defining-outcomes)
 
