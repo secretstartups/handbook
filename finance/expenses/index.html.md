@@ -136,6 +136,10 @@ Any agreement must be between the team member and the co-working space (i.e. Git
 GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per calendar year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit).
 
 
+### Team building Budget
+
+In FY22, each eGroup member has been allocated $50 per team member per quarter for FY22-Q1 to FY22-Q3 for team building events. There is an additional budget for $100 per team member in FY22-Q4. More to come in the section below as we get closer to FY22-Q4.
+
 ### Year-end Holiday Party Budget
 
 In previous years, GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. We also encouraged GitLab team members to self organize holiday parties with those close by, but due to COVID restrictions in most countries, we have decided to have a more universal approach this year. We will update this policy again ahead of December 2021. For December 2020, the E-Group is deciding how these dollars will be spent on a combination of swag and virtual events to celebrate the holiday season and build team belonging. If you have any questions, please reach out to your E-Group member.
