@@ -74,7 +74,7 @@ Internally, TAMs can use the data to track their own trends and objectives achie
 
 [Gainsight](/handbook/customer-success/tam/gainsight/) is the platform we use to develop and manage success plans. Below are the steps to create a success plan, followed by best practices and recommendations to apply these steps in practice.
 
-When a TAM is assigned to an account, a draft ROI Success Plan will be automatically created with a due date 365 days from the day it is created. To create an additional success plan in Gainsight, perform the following steps:
+When a TAM is assigned to an account, an active ROI Success Plan will be automatically created with a due date 365 days from the day it is created. To create an additional success plan in Gainsight, perform the following steps:
 
 1. From the Gainsight NXT home page, navigate to the customer's page
 1. From the menu on the left-hand side of the screen, choose "Success Plan"
