@@ -62,7 +62,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-#### Growth hacking: 
+### Growth hacking: 
 
 ##### Quick reads
 
