@@ -620,10 +620,35 @@ The workflow for customers using the LXP will be determined by the Professional 
 
 This section will outline common questions and Zendesk macros to be used for free support.
 
+###### Macros
+
+**User Question:** How do I share my GitLab Learn badges externally?
+
+**Macro Text:** 
+` `
+
+**User Question:**
+
+**Macro Text:** 
+` `
+
+**User Question:**
+
+**Macro Text:** 
+` `
+ß
+**User Question:**
+
+**Macro Text:** 
+` `
+
+
 ##### Community Forum Support
 
 This section will outline how the community forum will be used as a support space for GitLab Learn.
 
+1. Determine section in the forum for GitLab learn questions
+1. Add links to documentation and FAQ answers.
 
 ### Email and macro templates
 
