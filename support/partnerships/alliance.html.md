@@ -37,6 +37,6 @@ methods available to them:
 ## Escalations
 
 Alliance Partners work closely with GitLab Support. To accommodate this, GitLab
-Support provides all Alliance Partners with an escalation form. When this
+Support provides all Alliance Partners with a personalized escalation form. When this
 form is submitted, the system notifies an appropriate GitLab Support Manager
 to help escalate a ticket the Alliance Partners have opened.
