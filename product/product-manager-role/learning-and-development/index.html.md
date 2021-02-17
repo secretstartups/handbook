@@ -74,9 +74,9 @@ Specific topics:
 
 ### People Management Skills
 
-Introductory material: 
+Introductory material: [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/) or [in video](https://www.youtube.com/watch?v=pAbU3WJ-NBw)
 
-Recommended book: 
+Recommended book: [Kim Scott: Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE) and [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
 
 Online course:
 
