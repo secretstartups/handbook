@@ -60,7 +60,7 @@ GitLab will explore adding vision coverage as a future iteration to our health b
 
 ## Life Insurance
 
-GitLab is currently reviewing implementing life insurance and disability in the following [issue](https://gitlab.com/gitlab-com/people-group/Compensation/issues/42).
+GitLab is currently reviewing implementing life insurance and disability in the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/44).
 
 ## Pension Introduction
 
