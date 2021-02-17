@@ -14,7 +14,7 @@ View the [Customer Success homepage](/handbook/customer-success/) for additional
 
 ---
 
-This page is to supplement the [GitLab Server Migration Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0) *(internal link)*.
+This page is to supplement the [GitLab Server Migration Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0) *(internal link)*. Also please reference the [Skills Exchange session on Server Migrations](https://youtu.be/DUPsiUHnfZI) *(private video for internal use only)* for additional context on the information below.
 
 This playbook is designed for GitLab to GitLab migrations only.  
 It does not cover conversions from other SCM systems or GitLab server consolidation (multiple GitLab servers into a single instance).

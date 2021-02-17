@@ -51,9 +51,46 @@ The "Welcome to GitLab" call will introduce the customer to the Technical Accoun
 1. Have discussions in the public issues as much as possible. If there is a question/discussion point that requires interaction with the GitLab Engineering and Product teams, post it in the public issue, as it most likely benefits everyone reading the public issue.
 1. When adding a SFDC link to a public issue, remember to [provide feedback](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to the product managers using the [feedback template](/handbook/product/how-to-engage/#feedback-template)
 
+### Disengaging with a customer
+
+There are situations when a TAM needs to disengage with a customer. Examples include:
+
+- A customer downgrades or churns and is [below the TAM alignment threshold](/handbook/customer-success/tam/services/#tam-alignment)
+- A TAM has been engaged with a customer [below the TAM alignment threshold](/handbook/customer-success/tam/services/#tam-alignment) for a strategic purpose such as a tier upgrade that was unsuccessful
+
+When this happens, it is important to manage the disengagement so that the customer understands the reason, and is clear on who they should communicate with going forward. Here are some recommendations for how to have this conversation:
+
+- Do it in person (or face-to-face via Zoom), and include the SAL/AE since they will retain the relationship.
+- Be honest about the reason. Each situation will be different, and it's a good idea to talk it over with your manager.
+- Go over their options for assistance going forward (below).
+- Send a follow-up that summarizes what was discussed, including their assistance options.
+
+Recommended options to review with the customer include:
+
+- Troubleshooting, errors, outages, and basic "howto" technical questions should go to Support.
+- Complex "howto" and workflow advice should be sent _in writing_ to the SAL/AE. Doing it in writing lets them work with the whole of Customer Success asynchronously to get the best solution.
+- Online resources such as the GitLab documentation, blog, YouTube channels, [community forum](https://forum.gitlab.com/) and other relevant materials that they can for self-serve guidance.
+
 ## Customer Prioritization
 
-GitLab uses a customer prioritization model to focus the TAM's efforts where they will have maximum value and impact. The priority tiers have [defined SLAs for engagement](https://about.gitlab.com/handbook/customer-success/tam/#book-of-business-prioritization) and [metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics). Different regions utilize different models for determining customer prioritization, as described below. The customer prioritization can change during the lifecycle and is constantly reviewed.
+GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics) to focus the TAM's efforts where they will have maximum value and impact. Different regions utilize different models for determining customer prioritization, as described below. The customer prioritization can change during the lifecycle and is reviewed by each region quarterly.
+
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. A new TAM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. 
+
+Priority Definitions include:
+
+1. Pr1: TAM-led onboarding, monthly cadence call (as minimum), full TAM-led customer lifecycle
+2. Pr2: 60 day call cadence, EBR, renewal touch point
+3. Pr3: Digital journey only
+
+Why do we use a prioritization system?
+
+- To enable focus on customers that have an imminent opportunity for growth or that require near-term risk mitigation
+- To ensure that their book of business does not overburden the TAMs
+- To give TAM Managers more visibility into the potential workload of their team via more context on the makeup of the overall portfolio
+- Used to further segment customers, beyond the [Sales Segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
+
+The `TAM Portfolio` Dashboard is used to help highlight and review each client, including their priority level.
 
 ### US Enterprise
 

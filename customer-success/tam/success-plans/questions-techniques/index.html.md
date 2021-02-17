@@ -96,6 +96,10 @@ We also want to ask about Stage Adoption metrics so that we can tie their GitLab
   - What tools do you use to organize, plan and track project work?
   - Describe your issue and epic workflow.
   - What percentage of your users/teams are using GitLab for this?
+  - Do you have a separate QA department?
+  - Describe the workflow between the dev team and the QA team?
+  - Are you using some tools to create and manage the QA test plans?
+
 - **Create**
   - Where do you manage your code base?
   - What processes do you follow for code reviews?
@@ -157,6 +161,15 @@ When the conversation moves into a highly technical space, these questions can h
 - "Who is the user that needs this capability?" _(You want to understand what type of user they are envisioning - developer, project manager, product owner, etc.)_
 - "What will success look like when this is implemented? How will you measure that?"
 - "Can we take a step back and look at how this relates to the larger workflow?" _(This question helps you to guide the customer's technical thinking to the bigger picture, setting you up for follow-on business questions)_
+
+## Finding the right person to talk to
+
+[Leveling up the conversation](#leveling-up-from-operationaltechnical-to-strategic) will sometimes reveal that our main points of contact are not familiar with the business outcomes that their company is trying to solve with GitLab. When that occurs, we want to identify and connect with the person who can help us understand those.
+
+Here are some questions you can ask to get to the right person:
+
+- "Who do you think might be able to help us understand [stated objective]?"
+- "Is there anyone else that we should include in this conversation?"
 
 ## Five Whys
 

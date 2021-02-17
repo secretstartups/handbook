@@ -180,13 +180,11 @@ The videos listed here are internal to GitLab only. You will need to be logged i
 
 ### Feature Requests
 
-New feature requests can be submitted by creating an issue and selecting the [Gainsight Request Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
+New feature requests can be submitted by creating an issue and selecting the [Gainsight Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) in the Customer Success Operations project. Make sure the `gainsight` label, and optionally ether the `gainsight::feature_request` or `gainsight::bug` scoped label, are successfully applied when opening the issue. The status of all Gainsight-related issues can be viewed on the [Gainsight issue board](https://gitlab.com/groups/gitlab-com/-/boards/1609037?label_name[]=gainsight).
 
-Make sure you apply the `gainsight` label, and optionally apply `gainsight::feature_request` or `gainsight::bug` scoped labels.
+To request new email templates be added to Gainsight, or programs in [Journey Orchestrator](https://www.gainsight.com/journey-orchestrator/), open an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and put the content and format of your email in Markdown (if possible). Then `@mention` a Gainsight administrator.
 
-The status of Gainsight issues can be viewed on the [Gainsight issue board](https://gitlab.com/groups/gitlab-com/-/boards/1609037?label_name[]=gainsight).
-
-To request new email templates be added to Gainsight, or programs in [Journey Orchestrator](https://www.gainsight.com/journey-orchestrator/), use the Sales Ops board above and put the content and format of your email in Markdown (if possible). Then `@mention` a Gainsight administrator.
+To view recent updates to Gainsight, view [the running changelog](https://docs.google.com/document/d/11yJvTTDlWMrMAbKut1V0LFVoRojID2C_eRWk9ZF3HaA/edit#).
 
 ### Support tickets
 
@@ -195,17 +193,17 @@ To submit a support ticket about Gainsight, you have two options.
 1. Email support@gainsight.com and cc GitLab's CS Ops Manager and Gainsight Account Manager.
 1. Go to the [Gainsight support website](https://support.gainsight.com/), choose Gainsight NXT, and fill out the required fields.
 
-#### Common errors & troubleshooting
+### Common errors & troubleshooting
 
-##### Query API invalid response
+#### Query API invalid response
 
 If you receive the error message "Query API invalid response", try clearing your browser cache and cookies. We recommend also checking in a private browser (Incognito Mode, etc.) to verify it's a browser configuration issue.
 
-##### Success plan objectives updated failed
+#### Success plan objectives updated failed
 
 If your receive the error message "SUCCESS_PLAN_OBJECTIVES_UPDATED_FAILED" when changing the status of a Success Plan from Draft to Active, it could be because there is one or more CTAs with a due date earlier than one of its tasks' due date. To correct this, re-apply the due date on tasks which will update the CTA's due date, and then try to change the Success Plan to Active again.
 
-##### Account says "TO BE DELETED NO LONGER IN SFDC"
+#### Account says "TO BE DELETED NO LONGER IN SFDC"
 
 This is because two SFDC accounts were merged into one. What happens is this:
 1. Salesforce has 2 records of the same account
@@ -215,8 +213,8 @@ This is because two SFDC accounts were merged into one. What happens is this:
 1. Gainsight recognizes one was deleted and marks it with the "TO BE DELETED" title for CS Ops to review and/or delete it
 1. The remaining (merged) one in Salesforce remains synced to Gainsight
 
-##### Error "Timeline: Invalid authentication credentials. Authentication failed" when opening an email in Chrome
+#### Error "Timeline: Invalid authentication credentials. Authentication failed" when opening an email in Chrome
 
 Usually, this type of error occurs if the Chrome extension version is out of date. Try [updating the Chrome extension](https://community.gainsight.com/timeline-17/update-your-chrome-plugin-39237) to the latest version. It should automatically refresh and begin working, but try logging out and back in if it doesn't resolve right away.
 
-If this doesn't solve the issue, reach out to Gainsight support and let them know you've already tried updating the extension and logging out and back in.
+If this doesn't solve the issue, reach out to [Gainsight support](#support-tickets) and let them know you've already tried updating the extension and logging out and back in.

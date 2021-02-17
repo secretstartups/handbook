@@ -17,7 +17,7 @@ Success plans with milestones/key objectives in all Pr1 accounts.  These account
 Completed EBRs in minimum 75% of PR 1 accounts.  These strategic touchpoints ensure that progress against desired business outcomes is being made and communicated back to both the team that we work with and key influencers/decision makers.  It also creates a vehicle for introducing senior leadership into the customer account, enabling more strategic touchpoints.
 
 1. Metric: Management-qualified Success Plans in ALL PR 1 accounts
-1. Metric: EBRs completed in 75% of PR1 accounts
+1. Metric: EBRs completed within the last twelve months in 75% of PR1 accounts
 1. Metric: IACV on-target growth
 1. Metric: Gross retention
 
