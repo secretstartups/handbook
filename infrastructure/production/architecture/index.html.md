@@ -37,14 +37,14 @@ This document does not cover servers that are not integral to the public facing 
 ### GitLab.com VM and Kubernetes Architecture
 {: #gitlab-com-architecture}
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vShfNY5bxtjAsYq-YBDAJAnyjBuxN0i62NoDvbmhvDVOrCas20_Q4XA8Qxm1D2v0mmemP9y-rDsRQFe/pub?w=669&h=551">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vShfNY5bxtjAsYq-YBDAJAnyjBuxN0i62NoDvbmhvDVOrCas20_Q4XA8Qxm1D2v0mmemP9y-rDsRQFe/pub?w=800">
 
 [Source](https://docs.google.com/drawings/d/1NmafL3ULQnjuY3_JFMWDwXpjdd0I1hyMXkZ0bwUYNhI/edit), GitLab internal use only
 
 The infrastructure department is transitioning GitLab.com to Kubernetes using the [GitLab cloud native helm chart](https://docs.gitlab.com/charts/).
 Migrating GitLab.com to Kubernetes is being completed in phases, prioritizing services that are stateless and ready to be run in a cloud-native environment at GitLab.com scale.
 All new GitLab.com services are deployed in Kubernetes.
-See the [reasoning for the migrating away from virtual machines](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/) for more details including the justification for the migration.
+See the [reasoning for the migrating away from virtual machines](/handbook/engineering/infrastructure/production/kubernetes/gitlab-com/) for more details including the justification for the migration and the following epics that have more details about the migration:
 
 * **[Migration epic ](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112)**: Parent epic for all infrastructure department work to migrate GitLab.com to Kubernetes.
 * **[Application blockers](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=kubernetes-migration-blocker)**: Label used to track blockers in the application and cloud-native charts that are preventing the migration of GitLab.com to Kubernetes.
@@ -54,7 +54,12 @@ See the [reasoning for the migrating away from virtual machines](/handbook/engin
 
 GitLab.com uses 4 Kubernetes clusters for production with similarly configured clusters for staging.
 One cluster is a Regional cluster in the `us-east1` region, and the remaining three are zonal clusters that correspond to GCP availability zones `us-east1-b`, `us-east1-c` and `us-east1-d`.
-The reason for having multiple clusters assigned to availability zones is to ensure that high-bandwidth services do not send network traffic across zones. For more information on why we chose to split traffic into multiple zonal clusters see [this issue exploring alternatives to the single regional cluster](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1150).
+The reasons for having multiple clusters are as follows:
+* Ensure that high-bandwidth services do not send network traffic across zones.
+* Isolation of workloads
+* Isolation of maintenance changes and upgrades to the clusters
+
+For more information on why we chose to split traffic into multiple zonal clusters see [this issue exploring alternatives to the single regional cluster](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/1150).
 A single regional cluster is also used for services like Sidekiq and Kas that do not have a high bandwidth requirement and services that are a better fit for a regional deployment.
 
 In keeping with GitLab's value of transparency, all of the Kubernetes cluster configuration for GitLab.com is public, including infrastructure and configuration.
@@ -70,11 +75,14 @@ All inbound web, git http, and git ssh requests are received at Cloudflare which
 
 #### Monitoring and Logging
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRsr0FMLtX9Cy6KiXhAc90SNz_w_JyifZzdWw8y8WsVotU-7qtRpxHLbKkDoAE60ckhWP30PEw9bOvZ/pub?w=647&h=509">
+Monitoring for GitLab.com runs in the same cluster as the application. Metrics are aggregated in the ops cluster using [Thanos](https://thanos.io) that has multiple components.
+
+Prometheus is configured using the [kube-prometheus-stack helm chart](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack) in the namespace `monitoring`, and every cluster has its own Prometheus which gives us some sharding for metrics.
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRsr0FMLtX9Cy6KiXhAc90SNz_w_JyifZzdWw8y8WsVotU-7qtRpxHLbKkDoAE60ckhWP30PEw9bOvZ/pub?w=800">
 
 [Source](https://docs.google.com/drawings/d/1ELrompqluRa00-Q_L9Ruq6W5KHFmgh1Wn1cdwEpOhaw/edit?usp=sharing), GitLab internal use only
 
-Monitoring is configured using the [kube-prometheus-stack helm chart](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack) in the namespace `monitoring`.
 Alerting for the cluster uses generated [rules](https://gitlab.com/gitlab-com/runbooks/-/tree/master/rules) that feed up to our [overall SLA](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability) for the platform.
 
 Logging is configured using a fork of the [fluentd-elasticsearch helm chart](https://gitlab.com/gitlab-org/charts/fluentd-elasticsearch) where the logs for every pod is forwarded to a unique Elasticsearch index. This chart is deployed in the namespace `logging`.
