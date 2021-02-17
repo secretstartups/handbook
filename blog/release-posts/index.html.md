@@ -69,11 +69,17 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 - [**PMM reviewers**](#pmm-reviewers)
 - [**TW lead**](#tw-lead)
 - [**TW reviewers**](#tw-reviewers)
+- [**Technical advisors**](#technical-advisors)
 - [**Engineering Managers**](#engineering-managers)
 
-### Release Post Manager
+### Volunteering for the Release post  
 
-Each month a Product Manager will lead the release post, as defined in the [Release Post Scheduling page](managers/). The Release Post Manager is listed as the Author of the release post when the post is published.
+Each month a Product Manager, Product Marketing Manager, Technical Writer, and an Engineering Department Technical Advisor volunteer to manage the release post, as listed in the [Release Post Scheduling page](managers/). The Product Manager volunteer will lead the release post as the Release Post Manager and is listed as the Author of the release post when the post is published. To update the [release post scheduling list](managers/), all volunteers need to edit the data file below:
+
+- **[Data YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_post_managers.yml)**: gathers the release post managers for every release (9.0 onwards). Be sure to update the "Managers" section below the "Versions" if this is your first release.
+- **[Layout Haml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/blog/release-posts/managers/index.html.haml)**: simple handbook layout that pulls the data from the YAML file above.
+
+#### Release Post Manager
 
 Product Managers can volunteer for any release that doesn't have someone assigned yet. To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
 
@@ -96,14 +102,7 @@ whole process. If you take it, you're responsible for the entire process and mus
 available to carry it out until the end.
 {:.alert .alert-warning}
 
-#### Updating Release Post Manager assignments
-
-To update the [release post managers list](managers/), edit the data file below.
-
-- **[Data YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_post_managers.yml)**: gathers the release post managers for every release (9.0 onwards). Be sure to update the "Managers" section below the "Versions" if this is your first release.
-- **[Layout Haml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/blog/release-posts/managers/index.html.haml)**: simple handbook layout that pulls the data from the YAML file above.
-
-#### Release Post Manager Shadow
+#### Release post manager shadow
 
 Each month a Product Manager also acts as a shadow to support the Release Post Manager tasks if needed, act as back up on decisions in absence of the Release Post Manager and prepare to run the next release post. By shadowing the month prior to leading the effort, Product Managers are prepared and aware of any shifts in processes or optimizations needed since the last time they participated.
 
@@ -121,7 +120,7 @@ In order to properly onboard the shadow, the Release Post Manager should:
 
 Remember - the goal of the shadow is to get them engaged and aware of the process so they can run one on their own. Include the shadow as much as possible so they can learn and be prepared!
 
-#### Release Post Manager Responsibilities
+### Release Post Manager Responsibilities
 
 - Setting up the release post branch and completing all the tasks assigned to the Release Post manager in the Release Post MR template
 - Reviewing and supporting overall content quality and accuracy of all content published in the release post
