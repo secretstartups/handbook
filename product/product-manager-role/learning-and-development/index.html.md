@@ -50,7 +50,9 @@ There are three recommended books to be read by every product manager at GitLab:
 ##### Quick reads
 
 ##### Videos
-
+- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms)
+- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/)
+- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/)
 ##### Books
 
 - [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
