@@ -15,8 +15,6 @@ title: Learning and Development for Product Management
 
 Welcome to Learning and Development for Product Management at GitLab! Here you'll find resources to help product managers explore, learn and grow in the competencies we track in our [career development framework](/handbook/product/product-manager-role/#product-management-career-development-framework). The content here spans various skill levels and is recommended to help every product manager have a successful journey at GitLab and in their product career as a whole. The content should be accessible at no cost but anything requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
-
-
 ## Recommended books and talks for all product managers
 
 There are three recommended books to be read by every product manager at GitLab:
@@ -24,10 +22,8 @@ There are three recommended books to be read by every product manager at GitLab:
 - **[Marty Cagan: Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)** Provides a generic overview about Product Management
      - [Related live talk by author](INSERT LINK TO VIDEO)
 
-
 - **[Melissa Perry: Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/)** Describes how to build and operate a successful product team
      - [Related live talk by author](INSERT LINK TO VIDEO)
-
 
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
      - [Related live talk by author](INSERT LINK TO VIDEO)
@@ -119,12 +115,6 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-#### General guidance
-
-##### Online courses 
-
-##### Books
-
 ### Communication Skills
 
 #### Stakeholder management
@@ -134,12 +124,6 @@ There are three recommended books to be read by every product manager at GitLab:
 ##### Videos
 
 - [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
-
-##### Books
-
-#### General guidance
-
-##### Online courses 
 
 ##### Books
 
@@ -153,12 +137,6 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-#### General guidance
-
-##### Online courses 
-
-##### Books
-
 #### Direct team management
 
 ##### Quick reads
@@ -168,8 +146,6 @@ There are three recommended books to be read by every product manager at GitLab:
 ##### Videos
 
 - [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw)
-
-#### General guidance
 
 ##### Online courses 
 
