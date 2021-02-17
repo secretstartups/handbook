@@ -17,6 +17,8 @@ title: Learning and Development for Product Management
 There are three recommended books to be read by every product manager at GitLab:
 
 - **[Marty Cagan: Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)** Provides a generic overview about Product Management
+
+     - [Related live talk by author](INSERT LINK TO VIDEO)
 - **[Melissa Perry: Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/)** Describes how to build and operate a successful product team
 - **[Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intangibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)** Presents how to approach data-driven decision making without a degree in statistics
 
