@@ -32,7 +32,6 @@ Most (if not all) work begins with an issue or epic (which we will generally ref
    1. Entails a MR against the `doc/architecture/blueprints` directory in GitLab project and its corresponding discussion
    1. Outlines the scope of the problem, its solution, and the expected needs to solve the problem long-term
    1. When ready, the MR is assigned to the Engineering Leader that will make the appropriate decisions for merging
-   1. Once merged, one of the DRIs adds a link to the blueprint to the [Architecture Roadmap](/handbook/engineering/architecture/roadmap) Handbook page
 
 ### Getting things done
 

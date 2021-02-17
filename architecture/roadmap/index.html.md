@@ -21,7 +21,7 @@ However, we cannot do a wholesale switch to cloud native: we must evolve a singl
 
 In order to adopt container technologies, we must remove shared local state from all possible application components that do not require it, especially those using shared POSIX storage (NFS). Build logs and GitLab Pages are the two primary users of NFS in the environment, a dependency that must be eliminated.
 
-While we will not be migrating stateful services to cloud native at this time, we need to align them with cloud native capabilities. In particular, the main database (Postgres) needs to support cloud native strategies in the application. To that end, we must implement near-zero downtime Postgres upgrades (i.e., upgrades that, at most, simply require a database failover to take effect), which will be done through [Database Logical Replication](#fy21), and provide [testing environments with production-like data and traffic]() to validate database changes st scale.
+While we will not be migrating stateful services to cloud native at this time, we need to align them with cloud native capabilities. In particular, the main database (Postgres) needs to support cloud native strategies in the application. To that end, we must implement near-zero downtime Postgres upgrades (i.e., upgrades that, at most, simply require a database failover to take effect), which will be done through Database Logical Replication, and provide testing environments with production-like data and traffic to validate database changes st scale.
 
 A key aspect of adopting cloud native relies on the Registry, which is currently undergoing some massive changes, starting with a tighter dependency on database resources. Without the Registry, cloud native is non-functional.
 
@@ -45,22 +45,7 @@ Much work has taken place to strengthen repository storage, and we must take thi
 
 As DevOps streamlines application development, deployment and management, cost becomes a concern the application must help with. We must pivot from reactive to proactive cost management: as the application gains new capabilities and scale, its cost footprint also increases, and these cannot be managed entirely on a reactive basis outside the application. The application itself must gain a sense of awareness to aid in cost management. This awareness comes primarily through the integration with underlying infrastructure technologies, which is well-aligned with cloud native strategies: if the application is managing how much infrastructure it needs to use to deliver rock-solid service, it must also be able to provide the necessary metadata to tag resources and make decisions to optimize and manage costs.
 
-## Roadmap Scheduling
+## Roadmap
 
-### FY21
-
-FY21 (ends on January 31, 2021)
-
-* Database Logical Replication (FY21Q1)
-* [Cloud Native Build Logs](https://docs.gitlab.com/ee/architecture/blueprints/cloud_native_build_logs/)
-* [Cloud Native GitLab Pages](https://docs.gitlab.com/ee/architecture/blueprints/cloud_native_gitlab_pages/)
-* [Feature Flags](http://docs.gitlab.com/ee/architecture/blueprints/feature_flags_development/)
-* [Registry Rearchitecture](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/43754)
-
-### FY22
-
-*
-
-
-
-
+The single list of all the architectural blueprints being worked on and in
+progress can be found in the [architecture tasks issue board](https://gitlab.com/gitlab-org/architecture/tasks/-/boards/2155153).
