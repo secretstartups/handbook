@@ -55,11 +55,11 @@ If you are interested in hearing about how Unfiltered posts perform, we share re
 
 ### Issue
 
-Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `unfiltered blog post` issue template.
+Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the [`blog-unfiltered-post`](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=blog-unfiltered-post) issue template.
 
 ### Merge request
 
-Open a merge request for your blog post using the `unfiltered blog post` MR template, following the [instructions described in the blog handbook](https://about.gitlab.com/handbook/marketing/blog/#when-your-post-is-formatted-and-youre-ready-to-create-your-merge-request). Make sure your MR is set to close your associated issue automatically.
+Open a merge request for your blog post using the [`blog-post-unfiltered`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/blog-post-unfiltered.md) MR template, following the [instructions described in the blog handbook](https://about.gitlab.com/handbook/marketing/blog/#when-your-post-is-formatted-and-youre-ready-to-create-your-merge-request). Make sure your MR is set to close your associated issue automatically.
 
 Create your blog post file, following the instructions in the main [blog handbook](/handbook/marketing/blog/#formatting-guidelines). You may do this before you open your MR, depending on your preferred workflow.
 
