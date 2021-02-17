@@ -184,6 +184,15 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 
 The one of the best ways to stay in the know is to follow people! There are a lot of folks openly sharing their ideas and best practices.  We encourage you to follow and exchange ideas with people who inspire you. Here are some recommendations on where to start:
 
+- [Jackie Bavaro](https://twitter.com/jackiebo)
+- [Marty Cagan](https://twitter.com/cagan)
+- [John Cutler](https://twitter.com/johncutlefish)
+- [Viktor Nagy](https://twitter.com/nagyviktor)
+- [Ken Norton](https://twitter.com/kennethn)
+- [Jeff Patton](https://twitter.com/jeffpatton)
+- [Roman Pichler](https://twitter.com/johncutlefish)
+
+
 ### More books! 
 
 
