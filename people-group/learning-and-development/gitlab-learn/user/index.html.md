@@ -201,6 +201,17 @@ The contribution process to the LXP is being built, and you can follow updates i
 
 Please review [this SmartCard](https://gitlab.edcast.com/insights/ECL-15365c36-f581-47fd-8c43-bf6d85e61656) to learn the process for how to share a GitLab Learn badge on LinkedIn.
 
+### I can't mark a SmartCard as complete - what should I do?
+
+Please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
+
+### I'm having trouble logging in or making a new account on GitLab Learn.
+
+Please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
+
+### I can't see all the content in a Pathway or Journey on GitLab Learn.
+
+Please note that some content in the Pathway is restricted to internal team members, specific audiences, or paid customers. If you believe you're having trouble accessing public content, please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users).
 
 ## Have additional questions about GitLab Learn?
 
