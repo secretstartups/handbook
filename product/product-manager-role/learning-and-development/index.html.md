@@ -52,7 +52,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-### Lean product development
+#### Lean product development
 
 ##### Quick reads
 
