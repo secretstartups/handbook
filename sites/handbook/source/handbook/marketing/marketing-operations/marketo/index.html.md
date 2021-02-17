@@ -114,11 +114,11 @@ A Lead/Contact will be allowed to re-MQL if they are in a `Nurture` status and r
 
 The number of times they `MQL` will be counted with the `MQL Counter` field.  The `Initial MQL DateTime` contains the very first time a prospect reached the [MQL threshold](/handbook/marketing/marketing-operations#mql-scoring-model).  `MQL Date` will be overwritten to be the most recent date that a lead has reached the MQL threshold.
 
-When a lead is set to `Nurture`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Nurture`.
+When a lead is set to `Nurture`, their `Behavior Score` is reset to 0. Their `Person Score` is reset to the value of the `Demographic Score`. Additionally, a person who has reached `MQL` in the past, is given an additional score of `+20` when they are reset to `Nurture`. If a lead was `Accepted` before it reached the MQL threshold, and is then set to `Nurture` within 30 days, the lead's `Behavior Score` will reset to the value it was while in `Inquiry`, the `Demographic Score` will be re-run and their overall `Person Score` will be the sum of those two values.
 
 When a lead `Re-MQLs` from `Nurture` to `MQL`, their `Nurture Reason` field is set to `Null`, but that `Nurture Reason` value is preserved in the field `Previous Nurture Value` on the lead or contact. That field is set by Marketo only. The `Nurture DateTime` only updates the first time. When a lead re-reaches an `MQL` status, they are not re-routed by LeanData for round-robin, they stay in their original owners name.
 
-Follow the workflow mural: 
+Follow the workflow mural to see the lead lifecycle. Notice you cannot go backwards in status to `Raw` or `Inquiry` from a later step.
 
 <div style="width: 600px;" class="embed-thumb">
 <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;">
