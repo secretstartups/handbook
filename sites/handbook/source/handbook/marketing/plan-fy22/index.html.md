@@ -176,6 +176,14 @@ How to keep all teams in the loop will be a key responsibility of the Core Teams
 
 The teams are encouraged to contribute ideas and processes for communication here in the handbook throughout FY22.
 
+#### Slack Channels
+{: #slack}
+<!-- DO NOT CHANGE ANCHOR -->
+
+* [#gtm-ci-cd](https://gitlab.slack.com/archives/C01DF0YMKCP)
+* [#gtm-devops-platform](https://gitlab.slack.com/archives/C01NLEXE34L)
+* [#gtm-gitops](https://gitlab.slack.com/archives/C0119FNPA84)
+
 ### Interlocked Teams
 {: #interlocked-teams}
 <!-- DO NOT CHANGE ANCHOR -->
