@@ -42,6 +42,17 @@ At GitLab, there can be many instances where a crucial conversation is needed. W
 
 These are just a few strategies outlined in the Crucial Conversation book. We [highly recommend reading it](https://about.gitlab.com/handbook/leadership/#books) for leading teams at GitLab. 
 
+## How Crucial Conversations align with GitLab Values
+
+| GitLab Value | Crucial Conversation Connection |
+| ----- | ----- |
+| [Collaboration](/handbook/values/#collaboration) | Crucial conversations are introduced not just by people leaders but by all GitLab team members. We are all managers of one and should feel enabled to open crucial conversations whenever necessary |
+| [Results](/handbook/values/#results) | Crucial conversations are results-oriented. Conversations should focus on action that will improve the situation or problem for all members involved in the conversation. |
+| [Efficient](/handbook/values/#efficiency) | Crucial conversations can be evaluated via the CPR (Content, Pattern, Relationship) method to determine the root cause of the conflict or problem. This method allows for efficiency in approaching crucial conversations with specific tools depending on the context.
+| [Diversity, Inclusion, and Belonging](/handbook/values/#diversity-inclusion) | Everyone has a shared voice in a crucial conversation. The goal is to fill a shared pool of knowledge with facts and stories from all points of view. Hosts of crucial conversations should be open to having their stories challenged. |
+| [Iteration](/handbook/values/#iteration) | Crucial conversations should happen early and often. The CPR (Content, Pattern, Relationship) encourages conversation early and often in the `content` category before something becomes a `pattern` |
+| [Transparency](handbook/values/#transparency)| Results, goals, and stories about crucial conversations are shared throughout teams to encourage more crucial conversations. While the content of specific conversations isn't always shared to maintain a safe space, the discussion about practicing crucial conversations keeps us accountable. |
+
 ## Strategies for Successful Crucial Conversations
 
 ### 9 Influencing Strategies
