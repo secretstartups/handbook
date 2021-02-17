@@ -197,11 +197,13 @@ In addition to GitLab learning material stored in the handbook, GitLab team memb
 
 The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/).
 
+### How do I share a GitLab Learn badge externally?
 
+Please review [this SmartCard](https://gitlab.edcast.com/insights/ECL-15365c36-f581-47fd-8c43-bf6d85e61656) to learn the process for how to share a GitLab Learn badge on LinkedIn.
 
 
 ## Have additional questions about GitLab Learn?
 
-Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W).
+Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
 
 
