@@ -37,9 +37,18 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 
 **Measure:** How do we confirm everyone is aligned?
 - Handbook page as SSoT
-- Announcement/Intro at Marketing Strategy Call
-- Office Hours in February
-- Issue Confirmation
+- Announcement/intro at Marketing Strategy Call 2021-02-11
+- Kickoff call with all Core Team required 2021-02-17
+- Issue confirmation
+
+#### Overview Slides of FY222 Marketing Plan
+{: #overview-slides}
+<!-- DO NOT CHANGE ANCHOR -->
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMLPDJxAK8rAWAFkw8fUjBJU2NHHXxnbBdLeeKp6Eu_N3IjmO45w3euhvNdXg_X5hsm-80ekMHVyKZ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
 
 ### TOPO Marketing Model
 {: #topo}
