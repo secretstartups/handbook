@@ -541,16 +541,35 @@ Admin process for reporting from EdGraph is coming soon.
 
 ## Support
 
-This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
+### Temporary Support Model
 
-Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
+GitLab Learn is planned to launch to external audiences on 2021-03-15. Without a dedicated LXP admin, the implementation team will use this temporary support process across the Professional Services and Learning and Development Team to enable and support all users.
 
 ```mermaid
 graph TD
     A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket from [team to address TBD]
+    B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D
+```
+
+Workflows, email templates, and outlines below will remain the same for this temporary support model.
+
+
+### End goal Support Model
+
+This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
+
+Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
+
+This workflow will be implemented when the LXP implementation team has adeuqate staffing for platform administration.
+
+```mermaid
+graph TD
+    A[User Question] --> B[Determine user audience]
+    B -->|Team Member| D[Support via Slack from L&D]
+    B -->|Customer| E[Support via ticket from PS team]
+    B -->|Community Member| F[Support via ticket from LXP admin or Community Forum answer
 ```
 
 ### Slack support for team members
@@ -573,15 +592,34 @@ This chart outlines common questions and triage actions taken by the L&D team:
 
 ### Zendesk support for customers and community members
 
-This workflow is currently being designed [in this issue](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/issues/23#note_494338293).
+Zendesk will be our main hub for providing user support for GitLab Learn. Users will be directed to open a ticket using the professional services contact form. The mermaid chart below outlines the process tickets will go through when determining if they are part of the `paid` or `free` audience.
+
+```mermaid
+graph TD;
+A(User wants to contact proserv)-->B(How does the user do it?)
+B--Email-->C(Ticket goes to ProServ Triage View)
+B--Web form-->D(Form asks for plan type)
+D--Paid-->E(Asks problem type for paid users)
+D--Free-->F(Asks problem type for free users)
+E-->G(Goes to ProServ Paid View for paid users)
+G-->H(ProServ has to validate if user is paid or not)
+F-->C
+H--They are paid-->K(ProServ works ticket)
+H--They are free-->J(ProServ marks user as free)
+C-->L(ProServ has to triage ticket)
+J-->C
+```
 
 #### Professional Services support workflow (Paid Users)
 
-The workflow for customers using the LXP will be determined by the Professional Services team.
+The workflow for customers using the LXP will be determined by the Professional Services team via the `paid` Zendesk view.
 
 #### Community support workflow (Free Users)
 
-The workflow for community members using the LXP has not yet been outlined.
+##### Zendesk Ticket Support
+
+##### Community Forum Support
+
 
 
 ### Email and macro templates
