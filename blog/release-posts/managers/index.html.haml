@@ -12,7 +12,7 @@ description: "A list of managers and other assignees for scheduled GitLab releas
 %table.table-responsive{:style => "margin-bottom: 25px; white-space: nowrap;"}
   %thead
     %tr
-      %th{:style => "padding-right: 50px; text-align: right;"}
+      %th{:style => "padding-right: 30px; text-align: right; min-width: 80px;"}
         Version
       %th.text-center
         Release date
@@ -23,6 +23,8 @@ description: "A list of managers and other assignees for scheduled GitLab releas
       %th.text-center
         Structural check
       %th.text-center
+        Technical Advisor
+      %th.text-center
         Social
   %tbody
     - [*data.release_post_managers.releases, nil].each_cons(2) do |r|
@@ -30,11 +32,12 @@ description: "A list of managers and other assignees for scheduled GitLab releas
       - structural_check = r[0].structural_check
       - messaging = r[0].messaging
       - social = r[0].social
+      - technical_advisor = r[0].technical_advisor
       - date = Date.parse(r[0].date)
       - unpublished = (date - Date.today).to_i >= 0
       - current = unpublished && (r[1] && (Date.parse(r[1].date) - Date.today).to_i < 0)
       %tr{:style => ("background-color: ghostwhite;" if current)}
-        %td{:style => "padding-right: 50px; text-align: right;"}
+        %td{:style => "padding-right: 30px; text-align: right; min-width: 80px;"}
           - if current
             = "➡&nbsp;&nbsp;&nbsp;"
           - if unpublished
@@ -42,7 +45,7 @@ description: "A list of managers and other assignees for scheduled GitLab releas
           - else
             = link_to "#{r[0].version}", "/releases/#{date.strftime('%Y/%m/%d')}/gitlab-#{r[0].version.tr('.', '-')}-released/"
         %td
-          = date.strftime("%B #{date.day.ordinalize}, %Y (%a)")
+          = date.strftime("%b #{date.day.ordinalize}, %Y (%a)")
         %td.text-center
           - if manager
             = link_to_team_member manager
@@ -53,7 +56,10 @@ description: "A list of managers and other assignees for scheduled GitLab releas
           - if structural_check
             = link_to_team_member structural_check
         %td.text-center
+          - if technical_advisor
+            = link_to_team_member technical_advisor
+        %td.text-center
           - if social == "--"
-            = "Ping @social on Slack"
+            = link_to "@social on Slack", "https://gitlab.slack.com/archives/C3TRESYPJ", {title: 'Ping @social on Slack', target: 'slack'}
           - elsif social
             = link_to_team_member social
