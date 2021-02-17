@@ -12,7 +12,9 @@ title: Learning and Development for Product Management
 
 [**Principles**](/handbook/product/product-principles/) - [**Processes**](/handbook/product/product-processes/) - [**Categorization**](/handbook/product/categories/) - [**GitLab the Product**](/handbook/product/gitlab-the-product) - [**Being a PM**](/handbook/product/product-manager-role) - [**Performance Indicators**](/handbook/product/performance-indicators/) - [**Leadership**](/handbook/product/product-leadership/)
 
-Welcome to Learning and Development for Product Management at GitLab! Here you'll find resources to help product managers explore, learn and grow in the competencies we track in our [career development framework](LINK TO CDF) The content here spans various skill levels and is recommended to help every product manager have a successful journey at GitLab and in their product career as a whole. The content should be accessible at no cost but anything requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
+
+Welcome to Learning and Development for Product Management at GitLab! Here you'll find resources to help product managers explore, learn and grow in the competencies we track in our [career development framework](/handbook/product/product-manager-role/#product-management-career-development-framework). The content here spans various skill levels and is recommended to help every product manager have a successful journey at GitLab and in their product career as a whole. The content should be accessible at no cost but anything requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
+
 
 
 ## Recommended books and talks for all product managers
