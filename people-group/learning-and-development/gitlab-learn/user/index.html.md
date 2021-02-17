@@ -185,7 +185,7 @@ For a video walkthrough on sharing your badge to LinkedIn watch the following vi
 
 ### When will content in GitLab Learn be available for the entire GitLab team, customers, and community members?
 
-The LXP implementation team is planning a phased rollout of the platform to multiple GitLab audiences. Progress and additional information can be found on the [LXP implementation issue board](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/boards)
+The LXP implementation team is planning a phased rollout of the platform to multiple GitLab audiences. Please watch this page for future updates.
 
 ### Where is the content in the LXP stored?
 
