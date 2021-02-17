@@ -87,5 +87,8 @@ Custom fields start with [ZI] and will be visible in the Zoominfo section in SFD
 ## SFDC Account Enrichment
 All of Salesforce current accounts in the database have been enriched with Zoominfo. Accounts are scheduled to be refreshed with Zoominfo weekly on Saturdays. Instant Enrich will enrich any new accounts that are created.
 
+## SFDC Lead Enrichment
+All leads owned by the `SDR Queue` are scheduled to be enriched by Zoominfo weekly on Saturdays. Leads updated by ZoomInfo during this Scheduled Enrich job are reprocessed by LeanData and if possible, assigned to the appropriate SDR. 
+
 ### Outreach Integration
 Coming soon.
