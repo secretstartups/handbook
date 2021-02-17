@@ -30,7 +30,7 @@ A Referral is:
 
 A Referral is **not**:
 
-* Someone the Sourcing- or Recruiting Team has already sourced, screened, or been in contact with for the same requisition.
+* Someone the Sourcing or Recruiting Team has already sourced, screened, or been in contact with for the same requisition or job family.
     * This applies to *Prospects* as well as *Candidates*.
 * Someone you **do not** know and **would not** be able to speak about confidently.
 * Someone you sourced or someone who reached out to you regarding a vacancy (e.g. on LinkedIn). If someone you have **not** worked with reaches out requesting to be referred, you could respond with, *"Thank you for your interest in GitLab. We prefer that you register your interest with our Talent Community. This will ensure the that right GitLab Team Member reviews your profile and, if you're deemed suitable, replies back. Unfortunately, I cannot refer you as we have not had a chance to work together. Also, I cannot influence your application"*.
