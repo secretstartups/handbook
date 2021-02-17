@@ -569,7 +569,7 @@ graph TD
     A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket from LXP admin or Community Forum answer
+    B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin
 ```
 
 ### Slack support for team members
@@ -610,7 +610,7 @@ C-->L(ProServ has to triage ticket)
 J-->C
 ```
 
-#### Professional Services support workflow (Paid Users)
+#### Customer support workflow (Paid Users)
 
 The workflow for customers using the LXP will be determined by the Professional Services team via the `paid` Zendesk view.
 
@@ -618,8 +618,11 @@ The workflow for customers using the LXP will be determined by the Professional 
 
 ##### Zendesk Ticket Support
 
+This section will outline common questions and Zendesk macros to be used for free support.
+
 ##### Community Forum Support
 
+This section will outline how the community forum will be used as a support space for GitLab Learn.
 
 
 ### Email and macro templates
