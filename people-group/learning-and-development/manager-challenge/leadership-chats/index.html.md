@@ -98,11 +98,8 @@ The following steps are outlined for the logistics purposes for the L&D team to 
 
 #### Zoom meetings
 
-| Meeting Schedule | Structure |
-| ----- | ----- |
-| Month 1 Meetings | This is a recurring meeting in the first month of every quarter on the third Wendesday hosted by the L&D team |
-| Month 2 Meetings | This is a recurring meeting in the second month of every quarter on the third Tuesday without a host |
-| Month 3 Meetings | This is a recurring meeting in the third month of every quarter on the third Thursday without a host |
+1. Leadership Chats meetings are scheduled on the team meetings calendar
+1. L&D led conversations should be hosted by the L&D team. Other conversations do not require a host.
 
 #### Agenda and Issue Board Maintence
 
