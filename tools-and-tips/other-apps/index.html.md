@@ -130,6 +130,8 @@ https://docs.gitlab.com/search/?q={query}
 /handbook/#stq={query}&stp=1
 ```
 
+There is also [a repo maintained by GitLab team members](https://gitlab.com/gitlab-org/alfred) with GitLab related workflows.
+
 ### Brain.fm
 
 [Brain.fm (free trial)](http://brain.fm) provides music specially designed to help you focus, relax, meditate, recharge, sleep (great for plane rides).
