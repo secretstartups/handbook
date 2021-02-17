@@ -97,7 +97,7 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 ### GitLab PTY Australia Parental Leave
 
 #### Statutory Leave Entitlement
-All team members are entitled to up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of _additional_ unpaid parental leave. 
+All team members are entitled to up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of additional unpaid parental leave.
 
 #### Maternity Leave Payment
 * For team members with a yearly salary of $150,000 AUD or less:
@@ -171,14 +171,33 @@ Team members in New Zealand are eligible to take paid time off according to our 
 ### GitLab PTY New Zealand Parental Leave 
 
 #### Statutory Leave Entitlement
-Team members can take up to 52 weeks of unpaid parental leave if they have been with GitLab for at least 12 months. They can also request up to an additional 26 weeks of unpaid parental leave.
+**Primary Carer Leave**
+* All team members who have been employed for at least six months and are going to have the primary responsibility for the care, development, and upbringing of a child under six years old on a permanent basis, whether through childbirth, adoption, permanent care, or whangai are entitled to Primary Carer Leave.
+* Primary Carer Leave can last up to 26 weeks and must be taken in one continuous period.
+* Primary Carer Leave typically starts on the due date or date of birth, but may begin earlier if arrangements are made between the team member and manager.
+  * If Primary Carer Leave begins early, the team member is still entitled to 20 weeks of leave regardless of when the leave began (this may amount to more than a total of 26 weeks).
+* Primary Carer Leave cannot be taken if the team member has already taken any period of parental or similar leave in relation to that child.
 
-#### Maternity Leave Payment
-* Team members can receive government-funded Parental Leave pay for up to 26 weeks.
+**Parental Leave**
+
+* Extended Leave
+  * Team members who have been employed for at least six months, but less than twelve are eligible for up to a total of 26 weeks of unpaid leave (less time taken for Primary Carer Leave, if applicable).
+  * Team members who have been employed for at least twelve months are entitled to up to 52 weeks of unpaid leave (less time taken for Primary Carer Leave. A maximum of 26 weeks may be deducted from extended leave).
+
+* Special Leave
+
+  * Team members who are pregnant can also take up to 10 days of unpaid special leave for pregnancy-related reasons such as antenatal classes, scans, or midwife appointments. This is in addition to maternity and/or parental leave. This leave will run concurrently with GitLab PTO. If you do not want to select `Out Sick` in PTO by Roots, you may email total-rewards@gitlab.com with the date(s) that you will be taking special leave. 
+
+* Partner Leave
+  * If you are a spouse or partner and have been employed for at least six months, but less than twelve months, you are entitled to one week of unpaid partner's leave. This leave will run concurrently with [GitLab Parental Leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). Eligible team members will receive up to 16 weeks of 100% paid time off. Team members must select `Parental Leave` in PTO by Roots to ensure that their time off is properly tracked.
+  * If you are a spouse or partner and you have been employed for at least twelve months, you are entitled to two weeks of unpaid partner's leave. This will run concurrently with GitLab Parental Leave. Eligible team members will receive up to 16 weeks of 100% paid time off. Team members must select `Parental Leave` in PTO by Roots to ensure that their time off is properly tracked.  
+
+#### Parental Leave Payment
+* Team members who have been employed for at least six months can receive government-funded Parental Leave pay for up to 26 weeks.
 * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
 * To apply for government-funded Parental Leave pay, please submit your application via [IRD](https://www.ird.govt.nz/paid-parental-leave/apply). Total Rewards will have to fill out the "Employer Declaration" part of the [form](https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir880/ir880-2020.pdf).
 
-#### Paternity Leave Payment
+#### Partner Leave Payment
 * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
 
 #### Applying for Parental Leave in New Zealand
