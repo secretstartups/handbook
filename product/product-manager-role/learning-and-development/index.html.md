@@ -23,7 +23,7 @@ There are three recommended books to be read by every product manager at GitLab:
      - [Related live talk by author](INSERT LINK TO VIDEO)
 
 - **[Melissa Perry: Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/)** Describes how to build and operate a successful product team
-     - [Related live talk by author](INSERT LINK TO VIDEO)
+     - [Related live talk by author](https://www.mindtheproduct.com/escaping-build-trap-melissa-perri/)
 
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
      - [Related live talk by author](INSERT LINK TO VIDEO)
