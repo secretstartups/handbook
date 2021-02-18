@@ -91,6 +91,12 @@ Alliance Partner | PIO | Alliance Partner | Referral
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKa)
 
+## Closed / Won Business Summary 
+
+This report returns all the closed/won oppertunities for a given time periode as indexed by deals tagged by DR partner OR Influence Partner. Starting FY22'Q1, all deals affiliated with partner will be tagged in the 'influence partner' form field. 
+
+[See SFDC Report as an example](https://gitlab.my.salesforce.com/00O4M000004afD0)
+
 ## Cloud Marketplace Deal Summary
 
 This report is an example showing a summary of all public cloud marketplace deals.
