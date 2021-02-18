@@ -209,7 +209,7 @@ Managers of soon to be parents should check out this [Parental Leave Manager Too
 If you're interested in learning about how other GitLab team members approach parenthood, take a look at [the parenting resources wiki page](https://gitlab.com/gitlab-com/gitlab-team-member-resources/wikis/parenting) and [#intheparenthood](https://gitlab.slack.com/messages/CHADS8G12/) on Slack.
 
 
-### Parental Leave Administration
+### Administration of Parental Leave Requests
 
 For Total Rewards:
 
