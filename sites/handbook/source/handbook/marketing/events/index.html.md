@@ -996,8 +996,8 @@ Save event images and headers here: Save images for featured events [here](https
 - **Topic** - Name of the event you would like to add
 - **Type** - Please choose one of the following: `Diversity`, `Conference`,
 `MeetUp`, `Speaking Engagement`, `Webinar`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
-- **Date** - Start date of event
-- **Date ends** - Day event ends
+- **Date starts** - Day event starts
+- **Date ends** - Day event ends (For a single day event, please put the date in both the `Date starts` and `Date ends` section)
 - **Description** - Brief overview about event (can be taken from event homepage).
 - **Location** - city, state,provinces, districts, counties (etc depending on country), country where event will take place
 - **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, or `Online`
@@ -1010,7 +1010,7 @@ Save event images and headers here: Save images for featured events [here](https
 ```
 - topic: The Best DevOps Conference Ever
   type: Conference
-  date: January 1 - 3, 2050
+  date_starts: January 1, 2050 # Month DD, YYYY
   date_ends: January 3, 2050 # Month DD, YYYY
   description: |
                The Best DevOps Conference Ever brings together the best minds in the DevOps land. The conference consists of 3 full days of DevOps magic, literally magic. Attendees will have the opportunity to partake in fire talks and moderated sessions. This is one you won’t want to miss.
@@ -1026,7 +1026,7 @@ Save event images and headers here: Save images for featured events [here](https
 ```
 - topic:
   type:
-  date:
+  date_starts:
   date_ends:
   description:
   location:
@@ -1083,7 +1083,7 @@ Steps to take to create the new `events.yml` generated landing page:
 ```
 - topic: AWS re:Invent
   type: Conference
-  date: December 2-6, 2019
+  date_starts: December 2, 2019
   date_ends: December 6, 2019
   description: |
              AWS re:Invent 2019 is the Amazon Web Services annual user conference dedicated to cloud strategies, IT architecture and infrastructure, operations, security and developer productivity.
@@ -1138,7 +1138,7 @@ Steps to take to create the new `events.yml` generated landing page:
 ```
 - topic:
   type:
-  date:
+  date_starts:
   date_ends:
   description: |
 
