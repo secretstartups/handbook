@@ -83,7 +83,7 @@ This can answer questions such as:
 
 ### How to use this page
 
-Choose filters and then choose a route
+Choose filters and then choose a route.  Note that if you don't see any data in this dashboard, it is likely because you haven't chosen a route [filter](https://documentation.sisense.com/latest/creating-dashboards/filtering-dashboards-and-widgets/designer-filters/interact-filter-viewer.htm#gsc.tab=0) yet.
 
 ### What does it contain in common with the main dashboard?
 
