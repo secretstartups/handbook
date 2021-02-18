@@ -16,7 +16,7 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 
 ## **What's New?**
 
-Exciting news for FY22!  We are migrating our exisitng commission system to Xactly Incent!  More information to follow, however, some key features are shown below:
+Exciting news for FY22!  We are migrating our existing commission system to Xactly Incent!  More information to follow, however, some key features are shown below:
 
 #### Key Benefits of Xactly Incent
 
@@ -36,17 +36,6 @@ There are two ways to connect with us.
 
 * Via email sales-comp@gitlab.com
 * Via the Chatter feature in Salesforce
-
-## **What's New?**
-Exciting news for FY22! We are migrating our existing commission system to Xactly Incent! No action required at this time. Stay tuned for additional details on transition, training and Q&A sessions.
-
-**Key Benefits of Xactly Incent:**
-1. Refreshes multiple times per day for real-time estimated commission payout visibility, resulting in fewer adjustments after payroll
-2. Visibility into payout estimates on open opportunities with Incentive Estimator feature
-3. Incentive statements on a single layout instead of having to open individual monthly statements
-4. Manager access to their team’s individual statements
-
-Thank you for your patience as we work to update the handbook to reflect the FY22 Compensation Program.
 
 ## **Quick Reference Guide**
 
