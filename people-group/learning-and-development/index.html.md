@@ -189,9 +189,7 @@ Another strategy to improve emotional intelligence is to apply the [Social Style
 
 ### Language Courses
 
-If you have any language courses, you would like to recommend or links to websites, please add them to this section.
-
- - [The 8 Best Interactive Websites for Adults to Learn English](https://www.fluentu.com/blog/english/best-websites-to-learn-english/)
+Please review language course opportunities covered by the [GitLab Growth and Development Policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#types-of-growth-and-development-reimbursements) for more information.
 
 There is also a way to practice foreign languages and ask for advice in several Slack channels, each dedicated to a specific language. You can find all these channels by searching for channels starting with #lang. If you're missing a channel for your target language, feel free to create one and mention it in #whats-happening-at-gitlab so that fellow GitLab team-members can join too!
 
