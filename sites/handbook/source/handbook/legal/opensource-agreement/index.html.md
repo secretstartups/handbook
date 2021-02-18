@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GGitLab for Open Source Partners Agreement"
+title: "GitLab for Open Source Partners Agreement"
 description: "This agreement ..."
 ---
 
