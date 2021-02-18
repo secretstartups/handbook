@@ -53,7 +53,7 @@ In these cases, please use the workflow below.
 
 As part of access recovery, if 2FA removal is not involved, then skip the following steps and move on to the next section.
 
-1. Apply the **"GitLab.com::2FA::2FA Challenges"** macro if they have not answered the challenges already.
+1. Apply the **"Support::SaaS::2FA::2FA Challenges"** macro if they have not answered the challenges already.
 1. The macro marks the ticket as "Pending"
 
 #### If the user responds with the need for further verification (by answering the challenges)
@@ -65,7 +65,7 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
    - For almost all cases, the originating email should be the same as the one listed on the account.
    - An existing paid plain is required for 2FA resets.  However, challenge responses can be accepted from any group or project associated with the user.  This includes groups or projects that are not associated with a paid plan.
 
-1. Use the macro **"GitLab.com::2FA::2FA Internal Note"** It leaves an internal note on the ticket. Edit with the relevant admin link, your proposed data classification level, challenges and the risk factor.
+1. Use the macro **"Support::SaaS::2FA::2FA Internal Note"** to put an internal note on the ticket. Edit with the relevant admin link and copy the bottom table from the Risk Factor Worksheet into the note.
 
 1. Request that your decision be peer-reviewed by another member of the team via Slack.
 
@@ -77,7 +77,7 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
 1. For disabling 2FA: If you agree with the decision; log into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
       1. Under the account tab, click `Edit`, add an [Admin Note](/handbook/support/workflows/admin_note.html), and save.
       1. On the account tab, click on `Disable 2FA`.
-      1. Use the **"GitLab.com::2FA::2FA Removal Verification - Successful"** macro.
+      1. Use the **"Support::SaaS::2FA::2FA Removal Verification - Successful"** macro.
 
 #### User Fails to Prove Account Ownership
 
@@ -87,7 +87,7 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
    - Most commonly, an `Owner in the top level namespace` vouch is requested. The originating email of this request should match a verified email of the Owner's account.
    - For large organizations, please check the ZD org notes to see if they're using the [large customers](#large-customers) workflow before offering the challenge.
 1. If the user is unable to pass the selected challenges:
-   1. Inform them that without verification we will not be able take any action on the account. For 2FA, use the **"GitLab.com::2FA::2FA Removal Verification - GitLab.com - Failed"** macro.
+   1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the **"Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed"** macro.
    1. Mark the ticket as "Solved"
 
 ### GitLab Team Members
