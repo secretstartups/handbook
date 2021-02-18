@@ -27,15 +27,13 @@ There are three recommended books to be read by every product manager at GitLab:
      - [Related live talk by author](https://www.mindtheproduct.com/escaping-build-trap-melissa-perri/)
 
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
-     - [Related live talk by author](INSERT LINK TO VIDEO)
+     - [Related live talk by author](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 
-### Validation Track Skills
+### Discovery section
 
-#### Research and discovery
+#### User Research
 
-##### Quick reads
-
-##### Videos
+##### Quick introduction
 
 ##### Books
 
@@ -48,45 +46,39 @@ There are three recommended books to be read by every product manager at GitLab:
 
 #### Jobs to be done 
 
-##### Quick reads
+##### Quick introduction
 
-##### Videos
-- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms)
-- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/)
-- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/)
+- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (video)
+- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (video)
+- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (video)
+
 ##### Books
 
 - [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
 
 #### Lean product development
 
-##### Quick reads
+##### Quick introduction
 
-##### Videos
-
-- Lean Product Management: [Melissa Perri - Lean Product Management (Video)](https://vimeo.com/122742946)
+- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video)
 
 ##### Books
 
 #### Growth hacking 
 
-##### Quick reads
-
-##### Videos
+##### Quick introduction
 
 ##### Books
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
 
-### Build Track Skills
+### Delivery section
 
 #### User stories
 
-##### Quick reads
+##### Quick introduction
 
 - [How to split a user story](https://agileforall.com/how-to-split-a-user-story/)
-
-##### Videos
 
 ##### Books
 
@@ -94,67 +86,66 @@ There are three recommended books to be read by every product manager at GitLab:
 
 #### Backlog management
 
-##### Quick reads
+##### Quick introduction
 
-##### Videos
-
-- [Brandon Chu: Ruthless Prioritization (Article)](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) 
+- [Brandon Chu: Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 
 ##### Books 
 
 - [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
-### Business Skills
+### Business Skills section
+
+#### Product strategy
+
+##### Quick introduction
+
+- [Marty Cagan: Vision Vs. Strategy](https://svpg.com/vision-vs-strategy/)
+
+##### Books
+
+##### Online courses
 
 #### Competitive analysis
 
-##### Quick reads
+##### Quick introduction
 
 - [Stop Ignoring Your Competitors...](https://producthabits.com/competitor-analysis/)
-
-##### Videos
 
 ##### Books
 
 #### KPIs and Metrics 
 
-##### Quick reads
+##### Quick introduction
 
-##### Videos
+- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video)
 
 ##### Books
 
-### Communication Skills
+- [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
+
+### People Management section
 
 #### Stakeholder management
 
-##### Quick reads
-
-##### Videos
+##### Quick introduction
 
 - [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
 
 ##### Books
 
-### People Management Skills
-
 #### Cross-functional team management
 
-##### Quick reads
-
-##### Videos
+##### Quick introduction
 
 ##### Books
 
 #### Direct team management
 
-##### Quick reads
+##### Quick introduction
 
 - [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
-
-##### Videos
-
-- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw)
+- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video)
 
 ##### Online courses 
 
