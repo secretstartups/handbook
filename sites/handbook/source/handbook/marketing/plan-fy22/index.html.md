@@ -184,6 +184,23 @@ The teams are encouraged to contribute ideas and processes for communication her
 * [#gtm-devops-platform](https://gitlab.slack.com/archives/C01NLEXE34L)
 * [#gtm-gitops](https://gitlab.slack.com/archives/C0119FNPA84)
 
+#### Syncronous Calls
+{: #syncronous-calls}
+<!-- DO NOT CHANGE ANCHOR -->
+
+While the majority of GTM Motion work will take place asyncronously, aligned to GitLab's efficiency value, there are certain calls which will take place via Zoom.
+
+**GTM Motion Kickoff Calls (in order of occurrence):**
+* GitOps: 2021-02-23 (7 am PT | 10 am ET | 3 pm UTC)
+* DevOps Platform: 2021-02-24 (7 am PT | 10am ET | 3 pm UTC)
+* CI/CD: 2021-02-24 (8:15 am PT | 11:15 am ET | 4:15 pm UTC)
+
+**To copy calendar invite to your personal calendar:**
+* Look up Dara Warde's calendar in GoogleCal
+* Click on the calendar item, and when the preview appears, between the email icon and the X are **three dots**
+* Click the three dots icon and choose "copy to [your] calendar"
+* Now the calendar invite will be on your calendar! :tada:
+
 ### Interlocked Teams
 {: #interlocked-teams}
 <!-- DO NOT CHANGE ANCHOR -->
