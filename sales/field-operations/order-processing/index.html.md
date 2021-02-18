@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Order Processing"
+description: "This page outlines the Quote to Cash process, starting from account and opportunity creation, quote configuration, approvals, booking requirements and to the ultimate closure of a deal."
 ---
 
 ## On this page
@@ -14,7 +15,7 @@ title: "Sales Order Processing"
 **Welcome to the Sales Order Processing page!**
 {:.gitlab-purple .no_toc}
 
-This page outlines the Quote to Cash process, starting from account and opportuntiy creation, to quote configuration, to approvals and booking requirements, to the ultimate closure of a deal. This page will also cover common questions that may come up shortly after an opportunity has been closed.
+This page outlines the Quote to Cash process, starting from account and opportunity creation, to quote configuration, to approvals and booking requirements, to the ultimate closure of a deal. This page will also cover common questions that may come up shortly after an opportunity has been closed.
 
 ### Helpful Links
 
@@ -23,15 +24,18 @@ This page outlines the Quote to Cash process, starting from account and opportun
     *   [Current Quarter WW Sales Dashboard](https://gitlab.my.salesforce.com/01Z4M0000007H7W)
     *   [Monthly Bookings Report](https://gitlab.my.salesforce.com/00O61000004Ik27)
     *   [Deal Desk Pending Opportunity Approvals Report](https://gitlab.my.salesforce.com/00O4M000004e0Dp)
+    *   [Billing Pending Opportunity Approvals Report](https://gitlab.my.salesforce.com/00O61000003iSpN)
 
 *   **Frequently Used Handbook Pages**
 
     *   [Sales Order Processing](/handbook/business-ops/order-processing/)
     *   [How to Work with Legal](/handbook/legal/#3-other-legal-requests)
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
+    *   [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
     *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
+    *   [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
@@ -98,7 +102,7 @@ Deal Desk will review any quote to ensure accuracy and completion. **However, sa
 
 Occasionally, you may encounter a complex deal that has **non-standard** elements. The Deal Desk team will assist the opportunity owner in creating the quote correctly. Some examples of these complex scenarios include:
 
-* **Contract resets:** If the customer wishes to reset their subscription term in the middle of their term (for example, they want to upgrade, but want to reset their term for 12 months starting on the date of upgrade), you will need create a new subscription. In this case, the Subscription Type will be 'New' while the Opportunity Type will be 'Renewal'. Deal Desk will assist you with the credit portion for the remainder of the existing subscription, which in this case would be cancelled.
+* **Contract Resets:** If the customer wishes to reset their subscription term in the middle of their term (for example, they want to upgrade, but want to reset their term for 12 months starting on the date of upgrade), you will need create a new subscription. In this case, the Subscription Type will be 'New' while the Opportunity Type will be 'Renewal'. Deal Desk will assist you with the credit portion for the remainder of the existing subscription, which in this case would be cancelled.
 * **Co-term of multiple subscriptions:** If the customer has multiple groups and wishes to consolidate their subscriptions, an "Amendment" may be created against a "Renewal Business" opportunity.
 * **Splitting out a single subscription**. Conversely, there may be times when a customer needs to split their single subscription into multiple subscriptions. When this occurs, the Subscription Type and Opportunity Type will be 'Renewal'.
 * **Ramped Pricing:** If the prospect or customer would like to employ a ramped pricing schedule where they may want to increase their user count over time. Two examples of ramped schedules include:
@@ -149,7 +153,7 @@ Eval users SKUs are subject to the discount authorization policy.
 Booking:
 
 1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Seek approval via chatter.
-1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. IACV, PCV, etc).
+1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. ARR, iACV, PCV, etc).
 
 ### Known Quote Issues
 
@@ -619,7 +623,7 @@ The following quote metrics are available:
 If a quote has mutiple product tier skus (ex. Premium AND Ultimate), **this requires additional approvals prior to booking the opportunity**.  
 
 1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Request approval via chatter.
-1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. IACV, PCV, etc).
+1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. ARR, iACV, PCV, etc).
 
 ### **How to Send an Order Form to a Customer**
 
@@ -861,7 +865,7 @@ Quoting:
 1. Create an Order Form per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license.
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. Deliver PDF of Order Form to Peter Goldberg (GitLab Alliances team) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance.
-1. Note that IACV will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
+1. Note that Net ARR will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
 
 Requirements to Close Deal:
 
@@ -871,7 +875,7 @@ Requirements to Close Deal:
 
 Closing the Deal:
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as reflected in the Transaction Detail spreadsheet attached to the opportunity. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final IACV. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as reflected in the Transaction Detail spreadsheet attached to the opportunity. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
 1. License keys will be sent to the Sold To Contact automatically upon deal closure, per standard practice.
 1. Billing will create the invoice in Zuora and apply cash once received.
@@ -890,7 +894,7 @@ Quoting:
 1. Create an Order Form per standard practice, and enter Google Cloud Marketplace as the Invoice Owner, and Cloud Marketplace Payments as the Invoice Owner Contact. The Sold To contact must be the individual who will receive the license.
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. Deliver PDF of Order Form to Mayank Tahilramani (GitLab Alliances team) to create the Private Offer. Be sure to select the GCP Quote Template before generating a PDF. Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must reference the GitLab Quote Number, and must match the deal elements as approved on the SFDC quote object / Order Form. Work with Alliances to provide Private Offer to customer for acceptance. Note that the Private Offer references GitLab's subscription terms, and that the customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
-1. Note that IACV will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
+1. Note that Net ARR will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
 
 Requirements to Close Deal:
 
@@ -899,10 +903,17 @@ Requirements to Close Deal:
 
 Closing the Deal:
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Deal Desk will also update your price to reflect the margin taken by GCP. This WILL reduce final IACV. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Deal Desk will also update your price to reflect the margin taken by GCP. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the GCP account is permanently set to silent, and no invoices created will go to GCP.
 1. License keys will be sent to the Sold To Contact automatically upon deal closure, per standard practice.
 1. Billing will create the invoice in Zuora and apply cash once received.
+
+</details>
+
+<details>
+<summary markdown="span"><b>Specific Requirements for opportunities sold via IBM</b></summary>
+
+IBM Transactions Placeholder
 
 </details>
 
@@ -949,6 +960,40 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 **Professional Services Opportunities Only** - If the SOW outlines a split payment schedle, **only one opp is needed to book the order**. We do not use multiple opps with PS opps requiring separate payments. 
 
 </details>
+
+#### FY22 Bookings Policy
+
+This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
+
+**New Business/Add-On Opportunities:**
+- <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Quote Start Date* as reflected on the opportunity.
+  - New Business and Add-On opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
+  - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
+
+**Renewal Opportunities:**
+- <ins>Renewal opportunities with Expansion or Contraction</ins> (Net ARR not equal to $0) will be Closed Won *no more than 15 days prior to the Quote Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
+  - Renewal opportunities with Expansion or Contraction submitted for approval after the Quote Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
+  - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
+- <ins>Flat Renewal opportunities</ins> (Net ARR = $0) will be Closed Won *on the Quote Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
+  - Flat Renewal opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
+
+**Late Renewals:**
+- If a renewal is achieved *within 45 days after the Quote Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
+- **Renewal opportunities must be Closed Lost if the renewal is not achieved within 45 days after the Quote Start date (Renewal Date).**
+- If a renewal is achieved *more than 45 days after the Renewal Date, but less than 180 days after the Renewal Date*:
+  - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+  - The original Closed Lost opportunity will remain as is. A second Closed Lost opportunity will be created and closed with the inverse values of the original, to effectively cancel the original Closed Lost opportunity. This new Closed Lost opportunity will have the same close date as the new Closed Won renewal opportunity. See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+- If a renewal is achieved *more than 180 days after the Renewal Date*:
+  - The transaction should be recorded as a New Business opportunity, using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). The original Closed Lost opportunity will not be reversed.
+
+**Exceptions:**
+- Any exceptions to this policy must be approved in SFDC Chatter by the CFO.
+
+**Do I have to wait to submit my opportunity for approval?**
+- All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
+
+**My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?**
+- See [How do I know if a License Key was sent to the Customer?](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
 
 #### Purchase Order Policy
 
@@ -1084,7 +1129,7 @@ In addition to the above, Deal Desk will also review:
 
     *   Account Ownership
     *   Opportunity Ownership
-    *   Financial Fields [Amount, Renewal Amount, Renewal ACV, iACV]
+    *   Financial Fields [Amount, Renewal Amount, Renewal ACV, iACV, Net ARR]
     *   Compensation Fields [User Segment (O), Account Owner Team (O), Owner Team (O), SA Team - Xactly]
 
 **Professional Services Opportunities**
@@ -1103,7 +1148,7 @@ In addition to the above, Deal Desk will also review:
 
 Deal Desk must tag the Revenue Recognition team to review opportunities in the following scenarios:
 
-    *   Where there are multiple line items for the same product (i.e. 100 Starter licenses at 0% discount and 50 Starter licenses at 10% discount)
+    *   Where there are multiple line items for the same product (i.e. 100 SaaS - Premium licenses at 0% discount and 50 SaaS - Premium licenses at 10% discount)
     *   Any discounted Professional Services SKU
     *   Tiered Pricing
     *   Guest or Reporter Access SKU(s) in addition to a standard subscription product SKU on the same quote
@@ -1117,6 +1162,14 @@ Deal Desk must tag the Revenue Recognition team to review opportunities in the f
 The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them.
 
 #### How do I know if a License Key was sent to the Customer?
+
+Licenses (Self-Managed) and Provisioning Details (SaaS) are automatically emailed to the Sold To contact entered on the quote.
+
+Notes on License Timing:
+- Self-Managed:
+  - For self-managed deals, the license is sent to the customer immediately upon opportunity closure, but the system will not activate until the Quote Start Date.
+- SaaS:
+  - For SaaS deals, the entitlement will be provisioned and made available to the customer on the Quote Start Date.
 
 Licensing emails sent to customers are captured and stored in Salesforce as an Activity against the Contact record. This activity will also be related to the Account record, and can be found under "Acitivity History" list on the Account level.
 
@@ -1156,7 +1209,7 @@ In some cases, a prospect or customer that is currently engaged with an AE on an
 1. Now go to the original opportunity worked by the Sales Rep.
    * Change the Stage to `Closed Won`.
    * Change the `Start Date`, `End Date`, and `Opportunity Term` to match the values from the web direct opportunity.
-   * Make sure the `IACV`, `ACV`, and `Amount` values are the same.
+   * Make sure the `Net ARR`, `IACV`, `ACV`, and `Amount` values are the same.
    * Save the record.
 1. If the web direct opportunity resulted in a duplicate accounts, please do the following:
    * Open both accounts in multiple tabs.

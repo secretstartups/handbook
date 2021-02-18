@@ -35,7 +35,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
     *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
-    *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/acv-in-practice)
+    *   [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/engineering/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
@@ -59,7 +59,7 @@ The Deal Desk team will do their best to respond to each request to '@sales-supp
 | Basic Quote Assistance | 6 Hours | 8 Hours | 
 | Ramp Deal | 6 Hours | 24 hours |
 | Flat Renewal | 6 Hours | 24 Hours |
-| IACV Calculation | 6 Hours | 24 Hours |
+| IACV/ARR Review | 6 Hours | 24 Hours |
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
 
@@ -77,7 +77,7 @@ The Deal Desk team is located around the world and will be available during stan
 *  Cal Baker - Seattle, WA
 
 **APAC**
-*  Kriti D'Souza - Pune, India (Currently on leave from November 2020 to May 2021)
+*  Kriti D'Souza - Pune, India (Currently on leave from November 2020 to March 2021)
 
 #### Salesforce Chatter Communication
 
@@ -85,7 +85,7 @@ Deal Desk's primary communication channel is Salesforce Chatter. When you chatte
 
 Deal Desk team members monitor the queue throughout the day. For all cases directly related to opportunites, quoting/deal structure or booking a deal, Deal Desk will respond to a case within 6 hours, Monday-Friday, with the exception of National/Regional holidays. Resolution or escalation for these cases will occur within 24 hours. 
 
-For cases related to Account Segmentation (ROE, Territory), account data, or account merges, Deal desk will reassign these cases to our Sales Ops team to review and resolve. 
+For cases related to Account Segmentation (ROE, Territory), account data, or account merges, Deal desk will reassign these cases to our Sales Operations team to review and resolve. 
 
 To Chatter the DD team, tag `@Sales-Support`in Chatter on the related opportunity or account page and a short sentence on your request. If the Deal Desk team needs more information, we will follow up directly via Chatter. 
 
@@ -109,7 +109,6 @@ In case of a specific opportunity or quote related question please use SF Chatte
 
 Desk Desk process updates and announcements will be communicated via `**#sales**` and `**#sales-support**` Slack channels. 
 
-
 #### Deal Desk Office Hours
 
 Weekly Deal Desk Office Hours are scheduled each Wednesday at 12 PM EST. During Month End, Office Hours will take place on Monday, Wednesday, and Friday, scheduled in both AMER and EMEA time zones. Calendar invites will be sent to Sales-All Distribution group. Priority will be given to opportunities closing within the quarter. 
@@ -117,14 +116,14 @@ Weekly Deal Desk Office Hours are scheduled each Wednesday at 12 PM EST. During 
 Supported topics include:
 * Create or modifying a quote
 * Quote approval acceleration
-* IACV calculation
+* IACV/ARR calculation
 * Submitting an opportunity for close
 * Validation/segmentation of closed opportunities
 * And anything else to help drive opportunities closing within the quarter! 
 
 #### Deal Desk AMA
 
-Deal Desk AMA's are an opporutity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opporutnities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
+Deal Desk AMA's are an opportunity to invite someone from Deal Desk to your local team call. We can help address any questions regarding quote processes, best practices, or unique deal structures. Think of this as an opportunity for your team to learn together on general topics for quoting or opportunity management. For specific questions related to in-flight opportunities, it is best to join [Deal Desk Office Hours](/handbook/sales/field-operations/sales-operations/deal-desk/#deal-desk-office-hours). 
 
 Chatter or Slack #sales-support if you are interested in having Deal Desk join your team call! 
 
@@ -148,14 +147,19 @@ Team members will review opps in their region each week. We are looking for anyt
 
 The team will review opps on a monthly basis, as time allows throughout the work week. During the last month of any quarter, the review will be conducted weekly. 
 
-### IACV + Renewals
+### iACV + Renewals
 
-#### Calculating IACV 
+#### Calculating iACV 
 
-To calculate IACV, please review the [IACV page of the handbook](/handbook/sales/sales-term-glossary/acv-in-practice). Alternatively, please chatter `@Sales-support` on the opportunity for assistance in calculating IACV. 
+Note: As of FY22, iACV is no longer GitLab's primary bookings metric. 
 
-You can also use [this calculator](https://docs.google.com/spreadsheets/d/10hX1ZwTuxa-5PyJr30rTlATClzXmc8i0OunW1u-2D2I/edit#gid=0) to **estimate** the IACV for renewals.
+To calculate iACV, please review the [iACV page of the handbook](/handbook/sales/sales-term-glossary/acv-in-practice). Alternatively, please chatter `@Sales-support` on the opportunity for assistance in calculating iACV. 
 
+You can also use [this calculator](https://docs.google.com/spreadsheets/d/10hX1ZwTuxa-5PyJr30rTlATClzXmc8i0OunW1u-2D2I/edit#gid=0) to **estimate** the iACV for renewals.
+
+#### Calculating ARR
+
+To calculate ARR, please review the [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce) handbook page.
 
 ### **Zuora Quote Configuration Guide - Standard Quotes**
 
@@ -395,7 +399,7 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance. 
 . To generate a legitimate order form, you must update the Quote Template from the Draft selection to relevant order form template for the opp
 
-### **Non-standard Quotes**
+### **Non-Standard Quotes**
 
 Occasionally an opportunity will require a unique structure that is outside of the normal quote format. Examples of these scenarios are listed below. Deal Desk will partner with the Account Owner to structure the opportunity and provide guidance on creating the quote. Please chatter on the opportunity if you need assistance with one of these scenarios! 
 
@@ -411,7 +415,7 @@ Contract Resets are used to perform an "Early Renewal" - i.e. start a new 12 mon
     *   **Note: The Start Date should be the new subscription term’s start date, or the “Early Renewal” date.**
 *   Click Next and update the products and fees per the steps above.
 *   **IMPORTANT:** Next, tag `@Sales-Support` in Chatter on the Renewal Opportunity to create a credit opportunity and quote to cancel the existing subscription, which in this scenario is being replaced with the new subscription. Deal Desk will then manually generate a Contract Reset Opp and Order Form to add the credit line into the order form once the quote has been fully approved.
-*   Deal Desk will attach a PDF of the consolidated quote to the opportuntiy 
+*   Deal Desk will attach a PDF of the consolidated quote to the opportunity 
 *   Sales team will send the order form to the customer for signature
 *   Upload the signed order form to the renewal opp and to the credit opp as well and submit both opps for approval
 
@@ -419,25 +423,17 @@ On the main contract reset opportunity, populate the "Opportunity Category" fiel
 
 All Contract Reset opportunities will be classified as a "Renewal" and will be subect to Renewal ACV, which will impact overall IACV depending on the scenario. 
 
-#### Add-On + Early Renewal
-
-When a customer is adding users to an existing subscription as well as renewing the same subscription in advance of their renewal date. This **will not** change the term dates of the subscription.
-
-You will need to create a Add-on Opprotunity *and* a Renewal opportunity.
-
-*   Create an Amendment quote per the Amendment quote guide above on the relevant Add On opportunity.
-*   Create a Renewal Quote object from the renewal opportunity per the Renewal Quote guide above.
-*   Once both qutoes are fully approved, tag `@Sales-Support` in Chatter on the Renewal opportunity to create the consolidated Order Form.
-
+For more information on ARR calculation for Contract Resets, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-contract-resets).
 
 #### Multi-Year Deals
 
-
-A.  Note: In the case of multi-year deals, the Initial Term” should be updated to reflect the number of months in the term - 24, 36, 48, etc. Also, select the correct Product (i.e. for a 2 year Starter deal, select “Starter - 2 Year”). Multi-year deals that do not utilize the correct SKU will be rejected. 
+A.  Note: In the case of multi-year deals, the Initial Term” should be updated to reflect the number of months in the term - 24, 36, 48, etc. Also, select the correct Product (i.e. for a 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Multi-year deals that do not utilize the correct SKU will be rejected. 
 
 B.  If annual payments are requested for multi-year deals, use the 1 Year product. Note that annual payments must be approved in chatter by Paul Machle.
 
 C.  Note: If annual payments are approved, create a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed. The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments."
+
+For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
 
 #### Ramp Deals 
 
@@ -474,6 +470,8 @@ B.  Request template:
 C.  Deal Desk will create the quotes and Order Form.
 
 On the opportunity, populate the "Opportunity Category" field with "Ramp."
+
+For more information on ARR calculation for Ramp Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals).
 
 #### Miscellaneous (But Important) Information related to Quotes
 
@@ -529,7 +527,7 @@ If an opportunity requires multiple invoices due to a specific professional serv
 
 **Invoice Amounts** 
 
-If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the original opporuntiy must reflect the entire opportunity term. 
+If all payments associated with the opportunity are equal (ex. 3 payments of $10,000) the quote on the original opporunity must reflect the entire opportunity term. 
 
 **Ex.** 
 
@@ -538,7 +536,7 @@ If all payments associated with the opportunity are equal (ex. 3 payments of $10
 * Invoice Only Opp - Year 2 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
 * Invoice Only Opp - Year 3 - Update the Amount field to reflect the total to be invoiced. A quote object is not required.
 
-If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- then the original opporuntiy quote should only reflect the first year (invoice period) of the subscription. 
+If the payment amounts or user count per year are not identical, (ex. Year 1 - $15,000 Year 2 - $10,000, Year 3 $5,000)- then the original opporunity quote should only reflect the first year (invoice period) of the subscription. 
 
 **Ex.** 
 
@@ -565,7 +563,6 @@ To create opportunities requiring multiple invoices:
 *  Submit the Opportunity for Deal Desk/Billing approval. The Billing team will flag each deliverable opportunity for future invoice periods.
 
 Note: The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments" or "Custom Payment Schedule," whichever applies.
-
 
 #### Zuora Quote Template Updates 
 

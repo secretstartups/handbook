@@ -23,8 +23,7 @@ Please see the dedicated [ARR Technical Documetation Page](https://about.gitlab.
 Please see the dedicated [Gainsight Technical Documentation Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight/)
 
 ## Territory Success Planning
-<details>
-  <summary markdown="span">Territory Success Planning Info</summary>
+
 **Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp)
 
 **Overview:** The goal of TSP is to keep a set of staging fields consistently up to date from a variety of data sources, then at given intervals copy these values to the "Actual" set of fields for general use. This allows for us to constantly receive changes but only apply those changes in a controlled fashion. This also allows us to easily track exceptions. Note: This project was originally referred to as ATAM, which is why the API names of the fields reference that instead of TSP.
@@ -46,11 +45,9 @@ Code Units:
 | Sales Segment | Ultimate_Parent_Sales_Segment_Employees__c | JB_Test_Sales_Segment__c    |
 | Territory     | Account_Territory__c                       | ATAM_Territory__c           |
 
-</details>
 
 ## Contact Ownership
-<details>
-  <summary markdown="span">Contact Ownership</summary>
+
 **Business Process this supports:** This supports our [contact ownership rules](/handbook/sales/field-operations/gtm-resources/#changing-contact-ownership-in-salesforce)
 
 **Overview:** The goal of the Contact Ownership code is to ensure that contacts are owned by the appropriate user within salesforce in an automated fashion so that contact ownership is maintained without any work needed by team members. 
@@ -63,11 +60,9 @@ Code Units:
 
 **Outputs:** Contact Owner
 
-  </details>
 
 ## Salesforce Record Sharing And Visibility Settings 
-<details>
-  <summary markdown="span">Record Sharing and Visibility Info</summary>
+
 **Business Process this supports:** Security and compliance requirements for federal customers
 
 **Overview:** The goal of our record sharing settings in Salesforce is so that the Public Sector Team and approved supporting functions can view public sector records. A Public Sector record is considered any record in Salesforce that is owned by the Public Sector team. This is accomplished by the use of sharing rules and groups within Salesforce. If a record is owned by a member of the Public Sector Group then that record is only shared and visible to other members of the Public Sector Group. If the record is owned by anyone other than a member of the public sector group, then that record is visible to all internal users within our Salesforce Instance. Membership to these applicable groups is controlled by System Administrators and Sales Operations.  
@@ -75,11 +70,10 @@ Code Units:
 **Logic Locations:** 
 * [Salesforce Object Sharing Settings](https://gitlab.my.salesforce.com/p/own/OrgSharingDetail?setupid=SecuritySharing&retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DSecurity)
 * [Public Groups in Salesforce](https://gitlab.my.salesforce.com/p/own/OrgPublicGroupsPage/d?setupid=PublicGroups&retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DUsers)
-</details>
+
 
 ## Quote Approval System
-<details>
-  <summary markdown="span">Quote Approval System Info</summary>
+
 **Business Process this supports:** Discount Approvals
 
 **Overview:** According to the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit) Quotes must have discounts approved by different management levels depending on discount percentage and term length. To achieve this, we have written automation to stamp a quote with each potential approver, revised the code that determines which approvals are required, and revised the actual approval process in Salesforce.
@@ -127,11 +121,10 @@ Code Unit:
 * [Salesforce Approval Process Setup](https://gitlab.lightning.force.com/lightning/setup/ApprovalProcesses/home)
 Manage Approval Process For:
     * Quote (Installed Package: Zuora Quotes)
-</details>
+
 
 ## Salesforce Chatter to Cases 
-<details>
-  <summary markdown="span">Chatter to Cases Info</summary>
+
 **Business Process this supports:** The field needs a streamlined process to address their concerns on specific salesforce records [within salesforce](/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). This is also used by the finance team to help address record specific billing issues, as well as the Community Advocate team to manage the influx of requests the team receives. 
 
 **Overview:** The goal of the Chatter To Cases functionality is to allow a streamlined communication channel that the field can leverage while also providing a streamlined case management system for the supporting team members to manage the requests that are sent to them from the field. If a team member uses an appropriate tag in salesforce a salesforce case record will automatically be created. Once these records are created supporting team members can work through the respective cases that are created to address the fields needs and concerns.
@@ -156,8 +149,6 @@ Code Units:
    * This alias is leveraged by the Deal Desk team to manage inbound request from the Sales Team 
 * `@billing ops`
    * This alias is leveraged by the Billing team to manage inbound request as they pertain to Billing
-* `@community-advocate`
-   * This alias is monitored by the Community Advocate team.
 * `@revenue`
    * This alias is leveraged by the Revenue team to review Opportunities and how we will record revenue. [Detailed Response Here](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/859#note_386593491)
 * `@SMB Flat Renewals`
@@ -174,11 +165,10 @@ Code Units:
 
 **Related Epic**
 * [@Sales-Ops Case Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/7)
-</details>
+
 
 ## Legal Request System
-<details>
-  <summary markdown="span">Legal Request System Info</summary>
+
 **Business Process this supports** The sales cycle, if a GitLab sales rep encounters an issue that requires legal knowledge, opinion, or action.
 
 **Overview** A sales rep can quickly and easily create a Case for our legal team directly from an Opportunity's page layout in Salesforce. The legal team has access to a Salesforce dashboard to see how many Cases have been created for them, how many are in their name, etc. Clicking the "Legal Request" button on each Opportunity's page will bring the user to a page that asks a few questions that the legal team would like to know. Once the page is submitted, a Case is created with the Origin marked as "Legal Request." The legal team has dashboards that view Cases with Origin equal to "Legal Request" and can assign and take action from there.
@@ -190,11 +180,9 @@ Code Units:
     * [LegalCaseCreate.page](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/pages/LegalCaseCreate.page)  
 * Apex Classes:
     * [LegalCaseCreateController.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/LegalCaseCreateController.cls)
-</details>
+
 
 ## Primary Quote System
-<details>
-  <summary markdown="span">Primary Quote System Info</summary>
 
 **Business Process this supports** The sales cycle and the financial processes around deals.
 
@@ -204,11 +192,9 @@ Code Units:
 * [ZuoraQuoteClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/ZuoraQuoteClass.cls)
 Code Unit:
     * primaryCheck
-</details>
+
 
 ## Opportunity Stage Progression Tracking
-<details>
-  <summary markdown="span">Opportunity Stage Progression Info</summary>
 
 **Business Process this supports** The sales cycle and analytics.
 
@@ -216,11 +202,10 @@ Code Unit:
 
 **Logic Locations**
 * To be added once functionality is in Production
-</details>
+
 
 ## Block Salesforce From Transferring Historical Opp Owners On Account Owner Transfers
-<details>
-  <summary markdown="span">Historical Opportunity Owner Maintanence Info</summary>
+
 **Business Process this supports:** In order to provide reliable and accurate historical data to the analytics team, the sales organization and to the companye as a whole we need to ensure that historical opportunities and relevant information on opportunities is not changed once the opportunity is closed. 
 
 **Overview:** The goal of this blocking logic is to close a backdoor that Salesforce has built into the system. While we have a number of validation rules in place to prevent information from changing on closed opportunities it is possible to change historical opportunity owners (as well as fields that are derived from the owner field) while transferring accounts. Anyone who could have been able to change the owner on an account would have been able change historical opportuntiy data that they would not be able to edit otherwise. This logic still allows users to complete this account ownership transfer without any impact to historical opportunities while also allowing the various business teams at GitLab to manually update the owners of opportunities at month close.
@@ -239,11 +224,9 @@ Code Units:
    * [AccountClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClass.cls)
 * Tests
    * [AccountClassTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/AccountClassTest.cls)
-</details>
 
 ## Order Type System
-<details>
-  <summary markdown="span">Order Type System Info</summary>
+
 **Business Process this supports:** [New vs Connected New vs Growth](/handbook/sales/sales-term-glossary/)
 
 **Overview:** The goal of the Order Type system is to determine a given Opportunity's relationship with the business. Did it start a new customer relationship, cross into a related segment of the customer, or grow an existing relationship.
@@ -264,11 +247,9 @@ Code Units:
 | New - First Order | The First Closed Won Opportunity in an Account Family. |
 | New - Connected | The First Closed Won Opportunity on an individual Account, that is not the first one in the Account Family.|
 | Growth | All opportunities that follow the `New - First Order` or `New - Connected` opportunities. This includes Add-ons, Renewals, and additional Subscriptions. |
-</details>
+
 
 ## Lead Segmentation
-<details>
-  <summary markdown="span">Lead Segmentation Info</summary>
 
 **Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 
@@ -287,11 +268,8 @@ Code Units:
 Code Unit: 
    * determineSegment
 
-</details>
 
 ## Force Management / Command of The Message / Command Plan
-<details>
-  <summary markdown="span">Force Management / Command of The Message / Command Plan</summary>
 
 **Business Process this supports:** [Command of The Message](/handbook/sales/command-of-the-message/)
 
@@ -300,12 +278,9 @@ Code Unit:
 **Logic Locations:** 
 * [ForceManagement.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/ForceManagement.cls)
 * [ForceManagement.page](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/pages/ForceManagement.page)
-</details>
 
 
 ## Linear Weighted iACV
-<details>
-  <summary markdown="span">Linear Weighted iACV</summary>
 
 **Business Process this supports:** [Linear Attribution](/handbook/marketing/marketing-operations/bizible/#linear-attribution)
 
@@ -314,11 +289,10 @@ Code Unit:
 **Logic Locations:** [OpportunityJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityJob.cls)
 Code Unit: 
    * countBizibleTouchpointsCalculateLineariACV
-</details>
+
 
 ## Mavenlink
-<details>
-  <summary markdown="span">Mavenlink</summary>
+
 
 **Business Process this supports:** This supports our professional services team. They leverage Mavenlink projects to coordinate their projects, the hours they spend on each project and their associated tasks, schedules and more. 
 
@@ -335,11 +309,10 @@ Code Unit:
    * [OpportunityClassTests.CreateAndMaintainMavenLinkProject](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClassTests.cls#L227)
    * [QuoteRatePlanChargeClassTest.CreateAndMaintainMavenLinkProject](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/QuoteRatePlanChargeClassTest.cls#L3)
    * [GitlabMavenlinkExtensionTest.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/GitlabMavenlinkExtensionTest.cls)
-</details>
+
 
 ## Opportunity Splits
-<details>
-  <summary markdown="span">Opportunity Split</summary>
+
 
 **Business Process this supports:** This supports the automatic creation validation of our opportunity split that supports our compensation team. This helps ensure that our team members are compensated for the opportunities that they are associated with in an automated fashion 
 
@@ -377,4 +350,3 @@ Code Unit:
    - [OpportunityClass.maintainTeamMembersToSplits](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L399)
    - [OpportunityClass.checkAndConfirmSplitPercentages](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L337)
    - Please also see the [OpportunityClass.singleWonOppSplitOwnerUpdate](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L126) where split are also handled but not directly in alignment with the needs for this process
-</details>
