@@ -217,3 +217,20 @@ We have a [billable members API endpoint](https://docs.gitlab.com/ee/api/members
 
 All the billable members are also currently displayed on the group billing page in an unsorted list. This is a first iteration; if interested, you can view the [epic](https://gitlab.com/groups/gitlab-org/-/epics/4547) to see the planned work. If you have any feedback on the billable members list or want to request functionality or UI changes that are not planned in the epic, please feel free to leave a comment on the epic.
 
+#### I want to add important information about the organization/user
+
+Zendesk has the ability to store Organization and User notes. Via triggers, we
+then put these into each ticket submitted by that organization or user. If
+there is important information you wish to have included in tickets for an
+organization or user, please create an issue under the
+[support-ops-project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/)
+using the
+[Add Zendesk Organization Notes or Tags Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request)
+template. Please be sure to indicate whether the information is only valid
+for a specific period of time so that we may include that fact in the notes. 
+
+Examples of some notes you might want added:
+
+* You want to put the SA's name on there for use in the tickets.
+* A customer prefers specific titles be used when addressing them.
+* An organization has multiple subscriptions.
