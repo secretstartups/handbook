@@ -103,7 +103,16 @@ Once you have completed a course on LinkedIn Learning, you will recieve a certif
 
 ## LinkedIn Learning Groups
 
+Self-organizing a group to complete a LinkedIn Learning course together can be a great way to keep eachother accountable, discuss your learning, and connect with new team members. Similar to our [book clubs](/handbook/leadership/book-clubs/), we encourage team members to organize LinkedIn Learning groups to learn together.
 
+Use this checklist when organizing your LinkedIn Learning group. Here is an example of how the [GitLab Women TMRG organized and implemented a LinkedIn Learning group](https://gitlab.com/gitlab-com/women-tmrg/-/issues/10).
+
+1. Organize a group of learners. Consider reaching out to your team, the #what's-happening-at-GitLab channel, or a TMRG you're part of. Pose the opportunity to learn together and see what response you get!
+1. Explore courses on LinkedIn Learning. We have suggestions on this page for all team members, but feel free to get specific in an area you're passionate about!
+1. Vote or decide on a cousre to take together. 
+1. Set a completion goal. Be realistic with how much time you have to learn each week. Consider a 2 or 3 month completin goal.
+1. Decide how you want to collaborate. You may want to meet bi-weekly to discuss synchronously or use issues to collabrate async. 
+1. Have a celebration! When you've completed the course, consider having a celebration to recap your learning, share takeaways, and recognize your accomplishments. Share your takeaways and badges on your LinkedIn profile if you'd like!
 
 ### Provisioning Access 
 
