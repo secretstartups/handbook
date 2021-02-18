@@ -29,7 +29,7 @@ There are three recommended books to be read by every product manager at GitLab:
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
      - [Related live talk by author](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 
-### Discovery section
+### Discovery
 
 #### User Research
 
@@ -64,7 +64,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-#### Growth hacking 
+#### Experimentation and Growth hacking 
 
 ##### Quick introduction
 
@@ -72,7 +72,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
 
-### Delivery section
+### Delivery
 
 #### User stories
 
@@ -94,7 +94,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
-### Business Skills section
+### Business Acumen
 
 #### Product strategy
 
@@ -124,13 +124,31 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
 
-### People Management section
+### Communication and collaboration 
+
+#### Writing to inspire, align and activate 
+
+##### Quick introduction
+
+##### Books
+
+#### Presentations, prepared and ad hoc
+
+##### Quick introduction
+
+##### Books
+
+#### 
+
+##### Quick introduction
+
+##### Books
+
+### Team Management
 
 #### Stakeholder management
 
 ##### Quick introduction
-
-- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
 
 ##### Books
 
@@ -146,6 +164,8 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
 - [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video)
+
+##### Leadership and influence
 
 ##### Online courses 
 
@@ -177,7 +197,8 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 
 #### Other
 
-- Mind the Product Slack channel](https://www.mindtheproduct.com/product-management-slack-community/)
+- [Mind the Product Slack channel](https://www.mindtheproduct.com/product-management-slack-community/)
+- [GitLab team member Viktor Nagy on Twitter](https://twitter.com/nagyviktor)
 
 
 ### Thought leaders and influencers
@@ -187,7 +208,6 @@ The one of the best ways to stay in the know is to follow people! There are a lo
 - [Jackie Bavaro](https://twitter.com/jackiebo)
 - [Marty Cagan](https://twitter.com/cagan)
 - [John Cutler](https://twitter.com/johncutlefish)
-- [Viktor Nagy](https://twitter.com/nagyviktor)
 - [Ken Norton](https://twitter.com/kennethn)
 - [Jeff Patton](https://twitter.com/jeffpatton)
 - [Roman Pichler](https://twitter.com/johncutlefish)
