@@ -17,12 +17,10 @@ There are three important components of developing one's career:
 
 Team members who are (or want to be) on track for promotion should be engaged in
 a career coaching conversation with their manager. Some basic information about
-this process can be found in the [People Ops
-handbook](/handbook/people-group/learning-and-development/career-development/#career-mapping-and-development).
+this process can be found in the [People Ops](/handbook/people-group/learning-and-development/career-development/#career-mapping-and-development) handbook.
 Specific coaching plan templates are listed here to help start the conversation:
 
-- [Senior
-  Engineer](https://docs.google.com/document/d/11xZpY2RuTldp1g6bHRFYKwwlQjNjYaPquLPo5uD6hrg/edit#)
+- [Senior Engineer](https://docs.google.com/document/d/11xZpY2RuTldp1g6bHRFYKwwlQjNjYaPquLPo5uD6hrg/edit#)
 - (Others to come)
 
 We want to build these documents around the career matrix for Engineering. Since this career
@@ -31,8 +29,7 @@ matrix is still being developed, these documents are currently based on the [job
 The first career matrix being developed is for [Individual Contributors in Engineering](/handbook/engineering/career-development/matrix/engineering/).
 
 When a team member is deemed ready for promotion, their manager should follow
-the [promotion process outlined by People
-Ops](/handbook/people-group/promotions-transfers/).
+the [promotion process outlined by People](/handbook/people-group/promotions-transfers/) Ops.
 
 Remember that the coaching process helps team members understand what they need
 to do in order to prepare for a more senior position on the team. The promotion
@@ -43,15 +40,15 @@ substitutes for each other.
 ### Individual Initiative
 
 Most career opportunities involve stepping into a position of informal or formal leadership. As such, the initiative
-of the individual is a necessary component, as well as a qualification. However, for the sake of inclusion we do ask that
+of the individual is a necessary component, as well as a qualification. However, for the sake of inclusion, we do ask that
 managers periodically bring up the possibilities for advancement so that individuals know the avenues available to them
-and receive encouragement to pursue them. Managers and team members should strive to have a career development
+and receive encouragement to pursue them. Managers and individual contributors should strive to have a career development
 conversation at least once a quarter.
 
 ### Opportunity
 
 The GitLab Engineering career track offers a full path of opportunity for individuals to contribute. The availability of senior engineering roles starting at Staff Engineer will be governed by the IC Gearing Ratios (TBD).
-There are scenarios where a position must become available before a promotion can occur. On the engineering track, there must be a position of need to be promoted from a Senior Engineer to either a Staff Engineer or an Engineering Manager, depending on your chosen path.  Progression beyond these types of roles (e.g. Senior Engineer) are not guaranteed by time in role. There must a justifiable need for the role and the candidate must have some level of demonstrated ability to thrive in these roles to be considered for the new position.
+There are scenarios where a position must become available before a promotion can occur. On the engineering track, there must be a position of need to be promoted from a Senior Engineer to either a Staff Engineer or an Engineering Manager, depending on your chosen path. Progression beyond these types of roles (e.g. Senior Engineer) are not guaranteed by time in role. There must be a justifiable need for the role and the candidate must have some level of demonstrated ability to thrive in these roles to be considered for the new position.
 
 These next level opportunities are not guaranteed to be available and should not be viewed as career limiting. Again, using the Senior Engineering role as an example, is a critical role within GitLab. It is an accomplishment to thrive at the Senior level and should be celebrated as such.
 
@@ -59,22 +56,24 @@ These next level opportunities are not guaranteed to be available and should not
 
 Most important is the fork between purely technical work and managing teams. It's important that Engineering Managers self-select into that track and don't feel pressured. We believe that management is a craft like any other and requires dedication. We also believe that everyone deserves a manager that is passionate about their craft.
 
-Once someone reaches a Senior-level role, and wants to progress, they will need to decide whether they want to remain purely technical or pursue managing technical teams. Their manager can provide opportunities to try tasks from both tracks if they wish. Staff-level roles and Engineering Manager roles are equivalent in terms of base compensation and prestige. Learn more about what it means to be a Staff-level engineer at GitLab in a [Engineering IC Leadership page](/handbook/engineering/ic-leadership).
+Once someone reaches a Senior-level role, and wants to progress, they will need to decide whether they want to remain purely technical or pursue managing technical teams. Their manager can provide opportunities to try tasks from both tracks if they wish. Staff-level roles and Engineering Manager roles are equivalent in terms of base compensation and prestige. Learn more about what it means to be a Staff-level engineer at GitLab in an [Engineering IC Leadership page](/handbook/engineering/ic-leadership).
 
 ### Trying the Management Track
 
 It's important that team members interested in the people management track have opportunities to try it out prior to committing themselves. Managers can provide multiple opportunities to Senior and Staff Engineers who want to consider moving into an available or upcoming manager role. Examples include hosting a Group Conversation, acting as the hiring manager for an intern position, or running a series of demo meetings for an important deliverable. These occasions for trying out management functions are useful and can provide good coaching opportunities for the individual looking to move to management. Some engineers may find through these experiences that they are better suited to remain on the technical path, and this gives them the ability to decide before investing a significant amount of time in the transition.
 
-In order to facilitate the transition, we recommend any person moving from an Individual Contributor role to a Engineering Manager role work with their manager to create a focused transition plan. The goal is to provide a concentrated look into the responsibilities and challenges of people management with the understanding that, if the role is not for them, they can return to the IC track. A good example of how to build such a plan can be found in [this article](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/). Another good resource for when you are ready for the critical career path conversation is [this 30 mins video](https://www.youtube.com/watch?reload=9&v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=6).
+In order to facilitate the transition, we recommend any person moving from an Individual Contributor role to an Engineering Manager role work with their manager to create a focused transition plan. The goal is to provide a concentrated look into the responsibilities and challenges of people management with the understanding that, if the role is not for them, they can return to the IC track. A good example of how to build such a plan can be found in [this article](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/). Another good resource for when you are ready for the critical career path conversation is [this 30 mins video](https://www.youtube.com/watch?reload=9&v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=6).
 
 ### Temporary Management Positions
+
 We create temporary management positions when there is organizational need, and we imprint these in our company org chart. These may be filled by someone who is transitioning into the role ([Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager)), experimenting with the role as they work on determining their career path ([Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) or [Acting Manager](https://about.gitlab.com/handbook/engineering/career-development/#acting-manager)) or, someone who is just filling in while we hire and who is not interested in pursuing an Engineering Manager role long term ([Acting Manager](https://about.gitlab.com/handbook/engineering/career-development/#acting-manager)). This difference should be made explicit with the individual and team members before the temporary role is created. See the [types of temporary roles](#types-of-interim-roles) for more information on this distinction.
 
-When someone fills a temporary role they are providing a service to the company, and perhaps getting a valuable career development opportunity for themself; so, poor performance against those duties would not result in termination. At worst, the person would return to their prior responsibilities. That does not mean, however, that an individual is immune to termination of their employment, for example if they commit a breach of their prior responsibilities or of the company's Code of Business Conduct & Ethics while in an temporary position.
+When someone fills a temporary role they are providing a service to the company, and perhaps getting a valuable career development opportunity for themself; so, poor performance against those duties would not result in termination. At worst, the person would return to their prior responsibilities. That does not mean, however, that an individual is immune to termination of their employment, for example if they commit a breach of their prior responsibilities or of the company's Code of Business Conduct & Ethics while in a temporary position.
 
 Once you have been designated as filling a temporary management role, the current manager should update all reports to in BambooHR with a job information change request and create an access level request to grant interim manager access in BambooHR. Note that direct reports in BambooHR generally are [not moved to Acting managers](/handbook/people-group/promotions-transfers/#acting).
 
 Those interested in these roles must:
+
 - show managerial interest
 - have experience in the individual contributor role for which they would be managing
 - have been employed at GitLab for at least 6 months and thriving in our remote-only context
@@ -83,15 +82,19 @@ Those interested in these roles must:
 - For Interim Manager roles: Apply through [Greenhouse](https://about.gitlab.com/handbook/people-group/promotions-transfers/#greenhouse-process-requirements) and go through selection process
 
 Process for selection:
+
 - Upcoming Interim and Acting manager roles will be discussed over the Engineering and Development Staff meetings.
 - Leadership can gather interest from their team members for the upcoming roles.
 - Based on the above criteria the assessment will take place and most suitable team member will be selected for the role.
 
 #### Types of Interim Roles
+
 ##### Acting Manager
+
 An [Acting Manager](/handbook/people-group/promotions-transfers/#acting) is someone who occupies a role temporarily and will move back to their original role after a set amount of time or other conditions. An Acting Manager may be experimenting with the role as a part of determining their career development path, or may be filling in for a vacant role while we hire.
 
 ##### Interim Manager
+
 When a team member is pursuing a people manager role (Level Manager+) long term we apply an interim period in the following instances:
 
 | Current level      | Desired level  | Previous Management experience (6+ months) | Application of interim period |
@@ -110,6 +113,7 @@ For Director+ positions no interim is required.
 Interim Manager positions are for individuals who are pursuing the role long term: the requirement is that, before moving into the role full time, they will make at least one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
 
 In some cases, or for Director level interim roles, it may not be practical or headcount planning might not allow for the Interim Manager to make a new hire. In this case the Interim Manager and the interim manager's manager should agree on success criteria based on the requirements of the role. Examples of other success criteria are (multiselect):
+
 - Successfully pass an interview(s) with the Leader(s) of the department(s) around team management competencies/scorecard for Manager;
 - Successfully pass team member relations case role play with the [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division);
 - Performing career development conversations with direct reports successfully;
@@ -188,7 +192,6 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem
   eng:jbe-->eng:ibe-->eng:sbe-->eng:stb & eng:bem;
   end
-
 ```
 
 #### Security Department
@@ -403,26 +406,28 @@ subgraph Based on Merit &amp; Company Need
   click eng:dei "/job-families/engineering/infrastructure/distinguished-engineer/";
   click eng:efi "/job-families/engineering/infrastructure/engineering-fellow/";
 ```
+
 ## Apprenticeship for Learning
 
 Typically, an apprenticeship provides an individual with an overview of a position or field over a short period of time. It’s surface-level learning geared towards team members who are still exploring their interests and deciding what options they’d like to pursue. If the field of interest, it's subject matter experts and the department they want to learn more about can support this effort, then this offers a good opportunity for an internship. For more information on the process please review this handbook section on [Internship for Learning](https://about.gitlab.com/handbook/people-group/promotions-transfers/#internship-for-learning).
 
 Eligibility criteria:
-* You are excelling in your role (no performance issues)
-* You have been working full time with GitLab for at least 6 months
+
+- You are excelling in your role (no performance issues)
+- You have been working full time with GitLab for at least 6 months
 
 The apprentice agrees to:
 
-* Continue to support their current role and report to their current manager
-* Dedicate a pre-determined percentage of their time to the apprenticeship role
-* Have clear timelines and deliverables throughout the apprenticeship
-* Communicate their assignments and availability clearly to both departments
+- Continue to support their current role and report to their current manager
+- Dedicate a pre-determined percentage of their time to the apprenticeship role
+- Have clear timelines and deliverables throughout the apprenticeship
+- Communicate their assignments and availability clearly to both departments
 
 In return, the department with which they are interning agrees to:
 
-* Provide guidance and support to the apprentice
-* Offer meaningful projects for the apprentice to work on
-* Be flexible, so that the apprentice can continue to support their primary team and carry an appropriate workload
+- Provide guidance and support to the apprentice
+- Offer meaningful projects for the apprentice to work on
+- Be flexible, so that the apprentice can continue to support their primary team and carry an appropriate workload
 
 By default, apprenticeships last for 6 months. At the end of 6 months, both the intern and the department will determine whether it makes sense to extend the timeframe further.
 
@@ -478,8 +483,8 @@ Lateral transfers among backend teams are also an option. Those teams include Di
 
 A team member may be "on loan" to another team for various reasons. This is less formal and handled differently than [interim](#types-of-interim-roles) roles. When this occurs it is recommended to:
 
-* Invite the team member to all Slack channels used by the team. (Don't worry about Slack channel overload. The team member can unsubscribe if they don't find it useful.)
-* Invite the team member to any standup activities used by the team. To avoid task overload, the team member can choose to stop participating in their home team standup.
-* The manager of the team should schedule weekly 1-1 meetings with the on-loan team member. The team member can choose to stop having weekly 1-1s with their home team manager.
+- Invite the team member to all Slack channels used by the team. (Don't worry about Slack channel overload. The team member can unsubscribe if they don't find it useful.)
+- Invite the team member to any standup activities used by the team. To avoid task overload, the team member can choose to stop participating in their home team standup.
+- The manager of the team should schedule weekly 1-1 meetings with the on-loan team member. The team member can choose to stop having weekly 1-1s with their home team manager.
 
 Team members who were on loan to another team documented these best practices in a retrospective.
