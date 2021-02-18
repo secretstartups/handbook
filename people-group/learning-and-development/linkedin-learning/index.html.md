@@ -110,7 +110,7 @@ Use this checklist when organizing your LinkedIn Learning cohort. Here is an exa
 1. Organize a cohort of learners. Consider reaching out to your team, the #what's-happening-at-GitLab channel, or a TMRG you're part of. Pose the opportunity to learn together and see what response you get!
 1. Explore courses on LinkedIn Learning. We have suggestions on this page for all team members, but feel free to get specific in an area you're passionate about!
 1. Vote or decide on a cousre to take together. 
-1. Set a completion goal. Be realistic with how much time you have to learn each week. Consider a 2 or 3 month completin goal.
+1. Set a completion goal. Be realistic with how much time you have to learn each week. Consider a 2 or 3 month completion goal.
 1. Decide how you want to collaborate. You may want to meet bi-weekly to discuss synchronously or use issues to collabrate async. 
 1. Have a celebration! When you've completed the course, consider having a celebration to recap your learning, share takeaways, and recognize your accomplishments. Share your takeaways and badges on your LinkedIn profile if you'd like!
 
