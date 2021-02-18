@@ -29,7 +29,7 @@ Responsibilities include (but are not limited to):
 If you'd like to request engineering assistance with an issue, bug fixes, urgent requests related to People Group processes
 or tools ([like BambooHR](/handbook/people-group/#using-bamboohr)) or anything relating to People Group Engineering, please start by
 [creating an issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/new)
-in the People Group Engineering project. All issues are reviewed and prioritised to a specific [milestone](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/milestones). If you require general support with MR's, kindly collaborate with all of GitLab team members in #mr-buddies in slack. 
+in the People Group Engineering project. All issues are reviewed and prioritised to a specific [milestone](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/milestones). If you require general support with MR's, kindly collaborate with all of GitLab team members in #mr-buddies in slack.
 
 ### Report bugs
 
@@ -67,21 +67,28 @@ Ops Engineer always adds the reason why an issue is moved to blocked.
 ### Review process
 1. Assign your merge request to anyone in the People Group Engineering team
 1. They will review it. Once the review is done, they will assign it back to you.
-1. If the merge request was not approved yet, address the feedback and assign it back to the reviewer. 
+1. If the merge request was not approved yet, address the feedback and assign it back to the reviewer.
 1. Continue the previous two steps until the merge request is approved.
 1. If you have merge rights, merge the merge request. If you don't have merge rights, ask the reviewer to merge it.
 
 ## Current projects
 
-All projects are public in this [group](https://gitlab.com/gitlab-com/people-group/peopleops-eng/).
+We've build several automations and tools to support our People Group. In the following pages, you can find more details about all the different projects or automations we've created:
 
-You can find more information on the following pages:
-- [Access Request Issues](/handbook/people-group/engineering/access-requests-issues)
-- [Assessment Tool](/handbook/people-group/engineering/assessment-tool)
-- [Email Automation](/handbook/people-group/engineering/email-automation)
-- [Employment Issues](/handbook/people-group/engineering/employment-issues)
+### Team member's employment
 - [Greenhouse <> BambooHR Sync](/handbook/people-group/engineering/gh-bhr-sync)
-- [Miscellaneous](/handbook/people-group/engineering/miscellaneous)
+- [Onboarding Automations](/handbook/people-group/engineering/onboarding)
+- [Career Mobility Automations](/handbook/people-group/engineering/career-mobility)
+- [Offboarding Automations](/handbook/people-group/engineering/offboarding)
+
+### Supportive tools for People Group
+- [Assessment Tool](/handbook/people-group/engineering/assessment-tool)
+- [Nominator Bot](/handbook/people-group/engineering/nominatorbot)
+- [Compensation Calculator](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/)
+- [Inclusive Language Check on Job Families](/handbook/hiring/job-families/#inclusive-language-check)
+
+### Uncategorized
+- [Smaller syncs](/handbook/people-group/engineering/miscellaneous)
 - [Slack Integrations](/handbook/people-group/engineering/slack-integrations)
 
 ## Data
