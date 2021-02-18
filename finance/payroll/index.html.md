@@ -284,7 +284,11 @@ The internal deadline for changes is the 8th of each month, Payroll will send by
 
 - India
 - Philippines
-- China
+- Latvia 
+- Costa Rica
+- Chile
+- Denmark
+- Kenya 
 
 Payroll changes will be sent by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.  Note: Philippines have two check date (15th and 30th), any changes sent to Global Upside will be included on the salary of the last day of the month. 
 
