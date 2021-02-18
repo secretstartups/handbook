@@ -8,8 +8,10 @@ title: "Sales Compensation Plan"
 
 - TOC
 {:toc .toc-list-icons .hidden-md .hidden-lg}
+## FY22 Sales Compensation Plan
+Due to the continuted iterations and customizations of each role's Sales Compensation plan, please refer to the documents shared in your participant schedule for details on the FY22 Field Compensation plan.
 
-## Sales Compensation Plan
+## FY21 Sales Compensation Plan
 
 ### Plan Purpose
 
