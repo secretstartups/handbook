@@ -151,6 +151,8 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Quick introduction
 
+- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
+
 ##### Books
 
 #### Cross-functional team management
