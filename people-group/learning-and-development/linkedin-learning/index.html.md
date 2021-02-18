@@ -103,7 +103,7 @@ Once you have completed a course on LinkedIn Learning, you will recieve a certif
 
 ## LinkedIn Learning Groups
 
-Self-organizing a group to complete a LinkedIn Learning course together can be a great way to keep eachother accountable, discuss your learning, and connect with new team members. Similar to our [book clubs](/handbook/leadership/book-clubs/), we encourage team members to organize LinkedIn Learning groups to learn together.
+Self-organizing a group to complete a LinkedIn Learning course together can be a great way to keep each other accountable, discuss your learning, and connect with new team members. Similar to our [book clubs](/handbook/leadership/book-clubs/), we encourage team members to organize LinkedIn Learning groups to learn together.
 
 Use this checklist when organizing your LinkedIn Learning group. Here is an example of how the [GitLab Women TMRG organized and implemented a LinkedIn Learning group](https://gitlab.com/gitlab-com/women-tmrg/-/issues/10).
 
