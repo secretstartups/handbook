@@ -648,7 +648,8 @@ During the implementation phase, the team can access support from EdCast via the
 
 #### Submitting a feature request to EdCast
 
-To make a feature request to the EdCast product, email the EdCast team with the following information:
+To make a feature request to the EdCast product, email the EdCast team along with `support@edcast.com` with the following information:
+
 ```
 1. Indicate the Enhancement Request Subject Area:
 
