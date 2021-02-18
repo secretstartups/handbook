@@ -67,7 +67,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-#### Growth hacking: 
+#### Growth hacking 
 
 ##### Quick reads
 
@@ -76,16 +76,6 @@ There are three recommended books to be read by every product manager at GitLab:
 ##### Books
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
-
-#### Partnership with design
-
-#### Sensing mechanisms
-
-####  Self-learning
-
-#### Persona understanding
-
-#### Using feedback from PI
 
 ### Build Track Skills
 
@@ -113,23 +103,6 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
-##### Books
-
-#### Issue crispness
-
-#### Development metrics (MR rate)
-
-#### Iteration
-
-#### Developer stakeholder rapport
-
-#### Start with proposals
-
-#### Product group cohesion
-
-#### Global optimization
-
-
 ### Business Skills
 
 #### Competitive analysis
@@ -142,20 +115,13 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
+#### KPIs and Metrics 
 
-#### Performance indicators
+##### Quick reads
 
+##### Videos
 
-#### Tiered strategy
-
-#### Adoption funnel
-
-#### Direction updates
-
-#### Buyer understanding
-
-#### Partnership with GTM
-
+##### Books
 
 ### Communication Skills
 
@@ -168,16 +134,6 @@ There are three recommended books to be read by every product manager at GitLab:
 - [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
 
 ##### Books
-
-#### Async communication with a bias towards action
-
-#### Verbal presentation
-
-#### Representing GitLab roadmap
-
-#### Non-R&D stakeholder rapport
-
-#### Ability to influence
 
 ### People Management Skills
 
@@ -205,14 +161,6 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Kim Scott: Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)
 - [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
-
-#### Coaching
-
-#### Enabling direct reports to be more efficient
-
-#### Strategy alignment
-
-#### Rapport with direct reports
 
 ## Socializing in Product
 
@@ -252,7 +200,5 @@ The one of the best ways to stay in the know is to follow people! There are a lo
 - [Jeff Patton](https://twitter.com/jeffpatton)
 - [Roman Pichler](https://twitter.com/johncutlefish)
 
-
-### More books! 
 
 
