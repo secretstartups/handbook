@@ -101,6 +101,7 @@ There are three recommended books to be read by every product manager at GitLab:
 ##### Quick introduction
 
 - [Marty Cagan: Vision Vs. Strategy](https://svpg.com/vision-vs-strategy/)
+- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/)
 
 ##### Books
 
