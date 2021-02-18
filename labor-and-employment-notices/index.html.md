@@ -98,6 +98,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 <summary markdown="span">GitLab Canada Corp.</summary>
 
 ### Ontario
+* [Employment Standards in Ontario](https://files.ontario.ca/mltsd-employment-standards-poster-en-2020-09-08.pdf)
 * [Occupational Health & Safety Poster](https://files.ontario.ca/mltsd_2/mltsd-prevention-poster-en-2020-07-22.pdf)
 * [Occupational Health & Safety Act](https://www.ontario.ca/laws/statute/90o01)
 
