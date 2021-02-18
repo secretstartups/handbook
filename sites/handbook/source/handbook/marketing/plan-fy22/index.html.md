@@ -62,7 +62,7 @@ On a monthly cadence, the **Marketing Key Meeting** will be used as the venue fo
 {: #budgets}
 <!-- DO NOT CHANGE ANCHOR -->
 
-All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page (WIP MR)](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71684) for more details on the tool. 
+All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool. 
 
 ### Glossary of terminology
 {: #glossary}
