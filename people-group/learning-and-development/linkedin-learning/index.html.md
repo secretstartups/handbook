@@ -101,13 +101,13 @@ Once you have completed a course on LinkedIn Learning, you will recieve a certif
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpWhSB-qrF0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## LinkedIn Learning Groups
+## LinkedIn Learning Cohorts
 
-Self-organizing a group to complete a LinkedIn Learning course together can be a great way to keep each other accountable, discuss your learning, and connect with new team members. Similar to our [book clubs](/handbook/leadership/book-clubs/), we encourage team members to organize LinkedIn Learning groups to learn together.
+Self-organizing a cohort to complete a LinkedIn Learning course together can be a great way to keep each other accountable, discuss your learning, and connect with new team members. Similar to our [book clubs](/handbook/leadership/book-clubs/), we encourage team members to organize LinkedIn Learning cohorts to learn together.
 
-Use this checklist when organizing your LinkedIn Learning group. Here is an example of how the [GitLab Women TMRG organized and implemented a LinkedIn Learning group](https://gitlab.com/gitlab-com/women-tmrg/-/issues/10).
+Use this checklist when organizing your LinkedIn Learning cohort. Here is an example of how the [GitLab Women TMRG organized and implemented a LinkedIn Learning cohort](https://gitlab.com/gitlab-com/women-tmrg/-/issues/10).
 
-1. Organize a group of learners. Consider reaching out to your team, the #what's-happening-at-GitLab channel, or a TMRG you're part of. Pose the opportunity to learn together and see what response you get!
+1. Organize a cohort of learners. Consider reaching out to your team, the #what's-happening-at-GitLab channel, or a TMRG you're part of. Pose the opportunity to learn together and see what response you get!
 1. Explore courses on LinkedIn Learning. We have suggestions on this page for all team members, but feel free to get specific in an area you're passionate about!
 1. Vote or decide on a cousre to take together. 
 1. Set a completion goal. Be realistic with how much time you have to learn each week. Consider a 2 or 3 month completin goal.
