@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GGitLab for Start-Ups Program Agreement"
+title: "GitLab for Start-Ups Program Agreement"
 description: "This agreement ..."
 ---
 
