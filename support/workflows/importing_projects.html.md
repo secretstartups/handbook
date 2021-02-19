@@ -181,7 +181,7 @@ Proceed in the following order:
 
 1. Unpack the project export file into a folder: `tar -zxvf filename.tar.gz -C project_export`.
 1. **[USERS MAPPED ONLY!]** Perform one last [Verify User List](#2-verify-user-list) check to ensure no changes have been made.
-1. If the customer shared a one-time download link, upload the export to the [appropriate team's GDrive folder](https://drive.google.com/drive/search?q=parent:1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) and use the link to this version for the import issue.
+1. If the customer shared a one-time download link, create a folder in [the ticket attachment folder](https://drive.google.com/drive/folders/1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) and upload the export. Make sure to share the folder with the appropriate infra SRE(s), and use the link to this version for the import issue.
 1. Delete the export from GDrive once Infrastructure has confirmed that they have a copy (as per the infra import issue).
 1. Delete any local copies of the export.
 
