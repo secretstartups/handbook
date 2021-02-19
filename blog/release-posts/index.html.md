@@ -464,7 +464,7 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 - Ping the Release Post Manager (RPM) in `#release-post` to request adding a late addition for the release post, and wait for the RPM to give confirmation to proceed. The release post manager will do their best to accommodate the request, but it is not guaranteed.
 - If the RPM approves the late addition, then PM and RPM will decide which option below to proceed with:
   1. PM closes the original MR and creates a new MR from the `release-X-Y` branch. PM assigns MR to the release post manager to review and merge.
-  2. PM closes the original MR, and PM or release post manager creates a new yaml file for the content block as a direct commit on the release post MR. PM notifies release post manager to review.
+  1. PM closes their original release post item MR, and PM or release post manager creates a new yaml file for the content block as a direct commit on the release post `release-X-Y` branch. PM notifies release post manager to review.
 
 In both cases:
 
