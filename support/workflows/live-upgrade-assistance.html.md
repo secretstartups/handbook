@@ -22,12 +22,12 @@ In addition to the live assistance, it is important for GitLab Support to ensure
 the customer's plan for the upgrade is accurate and fully supported by GitLab in
 advance of the production upgrade.
 
-#### The Process
+#### Global Support Process
 
 1. If the customer has a
    [Technical Account Manager (TAM)](/handbook/customer-success/tam/#what-is-a-technical-account-manager-tam),
    they reach out to the TAM with the required information. From there, the TAM
-   creates a support-team-meta issue using the [`Upgrade Assistance Request`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) or [`U.S. Federal Upgrade Assistance Request`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=U.S.%20Federal%20Upgrade%20Assistance%20Request) issue template. If the customer does not have an assigned TAM, and reaches out
+   creates a support-team-meta issue using the [`Upgrade Assistance Request`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) issue template. If the customer does not have an assigned TAM, and reaches out
    to support themselves to schedule, the support engineer should ensure they have provided all necessary information and
    create this issue.
 1. The current [manager on-call](/handbook/support/on-call/index.html#manager-on-call) will act as a DRI for the issue at this moment.
@@ -73,6 +73,16 @@ advance of the production upgrade.
 1. If the live upgrade assistance call needs to be rescheduled, the new date
    must also meet the minimum notice period.
 1. The Support Engineer will close out the upgrade request issue.
+
+#### US Federal Process
+
+1. The end user initiating the request will open a new case using the [Live Upgrade Assistance Request]() form in the Federal Support Portal. This will generate a high priority case in the instance.
+1. The triaging engineer will assign the case to themselves and will review the given information
+1. The given information must include all of the [required information](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#what-information-do-i-need-to-schedule-live-upgrade-assistance)
+1. Once all the required information has been confirmed and the engineer is ready to schedule the call they can send a one time use calendly link for the [US Federal Live Upgrade Assistance]() round robin
+    - If the user has indicated they are planning a weekend upgrade please note the case in the [#support_us-federal-chat](https://gitlab.slack.com/archives/G01HYGJRN9W) slack channel asking for a volunteer and CC the US Federal Support Manager
+1. Once the user has scheduled the upgrade please put the case in an `on-hold` state while waiting to begin the upgrade assistance live session
+1. Post call, the Engineer will comment on the issue with a post-mortem of sorts. This should detail any issues that occurred or comments that might be relevant for the TAM or Support.
 
 #### What to do if issues occur during the course of upgrade assistance
 
