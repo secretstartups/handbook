@@ -272,12 +272,12 @@ If a department is over the 12% promotion rolling rate, the following process sh
 1. Ping the manager requesting the promotion via Slack to confirm that the department leader and E-Group leader are aware and supportive of the promotion.
 1. Align with the Total Rewards in the private #promo_compensation Slack channel to ensure Compensation notes are added in BambooHR.
 1. Cross-check Compensation adjustment in accordance with the [compensation calculator](https://comp-calculator.gitlab.net/users/sign_in).
-1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the EVPE. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders.
+1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the CTO. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders.
 1. If an approver is skipped in BambooHR: Share the promotion information in the private Division-specific promotion Slack channel with an overview of:
     - Team member name
     - Promotion request (current job title and new job title)
     - Compensation notes (current compensation, proposed compensation, increase %, additional stock options, compensation calculator)
-1. `@mention` the skipped department leader for approval in the Division-specific promotion Slack channel. Example: Promotion for Backend Engineer to Senior Backend Engineer. The BambooHR process includes the direct manager, department Director and EVPE. The missing department leader here is the VP of Development. In this case `@mention` the VP of Development for approval.
+1. `@mention` the skipped department leader for approval in the Division-specific promotion Slack channel. Example: Promotion for Backend Engineer to Senior Backend Engineer. The BambooHR process includes the direct manager, department Director and CTO. The missing department leader here is the VP of Development. In this case `@mention` the VP of Development for approval.
 1. PBP approves the promotion request in BambooHR.
 
 ### For Total Rewards: Processing Promotions & Compensation Changes
