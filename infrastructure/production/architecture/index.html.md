@@ -83,11 +83,13 @@ Prometheus is configured using the [kube-prometheus-stack helm chart](https://gi
 
 [Source](https://docs.google.com/drawings/d/1ELrompqluRa00-Q_L9Ruq6W5KHFmgh1Wn1cdwEpOhaw/edit?usp=sharing), GitLab internal use only
 
+**Note**: This is a simplified view of the GitLab monitoring infrastructure. All monitoring components are also currently running in VMs while we are [migrating them to Kubernetes](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/283). For a more detailed look into GitLab monitoring infrastructure see the [Thanos production readiness document](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/726b85d67353915e300e9d2531ff71d748696749/thanos/overview.md#architecture).
+
 Alerting for the cluster uses generated [rules](https://gitlab.com/gitlab-com/runbooks/-/tree/master/rules) that feed up to our [overall SLA](/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability) for the platform.
 
 Logging is configured using a fork of the [fluentd-elasticsearch helm chart](https://gitlab.com/gitlab-org/charts/fluentd-elasticsearch) where the logs for every pod is forwarded to a unique Elasticsearch index. This chart is deployed in the namespace `logging`.
 
-#### Configuration updates
+#### Cluster Configuration Updates
 
 There is a single namespace `gitlab` that is used exclusively for the GitLab application.
 Chart configuration updates are set in the [gitlab-com k8s-workloads project](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) where there are [yaml configuration files](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com/-/tree/master/releases/gitlab/values) that set defaults for the GitLab.com environment with per-environment overrides.
@@ -96,7 +98,7 @@ When a change is approved on GitLab.com the pipeline that applies the change is 
 
 For namespaces in the cluster for other services like logging, monitoring, etc. a similar GitOps workflow is followed using the [gitlab-helmfiles](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-helmfiles) project.
 
-#### Application updates
+#### GitLab Application Updates
 
 Updates are deployed to both VM infrastructure and the Kubernetes cluster in lock-step, this ensures that the same version is deployed to both VMs and the cluster.
 When an application update is ready, the CI pipeline that deploys to virtual machines triggers a [k8s-workloads/gitlab-com](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com) pipeline that updates the application image in the cluster.
