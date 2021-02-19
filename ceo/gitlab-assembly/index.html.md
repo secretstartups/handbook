@@ -17,20 +17,31 @@ The goal of the Assembly is to discuss the strategy and plans for the next fisca
 
 The call concludes with an AMA with all of E-Group. Team members can ask questions of any particular executive. The AMA doc will be circulated early so that team members can submit questions.
 
-This is a [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) initiative. The meeting is scheduled by the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/). The call is recorded and posted to GitLab Unfiltered.
+This is a [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) initiative. The meeting is scheduled by the [EBA to the CEO](/job-families/people-ops/executive-business-administrator/). The call is recorded and posted to Google Drive. The recording is internal because we talk about financial metrics which are not public.
 
 ### FY22 GitLab Assembly
 
-The FY22 GitLab Assembly (previously called Fiscal Year Kickoff) will take place February 18, 2021 at 8:00am and 5:00pm Pacific Time.
+The FY22 GitLab Assembly (previously called Fiscal Year Kickoff) took place February 18, 2021 at 8:00am and 5:00pm Pacific Time. It was attended live by approximately 800 team members, with remaining team members encouraged to watch the recording asynchronously.
 
-The event will be internal because we will discuss financial metrics and other information which is not public. It will be recorded, and the recording will be made available to the team.
+The event was internal because it featured financial metrics and other information which was not public. It was recorded, and the recording is available [in Drive](https://drive.google.com/file/d/1V_yohghvDpKQf4sXlNGe_6LgscVjxfXo/view?usp=sharing).
 
-Based on [feedback from the FY21 kickoff](#improvements-to-be-made) and in the spirit of iteration, there will be some changes to the format. Expected changes include:
-* Adding a produced video, created mostly using highlights from Sales Kickoff (SKO) presentations, to share the most important information. This will mostly replace the previous format of sequential 5-minute live updates.
+This event was approximately 40 minutes long and was hosted on Hopin. The agenda was as follows:
+1. Welcome
+1. FY21/22 Highlights - [CEO](/handbook/ceo/) & CRO
+1. GitLab is in Rarefied Air - CPO & CFO
+1. Marketing Vision - CMO
+1. Product Themes - CPO
+1. Product Vision - VP Product Management
+1. Engineering Vision - CTO
+1. FY22 Vision - CEO & CRO
+1. Closing and randomized coffee chats
+
+Based on [feedback from the FY21 kickoff](#improvements-to-be-made) and in the spirit of iteration, there were some changes to the format. Changes includee:
+* Adding a produced video, created mostly using highlights from [Sales Kickoff](/handbook/sales/training/SKO/) presentations, to share the most important information. This mostly replaced the previous format of sequential 5-minute live updates.
 * Adding a second time to be inclusive of all time zones.
-* During each event, attendees will watch the video update live (no requirement to complete any actions before the meeting). The video will be followed by an AMA with the executive team.
+* During each event, attendees watched the video update live (no requirement to complete any actions before the meeting). The video is followed by an AMA with the executive team.
 * More focus on the big picture, inspiration, and team alignment.
-* Inclusivity: the video will be captioned and any industry terms, acronyms, or jargon which aren’t well-known will be defined.
+* Inclusivity: the video was captioned and industry terms, acronyms, or jargon which aren’t well-known were defined.
 
 
 ### FY21 Kickoff
@@ -39,7 +50,7 @@ The FY21 Kickoff call was the first of its sort.
 The recording is on [GitLab Unfiltered](https://youtu.be/XlYsmj5fCcI) (GitLab Internal).
 The recording is internal because we talk about financial metrics which are not public. 
 The slides can be found in the Drive under the title "2020-02-06 FY21 Kickoff".
-f
+
 We collected feedback in [cos-team#15](https://gitlab.com/gitlab-com/cos-team/issues/15).
 
 The structure was roughly as follows:
