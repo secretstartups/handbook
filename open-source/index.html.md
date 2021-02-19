@@ -19,7 +19,7 @@ The purpose of this page is to document how a GitLab employee can:
 
 TBD
 - Mention Intellectual Property /handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip ?
-- Mention /handbook/people-group/contracts-and-international-expansion/#piaa-agreements ?
+- [PIAA](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement) ?
 
 ## Creating an open source project
 
