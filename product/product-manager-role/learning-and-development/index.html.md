@@ -127,7 +127,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 - [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
 
-### Communication and collaboration 
+### Communication
 
 #### Writing to inspire, align and activate 
 
