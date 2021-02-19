@@ -61,7 +61,6 @@ All new Learning and Development (L&D) team members complete our [team onboardin
 - [Chief Learning Officer](https://www.chieflearningofficer.com/)
 - [Emerald Works](https://emeraldworks.com/)
 
-
 ## LinkedIn Learning Courses
 - [Become an L&D Professional](https://www.linkedin.com/learning/paths/become-an-l-d-professional-4?)
 - [Organizational Learning & Development](https://www.linkedin.com/learning/organizational-learning-and-development/make-your-l-d-a-true-business-partner?)
@@ -73,5 +72,3 @@ All new Learning and Development (L&D) team members complete our [team onboardin
 - [Network Placeless](https://www.workplaceless.com/networkplaceless)
 - [DevLearn](https://devlearn.com/)
 - [Association for Talent Development](https://www.td.org/events)
-
-
