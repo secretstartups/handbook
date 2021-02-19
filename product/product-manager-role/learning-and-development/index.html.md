@@ -14,7 +14,7 @@ title: Learning and Development for Product Management
 
 Welcome to Learning and Development for Product Management at GitLab! The resources here are meant to support product managers explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
 
-The content should be accessible at no cost but anything requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
+Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
 Over time, we will add add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/#competencies), [CDF](/handbook/product/product-manager-role/#product-management-career-development-framework) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
