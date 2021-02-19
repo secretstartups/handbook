@@ -23,13 +23,13 @@ Technical skills developed in their career up until now are still very important
 
 ### What GitLab Engineers Have to Say About IC Leadership 
 
-During a Handbook Learning discussion, Eric (EVP of Engineering), Engineering IC Leaders, and the Learning and Development team discuss Engineering IC Leadership. We discuss topics during an interactive handbook discussion about what it means to be an IC leader. 
+During a Handbook Learning discussion, Eric (Chief Technology Officer), Engineering IC Leaders, and the Learning and Development team discuss Engineering IC Leadership. We discuss topics during an interactive handbook discussion about what it means to be an IC leader. 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/OXBwtaZ9edQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-> Start with a level set. You have an intermediate Engineer, then they become a Senior Engineer, and there's a fork in the road. There is a dual career track where you can choose the "manager track" or the "IC Leadership track." - Eric Johnson (EVP of Engineering)
+> Start with a level set. You have an intermediate Engineer, then they become a Senior Engineer, and there's a fork in the road. There is a dual career track where you can choose the "manager track" or the "IC Leadership track." - Eric Johnson (Chief Technology Officer)
 
 Additional topics covered in the discussion include: 
 1. What does it mean to be an Engineering IC Leader
