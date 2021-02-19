@@ -149,7 +149,7 @@ All team members are entitled to up to 12 months of unpaid parental leave if the
 <details>
   <summary markdown="span">Family and Domestic Violence Leave</summary>
 
-* All team members are entitled to 5 days of unpaid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify Total Rewards (total-reward@gitlab.com) if they need to make use of this leave.
+* All team members are entitled to 5 days of unpaid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify Total Rewards (total-rewards@gitlab.com) if they need to make use of this leave.
 * For more information on Family and Domestic Violence Leave, please visit the [Fair Work Ombudsman Website](https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave#support-services).
 * Resources: 
   * [1800RESPECT](https://www.1800respect.org.au/)
@@ -182,9 +182,9 @@ All team members are entitled to up to 12 months of unpaid parental leave if the
 * All team members are entitled to unpaid community service leave for voluntary emergency management activities. Team members are also entitled to paid community service leave for jury duty.
 * A team member engages in a voluntary emergency management activity if:
   *  The activity involves dealing with an emergency or natural disaster
-  * The employee engages in the activity on a voluntary basis
-  * The employee was either requested to engage in an activity, or it would reasonable to expect that such a request would have been made if circumstances had permitted, and
-  * The employee is a member of, or has a member-like association with a recognized emergency management body. More information can be found on the [FairWork Ombudsman Website](https://www.fairwork.gov.au/leave/community-service-leave).
+  * The team member engages in the activity on a voluntary basis
+  * The team member was either requested to engage in an activity, or it would be reasonable to expect that such a request would have been made if circumstances had permitted, and
+  * The team member is a member of, or has a member-like association with a recognized emergency management body. More information can be found on the [FairWork Ombudsman Website](https://www.fairwork.gov.au/leave/community-service-leave).
 * Jury Duty
   * Team members are entitled to “make-up pay” for the first 10 days of jury selection and jury duty. GitLab will supplement the difference between the amount that the team member has been paid and their ordinary pay to ensure that the team member receives 100% of their salary for the first 10 days of jury duty/selection. 
   * This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
