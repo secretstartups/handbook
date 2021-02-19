@@ -9,7 +9,7 @@ title: "Secure Workshop"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-⛔️⚠️ **This workshop is still under development and is not yet ready for customer delivery. This page, and the [OKR for the workhop's development](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/128), will be updated as it progresses.** ⚠️⛔️
+⛔️⚠️ **This workshop is still under development and is not yet ready for customer delivery. This page, and the [OKR for the workshop's development](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/128), will be updated as it progresses.** ⚠️⛔️
 
 ## Overview
 
