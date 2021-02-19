@@ -208,7 +208,7 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 
 ### Thought leaders and influencers
 
-The one of the best ways to stay in the know is to follow people! There are a lot of folks openly sharing their ideas and best practices.  We encourage you to follow and exchange ideas with people who inspire you. Here are some recommendations on where to start:
+One of the best ways to stay in the know is to follow people! There are a lot of folks openly sharing their ideas and best practices. We encourage you to follow and exchange ideas with people who inspire you. Here are some recommendations on where to start:
 
 - [Jackie Bavaro](https://twitter.com/jackiebo)
 - [Marty Cagan](https://twitter.com/cagan)
