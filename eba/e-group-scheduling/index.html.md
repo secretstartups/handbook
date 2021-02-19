@@ -111,7 +111,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Use personal Zoom links for interviews, all other meetings, especially external meetings, should utilize a one-time Zoom link
 
 
-## Scheduling for Scott Williamson, EVP of Product
+## Scheduling for Scott Williamson, Chief Product Officer
 
 * All meeting requests should go through the EBA for Product & Engineering
 * 1:1's with direct reports should occur weekly unless scheduling conflicts
