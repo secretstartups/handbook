@@ -85,7 +85,7 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
 * Aim to know if, at the end of this interview, you want to work with this person.
 * Interview for soft skills. Really, do it! Pick some behavioral questions to get data on what the candidate has done before and how their behavior aligns with the [company values](/handbook/values/). We are all going to be much happier if we naturally agree on how things should be. You will be asked to evaluate how the candidate's values align with our own in your feedback form, and asking behavioral questions is the best way to assess this.
 * Consider having more people interviewing with you since different people see and value different things. More data helps you make better decisions and is a better use of interview time for both the candidate and the company.
-* If a candidate discloses [outside project(s) or activity(ies)](/handbook/people-group/contracts-and-international-expansion/#steps-as-a-current-candidate-actively-engaged-in-the-hiring-process), please notify the Recruiter.
+* If a candidate discloses [outside project(s) or activity(ies)](/handbook/people-group/contracts-probation-periods/#steps-as-a-current-candidate-actively-engaged-in-the-hiring-process), please notify the Recruiter.
 * Always encourage the interviewee to ask questions at the end, and be frank in your answers.
 * Be willing to discuss what went well and any concerns you may have
 * Manage expectations - Discuss next steps and timelines

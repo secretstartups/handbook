@@ -18,7 +18,7 @@ Assuming that the [hiring process](/handbook/hiring/) went smoothly, now it is t
 First, be sure to validate the following:
 
 1. The currency listed in the offer package in Greenhouse should normally be the local currency of the new team member unless they explicitly request USD/EUR because their local currency has a lot of inflation. This needs to be confirmed and approved by our People Ops Analyst prior to making the offer, as any changes to the currency will require complete reapproval in Greenhouse, regardless if it is the same amount just in a different currency.
-1. Confirm if the team member would be an employee or contractor and [through which entity the team member would be employed or contracted](/handbook/people-group/contracts-and-international-expansion/#team-member-types-at-gitlab). If the team member wants to be contracted through a company, it can either be their own established legal entity or a separate and unaffiliated 3rd party company; please confirm which with the team member prior to sending out the contract. If the team member will be contracted through their own entity (or as an independent contractor), please use the BV Contractor Agreement. If the team member will be contracted through a 3rd party company, please inform Legal so that we can enter into a vendor contract with the company. The 3rd party company will then enter into a contract with the team member, and People Ops Analyst will provide the necessary specific salary and position information.
+1. Confirm if the team member would be an employee or contractor and [through which entity the team member would be employed or contracted](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab). If the team member wants to be contracted through a company, it can either be their own established legal entity or a separate and unaffiliated 3rd party company; please confirm which with the team member prior to sending out the contract. If the team member will be contracted through their own entity (or as an independent contractor), please use the BV Contractor Agreement. If the team member will be contracted through a 3rd party company, please inform Legal so that we can enter into a vendor contract with the company. The 3rd party company will then enter into a contract with the team member, and People Ops Analyst will provide the necessary specific salary and position information.
 
 ### Send the contract through Greenhouse
 
@@ -233,7 +233,7 @@ A contractor requests a modification to their contract due to a name change/comp
 
 * The People Operations Specialist should log the requested change in BambooHR in the `Contracts & Changes`
 section of the employee's profile
-* The People Operations Specialist should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](/handbook/people-group/contracts-and-international-expansion/#employment-and-contractor-agreements) section. ***Please remember to always make a copy of the template before editing.***
+* The People Operations Specialist should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](people-group/contracts-probation-periods/#employment-and-contractor-agreements) section. ***Please remember to always make a copy of the template before editing.***
 
 _Important: Employment contracts cannot be backdated. If a team member requests to backdate a contract for invoicing purposes, an addendum should be added to the contract stating: "As the Contractor has not invoiced GitLab for payment since their start date on `contractor start date`, GitLab will pay the Contractor for this period of time in accordance with the Contractor’s base compensation". The start date on the new contract should always reflect the date the contract is staged for signatures._
 
@@ -265,7 +265,7 @@ The process for New Hires is as follows:
 1. The Candidate Experience Specialist will update the GreenHouse Offer Details with BSN and Date of Birth when the new team member provides the necessary details and then generates the "IT BV Employee Temporary - the Netherlands" contract out of GreenHouse.
 1. The Candidate Experience Specialist will stage the contract for signature via DocuSign, CC the hiring manager, and CC the HRSavvy group email. This will ensure our payroll provider in this location can start their onboarding, well ahead of ours. 
 
-The People Operation Specialist are in charge of [contract renewals](/handbook/people-group/contracts-and-international-expansion/#contract-renewals). The process the **end of the first 12-month GitLab BV Netherlands temporary contract** is listed in their [Netherlands Renewal Process](/handbook/people-group/contracts-and-international-expansion/#contract-renewals) section of the [Contracts & International Expansion](/handbook/people-group/contracts-and-international-expansion/) handbook page. 
+The People Operation Specialist are in charge of [contract renewals](/handbook/people-group/contracts-probation-periods/#contract-renewals). The process the **end of the first 12-month GitLab BV Netherlands temporary contract** is listed in their [Netherlands Renewal Process](/handbook/people-group/contracts-probation-periods/#netherlands-renewal-process) section of the [Contracts, Probation Periods & PIAA](/handbook/people-group/contracts-probation-periods/) handbook page. 
 
 _GitLab IT BV contracts should only be used for contractors. All Netherlands **employees** should be issued the GitLab BV contract. PEO contract templates should be provided by the PEO directly. We should not use GitLab BV or GitLab IT BV contracts for PEO models._
 
@@ -293,7 +293,7 @@ To create the contract:
     -CC Recruiter
     -Click “Send Email”
 1. The Candidate Experience Specialist will check if there is a probationary period.
-    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
 1. The Candidate Experience Specialist will check if the contract is indefinite or fixed.
     - If the contract is indefinite, select "Indefinite" from the dropdown in "Offer Details".
@@ -327,7 +327,7 @@ To create the contract:
    - From the template drop down list select: Contract Info Request - Safeguard
    - Send Email
 1. The Candidate Experience Specialist will check if there is a probationary period.
-    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
 1. The Candidate Experience Specialist will check if the contract is indefinite or fixed.
     - If the contract is indefinite, select "Indefinite" from the dropdown in "Offer Details".
@@ -382,7 +382,7 @@ The process for creating and sending an agreement is as follows:
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
 1. CES sends “Contract Info Request-Global Upside (India and Philippines)” email to the new hire to collect additional details.
 1. The Candidate Experience Specialist will check if there is a probationary period.
-    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
 1. The Candidate Experience Specialist will check if the contract is indefinite or fixed.
     - If the contract is definite, select "Indefinite" from the dropdown in "Offer Details".
@@ -419,7 +419,7 @@ To create the contract:
     -CC Recruiter
     -Click “Send Email”
 1. The Candidate Experience Specialist will check if there is a probationary period.
-    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-and-international-expansion/#probation-periods-of-team-members-employed-through-a-peo) and check the candidate's country.
+    - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
 1. The Candidate Experience Specialist will check if the contract is indefinite or fixed.
     - If the contract is indefinite, select "Indefinite" from the dropdown in "Offer Details".
@@ -491,7 +491,7 @@ GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in thi
 
 ## Employment Agreements for GitLab team-members located everywhere else (IT BV contractor agreements)
 
-1. Review the [Hiring Status](/handbook/people-group/contracts-and-international-expansion/#country-hiring-guidelines) of the location you are working with. If the location has not been evaluated yet, we issue a IT BV contractor agreement.
+1. Review the [Hiring Status](/handbook/people-group/employment-solutions/#country-hiring-guidelines) of the location you are working with. If the location has not been evaluated yet, we issue a IT BV contractor agreement.
 1. If the candidate would like to use their own entity for the contractor agreement update the offer details with the Contractor Name and Address. You will use the IT BV Contractor Agreement - C2C in these cases.
 1. Generate IT BV Contractor Agreement - Independent or the IT BV Contractor Agreement - C2C
 1. Select Send with DocuSign
