@@ -162,3 +162,4 @@ List of CEO Handbook Learning Sessions:
 - [Individual Contributor Leadership](https://www.youtube.com/watch?v=d0x-JH3aolM)
 - [Bias Towards Asynchronous Communication](https://www.youtube.com/watch?v=_okcPC9YucA&feature=emb_title)
 - [High Output Management](https://about.gitlab.com/handbook/leadership/high-output-management/#applying-high-output-management)
+- [Giving and Receiving Feedback](https://www.youtube.com/watch?v=vL864Zg2sm4&t=731s)
