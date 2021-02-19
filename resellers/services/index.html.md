@@ -461,7 +461,7 @@ All authorized GitLab partners are eligible for co-selling with the GitLab Sales
 
 
 <br>
-## Partner Service Delivery Helpdesk Community
+## Partner Service Delivery Support Community
 
 
 ### Overview
@@ -484,7 +484,7 @@ When a partner is awarded a GitLab Certified Service Partner certification, the 
 
 ### User Commitments to the Community
 
-As a company, GitLab is dedicated to open source, and this community is one of the ways we are demonstrating implementing that while supporting partners to create excellent customer experiences. Access to this community will only be beneficial if the users commit to being part of a community. Below are a few rules to live by when using this community. 
+As a company, GitLab is dedicated to open source, and this community is one of the ways we are implementing that while supporting partners to create excellent customer experiences. Access to this community will only be beneficial if the users commit to being part of a community. Below are a few rules to live by when using this community. 
 
 
 
