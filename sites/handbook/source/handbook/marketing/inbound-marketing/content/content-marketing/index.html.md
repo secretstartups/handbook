@@ -224,7 +224,7 @@ Web articles are educational, informational content, designed to support topic p
 **Examples:**
 1. [How to choose the right continuous integration tool](/topics/ci-cd/choose-continuous-integration-tool/)
 2. [What are Git version control best practices?](/topics/version-control/version-control-best-practices/)
-3. [What is developer-first security?](/topics/application-security/what-is-developer-first-security.index.html)
+3. [What is developer-first security?](/topics/application-security/what-is-developer-first-security/)
 
 #### Case study
 
