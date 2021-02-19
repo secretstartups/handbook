@@ -144,6 +144,52 @@ All team members are entitled to up to 12 months of unpaid parental leave if the
   * the amount of any deduction and the name and bank details of the entity the deduction was given to.
     * Only certain deductions can be made from Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
 
+#### Other Types of Leave
+
+<details>
+  <summary markdown="span">Family and Domestic Violence Leave</summary>
+
+* All team members are entitled to 5 days of unpaid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify Total Rewards (total-reward@gitlab.com) if they need to make use of this leave.
+* For more information on Family and Domestic Violence Leave, please visit the [Fair Work Ombudsman Website](https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave#support-services).
+* Resources: 
+  * [1800RESPECT](https://www.1800respect.org.au/)
+  * [Safe Steps](https://www.safesteps.org.au/)
+  * [Victims Services](https://www.victimsservices.justice.nsw.gov.au/)
+  * [Domestic Violence Resource Centre Victoria](https://www.dvrcv.org.au/help-advice)
+  * [JobWatch](https://jobwatch.org.au/)
+  * [MensLine Australia](https://mensline.org.au/)
+  * [Men’s Referral Service](https://ntv.org.au/)
+</details>
+
+<details>
+  <summary markdown="span">Compassionate and Bereavement Leave</summary>
+
+* All employees are entitled to 2 days of paid compassionate leave in the event that an immediate family or household member dies or suffers a life threatening illness or injury. 
+* This leave runs concurrently with GitLab PTO. Team members should select `Bereavement Leave` in PTO by Roots to ensure that leave entitlements are properly tracked.
+</details>
+
+<details>
+  <summary markdown="span">[Public Holidays](https://www.fairwork.gov.au/leave/public-holidays)</summary>
+
+* All team members are entitled to at least their base pay rate for all hours worked on public holidays. 
+* Team members who take time off for public holidays are entitled to their base pay rate for the ordinary hours they would have worked. GitLab encourages all team members to take time off for the holidays they observe. 
+* Team members must select `Public Holiday` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+</details>
+
+<details>
+  <summary markdown="span">Community Service Leave</summary>
+
+* All team members are entitled to unpaid community service leave for voluntary emergency management activities. Team members are also entitled to paid community service leave for jury duty.
+* A team member engages in a voluntary emergency management activity if:
+  *  The activity involves dealing with an emergency or natural disaster
+  * The employee engages in the activity on a voluntary basis
+  * The employee was either requested to engage in an activity, or it would reasonable to expect that such a request would have been made if circumstances had permitted, and
+  * The employee is a member of, or has a member-like association with a recognized emergency management body. More information can be found on the [FairWork Ombudsman Website](https://www.fairwork.gov.au/leave/community-service-leave).
+* Jury Duty
+  * Team members are entitled to “make-up pay” for the first 10 days of jury selection and jury duty. GitLab will supplement the difference between the amount that the team member has been paid and their ordinary pay to ensure that the team member receives 100% of their salary for the first 10 days of jury duty/selection. 
+  * This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+  * Team members must notify their manager of the period or expected period of leave as soon as possible and provide evidence showing they attended jury selection or jury duty.
+</details>
 
 ##  GitLab PTY New Zealand Specific Benefits
 
@@ -222,7 +268,7 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 <details>
   <summary markdown="span">Election Voting Leave</summary>
 
-* Team members are entitled to 2 hours of paid time off to vote in general (parliamentary) elections on polling day if they are registered as an elector of the district and have not had a reasonable opportunity to vote before starting work. GitLab encourages you to take time off to vote or volunteer at the polls. 
+* Team members are entitled to 2 hours of paid time off to vote in general (parliamentary) elections on polling day if they are registered as an elector of the district and have not had a reasonable opportunity to vote before starting work. GitLab encourages you to [take time off to vote](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) or volunteer at the polls. 
 * This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 </details>
 
@@ -244,7 +290,7 @@ To initiate your parental leave, submit your time off by selecting the `Parental
   <summary markdown="span">Domestic Violence Leave</summary>
 
 * All team members who have been employed for a six month continuous period are entitled to 10 days of paid leave if they have been affected by domestic violence. This leave may also be taken to support a child who has experienced domestic violence as long as they live with the team member for some of the time. 
-* Team members may also request short-term flexible working arrangements for up to 2 months.  
+* Team members may also request [short-term flexible working arrangements](https://www.employment.govt.nz/leave-and-holidays/domestic-violence-leave/short-term-flexible-working/) for up to 2 months.  
 * This leave runs concurrently with GitLab PTO. Team members should notify Total Rewards (total-rewards@gitlab.com) if they need to make use of this leave.
 </details>
 
