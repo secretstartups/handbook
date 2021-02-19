@@ -20,7 +20,7 @@ Over time, we will add content to directly support GitLab's product management [
 
 ## Recommended books and talks for all product managers
 
-There are three recommended books to be read by every product manager at GitLab:
+These books are highly recommended to be read by every product manager at GitLab:
 
 - **[Marty Cagan: Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)** Provides a generic overview about Product Management
      - [Related live talk by author](https://www.mindtheproduct.com/video-the-root-causes-of-product-failure-by-marty-cagan/)
