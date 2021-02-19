@@ -191,9 +191,9 @@ The Marketing Operations team had started an experiment on 2020-04-20 to commit 
 
 Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made.
 
-### PagerDuty
+### PagerDuty and Emergency Comms
 
-If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](https://about.gitlab.com/handbook/engineering/security/security-incident-communication-plan.html). If a new, custom distribution list needs to be created, Marketing Ops will work closely with the [campaigns team](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) and generate the distribution list for the incident-related email. In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
+If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan). As a first step, please create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) with all relevant information. In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
 
 Contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
 
