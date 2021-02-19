@@ -105,7 +105,7 @@ In some cases, we may choose not to post to status.io, the following are example
 #### Incident Manager on Call (IMOC) Responsibilities
 
 1. The SSOT for who is the current IMOC is the [GitLab Production - IMOC](https://gitlab.pagerduty.com/service-directory/PE8A5MX) service definition in PagerDuty.
-1. The IMOC should monitor ongoing incidents and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
+1. The IMOC should [monitor](https://gitlab.slack.com/archives/CB7P5CJS1) ongoing [incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues?scope=all&utf8=%E2%9C%93&state=opened) and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC.
 1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC may also take on the role of CMOC.
     * Due to limited people on the IMOC rotation, there may be times of the day when the CMOC (if available; see [How to engage the CMOC](#how-to-engage-the-cmoc-only-during-weekdays)) is a more friendly choice.
@@ -121,7 +121,7 @@ In some cases, we may choose not to post to status.io, the following are example
 
 #### Communications Manager on Call (CMOC) Responsibilities
 
-For serious incidents that require coordinated communications across multiple channels, the IMOC will select a CMOC for the duration of the incident during the incident declaration process.
+For serious incidents that require coordinated communications across multiple channels, the IMOC will rely on the CMOC for the duration of the incident.
 
 The GitLab support team staffs an oncall rotation and via the `Incident Management - CMOC` service in PagerDuty. They have a section in [the support handbook](/handbook/support/workflows/cmoc_workflows.html) for getting new CMOC people up to speed.
 
