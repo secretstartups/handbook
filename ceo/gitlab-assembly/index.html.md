@@ -27,12 +27,12 @@ The event was internal because it featured financial metrics and other informati
 
 This event was approximately 40 minutes long and was hosted on Hopin. The agenda was as follows:
 1. Welcome
-1. FY21/22 Highlights - [CEO](/handbook/ceo/) & CRO
-1. GitLab is in Rarefied Air - CPO & CFO
-1. Marketing Vision - CMO
-1. Product Themes - CPO
-1. Product Vision - VP Product Management
-1. Engineering Vision - CTO
+1. FY21/22 Highlights - [CEO](/job-families/chief-executive-officer/) & [CRO](job-families/sales/chief-revenue-officer/)
+1. GitLab is in Rarefied Air - [CPO](/job-families/people-ops/chief-people-officer/) & [CFO](/job-families/finance/chief-financial-officer/)
+1. Marketing Vision - [CMO](/job-families/marketing/chief-marketing-officer/)
+1. Product Themes - [Chief Product Officer](/job-families/product/chief-product-officer/)
+1. Product Vision - [VP Product Management](/job-families/product/product-management-leadership/#vp-of-product-management)
+1. Engineering Vision - [CTO](/job-families/engineering/engineering-management/#chief-technology-officer)
 1. FY22 Vision - CEO & CRO
 1. Closing and randomized coffee chats
 
