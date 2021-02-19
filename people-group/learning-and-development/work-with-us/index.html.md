@@ -27,10 +27,13 @@ The Learning and Development team is available to support GitLab teams in the fo
 
 ### Host a Live Learning event
 
-{Notes from Jacie's process here!}
+Anyone at GitLab should feel empowered to host a learning session. Why would you want to host a live learning event? Maybe **you** are the expert on something. Or maybe you just want to learn more about a specific topic and share those learnings with more people. 
 
+To host a live learning event, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `live_learning` template. All steps should be outlined on this template.  
 
-
+**Examples of past Live Learning events**: 
+- [Introduction to Coaching](/handbook/leadership/coaching/#introduction-to-coaching-1)
+- [Being an Ally](/company/culture/inclusion/being-an-ally/#ally-training)
 
 ### Creating a new learning pathway
 
