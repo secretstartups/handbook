@@ -47,8 +47,6 @@ Managers know in `#spt_managers`.*
 | Sales            | Sales               | TBD                 | Mike Dunninger        | TBD |
 | Security         | Abuse               | Roger Ostrander     | Greg Myers            | N/A |
 | Security         | Security Operations | Jan Urbanc          | Brie Carranza         | N/A |
-| UX               | Docs/Tech Writing   | Susan Tacker?       | Cynthia Ng            | weekly team meeting |
-| UX               | UX                  | Christie Lenneville | Cynthia Ng            | weekly team meeting |
 
 If you're on the Support Team and have something you'd like to surface, or would like to attend one of these meetings, feel free to post in `#spt_managers`.
 
