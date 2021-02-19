@@ -4,9 +4,7 @@ title: "Production Architecture"
 ---
 
 
-Our GitLab.com core infrastructure is primarily hosted in Google Cloud Platform's (GCP) `us-east1` region (see [Regions and Zones](https://cloud.google.com/compute/docs/regions-zones/)). We do have dependencies on other cloud providers for separate functions.
-Some of the dependencies are legacy fragments from our migration from Azure, and others are deliberate to separate concerns in the event of cloud provider service disruption.
-We're currently working to implement a [Disaster Recovery](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md) solution that redesigns our failure scenarios across multi-zone, multi-region, and multi-cloud architectures.
+Our GitLab.com core infrastructure is primarily hosted in Google Cloud Platform's (GCP) `us-east1` region (see [Regions and Zones](https://cloud.google.com/compute/docs/regions-zones/)).
 
 This document does not cover servers that are not integral to the public facing operations of GitLab.com.
 
@@ -159,33 +157,6 @@ GitLab utilizes two different secret management approaches, GKMS for machine in 
 ### GKMS Secrets
 
 For more information about secret management see the runbook for [Chef secrets using GKMS](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/gkms-chef-secrets.md), [Chef vault](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/config_management/chef-vault.md) and [how we manage secrets in Kubernetes](https://gitlab.com/gitlab-com/gl-infra/k8s-workloads/gitlab-com#gitlab-secrets).
-
-
-## Azure
-
-Azure is where we have lingering infrastructure.  Remaining servers exist here
-for a wide variety of reasons.
-
-* Testing/Comparisons with old infrastructure changes
-* [Dev](https://dev.gitlab.org)
-* [Customers](https://customers.gitlab.com)
-
-## Digital Ocean
-
-Digital Ocean houses several servers that do not need to directly interact with our main infrastructure.
-
-* Chef Configuration Management Servers
-* [Forum](https://forum.gitlab.com)
-* [Quality Insights](http://quality-dashboard.gitlap.com)
-
-## AWS
-
-We host our DNS with route53 and we have several EC2 instances for various purposes. The servers you will interact with most are listed below:
-
-* [License](https://license.gitlab.com)
-* [Package](https://packages.gitlab.com)
-* [Redash](https://redash.gitlab.com)
-* [Version](https://version.gitlab.com)
 
 ## Monitoring
 
