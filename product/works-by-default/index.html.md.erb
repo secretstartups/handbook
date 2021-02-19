@@ -12,12 +12,12 @@ Working by default is an important [Product Principle](/handbook/product/product
 - ✅ Works by default (**enabled** by default, and **setup** by default)
 - ⚙️ Setup required (feature must be setup by a user)
   - In application setup is required by a user before the feature can be used. Example: URL or API keys needed for integration with an external tool like Jira.
-- 🔌 Installation required (feature must be enabled by an administrator)
+- 🔌 Installation required (feature must be enabled by an administrator on self-managed instances)
   - Installation of extra components on a host machine, or feature flags are off by default. Example: Changes to `gitlab.rb` are required to enable the feature.
 - 📦 Setup and Installation required (feature must be enabled by an administrator, and setup by a user)
   - Both in application setup is required, and installation is required. Example: Gitaly Cluster requires Omnibus to be installed on additional machines, and in application storage settings to be modified.
 - ❌ Not supported
-- N/A Not applicable
+- N/A Not applicable 
 
 It helps to consider these states using the following 2x2 table:
 

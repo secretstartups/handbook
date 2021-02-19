@@ -25,6 +25,7 @@ culture at GitLab.
 Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model, and identify the highest ROI lever at this moment to focus on. In the [Growth direction page](https://about.gitlab.com/direction/growth/) we outline the Growth section's long term direction and near term focus areas.
 
 ## How the Growth section works
+[All the Growth team members are listed here](/handbook/product/categories/#growth-section)
 
 ### Growth ideation and prioritization
 
@@ -193,5 +194,6 @@ In alignment with Gitlab's [RADCIE](/handbook/people-group/directly-responsible-
 | Post-Experiment Analysis | Data Team |
 | Post-Experiment Decision | Growth Product/Engineering |
 | Maintenance | Stage Product/Engineering |
+| Alert creation | Growth Product/Engineering : [How to create a Sisense SQL alert](/handbook/engineering/development/growth/sisense_alert.html) |
 
 
