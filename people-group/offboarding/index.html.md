@@ -404,5 +404,5 @@ This is not seen as a true offboarding, but there are still relevant steps to ta
 
 ## PEO Offboarding Guidelines
 
-As part of the [country conversion process](/handbook/people-group/contracts-and-international-expansion/#country-conversions), the People Specialist team obtains information from our PEOs in each country regarding offboarding processes and requirements. All information obtained is documented below:
+As part of the [country conversion process](/handbook/people-group/employment-solutions/#country-conversions), the People Specialist team obtains information from our PEOs in each country regarding offboarding processes and requirements. All information obtained is documented below:
 

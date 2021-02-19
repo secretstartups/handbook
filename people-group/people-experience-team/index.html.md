@@ -194,7 +194,7 @@ In some instances, we may be contacted by certain Governmental institutions aski
 
 ### Probation Period Rotation
 
-The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Handbook](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#important-steps-during-the-probation-period). If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
+The People Experience Associate in the `Probation Period` rotation, will complete the full process as per the steps listed in the [Probation Period](/handbook/people-group/contracts-probation-periods/#probation-period) section of the hanbook. If the weekly rotation has come to an end and not all confirmations have been received, the Associate in the next weeks rotation will follow up with team members managers.
 
 ### Triage People Group Issues
 

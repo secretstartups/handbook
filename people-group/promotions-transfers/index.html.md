@@ -317,7 +317,7 @@ To demote one of your direct reports, a manager should follow the following step
 - Proposed changes to a current vacancy description or a new vacancy description should be delivered with request for approval by the second level manager and the People Ops Manager.
 - Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-option-grant-levels) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
 - Once agreement is reached on the demotion and changes (if any) in compensation, the total rewards team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
-- Once approved, the manager informs the individual. Please cc total-rewards@ gitlab.com once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment).
+- Once approved, the manager informs the individual. Please cc total-rewards@ gitlab.com once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](https://docs.google.com/document/d/1lxx92gGXL6hltRxKn0I6D8a8dHtvFBnElDf7dAlxkkQ/edit).
 - Changes in title are announced on the `#team-member-updates` Slack channel.
 - The manager will initiate any necessary onboarding or offboarding.
 
@@ -459,7 +459,7 @@ In cases where multiple individuals are asked to transfer to high priority roles
 
 Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documented in the HRIS file of the team member who received the new role. See [Department Transfers](/handbook/people-group/promotions-transfers/#department-transfers) for additional details.
 
-More details can be found on the [Intneral Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment) page.
+More details can be found on the [Intneral Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustments) page.
 
 ### Leveling Up Your Skills
 
