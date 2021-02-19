@@ -203,6 +203,33 @@ Team members in New Zealand are eligible to take paid time off according to our 
 #### Applying for Parental Leave in New Zealand
 To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
+<details>
+  <summary markdown="span">Other Types of Leave</summary>
+**Stress Leave**
+* A team member with workplace stress that amounts to an illness may take sick leave. The ordinary conditions for sick leave apply. If the team member has been sick for a period of 3 or more consecutive days, the team member may be asked to provide a medical certificate.
+This leave runs concurrently with GitLab PTO. Team members will receive 100% of their pay for the first 25 days of leave. Team members should reach out to their manager, People Business Partner, and Total Rewards to make arrangements beyond 25 days. 
+* Team members must designate Stress Leave as `Out Sick` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
+**Leave for Defence Force Volunteers**
+Under the Volunteers Employment Protection Act 1973, all team members who are members of the Armed Forces are entitled to unpaid job-protected leave during military training and/or service. This leave runs concurrently with GitLab PTO. Team members must email Total Rewards (total-rewards@gitlab.com) as soon as possible when taking leave with the first date of leave and, if possible, the end date of their leave.
+
+**Election Voting Leave**
+* Team members are entitled to 2 hours of paid time off to vote in general (parliamentary) elections on polling day if they are registered as an elector of the district and have not had a reasonable opportunity to vote before starting work. GitLab encourages you to take time off to vote or volunteer at the polls. This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
+**Jury Service**
+* All team members who have been called for jury service are entitled to unpaid leave for the duration of the service. Team members who attend jury service receive an attendance fee from the Ministry of Justice. 
+* Jury Service Leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
+**Bereavement Leave**
+* All team members who have been for six months are entitled to three days of paid leave in the event of the death of a spouse or partner, parent, child, sibling, grandparent, grandchild, or parent of a spouse or partner and one day in the event of the death of another person not previously listed.
+* This leave runs concurrently with GitLab PTO. Team members must designate this time off as `Bereavement Leave` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
+**Domestic Violence Leave**
+* All team members who have been employed for a six month continuous period are entitled to 10 days of paid leave if they have been affected by domestic violence. This leave may also be taken to support a child who has experienced domestic violence as long as they live with the team member for some of the time. 
+* Team members may also request short-term flexible working arrangements for up to 2 months.  
+* This leave runs concurrently with GitLab PTO. Team members should notify Total Rewards (total-rewards@gitlab.com) if they need to make use of this leave.
+</details>
+
 ### Medical
 GitLab does not plan at this time to offer Private Health Insurance benefits because New Zealand residents can access free or subsidised medical care in New Zealand through the public healthcare system. Injuries and accidents are covered by the Accident Compensation Corporation cover.
 
