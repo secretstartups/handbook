@@ -472,7 +472,7 @@ This community is designed to allow partner service delivery teams to directly c
 
 1. Extending the technical service enablement beyond the certification curriculum and into the real world. 
 2. Serving as a knowledge base of delivery patterns and best practices.
-3. Differentiating partner service offering through  
+3. Reducing delivery risk by applying best practices of GitLab practitioners worldwide.  
 
 Reference this video to learn more about this community and all of the benefits it can provide your service delivery teams. 
 
