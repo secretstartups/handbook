@@ -26,7 +26,7 @@ The FY22 GitLab Assembly (previously called Fiscal Year Kickoff) will take place
 The event will be internal because we will discuss financial metrics and other information which is not public. It will be recorded, and the recording will be made available to the team.
 
 Based on [feedback from the FY21 kickoff](#improvements-to-be-made) and in the spirit of iteration, there will be some changes to the format. Expected changes include:
-* Adding a produced video, created mostly using highlights from SKO presentations, to share the most important information. This will mostly replace the previous format of sequential 5-minute live updates.
+* Adding a produced video, created mostly using highlights from Sales Kickoff (SKO) presentations, to share the most important information. This will mostly replace the previous format of sequential 5-minute live updates.
 * Adding a second time to be inclusive of all time zones.
 * During each event, attendees will watch the video update live (no requirement to complete any actions before the meeting). The video will be followed by an AMA with the executive team.
 * More focus on the big picture, inspiration, and team alignment.
