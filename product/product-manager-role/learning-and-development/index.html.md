@@ -141,7 +141,7 @@ There are three recommended books to be read by every product manager at GitLab:
 
 ##### Books
 
-#### 
+#### Remote team collaboration 
 
 ##### Quick introduction
 
