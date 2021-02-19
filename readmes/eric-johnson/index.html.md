@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Eric Johnson's README"
-job: "EVP Engineering"
+job: "CTO"
 ---
 
 This page was inspired by the recent trend of Engineering Manager README's. _e.g._ [Hackernoon: 12 Manager READMEs (from some of the best cultures in tech)](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe).
