@@ -401,7 +401,7 @@ Internal and external candidates will have the same process with the same amount
 
 It is recommended that team members inform their manager of their desire to move internally and their career aspirations. Your manager should not hear about your new opportunity from the new hiring manager; it should come from you prior to the new hiring manager checking in for references with the current manager.
 
-If you are unsure of the role, set up a coffee chat with the hiring manager to introduce yourself. Express your interest in the role and your desire to learn more about the vacancy requirements and skills needed. If after that conversation you do not feel that you are qualified or comfortable making the move, ask the hiring manager to provide guidance on what you can do to develop yourself so you will be ready for the next opportunity. It may also be possible to set up an [internship for learning](/handbook/people-group/promotions-transfers/#internship-for-learning) situation with the hiring manager.
+If you are unsure of the role, set up a coffee chat with the hiring manager to introduce yourself. Express your interest in the role and your desire to learn more about the vacancy requirements and skills needed. If after that conversation you do not feel that you are qualified or comfortable making the move, ask the hiring manager to provide guidance on what you can do to develop yourself so you will be ready for the next opportunity. It may also be possible to set up an [internship for learning](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) situation with the hiring manager.
 
 #### Announcing Internal Promotions/Transfers
 
