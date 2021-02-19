@@ -178,6 +178,8 @@ These books are highly recommended to be read by every product manager at GitLab
 - [Kim Scott: Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)
 - [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
 
+#### Leadership and influence
+
 ## Socializing in Product
 
 ### Blogs, videos and podcasts and more...
