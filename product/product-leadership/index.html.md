@@ -32,7 +32,7 @@ All Managers and above in the Product function are considered product leaders. T
 
 Product team members who:
 
-- Report directly to the [EVP of Product](/job-families/product/evp-of-product/)
+- Report directly to the [Chief Product Officer](/job-families/product/evp-of-product/)
 - Report directly to the [VP of Product Management](/job-families/product/vp-of-product/)
 - Are Director+
 
