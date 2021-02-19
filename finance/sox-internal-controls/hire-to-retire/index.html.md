@@ -254,7 +254,7 @@ As part of onboarding, People Experience Associates will process new hires in Ba
 * Pay Per - Monthly for contractors and employees paid once per month, Pay Period for all other employees
 * Pay Type - Use either Salary or Hourly for employees, or Contract for contractors.
 * Pay Schedule - Select the pay period. Currently we have twice a month for the US, and monthly for all others.
-* [Pay Frequency](/handbook/people-group/contracts-and-international-expansion/#team-member-types-by-country):
+* [Pay Frequency](/handbook/people-group/employment-solutions/#team-member-types-by-country):
     * 12.96 For GitLab B.V. employees in the Netherlands
     * 13.92 for GitLab B.V. employees in Belgium
     * 24 for GitLab Inc. and GitLab Federal employees in the United States
@@ -309,7 +309,7 @@ On every paycheck date, an audit of all entity payroll providers is conducted to
 
 **Payroll-related Data Process for New Team Members in Non-US Entities**
 
-For [all countries where GitLab has an entity](https://about.gitlab.com/handbook/people-group/contracts-and-international-expansion/#gitlab-entities) the Payroll Specialist will extract the payroll data and send to the payroll provider, who will in turn add the new employees for the respective countries.
+For [all countries where GitLab has an entity](/handbook/people-group/employment-solutions/#gitlab-entities) the Payroll Specialist will extract the payroll data and send to the payroll provider, who will in turn add the new employees for the respective countries.
 
 **Payroll-related Data Process for New Team Members employed or contracted through PEOs**
 
