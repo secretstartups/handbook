@@ -36,7 +36,7 @@ This event was approximately 40 minutes long and was hosted on Hopin. The agenda
 1. FY22 Vision - CEO & CRO
 1. Closing and randomized coffee chats
 
-Based on [feedback from the FY21 kickoff](#improvements-to-be-made) and in the spirit of iteration, there were some changes to the format. Changes includee:
+Based on [feedback from the FY21 kickoff](#improvements-to-be-made) and in the spirit of iteration, there were some changes to the format. Changes included:
 * Adding a produced video, created mostly using highlights from [Sales Kickoff](/handbook/sales/training/SKO/) presentations, to share the most important information. This mostly replaced the previous format of sequential 5-minute live updates.
 * Adding a second time to be inclusive of all time zones.
 * During each event, attendees watched the video update live (no requirement to complete any actions before the meeting). The video is followed by an AMA with the executive team.
