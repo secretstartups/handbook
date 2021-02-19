@@ -13,7 +13,9 @@ category: Handling tickets
 
 # Support Uploader
 
-The [project](https://gitlab.com/gitlab-com/support/support-uploader) is accessible to all Support team members at [https://uploader.gitlab.support](https://uploader.gitlab.support) (note, this currently requires both GitLab Pages and Okta authentication, both should happen automatically if you are signed in).
+The [project](https://gitlab.com/gitlab-com/support/support-uploader) is accessible to all Support team members at [https://uploader.gitlab.support](https://uploader.gitlab.support) (NOTE: currently, this requires both GitLab Pages and Okta authentication, both should happen automatically if you are signed in).
+
+**NOTE:** Support Uploader exists as a Zendesk App for use while working tickets. For details, check the [zendesk-app](https://gitlab.com/gitlab-com/support/support-uploader/-/tree/master/zendesk-app) folder in the `support-uploader` project.
 
 ## General notes and limitations
 
