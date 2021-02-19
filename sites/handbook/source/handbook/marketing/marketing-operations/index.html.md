@@ -336,30 +336,21 @@ At GitLab, we strive to communicate with people in a way that is beneficial to t
 
 Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please folloow this decision tree for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email.
 
-Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MCMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact MOps. **When in doubt, ask!**
-
-<div style="width: 600px;" class="embed-thumb"> 
-<div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> 
-<div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://app.mural.co/static/images/mural-thumb.svg) no-repeat center center; background-size: cover;">
-<div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);">
-</div> 
-<a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="Decision Tree Mural" width="233" height="50"> </a> 
-</div> 
-</div>
-</div>
+Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MCMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact MOps. **When in doubt, ask!** [This Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11) contains examples to help you make your decision.
 
 `Operational Emails` do not have an effect on the communication limits in marketo. Those limits are set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`.
 
 ### Types of Email
 
 **Breaking Change Emails**
-These are transactional emails, almost always to our user base, that provide very selective needed information. This is an`operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
-It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned, so we are communicating to a very specific focused list. In some cases, these will be sent via [Mailchimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends).
+These are transactional emails, almost always to our user base, that provide very selective needed information. This is an `operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
+
+It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) and reference [this section](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
 
 **Newsletter**
 Sent bi-monthly (every 2 weeks), the newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/demand-generation/campaigns/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
 
-**Security Alerts**
+**Security Releases**
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
 
 **Webcasts**
@@ -442,7 +433,7 @@ Status in the table below means:
 
 ## Lead and Contact Statuses
 
-The Lead & Contact objects in Salesforce have unified statuses with the following definitions. If you have questions about current status, please ask in #lead-questions channel on Slack.
+The Lead & Contact objects in Salesforce have unified statuses with the following definitions. Lead . Also reference [Re-MQL workflows](/handbook/marketing/marketing-operations/marketo/#re-mql) for how to move from status to status.
 
 | Status | Definition |
 | ------ | ---------- |
