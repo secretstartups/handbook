@@ -95,7 +95,7 @@ The team manager and mentors will also need to be able to actively participate i
 The process for opening an intern requisition would be as follows: 
 1. Opening a requisition starts via either a [backfill process](/handbook/engineering/#backfill-process) or would be based on headcount availability and budget
 1. The requesting team writes up a proposal including: projects/workload, proposed career path, requirement knowledge, skills and abilities by the intern. [This example of Security](/handbook/engineering/security/internship.html) can be helpful for review
-1. The proposal will be reviewed by Engineering Leadership up until the EVPE of Engineering
+1. The proposal will be reviewed by Engineering Leadership up until the CTO
 1. If approved the manager for the team will be the DRI for the internship
 1. The DRI will make sure the intern level is added to the Job Family for their group
 1. Recruitment/sourcing starts for intern
