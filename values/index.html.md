@@ -1168,7 +1168,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. What we refer to when [making decisions](/handbook/leadership/#making-decisions).
 1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
 1. What we select for during [hiring](/handbook/hiring/).
-1. What we include in our offer letters [Offer letters](/handbook/people-group/contracts-and-international-expansion/#employment-and-contractor-agreements)
+1. What we include in our [offer letters](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements)
 1. What we emphasize during [on-boarding](/handbook/people-group/general-onboarding/).
 1. Behavior we give each other [360 feedback](/handbook/people-group/360-feedback/) on.
 1. Behavior we [compliment](/handbook/communication/#say-thanks).
