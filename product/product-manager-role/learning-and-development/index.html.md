@@ -170,7 +170,6 @@ These books are highly recommended to be read by every product manager at GitLab
 - [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
 - [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video)
 
-
 ##### Online courses 
 
 ##### Books
