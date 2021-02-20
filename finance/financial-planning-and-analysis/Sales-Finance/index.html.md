@@ -44,6 +44,8 @@ We believe an excellent forecasting process enables us to deploy our resources e
 
 [Nov'20 Deck](https://docs.google.com/presentation/d/1BU7JLYY_8I0qE-twteHHoa0XSmDuWFFDZ-YYyPCWVI0/edit?usp=sharing)
 
+[Dec'20 Deck](https://docs.google.com/presentation/d/13sPhVbyDjZi67f3cTsq-1Z_YeDlkqeVBOnWPtf6vETo/edit?usp=sharing)
+
 ## Sales & Marketing Funnel SSOT Dashboards
 The following Single Source of Truth (SSOT) dashboards provide a monthly and quarterly Sales & Marketing funnel trend view, including; 
 - IACV Pipeline Created
