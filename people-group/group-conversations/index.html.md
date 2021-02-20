@@ -243,7 +243,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | Three | Fri | Do Not Schedule  | Do Not Schedule  |
 | Four  | Mon  | [Product](/handbook/product/) |Scott Williamson|
 | Four  | Tue  | [Development](/handbook/engineering/development/)   | Christopher Lefelhocz  |
-| Four  | Wed  | [Alliances](/handbook/alliances/)  | Brandon Jung  |
+| Four  | Wed  | [Alliances](/handbook/alliances/)  | Mayank Tahilramani |
 | Four  | Thur | [Infrastructure](/handbook/engineering/infrastructure/)  | Steve Loyd  |
 | Four  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Five  | Mon  | [Security](/handbook/engineering/security/)  | Johnathan Hunt  |
