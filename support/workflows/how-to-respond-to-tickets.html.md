@@ -49,6 +49,7 @@ Be empowered: at GitLab Support we want humans with agency, not agents. If somet
 If something feels inefficient, fix it. Everyone can _and should_ contribute.
 
 ### The Sandwich Method
+
 When it comes to actually answering tickets, the sandwich method is a great 3 point
 guideline that will help you elevate your responses. A great customer reply will
 contain the following 3 things:
@@ -116,12 +117,14 @@ You can come up with multiple theories and corresponding tests in a single respo
 The idea for this was taken from [Jeff Anderson's talk](https://www.youtube.com/watch?v=DK1ew1HpmeY&t=127s).
 
 ### Improving the Customer Experience Through Ticket Deflection
+
 "Ticket deflection" can sound like a way to weasel out of work, but in reality it's about improving the customer experience.
 Customers don't _want_ to write into support. They'd much rather not have the problem in the first place.
 Failing that, they'd like to solve the problem themselves. If they can't do that, **then** they want a technically skilled
 individual to help them solve their problem.
 
 There are 4 primary tools of ticket deflection:
+
 - Excellent Product
 - Statement of Support
 - Documentation
@@ -130,11 +133,13 @@ There are 4 primary tools of ticket deflection:
 In essence, at the end of every ticket, there should be a link to documentation, an issue, a merge request, or our statement of support.
 
 #### Excellent Product
+
 Having an excellent product is the first line of deflection - a product that is free of defects
 and works as expected will reduce the number of support cases organically.
 
 Support plays a vital role in surfacing issues that our users encounter while using GitLab
 by:
+
 - [reporting bugs](/handbook/support/workflows/working-with-issues.html#creating-issues)
 - [tagging issues](/handbook/support/workflows/working-with-issues.html#adding-labels)
 - [participating in issues](/handbook/support/workflows/working-with-issues.html#adding-comments-on-existing-issues)
@@ -142,18 +147,20 @@ by:
 - [fixing issues by submitting an MR](/community/contribute/)
 
 #### Statement of Support
+
 The [Statement of Support](/support/statement-of-support.html) describes the areas covered by Support and the areas
 we can't promise to cover. This is a tool to set expecations for customers as well as to help the
 support team to make sure we're supporting what we're experts in. You can read more about the
 philosophy behind it in [the blog post where we introduced the Statement of Support](/blog/2018/12/20/introducing-our-statement-of-support/).
 
-
 As a member of the Support Team at GitLab you should be:
+
 - familiar with the content of the Statement of Support
 - comfortable explaining to customers when something is out of scope
 - cognizant of when you're intentionally going out of scope and conscious of articulating to the customer that you're doing so "as a courtesy"
 
 ##### Is it in scope?
+
 **Greg's Razor** is a simple question that will help you determine what is in the scope of support.
 
 > Is it in the [docs](https://docs.gitlab.com)?
@@ -163,26 +170,28 @@ If yes, we support it.
 If it's not in our docs, the first step before any customer uses it in production should be to get it in the docs.
 
 #### Documentation
-By using a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot), and that customers are more aware of where to find content on their own.
+
+By taking a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot). By building up a corpus of documentation informed by real-world problems, we help GitLab customers find the answers or solutions they need before they come into the queues.
 
 **Always respond with a link to the docs. If docs content is missing, create it and link the customer to the MR. If you are working on a ticket that is about to breach, you can clear the breach with a response, and immediately follow up with the MR. Remember: go slow, to go fast.**
 
-
 #### Technical Excellence
+
 The best way to improve the customer experience is by being knowledgeable about our product.
 You should coordinate with your manager to develop an intentional learning plan that builds on your strengths or broadens your knowledge.
 You should also freely ask questions, pair with others and demonstrate a posture of vulnerability that invites others to follow.
 
 Whatever you learn, make sure that you're constantly bubbling it up and broadcasting it:
+
 - When learning: (re)write the docs.
 - When troubleshooting: use the docs.
 - If something is missing: update the docs.
 
 #### Highlighting docs and handbook links on our support portal
+
 At times, we might want to highlight a GitLab document or a handbook article on our support portal page. We have the facilities to create a redirect article in Zendesk and associate certain keywords with this link (while pointing to the relevant doc or handbook link). During the creation of a support ticket, this article will pop up if the keywords mentioned above are used in the ticket subject, allowing the customer to see the answer to their question before submitting the support ticket.
 
 Currently we are curating the list of articles and redirects, so you need to reach out to Support-Ops or the managers to iterate on the (list of) articles.
-
 
 ### Openly share your mistakes and learn from them
 
