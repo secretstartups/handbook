@@ -43,7 +43,7 @@ Managers know in `#spt_managers`.*
 | Production       | .com Infrastructure | Dave Smith          | Vlad Stoianovici      | every 2 weeks |
 | Marketing        | Community Relations | David Planella      | Greg Myers            | weekly team meeting |
 | Marketing        | Open Source Prog.   | Nuritzi Sanchez     | Greg Myers            | weekly team meeting |
-| Customer Success | Customer Success    | Kristen Lawrence    | Tom Atkins            | weekly on Fri join EMEA scrum |
+| Customer Success | Customer Success    | Kristen Lawrence    | TBD                   | weekly on Fri join EMEA scrum |
 | Sales            | Sales               | TBD                 | Mike Dunninger        | TBD |
 | Security         | Abuse               | Roger Ostrander     | Greg Myers            | N/A |
 | Security         | Security Operations | Jan Urbanc          | Brie Carranza         | N/A |
