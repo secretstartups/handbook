@@ -11,7 +11,10 @@ title: "Sales Compensation Plan"
 ## FY22 Sales Compensation Plan
 Due to the continuted iterations and customizations of each role's Sales Compensation plan, please refer to the documents shared in your participant schedule for details on the FY22 Field Compensation plan.
 
-## FY21 Sales Compensation Plan
+**Please Note** Included with your participant schedule will be reference to the current (FY22) Sales Compensation Plan Terms and Conditions. These Terms and Conditions will supersede any previous terms related to compensation, including the FY 21 Sales Compensation Plan found below.  
+
+
+## FY21 Sales Compensation Plan **THESE TERMS NO LONGER APPLY**
 
 ### Plan Purpose
 
