@@ -282,7 +282,7 @@ We aim for the current [development department MR rate](/handbook/engineering/de
 
 ## Onboarding 
 
-All new team members to the Product Intelligence teams are provided two onboarding issues to help ramp up on our analytics tooling. New team member members should create their own onboarding issues in the [gitlab-org/growth/team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues). Note that I've added this template to our handbook page instead of inside of a GitLab template as I believe the handbook page provides better visibility for incoming team members.
+All new team members to the Product Intelligence teams are provided two onboarding issues to help ramp up on our analytics tooling. New team member members should create their own onboarding issues in the [gitlab-org/growth/team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues). Note that this template lives in our handbook page instead of inside a GitLab template as it provides better visibility for incoming team members.
 
 ### Usage Ping Onboarding Template
 
@@ -292,7 +292,7 @@ Example Issue: https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/304
 ```
 ## Overview
 
-The goal of this issue is to introduce you to how usage ping works. Your first task is to locally replicate the sending and receiving of a Usage Ping. In order to do this, you will traverse the gitlab and versions codebases to see how a usage ping is created and received. 
+The goal of this issue is to introduce you to how usage ping works. Your first task is to locally replicate the sending and receiving of a Usage Ping. In order to do this, you will traverse the gitlab and versions codebases to see how a usage ping is sent and collected. 
 
 Please work with your onboarding buddy if you have any questions.
 
@@ -305,6 +305,8 @@ Please work with your onboarding buddy if you have any questions.
 - [ ] Point gitlab to the versions endpoint instead of the default endpoint
 - [ ] In gitlab via rails console, manually trigger a usage ping
 - [ ] In versions via rails console, check that a usage ping was successfully received, parsed, and stored in the Versions database.
+- [ ] Notify your manager and onboarding buddy once this issue is complete
+- [ ] Close off this issue
 ```
 
 ### Snowplow Onboarding Template
@@ -315,7 +317,7 @@ Example Issue: https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/316
 ```
 ## Overview
 
-The goal of this issue is to introduce you to how Snowplow works. Your first task is to locally replicate the sending and receiving of Snowplow events. In order to do this, you will traverse the gitlab and iglu codebases to see how a usage ping is created and received. 
+The goal of this issue is to introduce you to how Snowplow works. Your first task is to locally replicate the sending and receiving of Snowplow events. In order to do this, you will traverse the gitlab and snowplow codebases to see how a snowplow event is sent and collected. 
 
 Please work with your onboarding buddy if you have any questions.
 
@@ -329,6 +331,8 @@ Please work with your onboarding buddy if you have any questions.
 - [ ] Add a Snowplow event using Ruby https://docs.gitlab.com/ee/development/snowplow.html#implementing-snowplow-ruby-backend-tracking
 - [ ] Using your browser, navigate to wherever the event was added and trigger all the added Snowplow events (HAML, Ruby)  
 - [ ] In Snowplow Micro, ensure all of the above mentioned events are successfully captured as good events in `localhost:9090/micro/good`
+- [ ] Notify your manager and onboarding buddy once this issue is complete
+- [ ] Close off this issue
 ```
 
 ## Quick Links
