@@ -21,7 +21,7 @@ Task/Item - Key Contributors
 * Press release: date of earnings release, access instructions - IR
 * Overview of prelim financials and key metrics, CFO topics	- IR/CFO/PAO/VP FP&A
 * Audit process begins, preliminary financials available - PAO
-* Business update & overview of department initiatives (1:1s) - IR/CMO/CRO/EVP Product
+* Business update & overview of department initiatives (1:1s) - IR/CMO/CRO/CProdO
 
 ### 3 Weeks Prior	
 * Stockholder letter, v1 - IR/CEO/CFO/CLO
