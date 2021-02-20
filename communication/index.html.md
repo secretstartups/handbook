@@ -1137,8 +1137,8 @@ To get in touch with the [e-group](/company/team/?department=executive) on Slack
 | ------ | ------ |
 | CEO    | `#ceo` |
 | CFO    | `#finance` |
-| EVP of Product | `#product` |
-| EVP of Engineering | `#evpe` |
+| CProdO | `#product` |
+| CTO    | `#cto` |
 | CRO    | `#cro` |
 | CMO    | `#marketing` |
 | CPO    | `#peopleops` |
