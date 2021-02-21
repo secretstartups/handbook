@@ -38,7 +38,7 @@ This [list](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-
 
 #### For Growth & Development Benefits that cost under $1,000 USD
 
-We encourage you to seek verbal approval from your manager before you sign up to anything. If the cost is under $1,000 USD, please fill out the [Growth & Development Benefit Form (Under $1,000)](https://forms.gle/ZLH2KtEqxBtW1Bja6) and submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). 
+We encourage you to seek verbal approval from your manager before you sign up to anything. If the cost is under $1,000 USD, please fill out the [Growth & Development Benefit Form (Under $1,000)](https://forms.gle/ZLH2KtEqxBtW1Bja6) and submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). Please include your Google Form response receipt in your expense submission.
 
 #### For Growth & Development Benefits that cost over $1,000 USD**
 
