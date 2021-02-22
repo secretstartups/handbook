@@ -115,3 +115,12 @@ If you're interested in becoming a stable counterpart for a group,
 
 Note: We encourage having more than 1 SSC for a group - so if the group you are interested in already has an SSC, don't let that deter your interest!
 
+## Non-group specific SSCs
+
+A couple of roles are not product group specific, but involve all the same expections and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons.html).
+Non-group specific counterparts typically also step in when the related group has questions where there is no SSC currently.
+
+| Section          | Group          | Group Contact       | Support Liaison             | Frequency              |
+|:----------------:|:--------------:|:-------------------:|:---------------------------:|:----------------------:|
+| UX               | Tech Writing   | Susan Tacker        | Cynthia Ng & Mike Lockheart | weekly team meeting    |
+| UX               | UX             | Christie Lenneville | Cynthia Ng                  | bi-weekly team meeting |
