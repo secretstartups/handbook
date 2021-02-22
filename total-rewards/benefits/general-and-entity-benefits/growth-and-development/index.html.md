@@ -122,3 +122,4 @@ Process for Total Rewards Analysts for recouping Growth & Development reimbursem
 * Check when the reimbursement was processed (via payroll changes sheets)
 * Ask payroll for the pay stubs
 * Fill out a Recoupment Notice Form and stage the document in HelloSign
+* Fill out the Growth & Development Recoupment Log
