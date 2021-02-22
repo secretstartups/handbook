@@ -16,7 +16,7 @@ We also have a [biggest risks page](/handbook/leadership/biggest-risks/).
 
 [Software is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
 
-## 2. [DevOps](/devops)
+## 2. [DevOps](/topics/devops/)
 
 [Developers as the New Kingmakers](https://dzone.com/articles/developers-are-the-new-kingmakers)
 
