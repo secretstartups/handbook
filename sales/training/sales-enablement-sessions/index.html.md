@@ -29,7 +29,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | Mar 18 | [Q1 FY22 Channel Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/103)              |                 |
 | Mar 25 | [Co-Selling with GCP](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/106)              |                 |
 | Apr 1  | [Co-Selling with AWS](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/108)              |                 |
-| Apr 8  |               |                 |
+| Apr 8  |  [Incident Management](https://gitlab.com/gitlab-org/gitlab/-/issues/290229)             |                 |
 | Apr 15 | [Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/95)
 | Apr 22 | *No sessions during last 2 weeks of the quarter*
 | Apr 29 | *No sessions during last 2 weeks of the quarter*
