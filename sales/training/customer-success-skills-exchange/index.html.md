@@ -15,6 +15,21 @@ description: "Continuous education webcast series for GitLab Customer Success te
 ## Upcoming Training
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
+**Spring 2020 Lineup**
+
+| DATE   | TOPIC    | SPEAKERS                                       |
+|--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
+| Feb 24 | [Tracking Value with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/114#note_501849239)| **Orit Golowinski** |
+| Mar 3 |              |              |
+| Mar 10 |[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)  | **Julie Byrne** |
+| Mar 17 | [Gitlab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)              |  **Simon Mansfield**               |
+| Mar 24 | [Protect PM Shadow Show and Tell](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/118)              |   **Karen Kwentus**              |
+| Mar 31  |               |                 |
+| Apr 7  |  [Detailed Deep Dive on Git/ SCM Capabilities](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/31)             |    **William Arias**             |
+| Apr 14 |         |           |
+| Apr 21 |          |            |
+| Apr 28 | *No sessions during last week of the quarter*
+
 ### Get an invite to the weekly session
 
 To get a calendar invite to the weekly CS Skills Exchange, make sure you are added to the sales-cs email group
