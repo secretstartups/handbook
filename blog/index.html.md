@@ -561,8 +561,8 @@ If the blog post is about an integration, the DRI from Partner Marketing should 
 
 ##### No image
 
-If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). No image will appear on the blog post itself, and the default image (see below) will appear on the post's tile on the blog homepage and as the thumbnail when the post is shared on social media.
-
+If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). No image will appear on the blog post itself, and the default image (see below) will appear on the post's tile on the blog homepage. The thumbnail image for the blog post (when sharing on social media, for example) will automatically be determined by the category of the blog post.
+ 
 If preferred, you can use the default image as a cover image, but this is not advised as the image does not add anything to the post and takes up a lot of room beneath the blog title:
 
   ![default blog cover image](/images/handbook/marketing/default-blog-image-example.png){: .shadow.medium.center}
