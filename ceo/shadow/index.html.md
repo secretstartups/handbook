@@ -187,10 +187,23 @@ Exceptional community members may be able to participate, as well.
 | 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-05-03 | 2021-05-07 | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher | AVAILABLE - REMOTE |
-| 2021-05-10 | 2021-05-14 | UNAVAILABLE - PC | UNAVAILABLE - PC |
+| 2021-05-10 | 2021-05-14 | AVAILABLE - REMOTE | AVAILABLE - REMOTE|
 | 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher |
 | 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
-| 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
+| 2021-06-07 | 2021-06-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-06-14 | 2021-06-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-06-21 | 2021-06-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-06-28 | 2021-07-01 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
+| 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-07-12 | 2021-07-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-07-19 | 2021-07-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-07-26 | 2021-07-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-08-02 | 2021-08-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-08-09 | 2021-08-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-08-16 | 2021-08-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-08-30 | 2021-09-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
 
 If you have questions regarding the planned rotation schedule, please ping the Staff Executive Business Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
