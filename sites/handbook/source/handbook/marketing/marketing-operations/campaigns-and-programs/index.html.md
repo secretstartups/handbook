@@ -13,6 +13,19 @@ description: ""
 
 Campaigns are used to track efforts of marketing tactics - field events, webcasts, content downloads. The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking. Leveraging campaign aligns our efforts across Marketing, Sales and Finance.
 
+### Campaign Large Buckets
+Campaign buckets are used to improve reporting at a high level and Allocadia forecasting. A bucket must be selected when a new campaign is created.
+
+|Name|Description|Examples|
+|-------|--------------|---------|
+|Brand          | Activities meant to elevant the GitLab brand          | All-Remote, share of voice campaigns        |
+|Lead Generation|Efforts designed to bring in NEW leads to our database|Inbound Marketing, Conferences, Content Syndication, Webinars, Prospect Events in regions|
+|Pipeline Generation & Acceleration|Efforts to develop and accelerate leads in our database to purchase|Webinars, Workshops, Owned Events|
+|Users & Community| Campaigns geared towards GitLab users and Community|Commit, Meetups|
+|E-Commerce Conversion|Campaigns that do not require a touch by sales to close|`Buy Now` in our store|
+
+Campaign Types and Large Buckets will not always be 1:1, as certain programs could fall into multiple buckets (like webcasts, content).
+
 ### Campaign Cost Tracking
 
 Campaign Managers track costs associated with campaigns - such as events, content, webcasts, etc. Campaign tags can be applied to Expensify reports, corporate credit card charges, and vendor bills processed by Accounts Payable. Campaign expenses that are incurred by independent contractors should be clearly noted with the appropriate tag and included in their invoices to the company. We then use these accumulated campaign tag costs for budget to actual analysis as well as to update the Salesforce campaigns with actual costs.
@@ -397,6 +410,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign owner` to your name
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Confirm that start date and end date populated correctly (this is automated). For events and webcasts, start date is 30 days prior to the event date and 60 days after. For all other campaigns, the start date is the date of launch, end date is 90 days from the date of launch (or if the campaign runs longer, update to the appropriate end date).
     - Update the event epic
@@ -440,6 +454,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
@@ -479,6 +494,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
@@ -508,6 +524,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Alyce progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail) or [Direct Mail progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
 - Change the `Campaign Owner` to your name
 - Confirm the `type` is `Direct Mail`
+- Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
 - Confirm the `Enable Bizible Touchpoints` is set to `Include only "Responded" Campaign Members`
 - Update the event epic
 - Update the description
@@ -554,6 +571,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign Owner` to your name
     - Add `Parent Campaign` of `2020_Social_LinkedIn_Lead Gen`
+    - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Update the event epic
     - Update the description
