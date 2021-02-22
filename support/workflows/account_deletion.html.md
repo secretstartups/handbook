@@ -77,7 +77,7 @@ Upon submission, the submitter will receive an [autoresponder](https://gitlab.co
 
      <p>Greetings,</p>
 
-     <p>Due to lack of identify verification. Your request for account deletion is denied. This issue will be closed.</p>
+     <p>Due to lack of identity verification, your request for account deletion is denied. This issue will be closed.</p>
 
      <p>Regards,</p>
    </details>
