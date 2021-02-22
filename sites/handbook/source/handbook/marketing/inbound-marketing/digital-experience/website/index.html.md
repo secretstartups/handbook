@@ -894,6 +894,16 @@ On the about.gitlab.com website we have approval to use the customer logos lisit
 
 </details>
 
+<details markdown="1">
+
+<summary>How do I fix a stuck merge train?</summary>
+
+### How do I fix a stuck merge train?
+
+Sometimes a merge train will get stuck in our [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) repo pipelines. Please see this related issue for [instructions on how to recover a stuck merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/217908#when-the-merge-train-in-the-www-gitlab-com-project-might-be-stuck).
+
+</details>
+
 ## Tools
 
 <details markdown="1">
