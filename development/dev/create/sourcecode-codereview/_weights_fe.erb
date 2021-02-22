@@ -2,7 +2,22 @@ These are the broad definition for each of the weights values. We don't use a Fi
 
 When issues are Frontend only, we use the Weight feature of Issues.
 
-When issues are both Frontend and Backend we use specific labels to support both weights in the same issue: `~frontend-weight::1` through `~frontend-weight::8`.
+When issues are both Frontend and Backend we use specific labels to support both weights in the same issue: `~frontend-weight::1` through `~frontend-weight::13`. Only weights between 1-5 can be scheduled into a milestone. Higher ones need to be broken down.
+
+**Note:** Since milestone 13.10, we switched to using a fibonacci based scale. The reason behind this is how hard it's been to distinguish between issues of weight 3 and 4 or weight 4 and 5. Fibonacci allows for a clearer distinction as weights increase.
+
+| Weight | Description  |
+| --- | --- | --- |
+| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required. |
+| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. |
+| 3: Medium | Features that are well understood and relatively straightforward. Bugs that are relatively poorly understood and may not yet have a suggested solution. |
+| 5: Medium | Features that are well understood and relatively straightforward but still need a good deal of work. Bugs that are relatively poorly understood and may not yet have a suggested solution. Includes some tasks that might be hard to test. |
+| 8: Large - unschedulable | Features that are well understood, but known to be hard. Very complex bugs that are very poorly understood and no hint of how to replicate without a suggested solution. |
+| 13: Very large - unschedulable | Very large features. Must be turned into an epic with several iterative steps becoming issues |
+
+
+<details>
+<summary>Old weights table - Deprecated (last used in 13.9) </summary>
 
 | Weight | Description  |
 | --- | --- | --- |
@@ -12,3 +27,5 @@ When issues are both Frontend and Backend we use specific labels to support both
 | 4: Medium | Features that are well understood and relatively straightforward but still need a good deal of work. Bugs that are relatively poorly understood and may not yet have a suggested solution. Includes some tasks that might be hard to test. |
 | 5: Large | Features that are well understood, but known to be hard. Bugs that are very poorly understood, and will not have a suggested solution. |
 | 8: Very large | Very large features that usually require the dedication of a FE for the full length of the milestone. — Very rare, usually split into smaller issues |
+
+</details>
