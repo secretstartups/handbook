@@ -196,13 +196,19 @@ Managers of soon to be parents should check out this [Parental Leave Manager Too
 If you're interested in learning about how other GitLab team members approach parenthood, take a look at [the parenting resources wiki page](https://gitlab.com/gitlab-com/gitlab-team-member-resources/wikis/parenting) and [#intheparenthood](https://gitlab.slack.com/messages/CHADS8G12/) on Slack.
 
 
-### Process for Total Rewards Analysts
+### Parental Leave Administration
+
+For Total Rewards:
+
   * PTO by Roots will notify Total Rewards of any upcoming parental leave.
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
   * Notify the team member that the parental leave request was received by sending the confirmation e-mail template (only send this e-mail if the team member is starting their parental leave. Team members who are taking their leave intermittently or changing the dates of their original leave request do not need to receive the confirmation e-mail again).
   * Notify payroll - add the start date and end date on the payroll changes file ("Payroll Changes" sheet for team members in the US, "Canada Payroll Changes" sheet for team members in Canada and "Non-US Payroll Changes" sheet for everyone else). Ensure the entry is under the appropriate pay cycle date.
   * PTO by Roots will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually. 
   * Check local statutory requirements and if applicable, arrange any paperwork and liaise with appropriate parties (such as the PEO and payroll team) to initiate the parental leave.
-  * 1 day before the End of Parental Leave date, BambooHR will send a notification to Total Rewards. Confirm the team member's return by sending the return to work e-mail to the team member and manager. If the team member or manager doesn't reply at least 1 business day after the End of Parental Leave Date, follow up again or ping the manager to confirm the team member has returned from leave.
+  * 1 day before the End of Parental Leave date, PTO by Roots will send the team member a [Welcome Back message](https://docs.google.com/document/d/1gKJlcLbQ-Y9KZZniYHRptG6qIOzleyDaCdbQWEkswTA/edit?ts=6033d0b3) with buttons to confirm their return or explore other options.     
+      * Clicking the `Confirm my return` button will open the email client with a pre-loaded template "Confirming my return from Parental PTO"
+      * Clicking the `Explore options` button will also open the email client with a pre-loaded template "I have exceeded my 16 weeks and like to look into further options"
+  * Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
   * If the dates in PTO by Roots change, update the payroll changes file and the BambooHR status accordingly.
