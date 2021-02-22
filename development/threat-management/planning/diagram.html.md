@@ -191,7 +191,7 @@ the Design Issue goes through a final review with Product Management and Enginee
 more Implementation Issues are created.
 
 Before moving to the next phase, the Design Issue is closed and the resulting final designs and
-requirements are copied to the Feature Epic, which becomes a clear, without distractions, 
+requirements are copied to the Feature Epic, which becomes a clear, without distractions,
 [SSOT](/handbook/values/#single-source-of-truth) for the solution. The closed Design Issue serves
 as a historical record of how we reached decisions.
 
@@ -248,7 +248,7 @@ copied here from the Design Issue for reference; at this point the Design Issue 
 is closed when all Issues are delivered.
 
 **MVC Feature Epics**
-When a Feature Epic and it's associated Design Issue is large enough to break into mulitple MVCs, multiple MVC Feature Epics will be created. 
+When a Feature Epic and it's associated Design Issue is large enough to break into mulitple MVCs, multiple MVC Feature Epics will be created.
 
 
 
@@ -257,16 +257,16 @@ When a Feature Epic and it's associated Design Issue is large enough to break in
 All Feature Issues rolling-up to the Feature Epic are their own
 [MVC](/handbook/values/#minimal-viable-change-mvc)s in that they are independently-releasable
 slices of value. Each issue contains its own criteria for delivery, including any implementation
-details and links to relevant design assets for just this Issue. 
+details and links to relevant design assets for just this Issue.
 
 Feature Issues are used by our PMs to support tracking on the homepage as well as creating release posts.
 
 
 **Implementation Issues**
 
-Implementation issues allow each Feature Issue to be broken into small, discrete tasks that can move independently through the build workflow steps. 
-Whenever possible, Implementation Issues should also be independently-releasable and provide value to the customer. 
-When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.  
+Implementation issues allow each Feature Issue to be broken into small, discrete tasks that can move independently through the build workflow steps.
+Whenever possible, Implementation Issues should also be independently-releasable and provide value to the customer.
+When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.
 
 **Structure of a Singular MVC Feature**
 ```mermaid
@@ -320,8 +320,8 @@ Issues that have the `~feature` and `~Deliverable` labels require a [Release
 Post](/handbook/product/product-processes/#communication#release-posts) to be ready for publishing along with the
 corresponding feature. The schedule to create and review a Release Post is naturally challenging
 so, to allow Product Managers to work in parallel, Engineering should add a Documentation stub
-early in the [WIP
-MR](https://docs.gitlab.com/ee/user/project/merge_requests/work_in_progress_merge_requests.html) so
+early in the [draft
+MR](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html) so
 that the final hyperlink to the documentation is available well before the end of the iteration.
 
 ```mermaid
@@ -373,7 +373,7 @@ graph TB
   4A["(Re)validate<br>feature works<br>for all users"]
   4B([Deploy to<br>Production]) --> 4C([Merge Release<br>Post MR])
   4L>"~workflow:production"] --- 4B
-  A["Close<br>Feature Epic"] 
+  A["Close<br>Feature Epic"]
 
   4A --> 4B --> 4A
   4C --- A
