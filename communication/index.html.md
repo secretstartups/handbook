@@ -296,7 +296,6 @@ When doing this, create and link to a [single source of truth](/company/culture/
 
 We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
 Some things can't be made public and are either [internal](#internal) to the company or have [limited access](#limited-access) even within the company.
-The items that are not public are detailed in the sections below together with an explanation why they aren't public.
 If something isn't listed in the sections below we should make it available externally.
 
 ### Internal
@@ -326,7 +325,7 @@ Some things are **internal**, available internally but not externally. The follo
 1. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
 1. Compensation Changes: GitLab will communicate and train team members on the output of iterations to the Total Rewards offerings (Compensation, Equity, Benefits), but team members will not have visibility into the inputs and decision making of compensation changes. 
 
-## Limited Access
+### Limited Access
 
 The items below are not shared with all team members. Limited access is a more severe restriction than [internal](#internal).
 
