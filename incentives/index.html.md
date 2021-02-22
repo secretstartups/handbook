@@ -99,6 +99,10 @@ You can read more about the process in [our handbook](https://about.gitlab.com/h
 
 For managers: as a reminder, please make sure when you are submitting the bonus in BambooHR that your description is clear and includes the valid criteria data needed for managers and PBP to review and approve.  Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the manager will be asked to provide further content and details.
 
+##### Multiple Bonuses Nominations
+
+If a team member is nominated multiple times for the same project/initiative, only one of the nominations will be approved. When announcing in #team-member-updates, managers can mention all nominators. 
+
 #### Process for Recommending a Team Member for a Discretionary Bonus
 
 **Note:** Kindly use Nominator Bot for discretionary bonus requests instead of BambooHR. 
