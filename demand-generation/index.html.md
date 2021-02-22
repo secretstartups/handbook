@@ -120,6 +120,19 @@ The above [Linear] attribution metrics are also available in other attribution m
 * **Country:** mailing address country on the lead and contact records, for the opportunities we are using the contact's mailing address. (Note: Marketo forms collect the mailing address). Country **does not** filter the PMG cost.
 * **SFDC Order Type Stamped, Opp Sales Stype, Opp Deal Path:** filters the post opportunity metrics (SAO,WON) only (so it is not linked to Inquiries, MQL, SDR Accepted). PMG Cost is not filtered.
 
+**How to filter New First Order Logos?**
+
+Select `SFDC_Order_Type_Stamped = 1. New - First Order` (this does not filter the `Opp_Sales_Type filter`).
+
+**How to filter Growth?**
+
+Select `SFDC_Order_Type_Stamped = 1. New - First Order, 2. New - Connected, 3. Growth` to expand the view beyond first orders.
+
+**How to use `Opp_Deal_Path` filter?**
+
+`Web direct` covers web portal purchase. Deal Path is `Channel` when the Partner Account name is not blank on the opportunity.
+
+
 **Functionalities:**
 * **Dynamic KPI Charts:** Some charts are dynamic meaning that you are able to switch the KPI in the dropdown menu in the top left corner. The Y axis format changes based on the selected KPI ($, %). If you want to temporarly remove some values in the chart series. You can do that by clicking on the relevant label in the legend. Double-clicking on a label in the legend will display the desired label only.
 * **Date Aggregation:** with the `Group By Time` filter you can change the date granularity on the [Date Range Comparison table](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard?widget=10984808&udv=1198278) and the trend charts ([Acquisition and Opportunity $ Trend](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard?widget=10531936&udv=1198278),[Conversion % and CPA Trend](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard?widget=10540142&udv=1198278)).
