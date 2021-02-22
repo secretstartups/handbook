@@ -176,8 +176,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-02-08 | 2021-02-11 | No Shadow Rotation - SKO | No Shadow Rotation - SKO |
-| 2021-02-16 | 2021-02-19 | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience | [Shane Rice](https://gitlab.com/shanerice) - Manager, Search Marketing |
 | 2021-02-22 | 2021-02-26 | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience |
 | 2021-03-01 | 2021-03-05 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
 | 2021-03-08 | 2021-03-12 | AVAILABLE - REMOTE | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
@@ -953,4 +951,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-01-11 | 2021-01-22 | [Michael Preuss](https://about.gitlab.com/company/team/#mpreuss22) | Senior Manager, Digital Experience | |
 | 2021-01-18 | 2021-01-29 | [Traci Robinson](https://gitlab.com/traci) | Sr. PMM, Regulated Industries | |
 | 2021-01-25 | 2021-02-05 | [Parker Ennis](https://gitlab.com/parker_ennis) | Sr. PMM, GitLab CI/CD | |
-
+| 2021-02-05 | 2021-02-16 | [Shane Rice](https://gitlab.com/shanerice) | Manager, Search Marketing | [CEO learning recap](https://youtu.be/VZ6XF0qhWVg) |
