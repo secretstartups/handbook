@@ -14,7 +14,7 @@ description: "Video recordings and written tips for non-engineering team members
 
 This page contains video recordings and written tips for non-engineering team members on how to work Handbook-First. In these videos, we run through the GitLab Handbook with experts, uncovering how to best use the Handbook in our day-to-day work, and learning best-practices for Handbook editing along the way. This page is intended to be complementary to [Using GitLab at GitLab](/handbook/using-gitlab-at-gitlab/#using-gitlab-competency), and we suggest you start there if you have not yet completed the [GitLab 101 Tool Certification](/handbook/people-group/learning-and-development/certifications/gitlab-101/).
 
-Have your own practical Handbook editing tips? Drop a video below!
+**Have your own practical Handbook editing tips? Drop a video below!**
 
 ### Creating new handbook pages and multimedia embedding best-practices
 <figure class="video_container">
