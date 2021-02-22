@@ -128,7 +128,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | ------ | ------ | ------ |
 | Welcome to GitLab Sales Kickoff 2021 | [slides](https://docs.google.com/presentation/d/1tYA4skru1M8n41D41ZIA-4klgEiq3BRwRxXo2FF-tHg/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 | Product Keynote: A Winning Product for Peak Performance | [slides](https://docs.google.com/presentation/d/1NunKRuZBnDcZi0k_N5-NQBvdy5X5ZaV4a1Qf7w126qs/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Customer Spotlight: H-E-B and GitLab: A Happy Marriage | [slides](https://docs.google.com/presentation/d/1-PZn0IlB6SYvPMDW2zcF06mqAY61u9b-Dnv0vxRgJTI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Customer Spotlight: H-E-B and GitLab: A Happy Marriage | [slides](https://docs.google.com/presentation/d/1-PZn0IlB6SYvPMDW2zcF06mqAY61u9b-Dnv0vxRgJTI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/customer-spotlight) (GitLab internal) |
 
 ## SKO 2021 Day 2 Sessions
 
@@ -206,7 +206,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Thriving as a Remote SDR: From Cold-calling Jiu-jitsu to Planning Long Term Career Success (featuring Tito Bohrt) | no slides | (video) (coming soon) |
+| Thriving as a Remote SDR: From Cold-calling Jiu-jitsu to Planning Long Term Career Success (featuring Tito Bohrt) | no slides | [video](https://gitlab.edcast.com/insights/thriving) (GitLab internal) |
 | Converting Free to Paid | [slides](https://docs.google.com/presentation/d/1VtKYJXowqh8amuW6opg2HzAJfhoOD_9PEEIVoAzF6CU/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 | SDR Competitive Blueprint | [slides](https://docs.google.com/presentation/d/1RPkiF99Ogq7xr9S87tG5pQKYOHQVnlWok31beeTdHlY/edit?usp=sharing) (GitLab internal) | no video |
 | Security: Our Biggest Differentiator | [slides](https://docs.google.com/presentation/d/1Rog--UoCV71SvbdMdgkpMwY_s29tb8B5R2vR77J5jAQ/edit?usp=sharing) (GitLab internal) | video (coming soon) |
