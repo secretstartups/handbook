@@ -82,7 +82,7 @@ In our continuous integration environment, people with merge permissions are the
 1. Will or should this code impact any automated tests? If so, do they work as expected?
 1. Are there any new javascript console errors or warnings introduced?
 1. Please disable any console logs before merging.
-1. Check for problems with [unused variables and side effects in Webpack](https://gitlab.com/gitlab-com/www-gitlab-com/blob/195b86f68f9689d6e567e0dee7d75ca678df720e/doc/webpack.md#L182). 
+1. Check for problems with [unused variables and side effects in Webpack](https://gitlab.com/gitlab-com/www-gitlab-com/blob/195b86f68f9689d6e567e0dee7d75ca678df720e/doc/webpack.md#L182).
 
 ### Conversion
 
@@ -218,7 +218,7 @@ When reviewing and approving an MR in GitLab, there are some things to be aware 
 
 #### Draft states
 
-* Any merge request marked as "draft" or "WIP" (work in progress) must be taken out of that state before a merge can happen. Please check with the originator to see if the request is ready to be merged. [How to resolve a draft WIP merge request](https://docs.gitlab.com/ee/user/project/merge_requests/work_in_progress_merge_requests.html).
+* Any merge request marked as "draft" or "WIP" (work in progress) must be taken out of that state before a merge can happen. Please check with the originator to see if the request is ready to be merged. [How to resolve a draft merge request](https://docs.gitlab.com/ee/user/project/merge_requests/drafts.html).
 
 #### Relative vs absolute URLs
 
