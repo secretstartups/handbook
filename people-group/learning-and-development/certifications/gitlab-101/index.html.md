@@ -230,7 +230,7 @@ To create a merge request:
 1. Select the soft wrap/no wrap button in the top right (just above the text box) to how you prefer
 1. Find the portion of the page you were wanting to change and make your proposed changes.
 1. Update the "Commit message" - this should describe the changes you made in a few words (ex. Add Values Certification to Page)
-1. Update the "Target Branch" - this will be similar to the commit message, but shorter and using dashes instead of spaces. Every branch name must be unique and we recommend starting it with your initials (ex. cg-add-values-cert-iteration-june4)
+1. Update the "Target Branch" - this will be similar to the commit message, but shorter and using dashes instead of spaces. Every branch name must be unique.
 1. Click "Commit changes" - don't worry, this will just create your merge request, it will not make your changes reflect right away (someone still has to merge it before your changes will be reflected).
 1. On the next page the "Title" will auto populate as the Commit message from the previous page
 1. Answer the questions in the "Description section"
