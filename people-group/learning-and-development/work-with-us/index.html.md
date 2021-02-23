@@ -66,14 +66,11 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 | Launch your course | approx. **5 weeks** after opening the `new_pathway` issue with the L&D team |
 
 
-
-
 ### Integrating external content to GitLab Learn
 
 The process for integrating external content to GitLab Learn is being built.
 
 #### Timeline and expectations
-
 
 
 ### Requesting content review
@@ -82,11 +79,9 @@ The process for L&D content review is being built.
 
 #### Timeline and expectations
 
-
 ### Requesting new content creation or L&D support
 
 The process for requesting content from L&D is being built.
 
 #### Timeline and expectations
-
 
