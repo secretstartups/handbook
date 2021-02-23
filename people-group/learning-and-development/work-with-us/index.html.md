@@ -12,7 +12,6 @@ title: Work with the Learning and Development Team
 
 ## Available Learning and Development Support
 
-
 The Learning and Development team is available to support GitLab teams in the following capacities. Requests will be evaluated as they come in based on team's capacity for support, business impact, correlation to company OKRs, and number of impacted users.
 
 | Support Model | When to use this process |
@@ -37,15 +36,34 @@ To host a live learning event, start by opening an issue in the Learning and Dev
 
 ### Creating a new learning pathway
 
-1. Explore examples in the LXP - remote cert, DIB journey, mental health Rise course
-1. Explore example pathways in the handbook - cc above
-1. All content must be stored in the handbook
-1. Videos must be embedded on handbook page and have header link 
-1. Review adult learning theory practices
-1. Open an issue with the L&D team for review/support
+Anyone team at GitLab is encoruaged to build new learning pathways. Some scenarios where you might want to build a pathway include:
+
+1. Create career development path for your team
+1. Build a training for external audiences on your role
+1. Teach the GitLab team how to efficiently solve a common problem, like troubles with Merge Requests or strategies for async communication
+1. Organize content you've found externally, like articles, videos, or podcasts
+
+To create a new learning pathway and to add that pathway to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_pathway` template. All steps should be outlined on this template.  
+
+**Examples of learning paths in GitLab Learn
+
+1. Diversity, Inclusion and Belonging Certification
+1. GitLab 101 and GitLab 201
+1. Bias for Asynchronous Communication
 
 #### Timeline and expectations
 
+|Action | Timeline |
+| ----- | ----- |
+| Build course content in the handbook | this is up to your team, but please build the content before opening a `new_pathway` issue |
+| Open a `new_pathway` issue | 5 weeks prior to launch |
+| Start collaboration on pathway needs with L&D team | 4 week prior to launch |
+| Implement changes on handbook based on L&D feedback | 3 weeks prior to launch |
+| Complete Learning Evangelist training in GitLab Learn | 3 weeks prior to launch |
+| First iteration of conent upload to GitLab Learn | 2 weeks prior to launch |
+| Peer review or L&D review of content in GitLab Learn | 1 week prior to launch |
+| Make final edits based on peer review | 1 week prior to launch |
+| Launch your course | approx. **5 weeks** after opening the `new_pathway` issue with the L&D team |
 
 
 ### Uploading to GitLab Learn
