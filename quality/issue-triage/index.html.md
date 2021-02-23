@@ -128,7 +128,9 @@ The priority of an availability issue is tied to severity in the following manne
 
 ### Merge requests experience 
 
-The merge request (MR) experience is the core of our product. Due to many teams contributing to the MR UX, it has become a disjointed experience.
+The merge request (MR) experience is the core of our product. Due to many teams contributing to the MR workflow components, it has become a disjointed experience.
+
+The overlapping is largely seen in the following areas: Merge Request Widgets, Mergeability Checks, MWPS and Merge Trains.
 
 As part of the analysis in the [Transient Bug working group](/company/team/structure/working-groups/transient-bugs/), we have discovered that the top most affected product areas are:
 1. `create::code review`
