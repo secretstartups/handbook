@@ -163,7 +163,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | ------ | ------ | ------ |
 | Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 | Pitching to the Economic Buyer | [slides](https://docs.google.com/presentation/d/1XY04MGHsS17LnT_KdqF62op6hK1v34flb9roAvq9miE/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Placing Customers in the Right Tier | [slides](https://docs.google.com/presentation/d/1FrJ9Xgh83l1lYn3jXOYM3aGbdd1XautBHlXoXd1MoCU/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Placing Customers in the Right Tier | [slides](https://docs.google.com/presentation/d/1FrJ9Xgh83l1lYn3jXOYM3aGbdd1XautBHlXoXd1MoCU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/placing) (GitLab internal) |
 | Finding the "Why Now" | [slides](https://docs.google.com/presentation/d/1oli6HEGT7lStuEZ4MD5tL_ndl_TKEQveVHX5RRscTrs/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 
 ### Channel Sales Account Managers
