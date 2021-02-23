@@ -162,9 +162,9 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
 | Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Pitching to the Economic Buyer | [slides](https://docs.google.com/presentation/d/1XY04MGHsS17LnT_KdqF62op6hK1v34flb9roAvq9miE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout) {GitLab internal) |
+| Pitching to the Economic Buyer | [slides](https://docs.google.com/presentation/d/1XY04MGHsS17LnT_KdqF62op6hK1v34flb9roAvq9miE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout) (GitLab internal) |
 | Placing Customers in the Right Tier | [slides](https://docs.google.com/presentation/d/1FrJ9Xgh83l1lYn3jXOYM3aGbdd1XautBHlXoXd1MoCU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/placing) (GitLab internal) |
-| Finding the "Why Now" | [slides](https://docs.google.com/presentation/d/1oli6HEGT7lStuEZ4MD5tL_ndl_TKEQveVHX5RRscTrs/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Finding the "Why Now" | [slides](https://docs.google.com/presentation/d/1oli6HEGT7lStuEZ4MD5tL_ndl_TKEQveVHX5RRscTrs/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-finding) (GitLab internal) |
 
 ### Channel Sales Account Managers
 
@@ -207,7 +207,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
 | Thriving as a Remote SDR: From Cold-calling Jiu-jitsu to Planning Long Term Career Success (featuring Tito Bohrt) | no slides | [video](https://gitlab.edcast.com/insights/thriving) (GitLab internal) |
-| Converting Free to Paid | [slides](https://docs.google.com/presentation/d/1VtKYJXowqh8amuW6opg2HzAJfhoOD_9PEEIVoAzF6CU/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Converting Free to Paid | [slides](https://docs.google.com/presentation/d/1VtKYJXowqh8amuW6opg2HzAJfhoOD_9PEEIVoAzF6CU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-converting) (GitLab internal) |
 | SDR Competitive Blueprint | [slides](https://docs.google.com/presentation/d/1RPkiF99Ogq7xr9S87tG5pQKYOHQVnlWok31beeTdHlY/edit?usp=sharing) (GitLab internal) | no video |
 | Security: Our Biggest Differentiator | [slides](https://docs.google.com/presentation/d/1Rog--UoCV71SvbdMdgkpMwY_s29tb8B5R2vR77J5jAQ/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/security-as) (GitLab internal) |
 
