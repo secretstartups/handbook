@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Assembly"
+description: "At the start of every Fiscal Year (beginning of February), the E-Group hosts a GitLab Assembly meeting"
 ---  
 
 ## On this page
