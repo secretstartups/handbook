@@ -8,6 +8,9 @@ description: Process documentation for ticket escalation to support leadership.
 
 This documents outlines the process for managing existing support tickets or [internal requests](https://gitlab.com/gitlab-com/support/internal-requests) which, due to business-critial situations, require a resolution faster than what is defined by [standard support](https://gitlab.com/gitlab-com/support/internal-requests).
 
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Scope
 
 Our current support escalation covers two ticket types.
