@@ -61,8 +61,8 @@ You’ve now got some time to do some investigation on some of your accounts. Yo
    <td>Enables you to forecast with precision</td>
   </tr>
   <tr>
-   <td><strong>Command plans for all deals over $5k amount or $10k IACV (SMB) or $10k amount or $20k IACV (Mid-Market)</strong></td>
-   <td>Overview section must be completed for deals over $5k in SMB (AMOUNT, not IACV) or $10k in Mid-Market. Full for deals over $10k IACV in SMB or $20k in Mid-Market</td>
+   <td><strong>Command plans for all deals over $5k amount or $10k ARR (SMB) or $10k amount or $20k ARR (Mid-Market)</strong></td>
+   <td>Overview section must be completed for deals over $5k in SMB (Total Contract Value, not ARR) or $10k in Mid-Market. Full for deals over $10k ARR in SMB or $20k in Mid-Market</td>
    <td>The command plan is a guide of how well qualified your opportunity is and signposts what needs to happen next.</td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ Good call notes include:
 
 ## 2/ Ranking/tiering your accounts
 
-The goal of ranking your accounts (customers AND prospects) is to enable you to prioritise your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow IACV by spending the right amount of time depending on the potential and current value of the customer/prospect.
+The goal of ranking your accounts (customers AND prospects) is to enable you to prioritise your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow ARR by spending the right amount of time depending on the potential and current value of the customer/prospect.
 
 ### When to do it
 
@@ -126,7 +126,7 @@ Do some brief research on the customer’s employee count, current subscription 
 
 Here are some things to consider when tiering an account:
 
-- Tier 1s and 1.5s are those accounts that you will pay most attention to - which ones are most worthy of the most time? Which customers and prospects will get you the most IACV this year?
+- Tier 1s and 1.5s are those accounts that you will pay most attention to - which ones are most worthy of the most time? Which customers and prospects will get you the most ARR this year?
 - Tier 2s are generally your future growth accounts that you will work proactively
 - Tier 3s will be mostly reactive and high-volume
 - Consider both the potential growth in the customer/prospect and the impact if they churned
@@ -198,11 +198,11 @@ _You need to continually update your Command Plan with every interaction with an
 
 Navigate to your opportunity and hit the Command Plan button. Enter in the information / questions in the fields.
 
-**For deals over $5k AMOUNT but less than $10k IACV**
+**For deals over $5k AMOUNT but less than $10k ARR**
 
 - Opportunity Overview
 
-**For deals over $10k IACV**
+**For deals over $10k ARR**
 
 All of the above and:
 
