@@ -74,12 +74,6 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 1. Review strategies for [Sharing content with learners](/handbook/people-group/learning-and-development/gitlab-learn/admin/#sharing-content-with-learners)
 1. Knowledge Assessment
 
-### Part 6 - Sample Workflow
-
-
-TBD - add an example to the Learning Evangelist workflow that shows the process of creating a new handbook first learning pathway - make this a video recording going through the steps of creating the mental health cert, GitLab 101, or the DIB cert.
-
-
 
 ## After earning the Learning Evangelist Badge
 
