@@ -36,10 +36,12 @@ During the onboarding process, a People Experience Associate will complete the f
 
 #### Transferring Referral Submissions to Greenhouse
 
-Per the current [Referral Submission Process](/handbook/hiring/referral-process/#submitting-a-referral), Team Members will submit their referrals via Issues. When a new Issue appears, please do the following:
+Per the current [Referral Submission Process](/handbook/hiring/referral-process/#submitting-a-referral), Team Members will submit referrals through Greenhouse if the vacancy is posted externally and via Issues if the vacancy is **only** open internally. When a new Issue appears, please do the following:
 
 1. Assign the Issue to yourself (upper right corner).
+    * _Reruiting Operations & Insights_ is responsible for assigning the appropriate _Recruiter(s)_.
 1. Check to make sure the Issue is marked as `Confidential`.
+    * _Reruiting Operations & Insights_ will ensure this setting is enabled.
 1. Open Greenhouse and click `+` > `Add a Referral`.
 1. Reference the Issue to see what should be entered in the following fields:
     * **Job**
@@ -60,9 +62,6 @@ Per the current [Referral Submission Process](/handbook/hiring/referral-process/
 1. Click `Add this referral` to submit them.
 1. Go to the candidate's profile, click the `Details` tab, and scroll down to the **Source & Responsibility** section.
 1. Hover over **Source** and click the `Pencil` icon, then edit `Who Gets Credit` with the name of the *Referrer* and click `Update Source`.
-1. In the **Make a Note** box, write something similar to the following:
-    * *"Submitting referral on behalf of `REFERRER_NAME`."*
-    * Please be sure to `@-mention` the requisition's *Recruiter*.
 1. Send a email to the referred candidate. Select `Email REFERRAL_NAME` in the right column and select the **Default Referral Confirmation Receipt** email template.
     * Make sure that the email is sent from the `no-reply@gitlab` alias.
     * Add the referring Team Member to the `CC` field.
