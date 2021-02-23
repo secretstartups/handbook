@@ -46,6 +46,8 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 ## People Experience Team Processes
 
+All queries will be attempted to be resolved within the specific time zones and relevant SLA's. If unforeseen circumstances prevents the People Experience Associates from completing a specific/urgent task, a message will be posted in the `#pea-team` Slack channel to handover any important tasks / messages to the next team member available. 
+
 ### Bi-Weekly Rotations 
 
 On a bi-weekly occurence, the People Experience Team will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). This rotation issue reflects what tasks the PEA's are accountable for and to be completed within the 2 weeks which lists how the tasks are shared amongst the team. The allocation tracker can be found in the [People Exp/Ops Tracker]. 
