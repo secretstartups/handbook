@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "E-group offsite"
+description: "The E-group offsite happens every quarter for four days after the Board of Directors meeting"
 ---
 
 ## On this page
