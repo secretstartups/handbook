@@ -166,7 +166,7 @@ Greenhouse has a variety of user-permissions for ensuring that team members have
 
 Below is a list of the various access levels, by team, and what they generally entail:
 
-- The **Recruiting Team** (*excluding* the Recruiting Program Analyst, Recruiting Lead(s), Recruiting Manager(s), and Sourcing Manager(s)) should be assigned `Job Admin: Recruiting` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer or Coordinator).
+- The **Recruiting Team** (*excluding* the Recruiting Program Analyst and Recruiting- and Sourcing Lead(s)/Manager(s) should be assigned `Job Admin: Recruiting` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer or Coordinator).
 - The **People Success Team** (*excluding* the CPO and Recruiting Team) should be assigned `Job Admin: People Success` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
 - All **Executives** (*excluding* the CEO and CPO) should be assigned `Job Admin: Job Approver` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. Such permissions allow them the same access as a Hiring Manager, plus the ability to approve new vacancies and offers.
 - All **Hiring Managers** (*excluding* Executives) should be assigned `Job Admin: Hiring Manager` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. However, there are a few exceptions:
@@ -176,7 +176,7 @@ Below is a list of the various access levels, by team, and what they generally e
         * In this scenario, they should be add as a Hiring Team member for that requisition only.
 - All **Executive Assistants** should be assigned `Job Admin: Scheduling` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
 - Any user that needs to access all vacancies and data, including diversity data, should be assigned `Site Admin` permissions.
-    * The current `Site Admins` include: the Recruiting Program Analyst, Recruiting Lead(s), Recruiting Manager(s), and Sourcing Manager(s).
+    * The current `Site Admins` include: the Recruiting Program Analyst,  Recruiting- and Sourcing Lead(s)/Manager(s).
         * Leads and Managers will use their `Site Admin` permissions in the following scenarios:
             1. Updating a requisition's Department.
             1. Updating a requisition's *Approval Chain*.
