@@ -22,10 +22,10 @@ If you're a GitLab team member looking for help with a security problem, please 
 
 - If you are on call, then you are expected to be available and ready to respond to PagerDuty pings as soon as possible, but certainly within any response times set by our [Service Level Agreements](/support/#priority-support) in the case of Customer Emergencies. This may require bringing a laptop and reliable internet connection with you if you have plans outside of your work space while being on call, as an example.
 - We take on-call seriously. There are escalation policies in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies are essentially expected to never be triggered, but they cover extreme and unforeseeable circumstances.
+- Because GitLab is an asynchronous workflow company, @mentions of On-Call individuals in slack will be treated like normal messages and no SLA for response will be attached or associated with them.
 - Provide support to the release managers in the release process.
 - As noted in the [main handbook](/handbook/paid-time-off), after being on-call take time off. Being available for issues and outages will wear you off even if you had no pages, and resting is critical for proper functioning. Just let your team know.
   - Specific to team members in Australia review the [Time in lieu policy here](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/)
-- More detailed descriptions can be found [here](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/lead-away.md).
 
 ## Customer Emergency On-Call Rotation
 
@@ -80,7 +80,7 @@ The Infrastructure department's Reliability Engineering teams provide 24x7 on-ca
 - The rotation is on a weekly basis separated out into 2 timezones APAC/EMEA and AMER and each timezone has a primary and secondary on-call DRI.
 - The primary DRI is responsible for reporting and resolving triage activities while the secondary DRI is involved to prepare for taking over as primary in the following week.
 - This on-call rotation is to ensure accurate and stable test pipeline results that directly affects our continuous release process.
-- The list of pipelines which are monitored are defined on our [pipeline](../engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) page. 
+- The list of pipelines which are monitored are defined on our [pipeline](../engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) page.
 - The schedule and roster is defined on our [schedule](../engineering/quality/guidelines/#schedule) page.
 
 ## PagerDuty
