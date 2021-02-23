@@ -76,7 +76,7 @@ All GitLab Team Members can submit a referral by either submitting them directly
 1. If you **don't** have their resume, please include a link to their LinkedIn profile.
 1. Ensure that the created issue is a [confidential issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html).
 
-To see what positions are available to submit an external candidate for please visit the [Careers at GitLab](https://about.gitlab.com/jobs/careers/).
+To see what positions are available to submit an external candidate for please visit the [Careers at GitLab](https://about.gitlab.com/jobs/careers/) page.
 
 **Things to note:**
 
