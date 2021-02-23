@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: CEO Shadow Program
+description: "At GitLab, being a CEO shadow is not a job title, but a temporary assignment to shadow the CEO"
 ---
 
 ## On this page
