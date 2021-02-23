@@ -67,6 +67,8 @@ Localized campaigns currently follow the the [integrated campaign process](/hand
 | Agile | Suri Patel |
 | Cloud Native | Chrissie Buchanan |
 
+After a content asset or webpage has been translated, be sure to add it to the [Localization Resources](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) spreadsheet. If edit access, isn't available, send the content addition to @bmatturro to update.
+
 ### Translated URL structure
 
 All translated pages live in a sub-folder dedicated to a specific language. These sub-folders use [ISO 639-1 codes] (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). For example, German pages live in the `/de/` sub-folder.
