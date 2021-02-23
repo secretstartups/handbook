@@ -13,7 +13,6 @@ overviews = Hash.new { |hash, key| hash[key] = Hash.new(&hash.default_proc) }
 # You must have the `overviews["xx.x"] = <<-xx_x` opening and `xx_x` closing line exactly or the notes
 # will not be picked up. The entire page might also fail to render properly.
 overviews["13.9"] = <<-13_9
-* Information goes here
 13_9
 
 # do not include or modify anything after this section
