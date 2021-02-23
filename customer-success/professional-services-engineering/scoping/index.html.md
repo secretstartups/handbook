@@ -40,19 +40,19 @@ Once its identified that the customer will likely want to engage with profession
 ## Scoping
 
 ### Gather Data
-After the [services calculator](https://services-calculator.gitlab.io/) is run by the Account Team, scoping issues are automatically created and land in the [PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues) Project. Using this customer scoping issue, the engagement manager gathers data asynchronously from the account team. Questions about the potential engagement can sometimes be answered by the Account Team from the discovery that was done already. We want to make sure we avoid asking duplicate questions to the customer. Once the initial data is gathered, the Engagement Manager meets with the account team and customer to discuss how PS could help ensure the Customer's goals are achieved with their investment in GitLab. This can and should be iterative. 
+After the [services calculator](https://services-calculator.gitlab.io/) is run by the Account Team, scoping issues are automatically created and land in the [PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues) Project. Using this customer scoping issue, the engagement manager gathers data asynchronously from the account team. Questions about the potential engagement can sometimes be answered by the Account Team from the discovery that was done already. We want to make sure we avoid asking duplicate questions to the customer. In some cases when the account team cannot provide the level of detail to create an egagement, the EM will meet with the Account team and Customer to ask additional discovery questions to get to a level of detail needed.
 
 ### Create Strawman
-The Engagement Manager uses the [straw-man spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](/handbook/customer-success/professional-services-engineering/framework) page.
+A "Straw-man" is a placeholder spreadsheet used for scoping services. The Engagement Manager uses the [straw-man spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](/handbook/customer-success/professional-services-engineering/framework) page.
 
 ### Iterate / Review Strawman
-TODO
+After the first iteration of building detail into the straw-man, the Engagement manager posts a request for review in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel to the Account team. Often the Engagement Manager will get on a zoom call with the customer and provide context and gather feedback from the customer. 
 
 ### Generate SOW
 Once the Engagement Manager can get buy in from the account team and/or customer on the size and activities included in the services engagement, the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) can be run using the straw-man as an input.  The engagement manager is responsible for running this automation which can be done by following the instructions on the readme in the above project.
 
 ### Iterate/Review SOW Data
-Once the SOw is generated, it is ready for review by and the account team.
+Once the SOW is generated, it is ready for review by the account team. Iteration can occur here but should be minimized if the proper iteration was done on the Straw-man Steps.
 
 ### SOW Review/Approval
 After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. These review processes happen in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) and **at-mention** the specific people from whom the engagemenet manger is seeking approval.
