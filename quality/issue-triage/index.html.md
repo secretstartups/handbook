@@ -130,6 +130,14 @@ The priority of an availability issue is tied to severity in the following manne
 
 The merge request (MR) experience is the core of our product. Due to many teams contributing to the MR UX, it has become a disjointed experience.
 
+As part of the analysis in the [Transient Bug working group](/company/team/structure/working-groups/transient-bugs/), we have discovered that the top most affected product areas are:
+1. `create::code review`
+1. `verify::continuous integration`
+1. `create::source code` (tied)
+1. `plan::project management` (tied)
+
+These product groups also have a high sensitivity to GMAU. This product groups will benefit from a heightened awareness on bugs overlapping with Merge Request functionality.
+
 #### Merge requests experience prioritization
 
 We need an elevated sense of action in this area. If a bug is related to the merge request experience, priority is tied to severity in the following manner:
