@@ -30,7 +30,17 @@ description: "Product category scorecards"
                         <% categoryRow << ( group.analyst_reports? ? "[Analyst Reports](#{group.analyst_reports})" : '' ) %>
                         <% categoryRow << ( group.comp_comparison? ? "[Competitive Comparison](#{group.comp_comparison})" : '' ) %>
                         <% categoryRow << ( category.maturity? ? category.maturity.capitalize : '' ) %>
-                        <% categoryRow << '' %>
+                        <% if category.maturity %>
+                            <% if category.maturity == "minimal" %>
+                                <% categoryRow << ( "Viable on #{category.viable}" + ( category.viable < Date.today ? " _(late)_" : '') ) if category.viable %>
+                            <% elsif category.maturity == "viable" %>
+                                <% categoryRow << ( "Complete on #{category.complete}" + ( category.complete < Date.today ? " _(late)_" : '') ) if category.complete %>
+                            <% elsif category.maturity == "complete" %>
+                                <% categoryRow << ( "Lovable on #{category.lovable}" + ( category.lovable < Date.today ? " _(late)_" : '') ) if category.lovable %>
+                            <% end %>
+                        <% else %>
+                            <% categoryRow << '' %>
+                        <% end %>
                         <% categoryRow << ( category.ux_scorecard_link? ? "[UX Scorecard" + ( category.ux_scorecard_score? ? ": #{category.ux_scorecard_score}" : '' ) + "](#{category.ux_scorecard_link})" : '' ) %>
                         <% categoryRow << ( category.label? ? "[Usability Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=usability&label_name[]=#{category.label})" : '' ) %>
                         <% categoryRow << ( category.dogfooding_issue? ? "[Dogfooding" + ( category.dogfooding_status? ? ": #{category.dogfooding_status.capitalize}" : '') + "](#{category.dogfooding_issue})" : '') %>
@@ -40,7 +50,7 @@ description: "Product category scorecards"
                         <% categoryRow << '' %>
                         <% categoryRow << ( category.label? ? "[Top Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=customer&label_name[]=#{category.label})" : '' ) %>
                         <% categoryRow << ( category.documentation? ? "[Documentation](#{category.documentation})" : '' )%>
-                        <%= "| " + categoryRow.join(' | ') + " |" %>
+<%= "| " + categoryRow.join(' | ') + " |" %>
                 <% end %>
             <% end %>
         <% end %>
