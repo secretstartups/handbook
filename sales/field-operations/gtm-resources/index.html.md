@@ -213,8 +213,8 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
    1. **Government Holding Entity - Child Accounts:**
       1. **AMER:** [Gitlab Public Sector Rules of Engagement Handbook Page](https://about.gitlab.com/handbook/sales/public-sector/)
       1. **Rest of World:** 
-        1. For all non-US government accounts: Government and government-owned entities for any country with a population of less than 20 million people, even if they are greater than 2,000 employees, are owned by the Commercial segment. The exceptions to that rule are New Zealand & Singapore.
-        1. All other non-US Pub Sec accounts (the accounts that are in countries with 20 million+ population), top to bottom (meaning, no minimum employee count) are Enterprise accounts.
+        1. For all non-US government accounts: Government and 100% government-owned entities for any country with a population of less than 20 million people, even if they are greater than 2,000 employees, are owned by the Commercial segment. The exceptions to that rule are New Zealand & Singapore.
+        1. All other non-US government accounts (the accounts that are in countries with 20 million+ population), top to bottom (meaning, no minimum employee count) are Enterprise accounts.
         1. Segmentation is determined at the start of the fiscal year and [segmentation per country attributed](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/government-segmentation/).
       1. **Franchises or Consultants  - Child Accounts:** Accounts that are categorized as an independent Franchise or Consultant are considered standalone Accounts.  As such, they will not be parented and the corresponding number of employees will not count towards the HQ Total Employee Count.
 1. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change will be reviewed annually as this impacts TAM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters.
