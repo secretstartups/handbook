@@ -33,6 +33,7 @@ It helps to consider these states using the following 2x2 table:
 
     <% stage.groups.each do |groupKey, group| %>
 
+<%= "<a class=\"scroll-anchor\" id=\"#{group.name}\"></a>" %>
 #### <%= group.name %>
 
 <%= works_by_default_table(group: groupKey) %>
