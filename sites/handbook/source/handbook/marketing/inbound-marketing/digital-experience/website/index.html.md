@@ -589,7 +589,7 @@ Copy and paste this template:
 
 ### Creating a DevOps tools comparison page
 
-The [`/devops-tools`](/devops-tools) section of the website shows info about DevOps tools and a feature comparison of those tools to Gitlab. Comparison pages are auto-generated from `features.yml`. All you need to do is add a tool to the `devops_tools` section and add that tool id to some features and the page will be created.
+The [`/devops-tools`](/devops-tools/) section of the website shows info about DevOps tools and a feature comparison of those tools to Gitlab. Comparison pages are auto-generated from `features.yml`. All you need to do is add a tool to the `devops_tools` section and add that tool id to some features and the page will be created.
 
 To add a new comparison page:
 1. Edit [`features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml)
@@ -730,6 +730,17 @@ The [`/resources`](/resources/) section of the website contains downloadable fil
 5. **Selecting a type**: All resource types are listed in the code snippet above; select one that best fits your content. If the resource does not fit the current types, please see [Requesting Website Updates](#requesting-website-updates) to submit a proposal for new resource type(s).
 
 6. **Selecting topics & solutions**: The code snippet above provides all of the current topics and solutions; chose the topics and solutions that best apply to the content. Please note they are case sensitive and incorrect casing or spelling will result in the generation of new, unwanted, topics and/or solutions.
+
+### Netlify CMS 
+
+The Digital Experience team is [incrementally adopting Netlify CMS](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/220) for the marketing website. It offers a more user-friendly way of editing the marketing site, but comes with some limitations:
+
+- It is only available to GitLab team members with direct access to this repository (community members who are working off forked repositories cannot yet access it).
+- It is not yet available for all content in the marketing site.
+- It does not have fields for all types of content yet.
+- There are remaining implementation bugs and errors. 
+
+Read the [Netlify CMS handbook page](/handbook/marketing/netlifycms/) for up to date directions and status of the system. 
 
 ## Creating and publishing your GitLab README
 
@@ -880,6 +891,16 @@ On the about.gitlab.com website we have approval to use the customer logos lisit
   * Plan for the preexisting content to cover that time range.
 * Please ensure requested times are during normal business hours for the person making the changes.
   * If any changes are requested outside of their normal business hours, please ask before hand if that is possible or if someone else who is available can work on it to ensure that it releases in a timely fashion.
+
+</details>
+
+<details markdown="1">
+
+<summary>How do I fix a stuck merge train?</summary>
+
+### How do I fix a stuck merge train?
+
+Sometimes a merge train will get stuck in our [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) repo pipelines. Please see this related issue for [instructions on how to recover a stuck merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/217908#when-the-merge-train-in-the-www-gitlab-com-project-might-be-stuck).
 
 </details>
 

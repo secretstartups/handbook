@@ -15,8 +15,6 @@ twitter_creator: '@gitlab'
 # Inbound Marketing Overview
 {:.no_toc}
 
-##
-
 ## Goals
 
 Build value at the top of the marketing funnel, through organic human interactions that establish trust with potential GitLab customers.
@@ -30,7 +28,7 @@ Generate organic traffic and inquiries, in support of growing GitLab's sales pip
 #### Targets
 
 | Fiscal Quarter | Inquiries | Epic |
-| -------------- | ----- | ---- |
+| -------------- | --------- | ---- |
 | Q1FY22 | 33,400 | https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/267 |
 | Q2FY22 | TBD |  |
 | Q3FY22 | TBD |  |
@@ -61,7 +59,8 @@ Inbound Marketing is responsible for:
 
 ### Deliverables
 
-[Q1FY22 OKRs](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/227)
+- [Q1FY22 OKRs](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/227)
+- [CANDIDATES Q2FY22](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/226)
 
 ## Teams
 
@@ -163,11 +162,11 @@ The brand and design team is now the Brand Activation team under Corporate Marke
 - [Requesting a new video](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=new-video-request)
     - Use this template only for requesting new videos that haven't been produced yet
     - If you are looking for edits to existing content that has been filmed, use the [video editing request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request)
-    - Process documetation link placeholder
+    - Process documentation link placeholder
 - [Requesting a video edit](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request)
     - Use this template for editing existing content that has been filmed
     - DO NOT use this template for new videos
-    - Process documetation link placeholder
+    - Process documentation link placeholder
 - [Requesting a video upload](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=upload-request)
     - Process documetation link placeholder
 
@@ -203,13 +202,16 @@ Overarching Inbound Marketing Boards
 
 - **GOAL:** An overview of the work on each of the Inbound Marketing Teams during the current Milestone Sprint
 - **ACTIONS:**
-    - Review and help prioritze
+    - Review and help prioritize
 
 ## Labels
+
+Labels are important because they help populate the boards and make them work. The minimum viable usage is using `mktg-inbound` and using a  scoped `mktg-status` label as shown below.
 
 Meanings and usage
 
 #### Team Labels
+
 - `mktg-inbound`
     - Means it is for the Inbound Marketing Team
     - Used to help pull in boards
@@ -221,15 +223,25 @@ Meanings and usage
             - The sub-teams within Inbound Marketing Teams
             - Is not a label to denote the status of an issue
 
-#### Status Labels            
+#### Status Labels
+
 - `mktg-status::triage`
+    - Triage is for requests that come from **outside Inbound Marketing**
     - Is used to denote the status of an issue as being reviewed to go into the working pipeline
     - Does not denote the timeline it will be worked on
-- `mktg-status::WIP`
-   - Is used to donate that an issue has been assigned to a sprint and assignee and will be worked on
-- `mktg-status::plan` 
-    - Is used to denote the status of an issue as having been reviewed for all details needed and will go into the working pipeline
+- `mktg-status::plan`
+    - Is used to denote the status of an issue as having being reviewed for all details needed 
+    - No milestone nor assignee attached to the issue
     - Does not denote the timeline it will be worked on
+- `mktg-status::WIP`
+    - Is used to donate that an issue has been assigned to a sprint and assignee and will be worked on
+        - Minimum Viable Usage includes using the following:
+            - Milestone `Fri: MONTH DAY`
+            - Weight
+                - A weight of one is *half a day*
+                - As weights start to get bigger than 4,  we recommend chunking it down further
+            - One Asignee
+                - We actively encourage only assigning one person to an issue. You may tag other affected parties within the issue itself by using @username within the issue thread. 
 - `mktg-status::blocked`
     - Is used to denote the status of an issue as not having enough information to proceed
     - Does not denote the timeline it will be worked on
@@ -240,13 +252,17 @@ Meanings and usage
     - Does not denote the timeline it will be worked on
 
 #### Distribution Channel Labels
-These labels are to distinguish which distribution channel these issues are realted to 
+
+These labels are to distinguish which distribution channel these issues are realted to
+
 - `blog`, `about.gitlab.com`
 
 #### Projects
-- `mktg-website::design-system
+
+- `mktg-website::design-system` Used to denote work for [Slippers Design System](https://gitlab.com/gitlab-com/marketing/inbound-marketing/slippers-ui) managed by the [Digital Experience team](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/)
 
 #### Additional Labels
+
 - `IM-Support`
     - Denotes if this is support provided to another team outside of Inbound Marketing
     - Will be used to help quickly view how many issues Inbound Marketing supported each year to provide as references for budget and resources requests.
@@ -254,9 +270,6 @@ These labels are to distinguish which distribution channel these issues are real
     - Will be reviewed by InboundMarketing for potential future strategy
 - `IB-WEBAGENCY`
     - For the Digital Experience team to support at their 20% time allotment for internal agency work.
-
-
-
 
 ## Milestones
 
@@ -282,6 +295,7 @@ keep a SSoT and avoid duplicative placement of information that would need to be
 
 - **Top Level Epic**
     - Quarterly OKRs
+        - [OKR structure iteration](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/914)
     - Links to the yearly strategy that contains themes
 - **Second Tier Epic**
     - Stores the team or channel strategy/improvements broken into phases
@@ -436,6 +450,12 @@ In an effort to make async communication and collaboration as effective as possi
 - Marketing Metrics
 - [Digital Experience Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba)
 - [Global Content Updates](https://www.youtube.com/playlist?list=PL05JrBw4t0KrzoCLxdlF5eJjh0JDgn4Qs)
+
+# Budget
+
+## Budget Management
+
+- Allocadia is our SSoT for the budget
 
 # Vendor Management
 
