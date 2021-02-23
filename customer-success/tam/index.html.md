@@ -137,7 +137,7 @@ The following articulates where collaboration and customer management is owned:
 
 ### Tracking oportunities for your assigned SALs
 
-We all want to make sure our opportunities are tagged correctly so we get compensated. [this SFDC report](https://gitlab.my.salesforce.com/00O4M000004agfP) that shows all of the opportunities for your SALs and what their order type is. We want to make sure the order type is Growth or New-Connected .
+To ensure that opportunities are listed with the correct Order Type, [this Salesforce report](https://gitlab.my.salesforce.com/00O4M000004agfP) shows you all of the opportunities that have closed, or are soon to close, with your SALs. Tracking Order Type is important since TAM team quota and compensation depend on this. Please reference the latest [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) information to know what is counted.
 
 Next steps for you:
 
