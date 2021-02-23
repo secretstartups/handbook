@@ -426,6 +426,7 @@ The `Field Marketing Manager` field on the account is maintained by Sales Operat
 1. Named and PubSec are dataloaded manually on a monthly cadence. PubSec mapping is maintained in the Master Territory List Public Sector Account Coverage file.  Named mapping is maintained in [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293)in the Named Reps tab. 
 
 </details>
+</details>
 
 ## **Sales Operations Sponsored Dashboards and Maintenance**
 
