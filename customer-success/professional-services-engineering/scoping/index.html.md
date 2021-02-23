@@ -69,7 +69,11 @@ Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Onl
 TODO: 
 
 ## Delivery Handoff
-Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) services methodology to see how the pre-sales handoff is facilitated via GitLab issues, Salesforce Objects and handoff meetings. Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed. 
+ Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed.
+
+Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) methodology to understand the details around pre-sales handoff to the deliver team.
+
+![](../PS-delivery-workflow.png)
 
 <!--This page provides scoping questions designed to collect details and uncover the customer's required capabilities. This ensures alignment of the SOW and PS delivery with the positive business outcomes the customer is looking for.  While not an exhaustive list, these questions and suggestions will help spark the discovery conversations.
 
