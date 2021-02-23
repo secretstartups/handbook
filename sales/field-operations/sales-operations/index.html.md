@@ -415,6 +415,8 @@ Click the “Related Chatter Object” link to view the original request.
  
 
 </details>
+</details>
+
 
 <details>
 <summary markdown='span'> `Field Marketing Manager` Field Update Process Operator's Guide
