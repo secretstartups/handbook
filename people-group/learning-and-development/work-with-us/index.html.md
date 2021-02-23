@@ -66,51 +66,27 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 | Launch your course | approx. **5 weeks** after opening the `new_pathway` issue with the L&D team |
 
 
-### Uploading to GitLab Learn
-
-
-#### Add existing content to GitLab Learn
-
-**Follow this process if you already have learning content created, but want to add it to GitLab Learn.**
-
-1. Confirm content is handbook first and make updates if it's not
-1. Take Learning Evangeslist training
-
-##### Timeline and expectations
-
-
-#### Add new content to GitLab Learn
-
-**Follow this process if you have just created new learning content and want to add it to GitLab Learn.**
-
-##### Timeline and expectations
-
-
 
 
 ### Integrating external content to GitLab Learn
 
-Open new issue on L&D board:
-
-- Include following information
-    - Scorm files or API?
-    - Company name
-    - Security review?
-    - Description of courses
-    - Reasoning for using the LXP
-    - Plan for record keeping and maintenance (DRI for the platform)
+The process for integrating external content to GitLab Learn is being built.
 
 #### Timeline and expectations
-
 
 
 
 ### Requesting content review
 
+The process for L&D content review is being built.
+
 #### Timeline and expectations
 
 
-### Requesting new content creation
+### Requesting new content creation or L&D support
+
+The process for requesting content from L&D is being built.
+
 #### Timeline and expectations
 
 
