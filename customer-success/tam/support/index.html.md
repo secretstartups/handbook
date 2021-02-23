@@ -19,20 +19,22 @@ Define the process for how the TAM interacts with the systems and processes desi
 
 ## Establishing Customers in Support Systems
 
-During the onboarding process, the TAM will ensure that customers are correctly established in the support system.  GitLab manages support requests through a system called [Zendesk](/handbook/support/workflows/zendesk-instances.htmll).   GitLab has [integrated the GitLab instance of Salesforce with Zendesk](/handbook/support/workflows/zendesk_organizations_and_users_overview.html) to facilitate the establishment of users in Zendesk.  The integration synchronizes account-level data so that the Zendesk ticket has accurate information on the customers’ purchase of products that include support.
+During the onboarding process, the TAM will ensure that customers are correctly established in the support system. GitLab manages support requests through a system called [Zendesk](/handbook/support/workflows/zendesk-instances.htmll). GitLab has [integrated the GitLab instance of Salesforce with Zendesk](/handbook/support/workflows/zendesk_organizations_and_users_overview.html) to facilitate the establishment of users in Zendesk. The integration synchronizes account-level data so that the Zendesk ticket has accurate information on the customers’ purchase of products that include support.
 
-Though automation exists, the TAM must still ensure customers take additional steps to fully establish their personnel in Zendesk.   Specifically, the TAM must work with the customer to establish specific Zendesk users under the Zendesk Account so that tickets submitted by the customer’s personnel are guided by the GitLab support team’s [Service Level Agreements.](/support/#gitlab-support-service-levels) 
+Though automation exists, the TAM must still ensure customers take additional steps to fully establish their personnel in Zendesk. Specifically, the TAM must work with the customer to establish specific Zendesk users under the Zendesk Account so that tickets submitted by the customer’s personnel are guided by the GitLab support team’s [Service Level Agreements (SLAs)](/support/#gitlab-support-service-levels).
 
-### Steps to add users as above:
-1. TAM collects a list of names and email addresses for people who should have SLA-driven access to GitLab support. 
-1. TAM adds these contacts as Contacts on the Account record in the GitLab Salesforce CRM. 
-1. TAM advises the Customer to have those people register in the support system by navigating to support.gitlab.com and following the instructions on the Sign In pop-up. The self-registration process will then match on email address and ensure that tickets submitted by those users are assigned the customer’s support SLA.  
+To add important static notes that will appear on each new ticket to help the support team with context, review the [support handbook](/handbook/support/internal-support/#i-want-to-add-important-information-about-the-organizationuser) to request this be attached to the customer's Zendesk organization.
+
+### Steps for the TAM to take to add support users:
+1. Collect a list of names and email addresses for people who should have SLA-driven access to GitLab support. 
+1. Add these contacts as a "Contact" on the account in Salesforce.
+1. Advise the customer to have those people [create an account on the support portal](https://about.gitlab.com/support/#first-time-reaching-support).
 
 Users who aren't associated with their organization will be asked to [prove their support entitlement](/support/#proving-your-support-entitlement) which can introduce some delays in resolution.
 
 ## Support Ticket Best Practice
 
-GitLab offers [a variety of support options](/support/) for all customers and users on both paid and free tiers. The TAM should continually review customer tickets and then  educate customers on support best practices.  IN particular, the TAM should ensure that customers are submitting tickets that meet best practice.  For customers on Standard and Priority support tiers please address the below items when [submitting a support ticket](https://support.gitlab.com/hc/en-us):
+GitLab offers [a variety of support options](/support/) for all customers and users on both paid and free tiers. The TAM should continually review customer tickets and then educate customers on support best practices. In particular, the TAM should ensure that customers are submitting tickets that meet best practices. Please address the below items with customers for when they [open a support ticket](https://support.gitlab.com/hc/en-us):
 
 1. Provide as much detail as possible during the first submission of the ticket
 1. Summary of issue (when did it start, how frequently, impact on organization, etc.)
@@ -41,8 +43,8 @@ GitLab offers [a variety of support options](/support/) for all customers and us
    - Expected behavior
    - Any recent changes to Gitlab, its components, dependencies, or the services it's hosted on?
    - Attach logs and screenshots (avoid attaching .doc or .pdf files)
-1. If you prefer Support to only answer during your business hours, choose your region; otherwise choose "All regions" to get the standard SLAs. See our [guidelines](https://about.gitlab.com/support/#effect-on-support-hours-if-a-preferred-region-for-support-is-chosen) for more information.
-1. Try and avoid requesting a call during the initial ticket submission. We would like to keep all communication within the ticket and attempt to resolve the issue here before going to a call.
+1. If you prefer Support to only answer during your business hours, choose your region; please note if you select a region, the SLA will only be within those business hours. Otherwise, choose "All regions" to get the standard SLAs and responses from our global support team. See our [guidelines](https://about.gitlab.com/support/#effect-on-support-hours-if-a-preferred-region-for-support-is-chosen) for more information.
+1. Try and avoid requesting a call during the initial ticket submission. We would like to keep all communication within the ticket and attempt to resolve the issue there before going to a call.
 1. If a call is necessary, the support engineer will invite your team to a call via the ticket.
 1. If a support engineer requests follow up items, please make sure to respond back with these items. This will help us resolve the issue as quickly as possible.
 
