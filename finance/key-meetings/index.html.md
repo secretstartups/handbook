@@ -28,8 +28,10 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 ## Timing
 Meetings are scheduled monthly starting on the 10th day after month end.  
 
-##Scheduling
+## Scheduling
 The EBA to the CFO is the scheduling DRI for the Monthly Key Meetings, with the exception of the Sales Key Meeting, the EBA to the CRO is the DRI for the Sales Key Meeting.
+
+All changes to the Key Meeting schedule and/or invites have to be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 
 ## Invitees
 
@@ -42,10 +44,10 @@ Functions that have these meetings are:
 
 *  Engineering (Eric Johnson - function DRI) - does not include Support or Infrastructure
 *  Finance (Brian Robins - function DRI)
-*  Infrastructure (Steve Lloyd - function DRI)
+*  Infrastructure (Steve Loyd - function DRI)
 *  Legal (Robin Schulman - function DRI)
 *  Marketing (Todd Barr - function DRI)
-*  People Group (Carol Teskey - function DRI)
+*  People Group (Wendy Barnes - function DRI)
 *  Product (Scott Williamson - function DRI)
 *  Sales (Michael McBride - function DRI)
 *  Support (Tom Cooney - function DRI)
