@@ -125,6 +125,15 @@ of the `employment` project. These tasks files are of the format
 `department_<department name>.md`, etc. If such a file is found, it includes
 contents of those files also in the offboarding issue.
 
+#### Offboarding Merge Request
+The `offboarding` command will also create a merge request to the `www-gitlab-com` project. This MR
+will:
+- remove the individual file from the `data/team_members/person` directory
+- remove the picture used in the previous file
+- adjust the `reports_to` in case the offboarded team member had reports
+- remove the pet picture in case the team member had any 
+- update the CODEOWNERS file: change to the manager or remove if the manager is already a codeowner for that file
+
 #### Offboarding Issue commenting
 
 When a team member is offboarded, there's a redirect rule that is setup on Google Workspace for

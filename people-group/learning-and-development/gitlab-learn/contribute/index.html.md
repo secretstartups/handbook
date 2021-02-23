@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Contribute to GitLab Learn
+description: "Learn how team members and our wider community can contribute learning content to the Learning Experience Platform (LXP)."
 ---
 
 ## On this page

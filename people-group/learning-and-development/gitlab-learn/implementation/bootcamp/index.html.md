@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Learning & Development
+title: EdCast LXP Bootcamp
 ---
 
 ## On this page

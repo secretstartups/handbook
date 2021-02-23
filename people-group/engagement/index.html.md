@@ -42,7 +42,12 @@ The survey factors for FY19 through FY21 were as follows with each section inclu
 #### Taking Action
 Once the GitLab Team Member Engagement Survey has been closed out, reports will be dissementated to the E-Group and Divisional Heads for review i.e. only those with team populations >5.  These will form the basis of discussion when collaboratively compiling the people strategy for year ahead in conjunction with additional data such as attrition reports etc.
 
-Each E-Group member will in collaboration with their repesctive People Business Partner (PBP) identify one or two acton items to initiate coming out of the results review - these will be tracked and managed within CultureAmp moving forward using the [Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework).
+##### Timeline for Action Planning
+
+* Each E-Group member will in collaboration with their respective People Business Partner (PBP) to identify one or two acton items to initiate coming out of the results review - these will be tracked and managed within CultureAmp moving forward using the [Action Framework](https://academy.cultureamp.com/hc/en-us/articles/115005387945-Take-action-with-action-framework).
+* After action items have been identified at the E-Group level, all managers who recieved an engagement survey result report (AKA: managers with 5+ direct reports who responded to the survey) will also be asked to create an action plan in Culture Amp.  
+* A manager may choose to align their action planning to their leader or division or they may choose to add a specific and separate action for their team. This will likely depend on the size/structure of the organization. 
+* The due date to have actions in CultureAmp is **February 26, 2021**.
 
 The People Operations Team who facilitate the GitLab Team Member Engagement Survey have compiled a detailed video around the survey results, how to view divisional results directly within Culture Amp and objectively identifying impactful action items from the feedback received:
 
@@ -68,7 +73,7 @@ Bar those who joined on or after 2020-11-01 the survey was extended to all GitLa
 - 2021-01-08 E-Group Summary Release
 - 2021-01-12 Training Video and Handbook Update
 - 2021-01-15 to 2021-01-31 Functional Group Action Planning re Focus Areas
-- 2021-02-26 Functional Action Plans added to FY21 Q1 OKRs and CultureAmp Action Planning Module
+- 2021-02-26 Functional Action Plans added to FY21 Q1 OKRs and CultureAmp Action Planning Module added by E-Group leader and managers
 
 
 #### Benchmarking and Reporting

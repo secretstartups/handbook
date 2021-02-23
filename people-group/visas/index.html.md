@@ -120,3 +120,5 @@ The steps our People Operations Specialist team uses to support relocation to th
 6. The People Operations Specialist team will need to review if the position is in development or research, it likely qualifies for [WBSO (R&D tax credit)](/handbook/people-group/#wbso-rd-tax-credit-in-the-netherlands); add to the WBSO hour tracker and inform our WBSO consultant. If you have any questions, feel free to ping our People Business Partner that is currently located in the Netherlands or our Director of Tax, also located in the Netherlands that can help evaluate eligibility.
 7. Once the approved Visa and 30% ruling is received by the team member, the team members should email this to PeopleOps for filing in BambooHR.
 8. The People Operations team should also notify the Total Rewards and Payroll team regarding the completion of the relocation.
+
+Important:  If the team member has been with GitLab for two or more years at the time they are asking to relocate to the Netherlands, the team member should be issued with an indefinite contract 

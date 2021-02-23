@@ -121,6 +121,8 @@ Once the desired epic has been selected, it will be shown on the issue like this
 
 ### Quiz - Lesson 1: Epics
 
+If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+
 To move on to the next lesson, take and pass the [GitLab 201: epics quiz](https://docs.google.com/forms/d/e/1FAIpQLSev9PA7WGLHwtlF3Uo3XhhcW_GIrNnJN1dShQYv4tGqvDMcow/viewform).
 
 ## Lesson 2: Merge Requests
@@ -187,6 +189,8 @@ Save changes, and assign the merge request to the DRI of the page.
 
 ### Quiz - Lesson 2: Merge Requests 
 
+If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+
 To move on to the next lesson, take and pass the [GitLab 201: merge requests quiz](https://docs.google.com/forms/d/e/1FAIpQLSfJYcLiYIp4iN7jPiTN2_CQbVdtVVCPx4Y1BzMVv9wffk7OCw/viewform).
 
 ## Lesson 3: How to create a new handbook page
@@ -239,6 +243,8 @@ description: "[insert a short sentence to appear as part of search results]"
 1. If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](/handbook/people-group/) page is a good example. Click `view source` to see how the table looks. You may copy/paste, then edit to suit your needs.
 
 ### Quiz - Lesson 3: How to create a new handbook page 
+
+If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
 
 Take and pass the [GitLab 201: How to create a new handbook page quiz](https://docs.google.com/forms/d/e/1FAIpQLSfhBE-121_41DXdXbn8qtSPqBhiQvnsupFwLAifEj58pGTHvw/viewform). 
 

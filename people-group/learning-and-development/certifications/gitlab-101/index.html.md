@@ -105,6 +105,8 @@ To use the flashcards, click on the link above. You can review the flashcards in
 
 ### Quiz - Lesson 1: Technical Terminology
 
+If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+
 To move on to the next Lesson, take and pass the [GitLab 101: Technical Terminology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3G3QJJRa1XvKbUNXhJENSxoWd5907CpP4-jhvvyRcvZzwRA/viewform).
 
 ## Lesson 2: GitLab Issues
@@ -135,8 +137,10 @@ To open a GitLab issue:
 
 #### Video: How to open a GitLab Issue (~8 minutes)
 
+
+
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/iGNVJ3D0XnI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/484212044" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### How to move a GitLab Issue
@@ -155,7 +159,7 @@ To move a GitLab issue:
 #### Video: How to move a GitLab Issue (~2 minutes)
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/nQ4llM12GP8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/491217472" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### How to comment on a GitLab Issue
@@ -184,7 +188,7 @@ This [resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on sea
 #### Video: How to search for a GitLab Issue (~4 minutes)
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/3Zpcg5MFaaw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/491221700" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### GitLab Issue Labels and Issue Boards
@@ -196,13 +200,15 @@ Each GitLab Project has an Issue Board. These can be set up similar to how a kan
 #### Video: GitLab Issue Labels and Issue Boards (~4 minutes)
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/vjccjHI7aGI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/491218462" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### Other Helpful Tips for Issues
    1. Marking issues as "Confidential" - This means everyone at GitLab still has access to see the issue. People outside of GitLab would not have access to view the issue, though.
 
 ### Quiz - Lesson 2: GitLab Issues
+
+If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
 
 To move on to the next Lesson, take and pass the [GitLab 101: Issues Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeR1zOvGKrDWD1t52DNv3DdNeLblI2nPP0dm-PKD8TkNUfB7Q/viewform).
 
@@ -249,6 +255,8 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
    1. Delete Branch -
 
 ### Quiz - Lesson 3: GitLab Merge Requests
+
+If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
 
 Take and pass the [GitLab 101: Merge Requests Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzwgutFZegAESbgsiObhb6N8rqn4NNlWDbxACK7khh3p5hJA/viewform).
 

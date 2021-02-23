@@ -11,9 +11,9 @@ description: "Information on automations related to syncing to our team page, mo
 {:toc}
 
 ## Sync to Team Page
-
-Since 2020-05-25 every day at 09AM UTC, we have a pipeline running that syncs the team members who started
-the day before to the team.yml file.
+### New team members
+Since 2020-05-25 every day at 09AM UTC, we have a pipeline running that syncs our new team members to the `www-gitlab-com`
+project, so that they show up on the team page. 
 
 We fetch all the new team members with a start date of the previous day and check if they opted-in on
 being synced to the team page. Opt-in happens by setting `Export Name/Location to Team Page?` to `Yes`
@@ -21,11 +21,20 @@ on their BambooHR profile. This is a task on day one for the new team member.
 
 If they selected yes, we grab some data (name, job title, start date, department and country) and format it,
 so it can be added to the team page entry. If they did not opt-in, we still add an entry to the team page.
-However that entry is anonymized.
+However that entry is anonymized. For every new team member, we commit a new file in the `data/team_members` directory.
 
 We then create a merge request on `www-gitlab-com` project so it can be merged. The merge is not automatically set.
 Considering this is a new sync we've added to the automation process we want to check the MRs before setting them to merge.
 The merge request is assigned to the People Experience Team and they set it to merge when the pipeline succeeds.
+
+### Offboarded team members
+Read more about that [here](https://about.gitlab.com/handbook/people-group/engineering/employment-issues/#offboarding-merge-request)
+
+### Specialty field
+Once/day we run a pipeline that syncs the specialty field for team members within the Engineering and Product division. This 
+means that if team members edit that field in the file, this will result in the sync overwriting when it runs again. The reason
+for this is that we consider BambooHR as the single source of truth for this data. Thus team members and managers will need to 
+make adjustments in BambooHR first and this will be automatically propagated in the team page entry. 
 
 ## Team members to Modern Health
 

@@ -518,11 +518,11 @@ Admin processing for moderating content will be outlined in future iterations.
 
 ### Creating a badge
 
-Badges are used in the EdCast platform to award learners who have finished a Pathway or Journey. Badges can be shared in the EdCast platform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
+Badges are used in the EdCast platform to award learners who have finished a Pathway or Journey. Badges can be shared in the EdCast platform and externally on learner's LinkedIn profiles. Use the GitLab [requesting design help process](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help) to request a new badge.
 
 #### Adding a badge to EdCast
 
-1. If necessary, collaborate with the brand team to [create a new badge](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help). Otherwise, locate the existing badge file
+1. If necessary, collaborate with the brand team to [create a new badge](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help). Otherwise, locate the existing badge file
 1. Email EdCast account rep with the request to upload the file to the platform
 1. Navigate to the pathway or journey you'd like to add the badge to. In the `create` or `edit` tab, navigate to the `badge` setting
 1. Mark the check box to indicate that `Upon completing this pathway/journey, assignee will get a badge`
@@ -539,4 +539,263 @@ Admin process for reporting from EdGraph is coming soon.
 
 
 
+## Support
+
+This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
+
+Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
+
+```mermaid
+graph TD
+    A[User Question] --> B[Determine user audience]
+    B -->|Team Member| D[Support via Slack from L&D]
+    B -->|Customer| E[Support via ticket from PS team]
+    B -->|Community Member| F[Support via ticket from [team to address TBD]
+```
+
+### Slack support for team members
+
+#### Slack workflow
+
+GitLab team members are directed to seek support for the GitLab Learn platform in the #learninganddevelopment Slack channel. From this channel, the Learning and Development team will answer questions and support with platform issues. The L&D team monitors the #learninganddevelopment Slack thread daily. If questions are posed that L&D cannot solve, they will engage EdCast for further support via email.
+
+Field sales team members might naturally reach out to exising channels of support from the Field Enabement team for their specific content. If Field Enablement questions are posted in the Learning and Development Slack channel, the team will route inquiries to the correct team member.
+
+This chart outlines common questions and triage actions taken by the L&D team:
+
+| Question Topic | Triage |
+| ----- | ----- |
+| Platform Permissions or Functionality | Check admin panel and engage EdCast when necessary |
+| Learning Content | Support 1:1 in Slack |
+| Content contribution process | Direct to Learning Evangelist Pathway |
+| Field Enablement or Professional Services content | Tag FE and PS DRIs |
+
+
+### Zendesk support for customers and community members
+
+This workflow is currently being designed [in this issue](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/issues/23#note_494338293).
+
+#### Professional Services support workflow (Paid Users)
+
+The workflow for customers using the LXP will be determined by the Professional Services team.
+
+#### Community support workflow (Free Users)
+
+The workflow for community members using the LXP has not yet been outlined.
+
+
+### Email and macro templates
+
+#### EdCast notification emails
+
+EdCast sends notification emails on a cadence editable by the user. These emails reveal a support email address in the footer of the email. To avoid confusion, the following workflow has been put in place:
+
+1. The support email for the plaform has been set the `gitlablearn@gitlab.com`. This is a Google Group managed by the L&D team.
+1. This Google Group email address will not be monitored by the L&D team and is only meant to route users to the correct space for support.
+1. Any emails sent to this email address will receive the following auto-responded message:
+
+```
+Thanks for using GitLab Learn and for reaching out to our team!
+
+In order to get your support question to the right team, please follow the instructions below:
+Before reaching out for additional support, please review our [GitLab Learn User Documentation](/handbook/people-group/learning-and-development/gitlab-learn/user/)
+
+1. If you are a GitLab team member, please post your question in the #learninganddevelopment Slack channel for support from our Learning and Development team.
+
+2. If you are a GitLab customer or community member, please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759)
+
+Thanks again for reaching out. Please do not respond to this email, as this inbox is not regularly monitored.
+
+Sincerely,
+
+The GitLab Learning and Development Team`
+```
+
+***Important note for users***: If you are reading this documentation, please do ***not*** email `gitlablearn@gitlab.com` for support. This email inbox is not monitored. Instead, please visit the [user documentation and check the correct support workflow]((/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
+
+
+#### Zendesk macro for free users
+
+```
+Hello,
+
+Thanks for contacting GitLab Support with your questions about the GitLab Learn platform.
+
+Please note, you have opened this ticket through our paid support channel and we were unable to automatically determine your GitLab.com subscription. If you do not have a subscription, or you are on a trial, be aware that only **community support** is included; consider searching for and posting your question in our [community forum](https://forum.gitlab.com/) if you haven't already.
+
+If you're looking for support regarding a frequently asked question, please take a moment to review our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/).
+
+The Learning and Development team will address community member support questions as capacity allows.
+
+For additional information on our support policies and the community-driven support resources available to you, please see our [statement of support](https://about.gitlab.com/support/statement-of-support.html#free-plan-users).
+
+
+If you believe that you received this response in error and already have a GitLab.com subscription, please reply with the organization or subscriber name and the email address the subscription was purchased under.
+
+Sincerely, 
+
+The GitLab Learning and Development Team
+```
+
+### Admin Support
+
+This section outlines workflows and processes that the GitLab Learn admin can use to obtain support from EdCast.
+
+#### Temporary Slack support
+
+During the implementation phase, the team can access support from EdCast via the #edcast-support Slack channel. Please review the temporary process for engaging EdCast with supported related questions [on the EdCast implementation handbook page](/handbook/people-group/learning-and-development/gitlab-learn/implementation/#temporary-support-from-edcast-using-slack)
+
+
+#### Submitting a feature request to EdCast
+
+To make a feature request to the EdCast product, email the EdCast team along with `support@edcast.com` with the following information:
+
+```
+1. Indicate the Enhancement Request Subject Area:
+
+- Admin Functionality 
+- SmartCards / Journeys / Pathways 
+- Search 
+- Taxonomy 
+- Language 
+- Analytics / Reporting 
+- Users / Onboarding 
+- Group Management 
+- Content Curation  
+- Integrations 
+- Notifications 
+- Mobile  
+- Other 
+ 
+2. In what way would the Enhancement Request enhance or impact your business (align use case)
+- [ ] Quality / Performance improvements 
+- [ ] Will drive usage, engagement and adoption 
+- [ ] Will improve overall usability / UX 
+- [ ] Will improve or enhance business outcomes 
+- [ ] Affects ability to achieve specific business goals (specify) 
+- [ ] Affects planned rollout, adoption and initiatives. 
+- [ ] Other 
+ 
+3. Enhancement Description - Please provide a detailed description of the business problem and use cases. Specify affected user flow, steps to recreate the scenario, add screenshots/videos.
+  
+4. Expected Outcome - Please provide a detailed description of what the expected outcome of the enhancement request would be. Please specify how these outcomes help achieve business goal(s),  
+5. Why is this feature important (State the business impact) 
+
+6. What is the level of urgency and expected timeframe? In months & quarters. If possible, quantify the value associated with business impact. (Remember, if everything is urgent then nothing is!) 
+```
+
+
+#### Engaging EdCast's support team for platform issues
+
+##### Web Incidents
+
+To engage the EdCast team in an incident on EdCast Web, email the EdCast team with the following information:
+
+```
+ 
+1. Incident Details 
+- Date / time of the incident 
+- User Information  
+- No of users affected 
+ 
+2. Subject Area  
+- Admin Functionality 
+- SmartCards / Journeys / Pathways 
+- Search 
+- Taxonomy 
+- Language 
+- Analytics / Reporting 
+- Users / Onboarding 
+- Group Management 
+- Content Curation  
+- Integrations 
+- Notifications 
+- Other 
+ 
+3. Incident Description - Please provide a detailed description. 
+
+4. Are you able to reproduce this incident in test environment (Yes/ No) 
+
+5. What are the steps to reproduce this incident 
+
+6. What are the expected results 
+
+7. What was the actual results 
+
+8. Attach any screenshots or video recording of the incident 
+
+9. Any additional information that you would like to share with the support team 
+ ```
+
+##### Mobile Incidents
+
+To engage the EdCast team in an incident on EdCast Mobile, email the EdCast team with the following information:
+
+```
+Below is the information that would be needed when opening a “mobile” related support ticket.
+ 
+- Incident Details 
+- Date / time of the incident 
+- User Information - 
+- Mobile platform - Android or iOS 
+- Version number of the app 
+- No of users affected 
+
+2. Incident Description - Please provide a detailed description. 
+
+3. Are you able to reproduce this incident in test environment (Yes/ No) 
+
+4. What are the steps to reproduce this incident 
+
+5. What are the expected results 
+
+6. What was the actual results 
+
+7. Attach any screenshots or video recording of the incident 
+
+8. Any additional information that you would like to share with the support team 
+
+```
+
+##### Reporting performance issues on edcast.com
+
+To engage the EdCast team in a performance related incident, email the EdCast team with the following information:
+
+``` 
+1. Incident Details 
+- Date / time of the incident 
+- User Information - user credentials 
+- No of users that are encountering the same behavior 
+- Location - is the incident isolated to user’s location or is it global 
+ 
+2. Subject Area  
+- Admin Functionality 
+- SmartCards / Journeys / Pathways 
+- Search 
+- Taxonomy 
+- Language 
+- Analytics / Reporting 
+- Users / Onboarding 
+- Group Management 
+- Content Curation  
+- Integrations 
+- Notifications 
+- Other 
+ 
+3. Incident Description - Please provide a detailed description. 
+
+4. Are you able to reproduce this incident in test environment (Yes/ No) 
+
+5. What are the steps to reproduce this incident 
+
+6. What are the expected results 
+
+7. What was the actual results 
+
+8. Please provide video recording of the user behavior 
+
+9. Please provide a (HAR) file.  
+
+10. Any additional information that you would like to share with the support team 
+```
 

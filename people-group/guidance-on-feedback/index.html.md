@@ -35,7 +35,23 @@ A few ways in which feedback is provided at GitLab are:
 
 * [360 Feedback](/handbook/people-group/360-feedback/)
 * Regularly during 1:1s (you can find details about that by going to the [1-1 page](/handbook/leadership/1-1/))
-* "365 feedback" - Feedback should be given 365 days a year and largely it’s done verbally and directly; not escalated. 
+* "365 feedback" - Feedback should be given 365 days a year and largely it’s done verbally and directly; not escalated.
+
+## Guidance on Giving and Receiving Feedback
+
+Sid (GitLab CEO and Co-founder) and the Learning & Development team discuss guidance on giving and reciving feedback during a [CEO Handbook Learning Session](https://docs.google.com/presentation/d/1u6k4ILLBjLOaGk1ZyuNa2U2qr-XiGZL0AhUjOQRtvVI/edit#slide=id.p1). During the discussion, they discuss the following topics: 
+
+1. How to create an environment where team members can approach each other with feedback
+2. Why it is important to give regular feedback
+3. Why you should give feedback right away
+4. How iteration enables feedback
+5. Creating an environment built for feedback
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vL864Zg2sm4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+> Give constructive feedback in the smallest group as possible, be specific by discussing an example. Make the discussion improvement orientated and make sure you deliver feeback when your not upset. (Sid Sijbrandij, GitLab CEO and co-founder)
 
 ## Feedback on Improvement Areas
 
@@ -251,7 +267,7 @@ Recognition can be given in a variety of forums:
 - Share an update of the team member(s) recognition during the next team meeting
 - Highlight the recognition of the team members during a group conversation with the broader organization 
 - Showcase the recognition during an e-group meeting to executives
-- Consider a [discretionary bonus per team member] (/handbook/incentives/#discretionary-bonuses-per-team-member/) as a form of superior recognition 
+- Consider a [discretionary bonus per team member](/handbook/incentives/#discretionary-bonuses-per-team-member/) as a form of superior recognition 
 - Managers can also recognize team members during 1-1 meetings
 
 ### Beware Of Saying "Thank You" Too Much

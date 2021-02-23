@@ -13,7 +13,7 @@ description: Information about GitLab's Access Request (AR) issue automation pro
 #### Access Request issue creation
 
 To get access to the tools our team members need for their job, an Access Request (AR)
-issue needs to created. To make sure our team members experience a good onboarding,
+issue needs to be created. To make sure our team members experience a good onboarding,
 we automated this process by creating the AR Role based entitlement issue
 with the bot. This automation was enabled on 2020-04-01 (so on 2020-04-02 the pipeline ran the first time.)
 

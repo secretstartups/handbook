@@ -236,7 +236,7 @@ This section describes the approval chain after a manager submits a promotion or
 
 1. The indirect manager will review the promotion in BambooHR.
 1. The People Business Partner will then review the business case for promotion then they will ping the Total Rewards team to add the compensation notes (Review the [For People Business Partners](#for-people-business-partners-approving-promotions--compensation-changes) section below for details).
-1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#stock-option-grant-levels), job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The People Business Partner will then approve the request if applicable.
+1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#stock-option-grant-levels), job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The Total Rewards team will also add the average compa ratio for the job code to serve as an additional data points for PBPs and managers. The People Business Partner will then approve the request if applicable.
 1. The E-Group leader will review the entire proposal in BambooHR for approval.
 1. The CFO or CEO will review the request. If there are any questions, the CFO or CEO will add a comment outlining the specific concerns and the Total Rewards team will ensure follow-up within a week to escalate to the comp group or deny the request.
 1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the Letter of Adjustment in HelloSign.
@@ -272,18 +272,18 @@ If a department is over the 12% promotion rolling rate, the following process sh
 1. Ping the manager requesting the promotion via Slack to confirm that the department leader and E-Group leader are aware and supportive of the promotion.
 1. Align with the Total Rewards in the private #promo_compensation Slack channel to ensure Compensation notes are added in BambooHR.
 1. Cross-check Compensation adjustment in accordance with the [compensation calculator](https://comp-calculator.gitlab.net/users/sign_in).
-1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the EVPE. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders.
+1. We want for promotions and compensation changes in Engineering that they are approved by all leaders up to the CTO. As BambooHR has a limit in the amount of approvers use the Division specific slack channel to have approval of all leaders.
 1. If an approver is skipped in BambooHR: Share the promotion information in the private Division-specific promotion Slack channel with an overview of:
     - Team member name
     - Promotion request (current job title and new job title)
     - Compensation notes (current compensation, proposed compensation, increase %, additional stock options, compensation calculator)
-1. `@mention` the skipped department leader for approval in the Division-specific promotion Slack channel. Example: Promotion for Backend Engineer to Senior Backend Engineer. The BambooHR process includes the direct manager, department Director and EVPE. The missing department leader here is the VP of Development. In this case `@mention` the VP of Development for approval.
+1. `@mention` the skipped department leader for approval in the Division-specific promotion Slack channel. Example: Promotion for Backend Engineer to Senior Backend Engineer. The BambooHR process includes the direct manager, department Director and CTO. The missing department leader here is the VP of Development. In this case `@mention` the VP of Development for approval.
 1. PBP approves the promotion request in BambooHR.
 
 ### For Total Rewards: Processing Promotions & Compensation Changes
 
 1. If the request is approved through BambooHR, the Total Rewards Analyst/Coordinator will create the Letter of Adjustment whereas if the request is through Greenhouse the Total Rewards Analyst/Coordinator will be notified via the Total Rewards team email inbox that the letter has been signed. If this is the case, only data systems will need to be updated.
-1. If the request comes through BambooHR, approve the request, then update the entries in BambooHR to ensure that there are the proper dates, amounts and job information. Also, ensure to add stock options to the benefits tab if applicable. If the team member is moving to a Manager position, update their access level in BambooHR.
+1. If the request comes through BambooHR, approve the request, then update the entries in BambooHR to ensure that there are the proper dates, amounts, job information. Also, ensure to add stock options to the job tab if applicable. If the team member is moving to a Manager position, update their access level in BambooHR.
 1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
 1. If the team member is in Sales or transferred to Sales, update the changes tab on the "Final Sales OTE FY 2020" google doc.
 1. Make a copy of the Letter of Adjustment template and enter all applicable information based on the BambooHR request. The effective date is as follows:
@@ -317,7 +317,7 @@ To demote one of your direct reports, a manager should follow the following step
 - Proposed changes to a current vacancy description or a new vacancy description should be delivered with request for approval by the second level manager and the People Ops Manager.
 - Demotions should also include a review of [compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-option-grant-levels) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
 - Once agreement is reached on the demotion and changes (if any) in compensation, the total rewards team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
-- Once approved, the manager informs the individual. Please cc total-rewards@ gitlab.com once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment).
+- Once approved, the manager informs the individual. Please cc total-rewards@ gitlab.com once the individual has been informed, to processes the changes in the relevant administrative systems, and stage a [Letter of Adjustment](https://docs.google.com/document/d/1lxx92gGXL6hltRxKn0I6D8a8dHtvFBnElDf7dAlxkkQ/edit).
 - Changes in title are announced on the `#team-member-updates` Slack channel.
 - The manager will initiate any necessary onboarding or offboarding.
 
@@ -401,11 +401,11 @@ Internal and external candidates will have the same process with the same amount
 
 It is recommended that team members inform their manager of their desire to move internally and their career aspirations. Your manager should not hear about your new opportunity from the new hiring manager; it should come from you prior to the new hiring manager checking in for references with the current manager.
 
-If you are unsure of the role, set up a coffee chat with the hiring manager to introduce yourself. Express your interest in the role and your desire to learn more about the vacancy requirements and skills needed. If after that conversation you do not feel that you are qualified or comfortable making the move, ask the hiring manager to provide guidance on what you can do to develop yourself so you will be ready for the next opportunity. It may also be possible to set up an [internship for learning](/handbook/people-group/promotions-transfers/#internship-for-learning) situation with the hiring manager.
+If you are unsure of the role, set up a coffee chat with the hiring manager to introduce yourself. Express your interest in the role and your desire to learn more about the vacancy requirements and skills needed. If after that conversation you do not feel that you are qualified or comfortable making the move, ask the hiring manager to provide guidance on what you can do to develop yourself so you will be ready for the next opportunity. It may also be possible to set up an [internship for learning](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) situation with the hiring manager.
 
 #### Announcing Internal Promotions/Transfers
 
-While the [Internal Transition Issue](/handbook/people-group/promotions-transfers/#internal-transition-issue) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
+While the [Career Mobility Issue Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
 
 1. Prior to any company-wide announcement, the team member should be given the opportunity to share the news with their immediate team members.
 1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezome permitting) on the <b>same day that the candidate signs their [Letter of Adjustment](/handbook/contracts/#letter-of-adjustment)</b>.
@@ -459,7 +459,7 @@ In cases where multiple individuals are asked to transfer to high priority roles
 
 Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documented in the HRIS file of the team member who received the new role. See [Department Transfers](/handbook/people-group/promotions-transfers/#department-transfers) for additional details.
 
-More details can be found on the [Intneral Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/people-group/contracts-and-international-expansion/#letter-of-adjustment) page.
+More details can be found on the [Intneral Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustments) page.
 
 ### Leveling Up Your Skills
 
@@ -467,47 +467,3 @@ There are a number of different ways to enhance or add to your skill-set at GitL
 
 As detailed in our [Learning & Development Handbook](/handbook/people-group/learning-and-development/), team members will be supported in developing their skills and increasing their knowledge even if promotion is not their end goal.
 
-### Internship for Learning
-
-If your manager has coverage, you can spend a percentage of your time working (through an 'internship') with another team.
-
-This could be for any reason: maybe you want to broaden your skills or maybe you've done that work before and find it interesting.
-
-If your team has someone working part-time on it, it's on the manager of that team to ensure that the person has the support and training they need, so they don't get stuck. Maybe that's a buddy system, or maybe it's just encouragement to use existing Slack channels - whatever works for the individuals involved.
-
-#### How does this work?
-
-**What percentage of time should be allocated?** Well, 10% time and 20% time are reasonably common. As long as you and your manager have the capacity the decision is theirs and yours.
-
-**What about the team losing a person for X% of the time? How are they supposed to get work done?**
-Each manager needs to manage the capacity of their team appropriately. If all of the team are 'at work' (no one is on PTO, or parental leave, or off sick), and the team still can't afford X% of one person's time - that team might be over capacity.
-
-**Can I join a team where I have no experience or skills in that area?**
-That's up to the managers involved. It may be that the first step is to spend some time without producing anything in particular - in which case, it's possible that the [tuition reimbursement policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#tuition-reimbursement) may be a better fit (or it might not.)
-
-**How long does an internship of this nature last?**
-This will vary from team to team, but typically 6 weeks to 3 months depending on the goals for your internship.
-
-**This sounds great but how do I initiate this process?**
-First step is to discuss this with your manager at your next 1:1. Come prepared with your proposal highlighting what skills you want to learn/enhance and the amount of time you think you will need. Remember, this should be of benefit to you and GitLab. You and your manager will need to collaborate on how you both can make this happen which may also involve discussing it further with the manager of the team you may be looking to transfer to. All discussions will be done transparently with you. Be mindful though that the business needs may mean a move can't happen immediately.
-
-**How do I find a mentor?**
-On the [team page](/company/team), you can see who is willing to be a mentor by looking at the associated [expertise](/company/team/structure/#expert) on their entry.
-
-**Does completing an internship guarantee me a role on the team?**
-Completing an internship through this program does not guarantee an internal transfer. For example, there may not be enough
-allocated headcount in the time-frame in which you complete your internship.
-
-If at the end of your internship, you are interested in transferring teams please follow the guidelines in [Internal Department Transfers](#internal-department-transfers).
-
-#### Starting Your New Internship
-
-Please create a new issue in the [Training project](https://gitlab.com/gitlab-com/people-ops/Training/issues/new), choose the `internship_for_learning` template, and fill out the placeholders.
-
-No internship for learning should be approved without both managers having a conversation and agreeing upong the percentage of time the team member will spending on the internship. Also, the team members manager may has discretion not to approve the internship for learning if there are team member performance issues.
-
-Once you've agreed upon the internship goals, both managers should inform their respective groups' People Business Partner.
-
-#### Recommendations
-
-We recommend that, at any given time, each [team](/company/team/structure/#team-and-team-members) is handling only one intern. This is to allow for an efficient and focused mentorship without impacting the capacity of the team. You can, of course, adjust this depending on the size of the team but please consider the impact of mentoring when scheduling internships.

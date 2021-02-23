@@ -10,6 +10,8 @@ description: "All elearning courses tied to the Field Certification Program will
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Handbook First Learning Model
+
 All elearning courses at GitLab to the will utilize the Handbook as the Single Source of Truth (SSOT). 
 
 ![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
@@ -54,7 +56,7 @@ Consider the following when documenting course content in the handbook:
 
 1. Outline clear learning objectives
 1. Make content discoverable. For example, leadership content should not live in the Learning and Development handbook, but instead in the [Leadership handbook](/handbook/leadership)
-1. Emebed relevant YouTube videos in the handbook
+1. Embed relevant YouTube videos in the handbook
 1. Link to knowledge assessments
 1. Cross reference any additional handbook content with links
 
@@ -68,8 +70,29 @@ Content in the EdCast LXP at GitLab will adopt this handbook-first approach to l
 - Assessments and learning checks referring back to content in the handbook to check for understanding
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/1DSBF9tjAX50x2yOXoW5yQuJx3efVJdktYHdc86bM7WI/edit#slide=id.gb1c2c2e157_0_60" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTfoGoGjXNlVNJs86aBniKhimx2-23wlDw40UJrGB6170GAcQeceB3naGrTgwqgsx-IKsybgLQV61Lf/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
+
+### Handbook First Video
+
+The following best practices should be followed when using video to create handbook first learning material.
+
+1. Upload recorded video to the GitLab Unfiltered channel
+1. Embed videos into the handbook on the appropriate content page
+1. Ensure that embedded videos have a sub-header on the page. This will be an essential piece when linking to the handbook using SmartCards or iframes. Here is an [example of this layout](/company/culture/all-remote/mental-health/#do-not-celebrate-working-long-hours).
+1. Add videos to SmartCards by linking to these sub headers
+1. Build iframes to display video by linking to these sub headers
+
+#### Private Video
+
+The following best practices should be followed when building learning content that includes private or internal only video.
+
+1. Professional services shares recordings of live learning sessions directly with customers involved in each specific training via a Zoom link and recording password. These videos are not published ot YouTube or to the handbook. Future iterations will include using EdCast to store and share these recordings using private Groups.
+
+#### Why not use the GitLab Unfiltered API in EdCast?
+
+Not all video on the GitLab Unfiltered channel is handbook first. In order to be sure that video in EdCast aligns with the handbook first best practices outlined above, we've elected to turn off the GitLab Unfiltered API in EdCast. 
+
 
 ### Handbook first course example
 
@@ -80,6 +103,32 @@ Below is an outlined example of how the field enablement team created a handbook
 1. **iFrames** iFrames display content directly from the GitLab handbook. Before each iframe, a short description sets the expectation of the learner, time needed to read the handbook section, and a direct link to the handbook to open in a new tab
 1. **Intellectual property** Intellectual property is linked directly to the course. Relevant handbook pages are linked and displayed in iframes when appropriate 
 1. **Interactive Learning** Interactive learning provides opportunities for quick learning checks and does not introduce new material
+
+### Building courses with Articulate360
+
+Articulate360 is a powerful course creation tool. Below are a set of best practices and tips for creating handbook first courses using Articulate360
+
+1. Our team has a GitLab branded template that can be used for course creation. The template has GitLab colored theme, buttons, and font. You can use this by clicking on the `Course Template` > `Duplicate` > and then rename using your course title
+1. Use [iframes](/handbook/people-group/learning-and-development/interactive-learning/#using-iframes-to-display-the-GitLab-handbook) to display sections of the GitLab handbook in your course
+
+#### Using iframes to display the GitLab handbook
+
+This [training video](https://youtu.be/wlLKZz3vSAk
+) provides an example of how iframes can be used to display sections of the handbook in a Rise 360 course
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wlLKZz3vSAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In the team Articulate- Rise 360 license, there is a block template for iframes. You can access this template in the the `block templates` section and add your iframe code directly.
+
+![iframe-embed-template](/handbook/people-group/learning-and-development/interactive-learning/iframe-block.png)
+
+
+##### iframe tag examples
+
+Consider copying and pasting the iframe tag below to apply the strategies outlined in the training. GitLab team members can access [this Google doc resource](https://docs.google.com/document/d/1HvikZayptzqT8kFFB_EPdiXBl04iYsnRzwFKGKgLVxI/edit) for ease of access to iframe tags that can be copied and edited when building courses using Articulate360 tools.
+
+1. `<iframe src="link-to-your-page" title="title for iframe metadata" scrolling="no" height="XX"></iframe>`
+
 
 ### Examples of what is not considered handbook first
 
@@ -96,4 +145,8 @@ Avoiding these examples can help ensure that the content you're producing follow
 - Updates to courses that are saved as SCORM files must be updated in the course creation tool and then reuploaded to the EdCast platform
 - When iframes are not used, the user needs to navigate to text and video content in the handbook on a new internet tab
 - New handbook/docs pages may need to be created in cases where videos should be included in a learning path
+
+
+
+
 
