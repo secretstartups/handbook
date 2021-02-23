@@ -24,7 +24,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 | Mar 10 |[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)  | **Julie Byrne** |
 | Mar 17 | [Gitlab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)              |  **Simon Mansfield**               |
 | Mar 24 | [Protect PM Shadow Show and Tell](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/118)              |   **Karen Kwentus**              |
-| Mar 31  |               |                 |
+| Mar 31  |  [Integrate & Analyze Usage Data in Gainsight](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/119#note_515359639)             |    **Jeff Beaumont**             |
 | Apr 7  |  [Detailed Deep Dive on Git/ SCM Capabilities](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/31)             |    **William Arias**             |
 | Apr 14 |         |           |
 | Apr 21 |          |            |
