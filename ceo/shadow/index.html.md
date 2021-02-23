@@ -178,8 +178,8 @@ Exceptional community members may be able to participate, as well.
 | ---------- | -------- | ------- | --------- |
 | 2021-02-22 | 2021-02-26 | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience |
 | 2021-03-01 | 2021-03-05 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
-| 2021-03-08 | 2021-03-12 | AVAILABLE - REMOTE | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
-| 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-03-08 | 2021-03-12 | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
+| 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst |
 | 2021-03-22 | 2021-03-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-03-29 | 2021-04-02 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-04-05 | 2021-04-09 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
