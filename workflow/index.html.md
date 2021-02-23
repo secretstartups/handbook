@@ -20,7 +20,7 @@ We have [specific rules around code review](/handbook/engineering/workflow/code-
 
 ## Reverting a merge request
 
-In line with our values of [short toes](/handbook/values/#short-toes), [making two-way-door decisions](handbook/values/#make-two-way-door-decisions)
+In line with our values of [short toes](/handbook/values/#short-toes), [making two-way-door decisions](/handbook/values/#make-two-way-door-decisions)
 and [bias for action](/handbook/values/#bias-for-action), anyone can
 propose to revert a merge request. When deciding whether an MR should be reverted,
 the following should be true:
@@ -122,7 +122,7 @@ The merge request author of the change that broke master is the resolution DRI. 
      create an issue to reinstate the merge request and  assign it to the author
      of the reverted merge request. Reverts can go straight to maintainer review and require 1 maintainer approval. The maintainer can request additional review/approvals if the revert is not trivial.
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
-   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue.
+   * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue. To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow up.
      * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
 1. If the broken `master` affects any auto-deploy, add the relevant `~"Pick into auto-deploy"` label.
 1. If the broken `master` affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
@@ -214,20 +214,18 @@ For more information on how the entire process works for security releases, see 
 1. When you start working on an issue:
   - Add the `workflow::in dev` label to the issue.
   - Create a merge request (MR) by clicking on the **Create merge request** button in the issue. This creates a MR with the labels, milestone and title of the issue. It also relates the just created MR to the issue.
-  - Remove the `Closes #issue_id` from the MR description, to prevent automatically closing of the issue after merging. Be careful not to use other keywords in the MR description given the [default closing pattern](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#default-closing-pattern) that can also automatically close issues.
   - Assign the MR to yourself.
   - Work on the MR until it is ready, it meets GitLab's [definition of done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), and the pipeline succeeds.
-  - Edit the description and click on the **Remove the WIP: prefix from the title** button.
+  - Edit the description and click on the **Remove the Draft: prefix from the title** button.
   - Assign it to the suggested reviewer(s) from [Reviewer Roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette). If there are reviewers for multiple categories, for example: frontend, backend and database, assign all of them. Alternatively, assign someone who specifically needs to review. When assigning, also @mention them in the comments, requesting a review.
-  - (Optionally) Unassign yourself from the MR.
-      - Some may find leaving the MR assigned to themselves easier to track the MRs they are responsible for by using the built in MR button/notification icon in the GitLab navigation bar.
+  - (Optionally) Unassign yourself from the MR. Some may find leaving the MR assigned to themselves easier to track the MRs they are responsible for by using the built in MR button/notification icon in the GitLab navigation bar.
   - Change the workflow label of the issue to `workflow::in review`. If multiple people are working on the issue or multiple workflow labels might apply, consider breaking the issue up. Otherwise, default to the workflow label farthest away from completion.
   - Potentially, a reviewer offers feedback and assigns back to the author.
   - The author addresses the feedback and this goes back and forth until all reviewers approve the MR.
   - After approving, the reviewer in each category unassigns themselves and assigns the suggested maintainer in their category.
   - Maintainer reviews take place with any back and forth as necessary and attempts to resolve any open threads.
   - The last maintainer to approve the MR, follows the [Merging a merge request](https://docs.gitlab.com/ee/development/code_review.html#merging-a-merge-request) guidelines.
-  - (Optionally) Change the workflow label of the issue to `workflow::verification`, to indicate all the development work for the issue has been done and it is waiting to be deployed and verified.  We will use this label in cases where the work was requested to be verified by product OR we determined we need to perform this verification in production.
+  - (Optionally) Change the workflow label of the issue to `workflow::verification`, to indicate all the development work for the issue has been done and it is waiting to be deployed and verified. We will use this label in cases where the work was requested to be verified by product OR we determined we need to perform this verification in production.
 1. You are responsible for the issues assigned to you. This means it has to ship with the milestone it's associated with. If you are not able to do this, you have to communicate it early to your manager and other stakeholders (e.g. the product manager, other engineers working on dependent issues). In teams, the team is responsible for this (see [Working in Teams](#working-in-teams)). If you are uncertain, err on the side of overcommunication. It's always better to communicate doubts than to wait.
 1. You (and your team, if applicable) are responsible for:
   - Ensuring that your changes [apply cleanly to GitLab Enterprise Edition][ce-ee-docs].
@@ -287,11 +285,11 @@ If you’re in doubt about what to work on, ask your lead. They will be able to 
 
 It's every [developers' responsibilities] to triage and review code contributed by the rest of the community, and work with them to get it ready for production.
 
-Merge requests from the rest of the community should be labeled with the `Community Contribution` label.
+Merge requests from the rest of the community should be labeled with the `Community contribution` label.
 
 When evaluating a merge request from the community, please ensure that a relevant PM is aware of the pending MR by mentioning them.
 
-This should be to be part of your daily routine. For instance, every morning you could triage new merge requests from the rest of the community that are not yet labeled `Community Contribution` and either review them or ask a relevant person to review it.
+This should be to be part of your daily routine. For instance, every morning you could triage new merge requests from the rest of the community that are not yet labeled `Community contribution` and either review them or ask a relevant person to review it.
 
 Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
 
@@ -398,7 +396,7 @@ Team members use labels to track issues throughout development. This gives visib
 - `workflow::in review`: A developer indicates the issue is in code review and UX review by removing the `in dev` label, and applying the `in review` label.
 - `workflow::verification`: A developer indicates that all the development work for the issue has been done and is waiting to be deployed and verified.
 
-When the issue has been verfied and everything is working, it can be closed.
+When the issue has been verified and everything is working, it can be closed.
 
 ## Kickoff
 
@@ -458,7 +456,7 @@ Once all Team Retrospectives are completed, each team inputs their learnings int
 **Steps for participants**
 1. Please host your Team Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
 1. After the Team Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
-1. In the retro doc, if there is a learning that you would like to explicitely highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other learnings listed in the retro doc when they create the pre-recorded video.
+1. In the retro doc, if there is a learning that you would like to explicitly highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other learnings listed in the retro doc when they create the pre-recorded video.
 1. If there are improvement tasks for your team from the previous retrospective, please provide an update on them in the retro doc. They will be verbalized during the Retrospective Discussion.
 1. If there are improvement tasks for your team in the current retrospective, please add them in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit). They will be verbalized during the Retrospective Discussion.
 1. Add a checkbox in the table of the Retrospective planning and execution issue when your Team Retrospective is complete and when the retro doc is updated.
@@ -571,11 +569,30 @@ For technical debt which might span, or fall in gaps between groups they should 
 
 ## UX debt
 
-Sometimes features release to production without meeting design and [Pajamas](https://design.gitlab.com/) specifications. We create UX debt issues to capture these discrepancies. For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
+Sometimes there is an intentional decision to deviate from the agreed-upon MVC, which sacrifices the user experience. When this occurs, the Product Designer creates a follow-up issue and labels it `UX debt` to address the UX gap in subsequent releases.
 
-We apply the `UX debt` label to these issues, and it is prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
+For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
+
+These issues are prioritized like [other technical decisions](/handbook/engineering/#prioritizing-technical-decisions) in [product groups](/company/team/structure/#product-groups) by [product management](/handbook/product/product-processes/#how-we-prioritize-work). You can see the number of UX debt issues on the [UX Debt dashboard](https://app.periscopedata.com/app/gitlab/641753/UX-Debt).
 
 As with [technical debt](#technical-debt), UX debt should be brought up for [globally optimized](/handbook/values/#global-optimization) prioritization in [retrospectives](/handbook/engineering/management/team-retrospectives/) or directly with the appropriate member of the [Product Leadership team](/handbook/product/product-leadership/).
+
+## UI polish
+
+UI polish issues are visual improvements to the existing user interface, touching mainly aesthetic aspects of the UI that are guided by [Pajamas](https://design.gitlab.com/) foundations. UI polish issues generally capture improvements related to color, typography, iconography, and spacing. We apply the `UI polish` label to these issues. UI polish issues don't introduce functionality or behavior changes to a feature.
+
+### Examples of UI polish
+
+- **Aesthetic improvements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/290262)): removing unnecessary borders from a UI, updating the background color of an element, fixing the font size of a heading element.
+- **Misalignment of text, buttons, etc** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/280538)): although because many times something isn't broken, these improvements are considered UI polish. These could also be considered a bug.
+- **Incorrect spacing between UI elements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/7905)): when two interface elements are using inconsistent spacing values, such as 10px instead of 8px. It could also be considered technical debt. Note that if two interface elements have zero space between them, its an obvious bug. 
+- **Visual inconsistencies across different product areas** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/296948)): visual inconsistencies could occur when we have have a series of buttons on a particular view. For example, when 3/4 of them have been migrated to use the Pajamas component, and 1/4 of them are still using a deprecated button, resulting in a visual inconsistency. This is considered a UI polish.
+
+### What is not UI polish 
+
+- **Functional inconsistency related to the experience**: for example, using a manual action to add an assignee automatically shows the assignee in the sidebar but using a manual action to add a weight to an issue does not automatically show the weight in the sidebar. This is not currently considered UI polish. It would be considered a UX issue.
+- **Improving visibility of system status**: status indicator improvements are experience improvements and are not classified as UI polish. 
+  - Even when updating something that is purely visual, such as a status icon, to improve the meaning the user has of what they are viewing, we are trying to improve the experience of that user.
 
 ## Monitor Merge Request Trends
 
@@ -653,6 +670,26 @@ The infradev process is established to identify Issues requiring priority attent
 
 The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev) is the primary focus of this process.
 
+### Roles and Responsibilities
+
+#### Infrastructure
+
+1. Nominate issues by adding `Infradev` label.
++1. Assess [Severity](/handbook/engineering/quality/issue-triage/#severity-slos) and apply the corresponding severity label as appropriate.
+1. Provide [as much information as possible](#a-guide-to-creating-effective-infradev-issues) to assist development engineering troubleshooting.
+
+#### Development
+
+1. Development directors are responsible for [triaging Infradev issues](/handbook/engineering/development/#daily-duties-for-engineering-directors) regularly by following the [triage process](#triage-process) below.
+1. Development managers are encouraged to [triage issues](#triage-process) regularly as well.
+1. Development managers collaborate with their counterpart Product Managers to refine, schedule, and resolve Infradev issues.
+1. Usually, issues are nominated as Infradev issues by SREs or Managers in the Infrastructure Department. Development engineers/managers are not expected to nominate Infradev issues. However, when it's necessary to spin off new issues from an Infradev issue, development engineers/managers may also apply `Infradev` label to the new issue(s).
+
+#### Product Management
+
+1. Product Managers perform holistic prioritization of both product roadmap and Infradev issues as one unified backlog.
+1. Product Managers collaborate with their counterpart Development Managers to refine, schedule, and resolve Infradev issues.
+
 ### Triage Process
 
 (To be completed primarily by Development Engineering Management)
@@ -660,11 +697,11 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
 Issues are nominated to the board through the inclusion of the label `infradev` and will appear on the [infradev board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?label_name[]=infradev).
 
 1. Review issues in the Open column. Look for issues within your Stage/Group/Category, but also for those which lack a clear assignment or where the assignment may need correction.
-1. Review the [severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to validate appropriate prirotization.
+1. Review the [severity](/handbook/engineering/quality/issue-triage/#severity) on the issue to validate appropriate prioritization.
 1. Ensure that the issue clearly explains the problem, the (potential) impact on GitLab.com's availability, and ideally, clearly defines a proposed solution to the problem.
-1. Assign an engineering manager to any issue where the `Milestone` or the label `workflow::ready for development` is missing.
-   1. Engineering manager brings assigned issue(s) to the Product Manager for prioritization and planning.
-   1. Engineering manager unassigns themselves once the issue is planned for an iteration, i.e. associated with a `Milestone` and the label `workflow::ready for development`.
+1. Assign a Development Manager and a Product Manager to any issue where the `Milestone` or the label `workflow::ready for development` is missing.
+   1. Development Manager and Product Manager collaborate on the assigned issue(s) for prioritization and planning.
+   1. Development Manager and Product Manager unassign themselves once the issue is planned for an iteration, i.e. associated with a `Milestone` and the label `workflow::ready for development`.
 1. All Issues should be prioritized into the appropriate workflow stage. It is the intent to maintain no Open (un-triaged) items.
 
 Issues with `~infradev ~severity::1 ~priority::1 ~production request` labels applied require immediate resolution.

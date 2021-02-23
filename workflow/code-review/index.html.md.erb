@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Code Review
+title: Code Review Guidelines
+description: "Code reviews are mandatory for every merge request, you should get familiar with and follow our Code Review Guidelines."
 ---
 
 ## On this page
@@ -83,7 +84,7 @@ Since the manager of the new maintainer is the MR assignee, they should be the o
 
 It is helpful if the person merging the MR also leaves a comment with a summary, see [example 1](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/22212#note_166997960) or [example 2](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/29148#note_212342171) for reference.
 
-When the manager merges the MR, they should announce this change in the applicable channels listed under [keeping yourself informed section of the engineering handbook](/handbook/engineering/#keeping-yourself-informed) and `#backend_maintainers`/`#frontend_maintainers` and `#backend`/`#frontend`. We should also update the ["Engineering Week-in-Review"](https://docs.google.com/document/d/1EkfzI85aqw8chYDBf2GLRvjKEa3s0FWHMI3u0DIr-xg/edit) Google doc.
+When the manager merges the MR, they should announce this change in the applicable channels listed under [keeping yourself informed section of the engineering handbook](/handbook/engineering/#keeping-yourself-informed) and `#backend_maintainers`/`#frontend_maintainers` and `#backend`/`#frontend`. We should also update the **Engineering Week-in-Review document**. The agenda is internal only, please search in Google Drive for 'Engineering Week-in-Review'.
 
 The existing maintainers of the relevant engineering group and project will also raise any areas for growth on the merge request. If there are many gaps, the reviewer will need to address these before asking for reconsideration.
 
@@ -137,6 +138,28 @@ If you’ve become a new maintainer, follow these instructions to request releva
 - Ask the maintainers in your group to invite you to any maintainer-specific meeting if one exists.
 - Request access to the GitLab maintainer group you belong: [frontend](https://gitlab.com/gitlab-org/maintainers/frontend), [backend](https://gitlab.com/gitlab-org/maintainers/rails-backend), or [database](https://gitlab.com/gitlab-org/maintainers/database).
 - Request maintainer permissions on the projects you will act as a maintainer using the [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) issue template. Once you’ve created the issue, request another maintainer to grant you those permissions.
+
+##### Transitioning away from being a reviewer/maintainer
+
+After consultation with your manager, you may wish or need to transition away 
+from being a reviewer/maintainer. Regardless of the circumstances, it's 
+perfectly OK for this to happen! Responsibilities and workloads change; projects 
+evolve. So it's important to ensure your time is spent on the areas that are 
+most important.  To make the change official and to be removed from [reviewer roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette):
+
+1. See the [Team Member Database](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/team_database.md) 
+   document for how to update your YAML file.
+1. Create a new MR and assign the MR to your manager.
+
+##### Returning to become a reviewer/maintainer
+
+After a period of transitioning away from being a reviewer/maintainer, you may
+wish to return to performing these duties. To make the request official, see
+the section on becoming a [Trainee maintainer](#trainee-maintainer), creating
+the tracking issue and Merge Request, referencing previous tracking issue(s)
+and Merge Request(s) for context. The newly created Merge Request should be
+assigned to your manager for immediate review as the process can usually be
+fast tracked.
 
 ### Maintainer ratios
 
