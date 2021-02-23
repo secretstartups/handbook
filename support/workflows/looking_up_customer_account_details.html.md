@@ -21,43 +21,24 @@ account manager.
 
 In general, you should look for customer details in this order:
 
-1. Within Zendesk
-2. Within Salesforce
-3. Within customers.gitlab.com
+1. Within Salesforce
+1. Within customers.gitlab.com
 1. Within license.gitlab.com
 
 For an overview and runthrough of all three platforms, watch Amanda Rueda's
 [How to use Salesforce from a support perspective](https://drive.google.com/drive/u/0/search?q=Amanda%27s%20Salesforce%20Class%20parent:1JDdcj2ESdCc_ReG0-n7RyAIxbIFkcQ1K)
 video.
 
-### Within Zendesk
-
-The following information is generally available through the Salesforce app in
-Zendesk:
-
-- Number of licenses (seats)
-- Next renewal date
-- Support level
-- Technical account manager
-
-To access the Salesforce app:
-
-1. Click on "Apps" in the top right of the Zendesk UI.
-
-   ![Zendesk Apps button](/handbook/support/workflows/assets/zendesk-apps-button.png)
-
-2. Look for the Salesforce app
 
 ### Within Salesforce
 
-If you can't find the information you want through the Zendesk app, or if you
-are trying to find the ticket requester's organization, you'll have to look it
+If you are trying to find the ticket requester's organization, you'll have to look it
 up directly in Salesforce.
 
 To access Salesforce, use the Salesforce tech support account credentials in
 the 1Password Support vault. Notes:
 
-- If prompted for a one-time password, this is available in 1Password.
+- If prompted for a one-time password, this is available in 1Password under the text field 'one-time password'.
 - If prompted to provide a verification code sent by email, the email account
   credentials are available in 1Password.
 
