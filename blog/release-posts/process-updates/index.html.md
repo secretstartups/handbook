@@ -1,5 +1,5 @@
 ---
 layout: handbook-page-toc
-title: Release post process updates
+title: Release post updates
 ---
 
