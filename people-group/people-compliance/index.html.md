@@ -53,7 +53,7 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 ## Relevant Handbook Pages
 
 * [Privacy](/handbook/legal/privacy/) and [Privacy Laws and GitLab](/handbook/legal/privacy/privacy-laws.html) - More information on GitLab's privacy practices.
-* [Employee Privacy Policy](/handbook/legal/employee-privacy-policy/) - GitLab's policy for how we handle the personal information of our team members.
+* [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/) - GitLab's policy for how we handle the personal information of our team members.
 * [Records Retention Policy](/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records.
 * [DM.7.03 - Data Retention and Disposal Policy ](/handbook/engineering/security/security-assurance/security-compliance/guidance/DM.7.03_data_retention_and_disposal_policy.html) - GitLab's Security Compliance policies related to data retention and disposal.
 * [Data Protection Impact Assessment (DPIA) Policy](/handbook/engineering/security/dpia-policy/) - GitLab's policies related to Data Protection.
