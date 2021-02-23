@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Pricing model
+description: "Most GitLab functionality is and will be available for free in our Free tier. Paid tiers include features targeted for managers, directors, and executives."
 ---
 
 ## On this page
