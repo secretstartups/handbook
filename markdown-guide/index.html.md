@@ -816,6 +816,8 @@ view of the table markup. The symmetry is not required.
 
 Read through the [kramdown syntax guide][kram-tables] on tables for further information.
 
+* If you want to add a numbered list in your table, make sure you have a space between the heading and the table so the table renders correctly.  Otherwise, it will look like text and formatting will not appear. 
+
 ----
 
 ## Collapse
@@ -870,6 +872,9 @@ results in:
 </details>
 </details>
 
+If you want to add a table under the collapsed heading, make sure to add 
+
+<details markdown="1">
 ----
 
 ## Code blocks
