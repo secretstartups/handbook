@@ -184,11 +184,11 @@ The teams are encouraged to contribute ideas and processes for communication her
 * [#gtm-devops-platform](https://gitlab.slack.com/archives/C01NLEXE34L)
 * [#gtm-gitops](https://gitlab.slack.com/archives/C0119FNPA84)
 
-#### Syncronous Calls
-{: #syncronous-calls}
+#### Synchronous Calls
+{: #synchronous-calls}
 <!-- DO NOT CHANGE ANCHOR -->
 
-While the majority of GTM Motion work will take place asyncronously, aligned to GitLab's efficiency value, there are certain calls which will take place via Zoom.
+While the majority of GTM Motion work will take place asynchronously, aligned to GitLab's efficiency value, there are certain calls which will take place via Zoom.
 
 **GTM Motion Kickoff Calls (in order of occurrence):**
 * GitOps: 2021-02-23 (7 am PT / 10 am ET / 3 pm UTC)
