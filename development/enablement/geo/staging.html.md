@@ -96,8 +96,13 @@ The main goals for this rotation:
 
 | Month     | Name             |
 | -----     | ------           |
+| **2021**  | |
+| May       | [`@ibaum`](https://gitlab.com/ibaum) |
+| April     | [`@alexives`](https://gitlab.com/alexives) |
+| March     | [`@vsizov`](https://gitlab.com/vsizov) |
 | February  | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
 | January   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta)|
+| **2020**  | |
 | December  | [`@brodock`](https://gitlab.com/brodock)   |
 | November  | [`@mkozono`](https://gitlab.com/mkozono) |
 | October   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
