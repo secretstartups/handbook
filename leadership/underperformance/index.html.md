@@ -121,10 +121,6 @@ At GitLab we think that giving someone a plan while you intend to let them go is
 A PIP at GitLab is not used to "check the box;" a PIP is a genuine last chance to resolve underperformance.
 You should only offer a PIP if you are confident that the team member can successfully complete it. The team member should also be committed to successfully completing the PIP and maintaining the level of performance arrived at through the PIP.  A PIP will not be successful unless both the team member and the manager believes the team member can succeed.
 
-#### Unlikely For Directors And Up
-
-For director and higher functions we are unlikely to offer a PIP and more likely to let someone go immediately after coaching hasn’t helped. We do this because the impact of their continued underperformance is greater on the rest of the organization and it takes more time to assess an improvement in performance at this level.
-
 #### SMART Goals
 As part of the PIP the manager will work with the team member to define SMART goals,.  SMART goals, allow both the manager and team member to define requirements, track progress, and improve communication of expectations for success during the PIP period.
 
@@ -207,3 +203,13 @@ When the underperformance is resolved and you want to transfer to another role, 
 ### Letting Someone Go
 
 This should be discussed with a People Business Partner before any action is taken in order to ensure it is done in compliance with local laws and regulation. As soon as you know you'll have to let someone go, do it immediately. The team member is entitled to know where they stand. Delaying it for days or weeks causes problems with confidentiality (finding out that they will be let go), causation (attributing it to another reason), and escalation (the working relationship is probably going downhill).
+
+### Underperformance in Senior Leadership
+
+Regardless of level in the organization, the expectation is that all team members are provided with both coaching and feedback prior to a decision to exit the team member. Feedback is critical to development at GitLab at all levels and should be done in real time as much as possible.
+
+However, for VP and higher roles we are unlikely to offer a formal performance remediation plan or place a VP on a formal PIP. If after documented coaching and feedback sessions the performance has not improved GitLab would move to a separation with the team member.
+
+We do this because the impact of their continued underperformance is greater on the rest of the organization.
+
+
