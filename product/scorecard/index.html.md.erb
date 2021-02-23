@@ -1,0 +1,48 @@
+---
+layout: markdown_page
+title: "Category Scorecards"
+description: "Product category scorecards"
+---
+
+<% data.sections.each do |sectionKey, section| %>
+
+---
+
+## <%= section.name %>
+
+    <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
+
+### <%= stage.display_name %>
+
+| Group | Category | Direction | Investment Plan | GMAU | Paid GMAU | Analyst Reports | Competitive Comparison | Current Maturity | Planned Maturity | UX Scorecard | Usability Issues | Dogfooding? | Works by default? | Auto DevOps | Capacity | Velocity | Top Issues | Docs |
+|-------|----------|-----------|-----------------|------|-----------|-----------------|------------------------|------------------|------------------|--------------|------------------|-------------|-------------------|-------------|----------|----------|------------|------|
+        <% stage.groups.each do |groupKey, group| %>
+            <% if group.categories %>
+                <% group.categories.each do |categoryKey| %>
+                    <% category = data.categories[categoryKey] %>
+                        <% categoryRow = [] %>
+                        <% categoryRow << "**#{group.name}**" %>
+                        <% categoryRow << category.name %>
+                        <% categoryRow << "[Direction](#{category.direction})" %>
+                        <% categoryRow << "[Investment Plan](/handbook/product/investment/##{group.name})" %>
+                        <% categoryRow << ( group.pi_gmau? ? "[GMAU](#{group.pi_gmau})" : '' ) %>
+                        <% categoryRow << ( group.pi_pgmau? ? "[Paid GMAU](#{group.pi_pgmau})" : '' ) %>
+                        <% categoryRow << ( group.analyst_reports? ? "[Analyst Reports](#{group.analyst_reports})" : '' ) %>
+                        <% categoryRow << ( group.comp_comparison? ? "[Competitive Comparison](#{group.comp_comparison})" : '' ) %>
+                        <% categoryRow << ( category.maturity? ? category.maturity.capitalize : '' ) %>
+                        <% categoryRow << '' %>
+                        <% categoryRow << ( category.ux_scorecard_link? ? "[UX Scorecard" + ( category.ux_scorecard_score? ? ": #{category.ux_scorecard_score}" : '' ) + "](#{category.ux_scorecard_link})" : '' ) %>
+                        <% categoryRow << ( category.label? ? "[Usability Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=usability&label_name[]=#{category.label})" : '' ) %>
+                        <% categoryRow << ( category.dogfooding_issue? ? "[Dogfooding" + ( category.dogfooding_status? ? ": #{category.dogfooding_status.capitalize}" : '') + "](#{category.dogfooding_issue})" : '') %>
+                        <% categoryRow << "[Works by default](/handbook/product/works-by-default/##{group.name})" %>
+                        <% categoryRow << '' %>
+                        <% categoryRow << group_engineering_total_summary(group: group) %>
+                        <% categoryRow << '' %>
+                        <% categoryRow << ( category.label? ? "[Top Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=customer&label_name[]=#{category.label})" : '' ) %>
+                        <% categoryRow << ( category.documentation? ? "[Documentation](#{category.documentation})" : '' )%>
+                        <%= "| " + categoryRow.join(' | ') + " |" %>
+                <% end %>
+            <% end %>
+        <% end %>
+    <% end %>
+<% end %>
