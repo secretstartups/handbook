@@ -29,7 +29,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | ------ | ------ |
 | [**How to reach Legal** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Overview-of-GitLab-Agreements)  |
 | [**How do I get an Agreement signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-do-I-get-an-Agreement-signed)       | [**When does GitLab negotiate**](https://about.gitlab.com/handbook/legal/customer-negotiations/#When-does-GitLab-Negotiate)  |
-| [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | [SKO 2021 Resources](https://about.gitlab.com/handbook/legal/customer-negotiations/#GitLab-Legal-SKO-2021-Resources) |
+| [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | [**SKO 2021 Resources**](https://about.gitlab.com/handbook/legal/customer-negotiations/#GitLab-Legal-SKO-2021-Resources) |
 |[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | *COMING SOON: Commonly negotiated elements* |
 | *COMING SOON: How Partner's can execute a Partner Agreement*      | *COMING SOON: What is Intellectual Property?* |
 
