@@ -133,6 +133,19 @@ The following articulates where collaboration and customer management is owned:
 1. [**Chorus**](/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
 1. [**Gainsight**](/handbook/customer-success/tam/gainsight/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
 
+## SFDC useful reports 
+
+### Tracking oportunities for your assigned SALs
+
+To ensure that opportunities are listed with the correct Order Type, [this Salesforce report](https://gitlab.my.salesforce.com/00O4M000004agfP) shows you all of the opportunities that have closed, or are soon to close, with your SALs. Tracking Order Type is important since TAM team quota and compensation depend on this. Please reference the latest [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) information to know what is counted.
+
+Next steps for you:
+
+1. Customize [this SFDC report](https://gitlab.my.salesforce.com/00O4M000004agfP) where “Account Owner = your SALs”; “TAM = You”
+1. Save report
+1. Subscribe to report when “Record Count Greater Than 0” and Frequency = Weekly (You’ll get a weekly email as a reminder to look at the report)
+1. If you find an opp that is tagged incorrectly, chatter (@Sales-Support) in the opportunity and let them know there is a mistake ([example(https://about.gitlab.com/handbook/customer-success/tam/#tam-tools)])
+
 ## Related pages
 
 - [Dogfooding in Customer Success](/handbook/customer-success/#dogfooding)
