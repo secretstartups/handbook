@@ -20,7 +20,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
 | Feb 24 | [Tracking Value with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/114#note_501849239)| **Orit Golowinski** |
-| Mar 3 |              |              |
+| Mar 3 |  [Objection Handling Techniques & Role Play](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/123#note_515649154)            |              |
 | Mar 10 |[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)  | **Julie Byrne** |
 | Mar 17 | [Gitlab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)              |  **Simon Mansfield**               |
 | Mar 24 | [Protect PM Shadow Show and Tell](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/118)              |   **Karen Kwentus**              |
