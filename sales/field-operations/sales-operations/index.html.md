@@ -412,13 +412,19 @@ Click the “Related Chatter Object” link to view the original request.
    - Always cc Brent Caldwell on the chatter for awareness.  If unsure, ask Brent to advise on correct owner/territory. 
    - Reference the [Master Territory List Public Sector Account Coverage](https://docs.google.com/spreadsheets/d/19LmWOxDegBfuPCdFK5e0voIUh7EpmF_OT4H4gY9YHUU/edit#gid=1263929675) sheet to determine the owner and the territory. The master tab will give the overview of the territory / SAL relationship.  The following tabs will list the accounts that belong in each territory.
    - NOTE: Public Sector accounts use the **Owner field** and the **Account Territory field**. These will be the only 2 fields to update for Public Sector requests. 
-
-     
-
-
-
+ 
 
 </details>
+
+<details>
+<summary markdown='span'> `Field Marketing Manager` Field Update Process Operator's Guide
+</summary>
+
+The `Field Marketing Manager` field on the account is maintained by Sales Operations. Reporting for acccounts that need updated are on the[SalesOps CleanUp Dashboard](https://gitlab.my.salesforce.com/01Z4M000000skZj).  Requests to update the field will come in through Chatter requests or Sales Operations issues for requests to change more than 10 accounts.
+
+1. Enterprise, Mid-Market and First Order accounts are updated through LeanData routing and the mapping is maintained in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293). 
+1. Named and PubSec are dataloaded manually on a monthly cadence. PubSec mapping is maintained in the Master Territory List Public Sector Account Coverage file.  Named mapping is maintained in [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293)in the Named Reps tab. 
+
 </details>
 
 ## **Sales Operations Sponsored Dashboards and Maintenance**
