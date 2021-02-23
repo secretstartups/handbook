@@ -4,9 +4,9 @@ title: "FY22 Population for Government Segmentation"
 description: "Operations, Procedures, Documentation"
 ---
 
-Population used to determine FY22 Government Segmentation - this data is frozen for FY22 and will be next reviewed for FY23 segmentation.
+Country population as used to determine FY22 Government Segmentation. This data is frozen for FY22 account planning and will next be reviewed for FY23 planning and segmentation.
 
-| Country (or dependency) | Population (2020) | Large |
+| Country (or dependency) | Population (2020) | Segment |
 | ---  | ---  | --- |
 | China | 1,439,323,776 | Large |
 | India | 1,380,004,385 | Large |
