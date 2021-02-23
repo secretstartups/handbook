@@ -808,15 +808,19 @@ a [custom class and/or a custom ID](#classes-ids-and-attributes) to the `<table>
 
 <!-- ANOTHER CHANGE NECESSARY TO ADD TO CSS ^^ -->
 
-Certain tools can help you to create your own complex table if you need merging lines or columns,
-and more advanced layouts. This is a [Table Generator] that might help you out.
+The bars, spaces, and dashes were used symmetrically in the previous example to
+help future page developers if they need to edit the table's contents. The
+symmetry isn't required.
 
-Note that the bars, spaces, and dashes were used symmetrically above just for providing a nice
-view of the table markup. The symmetry is not required.
+Some development tools can help you create your own complex table if you need
+to merge lines or columns, or if you require a more complex layout. This
+[table generator] may be able to help you do this.
 
-Read through the [kramdown syntax guide][kram-tables] on tables for further information.
+To add a numbered list in a table cell, add a blank line between the heading
+and the table to render the table correctly.  Otherwise, the text and
+formatting won't appear.
 
-* If you want to add a numbered list in your table, make sure you have a space between the heading and the table so the table renders correctly.  Otherwise, it will look like text and formatting will not appear. 
+See the [kramdown syntax guide][kram-tables] for more information about tables.
 
 ----
 
@@ -872,7 +876,7 @@ results in:
 </details>
 </details>
 
-If you want to add a table under the collapsed heading, make sure to add 
+To add a table in the collapsed heading, be sure to add:
 
 <details markdown="1">
 ----
