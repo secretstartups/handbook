@@ -12,64 +12,17 @@ title: "Production"
 If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
 {: .alert .alert-danger}
 
-If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](#who-is-the-current-eoc) section.
-{: .alert .alert-info}
-
 If you're a GitLab team member looking for help with a security problem, please see the [Engaging the Security On-Call](/handbook/engineering/security/#engaging-the-security-on-call) section.
 {: .alert .alert-info}
 
 # The Production Environment
 
-The GitLab.com production environment is comprised of _all_ the systems, code, and configurations, that operate–or support the operation of–gitlab.com. This includes, but is not limited to:
-
-- customers.gitlab.com
-- version.gitlab.com
-- ops.gitlab.net
-- dashboards.gitlab.net
-- log.gprd.gitlab.net
-- chef.gitlab.com
-- dev.gitlab.org
-
-Production is *not*:
-
-- about.gitlab.com
-- staging.gitlab.com
-- preprod.gitlab.com
-- design.gitlab.com
-- forum.gitlab.com
-
-## GitLab.com
-
-We want to make GitLab.com ready for mission critical workloads. That readiness means:
-
-1. Speedy ([speed index](/handbook/engineering/performance/#performance-target) below 2 seconds)
-1. Available (uptime above 99.95%)
-1. Durable (automated backups and restores, with regular and frequent verification and validation testing)
-1. Secure (prioritize requests of our security team)
-1. Deployable (quickly deploy and provide metrics for new versions in all environments)
-
-- View our [Availability and Response Time](http://stats.pingdom.com/81vpf8jyr1h9/4932705/2019/10) metrics month over month
-
-### Tenets
-
-1. Security: reduce risk to its minimum, and make the minimum explicit.
-1. Transparency, clarity and directness: public and explicit by default, we work in the open, striving for  signal over noise.
-1. Efficiency: smart resource usage, we should not fix scalability problems by throwing more resources at it but by understanding where the waste is happening and then working to make it disappear. We should work hard to reduce toil to a minimum by automating all the boring work out of our way.
+The GitLab.com production environment is comprised of services that operate–or support the operation of–gitlab.com.
+For a complete list of production services see the [service catalog](https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/service-catalog.yml)
 
 ## How to Get Help
 
-* To see current SRE on call for urgent requests, issue the GitLab chatops
-  command `/chatops run oncall prod`. If an issue already exists, please be ready to provide it to the SRE on call.
-
-* For [high severity issues](/handbook/engineering/quality/issue-triage/index.html#availability)
-  that require immediate attention the best way to get help is to use
-`/pd <msg>` in the `#production` channel on slack.
-
-* For non-urgent requests, open an issue in the [infrastructure tracker](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues)
-  and mention `@gitlab-com/gl-infra/managers` for scheduling.
-
-* Can I get an Infrastructure team member to join a customer call?  We will make a best effort to facilitate attendees, please create an issue in our queue with the [join customer call template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=sre_join_customer_call_request).
-
+See [how to get assistance](/handbook/engineering/infrastructure/team/reliability/#getting-assistance).
 
 ## Why `infrastructure` and `production` queues?
 
@@ -145,39 +98,6 @@ Type labels are very important. They define what kind of issue this is. Every is
 #### Services
 The services list is mentioned here : https://gitlab.com/gitlab-com/runbooks/blob/master/services/service-catalog.yml
 
-#### Services Criticality Labels:
-Service Criticality labels help us to define, how critical is the service and could be a change in the infrastructure, considering how will affect the user experience in case of a failure. I.e. `~C1` Postgresql or Redis Master. As most of the services could reach different levels of criticality we consider here the highest, also we have the template of actions for a change depending on the criticality:
-
-
-| Label | Description                                                                                       |
-|-------|---------------------------------------------------------------------------------------------------|
-| `~C1` | Vital service and is a single point of failure, if down the application will be down              |
-| `~C2` | Important service, if down some functionalities will not be available from the application        |
-| `~C3` | Service in case of some instance is down or the service, we can have performance degradation      |
-| `~C4` | Services that could be in maintenance mode or would not affect the performance of the application |
-
-
-#### Service Redundance Level
-The service redundancy level helps us to identify what services has the avaiability of failover or if there is another mechanism of redundancy.
-
-
-| Label | Description                                                 | I.e.                                  |
-|-------|-----------------------------------------------------------------------------------------------------|
-| `~R1` | The loss of a single instance will affect all the users     | Instance in PostgreSql or Redis       |
-| `~R2` | The loss of a single instance will affect a subset of users | Instance in Gitaly                    |
-| `~R3` | The loss of a single instance would not affect any user     | Instance of grafana                   |
-
-
-#### Other Labels
-
-We use some other labels to indicate specific conditions and then measure the impact of these conditions within production or the production engineering team. This is specially important from the time investment in specific parts of the production engineering team, to reduce toil or to reduce the chance of a failure by accessing to production more than enough.
-
-Labels that are particularly important for gathering data are:
-
-- `~toil` Repetitive, boring work that should be automated away.
-- `~unscheduled` An issue that became an interruption to the team and had to be handled in a Milestone. It's unplanned work.
-- `~unblocks others` An issue that is allowing some other part of the company to deliver something.
-
 ### Always Help Others
 
 We should never stop helping and unblocking team members. To this end, data should always be gathered to assist in highlighting areas for automation and the creation of self-service processes. Creating an issue from the request with the proper labels is the first step. The default should be that the person requesting help makes the issue; but we can help with that step too if needed.
@@ -186,16 +106,7 @@ If this issue is urgent for whatever reason, we should label them following the 
 
 ## On-Call Support
 
-For details about managing schedules, workflows, and documentation, see the [on-call documentation](/handbook/on-call/) and the [on-call runbook checklist](https://gitlab.com/gitlab-com/runbooks/blob/master/on-call/checklists/eoc.md).
-
-### SLA for paging On-Call team members
-When an on-call person is paged, either via the /pd command in slack or the automated monitoring systems, the SRE member will have a 15 minute SLA to acknowledge or escalate the alert.
-
-This is also noted in the [On-Call section of the handbook](/handbook/on-call/).
-
-Because GitLab is an asynchronous workflow company, @mentions of On-Call individuals in slack will be treated like normal messages and no SLA for response will be attached or associated with them.  This is also because notifications over phones via Slack have no escalation policies.  PagerDuty has policies that team members and rotations can configure to make sure an alert is escalated when no person has acknowledged the alert.
-
-If you need to page a team member from slack - you can do the /pd "your message to the on-call here" to send out an alert to the currently on-call team members.
+For details about managing schedules, workflows, and documentation, see the [on-call documentation](/handbook/on-call/).
 
 ### On-Call escalation
 
@@ -207,14 +118,11 @@ The SRE team's primary responsibility is availability of gitlab.com. For this re
 
 ## Production Events Logging
 
-There are 2 kind of production events that we track:
+All configuration, deploys and feature flag events are recorded in Elastic Search using the events index.
+To access events and for more information about how they are logged see the [events runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/events/README.md).
 
-- Changes to the production fleet: for this we record things [in the Chef Repo](https://dev.gitlab.org/cookbooks/chef-repo).
-  - Deploys will be recorded automagically because of the way we do deploys.
-  - General operations can be recorded by creating an empty commit in the repo and pushing it into origin.
-- Outages and general production incidents
-  - If we are required to act in production manually to perform any operation we should create an issue and consider labeling it as _toil_ to track the cost of such manual work load.
-  - If we had a disruption in the service, we must create a blameless root cause analysis. Refer to the [Blameless Root Cause Analyses page](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html)
+These events include deploys, feature-flags, configuration (Chef, Terraform), and all Kubernetes changes.
+Events are recorded separately for the staging and production environment.
 
 ### Incident Subtype - Abuse
 

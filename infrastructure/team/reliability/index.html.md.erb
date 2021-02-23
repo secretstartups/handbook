@@ -39,11 +39,11 @@ Reliability Engineering is responsible for all of GitLab's user-facing services,
 
 The Reliability Engineering team is composed of [DBRE](/job-families/engineering/infrastructure/database-reliability-engineer/)s and [SRE](/job-families/engineering/infrastructure/site-reliability-engineer/)s. As the role titles indicate, they have different areas of specialty but shared ownership of GitLab.com's availability. The team is broken down into three sub-teams, each with their own area of ownership.
 
-#### Core Infra 
+#### Core Infra
 
 [Team Page](/handbook/engineering/infrastructure/team/reliability/core-infra/)
 
-The Core Infra teams owns core infrastructure tooling, network ingress/egress, CDNs, DNS, and secrets management. 
+The Core Infra teams owns core infrastructure tooling, network ingress/egress, CDNs, DNS, and secrets management.
 
 <%= partial "handbook/engineering/infrastructure/team/reliability/core-infra/_core_infra_team.html" %>
 
@@ -88,7 +88,7 @@ Observability is:
 
 Each team withing Relaibility manages its own backlog and has its own sprints.
 
-| Team | Team Label | Backlog Board | Sprint Board | 
+| Team | Team Label | Backlog Board | Sprint Board |
 | ------ | ------ | ------ | ------ |
 |Core Infra|`~team::Core-Infra`|[Core Infra - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688513?milestone_title=No+Milestone&&label_name[]=team%3A%3ACore-Infra)|[Core Infra - Sprint](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688496?milestone_title=%23started&&label_name[]=team%3A%3ACore-Infra)|
 |Datastores|`~team::Datastores`|[Datastores - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688521?milestone_title=No+Milestone&&label_name[]=team%3A%3ADatastores)|[Datastores - Sprint](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=%23started&&label_name[]=team%3A%3ADatastores)|
@@ -101,30 +101,31 @@ Issues in team backlogs come from two sources:
 #### Work Generated Internally by a Reliability Team
 1. The teams themselves derive ideas for work that align with their areas of ownership and their roadmap. An issue is created with the team's label and the `~"workflow-infra::Triage"` label, this automatically places it on the team's backlog board.
 1. The issue then takes one of several paths on the team's backlog either:
-   1. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. 
-   1. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. 
+   1. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added.
+   1. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added.
    1. closed if it is determined it won't be pulled into a sprint in the near future and the  `~"workflow-infra::Triage"` label is removed.
 
 #### Work Generated Externally to the Reliability Team
 1. Work is generated from a group outside of a specific Reliability team and an issue is created with the labels `~"team::Reliability"` and `~"workflow-infra::Triage"`. This places it on the `Reliability - Backlog` board and in a triage process for assignment to the correct subteam.
 1. Using the `Reliability - Backlog` board, the daytime IMOC reviews the board for issues in the `~"workflow-infra::Triage"` column and the issue is either:
-   1. moved to the appropriate team board by removing the `~"team::Reliability"` label and adding the appropriate team label. 
-   1. closed if it is determined it won't be pulled into a sprint in the near future and the `~"workflow-infra::Triage"` label is removed. 
+   1. moved to the appropriate team board by removing the `~"team::Reliability"` label and adding the appropriate team label.
+   1. closed if it is determined it won't be pulled into a sprint in the near future and the `~"workflow-infra::Triage"` label is removed.
    1. brought to the Reliability managers sync meeting to be triaged by the group.
 1. If the issue made it to a team backlog board, it will be processed by the team and either:
-   1. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. 
-   1. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added. 
+   1. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added.
+   1. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added.
    1. closed if it is determined it won't be pulled into a sprint in the near future and the  `~"workflow-infra::Triage"` label is removed.
 
 
 ## Getting Assistance
 
-If you'd like our assistance, please use one of the two issue generation templates below and the work will be routed appropriately.
+If you're a GitLab team member and are looking to alert Reliability Engineering about an availability issue with GitLab.com, please find quick instructions to report an incident here: [Reporting an Incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).
+{: .alert .alert-danger}
 
-[Open a General Request Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-general) - follow this link to create a general issue for Reliability Engineering.
+If you'd like our assistance, please use one of the issue generation templates below and the work will be routed appropriately:
 
-[Open a Customer Questions and Sales Enablement Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-sales-enablement) - follow this link to seek assistance in answering questions for prospects or current customers.
+* [Open a General Request Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-general) - follow this link to create a general issue for Reliability Engineering.
+* [Open a Customer Questions and Sales Enablement Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-sales-enablement) - follow this link to seek assistance in answering questions for prospects or current customers.
+* [Open a request for Infrastructure to join customer call](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=sre_join_customer_call_request).
 
 We can also be reached in Slack in the [#production](https://gitlab.slack.com/archives/C101F3796) channel for questions related to GitLab.com and in the [#infrastructure-lounge](https://gitlab.slack.com/archives/CB3LSMEJV) channel for all other questions.
-
-
