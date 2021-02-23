@@ -86,7 +86,7 @@ Other teams leverage Google Slides for their meetings.
 Some teams leverage Sisense's existing automation functionality to prepare Google Slides with automated charts. 
 
 Important notes:
-1. Before every key meeting, the [OKR page](/company/okrs/) for the quarter should be updated with the current status of the KRs.
+1. Before every key meeting, the OKRs should be updated by the functional DRI by updating the Health Status of their KR issues as detailed in [Maintaining the status of OKRs](https://about.gitlab.com/company/okrs/#maintaining-the-status-of-okrs)
 1. A document will be linked from the calendar invite for participants to log questions or comments for discussion and to any additional track decisions & action items.
 1. Every department KPI should be covered. This can be in the presentation and/or links to the handbook.
 1. Wherever possible, the KPI or KR being reviewed should be compared to Plan, Target, or industry benchmark.
@@ -175,4 +175,4 @@ OKR slides should:
 - Flag key achievements
 - Highlight risks or dependencies in need of discussion
 
-At the end of each meeting, all atendees should be able to clearly answer what we are trying to achieve and whether we are on track. The key meeting immediately following the close of quarter should address not only new OKRs but also provide a recap of what we have achieved in the previous quarter.
+At the end of each meeting, all atendees should be able to clearly answer what we are trying to achieve and whether we are on track. The key meeting immediately following the close of quarter should address not only new OKRs but also include an update on [scoring](https://about.gitlab.com/company/okrs/#scoring-okrs) of what we have achieved in the previous quarter.
