@@ -13,7 +13,7 @@ description: “Discover how GitLab Scopes Professional Services for custom SOWs
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-The pupose of this page is to document the sales-assisted selling motion used by Professional Services Engagement Managers and Regional Delivery Managers. If you're on a GitLab sales account team looking for information, try these pages on [positioning professional services](/handbook/customer-success/professional-services-engineering/positioning) or [selling professional services](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services). 
+The purpose of this page is to document the sales-assisted selling motion used by Professional Services Engagement Managers and Regional Delivery Managers. If you're on a GitLab sales account team looking for information, try these pages on [positioning professional services](/handbook/customer-success/professional-services-engineering/positioning) or [selling professional services](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services). 
 
 This page will help outline the when and how to get involved with positioning and scoping services, how to estimate, how to use SOW generation software, and the processes to gain approval. 
 
@@ -24,31 +24,52 @@ For custom SOWs, the [workflow for SOW creation](/handbook/customer-success/prof
 ![](./scoping-workflow.png)
 [Source](https://docs.google.com/presentation/d/1TOI2aoseBoyWYQC6-xpJVMknEncCNreSFfMvOHO7EBA/edit#slide=id.gbfb62d0c00_0_58) (GitLab Team Members Only)
 
-## When to get involved with positioning/scoping services
-### Land
-The answer to this question depends on the customer size. For the larger, more strategic customers Engagement Managers tend to get involved earlier in the selling process to help with discovery and provide lessons learned on rollout from past engagements. For the medium sized customers, Engagement managers tend to get involved with account teams when the SFDC stage 4 (Proposal) is achieved. As of publication of this page (Feb 2022), its the responsibility of the account team (SA, SAL) to get in touch with the Engagement manager in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel.
+## Positioning
 
-### Expand
-If an account team is trying to help a customer expand to use a new stage in the software or increase tier to get access to features they didnt have before or even when a company has a new influx of users onboard to GitLab, it could merit positioning of services. As of publication of this page (Feb 2022), its the responsibility of the account team (TAM, SAL) to get in touch with the Engagement manager in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel.
+### MEDDPICC
+Professional services can be positioned when a prospect becomes a customer (e.g. the Land of a new deal) or when an already existing customer is growing their staff or interesting in adopting new features of GitLab (e.g. expansion). The SA, SAL, AE, or TAM (e.g. "Account Team") is primarily responsible for this process, following the [Command of the Message](/handbook/sales/command-of-the-message/) and [MEDDPICC](/handbook/sales/meddppicc/) messaging frameworks.
 
-## How to get involved with positioning/scoping services
-The Engagement Manager can respond to questions direclty in slack or can request to meet with the account team to discuss the request in more detail. When a request is qualified (i.e. we agree that proposing PS engagement makes sense), the SA/TAM is responsible for creating a scoping issue via the [services calculator](https://services-calculator.gitlab.io/). The services calculator will generate a number of issues to help facilitate the scoping and SOW signature process ([example](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/epics/826), GitLab team members only). 
+For the larger, more strategic customers PS Engagement Managers tend to get involved earlier in the selling process to help with discovery and provide lessons learned on rollout from past engagements. For the medium sized customers, Engagement managers tend to get involved with account teams when the SFDC stage 4 (Proposal) is achieved. 
 
-After the services calculator is run by the SA, scoping issues are automatically created and land in the [PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues) Project. Using this customer scoping issue, there is usually asyncronous data gathering that happens directly on the issue. Questions about the potential engagement can sometimes be answered by the SA from the discovery that was done already. We want to make sure we avoid asking duplicative questions to the customer. Once the initial data is gathered, the Engagement Manager meets with the account team and customer to discuss how PS could help ensure the Customer's goals are achieved with their investment in GitLab. This can and should be iterative. 
+### Customer Success Discovery
+The Account team should be encouraged to use the [Customer Terrain Mapping templates](/handbook/customer-success/customer-terrain-mapping/#catalog-of-customer-terrain-mapping-engagements) to help the customer to start thinking about *how* they will achieve their longer term success. This typically results in conversations about services to aide them in their journey. 
 
-## Discovery questions
+### Services Needed
+Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to get in touch with the Engagement Manager in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel and/or by running the [services calculator](https://services-calculator.gitlab.io/)
+
+## Scoping
+
+### Gather Data
+After the [services calculator](https://services-calculator.gitlab.io/) is run by the Account Team, scoping issues are automatically created and land in the [PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues) Project. Using this customer scoping issue, there is usually asyncronous data gathering that happens directly on the issue. Questions about the potential engagement can sometimes be answered by the SA from the discovery that was done already. We want to make sure we avoid asking duplicate questions to the customer. Once the initial data is gathered, the Engagement Manager meets with the account team and customer to discuss how PS could help ensure the Customer's goals are achieved with their investment in GitLab. This can and should be iterative. 
+
+### Create Strawman
+The Engagement Manager uses the [straw-man spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](/handbook/customer-success/professional-services-engineering/framework) page. 
+
+### Iterate / Review Strawman
 TODO
 
-## Scoping & Estimation
-The Engagement Manager uses the [straw-man spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. Once the Engagement Manager can get buy in from the account team and/or customer on the size and activities included in the services engagement, the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) can be run using the straw-man as an input. To use this automation, follow the instructions on the readme in the :point_up: project. 
+### Generate SOW
+Once the Engagement Manager can get buy in from the account team and/or customer on the size and activities included in the services engagement, the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) can be run using the straw-man as an input.  To use this automation, follow the instructions on the readme in the :point_up: project.
 
-## Review & Approval
-Once the SOw is generated, it is ready for review by the account team. After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. These review processes happen in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) and **at-mention** the specific people from whom the engagemenet manger is seeking approval. 
+### Iterate/Review SOW Data
+Once the SOw is generated, it is ready for review by and the account team.
 
-Once the SOW has been approved by PS leadership, the account team is owns the process of acquiring signature from the customer representative. They will also be responsible for updating the salesforce PS Only object. 
+### SOW Review/Approval
+After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. These review processes happen in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) and **at-mention** the specific people from whom the engagemenet manger is seeking approval.
 
-## Pre-sales to Delivery Handoff
-Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) services methodology to see how the pre-sales handoff is facilitated via GitLab issues, Salesforce Objects and handoff meetings. Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occured before the sale closed. 
+## SOW Execution
+
+### Finance & Legal Approval, Customer Signature
+Once the SOW has been approved by PS leadership, the account team is owns the process of executing the SOW. The engagement manager can kick off the finance approval process in Salesforce. The Account team is responsible for creating a Legal Approval in Salesforce from the button in the opportunity. Once PS Sr. Director, Finance, and Legal approve, they will should send it to the customer for signature.
+
+### Deal Desk updates SFDC
+Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Only opportunity to `closed-won`. 
+
+### Journal Epic
+TODO: 
+
+## Delivery Handoff
+Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) services methodology to see how the pre-sales handoff is facilitated via GitLab issues, Salesforce Objects and handoff meetings. Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed. 
 
 <!--This page provides scoping questions designed to collect details and uncover the customer's required capabilities. This ensures alignment of the SOW and PS delivery with the positive business outcomes the customer is looking for.  While not an exhaustive list, these questions and suggestions will help spark the discovery conversations.
 
