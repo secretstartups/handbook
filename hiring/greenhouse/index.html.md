@@ -182,6 +182,7 @@ Below is a list of the various access levels, by team, and what they generally e
             1. Updating a requisition's *Approval Chain*.
             1. By-passing a requisition's approval after updating its information.
                 * This by-pass is **only** permitted if the requisition was already fully approved.
+            1. Adding or removing *Recruiting Agencies* and *Agency Recruiters*.    
 - Any user on a Hiring Team that is expected to interview candidates or review applications should be assigned permissions for **only** the vacancies where their participation is expected.
 - All other users should be assigned `Basic` permissions.
 
