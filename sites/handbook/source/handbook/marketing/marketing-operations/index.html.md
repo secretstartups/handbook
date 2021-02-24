@@ -188,9 +188,9 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 
 The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. 
 
-### Operational Timeline of Changes
+### Marketing Changelog
 
-Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made.
+Periodically Marketing Operations and other teams through the marketing org make significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made. If you are working on an issue or epic that will have a significant impact across marketing, add the label `MktgOps - changelog` so marketing oeprations can track changes across GitLab.
 
 ### PagerDuty and Emergency Comms
 
