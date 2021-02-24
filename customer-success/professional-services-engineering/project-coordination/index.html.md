@@ -9,7 +9,7 @@ category: Internal
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Financial Wrap-up
+# Professional Service Operations 
 Once SOW items have been delivered and ready for billing and/or revenue recognition, the following should be completed:
 
 ## Project Expenses
