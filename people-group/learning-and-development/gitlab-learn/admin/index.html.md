@@ -553,6 +553,17 @@ graph TD
     B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D]
 ```
 
+#### SLAs for temporary support workflow
+
+GitLab team members should work towards responding to internal and external requests for support based on the following SLAs:
+
+| Audience | Support Method | SLA |
+| ----- | ----- | ----- |
+| Team Members | Slack support from L&D team | 2 business days |
+| Customers | Zendesk support from PS team | TBD by PS Team |
+| Community Members | Zendesk support from PS or L&D teams | 1 week |
+| Community Members | Fourm support from L&D team | 1 week |
+
 Workflows, email templates, and outlines below will remain the same for this temporary support model.
 
 ### End goal Support Model
