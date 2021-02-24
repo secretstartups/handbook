@@ -146,7 +146,7 @@ For a global view of current and next fiscal quarter channel renewals, [click he
 
 ### Policy and Process
 
-All channel opportunities require a Partner to submit a Deal Registration via the Partner Portal in order to receive programmatic discounts. In the event that a Partner does not submit a Deal Registration (ex: Alliances, GSIs), but it is a Partner Sourced deal, the logic needs to match '`nitial Source = Channel Qualified Lead` and `Sales Qualified Source = Channel Generated` on the opportunity. For more details on the partner deal registration process and program go [here](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).
+All channel opportunities require a Partner to submit a Deal Registration via the Partner Portal in order to receive programmatic discounts. In the event that a Partner does not submit a Deal Registration (ex: Alliances, GSIs), but it is a Partner Sourced deal, the logic needs to match '`Initial Source = Channel Qualified Lead` and `Sales Qualified Source = Channel Generated` on the opportunity. For more details on the partner deal registration process and program go [here](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).
 
 _Note: The Partner Portal is Impartner which has SSO enabled with Vartopia which is the Partner facing Deal Registration system. Managed Services team are 3rd party resources that will help manage administrative processes for Deal Registration._
 
