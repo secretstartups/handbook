@@ -125,8 +125,6 @@ Following what we know about the stages of adoption, we are prioritizing our top
 
 The Editorial team's [goals are to grow our blog audience, engage readers, and covert readers into subscribers](/handbook/marketing/inbound-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers). To achieve this our strategy is guided by our existing audience's needs and wants; prioritizing useful, educational, informative, and entertaining content that has value beyond promoting GitLab. 
 
-The long-term vision for meeting these goals is to launch a [branded editorial site](/handbook/marketing/inbound-marketing/content/editorial-team/#tactics--launch-a-branded-editorial-site), to help establish GitLab as a trusted resource on software development, DevOps, collaboration, and remote work. 
-
 In FY21-Q3 and -Q4 the areas of focus for the Editorial team are laying the foundations for launching the editorial site:
 
 - Continue to monitor traffic to posts and document takeaways on performance to inform our planning of future posts
