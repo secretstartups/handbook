@@ -41,10 +41,14 @@ On top of our development roadmap, engineering teams need to respond to addition
 This increases context switching and depending on the load this can drastically impact our ability to achieve our plan.
 As a result, the Composition Analysis Backend team is actively reserving capacity each iteration to triage and address these requests.
 Each month, an engineer is designated to handle these responsibilities.
-There is no formal process yet, volunteers are welcome and rotation is expected.
+There is no formal designation process yet, volunteers are welcome and rotation is expected.
 
 #### Responsibilities
 
+1. Monitor slack channels for questions, support requests, and alerts. While other team members may respond to these requests, the engineer assigned to the reaction rotation is expected to handle them primarily.
+    - [#g_secure-composition-analysis](https://gitlab.slack.com/archives/CKWHYU7U2)
+    - [#s_secure](https://gitlab.slack.com/archives/C8S0HHM44)
+    - [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU) 
 1. Triage vulnerabilities reported on the projects we maintain and help resolving them depending on their priority. (See [Security vulnerabilities triaging process](#security-vulnerabilities-triaging-process))
 1. Triage and work with community contributors to help drive their MRs to completion. (See [Community contributions triaging process](#community-contributions-triaging-process))
 1. Triage bugs and resolve them when given `~priority::1`. (See [Bugs triaging process](#bugs-triaging-process))
