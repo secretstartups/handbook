@@ -166,7 +166,7 @@ Greenhouse has a variety of user-permissions for ensuring that team members have
 
 Below is a list of the various access levels, by team, and what they generally entail:
 
-- The **Recruiting Team** (*excluding* the VP of Recruiting, Recruiting Program Analyst, Recruiting Operations Coordinator, and  Manager, Recruiting Operations) should be assigned `Job Admin: Recruiting` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer or Coordinator).
+- The **Recruiting Team** (*excluding* the Recruiting Program Analyst and Recruiting- and Sourcing Lead(s)/Manager(s) should be assigned `Job Admin: Recruiting` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer or Coordinator).
 - The **People Success Team** (*excluding* the CPO and Recruiting Team) should be assigned `Job Admin: People Success` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
 - All **Executives** (*excluding* the CEO and CPO) should be assigned `Job Admin: Job Approver` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. Such permissions allow them the same access as a Hiring Manager, plus the ability to approve new vacancies and offers.
 - All **Hiring Managers** (*excluding* Executives) should be assigned `Job Admin: Hiring Manager` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. However, there are a few exceptions:
@@ -176,7 +176,13 @@ Below is a list of the various access levels, by team, and what they generally e
         * In this scenario, they should be add as a Hiring Team member for that requisition only.
 - All **Executive Assistants** should be assigned `Job Admin: Scheduling` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
 - Any user that needs to access all vacancies and data, including diversity data, should be assigned `Site Admin` permissions.
-    * The current `Site Admins` include: the VP of Recruiting, Recruiting Program Analyst, Recruiting Operations Coordinator, and Manager, Recruiting Operations.
+    * The current `Site Admins` include: the Recruiting Program Analyst,  Recruiting- and Sourcing Lead(s)/Manager(s).
+        * Leads and Managers will use their `Site Admin` permissions in the following scenarios:
+            1. Updating a requisition's Department.
+            1. Updating a requisition's *Approval Chain*.
+            1. By-passing a requisition's approval after updating its information.
+                * This by-pass is **only** permitted if the requisition was already fully approved.
+            1. Adding or removing *Recruiting Agencies* and *Agency Recruiters*.    
 - Any user on a Hiring Team that is expected to interview candidates or review applications should be assigned permissions for **only** the vacancies where their participation is expected.
 - All other users should be assigned `Basic` permissions.
 
@@ -205,7 +211,7 @@ There are additional "User-Specific Permissions" listed beneath the job-based pe
 1. For the Recruiting Team, check off each additional option.
 1. Site Admins should typically have access to all of the additional options, but *always* be sure to check off `Can see EEOC and demographic reports`, `Can create and view private candidates`, and `Can see private notes, salary info, manage offers, and approve jobs/offers`.
 
-#### Adding an agency recruiter to Greenhouse
+#### Adding an Agency Recruiter to Greenhouse
 
 To add an agency recruiter to Greenhouse and their agency doesn't exist, then a [new agency](https://support.greenhouse.io/hc/en-us/articles/201078255-Add-a-New-Agency) will need to be created. If the agency does exist, this is how to add a [new recruiter](https://support.greenhouse.io/hc/en-us/articles/200666389).
 
