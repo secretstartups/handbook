@@ -68,6 +68,9 @@ Some of our GitLab team-members in the Netherlands have a "werkvergunning" or wo
 
 Here is a [generally but not authoritative helpful guide](http://www.expatica.com/nl/visas-and-permits/When-your-residence-permit-expires-or-you-want-to-leave-the-Netherlands_108416.html) on considerations around permit extensions.
 
+1. Some important notes before you arrange travel / depart to the Netherlands: 
+- **A direct flight to the Netherlands is required, indirect travel may result in entry refusal** 
+
 #### 30% Ruling in the Netherlands
 
 The [30% reimbursement ruling](https://www.iamsterdam.com/en/living/take-care-of-official-matters/highly-skilled-migrants/thirty-percent-ruling) (better known as the 30% ruling) is a tax advantage for highly skilled migrants moving to the Netherlands. This benefit, granted for five years, allows them to receive 30% of their employment income tax free. As an example, when your employment income is EUR 60,000; the 30% ruling ensures a net pay of EUR 18,000. The remainder of EUR 42,000 is subject to Dutch taxes. In addition, when being entitled to the 30% ruling you can exclude your savings from Dutch income tax (which can be beneficial once you have exercised your stock options).
@@ -99,26 +102,14 @@ It is possible to make an appointment within 2 weeks.
 
 ### Right to Immigrate to the Netherlands
 
-Everyone that meets the following requirements can move to the Netherlands, you will also still need to pass the formal visa application process to qualify.
-If you meet the requirements kindly read our [Relocation section](/handbook/people-group/employment-solutions/#long-term-relocation) in our Handbook, to ensure your request has been evaluated and approve. Email Peopleops@ gitlab.com if you have any questions.
-If you don't meet a requirement you have to file a request with your manager, please indicate clearly which requirements you meet and which ones you do not meet.
+Everyone that meets the following three requirements can request to immigrate and relocate to the Netherlands, but you will also still need to pass the formal visa application process to qualify. The three requirements are:
 
 - When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) (also note, that the Dutch government has a higher requirement for team members aged 30 and above). The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
 _Note: This calculation should be based on what GitLab *would* pay the team member in the Netherlands in accordance with the compensation calculator, *not* based on the team member's current salary._ 
 - You have been a team member at GitLab for one year.
 - You are not on a Performance Improvement Plan (PIP).
 
-The steps our People Operations Specialist team uses to support relocation to the Netherlands:
-1. Once approval has been gained based during the [Relocation process](/handbook/people-group/employment-solutions/#how-to-apply-for-a-long-term-relocation) and the requirements to relocate to the Netherlands have been met, a member of the People Operations Specialist team will add the approval to BambooHR under "Contracts & Changes".  
-1. Next, the People Operations Specialist will reach out to our Payroll vendor in the Netherlands and cc the team member in the email to the vendor.
-1. The vendor will then supply all the documentation needed to apply for relocation including information about: [30% Ruling Questionnaire](https://docs.google.com/document/d/1Ok6LS9T4P6tnPu2N6BDRDeveOYzd1ILpkbQRhl911w4/edit?ts=5caf1bca), [wage tax](https://drive.google.com/file/d/1q8N-idoYGFSCw2ajat9RscfQ004EL-PS/view) form and potentially an application for a BSN Number.
-1. Some important notes before you arrange travel / depart to the Netherlands: 
-- **A direct flight to the Netherlands is required, indirect travel may result in entry refusal**, 
-- **During COVID a letter stating your requirement to relocate to the Netherlands at such time is required, the People ops specialist will provide the vendor with such, using the following [template](https://docs.google.com/document/d/1yE7DrHBLOj0blBJwaOIC8f2bLMFS10wYUZvg9BqjnF4/edit?ts=5e592e30)** 
-- **A completed health declaration form, the vendor will provide this to you**.
-5. Details on that process can be found under the BSN number section on the [visas page](/handbook/people-group/visas/#bsn-number) in the handbook.
-6. The People Operations Specialist team will need to review if the position is in development or research, it likely qualifies for [WBSO (R&D tax credit)](/handbook/people-group/#wbso-rd-tax-credit-in-the-netherlands); add to the WBSO hour tracker and inform our WBSO consultant. If you have any questions, feel free to ping our People Business Partner that is currently located in the Netherlands or our Director of Tax, also located in the Netherlands that can help evaluate eligibility.
-7. Once the approved Visa and 30% ruling is received by the team member, the team members should email this to PeopleOps for filing in BambooHR.
-8. The People Operations team should also notify the Total Rewards and Payroll team regarding the completion of the relocation.
+If you meet these requirements, kindly read our [Relocation](/handbook/people-group/employment-solutions/#long-term-relocation) section, as well as our specific [Netherlands](/handbook/people-group/employment-solutions/#relocating-to-the-netherlands) section in our Handbook, to ensure that your request is evaluated and approved following our protocols. Please email peopleops@ gitlab.com if you have any questions.
+If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. If you receive full manager approval, please forward that approval to peopleops @gitlab.com at the start of the process. Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.
 
-Important:  If the team member has been with GitLab for two or more years at the time they are asking to relocate to the Netherlands, the team member should be issued with an indefinite contract 
+
