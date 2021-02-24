@@ -733,6 +733,33 @@ Sincerely,
 Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
 ```
 
+#### I can't see all the content in a Pathway or Journey on GitLab Learn.
+
+##### Support Workflow
+
+1. Confirm which content the user is trying to view.
+1. Respond with macro explaining internaly only content.
+
+##### Response
+
+```
+Dear {{user.firstname}}
+
+Thanks for reaching out with your question about GitLab Learn.
+
+Can you please clarify which Pathway or Journey you're having trouble accessing? Please include a link to the content in your response.
+
+Please note that not all learning content on the GitLab Learn platform is available to our wider community. As we grow, we'll release additional learning Pathways and Journeys for you to continue your personal and professional development.
+
+If you have any suggetsions of content you'd like to see in the GitLab Learn platform, please post in our GitLab Community Forum.
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+
+```
 
 #### ?
 ##### Support Workflow
