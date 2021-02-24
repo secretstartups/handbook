@@ -29,6 +29,35 @@ OneTrust is privacy, security, and data governance software that marketing uses 
 1. [Script Integration - Publishing the Cookie Banner Script Implementation Webinar](https://my.onetrust.com/articles/en_US/Knowledge/Script-integration-Publishing-the-Cookie-Banner-Script-Implementation-Webinar?r=56&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1)
 1. [Cookie Blocking - Blocking Cookies via Tag Managers and HTML Implementation Webinar](https://my.onetrust.com/articles/en_US/Knowledge/Cookie-Blocking-Blocking-cookies-via-Tag-Managers-and-HTML?r=56&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1)
 
+## System default roles
+
+1. **Assessments Manager:** Assessments Managers are business users who have access to most everyday and some administrative functions in the Assessment Automation module. By default, Assessments Managers have limited access to destructive and configuration functions.
+1. **Audit Manager:** Audit Managers are business users who have access to most everyday and some administrative functions in the Audit Management module. By default, Audit Managers have limited access to destructive and configuration functions.
+1. **Auditor:** Auditor users are business users who have access to a limited set of functions in the Audit Management module. By default, Auditors can contribute to workpaper results and log findings and have no access to destructive and configuration functions.
+1. **Awareness Training Learner:** Awareness Training Learners are low-level users who can only access training courses that have been assigned to them. Awareness Training Learners do not have access to any administrative functions.
+1. **Awareness Training Manager:** Awareness Training Managers are business users who have access to most everyday and some administrative functions in the Awareness Training module. By default, Awareness Training Managers have limited access to destructive and configuration functions.
+1. **Consent Manager:** Consent Managers are business users who have access to most everyday and some administrative functions in the Universal Consent & Preference Management module. By default, Consent Managers have limited access to destructive and configuration functions.
+1. **Cookie Manager:** Cookie Managers are business users who have access to most everyday and some administrative functions in the Cookie Compliance module. By default, Cookie Managers have limited access to destructive and configuration functions.
+1. **Data Mapping Manager:** Data Mapping Managers are business users who have access to most everyday and some administrative functions in the Data Mapping module. By default, Data Mapping Managers have limited access to destructive and configuration functions.
+1. **Data Subject Requests Manager:** Data Subject Requests Managers are business users who have access to most everyday and some administrative functions in the Data Subject Requests module. By default, Data Subject Requests Managers have limited access to destructive and configuration functions.
+1. **Enterprise Policy Manager:** Enterprise Policy Managers are business users who have access to most everyday and some administrative functions in the Enterprise Policy module. By default, Enterprise Policy Managers have limited access to destructive and configuration functions.
+1. **Incidents Manager:** Incidents Managers are business users who have access to most everyday and some administrative functions in the Incidents module. By default, Incidents Managers have limited access to destructive and configuration functions.
+1. **Invited:** Invited users have minimal access to the application. By default, Invited users can only access assessments which they have been invited to complete. The application is only accessible to these users through the link provided to them via email. Invited users are added by email address from an assessment. Invited users cannot be created on the Users screen.
+1. **IT Risk Manager:** IT Risk Managers are business users who have access to most everyday and some administrative functions in the IT Risk Management module. By default, IT Risk Managers have limited access to destructive and configuration functions.
+1. **Maturity & Planning Manager:** Maturity & Planning Managers are business users who have access to most everyday and some administrative functions in the Maturity & Planning module. By default, Maturity & Planning Managers have limited access to destructive and configuration functions.
+1. **Privacy Notice Author:** Privacy Notice Authors are business users who have access to creating, viewing, and editing all privacy notices. By default, Privacy Notice Authors have no access to destructive and configuration functions.
+1. **Privacy Notice Manager:** Privacy Notice Managers are business users who have access to most everyday and some administrative functions in the Policy & Notice Management module. By default, Privacy Notice Managers have limited access to destructive and configuration functions.
+1. **Privacy Notice Viewer:** Privacy Notice Viewers are business users who have access to viewing current versions of privacy notices. By default, Privacy Notice Viewers have no access to destructive and configuration functions.
+1. **Privacy Officer:** Privacy Officer users are high-level users who have access to most functions in the application. By default, Privacy Officer users do not have access to administrative and destructive functions such as audit logging, deletion, and integrations. 
+1. **Program Benchmarking Manager:** Program Benchmarking Managers are business users who have access to most everyday and some administrative functions in the Program Benchmarking module. By default, Program Benchmarking Managers have limited access to destructive and configuration functions.
+1. **Project Owner:** Project Owner users are business users who have access to everyday functions in the application. By default, Project Owner users have limited access to administrative, destructive, and configuration functions. Project Owner users can launch assessments, review inventory data, view scan results, and complete other everyday business tasks. 
+1. **Project Respondent:** Project Respondent users can create a password to log into the application and access a list of all assessments assigned to them. Project Respondents can be assigned assessments, risks, and needs more information requests, respond to assigned assessments, and add comments to assessments.
+1. **Project Viewer:** Project Viewer users have read-only access to the application. By default, Project Viewer users can view information, but cannot make any changes or respond to assessments. Project Viewer users cannot be selected as the respondent for an assessment.
+1. **Site Admin:** Site Admin users have complete access to the application. By default, all permissions are enabled for Site Admin users. 
+1. **Vendor Manager:** Vendor Managers are business users who have access to most everyday and some administrative functions in the Vendor Risk Management Module. By default, Vendor Managers have limited access to destructive and configuration functions.
+
+Custom roles can also be created. More in [this support article](https://my.onetrust.com/s/article/UUID-9f1679fe-3d0a-713a-c995-cd391d39f5c1) (login required).
+
 ## Implementation
 
 [See the epic](https://gitlab.com/groups/gitlab-com/-/epics/1265) for more information.
@@ -110,11 +139,11 @@ From the bell icon, you can download the results (`.xlsx`).
 
 These cookie categories are standard and the defaults provided by OneTrust: 
 
-1. Strictly necessary cookies: the website needs these cookies in order to function properly (example: identify items placed into a shopping cart)
-1. Performance cookies: get information about how site visitors are using the website (example: Google analytics)
-1. Functional cookies: provide additional enhancement of the experience of site visitors (example: language selector for localization)
-1. Targeting cookies: cookies that attempt to gather more information about a user in order to personalize marketing (example: remarketing)
-1. Social media cookies: social media services added to the site that enable users to share content with their friends and networks easily
+1. **Strictly necessary cookies:** the website needs these cookies in order to function properly (example: identify items placed into a shopping cart)
+1. **Performance cookies:** get information about how site visitors are using the website (example: Google analytics)
+1. **Functional cookies:** provide additional enhancement of the experience of site visitors (example: language selector for localization)
+1. **Targeting cookies:** cookies that attempt to gather more information about a user in order to personalize marketing (example: remarketing)
+1. **Social media cookies:** social media services added to the site that enable users to share content with their friends and networks easily
 
 You also have the ability to create a new cookie cateogory.
 
@@ -130,3 +159,5 @@ Cookies in the `Unknown` category need to be categorized manually with help from
 1. You also have the option to bulk categorize cookies by selecting multiple cookies from the list. Select all cookies or specific cookies from the list, then click the double-arrow icon to bulk edit the categories of those cookies.
 1. Use the search bar to search for specific cookies by the cookie name or the host name. 
 1. Use the filter icon to filter down to specific types of cookies by their category, domain, lifespan, or hostname (example: only view functional cookies). 
+
+
