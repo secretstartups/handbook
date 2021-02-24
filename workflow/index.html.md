@@ -439,6 +439,8 @@ The job of a moderator is to remain objective and is focused on guiding conversa
 
 For each monthly release, a Retrospective planning and execution issue ([example](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8418)) is opened by the moderator to help us coordinate this work.
 
+Create the Retrospective planning and execution issue by selecting the 'product-development-retro' issue template in the ['www-gitlab-com' project](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new#).
+
 **Retro doc**
 
 The [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit) is a Google Doc we use to collaborate on for our Retrospective Summary and Retrospective Discussion.
