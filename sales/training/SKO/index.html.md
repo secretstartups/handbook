@@ -135,7 +135,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
 | Marketing Keynote: Prepare for Peak Performance | [slides](https://docs.google.com/presentation/d/175Qyf6TGGN8vgDaCrBKek6hOGMA-LHYfqjl9or-RPyE/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Channel Keynote: Cover More Ground with Channel Partners | [slides](https://docs.google.com/presentation/d/18OL3wiTPvhK4ZEzhHcxIErE5WqtmGpdJdMyr0fFqHDM/edit#slide=id.gb5ab6e1814_0_0) (GitLab internal) | video (coming soon) |
+| Channel Keynote: Cover More Ground with Channel Partners | [slides](https://docs.google.com/presentation/d/18OL3wiTPvhK4ZEzhHcxIErE5WqtmGpdJdMyr0fFqHDM/edit#slide=id.gb5ab6e1814_0_0) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-channel) (GitLab internal) |
 | Alliances Keynote: Winning is a Team Sport! | [slides](https://docs.google.com/presentation/d/1DOzBi5Jrc7kUxhaECy13hR1LBv6TRvx2JP7JlYtvEN8/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 | Closing Keynote: It's Time for Peak Performance | slides (coming soon) | video (coming soon) |
 
@@ -154,14 +154,14 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | ------ | ------ | ------ |
 | Landing New Logos | [slides](https://docs.google.com/presentation/d/1LlbAppVrITBviI5_fM_JeEhDh7eUfnV50LhXiuu1xzI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 | Expand Strategy Into Security and Plan | [slides](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Account Planning: Master the Climb | [slides](https://docs.google.com/presentation/d/1JPWozZ83z1kStjpo7d0gQV4sq5MLGWKg-ZpXA2qlfiw/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Account Planning: Master the Climb | [slides](https://docs.google.com/presentation/d/1JPWozZ83z1kStjpo7d0gQV4sq5MLGWKg-ZpXA2qlfiw/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-account-planning) (GitLab internal) |
 | Pivoting the Pricing Conversation | [slides](https://docs.google.com/presentation/d/12VxCqUkLAOMrCA5Af3MYwiUyy-nkxbr33bwa9IJfFG8/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-pivoting) (GitLab internal) |
 
 ### Commercial Sales Account Executives
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-co-selling) (GitLab internal) |
 | Pitching to the Economic Buyer | [slides](https://docs.google.com/presentation/d/1XY04MGHsS17LnT_KdqF62op6hK1v34flb9roAvq9miE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout) (GitLab internal) |
 | Placing Customers in the Right Tier | [slides](https://docs.google.com/presentation/d/1FrJ9Xgh83l1lYn3jXOYM3aGbdd1XautBHlXoXd1MoCU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/placing) (GitLab internal) |
 | Finding the "Why Now" | [slides](https://docs.google.com/presentation/d/1oli6HEGT7lStuEZ4MD5tL_ndl_TKEQveVHX5RRscTrs/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-finding) (GitLab internal) |
@@ -171,8 +171,8 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
 | Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Planning for Joint GitLab and Partner Success | [slides](https://docs.google.com/presentation/d/1Bw-kIgYlIfX4kyOS4Wgb_k0PjXJ3u4-WdD0b4xxWhtU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-planning) {GitLab internal) |
-| Growing Our Partner Business (Individual and CSM Partner Portfolio) | [slides](https://docs.google.com/presentation/d/126nNQ5VX-kFNVxfI1YBQL9uWo9EVh3P7tmabQwAX2UI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Planning for Joint GitLab and Partner Success | [slides](https://docs.google.com/presentation/d/1Bw-kIgYlIfX4kyOS4Wgb_k0PjXJ3u4-WdD0b4xxWhtU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-planning) (GitLab internal) |
+| Growing Our Partner Business (Individual and CSM Partner Portfolio) | [slides](https://docs.google.com/presentation/d/126nNQ5VX-kFNVxfI1YBQL9uWo9EVh3P7tmabQwAX2UI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-growing) (GitLab internal) |
 | Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-building) (GitLab internal) |
 
 ### Solution Architects
@@ -181,7 +181,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | ------ | ------ | ------ |
 | Landing New Logos | [slides](https://docs.google.com/presentation/d/1LlbAppVrITBviI5_fM_JeEhDh7eUfnV50LhXiuu1xzI/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 | Expand Strategy Into Security and Plan | [slides](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Strategies to Win Without a Long PoV (Proof of Value) | [slides](https://docs.google.com/presentation/d/1TfrWlH6lhGbbBd0y6LOL5SYYvoqCgGz0fW1o_GBMn-U/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Strategies to Win Without a Long PoV (Proof of Value) | [slides](https://docs.google.com/presentation/d/1TfrWlH6lhGbbBd0y6LOL5SYYvoqCgGz0fW1o_GBMn-U/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-strategies) (GitLab internal) |
 | Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-leveling) (GitLab internal) |
 
 ### Technical Account Managers
@@ -217,7 +217,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | ------ | ------ | ------ |
 | Account Based Strategy & Marketing for Customers | [slides](https://docs.google.com/presentation/d/1Ea1Fa7q7sXa_O552xlrJwHWf8YXFS7YCTIErjEJxMo0/edit?usp=sharing) (GitLab internal) | video (coming soon) |
 | Field Marketing Goals for FY22 | [slides](https://docs.google.com/presentation/d/1u1EOXR8WJsf464ILjMoun8gne2gazU9pGfHHjensp2c/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-building) (GitLab internal) |
 
 ----
 
