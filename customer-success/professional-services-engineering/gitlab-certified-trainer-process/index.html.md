@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Certified Trainer - Candidate Process"
+description: "Explore how GitLab Professional Services certifies trainers to validate their readiness to deliver Education Services offerings."
+
 ---
 
 ## On this page

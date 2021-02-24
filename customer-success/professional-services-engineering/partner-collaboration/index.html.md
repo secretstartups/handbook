@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Partner Collaboration"
+description: "Learn how the GitLab Professional Services organization collaborates with Partners."
 ---
 # Partner Collaboration
 {:.no_toc}

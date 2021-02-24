@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Remote Training Facilitation Best Practices"
+description: "Find some tips and lessons learned for delivering a successful GitLab remote training ."
 ---
 
 ## On this page

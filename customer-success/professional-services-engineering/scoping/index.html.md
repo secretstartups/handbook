@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Scoping Professional Services"
-description: “Discover how GitLab Scopes Professional Services for custom SOWs”
+description: “Discover how GitLab Scopes Professional Services for customers who have requirements that fall outside the scope of the packaged services.”
 ---
 # Scoping Custom Professional Services
 {:.no_toc}
