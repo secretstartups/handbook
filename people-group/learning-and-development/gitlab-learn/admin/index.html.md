@@ -571,9 +571,11 @@ graph TD
     B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin
 ```
 
-### Slack support for team members
+### Pathways for user support
 
-#### Slack workflow
+#### Slack support for team members
+
+##### Slack workflow
 
 GitLab team members are directed to seek support for the GitLab Learn platform in the #learninganddevelopment Slack channel. From this channel, the Learning and Development team will answer questions and support with platform issues. The L&D team monitors the #learninganddevelopment Slack thread daily. If questions are posed that L&D cannot solve, they will engage EdCast for further support via email.
 
@@ -589,7 +591,7 @@ This chart outlines common questions and triage actions taken by the L&D team:
 | Field Enablement or Professional Services content | Tag FE and PS DRIs |
 
 
-### Zendesk support for customers and community members
+#### Zendesk support for customers and community members
 
 Zendesk will be our main hub for providing user support for GitLab Learn. Users will be directed to open a ticket using the professional services contact form. The mermaid chart below outlines the process tickets will go through when determining if they are part of the `paid` or `free` audience.
 
@@ -609,19 +611,18 @@ C-->L(ProServ has to triage ticket)
 J-->C
 ```
 
-#### Customer support workflow (Paid Users)
+##### Customer support workflow using Zendesk(Paid Users)
 
 The workflow for customers using the LXP will be determined by the Professional Services team via the `paid` Zendesk view.
 
-#### Community support workflow (Free Users)
-
-##### Zendesk Ticket Support
+##### Community support workflow using Zendesk (Free Users)
 
 Zendesk tickets from users with free GitLab accounts or without a GitLab.com account will be routed to the `free` view and processed by the LXP admin.
 
-Please review the `Commonly asked questions and macro templates` section below for common templates used to provide free support.
+Please review the `Support for frequently asked questions` section below for common workflows and templates used to provide free support.
 
-##### Community Forum Support
+
+#### Community Forum Support (Paid and Free Users)
 
 The GitLab Community Forum has a category entitled `GitLab Learn` for users to connect and ask questions about GitLab Learn. Responses to this category will be managed by the LXP admin.
 
@@ -639,13 +640,15 @@ Important considerations when responding to questions in the forum:
 1. Review other ways to [use and interact with users on the forum](/handbook/marketing/community-relations/community-operations/#forum-uses)
 
 
-### Commonly asked questions and macro templates
+### Support for frequently asked questions
 
-#### Other Commonly Used Support Macros
+#### How do I share my GitLab Learn badges externally?
 
-##### How do I share my GitLab Learn badges externally?
+##### Support workflow
 
-###### Response
+1. Use the Zendesk macro to direct the user to the correct SmartCard and handbook documentation
+
+##### Response
 
 ```
 Dear {{user.firstname}}
@@ -663,25 +666,89 @@ Sincerely,
 {{agent.firstname}}
 
 Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-
 ```
 
-##### ?
+#### I'm having trouble creating an account on GitLab Learn
 
-###### Response
-` `
+##### Support Workflow
 
-##### ?
+1. Confirm the user does not already have an account via the GitLab Learn admin panel
+1. If they **do** have an account set up:
+     1. 
+1. If they **do not** have an account set up:
+     1. Point to the training on [creating a new GitLab Learn account](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
+     1. Confirm users are accessing the platform using Google Chrome browser
+     1. If logging in using GitLab.com account, confirm that user has an existing GitLab.com account
 
-###### Response
+##### Response if they **do** have an account set up:
 
-` `
+```
+Dear {{user.firstname}}
 
-##### ?
+I'm sorry to hear you're having trouble creating a GitLab Learn account. I've checked our system and do see an account successfully created with the email: {{user.email}}.
 
-###### Response
+Please visit the [GitLab Learn login page](https://gitlab.edcast.com/ and select the `forgot your password` option to reset your account.
 
-` `
+If you're still having trouble after trying to reset your password, please respond to this email and include the following information:
+
+1. Email used while attempting to create and account:
+1. Are you trying to log into GitLab Learn using your GitLab.com account? Yes or No
+1. Are you trying to log into GitLab Learn using another account, like Google or LinkedIn? If yes, please indicate which account you're attempting to use:
+
+Thank you for your patience while we process your request!
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+```
+
+
+##### Response if they **do not** have an account set up:
+
+```
+Dear {{user.firstname}}
+
+I'm sorry to hear you're having trouble creating a GitLab Learn account. I've checked our system and do not see an account created using the email {{user.email}}.
+
+In order to help get your account set up, I will share a few resources and confirm a few things with you:
+
+1. If you haven't yet reviewed our user docs, please watch this video on [setting up your GitLab Learn account for the first time](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
+1. Be sure you're accessing GitLab Learn via the Google Chrome browser, as it performs best in this browser.
+1. If you're trying to sign in via your GitLab.com account, please make sure you've already created an account on [GitLab.com](https://gitlab.com/)
+
+If you've attempted these 3 possible solutions and are still having trouble, please respond to this email and include the following information:
+
+1. Email used while attempting to create and account:
+1. Are you trying to log into GitLab Learn using your GitLab.com account? Yes or No
+1. Are you trying to log into GitLab Learn using another account, like Google or LinkedIn? If yes, please indicate which account you're attempting to use:
+
+Thank you for your patience while we process your request!
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+```
+
+
+#### ?
+##### Support Workflow
+
+##### Response
+
+```
+Dear {{user.firstname}}
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+
+```
 
 ### Automatic email templates
 
