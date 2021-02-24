@@ -872,8 +872,8 @@ _Each PM is responsible for pinging their Product Design (UX) counterpart when t
 
 Product Designers should collaborate on release post items and review:
 
-- **JTBD**: Ensure that the messaging encapsulates how the item supports a user’s Job to be Done.
-- **MVC messaging**: Articulate any design vision or future iterations if applicable. This is especially relevant when considering items that contribute toward increasing a Category’s maturity.
+- **JTBD**: Ensure that the messaging encapsulates how the item supports a user’s [Job to be Done](https://about.gitlab.com/handbook/engineering/ux/jobs-to-be-done/).
+- **MVC messaging**: Articulate any design vision or future iterations if applicable. This is especially relevant when considering items that contribute toward a Category’s maturity.
 - **Artifacts**: Validate that UI elements (screenshots, GIFs) included in the post are up to date and reflect all design changes. Ensure that no mocks are used. 
 
 ### Engineering Managers
