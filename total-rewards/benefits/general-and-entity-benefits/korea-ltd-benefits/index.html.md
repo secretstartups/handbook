@@ -12,8 +12,6 @@ description: "Discover GitLab's benefits for team members in Korea"
 
 ----
 
-GitLab will continue to review responses from the [Global Benefits Survey](/handbook/total-rewards/benefits/benefits-survey/#global-benefits-survey) as well as budgetary availability with respect to adding supplementary benefits in Korea.
-
 ## Medical
 
 GitLab does not plan to offer Private Health Insurance at this time because all the Korean team members will be covered by a statutory benefit known as National Health Insurance (NHI). This health insurance scheme covers all the team members and their family members.
