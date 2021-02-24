@@ -36,7 +36,7 @@ The following can be used as a guide on what actions could need to be taken befo
 - [Install JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
 - Prepare a handover document for your team / manager. 
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable). 
-- If you feel comfortable, send a message in the `tema-member-updates` Slack channel notifying everyone of your departure. 
+- If you feel comfortable, send a message in the `team-member-updates` Slack channel notifying everyone of your departure. 
 
 ##### When will I receive my final pay?
 
