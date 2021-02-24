@@ -360,7 +360,7 @@ GitLab recognizes the important role our partners play in delivering value and s
   <tr>
   <td>
   </td>
-   <td colspan="3" >Access to the Partner Service Delivery Helpdesk Community
+   <td colspan="3" >Access to the Partner Service Community
    </td>
   </tr>
   <tr>
@@ -474,12 +474,24 @@ This community is designed to allow partner service delivery teams to directly c
 2. Serving as a knowledge base of delivery patterns and best practices.
 3. Reducing delivery risk by applying best practices of GitLab practitioners worldwide.  
 
-Reference this video to learn more about this community and all of the benefits it can provide your service delivery teams. 
+Learn about this community in this video. 
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://gitlab.zoom.us/rec/share/W940VeGaRAeAWw7vG694OO1vylMeyqaLRakBCVxZNubS9zYNL-tZzqZwy2Mng3WK.SVvRPXSRCMKwbBAw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 
 ### Accessing the Community
 
-When a partner is awarded a GitLab Certified Service Partner certification, the partner account administrator will be invited to join this community. The partner account administrator can reference this video to learn how to add and manage users who can access this project.  
+When a partner is awarded a GitLab Certified Service Partner certification, the partner account administrator will be invited to join this community. The partner account administrator can reference this video to learn how to add and manage users who can access this project.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.brighttalk.com/webcast/18613/472272" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 
 ### User Commitments to the Community
@@ -490,9 +502,14 @@ As a company, GitLab is dedicated to open source, and this community is one of t
 
 1. Give as much as you take 
 2. Keep a tidy board 
-3. Do not share customer identifiable information before posting to an issue in this project.
+3. Do not share customer identifiable information when posting to an issue in this project.
 
 You can find out how to be a great community member in this video.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.brighttalk.com/webcast/18613/472541?utm_source=GitLab+Inc.&utm_medium=brighttalk&utm_campaign=472541" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ## Maintaining Service Partner Certifications
 
