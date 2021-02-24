@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Professional Services Remote Training Session Setup and Reporting"
-description: "Explore how a GitLab Professional Services Trainer can setup and deliver a remote training."
+description: "Explore how a GitLab Professional Services team members can setup and deliver a remote training."
 
 ---
 
