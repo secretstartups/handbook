@@ -1765,10 +1765,13 @@ please make sure to specify them in the title, add the correct [category](../#ca
    1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`
    1. Using the content that is in the release post items, duplicate the content for What's New
       1. Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
-1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`
-1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`
+1. Images are required
+   1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`
+   1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`
+   1. If an image is not available, you can use a generic image (ex: https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png)
 1. Submit the MR and add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for. 
-1. **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display** 
+1. A validator will run on the yaml file to make sure that URLs are correct. **IMPORTANT: The pipeline will fail until after the release post is live. This helps to ensure that the image URLs are correct.**
+1. The MR will not be merged until after the release post is live on the 22nd. Typically this means the What's New content will be live on the 23rd. 
 
 <style>
   pre { margin-bottom: 20px; }
