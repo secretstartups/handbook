@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Developer Cheatsheet
-description: Helpful information for developers on the Editor team
+description: Helpful information for developers on the Editor team.
 ---
 
 ## On this page
