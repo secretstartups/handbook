@@ -441,6 +441,8 @@ For each monthly release, a Retrospective planning and execution issue ([example
 
 Create the Retrospective planning and execution issue by selecting the 'product-development-retro' issue template in the ['www-gitlab-com' project](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new#).
 
+Title the issue *<MILESTONE VERSION #> Team Retrospectives*.
+
 **Retro doc**
 
 The [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit) is a Google Doc we use to collaborate on for our Retrospective Summary and Retrospective Discussion.
