@@ -180,6 +180,24 @@ For a video walkthrough on sharing your badge to LinkedIn watch the following vi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zej2pLuwCok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Reporting content in violation of the GitLab Code of Conduct
+
+GitLab Learn users are encouraged to report content on the platform that is in violation of the [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). 
+
+Steps for reporting GitLab Learn content:
+
+1. To report content, click on the navigation symbol (3 vertical dots) in the SmartCard and choose the `Report It` option.
+1. To report comments, click on the navigation symbol (3 vertical dots) to the right of the comment and choose the `Report It` option.
+
+When reporting any content, you'll be asked if the content fits one of the following conditions. Please select the condition that is most applicable.
+1. `Technical issues with opening the content`
+1. `I think its fake, spam, or scam`
+1. `I think its an inappropriate comment`
+
+There is also an option to add more context around what is wrong with the content. Please feel encouraged to add any additional information in this section to help our team moderate.
+
+From here, the GitLab L&D team will moderate and remove comments and content in violation of our CoC.
+
 ## Frequently asked questions
 
 
