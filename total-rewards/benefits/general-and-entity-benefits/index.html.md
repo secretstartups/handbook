@@ -193,7 +193,7 @@ Please e-mail Total Rewards if you'd like to make this request and submit your P
 
 #### Confirming your return
 
-A day before you return from parental leave, you'll receive a PTO by Roots [Welcome Back message](https://docs.google.com/document/d/1gKJlcLbQ-Y9KZZniYHRptG6qIOzleyDaCdbQWEkswTA/edit?ts=6033d0b3) with buttons to confirm your return or to explore other options.   
+A day before you return from parental leave, you'll receive a PTO by Roots [Welcome Back message](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#parental-leave-welcome-back) with buttons to confirm your return or to explore other options.   
 * Clicking the `Confirm my return` button will open the email client with a pre-loaded template "Confirming my return from Parental PTO".
 * Clicking the `Explore options` button will also open the email client with a pre-loaded template "I have exceeded my 16 weeks and like to look into further options".
 
