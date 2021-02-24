@@ -43,7 +43,7 @@ Anyone team at GitLab is encoruaged to build new learning pathways. Some scenari
 1. Teach the GitLab team how to efficiently solve a common problem, like troubles with Merge Requests or strategies for async communication
 1. Organize content you've found externally, like articles, videos, or podcasts
 
-To create a new learning pathway and to add that pathway to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_pathway` template. All steps should be outlined on this template.  
+To create a new learning pathway and to add that pathway to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_pathway` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template.  
 
 **Examples of learning paths in GitLab Learn
 
@@ -56,7 +56,7 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 |Action | Timeline |
 | ----- | ----- |
 | Build course content in the handbook | this is up to your team, but please build the content before opening a `new_pathway` issue |
-| Open a `new_pathway` issue | 5 weeks prior to launch |
+| Open a `new_pathway` [issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#) | 5 weeks prior to launch |
 | Start collaboration on pathway needs with L&D team | 4 week prior to launch |
 | Implement changes on handbook based on L&D feedback | 3 weeks prior to launch |
 | Complete Learning Evangelist training in GitLab Learn | 3 weeks prior to launch |
