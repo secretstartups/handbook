@@ -478,7 +478,7 @@ Learn about this community in this video.
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://gitlab.zoom.us/rec/share/W940VeGaRAeAWw7vG694OO1vylMeyqaLRakBCVxZNubS9zYNL-tZzqZwy2Mng3WK.SVvRPXSRCMKwbBAw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.brighttalk.com/webcast/18613/472525" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
