@@ -543,18 +543,17 @@ Admin process for reporting from EdGraph is coming soon.
 
 ### Temporary Support Model
 
-GitLab Learn is planned to launch to external audiences on 2021-03-15. Without a dedicated LXP admin, the implementation team will use this temporary support process across the Professional Services and Learning and Development Team to enable and support all users.
+GitLab Learn is planned to launch to external audiences on 2021-03-15. Without a dedicated LXP admin, the implementation team will use this temporary support process across the Professional Services and Learning and Development Teams to enable and support all users.
 
 ```mermaid
 graph TD
     A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D
+    B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D]
 ```
 
 Workflows, email templates, and outlines below will remain the same for this temporary support model.
-
 
 ### End goal Support Model
 
@@ -618,19 +617,75 @@ The workflow for customers using the LXP will be determined by the Professional 
 
 ##### Zendesk Ticket Support
 
-This section will outline common questions and Zendesk macros to be used for free support.
+Zendesk tickets from users with free GitLab accounts or without a GitLab.com account will be routed to the `free` view and processed by the LXP admin.
 
+Please review the `Commonly asked questions and macro templates` section below for common templates used to provide free support.
 
 ##### Community Forum Support
 
-This section will outline how the community forum will be used as a support space for GitLab Learn.
+The GitLab Community Forum has a category entitled `GitLab Learn` for users to connect and ask questions about GitLab Learn. Responses to this category will be managed by the LXP admin.
 
-1. Determine section in the forum for GitLab learn questions
-1. Add links to documentation and FAQ answers.
+Below are a collection of key questions and answers posted on the forum. Consider linking to these threads when providing support on the forum, in Zendesk, or in Slack.
+
+| Question | Forum Thread Link |
+| ----- | ----- | 
+| | |
+| | |
+
+Important considerations when responding to questions in the forum:
+
+1. If you need personal information from the user, direct them to open a ticket. This could include problems with logging in, accessing their account, or updating accout information.
+1. Whenever possible, link back to the [GitLab Learn user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) in your response. If the information you're sharing isn't documented on that page, add it.
+1. Review other ways to [use and interact with users on the forum](/handbook/marketing/community-relations/community-operations/#forum-uses)
 
 
+### Commonly asked questions and macro templates
 
-### Email and macro templates
+#### Other Commonly Used Support Macros
+
+##### How do I share my GitLab Learn badges externally?
+
+###### Response
+
+```
+Dear {{user.firstname}}
+
+Thanks for reaching out to our team about your GitLab Learn badge! We're happy to hear you've earned a badge and are ready to share your success with your LinkedIn network.
+
+[This SmartCard](https://gitlab.edcast.com/insights/ECL-15365c36-f581-47fd-8c43-bf6d85e61656) will walk you through the process of sharing your badge externally on LinkedIn. 
+
+You can also find this information in our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges).
+
+Please let us know if there is anything else we can help you with!
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+
+```
+
+##### ?
+
+###### Response
+` `
+
+##### ?
+
+###### Response
+
+` `
+
+##### ?
+
+###### Response
+
+` `
+
+### Automatic email templates
+
+The following are email templates generatetd automatically either via Zendesk or Gmail and are meant to point users to the correct pathways for support.
 
 #### EdCast notification emails
 
@@ -660,7 +715,7 @@ The GitLab Learning and Development Team`
 ***Important note for users***: If you are reading this documentation, please do ***not*** email `gitlablearn@gitlab.com` for support. This email inbox is not monitored. Instead, please visit the [user documentation and check the correct support workflow]((/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
 
 
-#### Automatic Zendesk macro for free users
+#### Zendesk macro for free users
 
 ```
 Hello,
@@ -683,35 +738,9 @@ Sincerely,
 The GitLab Learning and Development Team
 ```
 
-#### Other Support Macros
-
-**User Question:** How do I share my GitLab Learn badges externally?
-
-**Macro Text:** 
-` `
-
-**Macro Text:** 
-` `
-
-**User Question:**
-
-**Macro Text:** 
-` `
-ß
-**User Question:**
-
-**Macro Text:** 
-` `
-
 ### Admin Support
 
 This section outlines workflows and processes that the GitLab Learn admin can use to obtain support from EdCast.
-
-#### Temporary Slack support
-
-During the implementation phase, the team can access support from EdCast via the #edcast-support Slack channel. Please review the temporary process for engaging EdCast with supported related questions [on the EdCast implementation handbook page](/handbook/people-group/learning-and-development/gitlab-learn/implementation/#temporary-support-from-edcast-using-slack)
-
-
 #### Submitting a feature request to EdCast
 
 To make a feature request to the EdCast product, email the EdCast team with the following information:
