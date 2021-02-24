@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Professional Services Project Management"
+description: "Learn about the processes that the GitLab Project Management team uses to deliver successful engagements with Customers."
 ---
 
 ## On this page

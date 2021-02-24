@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Professional Services Delivery"
+description: "Describes the workflow governing delivery of GitLab professional service projects."
 ---
 
 ## On this page

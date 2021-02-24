@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Professional Services Practice Management"
+description: "Discover how the GitLab Practice Management team works together."
 ---
 
 ## On this page

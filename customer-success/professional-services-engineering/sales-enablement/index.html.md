@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Services to Accelerate Customer Adoption"
+description: "Discover the customer benefits and value of working with GitLab Professional Services."
 ---
 # Services to Accelerate Customer Adoption
 {:.no_toc}

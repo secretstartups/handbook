@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: "Working with Professional Services"
+description: "Discover how to work with GitLab Professional Services Team."
+
 ---
 
 ## On this page

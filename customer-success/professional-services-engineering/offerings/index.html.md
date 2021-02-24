@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Professional Services Offerings"
+description: "Find information about GitLab Professional services Offerings."
 ---
 # Professional Services Offerings
 {:.no_toc}

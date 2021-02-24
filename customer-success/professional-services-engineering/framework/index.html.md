@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Professional Services Offerings Framework"
-description: “Discover the various Professional Service Offerings at GitLab”
+description: “Discover the various GitLab Professional Service Offerings and how they're organized into Categories and Types."
 ---
 
 ## On this page
