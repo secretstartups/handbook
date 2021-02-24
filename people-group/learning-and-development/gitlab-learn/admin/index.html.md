@@ -604,22 +604,33 @@ This chart outlines common questions and triage actions taken by the L&D team:
 
 #### Zendesk support for customers and community members
 
-Zendesk will be our main hub for providing user support for GitLab Learn. Users will be directed to open a ticket using the professional services contact form. The mermaid chart below outlines the process tickets will go through when determining if they are part of the `paid` or `free` audience.
+Zendesk will be our main hub for providing user support for external audiences on GitLab Learn. 
+
+Customers and community members will be directed to open a ticket using the professional services contact form.
+
+The following workflow outlines how new tickets are directed to the appropriate Zendesk view:
 
 ```mermaid
 graph TD;
-A(User wants to contact proserv)-->B(How does the user do it?)
-B--Email-->C(Ticket goes to ProServ Triage View)
-B--Web form-->D(Form asks for plan type)
-D--Paid-->E(Asks problem type for paid users)
-D--Free-->F(Asks problem type for free users)
-E-->G(Goes to ProServ Paid View for paid users)
-G-->H(ProServ has to validate if user is paid or not)
-F-->C
-H--They are paid-->K(ProServ works ticket)
-H--They are free-->J(ProServ marks user as free)
-C-->L(ProServ has to triage ticket)
-J-->C
+A(User wants to contact proserv)
+B(How does the user do it?)
+C(Ticket goes to triage view)
+D(Zapier tries to auto-associate)
+E(Ticket is in triage view, needs to be manually triaged)
+F(What plan did they say they were?)
+G(Ticket is in paid view)
+H(Ticket is in free view)
+I(Zapier tries to auto-associate)
+A-->B;
+B--Email-->C;
+C-->D;
+D--Fails-->E;
+B-->I;
+D--Success-->G;
+I--Success-->G;
+I--Fails-->F;
+F--Paid-->E;
+F--Free-->H;
 ```
 
 ##### Customer support workflow using Zendesk(Paid Users)
@@ -630,8 +641,7 @@ The workflow for customers using the LXP will be determined by the Professional 
 
 Zendesk tickets from users with free GitLab accounts or without a GitLab.com account will be routed to the `free` view and processed by the LXP admin.
 
-Please review the `Support for frequently asked questions` section below for common workflows and templates used to provide free support.
-
+When providing support to community members, please review the `Support for frequently asked questions` section below for common workflows and templates used to provide free support.
 
 #### Community Forum Support (Paid and Free Users)
 
@@ -763,22 +773,6 @@ Can you please clarify which Pathway or Journey you're having trouble accessing?
 Please note that not all learning content on the GitLab Learn platform is available to our wider community. As we grow, we'll release additional learning Pathways and Journeys for you to continue your personal and professional development.
 
 If you have any suggetsions of content you'd like to see in the GitLab Learn platform, please post in our GitLab Community Forum.
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-
-```
-
-#### ?
-##### Support Workflow
-
-##### Response
-
-```
-Dear {{user.firstname}}
 
 Sincerely,
 
