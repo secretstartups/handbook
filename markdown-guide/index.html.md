@@ -878,7 +878,10 @@ results in:
 
 To add a table in the collapsed heading, be sure to add:
 
+```
 <details markdown="1">
+```
+
 ----
 
 ## Code blocks
