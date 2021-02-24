@@ -121,6 +121,7 @@ Categories
 - `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`: used to highlight one of our tech stack tools
 - `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
+- `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
 
 </details>
 
