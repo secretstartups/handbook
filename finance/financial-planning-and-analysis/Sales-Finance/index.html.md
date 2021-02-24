@@ -11,6 +11,10 @@ title: "Sales Finance"
 
 ## Welcome to the Sales Finance Handbook!
 
+## Common Links
+ * [Financial Planning & Analysis (FP&A)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
+ * [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
+
 ### Finance Business Partner Alignment
 
 | Name | Function |
