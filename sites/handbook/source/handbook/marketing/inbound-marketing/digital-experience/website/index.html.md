@@ -417,10 +417,65 @@ They are also used by the automated triage operation ["Stage and group labels in
 
 Below are attributes that can be added to a stage in `data/stages.yml`.
 
+* `<stage_key>.display_name`:
+marketing: true
+tw: true
+image
+description
+body
+direction
+roadmap
+established
+lifecycle
+horizon
+contributions
+usage_driver_score
+revenue_driver_score
+sam_driver_score
+stage_development_spend_percent
+analyst_reports
+analyst_reports.title
+analyst_reports.url
+related
+section
+pm
+groups
+
+##### Group Attributes
+
+* `groups.<group_key>.name`: 
+* `groups.<group_key>.pm`: 
+* `groups.<group_key>.focus`: 
+* `groups.<group_key>.categories`: 
+* `groups.<group_key>.pmm`: 
+* `groups.<group_key>.cm`: 
+* `groups.<group_key>.backend_engineering_manager`: 
+* `groups.<group_key>.frontend_engineering_manager`: 
+* `groups.<group_key>.support`: 
+* `groups.<group_key>.sets`: 
+* `groups.<group_key>.pdm`: 
+* `groups.<group_key>.ux`: 
+* `groups.<group_key>.uxr`: 
+* `groups.<group_key>.tech_writer`: 
+* `groups.<group_key>.tw_backup`: 
+* `groups.<group_key>.appsec_engineer`: 
+* `groups.<group_key>.be_team_tag`: 
+* `groups.<group_key>.fe_team_tag`: 
+* `groups.<group_key>.cs_team_tag`: 
+* `groups.<group_key>.internal_customers`: 
+* `groups.<group_key>.internal_customers.department`: 
+* `groups.<group_key>.internal_customers.dri`: 
+* `groups.<group_key>.usage_driver_score`: 
+* `groups.<group_key>.asp_driver_score`: 
+* `groups.<group_key>.sam_driver_score`: 
+* `groups.<group_key>.group_link`: 
 * `groups.<group_key>.feature_labels`: A list of all the feature labels that are associated with this group.
   Ideally, feature labels should be associated with a category instead (see
   `feature_labels` in the "Category attributes" section below).
   This list is used in the automated triage operation ["Stage and group labels inference from category labels"](/handbook/engineering/quality/triage-operations/).
+* `groups.<group_key>.pi_gmau`:
+* `groups.<group_key>.pi_pgmau`: 
+
 
 #### Category attributes
 
@@ -453,8 +508,12 @@ Below are attributes that can be added to a category in `data/categories.yml`.
 * `body`: content added in markdown will be [auto-generated](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/config.rb#L133) and turned into a page at `/product/<category>/`. Features and missing features sections are automatically added to the generated category pages based on what category a feature belongs to in `features.yml`. c.f. [Project Management](/product/project-management/) (and auto-generated page from the [`body` section in `categories.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/categories.yml#L148)) with [Continuous Integration](/stages-devops-lifecycle/continuous-integration/) (a [custom page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/product/continuous-integration/index.html.haml).)
 * `opportunity`: values can be `Core`, `Adjacent`, `Distant` - is this category considered part of our existing `Core` DevOps platform, a directly `Adjacent` set of capabilities or a `Distant` vision for future breadth.
 * `differentiation`: values can be `Winning`,`Compelling`,`Minimal` - is this category sufficiently differentiated from competitors to be considered capable of consistently `winning`, providing an `compelling` additive component to our single platform value or adding only `minimal` differentiated value.
-#### Working with category maturity
+* `ux_scorecard_score`: value should be a letter score, following the [grading rubric](https://about.gitlab.com/handbook/engineering/ux/ux-scorecards/#grading-rubric)
+* `ux_scorecard_link`: should link to the specific issue for the scorecard for this category. More details on [UX Scorecards here](https://about.gitlab.com/handbook/engineering/ux/ux-scorecards/#setup)
+* `dogfooding_status`: values can be `planned`, `limited`, and `exclusive`. Described in detail and used on `/source/direction/dogfooding`
+* `dogfooding_issue`: should link to the specific issue tracking dogfooding for this issue, per the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)
 
+#### Working with category maturity
 There are five fields in `categories.yml` that control a category's maturity. These work together to define what the maturity currently is, how it has evolved over time, and our plans to improve in the future.
 * `maturity` which represents the current maturity of the category
 * `available`, `viable`, `complete`, and `lovable` which are set to ISO dates when we achieved, or plan to achieve, the given maturity.
