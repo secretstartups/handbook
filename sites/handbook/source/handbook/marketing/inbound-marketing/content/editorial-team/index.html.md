@@ -332,6 +332,18 @@ This works for tutorials and how-to posts that are no longer current. Here is [a
 
 This approach is suitable for older blog posts covering high-level, foundational topics that don't age (DevOps fundamentals, CI best practices, etc.) and which aren't specifically about GitLab features or functionality.
 
+### Newsroom Slack channel
+
+The #newsroom channel is for team members to surface new story ideas to Editorial. Anyone is welcome to join and can share links to news or opinion that could be worth pursuing as a blog post or in another content format (e.g. video). 
+
+We know that team members often share noteworthy news or developments in other channels – the difference here is the channel will help the Editorial team to aggregate and curate items that have [strong blog post potential](#top-performing-blog-posts). The content can be anything that's relevant to our audience and within our [blog scope](#scope).
+
+- Team members can post in the channel ad hoc, or participate in the channel's weekly Geekbot prompts. Feel free to suggest edits to the Geekbot questions.
+- The channel does not replace [pitching to the blog](/handbook/marketing/blog/#how-to-pitch-a-blog-post). Team members can still open an issue to pitch a blog post if they want to write about something, and there's no requirement to post in the channel. The channel is for more informal sharing of possible ideas. 
+- It's up to the sharer to decide if they would like to write a post or if they're just offering the idea to the Editorial team. 
+- Whoever intends to write a post inspired by #newsroom will need to open [a blog post issue](/handbook/marketing/blog/#how-to-pitch-a-blog-post) to get started.
+- We won't be able to turn all ideas into blog posts. In some cases an idea may be more suitable for another format or publishing outlet, or it may spark an idea for a related post or series of posts. 
+
 ## Checklist for blog post issues
 
 If you are planning to write or even just considering writing a blog post:
