@@ -41,7 +41,7 @@ On the first attempt, if our email system could not get through (usually server 
 1. Click on `Sending` along the left-hand side navigation bar.
 1. Click on `Logs`.
 1. Ensure that `mg.gitlab.com` is set as the domain above the activity graph.
-1. Enter the email address to be checked into the search bar search and then scan the results to see if mail is being delivered to that address.
+1. Enter the email address to be checked into the search bar, search, and then scan the results to see if mail is being delivered to that address.
     - If email is delayed, respond to the user and ask them to wait.
     - If email is bouncing due to a suppression (evidenced by the message `Not delivering to previously bounced address` in the log) proceed to [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun) or [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk)
 
@@ -62,6 +62,19 @@ On the first attempt, if our email system could not get through (usually server 
 1. Click the `Remove the suppression?` button.
 
 Once the suppression is removed you can then use the quick links menu that is displayed to either resend a new confirmation email, send a password reset email, or perform another search.
+
+#### Identifying Multiple Suppressions on a Single Domain
+
+Mailgun does not allow us to check for multiple suppressions on the same domain within it's `Suppressions` section, but we can use another method to find them without asking the customer for a list of email addresses that they suspect are being suppressed. To do so:
+
+1. Log in to [Mailgun](https://app.mailgun.com/app/dashboard) using the `supporteam` credentials in the Support Team vault in 1Password.
+1. Click on `Sending` along the left-hand side navigation bar.
+1. Click on `Logs`.
+1. Ensure that `mg.gitlab.com` is set as the domain above the activity graph.
+1. In the search bar enter the customer's domain using `*` as a wildcard for the username.
+1. Add a filter for `Event is Permanent Fail`.
+1. Scan the results, any email address listed with a `Delivery Status Message` of  `Not delivering to previously bounced address` has been suppressed at one point in time.
+1. Navigate to the `Suppressions` tab and enter in an email address from your previous search to confirm whether or not it's currently suppressed.
 
 ### Resend Confirmation Email
 
