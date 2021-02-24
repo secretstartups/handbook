@@ -79,7 +79,7 @@ Please be sure to include sufficient detail regarding your request, including: t
 * [Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
 
 ## Policies
-* [Code of Business Conduct and Ethics] (https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/)
+* [Code of Business Conduct and Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/)
 * [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
 * [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
 * [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
@@ -87,7 +87,7 @@ Please be sure to include sufficient detail regarding your request, including: t
 * [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
 * [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
 * [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
-* [Related Party Transactions Policy] (https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
+* [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
 
 # General Legal FAQs
 
