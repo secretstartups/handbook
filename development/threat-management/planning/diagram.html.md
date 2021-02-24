@@ -27,7 +27,7 @@ Box colours represent the type of issue:
 
 graph TD
   Idea[Idea/problem<br>Issue]
-  Feature[Feature Issue<br>or Epic]
+  Feature[Feature Epic]
   Release[Release Post]
 
   classDef idea fill:#ffffff,stroke:#19957C;
@@ -207,8 +207,7 @@ graph TD
   A2[Provide input<br>and design<br>adjustments]
   A3([Provide input<br>on technical<br>feasibility, sizing])
   A4(["Optionally Creates<br>MVC Epic(s)"])
-  A4a["Optionally Creates<br>MVC Feature Issue(s)"]
-  A4b(["Creates<br>Implementation Issue(s)"])
+  A4a(["Creates<br>Implementation Issue(s)"])
   A5["Feature Epic<br>(final design)"]
   A6("Design Issue<br>(closed)")
   A7(["Implementation Issue(s)<br>(refined)"])
@@ -220,7 +219,7 @@ graph TD
   A1 --> A5
   A1 --> A2 --> A1
   A2 --> A3 --> A2
-  A3 --> A4 --> A4a --> A4b --> A5 --- A6
+  A3 --> A4 --> A4a --> A5 --- A6
   A5 --> A7 --> A9
   A7 --- A8
 
@@ -250,36 +249,25 @@ is closed when all Issues are delivered.
 **MVC Feature Epics**
 When a Feature Epic and it's associated Design Issue is large enough to break into mulitple MVCs, multiple MVC Feature Epics will be created.
 
-
-
-**Feature Issues**
-
-All Feature Issues rolling-up to the Feature Epic are their own
-[MVC](/handbook/values/#minimal-viable-change-mvc)s in that they are independently-releasable
-slices of value. Each issue contains its own criteria for delivery, including any implementation
-details and links to relevant design assets for just this Issue.
-
-Feature Issues are used by our PMs to support tracking on the homepage as well as creating release posts.
-
+Feature Epics are their own MVCs in that they are independently-releasable slices of value. Each epic contains its own criteria for delivery, including any implementation details and links to relevant design assets for just this MVC.
 
 **Implementation Issues**
 
-Implementation issues allow each Feature Issue to be broken into small, discrete tasks that can move independently through the build workflow steps.
-Whenever possible, Implementation Issues should also be independently-releasable and provide value to the customer.
-When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.
+Implementation issues allow each Feature Epic to be broken into small, discrete tasks that can move independently through the build workflow steps. 
+Whenever possible, Implementation Issues should also be independently-releasable and provide value to the customer. 
+When they have to be grouped with other Implementatation Issues, a feature branch should be created to merge the dependant pieces of work together prior to merging into the default branch.  
 
 **Structure of a Singular MVC Feature**
 ```mermaid
 graph LR;
 Feature_Epic[Feature Epic]-->Design_Issue(Design Issue);
 
-Feature_Epic[Feature Epic]-->Feature_Issue[Feature Issue];
 Feature_Epic[Feature Epic]-->FE1_Implementation_Issue([FE Implementation Issue]);
 Feature_Epic[Feature Epic]-->BE1_Implementation_Issue([BE Implementation Issue]);
 Feature_Epic[Feature Epic]-->BE2_Implementation_Issue([BE Implementation Issue #2]);
 
 classDef feature fill:#ffffff,stroke:#0C7CBA;
-class Feature_Epic,MVC1_Epic,MVC2_Epic,Feature_Issue feature
+class Feature_Epic,MVC1_Epic,MVC2_Epic feature
 classDef idea fill:#ffffff,stroke:#19957C;
 class Design_Issue,FE1_Implementation_Issue,BE1_Implementation_Issue,BE2_Implementation_Issue idea
 ```
@@ -291,17 +279,15 @@ Feature_Epic[Feature Epic]-->Design_Issue(Design Issue);
 Feature_Epic-->MVC1_Epic[MVC1 Epic];
 Feature_Epic-->MVC2_Epic[MVC2 Epic];
 
-MVC1_Epic-->MVC1_Feature_Issue[Feature Issue];
 MVC1_Epic-->MVC1_FE1_Implementation_Issue([FE Implementation Issue]);
 MVC1_Epic-->MVC1_BE1_Implementation_Issue([BE Implementation Issue]);
 
-MVC2_Epic-->MVC2_Feature_Issue[Feature Issue];
 MVC2_Epic-->MVC2_FE1_Implementation_Issue([FE Implementation Issue]);
 MVC2_Epic-->MVC2_BE1_Implementation_Issue([BE Implementation Issue]);
 MVC2_Epic-->MVC2_BE2_Implementation_Issue([BE Implementation Issue #2]);
 
 classDef feature fill:#ffffff,stroke:#0C7CBA;
-class Feature_Epic,MVC1_Epic,MVC2_Epic,MVC2_Feature_Issue,MVC1_Feature_Issue feature
+class Feature_Epic,MVC1_Epic,MVC2_Epic feature
 classDef idea fill:#ffffff,stroke:#19957C;
 class Design_Issue,MVC1_FE1_Implementation_Issue,MVC1_BE1_Implementation_Issue,MVC2_FE1_Implementation_Issue,MVC2_BE1_Implementation_Issue,MVC2_BE2_Implementation_Issue idea
 ```
