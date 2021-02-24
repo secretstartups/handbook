@@ -26,8 +26,8 @@ graph LR
 
 ```mermaid
 graph LR
-	collection_framework[Collection Framework] --> event_dictionary[Event Dictionary]
-	event_dictionary[Event Dictionary] --> instrumentation[Instrumentation]
+	collection_framework[Collection Framework] --> metrics_dictionary[Metrics Dictionary]
+	metrics_dictionary[Metrics Dictionary] --> instrumentation[Instrumentation]
 	instrumentation[Instrumentation] --> release_cycle[Release Cycle]
 	release_cycle[Release Cycle] --> product_usage[Product Usage]
 	product_usage[Product Usage] --> usage_ping_generated[Usage Ping Generated]
@@ -279,32 +279,13 @@ Our reporting levels of aggregate or individual reporting varies by segment. For
 
 Our reporting time periods varies by segment. For example, on Self-Managed Users, we can report all time counts and 28 day counts in Usage Ping.
 
-## Event Dictionary
+## Metrics Dictionary
 
-**Note: We've temporarily moved the Event Dictionary to a [Google Sheet](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit?usp=sharing)**. The previous Markdown table exceeded 500+ rows making it difficult to manage. In the future, our intention is to move this back into our docs using a [YAML file](https://gitlab.com/gitlab-org/gitlab-docs/-/issues/823).
+The Metrics Dictionary is a single source of truth for the metrics and events we collect for product usage data. The Metrics Dictionary lists all the metrics we collect in Usage Ping, why we're tracking them, and where they are tracked.
 
-The event dictionary is a single source of truth for the metrics and events we collect for product usage data. The Event Dictionary lists all the metrics and events we track, why we're tracking them, and where they are tracked.
+This are living files that is updated any time a new metric implemented, updated, removed. [It includes all relevant information](https://docs.gitlab.com/ee/development/usage_ping/metrics_dictionary.html).
 
-This is a living document that is updated any time a new event is planned or implemented. It includes the following information.
-
-- Section, stage, or group
-- Description
-- Implementation status
-- Availability by plan type
-- Code path
-
-We're currently focusing our Event Dictionary on [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping.html). In the future, we will also include [Snowplow](https://docs.gitlab.com/ee/development/snowplow.html). We currently have an initiative across the entire product organization to complete the [Event Dictionary for Usage Ping](https://gitlab.com/groups/gitlab-org/-/epics/4174).
-
-### Instructions
-
-1. Open the Event Dictionary and fill in all the **PM to edit** columns highlighted in yellow.
-1. Check that all the metrics and events are assigned to the correct section, stage, or group. If a metric is used across many groups, assign it to the stage. If a metric is used across many stages, assign it to the section. If a metric is incorrectly assigned to another section, stage, or group, let the PM know you have reassigned it. If your group has no assigned metrics and events, check that your metrics and events are not incorrectly assigned to another PM.
-1. Add descriptions of what your metrics and events are tracking. Work with your Engineering team or the Product Intelligence team if you need help understanding this.
-1. Add what plans this metric is available on. Work with your Engineering team or the Product Intelligence team if you need help understanding this.
-
-### Planned metrics and events
-
-For future metrics and events you plan to track, please add them to the Event Dictionary and note the status as `Planned`, `In Progress`, or `Implemented`. Once you have confirmed the metric has been implemented and have confirmed the metric data is in our data warehouse, change the status to **Data Available**.
+We're currently focusing our Metrics Dictionary on [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping.html). In the future, we will also include [Snowplow](https://docs.gitlab.com/ee/development/snowplow.html). We currently have an initiative across the entire product organization to complete the [Metrics Dictionary for Usage Ping](https://gitlab.com/groups/gitlab-org/-/epics/5425).
 
 ## Implementing Product Performance Indicators
 
@@ -312,16 +293,16 @@ We've recently had a large push across the product organization to become more d
 - [100% of groups have Future GMAU (or Paid GMAU) with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1342)
 - [100% of stages have Future SMAU and Paid SMAU with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1343).
 
-To accomplish these OKRs, we setup a seven step process to implement product metrics. This process was originally presented in the Weekly Product Meeting on August 11, 2020 ([slide deck](https://docs.google.com/presentation/d/1wCpvdCUtBtU4Y1vHDOSOLjhrlPvdYBAbydj58SRN5Js/edit) and [video presentation](https://youtu.be/1l1ru7k-q2I?t=375)) and has been refined over time. 
+To accomplish these OKRs, we setup a seven step process to implement product metrics. This process was originally presented in the Weekly Product Meeting on August 11, 2020 ([slide deck](https://docs.google.com/presentation/d/1wCpvdCUtBtU4Y1vHDOSOLjhrlPvdYBAbydj58SRN5Js/edit) and [video presentation](https://youtu.be/1l1ru7k-q2I?t=375)) and has been refined over time.
 
-| Implementation Status | Description | Responsibility | Exit Criteria | 
+| Implementation Status | Description | Responsibility | Exit Criteria |
 | ------ | ----------- | -------------- |-------------- |
-| [Definition](#definition) | The definition step outlines the process for deciding which product metrics to track. | PM Responsibility, Product Intelligence Support | Metric is defined in the Event Dictionary and [in the Performance Indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators) with the future `metric_name`. Issue for instrumentation is completed and scheduled for the current release. | 
-| [Instrumentation](#instrumentation) | The instrumentation step outlines how each product team implements data collection. | PM Responsibility, Product Intelligence Support | Instrumentation is completed and feature flags are turned off so that data can be collected | 
+| [Definition](#definition) | The definition step outlines the process for deciding which product metrics to track. | PM Responsibility, Product Intelligence Support | Metric is defined in the Event Dictionary and [in the Performance Indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators) with the future `metric_name`. Issue for instrumentation is completed and scheduled for the current release. |
+| [Instrumentation](#instrumentation) | The instrumentation step outlines how each product team implements data collection. | PM Responsibility, Product Intelligence Support | Instrumentation is completed and feature flags are turned off so that data can be collected |
 | [Data Availability](#data-availability) | The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse. | PM Responsibility, Product Intelligence Support | PM confirms that the `metric_name` is present in the data set, updates the PI file with a cc to `@gitlab-org/growth/product-intelligence/engineers @gitlab-data` to inform them that the metric is available. For example, for self-managed usage ping implementation, check the #g_product_intelligence slack channel for the latest SaaS Usage Ping Payload. |
 | [Dashboard](#dashboard) | The dashboarding step outlines how Sisense dashboards are built. | PM Responsibility, Product Intelligence Support | There is a chart in Sisense. |
-| [Handbook](#handbook) | The [Product PI handbook page](/handbook/product/performance-indicators/#how-to-work-with-pages-like-this) describes how product performance indicators are added for each product section, stage, and group. | PM Responsibility, Product Intelligence Support | Chart is embedded into the handbook. Target has been assigned based off the data. | 
-| [Target](#target) | The target definition step outlines how targets are defined for each performance indicator. | PM Responsibility, Product Intelligence Support | The target value is in both the chart and in the Performance Indicator (PI) file. | 
+| [Handbook](#handbook) | The [Product PI handbook page](/handbook/product/performance-indicators/#how-to-work-with-pages-like-this) describes how product performance indicators are added for each product section, stage, and group. | PM Responsibility, Product Intelligence Support | Chart is embedded into the handbook. Target has been assigned based off the data. |
+| [Target](#target) | The target definition step outlines how targets are defined for each performance indicator. | PM Responsibility, Product Intelligence Support | The target value is in both the chart and in the Performance Indicator (PI) file. |
 | [Complete](#complete) | All of the prior steps have been completed. | PM Responsibility, Product Intelligence Support | :tada: |
 
 ### 1. Definition
@@ -336,10 +317,10 @@ Determine what metrics are important for your specific section, stage, or group.
     1. Group level - GMAU, Paid GMAU, Other PI
 1. Define the metric. This is typically done by selecting an initial AMAU that is most representative of overall stage/group use
 1. Determine the right [collection framework](/direction/product-intelligence-guide/#collection-framework) to utilize. Some guidance for considering collection frameworks:
-  * **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage. 
+  * **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage.
    * **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
-   * **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentationon GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed. 
-   * **Usage Ping - Postgres** - Our original Usage Ping implementation this collects distinct database counts. 
+   * **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentationon GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed.
+   * **Usage Ping - Postgres** - Our original Usage Ping implementation this collects distinct database counts.
    * **Usage Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
 1. Plan your future events and metrics with your engineering team and add them to the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485).
 1. Add the value from column A of the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) to the [Performance Indicator (PI) yaml file as the `metric_name`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators)
@@ -348,11 +329,11 @@ Determine what metrics are important for your specific section, stage, or group.
 Note: We now enable you to deduplicate aggregated metrics implemented via Redis HLL, in order to get distinct counts (ex distinct users count across multiple actions in a stage). Please read our docs on [Aggregated Metrics](https://docs.gitlab.com/ee/development/usage_ping.html#aggregated-metrics) for more information. We are working towards the ability to deduplicate across multiple Database HLL metrics via [#288848](https://gitlab.com/gitlab-org/gitlab/-/issues/288848), and then deduplication across multiple Redis HLL and Database HLL metrics via [#421](https://gitlab.com/gitlab-org/product-intelligence/-/issues/421)
 
 
-| Term | Definition | Example | 
+| Term | Definition | Example |
 | -----| -----------| --------|
-| Aggregated| Metric contains rolled-up values due to an aggregate function (COUNT, SUM, etc) | Total Page Views (TPV) - the sum of all events when a page was viewed. | 
-| Deduplicated | Metric counts each unit of measurement once. | Unique Monthly Active Users (UMAU) - each user_id is counted once | 
-| Deduplicated Aggregated | Metric contains a rolled-up value where each unit is counted once. |  UMAU is a deduplicated aggregated metric but TPV is not. | 
+| Aggregated| Metric contains rolled-up values due to an aggregate function (COUNT, SUM, etc) | Total Page Views (TPV) - the sum of all events when a page was viewed. |
+| Deduplicated | Metric counts each unit of measurement once. | Unique Monthly Active Users (UMAU) - each user_id is counted once |
+| Deduplicated Aggregated | Metric contains a rolled-up value where each unit is counted once. |  UMAU is a deduplicated aggregated metric but TPV is not. |
 
 
 
@@ -383,7 +364,7 @@ Plan instrumentation with sufficient lead time for data availability. Ensure you
 
 1. [Self-managed releases](https://about.gitlab.com/upcoming-releases/) happen on the 22nd of each month (+30 days)
 1. Wait one week for customers to upgrade to the new release and for a Usage Ping to be generated (+7 days)
-1. Usage Pings are collected in the Versions application. The Versions application's database is automatically imported into the Snowflake Data Warehouse every day (+1 day). 
+1. Usage Pings are collected in the Versions application. The Versions application's database is automatically imported into the Snowflake Data Warehouse every day (+1 day).
 
 In total, plan for up to 38 day cycle times (Examples [1](https://gitlab.com/gitlab-data/analytics/-/issues/5629#note_389671640), [2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/31785#note_392882428)). Cycle times are slow with monthly releases and weekly pings, so, implement your metrics early.
 
@@ -470,7 +451,7 @@ All of the prior steps have been completed and a PI is successfully implemented.
 | [Product Intelligence Guide](/handbook/product/product-intelligence-guide) | A guide to Product Intelligence                   |
 | [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping.html)  | An implementation guide for Usage Ping  |
 | [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow.html)   | An implementation guide for Snowplow        |
-| [Event Dictionary](/handbook/product/product-intelligence-guide#event-dictionary)  | A SSoT for all collected metrics and events       |
+| [Event Dictionary](/handbook/product/product-intelligence-guide#metrics-dictionary)  | A SSoT for all collected metrics and events       |
 | [Privacy Policy](/privacy/)      | Our privacy policy outlining what data we collect and how we handle it     |
 | [Implementing Product Performance Indicators](/handbook/product/product-intelligence-guide#implementing-product-performance-indicators)    | The workflow for putting product performance indicators in place   |
 | [Product Intelligence Direction](/direction/product-intelligence/)   | The roadmap for Product Intelligence at GitLab                       |
