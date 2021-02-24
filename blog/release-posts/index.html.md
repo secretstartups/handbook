@@ -865,7 +865,7 @@ of their group for review (required). The process of the TW review is described 
 
 ### UX Reviewers
 
-**Note:** UX DRIs review the individual release post items according to the [stage/group each Product Designer is assigned to](https://about.gitlab.com/handbook/product/categories/#devops-stages).
+**Note:** UX [DRIs](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) review the individual release post items according to the [stage/group each Product Designer is assigned to](https://about.gitlab.com/handbook/product/categories/#devops-stages).
 {: .alert .alert-info}
 
 _Each PM is responsible for pinging their Product Design (UX) counterpart when they need a review on the content or visuals within a release post._
