@@ -1770,7 +1770,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
    1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`
    1. If an image is not available, you can use a generic image (ex: https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png)
 1. Submit the MR and add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for. 
-1. A validator will run on the yaml file to make sure that URLs are correct. **IMPORTANT: The pipeline will fail until after the release post is live. This helps to ensure that the image URLs are correct.**
+1. A validator will run on the yaml file to make sure that URLs and values are correct. **IMPORTANT: The pipeline will fail until after the release post is live. This helps to ensure that the image URLs are correct.**
 1. The MR will not be merged until after the release post is live on the 22nd. Typically this means the What's New content will be live on the 23rd. 
 
 <style>
