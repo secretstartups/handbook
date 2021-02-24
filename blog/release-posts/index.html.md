@@ -869,7 +869,9 @@ of their group for review (required). The process of the TW review is described 
 {: .alert .alert-info}
 
 _Each PM is responsible for pinging their Product Design (UX) counterpart when they need a review on the content or visuals within a release post._
+
 Product Designers should collaborate on release post items and review:
+
 - **JTBD**: Ensure that the messaging encapsulates how the item supports a user’s Job to be Done.
 - **MVC messaging**: Articulate any design vision or future iterations if applicable. This is especially relevant when considering items that contribute toward increasing a Category’s maturity.
 - **Artifacts**: Validate that UI elements (screenshots, GIFs) included in the post are up to date and reflect all design changes. Ensure that no mocks are used. 
