@@ -44,7 +44,7 @@ The GitLab blog is not self-serving; if content is purely promotional and adds n
 
 ## Scope
 
-**Mission statement:** We cover the life of the software developer and anyone involved in the software development lifecycle (e.g., ops, sec, test professionals*). These are our core audience of users, who are influential in adopting and expanding the use of GitLab in their workplaces and communities. Our aim is to help our audience continually improve in all aspects of their work lives. We cover topics ranging from career and skills development and efficient and effective collaboration to sharing tutorials and lessons from our engineering org to new technology developments, trends, and ideas. All of this is shared through the lens of [_Work in Progress_](#blog-concept): Approaching things with a sense of curiosity and spirit of iteration, whether zooming in on the experience of the individual or zooming out for the industry-wide perspective.
+**Mission statement:** We cover the life of the software developer and anyone involved in the software development lifecycle (e.g., ops, sec, test professionals*). These are our core audience of users, who are influential in adopting and expanding the use of GitLab in their workplaces and communities. Our aim is to help our audience continually improve in all aspects of their work lives. We cover topics ranging from career and skills development and efficient and effective collaboration to sharing tutorials and lessons from our engineering org to new technology developments, trends, and ideas.
 
 Please see [Attributes of a successful blog post](/handbook/marketing/blog/#attributes-of-a-successful-blog-post) for examples of stories that perform well on our blog.
 
