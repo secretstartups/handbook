@@ -30,6 +30,22 @@ In this video our CEO, Sid gives team members tips and tricks for hosting a FGU 
 
 Below is a guide to ensure evenryone gets the most out of Group Conversations. If you have suggestions for improving the Attendee or Meeting Leader experience please create a Merge Request (MR) to update this page — [everyone can contribute](/company/strategy/#why)!
 
+## Group Conversation vs. Key Meeting
+
+It's common to wonder what the difference is between these two meetings. Generally, they cover the same or similar content, but for different audiences.
+
+|  | Key Meeting | Group Conversation
+| --- | --- | --- |
+| **Audience** | Management | General GitLab Team |
+| **Tone** | Formal | Informational |
+| **Discussion** | High-context | [Low-context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) |
+
+The Key Meeting is intended for updating management on progress, while the Group Conversation is open to the entire GitLab team and is a good place for sharing news and explaining initiatives. Here's a brief discussion of why we have both meetings, and how they can operate effectively:
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/tLOMA3663XM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Defining Terms
 
 ### Host
