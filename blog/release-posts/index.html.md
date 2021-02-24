@@ -469,7 +469,7 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 In both cases:
 
 - If the feature is primary and you had not previously added it to `features.yml` you will need to create a second MR, branched from `master` to add the feature to `features.yml`. (`features.yml` should be merged to `master`, not the release post branch.)
-- If the feature has an image it should be placed in `/source/images/unreleased/` on the `release X-Y` branch
+- Once the items have been merged into the `release-x-y` branch, repeat the [Content Assembly](/#content-assembly-merging-release-post-items-content-blocks-to-your-branch) steps to ensure the items are moved to the right folder and the image_urls are updated.
 
 ##### Process for removing merged content blocks
 
