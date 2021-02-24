@@ -172,6 +172,8 @@ Some teams require more time to put a plan of action in place so we recommend co
 
 Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave **at least 30 days before your leave starts.**
 
+When you return from parental leave, please [notify Total Rewards that you have returned](/handbook/total-rewards/benefits/general-and-entity-benefits/#confirming-your-return).
+
 ### Planning Your Parental Leave Dates
 
 Your 16 weeks of parental leave starts on the first day that you take off. This day can be in advance of the day that the baby arrives. You don't have to take your parental leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is within the 12 months of the birth or adoption event.
@@ -188,6 +190,14 @@ If you need to take more time off after taking 16 weeks of parental leave, you c
 Please e-mail Total Rewards if you'd like to make this request and submit your PTO dates in [PTO by Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots).
 
 ### Returning from Parental Leave
+
+#### Confirming your return
+
+A day before you return from parental leave, you'll receive a PTO by Roots [Welcome Back message](https://docs.google.com/document/d/1gKJlcLbQ-Y9KZZniYHRptG6qIOzleyDaCdbQWEkswTA/edit?ts=6033d0b3) with buttons to confirm your return or to explore other options.     
+      * Clicking the `Confirm my return` button will open the email client with a pre-loaded template "Confirming my return from Parental PTO".
+      * Clicking the `Explore options` button will also open the email client with a pre-loaded template "I have exceeded my 16 weeks and like to look into further options".
+
+#### Return-to-work Resources
 
 To [alleviate the stress](/handbook/paid-time-off/#returning-to-work-after-parental-leave) associated with returning to work after parental leave, GitLab supports team members coming back at [50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Parents at GitLab who are reentering work following parental leave are encouraged to read the [Team Member Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit) and to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/#parental-leave-reentry-buddies).
 
@@ -206,9 +216,7 @@ For Total Rewards:
   * Notify payroll - add the start date and end date on the payroll changes file ("Payroll Changes" sheet for team members in the US, "Canada Payroll Changes" sheet for team members in Canada and "Non-US Payroll Changes" sheet for everyone else). Ensure the entry is under the appropriate pay cycle date.
   * PTO by Roots will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually. 
   * Check local statutory requirements and if applicable, arrange any paperwork and liaise with appropriate parties (such as the PEO and payroll team) to initiate the parental leave.
-  * 1 day before the End of Parental Leave date, PTO by Roots will send the team member a [Welcome Back message](https://docs.google.com/document/d/1gKJlcLbQ-Y9KZZniYHRptG6qIOzleyDaCdbQWEkswTA/edit?ts=6033d0b3) with buttons to confirm their return or explore other options.     
-      * Clicking the `Confirm my return` button will open the email client with a pre-loaded template "Confirming my return from Parental PTO"
-      * Clicking the `Explore options` button will also open the email client with a pre-loaded template "I have exceeded my 16 weeks and like to look into further options"
+  * 3 days after the End of Parental Leave date, BambooHR will send a notification to Total Rewards. Check if the team member has confirmed their return via email. If not, send the Return to Work e-mail to the team member and manager.
   * Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
   * If the dates in PTO by Roots change, update the payroll changes file and the BambooHR status accordingly.
