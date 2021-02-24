@@ -418,39 +418,39 @@ They are also used by the automated triage operation ["Stage and group labels in
 Below are attributes that can be added to a stage in `data/stages.yml`.
 
 * `<stage_key>.display_name`:
-marketing: true
-tw: true
-image
-description
-body
-direction
-roadmap
-established
-lifecycle
-horizon
-contributions
-usage_driver_score
-revenue_driver_score
-sam_driver_score
-stage_development_spend_percent
-analyst_reports
-analyst_reports.title
-analyst_reports.url
-related
-section
-pm
-groups
+* `<stage_key>.marketing`:
+* `<stage_key>.tw`:
+* `<stage_key>.image`:
+* `<stage_key>.description`:
+* `<stage_key>.body`:
+* `<stage_key>.direction`:
+* `<stage_key>.roadmap`:
+* `<stage_key>.established`:
+* `<stage_key>.lifecycle`:
+* `<stage_key>.horizon`:
+* `<stage_key>.contributions`:
+* `<stage_key>.usage_driver_score`:
+* `<stage_key>.revenue_driver_score`:
+* `<stage_key>.sam_driver_score`:
+* `<stage_key>.stage_development_spend_percent`:
+* `<stage_key>.analyst_reports`:
+* `<stage_key>.analyst_reports.title`:
+* `<stage_key>.analyst_reports.url`:
+* `<stage_key>.related`:
+* `<stage_key>.section`:
+* `<stage_key>.pm`:
+* `<stage_key>.groups`:
 
 ##### Group Attributes
 
-* `groups.<group_key>.name`: 
-* `groups.<group_key>.pm`: 
+* `groups.<group_key>.name`:
 * `groups.<group_key>.focus`: 
-* `groups.<group_key>.categories`: 
-* `groups.<group_key>.pmm`: 
-* `groups.<group_key>.cm`: 
-* `groups.<group_key>.backend_engineering_manager`: 
-* `groups.<group_key>.frontend_engineering_manager`: 
+* `groups.<group_key>.categories`:
+* `groups.<group_key>.pm`:
+* `groups.<group_key>.pmm`:
+* `groups.<group_key>.cm`:
+* `groups.<group_key>.backend_engineering_manager`:
+* `groups.<group_key>.frontend_engineering_manager`:
 * `groups.<group_key>.support`: 
 * `groups.<group_key>.sets`: 
 * `groups.<group_key>.pdm`: 
@@ -459,9 +459,9 @@ groups
 * `groups.<group_key>.tech_writer`: 
 * `groups.<group_key>.tw_backup`: 
 * `groups.<group_key>.appsec_engineer`: 
-* `groups.<group_key>.be_team_tag`: 
-* `groups.<group_key>.fe_team_tag`: 
-* `groups.<group_key>.cs_team_tag`: 
+* `groups.<group_key>.be_team_tag`: The "tag" being used in the `department` field in `team.yml` for Backend Engineers on this team
+* `groups.<group_key>.fe_team_tag`: The "tag" being used in the `department` field in `team.yml` for Frontend Engineers on this team
+* `groups.<group_key>.cs_team_tag`: The "tag" being used in the `department` field in `team.yml` for Customer Success on this team
 * `groups.<group_key>.internal_customers`: 
 * `groups.<group_key>.internal_customers.department`: 
 * `groups.<group_key>.internal_customers.dri`: 
@@ -473,9 +473,10 @@ groups
   Ideally, feature labels should be associated with a category instead (see
   `feature_labels` in the "Category attributes" section below).
   This list is used in the automated triage operation ["Stage and group labels inference from category labels"](/handbook/engineering/quality/triage-operations/).
-* `groups.<group_key>.pi_gmau`:
-* `groups.<group_key>.pi_pgmau`: 
-
+* `groups.<group_key>.pi_gmau`: A link to the dashboard that displays GMAU for this group
+* `groups.<group_key>.pi_pgmau`: A link to the dashboard that displays _Paid_ GMAU for this group
+* `groups.<group_key>.analyst_reports`: A link to a location where relevant analyst reports are available
+* `groups.<group_key>.comp_comparison`: A link to a location where comparisons with competitive products are available
 
 #### Category attributes
 
