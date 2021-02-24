@@ -1,3 +1,10 @@
+---
+layout: handbook-page-toc
+title: Commissions
+---
+
+
+
 ## **Charter**
 
 Sales Commissions is a part of Field Operations, reporting into Sales Operations. Our goal is to incentivize the field to close business, collaborate to make GitLab successful and process commissions in an accurate and timely fashion. We aim to be viewed as a trusted business partner for Field Sales.
@@ -38,8 +45,7 @@ There are two ways to connect with us.
 
 ## **Quotas Overview**
 
-All employees with variable compensation plans will be assigned a quota that supports their
-assigned territory/region shortly after the beginning of each fiscal year or when they enter into their role. Quota assignment and quota ramp (including any mid-year adjustments) are determined by Sales Leadership. Sales Leadership reserves the right to make any adjustments to quotas.
+All employees with variable compensation plans will be assigned a quota that supports their assigned territory/region shortly after the beginning of each fiscal year or when they enter into their role. Quota assignment and quota ramp (including any mid-year adjustments) are determined by Sales Leadership. Sales Leadership reserves the right to make any adjustments to quotas.
 
 The quota coverage types are:
 
@@ -48,49 +54,82 @@ The quota coverage types are:
 
 ### **Quota Components**
 
-Can be made of various measurements, but typically by IACV at the Teritory, Region or Segment levels.
+Can be made of various measurements, but typically by ARR at the Territory, Region or Segment levels.
 
 The current Commission Plan [presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g153a2ed090_0_63) outlines the key components in detail.
 
-### **Sales Rep IACV Quota Ramp**
+### **Month 1 Ramp Schedule: 15 Day Rule**
 
-For all enterprise native-quota carrying salespeople, we assume around a twelve (12) month ramp before a rep is fully productive. We have the following ramp up schedule and measure quota performance based on this schedule:
+ Effective February 1st, 2021, we will be utilizing a 15 day rule to determine "Month 1" of your Ramp Schedule.  If you are hired during the 1st-15th of any given month, that is considered your "Month 1", and if you are hired after the 15th of any given month, then there is a 0% contribution of that month's quota, and your "Month 1" begins on the first of the following month.
+Example:
 
-#### **Enterprise**
+- Hired on 4/10/2021:   Month 1 = April 2021
+- Hired on 4/22/2021:   Month 1 = May 2021
 
-- First Quarter Hired: 0% contribution of quarterly target
-- Second Quarter Hired: 30% contribution of quarterly target
-- Third Quarter Hired: 65% contribution of quarterly target
-- Fourth Quarter Hired: 90% contribution of quarterly target
+#### **Enterprise Ramp Schedule**
 
-#### **Mid Market**
+For all enterprise native-quota carrying salespeople, we assume around a ten (10) month ramp before a rep is fully productive. We have the following ramp up schedule and measure quota performance based on this schedule:
 
-For all Mid Market native-quota carrying salespeople, we assume around a six (6) month ramp before a rep is fully productive. We have the following ramp up schedule and measure quota performance based on this schedule:
+- Month 1: 0% contribution of monthly target
+- Month 2: 0% contribution of monthly target
+- Month 3: 10% contribution of monthly target
+- Month 4: 10% contribution of monthly target
+- Month 5: 30% contribution of monthly target
+- Month 6: 30% contribution of monthly target
+- Month 7: 60% contribution of monthly target
+- Month 8: 60% contribution of monthly target
+- Month 9: 75% contribution of monthly target
+- Month 10: 75% contribution of monthly target
+- Month 11+: 100% contribution of monthly target
 
-- First Quarter Hired: 25% contribution of quarterly target
-- Second Quarter Hired: 50% contribution of quarterly target
-- Third Quarter Hired: 100% contribution of quarterly target
+#### **Mid Market Ramp Schedule**
+
+For all Mid Market native-quota carrying salespeople, we assume around a five (5) month ramp before a rep is fully productive. We have the following ramp up schedule and measure quota performance based on this schedule:
+
+- Month 1: 25% contribution of monthly target
+- Month 2: 25% contribution of monthly target
+- Month 3: 50% contribution of monthly target
+- Month 4: 50% contribution of monthly target
+- Month 5: 75% contribution of monthly target
+- Month 6+: 100% contribution of monthly target
+
+#### Channel Account Manager Ramp Schedule
+
+For all Channel Account Managers, we assume around a three (3) month ramp before a rep is fully productive. This ramp is layered into the Partner Soured quota only.  Partner Assist and Partner Fulfilled quotas are not ramped.  We have the following ramp up schedule and measure quota performance based on this schedule:
+
+- Month 1: 25% contribution of monthly target
+- Month 2: 50% contribution of monthly target
+- Month 3: 75% contribution of monthly target
+- Month 4+: 100% contribution of monthly target
+
+#### Internal Transfer Ramp Schedule
+
+For all internal transfer native-quota carrying salespeople, we assume around a three (3) month ramp before a rep is fully productive. We have the following ramp up schedule and measure quota performance based on this schedule:
+
+- Month 1: 25% contribution of monthly target
+- Month 2: 50% contribution of monthly target
+- Month 3: 75% contribution of monthly target
+- Month 4+: 100% contribution of monthly target
 
 #### **Seasonality Assumptions**
 
-We also factor in seasonality into our calculations. We expect most of our business to close in the second half of the year. Our seasonality assumptions are as follows for the private sector:
+We also factor in seasonality into our calculations. We expect most of our business to close in the second half of the year. Our Worldwide seasonality assumptions are as follows:
 
-- First Fiscal Quarter: 20%
-- Second Fiscal Quarter: 22%
-- Third Fiscal Quarter: 30%
-- Fourth Fiscal Quarter: 28%
+- First Fiscal Quarter: 19.0%
+- Second Fiscal Quarter: 24.5%
+- Third Fiscal Quarter: 28.0%
+- Fourth Fiscal Quarter: 28.5%
 
-Given the fiscal period for public sector, our seasonality assumptions differ:
+Each native-quota carrying salesperson carries an individual seasonality based on the specific circumstances of their accounts, territory, region and segment.  The above seasonality is the aggregation of GitLab as a whole, and is not specific to one person or team.  Xactly will provide Quotas by Month and Quarter.
 
-- First Fiscal Quarter: 15%
-- Second Fiscal Quarter: 17%
-- Third Fiscal Quarter: 46%
-- Fourth Fiscal Quarter: 11%
+#### **Overlay Quotas Proration**
 
-#### **Quotas Proration**
+1. Overlay Quota Reps:  Effective February 1st, 2021, we utilize a 15 day rule to determine the first month in which your quota takes place, where if you are hired during the 1st-15th of any given month, that is considered your "Month 1", and if you are hired after the 15th of any given month, then there is a 0% contribution of that month's quota, and your "first month of quota begins on the first of the following month.
 
-1. Native Quota-Carrying Reps: prorated quotas are based on each NQR’s territory / existing account base and hire date to determine your individual seasonality. The above metrics are viewed from a WW GitLab perspective, but each individual will share a unique seasonality specific to their circumstances.
-1. Overlay Quota Reps: proration is based off the number of days employed in the given period. Your prorated quota would be calculated as follows: (Quota / (Period End Date - Period Start Date)) * (Period End Date - Hire Date). For example, if the regional quota is $10,000,000 for the year and the start date is 4/1/2019, your quota will be calculated as ($10,000,000 / (2020-01-31 - 2019-02-01)) * (2020-01-31 - 2019-04-01) = $8,379,120.88.
+Example:
+
+- Hired on 4/10/2021:   Month 1 = April 2021
+- Hired on 4/22/2021:   Month 1 = May 2021
 
 ## **Commissions Overview**
 
