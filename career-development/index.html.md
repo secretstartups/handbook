@@ -521,9 +521,9 @@ Since collective exceptions within a department will at some point impact overal
 |---------------|----------------|-----------|----------|
 | Scalability Team | Infrastructure | 2 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Scalability-Team-IC-Gearing) |
 | Delivery Team | Infrastructure | 3 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Delivery-Team-IC-Gearing) |
-| Staff Security Engineer Application Security | Security | 2 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/12) |
-| Staff Security Engineer Red Team | Security | 2 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/security-operations/management/-/issues/17) |
-| Staff Security Engineer Security Research | Security | 2 : Team | [Issue](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/engineering-and-research-meta/-/issues/14)|
+| Staff Security Engineer Application Security | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284925) |
+| Staff Security Engineer Red Team | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517282157) |
+| Staff Security Engineer Security Research | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284355)|
 
 ### Benefits of this solution
 A number of alternative approaches were considered as a solution for this gearing. The [IC Gearing Working Group](/company/team/structure/working-groups/ic-gearing/) resulted in this model for the following reasons:
