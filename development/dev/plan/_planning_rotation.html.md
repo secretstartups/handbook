@@ -5,7 +5,7 @@ initial. This should start on the 4th of the month, per the [Product Development
 
 To weight issues, they should:
 
-1. Look through issues with the ~"workflow::planning breakdown" 
+1. Look through all issues (including ~frontend) with the ~"workflow::planning breakdown" 
    label, filtered by your group and ~"Next Up" (you can use the links in the table below).
 1. For those they understand, they add a weight. If possible, they also add a
    short comment explaining why they added that weight, what parts of the code
@@ -18,5 +18,8 @@ To weight issues, they should:
    should ask for clarification on the scope of the issue.
 1. If two people disagree on the weight of an issue, even after explaining their
    perceptions of the scope, we use the higher weight.
+
+We're discussing how we can better work with Frontend team-members to get faster, more 
+accurate estimations in [this issue](https://gitlab.com/gitlab-org/plan/-/issues/274).
 
 [Product Development Timeline]: https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline
