@@ -439,6 +439,8 @@ For more information on ARR calculation for Multi-Year Deals, see [ARR in Practi
 
 A ramp deal is when a customer prepays for users that will be fulfilled on a set schedule throughout the duration of the subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
 
+Ramp deals are limited to multi-year deals, with 12 month ramp periods. See [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals) for more information.
+
 </div>
 </div>
 
