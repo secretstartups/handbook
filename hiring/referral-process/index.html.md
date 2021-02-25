@@ -36,6 +36,7 @@ A Referral is **not**:
 * Someone you sourced or someone who reached out to you regarding a vacancy (e.g. on LinkedIn). If someone you have **not** worked with reaches out requesting to be referred, you could respond with, *"Thank you for your interest in GitLab. We prefer that you register your interest with our Talent Community. This will ensure the that right GitLab Team Member reviews your profile and, if you're deemed suitable, replies back. Unfortunately, I cannot refer you as we have not had a chance to work together. Also, I cannot influence your application"*.
 * Someone who applied via a link you shared on a social site.
     * There's **no** way of determining who clicked a link on Twitter from a genuine Referral.
+* A former (or "Boomerang") Team Member.
 
 Other Referral clarifications:
 
