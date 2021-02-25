@@ -138,21 +138,16 @@ Managers play a unique role at GitLab. When a team member on their team excels i
 
 ### Host a Team Day
 
-Organized team days, like [this example from the Growth team](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/119) encourage community building.
+Organized team days, like [this example from the Growth team](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/119) encourage trust and community building. If your team distributed across multiple time zones, enable async participation or have synchronous events across multiple time zones.
 
-Some things to consider when planning a team day include:
+Below are potential team day activities:
 
-1. If your team distributed across multiple time zones, enable async participation or have synchronous events across multiple time zones.
-
-Team days could include activities like:
-
-1. Non-work realted discussions
-1. Sharing passion projects
-1. Zoom pictionary/drawing guessing game. Try using the tool [Drawasaurus](https://www.drawasaurus.org/).
-1. Zoom classes based on team members skills, like cooking, crafts, fitness, or woodworking
-1. [Walk and talk](https://about.gitlab.com/handbook/communication/#walk-and-talk-calls) social chats
-1. Social hour calls
-1. Async slack social threads connecting to solve riddles, sharing funny GIFs, photo share of home town tour or passion projects
+1. Host a non-work realted call, like a social hour or a time to share passion projects
+1. Give a tour to your team of your home town, your favorite place, or a dream vacation spot. Try sharing photos, Google Maps tours, and videos.
+1. Play a Zoom pictionary/drawing guessing game. Try using the tool [Drawasaurus](https://www.drawasaurus.org/).
+1. Host live or recorded Zoom classes based on team members skills, like cooking, crafts, fitness, or woodworking.
+1. Organize a [Walk and talk](https://about.gitlab.com/handbook/communication/#walk-and-talk-calls) social chat, a team 5k walk or run, or some other kind challenge to get your body moving.
+1. Create Slack social threads to solve riddles, play a trivia game, post GIFs to represent your day, and share photos.
 
 ## Learning Speaker Series - Building Trust with Remote Teams
 
