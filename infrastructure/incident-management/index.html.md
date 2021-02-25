@@ -118,6 +118,10 @@ In some cases, we may choose not to post to status.io, the following are example
 1. In the case of high severity bugs that affect a customer, the IMOC will also be responsible for making sure Incident Reviews are coordinated with Engineering and go through the proper Incident Review process.
 1. In the event of a Severity 1 incident which has been running for an hour or more or appears that it will be a long-running Severity 1 incident, page Infrastructure leadership via email at `severity-1@gitlab.pagerduty.com` or via the `GitLab Production - Severity 1 Escalation` service in PagerDuty (app or website) with a link to the incident.
 
+To engage the IMOC: either run `/pd trigger` in Slack, then select the "GitLab
+Production - IMOC" service, or create an incident in [the Pagerduty page for the
+service](https://gitlab.pagerduty.com/service-directory/PE8A5MX).
+
 
 #### Communications Manager on Call (CMOC) Responsibilities
 
@@ -136,7 +140,7 @@ During an incident, the CMOC will:
 If, during an incident, EOC or IMOC decide to engage CMOC, they should do that
 by paging the on-call person:
 
-- Using the `/pd-cmoc` command in Slack
+- Using the `/pd trigger` command in Slack, then select the "Incident Management - CMOC" service from the modal.
 or
 - Directly from PagerDuty in the [Incident Management - CMOC Rotation](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L)
 schedule in PagerDuty. That can be done by navigating to [Incidents page in PagerDuty](https://gitlab.pagerduty.com/incidents),
