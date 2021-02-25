@@ -142,7 +142,7 @@ Organized team days, like [this example from the Growth team](https://gitlab.com
 
 Below are potential team day activities:
 
-1. Host a non-work realted call, like a social hour or a time to share passion projects
+1. Host a non-work related call, like a social hour or a time to share passion projects.
 1. Give a tour to your team of your home town, your favorite place, or a dream vacation spot. Try sharing photos, Google Maps tours, and videos.
 1. Play a Zoom pictionary/drawing guessing game. Try using the tool [Drawasaurus](https://www.drawasaurus.org/).
 1. Host live or recorded Zoom classes based on team members skills, like cooking, crafts, fitness, or woodworking.
