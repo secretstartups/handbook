@@ -445,7 +445,7 @@ This is how we work with Issues and their scope
 - IM leader communicates company and marketing strategy and IM team creates strategies to meet these goals
 - At the beginning of Q4, we will create a Roadmap Epic for all items that will be candidates for next year's strategy.
 - Strategy for the year is documented in the handbook
-- Yearly budgetting takes place in Allocadia based on Marketing strategy 
+- Yearly budgeting takes place in Allocadia based on Marketing strategy 
 
 # Video Playlists
 
