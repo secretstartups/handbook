@@ -26,14 +26,12 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 1. [OKRs](/company/okrs/) for that function.
 
 ## Timing
-Meetings are scheduled monthly starting on the 10th day after month end. Key meetings need to occur before the function leaders [Group Conversation](/handbook/people-group/group-conversations/)
+Meetings are scheduled monthly starting on the 10th day after month end.  
 
 ## Scheduling
 The EBA to the CFO is the scheduling DRI for the Monthly Key Meetings, with the exception of the Sales Key Meeting, the EBA to the CRO is the DRI for the Sales Key Meeting.
 
-All changes to the Key Meeting schedule and/or invites have to be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. 
-
-Any schedule changes that result in a key meeting occuring after a Group Conversation must be approved by the CEO. To obtain approval, please @ mention Sid in #key-meetings in Slack with the request and provide a reason as to why the Key Meeting is occurring after the Group Conversation. 
+All changes to the Key Meeting schedule and/or invites have to be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 
 ## Invitees
 
