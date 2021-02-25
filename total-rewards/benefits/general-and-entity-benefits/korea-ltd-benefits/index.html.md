@@ -18,14 +18,7 @@ GitLab does not plan to offer Private Health Insurance at this time because all 
 
 ## Pension
 
-Team members registered to the Korea's Social Security Program are also registered with the National Pension Scheme. 
-
-* The total contribution rate is 9% of the monthly salary. Both the employer (GitLab) and the team member contribute equally in the pension scheme (4.5% each). Maximum contribution to National Pension is subject to change every year in the month of July. [Source](https://www.nps.or.kr/jsppage/english/research/research_01.jsp)
-
-**Maximum monthly pension contribution for both team member and employer = Monthly salary capped * 4.5% each**
-
-* To qualify for a pension, a person must be at least 62 years old (for those born from 1957 - 1960) and have made at least ten years of contributions. Reduced early pension can be obtained at the age of 56. The normal pension age will be raised to 65 years by 2033 (for those born in 1969 or later), and the reduced early pension age will increase to 60 years. 
-* All employees are covered, excluding those working less than 15 hours per week.
+GitLab does not plan to offer pension benefit at this time as team members registered to the Korea's Social Security Program are also registered with the [National Pension Scheme](https://www.nps.or.kr/jsppage/english/research/research_01.jsp). 
 
 ## Life Insurance
 
