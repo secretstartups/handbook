@@ -41,6 +41,14 @@ Please avoid tagging Billing team members directly in chatter, instead use `@bil
 Please avoid contacting any Billing team members [directly via Slack](/handbook/communication/#avoid-direct-messages).
 Please tag `@billing-ops` in the `#Finance` channel.
 
+### Standard Operating Process
+
+The Billing Team performs a billing reconciliation and Bill Run in Zuora daily.
+
+The daily bill run will encompass all closed won opportunities from the prior day.
+
+The expected close to invoice cycle is 24-48 hours depending on the complexity of the related opportunity. 
+
 ### The scope of our tasks:
 
 * Reviewing and invoicing orders
