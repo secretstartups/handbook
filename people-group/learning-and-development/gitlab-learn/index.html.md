@@ -69,10 +69,10 @@ GitLab has invested in the LXP to enable our team members, partners, customers, 
 
 If your team has created learning paths or curated external resources for team member professional development, we highly suggest adding this content to the LXP. 
 
-By using the LXP to adminsiter learning, your team can:
+By using the LXP to administer learning, your team can:
 
-1. Track completion and engaagement with learning material
-1. Share badges and certifications earned externally on your LinkedIn profie
+1. Track completion and engagement of learning material
+1. Share earned badges and certifications externally on your LinkedIn profile
 1. Suggest related training based on previously completed or viewed content using machine learning in the EdCast platform
 1. Enable other team members and community members to access learning content
 
