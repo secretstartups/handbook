@@ -357,7 +357,7 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 {: #boards}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-<b>[Request Intake Board](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&amp;label_name%5B%5D=Marketing%20Programs)</b> - this board provides a high-level status view of incoming issue requests.
+<b>[Campaigns Team Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/1884920?milestone_title=%23started&&label_name[]=dg-campaigns)</b> - this board provides a high-level status view of issues in the current milestone by team member.
 
 <b>[All Milestones Board](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&amp;utf8=%E2%9C%93&amp;state=opened&amp;label_name%5B%5D=Marketing%20Programs)</b> - this board provides high level of all milestones in consecutive order
 
