@@ -74,7 +74,7 @@ Inbound Marketing is comprised of these Marketing Teams:
 
 ### The Marketing Website
 
-GitLab's Marketing Website (about.gitlab.com) is led by the [Digital Experience Team](/handbook/marketing/inbound-marketing/digital-experience) and anyone can contribute.
+GitLab's [Marketing Website](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/) (about.gitlab.com) is led by the [Digital Experience Team](/handbook/marketing/inbound-marketing/digital-experience) and anyone can contribute.
 
 ### The Blog
 
@@ -118,10 +118,12 @@ Please fill out one of these Issue Templates to request support. Please note, if
 
 #### Website Issue Templates
 
+For more information and setting yourself up for success see tips and more information [HERE](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-support)
+
 - [Requesting a new webpage](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-new-website-brief)
     - Use this template to request new webpages related to logged-out `about.gitlab.com` and related properties such as landing pages for Marketo, Pathfactory, etc.
     - Do NOT use this for logged-in (In-App) gitlab.com or the Handbook
-    - For more information on this process click [HERE](LINK)
+    - For more information on this process click [HERE](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-support)
     - [Image Guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/): Please follow these guidelines when providing logos or other images for the website
 - [Requesting an update to an existing webpage](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-update-webpage-brief)
     - Use this template to update existing webpages related to logged-out `about.gitlab.com` and related properties such as landing pages for Marketo, Pathfactory, etc.
