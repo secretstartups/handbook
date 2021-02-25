@@ -459,7 +459,7 @@ In cases where multiple individuals are asked to transfer to high priority roles
 
 Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documented in the HRIS file of the team member who received the new role. See [Department Transfers](/handbook/people-group/promotions-transfers/#department-transfers) for additional details.
 
-More details can be found on the [Intneral Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustments) page.
+More details can be found on the [Internal Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustments) page.
 
 ### Leveling Up Your Skills
 
