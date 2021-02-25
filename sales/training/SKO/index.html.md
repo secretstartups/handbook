@@ -126,8 +126,8 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Welcome to GitLab Sales Kickoff 2021 | [slides](https://docs.google.com/presentation/d/1tYA4skru1M8n41D41ZIA-4klgEiq3BRwRxXo2FF-tHg/edit?usp=sharing) (GitLab internal) | video (coming soon) |
-| Product Keynote: A Winning Product for Peak Performance | [slides](https://docs.google.com/presentation/d/1NunKRuZBnDcZi0k_N5-NQBvdy5X5ZaV4a1Qf7w126qs/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Welcome to GitLab Sales Kickoff 2021 | [slides](https://docs.google.com/presentation/d/1tYA4skru1M8n41D41ZIA-4klgEiq3BRwRxXo2FF-tHg/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-welcome) (GitLab internal) |
+| Product Keynote: A Winning Product for Peak Performance | [slides](https://docs.google.com/presentation/d/1NunKRuZBnDcZi0k_N5-NQBvdy5X5ZaV4a1Qf7w126qs/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-product) (GitLab internal) |
 | Customer Spotlight: H-E-B and GitLab: A Happy Marriage | [slides](https://docs.google.com/presentation/d/1-PZn0IlB6SYvPMDW2zcF06mqAY61u9b-Dnv0vxRgJTI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/customer-spotlight) (GitLab internal) |
 
 ## SKO 2021 Day 2 Sessions
@@ -137,7 +137,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | Marketing Keynote: Prepare for Peak Performance | [slides](https://docs.google.com/presentation/d/175Qyf6TGGN8vgDaCrBKek6hOGMA-LHYfqjl9or-RPyE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-marketing) (GitLab internal) |
 | Channel Keynote: Cover More Ground with Channel Partners | [slides](https://docs.google.com/presentation/d/18OL3wiTPvhK4ZEzhHcxIErE5WqtmGpdJdMyr0fFqHDM/edit#slide=id.gb5ab6e1814_0_0) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-channel) (GitLab internal) |
 | Alliances Keynote: Winning is a Team Sport! | [slides](https://docs.google.com/presentation/d/1DOzBi5Jrc7kUxhaECy13hR1LBv6TRvx2JP7JlYtvEN8/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-alliances) (GitLab internal) |
-| Closing Keynote: It's Time for Peak Performance | slides (coming soon) | video (coming soon) |
+| Closing Keynote: It's Time for Peak Performance | [slides](https://docs.google.com/presentation/d/1qjQIuynuPQg6rGuNQSzKFSgdS8q_QJLzlmYujRcP3VE/edit) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-closing) (GitLab internal) |
 
 ## SKO Awards Ceremony
 
@@ -170,7 +170,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
-| Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-gitlab) (GitLab internal) |
 | Planning for Joint GitLab and Partner Success | [slides](https://docs.google.com/presentation/d/1Bw-kIgYlIfX4kyOS4Wgb_k0PjXJ3u4-WdD0b4xxWhtU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-planning) (GitLab internal) |
 | Growing Our Partner Business (Individual and CSM Partner Portfolio) | [slides](https://docs.google.com/presentation/d/126nNQ5VX-kFNVxfI1YBQL9uWo9EVh3P7tmabQwAX2UI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-growing) (GitLab internal) |
 | Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-building) (GitLab internal) |
