@@ -34,7 +34,7 @@ To host a live learning event, start by opening an issue in the Learning and Dev
 - [Introduction to Coaching](/handbook/leadership/coaching/#introduction-to-coaching-1)
 - [Being an Ally](/company/culture/inclusion/being-an-ally/#ally-training)
 
-### Creating a new learning pathway
+### Create a new learning pathway
 
 Anyone team at GitLab is encoruaged to build new learning pathways. Some scenarios where you might want to build a pathway include:
 
@@ -51,7 +51,7 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 1. GitLab 101 and GitLab 201
 1. Bias for Asynchronous Communication
 
-#### Timeline and expectations
+**Timeline and expectations**
 
 |Action | Timeline |
 | ----- | ----- |
@@ -66,22 +66,31 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 | Launch your course | approx. **5 weeks** after opening the `new_pathway` issue with the L&D team |
 
 
-### Integrating external content to GitLab Learn
+### Integrate external content to GitLab Learn
 
 The process for integrating external content to GitLab Learn is being built.
 
-#### Timeline and expectations
+**Timeline and expectations**
+
+Timeline and expectations for this type of request are currently a WIP.
 
 
-### Requesting content review
+### Request content review
 
 The process for L&D content review is being built.
 
-#### Timeline and expectations
+**Timeline and expectations**
 
-### Requesting new content creation or L&D support
+Timeline and expectations for this type of request are currently a WIP.
+
+
+
+### Request new content creation or L&D support
 
 The process for requesting content from L&D is being built.
 
-#### Timeline and expectations
+**Timeline and expectations**
+
+Timeline and expectations for this type of request are currently a WIP.
+
 
