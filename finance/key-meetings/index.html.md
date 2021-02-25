@@ -29,9 +29,11 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 Meetings are scheduled monthly starting on the 10th day after month end.  
 
 ## Scheduling
-The EBA to the CFO is the scheduling DRI for the Monthly Key Meetings, with the exception of the Sales Key Meeting, the EBA to the CRO is the DRI for the Sales Key Meeting.
+The EBA to the CFO is the scheduling DRI for the Monthly Key Meetings, with the exception of the Sales Key Meeting, the EBA to the CRO is the scheduling DRI for the Sales Key Meeting.
 
-All changes to the Key Meeting schedule and/or invites have to be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
+A Key Meeting should not be cancelled, permission to cancel or make changes to the Key Meeting schedule must be approved by the CFO. If the CFO is not available the CEO will make the decision. Requests should be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. All changes to the Key Meeting schedule and/or invites have to be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
+
+Each month's Key Meeting schedule will be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel on the first Monday of each month (if that Monday falls on a holiday it will be posted on the next business day).
 
 ## Invitees
 
