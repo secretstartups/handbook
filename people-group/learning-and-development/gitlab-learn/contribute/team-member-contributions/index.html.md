@@ -68,7 +68,7 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 1. Explore existing photos in the [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) Bookmark this page as a resource for future content creation. 
 1. Knowledge Assessment
 
-#### Part 5 - Peer review with L&D team or other Learning Evangelist
+### Part 5 - Peer review with L&D team or other Learning Evangelist
 
 1. Review the process for completeing the [peer editing process](/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) before sharing content.
 1. Review strategies for [Sharing content with learners](/handbook/people-group/learning-and-development/gitlab-learn/admin/#sharing-content-with-learners)
