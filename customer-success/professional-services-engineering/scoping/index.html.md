@@ -13,13 +13,69 @@ description: “Discover how GitLab Scopes Professional Services for customers w
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-Services engagements can take [two forms](/handbook/customer-success/professional-services-engineering/selling):
-1. Standard SKUs: require no scoping or customization
-1. Custom SOWs: require scoping and custom SOW creation/approval
+The purpose of this page is to document the sales-assisted selling motion used by Professional Services Engagement Managers and Regional Delivery Managers. If you're on a GitLab sales account team looking for information, try these pages on [positioning professional services](/handbook/customer-success/professional-services-engineering/positioning) or [selling professional services](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services).
 
-For custom SOWs, the [workflow for SOW creation](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services) involves a partnership between the SA/TAM and the Professional Services team.
+This page will help outline the when and how to get involved with positioning and scoping services, how to estimate, how to use SOW generation software, and the processes to gain approval.
 
-This page provides scoping questions designed to collect details and uncover the customer's required capabilities. This ensures alignment of the SOW and PS delivery with the positive business outcomes the customer is looking for.  While not an exhaustive list, these questions and suggestions will help spark the discovery conversations.
+> *Note: Services engagements can take [two forms](/handbook/customer-success/professional-services-engineering/selling). This will focus on the **custom SOW scoping** process, not the Standard SKU process.*
+
+For custom SOWs, the [workflow for SOW creation](/handbook/customer-success/professional-services-engineering/selling/#custom-scoped-services) involves a partnership between the Account Team and the Professional Services Team.
+
+![](./scoping-workflow.png)
+[Source](https://docs.google.com/presentation/d/1TOI2aoseBoyWYQC6-xpJVMknEncCNreSFfMvOHO7EBA/edit#slide=id.gbfb62d0c00_0_58) (GitLab Team Members Only)
+
+## Positioning
+
+### MEDDPICC
+Professional services can be positioned when a prospect becomes a customer (e.g. the Land of a new deal) or when an already existing customer is growing their staff or interesting in adopting new features of GitLab (e.g. expansion). The SA, SAL, AE, or TAM (e.g. "Account Team") is primarily responsible for this process, following the [Command of the Message](/handbook/sales/command-of-the-message/) and [MEDDPICC](/handbook/sales/meddppicc/) messaging frameworks.
+
+For the larger, more strategic customers PS Engagement Managers tend to get involved earlier in the selling process to help with discovery and provide lessons learned on rollout from past engagements. For the medium sized customers, Engagement managers tend to get involved with account teams when the SFDC stage 4 (Proposal) is achieved. 
+
+### Customer Success Discovery
+The Account team should be encouraged to use the [Customer Terrain Mapping templates](/handbook/customer-success/customer-terrain-mapping/#catalog-of-customer-terrain-mapping-engagements) to help the customer to start thinking about *how* they will achieve their longer term success. This typically results in conversations about services to aide them in their journey. 
+
+### Services Needed
+Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to get in touch with the Engagement Manager in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel and/or by running the [services calculator](https://services-calculator.gitlab.io/)
+
+## Scoping
+
+### Gather Data
+After the [services calculator](https://services-calculator.gitlab.io/) is run by the Account Team, scoping issues are automatically created and land in the [PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues) Project. Using this customer scoping issue, the engagement manager gathers data asynchronously from the account team. Questions about the potential engagement can sometimes be answered by the Account Team from the discovery that was done already. We want to make sure we avoid asking duplicate questions to the customer. In some cases when the account team cannot provide the level of detail to create an egagement, the EM will meet with the Account team and Customer to ask additional discovery questions to get to a level of detail needed.
+
+### Create Strawman
+A "Straw-man" is a placeholder spreadsheet used for scoping services. The Engagement Manager uses the [straw-man spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](/handbook/customer-success/professional-services-engineering/framework) page.
+
+### Iterate / Review Strawman
+After the first iteration of building detail into the straw-man, the Engagement manager posts a request for review in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel to the Account team. Often the Engagement Manager will get on a zoom call with the customer and provide context and gather feedback from the customer. 
+
+### Generate SOW
+Once the Engagement Manager can get buy in from the account team and/or customer on the size and activities included in the services engagement, the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) can be run using the straw-man as an input.  The engagement manager is responsible for running this automation which can be done by following the instructions on the readme in the above project.
+
+### Iterate/Review SOW Data
+Once the SOW is generated, it is ready for review by the account team. Iteration can occur here but should be minimized if the proper iteration was done on the Straw-man Steps.
+
+### SOW Review/Approval
+After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. These review processes happen in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) and **at-mention** the specific people from whom the engagemenet manger is seeking approval.
+
+## SOW Execution
+
+### Finance & Legal Approval, Customer Signature
+Once the SOW has been approved by PS leadership, the account team is owns the process of executing the SOW. The engagement manager can kick off the finance approval process in Salesforce. The Account team is responsible for creating a Legal Approval in Salesforce from the button in the opportunity. Once PS Sr. Director, Finance, and Legal approve, they will should send it to the customer for signature.
+
+### Deal Desk updates SFDC
+Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Only opportunity to `closed-won`. 
+
+### Journal Epic
+TODO: 
+
+## Delivery Handoff
+ Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed.
+
+Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) methodology to understand the details around pre-sales handoff to the deliver team.
+
+![](../PS-delivery-workflow.png)
+
+<!--This page provides scoping questions designed to collect details and uncover the customer's required capabilities. This ensures alignment of the SOW and PS delivery with the positive business outcomes the customer is looking for.  While not an exhaustive list, these questions and suggestions will help spark the discovery conversations.
 
 ## Migration scoping questions
 Migrations are one of the most complex types of services in any technical field.  Systems store data in a variety of ways that evolves.  Also, customers and users often use the same data model and system to represent completely different logical units to their teams.  To ensure a transition that meets the customer's needs, we want to make sure we understand their usage of their current systems.
@@ -91,5 +147,5 @@ For scoping infrastructure implementation, we have several questions that can he
 
 [Implementation Infrastructure Scoping Questions](https://docs.google.com/spreadsheets/d/1TsCUNLuWdpX1V_dTn5MMXIUqnAYKm9Megu5MO9S8eGM/edit?usp=sharing)
 
-**Note:** This document contains tabs for various public and private cloud providers - AWS, GCP, Azure, OpenShift and other on-prem deployments - you should only have to fill out the tab(s) relative to your customer.
+**Note:** This document contains tabs for various public and private cloud providers - AWS, GCP, Azure, OpenShift and other on-prem deployments - you should only have to fill out the tab(s) relative to your customer. -->
 
