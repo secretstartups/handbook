@@ -50,9 +50,8 @@ To edit or create a new topic page in Netlify CMS, do the following:
 1. Update your content
 1. Select "save". This may take a minute to complete.
 1. Switch to the "workflow" tab to see your draft and what stage it is in the editorial process.
-1. Visit GitLab and locate the associated merge request with your edit.
-1. Click "save". Go to the "workflow" tab to see what stage of the editorial workflow your edit is in.
-1. Find the associated merge request with your edit in GitLab.
+1. Visit GitLab and locate the associated merge request with your edit. 
+    * If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=netlify-cms%2Fdraft)
 1. Assign the merge request to yourself, and assign a reviewer if it's ready to reviewed.
 1. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged.
 
