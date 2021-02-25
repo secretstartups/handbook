@@ -136,6 +136,24 @@ Managers can set up a more relaxed call with their team that is specifically foc
 
 Managers play a unique role at GitLab. When a team member on their team excels in their role, they should be given an opportunity to [make decisions](/handbook/leadership/making-decisions/). Allowing team members to play a role in decision-making can enable trust by catering to the team members' skills and attributes. 
 
+### Host a Team Day
+
+Organized team days, like [this example from the Growth team](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/119) encourage community building.
+
+Some things to consider when planning a team day include:
+
+1. If your team distributed across multiple time zones, enable async participation or have synchronous events across multiple time zones.
+
+Team days could include activities like:
+
+1. Non-work realted discussions
+1. Sharing passion projects
+1. Zoom pictionary/drawing guessing game. Try using the tool [Drawasaurus](https://www.drawasaurus.org/).
+1. Zoom classes based on team members skills, like cooking, crafts, fitness, or woodworking
+1. [Walk and talk](https://about.gitlab.com/handbook/communication/#walk-and-talk-calls) social chats
+1. Social hour calls
+1. Async slack social threads connecting to solve riddles, sharing funny GIFs, photo share of home town tour or passion projects
+
 ## Learning Speaker Series - Building Trust with Remote Teams
 
 On 2020-11-19, the L&D team launched our first [learning speaker series](/handbook/people-group/learning-and-development/learning-initiatives/#learning-speaker-series-overview) on Building Trust with Remote Teams. We hosted [Dr. Jeb Hurley](https://onehabit.blog/building-trust-remote-teams/), CEO and Co-Founder of [Xmetryx](https://www.xmetryx.com/) to discuss how strategies and tips on how to build trust in a remote setting. The discussion was a [fireside chat](https://docs.google.com/document/d/17ziw6q-nioyzYGnnIa9LM1G3I4DwYfb2UxwN9XceFxg/edit) format where Dr. Hurley shared what remote team members can do to meaure trust on their teams.
