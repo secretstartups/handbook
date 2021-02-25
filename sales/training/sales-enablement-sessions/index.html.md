@@ -23,9 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Feb 25 | [Q1 FY22 Competitive Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/94)
 | Mar 4 | [Co-Selling with IBM](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/107)
-| Mar 11 |                    |
+| Mar 11 | [Positioning of Verify and Product Groups Visions](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/110)          |  
 | Mar 18 | [Q1 FY22 Channel Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/103)              |                 |
 | Mar 25 | [Co-Selling with GCP](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/106)              |                 |
 | Apr 1  | [Co-Selling with AWS](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/108)              |                 |
@@ -43,6 +42,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-02-25 | **[Q1 FY22 Competitive Update](https://youtu.be/WzxQjr94mOM)** | Private |
 | 2021-02-04 | **[Peak Performance - SKO 2021 Preview](https://youtu.be/f_EZik5MaRU)** | Private |
 | 2021-01-14 | **[The GitLab / Red Hat Partnership](https://youtu.be/dfjuUQp5Y90)** | Private |
 | 2021-01-07 | **[Q4 FY21 Competitive Update](https://youtu.be/vTfAZIUtris)** | Private |
