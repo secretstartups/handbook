@@ -37,9 +37,17 @@ To be determined
 
 **OKRs = Objective + Key Result**
 
-- **Objective:** TBD
+**[Overall OKRs Epic](https://gitlab.com/groups/gitlab-com/-/epics/1285)**
+
+- **Objective:** [Implement simplified GTM motion and interlock process to increase collaboration](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1831)
 - **Key Results:**
-    - TBD
+    - [Aligned FMM, ABM, Demand Gen & Corporate Marketing to GTM motions completed by end of Feb](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/747) - @jgragnola
+    - [Deprecate previous use cases, campaigns, buyer’s journeys for one SSOT on GTM motions](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2459) - @jgragnola
+- **Objective:** [Launch GitLab SaaS email nurtures and marketing to Free users](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1832)
+- **Key Results:**
+    - [Triggered emails launched to Free.com users](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/748) - @nbsmith
+    - [3 emails sent to every non opted-out Free.com user by end of Q](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/749) - @nbsmith
+    - [500 MQLs attributed to Free.com user emails](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/750) - @nbsmith
 
 ### FY21-22 First Principles
 {: #first-principles}
