@@ -170,6 +170,7 @@ The below table shows how we select the demand gen related touchpoints and addes
 | CI/CD Seeing is Believing           | cicdseeingisbelieving                                                                             | ad campaign name incl. 'cicdseeingisbelieving' or campaign name ='20201215_HowCiDifferent'                                                     |
 | Simplify DevOps'                    | simplifydevops                                                                                    | ad campaign name incl. 'simplifydevops' or parent campaign name ='FY21_SimplifyDevOps_Commercial'                                              |
 | Japan-Digital Readiness             | 21q4-jp                                                                                           | ad campaign name incl. '21q4-jp' or campaign name ='2021_Social_Japan_LinkedIn Lead Gen'                                                       |
+| Publishers/Sponsorships             | utm_medium = 'sponsorship' and utm_source ='issa','stackoverflow','securityweekly-appsec'.        | parent campaign name='Demand Gen Publishers/Sponsorships' |
 
 
 ## Tactic-Specific Dashboards
