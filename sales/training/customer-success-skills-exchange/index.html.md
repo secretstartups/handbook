@@ -19,8 +19,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Feb 24 | [Tracking Value with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/114#note_501849239)| **Orit Golowinski** |
-| Mar 3 |  [Objection Handling Techniques & Role Play](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/123#note_515649154)            |              |
+| Mar 3 |  [Objection Handling Techniques & Role Play](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/123#note_515649154)            |     **Reshmi Krishna & David Astor**         |
 | Mar 10 |[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)  | **Julie Byrne** |
 | Mar 17 | [Gitlab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)              |  **Simon Mansfield**               |
 | Mar 24 | [Protect PM Shadow Show and Tell](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/118)              |   **Karen Kwentus**              |
@@ -29,6 +28,20 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 | Apr 14 |         |           |
 | Apr 21 |          |            |
 | Apr 28 | *No sessions during last week of the quarter*
+
+
+## Past Sessions
+<details>
+<summary markdown="span">Click here to see links to past sessions on YouTube</summary>
+
+| **Date** | **Topic** | **Public or Private** |
+| ------ | ------ | ------ |
+| 2021-02-24 | **[Tracking Value With GitLab - DORA4 Metrics](https://youtu.be/iZzGjnf_T_Y)** | Public |
+
+</details>
+
+
+**Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbok page on [watching private videos.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
 
 ### Get an invite to the weekly session
 
