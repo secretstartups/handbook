@@ -329,13 +329,18 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 **Q3 FY21 Marketing Milestones:**
 
-- [Mktg: 2020-08-02](https://gitlab.com/groups/gitlab-com/-/milestones/224)
-- [Mktg: 2020-08-16](https://gitlab.com/groups/gitlab-com/-/milestones/225)
-- [Mktg: 2020-08-30](https://gitlab.com/groups/gitlab-com/-/milestones/226)
-- [Mktg: 2020-09-13](https://gitlab.com/groups/gitlab-com/-/milestones/227)
-- [Mktg: 2020-09-27](https://gitlab.com/groups/gitlab-com/-/milestones/228)
-- [Mktg: 2020-10-11](https://gitlab.com/groups/gitlab-com/-/milestones/229)
-- [Mktg: 2020-10-25](https://gitlab.com/groups/gitlab-com/-/milestones/230)
+- [Mktg: 2021-02-14](https://gitlab.com/groups/gitlab-com/-/milestones/238)
+- [Mktg: 2021-02-28](https://gitlab.com/groups/gitlab-com/-/milestones/239)
+- [Mktg: 2021-03-14](https://gitlab.com/groups/gitlab-com/-/milestones/397)
+- [Mktg: 2021-03-28](https://gitlab.com/groups/gitlab-com/-/milestones/398)
+- [Mktg: 2021-04-11](https://gitlab.com/groups/gitlab-com/-/milestones/399)
+- [Mktg: 2021-04-25](https://gitlab.com/groups/gitlab-com/-/milestones/400)
+- [Mktg: 2021-05-09](https://gitlab.com/groups/gitlab-com/-/milestones/401)
+- [Mktg: 2021-05-23](https://gitlab.com/groups/gitlab-com/-/milestones/402)
+- [Mktg: 2021-06-06](https://gitlab.com/groups/gitlab-com/-/milestones/403)
+- [Mktg: 2021-06-20](https://gitlab.com/groups/gitlab-com/-/milestones/404)
+- [Mktg: 2021-07-04](https://gitlab.com/groups/gitlab-com/-/milestones/406)
+- [Mktg: 2021-07-18](https://gitlab.com/groups/gitlab-com/-/milestones/405)
 
 **Campaigns Team Backlog Milestones:**
 
