@@ -216,7 +216,7 @@ Our team will review and set the priority for your content request or review bas
 *  Identify measures of success 
 *  Assess dates of delivery with course schedule and forecast future date
 
-To request support from the L&D, please see the process for [how to work with us]((/handbook/people-group/learning-and-development/work-with-us))
+To request support from the L&D, please see the process for [how to work with us](/handbook/people-group/learning-and-development/work-with-us)
 
 ### L&D team sprints
 
