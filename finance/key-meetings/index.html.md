@@ -33,7 +33,7 @@ The EBA to the CFO is the scheduling DRI for the Monthly Key Meetings, with the 
 
 All changes to the Key Meeting schedule and/or invites have to be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. 
 
-Any schedule changes that result in a key meeting occuring after a Group Conversation must be approved by the CEO. 
+Any schedule changes that result in a key meeting occuring after a Group Conversation must be approved by the CEO. To obtain approval, please @ mention Sid in #key-meetings in Slack with the request and provide a reason as to why the Key Meeting is occurring after the Group Conversation. 
 
 ## Invitees
 
