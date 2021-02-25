@@ -434,11 +434,12 @@ Below are attributes that can be added to a stage in `data/stages.yml`.
 * `<stage_key>.sam_driver_score`:
 * `<stage_key>.stage_development_spend_percent`:
 * `<stage_key>.analyst_reports`:
-* `<stage_key>.analyst_reports.title`:
-* `<stage_key>.analyst_reports.url`:
+  * `<stage_key>.analyst_reports.title`:
+  * `<stage_key>.analyst_reports.url`:
 * `<stage_key>.related`:
 * `<stage_key>.section`:
 * `<stage_key>.pm`:
+
 * `<stage_key>.groups`:
 
 ##### Group Attributes
