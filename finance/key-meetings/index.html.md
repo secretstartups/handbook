@@ -26,7 +26,7 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 1. [OKRs](/company/okrs/) for that function.
 
 ## Timing
-Meetings are scheduled monthly starting on the 10th day after month end.  
+Meetings are scheduled monthly starting on the 15th day after month end.  
 
 ## Scheduling
 The EBA to the CFO is the scheduling DRI for the Monthly Key Meetings, with the exception of the Sales Key Meeting, the EBA to the CRO is the scheduling DRI for the Sales Key Meeting.
