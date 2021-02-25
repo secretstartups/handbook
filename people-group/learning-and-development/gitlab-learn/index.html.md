@@ -73,6 +73,9 @@ By using the LXP to administer learning, your team can:
 
 1. Track completion and engagement of learning material
 1. Share earned badges and certifications externally on your LinkedIn profile
+1. Provide interactive learning modalities that feature handbook first material that can be applied to various learning styles
+1. Develop balanced curated and customized learning content that addresses functional competency gaps 
+1. Manage all of your learning content in one place with a focus on peer learning
 1. Suggest related training based on previously completed or viewed content using machine learning in the EdCast platform
 1. Enable other team members and community members to access learning content
 
