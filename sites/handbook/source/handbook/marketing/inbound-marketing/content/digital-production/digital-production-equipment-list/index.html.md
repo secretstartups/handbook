@@ -35,9 +35,6 @@ twitter_creator: "@gitlab"
 **OR**
 - Elgato Key Light - [Example](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)
 
-<<<<<<< sites/handbook/source/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/index.html.md
-
-
 ## Advanced Desk Packages
 ---
 
@@ -158,7 +155,7 @@ _This device attaches to the camera to allow a script to be read while speaking 
 ##### Camera Support
 
 - Tripod - [Example](https://www.bhphotovideo.com/c/product/1527795-REG/manfrotto_mkelmii4bk_bh_element_mii_aluminum_tripod.html)
-- Camera Desk Mount - [Example](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/Master-Mount-L/p/10AAB990
+- Camera Desk Mount - [Example](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/Master-Mount-L/p/10AAB990)
 - Optional clamp to attach camera to a lightstand, or support the lavalier - [Example](https://www.bhphotovideo.com/c/product/1422139-REG/smallrig_2164_multi_functional_crab_shaped_clamp.html)
 
 
@@ -187,11 +184,5 @@ _This kit will allow you to create shade for yourself wherever you're shooting (
 
 - AA Batteries with Charger (For Lav microphone) - [Example](https://www.bhphotovideo.com/c/product/1047699-REG/panasonic_k_kj17khca4a_eneloop_xx_4_place.html)
 
-
-
-
-
-
-
 =======
->>>>>>> sites/handbook/source/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/index.html.md
+
