@@ -501,6 +501,8 @@ Greenhouse has training material specifically for new [Recruiters](https://suppo
 ### Greenhouse CRM
 
 The Greenhouse CRM is the entry point for prospective candidates (a.k.a. *Prospects*). There, they have the option to join our **Talent Community**. Below is an overview of system resources and its general workflow.
+ 
+**UPDATE:** As of `2021-02-24`, _Prospect Posts_ for the CRM were **disabled**. The following resources and workflows still apply in the event a _Prospect_ is sourced from the **Talent Community**.
 
 #### CRM Resources
 
