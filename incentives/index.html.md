@@ -119,7 +119,7 @@ If you received the same nomination twice (for the same person and the same reas
 ##### Nominator Bot Process
 
 **Any GitLab team member**
-1. Go to Slack and type `/nominate name of the team member`
+1. Go to Slack and type `/nominate @slack_handle`
 1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
 1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
 1. Once submitted, the bot will send this over to the manager to kick-off the approval flow
@@ -157,31 +157,44 @@ graph TD;
   L -->|Approve| N[Bot logs and sends to BambooHR];
 ```
 
-#### Discretionary Bonuses for Working Groups
-1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, we have group discretionary bonuses.
-1. As with individuals, we recognize those who make up that group through the #thanks channel and sometimes through a group discretionary bonus.
-1. [Anybody can recommend a discretionary bonus for a working group through the managers of the individuals involved](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
+#### Working Group Bonus
+1. Sometimes a [working group](/company/team/structure/#working-groups) strongly displays GitLab Values over a period, project or situation. For this case, we have group Working Group Bonus.
+1. As with individuals, we recognize those who make up that group through the #thanks channel and sometimes through a Working Group Bonus.
+1. [Anybody can recommend a Working Group Bonus through the managers of the individuals involved](/handbook/incentives/#process-for-recommending-a-team-member-for-a-bonus-in-bamboohr) for $100 per person at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
 
-#### Process for Recommending a Working Group for a Bonus in BambooHR
+#### Process for Recommending Working Group Bonus in BambooHR
 
 **Any GitLab team-member**
 
 1. Write a 1 sentence description of how the working group has demonstrated a specific GitLab value in their work.
-1. Email that sentence to the managers of the individuals, suggesting a discretionary bonus, and set-up a 15 minute Zoom meeting with all the managers to discuss your proposal.
+1. Email that sentence to the managers of the individuals, suggesting a Working Group Bonus, and set-up a 15 minute Zoom meeting with all the managers to discuss your proposal.
 1. Remember that the manager(s) may or may not agree and they have full discretion (with approval of their manager) on whether their reports get a bonus.  Don't forget that you can also use the #thanks channel to recognize people, as well.
 
 **Manager Process**
 
-1. Login to BambooHR.
-1. For each team member, select the team members you would like to give the discretionary bonus to and do the following:
-1. In the top right hand corner, click Request a Change.
-1. Bonus date: today
-1. Bonus amount: $100 (this is fixed, we don't vary the amount)
-1. Bonus type: Discretionary Bonus
-1. Bonus comments: 1-sentence justification that details how the team demonstrated one or more of our [values](/handbook/values/) in this specific instance.
-1. Comments for the approvers: leave empty
-1. Submit the bonus requests to your manager for approval.
-1. Once approved, you must copy and paste the justification and url into the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) to recognize the teams outstanding efforts (once the team has been communicated to 1:1). Be sure to @ the people in the team that's receiving the bonus as well so they're notified of the posting. Remember, a discretionary bonus is for recognition so make sure to take this final step.
+1. Sign in to BambooHR.
+1. For each team member, select the team members to which you want to give a
+   Working Group Bonus.
+1. In the top right hand corner, select **Request a Change > Bonus**.
+1. In **Bonus date**, enter today's date.
+1. In **Bonus amount**, enter $100 (this is a fixed value; we don't vary the
+   amount).
+1. In **Bonus type**, select **Working Group Bonus**.
+1. In **Nominated By**, select the person who's nominating the person for a
+   group bonus.
+1. In **Bonus comments**, enter a one-sentence justification that details how
+   the team demonstrated one or more of our [values](/handbook/values) in this
+   specific instance.
+1. Do not enter a value in **Comments for the Approver(s)**.
+1. Select **Submit** to send the bonus requests to your manager for approval.
+1. Repeat the previous steps for the remaining team members you want to give a
+   Working Group Bonus.
+1. After approval, copy and paste the justification and URL into the GitLab
+   Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K)
+   to recognize the teams outstanding efforts (after informing the team
+   directly). Be sure to also @ the people in the team receiving the bonus so
+   they're notified of the posting. Remember, a Working Group Bonus is for
+   recognition, so be sure to take this final step.
 
 **Approval Process:**
 
