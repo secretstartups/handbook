@@ -56,7 +56,8 @@ On the first attempt, if our email system could not get through (usually server 
 #### Removing a Suppression in Zendesk
 
 1. Click the `Apps` button located in the top right of the Zendesk interface.
-1. Scroll down to the `Email Suppressions` app located below the tag locker app.
+1. Scroll down to the `SaaS Account Ticket Helper` app located below the tag locker app.
+1. Click the button for `Email Suppressions`.
 1. Search for the email address using the search field.
 1. If a suppression is found you may optionally click the `copy` button to save the log from Mailgun to your clipboard that you can then paste into an internal comment on the ticket.
 1. Click the `Remove the suppression?` button.
