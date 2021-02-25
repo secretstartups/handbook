@@ -344,6 +344,7 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 **Campaigns Team Backlog Milestones:**
 
+- [DG-OKRs](https://gitlab.com/groups/gitlab-com/-/milestones/434) - holds issues that are KRs in OKR initiatives
 - [DG-Backlog:Requests](https://gitlab.com/groups/gitlab-com/-/milestones/260) - holds issue requests to be triaged, typically related to Marketo (landing pages, emails, etc.)
 - [DG-Backlog:Ideas](https://gitlab.com/groups/gitlab-com/-/milestones/258) - holds issue requests related to campaign and webcast ideas submitted to demand generation
 - [DG-Backlog:Documentation](https://gitlab.com/groups/gitlab-com/-/milestones/248) - holds issues related to needed documentation (handbook, issues, etc.)
