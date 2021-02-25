@@ -50,7 +50,7 @@ Future learning content coming to GitLab Learn:
 1. Advanced GitLab topics
 
 
-### What will GitLab Learn do for the GitLab community
+## What will GitLab Learn do for the GitLab community
 
 GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service learning platform to enable handbook first continuous learning. GitLab Learn will do the following for GitLab: 
 
@@ -64,6 +64,22 @@ GitLab has invested in the LXP to enable our team members, partners, customers, 
 - **Reduce** manual tasks associated with scaling
 - **Enhance** training to be delivered in a fun and engaging way (erase your preconceived notions of LMS or LXP systems!)
 - **Dogfood** the same LXP system that will be used for customer training offerings
+
+### Why should GitLab teams add professional development material to GitLab Learn?
+
+If your team has created learning paths or curated external resources for team member professional development, we highly suggest adding this content to the LXP. 
+
+By using the LXP to administer learning, your team can:
+
+1. Track completion and engagement of learning material
+1. Share earned badges and certifications externally on your LinkedIn profile
+1. Provide interactive learning modalities that feature handbook first material that can be applied to various learning styles
+1. Develop balanced curated and customized learning content that addresses functional competency gaps 
+1. Manage all of your learning content in one place with a focus on peer learning
+1. Suggest related training based on previously completed or viewed content using machine learning in the EdCast platform
+1. Enable other team members and community members to access learning content
+
+If you're looking to collaborate with the Learning and Development team in adding content to GitLab Learn, please review the process on our [work with us handbook page](/handbook/people-group/learning-and-development/work-with-us)
 
 
 ## Handbook first approach to the LXP
