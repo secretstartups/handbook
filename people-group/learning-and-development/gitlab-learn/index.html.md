@@ -28,7 +28,16 @@ A learning experience platform, or LXP, is [defined by EdCast](https://www.edcas
 
 ## GitLab's Long Term Strategic Vision for the LXP
 
-Additional information about the long term strategic vision for GitLab Learn is coming soon.
+Our long term goal for [GitLab Learn](https://about.gitlab.com/learn/) is to create a centralized learning hub for all learning material produced by GitLab. This includes:
+
+1. Training for team members that is available to the wider community
+1. Internal training for team members
+1. Professional services training for customers and partners
+1. Learning material for GitLab program members, like the GitLab for Education program
+1. Technical marketing and education content
+
+All learning handbook follows our [handbook first learning best practices](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) and aligns with our [GitLab CREDIT values](https://about.gitlab.com/handbook/values/)
+
 
 #### A note about naming
 
