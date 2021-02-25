@@ -319,7 +319,7 @@ To quarantine a test:
 
 - Add the `:quarantine` metadata to the test with a link to the issue (see [quarantined test types](#quarantined-test-types))
 
-> **Note** If the example has a `before` hook, the `quarantine` metadata should be assigned to the outer context to avoid running the `before` hook
+> **Note** If the example has a `before` hook, [the `quarantine` metadata should be assigned to the outer context](#nested-contexts) to avoid running the `before` hook.
 
 - The merge request shall have the labels: `~"Quality", ~"QA", ~"bug", ~"Pick into auto-deploy"`.
 - The merge request may have stage or group labels. E.g. `~"devops::create" ~"group::source code"`.
@@ -364,6 +364,31 @@ context 'when these tests rely on another MR', quarantine: {
                                                  type: :waiting_on,
                                                  issue: 'https://gitlab.com/gitlab-org/gitlab/merge_requests/12345'
                                                }
+```
+
+##### Nested contexts
+
+You should apply the quarantine tag to the outermost `describe`/`context` block that has tags relevant
+to the test being quarantined.
+
+```ruby
+# Good
+RSpec.describe 'Plan', :smoke, quarantine: 'https://gitlab.com/gitlab-org/gitlab/issues/12345' do
+  describe 'Feature' do
+    before(:context) do
+      # This before(:context) block will only be executed in smoke quarantine jobs
+    end
+  end
+end
+
+# Bad
+RSpec.describe 'Plan', :smoke do
+  describe 'Feature', quarantine: 'https://gitlab.com/gitlab-org/gitlab/issues/12345' do
+    before(:context) do
+      # This before(:context) block could be mistakenly executed in quarantine jobs that _don't_ have the smoke tag
+    end
+  end
+end
 ```
 
 #### Dequarantining Tests
