@@ -415,69 +415,69 @@ They are also used by the automated triage operation ["Stage and group labels in
 
 #### Stage attributes
 
-Below are attributes that can be added to a stage in `data/stages.yml`.
+Below are attributes that can be added to a stage in `data/stages.yml`. Each of these properties is accessed via `stages.<stage_key>.foo`
 
-* `<stage_key>.display_name`: the name of the Stage in sentence case
-* `<stage_key>.pm`: the PM leader for this stage
-* `<stage_key>.marketing`: boolean, whether or not the stage is a "marketed" stage and should be displayed
-* `<stage_key>.tw`: boolean, if supported by technical writing
-* `<stage_key>.image`: the logo for the stage
-* `<stage_key>.description`: a short description of what the stage covers
-* `<stage_key>.body`: a longer-form description of what the stage covers
-* `<stage_key>.direction`: where the direction page can be located (ex: `/direction/foo`)
-* `<stage_key>.roadmap`: a URL to where the roadmap for the stage can be found
-* `<stage_key>.established`: the year the stage was established (ex: `2020`)
-* `<stage_key>.lifecycle`: integer (1-7), where the stage falls in the devops lifecycle
-* `<stage_key>.horizon`:
-* `<stage_key>.contributions`:
-* `<stage_key>.usage_driver_score`:the Product Usage Driver score, used on [/handbook/product/investment](/hanbook/product/investment)
-* `<stage_key>.revenue_driver_score`:the Revenue Driver score, used on [/handbook/product/investment](/hanbook/product/investment)
-* `<stage_key>.sam_driver_score`:the Service Addressable Market score, used on [/handbook/product/investment](/hanbook/product/investment)
-* `<stage_key>.stage_development_spend_percent`:
-* `<stage_key>.analyst_reports`: a list of links to relevant analyst reports
-  * `<stage_key>.analyst_reports.title`: the title of the report
-  * `<stage_key>.analyst_reports.url`: the URL of the report
-* `<stage_key>.related`: the stages related to this stage
-* `<stage_key>.section`: the section this stage belongs to
-* `<stage_key>.groups`: a list of groups that belong to this stage. [definitions for their properties below](#group-attributes)
+* `display_name`: the name of the Stage in sentence case
+* `pm`: the PM leader for this stage
+* `marketing`: boolean, whether or not the stage is a "marketed" stage and should be displayed
+* `tw`: boolean, if supported by technical writing
+* `image`: the logo for the stage
+* `description`: a short description of what the stage covers
+* `body`: a longer-form description of what the stage covers
+* `direction`: where the direction page can be located (ex: `/direction/foo`)
+* `roadmap`: a URL to where the roadmap for the stage can be found
+* `established`: the year the stage was established (ex: `2020`)
+* `lifecycle`: integer (1-7), where the stage falls in the devops lifecycle
+* `horizon`:
+* `contributions`:
+* `usage_driver_score`:the Product Usage Driver score, used on [/handbook/product/investment](/hanbook/product/investment)
+* `revenue_driver_score`:the Revenue Driver score, used on [/handbook/product/investment](/hanbook/product/investment)
+* `sam_driver_score`:the Service Addressable Market score, used on [/handbook/product/investment](/hanbook/product/investment)
+* `stage_development_spend_percent`:
+* `analyst_reports`: a list of links to relevant analyst reports
+  * `analyst_reports.title`: the title of the report
+  * `analyst_reports.url`: the URL of the report
+* `related`: the stages related to this stage
+* `section`: the section this stage belongs to
+* `groups`: a list of groups that belong to this stage. [definitions for their properties below](#group-attributes)
 
 ##### Group Attributes
 
-Below are attributes that can be added to a group in `data/stages.yml`. Groups are defined in the `groups` property of a stage.
+Below are attributes that can be added to a group in `data/stages.yml`. Groups are defined in the `groups` property of a stage. Each of these properties is accessed via `stages.<stage_key>.groups.<group_key>.foo`
 
-* `groups.<group_key>.name`: the name of the Group in sentence case
-* `groups.<group_key>.focus`: 
-* `groups.<group_key>.pm`: the Product Manager
-* `groups.<group_key>.pmm`: the Product Marketing Manager
-* `groups.<group_key>.cm`: the Content Marketer
-* `groups.<group_key>.backend_engineering_manager`: the Backend Engineering Manager
-* `groups.<group_key>.frontend_engineering_manager`: the Frontend Engineering Manager
-* `groups.<group_key>.support`: the Support Engineer
-* `groups.<group_key>.pdm`: the Product Design Manager
-* `groups.<group_key>.ux`: a list of Product Designers
-* `groups.<group_key>.uxr`: the User Experience Researcher
-* `groups.<group_key>.sets`: a list of Software Engineers in Test
-* `groups.<group_key>.tech_writer`: the Technical Writer
-* `groups.<group_key>.tw_backup`: the "backup" Technical Writer
-* `groups.<group_key>.appsec_engineer`: the Application Security Engineer
-* `groups.<group_key>.be_team_tag`: the "tag" being used in the `department` field in `team.yml` for Backend Engineers on this team
-* `groups.<group_key>.fe_team_tag`: the "tag" being used in the `department` field in `team.yml` for Frontend Engineers on this team
-* `groups.<group_key>.cs_team_tag`: the "tag" being used in the `department` field in `team.yml` for Customer Success on this team
-* `groups.<group_key>.internal_customers`: a list of internal customers/stakeholders for this group
-* `groups.<group_key>.internal_customers.department`: the name of the internal customer
-* `groups.<group_key>.internal_customers.dri`: the DRI assigned for this relationship
-* `groups.<group_key>.usage_driver_score`: the Product Usage Driver score, used on [/handbook/product/investment](/hanbook/product/investment)
-* `groups.<group_key>.asp_driver_score`: the ASP score, used on [/handbook/product/investment](/hanbook/product/investment)
-* `groups.<group_key>.sam_driver_score`: the Served Addressable Market score, used on [/handbook/product/investment](/hanbook/product/investment)
-* `groups.<group_key>.pi_gmau`: A link to the dashboard that displays GMAU for this group
-* `groups.<group_key>.pi_pgmau`: A link to the dashboard that displays _Paid_ GMAU for this group
-* `groups.<group_key>.analyst_reports`: A link to a location where relevant analyst reports are available
-* `groups.<group_key>.comp_comparison`: A link to a location where comparisons with competitive products are available
-* `groups.<group_key>.categories`: a list of categories that are owned by this group. [definitions for their properties below](#category-attributes)
+* `name`: the name of the Group in sentence case
+* `focus`: 
+* `pm`: the Product Manager
+* `pmm`: the Product Marketing Manager
+* `cm`: the Content Marketer
+* `backend_engineering_manager`: the Backend Engineering Manager
+* `frontend_engineering_manager`: the Frontend Engineering Manager
+* `support`: the Support Engineer
+* `pdm`: the Product Design Manager
+* `ux`: a list of Product Designers
+* `uxr`: the User Experience Researcher
+* `sets`: a list of Software Engineers in Test
+* `tech_writer`: the Technical Writer
+* `tw_backup`: the "backup" Technical Writer
+* `appsec_engineer`: the Application Security Engineer
+* `be_team_tag`: the "tag" being used in the `department` field in `team.yml` for Backend Engineers on this team
+* `fe_team_tag`: the "tag" being used in the `department` field in `team.yml` for Frontend Engineers on this team
+* `cs_team_tag`: the "tag" being used in the `department` field in `team.yml` for Customer Success on this team
+* `internal_customers`: a list of internal customers/stakeholders for this group
+* `internal_customers.department`: the name of the internal customer
+* `internal_customers.dri`: the DRI assigned for this relationship
+* `usage_driver_score`: the Product Usage Driver score, used on [/handbook/product/investment](/hanbook/product/investment)
+* `asp_driver_score`: the ASP score, used on [/handbook/product/investment](/hanbook/product/investment)
+* `sam_driver_score`: the Served Addressable Market score, used on [/handbook/product/investment](/hanbook/product/investment)
+* `pi_gmau`: A link to the dashboard that displays GMAU for this group
+* `pi_pgmau`: A link to the dashboard that displays _Paid_ GMAU for this group
+* `analyst_reports`: A link to a location where relevant analyst reports are available
+* `comp_comparison`: A link to a location where comparisons with competitive products are available
+* `categories`: a list of categories that are owned by this group. [definitions for their properties below](#category-attributes)
 
 #### Category attributes
 
-Below are attributes that can be added to a category in `data/categories.yml`.
+Below are attributes that can be added to a category in `data/categories.yml`. Each of these properties is accessed via `categories.<category_key>.foo`.
 
 * `name`: the name of the category in quotes
 * `stage`: what stage the category belongs to.
