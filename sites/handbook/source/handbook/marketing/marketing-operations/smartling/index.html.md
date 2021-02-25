@@ -34,6 +34,7 @@ Smartling is our localization platform that is used to translate pages on our we
 1. [Admin Training](https://drive.google.com/file/d/1Rl-7cfW74P8ELd3Cn9Pu0b0LDeFCPRyI/view?usp=sharing)
 1. [Project Manager/Requester Training (Documents Project)](https://drive.google.com/file/d/1K78ffIGdNvN4KMerfNT1OLas2ifB3R03/view?usp=sharing)
 1. [Marketo Training](https://drive.google.com/file/d/1ujF_gQcPP-nKmf5EsE4Hpya2Vn-RNg6S/view?usp=sharing)
+1. [Internal Reviewer Training](https://drive.google.com/file/d/1hfSWX6BIVHP-UDfwHwSKIfQeAj_dP9nL/view?usp=sharing)
 
 **Help Articles**
 
