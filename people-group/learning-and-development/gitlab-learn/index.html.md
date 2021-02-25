@@ -36,7 +36,7 @@ Our long term goal for [GitLab Learn](https://about.gitlab.com/learn/) is to cre
 1. Learning material for GitLab program members, like the GitLab for Education program
 1. Technical marketing and education content
 
-All learning handbook follows our [handbook first learning best practices](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) and aligns with our [GitLab CREDIT values.](https://about.gitlab.com/handbook/values/)The LXP is [team member](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) and community driven with content on an open platform for all to consume! 
+All learning handbook follows our [handbook first learning best practices](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) and aligns with our [GitLab CREDIT values.](https://about.gitlab.com/handbook/values/). The LXP is [team member](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) and community driven with content on an open platform for all to consume! 
 
 
 #### A note about naming
