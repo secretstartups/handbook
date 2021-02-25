@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Professional Service Operations
 category: Internal
+description: "Learn about the GitLab Professional Services operations processes and workflows."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
