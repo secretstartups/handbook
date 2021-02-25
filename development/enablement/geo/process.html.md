@@ -228,6 +228,7 @@ Process summary:
         1. Determine whether a workaround for the issue exists and document it.
         1. Apply a `severity` label based on the impact of the bug and feasibility of any workarounds.
         1. Apply the `workflow::scheduling` label so that the PM and EM can decide whether to schedule the issue or put in the `Backlog`.
+1. At the end of the month, the triage DRI will schedule a hand off meeting with the next triage DRI to cover any ongoing issues and any strategies for dealing with the backlog of issues.
 
 Expectations:
 - The DRI should spend 3-5 hours per week on triage/verification and a maximum of 20% work time (about 1 day per week) on resolving bugs.
