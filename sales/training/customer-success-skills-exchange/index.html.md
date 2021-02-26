@@ -35,13 +35,15 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 <summary markdown="span">Click here to see links to past sessions on YouTube</summary>
 
 | **Date** | **Topic** | **Public or Private** |
-| ------ | ------ | ------ |
+| ------   | ------    | ------                |
 | 2021-02-24 | **[Tracking Value With GitLab - DORA4 Metrics](https://youtu.be/iZzGjnf_T_Y)** | Public |
+
 
 </details>
 
 
 **Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbok page on [watching private videos.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
+
 
 ### Get an invite to the weekly session
 
