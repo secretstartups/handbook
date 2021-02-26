@@ -177,7 +177,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-02-22 | 2021-02-26 | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager | [Lauren Barker](https://gitlab.com/laurenbarker) - Sr. Full Stack Engineer, Digital Experience |
 | 2021-03-01 | 2021-03-05 | No Shadows - No signups received | No Shadows - No signups received |
 | 2021-03-08 | 2021-03-12 | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
 | 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst |
@@ -966,3 +965,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-01-18 | 2021-01-29 | [Traci Robinson](https://gitlab.com/traci) | Sr. PMM, Regulated Industries | |
 | 2021-01-25 | 2021-02-05 | [Parker Ennis](https://gitlab.com/parker_ennis) | Sr. PMM, GitLab CI/CD | |
 | 2021-02-05 | 2021-02-16 | [Shane Rice](https://gitlab.com/shanerice) | Manager, Search Marketing | [CEO Shadow learning recap](https://youtu.be/VZ6XF0qhWVg) |
+| 2021-02-15 | 2021-02-26 | [Lauren Barker](https://gitlab.com/laurenbarker) | Sr. Full Stack Engineer, Digital Experience | [CEO Shadow takeaways from Barker](/blog/2021/02/26/ceo-shadow-takeaways-from-barker/) |
