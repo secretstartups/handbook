@@ -75,6 +75,28 @@ You can [bulk upload multiple new assets](https://nook.pathfactory.com/nook/s/ar
 
 Expiry dates will not automatically deactive content after expiration. You must manually deactivate the content if it’s past the expiry date. To expire an analyst report from PathFactory, [open an issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Gated-Content-Expiration-Analysts-MPM) in the digital marketing programs project using the `Gated-Content-Expiration-Analysts-MPM` issue template.
 
+### Vimeo links
+
+To upload a Vimeo video to PathFactory, you must first [upload your video to Vimeo](https://about.gitlab.com/handbook/marketing/marketing-operations/vimeo/#upload). Once your video is uploaded to Vimeo, follow these steps to add to PathFactory:
+
+1. Navigate to the `Settings` of your video in Vimeo.
+1. Under `General > Privacy`, select `Hide this video from vimeo.com`. **Note:** Other privacy settings will not allow the video to be embedded in a content track. 
+1. Under `Where can this be embedded?` select `Specific domains` and enter `https://learn.gitlab.com`. 
+1. Click on the plus sign and you'll see the subdomain added to under the field.
+1. Click `save`, and you'll notice Vimeo now indicates the video is private (in the top right corner).
+1. Click on `Embed` in the left sidebar.
+1. Click on the `Embed Code` Button in the top right corner.
+1. Copy the player URL from within the Embed Code modal window.
+1. Add this URL to the content library, and configure as usual. 
+
+**Example embed code with Vimeo player URL:**
+
+`<iframe src="https://player.vimeo.com/video/514439220" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>`
+
+The Vimeo player URL is the `https://player.vimeo.com/video/514439220` link within the embed code. This is the link used to upload to PathFactory.
+
+When the asset is added to a content track, you'll have a working, embedded, private Vimeo video.
+
 ## Removing an asset from the library
 
 **Important:** Do not remove an asset from the content library without first checking which content tracks it is in and following the procedure below. Certain assets within content tracks may be directly tied to an integrated campaign, digital advertising, or other live campaign. If you remove the asset from the library, it consequently removes it from whatever content tracks it is in, thus breaking the campaign setup and tracking.

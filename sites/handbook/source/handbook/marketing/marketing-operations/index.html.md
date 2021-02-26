@@ -118,9 +118,10 @@ Categories
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Sigstr`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Terminus Email Experiences`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`: used to highlight one of our tech stack tools
 - `In Epic`: bright yellow label to show that it is part of a MktgOps epic
-- `MktgOps::bug`: A bug issue to be addressed by MktgOps
+- `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
+- `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
 
 </details>
 
@@ -137,25 +138,18 @@ Priorities
 
 <details>
 <summary markdown='span'>
-Backlog
+Stage
 </summary>
 
 - `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
 - `MktgOps::1 - Planning`: Issues assigned to a MktgOps team member and are currently being scoped/considered but are not being actively worked on yet.
-- `MktgOps::2 - On Deck`: Issues that have been scoped/considered and will be added to an upcoming iteration/milestone.
-- `MktgOps::5 - On Hold`: Issue that is not within existing scope of Mktg OPS current focus, or another department as deprioritized. May be a precursor to being closed out.
-- `MktgOps::6 - Blocked`: Issue that was being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
-
-</details>
-
-<details>
-<summary markdown='span'>
-In Milestone
-</summary>
-
-- `MktgOps::3 - In Process`: Issues that are actively being worked on in the current two-week sprint/milestone.
-- `MktgOps::4 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
-- `MktgOps::7 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
+- `MktgOps::2 - Scoping`: Marketing Operations related issues that are currently being scoped and weighted
+- `MktgOps::3 - On Deck`: Issues that have been scoped/considered and will be added to an upcoming iteration/milestone.
+- `MktgOps::4 - In Process`: Issues that are actively being worked on in the current two-week sprint/milestone.
+- `MktgOps::5 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
+- `MktgOps::6 - On Hold`: Issue that is not within existing scope of Mktg OPS current focus, or another department as deprioritized. May be a precursor to being closed out.
+- `MktgOps::7 - Blocked`: Issue that was being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
+- `MktgOps::8 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
 
 </details>
 
@@ -194,13 +188,13 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 
 The Marketing Operations team had started an experiment on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. 
 
-### Operational Timeline of Changes
+### Marketing Changelog
 
-Periodically Marketing Operations makes significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made.
+Periodically Marketing Operations and other teams through the marketing org make significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made. If you are working on an issue or epic that will have a significant impact across marketing, add the label `MktgOps - changelog` so marketing oeprations can track changes across GitLab.
 
-### PagerDuty
+### PagerDuty and Emergency Comms
 
-If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](https://about.gitlab.com/handbook/engineering/security/security-incident-communication-plan.html). If a new, custom distribution list needs to be created, Marketing Ops will work closely with the [campaigns team](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/) and generate the distribution list for the incident-related email. In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
+If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan). As a first step, please create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) with all relevant information. In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
 
 Contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
 
@@ -343,30 +337,21 @@ At GitLab, we strive to communicate with people in a way that is beneficial to t
 
 Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please folloow this decision tree for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email.
 
-Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MCMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact MOps. **When in doubt, ask!**
-
-<div style="width: 600px;" class="embed-thumb"> 
-<div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> 
-<div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://app.mural.co/static/images/mural-thumb.svg) no-repeat center center; background-size: cover;">
-<div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);">
-</div> 
-<a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="Decision Tree Mural" width="233" height="50"> </a> 
-</div> 
-</div>
-</div>
+Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only Mops and certain MCMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact MOps. **When in doubt, ask!** [This Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11) contains examples to help you make your decision.
 
 `Operational Emails` do not have an effect on the communication limits in marketo. Those limits are set so a recipient cannot receive more than 2 emails per day, and/or 7 emails per week. Once a person has hit that limit, they are supressed from email groups until they fall back under the threshold, **unless** the email is marked as `operational`.
 
 ### Types of Email
 
 **Breaking Change Emails**
-These are transactional emails, almost always to our user base, that provide very selective needed information. This is an`operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
-It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned, so we are communicating to a very specific focused list. In some cases, these will be sent via [Mailchimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends).
+These are transactional emails, almost always to our user base, that provide very selective needed information. This is an `operational` email that overrides the unsubscribe and would not need to comply with marketing email opt-out. Usage example: GitLab Hosted billing change, Release update 9.0.0 changes, GitLab Page change and Old CI Runner clients.
+
+It is very important to have Engineering and/or Product team (whoever is requesting this type of email) help us narrow these announcements to the people that actually should be warned or notified, so we are communicating to a very specific focused list. The email platform the send will come from will be determined by a few different factors, but mainly list size. If you need to request an email like this, use this the `incident_communications` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) and reference [this section](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
 
 **Newsletter**
 Sent bi-monthly (every 2 weeks), the newsletter is a collaboration between the Content Team and the Campaigns Team. [Learn more here!](/handbook/marketing/demand-generation/campaigns/emails-nurture/#newsletter) Users can [subscribe to the newsletter](/company/contact/) on the website.
 
-**Security Alerts**
+**Security Releases**
 Sent on an as needed basis containing important information about any security patches, identified vulnerabilities, etc. related to the GitLab platform. These emails are purely text based and again are transactional in nature.  Users can [subscribe to security notices](/company/contact/#security-notices) on the GitLab Contact us page.
 
 **Webcasts**
@@ -449,7 +434,7 @@ Status in the table below means:
 
 ## Lead and Contact Statuses
 
-The Lead & Contact objects in Salesforce have unified statuses with the following definitions. If you have questions about current status, please ask in #lead-questions channel on Slack.
+The Lead & Contact objects in Salesforce have unified statuses with the following definitions. Lead . Also reference [Re-MQL workflows](/handbook/marketing/marketing-operations/marketo/#re-mql) for how to move from status to status.
 
 | Status | Definition |
 | ------ | ---------- |

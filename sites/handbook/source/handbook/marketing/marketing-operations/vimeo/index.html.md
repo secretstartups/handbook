@@ -14,9 +14,9 @@ description: "Vimeo is a video hosting, sharing, and services platform. "
 
 Vimeo is a video hosting, sharing, and services platform. 
 
-## Acesss
+## Access
 
-Everyone in GitLab will have access to Vimeo through Okta. If a higher permission set is required, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
+Vimeo is connected to Okta. To request access, [create an access request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) and use the GitLab user group `@gitlab-com/business-ops/team-member-enablement` to provision you. Make sure to include the business case for why you would like access and tag a team member from digital production. Once provisioned to Vimeo, marketing ops can adjust your permission set as neeeded. 
 
 ### User Roles
 
@@ -322,17 +322,13 @@ Analytics allow you to access in-depth insights about your videos and your Vimeo
 
 To access video [analytics](https://vimeo.zendesk.com/hc/en-us/articles/224820247-Analytics-overview), hover over `Manage Videos` in the top left navigation menu and click `Analytics`. 
 
-[View the knowledgebase article](https://vimeo.zendesk.com/hc/en-us/articles/224820247-Analytics-overview) for a full tutorial. 
-
-## Implementation
-
-[See epic for more info](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1100). 
+[View the knowledgebase article](https://vimeo.zendesk.com/hc/en-us/articles/224820247-Analytics-overview) for a full tutorial.  
 
 ### Integrations
 
 #### Okta
 
-[In progress](https://gitlab.com/gitlab-com/gl-security/zero-trust/okta/-/issues/201). 
+Vimeo is integrated with Okta for [access](#access). 
 
 #### Slack
 
@@ -340,8 +336,16 @@ If there is an interest to pursue the [Slack integration](https://vimeo.zendesk.
 
 #### Social Media
 
-[Coming soon](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3872).
+[Evaluating](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3872).
 
 #### Google Tag Manager
 
-[Coming soon](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/3770). 
+The following event actions are sent from the player and are [being tracked via Google Tag Manager](https://help.vimeo.com/hc/en-us/articles/115002859607-Integrating-with-Google-Tag-Manager):
+
+1. load
+1. play
+1. progress - 25%
+1. progress - 50%
+1. progress - 75%
+1. progress - 100%
+1. emailcapture

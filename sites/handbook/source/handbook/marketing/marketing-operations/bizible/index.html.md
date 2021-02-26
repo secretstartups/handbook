@@ -87,7 +87,7 @@ Marketing attribution is the process of assigning revenue credit to a marketing 
 
 [Here](https://www.bizible.com/blog/marketing-attribution-models-complete-list) is Bizible's breakdown of the major attribution models. 
 
-**Note: GitLab uses [Linear Attribution](/handbook/marketing/marketing-operations/bizible#linear-attribution) as our source of truth, the other models are there for comparitive analysis.**
+**Note: GitLab uses a blended approach when it comes to attribution models. The Custom Attribution Model (Based on Bizible Machine Learning) is going to be used side-by-side the other attribution models in order to get us closer to the "true" attribution answer.**
 
 Below are the major attribution models that GitLab marketing uses of that list: 
 
@@ -110,6 +110,30 @@ Full Path attribution (or the Z-Shaped model) tracks the entire lifecycle of the
 Linear Attribution is the simplest and most all-encompassing of the multi-touch attribution models and is the model that GitLab is focused on for longterm attribution modeling. In this model every touchpoint from `First Touch` through to `Customer Close` and beyond share equal credit as shown below. 
 
 ![image](/handbook/marketing/marketing-operations/bizible/Linear-Bizible.png)
+
+### Custom Attribution (Based on Bizible Machine Learning Algorithm)
+Custom Attribution based on the Bizible machine learning attribution model uses our touchpoint data to calculate how much attribution weighting should be assigned to each stage. This is determined by how important each stage was in driving deals to close. 
+
+**How is the Machine Learning model Calculated?**
+
+Bizible calculates the importance of each custom stage by using the touchpoint data from your account. The criteria used to determine the importance of each stage are:
+
+- **Model Accuracy:** If we build a predictive model with the touchpoint data to predict whether we will win a deal eventually, how accurate will the model be? Higher predictive accuracy means that the details of this stage correlates more with whether a deal will close
+- **Conversion Rate:** If Leads or Opportunities at this certain stage convert to the next stage at a high rate, this suggests that the marketing activities that occurred at this stage didn't matter very much. Conversely, if a certain stage converts to the next stage at a low rate, this can suggest that the marketing activities that occurred at this stage were influential in driving the conversion.
+- **Touchpoint Uniqueness Weight:** If a stage occurs as a standalone transition, meaning there weren't any other stage transitions that occurred at the same time, this stage could receive a higher attribution weight. Conversely, if a touchpoint for a stage is shared with other stages (e.g. the touchpoint shares the First Touch, Lead Conversion, and Opportunity Conversion stages) this stage could receive a lower attribution weighting. 
+The final weight for a custom stage is calculated as such:
+
+_**Model Percentage = Model Accuracy x Conversion Rate x Touchpoint Uniqueness Weight**_
+
+At the end, all the custom stage weights are normalized and converted to % as shown below.
+
+In our case, the custom machine learning model has the following weights for each stage: 
+
+- **First Touch** - 27.5%
+- **Lead Creation** - 27.7%
+- **Opportunity Creation** - 19.6%
+- **Closed (Lost, Won)** - 15.2%	
+- **Middle Touches** - 10.0%
 
 #### How GitLab Calculates Linear Attribution IACV
 Here is an example of how we calculate linear IACV:    
@@ -200,50 +224,50 @@ These rules are hierarchical and will operate in a top-down fashion, so the firs
 ### Offline Channel Mapping
  These channels and subchannels are pulled into Salesforce and can be further filtered by using `medium` for those channels with overlap or with `Ad Campaign name` to search for specific UTMs or campaigns. The `Bucket Mapping` is a high-level grouping of each subchannel set to allow for additional reporting.:
 
-| Bizible Channel.SubChannel | Bucket Mapping | Type of Marketing                                                                                                                                                                                          |
-|----------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Content.Content Syndication | Inbound Paid | White Paper or other content offer that is hosted by a third party.                                                                                                                                         |
-| Content.Gated Content | Inbound Paid | White Paper or other content offer.                                                                                                                                                                               |
-| Content.PF Content | Inbound Free Channels | This campaign type is used to track consumption of specific PathFactory assets.                                                                                                                             |
-| Direct | Inbound Free Channels | Unknown or direct (NOTE: this is not the same as Web direct/self-serve in SFDC, this is a Web referral where the original source was not captured)                                                                      |
-| Display.Google | Inbound Paid | A display ad from Google                                                                                                                                                                                                 |
-| Display.Other | Inbound Paid | A display ad from an unspecified source                                                                                                                                                                                   |
-| Email | Inbound Free Channels | Email driven engagement                                                                                                                                                                                                  |
-| Event.Conference | Inbound Paid | Any large event run by Corporate Marketing that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit).                         |
-| Event.Executive Roundtables | Inbound Paid | This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables.                                                              |
-| Event.Field Event | Inbound Paid | This is an event run by Field Marketing that we have paid to participate in                                                                                                                                           |
-| Event.Owned Event | Inbound Paid | This is an event that we have created, own registration and arrange speaker/venue                                                                                                                                     |
-| Event.Self-Service Virtual Event | Inbound Free Channels | This is a light weight virtual event that can be hosted on GitLabber's personal zoom.                                                                                                         |
-| Event.Speaking Session | Inbound Paid | It is for tracking attendance at our speaking engagements.                                                                                                                                                       |
-| Event.Sponsored Webcast | Inbound Paid | This is webcast hosted on an external partner/vendor platform. The                                                                                                                                              |
-| Event.Vendor Arranged Meetings | Inbound Paid | Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts.                                                                                      |
-| Event.Virtual Sponsorship | Inbound Paid | A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. In |
-| Event.Webcast | Inbound Free Channels | Any webcast that is hosted and held by GitLab.                                                                                                                                                                   |
-| Event.Workshop | Inbound Free Channels | An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab.                                                                                         |
-| IQM.IQM | Outbound | SDR Initial Qualifying Meeting                                                                                                                                                                                                      |
-| Organic Search.Bing | Inbound Free Channels | Organic Search through Bing                                                                                                                                                                                |
-| Organic Search.Google | Inbound Free Channels | Organic Search through Google                                                                                                                                                                            |
-| Organic Search.Other | Inbound Free Channels | Organic Search through an unspecified search engine                                                                                                                                                       |
-| Organic Search.Yahoo | Inbound Free Channels | Organic Search through Yahoo search                                                                                                                                                                       |
-| Other | Other | Unknown/unspecified UTMs                                                                                                                                                                                                                 |
-| Other.Direct Mail | Inbound Paid | This is when a package or piece of mail is sent out.                                                                                                                                                                  |
-| Other.Survey | Inbound Paid | A survey that we or a 3rd party sends out.                                                                                                                                                                                 |
-| Paid Search.AdWords | Inbound Paid | Google AdWords Paid Search                                                                                                                                                                                          |
-| Paid Search.Bing | Inbound Paid | Bing Paid Search                                                                                                                                                                                                       |
-| Paid Search.Other | Inbound Paid | Unspecified Paid Search                                                                                                                                                                                               |
-| Paid Social.Facebook | Inbound Paid | Facebook Paid Ads                                                                                                                                                                                                  |
-| Paid Social.LinkedIn | Inbound Paid | LinkedIn Paid Ads                                                                                                                                                                                                  |
-| Paid Social.Other | Inbound Paid | Unspecified Paid Ads                                                                                                                                                                                                  |
-| Paid Social.Twitter | Inbound Paid | Twitter Paid Ads                                                                                                                                                                                                    |
-| Referral.Referral Program | Inbound Paid | This campaign type is used for our third party prospecting vendors or meeting setting services                                                                                                                |
-| Social.Facebook | Inbound Free Channels | Referral from Facebook                                                                                                                                                                                         |
-| Social.LinkedIn | Inbound Free Channels | Referral from LinkedIn                                                                                                                                                                                         |
-| Social.Other | Inbound Free Channels | Referral from an unspecified social platform                                                                                                                                                                      |
-| Social.Twitter | Inbound Free Channels | Referral from Twitter                                                                                                                                                                                           |
-| Swag.Direct Mail | Inbound Paid | This is when a package or piece of mail is sent out.                                                                                                                                                                   |
-| Swag.Virtual | Inbound Paid | This is when digital/virtual gifts are sent out.                                                                                                                                                                           |
-| Trial.Trial | Trial | SaaS Trials                                                                                                                                                                                                                        |
-| Web Referral | Inbound Free Channels | Referral from any site not otherwise defined                                                                                                                                                                      |
+| Bizible Channel.SubChannel | Bucket Mapping | Online/Offline | Type of Marketing                                                                                                                                                                                          |
+|----------------------------- | -------------- | -------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Content.Content Syndication | Inbound Paid | Offline | White Paper or other content offer that is hosted by a third party.                                                                                                                                         |
+| Content.Gated Content | Inbound Paid | Offline | White Paper or other content offer.                                                                                                                                                                               |
+| Content.PF Content | Inbound Free Channels | Online | This campaign type is used to track consumption of specific PathFactory assets.                                                                                                                             |
+| Direct | Inbound Free Channels | Online | Unknown or direct (NOTE: this is not the same as Web direct/self-serve in SFDC, this is a Web referral where the original source was not captured)                                                                      |
+| Display.Google | Inbound Paid | Online | A display ad from Google                                                                                                                                                                                                 |
+| Display.Other | Inbound Paid | Online | A display ad from an unspecified source                                                                                                                                                                                   |
+| Email | Inbound Free Channels | Online | Email driven engagement                                                                                                                                                                                                  |
+| Event.Conference | Inbound Paid | Offline | Any large event run by Corporate Marketing that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit).                         |
+| Event.Executive Roundtables | Inbound Paid | Offline |  This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables.                                                              |
+| Event.Field Event | Inbound Paid | Offline | This is an event run by Field Marketing that we have paid to participate in                                                                                                                                           |
+| Event.Owned Event | Inbound Paid | Offline | This is an event that we have created, own registration and arrange speaker/venue                                                                                                                                     |
+| Event.Self-Service Virtual Event | Inbound Free Channels | Offline | This is a light weight virtual event that can be hosted on GitLabber's personal zoom.                                                                                                         |
+| Event.Speaking Session | Inbound Paid | Offline | It is for tracking attendance at our speaking engagements.                                                                                                                                                       |
+| Event.Sponsored Webcast | Inbound Paid | Offline | This is webcast hosted on an external partner/vendor platform. The                                                                                                                                              |
+| Event.Vendor Arranged Meetings | Inbound Paid | Offline | Used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts.                                                                                      |
+| Event.Virtual Sponsorship | Inbound Paid | Offline | A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. In |
+| Event.Webcast | Inbound Free Channels | Offline | Any webcast that is hosted and held by GitLab.                                                                                                                                                                   |
+| Event.Workshop | Inbound Free Channels | Offline | An in-person or virtual workshop where the attendees are guided through an agenda of real life use cases within GitLab.                                                                                         |
+| IQM.IQM | Outbound | Online | SDR Initial Qualifying Meeting                                                                                                                                                                                                      |
+| Organic Search.Bing | Inbound Free Channels | Online | Organic Search through Bing                                                                                                                                                                                |
+| Organic Search.Google | Inbound Free Channels | Online | Organic Search through Google                                                                                                                                                                            |
+| Organic Search.Other | Inbound Free Channels | Online | Organic Search through an unspecified search engine                                                                                                                                                       |
+| Organic Search.Yahoo | Inbound Free Channels | Online | Organic Search through Yahoo search                                                                                                                                                                       |
+| Other | Other | Online | Unknown/unspecified UTMs                                                                                                                                                                                                                 |
+| Other.Direct Mail | Inbound Paid | Offline | This is when a package or piece of mail is sent out.                                                                                                                                                                  |
+| Other.Survey | Inbound Paid | Offline | A survey that we or a 3rd party sends out.                                                                                                                                                                                 |
+| Paid Search.AdWords | Inbound Paid | Online |  Google AdWords Paid Search                                                                                                                                                                                          |
+| Paid Search.Bing | Inbound Paid | Online | Bing Paid Search                                                                                                                                                                                                       |
+| Paid Search.Other | Inbound Paid | Online | Unspecified Paid Search                                                                                                                                                                                               |
+| Paid Social.Facebook | Inbound Paid | Online | Facebook Paid Ads                                                                                                                                                                                                  |
+| Paid Social.LinkedIn | Inbound Paid | Online | LinkedIn Paid Ads                                                                                                                                                                                                  |
+| Paid Social.Other | Inbound Paid | Online | Unspecified Paid Ads                                                                                                                                                                                                  |
+| Paid Social.Twitter | Inbound Paid | Online | Twitter Paid Ads                                                                                                                                                                                                    |
+| Referral.Referral Program | Inbound Paid | Online | This campaign type is used for our third party prospecting vendors or meeting setting services                                                                                                                |
+| Social.Facebook | Inbound Free Channels | Online | Referral from Facebook                                                                                                                                                                                         |
+| Social.LinkedIn | Inbound Free Channels | Online | Referral from LinkedIn                                                                                                                                                                                         |
+| Social.Other | Inbound Free Channels | Online | Referral from an unspecified social platform                                                                                                                                                                      |
+| Social.Twitter | Inbound Free Channels | Online | Referral from Twitter                                                                                                                                                                                           |
+| Swag.Direct Mail | Inbound Paid | Offline | This is when a package or piece of mail is sent out.                                                                                                                                                                   |
+| Swag.Virtual | Inbound Paid | Offline |  This is when digital/virtual gifts are sent out.                                                                                                                                                                           |
+| Trial.Trial | Trial | Online | SaaS Trials                                                                                                                                                                                                                        |
+| Web Referral | Inbound Free Channels | Online | Referral from any site not otherwise defined                                                                                                                                                                      |
 
 ## Bizible Attribution with Pathfactory
 

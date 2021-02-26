@@ -26,6 +26,10 @@ If you would like to update the information in your signature, [simply login to 
 
 ## Account Settings
 
+### Roles
+
+Only `admin` users can create campaigns. Only the `acccount owner` can add `admin` users to the platform. 
+
 ### Admin 
 
 From this tab you can view the account owners and admins, set company signature field defaults, set default UTM paramters, and change the default account time zone.
