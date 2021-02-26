@@ -50,4 +50,4 @@ Step by Step guide to continuously focus discussions on cognitive bias & psychol
 2. Make sure to pick the moderator & a topic for your next meeting. Use [this](https://docs.google.com/spreadsheets/d/14KhYgQxWDfZQD5YNbVIdOgbPPmJBlwPD6QwfhUHwOx8/edit#gid=0) to plan & schedule such discussions!
 3. Please use this LinkedIn learning [course](https://www.linkedin.com/learning/overcoming-cognitive-bias/make-better-decisions-by-understanding-bias-2?u=2255073) to schedule deeper discussions around this for the interested audience.
 
-[TODO] Effective Objection Handling
+[Effective Objection Handling](/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling)
