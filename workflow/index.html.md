@@ -443,6 +443,8 @@ Create the Retrospective planning and execution issue by selecting the 'product-
 
 Title the issue *<MILESTONE VERSION #> Team Retrospectives*.
 
+Set the due date to 2 days before the Retrospective Discussion to encourage team members to contribute prior to recording of the Retrospective Summary video.
+
 **Retro doc**
 
 The [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit) is a Google Doc we use to collaborate on for our Retrospective Summary and Retrospective Discussion.
