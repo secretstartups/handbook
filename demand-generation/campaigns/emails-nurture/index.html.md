@@ -61,7 +61,7 @@ The calendar below documents the emails to be sent via Marketo and Mailchimp for
 {: #holiday-coverage}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-In the event of an severity::1 (critical) security vulnerability email communication is needed during the holidays, please create an issue using *[request-email template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email)* and ping in [#marketing_programs](https://gitlab.slack.com/archives/CCWUCP4MS) tagging @marketing-programs
+In the event of an severity::1 (critical) security vulnerability email communication is needed during the holidays, please create an issue using the *[incident_communications](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications)* template and ping in [#marketing_programs](https://gitlab.slack.com/archives/CCWUCP4MS) tagging @marketing-programs and #mktgops. Follow  addititonal directions [here](https://about.gitlab.com/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms). 
 
 ## Email Nurture Programs
 {: #nurture-programs .gitlab-purple}
