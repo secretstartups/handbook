@@ -155,7 +155,29 @@ To ensure we safeguard our customers data, we:
 1. Have an [internal Red Team](/handbook/engineering/security/#red-team)
 1. Enable our customers to secure their applications via our [Protect Stage](/handbook/product/categories/#protect-stage) categories and features
 
-## 11. Economic Downturn
+## 11. GitLab.com Reliability
+
+{:#gitlab-com-reliability}
+
+As more customers depend on GitLab.com instead of self-managed instances, the reliability and security of GitLab.com is crucial to the success of the organization.
+Even customers who use a self-managed GitLab instance are affected by GitLab.com outages because of the negative effect of the organization's reputation.
+Outages not only cost customers money, they also affect [the company's valuation](https://fastinews.com/2019/09/05/slack-asks-investors-to-trust-that-outage-costs-were-a-one-time-issue/)
+and have [led to lawsuits](https://www.law360.com/articles/1201122/shareholders-slap-slack-with-suit-over-outage-credits).
+Disruption to GitLab.com's availability is a reputational risk.
+
+We mitigate this risk in a number of ways:
+* we prioritize [security and availability](/handbook/product/#prioritization) over velocity
+* we have multiple [reliability teams](/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
+* we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
+* we have an [infra-dev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.  
+* the [Quality Engineering Department](/handbook/engineering/security/#security-operations) makes sure everyone is aware of what the quality of the product is, empirically.
+* the [Application Security team](/handbook/engineering/security/#application-security) are responsible for ensuring the security of the GitLab application, which we also operate on GitLab.com.
+* the [Security Operations team](/handbook/engineering/security/#security-operations), who are responsible for managing security incidents across GitLab and GitLab.com.
+* the [Abuse Operations team](/handbook/engineering/security/#abuse-operations), who are responsible for investigating and mitigating the malicious use of our systems.
+* the [Red Team](/handbook/engineering/security/#red-team), who emulate adversary activity to improve the security of GitLab.com.
+* the [Threat Intelligence team](/handbook/engineering/security/#threat-intelligence) who research and provide information about specific threats to help us protect GitLab.com from attacks.
+
+## 12. Economic Downturn
 {:#economic-downturn}
 
 An economic downturn will likely prolong our sales cycle.
@@ -176,7 +198,7 @@ Here are the things we can do at GitLab counter this risk:
 - When speaking with customers, lead with empathy and help support their transition to remote
 - Be the example for how to be even more effective as a remote company
 
-## 12. Competition
+## 13. Competition
 {:#competition}
 
 There will always be competitive products.
@@ -239,7 +261,7 @@ The largest cost in application delivery is typically infrastructure. Large hype
 
 Also, see the [fork and commoditize](#fork-and-commoditize) move that is available to hyper-scale infrastructure providers.
 
-## 13. Founder Departure
+## 14. Founder Departure
 {:#founder-departure}
 
 Often startups struggle through the transition when founders leave the company, especially when those founders also serve as the CEO.
@@ -250,7 +272,7 @@ To ensure we avoid this risk we:
 1. Have the CEO take normal vacations
 1. Actively help the CEO grow with the company, including training, coaching, and feedback
 
-## 14. Handbook Second
+## 15. Handbook Second
 {:#handbook-second}
 
 We work [Handbook First](/handbook/handbook-usage/#why-handbook-first).
@@ -265,7 +287,7 @@ To ensure we avoid this risk, we:
 1. Explicitly ask CEO Shadows to [promote working handbook first](/handbook/ceo/shadow/#promote-communication-best-practices)
 1. Empower all team members to help promote our [communication guidelines](/handbook/communication/)
 
-## 15. Key people leave
+## 16. Key people leave
 
 {:#key-people-leave}
 
@@ -293,7 +315,7 @@ Big companies are organizationally different than small startups, but there are 
 
 Keeping the _feel_ of a small startup, despite a growing headcount, may help retain employees who would otherwise leave.
 
-## 16. Remote proliferation
+## 17. Remote proliferation
 
 {:#remote-proliferation}
 
@@ -305,7 +327,7 @@ Accelerated by the COVID-19 pandemic, more organizations are [now willing](https
 
 At particular risk is GitLab's geographic diversity. Team members farthest from major cities may leave to achieve accelerated financial success at newly-remote organizations which utilize a different compensation philosophy. 
 
-## 17. Innovation and creativity are stifled
+## 18. Innovation and creativity are stifled
 
 {:#innovation-and-creativity-are-stifled}
 
@@ -317,7 +339,7 @@ We can keep this momentum by continuing to value and engage with our community.
 We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
 and [wider community contributions per release](/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/handbook/ceo/kpis/#gitlab-kpis).
 
-## 18. More layers of middle management creating problems
+## 19. More layers of middle management creating problems
 
 {:#more-layers-of-middle-management-creating-problems}
 
@@ -338,7 +360,7 @@ Each one of the problems above has a specific solution:
 1. Incent folks to take calculated risks. Make failure acceptable. There is a thin line between incentivizing risk and recklessness, so draw the line carefully. For example, when [team-member1 accidentally dropped our production database](/blog/2017/02/01/gitlab-dot-com-database-incident/), they were [still promoted](/blog/2017/03/17/how-is-team-member-1-doing/) because we [promote based on performance](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document).
 1. Focus on [customer centricity](/handbook/leadership/biggest-risks/#loss-of-customer-centricity).
 
-## 19. Technical debt ineffectively managed
+## 20. Technical debt ineffectively managed
 
 {:#technical-debt-ineffectively-managed}
 
@@ -347,7 +369,7 @@ We address this for acquired technology by having [acquired organizations](/hand
 
 Otherwise, we have a [clear and consistent prioritization framework across engineering](/handbook/engineering/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
 
-## 20. Loss of great end-to-end experience
+## 21. Loss of great end-to-end experience
 
 {:#loss-great-end-to-end-experience}
 
@@ -357,7 +379,7 @@ In order to avoid this negative outcome, we:
 * Have [research team interview personas](/handbook/engineering/ux/ux-research/) to ensure a good end-to-end workflow for specific persona types - doing
 * Ensure adequate [product leadership](/handbook/product/product-leadership/) that is focused across the entire product line (Growth Director, Enablement Director, Product VP) - doing
 
-## 21. Enterprise product management
+## 22. Enterprise product management
 
 {:#enterprise-product-management}
 
@@ -367,7 +389,7 @@ In order to prevent this effect, we will:
 * Create and maintain [UX scorecards](/handbook/engineering/ux/ux-scorecards/) and interviews from UX
 * [Validate problems and solutions before building](/handbook/product-development-flow/#validation-track)
 
-## 22. Frankenstein product
+## 23. Frankenstein product
 
 {:#frankenstein-product}
 
@@ -377,7 +399,7 @@ In order to manage this risk:
 * Follow our [acquisition strategy](/handbook/acquisitions/#acquisition-strategy)
 * For Engineering, the deciding factor is whether the senior-most technical stakeholder--who is not a founder--is on board or not. Because this person will either get the engineers on board or foment resistance.
 
-## 23. Ineffective Management
+## 24. Ineffective Management
 
 {:#ineffective-management}
 
@@ -388,7 +410,7 @@ In order to address this, we:
 * Train, coach, and publicly recognize good management
 * Set goals for management success (helping managers become great managers)
 
-## 24. Setting expectations incorrectly
+## 25. Setting expectations incorrectly
 
 {:#setting-expectations-incorrectly}
 
@@ -396,33 +418,12 @@ If we don't set targets appropriately and communicate about those expectations e
 Missing a super-high goal while achieving really, really high results is still something to be acknowledged and celebrated.
 We need to set and communicate targets that both drive the highest possible results and also ensure constituents understand the business results and in context.
 
-## 25. Inability to respond to technological change
+## 26. Inability to respond to technological change
 
 {:#inability-to-respond-to-technical-change}
 
 Our value of iteration keeps us from marrying ourselves to timelines and product features that get planned years before development.
 
-## 26. GitLab.com Reliability
-
-{:#gitlab-com-reliability}
-
-As more customers depend on GitLab.com instead of self-managed instances, the reliability and security of GitLab.com is crucial to the success of the organization.
-Even customers who use a self-managed GitLab instance are affected by GitLab.com outages because of the negative effect of the organization's reputation.
-Outages not only cost customers money, they also affect [the company's valuation](https://fastinews.com/2019/09/05/slack-asks-investors-to-trust-that-outage-costs-were-a-one-time-issue/)
-and have [led to lawsuits](https://www.law360.com/articles/1201122/shareholders-slap-slack-with-suit-over-outage-credits).
-Disruption to GitLab.com's availability is a reputational risk.
-
-We mitigate this risk in a number of ways:
-* we prioritize [security and availability](/handbook/product/#prioritization) over velocity
-* we have multiple [reliability teams](/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
-* we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
-* we have an [infra-dev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.  
-* the [Quality Engineering Department](/handbook/engineering/security/#security-operations) makes sure everyone is aware of what the quality of the product is, empirically.
-* the [Application Security team](/handbook/engineering/security/#application-security) are responsible for ensuring the security of the GitLab application, which we also operate on GitLab.com.
-* the [Security Operations team](/handbook/engineering/security/#security-operations), who are responsible for managing security incidents across GitLab and GitLab.com.
-* the [Abuse Operations team](/handbook/engineering/security/#abuse-operations), who are responsible for investigating and mitigating the malicious use of our systems.
-* the [Red Team](/handbook/engineering/security/#red-team), who emulate adversary activity to improve the security of GitLab.com.
-* the [Threat Intelligence team](/handbook/engineering/security/#threat-intelligence) who research and provide information about specific threats to help us protect GitLab.com from attacks.
 
 ## 27. Functional Silos
 
