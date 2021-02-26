@@ -8,13 +8,14 @@ description: Overview of how ZenDesk is managed by Support Operations.
 
 Pages to read for more information:
 
+* [Apps](apps.html)
 * [Organizations](organizations.html)
+* [Sandbox](sandbox.html)
 * [Schedules](schedules.html)
 * [SLA Policies](slas.html)
 * [Tags](tags.html)
 * [Tickets](tickets.html)
 * [Users](users.html)
-* [Sandbox](sandbox.html)
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
