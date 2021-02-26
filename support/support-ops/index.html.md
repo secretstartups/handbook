@@ -86,6 +86,48 @@ and SWIR
 For an overview of what issues/MRs involve Support Ops, please see our
 [changelog page](https://gitlab-com.gitlab.io/support/support-ops/changelog/)!
 
+## Division of Responsibilities
+
+To help ensure the team doesn't get overwhelmed and has thr ability to focus on
+specialization and learning, we divide out the responsibilties amongst our
+team. The current division of responsibilities is:
+
+| Category           | Subcategory                  | DRI              | Backup           |
+|--------------------|------------------------------|------------------|------------------|
+| Zendesk Global     | Agent Signatures             | @jcolyer         | @nabeel.bilgrami |
+|                    | Apps                         | @jcolyer         | @nabeel.bilgrami |
+|                    | Automations                  | @nabeel.bilgrami | @avilla4         |
+|                    | Macros                       | @avilla4         | @nabeel.bilgrami |
+|                    | Provisioning/Deprovisioning  | @nabeel.bilgrami | @avilla4         |
+|                    | Settings                     | @jcolyer         | @nabeel.bilgrami |
+|                    | Ticket Forms and Fields      | @jcolyer         | @nabeel.bilgrami |
+|                    | Theme/Guide                  | @jcolyer         | @nabeel.bilgrami |
+|                    | Triggers                     | @nabeel.bilgrami | @avilla4         |
+|                    | Users and Orgs               | @avilla4         | @nabeel.bilgrami |
+|                    | Views                        | @avilla4         | @nabeel.bilgrami |
+|                    | ZD<>SFDC Sync Main           | @jcolyer         | @nabeel.bilgrami |
+|                    | ZD<>SFDC Sync Partners       | @jcolyer         | @nabeel.bilgrami |
+| Zendesk US Federal | Agent Signatures             | @jcolyer         | @dnolan1         |
+|                    | Apps                         | @jcolyer         | @dnolan1         |
+|                    | Automations                  | @dnolan1         | @jcolyer         |
+|                    | Macros                       | @dnolan1         | @jcolyer         |
+|                    | Settings                     | @dnolan1         | @jcolyer         |
+|                    | Ticket Forms and Fields      | @jcolyer         | @dnolan1         |
+|                    | Theme/Guide                  | @jcolyer         | @dnolan1         |
+|                    | Triggers                     | @dnolan1         | @jcolyer         |
+|                    | Users and Orgs               | @dnolan1         | @jcolyer         |
+|                    | Views                        | @jcolyer         | @dnolan1         |
+|                    | ZD<>SFDC Sync US Federal     | @jcolyer         | @dnolan1         |
+| Calendly           | N/A                          | @jcolyer         | @nabeel.bilgrami |
+| Docs               | Support Handbook             | @avilla4         | @nabeel.bilgrami |
+|                    | Support Ops Handbook         | @avilla4         | @nabeel.bilgrami |
+| GitLab.com         | 1-1-issue-generator          | @jcolyer         | @dnolan1         |
+|                    | Account Deletions            | @jcolyer         | @dnolan1         |
+|                    | Project/Issue/MR Settings    | @jcolyer         | @nabeel.bilgrami |
+|                    | Triaging support-ops-project | @avilla4         | @nabeel.bilgrami |
+|                    | Audits                       | @jcolyer         | @nabeel.bilgrami |
+|                    | ADWR                         | @jcolyer         | @avilla4         |
+
 ## Frequently Asked Questions (F.A.Q.):
 
 * If we receive any probelm in using Zendesk, can we contact Zendesk directly?
