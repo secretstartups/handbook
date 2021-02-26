@@ -46,7 +46,7 @@ description: This page is about working with sales.
       1. Find the person in charge of the [sales segment](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
         and [sales territory](https://about.gitlab.com/handbook/sales/territories/#territories)
         and mention them in a Chatter comment.
-   1. If anyone you reach out to does not respond within 24 hours (excluding PTO, weekend, Family & Friends day & global holidays):
+   1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family & Friends day & global holidays):
       1. Mention the person's direct manager in a Chatter comment.
          * Suggested message text:
            > Following the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> within the agreed upon time.
