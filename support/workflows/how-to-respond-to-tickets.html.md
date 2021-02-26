@@ -161,7 +161,7 @@ As a member of the Support Team at GitLab you should be:
 
 ##### Is it in scope?
 
-**Greg's Razor** is a simple question that will help you determine what is in the scope of support.
+**Greg's [razor](https://en.wikipedia.org/wiki/Philosophical_razor)** is a simple question that will help you determine what is in the scope of support.
 
 > Is it in the [docs](https://docs.gitlab.com)?
 
