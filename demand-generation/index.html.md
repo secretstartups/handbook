@@ -145,7 +145,7 @@ Select `SFDC_Order_Type_Stamped = 1. New - First Order, 2. New - Connected, 3. G
 
 **Snapshot View vs Touchpoint View:**
 
-The following table gives a better understanding of the difference between the 2 views (with dummy data). The table shows 1 SFDC opportunity with 4 different touchpoints and the Linear SAO. Each touchpoint happens on a different day and the SAO date of the opportunity is on `2021-01-20`.
+The following table gives a better understanding of the difference between the 2 views (with dummy data). The table shows 1 SFDC Sales accepted opportunity (SAO) with 4 different touchpoints and the Linear SAO. Each touchpoint happens on a different day and the SAO date of the opportunity is on `2021-01-20`.
 
 * If we report on Touchpoint View, the Linear SAO is shown on the different touchpoint dates: 0.25 Linear SAO on `2021-01-10`, another one on `2021-01-12` and so on).
 * If the report is based off of Snapshot View, all Linear SAOs will be shown on the SAO date: `4x0.25=1` on `2021-01-20`
@@ -156,6 +156,8 @@ The following table gives a better understanding of the difference between the 2
 |0064M00000Wv4i2|a604M000000dMJg|2021-01-12|2021-01-20|CRM|0.25|
 |0064M00000Wv4i2|a604M000000dMJd|2021-01-17|2021-01-20|Web Form|0.25|
 |0064M00000Wv4i2|a604M000000dMJb|2021-01-18|2021-01-20|Web Visit|0.25|
+
+M**QLs in snapshot view**: The snapshot view calculates the distinct number of Bizible persons who hit MQL status and engaged with any of the demand gen campaigns
 
 **Functionalities:**
 * **Dynamic KPI Charts:** Some charts are dynamic meaning that you are able to switch the KPI in the dropdown menu in the top left corner. The Y axis format changes based on the selected KPI ($, %). If you want to temporarly remove some values in the chart series. You can do that by clicking on the relevant label in the legend. Double-clicking on a label in the legend will display the desired label only.
