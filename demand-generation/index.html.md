@@ -114,11 +114,22 @@ The above [Linear] attribution metrics are also available in other attribution m
 * **Date Range**: based on Bizible touchpoint date
 * **Group By Time:** You can toggle between different date aggregation (MoM,QoQ,YoY). _Note: If you use the dashboard for the very first time, you need to select any value in this filter in order to make the charts work on the dashboard._
 * **Touchpoint Segment:** multi-select filter with the option of `Demand Gen` and `Other` (if you select both, you would be able to see All touchpoints). `Other` touchpoints cover any non-Demand Gen data (e.g.: FMM, Direct, Organic Search etc.). Touchpoint Segment **does not** filter the PMG cost.
+* **Snapshot View:** When you select the `Snapshot View` option, the main KPIs (MQL,Linear SAO, Won) will be filtered by the relevant snapshot date instead of touchpoint date. What does this mean? Touchpoint view is based on Bizible touchpoint dates, while the Snapshot view is based on the relevant SFDC object date filters: for Linear SAO -> SAO date, Closed Won -> Closed date, MQLs -> MQL date. Inquiries is always filtered by the Bizible touchpoint date, so Inquiries and PMG cost is not affected by the Snapshot view. **Important** to know that the Snapshot View is only linked to the main Scorecards and the Funnel chart that are on the top of the Demand Gen dashboard.
 * **Integrated Campaign:** filters the charts and tables by integrated campaign group. `Free Trial` covers the Estimated Free Trials only.
 * **SFDC Sales Segment:** based on the sales segment on the lead object and the sales segment on the account linked to the contact. SFDC Sales Segment filters the PMG Cost based on the utm_segment in PMG data, that is defined in the `budget` field in their database. PMG Segments: SMB, Mid-Market, Large, Prospecting, Retargeting
 * **SFDC Region Normalized:** it's the Region on the lead object and the region on the account linked to the contact. PMG Cost is filtered by the region taken from the PMG campaign name
 * **Country:** mailing address country on the lead and contact records, for the opportunities we are using the contact's mailing address. (Note: Marketo forms collect the mailing address). Country **does not** filter the PMG cost.
 * **SFDC Order Type Stamped, Opp Sales Stype, Opp Deal Path:** filters the post opportunity metrics (SAO,WON) only (so it is not linked to Inquiries, MQL, SDR Accepted). PMG Cost is not filtered.
+
+**Default filters**
+
+The Demand Gen dashboard has the following defaults filters set up:
+* Touchpoint_Segment=`Demand Gen`
+* DateRange =>`2020-02-01`
+* SFDC_Order_Type_Stamped = `1. New - First Order`
+* Snapshot View is turned off
+
+When you want to reset the filter just open the filter pane and click on `Reset Filter`
 
 **How to filter New First Order Logos?**
 
@@ -132,6 +143,19 @@ Select `SFDC_Order_Type_Stamped = 1. New - First Order, 2. New - Connected, 3. G
 
 `Web direct` covers web portal purchase. Deal Path is `Channel` when the Partner Account name is not blank on the opportunity.
 
+**Snapshot View vs Touchpoint View:**
+
+The following table gives a better understanding of the difference between the 2 views (with dummy data). The table shows 1 SFDC opportunity with 4 different touchpoints and the Linear SAO. Each touchpoint happens on a different day and the SAO date of the opportunity is on `2021-01-20`.
+
+* If we report on Touchpoint View, the Linear SAO is shown on the different touchpoint dates: 0.25 Linear SAO on `2021-01-10`, another one on `2021-01-12` and so on).
+* If the report is based off of Snapshot View, all Linear SAOs will be shown on the SAO date: `4x0.25=1` on `2021-01-20`
+
+|SFDC Opportunity ID | Bizible Touchpoint ID | Bizible Touchpoint Date | SAO date | Touchpoint Type | Linear SAO |
+|--------------------|-----------------------|-------------------------|----------|---------------------|------------|
+|0064M00000Wv4i2|a604M000000dMJc|2021-01-10|2021-01-20|Web Visit|0.25|
+|0064M00000Wv4i2|a604M000000dMJg|2021-01-12|2021-01-20|CRM|0.25|
+|0064M00000Wv4i2|a604M000000dMJd|2021-01-17|2021-01-20|Web Form|0.25|
+|0064M00000Wv4i2|a604M000000dMJb|2021-01-18|2021-01-20|Web Visit|0.25|
 
 **Functionalities:**
 * **Dynamic KPI Charts:** Some charts are dynamic meaning that you are able to switch the KPI in the dropdown menu in the top left corner. The Y axis format changes based on the selected KPI ($, %). If you want to temporarly remove some values in the chart series. You can do that by clicking on the relevant label in the legend. Double-clicking on a label in the legend will display the desired label only.
@@ -142,7 +166,7 @@ Select `SFDC_Order_Type_Stamped = 1. New - First Order, 2. New - Connected, 3. G
 {: #demand-gen-touchpoints}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The below table shows how we select the demand gen related touchpoints and addes them into the integrated campaign groups. We take online touchpoints (utm parameters from the form, landing page URLs) and the offline campaigns (such as LinkedIn Lead Gen) as well.
+The below table shows the rules how we select the demand gen related touchpoints and addes them into the integrated campaign groups. We take online touchpoints (utm parameters from the form, landing page URLs) and the offline campaigns (such as LinkedIn Lead Gen) as well.
 
 **How to make sure that the LinkedIn Lead Gen campaigns will be captured properly by the dashboard?**
 
@@ -170,7 +194,7 @@ The below table shows how we select the demand gen related touchpoints and addes
 | CI/CD Seeing is Believing           | cicdseeingisbelieving                                                                             | ad campaign name incl. 'cicdseeingisbelieving' or campaign name ='20201215_HowCiDifferent'                                                     |
 | Simplify DevOps'                    | simplifydevops                                                                                    | ad campaign name incl. 'simplifydevops' or parent campaign name ='FY21_SimplifyDevOps_Commercial'                                              |
 | Japan-Digital Readiness             | 21q4-jp                                                                                           | ad campaign name incl. '21q4-jp' or campaign name ='2021_Social_Japan_LinkedIn Lead Gen'                                                       |
-| Publishers/Sponsorships             | utm_medium = 'sponsorship' and utm_source ='issa','stackoverflow','securityweekly-appsec'.        | parent campaign name='Demand Gen Publishers/Sponsorships' |
+| Publishers/Sponsorships             | utm_medium = 'sponsorship' and utm_source ='issa','stackoverflow','securityweekly-appsec'        | parent campaign name='Demand Gen Publishers/Sponsorships' |
 
 
 ## Tactic-Specific Dashboards
