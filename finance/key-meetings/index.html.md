@@ -44,15 +44,18 @@ The meetings are also to be livestreamed to GitLab Unfiltered.
 
 Functions that have these meetings are:
 
-*  Engineering (Eric Johnson - function DRI) - does not include Support or Infrastructure
-*  Finance (Brian Robins - function DRI)
-*  Infrastructure (Steve Loyd - function DRI)
-*  Legal (Robin Schulman - function DRI)
-*  Marketing (Todd Barr - function DRI)
-*  People Group (Wendy Barnes - function DRI)
-*  Product (Scott Williamson - function DRI)
-*  Sales (Michael McBride - function DRI)
-*  Support (Tom Cooney - function DRI)
+*  Development (Christopher Lefelhocz - Function DRI) scheduled every other month
+*  Quality (Mek Stittri - Function DRI) scheduled every other month
+*  UX (Christie Lenneville - Function DRI) scheduled every other month
+*  Security (Johnathan Hunt - Function DRI) scheduled every other month
+*  Finance (Brian Robins - function DRI) scheduled monthly
+*  Infrastructure (Steve Loyd - function DRI) scheduled monthly
+*  Legal (Robin Schulman - function DRI) scheduled monthly
+*  Marketing (Todd Barr - function DRI) scheduled monthly
+*  People Group (Wendy Barnes - function DRI) scheduled monthly
+*  Product (Scott Williamson - function DRI) scheduled monthly
+*  Sales (Michael McBride - function DRI) scheduled monthly
+*  Support (Tom Cooney - function DRI) scheduled monthly
 
 If you would like to be added to a function's Key Meeting post in [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
 
@@ -62,7 +65,7 @@ We expect that All-Directs have a general understanding of the business beyond t
 
 Each month, one All-Direct will join the Key Rotation. This person should plan to attend all Key Meetings in that month. The team member is encouraged to contribute questions and comments to the agenda in each of these meetings. The team member is also encouraged to bring takeaways back to the team member's E-Group manager and teams.
 
-A rotation includes 9 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings.
+A rotation includes 10 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings.
 
 Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the [EBA of the CFO](/handbook/eba/#executive-business-administrator-team) in the #key-meetings Slack channel. The EBA to the CFO will add participants to meetings.
 
