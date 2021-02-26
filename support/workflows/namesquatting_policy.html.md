@@ -93,9 +93,9 @@ In Zendesk:
 
    Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a violation of trademark policy. Claiming trademark infringement is a legal process, and we will not release a namespace for trademark violation without a court order.
 
-1. **Should we release a namespace even if there might be potential harm done to GitLab.com users?**
+1. **Should we release a namespace even if the request might seem questionable?**
 
-   Yes, we should always release the namespace as long as it meets the release criteria. Trust and Safety will take the necessary steps to mitigate any abusive activity which may subsequently originate from the namespace. See [this Support Team Meta issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3145) for some discussion from Support, Legal and Trust and Safety.
+   Yes, we should always release the namespace as long as it meets the release criteria. Trust and Safety will take the necessary steps to mitigate any abusive activity which may subsequently originate from the namespace. See [Support Team Meta issue 3145](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3145) for discussion and additional context from Support, Legal, and Trust and Safety.
 
 __________________
 
