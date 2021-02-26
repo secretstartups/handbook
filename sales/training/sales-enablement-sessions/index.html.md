@@ -106,7 +106,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 </details>
 
 
-**Note: To watch private videos on GitLab Unfiltered, watch [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk) and take a look at the handbok page on [watching private videos.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)**
+**Note: To watch private videos on GitLab Unfiltered, please look at the Handbook page on [watching private videos.](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube) which includes a link to [this 2-minute video](https://www.youtube.com/watch?v=dZtCuOf5aGk).**
 
 ## Get an invite to the weekly session
 
