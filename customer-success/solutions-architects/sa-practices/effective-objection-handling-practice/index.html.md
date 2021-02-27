@@ -8,7 +8,7 @@ title: "Effective Objection Handling Practice"
 # Effective Objection Handling Practice
 {:.no_toc}
 
-Effective Objection handling skill is critical to becoming a trusted advisor in our respective sales/customer success roles. Objection handling means responding to the customer in a way that changes their mind or alleviate their concerns. Objections typically fall into these **categories**(http://changingminds.org/disciplines/sales/objection/objection_types.htm). 
+Effective Objection handling skill is critical to becoming a trusted advisor in our respective sales/customer success roles. Objection handling means responding to the customer in a way that changes their mind or alleviate their concerns. Objections typically fall into these [categories](http://changingminds.org/disciplines/sales/objection/objection_types.htm). 
 
 # Objection Handling Process
 
@@ -21,13 +21,13 @@ This is our chance to do more discovery & learn as much as about the customer as
 
 2. Question
 
-Ask **questions**(http://changingminds.org/techniques/questioning/questioning.htm) if it makes sense, generally we find open ended questions are the best way to retrieve information. This not only shows you are interested in them, but it also gives you more information with which to make the sale. 
+Ask [questions](http://changingminds.org/techniques/questioning/questioning.htm) if it makes sense, generally we find open ended questions are the best way to retrieve information. This not only shows you are interested in them, but it also gives you more information with which to make the sale. 
 As you question them, watch carefully for body language that gives you more information about what they are thinking and feeling.
 You might also use the "tip the bucket technique" to see if they more objections that can be answered.
 
 3. Think
 
-Take a pause to think & figure out which **technique**(http://changingminds.org/disciplines/sales/objection/objection_handling.htm) is the best for their objection. You will see that these techniques will become second nature with practice.
+Take a pause to think & figure out which [technique](http://changingminds.org/disciplines/sales/objection/objection_handling.htm) is the best for their objection. You will see that these techniques will become second nature with practice.
 
 4. Handle
 
@@ -38,49 +38,49 @@ You are under no obligation to try and force-fit a method where it is unlikely t
 
 Finally, check to find out whether your objection-handling worked! Ask if you have answered their question. Ask if there are any more concerns. As necessary, handle outstanding objections.
 
-Then go for the close using any of these **closing techniques**(http://changingminds.org/disciplines/sales/closing/closing_techniques.htm).
+Then go for the close using any of these [closing techniques](http://changingminds.org/disciplines/sales/closing/closing_techniques.htm).
 
 # Objection Handling Techniques That Can Help
 
 The techniques listed below are commonly used in the field to handle objections effectively. Sometimes, we might have to use more than 1 technique to handle an objection. Please remember to use empathy, establish yourself as trusted advisor & use sentences like "let me get back to you on it" when you are not sure on how to handle the objection instantly.
 
-**LACE**(http://changingminds.org/disciplines/sales/objection/objection_lace.htm): LACE is a 4 step objection handling technique which is broken down into 1)Listening to the objection 2)Accepting the objection 3) Seeking & making a commitment 4) Addressing the objection through explicit action.
+[LACE](http://changingminds.org/disciplines/sales/objection/objection_lace.htm): LACE is a 4 step objection handling technique which is broken down into 1)Listening to the objection 2)Accepting the objection 3) Seeking & making a commitment 4) Addressing the objection through explicit action.
 
-**LAARC**(http://changingminds.org/disciplines/sales/objection/laarc.htm): This is similar to LACE objection handling technique with the exception of assess stage where you can ask further probing questions to make sure you understood the objection.
+[LAARC](http://changingminds.org/disciplines/sales/objection/laarc.htm): This is similar to LACE objection handling technique with the exception of assess stage where you can ask further probing questions to make sure you understood the objection.
 
-**LAIR**(http://changingminds.org/disciplines/sales/objection/lair.htm): This technique is 4 step process as well where you listen, acknowledge, identify the objection. Then trying to reverse the objection by stating the truth.
+[LAIR](http://changingminds.org/disciplines/sales/objection/lair.htm): This technique is 4 step process as well where you listen, acknowledge, identify the objection. Then trying to reverse the objection by stating the truth.
 
-**Feel, felt, found**(http://changingminds.org/disciplines/sales/objection/feel_felt_found.htm_): This technique is based on empathizing with the customer's objection.
+[Feel, felt, found](http://changingminds.org/disciplines/sales/objection/feel_felt_found.htm_): This technique is based on empathizing with the customer's objection.
 
-**Fear, Uncertainty and Doubt (FUD)**(http://changingminds.org/disciplines/sales/articles/fud.htm): FUD stands for fear, uncertainty and doubt, and is a method used in sales and marketing to dissuade customers from buying competing products and solutions by providing information that triggers fear and uncertainty, or sows seeds of doubt, about current customer thinking/products. This will be commonly seen with customers who are already using or talking to one of our competitors. 
+[Fear, Uncertainty and Doubt (FUD)](http://changingminds.org/disciplines/sales/articles/fud.htm): FUD stands for fear, uncertainty and doubt, and is a method used in sales and marketing to dissuade customers from buying competing products and solutions by providing information that triggers fear and uncertainty, or sows seeds of doubt, about current customer thinking/products. This will be commonly seen with customers who are already using or talking to one of our competitors. 
 
-**Pushback**(http://changingminds.org/disciplines/sales/objection/objection_pushback.htm): This is a technique where you use subtle pushback to object to their objection. Please remember to acknowledge their objection & use empathy while using this technique. 
+[Pushback](http://changingminds.org/disciplines/sales/objection/objection_pushback.htm): This is a technique where you use subtle pushback to object to their objection. Please remember to acknowledge their objection & use empathy while using this technique. 
 
-**Reframing**(http://changingminds.org/disciplines/sales/objection/objection_reframe.htm): This technique suggests reframing the objection so you can turn it to your advantage.
+[Reframing](http://changingminds.org/disciplines/sales/objection/objection_reframe.htm): This technique suggests reframing the objection so you can turn it to your advantage.
 
-**Renaming**(http://changingminds.org/disciplines/sales/objection/objection_renaming.htm): This technique suggests renaming the words in your objection so you can turn it to your advantage.
+[Renaming](http://changingminds.org/disciplines/sales/objection/objection_renaming.htm): This technique suggests renaming the words in your objection so you can turn it to your advantage.
 
-**Reprioritize**(http://changingminds.org/disciplines/sales/objection/objection_priority.htm): The technique focuses on being able to handle higher priority objections by reframing their objections & asking other probing questions.
+[Reprioritize](http://changingminds.org/disciplines/sales/objection/objection_priority.htm): The technique focuses on being able to handle higher priority objections by reframing their objections & asking other probing questions.
 
-**Boomerang**(http://changingminds.org/disciplines/sales/objection/objection_boomerang.htm): By law of association, if you are stating what they stated to you previously then you have convinced the customer.
+[Boomerang](http://changingminds.org/disciplines/sales/objection/objection_boomerang.htm): By law of association, if you are stating what they stated to you previously then you have convinced the customer.
 
-**Objection Chunking**(http://changingminds.org/disciplines/sales/objection/objection_chunking.htm): Taking a higher or lower viewpoint on the stated objection.
+[Objection Chunking](http://changingminds.org/disciplines/sales/objection/objection_chunking.htm): Taking a higher or lower viewpoint on the stated objection.
 
-**Conditional Close**(http://changingminds.org/disciplines/sales/closing/conditional_close.htm_): Make closure a condition for resolving their objection.
+[Conditional Close](http://changingminds.org/disciplines/sales/closing/conditional_close.htm_): Make closure a condition for resolving their objection.
 
-**Curiosity**(http://changingminds.org/disciplines/sales/objection/objection_curiosity.htm): Ask more questions to clarify the objection.
+[Curiosity](http://changingminds.org/disciplines/sales/objection/objection_curiosity.htm): Ask more questions to clarify the objection.
 
-**Deflection**(http://changingminds.org/disciplines/sales/objection/objection_deflection.htm): Acknowledge then avoid addressing it directly or mention that you will address it at a later stage. This technique is typically used when you are short on time & the objection has the ability to raise additional questions which can prove detrimental in achieving your objective.
+[Deflection](http://changingminds.org/disciplines/sales/objection/objection_deflection.htm): Acknowledge then avoid addressing it directly or mention that you will address it at a later stage. This technique is typically used when you are short on time & the objection has the ability to raise additional questions which can prove detrimental in achieving your objective.
 
-**Fallback**(http://changingminds.org/disciplines/sales/objection/fallback.htm): This technique suggest that you take a step back without dismissing or deflecting their objection.
+[Fallback](http://changingminds.org/disciplines/sales/objection/fallback.htm): This technique suggest that you take a step back without dismissing or deflecting their objection.
 
-**Humor**(http://changingminds.org/disciplines/sales/objection/objection_humor.htm): This technique suggests that you diffuse the tension with gentle humor.
+[Humor](http://changingminds.org/disciplines/sales/objection/objection_humor.htm): This technique suggests that you diffuse the tension with gentle humor.
 
-**Justification**(http://changingminds.org/disciplines/sales/objection/objection_justification.htm): This technique suggests you justify the objection & provide a positive spin to it.
+[Justification](http://changingminds.org/disciplines/sales/objection/objection_justification.htm): This technique suggests you justify the objection & provide a positive spin to it.
 
-**Objection Writing**(http://changingminds.org/disciplines/sales/objection/objection_writing.htm): This is a technique where you use **tip the bucket**(http://changingminds.org/disciplines/sales/objection/tip_the_bucket.htm) to identify all objections, then writing them down & addressing them one by one to provide a visual aide. This also builds your credibility as a trusted advisor
+[Objection Writing](http://changingminds.org/disciplines/sales/objection/objection_writing.htm): This is a technique where you use [tip the bucket](http://changingminds.org/disciplines/sales/objection/tip_the_bucket.htm) to identify all objections, then writing them down & addressing them one by one to provide a visual aide. This also builds your credibility as a trusted advisor
 
-**Pre-empting**(http://changingminds.org/disciplines/sales/objection/objection_preempt.htm): This technique suggests you handle the objection before it happens according to your experience.
+[Pre-empting](http://changingminds.org/disciplines/sales/objection/objection_preempt.htm): This technique suggests you handle the objection before it happens according to your experience.
 
 ## Objection Handling Role Play Exercise
 
@@ -93,7 +93,7 @@ Practice Objection Handling in team meeeting by using the framework below:
 
 Please note it's suggested to have these meetings weekly, biweekly so handling objections become a 2nd nature to us. The 
 
-1. Have a pre set list of objections that you have gathered from the **field**(https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871). This is the list we are going to use as Solution Architects. Please feel free to add additional objections to it.
+1. Have a pre set list of objections that you have gathered from the [field](https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871). This is the list we are going to use as Solution Architects. Please feel free to add additional objections to it.
 2. Use a randomized selection method to pick an objection & individual(s) to handle the objections using the techniques above or any way they prefer.
 3. Please dedicate some fixed time (say 5 mins) to handling the objection.
 4. Afterwards, dedicate some fixed time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection.
@@ -103,7 +103,7 @@ Please note it's suggested to have these meetings weekly, biweekly so handling o
 
 ## More resources
 
-Objection handling course (**LinkedIn Learning**(https://www.linkedin.com/learning/sales-handling-objections/responding-to-sales-objections?u=2255073))
+Objection handling course ([LinkedIn Learning](https://www.linkedin.com/learning/sales-handling-objections/responding-to-sales-objections?u=2255073))
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
