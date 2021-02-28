@@ -59,7 +59,7 @@ For more urgent items, feel free to use [#g_create_source_code] on Slack.
 
 Weekly calls between the product manager and engineering managers (frontend and backend) are listed in the "Source Code Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. Every 2 weeks (in the middle of a release), a mid-milestone check-in occurs, to report on the current status of `~"Deliverable"`s. Monthly calls occurs under the same calendar where the entire group is encouraged to join, in order to highlight accomplishments/improvements, discuss future iterations, review retrospective concerns and action items, and any other general items that impact the group.
 
-### Collaborating with other counter parts
+### Collaborating with counterparts
 
 You are encouraged to work as closely as needed with stable counterparts outside of the PM. We specifically include quality engineering and application security counterparts prior to a release kickoff and as-needed during code reviews or issue concerns.
 
@@ -67,12 +67,118 @@ Quality engineering is included in our workflow via the [Quad Planning Process](
 
 Application Security will be involved in our workflow at the same time that [kickoff emails](#kickoff-emails) are sent to the team, so that they are able to review the upcoming milestone work, and notate any concerns or potential risks that we should be aware of.
 
+### Engineering cycle
 
-### Capacity planning
+The engineering cycle is centered around the [GitLab Release Date of the 22nd of the month](https://about.gitlab.com/handbook/engineering/releases/#timelines). This is the only fixed date in the month, and the table below indicates how the other dates can be determined in a given month.
 
-<%= partial("handbook/engineering/development/dev/create/capacity_planning.erb") %>
+#### Candidate issues
 
-#### Availability
+Urgent issues are tentatively assigned to a release to ensure other teams have visibility.
+
+At this point the issues are _Candidate_ issues, and the milestone does not confirm that they will be definitely scheduled. Issues move from _Candidate_ status to confirmed during the [Issue selection](#issue-selection) process.
+
+##### How do I know an issue is scheduled?
+
+- The [Issue Selection](#issue-selection) process has concluded.
+- The milestone is indicated.
+- The issue is assigned to an engineer.
+- The ~"workflow::ready for development" label is added.
+
+#### Key dates
+
+| Activity | Date | Non-working day? |
+| Release Start | 18th of the month | Next working day |
+| Feature Freeze | 17th of next month | Previous working day |
+| Release        | 22nd of next month | Even on non-working day |
+| [Planning Issue Review](#planning-issue-review) | Thursday before [Capacity Planning](#capacity-planning) |
+| [Slippage reporting](#slippage-reporting) | 14th of the next month | Previous working day |
+| [Needs Weight Issue](#needs-weight-issue)  | 15th of the next month | Previous working day |
+| [Capacity Planning](#capacity-planning) | 15th of the next month | Previous working day |
+| [Issue Selection](#issue-selection) | 16th of the next month | Previous working day |
+| [Issue Assignments](#issue-assignments) | 17th of next month | Previous working day |
+
+#### Activities
+
+```mermaid
+graph TD;
+    Features-->PI[Planning Issue];
+    Bugs-->PI[Planning Issue];
+    Security-->PI[Planning Issue];
+    Performance-->PI[Planning Issue];
+    InfraDev-->PI[Planning Issue];
+    AL[App Limits]-->PI[Planning Issue];
+    PI[Planning Issue]-->NWI[Needs Weight Issue];
+    CP[Capacity Planning]-->Slippage;
+    Slippage-->IS[Issue Selection];
+    NWI[Needs Weight Issue]-->IS[Issue Selection];
+    IS[Issue Selection]-->IA[Issue Assignments];
+```
+
+#### Needs Weight issue
+
+> If you haven't read the code, you haven't investigated deeply enough
+>
+> -- <cite>Nick Thomas</cite>
+
+A list of candidate issues for the release will be distributed to team members in a Needs Weight issue [_example_](https://gitlab.com/gitlab-org/create-stage/-/issues/12797) to "weight" or estimate the capacity needed to complete the work. The EM attempts to limit each team member to 4-5 issues, and the estimates should be timeboxed to \~4 hours. If an issue can't be weighted in this window, it requires a research spike.
+
+##### Weighting issues
+
+1. See if there is already a discussed backend solution/plan or none yet.
+1. If the discussed backend solution/plan isn't that clear, clarify it.
+1. If there's no solution/plan yet, devise one. Doesn't need to be a detailed solution/plan. Feel free to ask other people to pick their brains.
+1. If there's a need to collaborate with stable counterpart to devise a solution/plan, add a comment and tag relevant counterparts.
+1. Give issue a weight if there's none yet or update if the existing weight isn't appropriate anymore. Optionally leave a comment describing why a certain weight is given.
+1. It's strongly encouraged to spend no more than 1 hour per issue. Give it your best guess and move on if you run out of time.
+1. Label the issue as ~"workflow::ready for development" if you feel we can make progress on it in the next milestone.
+
+Add a comment and ping the EM if you would like to be assigned to work on this issue in the upcoming release.
+
+##### Weight categories
+
+We use a lightweight system of issue weighting to help with capacity planning.
+These weights help us ensure that the amount of scheduled work in a cycle is
+reasonable, both for the team as a whole and for each individual. The "weight
+budget" for a given cycle is determined based on the team's recent output, as
+well as the upcoming availability of each engineer.
+
+Since [things take longer than you think], it's OK if an issue takes longer
+than the weight indicates. The weights are intended to be used in aggregate, and
+what takes one person a day might take another person a week, depending on their
+level of background knowledge about the issue. **That's explicitly OK and expected.**
+We should strive to be accurate, but understand that they are estimates!
+Change the weight if it is not accurate or if the issue becomes harder than
+originally expected. Leave a comment indicating why the weight was changed and tag
+your EM so that we can better understand weighting and continue to improve.
+
+[things take longer than you think]: https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html
+
+The weights we use are:
+
+| Weight | Description  |
+| --- | --- |
+| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples are documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
+| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. Few surprises are expected, if any, and no coordination with other teams or people is required.<br><br>Examples are simple features, like a new API endpoint to expose existing data or functionality, or regular bugs or performance issues where some investigation has already taken place. |
+| 3: Medium | Features that are well understood and relatively straightforward. A solution will be outlined, and most edge cases will be considered, but some extra investigation will be required to realize the solution. Some surprises are expected, and coordination with other teams or people may be required.<br><br>Bugs that are relatively poorly understood and may not yet have a suggested solution. Significant investigation will definitely be required, but the expectation is that once the problem is found, a solution should be relatively straightforward.<br><br>Examples are regular features, potentially with a backend and frontend component, or most bugs or performance issues. |
+| 5: Large | Features that are well understood, but known to be hard. A solution will be outlined, and major edge cases will be considered, but extra investigation will definitely be required to realize the solution. Many surprises are expected, and coordination with other teams or people is likely required.<br><br>Bugs that are very poorly understood, and will not have a suggested solution. Significant investigation will be required, and once the problem is found, a solution may not be straightforward.<br><br>Examples are large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or otherwise "figured out". |
+
+Anything larger than 5 should be broken down if possible.
+
+Security issues are typically weighted one level higher than they would normally
+appear from the table above. This is to account for the extra rigor of the
+[security release process](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/developer.md).
+In particular, the fix usually needs more-careful consideration, and must also
+be backported across several releases.
+
+#### Planning issue review
+
+The Source Code stable counterparts (BE, FE, PM, UX) meet and propose issues to be worked on in the upcoming release. Using the [Mural](https://www.mural.co/) visual collaboration tool, candidate issues are voted on by the group.
+
+#### Capacity planning
+
+Capacity planning is a collaborative effort involving all Source Code team members and stable counterparts from Frontend, UX and Product. An initial list of issues is tracked in the Source Code Group Planning issue [example](https://gitlab.com/gitlab-org/create-stage/-/issues/12783) for each month.
+
+##### Team Availability
 
 Approximately 5-10 business days before the start of a new release, the EM will begin determining how "available" the team will be. Some of the things that will be taken into account when determining availability are:
 
@@ -87,7 +193,24 @@ All individual contributors start with a "weight budget" of 10, meaning they are
 
 Product will prioritize issues based on the teams total weight budget. Our [planning rotation](#planning-rotation) will help assign weights to issues that product intends on prioritizing, to help gauge the amount of work prioritized versus the amount we can handle prior to a kickoff.
 
-#### Kickoff emails
+##### Source Code issue pipeline
+
+The Source Code issue pipeline is broad, and the PM and EM work together throughout the planning process and the final list is chosen during the Issue Selection meeting. The issue pipeline includes:
+
+- Features
+- Bugs
+- Security issues
+- [Infradev board issues](https://gitlab.com/gitlab-org/gitlab/-/boards/706619?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Asource%20code&label_name[]=infradev)
+- [Performance board issues](https://gitlab.com/gitlab-org/gitlab/-/boards/706619?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Asource%20code&label_name[]=performance-refinement)
+- [Application limit board issues](https://gitlab.com/gitlab-org/gitlab/-/boards/706619?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Asource%20code&label_name[]=Application%20Limits)
+
+#### Issue Selection
+
+On or around the 16th, the PM and EM meet once more to finalize the list of issues in the release. The issue board for that release is then updated, and any issues with an candidate milestone that are not selected will be moved to Backlog or added as a candidate for a future release.
+
+Issues scheduled for the release are then marked ~"workflow::ready for development".
+
+#### Issue assignments
 
 Once availability has been determined, weights have been assigned, and the PM/EM finalize a list of prioritized issues for the upcoming release, kickoff emails will be sent. The intent of this email is to notify you of the work we intend to assign for the upcoming release. This email will be sent before the release begins. The kickoff email will include:
 
@@ -97,23 +220,6 @@ Once availability has been determined, weights have been assigned, and the PM/EM
 * A list of the issues the team is working on that are deemed "note-worthy," in case you'd like to offer help on those issues as time allows
 
 Emails get sent to each individual contributor on the team, as well as the Application Security counterpart, in order to give a heads-up about the upcoming issues in the milestone and what the assignments will be.
-
-#### Planning
-
-> If you haven't read the code, you haven't investigated deeply enough
->
-> -- <cite>Nick Thomas</cite>
-
-To assign weights to issues in a future milestone, on every 4th of the development month (or the next working day if it falls on a holiday or weekend), BE engineers look at the list of issues that are set for next milestone. These are assigned by the engineering manager. To weight issues, before the 15th of the month, they should:
-
-1. See if there is already a discussed backend solution/plan or none yet.
-1. If the discussed backend solution/plan isn't that clear, clarify it.
-1. If there's no solution/plan yet, devise one. Doesn't need to be a detailed solution/plan. Feel free to ask other people to pick their brains.
-1. If there's a need to collaborate with stable counterpart to devise a solution/plan, add a comment and tag relevant counterparts.
-1. Give issue a weight if there's none yet or update if the existing weight isn't appropriate anymore. Leave a comment why a certain weight is given.
-1. It's strongly encouraged to spend no more than 2 hours per issue. Give it your best guess and move on if you run out of time.
-1. Label the issue as ~"workflow::ready for development" if you feel we can make progress on it in the next milestone.
-1. Unassign yourself or keep it assigned if you want to work on the issue.
 
 #### Follow-up issues
 
