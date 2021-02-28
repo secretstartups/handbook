@@ -555,6 +555,19 @@ To create opportunities requiring multiple invoices:
 
 Note: The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments" or "Custom Payment Schedule," whichever applies.
 
+**Add-Ons to Opportunities with Multiple Billing Events**
+
+- Scenario: The customer has a two-year subscription, paid annually. Each year's invoice amount is $100,000. 6 months into the subscription, the customer would like to add 100 users, totalling $75,000 over the remaining 18 months of the agreement.
+  - In scenarios where we are amending a subscription where there are one or more outstanding out-year payments, one quote should be provided, where the base product is amended as appropriate.
+  - How to read the Quote Subtotal: In these scenarios, the quote's subtotal will be higher than anticipated, as the subtotal will account for (1) the add-on you're currently quoting, as well as (2) the year 2 payment (which is scheduled and hasn't been invoiced yet).
+  - How to prepare the Order Form: In these scenarios, Deal Desk will manually prepare the Order Form by (1) Generating the Order Form, (2) subtracting the oustanding year 2 payment from the Order Form Grand Total, and (3) adding annual payment language and totals to the Order Form. 
+  - How to prepare the Opportunities: In these scenarios, the primary opportunity will represent the remainder of the year in question. For each year remaining in the agreement, Deal Desk should (1) create a debook opportunity to debook the current out-year Invoice opportunity, and (2) create a rebook opportunity to correctly rebook the out-year Invoice opportunity with the new, increased out-year Invoice total (representing the original Invoice amount PLUS the add-on Amount for that future period)
+  - In these scenarios
+    - Example: From the scenario above, the quote's subtotal would read $275,000 because it includes (1) the $75,000 Add-On, and (2) the outstanding $100,000 Year 2 Invoice/Payment. 
+    - Order Form: Deal Desk would (1) Change the Grand Total to $75,000, (2) Add Annual Payment language, and (3) in the table, write that $25,000 is due upon receipt (represents the add-on amount for the remainder of the first year), and that $50,000 is due on the same date as the outstanding Year 2 invoice. 
+    - Opportunities: There would be an existing Year 2 Invoice Opportunity with an Amount of $100,000. Deal Desk would debook that opportunity. Deal Desk would then rebook that opportunity with an Amount of $150,000.
+- Real-Life Example: https://gitlab.my.salesforce.com/0064M00000YQO1c?fId=0D54M0000465HEc
+
 #### Zuora Quote Template Updates 
 
 The Deal Desk team owns and manages any updates made to all quote templates. If you have a suggestion for an improvement to our existing quote templates, please [open an issue here](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk)  
