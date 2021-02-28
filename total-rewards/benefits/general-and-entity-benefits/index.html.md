@@ -156,11 +156,31 @@ GitLab offers anyone (regardless of gender) who has been at GitLab for six month
 
 We encourage parents to take the time they need. GitLab team-members will be encouraged to decide for themselves the appropriate amount of time to take and how to take it. For many reasons, a team member may require more time off for parental leave. Many GitLab members are from countries that have longer standard parental leaves, occasionally births have complications, and sometimes 16 weeks just isn't enough. Any GitLab team member can request additional unpaid parental leave, up to 4 weeks. We are happy to address anyone with additional leave requests on a one-on-one basis. All of the parental leave should be taken in the first year.
 
-If you have been at GitLab for a six months and completed your probationary period your parental leave is fully paid. If you've been at GitLab for less than a six months it depends on your jurisdiction. If applicable, commissions are paid while on parental leave based on the prior twelve months of performance with a cap at 100% of plan. For example, if in the twelve months prior to starting parental leave you attained 85% of plan, you will be compensated at the same rate while on leave. On the day you return from leave and going forward, your commissions will be based on current performance only. The rate of commissions paid during your leave will be confirmed by the sales commissions team and communicated to the team member through the total rewards team prior to your leave start date. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
+If you have been at GitLab for a six months and completed your probationary period your parental leave is fully paid. If you've been at GitLab for less than a six months it depends on your jurisdiction. 
+
+## Commission Payout and Quota Relief
+
+If applicable, commissions are paid while on parental leave based on the prior twelve months of performance with a cap at 100% of plan. For example, if in the twelve months prior to starting parental leave you attained 85% of plan, you will be compensated at the same rate while on leave. On the day you return from leave and going forward, your commissions will be based on current performance only. The rate of commissions paid during your leave will be confirmed by the sales commissions team and communicated to the team member through the total rewards team prior to your leave start date. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
 
 Additionally, effective Q1 FY22, commissioned roles are eligible to receive quota relief during their parental leave if the team member has been with GitLab for eight months or longer. The team member will recieve credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave.  After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would recieve an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated OTI based off the number of days that a team member is in seat. Please see a [reference slide here](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an example of how the quota relief process and calculation works. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
 
-For Sales roles with a utilization target, like the [Professional Services Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics), where the compensation plan is a 90/10 split, with the 10% variable based on utilization, a one time payment of the baseline utilization attainment will be paid at the end of 90 continuous days of parental or medical leave. The utilization payout will be at the baseline 50%; payout is not based on prior performance. On the day you return from leave and going forward, your utilization payout returns to the established utilization payout targets.
+For Sales roles with a utilization attainment, like the [Professional Services Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics), the utilization attainment is based on delivering above 70% of available billable hours (1792 hours/year). If the above 70% is met, the PSE is eligible to receive 100% attainment.  
+
+| Effective Utilization Attainment| Effective Utilization Payout|  
+| ------ | ------ | 
+| 0% - 70%| 0% | 
+| 70.01% | 100% | 
+
+At the end of 90 continuous days of parental or medical leave, a one time payment of the 50% baseline billable utilization attainment will be paid.  Utilization payout during parental or medical leave is not based on prior individual performance, since projects identified for billable utilization are based on sales engagements and services attached, and not determined by individual performance.
+
+| Billable Utilization Attainment | Billable Utilization Payout |
+| ------ | ------ |
+| 50% - 70% | 50% |
+| 70% - 90% | 75% |
+| 90% - 100% | 100% |
+| Every 5% over 100% | +1% |
+
+On the day you return from leave, the utilization payout returns to the established utilization attainment ranges.
 
 You are entitled to and need to comply with your local regulations. They override our policy.
 
