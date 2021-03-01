@@ -187,6 +187,12 @@ Throughout the workflow, issues should be addressed in the following priority or
 1. `package:active` label: least effort to largest
 1. `workflow::scheduling` label: These are issues that require weighting, feedback and scheduling before being moved to `package:active`
 
+### Refactoring
+
+When working on an MR for a Deliverable, don't lose track of the aim: release the Deliverable in time. That doesn't mean that refactorings can't happen or that we can't take time to investigate side subjects. It means that we need to limit the time allocated for this type oof work.
+
+When considering a refactoring or a heavy refactoring, consider working [iteratively](https://about.gitlab.com/handbook/values/#iteration). A refactoring can be implemented and refined many times but consider releasing a good enough first version so that depending work is not delayed or blocked. For an example of how we can work iteratively, please see [how we worked through lifting the npm naming conventioon](https://gitlab.com/gitlab-org/gitlab/-/issues/33685#note_512942088).
+
 ### Bug Triaging
 
 #### Investigation
@@ -205,6 +211,12 @@ If a bug investigation takes more time than intended, it's better to:
 - Stop the investigation.
 - Post the current situation in the issue.
 - Inform the Engineering Manager and the Product Manager that will plan more time for the investigation.
+
+### Bug detection
+
+When a bug is detected on staging, engineers should evaluate its severity will be on production. You can use kibana or other tools to evaluate the number of requests impacted. If the severity is high, [appropriate actions](/releases/#deployment-blockers) should be taken.
+
+In particular, when the most used package registries (npm, Maven) are impacted negatively, consider the bug a higher severity. If the bug disrupts the expected behavior of those package registries, consider blocking the next production deployment with the appropriate actions above.
 
 ### How we measure results
 
