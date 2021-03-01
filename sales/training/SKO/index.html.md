@@ -222,7 +222,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
 | Account Based Strategy & Marketing for Customers | [slides](https://docs.google.com/presentation/d/1Ea1Fa7q7sXa_O552xlrJwHWf8YXFS7YCTIErjEJxMo0/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-account) (GitLab internal) |
-| Field Marketing Goals for FY22 | [slides](https://docs.google.com/presentation/d/1u1EOXR8WJsf464ILjMoun8gne2gazU9pGfHHjensp2c/edit?usp=sharing) (GitLab internal) | video (coming soon) |
+| Field Marketing Goals for FY22 | [slides](https://docs.google.com/presentation/d/1u1EOXR8WJsf464ILjMoun8gne2gazU9pGfHHjensp2c/edit?usp=sharing) (GitLab internal) | no video |
 | Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-building) (GitLab internal) |
 
 ----
