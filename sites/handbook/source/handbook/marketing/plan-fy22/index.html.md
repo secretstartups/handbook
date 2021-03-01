@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: FY22 Marketing Plan
+description: FY22 Marketing Plan
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -18,10 +26,21 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 <!-- DO NOT CHANGE ANCHOR -->
 **Goals of FY22 Marketing Plan:**
 
-- Simplify motions
-- Increase collaboration
-- Provide leadership opportunities within the marketing organization
-- Continue to build out the levers identified in FY21 Project Compass
+- Simplify motions and increase collaboration with the 3 GTM Motions
+- Continue to drive levers identified in FY21 Project Compass, including:
+    - Scale ABM Program
+    - Improve Inquiry to SAO conversion rates
+    - Increase Free.com and open source conversion
+- Align with sales with the 4x2 segment strategies
+- Build partners into our marketing motions
+- Help develop marketing team-members with training and mentoring
+
+**Major market themes:**
+
+- Define and win the DevOps Platform category
+- Gain CI marketshare
+- Build security into our motions as a key product differentiator
+- Continue driving the All-Remote work thought leadership
 
 **Timeline:** Ensure marketing alignment by end of February 2021
 
@@ -254,9 +273,7 @@ The Marketing Strategy and Performance team is working to visualize these inputs
 
 ETA is TBD upon scoping by Mktg Strat & Perf team, aiming for within Q1. The GoogleDoc has pre-set filter views to help you see plans by Region, Segment, etc. to be added by team members for their respective activities.
 
-``` sse
 <div style="width: 600px;" class="embed-thumb"><div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1612202820583-60184344c08cf56abe6bde04-dfac2de3-4914-4a1a-998d-7841022f6654.png?v=613f2c7d-bf94-419a-bc68-184fbb500d82) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1612202820583/4c75c5323929f81687f7c933eafad6cb4e7ed186" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> You will be able to edit this mural. </p></div>
-```
 
 ### Inputs to All-Marketing Calendar
 {: #marketing-calendar-inputs}
