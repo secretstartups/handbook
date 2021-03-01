@@ -192,24 +192,24 @@ graph LR
   H(Secure)
   I(Package)
 
-  A --> B
-  A --> C
-  A --> F
-  B --> G
-  B --> C
-  B --> H
-  B --> F
-  C --> G
-  C --> F
-  C --> D
-  E --> C
-  G --> H
-  G --> I
-  G --> C
-  G --> F
-  H --> C
-  H --> I
-  I --> C
+  A <-> B
+  A <-> C
+  A <-> F
+  B <-> G
+  B <-> C
+  B <-> H
+  B <-> F
+  C <-> G
+  C <-> F
+  C <-> D
+  E <-> C
+  G <-> H
+  G <-> I
+  G <-> C
+  G <-> F
+  H <-> C
+  H <-> I
+  I <-> C
 
   subgraph Manage
     A
