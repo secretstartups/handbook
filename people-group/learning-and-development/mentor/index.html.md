@@ -1,0 +1,45 @@
+---
+layout: handbook-page-toc
+title: Mentoring at GitLab
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## What is mentoring?
+
+Mentor relationships are an opportunity for individuals to learn from someone's personal experience, background, and perspective. These relationships build trust on a team, provide safe space to make mistakes, and encourage both personal and professional development.
+
+### Benefits for the mentor
+
+1. Serve as a [leader in the organization](/handbook/leadership/) by enabling growth for other team members
+1. Practive leadership, [effective communication](/handbook/communication/), and [coaching](/handbook/leadership/coaching/) skills
+1. Establish yourself as an expert in a field or speciality
+1. [Build trust](/handbook/leadership/building-trust/) with team members
+
+### Benefits for the mentee
+
+1. Be encouraged to prioritize, and held accountable for, your [career development](/handbook/people-group/learning-and-development/career-development/) 
+1. Learn new skills related to your current role, your future career goals, or an area you're passionate about
+1. Set and reach clearly outlined [goals](/company/okrs/).
+
+## Find a mentor
+
+{this section will outline available mentors on the GitLab team}
+
+## Become a mentor
+
+1. Team members can designate their availability to be a mentor on the GitLab team page by setting the `mentor` status to `true`. This will appear on the team page with a line that reads `Available as a mentor`.
+
+
+## Department-based mentorship programs
+
+Many departments in the GitLab organization organize mentor programs. Check out the current and past programs on the following pages:
+
+1. The [Engineering deparment](/handbook/engineering/) outlines [strategies for mentors and mentees](/handbook/engineering/career-development/mentoring/) with suggestions on how to host meetings and set and evaluate goals.
+1. The [Minorities in Tech TMRG](/company/culture/inclusion/erg-minorities-in-tech/) organized a [mentor program](/company/culture/inclusion/erg-minorities-in-tech/mentoring/) with the goal of enabling GitLab to support its Diversity value. Consider using their [program structure](/company/culture/inclusion/erg-minorities-in-tech/mentoring/program-structure/) to organize a mentor program for your team or TMRG.
+1. The [Sales department](/handbook/sales/) organized a pilot [Women in Sales Mentorship Program](/handbook/people-group/women-in-sales-mentorship-pilot-program/#women-in-sales-mentorship-program-pilot). The program benefits are outlined [here](/handbook/people-group/women-in-sales-mentorship-pilot-program/#program-benefits).
+1. The [Support team](/handbook/support/) has a [Support Engineering Mentorship program](/handbook/support/engineering/mentorship.html)
