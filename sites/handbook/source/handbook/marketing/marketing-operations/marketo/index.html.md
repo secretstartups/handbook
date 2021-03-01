@@ -291,6 +291,7 @@ The following segmentations that are approved and live.
 - Enterprise
 - Mid-Market
 - SMB
+- PUBSEC
 - Default
 
 </details>
