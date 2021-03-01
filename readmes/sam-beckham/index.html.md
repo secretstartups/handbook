@@ -5,29 +5,30 @@ title: "Sam Beckham's README"
 
 ## Sam's README
 
-Hey I'm Sam 👋 Thanks for taking the time to read me.
+Hey my name is Sam 👋 Thanks for taking the time to read me.
 
-I'm a Frontend Engineering Manager for the Verify stage. I like movies, music, and long walks in Jurassic Park.
+I'm a Frontend Engineering Manager for the Verify stage.
+I like movies, music, and long walks in Jurassic Park.
 
-This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. 
+This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
 It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team.
-
-Please contribute to this page by opening a merge request. 
 
 ## Related pages
 
 - [GitLab](https://gitlab.com/samdbeckham)
 - [Twitter](https://twitter.com/samdbeckham)
 - [Personal Website](https://sam.beckham.io)
+- [Today's tasks](https://samdbeckham.gitlab.io/todays-tasks/)
+- [5x5 Presentation](https://drive.google.com/file/d/1c6mgcQDyeEhH7Ym4Ium4p9zZsO1sbH8x/view?t=10m2s)
 
 ## About me
 
 I started at GitLab as a Frontend Engineer on the Secure team in May 2018.
-At the time of writing this I have just had my second anniversary at GitLab and I've loved every minute of being here.
+Shortly after my second anniversary, I moved over to manage the Verify frontend team and look forward to working with them more.
 
 I'm a big film fan.
-My favourite of which is Jurassic Park.
+My favorite of which is Jurassic Park.
 As a result of this, my ~~office~~ house is covered in dinosaur, Star Wars, and Harry Potter memorabilia.
 
 My partner Becky and I live in [Stockton-on-Tees](https://duckduckgo.com/?q=stockton+on+tees&ia=web&iaxm=about), close to where we both grew up.
@@ -44,6 +45,7 @@ But have recently closed it down due to time constraints and a rather pesky glob
 
 Using [todoist](https://todoist.com) to keep track of everything, I use the [Getting Things Done (GTD)](https://gettingthingsdone.com/) method of working.
 Where possible, I try to split tasks into smaller chunks and always look for the [boring solution](/handbook/values/#boring-solutions).
+You can see what I'm working on today on [this website](https://samdbeckham.gitlab.io/todays-tasks/).
 
 Jumping in at the deep-end is the best way for me to learn.
 I may make mistakes at the beginning, but I'm not afraid to admit to them and learn from them.
@@ -68,8 +70,9 @@ So please stop me if I'm explaining something that you already know.
 
 ## Final disclaimer
 
-I am new to management and I'm going to get some things wrong.
-With the right feedback, I know I can learn and become great at it.
+I'm still fairly early in my management journey.
+I've made mistakes in the past, I know I'll make more.
+Every time I make a mistake, I learn from it and get better as a result.
 If you see me doing something weird, sub-optimal, or just plain wrong; please reach out to me and help me correct it.
 
 Stay awesome.
