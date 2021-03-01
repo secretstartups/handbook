@@ -274,7 +274,7 @@ Ensure any changes you make are approved by legal and saved within the OneTrust 
 ### Accessing Scripts
 
 1. To access the scripts, click `Scripts` in the left menu of the `Cookie Compliance` module. 
-1. Click the domain where you want to implement the script. 
+1. Click the domain where the script will be implemented. 
 1. Any time a change is made to a domain within the OneTrust tenant, those changes must be published to production in order for the users to see those changes reflected in the cookie banner, preference center, etc. 
 
 #### Testing
@@ -304,12 +304,12 @@ Click `Publish Test`. Here you can choose which version of the script to publish
 
 Here you can confirm the publication settings of the script. Note: enabling or disabling some of these settings may change the embed script and would have to be re-implemented on the site.
 
-1. Publish individual langauges: when toggle is `off`, all languages will be published
-1. Do you require users to re-consent? Switching to IAB TCF 2.0 requires that your users re-consent, as preferences have changed. TCF 2.0 is not backwards compatible with TCF 1.0
-1. Prevent fetching banner: When toggle is `on`, the banner template HTML and CSS will not be fetched from server as the `otSDKStub.js` loads
-1. Prevent fetching preference center: When toggle is `on`, the preference center template HTML and CSS will not be fetched from server as the `otSDKStub.js` loads
-1. Enable automatic blocking of cookies: If enabled, cookies will automatically be blocked until user has consented. Auto-blocking will block scripts that drop cookies categorized outside of strictly necessary on page load automatically
-1. Enable language detection on scripts: if the language cannot be determined, the templates default language will be used (options: determine the language from the site visitor's browser settings or determine the language from HTML page)
+1. **Publish individual langauges:** when toggle is `off`, all languages will be published
+1. **Do you require users to re-consent?** Switching to IAB TCF 2.0 requires that your users re-consent, as preferences have changed. TCF 2.0 is not backwards compatible with TCF 1.0
+1. **Prevent fetching banner:** When toggle is `on`, the banner template HTML and CSS will not be fetched from server as the `otSDKStub.js` loads
+1. **Prevent fetching preference center:** When toggle is `on`, the preference center template HTML and CSS will not be fetched from server as the `otSDKStub.js` loads
+1. **Enable automatic blocking of cookies:** If enabled, cookies will automatically be blocked until user has consented. Auto-blocking will block scripts that drop cookies categorized outside of strictly necessary on page load automatically
+1. **Enable language detection on scripts:** if the language cannot be determined, the templates default language will be used (options: determine the language from the site visitor's browser settings or determine the language from HTML page)
 
 Click `Publish Test Scripts`. Implement the script into the HTML of your staging site.
 
@@ -319,4 +319,4 @@ This will display either `Do Not Sell My Data` button or `Cookie Settings` butto
 
 ### Cookie List Script
 
-These two methods initlize the the OneTrust Publisher SDK. The initilizeOneTrustPublishersSDK method fetches all of the resources you just configured in geolocation rules, templates, and vendors. The loadPreferenceCenter method is used to load the banner or preference center. By passing in true, the preference center will always load. By passing in false, banner will be displayed for initial consent and re-consent.
+These two methods initlize the the OneTrust Publisher SDK. The `initializeOneTrustPublishersSDK` method fetches all of the resources configured in geolocation rules, templates, and vendors. The `loadPreferenceCenter` method is used to load the banner or preference center. By passing in true, the preference center will always load. By passing in false, banner will be displayed for initial consent and re-consent.
