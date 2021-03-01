@@ -160,4 +160,113 @@ Cookies in the `Unknown` category need to be categorized manually with help from
 1. Use the search bar to search for specific cookies by the cookie name or the host name. 
 1. Use the filter icon to filter down to specific types of cookies by their category, domain, lifespan, or hostname (example: only view functional cookies). 
 
+### Adding, Editing, and Managing Cookie Compliance Templates
 
+#### Add new template
+
+1. Click `Templates`.
+2. Click `Add New Template`. 
+3. Select framework and laws that apply to the site.
+4. Name the template.
+5. Choose the `GitLab` organization.
+6. Add the default language.
+7. On the next screen, configure the layout, styling, content, and behavior fo the cookie banner. The right pane shows a preview of the cookie banner.
+
+#### Customizing the Banner Template
+
+**Layout options**
+
+Most popular: Flat, bottom position
+
+1. Center rounded
+2. Flat
+3. Floating flat
+4. Floating rounded
+5. Floating rounded corner
+6. Floating rounded icon
+7. Position: bottom or top
+
+**Styling options**
+
+Colors are in RGB or hexadecimal code.
+
+1. Accept & reject button color
+2. Button text color
+3. Text color
+4. Background color
+5. Link text color
+6. Accordion background color
+7. Manage preferences button color
+8. Manage preferences link color
+
+There are also options for custom CSS (not available in preview). 
+
+**Content options**
+
+1. Title & description (HTML supported) - the description may need customizing to match the consent model for the site, so as not to risk misleading visitors.
+2. Cookie policy link (link text and URL)
+3. Button set: show `allow all` button, show `cookie settings` button, cookie settings button name, cookie settings button style (link or button), show `reject all` button, show `close` button
+
+**Behavior options**
+
+1. Require banner interaction: displays overlay that forces a choice by the visitor
+
+#### Manage languages
+
+Select the languages which you want to localize the cookie banner to. Also select the default language. You can set up different cookie banner options by language. Ensure that the language matches our policies. Toggling the `show advanced langauges` option shows country-specific versions of languages.
+
+#### Preference center
+
+In `styling`, you can choose to override the styling from the cookie banner to have a different styling for the preference center. This includes an option to add a logo and changing the accordion type for the cookie categories. 
+
+Notice there are different options in the preference center under layout as well. Depending on the options chosen, some features may not be available (example: choosing the `tab` layout removes the accordion feature for the cookie categories). Custom CSS is also available for the preference center.
+
+There are options for [WCAG (Web Content Accessibility Guidelines)](https://www.w3.org/2004/10/wcag2-nav/wcag20.html) best practices for accessibilty in the preference center.
+
+**Advanced configuration**
+
+1. Toggle `Show cookies list` to show a link to the user with `cookie details` related to the category they selected in the preference center.
+2. Select whether you want to show the user the various information about specific cookies including host, duration, type, category, and description. There are options here for linking to Cookiepedia as well as allowing the user to opt-out of a particular cookie host.
+
+You can group the cookie categories as well as adding another group of cookie categories for a better user experience (example: new group called "ads" with the targeting and social media cookie categories grouped underneath). 
+
+#### Cookie list
+
+This is the comprehensive list of cookies that is available to the user to view. In `styling`, you can adjust color options for title, cookie group name, table header text, table header background, and primary text. Toggle the table format on or off. There are options for custom CSS here as well. In `content`, you can adjust the options for the cookie list title, description, host, cookies column, and `cookies used` label. Toggle the `show lifespan` on or off. 
+
+Ensure any changes you make are approved by legal and saved within the OneTrust tenant.
+
+### Adding, Editing, and Deleting Geolocation Rules
+
+1. Click `Geolocation Rules` in the cookie compliance menu.
+2. A `Default Consent Policy` exsits out of the box. 
+3. Click `Create New` to create a new geolocation rule group.
+4. Name the rule group.
+5. Choose `GitLab` organization.
+6. Enter a description.
+7. In the `rule group details`, a default `global` rule exists which would apply these settings globally regardless of country. To add a country or region specific rule, click `Add rule` and update the options accordingly.
+8. Name the rule. (example: GDPR)
+9. Select the regions you would like to assign the policy to. Multpiple regions can be included for a specific rule. **Note:** Geolocation for mobile devices uses coordinates reported by the internet-connected device. Users at or near borders may experience reduced accuracy for this function.
+10. Toggle `Show Banner` on or off. If unchecked, no banner will display but settings take effect.
+11. Input the template to use for this geolocation rule. 
+12. Choose the consent model for this geolocation rule. Clicking the dropdown here, you can select a consent model for all cookie categories or specify the consent model for each cookie category. Toggle `Do Not Track` by the cookie category.
+13. In `Behaviors` you can toggle the behavior for this rule in conjunction with the cookie banner and whether that paritcular behavior will `accept all cookies` or not as well as closing the banner.
+14. Reconsent will occur after: this will prompt the banner again for users to capture reconsent. The default is 1 year but can be configured by months, years, and days. 
+15. Capture records of consent: cookie ID associated with each user; the consent module logs those preferences. 
+16. Advanced analytics: sends browser type, device type, and country where the user consented. This information will be shown in the dashboard. Toggle this to a specific cookie category (example: performance cookies for Google analytics). 
+
+#### Assigning a Geolocation Rule Group to Domains
+
+**Assigned domains**
+
+1. Click `Assign to Domains`.
+2. Select the domains you would like to assign the geolocation rule to.
+3. Click `Assign`.
+
+### Consent models
+
+1. **Opt-in consent model:** If you select Opt-in, all cookie categories (besides Strictly Necessary) will be set to Inactive. These cookies will not be set on the visitor's device unless they are enabled in the preference center.
+2. **Opt-out consent model:** If you select Opt-out, all cookie categories (besides Strictly Necessary) will be set to Active. These cookies will be automatically enabled when the visitor lands on the website. The website visitor can disable the non-Strictly Necessary cookies in the preference center.
+3. **Implied consent:** all cookie categories (besides Strictly Necessary) will be set to Inactive Landing Page. These cookies are not set until the website visitor clicks the OK button on the cookie banner or continues browsing the website. The website visitor can disable cookie categories in the preference center.
+4. **Notice only:** If you select Notice Only as the default consent model, all cookie categories will be set to Always Active and cannot be disabled by website visitors. A banner informing the visitor that the website uses cookies will be displayed on the landing page of the website.
+5. **Custom:** If you select this option, you can set a different default status for each category of cookie on your site. You can customize the consent model to suit your organization's needs and can set the Do Not Track status for each category of cookie.
