@@ -227,6 +227,9 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	|
 |	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Daisy Miclat	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Chris Willis	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Chris Willis	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London N	|	Chris Willis	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London NW	|	Chris Willis	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London SE	|	Conor Brady	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London SW	|	Conor Brady	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London W	|	Conor Brady	|
