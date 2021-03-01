@@ -165,12 +165,12 @@ Cookies in the `Unknown` category need to be categorized manually with help from
 #### Add new template
 
 1. Click `Templates`.
-2. Click `Add New Template`. 
-3. Select framework and laws that apply to the site.
-4. Name the template.
-5. Choose the `GitLab` organization.
-6. Add the default language.
-7. On the next screen, configure the layout, styling, content, and behavior fo the cookie banner. The right pane shows a preview of the cookie banner.
+1. Click `Add New Template`. 
+1. Select framework and laws that apply to the site.
+1. Name the template.
+1. Choose the `GitLab` organization.
+1. Add the default language.
+1. On the next screen, configure the layout, styling, content, and behavior fo the cookie banner. The right pane shows a preview of the cookie banner.
 
 #### Customizing the Banner Template
 
@@ -179,33 +179,33 @@ Cookies in the `Unknown` category need to be categorized manually with help from
 Most popular: Flat, bottom position
 
 1. Center rounded
-2. Flat
-3. Floating flat
-4. Floating rounded
-5. Floating rounded corner
-6. Floating rounded icon
-7. Position: bottom or top
+1. Flat
+1. Floating flat
+1. Floating rounded
+1. Floating rounded corner
+1. Floating rounded icon
+1. Position: bottom or top
 
 **Styling options**
 
 Colors are in RGB or hexadecimal code.
 
 1. Accept & reject button color
-2. Button text color
-3. Text color
-4. Background color
-5. Link text color
-6. Accordion background color
-7. Manage preferences button color
-8. Manage preferences link color
+1. Button text color
+1. Text color
+1. Background color
+1. Link text color
+1. Accordion background color
+1. Manage preferences button color
+1. Manage preferences link color
 
 There are also options for custom CSS (not available in preview). 
 
 **Content options**
 
 1. Title & description (HTML supported) - the description may need customizing to match the consent model for the site, so as not to risk misleading visitors.
-2. Cookie policy link (link text and URL)
-3. Button set: show `allow all` button, show `cookie settings` button, cookie settings button name, cookie settings button style (link or button), show `reject all` button, show `close` button
+1. Cookie policy link (link text and URL)
+1. Button set: show `allow all` button, show `cookie settings` button, cookie settings button name, cookie settings button style (link or button), show `reject all` button, show `close` button
 
 **Behavior options**
 
@@ -226,7 +226,7 @@ There are options for [WCAG (Web Content Accessibility Guidelines)](https://www.
 **Advanced configuration**
 
 1. Toggle `Show cookies list` to show a link to the user with `cookie details` related to the category they selected in the preference center.
-2. Select whether you want to show the user the various information about specific cookies including host, duration, type, category, and description. There are options here for linking to Cookiepedia as well as allowing the user to opt-out of a particular cookie host.
+1. Select whether you want to show the user the various information about specific cookies including host, duration, type, category, and description. There are options here for linking to Cookiepedia as well as allowing the user to opt-out of a particular cookie host.
 
 You can group the cookie categories as well as adding another group of cookie categories for a better user experience (example: new group called "ads" with the targeting and social media cookie categories grouped underneath). 
 
@@ -239,34 +239,84 @@ Ensure any changes you make are approved by legal and saved within the OneTrust 
 ### Adding, Editing, and Deleting Geolocation Rules
 
 1. Click `Geolocation Rules` in the cookie compliance menu.
-2. A `Default Consent Policy` exsits out of the box. 
-3. Click `Create New` to create a new geolocation rule group.
-4. Name the rule group.
-5. Choose `GitLab` organization.
-6. Enter a description.
-7. In the `rule group details`, a default `global` rule exists which would apply these settings globally regardless of country. To add a country or region specific rule, click `Add rule` and update the options accordingly.
-8. Name the rule. (example: GDPR)
-9. Select the regions you would like to assign the policy to. Multpiple regions can be included for a specific rule. **Note:** Geolocation for mobile devices uses coordinates reported by the internet-connected device. Users at or near borders may experience reduced accuracy for this function.
-10. Toggle `Show Banner` on or off. If unchecked, no banner will display but settings take effect.
-11. Input the template to use for this geolocation rule. 
-12. Choose the consent model for this geolocation rule. Clicking the dropdown here, you can select a consent model for all cookie categories or specify the consent model for each cookie category. Toggle `Do Not Track` by the cookie category.
-13. In `Behaviors` you can toggle the behavior for this rule in conjunction with the cookie banner and whether that paritcular behavior will `accept all cookies` or not as well as closing the banner.
-14. Reconsent will occur after: this will prompt the banner again for users to capture reconsent. The default is 1 year but can be configured by months, years, and days. 
-15. Capture records of consent: cookie ID associated with each user; the consent module logs those preferences. 
-16. Advanced analytics: sends browser type, device type, and country where the user consented. This information will be shown in the dashboard. Toggle this to a specific cookie category (example: performance cookies for Google analytics). 
+1. A `Default Consent Policy` exsits out of the box. 
+1. Click `Create New` to create a new geolocation rule group.
+1. Name the rule group.
+1. Choose `GitLab` organization.
+1. Enter a description.
+1. In the `rule group details`, a default `global` rule exists which would apply these settings globally regardless of country. To add a country or region specific rule, click `Add rule` and update the options accordingly.
+1. Name the rule. (example: GDPR)
+1. Select the regions you would like to assign the policy to. Multpiple regions can be included for a specific rule. **Note:** Geolocation for mobile devices uses coordinates reported by the internet-connected device. Users at or near borders may experience reduced accuracy for this function.
+1. Toggle `Show Banner` on or off. If unchecked, no banner will display but settings take effect.
+1. Input the template to use for this geolocation rule. 
+1. Choose the consent model for this geolocation rule. Clicking the dropdown here, you can select a consent model for all cookie categories or specify the consent model for each cookie category. Toggle `Do Not Track` by the cookie category.
+1. In `Behaviors` you can toggle the behavior for this rule in conjunction with the cookie banner and whether that paritcular behavior will `accept all cookies` or not as well as closing the banner.
+1. Reconsent will occur after: this will prompt the banner again for users to capture reconsent. The default is 1 year but can be configured by months, years, and days. 
+1. Capture records of consent: cookie ID associated with each user; the consent module logs those preferences. 
+1. Advanced analytics: sends browser type, device type, and country where the user consented. This information will be shown in the dashboard. Toggle this to a specific cookie category (example: performance cookies for Google analytics). 
 
 #### Assigning a Geolocation Rule Group to Domains
 
 **Assigned domains**
 
 1. Click `Assign to Domains`.
-2. Select the domains you would like to assign the geolocation rule to.
-3. Click `Assign`.
+1. Select the domains you would like to assign the geolocation rule to.
+1. Click `Assign`.
 
 ### Consent models
 
 1. **Opt-in consent model:** If you select Opt-in, all cookie categories (besides Strictly Necessary) will be set to Inactive. These cookies will not be set on the visitor's device unless they are enabled in the preference center.
-2. **Opt-out consent model:** If you select Opt-out, all cookie categories (besides Strictly Necessary) will be set to Active. These cookies will be automatically enabled when the visitor lands on the website. The website visitor can disable the non-Strictly Necessary cookies in the preference center.
-3. **Implied consent:** all cookie categories (besides Strictly Necessary) will be set to Inactive Landing Page. These cookies are not set until the website visitor clicks the OK button on the cookie banner or continues browsing the website. The website visitor can disable cookie categories in the preference center.
-4. **Notice only:** If you select Notice Only as the default consent model, all cookie categories will be set to Always Active and cannot be disabled by website visitors. A banner informing the visitor that the website uses cookies will be displayed on the landing page of the website.
-5. **Custom:** If you select this option, you can set a different default status for each category of cookie on your site. You can customize the consent model to suit your organization's needs and can set the Do Not Track status for each category of cookie.
+1. **Opt-out consent model:** If you select Opt-out, all cookie categories (besides Strictly Necessary) will be set to Active. These cookies will be automatically enabled when the visitor lands on the website. The website visitor can disable the non-Strictly Necessary cookies in the preference center.
+1. **Implied consent:** all cookie categories (besides Strictly Necessary) will be set to Inactive Landing Page. These cookies are not set until the website visitor clicks the OK button on the cookie banner or continues browsing the website. The website visitor can disable cookie categories in the preference center.
+1. **Notice only:** If you select Notice Only as the default consent model, all cookie categories will be set to Always Active and cannot be disabled by website visitors. A banner informing the visitor that the website uses cookies will be displayed on the landing page of the website.
+1. **Custom:** If you select this option, you can set a different default status for each category of cookie on your site. You can customize the consent model to suit your organization's needs and can set the Do Not Track status for each category of cookie.
+
+### Accessing Scripts
+
+1. To access the scripts, click `Scripts` in the left menu of the `Cookie Compliance` module. 
+1. Click the domain where you want to implement the script. 
+1. Any time a change is made to a domain within the OneTrust tenant, those changes must be published to production in order for the users to see those changes reflected in the cookie banner, preference center, etc. 
+
+#### Testing
+
+Test scripts are available to roll out new changes. The test scripts are not domain specific. The test script matches the production script functionality except:
+
+1. There is no cache, meaning changes can be viewed immediately.
+1. This script will function on your test site and should be used for testing purposes only.
+
+Publishing the test scripts will not affect the live production scripts. 
+
+#### Production
+
+Production scripts are for use in live websites. Fatest page load speed. Published changes will take up to 4 hours to show. 
+
+**The script tags need to be placed as the first element in the `<head>` of the site. It is important that the OneTrust script is placed before other scripts on the site to ensure users have a chance to consider their cookie preferences before cookies are potentially dropped on their machines.**
+
+Scripts implemented in root domains are also applied to subsequent subdomains and paths. Scripts implemented on subdomains are only applied to subdomains. 
+
+In order to push changes to production, click `Publish Production Scripts` and note any changes to the script as you may have to re-copy and re-implement the script in the `<head>` of the site.
+
+### Script Version
+
+Click `Publish Test`. Here you can choose which version of the script to publish. You will also be alerted to which features may or may not be compatible with a script version including the field name, old value, and new value. Click `Confirm`. 
+
+### Publication Settings
+
+Here you can confirm the publication settings of the script. Note: enabling or disabling some of these settings may change the embed script and would have to be re-implemented on the site.
+
+1. Publish individual langauges: when toggle is `off`, all languages will be published
+1. Do you require users to re-consent? Switching to IAB TCF 2.0 requires that your users re-consent, as preferences have changed. TCF 2.0 is not backwards compatible with TCF 1.0
+1. Prevent fetching banner: When toggle is `on`, the banner template HTML and CSS will not be fetched from server as the `otSDKStub.js` loads
+1. Prevent fetching preference center: When toggle is `on`, the preference center template HTML and CSS will not be fetched from server as the `otSDKStub.js` loads
+1. Enable automatic blocking of cookies: If enabled, cookies will automatically be blocked until user has consented. Auto-blocking will block scripts that drop cookies categorized outside of strictly necessary on page load automatically
+1. Enable language detection on scripts: if the language cannot be determined, the templates default language will be used (options: determine the language from the site visitor's browser settings or determine the language from HTML page)
+
+Click `Publish Test Scripts`. Implement the script into the HTML of your staging site.
+
+### Do Not Sell & Cookie Setting Button
+
+This will display either `Do Not Sell My Data` button or `Cookie Settings` button based on where the site visitors come from according to the geolocation rule group associated with the domain. The script has a class that can be customized through CSS.
+
+### Cookie List Script
+
+These two methods initlize the the OneTrust Publisher SDK. The initilizeOneTrustPublishersSDK method fetches all of the resources you just configured in geolocation rules, templates, and vendors. The loadPreferenceCenter method is used to load the banner or preference center. By passing in true, the preference center will always load. By passing in false, banner will be displayed for initial consent and re-consent.
