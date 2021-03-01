@@ -181,7 +181,7 @@ Enterprises that use a complex toolchain often need [20 people to manage all the
 Below is a flowchart illustration of the various integrations necessary between tools specified above.
 
 ``` mermaid
-graph LR
+flowchart LR
   A(Plan)
   B(Create)
   C(Release)
