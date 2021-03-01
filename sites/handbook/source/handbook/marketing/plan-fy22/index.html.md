@@ -1,11 +1,3 @@
----
-layout: handbook-page-toc
-title: FY22 Marketing Plan
-description: FY22 Marketing Plan
-twitter_image: /images/tweets/handbook-marketing.png
-twitter_site: '@gitlab'
-twitter_creator: '@gitlab'
----
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -14,28 +6,31 @@ twitter_creator: '@gitlab'
 
 ## Overview
 {: #overview .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 The purpose of this handbook page is to align our marketing team on a single FY22 marketing plan. This page and the FY22 plan are intended to be an ongoing work-in-progress, contributed to by the entire team throughout FY22 to foster collaboration and focus.
 
 Everyone can contribute. See something you'd like to discuss or iterate on? Start an MR and tag @jgragnola, @lblanchard, or @darawarde to assist with merging!
 
 ### Goal of FY22 Marketing Plan:
 {: #goal}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 **Goals of FY22 Marketing Plan:**
+
 - Simplify motions
 - Increase collaboration
-- Provide leadership opportunities within the marketing organization 
-- Continue to build out the levers identified in FY21 Project Compass 
+- Provide leadership opportunities within the marketing organization
+- Continue to build out the levers identified in FY21 Project Compass
 
 **Timeline:** Ensure marketing alignment by end of February 2021
 
 **Audience:** Marketing
+
 - Note: alignment with sales, customer success, product, etc. is occurring, but the intended audience of this HB page is Marketing
 
 **Measure:** How do we confirm everyone is aligned?
+
 - Handbook page as SSoT
 - Announcement/intro at Marketing Strategy Call 2021-02-11
 - Kickoff call with all Core Team required 2021-02-17
@@ -43,233 +38,238 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 
 #### Overview Slides of FY222 Marketing Plan
 {: #overview-slides}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMLPDJxAK8rAWAFkw8fUjBJU2NHHXxnbBdLeeKp6Eu_N3IjmO45w3euhvNdXg_X5hsm-80ekMHVyKZ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-
 ### TOPO Marketing Model
 {: #topo}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22, leveraging advisory services from [TOPO (now Gartner)](https://topohq.com/). In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `FY22_Mktg Model_TOPO_Machado - PLAN LOCKED`.
 
-On a monthly cadence, the **Marketing Key Meeting** will be used as the venue for tracking where we are year-to-date on the agreed upon plan. 
+On a monthly cadence, the **Marketing Key Meeting** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
 
 ### Marketing Budgets
 {: #budgets}
-<!-- DO NOT CHANGE ANCHOR -->
 
-All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool. 
+<!-- DO NOT CHANGE ANCHOR -->
+All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Allocadia handbook page](/handbook/marketing/strategy-performance/allocadia/) for more details on the tool.
 
 ### Glossary of terminology
 {: #glossary}
+
 <!-- DO NOT CHANGE ANCHOR -->
 
-* **[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)**: a perpetual, overarching topic/message as part of go-to-market strategy
-* **[GTM Motion Core Team](/handbook/marketing/plan-fy22#core-teams)**: a group of marketers as functional DRIs for specific GTM strategies and aligned Sales Plays
-* **[Theme](/handbook/marketing/plan-fy22#themes)**: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
-* **[Sales Play](/handbook/marketing/plan-fy22#sales-plays)**: a combination of buyer persona, messaging, and positioning plus tools and strategies to arm the sales and SDR teams as a part the outbound motion
-* **[GTM 4x2](/handbook/marketing/plan-fy22#gtm-4x2)**: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments 
-* **[Prescriptive Buyer Journey](/handbook/marketing/prescriptive-buyer-journeys/)**: content aligned to buyer journey stages, leveraged in email nurture, digital marketing, and more 
-* **[Project Compass](/handbook/marketing/plan-fy22#project-compass)**: <!-- need definition, add section to HB, link to section -->
-* **[LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)**: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
-* **[ICP](/handbook/marketing/revenue-marketing/account-based-strategy/ideal-customer-profile/)**: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
-* **FIT Score**: a mathematical representation of how well a prospective customer fits within your ICP (ideal customer profile)
+- <b>[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)</b>: a perpetual, overarching topic/message as part of go-to-market strategy
+- <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies and aligned Sales Plays
+- <b>[Theme](/handbook/marketing/plan-fy22#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
+- <b>[Sales Play](/handbook/marketing/plan-fy22#sales-plays)</b>: a combination of buyer persona, messaging, and positioning plus tools and strategies to arm the sales and SDR teams as a part the outbound motion
+- <b>[GTM 4x2](/handbook/marketing/plan-fy22#gtm-4x2)</b>: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments
+- <b>[Prescriptive Buyer Journey](/handbook/marketing/prescriptive-buyer-journeys/)</b>: content aligned to buyer journey stages, leveraged in email nurture, digital marketing, and more
+- <b>[Project Compass](/handbook/marketing/plan-fy22#project-compass)</b>:
+- <b>[LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)</b>: Landed Addressable Market; annual revenue opportunity of the entirety of GitLab's market within our current customer base
+- <b>[ICP](/handbook/marketing/revenue-marketing/account-based-strategy/ideal-customer-profile/)</b>: Ideal Customer Profile; description of our "perfect" customer company, taking into consideration firmographic, environmental and additional factors to develop our focus list of highest value accounts
+- **FIT Score**: a mathematical representation of how well a prospective customer fits within your ICP (ideal customer profile)
 
 ## GTM Motions
 {: #gtm-motions .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
 
-Based on discussions with Sales and Marketing leadership, feedback from Product & Product Management leadership and by consulting industry/analyst reports, we recommend that for FY22, our major GTM motions should be focused on **CI/CD**, **DevOps Platform**, and **GitOps**. The overall goal of our GTM motions and sales play initiative is to improve the predictability of attaining our FY22 New and Growth AR goals, and improve our GTM efficiency (e.g. CAC, Cost per SAO/CW).  We will do this by concentrating our efforts on the most important GTM motions that align to customer’s main business goals/needs. where GitLab has a distinct competitive advantage and with accounts that have the highest LAM growth potential. 
+<!-- DO NOT CHANGE ANCHOR -->
+Based on discussions with Sales and Marketing leadership, feedback from Product & Product Management leadership and by consulting industry/analyst reports, we recommend that for FY22, our major GTM motions should be focused on **CI/CD**, **DevOps Platform**, and **GitOps**. The overall goal of our GTM motions and sales play initiative is to improve the predictability of attaining our FY22 New and Growth AR goals, and improve our GTM efficiency (e.g. CAC, Cost per SAO/CW). We will do this by concentrating our efforts on the most important GTM motions that align to customer’s main business goals/needs. where GitLab has a distinct competitive advantage and with accounts that have the highest LAM growth potential.
 
 To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`. You may also view the embedded sheet below.
-
 <iframe width="950" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLZchvg6aGk2KtSaXSuxrm0jJrmcZ1cq8fwqpB5sNkB1aigDhi4KnGSEaCVJOt60p0XH3POricmtq5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
 The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
 
-All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion. 
+All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
 
 ### What is included in a GTM Motion?
 {: #gtm-motion-includes}
-<!-- DO NOT CHANGE ANCHOR -->
 
-*The list below includes potential and recommended items to include in a GTM Motion, to assist with ideation at kickoff of planning. The Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage.*
+<!-- DO NOT CHANGE ANCHOR -->
+_The list below includes potential and recommended items to include in a GTM Motion, to assist with ideation at kickoff of planning. The Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage._
 
 **Potential/Recommended Pieces of a GTM Motion:**
-* Buyer personas
-* Messaging and positioning framework
-* Identification of alliance parter joint GTM campaigns and activities
-* LinkedIn / GDN display advertising
-* Buyer journey content (including awareness, consideration, and decision)
-* Focus account lists (in alignment with Sales, Channel, and Alliance Partners)
-* Definition of ABM intent triggers
-* Channel partner campaigns
-* Analyst relations content
-* Customer references
-* Competitive assets
-* Web ROI model
-* Sales enablement
-* Share of voice campaigns
-* Unified L2RM (Lead to Revenue Management) reporting/analytics
-* Bizible/Marketo Reporting
 
+- Buyer personas
+- Messaging and positioning framework
+- Identification of alliance parter joint GTM campaigns and activities
+- LinkedIn / GDN display advertising
+- Buyer journey content (including awareness, consideration, and decision)
+- Focus account lists (in alignment with Sales, Channel, and Alliance Partners)
+- Definition of ABM intent triggers
+- Channel partner campaigns
+- Analyst relations content
+- Customer references
+- Competitive assets
+- Web ROI model
+- Sales enablement
+- Share of voice campaigns
+- Unified L2RM (Lead to Revenue Management) reporting/analytics
+- Bizible/Marketo Reporting
 
 ## Sales Plays
 {: #sales-plays .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 A sales play is a series of prescribed actions around a Go to Market theme that are taken by cross functional sales and marketing teams to reach a positive sales outcome. It includes prescribed actions taken jointly by marketing, sales development and sales executives to identify and create sales opportunities that can be closed. Sales Plays can be delivered as a PDF book, or as an interactive guide leveraging PathFactory - or both.
 
-Sales Play categories will include new Land (e.g. CI/CD), Compete (e.g. Jenkins/Bitbucket/Travis/Rally/Jira takeout) and Category (VSMDevOps/DevOps Platform) plays.  We will also create Expand plays based on sales need/feedback.
+Sales Play categories will include new Land (e.g. CI/CD), Compete (e.g. Jenkins/Bitbucket/Travis/Rally/Jira takeout) and Category (VSMDevOps/DevOps Platform) plays. We will also create Expand plays based on sales need/feedback.
 To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22#gtm-motions).
 
 ### What is included in a Sales Play?
 {: #sales-play-includes}
-<!-- DO NOT CHANGE ANCHOR -->
 
-*The list below includes potential and recommended items to include in a Sales Play. Not all Sales Plays will include the full list, and the Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage.*
+<!-- DO NOT CHANGE ANCHOR -->
+_The list below includes potential and recommended items to include in a Sales Play. Not all Sales Plays will include the full list, and the Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage._
 
 **Potential/Recommended Pieces of a Sales Play:**
-* Integrated sales playbooks
-* Sales play training (SDR, Sales, Partners)
-* ABM named accounts, Focus Account Lists
-* Target personas, key contacts, prospect criteria, and other competitive and intel sources
-* Buyer personas	
-* Sales Play specific campaigns
-* LinkedIn InMail campaigns
-* Outreach guide with intro messages, objection handling, differentiation
-* Outreach sequences
-* Email campaigns
-* Pathfactory tracks for sales use (or use of *Pathfactory for Sales* tool in SFDC)
-* Video intros that can be sent by sales to prospects (optionally with sales play specific content)
-* ROI training and support	
-* Sales Play specific SFDC Reporting	
+
+- Integrated sales playbooks
+- Sales play training (SDR, Sales, Partners)
+- ABM named accounts, Focus Account Lists
+- Target personas, key contacts, prospect criteria, and other competitive and intel sources
+- Buyer personas
+- Sales Play specific campaigns
+- LinkedIn InMail campaigns
+- Outreach guide with intro messages, objection handling, differentiation
+- Outreach sequences
+- Email campaigns
+- Pathfactory tracks for sales use (or use of _Pathfactory for Sales_ tool in SFDC)
+- Video intros that can be sent by sales to prospects (optionally with sales play specific content)
+- ROI training and support
+- Sales Play specific SFDC Reporting
 
 ## GTM Motion Core Teams
 {: #core-teams .gitlab-purple}
+
 <!-- DO NOT CHANGE ANCHOR -->
 
-* The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the GTM Motion and related Sales Plays
-* The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
-* The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Sales Plays
-* The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
-* The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
-* The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/plan-fy22#core-team-communication))
+- The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the GTM Motion and related Sales Plays
+- The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
+- The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Sales Plays
+- The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
+- The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
+- The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/plan-fy22#core-team-communication))
 
 ### Beyond the GTM Motion Core Teams
 {: #beyond-core-teams}
-<!-- DO NOT CHANGE ANCHOR -->
 
-**All teams play an *INTEGRAL* role in reaching our marketing goals, regardless if they are on the Core Team or not.** Differences in team alignment (i.e. to segment/region) and approaches that will span and leverage all GTM Motions, are two reasons for teams being beyond the Core Teams.
+<!-- DO NOT CHANGE ANCHOR -->
+**All teams play an _INTEGRAL_ role in reaching our marketing goals, regardless if they are on the Core Team or not.** Differences in team alignment (i.e. to segment/region) and approaches that will span and leverage all GTM Motions, are two reasons for teams being beyond the Core Teams.
 
 If your team or name is not listed as part of the core team, don't worry! As part of this FY22 Marketing Plan, a keen focus is alignment and ensuring everyone across marketing is connected and collaborating. **If you would like to participate on a Core Team, you may do so - connect with the Core Team of interest to learn more about getting involved!** Anyone joining a Core Team will be expected to be an active contributor and participant.
 
 ### Core Team Communication
 {: #core-team-communication}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 How to keep all teams in the loop will be a key responsibility of the Core Teams, and planning should not happen in silos Continual communication of plans, progress, and how to leverage the GTM Motion collateral will be a key to success in the FY22 Marketing Plan.
 
 The teams are encouraged to contribute ideas and processes for communication here in the handbook throughout FY22.
 
 #### Slack Channels
 {: #slack}
+
 <!-- DO NOT CHANGE ANCHOR -->
 
-* [#gtm-ci-cd](https://gitlab.slack.com/archives/C01DF0YMKCP)
-* [#gtm-devops-platform](https://gitlab.slack.com/archives/C01NLEXE34L)
-* [#gtm-gitops](https://gitlab.slack.com/archives/C0119FNPA84)
+- [#gtm-ci-cd](https://gitlab.slack.com/archives/C01DF0YMKCP)
+- [#gtm-devops-platform](https://gitlab.slack.com/archives/C01NLEXE34L)
+- [#gtm-gitops](https://gitlab.slack.com/archives/C0119FNPA84)
 
 #### Synchronous Calls
 {: #synchronous-calls}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 While the majority of GTM Motion work will take place asynchronously, aligned to GitLab's efficiency value, there are certain calls which will take place via Zoom.
 
 **GTM Motion Kickoff Calls (in order of occurrence):**
-* GitOps: 2021-02-23 (7 am PT / 10 am ET / 3 pm UTC)
-* DevOps Platform: 2021-02-24 (7 am PT / 10am ET / 3 pm UTC)
-* CI/CD: 2021-02-24 (8:15 am PT / 11:15 am ET / 4:15 pm UTC)
+
+- GitOps: 2021-02-23 (7 am PT / 10 am ET / 3 pm UTC)
+- DevOps Platform: 2021-02-24 (7 am PT / 10am ET / 3 pm UTC)
+- CI/CD: 2021-02-24 (8:15 am PT / 11:15 am ET / 4:15 pm UTC)
 
 **To copy calendar invite to your personal calendar:**
-* Look up Dara Warde's calendar in GoogleCal
-* Click on the calendar item, and when the preview appears, between the email icon and the X are **three dots**
-* Click the three dots icon and choose "copy to [your] calendar"
-* Now the calendar invite will be on your calendar! :tada:
+
+- Look up Dara Warde's calendar in GoogleCal
+- Click on the calendar item, and when the preview appears, between the email icon and the X are **three dots**
+- Click the three dots icon and choose "copy to [your] calendar"
+- Now the calendar invite will be on your calendar! :tada:
 
 ### Interlocked Teams
 {: #interlocked-teams}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 To be built upon through FY22, this section will be comprised of process related to collaboration and commitment (making sure nobody burns out, and we all run in the same direction).
 
 ### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 The 4X2 goes into detail about differences in go-to-market by sales segment (Large, Mid-Market, SMB, and PubSec). The 4x2 includes overall business flows, new business motion overview, key measurements, and team-specific roles in the segment-specific GTM strategies.
 
 To view the GTM 4x2 Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motion Strategy Template (4x2)`.
-
 <!-- Need more background here -->
 
 ## Themes
 {: #themes .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 Themes will help us build a more cohesive story-telling approach, leveraging the GTM Motions and unifying our activities and messaging. Pulling together collective brainpower across the marketing teams and highlighting opportunities to leverage each team's plans and ideas will help to define our FY22 themes.
 
 Themes are expected to be generated through the Core Team planning in kicking off the GTM Motions (all teams are welcome and encouraged to contribute to theme generation!)
 
-*For example, if we want to celebrate our alliance partners in a specific month, we can identify that as a theme and determine how all teams can contribute to the plan and deliver a cohesive and organized approach.*
+_For example, if we want to celebrate our alliance partners in a specific month, we can identify that as a theme and determine how all teams can contribute to the plan and deliver a cohesive and organized approach._
 
 ## Project Compass
 {: #project-compass .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 The Marketing Team OKRs should align to the intitiatives in Project Compass.
 
 To view the Project Compass Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `Project Compass: Implementation - Sales & Marketing Levers`.
 
 **Marketing Focus in Project Compass:**
-* Improve SEO through content mktg. and website improvements
-* Scale ABM program to include more enterprise accounts
-* Expand email marketing campaigns
+
+- Improve SEO through content mktg. and website improvements
+- Scale ABM program to include more enterprise accounts
+- Expand email marketing campaigns
  * Engage referral partners to drive web traffic (e.g., Stack Overflow)
-* Improve inquiry to SAO conversion reducing drop-offs (Specifically, MQL to SAO conversion)
+- Improve inquiry to SAO conversion reducing drop-offs (Specifically, MQL to SAO conversion)
 
-## SSoT All-Marketing Calendar 
+## SSoT All-Marketing Calendar
 {: #marketing-calendar .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 In kicking off FY22, let's work together to create a single all-marketing calendar where everyone can contribute, and we can answer key questions (using filters) related to upcoming marketing plans. The calendar also lives at the top of the [Marketing Handbook Page](/handbook/marketing/#marketing-calendar).
 
 ### Mockup of All-Marketing Calendar
 {: #marketing-calendar-mockup}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 The Marketing Strategy and Performance team is working to visualize these inputs in a calendar format with filters (based on columns in the doc) to allow the team to see the plans in Sisense. [View the Basic Mockup in Mural!](https://app.mural.co/t/gitlab2474/m/gitlab2474/1612202820583/4c75c5323929f81687f7c933eafad6cb4e7ed186)
 
 ETA is TBD upon scoping by Mktg Strat & Perf team, aiming for within Q1. The GoogleDoc has pre-set filter views to help you see plans by Region, Segment, etc. to be added by team members for their respective activities.
 
+``` sse
 <div style="width: 600px;" class="embed-thumb"><div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1612202820583-60184344c08cf56abe6bde04-dfac2de3-4914-4a1a-998d-7841022f6654.png?v=613f2c7d-bf94-419a-bc68-184fbb500d82) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1612202820583/4c75c5323929f81687f7c933eafad6cb4e7ed186" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> You will be able to edit this mural. </p></div>
+```
 
 ### Inputs to All-Marketing Calendar
 {: #marketing-calendar-inputs}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 **Location for inputs: In your [Google Drive](https://drive.google.com/drive/u/1/my-drive), search for (and bookmark) `FY22 All-Marketing Calendar SSoT`.**
 
 This is where all teams will input planned activities, content production, themes, and more - with filters that align to key pieces of information (GTM Motions, Alliance Partners, Sales Segments, Regions, Funnel Stage, Language, and more). This will be iterative and everyone should feel open to share their feedback and ideas - [comment in the issue to sare your thoughts!](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/734)
-
 <iframe width="950" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vST1Y__hXLeEhIEXpR7dd9kzQGCQNWN3IVIXThNazoXE2p8qPaCdF_KEsFFic-a2yH8O0dzUWQ3wY1r/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Team-specific commentary on the GTM Motions
 {: #team-commentary .gitlab-purple}
+
 <!-- DO NOT CHANGE ANCHOR -->
 Team leaders and team members should feel empowered to add to this section, providing examples and thoughts for colleagues. Use the code below to start your section and designate a clean anchor for the section.
 
@@ -281,6 +281,7 @@ Team leaders and team members should feel empowered to add to this section, prov
 
 ### Field Marketing
 {: #commentary-field-marketing}
+
 <!-- DO NOT CHANGE ANCHOR -->
 As a Field Marketer, you will be leveraging the GTM Motions in your regional strategy and plans*. You may determine that a certain GTM Motion will be more heavily leveraged in your region and/or help you reach your regional goals, and you are interested in joining the Core Team for that GTM Motion. Or perhaps you have a particular passion for a specific GTM Motion and want to be an active participant and contributor to the Core Team or a specific Sales Play. Great! Connect with the Core Team to get involved.
 
@@ -288,6 +289,7 @@ As a Field Marketer, you will be leveraging the GTM Motions in your regional str
 
 ### Campaigns Team
 {: #commentary-campaigns-team}
+
 <!-- DO NOT CHANGE ANCHOR -->
 As a Campaign Manager, you have a challenge on your plate: to plan and report from the perspective of GMT Motions, AND to plan/report from the perspective of your segment/region to ensure lead flow aligned to sales targets is on track. You will be an active contributor to a Core Team by sharing insight into existing data from the GTM Motions to-date; organizing and communicating existing buyer journeys, content, and nurture emails; and strategizing/communicating top funnel activities for FY22.
 
@@ -295,11 +297,11 @@ You will be expected to become a subject matter expert of the GTM Motion as a Co
 
 ## Project Management
 {: #project-management .gitlab-purple}
-<!-- DO NOT CHANGE ANCHOR -->
 
+<!-- DO NOT CHANGE ANCHOR -->
 The GTM Motions will each have an epic, where all teams can reference plans and the issues (i.e. action items) to accomplish the plans. More to come! This will be managed by Dara Warde.
 
-* Main Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785)
-   - CI/CD Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821)
-   - DevOps Platform Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822)
-   - GitOps Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823)
+- Main Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785)
+    - CI/CD Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821)
+    - DevOps Platform Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1822)
+    - GitOps Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1823)
