@@ -176,7 +176,7 @@ Learn more about Building Trust with Remote Teams from the co-founder of Trust M
 1. **What if I am out of the office for part of the program?**
      - As long as you complete the challenge and let the Learning and Development know when you have completed them, it is okay to be out of the office during the program. 
 1. **I'm not a Manager, can I still participate?**
-     - Yes, you can still participate but we ask that you complete the activities asynchronously for your professional development. Once you are ready to become a manager, you will be equipped with a set of baseline management skills that will serve as a great foundation for future growth. 
+     - Yes, you can still participate in the Manager Challenge. If you are an aspiring people leader or a non-offical manager, please sign up! You'll get a ton out of the program even if you do not have any direct reports reporting to you. 
 1. **How will participation be tracked?**
      - Each challenge will be in the form of an Issue. The details of the challenge will be laid out in the issue. We ask that participants complete the challenge asynchronously and comment on the issue according to the challenge prompt. 
 1. **Will I receive a certification?**
