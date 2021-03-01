@@ -101,6 +101,25 @@ Please note it's suggested to have these meetings weekly, biweekly so handling o
 6. Repeat the exercise again.
 
 
+## Best Practices
+
+Before the meeting:
+Gather info about attendees & company  (SDR, SAL, LinkedIn, 10k, Job Openings)
+Understand the higher level initiatives if any
+Brainstorm on potential objections, personas, successful meeting outcomes  in a strategic meeting with SAL
+
+During the meeting:
+Dig deeper with additional questions
+Acknowledge the objection with empathy
+Reframe the objection based on your research from previous step
+Try to position the bigger picture where it makes sense without going head on with the competition
+Parking Lot questions, resources where it makes sense
+Close with definite next steps
+
+After the meeting:
+Follow up within 24/48 hours with resources, questions & next steps
+
+
 ## More resources
 
 Objection handling course ([LinkedIn Learning](https://www.linkedin.com/learning/sales-handling-objections/responding-to-sales-objections?u=2255073))
