@@ -92,7 +92,7 @@ Watch this video example that explains the use of lock and leap in a Pathway:
 
 | Content Type | Definition | Example Audience |
 | ----- | ----- | ----- |
-| `private` | Content is only visible to the assigned learner or assigned group | Content for the GitLab team or customers only |
+| `private` | Content is only visible to the assigned learner, assigned group, or channel | Content for the GitLab team or customers only |
 | `public` | Content is discoverable and visible to all learners in the platform | Content for wider community members |
 
 Watch this video that explains the difference between public and private content in GitLab Learn:
@@ -117,9 +117,11 @@ This video outlines the three scenarios for building public versus private conte
 
 1. Build Smartcards within a Pathway or Journey
 1. Make sure the `private` content checkbox is checked for SmartCards, Pathways, and Journeys
-1. Assign content directly to an individual user or group
+1. Assign content directly to an individual user, group, or channel
 
 **Example:** L&D uploads a compliance course with graded content for a specific group of learners. Since it is graded, interactive content, we want this path to only be assigned to the GitLab team. SmartCards will be built within a private Pathway that will be assigned directly to team members via a Group. In the future, the team might create a public course without the graded elements that could be public for the wider community.
+
+**Important Note:** If you share `private` content on a `public` channel, anyone following that channel will be able to view the content. If you need to restrict content, please be sure only to share `private` content with `private` channels AND groups.
 
 ##### Building content with both `public` and `private` elements
 
@@ -468,6 +470,21 @@ Edits that you'd like to made related to the arrangement of content in the LXP w
 1. You have the option to delete or view the history of the channel, see the title, and related user information
 1. Locate the channel you'd like to edit in the list. Click on the small pencil button to edit. 
 1. Follow the steps above for `Creating a new channel` to make any edits or updates to the existing channel
+
+#### Creating custom carousels on a channel
+
+Custom carousels in a channel can help organize and guide users to highlighted content. Content needs to first be shared to the channel to add to a custom carousel. Content can be shared to multiple custom carousels.
+
+1. Login to Edcast and navigate to the `admin` panel
+1. Click on the `content` tab
+1. Click on `channels`
+1. Locate the channel you'd like to edit in the list. Click on the small pencil button to edit. 
+1. Click on the `carousels` tab on the top right corner
+1. From here, you can `enable` or `disable` existing carousels
+1. You can also create new carousels here. Enter the name of your new carousel and click on the `create carousel` button 
+1. When the new carousel has been created, clikc the small pencil button to edit.
+1. Click the `add item` box to add content to that carousel. Remember that only shared content to the specific channel will appear here.
+1. The changes will save automatically. Navigate to the channel in the GitLab Learn front end and refresh the page to see your changes
 
 
 ### Carousels
