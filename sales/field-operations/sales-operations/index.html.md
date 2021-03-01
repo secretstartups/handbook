@@ -322,7 +322,7 @@ The full company tech stack list with definitions can be found on the [Business 
 1. To ensure the appropriate users have access and that we're being fiscally responsible in terms of overall usage, users with no usage in 90 days will be deactivated.
 1. Usage will be reviewed once at the beginning of the second month of the quarter so as not to disrupt any quarter end/quarter start cadences. The dates are scheduled on the Field Ops calander.
 1. An [Access Change Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#access-change-request) will be created and an email will be sent to users as extra notification.
-1. If access is needed in the future, please submit a new [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and we can confirm if SFDC is the correct place to gather this information or if other tools can provide it.
+1. If access is needed in the future, please submit a new [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and we can confirm if SFDC is the correct place to gather this information or if other tools can provide it.
 
 <details>
 <summary markdown='span'> Instructions for Sales Operations team on completing SFDC Access Removal Process
@@ -649,7 +649,7 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 
 ### Single Person or Bulk Access Request
 
-1. The user will manually create a [single person or bulk AR](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#singlebulk-access-requests-instructions)
+1. The user will manually create a [single person or bulk AR](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request)
 2. In the instructions, they are directed to the Tech Stack doc with the following tasks:
    - Add the SalesOpsAR::Action Needed label
    - Leave the assignee blank
