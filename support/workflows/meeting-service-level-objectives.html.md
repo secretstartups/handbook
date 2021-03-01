@@ -328,7 +328,7 @@ Your day is documented on the [AMER Response Crew Schedule](https://docs.google.
 
 Please follow these steps in order:
 
-1. If you're **out for the whole week**, please edit the entry in the response crew calendar and **delete** yourself from the event for your day. (This shows that you're not available and not available to swap that week) That's it, nothing else to do.
+1. If you're **out for the whole week**, please update your entry on the spreadsheet to reflect your on-call or out-of-office status.
 1. If you're unavailable for **part of your day**, that's OK. **Help out with the crew when you can**, but do keep in touch with your crew in Slack and let them know when you'll be unavailable.
 1. If you're **on-call** for emergencies, that's OK too - **help with the crew as normal**, and it's OK to stop crew work if an emergency comes in.
 1. If you're **unavailable for more than half your day** on a given week, but are available on other days, please **swap** with someone else.
