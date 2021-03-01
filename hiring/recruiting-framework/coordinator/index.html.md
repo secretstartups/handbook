@@ -66,9 +66,9 @@ The CES team operates off of a queue style system with differing levels of prior
    - If there are shorter timelines for roles as defined by the hiring team, CES needs to be made aware of those timelines for when interviews need to be scheduled. We will default to scheduling interviews at a minimum of [48 hours](https://about.gitlab.com/handbook/hiring/interviewing/#moving-candidates-through-the-process) out to leave time for interviewer prep.
    - Reminder: When tagging `@ces` in Greenhouse, do not tag anyone other than the team in the same ping as it will add those users to the service desk project.
 - The CES will request availability via Greenhouse
-   - CES will set a reminder to follow up regarding availability if not received within the next 48 hours 
-   - CES will then set another reminder to follow up 24 hours after the initial 48 hour email 
-   - After the 3rd email to candidate with no response, the CES will make the Recruiter aware of the no response 
+   - CES will set a reminder to follow up regarding availability if not received within the next 48 hours and will do so via gmail as Greenhouse emails end up in spam sometimes
+   - CES will then set another reminder to follow up 24 hours after the initial 48 hour email and will do so via gmail as Greenhouse emails end up in spam sometimes
+   - After the 3rd email to candidate with no response, the CES will make the Recruiter aware of the no response and no longer attempt to receive availability
    - Note: Greenhouse reminders should be set for "Coordinator" not a specific person
 - After availability is received, CES will schedule interviews based on the interview plans in Greenhouse   
    - CES will be using the Zoom integration with Greenhouse for interviews
