@@ -71,6 +71,18 @@ For more urgent items, feel free to also share the issue in [#s_plan] on Slack.
 
 <%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
 
+### Frontend weighting
+
+We're using a lightweight asynchronous planning model to determine weights of
+upcoming work. On the 4th of every month, the Frontend Engineering Manager (FEM)
+will create a planning issue for each group. There, a comment will be created
+with a short summary of the work needed for every issue that needs a weight
+(mostly ~frontend ~"Next up"). The ask is that every frontend engineer within
+the group adds an emoji reaction to what they think the weight should be.
+Discussion can occur over the next few days, but the idea is that consensus is
+reached by the 9th, at which point the FEM will add the weight to the actual
+issue. If there are differences in weights, the highest weight will be used.
+
 #### Weighing bugs
 
 <%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
@@ -102,6 +114,14 @@ add the ~"workflow::In dev" label.
 
 [Project Management]: https://gitlab.com/groups/gitlab-org/-/boards/1285239?label_name[]=group%3A%3Aproject%20management
 [Portfolio Management/Certify]: https://gitlab.com/groups/gitlab-org/-/boards/1569369?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Aplan&not[label_name][]=group%3A%3Aproject%20management
+
+### Unknown complexities
+
+By the time something is picked up, it should already have a weight associated
+with it. After closer investigation into what is actually involved in
+implementing the feature, it's possible to discover that the effort is much more
+complex. At this point, engineers are encouraged to update the weight, pinging
+the PM of the group so they are able to reprioritize if necessary.
 
 ### Code Reviews
 
