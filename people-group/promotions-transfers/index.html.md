@@ -222,7 +222,7 @@ At GitLab, we ensure that promotions are impactful from the compensation perspec
     - Select “Promotion” if there is a title change and a salary change involved.
     - Select “Job Information” if there is only a change in title
 - Enter in all applicable fields in the form, and then submit.
-    - Note: Salary information is entered per payroll. For example, if the team member is in the United States, the annual salary is divided by 24 to get the pay rate to be entered. If the employee is in the Netherlands, please divide by 12.96. The divisor can be found in the "Pay Frequency" field above "Comment for the Approver(s)" in the request form. For any questions on how to fill out the form, please reach out to People Ops Analysts.
+    - Note: The amount entered for the pay rate should be based on the number of pay periods for the team member. For example, if the team member is in the United States, the annual salary is divided by 24 to get the pay rate to be entered. If the employee is in the Netherlands, please divide by 12.96. The divisor can be found in the "Pay Frequency" field above "Comment for the Approver(s)" in the request form. For any questions on how to fill out the form, please reach out to People Ops Analysts.
 - In the comments section please include:
     - The promotion document
     - Any proposed change to variable compensation (if applicable)
