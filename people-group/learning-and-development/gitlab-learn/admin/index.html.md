@@ -539,32 +539,7 @@ Admin process for reporting from EdGraph is coming soon.
 
 ## Moderation
 
-Users on the GitLab Learn platform are expected to follow our [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). The following processes will be implemented to enforce our CoC when violated on the GitLab Learn platform.
-
-## Moderation DRIs
-
-Moderation of user activity on the GitLab learn platform will be maintained by the LXP admin.
-
-**Important Note:** As of 2021-02, the Learning and Development team does not have a current LXP admin. For the time being, the L&D team will work together to cover platform moderation.
-
-## Moderation Workflows
-
-1. Navigate to the EdCast admin panel
-1. Click on `Content` -> `Reported Content` or `Reported Comment`
-1. Options for reported content/comments include to `unreport` which will remove the reported flag and keep content/comments available to users, or `trash` which will delete the content from the platform.
-1. If the content is in clear violation of our CoC, take the following actions:
-     1. Choose the `trash` option to remove the content
-     1. Open an issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information
-     1. In the issue, determine appropriate action for the user's account.
-     1. If the user is to be suspended, email the user with the `CoC Violation` email template and suspend the user's account.
-     1. Close the issue
-1. If it is unclear if the content is in violation of our CoC, take the following actions:
-     1. Open an issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information
-     1. In the issue, determine appropriate action for the user's account.
-     1. Collaborate to determine the appropriate action for the user's account
-     1. If the user is to be suspended, email the user with the `CoC Violation` email template and suspend the user's account.
-     1. If the content is to remain on the platform, notify the user why the content was reported and reviewed.
-     1. Close the issue
+Moderation and CoC workflows are being determiend by the LXP implementation team and will be documented in future iterations.
 
 
 ## Support
