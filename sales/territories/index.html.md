@@ -124,7 +124,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Japan	|	Japan	|	Large-APAC-Japan-1	|	Tadashi Murakami	|
 |	Japan	|	Japan	|	Large-APAC-Japan-2	|	Eiji Morita	|
 |	Japan	|	Japan	|	Large-APAC-Japan-3	|	Yuki Murakami	|
-|	APAC	|	APAC	|	Large-APAC-Large-APAC-1	|	Rob Hueston	|
+|	APAC	|	APAC	|	Large-APAC-Large-APAC-1	|	Danny Petronio	|
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-2	|	Rob Hueston	|
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	|
 |	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-4	|	Hui Hui Cheong	|
