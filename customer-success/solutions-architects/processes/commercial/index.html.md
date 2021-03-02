@@ -83,3 +83,7 @@ To help with deals below $10k, we have introduced office hours as a forum that a
 ##### Meeting Follow up/Research
 
 - Solutions Architects need time to provide follow up with information in as near real-time as possible. We aim to minimize scheduling “back-to-back” meetings as this can compromise our ability to provide our best possible response for the customers/prospects we're supporting.
+
+- [Mid-Market Case Studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93&label_name[]=Mid-Market) | [SMB Case Studies](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878?scope=all&utf8=%E2%9C%93&label_name[]=SMB)
+
+- [Whitepapers, Analyst Reports, etc...](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit#gid=0)
