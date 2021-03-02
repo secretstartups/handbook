@@ -5,8 +5,8 @@ initial. This should start on the 4th of the month, per the [Product Development
 
 To weight issues, they should:
 
-1. Look through all issues (including ~frontend) with the ~"workflow::planning breakdown" 
-   label, filtered by your group and ~"Next Up" (you can use the links in the table below).
+1. Look through all issues with the ~"workflow::planning breakdown"
+   label, filtered by your group, ~backend and ~"Next Up" (you can use the links in the table below).
 1. For those they understand, they add a weight. If possible, they also add a
    short comment explaining why they added that weight, what parts of the code
    they think this would involve, and any risks or edge cases we'll need to
