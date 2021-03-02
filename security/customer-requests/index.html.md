@@ -43,7 +43,7 @@ GitLab's Security Incident Response Team handles complex, extensive requests. In
 
 ## Conditions and requirements
 
-Each request for assistance should comply with the conditions outlined in this section. 
+Each request for assistance should comply with the conditions outlined in this section 
 
 ### Customer is on the GitLab Premium or Ultimate plan
 
