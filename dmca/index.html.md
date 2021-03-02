@@ -20,7 +20,7 @@ We will review your submission and take whatever action we deem appropriate unde
 
 ## DMCA Counter Notice requirements
 
-If it is not possible to come to an agreement with the reporting copyright owner, the content owner may submit a DMCA Counter-Notice to dmca@gilab.com within ten (10) business days of the date of our notice. If we receive a valid counter-complaint, we will email a copy of the notice to the copyright owner. The Counter-Notice is a legal document and must comply with the requirements of the DMCA and must include the following:
+If it is not possible to come to an agreement with the reporting copyright owner, the content owner may submit a DMCA Counter-Notice to dmca@gitlab.com within ten (10) business days of the date of our notice. If we receive a valid counter-complaint, we will email a copy of the notice to the copyright owner. The Counter-Notice is a legal document and must comply with the requirements of the DMCA and must include the following:
 
 1. **Contact Information:** User's name, physical address, email address, and phone number 
 2. **Content Identification:** A reasonable identification the material that has been removed or to which User's access has been blocked.
