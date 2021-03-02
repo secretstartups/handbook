@@ -14,8 +14,7 @@ title: "Stock Options"
 At GitLab we strongly believe in employee ownership in our Company. We are in business
 to create value for our shareholders and we want our employees to benefit from that shared success.
 
-*In this [document](https://docs.google.com/document/d/1tS-HBzy9kYH1tIGPV3ivilyrmWAGPeqowV45m1zkxuQ/edit) (only accessible to GitLab team-members and candidates),
-you can find some more details on the number of shares outstanding and the most recent valuations.*
+*In the [compensation calculator](https://comp-calculator.gitlab.net/) (only accessible to GitLab team-members and candidates), you can find some more details on the most recent valuations as well as potential valuations.*
 
 This guide is meant to help you understand the piece of GitLab that you’re going to own!
 Its goal is to be more straightforward than the full GitLab 2015 Equity Incentive Plan
