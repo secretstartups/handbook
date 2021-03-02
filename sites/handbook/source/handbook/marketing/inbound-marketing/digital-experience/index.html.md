@@ -137,7 +137,7 @@ Our goal is to deliver a release every 2 weeks. Our release day is always a Wedn
 
 For FY21 Q4 we have 2 sprint cycles running which start on alternate weeks.
 <figure class="video_container">
- <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=Y185Z2FiaTg1cmYxMTdnOGhhNDhya2tmbzUxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y19pcnFkNzNwNnA0YnJ1a2prOXUyZjF0NGNxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23F4511E&amp;color=%23B39DDB&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=1" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_g97ibfb3lq183mphm8mnbjfk34%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </figure>
 
 ### Sprint Planning
