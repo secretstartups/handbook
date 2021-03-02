@@ -373,6 +373,16 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | `~RootCause::Release-Compatibility` | forward- or backwards-compatibility issues between subsequent releases of the software running concurrently, and sharing state, in a single environment (e.g. Canary and Main stage releases). They can be caused by incompatible database DDL changes, canary browser clients accessing non-canary APIs, or by incompatibilities between Redis values read by different versions of the application. |
     | `~RootCause::Security` | an incident where the [SIRT team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) was engaged, generally via a request originating from the SIRT team or in a situation where Reliability has paged SIRT to assist in the mitigation of an incident not caused by `~RootCause::Malicious-Traffic` |
 
+#### "Needs" labeling
+
+The following labels are added and removed by [triage-ops](https://gitlab.com/gitlab-com/gl-infra/triage-ops/) automation depending on whether the corresponding label has been been added.
+
+   | Needs Label | Description |
+   | ---------- | ----------- |
+   | `~NeedsRootCause` | Will be added/removed automatically based on there being a `~RootCause::*` label |
+   | `~NeedsService` | Will be added/removed automatically based on there being a `~Service::*` label |
+   | `~NeedsCorrectiveActions` | Will be added/removed automatically based on there being at least one link on the `Corrective Actions` section of the Issue description |
+
 #### Required Labeling
 
 These labels are always required on incident issues.
