@@ -457,34 +457,22 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable by entering the dates in PTO Roots via Slack.
 2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and email the completed forms to `total-rewards@gitlab.com`.
       - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will dispurse those funds to the team member. The intention of this form is to keep payroll consistent for the team member via GitLab payroll vs needing to offset disability payments from Cigna. GitLab may need to offset any state related payments if applicable. 
-      - Please see the Short Term Disbaility claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance). 
+      - Please see the Short Term Disbaility claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) as well as specifics on how to fill out the Leave Request Form. 
 1. The Total Rewards team will send the team member an email with how payments will be processed and advise any differences in pay.
 1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
 1. The team member will notify the Total Rewards team on their first day back to work.
 1. The Total Rewards team will get a notification once the claim is closed. 
 1. TODO Outline process to return the team member to work
 
-#### Maternity Leave STD Form - Total Rewards to fill out:
-This section will be populated once we have the form from Cigna. 
-
 ### Payroll Processing During Parental Leave
 
 **Paternity Leave**
-Paternity Leave is not covered under Short Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay."
+Paternity Leave is not covered under Short Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay." Paternity Leave is also offset for any state eligible payments. 
 
 **Maternity Leave**
-For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll and Short-term Disability (STD).
+For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
 
-1. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll.
-  * The team member will inform Total Rewards when their short term disability is set to begin and end.
-  * There is a seven day elimination period for short term disability that is not paid through Cigna, where GitLab will need to supplement the entire wage through payroll.
-    * For instance, if Cigna has approved STD for January 1 - February 12, January 1 - January 7 would not be paid through STD.
-    * If any adjustments need to be made to a payroll that has already passed, People Ops will coordinate with the Payroll Lead to ensure retroactive payments are made.
-  * For the days the team member is paid through STD, payroll will adjust leave with pay hours to equal 33.3% and leave without pay hours to equal 66.7%.
-    * For example, if there are 80 hours in the pay period you would input 26.66 hours Leave with Pay / 53.34 Leave without Pay.
-1. When short-term disability ends, payroll will need to have 100% of the hours fall under leave with pay.
-
-Note: Also, ensure the disability is not capped out at the current maximum or that will also need to be supplemented in each pay cycle.
+GitLab will recieve the Short Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave.Total Rewards will also notify payroll of any state related payments which may need to be offset. 
 
 ## COBRA
 
