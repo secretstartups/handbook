@@ -1,14 +1,10 @@
----
-layout: handbook-page-toc
-title: "Effective Objection Handling Practice"
----
-
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
 # Effective Objection Handling Practice
 {:.no_toc}
 
-Effective Objection handling skill is critical to becoming a trusted advisor in our respective sales/customer success roles. Objection handling means responding to the customer in a way that changes their mind or alleviate their concerns. Objections typically fall into these [categories](http://changingminds.org/disciplines/sales/objection/objection_types.htm). 
+<br>
+Effective Objection handling skill is critical to becoming a trusted advisor in our respective sales/customer success roles. Objection handling means responding to the customer in a way that changes their mind or alleviate their concerns. Objections typically fall into these [categories](http://changingminds.org/disciplines/sales/objection/objection_types.htm).
 
 # Objection Handling Process
 
@@ -19,22 +15,22 @@ The Objection Handling Process can be broken down into following steps:
 Active listening is a key part of effective objection handling. Use methods like nodding and physically showing interest.
 This is our chance to do more discovery & learn as much as about the customer as possible.
 
-2. Question
+1. Question
 
-Ask [questions](http://changingminds.org/techniques/questioning/questioning.htm) if it makes sense, generally we find open ended questions are the best way to retrieve information. This not only shows you are interested in them, but it also gives you more information with which to make the sale. 
+Ask [questions](http://changingminds.org/techniques/questioning/questioning.htm) if it makes sense, generally we find open ended questions are the best way to retrieve information. This not only shows you are interested in them, but it also gives you more information with which to make the sale.
 As you question them, watch carefully for body language that gives you more information about what they are thinking and feeling.
 You might also use the "tip the bucket technique" to see if they more objections that can be answered.
 
-3. Think
+1. Think
 
 Take a pause to think & figure out which [technique](http://changingminds.org/disciplines/sales/objection/objection_handling.htm) is the best for their objection. You will see that these techniques will become second nature with practice.
 
-4. Handle
+1. Handle
 
 Handle the objection in an appropriate time frame using the techniques above or however way you like.
 You are under no obligation to try and force-fit a method where it is unlikely to work.
 
-5. Check
+1. Check
 
 Finally, check to find out whether your objection-handling worked! Ask if you have answered their question. Ask if there are any more concerns. As necessary, handle outstanding objections.
 
@@ -52,9 +48,9 @@ The techniques listed below are commonly used in the field to handle objections 
 
 [Feel, felt, found](http://changingminds.org/disciplines/sales/objection/feel_felt_found.htm_): This technique is based on empathizing with the customer's objection.
 
-[Fear, Uncertainty and Doubt (FUD)](http://changingminds.org/disciplines/sales/articles/fud.htm): FUD stands for fear, uncertainty and doubt, and is a method used in sales and marketing to dissuade customers from buying competing products and solutions by providing information that triggers fear and uncertainty, or sows seeds of doubt, about current customer thinking/products. This will be commonly seen with customers who are already using or talking to one of our competitors. 
+[Fear, Uncertainty and Doubt (FUD)](http://changingminds.org/disciplines/sales/articles/fud.htm): FUD stands for fear, uncertainty and doubt, and is a method used in sales and marketing to dissuade customers from buying competing products and solutions by providing information that triggers fear and uncertainty, or sows seeds of doubt, about current customer thinking/products. This will be commonly seen with customers who are already using or talking to one of our competitors.
 
-[Pushback](http://changingminds.org/disciplines/sales/objection/objection_pushback.htm): This is a technique where you use subtle pushback to object to their objection. Please remember to acknowledge their objection & use empathy while using this technique. 
+[Pushback](http://changingminds.org/disciplines/sales/objection/objection_pushback.htm): This is a technique where you use subtle pushback to object to their objection. Please remember to acknowledge their objection & use empathy while using this technique.
 
 [Reframing](http://changingminds.org/disciplines/sales/objection/objection_reframe.htm): This technique suggests reframing the objection so you can turn it to your advantage.
 
@@ -86,27 +82,25 @@ The techniques listed below are commonly used in the field to handle objections 
 
 TODO : Add recording
 
-
 ## Facilitating Objection Handling Exercise
 
 Practice Objection Handling in team meeeting by using the framework below:
 
-Please note it's suggested to have these meetings weekly, biweekly so handling objections become a 2nd nature to us. The 
+Please note it's suggested to have these meetings weekly, biweekly so handling objections become a 2nd nature to us. The
 
 1. Have a pre set list of objections that you have gathered from the [field](https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871). This is the list we are going to use as Solution Architects. Please feel free to add additional objections to it.
-2. Use a randomized selection method to pick an objection & individual(s) to handle the objections using the techniques above or any way they prefer.
-3. Please dedicate some fixed time (say 5 mins) to handling the objection.
-4. Afterwards, dedicate some fixed time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection.
-5. Please note the best objection handling method for the particular objections.
-6. Repeat the exercise again.
-
+1. Use a randomized selection method to pick an objection & individual(s) to handle the objections using the techniques above or any way they prefer.
+1. Please dedicate some fixed time (say 5 mins) to handling the objection.
+1. Afterwards, dedicate some fixed time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection.
+1. Please note the best objection handling method for the particular objections.
+1. Repeat the exercise again.
 
 ## Best Practices
 
 Before the meeting:
-Gather info about attendees & company  (SDR, SAL, LinkedIn, 10k, Job Openings)
+Gather info about attendees & company (SDR, SAL, LinkedIn, 10k, Job Openings)
 Understand the higher level initiatives if any
-Brainstorm on potential objections, personas, successful meeting outcomes  in a strategic meeting with SAL
+Brainstorm on potential objections, personas, successful meeting outcomes in a strategic meeting with SAL
 
 During the meeting:
 Dig deeper with additional questions
@@ -119,7 +113,6 @@ Close with definite next steps
 After the meeting:
 Follow up within 24/48 hours with resources, questions & next steps
 
-
 ## More resources
 
 Objection handling course ([LinkedIn Learning](https://www.linkedin.com/learning/sales-handling-objections/responding-to-sales-objections?u=2255073))
@@ -129,5 +122,3 @@ Objection handling course ([LinkedIn Learning](https://www.linkedin.com/learning
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-
-
