@@ -39,7 +39,6 @@ A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-
 When a career mobility may not be needed (but can be requested);
 - Team/Speciality change but no access request needed
 
-
 ## Career Mobility Issue Creation Process
 
 The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
@@ -118,7 +117,7 @@ As highlighted in the [BambooHR or Greenhouse Process](https://about.gitlab.com/
 
 _Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role._
 
-1. _Recruiter_: Issue a Letter of Adjustment to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
+1. _CES_: Issue a [Letter of Adjustment](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustment) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
 1. _Total Rewards_: Update the team member's job title in BambooHR to reflect that they have started an interim role (I.E. `Senior Manager, Engineering (interim)`). This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation.
 1. _Current Manager_: A [Job Information Change Request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) should be submitted to:
     - Move interim direct reports so the team member's interim direct reports are reporting to them in BambooHR. The change needs to be initiated by the current manager. The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in BambooHR. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially.
@@ -239,7 +238,7 @@ This section describes the approval chain after a manager submits a promotion or
 1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#stock-option-grant-levels), job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The Total Rewards team will also add the average compa ratio for the job code to serve as an additional data points for PBPs and managers. The People Business Partner will then approve the request if applicable.
 1. The E-Group leader will review the entire proposal in BambooHR for approval.
 1. The CFO or CEO will review the request. If there are any questions, the CFO or CEO will add a comment outlining the specific concerns and the Total Rewards team will ensure follow-up within a week to escalate to the comp group or deny the request.
-1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the Letter of Adjustment in HelloSign.
+1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) in HelloSign.
 1. HelloSign will prompt the manager to discuss the promotion with the team member and announce on the Slack **#team-member-updates** channel where the manager describes how the individual met the promotion criteria and includes a link to the merge request where the individual's title is updated on the team page.
 1. When announcing or discussing a promotion in the Slack **#team-member-updates** channel, *please include the link to the promotion Google Doc* to increase visibility for the reasons behind the promotion.
 1. For change of departments or change of roles (individual contributor to managers), People Experience Associates will create a Career Mobility Issue.
@@ -257,7 +256,6 @@ If a department is over the 12% promotion rolling rate, the following process sh
 1. PBP and leaders analyze data provided by Total Rewards, reasons for promotions, etc. to identify trends and reasons that the rate is over the 12% cap to provide a `rationale` and `context` overview justification.
 1. Once finalized with the department head, the PBP should share the sheet with the e-group leader for visbility/feedback.
 1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibility and ensure it is accessible by Total Rewards, CFO, and CEO. 
-
 
 ### For People Business Partners: Approving Promotions & Compensation Changes
 
@@ -282,11 +280,14 @@ If a department is over the 12% promotion rolling rate, the following process sh
 
 ### For Total Rewards: Processing Promotions & Compensation Changes
 
-1. If the request is approved through BambooHR, the Total Rewards Analyst/Coordinator will create the Letter of Adjustment whereas if the request is through Greenhouse the Total Rewards Analyst/Coordinator will be notified via the Total Rewards team email inbox that the letter has been signed. If this is the case, only data systems will need to be updated.
+1. If the request is approved through BambooHR, the Total Rewards Analyst/Coordinator will create the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment), whereas if the request is through Greenhouse the Total Rewards Analyst/Coordinator will be notified via the Total Rewards team email inbox that the [Letter of Adjustment](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed. If this is the case, only data systems will need to be updated.
 1. If the request comes through BambooHR, approve the request, then update the entries in BambooHR to ensure that there are the proper dates, amounts, job information. Also, ensure to add stock options to the job tab if applicable. If the team member is moving to a Manager position, update their access level in BambooHR.
 1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
 1. If the team member is in Sales or transferred to Sales, update the changes tab on the "Final Sales OTE FY 2020" google doc.
-1. Make a copy of the Letter of Adjustment template and enter all applicable information based on the BambooHR request. The effective date is as follows:
+
+#### Letter of Adjustment
+
+1. Make a copy of the [Letter of Adjustment template](https://docs.google.com/document/d/1lxx92gGXL6hltRxKn0I6D8a8dHtvFBnElDf7dAlxkkQ/edit) and enter all applicable information based on the BambooHR request. The effective date is as follows:
     - For sales personnel with a variable change, the effective date is always the 1st of the month regardless of their entity.
     - For US team members, the effective date should be either the 1st or the 16th. If the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) has passed for the current pay period, the effective date should be made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar should be referenced when determining the effective date.
     - For example, if the change is being processed on June 22, since this date is before the payroll cut off date of June 23, the effective date should be June 16.
@@ -360,7 +361,7 @@ If you are interested in a vacancy, regardless of level, outside your department
 - [Compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-option-grant-levels) may be reviewed during the hiring process to reflect the new level and position.
 - If after interviews, the manager and the GitLab team-member want to proceed with the transfer, internal references should be checked. While a manager cannot block a transfer, there is often good feedback that can help inform the decision. It is advised that the GitLab team-member talk to their manager to explain their preference for the new team and to understand the feedback that will be given to the new manager. It should also be noted, that performance requirements are not always equal across roles, so if a GitLab team-member struggles in one role, those weakness may not be as pronounced in the new role, and vice versa. However, if there are systemic performance problems unrelated to the specific role or team, a transfer is not the right solution.
 - If the GitLab team-member is chosen for the new role, the managers should agree on an reasonable and speedy transfer plan. 2 weeks is a usually a reasonable period, but good judgment should be used on completing the transfer in a way that is the best interest of the company, and the impacted people and projects.
-- The Recruiter and Hiring Manager will review the offer details with the internal candidate and a [letter of adjustment](/handbook/contracts/#letter-of-adjustment) will be sent out following the hiring process
+- The Recruiter and Hiring Manager will review the offer details with the internal candidate and a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) will be sent out by the Total Rewards team following the hiring process
 - If the team member is transferred, the new manager will announce in the `#team-member-updates` Slack Channel and begin any additional onboarding or offboarding necessary. Before the new manager makes the transfer announcement they must confirm with the team members current manager that the current team has been informed about the team members new position and transfer.
 - Team members changing functional roles should complete onboarding for the new function. For example, a Backend Engineer who transferring to become or work on Frontend work should do Frontend Engineer onboarding.
 
@@ -368,7 +369,7 @@ If you are interested in a vacancy, regardless of level, outside your department
 
 If the team member is staying in the current benchmark for the Job Family, but changing their Specialty or Department (ex: moving from Plan to Secure or moving from Development to Infrastructure), the above steps will be followed. Solely the recruitment procedure might be shortened if the requirements for the role are the same. At a minimum we would ask for the hiring manager to have an interview with the team member.
 
-If selected for the role, a [letter of adjustment](/handbook/contracts/#letter-of-adjustment) will be sent outlining the changes to department and specialty for the Total Rewards team to process in BambooHR. If the current manager needs to backfill the role they should reach out to the Finance Partner.
+If selected for the role, a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) will be sent by the Total Rewards team outlining the changes to department and specialty for the Total Rewards team to process in BambooHR. If the current manager needs to backfill the role they should reach out to the Finance Partner.
 
 ## Department Transfers Manager Initiated
 
@@ -408,7 +409,7 @@ If you are unsure of the role, set up a coffee chat with the hiring manager to i
 While the [Career Mobility Issue Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
 
 1. Prior to any company-wide announcement, the team member should be given the opportunity to share the news with their immediate team members.
-1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezome permitting) on the <b>same day that the candidate signs their [Letter of Adjustment](/handbook/contracts/#letter-of-adjustment)</b>.
+1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezome permitting) on the <b>same day that the candidate signs their [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment)</b>.
 1. For cases where announcing on the same day the Letter of Adjustment is signed is not possible, the announcement should no more than 24 hours after the candidate has signed.
 1. Following this initial announcement, the `current manager` can proceed with making this announcement in other relevant team-specific channels.
 
@@ -459,7 +460,7 @@ In cases where multiple individuals are asked to transfer to high priority roles
 
 Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documented in the HRIS file of the team member who received the new role. See [Department Transfers](/handbook/people-group/promotions-transfers/#department-transfers) for additional details.
 
-More details can be found on the [Internal Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment (LOA)](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustments) page.
+More details can be found on the [Internal Applications](/handbook/hiring/interviewing/#internal-applicants) page and the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) section.
 
 ### Leveling Up Your Skills
 
