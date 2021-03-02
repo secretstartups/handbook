@@ -32,6 +32,8 @@ Examples of requests that may be denied:
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
 * If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
 
+**Please note that in order to be eligiblity for the Growth and Development benefit, a team member must be meeting performance expectations in their current role.**
+
 ### How to Apply For Growth and Development Benefits
 
 **For Growth & Development Benefits that cost under $1,000 USD**
