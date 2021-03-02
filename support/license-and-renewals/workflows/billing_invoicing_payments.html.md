@@ -94,8 +94,7 @@ is midmarket or higher.
 
 ### Refunds
 
-When a customer wants a refund and their purchase is [eligible for a refund](/terms/)
-(within the 45 day refund period).
+GitLab provides Subscriptions on an annual basis which are not eligible for termination / refund for a Customer's convenience. 
 
 > **Note:** *There may be special circumstances where we may be able to request
 a refund outside of the eligibility window - if you believe a case qualifies for
