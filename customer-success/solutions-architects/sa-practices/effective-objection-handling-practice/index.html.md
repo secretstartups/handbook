@@ -1,38 +1,36 @@
+---
+layout: handbook-page-toc
+title: Effective Objection Handling Practice
+---
+
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
 # Effective Objection Handling Practice
 {:.no_toc}
 
-<br>
 Effective Objection handling skill is critical to becoming a trusted advisor in our respective sales/customer success roles. Objection handling means responding to the customer in a way that changes their mind or alleviate their concerns. Objections typically fall into these [categories](http://changingminds.org/disciplines/sales/objection/objection_types.htm).
 
 # Objection Handling Process
 
-The Objection Handling Process can be broken down into following steps:
+The Objection Handling Process can be broken down into the following steps:
 
-1. Listen
+- **Listen**
+    - Active listening is a key part of effective objection handling. Use methods like nodding and physically showing interest.
+    - This is our chance to do more discovery & learn as much as about the customer as possible.
 
-Active listening is a key part of effective objection handling. Use methods like nodding and physically showing interest.
-This is our chance to do more discovery & learn as much as about the customer as possible.
+- **Question**
+    - Ask [questions](http://changingminds.org/techniques/questioning/questioning.htm) if it makes sense, generally we find open ended questions are the best way to retrieve information. This not only shows you are interested in them, but it also gives you more information with which to make the sale.
+    - As you question them, watch carefully for body language that gives you more information about what they are thinking and feeling.
+    - You might also use the "tip the bucket technique" to see if they more objections that can be answered.
 
-1. Question
+- **Think**
+    - Take a pause to think & figure out which [technique](http://changingminds.org/disciplines/sales/objection/objection_handling.htm) is the best for their objection. You will see that these techniques will become second nature with practice.
+- **Handle**
+    - Handle the objection in an appropriate time frame using the techniques above or however way you like.
+    - You are under no obligation to try and force-fit a method where it is unlikely to work.
 
-Ask [questions](http://changingminds.org/techniques/questioning/questioning.htm) if it makes sense, generally we find open ended questions are the best way to retrieve information. This not only shows you are interested in them, but it also gives you more information with which to make the sale.
-As you question them, watch carefully for body language that gives you more information about what they are thinking and feeling.
-You might also use the "tip the bucket technique" to see if they more objections that can be answered.
-
-1. Think
-
-Take a pause to think & figure out which [technique](http://changingminds.org/disciplines/sales/objection/objection_handling.htm) is the best for their objection. You will see that these techniques will become second nature with practice.
-
-1. Handle
-
-Handle the objection in an appropriate time frame using the techniques above or however way you like.
-You are under no obligation to try and force-fit a method where it is unlikely to work.
-
-1. Check
-
-Finally, check to find out whether your objection-handling worked! Ask if you have answered their question. Ask if there are any more concerns. As necessary, handle outstanding objections.
+- **Check**
+    - Finally, check to find out whether your objection-handling worked! Ask if you have answered their question. Ask if there are any more concerns. As necessary, handle outstanding objections.
 
 Then go for the close using any of these [closing techniques](http://changingminds.org/disciplines/sales/closing/closing_techniques.htm).
 
@@ -48,7 +46,7 @@ The techniques listed below are commonly used in the field to handle objections 
 
 [Feel, felt, found](http://changingminds.org/disciplines/sales/objection/feel_felt_found.htm_): This technique is based on empathizing with the customer's objection.
 
-[Fear, Uncertainty and Doubt (FUD)](http://changingminds.org/disciplines/sales/articles/fud.htm): FUD stands for fear, uncertainty and doubt, and is a method used in sales and marketing to dissuade customers from buying competing products and solutions by providing information that triggers fear and uncertainty, or sows seeds of doubt, about current customer thinking/products. This will be commonly seen with customers who are already using or talking to one of our competitors.
+[Fear, Uncertainty and Doubt (FUD)](http://changingminds.org/disciplines/sales/articles/fud.htm): FUD stands for fear, uncertainty and doubt, and is a method used in sales and marketing to dissuade customers from buying competing products and solutions by providing information that triggers fear and uncertainty, or sows seeds of doubt, about current customer thinking/products. Some of our competitors like to use this technique but we highly recommend leading with facts & not using this technique.
 
 [Pushback](http://changingminds.org/disciplines/sales/objection/objection_pushback.htm): This is a technique where you use subtle pushback to object to their objection. Please remember to acknowledge their objection & use empathy while using this technique.
 
@@ -80,6 +78,8 @@ The techniques listed below are commonly used in the field to handle objections 
 
 ## Objection Handling Role Play Exercise
 
+[Presentation](https://docs.google.com/presentation/d/1SvKvx1U9KWZ-ABfkJr3rgsePtaD-pIA--jn4ywRU_hQ/edit#slide=id.g153a2ed090_0_63)
+
 TODO : Add recording
 
 ## Facilitating Objection Handling Exercise
@@ -88,21 +88,21 @@ Practice Objection Handling in team meeeting by using the framework below:
 
 Please note it's suggested to have these meetings weekly, biweekly so handling objections become a 2nd nature to us. The
 
-1. Have a pre set list of objections that you have gathered from the [field](https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871). This is the list we are going to use as Solution Architects. Please feel free to add additional objections to it.
-1. Use a randomized selection method to pick an objection & individual(s) to handle the objections using the techniques above or any way they prefer.
-1. Please dedicate some fixed time (say 5 mins) to handling the objection.
-1. Afterwards, dedicate some fixed time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection.
+1. Here's a list of objections that we have gathered from the [field](https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871). This is a starting point & more objections will be added with everyone's contribution. Please feel free to add additional objections to it.
+1. Use a randomized selection (like [wheel of misfortune](https://wheelofnames.com/#)) method to pick an objection & individual(s) to handle the objections using the techniques above or any way they prefer. Make it fun!!!
+1. Please dedicate a fixed amount of time (say 5 mins) to handling the objection.
+1. Afterward, a fixed amount of time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection.
 1. Please note the best objection handling method for the particular objections.
 1. Repeat the exercise again.
 
 ## Best Practices
 
-Before the meeting:
+**Before the meeting:**
 Gather info about attendees & company (SDR, SAL, LinkedIn, 10k, Job Openings)
 Understand the higher level initiatives if any
 Brainstorm on potential objections, personas, successful meeting outcomes in a strategic meeting with SAL
 
-During the meeting:
+**During the meeting:**
 Dig deeper with additional questions
 Acknowledge the objection with empathy
 Reframe the objection based on your research from previous step
@@ -115,7 +115,13 @@ Follow up within 24/48 hours with resources, questions & next steps
 
 ## More resources
 
-Objection handling course ([LinkedIn Learning](https://www.linkedin.com/learning/sales-handling-objections/responding-to-sales-objections?u=2255073))
+- <span class="colour" style="color: rgb(0, 0, 0);">SA handbook </span>[<span class="colour" style="color: rgb(0, 0, 255);"><u>resource</u></span>](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice/)<span class="colour" style="color: rgb(0, 0, 0);"> for objection handling & “how to” facilitate additional exercises</span>
+- <span class="colour" style="color: rgb(0, 0, 0);">LinkedIn Learning </span>[<span class="colour" style="color: rgb(0, 0, 255);"><u>course</u></span>](https://www.linkedin.com/learning/sales-handling-objections/the-buyer-and-seller-relationship?u=2255073)
+- <span class="colour" style="color: rgb(0, 0, 0);">Potential Objections to </span>[<span class="colour" style="color: rgb(0, 0, 255);"><u>Ultimate sales plays</u></span>](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections)
+- <span class="colour" style="color: rgb(0, 0, 0);">Additional Objection handling </span>[<span class="colour" style="color: rgb(0, 0, 255);"><u>techniques</u></span>](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g9e2080204d_0_0)<span class="colour" style="color: rgb(0, 0, 255);"> </span><span class="colour" style="color: rgb(0, 0, 0);">for secure & protect customer (SKO 2021) </span>
+- <span class="colour" style="color: rgb(0, 0, 0);">7 Steps to Handling Objections: </span>[<span class="colour" style="color: rgb(95, 95, 95);"><u>https://www.youtube.com/watch?v=DBpLFAS2s3w</u></span>](https://www.youtube.com/watch?v=DBpLFAS2s3w)
+- <span class="colour" style="color: rgb(0, 0, 0);">Changing Minds </span>[<span class="colour" style="color: rgb(0, 0, 255);"><u>Objection Handling Techniques</u></span>](http://changingminds.org/disciplines/sales/objection/objection_handling.htm)
+- <span class="colour" style="color: rgb(0, 0, 0);">Solution Architect’s </span>[<span class="colour" style="color: rgb(0, 0, 255);"><u>O’reilly playlist</u></span>](https://learning.oreilly.com/playlists/e2e7811d-9032-4b9d-9890-c41d6c29c8be/)<span class="colour" style="color: rgb(0, 0, 0);"> (objection handling)</span>
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
