@@ -1,9 +1,13 @@
+---
+layout: handbook-page-toc
+title: Effective Objection Handling Practice
+---
+
 [**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
 
 # Effective Objection Handling Practice
 {:.no_toc}
 
-<br>
 Effective Objection handling skill is critical to becoming a trusted advisor in our respective sales/customer success roles. Objection handling means responding to the customer in a way that changes their mind or alleviate their concerns. Objections typically fall into these [categories](http://changingminds.org/disciplines/sales/objection/objection_types.htm).
 
 # Objection Handling Process
@@ -91,20 +95,24 @@ Please note it's suggested to have these meetings weekly, biweekly so handling o
 ## Best Practices
 
 **Before the meeting:**
-Gather info about attendees & company (SDR, SAL, LinkedIn, 10k, Job Openings)
-Understand the higher level initiatives if any
-Brainstorm on potential objections, personas, successful meeting outcomes in a strategic meeting with SAL
+
+- Gather info about attendees & company (SDR, SAL, LinkedIn, 10k, Job Openings)
+- Understand the higher level initiatives if any
+- Brainstorm on potential objections, personas, successful meeting outcomes in a strategic meeting with SAL
 
 **During the meeting:**
-Dig deeper with additional questions
-Acknowledge the objection with empathy
-Reframe the objection based on your research from previous step
-Try to position the bigger picture where it makes sense without going head on with the competition
-Parking Lot questions, resources where it makes sense
-Close with definite next steps
 
-After the meeting:
-Follow up within 24/48 hours with resources, questions & next steps
+- Follow the objection handling process as described above
+- Dig deeper with additional questions
+- Acknowledge the objection with empathy
+- Use objection handling techniques based on your research from the previous step. Feel free to make your own as deemed suitable.
+- Try to position the bigger picture where it makes sense without going head-on with the competition
+- Parking Lot questions, resources where it makes sense
+- Close with definite next steps
+
+**After the meeting:**
+
+-  Follow up within 24/48 hours with resources, questions & next steps
 
 ## More resources
 
