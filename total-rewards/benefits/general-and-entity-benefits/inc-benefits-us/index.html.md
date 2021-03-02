@@ -277,15 +277,15 @@ GitLab provides a policy through Cigna that may replace up to 66.7% of your base
 **Short Term Disability Claim Process via Cigna**
 
 1. Team member will submit the [Short Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form by email to the Total Rewards team at `total-rewards@gitlab.com`.  
-  * Page 3 includes the Employee portion of the form as well as the Doctor Certification. This page can be sent directly to Cigna (using the mail or fax number at the top of the form) or this page can be returned to GitLab and we can send to Cigna all at once. This is completely at the preference of the team member or the requirement from the Doctor. 
+      - Page 3 includes the Employee portion of the form as well as the Doctor Certification. This page can be sent directly to Cigna (using the mail or fax number at the top of the form) or this page can be returned to GitLab and we can send to Cigna all at once. This is completely at the preference of the team member or the requirement from the Doctor. 
 2. The Total Rewards team will complete the employer portion of the Short Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
 3. The Total Rewards team will notify the team member of submission of claim and provided next steps. 
 4. Cigna Claims Process:   
-  * Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed.  
-  * The claims team will also contact the Total Rewards team to confirm eligibility and verify job responsibilities, if needed.  
-  * Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so.  
-  * If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Total Rewards team will also receive a notification of the denial. 
-  * If approved, communication is sent to the Total Rewards team and claim status reports with approval date and estimated return-to-work date is provided to the Total Rewards team.   
+      - Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed.  
+      - The claims team will also contact the Total Rewards team to confirm eligibility and verify job responsibilities, if needed.  
+      - Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so.  
+      - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Total Rewards team will also receive a notification of the denial. 
+      - If approved, communication is sent to the Total Rewards team and claim status reports with approval date and estimated return-to-work date is provided to the Total Rewards team.   
 5. The Total Rewards team will process the approval or denial and file all related paperwork in BambooHR.  
 
 ## Employee Assistance Program
