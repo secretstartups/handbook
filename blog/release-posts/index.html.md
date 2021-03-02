@@ -68,7 +68,7 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 - [**Messaging lead**](#messaging-lead)
 - [**PMM reviewers**](#pmm-reviewers)
 - [**TW lead**](#tw-lead)
-- [**UX reviewers**](#ux-reviewers)
+- [**Product Design reviewers**](#product-design-reviewers)
 - [**TW reviewers**](#tw-reviewers)
 - [**Technical advisors**](#technical-advisors)
 - [**Engineering Managers**](#engineering-managers)
