@@ -37,14 +37,13 @@ To host a live learning event, start by opening an issue in the Learning and Dev
 
 ### Creating a GitLab Learn Channel
 
-Any team at GitLab can create a new Channel in GitLab Learn to curate, organize, and suggest professional development opportunities for the team members.  Some scenarios where you might want to build a Channel include:
+Any team at GitLab can create a new Channel in GitLab Learn to curate, organize, and suggest professional development opportunities for their team members.  Some scenarios where you might want to build a Channel include:
 
 1. You have multiple LinkedIn Learning courses you'd like to showcase
 1. You'd like to track what courses your team is completing
 1. You'd like a single spot to send team members who are looking for professional development courses
 
 To create a new learning pathway and to add that pathway to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_channel` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template.  
-
 
 **In future iterations, the L&D team will enable team members and managers to curate and promote content on these channels without needing to involve the L&D team.**
 
