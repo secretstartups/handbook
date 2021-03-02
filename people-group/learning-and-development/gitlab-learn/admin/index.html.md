@@ -639,6 +639,7 @@ Customers and community members will be directed to open a ticket using the prof
 The following workflow outlines how new tickets are directed to the appropriate Zendesk view:
 
 ```mermaid
+
 graph TD;
 A(User wants to contact proserv)
 B(How does the user do it?)
@@ -659,6 +660,7 @@ I--Success-->G;
 I--Fails-->F;
 F--Paid-->E;
 F--Free-->H;
+
 ```
 
 ##### Customer support workflow using Zendesk(Paid Users)
@@ -690,6 +692,26 @@ Important considerations when responding to questions in the forum:
 
 
 ### Support for frequently asked questions
+
+#### Team member opens a Zendesk ticket for support
+
+#### Support workflow
+
+1. Use the Zendesk macro to direct team members to Slack
+
+##### Response
+
+```
+Dear {{user.firstname}}
+
+Team members can get support for GitLab Learn in Slack from the Learning and Development team. Please reach out to them with your question in the [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) channel.
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+```
 
 #### How do I share my GitLab Learn badges externally?
 
