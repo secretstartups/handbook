@@ -850,7 +850,14 @@ This MR has **not** been reviewed by any other TW. For this MR, you'll check thi
 
 #### Links to external blogs
 
-The introduction or other parts of the release post written may include links to external blogs posts. These links may be broken till the 21st but should still  be flagged by the TW lead during structural check so the Release post manager and Messaging lead  don't miss coordinating with authors of these external blogs to make sure they're live before the release post blog goes live on the 22nd.
+The introduction or other parts of the release post written may include links to external blogs posts. These links may be broken until the 21st but should still be flagged by the TW Lead during structural check so the Release post manager and Messaging lead don't miss coordinating with authors of these external blogs to make sure they're live before the release post blog goes live on the 22nd.
+
+#### Documentation version release
+
+When a new GitLab version is released on the 22nd, the TW Lead also sets up the release
+of the published documentation for that version.
+
+For instructions, see the GitLab docs [Monthly release process](https://docs.gitlab.com/ee/development/documentation/site_architecture/release_process.html).
 
 ### TW Reviewers
 
