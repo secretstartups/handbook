@@ -194,9 +194,10 @@ Periodically Marketing Operations and other teams through the marketing org make
 
 ### PagerDuty and Emergency Comms
 
-If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan). As a first step, please create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) with all relevant information. In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
+In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
 
-Contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan). Follow directions on this [page](/handbook/marketing/emergency-response) to initiate the emergency response, and contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+
 
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
 
