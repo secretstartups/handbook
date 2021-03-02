@@ -44,7 +44,7 @@ Sometimes the Support manager on-call may feel that an escalation request is wit
 1. Reasons why the ticket doesn't qualify for an escalation
 1. Agreement with requester on alternative acceptable path 
 
-Every ticket which is `de-escalated` must include the `De-escalation`
+Every escalation issue which is `de-escalated` must include the `De-escalation` label.
 
 ## Definition of Urgency 
 
