@@ -234,7 +234,7 @@ For more details, read the [Snowplow](https://docs.gitlab.com/ee/development/sno
 
 Usage Ping is a method for GitLab Inc to collect usage data on a GitLab instance. Usage Ping is primarily composed of row counts for different tables in the instance’s database. By comparing these counts month over month (or week over week), we can get a rough sense for how an instance is using the different features within the product. This high-level data is used to help our product, support, and sales teams.
 
-For more details, read the [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping.html) guide.
+For more details, read the [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/) guide.
 
 ### Database import
 
@@ -326,7 +326,7 @@ Determine what metrics are important for your specific section, stage, or group.
 1. Add the value from column A of the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) to the [Performance Indicator (PI) yaml file as the `metric_name`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators)
 
 #### Deduplication of Aggregated Metrics
-Note: We now enable you to deduplicate aggregated metrics implemented via Redis HLL, in order to get distinct counts (ex distinct users count across multiple actions in a stage). Please read our docs on [Aggregated Metrics](https://docs.gitlab.com/ee/development/usage_ping.html#aggregated-metrics) for more information. We are working towards the ability to deduplicate across multiple Database HLL metrics via [#288848](https://gitlab.com/gitlab-org/gitlab/-/issues/288848), and then deduplication across multiple Redis HLL and Database HLL metrics via [#421](https://gitlab.com/gitlab-org/product-intelligence/-/issues/421)
+Note: We now enable you to deduplicate aggregated metrics implemented via Redis HLL, in order to get distinct counts (ex distinct users count across multiple actions in a stage). Please read our docs on [Aggregated Metrics](https://docs.gitlab.com/ee/development/usage_ping/#aggregated-metrics) for more information. We are working towards the ability to deduplicate across multiple Database HLL metrics via [#288848](https://gitlab.com/gitlab-org/gitlab/-/issues/288848), and then deduplication across multiple Redis HLL and Database HLL metrics via [#421](https://gitlab.com/gitlab-org/product-intelligence/-/issues/421)
 
 
 | Term | Definition | Example |
@@ -341,20 +341,20 @@ Note: We now enable you to deduplicate aggregated metrics implemented via Redis 
 
 Work with your engineering team to instrument tracking for your XMAU. Focus on using Usage Ping as your metrics will be available on both SaaS and self-managed.
 
-The [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping.html) outlines the steps required for instrumentation. It includes:
+The [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/) outlines the steps required for instrumentation. It includes:
 
-- [What is Usage Ping?](https://docs.gitlab.com/ee/development/usage_ping.html#what-is-usage-ping)
-- [How Usage Ping works](https://docs.gitlab.com/ee/development/usage_ping.html#how-usage-ping-works)
-- [Implementing Usage Ping](https://docs.gitlab.com/ee/development/usage_ping.html#implementing-usage-ping)
-- [Developing and Testing Usage Ping](https://docs.gitlab.com/ee/development/usage_ping.html#developing-and-testing-usage-ping)
-- [Example Payload](https://docs.gitlab.com/ee/development/usage_ping.html#example-usage-ping-payload)
+- [What is Usage Ping?](https://docs.gitlab.com/ee/development/usage_ping/#what-is-usage-ping)
+- [How Usage Ping works](https://docs.gitlab.com/ee/development/usage_ping/#how-usage-ping-works)
+- [Implementing Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/#implementing-usage-ping)
+- [Developing and Testing Usage Ping](https://docs.gitlab.com/ee/development/usage_pin/#developing-and-testing-usage-ping)
+- [Example Payload](https://docs.gitlab.com/ee/development/usage_ping/#example-usage-ping-payload)
 
 Also see the [Product Intelligence Guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/) and [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow.html).
 
 **Instructions:**
 
 1. Read the docs and work with your engineers on instrumentation.
-1. Ask for a [Product Intelligence Review](https://docs.gitlab.com/ee/development/usage_ping.html#9-ask-for-a-product-intelligence-review) in your MR.
+1. Ask for a [Product Intelligence Review](https://docs.gitlab.com/ee/development/usage_ping/#9-ask-for-a-product-intelligence-review) in your MR.
 
 ### 3. Data Availability
 
@@ -449,7 +449,7 @@ All of the prior steps have been completed and a PI is successfully implemented.
 | Resource                                                              | Description                                               |
 |-----------------------------------------------------------------------|-----------------------------------------------------------|
 | [Product Intelligence Guide](/handbook/product/product-intelligence-guide) | A guide to Product Intelligence                   |
-| [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping.html)  | An implementation guide for Usage Ping  |
+| [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/)  | An implementation guide for Usage Ping  |
 | [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow.html)   | An implementation guide for Snowplow        |
 | [Event Dictionary](/handbook/product/product-intelligence-guide#metrics-dictionary)  | A SSoT for all collected metrics and events       |
 | [Privacy Policy](/privacy/)      | Our privacy policy outlining what data we collect and how we handle it     |
