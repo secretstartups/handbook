@@ -554,6 +554,7 @@ graph TD
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
     B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D]
+
 ```
 
 #### SLAs for temporary support workflow
@@ -583,6 +584,7 @@ graph TD
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
     B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin
+
 ```
 
 ### Pathways for user support
@@ -614,7 +616,6 @@ Customers and community members will be directed to open a ticket using the prof
 The following workflow outlines how new tickets are directed to the appropriate Zendesk view:
 
 ```mermaid
-
 graph TD;
 A(User wants to contact proserv)
 B(How does the user do it?)
