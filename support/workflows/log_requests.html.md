@@ -16,8 +16,6 @@ subcategory: Legal
 
 Users often ask for access to GitLab.com logs, typically, due to [IP blocks](/handbook/support/workflows/ip-blocks.html), a possible security issue, or for internal auditing purposes.
 
-Due to privacy issues, GitLab cannot provide a copy of the logs without a court order which we should consult Legal on. What we can do is answer specific questions with a summary of our search results.
-
 Always include a link to the log as an internal note, with additional information if needed.
 
 If required, post in the `#support_escalations` channel for a senior engineer or manager review.
