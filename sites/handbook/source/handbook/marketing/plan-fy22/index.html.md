@@ -50,12 +50,13 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 
 **Measure:** How do we confirm everyone is aligned?
 
-- Handbook page as SSoT
-- Announcement/intro at Marketing Strategy Call 2021-02-11
-- Kickoff call with all Core Team required 2021-02-17
-- Issue confirmation
+- [Trusted Data Sales Funnel Target vs. Actual](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual): Trials, MQLs, SAOs, Pipeline
+- [Marketing Key Meeting Dashboard](https://app.periscopedata.com/app/gitlab/775108/WIP:-Key-Monthly-Marketing-Metrics): Views, Traffic, etc.
+- [Demand Gen Dashboards for Campaign Metrics](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard)
+- [Linear Attribution Tables](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution)
+- [WIP: SDR Efficiency Metrics](https://app.periscopedata.com/app/gitlab/641469/SDR-Metrics)
 
-#### Overview Slides of FY222 Marketing Plan
+#### Overview Slides of FY22 Marketing Plan
 {: #overview-slides}
 
 <!-- DO NOT CHANGE ANCHOR -->
@@ -102,7 +103,6 @@ Based on discussions with Sales and Marketing leadership, feedback from Product 
 To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`. You may also view the embedded sheet below.
 <iframe width="950" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLZchvg6aGk2KtSaXSuxrm0jJrmcZ1cq8fwqpB5sNkB1aigDhi4KnGSEaCVJOt60p0XH3POricmtq5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
-
 All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
 
 ### What is included in a GTM Motion?
