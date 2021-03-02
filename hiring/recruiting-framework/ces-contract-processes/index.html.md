@@ -240,14 +240,17 @@ _Important: Employment contracts cannot be backdated. If a team member requests 
 * The People Operations Specialist should stage the contract in HelloSign to be signed by both the team member and the Director of People Operations.
 * Once siged by both parties, the contract should be uploaded to the team members BambooHR profile in the `Contracts & Changes` section.
 
-## Letter of Adjustments
-When a team member applies for and receives a new position through Greenhouse, a Letter of Adjustment is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter.This document is signed by the Senior Manager, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Letter of Adjustment template in Greenhouse the letter is cc'd to the Total Rewards team for processing. 
+## Letter of Adjustment
+
+When a team member applies for and receives a new position through Greenhouse, a Letter of Adjustment is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Senior Manager, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Letter of Adjustment template in Greenhouse the letter is cc'd to the Total Rewards team for processing. 
 
 Effective dates for a letter of adjustment should be the first (1st) of the month or the sixteenth (16th).
 
 The Candidate Experience Specialist needs to tag the Recruiting Operations and Insights team to have the candidate profiles merged while the candidate is in Team Interview before the candidate is in the offer stage. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to BambooHR. The signed letter is uploaded into BambooHR under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst. The Total Rewards team ensures the information in HRIS and Payroll systems is updated.
 
 When an internal transition is taking place and the start date is amended, please ensure to update the People Experience team via Slack in the `#people-exp_ces` channel of the new start date. 
+
+If a team member goes through a promotion through BambooHR versus Greenhouse, a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) is prepared by the Total Rewards team as listed on their handbook page.
 
 ## Rehires
 
