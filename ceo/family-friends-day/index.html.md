@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Family and Friends Day"
+description: "At GitLab, we are family and friends first, work second. A monthly Family and Friends Day during COVID-19 helps our Team Members prioritize their well-being."
 ---
 
 ## On this page
