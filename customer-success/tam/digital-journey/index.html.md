@@ -16,24 +16,26 @@ The digital journey is designed to enable customers to better self-service the e
 
 Digital journey content is an extension of our existing documentation and community enablement materials ([YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), [GitLab blog](https://about.gitlab.com/blog/), [case studies](https://about.gitlab.com/customers/), [forums](https://forum.gitlab.com/), [docs site](https://docs.gitlab.com/) ) designed to help organize the most relevant and most useful resources and help implementation engineers quickly become experts with advice taken from hundreds of existing customers’ experiences and unique environmental or business requirements.  The digital journey takes 30 days to complete and is followed by a survey asking for feedback on the series.
 
+
 ### Digital Onboarding
 
 The following topics are covered through the digital onboarding series:
-1. Quick guide intro and authentication
-1. Setting up Group and Project hierarchy
+1. Onboarding Introduction and Enrollment
+1. Quick Guide Intro and Authentication
+1. Setting Up Group and Project hierarchy
 1. Import/Export
 1. GitLab Instance - Security Best Practices
 1. Monitoring GitLab
 1. Backing Up GitLab
-1. How we guarantee backups (GitLab.com)
+1. How We Guarantee Backups (GitLab.com)
 1. Alternative Backup Strategies
-1. Support information (self)
-1. Support information (GitLab.com)
-1. API Intro + Rate limits (self)
-1. API Intro + Rate limits (GitLab.com)
-1. Where to get training
+1. Support Information (self)
+1. Support Information (GitLab.com)
+1. API Intro + Rate Limits (self)
+1. API Intro + Rate Limits (GitLab.com)
+1. Where To Get Training
 
-The [digital onboarding email content](https://docs.google.com/document/d/1yosBBsBqvsgBYCqkn7zv9-YsT5sTynB6khRZJi8IhPE/edit?usp=sharing) can be viewed here (GitLab only)
+The [digital onboarding email content](https://docs.google.com/document/d/1CqpPM2xgbkkJ2g1Yvsba3vlV6q0waQPKEKtKt_9JlQ4/edit?usp=sharing) can be viewed here (GitLab only)
 
 
 **Digital Journey** - [Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/65)
