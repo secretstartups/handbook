@@ -117,6 +117,7 @@ Please consider the following:
 | Assistance With a SaaS Subscription Issue (not covered above) | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=SaaS%20Subscription%20Issue) using the `SaaS Subscription Issue` template |
 | Request for a license as a GitLab Team Member | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab%20Team%20Member%20License) using the `GitLab Team Member License` template |
 | Request a license for a HackerOne reporter | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=HackerOne%20Reporter%20License%20Request) using the `HackerOne Reporter License Request` template |
+| Request for a license for a wider community contributor | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Wider%20Community%20Contributor%20License%20Request) using the `Wider Community Contributor License Request` template |
 
 #### GitLab.com Billable Members List
 
