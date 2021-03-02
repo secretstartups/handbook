@@ -53,6 +53,7 @@ Per the current [Referral Submission Process](/handbook/hiring/referral-process/
         * e.g. LinkedIn
     * **Resume** - *Optional*
     * **Relationship** - `Required`
+        * If *"Relative"* is selected, please confirm how they're related and add that to the `Family Relationship` field on the **Additional Details** tab.
     * **Location** - `Required`
         * Add the provided location to the *Location* field on the **Additional Details** tab.
     * **Referral's Email** - `Required`
