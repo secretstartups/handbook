@@ -9,9 +9,9 @@ title: "Total Addressable Market"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Total Addressable Market (TAM) is derived by multiplying the estimated number of seats licenses (Users) available by GitLab's potential annual average revenue per user (ARPU).  
+Total Addressable Market (TAMkt) is derived by multiplying the estimated number of seats licenses (Users) available by GitLab's potential annual average revenue per user (ARPU).  
 
-| Year | Audience | Users | ARPU | TAM |
+| Year | Audience | Users | ARPU | TAMkt |
 | ---- | -------- | ----- | ---- | --- |
 | 2013 | Enthusiasts | 1m | $20 | 20m |
 | 2015 | Developers | 20m | $100 | 2b |

@@ -184,7 +184,7 @@ This will create a one time only charge to the customer and in a year's time, th
 
 ***Note that we make provision for true ups in our standard [Subscription Terms](https://about.gitlab.com/terms/) Section 5 - Payment of Fees.***
 
-### Total Addressable Market (TAM)
+### Total Addressable Market (TAMkt)
 
 Annual revenue opportunity of the [entirety of GitLab’s market](/handbook/sales/tam).
 The potential value of everyone worldwide that could purchase our product.
