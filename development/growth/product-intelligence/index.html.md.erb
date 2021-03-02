@@ -63,9 +63,9 @@ Our team use the following workflow stages defined in the [Product Development F
 | -- | -- | -- |
 | `~"workflow::planning breakdown"` | Applied by the Product Manager on or before the 4th of the month signaling an intent to prioritize the issue for the next milestone. |
 | `~"workflow::ready for development"` |  Applied by Product Manager. Issue has been broken down and prioritized by PM for development. Issue also has a milestone assigned at this point. |
-| `~"workflow::in dev"` | Applied by the engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. | 
+| `~"workflow::in dev"` | Applied by the engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. |
 | `~"workflow::in review"` | Applied by an engineer indicating that all MRs required to close an issue are in review. |
-| `~"workflow::verification"` | Applied by engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. | 
+| `~"workflow::verification"` | Applied by engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. |
 | `~"workflow::blocked"` | Applied by any team member if at any time during development the issue is blocked. For example: technical issue, open question to PM or PD, cross-group dependency. |
 
 
@@ -280,7 +280,7 @@ One of our main engineering metrics is [throughput](/handbook/engineering/manage
 
 We aim for the current [development department MR rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate) which is tracked using our [throughput metrics dashboard](https://app.periscopedata.com/app/gitlab/559676/Growth:Product-Intelligence-Development-Metrics).
 
-## Onboarding 
+## Onboarding
 
 All new team members to the Product Intelligence teams are provided two onboarding issues to help ramp up on our analytics tooling. New team member members should create their own onboarding issues in the [gitlab-org/growth/team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues). Note that this template lives in our handbook page instead of inside a GitLab template as it provides better visibility for incoming team members.
 
@@ -292,13 +292,13 @@ All new team members to the Product Intelligence teams are provided two onboardi
 ```
 ## Overview
 
-The goal of this issue is to introduce you to how usage ping works. Your first task is to locally replicate the sending and receiving of a Usage Ping. In order to do this, you will traverse the gitlab and versions codebases to see how a usage ping is sent and collected. 
+The goal of this issue is to introduce you to how usage ping works. Your first task is to locally replicate the sending and receiving of a Usage Ping. In order to do this, you will traverse the gitlab and versions codebases to see how a usage ping is sent and collected.
 
 Please work with your onboarding buddy if you have any questions.
 
-## Steps 
+## Steps
 - [ ] Read the [Product Intelligence Guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/)
-- [ ] Read the [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping.html)
+- [ ] Read the [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/)
 - [ ] Clone and start https://gitlab.com/gitlab-org/gitlab
 - [ ] Clone and start https://gitlab.com/gitlab-services/version-gitlab-com
 - [ ] Setup versions to listen for incoming usage pings
@@ -306,7 +306,7 @@ Please work with your onboarding buddy if you have any questions.
 - [ ] In gitlab via rails console, manually trigger a usage ping
 - [ ] In versions via rails console, check that a usage ping was successfully received, parsed, and stored in the Versions database.
 - [ ] Notify your manager and onboarding buddy once this issue is complete
-- [ ] Ask your manager to add you to the [/gitlab-org/growth/product-intelligence/engineers/](https://gitlab.com/groups/gitlab-org/growth/product-intelligence/engineers/-/group_members) so that you can start doing [Product Intelligence reviews](https://docs.gitlab.com/ee/development/usage_ping.html#9-ask-for-a-product-intelligence-review)
+- [ ] Ask your manager to add you to the [/gitlab-org/growth/product-intelligence/engineers/](https://gitlab.com/groups/gitlab-org/growth/product-intelligence/engineers/-/group_members) so that you can start doing [Product Intelligence reviews](https://docs.gitlab.com/ee/development/usage_ping/#9-ask-for-a-product-intelligence-review)
 - [ ] Close off this issue
 ```
 
@@ -318,11 +318,11 @@ Please work with your onboarding buddy if you have any questions.
 ```
 ## Overview
 
-The goal of this issue is to introduce you to how Snowplow works. Your first task is to locally replicate the sending and receiving of Snowplow events. In order to do this, you will traverse the gitlab and snowplow codebases to see how a snowplow event is sent and collected. 
+The goal of this issue is to introduce you to how Snowplow works. Your first task is to locally replicate the sending and receiving of Snowplow events. In order to do this, you will traverse the gitlab and snowplow codebases to see how a snowplow event is sent and collected.
 
 Please work with your onboarding buddy if you have any questions.
 
-## Steps 
+## Steps
 - [ ] Read the [Product Intelligence Guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/)
 - [ ] Read the [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow.html)
 - [ ] Clone and start GitLab https://gitlab.com/gitlab-org/gitlab
@@ -330,10 +330,10 @@ Please work with your onboarding buddy if you have any questions.
 - [ ] Clone and start Snowplow Micro https://docs.gitlab.com/ee/development/snowplow.html#snowplow-micro
 - [ ] Add a Snowplow event using HAML https://docs.gitlab.com/ee/development/snowplow.html#tracking-in-haml-or-vue-templates
 - [ ] Add a Snowplow event using Ruby https://docs.gitlab.com/ee/development/snowplow.html#implementing-snowplow-ruby-backend-tracking
-- [ ] Using your browser, navigate to wherever the event was added and trigger all the added Snowplow events (HAML, Ruby)  
+- [ ] Using your browser, navigate to wherever the event was added and trigger all the added Snowplow events (HAML, Ruby)
 - [ ] In Snowplow Micro, ensure all of the above mentioned events are successfully captured as good events in `localhost:9090/micro/good`
 - [ ] Notify your manager and onboarding buddy once this issue is complete
-- [ ] Ask your manager to add you to the [/gitlab-org/growth/product-intelligence/engineers/](https://gitlab.com/groups/gitlab-org/growth/product-intelligence/engineers/-/group_members) so that you can start doing [Product Intelligence reviews](https://docs.gitlab.com/ee/development/usage_ping.html#9-ask-for-a-product-intelligence-review)
+- [ ] Ask your manager to add you to the [/gitlab-org/growth/product-intelligence/engineers/](https://gitlab.com/groups/gitlab-org/growth/product-intelligence/engineers/-/group_members) so that you can start doing [Product Intelligence reviews](https://docs.gitlab.com/ee/development/usage_ping/#9-ask-for-a-product-intelligence-review)
 - [ ] Close off this issue
 ```
 
@@ -342,7 +342,7 @@ Please work with your onboarding buddy if you have any questions.
 | Resource                                                                                                                          | Description                                               |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [Product Intelligence Guide](/handbook/product/product-intelligence-guide)                                                                              | A guide to Product Intelligence                   |
-| [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping.html)                                                        | An implementation guide for Usage Ping                    |
+| [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/)                                                        | An implementation guide for Usage Ping                    |
 | [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow.html)                                                            | An implementation guide for Snowplow                      |
 | [Event Dictionary](/handbook/product/product-intelligence-guide#event-dictionary)                                        | A SSoT for all collected metrics and events               |
 | [Privacy Policy](/privacy/)                                                                                                       | Our privacy policy outlining what data we collect and how we handle it     |
