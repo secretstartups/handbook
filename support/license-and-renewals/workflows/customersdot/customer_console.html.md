@@ -557,13 +557,13 @@ In any situation similar to [seat count is 0](https://gitlab.com/gitlab-org/gitl
 #### Sample
 
 ```ruby
-irb(main):180:0>  fix_dotcom_seats 'some_namespace'
+irb(main):180:0>  fix_dotcom_seats("some_namespace")
 => {:success=>true}
 ```
 
 ### update_group_mins
 
-> *Note*: Possible through GitLab.com admin. Additional minutes can be changed via chatops.
+> *Note*: Possible through GitLab.com admin.
 
 Update a group's shared runner minutes.
 
@@ -574,6 +574,70 @@ Update a group's shared runner minutes.
 | `:id` | *Yes* | The namespace ID to update |
 | `:newplan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
 | `:mins` | *Yes* | CI Minutes to update |
+
+#### Sample
+
+```ruby
+irb(main):180:0>  update_group_mins(1234,"gold",50000)
+=> {:success=>true}
+```
+
+### update_extra_minutes
+
+> *Note*: Additional minutes can also be changed via chatops.
+
+Update a group's shared runner minutes.
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:namespace` | *Yes* | The namespace to update |
+| `:mins` | *Yes* | CI Minutes to update |
+
+#### Sample
+
+```ruby
+irb(main):180:0>  update_group_mins("gitlab-gold",50000)
+=> {:success=>true}
+```
+
+### update_extra_storage
+
+Update a group's additional storage.
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:namespace` | *Yes* | The namespace to update |
+| `:extra_storage` | *Yes* | Amount of additional storage in MiB |
+
+#### Sample
+
+```ruby
+irb(main):180:0>  update_extra_minutes("gitlab-gold",5000)
+{"id"=>12345678,
+ "name"=>"GitLab.com - Gold",
+ "path"=>"gitlab-gold",
+ "kind"=>"group",
+ "full_path"=>"gitlab-gold",
+ "parent_id"=>nil,
+ "avatar_url"=>"/uploads/-/system/group/avatar/123456/gitlab-icon-rgb.png",
+ "web_url"=>"https://gitlab.com/groups/gitlab-gold",
+ "members_count_with_descendants"=>105,
+ "shared_runners_minutes_limit"=>50000,
+ "extra_shared_runners_minutes_limit"=>nil,
+ "additional_purchased_storage_size"=>5000,
+ "additional_purchased_storage_ends_on"=>"2022-03-02",
+ "billable_members_count"=>105,
+ "seats_in_use"=>105,
+ "max_seats_used"=>103,
+ "plan"=>"gold",
+ "trial_ends_on"=>nil,
+ "trial"=>false}
+=> nil
+```
 
 ## FAQ
 
