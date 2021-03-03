@@ -100,6 +100,18 @@ Kibana can be used to find out if and when an account on GitLab.com was deleted 
 1. Add a positive filter on `json.controller` for `RegistrationsController`.
 1. Observe the results. There should be only one result if the account that was filtered for was deleted within the specified timeframe.
 
+#### Disable Two Factor Authentication
+
+- [Quick link to search](https://log.gprd.gitlab.net/goto/e97f2b42e8a9aba58aa9991c28cc304b)
+
+Kibana can be used to find out which admin disabled 2FA on a GitLab.com account. To see the log entries:
+
+1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+1. Add a positive filter on `json.username` for `admin`.
+1. Add a positive filter on `json.action` for `disable_two_factor`.
+1. To make things easier to read, only display the `json.location` and `json.username` fields.
+1. Observe the results.
+
 #### Enable/Disable SSO Enforcement
 
 Kibana can be used to find out if and when SSO Enforcement was enabled or disabled on a group on GitLab.com, and which user did so.
