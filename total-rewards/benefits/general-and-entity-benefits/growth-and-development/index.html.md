@@ -75,7 +75,7 @@ Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopl
 
 ### Example programs by department
 
-The following programs have been contributed by leaders across the organization. These programs may be approved under the Growth and Development policy. If you know of a specific course or program that you or a team member has benefited from, please open and MR and add to this page.
+The following programs have been contributed by leaders across the organization. These programs may be approved under the Growth and Development policy. If you know of a specific course or program that you or a team member has benefited from, please open an MR and add to this page.
 
 | Department | Program | Notes |
 | ----- | ----- | ----- | 
