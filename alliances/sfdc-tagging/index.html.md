@@ -4,7 +4,6 @@ title: "Recognizing Alliance Sales Impact"
 description: "Process and tagging for Alliance Co-Sell deals."
 ---
 
-
 # Overview 
 
 Co-selling with Alliance partners can help GitLab expand it's sales reach and impact to mutual customer bases. There are various ways co-sell partners help GitLab's sales cycle and can be classified in a few categories. These categories are defined to logically group and confirm to Channel prgram definitions. Today, alliances : 
@@ -19,7 +18,6 @@ Co-selling with Alliance partners can help GitLab expand it's sales reach and im
 # Sales force Tagging 
 
 Read more [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#alliances-and-oems) on how alliance deals are tagged and defined in the Channel Team's handbook page. Below is a more detailed overview of different types of deals, how they are tagged, and categorized as partner influenced sales for GitLab.
-
 
 ## Open Pipeline 
 
@@ -43,6 +41,15 @@ None | None | Alliance Partner | None
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKG)
 
+2. **Alliance assisted, sold via reseller**: These are deals sold via a mutual channel reseller, but also where GitLab sellers and Alliance sellers got on joint calls and/or collaborated to help land, expand, or up sell an **existing** GitLab opportunity or a **new** GitLab opportunity previously registered by a channel partner. These deals have closed/won/lost status. `DR Partner Engagement` field will be determined by the type of engagement with the channel partner. The only attribution for Alliance partner impact where a channel partner is involved and transacting will be determined by the `Influence Partner` field. 
+
+DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
+--- | --- | --- | --- 
+VAR Partner | Partner Sourced or Partner Assist or Fulfillment | Alliance Partner | Resale
+
+[See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKL)
+
+
 ## Assist Opportunities 
 
 It should be noted that for each of the Alliance assist tagged opportunities, it is expected to have qualification notes in the Command plan outlining the Alliance partner and their value add to the deal (detailed joint call notes with next steps will suffice). 
@@ -56,15 +63,6 @@ DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
 Alliance Partner | Assisted | Alliance Partner | Resale
 
 [See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKB)
-
-2. **Alliance assisted, sold via reseller**: These are deals sold via a mutual channel reseller, but also where GitLab sellers and Alliance sellers got on joint calls and/or collaborated to help land, expand, or up sell an **existing** GitLab opportunity or a **new** GitLab opportunity previously registered by a channel partner. These deals have closed/won/lost status. `DR Partner Engagement` field will be determined by the type of engagement with the channel partner. The only attribution for Alliance partner impact where a channel partner is involved and transacting will be determined by the `Influence Partner` field. 
-
-DR Partner | DR Partner Engagement | Influence Partner | DR - partner Deal Type
---- | --- | --- | --- 
-VAR Partner | Partner Sourced or Partner Assist or Fulfillment | Alliance Partner | Resale
-
-[See SFDC report as an example](https://gitlab.my.salesforce.com/00O4M000004afKL)
-
 
 ## Fulfillment Opportunities 
 
