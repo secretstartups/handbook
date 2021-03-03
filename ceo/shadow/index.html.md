@@ -180,8 +180,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-03-01 | 2021-03-05 | No Shadows - No signups received | No Shadows - No signups received |
 | 2021-03-08 | 2021-03-12 | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
 | 2021-03-15 | 2021-03-19 | AVAILABLE - REMOTE | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst |
-| 2021-03-22 | 2021-03-26 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-03-29 | 2021-04-02 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | AVAILABLE - REMOTE |
+| 2021-03-22 | 2021-03-26 | [Darwin Sanoy](https://gitlab.com/darwinjs) | AVAILABLE - REMOTE |
+| 2021-03-29 | 2021-04-02 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Darwin Sanoy](https://gitlab.com/darwinjs) |
 | 2021-04-05 | 2021-04-09 | AVAILABLE - REMOTE | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
 | 2021-04-12 | 2021-04-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
