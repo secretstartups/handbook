@@ -85,7 +85,7 @@ Here are some tips for searching for import errors in Kibana:
 - Use the pubsub-sidekiq-inf-gprd index pattern (Sidekiq logs) and try to narrow it down by adding filters
   - json.meta.project: `path/to/project`
   - json.severity: (not `INFO`)
-  - json.job_status is `fail`
+  - json.job_status: (not `done`)
   - json.class is `RepositoryImportWorker`
 - Use the pubsub-rails-inf-gprd index pattern (Rails logs) and try to narrow it down by adding filters  
   - json.controller: `Projects::ImportsController` with error status
