@@ -144,7 +144,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   1. Go to the [Team page](https://about.gitlab.com/company/team/) and find yourself. Note: if you choose `No` on BambooHR for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name. 
   1. Click on the avatar above your name (or job title). A modal will open.
   1. In that modal, on the bottom, click `Edit in Web IDE`
-  1. Our web editor will open with your team page entry opened
+  1. Our web editor will open with your team page entry opened.
   1. <%= partial "team-page-fields" %>
   1. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
   1. Check the files to ensure your updates are what you expect. If they are, click the check mark above the changed file list to "stage" all changes. You can also use the `Stage` button in the upper-right of the changed file view to stage each one individually. You should now see `0 unstaged and 2 staged changes`.
@@ -163,7 +163,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   1. In the file browser, navigate to `sites/marketing/source/images/team`
   1. At the top of the page click `+` and choose `Upload file` to upload your picture. Be sure to follow the [picture requirements](#picture-requirements). Add text *Add YourFirstName YourLastName to team page* and click `Upload file`.
   1. Navigate on your branch near the top of the page following the text that has your unique branch name and click on the text that follows your branch name `www-gitlab-com`.
-  1. Now you will edit your biographical information. All the bio information displayed on the Team page is pulled from a data file. Click on `data`, and then scroll down to `team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` (you are looking for a file that specifies your name / slug).
+  1. Now you will edit your biographical information. All the bio information displayed on the Team page is pulled from a data file. Click on `data`, and then scroll down to `team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` (you are looking for a file that specifies your name or slug).
   1. Click on `edit` on the top right side of your screen.
   1. <%= partial "team-page-fields" %>
   1. After you added your information, add a comment to your commit and click on “Commit Changes”.
@@ -180,16 +180,19 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   *Note:* This method may take longer than other methods, because it requires `git clone` for around 4GB size repository.
 
   1. Download Git, following the [start using git documentation](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
-  2. Follow the steps to create and add your [SSH keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html).
-  3. Clone the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
-  4. Create and checkout a new branch for the changes you will be making.
-  5. Add your picture to the `sites/marketing/source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
-  6. Open `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in your favorite editor, specifically looking for the file with your name / slug.
-  7. <%= partial "team-page-fields" %>
-  8. Save changes to `data/team.yml` and `git add` it.
-  9. To see your changes locally, follow the directions in `README.md`.
-  10. After validating your changes, commit your changes to the new branch of www-gitlab-com that you created in step 4, with a comment *Add FirstName LastName to team page* and push your branch. You may need to set the remote as upstream or you can use `--set-upstream` option and specify remote as upstream.
-  11. [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created and assign it to your manager for review.
+  1. Follow the steps to create and add your [SSH keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html).
+  1. Clone the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
+  1. Create and checkout a new branch for the changes you will be making.
+  1. Add your picture to the `sites/marketing/source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
+  1. Open `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in your favorite editor, specifically looking for the file with your name or slug.
+  1. <%= partial "team-page-fields" %>
+  1. Save the changes to the file in `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/` that you just edited, and `git add` it.
+  1. To see your changes locally:
+        1. Manually run a command to compile the changes you just made into a file that actually populates the team page:
+           `cd <WWW-GITLAB-COM REPO ROOT>; bundle exec rake build:team_yml`
+        1. Follow the directions in `README.md`.
+  1. After validating your changes, commit your changes to the branch of www-gitlab-com that you created in step 4, with a comment *Add FirstName LastName to team page* and push your branch. You may need to set the remote as upstream or you can use `--set-upstream` option and specify remote as upstream.
+  1. [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created and assign it to your manager for review.
 
   *Note:* When you test locally, the map on top of the page won't show your photo. This is because it is not populated with local data. [More about how the map works](https://gitlab.com/gitlab-com/teampage-map/blob/master/README.md#background). You will see your picture on the map as soon as your Merge Request is merged.
   *Note:* Searching the handbook in your local environment yields production results, so navigate directly to the team page via URL to see your changes.
