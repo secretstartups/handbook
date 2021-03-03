@@ -1,21 +1,20 @@
 ---
 layout: handbook-page-toc
 title: Support Operations Team
-description: Introduction to the responsiblities of the Support Operations Team.
+description: Support Operations Team main page
 ---
 
-# Introduction to Support Operations Team (Support-Ops):
+# Introduction to Support Operations Team (Support-Ops)
  
-Support Operations Team is responsible for supporting the day-to-day operations
+Support Operations team is responsible for supporting the day-to-day operations
 and software systems used by GitLab’s global Technical Support team, primarily
 our Zendesk instance, and integrations with internal business processes and
 tools. The Support Operations Team is exclusively responsible for handling
 Zendesk Support and Explore related queries.
 
-Further details and responsibilities are explained [here](#responsibilities).
-
-You can locate us in GitLab issues or via the `#support_operations` channel
-in slack.
+You can locate us in GitLab issues or via the 
+[`#support_operations`](https://gitlab.slack.com/archives/C018ZGZAMPD)
+channel in slack.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -23,13 +22,13 @@ in slack.
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Mission:
+## Mission
  
 To help the Technical Support Team spontaneously and make their day to day
 workflow simple and easier so the efficiency and result values of Technical
 Support Team increases.
 
-## Vision:
+## Vision
   
 To provide the “Best in Class” support to our support team specifically and
 GitLab to increase the overall value of GitLab as a team, organization and
@@ -40,20 +39,7 @@ product.
 - To solve Technical Support Team Zendesk related issues within 3 months.
 - Increase efficiency of Zendesk to enable Support to achieve KPIs
 
-## Responsibilities
-
-The core responsibilities of the Support Ops team are:
-
-* Zendesk (Global and US Federal instance)
-  * [Shared Organizations](responsibilities.html#shared-organizations-in-zendesk)
-  * [Salesforce - Zendesk sync](responsibilities.html#salesforce-zendesk-sync)
-  * [SFDC<>US Federal Zendesk sync](responsibilities.html#sfdcus-federal-zendesk-sync)
-* [Customer Satisfaction Survey (CSAT)](responsibilities.html#customer-satisfaction-survey-csat)
-* [Calendly](responsibilities.html#calendly)
-* [PagerDuty](responsibilities.html#pagerduty)
-* [Slack Notifications](responsibilities.html#slack-notifications)
-
-## The Support Operations Team:
+## The Support Operations Team
 
 | Name | Role  | Slack Handle |
 |--|--|--|
@@ -62,33 +48,36 @@ The core responsibilities of the Support Ops team are:
 | [Dan Nolan](https://gitlab.com/dnolan1) | Support Operations Specialist (US Federal)} | @dnolan1
 | [Alyssa Villa](https://gitlab.com/avilla4) | Support Operations Specialist (Main Instance) | @avilla4 |
 
-## Support Operations Important Links:
+## Support Operations Important Links
 
 * [Main Project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project)
-* [Progress Board](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/boards/1171115)
-* [Priority Vice Issues Board](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/boards/1738899)
-* [Project Labels](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/blob/master/README.md)
+* [Our workflows](workflows/)
+* [Project Labels](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project#what-do-all-the-labels-mean)
+* Various issue boards:
+  * [By category issue board](https://gitlab.com/groups/gitlab-com/support/support-ops/-/boards/2325911)
+  * [By priority issue board](https://gitlab.com/groups/gitlab-com/support/support-ops/-/boards/564195)
+  * [By progress issue board](https://gitlab.com/groups/gitlab-com/support/support-ops/-/boards/2325921)
+  * [Zendesk issue board](https://gitlab.com/groups/gitlab-com/support/support-ops/-/boards/2325976)
 
-## Support Operations Workflow:
+## Support Operations Workflow
 
 ![](https://lh6.googleusercontent.com/gLFocegPFVnk9wx4YbHDZV78N1rLlymzeekgu3c-YgtWN22kKiXnE7HTtzhn-mnb7ZafZZRTAr9Igw2zK748T-eun36I3ecLJs1OzC1HqbsDgpBwzal2D-LRafKUZQr7h2RgFRUM)
 
-This diagram explains how the general fixes are handled by the Support Operations Team.
+This diagram explains how the general fixes are handled by the Support
+Operations team.
 
-## Support Operations Changelogs:
+## Support Operations Changelogs
 
-The Support Operations Team usually make the critical changes usually in weekend
-and communicate them via Slack channel #support_team-chat
-([https://gitlab.slack.com/archives/CCBJYEWAW](https://gitlab.slack.com/archives/CCBJYEWAW))
-and SWIR
-([/handbook/support/#support-week-in-review](/handbook/support/#support-week-in-review)).
+The Support Operations Team usually make the critical changes over weekends
+and communicate them via Slack channel [`#support_team-chat`](https://gitlab.slack.com/archives/CCBJYEWAW)
+and SWIR ([/handbook/support/#support-week-in-review](/handbook/support/#support-week-in-review)).
 
 For an overview of what issues/MRs involve Support Ops, please see our
 [changelog page](https://gitlab-com.gitlab.io/support/support-ops/changelog/)!
 
 ## Division of Responsibilities
 
-To help ensure the team doesn't get overwhelmed and has thr ability to focus on
+To help ensure the team doesn't get overwhelmed and has the ability to focus on
 specialization and learning, we divide out the responsibilties amongst our
 team. The current division of responsibilities is:
 
@@ -103,7 +92,7 @@ team. The current division of responsibilities is:
 |                    | Ticket Forms and Fields      | @jcolyer         | @nabeel.bilgrami |
 |                    | Theme/Guide                  | @jcolyer         | @nabeel.bilgrami |
 |                    | Triggers                     | @nabeel.bilgrami | @avilla4         |
-|                    | Users and Orgs               | @avilla4         | @nabeel.bilgrami |
+|                    | Users and Orgs               | Support Ops team | Support Ops team |
 |                    | Views                        | @avilla4         | @nabeel.bilgrami |
 |                    | ZD<>SFDC Sync Main           | @jcolyer         | @nabeel.bilgrami |
 |                    | ZD<>SFDC Sync Partners       | @jcolyer         | @nabeel.bilgrami |
@@ -128,23 +117,23 @@ team. The current division of responsibilities is:
 |                    | Audits                       | @jcolyer         | @nabeel.bilgrami |
 |                    | ADWR                         | @jcolyer         | @avilla4         |
 
-## Frequently Asked Questions (F.A.Q.):
+## Frequently Asked Questions (F.A.Q.)
 
-* If we receive any probelm in using Zendesk, can we contact Zendesk directly?
+** If we receive any probelm in using Zendesk, can we contact Zendesk directly? **
 
 Please contact Support-Ops team first. Discuss the problem by asking a question in channel and tagging @support-ops. It is a high probability that we can help you resolve the problem at hand. In cases where we cannot and we do need to contact Zendesk support directly, it is best to have Support-Ops handle that.
 
-* What will happen if Zendesk is down globally?
+** What will happen if Zendesk is down globally? **
 
-Zendesk will only go down when the internet is globally effected because they use Pods for services. This ensures that if a region is facing is downtime, Zendesk can quickly mitigate that while making sure services run smoothly. However, if you are still facing any problem accessing Zendesk, please contact the support-ops team. In the case that Zendesk is down globally, we have email support option available.
+Zendesk will only go down when the internet is globally effected because they use Pods for services. This ensures that if a region is facing downtime, Zendesk can quickly mitigate that while making sure services run smoothly. However, if you are still facing any problem accessing Zendesk, please contact the support-ops team. In the case that Zendesk is down globally, we have email support option available.
 
-* Is there any disaster recovery plan available?
+** Is there any disaster recovery plan available? **
 
 Zendesk keeps the data in backup servers will all due diligence. This ensures that we can recover data when it is needed. These backups are utilized to restore Zendesk in the case it fails due to a problem on Zendesk's end.
 
 Also, the support-ops team ensures all triggers, automations, views, macros, forms, fields, conditions, etc are documented to save the hassle of writing up everything from scratch.
 
-* Why do we allow users to open support tickets without being required to login to Zendesk via some authentication?
+** Why do we allow users to open support tickets without being required to login to Zendesk via some authentication? **
 
 According to Lee Matos:
 
