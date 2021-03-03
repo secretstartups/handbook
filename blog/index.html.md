@@ -785,9 +785,7 @@ There are two steps to include these: Designate what merch sidebar and banner to
 
 #### Merch sidebar
 
-To add a merch sidebar to your blog post, you need to designate it in the front matter and include the following inside the content where you want the sidebar to appear.
-
-`<%= partial "includes/blog/blog-merch-sidebar-dynamic" %>`
+To add a merch sidebar to your blog post, you need to designate it in the front matter. We are in the process of implementing Netlify CMS to publish blog posts. Currently merch sidebars will not display on your blog posts. [Read more here](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1069). 
 
 #### Merch banner
 
