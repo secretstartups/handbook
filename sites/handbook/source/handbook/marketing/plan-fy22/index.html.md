@@ -256,7 +256,7 @@ To view the Project Compass Googlesheet, please go to your [Google Drive](https:
 - Improve SEO through content mktg. and website improvements
 - Scale ABM program to include more enterprise accounts
 - Expand email marketing campaigns
- * Engage referral partners to drive web traffic (e.g., Stack Overflow)
+- Engage referral partners to drive web traffic (e.g., Stack Overflow)
 - Improve inquiry to SAO conversion reducing drop-offs (Specifically, MQL to SAO conversion)
 
 ## SSoT All-Marketing Calendar
