@@ -81,9 +81,14 @@ Anytime there is an error, ensure that the export originated from a [compatible 
 
 >**NOTE:** See the [Diagnose Errors on GitLab.com](/handbook/support/workflows/500_errors.html) workflow for more details on searching Kibana and Sentry.
 
-- In Kibana, search sidekiq log, and use
-  - json.path and filter: json.severity: (not `INFO`) or
+Here are some tips for searching for import errors in Kibana:
+- Use the pubsub-sidekiq-inf-gprd index pattern (Sidekiq logs) and try to narrow it down by adding filters
+  - json.meta.project: `path/to/project` and filter for json.severity: (not `INFO`)
+  - json.job_status is `fail`
+  - json.class is `RepositoryImportWorker`
+- Use the pubsub-rails-inf-gprd index pattern (Rails logs) and try to narrow it down by adding filters  
   - json.controller: `Projects::ImportsController` with error status
+  - json.path: `path/to/project`
 - In Sentry, search/look for: `Projects::ImportService::Error` ; make sure to remove the `is:unresolved` filter.
 
 If there is an error, search for an existing issue. Errors where the metadata is throwing an error and no issue exists, consider creating one from Sentry.
@@ -98,6 +103,7 @@ If no error is found and the import is partial, most likely it is a timeout issu
   - See [this comment](https://gitlab.com/gitlab-org/gitlab/-/issues/27742#note_215721494) for an explanation as to why. As artifacts are part of repository size, whether they are present can make a big difference.
 - **Repository shows 0 commits**.
   - See [15348](https://gitlab.com/gitlab-org/gitlab/issues/15348).
+
 
 Use the `GitLab.com::Import::Determine_Eligibility.json` Zendesk macro to make the requestor aware of all of these requirements and get additional details from them. If the requestor's case is approved based on their followup reply, move on to [Stage 2: Offering Import & Preparation](#stage-2-offering-import--preparation).
 
