@@ -374,7 +374,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - (MCM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
 - (MCM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
 - (MCM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
-     - For Events using HopIn, follow all steps below in addition to steps outlined here.
+     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector).
 - (MCM use only BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region]()
 - (MCM use only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - (MCM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
@@ -536,7 +536,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Click Save
 
 #### Steps to Use HopIn Connector
-Follow all of the set up steps [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#Steps-to-Setup-Marketo-programs-and-Salesforce-Campaigns). You will also need to do go into the `Hopin Integration` folder in the Owned Event Template and you will see several smart campaigns and a form.
+Follow all of the set up steps [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-marketo-programs-and-salesforce-campaigns). You will also need to do go into the `Hopin Integration` folder in the Owned Event Template and you will see several smart campaigns and a form.
 
 1. `01a Registration from Hopin` is used if you are using HopIn registration pages. This smart campaign triggers off of a custom activity `Registers for HopIn Event` and will add the registrant to the proper campaign. 
    - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
