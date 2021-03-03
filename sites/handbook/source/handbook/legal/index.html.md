@@ -24,6 +24,13 @@ We take employee concerns very seriously and encourage all GitLab Team Members t
 ### Quick Questions
 For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. If your request is for legal advice, deliverables, or any discussion of confidential information, please keep reading. 
 
+Other than [Quick Questions](https://about.gitlab.com/handbook/legal/#Quick-Questions/) please use the table below which will direct you to the correct process or information on how to contact legal. 
+
+| Type of Request | Process / Information |
+| ------ | ------ |
+| Sales / Customer Related matters (which includes any matter that is, or could potentially be revenue generating) | [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)|
+| Procurement / Vendor (which includes any matters related to a potential purchase by GitLab) | [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) Procurement will engage legal as necessary|
+
 ### Privileged / Confidential Communications
 If you have a request that involves confidential and/or sensitive information, please email [legal@gitlab.com](mailto:legal@gitlab.com).  
 
