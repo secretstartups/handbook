@@ -40,12 +40,15 @@ twitter_creator: "@gitlab"
 
  These packages are for GitLab Employees in need of higher level production equipment for elevated content such as conferences and video packages. Select only one of the packages below, based on your needs. 
 
-### Professional Camera Package
+### Advanced Camera Package
 ---
 
 ##### Camera
 
-- Camera: TBD - Coming Soon!
+- Camera: 
+   - The Digital Production team is awaiting the release of the [Sony a6400](https://www.bhphotovideo.com/c/product/1453770-REG/sony_ilce_6400l_b_alpha_a6400_mirrorless_digital.html), which is set to debut at the end of March 2021. 
+   
+   If you are in need of a camera before the Sony a6400 release, we recommend considering the [Sony A7C](https://www.bhphotovideo.com/c/product/1592776-REG/sony_alpha_a7c_mirrorless_digital.html) as listed in the packages below. 
 - Camera Lens: TBD - Coming Soon!
  - Mount for Microphone - [Example](https://docs.google.com/spreadsheets/d/1rKwZwP7hvYSqm3BL4wPmVNDQtYkXPSX3SfUElBIhX38/edit#gid=1367060180)
 
@@ -128,7 +131,7 @@ This package is very advanced and intended for those with a high need of profess
 
 ##### Camera
 
-- Black Magic Pocket Cinema (Professional Camera) - [Example](https://www.bhphotovideo.com/c/product/1560510-REG/blackmagic_design_pocket_cinema_camera_4k.html)
+- Sony A7C - [Example](https://www.bhphotovideo.com/c/product/1592776-REG/sony_alpha_a7c_mirrorless_digital.html)
 - Camera Lens - [Example](https://www.bhphotovideo.com/c/product/1540746-REG/olympus_v314090bu000_m_zuiko_digital_ed_12_45mm.html)
 - Mount for Microphone - [Example](https://docs.google.com/spreadsheets/d/1rKwZwP7hvYSqm3BL4wPmVNDQtYkXPSX3SfUElBIhX38/edit#gid=1367060180)
 
@@ -157,7 +160,6 @@ _This device attaches to the camera to allow a script to be read while speaking 
 - Tripod - [Example](https://www.bhphotovideo.com/c/product/1527795-REG/manfrotto_mkelmii4bk_bh_element_mii_aluminum_tripod.html)
 - Camera Desk Mount - [Example](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/Master-Mount-L/p/10AAB990)
 - Optional clamp to attach camera to a lightstand, or support the lavalier - [Example](https://www.bhphotovideo.com/c/product/1422139-REG/smallrig_2164_multi_functional_crab_shaped_clamp.html)
-
 
 ##### Production Switcher
 
