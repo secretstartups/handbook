@@ -17,7 +17,7 @@ Co-selling with Alliance partners can help GitLab expand it's sales reach and im
 
 # Sales force Tagging 
 
-Read more [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#alliances-and-oems) on how alliance deals are tagged and defined in the Channel Team's handbook page. Below is a more detailed overview of different types of deals, how they are tagged, and categorized as partner influenced sales for GitLab.
+Read more [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#alliances-and-oems) on how alliance deals are tagged and defined in the Channel Team's handbook page. Below is a more detailed overview of different types of deals, how they are tagged, and categorized as partner influenced sales for GitLab. Alliance attainment will be measured by Assist, Fullfullment, and Sourced types of oppertunities. 
 
 ## Open Pipeline 
 
