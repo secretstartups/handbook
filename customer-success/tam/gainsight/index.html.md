@@ -128,7 +128,7 @@ When updating account information, be sure that you select the correct account. 
 
 Gainsight offers a semi-automated email feature called Email Assist, which is accessible to TAMs using Calls to action in the Cockpit. We recommend using Email Assist tasks when TAMs need more control over the scheduling and content of the email. A TAM will select the individual contacts to send the email to, and the email contents can be customized as needed.
 
-For the full list view this [internal only google doc](https://docs.google.com/document/d/1NSxAH_CynFMeHUo05_N_bsh0ZRg1xyV69174l15zYaI/edit?usp=sharing).
+A full list of available emails can be found in a GitLab-only [Google Doc](https://docs.google.com/document/d/1NSxAH_CynFMeHUo05_N_bsh0ZRg1xyV69174l15zYaI/edit?usp=sharing). In the future, we'll move this information to a GitLab project.
 
 TAMs can send these emails to customers in one of two ways:
 
