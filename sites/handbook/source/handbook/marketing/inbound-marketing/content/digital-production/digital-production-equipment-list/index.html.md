@@ -40,13 +40,15 @@ twitter_creator: "@gitlab"
 
  These packages are for GitLab Employees in need of higher level production equipment for elevated content such as conferences and video packages. Select only one of the packages below, based on your needs. 
 
-### Advabced Camera Package
+### Advanced Camera Package
 ---
 
 ##### Camera
 
 - Camera: 
-   - Digital Production is awaiting to an upcoming interation on the [Sony a6400](https://www.bhphotovideo.com/c/product/1453770-REG/sony_ilce_6400l_b_alpha_a6400_mirrorless_digital.html) as they release to find a suitable candidate for a mid-level camera. If you are in need of a camera in the short term, we recommend considering the [Sony A7C](https://www.bhphotovideo.com/c/product/1592776-REG/sony_alpha_a7c_mirrorless_digital.html) as listed in other packages below. 
+   - The Digital Production team is awaiting the release of the [Sony a6400](https://www.bhphotovideo.com/c/product/1453770-REG/sony_ilce_6400l_b_alpha_a6400_mirrorless_digital.html), which is set to debut at the end of March 2021. 
+   
+   If you are in need of a camera before the Sony a6400 release, we recommend considering the [Sony A7C](https://www.bhphotovideo.com/c/product/1592776-REG/sony_alpha_a7c_mirrorless_digital.html) as listed in the packages below. 
 - Camera Lens: TBD - Coming Soon!
  - Mount for Microphone - [Example](https://docs.google.com/spreadsheets/d/1rKwZwP7hvYSqm3BL4wPmVNDQtYkXPSX3SfUElBIhX38/edit#gid=1367060180)
 
