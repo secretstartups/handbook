@@ -20,6 +20,22 @@ First, be sure to validate the following:
 1. The currency listed in the offer package in Greenhouse should normally be the local currency of the new team member unless they explicitly request USD/EUR because their local currency has a lot of inflation. This needs to be confirmed and approved by our People Ops Analyst prior to making the offer, as any changes to the currency will require complete reapproval in Greenhouse, regardless if it is the same amount just in a different currency.
 1. Confirm if the team member would be an employee or contractor and [through which entity the team member would be employed or contracted](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab). If the team member wants to be contracted through a company, it can either be their own established legal entity or a separate and unaffiliated 3rd party company; please confirm which with the team member prior to sending out the contract. If the team member will be contracted through their own entity (or as an independent contractor), please use the BV Contractor Agreement. If the team member will be contracted through a 3rd party company, please inform Legal so that we can enter into a vendor contract with the company. The 3rd party company will then enter into a contract with the team member, and People Ops Analyst will provide the necessary specific salary and position information.
 
+### Entity Contract Signatories
+| Entity | Signatory | 
+|-----------------|-------------|
+| GitLab Inc | Kelly Murdock  | 
+| GitLab Federal LLC    |       TBD      |  
+| GitLab BV Belgium, Dutch & English | TBD | 
+| GitLab BV, Netherlands | TBD | 
+| GitLab GmbH | Kelly Murdock | 
+| GitLab PTY Ltd, Australia | TBD | 
+| GitLab PTY Ltd, New Zealand | TBD | 
+| GitLab Ireland LTD | Carol Teskey | 
+| GitLab UK Ltd | Carol Teskey | 
+| GitLab Canada Corp | TBD | 
+| GitLab GK, Japan | TBD | 
+| GitLab IT BV | TBD | 
+
 ### Send the contract through Greenhouse
 
 1. Once the offer package has been approved in Greenhouse and the recruiter has given the verbal offer, go to the candidate's profile in Greenhouse. Verify the address is listed on the details tab. If the address is not listed you can locate it on the background check, or in the reference request email reply.
