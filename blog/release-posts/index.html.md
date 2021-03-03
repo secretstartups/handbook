@@ -436,7 +436,7 @@ PM Director/Group Manager, PMM, and Product Design reviews are highly recommende
 
 ##### Recommendations for optional PM Director/Group Manager and PMM Reviews
 
-As Director, PMM, and Product Design reviews are not required, but recommended, PMs should consider a few things when determining which content blocks to request a review for:
+As PMM reviews are not required, but recommended - and Product Leader and Product Design reviews are optional - PMs should consider a few things when determining which content blocks to request a review for:
 
 - Does the feature contribute to a Group or Stage's overall Direction?
 - Does the feature contribute to increasing a Category's maturity?
