@@ -39,6 +39,7 @@ Value drivers describe what organizations are likely proactively looking for or 
 | [Command Plan](/handbook/sales/command-of-the-message/command-plan/) | how GitLab has operationalized Command of the Message and MEDDPPICC into the opportunity management process |
 | [MEDDPPICC](/handbook/sales/meddppicc/) | proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations | 
 | [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) | tips and tricks for navigating the Metrics conversation with customers |
+| [Customer Logo Deck](https://docs.google.com/presentation/d/1UKVfxDm6KNpWCjoAcWp0AfX1yaLT10FK-zbbFZLAwZE/edit#slide=id.gc300321b28_0_273) | our full approved customer logo deck that can be used in sales presentations |
 
 ## GitLab Differentiators
 
