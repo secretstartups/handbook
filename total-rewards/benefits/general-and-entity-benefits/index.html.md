@@ -164,21 +164,9 @@ If applicable, commissions are paid while on parental leave based on the prior t
 
 Additionally, effective Q1 FY22, commissioned roles are eligible to receive quota relief during their parental leave if the team member has been with GitLab for eight months or longer. The team member will recieve credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave.  After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would recieve an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated OTI based off the number of days that a team member is in seat. Please see a [reference slide here](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an example of how the quota relief process and calculation works. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
 
-For Sales roles with a utilization attainment, like the [Professional Services Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics), the utilization attainment is based on delivering above 70% of available billable hours (1792 hours/year). If the above 70% is met, the PSE is eligible to receive 100% attainment.  
+For Sales roles with a utilization attainment, like the [Professional Services Engineer](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics), since the utilization attainment is based on delivering above 70% of available billable hours, we apply the baseline attainment linked to utilization attainment, 50%. 
 
-| Effective Utilization Attainment| Effective Utilization Payout|  
-| ------ | ------ | 
-| 0% - 70%| 0% | 
-| 70.01% | 100% | 
-
-At the end of 90 continuous days of parental or medical leave, a one time payment of the 50% baseline billable utilization attainment will be paid.  Utilization payout during parental or medical leave is not based on prior individual performance, since projects identified for billable utilization are based on sales engagements and services attached, and not determined by individual performance.
-
-| Billable Utilization Attainment | Billable Utilization Payout |
-| ------ | ------ |
-| 50% - 70% | 50% |
-| 70% - 90% | 75% |
-| 90% - 100% | 100% |
-| Every 5% over 100% | +1% |
+At the end of 90 continuous days of parental or medical leave, a one time payment of the 50% billable utilization attainment will be paid.  Utilization payout during parental or medical leave is not based on prior individual performance, since projects identified for billable utilization are based on sales engagements and services attached, and not determined by individual performance.
 
 On the day you return from leave, the utilization payout returns to the established utilization attainment ranges.
 
