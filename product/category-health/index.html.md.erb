@@ -24,7 +24,7 @@ _Note: [How this data is aggregated, and instructions on what fields required up
                     <% category = data.categories[categoryKey] %>
                         <% categoryRow = [] %>
                         <% categoryRow << "**#{group.name}**" %>
-                        <% categoryRow << category.name %>
+                        <% categoryRow << "<a name=\"#{category.name}\"></a>#{category.name}" %>
                         <% categoryRow << "[Direction](#{category.direction})" %>
                         <% categoryRow << "[Investment Plan](/handbook/product/investment/##{group.name})" %>
                         <% categoryRow << ( group.pi_gmau? ? "[GMAU](#{group.pi_gmau})" : '' ) %>
