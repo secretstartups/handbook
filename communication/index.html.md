@@ -104,7 +104,7 @@ Additionally, add the `~"Manager Mention MR"` label to the merge request.  This 
 
 Comments without a manager tagged will be closed with a link to this handbook section or closed without comment.
 
-MRs should not start out as a Manager Mention MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI.
+MRs should not start out as a Manager Mention MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI. An exception to this is compensation changes since they have historically generated many comments.
 
 When an MR is changed to be `Manager Mention`, the person making this change should add a comment stating this so that everyone tracking the MR can be informed.
 
