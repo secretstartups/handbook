@@ -53,7 +53,7 @@ At a high level, the process is:
 | ------ | ------ |
 | By the 7th | The **Release Post Manager** creates a branch on `www-gitlab-com` and MR in that project that will collect all the release post items in to a single blog entry <br><br> Note for TWs and Messaging Leads: to avoid potential merge conflicts later during content assembly, please **do not** merge updates from `master` to the release post branch even if you notice it falling behind. The **Release Post Manager** has sole responsibility of the release post branch and will take care of merging from `master` as part of the content assembly process on the 18th. |
 | 1st - 10th | **PMs** contribute individual MRs for all of their content blocks (top/primary/secondary features, deprecations, removals, and upgrades) as release post items in the `/data/release_posts/unreleased` directory. For primary items, PMs will also add the item to `features.yml`.<br><br>**EMs** can also contribute individual MRs for deprecations, removals, and upgrades as release post items in the `/data/release_posts/unreleased` directory.<br><br>**PMs** add recurring content blocks for Omnibus improvements, deprecation warnings, and more |
-| by the 16th | **PMMs, TWs, and PM Directors** review individual release post items MRs <br><br>**EMs and PMs** contribute to MRs for Performance Improvements and Bug Fixes
+| by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) review individual release post item MRs <br><br>**EMs and PMs** contribute to MRs for Performance Improvements and Bug Fixes
 | by the 17th | **EMs** merge those MRs in to master as the features they represent are merged in to the GitLab codebase.<br><br>**Release Post Manager** merges recurring content blocks for performance improvements and bug fixes. Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
 | on the 18th | At 8 AM PT, (3 PM UTC) the **Release Post Manager** aggregates all the content blocks by updating the release post branch from the `master` branch, and moving all the "unreleased" items into the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the MVP for the release and selects a cover image<br><br>The **Messaging lead** picks a top features and/or themes to highlight and finalizes the introduction content |
 | 18th - 20th | The **Release post manager, Messaging Lead, and TW Lead** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release post manager**. |
@@ -68,6 +68,7 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 - [**Messaging lead**](#messaging-lead)
 - [**PMM reviewers**](#pmm-reviewers)
 - [**TW lead**](#tw-lead)
+- [**Product Design reviewers**](#product-design-reviewers)
 - [**TW reviewers**](#tw-reviewers)
 - [**Technical advisors**](#technical-advisors)
 - [**Engineering Managers**](#engineering-managers)
@@ -434,11 +435,11 @@ A feature should be `primary` if the feature:
 
 #### Reviews
 
-PM Director/Group Manager and PMM reviews are highly recommended, but the Tech Writer review is the only one required for inclusion in the Release Post. Tech Writer review is required even when late additions are made to the release post after the 18th of the month. The Tech Writing review should be focused on looking for typos, grammar errors, and helping with style. PMs are responsible for coordinating any significant content/tech changes. Communicating priority about which release post items are most important for review will help Product Section leads, PMMs, and Tech Writers review the right items by the 10th of each month, so ensure the proper labels are applied to the MR and assign reviewers to the MR when it is ready for them to review (ex: `Tech Writing`, `Direction`, `Deliverable`, etc).
+PM Director/Group Manager, PMM, and Product Design reviews are highly recommended, but the Tech Writer review is the only one required for inclusion in the Release Post. Tech Writer review is required even when late additions are made to the release post after the 18th of the month. The Tech Writing review should be focused on looking for typos, grammar errors, and helping with style. PMs are responsible for coordinating any significant content/tech changes. Communicating priority about which release post items are most important for review will help Product Section leads, PMMs, and Tech Writers review the right items by the 10th of each month, so ensure the proper labels are applied to the MR and assign reviewers to the MR when it is ready for them to review (ex: `Tech Writing`, `Direction`, `Deliverable`, etc).
 
 ##### Recommendations for optional PM Director/Group Manager and PMM Reviews
 
-As Director and PMM reviews are not required, but recommended, PMs should consider a few things when determining which content blocks to request a review for:
+As PMM reviews are not required, but recommended - and Product Leader and Product Design reviews are optional - PMs should consider a few things when determining which content blocks to request a review for:
 
 - Does the feature contribute to a Group or Stage's overall Direction?
 - Does the feature contribute to increasing a Category's maturity?
@@ -446,11 +447,11 @@ As Director and PMM reviews are not required, but recommended, PMs should consid
 - Does the feature have considerable customer demand?
 - Does the feature represent a significant UX improvement?
 
-If the answer to any of these is "yes", it is recommended that you coordinate with your Director and PMM to review the content block by the 16th. As the PM it is your responsibility to communicate what MRs need review from the TWs, PMMs, and Directors as well as the MRs relative priority if you have multiple content block MRs that need reviews.
+If the answer to any of these is "yes", it is recommended that you coordinate with your Director, PMM, and Product Design counterpart to review the content block by the 16th. As the PM it is your responsibility to communicate what MRs need a review from the TWs, PMMs, Product Designers, and Directors as well as the MRs relative priority if you have multiple content block MRs that need reviews.
 
 #### Merging Content Block MRs
 
-Engineering Managers are the DRIs for merging these MRs when the feature is merged in to the codebase itself. This allows all of the relevant parties (Product Managers, PMMs, Section Leads, Technical Writers) to have enough time to review the content without having to scramble or hold up engineering from releasing a feature.
+Engineering Managers are the DRIs for merging these MRs when the feature is merged into the codebase itself. This allows all of the relevant parties (Product Managers, PMMs, Product Designers, Section Leads, Technical Writers) to have enough time to review the content without having to scramble or hold up engineering from releasing a feature.
 
 To enable Engineering Managers to merge their feature blocks as soon as an issue has closed, please ensure all scheduled items you want to include in the release post have content blocks MRs created for them and have the `Ready` label applied when content contribution and reviews are completed.
 
@@ -872,6 +873,19 @@ of each individual release post item that falls under their
 When the PM creates the release post item merge request, they should assign to the TW
 of their group for review (required). The process of the TW review is described in the
 [release post item template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md).
+
+### Product Design Reviewers
+
+**Note:** Product Designers [DRIs](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) review the individual release post items according to the [stage/group each designer is assigned to](https://about.gitlab.com/handbook/product/categories/#devops-stages).
+{: .alert .alert-info}
+
+_Each PM is responsible for pinging their Product Design counterpart when they need a review on the content or visuals within a release post._
+
+Product Designers should collaborate on release post items and review:
+
+- **JTBD**: Ensure that the messaging encapsulates how the item supports a user’s [Job to be Done](https://about.gitlab.com/handbook/engineering/ux/jobs-to-be-done/).
+- **MVC messaging**: Articulate any design vision or future iterations if applicable. This is especially important when considering items that are [under construction](https://about.gitlab.com/handbook/values/#under-construction), or contribute toward a Category’s maturity.
+- **Artifacts**: Validate that UI elements (screenshots, GIFs) included in the post are up to date and reflect all design changes. Ensure that no mocks are used. 
 
 ### Engineering Managers
 
