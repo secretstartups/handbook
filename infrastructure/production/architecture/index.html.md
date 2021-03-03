@@ -32,7 +32,7 @@ This document does not cover servers that are not integral to the public facing 
 ## Current Architecture
 {: #infra-current-archi-diagram}
 
-### GitLab.com VM and Kubernetes Architecture
+### GitLab.com Production Architecture
 {: #gitlab-com-architecture}
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vShfNY5bxtjAsYq-YBDAJAnyjBuxN0i62NoDvbmhvDVOrCas20_Q4XA8Qxm1D2v0mmemP9y-rDsRQFe/pub?w=800">
