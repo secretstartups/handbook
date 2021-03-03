@@ -13,108 +13,137 @@ description: "March 2021 edition of the Field Flash Newsletter sent to the GitLa
 *This email newsletter was originally sent to the GitLab Field Team and stakeholders on 2021-03-01.*
 
 ## NEW ⚡️ GitLab Field Flash: March 2021 Edition⚡️
-Happy New Year! In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you’ll find more details about Sales Kick Off (SKO) 2021 and President’s Club 2021, updated competitive resources, the first role-based Field Certification course and more. Plus, Michael Scott and David Thomas (DT) walk through a great example of landing with vision with new logo in the banking industry. And, we learn more about Ricardo Amarilla’s craziest bucket list item in his team member spotlight. 
+In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find recordings from Sales Kickoff 2021, resources for competing with GitHub, important Sales Ops updates, easier ways to locate customer case studies, DIB certification and much more. Plus, Ruben Govender and team explain how they closed an Ultimate SaaS deal with one of the largest department stores in the U.S. in two months. And, we learn more about Competitive Intelligence Manager Aleeta Bell in her Team Member Spotlight.
 
-### Deal of the Month 🏅
-Michael Scott and David Thomas (DT) outline how they landed with vision at a major banking firm. They share how a strong champion, Command of the Message, Professional Services, Partners and more helped them land an initial Q3 deal of 200 Premium users and a $100k PS engagement with huge expand potential into thousands of users, $200K+ of additional PS and Ultimate.
+### GitLab SKO 2021 – Watch it Again! 
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/ho1vDpvRhms" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/8WOIBgb8j8k" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Have a deal you'd like to nominate? Fill out the [nomination form](https://forms.gle/7AYwzgFStrai5D2F7).
+NEW: Watch the video above for a recap of SKO 2021 – a full week (42 hours!) of exciting new content and activities that brought us together and allowed us to celebrate as one team from all corners of the globe. We heard from 75 internal and external presenters who together delivered 94 presentations, all helping us chart the course to reach our Peak Performance together in FY22: land with vision, expand with purpose, attach services, scale with partners and alliances, and retain customers.
+
+Here are the follow-up resources and action items from SKO: 
+1. **Watch it Again:** You can now relive some of the best moments from SKO! All keynote and breakout recordings are [available in GitLab Learn](https://gitlab.edcast.com/channel/sales-kickoff-sko-2021). 
+1. **Dig Into the Slides:** You can find links to the slides for each presentation in its video description in [GitLab Learn](https://gitlab.edcast.com/channel/sales-kickoff-sko-2021). (You can also find links to the videos and slides on the [SKO Handbook page](/handbook/sales/training/SKO/#sko-2021-day-1-sessions).) 
+
+Questions? Reach out in #sko-virtual-2021.
+
+### Deal of the Month 🏅
+Ruben Govender, Brian Wald, Laurie Howitt and Kasim Ahmad share how they closed a Q4 FY21 Land deal with a major U.S. department store chain for 825 seats of Ultimate SaaS and more than $661K of IACV. Learn how this team beat out GitHub and closed the deal in only 2 months with the help of cross-team collaboration, strong customer relationships, GCP, Professional Services and more. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/2QBSr_N4ZtU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### New and Noteworthy Resources 📓
-Are you ready to reach your Peak Performance? [SKO 2021](/handbook/sales/training/SKO/) will take place virtually during the week of Feb 8-12, 2021 with time zones for AMER/EMEA and APAC. Check out our SKO Theme Reveal and look out for registration and pre-work details in mid-January. [Watch Now -->](https://vimeo.com/487653102)
+Watch this short video from Mike Pyle (VP, Enterprise Sales) for insights into proactively countering GitHub/Microsoft – framing your customer's decision, preempting this competitive threat, and enabling your champions to advocate for GitLab. (Unable to view the video? [Click here](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).) [Watch Now -->](https://www.youtube.com/watch?v=Al8oPwyLHJA&feature=youtu.be)
 
-Less than 4 weeks left to secure your spot at President’s Club 2021 at the Ritz Carlton in Maui, Hawaii from May 11-14, 2021! Access President's Club selection criteria and FAQs on the [President's Club Handbook page](/handbook/sales/club/). [See the leaderboard -->](https://app.periscopedata.com/app/gitlab/670929/FY21-President's-Club-Dashboard)
+GitLab Free has more features and functions than GitHub Team, and the Competitive Intelligence team has updated the Decision Kit with more details. Point your customers to this page during your conversations. [Check it Out -->](https://about.gitlab.com/devops-tools/github-vs-gitlab/license-comparison/)
 
-Learn how the U.S. Army Cyber School created secure, collaborative coursework with GitLab CI/CD, DevOps, and SCM. And, learn how Nebulaworks replaced three tools with GitLab to achieve speed and agility. [Read More - U.S. Army -->](https://about.gitlab.com/customers/us_army_cyber_school/) [Read More - Nebulaworks -->](https://about.gitlab.com/customers/nebulaworks/)
+93% of the Sales organization completed this year’s Engagement Survey! See our strengths and areas for improvement, and learn what leadership will do to focus on Growth & Development in FY22. [See the Results -->](https://docs.google.com/presentation/d/1ZjtdCm2F8QjqW3p7_eJbI1zQcTmPesTDifnwVs1-gyY/edit#slide=id.gb36007daf2_0_0)
 
-#### More Resources ➕
-1. Blog Post: [GitLab’s unified and integrated monitoring and deployment strategies](https://about.gitlab.com/blog/2020/11/23/cd-unified-monitor-deploy/)
-1. Whitepaper: [Growing IT & Business Resilience through DevSecOps](https://learn.gitlab.com/gov-digital-transformation-4/growing-it-business-resilience)
-1. Whitepaper: [Building a ModernDevSecOps Software Factory](https://learn.gitlab.com/gov-digital-transformation-6/building-modern-devsecops-software-factory)
+You can quickly and easily find customer case studies by using the Case Study Board, which is updated each time we publish a new Case Study. Search by Use Case, Value Driver, Product Replaced, Integrations, and more. [Use it Today -->](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/boards/1804878) 
+
+Learn how the British Geological Survey revolutionized its software development lifecycle by removing barriers with GitLab’s intuitive, single platform for improved efficiency, source code management, and CI/CD. [Read More - BGS -->](https://about.gitlab.com/customers/bgs/)
+
+We have released our first iteration of our Diversity, Inclusion and Belonging (DIB) certification and have made it available to the wider community. Also, in celebration of International Women’s Day, be sure to check out the [Panel Conversations](https://gitlab.com/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/diversity-and-inclusion/-/issues/587) on March 4 and 5 featuring some of our Field team members! [Get DIB Certified -->](https://gitlab.edcast.com/journey/dib-training-certification)
+
+IBM and GitLab are helping customers accelerate their DevOps adoption. In this video message, hear from Evaristus Mainsah, GM at IBM, on how we will grow the GitLab Ultimate for IBM Cloud Paks business together in FY22 and beyond. [Watch Now -->](https://www.youtube.com/watch?v=7XPeammuyx8&feature=youtu.be)
+
+Learn about how the power of GitLab Auto DevOps can help increase productivity and speed up releases. [Read More -->](https://about.gitlab.com/blog/2021/01/22/cd-automated-integrated/)
 
 ### Did You Know? 🔢
-**New certifications for customers!** Professional Services is excited to soft-launch 3 new technical certifications in Q4 for customers attending our remote trainings:
-1. [GitLab Certified Project Management Specialist](https://about.gitlab.com/services/education/gitlab-project-management-specialist/)
-1. [GitLab Certified Security Specialist](https://about.gitlab.com/services/education/gitlab-security-specialist/)
-1. [GitLab Certified DevOps Professional](https://about.gitlab.com/services/education/gitlab-certified-devops-pro/)
+Finance and Sales Operations have collaborated to introduce a **new bookings policy that will determine the correct period to close a sales-assisted deal**. This policy is effective 2021-02-01, and can be [reviewed in full here](/handbook/sales/field-operations/order-processing/#fy22-bookings-policy). 
+
+*Policy Summary*
+
+1. New Business, Add-On, and Renewal Opportunities with non-zero Net ARR can be closed no more than 15 days prior to the Quote Start Date.
+1. Flat Renewals can be closed on or after the Quote Start Date.
+1. Late Renewals will be Closed Lost if the renewal is not achieved within 45 days after the Quote Start Date (i.e. Renewal Date).
+
+*Important Notes*
+
+1. Exceptions must receive CFO approval.
+1. Sales should continue to submit opportunities for approval as requirements are met. Deal Desk will hold the opportunity until it is ready to be approved per this policy.
+1. Licenses/Entitlements will continue to be sent to the customer upon opportunity closure.
 
 ----
-**The Competitive Intelligence team made updates to more than 8 competitive resources last month** in order to keep information updated and comprehensive for your use in conversations with customers and prospects. Some highlights include:
-1. [JFrog Artifactory Analysis](https://about.gitlab.com/devops-tools/jfrog-vs-gitlab/jfrog-artifactory/) - Now provides a more detailed comparison between JFrog and GitLab Package Management.
-1. [GitLab vs. Veracode Page Update](https://about.gitlab.com/devops-tools/ca-veracode-vs-gitlab/) - Added details about GitLab's competitive strengths and weaknesses against Veracode
-1. [GitLab vs. GitHub SAST](https://about.gitlab.com/devops-tools/github-vs-gitlab/devsecops-missing-github-capabilities/) - Added a new table comparing GitHub Code Scanning to GitLab SAST
-1. [GitLab vs. Azure Multistage Pipelines](https://about.gitlab.com/devops-tools/azure-devops-vs-gitlab/multi-stage-pipelines/) - Added a comparison between GitLab and Azure DevOps approach to executing multi-stage pipelines
-
-[See this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/614) for the full list of updates. Remember that you can find all competitive content on the [DevOps Tools Landscape page](https://about.gitlab.com/devops-tools/).
-
-----
-In the spirit of Iteration and Collaboration, **the Risk and Field Security Team has launched several new pieces of Sales and Customer Success Collateral**:
-1. Blog Post - [How GitLab uses Third Party Security ratings to boost Customer Confidence](https://about.gitlab.com/blog/2020/12/18/how-gitlab-uses-third-party-security-ratings-to-build-customer-confidence/) along with [GitLab's BitSight Rating Report](/handbook/engineering/security/security-assurance/risk-field-security/customer-assurance-package.html#bitsight) on the Customer Assurance Package page.
-1. [Redesigned Trust Center](https://about.gitlab.com/security/) with more resources related to privacy and data protection.
-1. Updated [Customer-Facing Security FAQ Page](https://about.gitlab.com/security/faq/).
-
-Please post any questions in #sec-fieldsecurity.
+**As we shift to ARR, we will start forecasting in Clari accordingly**. Below are high-level details, expectations and changes you'll see in Clari. [See the full details and workback plan here](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1945). Reach out with questions in the #clari-users Slack channel.
+1. Team(s) impacted: All Field Sales Members and Managers who forecast in Clari
+1. Timing: Effective Immediately all forecasting in Clari should be done in ARR
+1. How: Utilize the ARR tab to review and input your forecast overrides
+1. What's Changing: In terms of timing and process, there's NO CHANGE. Instead of IACV, you'll now be forecasting in ARR.
 
 ### What's New in GitLab 🚀
-The GitLab 13.7 release is live! Here are the takeaways for customers and prospects:
-- **Increase Operational Efficiencies:** 13.7 features multiple enhancements to package and dependency management, ensuring less development time goes to waste. This includes the added option to quickly find and view generic packages. It also includes multiple improvements to GitLab's Dependency Proxy – the ability to avoid Docker rate-limits and speed up pipelines with the Dependency Proxy, use the Dependency Proxy with private projects and use pre-defined variables with the Dependency Proxy instead of relying on defined variables or hard-coding values in the gitlab.ci-yml file.
-- **Increase Operational Efficiencies:** Enhanced cross-collaboration means customers spend less time managing projects and more time developing valuable features. New project management features in 13.7 make it easier to efficiently collaborate across groups and projects, including the addition of merge request reviewers, which allows customers to quickly find out who's involved in the merge request or request a formal review that will send them a notification. This also includes the ability to clone issues with quick actions and sort issues by blockers to uncover which issues are blocking progress for other issues.
-- **Deliver Better Products Faster:** Get value into customers’ hands sooner and more frequently with improved automation and deployment flexibility, including a new feature to automatically revert an unsuccessful deployment back to the last successful deployment and send an automatic status notification, and the ability to view deployment status in the Environment page. 13.7 also features the first officially supported beta of GitLab Runner container on Red Hat OpenShift and the Certified Runner Operator to give customers even more flexibility over how they release with GitLab. 
+The GitLab 13.9 release is live! Here are the takeaways for customers and prospects:
+- **Reduce Security and Compliance Risk:** Teams no longer have to worry about balancing the security and availability of production environments with the new Security Alert Dashboard, which allows teams to discern between suspicious network activity that needs to be blocked immediately or that only needs further attention, minimizing disruption to users.
+- **Increase Operational Efficiencies:** The latest release further supports distributed teams through reduced downtime and increased visibility. This includes GitLab’s new Maintenance Mode, which enables read-only availability of customers’ instances during admin tasks. This also includes the addition of  Release Analytics at the group level, which continues to grow our support of [DORA metrics](/handbook/marketing/strategic-marketing/devops-metrics/).
+- **Deliver Better Products Faster:** 13.9 makes the path to “better products, faster” much more attainable with automation that helps identify redundancies in configuration and automation that helps mitigate complexity by making it easier to view pipeline configurations broken into many files and manage deployment processes leveraging parent-child or multi-project pipelines with resource groups.
 
-[Visit the 13.7 Release Post for more details](https://about.gitlab.com/releases/2020/12/22/gitlab-13-7-released/)
+[Visit the 13.9 Release Post for more details](https://about.gitlab.com/releases/2021/02/22/gitlab-13-9-released/)
 
-To see what's ahead in 13.8, watch the [kickoff videos](https://www.youtube.com/watch?v=bWKdW-s9o9E) or check out the [kickoff review page](https://about.gitlab.com/direction/kickoff/).
+To see what's ahead in 13.10, watch the [kickoff video](https://www.youtube.com/watch?v=NYX-thYThCo) or check out the [kickoff review page](https://about.gitlab.com/direction/kickoff/).
 
 ### Upcoming Events 🎟
 **Corporate/Regional Event Spotlights**
-- AMER: [Advanced CI/CD Virtual Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1815) - Jan. 13
-- AMER [PubSec: Security Workshop for US PubSec](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1960) - Jan. 12
-- APAC: [Japanese Webinar: Agile Planning & Project Management](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2146) - Jan. 28
-- EMEA: [Advanced CI/CD Workshop EMEA (English)](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1822) - Jan. 26
-- Global: [DevOps Platform Live Demo and Q&A](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1697) - Jan. 7
-- Global: [CI Use Case Live Demo](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1701) - Jan. 21
+- EMEA: [EMEA GitLab Connect](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1829) - March 25
+   - GitLab Connect EMEA is a virtual event that will cover all elements of a successful DevOps transformation. Attendees will get access to custom tracks depending on the role they play in the DevOps journey.
+   - Share the [registration link](https://hopin.com/events/gitlab-connect-emea-25th-march-2021?ref=3f207287f274) with customers!
+- AMER: [GitShamRocked Whisky Tasting Virtual Event](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2185) - March 11
+- AMER PubSec: [Advanced CI/CD Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2100) - March 18
+- APAC: DevSecOps Virtual Roundtables - [SEA Ent](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2490), [SEA MM](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2491), [ANZ Ent](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2492) - March 2020
 
 For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
 
 **Channel Webinars**
-- Check out our new [GitLab Partner Channel via BrightTalk](https://www.brighttalk.com/channel/18613/) where you can access all Partner Webcasts and sign up for upcoming Partner Sessions.
+- [GitLab Partner Webcast](https://www.brighttalk.com/webcast/18613/472331?utm_source=GitLab+Inc.&utm_medium=brighttalk&utm_campaign=472331) - APAC - March 11
+- [GitLab Partner Webcast](https://www.brighttalk.com/webcast/18613/472327?utm_source=GitLab+Inc.&utm_medium=brighttalk&utm_campaign=472327) - AMER/EMEA - March 11
+
+Want the latest on Partner webinars? Subscribe to our [GitLab Partner Channel](https://www.brighttalk.com/channel/18613/). 
 
 ### Enablement Corner 🧠
-In December 2020, the Field Enablement team launched the first [role-based field certification course](/handbook/sales/training/field-certification/) – Building Success Plans – to the global Technical Account Manager team in GitLab Learn, our new Learning Experience Platform (LXP). Initial feedback has been positive and we look forward to onboarding other teams on the new learning platform in the coming weeks.
+Check out the Spring 2020 lineup of Sales Enablement LevelUp Webcasts! The team has exciting content planned, including:
+1. Co-Selling with IBM
+1. Co-Selling with AWS
+1. Co-Selling with GCP
+1. Product Update: Incident Management
+
+And many more! [See the full schedule here](/handbook/sales/training/sales-enablement-sessions/).
 
 ### Team Member Spotlight 🔦
 
-#### [Ricardo Amarilla - Technical Account Manager](https://about.gitlab.com/company/team/#ricardo.amarilla)
+#### [Aleeta Bell, Competitive Intelligence Manager](https://about.gitlab.com/company/team/#abell2)
 
-![Ricardo-Amarilla-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Ricardo_Amarilla_TMS_Thumb.png)
+![Aleeta-Bell-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Aleeta_Bell_TMS_Thumb.png)
 
 **Where did you grow up, and where are you based now?**
 
-I was born and raised in Asunción-Paraguay, where I am also based. I have never lived abroad.
+I grew up in Richmond, Virginia and am currently based outside of Atlanta in Lawrenceville, Ga.
 
 **What is your favorite thing about your job?**
 
-The freedom I have in choosing the best time to do my job is something I have never experienced before. GitLab enables me to find the right balance between family, friends, and work.   
+I love being able to work remotely!
 
 **Which of GitLab's Values resonates most with you?**
 
-Collaboration – at GitLab, everyone is willing to help and collaborate, which is unique. Even though we are all-remote, I never feel disconnected thanks to this level of collaboration. 
+Our Diversity, Inclusion & Belonging value
 
 **Do you have a helpful tip for working at GitLab to share?**
 
-Our customers usually have Technical Communities in MeetUp, LinkedIn, or other platforms. I would recommend participating in some of them for networking purposes. Besides learning new things, it has also helped me re-engage with some accounts.
+GitLab has great competitive content publicly available on our [DevOps Tools page](https://about.gitlab.com/devops-tools/) that can help you improve your posture in competitive deals.  Use it with customers and feel free to share your feedback with us in the #competition Slack channel!
 
 **What is a hobby or skill you have that the team might not know about?**
 
-I started playing paddle a few weeks ago; this is a new hobby for me. Besides this, I spend my spare time with my family, running, and riding my bike. 
+Cooking from scratch - I can make a yummy sweet potato pie! 
 
-**Icebreaker: What's the craziest thing on your bucket list?**
+**Icebreaker: What’s the craziest fashion trend you ever rocked?**
 
-Participate in an Ironman Triathlon.
+A Jheri curl….. 😂
+
+**Icebreaker: What’s something about you that people would be surprised to know?**
+
+I was a teenage single mother. I worked three jobs in college, while maintaining a full time Electrical Engineering course load, to support my son and I.
 
 ----
 
@@ -122,5 +151,5 @@ Participate in an Ironman Triathlon.
 
 *See the [Field Flash Newsletter handbook page](/handbook/sales/field-communications/field-flash-newsletter/) for more information about this newsletter.*
 
-*Archive: Edition 10, Description: January 2021 Field Flash*
+*Archive: Edition 12, Description: March 2021 Field Flash*
 

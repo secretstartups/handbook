@@ -107,6 +107,8 @@ For a full list of virtual events, see a convenient [calendar view in the Market
 
 #### [Evon Collett - Partner Help Desk Specialist](https://about.gitlab.com/company/team/#ecollett)
 
+![Evon-Collett-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Evon_Collett_TMS_Thumb.png)
+
 **Where did you grow up, and where are you based now?**
 
 I grew up mostly in West Richland, Washington. I am now based in Lehi, Utah (USA), living with my two youngest brothers.
