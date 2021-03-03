@@ -122,7 +122,9 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
 |	Japan	|	Japan	|	Large-APAC-Japan-1	|	Tadashi Murakami	|
-|	APAC	|	APAC	|	Large-APAC-Large-APAC-1	|	Rob Hueston	|
+|	Japan	|	Japan	|	Large-APAC-Japan-2	|	Eiji Morita	|
+|	Japan	|	Japan	|	Large-APAC-Japan-3	|	Yuki Murakami	|
+|	APAC	|	APAC	|	Large-APAC-Large-APAC-1	|	Danny Petronio	|
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-2	|	Rob Hueston	|
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	|
 |	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-4	|	Hui Hui Cheong	|
@@ -296,4 +298,10 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Southern Europe	|	Europe South	|	SMB-EMEA-Southern Europe	|	Camilo Villanueva
 |	UKI	|	UKI	|	SMB-EMEA-UKI-1	|	Tim Guibert
 |	UKI	|	UKI	|	SMB-EMEA-UKI-2	|	Tim Guibert
+
+### SMB First Order
+
+| Sub-Region | Area | **Territory Name** | Sales | 
+| ---------- | ---- | -------------- | ----- | 
+|	AMER	|	US West	|	SMB-AMER-West-FO	|	Todd Lauver	|
 
