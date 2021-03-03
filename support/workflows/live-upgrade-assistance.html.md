@@ -63,7 +63,7 @@ advance of the production upgrade.
       request can now be scheduled.
    1. The DRI(s) will locate a Support Engineer to perform the live upgrade call.
    1. This Support Engineer will schedule the call via Zoom and reply to the user
-      with the details of how to connect. This should occur no later than 24 hours
+      with the details of how to connect. This should occur no later than 1 full business day
       before the upgrade window.
    1. The Live Upgrade Assistance call happens (see
       [What does live upgrade assistance look like](/support/scheduling-live-upgrade-assistance.html#what-does-live-upgrade-assistance-look-like)).
