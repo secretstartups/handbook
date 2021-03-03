@@ -59,22 +59,14 @@ The [CI Digital Enablement content](https://docs.google.com/document/d/1otgcT0U4
 - [Customer Programs 20K< >50K Epic](https://gitlab.com/groups/gitlab-com/-/epics/1384)
 
 ### How To Use
-Instructions on adding contacts to the digital onboarding journey can be found [here](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/)
+Instructions on adding contacts to the digital onboarding journey can be found [here](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/).
 
-TAMs who wish to send Digital Journey emails to their customers have 2 methods:
-
-#### Gainsight Assist gmail plugin  
-1.  Install the Chrome plugin [Gainsight Assist](https://chrome.google.com/webstore/detail/gainsight-assist/kbiepllbcbandmpckhoejbgcaddcpbno)  
-1.  Configure the plugin domain (just “gitlab” of gitlab.gainsight.com) and login  
-1.  Choose “Compose an email” from the Gainsight plugin panel in Gmail  
-1.  Search for the template you wish to send  
-1.  (optional) Enter Primary Recipient from Gainsight contacts. This will auto-complete any other tokens in the email template based on the Company record for each contact.  
-1.  Click “Apply Template” to have a draft email populated in Gmail, ready for you to send to the customer.  
+TAMs who wish to send Digital Journey emails to their customers can send by applying via playbooks:
 
 #### CTA with a [Playbook](/handbook/customer-success/tam/gainsight/#ctas)
-Some emails intended to be sent as a sequence have been added as Playbooks in Gainsight. These need to be sent manually by the TAM, but are setup to facilitate reminders and make this process easy, while we learn how customers want to engage. To use a playbook to send emails:
+Program emails intended to be sent as a sequence have been added as Playbooks in Gainsight. These need to be sent manually by the TAM, but are setup to facilitate reminders and make this process easy, while we learn how customers want to engage. To use a playbook to send emails:
 1.  In Gainsight, create a new CTA
-1.  Type: Lifecycle, choose the Playbook (example:  Commercial Onboarding Email Series). This creates a new CTA with a checklist for each email in the sequence.
+1.  Type: Digital, choose the Playbook (example: New Customer Onboarding - Self-Managed Digital Journey). This creates a new CTA with a checklist for each email in the sequence.
 1.  Click the whitespace next to the name of the next email to be sent, then on “Validate Email”.
 1.  This opens an editor where you can choose contacts and modify the email before sending it.
 1.  Click “Preview and Proceed” to see the fully populated and formatted email before sending.
