@@ -74,7 +74,7 @@ Program emails intended to be sent as a sequence have been added as [playbooks](
 
 ### Requesting a new Journey
  
-To request new programs or updates, use the Sales Ops board and apply the program request or new program template. Then @mention a Gainsight administrator.
+To request new programs or updates, open an issue in the [CS Ops project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) and apply the program request or new program template. Then @mention a Gainsight administrator.
 
 #### Filtering fields
  
