@@ -112,7 +112,7 @@ In Japan, for a team member to qualify for subsidized day care, they need to dem
 
 To initiate a change in name please complete the following:
 
-- Team member: Open an access request issue following our [handbook instructions](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) to request to change your name and all other applicable systems.
+- Team member: Open an access request issue following our [handbook instructions](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) to request to change your name and all other applicable systems.
 - Team member: Email people-exp@gitlab.com, total-rewards@gitlab.com, and payroll@gitlab.com linking your access request issue and including legal documents with proof of your requested name.
 - People Experience: Update Name in BambooHR 
 - People Experience: Update email adress in BambooHR and this will sync to Okta and GSuite.
