@@ -466,14 +466,15 @@ After the content assembly starts on the 18th of the month and before the 20th, 
 ##### Process for merging late additions
 
 - Ping the Release Post Manager (RPM) in `#release-post` to request adding a late addition for the release post, and wait for the RPM to give confirmation to proceed. The release post manager will do their best to accommodate the request, but it is not guaranteed.
-- If the RPM approves the late addition, then PM and RPM will decide which option below to proceed with:
-  1. PM closes the original MR and creates a new MR from the `release-X-Y` branch. PM assigns MR to the release post manager to review and merge.
-  2. PM closes the original MR, and PM or release post manager creates a new yaml file for the content block as a direct commit on the release post MR. PM notifies release post manager to review.
+- If the RPM approves the late addition, then PM and RPM will proceed by:
+   - PM closes their original release post item MR, and PM or release post manager creates a new yaml file for the content block as a direct commit on the release post `release-X-Y` branch. PM notifies release post manager to review.
 
-In both cases:
+Take note of the following:
 
 - If the feature is primary and you had not previously added it to `features.yml` you will need to create a second MR, branched from `master` to add the feature to `features.yml`. (`features.yml` should be merged to `master`, not the release post branch.)
-- If the feature has an image it should be placed in `/source/images/unreleased/` on the `release X-Y` branch
+- The release post yml file should be placed in `/data/release_posts/x_y/` on the `release X-Y` branch
+- If the feature has an image it should be placed in `/source/images/x_y/` on the `release X-Y` branch
+- Ensure that the `image_url` field in the release post yml file points to the image file under `/source/images/x_y/`
 
 ##### Process for removing merged content blocks
 
