@@ -327,7 +327,6 @@ In other words:
 
 For more detailed answer, see [self-managed release timelines](/handbook/engineering/releases/#self-managed-releases-1).
 
-
 ### When will my merge request be deployed?
 
 We currently create an auto-deployment branch at a [specific
@@ -392,6 +391,12 @@ Depending on the bug details, follow one of the following processes:
 - For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the 22nd of the month please also alert the Release Managers in [#releases]. 
 - For [high severity bugs affecting GitLab.com](https://about.gitlab.com/handbook/engineering/releases/#gitlabcom-releases-1)
 
+### What should I do if a stable branch is broken?
+
+See the [How to fix a broken stable branch] guide for details about this process.
+
+___________
+
 If you need any additional help please ask the Release Managers in the [#releases] Slack channel.
 
 [semver]: https://semver.org
@@ -422,3 +427,4 @@ If you need any additional help please ask the Release Managers in the [#release
 [Deployment blockers]: /handbook/engineering/releases/#deployment-blockers
 [pre.gitlab.com]: /handbook/engineering/infrastructure/environments/#pre
 [release.gitlab.net]: /handbook/engineering/infrastructure/environments/#release
+[How to fix a broken stable branch]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md
