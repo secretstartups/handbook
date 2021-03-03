@@ -9,7 +9,6 @@ GitLab collects information in order to help us understand how you use our produ
  
 #### SaaS GitLab.com software
 GitLab collects information about how you use the features and functionality of our SaaS service, such as the number of projects, pipelines, issues, MRs, etc.
-
 We do not collect any information on the contents of your projects.  
 
 For SaaS users only, we automatically log information about how you interact with the site, such as the date and time of visit, and the pages you have viewed or links clicked on.
