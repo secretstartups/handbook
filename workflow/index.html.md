@@ -128,7 +128,7 @@ The merge request author of the change that broke master is the resolution DRI. 
 1. If the broken `master` affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
    open new merge requests **directly against the stable branches** which are
    broken and ping the current release manager in the merge requests to avoid
-   delays in releases / security releases. Optionally, post a message in `#releases`.
+   delays in releases / security releases. See [How to fix a broken stable branch guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md) for more details.
 1. Reactions by the resolution DRI in `#development` should follow this guidance:
    * `:eyes:` - applied by the resolution DRI (or backup) to signal acknowledgment
    * `:construction:` - applied by the resolution DRI to signal that work is in progress on a fix
