@@ -8,7 +8,11 @@ description: "GitLab's Service Usage Data policies"
 GitLab collects information in order to help us understand how you use our products and services, so that we can improve and build better products and services. For information on what is collected and your options, please see below: 
  
 #### SaaS GitLab.com software
-GitLab collects information about how you use the features and functionality of our SaaS service, such as number of projects, pipelines, issues, MRs, etc. We do not collect any information about the name of your projects or what your projects contain.
+GitLab collects information about how you use the features and functionality of our SaaS service, such as the number of projects, pipelines, issues, MRs, etc.
+
+We do not collect any information on the contents of your projects.  
+
+For SaaS users only, we automatically log information about how you interact with the site, such as the date and time of visit, and the pages you have viewed or links clicked on.
 
 #### Self-managed GitLab software
 GitLab collects information about usage from each Self-managed GitLab instance (Community Edition and Enterprise Edition) through Usage Ping. Usage Ping sends a payload containing data such as total number of projects and pipelines, as well as license information and hostname to GitLab. Only aggregates of usage data is sent to GitLab, we do not collect any information about the name of your projects or what your projects contain. You can view the exact payload of the usage ping in the administration panel in GitLab. To opt-out of the usage ping, follow the instructions [here](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping).
