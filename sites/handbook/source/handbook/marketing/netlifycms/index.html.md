@@ -50,8 +50,28 @@ To edit or create a new topic page in Netlify CMS, do the following:
 1. Update your content
 1. Select "save". This may take a minute to complete.
 1. Switch to the "workflow" tab to see your draft and what stage it is in the editorial process.
-1. Visit GitLab and locate the associated merge request with your edit. 
-    * If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=netlify-cms%2Fdraft)
+1. Visit GitLab and locate the associated merge request with your edit.
+    - If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=netlify-cms%2Fdraft)
+1. Assign the merge request to yourself, and assign a reviewer if it's ready to reviewed.
+1. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged.
+
+## Creating a new or editing a existing Typeform page
+
+A typeform page is a landing page that includes a embeddable typeform on it. Here is an example: [https://about.gitlab.com/quiz/devsecops-security-checklist/](https://about.gitlab.com/quiz/devsecops-security-checklist/)
+
+Typeform pages managed through Netlify CMS exist at [https://about.gitlab.com/quiz/](https://about.gitlab.com/quiz/) url. The content is located stored in the [/data/typeform](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/typeform) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files through the admin interface.
+
+To edit or create a new topic page in Netlify CMS, do the following:
+
+1. Get your typeform embedable code from your Typeform account on [https://www.typeform.com/](https://www.typeform.com/)
+1. Follow steps above for [accessing the admin](/handbook/marketing/netlifycms#accessing-the-admin)
+1. Select the Typeform from the left hand sidebar
+1. Select the existing typeform landing page you want to edit, or select "New Typeform" from the top
+1. Update your content - pasting your embedd code in the typeform embedd field
+1. Select "save". This may take a minute to complete.
+1. Switch to the "workflow" tab to see your draft and what stage it is in the editorial process.
+1. Visit GitLab and locate the associated merge request with your edit.
+    - If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=netlify-cms%2Fdraft)
 1. Assign the merge request to yourself, and assign a reviewer if it's ready to reviewed.
 1. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged.
 
