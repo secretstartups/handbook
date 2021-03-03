@@ -77,12 +77,30 @@ All translated pages live in a sub-folder dedicated to a specific language. Thes
 
 Search engines use the `hreflang` tag to determine a canonical version for translated pages. We'll use `hreflang` on our translated pages.
 
-The canonical version of our site will the United States English version on `about.gitlab.com`. We will not use any language sub-folders on this version of our marketing website.
-
 `hreflang` tags start with declaration `<link rel="alternate"`, adds URL `href={{url}}`, and ends with `hreflang={{language ISO}}`
 
 Example of a hreflang tag for a URL translated to German.
 
 `<link rel="alternate" href="https://about.gitlab.com/de/warum/nutze-continuous-integration-fuer-schnelleres-bauen-und-testen/" hreflang="de" />`
 
-We set the hreflang when needed in the frontmatter for a page with the language specific ISO Code, in German for example `frontmatter: de`.
+The canonical version of our site will the United States English version on `about.gitlab.com`. We need to add all versions of a page under the page title and link to each one with the appropriate language noted. [Google provides this example](https://developers.google.com/search/docs/advanced/crawling/localized-versions?visit_id=637504000817145606-3833240924&rd=1):
+
+```
+<head>
+ <title>Widgets, Inc</title>
+  <link rel="alternate" hreflang="en-gb"
+       href="http://en-gb.example.com/page.html" />
+  <link rel="alternate" hreflang="en-us"
+       href="http://en-us.example.com/page.html" />
+  <link rel="alternate" hreflang="en"
+       href="http://en.example.com/page.html" />
+  <link rel="alternate" hreflang="de"
+       href="http://de.example.com/page.html" />
+ <link rel="alternate" hreflang="x-default"
+       href="http://www.example.com/" />
+</head>
+```
+
+It's important to note we need to declare the default page from our repository as the canonical version to avoid penalities across Google properties.
+
+Aleyda Solis maintains a great [tool to build `hreflang` tags](https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/) we can use for reference as well.
