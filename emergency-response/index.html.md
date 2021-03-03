@@ -22,7 +22,6 @@ In the template the Security team should include details including CTA, email bo
 
 ## Standard Process
 This is the process to follow when there is an announcement that is an emergency that will need to be sent by the marketing ops and campaigns team. The marketing teams will determine what platform will be used based on the information that is provided to them such as timing, list size and severity.
-
 ### 1. **Requesting team notifies that an emergency communication is needed**
 - Immediately slack #mktgops and include the incident issue and the incident slack channel. If there is not a prompt response, follow on-call procedures.
 ### 2. **Issue Creation**
@@ -34,7 +33,7 @@ This is the process to follow when there is an announcement that is an emergency
 - Include any custom fields you need created for `mail-merge` in the email. Include field max lengths needed, or best guess. Mktops will determine if they can use an existing field or not.
 ### 3. **Issue in Process**
 - Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue/carrier pigeon!
-- List size and complexity will determine what [email platform](/handbook/marketing/emergency-response/#Email-Platform-to-Use) we will need to use. 
+- List size and complexity will determine what [email platform](/handbook/marketing/emergency-response/#email-platform-to-use) we will need to use. 
 ### 4. **Email Ready to Deploy**
 - Email team will send a sample to the requestor and stakeholders for their review - preferably, there is a quick Zoom sync to double check send size, variable fields, email copy and time of send.
 - Requestor must approve in the issue before the email will be sent.
