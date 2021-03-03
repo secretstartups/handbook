@@ -370,13 +370,14 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
      - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)     
-- (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
-- (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
-- (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
-- (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
-- (Coming in Nov) BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region]()
-- (Campaigns Only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
-- (Campaigns Only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
+- (MCM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
+- (MCM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
+- (MCM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
+- (MCM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
+     - For Events using HopIn, follow all steps below in addition to steps outlined here.
+- (MCM use only BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region]()
+- (MCM use only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
+- (MCM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 
 ##### Step 2: Sync to Salesforce
 
@@ -533,6 +534,24 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
+
+#### Steps to Use HopIn Connector
+Follow all of the set up steps [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#Steps-to-Setup-Marketo-programs-and-Salesforce-Campaigns). You will also need to do go into the `Hopin Integration` folder in the Owned Event Template and you will see several smart campaigns and a form.
+
+1. `01a Registration from Hopin` is used if you are using HopIn registration pages. This smart campaign triggers off of a custom activity `Registers for HopIn Event` and will add the registrant to the proper campaign. 
+   - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
+   - When token is updated, you can turn on. No changes are necessary for the Flow.
+   - Do not turn on if you are not utilizing HopIn registration pages
+1. `01b. Push Registrants to HopIn from Marketo` is used if you are utilizng a Marketo landing page to capture registration for the HopIn Event.
+     - To use, you will need to update the local `HopIn Registration form` with the `Ticket Integration Code` this field is already on the form, but must be updated to match the specific code in HopIn.
+     - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. There will be a code for each of the ticket types you have. Keep this handy for the next step.
+     - Navigate to the local form (or request [Mops issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)) If you only have a single ticket for your event, add the Ticket Integration Code to the `Ticket Integration Code` field on the form. If you have multiple ticket types, you will need to create a select dropdown that holds the Integration Codes as stored values ([ask Mops to do this for you](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)).
+    - No changes are necessary for the campaign flow. The flow will request a Webhook, which will push the registrant into HopIn. 
+    - Approve the form, and embed it on a landing page
+    - Once form is live, turn on `01b. Push Registrants to HopIn from Marketo`. Do not turn on if you are only utilizing HopIn registration pages
+1. `02 Attended Hopin` is used to track attendees of the event - it will not track individual sessions, only overall attendance.
+   - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. In the Smartlist, Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
+   - When token is updated, you can turn on. No changes are necessary for the Flow.
 
 #### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
 We have listeners set up in Marketo listening certain parameters. Please check the `Marketo Listener` column below to see if a program is already set up in Marketo. If it is, you do not need to create a new listener. Otherwise, please follow the process outlined below to ensure leads are being captured.
