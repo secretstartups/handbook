@@ -124,7 +124,7 @@ If an offer is not made or an offer is not accepted, there are opportunities to 
 #### Team Retrospective
 
 Upon the completion of the internship, participating teams will be asked to complete
-a retrospective. This will follow the process used for GitLab's monthly[team retrospectives](/handbook/engineering/management/team-retrospectives/).
+a retrospective. This will follow the process used for GitLab's monthly [team retrospectives](/handbook/engineering/management/team-retrospectives/).
 Engineering managers should create an issue in the [gitlab-com/engineering-internships](https://gitlab.com/gitlab-com/engineering-internships) project using the `Retrospective` template and customize it for their team. This issue will initially be confidential.
 
 During the retrospective all team members should be encouraged to contribute, even if they didn't work directly with the intern, so that a complete picture of the effect on the team can be built.
