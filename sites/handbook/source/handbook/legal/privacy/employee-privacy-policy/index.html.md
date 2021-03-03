@@ -34,7 +34,7 @@ The websites of GitLab (e.g., [about.gitlab.com](/)) have separate privacy polic
 
 *Third Party Services*
 
-In some cases, you may provide personal information to third parties that GitLab works with or that provide services to GitLab.  This includes, those parties identified in the [Tech Stack Application](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0) document (“Third Parties”).
+In some cases, you may provide personal information to third parties that GitLab works with or that provide services to GitLab.  This includes, those parties identified in the [Tech Stack Application YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) (“Third Parties”).
 
 The Tech Stack is updated periodically to ensure accurate, up-to-date disclosure of employee and customer third party applications used at GitLab.  This particular policy applies to those applications identified as relating to Employee applications.  The use of such Third Party websites may be governed by separate terms of use and privacy policies which are not under our control and are not subject to this Privacy Policy. Please contact such Third Parties for questions regarding their privacy practices, as well as if you would like to have them modify, update, alter or delete your personal information.  Please understand that there are exceptions to rights surrounding personal data relating to employment.  GitLab is required to maintain certain employment information by law.
 
@@ -114,7 +114,7 @@ Where permitted by law and applicable we may collect the results of credit and c
 
  - Information relating to any previous applications you may have made to GitLab and/or any previous employment history with GitLab.
 
-For specifics about what information is collected by third party applications, please refer to the [Tech Stack Applications](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0).
+For specifics about what information is collected by third party applications, please refer to the [Tech Stack Applications](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).
 
 Apart from personal information relating to yourself, you may also provide us with personal data of related parties, notably your dependents and other family members, for purposes of your HR administration and management, including the administration of benefits and to contact your next-of-kin in an emergency. Before you provide such third-party personal data to us you must first inform these third parties of any such data which you intend to provide and of the processing to be carried out by us. You must ensure and secure evidence that these related parties, or their legal representatives if they are minors, have given their free and express consent that their personal data may be processed by GitLab and/or its affiliates and subcontractors for the purposes described in this Privacy Policy.
 
