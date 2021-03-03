@@ -9,7 +9,7 @@ Employer (or "workplace") awards and lists recognize GitLab's unique culture and
 
 The Talent Brand Manager works closely with the Corporate Communications team (Jenn Leslie) and the Highwire PR team (`#external-comms` Slack channel) on the employer/workplace awards process. 
 
-*Employer awards definition:* Any external award program focused on recognizing best workplaces, company culture, or employee experience. 
+*Employer awards definition:* Any external award program focused on recognizing best workplaces, company culture, or team member experience. 
 
 Some awards and recognition lists are determined by the program organizers without input from GitLab, but many require an application and sometimes a team member survey. There is often a cost associated with applying for larger award programs. The Recruiting team does not currently have designated budget for these costs for FY22, so the Talent Brand Manager will work with the Corporate Communications team to determine what will fit in the overall awards budget for each quarter.
 
@@ -32,7 +32,7 @@ Steps for the Talent Brand Manager:
 1. If the application requires demographic (e.g. headcounts) or detailed benefits information: Create a Google Sheet with the info needed and clear instructions, and send a message to the `#total-rewards` Slack channel to request the info. It's best to allow a 2-week turnaround time for most awards when possible, and at least 4 weeks for extensive applications (like Great Place to Work).
 1. If the application requires information that you don't know and that's not in the handbook: Tag the appropriate team to ask for input on the Google Doc application. Note: Lots of typical application answers can be found in the [handbook](/handbook/). See the `'helpful links'` section below. 
 1. When the application Google Doc is fully completed, tag Jenn for review before submitting. 
-1. If GitLab is recognized, share with the VP of Recruiting and Chief People Officer, and work with Jenn and the Corporate Communications team to open the approriate issues in the Corporate Marketing project for promoting the win both internally and externally. 
+1. If GitLab is recognized, share with the VP of Talent Acquisition and Chief People Officer, and work with Jenn and the Corporate Communications team to open the approriate issues in the Corporate Marketing project for promoting the win both internally and externally. 
 1. Once wins are public, be sure to equip the Recruiting team with any suggested candidate messaging to promote the win. Also update the [awards list](/handbook/people-group/employment-branding/content-library/#awards-and-lists-recognizing-gitlab-as-a-great-place-to-work) in the content library.  
 
 
