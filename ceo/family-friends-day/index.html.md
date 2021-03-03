@@ -19,6 +19,8 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 ## Upcoming Family and Friends Days
 
 1. `2021-03-19` 
+1. `2021-04-16`
+1. `2021-05-28`
 
 We will look at scheduling future dates at the end of January 2021 pending the global COVID-19 situation. Because we are living in unprecedented times and are trying to give our Team Members some extra space in their lives outside of work. In line with our [Paid Time Off](/handbook/paid-time-off/) policy, we encourage GitLab Team Members to continue to take additional days off, as needed. Family and Friends Day is a reminder to do this.
 
