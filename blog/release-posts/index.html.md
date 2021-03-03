@@ -641,7 +641,7 @@ The messaging lead shares the selected theme for review from the EVP and VP of p
 ##### Marketing coordination
 
 - The Messaging Lead should coordinate additional marketing efforts that take place on release day and in the weeks following, which may include a press release, social media, campaigns, or additional web pages that need to go live. It is recommended that the press release not include a link to the release post so we aren't constrained by any potential delays of the release post. PR sets embargo times with the media in advance that are hard to move the time around should there be any delays with the MR.
-   - Note: External PR and Marketing firms reporting on the release may ping the RPM directly with questions since they are the authors of the release post. The Messaging Lead should coordinate with the RPM to determine how they want to interface with external marketing teams (typically led by Messaging lead).
+   - Note: External PR and Marketing firms reporting on the release or managing media relations may ping the RPM directly with questions, since they are the authors of the release post. The Messaging Lead should coordinate with the RPM to determine how they want to interface with PR, journalists, and analysts, while by default these are led by the Messaging Lead and Marketing).
 - The Messaging Lead should be online and on call to receive Slack messages from 1300 UTC through 1500 UTC (or until the release post ships).
 - The Messaging Lead must be informed by the Release Post Manager if the release gets delayed so that they can coordinate timing with the press or any other team involved in the given release.
 - **Social Media specific coordination**
