@@ -20,6 +20,34 @@ The Security team *should* create an [incident communication request](https://gi
 
 In the template the Security team should include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
 
+## Standard Process
+This is the process to follow when there is an announcement that is an emergency that will need to be sent by the marketing ops and campaigns team. The marketing teams will determine what platform will be used based on the information that is provided to them such as timing, list size and severity.
+
+1. **Requesting team notifies that an emergency communication is needed**
+     - Immediately slack #mktgops and include the incident issue and the incident slack channel. If there is not a prompt response, follow on-call procedures.
+
+1. **Issue Creation**
+     - Request issue utlizing [Incident Communications template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) in the Marketing Operations project.
+     - Fill in as many blanks as you can with as much information as you have available - the issue template will walk you through what is needed. Feel free to add any additional context that may be helpful. If you do not have all the information, that is OK, as we know it is an ongoing development. 
+     - Add Due Date (or best guess)
+     - Include googlesheet of copy document, even if it is blank.
+     - Include approx size of the list - this will determine what email engine we will use and helps immensely in our planning. Over estimate when you are unsure.
+     - Include any custom fields you need created for `mail-merge` in the email. Include field max lengths needed, or best guess. Mktops will determine if they can use an existing field or not.
+
+1. **Issue in Process**
+    - Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue/carrier pigeon!
+    - List size and complexity will determine what [email platform](/handbook/marketing/emergency-response/#Email-Platform-to-Use) we will need to use. 
+    
+    
+1. **Email Ready to Deploy**
+    - Email team will send a sample to the requestor and stakeholders for their review - preferably, there is a quick Zoom sync to double check send size, variable fields, email copy and time of send.
+    - Requestor must approve in the issue before the email will be sent.
+
+1. **Email Launched** 
+    - The email team will provide stats minutes after launch, and at a cadence determined by the announcement team as necessary. 
+         - Note: Full email stats are matured at 48 hours.
+    - Inbox monitoring will be done by the requestor team, unless otherwise stated.
+    
 ### Lists 
 
 1. Most emergency communications the Security team should be providing a list as a Google Sheet in the issue request. 
@@ -29,38 +57,18 @@ In the template the Security team should include details including CTA, email bo
 1. Seldomly, lists need to be created in Salesforce or Marketo using parameters found within the marketing database.  
      - Marketo & Salesforce **do not** contain all records within the user table and vice versa
 
-### Sending Emails 
+### Email Platform to Use
+The email platform determines many different factors for us.
+- [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Will not be used for communications over 20k
+- [MailJet](/handbook/marketing/marketing-operations/mailjet/): Preferable platform for deployment, but it is not onboarded as of 2021-03-01
+- MailGun: If list send is greater than 50k we will use this. This involves engineering and will add 1 day minimum to send
+- [MailChimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends): Only if other platforms are not an option
 
-1. Most emergency communications will be sent to a very targeted list via **Mailchimp**.
-1. Occasionally emails are sent to the explict opt-in Security list via **Marketo**. 
-     - If sending via **Marketo**, the email should be marked as *Operational* which can only be done by an Ops team member
+### Other Considerations
+- List loads greater than 20k take time. Millions may take hours.
+- Each platform has their own limits as to size of CSV that can be uploaded.
+- Lists greater than 100k may be subject to verification, so that we do not risk our sending reputation. Marketing Ops has budget set aside for these, but it will add possible days to the timeline to announce. 
 
 ### Pager Duty
 
 You can page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
-
-### Standard Process
-
-1. Requesting team notifies that an emergency communication is needed
-     - Req issue utlizing [Email Request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) in the Marketing Operations project
-     - Fill in as many blanks as you can with as much information as you have avialable
-1. Requestor should provide a list via Google Sheet or explicitly state the email is being sent to opt-in list
-     - List size will determine what tool is used for sending:
-          - **Large Targeted list provided** = Email sent via Mailchimp (soon to be MailJet)
-          - **Opt-in Security List** = Email sent via Marketo
-1. Requestor will provide email copy for alert including any dynamic fields if necessary.
-     - In **Mailchimp**, there are some dynamic fields, if requested fields are new they can be created. 
-     - In **Marketo**, there are many fields existing already, if requested fields are new they can be created.  
-1. Marketing Operations create Mailchimp Campaign or Marketo Email Program
-     - Naming convention is `ISODate_SecurityAlert`
-1. Marketing Operations will create an email in Marketo or Mailchimp
-1. Test email will be sent to the Security person requesting the email and `security@` 
-1. Screen capture of the email should also be posted to the Issue. 
-1. **Requestor** needs to sign off on email *IN THE ISSUE* before the email can be sent. 
-
-
-
-
-
-
-
