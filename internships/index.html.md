@@ -25,21 +25,26 @@ The following criteria are considered required for candidates to be eligible for
 As an example of an intern position in our job families please review the [Software Engineering Intern job family](/job-families/engineering/software-engineer-intern/) for further details.
 
 #### Duration and timing
-The ideal duration is a minimum of 4 months and a maximum of 12 months depending on the availability of the intern and within the teams of GitLab.  
+
+The ideal duration is a minimum of 4 months.
+
+An internship can start anytime. Since it is a lead-in to our fulltime hiring process, internships it should not be delayed unnessarily. Engineering interships are not specifically linked to a cohort or class, nor to specific seasons such as university semesters or summer breaks.
 
 #### Location
-The internship program will primarily be [remote](/company/culture/all-remote/). Below there's an example of the program setup for 4 months. 
+
+The internship program is [all-remote](/company/culture/all-remote/).
+
+The intern can choose to relocate themselves to a region where there happens to be a cluster of GitLab employees who co-work together (when not during the pandemic). But expenses, travel documentation, and all other considerations need to be handled by the intern. They should keep their manager informed of any plans. If the intern converts to a full-time hire all conditions of their country-of-residence must be met related to their country of residence.
 
 #### Internship day-to-day activities
-1. Week 1: Intern Fast Boot
-    - The program coordinators and mentors will facilitate a pre-defined program. The aim is to onboard the interns, prepare them for their 16 weeks of remote working, and set them up for success.
-    - By the end of Week 1, we expect an intern will:
-        - Have completed key [Day 1-5 onboarding tasks](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
-        - Understand remote work and communication best practices
-        - Set up their development environment
-        - Work with their mentor to understand the development workflow and submit a small MR
-        - Complete a Skill Gap Analysis with their engineering manager
-        - Learn team specific processes
+
+1. Week 1: We expect an intern will:
+    - Have completed key [Day 1-5 onboarding tasks](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
+    - Understand remote work and communication best practices
+    - Set up their development environment
+    - Work with their mentor to understand the development workflow and submit a small MR
+    - Complete a Skill Gap Analysis with their engineering manager
+    - Learn team specific processes
 1. Weeks 2-15: Remote internship
     - An intern's daily schedule will generally reflect [how GitLab team members work](/company/culture/all-remote/getting-started/), which is to say we will not impose a rigid schedule.
     - Interns will be encouraged to favor [async communication](/company/culture/all-remote/management/#asynchronous) and to [set their own work schedule](/handbook/values/#measure-results-not-hours).
@@ -52,12 +57,10 @@ The internship program will primarily be [remote](/company/culture/all-remote/).
         - 2-3 group meetings per week moderated by a program coordinator.
         - Regular pair programming sessions with a mentor and other team members.
 1. Week 16: Intern send-off
-    - The program coordinators and mentors will facilitate a pre-defined program. The aim is to process the experience, gather feedback, and share learnings.
-    - During the Week 16 program, an intern will:
-        - Complete offboarding tasks and hand-off projects if they are not continuing employment with GitLab.
-        - Participate in [retrospectives](/handbook/engineering/internships/#team-retrospective) to help improve the internship program.
-        - Complete final Skills Gap Analysis with their engineering manager
-        - Share experiences and learnings with the company and wider-community through media such as blog posts and GitLab Unfiltered.
+    - Complete offboarding tasks and hand-off projects if they are not continuing employment with GitLab.
+    - Participate in [retrospectives](/handbook/engineering/internships/#team-retrospective) to help improve the internship program.
+    - Complete final Skills Gap Analysis with their engineering manager
+    - Share experiences and learnings with the company and wider-community through media such as blog posts and GitLab Unfiltered.
 
 #### Compensation
 
