@@ -83,7 +83,8 @@ Anytime there is an error, ensure that the export originated from a [compatible 
 
 Here are some tips for searching for import errors in Kibana:
 - Use the pubsub-sidekiq-inf-gprd index pattern (Sidekiq logs) and try to narrow it down by adding filters
-  - json.meta.project: `path/to/project` and filter for json.severity: (not `INFO`)
+  - json.meta.project: `path/to/project`
+  - json.severity: (not `INFO`)
   - json.job_status is `fail`
   - json.class is `RepositoryImportWorker`
 - Use the pubsub-rails-inf-gprd index pattern (Rails logs) and try to narrow it down by adding filters  
@@ -103,7 +104,6 @@ If no error is found and the import is partial, most likely it is a timeout issu
   - See [this comment](https://gitlab.com/gitlab-org/gitlab/-/issues/27742#note_215721494) for an explanation as to why. As artifacts are part of repository size, whether they are present can make a big difference.
 - **Repository shows 0 commits**.
   - See [15348](https://gitlab.com/gitlab-org/gitlab/issues/15348).
-
 
 Use the `GitLab.com::Import::Determine_Eligibility.json` Zendesk macro to make the requestor aware of all of these requirements and get additional details from them. If the requestor's case is approved based on their followup reply, move on to [Stage 2: Offering Import & Preparation](#stage-2-offering-import--preparation).
 
