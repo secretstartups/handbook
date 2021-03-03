@@ -87,7 +87,7 @@ I manually stage and test environments for infrastructure making it hard to trac
    1. *Deliver Better Products Faster:* developer self-service, reusable CI/CD templates.
    1. *Reduce Security and Compliance Risk:* Enforces common controls
 
-#### [7. DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
+#### [7. Usecase: DevOps Platform](/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/)
 **Want to achieve expected results of DevOps given siloed teams, lack of visibility and collaboration which inhibits my speed of delivery** - (**DevOps Platform**)
 I want to manage my entire DevOps lifecycle more efficiently with better outcomes. The number of tools and maintenance of integrations is overwhelming and costly and security is challenging to integrate. My processes may include planning to production or may be a segment of the SDLC. (GitLab examples: Epics, Issue Boards, Source Code Management, CI, CD, Security Scans and Monitoring from GitLab. Value Stream Management: (VSM) helps you visualize and manage the flow of new innovation from ideas to customers. In GitLab, cycle analytics is a key element of managing the value stream.)
 
