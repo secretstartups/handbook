@@ -212,14 +212,18 @@ You can find more about our existing [Train the Trainer program ] (/services/edu
 
 
 
-#### Training and Certifications Roadmap FY21
+#### Training and Certifications Roadmap FY22
 
-GitLab Partner Sales Professional Certification **Q4 FY21**
+GitLab Partner Sales Professional Certification **Q1 FY22**
 
 <img src="/images/partnerenablement/gitlab-certified-sales-professional-personal.png" width="150" alt="" title="GitLab Certified Sales Professional">
 
+Individuals who have completed this certification are able to articulate GitLab solutions, ideal customer personas and needs, industry relevant insights, customer environments where opportunities for GitLab are most relevant, along with GitLab Advanced Use Case positioning.
 
-GitLab Partner Solutions Architect (SA) Certification **Q4 FY21**
+Earning Criteria: Completion of the GitLab Sales Core foundational training plus a minimum of 2 (two) expanded Use Case trainings and score above 80% on the knowledge assessments.
+
+
+GitLab Partner Solutions Architect (SA) Certification **Q1 FY22**
 
 <img src="/images/partnerenablement/gitlab-certified-solutions-architect-personal.png" width="150" alt="" title="GitLab Certified Solution Architect">
 
