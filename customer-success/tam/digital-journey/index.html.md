@@ -55,7 +55,7 @@ The CI Digital Enablement content can be found in a GitLab-only [Google Doc](htt
 
 ### How To Use
 
-Instructions on adding contacts to the digital onboarding journey can be found in [the handbook](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/).
+Instructions on adding contacts to the digital journey can be found in [the handbook](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/).
 
 TAMs who wish to send Digital Journey emails to their customers can send them via playbooks:
 
@@ -64,8 +64,8 @@ TAMs who wish to send Digital Journey emails to their customers can send them vi
 Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/tam/gainsight/#ctas) in Gainsight. These need to be sent manually by the TAM, but they are setup to facilitate reminders and make this process easy, while we learn how customers want to engage. To use a playbook to send emails:
 
 1. In Gainsight, create a new CTA in the Customer 360.
-1. For `Type`, choose "Digital".
-1. Choose the appropriate playbook (example: New Customer Onboarding - Self-Managed Digital Journey) which will add a checklist for each email in the sequence.
+1. For `Type`, choose "Lifecycle".
+1. Then, search "digital" and select the appropriate playbook (example: New Customer Onboarding - Self-Managed Digital Journey) which will add a checklist for each email in the sequence.
 1. Save the CTA.
 1. Click the whitespace next to the name of the next email to be sent, then on “Validate Email”.
 1. This opens an editor where you can choose contacts and modify the email before sending it.
