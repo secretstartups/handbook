@@ -237,6 +237,23 @@ An example report: [Merge requests requiring attention for `group::access` - 202
 Using actual links to the merge requests will update the merge request
 which will remove them from the future report.
 
+### Group level feature flags that may need attention
+
+This report contains feature flags that have enabled in the codebase for 2 or more releases for 
+groups within our [DevOps stages](/handbook/product/categories/#devops-stages).
+
+The DRI is responsible for reviewing these feature flags to determine if they are able to be removed 
+entirely, or create separate issues to ensure the overdue feature flags are removed accordingly.
+
+* Triage owner: Engineering Manager(s) for that group.
+* Triage frequency: On 1st of every month.
+* Triage actions:
+  1. Review the feature flags to identify whether they can be:
+     1. Removed by the Engineering DRI.
+     1. Tracked with a separate issue for removal to be scheduled by the PM for the group.
+
+An example report: [Feature Flags requiring attention for `group::continuous integration` - 2021-03-01](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/2161). Current reports can be found in the [triage-reports project](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues?scope=all&utf8=%E2%9C%93&state=all&search=%22Feature+flags+requiring+attention%22)
+
 ### Community merge requests requiring attention
 
 This report contains open merge requests which has been submitted by the wider
