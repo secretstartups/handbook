@@ -249,7 +249,7 @@ As stated previously, there are instances where applicable law or regulatory req
 
 If you have questions or concerns regarding the handling of your personal information, please contact GitLab's People Success Group or DPO. Alternatively, you may report concerns or complaints to the Legal Department.
 
-You may also anonymously report violations of policy or law using our Third-Party managed Compliance & Fraud Prevention Hotline. You can access the Hotline by going to [How to Contact GitLab's 24 Hour Hotline](/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline)
+You may also anonymously report violations of policy or law using our Third-Party managed Compliance & Fraud Prevention Hotline. You can access the Hotline by going to [How to Contact GitLab's 24 Hour Hotline](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations)
 
 *Changes to Privacy Policy*
 
