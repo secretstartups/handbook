@@ -111,7 +111,7 @@ PhilHealth is a government corporation attached to the Department of Health. It 
 ### Medical Benefits
 
 * GitLab offers International Healthcare Insurance through [NOW Health International](https://www.now-health.com/en/) which covers 100% of team member contributions and 66% for spouse & kids of premiums for medical, vision, dental and maternity coverage.
-* For specific information on how your benefits operate, please read the [NOW WorldCare Member's Handbook](https://drive.google.com/drive/search?q=%22PH-NOW%20WorldCare%20Members%20Handbook%22). Feel free to also peruse NOW Health International’s [document library](https://www.now-health.com/en/document-library/).
+* For specific information on how your benefits operate, please read the [NOW WorldCare Member's Handbook](https://drive.google.com/file/d/1wUtwcJkUqKgW7radXM6pJoTELGGHOyzp/view?usp=sharing). Feel free to also peruse NOW Health International’s [document library](https://www.now-health.com/en/document-library/).
 
 ### 13th Month Pay
 
@@ -140,3 +140,34 @@ Team members are entitled to `five days` of paid vacation leave after 12 months 
 
 #### Applying for Parental Leave in the Philippines
 To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+
+## Kenya
+
+All of the benefits listed below are administered and managed by [Global Upside](https://globalupside.com/).
+
+### Medical (Healthcare Monthly Allowance)
+
+* Healthcare Monthly Allowance will be paid by Global Upside as an allowance to the team members for their own Medical Coverage.
+* This amount will be paid on monthly basis with the regular payroll as a reimbursement.
+* Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount.
+* The allowance will be up to 300 USD per month for team member and up to 500 USD per month for team member plus Dependants. (USD amount can be converted to the local currency using the latest Currency Conversion Factor)
+* The Total Rewards team will email the proof of coverage to Global Upside to have the reimbursement processed.
+
+### Pension
+
+GitLab does not plan to offer pension benefit at this time as Kenya has their Pension system called as [National Social Security Fund (N.S.S.F)](https://www.nssf.or.ke/). 
+
+### Life Insurance
+
+GitLab offers company paid International Group Life and Disability Plans through [Allianz Care](https://drive.google.com/file/d/17y38CQ1XLO0os0sN6Q-LJpmU3dPyUUAx/view?usp=sharing). This covers Life Insurance, Accidental Death $ Accidental Dismemberment, Short Term Disability and Long Term Disability.
+
+## Global Upside - Kenya Parental Leave
+
+### Statutory Maternity Leave 
+
+The Employment Act provides for 3 months of maternity leave to female employees with full pay. Insured employees pay an amount from 30 shillings to 320 shillings per month to the National Hospital Insurance Fund (NHIF), for reimbursing the employer for maternity expenses. Annual leave keeps accruing during maternity leave.
+
+### Paternity Leave 
+
+Fathers of newborn children can take 2 weeks of paid paternity leave post-birth. The NHIF reimburses employers for paternity leave expenses
