@@ -131,44 +131,52 @@ We collaboratively define OKRs as a team with cross functional partners in advan
 
 ## Our Process
 
-Our goal is to deliver a release every 2 weeks. Our release day is always a Wednesday. We can push MRs at any time but for collaborative work initiates we plan a package for delivery to ensure we're improving our customer's experience rapidly.
+Our goal is to deliver a release every 2 weeks. Our release day is always a Wednesday. We can push MRs at any time but for collaborative work initiatives we plan a package for delivery to ensure we're improving our customer's experience rapidly.
 
 ### Sprint Cycle
 
-For FY21 Q4 we have 2 sprint cycles running which start on alternate weeks.
+For FY22 Q1 we have one two-week sprint cycle.
+
 <figure class="video_container">
 <iframe src="https://calendar.google.com/calendar/embed?src=c_g97ibfb3lq183mphm8mnbjfk34%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </figure>
 
 ### Sprint Planning
 
-Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards. We weight these issues and target delivering 10 weight points per sprint.
+Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards and weight them.
 
-This is the template we use for [Sprint Planning](https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit)
+**Weighting**
+
+We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day. In a full two-week sprint, we plan to deliver 20 points per team member.
+
+**Agenda**
+
+We use the [Inbound Marketing Sprint Planning document](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit#heading=h.aa7av9szmk5t) for our planning meetings.
+
 <figure class="video_container">
- <iframe src="https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit"></iframe>
+ <iframe src="https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing"></iframe>
+</figure>
+
+### Sprint Releases
+
+On the second Wednesday of each sprint, we have a calendar reminder for "Sprint Release Async", which serves as a reminder for team members to add to the [Sprint Release Video Document](https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit). 
+
+<figure class="video_container">
+ <iframe src="https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit"></iframe>
 </figure>
 
 ### Sprint Retros
 
 Sprint Retros allow us to reflect on what went well and what we can to do continuously improve our process.
 
-This is the template we use for [Sprint Retros](https://docs.google.com/document/d/1KSds3hjnJ250WWWZ9_uNpU4RYQA82mF3ylAcpsf7fGE/edit)
+This is the agenda we use for [Sprint Retros](https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing)
 <figure class="video_container">
- <iframe src="https://docs.google.com/document/d/1KSds3hjnJ250WWWZ9_uNpU4RYQA82mF3ylAcpsf7fGE/edit"></iframe>
+ <iframe src="https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing"></iframe>
 </figure>
-**Marketing Design System Sprint Planning and Retros**
 
-[https://drive.google.com/drive/u/0/folders/1E0101X1-eYirolSxz-Q96HIdHFJhzzOK](https://drive.google.com/drive/u/0/folders/1E0101X1-eYirolSxz-Q96HIdHFJhzzOK)
+### Sprint Videos 
 
-**CMS Sprint Planning and Retros**
-
-[https://drive.google.com/drive/folders/1req1RC4tdOgKrn-bZEvS5G2nKwuymIKy](https://drive.google.com/drive/folders/1req1RC4tdOgKrn-bZEvS5G2nKwuymIKy?usp=sharing)
-
-**Weighting**
-
-We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day
-
+We release videos for [sprint planning](#sprint-planning), [sprint releases](#sprint-releases), and [sprint retrospectives](#sprint-retros) in the [Digital Experience playlist of GitLab Unfiltered](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing).
 ### Internal Issue Boards
 
 These issue boards were created by the Digital Experience team to track our own workloads for a given release cycle.
