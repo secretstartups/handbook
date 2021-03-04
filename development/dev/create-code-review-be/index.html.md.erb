@@ -223,7 +223,10 @@ It can be hard to understand how you're doing in your role, because feedback can
 The Create:Code Review BE team is responsible for keeping some API endpoints and
 controller actions performant (e.g. below our target speed index).
 
-Here are some Kibana visualizations that give a quick overview on how they perform:
+There are Grafana and Kibana dashboards available that the team can check to
+ensure we are meeting these targets.
+
+Here are the Kibana dashboards that give a quick overview on how they perform:
 
 - [Create::Code Review Controller Actions](https://log.gprd.gitlab.net/app/kibana#/visualize/edit/3a9682e0-205a-11eb-81e5-155ba78758d4?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-7d%2Cto%3Anow))) (internal only)
 - [Create::Code Review: Endpoints](https://log.gprd.gitlab.net/app/kibana#/visualize/edit/55f01d50-28a0-11eb-af41-ad80f197fa45?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-7d%2Cto%3Anow))) (internal only)
@@ -231,3 +234,25 @@ Here are some Kibana visualizations that give a quick overview on how they perfo
 These tables are filtered by the endpoints and controller actions that the group
 handles and sorted by P90 (slowest first) for the last 7 days by default.
 
+The the [Grafana dashboard](https://dashboards.gitlab.net/d/stage-groups-code_review/stage-groups-group-dashboard-create-code-review?orgId=1)
+shows more specific details about each actions and endpoints.
+
+To see the specific details for certain actions/endpoints, it can be filtered
+by `action` and/or `controller`.
+
+### Calendar Invites
+
+There are calendar invites that act as a reminder for backend team members
+to check these dashboards weekly on Monday:
+
+- APAC: Check performance dashboards - set on Monday 12AM UTC
+- AMER: Check performance dashboards - set on Monday 4PM UTC
+
+All backend team members are invited to appropriate calendar invites. This
+does not necessarily mean that we only need to take a look at them at those
+specific times.
+
+If a team member sees that an action or endpoint does not meet our target,
+they should create a performance issue if there's no existing one. If there's
+an existing one, team member can either update the issue, investigate or work
+on the issue (if they have spare time).
