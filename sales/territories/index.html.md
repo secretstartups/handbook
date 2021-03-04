@@ -68,8 +68,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector |
 |	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	|
 |	NA East	|	East	|	Large-AMER-East-Named-6	|	Scott Hall	|
-|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-2	|	Joe Drumtra	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Larry Biegel	|
 |	NA West	|	Southwest	|	Large-AMER-West-1	|	Haydn Mackay	|
 |	NA West	|	Southwest	|	Large-AMER-West-2	|	Alan Cooke	|
 |	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	|
