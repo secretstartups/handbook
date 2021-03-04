@@ -81,7 +81,7 @@ The entire cross-functional team should help in the preparation of the QBR conte
 
 Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation. Teams can handle this on a case by case basis.
 
-When reaching out to engage SAs during qualification/discovery, please provide them with an active SFDC opportunity you are working with along with customer background information. This will enable the SAs to do targeted discovery & will help move the sale faster.
+When reaching out to engage SAs during opportunity qualification and discovery, please provide them with the active SFDC opportunity id and any additional opportunity information (i.e., company background, initiatives, pain points, personas, etc.).  The opportunity information will enable the SAs to execute an efficient and relevant discovery, ensuring our prospects' / customers' optimal experience. 
 
 Solution Architects should participate in [technical discovery](#technical-discovery-and-demo-preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
 
