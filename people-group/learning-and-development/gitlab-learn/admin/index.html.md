@@ -338,8 +338,8 @@ Here is an example of a dynamic group workflow that pulls all GitLab team member
 
 When building a dynamic group workflow for team members, be sure to include the following two rules
 
-1. `Department` should be set to the specific department you're sorting by. This will fill the group with team members who fit that department in BambooHR
-2. `GitLab Internal` should be set to `t`, or `true`. This will make sure that only team members are added to this group and provide an additional level of security to keep groups internal only.
+1. `Department` should be set to the specific department you're sorting by. This will fill the group with team members who fit that department in BambooHR.
+2. `GitLab Internal` should be set to `t`, or `true`. This will make sure that only team members are added to this group.
 
 #### Broadcasting on Channels
 
