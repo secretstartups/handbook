@@ -27,17 +27,20 @@ not need development documentation).
 
 ## Maturity score by service
 
-Key:
-* ✅: Service meets the criteria
-* ❌: Service does not meet the criteria
-* ⚪: We don't measure the criteria yet.  See https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/398 for progress
-
-
+❌ indicates the service does meet even the Level 1 criteria
+ 
 | Service | Level |
 | --- | --- |
 <% data.service_maturity.each do |service, maturity| %>
 | [<%= service %>](#<%= service %>-detail) | <%= maturity_score(maturity) %> |
 <% end %>
+
+### Maturity detail by service
+
+Key:
+* ✅: Service meets the criteria
+* ❌: Service does not meet the criteria
+* ⚪: We don't measure the criteria yet.  See [https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/398](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/398) for progress
 
 <% data.service_maturity.each do |service, maturity| %>
 ### <%= service %> detail
