@@ -12,7 +12,7 @@ description: "Meet the GitLab Legal Team and learn how to engage with us for int
  
 # Welcome to GitLab Legal!
 
-We are glad you are here! GitLab's [LegalTeam](https://about.gitlab.com/company/team/?department=legal) is small but mighty and entirely at your service. 
+We are glad you are here! GitLab's [Legal Team](https://about.gitlab.com/company/team/?department=legal) is small but mighty and entirely at your service. 
 ### Anonymous Internal Ethics and Compliance Reporting
 
 We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
@@ -24,13 +24,13 @@ For quick questions that **_do not_** require legal advice, deliverables, or any
 
 | Type of Request | Process / Information |
 | ------ | ------ |
-| Sales / Customer Related matters (which includes any matter that is, or could potentially be revenue generating) | [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)|
+| Sales / Customer Related matters (which includes any matter that is, or could potentially be, revenue generating) | [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)|
 | Procurement / Vendor (which includes any matters related to a potential purchase by GitLab) | [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) Procurement will engage legal as necessary|
 | *Any Non Sales or Procurement Request (Corporate, Employment or Product & Privacy Questions) | Email: Legal_Internal@gitlab.com |
-| Marketing Request | Use the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/)send to recipient using electronic signature. See [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) for who can sign on behalf of GitLab |
-| NDA Request | Use the [GitLab NDA](https://drive.google.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view)send to recipient using electronic signature. See [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) for who can sign on behalf of GitLab |
+| Marketing Request | Use the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/) |
+| NDA Request | Use the [GitLab NDA](https://drive.google.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view) send to recipient using electronic signature. See [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) for who can sign on behalf of GitLab |
 
-* To ensure the protection of confidential and privileged information, GitLab Legal is proud to use [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) for all general requests.
+*To ensure the protection of confidential and privileged information, GitLab Legal is proud to use [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) for all general requests.
 For more information on Attorney-Client Privilege, see the [General Legal FAQs](https://about.gitlab.com/handbook/legal/#general-legal-faqs) below.  
 
  
@@ -41,7 +41,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
 * [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
 
-### Processes
+## Processes
 * [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
 * [Issue Tracker Workflows](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/)
 * [Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
