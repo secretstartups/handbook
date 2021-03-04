@@ -63,6 +63,10 @@ The Deal Desk team will do their best to respond to each request to '@sales-supp
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
 
+### EOA Ramp Requests SLA 
+
+To be determined
+
 #### Deal Desk - A Global Presence
 
 The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 6:00pm for the local time of the team member, as outlined below. 
