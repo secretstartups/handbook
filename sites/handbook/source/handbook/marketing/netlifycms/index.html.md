@@ -57,7 +57,7 @@ To edit or create a new topic page in Netlify CMS, do the following:
 
 ## Creating a new or editing a existing Typeform page
 
-A typeform page is a landing page that includes a embeddable typeform on it. Here is an example: [https://about.gitlab.com/quiz/devsecops-security-checklist/](https://about.gitlab.com/quiz/devsecops-security-checklist/)
+A typeform page is a landing page that includes a embeddable typeform on it. Here is an example: [https://about.gitlab.com/quiz/devops-platform/](https://about.gitlab.com/quiz/devsecops-security-checklist/)
 
 Typeform pages managed through Netlify CMS exist at [https://about.gitlab.com/quiz/](https://about.gitlab.com/quiz/) url. The content is located stored in the [/data/typeform](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/typeform) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files through the admin interface.
 
