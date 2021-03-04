@@ -1,20 +1,21 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Schedules
-description: Zendesk schedules are like schedules in most other things; windows of time. We use these to determine business hours and various regional working hours.
+title: 'Schedules'
+category: 'Zendesk Global'
+description: 'An overview of the Zendesk Global schedules'
 ---
-
-# Zendesk Schedules
-
-Schedules arein Zendesk are like schedules in most other things: windows of
-time. We use these to determine business hours and various regional working
-hours.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Overview
+
+Schedules arein Zendesk are like schedules in most other things: windows of
+time. We use these to determine business hours and various regional working
+hours.
 
 ## GitLab Schedules
 
@@ -75,10 +76,12 @@ hours.
 
 ## Holidays
 
-All schedules should utilize the same holidays. The ones we currently put into Zendesk are:
+All schedules should utilize the same holidays. The ones we currently put into
+Zendesk are:
 
-* Easter (this is a "moveable feast" holiday, so it changes each year)
+* Easter (this is a "movable feast" holiday, so it changes each year)
 * Christmas (December 25th)
 * New Years Day (January 1st)
 
-On those day, the schedules "stop", which results in the SLA clock not moving. This allows for Support to actually have those holidays "off".
+On those day, the schedules "stop", which results in the SLA clock not moving.
+This allows for Support to actually have those holidays "off".

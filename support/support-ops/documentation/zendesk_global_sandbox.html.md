@@ -1,15 +1,9 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Sandbox
-description: For detailing using the Zendesk Sandbox
+title: 'Sandbox'
+category: 'Zendesk Global'
+description: 'An overview of the Zendesk Global sandbox'
 ---
-
-# Zendesk Sandbox
-
-GitLab's subscription to Zendesk includes a Sandbox environment, which is intended to be used as a testing ground (staging/dev area)
-for all major changes to the support portal prior to deploying those changes to the production instance of Zendesk.
-Operations test changes or wanting to test your own, it is important to know
-the ins and outs of the sandbox.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -17,11 +11,18 @@ the ins and outs of the sandbox.
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Overview
+
+GitLab's subscription to Zendesk includes a Sandbox environment, which is
+intended to be used as a testing ground (staging/dev area) for all major changes
+to the support portal prior to deploying those changes to the production
+instance of Zendesk.
+
 ## Gaining Access
 
 With the Sandbox instance, we only have 50% of the seats our production Zendesk
 instance has available. As such, not every person has a Sandbox account. To
-request one, please utilize an 
+request one, please utilize an
 [access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new)
 to have one provisioned. Please make sure to include:
 

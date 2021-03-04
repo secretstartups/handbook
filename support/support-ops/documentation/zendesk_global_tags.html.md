@@ -1,12 +1,20 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Tags
-description: Tags are words, or combinations of words, you can use to add more context to tickets and topics. Tags can be applied to tickets, users, and organizations.
+title: 'Tags'
+category: 'Zendesk Global'
+description: 'An overview of the Zendesk Global tags'
 ---
 
-# Zendesk Tags
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
 
-From Zendesk:
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+As per
+[Zendesk](https://support.zendesk.com/hc/en-us/articles/203662096-About-tags):
 
 > Tags are words, or combinations of words, you can use to add more context to
 > tickets and topics. You can apply tags to tickets, users, and organizations.
@@ -18,6 +26,7 @@ ticket.
 As there are many, many tags, and new ones get added frequently, we will not
 list them all out here. Instead, here are the ones likely to be the most
 important to those working within Zendesk:
+
 
 ## SLA Related Tags
 
@@ -60,11 +69,11 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 
 | Tag | What it does |
 |---|---|
-| `skip_autosolve`         | Tell Zendesk to not auto-solve the ticket |
-| `skip_autoclose`         | Tell Zendesk to not auto-close the ticket |
-| `skip_autoreopen`        | Tell Zendesk to not auto-reopen the ticket (relating solely to the trigger Ticket::Open::Reopen if agent sets to pending with internal note) |
-| `skip_gdpr_automation`   | Tell Zendesk to not run any Account Deletion automations/autoresponders |
-| `skip_2fa_automation`    | Tell Zendesk to not run any 2FA automations/autoresponders |
+| `skip_autosolve` | Tell Zendesk to not auto-solve the ticket |
+| `skip_autoclose` | Tell Zendesk to not auto-close the ticket |
+| `skip_autoreopen` | Tell Zendesk to not auto-reopen the ticket (relating solely to the trigger Ticket::Open::Reopen if agent sets to pending with internal note) |
+| `skip_gdpr_automation` | Tell Zendesk to not run any Account Deletion automations/autoresponders |
+| `skip_2fa_automation` | Tell Zendesk to not run any 2FA automations/autoresponders |
 | `skip_autosolve_message` | Tell Zendesk not to send a message about the ticket being autosolved. |
 | `skip_autoassign` | Tell Zendesk to not auto-assign the ticket (in reference to these triggers - "Ticket::Assignee::Assign open or on-hold ticket to agent" and "Ticket::Assignee::Assign any on-hold ticket to current agent") . |
 
