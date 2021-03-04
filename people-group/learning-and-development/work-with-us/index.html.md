@@ -17,6 +17,7 @@ The Learning and Development team is available to support GitLab teams in the fo
 | Support Model | When to use this process |
 | ----- | ----- |
 | Hosting a Live Learning event | You'd like to **host** an internal Live Learning session |
+| Creating a GitLab Learn Channel | You'd like to build a new Channel in GitLab Learn to curate professional development content for your team |
 | Creating a new learning pathway | Create a new learning pathway or course for any audience |
 | Uploading to GitLab Learn | Add new or existing learning content to the GitLab Learn LXP |
 | Integrating external content to GitLab Learn | Add off-the-shelf learning from another provider to GitLab Learn |
@@ -33,6 +34,18 @@ To host a live learning event, start by opening an issue in the Learning and Dev
 **Examples of past Live Learning events**: 
 - [Introduction to Coaching](/handbook/leadership/coaching/#introduction-to-coaching-1)
 - [Being an Ally](/company/culture/inclusion/being-an-ally/#ally-training)
+
+### Creating a GitLab Learn Channel
+
+Any team at GitLab can create a new Channel in GitLab Learn to curate, organize, and suggest professional development opportunities for their team members.  Some scenarios where you might want to build a Channel include:
+
+1. You have multiple LinkedIn Learning courses you'd like to showcase
+1. You'd like to track what courses your team is completing
+1. You'd like a single spot to send team members who are looking for professional development courses
+
+To create a new Channel in to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_channel` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template.  
+
+**In future iterations, the L&D team will enable team members and managers to curate and promote content on these channels without needing to involve the L&D team.**
 
 ### Create a new learning pathway
 
