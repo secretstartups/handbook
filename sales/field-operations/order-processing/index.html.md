@@ -41,7 +41,7 @@ This page outlines the Quote to Cash process, starting from account and opportun
     *   [Troubleshooting: True Ups, Licenses + EULAS](/handbook/business-ops/business_systems/portal/troubleshooting/)
     *   [Licensing FAQ](https://about.gitlab.com/pricing/licensing-faq/)
     *   [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
-    *   [Trade Compliance (Export/Import)](/handbook/business-ops/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
+    *   [Trade Compliance](/handbook/business-ops/trade-compliance/)
 
 *   **Other Resources**
 
@@ -216,12 +216,12 @@ Once negotiations are completed, and the digital stamp has been affixed to the f
 
 #### Trade Compliance (Export / Import) and Visual Compliance Tool in SalesForce
 
-1.  Why is Trade (Export / Import) compliance important
+1.  Why is Trade Compliance (Export / Import) important
     1. Not complying could be detrimental to the United States and other countries GitLab operates in
 	1. IT’S THE LAW!
 	1. Not complying could result in fines or penalties for GitLab and/or GitLabbers
 	1. Non-compliance could result in the inability to sell to federal customers, lose the trust of our customers, partners and investors and result in fines or jail time for officers and offenders
-1. For more information on Trade Compliance see [Trade Compliance (Export/Import Control)](/handbook/people-group/code-of-conduct/#trade-compliance-exportimport-control) on the [Code of Business Conduct & Ethics and GitLab People Policy Directory page](/handbook/people-group/code-of-conduct/).
+1. For more information see the [Trade Compliance ](/handbook/business-ops/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) page.
 1. GitLab uses a third party tool called “Visual Compliance” that is connected to our GitLab SalesForce account
 1. This tool checks Account information against various databases to ensure no matches, Accounts are checked repeatedly to ensure GitLab's continued compliance
 
