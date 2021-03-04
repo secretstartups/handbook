@@ -19,8 +19,9 @@ Digital journey content is an extension of our existing documentation and commun
 ### Digital Onboarding Program
 
 The following topics are covered through the digital onboarding series:
-1. Quick guide intro and authentication
-1. Setting up Group and Project hierarchy
+1. Onboarding Introduction and Enrollment
+1. Quick Guide Intro and Authentication
+1. Setting Up Group and Project hierarchy
 1. Import/Export
 1. GitLab Instance - Security Best Practices
 1. Monitoring GitLab
