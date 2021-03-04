@@ -334,6 +334,13 @@ Here is an example of a dynamic group workflow that pulls all GitLab team member
 
 ![workflow-image](/handbook/people-group/learning-and-development/gitlab-learn/admin/workflow-example.png)
 
+###### Dynamic group workflows for team members
+
+When building a dynamic group workflow for team members, be sure to include the following two rules
+
+1. `Department` should be set to the specific department you're sorting by. This will fill the group with team members who fit that department in BambooHR
+2. `GitLab Internal` should be set to `t`, or `true`. This will make sure that only team members are added to this group and provide an additional level of security to keep groups internal only.
+
 #### Broadcasting on Channels
 
 Channels are used to collect and broadcast information based on like content. Users can follow channels to stay up to date on all new learning content in a specific area of interest. 
