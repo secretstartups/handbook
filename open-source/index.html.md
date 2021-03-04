@@ -18,7 +18,7 @@ The purpose of this page is to document how a GitLab employee can:
 - If you use your work email, this could help promote the company by showing that GitLab is giving back to the open source community reflecting our values of [Collaboration](/handbook/values/#collaboration) and [Transparency](/handbook/values/#transparency).
 
 TBD
-- Mention Intellectual Property /handbook/people-group/code-of-conduct/#intellectual-property-and-protecting-ip ?
+- Mention Intellectual Property /handbook/legal/gitlab-code-of-business-conduct-and-ethics/#intellectual-property-and-protecting-ip ?
 - [PIAA](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement) ?
 
 ## Creating an open source project
