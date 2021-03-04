@@ -117,7 +117,11 @@ Use this checklist when organizing your LinkedIn Learning cohort. Here is an exa
 1. Create a temporary Slack channel. This space can be used as a place to remind members about upcoming deadlines, plan synchronous calls, and ask questions. 
 1. Have a celebration! When you've completed the course, consider having a celebration to recap your learning, share takeaways, and recognize your accomplishments. Share your takeaways and badges on your LinkedIn profile if you'd like!
 
-## Provisioning Access 
+## Learning and Development Team
+
+The L&D Team will provision and deprovision access to LinkedIn Learning. If you are on the L&D Team and would like to learn more about LinkedIn Learning, we recommend the [Getting Started as a LinkedIn Learning Admin](https://gitlab.edcast.com/insights/ECL-743da12d-7ead-4d9f-8deb-62a6c93c0790) course. 
+
+### Provisioning Access 
 
 The L&D Team will provision access to team members who want access to paid content on LinkedIn Learning by going through the following steps: 
 
@@ -128,7 +132,7 @@ The L&D Team will provision access to team members who want access to paid conte
 1. Enter team members GitLab email address 
 1. Click "Confirm" in the bottom right 
 
-## Deprovisioning Access 
+### Deprovisioning Access 
 
 The L&D Team will deprovision access to LinkedIn Learning to team members who leave GitLab by going through the following steps: 
 
