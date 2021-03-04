@@ -37,8 +37,7 @@ A pronunciation hint for `Sijbrandij`: It’s like when you have seen some disti
 
 ## Favorite Restaurants
 
-- Favorite places: [Heirloom Cafe](https://heirloom-sf.com/), [Ozumo](http://www.ozumo.com/) (seated in the bar area). [Hakkasan](https://hakkasan.com/locations/hakkasan-san-francisco/), [Mourad](http://mouradsf.com/), [Shizen](https://www.shizensf.com/) (can't make reservations), [Slanted Door](http://www.slanteddoor.com/)
-- Favorite drinks place: [83 Proof](http://www.83proof.com/).
+Moved to a google document internal to GitLab team only. Please search in Google Drive file name: CEO's Favorite Restaurants. If you have questions please message the Staff EBA to the CEO in #eba-team or DM. 
 
 ## Flaws
 
