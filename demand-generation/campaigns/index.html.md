@@ -37,9 +37,17 @@ To be determined
 
 **OKRs = Objective + Key Result**
 
-- **Objective:** TBD
+**[Overall OKRs Epic](https://gitlab.com/groups/gitlab-com/-/epics/1285)**
+
+- **Objective:** [Implement simplified GTM motion and interlock process to increase collaboration](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1831)
 - **Key Results:**
-    - TBD
+    - [Aligned FMM, ABM, Demand Gen & Corporate Marketing to GTM motions completed by end of Feb](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/747) - @jgragnola
+    - [Deprecate previous use cases, campaigns, buyer’s journeys for one SSOT on GTM motions](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2459) - @jgragnola
+- **Objective:** [Launch GitLab SaaS email nurtures and marketing to Free users](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1832)
+- **Key Results:**
+    - [Triggered emails launched to Free.com users](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/748) - @nbsmith
+    - [3 emails sent to every non opted-out Free.com user by end of Q](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/749) - @nbsmith
+    - [500 MQLs attributed to Free.com user emails](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/750) - @nbsmith
 
 ### FY21-22 First Principles
 {: #first-principles}
@@ -321,16 +329,22 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 
 **Q3 FY21 Marketing Milestones:**
 
-- [Mktg: 2020-08-02](https://gitlab.com/groups/gitlab-com/-/milestones/224)
-- [Mktg: 2020-08-16](https://gitlab.com/groups/gitlab-com/-/milestones/225)
-- [Mktg: 2020-08-30](https://gitlab.com/groups/gitlab-com/-/milestones/226)
-- [Mktg: 2020-09-13](https://gitlab.com/groups/gitlab-com/-/milestones/227)
-- [Mktg: 2020-09-27](https://gitlab.com/groups/gitlab-com/-/milestones/228)
-- [Mktg: 2020-10-11](https://gitlab.com/groups/gitlab-com/-/milestones/229)
-- [Mktg: 2020-10-25](https://gitlab.com/groups/gitlab-com/-/milestones/230)
+- [Mktg: 2021-02-14](https://gitlab.com/groups/gitlab-com/-/milestones/238)
+- [Mktg: 2021-02-28](https://gitlab.com/groups/gitlab-com/-/milestones/239)
+- [Mktg: 2021-03-14](https://gitlab.com/groups/gitlab-com/-/milestones/397)
+- [Mktg: 2021-03-28](https://gitlab.com/groups/gitlab-com/-/milestones/398)
+- [Mktg: 2021-04-11](https://gitlab.com/groups/gitlab-com/-/milestones/399)
+- [Mktg: 2021-04-25](https://gitlab.com/groups/gitlab-com/-/milestones/400)
+- [Mktg: 2021-05-09](https://gitlab.com/groups/gitlab-com/-/milestones/401)
+- [Mktg: 2021-05-23](https://gitlab.com/groups/gitlab-com/-/milestones/402)
+- [Mktg: 2021-06-06](https://gitlab.com/groups/gitlab-com/-/milestones/403)
+- [Mktg: 2021-06-20](https://gitlab.com/groups/gitlab-com/-/milestones/404)
+- [Mktg: 2021-07-04](https://gitlab.com/groups/gitlab-com/-/milestones/406)
+- [Mktg: 2021-07-18](https://gitlab.com/groups/gitlab-com/-/milestones/405)
 
 **Campaigns Team Backlog Milestones:**
 
+- [DG-OKRs](https://gitlab.com/groups/gitlab-com/-/milestones/434) - holds issues that are KRs in OKR initiatives
 - [DG-Backlog:Requests](https://gitlab.com/groups/gitlab-com/-/milestones/260) - holds issue requests to be triaged, typically related to Marketo (landing pages, emails, etc.)
 - [DG-Backlog:Ideas](https://gitlab.com/groups/gitlab-com/-/milestones/258) - holds issue requests related to campaign and webcast ideas submitted to demand generation
 - [DG-Backlog:Documentation](https://gitlab.com/groups/gitlab-com/-/milestones/248) - holds issues related to needed documentation (handbook, issues, etc.)
@@ -344,7 +358,7 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 {: #boards}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-<b>[Request Intake Board](https://gitlab.com/groups/gitlab-com/-/boards/1919630?&amp;label_name%5B%5D=Marketing%20Programs)</b> - this board provides a high-level status view of incoming issue requests.
+<b>[Campaigns Team Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/1884920?milestone_title=%23started&&label_name[]=dg-campaigns)</b> - this board provides a high-level status view of issues in the current milestone by team member.
 
 <b>[All Milestones Board](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&amp;utf8=%E2%9C%93&amp;state=opened&amp;label_name%5B%5D=Marketing%20Programs)</b> - this board provides high level of all milestones in consecutive order
 
