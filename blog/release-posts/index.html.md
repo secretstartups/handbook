@@ -715,6 +715,10 @@ these are owned by PMMs, so leave it to them to avoid unnecessary back-and-forth
 Make sure feature descriptions make sense, anchors work fine, all internal links have
 the relative path.
 
+The Release Post is considered a special blog post instance, so should adhere to the Marketing
+editorial team's
+[style guide](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
+
 #### Making changes
 
 Until 8:00 am Pacific Time on the 18th, the TW Lead should be able to make changes
@@ -1107,6 +1111,14 @@ features:
       description: |
         Lorem ipsum dolor sit amet, [consectetur adipisicing](#link) elit.
 ```
+
+#### Description
+
+Content of the **description** should adhere to the Marketing editorial team’s
+[style guide](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
+
+Do not include UI navigation instructions in the feature's description. These instructions should be
+contained in the relevant documentation.
 
 #### Feature priority
 
