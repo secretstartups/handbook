@@ -10,7 +10,7 @@ description: "GitLab Team Members can become learning content contributors, call
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Contributing to GitLab Learn as a team members
+## Contributing to GitLab Learn as a Team Member
 
 Team members have two paths they can follow to contribute learning content to the GitLab Learn platform. Review these scenarioes to decide which role best fits your needs:
 
