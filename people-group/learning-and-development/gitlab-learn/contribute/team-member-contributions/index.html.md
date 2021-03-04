@@ -10,6 +10,34 @@ description: "GitLab Team Members can become learning content contributors, call
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Contributing to GitLab Learn as a team members
+
+Team members have two paths they can follow to contribute learning content to the GitLab Learn platform. Review these scenarioes to decide which role best fits your needs:
+
+| Scenario | Contributor Role |
+| ----- | ----- |
+| I want to make suggestions to team members on what existing learning material might be best for their professional development journey. For example, I want to pull together some LinkedIn Learning courses that would help them develop new skills | Curator |
+| I'd like you create a brand new learning pathway for team members or the wider community. I plan on creating my own content, recording videos, designing handbook pages, and more to deliver this course | Learning Evangelist |
+
+## Become a GitLab Learn Curator
+
+Curators in GitLab Learn can organize existing learning content in their specific team Groups or Channels to broadcast, organize, and encourage professional development. This role is perfect for PBPs, leaders, or managers who'd like to make suggestions to their team regarding what LinkedIn Learning courses might be most beneficial!
+
+## GitLab Learn Curator Pathway
+
+### Part 1: Curating content to a channel
+
+1. Watch the training on how to share and curate content in GitLab Learn to a channel
+
+### Part 2: Customizing channels
+
+1. Watch the training on how to customize channels with custom carousels
+
+### Part 3: Setting up your channel
+
+You're ready to build your channel! Please follow the steps on the [Work with Us](https://about.gitlab.com/handbook/people-group/learning-and-development/work-with-us/#creating-a-gitlab-learn-channel) handbook page to open an issue for your new channel.
+
+If the channel you'd like to curate on already exists, please {access request for curator? add as curator to the channel? How do we do this}
 
 ## Become a GitLab Learning Evangelist
 
@@ -23,7 +51,7 @@ We've created a learning path to become a GitLab Learning Evangelist to
 1. Democratize the learning process and provide space for all voices to be heard
 1. Keep content and look and feel of the platform aligned with overall brand
 
-### Why become a Learning Evangelist?
+**Why become a Learning Evangelist?**
 
 Learning Evangelists in GitLab Learn have the opportunity to:
 
