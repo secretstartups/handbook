@@ -198,3 +198,5 @@ For example:
 > **Customer:** The CTO has an objective to reduce the time it takes to ship releases so we can get new features to market faster.
 
 By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the TAM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the TAM can [ask about metrics](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
+
+If you'd like to see more examples of how to use the Five Whys framework and what it could look like in practice, take a look at the [Five Whys breakout session from SKO 2021](https://gitlab.edcast.com/insights/breakout-leveling).
