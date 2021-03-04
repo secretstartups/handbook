@@ -51,6 +51,7 @@ product.
 ## Support Operations Important Links
 
 * [Main Project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project)
+* [Our documentation](documentation/)
 * [Our workflows](workflows/)
 * [Project Labels](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project#what-do-all-the-labels-mean)
 * Various issue boards:

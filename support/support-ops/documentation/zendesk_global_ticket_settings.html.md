@@ -1,18 +1,19 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Tickets
-description: Tickets are the core part of what we use Zendesk for
+title: 'Ticket Settings'
+category: 'Zendesk Global'
+description: 'An overview of the Zendesk Global ticket settings'
 ---
-
-# Zendesk Tickets
-
-Tickets are the core part of what we use Zendesk for.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Overview
+
+Tickets are the core part of what we use Zendesk for.
 
 ## Ticket Settings
 
@@ -32,7 +33,8 @@ Tickets are the core part of what we use Zendesk for.
   * CC blacklist: noreply@google.com
   * CC email subject: `[{{ticket.account}}] Update: {{ticket.title}}`
   * CC email text:
-    > You are registered as a CC on this support request ({{ticket.url}}). Reply to this email to add a comment to the request.
+    > You are registered as a CC on this support request ({{ticket.url}}). Reply
+    > to this email to add a comment to the request.
     >
     > {{ticket.comments_formatted}}
     >

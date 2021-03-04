@@ -1,19 +1,19 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Users
-description: Describes the roles and related rights of Zendesk users.
-
+title: 'Users'
+category: 'Zendesk Global'
+description: 'An overview of the Zendesk Global users'
 ---
-
-# Zendesk Users
-
-Zendesk users are the people within Zendesk.
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Overview
+
+Zendesk users are the people within Zendesk.
 
 ## Groups
 
@@ -60,7 +60,7 @@ Zendesk users are the people within Zendesk.
 * Description:
   > GitLab Staff are members of the GitLab team who have been granted full agent
   > accounts to work on tickets.
-  > 
+  >
   > Their primary role is to solve tickets. They can edit tickets within their
   > groups, view reports, and add or edit personal views and macros.
 * Tickets:
@@ -89,7 +89,7 @@ Zendesk users are the people within Zendesk.
 * Description:
   > GitLab Staff are members of the GitLab team who have been granted full agent
   > accounts to work on tickets.
-  > 
+  >
   > Their primary role is to solve tickets. They can edit tickets within their
   > groups, view reports, and add or edit personal views and macros.
 * Tickets:
@@ -158,7 +158,7 @@ Zendesk users are the people within Zendesk.
 * Description:
   > Support Staff are members of the GitLab Support Team who have completed
   > Support onboarding.
-  > 
+  >
   > Their primary role is to solve tickets. They can edit tickets within their
   > groups, view reports, and add or edit personal views and macros. They can
   > also delete tickets, edit ticket tags and edit or create groups and
@@ -189,7 +189,7 @@ Zendesk users are the people within Zendesk.
 * Description:
   > Support Staff are members of the GitLab Support Team who have completed
   > Support onboarding.
-  > 
+  >
   > Their primary role is to solve tickets. They can edit tickets within their
   > groups, view reports, and add or edit personal views and macros. They can
   > also delete tickets, edit ticket tags and edit or create groups and
@@ -218,8 +218,8 @@ Zendesk users are the people within Zendesk.
 ### Support Staff - Professional Services
 
 * Description:
-  > Professional Services Staff are members other than Support Staff. 
-  > 
+  > Professional Services Staff are members other than Support Staff.
+  >
   > Their primary role is to provide Support Services for Professional Services
   > Customers. They can edit tickets within their groups, view reports, and add
   > or edit personal views and macros. They can also delete tickets, edit ticket
@@ -278,7 +278,7 @@ Zendesk users are the people within Zendesk.
 
 ### Tech Support
 
-* Description: Tech Support account 
+* Description: Tech Support account
 * Tickets:
   * What kind of tickets can this agent access? All
   * What type of comments can this agent make? Public and Private

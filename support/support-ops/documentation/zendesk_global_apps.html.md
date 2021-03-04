@@ -1,10 +1,17 @@
 ---
 layout: handbook-page-toc
-title: Zendesk Apps
-description: Overview of the various applications we use in Zendesk.
+title: 'Apps'
+category: 'Zendesk Global'
+description: 'An overview of the Zendesk Global apps'
 ---
 
-# Zendesk Apps
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
 
 Zendesk can have applications installed into it to enhance its capabilities.
 Here at GitLab, we use quite a few apps to help make Zendesk even better!
@@ -49,7 +56,7 @@ App information:
 
 This is a GitLab built app that allows you to customize what the Due Date for a
 Task ticket is set for. By default, Zendesk only allows setting the date. This
-enables you to set the date, time, and timezone. 
+enables you to set the date, time, and timezone.
 
 App information:
 
@@ -142,8 +149,8 @@ App information:
 
 ### GitLab Reminders App
 
-The Reminders App appears in the navbar and allows the agent a more specialized view
-of tickets they are involved in. It currently shows:
+The Reminders App appears in the navbar and allows the agent a more specialized
+view of tickets they are involved in. It currently shows:
 
 * Tickets assigned to you with a pending/overdue task that are not in a Closed
   state
