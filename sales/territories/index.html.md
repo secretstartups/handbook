@@ -62,22 +62,31 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales 
 | ---------- | ---- | -------------- | ----- | 
-|	NA East	|	Named East	|	**Named Accounts**	|	Mark Bell	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Jordan Goodwin	|
-|	NA East	|	Named East	|	**Named Accounts**	|	David Wells	|
+|	NA East	|	East	|	Large-AMER-East-Named-1	|	Mark Bell	|
+|	NA East	|	East	|	Large-AMER-East-Named-2	|	Jordan Goodwin	|
+|	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	|
+|	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector |
+|	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	|
+|	NA East	|	East	|	Large-AMER-East-Named-6	|	Scott Hall	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-2	|	Joe Drumtra	|
 |	NA East	|	Named East	|	**Named Accounts**	|	Larry Biegel	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Chip Digirolamo	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Josh Rector |
-|	NA East	|	Named East	|	**Named Accounts**	|	Sean Billow	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Scott Hall	|
+|	NA West	|	Southwest	|	Large-AMER-West-1	|	Haydn Mackay	|
+|	NA West	|	Southwest	|	Large-AMER-West-2	|	Alan Cooke	|
 |	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-2	|	Joe Drumtra	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-3	|	Chris Mayer	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-4	|	Philip Wieczorek	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-5	|	Lydia Pollitt	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-2	|	Jim McMahon	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 3	|	Nico Ochoa	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 4	|	Joe Miklos	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 5	|	Michael Nevolo	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 6	|	Michael Scott	|
 |	NA East	|	Northeast	|	Large-AMER-Central-1	|	Tim Kuper	|
 |	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	|
 |	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	|
 |	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	|
-|	NA West	|	Southwest	|	Large-AMER-Large-West-1	|	Haydn Mackay	|
 |	LATAM	|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	|
 |	LATAM	|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	|
 |	NA West	|	Midwest	|	Large-AMER-Midwest-1	|	Timmothy Ideker	|
@@ -86,9 +95,17 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	|
 |	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	|
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-5	|	Robert Hyry	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-6	|	Rick Walker	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-1	|	Chris Graham	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-2	|	Katherine Evans	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-3	|	Jim Bernstein	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-4	|	David Wells	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-5	|	Larry Biegel	|
+
 
 
 #### Public Sector
@@ -140,11 +157,13 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	|
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	|
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Christoph Stahl	|
+|	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	|
 |	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	|
 |	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	|
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	|
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	|
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	|
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	|
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-2	|	Aslihan Kurt	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	|
@@ -153,6 +172,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Simon Williams	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	|
+
 
 ### Mid-Market
 
@@ -160,6 +181,12 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
+|	NA East	|	US East	|	MM-AMER-East-Named-1	|	Sharif Bennett	|
+|	NA East	|	US East	|	MM-AMER-East-Named-2	|	Steve Xu	|
+|	NA East	|	US East	|	MM-AMER-East-Named-3	|	Daniel Parry	|
+|	NA East	|	US East	|	MM-AMER-West-Named-1	|	Christopher Chiappe	|
+|	NA East	|	US East	|	MM-AMER-West-Named-2	|	Kyla Gradin	|
+|	NA East	|	US East	|	MM-AMER-West-Named-3	|	Matthew Kobilka	|
 |	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Michael Miranda	|
 |	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Jenny Kline	|
 |	LATAM	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	|
@@ -188,6 +215,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
+|	EMEA	|	MEA	|	MM-EMEA-Named-1	|	Anthony Ogunbowale-Thomas	|
+|	EMEA	|	MEA	|	MM-EMEA-Named-2	|	Israa Mahros	|
 |	Africas	|	Africas	|	MM-EMEA-Africas	|	Daisy Miclat	|
 |	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Conor Brady	|
 |	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Conor Brady	|
