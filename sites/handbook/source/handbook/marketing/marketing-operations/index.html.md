@@ -27,6 +27,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Amy Waller - Senior Marketing Operations Manager
 - Sarah Daily - Senior Marketing Operations Manager
 - Robert Rosu - Marketing Operations Manager 
+- Gillian Murphy - Marketing Operations Manager
 - Jameson Burton - Marketing Operations Associate
 
 **Business Partners**
