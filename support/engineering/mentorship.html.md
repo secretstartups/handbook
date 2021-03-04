@@ -58,11 +58,11 @@ The following is an outline of a six-week mentoring program on log parsing with 
    - Review take-home assignment
    - Review more complex `strace` output, such as Gitaly
    - Finalize mentee project, if not already done
-Week 5:
+- Week 5:
    - Advanced `jq` techniques
    - Advanced `strace` techniques
    - Check-in on project status
-Week 6:
+- Week 6:
    - Review/finalize project
    - Post-mortem: what went worked? what didn't?
 
