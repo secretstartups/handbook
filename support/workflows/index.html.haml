@@ -4,6 +4,16 @@ title: Support Workflows
 description: "Workflows in GitLab Support"
 ---
 
+%style
+  :plain
+    h3::before {
+      display: block;
+      content: " ";
+      margin-top: -25px !important;
+      height: 25px !important;
+      visibility: hidden;
+    }
+
 - pages = sitemap.resources.select { |resource| resource.path.start_with?("handbook/support/workflows")  }
 - pages = pages.reject { |page| page.data.category.nil? }.group_by { |page| page.data.category }.sort_by { |category| category }
 

@@ -1,13 +1,3 @@
-%style
-  :plain
-    h3::before {
-      display: block;
-      content: " ";
-      margin-top: -25px !important;
-      height: 25px !important;
-      visibility: hidden;
-    }
-
 .row
   - unless pages[nil].nil?
     - pages[''] = pages[nil]
