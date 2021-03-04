@@ -116,7 +116,7 @@ Québec - [La Loi sur les normes du travail (N-1.1)](http://www.legisquebec.gouv
 
 **Maternity Leave:** Team members who have worked at GitLab for at least 7 consecutive months are entitled to 17 weeks of Maternity Leave. This leave may begin as early as 13 weeks prior to the expected date of birth. If you child is not born within the first 17 weeks of maternity leave, then maternity leave is extended until the date of birth.
 
-**Parental Leave:** All team members are eligibile for up to 63 weeks of Parental Leave. This leave may be taken at any time during the first 78 weeks after your child is born, or the day your child comes into your care. Parental leave must be taken in one continuous period. 
+**Parental Leave:** All team members are eligible for up to 63 weeks of Parental Leave. This leave may be taken at any time during the first 78 weeks after your child is born, or the day your child comes into your care. Parental leave must be taken in one continuous period. 
 
 ### Maternity Leave Payment
 
@@ -136,7 +136,7 @@ Québec - [La Loi sur les normes du travail (N-1.1)](http://www.legisquebec.gouv
 ### Applying for Parental Leave in Canada
 
 * To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
-* Pregnant team members must provide a certificate from a health care practitioner certifying that their pregnancy to Total Rewards (total-rewards@gitlab.com).
+* Pregnant team members must provide a certificate from a health care practitioner certifying their pregnancy to Total Rewards (total-rewards@gitlab.com).
 
 ### GitLab Parental Leave Payments and Employment Insurance
 
