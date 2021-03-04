@@ -252,8 +252,8 @@ The shared services and components below are extracted from the GitLab [product 
 
 | Service or Component | Sub-Component | Ownership Model | DRI (Centralized Only) |  Ownership Group (Centralized Only) | Additional Notes |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Alertmanager |  |  |  |  |  |
-| Certmanager |  |  |  |  |  |
+| Alertmanager |  | Centralized with Specific Team | @mendeni| [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Certmanager |  | Centralized with Specific Team | @mendeni| [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
 | Consul |  |  |  |  |  |
 | Container Registry |  | Centralized with Specific Team | @jhampton | Package |  |
 | Email - Inbound |  |  |  |  |  |
@@ -263,11 +263,10 @@ The shared services and components below are extracted from the GitLab [product 
 | GitLab Rails |  | Decentralized |  |  | DRI for each controller is determined by the feature category specified in the class. [app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers) and [ee/app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers) |
 | GitLab Shell |  |  |  |  |  |
 | HAproxy |  | Centralized with Specific Team | @brentnewton | [Infrastructure](/handbook/engineering/infrastructure/) |  |
-| Jaeger |  | Centralized with Specific Team | @AnthonySandoval | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
+| Jaeger |  | Centralized with Specific Team | @brentnewton | Infrastructure:Observability | Observability team made the [initial implementation/deployment](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/210). |
 | LFS |  | Centralized with Specific Team | @sean_carroll | Create |  |
-| Load Balancer |  |  |  |  |  |
-| Logrotate |  |  |  |  |  |
-| Mattermost |  |  |  |  |  |
+| Logrotate |  |  Centralized with Specific Team | @mendeni| [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
+| Mattermost |  |  Centralized with Specific Team | @mendeni| [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
 | MinIO |  | Decentralized |  |  | Some issues can be broken down into group-specific issues. Some issues may need more work identifying user or developer impact in order to find a DRI. |
 | NFS |  |  |  |  |  |
 | NGINX |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
