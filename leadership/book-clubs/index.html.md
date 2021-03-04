@@ -21,7 +21,7 @@ clubs project](https://gitlab.com/gitlab-com/book-clubs).
 
 ## Ruby under a Microscope
 
-* Dates: 2020-11-24 to 2021-02-23 (every week)
+* Dates: 2020-11-24 to 2021-03-03 (every week)
 * Time: EMEA 14:00 UTC, AMER/APAC 23:00 UTC
 * [Zoom EMEA](https://gitlab.zoom.us/j/99123637556), [Zoom AMER/APAC](https://gitlab.zoom.us/j/91894125368) (password is in the calendar event info)
 * [Meeting agenda](https://docs.google.com/document/d/18Ekce5kFaEdAvY9OMRETmp8ukCmhhQqRjpbN9N0ssmk/)
