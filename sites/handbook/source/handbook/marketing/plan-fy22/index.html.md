@@ -57,12 +57,7 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 - [WIP: SDR Efficiency Metrics](https://app.periscopedata.com/app/gitlab/641469/SDR-Metrics)
 
 #### Overview Slides of FY22 Marketing Plan
-{: #overview-slides}
-
-<!-- DO NOT CHANGE ANCHOR -->
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMLPDJxAK8rAWAFkw8fUjBJU2NHHXxnbBdLeeKp6Eu_N3IjmO45w3euhvNdXg_X5hsm-80ekMHVyKZ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
+Internal only - search for `GTM Slides - w Data`
 
 ### TOPO Marketing Model
 {: #topo}
@@ -100,8 +95,8 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 <!-- DO NOT CHANGE ANCHOR -->
 Based on discussions with Sales and Marketing leadership, feedback from Product & Product Management leadership and by consulting industry/analyst reports, we recommend that for FY22, our major GTM motions should be focused on **CI/CD**, **DevOps Platform**, and **GitOps**. The overall goal of our GTM motions and sales play initiative is to improve the predictability of attaining our FY22 New and Growth AR goals, and improve our GTM efficiency (e.g. CAC, Cost per SAO/CW). We will do this by concentrating our efforts on the most important GTM motions that align to customer’s main business goals/needs. where GitLab has a distinct competitive advantage and with accounts that have the highest LAM growth potential.
 
-To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`. You may also view the embedded sheet below.
-<iframe width="950" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLZchvg6aGk2KtSaXSuxrm0jJrmcZ1cq8fwqpB5sNkB1aigDhi4KnGSEaCVJOt60p0XH3POricmtq5/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`. 
+
 The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
 All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
 
@@ -136,7 +131,6 @@ _The list below includes potential and recommended items to include in a GTM Mot
 <!-- DO NOT CHANGE ANCHOR -->
 A sales play is a series of prescribed actions around a Go to Market theme that are taken by cross functional sales and marketing teams to reach a positive sales outcome. It includes prescribed actions taken jointly by marketing, sales development and sales executives to identify and create sales opportunities that can be closed. Sales Plays can be delivered as a PDF book, or as an interactive guide leveraging PathFactory - or both.
 
-Sales Play categories will include new Land (e.g. CI/CD), Compete (e.g. Jenkins/Bitbucket/Travis/Rally/Jira takeout) and Category (VSMDevOps/DevOps Platform) plays. We will also create Expand plays based on sales need/feedback.
 To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22#gtm-motions).
 
 ### What is included in a Sales Play?
@@ -186,7 +180,7 @@ If your team or name is not listed as part of the core team, don't worry! As par
 {: #core-team-communication}
 
 <!-- DO NOT CHANGE ANCHOR -->
-How to keep all teams in the loop will be a key responsibility of the Core Teams, and planning should not happen in silos Continual communication of plans, progress, and how to leverage the GTM Motion collateral will be a key to success in the FY22 Marketing Plan.
+How to keep all teams in the loop will be a key responsibility of the Core Teams, and planning should not happen in silos. Continual communication of plans, progress, and how to leverage the GTM Motion collateral will be a key to success in the FY22 Marketing Plan.
 
 The teams are encouraged to contribute ideas and processes for communication here in the handbook throughout FY22.
 
@@ -223,6 +217,8 @@ While the majority of GTM Motion work will take place asynchronously, aligned to
 
 <!-- DO NOT CHANGE ANCHOR -->
 To be built upon through FY22, this section will be comprised of process related to collaboration and commitment (making sure nobody burns out, and we all run in the same direction).
+
+To begin with, we will have a bi-weekly "scrum of scrums" call with the CMO staff, Core Team captains, Field Marketing and ABM to ensure sharing of great team learnings as well as keeping each other on track.
 
 ### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
@@ -316,7 +312,9 @@ You will be expected to become a subject matter expert of the GTM Motion as a Co
 {: #project-management .gitlab-purple}
 
 <!-- DO NOT CHANGE ANCHOR -->
-The GTM Motions will each have an epic, where all teams can reference plans and the issues (i.e. action items) to accomplish the plans. More to come! This will be managed by Dara Warde.
+The GTM Motions will each have an epic, where all teams can reference plans and the issues (i.e. action items) to accomplish the plans. We will be making use of 2 week milestones (Marketing - 2021-MM-DD) as well as GTM Motion labels for each team. The teams themselves will decide how often to have stand-ups, whether live or through slack, as well as any other synchronous calls.
+
+- The "Scrum of Scrums" kanban issue board is based on the GTM Motion labels and can be found at the gitlab.com level under GTM Motions FY22
 
 - Main Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1785)
     - CI/CD Epic: [https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1821)
