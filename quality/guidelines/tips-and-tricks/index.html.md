@@ -34,6 +34,8 @@ Copy this string and create a new [GitLab-QA pipeline](https://gitlab.com/gitlab
  with a `RELEASE` variable and use the copied string as its value. Also, add the `CI_MERGE_REQUEST_IID` variable which corresponds to the Merge Request ID with the changes in GitLab QA. Run the pipeline against the branch that
  has your changes.
 
+It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](https://about.gitlab.com/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) using the `RELEASE` variable from the `package-and-qa` job of GitLab's Merge Request. For example, here is the link to run a manual GitLab QA pipeline [against Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines/new?var[RELEASE]=%27insert_docker_image_name_from_the_MR%27).
+
 ## Running end-to-end test pipelines using code from a specific GitLab-QA branch
 
 It is often needed to test the impact of changes in the [GitLab-QA codebase](https://gitlab.com/gitlab-org/gitlab-qa) on
@@ -43,7 +45,7 @@ or [Production](https://ops.gitlab.net/gitlab-org/quality/production/-/pipelines
 This can be achieved by manually triggering a pipeline in any of these projects and setting the `QA_BRANCH` variable to the branch name you are working on in the [GitLab-QA project](https://gitlab.com/gitlab-org/gitlab-qa).
 As a result, the pipeline will checkout the specified branch and build the `gitlab-qa` gem instead of using the latest published gem.
 
-## Determine the version, revision, branch and package deployed in GitLab environments:
+## Determine the version, revision, branch and package deployed in GitLab environments
 
 To find out the version, revision, branch and package deployed in gitlab.com, staging and canary environments,
 run this in the #chat-ops-test Slack channel:
@@ -189,6 +191,7 @@ The rake task accepts two arguments that can be used to limit the keys that are 
 There is a similar rake task, `delete_test_ssh_keys_dry_run`, that accepts the same arguments and performs a dry run, which lists all keys and indicates whether each will be deleted.
 
 Two environment variables are also required:
+
 - `GITLAB_ADDRESS` is the address of the target GitLab instance.
 - `GITLAB_QA_ACCESS_TOKEN` should be a personal access token with API access and should belong to the user whose keys will be deleted.
 

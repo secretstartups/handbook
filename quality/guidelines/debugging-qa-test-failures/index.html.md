@@ -10,13 +10,13 @@ description: Guidelines for investigating end-to-end test pipeline failures
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Overview
+## Overview
 
 These guidelines are intended to help you to investigate [end-to-end test](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/index.html) pipeline failures so that they can be properly addressed. This will involve analyzing each failure and creating an issue to report it. It might also involve [fixing tests](#fixing-the-test), [putting them in quarantine](#quarantining-tests), or [reporting bugs in the application](#bug-in-the-application).
 
 The Pipeline triage [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is responsible for analyzing and debugging test pipeline failures. Please refer to the [Quality Department pipeline triage rotation schedule](https://about.gitlab.com/handbook/engineering/quality/guidelines/#schedule) to know who the current DRI is.
 
-#### Scheduled QA test pipelines
+### Scheduled QA test pipelines
 
 The test pipelines run on a scheduled basis, and their results are posted to Slack. The following are the QA test pipelines that are monitored every day.
 
@@ -44,7 +44,7 @@ If there's a failure, we use emoji to indicate the state of its investigation:
 - The :fire_engine: emoji, when a failure is already reported.
 - The :retry: emoji, when there's a system failure (e.g., Docker or runner failure).
 
-### How to triage a QA test pipeline failure
+## How to triage a QA test pipeline failure
 
 The general triage steps are:
 
@@ -60,7 +60,7 @@ After triaging failed tests, possible follow up actions are:
 - [Dequarantining tests](#dequarantining-tests)
 - [Re-evaluating tests](#re-evaluating-tests)
 
-#### Report the failure
+### Report the failure
 
 Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution.
 
@@ -86,7 +86,7 @@ In the relevant Slack channel:
 1. If an issue exists, add a :fire_engine: emoji. It can be helpful to reply to the failure notification with a link to the issue(s), but this isn't always necessary, especially if the failures are the same as in the previous pipeline and there are links there.
 1. If you create a new issue, add a :boom: emoji.
 
-##### Create an issue
+#### Create an issue
 
 Please use this step if there are no issues created to capture the failure. If there is already an issue please skip this step.
 
@@ -98,7 +98,7 @@ Please use this step if there are no issues created to capture the failure. If t
 1. In the relevant Slack channel, add the :boom: emoji and reply to the failure notification with a link to the issue.
 1. Add the issue as a related issue to the current pipeline triage report.
 
-#### Review the failure logs
+### Review the failure logs
 
 The aim of this step is to understand the failure. The results of the investigation will also let you know what to do about the failure. Update the failure issue with any findings from your review.
 
@@ -112,13 +112,13 @@ The following can help with your investigation:
 | Sentry logs ([Staging](https://sentry.gitlab.net/gitlab/staginggitlabcom), [Preprod](https://sentry.gitlab.net/gitlab/pregitlabcom/), [Production](https://sentry.gitlab.net/gitlab/gitlabcom/)) | If staging, preprod or production tests fail due to a server error, there should be a record in [Sentry](https://sentry.gitlab.net). For example, you can search for all unresolved staging errors linked to the `gitlab-qa` user with the query [`is:unresolved user:"username:gitlab-qa"`](https://sentry.gitlab.net/gitlab/staginggitlabcom/?query=is%3Aunresolved+user%3A%22username%3Agitlab-qa%22). However, note that some actions aren't linked to the `gitlab-qa` user, so they might only appear in the [full unresolved list](https://sentry.gitlab.net/gitlab/staginggitlabcom/?query=is%3Aunresolved). |
 | Kibana logs ([Staging](https://nonprod-log.gitlab.net/app/kibana#/discover), [Production](https://log.gprd.gitlab.net/app/kibana#/discover)) | Various application logs are sent to [Kibana](https://nonprod-log.gitlab.net/app/kibana#/discover), including Rails, Postgres, Sidekiq, and Gitaly logs |
 
-#### Investigate the root cause
+### Investigate the root cause
 
 Depending on your level of context for the test and its associated setup, you might feel comfortable investigating the root cause on your own, or you might get help from [other SETs](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) right away.
 
 When investigating on your own, we suggest spending at most 20-30 minutes actively trying to find the root cause (this excludes time spent reporting the failure, reviewing the failure logs, or any test setup and pipeline execution time). After that point, or whenever you feel out of ideas, we recommend asking for help to unblock you.
 
-##### Run the test against your GDK
+#### Run the test against your GDK
 
 You can run the test (or perform the test steps manually) against your local GitLab instance to see if the failure is reproducible. For example:
 
@@ -132,7 +132,7 @@ Orchestrated tests are excluded by default. To run them, use `-- --tag orchestra
 CHROME_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost:3000 -- --tag orchestrated qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
 ```
 
-##### Run the test against a GitLab Docker container
+#### Run the test against a GitLab Docker container
 
 You can also use the same Docker image (same sha256 hash) as the one used in the failing job to run GitLab in a container on your local.
 In the logs of the failing job, search for `Downloaded newer image for gitlab/gitlab-ce:nightly` or `Downloaded newer image for gitlab/gitlab-ee:nightly`
@@ -150,7 +150,7 @@ You can now run the test against this Docker instance. E.g.:
 CHROME_HEADLESS=false bundle exec bin/qa Test::Instance::All http://localhost qa/specs/features/browser_ui/1_manage/project/create_project_spec.rb
 ```
 
-##### Run the tests against CustomersDot staging environment
+#### Run the tests against CustomersDot staging environment
 
 To run CustomersDot E2E tests locally against staging environment, you will need to clone [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com) project, switch to `qa` directory, and then run
 
@@ -160,17 +160,17 @@ STAGING=1 CP_ADMIN_TOKEN=<TOKEN> GL_ADMIN_TOKEN=<TOKEN> bundle exec rspec spec/u
 
 **Note** - Token value can be found in GitLab-QA Vault. For details on running tests locally with more options, please refer to [CustomersDot README doc](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/README.md)
 
-##### Tips for running tests locally
+#### Tips for running tests locally
 
 - Use the environment variable `QA_DEBUG=true` to enable logging output including page actions and Git commands.
 - Additional information about running tests locally can be found in the [QA readme](https://gitlab.com/gitlab-org/gitlab/tree/master/qa#running-specific-tests) and in the [instructions for running tests that require special setup](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/running_tests_that_require_special_setup.html#jenkins-spec).
 - To determine if the test is [flaky](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#whats-a-flaky-test), check the logs or run the test a few times. If it passes at least once but fails otherwise, it's flaky.
 
-##### Checking Docker images
+#### Checking Docker images
 
 Sometimes tests may fail due to an outdated Docker image. To check if that's the case, follow the instructions below to see if specific merged code is available in a Docker image.
 
-_Checking test code (QA image)_
+##### Checking test code (QA image)
 
 If you suspect that certain test is failing due to the `gitlab/gitlab-{ce|ee}-qa` image being outdated, follow these steps:
 
@@ -180,7 +180,7 @@ If you suspect that certain test is failing due to the `gitlab/gitlab-{ce|ee}-qa
 
 > **Note** if you need to check in another tag (e.g., `nightly`), change it in one of the scripts of step 1 above.
 
-_Checking application code_
+##### Checking application code
 
 1. Locally, run `docker run -it --entrypoint /bin/sh gitlab/gitlab-ce:latest` to check for GitLab CE code, or `docker run -it --entrypoint /bin/sh gitlab/gitlab-ee:latest` to check for GitLab EE code
 1. Then, navigate to the `gitlab-rails` directory (`cd /opt/gitlab/embedded/service/gitlab-rails/`)
@@ -188,7 +188,23 @@ _Checking application code_
 
 > **Note** if you want to check another tag (e.g., `nightly`) change it in one of the scripts of step 1 above.
 
-#### Classify and triage the test failure
+##### Checking application version has the specific MR
+
+1. Find the version which GitLab application is running on. In the failing job logs, search for `docker pull dev.gitlab.org:5005/gitlab/omnibus-gitlab/gitlab-ee-qa` and use the version specified after `gitlab-ee-qa:`.
+    - For *nightly* the approach above won't work. There are two ways for finding the commit version of nightly:
+        - Run the [nightly image on local](#run-the-test-against-a-gitlab-docker-container), sign-in as admin and navigate to `/help` page or call the `/api/v4/version` API.
+        - Search for the commit in the [omnibus-gitlab pipeline](https://dev.gitlab.org/gitlab/omnibus-gitlab/-/pipelines) that built the last nightly. Jobs that build nightly have `bundle exec rake docker:push:nightly` command in the `Docker-branch` job of the `Package-and-image` stage. Once you find the latest pipeline, search for `gitlab-rails` under `build-component_shas` in any job under the `Gitlab_com:package` stage. For example, in [this `Ubuntu-16.04-branch` job](https://dev.gitlab.org/gitlab/omnibus-gitlab/-/jobs/9610785#L3373), the commit SHA for `gitlab-rails` is `32e76bc4fb02a615c2bf5a00a8fceaee7812a6bd`.
+1. Open commits list for the specific version:
+    - If version format is like a commit SHA, for example `gitlab-ee-qa:13.10-4b373026c98`, navigate to `https://gitlab.com/gitlab-org/gitlab/-/commits/<commit_SHA>` page, in our example the commit SHA is `4b373026c98`.
+    - If version format is like a tag, for example `13.10.0-rc20210223090520-ee`, navigate to `https://gitlab.com/gitlab-org/gitlab/-/commits/v<tag>` page, in our example the tag is `13.10.0-rc20210223090520-ee`.
+    - If page above returns 404 error, check if the version exists in [GitLab Security repo](https://gitlab.com/gitlab-org/security/gitlab) in case there is a security release.
+1. Check if the MR that you were searching for is in this version.
+    - Note the branch name of the MR.
+    - Search the commits from Step 2 by the branch name.
+        - If the commit is found, the MR is in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=add-share-with-group-to-modal).
+        - If no results, the MR is not in this version. For [example](https://gitlab.com/gitlab-org/gitlab/-/commits/v13.10.0-rc20210223090520-ee?utf8=%E2%9C%93&search=qa-shl-add-requries-admin).
+
+### Classify and triage the test failure
 
 The aim of this step is to categorize the failure as either a stale test, a bug in the test, a bug in the application code, or a flaky test.
 
@@ -206,7 +222,7 @@ to a recently-merged fix that hasn't made it to the relevant environment yet. Si
 the test should pass because a fix has been merged, verify that the fix has been deployed to the relevant environment
 before attempting to troubleshoot further.
 
-##### Stale test due to application change
+#### Stale test due to application change
 
 The failure was caused by a change in the application code and the test needs to be updated.
 
@@ -216,7 +232,7 @@ The failure was caused by a change in the application code and the test needs to
 
 See [Quarantining Tests]
 
-##### Bug in the test
+#### Bug in the test
 
 The failure was caused by a bug in the test code itself, not in the application code.
 
@@ -225,14 +241,14 @@ The failure was caused by a bug in the test code itself, not in the application 
 
 See [Quarantining Tests]
 
-##### Bug in the application
+#### Bug in the application
 
 The failure was caused by a bug in the application code.
 
 - Include your findings in a note in the issue about the failure.
 - Add the steps to reproduce the bug and expected/actual behavior.
 - Apply the `~"bug"` label, and cc-ing the corresponding Engineering Managers (EM), QEM, and SET.
-- If the problem adheres to the definition of a [transient bug](/handbook/engineering/quality/issue-triage/#transient-bugs), apply the ~"bug::transient" label as well. 
+- If the problem adheres to the definition of a [transient bug](/handbook/engineering/quality/issue-triage/#transient-bugs), apply the ~"bug::transient" label as well.
 - If there is an issue open already for the bug, mark the new issue as a duplicate of the original bug.
 - Communicate the issue in the corresponding Slack channels.
 - Do _not_ [quarantine][quarantining tests] the test immediately unless the bug won't be fixed quickly (e.g. if it is a minor/superficial bug). Instead, leave a comment in the issue for the bug asking if the bug can be fixed in the current release. If it can't, quarantine the test.
@@ -244,7 +260,7 @@ To find the appropriate team member to cc, please refer to the [Organizational C
 
 See [Quarantining Tests]
 
-##### Flaky Test
+#### Flaky Test
 
 The failure is due to flakiness in the test itself.
 
@@ -264,7 +280,7 @@ For more details, see the list with example issues in our
 
 See [Quarantining Tests]
 
-##### Failure due to test environment
+#### Failure due to test environment
 
 The failure is due external factors outside the scope of the test. This could be due to environments, deployment hang-ups, or upstream dependencies.
 
@@ -278,9 +294,9 @@ A job may fail due to infrastructure or orchestration issues that are not relate
 - CI runner timeouts
 - 500 error while uploading job artifacts
 
-### Following up on test failures
+## Following up on test failures
 
-#### Fixing the test
+### Fixing the test
 
 If you've found that the test is the cause of the failure (either because the application code was changed or there's a bug in the test itself), it will need to be fixed. This might be done by another SET or by yourself. However, it should be fixed as soon as possible. In any case, the steps to follow are as follows:
 
@@ -296,7 +312,7 @@ If the test was flaky:
 
 If the test was in quarantine, [remove it from quarantine](#dequarantining-tests).
 
-#### Quarantining Tests
+### Quarantining Tests
 
 > **Note** We should be very strict about quarantining tests. Quarantining a test is very costly and poses a higher risk because it allows tests to fail without blocking the pipeline, which could mean we miss new failures.
 
@@ -331,7 +347,7 @@ To be sure that the test is quarantined quickly, ask in the `#quality` Slack cha
 
 Here is an [example quarantine merge request](https://gitlab.com/gitlab-org/gitlab/merge_requests/23334/diffs).
 
-##### Quarantined Test Types
+#### Quarantined Test Types
 
 If a test is placed under quarantine, it is important to specify _why_. By specifying a quarantine type we can see
 quickly the reason for the quarantine.
@@ -350,7 +366,7 @@ recurring reasons.
 > **Note** Be sure to attach an `issue` to the quarantine metadata if there is a related issue or merge request
 > for maximum visibility
 
-##### Examples
+#### Examples
 
 ``` ruby
 it 'is flaky', quarantine: 'https://gitlab.com/gitlab-org/gitlab/issues/12345'
@@ -366,7 +382,7 @@ context 'when these tests rely on another MR', quarantine: {
                                                }
 ```
 
-##### Nested contexts
+#### Nested contexts
 
 You should apply the quarantine tag to the outermost `describe`/`context` block that has tags relevant
 to the test being quarantined.
@@ -391,7 +407,7 @@ RSpec.describe 'Plan', :smoke do
 end
 ```
 
-#### Dequarantining Tests
+### Dequarantining Tests
 
 Failing to dequarantine tests periodically reduces the effectiveness of the test suite. Hence, the tests should be dequarantined on or before the due-date mentioned in the corresponding issue.
 
@@ -411,7 +427,7 @@ To dequarantine a test:
 
 As with quarantining a test, you can ask in the `#quality` Slack channel for someone to review and merge the merge request, rather than assigning it.
 
-#### Re-evaluating tests
+### Re-evaluating tests
 
 If the due date of a failing test issue is reached, you should re-evaluate if the failing test should really be covered at the end-to-end test level, or if it should be covered in a lower level of the [testing levels pyramid](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html).
 
@@ -419,14 +435,14 @@ If you decide to delete the test, open a merge request to delete it and close th
 
 If you decide the test is still valuable but don't want to leave it quarantined, you could replace `:quarantine` with `:skip`, which will skip the test entirely (i.e., it won't run even in jobs for quarantined tests). That can be useful when you know the test will continue to fail for some time (e.g., at least the next milestone or two).
 
-### Training Videos
+## Training Videos
 
 Two videos walking through the triage process were recorded and uploaded to the [GitLab Unfilitered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
 
 - [Quality Team: Failure Triage Training - Part 1](https://www.youtube.com/watch?v=Fx1DeWoTG4M)
-    - Covers the basics of investigating pipeline failures locally.
+  - Covers the basics of investigating pipeline failures locally.
 - [Quality Team: Failure Triage Training - Part 2](https://www.youtube.com/watch?v=WeQb8GEw6PM)
-    - Continued discussion with a focus on using Docker containers that were used in the pipeline that failed.
+  - Continued discussion with a focus on using Docker containers that were used in the pipeline that failed.
 
 [quarantining tests]: #quarantining-tests
 [`:flaky`]: #flaky-test
