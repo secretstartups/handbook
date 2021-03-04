@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Digital Production Software and Equipment List"
+title: "Digital Production Editing Software and Equipment List"
 description: GitLab Digital Production list of software and equipment for remote digital production. 
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
@@ -18,21 +18,15 @@ twitter_creator: "@gitlab"
 
   This is Digital Production's first recommondation. iMovie is free editing software from Apple. It is simple and straightforward to use versus other programs, and it is included with almost all Macbooks in the Applications list. As most GitLab employees use Macbooks, it should be an option for almost everyone. If you do not have a MacOS device, please see below. 
 
-TO ADD: Further iMovie instructions. 
+##### Adobe Premiere Rush
 
-##### Adobe Rush
-
-  [Adobe Rush](https://www.adobe.com/ca/products/premiere-rush.html) is a subscription based editing software that, like iMovie, attempts to strip down the features and complexity of other programs to make itself more accesible to the average user. It is available for Mac, PC, and devices. As there is a fee, this option should only be used if the above iMovie software is not available to you. 
+  [Adobe Premiere Rush](https://www.adobe.com/ca/products/premiere-rush.html) is a subscription-based editing software that, like iMovie, attempts to strip down the features and complexity of other programs to make itself more accesible to the average user. It is available for Mac, PC, and other devices. As there is a fee, this option should only be used if the above iMovie software is not available to you. 
 
 ---
     
-    
 # Equipment
 
-
-
-
-  [The Digital Production department](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/) has organized several options for GitLab employees who need to record quality video content. Links have been provided to give a reference of the specificiations of each item (i.e. what it looks like). However, these are offered as examples only. Before you make your purchase, **[review GitLab's policy on spending company money](https://about.gitlab.com/handbook/spending-company-money/)**. If you are unable to locate a suitable option for an item you wish to order, contact the Digital Production department about substutions.    
+[The Digital Production department](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/) has organized several options for GitLab employees who need to record quality video content. Links have been provided to give a reference of the specificiations of each item (i.e. what it looks like). However, these are offered as examples only. Before you make your purchase, **[review GitLab's policy on spending company money](https://about.gitlab.com/handbook/spending-company-money/)**. If you are unable to locate a suitable option for an item you wish to order, contact the Digital Production department about substutions.    
 
 ## Standard Desk Package
 
