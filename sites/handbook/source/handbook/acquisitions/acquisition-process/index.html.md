@@ -67,7 +67,7 @@ The process is comprised of four key stages:
     - TARGET TEAM: Ahead of this call please review our [roadmap](/direction/) and outline which of your current and future product features can be implemented into GitLab's product categories. Outline a simple integration timeline for those features, considering an MVC release on the first month after joining GitLab and monthly releases following with quick iterations.
 1. Share call summary ([Initial Acquisition Review Template](https://docs.google.com/document/d/1RekjfQj89pIV7DZzeNZ00HYOwqlqlDFm7Gy4yZET9rc/edit?usp=sharing), a GitLab internal document) of companies that are aligned with GitLab's acquisition strategy ("Qualified Pipeline") with relevant product lead.
     - Create a new, private Slack channel (format: `#acq-company_name`) and add the internal GitLab document to the top. Add CProdO and the relevant product and engineering leaders to help with the initial assessment of the opportunity.
-1. Product call: If the Dir. Product sees a potential fit and wants to proceed, set up an initial 60-minute product call to dive into the product and tech. The call must include the Dir. Product and may also include Section Leaders and specific Product Managers relevant to the call. Section Leaders and Product Managers should keep in mind the early stage of this evaluation and attempt to think expansively about how the potential acquisition could be additive to GitLab. The agenda for the call is:
+1. Product call: If the Product champion sees a potential fit and wants to proceed, set up an initial 60-minute product call to dive into the product and tech. The call must include the Product champion and may also include Section Leaders and specific Product Managers relevant to the call. Section Leaders and Product Managers should keep in mind the early stage of this evaluation and attempt to think expansively about how the potential acquisition could be additive to GitLab. The agenda for the call is:
     1. Product demo with highlights on key functionality and technologies
     1. Concise roadmap overview with a focus on near-term plans
     1. [GitLab roadmap](https://about.gitlab.com/direction/) fit - discuss which features could be built into GitLab and into which product stage
@@ -118,7 +118,7 @@ The process is comprised of four key stages:
             - Results of security reviews the entity has performed over it's current vendors
 1. Early technical diligence:
     1. In case the target company has open source components, the respective Dir. Engineering (dependent on GitLab stage) will start an early code review to determine: code quality, development practices, contributions, license compliance and more. That should be turned around within 2-3 business days.
-    1. Hands-on product and code screen-share session (2 hours): the technical lead, as assigned by the respective Dir. Engineering, together with the respective Dir. Product will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code. The objectives and agenda for the call are:
+    1. Hands-on product and code screen-share session (2 hours): the technical lead, as assigned by the respective Engineering champion, together with the respective Product champion will lead a screen-share session aimed at a hands-on validation of the product functionalities and an overview of the code. The objectives and agenda for the call are:
         1. Objectives:
             1. Technically validate the functionalities and competencies of the product which have been presented throughout our process thus far
             1. Conclude a high level evaluation of the complexity and quality of the solution
@@ -160,15 +160,15 @@ The process is comprised of four key stages:
         1. Complete executive summary (with link to term sheet draft) including budget and headcount allocation for the acquisition
         1. Complete business case ([templates](https://docs.google.com/document/d/1RekjfQj89pIV7DZzeNZ00HYOwqlqlDFm7Gy4yZET9rc/edit) for both) including Deal Milestones
         1. Complete term sheet ([template](https://docs.google.com/document/d/1_G2bXxhMe_qXrF8LdZcXwsCcIs1GJAS1-v42U2MV8a4/edit)) draft with proposed details (asset payment, retention bonuses, Deal Milestones, closing schedule, customer termination and closing conditions) filled in.
-    1. Functional approvals: The corporate development acquisition lead, Dir. Product and Dir. Engineering will present the business case for acquisition to the CProdO and CTO. They will review to approve the items listed in the Champions' approval (complete: executive summary, business case, term sheet)
-    1. CEO, CFO and CLO approvals: The corporate development acquisition lead, Dir. Product and Dir. Engineering (deal champions) will present the business case for acquisition to the CEO, CFO and CLO. This meeting will also capture the **explicit approval** of the term sheet to start negotiations.
-             1. Approval of term sheet to start negotiations will be tracked in a [term
+    1. Functional approvals: The corporate development acquisition lead, Product and Engineering champions will present the business case for acquisition to the CProdO and CTO. They will review to approve the items listed in the Champions' approval (complete: executive summary, business case, term sheet)
+    1. CEO, CFO and CLO approvals: The corporate development acquisition lead, Product and Engineering champions will present the business case for acquisition to the CEO, CFO and CLO. This meeting will also capture the **explicit approval** of the term sheet to start negotiations.
+        1. Approval of term sheet to start negotiations will be tracked in a [term
         sheet approval issue](<https://gitlab.com/gitlab-com/corporate-development/issues/new?issuable_template=term_sheet_approval>). We don't include any financial and milestone information in the approval tracking issue for confidentiality reasons.
 1. Term Sheet:
     1. Once the terms to start negotiations have been approved, the corporate development acquisition lead will reach out to the target company to share the offer and term sheet.
     1. Once an agreement on terms with the target has been reached, the term sheet (with any changes) will be brought forward for approval from: CLO, CFO, CEO (in that order). These approvals will be captured in the term sheet approval issue.
     1. Once all approvals have been obtained, the corporate development acquisition lead will stage the term sheet for signing on HelloSign for target CEO and GitLab CEO (in that order). Add CLO, CFO, and CProdO on Cc on the agreement.
-        1. Approval tracking will be tracked on the term sheet approval issue mentioned earlier. Any changes to previously-approved terms need to be reviewed and approved once more by the following: Dir. Product, Dir. Engineering, CProdO, CTO, CLO, CFO, CEO. The changes should be referenced on the term sheet approval tracking issue _before_ seeking approvals.
+        1. Approval tracking will be tracked on the term sheet approval issue mentioned earlier. Any changes to previously-approved terms need to be reviewed and approved once more by the following: Product champion, Engineering champion, CProdO, CTO, CLO, CFO, CEO. The changes should be referenced on the term sheet approval tracking issue _before_ seeking approvals.
 
 ### Confirmatory Due Diligence
 
@@ -180,7 +180,7 @@ The process is comprised of four key stages:
 1. The acquisition lead will create an engagement debrief and lessons learned document and share it with the team for on-demand capturing of insights.
 1. Complete [Technical diligence](acquisition-process-technical-diligence/)
 1. Complete financial diligence
-1. Legal diligence - Once both the technical and the financial diligence have been completed and signed off by the Dir. Engineering champion and Finance acquisition team member, respectively, the acquisition lead will contact legal to start the legal diligence. Legal will tag the relevant owners for each of the diligence tasks in the [template diligence table](https://docs.google.com/document/d/1RekjfQj89pIV7DZzeNZ00HYOwqlqlDFm7Gy4yZET9rc/edit#bookmark=id.o9gv1rfld9h2)(GitLab internal document) in the main acquisition doc.
+1. Legal diligence - Once both the technical and the financial diligence have been completed and signed off by the Engineering champion and Finance acquisition team member, respectively, the acquisition lead will contact legal to start the legal diligence. Legal will tag the relevant owners for each of the diligence tasks in the [template diligence table](https://docs.google.com/document/d/1RekjfQj89pIV7DZzeNZ00HYOwqlqlDFm7Gy4yZET9rc/edit#bookmark=id.o9gv1rfld9h2)(GitLab internal document) in the main acquisition doc.
 1. The progress of the diligence will be synced on a regular stand-up call with the acquisition team
 1. The corporate development acquisition lead and the legal lead negotiate the definitive deal documentation with the target company CEO and legal team
 1. Final review and approval:
