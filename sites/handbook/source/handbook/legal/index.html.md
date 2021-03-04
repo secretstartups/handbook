@@ -19,7 +19,7 @@ Please take a moment to read through the below, where we’ve tried to address t
 
 ### Anonymous Internal Ethics and Compliance Reporting
 
-We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
+We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using EthicsPoint. Futher details are found on the [Code of Business Conduct and Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations) handbook page. We have also engaged Lighthouse to support when relating to reporting team member relations issues. Details can be found on the [People Group](/handbook/people-group/#how-to-report-violations) handbook page.
 
 ### Quick Questions
 For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. If your request is for legal advice, deliverables, or any discussion of confidential information, please keep reading. 
