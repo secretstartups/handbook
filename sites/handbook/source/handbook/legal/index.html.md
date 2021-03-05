@@ -35,8 +35,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 
  
 
-## Other Helpful Resources
-* [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
+## Other Helpful ResourcesF* [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 * [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
 * [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
 * [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
@@ -51,7 +50,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
 * [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
 * [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
-* [Employee Privacy Policy](/handbook/legal/) GitLab's policy for how it handles personal information about team members.
+* [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
 * [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
 * [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
 * [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
