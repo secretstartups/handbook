@@ -198,6 +198,18 @@ The below table shows the rules how we select the demand gen related touchpoints
 | Japan-Digital Readiness             | 21q4-jp                                                                                           | ad campaign name incl. '21q4-jp' or campaign name ='2021_Social_Japan_LinkedIn Lead Gen'                                                       |
 | Publishers/Sponsorships             | utm_medium = 'sponsorship' and utm_source ='issa','stackoverflow','securityweekly-appsec'        | parent campaign name='Demand Gen Publishers/Sponsorships' |
 
+## Public Sector Specific Reporting
+{: #pubsec-reporting}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+There have been ongoing changes to best report on Public Sector. The following is the currently held truth on data (fields, next steps, etc.) related to PubSec across Sisense attribution dashboards and SFDC reporting, which should be consistent.
+
+* Source of Truth Field (as of 2021-03-05): `TO BE CONFIRMED WITH MKTG STRAT & PERF`
+* Upcoming changes to comprehensively identify PubSec records:
+    - TBD
+* Background on some previous data point (and some data caveats):
+    - `[TSP] Territory = PubSec` is missing data because `Named` is an option, which means if it’s Named & PubSec, it would not be pulled in.
+
 
 ## Tactic-Specific Dashboards
 {: #dashboard-by-tactic}
