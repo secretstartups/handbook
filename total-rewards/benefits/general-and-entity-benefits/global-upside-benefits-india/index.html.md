@@ -160,7 +160,7 @@ GitLab does not plan to offer pension benefit at this time as Kenya has their Pe
 
 ### Life Insurance
 
-GitLab offers company paid International Group Life and Disability Plans through [Allianz Care](https://drive.google.com/file/d/17y38CQ1XLO0os0sN6Q-LJpmU3dPyUUAx/view?usp=sharing). This covers Life Insurance, Accidental Death $ Accidental Dismemberment, Short Term Disability and Long Term Disability.
+GitLab offers company paid International Group Life and Disability Plans through [Allianz Care](https://drive.google.com/file/d/17y38CQ1XLO0os0sN6Q-LJpmU3dPyUUAx/view?usp=sharing). This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
 
 ## Global Upside - Kenya Parental Leave
 
