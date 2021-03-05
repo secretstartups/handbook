@@ -37,7 +37,11 @@ Curators in GitLab Learn can organize existing learning content in their specifi
 
 You're ready to build your channel! Please follow the steps on the [Work with Us](https://about.gitlab.com/handbook/people-group/learning-and-development/work-with-us/#creating-a-gitlab-learn-channel) handbook page to open an issue for your new channel.
 
-If the channel you'd like to curate on already exists, please {access request for curator? add as curator to the channel? How do we do this}
+If your team's channel already exists, please skip to Part 4
+
+### Part 4: Add the `curator` role to your EdCast profile
+
+The process to add the `curator` role to your edcast profile is currently a work in progress.
 
 ## Become a GitLab Learning Evangelist
 
