@@ -19,8 +19,8 @@ Campaign buckets are used to improve reporting at a high level and Allocadia for
 |Name|Description|Examples|
 |-------|--------------|---------|
 |Brand          | Activities meant to elevant the GitLab brand          | All-Remote, share of voice campaigns        |
-|Lead Generation|Efforts designed to bring in NEW leads to our database|Inbound Marketing, Conferences, Content Syndication, Webinars, Prospect Events in regions|
-|Pipeline Generation & Acceleration|Efforts to develop and accelerate leads in our database to purchase|Webinars, Workshops, Owned Events|
+|Lead Generation|Efforts designed to bring in NEW leads to our database |Campaigns that require list uploads for NEW leads such as - Inbound Marketing, Conferences, Content Syndication, Webinars, Prospect Events in regions|
+|Pipeline Generation & Acceleration|Efforts to develop and accelerate leads in our database to purchase| Campaigns that utilize our existing database leads such as - Webinars, Workshops, Owned Events|
 |Users & Community| Campaigns geared towards GitLab users and Community|Commit, Meetups|
 |E-Commerce Conversion|Campaigns that do not require a touch by sales to close|`Buy Now` in our store|
 
