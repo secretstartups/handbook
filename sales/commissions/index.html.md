@@ -60,7 +60,7 @@ The current Commission Plan [presentation](https://docs.google.com/presentation/
 
 ### **Month 1 Ramp Schedule: 15 Day Rule**
 
- Effective February 1st, 2021, we will be utilizing a 15 day rule to determine "Month 1" of your Ramp Schedule.  If you are hired during the 1st-15th of any given month, that is considered your "Month 1", and if you are hired after the 15th of any given month, then there is a 0% contribution of that month's quota, and your "Month 1" begins on the first of the following month.
+Effective February 1st, 2021, we will be utilizing a 15 day rule to determine "Month 1" of your Ramp Schedule.  If you are hired during the 1st-15th of any given month, that is considered your "Month 1", and if you are hired after the 15th of any given month, then there is a 0% contribution of that month's quota, and your "Month 1" begins on the first of the following month.
 Example:
 
 - Hired on 4/10/2021:   Month 1 = April 2021
