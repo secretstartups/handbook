@@ -13,14 +13,16 @@ description: "Meet the GitLab Legal Team and learn how to engage with us for int
 # Welcome to GitLab Legal!
 
 We are glad you are here! GitLab's [Legal Team](https://about.gitlab.com/company/team/?department=legal) is small but mighty and entirely at your service. 
-### Anonymous Internal Ethics and Compliance Reporting
 
+
+## How to Reach Us
+
+#### Anonymous Internal Ethics and Compliance Reporting
 We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
 
-### Quick Questions
-For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. If your request is for legal advice, deliverables, or any discussion of confidential information, please follow the process set forth in the table below. 
+#### Quick Questions
+For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. **If your request is sales or procurement related, involves legal advice, deliverables, or any discussion of confidential information, please follow the process set forth in the table below.** 
 
-### How to Contact Legal
 
 | Type of Request | Process / Information |
 | ------ | ------ |
@@ -35,7 +37,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 
  
 
-## Other Helpful Resources 
+## Helpful Resources 
 
 * [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 * [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
