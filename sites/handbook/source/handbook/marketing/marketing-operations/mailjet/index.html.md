@@ -27,7 +27,17 @@ MailJet is used by only certain Marketing Ops and Marketing Campaigns users. It 
      - Privacy Policy Updates
 
 ### Requesting Email Send from MailJet
-If the email is an emergency, please follow directions on [this page](/handbook/marketing/marketing-operations/#pagerduty-and-emergency-comms).
+If the email is an emergency, please follow directions on [this page](/handbook/source/handbook/marketing/emergency-response).
 
-If the email is a one-off send, please follow directions on [this page](/handbook/marketing/demand-generation/campaigns/emails-nurture/#overview).
+If the email is a non-emergency, please follow directions on [this page](/handbook/marketing/demand-generation/campaigns/emails-nurture/#overview).
 
+
+## Using MailJet
+Only a select number of marketing and marketing operations team members have access to send via MailJet.
+
+
+### MailJet Templates
+Depending on the send, there are different templates that should be used. Templates are a work in progress, follow status updates in this [epic](https://gitlab.com/groups/gitlab-com/-/epics/1249).
+
+### MailJet Lists
+WIP
