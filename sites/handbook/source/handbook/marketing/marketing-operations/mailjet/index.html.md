@@ -27,7 +27,7 @@ MailJet is used by only certain Marketing Ops and Marketing Campaigns users. It 
      - Privacy Policy Updates
 
 ### Requesting Email Send from MailJet
-If the email is an emergency, please follow directions on [this page](/handbook/source/handbook/marketing/emergency-response).
+If the email is an emergency, please follow directions on [this page](/handbook/marketing/emergency-response).
 
 If the email is a non-emergency, please follow directions on [this page](/handbook/marketing/demand-generation/campaigns/emails-nurture/#overview).
 
