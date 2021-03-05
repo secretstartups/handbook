@@ -27,11 +27,11 @@ Curators in GitLab Learn can organize existing learning content in their specifi
 
 ### Part 1: Curating content to a channel
 
-1. Watch the training on how to share and curate content in GitLab Learn to a channel
+1. Watch the training on [how to share and curate content in GitLab Learn to a channel](https://youtu.be/8B7QJpd2Fp4)
 
 ### Part 2: Customizing channels
 
-1. Watch the training on how to customize channels with custom carousels
+1. Watch the training on [how to customize channels with custom carousels](https://youtu.be/R0rLl6NB44g)
 
 ### Part 3: Setting up your channel
 
