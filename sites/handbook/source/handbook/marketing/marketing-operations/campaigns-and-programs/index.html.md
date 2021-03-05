@@ -542,13 +542,16 @@ Follow all of the set up steps [above](/handbook/marketing/marketing-operations/
    - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
    - When token is updated, you can turn on. No changes are necessary for the Flow.
    - Do not turn on if you are not utilizing HopIn registration pages
-1. `01b. Push Registrants to HopIn from Marketo` is used if you are utilizng a Marketo landing page to capture registration for the HopIn Event.
-     - To use, you will need to update the local `HopIn Registration form` with the `Ticket Integration Code` this field is already on the form, but must be updated to match the specific code in HopIn.
-     - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. There will be a code for each of the ticket types you have. Keep this handy for the next step.
-     - Navigate to the local form (or request [Mops issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)) If you only have a single ticket for your event, add the Ticket Integration Code to the `Ticket Integration Code` field on the form. If you have multiple ticket types, you will need to create a select dropdown that holds the Integration Codes as stored values ([ask Mops to do this for you](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)).
-    - No changes are necessary for the campaign flow. The flow will request a Webhook, which will push the registrant into HopIn. 
-    - Approve the form, and embed it on a landing page
-    - Once form is live, turn on `01b. Push Registrants to HopIn from Marketo`. Do not turn on if you are only utilizing HopIn registration pages
+1. `01b. Push Registrants to HopIn from Marketo` is used if you are utilizng a Marketo landing page to capture registration for the HopIn Event. Do not turn on if you are **only** utilizing HopIn registration pages
+     - Before you start with the smart campaign, you need to make sure you update the copy for the registration confirmation email named `Hopin - Confirm`. First, update all tokens on the program and then fill in the missing pieces of the email itself. The button needs to contain the Magic Link, do not change this.
+     - Next, you need to update the program token of `Ticket Integration Code` this field is already on the form, but must be updated to match the specific code in HopIn.
+        - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. There will be a code for each of the ticket types you have. Keep this handy for the next step.
+     - If you are only registering for a single ticket, all you need to do is update the token, but if you have multiple ticket options, you will need to create a select dropdown in the form that holds the Integration Codes as stored values - ([ask Mops to do this for you](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)).
+    - No changes are necessary for the campaign flow. The flow will request a Webhook, which will push the registrant into HopIn, as well as send registrant a registration confirmation email. 
+    - The landing page template is already set up to have this form.
+    - Before you turn on, make sure you have updated tokens in the email `Hopin - Confirm`, as this will automatically send the `Magic Link` for the registrant to confirm their registration.
+        - The magic link is automatically created by the webhook, do not update that field.
+    - Turn on `01b. Push Registrants to HopIn from Marketo`. Then test by registering on that landing page. After 2 minutes, you will recieve an email asking to confirm your registration, click the link and follow prompts on the HopIn page. Once confirmed, you will receive an email from HopIn saying it was successful. You can also look into the `attendees` section in HopIn and make sure your test is there too - once you see it, you can `remove` your test lead from the list and go live with the landing page.
 1. `02 Attended Hopin` is used to track attendees of the event - it will not track individual sessions, only overall attendance.
    - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. In the Smartlist, Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
    - When token is updated, you can turn on. No changes are necessary for the Flow.
