@@ -1,0 +1,25 @@
+---
+layout: handbook-page-toc
+title: Product Management Specialty Assignments
+---
+
+## On this page
+
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+<% product_team = Gitlab::Homepage::Team.new.department_matches(department: "Product") %>
+
+## Product Team with Specialty
+
+| Team Member | Specialty |
+| ----------- | --------- |
+<% product_team.each do member %>
+
+<% end %>
+
+## How to Make Changes
+
+TBD
