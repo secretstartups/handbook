@@ -51,7 +51,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 * [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
 * [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
 * [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
-* [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
+* [Employee Privacy Policy](/handbook/legal/) GitLab's policy for how it handles personal information about team members.
 * [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
 * [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
 * [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
