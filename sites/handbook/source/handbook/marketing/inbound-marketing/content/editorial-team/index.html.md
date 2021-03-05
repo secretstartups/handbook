@@ -332,9 +332,9 @@ This works for tutorials and how-to posts that are no longer current. Here is [a
 
 This approach is suitable for older blog posts covering high-level, foundational topics that don't age (DevOps fundamentals, CI best practices, etc.) and which aren't specifically about GitLab features or functionality.
 
-### Newsroom Slack channel
+### #trending Slack channel
 
-The #newsroom channel is for team members to surface new story ideas to Editorial. Anyone is welcome to join and can share links to news or opinion that could be worth pursuing as a blog post or in another content format (e.g. video). 
+The #trending channel is for team members to surface new story ideas to Editorial. Anyone is welcome to join and can share links to news or opinion that could be worth pursuing as a blog post or in another content format (e.g. video). 
 
 We know that team members often share noteworthy news or developments in other channels – the difference here is the channel will help the Editorial team to aggregate and curate items that have [strong blog post potential](#top-performing-blog-posts). The content can be anything that's relevant to our audience and within our [blog scope](#scope).
 
