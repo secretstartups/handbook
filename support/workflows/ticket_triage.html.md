@@ -49,6 +49,12 @@ Most of the forms are self-explanatory, but here are some extra considerations:
 - With help from the [Looking up customer details](looking_up_customer_account_details.html) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
 - Check [SLA and Zendesk views page](sla_and_views.html) for after an org is assigned.
 
+## US Federal tickets in Global Support Portal
+
+Users of GitLab's [US Federal Support](https://about.gitlab.com/support/#us-federal-support) offering may opt to raise a ticket in the Global Support Portal as well. The most common reason for this is the need for support outside of the US Federal's [hours of operation](https://about.gitlab.com/support/#hours-of-operation). If during the triage process, a Global Agent comes across a ticket that is from an organization which appears to be a customer entitled to US Federal Support, the agent can work this case the same as they would any other ticket.
+
+If there is a concern that the customer had intended to raise a ticket in the US Federal Support Portal and unintentionally created it in the Global Portal the agent may consider applying the [General::US Federal Customer in Global](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/US%20Federal%20Customer%20in%20Global.yaml) macro to inform them that their request may be handled by a non-US Citizen and direct them to the relevant portal if that is a requirement.
+
 ## Other Requests
 
 We also receive non Support requests in our queue - if you see something not listed below or something you are unsure about, ask in the `#support_escalations` slack channel and make a MR to update the list below when you find out the answer.
