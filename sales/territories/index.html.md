@@ -150,8 +150,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales |
 | ---------- | ---- | -------------- | ----- | 
-|	EMEA	|	Named EMEA	|	**Named Accounts**	|	Hugh Christey	|
-|	EMEA	|	Named EMEA	|	**Named Accounts**	|	Timo Schuit	|
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	|
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	|
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Christoph Stahl	|
