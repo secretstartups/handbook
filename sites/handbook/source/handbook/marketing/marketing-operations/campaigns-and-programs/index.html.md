@@ -19,8 +19,8 @@ Campaign buckets are used to improve reporting at a high level and Allocadia for
 |Name|Description|Examples|
 |-------|--------------|---------|
 |Brand          | Activities meant to elevant the GitLab brand          | All-Remote, share of voice campaigns        |
-|Lead Generation|Efforts designed to bring in NEW leads to our database |Campaigns that require list uploads for NEW leads such as - Inbound Marketing, Conferences, Content Syndication, Webinars, Prospect Events in regions|
-|Pipeline Generation & Acceleration|Efforts to develop and accelerate leads in our database to purchase| Campaigns that utilize our existing database leads such as - Webinars, Workshops, Owned Events|
+|Lead Generation|Efforts designed to bring in NEW leads to our database|Inbound Marketing, Conferences, Content Syndication, Webinars, Prospect Events in regions|
+|Pipeline Generation & Acceleration|Efforts to develop and accelerate leads in our database to purchase|Webinars, Workshops, Owned Events|
 |Users & Community| Campaigns geared towards GitLab users and Community|Commit, Meetups|
 |E-Commerce Conversion|Campaigns that do not require a touch by sales to close|`Buy Now` in our store|
 
@@ -552,9 +552,15 @@ Follow all of the set up steps [above](/handbook/marketing/marketing-operations/
     - Before you turn on, make sure you have updated tokens in the email `Hopin - Confirm`, as this will automatically send the `Magic Link` for the registrant to confirm their registration.
         - The magic link is automatically created by the webhook, do not update that field.
     - Turn on `01b. Push Registrants to HopIn from Marketo`. Then test by registering on that landing page. After 2 minutes, you will recieve an email asking to confirm your registration, click the link and follow prompts on the HopIn page. Once confirmed, you will receive an email from HopIn saying it was successful. You can also look into the `attendees` section in HopIn and make sure your test is there too - once you see it, you can `remove` your test lead from the list and go live with the landing page.
+    - Check Registration error smartlist periodically to catch anyone being created incorrectly (see sectioin below)
 1. `02 Attended Hopin` is used to track attendees of the event - it will not track individual sessions, only overall attendance.
    - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. In the Smartlist, Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
    - When token is updated, you can turn on. No changes are necessary for the Flow.
+1. Registration Troubleshooting
+ There is a list called `Registration Errors` that will populate if the Magic Link is not properly populated. If this is the case, you will need to send a magic link via the HopIn platform. Follow these directions:
+    - Log into HopIn and navigate to your event
+    - On left side nav, look for `Magic Link` and click the `Manage Invitations` tab. There you'll see who has registered (confirmed clicked) and those who haven't. You can send emails to these people who are not registered to ensure they are confirmed before the event starts.
+
 
 #### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
 We have listeners set up in Marketo listening certain parameters. Please check the `Marketo Listener` column below to see if a program is already set up in Marketo. If it is, you do not need to create a new listener. Otherwise, please follow the process outlined below to ensure leads are being captured.
