@@ -97,7 +97,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	|
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	|
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-5	|	Robert Hyry	|
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-6	|	Rick Walker	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-1	|	Chris Graham	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-2	|	Katherine Evans	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-3	|	Jim Bernstein	|
