@@ -199,4 +199,18 @@ This is the result of that as viewed through Zoom. Note that while the video out
 
 ![GitLab Sony A6400 webcam output](/images/all-remote/sony-a6400-webcam-output-gitlab.jpg){: .shadow.medium.center}
 
+### Guitars
+
+I'm a southpaw (left-handed player) and my wife is right-handed, which explains the curious collection in the background.
+
+1. Ernie Ball Music Man StingRay5 bass (1998) // tobacco sunburst // rosewood fretboard // left-handed
+1. Fender Jazz Bass 1975 reissue Crafted in Japan (2006) // natural // maple fretboard // left-handed
+1. Fender Precision Bass Mod Shop (2020) // tobacco sunburst // all-rosewood neck and fretboard // V-Mod PJ Bass pickups // left-handed
+1. G&L JB-5 bass (2020) // natural // rosewood fretboard // left-handed
+1. Fender John Mayer Stratocaster (2006) // sunburst // rosewood fretboard // right-handed
+1. Paul Reed Smith (PRS) John Mayer Silver Sky (2020) // tungsten // maple fretboard // right-handed
+1. Gibson Les Paul Standard Gold Top // gold // rosewood fretboard // right-handed
+1. Gibson Les Paul Standard // black / rosewood fretboard // left-handed
+1. Warrior Gabriel custom shop // pearl white // ebony fretboard with custom "...loved..." pearl inlays // right-handed
+
 Return to the main [Marketing handbook section](/handbook/marketing/).
