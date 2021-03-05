@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Threat Management Product Development Flow
+description: "Diagrams of the Threat Management Sub-Department's planning process"
 ---
 
 # On this page

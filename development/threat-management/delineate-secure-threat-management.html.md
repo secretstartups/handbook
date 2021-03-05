@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Secure / Threat Management sub-department delineation
+description: "Definion of what engineering group is reponsibile for features in the Secure stage of the GitLab product"
 ---
 
 ## On this page
