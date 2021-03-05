@@ -381,13 +381,13 @@ Chair: Principal Accounting Officer (PAO)
 
 ## Optional Plans Available at Team Member Expense
 
-### Discovery Health Savings Accounts and Flexible Spending Accounts
+### WEX (Discovery Benefits) Health Savings Accounts and Flexible Spending Accounts
 
-If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account (FSA), Dependent Care Flexible Spending Account (DCFSA) or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
+If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account (FSA), Dependent Care Flexible Spending Account (DCFSA) or commuter benefits, the funds are held through WEX (Discovery Benefits). After your benefit enrollment effective start date, [create an account with WEX (Discovery)](https://benefitslogin.discoverybenefits.com/Login.aspx?ReturnUrl=%2f) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on WEX (Discovery) or call and they will send one to your home of record.
 
-If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.helloflock.com/login). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year. If you leave GitLab and would like to keep your HSA account, GitLab will no longer be responsible for the administration fee. The account holder will become responsible for the $2.50 per month admin fee. 
+If you would like to transfer your HSA from a previous account, please contact WEX (Discovery) and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to WEX (Discovery), and they will get in contact with your old HSA provider and process the transfer of funds. You can reach WEX (Discovery) at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.helloflock.com/login). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year. If you leave GitLab and would like to keep your HSA account, GitLab will no longer be responsible for the administration fee. The account holder will become responsible for the $2.50 per month admin fee. 
 
-FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
+FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to WEX (Discovery) at 866.451.3399.
 
 FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with Lumity to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections. 
 
@@ -401,7 +401,7 @@ Up to 90 days after the plan year has concluded (also known as the runout period
 
 #### Commuter Benefits
 
-GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through Discovery Benefits. The contribution limits from the IRS for 2020 are $270/month for parking and $270/month for transit. These contributions rollover month to month.
+GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through WEX (Discovery Benefits). The contribution limits from the IRS for 2020 are $270/month for parking and $270/month for transit. These contributions rollover month to month.
 
 ##### Commuter Benefits Period to Submit Claims
 
@@ -480,13 +480,13 @@ If you are enrolled in medical, dental, and/or vision when you terminate from Gi
 
 ### Timeline
 1. Typically terminations are updated in BambooHR on the date of the termination and once updated, will sync with [Lumity](https://lumity.helloflock.com/login) by the end of the next business day.
-1. Once the termination has synced with Lumity, the information will then be sent over to [Discovery Benefits](https://www.discoverybenefits.com/), our COBRA administrator. Government guidelines give 30 days for Discovery to be notified of the COBRA eligibility, but typically this will take about 1-2 weeks.
-1. Once notified, Discovery has 14 days to generate and send the COBRA enrollment packet. Allow normal mailing timelines (5-10 business days) to receive the packet once sent.
+1. Once the termination has synced with Lumity, the information will then be sent over to [WEX (Discovery Benefits)](https://cobra.discoverybenefits.com/), our COBRA administrator. Government guidelines give 30 days for WEX (Discovery) to be notified of the COBRA eligibility, but typically this will take about 1-2 weeks.
+1. Once notified, WEX (Discovery) has 14 days to generate and send the COBRA enrollment packet. Allow normal mailing timelines (5-10 business days) to receive the packet once sent.
 1. You will have 60 days from the time you receive the COBRA packet to enroll either through the mail or online. Instructions for how to enroll will be included in your COBRA packet. Coverage will be retro-effective to the date coverage was lost.
 1. From the day you enroll, you have 45 days to bring your payments to current.
 1. You may remain on COBRA for up to 18 months. Please see the COBRA enrollment packet for information on extending COBRA an additional 18 months, if applicable. The state you reside in may allow for additional time on COBRA, but may be more expensive and include only Medical. Please consult the laws for your state for more information.
 
-If you are currently employed and have any general COBRA questions, feel free to contact the Compensation & Benefits team. If you have terminated already or have specific questions on the administration of COBRA, feel free to contact Discovery Benefits directly: (866) 451-3399.
+If you are currently employed and have any general COBRA questions, feel free to contact the Compensation & Benefits team. If you have terminated already or have specific questions on the administration of COBRA, feel free to contact WEX (Discovery) Benefits directly: (866) 451-3399.
 
 ### Costs per Month
 
@@ -523,13 +523,13 @@ If you are currently employed and have any general COBRA questions, feel free to
 
 ## Audit Processes
 
-### Discovery Funding Account Audit
+### WEX (Discovery) Funding Account Audit
 
-This quarterly audit is conducted to ensure the funding of our account used for FSA, DCFSA, and commuter benefit plans according to Accounts Payable matches the amount of claims incurred in Discovery's system.
+This quarterly audit is conducted to ensure the funding of our account used for FSA, DCFSA, and commuter benefit plans according to Accounts Payable matches the amount of claims incurred in WEX (Discovery)'s system.
 
-1. Reach out to Accounts Payable to provide an updated payment history report for payments made to Discovery.
+1. Reach out to Accounts Payable to provide an updated payment history report for payments made to WEX (Discovery).
 1. In the `Ongoing Discovery Audit` spreadsheet, add new entries in the report provided by Accounts Payable to the bottom of the table in the "Discovery Payments History" tab.
-1. Navigate to [Discovery's platform](https://www.discoverybenefits.com/) and log into the employer portal.
+1. Navigate to [WEX (Discovery)'s platform](https://employer.discoverybenefits.com/Login?ReturnUrl=%2f) and log into the employer portal.
    * Select "Benefits Administration" in the left toolbar.
    * Navigate to the "Reports" tab and select the "Employer Funding Report".
    * Download all reports for the months that have elapsed since the last audit was conducted.
@@ -542,10 +542,10 @@ This quarterly audit is conducted to ensure the funding of our account used for 
    * Copy the formula down for columns C, D, and E.
    * For columns D and E, replace the year and month in the formula with the year and month inputted in a column A and B.
      * For example, if the formula current has `=sumif('March 2020 Funding Detail'!A:A,"Manual Employer Transaction and Adjustment",'March 2020 Funding Detail'!H:H)` and you are working on the row for April 2020, change the formula to say `=sumif('April 2020 Funding Detail'!A:A,"Manual Employer Transaction and Adjustment",'April 2020 Funding Detail'!H:H)`.
-1. In the same "Funding Summary" tab, review the difference calculated in cell L3. This difference should be positive and roughly equivalent to the amount we currently have available in our Funding Account for Discovery, typically in the range of $5,000 to $50,000.
+1. In the same "Funding Summary" tab, review the difference calculated in cell L3. This difference should be positive and roughly equivalent to the amount we currently have available in our Funding Account for WEX (Discovery), typically in the range of $5,000 to $50,000.
 1. Any discrepancies or problems should be escalated to the Manager, Total Rewards.
 
-### Discovery Payroll Audit
+### WEX (Discovery) Payroll Audit
 
 TODO
 
