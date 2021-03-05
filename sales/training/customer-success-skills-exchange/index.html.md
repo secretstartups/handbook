@@ -10,6 +10,10 @@ description: "Continuous education webcast series for GitLab Customer Success te
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
+---
+
 # Customer Success Skills Exchange Sessions
 
 ## Upcoming Training
