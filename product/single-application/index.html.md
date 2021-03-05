@@ -8,7 +8,7 @@ title: Advantages of a single application
 
 ## Single application
 
-GitLab is a complete DevOps platform, delivered as a single application that does everything from project planning and source code management to CI/CD, monitoring, and security. The advantages of a single application are listed in the following paragraphs.
+GitLab is a [complete DevOps platform](/solutions/devops-platform/), delivered as a single application that does everything from project planning and source code management to CI/CD, monitoring, and security. The advantages of a single application are listed in the following paragraphs.
 
 By delivering a single application we shorten cycle times, increase productivity,
 and thus create value for our customers.
