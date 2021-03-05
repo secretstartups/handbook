@@ -477,9 +477,7 @@ This community is designed to allow partner service delivery teams to directly c
 Learn about this community in this video. 
 
 
-<div class="jsBrightTALKEmbedWrapper" style="width:100%; height:100%; position:relative;background: #ffffff;"><script class="jsBrightTALKEmbedConfig" type="application/json">{ "channelId" : 18613, "language": "en-US", "commId" : 472525, "displayMode" : "standalone", "height" : "auto" }</script><script src="https://www.brighttalk.com/clients/js/player-embed/player-embed.js" class="jsBrightTALKEmbed"></script></div>
 
-<br>
 
 ### Accessing the Community
 
