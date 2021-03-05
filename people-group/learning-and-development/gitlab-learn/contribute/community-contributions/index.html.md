@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Contribute to the Learning Experience Platform (LXP)
-decscription: "Learn more about the processes for community members interested in contributing content."
+decscription: "Contribution process for wider community members"
 ---
 
 ## On this page
