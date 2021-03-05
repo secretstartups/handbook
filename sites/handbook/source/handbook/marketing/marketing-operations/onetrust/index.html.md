@@ -92,12 +92,12 @@ In the list of websites that have been scanned, you can hover over any domain an
 
 #### More scan details
 
-1. Limit scan to 1000 pages: If you want to limit the scan to a number of pages. Note that as you increase the amount of pages to scan, the longer the scan will take to complete.
-1. Limit to this path within site: OneTrust considers `about.gitlab.com/fr` and `about.gitlab.com` 2 separate domains with this option enabled.
+1. **Limit scan to 1000 pages:** If you want to limit the scan to a number of pages. Note that as you increase the amount of pages to scan, the longer the scan will take to complete.
+1. **Limit to this path within site:** OneTrust considers `about.gitlab.com/fr` and `about.gitlab.com` 2 separate domains with this option enabled.
 1. Clear previous scan history: Does not delete previous data; scanner treats the domain as if its the first time scanning; (use case: significant cookie or design change on the website)
-1. Scan pages with query parameters: scan URLs with query parameters (ex: about.gitlab.com?utm_source=marketo); Input field example: `name=first,name=last`. Separate multiple parameters with commas. The scan will search through the domain with those noted parameters. Ensure the domain you enter includes `?` at the end of the URL.
-1. Target pages to scan: Input exact URL site with full `https://` ; use case: certain pages that might not be accessible to users or you want to scan this specific web page. For multiple pages, add a line break.
-1. Sitemap URIs: Input sitemap URL with `https://` with `.xml`. 
+1. **Scan pages with query parameters:** scan URLs with query parameters (ex: about.gitlab.com?utm_source=marketo); Input field example: `name=first,name=last`. Separate multiple parameters with commas. The scan will search through the domain with those noted parameters. Ensure the domain you enter includes `?` at the end of the URL.
+1. **Target pages to scan:** Input exact URL site with full `https://` ; use case: certain pages that might not be accessible to users or you want to scan this specific web page. For multiple pages, add a line break.
+1. **Sitemap URIs:** Input sitemap URL with `https://` with `.xml`. 
 
 ### Scheduling Cookie Scans
 
@@ -161,6 +161,14 @@ Cookies in the `Unknown` category need to be categorized manually with help from
 1. Use the filter icon to filter down to specific types of cookies by their category, domain, lifespan, or hostname (example: only view functional cookies). 
 
 ### Adding, Editing, and Managing Cookie Compliance Templates
+
+#### Base templates
+
+1. **Generic Cookie Banner:** template that is not specific to a framework. It is meant to be used to create a global template.
+1. **GDPR (General Data Protection Regulation):** template with only cookie categories. You may enable IAB at any time. This template is GDPR compliant.
+1. **IAB Transparency and Consent Framework 1.0:** template for IAB Transparency and Consent Framework 1.0 based on recommended settings from the policy's user interface guidelines. This will sunset in the first half of 2020.
+1. **IAB Transparency and Consent Framework 2.0:** template for IAB Transparency and Consent Framework 2.0 based on recommended settings from the policy's user interface guidelines
+1. **CCPA Template (California):** template with verbiage, category groupings, and settings that match more closely with the California Consumer Privacy Act.
 
 #### Add new template
 
