@@ -122,7 +122,18 @@ If you mark a video private when it doesn't need to be, it is be easy to undo: s
 
 ## Why not Google Drive
 
-Google Drive is not intended to process video distrubtion and, as a result, lengthy uploading and processing times are common. Always use YouTube and never use Google Drive, even for [private videos](#visibility), because YouTube videos:
+Google Drive is not intended to process video distrubtion and, as a result, lengthy uploading and processing times are common. Google drive can create a number of issues including the following: 
+
+1. Long upload times (in some cases up to 10 hours for longer content) that risk failing before completion. 
+1. Extended processing time, as Google Drive is not intended to quickly turn around video for playback.  
+1. Compromised playback quality.
+1. Not inclusive (for example, no caption support)
+1. Not indexed for searching. 
+1. Less transparent to both other employees and to the public. 
+1. Difficult to view across multiple devices. 
+1. No support for other critical features such as playlist, chaptering, descriptions, embedding, or timecodes.
+
+Always use YouTube and never use Google Drive, even for [private videos](#visibility), because YouTube videos:
 
 1. are streamed [more reliably](https://peering.google.com/#/infrastructure).
 1. have mouse-over thumbnails.
