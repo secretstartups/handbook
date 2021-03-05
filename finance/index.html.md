@@ -144,9 +144,9 @@ For example, work to enable a sales partner that will not be incorporated into t
 
 | Function | Name |
 | -------- | ---- |
-| Customer Support | Brooks Royer |
-| R & D | Brooks Royer |
+| Customer Support | Ellen Boyd (interim) and Christine Machado |
+| R & D | Ellen Boyd (interim) and Christine Machado |
 | Sales | [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance/) |
 | Professional Services | [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance/) |
-| Marketing | Christine Machado and Cristal McClure |
-| G & A | Christine Machado and Ellen Boyd |
+| Marketing | Cristal McClure and Christine Machado |
+| G & A | Ellen Boyd and Christine Machado |
