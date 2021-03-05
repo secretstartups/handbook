@@ -83,6 +83,7 @@ Follow along our instrumentation and measurement of Package-related metrics in [
 
 * [Package:Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1196366?&label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) - Issue board showing milestone planning for current and future milestones.
 * [Package:Assignments](https://gitlab.com/groups/gitlab-org/-/boards/1200765?&label_name[]=group%3A%3Apackage) - Issue board organized by assignee to give a snapshot of who is working on what.
+* [Package:Cross-Group Assignments](https://gitlab.com/groups/gitlab-org/-/boards/2470946?label_name[]=package%3Across-group-dependency) - Similar to `Package:Assignments` but for [Cross-Group Dependencies](#cross-group-dependencies).
 * [Package:Bugs](https://gitlab.com/groups/gitlab-org/-/boards/1200744?&label_name[]=bug&label_name[]=devops%3A%3Apackage) - Issue board displaying priority and severity of package related bugs.
 * [Package: Validation Track](https://gitlab.com/groups/gitlab-org/-/boards/1397751?&label_name[]=group%3A%3Apackage)
 * [Package:Scheduling](https://gitlab.com/groups/gitlab-org/-/boards/1382732?&label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage)
@@ -172,6 +173,13 @@ The Product Manager owns the process of populating the current milestone with fe
 
 Issues that we're actually expecting to work on will have the `package:active` label added to them at which point they'll appear in the Package:Workflow board. As product developers begin working on the issue, they'll assign the `workflow:in dev` label.
 
+### Cross-Group Dependencies
+
+Cross-group dependencies may exist as pre-requisites to deliver Package features or bug fixes. Issues to deliver such dependencies are owned by groups that Package depends on, such as [Delivery](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/) or [Distribution](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/).
+
+For discoverability, issues that represent cross-group dependencies should be labeled with `package:cross-group-dependency`. If working on one of these issues, Package engineers should ensure that they are labeled correctly. For visibility, these issues are shown in the [Package:Cross-Group Assignments](https://gitlab.com/groups/gitlab-org/-/boards/2470946?label_name[]=package%3Across-group-dependency) issue board.
+
+The product manager should include cross-group dependencies in the milestone planning issue for review, discussion and prioritization.
 ### Milestone Planning
 
 Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones. The issues are labelled and assigned to the milestone. The Product Manager creates an issue for milestone planning that includes the priorities for the milestone. Product Developers review the milestone planning issue, ask questions, raise concerns and weigh each issue. The result of this process is a groomed milestone. Our milestone planning issues can be found in our [Milestone Planning Epic](https://gitlab.com/groups/gitlab-org/-/epics/3591).
@@ -362,7 +370,7 @@ When starting work on an MR that involves unfamiliar tools/libraries, be sure to
 
 ## Partnering with Infrastructure
 
-There are times during the development lifecycle that changes need to be communicated with the Infrastructure group. For example:
+There are times during the development lifecycle that changes need to be communicated to the [Infrastructure teams](https://about.gitlab.com/handbook/engineering/infrastructure/#teams). For example:
 
 - If your work will impact rate-limits as in [GitLab-#778](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/778)
 - If you are considering adjusting the existing [Package limits](https://docs.gitlab.com/ee/administration/instance_limits.html#package-registry-limits)
