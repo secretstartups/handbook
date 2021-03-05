@@ -616,5 +616,16 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 ##### Step 5: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a :white_check_mark: for the parameter you have set up.
 
+## Removing Registrations from Marketo Programs
+
+Once a landing page has been set up for a campaign, it is good practice to have multiple people test the registration to make sure everything is integrated and running properly. As a result, there are often various test registrations in the Marketo program. To remove these test registrations, follow the below instructions.
+
+1. Log into Marketo and click into the appropriate program for your campaign
+1. Click on the `Members` tab at the top of the page
+1. Click on the line item for the member you wish to remove and make sure that line item is highlighted
+1. Select `Change Status` at the top of the screen
+1. Select `Not in Program` in the drop down 
+1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
+
 
 
