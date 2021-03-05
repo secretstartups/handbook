@@ -145,6 +145,8 @@ Note: As License Usage weightings increase, it absorbs the difference from `TAM 
 
 #### Triage CTA
 
+##### Opening a Triage CTA:
+
 When an account's health status changes to something other than [Green](#green), it may warrant creating a [Gainsight CTA](/handbook/customer-success/tam/gainsight/#ctas). The following criteria determine the creation of the triage CTA:
 
 - [Red](#red): The TAM will create a triage CTA
@@ -157,6 +159,10 @@ To manually create the triage CTA, perform the following steps:
 - Choose the triage playbook.
 
 Automatic triage CTA creation is triggered by the Gainsight rule `CTA - Create Triage CTA when health becomes Red` the next day if a Triage CTA and/or playbook has not yet been created.
+
+##### Closing a Triage CTA:
+
+When a triage issue/risk situation is resolved, or once the customer renews and is past any immediate risk of further downsell, the triage CTA can be closed.  The CTA is kept open until this time so that the average time can be tracked to better understand patterns around time-to-resolution on customer health risk scenarios.
 
 ### GitLab Account Triage Project
 
