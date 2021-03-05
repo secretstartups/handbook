@@ -211,6 +211,6 @@ I'm a southpaw (left-handed player) and my wife is right-handed, which explains 
 1. Paul Reed Smith (PRS) John Mayer Silver Sky (2020) // tungsten // maple fretboard // right-handed
 1. Gibson Les Paul Standard Gold Top // gold // rosewood fretboard // right-handed
 1. Gibson Les Paul Standard // black / rosewood fretboard // left-handed
-1. Warrior Gabriel custom shop // pearl white // ebony fretboard with custom "...loved..." pearl inlays // right-handed
+1. Warrior Gabriel custom shop // pearl white // ebony fretboard with custom "_...loved..._" pearl inlays // right-handed
 
 Return to the main [Marketing handbook section](/handbook/marketing/).
