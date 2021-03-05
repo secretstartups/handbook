@@ -29,6 +29,11 @@ flowchart TD
     K[Guide]
     L[Glassdoor]
     M[HelloSign]
+    N[ADP]
+    O[Lumity]
+
+    B --> N
+    B --> O
 
     A <--> K
     A -->|Custom Integration| B
