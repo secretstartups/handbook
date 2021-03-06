@@ -226,6 +226,17 @@ When a bug is detected on staging, engineers should evaluate its severity will b
 
 In particular, when the most used package registries (npm, Maven) are impacted negatively, consider the bug a higher severity. If the bug disrupts the expected behavior of those package registries, consider blocking the next production deployment with the appropriate actions above.
 
+### Dashboards
+
+We monitor our features using different dashboards. It is recommended to check them weekly.
+
+These dashboards are all internal and can be only accessed by GitLab Team members.
+
+- [Package Dashboard](https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package) (Grafana)
+- [Container Registry](https://log.gprd.gitlab.net/goto/e7b62a23a5a9cdc88aa1de3cdb392758) (Kibana)
+- [Dependency Proxy](https://log.gprd.gitlab.net/goto/3d363d13eaf8133a4216149e335ab1b9) (Kibana)
+- [Cleanup policies for Container Images](https://log.gprd.gitlab.net/goto/b03da1dcaf2ac281994f72687347f40a) (Kibana)
+
 ### How we measure results
 
 In order to better align our effort with our customer's needs we will use the following methodology to measure our results. We believe that our best measure of success and progress is our [product category maturity plan](https://about.gitlab.com/direction/maturity/#package). Progress towards these goals will be measured as follows:
