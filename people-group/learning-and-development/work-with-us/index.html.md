@@ -81,11 +81,6 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 
 ### Integrate external content to GitLab Learn
 
-The process for integrating external content to GitLab Learn is being built.
-
-**Timeline and expectations**
-
-
 Teams might be interested in integrating external training platforms and resources into GitLab Learn. Integrating these trainings into GitLab Learn can be a great way to keep learning resources for team members in one place and to track completions.
 
 To start looking into the potential of integrating an external learning source into GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `external_learning_content` template. All steps should be outlined on this template.  
