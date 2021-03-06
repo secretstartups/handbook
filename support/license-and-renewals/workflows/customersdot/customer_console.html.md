@@ -616,7 +616,7 @@ Update a group's additional storage.
 #### Sample
 
 ```ruby
-irb(main):180:0>  update_extra_minutes("gitlab-gold",5000)
+irb(main):180:0>  update_extra_storage("gitlab-gold",5000)
 {"id"=>12345678,
  "name"=>"GitLab.com - Gold",
  "path"=>"gitlab-gold",
