@@ -210,7 +210,7 @@ The integration process is outlined in our [acquisition integration page](/handb
 An acquisition team will consist of the following GitLab functional team members:
 
 1. Dir. Corporate Development - acquisition lead
-1. Dir. Product Management
+1. [Product Section Leader](/handbook/product/product-leadership/#general-product-organizational-structure) (reporting to [VP Product](https://about.gitlab.com/job-families/product/vp-of-product/))
 1. Product Manager
 1. Dir. Engineering
 1. Engineering team member
