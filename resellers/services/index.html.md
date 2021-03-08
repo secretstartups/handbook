@@ -474,17 +474,14 @@ This community is designed to allow partner service delivery teams to directly c
 2. Serving as a knowledge base of delivery patterns and best practices.
 3. Reducing delivery risk by applying best practices of GitLab practitioners worldwide.  
 
-Learn about this community in this video. 
+Learn about this community in [this video](https://www.brighttalk.com/webcast/18613/472525). 
 
 
 
 
 ### Accessing the Community
 
-When a partner is awarded a GitLab Certified Service Partner certification, the partner account administrator will be invited to join this community. The partner account administrator can reference this video to learn how to add and manage users who can access this project.
-
-
-<div class="jsBrightTALKEmbedWrapper" style="width:100%; height:100%; position:relative;background: #ffffff;"><script class="jsBrightTALKEmbedConfig" type="application/json">{ "channelId" : 18613, "language": "en-US", "commId" : 472272, "displayMode" : "standalone", "height" : "auto" }</script><script src="https://www.brighttalk.com/clients/js/player-embed/player-embed.js" class="jsBrightTALKEmbed"></script></div>
+When a partner is awarded a GitLab Certified Service Partner certification, the partner account administrator will be invited to join this community. The partner account administrator can reference [this video](https://www.brighttalk.com/webcast/18613/472272) to learn how to add and manage users who can access this project.
 
 
 ### User Commitments to the Community
@@ -497,12 +494,8 @@ As a company, GitLab is dedicated to open source, and this community is one of t
 2. Keep a tidy board 
 3. Do not share customer identifiable information when posting to an issue in this project.
 
-You can find out how to be a great community member in this video.
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1TxpcEy7niskSPOVjrlgTjU6zaIXXQwb_/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+You can find out how to be a great community member in [this video](https://www.brighttalk.com/webcast/18613/472541).
+
 
 
 ## Maintaining Service Partner Certifications
