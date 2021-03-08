@@ -84,7 +84,7 @@ Work with your crew to prevent breaches:
 
 **How to reply to tickets while in the crew:**
 
-1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) reach out to the customer and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.zendesk.com/agent/admin/macros/360093631494).
+1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) reach out to the customer and agree on the new priority. Use the macro [`General::Changed priority`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360093631494).
 1. If the ticket **has an assignee**:
    1. If the assignee is in your Region, link the ticket in Slack and ping them asking if they are able to take a look.
    1. If the assignee is from another Region and it's during their “office hours” ask them if they could take a look.
@@ -245,7 +245,7 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
    * Take a break if you need one - making sure your team knows you're stepping away by posting in `#support_team_chat`
    * Ask the rest of the team for help when needed in `#support_self-managed`
 4. You may see tickets requesting information that is not in the realm of support. For example, you may get a ticket from a job applicant to GitLab requesting information on their application. In these cases, do your best to direct them to an appropriate contact and close the support ticket. In the case of hiring questions, you can ping the #recruiting channel in Slack to inform them that the candidate reached out, and update the candidate via the ticket.
-   * There is a macro called `General::Job Application Questions` for hiring-specific questions in Zendesk.
+   * There is a macro called [`General::Job Application Questions`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360029934099) for hiring-specific questions in Zendesk.
    * For other common requests, see the [Triaging tickets](/handbook/support/workflows/ticket_triage.html#other-requests) page.
 
 ### FRT Dashboards
@@ -276,7 +276,7 @@ SLA Hawks drive achievement via our KPIs for [Service Level Agreement KPI](/hand
 
 1. Each day, sort the Zendesk view for [SM with SLA](https://gitlab.zendesk.com/agent/filters/360038124139) by '*Next SLA Breach*' ascending, starting with most breached ticket first.
 2. Read the ticket yourself and if you feel you know what the next action is, do that (e.g. ask the customer for more information, solve the ticket if the issue is resolved, send your own reply if you have a great idea). There's no need to spend too long at this stage - 10 minutes at most. If the next action requires more work move on to the next step.
-3. If you feel the priority does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) reach out to the customer and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.zendesk.com/agent/admin/macros/360093631494).
+3. If you feel the priority does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) reach out to the customer and agree on the new priority. Use the macro [`General::Changed priority`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360093631494).
 4. If a ticket **has an assignee**:
    1. If the assignee is in your Region, link the ticket in `#support-self-managed` and ping them asking if they are able to take a look. We've adopted a convention of prefixing your message in Slack with `[SLAH]` so that folks know you're currently in that role.
    1. If the assignee is from another Region and it's during their “office hours” ask them if they could take a look.
