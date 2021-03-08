@@ -26,3 +26,11 @@ The companywide People Group process should be followed [For Managers: Requestin
 * Send a message to the `#team-member-updates` Slack channel.
 * Share the message from `#team-member-updates` into the `#support-team-chat` channel for Support Team visibility.
 
+#### Day of transfer
+
+On the day of transfer, there are a lot of tasks that need to be done. To
+simplify the process, we recommend using the
+[Support Member Transfer issue template](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Support%20Member%20Transfer)
+to generate an issue in the
+[Support Ops Project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project)
+issue tracker. This will guide you through the process.
