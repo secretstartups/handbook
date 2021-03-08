@@ -57,7 +57,7 @@ Please see [Log requests workflow](https://about.gitlab.com/handbook/support/wor
 ### Other Legal-related Questions
 A request may come in that you believe needs legal input but does not fit into one of the prescribed workflows. Follow this workflow in such a situation:
 
-1. Follow the instructions for [contacting Legal](https://about.gitlab.com/handbook/legal/#contacting-the-legal-team-with-general-legal-questions) based on the specifics of the request.
+1. Follow the instructions for [contacting Legal](https://about.gitlab.com/handbook/legal/#3-other-legal-requests) based on the specifics of the request.
 1. Respond to the ticket with the `Legal::General` macro
 
 
