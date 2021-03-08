@@ -72,8 +72,6 @@ GitLab team members using EdCast in the following capacity should complete the A
 | [Gamification Features](https://hpa.edcast.com/insights/gitlab-bootcamp-gamifications-mp4) | How to incorporate gamification |
 | [Mobile Configuration Features](https://hpa.edcast.com/insights/mobile-lxp) | How to configure mobile setup |
 | [User Analytics](https://www.youtube.com/watch?v=Mfa4gGotiKE) | Analytics settings and access |
-| Admin Panel Content Connectors | TBD |
-| Workflos | TBD |
 
 
 
@@ -120,8 +118,6 @@ GitLab team members using EdCast in the following capacity should complete the M
 | ----- | ----- |
 | [Marketplace Foundations Google Drive](https://drive.google.com/drive/folders/1nT1Su0__FISKHb6h845v1lmuUhwOcVr3) | Main storage folder |
 
-
-
 ## Additional Resources
 
 ### Governance
@@ -137,4 +133,6 @@ EdCast has provided the following guideslines and resources for branding in thei
 - [Color Customization Guide](https://drive.google.com/file/d/1BAk0YQzDUZFabtemxBi9h-JeAU__95Xd/view)
 - [LXP Image Guidelines](https://drive.google.com/file/d/1VTsEGDd9_kLag8YuU9iSwWcEnACJl3CB/view)
 
+### EdCast API
 
+Information about the EdCast API and product integrations can be found at their docs site, [docs.edcast.com](https://docs.edcast.com/docs)
