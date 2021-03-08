@@ -342,7 +342,7 @@ Make sure the appropriate labels (such as `customer`) are applied so every issue
 
 [![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-foss/-/snippets/1731455)
 
-Teams (Product, UX, Engineering) continually work on issues according to their respective workflows.
+Teams (Product, UX, Development, Quality) continually work on issues according to their respective workflows.
 There is no specified process whereby a particular person should be working on a set of issues in a given time period.
 However, there are specific deadlines that should inform team workflows and prioritization.
 Suppose we are talking about milestone `m` that will be shipped in month `M` (on the 22nd).
@@ -359,7 +359,7 @@ We have the following deadlines:
 - On month `M-1, 18th` (or next business day, milestone `m` begins): **Kick off!** 📣
   - [Company Kickoff](#kickoff) call live streamed.
   - Development on milestone `m` begins
-- On `M-1 26th`: GitLab Bot opens [Team Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
+- On `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
 - By month `M, 17th`:
   - Completed `m` issues with docs have been merged into master.
   - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html).
@@ -367,7 +367,7 @@ We have the following deadlines:
   - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
 - On or around `M, 19th`:
-  - [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective summary and discussion](#retrospective)
+  - [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective summary and discussion](#retrospective)
 - On `M, 19th`, or `M, 20th`, or `M, 21st`:
   - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
 - On month `M, 22nd`: **Release Day** 🚀
@@ -406,18 +406,18 @@ The notes are available in a publicly-accessible [Google doc](https://docs.googl
 
 ## Retrospective
 
-The purpose of our retrospective is to help our team at GitLab learn and improve as much as possible from every monthly release.
+The purpose of our retrospective is to help each Product Group, and the entire [R&D cost center](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#by-cost-center---where-gitlabbers-report) at GitLab learn and improve as much as possible from every monthly release.
 
 Each retrospective consist of three parts:
 
-- [Team Retrospectives](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/): retrospectives held by individual teams
-- [Retrospective Summary](https://about.gitlab.com/handbook/engineering/workflow/#retrospective-summary): a short pre-recorded video which summarizes the learnings across all team retrospectives
+- [Group Retrospectives](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/): retrospectives held by individual [Product Groups](/company/team/structure/#product-groups)
+- [Retrospective Summary](https://about.gitlab.com/handbook/engineering/workflow/#retrospective-summary): a short pre-recorded video which summarizes the learnings across all group retrospectives
 - [Retrospective Discussion](https://about.gitlab.com/handbook/engineering/workflow/#retrospective-discussion): a 25 minute live discussion diving into retrospective discussion topics]
 
 **Timeline**
 
-- `M-1 26th`: GitLab Bot opens [Team Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
-- `M, 19th`: Team Retrospectives should be held.
+- `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
+- `M, 19th`: Group Retrospectives should be held.
 - `M, 24th`: Moderator opens the Retrospective planning and execution issue.
 - `M, 24th` to `M+1, 3rd`: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
 - `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
@@ -443,26 +443,26 @@ For each monthly release, a Retrospective planning and execution issue ([example
 
 The [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit) is a Google Doc we use to collaborate on for our Retrospective Summary and Retrospective Discussion.
 
-### Team Retrospectives
+### Group Retrospectives
 
-At the end of every release, each team should host their own retrospective. For details on how this is done, see [Team Retrospectives](/handbook/engineering/management/team-retrospectives/).
+At the end of every release, each team should host their own retrospective. For details on how this is done, see [Group Retrospectives](/handbook/engineering/management/team-retrospectives/).
 
 ### Retrospective Summary
 
-The Retrospective Summary is a short pre-recorded video which summarizes the learnings across all [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) ([example video](https://www.youtube.com/watch?v=XdENBhVOSiw&feature=youtu.be), [example presentation](https://docs.google.com/presentation/d/1kH9TwUAXbslM1cac938hS4Y-3mEBojQlwHw_Mm44kDE/edit?usp=sharing)).
+The Retrospective Summary is a short pre-recorded video which summarizes the learnings across all [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) ([example video](https://www.youtube.com/watch?v=XdENBhVOSiw&feature=youtu.be), [example presentation](https://docs.google.com/presentation/d/1kH9TwUAXbslM1cac938hS4Y-3mEBojQlwHw_Mm44kDE/edit?usp=sharing)).
 
-Once all Team Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
+Once all Group Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
 
 **Steps for participants**
-1. Please host your Team Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
-1. After the Team Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
+1. Please host your Group Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
+1. After the Group Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
 1. In the retro doc, if there is a learning that you would like to explicitly highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other learnings listed in the retro doc when they create the pre-recorded video.
 1. If there are improvement tasks for your team from the previous retrospective, please provide an update on them in the retro doc. They will be verbalized during the Retrospective Discussion.
 1. If there are improvement tasks for your team in the current retrospective, please add them in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit). They will be verbalized during the Retrospective Discussion.
-1. Add a checkbox in the table of the Retrospective planning and execution issue when your Team Retrospective is complete and when the retro doc is updated.
+1. Add a checkbox in the table of the Retrospective planning and execution issue when your Group Retrospective is complete and when the retro doc is updated.
 
 **Steps for the moderator**
-1. Please read through the Team Retrospective learnings in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
+1. Please read through the Group Retrospective learnings in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
 1. Add the learnings into a slide deck and identify the highlights you would like to cover.
 1. Record a video presentation summarizing the highlights.
 1. Upload this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
@@ -470,13 +470,13 @@ Once all Team Retrospectives are completed, each team inputs their learnings int
 
 ### Retrospective Discussion
 
-The Retrospective Discussion is a 25 minute live discussion among participants where we deep dive into discussion topics from our Team Retrospectives ([example](https://www.youtube.com/watch?v=WP9E7RbNSPw)). In line with our value of [transparency](/handbook/values/#transparency), we livestream this meeting to YouTube and monitor chat for questions from viewers. Please check the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing) for details on joining the livestream.
+The Retrospective Discussion is a 25 minute live discussion among participants where we deep dive into discussion topics from our Group Retrospectives ([example](https://www.youtube.com/watch?v=WP9E7RbNSPw)). In line with our value of [transparency](/handbook/values/#transparency), we livestream this meeting to YouTube and monitor chat for questions from viewers. Please check the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing) for details on joining the livestream.
 
 **Discussion Topics**
 
 For each retrospective discussion, we aim to host an interactive discussion covering two discussion topics. We limit this to two topics due to the length of the meeting.
 
-The discussion topics stem from our Team Retrospective learnings and should be applicable to the majority of participants.
+The discussion topics stem from our Group Retrospective learnings and should be applicable to the majority of participants.
 
 Discussion topics are suggested by participants by commenting on the Retrospective planning and execution issue. Participants can vote on these topics by adding a :thumbsup: reaction. The two topics with the most :thumbsup: votes will be used as the discussion topics. If there are not enough votes or if the discussion topics are not relevant to the majority of participants, the moderator can choose other discussion topics.
 
