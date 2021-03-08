@@ -78,7 +78,7 @@ The Partner Helpdesk team has compiled a list of issues and solutions to the mos
 
 ## Help Your Partners Become a GitLab Certified Service Partner:
 
-Step 1: Introduce your partners to the [GitLab Certified Service Partner](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview) 
+Step 1: Introduce your partners to the [GitLab Certified Service Partner Program](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview) 
 
 Step 2: Set an enablement plan with the partner representative that identifies their key employees who sign up for training and become certified to meet the enablement requirements.
 
@@ -120,7 +120,7 @@ Within 7 calendar days of assignment of the issue to the CAM who will:
     2. If this is the first GitLab Certified Service Partner certification, grant the partner admin access to the GitLab Service Partner Community after the CAM has notified the partner about their new certification. [This video](https://www.brighttalk.com/webcast/18613/472279) demonstrates how.
                                                                                                                                                                                                                                                  
 3. If the partner indicates they want to create a Press Release about their new Services Certification; please follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#partner-needs-support-of-their-press-release-pr-with-a-quote-from-gitlab)  to request a press release.
-1. [Practitioner Badging Process - link to Training & Enablement ops](https://docs.google.com/document/d/1HXWEJ-Yr26YQYpp_Ap2sqA14Ltsu0je0dQUsnh12p6w/edit?usp=sharing)
+1. [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/)
 2. Impartner vs. Edcast: 
 
 
