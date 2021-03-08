@@ -35,7 +35,7 @@ The content library is where all your uploaded assets are stored and tagged in P
 1. Copy and paste the public title into the internal title field.
 1. Funnel stage and estimated cost is set automatically based on the content type you chose earlier. Please leave these auto-generated tags as is and do not force change. 
 1. Set the language of the asset.
-1. Select the Business Unit of the asset based on use and sales region.
+1. Select the Business Unit of the asset based on [GTM motion](https://about.gitlab.com/handbook/marketing/plan-fy22/#gtm-motions).
 1. Set the expiry date of the asset if one exists.
 1. Leave External ID blank.
 1. Select the content topics on the right-hand side that categorize the asset. Follow the [content tag map below](#tracking-content) when tagging content with topics.
