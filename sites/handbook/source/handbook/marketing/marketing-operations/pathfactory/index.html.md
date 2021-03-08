@@ -312,7 +312,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 ## PathFactory Forms
 
-The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. 
+The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag and custom paramters **must be hardcoded in the script**. 
 
 ### Request a new PathFactory Form
 
