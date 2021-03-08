@@ -320,13 +320,13 @@ Each Certification track offers unique benefits that help partners better prepar
 <table>
   <tr>
    <td colspan="5" >
-<h3>Training Benefits</h3>
+<h3>Service Enablement Benefits</h3>
 
-GitLab recognizes the important role our partners play in delivering value and services to our joint customers. To ensure partners have the latest sales and technical knowledge about our products, we offer many different training opportunities. Partners can learn in a self-paced environment, on-line as well as various in-person, instructor-led classes. Training Benefits give partners the opportunity to pursue accreditations and certifications.
+GitLab recognizes the important role our partners play in delivering value and services to our joint customers. To ensure partners have the latest sales and technical knowledge about our products, we offer many different training opportunities and technical resources. Partners can learn in a self-paced environment, on-line as well as various in-person, instructor-led classes. Training Benefits give partners the opportunity to pursue accreditations and certifications.
    </td>
   </tr>
   <tr>
-   <td rowspan="5" >Training Benefits and Resources
+   <td rowspan="6" >Training Benefits and Technical Resources
    </td>
    <td>Open/Select
    </td>
@@ -355,6 +355,12 @@ GitLab recognizes the important role our partners play in delivering value and s
    <td>
    </td>
    <td colspan="3" >Certifications: Recognize service capabilities among your delivery teams
+   </td>
+  </tr>
+  <tr>
+  <td>
+  </td>
+   <td colspan="3" >Access to the Partner Service Community
    </td>
   </tr>
   <tr>
@@ -447,7 +453,7 @@ All authorized GitLab partners are eligible for co-selling with the GitLab Sales
    <td colspan="3" >
    </td>
    <td>
-   80% discount on licensed courseware
+   Low cost licensed courseware
    </td>
   </tr>
 </table>
@@ -455,6 +461,43 @@ All authorized GitLab partners are eligible for co-selling with the GitLab Sales
 
 
 <br>
+## Partner Service Community
+
+
+### Overview
+
+This community is designed to allow partner service delivery teams to directly collaborate on project specific challenges with the internal GitLab technical teams. The community will benefit the GitLab Certified Service Partners by:
+
+
+
+1. Extending the technical service enablement beyond the certification curriculum and into the real world. 
+2. Serving as a knowledge base of delivery patterns and best practices.
+3. Reducing delivery risk by applying best practices of GitLab practitioners worldwide.  
+
+Learn about this community in [this video](https://www.brighttalk.com/webcast/18613/472525). 
+
+
+
+
+### Accessing the Community
+
+When a partner is awarded a GitLab Certified Service Partner certification, the partner account administrator will be invited to join this community. The partner account administrator can reference [this video](https://www.brighttalk.com/webcast/18613/472272) to learn how to add and manage users who can access this project.
+
+
+### User Commitments to the Community
+
+As a company, GitLab is dedicated to open source, and this community is one of the ways we are implementing that while supporting partners to create excellent customer experiences. Access to this community will only be beneficial if the users commit to being part of a community. Below are a few rules to live by when using this community. 
+
+
+
+1. Give as much as you take 
+2. Keep a tidy board 
+3. Do not share customer identifiable information when posting to an issue in this project.
+
+You can find out how to be a great community member in [this video](https://www.brighttalk.com/webcast/18613/472541).
+
+
+
 ## Maintaining Service Partner Certifications
 
 At GitLab, collaboration and feedback is meant to nurture and mentor our certified service partners to grow their service capabilities and expertise. The program will utilize our internal [customer success metrics](https://about.gitlab.com/handbook/customer-success/vision/#measurement-and-kpis) to measure and understand the GitLab customer experience across the entire ecosystem and help further develop our certified service partners. In order to work together in this process, we will ask you to provide context to the annual customer success report for your customer set one month before it is due to be published. 
