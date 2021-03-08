@@ -10,7 +10,7 @@ title: Product Management Specialty Assignments
 - TOC
 {:toc .hidden-md .hidden-lg}
 <% department = 'Product Management' %>
-<% product_team = Gitlab::Homepage::Team.new.department_matches(department: department) %>
+<% product_team = Gitlab::Homepage.team.department_matches(department: department) %>
 
 <%= "## #{department} Team with Specialty" %>
 
