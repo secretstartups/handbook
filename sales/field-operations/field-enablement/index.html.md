@@ -128,24 +128,23 @@ The below is a work in progress as we define success measures across each stage 
 </details>
 
 <details>
-<summary markdown="span">5. What is most important right now (2HFY21)?</summary>
+<summary markdown="span">5. What is most important right now (1HFY22)?</summary>
 
-1. Improve field efficiency by training and sustaining prioritized knowledge and behavior/skill gaps
-    - Field certification program (Sales, CS & Partner audiences)
-        - Product feature, tiering, and customer use cases
-        - Moments That Matter across the customer journey
-        - Continue to operationalize Command of the Message & MEDDPPICC
-    - Deliver enablement program aligned with top competitor GTM initiatives
-    - Embrace partner enablement as an extension of GitLab Sales and Customer Success enablement
-1. Promote a culture of continuous learning and development
-    - Improve learning experience by implementing new Learning Experience Platform (LXP)
+[**Q1FY22 Field Enablement OKRs**](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/660)
+
+1. **Improve field efficiency (all routes to market) with effective training solutions to address prioritized knowledge and skill gaps**
+    - Collaborate wwith Alliances team to deliver internal enablement for 3 hypercloud partners (AWS, GCP, IBM) ([issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1953))
+    - Field certification program (Sales, SA, TAM, and Partner Sales & SA audiences)
+    - Design & begin to deliver a Manager Training program for the field org ([epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/46))
+    - Continue to operationalize and reinforce Command of the Message & MEDDPPICC
+1. **Promote a culture of continuous learning that activates intrinsic motivation for improvement & development**
+    - Improve learning experience by continued roll-out of new Learning Experience Platform (LXP)
     - Develop and execute robust change management plan that taps into team members’ inherent desire to pursue excellence
-    - Continued execution & ongoing iteration of functional onboarding training to accelerate time to productivity for new field team members
     - Continued execution & ongoing iteration of continuous learning programs (CS Skills Exchange and Sales Enablement Level Up Webcast series)
-1. Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates and has access to information & resources necessary for their day-to-day work
-    - Continue to mature and advance field communications strategy
+1. **Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates and has access to information & resources necessary for their day-to-day work**
+    - Deliver an effective Sales Kickoff 2021
+    - Continuous execution & iteration of field communications strategy
     - Make it easier for Sales to discover & access information/resources they need when they need it
-    - Keep planning for SKO 2021 on track
 
 </details>
 
