@@ -162,6 +162,10 @@ Proof of a threat via numerous indicators as opposed to just theory or conjectur
 
 Here are a few resources to help get you started in threat modeling.
 
+### HowTo guide
+
+We've compiled a beginner friendly [howto guide to threat modeling](/handbook/security/threat_modeling/howto.html).
+
 ### Issue Template for Using PASTA
 
 We've included a sample template to be cut and pasted into an issue or document, which is available [here](https://gitlab.com/gitlab-com/gl-security/security-research/threat-modeling-template). The idea would be to open an issue and work through the template, documenting everything.
