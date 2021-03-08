@@ -500,9 +500,10 @@ As a company, GitLab is dedicated to open source, and this community is one of t
 You can find out how to be a great community member in this video.
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.brighttalk.com/webcast/18613/472541?utm_source=GitLab+Inc.&utm_medium=brighttalk&utm_campaign=472541" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/1TxpcEy7niskSPOVjrlgTjU6zaIXXQwb_/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
 
 ## Maintaining Service Partner Certifications
 
