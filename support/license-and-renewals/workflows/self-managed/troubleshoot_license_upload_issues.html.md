@@ -25,7 +25,7 @@ This error is shown if **any** of the following 3 values are incorrect:
 
 **Note:** For Ultimate licenses, guest users are not counted in the licensed user count. Therefore, the `User.active.count` will be a greater number than the `Active Users` count displayed in the Admin UI dashboard. This can be confusing in a situation where the customer is downgrading from Ultimate or if they have an Ultimate trial, because they need a license for `User.active.count` instead of what is displayed for `Active Users`.
 
-You can use the Zendesk `Subscriptions::Active Users` macro to ask the customer for this information.
+You can use the Zendesk [`Subscriptions::Active Users`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360062275600) macro to ask the customer for this information.
 
 ## Examples
 
