@@ -1,6 +1,6 @@
 <div class="row board-members">
 
-<% Gitlab::Homepage::Team.new.members.select { | member | member.departments.include? 'Board' }.each do | member | %>
+<% Gitlab::Homepage::team.members.select { | member | member.departments.include? 'Board' }.each do | member | %>
 
 <div class="col-lg-4" style="text-align: center;position: relative;max-width: 400px;margin: 0 auto 45px;height:210px;">
 <div class="card">
