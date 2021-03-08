@@ -41,7 +41,7 @@ customer as far as possible before passing the request*
    - checking if they are the owner of the group (for a SaaS subscription)
    - checking if they have access to the instance (via a screenshot)
    - checking if they have access to the account by asking for an invoice
-1. Use the `Support::L&R::Zuora Contact Change` macro to transfer the ticket to AR to
+1. Use the [`Support::L&R::Zuora Contact Change`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=360072090060) macro to transfer the ticket to AR to
    update the bill to and sold to contact in Zuora
 
 Support will still generate a manual license if new contact wants an updated
@@ -75,7 +75,7 @@ in waiting until the subscription expires.
 
 1. Make sure that there aren't any other types of queries that would need the
    Support team's attention
-1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
    process the cancellation. They will reply to the customer once done and issue
    a refund if applicable.
 
@@ -103,7 +103,7 @@ this, CC a manager for approval.*
 1. Determine the reason that they're cancelling and requesting a refund.
 1. Make sure that there aren't any other types of queries that would need the
    Support team's attention
-1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
    process the refund. They will reply to the customer once done.
 
 Note: we cannot do partial refunds, so when a refund is requested, the whole
@@ -117,7 +117,7 @@ accidental renewal scenarios.
 Check first if the invoice is available in [CustomersDot](https://customers.gitlab.com/customers/sign_in).
 
 * If yes: walk the customer through locating the invoices under Payment History for future self-service ability.
-* If no: Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+* If no: Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
   process the request. They will reply to the customer once done.
 
 ### Invoice modification
@@ -127,14 +127,14 @@ When a customer wishes to modify their invoice for tax or administration purpose
 1. Verify that the invoice exists in the system
 1. Make sure that there aren't any other types of queries that would need the
    Support team's attention
-1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
    process the request. They will reply to the customer once done.
 
 ## Payments
 
 ### Requests to make a payment/payment failed
 
-Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
 process the request. They will reply to the customer once done.
 
 ### Credit card removal
@@ -144,7 +144,7 @@ account.
 
 1. Make sure that there aren't any other types of queries that would need the
    Support team's attention.
-1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
    process the request. They will reply to the customer once done.
 
 
@@ -153,7 +153,7 @@ account.
 When a customer has accidentally renewed twice or mistakenly.
 
 1. Determine the reason that the renewal has to be reversed
-1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR,
+1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR,
    they will reverse the renewal so that the subscription is in the same state
    as before the renewal and refund the renewal if applicable
 
@@ -162,7 +162,7 @@ When a customer has accidentally renewed twice or mistakenly.
 When a customer has a payment limit on their card, preventing a single payment for the full amount of their purchase, Billing is able to charge the card in "batches".
 
 1. Get information on the limit and the total cost of the purchase the customer wishes to make.
-1. Use the `General::Accounts Receivable` macro to transfer the ticket to AR to
+1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
    process the request. They will reply to the customer once done.
 
 Note that in some cases, the total amount is too large to charge in 2 batches and Billing might request that a sales-assisted order is done instead. If you're unsure whether this would be the case, you can tag [at]Billing-ops in Chatter on the Account or Opportunity in SFDC to double-check with them.
