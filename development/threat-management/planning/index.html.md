@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Threat Management Planning
+description: "Outline of the Threat Management Sub-Department's planning process"
 ---
 
 # On this page
