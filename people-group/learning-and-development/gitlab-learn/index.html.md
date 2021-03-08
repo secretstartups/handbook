@@ -96,6 +96,601 @@ If you're looking to collaborate with the Learning and Development team in addin
 The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach for all learning content, using the handbook as our single source of truth for learning content. Contributors to the LXP will use the platform to [find and curate](/handbook/people-group/learning-and-development/interactive-learning/) relevant content that exists in the handbook using a structured process. 
 
 
+## Platform Roles and Permissions
+
+The EdCast platform enables creating of cutsom user roles. This section outlines our roles, identifies the permissions of each role, and provides clarity on the audience that has access to or can request these roles.
+
+The following permissions are available on the platform and can be set to the `on` or `off` status for each role:
+
+1. Create comment
+1. Like content
+1. Bookmark content
+1. Mark as complete
+1. Assign content
+1. Dismiss content
+1. Dismiss assignment
+1. Add to pathway
+1. Create group
+1. Create group admin
+1. Create channel
+1. Disable user follow
+1. Can rate
+1. Share
+1. Show user manager
+1. Show content manager
+1. Assign roles
+1. Create content
+1. Create text card
+1. Promote a card
+1. Create a journey
+1. Create podcast
+1. Curate content
+1. Create role
+1. Create leap
+1. Update leap
+1. Delete leap
+1. Pin content
+1. View card analytics
+1. Get leaderboard information
+1. User opt out of leaderboard
+1. Create Livestream/AMA
+1. Upload
+1. Upload content cover images
+1. Enable edgraph
+1. Custom labels
+1. Publish links
+1. Change author
+1. Bypass curation
+1. Developer
+1. Upload scorm content
+1. Use dynamic selection
+1. Perfect your pitch
+1. Copy content
+1. Mark as private
+1. Manage content
+1. Manage group content
+1. Manage channels
+1. Manage users
+1. Manage group users
+1. Manage analytics
+1. Manage channel analytics
+1. Manage group analytics
+
+
+### Platform Administrator
+
+#### Permissions
+
+| Permission | Status |
+| ----- | ----- |
+| All Permissions | On |
+
+#### Platform Administrator user group
+
+The `Platform Administrator` role is reserved for team members involved in overall platform management and organization. The Learning and Development team manages the GitLab Learn instance. This entire team should have `Platform Administrator` rights. 
+
+In addition, the Professional Services team uses the platform extensively for paid and unpaid certifications, so some PS team members might require `Platform Administrator` access. Others heavily involved in the building and maintence of GitLab Learn can request this access level. 
+
+| Team Member Name | Team |
+| ----- | ----- |
+| Josh Zimmerman | Learning and Development |
+| Jacie Bandur | Learning and Development |
+| Samantha Lee | Learning and Development |
+| Christine Yoshida | Professional Services |
+| Kendra Marquart | Professional Services |
+| Wakae McLaurin | Professional Services
+
+#### Task examples
+
+| Platform Administrator Responsibility | DRI |
+| ----- | ----- |
+| LinkedIn Learning integration and licenses | Jacie Bandur |
+| Discover page organization. content promotion, and custom carousel creation | Samantha Lee |
+| Platform login permissions | Samantha Lee |
+| Notification settings | Samantha Lee |
+| Paid certifications | Christine Yoshida |
+
+#### Requesting support from Platform Administrators
+
+Content Adminitrators and Learning Evangelists might request support from the `Platform Administrators` for platform updates and content promotion. Communication should be done in Slack via the #learninganddevelopment channel. Example scenarios where `Platform Administrators` might need to be involved include:
+
+1. Content to be featured on Discover Page
+1. A new learning group created for a GitLab Team
+1. LinkedIn Learning access and course recommendations
+1. Enrollment in a paid certification
+
+### Content Administrator
+
+#### Permissions
+
+| Permission | Status |
+| ----- | ----- |
+| Create comment | On |
+| Like content | On |
+| Bookmark content | On |
+| Mark as complete | On |
+| Assign content | On |
+| Dismiss content | On |
+| Dismiss assignment | On |
+| Add to pathway | On |
+| Create group | On |
+| Create group admin | On |
+| Create channel | On |
+| Disable user follow | On |
+| Can rate | On |
+| Share | On |
+| Show user manager | On |
+| Show content manager | On |
+| Assign roles | Off |
+| Create content | On |
+| Create text card | On |
+| Promote a card | On |
+| Create a journey | On |
+| Create podcast | On |
+| Curate content | On |
+| Create role | Off |
+| Create leap | On |
+| Update leap | On |
+| Delete leap | On |
+| Pin content | On |
+| View card analytics | On |
+| Get leaderboard information | On |
+| User opt out of leaderboard | On |
+| Create Livestream/AMA | On |
+| Upload | On |
+| Upload content cover images | On |
+| Enable edgraph | On |
+| Custom labels | On |
+| Publish links | On |
+| Change author | On |
+| Bypass curation | On |
+| Developer | Off |
+| Upload scorm content | On |
+| Use dynamic selection | On |
+| Perfect your pitch | On |
+| Copy content | On |
+| Mark as private | On |
+| Manage content | On |
+| Manage group content | On |
+| Manage channels | On |
+| Manage users | Off |
+| Manage group users | On |
+| Manage analytics | On |
+| Manage channel analytics | On |
+| Manage group analytics | On |
+
+#### Content Administrator user group
+
+`Content administrators` are granted permissions to follow most processes outline in the [GitLab Learn admin handbook](/handbook/people-group/learning-and-development/gitlab-learn/admin). This admin group should feel confident in doing these admin tasks without needing to gain approval from other content or platform administrators. If there is a change made that might impact users in another group or team, the admin should gain approval via Slack in the #learninganddevelopment channel.
+
+| Team Member Name | Team |
+| ----- | ----- |
+| Kelley Shirazi | Field Enablement |
+| John Blevins | Field Enablement |
+| Issac Abbasi | Field Enablement | 
+
+#### Task examples
+
+| Category | Approved Tasks |
+| ----- | ----- |
+| Content Upload - SmartCards, Pathways, and Journeys | Upload/Edit/Manage learning content based on platform best practices, Share content with Groups and Channels |
+| Groups | Create/Edit/Manage Groups, Set up Dynamic Group Workflows |
+| Channels | Create/Edit/Manage Channels |
+
+
+### Learning Evangelist
+
+#### Permissions
+
+| Permission | Status |
+| ----- | ----- |
+| Create comment | Off |
+| Like content | Off |
+| Bookmark content | Off |
+| Mark as complete | Off |
+| Assign content | Off |
+| Dismiss content | Off |
+| Dismiss assignment | Off |
+| Add to pathway | On |
+| Create group | Off |
+| Create group admin | Off |
+| Create channel | Off |
+| Disable user follow | On|
+| Can rate | Off |
+| Share | Off |
+| Show user manager | Off |
+| Show content manager | Off |
+| Assign roles | Off |
+| Create content | On |
+| Create text card | On |
+| Promote a card | On |
+| Create a journey | On |
+| Create podcast | On |
+| Curate content | On |
+| Create role | Off |
+| Create leap | On |
+| Update leap | On |
+| Delete leap | On |
+| Pin content | On |
+| View card analytics | Off |
+| Get leaderboard information | On |
+| User opt out of leaderboard | Off |
+| Upload | On |
+| Upload content cover images | On |
+| Enable edgraph | Off |
+| Custom labels | On |
+| Publish links | On |
+| Change author | Off |
+| Bypass curation | Off |
+| Developer | Off |
+| Upload scorm content | On |
+| Use dynamic selection | On |
+| Perfect your pitch | Off |
+| Copy content | Off |
+| Mark as private | On |
+| Manage content | Off |
+| Manage group content | Off |
+| Manage channels | Off |
+| Manage users | Off |
+| Manage group users | Off |
+| Manage analytics | Off |
+| Manage channel analytics | Off |
+| Manage group analytics | Off |
+
+#### Learning Evangelist user group
+
+The `Learning Evangelist` role is reserved for team members who have successfully completed the [Learning Evangelist Pathway](/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions/) in GitLab Learn. This Pathway trains users on how to contribute branded, handbook-first content to the platform. This role is only granted to users who also have the `GitLab Team Members` role enabled.
+
+#### Task examples
+
+- A GitLab team member contributes an interesting article they read about remote leadership
+- A manager uploads a learning pathway to train their team on a new skill or tool
+
+
+### Curator
+
+#### Permissions
+
+| Permission | Status |
+| ----- | ----- |
+| Create comment | Off |
+| Like content | Off |
+| Bookmark content | Off |
+| Mark as complete | Off |
+| Assign content | Off |
+| Dismiss content | Off |
+| Dismiss assignment | Off |
+| Add to pathway | On |
+| Create group | Off |
+| Create group admin | Off |
+| Create channel | Off |
+| Disable user follow | Off|
+| Can rate | Off |
+| Share | Off |
+| Show user manager | Off |
+| Show content manager | Off |
+| Assign roles | Off |
+| Create content | Off |
+| Create text card | Off |
+| Promote a card | Off |
+| Create a journey | On |
+| Create podcast | Off |
+| Curate content | On |
+| Create role | Off |
+| Create leap | On |
+| Update leap | On |
+| Delete leap | On |
+| Pin content | Off |
+| View card analytics | Off |
+| Get leaderboard information | Off |
+| User opt out of leaderboard | Off |
+| Upload | Off |
+| Upload content cover images | Off |
+| Enable edgraph | Off |
+| Custom labels | On |
+| Publish links | Off |
+| Change author | Off |
+| Bypass curation | Off |
+| Developer | Off |
+| Upload scorm content | Off |
+| Use dynamic selection | Off |
+| Perfect your pitch | Off |
+| Copy content | Off |
+| Mark as private | On |
+| Manage content | Off |
+| Manage group content | Off |
+| Manage channels | Off |
+| Manage users | Off |
+| Manage group users | Off |
+| Manage analytics | Off |
+| Manage channel analytics | Off |
+| Manage group analytics | Off |
+
+#### Curator user group
+
+The `Curator` role is for GitLab team members who are intersted in curating existing content on GitLab Learn for their team, speifically content from LinkedIn Learning. This role can be useful for teams who want to suggest LinkedIn Learning content for their team, but do not need to create or contribute new learning content like a Learning Evangelist. This role is only granted to users who also have the `GitLab Team Members` role enabled.
+
+
+### Member
+
+#### Permissions
+
+| Permission | Status |
+| ----- | ----- |
+| Create comment | On |
+| Like content | On |
+| Bookmark content | On |
+| Mark as complete | On |
+| Assign content | Off |
+| Dismiss content | On |
+| Dismiss assignment | Off |
+| Add to pathway | Off |
+| Create group | Off |
+| Create group admin | Off |
+| Create channel | Off |
+| Disable user follow | On |
+| Can rate | On |
+| Share | On |
+| Show user manager | Off |
+| Show content manager | Off |
+| Assign roles | Off |
+| Create content | Off |
+| Create text card | Off |
+| Promote a card | Off |
+| Create a journey | Off |
+| Create podcast | Off |
+| Curate content | Off |
+| Create role | Off |
+| Create leap | Off |
+| Update leap | Off |
+| Delete leap | Off |
+| Pin content | Off |
+| View card analytics | Off |
+| Get leaderboard information | On |
+| User opt out of leaderboard | On |
+| Upload | Off |
+| Upload content cover images | Off |
+| Enable edgraph | Off |
+| Custom labels | Off |
+| Publish links | Off |
+| Change author | Off |
+| Bypass curation | Off |
+| Developer | Off |
+| Upload scorm content | | Off |
+| Use dynamic selection | Off |
+| Perfect your pitch | Off |
+| Copy content | Off |
+| Mark as private | Off |
+| Manage content | Off |
+| Manage group content | Off |
+| Manage channels | Off |
+| Manage users | Off |
+| Manage group users | Off |
+| Manage analytics | Off |
+| Manage channel analytics | Off |
+| Manage group analytics | Off |
+
+#### Member user group
+
+The `Member` role is assigned to all platform users automatically upon signing up to the platfomr. This includes GitLab team members, customers, and community members.
+
+
+### EdGraph: Reporting Access
+
+The `EdGraph: Reporting Access` role allows users to view data analtyics and reports in the EdGraph platform. This role will enable EdGraph to appear in the user's waffle menu via the EdCast platform.
+
+#### Permissions
+
+| Permissions | Status |
+| ----- | ----- |
+| Enable edgraph | On |
+| All other permissions | Off |
+
+#### EdGraph: Reporting Access user group
+
+Our team is working on iterating analytics management from GitLab Learn to be visable in Sisense. Right now, the implementation team has this role provisioned on their accounts. However, it will be deprecated or restricted to Platform Administrators when the transition to Sisense is complete.
+
+#### Task examples
+
+- View broad analytics of the platform, including engaged users, course completions, etc.
+- Build and pull custom reports on specific SmartCards, Pathways, and Journeys
+
+
+### Manager
+
+#### Permissions
+
+| Permission | Status |
+| ----- | ----- |
+| Create comment | Off |
+| Like content | Off |
+| Bookmark content | Off |
+| Mark as complete | Off |
+| Assign content | On |
+| Dismiss content | Off |
+| Dismiss assignment | Off |
+| Add to pathway | Off |
+| Create group | Off |
+| Create group admin | Off |
+| Create channel | Off |
+| Disable user follow | Off |
+| Can rate | Off |
+| Share | On |
+| Show user manager | On |
+| Show content manager | On |
+| Assign roles | Off |
+| Create content | Off |
+| Create text card | Off |
+| Promote a card | Off |
+| Create a journey | Off |
+| Create podcast | Off |
+| Curate content | Off |
+| Create role | Off |
+| Create leap | Off |
+| Update leap | Off |
+| Delete leap | Off |
+| Pin content | Off |
+| View card analytics | Off |
+| Get leaderboard information | Off |
+| User opt out of leaderboard | Off |
+| Upload | Off |
+| Upload content cover images | Off |
+| Enable edgraph | Off |
+| Custom labels | Off |
+| Publish links | Off |
+| Change author | Off |
+| Bypass curation | Off |
+| Developer | Off |
+| Upload scorm content | | Off |
+| Use dynamic selection | Off |
+| Perfect your pitch | Off |
+| Copy content | Off |
+| Mark as private | Off |
+| Manage content | Off |
+| Manage group content | Off |
+| Manage channels | Off |
+| Manage users | Off |
+| Manage group users | Off |
+| Manage analytics | Off |
+| Manage channel analytics | Off |
+| Manage group analytics | Off |
+
+#### Manager user group
+
+The `Manager` role is reserved for GitLab Managers who are interested in assigning content to their team in GitLab Learn. This role is only granted to users who also have the `GitLab Team Members` role enabled.
+
+#### Task examples
+
+- Assign learning to direct reports
+
+### Group_Admin
+
+The `Group_Admin` role is assigned to users who manage a Group in EdCast.
+
+#### Permissions
+| Permission | Status |
+| ----- | ----- |
+| Create comment | Off |
+| Like content | Off |
+| Bookmark content | Off |
+| Mark as complete | Off |
+| Assign content | Off |
+| Dismiss content | Off |
+| Dismiss assignment | Off |
+| Add to pathway | Off |
+| Create group | On |
+| Create group admin | On |
+| Create channel | Off |
+| Disable user follow | Off |
+| Can rate | Off |
+| Share | Off |
+| Show user manager | On |
+| Show content manager | Off |
+| Assign roles | Off |
+| Create content | Off |
+| Create text card | Off |
+| Promote a card | Off |
+| Create a journey | Off |
+| Create podcast | Off |
+| Curate content | Off |
+| Create role | Off |
+| Create leap | Off |
+| Update leap | Off |
+| Delete leap | Off |
+| Pin content | Off |
+| View card analytics | Off |
+| Get leaderboard information | Off |
+| User opt out of leaderboard | Off |
+| Upload | Off |
+| Upload content cover images | Off |
+| Enable edgraph | Off |
+| Custom labels | Off |
+| Publish links | Off |
+| Change author | Off |
+| Bypass curation | Off |
+| Developer | Off |
+| Upload scorm content | | Off |
+| Use dynamic selection | Off |
+| Perfect your pitch | Off |
+| Copy content | Off |
+| Mark as private | Off |
+| Manage content | Off |
+| Manage group content | On |
+| Manage channels | Off |
+| Manage users | Off |
+| Manage group users | On |
+| Manage analytics | Off |
+| Manage channel analytics | Off |
+| Manage group analytics | On |
+
+### Group_Leader
+
+The `Group_Admin` role is assigned to users who support the `Group_Admin` by contributing to group curation. This role is often paired with the `Curator` or `Learning Evangelist` role.
+
+#### Permissions
+| Permission | Status |
+| ----- | ----- |
+| Create comment | Off |
+| Like content | Off |
+| Bookmark content | Off |
+| Mark as complete | Off |
+| Assign content | Off |
+| Dismiss content | Off |
+| Dismiss assignment | Off |
+| Add to pathway | Off |
+| Create group | Off |
+| Create group admin | Off |
+| Create channel | Off |
+| Disable user follow | Off |
+| Can rate | Off |
+| Share | Off |
+| Show user manager | Off |
+| Show content manager | Off |
+| Assign roles | Off |
+| Create content | Off |
+| Create text card | Off |
+| Promote a card | Off |
+| Create a journey | Off |
+| Create podcast | Off |
+| Curate content | Off |
+| Create role | Off |
+| Create leap | Off |
+| Update leap | Off |
+| Delete leap | Off |
+| Pin content | Off |
+| View card analytics | Off |
+| Get leaderboard information | Off |
+| User opt out of leaderboard | Off |
+| Upload | Off |
+| Upload content cover images | Off |
+| Enable edgraph | Off |
+| Custom labels | Off |
+| Publish links | Off |
+| Change author | Off |
+| Bypass curation | Off |
+| Developer | Off |
+| Upload scorm content | | Off |
+| Use dynamic selection | Off |
+| Perfect your pitch | Off |
+| Copy content | Off |
+| Mark as private | Off |
+| Manage content | Off |
+| Manage group content | On |
+| Manage channels | Off |
+| Manage users | Off |
+| Manage group users | Off |
+| Manage analytics | Off |
+| Manage channel analytics | Off |
+| Manage group analytics | Off |
+
+### Custom Role: Partner
+
+The `Custom Role: Partner` role is not yet defined and will be revisited upon phase 3 of the EdCast launch to include GitLab Partners.
+
+### Custom Role: Customer
+
+The `Custom Role: Customer` role is not yet defined and will be revisited upon phase 2 of the EdCast launch to include GitLab Customers.
+
 ## Governance
 
 [Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
@@ -159,10 +754,9 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | Christina Hupy | Marketing Enablement |
 | Christopher Wang | Marketing Enablement |
 | Alvaro Warden | Partner Enablement |
-| Christine Yoshida | Education Services |
-| Laci 'Lah tsi' Videmsky | Professional Services |
+| Christine Yoshida | Professional Services |
 | Kendra Marquart | Professional Services |
-| Joe Brady | Professional Services |
+| Wakae McLaurin | Professional Services |
 | Ed Cepulis | Channel Enablement |
 | Kim Jaeger | Channel Enablement |
 | Honora Duncan | Channel Enablement |
