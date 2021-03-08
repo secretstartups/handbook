@@ -51,7 +51,7 @@ If a Team Member requires access to HackerOne, create an [access request](https:
 
 ## Support Tickets for customers on paid plans
 
-Customer can submit support tickets via the Support Portal. The Support Team follows our [workflow for Zendesk tickets](/handbook/support/workflows) to manage these.
+Customer can submit support tickets via the Support Portal. The Support Team follows our [workflow for Zendesk tickets](/handbook/support/workflows/#handling-tickets) to manage these.
 
 Tickets can be submitted by customers on paid plans for either gitlab.com or self-managed.
 
