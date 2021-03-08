@@ -23,6 +23,7 @@ GitLab community members should feel welcomed and encouraged to contribute to th
 1. Share information you've created about working remotely
 1. Establish yourself as a subject matter expert within our learning community
 1. Share learning pathways and other instructional design materials you've created
+1. Enable organizations to learn about GitLab using innovative learning methods
 
 ### Contribution Examples
 
@@ -35,7 +36,7 @@ Review these examples for when you might consider contributing to GitLab Learn:
 ### How to Contribute
 
 1. Curate your learning material. Review the examples above for inspiration on how to get started.
-1. Review our guidelines for [handbook first learning](/handbook/people-group/learning-and-development/interactive-learning/) to develop and understanding of how we build content for GitLab Learn
+1. Review our guidelines for [handbook first learning](/handbook/people-group/learning-and-development/interactive-learning/) to develop an understanding of how we build content for GitLab Learn
 1. Open an issue on the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions/-/boards) using the template `lxp_contribution`.
 1. Fill out the issue template to the best of your ability. The more information and justifiacation you and provide on the issue, the better!
 1. The L&D team will moderate this issue board and use the ideas and resources provided on this board to design learning material for GitLab Learn. Please watch for direct tags from the L&D team in order to collaborate on your contribution issue!
