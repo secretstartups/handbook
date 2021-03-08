@@ -32,11 +32,12 @@ flowchart TD
     O[Lumity]
     P[Compensation Calculator]
     Q[Interview Schedule]
+    R[LinkedIn]
 
     A --> P 
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
     A <--> K
-    linkStyle 1 stroke-width:2px,fill:none,stroke:black;
+    linkStyle 1 stroke-width:2px,fill:none,stroke:blue;
 
     B --> N
     linkStyle 2 stroke-width:2px,fill:none,stroke:black;
@@ -62,9 +63,10 @@ flowchart TD
     E --> B
     linkStyle 12 stroke-width:2px,fill:none,stroke:blue;
     
-    A <--> P
-    linkStyle 13 stroke-width:2px,fill:none,stroke:black;
+    A <--> Q
+    linkStyle 13 stroke-width:2px,fill:none,stroke:blue;
     B --> L
+    A <--> R
 ```
 
 ## Integrations
@@ -88,6 +90,7 @@ flowchart TD
 | Service | Type | Direction | Handbook link |
 | ------ | ------ | ---------|------------------|
 | BambooHR | API | two-way (writes and reads on both services) | [link](/handbook/people-group/engineering/gh-bhr-sync/#overview) |
-| Guide | TBD | two-way |TBD |
-| Interview Schedule | TBD | two-way |TBD |
+| Guide | API | two-way |TBD |
+| Interview Schedule | API | two-way |TBD |
+| LinkedIn| API | TBD |TBD |
 | Compensation Calculator | Webhooks | one-way (Greenhouse sends webhooks)| [link](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/#access-to-compensation-calculator) |
