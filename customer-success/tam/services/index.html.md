@@ -37,6 +37,7 @@ Example:
 ### Commercial
 
 - Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
+- [Commercial TAM group direction](/handbook/customer-success/tam/commercial/vision/)
 
 ## Responsibilities and Services
 
