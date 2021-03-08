@@ -33,6 +33,7 @@ flowchart TD
     P[Compensation Calculator]
     Q[Interview Schedule]
     R[LinkedIn]
+    S[Navex Global]
 
     A --> P 
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
@@ -66,7 +67,11 @@ flowchart TD
     A <--> Q
     linkStyle 13 stroke-width:2px,fill:none,stroke:blue;
     B --> L
+    linkStyle 14 stroke-width:2px,fill:none,stroke:black;
     A <--> R
+    linkStyle 15 stroke-width:2px,fill:none,stroke:black;
+    B --> S
+    linkStyle 16 stroke-width:2px,fill:none,stroke:red;
 ```
 
 ## Integrations
@@ -84,6 +89,7 @@ flowchart TD
 | Assessment Tool | API |  two-way (reads and writes from/to BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/#data-used-from-bamboohr) |
 | Nominator bot | API | two-way (reads and writes from/to BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#nominator) |
 | EdCast - GitLab Learn | TBD | TBD |TBD |
+| Navex Global| SFTP Upload | one-way (reads from BambooHR) |TBD |
 
 ### Greenhouse
 
