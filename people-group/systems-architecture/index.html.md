@@ -31,6 +31,7 @@ flowchart TD
     N[ADP]
     O[Lumity]
     P[Compensation Calculator]
+    Q[Interview Schedule]
 
     A --> P 
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
@@ -61,6 +62,8 @@ flowchart TD
     E --> B
     linkStyle 12 stroke-width:2px,fill:none,stroke:blue;
     
+    A <--> P
+    linkStyle 13 stroke-width:2px,fill:none,stroke:black;
     B --> L
 ```
 
@@ -85,5 +88,6 @@ flowchart TD
 | Service | Type | Direction | Handbook link |
 | ------ | ------ | ---------|------------------|
 | BambooHR | API | two-way (writes and reads on both services) | [link](/handbook/people-group/engineering/gh-bhr-sync/#overview) |
-| Guide | TBD | TBD |TBD |
+| Guide | TBD | two-way |TBD |
+| Interview Schedule | TBD | two-way |TBD |
 | Compensation Calculator | Webhooks | one-way (Greenhouse sends webhooks)| [link](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/#access-to-compensation-calculator) |
