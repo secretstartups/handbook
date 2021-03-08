@@ -62,5 +62,26 @@ flowchart TD
     linkStyle 12 stroke-width:2px,fill:none,stroke:blue;
     
     B --> L
-
 ```
+
+## Integrations
+### BambooHR
+| Service | Type of integration | Direction | Handbook link |
+| ------ | ------ | -----|----------------------|
+| ADP | TBD | TBD |TBD |
+| Lumity | TBD | TBD | TBD |
+| GitLab | API | one-way (reads from BambooHR) | [link](https://about.gitlab.com/handbook/people-group/engineering/employment-issues/) |
+| Modern Health | SFTP Upload | one-way (reads from BambooHR) | [link](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#team-members-to-modern-health) |
+| LawLogix | SFTP Upload | one-way (reads from BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#team-members-to-lawlogix-i9) |
+| Okta | TBD | TBD |TBD |
+| Culture Amp | TBD | TBD |TBD |
+| Assessment Tool | API |  two-way (reads and writes from/to BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/#data-used-from-bamboohr) |
+| Nominator bot | API | two-way (reads and writes from/to BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#nominator) |
+| EdCast - GitLab Learn | TBD | TBD |TBD |
+
+### Greenhouse
+| Service | Type | Direction | Handbook link |
+| ------ | ------ | ---------|------------------|
+| BambooHR | API | two-way (writes and reads on both services) | [link](/handbook/people-group/engineering/gh-bhr-sync/#overview) |
+| Guide | TBD | TBD |TBD |
+| Compensation Calculator | Webhooks | one-way (Greenhouse sends webhooks)| [link](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/#access-to-compensation-calculator) |
