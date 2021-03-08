@@ -109,7 +109,7 @@ _Note: This calculation should be based on what GitLab *would* pay the team memb
 - You have been a team member at GitLab for one year.
 - You are not on a Performance Improvement Plan (PIP).
 
-If you meet these requirements, kindly read our [Relocation](/handbook/people-group/employment-solutions/#long-term-relocation) section, as well as our specific [Netherlands](/handbook/people-group/employment-solutions/#relocating-to-the-netherlands) section in our Handbook, to ensure that your request is evaluated and approved following our protocols. Please email peopleops@ gitlab.com if you have any questions.
+If you meet these requirements, kindly read our [Relocation](https://about.gitlab.com/handbook/people-group/relocation/) handbook page, as well as our specific [Netherlands section](/handbook/people-group/relocation/#relocating-to-the-netherlands), to ensure that your request is evaluated and approved following our protocols. **Please email peopleops@ gitlab.com if you have any questions.**
 If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. If you receive full manager approval, please forward that approval to peopleops @gitlab.com at the start of the process. Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.
 
 
