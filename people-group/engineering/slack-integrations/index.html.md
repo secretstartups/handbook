@@ -108,13 +108,13 @@ bonus table. The nominator AND the manager of the nominee are also updated about
 The manager will receive a message with the full nomination and will be asked to share this with the
 nominee and to share it in the #team-members-update channel on Slack.
 
-### Update a nomination
+#### Update a nomination
 Since 2021-03-05 all approvers also have the uption to `update` a nomination. Sometimes
 the nomination although valid, doesn't contain enough information. By clicking the update button the
 approver can edit the nomination message. Once updated, it can be approved (or rejected) and it will be 
 send to the next approver with the updated message.
 
-### Retrigger the approver
+#### Retrigger the approver
 Sometimes a nomination is "stuck" with an approver. A nominator can use the home section of the nominatorbot
 to let the bot send a new message to the person who needs to approve. We only allow a retrigger when:
 
@@ -125,11 +125,11 @@ to let the bot send a new message to the person who needs to approve. We only al
 Please be mindful using this retrigger functionality. There could be a valid reason why the approver is taking a few days
 to approve or reject the nomination. 
 
-### Follow the state of a nomination as a manager
+#### Follow the state of a nomination as a manager
 When you've approved a nomination and you want to be able to follow up the nomination. In the home section of the
 nominator bot, there is a button `Reviewed Nominations`. Upon clicking that button a list will be loaded with all 
 the nominations you've reviewed and their current status.
 
-### Requests and or bugs
+#### Requests and or bugs
 Upcoming iterations can be found [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/1655060?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=p-nominatorbot)
 Issues with the bot and/or feedback about the process can be created [here](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). We welcome contributions to the project!
