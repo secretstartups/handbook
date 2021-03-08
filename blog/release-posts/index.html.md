@@ -1346,7 +1346,7 @@ extras:
 
 ### Deprecations
 
-_To be added by Product Managers or Engineering Managers and merged by either._
+_To be added by Product Managers or Engineering Managers and merged by either. Deprecations should be added to the release post at least 2 cycles prior to actual release and repeated in the relaese post as appropriate till complete._
 
 Describe the deprecations happening in that release or in upcoming releases. Note that there are differences in [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
 so be sure to include the relevant details on when the feature will be removed from GitLab in the post. Let our community know about a future deprecation as soon as possible. When adding deprecations be sure to keep with the same structure of "XYZ feature or function will be deprecated at ABC time."
@@ -1386,7 +1386,7 @@ When approved, include the "Ready" label in the MR before merging.
 
 ### Removals
 
-_To be added by Product Managers or Engineering Managers and merged by either._
+_To be added by Product Managers or Engineering Managers and merged by either. Removals should be added to the release post at least 2 cycles prior to actual release and repeated in the relaese post as appropriate till complete._
 
 Describe the features that are being removed in the upcoming release. Removals should be planned.
 If possible, set up a [deprecation](#deprecation) notice at least one minor release before removing a feature.
@@ -1438,7 +1438,7 @@ When approved, include the "Ready" label in the MR before merging.
 
 ### Upgrades
 
-_To be added by Product Managers or Engineering Managers and merged by Engineering Managers._
+_To be added by Product Managers or Engineering Managers and merged by Engineering Managers. Removals should be added to the release post at least 2 cycles prior to actual release and repeated in the relaese post as appropriate till complete._
 
 Describe any considerations administrators should have when upgrading. These could be warnings about potential data loss, recommendations for maintenance beforehand, and other similar concerns.
 
