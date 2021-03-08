@@ -16,7 +16,7 @@ The [GitLab blog](/blog/) is managed by [@rebecca](https://gitlab.com/rebecca) t
 {:toc .hidden-md .hidden-lg}
 
 ## Other related pages
-- [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements) 
+- [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements)
 - [Blog dashboard](/handbook/marketing/blog/blog-metrics/)
 - [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/)
 - [Git guide for the blog](/handbook/marketing/blog/git-guide/)
@@ -309,7 +309,7 @@ It is important that our blog content represents our company values of diversity
 
 - Write short and concise sentences. Clear writing with short sentences makes it easier for the reader to follow along.
 - Limit your use of jargon, and if you must use a jargon-y term, define it on the first instance.
-- GitLab is a global team with a global community, so you want to write for a global audience. This means limiting your use of regional metaphors and not writing in a manner that is United States-centric. 
+- GitLab is a global team with a global community, so you want to write for a global audience. This means limiting your use of regional metaphors and not writing in a manner that is United States-centric.
 - Does the post use [inclusive language](/company/culture/inclusion/#inclusive-language)? An example of inclusive language: "Hi folks/Hi everyone/ Hi y'all" versus "Hi guys".
 - If you're still not sure about your use of inclusive language (or just want to check to be sure) test it out against the [inclusiveness check tool](https://inclusiveness-check.herokuapp.com/) developed by GitLab team member, [Lien Van Den Steen](/company/team/#lienvdsteen). Here's [how the tool works](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-operations-engineering/-/issues/72) and the [words it checks against are listed in the linked project](https://gitlab.com/lienvdsteen/linter/-/tree/master/data).
 - Is every individual in the blog post quoted using their [preferred pronoun](/handbook/people-group/gender-pronouns/#how-do-i-know-which-pronouns-to-use)? Tip: If you don't know someone's preferred pronoun, just ask them. It should also be included on the [team page profile](/company/team/#close-modal) and Slack profile.
@@ -400,7 +400,7 @@ _Updated November 2020. Will update with complete FY21 review in February 2021._
 1. 41% of posts garner <499 sessions in two months
 1. 5% of posts are "hits" (10K+ sessions in two months after publishing); "Hits" don't consistently perform well over time
 
-See [Blog traffic analyses](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog. 
+See [Blog traffic analyses](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-traffic-analyses) for more in-depth analysis on traffic to the blog.
 
 #### Observations
 
@@ -532,9 +532,9 @@ Please include the `guest: true` field in the frontmatter as well.
 
 #### Cover image
 
-There are a few options you can choose from: pick an image from a [library of original images](#library-images), [choose a stock image](#stock-photography) to upload yourself, [request a custom cover image](#original-images) from Design, or [publish without a cover image](#no-image). 
+There are a few options you can choose from: pick an image from a [library of original images](#library-images), [choose a stock image](#stock-photography) to upload yourself, [request a custom cover image](#original-images) from Design, or [publish without a cover image](#no-image).
 
-##### Library images 
+##### Library images
 
 We have some original illustrations for our blog categories and most popular topics which you are welcome to choose from. You can view these in [https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/blogimages/library](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/blogimages/library). In the `image_title:` field in the frontmatter, please enter your chosen image's file path using the format `/images/blogimages/library/engineering.png`.
 
@@ -562,7 +562,7 @@ If the blog post is about an integration, the DRI from Partner Marketing should 
 ##### No image
 
 If you don't have an image in mind or can't think of anything to use, just remove the `image_title` field from the [frontmatter](#frontmatter). No image will appear on the blog post itself, and the default image (see below) will appear on the post's tile on the blog homepage. The thumbnail image for the blog post (when sharing on social media, for example) will automatically be determined by the category of the blog post.
- 
+
 If preferred, you can use the default image as a cover image, but this is not advised as the image does not add anything to the post and takes up a lot of room beneath the blog title:
 
   ![default blog cover image](/images/handbook/marketing/default-blog-image-example.png){: .shadow.medium.center}
@@ -650,6 +650,7 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - frontend
 - Group Conversations
 - git
+- GitOps
 - GKE
 - google
 - growth
