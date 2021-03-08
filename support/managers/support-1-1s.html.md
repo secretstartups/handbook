@@ -39,9 +39,14 @@ You may choose to use the 1:1 Issue Generator for your 1:1s.  See the project [R
 
 Most people like to start the call with five minutes of general conversation.
 
-Instead of asking 'How are you doing?', you might like to use the five point scale written at the top of the 1:1 doc and ask 'On a scale of one to five, how are you feeling this week?' (see below for sample text). Another approach is to ask for two ratings on a 0-10 scale, one for "stress" and one for "happiness." Then compare the ratings with those from the previous week to guide a conversation about well-being.
+We recommend avoiding [small talk](https://en.wikipedia.org/wiki/Small_talk) openers like 'How are you doing?'. Instead, set the context and get precise, actionable information. Some examples:
 
-This helps open the conversation and put the work related aspects in context. (Credit for the idea from [this GitLab conversation](https://twitter.com/gitlab/status/1244728191069171716).)
+* Use a five point scale and ask 'On a scale of one to five, how are you feeling this week?' (see below for sample text). 
+* Ask for two ratings on a 0-10 scale, one for "stress" and one for "happiness." 
+
+Pay attention to trends over time.
+
+Questions like these help open the conversation and put the work-related aspects in context. (Credit for the idea from [this GitLab conversation](https://twitter.com/gitlab/status/1244728191069171716).)
 
 **Give the Support Engineer the opportunity to raise anything important they would like to discuss near the beginning of the call. You might want to skip the sections below if there are more important things to focus on.**
 
