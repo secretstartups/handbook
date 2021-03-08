@@ -6,7 +6,7 @@ description: "Hiring Charts to showcase the headcount and hiring in each departm
 
 ## Hiring Charts
 
-<% departments = Gitlab::Homepage::Team.new.unique_departments %>
+<% departments = Gitlab::Homepage.team.unique_departments %>
 
 <a href="/handbook/hiring/charts/company/">Company</a>
 
