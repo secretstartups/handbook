@@ -66,6 +66,7 @@ flowchart TD
 
 ## Integrations
 ### BambooHR
+
 | Service | Type of integration | Direction | Handbook link |
 | ------ | ------ | -----|----------------------|
 | ADP | TBD | TBD |TBD |
@@ -80,6 +81,7 @@ flowchart TD
 | EdCast - GitLab Learn | TBD | TBD |TBD |
 
 ### Greenhouse
+
 | Service | Type | Direction | Handbook link |
 | ------ | ------ | ---------|------------------|
 | BambooHR | API | two-way (writes and reads on both services) | [link](/handbook/people-group/engineering/gh-bhr-sync/#overview) |
