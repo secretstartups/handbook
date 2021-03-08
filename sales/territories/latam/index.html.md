@@ -25,6 +25,7 @@ title: "LATAM Region Handbook"
 | Leo Vieira (EN/ES/PT) | SDR | Enterprise | LATAM | All |
 | Hugo Azevedo (EN/ES/PT) | Solution Architect | Enterprise | LATAM | All |
 | Ricardo Amarilla (EN/ES/PT) | Technical Account Manager | Enterprise | LATAM | All |
+
 ## Technical Support
 
 Please, visit our [Technical Support Handbook Page](https://about.gitlab.com/support/) for detailed and up-to-date information.
