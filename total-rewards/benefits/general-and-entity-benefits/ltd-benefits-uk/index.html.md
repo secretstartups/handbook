@@ -211,6 +211,11 @@ Management charges vary by fund and are not on the fact sheets: use the charges 
 
 ## GitLab LTD United Kingdom Leave Policy
 
+*  Sick Leave
+     - Team members are entitled to Statutory Sick Pay (SSP) for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three "waiting" days. A team member who is out sick for at least four days, but no more than 7 days will need to complete a [Company Self-Certification Form](https://docs.google.com/document/d/1Cy-xUgWwNKroUEEJ0ut80HGVA0d3RJV5mQO-amLjoCs/edit?usp=sharing) and return it to total-rewards@gitlab.com. Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify Total Rewards (total-rewards@gitlab.com) as soon as possible.
+
+     - Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked. 
+
 * Statutory Maternity Leave
      - Mother can take up to a year. Six weeks is paid at the average income over the proceeding 18 weeks (includes commissions, variable pay, etc). The employee is paid at the statutory requirement over the next 33 weeks, and the remaining 13 weeks of the year is unpaid.
 
@@ -232,6 +237,10 @@ For a Maternity leave, once an employee notifies GitLab of the pregnancy, People
   * The team member will be paid through payroll made up of any statutory payments, and any further ‘topped up’ amounts supplemented by GitLab.
   * GitLab will be able to recover from the Government the 39 weeks of statutory maternity pay.
   * Maternity pay is taxable and liable for National Insurance deductions much in the same way that standard pay is.
+
+### Statutory Vacation Leave
+
+Team members are entitled to at least 28 vacation days which consist of 20 days of standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilize time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. Under normal circumstances, there is no carryover for unused vacation days; however, given the situation surrounding COVID-19, the UK government has relaxed measures on the carry over of annual leave for the following two calendar years: 2020-2021 and 2021-2022.
 
 ## Employer's Liability Insurance
 
