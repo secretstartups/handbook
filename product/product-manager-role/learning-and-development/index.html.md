@@ -35,16 +35,17 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### User Research
 
-##### Quick introduction
+##### Quick recommendations
 
-##### Books
-
-- [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
-- [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
+##### Videos
 
 ##### Online courses 
 
 - [Continuous Interviewing by Product Talk](https://learn.producttalk.org/p/continuous-interviewing)
+##### Books
+
+- [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
+- [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
 
 #### Jobs to be done 
 
