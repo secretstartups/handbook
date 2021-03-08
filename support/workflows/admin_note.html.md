@@ -24,7 +24,7 @@ If you encounter a situation with the following cases, an admin note is required
 
 ### Adding the Note
 
-To add the admin note, simply go to the user profile in the admin page of GitLab.com, click on edit the profile, then fill the  Admin Notes section.
+To add the admin note, navigate to the user profile in the admin page of GitLab.com; click on "edit the profile"; then fill in the Admin Notes section.
 
 In general, the formatting should be standard in a one liner format:
 
