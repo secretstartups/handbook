@@ -152,7 +152,7 @@ We review the below topics no less frequently than the following schedule:
 
 |#| Topics                                     | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Executive Session with invitees          |       |       |       |       |   A  |
+| 1 | Executive Session with invitees          |       |       |       |       |   X  |
 | 2 | Chief Legal Officer                      |   X   |   X   |   X   |   X   |      |
 | 3 | Chief Finance Officer                    |   X   |   X   |   X   |   X   |      |
 | 4 | Approvals                                |   X   |   X   |   X   |   X   |      |
