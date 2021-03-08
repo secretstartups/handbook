@@ -22,7 +22,7 @@ Always include a link to the log as an internal note, with additional informatio
 
 If required, post in the `#support_escalations` channel for a senior engineer or manager review.
 
-A standard response is available in ZenDesk as a macro `GitLab.com::Audit logs access request`.
+A standard response is available in ZenDesk as a macro [`Support::SaaS::Audit logs access request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360018514099).
 
 Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana should be handled according to the process outlined in the handbook page dedicated to [providing assistance to GitLab.com customers during customer-based security incidents](/handbook/security/customer-requests/).
 
