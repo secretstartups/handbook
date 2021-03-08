@@ -48,7 +48,7 @@ See the [Command Plan](/handbook/sales/command-of-the-message/command-plan/) Han
 
 ### Default Salesforce Stage to Forecast Category and Churn Renewal Mapping
 
-See the [Opportunity Stages overview in the Biz Ops Handbook](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) for more information. 
+See the [Opportunity Stages overview](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) for more information. 
 
 ### Forecast Categories Definitions
 There are two types of categories we review when your forecasts are pushed to Clari:
@@ -95,7 +95,7 @@ To request an opportunity split, a sales rep should indicate the split in Chatte
 * **SalesOps Team**
 On receiving an approved request for the split, SalesOps team will update the Opportunity Splits section of the opportunity with the split details. On completion SalesOps team will cc Commissions team and Clari team to process these splits in the systems accordingly.
 
-* **CaptivateIQ
+* **CaptivateIQ**
 Opportunity split crediting will automatically be calculated in the commissions system through the Opportunity Splits section. The Commissions team will ensure that the commissions are calculated accurately based on the split % and confirm in Chatter on the opportunity.
 
 * **Clari**
@@ -146,7 +146,7 @@ If you are a Sales Leader, will have additional access to the **Forecasting Tab*
 * **TCV**
   * This will be a read only tab. You will see your rep’s Closed Won TCV, Commit, Best Case, and Pipeline.
 
-* **Pipeline Gen **
+* **Pipeline Gen**
   * This will be a read only tab. You will see your rep’s total open pipeline, pipeline in stage 3+ and coverage rates for both Next Quarter and Next Quarter+1. The pipeline coverage is calculated by looking at total pipeline in a given quarter divided by quota for that same quarter.
 
 #### Reviewing Forecasts
