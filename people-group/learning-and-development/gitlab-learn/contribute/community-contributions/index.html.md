@@ -43,7 +43,7 @@ Review these examples for when you might consider contributing to GitLab Learn:
 
 ### Future of contributing to the LXP
 
-The GitLab Learning and Development team is iterating on the process for external audiences, including customers and community members, to contribute to GitLab Learn. As we iterate and scale, this process will change. We're always open to feedback on this process. If yoou have feedback, please reach out to our team via email at `learning@gitlab.com`.
+The GitLab Learning and Development team is iterating on the process for external audiences, including customers and community members, to contribute to GitLab Learn. As we iterate and scale, this process will change. We're always open to feedback on this process. If you have feedback, please reach out to our team via email at `learning@gitlab.com`.
 
 
 
