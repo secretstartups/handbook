@@ -484,7 +484,7 @@ Learn about this community in this video.
 When a partner is awarded a GitLab Certified Service Partner certification, the partner account administrator will be invited to join this community. The partner account administrator can reference this video to learn how to add and manage users who can access this project.
 
 <!-- blank line -->
-
+<div class="jsBrightTALKEmbedWrapper" style="width:100%; height:100%; position:relative;background: #ffffff;"><script class="jsBrightTALKEmbedConfig" type="application/json">{ "channelId" : 18613, "language": "en-US", "commId" : 472272, "displayMode" : "standalone", "height" : "auto" }</script><script src="https://www.brighttalk.com/clients/js/player-embed/player-embed.js" class="jsBrightTALKEmbed"></script></div>
 <!-- blank line -->
 
 
