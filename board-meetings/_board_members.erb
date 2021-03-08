@@ -1,15 +1,14 @@
 <div class="row board-members">
 
-<% data.team.select { | member | member.departments.include? 'Board' }.each do | slug | %>
-<% member = Gitlab::Homepage::Team::Member.new(slug) %>
+<% Gitlab::Homepage::Team.new.members.select { | member | member.departments.include? 'Board' }.each do | member | %>
 
 <div class="col-lg-4" style="text-align: center;position: relative;max-width: 400px;margin: 0 auto 45px;height:210px;">
 <div class="card">
 <div class="front">
-<% photo = image_tag "/images/team/#{member.picture.to_s[0..-5]}-crop.jpg", style: 'border-radius:50%;', alt: member.name, width: 120, height: 120, loading: 'lazy' %>
-<%= link_to photo, "/company/team/##{slug.gitlab || slug.slug}" %>
-<a href="/company/team/#<%= slug.gitlab || slug.slug %>" style="display:block;font-weight: 600;color: #333;font-size: 18px;margin-bottom: 6px;text-decoration:none;">
-<%= slug.name %>
+<% photo = image_tag member.avatar_url, style: 'border-radius:50%;', alt: member.name, width: 120, height: 120, loading: 'lazy' %>
+<%= link_to photo, "/company/team/##{member.anchor}" %>
+<a href="/company/team/#<%= member.anchor %>" style="display:block;font-weight: 600;color: #333;font-size: 18px;margin-bottom: 6px;text-decoration:none;">
+<%= member.name %>
 </a>
 <% if member.locality || member.country %>
 <% location = [member.locality, member.country].compact.join(", ") %>
