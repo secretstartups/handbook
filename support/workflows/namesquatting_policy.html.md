@@ -16,13 +16,13 @@ subcategory: Accounts
 
 As per the [statement of support](/support/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria.
 
-**NOTE:** When applying any of the macros ensure to replace the placeholder **“REQUESTEDNAME”** with the namespace requested.
+**NOTE:** When applying any of the macros ensure to replace the placeholder **“REQUESTEDNAME”** with the namespace requested. 
 
 ### Workflow
 
 1. Search for the requested namespace in GitLab.com admin: [users](https://gitlab.com/admin/users) or [groups](https://gitlab.com/admin/groups), once found visit the GitLab admin page for the namespace.
-1. Apply the **GitLab.com::Name Squatting Policy::Internal Checklist** macro in Zendesk. Please remember, impersonating a user will reset the Last Sign-In values on the user account such as `Last Sign-In IP` and `Last Sign-in at` (Impersonation should be avoided when reviewing activity on Personal Namespace).
-1. Answer all questions in the **Internal Checklist** (Yes/No) ensuring to cross-check the information found in the admin section.
+1. Apply the [`Support::SaaS::Name Squatting Policy::Internal Checklist`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569860) macro in Zendesk. Please remember, impersonating a user will reset the Last Sign-In values on the user account such as `Last Sign-In IP` and `Last Sign-in at` (Impersonation should be avoided when reviewing activity on Personal Namespace).
+1. Answer all questions in the **Internal Checklist** (Yes/No) ensuring to cross-check the information found in the admin section. The [SaaS Account Ticket Helper App](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#saas-account-ticket-helper) can be used from within ZenDesk to assist with this.
 1. If the namespace is eligible for immediate release, follow [Request successful](#request-successful).
 1. If the namespace is eligible for release, follow [Namespace is available](#namespace-is-available).
 1. If the namespace is not eligible for release, follow: [Namespace is not available](#namespace-is-not-available).
@@ -33,24 +33,24 @@ Contact Owner:
 
 1. Create a **new Zendesk ticket** with the **namespace owner's email address** as the requester (found in admin).
 1. Set the form of the new ticket to **Gitlab.com (SAAS) Account Related Form**.
-1. Apply the **GitLab.com::Name Squatting Policy::Contact Namespace Owner** macro and mark the ticket as **On-hold**.
-1. Make an internal comment providing a link to the **namespace requesters ticket**.
+1. Apply the [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059) macro and mark the ticket as **On-hold**.
+1. Make an internal comment providing a link to the **namespace requester's ticket**.
 
 Requester's Ticket:
 
 1. Copy the ticket's link and add it to the **Internal Checklist**.
-1. Reply to the requester with the **GitLab.com::Name Squatting Policy::First Response** macro and mark ticket as **On-hold**.
+1. Reply to the requester with the [`Support::SaaS::Name Squatting Policy::First Response`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569840) macro and mark ticket as **On-hold**.
 
 #### Namespace owner responded
 
 If the namespace owner makes a response (don’t remove my namespace) follow these steps:
 
-1. Apply the **GitLab.com::Name Squatting Policy::Cancel Request** Macro to the **namespace owners response**.
-1. Apply the **GitLab.com::Name Squatting Policy::Failed Namespace Request** to the **namespace requesters ticket**.
+1. Apply the [`Support::SaaS::Name Squatting Policy::Cancel Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057441960) Macro to the **namespace owner's response**.
+1. Apply the [`Support::SaaS::Name Squatting Policy::Failed Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465039) to the **namespace requester's ticket**.
 
 #### Namespace owner has not responded
 
-If after one week and there has been no response, apply the **GitLab.com::Name Squatting Policy::Contact Namespace Owner** macro a second time and mark the ticket as **On-hold**.
+If after one week there has been no response, apply the [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059) macro a second time and mark the ticket as **On-hold**.
 
 After two weeks, the ticket will be **automatically marked as open and an email sent to the assigned engineer**.
 
@@ -69,11 +69,11 @@ In admin, rename the owner's namespace:
 
 In Zendesk:
 
-1. Apply the **GitLab.com::Name Squatting Policy::Successful Namespace Request** macro to the **Namespace requesters ticket** and mark the ticket as **Solved**.
+1. Apply the [`Support::SaaS::Name Squatting Policy::Successful Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569820) macro to the **Namespace requesters ticket** and mark the ticket as **Solved**.
 
 ### Namespace is not available
 
-1. Apply **GitLab.com::Name Squatting Policy::Failed Namespace Request** macro and mark ticket as **Solved**.
+1. Apply [`Support::SaaS::Name Squatting Policy::Failed Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465039) macro and mark ticket as **Solved**.
 
 ### FAQs
 
@@ -101,13 +101,14 @@ __________________
 
 **Macros**
 
-* [GitLab.com::Name Squatting Policy::Failed Namespace Request](https://gitlab.zendesk.com/agent/admin/macros/360051465039)
-* [GitLab.com::Name Squatting Policy::Internal Checklist](https://gitlab.zendesk.com/agent/admin/macros/360051569860)
-* [GitLab.com::Name Squatting Policy::First Response](https://gitlab.zendesk.com/agent/admin/macros/360051569840)
-* [GitLab.com::Name Squatting Policy::Contact Namespace Owner](https://gitlab.zendesk.com/agent/admin/macros/360051465059)
-* [GitLab.com::Name Squatting Policy::Successful Namespace Request](https://gitlab.zendesk.com/agent/admin/macros/360051569820)
+* [`Support::SaaS::Name Squatting Policy::Failed Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465039)
+* [`Support::SaaS::Name Squatting Policy::Internal Checklist`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569860)
+* [`Support::SaaS::Name Squatting Policy::First Response`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569840)
+* [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059)
+* [`Support::SaaS::Name Squatting Policy::Successful Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569820)
+* [`Support::SaaS::Name Squatting Policy::Cancel Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057441960)
 
 
 **Automations**
 
-* [Dormant Namespace Check](https://gitlab.zendesk.com/rules/94693587/edit)
+* [`Status::Open::Reopen namesquatting On-hold tickets after 1 week`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20012489&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+94693587)
