@@ -20,7 +20,7 @@ Generally, we do not support mixed license or multiple subscriptions for a singl
 
 It's not possible to merge the subscriptions if the opportunity in SFDC were both submitted as `New Business`.
 
-[Opportunity Type](/images/support/opportunity_type.png)
+![Screenshot of Salesforce, highlighting the Opportunity Details "type" field.](/images/support/opportunity_type.png)
 
 If there are two opportunity for two separate subscriptions and the customer requires one license for both of the opportunity, the latest opportunity will need to be credited via a credit opportunity and a new opp will need to be submitted as an add-on to the already existing opportunity for the already existing subscription. For any further questions around the opportunities please reach out to the Sales Support team.
 
