@@ -152,13 +152,13 @@ All of the benefits listed below are administered and managed by [Global Upside
 * This amount will be paid on monthly basis with the regular payroll as a reimbursement.
 * Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount.
 * The allowance will be up to 300 USD per month for team member and up to 500 USD per month for team member plus Dependants. (USD amount can be converted to the local currency using the latest [Currency Conversion Factor](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates))
-* The Total Rewards team will email the proof of coverage to Global Upside to have the reimbursement processed.
+* The Total Rewards team will send a confirmation email to Global Upside to have the reimbursement processed.
 
 ### Pension
 
 GitLab does not plan to offer pension benefit at this time as Kenya has their Pension system called as [National Social Security Fund (N.S.S.F)](https://www.nssf.or.ke/). 
 
-### Life Insurance
+### Life Insurance and Disability
 
 GitLab offers company paid International Group Life and Disability Plans through [Allianz Care](https://drive.google.com/file/d/17y38CQ1XLO0os0sN6Q-LJpmU3dPyUUAx/view?usp=sharing). This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
 
@@ -176,7 +176,7 @@ Fathers of newborn children can take 2 weeks of paid paternity leave post-birth.
 
 ### Medical
 
-* GitLab offers Healthcare Insurance through NOW Health Insurance which covers 100% of team member contributions and 66% for spouse & kids of premiums for medical, vision, dental and maternity coverage.
+* GitLab offers Healthcare Insurance through NOW Health Insurance which covers 100% of team member contributions and 66% for eligible dependents of premiums for medical, vision, dental and maternity coverage.
 * NOW health insurance will be administered directly by Global Upside
 
 ### Pension
@@ -209,18 +209,18 @@ In case of marriage or civil union, a team member is entitled to have five conti
 
 ### Medical
 
-* GitLab offers Healthcare Insurance through NOW Health Insurance which covers 100% of team member contributions and 66% for spouse & kids of premiums for medical, vision, dental and maternity coverage.
+* GitLab offers Healthcare Insurance through NOW Health Insurance which covers 100% of team member contributions and 66% for eligible dependents of premiums for medical, vision, dental and maternity coverage.
 * NOW health insurance will be administered directly by Global Upside
 
 ### Pension
 
 GitLab does not plan to offer pension benefit at this time as Costa Rica has their pension system known as [Chile pension system](https://www.ips.gob.cl/servlet/internet/inicio/beneficios-y-pensiones/pensiones)
 
-### Life Insurance
+### Life Insurance and Disability
 
 GitLab offers company paid International Group Life and Disability Plans through [Allianz Care](https://drive.google.com/file/d/17y38CQ1XLO0os0sN6Q-LJpmU3dPyUUAx/view?usp=sharing). This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
 
-13th Salary (Aguinaldo)
+### 13th Salary (Aguinaldo)
 The 13th salary is equal to a month’s pay and must be paid within the first 20 days of December each year.
 
 ## Global Upside -  Costa Rica Leave Policy
@@ -245,7 +245,7 @@ GitLab does not plan to offer Private Health Insurance at this time because team
 
 ### Pension
 
-GitLab will directly contribute to the Team Members private pension saving plan. The GitLab team member will contribute 4% of the monthly base salary, with Employer (Global Upside in this case) contributing 8% of the team members monthly base salary. The Employer contribution to the pension savings plan will be paid directly into the insurance or bank account (as the case may be) in conjunction with the Employer’s payment of the monthly salary to the team member. 
+GitLab will directly contribute to the Team Members private pension saving plan. The GitLab team member will contribute 4% of the monthly base salary, with GitLab contributing 8% of the team members monthly base salary. The Employer contribution to the pension savings plan will be paid directly into the insurance or bank account (as the case may be) in conjunction with the Employer’s payment of the monthly salary to the team member. 
 
 ### Life Insurance
 
