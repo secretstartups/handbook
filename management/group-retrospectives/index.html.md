@@ -81,7 +81,7 @@ could stay focused on the facts and feelings about the past iteration without
 drawing any conclusions. To make sure the conversation is productive, we
 recommend that you **have a clear agenda for the conversation.** The moderator
 for the retrospective is then responsible for ensuring the agenda is followed
-and completed. While the specific nature of this agenda will vary from group0 to
+and completed. While the specific nature of this agenda will vary from group to
 group, we recommend something that follows this general pattern:
 
 1. **Introduction** - remind people of the purpose of the retrospective, and
