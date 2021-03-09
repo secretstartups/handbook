@@ -29,3 +29,25 @@ available to accomodate this:
 * Standard ticket uploads (20MB max)
 * [Support Uploader](https://about.gitlab.com/support/providing-large-files.html#support-uploader)
 
+## Examples of Support Ticket Submission and Handling for Select Partners
+
+Support provided to Select Partners and their customers will vary depending on
+the circumstances under which a ticket is raised. Some examples are:
+
+1. A Select Partner creates a ticket to address a GitLab concern brought to
+   them by their customer. The Select Partner will manage the ticket and
+   serve as the go-between for the customer and GitLab Support. We will deliver
+   **[Priority Support](https://about.gitlab.com/support/#priority-support)
+   regardless of the customer's subscription**.
+
+1. A Select Partner is doing commercial work for a customer and raises a
+   ticket. They should do so under their own account using a subscription
+   they have purchased for themselves. We will deliver support **based on the
+   subscription the partner has purchased**.
+
+1. A Select Partner is doing internal training, testing or knowledge
+   building. They should raise a ticket under their account using their
+   [NFR licences](https://about.gitlab.com/handbook/resellers/#nfr-programpolicy).
+
+These examples are not exhaustive. If in doubt, ask questions about the
+situation under which the ticket is being raised.
