@@ -334,7 +334,7 @@ The model was created following the iteration value and delivered a working Proo
 ### Rep Productivity
 
 The average amount of annualized IACV a native quota carrying sales rep produces in a given month
-formula: (IACV / # of native quota carrying reps adjusted for ramp time) * 12 months. See [Quota Ramp](/handbook/sales/commissions/#sales-rep-iacv-quota-ramp)
+formula: (IACV / # of native quota carrying reps adjusted for ramp time) * 12 months.
 
 The IACV used in this calculation only includes opportunities owned by quota carrying sales reps (not by a manager, director, or VP).
 Additionally, opportunities that represent web portal purchases are split out separately.
