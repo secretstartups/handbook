@@ -1386,7 +1386,7 @@ When approved, include the "Ready" label in the MR before merging.
 
 ### Removals
 
-_To be added by Product Managers or Engineering Managers and merged by either. Removals should be added to the release post at least 2 cycles prior to actual release and repeated in subsequent release posts as appropriate till complete._
+_To be added by Product Managers or Engineering Managers and merged by either. Removals should be added to the release post at least 2 cycles prior to the actual release when feature is removed, and repeated in subsequent release posts as appropriate till complete._
 
 Describe the features that are being removed in the upcoming release. Removals should be planned.
 If possible, set up a [deprecation](#deprecation) notice at least one minor release before removing a feature.
