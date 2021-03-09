@@ -15,7 +15,7 @@ category: Handling tickets
 
 The [project](https://gitlab.com/gitlab-com/support/support-uploader) is accessible to all Support team members at [https://uploader.gitlab.support](https://uploader.gitlab.support) (NOTE: currently, this requires both GitLab Pages and Okta authentication, both should happen automatically if you are signed in).
 
-**NOTE:** Support Uploader exists as a Zendesk App for use while working tickets. For details, check the [zendesk-app](https://gitlab.com/gitlab-com/support/support-uploader/-/tree/master/zendesk-app) folder in the `support-uploader` project.
+**NOTE:** Support Uploader exists as a [Zendesk App](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#support-uploader) for use while working on tickets. For details, check the [zendesk-app](https://gitlab.com/gitlab-com/support/support-uploader/-/tree/master/zendesk-app) folder in the `support-uploader` project.
 
 ## General notes and limitations
 
@@ -34,7 +34,7 @@ This will download an archive with the format "gs_uploader_<ticket_id>.zip" cont
 
 ## Sending the bundle to the customer
 
-You can attach the archive generated to the ticket in a public reply, and use the `General::Support uploader` macro, which will include instructions for the customer on how to use the bundled files.
+You can attach the archive generated to the ticket in a public reply, and use the [`General::Support uploader`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360047729239) macro, which will include instructions for the customer on how to use the bundled files.
 
 ## After customer uploads the file
 
