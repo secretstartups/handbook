@@ -35,24 +35,37 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### User Research
 
-##### Quick introduction
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+- [Continuous Interviewing by Product Talk](https://learn.producttalk.org/p/continuous-interviewing)
 
 ##### Books
 
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
 - [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
 
-##### Online courses 
-
-- [Continuous Interviewing by Product Talk](https://learn.producttalk.org/p/continuous-interviewing)
-
 #### Jobs to be done 
 
-##### Quick introduction
+##### Quick reads and videos
 
-- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (video)
-- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (video)
-- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (video)
+- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (video 5 min)
+
+##### Deeper dive
+
+- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (video 57 min)
+- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (video 57 min)
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
 
@@ -60,15 +73,35 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Lean product development
 
-##### Quick introduction
+##### Quick reads and videos
 
-- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video)
+Please contribute your favorite resources here
 
-##### Books
+##### Deeper dive
 
-#### Experimentation and Growth hacking 
+- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video 42 min)
 
-##### Quick introduction
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books 
+
+Please contribute your favorite resources here
+
+#### Experimentation and growth hacking 
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
 
@@ -78,9 +111,17 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### User stories
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [How to split a user story](https://agileforall.com/how-to-split-a-user-story/)
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
 
@@ -88,9 +129,17 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Backlog management
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [Brandon Chu: Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books 
 
@@ -100,28 +149,53 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Product strategy
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [Marty Cagan: Vision Vs. Strategy](https://svpg.com/vision-vs-strategy/)
-- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/)
+
+##### Deeper dive
+
+- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/) (video 54 min)
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
 
-##### Online courses
+Please contribute your favorite resources here
 
 #### Competitive analysis
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [Stop Ignoring Your Competitors...](https://producthabits.com/competitor-analysis/)
 
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
 ##### Books
+
+Please contribute your favorite resources here
 
 #### KPIs and Metrics 
 
-##### Quick introduction
+##### Quick reads and videos
 
-- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video)
+- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video 5 min)
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
 
@@ -131,46 +205,109 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Writing to inspire, align and activate 
 
-##### Quick introduction
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
 
-#### Presentations, prepared and ad hoc
+Please contribute your favorite resources here
 
-##### Quick introduction
+#### Presentations, prepared and adhoc
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
+
+Please contribute your favorite resources here
 
 #### Remote team collaboration 
 
-##### Quick introduction
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
+
+Please contribute your favorite resources here
 
 ### Team Management
 
 #### Stakeholder management
 
-##### Quick introduction
+##### Quick reads and videos
 
-- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/) (video 20 min)
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
+
+Please contribute your favorite resources here
 
 #### Cross-functional team management
 
-##### Quick introduction
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
 
+Please contribute your favorite resources here
+
 #### Direct team management
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
-- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video)
+
+##### Deeper dive
+
+- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video 30 min)
 
 ##### Online courses 
+
+Please contribute your favorite resources here
 
 ##### Books
 
@@ -178,6 +315,22 @@ These books are highly recommended to be read by every product manager at GitLab
 - [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
 
 #### Leadership and influence
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+Please contribute your favorite resources here
 
 ## Socializing in Product
 
