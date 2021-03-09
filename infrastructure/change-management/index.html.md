@@ -300,7 +300,7 @@ While changes we make are rigorously tested and carefully deployed, it is a good
 
 Risks of making a production environment change during these periods includes immediate customer impact and/or reduced engineering team availability in case an incident occurs. Therefore, we have introduced a mechanism called **Production Change Lock (PCL)**. We see the future of PCL as an automated process which, provided a time range, locks production deployments and releases the lock once the time expires. However, as a boring solution until then we are listing the events here so that teams are aware of the PCL periods.
 
-The following dates are currently scheduled PCLs. Times for the dates below begins at 09:00 UTC and ends at 09:00 UTC.
+The following dates are currently scheduled PCLs. Times for the dates below begin at 09:00 UTC and end the next day at 09:00 UTC.
 
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
