@@ -128,7 +128,7 @@ These are changes with high impact or high risk. If a change is going to cause d
 #### Approval
 
 1. Add a Due Date to the issue and to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
-1. All the database changes related should have a review by a DBRE. In a scenario of an incident, the Ongres team can execute the review. 
+1. All the database changes related should have a review by a DBRE. In a scenario of an incident, the Ongres team can execute the review.
 1. Have the change approved by Infrastructure management at the Sr. Manager level or above.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 1. Announce the start of the plan execution in the `#production` Slack channel and obtain a written approval from the EOC in both the issue and in Slack.
@@ -304,16 +304,15 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
-| 25-27 November 2020         | Soft       | Low company wide availability |
-| 18 December 2020             | Soft       | Friends & Family Day       |
-| 24 December 2020            | Soft       | Holiday: Christmas Eve        |
-| 25-26 December 2020         | Hard       | Holiday: Christmas            |
-| 28-31 December 2020         | Soft       | Low availability in Engineering |
 | 01 January 2021             | Hard       | Holiday: New Year's Day       |
 | 15 January 2021              | Soft       | Friends & Family Day       |
 | 26 January 2021              | Soft       | EoA announcement       |
 | 28-29 January 2021           | Soft       | Addressing platform action items |
 | 26 February 2021              | Soft       | Friends & Family Day       |
+| 09 March 2021              | Hard       | Corrective actions for [incident 3875](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3875#summary)      |
+| 19 March 2021              | Soft       | Friends & Family Day       |
+| 16 April 2021              | Soft       | Friends & Family Day       |
+| 28 May 2021              | Soft       | Friends & Family Day       |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Friends & Family Days](https://about.gitlab.com/handbook/ceo/family-friends-day/#upcoming-family-and-friends-days)         | Soft       | Friends & Family Days                   |
 
