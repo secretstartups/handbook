@@ -4,6 +4,11 @@
   description: "Effective ways to apply product data for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
   ---
 
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
   ### Vision
 
   To align to our GitLab values of Efficiency, Results, Transparency, and Iteration, Product Usage Data will be accessible in:
