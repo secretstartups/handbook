@@ -156,6 +156,7 @@ We follow the [Product Designer workflows](/handbook/engineering/ux/ux-designer/
     - When the UX work is ready to be transitioned into Engineering, apply the workflow lable `workflow::planning breakdown`.
     - The Engineering team can create a new issue or issues with the broken down work, and apply issue weights. These issues should be labeled `Engineering`.
     - Label issues with `UX` or `Engineering` but not both. This will make sure there is no confusion as to what the weight is for.
+- We have a [Figma template](https://www.figma.com/file/e8tj8XvblnhDlix83FUSij/Growth-Experiment-Design-Template?node-id=1%3A42) for designing experiments. You should title your Figma designs to be consistent with the experiment name, and link the experiment issue to the Figma file. When the variants are ready, add the control and variants to the "All the variants" page and provide context as needed. If you are conducting multiple experiments in the same area, consider using the same Figma file but include different pages per experiment design.
 
 #### UX Definition of Done (DoD)
 
