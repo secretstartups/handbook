@@ -31,7 +31,7 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
   
   - PTO should be submitted in the time off feature in Mavenlink
   - Holidays along with Friends and Family day are scheduled on the Mavenlink calendar
-  - Review this section for the [time off process](#### Mavenlink Time Off Scheduling, Holidays, Friends & Family Days)
+  - Review this section for the [time off process](Mavenlink Time Off Scheduling, Holidays, Friends & Family Days)
 
 - Time is required to round to the nearest quarter hour, example- 8, 8.25, 8.5, 8.75 along with using h for hour and m for minutes
   - 15m should be .25
@@ -136,9 +136,9 @@ Note: Members cannot be invited to a project as a guest viewer, they must be ass
 To view projects as Read only/ Guest:
 - Members can find projects for which they have Guest Access by going to the Project List tab in Projects and selecting Guest Projects from the Show drop-down menu. Note that team members cannot have Guest Access on projects for which they're participating.
 
-![Read Only](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/Mavenlinkgustaccess1.png)
+![Read Only](./Mavenlinkgustaccess1.png)
 
-![Read Only 2](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/Mavenlinkguestaccess2.png)
+![Read Only 2](./Mavenlinkguestaccess2.png)
 
 #### Mavenlink Collaborator (PSE) Onboarding Checklist
 
@@ -234,7 +234,7 @@ Project Close
 
 Regional holidays and Friends and Family days are included in Mavenlink on each members calendar, followed by the  [scoping](/handbook/customer-success/professional-services-engineering/scoping).  Since the days are included in the calendar there is no need to submit the time in the Mavenlink PTO feature or the users time sheet.  When logging into the time sheet, the required work week is shown on the time sheet entry.
 
-![TimeOff](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/Timeoff.png)
+![TimeOff](./Timeoff.png)
 
 GitLab company policy to submit time off is through PTO by Roots, and followed by this [handbook process](https://about.gitlab.com/handbook/paid-time-off/).
 In the Professional Services group, we also require time off to be submitted to Mavenlink:
@@ -262,7 +262,7 @@ Time off cancellation
 - Right hand profile will pop up, there is a section for Upcoming Time Off
 - Click on the plus sign select the date and update the hours to "0"
 
-![PTOFeature](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/ptofeature.png)
+![PTOFeature](./ptofeature.png)
 
 #### Mavenlink Project Creation
 
@@ -283,7 +283,7 @@ Once the PS Opportunity is closed/ won a notification is sent from SFDC.
   - Go to Projects => All Projects and then click on the +Add Project button. 
   - You will want to select the correct template that you want to start your project from
 
-![](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/projectfromtemplate.png)
+![](./projectfromtemplate.png)
 
 5. Create a New Project:
 - Project Name- Account Name/ Opportunity Name/ Budget Amount
@@ -311,9 +311,9 @@ Once the PS Opportunity is closed/ won a notification is sent from SFDC.
 - Select the Group (Account Name)
   - If the group name is not available, create the Group Name and assign the project to the group
 
-![ViewGroup](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/viewgroup.png)
+![ViewGroup](./viewgroup.png)
 
-![ViewProject](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/viewproject.png)
+![ViewProject](./viewproject.png)
 
 - Then click Create Project
 - When the project creates, verify the project settings:
