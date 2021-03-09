@@ -525,6 +525,12 @@ Since collective exceptions within a department will at some point impact overal
 | Staff Security Engineer Red Team | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517282157) |
 | Staff Security Engineer Security Research | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284355)|
 
+### Opportunity
+It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
+In March 2021 a point-in-time review of all engineering teams found that of 64 potential Staff roles, 37 were currently unfilled (from a gearing limit perspective). This analysis is available in this sheet (internal only) [2021 March - Staff Current Roles](https://docs.google.com/spreadsheets/d/1LlhqyPXqfBsweGoeA98Xcw981rNwaTpIIQbWOxjTFAE/edit?usp=sharing).
+In addition to the current set of opportunities, our Engineering organization is continuing to grow and with each new team comes the potential for another Staff role. 
+Finally, in conjunction with the [IC Gearing Working Group](https://about.gitlab.com/company/team/structure/working-groups/ic-gearing) effort, the Principal Engineer role is [being added](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/74187) to the Engineering Career Path. This new role offers further career advancement opportunities to existing Staff Engineers and in turn opens future opportunities for Senior Engineers.
+
 ### Benefits of this solution
 A number of alternative approaches were considered as a solution for this gearing. The [IC Gearing Working Group](/company/team/structure/working-groups/ic-gearing/) resulted in this model for the following reasons:
 * Provides a default approach that requires no further effort by a workgroup
