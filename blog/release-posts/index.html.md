@@ -1440,7 +1440,9 @@ When approved, include the "Ready" label in the MR before merging.
 
 _To be added by Product Managers or Engineering Managers and merged by Engineering Managers._
 
-Describe any considerations administrators should have when upgrading. These could be warnings about potential data loss, recommendations for maintenance beforehand, and other similar concerns.
+Describe any considerations administrators should have when upgrading to this version. These could be warnings about potential data loss, recommendations for maintenance beforehand, and other similar concerns.
+
+Considerations for future upgrades should be noted in the deprecations sections.
 
 _One notable example was in %12.10, [we required administrators to migrate from Postgres 10 to Postgres 11](https://about.gitlab.com/releases/2020/04/22/gitlab-12-10-released/#upgrade)._
 
