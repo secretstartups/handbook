@@ -180,12 +180,30 @@ For a video walkthrough on sharing your badge to LinkedIn watch the following vi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zej2pLuwCok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Reporting content in violation of the GitLab Code of Conduct
+
+GitLab Learn users are encouraged to report content on the platform that is in violation of the [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). 
+
+Steps for reporting GitLab Learn content:
+
+1. To report content, click on the navigation symbol (3 vertical dots) in the SmartCard and choose the `Report It` option.
+1. To report comments, click on the navigation symbol (3 vertical dots) to the right of the comment and choose the `Report It` option.
+
+When reporting any content, you'll be asked if the content fits one of the following conditions. Please select the condition that is most applicable.
+1. `Technical issues with opening the content`
+1. `I think its fake, spam, or scam`
+1. `I think its an inappropriate comment`
+
+There is also an option to add more context around what is wrong with the content. Please feel encouraged to add any additional information in this section to help our team moderate.
+
+From here, the GitLab L&D team will moderate and remove comments and content in violation of our CoC.
+
 ## Frequently asked questions
 
 
 ### When will content in GitLab Learn be available for the entire GitLab team, customers, and community members?
 
-The LXP implementation team is planning a phased rollout of the platform to multiple GitLab audiences. Progress and additional information can be found on the [LXP implementation issue board](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/boards)
+The LXP implementation team is planning a phased rollout of the platform to multiple GitLab audiences. Please watch this page for future updates.
 
 ### Where is the content in the LXP stored?
 
@@ -197,11 +215,24 @@ In addition to GitLab learning material stored in the handbook, GitLab team memb
 
 The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/).
 
+### How do I share a GitLab Learn badge externally?
 
+Please review [this SmartCard](https://gitlab.edcast.com/insights/ECL-15365c36-f581-47fd-8c43-bf6d85e61656) to learn the process for how to share a GitLab Learn badge on LinkedIn.
 
+### I can't mark a SmartCard as complete - what should I do?
+
+Please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
+
+### I'm having trouble logging in or making a new account on GitLab Learn.
+
+Please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
+
+### I can't see all the content in a Pathway or Journey on GitLab Learn.
+
+Please note that some content in the Pathway is restricted to internal team members, specific audiences, or paid customers. If you believe you're having trouble accessing public content, please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users).
 
 ## Have additional questions about GitLab Learn?
 
-Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W).
+Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
 
 

@@ -561,25 +561,61 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 
 Admin process for reporting from EdGraph is coming soon.
 
+## Moderation
+
+Moderation and CoC workflows are being determiend by the LXP implementation team and will be documented in future iterations.
 
 
 ## Support
 
-This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
+### Temporary Support Model
 
-Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
+GitLab Learn is planned to launch to external audiences on 2021-03-15. Without a dedicated LXP admin, the implementation team will use this temporary support process across the Professional Services and Learning and Development Teams to enable and support all users.
 
 ```mermaid
 graph TD
     A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket from [team to address TBD]
+    B -->|Community Member| F[Support via ticket from Professional Services and Forum support from L&D]
+
 ```
 
-### Slack support for team members
+#### SLAs for temporary support workflow
 
-#### Slack workflow
+GitLab team members should work towards responding to internal and external requests for support based on the following SLAs:
+
+| Audience | Support Method | SLA |
+| ----- | ----- | ----- |
+| Team Members | Slack support from L&D team | 2 business days |
+| Customers | Zendesk support from PS team | TBD by PS Team |
+| Community Members | Zendesk support from PS or L&D teams | 1 week |
+| Community Members | Fourm support from L&D team | 1 week |
+
+Workflows, email templates, and outlines below will remain the same for this temporary support model.
+
+### End goal Support Model
+
+This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
+
+Due to the diversity in audience on the GitLab Learn platform, support is managed and supported by multiple teams at GitLab.
+
+This workflow will be implemented when the LXP implementation team has adeuqate staffing for platform administration.
+
+```mermaid
+graph TD
+    A[User Question] --> B[Determine user audience]
+    B -->|Team Member| D[Support via Slack from L&D]
+    B -->|Customer| E[Support via ticket from PS team]
+    B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin
+
+```
+
+### Pathways for user support
+
+#### Slack support for team members
+
+##### Slack workflow
 
 GitLab team members are directed to seek support for the GitLab Learn platform in the #learninganddevelopment Slack channel. From this channel, the Learning and Development team will answer questions and support with platform issues. The L&D team monitors the #learninganddevelopment Slack thread daily. If questions are posed that L&D cannot solve, they will engage EdCast for further support via email.
 
@@ -595,20 +631,210 @@ This chart outlines common questions and triage actions taken by the L&D team:
 | Field Enablement or Professional Services content | Tag FE and PS DRIs |
 
 
-### Zendesk support for customers and community members
+#### Zendesk support for customers and community members
 
-This workflow is currently being designed [in this issue](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/issues/23#note_494338293).
+Zendesk will be our main hub for providing user support for external audiences on GitLab Learn. 
 
-#### Professional Services support workflow (Paid Users)
+Customers and community members will be directed to open a ticket using the professional services contact form.
 
-The workflow for customers using the LXP will be determined by the Professional Services team.
+The following workflow outlines how new tickets are directed to the appropriate Zendesk view:
 
-#### Community support workflow (Free Users)
+```mermaid
+graph TD;
+A(User wants to contact proserv)
+B(How does the user do it?)
+C(Ticket goes to triage view)
+D(Zapier tries to auto-associate)
+E(Ticket is in triage view, needs to be manually triaged)
+F(What plan did they say they were?)
+G(Ticket is in paid view)
+H(Ticket is in free view)
+I(Zapier tries to auto-associate)
+A-->B;
+B--Email-->C;
+C-->D;
+D--Fails-->E;
+B-->I;
+D--Success-->G;
+I--Success-->G;
+I--Fails-->F;
+F--Paid-->E;
+F--Free-->H;
 
-The workflow for community members using the LXP has not yet been outlined.
+```
+
+##### Customer support workflow using Zendesk(Paid Users)
+
+The workflow for customers using the LXP will be determined by the Professional Services team via the `paid` Zendesk view.
+
+##### Community support workflow using Zendesk (Free Users)
+
+Zendesk tickets from users with free GitLab accounts or without a GitLab.com account will be routed to the `free` view and processed by the LXP admin.
+
+When providing support to community members, please review the `Support for frequently asked questions` section below for common workflows and templates used to provide free support.
+
+#### Community Forum Support (Paid and Free Users)
+
+The GitLab Community Forum has a category entitled `GitLab Learn` for users to connect and ask questions about GitLab Learn. Responses to this category will be managed by the LXP admin.
+
+Below are a collection of key questions and answers posted on the forum. Consider linking to these threads when providing support on the forum, in Zendesk, or in Slack.
+
+| Question | Forum Thread Link |
+| ----- | ----- | 
+| | |
+| | |
+
+Important considerations when responding to questions in the forum:
+
+1. If you need personal information from the user, direct them to open a ticket. This could include problems with logging in, accessing their account, or updating accout information.
+1. Whenever possible, link back to the [GitLab Learn user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) in your response. If the information you're sharing isn't documented on that page, add it.
+1. Review other ways to [use and interact with users on the forum](/handbook/marketing/community-relations/community-operations/#forum-uses)
 
 
-### Email and macro templates
+### Support for frequently asked questions
+
+#### Team member opens a Zendesk ticket for support
+
+#### Support workflow
+
+1. Use the Zendesk macro to direct team members to Slack
+
+##### Response
+
+```
+Dear {{user.firstname}}
+
+Team members can get support for GitLab Learn in Slack from the Learning and Development team. Please reach out to them with your question in the [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) channel.
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+```
+
+#### How do I share my GitLab Learn badges externally?
+
+##### Support workflow
+
+1. Use the Zendesk macro to direct the user to the correct SmartCard and handbook documentation
+
+##### Response
+
+```
+Dear {{user.firstname}}
+
+Thanks for reaching out to our team about your GitLab Learn badge! We're happy to hear you've earned a badge and are ready to share your success with your LinkedIn network.
+
+[This SmartCard](https://gitlab.edcast.com/insights/ECL-15365c36-f581-47fd-8c43-bf6d85e61656) will walk you through the process of sharing your badge externally on LinkedIn. 
+
+You can also find this information in our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges).
+
+Please let us know if there is anything else we can help you with!
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+```
+
+#### I'm having trouble creating an account on GitLab Learn
+
+##### Support Workflow
+
+1. Confirm the user does not already have an account via the GitLab Learn admin panel
+1. If they **do** have an account set up:
+     1. 
+1. If they **do not** have an account set up:
+     1. Point to the training on [creating a new GitLab Learn account](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
+     1. Confirm users are accessing the platform using Google Chrome browser
+     1. If logging in using GitLab.com account, confirm that user has an existing GitLab.com account
+
+##### Response if they **do** have an account set up:
+
+```
+Dear {{user.firstname}}
+
+I'm sorry to hear you're having trouble creating a GitLab Learn account. I've checked our system and do see an account successfully created with the email: {{user.email}}.
+
+Please visit the [GitLab Learn login page](https://gitlab.edcast.com/ and select the `forgot your password` option to reset your account.
+
+If you're still having trouble after trying to reset your password, please respond to this email and include the following information:
+
+1. Email used while attempting to create and account:
+1. Are you trying to log into GitLab Learn using your GitLab.com account? Yes or No
+1. Are you trying to log into GitLab Learn using another account, like Google or LinkedIn? If yes, please indicate which account you're attempting to use:
+
+Thank you for your patience while we process your request!
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+```
+
+
+##### Response if they **do not** have an account set up:
+
+```
+Dear {{user.firstname}}
+
+I'm sorry to hear you're having trouble creating a GitLab Learn account. I've checked our system and do not see an account created using the email {{user.email}}.
+
+In order to help get your account set up, I will share a few resources and confirm a few things with you:
+
+1. If you haven't yet reviewed our user docs, please watch this video on [setting up your GitLab Learn account for the first time](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
+1. Be sure you're accessing GitLab Learn via the Google Chrome browser, as it performs best in this browser.
+1. If you're trying to sign in via your GitLab.com account, please make sure you've already created an account on [GitLab.com](https://gitlab.com/)
+
+If you've attempted these 3 possible solutions and are still having trouble, please respond to this email and include the following information:
+
+1. Email used while attempting to create and account:
+1. Are you trying to log into GitLab Learn using your GitLab.com account? Yes or No
+1. Are you trying to log into GitLab Learn using another account, like Google or LinkedIn? If yes, please indicate which account you're attempting to use:
+
+Thank you for your patience while we process your request!
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+```
+
+#### I can't see all the content in a Pathway or Journey on GitLab Learn.
+
+##### Support Workflow
+
+1. Confirm which content the user is trying to view.
+1. Respond with macro explaining internaly only content.
+
+##### Response
+
+```
+Dear {{user.firstname}}
+
+Thanks for reaching out with your question about GitLab Learn.
+
+Can you please clarify which Pathway or Journey you're having trouble accessing? Please include a link to the content in your response.
+
+Please note that not all learning content on the GitLab Learn platform is available to our wider community. As we grow, we'll release additional learning Pathways and Journeys for you to continue your personal and professional development.
+
+If you have any suggetsions of content you'd like to see in the GitLab Learn platform, please post in our GitLab Community Forum.
+
+Sincerely,
+
+{{agent.firstname}}
+
+Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
+
+```
+
+### Automatic email templates
+
+The following are email templates generatetd automatically either via Zendesk or Gmail and are meant to point users to the correct pathways for support.
 
 #### EdCast notification emails
 
@@ -664,12 +890,6 @@ The GitLab Learning and Development Team
 ### Admin Support
 
 This section outlines workflows and processes that the GitLab Learn admin can use to obtain support from EdCast.
-
-#### Temporary Slack support
-
-During the implementation phase, the team can access support from EdCast via the #edcast-support Slack channel. Please review the temporary process for engaging EdCast with supported related questions [on the EdCast implementation handbook page](/handbook/people-group/learning-and-development/gitlab-learn/implementation/#temporary-support-from-edcast-using-slack)
-
-
 #### Submitting a feature request to EdCast
 
 To make a feature request to the EdCast product, email the EdCast team along with `support@edcast.com` with the following information:
