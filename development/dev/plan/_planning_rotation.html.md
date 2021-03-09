@@ -19,7 +19,4 @@ To weight issues, they should:
 1. If two people disagree on the weight of an issue, even after explaining their
    perceptions of the scope, we use the higher weight.
 
-We're discussing how we can better work with Frontend team-members to get faster, more 
-accurate estimations in [this issue](https://gitlab.com/gitlab-org/plan/-/issues/274).
-
 [Product Development Timeline]: https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline
