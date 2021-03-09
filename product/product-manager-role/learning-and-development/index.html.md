@@ -107,6 +107,24 @@ Please contribute your favorite resources here
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
 
+#### Design 
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+Please contribute your favorite resources here
+
 ### Delivery
 
 #### User stories
@@ -144,6 +162,24 @@ Please contribute your favorite resources here
 ##### Books 
 
 - [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
+
+#### Working with Engineering 
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+Please contribute your favorite resources here
 
 ### Business Acumen
 
