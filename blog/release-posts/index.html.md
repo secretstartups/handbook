@@ -1438,7 +1438,7 @@ When approved, include the "Ready" label in the MR before merging.
 
 ### Upgrades
 
-_To be added by Product Managers or Engineering Managers and merged by Engineering Managers. Upgrades should be added to the release post at least 2 cycles prior to actual release and repeated in subsequent release posts as appropriate till complete._
+_To be added by Product Managers or Engineering Managers and merged by Engineering Managers.
 
 Describe any considerations administrators should have when upgrading. These could be warnings about potential data loss, recommendations for maintenance beforehand, and other similar concerns.
 
