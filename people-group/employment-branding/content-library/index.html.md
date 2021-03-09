@@ -17,12 +17,14 @@ Use this content library as a resource whenever you're acting as a talent ambass
 
 ## Quick facts  
 
-| Fact | To date 2021-01 |
+| Fact | To date 2021-03 |
 | ------ | ------ |
-| Headcount | 1,200+ |
-| Countries | 68+ |
+| Headcount | 1,300+ |
+| Countries | 65+ |
 | Remote team members | 100% |
 | Pets | 300+ |
+
+Source: [GitLab team page](/company/team/)
 
 ## Key messages about life at GitLab
 
@@ -31,16 +33,10 @@ Use this content library as a resource whenever you're acting as a talent ambass
 - We have an incredibly unique culture and working environment that's unlike any company you've experienced. This is an ambitious, productive team that embraces a [set of shared ​values and behaviors](/handbook/values/)​ in everything we do.
 - More about [life at GitLab and our culture](/company/culture/).
 
-## Key messages about our oubound hiring model 
-
-- At GitLab, we take a unique approach to growing our team by focusing on sourcing the most talented candidate for the role, no matter where they're located. 
-- Our hiring model allows us to continue to build a diverse team in the most efficient way possible, while also sustaining our culture.
-- This means we do not accept direct applications to our open roles. Instead, we encourage you to ​join our talent community to be considered for ​current​ and future opportunities at GitLab.
-- More about our [outbound model](/jobs/faq/#gitlabs-outbound-recruiting-model).
 
 ## Key messages about diversity, inclusion, and belonging (DIB) at GitLab
 
-- Diversity, inclusion, and belonging (DIB) is fundamental to the success of GitLab. We include it in every way possible and in all that we do. 
+- Diversity, inclusion, and belonging (DIB) are fundamental to the success of GitLab. We infuse DIB in every way possible in all that we do. 
 - We strive for a transparent environment where all globally dispersed voices are heard and welcomed. We strive for an environment where people can show up as their full selves each day and can contribute to their best ability. And with over 100,000 organizations utilizing GitLab across the globe, we strive for a team that is representative of our users.
 - At GitLab, we have team member resource groups (TMRGs), inclusive benefits, training and development, an inclusive hiring process, outreach initiatives to underrepresented groups, a Global DIB Advisory Group, and more. 
 - More about [DIB at GitLab](/company/culture/inclusion/).
@@ -89,7 +85,6 @@ There are a number of videos on our [corporate YouTube channel](https://www.yout
 - [What is GitLab?](https://youtu.be/MqL6BMOySIQ)
 - [Working remotely at GitLab](https://youtu.be/NoFLJLJ7abE)
 
-Coming soon: Team-specific videos 
 
 ## Logos, company description, team photos
 
