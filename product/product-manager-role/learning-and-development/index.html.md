@@ -38,6 +38,7 @@ These books are highly recommended to be read by every product manager at GitLab
 ##### Quick reads and videos
 
 (articles and videos that are less than 10 mins)
+
 ##### Deep dive reads and videos
 
 (Articles and videos longer than 10 mins. When videos are added they should show the duration in mins)
