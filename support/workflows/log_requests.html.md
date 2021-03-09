@@ -47,7 +47,7 @@ A customer, who had accidentally set their project to the incorrect visibility s
 
 > Excluding users who have the company email domain, 2 users viewed the main project page a total of 4 times between 20:06 and 20:10 UTC 2019-08-15. However, I can confirm that all 4 instances originated from one of the IP addresses you provided as being from your office.
 
-From ticket: https://gitlab.zendesk.com/agent/tickets/129594
+From ticket: [129594](https://gitlab.zendesk.com/agent/tickets/129594)
 
 ### Example 2: IP block
 
@@ -55,7 +55,7 @@ User writes in to say their entire team is getting blocked and they want to know
 
 > It appears that the majority of requests that returned `401`, which likely caused the temporary block, involved `/project/path`.
 
-Example ticket: https://gitlab.zendesk.com/agent/tickets/132652
+Example ticket: [132652](https://gitlab.zendesk.com/agent/tickets/132652)
 
 Also see ["Identifying the Cause of IP Blocks on GitLab.com"](/handbook/support/workflows/ip-blocks.html).
 
@@ -65,4 +65,4 @@ GitLab reached out to the owners of a project that was causing concern for the p
 
 > There are 3 different IPs showing in our logs, 2 of which are based in CountryA and 1 in CountryB (please note these locations may not be accurate as they are based purely on geolocation web searches). They also all have the same user agent.
 
-Example ticket: https://gitlab.zendesk.com/agent/tickets/130153
+Example ticket: [130153](https://gitlab.zendesk.com/agent/tickets/130153)
