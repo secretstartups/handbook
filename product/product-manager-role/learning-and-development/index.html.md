@@ -54,7 +54,7 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Jobs to be done 
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (video)
 - [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (video)
@@ -66,15 +66,11 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Lean product development
 
-##### Quick introduction
+##### Deep dive reads and videos
 
-- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video)
-
-##### Books
+- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video 42 min)
 
 #### Experimentation and Growth hacking 
-
-##### Quick introduction
 
 ##### Books
 
@@ -84,7 +80,7 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### User stories
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [How to split a user story](https://agileforall.com/how-to-split-a-user-story/)
 
@@ -94,7 +90,7 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Backlog management
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [Brandon Chu: Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 
@@ -106,14 +102,13 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Product strategy
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [Marty Cagan: Vision Vs. Strategy](https://svpg.com/vision-vs-strategy/)
-- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/)
 
-##### Books
+##### Deep dive reads and videos
 
-##### Online courses
+- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/) (video 54 min)
 
 #### Competitive analysis
 
@@ -121,13 +116,11 @@ These books are highly recommended to be read by every product manager at GitLab
 
 - [Stop Ignoring Your Competitors...](https://producthabits.com/competitor-analysis/)
 
-##### Books
-
 #### KPIs and Metrics 
 
 ##### Quick introduction
 
-- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video)
+- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video 5 min)
 
 ##### Books
 
@@ -137,46 +130,29 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### Writing to inspire, align and activate 
 
-##### Quick introduction
-
-##### Books
-
 #### Presentations, prepared and ad hoc
 
-##### Quick introduction
-
-##### Books
-
 #### Remote team collaboration 
-
-##### Quick introduction
-
-##### Books
 
 ### Team Management
 
 #### Stakeholder management
 
-##### Quick introduction
+##### Deep dive reads and videos
 
-- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/)
-
-##### Books
+- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/) (video 20 min)
 
 #### Cross-functional team management
 
-##### Quick introduction
-
-##### Books
-
 #### Direct team management
 
-##### Quick introduction
+##### Quick reads and videos
 
 - [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
-- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video)
 
-##### Online courses 
+##### Deep dive reads and videos
+
+- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video 30 min)
 
 ##### Books
 
