@@ -4,43 +4,38 @@ title: "Using Product Usage Data in Gainsight"
 description: "Effective ways to apply product data for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
 ---
 
-{:.no_toc .hidden-md .hidden-lg}
+### Vision
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+To align to our GitLab values of Efficiency, Results, Transparency, and Iteration, Product Usage Data will be accessible in:
 
-  ### Vision
+1. Short-term: Our GTM systems (Salesforce, Gainsight, and Marketo) to enable effective outcomes by supporting the customer where _they_ are at in their customer journey
+1. Short-term: GitLab accessible dashboards (Sisense) for high level overviews and trend analyses
+1. Long-term: The GitLab product to enable customers to self-serve and develop their own analytics — this will be accomplished by the Product Analytics (Product) team's initiatives
 
-  To align to our GitLab values of Efficiency, Results, Transparency, and Iteration, Product Usage Data will be accessible in:
+### Using Product Usage Data in Gainsight 
 
-  1. Short-term: Our GTM systems (Salesforce, Gainsight, and Marketo) to enable effective outcomes by supporting the customer where _they_ are at in their customer journey
-  1. Short-term: GitLab accessible dashboards (Sisense) for high level overviews and trend analyses
-  1. Long-term: The GitLab product to enable customers to self-serve and develop their own analytics — this will be accomplished by the Product Analytics (Product) team's initiatives
+**Note**: for License Usage, see [License Usage Salesforce App](/handbook/sales/field-operations/sales-systems/license-usage-app/) and [License Usage in Gainsight](/handbook/customer-success/tam/gainsight/license-usage/).
 
-  ### Using Product Usage Data in Gainsight 
+For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). FY22-Q1 will have self-managed only. 
 
-  **Note**: for License Usage, see [License Usage Salesforce App](/handbook/sales/field-operations/sales-systems/license-usage-app/) and [License Usage in Gainsight](/handbook/customer-success/tam/gainsight/license-usage/).
+### Data Integration
 
-  For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). FY22-Q1 will have self-managed only. 
+Data will be integrated from Snowflake —> Gainsight on a monthly basis. Over time, this will move to bi-weekly and then weekly.
 
-  ### Data Integration
+### Ways to Use These Metrics
 
-  Data will be integrated from Snowflake —> Gainsight on a monthly basis. Over time, this will move to bi-weekly and then weekly.
+There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](/#requesting-new-metrics). Here are several potential use cases for utilizing data:
 
-  ### Ways to Use These Metrics
+#### Understanding The Basics of My Customer's Usage
 
-  There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](/#requesting-new-metrics). Here are several potential use cases for utilizing data:
+With data syncing to Gainsight, we can quickly and easily look up an account and see instances (note: this data is currently limited to self-managed customers only) where we are receiving their data. Use this to see all instances related to your account (Production and non-Production) and their activity. NOTE: this only works for instances that are tied to an active subscription. 
 
-  #### Understanding The Basics of My Customer's Usage
-
-  With data syncing to Gainsight, we can quickly and easily look up an account and see instances (note: this data is currently limited to self-managed customers only) where we are receiving their data. Use this to see all instances related to your account (Production and non-Production) and their activity. NOTE: this only works for instances that are tied to an active subscription. 
-
-  * Who is sending us their usage ping data?
-  * Are they sending Production data?
-  * Is their activity in line with my expectations? Does the activity found in the product usage data agree with what I know about their usage?
+* Who is sending us their usage ping data?
+* Are they sending Production data?
+* Is their activity in line with my expectations? Does the activity found in the product usage data agree with what I know about their usage?
 
 
-  #### How Active Is My Customer?
+#### How Active Is My Customer?
 
   While we can use License Usage (see above) to understand the activated seats vs. licensed seats, [Unique Monthly Active Users (UMAU)](/handbook/product/performance-indicators/#unique-monthly-active-users-umau) can help assess how many of those activated licenses are currently being used. For example, a customer may have 1,000 users "activated" but only 700 of them are logging in. That can highlight a risk.
 
