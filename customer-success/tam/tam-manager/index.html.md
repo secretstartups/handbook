@@ -121,3 +121,12 @@ The TAM Manager is responsible for developing and delivering a [Quarterly Busine
 
 - Gainsight Dashboard - **TAM Portfolio** or **CS Leadership**
 - [SFDC: WW Renewal Forecast](https://gitlab.my.salesforce.com/00O4M000004aARC)
+
+## Gainsight/Customer Review in Director/TAM Manager 1:1 Cadence: 
+
+* 1st week: Onboarding Metrics (reported in to E Group 4th week), Success Plans, EBRs
+* 2nd week:Renewals, At Risk Accounts, Red Scorecards
+* 3rd week: Stage Adoption Playbooks, EBR Playbooks
+* 4th week: Renewals, At Risk Accounts, Red Scorecards
+
+
