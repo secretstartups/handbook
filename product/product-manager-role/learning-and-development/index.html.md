@@ -81,7 +81,15 @@ Please contribute your favorite resources here
 
 - [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video 42 min)
 
-#### Experimentation and Growth hacking 
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books 
+
+Please contribute your favorite resources here
+
+#### Experimentation and growth hacking 
 
 ##### Quick reads and videos
 
