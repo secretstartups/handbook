@@ -14,7 +14,7 @@
 
   ### Using Product Usage Data in Gainsight 
 
-  **Note**: for License Usage, see [License Usage Salesforce App](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/license-usage-app/) and [License Usage in Gainsight](https://about.gitlab.com/handbook/customer-success/tam/gainsight/license-usage/).
+  **Note**: for License Usage, see [License Usage Salesforce App](/handbook/sales/field-operations/sales-systems/license-usage-app/) and [License Usage in Gainsight](/handbook/customer-success/tam/gainsight/license-usage/).
 
   For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). FY22-Q1 will have self-managed only. 
 
@@ -24,7 +24,7 @@
 
   ### Ways to Use These Metrics
 
-  There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](#requesting-new-metrics). Here are several potential use cases for utilizing data:
+  There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](/#requesting-new-metrics). Here are several potential use cases for utilizing data:
 
   #### Understanding The Basics of My Customer's Usage
 
@@ -82,7 +82,7 @@
   * [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
   * [Adoption Explorer - GitLab Documentation](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit)
   * [SaaS-Activity Dashboard](https://app.periscopedata.com/app/gitlab/684495/WIP---SaaS-Activity)
-  * [High-Level Visual of GitLab Adoption Journey](https://about.gitlab.com/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey)
+  * [High-Level Visual of GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey)
 
   
 
