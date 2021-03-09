@@ -65,7 +65,14 @@ The Deal Desk team will do their best to respond to each request to '@sales-supp
 
 ### EOA Ramp Requests SLA 
 
-To be determined
+The Deal Desk team will do their best to respond to EOA Ramp requests as quickly as possible. However, due to the complexity of building EOA ramps, the SLA for a quote is as follows: 
+
+| Subscription Term Start Date | First Response | Resolution |
+|----- | ----- | ------| 
+| Less than 30 days out | 4 Hours | 24 Hours | 
+| More than 30 days out| 4 Hours | 72 hours |
+
+A Deal Desk member will respond to your chatter request with an estimate on when the quote will be complete. Please let us know if your customer requires the quote in advance due to lenghty procurement cycles or budget planning reasons. 
 
 #### Deal Desk - A Global Presence
 
