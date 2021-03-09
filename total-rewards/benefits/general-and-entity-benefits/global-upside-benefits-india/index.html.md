@@ -22,6 +22,7 @@ All of the benefits listed below are administered and managed by [Global Upside]
 | ------ | ------ |
 | `hr@globalpeoservices.com` | Employment-related questions |
 | `benefitsops@globalupside.com` | Questions regarding benefits elections |
+| `IndiaPayroll@globalpeoservices.com` | Payroll-related questions |
 
 ### Medical Benefits
 
