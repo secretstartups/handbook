@@ -12,6 +12,11 @@ experience.
 
 ## Contacting Support
 
+**Note**: Prior to reaching out to support, you will need an account
+pre-created for you in the [support portal](https://support.gitlab.com). To
+have this done, please reach out to your Technical Account Manager, Account
+Manager, Sales representative, or Support representative first!
+
 Alliance Partners contact us via the
 [support portal](https://support.gitlab.com). To ensure that their tickets
 submitted there route properly, they use
