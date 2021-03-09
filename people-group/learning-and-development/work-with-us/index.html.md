@@ -35,15 +35,21 @@ To host a live learning event, start by opening an issue in the Learning and Dev
 - [Introduction to Coaching](/handbook/leadership/coaching/#introduction-to-coaching-1)
 - [Being an Ally](/company/culture/inclusion/being-an-ally/#ally-training)
 
-### Creating a GitLab Learn Channel
+### Creating a Learning Hub for your team
 
-Any team at GitLab can create a new Channel in GitLab Learn to curate, organize, and suggest professional development opportunities for their team members.  Some scenarios where you might want to build a Channel include:
+We work closely with leaders across GitLab to develop landing pages for learning material that is tailored to specific departments and teams. By creating [Channels in GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/admin/#broadcasting-on-channels), teams can contribute, curate, organize, and suggest professional development opportunities for their team members.  Some scenarios where you might want to build a Channel include:
 
 1. You have multiple LinkedIn Learning courses you'd like to showcase
 1. You'd like to track what courses your team is completing
 1. You'd like a single spot to send team members who are looking for professional development courses
 
-To create a new Channel in to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_channel` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template.  
+Here are some examples of Channels that teams have created in GitLab Learn to serve as a Learning Hub for their department or team:
+
+1. The [GitLab Learning and Development Channel](https://gitlab.edcast.com/channel/gitlab-learning-development) features certifications and newsletters produced by the L&D team
+1. The [Women TMRG Channel](https://gitlab.edcast.com/channel/gitlab-women-tmrg) features LinkedIn Learning courses the TMRG is studying together
+1. The Support Team created a [Professional Development Channel for Support Team Members](https://gitlab.edcast.com/channel/gitlab-support-team-professional-development) to curate existing LinkedIn Learning courses, organized based on skill.
+
+To create a Learning Hub for your team using a Channel in to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_channel` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template.  
 
 **In future iterations, the L&D team will enable team members and managers to curate and promote content on these channels without needing to involve the L&D team.**
 
