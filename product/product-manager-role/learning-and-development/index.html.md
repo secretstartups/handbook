@@ -35,7 +35,7 @@ These books are highly recommended to be read by every product manager at GitLab
 
 #### User Research
 
-##### Quick reads
+##### Quick reads and videos
 
 (articles that are 5 mins or less to read)
 ##### Videos
