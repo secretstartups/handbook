@@ -45,6 +45,7 @@ These books are highly recommended to be read by every product manager at GitLab
 ##### Online courses 
 
 - [Continuous Interviewing by Product Talk](https://learn.producttalk.org/p/continuous-interviewing)
+
 ##### Books
 
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
