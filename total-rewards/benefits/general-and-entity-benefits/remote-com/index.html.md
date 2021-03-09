@@ -118,25 +118,28 @@ The vacation premium is an additional cash benefit given to employees for use on
 * It can be paid right away when the vacation is taken, or as a lump sum upon completing one year of service (or employment ends). It is the employer’s choice which method to use.
 * Unused leave must also be paid when employment ends (in other words, the employee does not ‘forfeit’ unused vacation time)
 
-### Remote Technology - Mexico Leave Policy
+### Mexico Parental Leave
 
-#### Statutory Maternity Leave
+#### Statutory General Entitlement 
 
-The statutory entitlement for maternity leave is 12 weeks (6 weeks before the child is born and 6 weeks after birth). The employee can negotiate the leave period before the birth of the child in an agreement with the employer in order to partially enjoy them after the birth of the child. During maternity leave, women are entitled to the benefits that they would normally receive.
+**Maternity Leave:** Team members can take 12 weeks of Maternity Leave (6 weeks before the child is born and 6 weeks after birth). 
 
-* In addition to the following rules apply: 
-    * Pregnant women may not work under the hazardous conditions; 
-    * Perform industrial tasks during the night, extraordinary hours or during sanitary contingencies; 
-    * Their salary, benefits, and rights should not be affected.
-* When an employee return from maternity leave, the employee is entitled to her employment, provided that no more than 1 year has passed since the date of delivery.
-* Maternity leave does not affect the longevity of service. During maternity leave, the Mexican Social Security Institute will pay the working mother 100% of her daily salary as a social security contribution.
-* If the maternity leave period is extended, she is entitled to 50% of the daily salary of social security contribution for a period of up to 60 days.
+**Paternity Leave:** Team members can take 5 days of Paternity Leave.
 
-#### Statutory Paternity Leave
+#### Maternity Leave Payment
 
-A male team member is entitled to 5 working days as paternity leave.
+* 12 weeks of the team member's Maternity Leave will be paid by the Mexican Social Security Institute (MSSI). 
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the MSSI payments to ensure the team member receives 100% pay for up to 16 weeks of leave. 
 
-### Sick Leave
+#### Paternity Leave Payment
+
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), the team member will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Applying for Parental Leave in Mexico
+To initiate your parental leave, submit your time off by selecting the `Parental Leave category` in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+
+### Mexico Sick Leave
 
 Team members unable to work because of a nonwork-related injury or illness and who have made payments into the social security system for the four weeks before the condition developed are eligible for paid sick leave through the Social Security Institute. The benefit, which is 60% of an employee’s regular wage, is paid from the fourth day of the illness for up to 52 weeks and maybe extended for another 52 weeks. 
 
@@ -158,24 +161,29 @@ GitLab does not plan to offer pension benefit at this time as the Hungarian pens
 
 GitLab does not plan to offer life insurance at this time as team members can access the benefits from [Social insurance system](https://tcs.allamkincstar.gov.hu/) if they get ill, injured or have a disability.
 
-### Remote Technology - Hungary Leave Policy
+### Hungary Parental Leave
 
-#### Statutory Maternity Leave
+#### Statutory General Entitlement
 
-The statutory entitlement for maternity leave is 24 weeks. The leave must start **4 weeks prior to the scheduled delivery date**. During the entire period of maternity leave, the team member is entitled to 70% of her average salary, if she is regarded as insured under the Health Insurance Act LXXXIII. of 1997.
+**Maternity Leave:** Team members can take up to 24 weeks of Maternity Leave. The leave must start 4 weeks prior to the scheduled due date.
 
-#### Statutory Paternity Leave
+**Paternity Leave:** Team members can take 5 days of Paternity Leave or 7 days in case of twins.
 
-A male team member is entitled to `five` days paid leave, and `seven` days paid leave in case of twins, which they may take in one or in several parts until the end of the second month after the birth. Any income and taxes related to this period of supplementary leave are reimbursed to the employer by the Hungarian State Treasury. (Labour Code §118)
+**Parental Leave:** Team members can take unpaid leave to care for their child until the child reaches the age of 3 or until the child reaches the age of 10 if the team member receives child care allowance. Team members are also entitled to extra vacation days based on the number of children they have: 
 
-#### Statutory Parental Leave
+* two working days for one child; 
+* four working days for two children; 
+* a total of seven working days for more than two children under sixteen years of age.
 
-The team member shall be entitled to a leave of absence without pay in order to care for the child until the child reaches the age of `three` or in order to care for the child until the child reaches the age of `ten`, if the team member receives a child care allowance. (Labour Code §128, 130, 118)
+#### Matenity Leave Payment
 
-Additionally to parental leave, workers are entitled to extra vacation days based on the number of children they have: 
-a) two working days for one child; 
-b) four working days for two children; 
-c) a total of seven working days for more than two children under sixteen years of age.
+* The team member will receive Pregnancy and Confinement Benefit (CSED) at a rate of 70% of their salary for 24 weeks.
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the CSED payments to ensure the team member receives 100% pay for up to 16 weeks. 
+
+#### Paternity Leave Payment
+
+* The team member will receive payment from the Hungarian State Treasury for 5 days of their leave.
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the State payments to ensure the team member receives 100% pay for up to 16 weeks. 
 
 
 ## Austria
