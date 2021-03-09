@@ -115,7 +115,7 @@ Upon submission, the submitter will receive an [autoresponder](https://gitlab.co
       </details>
 
    1. Close the issue.
-   1. [Create a new Zendesk ticket](https://support.zendesk.com/hc/en-us/articles/203690946-Creating-a-ticket-on-behalf-of-the-requester) using the `Support::SaaS::Account Deletion - Customer Contact Inform` macro on behalf of the customer using the contact information for them associated with the subscription in the [Customer Portal](https://customers.gitlab.com).
+   1. [Create a new Zendesk ticket](https://support.zendesk.com/hc/en-us/articles/203690946-Creating-a-ticket-on-behalf-of-the-requester) using the [`Support::SaaS::Account Deletion - Customer Contact Inform`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056264079) macro on behalf of the customer using the contact information for them associated with the subscription in the [Customer Portal](https://customers.gitlab.com).
 
 1. **Account Ownership Verification:**
    Verify that the requestor is the owner of the account in question by sending the [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) snippet.
