@@ -21,13 +21,18 @@ account manager.
 
 In general, you should look for customer details in this order:
 
-1. Within Salesforce
-1. Within customers.gitlab.com
-1. Within license.gitlab.com
+1. [GitLab User Lookup app in Zendesk](#gitlab-user-lookup-app-in-zendesk)
+1. Within [Salesforce](#within-salesforce)
+1. Within [customers.gitlab.com](#within-customersgitlabcom)
+1. Within [license.gitlab.com](#within-licensegitlabcom)
 
-For an overview and runthrough of all three platforms, watch Amanda Rueda's
+For an overview and runthrough of manual searching of SFDC, customers.gitlab.com, and license.gitlab.com, watch Amanda Rueda's
 [How to use Salesforce from a support perspective](https://drive.google.com/drive/u/0/search?q=Amanda%27s%20Salesforce%20Class%20parent:1JDdcj2ESdCc_ReG0-n7RyAIxbIFkcQ1K)
 video.
+
+### GitLab User Lookup app in Zendesk
+
+From the Zendesk [GitLab User Lookup application](../support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) you have access to the requester details in SFDC and GitLab.com.
 
 
 ### Within Salesforce
