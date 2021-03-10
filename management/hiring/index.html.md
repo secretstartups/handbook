@@ -16,7 +16,7 @@ description: "Hiring information and process to follow for Engineering Managers 
   priority.
 - **Hiring is your responsibility.** You may rely on other members of your team
   to help you evaluate potential candidates. We also have many people at GitLab,
-  most notably in Recruiting, who will help you through the process. But it is
+  most notably in Talent Acquisition, who will help you through the process. But it is
   always your responsibility to make timely, high-quality hires - speak up if
   you feel like anything is preventing you from accomplishing this goal.
 - **Hiring is about making the team better.** It is easy to try to find
