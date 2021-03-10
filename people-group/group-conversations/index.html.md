@@ -249,7 +249,7 @@ In FY21 Q4, we'll move our Group Conversations to an eight week cycle. [Function
 | One  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Two  | Mon  | Available |   |
 | Two  | Tues | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman   |
-| Two  | Wed  | Available |   |
+| Two  | Wed  | [Digital Experience](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss |
 | Two  | Thur | [CRO Group Conversation](/handbook/sales/)  | Michael McBride  |
 | Two  | Fri  | Do Not Schedule  | Do Not Schedule  |
 | Three  | Mon  | [Marketing](/handbook/marketing/)  | Todd Barr  |
