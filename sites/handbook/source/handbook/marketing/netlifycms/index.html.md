@@ -38,17 +38,19 @@ To access the Netify CMS:
 
 ## Editoral Workflow Process 
 
-The editorial workflow enables Netlify CMS to created coresponding merge requests with your changes. Once a draft is saved, Netlify CMS will open a merge request and make a commit by your account to the MR with your changes. Future changes to the draft will be additional commits by the user making the changes to the draft. Because Netlify CMS is authenticated by your GitLab account, we can tell who is making what changes to a draft by the commit history. We can also use a traditional git workflow once the MR is created if someone wants to the pull your branch and maked changes that way instead. 
+The editorial workflow enables Netlify CMS to created coresponding merge requests with your changes. Netlify CMS will open a merge request and make a commit by your account to a MR with your changes to a single page. Future changes to the draft will be additional commits by the user making the changes to the draft. We can also use a traditional git workflow once the MR is created if someone wants to the pull your branch and maked changes that way instead. 
 
 The editoral workflow is a powerful process that allows content contributers and developers to contribute to the same merge request with different tools.
 
+Access the workflow tab in Netlify CMS by selecting "Workflow" in the top of the admin UI. You can also reach it directly at [https://about.gitlab.com/admin/#/workflow](https://about.gitlab.com/admin/#/workflow)
+
 | Actions in Netlify UI      | Perform these Git actions |
 | ----------- | ----------- |
-| Save draft | Commits to a new branch (named according to the pattern cms/collectionName/entrySlug), opens a merge request, and applies the `netlify-cms/pending_publish` label |
+| Save draft | Commits to a new branch (named according to the pattern cms/collectionName/entrySlug), opens a merge request, and applies the `netlify-cms/pending_draft` label |
 | Edit draft   | Pushes another commit to the merge request |
-| Move from draft to review in workflow tab | Applies the `netlify-cms/pending_review` label to merge request |
-| Move from draft to review in workflow tab | Applies the `netlify-cms/pending_publish` label to merge request |
-| Approve and publish draft | Adds merge request to the merge train and deletes branch after it's deployed to master |
+| Move from `Drafts` to  `In Review` in workflow tab | Applies the `netlify-cms/pending_review` label to merge request |
+| Move from `In Review` to `Ready` in workflow tab | Applies the `netlify-cms/pending_publish` label to merge request |
+| Publish  | Adds merge request to the merge train and deletes branch after it's deployed to master |
 
 [Netlify CMS documentation on the editorial workflow](https://www.netlifycms.org/docs/configuration-options/#publish-mode)
 
