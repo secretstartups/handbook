@@ -123,7 +123,7 @@ This is when a package or piece of mail is sent out.
 
 #### Executive Roundtables
 
-This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. [R]ead More](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
+This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. [Read More](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
 
 **Bizible:** This is tracked as an _offline_ channel.
 
@@ -567,11 +567,11 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 
 | Campaign                                 | Campaign Parameter for Tracking |Marketo Listener?|
 |------------------------------------------|---------------------------------|-----------------|
-| CI Use Case                              | singleappci                     | :white_check_mark:|
-| GItOps Use Case                          | iacgitops                       |:white_check_mark: |
-| Version Control & Collaboration Use Case | vccusecase                      |:white_check_mark: |
-| Simplify DevOps                          | simplifydevops                 |:white_check_mark: |
-| Jenkins                                  | cicdcmp2                        |:white_check_mark: |
+| CI Use Case                              | singleappci                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6803A1)|
+| GItOps Use Case                          | iacgitops                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6756A1)|
+| Version Control & Collaboration Use Case | vccusecase                      |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6802A1)|
+| Simplify DevOps                          | simplifydevops                  |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7218A1)|
+| Jenkins                                  | cicdcmp2                        |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6976A1)|
 | Increase Operational Efficiencies	       | operationalefficiences          ||
 | Deliver Better Products Faster	       | betterproductsfaster            ||
 | Reduce Security and Compliance Risk	   | reducesecurityrisk              ||
@@ -579,6 +579,7 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 | OctoCat	                               | octocat                         ||
 | DevSecOps Use Case	                   | devsecopsusecase                ||
 | AWS	                                   | awspartner                      ||
+| PubSec                                   | amer-pubsec                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7588A1)|
 
 
 
