@@ -185,11 +185,11 @@ All existing role based entitlement templates can be found in [this list](https:
 1. Once the Team Member Enablement team is mentioned in a role based entitlement for review, the first step is to make sure the role is added to the right folder. All Role Based Entitlements should be added to the path `.gitlab/issue_templates/role_baseline_access_request_tasks/` under the correct department for the role. Example: `.gitlab/issue_templates/role_baseline_access_request_tasks/department_people_success/role_people_group_fullstack_engineer.md` this is the path for the Role: `People Group Fullstack Engineer`, `Department: People Success`.
     - A report can be requested from Total Rewards with the roles we currently have and the departments they belong to if you are unsure where each role falls. The role and department should match what exists in BambooHR.
 1. All role based entitlements need to follow the same format. A [template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_template.md) can be found in the access request project for guidance. The automation won't work unless the proper format is followed.
-1. Make sure all systems listed in the template include the System Name and the roles/groups/projects that access is being requested to. 
+1. Make sure all systems listed in the template include the System Name and the roles/groups/projects that access is being requested to.
 1. Make sure that the team member has requested permission from all the Technical Owners of the systems. This isn't something that Team Member Enablement should do, it should be done by whoever is creating the template.
 1. Make sure that the template has been approved by the Director of the department the role belongs to.
 1. As a last  step, make sure the labels being added to the template are correct and follow the guidelines outlined in Step 4 of the [instructions](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#instructions-1) above.
-1. Keep in mind that if you commit a change to the template, you won't be able to approve it. It is recommended that you add [suggestions](https://docs.gitlab.com/ee/user/discussions/#suggest-changes) to templates instead of committing changes yourself. 
+1. Keep in mind that if you commit a change to the template, you won't be able to approve it. It is recommended that you add [suggestions](https://docs.gitlab.com/ee/user/discussions/#suggest-changes) to templates instead of committing changes yourself.
 
 #### **Questions**
 

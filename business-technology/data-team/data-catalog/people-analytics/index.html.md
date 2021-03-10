@@ -19,7 +19,7 @@ TOC
 
 **The benefits of data in the people space:**
 
-<html>   
+<html>
 <head>
 <style>
 .flex-container {
@@ -40,9 +40,9 @@ TOC
 <body>
 
 <div class="flex-container">
-  <div>Build a more streamlined recruiting process that helps GitLab build a strong and diverse team, as well as provides candidates going through the process a well-crafted experience.</div>
+  <div>Build a more streamlined talent acquisition process that helps GitLab build a strong and diverse team, as well as provides candidates going through the process a well-crafted experience.</div>
   <div>Drive teams to constantly be improving the experience of GitLab team members, and we mean it when we say "Everyone can contribute." We want individuals to thrive in their careers here and using engagement surveys and KPIs to drive our team goal we put people at the forefront. </div>
-  <div>Tie in the other data! Whether it be sales data, engineering data, etc it is all important to us! We want to understand how we can help team members grow in their journey and help leaders understand the impact of their organizations.</div>  
+  <div>Tie in the other data! Whether it be sales data, engineering data, etc it is all important to us! We want to understand how we can help team members grow in their journey and help leaders understand the impact of their organizations.</div>
 </div>
 
 <h2><strong>People Data Sources:</strong></h2>

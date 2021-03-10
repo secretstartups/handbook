@@ -29,7 +29,7 @@ graph TD
       Dashboards
       Ad-Hoc-SQL
     end
-  end    
+  end
 ```
 
 #### Analytics Workflow Development
@@ -48,7 +48,7 @@ The Data Definition is a standard definition and set of use cases used as part o
 1. Define the Data Definition page as completely as possible with all of its parts, including a business summary and links to source systems of record and dashboards.
 1. Data Definition is considered complete once all key parts are defined and the entry on this page is tagged with the appropriate [operational status](/handbook/business-technology/data-team/data-catalog/#legend).
 
-### Data Catalog 
+### Data Catalog
 
 
 
@@ -88,24 +88,25 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 <details>
 <summary markdown='span'>
   Data Models
-</summary>  
+</summary>
 
   * <a href="#" class="/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html">PTO By Roots (Slack)</a>
-  
+
 </details>
 
 <details>
 <summary markdown='span'>
   Data Solutions
-</summary>  
+</summary>
   * <a href="/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/" class="">People Metrics</a>
   * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html" class="">Promotions Report</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/recruiting_metrics.html" class="">Recruiting Metrics</a>
+  * <a href="#" class="/handbook/business-ops/data-team/data-catalog/people-analytics/recruiting_metrics.html.md">Talent Acquisition Metrics</a>
   * <a href="https://app.periscopedata.com/app/gitlab/topic/People/abaa4b1155104d529eed2464838d3f39" class="">Other People Dashboards</a>
-  * <a href="https://app.periscopedata.com/app/gitlab/topic/Recruiting/abc202b7029542f98ffb8fefa4958907" class="">Other Recruiting Dashboards</a>
+  * <a href="#" class="https://app.periscopedata.com/app/gitlab/topic/recruiting/abc202b7029542f98ffb8fefa4958907">Other Talent Acquisition Dashboards</a>
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">People Metrics - Data Discovery in Sisense Dashboard</a>
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">Team Member Separations Report</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html" class="">People KPI Deck</a> 
+  * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html" class="">People KPI Deck</a>
+</summary>
 </details>
 
 <style> #headerformat {
@@ -117,7 +118,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;
 <details>
 <summary markdown='span'>
   Data Solutions
-</summary>  
+</summary>
   * <a href="/handbook/business-technology/data-team/data-catalog/product-geolocation/" class="">📊 Self-Service Analytics Workflow: Product Geolocation Analysis</a><br><br>
   * <a href="/handbook/business-technology/data-team/data-catalog/pricing/" class="">📊 Self-Service Analytics Workflow: Pricing Analysis</a><br><br>
   * <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/" class="">🚧 WIP Self-Service Analytics Workflow: XMAU Analysis</a><br><br>
@@ -127,7 +128,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;
 <details>
 <summary markdown='span'>
   Data Definitions
-</summary>  
+</summary>
   * <a href="/handbook/product/performance-indicators/#structure/" class="">Data Definition: XMAU</a>
   * <a href="/handbook/product/product-categories/#devops-stages/" class="">Data Definition: Product Stage</a>
 </details>
@@ -153,7 +154,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 </style>
 <h1 id="headerformat">Sisense</h1>
 
-  * <a href="https://app.periscopedata.com/app/gitlab/topic/Sisense-Maintenance/abde7717743143098ac071be8c646bdb" class="">Sisense Related Dashboards - this accounts for Sisense Users, Dashboard Usage, Query Runtime</a>  
+  * <a href="https://app.periscopedata.com/app/gitlab/topic/Sisense-Maintenance/abde7717743143098ac071be8c646bdb" class="">Sisense Related Dashboards - this accounts for Sisense Users, Dashboard Usage, Query Runtime</a>
 
 
 ### Legend

@@ -98,7 +98,7 @@ The [Endpoint Management Implementation Plan](https://gitlab.com/gitlab-com/busi
 * 1st wave (2020-09-28): Cross Functional Pilot Groups
   * This group will consist of a mix of GitLab team members and Engineering Managers
 * 2nd wave (2020-10-05): E-Group
-* 3rd wave (2020-10-12): People, Recruiting, Finance, Product, Marketing
+* 3rd wave (2020-10-12): People, Talent Acquisition, Finance, Product, Marketing
 * 4th wave (2020-10-19): Sales, Legal, Chief of Staff team
 * 5th wave (2020-10-26): Engineering
 
