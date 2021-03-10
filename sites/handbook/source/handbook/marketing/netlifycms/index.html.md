@@ -36,17 +36,29 @@ To access the Netify CMS:
 1. Click "Login with GitLab" and use your GitLab account, the one with membership privileges in [`www-gitlab-com` repository](https://gitlab.com/gitlab-com/www-gitlab-com)
 1. If you have sufficient authorization, you should be redirected to the Netlify CMS admin page.
 
-## Creating a new or editing a existing topic page
+## Editoral Workflow Process 
 
-A topic is an industry trend, theme, or technology related to GitLab and our customers. For example, DevOps, GDPR, Containers, etc. Topic pages on our website educate the reader about the topic and share GitLab’s point of view while providing additional links to resources related to that topic. These pages are intended to attract search traffic.
+The editorial workflow enables Netlify CMS to created coresponding merge requests with your changes. Once a draft is saved, Netlify CMS will open a merge request and make a commit by your account to the MR with your changes. Future changes to the draft will be additional commits by the user making the changes to the draft. Because Netlify CMS is authenticated by your GitLab account, we can tell who is making what changes to a draft by the commit history. We can also use a traditional git workflow once the MR is created if someone wants to the pull your branch and maked changes that way instead. 
 
-Topic pages managed through Netlify CMS exist at [https://about.gitlab.com/topics/](https://about.gitlab.com/topics/) url. The content is located stored in the [`/data/topic`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/topic) and [`/data/topic_children`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/topic_children) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files through the admin interface.
+The editoral workflow is a powerful process that allows content contributers and developers to contribute to the same merge request with different tools.
 
-To edit or create a new topic page in Netlify CMS, do the following:
+| Actions in Netlify UI      | Perform these Git actions |
+| ----------- | ----------- |
+| Save draft | Commits to a new branch (named according to the pattern cms/collectionName/entrySlug), opens a merge request, and applies the `netlify-cms/pending_publish` label |
+| Edit draft   | Pushes another commit to the merge request |
+| Move from draft to review in workflow tab | Applies the `netlify-cms/pending_review` label to merge request |
+| Move from draft to review in workflow tab | Applies the `netlify-cms/pending_publish` label to merge request |
+| Approve and publish draft | Adds merge request to the merge train and deletes branch after it's deployed to master |
+
+[Netlify CMS documentation on the editorial workflow](https://www.netlifycms.org/docs/configuration-options/#publish-mode)
+
+## Creating a new or editing an existing page with Netlify CMS
+
+To edit a existing or create a new page in Netlify CMS, that [content type needs to be enabled](/handbook/marketing/netlifycms#content-types-enabled-in-netlify-cms). If it is, you can do the following to create an MR with your changes using Netlify CMS:
 
 1. Follow steps above for [accessing the admin](/handbook/marketing/netlifycms#accessing-the-admin)
-1. Select the Topic or Topic Child Pages collection from the left hand sidebar
-1. Select the Topic you want to edit, or select "New Topic" from the top
+1. Select the content type you wish to add or edit an existing page to from the left hand sidebar
+1. Select the page you want to edit, or select "New (content type)" from the top
 1. Update your content
 1. Select "save". This may take a minute to complete.
 1. Switch to the "workflow" tab to see your draft and what stage it is in the editorial process.
@@ -55,7 +67,15 @@ To edit or create a new topic page in Netlify CMS, do the following:
 1. Assign the merge request to yourself, and assign a reviewer if it's ready to reviewed.
 1. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged.
 
-## Creating a new or editing a existing Typeform page
+## Content Types Enabled in Netlify CMS
+
+### Parent and Child Topic Pages
+
+A topic is an industry trend, theme, or technology related to GitLab and our customers. For example, DevOps, GDPR, Containers, etc. Topic pages on our website educate the reader about the topic and share GitLab’s point of view while providing additional links to resources related to that topic. These pages are intended to attract search traffic.
+
+Topic pages managed through Netlify CMS exist at [https://about.gitlab.com/topics/](https://about.gitlab.com/topics/) url. The content is located stored in the [`/data/topic`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/topic) and [`/data/topic_children`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/topic_children) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files through the admin interface.
+
+### Typeform Landing Pages
 
 A typeform page is a landing page that includes a embeddable typeform on it. Here is an example: [https://about.gitlab.com/quiz/devops-platform/](https://about.gitlab.com/quiz/devsecops-security-checklist/)
 
@@ -63,17 +83,13 @@ Typeform pages managed through Netlify CMS exist at [https://about.gitlab.com/qu
 
 To edit or create a new topic page in Netlify CMS, do the following:
 
-1. Get your typeform embedable code from your Typeform account on [https://www.typeform.com/](https://www.typeform.com/)
-1. Follow steps above for [accessing the admin](/handbook/marketing/netlifycms#accessing-the-admin)
-1. Select the Typeform from the left hand sidebar
-1. Select the existing typeform landing page you want to edit, or select "New Typeform" from the top
-1. Update your content - pasting your embedd code in the typeform embedd field
-1. Select "save". This may take a minute to complete.
-1. Switch to the "workflow" tab to see your draft and what stage it is in the editorial process.
-1. Visit GitLab and locate the associated merge request with your edit.
-    - If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=netlify-cms%2Fdraft)
-1. Assign the merge request to yourself, and assign a reviewer if it's ready to reviewed.
-1. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged.
+### Marketing Blog Posts
+
+Blog posts can be created and edited using Netlify CMS. Netlify CMS is especialy good for starting your blog post, creating the proper markdown file that is structured correctly, and starting a merge request. You can use the traditional merge request workflow in tandam with the Netlify CMS workflow. Be sure to read the [Blog Handbook](https://about.gitlab.com/handbook/marketing/blog/) for all instructions related to writing and creating a blog post.
+
+Blog posts managed through Netlify CMS exist at [https://about.gitlab.com/blog/](https://about.gitlab.com/blog/) url. The content is located stored in the [`/sites/marketing/source/blog/blog-posts`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/marketing/source/blog/blog-posts) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these markdown files through the admin interface.
+
+Please note that it takes time for all existing blog posts to load in the admin. You can use the "sort by" functionality to view only posts from a certian category. If you are creating a new blog post, you do not have to wait for all blog posts to load in the admin.
 
 ## Admin Features
 
