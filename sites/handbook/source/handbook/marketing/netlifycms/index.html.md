@@ -38,7 +38,7 @@ To access the Netlify CMS:
 
 ## Editorial Workflow Process 
 
-The editorial workflow enables Netlify CMS to create corresponding merge requests with your changes. Netlify CMS will open a merge request and make a commit through your account to a merge request (which includes your changes) to a single page. Future changes to the draft will be additional commits by the user making the changes to the draft. We can also use a traditional git workflow once the MR is created if someone wants to pull your branch and make changes that way instead. 
+The editorial workflow enables Netlify CMS to create corresponding merge requests with your changes. Netlify CMS will open a merge request and make a commit through your account to a merge request with your changes to a single page. Future changes to the draft will be additional commits by the user making the changes to the draft. We can also use a traditional git workflow once the MR is created if someone wants to pull your branch and make changes that way instead. 
 
 The editorial workflow is a powerful process that allows content contributors and developers to contribute to the same merge request with different tools.
 
