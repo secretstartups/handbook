@@ -12,7 +12,7 @@ description: “Discover how to schedule meetings with VPs at GitLab”
 
 When scheduling for VPs or directors at GitLab, please check the scheduling preferences below.
 
-## Scheduling for Pattie Egan, VP of People Operations, Technology, and Anayltics 
+## Scheduling for Pattie Egan, VP of People Operations, Technology, and Analytics
 
 * Please schedule all meetings through the People Function's EBA, Trevor Knudsen
 * Keep meetings to 25 or 50 minutes unless otherwise specified
@@ -28,7 +28,7 @@ When scheduling for VPs or directors at GitLab, please check the scheduling pref
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * 1:1 meetings are dark dark green, internal meetings are purple, external meetings are orange, coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Carol plays a huge part in the meeting should be noted in red.
-* Do not schedule over DNB: Work Time blocks without consulting the EBA of the People Group.  
+* Do not schedule over DNB: Work Time blocks without consulting the EBA of the People Group.
 * Scheduling should ideally be kept between 9:00 am and 6:00 pm Irish Standard Time
 
 ## Scheduling for Sales VPs
@@ -42,7 +42,7 @@ When scheduling for VPs or directors at GitLab, please check the scheduling pref
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
 * External meeting requests (with those outside of GitLab): email EBA and VP and loop them in with external parties. EBA will then schedule directly with external parties.
 * Internal meeting requests (with other GitLab Team Members)
-  * Please slack EBA in #sales-vp channel 
+  * Please slack EBA in #sales-vp channel
   * If the meeting is confidential (ex: interviews), please slack EBA directly
 * Please include the following in your slack/email
   * Must have/optional attendees
@@ -56,8 +56,8 @@ When scheduling for VPs or directors at GitLab, please check the scheduling pref
 
 **Bryan Wise, VP of IT - Craig Mestel, VP of FP&A - Dale Brown, PAO - Igor Groenewegen-Mackintosh, Director of Tax - Tony Righetti, Sr. Director of IR**
 
-* Please reach out to Jaclyn Grant (Sr. EBA) to schedule or reschedule any meetings 
-* Don't schedule over DNB blocks 
+* Please reach out to Jaclyn Grant (Sr. EBA) to schedule or reschedule any meetings
+* Don't schedule over DNB blocks
 * For interviews: CES should tag Sr. EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
 * Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the Sr. EBA to request a meeting using the meeting request requirements as a guideline

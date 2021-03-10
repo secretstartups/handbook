@@ -9,11 +9,11 @@ title: "CEO Scheduling & Preferences"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-All meetings on Sid's calendar should be scheduled and vetted by the EBA to the CEO. Please do not directly schedule a meeting onto Sid's calendar without confirming with the EBA to the CEO in advance.  
+All meetings on Sid's calendar should be scheduled and vetted by the EBA to the CEO. Please do not directly schedule a meeting onto Sid's calendar without confirming with the EBA to the CEO in advance.
 
 ## Scheduling preferences for Sid Sijbrandij, Co-founder and CEO
 
-1. Meetings before 7:30am and after 6pm Pacific require Sid's approval before scheduling. Please reach out to him in slack to approve. If Sid agrees to a meeting at 7am or earlier, please schedule a block on his calendar on the previous day reminding him that he has a meeting before 7:30am PT the following day. 
+1. Meetings before 7:30am and after 6pm Pacific require Sid's approval before scheduling. Please reach out to him in slack to approve. If Sid agrees to a meeting at 7am or earlier, please schedule a block on his calendar on the previous day reminding him that he has a meeting before 7:30am PT the following day.
 1. Don't schedule over the Weekly E-group call unless approved by Sid
 1. When our CLO requests a meeting it will always override other meetings that are scheduled if urgent
 1. Mark the events listed in [Google Calendar section](/handbook/communication/#google-calendar) of the handbook as 'Private'
@@ -21,20 +21,20 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 1. **All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
 1. Monthly reoccuring 1:1 video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
 1. Follow up on introductions from certain recipients (board, investors) immediately without asking for approval.
-1. If Sid is meeting with a candidate, partner with recruiting to send the calendar invite through Greenhouse and not directly from Sid's calendar.
+* If Sid is meeting with a candidate, partner with talent acquisition to send the calendar invite through Greenhouse.
 1. If Sid has an external meeting and the location is less than 25 minutes away on foot, he would prefer to walk. Please ensure the calendar reflects that he is walking versus driving/uber/lyft.
 1. If Sid has a **ride or walks** to an appointment, make sure to **add 5 minutes extra** to find the address and sign in at reception.
 1. If Sid is **driving himself**, make sure to **add 15 minutes extra** for random occurrences such as traffic, stopping for gas or parking.
 1. If Sid is **driving himself** to a meeting, he likes to plan phone calls to catch up with the team. Check with him who he'd like to talk with during his commute and schedule accordingly or post in #ceo channel in slack offering a call with Sid our team members.
 1. Meeting agendas should be added to the calendar invite by copying and pasting the link in the top of the calendar invite description.
 1. Due to a busy schedule Sid has a preference of meeting setup: First try for a video call or a meeting at Mission Control. If the other party presses to meet at their location, confirm if that is OK before accepting.
-1. Sales meetings are important. If the CEO can help the process, feel free to include him in the meeting by working with the EBA to CEO on this. Please include the sales rep and solutions architect in this meeting. The person requesting the meeting should provide a meeting brief document to the EBA at the time of their request to schedule. 
-1. Meetings should be set up on Sid's Zoom account. Customer/Prospect meetings are an exception and Sid is happy to join on another platform of the customers choosing like WebEx or Google Meet. 
+1. Sales meetings are important. If the CEO can help the process, feel free to include him in the meeting by working with the EBA to CEO on this. Please include the sales rep and solutions architect in this meeting. The person requesting the meeting should provide a meeting brief document to the EBA at the time of their request to schedule.
+1. Meetings should be set up on Sid's Zoom account. Customer/Prospect meetings are an exception and Sid is happy to join on another platform of the customers choosing like WebEx or Google Meet.
     1. If Sid is invited to a meeting on WebEx add a reminder to his calendar 5 minutes before the meeting to `disable shush` in advance of the next meeting
 1. Prep calls for Sales meeting should be scheduled for 10 minutes by default. A [Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) needs to be provided by the Sales team member requesting the meeting in order to schedule with the CEO.
-1. Office hours hosted by the CEO like Iteration Office Hours should be live streamed publicly by default and the live stream should be hosted by a member of the EBA team or a CEO Shadow. 
-1. Sid will attend one of the Monthly Diversity, Inclusion and Belonging calls (typically scheduled at 8am or 4pm PT). Please accept one and decline the other. 
-1. If there is a video posted in advance of a [Group Conversation](/handbook/group-conversations/) in slack, the EBA to the CEO should schedule a meeting at 6am (Pacific time) on the CEO's calendar for him to watch the video in advance of the Group Conversation on the same day. Please include a link to the video in the calendar invite and indicate whether it is a private or public video. 
+1. Office hours hosted by the CEO like Iteration Office Hours should be live streamed publicly by default and the live stream should be hosted by a member of the EBA team or a CEO Shadow.
+1. Sid will attend one of the Monthly Diversity, Inclusion and Belonging calls (typically scheduled at 8am or 4pm PT). Please accept one and decline the other.
+1. If there is a video posted in advance of a [Group Conversation](/handbook/group-conversations/) in slack, the EBA to the CEO should schedule a meeting at 6am (Pacific time) on the CEO's calendar for him to watch the video in advance of the Group Conversation on the same day. Please include a link to the video in the calendar invite and indicate whether it is a private or public video.
 
 
 ### Calendar blurb for External Meetings with the CEO
@@ -52,7 +52,7 @@ Pricing plans: https://about.gitlab.com/pricing/
 Pricing strategy: /company/pricing/
 History: https://about.gitlab.com/company/history/
 About: https://about.gitlab.com/company/
-All Remote: https://about.gitlab.com/company/culture/all-remote/ 
+All Remote: https://about.gitlab.com/company/culture/all-remote/
 GitLab Unfiltered on YouTube https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos
 ```
 
@@ -64,10 +64,10 @@ Executive cell:
 
 Guest cell:
 
-### CEO Evangelism and External Speaking Engagements 
+### CEO Evangelism and External Speaking Engagements
 
 ### Process
-* An issue is created in the Corporate Marketing project [using the label of `ceo-evangelism`](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues?label_name%5B%5D=ceo-evangelism) and assigned to the Sr. Corporate Communications Manager, Executive Communications and EBA to the CEO. 
+* An issue is created in the Corporate Marketing project [using the label of `ceo-evangelism`](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues?label_name%5B%5D=ceo-evangelism) and assigned to the Sr. Corporate Communications Manager, Executive Communications and EBA to the CEO.
 * Where there is content alignment, the Corporate Communications team provides the thesis of the talk along with an outline in slide deck form
 * The DRI collaborates on this thesis and outline and then presents it to the Exec for approval
 * The DRI takes over slide deck creation with design support from our Design team or PR firm as necessary (one week lead time needed to acquire their resources)
@@ -114,7 +114,7 @@ If people want advice on open source, remote work, or other things related to Gi
 1. Our executive administrator will work with you to publish the post if we agree that it fits with our current marketing plan and would be a good fit for our audience. The EBA-team will follow up to make sure the draft post is submitted and coordinate with Content Marketing to cross-post on our blog.
 1. Read and watch [past Pick Your Brain interviews](/company/culture/all-remote/interviews/#pick-your-brain-interviews), including [one hosted by Slab co-founder Jason Chen](/blog/2016/07/14/building-an-open-source-company-interview-with-gitlabs-ceo/) that reached [the top spot on Hacker News](https://news.ycombinator.com/item?id=12615723).
 
-Reply to emails: Thanks for wanting to chat. I propose we meet in the format proposed in GitLab's [Handbook](#pick-your-brain-meetings) so that other people benefit from our conversation too. If you're up for that please work with Cheri (cc:) to schedule. 
+Reply to emails: Thanks for wanting to chat. I propose we meet in the format proposed in GitLab's [Handbook](#pick-your-brain-meetings) so that other people benefit from our conversation too. If you're up for that please work with Cheri (cc:) to schedule.
 
 Please note, requests for meeting about remote work, all-remote efforts, distributed workforces, etc should be scheduled with the Head of Remote versus Sid when possible.
 
@@ -131,7 +131,7 @@ Please note, requests for meeting about remote work, all-remote efforts, distrib
 
 ### CEO Email Management
 
-* Labels: `/archive`, `/read-respond`, `/chief of staff`, `/personal`, `/investor relations to handle`  
+* Labels: `/archive`, `/read-respond`, `/chief of staff`, `/personal`, `/investor relations to handle`
 * Emails that need the CEO's attention should be "starred" versus labeled
 * EBA to CEO should prepare draft responses
 * EBA to CEO should proactively schedule meetings requested via e-mail
