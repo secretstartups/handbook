@@ -50,7 +50,7 @@ Below is a [firt time login training video](https://www.youtube.com/watch?v=uE-1
 
 GitLab Learn first time login steps:
 
-1. GitLab team members should choose `LogIn with SSO option` via Okta
+1. GitLab team members should choose `LogIn with GitLab Team Members SSO` via Okta. Non-team members should choose `LogIn with GitLab.Com SSO`.
 1. Enter your first and last name
 1. Upload a profile photo. This step is optional at this phase of the sign on process and can be uploaded/edited within the platform at a later date
 1. Click `Next Step`
@@ -61,6 +61,8 @@ GitLab Learn first time login steps:
 1. Click `Next Step`
 1. At this point, you will be dropped into the GitLab Learn platform on the Discover page, and can begin to explore GitLab learning content! 
 
+
+Please note that the only option for authentication to GitLab Learn by users who are not GitLab team members will be SSO via GitLab.com.
 
 
 ### Getting familiar with the platform
@@ -225,7 +227,7 @@ Please review the steps for [submitting a support ticket](/handbook/people-group
 
 ### I'm having trouble logging in or making a new account on GitLab Learn.
 
-Please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
+Please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users). If you are not a GitLab team member, please be sure you've [created a gitlab.com account](https://gitlab.com/users/sign_up) in order to sign in to GitLab Learn.
 
 ### I can't see all the content in a Pathway or Journey on GitLab Learn.
 
