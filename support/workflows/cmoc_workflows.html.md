@@ -177,7 +177,7 @@ A ready to be published update should look similar to the following.
 
 ![Incident update](/images/support/cmoc_post_incident_update.png){: .shadow}
 
-Make sure to [verify](the https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
+Make sure to [verify] the (https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
 
 ### Stage 3: **Incident Resolution**
 
