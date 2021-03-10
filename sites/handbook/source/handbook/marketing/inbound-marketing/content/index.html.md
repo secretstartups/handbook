@@ -39,7 +39,7 @@ Our team is responsible for content strategy, content development, content opera
 
 ## Editorial calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_ame9843c6094ffc475vea9ftn4%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+You can view the [editorial calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9hbWU5ODQzYzYwOTRmZmM0NzV2ZWE5ZnRuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) here. Please make sure you are logged into your GitLab G Suite account for access.
 
 ### Adding an event to the editorial calendar
 

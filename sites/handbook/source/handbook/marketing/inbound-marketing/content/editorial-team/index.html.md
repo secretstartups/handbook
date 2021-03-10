@@ -234,10 +234,9 @@ With the exception of time-sensitive announcements and news, we are aiming to ha
 
 ## Blog calendar
 
-The calendar below documents when posts will be published, as well as industry awareness days and anniversaries we may cover. Please bear this in mind when requesting a specific publish date for a post.
+The [editorial calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9hbWU5ODQzYzYwOTRmZmM0NzV2ZWE5ZnRuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) documents when posts will be published, as well as industry awareness days and anniversaries we may cover. Please bear this in mind when requesting a specific publish date for a post. If you can't view the calendar, please make sure that you are logged into your GitLab G Suite account.
 
 _Please note that all dates are subject to change to accommodate urgent posts and announcements._
-<iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_ame9843c6094ffc475vea9ftn4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Labels
 
