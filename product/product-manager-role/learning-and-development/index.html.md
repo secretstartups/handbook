@@ -37,6 +37,25 @@ These books are highly recommended to be read by every product manager at GitLab
 
 ##### Quick reads and videos
 
+- [Paul Adams: Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
+
+##### Deeper dive
+
+- [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+Please contribute your favorite resources here
+
+
+#### Customer Interviewing
+
+##### Quick reads and videos
+
 Please contribute your favorite resources here
 
 ##### Deeper dive
@@ -52,6 +71,7 @@ Please contribute your favorite resources here
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
 - [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
 
+
 #### Jobs to be done 
 
 ##### Quick reads and videos
@@ -62,6 +82,7 @@ Please contribute your favorite resources here
 
 - [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (video 57 min)
 - [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (video 57 min)
+- [Xavier Russo - A step-by-step guide to using Outcome Driven Innovataion](https://medium.com/envato/a-step-by-step-guide-to-using-outcome-driven-innovation-odi-for-a-new-product-ded320f49acb)
 
 ##### Online courses 
 
@@ -70,6 +91,7 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
+- [Intercom on Jobs-to-be-Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done) (free ebook download)
 
 #### Lean product development
 
@@ -89,7 +111,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### Experimentation and growth hacking 
+#### Growth and experimentation 
 
 ##### Quick reads and videos
 
@@ -106,6 +128,26 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
+- [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
+
+#### Design 
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+- [Don Norman: The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+- [Steve Krug: Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
 ### Delivery
 
@@ -144,6 +186,24 @@ Please contribute your favorite resources here
 ##### Books 
 
 - [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
+
+#### Working with Engineering 
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+Please contribute your favorite resources here
 
 ### Business Acumen
 
