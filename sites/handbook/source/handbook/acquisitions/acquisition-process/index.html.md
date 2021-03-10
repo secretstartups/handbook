@@ -127,7 +127,7 @@ The process is comprised of four key stages:
             1. Cover a more technical demo of the product; cover further questions/areas which surfaced following the Product Call
             1. Walkthrough of the architecture and the mechanisms of the product
             1. Review the code repositories and practices
-            1. Start discussing the technical aspects of a potential path for the integration       
+            1. Start discussing the technical aspects of a potential path for the integration
     1. Founder technical interviews - founders will go through two rounds of interviews to assess technical and cultural alignment.
 1. Resume review - Review of all employee resumes
 1. Compensation review to identify any gaps and possible flags led by the HR Business Partner
