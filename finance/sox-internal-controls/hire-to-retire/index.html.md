@@ -216,13 +216,13 @@ Greenhouse offer details should be updated as necessary to reflect any changes i
 
 **Employment Contracts**
 
-* One person from the recruiting team (typically the Candidate Experience Specialists) will prepare the contract. Following are the steps for preparation of employment contract:
+* One person from the talent acquisition team (typically the Candidate Experience Specialists) will prepare the contract. Following are the steps for preparation of employment contract:
 
     1. Check all aspects of the offer.
     1. Generate the contract within Greenhouse using a template based on the details found in the offer package.
     1. Contact the recruiter or new team member to gather any missing pieces of information (note: the address can be found on the background check information page).
     1. Ensure that, if the contract was created outside of Greenhouse, the contract has been reviewed and approved by the Senior Director of Legal Affairs or a People Operations Analyst.
-    1. Stage the contract in DocuSign from within Greenhouse, which emails the contract to the signing parties, with the recruiter, recruiting manager, and the hiring manager cc'd. One of the Recruiting Managers will sign all contracts before they go to the candidate for signatures. If the Recruiting Managers are out of office, the VP of Recruiting will sign.
+    1. Stage the contract in DocuSign from within Greenhouse, which emails the contract to the signing parties, with the recruiter, talent acquisition manager, and the hiring manager cc'd. One of the Talent Acquisition Managers will sign all contracts before they go to the candidate for signatures. If the Talent Acquisition Managers are out of office, the VP of Talent Acquisition will sign.
     1. Enter the new team member's details on the Google sheet GitLab Onboarding Tracker and continually update it during the offer process.
     1. When the contract is signed by all parties, the Candidate Experience Specialist verifies that the start date in Greenhouse is correct; then they will mark the candidate in Greenhouse as "Hired" and export to BambooHR (do not export to BambooHR if it is an internal hire).
     1. The Candidate Experience Specialist will upload the signed contract and the completed background check into the BambooHR profile.
@@ -263,7 +263,7 @@ As part of onboarding, People Experience Associates will process new hires in Ba
 
 **Auditing Bamboo HR entries:**
 
-All new profiles are usually audited on Day 1 or 2 of a new team member’s first week by the Total Rewards Analyst.  
+All new profiles are usually audited on Day 1 or 2 of a new team member’s first week by the Total Rewards Analyst.
 
 The Total Rewards Analyst also updates a new team member’s BambooHR access level at this time, from Self-Service (which is the default level) to either Managers; Contractor Self-Service; or both if necessary.
 
@@ -286,11 +286,11 @@ Employee profiles are created in ADP. The following steps are followed to create
 * The Total Rewards Analyst then comments in the team member's onboarding issue tagging the Payroll Specialists and stating `Ready to add to ADP`, according to the onboarding issue task.
 * An [automated batch job](https://docs.google.com/document/d/1XwzVrI-GEd87JpNZyIdsfcWwZmP5C6IVgy9wj1ro4Qs/edit?usp=sharing) that runs daily between 7:00 AM and 7:15 AM (CST) by modulus picks up any new I-9 verified team member profiles from BambooHR and loads them into ADP.
 * BambooHR is integrated with ADP and team member profiles are created in ADP automatically.
-* The Payroll Specialists review the newly created team member profiles in ADP and compare them to the BambooHR profiles for any errors. 
+* The Payroll Specialists review the newly created team member profiles in ADP and compare them to the BambooHR profiles for any errors.
 * The Payroll Specialists [email each team member](https://docs.google.com/document/d/1KVCc3ZDqlt7yaGz4d7J0gEIyfgX9omazP0C60U18dWE/edit) with information about completing their ADP registration and accessing their accounts.
 * Once done, the Payroll Specialists check off the Payroll [task](https://docs.google.com/document/d/1dM8cZZMYI88s_6T-SfawFX9mRDWGIVZIN8kjlVewjFY/edit)) stating that the new team member has been added to ADP and that an invitation to ADP has been sent to them in the relevant team member's onboarding issue.
 * The Payroll Specialists then comment in the team member's onboarding issue notifying the Total Rewards Analysts that the team members have been successfully added to ADP.
-* The Payroll Specialists also run the [New Hire report in BambooHR](https://docs.google.com/document/d/14Vsxkw9kkVSxasiisFoUCp7RI5z4mn5ZxTqFZNp6A44/edit) at the start of every week for list of new team members by start date, to ensure that they are aware of all new team members, in the case that they are not tagged in an onboarding issue. 
+* The Payroll Specialists also run the [New Hire report in BambooHR](https://docs.google.com/document/d/14Vsxkw9kkVSxasiisFoUCp7RI5z4mn5ZxTqFZNp6A44/edit) at the start of every week for list of new team members by start date, to ensure that they are aware of all new team members, in the case that they are not tagged in an onboarding issue.
 
 **Team Member Terminations in ADP**
 

@@ -18,7 +18,7 @@ title: "Financial Planning & Analysis"
  * [Slack Channel](https://gitlab.slack.com/archives/fpanda)
  * [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance)
  * [FP&A Job Ladder](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
- * [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights) 
+ * [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights)
 
 ## What is purpose of FP&A @ GitLab?
 1. Facilitate aligned cross-functional execution of GitLab's [strategy](/company/strategy/)
@@ -56,7 +56,7 @@ What: The Board Plan includes the annual strategy, business Plans/budgets for ea
 Governance: The Board Plan is approved by the board of directors every year.
 
 #### Company Target
-Purpose: Build a go-to-market business plan to achieve the company's tops-down target. 
+Purpose: Build a go-to-market business plan to achieve the company's tops-down target.
 
 What: This is the plan with Targets for bookings and revenue at a 50% confidence level with supporting marketing and sales inputs. We will build enough sales and marketing capacity to achieve this goal and will measure operational success internally against these Targets.
 
@@ -113,7 +113,7 @@ Governance: The quarterly rolling forecast is approved by the eGroup and CEO and
 * Set expected amount for annual compensation increases
 * Set targets for any contributors on a company based performance plan
 * Generate the expense Plan based on a headcount list, TBH list, vendor level spend list
-* Headcount list communicated to recruiting, proposed vendor list communicated to procurement (future with Purchase Orders in place for existing vendors)
+* Headcount list communicated to talent acquisition, proposed vendor list communicated to procurement (future with Purchase Orders in place for existing vendors)
 * Generate and document key assumptions
 * Show trending of key metrics as output of the Plan
 * Capture Plans to drive key metrics
@@ -121,10 +121,9 @@ Governance: The quarterly rolling forecast is approved by the eGroup and CEO and
 * Revise and update the annual sales compensation plan
 * Set annual quota assignments for revenue producing roles
 
-
 #### Annual Planning Important Dates (WIP FY23 shown)
 * **2021-10-29** - Three Year Strategy aligned
-* **2021-11-08** - FY23 Themes 
+* **2021-11-08** - FY23 Themes
 * **2021-11-15** - GTM Planning offsite and Product Themes
 * **2021-12-17** - First Plan Rollup
 * **2022-01-10** - v1 rollup and eGroup decisions on company wide assumptions
@@ -162,10 +161,10 @@ BD=Business Day, so for example BD4 means four business days after the month has
 - BD9:
 - BD10: **Accounting Close** FP&A close AvF flux locked. Gross margin variance analysis.
 - BD11: Workiva published with fluxes. Prepare for 10Q/10K drafting. BSCF variance analysis.
-- BD12: 
+- BD12:
 - BD13: Variance Review Package ready for CFO.
 - BD14: Monthly rolling forecast locked. Revenue/EBIT guidance updated.
-- Day8: snapshot ARR, customer count, net retention (note this is captured on Day 8, not Business Day 8 
+- Day8: snapshot ARR, customer count, net retention (note this is captured on Day 8, not Business Day 8
 
 #### Quarterly Close (Future assuming public company):
 
@@ -232,7 +231,7 @@ The FP&A team takes the following into consideration while evaluating variances 
 - The inherent character of the variance (i.e. does the expense correlate to the traits of the business)
 
 The FP&A team delivers an FP&A expense flux review document at each monthly close, documenting and quantifying business drivers for variance. The goal is two-fold:
-- **Control:** ensure accuracy of actuals. Analysts should aim for 80% coverage in explanations, e.g. if variance is $100, aim to list drivers for net $80 of the variance for any particular intersection above threshold. List drivers in descending order of impact, followed by large offsetting drivers.  
+- **Control:** ensure accuracy of actuals. Analysts should aim for 80% coverage in explanations, e.g. if variance is $100, aim to list drivers for net $80 of the variance for any particular intersection above threshold. List drivers in descending order of impact, followed by large offsetting drivers.
 - **Insights:** leverage insights gained from closed month to inform rolling forecast. Changes in business strategy/model, new accounting policies, and refinements on forecast methodology should be documented and incorporated into the new forecast.
 
 #### Performance Indicator: Variance percentage
@@ -251,7 +250,7 @@ Generally accepted accounting principles (GAAP) does not provide definitive guid
 
 ###### Thresholds Materiality
 
-We believe that Revenue & EBIT actuals that have a greater variance of  +/- 5% vs Plan or Forecast is considered material. 
+We believe that Revenue & EBIT actuals that have a greater variance of  +/- 5% vs Plan or Forecast is considered material.
 
 ### Variance Meeting with EVPs
 
@@ -292,7 +291,7 @@ Once these components are in place, a comparison showing the difference between 
 ### Approach to making decisions on controlling expense and investing additional dollars
 
 As part of the variance and monthly review process we will evaluate two types of investments:
-**ROI positive investments:** There are an array of reasons we would want to invest in additional resources - here are some examples and eGroup will generate a full list: 
+**ROI positive investments:** There are an array of reasons we would want to invest in additional resources - here are some examples and eGroup will generate a full list:
 1. A marketing program is accretive and has not hit its point of marginal return
 1. A channel or alliance program/partner that is working really well and can accelerate ARR so we would add sales/marketing/R&D  resources to accelerate
 1. Have an area of the product to invest in that has direct ARR impact, supports our three year strategy and cannot reprioritize other R&D resources due to skills
@@ -331,7 +330,7 @@ Below is a table showing the structure of GitLab departments as they exist in Ne
 | Consulting Delivery |       Channel        |   Sales Development    |   Infrastructure   |         CEO         |
 |  Customer Support   |   Commerical Sales   |    Field Marketing     |    Development     |       Finance       |
 |                     | Practice Management  |   Partner Marketing    |      Quality       |   People Success    |
-|                     |   Customer Success   |  Strategic Marketing   |      Security      |     Recruiting      |
+|                     |   Customer Success   |  Strategic Marketing   |      Security      |     Talent Acquisition      |
 |                     |   Enterprise Sales   | Brand & Digital Design |         UX         |        Legal        |
 |                     |   Field Operations   |     Marketing Ops      | Product Management |     Accounting      |
 |                     |                      |   Inbound Marketing    |                    |                     |
@@ -352,10 +351,10 @@ Below is a table showing the structure of GitLab departments as they exist in Ne
 |Channel             |Sales Development         |Infrastructure      |Product Management        |CEO        |
 |Commerical Sales    |Field Marketing           |Development         |                          |Finance    |
 |Practice Management |Partner Marketing         |Quality             |                          |People Success |
-|Customer Success    |Strategic Marketing       |Security            |                          |Recruiting |
+|Customer Success    |Strategic Marketing       |Security            |                          |Talent Acquisition |
 |Enterprise Sales    |Brand & Digital Design    |UX                  |                          |Legal           |
 |Field Operations    |Marketing Ops             |                    |                          |Accounting            |
-|Education Delivery  |Inbound Marketing         | | |  
+|Education Delivery  |Inbound Marketing         | | |
 |Consulting Delivery |Campaigns                 | | |
 |                    |Digital Marketing         |
 |                    |Owned Events              | | |
@@ -390,21 +389,21 @@ Recording activities based on headcount growth across a certain time period.
 
 ****
 
-## Headcount Approval Process
+## Headcount and the Talent Acquisition Single Source of Truth
 
-The Finance team is the owner of the hiring plan, which resides within Adaptive. It is a live forecast that is maintained by the Finance Business Partners (FBPs) and contains the current hiring plan that is used in the financial forecast. Finance are the owners of this to ensure there is one place hiring managers, finance, and recruiting can reference to see what hiring is included in the forecast and is eligible to be opened up in Greenhouse. This increases our predictability as a company and streamlines the hiring process.
+The Finance team is the owner of the GitLab Hiring Plan (GHP), which is the SSOT for GitLab’s hiring plan for the future rolling 12 months. The GHP is a live document that is maintained by the Finance Business Partners (FBPs) and contains the current hiring plan that is used in the GitLab Financial Model. We have a SSOT to ensure there is one place hiring managers, finance, and talent acquisition go to see what hiring is included in the forecast and is eligible to be opened up in Greenhouse.  This increases our predictability as a company and streamlines the hiring process.
 
 
 ### Hiring Managers
 
-When you are ready to open a new vacancy reach out to your Recruiter. They will open a GitLab issue or communicate directly with your FBP to get a GitLab Hiring Plan ID (GHP ID.) While GitLab strongly believes that you should be able to backfill a role when someone departs, please check with your eGroup member before reaching out to Recruiting for all backfill positions.
+When you are ready to open a new vacancy reach out to your Recruiter. They will open a GitLab issue or communicate directly with your FBP to get a GitLab Hiring Plan ID (GHP ID.) While GitLab strongly believes that you should be able to backfill a role when someone departs, please check with your eGroup member before reaching out to Talent Acquisition for all backfill positions.
 
-Each role has a unique GHP ID number, which is part of the information you need for your department to have the position opened in Greenhouse. If there is no GHP ID, the job will not be opened in Greenhouse. If the FBP has questions after Recruiting has contacted them, they will reach out to the Hiring Manager to gain more information.
+Each role has a unique GHP ID number listed, which is part of the information you need to provide to the [Talent Acquisition Manager or Lead](/handbook/hiring/talent-acquisition-alignment/#recruiter-coordinator-and-sourcer-alignment-by-department) for your department to have the position opened in Greenhouse.  If there is no GHP ID, the job will not be opened in Greenhouse.
 
 If you are looking to pull forward a headcount and are in the Sales division please follow [this process](/handbook/sales/field-operations/sales-strategy/sales-headcount/). Due to the territory alignment related to Sales headcount, please also reach out to the Sales Strategy & Analytics team before reaching out to your Finance Business Partner.
 
 
-### Recruiting Managers and Leads
+### Talent Acquisition Managers and Leads
 
 When a hiring manager comes to you to open a role please work with the appropriate FBP to get a GHP ID. This process is unique to each division.
 
@@ -412,19 +411,19 @@ When a hiring manager comes to you to open a role please work with the appropria
 
 ### *Maintaining the GHP for Finance*
 
-On a weekly basis FBPs will update their department’s hiring forecasts in Adaptive. FBPs may update their headcount forecast on a more frequent basis depending on their individual department’s business needs, but at a minimum it must be done on a weekly basis. This could require adding new roles, deleting roles, trading out roles, or adding backfills. Every vacancy requires a GHP ID once it is ready to be opened in GreenHouse. A vacancy could be for a net new hire, a backfill due to leaving the company or a backfill due to internal movement. 
+On a weekly basis FBPs will update their department’s hiring forecasts in Adaptive. FBPs may update their headcount forecast on a more frequent basis depending on their individual department’s business needs, but at a minimum it must be done on a weekly basis. This could require adding new roles, deleting roles, trading out roles, or adding backfills. Every vacancy requires a GHP ID once it is ready to be opened in GreenHouse. A vacancy could be for a net new hire, a backfill due to leaving the company or a backfill due to internal movement.
 
 
 ### *Adding a vacancy*
 
-To determine what GHP ID to use the FBP references the appropriate GHP ID numbering for their department. The numbering for the GHP IDs are similar to a credit card. The first two digits of the unique GHP ID represent the FBP’s division, the next two numbers represent the department. Then there are seven digits that start with 0000001 that sequentially grow from there for every role.  
+To determine what GHP ID to use the FBP references the appropriate GHP ID numbering for their department. The numbering for the GHP IDs are similar to a credit card. The first two digits of the unique GHP ID represent the FBP’s division, the next two numbers represent the department. Then there are seven digits that start with 0000001 that sequentially grow from there for every role.
 
 Once a number has been used in Greenhouse for a job, it can not be reused. If the role is a future role and has been deleted, but was never input into Greenhouse, the FBP can use that number for it’s replacement or a different role since it was not used yet.
 
 
 ### *Approvals*
 
-When a job is opened in Greenhouse it is routed for approvals. The second required approval is from Finance. This allows the FBPs another opportunity to check the GHP ID on open jobs and ensure everything reconciles. If something does not reconcile to what is in the forecast, the FBP will reach out to the hiring manager to discuss. Ideally conversations with hiring managers and leaders will occur when the initial request for a GHP ID occurs from Recruiting. But if the conversations do not occur then, they will occur at this time to ensure that everyone is in agreement and that if tradeoffs need to be made for financial reasons, they can be made then.
+When a job is opened in Greenhouse it is routed for approvals. The second required approval is from Finance. This allows the FBPs another opportunity to check the GHP ID on open jobs and ensure everything reconciles. If something does not reconcile to what is in the forecast, the FBP will reach out to the hiring manager to discuss. Ideally conversations with hiring managers and leaders will occur when the initial request for a GHP ID occurs from Talent Acquisition. But if the conversations do not occur then, they will occur at this time to ensure that everyone is in agreement and that if tradeoffs need to be made for financial reasons, they can be made then.
 
 Finance is also a required approval on all job offers. This allows Finance to see the financial details of the job offer before any offer is sent, so that they are enabled to have conversations with their leaders about implications to their Plan if needed.
 
@@ -550,7 +549,7 @@ The Finance Business Partner owns gross margin and is responsible for developing
 
 Customer Support is only available to paid users in our product entitlements, however in some circumstances are required to support free users. The allocation should align customer support costs to the tiers receiving the services. The metric used to allocate the expense is Ticket Time to Resolution by Tier.  This data is sourced directly from Zendesk and represents the total time spent on tickets closed within the month.  In Zendesk, at the time of ticket submission, each support ticket is tagged based on the customer’s subscription level. This data is reviewed on a monthly basis by the support team to ensure it’s accuracy.
 
-It is possible that a support ticket may be tagged to a free user. There are three reasons for this: 1) Free users, who are not entitled to support, submit a ticket 2) a free user requires SaaS  administrative support 3) the customer’s subscription has expired and needs help with renewal or licensing. While the third scenario the user is tagged free, all tickets associated with licensing and renewals are reallocated out to the paid tiers.  
+It is possible that a support ticket may be tagged to a free user. There are three reasons for this: 1) Free users, who are not entitled to support, submit a ticket 2) a free user requires SaaS  administrative support 3) the customer’s subscription has expired and needs help with renewal or licensing. While the third scenario the user is tagged free, all tickets associated with licensing and renewals are reallocated out to the paid tiers.
 
 #### *Hosting Expenses*
 
@@ -574,15 +573,15 @@ We currently do not have any metrics to track monthly usage for other compute co
 
 __Data__
 
-Data is obtained from the GCP billing portal and mapped by SKU into the cost categories (link to mapping tab).  The mapping is reviewed and updated on a monthly basis.  For redundancy, the data is also downloaded directly from GCP using BigQuery.  
+Data is obtained from the GCP billing portal and mapped by SKU into the cost categories (link to mapping tab).  The mapping is reviewed and updated on a monthly basis.  For redundancy, the data is also downloaded directly from GCP using BigQuery.
 
 __GCP Discounts__
 
-Once the allocations are complete. Sustained Use, Committed Use, and Spending Based Discounts are allocated proportionally based on the allocations completed.  
+Once the allocations are complete. Sustained Use, Committed Use, and Spending Based Discounts are allocated proportionally based on the allocations completed.
 
 __Other Vendor Allocations__
 
-There are two types of ElasticSearch costs: logging and search clusters.  The search functionality is available only to paying customers so this is 100% allocated to Cost of Revenue.  Logging is treated as a marketing expense as we are gathering data to better serve customers, it is allocated to free users. 
+There are two types of ElasticSearch costs: logging and search clusters.  The search functionality is available only to paying customers so this is 100% allocated to Cost of Revenue.  Logging is treated as a marketing expense as we are gathering data to better serve customers, it is allocated to free users.
 
 For all other vendors, allocations are based on the following criteria:
 
@@ -594,22 +593,22 @@ For all other vendors, allocations are based on the following criteria:
 
 #### *Infrastructure*
 
-The Infrastructure teams costs are allocated according to the final hosting expenses allocation.  Using the internal, free, and paid percentage allocation from hosting, the infrastructure team costs are allocated at the same weighting. 
+The Infrastructure teams costs are allocated according to the final hosting expenses allocation.  Using the internal, free, and paid percentage allocation from hosting, the infrastructure team costs are allocated at the same weighting.
 
 #### *Summary*
 
-**Gitlab.com COGS Allocation** = (Paid Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) + 
-                               (Paid Tier Hosting Usage (%)  * Infrastructure Team Costs) + 
+**Gitlab.com COGS Allocation** = (Paid Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
+                               (Paid Tier Hosting Usage (%)  * Infrastructure Team Costs) +
                                (Paid Tier Ticket Resolution Time (%) * Total Support Team Costs)
 
-**Gitlab.com Free User Allocation** = (Free Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) + 
-                                      (Free Tier Hosting Usage (%)  * Infrastructure Team Costs) + 
+**Gitlab.com Free User Allocation** = (Free Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
+                                      (Free Tier Hosting Usage (%)  * Infrastructure Team Costs) +
                                       (Free Tier Ticket Resolution Time (%) * Total Support Team Costs)
 
-**Gitlab.com Internal User Allocation** = (Internal Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) + 
+**Gitlab.com Internal User Allocation** = (Internal Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
                                           (Internal Tier Hosting Usage (%)  * Infrastructure Team Costs)
 
- 
+
 
 
 ###### Step 3: Blue Process
