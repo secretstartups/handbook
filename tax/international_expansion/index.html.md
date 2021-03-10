@@ -25,9 +25,9 @@ As the Tax Team is responsible for managing our corporate structure (e.g. entity
 
 ## Procedure
 
-1. Recruiting - First stage of the hiring process
+1. Talent Acquisition - First stage of the hiring process
 1. Compensation - Agree on compensation with candidate
-1. Legal Analysis - Legal performs Risk Analysis 
+1. Legal Analysis - Legal performs Risk Analysis
 1. Tax Analysis - Tax performs Risk Analysis
 1. PEO quotation - Once the number of contractors hits four contractors a quote will be requested at a PEO (to prevent hiring stop at 5 contractors)
 1. Entity Creation - Transform PEO into entity in case of substantial cost savings
@@ -41,15 +41,15 @@ The [RADCIE Model](/handbook/people-group/directly-responsible-individuals/#radc
 
 | Procedure       | Tax    | People Ops |  Accounting | Legal | Payroll | Everyone |
 |-----------------|:------:|:----------:|:-----------:|:-----:|:-------:|:--------:|
-| Recruiting      | R/  A  | R          |             |       |         |     I    |
+| Talent Acquisition      | R/  A  | R          |             |       |         |     I    |
 | Compensation    |  A     | R          |             |       |   R     |     I    |
 | Legal           |  A     |            |             |   R   |         |     I    |
-| Tax             |  R/A   | C          |             |   C   |         |     I    |  
-| PEO Quotation   |  R/A   |            |             |   C   |   C     |     I    |  
-| Entity Creation |  R/A   |     A      |     C       |   C   |   A     |     I    |  
-| Business case   |  R/A   |     C      |             |       |         |     I    |  
-| Payroll         |  A     |     C      |             |   A   |   R     |     I    |  
-| Compliance      |  R/A   |     C      |     C       |   C   |    C    |     I    |       
+| Tax             |  R/A   | C          |             |   C   |         |     I    |
+| PEO Quotation   |  R/A   |            |             |   C   |   C     |     I    |
+| Entity Creation |  R/A   |     A      |     C       |   C   |   A     |     I    |
+| Business case   |  R/A   |     C      |             |       |         |     I    |
+| Payroll         |  A     |     C      |             |   A   |   R     |     I    |
+| Compliance      |  R/A   |     C      |     C       |   C   |    C    |     I    |
 
 ## Team
 
