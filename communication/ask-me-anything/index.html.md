@@ -47,7 +47,7 @@ AMA meetings always start with an [agenda](https://docs.google.com/document/d/1-
 
 Whenever possible AMAs should be private or publicly [live streamed](/handbook/marketing/marketing-operations/youtube/#live-streaming). Please strive to remain [public by default](/handbook/values/#public-by-default) when hosting an AMA unless it is centered around a topic that is [not-public](/handbook/values/#not-public)
 
-## Reverse Ask Me Anything 
+## Reverse Ask Me Anything
 
 The Reverse AMA format was launched in Sales with our [Black](https://about.gitlab.com/company/culture/inclusion/#definitions) team members. We wanted to start with this with Black team members to show support and to stand in solidarity, in response to domestic events in the US, and globally. One of our core [values](/handbook/values/) is DIB (Diversity, Inclusion and Belonging), and part of embracing that value means being better [allies](/handbook/communication/ally-resources/). These can be scheduled to facilitate meaningful conversations with any underrepresented group.
 
@@ -56,7 +56,7 @@ The Reverse AMA format was launched in Sales with our [Black](https://about.gitl
 * Enhance open communication
 * Direct access to the leadership
 * Opportunity to share experiences and provide feedback
-* Improve Recruiting, Retention and Mobility of underrepresented groups
+* Improve Talent Acquisition, Retention and Mobility of underrepresented groups
 * Continue to grow our great network of diverse talent
 
 **Goals**

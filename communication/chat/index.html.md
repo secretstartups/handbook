@@ -32,7 +32,7 @@ To raise an issue with a specific team, please use below most commonly used chan
 * **`#peopleops`**: For general People Operations tasks such us onboarding, offboarding, letter of employment, Team calender events management etc
 * **`#it-help`**: For IT related queries, Okta, issues with hardware, software, system access requests and user permissions etc
 * **`#payroll_expenses`**: For Expensify issues, delayed reimbursements and salaries, payslips, etc
-* **`#recruiting`**: For referrals based questions, candidate alignments, general recruiting etc
+* **`#talent acquisition`**: For referrals based questions, candidate alignments, general talent acquisition etc
 * **`#total-rewards`**: For general questions on [Total Rewards](/handbook/total-rewards/) including compensation, benefits, and equity
 
 

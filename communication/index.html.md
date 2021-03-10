@@ -335,7 +335,7 @@ Some things are **internal**, available internally but not externally. The follo
 1. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
 1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
 1. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
-1. Compensation Changes: GitLab will communicate and train team members on the output of iterations to the Total Rewards offerings (Compensation, Equity, Benefits), but team members will not have visibility into the inputs and decision making of compensation changes. 
+1. Compensation Changes: GitLab will communicate and train team members on the output of iterations to the Total Rewards offerings (Compensation, Equity, Benefits), but team members will not have visibility into the inputs and decision making of compensation changes.
 
 ### Limited Access
 
@@ -355,7 +355,7 @@ The items below are not shared with all team members. Limited access is a more s
 1. **Project Names:** Some projects require limited access internally due to the confidential or sensitive nature of the project, including but not limited to projects related to the items listed above. Often, in order to maintain the necessary confidentiality of these types of initiatives, we assign a code name for the project. For consistency and to make it easier to identify the genesis of these projects and their organizational affiliations, we've established the following naming conventions.
 
 
-| Team                    | Theme                    
+| Team                    | Theme
 | ----------------------- | ------------------------- |
 | CEO                     | Pets / Animals            |
 | Corporate Development   | [Greek mythological figures](https://en.wikipedia.org/wiki/List_of_Greek_mythological_figures)                      |
@@ -1062,7 +1062,7 @@ At the time that we set this target, it was <20% of communications.
 
 Everything at GitLab is a work in progress, so if we see a culture shift where Slack is *not* where work is occurring, thus inflating the amount of communication that is personal that is occurring, we can always change this KPI, but the steady growth of Slack messages paralleling the number of team members does not seem to suggest that is the case.
 
-The previous KPI (% of messages sent in public channels) was about public channels but since some necessary parts of the business occur in private channels (discussions around comp, hiring, recruiting- and we do A LOT of hiring), this version of the KPI makes more sense.
+The previous KPI (% of messages sent in public channels) was about public channels but since some necessary parts of the business occur in private channels (discussions around comp, hiring, talent acquisition- and we do A LOT of hiring), this version of the KPI makes more sense.
 Earlier in our history, 50% of all communication *was* in public channels.
 
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/770f45e7-ca4d-417f-a3db-9dfc4403e24d?embed=true" height="700"> </iframe>
@@ -1179,7 +1179,7 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#peopleops` | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/company/culture/all-remote/meetings/), etc.). |
 | `#questions` | For any general help with anything, really, and Git. If you have a question but you're not sure in which channel you should ask it, questions is always a great place! |
 | `#random` | Anything and everything from photos, news, food, music, etc. |
-| `#recruiting` | For questions about [referrals](/handbook/hiring/referral-process/), the [hiring process](/handbook/hiring/), and/or candidate status. |
+| `#talent acquisition` | For questions about [referrals](/handbook/hiring/referral-process/), the [hiring process](/handbook/hiring/), and/or candidate status. |
 | `#remote` | To share news, thoughts, feedback and anything else pertaining to remote work! Learn more about [GitLab's approach to remote work](/company/culture/all-remote/). |
 | `#team-member-updates` | To stay updated on transitions/promotions, new GitLab team members joining, work anniversaries, etc. |
 | `#thanks` | Recognition is an [important part of GitLab's culture](/handbook/communication/#say-thanks); give a public "thanks" to your teammates here! |
