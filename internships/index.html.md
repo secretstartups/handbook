@@ -13,7 +13,7 @@ GitLab is establishing an on-going internship program that can offer students, g
 
 ## Engineering Internship Pilot Program
 
-To validate and refine our approach to offering internships at an [all-remote company](/company/culture/all-remote/getting-started/) we have launched a pilot program between May 2020 and August 2020. Due to it's success we have decided to roll out internships on a more continuous basis and have it be our entry level Engineering position at GitLab. More information on the learnings and the program success can be found on this [Working Group page](/company/team/structure/working-groups/internship-pilot/). 
+To validate and refine our approach to offering internships at an [all-remote company](/company/culture/all-remote/getting-started/) we have launched a pilot program between May 2020 and August 2020. Due to it's success we have decided to roll out internships on a more continuous basis and have it be our entry level Engineering position at GitLab. More information on the learnings and the program success can be found on this [Working Group page](/company/team/structure/working-groups/internship-pilot/).
 
 ### Candidate qualifying criteria
 The following criteria are considered required for candidates to be eligible for Engineering Internship positions:
@@ -72,15 +72,15 @@ For interns we will target students or career switchers and would look at our Ta
 We exclusively focus all our active sourcing activities on candidates from [underrepresented groups](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups).
 
 #### Advertising
-We advertise on all the traditional recruiting platforms as well as the GitLab vacancies page. Additional advertising is done on internship focussed job boards (e.g. Youtern, angel.co etc.)
+We advertise on all the traditional talent acquisition platforms as well as the GitLab vacancies page. Additional advertising is done on internship focussed job boards (e.g. Youtern, angel.co etc.)
 
 #### University Recruitment
 We proactively reach out to and engage with universities/colleges to hold a Virtual Careers Talk to encourage students at those universities to apply. Also, we reach out to any associations within these universities that represent underrepresented groups and hold Virtual Careers Talk with them.
 
-We hold virtual talks at a minimum of five universities in the following regions: AMER, EMEA and APAC. 
+We hold virtual talks at a minimum of five universities in the following regions: AMER, EMEA and APAC.
 
 ### Interviewing
-For intern candidates we are setting the bar high at the application stage and apply a similar process as to other level roles at GitLab. On [this page](/handbook/hiring/interviewing/#typical-hiring-timeline) you can view a typical timeline for our hiring process. 
+For intern candidates we are setting the bar high at the application stage and apply a similar process as to other level roles at GitLab. On [this page](/handbook/hiring/interviewing/#typical-hiring-timeline) you can view a typical timeline for our hiring process.
 
 ### Criteria for teams requesting an intern
 
@@ -91,11 +91,11 @@ Requests for opening a intern requisition will be evaluated on the following cri
 1. Workload
     - Does the team have a roadmap containing low weight issues with few dependencies suitable for an intern?
 1. Team Size and maturity
-    - How established is this team? Will they be able to take on an intern without risking a decrease in velocity?     
+    - How established is this team? Will they be able to take on an intern without risking a decrease in velocity?
 
-The team manager and mentors will also need to be able to actively participate in the interview process.     
+The team manager and mentors will also need to be able to actively participate in the interview process.
 
-The process for opening an intern requisition would be as follows: 
+The process for opening an intern requisition would be as follows:
 1. Opening a requisition starts via either a [backfill process](/handbook/engineering/#backfill-process) or would be based on headcount availability and budget
 1. The requesting team writes up a proposal including: projects/workload, proposed career path, requirement knowledge, skills and abilities by the intern. [This example of Security](/handbook/engineering/security/internship.html) can be helpful for review
 1. The proposal will be reviewed by Engineering Leadership up until the CTO
@@ -109,20 +109,20 @@ The process for opening an intern requisition would be as follows:
 
 ### Measuring success
 
-#### Hiring process after the internship 
+#### Hiring process after the internship
 
 After the internship the aim would be to hire the intern as an Intermediate Engineer (depending on previous experience).
-The timeline for hiring decisions in a 4 month program would be as follows: 
+The timeline for hiring decisions in a 4 month program would be as follows:
 - Week 8: Check in on feedback with all hosting teams
 - Week 10: Performing performance/skills assessments with interns based on the Job Families and [Competencies](/handbook/competencies/#where-we-use-competencies)
 - Week 11: Sharing feedback with interns
 - Week 12: Aligning with Finance/Business on headcount/budget
 - Week 12: Making a decision on offers to interns
 - Week 13: Communicating the offer/no offer to interns
-- Week 14: Awaiting final decision of interns 
+- Week 14: Awaiting final decision of interns
 - Week 16: End of the internship program
 
-If an offer is not made or an offer is not accepted, there are opportunities to stay in touch with GitLab's team or People Business Partner and re-enter a conversation at a later time. 
+If an offer is not made or an offer is not accepted, there are opportunities to stay in touch with GitLab's team or People Business Partner and re-enter a conversation at a later time.
 
 #### Team Retrospective
 
