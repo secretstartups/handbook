@@ -263,6 +263,24 @@ Please contribute your favorite resources here
 
 ### Communication
 
+#### Relationships with customers
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+Please contribute your favorite resources here
+
 #### Writing to inspire, align and activate 
 
 ##### Quick reads and videos
@@ -282,24 +300,6 @@ Please contribute your favorite resources here
 Please contribute your favorite resources here
 
 #### Presentations, prepared and adhoc
-
-##### Quick reads and videos
-
-Please contribute your favorite resources here
-
-##### Deeper dive
-
-Please contribute your favorite resources here
-
-##### Online courses 
-
-Please contribute your favorite resources here
-
-##### Books
-
-Please contribute your favorite resources here
-
-#### Remote team collaboration 
 
 ##### Quick reads and videos
 
@@ -373,6 +373,24 @@ Please contribute your favorite resources here
 
 - [Kim Scott: Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)
 - [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
+
+#### Remote-first collaboration
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+Please contribute your favorite resources here
 
 #### Leadership and influence
 
