@@ -51,8 +51,8 @@ If you believe you found a data inaccuracy, here are several steps to to confirm
 | Source | Steps to perform|
 | ----- | ----- |
 | **Gainsight** | First, look at the `Activated Users` and `Licensed Users`. If those are wrong, confirm the problem is in Salesforce. |
-| **Salesforce** | If the data is correct in Salesforce and not in Gainsight, open a [Gainsight bug issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). However, if the data in Salesforce matches Gainsight, then look at the Sisense table. |
-| **Sisense table** | Open the [Master Subscription Table](https://app.periscopedata.com/app/gitlab/691733/Master-Subscription-Product-Usage-Data) and if the data is wrong there (meaning, the Sisense table is accurate and Gainsight/Salesforce are wrong), then open the bug ticket above and it'll get routed accordingly.<br> If, however, Sisense is also wrong, create a data quality issue in the [Data project](https://gitlab.com/gitlab-data/analytics/-/issues) and attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216). |
+| **Salesforce** | If the data is correct in Salesforce and not in Gainsight, open a [Gainsight bug issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/new). However, if the data in Salesforce matches Gainsight, then look at the Sisense table. |
+| **Sisense table** | Open the [Master Subscription Table](https://app.periscopedata.com/app/gitlab/691733/Master-Subscription-Product-Usage-Data) and if the data is accurate there but Gainsight/Salesforce are wrong, then open the bug issue above and it'll get routed accordingly.<br> If, however, Sisense is also wrong, create a data quality issue in the [Data project](https://gitlab.com/gitlab-data/analytics/-/issues) and attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216). |
 
 **Data sources:**
 - [Master Subscription Table](https://app.periscopedata.com/app/gitlab/691733/Master-Subscription-Product-Usage-Data)
