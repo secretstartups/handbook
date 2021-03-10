@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Allocadia
+description: Allocadia is Marketing Performance Management Software.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -15,7 +21,7 @@ Say good-bye to multiple spreadsheets, disparate data sets and misaligned market
 ## High level - how does it work?
 
 - We enter top down departmental budgets into an `Investment Target`, with annual and quarterly breakdown. These are the amounts that tie out to the board approved plan. Once the board has approved the plan from the CMO, we will lock down these targets which represent the envelope of money available to each department to plan and forecast.
-- We enter bottoms up departmental `Plans` into a hierarchy grid much like you've done in the past within nonhead count spreadsheets. Each budget holder can use categories and subcategories as needed to organize their budget, so it makes the most sense for them. This establishes the list of line item expenses they expect to use during the year. If the total `planned` doesn't equal the `investment target` envelope, the department does **not** lose the funds. Once plans are set, we can lock them for the quarter. More in [Allocadia docs](https://support.allocadia.com/hc/en-us/articles/115004969767-What-is-a-Plan-Column-).
+- We enter bottoms up departmental `Plans` into a hierarchy grid much like you've done in the past within non-head count spreadsheets. Each budget holder can use categories and subcategories as needed to organize their budget, so it makes the most sense for them. This establishes the list of line item expenses they expect to use during the year. If the total `planned` doesn't equal the `investment target` envelope, the department does **not** lose the funds. Once plans are set, we can lock them for the quarter. More in [Allocadia docs](https://support.allocadia.com/hc/en-us/articles/115004969767-What-is-a-Plan-Column-).
 - We then enter `Forecasts` into these same line items, adding more details and more accuracy as we learn about the specifics of the events/campaigns/expenses.
 
 Similar to prior year, if we do not use the full envelope provided to Marketing by the end of the **quarter**, we **will** lose those dollars.
@@ -69,7 +75,7 @@ Within the view drop down you have the option to look at your targets by quarter
 - (FM only) Country - allows the field marketer to choose more detailed location; is also tracked for Priority Country analysis
 - Campaign Type - should match the type used in Marketo and SFDC; limited based on input in Spend Type above
 - Existing SFDC campaign - this is a dropdown that includes all FY22 campaigns that have been set up in SFDC; if it does not relate to an actual SFDC event/campaign, this can be left blank.
-    - Note: If the SFDC campaign has not been created at the time of the entry you will not need to manually go back and add the campaign in the deails panel. Once the SFDC campaign has been created the Allocadia<>SFDC synch will match the Allocadia line item to the SFDC campaign and your campaign will then show up in your details panel.
+    - Note: If the SFDC campaign has not been created at the time of the entry you will not need to manually go back and add the campaign in the details panel. Once the SFDC campaign has been created the Allocadia<>SFDC synch will match the Allocadia line item to the SFDC campaign and your campaign will then show up in your details panel.
     - We likely will be revising the naming to enable the SFDC campaign name (aka Campaign Tag) concatenated with the 7 digit Allocadia (line item) ID to fit within the required 31 characters allowed for this field in Netsuite and Expensify.
 - Campaign Tag to be Created - add the historic campaign tag name here
 - Payment method - select the type of invoice or Expensify expense. Other will be rarely used.
@@ -95,9 +101,12 @@ The reports are broken out in folder format and once you click into the folders,
 
 #### Reports Field Marketing uses
 
-1. To understand your regions budget (referred to in Allocadia as `Target`) and what you are forecasting to spend - Video walk through - https://youtu.be/E77QW6EuiYo - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE) - the goal is to have this move over to the Investment Dashbaord - Investment Tracking Summary, although right now, the `Target` is missing from that view. You can only see Plan & Forecast today in that view. We are working to have our implementation team update this though!
-1. `Pipeline Planning - All Pipeline Plan by Segment - Drill In` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller - Video walk through - https://youtu.be/ewqvzQo-hX0 - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
-1. `Strategy Planning (OKRs), Strategy Planner - Objective Details (Team)` - This report allows you to see how your plans are aligned to the Strategy feature within Allocadia. Video walk through - https://youtu.be/_VQG1BLjwmw - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
+1. To understand your regions budget (referred to in Allocadia as `Target`) and what you are forecasting to spend -
+    - Video walk through - <span class="colour" style="color: rgb(34, 0, 204);">[https://youtu.be/QTQeOKp3wDU](https://youtu.be/QTQeOKp3wDU)</span> - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE)
+1. `Pipeline Planning - All Pipeline Plan by Segment - Drill In` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
+    - Video walk through - [https://youtu.be/ewqvzQo-hX0](https://youtu.be/ewqvzQo-hX0) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
+1. `Strategy Planning (OKRs), Strategy Planner - Objective Details (Team)` - This report allows you to see how your plans are aligned to the Strategy feature within Allocadia.
+    - Video walk through - [https://youtu.be/_VQG1BLjwmw](https://youtu.be/_VQG1BLjwmw)  - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
 
 ## Integrations
 
@@ -107,7 +116,7 @@ We are adding a button so that you can create a procurement issue directly from 
 
 ### SFDC
 
-As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. In addition, we will be sending over the updated forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaing, they will be combined for the updated SFDC Campaign Budget.
+As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. In addition, we will be sending over the updated forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget.
 
 ### Okta
 
