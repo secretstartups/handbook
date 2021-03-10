@@ -75,7 +75,7 @@ Zoom even has its own [test](https://zoom.us/test) that you can utilize to ensur
 Please make sure that you customize your Personal link under **Profile > Personal Link**.
 The default is `gitlab.firstnamelastname`.
 Enable the Waiting Room so unauthorized attendees cannot join your zoom room.
-The personal link is used by recruiting to schedule interviews so it is important the default naming convention is used and there is no password set.
+The personal link is used by talent acquisition to schedule interviews so it is important the default naming convention is used and there is no password set.
 
 ### Adding your title to your name
 
@@ -117,14 +117,14 @@ Now all meetings that use your Personal Meeting ID (PMI) will require you to "ad
 1. In the Security section, verify that your passcode settings are enabled for new meetings, personal meeting ID meetings and instant meetings.
 1. If the settings are disabled, click the toggle to enable them. If a verification dialog displays, choose Turn On to verify the change.
 
-### Enable passcodes for existing meetings 
+### Enable passcodes for existing meetings
 * *Please remember that if you are part of an interview team, your personal meeting room that is used for scheduling interviews should not have passwords on them but should have the waiting room enabled.*
 
 ***Method 1 (recommended):***
-1. Once you have identified the meetings that need to be updated ***and*** have enabled passcodes for all meetings, go to your Google Calendar  
+1. Once you have identified the meetings that need to be updated ***and*** have enabled passcodes for all meetings, go to your Google Calendar
 1. Edit the calendar event
 1. Remove the zoom meeting
-1. Add a new meeting 
+1. Add a new meeting
 1. Save for This and following events or All events
 
 ***Method 2:***
