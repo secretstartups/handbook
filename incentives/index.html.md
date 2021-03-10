@@ -46,7 +46,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 
 1. Every now and then, individual GitLab team members really shine as they live our values.  We especially like to celebrate the special moments that exemplify the behavior we want to see in all GitLab team members.
 1. We recognize this through the #thanks channel, and sometimes also through a discretionary bonus.
-1. [Anybody can recommend a discretionary bonus for a GitLab team member to the GitLab team member's manager using the Nominator Bot](/handbook/incentives/#process-for-recommending-a-team-member-for-a-discretionary-bonus) for a $1,000 at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates). The exception is that direct reports cannot nominate their manager or anyone in their management chain for a discretionary bonus.  
+1. [Anybody can recommend a discretionary bonus for a GitLab team member to the GitLab team member's manager using the Nominator Bot](/handbook/incentives/#process-for-recommending-a-team-member-for-a-discretionary-bonus) for a $1,000 at [the exchange rate](/handbook/total-rewards/compensation/#exchange-rates). The exception is that direct reports cannot nominate their manager or anyone in their management chain for a discretionary bonus.
 1. We are fixing this amount at $1,000 thoughtfully and purposefully. We want the focus to be on the value and the behavior, not on the perceived monetary impact to GitLab. This is about recognition.
 1. A general guideline is that 1 in 10 team members might receive a discretionary bonus each month. This can vary greatly as we don't give out bonuses just to hit a quota, nor would we hold one back because a certain number had already been awarded.
 1. There is no limit to the frequency with which someone can receive a bonus. If someone deserves a bonus a day after being nominated for one we should do a second one.
@@ -54,7 +54,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 1. As with other bonuses, only active GitLab team members can be nominated to receive discretionary bonuses.
    Should a nominated team member leave GitLab, they will not receive a discretionary bonus.
    It's at the discretion of the manager if they still want to publicly recognize the team member's behavior for the nomination.
-1. Only individuals in good standing with the company are eligible for discretionary bonuses (I.E. not currently undergoing [underperformance remediation](https://about.gitlab.com/handbook/leadership/underperformance/)). If a team member receives a discretionary bonus nomination during a period of underperformance remediation, managers should wait until the underperformance remediation period concludes successfully before determining whether to admit the discretionary bonus request. 
+1. Only individuals in good standing with the company are eligible for discretionary bonuses (I.E. not currently undergoing [underperformance remediation](https://about.gitlab.com/handbook/leadership/underperformance/)). If a team member receives a discretionary bonus nomination during a period of underperformance remediation, managers should wait until the underperformance remediation period concludes successfully before determining whether to admit the discretionary bonus request.
 
 #### Valid and Invalid criteria for discretionary bonuses
 
@@ -114,7 +114,7 @@ If you received the same nomination twice (for the same person and the same reas
 
 #### Process for Recommending a Team Member for a Discretionary Bonus
 
-**Note:** Kindly use Nominator Bot for discretionary bonus requests instead of BambooHR. 
+**Note:** Kindly use Nominator Bot for discretionary bonus requests instead of BambooHR.
 
 ##### Nominator Bot Process
 
@@ -206,7 +206,7 @@ graph TD;
 
 #### Communicating Discretionary Bonuses
 
-As a general rule, the nominated team member's direct manager should be the only person who communicates discretionary bonuses. The manager will receive final notification via BambooHR or the nominator bot (depending on where the nomination process was initiated) and will know when the nomination has gone through all levels of approval. 
+As a general rule, the nominated team member's direct manager should be the only person who communicates discretionary bonuses. The manager will receive final notification via BambooHR or the nominator bot (depending on where the nomination process was initiated) and will know when the nomination has gone through all levels of approval.
 
 The exception to this rule could be for working group bonuses if a single person nominated a group. If the nominator would like to announce on behalf of the group, they should:
 * **Confirm that all bonuses have gone through all layers of approval**
@@ -249,9 +249,9 @@ Chances are that if you work at GitLab, you have great friends and peers who wou
 We encourage and support [diversity](/handbook/values/) and [frugality](/handbook/values/) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
 * [$500](/handbook/total-rewards/compensation/#exchange-rates) base referral bonus for a new hire.
 * [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a [Location factor](/handbook/total-rewards/compensation/compensation-calculator/calculator/) less than 0.65.
-* In case of a new hire in Enterprise, Commercial, or Channel Sales, [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65. 
+* In case of a new hire in Enterprise, Commercial, or Channel Sales, [$1,000](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus is applicable only if the [Sales Regional Factor](/handbook/total-rewards/compensation/#sales-compensation) is less than 0.65.
 * [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for a hire from a ["select underrepresented group"](#add-on-bonus-for-select-underrepresented-groups).
-* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for any [NQR](/handbook/sales/commissions/#quotas-overview) new hire. This is a temporary referral add-on campaign that will be available for candidates with a hire date of 2020-11-01 until 2021-05-01. Hire date is defined as the date that the candidate was set to hired. This will be confirmed to the referrer by the recruiter for the role. 
+* [$1,500](/handbook/total-rewards/compensation/#exchange-rates) add-on referral bonus for any [NQR](/handbook/sales/commissions/#quotas-overview) new hire. This is a temporary referral add-on campaign that will be available for candidates with a hire date of 2020-11-01 until 2021-05-01. Hire date is defined as the date that the candidate was set to hired. This will be confirmed to the referrer by the recruiter for the role.
 
 The following is an *example* of a cumulative Referral Bonus:
 * Hire a referred Sales Development Representative: $500
@@ -318,8 +318,8 @@ If a team member has been referred, the People Experience team will review team 
 
 #### Temporary Add-on Campaign additional tracking for payout
 
-1. Recruiting Manager will track all referrals set to hired in time period of Add-on campaign.
-2. Recruiting Manager will notify Total Rewards by Slack or email, the first of the month that aligns with the referral new hire's 3 month employment at GitLab.
+1. Talent Acquisition Manager will track all referrals set to hired in time period of Add-on campaign.
+2. Talent Acquisition Manager will notify Total Rewards by Slack or email, the first of the month that aligns with the referral new hire's 3 month employment at GitLab.
 3. Talent Rewards will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
 
 ### Visiting Grant
