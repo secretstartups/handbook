@@ -447,7 +447,9 @@ Note that you must start the `ZoomLauncher` binary and not the shell script wrap
 
 ### Virtual background
 
-Using a [green screen](https://www.amazon.com/dp/B00JSAOGWG/ref=psdc_3443951_t1_B0053EBFRU), you can create [virtual backgrounds](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) so that you don't have to worry about what's behind you while on a video call and you can use a [nice](http://incurs.us/sites/default/files/2016-07/gitlab-wallpaper-1.png) [background](https://about.gitlab.com/images/press/selfies_with_logo_small.jpg)
+With or without a physical [green screen](https://www.amazon.com/dp/B00JSAOGWG/ref=psdc_3443951_t1_B0053EBFRU), you can utilize [virtual backgrounds](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) so that you don't have to worry about what's behind you while on a video call. 
+
+Consider using a [custom GitLab Background](https://drive.google.com/drive/u/1/folders/1Fv6_e_1dgSDE5N_KuMvtDM6gdNIUgRcT) (*Google Drive access available to GitLab team members who are logged in*).
 
 1. In your Zoom [In Meeting (Advanced)](https://zoom.us/profile/setting#advanced_meeting_options) settings, enable `Virtual background`
 1. In your Zoom application on your computer, open settings and click on the `Virtual Background` setting
