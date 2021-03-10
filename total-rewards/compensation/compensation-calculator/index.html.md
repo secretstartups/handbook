@@ -218,7 +218,7 @@ GitLab will gather and analyze the data for each location factor annually as par
    * Reasons why the formula may be adjusted:
         * Not enough number of data points for the output to be statistically relevant
         * Adjusted to align with other metros in geo
-   * When analyzing: Focus on where we are having troubles recruiting, retaining, or have a smaller population of team members as these can be indicators of a misalignment in the region.
+   * When analyzing: Focus on where we are having troubles talent acquisition, retaining, or have a smaller population of team members as these can be indicators of a misalignment in the region.
 
 ## Level Factor
 
