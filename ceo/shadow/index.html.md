@@ -51,6 +51,16 @@ Other names considered:
 1. Chief of Staff: This commonly is the ["coordinator of the supporting staff"](https://en.wikipedia.org/wiki/Chief_of_staff) which is not the case for this role since people rotate out of it frequently.
 1. [Global Leadership Shadow Program:](https://www2.deloitte.com/gr/en/pages/careers/articles/leadership-shadow-program.html) This is too long if only the CEO is shadowed.
 
+### About the CEO Shadow Program
+
+<!-- blank line -->
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=ExG8_bnIAMI" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<!-- blank line -->
+
 ### Reasons to participate
 
 <!-- blank line -->
