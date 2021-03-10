@@ -16,7 +16,7 @@ title: "Marketing Career Development"
 | Coordinator                  | SDR Admin        |                  |
 | Associate                    | SDR              |                  |
 | Manager                      | Senior SDR       |                  |
-| Senior Manager               | Lead SDR         |                  |   
+| Senior Manager               | Lead SDR         |                  |
 | Staff                        |                  | Manager,         |
 | Distinguished                |                  | Director,        |
 | GitLab Fellow                |                  | Senior Director, |
@@ -36,7 +36,7 @@ Note: `Manager` denotes a management of a certain specialty, whereas `Manager,` 
 | Sales Development Rep 2                 | Sales Development Rep 3        |        |
 | Sales Development Rep 3                 | Sales Development Rep, Team Lead    |   Marketing Programs Associate    |
 | Sales Development Rep 3                 | Sales Development Rep, Acceleration        | Marketing Operations Associate    |
-| Sales Development Rep 3                | Sales Development Rep, Acceleration       | Recruiting Associate              |
+| Sales Development Rep 3                | Sales Development Rep, Acceleration       | Talent Acquisition Associate              |
 | Sales Development Rep 3               | Sales Development Rep, Acceleration       | Associate Field Marketing Manager |
 | Sales Development Rep 3               | Sales Development Rep, Acceleration       | Customer Success Associate |
 | Sales Development Rep, Team Lead               | Manager, Sales Development       |  |
@@ -49,7 +49,7 @@ Note: `Manager` denotes a management of a certain specialty, whereas `Manager,` 
 | Starting Role                        | Promotion                                 | Lateral Options                   |
 |--------------------------------------|-------------------------------------------|-----------------------------------|
 | Marketing Associate                  | Field Marketing Manager                   |                                   |
-| Marketing Coordinator	               | Content Marketing Associate               |                                   |            
+| Marketing Coordinator	               | Content Marketing Associate               |                                   |
 | Marketing Coordinator	               | Marketing Programs Associate              |                                   |
 | Marketing Coordinator	               | Associate Customer Advocate               |                                   |
 | Marketing Coordinator	               | Marketing Operations Associate            |                                   |
@@ -100,12 +100,12 @@ Note: `Manager` denotes a management of a certain specialty, whereas `Manager,` 
 | Manager, Market Research & Customer Insights              | Director, Market Research & Customer Insights              |                      |
 | Associate Competitive Intelligence Manager              | Competitive Intelligence Manager                   |                                 |
 | Competitive Intelligence Manager              | Senior Competitive Intelligence Manager                   |                                 |
-| Senior Competitive Intelligence Manager              | Manager, Competitive Intelligence Manager                   |  
+| Senior Competitive Intelligence Manager              | Manager, Competitive Intelligence Manager                   |
 | Manager, Competitive Intelligence Manager              | Director, Competitive Intelligence Manager                   |
-| Associate Partner Marketing Manager	 | Partner Marketing Manager                  |                                   |   
-| Partner Marketing Manager	 | Senior Partner Marketing                  |                                   |       
-| Senior Partner Marketing Manager	 | Manager, Partner Marketing                  |                                   |  
-| Manager, Partner Marketing	 | Director, Partner Marketing                  |                                   |                     
+| Associate Partner Marketing Manager	 | Partner Marketing Manager                  |                                   |
+| Partner Marketing Manager	 | Senior Partner Marketing                  |                                   |
+| Senior Partner Marketing Manager	 | Manager, Partner Marketing                  |                                   |
+| Manager, Partner Marketing	 | Director, Partner Marketing                  |                                   |
 | Associate Product Marketing Manager	 | Product Marketing Manager                 |                                   |
 | Product Marketing Manager	           | Senior Product Marketing Manager                |                                   |
 | Senior Product Marketing Manager	           | Manager, Product Marketing          |                                   |
