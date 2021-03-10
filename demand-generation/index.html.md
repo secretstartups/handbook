@@ -110,7 +110,10 @@ The above [Linear] attribution metrics are also available in other attribution m
 {: #dashboard-filters-functionalities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**Filters:**
+##### Filters
+{: #dashboard-filters}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
 * **Date Range**: based on Bizible touchpoint date
 * **Group By Time:** You can toggle between different date aggregation (MoM,QoQ,YoY). _Note: If you use the dashboard for the very first time, you need to select any value in this filter in order to make the charts work on the dashboard._
 * **Touchpoint Segment:** multi-select filter with the option of `Demand Gen` and `Other` (if you select both, you would be able to see All touchpoints). `Other` touchpoints cover any non-Demand Gen data (e.g.: FMM, Direct, Organic Search etc.). Touchpoint Segment **does not** filter the PMG cost.
@@ -157,9 +160,12 @@ The following table gives a better understanding of the difference between the 2
 |0064M00000Wv4i2|a604M000000dMJd|2021-01-17|2021-01-20|Web Form|0.25|
 |0064M00000Wv4i2|a604M000000dMJb|2021-01-18|2021-01-20|Web Visit|0.25|
 
-M**QLs in snapshot view**: The snapshot view calculates the distinct number of Bizible persons who hit MQL status and engaged with any of the demand gen campaigns
+**MQLs in snapshot view**: The snapshot view calculates the distinct number of Bizible persons who hit MQL status and engaged with any of the demand gen campaigns
 
-**Functionalities:**
+##### Functionalities
+{: #dashboard-functionalities}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
 * **Dynamic KPI Charts:** Some charts are dynamic meaning that you are able to switch the KPI in the dropdown menu in the top left corner. The Y axis format changes based on the selected KPI ($, %). If you want to temporarly remove some values in the chart series. You can do that by clicking on the relevant label in the legend. Double-clicking on a label in the legend will display the desired label only.
 * **Date Aggregation:** with the `Group By Time` filter you can change the date granularity on the [Date Range Comparison table](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard?widget=10984808&udv=1198278) and the trend charts ([Acquisition and Opportunity $ Trend](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard?widget=10531936&udv=1198278),[Conversion % and CPA Trend](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard?widget=10540142&udv=1198278)).
 * **Pivot Table:** To create your own pivot table in the tables under the Table Summary sections, click on the top right corner of the table > Edit Pivot. For the conversion rates (INQ>MQL, MQL>SAO, SAO>WON) use average in the Pivot value settings. **Important**: max 5MB data can be downloaded due to browser data download size limitations (eg.: if you select Demand Gen and Other in the Touchpoint Segment filter, the data volume will be too too large to display in the tables)
