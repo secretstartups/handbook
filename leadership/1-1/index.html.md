@@ -32,13 +32,13 @@ We recorded a training about 1-1s which you can find here:
     1. How often you should have 1-1 meetings: "The answer is the job- or task-relevant maturity of each of your individual contributors. In other words, how much experience does a given report have with the specific task at hand?...the most effective management style instance varies from very close to very loose supervision as a report’s task maturity increases."
 1. Bill Campbell, executive coach to top executives at Google, had a [suggested approach to the 1-1](https://alearningaday.com/2015/11/29/bill-campbell-style-1-1/). Instead of leaving the conversation open, he required both the manager and the team member to bring a list of 5 things to discuss. At the start of the meeting, they would match lists and talk about whatever is on both lists first. After that, they would spend time on 4 topics – performance on job requirements, relationships with peer teams, leadership and innovation.
 1. If you have negative or positive feedback give it right away rather than waiting for the 1-1. However, make sure bi-directional feedback is given _at least_ as often as the 1-1 meeting. The face to face 1-1 is also useful for feedback that the person may be especially sensitive too, or is being given for the second time and needs to be taken more seriously.
-1. It’s important not to push times of the 1-1’s for “more important” tasks. Book them and ensure you always are on time. Similarly, canceling a 1-1 should be a last resort. The exception to this is recruiting interviews. If participating in an interview schedule, reschedule the 1:1 with as much advance notice as possible, but prioritize the interview.
+1. It’s important not to push times of the 1-1’s for “more important” tasks. Book them and ensure you always are on time. Similarly, canceling a 1-1 should be a last resort. The exception to this is talent acquisition interviews. If participating in an interview schedule, reschedule the 1:1 with as much advance notice as possible, but prioritize the interview.
 1. One communication style does not fit all. Some need very direct feedback. Others work better with FYI style information to then come to the conclusion you want them to come to on their own. Others work well with clear goals, but without a clear prescription as to how to reach the goal. Great managers can adapt their style to the report.
 1. It is common to start with a bit of small talk. You can also consider starting with asking how are you as a person?
 1. The end of the meeting is a good time to ask questions people might be hesitant to answer. [People will often reveal their important information at the end of a conversation.](https://leadingstrategicinitiatives.com/2011/07/19/use-the-columbo-question-to-get-strategic-information/) Use this to get information about things that are bothering them about other people in the company, including you as a manager. Ask a question like 'How can I make your life better?' or 'How’s the team and the work with other people?'. Don't put this question on the agenda in advance. Since it is the end of the meeting it might be needed to add it to the agenda to discuss in the next meeting.
 1. Setting and managing expectations is maybe your most important task. Both the managers expectations of the work done by the report and the reports expectations about the work and company.
 1. Reports tend to assume that they must do everything added by the manager, make it clear that they can push back (not a good idea, not worth the time), and redirect (please handle it directly with this person, can you arrange for this). You want to prevent the agenda piling up. The manager will put items on the agenda because it is in the functional area of the report and the manager doesn't want to bypass them. But in case the manager cares about something and the report doesn't it might be preferable for the manager (or an executive assistant) to do the work.
-1. Actively listen to identify what the direct report is saying. The manager should strive to do 20% of the talking while the direct report does 80%. 
+1. Actively listen to identify what the direct report is saying. The manager should strive to do 20% of the talking while the direct report does 80%.
 1. If you have few items on the agenda from the report try the following questions:
   - Is there anything that needs clarity?
   - What are you most proud of/excited about?
@@ -112,15 +112,15 @@ Career development conversations are vital for the team members, managers and Gi
 *  Team members will take conversations about their career as a promise of a promotion
 *  Team members will leave after they have developed new skills
 
-Not discounting these concerns, but as a manager it is your job to engage team members in meaningful career development conversations.  
+Not discounting these concerns, but as a manager it is your job to engage team members in meaningful career development conversations.
 
-If a team members expectations or timeframe is unrealistic, you can explore having them use their time to find opportunities that will engage and prepare them for when they opportunities arise. If they are ready for promotion but the opportunity is not in scope or plan for the business it is best to be transparent with the team member. Discuss any timeline of if/when a position may be available or if there is no plan currently to add that role. You can also work with the team member to look for internal opportunities like internship or cross collaborative projects to help keep the team member engaged while continuing in their role.  
+If a team members expectations or timeframe is unrealistic, you can explore having them use their time to find opportunities that will engage and prepare them for when they opportunities arise. If they are ready for promotion but the opportunity is not in scope or plan for the business it is best to be transparent with the team member. Discuss any timeline of if/when a position may be available or if there is no plan currently to add that role. You can also work with the team member to look for internal opportunities like internship or cross collaborative projects to help keep the team member engaged while continuing in their role.
 
 If a team members expresses career ambitions that are beyond their current skill set, then that is an opportunity to talk about the next level skills and experience that might help prepare them to get them where they want to go. If your department or division has job matrices or competencies this is a good time to review those with the team member. Technical skills are only one part of the team members ability to continue to grow and succeed. If there are issues with attitude and behaviors this is a good time to also share what the team member needs to work on in regards soft skills as part of their career growth and development.
 
 If you are concerned that your career development conversation could be construed as a promise of a promotion, focus the conversation around skills gap development and opportunities.  Try to focus on the things needed now rather than focusing on a specific time frame.
 
-It is possible that some team members may leave for other opportunities after they acquire a new skill set. However, it is even more possible that they will leave if they believe you or GitLab is not interested in their career aspirations or development. Engaging in meaningful career development conversations show that you as a manager care about them personally and their future development. 
+It is possible that some team members may leave for other opportunities after they acquire a new skill set. However, it is even more possible that they will leave if they believe you or GitLab is not interested in their career aspirations or development. Engaging in meaningful career development conversations show that you as a manager care about them personally and their future development.
 
 ### Preparing for the discussion
 #### Strengths and wins
@@ -145,7 +145,7 @@ Team members want feedback on their strengths, performance and their potential w
 * I see this as my career path, what career path do you see based on my skills?
 * Should I be gathering career development feedback from others?
 
-Since you are already having regular [1:1s](/handbook/leadership/1-1/) with your team member you may have ideas regarding your team members development aspirations. Plan ahead and take the time to think about what questions they may ask and come prepared to the conversation.  
+Since you are already having regular [1:1s](/handbook/leadership/1-1/) with your team member you may have ideas regarding your team members development aspirations. Plan ahead and take the time to think about what questions they may ask and come prepared to the conversation.
 
 #### Having the discussion
 
@@ -161,7 +161,7 @@ As a manager you should follow up on the goals and activities you both identify.
 
 If asked, share your career goals with your team members. This transparency shows that you are not only willing to hear their career goals, but you are also willing to share your own career path. That could also include discussing with your team members the areas that you have identified to focus on in the future. Be open about questions regarding your own career path and experiences to date. Your team member may be able to take away some valuable lessons that you have learned in your own journey.
 
-#### Additional resources 
+#### Additional resources
 
 Below are several recommended articles regarding career development conversations.
 
@@ -233,17 +233,17 @@ An engineering manager decides to open up their 1-1 meetings to their team. The 
 
 
 
-### Leadership Engagement Check-Ins 
+### Leadership Engagement Check-Ins
 
-Leadership Engagement Check-Ins, (also known as [Stay Interviews](https://www.forbes.com/sites/billconerly/2018/07/21/retain-more-employees-with-stay-interviews/#659422a2f18c)) are conducted to help leadership improve retention in their teams. It helps them understand why team members stay and what might cause them to leave. In a Leadership Engagement Check-In, people managers ask standard, structured questions in a casual and conversational manner. 
+Leadership Engagement Check-Ins, (also known as [Stay Interviews](https://www.forbes.com/sites/billconerly/2018/07/21/retain-more-employees-with-stay-interviews/#659422a2f18c)) are conducted to help leadership improve retention in their teams. It helps them understand why team members stay and what might cause them to leave. In a Leadership Engagement Check-In, people managers ask standard, structured questions in a casual and conversational manner.
 
 #### Process
 
-* **Cadence**: Schedule your Engagement Check-In at least every 6 months with each of you direct reports. People leaders can repurpose a scheduled 1-1 meeting; 
-* **Format**: Use sync communication via Zoom; 
-* **Preparation**: Preparation should be done before the meeting by the manager and the team member. The manager should set expectations with their team members prior to the meeting to ensure that the team member feels as comfortable as possible heading into the conversation. Managers can include a copy of this Handbook page so their direct report is fully aware of the specific questions that will be asked during the call. Ask the team member to review the questions and think about them prior to the call. Allow them the opportunity to type responses before the meeting if they wish to do so. 
-* **Questions**: Have a look at the below questions and take notes during the meeting. 
-* **Follow up**: At the end of the conversation summarize and follow up on any actions. 
+* **Cadence**: Schedule your Engagement Check-In at least every 6 months with each of you direct reports. People leaders can repurpose a scheduled 1-1 meeting;
+* **Format**: Use sync communication via Zoom;
+* **Preparation**: Preparation should be done before the meeting by the manager and the team member. The manager should set expectations with their team members prior to the meeting to ensure that the team member feels as comfortable as possible heading into the conversation. Managers can include a copy of this Handbook page so their direct report is fully aware of the specific questions that will be asked during the call. Ask the team member to review the questions and think about them prior to the call. Allow them the opportunity to type responses before the meeting if they wish to do so.
+* **Questions**: Have a look at the below questions and take notes during the meeting.
+* **Follow up**: At the end of the conversation summarize and follow up on any actions.
 
 
 #### Structure
@@ -254,7 +254,7 @@ Start the conversation by explaining the purpose of the meeting and why it’s i
 > "Thanks for taking the time to have this check-in conversation. Team member engagement is very important to me, and this talk is a way to better understand how things are going for you and how I can help to improve your experience at GitLab. I would like to talk with you about the reasons you stay with GitLab so I understand what I can do to make this a great place to work for you."
 
 ##### Questions
-It’s important to listen and gather feedback from the team member about how they feel about GitLab in an objective manner: 
+It’s important to listen and gather feedback from the team member about how they feel about GitLab in an objective manner:
 
 * What do you like most about your job?
 * What do you like least about your job?
@@ -267,17 +267,17 @@ It’s important to listen and gather feedback from the team member about how th
 ##### Scenarios (situations and reactions)
 
 1. **Team member has expressed the desire to stay at GitLab and is engaged**
-- I am so pleased to hear GitLab is a great place for you and really value your input going forward. 
-- In case there’s a change in your feelings I want to make sure you can always speak up, even outside of these engagement check-ins. 
+- I am so pleased to hear GitLab is a great place for you and really value your input going forward.
+- In case there’s a change in your feelings I want to make sure you can always speak up, even outside of these engagement check-ins.
 
-2. **Team member expressed both reasons to stay but also reasons for leaving**  
-- I really want to thank you for your valuable input and feedback. 
-- Summarizing what we have discussed I would love to work on an engagement plan so that we can make sure GitLab is a great place to work for you. 
+2. **Team member expressed both reasons to stay but also reasons for leaving**
+- I really want to thank you for your valuable input and feedback.
+- Summarizing what we have discussed I would love to work on an engagement plan so that we can make sure GitLab is a great place to work for you.
 - Let's follow up in one week and prepare items we can work on to improve your experience at GitLab.
 
 3. **Team member expressed mostly reasons why they consider leaving and isn’t engaged**
-- I really want to thank you for your valuable input and feedback. 
-- Looking at your concerns I would love to work on an engagement plan so that we can make sure GitLab becomes a great place to work for you. 
+- I really want to thank you for your valuable input and feedback.
+- Looking at your concerns I would love to work on an engagement plan so that we can make sure GitLab becomes a great place to work for you.
 - Let's follow up in one week and prepare items we can work on to improve your experience at GitLab.
 
 4. **Other scenarios**
@@ -292,6 +292,6 @@ I appreciate you sharing your thoughts with me today. I am committed to doing wh
 If, during the Engagement Check-In, issues arise around health, performance, compensation, etc. and you need assistance, please work directly with your manager or your [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
 ##### Follow Up
-After the call has closed, capture some notes about what was discussed and share with the team member to ensure you heard their feedback correctly. It is important to do this for all team members - even if they had positive feedback about their engagement level. 
+After the call has closed, capture some notes about what was discussed and share with the team member to ensure you heard their feedback correctly. It is important to do this for all team members - even if they had positive feedback about their engagement level.
 
-For team members who had positive feedback, you will want to continue to find opportunities that align to things that make for a positive experience for them. For team members that had constructive feedback, you will want to use your notes as a start of an engagement plan. 
+For team members who had positive feedback, you will want to continue to find opportunities that align to things that make for a positive experience for them. For team members that had constructive feedback, you will want to use your notes as a start of an engagement plan.

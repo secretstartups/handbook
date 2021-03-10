@@ -41,23 +41,23 @@ In an all-remote organization, we want each team member to be a [manager of one]
 ### Examples of actions from managers of one at GitLab
 
 1. When asked to attend a synchronous brainstorming call, a team member instead opens an issue and [requests for their team's ideas asynchronously](/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async).
-1. A people leader champions our value of [Diversity, Inclusion and Belonging](/handbook/values/#diversity-inclusion) by [becoming a mentor](/handbook/values/#be-a-mentor). 
-1. A team member blocks out dedicated time for learning and development to implement a regular practice of [self-serving and self-learning](/handbook/values/#self-service-and-self-learning).  
+1. A people leader champions our value of [Diversity, Inclusion and Belonging](/handbook/values/#diversity-inclusion) by [becoming a mentor](/handbook/values/#be-a-mentor).
+1. A team member blocks out dedicated time for learning and development to implement a regular practice of [self-serving and self-learning](/handbook/values/#self-service-and-self-learning).
 1. A team member in a new role finds an inefficiency in a process they are learning. Without being asked or supervised, they open a merge request (MR) proposing a change and assign it to their manager for review.
 1. When a scheduled meeting agenda is complete 10 minutes before the call is set to end, an attendee ends the call early.
 1. A people leader hires a new team member that demonstrates our [CREDIT values](/handbook/values/).
 1. Before asking for others' time to discuss a topic, they dedicate time to process their thoughts and [make a proposal](/handbook/values/#make-a-proposal).
-1. A manager of one prioritizes wellbeing by blocking their calendars for fitness, meals, [paid time off](/handbook/paid-time-off/), and personal appointments. 
-1. A team member surfaces blockers as opposed to assuming their manager or team is already aware, and simultaneously works to unblock others by [working in public](/handbook/values/#public-by-default) and with a [low level of shame](/handbook/values/#low-level-of-shame). 
+1. A manager of one prioritizes wellbeing by blocking their calendars for fitness, meals, [paid time off](/handbook/paid-time-off/), and personal appointments.
+1. A team member surfaces blockers as opposed to assuming their manager or team is already aware, and simultaneously works to unblock others by [working in public](/handbook/values/#public-by-default) and with a [low level of shame](/handbook/values/#low-level-of-shame).
 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/d0x-JH3aolM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-In the [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) above, GitLab CEO Sid Sijbrandij gives more context on individual contributor leadership and managers of one. 
+In the [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) above, GitLab CEO Sid Sijbrandij gives more context on individual contributor leadership and managers of one.
 
-> We want leadership from everyone at GitLab. Since we are remote, there is a high expectation to do your work without direct supervision. It means that every team member is responsible for communication, structuring decisions, and managing your workload individually. 
+> We want leadership from everyone at GitLab. Since we are remote, there is a high expectation to do your work without direct supervision. It means that every team member is responsible for communication, structuring decisions, and managing your workload individually.
 
 ## Interim and Acting Leadership
 
@@ -153,9 +153,9 @@ Process has a bad reputation. It has that reputation for things that we try to a
 
 But process also has good aspects. Having a documented process for how to communicate within the company greatly reduces time spend on on-boarding, increases speed, and prevents mistakes. A counterintuitive effect is that it also makes it easier to change processes. It is really hard to change a process that doesn't have a name or location and lives in different versions in the heads of people. Changing a written process and distributing the [diff](https://en.wikipedia.org/wiki/Diff_utility#Usage) is much easier.
 
-## Recruiting and retention
+## Talent Acquisition and retention
 
-Managers have an tremendous responsibility around recruiting and [retention](/handbook/people-group/people-group-metrics/#team-member-retention) of team members.
+Managers have an tremendous responsibility around talent acquisition and [retention](/handbook/people-group/people-group-metrics/#team-member-retention) of team members.
 
 - Voluntary departures should be low, especially unexpected ones. The most common reasons for resignations can be tied back to the manager.
 - We want few candidates to decline an offer, especially when the reason isn't compensation.
@@ -165,7 +165,7 @@ Managers have an tremendous responsibility around recruiting and [retention](/ha
 
 ## High Output Management
 
-GitLab leadership and management approach was built using principles coverd in the book "[High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)." Please see [High Output Management](/handbook/leadership/high-output-management/) to learn more. 
+GitLab leadership and management approach was built using principles coverd in the book "[High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)." Please see [High Output Management](/handbook/leadership/high-output-management/) to learn more.
 
 ## Building High Performing Teams
 
