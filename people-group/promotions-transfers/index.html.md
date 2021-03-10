@@ -117,7 +117,7 @@ As highlighted in the [BambooHR or Greenhouse Process](https://about.gitlab.com/
 
 _Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role._
 
-1. _CES_: Issue a [Letter of Adjustment](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustment) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
+1. _CES_: Issue a [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
 1. _Total Rewards_: Update the team member's job title in BambooHR to reflect that they have started an interim role (I.E. `Senior Manager, Engineering (interim)`). This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation.
 1. _Current Manager_: A [Job Information Change Request](https://about.gitlab.com/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr) should be submitted to:
     - Move interim direct reports so the team member's interim direct reports are reporting to them in BambooHR. The change needs to be initiated by the current manager. The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in BambooHR. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially.
@@ -154,7 +154,7 @@ _When the acting period ends, the manager should review the [Criteria For Eligib
 
 ## For Managers: Requesting a Promotion or Compensation Change
 
-Please note that promotions will [freeze](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-change-freeze) from 2020-12-01 to 2020-02-01 due to Annual Compensation Review. Please ensure all promotions are submitted to BambooHR by December 1st. 
+Please note that promotions will [freeze](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-change-freeze) from 2020-12-01 to 2020-02-01 due to Annual Compensation Review. Please ensure all promotions are submitted to BambooHR by December 1st.
 
 To promote or change compensation for one of your direct reports, do the following steps:
 
@@ -254,11 +254,11 @@ If a department is over the 12% promotion rolling rate, the following process sh
 
 1. Total Rewards will alert the People Business Partner (PBP) that the department or division requesting the promotion is over the 12% rolling rate.
 1. PBP requests an overview of all promotions from the last rolling 12 months from Total Rewards provided in a Google sheet.
-1. PBP aligns with department/division leaders to inquire about projected promotions for the next ~6 months (or longer) and adds this data to the sheet provided. 
-1. PBP and leaders analyze projected promotion data to outline a path to getting their department under the 12% rolling promotion target, or outline considerations as to why the group is over target (and why that is acceptable). 
+1. PBP aligns with department/division leaders to inquire about projected promotions for the next ~6 months (or longer) and adds this data to the sheet provided.
+1. PBP and leaders analyze projected promotion data to outline a path to getting their department under the 12% rolling promotion target, or outline considerations as to why the group is over target (and why that is acceptable).
 1. PBP and leaders analyze data provided by Total Rewards, reasons for promotions, etc. to identify trends and reasons that the rate is over the 12% cap to provide a `rationale` and `context` overview justification.
 1. Once finalized with the department head, the PBP should share the sheet with the e-group leader for visbility/feedback.
-1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibility and ensure it is accessible by Total Rewards, CFO, and CEO. 
+1. The PBP adds the sheet as a comment to the promotion in BambooHR for visibility and ensure it is accessible by Total Rewards, CFO, and CEO.
 
 ### For People Business Partners: Approving Promotions & Compensation Changes
 
@@ -283,7 +283,7 @@ If a department is over the 12% promotion rolling rate, the following process sh
 
 ### For Total Rewards: Processing Promotions & Compensation Changes
 
-1. If the request is approved through BambooHR, the Total Rewards Analyst/Coordinator will create the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment), whereas if the request is through Greenhouse the Total Rewards Analyst/Coordinator will be notified via the Total Rewards team email inbox that the [Letter of Adjustment](/handbook/hiring/recruiting-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed. If this is the case, only data systems will need to be updated.
+1. If the request is approved through BambooHR, the Total Rewards Analyst/Coordinator will create the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment), whereas if the request is through Greenhouse the Total Rewards Analyst/Coordinator will be notified via the Total Rewards team email inbox that the [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed. If this is the case, only data systems will need to be updated.
 1. If the request comes through BambooHR, approve the request, then update the entries in BambooHR to ensure that there are the proper dates, amounts, job information. Also, ensure to add stock options to the job tab if applicable. If the team member is moving to a Manager position, update their access level in BambooHR.
 1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
 1. If the team member is in Sales or transferred to Sales, update the changes tab on the "Final Sales OTE FY 2020" google doc.
@@ -350,17 +350,17 @@ Job information changes are anything that requires an update to the team member'
 If you are interested in a vacancy, regardless of level, outside your department or general career progression, you can apply for a transfer through [Greenhouse](https://boards.greenhouse.io/gitlab) or the internal job board, link found on the #new-vacancies Slack channel.
  We have no minimum time in role requirements for transfers at GitLab.
 
-**If and when you decide to officially apply for an internal position, please make sure your current manager is aware. Your official application is signaled by you applying to the open role or reaching out to the recruiting team. Informal conversations about the role do not require a team member to inform their manager. If you have concerns about communicating your interest in an internal role to your manager, please reach out to your People Business Partner.**
+**If and when you decide to officially apply for an internal position, please make sure your current manager is aware. Your official application is signaled by you applying to the open role or reaching out to the talent acquisition team. Informal conversations about the role do not require a team member to inform their manager. If you have concerns about communicating your interest in an internal role to your manager, please reach out to your People Business Partner.**
 
 ### For Internal Applicants - Different Job Family
 
 - If you are interested in a transfer, simply submit an application for the new position. If you are not sure the new role is a good fit, schedule time with the hiring manager to learn more information about the role and the skills needed. If after that conversation you are interested in pursuing the internal opportunity, it is recommended that you inform your current manager of your intent to interview for a new role. While you do not need your their permission to apply to the new role, we encourage you to be transparent with them. Most will appreciate that transparency since it's generally better than learning about your move from someone reaching out to them as a reference check. You can also use this as an opportunity to discuss the feedback that would be given to the potential new manager were they to seek it regarding your performance from your current and/or past managers. We understand that the desire to transfer may be related to various factors. If the factor is a desire NOT to work with your current manager, this can be a difficult conversation to have and shouldn't prevent you from pursuing a new role at GitLab.
 - Transfers must go through the application process for the new position by applying on the [jobs page](https://gitlab.greenhouse.io/internal_job_board). The team member may go through the entire interview process outlined on the vacancy description. Common exceptions to the standard interview process are behavioral or "values alignment" stages. The Recruiter will document the reason behind alterations to the standard interview plan in the team member's Greenhouse profile.  If you have any questions about the role or the process, please reach out to your Department or Division's [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). In all cases, the applicable People Business Partner should be informed via email, before a transfer is confirmed.
-- In the case of transfers, it is expected and required that the gaining manager will check with internal references at GitLab limited to the previous and current managers; please do not conduct internal reference checks with peers or direct reports. For questions or exceptions, please engage your recruiter and people business partner.  
+- In the case of transfers, it is expected and required that the gaining manager will check with internal references at GitLab limited to the previous and current managers; please do not conduct internal reference checks with peers or direct reports. For questions or exceptions, please engage your recruiter and people business partner.
 - It is recommended (but not required) that the applicant, current manager, or gaining manager create a private Slack channel to help coordinate the transfer. Invite anyone who will be involved such as the relevant managers, directors, people business partners, finance business partners, and recruiters for the current team and gaining team.
-- If the current manager needs to backfill the role in Engineering they should follow [this process](/handbook/engineering/#backfill-process). For other divisions they should work with their department leader, recruiter, and the Finance Business Partner to confirm that a backfill is available. When the transfer is confirmed, current manager should work with recruiter and Finance Partner to obtain a [GHP ID](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-recruiting-single-source-of-truth) for the backfill and open the role in Greenhouse. 
+- If the current manager needs to backfill the role in Engineering they should follow [this process](/handbook/engineering/#backfill-process). For other divisions they should work with their department leader, recruiter, and the Finance Business Partner to confirm that a backfill is available. When the transfer is confirmed, current manager should work with recruiter and Finance Partner to obtain a [GHP ID](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth) for the backfill and open the role in Greenhouse.
 - Before the offer is made the recruiter will confirm with the team member and the gaining manager that they have indeed reached out to the current manager. They will discuss the new internal opportunity and that an offer will be made to the team member.
-- Recruiting team will ensure that, if applicable, the position has been posted for at least three business days before an offer is made.
+- Talent Acquisition team will ensure that, if applicable, the position has been posted for at least three business days before an offer is made.
 - [Compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#promotions) may be reviewed during the hiring process to reflect the new level and position.
 - If after interviews, the manager and the GitLab team-member want to proceed with the transfer, internal references should be checked. While a manager cannot block a transfer, there is often good feedback that can help inform the decision. It is advised that the GitLab team-member talk to their manager to explain their preference for the new team and to understand the feedback that will be given to the new manager. It should also be noted, that performance requirements are not always equal across roles, so if a GitLab team-member struggles in one role, those weakness may not be as pronounced in the new role, and vice versa. However, if there are systemic performance problems unrelated to the specific role or team, a transfer is not the right solution.
 - If the GitLab team-member is chosen for the new role, the managers should agree on an reasonable and speedy transfer plan. 2 weeks is a usually a reasonable period, but good judgment should be used on completing the transfer in a way that is the best interest of the company, and the impacted people and projects.
@@ -422,7 +422,7 @@ _NOTE: Though the Total Rewards and People Experience team may have visibility i
 
 Company priorities can change and occasionally some or all members of a team may be asked to transfer to high priority vacancies within other teams.
 
-##### Realignment Considerations 
+##### Realignment Considerations
 
 Early and ongoing communication with affected teams is key to ensuring a successful realignment. Hiring managers should clearly articulate the business need and quantifiable benefits from the realignment, as well as position a team focus and roadmap that gives affected teams an understanding of how their future contributions will benefit GitLab.
 
@@ -451,15 +451,15 @@ In cases where multiple individuals are asked to transfer to high priority roles
 1. After individuals gave their preference, the skills/requirements of the roles will be matched to the skills of the individuals. For example: level, product/technical skills, potentially soft skills.
 1. DRI work with People Business Partner to ensure all legal requirements are met as these vary between countries.
 1. Ask hiring manager to approve transfer. If they don't approve look at the individual's first or second choice.
-1. Once choices are finalized, approved, and rationale is documented, current manager should communicate the decision directly with individual impacted team members. 
-1. Current manager follows the standard process for [updating job information in BambooHR](/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr). _Before communicating company-wide, all changes should be reflected in BambooHR._ 
+1. Once choices are finalized, approved, and rationale is documented, current manager should communicate the decision directly with individual impacted team members.
+1. Current manager follows the standard process for [updating job information in BambooHR](/handbook/people-group/promotions-transfers/#job-information-change-in-bamboohr). _Before communicating company-wide, all changes should be reflected in BambooHR._
 1. Move the confidential issue to the [Product project](https://gitlab.com/gitlab-com/Product), and label it with ~"realignment".
 1. Product Leader announces the realignment in #product (for smaller realignments) or #company-fyi (for larger realignments)
 1. The new manager follows the steps outlined for[announcing transfers](/handbook/people-group/promotions-transfers/#announcing-internal-promotionstransfers) in the handbook.
-1. After the realignment the DRI opens a retrospective issue to gather feedback from affected teams in order to improve this process.  
+1. After the realignment the DRI opens a retrospective issue to gather feedback from affected teams in order to improve this process.
 1. After the realignment the DRI makes the realignment issue public and closes it. This is because only planned realignments are [not public](https://about.gitlab.com/handbook/communication/#not-public). In cases where the issue does contain public information the DRI may choose to leave the issue confidential with a comment explaining the reason.
 
-#### For People Success & Recruiting Team
+#### For People Success & Talent Acquisition Team
 
 Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documented in the HRIS file of the team member who received the new role. See [Department Transfers](/handbook/people-group/promotions-transfers/#department-transfers) for additional details.
 

@@ -26,7 +26,7 @@ Around May of 2021 we will launch our next 360 feedback cycle. Last year, due to
 - Date TBD - Survey Launch
 - Date TBD for 1 week - Team member nominates peers, manager, and any direct reports they have. Managers can adjust the peer nominations at this time and whenever the nominations are set the manager or a Culture Amp admin can launch the individual review.
 - Date TBD for 1 month - Team member, managers, and peers complete reviews for themselves and each other. Managers will have visibility into all self and peer reviews for their direct reports as they are completed.
-- Date TBD at the close of the 360 feedback session CultureAmp will send the team member and the manager the report for review their review.  
+- Date TBD at the close of the 360 feedback session CultureAmp will send the team member and the manager the report for review their review.
 - Date TBD for 2 weeks - Manager and team member schedule a 360 feedback/discussions.
 - Date TBD - Closing the cycle
 - Date TBD - Feedback Retrospective info to be provided. [(see 2020 retrospective)](https://gitlab.com/gitlab-com/people-group/General/-/issues/617)
@@ -37,7 +37,7 @@ _Please note: for the purpose of this 360 feedback cycle we have historically on
 
 We utilize the tool [Culture Amp](https://gitlab.cultureamp.com/) to administer the 360.
 
-Team members who started at GitLab in the last 90 days are welcome to but not expected to participate in the 360 feedback process. However, you can still use the 360 process to provide feedback around recruiting, onboarding or any other aspect at GitLab. All team member input is valuable.
+Team members who started at GitLab in the last 90 days are welcome to but not expected to participate in the 360 feedback process. However, you can still use the 360 process to provide feedback around talent acquisition, onboarding or any other aspect at GitLab. All team member input is valuable.
 
 Managers will be assigned as the coach for their direct reports. It is important that all managers review and send out the 360 feedback within 48 hours once the survey closes and you are sent the results.
 

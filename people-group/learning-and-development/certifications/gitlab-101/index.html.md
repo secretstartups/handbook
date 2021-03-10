@@ -15,7 +15,7 @@ Welcome to the GitLab 101 Tool certification page! Here you will find our 101 co
 
 ### Who can benefit from this 101 training?
 
-Everyone at GitLab needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. recruiting, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects.
+Everyone at GitLab needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. talent acquisition, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects.
 
 ###  When should this training be completed?
 
@@ -46,7 +46,7 @@ Summarized: GitLab is a complete DevOps platform, delivered as a single applicat
 
 This will make more sense once you understand all of the terminology.
 
-### Terminology  
+### Terminology
 1. Git
    1. **Definition:** is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 1. DevOps
@@ -64,7 +64,7 @@ This will make more sense once you understand all of the terminology.
    1. **Definition:** allow you to categorize epics, issues, and merge requests using descriptive titles like bug, feature request, or docs, as well as customizable colors. They allow you to quickly and dynamically filter and manage epics, issues, and merge requests, and are a key part of issue boards.
    1. **More information on:** [labels](https://docs.gitlab.com/ee/user/project/labels.html)
 1. Weight
-   1. **Definition:** allow you to get a better idea of how much time, value or complexity a given issue has or will cost.  
+   1. **Definition:** allow you to get a better idea of how much time, value or complexity a given issue has or will cost.
    1. **More information on:** [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html)
 1. Merge Request
    1. **Definition:** allows you to visualize and collaborate on the proposed changes to source code that exist as commits on a given Git branch. A Merge Request (MR) is the basis of GitLab as a code collaboration and version control platform. It is as simple as the name implies: a request to merge one branch into another.
@@ -105,7 +105,7 @@ To use the flashcards, click on the link above. You can review the flashcards in
 
 ### Quiz - Lesson 1: Technical Terminology
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
 
 To move on to the next Lesson, take and pass the [GitLab 101: Technical Terminology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3G3QJJRa1XvKbUNXhJENSxoWd5907CpP4-jhvvyRcvZzwRA/viewform).
 
@@ -113,14 +113,14 @@ To move on to the next Lesson, take and pass the [GitLab 101: Technical Terminol
 
 ### What is a GitLab Issue
 
-As you learned in the technical terminology portion, a GitLab Issue is the fundamental medium for collaborating on ideas and planning work in GitLab. That means if you are working on a project or idea and want to collaborate with other team members, you can open an issue to do that.    
+As you learned in the technical terminology portion, a GitLab Issue is the fundamental medium for collaborating on ideas and planning work in GitLab. That means if you are working on a project or idea and want to collaborate with other team members, you can open an issue to do that.
 
 ### How to open a GitLab Issue
 
 To open a GitLab issue:
 
 1. Navigate to the project where you want to open the issue
-   1. **How do you know what project to use?** - Find the project that is most relevant to the issue you want to create. For example if you wanted to open an issue on something relating to our [benefits](/handbook/total-rewards/benefits/), you would open an issue in the Total Rewards project. If you do open an issue in an incorrect project, you can move it. We will cover that as the next topic. 
+   1. **How do you know what project to use?** - Find the project that is most relevant to the issue you want to create. For example if you wanted to open an issue on something relating to our [benefits](/handbook/total-rewards/benefits/), you would open an issue in the Total Rewards project. If you do open an issue in an incorrect project, you can move it. We will cover that as the next topic.
 1. Select "Issues" in the left hand side
 1. Click the green "New issue" button in the top right
 1. Add in a Title for the issue
@@ -208,7 +208,7 @@ Each GitLab Project has an Issue Board. These can be set up similar to how a kan
 
 ### Quiz - Lesson 2: GitLab Issues
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
 
 To move on to the next Lesson, take and pass the [GitLab 101: Issues Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeR1zOvGKrDWD1t52DNv3DdNeLblI2nPP0dm-PKD8TkNUfB7Q/viewform).
 
@@ -256,12 +256,12 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
 
 ### Quiz - Lesson 3: GitLab Merge Requests
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
 
 Take and pass the [GitLab 101: Merge Requests Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzwgutFZegAESbgsiObhb6N8rqn4NNlWDbxACK7khh3p5hJA/viewform).
 
 To become certified in GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
 
-## Feedback  
+## Feedback
 
 We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdtScO_hkV_mFlhlB4tiSf9tjXvrQBVMkkGCOegZlZH2yzZWQ/viewform).

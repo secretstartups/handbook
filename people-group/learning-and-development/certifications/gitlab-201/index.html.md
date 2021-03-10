@@ -11,12 +11,12 @@ title: GitLab 201 Tool Certification
 
 ## Introduction
 
-Welcome to the GitLab 201 Tool certification page! This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become certified in GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order. 
+Welcome to the GitLab 201 Tool certification page! This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become certified in GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order.
 
 
 ### Who can benefit from this 201 training?
 
-Everyone at GitLab needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. recruiting, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects. 
+Everyone at GitLab needs to know how to use GitLab and be technical to some level. This training is geared toward GitLab team members who are in non-engineering roles (i.e. talent acquisition, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects.
 
 ### Prerequsites
 
@@ -34,7 +34,7 @@ To get started with the GitLab 201 Tool Certification, you will need:
 ### Objectives
 1. Learn how to create epics
 1. Learn how to review and make suggestions to a merge request
-1. Learn how to create a new handbook page 
+1. Learn how to create a new handbook page
 
 ## Lesson 1: Epics
 
@@ -43,16 +43,16 @@ Epics let you manage your portfolio of projects more efficiently and with less e
 ### Uses
 
 1. Suppose your team is working on a project/OKR that involves multiple discussions throughout different issues created in distinct projects within a Group.  With epics, you can track all the related activities that together contribute to that single project/OKR.
-1. Track when the work for the group of issues is targeted to begin, and when it’s targeted to end. 
-1. Discuss and collaborate on ideas and scope at a high level.  
+1. Track when the work for the group of issues is targeted to begin, and when it’s targeted to end.
+1. Discuss and collaborate on ideas and scope at a high level.
 1. Helps to report on the health status of the different issues attached.
 
 ### How to create an epic
 
 Epics are created on group level. To create an epic, navigate to the project’s group, on the left panel,
- 
-1. Click ‘epics’ 
-1. Then click ‘New epic’ 
+
+1. Click ‘epics’
+1. Then click ‘New epic’
 1. Type in the title of the epic and click create epic
 1. This epic is referred to as the parent epic
 
@@ -66,7 +66,7 @@ You may choose to mark confidential by selecting Make this epic confidential che
 
 ### Child epics
 
-A child epic is a sub epic created within the parent epic. You may think about it like a folder with sub folders and multiple files. Child epics may be added to a parent epic.  
+A child epic is a sub epic created within the parent epic. You may think about it like a folder with sub folders and multiple files. Child epics may be added to a parent epic.
 ![epic organisation](/images/handbook/people-group/EPIC_GRAPHIC.png)
 
 To add a child epic:
@@ -92,7 +92,7 @@ In the epic, click the Add dropdown button.
 ![epic dropdown](/images/handbook/people-group/add_issue_to_epic_1.png)
 1. Click Add an existing issue
 1. Either paste the link of the issue or enter the issue id
-1. If there are multiple issues to be added, press the spacebar and repeat this step 
+1. If there are multiple issues to be added, press the spacebar and repeat this step
 1. Click Add
 
 
@@ -121,29 +121,29 @@ Once the desired epic has been selected, it will be shown on the issue like this
 
 ### Quiz - Lesson 1: Epics
 
-If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
 
 To move on to the next lesson, take and pass the [GitLab 201: epics quiz](https://docs.google.com/forms/d/e/1FAIpQLSev9PA7WGLHwtlF3Uo3XhhcW_GIrNnJN1dShQYv4tGqvDMcow/viewform).
 
 ## Lesson 2: Merge Requests
 
-In GitLab 101, we learned how to [create merge requests](/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests). In this lesson, we will dive deeper into merge requests. 
+In GitLab 101, we learned how to [create merge requests](/handbook/people-group/learning-and-development/certifications/gitlab-101/#lesson-3-gitlab-merge-requests). In this lesson, we will dive deeper into merge requests.
 
 ### Reviewing a merge request
 
 You can review a merge request to provide feedback to the author. You can start a review in the merge request diff. Diff is the view of changes to a file between branches or commits.
 
-To review a merge request:  
+To review a merge request:
 Click on the "Changes" tab in the merge request.
 
 Click on the line you want to comment on, using the 'add a comment icon'
 
 ![comment icon](/images/handbook/people-group/comment_icon_in_diff_5.png)
 
-Write your comment in the dialogue box and click on the start a review button. 
+Write your comment in the dialogue box and click on the start a review button.
 
 ![comment dialogue](/images/handbook/people-group/start_a_review_dialogue_box_6.png)
-  
+
 To add more comments to a review, start writing a comment as normal and click the ‘Add to review’ button.
 
 To resolve a thread, when replying to a comment, click the checkbox to resolve thread.
@@ -171,7 +171,7 @@ Click "Start a review" to add your comment to a review, or "Add comment now" to 
 
 The suggestion in the comment can be applied by the merge request author directly from the merge request.
 
-Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.  
+Once the suggestion has been applied, a new commit will be created and the suggested change will be pushed to the merge request's branch.
 
 ### WIP/Draft merge requests
 
@@ -187,15 +187,15 @@ When you are ready for it to be merged, simply remove the `WIP: ` or `Draft: ` p
 
 Save changes, and assign the merge request to the DRI of the page.
 
-### Quiz - Lesson 2: Merge Requests 
+### Quiz - Lesson 2: Merge Requests
 
-If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
 
 To move on to the next lesson, take and pass the [GitLab 201: merge requests quiz](https://docs.google.com/forms/d/e/1FAIpQLSfJYcLiYIp4iN7jPiTN2_CQbVdtVVCPx4Y1BzMVv9wffk7OCw/viewform).
 
 ## Lesson 3: How to create a new handbook page
 
-Before creating a new handbook page, ensure the information does not already exist in the handbook or if it can be added to an existing page. 
+Before creating a new handbook page, ensure the information does not already exist in the handbook or if it can be added to an existing page.
 
 ### Video: How to create a new handbook page and WIP MR (~9 minutes)
 
@@ -212,7 +212,7 @@ Before creating a new handbook page, ensure the information does not already exi
 
 1. In that folder, click the + icon and select new file
 
-1. Name the file path and ensure it ends in `/index.html.md`. 
+1. Name the file path and ensure it ends in `/index.html.md`.
 
 1. To ensure the page is set up correctly, copy/paste the following to the top of your new handbook page. Remember to edit appropriately.
 
@@ -234,19 +234,19 @@ description: "[insert a short sentence to appear as part of search results]"
 
 1. Update the merge request template and assign the merge request to the appropriate revieweer.
 
-### Helpful tips for updating the handbook 
+### Helpful tips for updating the handbook
 
-1. To locate the handbook on gitlab.com, navigate to `www-gitlab-com` project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing), the folders are arranged alphabetically. 
+1. To locate the handbook on gitlab.com, navigate to `www-gitlab-com` project, click sites - handbook - source - handbook. Click the section of the handbook you want to navigate to (eg people group, marketing), the folders are arranged alphabetically.
 
-1. The [markdown guide](/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.  
+1. The [markdown guide](/handbook/markdown-guide/#markdown-style-guide-for-aboutgitlabcom) page contains useful tips for updating the handbook, such as adding images, embedding documents and much more.
 
 1. If you don’t know how to do something - find another instance of it in the handbook. For example, if you want to add a table to the handbook. Navigate to a section of the handbook that contains a table, the [People Group](/handbook/people-group/) page is a good example. Click `view source` to see how the table looks. You may copy/paste, then edit to suit your needs.
 
-### Quiz - Lesson 3: How to create a new handbook page 
+### Quiz - Lesson 3: How to create a new handbook page
 
-If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway. 
+If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
 
-Take and pass the [GitLab 201: How to create a new handbook page quiz](https://docs.google.com/forms/d/e/1FAIpQLSfhBE-121_41DXdXbn8qtSPqBhiQvnsupFwLAifEj58pGTHvw/viewform). 
+Take and pass the [GitLab 201: How to create a new handbook page quiz](https://docs.google.com/forms/d/e/1FAIpQLSfhBE-121_41DXdXbn8qtSPqBhiQvnsupFwLAifEj58pGTHvw/viewform).
 
 To become certified in GitLab 201, you will have to pass (with at least an 80%) all three lessons.
 

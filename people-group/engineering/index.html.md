@@ -19,7 +19,7 @@ core [People Group](/handbook/people-group/).
 
 Responsibilities include (but are not limited to):
 
-- Automation and API integrations in recruiting
+- Automation and API integrations in talent acquisition
 - Employment issues automation
 - Integrations to assure SSoT
 - Manage the code that runs the [Employment Bot](https://gitlab.com/employment-bot)

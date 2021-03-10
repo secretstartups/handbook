@@ -64,7 +64,7 @@ description: "GitLab's People Group vision."
 ## Compliant
 
 1. Establish a clear set of governance and procedural obligations to maintain compliance with all local, state, federal and country specific mandates.
-1. Leverage visa's as a recruiting and retention tool (unique that you can prove by contributing (rather than by credentials), and that we will hire you in other countries).
+1. Leverage visa's as a talent acquisition and retention tool (unique that you can prove by contributing (rather than by credentials), and that we will hire you in other countries).
 1. Living campus in the Netherlands for recent immigrants.
 
 ## Learning & Development

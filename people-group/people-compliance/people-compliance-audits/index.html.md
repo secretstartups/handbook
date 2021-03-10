@@ -16,7 +16,7 @@ The People Compliance team is the point of contact for Legal, Security Complianc
 
 ## Monthly Audits
 
-### Onboarding Issues 
+### Onboarding Issues
 
 - Completion and closure of all onboarding issues within 30 days of start date
 
@@ -30,12 +30,12 @@ The People Compliance team is the point of contact for Legal, Security Complianc
 - Proof of eligibility of work documented correctly in BambooHR
 - Accuracy of team page due to onboarding
 - Completion of PIAA for all team members
-- Documentation of correct approvals if team members request exclusions to PIAA 
+- Documentation of correct approvals if team members request exclusions to PIAA
 
 ### Offboarding Issues
 
 - Completion and closure of all offboarding issues within 30 days of offboarding date
-- Signature, documentation and retention of all offboarding agreements 
+- Signature, documentation and retention of all offboarding agreements
 - Accuracy of offboarding information properly logged in HRIS
 - Accuracy of team page due to offboarding
 
@@ -51,5 +51,5 @@ Documentation added/changed during a Country Conversion, including: mutual termi
 
 ## Ongoing and Ad-Hoc Audits
 
-Ongoing audits and compliance initiatives in Total Rewards, People Operations, and Recruiting to include offer approvals, I9 compliance, onboarding, offboarding, various systems, information transfer.
+Ongoing audits and compliance initiatives in Total Rewards, People Operations, and Talent Acquisition to include offer approvals, I9 compliance, onboarding, offboarding, various systems, information transfer.
 

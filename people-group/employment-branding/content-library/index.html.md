@@ -5,17 +5,17 @@ title: "Content library - life at GitLab"
 
 # Welcome to the life at GitLab content library
 
-This content library is a curated list of blog posts, articles, videos, awards, and quick facts that help tell the story of life at GitLab. 
+This content library is a curated list of blog posts, articles, videos, awards, and quick facts that help tell the story of life at GitLab.
 
 # How to use the content library
 
-Whether you're on the Recruiting team or another team at GitLab, we want all team members to have the information they need to spread the word about GitLab and what it's like to work here. 
+Whether you're on the Talent Acquisition team or another team at GitLab, we want all team members to have the information they need to spread the word about GitLab and what it's like to work here.
 
-Use this content library as a resource whenever you're acting as a talent ambassador for GitLab: When you're sharing on social media, having conversations with people in your network, speaking at an event, etc. 
+Use this content library as a resource whenever you're acting as a talent ambassador for GitLab: When you're sharing on social media, having conversations with people in your network, speaking at an event, etc.
 
-# Life at GitLab at a glance 
+# Life at GitLab at a glance
 
-## Quick facts  
+## Quick facts
 
 | Fact | To date 2021-03 |
 | ------ | ------ |
@@ -29,21 +29,21 @@ Source: [GitLab team page](/company/team/)
 ## Key messages about life at GitLab
 
 - We're the largest all-remote company in the world, and we've intentionally built our culture this way from our founding year.
-- GitLab is a place where you can contribute from almost anywhere around the globe. 
+- GitLab is a place where you can contribute from almost anywhere around the globe.
 - We have an incredibly unique culture and working environment that's unlike any company you've experienced. This is an ambitious, productive team that embraces a [set of shared ​values and behaviors](/handbook/values/)​ in everything we do.
 - More about [life at GitLab and our culture](/company/culture/).
 
 
 ## Key messages about diversity, inclusion, and belonging (DIB) at GitLab
 
-- Diversity, inclusion, and belonging (DIB) are fundamental to the success of GitLab. We infuse DIB in every way possible in all that we do. 
+- Diversity, inclusion, and belonging (DIB) are fundamental to the success of GitLab. We infuse DIB in every way possible in all that we do.
 - We strive for a transparent environment where all globally dispersed voices are heard and welcomed. We strive for an environment where people can show up as their full selves each day and can contribute to their best ability. And with over 100,000 organizations utilizing GitLab across the globe, we strive for a team that is representative of our users.
-- At GitLab, we have team member resource groups (TMRGs), inclusive benefits, training and development, an inclusive hiring process, outreach initiatives to underrepresented groups, a Global DIB Advisory Group, and more. 
+- At GitLab, we have team member resource groups (TMRGs), inclusive benefits, training and development, an inclusive hiring process, outreach initiatives to underrepresented groups, a Global DIB Advisory Group, and more.
 - More about [DIB at GitLab](/company/culture/inclusion/).
 
 # Awards and lists recognizing GitLab as a great place to work
 
-These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest: 
+These awards and lists recognize GitLab's unique culture and help us spread the word about why this is such a great place to work. Here are the latest:
 
 - [Best Tech Companies For Remote Jobs in 2021 according to Glassdoor, Forbes](https://www.forbes.com/sites/louiscolumbus/2020/12/20/the-best-tech-companies-for-remote-jobs-in-2021-according-to-glassdoor/?sh=2922f81c2ceb)
 - [Fortune's Best Small & Medium Workplaces in 2020](https://www.greatplacetowork.com/best-workplaces/smb/2020?category=medium)
@@ -66,11 +66,11 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 
 Coming soon: A curated list of the latest and greatest articles about GitLab, organized by topic and theme.
 
-For a daily digest of press about GitLab, as well as more detailed regional content, please follow the #newswire channel on Slack. 
+For a daily digest of press about GitLab, as well as more detailed regional content, please follow the #newswire channel on Slack.
 
 # Blogs
 
-Coming soon: Our team members have written blogs on numerous topics that are helpful to share with potential candidates and anyone interested in life at GitLab. Here's a curated list of some of the best blog posts to share, organized by topic and theme. 
+Coming soon: Our team members have written blogs on numerous topics that are helpful to share with potential candidates and anyone interested in life at GitLab. Here's a curated list of some of the best blog posts to share, organized by topic and theme.
 
 # Videos
 
@@ -91,8 +91,8 @@ There are a number of videos on our [corporate YouTube channel](https://www.yout
 If you're in need of an official GitLab logo, company description, green screens, or other press-related assets, refer to [the press kit](/press/press-kit/) on the GitLab website.
 
 
-# Contribute to the content library 
+# Contribute to the content library
 
-This content library is a work in progress. See something that's missing or want to contribute to it? Submit a merge request and tag @bchurch. 
+This content library is a work in progress. See something that's missing or want to contribute to it? Submit a merge request and tag @bchurch.
 
 [Return to the main talent brand page.](/handbook/people-group/employment-branding/)

@@ -28,7 +28,7 @@ GitLab is committed to a policy of employment and advancement based on **qualifi
 
 * Candidates for employment or current team members will not be working directly for or supervising a significant other or family member.
 * Candidates for employment or current team members will not occupy a position in the same line of authority in which team members can initiate or participate in decisions involving a direct benefit to the significant other or family member. Such decisions include hiring, retention, transfer, promotion, wages, and leave requests.
-* The team member does not have access to sensitive company and/or personal information including payroll, compensation, personnel reviews/files, job performance, etc., unless the team member's job duties require access to such information.  If the position in question requires access to such information, the team member in that position shall comply with the duty to maintain confidentiality as governed by applicable law and policy, and must seek approval from the team member's direct manager for any decisions affecting the significant other or family member's personnel information.  
+* The team member does not have access to sensitive company and/or personal information including payroll, compensation, personnel reviews/files, job performance, etc., unless the team member's job duties require access to such information.  If the position in question requires access to such information, the team member in that position shall comply with the duty to maintain confidentiality as governed by applicable law and policy, and must seek approval from the team member's direct manager for any decisions affecting the significant other or family member's personnel information.
 
 This policy applies to all current employees and candidates for employment. In the spirit of our [Transparency value](/handbook/values/#transparency), we ask the team member and the candidate to disclose the family relationship to the recruiter at the beginning of the hiring process. For purposes of this policy, a significant other or family member is any person who has a relation by blood, marriage, adoption, or domestic partnership within the third degree of our team member. If the candidate progresses through the process as a final candidate, and prior to any offer, the recruiter should notify the hiring manager and the People Business Partner of the family relationship to ensure there is not a conflict of interest.  In addition, the GitLab team member should not be part of their family member's interview process. If there is a concern that either the team member or the candidate may progress to a position that would trigger one of the conditions above a waiver will be signed by both parties acknowledging that future work assignments, promotions, etc may be impacted by enforcement of this policy. Please report any relationship with a significant other or family member to your People Business Partner, if you find yourself in a reporting relationship with the significant other or family member.  Furthermore, if two team members who are in a reporting relationship become significant others or family members in the course of their employment, they should also report the relationship to the People Business Partner.  Transfers, promotions, and future work assignments will be made in accordance with all applicable anti-discrimination laws and policies.
 
@@ -109,7 +109,7 @@ Defining the terms from the sentence above:
 1. What are we doing to get there?
    * People Operations Learning and Development team will be developing training for managers on this topic.
    * Talk about mental health issues and ideas in the [#mental_health_aware](https://gitlab.slack.com/messages/C834CM4HW) Slack channel.  Examples of what we discuss and share in there:
-     * [Imposter Syndrome](https://pbs.twimg.com/media/EboRwohXgAIYaVN.png) 
+     * [Imposter Syndrome](https://pbs.twimg.com/media/EboRwohXgAIYaVN.png)
    * GitLab would also like to encourage GitLab team-members to take their [time off](/handbook/paid-time-off) to properly take care of themselves. We encourage the team to go to yoga, take a long lunch, or anything else in their day to day life that assists in their mental and emotional well-being.
    * In addition to our current EAP programs available for employees, we encourage GitLab team-members to take a look at [Working Through It](https://www.workplacestrategiesformentalhealth.com/employee-resources/working-through-it) for insight into reclaiming well-being at work, off work, and return to work.
    * We believe that our values and culture lends itself to being able to discuss mental health open and honestly without being stigmatized, but let's work together to make it even more inclusive. For example, Finding the right words:
@@ -129,7 +129,7 @@ GitLab currently contracts with [Sterling Talent Solutions](https://www.sterling
 
 All candidates who make it to the reference stage with GitLab will undergo a background screening according to this policy and in compliance with applicable local law. Contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to GitLab. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at GitLab. In the event the background check is not available on the scheduled hire date due to delays in processing, GitLab will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
-The Candidate Experience Specialists will [initiate](/handbook/hiring/recruiting-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. The [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) will initiate all retroactive background checks for current team members.
+The Candidate Experience Specialists will [initiate](/handbook/hiring/talent-acquisition-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. The [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) will initiate all retroactive background checks for current team members.
 
 #### Disclosure and Authorization
 
@@ -141,14 +141,14 @@ Background checks will act as an additional mechanism of transparency and will h
 
 #### Review Criteria for Candidates
 
-Once the background check is completed, Candidate Experience Specialists will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.  If the report shows any omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the Candidate Experience Specialist will reach out to the aligned People Business Partner and share the report.   The PBP will review the report and initiate a background check adjudication process in consultation with Legal - Employment, and, only to the extent necessary to ensure the requisite requirements of the job, the hiring manager, VP of department and VP of recruiting:
+Once the background check is completed, Candidate Experience Specialists will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.  If the report shows any omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the Candidate Experience Specialist will reach out to the aligned People Business Partner and share the report.   The PBP will review the report and initiate a background check adjudication process in consultation with Legal - Employment, and, only to the extent necessary to ensure the requisite requirements of the job, the hiring manager, VP of department and VP of talent acquisition:
 
 - The PBP will gather the background information and make a recommendation on potential next steps to Legal - Employment
-- Legal - Employment will review the information to ensure that the adjudication process complies with applicable law in the jurisdiction 
+- Legal - Employment will review the information to ensure that the adjudication process complies with applicable law in the jurisdiction
 - In consultation with Legal - Employment, the PBP will determine whether to move forward with the candidate
 - If the decision is not to move forward with the candidate the PBP will inform the recruiter and hiring manager of the decision
 - If the decision is that the hiring process can continue the PBP will present the recommendation to the hiring manager and VP of the department for review
-- The hiring manager and the department VP will make the final decision on whether to proceed with the hire 
+- The hiring manager and the department VP will make the final decision on whether to proceed with the hire
 - The hiring manager will inform the PBP and recruiter of their final decision on whether to proceed with the hire
 
 #### Review Criteria for Current Team Members
@@ -162,7 +162,7 @@ Once the background check is completed, the People Compliance Specialist will re
 - Legal - Employment, the manager and the department VP will make the final decision on any possible actions, from a direct discussion, to PEP, or up to possible immediate termination.
 - The team member will always be given a chance to explain any convictions, omissions, inaccuracies or relevant point in their background check that is deemed material to the successful ability to fulfill their job duties.
 
-#### US Citizens only: 
+#### US Citizens only:
 
 #### Fair Credit Reporting Act (FCRA) and Related State Law Compliance
 
@@ -210,7 +210,7 @@ GitLab will adhere to all equal employment laws. When reviewing any criminal rec
 
 #### Financial Checks
 
-Finance team members **only** will be required to participate in a federal check through Sterling, which searches for any tax-related or financial offenses. See [this page](/handbook/hiring/recruiting-framework/coordinator/#step-20c-initiate-background-check) for process details.
+Finance team members **only** will be required to participate in a federal check through Sterling, which searches for any tax-related or financial offenses. See [this page](/handbook/hiring/talent-acquisition-framework/coordinator/#step-20c-initiate-background-check) for process details.
 
 ### Job Abandonment
 
@@ -225,7 +225,7 @@ GitLab understands there are extenuating circumstances that can occur. In the in
 * The team member should give their manager a heads up about the current situation should a period of unavailability be a foreseen possibility.
 * The team members and manager should consider exchanging cell phone numbers to stay in contact as much as possible in the case that the situation should escalate. If you are based in different countries, consider ensuring you and your manager both have an app that facilitates international communication (I.E. Whatsapp, Zalo, etc.). If costs are incurred when trying to contact your manager, this can be considered a business expense and can be submitted for reimbursement through [Expensify](/handbook/finance/expenses/).
 * The aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) should be looped in for visibility.
-* Consider leveraging GitLab's [unlimited time off policy](/handbook/paid-time-off/) to take the time you need. 
+* Consider leveraging GitLab's [unlimited time off policy](/handbook/paid-time-off/) to take the time you need.
 
 ### Other People Policies
 
