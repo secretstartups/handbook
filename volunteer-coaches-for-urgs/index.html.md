@@ -60,14 +60,13 @@ Here is a little bit about **FreeCodeCamp** in [their own words](https://www.fre
 
 GitLab Contact: [Greg Myers](https://gitlab.com/greg)
 
-| Volunteer   | Start  | End | Topic | 
-|-------------|--------|-----|-----|
-| Wayne Haber       | TBD | TBD | Technical career advice |
-| Greg Myers        | TBD | TBD |                         |
-| Gerardo Gutierrez | TBD | TBD |                         |
-| [Daniel Parker](/company/team/#djparker) | TBD | TBD | Javascript, Python, HTML/CSS, Project feedback, Technical career advice |
-| [Imre Farkas](/company/team/#ifarkas) | TBD | TBD | Python, Technical career advice, Tutorials & Guides |
-| You?              |     |     |                         |
+| Volunteer                                      | Start      | End | Topic                                                                   |
+| ---------------------------------------------- | ---------- | --- | ----------------------------------------------------------------------- |
+| [Wayne Haber](/company/team/#whaber)           | March 2021 | TBD | Technical career advice                                                 |
+| [Greg Myers](/company/team/#greg)              | March 2021 | TBD | HTML/CSS, Project feedback, Technical career advice, Tutorials & Guides |
+| [Gerardo Gutierrez](company/team/#ggutierrez5) | March 2021 | TBD | HTML/CSS, Python, Español, Javascript                                   |
+| [Daniel Parker](/company/team/#djparker)       | March 2021 | TBD | Javascript, Python, HTML/CSS, Project feedback, Technical career advice |
+| [Imre Farkas](/company/team/#ifarkas)          | March 2021 | TBD | Python, Technical career advice, Tutorials & Guides                     |
 
 Coaches interested in helping others in the freeCodeCamp community are encouraged to join the [freeCodeCamp Forum](https://forum.freecodecamp.org/) to help provide guidance and answer questions.
 
