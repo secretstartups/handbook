@@ -1347,7 +1347,7 @@ extras:
 
 ### Deprecations
 
-_To be added by Product Managers or Engineering Managers and merged by either. Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration) at least 2 cycles prior to the actual release when feature is removed or officially obsolete, and repeated in subsequent release posts as appropriate till complete._
+_To be added by Product Managers or Engineering Managers and merged by either. Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration) at least 2 releases prior to the actual release when feature is removed or officially obsolete, and repeated in subsequent release posts as appropriate till complete._
 
 Describe the deprecations happening in that release or in upcoming releases. Note that there are differences in [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
 so be sure to include the relevant details on when the feature will be removed from GitLab in the post. Let our community know about a future deprecation as soon as possible. When adding deprecations be sure to keep with the same structure of "XYZ feature or function will be deprecated at ABC time."
@@ -1387,7 +1387,7 @@ When approved, include the "Ready" label in the MR before merging.
 
 ### Removals
 
-_To be added by Product Managers or Engineering Managers and merged by either. Removals should be added to the release post at least 2 cycles prior to the actual release when feature is removed, and repeated in subsequent release posts as appropriate till complete._
+_To be added by Product Managers or Engineering Managers and merged by either. Removals should be added to the release post at least 2 releases prior to the actual release when feature is removed, and repeated in subsequent release posts as appropriate till complete._
 
 Describe the features that are being removed in the upcoming release. Removals should be planned.
 If possible, set up a [deprecation](#deprecation) notice at least one minor release before removing a feature.
