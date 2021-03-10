@@ -53,19 +53,20 @@ In these cases, please use the workflow below.
 
 As part of access recovery, if 2FA removal is not involved, then skip the following steps and move on to the next section.
 
-1. Apply the **"Support::SaaS::2FA::2FA Challenges"** macro if they have not answered the challenges already.
+1. Apply the [`Support::SaaS::2FA::2FA Challenges` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068) if they have not answered the challenges already.
 1. The macro marks the ticket as "Pending"
 
 #### If the user responds with the need for further verification (by answering the challenges)
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate".
 
-1. Using the [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
+1. Using the [2FA App in Zendesk](../support-ops/documentation/zendesk_global_apps.html#2fa-app), determine the appropriate data classification level and the risk factor you have determined from customer's answers to the challenges.
 
    - For almost all cases, the originating email should be the same as the one listed on the account.
    - An existing paid plain is required for 2FA resets.  However, challenge responses can be accepted from any group or project associated with the user.  This includes groups or projects that are not associated with a paid plan.
+   - Backup to app: [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only)
 
-1. Use the macro **"Support::SaaS::2FA::2FA Internal Note"** to put an internal note on the ticket. Edit with the relevant admin link and copy the bottom table from the Risk Factor Worksheet into the note.
+1. Use the macro [`Support::SaaS::2FA::2FA Internal Note`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket. Edit with the relevant admin link and copy the bottom table from the Risk Factor Worksheet into the note.
 
 1. Request that your decision be peer-reviewed by another member of the team via Slack.
 
@@ -77,7 +78,7 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
 1. For disabling 2FA: If you agree with the decision; log into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
       1. Under the account tab, click `Edit`, add an [Admin Note](/handbook/support/workflows/admin_note.html), and save.
       1. On the account tab, click on `Disable 2FA`.
-      1. Use the **"Support::SaaS::2FA::2FA Removal Verification - Successful"** macro.
+      1. Use the [`Support::SaaS::2FA::2FA Removal Verification - Successful` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103772548).
 
 #### User Fails to Prove Account Ownership
 
@@ -87,7 +88,7 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
    - Most commonly, an `Owner in the top level namespace` vouch is requested. The originating email of this request should match a verified email of the Owner's account.
    - For large organizations, please check the ZD org notes to see if they're using the [large customers](#large-customers) workflow before offering the challenge.
 1. If the user is unable to pass the selected challenges:
-   1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the **"Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed"** macro.
+   1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the [`Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103790308).
    1. Mark the ticket as "Solved"
 
 ### GitLab Team Members
@@ -166,7 +167,7 @@ Whenever possible, include the current account owner from GitLab in the conversa
 
 Once received, double check all the requested information is included. If not, let them know what's missing. 
 
-If all required elements are present, then create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using `Legal::General` macro and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
+If all required elements are present, then create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
 
 After receiving approval: add or elevate the requested user to Owner role.
 
