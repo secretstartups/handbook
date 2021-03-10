@@ -177,7 +177,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-03-01 | 2021-03-05 | No Shadows - No signups received | No Shadows - No signups received |
 | 2021-03-08 | 2021-03-12 | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
 | 2021-03-15 | 2021-03-19 | [Sarah Daily](https://gitlab.com/sdaily), Senior Marketing Operations Manager | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst |
 | 2021-03-22 | 2021-03-26 | [Darwin Sanoy](https://gitlab.com/darwinjs), Senior Solutions Architect, Alliances | [Sarah Daily](https://gitlab.com/sdaily), Senior Marketing Operations Manager |
