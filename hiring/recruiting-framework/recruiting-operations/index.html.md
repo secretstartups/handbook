@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Recruiting Process Framework - Recruiting Operations & Insights"
+title: "Talent Acquisition Process Framework - Talent Acquisition Operations & Insights"
 ---
 
 {::options parse_block_html="true" /}
@@ -11,7 +11,7 @@ title: "Recruiting Process Framework - Recruiting Operations & Insights"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Recruiting Process Framework - Recruiting Operations & Insights
+## Talent Acquisition Process Framework - Talent Acquisition Operations & Insights
 
 ### System Access
 
@@ -31,7 +31,7 @@ Sourcing Team only - please contact the Sourcing Manager.
   DocuSign
   </summary>
 
-C.E.S. and Sales Operations Team only - please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
+C.E.S. and Sales Operations Team only - please [contact the Talent Acquisition Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -90,7 +90,7 @@ TBA
 * **Requisition Approvals**
     * To re-open a closed requisition and increase the opening count:
        1. Navigate to the *Approvals* tab, select `Edit Job & Openings`
-       1. Navigate down to the *Openings* section and select `Add New`. 
+       1. Navigate down to the *Openings* section and select `Add New`.
        1. Once a new opening populates, manually add the Opening ID number. The `Hiring Manager` section should mirror the other openings.
        1. Verify with the recruiter if the opening is a Backfill or New Hire. Select `Reopen as Draft`.
        1. Restart the approval process by selecting `Request Approval`. Mark a Total Rewards approver as approved. Send a note to Finance to review the additional opening request. Be sure to cc the recruiter in that note.
@@ -136,7 +136,7 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: 
+* **Filters**:
     * Job Status = All
     * Departments = All Departments
     * Activity Date = Custom Range (Enter Desired Month)
@@ -240,7 +240,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   </summary>
 
 * **System**: Greenhouse
-* **Instructions**: Refresh the [Base] sheets, which are linked to Greenhouse via their *Google Sheets Connector*. Copy the data from the `[BASE] Prospect Conversion` and paste it into the `prospect_conversion_data` sheet, matching the existing columns. Filter the sheet by the `Converted to Candidate` column - remove "0" - then sort the sheet alphabetically by the `Prospect Pool` column. Combine all duplicates so that only aggregated pool information remains. Calculate the *Conversion Rate* (Converted to Candidate/Prospects in Pool/Stages) and use that information to update the `Historical Metrics` and `Pool Metrics` tabs. Secondly, copy the data from the `[Base] Prospecting Activity` sheet and paste that into the `prospecting_activity_data` sheet, matching the existing columns. Next, assign a *Role* to Recruiting Team Members **only** (e.g. *Recruiting Manager*, *Recruiter*, or *Sourcer*). Remove all "Blanks" from the `Role` column and calculate the *Conversion Rate* (Converted to Candidate/Prospects Added). Reference that range when updating the chart on the `Historical Metrics` tab.
+* **Instructions**: Refresh the [Base] sheets, which are linked to Greenhouse via their *Google Sheets Connector*. Copy the data from the `[BASE] Prospect Conversion` and paste it into the `prospect_conversion_data` sheet, matching the existing columns. Filter the sheet by the `Converted to Candidate` column - remove "0" - then sort the sheet alphabetically by the `Prospect Pool` column. Combine all duplicates so that only aggregated pool information remains. Calculate the *Conversion Rate* (Converted to Candidate/Prospects in Pool/Stages) and use that information to update the `Historical Metrics` and `Pool Metrics` tabs. Secondly, copy the data from the `[Base] Prospecting Activity` sheet and paste that into the `prospecting_activity_data` sheet, matching the existing columns. Next, assign a *Role* to Talent Acquisition Team Members **only** (e.g. *Talent Acquisition Manager*, *Recruiter*, or *Sourcer*). Remove all "Blanks" from the `Role` column and calculate the *Conversion Rate* (Converted to Candidate/Prospects Added). Reference that range when updating the chart on the `Historical Metrics` tab.
 
 </details>
 
@@ -297,9 +297,9 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         * Reach Milestone = Assessment
         * Job Post = Pending Submission
         * Last Activity > `2020-04-30`
-    * **Instructions**: Pull the report within Greenhouse, export- and upload it to the *Global Self-Identification Survey Data* sheet. 
+    * **Instructions**: Pull the report within Greenhouse, export- and upload it to the *Global Self-Identification Survey Data* sheet.
 * **System**: Sisense
-* **Dashboard**: [Recruiting Metrics Parul](https://app.periscopedata.com/app/gitlab/668158/WIP_Recruiting_Metrics_parul)
+* **Dashboard**: [Talent Acquisition Metrics](https://app.periscopedata.com/app/gitlab/668158/WIP_Talent-Acquisition_Metrics_parul)
     * `Screen` values only.
 * **Instructions**: Pull/refresh and import the aforementioned reports into the sheet. Update the charts to make sure they're tied to the correct ranges. The `Responses` field in the **Survey Responses** box will automatically refresh if the report is refreshed via the *Greenhouse Reports Connector* tool. The second report from Greenhouse will automatically update as well. Please make sure that the `=COUNTA()` formula is in cell `A7` so that the `Survey Sends` field to automatically updated in the **Survey Sends** box. Reference the `Screen` values in the Sisense dashboard of as May 2020 and sum all values to the current month. Enter that value in the `Hit Screening` field of each box; the corresponding percentage will automatically update. Lastly, update the appropriate cells in the `historical` tab and please be sure to refresh the range for the *Ethnicity Self-Identification Percentage* chart.
 
@@ -307,7 +307,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 <details>
   <summary markdown='span'>
-  Recruiting Team Weekly Reports
+  Talent Acquisition Team Weekly Reports
   </summary>
 
 * **System**: Greenhouse
@@ -350,14 +350,14 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   Ad Hoc Report
   </summary>
 
-For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-recruiting/operations/-/issues/new?issuable=Report%20Request) using the `Report Request` template.
+For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issuable=Report%20Request) using the `Report Request` template.
 
 </details>
 
 ----
 
 ### Common Issues
-The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues](https://gitlab.com/gl-recruiting/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Recruiting's systems.
+The Talent Acquisition Operations & Insights team utilizes [Talent Acquisition Operations Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Talent Acquisition's systems.
 
 <details>
   <summary markdown='span'>
@@ -391,7 +391,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   </summary>
 
 * "I need to update the offer details/send a new contract to the new hire. Can you please reopen this requisition?"
-    * The process to reopen a requisition for this scenario can be found in the [CES Contract Processes Handbook page](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-resend-a-contract-after-being-marked-as-hired).
+    * The process to reopen a requisition for this scenario can be found in the [CES Contract Processes Handbook page](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-resend-a-contract-after-being-marked-as-hired).
 
 </details>
 
@@ -401,6 +401,6 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   </summary>
 
 * LinkedIn Recruiter: Integration help can be found [here](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect).
-* Other Systems: If you encounter issues with other systems, please try signing-out/in, and/or clearing your cache and cookies first. If the problem still persists, please submit an  [Issues](https://gitlab.com/gl-recruiting/operations/-/issues).
+* Other Systems: If you encounter issues with other systems, please try signing-out/in, and/or clearing your cache and cookies first. If the problem still persists, please submit an  [Issues](https://gitlab.com/gl-talent acquisition/operations/-/issues).
 
-</details>    
+</details>

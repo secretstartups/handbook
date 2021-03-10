@@ -54,7 +54,7 @@ The items below should be verified before the justification is completed as they
 * If the hiring manager did not do the reference checks, explain why in the justification (as the hiring manager should be invested in the decision to hire).
 * Confirm the candidate meets the longevity requirement.
 * Confirm that all questions in all Greenhouse interview forms are not left empty. If some are left blank, it may give the reviewer the impression that the hiring process was not followed.
-* If any interviews are listed but were not performed, ask the recruiter to delete the interview record.  
+* If any interviews are listed but were not performed, ask the recruiter to delete the interview record.
 * If the candidate has a side-job (consulting or similar), explain in the justification section how it was determined that this side-job will not interfere with the candidate's responsibilities at GitLab.
 
 To create the offer package, move the candidate to the "Offer" stage in Greenhouse and select "Manage Offer." Input all required and relevant information, ensuring its correctness, and submit; then click `Request Approval`. **Please note that any changes in compensation packages will result in needing re-approval from each approver.**
@@ -63,11 +63,11 @@ To create the offer package, move the candidate to the "Offer" stage in Greenhou
 
 As we scale it is important to have some typical naming conventions when it comes to titles. Titles should follow this format: title, specialization, location. For example; Strategic Account Leader, DOD, Washington DC.
 
-It is also important to recognize when a position is a manager of people compared to a manager of a product/function. If a manager of people the job title should be manager, department/division/specialization. For example; Manager, Recruiting. A product/function manager should be titled with Manager at the end of the title. For example; Marketing Program Manager. In some cases because of industry standards, this may not be possible; i.e. Area Sales Manager (ASM), should not be listed as Manager, Area Sales.
+It is also important to recognize when a position is a manager of people compared to a manager of a product/function. If a manager of people the job title should be manager, department/division/specialization. For example; Manager, Talent Acquisition. A product/function manager should be titled with Manager at the end of the title. For example; Marketing Program Manager. In some cases because of industry standards, this may not be possible; i.e. Area Sales Manager (ASM), should not be listed as Manager, Area Sales.
 
 #### Compensation in the Offer Details
 
-When discussing a proposed compensation, the recruiting team and hiring manager should take into account the following: candidate expectations, role alignment in the market, and where within the compensation range peers are aligned internally at GitLab. The goal is to offer a [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) to the candidate while maintaining [pay equality](/handbook/people-group/people-success-performance-indicators/#pay-equality) at GitLab. 
+When discussing a proposed compensation, the talent acquisition team and hiring manager should take into account the following: candidate expectations, role alignment in the market, and where within the compensation range peers are aligned internally at GitLab. The goal is to offer a [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) to the candidate while maintaining [pay equality](/handbook/people-group/people-success-performance-indicators/#pay-equality) at GitLab.
 
 #### Other Offer Details
 
@@ -103,7 +103,7 @@ Information in the offer package for counter offers should include the following
 
 ### Final Offer Approval
 
-On offers at Director and above, approval is needed from the Chief People Officer (CPO) or the Chief Executive Officer (CEO), there is an `#offers` Slack channel where the requests should be added. The CEO or CPO should always be @mentioned for their approval. This Slack channel is private and only the recruiting team, CPO, CEO, and CFO have access to it. Please ensure your ping has:
+On offers at Director and above, approval is needed from the Chief People Officer (CPO) or the Chief Executive Officer (CEO), there is an `#offers` Slack channel where the requests should be added. The CEO or CPO should always be @mentioned for their approval. This Slack channel is private and only the talent acquisition team, CPO, CEO, and CFO have access to it. Please ensure your ping has:
 
 1. Name
 1. Position
@@ -112,13 +112,13 @@ On offers at Director and above, approval is needed from the Chief People Office
 
 The CPO and CEO appreciate the thank you messages but they also have a hard time keeping up with Slack notifications. There is no need to say thanks, but if you do please add an emoji instead of sending a message.
 
-If the offer is for a manager or individual contributor, the CPO or CEO do not need to approve.  However, please post in the '#offers' channel with "Offer has been extended for [Candidate Name] for [Position]" and a link to the candidate's Greenhouse profile. You may request the removal of the CPO/CEO from the offer approval section with a @ mention to a recruiting manager in GreenHouse or a ping in Slack.
+If the offer is for a manager or individual contributor, the CPO or CEO do not need to approve.  However, please post in the '#offers' channel with "Offer has been extended for [Candidate Name] for [Position]" and a link to the candidate's Greenhouse profile. You may request the removal of the CPO/CEO from the offer approval section with a @ mention to a talent acquisition manager in GreenHouse or a ping in Slack.
 
 ### Communicating the Offer
 
 Once the offer package has been approved by the approval chain, the verbal offer will be given, which will be followed by an official contract, which is sent through Greenhouse. During the verbal offer, it is important that the Recruiter or individual making the offer, communicate to the candidate that we will never expect anyone to join on a National Holiday in their location and if they can therefore confirm a viable start date. It is also important when communicating the offer to go over the candidate’s [employment type](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab) and [benefits](/handbook/total-rewards/benefits/).
 
-You can find more about making a verbal offer [here](/handbook/hiring/recruiting-framework/req-overview/#step-11-verbal-offer).
+You can find more about making a verbal offer [here](/handbook/hiring/talent-acquisition-framework/req-overview/#step-11-verbal-offer).
 
 Offers made to new team members should be documented in Greenhouse through the notes thread between the person authorized to make the offer and the Candidate Experience Specialist.
 

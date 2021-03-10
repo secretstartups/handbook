@@ -1,9 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Recruiting Process Framework for Creating REQs
-description: >-
-  The Recruiting Process Framework for Creating REQs provides guidance on how to
-  open a new requisition for the recruiting team.
+title: "Talent Acquisition Process Framework for Creating REQs"
+description: "The Talent Acquisition Process Framework for Creating REQs provides guidance on how to open a new requisition for the talent acquisition team."
 ---
 
 ## On this page
@@ -24,7 +22,7 @@ Prior to starting the req creation process, a Hiring Manager should follow the s
 
 ### Adding Vacancies to the Hiring Plan (DRI: Hiring Manager)
 
-The Hiring Manager carries the responsibility to ensure that vacancies in Greenhouse align to what’s included in GitLab Hiring Plan. Therefore, the Hiring Manager, Finance, and Recruiting can stay aligned on what’s in plan, so that they can track towards their predetermined hiring targets. If you are looking to add or make changes to the GitLab Hiring Plan, please visit the [Finance section of the handbook](/handbook/finance/).
+The Hiring Manager carries the responsibility to ensure that vacancies in Greenhouse align to what’s included in GitLab Hiring Plan. Therefore, the Hiring Manager, Finance, and Talent Acquisition can stay aligned on what’s in plan, so that they can track towards their predetermined hiring targets. If you are looking to add or make changes to the GitLab Hiring Plan, please visit the [Finance section of the handbook](/handbook/finance/).
 
 ### Create or Review the Job Family (DRI: Hiring Manager)
 
@@ -32,9 +30,9 @@ Once the vacancy is approved, the Hiring Manager will review the position descri
 
 ### Opening Vacancies in Greenhouse (DRI: Recruiting Manager/Lead)
 
-For positions that are included in the GitLab Hiring Plan, the Recruiting Manager will create approved in-plan requisitions.
+For positions that are included in the GitLab Hiring Plan, the Talent Acquisition Manager will create approved in-plan requisitions.
 
-**The Recruiting Manager will:**
+**The Talent Acquisition Manager will:**
 
 1. [Log in](/handbook/hiring/greenhouse/#how-to-join-greenhouse) to [Greenhouse](https://gitlab.greenhouse.io/users/sign_in) and hover over the plus sign in the top right corner of their dashboard, and then click [Create a Job](https://app2.greenhouse.io/plans/new).
 1. Click on [Start from a copy of an existing job](https://gitlab.greenhouse.io/get_started/show_existing_jobs). From there, select `Any Status` at the top bar, select `Draft`, and choose the template for the division. Please note that when creating a requisition, the `Start from Scratch` option should **not** be used, as important elements needed will **not** be included.
@@ -119,7 +117,7 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 
 **Setup Child Epic, Weekly Check-In Issue, and Kick-Off Issue**
 
-1. Create a Child Epic in the Recruiting Project. Child Epics should be created in the correct Functional Parent Epic:
+1. Create a Child Epic in the Talent Acquisition Project Project. Child Epics should be created in the correct Functional Parent Epic:
 Title: Function: Job name, Greenhouse req/opening number
 Due Date: Target Start Date
 Labels: Division and Department
@@ -192,7 +190,7 @@ Review how to make a referral: /handbook/hiring/referral-process/
     - From there, you can either click `Copy from another job?` at the bottom of the pop-up and select a vacancy you know has an assessment. Click on `Assessment`, then `Add`.
     - If you're not sure of another vacancy that has an assessment, you can scroll to the bottom of the pre-populated list and select `Take Home Test`, then `Add`.
     - Once added, hover over the new stage and click the pencil next to the stage name and change the text from `Take Home Test` to `Assessment`. Then hover over the second `Take Home Test` on the right of the stage and change the text again.
-    - The assessment stage **must** be added using one of the two methods above, or it will not work properly. If you have any questions about this, please reach out to the recruiting operations team.
+    - The assessment stage **must** be added using one of the two methods above, or it will not work properly. If you have any questions about this, please reach out to the talent acquisition operations team.
     - Once your assessment stage is created, or if it is already included, click `Edit` in the stage. You'll then want to select any attributes you want the grader of the assessment to focus on. This will typically be more technical in nature, but select whatever seems appropriate.
     - Scroll down to `Email to Candidate`. This is where you'll include the actual assessment questions. The "From" should be `{{MY_EMAIL_ADDRESS}}` and "Subject" `GitLab Application - {{CANDIDATE_NAME}} - {{JOB_NAME}} Questionnaire`. In the Body, craft an email and insert your assessment questions. Below the body, make sure that the `link for candidates to submit tests` is **ON**. You can also add any attachments below that field if necessary.
     - Scroll down to `Grading Instructions` and include any specific items you want your graders to look out for when they review the candidates' answers. You can copy this section over from another job if applicable.
@@ -244,7 +242,7 @@ Review how to make a referral: /handbook/hiring/referral-process/
 **The Candidate Experience Team will:**
 
 1. Post the vacancy to the [Careers Page](https://about.gitlab.com/jobs/careers/) once they receive notice from the recruiter.
-1. Review the configurations the Recruiting Manager and Recruiter made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
+1. Review the configurations the Talent Acquisition Manager and Recruiter made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
 1. Ensure each stage is labeled correctly for reporting purposes:
     - Get to Know Us
     - Screening

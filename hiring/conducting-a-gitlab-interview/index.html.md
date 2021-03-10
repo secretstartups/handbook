@@ -17,11 +17,11 @@ Interviewing is hard for both sides. In less than one hour, you both need to get
 
 ### Interview Training and Preparation
 
-New internal interviewers will partake in [interviewing training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md), which will be assigned by the the Candidate Experience team, or as a part of the [Becoming a GitLab Manager issue template](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md). As part of the training, team members will shadow an interviewer and be shadowed by one in order to make sure all GitLab team-members are following our interviewing processes and creating an excellent candidate experience. The interviewer who will work with the team member should be aligned with either their timezone or the role they'll be helping interview for. Feel free to ping `@gl-recruiting` in your training issue or [review our recruiting alignment ](/handbook/hiring/recruiting-alignment/) page if you are not sure which interviewer to contact, or send a message in the `#recruiting` channel in Slack.
+New internal interviewers will partake in [interviewing training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md), which will be assigned by the the Candidate Experience team, or as a part of the [Becoming a GitLab Manager issue template](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md). As part of the training, team members will shadow an interviewer and be shadowed by one in order to make sure all GitLab team-members are following our interviewing processes and creating an excellent candidate experience. The interviewer who will work with the team member should be aligned with either their timezone or the role they'll be helping interview for. Feel free to ping `@gl-talent-acquisition` in your training issue or [review our talent acquisition alignment ](/handbook/hiring/talent-acquisition-alignment/) page if you are not sure which interviewer to contact, or send a message in the `#talent-acquisition` channel in Slack.
 
 Interviews should not be recorded. For interview training, we encourage our GitLab Hiring Managers to conduct mock interviews internally, or have no more than one GitLab team member at a time shadowing live interviews.
 
-If you need to shadow interviews to complete their interview training issue, you reach out to the assigned recruiter for your department based on the [recruiting alignment](https://about.gitlab.com/handbook/hiring/recruiting-alignment/).
+If you need to shadow interviews to complete their interview training issue, you reach out to the assigned recruiter for your department based on the [talent-acquisition alignment](https://about.gitlab.com/handbook/hiring/talent-acquisition-alignment/).
 
 **Please remember that your personal meeting room that is used for scheduling interviews should *not* have passwords on them but should have the waiting room enabled.**
 
@@ -34,9 +34,9 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
 ### Best practices
 #### Before The Interview
 
-1. Ensure you've read the description of the role you're going to be interviewing candidates for. This can be found in the [job family page](/handbook/hiring/job-families/). 
+1. Ensure you've read the description of the role you're going to be interviewing candidates for. This can be found in the [job family page](/handbook/hiring/job-families/).
     * If you have any questions about the scope of the role, the team, or the responsibilities of the position after you've read through those resources be sure to reach out to the Hiring Manager with your questions.
-1. Open up the [interview kit in Greenhouse](/handbook/hiring/greenhouse/#feedback-and-interview-kits). In the interview kit, you’ll be able to view the candidate’s resume, the description of the interview you’re expected to lead, the scorecard you’ll be evaluating the candidate against, and the suggested questions you ask during the interview.  
+1. Open up the [interview kit in Greenhouse](/handbook/hiring/greenhouse/#feedback-and-interview-kits). In the interview kit, you’ll be able to view the candidate’s resume, the description of the interview you’re expected to lead, the scorecard you’ll be evaluating the candidate against, and the suggested questions you ask during the interview.
     * Look out for key criteria to focus on in the scorecard. These will be highlighted in yellow and these are the areas you **must** evaluate the candidate against at this stage of the interview process.
 1. You can read through the cover letter, portfolio, or application form responses submitted by the candidate when they applied by navigating to the candidate’s Greenhouse profile. You can navigate to their profile by following the link from their name in the interview kit. These additional resources will only be available if they were required to be supplied when the application was made or a candidate opted to submit additional information.
     * When reading through the candidate's application materials please remember that writing a good resume or cover letter is an art, and not many people master it. When you read through these materials, look for evolution rather than buzzwords, and, if something sparks your curiosity, prepare to ask about it during the interview.
@@ -53,7 +53,7 @@ All feedback should be recorded in Greenhouse and/or discussed live with the hir
 * Be aware of the kinds of questions you can and can't ask. For example, if there is a gap in employment history on a CV, you **may** ask the candidate what they did during that time to keep their skills current. You may not ask why they were absent from work as it may be related to a medical or family issue, which is protected information.
 * Refrain from asking any questions related to protected classes (for example: age, race, religion, sexual orientation, marital status, pregnancy status)
 * Protected classes differ based on the country of the candidate
-* To find out more about discrimination laws specific to the country of a candidate you're interviewing, you can reach out to the legal and/or recruiting team
+* To find out more about discrimination laws specific to the country of a candidate you're interviewing, you can reach out to the legal and/or talent acquisition team
 * Asking questions related to any of the protected classes is not only illegal, but shouldn’t be asked to determine if someone is qualified for a role
     * Some examples of illegal interview questions include:
         * So you mentioned you live with your partner earlier, are you married?
@@ -71,7 +71,7 @@ All feedback should be recorded in Greenhouse and/or discussed live with the hir
 
 * Show up prepared and on time. (See "Before The Interview" section above)
 * Be cognizant of where the candidate is at in the interview process. Are you the first interviewer? Are you the third? Be aware that the candidate has likely repeated themselves quite a bit and has already asked many of the general questions they had about the position in previous interviews.
-* Build rapport and put the candidate at ease.  Introduce yourself, tell your GitLab story, ask how the candidate is doing- banter/small talk is ok.  
+* Build rapport and put the candidate at ease.  Introduce yourself, tell your GitLab story, ask how the candidate is doing- banter/small talk is ok.
 * Talk a bit about the role (why it is open, what the job entails, etc.)
 * Set expectations on how the interview will run
 * As candidates move through the interviewing process, interviewers take notes within Greenhouse. As they move through the process, interviewers have the opportunity to review any specific notes previous interviewers have left for them, although the full feedback notes from previous interviewers are obscured from current ones in an effort to avoid creating bias. Hiring managers, executives, and people ops are able to see all feedback notes at any time.
@@ -145,10 +145,10 @@ It can also happen that the candidate does not have a story to share with you; t
 
 In Greenhouse, you will use an "interview kit" when interviewing a candidate, which has text for feedback and scorecards for skills and values.
 
-We want to highlight the strengths and weaknesses of the candidate in an easy to absorb, standardised way. Every scorecard must include Pros and Cons. This helps the recruiting team gather data that will be presented to the candidate in the form of feedback.
+We want to highlight the strengths and weaknesses of the candidate in an easy to absorb, standardised way. Every scorecard must include Pros and Cons. This helps the talent acquisition team gather data that will be presented to the candidate in the form of feedback.
 
 The bottom of the feedback form will ask for an overall recommendation on if you want to hire this person or not; please do leave a score for each candidate, and read our [handbook page discussing the scorecards and best practices](/handbook/hiring/greenhouse/#scorecards).
- 
+
 Scoring is defined as follows:
 
 ##### All divisions but Engineering

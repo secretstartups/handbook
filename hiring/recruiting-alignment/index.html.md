@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
-title: "Recruiting Alignment"
-description: "This page is an overview of the search team alignment and the recruiting platform directly responsible individual in recruiting operations and talent brand."
+title: "Talent Acquisition Alignment"
+description: "This page is an overview of the search team alignment and the talent acquisition platform directly responsible individual in talent acquisition operations and talent brand."
 ---
 
 ## Search Team Alignment by Department
@@ -12,14 +12,14 @@ description: "This page is an overview of the search team alignment and the recr
 | Enterprise Sales, NA | Marcus Carter |  Susan Hill |
 | Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu |
 | Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu |
-| Commercial Sales,	Global | Marcus Carter | Susan Hill | 
-| Channel Sales, NA | Steph Sarff |  J.D. Alex |
+| Commercial Sales,	Global | Marcus Carter | Susan Hill  |
+| Channel Sales, NA | Steph Sarff |  J.D. Alex (interim Kanwal Matharu) |
 | Channel Sales, EMEA | Debbie Harris |  Kanwal Matharu |
 | Channel Sales, APAC | Debbie Harris |  Kanwal Matharu |
-| Field Operations,	NA | Steph Sarff | J.D. Alex | 
+| Field Operations,	NA | Steph Sarff | J.D. Alex (interim Loredana Iluca) |
 | Field Operations,	EMEA | Debbie Harris | Kanwal Matharu |
 | Field Operations,	APAC | Debbie Harris |  Kanwal Matharu |
-| Customer Success, NA | Steph Sarff | J.D. Alex | 
+| Customer Success, NA | Steph Sarff | J.D. Alex (interim Kanwal Matharu) |
 | Customer Success, EMEA | Debbie Harris  | Kanwal Matharu |
 | Customer Success, APAC | Debbie Harris  | Kanwal Matharu |
 | Marketing, Global | Steph Sarff   | J.D. Alex |
@@ -34,7 +34,7 @@ description: "This page is an overview of the search team alignment and the recr
 
 The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/product/service-desk/).
 
-## Recruiting Platform Directly Responsible Individual
+## Talent Acquisition Platform Directly Responsible Individual
 
 | Platform                    | Responsibility        | DRI     |
 |--------------------------|-----------------|-----------------|
@@ -48,7 +48,7 @@ The Candidate Experience Specialist team operates off of a queue style system ut
 | LinkedIn | Admin - Recruiter  | Erich Wegscheider |
 | LinkedIn | Seats | Erich Wegscheider |
 | LinkedIn | Media - General | Marketing |
-| LinkedIn | Media - Recruiting | Betsy Church |
+| LinkedIn | Media - Talent Acquisition | Betsy Church |
 | LinkedIn | Content Management | Marketing |
 | LinkedIn | Content Management - Life at GitLab | Betsy Church |
 | New Platform(s) | Requests | @domain |

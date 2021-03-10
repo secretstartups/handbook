@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Principles"
-description: "We've intentionally crafted our hiring and recruiting practices to align with the GitLab culture, and we've outlined the foundational ethos that drives our talent ethos."
+description: "We've intentionally crafted our hiring and talent acquisition practices to align with the GitLab culture, and we've outlined the foundational ethos that drives our talent ethos."
 ---
 
 ## On this page
@@ -12,7 +12,7 @@ description: "We've intentionally crafted our hiring and recruiting practices to
 
 ## Principles of Hiring
 
-We've intentionally crafted our hiring and recruiting practices to align with the GitLab culture, and we've outlined the foundational ethos that drives our talent ethos. These principles will guide our talent strategies and tactical employment and hiring decisions. We want to state up front that one of the advantages of being a remote company is that we can hire talent from anywhere, not just the San Francisco Bay Area. We want to ensure we are finding the best talent the world has to offer. It may take more effort to find talent in more diverse places, but that is an effort we are willing to make.
+We've intentionally crafted our hiring and talent acquisition practices to align with the GitLab culture, and we've outlined the foundational ethos that drives our talent ethos. These principles will guide our talent strategies and tactical employment and hiring decisions. We want to state up front that one of the advantages of being a remote company is that we can hire talent from anywhere, not just the San Francisco Bay Area. We want to ensure we are finding the best talent the world has to offer. It may take more effort to find talent in more diverse places, but that is an effort we are willing to make.
 
 ## Collaboration
 
@@ -54,7 +54,7 @@ Equal Employment Opportunity
  national origin, age, disability, caste, class, or genetics. One example of how we put this into practice
  is through sponsorship of [diversity events](/blog/2016/03/24/sponsorship-update/)
 
- GitLab complies with all applicable laws governing nondiscrimination in employment. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer,
+ GitLab complies with all applicable laws governing nondiscrimination in employment. This policy applies to all terms and conditions of employment, including talent acquisition, hiring, placement, promotion, termination, layoff, recall, transfer,
  leaves of absence, compensation, and training. GitLab expressly prohibits any form of workplace harassment.
  Improper interference with the ability of GitLab’s team members to perform their role duties
  may result in discipline up to and including discharge. If you have any complaints, concerns,

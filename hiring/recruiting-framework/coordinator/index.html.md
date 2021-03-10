@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Candidate Experience Specialist Responsibilities"
-description: "This page is an overview of the processes, and systems that the Candidate Experience Team is responsible for." 
+description: "This page is an overview of the processes, and systems that the Candidate Experience Team is responsible for."
 ---
 
 ## On this page
@@ -18,14 +18,14 @@ The CES team operates off of a queue style system with differing levels of prior
 
 ### Best Practices
 
-- The CES team focuses their attention on incoming requests in the following order: CES Service Desk, individual emails, `@ces` slack pings, and lastly slack direct messages. 
+- The CES team focuses their attention on incoming requests in the following order: CES Service Desk, individual emails, `@ces` slack pings, and lastly slack direct messages.
 - You can find the priority list based on the type of request below:
    - 0 - Contracts
    - 1 - Reference & Background checks
    - 2 - Candidate emails
    - 3 - Reschedules
    - 4 - Schedule Interviews
-- The CES team now utilizes a new program called [Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide) to enhance the candidate experience and create a more transparent view into the recruiting processes. One of the features of the Guide is that each Greenhouse stage has a corresponding template that is automatically updated meaning that if a candidate is moved to References or Offer they will see that they are in that stage. Due to this feature, the team needs to be very conscious of when they are moving candidates inbetween stages. 
+- The CES team now utilizes a new program called [Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide) to enhance the candidate experience and create a more transparent view into the talent acquisition processes. One of the features of the Guide is that each Greenhouse stage has a corresponding template that is automatically updated meaning that if a candidate is moved to References or Offer they will see that they are in that stage. Due to this feature, the team needs to be very conscious of when they are moving candidates inbetween stages.
 
 #### How the CES Team will run the Service Desk
 
@@ -45,18 +45,18 @@ The CES team operates off of a queue style system with differing levels of prior
 
 ### Req Creation
 
-- The CES team needs to be notified once a req is approved for recruiting 
-- The Recruiter will open a req kick off issue template 
+- The CES team needs to be notified once a req is approved for recruiting
+- The Recruiter will open a req kick off issue template
    - A kick off isssue is required for all roles which includes evergreen positions
    - The kick off issue will be the SSOT for documentation regarding all CES tasks required to open a new req
-- Internal only roles need to have "Current Team Members Only" on the req name  
+- Internal only roles need to have "Current Team Members Only" on the req name
    - CES will then know to not add the role to the static site and the rest of the conpany will know that we do not accept referrals for it
 - Every kick off call will have the entire CES team invited and the team will have a rotation on which specialist will attend
 
 ### Screening
 
 - Once a candidate is moved into the Screening stage, the candidate is automatically sent the GSIS.
-- When scheduling a candidate for a screening call with a recruiter, the calendly link is to be used. We will no longer use the "Request Availability" option for screening calls as this creates unnecessary manual work  
+- When scheduling a candidate for a screening call with a recruiter, the calendly link is to be used. We will no longer use the "Request Availability" option for screening calls as this creates unnecessary manual work
    - If the candidate is sourced, the sourcer should send the calendly
    - If it's an agency candidate or a referral where the recruiter may see the candidate first, the recruiter should send their calendly link
 
@@ -70,11 +70,11 @@ The CES team operates off of a queue style system with differing levels of prior
    - CES will then set another reminder to follow up 24 hours after the initial 48 hour email and will do so via gmail as Greenhouse emails end up in spam sometimes
    - After the 3rd email to candidate with no response, the CES will make the Recruiter aware of the no response and no longer attempt to receive availability
    - Note: Greenhouse reminders should be set for "Coordinator" not a specific person
-- After availability is received, CES will schedule interviews based on the interview plans in Greenhouse   
+- After availability is received, CES will schedule interviews based on the interview plans in Greenhouse
    - CES will be using the Zoom integration with Greenhouse for interviews
-- If the candidate is an internal candidate, the CES will tag Recruiting Ops and Insights in the GH profile to merge while candidate is still in the Team Interview stage. 
+- If the candidate is an internal candidate, the CES will tag Talent Acquisition Ops and Insights in the GH profile to merge while candidate is still in the Team Interview stage.
 - CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/recruiting-framework/coordinator/#using-the-candidate-guide)
-- CES will not automatically schedule next interviews based off of scorecards 
+- CES will not automatically schedule next interviews based off of scorecards
    - The Recruiter or Hiring Manager will need to tag `@ces` in Greenhouse with communication about specific next steps
    - Any candidates who receive a no or definitely not scorecard should be discussed with the Recruiter and the Hiring Manager before declining.
 
@@ -106,21 +106,21 @@ If you have any questions about the process, please post in #eba-team slack chan
 
 Interview Schedule processes can be found [here](https://about.gitlab.com/handbook/hiring/interview-schedule/).
 
-#### Resource - Candidate Guide 
+#### Resource - Candidate Guide
 
-Please ensure you have the [guide chrome extension](https://chrome.google.com/webstore/detail/resource-button/ikeemflbkbdhkgmgbdpeapmnnggbfogd) installed on your computer. 
+Please ensure you have the [guide chrome extension](https://chrome.google.com/webstore/detail/resource-button/ikeemflbkbdhkgmgbdpeapmnnggbfogd) installed on your computer.
 
 Guide processes can be found [here](/handbook/hiring/resource-guide/).
 
 #### If a Candidate Withdraws from the Hiring Process
 
-If a candidate emails the CES Service Desk stating they would like to withdraw from the interview process, the CES should respond to the candidate's email (not the service desk ticket) and cc the recruiter (if the recruiter isn't already on the email). The CES response should not say anything definite as there may be a chance for the recruiter to reel the candidate back in. A basic response is below: 
+If a candidate emails the CES Service Desk stating they would like to withdraw from the interview process, the CES should respond to the candidate's email (not the service desk ticket) and cc the recruiter (if the recruiter isn't already on the email). The CES response should not say anything definite as there may be a chance for the recruiter to reel the candidate back in. A basic response is below:
 
-> Hi `Candidate Name`, thank you for your email. I have cc'd your recruiter in this email and if there are any additional questions, they will be in touch. 
+> Hi `Candidate Name`, thank you for your email. I have cc'd your recruiter in this email and if there are any additional questions, they will be in touch.
 
 The CES should also tag the Recruiter in the Greenhouse profile of the candidate who withdrew.
 
-The only exception to this should be for executive roles. Please just forward the withdrawal email to the Executive Recruiter and they will handle any follow-up. 
+The only exception to this should be for executive roles. Please just forward the withdrawal email to the Executive Recruiter and they will handle any follow-up.
 
 ### Reference Checks/Background Checks
 
@@ -131,9 +131,9 @@ GitLab will obtain references and complete a criminal [background check](https:/
    - CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/recruiting-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email using the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
 - The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initiate the background check process.
 - The Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
-- Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication 
+- Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication
 - Candidates in **Canada** require a form to be filled out by the employer (GitLab). The candidate will send the form with 2 forms of approved ID (listed on the form) and the CES will verify the name on each form of ID, enter it on the background check form. The CES will enter their signature on the form (either by editing a PDF or staging in DocuSign) and send back to the candidate.
-- Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner 
+- Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner
 
 For additional information on reviewing Background checks see [this page](/handbook/people-group/people-policy-directory/#background-checks).
 
@@ -146,9 +146,9 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Click `Export to Sterling`.
 1. Click `Complete Report`, which will redirect you to the Sterling website.
 1. Scroll down and click `Add Screening`.
-1. Next to `Comprehensive Criminal with Employment`, click on `Ticket`. 
+1. Next to `Comprehensive Criminal with Employment`, click on `Ticket`.
 1. Select `Add Products` and search for `FACIS® Level 3 Search` and hit Add.
-   - If you need to run a financial check as well for Finance team members, you will need to submit a second ticket. 
+   - If you need to run a financial check as well for Finance team members, you will need to submit a second ticket.
       1. After you submit a ticket for the comprehensive criminal check, navigate back to the candidate's SterlingONE profile.
       1. Click `Add Screening`.
       1. Next to `Federal Criminal District Search` click `Ticket`.
@@ -163,8 +163,8 @@ For additional information on reviewing Background checks see [this page](/handb
 
 1. Log in to [Sterling](https://www.talentwise.com/screening/login.php) and select `Quick Launch`.
 1. Click `Launch Screening`.
-1. Next to `Comprehensive Criminal with Employment` click on `Ticket`. 
-1. Select `Add Products` and search for `FACIS® Level 3 Search` and hit Add. 
+1. Next to `Comprehensive Criminal with Employment` click on `Ticket`.
+1. Select `Add Products` and search for `FACIS® Level 3 Search` and hit Add.
 1. If you need to run a credit check as well, after you click "Ticket" click "Add Products" on the right and search for "Federal Criminal Check".
 1. Check off that you agree to your obligations as a user.
 1. Enter the candidate's name and personal email address.
@@ -184,17 +184,17 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Finally, scroll to the bottom of the page and click "Send"
 1. Make a note in the Greenhouse profile that the Background Check has been started
 
-#### Escalating Criminal Charges or Employment Discrepancies 
+#### Escalating Criminal Charges or Employment Discrepancies
 
 Once the CES team gets the background checks back, if there are criminal charges or any employment verification discrepancies - the CES team will escalate to the People Business Partners.
 
-1. Gather all details you can from the Sterling report 
+1. Gather all details you can from the Sterling report
 1. Post (making sure to tag the [appropriate PBP](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division)) all details in the shared Slack channel with the PBP's `employment-criminal-escalations` with PDF version of the report
    - Make sure to include candidate's name, the job applied for, and who the hiring manager is
-1. The People Business Partners have their own criteria/process for providing their recommendation on how to proceed to the business 
+1. The People Business Partners have their own criteria/process for providing their recommendation on how to proceed to the business
 1. Once the PBP has come to a recommendation, they will share the details with that recommendation to the hiring manager
    - It is ultimately up to the business on whether they would like to proceed with the candidate
-1. If approval to move forward is given, we will upload the approval to the BambooHR profile once created 
+1. If approval to move forward is given, we will upload the approval to the BambooHR profile once created
 1. If approval is not given to move forward, the CES will loop in the Recruiter to make sure the decision and why is communicated correctly to the candidate
 
 ### Speaking with TMRG members in the hiring process
@@ -202,13 +202,13 @@ Once the CES team gets the background checks back, if there are criminal charges
 Our hiring process includes an **optional** step where candidates can request to meet with an TMRG team member. Candidates can request this at any time throughout the process, we will also proactively offer this to a candidate when they reach the reference check stage. Whether or not the candidate decides to take us up on this offer will have no impact on our overall hiring decision.
 
 When a candidate requests to meet with an TMRG team member, their Candidate Experience Specialist will do the following:
-1. Share a message in the respective TMRG Slack channel. To aide with scheduling, the message will include the candidate’s time zone and a request for volunteers who would be willing to speak to that person for a 25-minute Zoom call. 
+1. Share a message in the respective TMRG Slack channel. To aide with scheduling, the message will include the candidate’s time zone and a request for volunteers who would be willing to speak to that person for a 25-minute Zoom call.
 
 **Suggested Language**
 
 Hi, All! We're looking for a volunteer who would be willing to speak to a candidate for a 25-minute Zoom call. The candidate is located in <LOCATION>. More information regarding the purpose of this call can be found [here](https://about.gitlab.com/company/culture/inclusion/recruiting-initiatives/#speaking-with-tmrg-members-in-the-hiring-process). If you’d like to volunteer, please let me know and provide me with your Calendly link to send to the candidate. Thank you!
 
-   - Below are the slack channels you can ask for volunteers in  
+   - Below are the slack channels you can ask for volunteers in
       - #lgbtq
       - #women
       - #minoritiesintech
@@ -245,15 +245,15 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
       - Has the Entity been selected based on the New Hire's location?
    1. [Generate the contract within Greenhouse](/handbook/hiring/recruiting-framework/ces-contract-processes) using a template based on the details found in the offer package.
    1. Contact the recruiter or new team member to gather any missing pieces of information (note: the address can be found on the background check information page).
-   1. The Signatory will be either the Recruiting Manager, VP of Recruiting, Chief People Officer, or the CES for PEOs. This can be determinted by the Candidate Expereince Specialist sending a message to the Contracts to Sign channel in Slack.
+   1. The Signatory will be either the Talent Acquisition Manager, VP of Talent Acquisition, Chief People Officer, or the CES for PEOs. This can be determinted by the Candidate Expereince Specialist sending a message to the Contracts to Sign channel in Slack.
    1. The entity will be selected based on the new hire's location.
    1. Ensure that, if the contract was created outside of Greenhouse, the contract has been reviewed and approved by the Senior Director of Legal Affairs or a Total Rewards Analyst.
-   1. [Stage the contract in DocuSign from within Greenhouse](/handbook/hiring/recruiting-framework/ces-contract-processes), which emails the contract to the signing parties, with the recruiter, recruiting manager, and the hiring manager cc'd. It will be sent to the designated signatory as previously determined in Offer Details.
+   1. [Stage the contract in DocuSign from within Greenhouse](/handbook/hiring/recruiting-framework/ces-contract-processes), which emails the contract to the signing parties, with the recruiter, talent acquisition manager, and the hiring manager cc'd. It will be sent to the designated signatory as previously determined in Offer Details.
    1. When the contract is signed by all parties, the Candidate Experience Specialist will verify that the start date in Greenhouse is correct.
-     - Ensure the candidate has completed the PIAA section with either a `Yes` and the specific details **or** `None`. (Its important that it is not just a GitLab or Github link and more specific info.) 
+     - Ensure the candidate has completed the PIAA section with either a `Yes` and the specific details **or** `None`. (Its important that it is not just a GitLab or Github link and more specific info.)
      - If the candidate has specified a `Yes` and the specific details, make the People Experience team aware in our private group slack channel to kick off approval process.
-   1. **Before marking the candidate as hired** the Candidate Experience Specialist will reject the candidate from any other active roles including roles for which they are a prospect (without sending a rejection email). _NOTE: If this step is skipped, the profile will not be exported to Bamboo HR when the candidate is marked as hired._ 
-   1. **Before marking the candidate as hired** the CES will ping the recruiter and give them 24 hours to contact/reject all other active candidates. Once this is complete, the CES can proceed with hiring in GH. 
+   1. **Before marking the candidate as hired** the Candidate Experience Specialist will reject the candidate from any other active roles including roles for which they are a prospect (without sending a rejection email). _NOTE: If this step is skipped, the profile will not be exported to Bamboo HR when the candidate is marked as hired._
+   1. **Before marking the candidate as hired** the CES will ping the recruiter and give them 24 hours to contact/reject all other active candidates. Once this is complete, the CES can proceed with hiring in GH.
    1. **Before marking the candidate as hired** the CES will verify if the listed Recruiter and Coordinator in the `Details` >  `Source & Responsibility` section of the candidate's profile is correct to ensure accuracy in reporting.
    1. The CES will mark the candidate as "Hired" in Greenhouse: _when prompted, select the option to close the req._ Please note, the new hire's BambooHR profile will be generated automatically by the [Greenhouse to BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) that runs every 15 minutes.
    1. Once the new hire's profile in BambooHR is generated, The Candidate Experience Specialist will upload the signed contract and the completed background check into the BambooHR profile.
@@ -266,13 +266,13 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
 It is **important** that the Candidate Experience Specialist notifies the People Experience Team of any important changes regarding the new team member, which also ensures the new team members are handed off properly to the People Experience Team.
 
 ### How to Unhire a Candidate After Contract is Signed
-If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab. 
+If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab.
 
 If they have been hired in Greenhouse and exported to BambooHR, follow these steps:
 1. Unhire the candidate in Greenhouse.
 1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
 1. Cancel any scheduled emails in Greenhouse.
-1. Tag the Senior Director, People Success in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the Senior Director, People Success) can remove the profile, this is why this step is so important. 
+1. Tag the Senior Director, People Success in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the Senior Director, People Success) can remove the profile, this is why this step is so important.
 1.  If they were hired via a PEO, inform the contact person of this change immediately, ideally before onboarding starts.
 
 ### Mid-Point Check-In Follow up

@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Hiring"
-description: "Landing page for many of the handbook pages the recruiting team at GitLab uses."
+description: "Landing page for many of the handbook pages the talent acquisition team at GitLab uses."
 ---
 
 ## On this page
@@ -13,8 +13,8 @@ description: "Landing page for many of the handbook pages the recruiting team at
 ## Hiring pages
 
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
-- [Data Driven Recruiting](/handbook/hiring/data-driven-recruiting)
-- [Diversity, Inclusion & Belonging  Recruiting Initiatives](/handbook/hiring/d-&-i-recruiting-initiatives)
+- [Data Driven Talent Acquisition](/handbook/hiring/data-driven-talent-acquisition)
+- [Diversity, Inclusion & Belonging  Talent Acquisition Initiatives](/handbook/hiring/d-&-i-talent-acquisition-initiatives)
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [Hiring Charts](/handbook/hiring/charts/)
 - [Interviewing](/handbook/hiring/interviewing/)
@@ -23,10 +23,10 @@ description: "Landing page for many of the handbook pages the recruiting team at
 - [Job Offers and Post-Interview Processes](/handbook/hiring/offers/)
 - [Preferred Companies to Recruit from](/handbook/hiring/preferred-companies/)
 - [Principles](/handbook/hiring/principles/)
-- [Recruiting Alignment](/handbook/hiring/recruiting-alignment/)
-- [Recruiting Metrics Process](/handbook/hiring/metrics/)
-- [Recruiting Privacy Policy](/handbook/hiring/recruitment-privacy-policy/)
-- [Recruiting Process Framework](/handbook/hiring/recruiting-framework/)
+- [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
+- [Talent Acquisition Metrics Process](/handbook/hiring/metrics/)
+- [Talent Acquisition Privacy Policy](/handbook/hiring/recruitment-privacy-policy/)
+- [Talent Acquisition Process Framework](/handbook/hiring/recruiting-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
 - [Referral Process](/handbook/hiring/referral-process/)
 - [Resource Guide](/handbook/hiring/resource-guide/)

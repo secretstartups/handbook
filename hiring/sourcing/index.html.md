@@ -13,66 +13,66 @@ description: "Sourcing has proved itself to be a great channel for attracting th
 ## Purpose of Sourcing
 
 The speed with which we can grow our team is dependent on the rate at which we
-find qualified candidates, and the purpose of sourcing is to generate a large list of qualified potential candidates for our open roles. 
+find qualified candidates, and the purpose of sourcing is to generate a large list of qualified potential candidates for our open roles.
 
-Sourcing has proved itself to be a great channel for attracting the best talent. It allows us to grow GitLab and build an even more diverse team in the most efficient way possible, while also sustaining our culture. 
+Sourcing has proved itself to be a great channel for attracting the best talent. It allows us to grow GitLab and build an even more diverse team in the most efficient way possible, while also sustaining our culture.
 
 ## Sourced vs. Prospect
 
-**Sourced** - a candidate who is IQA (Interested, Qualifed, Available). This candidate has shown interest and is scheduled to speak with someone (Recruiter/Hiring Manager) at GitLab.   
-**Prospect** - a candidate that looks good based on the information we have available (LinkedIn, Blogs, Conference Talks, etc.). The candidate has been approached by the Recruiting team (but we do not have any response or anything scheduled with them) or has joined our [Talent Community](https://about.gitlab.com/jobs/careers/). 
+**Sourced** - a candidate who is IQA (Interested, Qualifed, Available). This candidate has shown interest and is scheduled to speak with someone (Recruiter/Hiring Manager) at GitLab.
+**Prospect** - a candidate that looks good based on the information we have available (LinkedIn, Blogs, Conference Talks, etc.). The candidate has been approached by the Talent Acquisition team (but we do not have any response or anything scheduled with them) or has joined our [Talent Community](https://about.gitlab.com/jobs/careers/).
 
 ## How to Source Candidates
 
-"Sourcing", in general, means that you **don't** know and would **not** be able to speak about the candidate confidently in a professional sense with GitLab. At best, your sentiment might be, *"They seem qualified"*. 
+"Sourcing", in general, means that you **don't** know and would **not** be able to speak about the candidate confidently in a professional sense with GitLab. At best, your sentiment might be, *"They seem qualified"*.
 If you'd like to start contributing to our sourcing efffort - we recommend you going through our internal [Sourcing Guide](https://docs.google.com/presentation/d/1M03qxZn9hy5pdeafvGabrQEeovtfvby7Vyc-FC620ts/edit), that contains a lot of useful sourcing tips & tricks and gathers together our team resources.
 
-Note: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - please refer them by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission)
+Note: If you **know** a candidate from school, previous companies, seminars... even among your neighbors or family members - please refer them by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-talent-acquisition/referrals/-/issues/new?issuable_template=Referral%20Submission)
 More information about the **Referrals** can be found on the [Referral Process](/handbook/hiring/referral-process/) page.
 
-For anyone that you **do not** have a personal relationship with, please add them as a *Prospect* in Greenhouse and keep in mind that **Greenhouse is our single source of truth**. Here's how to do that: 
+For anyone that you **do not** have a personal relationship with, please add them as a *Prospect* in Greenhouse and keep in mind that **Greenhouse is our single source of truth**. Here's how to do that:
 
 1. Check on Greenhouse if the prospect/candidate already exists in our ATS
  (Pay attention to activities on Linkedin and search for the candidate's name on Greenhouse. You can also use [Greenhouse Prospecting plugin](https://support.greenhouse.io/hc/en-us/articles/115005706843-Install-Greenhouse-Prospecting-Chrome-Plugin)).
-2. Click the **"+"** button, then click **Add a Candidate** 
+2. Click the **"+"** button, then click **Add a Candidate**
 3. Switch to the **Prospect** tab and complete the intake form
 4. **After** receiving confirmation from a *Prospect* about moving forward with a vacancy you can convert them into a *Candidate*
 
-*Step by step example*: I've found someone who might be suitable for our Backend Engineer role, simply use their name or email address to check on Greenhouse to see their status 
---> Add them as a *prospect* on Greenhouse 
+*Step by step example*: I've found someone who might be suitable for our Backend Engineer role, simply use their name or email address to check on Greenhouse to see their status
+--> Add them as a *prospect* on Greenhouse
 --> Once they replied with interests, please convert them into *Candidates* on the Greenhouse!
 You can also check out our [Greenhouse Tips and Tricks](https://docs.google.com/document/d/1BbO5v_IJEq4QR9KpI7T3fSCwdCapVOZCyNgEk6MYO0s/) document to find more information on Greenhouse usage.
 
 **About Sourcing Channels**
 
-The most efficient way to source candidates for any vacancy is to search through a professional network, such as LinkedIn, AngelList, etc. 
+The most efficient way to source candidates for any vacancy is to search through a professional network, such as LinkedIn, AngelList, etc.
 Professional networks make it easy to scan a person's skill set and professional background quickly and efficiently and are designed to present their best impression to potential employers.
 
-We encourage our team members to think out of the box and source creatively! For some positions, other networks may prove useful as well - 
+We encourage our team members to think out of the box and source creatively! For some positions, other networks may prove useful as well -
 for example, we are looking for someone who has public speaking experience combined with specific tech expertise.
 Sourcer can go on Youtube and search for candidates who have spoken at the seminars or professional conferences before and try to search for the person's name and suitable ways to contact them.
 
 **About Reaching Out to Candidates**
 
 When you have identified someone as a good potential candidate, send their
-profile along with any requested information to a Sourcer so they can reach out to 
+profile along with any requested information to a Sourcer so they can reach out to
 the candidate and add them to Greenhouse. You can check the Sourcer alignment
-[here](/handbook/hiring/recruiting-alignment/).
+[here](/handbook/hiring/talent-acquisition-alignment/).
 
 If you want to reach out to a sourced candidate directly you can refer to our internal [Reach out Templates deck](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing), check out the internal [Sourcing emails repo](https://gitlab.com/gitlab-com/people-group/sourcing-emails) or create your own message. Kindly discuss your communication strategy with your
 Sourcing partner to avoid duplication and poor candidate experience.
 
 Take a look at these [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) for the latest team member count, employer awards, blog posts, and more facts about working at GitLab. These resources are meant to help guide your outreach to potential candidates.
 
-**Engagement of Candidates within the Recruiting Team** 
+**Engagement of Candidates within the Talent Acquisition Team**
 
 The process of contacting the candidates are as per the following scenarios:
 
-1. Re-contacting the candidate for the same position: If the candidate hasn't replied to the previous inmails, the other sourcer should recontact the candidate after 3 months. 
+1. Re-contacting the candidate for the same position: If the candidate hasn't replied to the previous inmails, the other sourcer should recontact the candidate after 3 months.
 2. Re-contacting the candidate for the same/another position: If the candidate failed in the previous onsite/phone interview, we suggest other sourcer recontact them after 6 months.
-3. Re-contacting the candidate for another position: A Sourcer can reach out to the candidates if they haven't responded from the past inmails. Please consult with the other Sourcer who contacted them previously and take a call.  
+3. Re-contacting the candidate for another position: A Sourcer can reach out to the candidates if they haven't responded from the past inmails. Please consult with the other Sourcer who contacted them previously and take a call.
 
-**Diversity** - In accordance to our [values](/company/culture/inclusion/#values) of diversity, inclusion and belonging, and to build teams as diverse as our users, Recruiting provides a collection of diversity sourcing tools [here](https://docs.google.com/spreadsheets/d/1Hs3UVEpgYOJgvV8Nlyb0Cl5P6_8IlAlxeLQeXz64d8Y/edit#gid=2017610662) to expand our hiring teams’ candidate pipelines. If you have any questions on how to implement these resources into your current sourcing strategy or have suggestions for new tools, please reach out to the Recruiting team.
+**Diversity** - In accordance to our [values](/company/culture/inclusion/#values) of diversity, inclusion and belonging, and to build teams as diverse as our users, Talent Acquisition provides a collection of diversity sourcing tools [here](https://docs.google.com/spreadsheets/d/1Hs3UVEpgYOJgvV8Nlyb0Cl5P6_8IlAlxeLQeXz64d8Y/edit#gid=2017610662) to expand our hiring teams’ candidate pipelines. If you have any questions on how to implement these resources into your current sourcing strategy or have suggestions for new tools, please reach out to the Talent Acquisition team.
 
 ## Upgrading your LinkedIn account
 
@@ -84,52 +84,52 @@ You can request one of the following seats (we recommend requesting a **Recruite
 * A **Recruiter** seat allows a user to create projects, search for prospective candidates, send InMails, and enable the integration with Greenhouse.
     * If requesting a **Recruiter** seat with the intention of messaging prospective candidates, please familiarize yourself with LinkedIn's [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181).
 
-Based on LinkedIn's research, passive candidates are more likely to respond to direct outreach from the hiring team member than from a recruiting team. 
-That's why we're encouraging greater adoption and use of **LinkedIn Recruiter** company-wide. 
+Based on LinkedIn's research, passive candidates are more likely to respond to direct outreach from the hiring team member than from a talent acquisition team.
+That's why we're encouraging greater adoption and use of **LinkedIn Recruiter** company-wide.
 
 **New to LinkedIn?** Use LinkedIn [Boolean hacks spreadsheet](https://docs.google.com/spreadsheets/d/1wRGwx_GT14udxnoMOF-gP2XQaRhJA_8bEVwWwIdBio4/edit#gid=666961789).
-Follow the instruction on the sheet, discuss with your Sourcing partner the keywords. 
+Follow the instruction on the sheet, discuss with your Sourcing partner the keywords.
 
 Please reach out to your recruiter for tips on how to improve your LinkedIn profile, write an *InMail*, and use *Projects*.
 
 To note, we **won't** be able to reimburse any LinkedIn seats purchased at your own expense.
 
 ## Reach out to the Sourcing Team
-If you're not sure who is your Sourcing Partner, please visit our [Recruiting Alignment](https://about.gitlab.com/handbook/hiring/recruiting-alignment/) page or reach out to the Sourcing Manager. 
-We welcome knowledge sharing within the team and use #sourcing-hacks Slack channel for market and industry updates and would appreciate your contributions. 
+If you're not sure who is your Sourcing Partner, please visit our [Talent Acquisition Alignment](https://about.gitlab.com/handbook/hiring/talent-acquisition-alignment/) page or reach out to the Sourcing Manager.
+We welcome knowledge sharing within the team and use #sourcing-hacks Slack channel for market and industry updates and would appreciate your contributions.
 If you'd like to tag the Sourcing team in an issue or merge request, you can use the `@gl-sourcing` handle.
 
 ## Sourcing Sessions
-Sourcing Session is a required step of the recruiting process for every role at GitLab. 
+Sourcing Session is a required step of the talent acquisition process for every role at GitLab.
 These sessions help us to ensure that we look for outbound talent and leverage our sourcing effort
 for all the roles we’re hiring for.
 
-Once a new role is opened, Sourcer assigned to the role will discuss with Recruiter and Hiring Manager 
+Once a new role is opened, Sourcer assigned to the role will discuss with Recruiter and Hiring Manager
 who should participate in the Sourcing session and schedule it within 5 business days after the kickoff call.
 
-You can find more information about Sourcing Sessions on the [Recruiting Process](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session) page.
+You can find more information about Sourcing Sessions on the [Talent Acquisition Process](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session) page.
 
 ## Source-A-Thons
 
 ### Intro
 
-As our company continues to see rapid growth, we need to aim to hire the best talent out there and we want all GitLab team members to partner with the Recruiting team on building the greatest GitLab crew!
+As our company continues to see rapid growth, we need to aim to hire the best talent out there and we want all GitLab team members to partner with the Talent Acquisition team on building the greatest GitLab crew!
 We ask you all to contribute by digging into LinkedIn or your favorite social
 media space and add candidates to the spreadsheet or LinkedIn project.
 By doing this, we are reaching out to people that are very closely aligned with
-the team’s needs and finding better-suited candidates. Source-a-thons also servce as an important source of potential candidates from diverse locations and backgrounds. 
+the team’s needs and finding better-suited candidates. Source-a-thons also servce as an important source of potential candidates from diverse locations and backgrounds.
 
 ### Source-a-thon participants
 
-* Members of the Recruiting Team (Recruiter/Sourcer/CES). If a source-a-thon is organized internally by the Recruiting team, it is mandated for all the Sourcers to participate in their respective functional positions.  
-* Hiring manager (might be optional if a source-a-thon is organized internally by the Recruiting team).
-* Members of the team we’re sourcing for (might be optional if a source-a-thon is organized internally by the Recruiting team).
+* Members of the Talent Acquisition Team (Recruiter/Sourcer/CES). If a source-a-thon is organized internally by the Talent Acquisition team, it is mandated for all the Sourcers to participate in their respective functional positions.
+* Hiring manager (might be optional if a source-a-thon is organized internally by the Talent Acquisition team).
+* Members of the team we’re sourcing for (might be optional if a source-a-thon is organized internally by the Talent Acquisition team).
 * All other team members willing to participate are welcome!
 
 ### How to organize
 
-* Hiring manager requests the Recruiter and/or Sourcer to organize a Source-a-thon stating the desired time and participant list. Hiring Manager should remember our commitment to hiring a diverse and inclusive workforce when selecting participants and times (for geographic diversity) for Source-a-thons. Internal source-a-thons could be organized by any member of the Recruiting team;
-* the Recruiter and/or Sourcer creates a Source-a-thon issue using the [GitLab Source-a-thon Template](https://gitlab.com/gitlab-com/people-group/recruiting/-/blob/master/.gitlab/issue_templates/source-a-thon.md) with all knowledge gathered from the hiring team to give to the participants; then also adds a Project within LinkedIn Recruiter specifially for the Source-a-thon event;
+* Hiring manager requests the Recruiter and/or Sourcer to organize a Source-a-thon stating the desired time and participant list. Hiring Manager should remember our commitment to hiring a diverse and inclusive workforce when selecting participants and times (for geographic diversity) for Source-a-thons. Internal source-a-thons could be organized by any member of the Talent Acquisition team;
+* the Recruiter and/or Sourcer creates a Source-a-thon issue using the [GitLab Source-a-thon Template](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/blob/master/.gitlab/issue_templates/source-a-thon.md) with all knowledge gathered from the hiring team to give to the participants; then also adds a Project within LinkedIn Recruiter specifially for the Source-a-thon event;
 * the Recruiter and/or Sourcer schedules a calendar event, adds Zoom link and asks the participants to add and save all the sourced candidates in LinkedIn project; Hiring Managers distribute the opportunity to participate widely in Slack channels and team meetings.
 * the Recruiter and/or Sourcer should make sure that all invited team members have their LinkedIn account set up before the source-a-thon. For more information please refer to the [Upgrading your LinkedIn account](/handbook/hiring/sourcing/#upgrading-your-linkedin-account) section.
 
@@ -137,15 +137,15 @@ the team’s needs and finding better-suited candidates. Source-a-thons also ser
 
 * Source-a-thon is limited by 30 minutes but you can also contribute to it asynchronously.
 * We expect that team members can still add sourced candidates during 24 hours after the source-a-thon.
-* First 5 minutes is devoted to role description - Hiring manager or member of the Recruiting team should share must-haves/nice-to-haves with the team and answer all the questions regarding the role.
+* First 5 minutes is devoted to role description - Hiring manager or member of the Talent Acquisition team should share must-haves/nice-to-haves with the team and answer all the questions regarding the role.
 * All other time is devoted to sourcing and adding profiles into the spreadsheet or LinkedIn project.
-* 1 day after the meeting the Sourcer responsible for the role will reach out to the relevant profiles, and add them to Greenhouse as Prospects. 
+* 1 day after the meeting the Sourcer responsible for the role will reach out to the relevant profiles, and add them to Greenhouse as Prospects.
 
 ### Source-a-thon targets
 
 * Manager can set up a requirement for the minimum number of candidates each participant should add
 * Manager can also require their team to attend a source-a-thon or source candidates prior to/24 hours after the meeting.
-* Go through the requirement thoroughly and set a target to source the maximum qualified candidates and not focus on the quantity. 
+* Go through the requirement thoroughly and set a target to source the maximum qualified candidates and not focus on the quantity.
 
 ## What We Do With Potential Candidates
 
@@ -154,7 +154,7 @@ Save the sourcing strings for future reference to the project to help generate n
 When you source a candidate and provide their information to our sourcing team,
 you can expect that they will receive an email or inmail asking them if they’re interested
 in talking about an opportunity to discuss the position. The sourcer will then upload their
-profile from LinkedIn to our applicant tracking system and tag their name as sourcer to 
+profile from LinkedIn to our applicant tracking system and tag their name as sourcer to
 follow their candidacy through the process.
 
 We do try to personalize these emails or inmails as much as feasibly possible so that they
@@ -162,7 +162,7 @@ are not impersonal or "spammy," and we rely on the team sourcing to identify
 relevant and qualified candidates to ensure these messages are as meaningful as
 possible.
 
-## Examples for sourcing: 
+## Examples for sourcing:
 
 #### LinkedIn Sourcing
 
@@ -175,7 +175,7 @@ Don't have time to set up your own boolean search? Use our [smart boolean search
 2. Filter by job  -> All reqs
 (now our full GitLab Talent Community is shown)
 3. Search with specific keywords/skills in the top left search bar. Turn on the "Full Text Search" function to get more results.
-4. Search using tags as filters. Profile details -> Candidate Tags 
+4. Search using tags as filters. Profile details -> Candidate Tags
 
 **How to source through LinkedIn our Greenhouse database**
 
@@ -186,7 +186,7 @@ You can download in bulk in an XLS file several profiles and you can run your se
 
 ## Sourcing for specific Teams
 
-Teams might have different hiring criterias depending on technology, field, product area etc. This can also change with time. Sometimes we might need a candidate who needs a clearance or has multiple endorsements for Ruby, tenure at established/strong Rails companies, startup/product experience or has to meet our longevity requirements. To make sure you search is aligned with the specifics of that role/team check the [kickoff meeting details of that role](/handbook/hiring/recruiting-framework/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session).
+Teams might have different hiring criterias depending on technology, field, product area etc. This can also change with time. Sometimes we might need a candidate who needs a clearance or has multiple endorsements for Ruby, tenure at established/strong Rails companies, startup/product experience or has to meet our longevity requirements. To make sure you search is aligned with the specifics of that role/team check the [kickoff meeting details of that role](/handbook/hiring/talent-acquisition-framework/#step-3-complete-intake-session-agree-on-priority-level--complete-a-sourcing-session).
 
 Here's an example workflow for sourcing **Product Design** candidates:
 
@@ -213,6 +213,6 @@ Here's an example workflow for sourcing **Product Design** candidates:
 **Some things to keep in mind when sourcing Product Designers:**
 
 * Some Product Designers will link their portfolio directly from their Linkedin profile. You will see a link to `portfolio` on their profile, it can found below their profile header, and above their background summary.
-* `Enterprise` is a powerful boolean search modifier when sourcing for GitLab. Many product design candidates who have the type of experience we look for will list enterprise software, enterprise teams, enterprise products, or enterprise applications within their online profile.  
+* `Enterprise` is a powerful boolean search modifier when sourcing for GitLab. Many product design candidates who have the type of experience we look for will list enterprise software, enterprise teams, enterprise products, or enterprise applications within their online profile.
 * Occasionally a Google search for `Portfolio (insert candidate name)` can successfully bring up the candidate's online work. However, this work may be out of date, not representative of the Product Designer's current skill set, or the work of somebody else (this is especially common when a Product Designer has a commonly held name).
-* Spending more than 30 seconds searching for someone's portfolio isn't advised as the Recruiter can ask potential candidates for this during any early discussions.  
+* Spending more than 30 seconds searching for someone's portfolio isn't advised as the Recruiter can ask potential candidates for this during any early discussions.

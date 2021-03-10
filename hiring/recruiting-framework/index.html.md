@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Recruiting Process Framework"
+title: "Talent Acquisition Process Framework"
 description: "This page is an overview of the processes each party of the search team is responsible for. It links each party or process."
 ---
 
@@ -10,14 +10,14 @@ description: "This page is an overview of the processes each party of the search
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Recruiting Process Framework
+## Talent Acquisition Process Framework
 
-   - [Acquisitions](/handbook/hiring/recruiting-framework/acquisitions/)
-   - [Candidate Experience Specialist Responsibilities](/handbook/hiring/recruiting-framework/coordinator/)
-   - [How to Complete a Contract - CES Process](/handbook/hiring/recruiting-framework/ces-contract-processes/)
-   - [Hiring Manager Processes](/handbook/hiring/recruiting-framework/hiring-manager/)
-   - [Req Creation Process](/handbook/hiring/recruiting-framework/req-creation/)
-   - [Req Overview Processes](/handbook/hiring/recruiting-framework/req-overview/)
-   - [Recruiting Operations & Insights Processes](/handbook/hiring/recruiting-framework/recruiting-operations-insights)
-   - [Talent Community Processes](/handbook/hiring/recruiting-framework/talent-community/)
-   - [Candidate Management Processes](/handbook/hiring/recruiting-framework/candidate-management/)
+   - [Acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/)
+   - [Candidate Experience Specialist Responsibilities](/handbook/hiring/talent-acquisition-framework/coordinator/)
+   - [How to Complete a Contract - CES Process](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/)
+   - [Hiring Manager Processes](/handbook/hiring/talent-acquisition-framework/hiring-manager/)
+   - [Req Creation Process](/handbook/hiring/talent-acquisition-framework/req-creation/)
+   - [Req Overview Processes](/handbook/hiring/talent-acquisition-framework/req-overview/)
+   - [Talent Acquisition Operations & Insights Processes](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights)
+   - [Talent Community Processes](/handbook/hiring/talent-acquisition-framework/talent-community/)
+   - [Candidate Management Processes](/handbook/hiring/talent-acquisition-framework/candidate-management/)

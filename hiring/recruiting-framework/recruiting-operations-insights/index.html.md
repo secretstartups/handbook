@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Recruiting Process Framework - Recruiting Operations & Insights"
-description: "This page is an overview of the processes, reports, and systems that the Recruiting Operations & Insights Team is responsible for." 
+title: "Talent Acquisition Process Framework - Talent Acquisition Operations & Insights"
+description: "This page is an overview of the processes, reports, and systems that the Talent Acquisition Operations & Insights Team is responsible for."
 ---
 
 {::options parse_block_html="true" /}
@@ -12,9 +12,9 @@ description: "This page is an overview of the processes, reports, and systems th
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Recruiting Process Framework - Recruiting Operations & Insights
+## Talent Acquisition Process Framework - Talent Acquisition Operations & Insights
 
-This page is an overview of the processes, reports, and systems that the Recruiting Operations & Insights Team is responsible for. While [Issues](https://gitlab.com/gl-recruiting/operations/-/issues/new) are best medium for fielding questions related to the aforementioned topics, we hold [Office Hours](https://docs.google.com/document/d/1JdyLg8OvYpGGLoNGpP6HhXvuoxInccZrpNJmX3pp91Y/edit) on the fourth Wednesday of each month at 11:00 am ET (3:00 pm GMT).
+This page is an overview of the processes, reports, and systems that the Talent Acquisition Operations & Insights Team is responsible for. While [Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new) are best medium for fielding questions related to the aforementioned topics, we hold [Office Hours](https://docs.google.com/document/d/1JdyLg8OvYpGGLoNGpP6HhXvuoxInccZrpNJmX3pp91Y/edit) on the fourth Wednesday of each month at 11:00 am ET (3:00 pm GMT).
 
 ### System Access
 
@@ -34,7 +34,7 @@ Sourcing Team only - please contact the Sourcing Manager.
   DocuSign
   </summary>
 
-Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
+C.E.S. and Sales Operations Team only - please [contact the Talent Acquisition Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
 
 </details>
 
@@ -112,7 +112,7 @@ TBA
 * **Requisition Approvals**
     * To re-open a closed requisition and increase the opening count:
        1. Navigate to the *Approvals* tab, select `Edit Job & Openings`
-       1. Navigate down to the *Openings* section and select `Add New`. 
+       1. Navigate down to the *Openings* section and select `Add New`.
        1. Once a new opening populates, manually add the Opening ID number. The `Hiring Manager` section should mirror the other openings.
        1. Verify with the recruiter if the opening is a Backfill or New Hire. Select `Reopen as Draft`.
        1. Restart the approval process by selecting `Request Approval`. Mark a Total Rewards approver as approved. Send a note to Finance to review the additional opening request. Be sure to cc the recruiter in that note.
@@ -139,29 +139,29 @@ TBA
        1. Click `Assign seat`, select the `Seat type`, enter the Team Member's email, then click `Add`.
   * To park (i.e. deactivate) a seat, please do the following:
        1. Log into LinkedIn, then click the `Recruiter` icon in the upper-right corner.
-       1. Hover over your profile picture, then select `Manage user` from the menu. 
+       1. Hover over your profile picture, then select `Manage user` from the menu.
        1. Search for the Team Member in the `Search for seat holders by name` search bar.
        1. Click `Edit`, then `Park seat` to deactivate the seat.
-           * If the Team Member is a member of the *Recruiting-* or *Sourcing Team*, please use the `Reassign seat` option and assign their seat to their Manager.
-* **Managing LinkedIn Recruiter tags** 
+           * If the Team Member is a member of the *Talent Acquisition-* or *Sourcing Team*, please use the `Reassign seat` option and assign their seat to their Manager.
+* **Managing LinkedIn Recruiter tags**
     * For admins only: Navigate to `Product Settings` after hovering over your user icon. Under `Recruiter Settings`, select `Tags`.
 * **Troubleshooting Platform Errors and Issues**
     * If and when you encounter an error/issue with LinkedIn that you're unable to solve for, you can take one of two actions.
         1. Email GitLab's *Customer Success Manager* or...
-        1. Submit a ticket by visiting the following link: https://www.linkedin.com/help/recruiter/ask. 
-* **Changing a Hiring Manager Seat to a Recruiter Seat** 
-    * Submit a ticket by visiting the following link: https://www.linkedin.com/help/recruiter/ask.          
+        1. Submit a ticket by visiting the following link: https://www.linkedin.com/help/recruiter/ask.
+* **Changing a Hiring Manager Seat to a Recruiter Seat**
+    * Submit a ticket by visiting the following link: https://www.linkedin.com/help/recruiter/ask.
 
 </details>
 
 ### Project Access
 
-The Recruiting Operations and Insights team audits users and access level permissions of the Recruiting group on a monthly basis.
+The Talent Acquisition Operations and Insights team audits users and access level permissions of the Talent Acquisition group on a monthly basis.
 
 ----
 ### Reporting
 
-To note: When preparing reports, please be mindful that **not** all roles are subject to a `Location Factor`. However, despite a role **not** being subject to one, we will still report it. The reason being is to have a comprehensive view of `Location Factors` in our hiring efforts. To accommodate this, two averages will be calculated; one of the overall average that **includes** all roles and another that **excludes** the roles where it is not applicable. 
+To note: When preparing reports, please be mindful that **not** all roles are subject to a `Location Factor`. However, despite a role **not** being subject to one, we will still report it. The reason being is to have a comprehensive view of `Location Factors` in our hiring efforts. To accommodate this, two averages will be calculated; one of the overall average that **includes** all roles and another that **excludes** the roles where it is not applicable.
 
 Please see the list below of roles where `Location Factor` is **not** applicable:
 
@@ -191,7 +191,7 @@ Please see the list below of roles where `Location Factor` is **not** applicable
   * SMB Customer Advocate
   * Strategic Account Leader
 
-</details>  
+</details>
 
 #### Monthly Metrics Reports
 
@@ -227,7 +227,7 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
   </summary>
 
 * **System**: Greenhouse
-* **Filters**: 
+* **Filters**:
     * Job Status = All
     * Departments = All Departments
     * Activity Date = Custom Range (Enter Desired Month)
@@ -354,9 +354,9 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         * Reach Milestone = Assessment
         * Job Post = Pending Submission
         * Last Activity > `2020-04-30`
-    * **Instructions**: Pull the report within Greenhouse, export- and upload it to the *Global Self-Identification Survey Data* sheet. 
+    * **Instructions**: Pull the report within Greenhouse, export- and upload it to the *Global Self-Identification Survey Data* sheet.
 * **System**: Sisense
-* **Dashboard**: [Recruiting Metrics Parul](https://app.periscopedata.com/app/gitlab/668158/WIP_Recruiting_Metrics_parul)
+* **Dashboard**: [Talent Acquisition Metrics Parul](https://app.periscopedata.com/app/gitlab/668158/WIP_Talent-Acquisition_Metrics_parul)
     * `Screen` values only.
 * **Instructions**: Pull/refresh and import the aforementioned reports into the sheet. Update the charts to make sure they're tied to the correct ranges. The `Responses` field in the **Survey Responses** box will automatically refresh if the report is refreshed via the *Greenhouse Reports Connector* tool. The second report from Greenhouse will automatically update as well. Please make sure that the `=COUNTA()` formula is in cell `A7` so that the `Survey Sends` field to automatically updated in the **Survey Sends** box. Reference the `Screen` values in the Sisense dashboard of as May 2020 and sum all values to the current month. Enter that value in the `Hit Screening` field of each box; the corresponding percentage will automatically update. Lastly, update the appropriate cells in the `historical` tab and please be sure to refresh the range for the *Ethnicity Self-Identification Percentage* chart.
 
@@ -364,7 +364,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 <details>
   <summary markdown='span'>
-  Recruiting Team Weekly Reports
+  Talent Acquisition Team Weekly Reports
   </summary>
 
 * **System**: Greenhouse
@@ -402,7 +402,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. Insert a new column (**Column B**) and title it, `VLOOKUP`.
         1. Move `Opening Status` to **Columb C**.
         1. Set the formula in `VLOOKUP` as follows in the row below the column header: `=VLOOKUP(A9,'Forecast to Plan'!A:A,1,0)`.
-            * Copy the formula down to include all rows that have data. 
+            * Copy the formula down to include all rows that have data.
         1. Sort the data by `Opening Status` (A -> Z).
         1. Look for any `#N/A` results in the `VLOOKUP` column where the `Opening Status` = **Open** and add the respective `GHP ID` to the `Forecast to Plan` tab.
     * Current Pipeline Per Job Report (`REQ STATUS FROM GH` tab)
@@ -413,7 +413,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
     * `Forecast to Plan` Tab
         1. Where formulas are present, drag them down to cover all rows.
         1. The following rows will need to be entered manually: `Sales VP` (Column I), `Aligned Recruiter` (Column J), and `NQR/OQR` (Column K).
-        1. Audit the sheet where `#N/A` appears in a column where a formula is present.      
+        1. Audit the sheet where `#N/A` appears in a column where a formula is present.
 
 </details>
 
@@ -434,7 +434,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
             * For a future `Hire Date`, enter *Future Hire* in the cell.
             * For a `Hire Date` in the current week, enter *Pending Hire* in the cell.
             * For a past `Hire Date`, enter *Hired* in the cell.
-        1. Separate Sales by its NQR status as either: `NQR` or `Non-NQR`.    
+        1. Separate Sales by its NQR status as either: `NQR` or `Non-NQR`.
         1. Create a Pivot Table and split the data by the Team Member `Hire Date` statuses (above) and `Hire Date` dates.
         1. Create a table from which build a bar chart comparing how many starts there were in the previous- and current weeks.
     * Talent Out Section
@@ -443,7 +443,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. Create a table from which build a stacked bar chart comparing how many terminations there were in the previous- and current weeks.
     * Current Headcount Section
         1. Create a Pivot Table from the Current Team Members report and split it by `Division` and a count of `Hire Date` separated by fiscal year and quarter.
-    * Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.             
+    * Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.
 
 </details>
 
@@ -452,7 +452,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   Ad Hoc Report
   </summary>
 
-For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-recruiting/operations/-/issues/new?issuable=Report%20Request) using the `Report Request` template.
+For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issuable=Report%20Request) using the `Report Request` template.
 
 </details>
 
@@ -460,15 +460,15 @@ For an Ad Hoc report, please [create an Issue](https://gitlab.com/gl-recruiting/
 
 ### Vendor Contracts and Renewals
 
-If a new vendor is being considered or, when a vendor contract is up for renewal, please [open an Issue](https://gitlab.com/gl-recruiting/operations/-/issues/new?issue) using the `Vendor Contract Request or Renewal` template. Please open this as early as possible so that there's ample time for benchmarking quotes and engaging in negotiations, if need be. A quote, while helpful, is **not**  needed prior to opening an Issue.
+If a new vendor is being considered or, when a vendor contract is up for renewal, please [open an Issue](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issue) using the `Vendor Contract Request or Renewal` template. Please open this as early as possible so that there's ample time for benchmarking quotes and engaging in negotiations, if need be. A quote, while helpful, is **not**  needed prior to opening an Issue.
 
-In the Issue, please provide the requested information and as much detail as possible. For example, what the service is for, how many licenses will be needed, and the like. With that, the Recruiting Operations & Insights will takeover and prepare either a [Procurement Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new) for approval and see to its conclusion.
+In the Issue, please provide the requested information and as much detail as possible. For example, what the service is for, how many licenses will be needed, and the like. With that, the Talent Acquisition Operations & Insights will takeover and prepare either a [Procurement Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new) for approval and see to its conclusion.
 
 ----
 
 ### Common Issues
 
-The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues](https://gitlab.com/gl-recruiting/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Recruiting's systems.
+The Talent Acquisition Operations & Insights team utilizes [Talent Acquisition Operations Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Talent Acquisition's systems.
 
 <details>
   <summary markdown='span'>
@@ -494,11 +494,11 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
     * "I have a *Recruiter* (or *Hiring Manager*) seat, but can't access GitLab's account.
         * Please try signing-out of LinkedIn and when signing back in, please be sure to select GitLab's account. This error often appears if you had a seat with another organisation.
     * "I requested a *Hiring Manager* seat, but actually need a *Recruiter* seat (i.e. to source, message, and add prospective candidates to projects)."
-        * Please follow-up in your `Access Request` Issue and a Recruiting Operations & Insights Team Member will reach out to LinkedIn Support requesting this change.
+        * Please follow-up in your `Access Request` Issue and a Talent Acquisition Operations & Insights Team Member will reach out to LinkedIn Support requesting this change.
             * The typical turnaround time for such a request is 1 - 2 business days.
     * "I have a *Recruiter* seat and am encountering an error when attempting to bulk send InMail."
        * LinkedIn has limitations on how many InMails a user can send. Please refer to their [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181) for more information.
-      
+
 
 </details>
 
@@ -508,7 +508,7 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   </summary>
 
 * "I need to update the offer details/send a new contract to the new hire. Can you please reopen this requisition?"
-    * The process to reopen a requisition for this scenario can be found in the [CES Contract Processes Handbook page](/handbook/hiring/recruiting-framework/ces-contract-processes/#how-to-resend-a-contract-after-being-marked-as-hired).
+    * The process to reopen a requisition for this scenario can be found in the [CES Contract Processes Handbook page](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-resend-a-contract-after-being-marked-as-hired).
 
 </details>
 
@@ -518,6 +518,6 @@ The Recruiting Operations & Insights team utilizes [Recruiting Operations Issues
   </summary>
 
 * LinkedIn Recruiter: Integration help can be found [here](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect).
-* Other Systems: If you encounter issues with other systems, please try signing-out/in, and/or clearing your cache and cookies first. If the problem still persists, please submit an  [Issues](https://gitlab.com/gl-recruiting/operations/-/issues).
+* Other Systems: If you encounter issues with other systems, please try signing-out/in, and/or clearing your cache and cookies first. If the problem still persists, please submit an  [Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues).
 
-</details>    
+</details>

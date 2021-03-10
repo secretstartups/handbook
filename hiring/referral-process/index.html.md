@@ -31,7 +31,7 @@ A Referral is:
 
 A Referral is **not**:
 
-* Someone the Sourcing or Recruiting Team has already sourced, screened, or been in contact with for the same requisition or job family.
+* Someone the Sourcing or Talent Acquisition Team has already sourced, screened, or been in contact with for the same requisition or job family.
     * This applies to *Prospects* as well as *Candidates*.
 * Someone you **do not** know and **would not** be able to speak about confidently.
 * Someone you sourced or someone who reached out to you regarding a vacancy (e.g. on LinkedIn). If someone you have **not** worked with reaches out requesting to be referred, you could respond with, *"Thank you for your interest in GitLab. We prefer that you register your interest with our Talent Community. This will ensure the that right GitLab Team Member reviews your profile and, if you're deemed suitable, replies back. Unfortunately, I cannot refer you as we have not had a chance to work together. Also, I cannot influence your application"*.
@@ -57,13 +57,13 @@ All GitLab team members are eligible for the [Referral Bonus](/handbook/incentiv
 
 #### Submitting a Referral
 
-All GitLab Team Members can submit a referral by either submitting them directly through Greenhouse - if the vacancy is open **externally** - or by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission) if the vacancy is open **internally**. We ask that you please try to submit the referral in Greenhouse first and, in the event that you can't find the vacancy, use Issues as the second option.
+All GitLab Team Members can submit a referral by either submitting them directly through Greenhouse - if the vacancy is open **externally** - or by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-talent-acquisition/referrals/-/issues/new?issuable_template=Referral%20Submission) if the vacancy is open **internally**. We ask that you please try to submit the referral in Greenhouse first and, in the event that you can't find the vacancy, use Issues as the second option.
 
 ##### Submitting a Referral in Greenhouse
 
 1. Login to Greenhouse and click the `+` icon in the top right corner, then `Add a Referral`.
     * There's also an `Add a Referral` section on your dashboard and that'll take you to the same page.
-1. Fill-in all the required fields (designated by a red asterisk) and as many of the non-required fields as possible. 
+1. Fill-in all the required fields (designated by a red asterisk) and as many of the non-required fields as possible.
     * Of note:
         * When selecting a `Job` from the dropdown, make sure that an `Office` is **not** selected.
             * If you **don't** see the desired vacancy there, please check the [Internal Job Board](https://gitlab.greenhouse.io/internal_job_board). If the vacancy is there, please [submit an Issue](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/hiring/referral-process/index.html.md#submitting-a-referral-via-an-issue).
@@ -72,7 +72,7 @@ All GitLab Team Members can submit a referral by either submitting them directly
 
 ##### Submitting a Referral via an Issue
 
-1. [Create a new issue](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission) in the Referrals Project and ensure the *Referral Submission* template is loaded.
+1. [Create a new issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues/new?issuable_template=Referral%20Submission) in the Referrals Project and ensure the *Referral Submission* template is loaded.
 1. Please be mindful of **required** fields and selecting the appropriate checkbox, where applicable.
     * Additional context as to why you're referring the candidate (i.e. why would they be great addition to the GitLab team?) is greatly appreciated (and required).
 1. If you **don't** have their resume, please include a link to their LinkedIn profile.
@@ -88,7 +88,7 @@ To see what positions are available to submit an external candidate for please v
 
 #### Referral Statuses
 
-You can stay up-to-date on the status of your referral(s) in the **My Referrals** section of your Greenhouse dashboard. If you have any questions regarding your referral, please sent an email to the `referrals@gitlab.com`. Please note that the Recruiting Team is **unable** to provide candidate-specific feedback to Referrers (i.e you); only to the Candidate themselves. You can expect Referrals to be reviewed by the Hiring Team within **10-days** of their submission.
+You can stay up-to-date on the status of your referral(s) in the **My Referrals** section of your Greenhouse dashboard. If you have any questions regarding your referral, please sent an email to the `referrals@gitlab.com`. Please note that the Talent Acquisition Team is **unable** to provide candidate-specific feedback to Referrers (i.e you); only to the Candidate themselves. You can expect Referrals to be reviewed by the Hiring Team within **10-days** of their submission.
 
 Although we place special emphasis on Referrals, we treat Referral interviews the same as we do non-Referrals. Referral interviews should not be more or less demanding than any other interview.
 
@@ -101,11 +101,11 @@ For details regarding the *Referral Bonus Payout*, please visit [this page](/han
 #### Common Referral Situations
 
 * Your Referral already submitted an application.
-    * In the event that your Referral already applied, please create an [Issue](https://gitlab.com/gl-recruiting/referrals/-/issues/new?issuable_template=Referral%20Submission) and provide as much detail as possible about the referral situation. Also, please answer the questions outlined in the *Referral Submission* template. To reiterate, Referrals should be submitted with a personal conviction that they'll be a great addition to the GitLab team. After receiving that, the appropriate Team Member will look into updating the Candidate's source information.
+    * In the event that your Referral already applied, please create an [Issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues/new?issuable_template=Referral%20Submission) and provide as much detail as possible about the referral situation. Also, please answer the questions outlined in the *Referral Submission* template. To reiterate, Referrals should be submitted with a personal conviction that they'll be a great addition to the GitLab team. After receiving that, the appropriate Team Member will look into updating the Candidate's source information.
 * Your Referral was referred by someone else.
     * In the event that your claimed Referral was submitted by someone else, the **first** Team Member to have submit the candidate will be considered their *Referrer*.
-        * In the event of **multiple** *Referrers* claiming ownership on a similar vacancy, it will be up to the *Referrers* to decide how to split the Referral Bonus and inform Recruiting Ops of that compromise.
-            * When such a situation arises, a member of the Recruiting Ops Team will notify the Referrers and what will need to happen next.
+        * In the event of **multiple** *Referrers* claiming ownership on a similar vacancy, it will be up to the *Referrers* to decide how to split the Referral Bonus and inform Talent Acquisition Ops of that compromise.
+            * When such a situation arises, a member of the Talent Acquisition Ops Team will notify the Referrers and what will need to happen next.
 * If you referred the candidate to **dissimilar** vacancy, then you would be named their *Referrer* for that specific vacancy.
 
 Other scenarios to be mindful of:
