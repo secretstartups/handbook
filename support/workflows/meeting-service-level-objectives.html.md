@@ -70,8 +70,8 @@ Work with your crew to prevent breaches:
     1. Add the `:white_check_mark:` emoji reaction to the bot message when you've replied to the ticket so the rest of your crew knows that it's been taken care of.
     1. At the end of your crew day, **all bot alerts should have an emoji response** to show that we've responded to all tickets
 1. Reply to tickets in the `SM with SLA` and `.com with SLA` views to get ahead of imminent breaches. Work in Zendesk from the top of these views - there's **no need to wait for the bot!** Try to anticipate future busy periods by looking at the time to next breach in Zendesk and getting replies out before the bot alert the channel.
- 
- 
+
+
 ```mermaid
    graph TD
    B(Locate a ticket that needs a reply to prevent a breach)
@@ -259,7 +259,7 @@ First Response Time Hawks directly drive achievement in our [Service Level Agree
    * Just do your best
    * Take a break if you need one - making sure your team knows you're stepping away by posting in `#support_team_chat`
    * Ask the rest of the team for help when needed in `#support_self-managed`
-4. You may see tickets requesting information that is not in the realm of support. For example, you may get a ticket from a job applicant to GitLab requesting information on their application. In these cases, do your best to direct them to an appropriate contact and close the support ticket. In the case of hiring questions, you can ping the #recruiting channel in Slack to inform them that the candidate reached out, and update the candidate via the ticket.
+4. You may see tickets requesting information that is not in the realm of support. For example, you may get a ticket from a job applicant to GitLab requesting information on their application. In these cases, do your best to direct them to an appropriate contact and close the support ticket. In the case of hiring questions, you can ping the #talent acquisition channel in Slack to inform them that the candidate reached out, and update the candidate via the ticket.
    * There is a macro called [`General::Job Application Questions`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360029934099) for hiring-specific questions in Zendesk.
    * For other common requests, see the [Triaging tickets](/handbook/support/workflows/ticket_triage.html#other-requests) page.
 
@@ -333,7 +333,7 @@ SLA Hawks drive achievement via our KPIs for [Service Level Agreement KPI](/hand
    - The hawk is the manager of the queues, not the responder to the tickets - if you suspect that getting involved and sending a reply will take more than 15m, try to delegate getting a reply out to someone else (assignee, cc:. recent replier, or subject matter expert).
    - Your best is good enough! Realistically, you're unlikely to stop every ticket from breaching - if you’ve stopped even a handful then you’ve done a great job, that’s 2 or 3 fewer breaches that day.
    - Clear down the easy replies first - `That's great, I'll mark the ticket solved.` and so on. It improves the signal:noise ratio and someone has to write that reply.
-   - Look after yourself.  Set a timer to remember to take breaks and eat. The hawk roles are easy to get into a groove and forget to get up all day. Go outside, take a breather, then come back. See the first point in the FAQ as well. 
+   - Look after yourself.  Set a timer to remember to take breaks and eat. The hawk roles are easy to get into a groove and forget to get up all day. Go outside, take a breather, then come back. See the first point in the FAQ as well.
    - You're not alone. You have a full team with you! Re-read the [SLA Hawk in action](#sla-hawk-in-action) section above - particularly points 4 & 5, and related...
    - Don't be tempted to take ownership of tickets.  You will most likely NOT get to them later!
    - If there's a wave of soon to breach tickets rolling down the queue, ping the team so they know.

@@ -10,7 +10,7 @@ description: "Hiring new Customer Support team members is a multi-department pro
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Hiring new Customer Support team members is a multi-department process involving recruiting and customer support. 
+Hiring new Customer Support team members is a multi-department process involving talent acquisition and customer support.
 
 Support Engineers comprise the vast majority of Customer Support. This page presents information specific to that job family. Exceptions are called out explicitly, such as in the [Reviewing Assessments](#reviewing-assessments) section.
 
@@ -35,13 +35,13 @@ The technical interview for this role is conducted by support engineers. It is a
 
 **GitLab Participants**: Support Manager and one other (Support Manager or Support Engineer).  At least one interviewer will be non-male.
 
-The behavioural interview may cover any topics of the previous interviews where there was unclear data or a need to dive deeper.  
+The behavioural interview may cover any topics of the previous interviews where there was unclear data or a need to dive deeper.
 
 ###  Final interview
 
 **GitLab Participants**: Senior Support Manager or Director, Customer Support
 
-Candidates successful in all previous interviews may proceed to a _Senior Manager_ or _Director, Customer Support_ interview. 
+Candidates successful in all previous interviews may proceed to a _Senior Manager_ or _Director, Customer Support_ interview.
 
 ## Getting involved
 If you want to be involved in the hiring process - let your manager know! The main ways you can be involved are:
@@ -56,11 +56,11 @@ After getting approval from your manager open two interview training issues:
 ### Reviewing Assessments
 Assessments (and answers) for all Support job families are available in the [people-ops/hiring-processes](https://gitlab.com/gitlab-com/people-ops/hiring-processes/tree/master/Engineering/Support) repository.
 
-When reviewing an assessment: 
+When reviewing an assessment:
 1. Use the rubrik for the assessment that was sent along to determine if they passed or not.
 2. Review their CV, Cover Letter and any attached documentation. Does this person possess the background and skills to succeed in your role?
-3. Fill out the scorecard with any comments. Keep in mind that all fields are optional with the exception of the "Overall Recommendation". 
-If you're unable to offer an evaluation of an area you may leave it blank. 
+3. Fill out the scorecard with any comments. Keep in mind that all fields are optional with the exception of the "Overall Recommendation".
+If you're unable to offer an evaluation of an area you may leave it blank.
 
 ### Technical Interviews
 The technical interview process is documented in the [Support Team project](https://gitlab.com/gitlab-com/support/tech-interview/se-interview). Follow the instructions there to conduct this interview. Take any notes in Greenhouse and make a note if you are inclined or not inclined to hire. Your role in the interview process for this candidate is complete!
@@ -85,5 +85,5 @@ For each vacancy there should be a:
 - **Target/Actual Start Date**
 - **Candidate**
 
-1. When we get close to the target start date, the recruiting team will update Greenhouse with the vacancy and assign it an **Opening ID**.
+1. When we get close to the target start date, the talent acquisition team will update Greenhouse with the vacancy and assign it an **Opening ID**.
 1. When a vacancy is open in Greenhouse, the hiring manager (or Sr. Manager) will be noted in the spreadsheet.

@@ -38,7 +38,7 @@ Managers know in `#spt_managers`.*
 | Finance          | Budget              | Chase Wright        | Tom Cooney            | 1x Qtr on budget + once per month |
 | Legal            | Legal               | Robin Schulman      | Lyle Kozloff          | N/A |
 | PeopleOps        | After-hire care     | Jessica Mitchell    | Tom Cooney            | every 2 weeks |
-| PeopleOps        | Recruiting          | Cyndi Walsh         | Tom Cooney            | weekly |
+| PeopleOps        | Talent Acquisition          | Cyndi Walsh         | Tom Cooney            | weekly |
 | Performance      | Performance         | Stan Hu             | Lee Matos             | N/A |
 | Production       | .com Infrastructure | Dave Smith          | Vlad Stoianovici      | every 2 weeks |
 | Marketing        | Community Relations | David Planella      | Greg Myers            | weekly team meeting |

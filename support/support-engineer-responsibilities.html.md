@@ -45,7 +45,7 @@ See [Working On Tickets](/handbook/support/workflows/working-on-tickets.html) fo
 
 **What does success look like?**
 
-You have the freedom to choose what is best for the customer and GitLab. We value quality over quantity. 
+You have the freedom to choose what is best for the customer and GitLab. We value quality over quantity.
 
 On a weekly basis:
 
@@ -196,7 +196,7 @@ We encourage the whole team to help with the [Hiring Process](/handbook/support/
 
 There's no goal for this area. When you've completed the training module:
 
-1. Promptly respond to requests from recruiting to grade assessments (everyone)
+1. Promptly respond to requests from talent acquisition to grade assessments (everyone)
 1. Complete technical interviews when scheduled with you (after discussion with manager)
 
 We'd like to make your contributions in this area more visible. Suggestions on how to do this are welcomed.
