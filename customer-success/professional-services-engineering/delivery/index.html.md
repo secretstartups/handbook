@@ -51,10 +51,6 @@ There are 2 project that track internal time, Creditable and Non Creditable.  If
 * Task assignment
 * Soft or Hard allocation
 
-#### Weekly schedule review meetings
-
-A weekly PS Operations call is held each week to review shedules.  This type of cadence and review of the schedule will help with utilization, planning and forecasting purposes.
-
 #### Kicking off an engagement
 
 See the details in the Project workflow section of the [PS Project Management](/handbook/customer-success/professional-services-engineering/project-mgmt/) page.
@@ -155,95 +151,6 @@ Interview proposed resources. GitLab will meet with the proposed resources to de
 
 
 1. Offboard the resource.  At the conclusion of the project, remove access and determine how to handle incoming email for the provisioned email address.
-
-
-
-
-
-### Time Tracking
-
-Accurate time tracking records of hours is essential to provide team utilization metrics along with ensuring revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin.  Key points for time tracking include:
-
-- All Time should be recorded in the Mavenlink time sheet on a customer or internal project.
-- Best practice is to record time at the end of each day.  This provides the most accurate account of hours worked and when it was worked.
-- Each PSE is required and responsible for tracking their own hours, and submitted weekly by Friday EOD, for the week worked.  A minimum of 40, or whatever the hours worked per week is in your country.
-
-Hours represent work hours that a staff member reports as being aligned to a specific SOW or internal task. The format for daily time tracking for each team member is shown below, and approved by the project lead and the teams PCs. Rounding to the nearest quarter hour is acceptable. 
-
-#### Quarterly Time tracking entry and approval workflow
-
-* All hours are submitted and approved in Mavenlink on a weekly basis
-* The quarterly hours report is pulled from Mavenlink and reivewed by the PC and then provided to the PS Delivery Manager for review and approval
-* A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
-* The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
-* Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
-
-
-#### Issue board
-
-The [PS Issue Board](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/boards) contains everything that the group is working on, from strategic initiatives to SOW writing.
-
-#### Mavenlink project categories
-
-* ALL customer project hours
-  
-  * Project tasks are aligned with SOW activities and hours tracked against the tasks
-  * Internal/ Sales Handoff Calls
-  * Internal/ External status meeting
-  * Support ticket submission while the project is in progress
-  * Weekly/ Final customer reports and documentation
-  * Status/ Close out customer calls
-  * Customer Travel
-
-* PS TimeTracking - Creditable
-  
-  * SKO
-  * Contribute
-  * Commit
-  * Sales Assistance
-    * All Pre-Sales activities
-    * SOW Creation
-  *  Support Assistance
-     * Support Cases, (if pulled into customer questions after the project is closed)
-     * Engineering Support
-  *  Practice Development
-     * Creating process/documents
-     * Templates
-     * Articles/ Tools
-  * Product Development
-  * Mentoring
-
-* PS TimeTracking - Non Creditable
-  
-  * Knowledge Sharing
-    * Slack
-    * Internal Q&A
-  * General Administrative
-    * Time Sheets
-    * Expense Reports
-    * Reviews
-    * HR Items
-    * General Emails
-  * Meetings/ Staff Time
-    * Internal Meeting
-    * 1:1s
-    * Weekly Webinars
-    * All Hands
-    * Team Calls
-  * Travel Time
-    * Excluding Customer Travel
-  * Personal Enablement
-    * Development
-    * Ramp Up
-    * HR Training
-    * Customer project shadow
-
-* Time off, Holidays, along with Friends & Family Days
-  * Time should be submitted in the time off feature in Mavenlink
-  - Holidays along with Friends and Family day are scheduled in the Mavenlink calendar, which flow to the master planning schedule
-  - Review [the company time off process](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-process/-/issues/25)
-
-
 
 
 
