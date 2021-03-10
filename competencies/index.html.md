@@ -39,7 +39,7 @@ Instead of maintaining separate materials they should link back to the most rele
 For example, we should have one SSoT for how to articulate the value of GitLab.
 
 1.  [Job family requirements](/handbook/hiring/job-families/#format)
-1.  [Interview scoring](/handbook/hiring/recruiting-framework/hiring-manager/#step-12hm-complete-feedback-in-greenhousenext-steps)
+1.  [Interview scoring](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-12hm-complete-feedback-in-greenhousenext-steps)
 1.  [Promotion criteria](/handbook/people-group/promotions-transfers/)
 1.  [9 box assessments](https://www.predictivesuccess.com/blog/9-box/)
 1.  [Performance/Potential criteria](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
