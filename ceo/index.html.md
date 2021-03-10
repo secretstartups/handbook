@@ -37,7 +37,7 @@ A pronunciation hint for `Sijbrandij`: It’s like when you have seen some disti
 
 ## Favorite Restaurants
 
-Moved to a google document internal to GitLab team only. Please search in Google Drive file name: CEO's Favorite Restaurants. If you have questions please message the Staff EBA to the CEO in #eba-team or DM. 
+Moved to a google document internal to GitLab team only. Please search in Google Drive file name: CEO's Favorite Restaurants. If you have questions please message the Staff EBA to the CEO in #eba-team or DM.
 
 ## Flaws
 
@@ -80,18 +80,18 @@ Sid is easy to talk to on any subject. He is good at drawing people out and chal
 
 ## Interviewing and conducting meetings
 
-This section was started by GitLab's Head of Remote [Darren M.](/handbook/marketing/readmes/dmurph/) to coach and provide context to others who meet with and interview Sid. The below are suggestions based on a history of personal interviews, extracted lessons from [GitLab Unfiltered interviews](https://www.youtube.com/playlist?list=PL05JrBw4t0KpdkiYcuSO2EtNBzK2Nyzx5), and observations during a [CEO Shadow rotation](/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/). Others are welcome to create a merge request and add more. 
+This section was started by GitLab's Head of Remote [Darren M.](/handbook/marketing/readmes/dmurph/) to coach and provide context to others who meet with and interview Sid. The below are suggestions based on a history of personal interviews, extracted lessons from [GitLab Unfiltered interviews](https://www.youtube.com/playlist?list=PL05JrBw4t0KpdkiYcuSO2EtNBzK2Nyzx5), and observations during a [CEO Shadow rotation](/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/). Others are welcome to create a merge request and add more.
 
-1. ***How scripted are interviews?*** Sid does well in [unscripted interviews](https://youtu.be/7kMQj4O4ZGU), but prefers questions [outlined](/handbook/eba/#meeting-request-requirements) in a Google document and attached in the [meeting invite](/company/culture/all-remote/live-doc-meetings/) in advance. The EBA to the CEO can assist you with this. Interviews tend to go well when it is clear ahead of time what the crux of the conversation will be about, and there is documented context which can be consumed asynchronously ahead of time. 
-1. ***What if questions arise which aren't in the agenda? Do you add them and keep the conversation going?*** Expert interviewers will actively anticipate that new and unexpected questions will arise. You may be surprised by the question, but *not* that the question happened. The interviewer is responsible for keeping the conversation on track according to the agenda. If you feel that a question veers the conversation too far off track, document the question and add a to-do for a follow-up or asynchronous answer. At GitLab, [agendas are revered](/company/culture/all-remote/live-doc-meetings/); feel confident in using the agenda to keep the interview crisp. 
-1. ***Do you script perspective and commentary?*** Unscripted, authentic feedback and commentary is appreciated and shows preparation for the subject matter and an understanding of discussion flow. With Sid (and other interview subjects), practice gets you closer to perfection. Professional media training creates a deeper understanding of this concept. 
-1. ***Do you worry about saying the wrong thing?*** This may be challenging to overcome. A list of tips for overcoming this are below. 
-   1. Be comfortable with (seemingly) awkward silence. Sid appreciates time to analyze and gather his thoughts to provide the most thoughtful, cohesive response. Silence is not an indicator of his disapproval of the question or angle. 
-   2. Make it personal. Ask Sid “*Why do you feel this way?*” or "*What did you learn from this?*" or “*What happens in your day that relates to this?*” Sid is able to craft stories which involve personal anecdotes that create deeper understanding and learning for the audience. 
+1. ***How scripted are interviews?*** Sid does well in [unscripted interviews](https://youtu.be/7kMQj4O4ZGU), but prefers questions [outlined](/handbook/eba/#meeting-request-requirements) in a Google document and attached in the [meeting invite](/company/culture/all-remote/live-doc-meetings/) in advance. The EBA to the CEO can assist you with this. Interviews tend to go well when it is clear ahead of time what the crux of the conversation will be about, and there is documented context which can be consumed asynchronously ahead of time.
+1. ***What if questions arise which aren't in the agenda? Do you add them and keep the conversation going?*** Expert interviewers will actively anticipate that new and unexpected questions will arise. You may be surprised by the question, but *not* that the question happened. The interviewer is responsible for keeping the conversation on track according to the agenda. If you feel that a question veers the conversation too far off track, document the question and add a to-do for a follow-up or asynchronous answer. At GitLab, [agendas are revered](/company/culture/all-remote/live-doc-meetings/); feel confident in using the agenda to keep the interview crisp.
+1. ***Do you script perspective and commentary?*** Unscripted, authentic feedback and commentary is appreciated and shows preparation for the subject matter and an understanding of discussion flow. With Sid (and other interview subjects), practice gets you closer to perfection. Professional media training creates a deeper understanding of this concept.
+1. ***Do you worry about saying the wrong thing?*** This may be challenging to overcome. A list of tips for overcoming this are below.
+   1. Be comfortable with (seemingly) awkward silence. Sid appreciates time to analyze and gather his thoughts to provide the most thoughtful, cohesive response. Silence is not an indicator of his disapproval of the question or angle.
+   2. Make it personal. Ask Sid “*Why do you feel this way?*” or "*What did you learn from this?*" or “*What happens in your day that relates to this?*” Sid is able to craft stories which involve personal anecdotes that create deeper understanding and learning for the audience.
 1. ***Be bold in your questions***. Sid enjoys the challenge of a hard or (thoughtfully) audacious question. Sid fields a lot of questions on a daily basis, many of which can be answered by [referencing the GitLab handbook](/company/culture/all-remote/self-service/#answer-with-a-link). By referencing a current state in the handbook and digging for more context and nuance, this provides opportunity for Sid to answer and provide value to more than just the interviewer — the new context should be added to the handbook after the interview to benefit all.
-1. ***Apply to the [CEO Shadow](/handbook/ceo/shadow/) program***. There is no equivalent to watching Sid meet with and interview a global array of people for two weeks. The program is an efficient way to gain a deeper understanding of Sid's style and personality. Moreover, the program enables GitLab team members to realize that Sid is not only a CEO, but also an individual who enjoys working with others who will challenge him and accelerate his personal growth. 
-1. ***Don’t be ashamed with ending early***. It is natural to try to fill an allotted time block with a CEO. Remember GitLab's value of [Efficiency](/handbook/values/#efficiency) and be bold if you're able to progress through an agenda quickly. A recommend close-out statement is: “*We were very efficient driving through the agenda. Any final points before we close?*” 
-1. ***Listen to Sid's [interview](https://changelog.com/founderstalk/70) on the Changelog podcast***. There are hundreds of hours of Sid speaking on the internet, but this interview showcases a talented interviewer (Adam) extracting nuance and detail from Sid in a comfortable and professional way. The interviewer is thoughtful yet audacious in his questions, while also bold and considerate. He challenges Sid and commands mutual respect. 
+1. ***Apply to the [CEO Shadow](/handbook/ceo/shadow/) program***. There is no equivalent to watching Sid meet with and interview a global array of people for two weeks. The program is an efficient way to gain a deeper understanding of Sid's style and personality. Moreover, the program enables GitLab team members to realize that Sid is not only a CEO, but also an individual who enjoys working with others who will challenge him and accelerate his personal growth.
+1. ***Don’t be ashamed with ending early***. It is natural to try to fill an allotted time block with a CEO. Remember GitLab's value of [Efficiency](/handbook/values/#efficiency) and be bold if you're able to progress through an agenda quickly. A recommend close-out statement is: “*We were very efficient driving through the agenda. Any final points before we close?*”
+1. ***Listen to Sid's [interview](https://changelog.com/founderstalk/70) on the Changelog podcast***. There are hundreds of hours of Sid speaking on the internet, but this interview showcases a talented interviewer (Adam) extracting nuance and detail from Sid in a comfortable and professional way. The interviewer is thoughtful yet audacious in his questions, while also bold and considerate. He challenges Sid and commands mutual respect.
 
 ## Communication
 
@@ -105,7 +105,7 @@ In written communication, I appreciate the top-down approach. Set the subject he
 
 I get many email on which I am only cc'd on, I would very much appreciate if you started emails intended specifically for me with "Sid," or some other salutation that makes it clear that the message is for me.
 
-### Connecting on Social Media 
+### Connecting on Social Media
 
 I have accounts on [LinkedIn](https://www.linkedin.com/in/sijbrandij) and [Facebook](https://www.facebook.com/sytse). I will not send invites to team members on those networks since as the CEO I don't want to impose myself on anyone. But I would love to connect and I will happily accept your LinkedIn and Facebook friend request. Please ping the Staff EBA to the CEO in #eba-team on slack and they will accept your connection request. You can also find me on Twitter as [@sytses](https://twitter.com/sytses), I won't request to follow private twitter accounts, I assume I'm welcome to follow public twitter accounts, if not please let me know.
 
@@ -139,7 +139,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 1. [1-1s](/handbook/leadership/1-1/) with my direct reports and [EBA](/handbook/eba/). 25-50 minutes.
 1. [E-Group](/company/team/structure/#e-group) Call. 50 minutes.
-1. Recruiting Syncs on key Executive hires. 25 minutes.
+1. Talent Acquisition Syncs on key Executive hires. 25 minutes.
 1. Candidate Interviews. 25-80 minutes.
 1. PR Interviews. 25-50 minutes.
 1. Scaling. 25 minutes.
@@ -188,10 +188,10 @@ For scheduling a video call or meeting with me or other execs, please see the [E
 
 ## External Speaking Engagements
 
-To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](/handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time. 
+To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](/handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time.
 
-### Requests for audio/visual check meetings 
-If the organizer of an event requests a prep meeting with Sid to check audio and visual before a remote presentation, we can schedule for 5 minutes before the event for Sid to login and confirm that audio and visual are working as expected. A longer prep meeting is not required as Sid has a robust remote work setup. 
+### Requests for audio/visual check meetings
+If the organizer of an event requests a prep meeting with Sid to check audio and visual before a remote presentation, we can schedule for 5 minutes before the event for Sid to login and confirm that audio and visual are working as expected. A longer prep meeting is not required as Sid has a robust remote work setup.
 
 ## Sending email
 
@@ -259,12 +259,12 @@ Email [my EBA](/handbook/eba/#executive-business-administrator-team) to coordina
 When preparing scripts or documents in my voice, please follow these guidelines. This list can help you prepare a draft that is as close as possible to my natural way of communicating. For additional information or questions, please contact the `#external-comms` Slack channel or the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
 
 1. Avoid “we” or “our” when discussing the product. I don’t wish to speak on behalf of others or to imply that GitLab team members are owners of GitLab or its users. Everyone can contribute = everyone has some ownership of GitLab.
-1. Less is more. If you can say something in fewer words, do so. 
+1. Less is more. If you can say something in fewer words, do so.
 1. Always [be inclusive](/company/culture/inclusion/#inclusive-language). No gendered terms if it can be avoided.
 1. Be as direct and specific as possible. Don’t assume the reader/audience knows what you mean ([low-context communication](/company/culture/all-remote/effective-communication/#understanding-low-context-communication)). No vague statements.
 1. Remove unnecessary words, assuming statements or lead-ins that don't add value. Ex: “As you know.”
 1. When writing a script, read it out loud. If it's not easy to say in one try, edit the script to make it easy to speak.
-1. Any time you make a statement, consider whether there exist any data/proof points to back it up, and include the proof. This proof might exist internally through work our teams are doing, or externally through analyst reports or other such reporting. 
+1. Any time you make a statement, consider whether there exist any data/proof points to back it up, and include the proof. This proof might exist internally through work our teams are doing, or externally through analyst reports or other such reporting.
 1. Familiarize yourself with [GitLab’s Misused Terms](/handbook/communication/top-misused-terms/) and avoid using these. For example, always use “Team members” instead of Employees.
 1. Run text through a readability checker, such as [the ones on this page](https://readabilityformulas.com/free-readability-formula-tests.php).
 1. Be exact, not approximate.
@@ -281,7 +281,7 @@ On short flight with other team members fly economy if we can sit together, in t
 
 ## House
 
-If you are a GitLab team-member, you can stay at our home in Utrecht, the Netherlands for free with up to 5 guests. You can check availability and reserve the home by emailing my personal assistant, Anette at anette@sijbrandij.com. If you want more information on the home, please search in Drive for "Sid/Karen: Description of the NL House". If you cannot locate the document, please ask Anette or [my EBA](/handbook/eba/#executive-business-administrator-team) to send it to you. 
+If you are a GitLab team-member, you can stay at our home in Utrecht, the Netherlands for free with up to 5 guests. You can check availability and reserve the home by emailing my personal assistant, Anette at anette@sijbrandij.com. If you want more information on the home, please search in Drive for "Sid/Karen: Description of the NL House". If you cannot locate the document, please ask Anette or [my EBA](/handbook/eba/#executive-business-administrator-team) to send it to you.
 We hope you enjoy your stay!
 
 ## Three levels of performance
