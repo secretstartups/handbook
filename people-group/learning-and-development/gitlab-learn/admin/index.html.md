@@ -458,6 +458,13 @@ Moderation and limited editing occurs in the admin backend. The following steps 
      - Delete content using the trash icon
      - Edit backend content information by clicking on the pencil icon
 
+##### Limitations of backend content editing
+
+Edits that you'd like to made related to the arrangement of content in the LXP will be done in the front end. The following are examples of edits you **cannot** make in the admin section and will need to use the EdCast front end to edit:
+
+- Arrangement of SmartCards in a Pathway, or Pathways in a Journey
+- Badging information
+
 #### Editing Pathways after users have completed the Pathway
 
 At GitLab, we iterate quickly and ship things that aren't perfect. Unfortunatley, the EdCast system does not easily enable us to make iterative updates and changes to Pathways once published, especially after a user has completed the Pathway. This section outlines the limitations of the tool and best practices for editing Pathways.
@@ -466,14 +473,11 @@ At GitLab, we iterate quickly and ship things that aren't perfect. Unfortunatley
 
 - Quizzes that have been completed by users cannot be editied in the front or backend of EdCast
 - Admin cannot see quizzes once they have been completed
+- If a pathway is edited after a user earns the pathway badge, they will retain their badge, but their completion status on the pathway will show up as a percentage less than 100%, depending on how many SmartCards are now `incomplete` after editing
 
-##### Limitations of backend content editing
+##### Best Practices
 
-Edits that you'd like to made related to the arrangement of content in the LXP will be done in the front end. The following are examples of edits you **cannot** make in the admin section and will need to use the EdCast front end to edit:
-
-- Arrangement of SmartCards in a Pathway, or Pathways in a Journey
-- Badging information
-
+Best practices for editing Pathways are still a WIP.
 
 ### Channels
 

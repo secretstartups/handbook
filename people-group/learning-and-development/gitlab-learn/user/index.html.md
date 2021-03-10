@@ -138,6 +138,13 @@ If you'd rather watch a video of how to update your GitLab Learn profile, click 
      - Job title
 
 
+### User privacy in GitLab Learn
+
+Please review the following about user privacy when it comes to learning content in GitLab Learn:
+
+1. Users can hide themselves from the Leaderboard if they don't wish to appear on this report. To do so, navigate to your profile, click `Edit Profite` and in the `Account Details` tab, check the box next to `Hide me from Leaderboards`
+1. Bookmarked content is not visible by other users on GitLab Learn. You can access your own bookmarked courses by navigating to your profile page, clicking `Content` then choosing `Bookmarked` in the table on the left side of the screen.
+
 ### Understanding content in GitLab Learn
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pJzj4l3tG-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
