@@ -56,7 +56,7 @@ Before reviewing the documented best practices below, take time to watch these r
 #### Applicable to all content
 
 1. URLs for content cannot be deleted or edited, and they are generated automatically by the title that is first entered for the content. This is the same for all content in the platform, so take care to properly name content when you're creating it for the first time. When content is deleted, that URL can no longer be used.
-1. The `Mark as Complete` setting platform wide is set to `auto-mark as complete`. This setting allows our integration with LinkedIn Learning to track content completed on the LinkedIn platform itself and should not be changed. As a result, if you'd like users to manually mark content as complete, please be sure to select `Manual` at the Pathway setting to override the `auto-mark as complete` setting. 
+1. The `Mark as Complete` setting platform wide is set to `auto-mark as complete`. This setting allows our integration with LinkedIn Learning to track content completed on the LinkedIn platform itself and should not be changed. As a result, if you'd like users to manually mark content as complete, please be sure to select `Manually` at the Pathway setting to override the `auto-mark as complete` setting. Otherwise, leave Pathways to the `Automatically` mark as complete setting.
 
 #### SmartCards
 
@@ -139,20 +139,19 @@ There is also the option to organize these public SmartCards into a second Pathw
 
 #### Sharing private content with the right audience
 
-With the combination of `private` content, Groups, and Channels, you can successfully restrict specific content to certain audiences in GitLab Learn. This is an essential EdCast feature for the GitLab team, as we're using GitLab Learn to share content across internal and external audiences. Examples include:
+With the combination of `private` content, Groups, and Channels, you can restrict content to certain audiences in GitLab Learn. This is an essential EdCast feature for the GitLab team, as we're using GitLab Learn to share content across internal and external audiences. Examples include:
 
 1. Sales enablement content that is for internal audiences only
-1. LinkedIn Learning access that is for internal audiences only
-1. Training platforms for specific teams that is for specific team members only
+1. Training platforms for specific teams that are for specific team members only
 1. Professional Services content that is for paid customers only
 
-Below outlines considerataions to review when using `private` Groups, Channels, and content to restrict audience access to content on GitLab Learn. It's important to understand how stacking `public`/`private` content with `public`/`private` Channels and Groups will impact who can access learning material.
+Below outlines use case examples when using `private` Groups, Channels, and content. It's important to understand how stacking `public`/`private` content with `public`/`private` Channels and Groups will impact user access.
 
-1. Begin by reiewing the steps above that explain how to mark content as `public` or `private`
-1. `private` content can be shared with Groups and Channels.
-1. If you share `private` content with a `private` Group, only members of that Group can access the content. Be sure this Group is **not** open so that non-designated users can't join the Group. An example of this use case is seen with the Field Enablement team, who create trainings that are shared only with the `GitLab Internal Team Members` group, or with Professional Services, who create training that are shared with specific customer groups.
-1. If you share `private` content with a `public` Group, only that Group can access the content, **but anyone can join the group**. This use case could be used if you want to organize users with similar interests in a Group, but make it available for anyone to access by joining the Group.
-1. If you share `private` content with a `private` Channel, only followers of that Channel can see the content. This is a great way to organize and curate content for specific audiences. For example, before launching our entire course catalog later in 2021, the L&D team will restrict our content offerings to 3 courses. However, we still want all our material to be available to GitLab team members. To do this, we can create a `private` Channel and share that Channel only with the `GitLab Internal Team Members` Group. This will ensure that the content on the `private` Channel can only be seen by members of the `private` Group. Later, we can make this Channel public and share with all users.
+1. Begin by reviewing the steps above that explain how to mark content as `public` or `private`
+1. `private` content can be shared with Groups and Channels
+1. If you share `private` content with a `private` Group, only members of that Group can access the content. Be sure this Group is **not** open so that non-designated users can't join the Group. An example of this use case is the Field Enablement team, who creates trainings that are shared only with the `GitLab Internal Team Members` group, or with Professional Services, who create trainings that are shared with specific customer groups.
+1. If you share `private` content with a `public` Group, only that Group can access the content, **but anyone can join the group**. This use case can be used if you want to organize users with similar interests into a Group, but make the Group available for anyone to join.
+1. If you share `private` content with a `private` Channel, only followers of that Channel can see the content. This is a great way to organize and curate content for specific audiences. For example, before launching our entire course catalog, the L&D team will restrict our external content offerings on GitLab Learn to 3 courses. However, we still want all our material to be available to GitLab team members. To do this, we can create a `private` Channel and share that Channel with the `GitLab Internal Team Members` Group. This will ensure that the content on the `private` Channel can only be seen by members of the `private` Group. Later, we can make this Channel `public` and share with all users.
 1. If you share `private` content with a `public` Channel, only followers of that Channel can see the content, **but anyone can follow the Channel**. This is a similar use case as sharing `private` content with a `public` group. If you'd like to organize users with similar interests by inviting them to follow a `public` Channel, this use case might work.
 
 
@@ -467,17 +466,19 @@ Edits that you'd like to made related to the arrangement of content in the LXP w
 
 #### Editing Pathways after users have completed the Pathway
 
-At GitLab, we iterate quickly and ship things that aren't perfect. Unfortunatley, the EdCast system does not easily enable us to make iterative updates and changes to Pathways once published, especially after a user has completed the Pathway. This section outlines the limitations of the tool and best practices for editing Pathways.
+At GitLab, we iterate quickly and ship things that aren't perfect. The EdCast system does not easily enable us to make iterative updates and changes to Pathways once published, especially after a user has accessed or completed the Pathway. This section outlines the limitations of the tool and best practices for editing Pathways.
 
 ##### Limitations
 
-- Quizzes that have been completed by users cannot be editied in the front or backend of EdCast
-- Admin cannot see quizzes once they have been completed
+- Quizzes that have been completed by users cannot be editied
+- Administrators cannot see quizzes once they have been completed
 - If a pathway is edited after a user earns the pathway badge, they will retain their badge, but their completion status on the pathway will show up as a percentage less than 100%, depending on how many SmartCards are now `incomplete` after editing
 
 ##### Best Practices
 
 Best practices for editing Pathways are still a WIP.
+
+1. Document all quiz questions and answers in a Google doc
 
 ### Channels
 
