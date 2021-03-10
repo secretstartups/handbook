@@ -111,7 +111,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### Experimentation and growth hacking 
+#### Growth and experimentation 
 
 ##### Quick reads and videos
 
