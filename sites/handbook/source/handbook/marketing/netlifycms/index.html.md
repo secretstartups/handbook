@@ -38,9 +38,9 @@ To access the Netify CMS:
 
 ## Editoral Workflow Process 
 
-The editorial workflow enables Netlify CMS to created coresponding merge requests with your changes. Netlify CMS will open a merge request and make a commit by your account to a MR with your changes to a single page. Future changes to the draft will be additional commits by the user making the changes to the draft. We can also use a traditional git workflow once the MR is created if someone wants to the pull your branch and maked changes that way instead. 
+The editorial workflow enables Netlify CMS to create corresponding merge requests with your changes. Netlify CMS will open a merge request and make a commit by your account to a MR with your changes to a single page. Future changes to the draft will be additional commits by the user making the changes to the draft. We can also use a traditional git workflow once the MR is created if someone wants to the pull your branch and make changes that way instead. 
 
-The editoral workflow is a powerful process that allows content contributers and developers to contribute to the same merge request with different tools.
+The editorial workflow is a powerful process that allows content contributors and developers to contribute to the same merge request with different tools.
 
 Access the workflow tab in Netlify CMS by selecting "Workflow" in the top of the admin UI. You can also reach it directly at [https://about.gitlab.com/admin/#/workflow](https://about.gitlab.com/admin/#/workflow)
 
@@ -56,7 +56,7 @@ Access the workflow tab in Netlify CMS by selecting "Workflow" in the top of the
 
 ## Creating a new or editing an existing page with Netlify CMS
 
-To edit a existing or create a new page in Netlify CMS, that [content type needs to be enabled](/handbook/marketing/netlifycms#content-types-enabled-in-netlify-cms). If it is, you can do the following to create an MR with your changes using Netlify CMS:
+To edit an existing page or create a new page in Netlify CMS, that [content type needs to be enabled](/handbook/marketing/netlifycms#content-types-enabled-in-netlify-cms). If it is, you can do the following to create an MR with your changes using Netlify CMS:
 
 1. Follow steps above for [accessing the admin](/handbook/marketing/netlifycms#accessing-the-admin)
 1. Select the content type you wish to add or edit an existing page to from the left hand sidebar
@@ -87,11 +87,11 @@ To edit or create a new topic page in Netlify CMS, do the following:
 
 ### Marketing Blog Posts
 
-Blog posts can be created and edited using Netlify CMS. Netlify CMS is especialy good for starting your blog post, creating the proper markdown file that is structured correctly, and starting a merge request. You can use the traditional merge request workflow in tandam with the Netlify CMS workflow. Be sure to read the [Blog Handbook](https://about.gitlab.com/handbook/marketing/blog/) for all instructions related to writing and creating a blog post.
+Blog posts can be created and edited using Netlify CMS. Netlify CMS is especially good for starting your blog post, creating the proper markdown file that is structured correctly, and starting a merge request. You can use the traditional merge request workflow in tandem with the Netlify CMS workflow. Be sure to read the [Blog Handbook](https://about.gitlab.com/handbook/marketing/blog/) for all instructions related to writing and creating a blog post.
 
 Blog posts managed through Netlify CMS exist at [https://about.gitlab.com/blog/](https://about.gitlab.com/blog/) url. The content is located stored in the [`/sites/marketing/source/blog/blog-posts`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/marketing/source/blog/blog-posts) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these markdown files through the admin interface.
 
-Please note that it takes time for all existing blog posts to load in the admin. You can use the "sort by" functionality to view only posts from a certian category. If you are creating a new blog post, you do not have to wait for all blog posts to load in the admin.
+Please note that it takes time for all existing blog posts to load in the admin. You can use the "sort by" functionality to view only posts from a certain category. If you are creating a new blog post, you do not have to wait for all blog posts to load in the admin.
 
 ## Admin Features
 
