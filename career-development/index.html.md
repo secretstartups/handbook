@@ -527,7 +527,7 @@ Since collective exceptions within a department will at some point impact overal
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
-In March 2021 a point-in-time review of all engineering teams found that of 64 potential Staff roles, 37 were currently unfilled (from a gearing limit perspective). This analysis is available in this sheet (internal only) [2021 March - Staff Current Roles](https://docs.google.com/spreadsheets/d/1LlhqyPXqfBsweGoeA98Xcw981rNwaTpIIQbWOxjTFAE/edit?usp=sharing).
+In March 2021 a point-in-time review of all engineering teams found that of 64 potential Staff roles, more than 40 were currently unfilled (from a gearing limit perspective). This analysis is available in this sheet (internal only) [2021 March - Staff Current Roles](https://docs.google.com/spreadsheets/d/1LlhqyPXqfBsweGoeA98Xcw981rNwaTpIIQbWOxjTFAE/edit?usp=sharing).
 In addition to the current set of opportunities, our Engineering organization is continuing to grow and with each new team comes the potential for another Staff role. 
 Finally, in conjunction with the [IC Gearing Working Group](https://about.gitlab.com/company/team/structure/working-groups/ic-gearing) effort, the Principal Engineer role is [being added](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/74187) to the Engineering Career Path. This new role offers further career advancement opportunities to existing Staff Engineers and in turn opens future opportunities for Senior Engineers.
 
