@@ -200,6 +200,10 @@ There is also an option to add more context around what is wrong with the conten
 
 From here, the GitLab L&D team will moderate and remove comments and content in violation of our CoC.
 
+## Reporting content errors in GitLab Learn
+
+Learners in the platform might come across errors like spelling mistakes, broken links, or information that is not up to date. Please help our team by reporting these errors by open an issue using the template `gitlab-learn-error-report` on the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions/-/boards)
+
 ## Frequently asked questions
 
 
@@ -232,6 +236,10 @@ Please review the steps for [submitting a support ticket](/handbook/people-group
 ### I can't see all the content in a Pathway or Journey on GitLab Learn.
 
 Please note that some content in the Pathway is restricted to internal team members, specific audiences, or paid customers. If you believe you're having trouble accessing public content, please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users).
+
+### I found a mistake on GitLab Learn - how do I let someone know?
+
+Thanks for helping us keep the content in GitLab Learn up to date! Please refer to the [reporting an error on GitLab Learn handbook section above](/handbook/people-group/learning-and-development/gitlab-learn/user/#reporting-content-errors-in-gitlab-learn) for instructions.
 
 ## Have additional questions about GitLab Learn?
 

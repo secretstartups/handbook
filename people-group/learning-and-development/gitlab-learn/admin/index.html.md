@@ -832,6 +832,26 @@ Want to connect with other GitLab Learn users? Check out our category on the Git
 
 ```
 
+#### I found a mistake in GitLab Learn - how do I report it?
+
+##### Support Workflow
+
+1. Ask user to open an issue to report the mistake
+
+#####
+
+```
+Dear {{user.firstname}}
+
+Thanks for helping us keep the content in GitLab Learn up to date! Please refer to the [reporting an error on GitLab Learn handbook section above](/handbook/people-group/learning-and-development/gitlab-learn/user/#reporting-content-errors-in-gitlab-learn) for instructions.
+
+Sincerely,
+
+{{agent.firstname}}
+
+```
+
+
 ### Automatic email templates
 
 The following are email templates generatetd automatically either via Zendesk or Gmail and are meant to point users to the correct pathways for support.
