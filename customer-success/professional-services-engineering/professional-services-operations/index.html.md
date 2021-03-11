@@ -135,7 +135,7 @@ Note: Members cannot be invited to a project as a guest viewer, they must be ass
 To view projects as Read only/ Guest:
 - Members can find projects for which they have Guest Access by going to the Project List tab in Projects and selecting Guest Projects from the Show drop-down menu. Note that team members cannot have Guest Access on projects for which they're participating.
 
-![Read Only](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/Mavenlinkguestaccess3.png)
+![Read Only](./Mavenlinkguestaccess3.png)
 
 ![Read Only 2](./Mavenlinkguestaccess2.png)
 
@@ -261,13 +261,13 @@ Time off cancellation
 - Right hand profile will pop up, there is a section for Upcoming Time Off
 - Click on the plus sign select the date and update the hours to "0"
 
-![PTOFeature2](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/ptofeature2.png)
+![PTOFeature2](./ptofeature2.png)
 
 #### Mavenlink Time Tracking- Time Sheets
 
-![timesheets](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/timesheets.png)
+![timesheets](./timesheets.png)
 
-![timesheetoptions](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/timesheetoptions.png)
+![timesheetoptions](./timesheetoptions.png)
 
 #### Mavenlink Time Approval Process
 
@@ -302,28 +302,28 @@ Method 1- Mavenlink email
 
 - Automated Mavenlink time sheet approval email received when time sheet is submitted
 
-![emailapproval](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/emailapproval.png)
+![emailapproval](./emailapproval.png)
 
 - Click on the **view the timesheet** link to review the timesheet.
 - Click the Approve button to approve the timesheet or the Reject button to reject the timesheet. Enter notes if you are rejecting the timesheet.
 
 Method 2- Mavenlink Time Sheet Approvals
 
-![timeapprovals1](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/timeapprovals1.png)
+![timeapprovals1](./timeapprovals1.png)
 
-![timeapprovals2](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/timeapprovals2.png)
+![timeapprovals2](./timeapprovals2.png)
 
-![timeapprovals3](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/timeapprovals3.png)
+![timeapprovals3](./timeapprovals3.png)
 
-![timeapprovals4](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/timeapprovals4.png)
+![timeapprovals4](./timeapprovals4.png)
 
-![timeapprovals5](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/timeapprovals5.png)
+![timeapprovals5](./timeapprovals5.png)
 
 Method 3- Mavenlink project activity feed
 
-![projectactivity1](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/projectactivity1.png)
+![projectactivity1](./projectactivity1.png)
 
-![projectactivity2](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations/projectactivity2.png)
+![projectactivity2](./projectactivity2.png)
 
 #### Mavenlink Project Creation
 
