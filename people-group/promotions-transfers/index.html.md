@@ -299,7 +299,7 @@ If a department is over the 12% promotion rolling rate, the following process sh
     - If the change was instead being processed on June 15, this would be effective July 1.
 1. Stage the letter in HelloSign and add the following team members to sign:
     - Add checkbox for the Total Rewards Analyst to audit
-    - Add checkbox for the Manager to communicate the change to the team member and announce at the company calculator
+    - Add checkbox for the Manager to communicate the change to the team member and announce on the `#team-member-updates` Slack channel.
     - Add signature field for the Total Rewards Authorized Signatory
     - Add signature field for the team member
     - Add sign date field for the team member
