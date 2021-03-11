@@ -16,7 +16,7 @@ Creating, updating and escalating GitLab issues correctly is an important part o
 
 ## Issue Prioritization
 
-In general, the Product team  will [prioritize all issues](/handbook/product/product-processes/#how-we-prioritize-work) (not just customer requests) based on types of issues and the [direction of the product](/direction).
+In general, the Product team  will [prioritize all issues](/handbook/product/product-processes/#how-we-prioritize-work) (not just customer requests) based on types of issues and the [direction of the product](/direction/).
 
 The Support Team plays a role in communicating the **impact to customers** of issues and feature requests. By using appropriate templates, adding labels, and adding relevant information in descriptions and comments, the team can communicate which issues affect customers along with their priority and severity. By participating in the scheduling effort for each release, the Support Team represents an additional voice of the customer in product development.
 
