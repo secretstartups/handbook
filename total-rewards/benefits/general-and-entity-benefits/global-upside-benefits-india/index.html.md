@@ -152,7 +152,7 @@ All of the benefits listed below are administered and managed by [Global Upside
 * Healthcare Monthly Allowance will be paid by Global Upside as an allowance to the team members for their own Medical Coverage.
 * This amount will be paid on monthly basis with the regular payroll as a reimbursement.
 * Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount.
-* The allowance will be up to 300 USD per month for team member and up to 500 USD per month for team member plus Dependants. (USD amount can be converted to the local currency using the latest [Currency Conversion Factor](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates))
+* The allowance will be up to 300 USD per month for team member and up to 500 USD per month for team member plus Dependents. (USD amount can be converted to the local currency using the latest [Currency Conversion Factor](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates))
 * The Total Rewards team will send a confirmation email to Global Upside to have the reimbursement processed.
 
 ### Pension
