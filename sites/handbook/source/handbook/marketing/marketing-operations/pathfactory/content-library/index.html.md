@@ -260,7 +260,7 @@ Industry verticals are set using a standard list in SFDC per [this issue](https:
 1. Transportation
 1. Utilities
 
-## Blocked Content from Third Party Web Pages
+## Blocked Content from Third-Party Web Pages
 
 If you try to upload a web page from a domain that you do not own and that web page has not whitelisted your PathFactory track URLs, you will be served an error message telling you that you cannot upload this content to the Content Library.
 
@@ -274,6 +274,8 @@ Because you do not own this web page, your options are limited. You will be unab
 When you enable the `End Promoter`, add the destination URL of the blocked content. When a visitor reaches the end of the Content Track, they will be prompted with your call to action `End Promoter`. If the visitor clicks on this promoter, the destination URL (of the blocked content) will open in a new tab.
 
 More on iFrame blocking can be found [here](/handbook/marketing/marketing-operations/pathfactory/#about-iframes).
+
+When uploading third-party assets, always ensure they are secure URLs (`https://`). Content that is not secure will not display in content tracks. Also, third-party web pages would need to allow iFraming as PathFactory tracks are served within an iFrame.
 
 ## Content Expiration Policy
 
