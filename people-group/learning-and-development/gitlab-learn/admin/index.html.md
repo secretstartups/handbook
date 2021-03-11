@@ -431,6 +431,7 @@ This section documents specific workflows in EdCast that admin will use when cre
 Update your Journey image based on the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#images-for-journeys-and-pathways)
 1. Either build out new SmartCards from within the Pathway or add content you've already created. Drag and drop Pathways and Smartcards to determine the desired order
 1. Choose to `Save for Later` to be reviwed or `Publish` for content to be available on the platform.
+1. Document all quiz questions and answers in a Google doc. Since you cannot edit or view quizzes after they've been taken by a user, this will help you make edits quickly if necessary
 
 #### Create a Smartcard
 
@@ -476,9 +477,17 @@ At GitLab, we iterate quickly and ship things that aren't perfect. The EdCast sy
 
 ##### Best Practices
 
-Best practices for editing Pathways are still a WIP.
-
-1. Document all quiz questions and answers in a Google doc
+1. Use the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions/-/boards) to triage reports of errors in GitLab Learn
+1. Open the Pathway that contains the error. This original Pathway is considered your Version 1 or V1 of the Pathway. Click the three dots in the top right corner of the Pathway and choose `Make a Copy`. This new copy is now consiered your Version 2 or V2 of the Pathway.
+1. Navitgate to your `Profile` page and click `Content` to view the V2 Pathway. This will be titled automatically as `Copy Of {Pathway Name}`
+1. Return to the V1 of your Pathway and rename it as `DEPRECATED V1: {Pathway Name}`
+1. Now, you must remove the Pathway from any related Channels, Groups, or Assignments in order to keep users from finding it. Do **NOT** delete the V1 Pathway as this will remove any user data related to the Pathway.
+1. After removing any Channels, Groups, or Assignments from the Pathway, mark the Pathway as `private`.
+1. Return to the V2 of your Pathway and rename it to the correct title of the Pathway
+1. Make necessaary updates to the V2 Pathway. This will most often include replacing current quiz SmartCards with new SmartCards that will correct spelling, answer accuracy, or other content.
+1. This V2 Pathway is now the most up to date version of the Pathway content. Reshare this new V2 Pathway with any related Channels, Groups, or Assignments. 
+1. Refer to the Reportinig section of this admin page to understand how the combination of reports from V1 and V2 Pathways will give a full picture of completion.
+1. If you need to update V2 or versions beyond of a Pathway, follow this same process but repalce the version names with `VX` or `version X` where `X` is the correct version number.
 
 ### Channels
 
