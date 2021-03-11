@@ -447,7 +447,8 @@ That's it! For most people that's all you need to do. Once you've completed onbo
 
 Each week we publish the 'mean average per Support Engineer' for solved tickets, public replies and internal notes in the Support Week in Review.
 
-We produce separate reports for [self-managed](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31477512) and [.com](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31478192) tickets in recognition that the volume of tickets for the two roles is different.
+We produce separate reports for 
+- [self-managed](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31477512), [.com](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31478192), and [L&R](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/34808652) tickets in recognition that the volume of tickets for each focus area is different.
 
 We establish a **dynamic baseline** that is 0.85 of the mean average* for each metric. \
 (*value is chosen based on the [threshold for the lower quartile](https://en.wikipedia.org/wiki/Quartile)).
