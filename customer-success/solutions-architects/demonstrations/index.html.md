@@ -31,8 +31,8 @@ Solutions Architects are occasionally called on at a moments notice to give a de
 - This [GitLab.com project](https://gitlab.com/gitlab-examples/security/security-reports/merge_requests/2) is commonly utilized specifically for security discussions
 - The [production monitoring for GitLab.com](https://gitlab.com/charts/gitlab/environments/190276/metrics) is useful for any discussion regarding custom and in-app monitoring
 - The [production Grafana instance](https://dashboards.gitlab.com/d/000000159/ci?refresh=5m&orgId=1) showing GitLab Runner details is a great way to represent the art of the possible as it relates to monitoring and dashboards
-- The GitLab [Direction](/direction) page in the Handbook is often beneficial for future-looking product vision questions and discussions about upcoming features
-- Optional: [Integrations](/handbook/marketing/strategic-marketing/demo/integrations) may be loaded and ready to discuss by leveraging the standard demo environments
+- The GitLab [Direction](/direction/) page in the Handbook is often beneficial for future-looking product vision questions and discussions about upcoming features
+- Optional: [Integrations](/handbook/marketing/strategic-marketing/demo/integrations/) may be loaded and ready to discuss by leveraging the standard demo environments
 - Other Existing demo groups and projects are listed in the next section
 
 ## Existing Demonstrations
