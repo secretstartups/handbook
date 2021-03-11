@@ -44,7 +44,7 @@ This depends on your location. When you complete your Exit Interview, the People
 
 ##### When will I receive (if applicable) commissions payment(s)?
 
-Any commissions earned will be paid (directly deposited) on date provided by `nonuspayroll@ gitlab.com` to the People Ops Specialist, who will relay this information to you during your Exit Interview or prior to it. If you have any questions on this payment, please contact Swetha Akshyap, Sales Commissions Manager at `skashyap@gitlab.com`.
+Any commissions earned will be paid (directly deposited) on date provided by `nonuspayroll@ gitlab.com` to the People Ops Specialist, who will relay this information to you during your Exit Interview or prior to it. If you have any questions on this payment, please contact Sales Commissions at `sales-comp@gitlab.com`. 
 
 ##### When do I submit my final reimbursable expenses?
 
