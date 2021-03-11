@@ -85,7 +85,7 @@ It is highly recommended that all volunteers shadlow the release post prior to t
 
 #### Release Post Manager
 
-Product Managers can volunteer for any release that doesn't have someone assigned yet. To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
+Product Managers of any level (IC or managers) can volunteer for any release that doesn't have someone assigned yet. While we encourage IC product managers to take advantage of the this opportunity to demnostrate their leadership skills, we also value managers bring thier experience to the role.  To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
 
 1. Members that never managed a release post before
 1. Members that have the longest interval since they managed their last release post
