@@ -63,16 +63,16 @@ The Deal Desk team will do their best to respond to each request to '@sales-supp
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
 
-### EOA Ramp Requests SLA 
+### SLA for EoA Ramp Deal Requests
 
-The Deal Desk team will do their best to respond to EOA Ramp requests as quickly as possible. However, due to the complexity of building EOA ramps, the SLA for a quote is as follows: 
+The Deal Desk team will respond to E0A Ramp requests as quickly as possible. However, due to the complexity involved in building ramp deals, the SLA for an EoA Ramp Deal Order Form creation is as follows:
 
 | Subscription Term Start Date | First Response | Resolution |
 |----- | ----- | ------| 
-| Less than 30 days out | 4 Hours | 24 Hours | 
-| More than 30 days out| 4 Hours | 72 hours |
+| < 30 days in the future | 4 Hours | 1 Business Day | 
+| > 30 days in the future| 4 Hours | 3 Business Days |
 
-A Deal Desk member will respond to your chatter request with an estimate on when the quote will be complete. Please let us know if your customer requires the quote in advance due to lenghty procurement cycles or budget planning reasons. 
+A Deal Desk team member will respond to your chatter request with an estimate on when the Order Form will be complete. Please let us know if your customer requires the quote in advance due to lengthy procurement cycles or budget planning reasons - exceptions will be considered in cases of urgency, or to meet a customer's needs.
 
 #### Deal Desk - A Global Presence
 
