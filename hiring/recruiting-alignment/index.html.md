@@ -12,17 +12,17 @@ description: "This page is an overview of the search team alignment and the recr
 | Enterprise Sales, NA | Marcus Carter |  Susan Hill |
 | Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu |
 | Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu |
-| Commercial Sales,	Global | Marcus Carter | Susan Hill  | 
-| Channel Sales, NA | Steph Sarff |  J.D. Alex (interim Kanwal Matharu) |
+| Commercial Sales,	Global | Marcus Carter | Susan Hill | 
+| Channel Sales, NA | Steph Sarff |  J.D. Alex |
 | Channel Sales, EMEA | Debbie Harris |  Kanwal Matharu |
 | Channel Sales, APAC | Debbie Harris |  Kanwal Matharu |
-| Field Operations,	NA | Steph Sarff | J.D. Alex (interim Loredana Iluca) | 
+| Field Operations,	NA | Steph Sarff | J.D. Alex | 
 | Field Operations,	EMEA | Debbie Harris | Kanwal Matharu |
 | Field Operations,	APAC | Debbie Harris |  Kanwal Matharu |
-| Customer Success, NA | Steph Sarff | J.D. Alex (interim Kanwal Matharu) | 
+| Customer Success, NA | Steph Sarff | J.D. Alex | 
 | Customer Success, EMEA | Debbie Harris  | Kanwal Matharu |
 | Customer Success, APAC | Debbie Harris  | Kanwal Matharu |
-| Marketing, Global | Steph Sarff   | J.D. Alex (interim: Kanwal Matharu (SDR openings)/ Loredana Iluca (rest)) |
+| Marketing, Global | Steph Sarff   | J.D. Alex |
 | G&A | Maria Gore | Loredana Iluca |
 | Development | Rupert Douglas / Cyndi Walsh | Zsuzsanna Kovacs / Joanna Michniewicz  |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs |
