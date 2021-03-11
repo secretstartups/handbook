@@ -12,7 +12,15 @@ description: >-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-For the customers that have [Priority Support](/support/#priority-support), the Support Engineering Team is on-call and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](/support/#definitions-of-support-impact).
+## On-call in GitLab Support
+
+There are four on-call rotations in Support:
+- [CMOC](/handbook/support/workflows/cmoc_workflows.html) - in which Support Engineers drive public communication in the incident management process during GitLab.com operational emergencies.
+- **Customer Emergencies** (currently covered on this page)- in which Support Engineers respond to and coordinate the resolution of emergency reports from Self-managed and GitLab.com customers
+- [US Federal Emergencies](#us-federal-on-call) - which is similar to Customer Emergencies, but has different hours and a US Citizen requirement to participate in
+- [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) - in which Support Manager are an escalation point for issues raised by Support Engineers and GitLab team memebers and missed PagerDuty notifications
+
+For customers that have [Priority Support](/support/#priority-support), the Support Engineering Team is on-call in these capacities and available to assist with emergencies. What constitutes an emergency is defined in our [definitions of support impact](/support/#definitions-of-support-impact).
 
 We take on-call seriously. There are [escalation policies](https://gitlab.pagerduty.com/escalation_policies#PKV6GCH) in place so that if a first responder does not respond fast enough another team member or members is/are alerted. Such policies aren't expected to ever be triggered, but they cover extreme and unforeseeable circumstances.
 
@@ -208,31 +216,6 @@ We're expecting, broadly that emergencies will fall into one of three categories
 - **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. => reproduce, identify, escalate to have the specific data corrected (and create a bug report so our code is better)
 - **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
 
-## Expectations for Support Manager On-call
-
-Support Managers also have an on-call rotation. The support manager on-call is responsible for the below:
-
-### Customer emergency pages and other incidents
-
-- Act as an escalation point for missed customer emergency pages.
-- Find staff to help with [multiple emergencies](#handling-multiple-simultaneous-emergencies).
-- Act as a notification point for [security incidents](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact).
-
-### Escalations, requests and questions in #support_escalations _(business days only)_
-
-- Triage and investigate tickets that are escalated in `#support_escalations` to understand the scope of the request.
-     - After initial triage of a new escalation in `#support_escalations`, if the determined action to take needs input and help from engineers, initiate a new thread in `#support_gitlab-com`, `#support_self-managed` or `#support_licensing-subscription`. Loop in relevant engineers (support and/or dev) or groups there and let the person who raised the escalation in `#support_escalations` know that all technical ticket-related discussion will happen in the new thread. This helps avoid engineers being looped into multiple threads and channels, and helps keep the technical discussion in one place.
-- Provide ownership and assignment for tickets that are escalated in `#support_escalations`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find an appropriate engineer to work the ticket.
-- Inform those who have posted an escalation request in `#support_self-managed` or `#support_dot-com` to post their escalation request instead in `#support_escalations`. Do this by responding to their request with only the :escalate: emoji, which will send an automated and anonymous reply describing the correct process.
-- Coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests.
-
-If you will be unable to handle on-call for a few hours on a weekday due to being engaged in a customer call or otherwise, arrange for another manager to handle on-call responsibilities temporarily by:
-
-    1. asking a specific manager to cover, and then if necessary,
-    1. posting a request in `#spt_managers` for any manager to volunteer to cover if the specific request goes unanswered.
-
-To swap your on-call duty with someone, follow the steps listed under [Swapping on-call duty](/handbook/support/on-call/#paging-the-on-call-manager).
-
 ### Seeing which manager is on-call
 
 To see who the current manager on-call is you can:
@@ -251,9 +234,6 @@ To see who the current manager on-call is you can:
 - If it's important and urgent, you can:
     - Use the `/pd-support-manager` command to page the on-call manager
     - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
-
-### Resolving issues as the support manager on-call
-We currently consider :green_check_mark: in slack on the original slack request as a signal that the escalation has been resolved.
 
 ## Mobile phone service and data reimbursement
 

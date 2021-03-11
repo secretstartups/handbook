@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: How to Perform Support Manager On-call Duties
+title: How to be a Support Manager On-call
 category: On-call
-description: "Describes the role and responsibilities for Support Manager on-call rotation in Support Engineering"
+description: "Describes the role and responsibilities for the Support Managers rotation in Support Engineering"
 ---
 
 - TOC
@@ -10,46 +10,32 @@ description: "Describes the role and responsibilities for Support Manager on-cal
 
 ----
 
-## Introduction
 
-This is a placeholder - please use the [current on-call handbook](/handbook/support/on-call/)
+## Expectations for Support Manager On-call
 
-## Things To Know
+Support Managers also have an on-call rotation. The support manager on-call is responsible for the below:
 
-### How Are Incidents Declared?
+### Customer emergency pages and other incidents
 
-### What to do if you don't know what to say
+- Act as an escalation point for missed customer emergency pages.
+- Find staff to help with [multiple emergencies](/handbook/support/on-call/#handling-multiple-simultaneous-emergencies).
+- Act as a notification point for [security incidents](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact).
 
-### Reviewing Past Incidents
+### Escalations, requests and questions in #support_escalations _(business days only)_
 
-### Stage 1: **Incident Creation**
+- Triage and investigate tickets that are escalated in `#support_escalations` to understand the scope of the request.
+     - After initial triage of a new escalation in `#support_escalations`, if the determined action to take needs input and help from engineers, initiate a new thread in `#support_gitlab-com`, `#support_self-managed` or `#support_licensing-subscription`. Loop in relevant engineers (support and/or dev) or groups there and let the person who raised the escalation in `#support_escalations` know that all technical ticket-related discussion will happen in the new thread. This helps avoid engineers being looped into multiple threads and channels, and helps keep the technical discussion in one place.
+- Provide ownership and assignment for tickets that are escalated in `#support_escalations`; [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) can be used to find an appropriate engineer to work the ticket.
+- Inform those who have posted an escalation request in `#support_self-managed` or `#support_dot-com` to post their escalation request instead in `#support_escalations`. Do this by responding to their request with only the :escalate: emoji, which will send an automated and anonymous reply describing the correct process.
+- Coordinate [live upgrade assistance](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) requests.
 
-#### PagerDuty Status
+If you will be unable to handle on-call for a few hours on a weekday due to being engaged in a customer call or otherwise, arrange for another manager to handle on-call responsibilities temporarily by:
 
-{:.no_toc}
+    1. asking a specific manager to cover, and then if necessary,
+    1. posting a request in `#spt_managers` for any manager to volunteer to cover if the specific request goes unanswered.
 
-- **Triggered** - "An incident exists that requires the attention of a CMOC"
-- **Acknowledged** - "I have seen the page and am on my way to the incident room"
-- **Resolved** - "A tracking issue has been created, the status page has been updated and I am actively engaged in the incident management process"
+To swap your on-call duty with someone, follow the steps listed under [Swapping on-call duty](/handbook/support/on-call/#swapping-on-call-duty).
 
-**NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved.
 
-#### 1. Join The Incident Zoom Call
-
-#### 2. Create the Incident
-
-#### 3. Notify Account Management team
-
-### Stage 2: **Incident Updates**
-
-### Stage 3: **Incident Resolution**
-
-#### Monitoring
-
-#### Resolved
-
-#### Post-Mortem
-
-## Handover Procedure
-
-## Support Manager On-call Shadow PagerDuty Schedule
+### Resolving issues as the support manager on-call
+We currently consider :green_check_mark: in slack on the original slack request as a signal that the escalation has been resolved.
