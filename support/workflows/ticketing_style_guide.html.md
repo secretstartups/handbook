@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Ticketing Style Guide
 category: Handling tickets
+subcategory: Writing responses and handling feedback
 description: Guidelines on structuring ticket responses.
 ---
 

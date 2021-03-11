@@ -1,7 +1,8 @@
 ---
 layout: handbook-page-toc
-title: How to Respond to Feedback (for Managers)
+title: Satisfaction (SSAT) review and responding (for Managers)
 category: Handling tickets
+subcategory: Writing responses and handling feedback
 description: Discusses the Support Team's Support Satisfaction review process, and actions which Managers take to respond to customer feedback
 ---
 

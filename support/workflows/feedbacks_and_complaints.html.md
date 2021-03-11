@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Feedback and Complaints
 category: Handling tickets
+subcategory: Writing responses and handling feedback
 description: "Support Engineering workflow for receiving and responding to customer feedback"
 ---
 
