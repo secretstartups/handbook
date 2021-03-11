@@ -9,7 +9,7 @@ title: "Personal VPN"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-GitLab does not use a [corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn), but does allow for personal VPNs to be used and [expensed](/handbook/spending-company-money/#internetmobile-subscription) by team members.
+GitLab does not use a [corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn), but does allow for personal VPNs to be used and [expensed](/handbook/finance/expenses/#reimbursements) by team members.
 
 ## What is a personal VPN?
 
