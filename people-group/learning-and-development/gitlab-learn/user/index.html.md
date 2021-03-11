@@ -237,6 +237,10 @@ Please review the steps for [submitting a support ticket](/handbook/people-group
 
 Please note that some content in the Pathway is restricted to internal team members, specific audiences, or paid customers. If you believe you're having trouble accessing public content, please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users).
 
+### I found a mistake on GitLab Learn - how do I let someone know?
+
+Thanks for helping us keep the content in GitLab Learn up to date! Please refer to the [reporting an error on GitLab Learn handbook section above](/handbook/people-group/learning-and-development/gitlab-learn/user/#reporting-content-errors-in-gitlab-learn) for instructions.
+
 ## Have additional questions about GitLab Learn?
 
 Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
