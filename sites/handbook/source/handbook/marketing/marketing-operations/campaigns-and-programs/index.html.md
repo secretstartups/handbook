@@ -421,6 +421,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update `Status` to `In Progress` or the approriate selection
     - Update `Region` and `Sub-region`, if these are local or targeted to a specific region
     - Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - NOTE: an offling Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/).
+    - All other fields on the campaign are not required and are not used for reporting - take `Status` as an example. You WOULD update this field to `Aborted` if the campaign was cancelled for any reason. We have a process that goes into more detail specifically when [offline events are cancelled](/handbook/marketing/events/#cancellation-of-offline-events). 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
 
