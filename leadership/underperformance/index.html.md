@@ -36,6 +36,20 @@ Managing and identifying underperformance is one of the hardest things a manager
 
 > If someone is not going to make it after going through the underperformance process; and you've given the chance for them to improve, recognize that it's not only better for the company to move on, it's frequently also better for the direct report and their team members. Get them to a role where they can be successful, whether inside or outside of GitLab, but the longer you wait, the harder it will be to make a change. If it's not going to work out, take action as soon as possible. - GitLab co-founder and CEO [Sid Sijbrandij](/about.gitlab.com/handbook/ceo/)
 
+### Warning Signs/Patterns of Underperformance
+
+How do you know if a team member isn't reaching their goals? Identifying underperformance can be tricky. Below are some common warning signs and patterns of underperformance. 
+
+1. Volume of output
+2. Quality of output
+3. Response time
+4. Unclear status
+5. Frustration of the team member
+6. Disagreements or confusion about the goals
+7. Frustration from other team members
+8. Other team members start working around them
+9. Missed goals and timelines
+
 
 ## Act Early
 
