@@ -29,11 +29,10 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
 - Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and is reviewed weekly by PS Operations and Manager. 
 - Hours for PTO, Holidays and Friends and Family day are no longer required to be submitted in the weekly time sheet.
   
-  - PTO should be submitted in the time off feature in Mavenlink
+  - PTO should be submitted in the time off feature in Mavenlink, and also follow the company guidelines, [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
   - Holidays along with Friends and Family day are scheduled on the Mavenlink calendar
-  - Review this section for the [time off process](Mavenlink Time Off Scheduling, Holidays, Friends & Family Days)
-
-- Time is required to round to the nearest quarter hour, example- 8, 8.25, 8.5, 8.75 along with using h for hour and m for minutes
+  
+- Time is required to round to the nearest quarter hour, example: 
   - 15m should be .25
   - 30m should be .5
   - 45m should be .75
@@ -136,9 +135,17 @@ Note: Members cannot be invited to a project as a guest viewer, they must be ass
 To view projects as Read only/ Guest:
 - Members can find projects for which they have Guest Access by going to the Project List tab in Projects and selecting Guest Projects from the Show drop-down menu. Note that team members cannot have Guest Access on projects for which they're participating.
 
-![Read Only](./Mavenlinkgustaccess1.png)
+![Read Only](./Mavenlinkguestaccess3.png)
 
 ![Read Only 2](./Mavenlinkguestaccess2.png)
+
+#### Mavenlink Update User Profile
+
+* From the Dashboard, click on Edit Profile
+
+![User Profile](./Profile.png)
+
+* Update the profile information along with a phote and hit save
 
 #### Mavenlink Collaborator (PSE) Onboarding Checklist
 
@@ -164,14 +171,6 @@ Project Close
 - [ ] Ensure all your tasks are marked complete
 - [ ] Confirm all time has been tracked in your timesheet 
 - [ ] Confirm all expenses have been logged and submitted
-
-#### Mavenlink Update User Profile
-
-* From the Dashboard, click on Edit Profile
-
-![User Profile](./Profile.png)
-
-* Update the profile information along with a phote and hit save
 
 #### Mavenlink Project Lead, Project Manager Onboarding Checklist
 
@@ -262,7 +261,69 @@ Time off cancellation
 - Right hand profile will pop up, there is a section for Upcoming Time Off
 - Click on the plus sign select the date and update the hours to "0"
 
-![PTOFeature](./ptofeature.png)
+![PTOFeature2](./ptofeature2.png)
+
+#### Mavenlink Time Tracking- Time Sheets
+
+![timesheets](./timesheets.png)
+
+![timesheetoptions](./timesheetoptions.png)
+
+#### Mavenlink Time Approval Process
+
+Overview
+
+With Mavenlink’s time approval functionality, members with Project Lead account permissions (or higher) can access the Time Approvals page where they can view and manage time for all projects in which they have Financials permissions (or higher).
+
+The Time Approvals page allows you to view Submitted, Unsubmitted, and Rejected time entries from tabs with the corresponding names. Depending on the state of the submission, you can view the timesheet, private message a user who submitted time, and either approve or reject the time entry. You can also directly message those who still needs to submit time, reminding them to do so.
+
+If you have Report Viewer account permissions (or higher)—or have been designated as a Time Approver for an individual member or project—you’ll see the Your Approvals check box. You can select this checkbox to only see the time that you’re responsible for approving; otherwise, deselect it to review and take action on all submissions.
+
+Members that do not have account permission of Report Viewer (or higher) will only be able to approve time in the project's Activity Feed.
+
+***Time Sheet Approvers***
+
+| Project Type | Time Sheet Approver |
+| ------ | ------ |
+| Consulting Customer Project/ Hours| Lead/ Project Manager |
+| Internal Projects| PS Project Coordinator |
+| Training Project/ Hours| PS Training Coordinator |
+
+****Project Notes****
+- Project notes are required for all Credit and Non Credit time entries
+- If the notes section is blank, reject the time sheet asking for project notes
+
+ There are 3 ways to approve timesheets via Mavenlink:
+- Mavenlink email
+- Mavenlink Time Sheet Approvals 
+- Mavenlink project activity feed 
+
+Method 1- Mavenlink email
+
+- Automated Mavenlink time sheet approval email received when time sheet is submitted
+
+![emailapproval](./emailapproval.png)
+
+- Click on the **view the timesheet** link to review the timesheet.
+- Click the Approve button to approve the timesheet or the Reject button to reject the timesheet. Enter notes if you are rejecting the timesheet.
+
+Method 2- Mavenlink Time Sheet Approvals
+
+![timeapprovals1](./timeapprovals1.png)
+
+![timeapprovals2](./timeapprovals2.png)
+
+![timeapprovals3](./timeapprovals3.png)
+
+![timeapprovals4](./timeapprovals4.png)
+
+![timeapprovals5](./timeapprovals5.png)
+
+Method 3- Mavenlink project activity feed
+
+![projectactivity1](./projectactivity1.png)
+
+![projectactivity2](./projectactivity2.png)
 
 #### Mavenlink Project Creation
 
@@ -310,10 +371,6 @@ Once the PS Opportunity is closed/ won a notification is sent from SFDC.
 - Task Default- should be Billable 
 - Select the Group (Account Name)
   - If the group name is not available, create the Group Name and assign the project to the group
-
-![ViewGroup](./viewgroup.png)
-
-![ViewProject](./viewproject.png)
 
 - Then click Create Project
 - When the project creates, verify the project settings:
