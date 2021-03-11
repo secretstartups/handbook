@@ -24,9 +24,9 @@ Note: User accounts and contributions can never be restored. Projects and groups
 Make sure the request fits the [criteria as per the support page](/support#restoration-of-deleted-data).
 For large customers, be sure to check whether the customer has special provisions in their contract that might affect the processing of this request in the org-notes. The best way to maintain this information is being discussed in [support team #2944](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2944).
 
-If it does not, then you can reply with `SaaS::Restore requests::Does not meet criteria`.
+If it does not, then you can reply with [`Support::SaaS::Restore requests::Does not meet restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Does%20not%20meet%20criteria.yaml).
 
-If it does, then you can reply with `Support::SaaS::Restore requests::Meets restore criteria`,
+If it does, then you can reply with [`Support::SaaS::Restore requests::Meets restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Meets%20criteria.yaml),
 which lets the customer know the limitations and asks them to confirm they want us to go ahead.
 
 When you’ve received all the necessary information, open an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues) with:
