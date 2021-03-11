@@ -13,15 +13,14 @@ description: 'An overview of the Zendesk Global schedules'
 
 ## Overview
 
-Schedules arein Zendesk are like schedules in most other things: windows of
-time. We use these to determine business hours and various regional working
-hours.
+Schedules in Zendesk are like schedules in most other things: windows of time.
+We use these to determine business hours and various regional working hours.
 
 ## GitLab Schedules
 
 ### [Business Hours](https://gitlab.zendesk.com/agent/admin/schedules/91387)
 
-* Timezone: GMT -07:00 Pacific Time (US & Canada)
+* Timezone: Pacific Time (US & Canada)
 * Sunday: 1500-2400
 * Monday: 0000-2400
 * Tuesday: 0000-2400
@@ -32,7 +31,7 @@ hours.
 
 ### [EMEA](https://gitlab.zendesk.com/agent/admin/schedules/360000029879)
 
-* Timezone: GMT +02:00 Amsterdam
+* Timezone: Amsterdam
 * Sunday: Closed
 * Monday: 0800-1800
 * Tuesday: 0800-1800
@@ -43,7 +42,7 @@ hours.
 
 ### [AMER](https://gitlab.zendesk.com/agent/admin/schedules/360000029899)
 
-* Timezone: GMT -07:00 Pacific Time (US & Canada)
+* Timezone: Pacific Time (US & Canada)
 * Sunday: Closed
 * Monday: 0500-1700
 * Tuesday: 0500-1700
@@ -54,7 +53,7 @@ hours.
 
 ### [APAC](https://gitlab.zendesk.com/agent/admin/schedules/360000029919)
 
-* Timezone: GMT +10:00 Brisbane
+* Timezone: Brisbane
 * Sunday: Closed
 * Monday: 0900-2200
 * Tuesday: 0900-2200
@@ -65,7 +64,7 @@ hours.
 
 ### [Low Priority Tickets](https://gitlab.zendesk.com/agent/admin/schedules/360000044539)
 
-* Timezone: GMT -07:00 Pacific Time (US & Canada)
+* Timezone: Pacific Time (US & Canada)
 * Sunday: 1500-2400
 * Monday: 0000-2400
 * Tuesday: 0000-2400
