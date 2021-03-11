@@ -225,26 +225,35 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 
 #### Statutory Leave Entitlement
 
-**Statutory Maternity Leave:** Team members can take up to 52 weeks of Maternity Leave. The earliest that the Maternity Leave can start is 11 weeks before the expected week of childbirth. Maternity leave will also start automatically the date after the birth of the child (if the baby is early) or if the team member is off work for a pregnancy-related illness in the 4 weeks before the expected week of childbirth.
+**Statutory Maternity Leave:** Team members can take up to 52 weeks of Maternity Leave. 
+* The earliest that the Maternity Leave can start is 11 weeks before the expected week of childbirth. 
+    * If the baby is early, maternity leave will start the day after childbirth
+    * Maternity leave will begin automatically if the team member is off work for a pregnancy-related illness in the 4 weeks before the expected week of childbirth.  
+* Team members are not required to take the full 52 weeks of maternity leave, but **must* take at least 2 weeks of leave after the baby is born. 
 
 **Statutory Paternity Leave:** Team members can take up to 2 weeks of Paternity Leave or up to 50 weeks of [Shared Parental Leave](https://www.gov.uk/shared-parental-leave-and-pay). 
+* Paternity Leave cannot be taken after Shared Parental Leave. 
 
 #### Maternity Leave Payment
 
-* Team members can receive Statutory Maternity Leave for up to 39 weeks:
+* Team members can receive Statutory Maternity Pay for up to 39 weeks:
+    * To be eligible for Statutory Maternity Pay, team members must have continuous employment with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the expected week of childbirth). Eligible team members are entitled to: 
     * 90% of the team member's average weekly earnings (before tax) for the first 6 weeks
     * £151.20 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
 * To apply for Maternity Leave:
     * Submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.
-    * Send Total Rewards a completed [MATB1 Certificate](https://www.gov.uk/government/publications/maternity-certificate-mat-b1-guidance-for-health-professionals/maternity-certificate-form-mat-b1-guidance-on-completion) no later than 21 days of your leave start date.
+    * Send Total Rewards a completed [MATB1 Certificate](https://www.gov.uk/government/publications/maternity-certificate-mat-b1-guidance-for-health-professionals/maternity-certificate-form-mat-b1-guidance-on-completion) no later than 21 days before your leave start date.
     * Total Rewards will then complete a [Risk Assessment Form](https://docs.google.com/document/d/1qHdbaeFSnqdwkQDTEurHD5QMbLPLuZGBQO_CBnRkpiE/edit) within 1-3 days of receiving notification of your leave. The purpose of the assessment is to make the team member aware of any hazards or “risks” to her in the work place/home office to reduce potential injury to her or her baby.
     * Total Rewards will notify payroll and email Vistra a copy of the MATB1, start date of leave, and outline what pay the team member is eligible (statutory, supplemental, etc). Payroll will then automatically calculate the SMP due each pay period based on this information. The recovery of 92% will be outlined on the monthly payroll spreadsheet so that the finance team has indication of the amounts being offset each month.    
     * Payroll will continue to be the same while on parental leave but Vistra will file for reimbursement of any statutory funds once the proper paperwork has been sent.
+* If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternity Allowance](https://www.gov.uk/maternity-allowance).
+    * If a team member is eligible for maternity allowance and GitLab Parental Leave, GitLab will supplement the allowance so that team members receive 100% of their pay for up to 16 weeks of their leave. 
 
 #### Paternity Leave Payment
 
 * Team members can receive Statutory Paternity Pay for up to 2 weeks which is £151.20 or 90% of the team member's average weekly earnings (whichever is lower) OR Shared Parental Leave Pay for up to 37 weeks which is £151.20 a week or 90% of the team member's average weekly earnings, whichever is lower.
+* To qualify, team members must have been continuously employed with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the baby is due or the matching week if adopting).
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
 * To apply for Paternity Leave
     * Submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.
