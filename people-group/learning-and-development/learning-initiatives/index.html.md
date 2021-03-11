@@ -159,10 +159,12 @@ The video below from Sid and L&D further explains the concepts:
 
 List of CEO Handbook Learning Sessions:
 
-- [Common misperceptions about Iteration](https://www.youtube.com/watch?v=nXfKtnVUhvQ)
-- [No Matrix Organization](https://www.youtube.com/watch?v=E_wegGRv4mA)
-- [Making Decisions](https://www.youtube.com/watch?v=-by6ohMIi_M&feature=emb_title)
-- [Individual Contributor Leadership](https://www.youtube.com/watch?v=d0x-JH3aolM)
-- [Bias Towards Asynchronous Communication](https://www.youtube.com/watch?v=_okcPC9YucA&feature=emb_title)
-- [High Output Management](https://about.gitlab.com/handbook/leadership/high-output-management/#applying-high-output-management)
-- [Giving and Receiving Feedback](https://www.youtube.com/watch?v=vL864Zg2sm4&t=731s)
+1. [Common misperceptions about Iteration](https://www.youtube.com/watch?v=nXfKtnVUhvQ)
+1. [No Matrix Organization](https://www.youtube.com/watch?v=E_wegGRv4mA)
+1. [Making Decisions](https://www.youtube.com/watch?v=-by6ohMIi_M&feature=emb_title)
+1. [Individual Contributor Leadership](https://www.youtube.com/watch?v=d0x-JH3aolM)
+1. [Bias Towards Asynchronous Communication](https://www.youtube.com/watch?v=_okcPC9YucA&feature=emb_title)
+1. [High Output Management](https://about.gitlab.com/handbook/leadership/high-output-management/#applying-high-output-management)
+1. [Giving and Receiving Feedback](https://www.youtube.com/watch?v=vL864Zg2sm4&t=731s)
+1. [Managing Underperformance](https://www.youtube.com/watch?v=-mLpytnQtlY&t=637s)
+
