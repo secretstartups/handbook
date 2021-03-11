@@ -20,7 +20,7 @@ Compliment the CEO through being the cross-functional linchpin for GitLab when i
 
 ## Quick Links and Fun Facts
 * [Chief of Staff Job Family](/job-families/chief-executive-officer/chief-of-staff/)
-* [Internal Strategy Consultant Job Family](/job-families/chief-executive-officer/internal-strategy-consultant/)
+* [Strategy & Operations Job Family](/job-families/chief-executive-officer/strategy-and-operations/)
 * [Performance Indicators](/handbook/ceo/chief-of-staff-team/performance-indicators/)
 * CoS = Chief of Staff
 * CoST = Chief of Staff Team
