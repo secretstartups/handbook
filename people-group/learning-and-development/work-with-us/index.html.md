@@ -37,6 +37,10 @@ To host a live learning event, start by opening an issue in the Learning and Dev
 
 ### Creating a Learning Hub for your team
 
+Check out this discussion between Product and L&D understand how your team can use GitLab Learn to create a Learning Hub for your team:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xERAnmwW0G0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We work closely with leaders across GitLab to develop landing pages for learning material that is tailored to specific departments and teams. By creating [Channels in GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/admin/#broadcasting-on-channels), teams can contribute, curate, organize, and suggest professional development opportunities for their team members.  Some scenarios where you might want to build a Channel include:
 
 1. You have multiple LinkedIn Learning courses you'd like to showcase
@@ -49,7 +53,10 @@ Here are some examples of Channels that teams have created in GitLab Learn to se
 1. The [Women TMRG Channel](https://gitlab.edcast.com/channel/gitlab-women-tmrg) features LinkedIn Learning courses the TMRG is studying together
 1. The Support Team created a [Professional Development Channel for Support Team Members](https://gitlab.edcast.com/channel/gitlab-support-team-professional-development) to curate existing LinkedIn Learning courses, organized based on skill.
 
-To create a Learning Hub for your team using a Channel in to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_channel` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template.  
+To create a Learning Hub for your team using a Channel in to GitLab Learn, complete these two steps:
+
+1. Open an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_channel` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template. 
+1. Take the [Learning Curator training](https://gitlab.edcast.com/pathways/learning-curator-training) in GitLab Learn 
 
 **In future iterations, the L&D team will enable team members and managers to curate and promote content on these channels without needing to involve the L&D team.**
 
