@@ -51,8 +51,9 @@ The CI Digital Enablement content can be found in a GitLab-only [Google Doc](htt
 
 ### Roadmap
 
-- [Customer Programs 5K< >20K Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/27)
-- [Customer Programs 20K< >50K Epic](https://gitlab.com/groups/gitlab-com/-/epics/1384)
+- [Customer Programs <5k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/26)
+- [Customer Programs 5k - 20k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/27)
+- [Customer Programs 20k - 50k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/31)
 
 ### How To Use
 
@@ -65,8 +66,8 @@ TAMs who wish to send Digital Journey emails to their customers can send them vi
 Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/tam/gainsight/#ctas) in Gainsight. These need to be sent manually by the TAM, but they are setup to facilitate reminders and make this process easy, while we learn how customers want to engage. To use a playbook to send emails:
 
 1. In Gainsight, create a new CTA in the Customer 360.
-1. For `Type`, choose "Lifecycle".
-1. Then, search "digital" and select the appropriate playbook (example: New Customer Onboarding - Self-Managed Digital Journey) which will add a checklist for each email in the sequence.
+1. For `Type`, choose "Digital Journey".
+1. Then select the appropriate playbook (example: New Customer Digital Onboarding - Self-Managed Email Series) which will add a checklist for each email in the sequence.
 1. Save the CTA.
 1. Click the whitespace next to the name of the next email to be sent, then on “Validate Email”.
 1. This opens an editor where you can choose contacts and modify the email before sending it.
