@@ -56,6 +56,7 @@ Before reviewing the documented best practices below, take time to watch these r
 #### Applicable to all content
 
 1. URLs for content cannot be deleted or edited, and they are generated automatically by the title that is first entered for the content. This is the same for all content in the platform, so take care to properly name content when you're creating it for the first time. When content is deleted, that URL can no longer be used.
+1. The `Mark as Complete` setting platform wide is set to `auto-mark as complete`. This setting allows our integration with LinkedIn Learning to track content completed on the LinkedIn platform itself and should not be changed. As a result, if you'd like users to manually mark content as complete, please be sure to select `Manually` at the Pathway setting to override the `auto-mark as complete` setting. Otherwise, leave Pathways to the `Automatically` mark as complete setting.
 
 #### SmartCards
 
@@ -135,6 +136,24 @@ Option 3: If parts of the content are for a certain audience and parts are avail
 **Example:** L&D hosts a [manager challenge course](/handbook/people-group/learning-and-development/manager-challenge/) with graded content for a specific group of learners. The team wants the manager content available for the wider community but needs the graded content to be restricted to assigned learners. SmartCards with public content will be built independently of any Pathway, then added to the private manager challenge Pathway. SmartCards with private content will be built within the private manager challenge Pathway. This private Pathway will be assigned to specific audiences and the wider community can discover content in SmartCards.
 
 There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
+
+#### Sharing private content with the right audience
+
+With the combination of `private` content, Groups, and Channels, you can restrict content to certain audiences in GitLab Learn. This is an essential EdCast feature for the GitLab team, as we're using GitLab Learn to share content across internal and external audiences. Examples include:
+
+1. Sales enablement content that is for internal audiences only
+1. Training platforms for specific teams that are for specific team members only
+1. Professional Services content that is for paid customers only
+
+Below outlines use case examples when using `private` Groups, Channels, and content. It's important to understand how stacking `public`/`private` content with `public`/`private` Channels and Groups will impact user access.
+
+1. Begin by reviewing the steps above that explain how to mark content as `public` or `private`
+1. `private` content can be shared with Groups and Channels
+1. If you share `private` content with a `private` Group, only members of that Group can access the content. Be sure this Group is **not** open so that non-designated users can't join the Group. An example of this use case is the Field Enablement team, who creates trainings that are shared only with the `GitLab Internal Team Members` group, or with Professional Services, who create trainings that are shared with specific customer groups.
+1. If you share `private` content with a `public` Group, only that Group can access the content, **but anyone can join the group**. This use case can be used if you want to organize users with similar interests into a Group, but make the Group available for anyone to join.
+1. If you share `private` content with a `private` Channel, only followers of that Channel can see the content. This is a great way to organize and curate content for specific audiences. For example, before launching our entire course catalog, the L&D team will restrict our external content offerings on GitLab Learn to 3 courses. However, we still want all our material to be available to GitLab team members. To do this, we can create a `private` Channel and share that Channel with the `GitLab Internal Team Members` Group. This will ensure that the content on the `private` Channel can only be seen by members of the `private` Group. Later, we can make this Channel `public` and share with all users.
+1. If you share `private` content with a `public` Channel, only followers of that Channel can see the content, **but anyone can follow the Channel**. This is a similar use case as sharing `private` content with a `public` group. If you'd like to organize users with similar interests by inviting them to follow a `public` Channel, this use case might work.
+
 
 ### Choosing between a badge or certification
 
@@ -412,6 +431,7 @@ This section documents specific workflows in EdCast that admin will use when cre
 Update your Journey image based on the [image guidelines](/handbook/people-group/learning-and-development/gitlab-learn/admin/#images-for-journeys-and-pathways)
 1. Either build out new SmartCards from within the Pathway or add content you've already created. Drag and drop Pathways and Smartcards to determine the desired order
 1. Choose to `Save for Later` to be reviwed or `Publish` for content to be available on the platform.
+1. Document all quiz questions and answers in a Google doc. Since you cannot edit or view quizzes after they've been taken by a user, this will help you make edits quickly if necessary
 
 #### Create a Smartcard
 
@@ -445,6 +465,29 @@ Edits that you'd like to made related to the arrangement of content in the LXP w
 - Arrangement of SmartCards in a Pathway, or Pathways in a Journey
 - Badging information
 
+#### Editing Pathways after users have completed the Pathway
+
+At GitLab, we iterate quickly and ship things that aren't perfect. The EdCast system does not easily enable us to make iterative updates and changes to Pathways once published, especially after a user has accessed or completed the Pathway. This section outlines the limitations of the tool and best practices for editing Pathways.
+
+##### Limitations
+
+- Quizzes that have been completed by users cannot be editied
+- Administrators cannot see quizzes once they have been completed
+- If a pathway is edited after a user earns the pathway badge, they will retain their badge, but their completion status on the pathway will show up as a percentage less than 100%, depending on how many SmartCards are now `incomplete` after editing
+
+##### Best Practices
+
+1. Use the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions/-/boards) to triage reports of errors in GitLab Learn
+1. Open the Pathway that contains the error. This original Pathway is considered your Version 1 or V1 of the Pathway. Click the three dots in the top right corner of the Pathway and choose `Make a Copy`. This new copy is now consiered your Version 2 or V2 of the Pathway.
+1. Navitgate to your `Profile` page and click `Content` to view the V2 Pathway. This will be titled automatically as `Copy Of {Pathway Name}`
+1. Return to the V1 of your Pathway and rename it as `DEPRECATED V1: {Pathway Name}`
+1. Now, you must remove the Pathway from any related Channels, Groups, or Assignments in order to keep users from finding it. Do **NOT** delete the V1 Pathway as this will remove any user data related to the Pathway.
+1. After removing any Channels, Groups, or Assignments from the Pathway, mark the Pathway as `private`.
+1. Return to the V2 of your Pathway and rename it to the correct title of the Pathway
+1. Make necessaary updates to the V2 Pathway. This will most often include replacing current quiz SmartCards with new SmartCards that will correct spelling, answer accuracy, or other content.
+1. This V2 Pathway is now the most up to date version of the Pathway content. Reshare this new V2 Pathway with any related Channels, Groups, or Assignments. 
+1. Refer to the Reportinig section of this admin page to understand how the combination of reports from V1 and V2 Pathways will give a full picture of completion.
+1. If you need to update V2 or versions beyond of a Pathway, follow this same process but repalce the version names with `VX` or `version X` where `X` is the correct version number.
 
 ### Channels
 
