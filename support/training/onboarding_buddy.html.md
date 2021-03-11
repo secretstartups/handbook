@@ -62,7 +62,7 @@ Note that everyone's needs are different, so consider the following as a list of
   - Walk them through Zendesk and how to use it
   - Answer any questions they have about the [ticket workflow handbook pages](https://about.gitlab.com/handbook/support/workflows/)
   - Walk through your own process for choosing and answering tickets
-  - Talk about [setting a signature](https://gitlab.com/gitlab-com/support/team/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&search=salutation)
+  - Talk about [setting salutations in signature](https://gitlab.com/gitlab-com/support/team/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&search=salutation)
   - Show them how to create a ticket pairing issue
 
 - Pair on tickets:

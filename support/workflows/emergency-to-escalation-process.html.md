@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Emergency -> Escalation
 description: Guidance to support engineers on when and how to escalate an emergency
-category: Handling tickets
+category: On-call
 ---
 
 ## On this page

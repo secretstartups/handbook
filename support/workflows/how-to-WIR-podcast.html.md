@@ -16,7 +16,10 @@ description: General guide for creating a Support Week-in-Review Podcast
 Use this workflow when you want to do a Week-in-Review Podcast as a general guide.
 
 ---
+
 ##### Workflow
+
+1. Check the Support Team Google calendar for the recording session (near the end of the week).
 1. Determine who will be responsible for each of the following roles. One person can be responsible for them all.
    - Editor: 
       - add theme music
@@ -39,4 +42,4 @@ Use this workflow when you want to do a Week-in-Review Podcast as a general guid
       - export the audio and provide it to the editor before the WIR discussion link is generated
 
 
-2. Execute the above before the discussion thread hits Slack.
+2. Execute the above before the discussion thread hits Slack (see the #support-team-chat Slack reminders to see when this gets posted).

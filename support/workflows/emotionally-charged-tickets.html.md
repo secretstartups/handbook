@@ -2,6 +2,7 @@
 layout: handbook-page-toc
 title: Handling Emotionally-Charged Tickets
 category: Handling tickets
+subcategory: Writing responses and handling feedback
 description: How to keep a ticket moving toward resolution when emotions are getting involved
 ---
 
