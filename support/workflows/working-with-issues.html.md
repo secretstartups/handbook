@@ -14,16 +14,6 @@ description: The support team uses the processes and escalation points described
 
 Creating, updating and escalating GitLab issues correctly is an important part of providing quick and accurate customer support. The support team uses the processes and escalation points described on this page when dealing with GitLab issues.
 
-## Related Macros
-
-- `General::Existing issue`
-- `General::Created an issue`
-- `General::Ask to create an issue`
-- `General::Feature request already exists`
-- `General::Feature Request created by support`
-- `General::Feature Request customer to create`
-- `General::Issue or feature commented by support`
-
 ## Issue Prioritization
 
 In general, the Product team  will [prioritize all issues](/handbook/product/product-processes/#how-we-prioritize-work) (not just customer requests) based on types of issues and the [direction of the product](/direction).
