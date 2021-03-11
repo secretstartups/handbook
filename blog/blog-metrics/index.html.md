@@ -4,7 +4,7 @@ title: "Blog dashboard"
 description: "How to use the GitLab blog performance dashboard."
 ---
 
-You can find the [GitLab Blog Dashboard here](https://datastudio.google.com/s/qn9uvz9minQ). Please watch the video below to get an overview of what metrics and KPIs are included and how to use the dashboard.
+You can find the [GitLab Blog Dashboard here](https://datastudio.google.com/s/vENymsekyR0). Please watch the video below to get an overview of what metrics and KPIs are included and how to use the dashboard.
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/jJnUmKaxu5g" frameborder="0" allowfullscreen="true"> </iframe>
