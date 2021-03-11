@@ -45,13 +45,21 @@ Team members registered to the Social Insurance are also registered with the Emp
 #### Annual/Vacation Leave
 A team member who has been continuously employed for six months is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Annual paid leave runs concurrently with GitLab PTO. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. Unused annual paid leave expires after two years if not used. Team members are not entitled to payment for unused vacation time upon termination of employment. 
 
-#### Statutory Maternity Leave
+#### Japan Parental Leave
 
-The statutory entitlement for maternity leave is 14 weeks. The leave must start **6 weeks prior to the scheduled delivery date**. During the entire period of maternity leave, the team member is entitled to 2/3 of her base salary, and is covered by social insurance.
+#### Statutory Leave Entitlements
 
-#### Statutory Parental Leave (Child Care Leave)
+**Maternity Leave:** Team members can take up to 14 weeks of Maternity Leave. The leave must start 6 weeks prior to the scheduled delivery date. Team members can also take Parental Leave after taking Maternity Leave. 
 
-* The team members are entitled to unpaid leave until their child's first birthday (or second if certain conditions are met).
-* Child care leave starts from the day after the maternity leave ends (i.e. 8 weeks after the birth date), to the day before the child reaches the age of 1.
-* If both parents take child care leave, the leave is extended to when the child is 1 year and 2 months old.
-* During the entire period of child care leave, the team member is entitled to 2/3 of their base salary, and is covered by labor insurance.
+**Parental Leave:** Team members (mothers and fathers) can take unpaid Parental Leave (Child Care Leave) until their child's first birthday (or second if certain conditions are met). If both parents take Child Care Leave, the leave is extened to when the child is 1 year and 2 months old. 
+
+#### Maternity Leave Payment
+
+* Social insurance will pay the team member 2/3 of the base salary during Maternity and Child Care Leave.
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of leave.
+
+
+#### Paternity Leave Payment
+
+* Social insurance will pay the team member 2/3 of the base salary during Child Care Leave.
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of leave.
