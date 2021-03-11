@@ -100,7 +100,7 @@ If immediate feedback is required, then add a comment to the vulnerability issue
 ### Bugs triaging process
 
 1. Leverage the [Bug scrub issues board](https://gitlab.com/groups/gitlab-org/-/boards/1077546?scope=all&utf8=%E2%9C%93&label_name[]=bug&label_name[]=devops%3A%3Asecure&label_name[]=group%3A%3Acomposition%20analysis).
-1. For each open issue that has no Priority label ("Open" column), shortly investigate the bug (< 1h) and comment with your findings. Ideally you'd suggest Priority and Severity levels to guide PM decision.
+1. For each open issue that has no Priority label ("Open" column), shortly investigate the bug (< 1h) and comment with your findings. Ideally you'd suggest Priority and Severity levels to guide PM decision. Depending on how confident you are, you can either set the labels by yourself, or make a suggestion in a comment, and ping PM.
 
 ### Infradev triaging process
 
