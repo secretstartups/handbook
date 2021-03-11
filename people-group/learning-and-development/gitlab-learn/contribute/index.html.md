@@ -30,8 +30,8 @@ You'll find related processes for team members and community members interested 
 
 | Audience | Contribution Process |
 | ----- | ----- |
-| GitLab Team Members | [Become a GitLab Learning Evangelist or a Curator](/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions) |
-| Wider Community Members | [Contribute to the LXP]((/handbook/people-group/learning-and-development/gitlab-learn/contribute/community-contributions) ) |
+| GitLab Team Members | [Become a GitLab Learning Evangelist](/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions) |
+| Wider Community Members | [Contribute to the LXP](/handbook/people-group/learning-and-development/gitlab-learn/contribute/community-contributions) |
 
 
 ### Why create a contribution process?
