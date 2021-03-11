@@ -24,6 +24,19 @@ In all cases, we want a manager who asks themselves the question "Is this the be
   <iframe src="https://www.youtube.com/embed/nRJHvzXwXBU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+
+## Managing Underperformance Handbook Learning Session
+
+Managing and identifying underperformance is one of the hardest things a manager has to do in their career. It's hard to do it in a way that is timely, and structured to the report. As a people leader, you want to come to the same conclusion with your direct report. During a [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions), GitLab CEO, Sid, and the Learning & Development team discuss what is underperformance, how managing it aligns to our values, the impact it can have on teams, what are the signs, and tips team members and manager can implement before it happens. 
+
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/-mLpytnQtlY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+> If someone is not going to make it after going through the underperformance process, and you've given the chance for them to improve, recognize that it's not only better for the company to move on, it's frequently also better for the direct report and their team members. Get them to a role where they can be successful, whether that's inside or outside of GitLab, but the longer you wait the harder it will be to make a change. If it's not going to work out, take action as soon as possible
+
+
 ## Act Early
 
 ### Team Member: Discuss Circumstances Immediately With Your Manager
