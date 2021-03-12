@@ -89,7 +89,7 @@ Considering joining the program? Hear from past shadows about their experience:
 
 ### Impact of the CEO Shadow Program
 
-This is feedback received from some Alumni shadows and their managers
+This is feedback received from some Alumni shadows and their managers.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1FyJrtnLS76qq-Oi5wi3F7Gd5yJFQc-DyOSVTNZgxM63rJQUtYmWa_4mp5MjaGa_rut5o68fNdNep/embed?start=true&loop=false&delayms=2000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -177,19 +177,18 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-03-08 | 2021-03-12 | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst | [Jessica Reeder](https://gitlab.com/jessicareeder) - All-Remote Campaign Manager |
 | 2021-03-15 | 2021-03-19 | [Sarah Daily](https://gitlab.com/sdaily), Senior Marketing Operations Manager | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst |
 | 2021-03-22 | 2021-03-26 | [Darwin Sanoy](https://gitlab.com/darwinjs), Senior Solutions Architect, Alliances | [Sarah Daily](https://gitlab.com/sdaily), Senior Marketing Operations Manager |
 | 2021-03-29 | 2021-04-02 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Darwin Sanoy](https://gitlab.com/darwinjs), Senior Solutions Architect, Alliances |
 | 2021-04-05 | 2021-04-09 | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
-| 2021-04-12 | 2021-04-16 | AVAILABLE - REMOTE | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin |
-| 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-12 | 2021-04-16 | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin |
+| 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager |
 | 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-05-03 | 2021-05-07 | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher | AVAILABLE - REMOTE |
 | 2021-05-10 | 2021-05-14 | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher |
 | 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager |
-| 2021-05-24 | 2021-05-28 | AVAILABLE - REMOTE | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
-| 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
+| 2021-05-24 | 2021-05-28 | [Melissa Ushakov](https://gitlab.com/mushakov) - Sr. Product Manager - Manage:Access| [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
+| 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE (short week due to Holiday) | [Melissa Ushakov](https://gitlab.com/mushakov)- Sr. Product Manager - Manage:Access |
 | 2021-06-07 | 2021-06-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-06-14 | 2021-06-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-06-21 | 2021-06-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
@@ -204,13 +203,13 @@ Exceptional community members may be able to participate, as well.
 | 2021-08-30 | 2021-09-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
 
-If you have questions regarding the planned rotation schedule, please ping the Staff Executive Business Admin to the CEO. The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
+If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
 ## Preparing for the Program
 
 ### Important things to note
 
-1. This is not a performance evaluation
+1. This is not a performance evaluation.
 1. Plan to observe and ask questions.
 1. Don't plan to do any of your usual work. Prepare your team as if you were on vacation.
 1. Be ready to add a number of [handbook](/handbook/handbook-usage/) updates during your shadow period.
@@ -230,7 +229,7 @@ You will get asked about yourself during the program, and it's important to desc
 
 #### Coffee chat with Co-shadow
 
-Before your scheduled rotation, try to schedule coffee chats with your co-shadows before you start the program. This gives you the opportunity to get to know them and help set expectations for the rotation.
+Before your scheduled rotation, try to schedule coffee chats with your co-shadow before you start the program. This gives you the opportunity to get to know them and help set expectations for the rotation.
 
 #### Coffee Chat with CEO Shadow Alumni
 
@@ -238,7 +237,7 @@ Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can r
 
 #### Coffee Chat with the CLO
 
-Should it be useful or complementary to your time as a CEO Shadow, our [CLO](/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA](/handbook/eba/) in #ceo-shadow should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.
+Should it be useful or complementary to your time as a CEO Shadow, our [CLO](/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA](/handbook/eba/) in `#ceo-shadow` should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.
 
 #### Create an onboarding issue
 
@@ -270,7 +269,7 @@ The CEO has a [section in the handbook](/handbook/ceo) that details processes an
 If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](/handbook/product/performance-indicators) handbook page has some useful acronyms as well as concepts you're likely to come across.
 
 - [KPI (Key Performance Indicator)](/handbook/ceo/kpis/#what-are-kpis)
-- [OKRs (Objective and Key Results)](/company/okrs/#what-are-okrs)
+- [OKRs (Objectives and Key Results)](/company/okrs/#what-are-okrs)
 - Product performance indicators such as [xMAU (Monthly Active User)](/handbook/product/performance-indicators/#three-versions-of-xmau) and [SpU (Stages per User)](/handbook/product/performance-indicators/#stages-per-user-spu)
 - [Revenue definitions](/handbook/sales/sales-term-glossary/#revenue-definitions) such as [ARR (Annual Recurring Revenue)](/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr)
 - Other business terminology may come up. [Wall Street Oasis Finance Dictionary](https://www.wallstreetoasis.com/finance-dictionary#DicT) is a handy guide.
@@ -295,7 +294,7 @@ Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the C
 1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Compile a report on a subject.
-1. Write an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [the blog handbook](/handbook/marketing/blog/unfiltered/) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at #legal or the Corporate Communications team in #corpcomms
+1. Write an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [the blog handbook](/handbook/marketing/blog/unfiltered/) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at `#legal` or the Corporate Communications team in `#corpcomms`.
 1. Ensure visual aids and presentations are visible to guests during in-person meetings.
 1. Prepare for and receive guests at Mission Control.
 1. Offer GitLab swag to guests at Mission Control before they leave.
@@ -317,10 +316,10 @@ Once an MR has been opened, post in the `#ceo-shadow` channel.
 #### CEO's Calendar
 
 1. At the start of the week, review the CEO's calendar. The CEO's calendar is the single source of truth. Shadows should check the CEO's calendar for updates often. You will not be invited to each meeting. Meetings that the shadows may **not** attend will have a separate calendar entry on the CEO's schedule that states "No CEO Shadows". When in doubt, reach out to CEO Executive Business Admin to confirm if you should attend or not. There will be some meetings and events the shadows do not attend. Do not feel obligated to attend every meeting — all meetings are considered optional.
-1. As a reminder, you should have your title updated within your last name on zoom. During the Shadow rotation update your title to "CEO Shadow". [here is the how to ](https://about.gitlab.com/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name)update your title as part of your last name to ensure it shows up on zoom.
+1. As a reminder, you should have your title updated within your last name on zoom. During the Shadow rotation update your title to "CEO Shadow". [Here is the how to ](https://about.gitlab.com/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name)update your title as part of your last name to ensure it shows up on zoom.
 1. Add the CEO's calendar to your Google Calendar by clicking the `+` next to "Other Calendars". Then click `Subscribe to Calendar`, search for the CEO's name, and click enter.
 1. Because candidate interviews are marked as "private" (busy) for confidentiality reasons, the Executive Business Admin will invite the shadows to those events directly. As a result, you will get an email from Greenhouse asking for candidate feedback, which is not necessary.
-1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CEO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial in via phone for audio-conferences. If you have any problems confirming the link, reach out to the `#ceo-shadow` slack channel
+1. Meetings with those outside of GitLab may not be on Zoom. Prior to the call, check the CEO's calendar and load any other conferencing programs that may be needed. It may be necessary to dial in via phone for audio-conferences. If you have any problems confirming the link, reach out to the `#ceo-shadow` slack channel.
 
 #### Types of meetings
 
@@ -448,7 +447,7 @@ Please use the calendar invite as an indication of how long the meeting should l
 While it may feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly.
 Shadows should provide a 5-minute and 1-minute notification. If a meeting is running over the allocated time by saying "we're in overtime".
 
-You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat. At time, the same will occur with "We are at time". To use the script, download it, and use `source setalarm.sh` in your MacOS terminal to load the `setalarm` function. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if not argument is provided).
+You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat. At time, the same will occur with "We are at time". To use the script, download it, and use `source setalarm.sh` in your MacOS terminal to load the `setalarm` function. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if no argument is provided).
 
 ##### If you see something, say something
 
@@ -465,7 +464,7 @@ At the start of meetings, CEO shadows will introduce themselves. There is no set
 
 It's important to set the correct tone, so please stick to the following introductions verbatim.
 
-When attending Valley meetings please be sure to use the **For Valley meetings** intro. It can cause much confusion if you mention GitLab when Sid in acting in an individual capacity.
+When attending Valley meetings please be sure to use the **For Valley meetings** intro. It can cause much confusion if you mention GitLab when Sid is acting in an individual capacity.
 
 When introducing yourself in a meeting as the first shadow, say:
 
@@ -527,7 +526,7 @@ In order to ensure continuity across CEO shadow participants. Always, cc `ceo-sh
 ### Friendly competition
 
 CEO shadows label the handbook MRs they create with the `ceo-shadow` label.
-It's a point of competition between CEO shadows to try to best the previous shadows number of merge requests.
+It's a point of competition between CEO shadows to try to best the previous shadows' number of merge requests.
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/40ce74a5-00ff-4a5d-8162-b1fe212d8cbc?embed=true" height="700"> </iframe>
 
 ### Follow activity from the CEO
@@ -965,3 +964,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-01-25 | 2021-02-05 | [Parker Ennis](https://gitlab.com/parker_ennis) | Sr. PMM, GitLab CI/CD | |
 | 2021-02-05 | 2021-02-16 | [Shane Rice](https://gitlab.com/shanerice) | Manager, Search Marketing | [CEO Shadow learning recap](https://youtu.be/VZ6XF0qhWVg) |
 | 2021-02-15 | 2021-02-26 | [Lauren Barker](https://gitlab.com/laurenbarker) | Sr. Full Stack Engineer, Digital Experience | [CEO Shadow takeaways from Barker](/blog/2021/02/26/ceo-shadow-takeaways-from-barker/) |
+| 2021-02-22 | 2021-03-12 | [Jessica Reeder](https://gitlab.com/jessicareeder) | All-Remote Campaign Manager | |
