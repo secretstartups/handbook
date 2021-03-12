@@ -24,10 +24,12 @@ When the PC and PM have the project team aligned the PC will send [Consulting Pr
 
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
 
-- Best practice is to record time at the end of each day. This provides the most accurate account of hours worked and when it was worked.
-- Each PSE is required and responsible for tracking their own hours, and submitted weekly by Friday EOD for the week worked. 
-- Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and is reviewed weekly by PS Operations and Manager. 
-- Hours for PTO, Holidays and Friends and Family day are no longer required to be submitted in the weekly time sheet.
+- Best practice is to record time at the end of each day. This provides the most accurate account of hours worked and when it was worked
+- Each PSE is required and responsible for tracking their own hours, and submitted weekly by Friday EOD for the week worked
+- If time will be worked over the weekend, time sheet should still be submitted by Friday, EOD, then a new line created on the time sheet for hours worked over the weekend
+- Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and is reviewed weekly by PS Operations and Manager
+- Hours for PTO, Holidays and Friends and Family day are no longer required to be submitted in the weekly time sheet
+- Notes are required for the PS Time Tracking Creditable and PS Time Tracking Non Credit projects only, not on customer projects
   
   - PTO should be submitted in the time off feature in Mavenlink, and also follow the company guidelines, [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
   - Holidays along with Friends and Family day are scheduled on the Mavenlink calendar
@@ -92,6 +94,36 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
   * Status/ Close out customer calls
   * Customer Travel
 
+#### Consulting Projects Billing Guidelines
+
+Project billing is outlined in each customer SOW.  The current billing terms that professional services follows is the following:
+   * Billed upon SOW execution
+     * Includes Skud offerings
+   * Time and Materials
+   * Project miletone 
+   * Billed half up front and half at project completion
+   * Billed at completion
+   
+
+Passive acceptance of 5 days included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services
+   
+#### Consulting Projects Revenue Forecasting Guidelines
+
+Project revenue release is followed dependant on project billing type:
+   * Billed upon SOW execution biling terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+   * Time and Materials billing terms
+     * Approved time sheet hours reported at each month end 
+   * Project miletone SOW billing terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+   * Billed half up front and half at project completion SOW biling terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+   * Billed at completion biling terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+
+Project revenue release is followed dependant on project billing type:
+
+
 
 ## Project Coordination- Training
 Coming Soon, Project Coordination Processes
@@ -107,6 +139,7 @@ Coming Soon, Project Coordination Processes
 * Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
 
 #### Mavenlink Log In/ Password Creation
+
 - At this time to log into Mavenlik, you will need to go to the Mavenlink landing page.
   - Our end goal is to have Mavenlink added to Okta
 
@@ -231,7 +264,7 @@ Project Close
 
 ****Regional Holidays and Friends and Family Days****
 
-Regional holidays and Friends and Family days are included in Mavenlink on each members calendar, followed by the  [scoping](/handbook/customer-success/professional-services-engineering/scoping).  Since the days are included in the calendar there is no need to submit the time in the Mavenlink PTO feature or the users time sheet.  When logging into the time sheet, the required work week is shown on the time sheet entry.
+Regional holidays and Friends and Family days are included in Mavenlink on each members calendar, followed by the  [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off).  Since the days are included in the calendar there is no need to submit the time in the Mavenlink PTO feature or the users time sheet.  When logging into the time sheet, the required work week is shown on the time sheet entry.
 
 ![TimeOff](./Timeoff.png)
 
@@ -265,7 +298,7 @@ Time off cancellation
 
 #### Mavenlink Time Tracking- Time Sheets
 
-![timesheets](./timesheets.png)
+![tmesheets](./tmesheets.png)
 
 ![timesheetoptions](./timesheetoptions.png)
 
