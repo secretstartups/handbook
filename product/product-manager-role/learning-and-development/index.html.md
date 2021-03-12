@@ -38,6 +38,8 @@ These books are highly recommended to be read by every product manager at GitLab
 ##### Quick reads and videos
 
 - [Paul Adams: Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
+- [Dollars to Donuts](https://open.spotify.com/show/26yTpSSgqzR58wdlFTEvis?si=FU8B_7sxQluT78PepGecGA&nd=1) (Podcast)
+- [Presentable](https://open.spotify.com/show/2HMGa6BesR174n8NP28VEu?si=5tSm84pmTvKhOD4313Ir8Q&nd=1) (Podcast)
 
 ##### Deeper dive
 
@@ -49,7 +51,8 @@ Please contribute your favorite resources here
 
 ##### Books
 
-Please contribute your favorite resources here
+- [Kevin Simler & Robin Hanson: The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)
+- [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 
 
 #### Customer Interviewing
@@ -212,6 +215,9 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [Marty Cagan: Vision Vs. Strategy](https://svpg.com/vision-vs-strategy/)
+- [Product School](https://www.youtube.com/channel/UC6hlQ0x6kPbAGjYkoz53cvA/featured) (YouTube Channel)
+- [Women In Product](https://www.youtube.com/channel/UC6z_ibVMdKbKFfgb3mxwx9g/videos?view=0&sort=p) (YouTube Channel)
+- [Masters of Scale](https://open.spotify.com/show/1bJRgaFZHuzifad4IAApFR) (podcast)
 
 ##### Deeper dive
 
@@ -248,10 +254,11 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video 5 min)
+- [David Skok: SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/)
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+- [Financial Modeling for Product Managers](https://tpgblog.com/2015/05/04/product-financial-modeling/) (video 60 min)
 
 ##### Online courses 
 
@@ -331,7 +338,7 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+* [Managing Project Stakeholders](https://www.linkedin.com/learning/managing-project-stakeholders-2?u=2255073) (LinkedIn Learning course)
 
 ##### Books
 
@@ -373,6 +380,8 @@ Please contribute your favorite resources here
 
 - [Kim Scott: Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)
 - [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
+- [Julie Zhuo: The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/)
+- [First Round Essentials: Management](https://books.firstround.com/management/) (free ebook download)
 
 #### Remote-first collaboration
 
@@ -418,23 +427,25 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 
 #### Blogs
 
-- https://svpg.com/articles/
-- https://www.intercom.com/blog/product-and-design/
-- https://producthabits.com/blog/
-- https://www.mindtheproduct.com/
+- [https://svpg.com/articles/](https://svpg.com/articles/)
+- [https://www.intercom.com/blog/product-and-design/](https://www.intercom.com/blog/product-and-design/)
+- [https://producthabits.com/blog/](https://producthabits.com/blog/)
+- [https://www.mindtheproduct.com/](https://www.mindtheproduct.com/)
 
 #### Podcasts
 
-- https://www.mindtheproduct.com/the-product-experience/
+- [Mind the Product](https://www.mindtheproduct.com/the-product-experience/)
 
 #### Newsletters
 
-- https://www.mindtheproduct.com/product-management-newsletter/
+- [Mind the Product Newsletter](https://www.mindtheproduct.com/product-management-newsletter/)
 
 #### Other
 
 - [Mind the Product Slack channel](https://www.mindtheproduct.com/product-management-slack-community/)
 - [GitLab team member Viktor Nagy on Twitter](https://twitter.com/nagyviktor)
+- [Product League](https://productleague.com/)
+- 
 
 
 ### Thought leaders and influencers
