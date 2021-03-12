@@ -133,10 +133,10 @@ Categories
 Priorities
 </summary>
 
-- `MktgOps-Priority::Top Priority`:  Issue that is related to a breaking change, OKR focus, any other prioritized project by Mktg OPS leadership. This category will be limited because not everything can be a priority.Timeframe: Immediate action needed.
-- `MktgOps-Priority::High Priority`: Issue has a specific action item for Mktg OPS to be completed as it is an OKR.Timeframe: Within Weeks
-- `MktgOps-Priority::Med Priority`: Issue is a feature to help the team. Timeframe: Within Months
-- `MktgOps-Priority::Low Priority`: Issue has a specific action item for Mktg OPS that would be helpful, but can be pushed for other issues. Timeframe: Within months.
+- `MktgOps-Priority::Top Priority`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
+- `MktgOps-Priority:: High Priority`: Issue has a specific action item for MktgOps to be completed as it is an OKR. Timeframe: Within weeks
+- `MktgOps-Priority::Med Priority`: Issue is a feature to help the team. Timeframe: Within months
+- `MktgOps-Priority::Low Priority`: Issue has a specific action item for MktgOps that would be helpful, but can be pushed for other issues. Timeframe: Within months.
 
 </details>
 
@@ -158,14 +158,14 @@ Stage
 </summary>
 
 - `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
-- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team member and are currently being scoped/considered but are not being actively worked on yet.
+- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team member and are currently being planned but are not being actively worked on yet.
 - `MktgOps::2 - Scoping`: Marketing Operations related issues that are currently being scoped and weighted
-- `MktgOps::3 - On Deck`: Issues that have been scoped/considered and will be added to an upcoming iteration/milestone.
-- `MktgOps::4 - In Process`: Issues that are actively being worked on in the current two-week sprint/milestone.
+- `MktgOps::3 - On Deck`: Issues that have been scoped and will be added to an upcoming milestone.
+- `MktgOps::4 - In Process`: Issues that are actively being worked on in the current two-week milestone.
 - `MktgOps::5 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
-- `MktgOps::6 - On Hold`: Issue that is not within existing scope of Mktg OPS current focus, or another department as deprioritized. May be a precursor to being closed out.
-- `MktgOps::7 - Blocked`: Issue that was being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
-- `MktgOps::8 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
+- `MktgOps::6 - On Hold`: Issue that is not within existing scope of MktgOps current focus, or another department as deprioritized. May be a precursor to being closed out. May also be on hold waiting for an internal team member or other task before completing. 
+- `MktgOps::7 - Blocked`: Issue is blocked and no other actions can be taken by MktgOps. Waiting for someone else/another team to complete an action item before being able to proceed. May also be blocked due to external party such as a vendor to complete an action before closing.
+- `MktgOps::8 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed.
 
 </details>
 
