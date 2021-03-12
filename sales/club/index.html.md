@@ -20,15 +20,15 @@ President’s Club is synonymous with excellence and rewards individuals for ach
 
 For GitLab's FY22 President's Club, 49 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip in May 2022. Exact dates to follow. Team member start dates must be on or before 2021-08-01 to be eligible and still be employed by GitLab at the time of the incentive trip to receive the benefit. Selection criteria varies by role (see below).
 
-## Selection Criteria
+## Eligibility Criteria
 
 | Category | # of winners | Criteria | 
 | ------ | ------ | ------ |
 | Top Strategic Account Leaders | 12 | Ranking by % of annual full quota (full quota, non-ramped annual quota, prorated based on start date) as shown on the FY22 President's Club Dashboard (link coming soon). See ENT tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=210333776) for details. |
 | Top Mid Market Account Executives | 6 | Ranking by % of annual full quota (full quota, non-ramped annual quota, prorated based on start date) as shown on the FY22 President's Club Dashboard (link coming soon). See MM tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=2130992) for details. |
-| Top ENT & COM Area Sales Managers | 4 (2 ENT, 2 COM) | Top quota performance as shown on the FY22 President's Club Dashboard (link coming soon), ≥ 36 Rep months under management. See ENT & MM tabs of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=210333776) for details. |
-| Top ENT & COM Director/AVP | 2 (1 ENT, 1 COM) | Top quota performance as shown on the FY22 President's Club Dashboard (link coming soon), ≥ 36 Rep months under management. See ENT & MM tabs of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=210333776) for details. |
-| Top SMB Account Executive | 2 | Top Closed/Won Net ARR. See SMB tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=974153580) for details. |
+| Top ENT, MM, SMB Area Sales Managers | 4 (2 ENT, 2 COM) | Top quota performance as shown on the FY22 President's Club Dashboard (link coming soon), ≥ 36 Rep months under management. See ENT & MM tabs of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=210333776) for details. |
+| Top ENT, MM, SMB Director/AVP | 2 (1 ENT, 1 COM) | Top quota performance as shown on the FY22 President's Club Dashboard (link coming soon), ≥ 36 Rep months under management. See ENT & MM tabs of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=210333776) for details. |
+| Top SMB Account Executive | 3 | Top Closed/Won Net ARR. See SMB tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=974153580) for details. |
 | Top Solution Architects | 7 | VP/CRO selection. See CS tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=916403586) for details. |
 | Top Inside Sales Rep | 1 | VP/CRO selection. See ISR tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=1292511725) for details. |
 | Top Channel Sales Managers | 3 | Leader selection. See Channel/Alliances tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=577788595) for details. |
@@ -48,11 +48,15 @@ We continue to adapt to the global health and travel challenges, and after a lot
 
 **What are the dates and location of President’s Club 2021?**
 
-[President’s Club 2021](/handbook/sales/club/) will be at the [Ritz Carlton in Maui, Hawaii](https://www.ritzcarlton.com/en/hotels/kapalua-maui) from November 30 - December 3, 2021.  
+[President’s Club 2021](/handbook/sales/club/) will be at the [Ritz-Carlton in Maui, Hawaii](https://www.ritzcarlton.com/en/hotels/kapalua-maui) from November 30 - December 3, 2021.  
 
 **What happens if I am a President’s Club recipient in both 2020 and 2021?**
 
 If you are a President’s Club winner in <ins>both 2020 and 2021</ins>, you will receive two extra days at the Ritz Carlton in Maui for you and your guest. 
+
+**What are the dates and location of President’s Club 2022?**
+
+[President’s Club 2022](/handbook/sales/club/) will be at the [Ritz-Carlton Grand Cayman Islands Resort](https://www.ritzcarlton.com/en/hotels/caribbean/grand-cayman) in May 2022. Exact dates and schedule to be announced.  
 
 **Do I get extra time if I’m traveling from EMEA/APAC?**
 
