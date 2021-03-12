@@ -38,8 +38,6 @@ These books are highly recommended to be read by every product manager at GitLab
 ##### Quick reads and videos
 
 - [Paul Adams: Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
-- [Dollars to Donuts](https://open.spotify.com/show/26yTpSSgqzR58wdlFTEvis?si=FU8B_7sxQluT78PepGecGA&nd=1) (Podcast)
-- [Presentable](https://open.spotify.com/show/2HMGa6BesR174n8NP28VEu?si=5tSm84pmTvKhOD4313Ir8Q&nd=1) (Podcast)
 
 ##### Deeper dive
 
@@ -80,6 +78,7 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (video 5 min)
+- [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
 ##### Deeper dive
 
@@ -136,7 +135,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+- [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
 
 ##### Deeper dive
 
@@ -216,9 +215,8 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [Marty Cagan: Vision Vs. Strategy](https://svpg.com/vision-vs-strategy/)
-- [Product School](https://www.youtube.com/channel/UC6hlQ0x6kPbAGjYkoz53cvA/featured) (YouTube Channel)
-- [Women In Product](https://www.youtube.com/channel/UC6z_ibVMdKbKFfgb3mxwx9g/videos?view=0&sort=p) (YouTube Channel)
-- [Masters of Scale](https://open.spotify.com/show/1bJRgaFZHuzifad4IAApFR) (podcast)
+- [Des Traynor: Product strategy means saying no](https://www.intercom.com/blog/product-strategy-means-saying-no/)
+- [Ken Norton's Discipline of No](https://mixpanel.com/blog/learning-to-say-no-with-ken-norton/)
 
 ##### Deeper dive
 
@@ -419,6 +417,9 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 #### Podcasts
 
 - [Mind the Product](https://www.mindtheproduct.com/the-product-experience/)
+- [Masters of Scale](https://open.spotify.com/show/1bJRgaFZHuzifad4IAApFR)  
+- [Dollars to Donuts](https://open.spotify.com/show/26yTpSSgqzR58wdlFTEvis?si=FU8B_7sxQluT78PepGecGA&nd=1)  
+- [Presentable](https://open.spotify.com/show/2HMGa6BesR174n8NP28VEu?si=5tSm84pmTvKhOD4313Ir8Q&nd=1)  
 
 #### Newsletters
 
@@ -429,7 +430,8 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 - [Mind the Product Slack channel](https://www.mindtheproduct.com/product-management-slack-community/)
 - [GitLab team member Viktor Nagy on Twitter](https://twitter.com/nagyviktor)
 - [Product League](https://productleague.com/)
-- 
+- [Product School](https://www.youtube.com/channel/UC6hlQ0x6kPbAGjYkoz53cvA/featured) (YouTube Channel)
+- [Women In Product](https://www.youtube.com/channel/UC6z_ibVMdKbKFfgb3mxwx9g/videos?view=0&sort=p) (YouTube Channel)
 
 
 ### Thought leaders and influencers
