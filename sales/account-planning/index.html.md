@@ -11,7 +11,7 @@ title: "Account Planning"
 
 ## Overview 
 
-An account plan is a document or record that contains important details about a customer or prospect, including information about the organization's business, strategic objectives, goals and motivations, competitive landscape, pertinent technology stack details, key contacts and relationship maps, and your strategy and action plan over varying time horizons (6 months, 12 months, 18 months) to establish and expand a mutually beneficial, long-term strategic relationship. 
+An account plan is a document or record that contains important details about a customer or prospect, including information about the organization's business, strategic objectives, mission-critical priorities, goals and motivations, competitive landscape, pertinent technology stack details, key contacts and relationship maps, and your strategy and action plan over varying time horizons (6 months, 12 months, 18 months) to establish and expand a mutually beneficial, long-term strategic relationship. 
 
 Think about account planning as if you were the CEO of your own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps you analyze and execute on your business with a specific account.  
 
@@ -21,7 +21,7 @@ Account planning helps you elevate opportunity-driven conversations into value-b
 
 An effective account plan defines a clear strategy and action plan to grow and expand customer relationships and will help you:
 * Better understand the customer's financial health, market position, strategic objectives, risks, key partners, tech stack, relationships with other DevOps vendors, and more
-* Prioritize pursuits based on where GitLab can deliver the most customer value to challenges the customer cares most about
+* Prioritize pursuits based on where GitLab can alleviate challenges and pain points that the customer is currently experiencing that are getting in the way of reaching desired business outcomes
 * Assess the "health" of your relationships within the account (access to power, strength of champions, breadth of relationships across lines of business, etc.)
 * Identify resources and/or support needed to successfully execute against strategic account objectives and supporting action plans
 * Determine risks and developing proactive risk mitigation plans
@@ -32,12 +32,12 @@ The account plan focuses on the account team's strategy to win, retain, and expa
 
 ### What is the Difference Between an Account Plan and an Opportunity Plan? 
 
-The opportunity plan (aka the [Command Plan](/handbook/sales/command-of-the-message/command-plan/)) outlines the strategy for closing business related to a single budgeted customer initiative. In contrast, the account plan is a more comprehensive strategy and action plan for earning the trust and respect of the customer. This is achieved by delivering value to the customer over and over again. Unlike opportunity plans, account plans span multiple customer engagements and lines of business across the account over a longer period of time and may include actions that don't directly align to revenue (e.g. customer appreciation initiatives, other).
+The opportunity plan (aka the [Command Plan](/handbook/sales/command-of-the-message/command-plan/)) outlines the strategy for closing business related to a single budgeted customer initiative. In contrast, the account plan is a more comprehensive, holistic, organization-wide strategy and action plan for earning the trust and respect of the customer. This is achieved by delivering value to the customer over and over again. Unlike opportunity plans, account plans span multiple customer engagements and lines of business across the account over a longer period of time and may include actions that don't directly align to revenue (e.g. customer appreciation initiatives, other).
 
 ## Components of an Account Plan 
 There are a few different components that are part of an account plan. 
 1. Account Profile 
-1. Org Structure and Relationship Mapping
+1. Relationship and Influence Mapping
 1. Whitespace Mapping
 1. *Action Plan*
 
@@ -54,12 +54,12 @@ Start at a high level, for example:
 1. What is the perception of how IT is enabling and/or hindering progress against these strategic business objectives?
 1. How does the customer currently view GitLab? How long have they been a customer? What is their annual spend with GitLab? For what DevOps stages does the customer use GitLab today and where have expansion opportunities already been identified? 
 
-### Org Structure and Relationship Mapping
+### Relationship and Influence Mapping
 Mapping the org allows us to analyze where we are strong and where we have vulnerabilities which will drive some of our actions later in the plan. Relationship mapping includes but is not limited to assessing:
 - The breadth and depth of your relationship "coverage" within an account (both within and across lines of business)
 - Your access to power, champions, and key influencers
 - The strength or health of key relationships (identify which contacts are promoters, detractors, or somewhere in between)
-- How different parts of the organization engage with and/or influence each other
+- How different parts of the organization engage with and/or influence each other. This can be idependent of reporting structure.
 - Who and what has influence over key contacts in the account (e.g. specific analysts, partners, events, trade publications, user groups, other)
 
 If the account plan is with an existing customer, Net Promoter Score (NPS) data may provide helpful insights into and help you track relationship health and trends.
