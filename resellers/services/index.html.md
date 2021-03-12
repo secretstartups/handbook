@@ -481,7 +481,9 @@ Learn about this community in [this video](https://www.brighttalk.com/webcast/18
 
 ### Accessing the Community
 
-When a partner is awarded a GitLab Certified Service Partner certification, the partner account administrator will be invited to join this community. The partner account administrator can reference [this video](https://www.brighttalk.com/webcast/18613/472272) to learn how to add and manage users who can access this project.
+When a partner is awarded a GitLab Certified Service Partner certification, the partner account administrator will be invited to join this [community](https://gitlab.com/gitlab-com/channel/partners/services-helpdesk). The partner account administrator can reference [this video](https://www.brighttalk.com/webcast/18613/472272) to learn how to add and manage users who can access this project.
+
+You can access this community [here](https://gitlab.com/gitlab-com/channel/partners/services-helpdesk). 
 
 
 ### User Commitments to the Community
