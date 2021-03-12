@@ -51,6 +51,7 @@ Please contribute your favorite resources here
 
 ##### Books
 
+- [Steve Krug: Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)
 - [Kevin Simler & Robin Hanson: The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)
 - [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 
@@ -59,8 +60,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
-
+- ['Get in the Van' and Other Tips for Getting Meaningful Customer Feedback](https://review.firstround.com/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product)
 ##### Deeper dive
 
 Please contribute your favorite resources here
@@ -100,7 +100,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+- [How to Build a Minimum Loveable Product](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c#.56uv0dydd)
 
 ##### Deeper dive
 
@@ -118,8 +118,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
-
+[Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
 ##### Deeper dive
 
 Please contribute your favorite resources here
@@ -177,6 +176,8 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [Brandon Chu: Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
+- [Sean McBride: RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
+- [Ash Maurya: Love the Problem, Not Your Solution](https://blog.leanstack.com/love-the-problem-not-your-solution/)
 
 ##### Deeper dive
 
@@ -267,6 +268,7 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
+- [Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intagibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)
 
 ### Communication
 
