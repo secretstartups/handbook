@@ -108,7 +108,7 @@ The [Manager Challenge](/handbook/people-group/learning-and-development/manager-
 
 ### Self-Paced Learning 
 
-Take advantage of [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/), an online educational platform that team members have access too to help develop skills through expert-led course videos. 
+Take advantage of [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/), an online educational platform that team members have access too to help develop skills through expert-led course videos. 
 
 ### [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
 
