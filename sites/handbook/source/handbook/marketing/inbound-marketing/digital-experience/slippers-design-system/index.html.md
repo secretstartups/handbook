@@ -11,6 +11,14 @@ title: "Slippers Design System Documentation"
 
 # Slippers Design System
 
+Slippers is following [Semantic Versioning](https://semver.org/) and is currently in 0.x.y and is **not considered stable**. 
+
+## Resources
+* [Slippers Design System repository](https://gitlab.com/gitlab-com/marketing/inbound-marketing/slippers-ui)
+* [Slippers Design System webpage](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/)
+* [Architecture discussion video Jan 2020](https://www.youtube.com/watch?v=-JUtVOAaQcE&list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba&index=7)
+* [Digital definitions](/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/)
+
 ## Why slippers
 
 Slippers is the marketing website design system used on about.gitlab.com. We called it slippers because it pairs nicely with the [Pajamas design system](https://design.gitlab.com/). Slippers is currently maintained by the [Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/) in [Inbound Marketing](/handbook/marketing/inbound-marketing/) at GitLab.
@@ -53,8 +61,3 @@ The process so far involves small incremental changes. Before we have a place to
 * Keep iterating until we reach a point where our new CSS system is integrated with Tailwind and Storybook, implementing a rough draft of a functional design system.
 * Rebuild and iterate our pilot pages with final components and code as they become available.
 
-## Resources
-
-* [Architecture discussion video Jan 2020](https://www.youtube.com/watch?v=-JUtVOAaQcE&list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba&index=7)
-* [Slippers design system repository WIP](https://gitlab.com/gitlab-com/marketing/inbound-marketing/slippers-ui)
-* [Digital definitions](/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/)

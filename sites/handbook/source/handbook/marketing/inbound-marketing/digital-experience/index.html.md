@@ -14,6 +14,15 @@ description: >-
 
 # Digital Experience Handbook
 
+- [Digital Definitions](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/)
+- [Foundations Agenda](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/)
+- [Image Guidelines](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/)
+- [Marketo Page Template](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/marketo-page-template/)
+- [Slippers Design System](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/slippers-design-system/)
+- [Video Bands](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/video-bands/)
+- [Website](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/)
+- [Writing Description Templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/writing-description-templates/)
+
 ## Overview
 
 ### Managed Channels
@@ -49,7 +58,7 @@ Contribute and execute on the strategy for the marketing site.
 ### Strategy (FY21 Q3)
 
 1. Implement a CMS - so that the content marketing team is more productive, and more teams can self-serve improvements to the website
-1. Create a Design System - developer productivity, more consistent up-leveled look/feel of the website
+1. Create a [Design System](https://gitlab.com/gitlab-com/marketing/inbound-marketing/slippers-ui) - developer productivity, more consistent up-leveled look/feel of the website
 1. Set the long-term strategy for website to continue to see the content, design, and processes refreshed
 1. Establish SEO partnership
 
