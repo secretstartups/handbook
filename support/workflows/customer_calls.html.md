@@ -19,7 +19,7 @@ description: "Workflow for conducting customer calls in Support Engineering"
 
 ##### Providing the call link
 
-When you know a ticket is ready for a call, use the `General::Invite customer call` macro in Zendesk. (Please modify the `PERSONAL_CALENDLY_LINK` to your own personal Calendly link)
+When you know a ticket is ready for a call, use the [`General::Invite customer call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360013199280) macro in Zendesk. (Please modify the `PERSONAL_CALENDLY_LINK` to your own personal Calendly link)
 
 A few point to consider when sending a customer the invite to call link.
 
@@ -32,7 +32,7 @@ A few point to consider when sending a customer the invite to call link.
 #### Pre-call email
 
 Please consider sending a pre-call email. This helps set expectations to the call regarding goals, duration, and
-the people required to be on the call for effective troubleshooting. You can use the `General::Pre customer call` macro in Zendesk
+the people required to be on the call for effective troubleshooting. You can use the [`Support::Self-Managed::Pre customer call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360086318253) macro in Zendesk
 for that, please modify it as you see fit.
 
 ##### Tips to keep calls within the scheduled time:
@@ -72,7 +72,7 @@ We collect this information in Zendesk and link it to the organization.
 ##### Call summary
 
 Following your scheduled or unscheduled call you should complete a summary of the call in Zendesk using the
-macro `General::Post Customer Call`.  This will provide a record of events for
+macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274).  This will provide a record of events for
 anyone who works on the ticket, including the customer.  It will also provide
 valuable information for support engineers in the future who search Zendesk
 looking for similar issues and their resolutions.
