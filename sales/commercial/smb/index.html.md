@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: SMB Account Executive
+description: >-
+  SMB Account Executive guidelines to assist prospects through their evaluation
+  and buying process of GitLab
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -7,8 +15,6 @@
 ## "You should expect excellence of yourself, teammates, and managers in your role. We will be excellent if we expect it."
 {: .no_toc}
 
-<br>
-<br>
 Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](/handbook/sales/field-operations/gtm-resources/#segmentation). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
 
 ### Reaching the SMB team (internally)
@@ -68,6 +74,10 @@ Though not mandatory, call preps are a great way to gain a different perspective
 - Put time on the calendar to connect with a fellow SMB team member or someone else of choice (Solution Architect, Technical Account Manager, Area Sales Manager)
 - Be prepared with the Salesforce link to the opportunity, as well as your deck/call notes if applicable
 - During or after the Call Prep, **log an activity** on the opportunity labeled `Prep w/ [team member name]`.
+
+#### Qualification Calls
+
+One initiative as an SMB AE is to be connecting with as many current customers as possible to support them in finding ways to utilize more of GitLab. Every time you hold a call with a client to discuss entering into a sales cycle for either uptiering, or increasing user count please include "qual" or "qualification" into the subject line of your logged activity. We should also be submitting "qual" or "qualification during our first IQM (Initial Qualifying Meeting) with all prospects.
 
 #### True Ups
 
