@@ -56,7 +56,7 @@ Remember, this is an MVC — please [create an issue to suggest new metrics](/#r
 
 ### TAM Actions
 
-##### Updating Instance Type
+##### Updating Self-Managed Instance Type
 For your self-managed customers, label your customers' instances as Production, Staging, or Obsolete. Steps:
 1. Go to the customer in Gainsight
 1. On the left nav panel, click on "Instance Details" (bottom)
