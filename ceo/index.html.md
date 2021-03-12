@@ -253,6 +253,24 @@ Please follow the process outlined under [meeting request requirements](/handboo
 I'm always willing to record [video content](https://www.youtube.com/watch?v=Y310ksxsUoQ) for conferences I'm unable to attend.
 Email [my EBA](/handbook/eba/#executive-business-administrator-team) to coordinate the recording.
 
+## CEO Voice
+When preparing scripts or documents in my voice, please follow these guidelines in order to avoid common edits. This list can help you prepare a draft that is as close as possible to my natural way of communicating. For additional information or questions, please contact the `#external-comms` Slack channel or the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
+
+1. Avoid “we” or “our” when discussing the product. I don’t wish to speak on behalf of others or to imply that GitLab team members are owners of GitLab or its users. Everyone can contribute = everyone has some ownership of GitLab.
+1. Less is more. If you can say something in fewer words, do so. 
+1. Always [be inclusive](/company/culture/inclusion/#inclusive-language). No gendered terms if it can be avoided.
+1. Be as direct and specific as possible. Don’t assume the reader/audience knows what you mean ([low-context communication](/company/culture/all-remote/effective-communication/#understanding-low-context-communication)). No vague statements.
+1. Remove unnecessary words, assuming statements or lead-ins that don't add value. Ex: “As you know.”
+1. When writing a script, read it out loud. If it's not easy to say in one try, edit the script to make it easy to speak.
+1. Any time you make a statement, consider whether there exist any data/proof points to back it up, and include the proof. This proof might exist internally through work our teams are doing, or externally through analyst reports or other such reporting. 
+1. Familiarize yourself with [GitLab’s Misused Terms](/handbook/communication/top-misused-terms/) and avoid using these. For example, always use “Team members” instead of Employees.
+1. Run text through a readability checker, such as [the ones on this page](https://readabilityformulas.com/free-readability-formula-tests.php).
+1. Be exact, not approximate.
+1. Don't sugarcoat bad news.
+1. Celebrate, but don't boast or brag.
+1. Rarely make comparisons to other people, especially negative ones. Comparing to competitors is fine, usually in the context of highlighting what differentiates GitLab.
+1. Explain [the why](https://simonsinek.com/product/start-with-why/).
+
 ## Transport
 
 The CEO will pay for all transport expenses (flight, uber, etc.) personally.
