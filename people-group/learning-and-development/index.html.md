@@ -23,7 +23,7 @@ Email Us: `learning@gitlab.com`
 
 
 ## Mission
-Our mission is to provide resources to enable our team members to enhance success in their current roles and develop new skills to further their professional and personal development. We provide adaptive and blended learning and growth opportunities, including skills building, career development, and technical training that aligns with our strategic priorities as an organization. At GitLab, we are cultivating a culture of curiosity and continuous learning. 
+Our mission is to provide resources to enable team members to succeed in their current roles and develop new skills to further their professional and personal development. L&D provides adaptive and blended growth and development opportunities, including skills building, career development, and technical training that aligns with GitLab's strategic priorities. L&D's mission is to cultivate a culture of curiosity and continuous learning. 
 
 ## GitLab Learning Strategy & Roadmap
 
@@ -31,7 +31,7 @@ Our mission is to provide resources to enable our team members to enhance succes
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBdQFDSp8MBSkekUzM-DItdPxr-ETEjrCq85fhET_cC-6nAJGfwuFE-aK3jwSLJylg6yX8N1THaHsk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-Learn more about our [FY22 Roadmap and curriculum](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375).
+**Learn more about our [FY22 Roadmap and curriculum**](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375).
 
 ## Handbook First Training Content
 
@@ -69,9 +69,7 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): [Samantha Lee](/company/team/#slee24)
 * [Instructional Designer](/job-families/people-ops/instructional-designer/): Role to be filled
 
-## Learning Sessions
-
-### Learning Sessions Schedule
+## FY22 Learning and Development Calendar 
 
 **FY22 Q1 Calendar of Sessions/Events:** 
 - 2021-03-XX: LXP Community Launch
@@ -81,106 +79,6 @@ We are a small team, but we've got a big role to play at GitLab!
 
 **FY22 Q2 Calendar**
 - 2021-05-03 to 2021-05-21: May [Manager Challenge](/about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/)
-
-
-### Live Learning
-Live Learning sessions will be conducted on a monthly basis. There will be a Zoom video conference set up for each session. Official dates and topics will be added to the schedule below as confirmed. If you were unable to attend a live learning session but still want to learn, check out our past live learning sessions below. At GitLab we [give agency](/handbook/values/#give-agency), but if you are attending Live Learning sessions, you will be asked to be engaged and participate with your full attention.
-
-<details>
-  <summary markdown='span'>
-    Format for Live Learning Sessions
-  </summary>
-
-<b>Format for 25 minute sessions:</b>
-
-<ul>
-<li>10 minutes - introduction/content</li> 
-<li>10-15 minutes - Q&A</li>
-</ul>
-
-<b>Format for 50 minute sessions (times below are approximate):</b>
-
-<ul>
-<li>10-15 minutes - introduction/content</li>
-<li>10-20 minutes - breakout session</li>
-<li>10-20 minutes - debrief</li>
-<li>5 minutes - conclusion</li>
-</ul>
-
-</details>
-
-<details>
-  <summary markdown='span'>
-    Live Learning Schedule
-  </summary>
-
-<b>The upcoming Live Learning schedule is as follows:</b>
-
-<ul>
-<li>January - 3 Week Manager Challenge</li>
-</ul>
-
-</details>
-
-
-<details>
-  <summary markdown='span'>
-    Past Live Learning Sessions
-  </summary>
-
-<b>2020</b>
-
-<ul>
-<li>January - <a href="https://youtu.be/crkPeOjkqTQ">Compensation Review: Manager Cycle (Compaas)</a></li>
-<li>January - <a href="/company/culture/inclusion/being-an-ally/">Ally Training</a></li>
-<li>February - <a href="/handbook/people-group/guidance-on-feedback/#receiving-feedback">Receiving Feedback</a></li>
-<li>June - <a href="/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback">Delivering Feedback</a></li>
-<li>June - <a href="/company/culture/inclusion/unconscious-bias/">Recognizing Bias</a></li>
-<li>September - <a href="/handbook/people-group/learning-and-development/manager-challenge/#pilot-program">Manager Challenge Pilot</a></li>
-<li>November - <a href="https://www.youtube.com/watch?v=WZun1ktIQiw">Belonging</a></li>
-<li>November - <a href="/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge">One Week Challenge - Psychological Safety</a></li>
-<li>December - <a href="/handbook/leadership/coaching/#introduction-to-coaching-1">Introduction to Coaching</a></li>
-</ul>
-
-<b>2019</b>
-
-<ul>
-<li>November - <a href="/company/culture/all-remote/effective-communication/">Communicating Effectively & Responsibly Through Text</a></li>
-<li>December - <a href="/company/culture/inclusion/being-inclusive/">Inclusion Training</a></li>
-</ul>
-
-</details>
-
-
-### Action Learning
-[Action Learning](https://wial.org/action-learning/) sessions are designed to give team members a place to practice coaching skills by helping others work through specific challenges. 
-
-<details>
-  <summary markdown='span'>
-    Format for Action Learning Sessions
-  </summary>
-
-<b>Format for 25 minute sessions:</b>
-
-<ul>
-<li>3 minutes - introduction</li>
-<li>20 minutes - open up for attendees to present a current challenge they are facing. [Note: Other participants ask open ended questions about the challenge. No leading questions or advise is to be given. Once the person with the challenge feels they have received enough coaching, the group works on another participant's challenge.</li>
-<li>2 minutes - conclusion</li>
-</ul>
-
-</details>
-
-### GitLab Mini and Extended Challenges
-
-All of GitLab's Learning and Development programs use the [GitLab tool to facilitate learning](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1). One way we do that is with the use of daily challenges. Daily challenges are a proven strategy for implementing new habits for our team members. Daily challenges can cover a range of topics, and they are intended to introduce behavior changes that will stick. In September of 2020, we launched a [Four Week Manager Challenge program](/handbook/people-group/learning-and-development/manager-challenge/) that consisted of daily challenges and live learning events to strengthen foundational management skills. In November of 2020, we launched a [One Week Challenge on Psychological Safety](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge). 
-
-**Sample structure of a challenge:**
-- Length of challenge: 1 week (But can be for as long as 4 weeks)
-- Sample challenge topic: Giving Feedback
-- Daily challenges: 20-minute daily challenge (Monday through Friday)
-- Live Learning: Optional live learning session at the end of the week to revisit the challenges covered
-- Self-Reflection: At the end of the week, have participants complete a self-reflection exercise
-- Certification/Badging: Option to award participants with a certification or badge
 
 ## Learning Initiatives 
 
