@@ -235,6 +235,13 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 **Statutory Paternity Leave:** Team members can take up to 2 weeks of Paternity Leave or up to 50 weeks of [Shared Parental Leave](https://www.gov.uk/shared-parental-leave-and-pay). 
 * Paternity Leave cannot be taken after Shared Parental Leave. 
 
+**Statutory Adoption Leave:** Team members can take up to 52 weeks of Adoption Leave.
+* Leave can start:  
+    * up to 14 days before the expected placement date
+    * when a team member has been matched with a child by a UK adoption agency
+    * when the child arrives in the UK or within 28 days of this date (for overseas adoptions)
+    * the day the child is born or the day after (for parents in surrogacy arrangements).
+
 #### Maternity Leave Payment
 
 * Team members can receive Statutory Maternity Pay for up to 39 weeks:
@@ -267,6 +274,30 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
     * Send Total Rewards a completed [SPP Form](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///SCApplications/PersonalTax_iForms/1.0/SC3&template=SC3.xdp) if applying for Statutory Paternity Pay or one of the [SPL Forms](https://www.acas.org.uk/shared-parental-leave-forms) if applying for Shared Parental Leave pay.
     * Total Rewards will notify payroll and email Vistra a copy of the form, dates of leave and outline what pay the team member is eligible (statutory, supplemental, etc).
     
+#### Adoption Leave Payment
+* Team members can receive statutory adoption pay for up to 39 weeks:
+    * 90% of the team member's average weekly earnings (before tax) for the first 6 weeks.
+    * £151.20 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks.
+    * To be eligible for statutory adoption pay, team members must have had continuous employment with GitLab for at least 26 weeks leading up to the week they were matched with the child.
+
+#### Unpaid Parental Leave
+* Team members who have been employed with GitLab for more than one year are eligible for up to 18 weeks of unpaid leave to look after their child's welfare. 
+    * The entitlement is per child up to the age of 18, regardless of the person's employer. 
+    * The balance of unpaid parental leave carries over to each employer. For example, if someone has taken 10 weeks of unpaid parental leave with their previous employer, they would be entitled to 8 weeks of leave with their new employer.
+    * Each parent can take up to 4 weeks each year per child.
+
+### Other Job-Protected Leave
+The following leave types run concurrently with GitLab PTO. Team members should initiate leave by selecting the appropriate option in `PTO by Roots`. If none applies, the team members should notify their manager and Total Rewards `total-rewards@gitlab.com` to initiate leave.
+
+**Magistrate Duty:** Any team member who is a magistrate is entitled to leave to carry out their duties. Magistrates will need to be in court for at least 13 days or 26 half-days per year. 
+
+**Justice of the Peace (Scotland):** Any team member who is a Justice of the Peace is entitled to leave to carry out their duties. 
+
+**Jury Service:** Team members who are called for jury service are entitled to time off to complete the service. Jury Service usually lasts up to 10 days, but can last longer.
+
+**Parental Bereavement Leave:** Team members are entitled to 2 weeks of leave for a child under 18 who has died.
+
+**Time off for Public Duties:** Team members are entitled to a reasonable amount of time off if they are a local councillor, a school governor, a member of any statutory tribunal, a member of the managing or governing body of an educational establishment, a member of a health authority, a member of a school council or board in Scotland, a member of the Environment Agency or the Scottish Environment Protection agency, a member of the prison independent monitoring boards (England or Wales) or a member of the prison visiting committees (Scotland), a member of Scottish Water or a Water Customer Consultation Panel, or a trade union member. The amount of time should be agreed upon between the team member and the manager beforehand based on how long the duties might take, the amount of time the team member has already taken off for public duties, and how the time off will affect the business.
 
 ## Employer's Liability Insurance
 
