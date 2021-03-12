@@ -59,6 +59,7 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - ['Get in the Van' and Other Tips for Getting Meaningful Customer Feedback](https://review.firstround.com/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product)
+
 ##### Deeper dive
 
 Please contribute your favorite resources here
