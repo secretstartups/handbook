@@ -172,52 +172,34 @@ Unsure what content topics align with your asset? Use the table below as a guide
 
 | Topic | Use | Example |
 | ----- | --- | ------- |
-| Agile delivery | Content that relates to the agile delivery process decision framework which emphasizes incremental and iterative planning. | [What is an Agile mindset?](/blog/2019/06/13/agile-mindset/) |
-| Agile management |  |  |
-| Agile software development | Content that relates to the agile software development methodology which emphasizes cross-functional collaboration, continual improvement, and early delivery | [How to use GitLab for Agile software development](/blog/2018/03/05/gitlab-for-agile-software-development/) |
-| Application modernization | Content that relates to the process of converting, refactoring, re-writing, or porting legacy systems to more modern programming and infrastructure. Content on this topic may cover cost/benefit of updating legacy systems, process, system, and culture changes, and toolstack comparisons. | [3 Strategies for implementing a microservices architecture](/blog/2019/06/17/strategies-microservices-architecture/) |
-| Application monitoring and visibility |  |  |
-| Application security | Content that covers the production and delivery of secure software, security techniques and capabilities, and trends in the application security field. | [5 Security testing principles every developer should know](https://about.gitlab.com/blog/2019/09/16/security-testing-principles-developer/) |
-| Automation | Content that relates to using technology to automate tasks. Likely use cases are how automation impacts productivity and workflows, feature highlights & tutorials, and case studies. | [How IT automation impacts developer productivity](/blog/2019/05/30/it-automation-developer-productivity/) |
-| AWS | Content that relates Amazon Web Services. Likely use cases are case studies where the customer uses GitLab + AWS and integration information & tutorials. | [How to set up multi-account AWS SAM deployments with GitLab CI/CD](/blog/2019/02/04/multi-account-aws-sam-deployments-with-gitlab-ci/) |
+| Agile | | |
+| All-remote | Content that covers remote work, including best practices, stories, and advice. | [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/) |
+| Amazon Web Services (AWS) | Content that relates Amazon Web Services. Likely use cases are case studies where the customer uses GitLab + AWS and integration information & tutorials. | [How to set up multi-account AWS SAM deployments with GitLab CI/CD](/blog/2019/02/04/multi-account-aws-sam-deployments-with-gitlab-ci/) |
 | Azure | Content that talks specifically about Microsoft Azure. Likely uses cases are tutorials on using GitLab + Azure cloud or competitive content. | [Competitive analysis page for Azure DevOps](/devops-tools/azure-devops-vs-gitlab.html) |
-| CI/CD | Content that covers continuous integration, continuous delivery, and continuous deployment. This content is likely to be more technical, explaining tools, methods for implementation, tutorials, and technical use cases. | [A quick guide to CI/CD pipelines](/blog/2019/07/12/guide-to-ci-cd-pipelines/) |
-| Cloud computing | Content that relates to the practice of using a network of remote servers hosted on the Internet to store, manage, and process data. Likely uses cases are content discussing various cloud models (public, private, hybrid, and multicloud), integrations, and tutorials. Some customer case studies may be tagged with this label if the case study is _primarily_ about GitLab enabling their cloud computing model. | [Top 5 cloud trends of 2018: What has happened and what’s next](/blog/2018/08/02/top-five-cloud-trends/) |
+| Bitbucket | | |
+| Checkmarx | | |
 | Cloud native | Content that relates container-based environments. Specifically, technologies are used to develop applications built with services packaged in containers, deployed as microservices and managed on elastic infrastructure through agile DevOps processes and continuous delivery workflows. | [A Cloud Native Transformation](/webcast/cloud-native-transformation/) |
-| Containers | Content that relates to using, running, maintaining, and building for containers. | [Running Containerized Applications on Modern Serverless Platforms](https://www.youtube.com/watch?v=S8R7sSePAXQ) |
 | Continuous delivery | Content that covers methods and tools for delivering or updating software in smaller increments, resulting in a better end-user experience. Both technical and strategic content may be found. | [Securing the journey to Continuous Delivery](https://about.gitlab.com/blog/2019/10/30/secure-journey-continuous-delivery/) |
 | Continuous integration |  |  |
-| Data science |  |  |
 | DevOps | Content that relates to DevOps methods, process, culture, and tooling. [Keys to DevOps success with Gene Kim](https://www.youtube.com/watch?v=dbkj0qXQ22A) |  |
 | DevSecOps | Content that relates specifically to integrating and automating security into the software development lifecycle. Content that relates to cybersecurity should be tagged `security` and not `devsecops`. | [A seismic shift in application security](/resources/downloads/gitlab-seismic-shift-in-application-security-whitepaper.pdf) |
 | Digital transformation | Content that covers the process, methods, and strategy of integrating technology into all aspects of business. This content also includes strategies, tools, and tactics for furthering innovation, building new efficiencies, and delivering higher value faster. | [The cloud adoption roadmap](https://about.gitlab.com/blog/2019/12/05/cloud-adoption-roadmap/) |
-| Git | Content that relates to implementing and using the distributed version contronl system, Git. | [Moving to Git](/resources/downloads/gitlab-moving-to-git-whitepaper.pdf) |
-| GitOps |  |  |
-| GKE | Content that is specifically about Google Kubernetes engine and Google Cloud Platform. Likely use cases are integrations, tutorials, and case studies | [Demo: Deploy to GKE from GitLab](https://www.youtube.com/watch?v=u3jFf3tTtMk) |
-| Incident management |  |  |
-| Information technology management | Content that relates to the monitoring and administration of IT systems, including hardware, software, and networks. (Definition adapted from [IBM](https://www.ibm.com/topics/it-management)) Content may be either technical or strategic. | [Shifting from on-prem to cloud](https://about.gitlab.com/blog/2020/01/09/shifting-from-on-prem-to-cloud/) |
+| GitHub | | |
+| GitOps | | |
+| Google Cloud Platform (GCP) | | |
+| Hashicorp | | |
+| Infrastructure as code | | |
+| Infrastructure automation | | |
 | Jenkins | Content that is specifically about Jenkins. Likely uses cases are integrations, competitive, comparisons, and case studies. | [3 Teams left Jenkins: Here's why](/blog/2019/07/23/three-teams-left-jenkins-heres-why/) |
+| JFrog | | |
+| Jira | | |
 | Kubernetes | Content that relates to implementing and using kubernetes. Likely use cases are cost/benefits, tutorials, and use cases. | [Kubernetes and the future of cloud native: We chat with Kelsey Hightower](/blog/2019/05/13/kubernetes-chat-with-kelsey-hightower/) |
-| Microservices | Content that covers the practice of breaking out application components individually as services for the purpose of running applications at scale with greater flexibility. | [3 Strategies for implementing a microservices architecture](https://about.gitlab.com/blog/2019/06/17/strategies-microservices-architecture/) |
-| Multicloud | Content that relates to how enterprises use multiple cloud providers to meet different technical or business requirements. | [What does Kubernetes have to do with it?](https://about.gitlab.com/blog/2020/02/05/kubernetes-and-multicloud/) |
 | Open source | Content that covers open source projects, partnershipship initiatives, and community contributions. | [What to consider with an open source business model](https://about.gitlab.com/blog/2019/07/05/thoughts-on-open-source/) |
-| Portfolio management |  |  |
-| Remote development team management |  |  |
-| Remote work | Content that covers remote work, including best practices, stories, and advice. | [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/) |
-| Repository management |  |  |
-| SCM | Content that relates to source code management, Git, GitLab Flow, and version control. | [GitLab Workflow: An Overview](https://about.gitlab.com/topics/version-control/what-is-gitlab-workflow/) |
-| Security | Content that relates to cybersecurity and application security practices. | [When technology outpaces security compliance](/blog/2019/06/10/when-technology-outpaces-security-compliance/) |
-| Severless computing | Content that relates to the ability to deploy functions on any infrastructure managed through a single UI. | [Announcing GitLab Serverless](https://about.gitlab.com/blog/2018/12/11/introducing-gitlab-serverless/) |
-| Simplify DevOps |  |  |
-| Single application | Content that covers the methods and benefits of using a single application throughout the software development lifecycle, including increased efficiency and transparency. | [Customer story: Driving better developer and customer experiences with a single application](https://about.gitlab.com/blog/2018/09/26/customer-interview-charter-communications/) |
-| Software development | Content that covers software development methodologies, cycle time, and development techniques. | [How to use GitLab for Agile software development](https://about.gitlab.com/blog/2018/03/05/gitlab-for-agile-software-development/) |
-| Software development philosophies |  |  |
-| Software development process |  |  |
-| Software engineering |  |  |
-| Toolchain | Content that relates to toolchain and stack management. | [How to manage your toolchain before it manages you](/resources/downloads/201906-gitlab-forrester-toolchain.pdf) |
-| Version control and collaboration |  |  |
-| VSM | Content that relates to the topic of value stream mapping and management. Topics that fall under this tag may include cycle time, cycle analytics, and software delivery strategies and metrics. | [The Forrester Value Stream Management Report](/analysts/forrester-vsm/index.html) |
-| Workflow | Content that relates to understanding and implementing workflows throughout the software development lifecycle. Likely uses are content that explains a particular workflow or how to set up a workflow in GitLab. For example: how a workflow might change when a level of automation is introduced. | [Planning for success](/resources/downloads/gitlab-planning-for-success-whitepaper.pdf) |
+| Pulumi | | |
+| Rally | | |
+| Source code management | Content that relates to source code management, Git, GitLab Flow, and version control. | [GitLab Workflow: An Overview](https://about.gitlab.com/topics/version-control/what-is-gitlab-workflow/) |
+| Veracode | | |
+| Version control and collaboration | | |
 
 ## Industry Verticals
 
