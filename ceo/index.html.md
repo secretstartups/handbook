@@ -107,7 +107,7 @@ I get many email on which I am only cc'd on, I would very much appreciate if you
 
 ### Connecting on Social Media 
 
-I have accounts on [LinkedIn](https://www.linkedin.com/in/sijbrandij) and [Facebook](https://www.facebook.com/sytse). I will not send invites to team members on those networks since as the CEO I don't want to impose myself on anyone. But I would love to connect and I will happily accept your LinkedIn and Facebook friend request. If there is a delay in accepting your LinkedIn connect request, please ping the Staff EBA to the CEO in #eba-team on slack and they will accept your connection request. You can also find me on Twitter as [@sytses](https://twitter.com/sytses), I won't request to follow private twitter accounts, I assume I'm welcome to follow public twitter accounts, if not please let me know.
+I have accounts on [LinkedIn](https://www.linkedin.com/in/sijbrandij) and [Facebook](https://www.facebook.com/sytse). I will not send invites to team members on those networks since as the CEO I don't want to impose myself on anyone. But I would love to connect and I will happily accept your LinkedIn and Facebook friend request. Please ping the Staff EBA to the CEO in #eba-team on slack and they will accept your connection request. You can also find me on Twitter as [@sytses](https://twitter.com/sytses), I won't request to follow private twitter accounts, I assume I'm welcome to follow public twitter accounts, if not please let me know.
 
 ### Communicating Follow Ups
 
