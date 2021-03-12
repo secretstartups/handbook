@@ -52,6 +52,7 @@ We have outlined recommended LinkedIn Learning paths for different roles at GitL
 - [Coaching and Developing Employees](https://gitlab.edcast.com/insights/ECL-98941f0d-58dc-46ab-bbe6-90fbef4270bf)
 - [Change Management Foundations](https://gitlab.edcast.com/insights/ECL-263cc353-0596-4173-8471-e8ed52251864)
 - [Inclusive Leadership](https://gitlab.edcast.com/insights/ECL-c2ba0aa4-11fb-4a06-bae0-ad480265fc31)
+- [Transitioning from Manager to Leader](https://gitlab.edcast.com/insights/ECL-56c23d97-8ece-4f13-8422-46c4604b4839)
 
 ### Senior Leaders and Executives 
 - [Executive Leadership](https://gitlab.edcast.com/insights/ECL-59d436b8-bcc4-4d16-bfce-a34de7d34853)
