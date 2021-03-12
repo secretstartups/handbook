@@ -66,6 +66,7 @@ All new Learning and Development (L&D) team members complete our [team onboardin
 - [Organizational Learning & Development](https://www.linkedin.com/learning/organizational-learning-and-development/make-your-l-d-a-true-business-partner?)
 - [Developing a Learning Mindset](https://www.linkedin.com/learning/developing-a-learning-mindset/welcome?)
 - [The Future of Workplace Learning](https://www.linkedin.com/learning/the-future-of-workplace-learning/why-workplace-learning-matters?)
+- [Build a Company Learning & Development Program](https://www.linkedin.com/learning/paths/build-a-company-learning-and-development-program)
 
 ## Conferences and Events 
 
