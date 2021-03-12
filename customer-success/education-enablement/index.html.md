@@ -14,6 +14,14 @@ description: "As a Solutions Architect, Technical Account Manager, or Profession
 
 As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed. Although we aggregated and/or developed these resources for Customer Success team members, they are generic enough that all team members and partners can benefit from the education and enablement resources that we have published here.
 
+## Educational Tiers
+
+There is a lot of depth to the GitLab product and the industry knowledge that you'll need to know (eventually). To help you level up, the resources on this page have been broken up into educational tiers.
+
+* **Foundations (101 Level)** - This provides an overview that lets you get a summary about a topic in less than 30 minutes to be able to have a high-level conversation about it.
+* **Associate (150 to 200 Level)** - This provides a working knowledge of the depth of a topic and associated features. This provides enough information to know that a feature exists and a "good enough" understanding of how it works until you find yourself needing to focus on a topic for a more complex demo or implementation.
+* **Professional (300-400 Level)** - This provides the subject matter expert level materials for topics of interest. If you become proficient in a topic, you are encouraged to contribute resources (videos, demos, post-mortem write-ups, documentation pages, repositories, etc.) to this tier since this is crowd sourced from team members and not formally developed as part of our education and enablement program.
+
 ## Overview of GitLab Feature and Use Cases
 
 The GitLab product is organized based on the DevOps stages. 
@@ -24,7 +32,7 @@ If you're new to GitLab and the concept of "stages" are new to you, simply think
 
 One of the most helpful resources for understanding what GitLab does, the features in each stage, and how well the feature works is our [Category maturity](https://about.gitlab.com/direction/maturity/) chart. This may also be informally referred to as our "lovable feature chart". 
 
-If you understand what the stages are and want to dive deeper, you can look at the product categories handbook page](https://about.gitlab.com/handbook/product/categories/) for a deep-dive on each of the stages, specifically the [hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and the [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages). 
+If you understand what the stages are and want to dive deeper, you can look at the [product categories handbook page](https://about.gitlab.com/handbook/product/categories/) for a deep-dive on each of the stages, specifically the [hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and the [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages). 
 
 For the purposes of education and enablement, we focus on the DevOps stages that the customer sees. There are additional stages that help GitLab as a business succeed, such as the [Growth stage](https://about.gitlab.com/handbook/product/categories/#growth-stage), [Fulfillment stage](https://about.gitlab.com/handbook/product/categories/#fulfillment-stage), [Enablement stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage), and [Single Engineer Groups stage](https://about.gitlab.com/handbook/product/categories/#single-engineer-groups-section). Although these are not necessarily DevOps stages, the Engineering and Product departments use the stage terminology for consistency. **You do not need to spend time learning about these stages and can search for this information later if the need arises.**
 
@@ -49,67 +57,165 @@ There are also resources available to cater to the size of customer and their ne
 
 To align our education and enablement with our product, each of the topics below are grouped based on how GitLab product management and engineering defines it. 
 
-### Dev Section
-
 <table>
 <thead>
 <tr>
-<th>Knowledge Level</th>
-<th>Manage</th>
-<th>Plan</th>
-<th>Create</th>
+<th>Topic</th>
+<th>Foundations</th>
+<th>Associate</th>
 </thead>
 <tbody>
+<!-- DevOps Sections -->
 <tr>
-<th>Foundations</th>
-<td colspan="3">[Dev Section Training]()</td>
-</tr>
-<tr>
-<th>Associate</td>
+<th>DevOps Sections</th>
 <td>
-[Manage Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/manage/)<br />
-[Manage Stage Training]()<br />
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/direction/dev/">Dev Section Direction and Roadmap</a></li>
+    <li><a href="https://about.gitlab.com/direction/ops/">Ops Section Direction and Roadmap</a></li>
+    <li><a href="https://about.gitlab.com/direction/security/">Security Section Direction and Roadmap</a></li>
+    </ul>
 </td>
 <td>
-[Plan Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/plan/)<br />
-[Plan Stage Training]()<br />
+    <!-- Associate -->
 </td>
 <td>
-[Create Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/create/)<br />
-[Create Stage Training]()<br />
-</td>
-</tr>
-<tr>
-<th>Professional</th>
-<td>
-[Manage - Subgroups Docs](https://docs.gitlab.com/ee/user/group/subgroups/)<br />
-[Manage - Insights Docs](https://docs.gitlab.com/ee/user/group/insights/)<br />
-[Manage - Value Stream Management Docs](https://about.gitlab.com/solutions/value-stream-management/)<br />
-[Manage - Audit Events Docs](https://docs.gitlab.com/ee/administration/audit_events.html)<br />
-[Manage - DevOps Reports Docs](https://docs.gitlab.com/ee/user/admin_area/analytics/dev_ops_report.html)<br />
-[Manage - Code Analytics Docs](https://docs.gitlab.com/ee/user/analytics/code_review_analytics/)<br />
-[Manage - Compliance Management Docs](https://docs.gitlab.com/ee/administration/compliance.html)<br />
-[Manage - Audit Reports Docs](https://docs.gitlab.com/ee/administration/audit_reports.html)<br />
-</td>
-<td>
-TODO
-</td>
-<td>
-TODO
+    <!-- Professional -->
 </td>
 </tr>
+<!-- Manage Stage -->
 <tr>
-<th>Expert</th>
+<th>Manage Stage</th>
 <td>
-TODO
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/manage/">Manage Stage Overview</a></li>
+    </ul>
 </td>
 <td>
-TODO
+    <!-- Associate -->
+    <ul>
+    <li><a href="https://docs.gitlab.com/ee/user/group/subgroups/">Subgroups Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/group/insights/">Insights Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/solutions/value-stream-management/">Value Stream Management Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/administration/audit_events.html">Audit Events Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/admin_area/analytics/dev_ops_report.html">DevOps Reports Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/analytics/code_review_analytics/">Code Analytics Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/administration/compliance.html">Compliance Management Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/administration/audit_reports.html">Audit Reports Feature Docs</a></li>
+    </ul>
 </td>
 <td>
-TODO
+    <!-- Professional -->
 </td>
 </tr>
+<!-- Plan Stage -->
+<tr>
+<th>Plan Stage</th>
+<td>
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/plan/">Plan Stage Overview</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <li><a href="https://docs.gitlab.com/ee/user/project/issues/">Issue Tracking Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/solutions/time-tracking/">Time Tracking Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/product/issueboard/">Boards Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/product/epics/">Epics Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/product/roadmaps/">Roadmaps Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/product/service-desk/">Service Desk Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/requirements/">Requirements Management Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/test_cases/index.html">Quality Management Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/issues/design_management.html">Design Management Feature Docs</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Professional -->
+</td>
+</tr>
+<!-- Create Stage -->
+<tr>
+<th>Create Stage</th>
+<td>
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/create/">Create Stage Overview</a></li>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/source-code-management/">Source Code Management Feature Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/create/source_code_management/">Source Code Management Direction and Roadmap</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/code-review/">Code Review Feature Overview with 30+ Features</a>
+    <ul>
+    <li><code>Free</code><a href="https://about.gitlab.com/solutions/jira/">JIRA Integration Solution Overview</a></li>
+    <li><code>Free</code><a href="https://docs.gitlab.com/ee/user/project/integrations/jira.html">JIRA Issues Integration Feature Docs</a></li>
+    <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira_development_panel.html">JIRA Development Panel Integration Feature Docs</a></li>
+    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Multiple approvers in code review Feature Docs</a></li>
+    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Approval rules for code review Feature Docs</a></li>
+    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html">Merge request dependencies Feature Docs</a></li>
+    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/code_owners.html">Code Owners Feature Docs</a></li>
+    </ul>
+    </li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/wiki/">Wiki Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/static_site_editor/">Static Site Editor Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/web_ide/index.html">Web IDE Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/web_ide/index.html#live-preview">Live Preview Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/snippets.html">Snippets Feature Docs</a></li>
+    <li><a href="https://gitlab.com/gitlab-org/gitaly">Gitaly Source Code Project</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Professional -->
+</td>
+</tr>
+<!-- Verify Stage -->
+<tr>
+<th>Verify Stage</th>
+<td>
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/verify/">Verify Stage Overview</a></li>
+    <li><a href="https://youtube.com/playlist?list=PL05JrBw4t0Ko-mJZLo2uF3aQQuBfBaSKB">CI YouTube Playlist</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <li><a href="https://about.gitlab.com/product/continuous-integration/">Continuous Integration (CI) Solution Overview</a><br />
+    <ul>
+    <li><a href="https://docs.gitlab.com/ee/ci/">CI/CD Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/introduction/">CI/CD Concepts Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/pipelines/">CI/CD Pipeline Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/variables/README.html">CI/CD Variables Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/environments/">CI/CD Environments and Deployments Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/runners/README.html">CI/CD with Runners Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/topics/autodevops/">Auto DevOps Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/yaml/gitlab_ci_yaml.html">CI/CD configuration with <code>.gitlab-ci.yml</code> Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/yaml/README.html">CI/CD authoring YAML reference for <code>.gitlab-ci.yml</code> Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/examples/README.html">CI/CD Implementation Examples Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/troubleshooting.html">CI/CD Troubleshooting Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/migration/circleci.html">Migrate from CircleCI Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/migration/jenkins.html">Migrate from Jenkins Docs</a></li>
+    </ul>
+    </li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/merge_requests/code_quality.html">Code Quality Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/unit_test_reports.html">Code Testing and Coverage Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/merge_requests/load_performance_testing.html">Load Testing Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/merge_requests/browser_performance_testing.html">Browser Performance Testing Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/review_apps/#visual-reviews-starter">Usability Testing Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/merge_requests/accessibility_testing.html">Accessibility Testing Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/">Merge Trains Feature Docs</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Professional -->
+</td>
+</tr>
+
 </tbody>
 </table>
 
