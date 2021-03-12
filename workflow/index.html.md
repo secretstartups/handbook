@@ -128,7 +128,7 @@ The merge request author of the change that broke master is the resolution DRI. 
 1. If the broken `master` affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
    open new merge requests **directly against the stable branches** which are
    broken and ping the current release manager in the merge requests to avoid
-   delays in releases / security releases. Optionally, post a message in `#releases`.
+   delays in releases / security releases. See [How to fix a broken stable branch guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md) for more details.
 1. Reactions by the resolution DRI in `#development` should follow this guidance:
    * `:eyes:` - applied by the resolution DRI (or backup) to signal acknowledgment
    * `:construction:` - applied by the resolution DRI to signal that work is in progress on a fix
@@ -418,7 +418,7 @@ Each retrospective consist of three parts:
 
 - `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
 - `M, 19th`: Group Retrospectives should be held.
-- `M, 24th`: Moderator opens the Retrospective planning and execution issue.
+- `M, 24th`: Moderator opens the Retrospective planning and execution issue and communicates a reminder in R&D quad slack channels.
 - `M, 24th` to `M+1, 3rd`: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
 - `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
 - `M+1, 6th`: Retrospective Discussion is held.
