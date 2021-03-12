@@ -43,7 +43,7 @@ Adding ~review-requested as I would like to discuss this issue with a representa
 ```
 
 ```
-Adding ~review-requested to ensure that the relevant sections of the incident review section are filled out before closing.
+Adding ~review-requested as the incident review section is missing an assessment of how many customers were impacted. This information would help prioritize proposed fixes.
 ```
 
 ## Incident Review Process
