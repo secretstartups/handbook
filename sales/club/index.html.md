@@ -68,7 +68,7 @@ Please see the [How to Qualify](/handbook/sales/club/#how-to-qualify) section ab
 
 **How are President’s Club winners selected?**
 
-Please see the [Selection Criteria](/handbook/sales/club/#selection-criteria) section above for PC 2022. 
+Please see the [Selection Criteria](/handbook/sales/club/#eligibility-criteria) section above for PC 2022. 
 
 **What is the schedule for President’s Club 2020/2021?**
 
