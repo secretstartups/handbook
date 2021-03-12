@@ -181,13 +181,13 @@ Exceptional community members may be able to participate, as well.
 | 2021-03-15 | 2021-03-19 | [Sarah Daily](https://gitlab.com/sdaily), Senior Marketing Operations Manager | [Robert Kohnke](https://gitlab.com/rkohnke), Marketing Data Analyst |
 | 2021-03-22 | 2021-03-26 | [Darwin Sanoy](https://gitlab.com/darwinjs), Senior Solutions Architect, Alliances | [Sarah Daily](https://gitlab.com/sdaily), Senior Marketing Operations Manager |
 | 2021-03-29 | 2021-04-02 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Darwin Sanoy](https://gitlab.com/darwinjs), Senior Solutions Architect, Alliances |
-| 2021-04-05 | 2021-04-09 | AVAILABLE - REMOTE | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
-| 2021-04-12 | 2021-04-16 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-05 | 2021-04-09 | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
+| 2021-04-12 | 2021-04-16 | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin |
+| 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager |
 | 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-05-03 | 2021-05-07 | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher | AVAILABLE - REMOTE |
-| 2021-05-10 | 2021-05-14 | AVAILABLE - REMOTE | AVAILABLE - REMOTE|
-| 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher |
+| 2021-05-10 | 2021-05-14 | AVAILABLE - REMOTE | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher |
+| 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | AVAILABLE - REMOTE |
 | 2021-05-24 | 2021-05-28 | [Melissa Ushakov](https://gitlab.com/mushakov)| [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
 | 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE (short week due to Holiday) | [Melissa Ushakov](https://gitlab.com/mushakov) |
 | 2021-06-07 | 2021-06-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
