@@ -419,7 +419,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | Legal meeting                    | No notes       | Timekeeping    |
 | GitLab Board meeting or meeting with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)                   | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
-| Valley Meetings                  | No notes       | Only if stated |
+| Valley Meetings                  | No notes       | Timekeeping    |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 
