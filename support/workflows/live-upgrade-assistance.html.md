@@ -76,11 +76,11 @@ advance of the production upgrade.
 
 #### US Federal Process
 
-1. The end user initiating the request will open a new case using the [Live Upgrade Assistance Request]() form in the Federal Support Portal. This will generate a high priority case in the instance.
+1. The end user initiating the request will open a new case using the [Live Upgrade Assistance Request](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001434131) form in the Federal Support Portal. This will generate a high priority case in the instance.
 1. The triaging engineer will assign the case to themselves and will review the given information.
 1. The user provided information must include all of the [required information](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#what-information-do-i-need-to-schedule-live-upgrade-assistance).
 1. If there is missing, incomplete, or erroneous information the Engineer should highlight the deficiencies and provide any insight that may be helpful to correcting them to the user.
-1. Once all the required information has been confirmed and the engineer is ready to schedule the call they can send a one time use calendly link for the [US Federal Live Upgrade Assistance]() round robin.
+1. Once all the required information has been confirmed and the engineer is ready to schedule the call they can send a one time use Calendly link for the US Federal Live Upgrade Assistance [round robin](https://calendly.com/event_types/team/44431).
     - If the user has indicated they are planning a weekend upgrade please note the case in the [#support_us-federal-chat](https://gitlab.slack.com/archives/G01HYGJRN9W) slack channel asking for a volunteer and CC the US Federal Support Manager.
 1. Once the user has scheduled the upgrade please put the case in an `on-hold` state while waiting to begin the upgrade assistance live session.
 1. Post call, the Engineer will comment on the issue with a post-mortem of sorts. This should detail any issues that occurred or comments that might be relevant for the TAM or Support.
