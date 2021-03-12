@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Professional Service Operations
+title: Mavenlink Processes
 category: Internal
 description: "Learn about the GitLab Professional Services operations processes and workflows."
 ---
@@ -10,133 +10,7 @@ description: "Learn about the GitLab Professional Services operations processes 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Professional Services Operations 
-Professional Services Operations is a collaboration of our consulting, training, schedululing, reporting and backend processes to support the Professional Services team.
-
-
-## Project Coordination- Consulting
-
-#### Consulting Project Assignment
-
-When the PC and PM have the project team aligned the PC will send [Consulting Project Assignment](https://docs.google.com/document/d/1HfIt30ksOlhv3zAxh8ZPX-5J59maiuhNgZT2E5lMpsk/edit) in the Mavenlink project activity, this allows the team to be aware of who will be working on the project.
-
-#### Consulting Time Tracking 
-
-Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
-
-- Best practice is to record time at the end of each day. This provides the most accurate account of hours worked and when it was worked
-- Each PSE is required and responsible for tracking their own hours, and submitted weekly by Friday EOD for the week worked
-- If time will be worked over the weekend, time sheet should still be submitted by Friday, EOD, then a new line created on the time sheet for hours worked over the weekend
-- Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and is reviewed weekly by PS Operations and Manager
-- Hours for PTO, Holidays and Friends and Family day are no longer required to be submitted in the weekly time sheet
-- Notes are required for the PS Time Tracking Creditable and PS Time Tracking Non Credit projects only, not on customer projects
-  
-  - PTO should be submitted in the time off feature in Mavenlink, and also follow the company guidelines, [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
-  - Holidays along with Friends and Family day are scheduled on the Mavenlink calendar
-  
-- Time is required to round to the nearest quarter hour, example: 
-  - 15m should be .25
-  - 30m should be .5
-  - 45m should be .75
-
-****Mavenlink Internal Projects****
-
-- ****PS TimeTracking Creditable****
-* SKO (GitLab Sales Kick Off)
-* Contribute (GitLab Employee Conference)
-* Commit (GitLab User Conference)
-* Sales Assistance​
-  * All Pre-Sales activities​
-  * SOW Creation
-* Support ​Assistance
-  * Support Cases, if pulled into customer questions after the project is closed
-  * Engineering Support
-* Practice Development​
-  * Creating customer process/documents​
-  * Customer templates
-  * Customer Articles and/or tools
-* Product Development
-* Mentoring
-* Training Course Grading
-   
-****PS TimeTracking Non Creditable****
-* Knowledge Sharing​
-  * Slack​
-  * Internal Q&A​
-* General Administrative​
-  * Time Sheets​
-  * Expense Reports​
-  * Reviews​
-  * HR Items​
-  * General Emails​
-* Meetings/ Staff Time​
-  * Internal Meeting​
-  * 1:1s​
-  * Weekly Webinars​
-  * All Hands​
-  * Team Calls​
-  * Interviews
-* Travel Time
-  * Excluding Customer Travel
-* Personal Enablement
-  * Development​
-  * Ramp Up​
-  * HR Training
-  * Customer Project Shadow
-
-****All customer project hours ****
-
-  * Project tasks are aligned with SOW activities and hours tracked against the tasks
-  * Internal/ Sales Handoff Calls
-  * Internal/ External status meeting
-  * Support ticket submission while the project is in progress
-  * Weekly/ Final customer reports and documentation
-  * Status/ Close out customer calls
-  * Customer Travel
-
-#### Consulting Projects Billing Guidelines
-
-Project billing is outlined in each customer SOW.  The current billing terms that professional services follows is the following:
-   * Billed upon SOW execution
-     * Includes Skud offerings
-   * Time and Materials
-   * Project miletone 
-   * Billed half up front and half at project completion
-   * Billed at completion
-   
-
-Passive acceptance of 5 days included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services
-   
-#### Consulting Projects Revenue Forecasting Guidelines
-
-Project revenue release is followed dependant on project billing type:
-   * Billed upon SOW execution biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Time and Materials billing terms
-     * Approved time sheet hours reported at each month end 
-   * Project miletone SOW billing terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Billed half up front and half at project completion SOW biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Billed at completion biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-
-Project revenue release is followed dependant on project billing type:
-
-
-
-## Project Coordination- Training
-Coming Soon, Project Coordination Processes
-
-## Operations  
-
-#### Quarterly time tracking entry and approval workflow
-
-* All hours are submitted and approved in Mavenlink on a weekly basis
-* The quarterly hours report is pulled from Mavenlink and reivewed by the PC and then provided to the PS Delivery Manager for review and approval
-* A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
-* The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
-* Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
+## Mavenlink Processes  
 
 #### Mavenlink Log In/ Password Creation
 
@@ -469,6 +343,3 @@ Once the PS Opportunity is closed/ won a notification is sent from SFDC.
 | Orange | Consulting & Training Project |
 | Lime | Internal Project |
   
-### Mavenlink Processes
-
-[Link to Mavenlink Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
