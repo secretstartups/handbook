@@ -96,7 +96,7 @@ Everyone's career development is different, but we have [outlined](/handbook/peo
 
 ### Language Courses
 
-Please review language course opportunities covered by the [GitLab Growth and Development Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#types-of-growth-and-development-reimbursements) for more information.
+Please review language course opportunities covered by the [GitLab Growth and Development Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) for more information.
 
 There is also a way to practice foreign languages and ask for advice in several Slack channels, each dedicated to a specific language. You can find all these channels by searching for channels starting with #lang. If you're missing a channel for your target language, feel free to create one and mention it in #whats-happening-at-gitlab so that fellow GitLab team-members can join too!
 
