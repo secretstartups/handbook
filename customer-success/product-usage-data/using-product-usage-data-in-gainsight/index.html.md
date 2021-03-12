@@ -56,8 +56,14 @@ Remember, this is an MVC — please [create an issue to suggest new metrics](/#r
 
 ### TAM Actions
 
-As a TAM, you are responsible to:
-1. For your self-managed customers, label your customers' instances as Production, Staging, or Obsolete (process TBD)
+##### Updating Instance Type
+For your self-managed customers, label your customers' instances as Production, Staging, or Obsolete. Steps:
+1. Go to the customer in Gainsight
+1. On the left nav panel, click on "Instance Details" (bottom)
+1. Click on the ✏️ icon for the instance you want to update
+1. For the field "Instance Type" select the proper option
+
+NOTE: Anythign labeled as "Unknown" should be treated as a _temporary_ holding title that needs to be updated to Production, Non-Production, or Obsolete.
 
 
 ### Field Definitions
