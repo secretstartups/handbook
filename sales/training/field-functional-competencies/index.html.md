@@ -30,7 +30,7 @@ Field team members should be focused on the customer and delivering a world clas
 | ---- | ----- |
 | Understanding the Customer's Needs | Leverages active listening to create mutual understanding between GitLab Team and customer regarding their short-term and long-term business challenges. Keeps the customer and their goals in mind when engaging with them. Seeks to understand their Positive Business Outcomes and how they define and measure success. |
 | Customer Business Acumen | Understands the dynamics, trends, and challenges of the customer's business and their industry then appropriately advocates internally for the needs of the customer. | 
-| Presenting | Shares knowledge with customers in a way that creates credibility, demonstrates integrity, and conveys GitLab values. Adjusts presentations and delivery based on audience level and interests/needs. Communicates crisply and concisely (whether in person or remotely) and can capture and engage audiences with effective storytelling. |
+| Effective Communication | Shares knowledge with customers in a way that creates credibility, demonstrates integrity, and conveys GitLab values. Adjusts presentations and delivery based on audience level and interests/needs. Communicates crisply and concisely (whether in person or remotely) and can capture and engage audiences with effective storytelling. |
 | Facilitating (Customer Presence) | Projects confidence, credibility, and conviction in body language, voice, and words during meetings to show interest, gain respect, and inspire trust. Drives effective bi-directional dialogue that lead to productive outcomes for the customer and for GitLab. |
 
 ## Solution Focus
@@ -72,8 +72,6 @@ Field team members and their managers are encouraged to have regular coaching an
 1. Field team members and their managers should then meet to compare and discuss assessment results then collaboratively brainstorm opportunities and agree on specific plans to support the team member's professional development and ongoing improvement
 1. Team members are encouraged to identify and regularly engage with an accountability partner (whether that be their manager and/or other) to maintain focus on development plans and to provide ongoing feedback
 
-## Assessment Template
+## Self-Assessment 
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCzDGB0-zwuCI6SKcMNWACOem_utTKexb7lwaa0MTjMTIaUjKbBEEDgDvrCXwxGIZqvA8F_CtpKfti/pubhtml?gid=203446683&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-</figure>
+On an annual basis the Field Enablement Team will launch a self- assessment for Field team members with CultureAmp. This information will help the Field Enablement Team prioritize training needs and assess the effacacy of training programs throughout the year. This will not be used for performance reviews. 
