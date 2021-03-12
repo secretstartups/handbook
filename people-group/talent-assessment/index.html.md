@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Performance/Potential Matrix and Succession Planning
-description: "GitLab's Performance/Potential Matrix is a type of Talent Assessment that forms part of our Talent Development Program."
+title: Talent Assessment 
+description: "Overview of three critical pieces of GitLab's talent development program: performance, potential, and key talent."
 ---
 
 ## On this page
@@ -11,6 +11,8 @@ description: "GitLab's Performance/Potential Matrix is a type of Talent Assessme
 {:toc .hidden-md .hidden-lg}
 
 # Overview
+
+This page provides and overview of three key pillars of GitLab's Talent Development Program: Performance, Potential, and Key Talent. 
 
 There are many Talent Assessment Options, we have opted to use a Performance/Potential Matrix (commonly known as "9-Box" in the US). GitLab's Performance/Potential Matrix is a type of Talent Assessment that forms part of our [Talent Development Program](https://about.gitlab.com/handbook/people-group/talent-development-program/). 
 
