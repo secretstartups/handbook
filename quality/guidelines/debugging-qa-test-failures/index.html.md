@@ -296,7 +296,7 @@ A job may fail due to infrastructure or orchestration issues that are not relate
 
 ### Notify relevant groups about the failure
 
-If the failure is blocking a deployment, please inform the release managers of the root cause and if a fix is in progress by Quality. On GitLab.com you can use `@gitlab-org/release/managers`. In Slack you can use `@release-managers`.
+If the failure is in a `smoke` or a `reliable` test, it will block deployments. Please inform the release managers of the root cause and if a fix is in progress by Quality. On GitLab.com you can use `@gitlab-org/release/managers`. In Slack you can use `@release-managers`.
 
 Please also raise awareness by looping in the appropriate team members from the product group, such as SET or EM. You may also want to post to Quality's Slack channel, `#quality`, depending on the impact of the failure.
 
