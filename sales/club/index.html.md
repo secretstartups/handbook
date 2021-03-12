@@ -35,8 +35,8 @@ For GitLab's FY22 President's Club, 49 GitLab team members (along with 1 guest p
 | Top Alliances | 1 | Leader selection. See Channel/Alliances tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=577788595) for details. |
 | Top Technical Account Managers | 5 | Leader selection. See CS tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=916403586) for details. |
 | Top Professional Services Engineers | 2 | Leader selection. See CS tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=916403586) for details. |
-| Top Sales Development Reps | 2 | CMO selection. See SDR tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=0) for details. |
-| Top Sales Development Manager | 1 | CMO selection. See SDR tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=0) for details. |
+| Top Sales Development Reps | 2 | VP/CMO selection. See SDR tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=0) for details. |
+| Top Sales Development Manager | 1 | VP/CMO selection. See SDR tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=0) for details. |
 | Top CRO Organization Managers | 2 | VP/CRO selection. Managers in the CRO org that don’t fall under one of the other Club award categories. Sales leader nominations to be collected by 1/31/22. |
 | MVPs (Non-Sales) | 2 | CRO staff selection. Sales leader nominations to be collected by 1/31/22. |
 
