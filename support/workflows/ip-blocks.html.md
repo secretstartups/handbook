@@ -16,7 +16,7 @@ At times, users of GitLab.com can find that their IP address has been blocked du
 
 ## Responding
 
-A standard response is available as a macro: `GitLab.com::Temp IP Ban`
+A standard response is available as a macro: [`Support::SaaS::Temp IP Ban`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360045599533))
 
 Please also see [the log requests workflow](/handbook/support/workflows/log_requests.html) for what information we can provide when responding.
 
