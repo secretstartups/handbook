@@ -67,8 +67,21 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Learning and Development Partner ](/job-families/people-ops/learning-development-specialist/): [Josh Zimmerman](/company/team/#Josh_Zimmerman)
 * [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): [Samantha Lee](/company/team/#slee24)
+* [Instructional Designer](/job-families/people-ops/instructional-designer/): Role to be filled
 
 ## Learning Sessions
+
+### Learning Sessions Schedule
+
+**FY22 Q1 Calendar of Sessions/Events:** 
+- 2021-03-XX: LXP Community Launch
+- Month of March: [Mental Health Awareness Month](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/198)
+- 2021-03-21: Field Sales Manager Hiring Top Talent Training
+- 2021-04-03: Enterprise Sales Hiring Top Talent Training
+
+**FY22 Q2 Calendar**
+- 2021-05-03 to 2021-05-21: May [Manager Challenge](/about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/)
+
 
 ### Live Learning
 Live Learning sessions will be conducted on a monthly basis. There will be a Zoom video conference set up for each session. Official dates and topics will be added to the schedule below as confirmed. If you were unable to attend a live learning session but still want to learn, check out our past live learning sessions below. At GitLab we [give agency](/handbook/values/#give-agency), but if you are attending Live Learning sessions, you will be asked to be engaged and participate with your full attention.
