@@ -145,10 +145,11 @@ Priorities
 Urgency
 </summary>
 
-- `MktgOps-Urgency::P0`: Immediate urgency, system down type issue. Timeframe: Immediate action needed
-- `MktgOps-Urgency::P1`: Major feature or workflow is not working. Timeframe: Action within days
-- `MktgOps-Urgency::P2`: Requires attention, but normal workflow is not impacted or there is a workaround. Timeframe: Action within 2-3 milestones
-- `MktgOps-Urgency::P3`: Minor, low urgency. Timeframe: Future action needed, not priority or urgent
+- `MktgOps-Urgency::P0`: System down, core business function down, or potential loss of mission critical data. Timeframe: Immediate action needed. Pull into active milestone.
+- `MktgOps-Urgency::P1`: Major feature or workflow is not working. Timeframe: Action within days. Pull into active milestone.
+- `MktgOps-Urgency::P2`: Requires attention, but normal workflow is not impacted or there is a workaround. Timeframe: Action within next milestone.
+- `MktgOps-Urgency::P3`: Requires attention, but normal workflow is not impacted. Minor, low urgency. Timeframe: Future action needed, not priority or urgent.
+- `MktgOps-Urgency::P4`: Small bug, nice to have fixed, but not impacting workflow. Timeframe: Future action needed, not priority or urgent.
 
 </details>
 
