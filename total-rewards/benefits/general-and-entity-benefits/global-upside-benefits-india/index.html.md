@@ -22,6 +22,7 @@ All of the benefits listed below are administered and managed by [Global Upside]
 | ------ | ------ |
 | `hr@globalpeoservices.com` | Employment-related questions |
 | `benefitsops@globalupside.com` | Questions regarding benefits elections |
+| `IndiaPayroll@globalpeoservices.com` | Payroll-related questions |
 
 ### Medical Benefits
 
@@ -32,7 +33,7 @@ All of the benefits listed below are administered and managed by [Global Upside]
 
 ### Pension
 
-Global Upside has a provident fund that the members pay to the government. This is included in the CTC. It ensures retirement benefits and family pensions on death in service. EPF benefits typically extend to all employees in an organization
+Global Upside has a provident fund that the members pay to the government. This is included in the CTC. It ensures retirement benefits and family pensions on death in service. EPF benefits typically extend to all team members in an organization
 
 * Member Contribution(% of base salary):
 EPF: 3.67% and EPS: 8.33%, Total Contribution: 12%
@@ -111,7 +112,7 @@ PhilHealth is a government corporation attached to the Department of Health. It 
 ### Medical Benefits
 
 * GitLab offers International Healthcare Insurance through [NOW Health International](https://www.now-health.com/en/) which covers 100% of team member contributions and 66% for spouse & kids of premiums for medical, vision, dental and maternity coverage.
-* For specific information on how your benefits operate, please read the [NOW WorldCare Member's Handbook](https://drive.google.com/drive/search?q=%22PH-NOW%20WorldCare%20Members%20Handbook%22). Feel free to also peruse NOW Health International’s [document library](https://www.now-health.com/en/document-library/).
+* For specific information on how your benefits operate, please read the [NOW WorldCare Member's Handbook](https://drive.google.com/file/d/1wUtwcJkUqKgW7radXM6pJoTELGGHOyzp/view?usp=sharing). Feel free to also peruse NOW Health International’s [document library](https://www.now-health.com/en/document-library/).
 
 ### 13th Month Pay
 
@@ -140,3 +141,168 @@ Team members are entitled to `five days` of paid vacation leave after 12 months 
 
 #### Applying for Parental Leave in the Philippines
 To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+
+## Kenya
+
+All of the benefits listed below are administered and managed by [Global Upside](https://globalupside.com/).
+
+### Medical (Healthcare Monthly Allowance)
+
+* Healthcare Monthly Allowance will be paid by Global Upside as an allowance to the team members for their own Medical Coverage.
+* This amount will be paid on monthly basis with the regular payroll as a reimbursement.
+* Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount.
+* The allowance will be up to 300 USD per month for team member and up to 500 USD per month for team member plus Dependents. (USD amount can be converted to the local currency using the latest [Currency Conversion Factor](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates))
+* The Total Rewards team will send a confirmation email to Global Upside to have the reimbursement processed.
+
+### Pension
+
+GitLab does not plan to offer pension benefit at this time as Kenya has their Pension system called as [National Social Security Fund (N.S.S.F)](https://www.nssf.or.ke/). 
+
+### Life Insurance and Disability
+
+GitLab offers company paid International Group Life and Disability Plans through [Allianz Care](https://drive.google.com/file/d/17y38CQ1XLO0os0sN6Q-LJpmU3dPyUUAx/view?usp=sharing). This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
+
+### Global Upside - Kenya Leave Policy
+
+#### Statutory Parental Leave
+
+**Maternity Leave:** Team members can take up to 3 months of Maternity Leave.
+
+**Paternity Leave:** Team members can take up to 2 weeks of Paternity Leave.
+
+#### Maternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 26 weeks.
+
+#### Paternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Applying for Parental Leave in Kenya
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+## Chile
+
+All of the benefits listed below are administered and managed by [Global Upside](https://globalupside.com/).
+
+### Medical
+
+* GitLab offers International Healthcare Insurance through [NOW Health Insurance](https://drive.google.com/file/d/18v-Qob5SotJOOyzxK9FTI4ks7WTpsCZt/view?usp=sharing) which covers 100% of team member contributions and 66% for eligible dependents of premiums for medical, vision, dental and maternity coverage.
+* NOW health insurance will be administered directly by Global Upside. 
+* For any addition or modification a team member can reach out to Global Upside Benefits Team at `benefitsops@globalupside.com`. 
+* During the onboarding of a `New Hire`, Global Upside will collect the team member & their eligible dependent's census for benefit enrolment.
+* Once enrolled in NOW Health Insurance, you will be able to access your [mobile pass](https://drive.google.com/file/d/1M8cnYjKGfYLF82rJMZHjUfSCvDUbFrNn/view?usp=sharing) or digital membership card through your [online portfolio](https://portfolio.now-health.com/). This mobile pass or digital membership card replaces the traditional, physical membership card.
+
+### Pension
+
+GitLab does not plan to offer pension benefit at this time as Chile has their pension system known as [Chile pension system](https://www.ips.gob.cl/servlet/internet/inicio/beneficios-y-pensiones/pensiones)
+
+### Life Insurance
+
+GitLab does not plan to offer life insurance at this time as team members can access the benefits from Social insurance system if they get ill, injured or have a disability.
+
+### Global Upside -  Chile Leave Policy
+
+#### Statutory Parental Leave
+
+**Maternity Leave:** Team members can take up to 30 weeks of Maternity Leave,  made up of 6 weeks of prenatal leave ("Prenatal leave") before the expected date of birth and 12 weeks of post-natal leave ("Post-natal leave") after the birth, and are prohibited from working during this period. After Post-natal leave, they have parental leave ("Parental leave") that can be used in two ways: 12 weeks full-time or 18 weeks working half-time.
+
+**Paternity Leave:** Team members can take up to 5 working days of Paternity Leave.
+
+#### Maternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 30 weeks.
+
+#### Paternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Applying for Parental Leave in Chile
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+#### Bereavement leave
+
+Team members are entitled to seven consecutive days of paid leave in the event of the death of a child, spouse or civil partner. Three working days of paid leave in the event of the death of a parent or an unborn child.
+
+#### Marriage leave
+
+In case of marriage or civil union, a team member is entitled to have five continuous working days of paid leave.
+
+## Costa Rica
+
+All of the benefits listed below are administered and managed by [Global Upside](https://globalupside.com/).
+
+### Medical
+
+* GitLab offers International Healthcare Insurance through [NOW Health Insurance](https://drive.google.com/file/d/18v-Qob5SotJOOyzxK9FTI4ks7WTpsCZt/view?usp=sharing) which covers 100% of team member contributions and 66% for eligible dependents of premiums for medical, vision, dental and maternity coverage.
+* NOW health insurance will be administered directly by Global Upside. 
+* For any addition or modification a team member can reach out to Global Upside Benefits Team at `benefitsops@globalupside.com`.	
+* During the onboarding of a `New Hire`, Global Upside will collect the team member & their eligible dependent's census for benefit enrolment.
+* Once enrolled in NOW Health Insurance, you will be able to access your [mobile pass](https://drive.google.com/file/d/1M8cnYjKGfYLF82rJMZHjUfSCvDUbFrNn/view?usp=sharing) or digital membership card through your [online portfolio](https://portfolio.now-health.com/). This mobile pass or digital membership card replaces the traditional, physical membership card.
+
+
+### Pension
+
+GitLab does not plan to offer pension benefit at this time as Costa Rica has their pension system known as [Chile pension system](https://www.ips.gob.cl/servlet/internet/inicio/beneficios-y-pensiones/pensiones)
+
+### Life Insurance and Disability
+
+GitLab offers company paid International Group Life and Disability Plans through [Allianz Care](https://drive.google.com/file/d/17y38CQ1XLO0os0sN6Q-LJpmU3dPyUUAx/view?usp=sharing). This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
+
+### 13th Salary (Aguinaldo)
+The 13th salary is equal to a month’s pay and must be paid within the first 20 days of December each year.
+
+### Global Upside -  Costa Rica Leave Policy
+
+#### Statutory Parental Leave
+
+**Maternity Leave:** Team members can take up to 4 months of Maternity Leave,  made up of 1 month before the expected date of delivery and 3 months after it.
+
+**Paternity Leave:** There is no statutory Paternity leave in Costa Rica.
+
+#### Maternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 50% paid Parental Leave from GitLab for up to 4 months. The Social Security Administration pays the remaining 50%.
+
+#### Paternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Applying for Parental Leave in Costa Rica
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+#### Adoption Leave
+
+Team members who adopt a child are entitled to 3 months’ paid leave starting from the date of child birth. To take adoption leave, team members need to submit a certificate from the National Foundation for Children or a family court confirming the adoption, to the employer.
+
+## Denmark
+
+All of the benefits listed below are administered and managed by [Global Upside](https://globalupside.com/).
+
+### Medical
+
+GitLab does not plan to offer Private Health Insurance at this time because team members in Denmark can access the [public healthcare system](https://www.healthcaredenmark.dk/). This healthcare system covers all the team members and their family members.
+
+### Pension
+
+GitLab will directly contribute to the Team Members private pension saving plan. The GitLab team member will contribute 4% of the monthly base salary, with GitLab contributing 8% of the team members monthly base salary. The Employer contribution to the pension savings plan will be paid directly into the insurance or bank account (as the case may be) in conjunction with the Employer’s payment of the monthly salary to the team member. 
+
+### Life Insurance
+
+GitLab does not plan to offer life insurance at this time as team members can access the benefits from Social insurance system if they get ill, injured or have a disability.
+
+### Global Upside -  Denmark Leave Policy
+
+#### Statutory Parental Leave
+
+**Maternity Leave:** Team members can take up to 50 weeks of Maternity Leave,  made up of 4 weeks before expected childbirth, 14 weeks after childbirth, and 32 weeks of additional parental leave subsequent to the 14th week of childbirth.
+
+**Paternity Leave:** Team members receive paid leave of 5 days for the birth or adoption of a child. In case the mother dies during childbirth, or during her maternity leave, the father is entitled to her unused leave. The same leave policies apply to adoptive parents..
+
+#### Maternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 50 weeks. This paid salary on account of maternity leave may get reimbursed from the public authority Udbetaling Danmark. 
+
+#### Paternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Applying for Parental Leave in Denmark
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
+
+#### Adoption Leave
+
+Adoptive parents can take paid leave for 14 weeks post-adoption. The adoptive parents can share the leave of 14 weeks between them, but only one of them can take leave at a given time. Additionally, one of the adoptive parents is entitled to paid leave of 2 consecutive weeks within the first 14 weeks after adoption of the child, allowing the adoptive parents to be on leave together during this period.
