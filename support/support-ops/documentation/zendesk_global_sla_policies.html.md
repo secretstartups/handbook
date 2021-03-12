@@ -184,6 +184,20 @@ This requires an exact process, which is detailed via the
 | Next reply time | 24h | 24h | 24h | 24h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
+### Consumption SLA
+
+* Conditions:
+  * Matches ALL of:
+    * `Tags` contains at least one of `consumption_ci_minutes consumption_storage consumption_other consumption`
+    * `Tags` contains none of of `basic starter premium ultimate bronze silver gold priority_prospect consumption_paid`
+* Targets:
+
+| Target | Urgent | High | Normal | Low |
+|--------|:------:|:----:|:------:|:---:|
+| First reply time | 12h | 12h | 12h| 12h |
+| Next reply time | 24h | 24h | 24h | 24h |
+| Hours of operation | Business hours | Business hours | Business hours | Business hours |
+
 ## Special Situations
 
 There are special situations in which the SLA clock will not behave as we would

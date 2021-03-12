@@ -49,6 +49,7 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 | `urgent` | Signifies the ticket is an emergency request |
 | `prospect` | Signifies the ticket is from a prospect. This means they receive no SLA on Support Tickets |
 | `trial` | Signifies the ticket is from a non-paying end-user using the trial system. This means they receive no SLA on Support Tickets |
+| `consumption` | Signifies the ticket is a consumption ticket |
 
 ## Account Related Tags
 
