@@ -508,6 +508,8 @@ Please note, due to German labor law, the stock options are not included in the 
 
 GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in this location. All team members in this location are employees.
 
+After a Japan contract is signed, the CES should alert the People Experience team of the new hire in our shared slack channel so they can start the payroll onboarding that takes 2 weeks pre-hire to set up.
+
 ## Employment Agreements for GitLab team-members located everywhere else (IT BV contractor agreements)
 
 1. Review the [Hiring Status](/handbook/people-group/employment-solutions/#country-hiring-guidelines) of the location you are working with. If the location has not been evaluated yet, we issue a IT BV contractor agreement.
