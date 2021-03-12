@@ -492,30 +492,31 @@ By default, each workgroup is limited to 1 Staff+ Engineer.
 
 Some workgroups within engineering may directly align to staffing of Staff+ roles according to team organization. Each team has a single Staff Engineer, just as they have a single Manager; with the two working together to lead the team in their mission. 
 
-Distinct from the general team workgroup noted above some workgroups, based on their mission, may require multiple Staff+ team members. The need for multiple Staff+ team members in a workgroup should be examined and explained through the [four archetypes](/handbook/engineering/ic-leadership/#the-four-archetypes). 
+Distinct from the general team workgroup noted above, some workgroups based on their mission, may require multiple Staff+ team members. The need for multiple Staff+ team members in a workgroup should be examined and explained through the [four archetypes](/handbook/engineering/ic-leadership/#the-four-archetypes). 
 
 As teams grow in both scope and size it is important to determine whether they should expand the number of Staff+ roles, or if the growth is reason to split out to another workgroup.
 
 ### Gearing Ratios
-* Staff Software Engineers report to an Engineering Manager (a manager of ICs)
-* Principal Engineers report to a Senior Manager+ (a manager of managers)
-* Distinguished Engineers report to Director+
-* Engineering Fellows report to VP+
+It is intended that gearing ratios not become overly complicated. In support of this, there is a default gearing ratio which can be assumed by all workgroups. As long as this default supports the workgroup mission, nothing further is required.
+* One Staff Software Engineer reports to an Engineering Manager (a manager of ICs)
+* One Principal Engineer reports to a Senior Manager+ (a manager of managers)
+* One Distinguished Engineer reports to Director+
+* One Engineering Fellow reports to VP+
 
 #### Exception Process
 These [gearing ratios](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) govern the number of Staff+ positions available.
 
-It is intended that gearing ratios not become overly complicated. In support of this, there is a default gearing ratio which can be assumed by all workgroups. As long as this default supports the workgroup mission, nothing further is required. This default is a limit of one Staff Engineer per workgroup.
-The default one Staff Engineer per workgroup may not enable the mission for every workgroup. In these cases an exception to the default gearing ratio is to be documented.
+The default one Staff+ Engineer per workgroup may not enable the mission for every workgroup. In these cases an exception to the default gearing ratio is to be documented.
 
 The method for documenting and adopting an exception consists of:
 1. Explanation of what is differentiated about the workgroup and its workload that requires a unique gearing ratio. Ideally the need for additional Staff+ roles can be explained in the context of the [4 Archetypes](/handbook/engineering/ic-leadership/#the-four-archetypes).
 1. Specific explanation should be provided as pros/cons of solving the need through an additional workgroup vs. increasing the Staff+ ratio within the existing workgroup.
 1. Identification of the intended new Staff+ ratio(s).
+1. Review and approval by the department VP.
 
-Since collective exceptions within a department will at some point impact overall funded headcount, exceptions will require the approval of department heads. In some cases the exception to gearing ratio may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted). 
+Since collective exceptions within a department will at some point impact overall funded headcount, exceptions require the approval of department heads. Exceptions to gearing ratios may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted). 
 
-All exceptions should be documented in a page local to the workgroup within the handbook but linked to the table below, or in linked issues. This process is established as of March 2021 and may not reflect all existing workgroup situations. At any point when additional exceptions are required, just start an MR to add them and make sure to include review and approval by your department VP.
+All exceptions should be documented in a handbook page local to the workgroup or in an issue, and linked to the table below. This process is established as of March 2021 and may not reflect all existing workgroup situations. At any point when additional exceptions are required, just start an MR to add them per the steps noted above.
 
 | **Workgroup** | **Department** | **Ratio** | **Link** |
 |---------------|----------------|-----------|----------|
@@ -530,7 +531,7 @@ All exceptions should be documented in a page local to the workgroup within the 
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
 In March 2021 a point-in-time review of all engineering teams found that of 64 potential Staff roles, more than 40 were currently unfilled (from a gearing limit perspective). This analysis is available in this sheet (internal only) [2021 March - Staff Current Roles](https://docs.google.com/spreadsheets/d/1LlhqyPXqfBsweGoeA98Xcw981rNwaTpIIQbWOxjTFAE/edit?usp=sharing).
 In addition to the current set of opportunities, our Engineering organization is continuing to grow and with each new team comes the potential for another Staff role. 
-Finally, in conjunction with the [IC Gearing Working Group](https://about.gitlab.com/company/team/structure/working-groups/ic-gearing) effort, the Principal Engineer role is [being added](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/74187) to the Engineering Career Path. This new role offers further career advancement opportunities to existing Staff Engineers and in turn opens future opportunities for Senior Engineers.
+Finally, in conjunction with the [IC Gearing Working Group](https://about.gitlab.com/company/team/structure/working-groups/ic-gearing) effort, the Principal Engineer role has [been established](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/74187) to the Engineering Career Path. This new role offers further career advancement opportunities to existing Staff Engineers and in turn opens future opportunities for Senior Engineers.
 
 ### Benefits of this solution
 A number of alternative approaches were considered as a solution for this gearing. The [IC Gearing Working Group](/company/team/structure/working-groups/ic-gearing/) resulted in this model for the following reasons:
@@ -544,4 +545,7 @@ Details of various options as well as additional detail on differences can be fo
 ### Drawbacks of this solution and mitigations
 
 * If we reach the upper limit implied by this gearing ratio, it may delay opportunity for some ICs who are interested in a Staff+ role because we don't have an area in which they can exercise enough technical leverage. However, as of Jan 2021 less than half of all teams across engineering had Staff Engineers. This doesn't suggest we'll never encounter this problem, but that the current situation accompanied with anticipated growth can allow for more mitigation in a future iteration.
+
+### IC Gearing References
+The approach to gearing ratios was established in early 2021 and much additional context can also be referenced from the [IC Gearing Working Group](https://about.gitlab.com/company/team/structure/working-groups/ic-gearing/).
 
