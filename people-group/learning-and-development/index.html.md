@@ -25,7 +25,7 @@ Email Us: `learning@gitlab.com`
 ## Mission
 Our mission is to provide resources to enable team members to succeed in their current roles and develop new skills to further their professional and personal development. L&D provides adaptive and blended growth and development opportunities, including skills building, career development, and technical training that aligns with GitLab's strategic priorities. L&D's mission is to cultivate a culture of curiosity and continuous learning. 
 
-## GitLab Learning Strategy & Roadmap
+### GitLab Learning Strategy & Roadmap
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBdQFDSp8MBSkekUzM-DItdPxr-ETEjrCq85fhET_cC-6nAJGfwuFE-aK3jwSLJylg6yX8N1THaHsk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -33,7 +33,7 @@ Our mission is to provide resources to enable team members to succeed in their c
 
 **Learn more about our [FY22 Roadmap and curriculum**](https://docs.google.com/spreadsheets/d/1DuJ_gWqh0oWyMkMPHKlFs-7eBX98g7oD3QUQfPPzHtQ/edit#gid=1557718375).
 
-## Handbook First Training Content
+### Handbook First Training Content
 
 All material in the handbook is considered training. The Learning & Development team pulls content from the handbook to build handbook first learning content. One of L&D's primary responsibilities is to ensure that content lives in the appropriate section in the handbook. In the below video, Sid, explains how the content of courses is not separated from the handbook to the L&D team. 
 
@@ -41,7 +41,7 @@ All material in the handbook is considered training. The Learning & Development 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/G57Wtt7M_no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-## GitLab Learning & Development Principles
+### GitLab Learning & Development Principles
 
 1. **Meaningful and relevant content.** We deliver learning solutions that drive team member's development and growth to enable professional goals.
 
@@ -51,7 +51,7 @@ All material in the handbook is considered training. The Learning & Development 
 
 1. **Community.** We make our L&D offerings available to the public, aligned to our mission that everyone can contribute.
 
-## Learning and Development Responsibilities
+### Learning and Development Responsibilities
 
 * Set learning strategy to develop and attract GitLab talent through a blend of immersive learning experiences
 * Identifies and develops strategic relationships across the organization to motivate and develop team members
@@ -60,7 +60,7 @@ All material in the handbook is considered training. The Learning & Development 
 * Deliver and develop training content to meet our strategic goals
 * Perform learning needs analysis with leadership and e-group to understand and execute on learning and development opportunities
 
-## L&D Organization
+### L&D Organization
 
 We are a small team, but we've got a big role to play at GitLab! 
 
@@ -94,12 +94,6 @@ We provide our team members with certifications to demonstrate their knowledge o
 
 Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers in holding coaching discussions with their team. 
 
-### Developing Emotional Intelligence
-
-Whether you are a People Manager or an Individual Contributor, being skilled in "emotional intelligence" (also referred to as EQ) is a key attribute to interpersonal effectiveness. We have [outlined](/handbook/leadership/emotional-intelligence/) the definition of emotional intelligence, how to understand your own EQ, how to develop your EQ in a [remote setting](/company/culture/all-remote/guide/), and building an inclusive environment with EQ. 
-
-Another strategy to improve emotional intelligence is to apply the [Social Styles framework](/handbook/leadership/emotional-intelligence/social-styles/) within your team to increase interpersonal interactions and team dynamics. 
-
 ### Language Courses
 
 Please review language course opportunities covered by the [GitLab Growth and Development Policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#types-of-growth-and-development-reimbursements) for more information.
@@ -111,6 +105,12 @@ There is also a way to practice foreign languages and ask for advice in several 
 GitLab has a growing [resource](/handbook/people-group/learning-and-development/manager-development/) to enable all team members transitioning to a manager role. It contains a link to a checklist, readings, and a form to help learning and development customize your development as a manager.
 
 The [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) is one of the first steps to building out a comprehensive manager enablement curriculum for People Leaders. We use daily challenges and the GitLab tool to facilitate async learning in a remote environment. We encourage new and tenured managers to sign up for an upcoming program to develop their ability to lead remote teams while learning from others in a collaborative setting. 
+
+### Self-Paced Learning
+
+Take advantage of [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/), an online educational platform that team members have access too to help develop skills through expert-led course videos. 
+
+GitLab has also invested in [GitLab Learn, a Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp), that will enable team members and the community with personalized, self-service learning. 
 
 ## New Learning Content at GitLab
 
