@@ -166,10 +166,13 @@ The image will be constrained to half the size to ensure high density of pixels.
 
 ### Default fields
 
-- First name
-- Last name
-- Job title
-- Company URL
+1. First name
+1. Last name
+1. Job title
+1. Schedule a meeting URL
+1. Mobile phone
+1. Company URL
+1. GitLab, Inc. physical address
 
 ## Campaigns
 
