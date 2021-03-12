@@ -84,7 +84,7 @@ We are a small team, but we've got a big role to play at GitLab!
 
 The L&D team hosts and organizes [learning initiatives](/handbook/people-group/learning-and-development/learning-initiatives/) to engage the GitLab team in opportunities to learn. The team is consistently iterating on and adding to these resources!
 
-## Additional Learning Opportunities
+## Learning Opportunities 
 
 ### Certifications
 
@@ -106,11 +106,19 @@ GitLab has a growing [resource](/handbook/people-group/learning-and-development/
 
 The [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) is one of the first steps to building out a comprehensive manager enablement curriculum for People Leaders. We use daily challenges and the GitLab tool to facilitate async learning in a remote environment. We encourage new and tenured managers to sign up for an upcoming program to develop their ability to lead remote teams while learning from others in a collaborative setting. 
 
-### Self-Paced Learning
+### Self-Paced Learning 
 
 Take advantage of [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/), an online educational platform that team members have access too to help develop skills through expert-led course videos. 
 
-GitLab has also invested in [GitLab Learn, a Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp), that will enable team members and the community with personalized, self-service learning. 
+### [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
+
+We are currently in the process of implementing GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/). **The LXP will launch internally for GitLab team members on 2021-01-11** This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
+
+We are also in the process of launching LinkedIn Learning internally for all team members. Stay tuned for more details and the content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/)
+
+### Compliance Courses 
+
+GitLab has several compliance courses and resources. Explore the [Compliance Courses](/handbook/people-group/learning-and-development/compliance-courses) page to learn more.
 
 ## New Learning Content at GitLab
 
@@ -215,17 +223,7 @@ The Learning & Development, [Field Enablement](/handbook/sales/field-operations/
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Be8oRHp0E84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
-
-## [GitLab Learn](https://gitlab.edcast.com/): EdCast Learning Experience Platform (LXP) 
-
-We are currently in the process of implementing GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/). **The LXP will launch internally for GitLab team members on 2021-01-11** This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
-
-We are also in the process of launching LinkedIn Learning internally for all team members. Stay tuned for more details and the content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/)
-
-## Compliance Courses 
-
-GitLab has several compliance courses and resources. Explore the [Compliance Courses](/handbook/people-group/learning-and-development/compliance-courses) page to learn more. 
+ 
 
 ## Performance Indicators
 
