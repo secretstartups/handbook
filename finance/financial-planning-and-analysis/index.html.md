@@ -415,73 +415,41 @@ Recording activities based on headcount growth across a certain time period.
 
 ****
 
-## Headcount and the Recruiting Single Source of Truth
+## Headcount Approval Process
 
-The Finance team is the owner of the GitLab Hiring Plan (GHP), which is the SSOT for GitLab’s hiring plan for the future rolling 12 months. The GHP is a live document that is maintained by the Finance Business Partners (FBPs) and contains the current hiring plan that is used in the GitLab Financial Model. We have a SSOT to ensure there is one place hiring managers, finance, and recruiting go to see what hiring is included in the forecast and is eligible to be opened up in Greenhouse.  This increases our predictability as a company and streamlines the hiring process.
+The Finance team is the owner of the hiring plan, which resides within Adaptive. It is a live forecast that is maintained by the Finance Business Partners (FBPs) and contains the current hiring plan that is used in the financial forecast. Finance are the owners of this to ensure there is one place hiring managers, finance, and recruiting can reference to see what hiring is included in the forecast and is eligible to be opened up in Greenhouse. This increases our predictability as a company and streamlines the hiring process.
 
 
 ### Hiring Managers
 
-When you are ready to open a new vacancy, access the GHP and look for your role on your FBP’s tab in the GHP.
+When you are ready to open a new vacancy reach out to your Recruiter. They will open a GitLab issue or communicate directly with your FBP to get a GitLab Hiring Plan ID (GHP ID.)
 
-Each role has a unique GHP ID number listed, which is part of the information you need to provide to the [Recruiting Manager or Lead](/handbook/hiring/recruiting-alignment/#recruiter-coordinator-and-sourcer-alignment-by-department) for your department to have the position opened in Greenhouse.  If there is no GHP ID, the job will not be opened in Greenhouse.
+Each role has a unique GHP ID number, which is part of the information you need for your department to have the position opened in Greenhouse. If there is no GHP ID, the job will not be opened in Greenhouse. If the FBP has questions after Recruiting has contacted them, they will reach out to the Hiring Manager to gain more information.
 
-Due to the territory alignment related to Sales headcount, please reach out to the Sales Strategy & Analytics team before reaching out to your Finance Business Partner.
+If you are looking to pull forward a headcount and are in the Sales division please follow [this process](/handbook/sales/field-operations/sales-strategy/sales-headcount/). Due to the territory alignment related to Sales headcount, please also reach out to the Sales Strategy & Analytics team before reaching out to your Finance Business Partner.
 
-If you can’t find the GHP ID for the particular role or you want to make a change, you need to contact your Finance Business Partner.  Some examples of changes that require contacting your Finance Business Partner are; a different job family, change in level, different location requirement, change in forecasted start date, and swapping out different forecasted job openings.  When in doubt ask your Finance Business Partner.
 
 ### Recruiting Managers and Leads
 
-If a hiring manager comes to you to open a role and they do not have a GHP ID, please direct them to contact their FBP to work with them on getting a GHP ID. If a Hiring Manager provides a GHP ID to you and it does not match what you see on the GHP, check with your FBP before opening the role in Greenhouse so that the FBP can work with the Hiring Manager to make adjustments to the forecast and the GHP.
+When a hiring manager comes to you to open a role please work with the appropriate FBP to get a GHP ID. This process is unique to each division.
 
 ### Finance Business Partners
 
 ### *Maintaining the GHP for Finance*
 
-On a weekly basis FBPs will update their department’s hiring forecasts using the R4QF - Financial Model Feed - GitLab Team file, which flows into the GitLab Financial Model and into the GHP. FBPs may update their headcount forecast on a more frequent basis depending on their individual department’s business needs, but at a minimum it must be done on a weekly basis. When updating, the FBP is to replace any rows that were future hires in the R4QF - Financial Model Feed - GitLab Team file that have been hired with the hired employees name, employee ID, and start date. The status column also needs to be updated to hired. The FBP then needs to update the R4QF - Financial Model Feed - GitLab Team file to reflect any changes to what is now in forecast.  This could require adding new roles, deleting roles, trading out roles, or adding backfills. The process is described in more detail below. Every vacancy requires a GHP ID.
+On a weekly basis FBPs will update their department’s hiring forecasts in Adaptive. FBPs may update their headcount forecast on a more frequent basis depending on their individual department’s business needs, but at a minimum it must be done on a weekly basis. This could require adding new roles, deleting roles, trading out roles, or adding backfills. Every vacancy requires a GHP ID once it is ready to be opened in GreenHouse. A vacancy could be for a net new hire, a backfill due to leaving the company or a backfill due to internal movement. 
 
-The status column is important to keep up to date in the R4QF - Financial Model Feed - GitLab Team file. Any role that is marked new hire or backfill will pull into the GHP. Anything that is marked hired will not pull into the GHP. This is to ensure a clean working document for hiring managers, Recruiting, and Finance to reference.  
-
-The following information must be included in the R4QF - Financial Model Feed - GitLab Team file because it flows into the GHP:
-
-- GHP ID
-- Hiring Manager (this can be a name or a position)
-- Start Date
-- Employee ID (once a person is hired)
-- Name (once a person is hired)
-- Job Title
-- Division
-- Department
-- Level
-- Region (if a specific one is required for the role, otherwise may be blank)
-- Territory (Sales specific)
-- Status (new hire, backill, hired)
 
 ### *Adding a vacancy*
 
-To determine what GHP ID to use the FBP references the GHP. Each FBP has their own mapping tab that shows the used GHP IDs and the GHP IDs that are available. The numbering for the GHP IDs are similar to a credit card. The first two digits of the unique GHP ID represent the FBP’s division, the next two numbers represent the department. Then there are seven digits that start with 0000001 that sequentially grow from there for every role.  
+To determine what GHP ID to use the FBP references the appropriate GHP ID numbering for their department. The numbering for the GHP IDs are similar to a credit card. The first two digits of the unique GHP ID represent the FBP’s division, the next two numbers represent the department. Then there are seven digits that start with 0000001 that sequentially grow from there for every role.  
 
-When a new role is added, the FBP goes to their mapping tab in the GHP and finds the next unused number for the division department combination to use. Once a number has been used in Greenhouse for a job, it can not be reused. If the role is a future role and has been deleted, but was never input into Greenhouse, the FBP can use that number for it’s replacement or a different role since it was not used yet.
+Once a number has been used in Greenhouse for a job, it can not be reused. If the role is a future role and has been deleted, but was never input into Greenhouse, the FBP can use that number for it’s replacement or a different role since it was not used yet.
 
-### *Backfilling due to leaving the company*
-
-If there is a position that needs backfilling due to an employee leaving the company then the row the employee is on in the R4QF - Financial Model Feed - GitLab Team file is deleted and a new row is added to the department in the R4QF - Financial Model Feed - GitLab Team file for the backfill position. The status selected should be backfill and a GHP ID needs to be added to the row.
-
-### *Backfilling due to internal movement*
-
-If the employee is moving internally to another department and the position will be backfilled, then two GHP IDs are required so that the vacancy for the internal movement and the vacancy for the backfill can be opened in Greenhouse. The vacancy for the internal movement must be added to the R4QF - Financial Model Feed - GitLab Team file, which should include the employee’s name, employee ID, start date, new job title, updated division and department, and level. It should also include a GHP ID, so that Recruiting can open the role in Greenhouse. This could require two FBPs to sync, if the movement is to another Division. Each FBP owns their own Division, so please reach out to the FBP that the person is moving to, so they can add the role and GHP ID.  For the backfill due to the internal movement the process in the section above should be followed.
-
-### *Backfilling due to leaving the company or internal movement, but employee staying until backfill complete*
-
-If the employee is leaving the company or is moving internally but is waiting to do this until a backfill is hired, then they need to remain in the R4QF - Financial Model Feed - GitLab Team file. For this scenario, instead of adding a new row with the job to the the R4QF - Financial Model Feed - GitLab Team file the status beside the row that contains the current employee’s name and job position should be changed to backfill and a GHP ID should be added to that row for the vacancy opening in Greenhouse. This will cause the vacancy to show up in the GHP so that it can be hired for but will not double count a headcount in the financial forecast. Once the current employee has changed jobs or left the company, and if the vacancy has not yet been filled, the FBP adds another line to the R4QF - Financial Model Feed - GitLab Team file with the same GHP ID and changes the name to TBH, adds the forecasted start date, and deletes the prior row.
-
-### *Reconciling*
-
-When the FBP updates their headcount forecast and therefore the GHP, they will reconcile to the open jobs that are in Greenhouse and to the recent hires that are in BambooHR. To do this they will use a table that ties the two data sources together so they can reconcile based off of the GHP ID field to see what has been hired and what is in process. They will then update their headcount forecast with the new hires. If there is anything in Greenhouse that does not reconcile to the GHP and a change needs to occur, they will reach out to Recruiting and the hiring manager to let them know.
 
 ### *Approvals*
 
-When a job is opened in Greenhouse it is routed for approvals. The second required approval is from Finance. This allows the FBPs another opportunity to check the GHP ID on open jobs and ensure everything reconciles to the GHP. If something does not reconcile to what is in the GHP, the FBP will reach out to the hiring manager to discuss. Ideally conversations with hiring managers and leaders will occur when the hiring manager sees that what they are requesting doesn’t tie to the GHP. But if the conversations do not occur then, they will occur at this time to ensure that everyone is in agreement and that if tradeoffs need to be made for financial reasons, they can be made then.
+When a job is opened in Greenhouse it is routed for approvals. The second required approval is from Finance. This allows the FBPs another opportunity to check the GHP ID on open jobs and ensure everything reconciles. If something does not reconcile to what is in the forecast, the FBP will reach out to the hiring manager to discuss. Ideally conversations with hiring managers and leaders will occur when the initial request for a GHP ID occurs from Recruiting. But if the conversations do not occur then, they will occur at this time to ensure that everyone is in agreement and that if tradeoffs need to be made for financial reasons, they can be made then.
 
 Finance is also a required approval on all job offers. This allows Finance to see the financial details of the job offer before any offer is sent, so that they are enabled to have conversations with their leaders about implications to their Plan if needed.
 
