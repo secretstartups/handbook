@@ -203,7 +203,7 @@ When conducting compensation reviews for the E-Group, GitLab will review two ite
 
 Epics are a great way to [transparently](/handbook/values/#transparency) and [efficiently](/handbook/values/#efficiency) track your work and map learning back to your [results](/handbook/values/#results).
 
-Here are some ways you can use Epics when organizing your career development work. Here is an [example from the Learning and Development team](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43)
+Here are some ways you can use Epics when organizing your career development work. Here are two examples from the Learning and Development team: [Example 1](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43), [Example 2](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/47)
 
 1. Open an epic in a personal or team project
 1. Use the description to highlight your learning goals, ideal programs or resources you want to review, considerations when planning, etc.
