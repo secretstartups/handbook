@@ -16,7 +16,7 @@ President’s Club is synonymous with excellence and rewards individuals for ach
 
 ![tropical-destination](/handbook/sales/club/tropical2.jpg)
 
-## Eligibility
+## How to Qualify
 
 For GitLab's FY22 President's Club, 49 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip in May 2022. Exact dates to follow. Team member start dates must be on or before 2021-08-01 to be eligible and still be employed by GitLab at the time of the incentive trip to receive the benefit. Selection criteria varies by role (see below).
 
