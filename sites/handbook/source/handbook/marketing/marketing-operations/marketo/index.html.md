@@ -31,6 +31,8 @@ A lead will sync from Marketo to SFDC in these scenarios:
 2. When they reach `MQL` status and reach 100 points
 3. Specifically told to sync via a flow step `Sync to SFDC`
 
+Marketo also can create and edit SFDC campaigns. The `Active` checkbox must be checked in order for Marketo to be able to map to that campaign. [Go here for campaign set up directions](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
+
 ### Sandbox
 We do have a sandbox to work in for Marketo. The sandbox is used for training, creation of API links and overall testing before we move to production. There is not a way to `promote` a program from the sandbox to Prod, so building programs in the sandbox first is not always required. Guidelines for when to build in the sandbox is TBD, but for custom API and webhook integrations, it is highly recommended.
 
@@ -61,7 +63,9 @@ If you are collecting home addresses for direct mail campaigns, you must include
 
 ### Website Form Management
 
-The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). For form field requirements, please refer to this [page](/handbook/marketing/marketing-operations/marketo/#forms).
+The forms on about.gitlab are embedded Marketo forms. Any changes to the fields, layout, labels and CSS occur within Marketo and can be pushed live without having to make any changes to the source file on GitLab. When needing to change or embed a whole new form, please open an issue using the `form_request` [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/form_request.md). 
+
+If you are having trouble seeing a Marketo form, please reference [this page](/handbook/marketing/inbound-marketing/digital-experience/website/#why-isnt-this-form-working).
 
 Each Marketo form should push an event after successful submission to trigger events in Google Analytics. We use the following event labels to specify which events to fire.
 
@@ -291,6 +295,7 @@ The following segmentations that are approved and live.
 - Enterprise
 - Mid-Market
 - SMB
+- PUBSEC
 - Default
 
 </details>
@@ -343,11 +348,11 @@ The following segmentations that are approved and live.
 [Funnel Stage](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1021A1)
 </summary>
 
-- Top
-- Middle
-- Bottom
-- Customer
-- Unqualified
+- Top - `Status = NULL, Inquiry or Raw` OR (`Status = Nurture` AND `Person Score < 75`)
+- Middle - `Status = MQL, Accepted or Qualifying` OR (`Status = Nurture` AND `Person Score > 74`)
+- Bottom - `Status = Qualified` OR `1 Open Opportunity` OR `Has an Open Opportunity`
+- Customer - `Current Customer = TRUE` OR `Status = Web Portal Purchase`
+- Unqualified - Status is `Unqualified or Bad Data`
 
 </details>
 

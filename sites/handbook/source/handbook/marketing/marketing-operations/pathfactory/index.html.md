@@ -82,7 +82,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 ## Training
 
 1. [The Path to Understanding: Onboarding Training](https://customer.pathfactory.com/customer-onboarding)
-1. [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E)
+1. [Getting started video series](http://successwith.pathfactory.com/c/lookbookhq-tutorial-?x=Blrk3E) (must be provisioned to PathFactory and use your GitLab email address to view)
 1. [Digital marketing brown bag session overview](https://drive.google.com/open?id=1Hzb6ard48k-11r5a8oBDD_NLjeZnkMK2) - [Slides](https://drive.google.com/open?id=1XxOIE2O-VW0I9z09kpLs5ops52oF6iDSP1a1MF8NkGY)
 1. [Author role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1YdK96hzDj043iESfDXV7ejz5sgbIXKCv/view?usp=sharing)
 1. [Reporter role training (Do not share externally - PII data presented)](https://drive.google.com/file/d/1U_QAkZoELITmJt7Jr_AMXZiQZBpAhaIj/view?usp=sharing)
@@ -312,7 +312,7 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 ## PathFactory Forms
 
-The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags, Google Tag Manager script to capture form fills in Google Analytics and track form submission back to Marketo, and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag, Google Tag Manager script, and custom paramters **must be hardcoded in the script**. 
+The forms used in PathFactory are hardcoded Marketo form script. They are added to PathFactory using the Marketo script, but they should also include the PathFactory capture tags and custom parameters to capture additional information behind the form fill. If a new form is created, the PathFactory capture tag and custom paramters **must be hardcoded in the script**. 
 
 ### Request a new PathFactory Form
 

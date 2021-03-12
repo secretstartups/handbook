@@ -123,7 +123,7 @@ This is when a package or piece of mail is sent out.
 
 #### Executive Roundtables
 
-This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. [R]ead More](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
+This is used for campaigns that can either be organised through a 3rd party vendor or GitLab, covering both in-person and virtual roundtables. It is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. [Read More](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
 
 **Bizible:** This is tracked as an _offline_ channel.
 
@@ -351,7 +351,9 @@ The Marketo programs for the corresponding campaign types have been prebuilt to 
 
 For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
 
-For all other campaign types, follow Steps 1-5 below. All steps are required.
+For all other campaign types, follow Steps 1-5 below. All steps are required. 
+
+**NOTE**: The `Active` checkbox must be checked on the SFDC campaign for Marketo to be able to "see" the campaign. This will happen automatically if you follow the process below, but if there is a time you cannot find a SFDC campaign in Marketo, check to make sure that box is checked in SFDC. Additionally, if this box is unchecked, Marketo cannot send leads or update campaign member status for that SFDC campaign.
 
 ##### Step 1: Clone the Marketo program indicated below
 
@@ -370,13 +372,14 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
      - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)     
-- (MPM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
-- (MPM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
-- (MPM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
-- (MPM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
-- (Coming in Nov) BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region]()
-- (Campaigns Only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
-- (Campaigns Only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
+- (MCM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
+- (MCM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
+- (MCM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
+- (MCM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
+     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector).
+- (MCM use only BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
+- (MCM use only) Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
+- (MCM use only) Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1)
 
 ##### Step 2: Sync to Salesforce
 
@@ -418,6 +421,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update `Status` to `In Progress` or the approriate selection
     - Update `Region` and `Sub-region`, if these are local or targeted to a specific region
     - Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - NOTE: an offling Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/).
+    - All other fields on the campaign are not required and are not used for reporting - take `Status` as an example. You WOULD update this field to `Aborted` if the campaign was cancelled for any reason. We have a process that goes into more detail specifically when [offline events are cancelled](/handbook/marketing/events/#cancellation-of-offline-events). 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
 
@@ -534,16 +538,43 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update `Region` and `Subregion` if you have the data available
 - Click Save
 
+#### Steps to Use HopIn Connector
+Follow all of the set up steps [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-marketo-programs-and-salesforce-campaigns). You will also need to do go into the `Hopin Integration` folder in the Owned Event Template and you will see several smart campaigns and a form.
+
+1. `01a Registration from Hopin` is used if you are using HopIn registration pages. This smart campaign triggers off of a custom activity `Registers for HopIn Event` and will add the registrant to the proper campaign. 
+   - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
+   - When token is updated, you can turn on. No changes are necessary for the Flow.
+   - Do not turn on if you are not utilizing HopIn registration pages
+1. `01b. Push Registrants to HopIn from Marketo` is used if you are utilizng a Marketo landing page to capture registration for the HopIn Event. Do not turn on if you are **only** utilizing HopIn registration pages
+     - Before you start with the smart campaign, you need to make sure you update the copy for the registration confirmation email named `Hopin - Confirm`. First, update all tokens on the program and then fill in the missing pieces of the email itself. The button needs to contain the Magic Link, do not change this.
+     - Next, you need to update the program token of `Ticket Integration Code` this field is already on the form, but must be updated to match the specific code in HopIn.
+        - Find your Ticket Integration Code in Hopin by selecting an event, and going to the Tickets page of your event dashboard. There will be a code for each of the ticket types you have. Keep this handy for the next step.
+     - If you are only registering for a single ticket, all you need to do is update the token, but if you have multiple ticket options, you will need to create a select dropdown in the form that holds the Integration Codes as stored values - ([ask Mops to do this for you](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#form_request)).
+    - No changes are necessary for the campaign flow. The flow will request a Webhook, which will push the registrant into HopIn, as well as send registrant a registration confirmation email. 
+    - The landing page template is already set up to have this form.
+    - Before you turn on, make sure you have updated tokens in the email `Hopin - Confirm`, as this will automatically send the `Magic Link` for the registrant to confirm their registration.
+        - The magic link is automatically created by the webhook, do not update that field.
+    - Turn on `01b. Push Registrants to HopIn from Marketo`. Then test by registering on that landing page. After 2 minutes, you will recieve an email asking to confirm your registration, click the link and follow prompts on the HopIn page. Once confirmed, you will receive an email from HopIn saying it was successful. You can also look into the `attendees` section in HopIn and make sure your test is there too - once you see it, you can `remove` your test lead from the list and go live with the landing page.
+    - Check Registration error smartlist periodically to catch anyone being created incorrectly (see sectioin below)
+1. `02 Attended Hopin` is used to track attendees of the event - it will not track individual sessions, only overall attendance.
+   - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. In the Smartlist, Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
+   - When token is updated, you can turn on. No changes are necessary for the Flow.
+1. Registration Troubleshooting
+ There is a list called `Registration Errors` that will populate if the Magic Link is not properly populated. If this is the case, you will need to send a magic link via the HopIn platform. Follow these directions:
+    - Log into HopIn and navigate to your event
+    - On left side nav, look for `Magic Link` and click the `Manage Invitations` tab. There you'll see who has registered (confirmed clicked) and those who haven't. You can send emails to these people who are not registered to ensure they are confirmed before the event starts.
+
+
 #### Steps to Setup Linkedin Lead Gen Form *Gated Content Only
 We have listeners set up in Marketo listening certain parameters. Please check the `Marketo Listener` column below to see if a program is already set up in Marketo. If it is, you do not need to create a new listener. Otherwise, please follow the process outlined below to ensure leads are being captured.
 
 | Campaign                                 | Campaign Parameter for Tracking |Marketo Listener?|
 |------------------------------------------|---------------------------------|-----------------|
-| CI Use Case                              | singleappci                     | :white_check_mark:|
-| GItOps Use Case                          | iacgitops                       |:white_check_mark: |
-| Version Control & Collaboration Use Case | vccusecase                      |:white_check_mark: |
-| Simplify DevOps                          | simplifydevops                 |:white_check_mark: |
-| Jenkins                                  | cicdcmp2                        |:white_check_mark: |
+| CI Use Case                              | singleappci                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6803A1)|
+| GItOps Use Case                          | iacgitops                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6756A1)|
+| Version Control & Collaboration Use Case | vccusecase                      |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6802A1)|
+| Simplify DevOps                          | simplifydevops                  |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7218A1)|
+| Jenkins                                  | cicdcmp2                        |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6976A1)|
 | Increase Operational Efficiencies	       | operationalefficiences          ||
 | Deliver Better Products Faster	       | betterproductsfaster            ||
 | Reduce Security and Compliance Risk	   | reducesecurityrisk              ||
@@ -551,6 +582,7 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 | OctoCat	                               | octocat                         ||
 | DevSecOps Use Case	                   | devsecopsusecase                ||
 | AWS	                                   | awspartner                      ||
+| PubSec                                   | amer-pubsec                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7588A1)|
 
 
 
@@ -596,6 +628,17 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
 
 ##### Step 5: Update this Handbook page
 - Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a :white_check_mark: for the parameter you have set up.
+
+## Removing Registrations from Marketo Programs
+
+Once a landing page has been set up for a campaign, it is good practice to have multiple people test the registration to make sure everything is integrated and running properly. As a result, there are often various test registrations in the Marketo program. To remove these test registrations, follow the below instructions.
+
+1. Log into Marketo and click into the appropriate program for your campaign
+1. Click on the `Members` tab at the top of the page
+1. Click on the line item for the member you wish to remove and make sure that line item is highlighted
+1. Select `Change Status` at the top of the screen
+1. Select `Not in Program` in the drop down 
+1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
 
 
 

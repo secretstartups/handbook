@@ -27,6 +27,7 @@ Our team is structured as business partners to the rest of Marketing - see focus
 - Amy Waller - Senior Marketing Operations Manager
 - Sarah Daily - Senior Marketing Operations Manager
 - Robert Rosu - Marketing Operations Manager 
+- Gillian Murphy - Marketing Operations Manager
 - Jameson Burton - Marketing Operations Associate
 
 **Business Partners**
@@ -73,6 +74,7 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=bug_request" class="btn btn-purple" style="width:170px;margin:5px;">Report a bug</a>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=process_change_request" class="btn btn-purple" style="width:170px;margin:5px;">Process change request</a>
+    <a href="/handbook/marketing/emergency-response" class="btn btn-purple" style="width:170px;margin:5px;">Emergency Comms</a>
   </div>
 </div>
 
@@ -118,10 +120,11 @@ Categories
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Terminus Email Experiences`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Terminus Email Experiences`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`, `Typeform`: used to highlight one of our tech stack tools
 - `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
+- `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
 
 </details>
 
@@ -130,9 +133,23 @@ Categories
 Priorities
 </summary>
 
-- `MktgOps-Priority::1 - Top Priority`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority.
-- `MktgOps-Priority::2 - Action Needed`: Issue has a specific action item for MktgOps to be completed with delivery date 90 days or less from issue creation date. This tag is to be used on projects/issues not owned by MktgOps (example: list upload).
-- `MktgOps-Priority::3 - Future Action Needed`: Issue has a specific action item for MktgOps, the project/issue is not owned by MktgOps and delivery or event date is 90 days or more from issue creation.
+- `MktgOps-Priority::Top Priority`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
+- `MktgOps-Priority:: High Priority`: Issue has a specific action item for MktgOps to be completed as it is an OKR. Timeframe: Within weeks
+- `MktgOps-Priority::Med Priority`: Issue is a feature to help the team. Timeframe: Within months
+- `MktgOps-Priority::Low Priority`: Issue has a specific action item for MktgOps that would be helpful, but can be pushed for other issues. Timeframe: Within months.
+
+</details>
+
+<details>
+<summary markdown='span'>
+Urgency
+</summary>
+
+- `MktgOps-Urgency::P0`: System down, core business function down, or potential loss of mission critical data. Timeframe: Immediate action needed. Pull into active milestone.
+- `MktgOps-Urgency::P1`: Major feature or workflow is not working. Timeframe: Action within days. Pull into active milestone.
+- `MktgOps-Urgency::P2`: Requires attention, but normal workflow is not impacted or there is a workaround. Timeframe: Action within next milestone.
+- `MktgOps-Urgency::P3`: Requires attention, but normal workflow is not impacted. Minor, low urgency. Timeframe: Future action needed, not priority or urgent.
+- `MktgOps-Urgency::P4`: Small bug, nice to have fixed, but not impacting workflow. Timeframe: Future action needed, not priority or urgent.
 
 </details>
 
@@ -142,14 +159,14 @@ Stage
 </summary>
 
 - `MktgOps::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves MktgOps (except for List Uploads); no real discussion on the issue; generally unassigned
-- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team member and are currently being scoped/considered but are not being actively worked on yet.
+- `MktgOps::1 - Planning`: Issues assigned to a MktgOps team member and are currently being planned but are not being actively worked on yet.
 - `MktgOps::2 - Scoping`: Marketing Operations related issues that are currently being scoped and weighted
-- `MktgOps::3 - On Deck`: Issues that have been scoped/considered and will be added to an upcoming iteration/milestone.
-- `MktgOps::4 - In Process`: Issues that are actively being worked on in the current two-week sprint/milestone.
+- `MktgOps::3 - On Deck`: Issues that have been scoped and will be added to an upcoming milestone.
+- `MktgOps::4 - In Process`: Issues that are actively being worked on in the current two-week milestone.
 - `MktgOps::5 - UAT`: Issues that MktgOps has completed its required tasks for and is ready for User Acceptance Testing/review and approval by the Requester/Approver.
-- `MktgOps::6 - On Hold`: Issue that is not within existing scope of Mktg OPS current focus, or another department as deprioritized. May be a precursor to being closed out.
-- `MktgOps::7 - Blocked`: Issue that was being worked on by Mktg Ops and at least one other team wherein MktgOps is waiting for someone else/another team to complete an action item before being able to proceed. Could be locked by MktgOps-related task/issue, or external (non-GitLab) blocker.
-- `MktgOps::8 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed. The hope is that we will be using this one less as we simply scope an issue so that MktgOps can just close it when complete.
+- `MktgOps::6 - On Hold`: Issue that is not within existing scope of MktgOps current focus, or another department as deprioritized. May be a precursor to being closed out. May also be on hold waiting for an internal team member or other task before completing. 
+- `MktgOps::7 - Blocked`: Issue is blocked and no other actions can be taken by MktgOps. Waiting for someone else/another team to complete an action item before being able to proceed. May also be blocked due to external party such as a vendor to complete an action before closing.
+- `MktgOps::8 - Completed`: MktgOps has completed their task on this issue although the issue may not be closed.
 
 </details>
 
@@ -190,13 +207,14 @@ The Marketing Operations team had started an experiment on 2020-04-20 to commit 
 
 ### Marketing Changelog
 
-Periodically Marketing Operations and other teams through the marketing org make significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA). The MktgOps and Strategy/Perf teams update this document as needed as changes are made. If you are working on an issue or epic that will have a significant impact across marketing, add the label `MktgOps - changelog` so marketing oeprations can track changes across GitLab.
+Periodically Marketing Operations and other teams through the marketing org make significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [changelog](https://docs.google.com/spreadsheets/d/1FHiKhQukMVfwKsBJDzyrsuzuw2bv97xQFhegvFXTeNQ/edit#gid=0). The MktgOps and Strategy/Perf teams update this document as needed as changes are made. If you are working on an issue or epic that will have a significant impact across marketing, add the label `MktgOps - changelog` so marketing oeprations can track changes across GitLab.
 
 ### PagerDuty and Emergency Comms
 
-If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan). As a first step, please create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) with all relevant information. In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
+In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
 
-Contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan). Follow directions on this [page](/handbook/marketing/emergency-response) to initiate the emergency response, and contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+
 
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
 
@@ -254,6 +272,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Sprout Social
 - Swiftype
 - Survey Monkey
+- [Typeform](/handbook/marketing/marketing-operations/typeform/)
 - [Tweetdeck](/handbook/marketing/marketing-operations/tweetdeck/)
 - [YouTube](/handbook/marketing/marketing-operations/youtube/)
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
