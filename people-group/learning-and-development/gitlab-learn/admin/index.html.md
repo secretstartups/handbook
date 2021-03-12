@@ -175,6 +175,8 @@ Watch this video to review how to add badges to a Pathway or Journey:
 
 #### Certification
 
+_Please note that as of 2021-03-11, Certifications are not yet enabled in EdCast._
+
 Certifications are available for content updated in the Leapest LMS Lite with the combination of assessments created in Mettl. The certifications can be shared externally.
 
 Teams should choose to use certifications to recognize learners achievements when:
@@ -441,6 +443,17 @@ Update your Journey image based on the [image guidelines](/handbook/people-group
 1. Each content type requires a different set of requirements to be provided. Follow the prompts based on each content type
 1. Be sure to add a `title`, `duration`, `tags` and `level` to all SmartCards
 1. Click `Create`
+
+#### Using iframes and the Rich Text Editor (RTE) EdCast feature
+
+EdCast has enabled a Rich Text Editor(RTE) that enables iframes in text SmartCards. This is a great way to create [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning) directly in GitLab Learn.
+
+To use the RTE:
+
+1. Navigate to the Discover page, or click into the Pathway where you want to create the text card
+1. Click the `Create` button and choose `SmartCard`. When choosing the type of SmartCard to create, choose the `Text` option.
+1. Include your iframe directly in the text box on the text card. For best practices for building iframes, refer to how we use [iframes in Articulate360](/handbook/people-group/learning-and-development/interactive-learning/#using-iframes-to-display-the-gitlab-handbook)
+1. If you'd like to upload a photo, you can do so in the text card. This photo will be used as the thumbnail image on the card when it appears in Pathways, Journeys, etc.
 
 
 ### Editing Journeys, Pathways, and SmartCards
