@@ -52,11 +52,7 @@ starting-point for new SREs:
 * [cookbook-omnibus-gitlab](https://gitlab.com/gitlab-org/cookbook-omnibus-gitlab): This cookbook
   is responsible for creating a `gitlab.rb` on every server that has GitLab installed. This config
   file is used by the omnibus package.
-* [gitlab_users](https://gitlab.com/gitlab-cookbooks/gitlab_users): This
-  cookbook manages all user accounts on the GitLab.com fleets.
-* [gitlab-server](https://gitlab.com/gitlab-cookbooks/gitlab-server): This
-  cookbook contains most of the recipes used for base OS configuration
-  for nodes that run GitLab.com.
+* [gitlab-cookbooks](https://gitlab.com/gitlab-cookbooks): This is a collection of cookbooks that are used for GitLab.com.
 
 ### Releases
 
@@ -95,15 +91,13 @@ are configured in roles. There are repository mirrors for these cookbooks on
 1. [chef](https://ops.gitlab.net/gitlab-cookbooks/chef-repo): This
 repository contains all role and node attributes for GitLab.com infrastructure.
 It also has the environment configurations for production, staging and ops
-for cookbook version pinning. There is a
-[repository mirror](https://gitlab.com/gitlab-cookbooks/chef-repo)
-on GitLab.com.
+for cookbook version pinning.
 
 1. [runbooks](https://gitlab.com/gitlab-com/runbooks/): This repository contains
 runbooks, howtos and alert definitions for GitLab.com. Alerts defined in this
 repository are automatically applied to the monitoring infrastructure when
 merged to master. For more information see the
-[alert manual](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/alerts_manual.md).
+[alert section](https://gitlab.com/gitlab-com/runbooks/-/tree/master#alerts).
 There is a [repository mirror](https://ops.gitlab.net/gitlab-com/runbooks/) on ops.GitLab.net.
 
 
@@ -128,8 +122,6 @@ It is useful to have the following dashboards bookmarked and easily accessible
 1. [PagerDuty](https://gitlab.pagerduty.com/incidents) Alerting
 1. [Grafana](https://dashboards.gitlab.net/d/bd2Kl9Imk/host-stats?orgId=1) Performance Monitoring
 1. [Alert Dashboard](https://dashboards.gitlab.net/d/SOn6MeNmk/alerts)
-1. [AlertManager Production](https://alerts.gprd.gitlab.net)
-1. [AlertManager Staging](https://alerts.gstg.gitlab.net)
 
 ### Issue Trackers
 
@@ -144,7 +136,7 @@ It is useful to have the following issue trackers bookmarked and easily accessib
 
 SREs should be using a [YubiKey](https://www.yubico.com) and should not have keys on their laptop.
 
-Follow the [yubikey runbook](https://gitlab.com/gitlab-com/runbooks/blob/master/howto/yubikey.md) to set up
+Follow the [yubikey runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/yubikey.md) to set up
 
 ## Credentials
 
@@ -166,9 +158,27 @@ The list may not be up to date.  If something is missing, please add it.
 
 # Slack Channels
 
-1. #production
-1. #infrastructure-lounge
-1. #alerts (There are several alerts channels)
+- Oncall-related channels:
+  1. `production`
+  1. `ongres-gitlab`
+  1. `mgcp_gitlab_ops`
+  1. `incident-management`
+  1. `alerts`
+  1. `announcements`
+  1. `dev-escalation`
+  1. `feed_alerts-general`
+  1. `cloud-provider-alerts`
+- Infrastructure channels:
+  1. `sre_observability`
+  1. `sre_coreinfra`
+  1. `sre_datastores`
+  1. `infrastructure-lounge`
+  1. `infra-lounge-social`
+  1. `infra-read-feed`
+  1. `g_delivery`
+  1. `g_scalability`
+  1. `infra_capacity-planning`
+  1. `kubernetes`
 
 # Zendesk
 
