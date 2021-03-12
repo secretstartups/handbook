@@ -73,7 +73,7 @@ We are a small team, but we've got a big role to play at GitLab!
 
 **FY22 Q1 Calendar of Sessions/Events:** 
 - 2021-03-XX: LXP Community Launch
-- Month of March: [Rest Ethic Awareness Campaign](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/198)
+- Month of March: [Mental Health Awareness Month](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/198)
 - 2021-03-21: Field Sales Manager Hiring Top Talent Training
 - 2021-04-03: Enterprise Sales Hiring Top Talent Training
 
@@ -96,7 +96,7 @@ Everyone's career development is different, but we have [outlined](/handbook/peo
 
 ### Language Courses
 
-Please review language course opportunities covered by the [GitLab Growth and Development Policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#types-of-growth-and-development-reimbursements) for more information.
+Please review language course opportunities covered by the [GitLab Growth and Development Policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#types-of-growth-and-development-reimbursements) for more information.
 
 There is also a way to practice foreign languages and ask for advice in several Slack channels, each dedicated to a specific language. You can find all these channels by searching for channels starting with #lang. If you're missing a channel for your target language, feel free to create one and mention it in #whats-happening-at-gitlab so that fellow GitLab team-members can join too!
 
