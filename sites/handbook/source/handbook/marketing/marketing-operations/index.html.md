@@ -124,6 +124,7 @@ Categories
 - `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
+- `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
 
 </details>
 
@@ -132,9 +133,22 @@ Categories
 Priorities
 </summary>
 
-- `MktgOps-Priority::1 - Top Priority`: Issue that is related to a breaking change, OKR focus, any other prioritized project by MktgOps leadership. This category will be limited because not everything can be a priority.
-- `MktgOps-Priority::2 - Action Needed`: Issue has a specific action item for MktgOps to be completed with delivery date 90 days or less from issue creation date. This tag is to be used on projects/issues not owned by MktgOps (example: list upload).
-- `MktgOps-Priority::3 - Future Action Needed`: Issue has a specific action item for MktgOps, the project/issue is not owned by MktgOps and delivery or event date is 90 days or more from issue creation.
+- `MktgOps-Priority::Top Priority`:  Issue that is related to a breaking change, OKR focus, any other prioritized project by Mktg OPS leadership. This category will be limited because not everything can be a priority.Timeframe: Immediate action needed.
+- `MktgOps-Priority::High Priority`: Issue has a specific action item for Mktg OPS to be completed as it is an OKR.Timeframe: Within Weeks
+- `MktgOps-Priority::Med Priority`: Issue is a feature to help the team. Timeframe: Within Months
+- `MktgOps-Priority::Low Priority`: Issue has a specific action item for Mktg OPS that would be helpful, but can be pushed for other issues. Timeframe: Within months.
+
+</details>
+
+<details>
+<summary markdown='span'>
+Urgency
+</summary>
+
+- `MktgOps-Urgency::P0`: Immediate urgency, system down type issue. Timeframe: Immediate action needed
+- `MktgOps-Urgency::P1`: Major feature or workflow is not working. Timeframe: Action within days
+- `MktgOps-Urgency::P2`: Requires attention, but normal workflow is not impacted or there is a workaround. Timeframe: Action within 2-3 milestones
+- `MktgOps-Urgency::P3`: Minor, low urgency. Timeframe: Future action needed, not priority or urgent
 
 </details>
 
