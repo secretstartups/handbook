@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Mar 11 | [Positioning of Verify and Product Groups Visions](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/110)          |  Jackie Porter & Parker Ennis |
 | Mar 18 | [Q1 FY22 Channel Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/103)              |    David Forsch             |
 | Mar 25 | [Co-Selling with GCP](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/106)              |   Mayank Tahilramani              |
 | Apr 1  | [Co-Selling with AWS](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/108)              |   Pete Goldberg              |
@@ -41,6 +40,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-03-11 | **[Positioning Verify & Product Vision](https://youtu.be/zKmD4i80tdg)**         |  Private |
 | 2021-03-04 | **[Co-Selling with IBM](https://youtu.be/E546ohLj-cQ)** | Private |
 | 2021-02-25 | **[Q1 FY22 Competitive Update](https://youtu.be/WzxQjr94mOM)** | Private |
 | 2021-02-04 | **[Peak Performance - SKO 2021 Preview](https://youtu.be/f_EZik5MaRU)** | Private |
