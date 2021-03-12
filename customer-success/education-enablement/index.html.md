@@ -256,7 +256,60 @@ TODO Kubernetes, Openshift, Docker
 
 ### Infrastructure-as-Code
 
-TODO Terraform, Vault, Packer, Ansible, Chef, Puppet
+<table>
+<tr>
+<th>Topic</th>
+<th>Foundations</th>
+<th>Associate</th>
+<th>Professional</th>
+<th>Expert</th>
+</tr>
+<tr>
+<th>HashiCorp Terraform</th>
+<td>
+[Hashicorp Learn Tutorials](https://learn.hashicorp.com/terraform)<br />
+[GitLab Terraform Integration Docs](https://docs.gitlab.com/ee/user/infrastructure/)<br />
+</td>
+<td>
+[Terraform Docs](https://www.terraform.io/docs/index.html)<br />
+[Terraform AWS Provider Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)<br />
+[Terraform GCP Provider Docs](https://registry.terraform.io/providers/hashicorp/google/latest/docs)<br />
+[Terraform GitLab Provider Docs](https://registry.terraform.io/providers/gitlabhq/gitlab/latest/docs)<br />
+[GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started)<br />
+[GitLab Demo Systems Terraform Modules](https://gitlab.com/gitlab-com/demo-systems/terraform-modules)
+</td>
+<td>
+[Terraform Associate Certification](https://www.hashicorp.com/certification/terraform-associate)<br />
+</td>
+<td>
+TODO
+</td>
+</tr>
+<tr>
+<th>HashiCorp Vault</th>
+<td>
+[Hashicorp Learn Tutorials](https://learn.hashicorp.com/terraform)<br />
+</td>
+<td>TODO</td>
+<td>
+[Vault Associate Certification](https://www.hashicorp.com/certification/vault-associate)<br />
+</td>
+<td>TODO</td>
+</tr>
+<tr>
+<th>HashiCorp Consul</th>
+<td>
+[Hashicorp Learn Tutorials](https://learn.hashicorp.com/consule)<br />
+</td>
+<td>TODO</td>
+<td>
+[Consul Associate Certification](https://www.hashicorp.com/certification/consul-associate)<br />
+</td>
+<td>TODO</td>
+</tr>
+</table>
+
+TODO Packer, Ansible, Chef, Puppet
 
 ### Web Application Security
 
