@@ -59,7 +59,7 @@ Mapping the org allows us to analyze where we are strong and where we have vulne
 - The breadth and depth of your relationship "coverage" within an account (both within and across lines of business)
 - Your access to power, champions, and key influencers
 - The strength or health of key relationships (identify which contacts are promoters, detractors, or somewhere in between)
-- How different parts of the organization engage with and/or influence each other
+- How different parts of the organization engage with and/or influence each other. This can be idependent of reporting structure.
 - Who and what has influence over key contacts in the account (e.g. specific analysts, partners, events, trade publications, user groups, other)
 
 If the account plan is with an existing customer, Net Promoter Score (NPS) data may provide helpful insights into and help you track relationship health and trends.
