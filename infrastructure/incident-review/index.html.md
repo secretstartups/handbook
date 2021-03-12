@@ -22,7 +22,7 @@ The DRI for incident review is the [EOC](/handbook/engineering/infrastructure/in
 If an incident matches any of the following criteria, the `~Incident::ReviewCompleted` must be added to the incident before closing.
 
 1. Incident was declared as `~severity::1`
-1. A `~review requested` label is added to the issue
+1. A `~review-requested` label is added to the issue
 
 A review may either be synchronous by adding it to the agenda of the weekly incident review meeting, or asynchronous by filling out the relevant parts of the incident review section.
 As a general guideline, it is recommended to follow the incident review process for any of the following events:
