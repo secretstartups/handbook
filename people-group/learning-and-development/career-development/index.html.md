@@ -198,3 +198,15 @@ The E-Group will follow a similar process to our GitLab team member process with
 When conducting compensation reviews for the E-Group, GitLab will review two items: 
 1. Alignment to market rates 
 1. Performance factors 
+
+### Use GitLab Epics to track your career development
+
+Epics are a great way to [transparently](/handbook/values/#transparency) and [efficiently](/handbook/values/#efficiency) track your work and map learning back to your [results](/handbook/values/#results).
+
+Here are some ways you can use Epics when organizing your career development work. Here is an [example from the Learning and Development team](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43)
+
+1. Open an epic in a personal or team project
+1. Use the description to highlight your learning goals, ideal programs or resources you want to review, considerations when planning, etc.
+1. Open issues to track actions you'll take as a result or inspriationo of learning resources you've used
+1. Add those issues as related to your epic. If you can't add the related issues becuase they are in differnet projects, consider starting a new thread in the epic that links to any and all issues that are a result of, or impacted by, your career development work
+
