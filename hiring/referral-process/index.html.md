@@ -24,7 +24,8 @@ While "sourcing" and "referring" are similar activities, there are distinctions 
 
 A Referral is:
 
-* Someone you are claiming a personal- or professional relationship with.
+* Someone you are claiming a personal or professional relationship with.
+* Someone who is referred by a person you are claiming a personal or professional relationship with.
 * Someone you could make a confident claim about regarding their cultural adaptability (to GitLab), how well they align with our values, and their ability to excel in a given role.
 * Someone you feel would be a great addition to the GitLab team.
 
