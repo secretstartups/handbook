@@ -516,12 +516,12 @@ The method for documenting and adopting an exception consists of:
 
 Since collective exceptions within a department will at some point impact overall funded headcount, exceptions require the approval of department heads. Exceptions to gearing ratios may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted). 
 
-All exceptions should be documented in a handbook page local to the workgroup or in an issue, and linked to the table below. This process is established as of March 2021 and may not reflect all existing workgroup situations. At any point when additional exceptions are required, just start an MR to add them per the steps noted above.
+All exceptions should be documented in a handbook page local to the workgroup or in an issue/epic, and linked to the table below. This process is established as of March 2021 and may not reflect all existing workgroup situations. At any point when additional exceptions are required, just start an MR to add them per the steps noted above.
 
 | **Workgroup** | **Department** | **Ratio** | **Link** |
 |---------------|----------------|-----------|----------|
-| Scalability Team | Infrastructure | 2 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Scalability-Team-IC-Gearing) |
-| Delivery Team | Infrastructure | 3 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#Delivery-Team-IC-Gearing) |
+| Scalability Team | Infrastructure | 2 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#scalability-team-ic-gearing) |
+| Delivery Team | Infrastructure | 3 Staff+ : Team | [Infrastructure Career Page](/handbook/engineering/infrastructure/career/#delivery-team-ic-gearing) |
 | Staff Security Engineer Application Security | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284925) |
 | Staff Security Engineer Red Team | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517282157) |
 | Staff Security Engineer Security Research | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284355)|
