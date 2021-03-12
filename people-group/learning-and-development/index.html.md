@@ -73,7 +73,7 @@ We are a small team, but we've got a big role to play at GitLab!
 
 **FY22 Q1 Calendar of Sessions/Events:** 
 - 2021-03-XX: LXP Community Launch
-- Month of March: [Mental Health Awareness Month](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/198)
+- Month of March: [Rest Ethic Awareness Campaign](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/198)
 - 2021-03-21: Field Sales Manager Hiring Top Talent Training
 - 2021-04-03: Enterprise Sales Hiring Top Talent Training
 
