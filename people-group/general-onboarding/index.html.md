@@ -141,6 +141,22 @@ These are added to the "All Team Member" Template
 - [Demand Generation](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_demand_generation.md)
 - [Technical Account Manager](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/department_customer_success/role_technical_account_manager.md)
 
+#### Country Specific Templates
+- [Australia](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_australia.md)
+- [Belgium](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_belgium.md)
+- [Canada](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_canada.md) 
+- [Germany](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_germany.md)
+- [Hungary](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_hungary.md)
+- [India](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_india.md)
+- [Ireland](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_ireland.md)
+- [Japan](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/before_starting_japan.md)
+- [Netherlands](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_netherlands.md)
+- [New Zeland](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_new_zealand.md)
+- [Nigeria](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_nigeria.md)
+- [South Africa](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_south_africa.md)
+- [United Kingdom](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_united_kingdom.md)
+- [United States](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_united_states.md) 
+
 ### Supplemental onboarding issue templates
 
 * [Interviewing training issue](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/interview_training.md)
