@@ -383,24 +383,6 @@ Please contribute your favorite resources here
 - [Julie Zhuo: The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/)
 - [First Round Essentials: Management](https://books.firstround.com/management/) (free ebook download)
 
-#### Remote-first collaboration
-
-##### Quick reads and videos
-
-Please contribute your favorite resources here
-
-##### Deeper dive
-
-Please contribute your favorite resources here
-
-##### Online courses 
-
-Please contribute your favorite resources here
-
-##### Books
-
-Please contribute your favorite resources here
-
 #### Leadership and influence
 
 ##### Quick reads and videos
