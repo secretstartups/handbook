@@ -496,13 +496,13 @@ Distinct from the general team workgroup noted above some workgroups, based on t
 
 As teams grow in both scope and size it is important to determine whether they should expand the number of Staff+ roles, or if the growth is reason to split out to another workgroup.
 
-### Staff+ Reporting Restrictions
+### Gearing Ratios
 * Staff Software Engineers report to an Engineering Manager (a manager of ICs)
 * Principal Engineers report to a Senior Manager+ (a manager of managers)
 * Distinguished Engineers report to Director+
 * Engineering Fellows report to VP+
 
-### Gearing Ratios
+#### Exception Process
 These [gearing ratios](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) govern the number of Staff+ positions available.
 
 It is intended that gearing ratios not become overly complicated. In support of this, there is a default gearing ratio which can be assumed by all workgroups. As long as this default supports the workgroup mission, nothing further is required. This default is a limit of one Staff Engineer per workgroup.
@@ -524,6 +524,7 @@ All exceptions should be documented in a page local to the workgroup within the 
 | Staff Security Engineer Application Security | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284925) |
 | Staff Security Engineer Red Team | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517282157) |
 | Staff Security Engineer Security Research | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284355)|
+| Engineering Data Analyst |Quality| 2 : Team | Hyperlink TBD |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
