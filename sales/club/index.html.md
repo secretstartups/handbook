@@ -16,15 +16,9 @@ President’s Club is synonymous with excellence and rewards individuals for ach
 
 ![tropical-destination](/handbook/sales/club/tropical2.jpg)
 
-# FY22 President's Club
-
-For GitLab's FY22 President's Club, 47 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip. Dates and qualification criteria details to follow.
-
-# FY21 President's Club
-
 ## How to Qualify
 
-For GitLab's FY21 President's Club, 42 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip in May 2021. Team member start dates must be on or before 2020-08-03 to be eligible and still be employed by GitLab at the time of the incentive trip to receive the benefit. Selection criteria varies by role (see below).
+For GitLab's FY22 President's Club, 47 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip in May 2022. Exact dates to follow. Team member start dates must be on or before 2021-08-01 to be eligible and still be employed by GitLab at the time of the incentive trip to receive the benefit. Selection criteria varies by role (see below).
 
 ## Selection Criteria
 
@@ -57,7 +51,7 @@ We continue to adapt to the global health and travel challenges, and after a lot
 
 **What are the dates and location of President’s Club 2021?**
 
-[President’s Club 2021](/handbook/sales/club/) will be at the [Ritz Carlton in Maui, Hawaii](https://www.ritzcarlton.com/en/hotels/kapalua-maui) from May 11-14, 2021.  
+[President’s Club 2021](/handbook/sales/club/) will be at the [Ritz Carlton in Maui, Hawaii](https://www.ritzcarlton.com/en/hotels/kapalua-maui) from November 30 - December 3, 2021.  
 
 **What happens if I am a President’s Club recipient in both 2020 and 2021?**
 
@@ -69,20 +63,20 @@ While we understand that the trip is long, there will not be extra time allotted
 
 **How do I qualify for President’s Club?**
 
-Please see the [How to Qualify](/handbook/sales/club/#how-to-qualify) section above. 
+Please see the [How to Qualify](/handbook/sales/club/#how-to-qualify) section above for PC 2022. 
 
 **How are President’s Club winners selected?**
 
-Please see the [Selection Criteria](/handbook/sales/club/#selection-criteria) section above. 
+Please see the [Selection Criteria](/handbook/sales/club/#selection-criteria) section above for PC 2022. 
 
-**What is the schedule for President’s Club?**
+**What is the schedule for President’s Club 2020/2021?**
 
-- May 11 - Travel Day & Welcome Reception
-- May 12 - Planned activities; Club Dinner
-- May 13 - Planned activities; Farewell Reception
-- May 14 - Travel Day; two-time winners (2020 and 2021) will stay 
-- May 15 - Relaxation day for two-time winners 
-- May 16 - Travel Day for two-time winners
+- November 30 - Travel Day & Welcome Reception
+- December 1 - Planned activities; Club Dinner
+- December 2 - Planned activities; Farewell Reception
+- December 3 - Travel Day; two-time winners (2020 and 2021) will stay 
+- December 4 - Relaxation day for two-time winners 
+- December 5 - Travel Day for two-time winners
 
 **If I am selected as a President’s Club winner, can I bring a guest?**
 
@@ -98,9 +92,9 @@ Club is an adult-only event that is intended for team members to spend time toge
 
 If you have a family member or child that requires 24 hour care, or some other unique circumstance that jeopardizes your ability to attend, we can explore exceptions. For additional information, please reach out to Cheri Holmes and Libby Schulze via email. 
 
-**When will we announce Club 2021 winners?**
+**When will we announce Club 2022 winners?**
 
-Winners for President’s Club 2021 will be announced during the Awards Dinner at Sales Kickoff (SKO) taking place from Feb 8-12, 2021. For more information about SKO, please see [this Handbook page](/handbook/sales/training/SKO/).
+Winners for President’s Club 2022 will be announced during the Awards Dinner at Sales Kickoff (SKO) taking place in February 2022. For more information about SKO, please see [this Handbook page](/handbook/sales/training/SKO/).
 
 Reference: [GitLab Events Code of Conduct](https://about.gitlab.com/company/culture/contribute/coc/)
 
