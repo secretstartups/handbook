@@ -109,7 +109,7 @@ I have accounts on [LinkedIn](https://www.linkedin.com/in/sijbrandij) and [Faceb
 
 ### Communicating Follow Ups
 
-Sometimes I will ask to be kept appraised of an action item or follow up. One common way for me to express this desire is by applying the "CEO Interest" label on a GitLab issue. When keeping me appraised please tend toward over-communication. The primary method to communicate your follow up to me should be via MR or issue updates posted in the #ceo slack channel including specific notification when an issue is completed or closed. It might feel like you are being bothersome or distracting, but it is not. If I ever feel like you are truly over-communicating, I will let you know.
+Sometimes I will ask to be kept apprised of an action item or follow up. One common way for me to express this desire is by applying the "CEO Interest" label on a GitLab issue. When keeping me apprised please tend toward over-communication. The primary method to communicate your follow up to me should be via MR or issue updates posted in the `#ceo` slack channel including specific notification when an issue is completed or closed. It might feel like you are being bothersome or distracting, but it is not. If I ever feel like you are truly over-communicating, I will let you know.
 
 ### Communicating in Slack
 
@@ -154,10 +154,10 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. [Coffee Chats](/company/culture/all-remote/informal-communication/#coffee-chats). 25 minutes.
 1. [Retrospective](/handbook/engineering/workflow/#retrospective). 25 minutes.
 1. [Monthly Release Kick-off](/releases/). 25 minutes.
-1. [CEO 101](/culture/gitlab-101/) 50 minutes.
+1. [CEO 101](/culture/gitlab-101/). 50 minutes.
 1. [Iteration Office Hours](/handbook/ceo/#iteration-office-hours). 25 minutes.
 1. Customer meetings or on-site visits. 25-90 minutes.
-1. Executive AMA's (Ask Me Anything) 25 minutes.
+1. Executive AMA's (Ask Me Anything). 25 minutes.
 1. Investor Relations meetings at the request of the CFO and/or VP, Investor Relations. Range from 25 minutes to 1+ days.
 
 ### Quarterly Meetings
@@ -165,7 +165,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. [E-Group Offsite](/handbook/ceo/offsite/) Monday-Thursday. After QBR's and before the Board of Directors meeting.
 1. [GitLab Board of Directors Meeting](/handbook/board-meetings/). 3.5 hours via Zoom. Usually preceded by a dinner or followed by a lunch for those who wish to attend in-person in San Francisco.
 1. GitLab Board of Director Committee Meetings => [Audit Committee](/handbook/board-meetings/committees/audit/#audit-committee-charter), [Compensation Committee](/handbook/board-meetings/committees/compensation/#compensation-committee-charter), and [Nominating and Corp Governance](/handbook/board-meetings/#nominating-and-corporate-governance-committee) Meeting. 50 minutes.
-1. [Skip Levels](/handbook/leadership/skip-levels/) with direct report's leadership team. 25 min.
+1. [Skip Levels](/handbook/leadership/skip-levels/) with direct report's leadership team. 25 minutes.
 1. [1-1](/handbook/leadership/1-1/) with GitLab Board Members. 25-50 minutes.
 1. [OKR E-Group Planning](/company/okrs/#schedule) 50-90 minutes.
 1. [OKRs How to Achieve Meeting](/company/okrs/#how-to-achieve-presentation). 25 minutes with each function Executive.
@@ -189,13 +189,13 @@ For scheduling a video call or meeting with me or other execs, please see the [E
 To schedule Sid to speak at an external engagement please contact the [EBA to the CEO](/handbook/eba/#executive-business-administrator-team) with the details outlined in the [Executive External Event Brief](/handbook/eba/#meeting-request-requirements). The EBA to the CEO will gain approval from the function head of the requestor on whether the CEO will attend or not. Sid's preference is to not participate in panels with multiple speakers if there is no facilitation of time. 
 
 ### Requests for audio/visual check meetings 
-If the organizer of an event requests a prep meeting with Sid to check audio and visual before a remote presentation, we can schedule for 5 minutes before the event for Sid to login and confirm that audio and visual is working as expected. A longer prep meeting is not required as Sid has a robust remote work set up. 
+If the organizer of an event requests a prep meeting with Sid to check audio and visual before a remote presentation, we can schedule for 5 minutes before the event for Sid to login and confirm that audio and visual are working as expected. A longer prep meeting is not required as Sid has a robust remote work setup. 
 
 ## Sending email
 
 If someone else in the company wants to have me send an email they should email me and cc [my EBA](/handbook/eba/#executive-business-administrator-team) with:
 
-1. Instruction: "Please email this, please bcc: me on the outgoing email, forward any responses, and cc: me on an further emails."
+1. Instruction: "Please email this, please bcc: me on the outgoing email, forward any responses, and cc: me on any further emails."
 1. Recipient name
 1. Recipient email
 1. Email subject
@@ -215,7 +215,7 @@ Some general guidelines of what travel is appropriate, these guidelines are not 
 1. Check my availability with the EBA, reschedule with the EBA, cancel with the EBA, **not me**.
 1. I'll take any meeting via video conference or in our boardroom.
 1. I'll take a meeting in the Bay Area as long as it is not an SMB organization.
-1. I'll take a meeting outside the Bay Area but in the US with large or strategic organizations
+1. I'll take a meeting outside the Bay Area but in the US with large or strategic organizations.
 1. I'll take a meeting outside the US with strategic organizations.
 
 Consider the following to increase efficiency:
@@ -270,7 +270,7 @@ There are three levels of performance:
 
 1. Commitment: what we promise to our stakeholders.
 1. Aspiration: want to get to 70% of this, these are our [OKRs](/company/okrs/)
-1. Possibility: what are intrigued by, inspired by, and what I talk about
+1. Possibility: what we are intrigued by, inspired by, and what I talk about
 
 I'm driven by what is possible, the aspiration, what can be.
 Others' expectations of a person affect the person's performance with high expectations leading to better performance, this is called the [Pygmalion effect](https://en.wikipedia.org/wiki/Pygmalion_effect).
