@@ -16,7 +16,7 @@ twitter_creator: "@gitlab"
 
 ##### iMovie
 
-  This is Digital Production's first recommondation. iMovie is free editing software from Apple. It is simple and straightforward to use versus other programs, and it is included with almost all Macbooks in the Applications list. As most GitLab employees use Macbooks, it should be an option for almost everyone. If you do not have a MacOS device, please see below. 
+  This is Digital Production's first recommendation. iMovie is free editing software from Apple. It is simple and straightforward to use versus other programs, and it is included with almost all Macbooks in the Applications list. As most GitLab employees use Macbooks, it should be an option for almost everyone. If you do not have a MacOS device, please see below. 
 
 ##### Adobe Premiere Rush
 
