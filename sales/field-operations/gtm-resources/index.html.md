@@ -232,14 +232,21 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
    1. First week of Q2 (reactive) moves: Requests that come from the field
    1. First week of Q3 (proactive) moves: Sales Ops does a review and cleans up accounts + addresses field requests
    1. First week of Q4 (reactive) moves: Requests that come from the field
-   1. First week of Q1 no moves, FY planning will address moves
+   1. First week of Q1 no moves, FY planning will address moves   
 
  **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
 
 1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Approved accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-1. **Sales Operations Quarterly Account Review Process**
+1. **Sales Operations Immediate and Quarterly Account and Opportunity Review Process**
+   1. Accounts that can be moved immediately by Sales Operation after step one: 
+       1. Accounts that have the same ASM
    1. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
-   1. **Holdover Accounts/Opportunities** Account holdovers that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Account Rep listed in the `Holdover Next Owner` field. These can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+   1. **Holdover Accounts/Opportunities** 
+        1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field
+        1. Holdover Opportunities stages 3 and below will be moved on the expiration date listed on the opportunity in the `Holdover Expiration Date` field
+        1. Holdover Opportunities stages 4 and above will remain with their current owner and a new expiration date of three months will be added. This must be closed/won within the extended time or it will be moved to the new owner at the end of the holdover period
+   
+   Holdovers that have expired will be moved on the expiration date to the Account Rep listed in the `Holdover Next Owner` field. These can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
    1. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
    1. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
 
