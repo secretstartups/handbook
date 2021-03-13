@@ -17,7 +17,17 @@ Sr. Product Marketing Manager, Cloud Native & GitOps / Product Management Intern
 ## About me
 
 * I am a big fan of the Iteration value and [Minimum Viable Change](/handbook/values/#minimal-viable-change-mvc)
-* I also enjoy being meta
+* I prefer asynchronous comunication - issues, slack, email, etc. 
+* If you ping me on a GitLab issue and don't get a response I appreciate a ping on slack. 
+* I like meetings for discussion and getting to know you better. 
+* I get frustrated with meetings whose purpose is to report progress (this is usually better done in an asyn format.)
+* I am extremely honest and transparent. 
+    * If I say I like something I mean it.
+    * If I say I don't like somethign I mean it. 
+    * If I say I don't have a strong opinion I mean it.
+* A downside to my transparency is I'll tell you exactly what I'm thinking even if it's half-baked or not thought out at all. It can sometimes be frustrating for people when later I change my mind because I thought about it more or learned new information. I try to be clear when I'm sharing a top-of-mind gut feeling vs somthing I'm more confident about. It's ok to ask to clarify. 
+* I tend to be an oral processor (I think by talking). It's easier for me to figure things out by having a conversation about it than it is for me to go off on my own and think about it. 
+* When I get stressed I want to engage with people more. Some people need a break and alone time when the situation gets stressful. It's ok to tell me, "let's take a break." and I'll respect that. 
 
 ## Books 
 
