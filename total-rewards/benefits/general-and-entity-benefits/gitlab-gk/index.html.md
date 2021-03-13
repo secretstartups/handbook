@@ -52,7 +52,7 @@ A team member who has been continuously employed for six months is entitled to a
 **Maternity Leave:** Team members can take up to 14 weeks of Maternity Leave. The leave must start 6 weeks prior to the scheduled delivery date. Team members can also take Parental Leave after taking Maternity Leave. 
 
 **Childcare Leave:** Team members (mothers and fathers) can take unpaid Parental Leave (Child Care Leave) until their child's first birthday (or second if certain conditions are met). 
-* Fathers can take childcare leave twice. Once during the postnatal period (8-week period directly childbirth) and once during the remainder of the year following the postnatal period up until the child turns one year old. 
+* Fathers can take childcare leave twice: once during the postnatal period (8-week period directly following childbirth) and once during the remainder of the year following the postnatal period, up until the child turns one year old. 
 * If both parents take childcare leave at the same time, the father may only take childcare leave in one period following the postnatal period, but the paternity leave is extended to when the child is 1 year and 2 months old. 
 * Team members must have been employed with GitLab for over a year to qualify for childcare leave.
 * Additionally, the team member must return to work after childcare leave ends and continue to work for GitLab until at least two days before the child turns 2 years old in order to be entitled to childcare leave.
@@ -71,7 +71,7 @@ A team member who has been continuously employed for six months is entitled to a
 
 #### Other Job-Protected Leave
 
-**Nursing Care Leave:** Team members may be eligible to take up to 93 days of leave ot provide nursing care to a family member. Team members who meet the conditions of nursing care leave may apply for an allowance.
+**Nursing Care Leave:** Team members may be eligible to take up to 93 days of leave to provide nursing care to a family member. Team members who meet the conditions of nursing care leave may apply for an allowance.
 
 **Child Nursing Care Leave:** : Team members who need time off to care for a sick or injured child are entitled to up to 5 days for 1 child or up to 10 days for 2 or more children. This leave runs concurrently with GitLab PTO. 
 
