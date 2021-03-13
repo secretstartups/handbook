@@ -416,7 +416,11 @@ At the conclusion of the call, the CEO Shadows should remove themselves from doc
 
 #### Responsibilities
 
-Meetings come in many different formats. Your responsibilities may change slightly based on the kind of meeting. Here are the responsibilities shadows have during meetings:
+Meetings come in many different formats. Your responsibilities may change slightly based on the kind of meeting.   
+
+Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO.   
+
+ Here are the responsibilities shadows have during meetings:
 
 | Meeting type                     | Notes?         | Timekeeping?   |
 | -------------------------------- | -------------- | -------------- |
@@ -424,9 +428,10 @@ Meetings come in many different formats. Your responsibilities may change slight
 | Legal meeting                    | No notes       | Timekeeping    |
 | GitLab Board meeting or meeting with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)                   | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
+| Valley Meetings                  | No notes       | Timekeeping    |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
-Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO.
+
 
 ##### Taking notes
 
