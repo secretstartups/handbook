@@ -51,15 +51,28 @@ A team member who has been continuously employed for six months is entitled to a
 
 **Maternity Leave:** Team members can take up to 14 weeks of Maternity Leave. The leave must start 6 weeks prior to the scheduled delivery date. Team members can also take Parental Leave after taking Maternity Leave. 
 
-**Parental Leave:** Team members (mothers and fathers) can take unpaid Parental Leave (Child Care Leave) until their child's first birthday (or second if certain conditions are met). If both parents take Child Care Leave, the leave is extened to when the child is 1 year and 2 months old. 
+**Childcare Leave:** Team members (mothers and fathers) can take unpaid Parental Leave (Child Care Leave) until their child's first birthday (or second if certain conditions are met). 
+* Fathers can take childcare leave twice. Once during the postnatal period (8-week period directly childbirth) and once during the remainder of the year following the postnatal period up until the child turns one year old. 
+* If both parents take childcare leave at the same time, the father may only take childcare leave in one period following the postnatal period, but the paternity leave is extended to when the child is 1 year and 2 months old. 
+* Team members must have been employed with GitLab for over a year to qualify for childcare leave.
+* Additionally, the team member must return to work after childcare leave ends and continue to work for GitLab until at least two days before the child turns 2 years old in order to be entitled to childcare leave.
 
 #### Maternity Leave Payment
 
-* Social insurance will pay the team member 2/3 of the base salary during Maternity and Child Care Leave.
+* Team members may be eligible for maternity leave allowance equal to 2/3 of the team member's base salary for the duration of maternity leave. The allowance also covers the delay period if the actual date of birth is later than the expected due date. 
+    * If the team member is a dependent under their spouse's health insurance, they will not be eligible for maternity leave allowance.
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of leave.
 
+#### Childcare Leave Payment
 
-#### Paternity Leave Payment
-
-* Social insurance will pay the team member 2/3 of the base salary during Child Care Leave.
+* Team members must have been enrolled in social insurance for at least one year in the past 2 years prior to applying for childcare leave in order to be eligible for childcare leave allowance.
+* Social insurance will pay the team member 67% of their base salary for the first 6 months of Child Care Leave and 50% of their salary for the remainder of leave. 
 * If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of leave.
+
+#### Other Job-Protected Leave
+
+**Nursing Care Leave:** Team members may be eligible to take up to 93 days of leave ot provide nursing care to a family member. Team members who meet the conditions of nursing care leave may apply for an allowance.
+
+**Child Nursing Care Leave:** : Team members who need time off to care for a sick or injured child are entitled to up to 5 days for 1 child or up to 10 days for 2 or more children. This leave runs concurrently with GitLab PTO. 
+
+**Family Care Leave:** Team members are entitled to 5 days of leave to look after a sick or injured family member, or up to 10 days for 2 or more family members. This leave runs concurrently with GitLab PTO. 
