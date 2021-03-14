@@ -150,44 +150,82 @@ Once the resolution DRI announces that `master` is fixed:
   [Pipeline for Merged Results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/#pipelines-for-merged-results)
   isn't supported in these cases).
 
-### Maintaining throughput during broken master
+### Merging during broken master
 
-When `master` is red, we need to try hard to avoid introducing **new** failures,
+Merge requests **can not be merged** to `master` until the broken pipeline
+is fixed and passing again.
+
+This is because we need to try hard to avoid introducing **new** failures,
 since it's easy to lose confidence if it stays red for a long time.
 
-Most merge requests don't need to be merged *immediately*, so the priority should
-always be maintaining the stability of `master` over keeping a high throughput.
+In the rare case where a merge request is [urgent](#criteria-for-merging-during-broken-master)
+and must be merged **immediately**, team members can follow the process below to have a merge
+request merged during a broken `master`.
 
-In the rare cases where `master` is broken for more than 4 hours (from the
-notification in `#master-broken`), maintainers are allowed to merge with a
-broken pipeline if all the following conditions are met:
+#### Criteria for merging during broken master
 
-1. The failures also happen on `master` **for at least 4 hours**.
-1. Only one or two tests are failing and they are not directly related to
-   functionality touched by the merge request.
-1. There is [an issue labelled `~"master:broken"`][broken-master-issues] for it,
-   see the "Triage DRI Responsibilities" steps above for more details
-1. That issue is already assigned to someone
-1. The assignee is actively working on it (i.e. they are not on PTO, at a conference, etc.)
+Merging while `master` is broken can only be done for:
 
-Before asking a maintainer to review, or before merging the merge request,
-add a comment mentioning that the failure happens in `master`,
-and post a reference to the issue. For instance:
+- Merge requests that need to be deployed to GitLab.com to alleviate an ongoing production incident.
+- Merge requests that fix broken `master` issues (we can have multiple broken master issues ongoing).
 
+#### How to request a merge during a broken `master`
+
+First, ensure the latest pipeline has completed less than 2 hours ago (although it is likely to have have failed due to
+  `gitlab-org/gitlab` using
+  [pipelines for merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/)).
+
+Next, make a request on Slack:
+
+1. Post to either the `#frontend_maintainers` _or_ `#backend_maintainers` Slack
+   channels (whichever one is more relevant).
+1. In your post outline _why_ the merge request is [urgent](#criteria-for-merging-during-broken-master).
+1. Make it clear that this would be a merge during a broken `master`, optionally add a link to this
+   page in your request.
+
+#### Instructions for the maintainer
+
+A maintainer who sees a request to merge during a broken `master` must follow this process.
+
+Note, if any part of the process below disqualifies a merge request from being merged
+during a broken `master` then the maintainer must inform the requestor as to _why_ in the
+merge request (and optionally in the Slack thread of the request).
+
+First, assess the request:
+
+1. Add the `:eyes:` emoji to the Slack post so other maintainers know it is being assessed.
+   We do not want multiple maintainers to work on fulfilling the request.
+1. Assess whether the merge request [is urgent or not](#criteria-for-merging-during-broken-master). If in doubt, ask the requestor for more
+   details in the merge request about why it is urgent.
+
+Next, ensure that all the following conditions are met:
+
+1. The latest pipeline has completed less than 2 hours ago (although it is likely to have failed due to
+  `gitlab-org/gitlab` using
+  [pipelines for merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/)).
+1. All of the latest pipeline failures also happen on `master`.
+1. There is [an issue labelled `~"master:broken"`][broken-master-issues] for every failure,
+see the "Triage DRI Responsibilities" steps above for more details.
+
+Next, add a comment to the merge request mentioning that the merge request will be merged
+during a broken `master`, and link to the `~"master:broken"` issue(s). For example:
+
+```md
+Merge request will be merged while `master` is broken.
+
+Failure in <JOB_URL> happens in `master` and is being worked on in <ISSUE_URL>.
 ```
-Failure in <JOB_URL> happens in `master` and is being worked on in #XYZ.
-```
 
-Whether the merge requests pipeline is failing or not, if `master` is red:
+Next, merge the merge request:
 
-* For canonical merge requests, always start a new merge request pipeline and check that the
-  failure happens in `master` with a link to the `~"master:broken"` issue before
-  clicking the red "Merge" button.
-* For forks, check how far behind `master` the source branch is. If it's more
-  than 100 commits behind `master`, ask the author to rebase it before merging.
+- If the "Merge" button is enabled (this is unlikely), then click it.
+- Otherwise, you must:
+  1. Unset the
+    ["Pipelines must succeed" setting](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html#only-allow-merge-requests-to-be-merged-if-the-pipeline-succeeds)
+    for the [`gitlab-org/gitlab` project](https://gitlab.com/gitlab-org/gitlab/edit).
+  1. Click the "Merge" button.
+  1. Set the "Pipelines must succeed" setting to be on again.
 
-This reduces the chance of introducing new failures, and also acts to slow
-(but not stop) the rate of change in `master`, helping us to make it green again.
 
 [broken-master-issues]: https://gitlab.com/groups/gitlab-org/-/issues?state=all&label_name[]=master%3Abroken
 
