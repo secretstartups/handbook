@@ -170,7 +170,7 @@ We mitigate this risk in a number of ways:
 * we have multiple [reliability teams](/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
 * we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
 * we have an [infra-dev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.  
-* the [Quality Engineering Department](/handbook/engineering/security/#security-operations) makes sure everyone is aware of what the quality of the product is, empirically.
+* the [Quality Engineering Department](/handbook/engineering/quality) makes sure everyone is aware of what the quality of the product is, empirically.
 * the [Application Security team](/handbook/engineering/security/#application-security) are responsible for ensuring the security of the GitLab application, which we also operate on GitLab.com.
 * the [Security Operations team](/handbook/engineering/security/#security-operations), who are responsible for managing security incidents across GitLab and GitLab.com.
 * the [Abuse Operations team](/handbook/engineering/security/#abuse-operations), who are responsible for investigating and mitigating the malicious use of our systems.
