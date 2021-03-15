@@ -58,13 +58,11 @@ There are also resources available to cater to the size of customer and their ne
 To align our education and enablement with our product, each of the topics below are grouped based on how GitLab product management and engineering defines it. 
 
 <table>
-<thead>
 <tr>
 <th>Topic</th>
 <th>Foundations</th>
 <th>Associate</th>
-</thead>
-<tbody>
+</tr>
 <!-- DevOps Sections -->
 <tr>
 <th><a name="devops-sections">DevOps Sections</a></th>
@@ -353,8 +351,6 @@ To align our education and enablement with our product, each of the topics below
     </ul>
 </td>
 </tr>
-
-</tbody>
 </table>
 
 ## GitLab Use Cases
@@ -454,6 +450,10 @@ TODO Instructions to access
 TODO
 
 ### Google Classroom
+
+TODO
+
+## Communities of Practice
 
 TODO
 
