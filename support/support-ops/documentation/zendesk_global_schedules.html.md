@@ -62,6 +62,9 @@ We use these to determine business hours and various regional working hours.
 * Friday: 0900-2200
 * Saturday: Closed
 
+Note: Brisbane was chosen as the reference timezone for APAC as daylight saving
+time is not observed there.
+
 ### [Low Priority Tickets](https://gitlab.zendesk.com/agent/admin/schedules/360000044539)
 
 * Timezone: Pacific Time (US & Canada)
