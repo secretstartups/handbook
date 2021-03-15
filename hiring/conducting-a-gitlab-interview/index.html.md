@@ -42,6 +42,12 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
     * When reading through the candidate's application materials please remember that writing a good resume or cover letter is an art, and not many people master it. When you read through these materials, look for evolution rather than buzzwords, and, if something sparks your curiosity, prepare to ask about it during the interview.
 1. Make sure you're up to date on our latest headcount, notable awards, messaging, and other facts about working at GitLab. Take a look at these [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) to help guide your conversation with candidates.
 
+#### Confidentiality 
+
+Please note the importance of confidentiality in the interview process for both internal and external interview processes. Candidates should not be discussed outside of the hiring manager management chain and direct interview team. It is important to respect the privacy of all candidates who apply for positions at GitLab, whether they are internal or external.
+
+All feedback should be recorded in Greenhouse and/or discussed live with the hiring manager and/or interview team as applicable.
+
 #### Illegal Interview Questions
 
 * Be aware of the kinds of questions you can and can't ask. For example, if there is a gap in employment history on a CV, you **may** ask the candidate what they did during that time to keep their skills current. You may not ask why they were absent from work as it may be related to a medical or family issue, which is protected information.
