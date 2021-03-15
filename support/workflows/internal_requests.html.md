@@ -52,7 +52,7 @@ The requestor should contact the [CMOC](/handbook/support/internal-support/#rega
 
 This typically requires GitLab.com admin access, because you will need to look up the relevant email addresses.
 
-See the [Sending notices workflow](sending_notices.html) for more details. If none of the listed cases apply, you can use the `GitLab.com::Notices::General Contact Request` macro. Leave an internal note with a link to the issue.
+See the [Sending notices workflow](sending_notices.html) for more details. If none of the listed cases apply, you can use the [`Support::SaaS::Notices::General Contact Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360013369860) macro. Leave an internal note with a link to the issue.
 
 ## Repo Size Limit Increases
 

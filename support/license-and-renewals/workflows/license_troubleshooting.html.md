@@ -29,7 +29,7 @@ Transactions at GitLab are defined as anything related to purchasing; issues or 
 1. **User reports an inability to upgrade from one paid plan to another.**
 
     - GitLab.com users can upgrade their paid plan to a higher tier in the [CustomersDot](https://customers.gitlab.com/customers/sign_in) by selecting the `Upgrade` button beneath the subscription widget.
-    - Self-managed GitLab users need to be put in contact with a sales rep in order to upgrade their plan to a higher tier. Utilize the `Upgrade Plan Request` macro in Zendesk. This will request necessary information from the user and reassign the ticket to the License, Renewals and Upgrades queue.
+    - Self-managed GitLab users need to be put in contact with a sales rep in order to upgrade their plan to a higher tier. Utilize the [`General::Upgrade Plan Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360089766413) macro in Zendesk. This will request necessary information from the user and reassign the ticket to the License, Renewals and Upgrades queue.
 
 1. **User doesn't know the steps to purchase a GitLab.com subscription.**
 

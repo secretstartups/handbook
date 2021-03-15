@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
 title: 'Tags'
-category: 'Zendesk Global'
-description: 'An overview of the Zendesk Global tags'
+category: 'Zendesk US Federal'
+description: 'An overview of the Zendesk US Federal tags'
 ---
 
 ## On this page
@@ -37,19 +37,12 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 | `basic` and `starter` | Signifies the ticket is using a Starter plan, granting Standard SLA on Support tickets |
 | `premium` | Signifies the ticket is using a Premium plan, granting Priority SLA on Support tickets |
 | `ultimate` | Signifies the ticket is using a Ultimate plan, granting Priority SLA on Support tickets |
-| `bronze` | Signifies the ticket is using a Bronze plan, granting Standard SLA on Support tickets |
-| `silver` | Signifies the ticket is using a Silver plan, granting Priority SLA on Support tickets |
-| `gold` | Signifies the ticket is using a Gold plan, granting Priority SLA on Support tickets |
-| `priority_prospect` | Signifies the ticket is from a prospect who has been temporarily granted Standard SLA on Support tickets |
-| `free_customer` | Signifies the ticket is from a non-paying end-user. This means they receive no SLA on Support Tickets |
+| `prospect` | Signifies the ticket is from a prospect who has been temporarily granted Standard SLA on Support tickets |
 | `missing_sla_tag` | This means the ticket is missing any form of SLA tagging. As this is a problem, this tag applies a Standard SLA and forces the ticket into the Needs Org & Triage view |
 | `low` | Signifies the ticket as a Low priority, thus granting it bare-level support SLAs for Support tickets with Priority SLA |
 | `medium` | Signifies the ticket as a Normal priority, thus granting it mid-level support SLAs for Support tickets with Priority SLA |
 | `high` | Signifies the ticket as a High priority, thus granting it high level support SLAs for Support tickets with Priority SLA |
 | `urgent` | Signifies the ticket is an emergency request |
-| `prospect` | Signifies the ticket is from a prospect. This means they receive no SLA on Support Tickets |
-| `trial` | Signifies the ticket is from a non-paying end-user using the trial system. This means they receive no SLA on Support Tickets |
-| `consumption` | Signifies the ticket is a consumption ticket |
 
 ## Account Related Tags
 
@@ -74,7 +67,6 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 | `skip_autoclose` | Tell Zendesk to not auto-close the ticket |
 | `skip_autoreopen` | Tell Zendesk to not auto-reopen the ticket (relating solely to the trigger Ticket::Open::Reopen if agent sets to pending with internal note) |
 | `skip_gdpr_automation` | Tell Zendesk to not run any Account Deletion automations/autoresponders |
-| `skip_2fa_automation` | Tell Zendesk to not run any 2FA automations/autoresponders |
 | `skip_autosolve_message` | Tell Zendesk not to send a message about the ticket being autosolved. |
 | `skip_autoassign` | Tell Zendesk to not auto-assign the ticket (in reference to these triggers - "Ticket::Assignee::Assign open or on-hold ticket to agent" and "Ticket::Assignee::Assign any on-hold ticket to current agent") . |
 
@@ -84,17 +76,12 @@ As a note, there should only ever be one of these on a ticket
 
 | Tag | What it does |
 |---|---|
-| `saas_account_form` | Signifies the ticket is using the form SaaS Account |
-| `saas_form` | Signifies the ticket is using the form SaaS |
-| `sm_form` | Signifies the ticket is using the form Self-Managed |
+| `support_form` | Signifies the ticket is using the form Support |
 | `lnr_form` | Signifies the ticket is using the form L&R |
-| `other_form` | Signifies the ticket is using the form Other |
 | `security_form` | Signifies the ticket is using the form Security |
-| `ar_form` | Signifies the ticket is using the form Billing |
-| `open_partner_form` | Signifies the ticket is using the form Open Partner |
-| `select_partner_form` | Signifies the ticket is using the form Select Partner |
-| `alliance_partner_form` | Signifies the ticket is using the form Alliance Partner |
-| `proserv_form` | Signifies the ticket is using the form Professional Services |
+| `triage_form` | Signifies the ticket is using the form Triage |
+| `shared_org_form` | Signifies the ticket is using the form Shared Organization Request |
+| `live_upgrade_form` | Signifies the ticket is using the form Live Upgrade Request |
 
 ## Other Important Tags
 
@@ -103,6 +90,3 @@ As a note, there should only ever be one of these on a ticket
 | `auto-association_attempted` | Zendesk has sent a request to Zapier to try to auto-associate the user to an org |
 | `zapier_test_success` | Zapier claims it succeeded, which solely means it found a user in SFDC and sent a request to Zendesk to update said user with the org name (in cases where the org name doesn’t exist in Zendesk, this won’t work) |
 | `zapier_test_failed` | Zapier was unable to find a user in SFDC and failed to auto-associate |
-| `verification_requested` | We have requested information to verify the end-users support entitlement |
-| `customer_verified` | We have been able to associate an end-user after requesting they prove their support entitlement |
-| `emergency_customer_verified` | We were able to associate an end-user who is requesting an emergency support after they’ve successfully proven their support entitlement. |

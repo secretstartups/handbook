@@ -98,6 +98,18 @@ from [the Calendly Integrations page](https://calendly.com/integrations).
 curl -v  --header "X-TOKEN: <your Calendly API token>" --data "event_type_uuid=CEGFRWO2Q6R7SAQE" https://calendly.com/api/apps/extension/v1/users/me/event_type_single_use_links
 ```
 
+## Auto block Pagerduty shifts in Calendly
+
+It is possible to automate the blocking of your Pagerduty shifts in Calendly, so you are not booked for a customer call while 
+you are on duty. To set this up:
+
+1. In Pagerduty, navigate to **Your profile > On-Call Shifts > Export > WebCal feed**. Add the Pagerduty calendar to your 
+Google Calendar.
+1. In Calendly, navigate to **Calendar Connections > Configuration > Check for conflicts** and click the **Edit** button.
+1. Ensure that the Pagerduty calendar added in step 1 is selected here, and then click the **Update** button. If your
+calendar does not appear in the list, you can disconnect and reconnect your Google Calendar account from Calendly to refresh
+the calendar list.
+
 ## Suggestions
 
 Ben Prescott
