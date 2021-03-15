@@ -320,7 +320,23 @@ Once the PS Opportunity is closed/ won a notification is sent from SFDC.
   - Add soft allocation for the unnamed resource
   - You will change the resource to a team member and update to a hard allocation as you work on the project.
 
-  #### Mavenlink Project Status/ Colors
+#### Mavenlink Project Health Report
+
+Project Health Reports are found on the Mavenlink project on the right hand fly out panel
+
+![healthreport1](./healthreport1.png)
+
+Click On new Health Report to create a new report
+
+![healthreport2](./healthreport2.png)
+
+Fill out each section and save
+
+![healthreport3](./healthreport3.png)
+
+Only one Health Report can be added each day
+
+#### Mavenlink Project Status/ Colors
 
 | Mavenlink Status |  |
 | ------ | ------ |
