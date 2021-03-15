@@ -14,6 +14,8 @@ To align to our GitLab values of Efficiency, Results, Transparency, and Iteratio
 
 ### Using Product Usage Data in Gainsight 
 
+For a video overview, see [the corresponding video overview](https://youtu.be/5_J9Kfbu5JA).
+
 **Note**: for License Usage, see [License Usage Salesforce App](/handbook/sales/field-operations/sales-systems/license-usage-app/) and [License Usage in Gainsight](/handbook/customer-success/tam/gainsight/license-usage/).
 
 For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). FY22-Q1 will have self-managed only. 
