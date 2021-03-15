@@ -354,12 +354,6 @@ To align our education and enablement with our product, each of the topics below
 </tr>
 </table>
 
-## GitLab Use Cases
-
-TODO
-
-
-
 ## Industry Topics
 
 ### Cloud Infrastructure
