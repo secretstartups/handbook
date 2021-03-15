@@ -63,7 +63,7 @@ For your self-managed customers, label your customers' instances as Production, 
 1. Click on the ✏️ icon for the instance you want to update
 1. For the field "Instance Type" select the proper option
 
-NOTE: Anythign labeled as "Unknown" should be treated as a _temporary_ holding title that needs to be updated to Production, Non-Production, or Obsolete.
+NOTE: Anything labeled as "Unknown" should be treated as a _temporary_ holding title that needs to be updated to Production, Non-Production, or Obsolete.
 
 
 ### Field Definitions
