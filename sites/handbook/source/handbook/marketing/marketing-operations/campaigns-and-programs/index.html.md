@@ -63,6 +63,7 @@ Any large event run by Corporate Marketing that we have paid to sponsor, have a 
 | Sales Invited | Invitation/Information about event sent by Sales/SDR |  |
 | Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
 | Marketing Invited | Marketing geo-targeted email |  |
+| Registered | Registered for event||
 | Meeting Requested | Meeting set to occur at conference |  |
 | Meeting No Show | Scheduled meeting at conference was cancelled or not attended |  |
 | Meeting Attended | Scheduled meeting at conference was attended | Yes |
