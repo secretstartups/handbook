@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Verticurl Agency
+description: 'Verticurl agency projects, processes, and notes'
+twitter_image: /images/tweets/handbook-marketing.png
+twitter_site: '@gitlab'
+twitter_creator: '@gitlab'
+---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -154,3 +162,5 @@ When working with Verticurl, we must specify a specific time we would like the e
 - AMER label: 9 AM ET
 - EMEA label: 10 AM CET
 - APAC label: 11am AEST
+
+Should a requested send time be missed, Verticurl can take the liberty to schedule the send within 8 hours of the original ask. If the send time window goes beyond the 8 hour time frame, then Verticurl must get approval from sender to move to a different time. As an example, if the send time was scheduled for 6 AM ET, and for ever reason, the send time did not get scheduled for 6 AM ET, Verticurl can make the decision when to send the email if its between 6:01 AM ET - 2:01 PM ET on the same day of the send.
