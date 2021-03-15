@@ -436,55 +436,31 @@ TODO Packer, Ansible, Chef, Puppet
 
 TODO OWASP, Tenable, etc. 
 
-### Safari O'Reilly eBooks
-
-TODO Instructions to access
-
-### GitLab Learn
-
-TODO
-
-### Google Classroom
-
-TODO
-
-## Communities of Practice
-
-TODO
 
 ## Demo Readiness
 
-TODO Getting started demos for baseline proficiency
+Getting started demos for baseline proficiency. Learn more on the [Demo Readiness](/handbook/customer-success/solutions-architects/demonstrations/#demo-readiness) page 
 
 ## Demo Library
 
 TODO Table of all sample projects and video walk through demos
 
+
 ## Enablement Events and Async Recordings
 
 ### Customer Success Skills Exchange
 
-TODO Paragraph overview, schedule, table of recordings from past
+The Field Enablement Team hosts a 50 min weekly webinar focused on topics relevant to the Customer Success Team. To learn more, view the upcoming schedule, or check out a recording go to the [CS Skills Exchange](/handbook/sales/training/customer-success-skills-exchange/) page 
 
 ### Sales Enablement Level Up
 
-TODO
+The Field Enablement Team hosts a weekly 30 minute webinar focused on topics relevant to the entire Field Team. To learn more, view the upcoming scheudle, or check out a recording go to the [Sales Level Up Webinar](/handbook/sales/training/sales-enablement-sessions/) page 
 
-### MEDPICC
+### Command of Message & MEDDPPICC
 
-TODO
+GitLab uses ForceManagement's Command of Message and MEDDPPICC as our sales methodology. You can familiarize yourself with the kep components and messaging on [CoM](/handbook/sales/command-of-the-message/) page 
 
-### Sales Kick Off
 
-TODO Recordings and decks
-
-### All Hands Calls
-
-TODO Schedule, recordings and decks
-
-### Quarterly Business Reviews
-
-TODO Recordings, decks, and issue links
 
 ## Helpful Handbook Pages and Internal Google Drive Links
 
@@ -492,4 +468,8 @@ TODO List of bookmarks
 
 ## Additional Resources
 
-TODO placeholder
+- [Field Enablement Handbook Page](/handbook/sales/field-operations/field-enablement/)  
+- [Sales Training](/handbook/sales/training/)
+- [O'Reilly](https://learning.oreilly.com/home/). Contact your manager for a license.
+- [Communities of Practice](/handbook/customer-success/initiatives/communities-of-practice)
+- [Learn at GitLab](https://about.gitlab.com/learn/)
