@@ -152,13 +152,13 @@ Recurring socially inappropriate behavior.
 
 Major infraction, including retaliation, or recurring socially inappropriate behavior after a written admonition.
 
-- Termination of contract
+- Termination of employment
 
 ### Level 4
 
 Serious cases, including any criminal offence.
 
-- Termination of contract
+- Termination of employment
 - Reported to the Police/Authorities
 
 ## Training & Guidance
