@@ -214,7 +214,7 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 <details>
 <summary markdown="span">Sharing Feedback</summary>
 
-Over time, the GitLab Value Framework and associated content above will iterate and evolve. To ensure these changes are easily consumable, iterations will be made on a predictable cadence. We will start with a quarterly cadence. 
+Over time, the GitLab Value Framework and associated content above will iterate and evolve. To ensure these changes are easily consumable, iterations will be made on a predictable cadence. We will start with a quarterly cadence. We track issues on this [VFF issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/boards/1626195). 
 *  At the start of the last month of a fiscal quarter, Field Enablement will announce a Call for Feedback to solicit input/feedback on suggested iterations and improvements to the GitLab Value Framework and associated content (but feedback may be submitted at any time)
 *  To share feedback, submit an issue using [**this issue template**](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=value-framework-feedback)  
 *  Field Enablement and Product Marketing leadership will review feedback during the middle of the first month of a new quarter. Additional stakeholders and subject matter experts will be pulled in as appropriate.
