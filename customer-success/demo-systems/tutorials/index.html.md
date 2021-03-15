@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Systems Tutorials"
+description: "The GitLab Demo Systems tutorials provide step-by-step instructions for accessing and using our infrastructure and related business processes."
 ---
 
 ## On this page

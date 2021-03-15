@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Getting Started Tutorials"
+description: "The GitLab Demo Systems getting started tutorials provide step-by-step instructions for accessing and using our infrastructure and related business processes."
 ---
 
 ## On this page
