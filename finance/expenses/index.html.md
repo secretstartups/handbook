@@ -19,24 +19,14 @@ GitLab utitilizes Expensify as our team member expense reimbursement tool. All t
 
 Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://community.expensify.com/discussion/5922/deep-dive-day-1-with-expensify-for-submitters/p1?new=1).
 
-### Redacting Personal Information from Receipts
+### Redacting Personal Information from Receipts - A Caution
+As the service does not require your personal information in order to process the reimbursement, we encourage you to redact your personal information before uploading receipts to protect your privacy. Managers should relay this caution to your team members but we will no longer deny the expense report if receipt images contain personal information.
 
-As the service does *not* require your personal information in order to process the reimbursement, **please redact your personal information before uploading receipts** to protect your privacy. Managers should verify receipt images do not contain personal information prior to approving the expense request. Any receipts containing personal information should be rejected and sent back to be corrected. Personal information includes:
-* Your shipping and billing address(es)
-* Your credit card information
-* Your full name
-* Any other data that is personal to you that you would not want publicly known
-
+Your shipping and billing address(es)
+Your credit card information
+Your full name
+Any other data that is personal to you that you would not want publicly known
 At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
-
-<details>
-<summary>Instructions for redacting information</summary>
-The best way to capture only the necessary receipt information is to take a screenshot of your receipt that includes only the items purchased and total amount. On your Mac, you can press the <b>Command + Shift + 4</b> keys, which will turn the mouse pointer into a crosshair. Click and drag with the crosshair to take a screenshot. The screenshot is automatically saved to your desktop and can be uploaded to your expense report.
-<br>
-Alternatively, the Preview application built in to macOS offers a redaction tool that is hidden away in the Markup toolbar when viewing a PDF. When used, this will permanently delete any content marked for redaction when the PDF is saved allowing for it to then be securely uploaded to your expense report.
-<br>
-If you are updating a rejected submission, you can replace the previous receipt by dragging and dropping the updated receipt onto the previously existing one in Expensify.  You do not need to delete and re-create the expense.
-</details>
 
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
 
