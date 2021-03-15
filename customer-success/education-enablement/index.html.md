@@ -135,6 +135,7 @@ To align our education and enablement with our product, each of the topics below
     <ul>
     <li><a href="https://about.gitlab.com/stages-devops-lifecycle/create/">Create Stage Overview</a></li>
     <li><a href="https://about.gitlab.com/direction/dev/#create">Create Stage Direction and Roadmap</a></li>
+    </ul>
 </td>
 <td>
     <!-- Associate -->
