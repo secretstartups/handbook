@@ -67,7 +67,7 @@ To align our education and enablement with our product, each of the topics below
 <tbody>
 <!-- DevOps Sections -->
 <tr>
-<th>DevOps Sections</th>
+<th><a name="devops-sections">DevOps Sections</a></th>
 <td>
     <!-- Foundations -->
     <ul>
@@ -79,17 +79,15 @@ To align our education and enablement with our product, each of the topics below
 <td>
     <!-- Associate -->
 </td>
-<td>
-    <!-- Professional -->
-</td>
 </tr>
 <!-- Manage Stage -->
 <tr>
-<th>Manage Stage</th>
+<th><a name="manage-stage">Manage Stage</a></th>
 <td>
     <!-- Foundations -->
     <ul>
     <li><a href="https://about.gitlab.com/stages-devops-lifecycle/manage/">Manage Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/dev/#manage">Manage Stage Direction and Roadmap</a></li>
     </ul>
 </td>
 <td>
@@ -105,17 +103,15 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://docs.gitlab.com/ee/administration/audit_reports.html">Audit Reports Feature Docs</a></li>
     </ul>
 </td>
-<td>
-    <!-- Professional -->
-</td>
 </tr>
 <!-- Plan Stage -->
 <tr>
-<th>Plan Stage</th>
+<th><a name="plan-stage">Plan Stage</a></th>
 <td>
     <!-- Foundations -->
     <ul>
     <li><a href="https://about.gitlab.com/stages-devops-lifecycle/plan/">Plan Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/dev/#plan">Plan Stage Direction and Roadmap</a></li>
     </ul>
 </td>
 <td>
@@ -132,17 +128,15 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://docs.gitlab.com/ee/user/project/issues/design_management.html">Design Management Feature Docs</a></li>
     </ul>
 </td>
-<td>
-    <!-- Professional -->
-</td>
 </tr>
 <!-- Create Stage -->
 <tr>
-<th>Create Stage</th>
+<th><a name="create-stage">Create Stage</a></th>
 <td>
     <!-- Foundations -->
     <ul>
     <li><a href="https://about.gitlab.com/stages-devops-lifecycle/create/">Create Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/dev/#create">Create Stage Direction and Roadmap</a></li>
 </td>
 <td>
     <!-- Associate -->
@@ -168,24 +162,22 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://gitlab.com/gitlab-org/gitaly">Gitaly Source Code Project</a></li>
     </ul>
 </td>
-<td>
-    <!-- Professional -->
-</td>
 </tr>
 <!-- Verify Stage -->
 <tr>
-<th>Verify Stage</th>
+<th><a name="verify-stage">Verify Stage</a></th>
 <td>
     <!-- Foundations -->
     <ul>
     <li><a href="https://about.gitlab.com/stages-devops-lifecycle/verify/">Verify Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/ops/#verify">Verify Stage Direction and Roadmap</a></li>
     <li><a href="https://youtube.com/playlist?list=PL05JrBw4t0Ko-mJZLo2uF3aQQuBfBaSKB">CI YouTube Playlist</a></li>
     </ul>
 </td>
 <td>
     <!-- Associate -->
     <ul>
-    <li><a href="https://about.gitlab.com/product/continuous-integration/">Continuous Integration (CI) Solution Overview</a><br />
+    <li><a href="https://about.gitlab.com/product/continuous-integration/">Continuous Integration (CI) Feature Overview</a><br />
     <ul>
     <li><a href="https://docs.gitlab.com/ee/ci/">CI/CD Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/introduction/">CI/CD Concepts Docs</a></li>
@@ -211,136 +203,157 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/">Merge Trains Feature Docs</a></li>
     </ul>
 </td>
+</tr>
+<tr>
+<th><a name="package-stage">Package Stage</a></th>
 <td>
-    <!-- Professional -->
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/package/">Package Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/package/">Package Stage Direction and Roadmap</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <li><a href="https://docs.gitlab.com/ee/user/packages/package_registry/">Package Registry Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/packages/container_registry/">Container Registry Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/packages/container_registry/#use-the-container-registry-to-store-helm-charts">Helm Chart Registry Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/packages/dependency_proxy/">Dependency Proxy Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/direction/package/#dependency-firewall">Dependency Firewall Direction and Roadmap</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/releases/#release-evidence">Release Evidence Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/administration/lfs/manage_large_binaries_with_git_lfs.html">Git LFS - Feature Docs</a></li>
+    </ul>
+</td>
+</tr>
+<tr>
+<th><a name="release-stage">Release Stage</a></th>
+<td>
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/release/">Release Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/release">Release Stage Direction and Roadmap</a></li>
+    <li><a href="https://about.gitlab.com/resources/ebook-single-app-cicd/">CI/CD eBook</a></li>
+    <li><a href="https://about.gitlab.com/blog/2017/03/13/ci-cd-demo/">CI/CD YouTube Demo Overview</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <li><a href="https://about.gitlab.com/product/continuous-delivery/">Continuous Delivery Feature Overview</a>
+    <ul>
+    <li><a href="#verify-stage">See verify stage for full list of CI/CD resources</a></li>
+    </ul>
+    </li>
+    <li><a href="https://about.gitlab.com/product/pages/">Pages Feature Overview</a>
+    <ul>
+    <li><a href="https://about.gitlab.com/direction/release/pages">Pages Feature Direction and Roadmap</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/pages/">Pages Feature Docs</a></li>
+    </ul>
+    </li>
+    <li><a href="https://about.gitlab.com/product/review-apps/">Review Apps Feature Overview</a>
+    <ul>
+    <li><a href="https://www.youtube.com/watch?v=CteZol_7pxo&feature=youtu.be">YouTube Webcast Feature Overview</a></li>
+    <li><a href="https://gitlab.com/groups/gitlab-org/-/epics/495">Review Apps Direction and Roadmap</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/review_apps/">Review Apps Feature Docs</a></li>
+    </ul>
+    </li>
+    <li><a href="https://docs.gitlab.com/ee/topics/autodevops/index.html#incremental-rollout-to-production-premium">Advanced Deployments Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/operations/feature_flags.html">Feature Flags Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/releases/">Release Orchestration Feature Docs</a></li>
+    </ul>
+</td>
+</tr>
+<tr>
+<th><a name="configure-stage">Configure Stage</a></th>
+<td>
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/configure/">Configure Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/configure/">Configure Stage Direction and Roadmap</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <!--<li><a href="#"></a></li>-->
+    <li><a href="https://about.gitlab.com/product/auto-devops/">Auto DevOps Feature Overview</a></li>
+    <li><a href="https://docs.gitlab.com/ee/topics/autodevops/">Auto DevOps Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/solutions/kubernetes/">Kubernetes Management Feature Overview</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/variables/">Secrets Management CI Variable Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/ci/chatops/">ChatOps Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/product/serverless/">Serverless Feature Overview</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/infrastructure/">Infrastructure-as-Code Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/clusters/cost_management.html">Cluster Cost Management Feature Docs</a></li>
+    </ul>
+</td>
+</tr>
+<tr>
+<th><a name="monitor-stage">Monitor Stage</a></th>
+<td>
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/monitor/">Monitor Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/monitor/">Monitor Stage Direction and Roadmap</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <li><a href="https://docs.gitlab.com/ee/user/project/clusters/runbooks/">Runbooks Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/operations/metrics/">Metrics Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/operations/incident_management/">Incident Management Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/clusters/kubernetes_pod_logs.html#kubernetes-pod-logs">Logging Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/operations/tracing.html">Tracing Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/operations/error_tracking.html">Error Tracking Feature Docs</a></li>
+    <li><a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/8338">Synthetic Monitoring Direction and Roadmap</a></li>
+    <li><a href="https://docs.gitlab.com/ee/operations/product_analytics.html">Product Analytics Feature Docs</a></li>
+    </ul>
+</td>
+</tr>
+<tr>
+<th><a name="secure-stage">Secure Stage</a></th>
+<td>
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/secure/">Secure Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/secure/">Secure Stage Direction and Roadmap</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <!--<li><a href="#"></a></li>-->
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/sast/">Static Application Security Testing (SAST) Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/dast/">Dynamic Application Security Testing (DAST) Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/">Fuzz Testing Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/dependency_scanning/">Dependency Scanning Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/license_compliance/">License Compliance Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/secret_detection/">Secret Detection Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/security_dashboard/">Vulnerability Management Feature Docs</a></li>
+    </ul>
+</td>
+</tr>
+<tr>
+<th><a name="protect-stage">Protect Stage</a></th>
+<td>
+    <!-- Foundations -->
+    <ul>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/protect/">Protect Stage Overview</a></li>
+    <li><a href="https://about.gitlab.com/direction/protect/">Protect Stage Direction and Roadmap</a></li>
+    </ul>
+</td>
+<td>
+    <!-- Associate -->
+    <ul>
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/container_scanning/">Container Scanning Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/application_security/threat_monitoring/#configuring-network-policy-alerts">Security Orchestration Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/clusters/protect/container_host_security/index.html">Container Host Security Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/project/clusters/protect/container_network_security/index.html">Container Network Security Feature Docs</a></li>
+    </ul>
 </td>
 </tr>
 
-</tbody>
-</table>
-
-### Ops Section
-
-<table>
-<thead>
-<tr>
-<th>Knowledge Level</th>
-<th>Verify</th>
-<th>Package</th>
-<th>Release</th>
-<th>Configure</th>
-<th>Monitor</th>
-</thead>
-<tbody>
-<tr>
-<th>Foundations</th>
-<td colspan="5">[Ops Section Training]()</td>
-</tr>
-<tr>
-<th>Associate</td>
-<td>
-[Verify Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/verify/)<br />
-[Verify Stage Training]()<br />
-</td>
-<td>
-[Package Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/package/)<br />
-[Package Stage Training]()<br />
-</td>
-<td>
-[Release Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/release/)<br />
-[Release Stage Training]()<br />
-</td>
-<td>
-[Configure Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/configure/)<br />
-[Configure Stage Training]()<br />
-</td>
-<td>
-[Monitor Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/monitor/)<br />
-[Monitor Stage Training]()<br />
-</td>
-</tr>
-<tr>
-<th>Professional</th>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-</tr>
-<tr>
-<th>Expert</th>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-</tr>
-</tbody>
-</table>
-
-### Secure Section
-
-<table>
-<thead>
-<tr>
-<th>Secure</th>
-<th>Protect</th>
-<th>
-</thead>
-<tbody>
-<tr>
-<th>Foundations</th>
-<td colspan="2">[Secure Section Training]()</td>
-</tr>
-<tr>
-<th>Associate</td>
-<td>
-[Secure Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/secure/)<br />
-[Secure Stage Training]()<br />
-</td>
-<td>
-[Protect Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/protect/)<br />
-[Protect Stage Training]()<br />
-</td>
-</tr>
-<tr>
-<th>Professional</th>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-</tr>
-<tr>
-<th>Expert</th>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-<td>
-TODO
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -368,50 +381,61 @@ TODO Kubernetes, Openshift, Docker
 <th>Foundations</th>
 <th>Associate</th>
 <th>Professional</th>
-<th>Expert</th>
 </tr>
+<!-- HashiCorp Terraform -->
 <tr>
-<th>HashiCorp Terraform</th>
+<th><a name="hashicorp-terraform">HashiCorp Terraform</a></th>
 <td>
-[Hashicorp Learn Tutorials](https://learn.hashicorp.com/terraform)<br />
-[GitLab Terraform Integration Docs](https://docs.gitlab.com/ee/user/infrastructure/)<br />
+<ul>
+<li><a href="https://learn.hashicorp.com/terraform">Hashicorp Learn Tutorials</a></li>
+<li><a href="https://docs.gitlab.com/ee/user/infrastructure/">GitLab Terraform Integration Docs</a></li>
+</ul>
 </td>
 <td>
-[Terraform Docs](https://www.terraform.io/docs/index.html)<br />
-[Terraform AWS Provider Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)<br />
-[Terraform GCP Provider Docs](https://registry.terraform.io/providers/hashicorp/google/latest/docs)<br />
-[Terraform GitLab Provider Docs](https://registry.terraform.io/providers/gitlabhq/gitlab/latest/docs)<br />
-[GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started)<br />
-[GitLab Demo Systems Terraform Modules](https://gitlab.com/gitlab-com/demo-systems/terraform-modules)
+<ul>
+<li><a href="https://www.terraform.io/docs/index.html">Terraform Docs</a></li>
+<li><a href="https://registry.terraform.io/providers/hashicorp/aws/latest/docs">Terraform AWS Provider Docs</a></li>
+<li><a href="https://registry.terraform.io/providers/hashicorp/google/latest/docs">Terraform GCP Provider Docs</a></li>
+<li><a href="https://registry.terraform.io/providers/gitlabhq/gitlab/latest/docs">Terraform GitLab Provider Docs</a></li>
+<li><a href="https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started">GitLab Sandbox Cloud</a></li>
+<li><a href="https://gitlab.com/gitlab-com/demo-systems/terraform-modules">GitLab Demo Systems Terraform Modules</a></li>
+</ul>
 </td>
 <td>
-[Terraform Associate Certification](https://www.hashicorp.com/certification/terraform-associate)<br />
-</td>
-<td>
-TODO
+<ul>
+<li><a href="https://www.hashicorp.com/certification/terraform-associate">Terraform Associate Certification</a></li>
+</ul>
 </td>
 </tr>
+<!-- HashiCorp Vault -->
 <tr>
-<th>HashiCorp Vault</th>
+<th><a name="hashicorp-vault">HashiCorp Vault</a></th>
 <td>
-[Hashicorp Learn Tutorials](https://learn.hashicorp.com/terraform)<br />
+<ul>
+<li><a href="https://learn.hashicorp.com/terraform">Hashicorp Learn Tutorials</a></li>
+</ul>
 </td>
 <td>TODO</td>
 <td>
-[Vault Associate Certification](https://www.hashicorp.com/certification/vault-associate)<br />
+<ul>
+<li><a href="https://www.hashicorp.com/certification/vault-associate">Vault Associate Certification</a></li>
+</ul>
 </td>
-<td>TODO</td>
 </tr>
+<!-- HashiCorp Consul -->
 <tr>
-<th>HashiCorp Consul</th>
+<th><a name="hashicorp-consul">HashiCorp Consul</a></th>
 <td>
-[Hashicorp Learn Tutorials](https://learn.hashicorp.com/consule)<br />
+<ul>
+<li><a href="https://learn.hashicorp.com/consule">Hashicorp Learn Tutorials</a></li>
+</ul>
 </td>
 <td>TODO</td>
 <td>
-[Consul Associate Certification](https://www.hashicorp.com/certification/consul-associate)<br />
+<ul>
+<li><a href="https://www.hashicorp.com/certification/consul-associate">Consul Associate Certification</a></li>
+</ul>
 </td>
-<td>TODO</td>
 </tr>
 </table>
 
