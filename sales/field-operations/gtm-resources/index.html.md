@@ -200,7 +200,12 @@ This field inherits data from other fields in the following priority:
 **Understanding Account Assignment, Rules and Definitions**
 
 1. **Source of Data:** The data sources used to properly segment and route an account are defined and explained in the [Territory Success Planning (TSP)](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain `Unknown` until resolved through manual research and a link to reputable data is provided to the Sales Operations team to confirm. Follow the process to [request changes to the TSP inputs](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) if missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as `SMB` with a placeholder of `-1` employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process.
-1. **Account Ownership:** Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Locally Managed`, `Strategic Account`, `Holdover` or `Holding Company`. 
+1. **Account Ownership:** 
+    1. Only active Field Sales (AE/SAL) members can own accounts.  The exceptions to this rule include:
+        1. Field Sales Management temporarily covering an account
+        1. Sales Admin - ownership is temporary while our data enrichment tools determine the correct Sales member
+        1. Non-Sales members who own "test" or "junk" accounts 
+    1. Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Locally Managed`, `Strategic Account`, `Holdover` or `Holding Company`. 
 1. **Parent/Child Segmentation:** All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
 1. **Named Account:** Defined as an account that is owned by a Named Account Rep, regardless of corporate headquarters. Named accounts are identified by the `Named Account` Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
 This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
@@ -279,6 +284,17 @@ Accounts will still be reviewed annually prior to the Fiscal Year planning proce
 1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilzied the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
 
  </details>
+
+### Opportunity Ownership Rules of Engagement 
+1. **Opportunity Ownership:** 
+    1. Only active Field Sales (AE/SAL) members can own opportunities. The exceptions to this rule include:
+        1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
+        1. **Reseller opportunities**: which can be owned by the AE/SAL or channel manager
+    1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
+        1. Those noted in the aforementioned section
+        1. Holdover opportunities or accounts
+        1. When an ISR or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
+
 
 ### Account Sources, Routing and Other Requirements
 
