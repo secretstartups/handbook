@@ -141,7 +141,7 @@ During the change lock period, manual deployment can be triggered through GitLab
 
 Deployments to production will be blocked by the following events:
 
-1. An [active severity::1, severity::2 or severity::3 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
+1. An [active severity::1 or severity::2 incident](/handbook/engineering/infrastructure/incident-management/#labeling).
 1. Ongoing [change issues with C1 and C2 criticality](/handbook/engineering/infrastructure/change-management/#change-criticalities).
 1. New exceptions in [Sentry reported in the canary environment](https://sentry.gitlab.net/gitlab/gitlabcom/).
 
