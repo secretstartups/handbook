@@ -156,6 +156,8 @@ Below are potential team day activities:
 - [Drawasaurus](https://www.drawasaurus.org/) - Free!
 - [City Guesser](https://virtualvacation.us/guess) - Free!
 - [Escape Rooms](https://brainchase.com/escape-rooms-for-parties-events/) - Small fee based on team size
+- [Online Multiplayer](https://jigsawpuzzles.io/) [Jigsaw Puzzles](https://www.jigsawexplorer.com/) – Free!
+- [Card & Board Game "Table"](https://playingcards.io/) – Free!
 
 ## Learning Speaker Series - Building Trust with Remote Teams
 
