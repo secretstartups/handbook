@@ -189,10 +189,10 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	US East	|	MM-AMER-EAST-NE	|	Michael Miranda	|
 |	NA East	|	US East	|	MM-AMER-EAST-SE	|	Jenny Kline	|
 |	NA East	|	US East	|	MM-AMER-EAST-Southeast	|	Daniel Parry	|
-|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Laura Shand	|
+|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Doug Robbin*	|
 |	NA West	|	US West	|	MM-AMER-WEST-NorCal	|	Brooke Williamson	|
 |	NA West	|	US West	|	MM-AMER-WEST-NW	|	Brooke Williamson	|
-|	NA West	|	US West	|	MM-AMER-WEST-SF	|	Laura Shand	|
+|	NA West	|	US West	|	MM-AMER-WEST-SF	|	Brooke Williamson*	|
 |	NA West	|	US West	|	MM-AMER-WEST-SoCal	|	Douglas Robbin	|
 
 #### APAC
@@ -329,3 +329,4 @@ For the detailed breakdown of how the territories are mapped please reference th
 | ---------- | ---- | -------------- | ----- | 
 |	AMER	|	US West	|	SMB-AMER-West-FO	|	Todd Lauver	|
 
+Note - An asterisk(*) next to the sales name indicates temporary coverage
