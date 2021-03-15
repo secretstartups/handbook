@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Disaster Recovery Plan
+description: Learn more about People Specialist and People Experience Teams disaster recovery plan.
+---
+
 ## Disaster Recovery Plan
 
 When a natural disaster or weather event occurs in a location that is near the home of a team member, the People Specialist and People Experience Teams (known as the People Operations Team) will send a notification email to all relevant team members, using the [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/natural_disaster_notification.md) found in the People Group project.   
