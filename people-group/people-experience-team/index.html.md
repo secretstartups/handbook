@@ -64,7 +64,7 @@ The following factors will also be taken into consideration:
 
 **The Rotation groups are listed as follows:**
 
-- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / GSuite License Reminder
+- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / GSuite License Reminder/ Printfection Report
 - BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
 
 - I-9 Administration / Pruning of Stale Records (TBD)
@@ -256,6 +256,20 @@ When a team member completes the GitLab gift form request, the People Experience
 
 **Swag** Gift Requests 
 If a swag gift is requested (.i.e. a GitLab onesie) email merch@gitlab.com for a code to get one. said swag. Please do not order one from the store and expense. These expenses will get rejected if they are found by finance. 
+
+### Printfection Report for New Hire Swag
+
+When a new team member starts, the New Hire Swag email is sent with a link to Printfection where new team members can order their swag. To keep track of the orders, the PEA will run a weekly report on Friday's. Please see the below steps on how to process the report:
+
+- Log into Printfection 
+- Click Report at the top right corner
+- Select Run Orders Report
+- Select "Welcome New Hire" from the drop down on the left hand side of the page under Campaign
+- Click Generate Report at the top of the page
+- You can download the report as a CSV and compare the report to the new hires for the week on the Onboarding tab of the People Operations/People Experience Associate tracker.
+
+Should the PEA find any abuse of the link, they will need to report to the Manager, People Operations as well as the Senior Manager of Brand Activation. 
+
 
 ### Scheduling Group Conversations 
 
