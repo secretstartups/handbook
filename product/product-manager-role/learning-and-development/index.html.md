@@ -293,7 +293,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+[Paul Graham: Write Simply](http://paulgraham.com/simply.html)
 
 ##### Deeper dive
 
