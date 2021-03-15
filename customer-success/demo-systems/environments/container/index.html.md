@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Container Sandbox"
+description: "The GitLab Demo Systems container environment handbook pages provides an overview of how our cluster infrastructure is configured and has answers to frequently asked questions."
 ---
 
 ## On this page

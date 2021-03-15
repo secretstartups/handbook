@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "EKS Container Sandbox"
+description: "The GitLab Demo Systems EKS container environment handbook pages provides an overview of how our AWS cluster infrastructure is configured and has answers to frequently asked questions."
 ---
 
 ## On this page

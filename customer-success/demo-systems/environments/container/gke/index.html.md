@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GKE Container Sandbox"
+description: "The GitLab Demo Systems GKE container environment handbook pages provides an overview of how our GCP cluster infrastructure is configured and has answers to frequently asked questions."
 ---
 
 ## On this page
