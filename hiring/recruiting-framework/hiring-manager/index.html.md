@@ -106,6 +106,8 @@ You should not ask any questions about the person's race, gender, sexual prefere
 - Who watches their children while they are at work?
 - What types of groups does the candidate belong to that are not work related?
 
+[Use our guide to scoring](https://about.gitlab.com/handbook/hiring/conducting-a-gitlab-interview/#all-divisions-but-engineering) to help select the vote you choose when submitting a scorecard for each reference check. 
+
 #### Reference Check Review
 All reference check feedback should be entered into Greenhouse using the Reference Checks scorecard. To add this information, go to the candidate's profile, make sure they are in the "Reference Checks" stage, and click "Collect Feedback".
 
