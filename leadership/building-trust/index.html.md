@@ -149,6 +149,17 @@ Below are potential team day activities:
 1. Organize a [Walk and talk](https://about.gitlab.com/handbook/communication/#walk-and-talk-calls) social chat, a team 5k walk or run, or some other kind challenge to get your body moving.
 1. Create Slack social threads to solve riddles, play a trivia game, post GIFs to represent your day, and share photos.
 
+#### More Ideas for Activities
+- [Battleship](https://battleship-teams.com/) - Free!
+- [Among Us](https://innersloth.com/gameAmongUs.php) - Free, multiple platforms.
+- [Drawphone](https://rocketcrab.com/game/drawphone) - Free!
+- [Drawasaurus](https://www.drawasaurus.org/) - Free!
+- [City Guesser](https://virtualvacation.us/guess) - Free!
+- [Escape Rooms](https://brainchase.com/escape-rooms-for-parties-events/) - Small fee based on team size
+- [Jackbox](https://www.jackboxgames.com/) - Small fee for each pack. Only the host needs to own the game.
+- [Online Multiplayer](https://jigsawpuzzles.io/) [Jigsaw Puzzles](https://www.jigsawexplorer.com/) – Free!
+- [Card & Board Game "Table"](https://playingcards.io/) – Free!
+
 ## Learning Speaker Series - Building Trust with Remote Teams
 
 On 2020-11-19, the L&D team launched our first [learning speaker series](/handbook/people-group/learning-and-development/learning-initiatives/#learning-speaker-series-overview) on Building Trust with Remote Teams. We hosted [Dr. Jeb Hurley](https://onehabit.blog/building-trust-remote-teams/), CEO and Co-Founder of [Xmetryx](https://www.xmetryx.com/) to discuss how strategies and tips on how to build trust in a remote setting. The discussion was a [fireside chat](https://docs.google.com/document/d/17ziw6q-nioyzYGnnIa9LM1G3I4DwYfb2UxwN9XceFxg/edit) format where Dr. Hurley shared what remote team members can do to meaure trust on their teams.
