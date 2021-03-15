@@ -156,6 +156,7 @@ Below are potential team day activities:
 - [Drawasaurus](https://www.drawasaurus.org/) - Free!
 - [City Guesser](https://virtualvacation.us/guess) - Free!
 - [Escape Rooms](https://brainchase.com/escape-rooms-for-parties-events/) - Small fee based on team size
+- [Jackbox](https://www.jackboxgames.com/) - Small fee for each pack. Only the host needs to own the game.
 - [Online Multiplayer](https://jigsawpuzzles.io/) [Jigsaw Puzzles](https://www.jigsawexplorer.com/) – Free!
 - [Card & Board Game "Table"](https://playingcards.io/) – Free!
 
