@@ -302,7 +302,7 @@ If they choose not to then the departing team member's manager shares the follow
 
 If someone is let go involuntarily, this generally cannot be shared since it affects the individual's privacy and job performance is intentionally kept [between an
 individual and their manager](/handbook/communication/#not-public).
-Unless it's for extreme behaviour/gross misconduct, the team member will be advised the areas of concern about their performance, given support and guidance on how to improve and provided with an appropriate timeframe to reach and sustain the expectations.
+
 
 If you are not close to an employee's offboarding, it may seem unnecessarily swift.
 Please remember that these decisions are never made without following the above process to come to a positive resolution first - we need to protect the interests of the individual as well as the company, and offboarding are a last resort.
