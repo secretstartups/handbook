@@ -354,6 +354,20 @@ To align our education and enablement with our product, each of the topics below
 </tr>
 </table>
 
+## GitLab Training and Certification Program
+
+### Professional Services Classes
+
+Individual GitLab team members can request to audit a customer-facing training sessions delivered by Professional Services. Internal GitLab team leads can request training sessions delivered by Professional Services for their teams.
+
+To learn more, see the [Working with Professional Services handbook page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#requesting-training-for-gitlab-team-members).
+
+### GitLab Technical Certifications
+
+GitLab offers technical certifications to help the GitLab community and team members validate their ability to apply GitLab in their daily DevOps work. To earn certification, candidates must first pass a written assessment, followed by a hands-on lab assessment graded by GitLab Professional Services engineers.
+
+To learn more, see the [GitLab Technical Certifications handbook page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/).
+
 ## Industry Topics
 
 ### Cloud Infrastructure
@@ -436,7 +450,6 @@ TODO Packer, Ansible, Chef, Puppet
 
 TODO OWASP, Tenable, etc. 
 
-
 ## Demo Readiness
 
 Getting started demos for baseline proficiency. Learn more on the [Demo Readiness](/handbook/customer-success/solutions-architects/demonstrations/#demo-readiness) page 
@@ -445,22 +458,19 @@ Getting started demos for baseline proficiency. Learn more on the [Demo Readines
 
 TODO Table of all sample projects and video walk through demos
 
-
 ## Enablement Events and Async Recordings
 
 ### Customer Success Skills Exchange
 
-The Field Enablement Team hosts a 50 min weekly webinar focused on topics relevant to the Customer Success Team. To learn more, view the upcoming schedule, or check out a recording go to the [CS Skills Exchange](/handbook/sales/training/customer-success-skills-exchange/) page 
+The Field Enablement Team hosts a 50 min weekly webinar focused on topics relevant to the Customer Success Team. To learn more, view the upcoming schedule, or check out a recording go to the [CS Skills Exchange handbook page](/handbook/sales/training/customer-success-skills-exchange/). 
 
 ### Sales Enablement Level Up
 
-The Field Enablement Team hosts a weekly 30 minute webinar focused on topics relevant to the entire Field Team. To learn more, view the upcoming scheudle, or check out a recording go to the [Sales Level Up Webinar](/handbook/sales/training/sales-enablement-sessions/) page 
+The Field Enablement Team hosts a weekly 30 minute webinar focused on topics relevant to the entire Field Team. To learn more, view the upcoming scheudle, or check out a recording go to the [Sales Level Up Webinar handbook page](/handbook/sales/training/sales-enablement-sessions/). 
 
 ### Command of Message & MEDDPPICC
 
-GitLab uses ForceManagement's Command of Message and MEDDPPICC as our sales methodology. You can familiarize yourself with the kep components and messaging on [CoM](/handbook/sales/command-of-the-message/) page 
-
-
+GitLab uses ForceManagement's Command of Message and MEDDPPICC as our sales methodology. You can familiarize yourself with the kep components and messaging on [Command of Message handbook page](/handbook/sales/command-of-the-message/).
 
 ## Helpful Handbook Pages and Internal Google Drive Links
 
