@@ -1,0 +1,105 @@
+---
+layout: handbook-page-toc
+title: Package Group - GitLab Quality Assurance End-to-End Testing for the Package group
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+The goal of this page is to document how the package group uses the [GitLab QA framework](https://gitlab.com/gitlab-org/gitlab-qa) ([video walkthrough](https://www.youtube.com/watch?v=eP1esI-o_0o)) to implement and run [end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/).
+
+### Why do we have them
+
+> End-to-end testing is a strategy used to check whether your application works as expected across the entire software stack and architecture, including the integration of all micro-services and components that are supposed to work together.
+
+This is particularly true for a group that works with several services such as the [Container Registry](https://about.gitlab.com/direction/package/#container-registry), and the uploading of packages to a [Package Registry](https://about.gitlab.com/direction/package/#package-registry). These tests use the software as a user would and without mocking component dependencies.
+The testing strategy for [this level of the pyramid](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html) can be found under the [Package QA Test Suite](https://gitlab.com/groups/gitlab-org/-/epics/5082) epic.
+
+### When and where do we run them
+
+**Any time** - This can be done either locally in [GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/README.md) or by triggering a pipeline on a specific environment (Staging, Nightly, Canary, etc).
+
+**Merge Request** - The whole QA End-to-End test suite can be run on your MR by triggering manually the `package-and-qa` job.
+
+**Scheduled Pipelines** - [Schedule](https://about.gitlab.com/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines).
+Package tests run in all the scheduled pipelines with the exception of sanity runs. These only run End-to-End tests that are [tagged](https://relishapp.com/rspec/rspec-core/docs/metadata/user-defined-metadata) with `:smoke` or `:reliable`.
+
+The [Container Registry](https://about.gitlab.com/direction/package/#container-registry) tests do not run on [Omnibus GitLab](https://docs.gitlab.com/omnibus/). They only run on GitLab.com environments.
+
+### Where are they
+
+In the [GitLab repository](https://gitlab.com/gitlab-org/gitlab), the End-to-End tests for the Package group are located at:
+- `qa/qa/specs/features/api/5_package` _*_
+- `qa/qa/specs/features/browser_ui/5_package`
+- `qa/qa/specs/features/ee/api/5_package` _*_
+- `qa/qa/specs/features/ee/browser_ui/5_package` _*_
+
+_* There are currently no API tests or browser UI tests for paid features (Enterprise Edition)._
+
+### How to run them locally
+
+To test against your local GDK, first make sure:
+- Environment variables are correctly set
+	- `QA_DEBUG` is set to **true** so the debug logs are enabled
+	- `CHROME_HEADLESS` is set to **false** so you can see the test run in an automated browser
+- GDK is up and running
+	- and using a [loopback interface](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/index.md#create-loopback-interface-for-gdk) to be able to use a runner in a docker container
+	- [hostname mapped to the loopback interface](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/index.md#set-up-gdktest-hostname)
+
+To run the tests:
+1. On the terminal, go to `path-to-your-gdk/gitlab/qa`
+1. Issue the command:
+	1. To run all the tests for free features: `bundle exec bin/qa Test::Instance::All http://gdk.test:3000 -- qa/specs/features/browser_ui/5_package --tag orchestrated --tag packages`
+	1. To run all the tests for paid features: `bundle exec bin/qa Test::Instance::All http://gdk.test:3000 -- qa/specs/features/ee/browser_ui/5_package --tag orchestrated --tag packages` (currently there are no tests for paid features)
+	1. To run all the API tests for free features: *currently there are no API tests for free features **at the End-to-End level***
+	1. To run all the API tests for free features: *currently there are no API tests for paid features **at the End-to-End level***
+
+**Note:** The command above is targeting `http://gdk.test:3000` which should be changed according to your hostname mapped to the loopback interface.
+
+### FAQ
+
+#### What does the command do?
+- `Test::Instance::All` refers to the test scenario `Instance::All`. A test scenario is a statement describing the functionality of the application to be tested.
+These [are created on the GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/-/tree/master/lib/gitlab/qa/scenario/test) orchestration tool to define and compose
+all the necessary pre-conditions that a GitLab instance must have in order to be tested. `All` is just simply running all the tests without pre-configuring a GitLab
+instance as we are using our GDK as the GitLab instance under test.
+- `http://gdk.test:3000` is the hostname of the GitLab instance under test. When running locally is the hostname of the GDK.
+- `qa/specs/features/browser_ui/5_package` is the path to the folder where non-paid package features are.
+- `--tag orchestrated --tag packages` are [RSpec metadata](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/rspec_metadata_tests.html#rspec-metadata-for-end-to-end-tests) used for filtering tests.
+Particularly useful when running on pipelines, but they also need to be included when running locally since they act as a filter for running `:packages` related tests only.
+
+#### Can I run the Container Registry tests locally?
+Unfortunately, not at the moment. Container Registry tests are now only running on GitLab.com environments and not against the GDK.
+However, it is possible to run Container Registry tests targeting a specific GitLab.com environment such as `staging.gitlab.com`. This is only useful when
+doing local modifications to the test scripts. The environment variables will need to be adjusted with the credentials to access Staging and these need to
+be requested from the counterpart SET as they are confidential. An example:
+
+```GITLAB_USERNAME=<staging-username> GITLAB_PASSWORD=<staging-password> bundle exec bin/qa Test::Instance::All https://staging.gitlab.com -- qa/specs/features/browser_ui/5_package/container_registry_spec.rb  --tag packages```
+
+#### I triggered package-and-qa. Where do I find the tests?
+If you have an MR and want to make sure it is running the End-to-End tests, please trigger the manual `package-and-qa` job on the pipeline of your MR.
+Follow the downstream pipelines, and within the `gitlab-qa-mirror` pipeline, access the `packages` job to inspect the result.
+
+In Staging, or other environments [that run full tests](https://about.gitlab.com/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines), all the
+tests within the `qa/specs/features/browser_ui/5_package` folder can be found running on the `qa-triggers-browser_ui-5_package` job.
+
+#### Do we have a specific Package Test Scenario?
+Yes. The [Scenario](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md#testintegrationpackages-ceeefull-image-address) configures a GitLab Omnibus instance to have the Package Registry enabled.
+It is used when running tests on master pipelines where we can control the configuration of GitLab instances. In Staging, the Package Registry
+is enabled by default and we do not pre-configure the Staging instance.
+
+### Troubleshooting
+Please reach out to [your counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors) or in the `#quality` channel.
+
+### Helpful Documentation
+
+- [Testing Guide - End-to-End Testing](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/)
+- [GitLab QA orchestration tool](https://gitlab.com/gitlab-org/gitlab-qa)
+- [Run QA tests against your GDK setup](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/run_qa_against_gdk.md)
+- [Beginner's Guide to writing End-to-End tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/beginners_guide.html)
+

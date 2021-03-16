@@ -30,7 +30,7 @@ The package group is made up of 3 functional teams:
   - [Git LFS](https://about.gitlab.com/direction/ops/#git-lfs)
 - One frontend engineer who is primarily responsible for
   - Implementation of User Experience spanning all categories
-  
+
 
 Due to these small functional teams, the Package Group deliverables are sometimes more at risk given that there are fewer people who can help out.
 
@@ -44,12 +44,12 @@ This section details the happenings within the Package group. At any given time 
 
 ### Exciting things from 13.9
 
-- You can now automatically authenticate when using the Dependency Proxy. 
+- You can now automatically authenticate when using the Dependency Proxy.
 - A new Packages & Registries Settings page was introduced to help power the growing functionality of the registry. In 13.9, we added the ability to [allow or prevent duplicate Maven packages](https://gitlab.com/gitlab-org/gitlab/-/issues/276882). 
 
 ### Major accomplishments expected in FY22
 
-| Section:Stage:Group:Category | Three key features/jobs-to-be-done (Q1,Q2 FY22) |  Three key features/jobs-to-be-done (Q3/Q4 FY22) | 
+| Section:Stage:Group:Category | Three key features/jobs-to-be-done (Q1,Q2 FY22) |  Three key features/jobs-to-be-done (Q3/Q4 FY22) |
 | ------ | ------ | ------ |
 | Ops:Package:Package:Package Registry/Dependency Proxy | Drive dogfooding and GMAU by adding support for: [RubyGems](https://gitlab.com/groups/gitlab-org/-/epics/3200), [Lifting npm package naming conventions](https://gitlab.com/gitlab-org/gitlab/-/issues/33685) and [Debian packages](https://gitlab.com/gitlab-org/gitlab/-/issues/5835) | Help teams be more efficient by adding support for remote and virtual registries: [npm virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3608), [Maven virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3610), [NuGet virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3611) |
 | Ops:Package:Package:Container Registry | Lower the cost of storage for the registry: [Support online garbage collection](https://gitlab.com/groups/gitlab-org/-/epics/2313), [Count registry size against object storage usage](https://gitlab.com/gitlab-org/gitlab/-/issues/31039), [Enable cleanup policies by default for all projects](https://gitlab.com/gitlab-org/gitlab/-/issues/196124) | Make it easier to use the container registry: [Remove branch related images on merge](https://gitlab.com/gitlab-org/gitlab/-/issues/26983), [Use GitLab metadata to verify and troubleshoot Docker images](https://gitlab.com/gitlab-org/gitlab/-/issues/197996), [Mark container images as protected to prevent accidental overwrite/deletion](https://gitlab.com/gitlab-org/gitlab/-/issues/18984) |
@@ -269,11 +269,15 @@ To best understand how users use the GitLab package registry, when building and 
 
 The package features regularly deal with file uploads. When testing these features locally using an environment like GDK, it is recommended to test changes using the default local storage configuration, but also using a cloud service for object storage. GCP is recommended when trying to best recreate the environment GitLab.com is running. For highest confidence in features working with uploads, testing using local storage, Minio, GCP, AWS S3, and Azure is recommended. The GDK docs have [instructions on how to configure for each of these providers](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/configuration.md#object-storage-config).
 
+#### End to End Testing
+
+The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](https://about.gitlab.com/handbook/engineering/development/ops/package/quality) for how our team is leveraging these tests.
+
 ### Quality
 
 The Package team has a goal of shipping enterprise grade software with a focus on Quality. The team accomplishes this goal with the following practices:
 
-* Following GitLab's [Culture of Quality](https://about.gitlab.com/handbook/engineering/quality/#culture-of-quality_) with a focus on being champions for better software design. 
+* Following GitLab's [Culture of Quality](https://about.gitlab.com/handbook/engineering/quality/#culture-of-quality_) with a focus on being champions for better software design.
 
 * Partnering with our [Software Engineer in Test](https://about.gitlab.com/job-families/engineering/software-engineer-in-test/) stable counterparts.
 
