@@ -37,6 +37,35 @@ When we connect data from Google Sheets everyone on the DMP team needs to able t
 - [Security releases dashboard](https://datastudio.google.com/reporting/1bP748BOhYmgWRcfeoRiSCOHz7q4NUMkV/page/l7vj) — Website analytics data for security release blog posts.
 - [about.gitlab.com CrUX dashboard](https://datastudio.google.com/reporting/1f-akzELoGzJRdBFPgMTzgHPrSOshUgki/page/cJUR) — *Public* See [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report/) for definition of report dimensions. This dashboard shows CrUX data for about.gitlab.com, assembled with PageSpeed Insights and Public Google BigQuery.
 
+## Google data administration
+
+We use Google Analytics 360 and purchase this through an analytics partner agency, Empirical Path. They help us maintain a few systems for our analytics configuration. These include:
+
+- [Google Marketing Platform](https://marketingplatform.google.com/home/)
+- [Google Tag Manager](https://tagmanager.google.com/?hl=en#/home)
+- [Google Analytics](https://analytics.google.com/analytics/web/)
+
+Empirical Path helps us execute advanced Google Tag Manager and Google Analytics work, including adding custom dimensions, creating events for video plays and forms, and many other optimizations. 
+
+We also use supplmental tools to improve our understanding of how people interact with about.gitlab.com. These tools are used most heavily by our Search Marketing team:
+
+- [Google Search Console](https://search.google.com/search-console) (click data from Google Search)
+- [SEMRush](https://www.semrush.com/dashboard/) (keyword research and coverage)
+- [Sitebulb](https://sitebulb.com/) (site health and crawl)
+
+## Google Marketing Platform
+
+Google Marketing Platform is a central hub Google created to simplify managing their marketing suite. You can add/remove users and access each tool from their dashboards. It gives you admin control for
+
+- Google Ads (not currently connected)
+- Google Analytics
+- Google Tag Manager
+- Google Optimize
+- Google dataStudio (not currently managed in Google Marketing Platform)
+- Google Surveys (not currently in our marketing stack)
+
+Google Marketing Platform is also where we manage data processing agreements and amendments for our GA 360 account.
+
 ## Google Analytics flows
 
 We use events to create flows to understand how people interact with `about.gitlab.com`. The simplest flows are built-in to Google Analytics. They answer questions like
@@ -73,6 +102,9 @@ You can add a secondary dimension to the label here as well to get additional co
 
 We also use these events to fire goal conversions in Google Analytics. Goals are not always available for analysis in every GA report, so we use as a reporting mechanism for our paid demand gen activities with PMG. We can assemble detailed reports on pageviews, CTA clicks, and form conversions in dataStudio.
 
+### Grouping pages together by sub-folder
+
+A great way to look at how specific groups of pages are performing is available in the [Content Drilldown view in Google Analytics](https://analytics.google.com/analytics/web/#/report/content-drilldown/a37019925w65271535p67064032/). You start at the sub-domain level and can explore sub-folders to see which topic groups are performing well and to identify other trends.
 ### GitLab Google Tag Manager system
 
 We use Google Tag Manager(GTM) to simplify activity tracking on about.gitlab.com with Google Analytics. This documents the system the Digital Marketing Programs team uses with our Google Tag Manager container.
