@@ -133,6 +133,10 @@ The following articulates where collaboration and customer management is owned:
 1. [**Chorus**](/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
 1. [**Gainsight**](/handbook/customer-success/tam/gainsight/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
 
+### Education and Enablement
+
+As a Technical Account Manager, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+
 ## SFDC useful reports 
 
 ### Tracking oportunities for your assigned SALs

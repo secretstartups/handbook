@@ -123,6 +123,10 @@ SA's will be brought back into a customer account in the following situations
 
 ## Other Resources
 
+### Education and Enablement
+
+As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+
 ### Customer Workshops
 
 2021-01 [Skills Exchange Enablement on Customer Workshops](https://www.youtube.com/watch?v=kSbTZgPLKUE&feature=youtu.be)
