@@ -74,7 +74,7 @@ Inbound Marketing is comprised of these Marketing Teams:
 
 ### The Marketing Website
 
-GitLab's Marketing Website (about.gitlab.com) is led by the [Digital Experience Team](/handbook/marketing/inbound-marketing/digital-experience) and anyone can contribute.
+GitLab's [Marketing Website](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/) (about.gitlab.com) is led by the [Digital Experience Team](/handbook/marketing/inbound-marketing/digital-experience) and anyone can contribute.
 
 ### The Blog
 
@@ -118,10 +118,12 @@ Please fill out one of these Issue Templates to request support. Please note, if
 
 #### Website Issue Templates
 
+For more information and setting yourself up for success see tips and more information [HERE](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-support)
+
 - [Requesting a new webpage](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-new-website-brief)
     - Use this template to request new webpages related to logged-out `about.gitlab.com` and related properties such as landing pages for Marketo, Pathfactory, etc.
     - Do NOT use this for logged-in (In-App) gitlab.com or the Handbook
-    - For more information on this process click [HERE](LINK)
+    - For more information on this process click [HERE](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-support)
     - [Image Guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/): Please follow these guidelines when providing logos or other images for the website
 - [Requesting an update to an existing webpage](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-update-webpage-brief)
     - Use this template to update existing webpages related to logged-out `about.gitlab.com` and related properties such as landing pages for Marketo, Pathfactory, etc.
@@ -415,11 +417,12 @@ This is how we work with Issues and their scope
 <!-- blank line -->
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/xeFP0-Kdq-M"></iframe></figure>**Beginning of week:**
 
-- Geekbot Check-In
 - Triage board is vetted and items moved (see above for details on actions)
 - Inbound Team Leadership meeting:
     - Discuss priorities for the week, Danielle relays exec and PR info, we decide if any project, company or larger Mkrg priorities are bubbling up that would make us reconsider priorities
-    - Groom issues into weeks using the Sprint Board
+    - Layout top items that should be delivered and identify blockers and put into the Sprint Document for the week
+            - [Sprint Document Template](https://docs.google.com/document/d/1ErXduXBBSVKWTSaCe3V-F4-04OzrOLBmQdHM7XsfpSQ/edit?usp=sharing)
+    - Meeting is recorded and shared with #inbound-marketing slack channel 
 
 > HANDOFF: This is where the handoff to Inbound Marketing Teams takes place to run their processes
 
@@ -435,11 +438,14 @@ This is how we work with Issues and their scope
 
 - Epics for the quarterly OKRs are created and links are added to the yearly strategy in the handbook
 - Child epics are created per the [epic structure](/handbook/marketing/inbound-marketing/#epics) listed above
-
+- One round of process improvements is proposed and implemented 
+   - A summarized issue for requests to the GitLab Product Team is submitted
 ## Yearly Process
 
+- IM leader communicates company and marketing strategy and IM team creates strategies to meet these goals
 - At the beginning of Q4, we will create a Roadmap Epic for all items that will be candidates for next year's strategy.
 - Strategy for the year is documented in the handbook
+- Yearly budgeting takes place in Allocadia based on Marketing strategy 
 
 # Video Playlists
 
@@ -456,6 +462,7 @@ In an effort to make async communication and collaboration as effective as possi
 ## Budget Management
 
 - Allocadia is our SSoT for the budget
+- The budget is quarterized per team
 
 # Vendor Management
 
@@ -480,8 +487,6 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
     - Assign the vendor and team member who will be the vendor’s buddy.
     - Ensure following labels are on the issue:
         - `vendor`
-        - `mktg-inbound`, `mktg-status`
-        - `design` and or `mktg-website`
     - Assign the issue to a milestone, as appropriate.
     - Confirm the issue appears on the [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-inbound&label_name%5B%5D=outsource).
     - Capture opportunities to improve vendor management in the [vendor management epic](https://gitlab.com/gitlab-com/marketing/inbound-marketing/brand-and-digital/brand-and-digital/-/issues/248).
@@ -500,12 +505,7 @@ If you know of a brand or digital vendor, whether “an agency of one” (aka fr
     - Share critical concerns or patterns of issues with your manager.
     - Immediately report urgent concerns to your manager, such as significant project delays or poor quality of work.
 
-#### Managers
 
-- **Vendor Boards** - Ensure [vendor board](https://gitlab.com/groups/gitlab-com/-/boards/1511334?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=mktg-inbound&label_name%5B%5D=outsource) is maintained.
-- **Vendor Issues** - Ensure the `vendor` label is being applied to issues we _might_ outsource.
-- **Vendor ROI -** Ensure we are planning sprints to maximize vendor output while minimizing vendor overhead.
-- **Monthly Vendor Work Report** - Provide end of month reports on what each vendor completed, and any issues encountered that require stakeholder attention.
 
 ### Vendor invoicing, payment and reporting
 

@@ -112,6 +112,18 @@ GitLab handle: @cbuchanan
 
 Slack handle: @chrissie
 
+### Recommended slack channels
+
+Anyone at GitLab can reach out to the content team by tagging `@contentteam` on Slack.
+
+This is a list of recommended slack channels for the content marketing team.
+
+* **`#content-team-lounge`**: Where the content team can hang out. This is a public channel.
+* **`#content`**: A general discussion channel for all things content, including blog posts, case studies, videos, webcasts, newsletter content, interesting articles, etc
+* **`#content-updates`**: A rolling log of new, published content. Once an article, blog post, case study, webinar, video, landing page, etc. is public, add it to this channel with a TL;DR description of the content.
+* **`#inbound-mktg`**: The main channel for the Inbound Marketing group that includes content marketing.
+* **`#marketing`**: The main channel for the entire marketing group that includes inbound marketing.
+
 
 ## Planning timeline
 
@@ -158,8 +170,8 @@ A blog can and should be repurposed as a web article/cluster page if the content
 1. Work with the SEO team to identify existing, older blogs that are the best options for repurposing.
 2. Ensure that the editorial team is aware of the intention and has approved the redirect.
 3. In a Google doc, copy and paste the existing blog. From there, use the keyword spreadsheets to identify the best possible updates -- this can include changing the title to a better keyword phrase, identifying areas of copyediting improvements, adding links, adding a 'More On' section, and elaborating on longtail keywords throughout the content.  
-5. Create a merge request and tag @bmatturro for review of the content. 
-6. Once the web article is edited and merged, open an [issue to redirect](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new#) the blog URL to the new web article. Select set-up-a-new-redirect template and add the new URL and old URL in the issue. This will directly assign.
+5. Create a merge request on the `www-gitlab-com` project. 
+6. Once the web article is edited and merged, open an [issue to redirect](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new#set-up-a-new-redirect) the blog URL to the new web article. Add the new URL and old URL in the issue. The labels are included in the issue, do not assign.
 7. After the web article is merged and the blog redirected, add the web article link to the associated Topics page in the sidebar.
 
 #### Whitepaper

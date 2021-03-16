@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Digital Production Equipment List"
-description: GitLab Digital Production list of equipment for remote digital production. 
+title: "Digital Production Editing Software and Equipment List"
+description: GitLab Digital Production list of software and equipment for remote digital production. 
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
@@ -12,7 +12,21 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc}
 
-  [The Digital Production department](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/) has organized several options for GitLab employees who need to record quality video content. Links have been provided to give a reference of the specificiations of each item (i.e. what it looks like). However, these are offered as examples only. Before you make your purchase, **[review GitLab's policy on spending company money](https://about.gitlab.com/handbook/spending-company-money/)**. If you are unable to locate a suitable option for an item you wish to order, contact the Digital Production department about substutions.    
+# Editing Software
+
+##### iMovie
+
+  This is Digital Production's first recommendation. iMovie is free editing software from Apple. It is simple and straightforward to use versus other programs, and it is included with almost all Macbooks in the Applications list. As most GitLab employees use Macbooks, it should be an option for almost everyone. If you do not have a MacOS device, please see below. 
+
+##### Adobe Premiere Rush
+
+  [Adobe Premiere Rush](https://www.adobe.com/ca/products/premiere-rush.html) is a subscription-based editing software that, like iMovie, attempts to strip down the features and complexity of other programs to make itself more accesible to the average user. It is available for Mac, PC, and other devices. As there is a fee, this option should only be used if the above iMovie software is not available to you. 
+
+---
+    
+# Equipment
+
+[The Digital Production department](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/digital-production/) has organized several options for GitLab employees who need to record quality video content. Links have been provided to give a reference of the specificiations of each item (i.e. what it looks like). However, these are offered as examples only. Before you make your purchase, **[review GitLab's policy on spending company money](https://about.gitlab.com/handbook/spending-company-money/)**. If you are unable to locate a suitable option for an item you wish to order, contact the Digital Production department about substutions.    
 
 ## Standard Desk Package
 
@@ -35,20 +49,20 @@ twitter_creator: "@gitlab"
 **OR**
 - Elgato Key Light - [Example](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)
 
-<<<<<<< sites/handbook/source/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/index.html.md
-
-
 ## Advanced Desk Packages
 ---
 
  These packages are for GitLab Employees in need of higher level production equipment for elevated content such as conferences and video packages. Select only one of the packages below, based on your needs. 
 
-### Professional Camera Package
+### Advanced Camera Package
 ---
 
 ##### Camera
 
-- Camera: TBD - Coming Soon!
+- Camera: 
+   - The Digital Production team is awaiting the release of the [Sony a6400](https://www.bhphotovideo.com/c/product/1453770-REG/sony_ilce_6400l_b_alpha_a6400_mirrorless_digital.html), which is set to debut at the end of March 2021. 
+   
+   If you are in need of a camera before the Sony a6400 release, we recommend considering the [Sony A7C](https://www.bhphotovideo.com/c/product/1592776-REG/sony_alpha_a7c_mirrorless_digital.html) as listed in the packages below. 
 - Camera Lens: TBD - Coming Soon!
  - Mount for Microphone - [Example](https://docs.google.com/spreadsheets/d/1rKwZwP7hvYSqm3BL4wPmVNDQtYkXPSX3SfUElBIhX38/edit#gid=1367060180)
 
@@ -131,7 +145,7 @@ This package is very advanced and intended for those with a high need of profess
 
 ##### Camera
 
-- Black Magic Pocket Cinema (Professional Camera) - [Example](https://www.bhphotovideo.com/c/product/1560510-REG/blackmagic_design_pocket_cinema_camera_4k.html)
+- Sony A7C - [Example](https://www.bhphotovideo.com/c/product/1592776-REG/sony_alpha_a7c_mirrorless_digital.html)
 - Camera Lens - [Example](https://www.bhphotovideo.com/c/product/1540746-REG/olympus_v314090bu000_m_zuiko_digital_ed_12_45mm.html)
 - Mount for Microphone - [Example](https://docs.google.com/spreadsheets/d/1rKwZwP7hvYSqm3BL4wPmVNDQtYkXPSX3SfUElBIhX38/edit#gid=1367060180)
 
@@ -158,9 +172,8 @@ _This device attaches to the camera to allow a script to be read while speaking 
 ##### Camera Support
 
 - Tripod - [Example](https://www.bhphotovideo.com/c/product/1527795-REG/manfrotto_mkelmii4bk_bh_element_mii_aluminum_tripod.html)
-- Camera Desk Mount - [Example](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/Master-Mount-L/p/10AAB990
+- Camera Desk Mount - [Example](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/Master-Mount-L/p/10AAB990)
 - Optional clamp to attach camera to a lightstand, or support the lavalier - [Example](https://www.bhphotovideo.com/c/product/1422139-REG/smallrig_2164_multi_functional_crab_shaped_clamp.html)
-
 
 ##### Production Switcher
 
@@ -186,12 +199,8 @@ _This kit will allow you to create shade for yourself wherever you're shooting (
 - HDMI Cable - [Example](https://www.bhphotovideo.com/c/product/751037-REG/Pearstone_hda_115_Standard_Series_HDMI_to.html)
 
 - AA Batteries with Charger (For Lav microphone) - [Example](https://www.bhphotovideo.com/c/product/1047699-REG/panasonic_k_kj17khca4a_eneloop_xx_4_place.html)
+ 
 
 
 
 
-
-
-
-=======
->>>>>>> sites/handbook/source/handbook/marketing/inbound-marketing/content/digital-production/digital-production-equipment-list/index.html.md

@@ -85,9 +85,9 @@ View long-term goals here: [https://about.gitlab.com/handbook/marketing/inbound-
 | Team Member | Role | Contact Info |
 | ----------- | ---- | ------------ |
 | [**Michael Preuss**](https://about.gitlab.com/company/team/#mpreuss22) | Senior Manager, Digital Experience | - Email: [mpreuss@gitlab.com](mailto:mpreuss@gitlab.com)<br>- GitLab: [@mpreuss22](https://gitlab.com/mpreuss22)<br>- Slack: @mpreuss22<br>- ReadMe: [michael-preuss](https://about.gitlab.com/handbook/marketing/readmes/michael-preuss.html) |
-| [**Lauren Barker**](https://about.gitlab.com/company/team/#laurenbarker) | Senior Full Stack Developer | - Email: [lbarker@gitlab.com](mailto:lbarker@gitlab.com)<br>- GitLab: [@laurenbarker](https://gitlab.com/laurenbarker)<br>- Slack: @lbarker<br>- ReadMe: [lauren-barker](https://about.gitlab.com/handbook/marketing/readmes/lauren-barker.html) |
+| [**Lauren Barker**](https://about.gitlab.com/company/team/#laurenbarker) | Senior Fullstack Engineer | - Email: [lbarker@gitlab.com](mailto:lbarker@gitlab.com)<br>- GitLab: [@laurenbarker](https://gitlab.com/laurenbarker)<br>- Slack: @lbarker<br>- ReadMe: [lauren-barker](https://about.gitlab.com/handbook/marketing/readmes/lauren-barker.html) |
 | [**Brandon Lyon**](https://about.gitlab.com/company/team/#brandon_lyon) | Frontend Engineer | - Email: [blyon@gitlab.com](mailto:blyon@gitlab.com)<br>- GitLab: [@brandon_lyon](https://gitlab.com/brandon_lyon)<br>- Slack: @Brandon Lyon<br>- ReadMe: [brandon-lyon](https://about.gitlab.com/handbook/marketing/readmes/brandon-lyon.html) |
-| [**Tyler Williams**](https://about.gitlab.com/company/team/#tywilliams) | Website Full Stack Developer | - Email: [tywilliams@gitlab.com](mailto:tywilliams@gitlab.com)<br>- GitLab: [@tywilliams](https://gitlab.com/tywilliams)<br>- Slack: @Tyler Williams<br>- ReadMe: [tyler-williams](https://about.gitlab.com/handbook/marketing/readmes/tyler-williams.html) |
+| [**Tyler Williams**](https://about.gitlab.com/company/team/#tywilliams) | Fullstack Engineer | - Email: [tywilliams@gitlab.com](mailto:tywilliams@gitlab.com)<br>- GitLab: [@tywilliams](https://gitlab.com/tywilliams)<br>- Slack: @Tyler Williams<br>- ReadMe: [tyler-williams](https://about.gitlab.com/handbook/marketing/readmes/tyler-williams.html) |
 | [**Laura Duggan**](https://about.gitlab.com/company/team/#lduggan) | Frontend Engineer | - Email: [lduggan@gitlab.com](mailto:lduggan@gitlab.com)<br>- GitLab: [@lduggan](https://gitlab.com/lduggan)<br>- Slack: @Laura Duggan<br>- ReadMe: [laura-duggan](https://about.gitlab.com/handbook/marketing/readmes/laura-duggan.html) |
 | Stephen McGuinness | Design System Lead (Contract) | - GitLab: [@smcguinness1](http://smcguinness1)<br>- Slack: @Stephen McGuinness |
 | Jessica Halloran | UX Designer (Contract) | - GitLab: [@jhalloran](https://gitlab.com/jhalloran)<br>- Slack: @jhalloran |
@@ -131,44 +131,52 @@ We collaboratively define OKRs as a team with cross functional partners in advan
 
 ## Our Process
 
-Our goal is to deliver a release every 2 weeks. Our release day is always a Wednesday. We can push MRs at any time but for collaborative work initiates we plan a package for delivery to ensure we're improving our customer's experience rapidly.
+Our goal is to deliver a release every 2 weeks. Our release day is always a Wednesday. We can push MRs at any time but for collaborative work initiatives we plan a package for delivery to ensure we're improving our customer's experience rapidly.
 
 ### Sprint Cycle
 
-For FY21 Q4 we have 2 sprint cycles running which start on alternate weeks.
+For FY22 Q1 we have one two-week sprint cycle.
+
 <figure class="video_container">
- <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FVancouver&amp;src=Y185Z2FiaTg1cmYxMTdnOGhhNDhya2tmbzUxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y19pcnFkNzNwNnA0YnJ1a2prOXUyZjF0NGNxMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23F4511E&amp;color=%23B39DDB&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=1" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_g97ibfb3lq183mphm8mnbjfk34%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </figure>
 
 ### Sprint Planning
 
-Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards. We weight these issues and target delivering 10 weight points per sprint.
+Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards and weight them.
 
-This is the template we use for [Sprint Planning](https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit)
+**Weighting**
+
+We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day. In a full two-week sprint, we plan to deliver 20 points per team member.
+
+**Agenda**
+
+We use the [Inbound Marketing Sprint Planning document](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit#heading=h.aa7av9szmk5t) for our planning meetings.
+
 <figure class="video_container">
- <iframe src="https://docs.google.com/document/d/19kuMa9Jx5k9DTqCmeLYmGOnG_i2MnDr2zqHWsucY4Ew/edit"></iframe>
+ <iframe src="https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing"></iframe>
+</figure>
+
+### Sprint Releases
+
+On the second Wednesday of each sprint, we have a calendar reminder for "Sprint Release Async", which serves as a reminder for team members to add to the [Sprint Release Video Document](https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit). 
+
+<figure class="video_container">
+ <iframe src="https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit"></iframe>
 </figure>
 
 ### Sprint Retros
 
 Sprint Retros allow us to reflect on what went well and what we can to do continuously improve our process.
 
-This is the template we use for [Sprint Retros](https://docs.google.com/document/d/1KSds3hjnJ250WWWZ9_uNpU4RYQA82mF3ylAcpsf7fGE/edit)
+This is the agenda we use for [Sprint Retros](https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing)
 <figure class="video_container">
- <iframe src="https://docs.google.com/document/d/1KSds3hjnJ250WWWZ9_uNpU4RYQA82mF3ylAcpsf7fGE/edit"></iframe>
+ <iframe src="https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing"></iframe>
 </figure>
-**Marketing Design System Sprint Planning and Retros**
 
-[https://drive.google.com/drive/u/0/folders/1E0101X1-eYirolSxz-Q96HIdHFJhzzOK](https://drive.google.com/drive/u/0/folders/1E0101X1-eYirolSxz-Q96HIdHFJhzzOK)
+### Sprint Videos 
 
-**CMS Sprint Planning and Retros**
-
-[https://drive.google.com/drive/folders/1req1RC4tdOgKrn-bZEvS5G2nKwuymIKy](https://drive.google.com/drive/folders/1req1RC4tdOgKrn-bZEvS5G2nKwuymIKy?usp=sharing)
-
-**Weighting**
-
-We use issue weight to plan and manage our work. Team members are not held to weights, they’re simply a planning and learning tool. Digital Experience weights are based on the following point scale: 1pt = .5 day
-
+We release videos for [sprint planning](#sprint-planning), [sprint releases](#sprint-releases), and [sprint retrospectives](#sprint-retros) in the [Digital Experience playlist of GitLab Unfiltered](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing).
 ### Internal Issue Boards
 
 These issue boards were created by the Digital Experience team to track our own workloads for a given release cycle.

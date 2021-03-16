@@ -234,10 +234,9 @@ With the exception of time-sensitive announcements and news, we are aiming to ha
 
 ## Blog calendar
 
-The calendar below documents when posts will be published, as well as industry awareness days and anniversaries we may cover. Please bear this in mind when requesting a specific publish date for a post.
+The [editorial calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9hbWU5ODQzYzYwOTRmZmM0NzV2ZWE5ZnRuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) documents when posts will be published, as well as industry awareness days and anniversaries we may cover. Please bear this in mind when requesting a specific publish date for a post. If you can't view the calendar, please make sure that you are logged into your GitLab G Suite account.
 
 _Please note that all dates are subject to change to accommodate urgent posts and announcements._
-<iframe src="https://calendar.google.com/calendar/embed?src=gitlab.com_ame9843c6094ffc475vea9ftn4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Labels
 
@@ -331,6 +330,18 @@ This works for tutorials and how-to posts that are no longer current. Here is [a
 [Repurpose the blog post into a different, evergreen content format](/handbook/marketing/inbound-marketing/content/content-marketing/#blog-repurpose). 
 
 This approach is suitable for older blog posts covering high-level, foundational topics that don't age (DevOps fundamentals, CI best practices, etc.) and which aren't specifically about GitLab features or functionality.
+
+### #trending Slack channel
+
+The #trending channel is for team members to surface new story ideas to Editorial. Anyone is welcome to join and can share links to news or opinion that could be worth pursuing as a blog post or in another content format (e.g. video). 
+
+We know that team members often share noteworthy news or developments in other channels – the difference here is the channel will help the Editorial team to aggregate and curate items that have [strong blog post potential](#top-performing-blog-posts). The content can be anything that's relevant to our audience and within our [blog scope](#scope).
+
+- Team members can post in the channel ad hoc, or participate in the channel's weekly Geekbot prompts. Feel free to suggest edits to the Geekbot questions.
+- The channel does not replace [pitching to the blog](/handbook/marketing/blog/#how-to-pitch-a-blog-post). Team members can still open an issue to pitch a blog post if they want to write about something, and there's no requirement to post in the channel. The channel is for more informal sharing of possible ideas. 
+- It's up to the sharer to decide if they would like to write a post or if they're just offering the idea to the Editorial team. 
+- Whoever intends to write a post inspired by #trending will need to open [a blog post issue](/handbook/marketing/blog/#how-to-pitch-a-blog-post) to get started.
+- We won't be able to turn all ideas into blog posts. In some cases an idea may be more suitable for another format or publishing outlet, or it may spark an idea for a related post or series of posts. 
 
 ## Checklist for blog post issues
 
