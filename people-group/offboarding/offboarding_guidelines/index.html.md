@@ -24,6 +24,8 @@ In support of the People Experience Teams efforts to remain both compliant and e
 
 We encourage an earlier time in the day to start offboarding and in timezones where it is more effective to do so earlier (EMEA and JPAC), we'll do our best to accomodate, but not later than 12:00pm PT.  Managers and People Business Partners should account for this in their planning and communicate the same to departing team members.
 
+Should the offboarding fall on a day when the People Experience Team is [unavailable](https://about.gitlab.com/handbook/people-group/people-experience-team/), The People Experience Associate will create a private Slack channel with the team member's manager and team member and discuss off-boarding options. 
+
 ### Creating the Offboarding Issue
 
 1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command `/pops run offboarding BambooHR_ID_number` (not Employee ID #). This number is found in the team member's BambooHR profile URL, after `id=`. It is a 5-digit number. An example of the command would be `/pops run offboarding 00000`. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
