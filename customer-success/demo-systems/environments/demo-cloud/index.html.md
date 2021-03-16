@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Cloud Omnibus-as-a-Service"
+description: "The GitLab Demo Systems Demo Cloud handbook page provides an overview of how our Omnibus-as-a-service infrastructure is configured and has answers to frequently asked questions."
 ---
 
 ## On this page
