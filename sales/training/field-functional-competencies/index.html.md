@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Functional Competencies"
-description: "GitLab Field functional competencies define the critical skills, behaviors, and attitudes that GitLab Field team members must demonstrate to successfully deliver desired outcomes. They provide a common language and consistent expectations for what good looks like for the GitLab Field organization."
+description: "GitLab field functional competencies define the critical skills, behaviors, and attitudes that GitLab field team members must demonstrate to successfully deliver desired outcomes. They provide a common language and consistent expectations for what good looks like for the GitLab field organization."
 ---
 
 # Field Functional Competencies  
@@ -12,15 +12,15 @@ description: "GitLab Field functional competencies define the critical skills, b
 
 # What are Field Functional Competencies? 
 
-GitLab Field functional competencies provide a common language and consistent expectations for “what good looks like” for the GitLab Field organization (inclusive of Sales and Customer Success roles). They are intended to complement [GitLab’s values](/handbook/values/) and are comprised of specific behaviors that GitLab team members in a field role need to demonstrate consistently to be successful. These critical field skills and behaviors are not meant to be role or job-specific (as each role or job may have additional unique requirements), and how each competency is expressed or demonstrated may vary by role (e.g. by technical depth, engagement in different stages of the customer journey, team-specific expectations, etc.). 
+GitLab field functional competencies provide a common language and consistent expectations for “what good looks like” for the GitLab field organization (inclusive of Sales and Customer Success roles). They are intended to complement [GitLab’s values](/handbook/values/) and are comprised of specific behaviors that GitLab team members in a field role need to demonstrate consistently to be successful. These critical field skills and behaviors are not meant to be role or job-specific (as each role or job may have additional unique requirements), and how each competency is expressed or demonstrated may vary by role (e.g. by technical depth, engagement in different stages of the customer journey, team-specific expectations, etc.). 
 
 More specifically, functional competencies help to:
-*  Guide the growth and development opportunities available for GitLab Field team members
-*  Build organizational capabilities when adopted and practiced across the Field organization
+*  Guide the growth and development opportunities available for GitLab field team members
+*  Build organizational capabilities when adopted and practiced across the field organization
 *  Reinforce behavior that is consistent with GitLab’s values and culture
-*  Enable GitLab Field team members to build productive relationships and generate positive results
+*  Enable GitLab field team members to build productive relationships and generate positive results
 
-There are three primary competencies for the Field: Customer Focus, Solution Focus, and Operational Excellence. Please refer to the tables below to learn more. 
+There are three primary competencies for the field organization: Customer Focus, Solution Focus, and Operational Excellence. Please refer to the tables below to learn more. 
 
 ## Customer Focus
 
@@ -46,7 +46,7 @@ Field team members should be focused on how GitLab helps customers solve their b
 
 ## Operational Excellence
  
-To drive efficiency, Field team members should adhere to the tools and processes established by the Field Operations team and their leadership.
+To drive efficiency, field team members should adhere to the tools and processes established by the field Operations team and their leadership.
 
 | EXAMPLE SKILLS / BEHAVIORS | DESCRIPTION |
 | ---- | ----- |
@@ -64,14 +64,14 @@ Competency proficiency rating levels align with GitLab’s enterprise-wide perfo
 
 # Practical Application
 
-Field team members and their managers are encouraged to have regular coaching and development conversations to assess individual and team strengths and areas of opportunity across all competencies and the supporting/example skills and behaviors. More specifically, managers in the Field organization should:
-1. Encourage team members to complete their own self-assessment (see template below) to
-    - Identify 2 or more strengths Field team members intend to continue to leverage to deliver positive results
-    - Identify 2 specific skills / behaviors Field team members would like to improve upon
-1. In parallel, managers should complete a similar assessment (see template below) for each of his or her direct reports
+Field team members and their managers are encouraged to have regular coaching and development conversations to assess individual and team strengths and areas of opportunity across all competencies and the supporting/example skills and behaviors. More specifically, managers in the field organization should:
+1. Encourage team members to complete their own self-assessment (see below) to
+    - Identify 2 or more strengths field team members intend to continue to leverage to deliver positive results
+    - Identify 2 specific skills / behaviors field team members would like to improve upon
+1. In parallel, managers should complete a similar assessment for each of his or her direct reports
 1. Field team members and their managers should then meet to compare and discuss assessment results then collaboratively brainstorm opportunities and agree on specific plans to support the team member's professional development and ongoing improvement
 1. Team members are encouraged to identify and regularly engage with an accountability partner (whether that be their manager and/or other) to maintain focus on development plans and to provide ongoing feedback
 
 ## Self-Assessment 
 
-On an annual basis the Field Enablement Team will launch a self- assessment for Field team members with CultureAmp. This information will help the Field Enablement Team prioritize training needs and assess the effacacy of training programs throughout the year. This will not be used for performance reviews. 
+On an annual basis the Field Enablement team will launch a self-assessment for field team members with CultureAmp. This information will help the Field Enablement Team prioritize training needs and assess the efficacy of training programs throughout the year. This will not be used for performance reviews. 
