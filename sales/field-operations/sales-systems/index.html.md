@@ -52,19 +52,19 @@ Below is a list of the different technical skill sets found on the Sales System 
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
 
 ### Field & Process Deprecation
-* Since field & process deprecation is as common an occurance as the creation it is important that the system team implements a repeatable process that we can leverage when deprecating any fields pr processes. 
+* Since field & process deprecation is as common an occurrence as the creation it is important that the system team implements a repeatable process that we can leverage when deprecating any fields pr processes. 
 
 #### Field Deprecation
-* This process is most often used by the systems team. If you have or are aware of a field in Salesforce that is no longer needed, please infom the Sales Systems team by following the process outlined in [getting help from the sales systems team](#steps-to-getting-help-from-sales-systems)
+* This process is most often used by the systems team. If you have or are aware of a field in Salesforce that is no longer needed, please inform the Sales Systems team by following the process outlined in [getting help from the sales systems team](#steps-to-getting-help-from-sales-systems)
 1. Open an issue listing out all of the fields that we are investigating to deprecate. Be sure to include the field name, field API name and the object that the field is associated with in a table in the description of the issue.
 1. Alert the data team to the upcoming field deprecation by tagging them on the issue.
 1. Alert all relevant partner teams (Marketing Ops, Sales Ops, Finance Ops etc.) as needed
-1. Prepend `[DEPRECATE]` to the begining of the field name. If the field name cannot accomadate a field name that long copy and paste the original name into the description, trim unneccessary characters from the name and try again. For this reason `[DELEETE]` is also acceptable to prepend to the field name. 
+1. Prepend `[DEPRECATE]` to the beginning of the field name. If the field name cannot accommodate a field name that long copy and paste the original name into the description, trim unnecessary characters from the name and try again. For this reason `[DELEETE]` is also acceptable to prepend to the field name. 
 1. In Visual Studio Code, pull from master and perform a scan for each of the API names in the issue. If the field is used, investigate if the code can be updated as to not include this field. 
 1. If code is updated in the previous step prepare a merge request and relate it to the issue.
 1. If your sandbox is out of date, refresh it so that any recent edits are included in the next step.
 1. Push any updated code to your sandbox (if applicable) and start a change set.
-1. For all fields that are still eligable to be deprecated log into your sandbox and attempt to delete them one by one. Record any conenction between any fields and any field updates, workflow rules, validation rules etc. (Reports, Report Types etc can be ignored in this step)
+1. For all fields that are still eligible to be deprecated log into your sandbox and attempt to delete them one by one. Record any connection between any fields and any field updates, workflow rules, validation rules etc. (Reports, Report Types etc can be ignored in this step)
 1. Investigate any connections found in the previous steps and if the field can still be deleted.
 1. For all fields that cannot be deleted
    - Link the investigation issue to the investigated field by pasting the Gitlab Issue Link in the fields description. 
@@ -72,12 +72,12 @@ Below is a list of the different technical skill sets found on the Sales System 
 1. For all fields that can be deleted
    - List them out on a final comment on the issue
    - Update the due date of the issue to the date they will be deleted
-   - Confirm that their are no issues with the tagged related teams
+   - Confirm that there are no issues with the tagged related teams
    - Validate any change sets with updated automations (if applicable) before the issue due date
    - On the issue due date deploy any change sets and delete the fields from production. If possible allow for a 1 day lag time between field deletion and delting fields from the `Deleted Fields` section in Salesforce
 
 #### Process Deprecation 
-* Deprecating aprocess often includes a change in team behavior as well as updates to any processes. The Systems team is wokring on detailed documentation to address these changes and more info will be coming soon! 
+* Deprecating aprocess often includes a change in team behavior as well as updates to any processes. The Systems team is working on detailed documentation to address these changes and more info will be coming soon! 
 
 #### Deactivate Service User
 * This deactivation process is made to deactivate service user profiles. Service accounts are accounts that are used as integration Users, Connection users etc., in order to deactivate the service user account follow the [template](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). Please note deactivating standard users will be done by Sales Operations.
@@ -85,6 +85,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 
 ## Technical Documentation
 *  [Go-To-Market Technical Documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/)
+*  [Go-To-Market Integrated Environments](/handbook/sales/field-operations/sales-systems/gtm-integrated-environments/)
 *  [License Usage App Documentation](/handbook/sales/field-operations/sales-systems/license-usage-app/)
 *  [Salesforce Configuration Documentation](/handbook/sales/field-operations/sales-systems/salesforce-config/)
 
@@ -111,9 +112,9 @@ Below is a list of the different technical skill sets found on the Sales System 
 9.  Using the link provided by GitLab, open a merge request, [make it a `WIP:`](/handbook/git-page-update/#marking-a-merge-request-as-a-work-in-progress-wip), and assign it to the Architect on the project.
 10.  Comment on the related issue with an @ to the project's Architect for review, providing a link to the merge request. (this automatically links the merge request to the issue)
 11.  If the Architect calls for a live demo, schedule the meeting and prep your sandbox to do a run through with the end customer.
-12.  If the Architect calls for user acceptence testing, make sure the assigned testers have access to the sandbox where the work was done, and schedule testing.
+12.  If the Architect calls for user acceptance testing, make sure the assigned testers have access to the sandbox where the work was done, and schedule testing.
 13.  Once the solution passes, the Architect will remove the `WIP:` status and merge the change.
-14.  Once merged, package up all relavent files into a Change Set from your Sandbox to Production (or to a Staging instance if the Architect requests it).
+14.  Once merged, package up all relevant files into a Change Set from your Sandbox to Production (or to a Staging instance if the Architect requests it).
 15.  Name the Change Set the same as the issue/branch: `SalesSystems-158` and push to production.
 16.  Once the Change Set arrives in production, validate it. If there are any errors, go back to step 3. If steps 3, 4, and 5 are followed errors at validation should be rare.
 17.  Once the Change set validates, ping the Architect to schedule the deployment.
@@ -135,3 +136,37 @@ Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD 
 6. Document any relevant information about the package. 
    * An example of this could be SFDC fields that are part of the package.
 7. Remove the package from production, update the issue and close out.
+
+## Salesforce Data, Data Uploads & Permissions
+- Salesforce is one of the key systems that our business relies on and as such the data and its accuracy is extremly important to the business. As such we strive to find the balance between ability to update the data within Saleforce and maintaining its integrity. While we do implement systems that strive to maintain and ensure that the data within Salesforce is correct we understand that sometimes the data is incorrect as business requirements change and updates to the data are needed. As such the below aims to outline the individuals who are allowed to mass update the data within Salesforce and the corresponding fields that are permitted to be updated as well as the fields that are restricted from being updated. 
+
+### Data Uplod Permissions 
+- It is important to highlight that the below permission all follow the restrictions as laid out in the `Data Upload Restructions` table below. Please consult both while completing any data uploads. 
+- Any data uploads that impact more then one organization unit, can only be completed after the notice and approval by all impacted teams. When there is any doubt if a data upload will impact multiple teams a System Administrator should be consulted before completing the data upload. 
+- All users who wish to upload data using the DataLoader must first complete the requierments in the `Data Upload Training & Setup` section before being permitted to upload data.
+- When informing leadership or other teams of your data load be sure to summarize the fields that are being updated using the field name and API name of the field in order to strive for more efficient communication on the data load process. 
+
+| Individuals / Groups | Data Upload Permissions | 
+| -------------------- | ----------------------- | 
+| System Admininistrators | System Admins have the ability to update any and all fields within Salesforce. They should only be updating the data with an understanding of the impacts downstream such as cascading field updates, APEX code runs, compensation implementations etc. |
+| Sales Operations | Members of the Sales Operations Team may complete any data uploads to fields that they can update on their own UIs |
+| Customer Success Operations | Members of the Customer Success Operations Team may complete any data uploads to fields that solely impact the Customer Succes organization and their wholly owned processes |
+| Channel Operations |  Members of the Channel Operations Team may complete any data uploads to fields that solely impact the Channel and their wholly owned processes |
+| Marekting Operations | Members of the Marketing Operations Team may complete any data uploads to fields that solely impact the Marketing Team and their wholly owned processes. Prior to completing the uploads though they must inform a member of the Sales Systems team to ensure the fields that they are updating do not cause any cascading updates in Salesforce. Additionally since Marketo and Salesforce are tighly integrated it is encouraged that Marketing Ops also coordinates with the Marketo System Owner to help limit any issues with the integration, API usage etc.  |
+
+### Data Uplod Restrictions
+- When in doubt if you have permission to update fields in Salesforce using the data upload process reach out to a System Administrator to clarify if your uploads are permitted and have any unintentional impacts. 
+
+| Data | Data Restrictions | 
+| ---- | ----------------- | 
+| Compensation Data | No Compensation data may be updated without first consulting the compensation team and the leadership of the Sales Systems Teams or the Sales Operations Teams | 
+| Revenue Data | No Revenue fields may be updated without first consulting the leadership of the Sales Systems Teams or the Sales Operations Teams | 
+| Closed Opportunity Fields | No updates to Opportunity Fields on any Closed Oportunities can be completed without consulting the leadership of the Sales Systems Teams or the Sales Operations Teams |
+| Any Deletions | No mass data deletions may be completed without first consulting the leadership of the Sales Systems Teams or the Sales Operations Teams |
+
+### Data Upload Training & Setup 
+- Prior to being permitted to utilize the Data Loader all users must review the [Data Loader Documentation provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/data_loader.htm)
+   - Key Highlights: 
+      - [Data Loader Configuration](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/configuring_the_data_loader.htm) especially as it pertains to batch size and to working with Null values. This should be reviewed and confirmed prioir to every Data Upload 
+- In order to install Data Loader follow the [Instructions provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_install_general.htm)
+   - If you prefer video instructions on how to install Data Loader you can watch [this installation video](https://www.youtube.com/watch?v=vZOsb9gvFu4) which summarizes the process for windows (The process is the same for Macs)

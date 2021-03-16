@@ -39,6 +39,7 @@ Value drivers describe what organizations are likely proactively looking for or 
 | [Command Plan](/handbook/sales/command-of-the-message/command-plan/) | how GitLab has operationalized Command of the Message and MEDDPPICC into the opportunity management process |
 | [MEDDPPICC](/handbook/sales/meddppicc/) | proven methodology used for strategic opportunity management and complex sales process orchestration for enterprise organizations | 
 | [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) | tips and tricks for navigating the Metrics conversation with customers |
+| [Customer Logo Deck](https://docs.google.com/presentation/d/1UKVfxDm6KNpWCjoAcWp0AfX1yaLT10FK-zbbFZLAwZE/edit#slide=id.gc300321b28_0_273) | our full approved customer logo deck that can be used in sales presentations |
 
 ## GitLab Differentiators
 
@@ -146,7 +147,7 @@ Differentiators can influence a technical buyer's decision criteria in defining 
 <details>
 <summary markdown="span">Command of the Message Mantra</summary>
 
-The Mantra is a framework you can use to clearly demonstrate that you have a complete understanding of your customer's goals, needs, and metrics for success. It also provides you with a customer-focused context to transition from the customer's needs which you have clearly articulated into how GitLab helps meet those needs. The Mantra is also a very good meeting prepartion tool to determine how well you know your customer. If you cannot clearly articulate a customer-specific mantra, then you are not ready to progress the deal and you need to do more research. Below is a breakown of the CoM Mantra framework which can be adjusted and articulated in your own words.
+The Mantra is a framework you can use to clearly demonstrate that you have a complete understanding of your customer's goals, needs, and metrics for success. It also provides you with a customer-focused context to transition from the customer's needs which you have clearly articulated into how GitLab helps meet those needs. The Mantra is also a very good meeting preparation tool to determine how well you know your customer. If you cannot clearly articulate a customer-specific mantra, then you are not ready to progress the deal and you need to do more research. Below is a breakdown of the CoM Mantra framework which can be adjusted and articulated in your own words.
 
 *  What I hear you saying Mr./Ms. Customer is that these are the **Positive Business Outcomes** you’re trying to achieve...
 *  In order to achieve these positive business outcomes, we agreed that these are the **Required Capabilities** you’re going to need...
@@ -178,7 +179,7 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 *  Check out and subscribe to The Audible-Ready Podcast (from Force Management) for insights to help improve your productivity, generate more revenue, and increase competitive win rates on your favorite podcast player
    - [iTunes](https://podcasts.apple.com/us/podcast/the-audible-ready-podcast/id991362894)
    - [SoundCloud](https://soundcloud.com/force-management-1)
-   - [Sticher](https://www.stitcher.com/podcast/the-audible-ready-podcast)
+   - [Stitcher](https://www.stitcher.com/podcast/the-audible-ready-podcast)
    - [Spotify](https://open.spotify.com/show/2JMvuitWVC34R2Kw7fHFDN)
    - [Google Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9hdWRpYmxlcmVhZHlwb2RjYXN0LmxpYnN5bi5jb20vcnNz&ved=0CAAQ4aUDahcKEwjA2e2koZXoAhUAAAAAHQAAAAAQCQ)
 *  GitLab sales managers may access additional information in the [Force Management Command Center](https://gitlab.lyearn.com/) (password protected since resources contain Force Management intellectual property). In particular, the [Channels](https://gitlab.lyearn.com/#/learner/channels) section of the Force Management Command Center contains supplemental instructional videos, podcasts, and blogs).
@@ -213,17 +214,17 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 <details>
 <summary markdown="span">Sharing Feedback</summary>
 
-Over time, the GitLab Value Framework and associated content above will iterate and evolve. To ensure these changes are easily consumable, iterations will be made on a predictable cadence. We will start with a quarterly cadence. 
-*  At the start of the last month of a fiscal quarter, Field Enablement will announce a Call for Feedback to solicit input/feedback on suggested iterations and improvements to the GitLab Value Framework and associated content (but feedback may be submitted at any time)
+Over time, the GitLab Value Framework and associated content above will iterate and evolve. To ensure these changes are easily consumable, iterations will be made on a predictable cadence of 2x per year. We track issues on this [VFF issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/boards/1626195). 
+*  At the start of the last month of Q1 and Q3, Field Enablement will announce a Call for Feedback to solicit input/feedback on suggested iterations and improvements to the GitLab Value Framework and associated content (but feedback may be submitted at any time)
 *  To share feedback, submit an issue using [**this issue template**](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=value-framework-feedback)  
-*  Field Enablement and Product Marketing leadership will review feedback during the middle of the first month of a new quarter. Additional stakeholders and subject matter experts will be pulled in as appropriate.
-*  During this review, Field Enablement and Product Marketing will determine the disposition for each issue submitted with three possible outcomes
+*  Field Enablement and Product Marketing leadership will review feedback by or before the first few weeks of Q2 and Q4. Additional stakeholders and subject matter experts will be pulled in as appropriate.
+*  During this review, Field Enablement and Product Marketing will determine the disposition for each issue submitted with three possible outcomes:
    1. Accepted (label: `vff::accepted`) - Value Framework feedback that will be actioned on
    1. Deferred (label: `vff::deferred`) - Value Framework feedback that will be deferred until more information is gathered
    1. Declined (label: `vff::declined`) - Value Framework feedback that is declined (no action will be taken)
 *  When the `vff::accepted` label is added, a version label will be applied (`ver::1.1`, `ver::1.2`, etc.) to indicate the version of the Value Framework in which the improvement will be implemented
 *  When the improvement has been implemented, the `vff::completed` label will be applied 
-*  Around the end of the first month of a new quarter, a summarized update of accepted feedback will be shared with the field and implementation of those updates will be tracked in the issues
+*  By or before the end of the first month of Q3 and Q1, a summarized update of accepted feedback will be shared with the field and implementation of those updates will be tracked in the issues
 </details>
 
 <details>
@@ -236,12 +237,12 @@ Below is a summary of enhancements made to the GitLab Value Framework and CoM ma
 - Exposed mantra, GitLab value drivers, and differentiators in Handbook
 - Adjusted [core content](/handbook/sales/command-of-the-message/#resources-core-content) sharing settings to make available for public consumption
 - Integrated Professional Services value proposition into the GitLab Value Framework
-- Introduced [Discovery Questions for Selling GitLab Premium/Silver and Ultimate/Gold](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold)
+- Introduced [Discovery Questions for Selling GitLab Premium and Ultimate](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate)
 - Updated proof points
 
 **Version 1.2 (Aug 2020)**
 - More Proactive and Robust Metrics Guidance via [Demystifying the Metrics Conversation](/handbook/sales/command-of-the-message/metrics/) Handbook page
 - Changed MEDDPICC to [MEDDPPICC](/handbook/sales/meddppicc/) to reflect importance of understanding Partner influence on opportunities
 - MVP release of the [GitLab Customer Use Case Solution Summary](https://docs.google.com/document/d/11O13xs0KABA7RSrVlF_Qm9kDRJGtK-LmvJlVGYr0qNM/edit?usp=sharing) featuring Tier 1 customer use cases
-- Content refresh (updated [Proof Points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, [Discovery and Trap-Setting Questions for Selling GitLab Premium/Silver and Ultimate/Gold](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premiumsilver-and-ultimategold), and Peach Tech & Fuzz It related updates)
+- Content refresh (updated [Proof Points](/handbook/sales/command-of-the-message/proof-points/), new ROI materials, [Discovery and Trap-Setting Questions for Selling GitLab Premium and Ultimate](/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate), and Peach Tech & Fuzz It related updates)
 </details>

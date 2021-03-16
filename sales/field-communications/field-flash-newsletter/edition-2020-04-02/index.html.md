@@ -44,7 +44,7 @@ COVID-19 has shaken up the way that many companies work, and we are in a unique 
 
 ICYMI, check out McB's message to the team for his thoughts on COVID-19, the economy, and some actions we are taking as we continue to grow and invest during a challenging time. [Watch Now -->](https://www.youtube.com/watch?v=nYUaAAPY1O8&feature=youtu.be)
 
-We have passed our SOC2 Type 1 audit and now have a report available to share with customers and any prospects covered under NDA. This may satisfy the need for some customers/prospects regarding information security questionnaires. [See Handbook for Details -->](/handbook/engineering/security/security-assurance/security-compliance/certifications.html#requesting-a-copy-of-the-gitlab-soc2-type-1-report)
+We have passed our SOC2 Type 1 audit and now have a report available to share with customers and any prospects covered under NDA. This may satisfy the need for some customers/prospects regarding information security questionnaires. [See Handbook for Details -->](/handbook/engineering/security/security-assurance/security-compliance/certifications.html#requesting-a-copy-of-the-gitlab-soc2-type-2-report)
 
 New case study alert for a company that we all know and love – Chorus. Read for some great referenceable tidbits, like how we've helped them reduce some production cycles from 6 weeks to 1 week. [Read More Here -->](https://about.gitlab.com/customers/chorus/)
 
@@ -94,7 +94,7 @@ Note that all in-person regional events are still tentative due to risks surroun
 - [Gitlab Connect Toulouse, France](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/869), May 19
 
 ### Enablement Corner 🧠
-Session recordings from Sales Kickoff are here! Get access to slides and video recordings from popular sessions like "Product Strategy & Vision," "Sales & Marketing Strategy & Vision," and "Leveling Up with Partners at GitLab." [See all available recordings in the Handbook -->](/handbook/sales/training/SKO/#sales-kick-off-2020)
+Session recordings from Sales Kickoff are here! Get access to slides and video recordings from popular sessions like "Product Strategy & Vision," "Sales & Marketing Strategy & Vision," and "Leveling Up with Partners at GitLab." [See all available recordings in the Handbook -->](/handbook/sales/training/SKO/#sales-kickoff-2020)
 
 The new Sales Standard Operating Procedures (SOP) page outlines in detail the process for phase one of the sales cycle: Engaging & Educating the Customer. SOPs for other phases coming soon! [Check it out -->](/handbook/sales/sales-operating-procedures/engage-and-educate-the-customer/)
 

@@ -57,13 +57,7 @@ To achieve GitLab “certified” status, candidates must complete both the onli
 * The practical assessment will require team members to demonstrate the ability to deliver customer engagements to GitLab’s standards 
 * Upon completion of all courses within each certification, learners will receive a badge
 
-![SAL-badge](/handbook/sales/training/field-certification/gitlab-certified-strategic-account-leader.png)
-
-![R7-badge](/handbook/sales/training/field-certification/gitlab-certified-required-7.png)
-
-![SA-badge](/handbook/sales/training/field-certification/gitlab-certified-solutions-architect.png)
-
-![TAM-badge](/handbook/sales/training/field-certification/gitlab-certified-technical-account-manager.png)
+![field-cert-badges](/handbook/sales/training/field-certification/field-cert-badges.png)
 
 ## Roadmap
 Alpha testing for the below courses will take place in FY21Q4:

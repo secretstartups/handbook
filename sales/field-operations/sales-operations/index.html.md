@@ -1,16 +1,17 @@
 ---
 layout: handbook-page-toc
 title: 'Sales Operations'
+description: "Sales Operations aim to help facilitate new and existing processes throughout our field organization via the use of systems, policies, and direct support. "
 ---
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
 ## On this page
 
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
   {:toc .hidden-md .hidden-lg}
+
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 {::options parse_block_html="true" /}
 
@@ -24,7 +25,7 @@ Sales Operations main focus is on the Sales organization and supports this group
   <a href="/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
   <a href="/handbook/sales/field-operations/sales-operations/#sales-operations-go-to-market" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
   <a href="/handbook/sales/qbrs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
-  <a href="/handbook/business-ops/resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
+  <a href="/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
     </div>
 
 ## **Meet the Team**
@@ -99,11 +100,11 @@ Salesforce [chatter](/handbook/sales/field-operations/sales-operations/deal-desk
 1. [Updating or creating Opportunity Splits ](/handbook/sales/forecasting/#opportunity-splits)
 1. [Salesforce Lightning for Gmail](/handbook/sales/prospect-engagement-best-practices)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/Zoominfo segmentation conflicts](/handbook/business-ops/resources/#segmentation)
-1. [Reassigning to a Territory Rep](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [Requesting Reassignment](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
-1. [If LEAD or CONTACT is owned by SDR team member](/handbook/business-ops/resources/#record-creation-in-salesforce)
-1. [Locked Deal](/handbook/business-ops/resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+1. [DataFox/Zoominfo segmentation conflicts](/handbook/sales/field-operations/gtm-resources/#segmentation)
+1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [If LEAD or CONTACT is owned by SDR team member](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce)
+1. [Locked Deal](/handbook/sales/field-operations/gtm-resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
 1. [Deal Desk assistance](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
 
 </details>
@@ -223,6 +224,43 @@ Contacts, and Leads, Verify and Save)
 
 </details>
 
+<details>
+<summary markdown='span'>
+  Steps to update existing reports with ARR fields
+</summary>
+
+
+Below are the steps to update and/or replace ACV with ARR in existing SFDC reports and dashboards.
+ 
+1. **Step 1:** Navigate to the report that needs to be updated 
+1. **Step 2:** Click on the **Customize** button to make edits
+1. **Step 3:** In the **Preview** section of your report, click on the carrot next to **Show** and make sure  Details has been selected.  This will populate all the fields currently added to your report.
+1. **Step 4:** In the **Fields** panel on the left side of your screen, enter “ARR” into the Quick Find search to populate available ARR fields
+1. **Step 5:** Drag the ARR field(s) you want to add to your report from the **Fields** panel and drop into the reporting grid.("Net ARR" is the standard field)
+1. **Step 6:**  Once your ARR field has been added to the report grid, hover over the name and select the carrot.  From there choose the **Summarize this field** option and check the applicable summary option(s). Select **Apply**
+1. **Step 7:** Remove any old IACV fields by dragging them from the report grid to the **Fields** panel OR hover over the name and choose **Remove Column** from the drop down list
+1. **Step 8:** If there is a chart or a graph associated with your report that has been edited, you should also edit the chart to reflect your field changes. After you have added and summarized the Net ARR field, Select **Edit** on the very left corner of the chart. On the pop-up screen, change the data that is populated as Sum of Net IACV/Incremental ACV to Sum of Net ARR from the drop down list and Select **Ok**.
+1. **Step 9:** When you’ve added and removed all appropriate fields, click the **Run Report** button at the top of your screen.
+1. **Step 10:** On the following screen, review your changes to ensure the report is functioning as you expect (select the **Hide Details** button if you don’t want to see all fields) and click the **Save** button. 
+1. **Step 11:** In many cases, no changes need to be made to the name or location of the report so choose **Save** or **Save & Return to Report** to complete the final step.  However, if the report name references IACV in any capacity, please update the report name to the corresponding ARR from the **Report Properties** tab at the top before your final Save option.
+
+**Common fields that need to be updated**
+
+
+| **Existing Field Name** | **Field to Replace With** | 
+| ----------------------- | ----------------------- | 
+| Net IACV                | Net ARR                 | 
+| Incremental ACV         | Net ARR                 | 
+| Renewal ACV             | ARR Basis               | 
+
+**Resources**
+
+- Please take a moment to review this quick **video outlining the steps above**: https://www.screencast.com/t/dJxbf069 
+- Refer to the [ARR in Practice handbook page](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#net-arr) for **additional information on ARR** 
+- If you **need help** updating the report or walking though these steps, please slack us with a link to the SFDC report in the `#sales-support` Slack channel
+
+</details>
+
 ## **How we work**
 
 - [Sales Operations Agile Board](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/boards/1655825?label_name[]=SalesOPS)
@@ -272,7 +310,6 @@ The full company tech stack list with definitions can be found on the [Business 
 
 1. An overdue opportunity report goes out every Tuesday to managers.
 1. An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email.
-1. Sales Operations will give until the 15th of the month and then forklift any opportunity with a close date in the past month to a future close date.
 1. Managers have "over due" reports on their dashboards for review as needed.
 
 </details>
@@ -285,7 +322,7 @@ The full company tech stack list with definitions can be found on the [Business 
 1. To ensure the appropriate users have access and that we're being fiscally responsible in terms of overall usage, users with no usage in 90 days will be deactivated.
 1. Usage will be reviewed once at the beginning of the second month of the quarter so as not to disrupt any quarter end/quarter start cadences. The dates are scheduled on the Field Ops calander.
 1. An [Access Change Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#access-change-request) will be created and an email will be sent to users as extra notification.
-1. If access is needed in the future, please submit a new [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#single-person-access-request) and we can confirm if SFDC is the correct place to gather this information or if other tools can provide it.
+1. If access is needed in the future, please submit a new [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and we can confirm if SFDC is the correct place to gather this information or if other tools can provide it.
 
 <details>
 <summary markdown='span'> Instructions for Sales Operations team on completing SFDC Access Removal Process
@@ -375,13 +412,21 @@ Click the “Related Chatter Object” link to view the original request.
    - Always cc Brent Caldwell on the chatter for awareness.  If unsure, ask Brent to advise on correct owner/territory. 
    - Reference the [Master Territory List Public Sector Account Coverage](https://docs.google.com/spreadsheets/d/19LmWOxDegBfuPCdFK5e0voIUh7EpmF_OT4H4gY9YHUU/edit#gid=1263929675) sheet to determine the owner and the territory. The master tab will give the overview of the territory / SAL relationship.  The following tabs will list the accounts that belong in each territory.
    - NOTE: Public Sector accounts use the **Owner field** and the **Account Territory field**. These will be the only 2 fields to update for Public Sector requests. 
-
-     
-
-
-
+ 
 
 </details>
+</details>
+
+
+<details>
+<summary markdown='span'> Field Marketing Manager Update Process-Operator's Guide
+</summary>
+
+The `Field Marketing Manager` field on the account is maintained by Sales Operations. Reporting for acccounts that need updated are on the[SalesOps CleanUp Dashboard](https://gitlab.my.salesforce.com/01Z4M000000skZj).  Requests to update the field will come in through Chatter requests or Sales Operations issues for requests to change more than 10 accounts.
+
+1. Enterprise, Mid-Market and First Order accounts are updated through LeanData routing and the mapping is maintained in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293). 
+1. Named and PubSec are dataloaded manually on a monthly cadence. PubSec mapping is maintained in the Master Territory List Public Sector Account Coverage file.  Named mapping is maintained in [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293)in the Named Reps tab. 
+
 </details>
 
 ## **Sales Operations Sponsored Dashboards and Maintenance**
@@ -437,22 +482,23 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 **SMB AMER**
 
 1. [SMB AMER Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOY)
+2. [SMB AMER Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **SMB EMEA & APAC**
-
-2. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+1. [SMB EMEA & APAC Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRh)
+2. [SMB EMEA & APAC Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market East**
-
-3. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+1. [Mid Market-East Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOE)
+2. [Mid Market-East Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market West**
-
-4. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+1. [Mid Market-West Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRr)
+2. [Mid Market-West Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 **Mid Market EMEA**
-
-5. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+1. [Mid Market EMEA Team Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXRw)
+2. [Mid Market EMEA Forecasting Splits](https://gitlab.my.salesforce.com/01Z4M000000oXWh)
 
 </details>
 
@@ -460,7 +506,7 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 ### **Account Ownership Rules of Engagement**
 
-[Account Ownership Rules of Engagement Handbook](/handbook/business-ops/resources/#account-ownership-rules-of-engagement)
+[Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 
 ### **Sales Territories**
 
@@ -560,7 +606,7 @@ The Sales Operations team supports the opportunity credit split approval process
    - If the opportunity is incorrectly assigned, the split should still match the owner until correct opportunity assignment is made.
    - This is automated and should be monitored on this [Exception Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXQt) weekly.
 3. There will never be a split that totals above 100%.
-4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includeds opportunity splits.
+4. SFDC reports and Dashboards will only reflect opportunity splits if the report type includes opportunity splits.
 
 **Opportunity Splits in Clari**
 
@@ -582,7 +628,7 @@ Below are instructions on how Sales Operations provisions users within the vario
 For status on an issue please view the [Sales Operations Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331).
 
 <details>
-<summary markdown='span'>Operators Guide: Sales Opeartions Owned Provisioning </summary>
+<summary markdown='span'>Operators Guide: Sales Operations Owned Provisioning </summary>
 
 ### Sales Operations Access Request Labeling System
 
@@ -611,7 +657,7 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 
 ### Single Person or Bulk Access Request
 
-1. The user will manually create a [single person or bulk AR](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#singlebulk-access-requests-instructions)
+1. The user will manually create a [single person or bulk AR](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request)
 2. In the instructions, they are directed to the Tech Stack doc with the following tasks:
    - Add the SalesOpsAR::Action Needed label
    - Leave the assignee blank
@@ -631,7 +677,7 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 1. Updated the Role, Team and License Type. These will be based off of the users job role/region and should be listed and or approved in the Access Request. If questionable, look at other provisioned users of the same title/role.
 1. Click the **Send Invites** button to invite the user to Chorus.
 
-Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, all else listener.
+Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, EMEA Commercial and SDR will get recorder once they have completed the GDPR training course.all else listener.
 
 ### DataFox
 
@@ -651,4 +697,4 @@ Below are instructions on how Sales Operations offboards users within the variou
 
 1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps%20Tech%20Stack-Completed).
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
-1. When the user has been deactivated in the systems listed for the Sales Opeartions DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
+1. When the user has been deactivated in the systems listed for the Sales Operations DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'

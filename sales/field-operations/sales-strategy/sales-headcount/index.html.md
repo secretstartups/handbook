@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Headcount"
+description: “Guide for requesting position adjustments for Sales team members”
 ---
 
 ## On this page

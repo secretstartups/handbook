@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Sales Kick Off"
-description: "The GitLab Sales Kick Off sets the tone for the GitLab field organization for the new fiscal year"
+title: "Sales Kickoff"
+description: "The GitLab Sales Kickoff sets the tone for the GitLab field organization for the new fiscal year"
 ---
 
 ## On this page
@@ -10,51 +10,55 @@ description: "The GitLab Sales Kick Off sets the tone for the GitLab field organ
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# SKO Overview
+# Sales Kickoff (SKO) Overview
 This event sets the tone for the GitLab field organization for the new fiscal year with a focus on the following goals:
 1.  **Motivate**: Be energized about GitLab’s vision & strategy and the incredible opportunities ahead (for each and every GitLab team member, the company, our customers & partners)
 1.  **Celebrate**: Recognize and enjoy the successes of the prior fiscal year
 1.  **Enable**: Ensure every field team member returns home with a clear understanding of what’s needed to plan and execute their business for the new fiscal year (based on functional enablement priorities from senior leadership) 
 
-# Sales Kick Off 2021
-SKO 2021 is scheduled to take place virtually during the week of Feb 8-12, 2021. Our theme is Peak Performance. Check out our [SKO 2021 Theme Reveal Video](https://vimeo.com/487653102) for a preview of the brand design. 
+# Sales Kickoff 2021
+SKO 2021 took place virtually during the week of Feb 8-11, 2021. Check out the SKO 2021 Peak Performance theme reveal and pre-event promo videos below.
 
-More details coming soon!
+<figure class="video_container">
+  <iframe src="https://player.vimeo.com/video/487653102?color=fc6d26&title=0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
-## High-level SKO 2021 Agenda 
-Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-12, 2021. We will offer live content in two time zones to accommodate our team members around the world. Below is a high-level agenda for each time zone: 
+<figure class="video_container">
+  <iframe src="https://player.vimeo.com/video/503035779?color=fc6d26" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+## High-level Sales Kickoff 2021 Agenda 
+Virtual SKO 2021 will consist of half-day sessions each morning (PT) during the week of Feb 8-11, 2021. We will offer live content in two time zones to accommodate our team members around the world. Below is a high-level agenda for each time zone: 
 
 ### AMER/EMEA Time Zone
-*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. Complete first, segment-specific Field Certification course.
-*  Mon, 2021-02-08: Keynotes, Q&As
-*  Tue, 2021-02-09: Keynotes, Q&As
+*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. 
+*  Mon, 2021-02-08: Keynotes, Customer Speaker, Q&As, regional team building (AMER)
+*  Tues, 2021-02-09: Keynotes, Q&As, regional team building (EMEA)
 *  Wed, 2021-02-10: Awards ceremony, role-based breakout sessions, Partner Summit
-*  Thu, 2021-02-11: Role-based breakout sessions
-*  Fri, 2021-02-12: Role-based breakout sessions, regional team building
+*  Thurs, 2021-02-11: Role-based breakout sessions, Comp Plan information session 
 
 ### APAC Time Zone (Based on AEDT)
-*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO. Complete first, segment-specific Field Certification course.
-*  Tue, 2021-02-09: Keynotes, Q&As
-*  Wed, 2021-02-10: Keynotes, Q&As
-*  Thu, 2021-02-11: Awards ceremony, role-based breakout sessions, Partner Summit
-*  Fri, 2021-02-12: Role-based breakout sessions, regional team building
+*  Pre work: Embrace remote → learn about product strategy/roadmap prior to SKO.
+*  Tues, 2021-02-09: Keynotes, Customer Speaker, Q&As, regional team building
+*  Wed, 2021-02-10: Keynotes, Q&As, regional team building (EMEA)
+*  Thurs, 2021-02-11: Awards ceremony, role-based breakout sessions, Partner Summit
+*  Fri, 2021-02-12: Role-based breakout sessions, Comp Plan information session 
 
 ** Note that agenda details are subject to change. 
 
 ## SKO 2021 Tickets 
-You must book a ticket for this event. This is how we keep track of who is attending and all other details. Please look out for registration in January 2021. 
+You must book a ticket for this event. This is how we keep track of who is attending and all other details. Please look out for registration details via email and Slack in January 2021. Registration should be completed no later than 2021-02-05. 
 
-We will be validating all registrations on the back end, and any unapproved registrants will be canceled. Please do not book if you are not approved to attend this event.
+We will  validate all registrations on the back end, and any unapproved registrants will be canceled. Please do not book if you are not approved to attend this event. See the FAQs below for more information about who is approved to attend SKO. 
 
 **Ticket Types:**
-- Sales - for all in the Sales org
-- Other - for team members outside of the Sales org
-- Guest - for guest speakers
+- GitLab Team Member Attendees - GitLab Internal Team Members (Sales, Customer Success, Channel, Alliances, SDR and supporting teams) 
+- Channel Partner Ticket - External channel partners joining GitLab Sales Kickoff
 
-## SKO 2021 FAQ 
+## Sales Kickoff 2021 FAQ 
 **Q: What are the dates and location?**
 
-A: Sales Kick Off (SKO) will take place virtually from 08-Feb through 12-Feb, 2021. 
+A: Sales Kickoff (SKO) will take place virtually from Feb 8-11, 2021. 
 
 **Q: Why are we having a virtual event versus an in-person SKO?**
 
@@ -66,11 +70,17 @@ A: We hope to! Sales leadership is looking into opportunities to get the team to
 
 **Q: What platform(s) are we using for the virtual event?**
 
-A: Please stay tuned for more information on our virtual event platform! 
+A: We are using Hopin as our virtual event platform. This is the same platform we used for Contribute. 
 
 **Q: When and how should I register?**
 
-A: The SKO core team will reach out via email with registration links and update this page with registration details once they are available.  
+A: The SKO core team has reached out via email with registration links. Please complete registration through this email by 2021-02-05.
+
+**Q: Who is approved to attend SKO?**
+
+A: SKO attendees are set and approved by Sales and Marketing leadership. Attendees include all Field Team members (Sales, Customer Success, Channel, Alliances, SDR), select Marketing attendees appointed by the CMO, and other supporting team members from People Ops, Legal and Product. 
+
+If you believe you should be included in SKO based on the categories outlined above, please reach out to David Somers (for Field and other supporting teams) or Todd Barr/Marketing leadership (for Marketing team members).
 
 **Q: How are we accommodating different time zones?**
 
@@ -82,15 +92,21 @@ A: You will be added to the registration for the time zone that coordinates with
 
 **Q: Will there be any pre-work?**
 
-A: In support of GitLab’s all-remote culture, there will be pre-work that all SKO participants will be asked to complete to make the best use of our time together in person. Details will be shared in early Q4. 
+A: In support of GitLab’s all-remote culture, all SKO participants are  asked to complete pre-work to help you get the most out of the planned content and make the best use of our time together.
+
+To access the course, go to gitlab.edcast.com, sign in via SSO, click on "My Learning Plan," then click on the "SKO 2021 Pre-Work" course. The pre-work will take approximately 2-2.5 hours to complete, so please plan accordingly.
 
 **Q: What will I be expected to participate in?**
 
 A: SKO is a great opportunity for our team to come together to both celebrate our results and collaborate for a strong start in the new year. As such, the agenda is purposely crafted with numerous activities to learn, network and celebrate together. We expect that every SKO to treat it as a “work trip” and block your calendar to ensure you fully participate in every part of the event.
 
+**Q: Is there a dress code for this virtual event?**
+
+A: While the event is virtual, we ask that you please regard the dress code like you would for any virtual customer or external meeting. You will be networking and interacting with your peers and Channel partners. We encourage you to be as engaged as possible – show up ready to ask questions, take notes and meet new people! 
+
 **Q: I just got hired – how do I attend SKO?**
 
-A: All new hires after TBD date will have 2 weeks from their start date to register and book travel. This info will be included in all new hire welcome packets if they are expected to attend.
+A: All eligible SKO attendees have until 2021-02-05 to register for the event. If you are a new hire and you have not received a registration email, please Slack #sko-virtual-2021. 
 
 **Q: How will we make SKO 2021 exciting even though it's virtual?**
 
@@ -112,57 +128,105 @@ We are actively planning this event and will update this FAQ as more information
 
 Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/)
 
+## SKO 2021 Day 1 Sessions
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Welcome to GitLab Sales Kickoff 2021 | [slides](https://docs.google.com/presentation/d/1tYA4skru1M8n41D41ZIA-4klgEiq3BRwRxXo2FF-tHg/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-welcome) (GitLab internal) |
+| Product Keynote: A Winning Product for Peak Performance | [slides](https://docs.google.com/presentation/d/1NunKRuZBnDcZi0k_N5-NQBvdy5X5ZaV4a1Qf7w126qs/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-product) (GitLab internal) |
+| Customer Spotlight: H-E-B and GitLab: A Happy Marriage | [slides](https://docs.google.com/presentation/d/1-PZn0IlB6SYvPMDW2zcF06mqAY61u9b-Dnv0vxRgJTI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/customer-spotlight) (GitLab internal) |
+| Customer Spotlight: Trendyol & GitLab: How International Expansion Drives Business Needs | [slides](https://docs.google.com/presentation/d/1Hk0sJnqtNwmuakQ3_awOuY_lJJkbzeOD1zVn5bG8Trw/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-trendyol) (GitLab internal) |
+
+## SKO 2021 Day 2 Sessions
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Marketing Keynote: Prepare for Peak Performance | [slides](https://docs.google.com/presentation/d/175Qyf6TGGN8vgDaCrBKek6hOGMA-LHYfqjl9or-RPyE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-marketing) (GitLab internal) |
+| Channel Keynote: Cover More Ground with Channel Partners | [slides](https://docs.google.com/presentation/d/18OL3wiTPvhK4ZEzhHcxIErE5WqtmGpdJdMyr0fFqHDM/edit#slide=id.gb5ab6e1814_0_0) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-channel) (GitLab internal) |
+| Alliances Keynote: Winning is a Team Sport! | [slides](https://docs.google.com/presentation/d/1DOzBi5Jrc7kUxhaECy13hR1LBv6TRvx2JP7JlYtvEN8/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-alliances) (GitLab internal) |
+| Closing Keynote: It's Time for Peak Performance | [slides](https://docs.google.com/presentation/d/1qjQIuynuPQg6rGuNQSzKFSgdS8q_QJLzlmYujRcP3VE/edit) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-closing) (GitLab internal) |
+
+## SKO Awards Ceremony
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| SKO FY21 Awards Ceremony | [slides](https://docs.google.com/presentation/d/1ur1lNCIqLutvsZQdaP8Gt8lQ-OWsEB-Lr2Vvxt99oxc/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/special) (GitLab internal) |
+| FY21 SKO - President's Club | [slides](https://docs.google.com/presentation/d/11jEBujHeSDjGPvhmjYIhaMt7BzyaJXknfN47o3_nuEI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/special) (GitLab internal) |
+
+## SKO 2021 Role-Based Breakout Sessions
+
+### Enterprise Sales Strategic Account Leaders
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Landing New Logos | [slides](https://docs.google.com/presentation/d/1LlbAppVrITBviI5_fM_JeEhDh7eUfnV50LhXiuu1xzI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-landing) (GitLab internal) |
+| Expand Strategy Into Security and Plan | [slides](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-expand) (GitLab internal) |
+| Account Planning: Master the Climb | [slides](https://docs.google.com/presentation/d/1JPWozZ83z1kStjpo7d0gQV4sq5MLGWKg-ZpXA2qlfiw/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-account-planning) (GitLab internal) |
+| Pivoting the Pricing Conversation | [slides](https://docs.google.com/presentation/d/12VxCqUkLAOMrCA5Af3MYwiUyy-nkxbr33bwa9IJfFG8/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-pivoting) (GitLab internal) |
+
+### Commercial Sales Account Executives
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-co-selling) (GitLab internal) |
+| Pitching to the Economic Buyer | [slides](https://docs.google.com/presentation/d/1XY04MGHsS17LnT_KdqF62op6hK1v34flb9roAvq9miE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout) (GitLab internal) |
+| Placing Customers in the Right Tier | [slides](https://docs.google.com/presentation/d/1FrJ9Xgh83l1lYn3jXOYM3aGbdd1XautBHlXoXd1MoCU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/placing) (GitLab internal) |
+| Finding the "Why Now" | [slides](https://docs.google.com/presentation/d/1oli6HEGT7lStuEZ4MD5tL_ndl_TKEQveVHX5RRscTrs/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-finding) (GitLab internal) |
+
+### Channel Sales Account Managers
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Co-Selling with Services Partners | [slides](https://docs.google.com/presentation/d/13YgoPyLryyP8Mnxq8xALZvH6e01ltbSlKi8htMU2gmY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-gitlab) (GitLab internal) |
+| Planning for Joint GitLab and Partner Success | [slides](https://docs.google.com/presentation/d/1Bw-kIgYlIfX4kyOS4Wgb_k0PjXJ3u4-WdD0b4xxWhtU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-planning) (GitLab internal) |
+| Growing Our Partner Business (Individual and CSM Partner Portfolio) | [slides](https://docs.google.com/presentation/d/126nNQ5VX-kFNVxfI1YBQL9uWo9EVh3P7tmabQwAX2UI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-growing) (GitLab internal) |
+| Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-building) (GitLab internal) |
+
+### Solution Architects
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Landing New Logos | [slides](https://docs.google.com/presentation/d/1LlbAppVrITBviI5_fM_JeEhDh7eUfnV50LhXiuu1xzI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-landing) (GitLab internal) |
+| Expand Strategy Into Security and Plan | [slides](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-expand) (GitLab internal) |
+| Strategies to Win Without a Long PoV (Proof of Value) | [slides](https://docs.google.com/presentation/d/1TfrWlH6lhGbbBd0y6LOL5SYYvoqCgGz0fW1o_GBMn-U/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-strategies) (GitLab internal) |
+| Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-leveling) (GitLab internal) |
+
+### Technical Account Managers
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Account Based Strategy & Marketing for Customers | [slides](https://docs.google.com/presentation/d/1Ea1Fa7q7sXa_O552xlrJwHWf8YXFS7YCTIErjEJxMo0/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-account) (GitLab internal) |
+| Expand Strategy Into Security and Plan | [slides](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-expand) (GitLab internal) |
+| Embracing Differences with Social Styles | [slides](https://docs.google.com/presentation/d/1c8HQHPzNLIK68LA7QSEEFuekeNEB45VlTCzQP_qDN2c/edit?usp=sharing) (GitLab internal) | no video |
+| Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-leveling) (GitLab internal) |
+
+### Professional Services Engineers
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| How to Work with Partners: Tactically and Technically | [slides](https://docs.google.com/presentation/d/1k0MjqEnu6-zp7SyeZGddRfCeEx_iG3CYIg2l237hlc0/edit?usp=sharing) (GitLab internal) | no video |
+| Professional Services Methodology: Step by Step | [slides](https://docs.google.com/presentation/d/1XK_gALJgA13E-vUN-lv9fg5d1BmQ7ciG6nlkIK2BAKM/edit?usp=sharing) (GitLab internal) | no video |
+| Using Congregate to Migrate Customers to GitLab | [slides](https://docs.google.com/presentation/d/1YL_A4uhrtPfUfPNzrJRq6stDFhMw-k4-jKOH-65LLaY/edit?usp=sharing) (GitLab internal) | no video |
+| Leveling Up the Conversation with the 5 Whys | [slides](https://docs.google.com/presentation/d/1-oTZjDykh3tInL9sU4xzSpn9JarWO_mMGYOVTpmHmcE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-leveling) (GitLab internal) |
+
+### Sales Development Reps
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Thriving as a Remote SDR: From Cold-calling Jiu-jitsu to Planning Long Term Career Success (featuring Tito Bohrt) | no slides | [video](https://gitlab.edcast.com/insights/thriving) (GitLab internal) |
+| Converting Free to Paid | [slides](https://docs.google.com/presentation/d/1VtKYJXowqh8amuW6opg2HzAJfhoOD_9PEEIVoAzF6CU/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-converting) (GitLab internal) |
+| SDR Competitive Blueprint | [slides](https://docs.google.com/presentation/d/1RPkiF99Ogq7xr9S87tG5pQKYOHQVnlWok31beeTdHlY/edit?usp=sharing) (GitLab internal) | no video |
+| Security: Our Biggest Differentiator | [slides](https://docs.google.com/presentation/d/1Rog--UoCV71SvbdMdgkpMwY_s29tb8B5R2vR77J5jAQ/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/security-as) (GitLab internal) |
+
+### Field Marketing
+
+| **Session Name** | **Presentation** | **Video** |
+| ------ | ------ | ------ |
+| Account Based Strategy & Marketing for Customers | [slides](https://docs.google.com/presentation/d/1Ea1Fa7q7sXa_O552xlrJwHWf8YXFS7YCTIErjEJxMo0/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-account) (GitLab internal) |
+| Field Marketing Goals for FY22 | [slides](https://docs.google.com/presentation/d/1u1EOXR8WJsf464ILjMoun8gne2gazU9pGfHHjensp2c/edit?usp=sharing) (GitLab internal) | no video |
+| Building Pipeline with Your Partners - MDF and Marketing Campaigns | [slides](https://docs.google.com/presentation/d/1dsMBEgzH5La3zEO81cuNtmyJJJKBDPThJt7WU2fcJNY/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/breakout-building) (GitLab internal) |
+
 ----
 
-# Sales Kick Off 2020
-In February 2020, the entire sales organization and their supporting teams gathered in Vancouver, BC Canada for the inaugural GitLab Sales Kick Off. This page includes slide decks, videos, and pictures from the event.
+## [Sales Kickoff 2020](/handbook/sales/training/SKO/2020)
 
-## SKO 2020 Theme
-**Level Up** - It works across nationalities / languages and has lots of ways we can tie it into the content. All about leveling up the business.
-
-## SKO 2020 Day 1 Sessions
-
-| **Session Name** | **Presentation** | **Video** |
-| ------ | ------ | ------ |
-| Welcome & FY21 Overall GitLab Strategy & Vision | [slides](https://drive.google.com/open?id=1mvqXfa3vIQec8mhBSzVB5gZDC7LJwdMhjHev0nkVj9g) (GitLab internal) | [video](https://youtu.be/kc3H0gMC7u4) (GitLab internal) |
-| Product Strategy & Vision with Q&A | [slides](https://drive.google.com/open?id=1DfsjznCwqBz9MpueftriC1QS81QHuXcdAACqtdcFPU0) (public) | [video](https://youtu.be/fS5T-XOvXPk) (public) |
-| FY21 Sales & Marketing Strategy & Vision with Q&A | [slides](https://drive.google.com/open?id=1bq_bxM07PTNF3rfAbFB_Fia7U8CszfLTEJUrF-bfilI) (GitLab internal) | [video](https://youtu.be/8vrp1AGRp1U) (GitLab internal) |
-| CRO Staff Level Up Panel Discussion | no slides | [video](https://youtu.be/EYlC9uP3LoE) (GitLab internal) |
-| Leveling Up with Partners at GitLab | [slides](https://drive.google.com/open?id=12j219pElrox1hUyMpiOwSSrTV6S6biLurahKuLjvH1Y) (GitLab internal) | [video](https://youtu.be/jMUzgPIfFXg) (GitLab internal) |
-| Keys to Winning panel discussion | [slides](https://drive.google.com/open?id=1V1lDVIJyX1mMin2Hm7AaExps0WAgczi6vAB6UWFuR8c) (GitLab internal) | [video](https://youtu.be/ervvabavL2o) (GitLab internal) |
-| Sales Kick Off Awards Ceremony | [slides](https://drive.google.com/open?id=1deR4D2GplTGan1E2ENZbhZ0rt4YiUzZEJGX7RLj83yY) (GitLab internal) | [video](https://drive.google.com/open?id=1_lbLGvYhhB6ynyaWngeuE6nkDUcUXv1A) (GitLab internal) |
-
-
-## SKO 2020 Day 2 Sessions
-
-| **Session Name** | **Presentation** | **Video** |
-| ------ | ------ | ------ |
-| Day 2 Welcome | no slides | [video](https://youtu.be/bI1XBeZajIs) (GitLab internal) |
-| Articulating and Selling the GitLab Vision & Customer Journey | [slides](https://drive.google.com/open?id=14kO1iTqSwuvV-7CDHThslUv8_QP_EnaZg4yG-1romZc) (GitLab internal) | [video](https://youtu.be/DtL38mgpycE) (GitLab internal) |
-| Getting Into Accounts That Say They Don’t Have a Problem | [slides](https://drive.google.com/open?id=1dRdKs7BkbyTzTfFZ4JwwjJUIwgTSSOjkG-DEGDGgN30) (public) | N/A (not recorded) |
-| Proactively Competing Against Microsoft | [slides](https://drive.google.com/open?id=1WUdzaNn-tgm3Pa1W3JQyGjcR9JOR2a0rLUTA7zRNIt8) (GitLab internal) | [video](https://youtu.be/Ds_U8iiUOz8) (GitLab internal) |
-| Customer Expectations and Storytelling | [slides](https://drive.google.com/open?id=1hnYT7ulTPpb7C3V_fKdOU9gajAA1oufzp9EiDYQC-mU) (public) | N/A (not recorded) |
-| Finding and Defining the Customer’s Problem | [slides](https://drive.google.com/open?id=18NynGuJTEwSUnKkRR4A1fQa2xojPxpO3mlnvb3BmMXY) (public) | [video](https://youtu.be/_RSqUgYDjdQ) (GitLab internal) |
-| One Lab, One Story: Leveling Up Our Demo Labs | [slides](https://drive.google.com/open?id=1x125pYEjAQQX5vDo5u2eanAoVtoz5R2muiaYqXL_xEE) (public) | N/A (not recorded) |
-| Customer Success Plan Workshop | [slides](https://drive.google.com/open?id=15Qt-UcfRt9cX-4CV7zMsurojTZg_8Kf-u0dMYL16JXQ) (public) | N/A (not recorded) |
-| Gaining Access and Pitching to the Economic Buyer | [slides](https://drive.google.com/open?id=166GA0LyvQLG6y-9qAuKoJ6iZUxmjpjklLSZ1J9wC6z0) (public) | N/A (not recorded) |
-| Command Plan Excellence | [slides](https://drive.google.com/open?id=1Vjn5ICOpwxbZNFRZhvpwZc0REkHMeEKNSakpFV04EuM) (public) | [video](https://youtu.be/zN_0J6syxmM) (GitLab internal) |
-| Technically Competing Against MSFT in CI Use Case | [slides](https://drive.google.com/open?id=1Rfsk5_h5O6DF14wjgmd7WrzQPCC1yGzYPPdYG_JVApg) (GitLab internal) | N/A (not recorded) |
-| Next Level Engagements: Consulting Acumen | [slides](https://drive.google.com/open?id=1ahDNo93BpNSRonLj6C3iWKZfeJy1ZfJZosujpzSzo2U) (public) | N/A (not recorded) |
-| Proactively Competing Against Jenkins | [slides](https://drive.google.com/open?id=1IvftLfaQyKn5-n1GLgCZokOoLU-FFzQ8LfJ9cf0FVeg) (GitLab internal) | N/A (not recorded) |
-| Account Planning | [slides](https://drive.google.com/open?id=1XPhv3zqtR-q5sKgDx1HhnNkaQUSIVTO0pXj2wPdjafs) (public) | [video](https://youtu.be/-vPkzlWLZ8o) (GitLab internal) |
-| From SCM and CI to Security: Paths to Ultimate | [slides](https://docs.google.com/presentation/d/1VTCfKcAZ4NS2xQu8C-fA6pugCdvUbb0MfQhimLiAGak/) (public) | N/A (not recorded) |
-| Next Level Engagements: Consulting Methodology | [slides](https://drive.google.com/open?id=1TWg_grUCegOnJK8yCXxq7lRgVCByoJMCd59u3A1QjMo) (public) | N/A (not recorded) |
-
-
-## SKO 2020 Wrap Up
-* [SKO Wrap Up presentation](https://docs.google.com/presentation/d/1MwJRWCGl-U2qic_h3xHQxGDCUf1s0R23aKEIrXqcXW0/edit?usp=sharing) (public)
-* [GitLab FY21 Sales Kick Off Wrap Up and Survey Results](https://youtu.be/_q9M9_nwNy4) video (public) 
-
-## GitLab Infomercial
-* [Public version on YouTube](https://youtu.be/gzYTZhJlHoI) featuring David Astor
-* [Long version](https://drive.google.com/open?id=1yhG_JLh4rpayRvJYkYE4EJYMcNZkrUXd) (GitLab internal)
-
-## SKO 2020 Pictures
-* [Sales Kick Off photo album](https://photos.app.goo.gl/hcvEyzH3wDdccrQw7)
-* [LinkedIn headshots](https://drive.google.com/open?id=1_Laql3qZBj9hp6CXrHCs7ovrCQOGR1gx) 

@@ -7,7 +7,7 @@ title: "Tim Poffenbarger's README"
 
 ## Tim Poffenbarger's README
 
-**Solutions Architect for Mid-Market/SMB customers and prospects** 
+**[Manager, Solutions Architects - Commercial](https://about.gitlab.com/company/team/org-chart/#:~:text=Tim%20Poffenbarger)** 
 
 ## Related pages
 
@@ -26,9 +26,9 @@ title: "Tim Poffenbarger's README"
 
 <!-- Add 5-10 bullet points on what others can do to make your life easier when working with you. Strive to include elements that are nonobvious, or that people would not typically think to ask or consult you about. This enables others to be more efficient in helping you in a way that feels like help. -->
 
-In my Solutions Architect role, the more I get an opportunity to focus on communicating value and stay away from very deep technical and troubleshooting conversations, the more I can help you achieve target sales. I'm happy to review and contribute to business plans so we remain in sync.
+In the Solutions Architect role, the more our team can get an opportunity to focus on communicating value and stay away from very deep technical and troubleshooting conversations, the more the team can help you achieve target sales. The team is happy to review and contribute to business plans so we remain in sync.
 
-I'm happy to recommend and propose services for prospects and customers. For any custom statement of work, I can write the initial scope of work (SOW) and get approvals from the [Professional Services](/services/) team.
+The team is happy to recommend and propose services for prospects and customers. For any custom statement of work, the team can begin scoping out the initial scope of work (SOW) and get approvals from the [Professional Services](/services/) team.
 
 ## My working style
 
@@ -53,6 +53,8 @@ I assume that if there is anything you are expecting from me to do, it is clearl
 ## What I want to earn
 
 <!--Consider 3-5 bullets on your goals for earning things like trust and respect, or a broader understanding of new topics. This enables others to understand what motivates you. -->
+
+* Your trust - specifically so that positive intent is assumed by default
 
 ## Communicating with me
 

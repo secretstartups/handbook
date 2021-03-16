@@ -59,7 +59,7 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 <big>[Cook County Assessor's Office](/customers/cook-county/)</big><br>
 **Problem:** Cook County needed a data management platform for secure and accurate property assessments<br>
-**Solution:** GitLab Silver<br>
+**Solution:** GitLab Premium<br>
 **Result:** Over 1.8 million properties assessed with an estimated market value of $270 billion. There are 31 repositories, with over 1,400 commits<br>
 **Value Drivers:** Efficiency<br>
 **Differentiators:** Single App,SCM<br>
@@ -101,7 +101,7 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 <big>[European Space Agency](/customers/european-space-agency/)</big><br>
 **Problem:** Geographic separation led to software deployment that used to take weeks<br>
-**Solution:** GitLab Starter (VC&C, CI)<br>
+**Solution:** GitLab Free (VC&C, CI)<br>
 **Result:** Toolchain simplified and blooming culture of collaboration; code deployed in minutes when it used to take weeks<br>
 **Value Drivers:** Efficiency, Speed<br>
 **Usecase:** CI, CD, VC&C<br>
@@ -120,7 +120,7 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 <big>[CERN](/customers/cern/)</big><br>
 **Problem:** Lack of large scale collaboration and visibility<br>
-**Solution:** GitLab Starter (CI)<br>
+**Solution:** GitLab Free (CI)<br>
 **Result:** Over 12,000 users collaborate on GitLab, running 120,000 CI jobs each month<br>
 **Differentiators:** VC&C & CI, Open Source<br>
 **Usecase:** CI, VC&C<br>
@@ -301,7 +301,7 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[Hotjar](/customers/hotjar/)</big><br>
 **Problem:** Hotjar, a growing all-remote company, was looking for an enhanced CI/CD tool to replace Jenkins<br>
-**Solution:** GitLab Silver<br>
+**Solution:** GitLab Premium<br>
 **Result:** Daily deploys increased from 2 to 15, 30% decrease in time to build GitLab CI vs Jenkins, and 50% deployment time saved<br>
 **Value Drivers:** Efficiency, Speed<br>
 **Usecase:** SCM, CI, CD, Kubernetes, All Remote<br>
@@ -309,9 +309,9 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 ----
 
-<big>[Remote](/customers/remote)</big><br>
+<big>[Remote](/customers/remote/)</big><br>
 **Problem:** Remote wanted to get up and running quickly without spending time and money on a multi-toolchain<br>
-**Solution:** GitLab Silver<br>
+**Solution:** GitLab Premium<br>
 **Result:** 100% of deadline met, 100% focus on product and 3795 code pushed in a 3 month period<br>
 **Value Drivers:** Efficiency, Speed<br>
 **Usecase:** SCM, CI, CD, All Remote<br>
@@ -331,7 +331,7 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[MGA](/customers/mga/)</big><br>
 **Problem:** MGA was looking for a cost efficient CI platform that could improve workflow, knowledge, and code quality<br>
-**Solution:** GitLab Starter<br>
+**Solution:** GitLab Free<br>
 **Result:** Projects have grown from 80 to over 240, 10 times better success rates with CD than with manual deploys and 80% increase in time saved moving to GitLab CD<br>
 **Value Drivers:** Efficiency, Speed<br>
 **Usecase:** SCM, CI, CD<br>
@@ -372,7 +372,7 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[Glympse](/customers/glympse/)</big><br>
 **Problem:** Slow software development and delivery due to expensive and complex developer tool stack<br>
-**Solution:** GitLab Gold (Security, Agile, CI, CD, VC&C)<br>
+**Solution:** GitLab Ultimate (Security, Agile, CI, CD, VC&C)<br>
 **Result:** Teams over 2x more efficient, completing 50 days of work in 21 days; 8x faster deploys, from 4 hours to under 30 min; built-in security scanning making audit process easier<br>
 **Value Drivers:** Risk<br>
 **Differentiators:** VC&C & CI, Security<br>
@@ -402,7 +402,7 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 <big>[Trek10](/customers/trek10/)</big><br>
 **Problem:** Hard to collaborate across silos and with customers on cloud projects<br>
-**Solution:** GitLab Starter (CI)<br>
+**Solution:** GitLab Free (CI)<br>
 **Result:** GitLab and its integrated CI helps seamlessly and securely manage deployments across many AWS accounts<br>
 **Differentiators:** SW Anywhere<br>
 **Usecase:** CI<br>
@@ -471,7 +471,7 @@ _Innovative Solution in Developer Ecosystem for the tight integration with GKE_<
 ----
 
 <big>[GitLab voted as G2 Crowd Leader](/is-it-any-good/#gitlab-has-been-voted-as-g2-crowd-leader-in-2018)</big><br>
-_Over 170 public reviews with a 4.4 rating, including: "[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)," "[Great self-hosted, open source source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)," "[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)," and "[Perfect solution for cloud and on-premise DevOps tool](https://www.g2.com/products/gitlab/reviews/gitlab-review-2388492)"_<br>
+_Over 170 public reviews with a 4.4 rating, including: "[Powerful team collaboration tool for managing software development projects](https://www.g2.com/products/gitlab/reviews/gitlab-review-1976773)," "[Great self-hosted, open source, source control system](https://www.g2.com/products/gitlab/reviews/gitlab-review-436746)," "[Efficient, can trace back, easy to collaborate](https://www.g2.com/products/gitlab/reviews/gitlab-review-701837)," and "[Perfect solution for cloud and on-premise DevOps tool](https://www.g2.com/products/gitlab/reviews/gitlab-review-2388492)"_<br>
 **Value Drivers:** Efficiency, Speed, Risk<br>
 **Differentiators:** Rapid Dev, Visibility<br>
 **Usecase** VC&C, CI, CD

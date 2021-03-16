@@ -10,7 +10,7 @@ description: "This page includes a deep-dive into the definition of ARR at GitLa
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The below page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the [Sales Term Glossary Page](/handbook/sales/sales-term-glossary).
+The below page includes a deep-dive into the definition of ARR at GitLab and is a sub-page of the [Sales Term Glossary Page](/handbook/sales/sales-term-glossary/).
 
 ## Annual Recurring Revenue (ARR)
 
@@ -20,9 +20,7 @@ We snapshot ARR on business day 4.
 
 ### Delta ARR
 
-The change in annual recurring revenue (ARR) from one period to the next. 
-
-Note: Delta ARR is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Delta ARR from iACV when our systems are processes are ready to support that move.
+The change in annual recurring revenue (ARR) from one period to another based on Subscription start and end dates. 
 
 When looking at a time horizon of the next twelve months Delta ARR will equal IACV except:
 1. True-ups and CI Minutes are included in IACV but not in delta ARR
@@ -33,7 +31,7 @@ Delta ARR = iACV - [True Ups and CI Minutes] + [Coterm difference] +/- [Timing d
 
 ### Net ARR
 
-The Net ARR value of deals booked in a specific period. It is the bookings equivalent to Delta ARR.
+The Net ARR value of deals booked in a specific period based on SFDC Opportunity Close Date. It is the bookings equivalent to Delta ARR.
 
 When looking at a time horizon of the next twelve months Net ARR will equal IACV except:
 1. True-ups and CI Minutes are included in IACV but not in Net ARR.
@@ -41,25 +39,259 @@ When looking at a time horizon of the next twelve months Net ARR will equal IACV
 
 Net ARR = iACV - [True Ups and CI Minutes] + [Coterm difference].
 
-As Net ARR is a bookings metric, the period it represents is based on the Close Date of the Opportunity.
+### ARR Basis
 
-Net ARR is tracked in the `Net ARR` field located on the Opportunity in Salesforce.
+The ARR Basis of a renewal opportunity is the ARR of the subscription it is renewing.
+
+ARR Basis is automatically recalculated after every subscription change.
 
 ### Booked ARR
 
-The Booked ARR value of a deal includes its renewal amount and its Net ARR. It is the bookings equivalent of ARR. 
+The Booked ARR value of a deal which includes renewal ARR Basis plus it's Net ARR. It is the bookings equivalent of ARR. 
 
-**Example:** A customer with a $100k ARR subscription renews at $130k the following year. 
+**Example:** A customer with a $100k ARR subscription ($100k ARR Basis) renews at $130k the following year. 
 - Booked ARR = $130k. 
 - Net ARR = $30k.
 
 Booked ARR also includes multi-year bookings where the ARR renews even if the deal is not officially up for renewal.
 
-Note: Net ARR and Booked ARR are being developed along side ARR and Delta ARR and is not currently a metric that we can use for operational purposes including planning, compensation or as a KPI.  We are documenting assumptions to enable a transition to Booked Net ARR from iACV when our systems are processes are ready to support that move.
+## Annual Recurring Revenue (ARR) and Salesforce
+
+### ARR Opportunity Fields
+
+For more information on which opportunity fields are used in the calculation of ARR, see [Salesforce Booking Metrics Field Data Dictionary](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/#arr-fields).
+
+**ARR Opportunity Field Display**
+
+New Business/Add-On layout:
+
+![New Business/Add-On ARR Fields](/images/handbook/sales/NewBusinessAddOnARRFields.png "New Business and Add-On ARR Fields")
+
+Renewal layout:
+
+![Renewal ARR Fields](/images/handbook/sales/RenewalARRFields.png "Renewal ARR Fields")
+
+### How Net ARR is Calculated For Standard Deals
+
+Note: Each row in the tables below represents a unique deal. 
+
+#### Calculating Net ARR for **New Business** Opportunities:
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $120,000 | $120,000 |
+| New Business | 24 months |  $240,000 | $120,000 |
+| New Business | 36 months |  $360,000 | $120,000 |
+
+Net ARR vs. Net iACV Comparison
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** | **Net iACV** |
+| ------ | ------ | ------ | ------ | ------ |
+| New Business | 12 months | $120,000 | $120,000 | $120,000 |
+| New Business | 24 months |  $240,000 | $120,000 | $120,000 |
+| New Business | 36 months |  $360,000 | $120,000 | $120,000 |
+
+#### Calculating Net ARR for **Add-On** Opportunities:
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| Add-On Business | 6 months | $60,000 | $120,000 |
+| Add-On Business | 12 months | $60,000 | $60,000 |
+| Add-On Business | 18 months | $60,000 | $40,000 |
+
+Net ARR vs. Net iACV Comparison
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** | **Net iACV** |
+| ------ | ------ | ------ | ------ | ------ |
+| Add-On Business | 6 months | $60,000 | $120,000 | $60,000 |
+| Add-On Business | 12 months | $60,000 | $60,000 | $60,000 |
+| Add-On Business | 18 months | $60,000 | $40,000 | $40,000 |
+
+#### Calculating Net ARR for **Renewal** Opportunities:
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** |  **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $120,000 | $120,000 | $0 | $0 |
+| Renewal | 12 months | $140,000 | $120,000 | $20,000 | $0 |
+| Renewal | 12 months | $120,000 | $100,000 | $0 | $20,000 |
+| Renewal | 24 months | $240,000 | $120,000 | $0 | $0 |
+| Renewal | 24 months | $260,000 | $120,000 | $20,000 | $0 |
+| Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 |
+
+Net ARR vs. Net iACV Comparison
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **True-Up** |  **Net ARR** | **Renewal ACV** | **Net iACV** |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $120,000 | $120,000 | $0 | $0 | $120,000 | $0 |
+| Renewal | 12 months | $140,000 | $120,000 | $20,000 | $0 | $120,000 | $20,000 |
+| Renewal | 12 months | $120,000 | $100,000 | $0 | $20,000 | $100,000 | $20,000 |
+| Renewal | 24 months | $240,000 | $120,000 | $0 | $0 | $120,000 | $0 |
+| Renewal | 24 months | $260,000 | $120,000 | $20,000 | $0 | $120,000 | $20,000 |
+| Renewal | 24 months | $240,000 | $100,000 | $0 | $20,000 | $100,000 | $20,000 |
+
+Note: In FY22, future renewal opportunities are created automatically upon closure of any new business or renewal opportunity. On these future renewal opportunities, ARR Basis is calculated and stamped automatically at opportunity creation. In addition, ARR basis updates automatically when mid-term growth transactions occur, enabling real time data and accurate renewal forecasting.
+
+### How Net ARR is Calculated for Non-Standard Deals
+
+#### Calculating Net ARR for **Subscription Merges**:
+
+In the event that, upon renewal, multiple subscriptions are consolidated into one renewal, the **ARR Basis** on the active renewal opportunity will be updated by Deal Desk to reflect the combined ARR Basis of both existing subscriptions. The inactive renewal opportunity will be close as Duplicate.
+
+#### Calculating Net ARR for **Ramp Deals**:
+
+A **Ramp Deal** is defined as ["a single deal with multiple individual ramp periods."](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)
+
+In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that only multi-year deals can be ramped. Each ramp period will have its own opportunity in Salesforce. All ramp deals will be stamped with the "Ramp Deal" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value.
+
+- **New Business Ramp Deal Example:** A customer purchases a three-year ramped new subscription, where the Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
+
+**Opportunity 1 - Year 1:**
+
+Ramp Period: 2021-01-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $100,000 | $100,000 |
+
+**Opportunity 2 - Year 2:**
+
+Ramp Period: 2022-01-01 to 2022-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $200,000 | $100,000 |
+
+**Opportunity 3 - Year 3:**
+
+Ramp Period: 2023-01-01 to 2023-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $300,000 | $100,000 |
+
+- **Renewal Ramp Deal Example:** A customer purchases a three-year ramped renewal subscription, where the ARR Basis is $100,000, Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
+
+**Opportunity 1 - Year 1:**
+
+Ramp Period: 2021-01-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $100,000 | $100,000 | $0 |
+
+**Opportunity 2 - Year 2:**
+
+Ramp Period: 2022-01-01 to 2022-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $200,000 | $100,000 | $100,000 |
+
+**Opportunity 3 - Year 3:**
+
+Ramp Period: 2023-01-01 to 2023-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $300,000 | $200,000 | $100,000 |
+
+For more information about **quoting Ramp Deals**, visit the [Deal Desk Handbook.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-ramp-deal)
+
+#### Calculating Net ARR for **Contract Resets**:
+
+A **Contract Reset** is defined as ["a new subscription that replaces an existing subscription, where the existing subscription is canceled prior to its end date.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category)
+
+A Contract Reset consists of two opportunities. The first opportunity is for the new subscription - even so, this opportunity is always tagged as a Renewal Opportunity. This opportunity will be stamped with the "Contract Reset" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value. The second opportunity is a cancellation of the existing subscription, which produces a credit to the customer. This opportunity will be stamped with the "Credit" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value.
+
+- **Contract Reset Example:** A customer with an existing $50,000 subscription cancels that subscription 6 months into the subscription term, and transacts a new 12 month $100,000 subscription.
+
+**Existing Closed Won Opportunity (New Business)**
+
+Subscription Term: 2021-01-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $50,000 | $50,000 |
+
+**Credit Opportunity (New Business)**
+
+Subscription Term: 2021-07-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 6 months | -$25,000 | -$50,000 |
+
+**Contract Reset Opportunity (Renewal)**
+
+Subscription Term: 2021-07-01 to 2022-06-30
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** | **Net ARR** |
+| ------ | ------ | ------ | ------ | ------ |
+| Renewal | 12 months | $100,000 | $0 | $100,000 |
+
+In this scenario, the Credit Opportunity and Contract Reset Opportunity are closed on the same date. Between the two opportunities, combined Net ARR is $50,000.
+
+For more information about **quoting Contract Resets**, visit the [Deal Desk Handbook.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset)
+
+- **Add-On vs. Contract Reset**: Compare the above example with a 6 month add-on/upgrade
+
+**Existing Closed Won Opportunity (New Business)**
+
+Subscription Term: 2021-01-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $50,000 | $50,000 |
+
+**6-Month Add-On/Upgrade Opportunity**
+
+Amendment Term: 2021-07-01 to 2021-12-32
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| Add-On Business | 6 months | $50,000 | $50,000 |
+
+In this scenario, the Net ARR for a 6 month add/on upgrade is $50,000. Because Net ARR is annualized, the value of a 6  month add-on/upgrade is equivalent to that of a contract reset scenario for an equivalent upgrade.
+
+#### Calculating Net ARR for Annual Payment Deals:
+
+An Annual Payment Deal is defined as a multi-year deal that is paid annually. For these deals, each payment period will have its own Close Won opportunities in Salesforce. All annual payment opportunities will be stamped with the "Annual Payments" [Payment Schedule](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#payment-schedule) value.
+
+- **New Business Annual Payments Deal Example:** A customer purchases a three-year new subscription with annual payments, where the total TCV of the deal is $300,000.
+
+**Opportunity 1 - Year 1:**
+
+Subscription Term: 2021-01-01 to 2021-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $100,000 | $100,000 |
+
+**Opportunity 2 - Year 2:**
+
+Subscription Term: 2022-01-01 to 2022-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $100,000 | $0 |
+
+**Opportunity 3 - Year 3:**
+
+Subscription Term: 2023-01-01 to 2023-12-31
+
+| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
+| ------ | ------ | ------ | ------ |
+| New Business | 12 months | $100,000 | $0 |
+
+Note: **Annual Payments** require additional approvals. See "Deferred Payments" in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.5r6g2e2czzmp).
+
+### ARR Technical Documentation
+
+For the technical documentation for the implementation of Net ARR, ARR Basis, and Booked ARR in Salesforce [please use this page.](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
 
 ### ARR Analysis Framework
 
-A measure of changes to ARR compared to the prior month, fiscal quarter, or year. While retention calculations measure changes compared to the same period in a previous year, we also need to measure changes over smaller time periods (month-to-month and quarter-to-quarter) to make real-time business decisions and evaluate the immediate impact of our programs and initiatives. While the net and gross retention metrics are externally reported, corporate metrics, the month-to-month and quarter-to-quarter ARR changes reporting is used for internal analysis. ARR changes are reported at the parent account level, with drill down capability to see account level detail.
+A measure of changes to ARR compared to the prior month. While retention calculations measure changes compared to the same period in a previous year, we also need to measure changes over smaller time periods (month-to-month and quarter-to-quarter) to make real-time business decisions and evaluate the immediate impact of our programs and initiatives. While the net and gross retention metrics are externally reported, corporate metrics, the month-to-month and quarter-to-quarter ARR changes reporting is used for internal analysis. ARR changes are reported at the parent account level by default, with drill down capability to the subscription-product grain for certain types of analysis. ARR changes are reported at the monthly level by default, and months are aggregated up for quarterly reporting.
 
 Types of Delta ARR:
 - new - ARR for the customer's first paying month/quarter
@@ -71,7 +303,7 @@ Types of Delta ARR:
 Reasons for Delta ARR:
 - seat change - a change in the quantity of seats purchased
 - price change - a change in discount
-- tier change - an upward or downward change in the product purchased (i.e., from Silver up to Gold)
+- tier change - an upward or downward change in the product purchased (i.e., from Premium up to Ultimate)
 
 #### ARR Analysis Framework - Cost Accounting Methodology
 

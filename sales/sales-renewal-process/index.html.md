@@ -13,13 +13,13 @@ description: "Renewals Lifecycle Management Process Guide for GitLab Sales"
 ## Renewals Policy
 
 #### Finance Subscription Cancellation Policy: 
-- Subscriptions will be considered fully cancelled 30 days after the subscription term end date, unless they are renewed.
-- Customers returning after 180 days will be treated as New Business
+- Subscriptions will be considered fully cancelled 45 days after the subscription term end date, unless they are renewed.
+- Customers returning 180 days after churn will be treated as New Business
 - PAO reserves the right to dispute any suspect Sales behavior attempting to circumvent this policy.
 
 #### Renewal Opportunity Policy:
-- Renewal Opportunities will have a 30 day grace period after subscription term end date, after which it should be considered lost and moved to Closed Lost.
-- If the customer later decides to renew (re-transact with GitLab) from days 31-90 beyond subscription term end date, work with Deal Desk team to [back out the Closed Lost renewal](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#subscription-cancellation-policy) and book a new renewal transaction.
+- Renewal Opportunities will have a 45 day grace period after subscription term end date, after which it should be considered lost and moved to Closed Lost.
+- If the customer later decides to renew (re-transact with GitLab) from days 45-180 beyond subscription term end date, work with Deal Desk team to [back out the Closed Lost renewal](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#subscription-cancellation-policy) and book a new renewal transaction.
 
 ## Renewal Lifecycle Management
 #### Opportunity Creation
@@ -42,7 +42,7 @@ Renewal opportunity `Close Date(s)` will be aligned to the respective subscripti
 ## Closed-Lost Renewal Management
 
 #### Renewal “Grace Period” Window:
-In the event the customer's decision to renew/cancel drags out beyond the term end date, **Sales will have 30 days to close the opportunity or it should be moved to Closed Lost** stage & appropriate Lost reason populated.
+In the event the customer's decision to renew/cancel drags out beyond the term end date, **Sales will have 45 days to close the opportunity or it should be moved to Closed Lost** stage & appropriate Lost reason populated.
   - This will help ensure alignment with the Finance Cancellation Policy & ensure accurate renewal forecasting.
   - Accurate input of Lost Reason are also critical to understanding churn trends.
   - Customers will also begin to see downgraded product functionality starting at Day +14 after term end, and their  Zuora subscription will be cancelled on Day +31. 

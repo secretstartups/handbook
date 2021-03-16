@@ -49,7 +49,6 @@ description: "Operations, Procedures, Documentation"
 | EMEA | Europe, Middle East and Africa |
 | EULA | End User Licence Agreement |
 | High intent | an event, webcast, demo that is a strong indicator of purchase or evaluation |
-| Holdover Account | Account ownership retained by someone other than the territory owner |
 | Inquiry | an Inbound request or response to an outbound marketing effort |
 | IQM | Initial Qualifying Meeting |
 | LATAM | Latin America (includes all of Central & South America) |
@@ -63,7 +62,7 @@ description: "Operations, Procedures, Documentation"
 | SAL | Strategic Account Leader |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
-| [SAO] | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
+| [SAO](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
 | SDR | Sales Development Representative |
 | Self Serve | A sales method where a customer purchases online through our web store |
 | SLA | Service Level Agreement |
@@ -72,7 +71,6 @@ description: "Operations, Procedures, Documentation"
 | TEDD | Technology, Engineering, Development and Design - used to estimate the maximum potential users of GitLab at a company |
 | Won Opportunity | Contract signed to Purchase GitLab |
 
-[SAO]: /handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao
 ## Customer Lifecycle
 
 A customer lifecycle is a term used to track the different milestones prospective customers go through as they learn about GitLab and interact with our sales and marketing teams.
@@ -88,25 +86,24 @@ They are tracked as follows:
 
 | Funnel stage | Record Type | Status or Stage |
 | ------------ | ----------- | --------------- |
-| Raw | [Lead or Contact] | Raw |
-| Inquiry | [Lead or Contact] | Inquiry |
-| Marketo Qualified Lead | [Lead or Contact] | MQL |
-| Accepted Lead | [Lead or Contact] | Accepted |
-| Qualifying | [Lead or Contact] | Qualifying |
-| Qualified | [Lead or Contact] | Qualified (converted) |
-| Pending Acceptance | [Opportunity] | 0 - Pending Acceptance |
-| [Sales Accepted Opportunity] | [Opportunity] | 1 - Discovery |
-| Sales Qualified Opportunity | [Opportunity] | 2 Scoping - 5 Negotiating |
-| Customer | [Opportunity] | 6-Closed Won |
-
-For the definition of the stage please click the record type link.
+| Raw | Lead or Contact | Raw |
+| Inquiry | Lead or Contact | Inquiry |
+| Marketo Qualified Lead | Lead or Contact | MQL |
+| Accepted Lead | Lead or Contact | Accepted |
+| Qualifying | Lead or Contact | Qualifying |
+| Qualified | Lead or Contact | Qualified (converted) |
+| Pending Acceptance | Opportunity | 0 - Pending Acceptance |
+| Sales Accepted Opportunity | Opportunity | 1 - Discovery |
+| Sales Qualified Opportunity | Opportunity | 2 Scoping - 6 Awaiting Signature |
+| Customer | Opportunity | Closed Won |
 
 When going from Qualifying to Qualified Lead the lead is duplicated to an opportunity, and the lead is set to qualified and not being used anymore.
-[Lead or Contact]: #lead--contact-statuses
-[Opportunity]: #opportunity-stages
-[Sales Accepted Opportunity]: #criteria-for-sales-accepted-opportunity-sao
 
-Note: Our lifecycle is undergoing a revamp! See how things are progressing [here](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/298).
+Lead or Contact: #lead--contact-statuses
+
+Opportunity: #opportunity-stages
+
+Sales Accepted Opportunity: #criteria-for-sales-accepted-opportunity-sao
 
 ## SAL Sales Capacity
 
@@ -146,9 +143,9 @@ A breakdown of MQLs and lead scoring can be found in the [marketing operations h
 Sales Segmentation is based on `Total Employee` count of the `Global Account`.
 If a `Global Account` has a lower segment than any of its child accounts, the `Global Account` will adopt the largest sales segment of any of its child accounts.
 
-- `Large` = 2,000+ total employees
-- `Mid-Market` = 100-1,999 total employees
-- `SMB` (Small Business) = 0-99 total employees
+- `Large` = 2,001+ total employees
+- `Mid-Market` = 101-2000 total employees
+- `SMB` (Small Business) = 0-100 total employees
 
 `Total Employee` count is based on the number of employees that our data tools return for that account <b>as determined in the [sales segment review process time period](#sales-segment-and-hierarchy-review-process)</b>.
 We use a hierarchy structure to determine what the number of employees is for the account.
@@ -167,7 +164,7 @@ In order to address issues when it is believed that the employee count, account 
 
 Provide the URL to validate the request. Examples of valid sources include but are not limited to financial filings, newspaper articles, reports directly from the company. During the Sales Ops review period it is at the discretion of the Sales Ops team to have the Total Employee count updated or to have it remain the same.
 
-If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and resulting ownership at the completion of the review process.
+If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and follow the Rules of Engagement account review process.
 
 ##### Region/Vertical
 
@@ -175,8 +172,8 @@ If the number of employees, according to our sources based on our hierarchy as d
 - <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): Jon Burghart, Regional Director
 - <b>Asia Pacific</b> (`#apac` Slack channel): Anthony McMahon, Regional Director
 - <b>North America - US East</b> (`#us-east` Slack channel): Mark Rogge, Regional Director
-- <b>North America - US West</b> (`#us-west` Slack channel): Haydn Mackay, Regional Director (Timm Ideker - Interim)
-- <b>Public Sector</b> (`#public-sector` Slack channel): Paul Almeida, Director of Federal Sales
+- <b>North America - US West</b> (`#us-west` Slack channel): Haydn Mackay, Regional Director
+- <b>Public Sector</b> (`#public-sector` Slack channel): Jim Riley - Interim 
 
 ### Territories
 
@@ -186,51 +183,101 @@ Our LeanData routing workflows and SFDC reports are based on these tables.
 
 The Location of each account used to determine its Sales Territory is determined by a combination of 3rd party data systems (Datafox, Zoominfo) and manual overrides.
 This address is stored in "Account - Territory" on the Account object in SalesForce.
-This field inherits data from other fields in the following priority: 1. Admin Manual Override (if present) 2. Datafox 3. Zoominfo 4. Shipping Address 5. Billing Address.
+This field inherits data from other fields in the following priority: 
 
-### Account Ownership Rules of Engagement
+1. Admin Manual Override (if present) 
+2. Datafox 
+3. Zoominfo 
+4. Shipping Address 
+5. Billing Address
 
-1. **Source of Data**: The data source priority order for `Employee` count, `Address`, `Industry` and `Corporate Hierarchy` will be Datafox, Zoominfo, Linkedin; otherwise <blank> or `Unknown` until resolved through manual research.
-Any disputes must follow the Final Decision Escalation Process below.
-These data points are locked in during [the sales segment review process](#sales-segment-and-hierarchy-review-process) .
-1. **Account Ownership**: Will be determined by the **Sales** `Segment`, `Address` and `Corporate Hierarchy` and all children accounts, regardless of physical location.
-All of the accounts will be owned by the _Global Account_ owner unless it is either a Named Account (see point 3) or it has been agreed upon by both reps and their managers that the customer is best serviced by the _Territory_ rep (see point 13).
-1. **Named Account**: Defined as an account that is owned by a sales rep regardless of corporate headquarters.
-A sales rep will own no more than 30 named accounts.
-1. **Transfer of Named Accounts**: A transfer and ownership time frame of a Named Account should be agreed upon by both sales reps and their managers.
-1. **Open Opportunities of Transferred Accounts**: Any open opportunity on an account subject to transfer to the _global account_ owner will remain with the original owner for a period of no more than 180 days after opportunity creation.
-No later than the 120 day mark, the original owner can request an extension and must provide sufficient evidence that the deal will close within the next 90 days.
-If the evidence is insufficient, the _global account_ owner can request that the opportunity be transferred immediately.
-The are two reports that track holdover opportunities: [New Business/Add Ons](https://gitlab.my.salesforce.com/00O61000004hitu) and [Renewals](https://gitlab.my.salesforce.com/00O61000004hmUy).
-These reports should be reviewed weekly by new account owners expecting to receive a holdover opportunity that has stalled or existing opportunity owners whose opportunities may be subject to transfer to the new account owner.
-1. **Reassigning to a Territory Rep**: The _global account_ owner can reassign any child account to a _territory rep_ if it is determined that the client/prospect would be best serviced by a local rep.
-To do this, please Chatter the _territory rep_ and provide an explanation on the transfer.
-Please review point 12 'Considerations for Transferring an Account to a Local Rep'.
-1. **Requesting Reassignment**: A _territory rep_ can request reassignment of a child account if they feel that the client/prospect would be best serviced by a territory rep as opposed to the _global account owner_.
-To do this, the _territory rep_ must Chatter the _global account_ owner and provide an explanation, (please see point 12, “Considerations for Transferring an Account to a Local Rep”).
-It is at the discretion of the _global account_ owner to keep or reassign the account, but they must provide a compelling and explicit reason why a _territory_ account should be managed globally.
-If the _territory rep_ does not agree with the decision, it can be discussed by their respective managers.
-1. **Parent/Child Segmentation**: All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy.
-1. **Changes to Ultimate Parent Details**: In the event of a merger or acquisition, or any other changes that impact the ownership of an account, such as a move of headquarters to another territory, either the *global account* owner or *territory* sales rep should submit the updated information in accordance with [the sales segment review process](#sales-segment-and-hierarchy-review-process), who will then initiate a review of all affected accounts.
-A transition plan (if needed) should be agreed upon by all reps and their managers.
-1. **Exceptions**:
-    1. **Spirit of Collaboration**: All requests and or actions must adhere to the GitLab Value of “Collaboration” and proactively communicate the inquiry and/or intent to all parties affected.
-    1. **Indisputable** (not including Employee Count): reps must provide evidence and Sales Ops will render ruling; otherwise escalates to Final Decision Escalation Process.
-    1. **Screenshots of data**: Since datasources may change over time, please capture screenshots of Employee count/location data that contradict our sources of data and save in a Google doc to share with Sales Operations.
-    1. **Newly updated accounts**: will be reviewed in the annual review process as this impacts TAM and quota assignment. Holdover of an active deal will be dealt with on a case-by-case basis following the Final Decision Escalation Process.
-    1. **Stand-alone Child Account**: can be considered if the Child Account clearly has their own buying authority and purchasing process. For example:
-        1. Private Equity or Holding Company : Child Accounts
-        1. Government Holding Entity : Child Entity
-        1. HQ : Franchises or Consultants (Note: Franchises do not count towards HQ Total Employee Count)
-1. **Final Decision**: For a final decision on account ownership, the current and next ASM or above must both agree to transfer of ownership.
-In all situations where an agreement between the ASM/RDs and/or VPs cannot be reached; CRO will determine final ruling.
-1. **Ownership**: All Leads are to be owned by the owner of the Account (RD/SAL/AE) while All Contact ownership is determined by their assoaciated Accounts Segment, Type and respective team members assigned to the account as [per the handbook](#record-ownership).
-**NOTE: Working a deal does not mean ownership.**
-1. **Considerations for Transferring an Account to a Local Rep**: If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the Lead to the appropriate Territory owner as this would be in the best interests of the customer and for GitLab.
+### Account Ownership Rules of Engagement 
+
+**Effective FY22-Q1**
+
+**NOTE: Working a Lead, Contact, Opportunity or Account does not ensure ownership.**
+
+**Understanding Account Assignment, Rules and Definitions**
+
+1. **Source of Data:** The data sources used to properly segment and route an account are defined and explained in the [Territory Success Planning (TSP)](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp) section of the handbook. If the data tools have failed to provide employee count and/or address information, the account segment and/or territory will remain `Unknown` until resolved through manual research and a link to reputable data is provided to the Sales Operations team to confirm. Follow the process to [request changes to the TSP inputs](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) if missing or wrong. If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as `SMB` with a placeholder of `-1` employees in order to get a Territory to populate and assign the account to an account rep. Any disputes must follow the exception process.
+1. **Account Ownership:** Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Locally Managed`, `Strategic Account`, `Holdover` or `Holding Company`. 
+1. **Parent/Child Segmentation:** All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
+1. **Named Account:** Defined as an account that is owned by a Named Account Rep, regardless of corporate headquarters. Named accounts are identified by the `Named Account` Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
+This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
+1. **Locally Managed:** Defined as an account that is owned by a local account rep regardless of the Global Account Leader. Locally managed accounts are identified by the `Locally Managed` check box on the account.
+   1. **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
+1. **Strategic Accounts:** Defined as an account that is not a Named account or Locally managed but management has decided it should belong to an AE or SAL for strategic business reasons. Accounts that are strategically owned by a non-named SAL or AE will be marked using the `Strategic Account` check box and must have manager approval. Strategic accounts will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
+1. **Holdover Accounts:** Defined as an account that is being held by a Rep that has been promoted or moved to a new territory.  Holdover accounts will be marked using the `Holdover Expiration`  date field and the `Holdover Next Owner` field. An account rep can only have a holdover account or holdover opportunity for one fiscal quarter. Any account that needs to be held over longer than one quarter should be marked as a `Strategic Account` and must have manager approval from both the current manager and the global account rep’s manager.
+1. **Stand-alone Child Account:** Defined as an account that clearly has their own buying authority and purchasing process.
+    1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
+    1. **Government Holding Entity - Child Accounts:**
+        1. **AMER:** [Gitlab Public Sector Rules of Engagement Handbook Page](https://about.gitlab.com/handbook/sales/public-sector/)
+        1. **Rest of World:** 
+            1. For all non-US government accounts: Government and 100% government-owned entities for any country with a population of less than 20 million people, even if they are greater than 2,000 employees, are owned by the Commercial segment. The exceptions to that rule are New Zealand & Singapore.
+            1. All other non-US government accounts (the accounts that are in countries with 20 million+ population), top to bottom (meaning, no minimum employee count) are Enterprise accounts.
+            1. Segmentation is determined at the start of the fiscal year, see: [government segmentation per country ](/handbook/sales/field-operations/gtm-resources/government-segmentation/).
+        1. **Franchises or Consultants  - Child Accounts:** Accounts that are categorized as an independent Franchise or Consultant are considered standalone Accounts.  As such, they will not be parented and the corresponding number of employees will not count towards the HQ Total Employee Count.
+1. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change will be reviewed annually as this impacts TAM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters.
+1. **Net New Accounts:** Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. Sales Operations has the ability to create new accounts because these accounts must be parented, processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the [Steps to create an issue for an account list import](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-get-help). To request a new account be created that is not from an enrichment tool or a list load please open an issue in the Sales Operations Project. 
+1. **Field Permissions** In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations:   `Account Owner`, `Named Account`, `Strategic Account`, `Locally Managed`, `Holdover Expiration Date`, `Holdover Next Approved Owner` along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
+**Exception Process to Request Account Ownership Change:** _Any request to transfer an account for any reason must follow the outlined exception process and timeline._
+
+**Step 1- Sales Process:**  Requirements prior to requesting an account transfer
+
+1. **Spirit of Collaboration:** All requests and or actions must adhere to the [GitLab Value of “Collaboration”](https://about.gitlab.com/handbook/values/#collaboration) and proactively communicate the inquiry and/or intent to **_all parties affected._**
+1. **Indisputable:** Requestor must provide evidence with supporting links.
+1. **Final Decision:** For a final decision on account ownership, the current and next Area Sales Manager must both agree to transfer of ownership. If consensus cannot be reached by Area Sales Managers it will continue to escalate up the sales chain to the VP level if necessary.
+1. **Notify Sales Support:** Consensus must be met by all parties prior to asking for a transfer. Chatter @sales-support with the request to have the account transferred and provide all supporting documentation. Chattering @sales-support will create a case in Salesforce for the Sales Operations team to review.
+1. **Timing for Submitting Requests:** Dates for submittal, black out periods and moves will be posted on the [Field Operation's Calendar](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-we-work)
+   1. First week of Q2 (reactive) moves: Requests that come from the field
+   1. First week of Q3 (proactive) moves: Sales Ops does a review and cleans up accounts + addresses field requests
+   1. First week of Q4 (reactive) moves: Requests that come from the field
+   1. First week of Q1 no moves, FY planning will address moves
+
+ **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
+
+1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Approved accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+1. **Sales Operations Quarterly Account Review Process**
+   1. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
+   1. **Holdover Accounts/Opportunities** Account holdovers that have expired will be moved quarterly during the Sales Operations quarterly account review process to the Account Rep listed in the `Holdover Next Owner` field. These can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+   1. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
+   1. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
+
+1. **Annual Review Process**
+Accounts will still be reviewed annually prior to the Fiscal Year planning process and territory carving.
+
+<details>
+<summary markdown='span'>
+  Sales Ops Operators Guide for Account Review and Moves
+</summary>
+ 
+ **Case Review Process**
+ 1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
+ 1. Update any of the data on the account if needed to reflect what was provided
+ 1. Select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the **Sales Operations Quarterly Account Review Dashboard**
+ 1. Close the case and indicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
+
+ **Quarterly Review Process**
+1. Use the reports on the **Sales Operations Quarterly Account Review Dashboard** to review the requested account moves. 
+   1. Prospect and Customer accounts with `CARR` under $50K can be transferred immediately along with all open Opportunities Stage 3 and below.
+   1. Prospect and Customer accounts with `CARR` over $50K will need to be evaluated to ensure the move doesn't impact quota.
+   1. Once account and opportunity ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
+
+**Holdover Account and Opportunity Process**
+1. Review the Account and Opportunity Holdover Expiration reports and move the expired accounts and opportunities to the Account Rep listed in the `Holdover Next Owner`field. 
+   1. Ensure the Opportunity is in stage 3 or below before moving. Anything over stage 3 will remain with the current opportunity owner.
+1. Remove the value from the `Holdover Next Owner` after transfer of ownership
+
+**Annual Review Process** 
+1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilzied the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
+
+ </details>
+
+### Account Sources, Routing and Other Requirements
 
 ##### Website
 
-Since an accounts `Website` is a key data point in determining [the accounts segment](#segmentation) and [the accounts address](#account-ownership-rules-of-engagement) and thus the resulting territory and ownership, the website on an account in salesforce is a required field on the layout.
+Since an accounts `Website` is a key data point in determining [the accounts segment](#segmentation) and the accounts address and thus the resulting territory and ownership, the website on an account in salesforce is a required field on the layout.
 In the event that the account is linked to an individual that uses a free email domain (or other similar cases) than the value of `[Blank]` should be used as the value for the accounts website.
 
 ##### Initial Source
@@ -248,7 +295,7 @@ Routing is determined by `Sales Segmentation`, `Region`, and `Global Account Own
 ##### Routing & LeanData
 
 **LeanData** works within the Salesforce ecosystem and is the primary tool leveraged to manage all routing workflows.
-The Marketing Operations team is responsible for on-going management and customizations within LeanData.
+The Marketing Operations team is responsible for ongoing management and customizations within LeanData.
 For more information see the [dedicated LeanData page](/handbook/marketing/marketing-operations/leandata).
 
 ##### Contact Requests
@@ -285,7 +332,7 @@ Rest of the World
 
 - **Any** University = appropriate regional Sales Development Representative
 
-##### Record Ownership
+##### Lead and Contact Record Ownership
 
 Contact Ownership follows the rules as laid out below:
 - Large Accounts
@@ -308,7 +355,7 @@ The owner of the record in SFDC **does not** need to match the owner in Outreach
 In order to meet compliance standards our SFDC instance uses a private model.
 This private model allows for some records to be visible by all Gitlab team members who use Salesforce, while other records may not be visible to them.
 Currently this is in place as it pertains to records owned by the Public Sector team.
-All salesforce records (leads, contacts, accounts, opportunities etc.) owned by the Public Sector team are only visibily to other members of the public sector team and a group of supporting staff who have been reviewed and permitted to view the these records.
+All salesforce records (leads, contacts, accounts, opportunities etc.) owned by the Public Sector team are only visibility to other members of the public sector team and a group of supporting staff who have been reviewed and permitted to view the these records.
 All other records (owned by non-public sector team members) maintain their standard visibility levels.
 
 This is important as it relates to inbound records or accounts in a sales reps name.
@@ -318,32 +365,7 @@ If you believe you have been incorrectly assigned a record that should belong to
 
 ##### Changing Account Ownership in Salesforce
 
-Everyone in Salesforce has **some** ability to change the ownership of accounts.
-When accounts have their owners changed, by anyone other then an admin, there will be an email notification go out to both the previous account owner and the new account owner.
-This is to allow individuals to change ownership of accounts if they think they should belong to them.
-If there are any questions in regards to who should own an account Sales Ops will assist in that decision and you can mention @sales-ops in salesforce.
-It's also important that just because a user can change the owner of an account does not mean that they should own the account.
-Please refer to the criteria for reassigning accounts and our account territories for more information.
-
-Criteria for Reassigning Accounts:
-
-- The account must have its address in the account owners territory.
-If the account has a parent account or the parent account also has a parent account the address that determines the final owner of the account is the address of the ultimate parent.
-This address follows our data hierarchy - with Datafox being our primary source of data (Link to come).
-- The account must also have a matching sales segmentation that the owner should be working.
-Any Account adopts the highest sales segment that exists within an account hierarchy.
-Segment is determined by our data hierarchy - with Datafox being our primary source of data (Link to come).
-- Any owner of an account must follow our guidelines for [Record Ownership](#record-ownership)
-
-1. Any account owner can reassign their own account to someone else
-1. Any RD can reassign any account
-1. Any Team Lead can reassign any account that is located within their region
-1. Anyone can reassign any account as long as the following criteria is met
-A. The account does not have a parent account
-B. The account is located in the same region as the individual transferring ownership of the account
-C. Datafox has enriched the number of employees on the account
-D. The sales segment of the account is the same as the segment that the user is working on (SALs/Large,AEs/Mid-Market)
-1. Any Admin can reassign any account
+Only Sales Operations and Channel Operations have the ability to change the account owner in Salesforce. This is to ensure that the Rules of Engagement are followed and to ensure that the account is assigned to the correct account owner based on TSP outputs and parent/child association. If there is an issue with account assignment, follow the exception process outlined in the Account Ownership Rules of Engagement. 
 
 ##### Changing Contact Ownership in Salesforce
 
@@ -411,11 +433,7 @@ It is important to note that by following this process that all contacts must me
 1. All of the contacts will be assigned a contact role on the opportunity.
 1. There already is a primary contact, or one of the new contacts will be the primary contact on the opportunity.
 
-##### Rules of Engagement
 
-Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
-This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
-See [global ownership and named accounts](#account-ownership-rules-of-engagement) descriptions above.
 
 Territories are assigned based on [Sales Segmentation](#segmentation) and routing for each type of inbound request is [through LeanData](/handbook/marketing/marketing-operations/leandata/#lead-routing-workflow).
 
@@ -536,7 +554,7 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
 
 1. On LEAD record, fill out the required qualification questions, add additional notes to the optional sections, if gathered, AND update to `Lead Status` = `Qualified`. Click <b>`Save`</b>.
 1. Click the `Convert` button:
-    - Change `Record Owner` to the Account Owner (based on [Global Ownership rules](#account-ownership-rules-of-engagement))
+    - Change `Record Owner` to the Account Owner (based on Rules of Engagement)
     - Check the "Send Email to the Owner" box
     - Lookup the correct `Account Name` (remove company suffix to avoid duplicates) - if unsure assign OPPORTUNITY to the "Parent" account
     - Opportunity Name - using [Opportunity Naming Convention](#opportunity-naming-convention)
@@ -662,7 +680,7 @@ The partner record should be converted to their company channel type account.
 The end user record should be converted to the end user standard account type.
 
 Opportunity Name:
-If the partner is an authorized reseller, rename the opportunity with the partner’s nick-name in front, then a dash.
+If the partner is an authorized reseller, rename the opportunity with the partner’s nickname in front, then a dash.
 For instance; if it is a Perforce deal, the opportunity name should start with P4 - (whatever your opportunity name is)
 This is important for the workflow that solicits updates from the reseller.
 
@@ -805,7 +823,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Send Plan Letter/Recap Email to Attendees- [Example](https://docs.google.com/document/d/16Gurj_MVREmKoqXTdB1F0OQ3eyq1gzbTNU8LNHHuoEM/edit)
     - Scheduled Scoping Call
     - Provide an estimate for the `Expected Number of Users` and the `Expected Product` for the Opportunity. This information is used to help the customer success team to predict their future workload as well as to help them with their hiring plans.
-    - Should the opportunity progress from `1-Discovery` to the next stage (not 7-Closed Lost or 9-Duplicate), it will be considered a `Sales Qualified Opportunity`. The following values are entered once the opportunity progresses from this stage:
+    - Should the opportunity progress from `1-Discovery` to the next stage (not 8-Closed Lost or 9-Duplicate), it will be considered a `Sales Qualified Opportunity`. The following values are entered once the opportunity progresses from this stage:
         - `Sales Qualified` is True.
         - `Sales Qualified Date` is the date the opportunity moves from this stage to the next open or won stage.
         - `Initial IACV` captures the value in the `Incremental ACV` field. `Initial IACV` is a snapshot field that will not change, even when the `Incremental ACV` field is updated and will be used for `Deal Size` analysis.
@@ -842,7 +860,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
         - "Yes" update the `Referenceable Customer` section on the Account object with appropriate reference information
         - "No" the discussion of being a reference can be revisited at a later date
     - Modifications will not be accepted to the standard terms for any opportunity that is less than $25k, or for Starter edition.
-    - If the above threshold is met, requests for modifications to the standard terms should be sent to Legal by creating a legal case in SalesForce, following the process found [here](handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal).
+    - If the above threshold is met, requests for modifications to the standard terms should be sent to Legal by creating a legal case in SalesForce, following the process found [here](/handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal).
     - If the Account is seeking to use their own paper, requests will only be entertained if the opportunity is greater than $100k, and the request should be sent to Legal by creating a Legal case in SalesForce, following the process found [here](/handbook/business-ops/order-processing/#request-for-gitlab-review-of-customer-edits-to-gitlab-template-or-review-of-customer-agreement-template).
 
 **6-Awaiting Signature**: The prospect or customer has verbally agreed to the terms and conditions outlined in the proposal and has submitted for signature.
@@ -853,11 +871,12 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Work with GitLab AR to deliver any tax and/or complete any vendor registration processes.
     - Ensure all relevant documents, MSA, PO, and other forms uploaded to SFDC in the Notes and Attachments section of the opportunity record.
     - EULA (End User Licence Agreement) has been accepted by end-user organization (if applicable).
-    - If this is a large/strategic account, or if IACV is +$12,000, enter `Closed Won Details` summarizing why we won the opportunity.
+    - Identify relevant `Competitors` and enter them on the opportunity 
+    - Enter `Closed Won Reason` and `Closed Won Details` (a brief summary of why we won the opportunity that supports your Closed Won Reason selection).
     - Subscription created in Zuora.
     - Opportunity has been submitted for Finance approval.
 
-**7-Closed Won**: Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance.
+**Closed Won**: Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance.
 
 - What to Complete in This Stage:
     - Introduce Customer Success/Account Management (if applicable)
@@ -870,19 +889,19 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
     - Select all applicable Closed Lost Reasons
         - If the loss is due to Competitive Loss, you are required to select the competitor(s) from the opportunity's `Competitor` field
         - If the loss is due to Product Maturity, you are required to select the product stage(s) from the opportunity's `Product Maturity: Product Line` field.
-    - In the `Closed Lost Detail`, enter as much detail as you can as to why we lost the deal. For example:
+    - `Closed Lost/Unqualified Details` is required all opportunities with IACV of $1,000 or greater OR opportunities where Closed Lost Reason = Other. Enter as much detail as you can as to why we lost the deal. For example:
         - If they selected a competitor, why? Was it due to features or pricing?
         - If decided not to move forward with a project, what were the reasons? Did they not understand the value? Was there not a compelling event or reason?
         - Again, please be as thorough as you can as this information will prove valuable as we learn from these experiences.
     - Please note that for new business deals where the opportunity is with a Large/Strategic account OR the Incremental Annual Contract Value (IACV) is equal or greater than USD 12,000, then a notification will be sent to the [#lost-deals](https://gitlab.slack.com/messages/C8RP2BBA7) Slack channel.
     - Uncover a time for follow up (incumbent solution contract expiration date)
     - Note that if an opportunity is dead/stalled, mark the Stage as 8-Closed Lost. Should the prospect/customer re-engage before 30 days, you can reopen this opportunity. However, if they re-engage beyond 30 days, you will need to create a new opportunity.
-    - If the `Closed Lost Reason` is "Merged into another opportunity" please link this closed opportunity to the opportunity you are merging it into by using the `Merged Opportunity` lookup field. Otherwise, you will encounter a validation rule error.
+    - If the `Closed Lost/Unqualified Reason` is "Merged into another opportunity" please link this closed opportunity to the opportunity you are merging it into by using the `Merged Opportunity` lookup field. Otherwise, you will encounter a validation rule error.
 
 **9-Unqualified**: An opportunity was never qualified.
 
 - What to Complete in This Stage:
-    - Update Reason for Closed Lost and add any pertinent notes as to why the opportunity was not qualified.
+    - Update the `Closed Lost/Unqualified Reason` and corresponding `Closed Lost/Unqualified Details` with any pertinent notes as to why the opportunity was not qualified.
     - A notification will be sent to SDR Team Lead and a feedback session should be scheduled between AE and Team Lead.
 
 **10-Duplicate**: A duplicate opportunity exists in the system. This usually happens when a web direct opportunity is won when an existing opportunity already exists in Salesforce. Another reason could be multiple renewals created for the same opportunity. This stage **should not** be used when disqualifying an opportunity or if it is discovered at some point after acceptance that the opportunity is really part of a larger initiative. If the opportunity was accepted, it cannot be marked as a duplicate. Instead, you must mark the opportunity as `8-Closed Lost` and select the appropriate reason. Possible selections could include "Consolidating order - part of another subscription" or "Merged into another opportunity" as reasons why a duplicate opportunity may have been created.

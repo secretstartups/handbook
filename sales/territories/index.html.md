@@ -18,19 +18,10 @@ title: "Sales Territories"
 1. Follow the directions within the template & provide all the requested details
     - If **Individual Contributor** is requesting the change, ADD your manager to the `/assign` command
     - If **Manager** is requesting change, submit issue & it will auto-assign to Sales Ops
-    - **Please note** Operations makes alignment changes **once** at the end of each month, only exception would be a Sales New Hire.
 1. `Sales Operations` to update SFDC
 1. Change made on Territory Management document by `Sales Operations` **after** change in system has been made.
 1. `Sales Operations` to update LeanData download updated csv.
 1. Territory Management updates will be uploaded to LeanData by `Sales Operations` **after** change in system has been made.
-
-### SDR Alignment (Marketing)
-
-1. Create an merge request
-1. Update `SDR` column with name of new SDR to cover territory.
-    - If **Individual Contributor**, assign the merge request to your direct Manager for approval prior to assigning it to MktgOps
-    - If **Manager**, assign the merge request to MktgOps
-1. MktgOps processes these reqeusts on a **monthly** basis.
 
 #### Updating these tables without updating Operations will not be reflected in our various systems causing all reports and routing to be incorrect!
 
@@ -57,12 +48,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 #### AMER
 
-For the United States, the following rules apply to all accounts **except** government agencies or publicly-funded educational institutions or departments, including those at private universities (Johns Hopkins Applied Physics Lab, for example). Government agencies and publicly-funded educational institutions will be managed by our [Public Sector](#public-sector) team.
-
-For other countries outside AMER, governments agencies will be handled by the territory owner.
-
-**Named Account identifiers will be updated in near future and currently are being worked on by the SalesOps team (status as of 2020-01-23)**
-
 ##### Area Sales Manager
 
 {:.no_toc}
@@ -71,53 +56,54 @@ For other countries outside AMER, governments agencies will be handled by the te
 - **NA East - Southeast**: Tom Plumadore
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
-- **NA West - Rockies/SoCal**: James Roberts
+- **NA West - Rockies/SoCal**: TBD
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Timm Ideker
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
-| ---------- | ---- | -------------- | ----- | --- |
-| NA East | Northeast | **Large-AMER-Eastern Canada** | Peter McCracken | Aashish Sharma |
-| NA East | Northeast | **Large-AMER-Ontario** | Peter McCracken | Aashish Sharma |
-| NA East | Northeast | **Large-AMER-Mass** | Tony Scafidi | Bill Zaferopolos |
-| NA East | Northeast | **Large-AMER-Manhattan** | Liz Corring | Max Chadliev |
-| NA East | Northeast | **Large-AMER-Northeast** | Tony Scafidi | Bill Zaferopolos |
-| NA East | Northeast | **Large-AMER-Mid-Atlantic** | Katherine Evans | Kelsey Steyn |
-| NA East | Northeast | **Large-AMER-NY/NJ** | Paul Duffy | Andrew Glidden |
-| LATAM | Southeast | **Large-AMER-LATAM North** | Carlos Dominguez | Bruno Lazzarin |
-| LATAM | Southeast | **Large-AMER-LATAM South** | Jim Torres | Bruno Lazzarin |
-| NA East | Southeast | **Large-AMER-Central Gulf Carolinas** | Chris Graham | Shakarra MCGuire |
-| NA East | Southeast | **Large-AMER-SunshinePeach** | Jim Bernstein | Bill Zaferopolos |
-| NA East | Central | **Large-AMER-Lake Michigan** | Tim Kuper | Marcus Stangl |
-| NA East | Central | **Large-AMER-Ohio Valley** | Ruben Govender | Morgen Smith |
-| NA East | Central | **Large-AMER-TOLA** | Matt Petrovick | Brandon Brooks |
-| NA East | Named East | **Named Accounts** | Mark Bell | Steven Cull |
-| NA East | Named East | **Named Accounts** | John May | Ryan Kimball |
-| NA East | Named East | **Named Accounts** | Jordan Goodwin | Marcus Stangl |
-| NA East | Named East | **Named Accounts** | David Wells | Kaleb Hill |
-| NA East | Named East | **Named Accounts** | Larry Biegel | Geraldine Lee |
-| NA East | Named East | **Named Accounts** | John Orvos | Ryan Kimball |
-| NA West | Midwest | **Large-AMER-Midwest** | Timmothy Ideker* | TBD |
-| NA West | Midwest | **ENT-MW-Named 1** | Philip Wieczorek | Paul Oakley |
-| NA West | Midwest | **ENT-MW-Named 2** | Timmothy Ideker* | TBD |
-| NA West | PNW | **ENT-PNW-Named 1** | Joe Drumtra | Eduardo Gonzalez |
-| NA West | PNW | **ENT-PNW-Named 2** | Chris Mayer | Suzy Verdin |
-| NA West | PNW | **Large-AMER-PNW** | Adi Wolff | TBD |
-| NA West | Southwest | **Large-AMER-Southwest** | Rick Walker | Blake Chalfant-Kero |
-| NA West | Southwest | **Named Accounts** | Chris Cornacchia | Jesse Muehlbauer |
-| NA West | Southwest | **Named Accounts** | Yvonne Zwolinski | Blake Chalfant-Kero |
-| NA West | Southwest | **Named Accounts** | John Williams | James Altheide |
-| NA West | SoCal | **Large-AMER-SoCal** | James Roberts* | Matthew MacFarlane |
-| NA West | SoCal | **Named Accounts** | Robert Hyry | Jesse Muehlbauer |
-| NA West | SoCal | **Named Accounts** | Brad Downey | Matthew MacFarlane |
-| NA West | NorCal | **ENT-NC-Named SF1** | TBD | TBD |
-| NA West | NorCal | **ENT-NC-Named SF2** | Mike Nevolo | James Altheide |
-| NA West | NorCal | **ENT-NC-Named Santa Clara 1** | Nico Ochoa | Madison Taft |
-| NA West | NorCal | **ENT-NC-Named Santa Clara 2** | Joe Miklos | TBD |
-| NA West | NorCal | **ENT-NC-Named Santa Clara 3** | Alan Cooke* | Madison Taft |
-| NA West | NorCal | **ENT-NC-Named Santa Clara 4** | Michael Scott | Aaron Young |
-| NA West | NorCal | **Large-AMER-NorCal | Jim McMahon** | Jim McMahon* | Isaac Mondesir |
-| NA West | NorCal | **Large-AMER-NorCal | Alan Cooke** | Alan Cooke* | Isaac Mondesir |
+| Sub-Region | Area | **Territory Name** | Sales 
+| ---------- | ---- | -------------- | ----- | 
+|	NA East	|	East	|	Large-AMER-East-Named-1	|	Mark Bell	|
+|	NA East	|	East	|	Large-AMER-East-Named-2	|	Jordan Goodwin	|
+|	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	|
+|	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector |
+|	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	|
+|	NA East	|	East	|	Large-AMER-East-Named-6	|	Scott Hall	|
+|	NA West	|	Southwest	|	Large-AMER-West-1	|	Haydn Mackay	|
+|	NA West	|	Southwest	|	Large-AMER-West-2	|	Alan Cooke	|
+|	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-2	|	Joe Drumtra	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-3	|	Chris Mayer	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-4	|	Philip Wieczorek	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-5	|	Lydia Pollitt	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area-2	|	Jim McMahon	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 3	|	Nico Ochoa	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 4	|	Joe Miklos	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 5	|	Michael Nevolo	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 6	|	Michael Scott	|
+|	NA East	|	Northeast	|	Large-AMER-Central-1	|	Tim Kuper	|
+|	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	|
+|	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	|
+|	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	|
+|	LATAM	|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	|
+|	LATAM	|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	|
+|	NA West	|	Midwest	|	Large-AMER-Midwest-1	|	Timmothy Ideker	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-1	|	Liz Corring	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-5	|	Robert Hyry	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-1	|	Chris Graham	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-2	|	Katherine Evans	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-3	|	Jim Bernstein	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-4	|	David Wells	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-5	|	Larry Biegel	|
+
+
 
 #### Public Sector
 
@@ -127,7 +113,7 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Public Sector | **Federal - Civilian-3** | Luis Vazquez | Bill Duncan | Evan Mathis |
 | Public Sector | **Federal - Civilian-5** | Joel Beck | Nathan Houston | Evan Mathis |
 | Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis |
-| Public Sector | **Federal - Civilian-7** | Rick Gravel | Nathan Houston | Evan Mathis |
+| Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Evan Mathis |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis |
 | Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw | Evan Mathis |
@@ -136,235 +122,210 @@ For other countries outside AMER, governments agencies will be handled by the te
 | Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Navy-1** | TBH | Patrick Gerhold | Josh Downey |
 | Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Josh Downey |
-| Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Peg Sheridan | Josh Downey |
-| Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Peg Sheridan | Josh Downey |
-| Public Sector | **Federal - DoD-Agencies** | Scott McKee | Peg Sheridan | Josh Downey |
+| Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Patrick Gerhold | Josh Downey |
+| Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Patrick Gerhold | Josh Downey |
+| Public Sector | **Federal - DoD-Agencies** | Scott McKee | Joe Fentor | Josh Downey |
 | Public Sector | **Federal - NSG-1** | Marc Kriz | Joe Fenter | Josh Downey |
 | Public Sector | **Federal - NSG-2** | Mike Sellers | Joe Fenter | Josh Downey |
-| Public Sector | **Federal - NSG-3** | Ian Moore | Christine Saah | Evan Mathis |
+| Public Sector | **Federal - NSG-3** | Ian Moore | Nate Houston | Evan Mathis |
 | Public Sector | **Federal - NSG-4** | Russ Wilson | Bill Duncan | Evan Mathis |
-| Public Sector | **Federal - NSG-5** | Garry Judy | Bill Duncan | Evan Mathis |
-| Public Sector | **Federal - NSG-6** | Garry Judy | Christine Saah | Evan Mathis |
+| Public Sector | **Federal - NSG-5** | Garry Judy | Nate Houston | Evan Mathis |
 
 #### APAC
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
-| ---------- | ---- | -------------- | ----- | --- |
-| ANZ | ANZ | **Large-APAC-AUS Northern Territory** | David Haines | Belinda Singh |
-| ANZ | ANZ | **Large-APAC-AUS Queensland** | David Haines | Belinda Singh |
-| ANZ | ANZ | **Large-APAC-AUS South Australia** | Danny Petronio | Belinda Singh |
-| ANZ | ANZ | **Large-APAC-AUS Sydney** | David Haines | Belinda Singh |
-| ANZ | ANZ | **Large-APAC-AUS Victoria** | Danny Petronio | Glenn Perez |
-| ANZ | ANZ | **Large-APAC-AUS Western Australia** | Rob Hueston | Belinda Singh |
-| ANZ | ANZ | **Large-APAC-ACT** | Rob Hueston | Belinda Singh |
-| ANZ | ANZ | **Large-APAC-North Sydney** | David Haines | Belinda Singh |
-| ANZ | ANZ | **Large-APAC-NZ** | David Haines | Belinda Singh |
-| Asia Central | Asia Central | **Large-APAC-Central Asia** | Rob Hueston | Glenn Perez |
-| Asia Central | Asia Central | **Large-APAC-Kazakhstan** | Rob Hueston | Glenn Perez |
-| Asia SE | Southeast Asia | **Large-APAC-Cambodia** | Claudia Cheong | Glenn Perez |
-| Asia SE | Southeast Asia | **Large-APAC-Indonesia** | Claudia Cheong | Glenn Perez |
-| Asia SE | Southeast Asia | **Large-APAC-Malaysia** | Claudia Cheong | Glenn Perez |
-| Asia SE | Southeast Asia | **Large-APAC-Myanmar** | Claudia Cheong | Glenn Perez |
-| Asia SE | Southeast Asia | **Large-APAC-Philippines** | Claudia Cheong | Glenn Perez |
-| Asia SE | Southeast Asia | **Large-APAC-Thailand** | Claudia Cheong | Glenn Perez |
-| Asia SE | Southeast Asia | **Large-APAC-Viet Nam** | Claudia Cheong | Glenn Perez |
-| Asia SE | Singapore | **Large-APAC-Singapore** | Claudia Cheong | Glenn Perez |
-| Asia South | India | **Large-APAC-India** | Danny Petronio | Glenn Perez |
-| China | China | **Large-APAC-China** | Danny Petronio | Aletha Alfarania |
-| China | Taiwan | **Large-APAC-Taiwan** | Danny Petronio | Aletha Alfarania |
-| Japan | Japan | **Large-APAC-Japan** | Eiji Morita | Minsu Han |
-| Korea | Korea | **Large-APAC-Korea** | Anthony McMahon | Minsu Han |
+| Sub-Region | Area | **Territory Name** | Sales | 
+| ---------- | ---- | -------------- | ----- | 
+|	Japan	|	Japan	|	Large-APAC-Japan-1	|	Tadashi Murakami	|
+|	Japan	|	Japan	|	Large-APAC-Japan-2	|	Eiji Morita	|
+|	Japan	|	Japan	|	Large-APAC-Japan-3	|	Yuki Murakami	|
+|	APAC	|	APAC	|	Large-APAC-Large-APAC-1	|	Danny Petronio	|
+|	ANZ	|	ANZ	|	Large-APAC-Large-APAC-2	|	Rob Hueston	|
+|	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	|
+|	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-4	|	Hui Hui Cheong	|
+|	Asia Central	|	Asia Central	|	Large-APAC-Large-APAC-5	|	Rob Hueston	|
+|	Asia Central	|	Asia Central	|	Large-APAC-S Korea-1	|	Tae Ho Hyun	|
 
 #### EMEA
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
-| ---------- | ---- | -------------- | ----- | --- |
-| Europe Central | Europe Central BeNeLux | **Large-EMEA-BeNeLux** | Nasser Mohunlol | Goran Bijelic |
-| Europe Central | Europe Central | **Large-EMEA-CH/AT** | Rene Hoferichter | Peter Kunkli |
-| Europe Central | Germany | **Large-EMEA-South Germany** | Rene Hoferichter | Christina Souleles |
-| Europe Central | Germany | **Large-EMEA-North Germany** | Christoph Stahl | Peter Kunkli |
-| Europe East | Europe East | **Large-EMEA-Eastern Europe** | Vadim Rusin | Arianna Bellino |
-| Europe South | Europe South | **Large-EMEA-France** | Aleksandar Bosnic | Wiam Aissaoui |
-| Europe South | Europe South | **Large-EMEA-Italy** | Vadim Rusin | Arianna Bellino |
-| Europe South | Europe South | **Large-EMEA-Portugal** | Vadim Rusin | Camilo Villanueva |
-| Europe South | Europe South | **Large-EMEA-Spain** | Vadim Rusin | Camilo Villanueva |
-| Nordics | Nordics | **Large-EMEA-Nordics** | Annette Kristensen | Camilo Villanueva |
-| MEA | MEA | **Large-EMEA-MEA** | Phillip Smith | Camilo Villanueva |
-| UKI | UKI | **Large-EMEA-UKI A** | Robbie Byrne | Chris Loudon |
-| UKI | UKI | **Large-EMEA-UKI B** | Justin Haley | Chris Loudon |
-| UKI | UKI | **Large-EMEA-UKI C** | Nick Lomas | Goran Bijelic |
-| UKI | UKI | **Large-EMEA-UKI D** | Simon Williams | Shay Fleming |
-| UKI | UKI | **Large-EMEA-UKI E** | Steve Challis | Shay Fleming |
-|  |  | **Named Accounts** | Hugh Christey | Wiam Aissaoui |
-|  |  | **Named Accounts** | Timo Schuit | Peter Kunkli |
-| TBD | TBD | **TBD**| Aslihan Kurt | Goran Bijelic |
-
-
+| Sub-Region | Area | **Territory Name** | Sales |
+| ---------- | ---- | -------------- | ----- | 
+|	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	|
+|	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	|
+|	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Christoph Stahl	|
+|	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	|
+|	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	|
+|	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	|
+|	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	|
+|	Nordics	|	Nordics	|	Large-EMEA-UK/I-2	|	Aslihan Kurt	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Simon Williams	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	|
 
 
 ### Mid-Market
 
 #### AMER
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
-| ---------- | ---- | -------------- | ----- | --- |
-| LATAM | LATAM | **MM-AMER-EAST-LATAM** | Romer Gonzalez | Bruno Lazzarin |
-| NA East | US East | **MM-AMER-EAST-MidAtlantic** | Jenny Kline | MM SDR |
-| NA East | US East | **MM-AMER-EAST-Southeast** | Daniel Parry | MM SDR |
-| NA East | US East | **MM-AMER-EAST-Northeast** | Steve Xu | MM SDR |
-| NA West | US West | **MM-AMER-WEST-MtnMidwest** | Kyla Gradin | MM SDR |
-| NA West | US West | **MM-AMER-WEST-NorCal** | Matthew Kobilka | Da'Neil Olsen |
-| NA West | US West | **MM-AMER-WEST-NorCal-SJ** | Douglas Robbin | Da'Neil Olsen |
-| NA West | US West | **MM-AMER-WEST-NorCal-SV** | Laura Shand. | Da'Neil Olsen |
-| NA West | US West | **MM-AMER-WEST-PacWest** | Rashad Bartholomew | Josh Weatherford |
-| NA West | US West | **MM-AMER-WEST-SF** | Laura Shand | MM SDR |
-| NA West | US West | **MM-AMER-WEST-SoCal/AZ/HI** | Douglas Robbin | Da'Neil Olsen |
-| NA West | US West | **MM-AMER-WEST-Southwest-KS** | Laura Shand | Josh Weatherford |
-| NA West | US West | **MM-AMER-WEST-Southwest-MO** | Douglas Robbin | Josh Weatherford |
-| NA West | US West | **MM-AMER-WEST-Southwest-NM** | Kyla Gradin | Josh Weatherford |
-| NA West | US West | **MM-AMER-WEST-Southwest-OK** | Kyla Gradin | Josh Weatherford |
-| NA West | US West | **MM-AMER-WEST-Southwest-Austin** | Kyla Gradin | Josh Weatherford |
-| NA West | US West | **MM-AMER-WEST-Southwest-TX** | Laura Shand | Josh Weatherford |
-| NA West | US West | **MM-AMER-Named 1** | Chris Chiappe | Da'Neil Olsen |
-| NA West | US West | **MM-AMER-Named 2** | TBD-Multiple Owners* | Josh Weatherford |
-| NA East | US East | **MM-AMER-Named 3** | Alyssa Belardi | MM SDR |
-| NA East | US East | **MM-AMER-Named 4** | Sharif Bennett | Shakarra McGuire |
+| Sub-Region | Area | **Territory Name** | Sales | 
+| ---------- | ---- | -------------- | ----- | 
+|	NA East	|	US East	|	MM-AMER-East-Named-1	|	Sharif Bennett	|
+|	NA East	|	US East	|	MM-AMER-East-Named-2	|	Steve Xu	|
+|	NA East	|	US East	|	MM-AMER-East-Named-3	|	Daniel Parry	|
+|	NA East	|	US East	|	MM-AMER-West-Named-1	|	Christopher Chiappe	|
+|	NA East	|	US East	|	MM-AMER-West-Named-2	|	Kyla Gradin	|
+|	NA East	|	US East	|	MM-AMER-West-Named-3	|	Matthew Kobilka	|
+|	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Michael Miranda	|
+|	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Jenny Kline	|
+|	LATAM	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	|
+|	NA East	|	US East	|	MM-AMER-EAST-MidAtlantic	|	Jenny Kline	|
+|	NA East	|	US East	|	MM-AMER-EAST-NE	|	Michael Miranda	|
+|	NA East	|	US East	|	MM-AMER-EAST-SE	|	Jenny Kline	|
+|	NA East	|	US East	|	MM-AMER-EAST-Southeast	|	Daniel Parry	|
+|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Laura Shand	|
+|	NA West	|	US West	|	MM-AMER-WEST-NorCal	|	Brooke Williamson	|
+|	NA West	|	US West	|	MM-AMER-WEST-NW	|	Brooke Williamson	|
+|	NA West	|	US West	|	MM-AMER-WEST-SF	|	Laura Shand	|
+|	NA West	|	US West	|	MM-AMER-WEST-SoCal	|	Douglas Robbin	|
 
 #### APAC
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
-| ---------- | ---- | -------------- | ----- | --- |
-| ANZ | ANZ | **MM-APAC-ANZ** | Ian Chiang | Glenn Perez |
-| Asia Central | Asia Central | **MM-APAC-Central Asia** | Ishan Padgotra | Glenn Perez |
-| China | China | **MM-APAC-China** | Ian Chiang | Aletha Alfarania |
-| Japan | Japan | **MM-APAC-Japan** | Ian Chiang | Minsu Han |
-| Asia SE | Southeast Asia | **MM-APAC-SE Asia** | Ian Chiang | Aletha Alfarania |
-| Korea | Korea | **MM-APAC-South Korea** | Ian Chiang | Minsu Han |
-| Asia South | Asia South | **MM-APAC-South Asia** | Ishan Padgotra | Belinda Singh |
-| Asia South | Asia South | **MM-APAC-India** | Ishan Padgotra | Belinda Singh |
-| Asia South | Asia South | **MM-APAC-Pakistan** | Wayne Zhao | Belinda Singh |
+| Sub-Region | Area | **Territory Name** | Sales | 
+| ---------- | ---- | -------------- | ----- | 
+| ANZ	|	ANZ	|	MM-APAC-ANZ	|	Ian Chiang	|
+|	Asia Central	|	Asia Central	|	MM-APAC-Central Asia	|	Ishan Padgotra	|
+|	Japan	|	Japan	|	MM-APAC-Japan	|	Ian Chiang	|
+|	Asia Central	|	Pakistan	|	MM-APAC-Pakistan	|	Ishan Padgotra	|
+|	Asia SE	|	Southeast Asia	|	MM-APAC-SE Asia	|	Ian Chiang	|
+|	Asia South	|	Asia South	|	MM-APAC-South Asia	|	Ishan Padgotra	|
 
 #### EMEA
 
-| Sub-Region | Area | **Territory Name** | Sales | Outbound SDR |
-| ---------- | ---- | -------------- | ----- | ------------ |
-| UKI | GB | **MM-EMEA-UKI-London E** | Chris Willis | Rahim Abdullayev |
-| UKI | GB | **MM-EMEA-UKI-London EC** | Chris Willis | Rahim Abdullayev |
-| UKI | GB | **MM-EMEA-UKI-London N** | Chris Willis | Rahim Abdullayev |
-| UKI | GB | **MM-EMEA-UKI-London NW** | Chris Willis |Rahim Abdullayev |
-| UKI | GB | **MM-EMEA-UKI-London SE** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
-| UKI | GB | **MM-EMEA-UKI-London SW** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
-| UKI | GB | **MM-EMEA-UKI-London W** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
-| UKI | GB | **MM-EMEA-UKI-London WC** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
-| UKI | GB | **MM-EMEA-UKI-GB** | Conor Brady | Rahim Abdullayev |
-| UKI | IE | **MM-EMEA-UKI-Ireland** | Conor Brady | Rahim Abdullayev |
-| UKI | Rest Of | **MM-EMEA-UKI-R** | Conor Brady | Rahim Abdullayev |
-| UKI | Rest Of | **MM-EMEA-UKI-R** | Conor Brady | Rahim Abdullayev |
-| France | FR | **MM-EMEA-France-FR 0x-6x** | Israa Mahros | Camille Dios |
-| France | FR | **MM-EMEA-France-FR 7x** | Israa Mahros | Camille Dios |
-| France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
-| France | FR | **MM-EMEA-France-FR 8x-9x** | Israa Mahros | Camille Dios |
-| France | Rest Of | **MM-EMEA-France-R** | Israa Mahros | Camille Dios |
-| Nordics | FI | **MM-EMEA-Nordics-FI** | Lisa VdKooij | Johan Rosendahl |
-| Nordics | NO | **MM-EMEA-Nordics-NO** | Sophia Simunec | Johan Rosendahl |
-| Nordics | DK | **MM-EMEA-Nordics-DK** | Israa Mahros | Johan Rosendahl |
-| Nordics | SE | **MM-EMEA-Nordics-SE** | Anthony Ogunbowale-Thomas | Johan Rosendahl |
-| Nordics | Rest Of | **MM-EMEA-Nordics-R** | Sophia Simunec | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 10x-19x** | Lisa vdKooij | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 20x-29x** | Lisa vdKooij | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 30x-39x** | Chris Willis | Johan Rosendahl |
-| Benelux | NL | **MM-EMEA-Benelux-NL 40x-99x** | Conor Brady | Johan Rosendahl |
-| Benelux | BE/LU | **MM-EMEA-Benelux-BeLu** | Lisa VdKooij | Camille Dios |
-| Central Europe | DE | **MM-EMEA-Central-DE 0x** | Chris Willis | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 1x** | Chris Willis | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 2x** | Conor Brady | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 3x** | Chris Willis | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 4x** | Chris Willis | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 5x** | Chris Willis | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 6x** | Chris Willis | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 7x** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 8x** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
-| Central Europe | DE | **MM-EMEA-Central-DE 9x** | Anthony Ogunbowale-Thomas | Rahim Abdullayev |
-| Central Europe | AT | **MM-EMEA-Central-AT** | Conor Brady | Johan Rosendahl |
-| Central Europe | LI | **MM-EMEA-Central-LI** | Conor Brady | Johan Rosendahl |
-| Central Europe | CH | **MM-EMEA-Central-CH** | Conor Brady | Johan Rosendahl |
-| Russia | RU | **MM-EMEA-Russia** | Chris Willis | Rahim Abdullayev |
-| Southern Europe | IL | **MM-EMEA-Southern-IL** | Lisa vdKooij | Camille Dios |
-| Southern Europe | IT | **MM-EMEA-Southern-IT** | Sophia Simunec| Camille Dios |
-| Southern Europe | ES | **MM-EMEA-Southern-ES** | Sophia Simunec | Camille Dios |
-| Southern Europe | PT | **MM-EMEA-Southern-PT** | Sophia Simunec | Camille Dios |
-| Southern Europe | Rest Of | **MM-EMEA-Southern-R** | Sophia Simunec | Camille Dios |
-| Eastern Europe | All | **MM-EMEA-Eastern Europe** | Sophia Simunec | Camille Dios |
-| MEA | AE | **MM-EMEA-MEA-AE** | Israa Mahros | Johan Rosendahl |
-| MEA | SA | **MM-EMEA-MEA-SA** | Israa Mahros | Johan Rosendahl |
-| MEA | Rest Of | **MM-EMEA-MEA-R** | Israa Mahros | Johan Rosendahl |
-| Africas | All | **MM-EMEA-Africas** | Israa Mahros | Johan Rosendahl |
+| Sub-Region | Area | **Territory Name** | Sales | 
+| ---------- | ---- | -------------- | ----- | 
+|	EMEA	|	MEA	|	MM-EMEA-Named-1	|	Anthony Ogunbowale-Thomas	|
+|	EMEA	|	MEA	|	MM-EMEA-Named-2	|	Israa Mahros	|
+|	Africas	|	Africas	|	MM-EMEA-Africas	|	Daisy Miclat	|
+|	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Conor Brady	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Conor Brady	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 20x-29x	|	Chris Willis	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 30x-39x	|	Chris Willis	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 40x-99x	|	Conor Brady	|
+|	Europe Central	|	AT	|	MM-EMEA-Central-AT	|	Conor Brady	|
+|	Europe Central	|	CH	|	MM-EMEA-Central-CH	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 0x	|	Chris Willis	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 1x	|	Chris Willis	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 2x	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 3x	|	Chris Willis	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 5x	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 6x	|	Chris Willis	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 7x	|	Chris Willis	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Conor Brady	|
+|	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Conor Brady	|
+|	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	|
+|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	|
+|	France	|	FR	|	MM-EMEA-France-FR 7x	|	Conor Brady	|
+|	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Conor Brady	|
+|	France	|	R	|	MM-EMEA-France-R	|	Conor Brady	|
+|	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Daisy Miclat	|
+|	MEA	|	R	|	MM-EMEA-MEA-R	|	Daisy Miclat	|
+|	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Daisy Miclat	|
+|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Chris Willis	|
+|	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Conor Brady	|
+|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Daisy Miclat	|
+|	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Daisy Miclat	|
+|	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Conor Brady	|
+|	Russia	|	RU	|	MM-EMEA-Russia	|	Daisy Miclat	|
+|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Chris Willis	|
+|	Southern Europe	|	IL	|	MM-EMEA-Southern-IL	|	Conor Brady	|
+|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Daisy Miclat	|
+|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Daisy Miclat	|
+|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Daisy Miclat	|
+|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	|
+|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Daisy Miclat	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Chris Willis	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Chris Willis	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London N	|	Chris Willis	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London NW	|	Chris Willis	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London SE	|	Conor Brady	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London SW	|	Conor Brady	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London W	|	Conor Brady	|
+|	UKI	|	GB	|	MM-EMEA-UKI-London WC	|	Conor Brady	|
+|	UKI	|	R	|	MM-EMEA-UKI-R	|	Daisy Miclat	|
 
-^ Through 2020-05-31 Inbound SDR matches Outbound SDR; effictive 2020-06-01 Inbound SDR = `EMEA Commercial - MM`: a Round robin group consisting of the listed Outbound SDR resources.
+### Mid-Market First Order
+
+| Sub-Region | Area | **Territory Name** | Sales | 
+| ---------- | ---- | -------------- | ----- | 
+|	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	|
+|	NA West	|	US West	|	MM-AMER-FO-West	|	Rashad Bartholomew	|
+|	Northern Europe	|	Northern Europe	|	MM-EMEA-FO-North	|	Lisa VdKooij	|
+|	Southern Europe	|	Southern Europe	|	MM-EMEA-FO-South	|	Sophia Simunec	|
 
 ### SMB
 
 #### AMER
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
-| ---------- | ---- | -------------- | ----- | --- |
-| LATAM | Brazil | **SMB-AMER-Brazil** | Romer Gonzalez | Bruno Lazzarin |
-| LATAM | Rest of LATAM | **SMB-AMER-SoCenAmer** | Romer Gonzalez | Bruno Lazzarin |
-| NA East | US East | **SMB-AMER-Northeast** | Michael Miranda  | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Northeast-CAN** | Matthew Walsh | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Mid-Atlantic** | Anthony Feldman | AMER Commercial - SMB^ |
-| NA East | US East | **SMB-AMER-Southeast** | Kaley Johnson | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Midwest** | Adam Pestreich | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Northwest** | Brooke Williamson | AMER Commercial - SMB^ |
-| NA West | US West | **SMB-AMER-Southwest** | Adam Pestreich | AMER Commercial - SMB^ |
-| NA West | US West  | **SMB-AMER-SoCal** | Carrie Nicholson | AMER Commercial - SMB^ |
-| NA West | US West  | **SMB-AMER-NorCal/HI** | Marsja Jones | AMER Commercial - SMB^ |
-
-^ `SDR` = `AMER Commercial - SMB`: Round robin group consisting of Phillip Knorr and Kelsey Steyn 
+| Sub-Region | Area | **Territory Name** | Sales |
+| ---------- | ---- | -------------- | ----- | 
+|	AMER	|	AMER	|	SMB-AMER-EAST-CTL-1	|	Jenny Chapman
+|	AMER	|	AMER	|	SMB-AMER-EAST-CTL-2	|	Anthony Feldman
+|	AMER	|	AMER	|	SMB-AMER-EAST-CTL-3	|	Matthew Walsh
+|	AMER	|	AMER	|	SMB-AMER-EAST-CTL-4	|	Kaley Johnson
+|	LATAM	|	US East	|	SMB-AMER-EAST-LATAM	|	Romer Gonzalez
+|	AMER	|	AMER	|	SMB-AMER-EAST-MidAtl	|	Jenny Chapman
+|	AMER	|	AMER	|	SMB-AMER-EAST-NE	|	Matthew Walsh
+|	AMER	|	AMER	|	SMB-AMER-EAST-NY	|	Anthony Feldman
+|	AMER	|	AMER	|	SMB-AMER-EAST-SE	|	Kaley Johnson
+|	AMER	|	AMER	|	SMB-AMER-WEST-MW	|	Adam Pestreich
+|	AMER	|	AMER	|	SMB-AMER-WEST-NorCal |	James Altheide
+|	AMER	|	AMER	|	SMB-AMER-WEST-NW	|	Marsja Jones
+|	AMER	|	AMER	|	SMB-AMER-WEST-SF	|	Marsja Jones
+|	AMER	|	AMER	|	SMB-AMER-WEST-SoCal	|	Carrie Nicholson
+|	AMER	|	AMER	|	SMB-AMER-WEST-SW	|	Adam Pestreich
 
 #### APAC
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
-| ---------- | ---- | -------------- | ----- | --- |
-| ANZ | ANZ | **SMB-APAC-ANZ** | Wayne Zhao | Belinda Singh |
-| Asia Central | Asia Central | **SMB-APAC-Central Asia** | Wayne Zhao | Glenn Perez |
-| China | China | **SMB-APAC-China** | Wayne Zhao | Aletha Alfarania |
-| Japan | Japan | **SMB-APAC-Japan** | Ishan Padgotra | Minsu Han |
-| Korea | Korea | **SMB-APAC-Korea** | Ishan Padgotra | Minsu Han |
-| Asia SE | Southeast Asia | **SMB-APAC-SE Asia** | Ishan Padgotra | Aletha Alfarania |
-| Asia South | Asia South | **SMB-APAC-South Asia** | Ishan Padgotra | Minsu Han |
+| Sub-Region | Area | **Territory Name** | Sales | 
+| ---------- | ---- | -------------- | ----- |
+|	ANZ	|	ANZ	|	SMB-APAC-ANZ	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-JAPAN	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-SE Asia	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-Central Asia	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-Pakistan	|	Ishan Padgotra	|
 
 #### EMEA
 
-| Sub-Region | Area | **Territory Name** | Sales | SDR |
+| Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | --- |
-| Europe Central | Europe Central | **SMB-EMEA-BeNeLux** | Vilius Kavaliauskas | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-North Germany** | Gábor Zaparkanszky | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-South Germany** | Rahim Abdullayev | EMEA Commercial - SMB^ |
-| Europe Central | DACH | **SMB-EMEA-Rest of DACH** | Rahim Abdullayev | EMEA Commercial - SMB^ |
-| Europe East | Eastern Europe | **SMB-EMEA-Eastern Europe** | Arina Voytenko | EMEA Commercial - SMB^ |
-| Europe South | Europe South | **SMB-EMEA-France** | Tim Guibert | EMEA Commercial - SMB^ |
-| Europe South | Europe South | **SMB-EMEA-Southern Europe** | Tim Guibert | EMEA Commercial - SMB^ |
-| MEA | MEA | **SMB-EMEA-MEA** | Daisy Miclat | EMEA Commercial - SMB^ |
-| Nordics | Nordics | **SMB-EMEA-Nordics-East** | Tim Guibert | EMEA Commercial - SMB^ |
-| Nordics | Nordics | **SMB-EMEA-Nordics-West** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-Birmingham** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-Cardiff** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-Gibraltar** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | IE | **SMB-EMEA-UKI-Ireland** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-Leeds** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London E** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC1** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC2** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC3** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London EC4** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London N** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London NW** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London SE** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London SW** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London W** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-London WC** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | GB | **SMB-EMEA-UKI-Manchester** | Daisy Miclat | EMEA Commercial - SMB^ |
-| UKI | R | **SMB-EMEA-UKI-R** | Daisy Miclat | EMEA Commercial - SMB^ |
+|	Europe Central	|	BeNeLux	|	SMB-EMEA-BeNeLux	|	Vilius Kavaliauskas
+|	EMEA	|	EMEA	|	SMB-EMEA-DE-1	|	Gábor Zaparkanszky
+|	EMEA	|	EMEA	|	SMB-EMEA-DE-2	|	Gábor Zaparkanszky
+|	EMEA	|	EMEA	|	SMB-EMEA-DE-3	|	Rahim Abdullayev
+|	Europe CEE	|	Eastern Europe	|	SMB-EMEA-Eastern Europe	|	Arina Voytenko
+|	Southern Europe	|	EMEA	|	SMB-EMEA-FR-1	|	Wiam Aissaoui
+|	Southern Europe	|	EMEA	|	SMB-EMEA-FR-2	|	Wiam Aissaoui
+|	Southern Europe	|	Europe South	|	SMB-EMEA-Greece	|	Arina Voytenko
+|	MEA	|	MEA	|	SMB-EMEA-MEA	|	Camilo Villanueva
+|	Nordics	|	Nordics	|	SMB-EMEA-Nordics-1	|	Camilo Villanueva
+|	Nordics	|	Nordics	|	SMB-EMEA-Nordics-2	|	Arina Voytenko
+|	Europe Central	|	DACH	|	SMB-EMEA-Rest of DACH	|	Rahim Abdullayev
+|	Southern Europe	|	Europe South	|	SMB-EMEA-Southern Europe	|	Camilo Villanueva
+|	UKI	|	UKI	|	SMB-EMEA-UKI-1	|	Tim Guibert
+|	UKI	|	UKI	|	SMB-EMEA-UKI-2	|	Tim Guibert
 
-^ `SDR` = `EMEA Commercial - SMB`: Round robin group consisting of Wiam Aissaoui, Alexander Demblin, Dorde Sumenkovic and Daniel Phelan
+### SMB First Order
+
+| Sub-Region | Area | **Territory Name** | Sales | 
+| ---------- | ---- | -------------- | ----- | 
+|	AMER	|	US West	|	SMB-AMER-West-FO	|	Todd Lauver	|
+

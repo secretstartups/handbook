@@ -16,7 +16,7 @@ description: "November edition of the Field Flash Newsletter sent to the GitLab 
 Congratulations on the close of another successful quarter, and welcome to Q4! In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find new GitHub and CircleCI competitive resources, a developer-led landscape report, two new ABM target lists, a new Partner Deal Registration system, and more. Plus, the H-E-B account team hosts the Deal of the Month. And, we learn more about our legal counterpart Rob Nalen in his (newly redesigned) team member spotlight. (***Pro Tip:*** Don’t forget to click the “View entire message” link at the bottom of this email when viewing in Gmail to see the full newsletter each month!)
 
 ### Deal of the Month 🏅
-Matt Petrovick, David Astor, and Taylor McCaslin share more about how security, trust, and collaboration helped them close a 4-year upgrade and growth in 1,500 Gold licenses with H-E-B Digital!
+Matt Petrovick, David Astor, and Taylor McCaslin share more about how security, trust, and collaboration helped them close a 4-year upgrade and growth in 1,500 Ultimate SaaS licenses with H-E-B Digital!
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/F4SBwde9Kdo" frameborder="0" allowfullscreen="true"> </iframe>
@@ -27,7 +27,7 @@ Check out a Chorus recording of the [H-E-B POV Retro call](https://chorus.ai/con
 Have a deal you'd like to nominate? Fill out the [nomination form](https://forms.gle/7AYwzgFStrai5D2F7).
 
 ### New and Noteworthy Resources 📓
-The GitLab vs. GitHub decision kit has been updated to include [GitLab SAST vs. GitHub Code Scanning](https://about.gitlab.com/devops-tools/github-vs-gitlab/devsecops-missing-github-capabilities/) and [GitLab vs. GitHub Container Registry](https://about.gitlab.com/devops-tools/github-vs-gitlab/ci-missing-github-capabilities/#gitlab-vs-github-container-registry-comparison) comparison tables. Also, the CircleCI Decision Kit now includes [CircleCI product gaps identified by their user community](https://about.gitlab.com/devops-tools/circle-ci-vs-gitlab/product-gaps/). [See all Competitive Content -->](https://about.gitlab.com/devops-tools)
+The GitLab vs. GitHub decision kit has been updated to include [GitLab SAST vs. GitHub Code Scanning](https://about.gitlab.com/devops-tools/github-vs-gitlab/devsecops-missing-github-capabilities/) and [GitLab vs. GitHub Container Registry](https://about.gitlab.com/devops-tools/github-vs-gitlab/ci-missing-github-capabilities/#gitlab-vs-github-container-registry-comparison) comparison tables. Also, the CircleCI Decision Kit now includes [CircleCI product gaps identified by their user community](https://about.gitlab.com/devops-tools/circle-ci-vs-gitlab/product-gaps/). [See all Competitive Content -->](https://about.gitlab.com/devops-tools/)
 
 Developer-led (consumed, influenced, purchased) products account for $40B in annual revenues, and the market is growing at 19%. Check out more meaningful insights in this full analysis of the developer-led landscape. [Read More -->](https://tylerjewell.substack.com/p/c7c150f4-1f04-453f-a97f-0902ee782416)
 

@@ -37,12 +37,13 @@ The Field Enablement team's mission is to help customers successfully grow and e
 -  [Field Certification Program](/handbook/sales/training/field-certification)
      - [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
      - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)     
-- [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
+- [Field Manager Development Program](/handbook/sales/field-manager-development/)
+     - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
 - [Field Communications](/handbook/sales/field-communications/)
      - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 - Sales Events
-     - [Sales Kick Off](/handbook/sales/training/SKO)
+     - [Sales Kickoff](/handbook/sales/training/SKO)
      - [Sales QBRs](/handbook/sales/sales-meetings)
      - [GitLab President's Club](/handbook/sales/club/)
 
@@ -116,7 +117,7 @@ The below is a work in progress as we define success measures across each stage 
 - **Progress the Opportunity & Close the Deal**
     - Increase # of closed deals per rep
     - Accelerate sales cycle time and improve conversion of SAOs to Closed/Won deals
-    - Increase average sale price (inclusive of improved product mix to sell more Premium/Silver and Ultimate/Gold)
+    - Increase average sale price (inclusive of improved product mix to sell more Premium and Ultimate)
     - Accelerate and improve predictability of new rep ramp time
     - Improve forecasting accuracy
     - Improve win rates
@@ -128,24 +129,23 @@ The below is a work in progress as we define success measures across each stage 
 </details>
 
 <details>
-<summary markdown="span">5. What is most important right now (2HFY21)?</summary>
+<summary markdown="span">5. What is most important right now (1HFY22)?</summary>
 
-1. Improve field efficiency by training and sustaining prioritized knowledge and behavior/skill gaps
-    - Field certification program (Sales, CS & Partner audiences)
-        - Product feature, tiering, and customer use cases
-        - Moments That Matter across the customer journey
-        - Continue to operationalize Command of the Message & MEDDPPICC
-    - Deliver enablement program aligned with top competitor GTM initiatives
-    - Embrace partner enablement as an extension of GitLab Sales and Customer Success enablement
-1. Promote a culture of continuous learning and development
-    - Improve learning experience by implementing new Learning Experience Platform (LXP)
+[**Q1FY22 Field Enablement OKRs**](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/660)
+
+1. **Improve field efficiency (all routes to market) with effective training solutions to address prioritized knowledge and skill gaps**
+    - Collaborate wwith Alliances team to deliver internal enablement for 3 hypercloud partners (AWS, GCP, IBM) ([issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1953))
+    - Field certification program (Sales, SA, TAM, and Partner Sales & SA audiences)
+    - Design & begin to deliver a Manager Training program for the field org ([epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/46))
+    - Continue to operationalize and reinforce Command of the Message & MEDDPPICC
+1. **Promote a culture of continuous learning that activates intrinsic motivation for improvement & development**
+    - Improve learning experience by continued roll-out of new Learning Experience Platform (LXP)
     - Develop and execute robust change management plan that taps into team members’ inherent desire to pursue excellence
-    - Continued execution & ongoing iteration of functional onboarding training to accelerate time to productivity for new field team members
     - Continued execution & ongoing iteration of continuous learning programs (CS Skills Exchange and Sales Enablement Level Up Webcast series)
-1. Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates and has access to information & resources necessary for their day-to-day work
-    - Continue to mature and advance field communications strategy
+1. **Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates and has access to information & resources necessary for their day-to-day work**
+    - Deliver an effective Sales Kickoff 2021
+    - Continuous execution & iteration of field communications strategy
     - Make it easier for Sales to discover & access information/resources they need when they need it
-    - Keep planning for SKO 2021 on track
 
 </details>
 
@@ -157,10 +157,10 @@ The below is a work in progress as we define success measures across each stage 
 - **[Manager, Field Enablement Programs](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kris Reynolds](/company/team/#kreynolds1)
 - **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
-    - [Eric Brown](/company/team/#ejbrown71) (Enterprise Sales Enablement)
     - [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
     - [Alvaro Warden](/company/team/#awarden) (Partner Enablement)
+    - TBH (Enterprise Sales Enablement)
 - **[Field Onboarding Program Manager](/job-families/sales/program-manager-field-enablement/)**
     - [Tanuja Paruchuri](/company/team/#tparuchuri)
 - **[Sales Training Facilitator](/job-families/sales/sales-training-facilitator-field-enablement/)**
@@ -220,7 +220,7 @@ If you have a Field Communications request (process change, announcement, etc.),
         - `sales onboarding` - label for issues related to sales/field onboarding
         - `QBR` - requests from Sales QBRs
         - `sales enablement sessions` - label for weekly virtual sales enablement series
-        - `sko` - label for issues related to Sales Kick Off
+        - `sko` - label for issues related to Sales Kickoff
         - `status:plan` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized but not yet scheduled
         - `status:scheduled` - used in conjunction with sales enablement sessions to indicate when a session topic has been prioritized and scheduled
         - `strategy` - plans, methods, or series of maneuvers or stratagems for obtaining specific goals or results

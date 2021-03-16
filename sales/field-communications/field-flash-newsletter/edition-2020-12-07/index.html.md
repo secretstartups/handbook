@@ -34,7 +34,7 @@ Ian Chiang and Jonathan Lim highlight their $349K+ Expand deal with a large APAC
 Have a deal you'd like to nominate? Fill out the [nomination form](https://forms.gle/7AYwzgFStrai5D2F7).
 
 ### New and Noteworthy Resources 📓
-The Risk and Field Security team has launched [GitLab AnswerBase](/handbook/engineering/security/security-assurance/field-security/common-security-questions.html) – a one-stop-shop for Customer-ready security questions and answers designed to help reduce bottlenecks and provide you with a self-serve tool to sell better and faster. [Watch this 6-minute demo video](https://youtu.be/X05JKei53H8) to learn more about how to use the tool. [Check it out -->](https://gitlab.com/gitlab-private/sec-compliance/field_security/security-standard-answers-rfp/-/issues?scope=all&utf8=%E2%9C%93&state=closed)
+The Risk and Field Security team has launched [GitLab AnswerBase](/handbook/engineering/security/security-assurance/risk-field-security/common-security-questions.html) – a one-stop-shop for Customer-ready security questions and answers designed to help reduce bottlenecks and provide you with a self-serve tool to sell better and faster. [Watch this 6-minute demo video](https://youtu.be/X05JKei53H8) to learn more about how to use the tool. [Check it out -->](https://gitlab.com/gitlab-private/sec-compliance/field_security/security-standard-answers-rfp/-/issues?scope=all&utf8=%E2%9C%93&state=closed)
 
 GitLab was ranked 162 on the 2020 Deloitte Technology Fast 500 list, which ranks the fastest-growing technology, media, telecommunication, life sciences, and energy tech companies (both public and private) in North America. Also, GitLab's 13.0 release recently won a [2020 CRN Tech Innovator Award for IT/Application Automation](https://www.crn.com/slide-shows/cloud/the-2020-tech-innovator-awards/17). [Read More and Share -->](https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/fast500-winners.html)
 
@@ -65,7 +65,7 @@ There are **only 2 months left to secure your spot at President’s Club 2021 at
 
 ----
 There is **exciting momentum from the Channel** team including: 
-1. The new [Partner Locator](https://about.gitlab.com/resellers/) is live, making it easier for customers to find a Channel Partner to fit their need(s) for implementation, integration and optimizations services.
+1. The new [Partner Locator](https://about.gitlab.com/partners/) is live, making it easier for customers to find a Channel Partner to fit their need(s) for implementation, integration and optimizations services.
 1. The [Channel Services Program](/handbook/resellers/services/) has launched to help new or existing partners design service portfolios around the DevOps Lifecycle in correlation to GitLab products.
 1. We have created a robust [Channel Partner Training and Certification Program](/handbook/resellers/training/) to enable partners in our ecosystem to sell, market, service and support GitLab prospects and customers.
 

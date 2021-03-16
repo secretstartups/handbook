@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Order Processing"
+noindex: true
 ---
 
 ## On this page
