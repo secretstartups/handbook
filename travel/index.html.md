@@ -216,6 +216,16 @@ If you feel that your travel frequency may expose your data please keep in mind 
 - Speaking in crowded places - Ensure that when you are talking about restricted data you are in a secure place and no-one can hear you.
 - 1Password travel mode - If you are approaching travel in a risky country or you have to leave your devices in an insecure place, please use [Travel Mode](https://support.1password.com/travel-mode/) in 1Password to ensure that your vaults will be safe if your device is compromised.
 
+When passing through an airport, there is the possibility that a customs or border control agent will demand that you provide the password to your laptop or mobile device. If this happens to you in regards to a company-owned device, GitLab recommends that you comply. If you do end up providing a password to any device that has access to GitLab resources (including your personal devices), you should follow [the process to engage security on-call](https://about.gitlab.com/handbook/engineering/security/#engaging-the-security-on-call) as soon as you can safely do so. Even if you do not provide a password, if any of your devices are permanently seized or even temporarily removed from sight, you should also engage the security on-call.
+
+For additional security specifically when travelling through an airport, the following advice is provided:
+
+- Completely power-off laptops and mobile devices before any security checkpoints. This reduces the risk of attacks that may be conducted against machines in a sleep mode, where the disk encryption is not being actively enforced.
+- Prior to the trip, remove any sensitive data from your local machine that is not absolutely required. Refer to the [Data Classification Standards](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-standards) for more information.
+- If you are concerned about the risks involved, you may request advice in the `#security-department` Slack channel.
+
+
+
 ## Travel Guidance: COVID-19
 
 Our top priority is the health and safety of our team members. 
