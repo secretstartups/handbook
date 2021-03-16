@@ -1100,9 +1100,9 @@ Image sizes can exceed megabytes and slow down the site rendering. Follow the pr
  
 ### Preparing blog posts privately
 
-It is not currently possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. 
+Currently, it is not possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. 
 
-We have an [issue open to explore implementing functionality in Netlify CMS that would allow us to stage and preview posts](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1149) before triggering a commit to GitLab.com. In the meantime, please leave a comment in your issue to let us know if the information in your proposed blog post is under embargo (e.g. a company announcement) and whether you need assistance staging the post in private. Please see below for details about how we prepare blog posts privately.
+We have an [issue open to explore implementing functionality in Netlify CMS that would allow us to stage and preview posts](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1149) before triggering a commit to GitLab.com. In the meantime, please leave a comment in your issue to let us know if the information in your proposed blog post is under embargo (e.g., a company announcement) and whether you need assistance staging the post in private. Please see below for details about how we prepare blog posts privately.
 
 #### Creating MRs for confidential issues
 
