@@ -12,23 +12,39 @@ title: "Incident Review"
 
 ## Incident Review
 
+
 > The primary goals of writing an Incident Review are to ensure that the incident is documented, that all contributing root cause(s) are well understood, and, especially, that effective preventive actions are put in place to reduce the likelihood and/or impact of recurrence.[^1]
 
+The DRI for incident review is the [EOC](/handbook/engineering/infrastructure/incident-management/#engineer-on-call-eoc-responsibilities) that was present when the incident occurred.
+
 ### Review Criteria
-If an incident matches any of the following criteria, an incident review must be completed:
 
-1. Incident was declared as `~severity::1`/`~severity::2`
-1. A `~review requested` label is added to the issue
+If an incident matches any of the following criteria, the `~Incident::ReviewCompleted` must be added to the incident before closing.
 
-The incident review should be presented in the synchronous review meeting only if the incident is an `~severity::1`, or a review has been requested via the `~review-requested` label.
+1. Incident was declared as `~severity::1`
+1. A `~review-requested` label is added to the issue
 
-It is recommended to follow the incident review process for any of the following events:
+A review may either be synchronous by adding it to the agenda of the weekly incident review meeting, or asynchronous by filling out the relevant parts of the incident review section.
+As a general guideline, it is recommended to follow the incident review process for any of the following events:
 
 1. Data loss of any kind
-1. A resolution time longer than 30 minutes
-1. A monitoring failure
+1. A high severity issue that has a resolution time longer than 30 minutes
+1. A high severity monitoring failure
 
-A review can be optionally conducted for incidents which do not meet the above criteria. In cases where an optional review is conducted, it is *not* necessary to fill out a complete review. For the sake of expediency, you can complete areas of the review which highlight what you, as the review author, want to bring to the attention of the larger organization.
+A review can be optionally conducted for incidents which do not meet the above criteria but keep in mind that synchronous meetings are demanding of our time and we do our best to [embrace asynchronous communication](/company/culture/all-remote/asynchronous/).
+
+In cases where an optional review is conducted, it is *not* necessary to fill out a complete review. For the sake of expediency, you can complete areas of the review which highlight what you, as the review author, want to bring to the attention of the larger organization and which drive the generation of corrective actions related to the incident.
+
+When requesting a review, it is important to add an explanation in addition to the `~review-requested` label. This will help guide the DRI and set expectations.
+The following are examples of situations where one might add the `~review-requested` label with the following explanations:
+
+```
+Adding ~review-requested as I would like to discuss this issue with a representative from the QA and Verify team in the weekly incident review meeting.
+```
+
+```
+Adding ~review-requested as the incident review section is missing an assessment of how many customers were impacted. This information would help prioritize proposed fixes.
+```
 
 ## Incident Review Process
 

@@ -413,7 +413,7 @@ graph TD
   B --> C[Incident::Mitigated]
   C --> D[Incident::Resolved - severity is re-assessed based on actual impact]
   D --> |S1 or optional by adding the review-requested label| F[Incident::Review-Scheduled]
-  D -->|S3/S4| Z[Closed]
+  D -->|S2/S3/S4| Z[Closed]
   B --> Y[Incident issue not needed. Remove all labels and close]
   F --> G[Incident::Review-Completed]
   G --> Z
