@@ -448,7 +448,7 @@ For more information on ARR calculation for Multi-Year Deals, see [ARR in Practi
 
 #### Ramp Deals 
 
-A ramp deal is when a customer prepays for users that will be fulfilled on a set schedule throughout the duration of the subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
+A ramp deal is when a contracts a multi-year deal for users that will be fulfilled on a set annual schedule throughout the duration of the multi-year subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront, or annually, for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
 
 Ramp deals are limited to multi-year deals, with 12 month ramp periods. See [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals) for more information.
 
@@ -461,6 +461,7 @@ A.  To create a ramp deal, tag @Sales-Support in chatter on the opportunity. **P
 *   Start date/term length
 *   Proposed ramp schedule
 *   Bill To and Sold To Contact
+*   Invoice Owner and Invoice Owner Contact (If Partner Deal)
 *   Product, quantity, discount
 *   Payment Terms (i.e. Net 30)
 *   Any other requests (i.e. Price Lock, true up language, etc.)
@@ -518,7 +519,9 @@ As of October 1, 2020, the following fields will be maintained by Deal Desk to d
 
 #### Opportunities Requiring Multiple Invoices
 
-If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. If there is no difference in number of seats or price across the years only one subscription and quote would be required (ie. Invoice Only opps do not require a quote object).
+If an opportunity requires multiple invoices due to a specific professional services delivery schedule, a separate opportunity is required for each invoice period. If there is no difference in number of seats or price across the years only one subscription and quote would be required (ie. Invoice Only opps do not require a quote object).
+
+In FY22, multi year deals for recurring subscription products, paid annually, will be captured on one opportunity. 
 
 **Opportunity Structure**
 
