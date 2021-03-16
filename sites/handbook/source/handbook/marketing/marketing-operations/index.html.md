@@ -69,6 +69,8 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
 ## <i class="far fa-life-ring" id="biz-tech-icons"></i> How to Get Help
 
+**Important**: Before submitting an issue that may contain [Personally Identifable Information (PII) data](https://about.gitlab.com/handbook/support/workflows/pii_removal_requests.html#overview) (including screenshots), please ensure the issue is marked confidential. You can use [quick actions](https://docs.gitlab.com/ee/user/project/quick_actions.html#issues-merge-requests-and-epics) to accomplish this in the issue description priort to submitting.
+
 <div class="flex-row" markdown="0">
   <div>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=bug_request" class="btn btn-purple" style="width:170px;margin:5px;">Report a bug</a>
