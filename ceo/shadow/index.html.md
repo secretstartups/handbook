@@ -401,6 +401,17 @@ The CEO may occasionally invite you to optional meetings that may not be explici
 
 Personal meetings will be marked as "busy" on the calendar. Shadows do not attend personal calls.
 
+##### CEO Handbook Learning Sessions
+
+The CEO and the Learning & Development team host weekly [handbook learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) to record videos for handbook pages. During these sessions, CEO Shadows are recommended to do the following: 
+1. Open an MR for the specific page being discussed during the recording
+2. Throughout the conversation, make updates to the page as items are discussed
+3. Goal is to make five improvements to the page during the session
+4. Following the recording, include the video on the respective handbook page
+5. Solicit feedback on the MR with the [L&D team](/handbook/people-group/learning-and-development/#ld-organization) and CEO in the CEO channel
+
+
+
 #### Removing yourself from personal CEO documents
 
 For certain meetings, such as Valley Meetings, a CEO Shadow may be added to an agenda document that is accessible to people outside of the GitLab organization.
