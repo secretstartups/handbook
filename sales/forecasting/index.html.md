@@ -27,9 +27,9 @@ Weekly after Tuesday evening, reviews from weekly team meetings will all be comp
 
 The Regional Director/Vice President of each team will establish weekly due date/time for your forecasts submissions.The RD/VP will be responsible for using your data for forecast the following:
 
-* Net IACV Commit: this is your Gross IACV Commit minus your Renewal Loss Commit.
-* Net IACV Best Case: this is your Gross IACV Best Case minus your Renewal Loss Best Case.
-* Net IACV 50/50: this value serves as what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
+* Net ARR Commit: this is your Gross ARR Commit minus your Renewal Loss Commit.
+* Net ARR Best Case: this is your Gross ARR Best Case minus your Renewal Loss Best Case.
+* Net ARR 50/50: this value serves as what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
 
 (Note that the above requires Renewal Loss to be forecasted)
 
@@ -42,9 +42,9 @@ See the [Command Plan](/handbook/sales/command-of-the-message/command-plan/) Han
 
 ### Forecast Category and Churn Renewal Fields
 
-* **Forecast Category** will be used when forecasting any opportunity with Incremental IACV. For example, if you are submitting a New Business, Add On Business, or Renewal opportunity to your forecast, the IACV portion of the opportunity will be included in your number.
+* **Forecast Category** will be used when forecasting any opportunity with Net ARR. For example, if you are submitting a New Business, Add On Business, or Renewal opportunity to your forecast, the Net ARR portion of the opportunity will be included in your number.
 
-* **Churn Renewal** will be used **only** when forecasting any renewal opportunities that have a probability to churn. In these cases, the Renewal ACV portion of the deal will be included into your Renewal Loss forecast number.
+* **Churn Renewal** will be used **only** when forecasting any renewal opportunities that have a probability to churn. In these cases, the Renewal ARR portion of the deal will be included into your Renewal Loss forecast number.
 
 ### Default Salesforce Stage to Forecast Category and Churn Renewal Mapping
 
@@ -63,7 +63,7 @@ There are two types of categories we review when your forecasts are pushed to Cl
 
 Please use these terms correctly and don't introduce other words. Apart from the above the company uses two other terms:
 
-* **Plan**: Our yearly operating plan that is our promise to the board. The IACV number has a 50% of being too low and 50% chance of being too high but we should always hit the TCV - Opex number.
+* **Plan**: Our yearly operating plan that is our promise to the board. The ARR number has a 50% of being too low and 50% chance of being too high but we should always hit the TCV - Opex number.
 * **Forecast**: Our latest estimate that has a 50% of being too low and 50% chance of being too high.
 
 
@@ -134,14 +134,17 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
 
 If you are a Sales Leader, will have additional access to the **Forecasting Tab** in Clari. You will see four tabs:
 
-* **IACV**
-  * You will enter your Gross IACV Commit/Best Case and Renewal Loss Commit/Best Case in this tab.
-  * Gross IACV will be your bookings, a positive value; Renewal Loss will be for lost renewal ACV, represented by a negative value.
-      * The Won IACV is calculated dynamically. For Managers it will be the Net IACV amount while for individual reps it will be the Gross IACV amount, which excludes Renewals with Negative IACV.
-  * The result will be your Net IACV, which will be your official value submitted.
+* **ARR**
+  * On this tab, you will enter your forecast for the following:
+      * Net ARR - Commit, 50/50 & Best Case
+      * Gross ARR - Commit & Best Case
+      * Renewal Loss - Commit & Best Case
+  * Gross ARR will be your bookings, a positive value; Renewal Loss will be for lost renewal ARR, represented by a negative value.
+      * The Won column is calculated dynamically. For Managers and certain sales teams it will be the Net ARR amount while for individual reps on Gross plans, it will be the Gross ARR amount, which excludes Renewals with Negative ARR.
+  * The result will be your Net ARR, which will be your official value submitted.
 
-* **Renewal ACV**
-  * This will be a read only tab. You will see your rep’s Closed Won Renewal ACV, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
+* **Renewal ARR**
+  * This will be a read only tab. You will see your rep’s Closed Won Renewal ARR, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
 
 * **TCV**
   * This will be a read only tab. You will see your rep’s Closed Won TCV, Commit, Best Case, and Pipeline.
@@ -161,7 +164,7 @@ Click on the radio button for the type of opportunities you want to see (normall
 
 To overwrite your regional forecast:
 1. In Clari, go to the Forecasting tab.
-1. Go the IACV tab.
+1. Go the ARR tab.
 1. Go to Commit and override the value.
 1. Add a note on why the adjustment made.
 2. Repeat this process for Best Case.
