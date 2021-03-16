@@ -425,7 +425,7 @@ The following iterations we will continue to review having implemented in Compaa
 * Equity Ranges (similar to how cash compensation range work)
 * A clear picture of overall budgetary impact for the leader vs by slate. 
 * Ability to see details (comp ranges, notes, etc) once a slate is submitted. 
-* Notification to a slate owener if an approver changes a recommended increase 
+* Notification to a slate owner if an approver changes a recommended increase 
 
 ### Communicating Compensation Increases
 
