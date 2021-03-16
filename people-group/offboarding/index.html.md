@@ -268,9 +268,11 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 1. ***PBP***: The PBP will stage the document in HelloSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
 
 
+
 *  When staging the document for signatures, please note:
     *  Remember to send the document to the team member's _personal_ email address
     *  Select the `assign signature order` option in HelloSign to ensure the team member signs the document first
+    *  All US severance agreements should be signed by Pattie Egan, VP of People Operations.  If Pattie is unavailable then Wendy Nice Barnes, CPO will be responsible for signing.
     
 1. ***PBP***: When the signed document is received, the Specialist should upload it to the team member's BambooHR profile in the `termination` folder
 1. ***PBP***: As a final step, the PBP should ping the `#payoll_peopleops_terms` private channel to confirm that the Severance document has been signed and uploaded to BambooHR
