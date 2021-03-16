@@ -403,12 +403,13 @@ Personal meetings will be marked as "busy" on the calendar. Shadows do not atten
 
 ##### CEO Handbook Learning Sessions
 
-The CEO and the Learning & Development team host weekly [handbook learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) to record videos for handbook pages. During these sessions, CEO Shadows are recommended to do the following: 
+The CEO and the [Learning & Development](/handbook/people-group/learning-and-development/) team host weekly [handbook learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) to record videos for handbook pages. During these sessions, CEO Shadows are recommended to do the following: 
 1. Open an MR for the specific page being discussed during the recording
-2. Throughout the conversation, make updates to the page as items are discussed
-3. Goal is to make five improvements to the page during the session
+2. Throughout the conversation, make updates to the page as items are explained 
+3. The goal is to make five improvements to the page during the session
 4. Following the recording, include the video on the respective handbook page
 5. Solicit feedback on the MR with the [L&D team](/handbook/people-group/learning-and-development/#ld-organization) and CEO in the CEO channel
+6. Make additional MR's to the specific page if necessary
 
 
 
