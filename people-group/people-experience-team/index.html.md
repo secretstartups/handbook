@@ -65,7 +65,7 @@ The following factors will also be taken into consideration:
 
 **The Rotation groups are listed as follows:**
 
-- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / GSuite License Reminder/ Printfection Report
+- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / Deleting LOE team member data / GSuite License Reminder/ Printfection Report
 - BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
 
 - I-9 Administration / Pruning of Stale Records (TBD)
@@ -204,6 +204,10 @@ The People Experience Associate in the `Probation Period` rotation, will complet
 ### Triage People Group Issues
 
 The People Experience Associate in the 'triage' rotation will pull up all issues opened in the `General` project and tag / assign team members according to the request. It is important that once you have triaged the issue, to update the label from `workflow:triage` to `workflow:todo / doing`. 
+
+### Deleting Team Member Data from Letter of Employment Rotation
+
+Once a week, the People Experience Associate in the `deleting team member data` rotation will delete team members data submitted on the Letter of Employment response spreadsheet for the previous week.
 
 ### OSAT Team Member Feedback
 
