@@ -33,7 +33,7 @@ In order to participate in the [round-robin support call](#self-managed-round-ro
 
 To get added to the group account:
 
-1. [open a Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
+1. Open a [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request)
 1. Title it as `Your Name, Support, Calendly`, list Calendly as the "System Name" and mention that you'll be scheduling customer calls.
 1. Assign to your manager, and they'll approve and assign it over to team member that provisions Calendly.
 
@@ -63,14 +63,14 @@ Part of your [support onboarding](/handbook/support/training/), once you're read
 
 To be added to the support call event:
 
-1. [open a Calendly Support Call Inclusion Request](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new?issuable_template=Provisioning%20Request) in the [Support Ops Calendly Project](https://gitlab.com/gitlab-com/support/support-ops/calendly/)
+1. Open a [Calendly Support Call Inclusion Request](https://gitlab.com/gitlab-com/support/support-ops/calendly/-/issues/new?issuable_template=Provisioning%20Request) in the [Support Ops Calendly Project](https://gitlab.com/gitlab-com/support/support-ops/calendly/)
 1. Read through the instructions and specify the hours you'll be available relative to your timezone in both Standard Time and Daylight Saving Time (if applicable) and your [tz database designation](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) for future automation.
 
 You'll then also be able to generate a single-use link for this event from your browser plugin.
 
 ## Support calls in the team calendar.
 
-We copy customer calls to the *GitLab Support* Google calendar using a Zapier Zap. For this to work
+We copy customer calls to the *GitLab Support* Google calendar using a [Zapier zap](https://zapier.com/app/editor/33897756?redirect=true). For this to work
 
 * Your calendly account must be part of the group account.
 * The word 'support' triggers the integration. Ensure 'support' is in the event name in Calendly.
