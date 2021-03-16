@@ -15,7 +15,7 @@ subcategory: Customer Info
 ##### Overview
 
 Use this workflow when there's a query about new GitLab offerings from an existing
-customer.
+customer. It can also be used to handle situations where customers express their need via a support ticket to get in contact with their account manager.
 
 
 ______________
@@ -29,4 +29,6 @@ email account and retrieve this code. Password is stored in 1Password.
 1. Use the login code from the previous step to finish logging in to Salesforce.
 1. Search for the customer and find the account manager's email address.
 1. Respond to the ticket, CC-ing the account manager letting them know of the 
-customer's interest in new/more GitLab offerings
+customer's interest in new/more GitLab offerings.
+
+>**NOTE:** If Salesforce lists `Sales Admin` as the account owner, ask in [#account-management](https://gitlab.slack.com/archives/C44SXGG8M/p1615916900003700) if one can be assigned to the customer.
