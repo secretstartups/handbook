@@ -242,11 +242,12 @@ GitLab currently has the following billing entities:
 This is a general rule for billing through the entities:
 
 | **Entity**          |**Direct / Unauthorized Reseller** | **Authorized Reseller**
+|                     |                                   |_for authorized resellers entity delineation please check the distribution agreement signed_|
 |-------              |----------                         |  ----                   |
-|BV (Netherlands)     | NL                                | Not AU, DE, UK, or US   |
+|BV (Netherlands)     | NL                                | NL                      |
 |GmbH (Germany)       | DE                                | DE                      |
 |Ltd (United Kingdom) | UK                                | UK                      |
-|Inc (United States)  | Not AU, NL, DE, or UK             | US                      |
+|Inc (United States)  | Not AU, NL, DE, or UK             | Not AU, NL, DE, or UK   |
 |Pty Ltd (Australia)  | AU                                | AU                      |
 
 We bill customers and unauthorized (fulfillment) resellers:
@@ -257,13 +258,14 @@ We bill customers and unauthorized (fulfillment) resellers:
 * based in Australia via GitLab PTY LTD (GST will be applied to the invoice)
 * the customers and unauthorized resellers that are based in the US or other countries than the above are billed through GitLab Inc
 
-We bill authorized resellers:
+We bill authorized resellers based on the entity of the distribution agreement signed. Several exceptions are present. For the exceptions please enquire internally:
 
-* based in the US via GitLab Inc
-* based in the UK via GitLab Ltd
-* based in Germany via GitLab GmbH
-* based in Australia via GitLab PTY LTD
-* the authorized resellers that are based in the Netherlands or other countries than the above are billed through GitLab BV unless the distribution agreement has been signed with another GitLab entity (this only concerns authorized resellers and doesn’t apply to direct customers)
+* based in the Netherlands via GitLab BV (VAT will be applied to the invoice)
+* based in the UK via GitLab Ltd (VAT will be applied to the invoice)
+* based in Germany via GitLab GmbH (VAT will be applied to the invoice)
+* based in Australia via GitLab PTY LTD (GST will be applied to the invoice)
+* the authorized resellers that are based in the US or other countries than the above are billed through GitLab Inc
+
 
 There are 3 reasons why an account for a customer or an unauthorized reseller based in the Netherlands, UK, Germany or Australia is billed through GitLab Inc:
 
