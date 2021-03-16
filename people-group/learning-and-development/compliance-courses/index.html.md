@@ -40,7 +40,7 @@ All team members, regardless of location, are required to take harassment preven
 
 If a Team Member moves from an individual contributor role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue, it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
 
-Our [Anti-Harassment Policy](handbook/anti-harassment/) outlines guidelines, reporting, and disciplinary action.  
+Our [Anti-Harassment Policy](/handbook/anti-harassment/) outlines guidelines, reporting, and disciplinary action.  
 
 ### Processing Steps for L&D Team
 
