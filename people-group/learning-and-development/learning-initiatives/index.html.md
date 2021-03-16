@@ -224,7 +224,6 @@ All of GitLab's Learning and Development programs use the [GitLab tool to facili
 - Self-Reflection: At the end of the week, have participants complete a self-reflection exercise
 - Certification/Badging: Option to award participants with a certification or badge
 
-
 ## Internal Learning Campaigns
 
 Learning campaigns at GitLab have an asynchronous focus and are used to raise awareness around a specific topic or set of resources. These campaigns are inspired by the structure of a learning challenge but without the required engagement or tracking. For example, the L&D team is using a learning campaign structure to host a [mental health awareness week](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/156)
@@ -263,4 +262,5 @@ List of CEO Handbook Learning Sessions:
 1. [High Output Management](https://about.gitlab.com/handbook/leadership/high-output-management/#applying-high-output-management)
 1. [Giving and Receiving Feedback](https://www.youtube.com/watch?v=vL864Zg2sm4&t=731s)
 1. [Managing Underperformance](https://www.youtube.com/watch?v=-mLpytnQtlY&t=637s)
+1. [Transitioning from IC to Manager - Engineering](https://www.youtube.com/watch?v=Zeull-tdy6o) 
 
