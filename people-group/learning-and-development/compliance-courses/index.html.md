@@ -46,7 +46,7 @@ Our [Anti-Harassment Policy](handbook/anti-harassment/) outlines guidelines, rep
 
 #### Tracking 
 
-The L&D Team will perform monthly or bi-monthly audits of team members that have completed the training. This will be done by opening an issue in the Learning & Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) and following the steps outlined in the `anti-harassment-training-tracking` [issue template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/anti-harassment-training-tracking.md). 
+The L&D Team will perform bi-weekly audits of team members that have completed the training. This will be done by opening an issue in the Learning & Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) and following the steps outlined in the `anti-harassment-training-tracking` [issue template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/anti-harassment-training-tracking.md). 
 
 #### Checking WILL Interactive for Offboarded Team Members
 
