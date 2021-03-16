@@ -52,7 +52,7 @@ These channels are for teams and GitLab team-members interested in a specific fe
 **Examples**
 
 * **[`#f_web_ide`](https://gitlab.slack.com/archives/f_web_ide)**: Share ideas and feedback about our [Web IDE](/blog/2018/06/15/introducing-gitlab-s-integrated-development-environment/)
-* **[`#f_ldap`](https://gitlab.slack.com/archives/f_ldap)**: Talk about our integration with [LDAP providers](https://docs.gitlab.com/ee/administration/auth/ldap.html).
+* **[`#f_ldap`](https://gitlab.slack.com/archives/f_ldap)**: Talk about our integration with [LDAP providers](https://docs.gitlab.com/ee/administration/auth/ldap/index.html).
 
 #### Group Channels (g_)
 
