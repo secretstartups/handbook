@@ -156,6 +156,7 @@ We follow the [Product Designer workflows](/handbook/engineering/ux/ux-designer/
     - When the UX work is ready to be transitioned into Engineering, apply the workflow lable `workflow::planning breakdown`.
     - The Engineering team can create a new issue or issues with the broken down work, and apply issue weights. These issues should be labeled `Engineering`.
     - Label issues with `UX` or `Engineering` but not both. This will make sure there is no confusion as to what the weight is for.
+- We have a [Figma template](https://www.figma.com/file/e8tj8XvblnhDlix83FUSij/Growth-Experiment-Design-Template?node-id=1%3A42) for designing experiments. You should title your Figma designs to be consistent with the experiment name, and link the experiment issue to the Figma file. When the variants are ready, add the control and variants to the "All the variants" page and provide context as needed. If you are conducting multiple experiments in the same area, consider using the same Figma file but include different pages per experiment design.
 
 #### UX Definition of Done (DoD)
 
@@ -227,6 +228,9 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
         * Creating a document for async catching up ([template](https://docs.google.com/document/d/1r83O5AAo_o46ics-BF6NV_eIr1yR7KkKCarfc8kbFgM/edit?usp=sharing)) and a calendar event to remind everyone involved to share what they’re working on. 
     * UX Researchers should share research results with stage groups whenever that research is relevant cross-stage.
 
+#### Contributing to the Learn GitLab project
+
+The Learn GitLab project is utilized to onboard new users to GitLab and contains self-paced issues the user can complete to help set them and their team up for success within the GitLab platform. There are currently two separate Learn GitLab projects, one for new free SaaS signups and one for new SaaS trial signups. The growth team is still actively experimenting with improvements to this experience. If you'd like to contribute an improvement to one of the Learn GitLab projects, you can do so by following the steps outlined in this [issue](https://gitlab.com/gitlab-com/Product/-/issues/2239). 
 
 
 ### Growth RADCIE and DRIs

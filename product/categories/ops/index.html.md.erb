@@ -114,6 +114,24 @@ In order to satisfy the above intent, we:
 ## Ops Expiremental PM Process
 This section documents experimental PM process used in the Ops Section that isn't incorporated into the [Product Process handbook](/handbook/product/product-processes/) which covers all sections. 
 
+### Risk Assessments
+In support of the Ops Quality Working Group we identified the need for designating specific groups to document their known risks in order to focus Quality related work and enable all team members to understand and participate in quality.
+
+#### Designate Higher Risk Groups
+We designate the following Product Group as higher risk:
+- Verify:CI
+- Verify:Runners
+- Package:Package
+
+#### Process for Documenting Risk Assessment
+- Risks are documented in the groups handbook page and referenced by the groups Direction content
+
+_Note_: We are intentionally avoiding being over-prescriptive of the structure for this content. Please keep the [intent](#risk-assessments) in-mind when documenting risks. We will learn from best-practices found by the designated higher risk groups before adding more process suggestions.
+
+#### Risk Assessment Resources
+- [Risk Guide Example](https://docs.google.com/document/d/1raN4jG_AbaNzQesECTK7YWLr7HC7kvjabk_S_tkt1KM/edit?usp=sharing)
+- [Risk Tracker Example](https://docs.google.com/spreadsheets/d/17ESbFeXdqj92IE4MoswMyuiGKtoOaYPm7jjXr5T5QDg/edit#gid=1679794657)
+
 ### Competitive Assessment Sharing
 
 ####  Intent
@@ -135,11 +153,13 @@ We'll consider this experiment a success if it encourages collaboration and unde
 
 ### Exciting Things
 1. [February Product Performance Indicator Review Highlights](https://gitlab.com/gitlab-com/Product/-/issues/2073#note_507286973)
-1. [January Direction Update Highlights](https://gitlab.com/gitlab-com/Product/-/issues/2005#note_504636983)
+1. [February Direction Update Highlights](https://gitlab.com/gitlab-com/Product/-/issues/2186#note_526483416)
 1. [February Kickoff Highlights](https://gitlab.com/gitlab-com/Product/-/issues/2114#note_511592092)
 
 ### Recent Accomplishments
 <%= partial("includes/product/highlights", :locals => { :stages => ['verify','package','release','configure','monitor'] }) %>
+
+_Note_: The release versions included here are adjusted in [this include file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/handbook/source/includes/product/_highlights.erb)
 
 ## References
 * [Product categories](/handbook/product/categories/#ops-section)
