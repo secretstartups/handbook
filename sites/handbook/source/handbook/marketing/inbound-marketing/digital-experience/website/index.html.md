@@ -428,7 +428,6 @@ Below are attributes that can be added to a stage in `data/stages.yml`. Each of 
 * `roadmap`: a URL to where the roadmap for the stage can be found
 * `established`: the year the stage was established (ex: `2020`)
 * `lifecycle`: integer (1-7), where the stage falls in the devops lifecycle
-* `contributions`:
 * `usage_driver_score`:the Product Usage Driver score, used on [/handbook/product/investment](/hanbook/product/investment)
 * `revenue_driver_score`:the Revenue Driver score, used on [/handbook/product/investment](/hanbook/product/investment)
 * `sam_driver_score`:the Service Addressable Market score, used on [/handbook/product/investment](/hanbook/product/investment)
