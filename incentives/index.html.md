@@ -98,7 +98,7 @@ You can read more about the process in [our handbook](https://about.gitlab.com/h
 * "I find the team member is doing very inspiring work and easy to collaborate with"
 
 
-For managers: as a reminder, please make sure when you are submitting the bonus in BambooHR that your description is clear and includes the valid criteria data needed for managers and PBP to review and approve.  Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the manager will be asked to provide further content and details.
+Any bonus submitted that does not include clear and valid reasons for submittal may be denied and the nominator / manager will be asked to provide further content and details.
 
 #### Multiple Discretionary Bonuses
 
