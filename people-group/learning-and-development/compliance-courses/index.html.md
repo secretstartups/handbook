@@ -44,6 +44,10 @@ Our [Anti-Harassment Policy](handbook/anti-harassment/) outlines guidelines, rep
 
 ### Processing Steps for L&D Team
 
+#### Tracking 
+
+The L&D Team will perform monthly or bi-monthly audits of team members that have completed the training. This will be done by opening an issue in the Learning & Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) and following the steps outlined in the `anti-harassment-training-tracking` [issue template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/anti-harassment-training-tracking.md). 
+
 #### Checking WILL Interactive for Offboarded Team Members
 
 When tagged in an offboarding issue, follow these steps to check the completion/license status of appropriate anti-harassment courses in the WILL Learning platform.
