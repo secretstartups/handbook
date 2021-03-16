@@ -34,10 +34,6 @@ GitLab encourages team members to take a day of vacation on their special day in
 
 Kindly note that team members are welcome to send cards or tokens of acknowledgement to celebrants in their personal capacity however the People Experience Team is unable to do so on behalf of GitLab; a Team or an Individual Team Member.
 
-The GitLab **BirthdayBot** announces the names of team members celebrating their birthday in the **#celebrations** channel.  This is an opt-in announcement and those who wish to be excluded can opt-out by excluding their date of birth from their slack profile.
-
-If you would like to be included in the announcement but would prefer not to have your year of birth noted in your profile you can document your date of birth as follows `0000-MM-DD` using `0000` as the year of birth will ensure only your day and month of birth will be in your profile.
-
 ## Significant Life Events
 ### Flowers and Gift Ordering
 The GitLab People Experience Team is able to send Gifts and Flowers on behalf of the Company or a specific Team in acknowledgement of significant life events such as the birth of a little one; well wishes ahead of surgery or the loss of a loved one. Only one order will be sent for a significant life event, if multiple requests are made, the People Experience Team will communicate this further with the manager. 
