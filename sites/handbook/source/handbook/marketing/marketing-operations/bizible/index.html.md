@@ -168,7 +168,9 @@ The channels and sub-hannels are mapped based on 5 attributes:
 1. Landing Page - this is the landing page url that the form submission occurs on. 
 1. Referring Website - this is the website that referred the submitter to the form submission page. 
 
-These rules are hierarchical and will operate in a top-down fashion, so the first rule is checked and then the second, and so on.     
+These rules are hierarchical and will operate in a top-down fashion, so the first rule is checked and then the second, and so on.
+
+**Note: Bizible reprocesses your data when you edit the mapping logic, so you won’t be able to change these rules more than once every 7 days.**
 
 | Channel        | Sub Channel        | Campaign                   | Medium                             | Source                             | Landing Page                              | Referring Website        |
 |----------------|--------------------|----------------------------|------------------------------------|------------------------------------|-------------------------------------------|--------------------------|
