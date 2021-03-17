@@ -31,4 +31,4 @@ email account and retrieve this code. Password is stored in 1Password.
 1. Respond to the ticket, CC-ing the account manager letting them know of the 
 customer's interest in new/more GitLab offerings.
 
->**NOTE:** If Salesforce lists `Sales Admin` as the account owner, ask in [#account-management](https://gitlab.slack.com/archives/C44SXGG8M/p1615916900003700) if one can be assigned to the customer.
+>**NOTE:** If Salesforce lists `Sales Admin` as the account owner, ask in [#account-management](https://gitlab.slack.com/archives/C44SXGG8M) if one can be assigned to the customer.
