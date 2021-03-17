@@ -14,7 +14,7 @@ title: "Sales Finance"
 ## Common Links
  * [Financial Planning & Analysis (FP&A)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
  * [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
- * [GTM Analytics Hub](https://about.gitlab.com/handbook/source/handbook/finance/financial-planning-and-analysis/Sales-Finance/GTM-Analytics-Hub)
+ * [GTM Analytics Hub](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/Sales-Finance/GTM-Analytics-Hub)
 
 ### Finance Business Partner Alignment
 
