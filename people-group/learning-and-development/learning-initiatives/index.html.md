@@ -91,7 +91,7 @@ Social Learning is the cornerstone for how L&D designs, develops, and delivers l
 Example of a Social Learning Live Learning Session on [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/)
 
 <figure class="video_container">
-  <iframe src="aezVF1nOBWc" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/aezVF1nOBWc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 Social Learning can also occur in GitLab's Learning Experience Platform - [GitLab Learn](https://gitlab.edcast.com/) and asynchronous forums using GitLab. (i.e. [Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26))
