@@ -68,7 +68,7 @@ Training revenue release is followed dependant on training billing type:
 
 ## Operations  
 
-#### Consulting Time Tracking 
+#### Time Tracking 
 
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
 
