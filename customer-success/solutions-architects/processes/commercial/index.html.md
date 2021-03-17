@@ -59,10 +59,12 @@ The Commercial SA Engagement Model intends to foster collaboration and influence
 
 In the spirit of supporting the sales floor and deals below $10k we’d like to continue to use Slack offering same day SLA’s for initial response and validation of the ask with mutually agreed upon delivery on formal answers to the question(s) posed.
 
-**Now Available:** **[SA Office Hours](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/33)**
+**Now Available for US:** **[SA Office Hours](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/issues/33)**
 
-To help with deals below $10k, we have introduced office hours as a forum that allows AE's to ask questions of the SA team in a one-to-many fashion that may help accelerate a smaller engagement, increase their knowledge of GitLab and other industry related technologies.
+To help with deals below $10k, the Americas team has introduced office hours as a forum that allows AE's to ask questions of the SA team in a one-to-many fashion that may help accelerate a smaller engagement, increase their knowledge of GitLab and other industry related technologies.
 
+In a similar effort, the EMEA team has leveraged two Slack Channels (`#cs_mm_sa_ae_emea` and `#cs_smb_sa_ae_emea`) to help support
+the Mid-Market and SMB teams. 
 
 
 *Please Note: If an exception needs to be made please copy both the ASM and Commercial SA Leader should a response be needed quicker though we can’t guarantee that this will be fulfilled.*
