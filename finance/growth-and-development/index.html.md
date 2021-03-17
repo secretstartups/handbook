@@ -10,15 +10,15 @@ The GitLab Finance Department is dedicated to the growth and development of our 
 
 **On-Boarding Growth and Development**
 
-Finance Team Member on-boarding will include specific tasks and information to foster a culture of continues development. This will include a working style assessment using Simpli5, a view into the Finance Career Ladders, an overview of the different mentorship programs, shadowing opportunities and internship programs, as well as the GitLab training tools available from the People group.
+Finance Team Member on-boarding will include specific tasks and information to foster a culture of continued development. This will include a working style assessment using Simpli5, a view into the Finance Career Ladders, an overview of the different mentorship programs, shadowing opportunities and internship programs, as well as the GitLab training tools available from the People group.
 
 **Work Style Assessment**
 
-We will use [Simpli5](https://www.simpli5.com/) assessments to help us develop a standardized set of terms for us to all communicate more efficiently. Simpli5 gives you the  power to understand YOUR natural tendencies as well as the natural tendencies of your co-workers. This awareness will help you gain a new perspective of yourself and your teammates.
+We will use [Simpli5](https://www.simpli5.com/) assessments to help us develop a standardized set of terms for us to all communicate more efficiently. Simpli5 gives you the power to understand YOUR natural tendencies as well as the natural tendencies of your co-workers. This awareness will help you gain a new perspective of yourself and your teammates.
 
 **Career Plans and Growth Ladders**
 
-Every individual is ultimately responsible for their career plan and Managers are responsible for providing an environment to develop a plan. We will work on a structure that clearly lays out a career plan progression and tools to communicate a plan by aligning to the GitLab Career Development [handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/).
+Every individual is ultimately responsible for their career plan and managers are responsible for providing an environment to develop a plan. We will work on a structure that clearly lays out a career plan progression and tools to communicate a plan by aligning to the GitLab Career Development [handbook page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/).
 
 **Cross Training, Mentorship and Shadow Programs**
 
