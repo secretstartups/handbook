@@ -15,8 +15,6 @@ The demo systems that we call the GitLab Training Cloud provides a perpetual sha
 
 The GitLab Training Cloud provides you access to Ultimate license features with your own user account and an organizational group that you can use for creating projects and child groups. We also handle all of the GitLab Runner autoscaling and Kubernetes configuration behind the scenes. 
 
-
-
 ## Version 1
 
 The Training Cloud v1 shares the [gitlab-core.us.gitlabdemo.cloud](https://gitlab-core.us.gitlabdemo.cloud) Omnibus instance with our Demo Cloud.
@@ -25,17 +23,86 @@ The Training Cloud v1 shares the [gitlab-core.us.gitlabdemo.cloud](https://gitla
 * Shared GitLab Runners
 * Shared Kubernetes Cluster
 
-### How It Works
+## How It Works
 
-#### Workshop Process Overview
+The process for using the demo systems for workshops has been iterated several times, including significant process changes in FY22-Q1 to transition from custom lab guides per workshop to a centralized catalog of lab guides that improves our efficiency. Please consider this handbook page the SSOT for the latest changes.
 
-You should start planning and creating your workshop labs 6-8+ weeks before the planned date of the workshop. 
+If you are organizing or hosting a workshop (for any purpose) that has hands-on labs, you are encouraged to use one of the lab guides that are published in our [hands-on lab guide catalog](#workshop-hands-on-lab-guide-catalog). We treat the catalog like a college or university bookstore collection where you can get the course materials off the shelf, regardless of what the marketing name of your course or workshop is, or who is teaching it.
 
-**If you are starting on your labs less than four (4) weeks before your workshop date, you can only use the Demo Systems if you are using lab exercises that were created and approved for a previous workshop.** With less than four weeks, there is not enough time for creating lab exercises, creating a code sample project, debugging your CI pipelines, creating a `README` and troubleshooting instructions, completing a peer content review, having two peers perform step-by-step lab exercise testing, complete an infrastructure scalability review and make changes if needed, and coming up with plan B and plan C if there are technical glitches. **Alternatively, you can publish an open source project for the user to use asynchronously after the workshop is over in their own GitLab.com group or Omnibus instance. A lot of the challenges that we face are non-existant if hundreds of users are not clicking the green button at the same time.**
+For each workshop session, you will need to follow the instructions below:
 
-#### Workshop hands-on lab creation process
+* Using an existing lab guide in the catalog? (90% of workshops). Follow the [Workshop existing lab guide catalog usage process](#workshop-existing-lab-guide-catalog-usage-process) at least 2-3+ weeks prior to the workshop.
+* Need to create a new lab guide for your workshop or different sample projects? Follow the [Workshop hands-on lab creation process](#workshop-hands-on-lab-creation-process) at least 6-8+ weeks prior to the workshop.
 
-> If you have any questions or deviations to this process, please send a Slack message or schedule a Zoom call with Jeff Martin to discuss. We're happy to accommodate but want to be proactive and discuss as early as possible to avoid last minute scrambling.
+### Workshop hands-on lab guide catalog
+
+All of the workshop content that is created officially can be found in the [gitlab-com/customer-success/workshops](https://gitlab.com/gitlab-com/customer-success/workshops) group. There have historically been many deviations and custom workshops that have been created, however they are not considered official until they have been [approved by the demo systems team](#workshop-hands-on-lab-creation-process) and published to this handbook page.
+
+<table>
+<tr>
+<th>Lab Guide Name</th>
+<th>Links</th>
+<th>Maintainer</th>
+</tr>
+<tr>
+<td>Advanced CI/CD</td>
+<td>
+<ul>
+<li><a href="https://gitlab.com/gitlab-com/customer-success/workshops/templates/advanced-ci-cd-template">Slides and Sample Project</a></li>
+</ul>
+</td>
+<td><a href="https://gitlab.com/lmwilliams">@lmwilliams</a></td>
+</tr>
+<tr>
+<td>Program Project Management</td>
+<td>
+<ul>
+<li><a href="https://gitlab.com/gitlab-com/customer-success/workshops/templates/ppm-template">Slides and Sample Projects</a></li>
+</ul>
+</td>
+<td><a href="https://gitlab.com/lmwilliams">@lmwilliams</a></td>
+</tr>
+<tr>
+<td>DevOps Automation</td>
+<td>
+<ul>
+<li><a href="https://gitlab.com/gitlab-com/customer-success/workshops/templates/devops-automation-template">Slides</a></li>
+</ul>
+</td>
+<td><a href="https://gitlab.com/lmwilliams">@lmwilliams</a></td>
+</tr>
+<tr>
+<td>Security</td>
+<td>
+<ul>
+<li><a href="https://gitlab.com/gitlab-com/customer-success/workshops/templates/security-template">Slides and Sample Projects</a></li>
+</ul>
+</td>
+<td><a href="https://gitlab.com/lmwilliams">@lmwilliams</a></td>
+</tr>
+</table>
+
+#### Workshop existing lab guide catalog usage process
+
+If one of the lab guides in the catalog above works for you, you can simply create an issue and invitation code and you're good to go after completing the steps below. We ask that you create the issue 2-3 weeks prior so we have time to make changes if there are any capacity limits, scheduled maintenace, multiple workshop schedule conflicts, known CI/CD cluster problems, etc.
+
+1. `[2-3+ weeks prior]` **Issue created** - Create an issue in the Demo Systems issue tracker using the [workshop_existing_lab_guide](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/new?issuable_template=workshop_existing_lab_guide) issue template. You can follow the commented out instructions in the issue description, including linking to the catalog lab guide that you'll be using.
+1. `[2-3+ weeks prior]` **Invitation code** - Create your invitation code [using the instructions below](#self-service-workflow-for-creating-an-invitation-code). This will automatically create the GitLab group and environment for you to use for your sample projects and lab exercise development. It is recommended to not create a test invitation code since you will have to perform additional steps to relocate and re-test your sample projects. We can administratively update the expiration date if your workshop is rescheduled.
+1. `[2-3+ weeks prior]` **Import sample project(s)** - Import the catalog lab guide sample project(s) into the GitLab group for this session. You can start using your sample project and perform testing [using the instructions below](#test-your-invitation-code-and-sample-projects).
+1. `[2-3+ weeks prior]` **Green light approval** - Once capacity limits and schedule conflicts are checked, Jeff Martin will provide the final approval in the issue and you're good to go. 
+    * [Prepare for your class or workshop](#prepare-for-your-class-or-workshop)
+    * [During the class or workshop](#during-the-class-or-workshop)
+    * [After the class or workshop](#after-the-class-or-workshop)
+
+### Workshop hands-on lab creation process
+
+When creating new lab guides for a workshop, you should start planning and creating your workshop labs 6-8+ weeks before the planned date of the workshop. 
+
+**If you are starting on your labs less than four (4) weeks before your workshop date, you can only use the Demo Systems if you are using lab exercises that are listed in the [lab guide catalog](#workshop-hands-on-lab-guide-catalog).** With less than four weeks, there is not enough time for creating lab exercises, creating a code sample project, debugging your CI pipelines, creating a `README` and troubleshooting instructions, completing a peer content review, having two peers perform step-by-step lab exercise testing, complete an infrastructure scalability review and make changes if needed, and coming up with plan B and plan C if there are technical glitches. 
+
+**Alternatively, you can publish an open source project for the user to use asynchronously after the workshop is over in their own GitLab.com group or Omnibus instance. A lot of the challenges that we face are non-existant if hundreds of users are not clicking the green button at the same time.**
+
+If you have any questions or deviations to this process, please send a Slack message or schedule a Zoom call with Jeff Martin to discuss. We're happy to accommodate but want to be proactive and discuss as early as possible to avoid last minute scrambling.
 
 1. `[6+ weeks prior]` **Issue created in demo systems issue tracker** - Create an issue in the Demo Systems issue tracker using the [workshop_sample_projects_review](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/new?issuable_template=workshop_sample_projects_review) issue template. 
     * Follow the instructions in the issue description to fill out a description of your lab scenarios and what you will be doing. This is the "lab abstract" to give the demo systems team time to prepare thematically for what you want to do and identify any risks or technical limitations early.
@@ -64,12 +131,7 @@ You should start planning and creating your workshop labs 6-8+ weeks before the 
     * [Prepare for your class or workshop](#prepare-for-your-class-or-workshop)
     * [During the class or workshop](#during-the-class-or-workshop)
     * [After the class or workshop](#after-the-class-or-workshop)
-
-#### Pre-approved hands-on lab reuse process
-
-1. **Issue created with abstract** (6+ weeks prior) - Create an issue in the Demo Systems issue tracker using the [workshop_sample_projects_review](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/new?issuable_template=workshop_sample_projects_review) issue template. 
-  * Follow the instructions in the issue description to fill out a description of your lab scenarios and what you will be doing. This is the "lab abstract" to give the demo systems team time to prepare thematically for what you want to do and identify any risks or technical limitations early.
-1. **Invitation code** (5-6+ weeks prior) - Create your invitation code [using the instructions below](#self-service-workflow-for-creating-an-invitation-code). This will automatically create the GitLab group and environment for you to use for your sample projects and lab exercise development. It is recommended to not create a test invitation code since you will have to perform additional steps to relocate and re-test your sample projects. We can administratively update the expiration date if your workshop is rescheduled.
+1. `[1-3 weeks after]` **Publish to catalog** - After the workshop has been completed and any reported problems are mitigated, the demo systems team will publish the lab guide for your workshop to the catalog for future re-use.
 
 #### Self-service workflow for creating an invitation code
 
