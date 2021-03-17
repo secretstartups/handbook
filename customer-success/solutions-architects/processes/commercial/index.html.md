@@ -46,7 +46,7 @@ The Commercial SA Engagement Model intends to foster collaboration and influence
   - Discovery calls
   - Demonstrations
   - [Proof-of-Value engagements (b.k.a POVs)](https://about.gitlab.com/handbook/sales/POV/#pov-best-practices)
-    - POV's  should  be positioned we're engagements are $25k or higher
+    - POV's should  be positioned for engagements that are $25k or higher
     - Pro tip: All POV/evaluation scope should be negotiated and vetted, so we understand “why”. Let’s not rush to answer.  We should validate our prospects’/customers’ needs and know what they’re asking for. This will help us provide a solution by establishing success criteria to evaluate and confirm GitLab as their best path forward. "Production" and "Pre-production" level POVs/evals should be discouraged or provided as paid engagement option as part of a license purchase.
 
 
