@@ -109,7 +109,7 @@ We will measure progress towards our short-term direction in the following ways:
 1. [Data Team KPIs](/handbook/business-technology/data-team/direction/#data-team-kpis)
 1. The business impact of our results as they align to the [Data Value Pyramid](/handbook/business-technology/data-team/direction/#data-value-pyramid)
 1. The data features we provide as they map to the [Data Capability Model](/handbook/business-technology/data-team/direction/#data-capability-model)
-1. The Data Team [Quarterly Report Card](/handbook/business-technology/data-team/direction/#data-team-quarterly-report-card)
+1. The Data Team Quarterly Report Card
 
 We have not yet defined criteria for measuring long-term progress.
 

@@ -304,6 +304,7 @@ Where it is best that this info is piped into Slack on a regular cadence, you ca
 If it does not appear that the dashboard is autorefreshing, please ping a [Sisense admin](/handbook/business-technology/tech-stack-applications/) to update the refresh schedule.
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome" aria-hidden="true" id="user-roles"></i>User Roles
+{:#user-roles}
 
 There are three user roles (Access Levels) in Sisense: admin, SQL, and View Only.
 
