@@ -169,6 +169,107 @@ You can include multiple configurations, and any environment variables or comman
 }
 ```
 
+## Set up experimental auto-scaled runners
+
+Sometimes, it's useful to [deploy auto-scaled runners to try out and compare different machine types](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10623).
+
+To do so, follow these steps:
+
+1. Create a service account to access shared cache in [the `gitlab-qa-resources` GCP project](https://console.cloud.google.com/iam-admin/serviceaccounts?project=gitlab-qa-resources).
+   1. Download the service account credentials JSON file.
+1. Create a VM instance to host the auto-scaled runners manager in [the `gitlab-qa-resources` GCP project](https://console.cloud.google.com/compute/instances?project=gitlab-qa-resources).
+   1. Add the service account to the VM instance.
+   1. Add you SSH key to the VM instance.
+   1. Upload the service account credentials JSON file to the VM instance (e.g. `scp ~/Downloads/gitlab-qa-resources-abc123.json <your-username>@VM-IP:/home/<your-username>`).
+1. Create a storage bucket for the shared cache in [the `gitlab-qa-resources` GCP project](https://console.cloud.google.com/storage/browser?project=gitlab-qa-resources).
+1. SSH into the VM instance (using GCP's Web interface).
+1. Follow [the installation steps for auto-scaled runners manager](https://docs.gitlab.com/runner/executors/docker_machine.html#preparing-the-environment):
+   1. [Install `gitlab-runner`](https://docs.gitlab.com/runner/install/linux-repository.html#installing-gitlab-runner).
+   1. [Install Docker Machine](https://docs.docker.com/machine/install-machine/).
+   1. [Register the runner](https://docs.gitlab.com/runner/register/#linux)
+      1. Make sure to set a specific tag for the runner.
+      1. Set `docker+machine` as the runner executor.
+   1. Move the service account credentials JSON file to its final destination (using `sudo`): `sudo mv home/<your-username>/gitlab-qa-resources-abc123.json /etc/gitlab-runner/service-account.json`
+   1. Edit the runner manager with something like the following configuration (make sure to check the [`[runners.machine]`](https://docs.gitlab.com/runner/configuration/advanced-configuration.html#the-runnersmachine-section) documentation):
+
+    ```toml
+    concurrent = 500
+    check_interval = 0
+
+    [session_server]
+      session_timeout = 1800
+
+    [[runners]]
+      name = "n2d-highcpu-4 Relevant description of the runner manager"
+      url = "https://gitlab.com/"
+      token = "[REDACTED]"
+      executor = "docker+machine"
+      limit = 500
+      pre_clone_script = "eval \"$CI_PRE_CLONE_SCRIPT\""
+      request_concurrency = 500
+      environment = [
+        "DOCKER_TLS_CERTDIR=",
+        "DOCKER_DRIVER=overlay2",
+        "FF_USE_DIRECT_DOWNLOAD=true",
+        "FF_GITLAB_REGISTRY_HELPER_IMAGE=true"
+      ]
+    
+      [runners.custom_build_dir]
+        enabled = true
+
+      [runners.cache]
+        Type = "gcs"
+        Shared = true
+        [runners.cache.gcs]
+          BucketName = "BUCKET-NAME-FOR-THE-SHARED-CACHE"
+          CredentialsFile = "/etc/gitlab-runner/service-account.json"
+
+      [runners.docker]
+        tls_verify = false
+        image = "ruby:2.7"
+        privileged = true
+        disable_entrypoint_overwrite = false
+        oom_kill_disable = false
+        disable_cache = false
+        shm_size = 0
+        volumes = [
+          "/cache",
+          "/certs/client"
+        ]
+
+      [runners.machine]
+        IdleCount = 0
+        IdleTime = 600
+        MachineDriver = "google"
+        MachineName = "rymai-n2d-hc-4-%s"
+        MachineOptions = [
+          # Additional machine options can be added using the Google Compute Engine driver.
+          # If you experience problems with an unreachable host (ex. "Waiting for SSH"),
+          # you should remove optional parameters to help with debugging.
+          # https://docs.docker.com/machine/drivers/gce/
+          "google-project=gitlab-qa-resources",
+          "google-zone=us-central1-a", # e.g. 'us-central1-a', full list in https://cloud.google.com/compute/docs/regions-zones/
+          "google-machine-type=n2d-highcpu-4", # e.g. 'n1-standard-8'
+          "google-disk-size=50",
+          "google-disk-type=pd-ssd",
+          "google-label=gl_resource_type:ci_ephemeral",
+          "google-username=cos",
+          "google-operation-backoff-initial-interval=2",
+          "google-use-internal-ip",
+          "engine-registry-mirror=https://mirror.gcr.io",
+        ]
+        OffPeakTimezone = ""
+        OffPeakIdleCount = 0
+        OffPeakIdleTime = 0
+        MaxBuilds = 20
+
+        [[runners.machine.autoscaling]]
+          Periods = ["* * 8-18 * * mon-fri *"] # During the weekends
+          IdleCount = 0
+          IdleTime = 600
+          Timezone = "UTC"
+    ```
+
 ## Scripts and tools for automating tasks
 
 ### Toolbox
