@@ -28,3 +28,7 @@ A Secure Workshop is **not** a hands-on-keyboard demo or implementation effort.
 The first step in setting up a Secure workshop with a customer is working through the [discovery questionnaire](https://docs.google.com/document/d/1bQwVFU1UInjdIg5oSoNHXT8O1PdupKXCIft0yeAhgE8/edit?usp=sharing). This will help you to scope the workshop, and plan what information to cover.
 
 _This enablement is still under development, and the customer-facing materials are not yet available. This page will be updated as it progresses._
+
+## Discovery Questions
+
+To determine the scope and contents of the workshop, refer to the [discovery questionnaire](questionnaire/) which provides guidance on information to gather and questions to ask, as well as links to additional questions and resources to use.
