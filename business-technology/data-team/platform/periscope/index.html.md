@@ -33,7 +33,7 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 1. An **Editor** license is required to develop Sisense reports and dashboards. Editor licenses cost money, so please [make sure you need one](/handbook/spending-company-money/) before requesting one. Keep in mind our [frugality value](/handbook/values/#frugality).
 1. Using [Editor](https://drive.google.com/file/d/15tm_zomS2Ny6NdWiUNJlZ0_73THDiDww/view) effectively requires a bit of technical and data modeling experience.
-1. Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), including identification of your correct [user role](/handbook/business-technology/data-team/periscope/#user-roles).
+1. Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), including identification of your correct [user role](/handbook/business-technology/data-team/platform/periscope/#user-roles).
 
 ### Reclaiming Licenses
 
