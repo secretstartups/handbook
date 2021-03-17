@@ -33,7 +33,7 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 1. An **Editor** license is required to develop Sisense reports and dashboards. Editor licenses cost money, so please [make sure you need one](/handbook/spending-company-money/) before requesting one. Keep in mind our [frugality value](/handbook/values/#frugality).
 1. Using [Editor](https://drive.google.com/file/d/15tm_zomS2Ny6NdWiUNJlZ0_73THDiDww/view) effectively requires a bit of technical and data modeling experience.
-1. Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), including identification of your correct [user role](/handbook/business-technology/data-team/periscope#user-roles).
+1. Create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request), including identification of your correct [user role](/handbook/business-technology/data-team/periscope/#user-roles).
 
 ### Reclaiming Licenses
 
@@ -61,7 +61,7 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 ## Accessing Sisense
 
-Everyone at GitLab has View-only access to [Sisense](https://app.periscopedata.com/app). Log in using [Okta](/handbook/business-technology/okta/). If you need elevated access, such as Editor permissions to create your own charts, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New+Access+Request). Also see the [user roles section](/handbook/business-technology/data-team/platform/periscope#user-roles)
+Everyone at GitLab has View-only access to [Sisense](https://app.periscopedata.com/app). Log in using [Okta](/handbook/business-technology/okta/). If you need elevated access, such as Editor permissions to create your own charts, create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New+Access+Request). Also see the [user roles section](/handbook/business-technology/data-team/platform/periscope/#user-roles)
 
 ## <i class="fas fa-book fa-fw icon-color font-awesome" aria-hidden="true"></i>Sisense Resources
 
@@ -301,9 +301,9 @@ Tags are free. Make it as easy as possible for people to find the information th
 Many folks will have some cadence on which they want to see dashboards;
 for example, Product wants an update on opportunities lost of product reasons every week.
 Where it is best that this info is piped into Slack on a regular cadence, you can take advantage of Slack's native `/remind` to print the URL.
-If it does not appear that the dashboard is autorefreshing, please ping a [Sisense admin](/handbook/business-technology/#tech-stack) to update the refresh schedule.
+If it does not appear that the dashboard is autorefreshing, please ping a [Sisense admin](/handbook/business-technology/tech-stack-applications/) to update the refresh schedule.
 
-## <i class="fas fa-users fa-fw icon-color font-awesome" aria-hidden="true"></i>User Roles
+## <i class="fas fa-users fa-fw icon-color font-awesome" aria-hidden="true" id="user-roles"></i>User Roles
 
 There are three user roles (Access Levels) in Sisense: admin, SQL, and View Only.
 
