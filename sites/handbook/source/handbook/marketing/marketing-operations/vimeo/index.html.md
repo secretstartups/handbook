@@ -16,7 +16,7 @@ Vimeo is a video hosting, sharing, and services platform.
 
 ## Access
 
-Vimeo is connected to Okta. To request access, [create an access request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) and use the GitLab user group `@gitlab-com/business-ops/team-member-enablement` to provision you. Make sure to include the business case for why you would like access and tag a team member from digital production. Once provisioned to Vimeo, marketing ops can adjust your permission set as neeeded. 
+Vimeo is connected to Okta. To request access, [create an access request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) and use the GitLab user group `@gitlab-com/business-technology/team-member-enablement` to provision you. Make sure to include the business case for why you would like access and tag a team member from digital production. Once provisioned to Vimeo, marketing ops can adjust your permission set as neeeded. 
 
 ### User Roles
 
