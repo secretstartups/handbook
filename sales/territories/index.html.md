@@ -10,7 +10,7 @@ title: "Sales Territories"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Process to Request 
+## Process to Request Update
 
 ### Territory Ownership (Sales)
 
@@ -67,11 +67,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	|
 |	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector |
 |	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	|
-|	NA West	|	Southwest	|	Large-AMER-West-1	|	Haydn Mackay	|
+|	NA West	|	Southwest	|	Large-AMER-West-1	|	Haydn Mackay	
 |	NA West	|	Southwest	|	Large-AMER-West-2	|	Alan Cooke	|
 |	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	|
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-2	|	Joe Drumtra	|
-|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-3	|	Adi Wolff	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-3	|	Haydn Mackay|
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-4	|	Philip Wieczorek	|
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-5	|	Lydia Pollitt	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	|
