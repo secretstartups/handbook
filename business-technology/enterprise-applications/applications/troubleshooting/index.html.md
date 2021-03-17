@@ -65,7 +65,7 @@ If the true-up is not added or has the incorrect number of users over the licens
 
 The customer is always free to renew for as many users as they would like, even if this number is lower than the previous year; the true-up amount just needs to be paid for in full.
 
-If a customer is having issues obtaining the number of licenses needed to purchase, you can [request a screenshot](/handbook/business-technology/enterprise-applications/applications/troubleshooting/#how-to-ask-the-customer-for-a-screenshot-needed-for-users-over-license) from them or else access their usage ping data through the [version application](https://version.gitlab.com/).
+If a customer is having issues obtaining the number of licenses needed to purchase, you can [request a screenshot](/handbook/business-technology/enterprise-applications/applications/troubleshooting/#how-to-ask-the-customer-for-a-screenshot-needed-for-users-over-license-with-self-managed) from them or else access their usage ping data through the [version application](https://version.gitlab.com/).
 If there is no data available through usage ping, we can conclude that the usage ping has been disabled in the instance, and you will need to obtain this information manually.
 
 ##### Customer Question: Why is there a discrepancy between “Maximum Users” and “Users” on the admin dashboard? (self-managed)
@@ -312,7 +312,7 @@ Note, if there are more users associated with the group (including its subgroups
    - This will create a new oppty for your upgrade
    - Name the oppty appropriately
    - From the new add-on oppty view click `New Quote`
-   - [Amend subscription](/handbook/business-technology/order-processing/#amend-existing-subscription-for-the-billing-account)
+   - [Amend subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote)
      - add the new SKU
      - remove the old items
      - `Save`

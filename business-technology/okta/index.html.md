@@ -136,7 +136,7 @@ As a precaution, you will also need to change your Okta Password.
 Create a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) and fill in as much information as you can.
 
 Okta is currently configured with assigned groups/roles based on a team member's role/group.
-Refer to the [Access Removal Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#access-change-request) section of the handbook for additional information on why an application may not be available in Okta.
+Refer to the [Access Change Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#access-change-request) section of the handbook for additional information on why an application may not be available in Okta.
 
 ### How do I get my application set up within Okta?
 

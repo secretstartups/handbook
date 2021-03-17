@@ -23,7 +23,7 @@ It lists additional information such as the Business Purpose, Who should have ac
 
 ##### Making global changes
 
-To make changes to global configurations or settings for any Business Technology applications in the Tech Stack, please follow the [Business Technology change management process](/handbook/business-technology/business-technology-change-management/).
+To make changes to global configurations or settings for any Business Technology applications in the Tech Stack, please follow the [Business Technology change management process](/handbook/business-technology/change-management/).
 
 ## Projects
 

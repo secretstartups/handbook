@@ -50,7 +50,7 @@ TBD
 ##### Types of Support
 
 1. Access Request or change in access: [Queue](https://gitlab.com/groups/gitlab-com/-/boards/1765444?&label_name[]=FinSys%20-%20Access%20Request).
-    Submit [issue](/handbook/business-technology/employee-enablement/onboarding-access-requests/access-requests/).
+    Submit [issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 1. Breaks, bugs and incidents related to a system.
     Submit [issue](https://gitlab.com/gitlab-com/business-technology/financeops/finance-systems/-/issues/new).
 1. Enhancement Request for a system.

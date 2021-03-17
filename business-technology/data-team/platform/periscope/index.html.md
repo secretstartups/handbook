@@ -21,7 +21,7 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 
 ## <i class="fab fa-gitlab fa-fw icon-color font-awesome" aria-hidden="true"></i>Access
 
-[Sisense](https://www.sisense.com/why-sisense/) is our enterprise standard data visualization application and is the only application approved for connecting to our [Enterprise Data Warehouse](/handbook/business-technology/data-team/data-infrastructure/).
+[Sisense](https://www.sisense.com/why-sisense/) is our enterprise standard data visualization application and is the only application approved for connecting to our [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/infrastructure/).
 
 ### Self-Service Dashboard Access
 

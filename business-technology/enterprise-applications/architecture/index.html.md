@@ -24,7 +24,7 @@ title: "Enterprise Applications Architecture"
 
 ### Baseline Entitlements
 
-- [Baseline Entitlement High Level](/handbook/business-technology/employee-enablement/onboarding-access-requests/access-requests/baseline-entitlements/)
+- [Baseline Entitlement High Level](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/)
 
 ## Enterprise Application Ecosystem
 
@@ -45,7 +45,7 @@ title: "Enterprise Applications Architecture"
 
 ### Lead to Fulfillment
 
-- [Business Fulfillment Documentation RoundUp](/handbook/business-technology/enterprise-applications/portal/)
+- [Business Fulfillment Documentation RoundUp](/handbook/business-technology/enterprise-applications/applications/)
 - [Trade Compliance Operations](/handbook/business-technology/trade-compliance)
 - [WIP: lead to fulfillment flow through systems and processes](https://app.lucidchart.com/documents/view/fe61ff48-c0e3-4f40-b2de-4023d48101d9)
 - [System integrations and related emails](https://docs.google.com/spreadsheets/d/1j3xE6pQLfsKMri14LDcrnxbWbTwqz4Tpv9kI8UIHYCE/edit#gid=1849578778)

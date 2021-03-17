@@ -92,7 +92,7 @@ classDiagram
     }
 ```
 
-More on use and conventions of Dimensional Modeling in Data Team Handbook [here](/handbook/business-technology/data-team/dbt-guide/#dimensional)
+More on use and conventions of Dimensional Modeling in Data Team Handbook [here](/handbook/business-technology/data-team/platform/dbt-guide/#dimensional-modeling)
 
 ## How to interact with the dim and fct tables -  building Data Marts
 

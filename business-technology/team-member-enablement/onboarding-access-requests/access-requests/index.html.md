@@ -123,7 +123,7 @@ After the Exception Length, you will be required to submit another Exception Req
 
 ---
 
-#### <a href="https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request" target="_blank">Access Change Request</a>
+#### <a href="https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request" target="_blank" id="access-change-request">Access Change Request</a>
 
 Access Change Requests are logged when a team member no longer requires access to a currently provisioned system or no longer requires the same level of access (downgraded access from admin to user etc).
 Refer to [`For Total Rewards Analysts: Processing Promotions & Compensation Changes`](/handbook/people-group/promotions-transfers/#for-people-ops-analysts-processing-promotions--compensation-changes) section of the GitLab handbook for additional information.

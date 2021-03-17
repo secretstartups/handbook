@@ -33,7 +33,7 @@ title: "Trade Compliance"
 
 #### Effect on accounts
 
-- [Detailed Documentation](/handbook/business-technology/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
+- [Detailed Documentation](/handbook/sales/field-operations/order-processing/)
 - High level: Salesforce is integrated with a software application which scans SFDC every fifteen minutes looking for Accounts that match a deny list and mark it for review which a legal team member reviews.
     They will either clear the account or lock it.
 
