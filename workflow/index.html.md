@@ -142,12 +142,12 @@ The merge request author of the change that broke master is the resolution DRI. 
 
 ### Broken `master` mirrors
 
-[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which providing a space for [Release Managers]() and the [Engineering Productivity team]() to monitor failures for the following projects:
+[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers]() and the [Engineering Productivity team]() to monitor failures for the following projects:
 
-- `gitlab-org/security/gitlab`
-- `http://dev.gitlab.org/gitlab/gitlab-ee`
+- <https://gitlab.com/gitlab-org/security/gitlab>
+- <https://dev.gitlab.org/gitlab/gitlab-ee>
 
-The `#master-broken-mirrors` channel is to be used to identify unique failures for those projects and flaky failures are not expected to be retried/reacted to.
+The `#master-broken-mirrors` channel is to be used to identify unique failures for those projects and flaky failures are not expected to be retried/reacted to in the same way as `#master-broken`.
 
 #### Responsibilities of authors and maintainers
 
