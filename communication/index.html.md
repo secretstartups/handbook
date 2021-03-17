@@ -649,6 +649,16 @@ Some of the most common meetings problems are outlined below:
 | No agenda with edit rights for everyone | Ensure that every meeting has an agenda and is available for everyone to edit |
 | People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting |
 
+### Pre-Recorded Presentations Are Preferred 
+
+Meetings take up valuable time and resources for the company. If a meeting covers a topic that requires a presentation, do not use the meeting time to present information. Instead, make a pre-recorded video presentation on YouTube Unfiltered, and attach it to the meeting agenda. Announce in Slack Channels that the meeting has a pre-recorded video and all attendees are recommended to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides. 
+
+GitLab recommends this approach during meetings for the following reasons: 
+1. Enables meeting participants to have their questions answered on the topic presented.
+2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it allows team members in different time zones to consume the presentation material on their own time. 
+3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the efficiency of the meeting time to ensure that team members have their voices heard during Q&A. 
+
+
 ## Indicating Availability
 
 Indicate your availability by updating your own calendar using Google's ["out of office"](https://www.theverge.com/2018/6/27/17510656/google-calendar-out-of-office-option) feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
