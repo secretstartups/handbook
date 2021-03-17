@@ -29,7 +29,7 @@ This workflow covers cases when a user says they are not receiving their confirm
 
 If the user made a typo:
 
-1. Make sure the account in question is a new account.
+1. Make sure the account in question has no activity.
 1. When viewing the user in the admin area, click `Edit`.
 1. Fix the email address to the correct one and save your changes.
 
