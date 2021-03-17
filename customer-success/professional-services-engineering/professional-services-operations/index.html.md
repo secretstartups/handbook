@@ -20,6 +20,54 @@ Professional Services Operations is a collaboration of our consulting, training,
 
 When the PC and PM have the project team aligned the PC will send [Consulting Project Assignment](https://docs.google.com/document/d/1HfIt30ksOlhv3zAxh8ZPX-5J59maiuhNgZT2E5lMpsk/edit) in the Mavenlink project activity, this allows the team to be aware of who will be working on the project.
 
+#### Consulting Projects Billing Guidelines
+
+Project billing is outlined in each customer SOW or Order Form.  The current billing terms that professional services follows is the following:
+   * Billed upon SOW execution
+   * Order Form execution
+   * Time and Materials
+   * Project miletone 
+   * Billed half up front and half at project completion
+   * Billed at completion
+   
+Passive acceptance of 5 days included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services
+   
+#### Consulting Projects Revenue Forecasting Guidelines
+
+Project revenue release is followed dependant on project billing type:
+   * Billed upon SOW execution biling terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+   * Billed upon Order Form execution biling terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+   * Time and Materials billing terms
+     * Approved time sheet hours reported at each month end 
+   * Project miletone SOW billing terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+   * Billed half up front and half at project completion SOW biling terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+   * Billed at completion biling terms
+     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+
+## Project Coordination- Training
+
+#### Training Projects Billing Guidelines
+
+Training billing is outlined in each customer SOW or Order Form.  The current billing terms that professional services follows is the following:
+   * Billed upon SOW
+   * Order Form execution
+   
+Passive acceptance of 5 days included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services
+
+#### Training Projects Revenue Forecasting Guidelines
+
+Training revenue release is followed dependant on training billing type:
+   * Billed upon SOW 
+     * Once each training class is complete and roster is received
+   * Order Form execution billing terms
+     * Once each training class is complete and roster is received
+
+## Operations  
+
 #### Consulting Time Tracking 
 
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
@@ -41,7 +89,9 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
 
 ****Mavenlink Internal Projects****
 
-- ****PS TimeTracking Creditable****
+Internal projects are set up to track internal time that is not customer project related. Below is the project name along with tasks and examples.
+
+****PS TimeTracking Creditable****
 * SKO (GitLab Sales Kick Off)
 * Contribute (GitLab Employee Conference)
 * Commit (GitLab User Conference)
@@ -84,8 +134,9 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
   * HR Training
   * Customer Project Shadow
 
-****All customer project hours ****
+****Customer consulting projects****
 
+  When working on a customer project all hours worked should be tracked against the project, here are some examples: 
   * Project tasks are aligned with SOW activities and hours tracked against the tasks
   * Internal/ Sales Handoff Calls
   * Internal/ External status meeting
@@ -94,41 +145,12 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
   * Status/ Close out customer calls
   * Customer Travel
 
-#### Consulting Projects Billing Guidelines
-
-Project billing is outlined in each customer SOW.  The current billing terms that professional services follows is the following:
-   * Billed upon SOW execution
-     * Includes Skud offerings
-   * Time and Materials
-   * Project miletone 
-   * Billed half up front and half at project completion
-   * Billed at completion
-   
-
-Passive acceptance of 5 days included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services
-   
-#### Consulting Projects Revenue Forecasting Guidelines
-
-Project revenue release is followed dependant on project billing type:
-   * Billed upon SOW execution biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Time and Materials billing terms
-     * Approved time sheet hours reported at each month end 
-   * Project miletone SOW billing terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Billed half up front and half at project completion SOW biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Billed at completion biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-
-Project revenue release is followed dependant on project billing type:
-
-
-
-## Project Coordination- Training
-Coming Soon, Project Coordination Processes
-
-## Operations  
+****Customer training projects****
+ 
+  When working on a training project all hours worked should be tracked against the project, here are some examples:
+  * Introduction/ Planning/ Preparation/ Close Out
+    * All hours should be tracked against the task for preparation and close out of the training
+  * All class hours are to be tracked against the task that gives the name of the training, example is GitLab Basics TRNG Hours
 
 #### Quarterly time tracking entry and approval workflow
 
@@ -163,7 +185,7 @@ Coming Soon, Project Coordination Processes
   
 #### Constuling Project Health Reports
 
-Health reports should be filled out by the project lead or project manager by Thursday of week each by EOD for the projects that are in the Active project status.
+Health Reports provide a weekly snap shot status to PS Management on the overall project status, and rolled up to executives.  The report includes a Red, Yellow and Green indicator along with a section to update on overall status, schedule, scope, budget, client.  Health reports should be filled out by the project lead or project manager by Thursday of week each by EOD for the projects that are in the Active project status.  
 
 * Overall Project Status:
    * Two to three lines describing the overall project status, includes pro/ cons/ blockers
@@ -176,6 +198,11 @@ Health reports should be filled out by the project lead or project manager by Th
 * Client
    * How is the customer feeling about the project? Happy, Frustrated, engaged, disengaged
    * The project could be status of red for scope, schedule, etc. and the customer is still happy 
+
+#### Mavenlink Reports
+The professional services team uses Mavenlink reports to track project and team metrics
+
+[Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
 
 ### Mavenlink Processes
 Mavenlink is our current PSA, follow the link below to view process steps.
