@@ -656,8 +656,8 @@ Meetings take up valuable time and resources for the company. If a meeting cover
 GitLab recommends this approach during meetings for the following reasons: 
 1. Enables meeting participants to have their questions answered on the topic presented.
 2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it allows team members in different time zones to consume the presentation material on their own time. 
-3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the efficiency of the meeting time to ensure that team members have their voices heard during Q&A. 
-
+3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the efficiency of the meeting time to ensure that team members have their voices heard during the Q&A. 
+4. Standardizes the approach to meetings across the organization. 
 
 ## Indicating Availability
 
