@@ -14,7 +14,7 @@ title: "Compensation Committee"
 ## Compensation Committee Composition
 
 - **Chairperson:** Sue Bostrom
-- **Members:** Bruce Armstrong, Matthew Jacobson
+- **Members:** Merline Saintil, Matthew Jacobson
 - **Management DRI:** Chief People Officer
 
 # Compensation Committee Charter
