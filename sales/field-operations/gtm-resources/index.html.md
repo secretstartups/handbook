@@ -222,7 +222,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
             1. All other non-US government accounts (the accounts that are in countries with 20 million+ population), top to bottom (meaning, no minimum employee count) are Enterprise accounts.
             1. Segmentation is determined at the start of the fiscal year, see: [government segmentation per country ](/handbook/sales/field-operations/gtm-resources/government-segmentation/).
         1. **Franchises or Consultants  - Child Accounts:** Accounts that are categorized as an independent Franchise or Consultant are considered standalone Accounts.  As such, they will not be parented and the corresponding number of employees will not count towards the HQ Total Employee Count.
-1. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change will be reviewed annually as this impacts TAM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters.
+1. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change. Timing on when the account will move will follow the escalation process since there is a potential it could affect  TAM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters.
 1. **Net New Accounts:** Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. Sales Operations has the ability to create new accounts because these accounts must be parented, processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the [Steps to create an issue for an account list import](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-get-help). To request a new account be created that is not from an enrichment tool or a list load please open an issue in the Sales Operations Project. 
 1. **Field Permissions** In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations:   `Account Owner`, `Named Account`, `Strategic Account`, `Locally Managed`, `Holdover Expiration Date`, `Holdover Next Approved Owner` along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
 **Exception Process to Request Account Ownership Change:** _Any request to transfer an account for any reason must follow the outlined exception process and timeline._
@@ -242,20 +242,23 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
  **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
 
 1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Approved accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-1. **Sales Operations Immediate and Quarterly Account and Opportunity Review Process**
-   1. Accounts that can be moved immediately by Sales Operation after step one: 
-       1. Accounts that have the same ASM
-   1. Any requested holdover accounts or opportunities will be marked to expire the following fiscal quarter and can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7). Open opportunities in stages Stages 3 and below will be moved with to the new Global Account rep unless marked as a holdover for one quarter and will be moved the following quarter if it has not closed.
-   1. **Holdover Accounts/Opportunities** 
-        1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field
-        1. Holdover Opportunities stages 3 and below will be moved on the expiration date listed on the opportunity in the `Holdover Expiration Date` field
-        1. Holdover Opportunities stages 4 and above will remain with their current owner and a new expiration date of three months will be added. This must be closed/won within the extended time or it will be moved to the new owner at the end of the holdover period
-   
-   Holdovers that have expired will be moved on the expiration date to the Account Rep listed in the `Holdover Next Owner` field. These can be tracked on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-   1. **Escalations for Immediate Account Moves** must be approved by all parties and sales management as well as the Sales Operations Director and above level.
+1. **Sales Operations Immediate and Quarterly Account Review Process** 
+   1. Accounts that can be moved immediately by Sales Operations: 
+       1. Public Sector accounts owned by non-Public Sector AEs/SALs can be immediately moved to the correct account owner
+       1. EDU/OSS accounts can immediately be moved to the correct acccount owner
+       1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment can have the data corrected and be reassigned immediately
+       1. Newly created accounts with inaccurate data resulting in incorrect account assignment can have the data corrected and be reassigned immediately
+       1. Prospect accounts with no open opportunities
+       1. Accounts owned by SDRs, Sales Administrator or any other non sales role
+   1. Accounts that will be marked for quarterly review and moved at the quarter with approvals: 
+       1. Prospects with open opportunities
+       1. Customer accounts - Sales Operations will not immediatly move accounts due to total CARR value of all requested account moves by a rep per quarter. If a rep requests accounts accumulating in over $50K of CARR to be transferred will require a review of remaining accounts to ensure quota is not affected
+1. **Holdover Accounts** 
+Once consensus has been met by both ASMs to allow a Rep to holdover an account chatter Sales-Support to request the holdover be marked on the account. Accounts are allowed to be heldover one time for a total of 90 days and will be marked with an expiration date in the `Holdover Expiration Date` field. Sales Operations will also put the name of the next approved owner of the account in the `Holdover Next Approved Owner` field. These accounts are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+   1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the next approved owner 
    1. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
 
-1. **Annual Review Process**
+1. **Annual Account  Review Process**
 Accounts will still be reviewed annually prior to the Fiscal Year planning process and territory carving.
 
 <details>
@@ -266,19 +269,24 @@ Accounts will still be reviewed annually prior to the Fiscal Year planning proce
  **Case Review Process**
  1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
  1. Update any of the data on the account if needed to reflect what was provided
- 1. Select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the **Sales Operations Quarterly Account Review Dashboard**
+ 1. Determine if the request meets any of the criteria for an immediate move. If so, move the account to the new owner and close the case.
+ 1. If the account does not meet the criteria for an immediate move, select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the **Sales Operations Quarterly Account Review Dashboard**
  1. Close the case and indicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
 
- **Quarterly Review Process**
+ **Quarterly Account Review Process**
 1. Use the reports on the **Sales Operations Quarterly Account Review Dashboard** to review the requested account moves. 
-   1. Prospect and Customer accounts with `CARR` under $50K can be transferred immediately along with all open Opportunities Stage 3 and below.
+   1. Prospect and Customer accounts with `CARR` under $50K can be transferred immediately.
    1. Prospect and Customer accounts with `CARR` over $50K will need to be evaluated to ensure the move doesn't impact quota.
-   1. Once account and opportunity ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
+   1. Once account ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
 
-**Holdover Account and Opportunity Process**
+**Holdover Account Process**
 1. Review the Account and Opportunity Holdover Expiration reports and move the expired accounts and opportunities to the Account Rep listed in the `Holdover Next Owner`field. 
    1. Ensure the Opportunity is in stage 3 or below before moving. Anything over stage 3 will remain with the current opportunity owner.
 1. Remove the value from the `Holdover Next Owner` after transfer of ownership
+
+**Quarterly Opportunity Review Process
+
+**Holdover Opportunity Process**
 
 **Annual Review Process** 
 1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilzied the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
@@ -294,6 +302,7 @@ Accounts will still be reviewed annually prior to the Fiscal Year planning proce
         1. Those noted in the aforementioned section
         1. Holdover opportunities or accounts
         1. When an ISR or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
+    1. 
 
 
 ### Account Sources, Routing and Other Requirements
