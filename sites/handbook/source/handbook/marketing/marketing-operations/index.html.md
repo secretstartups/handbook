@@ -387,7 +387,7 @@ Invitation emails to attend a live event, meet-up, or in-person training. These 
 
 The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the marketing ops team.
 
-The `Initial Source` table below is current as of 7 July 2020.
+The `Initial Source` table below is current as of 7 July 2020. The last update to the table was added on 17 March 2021.
 
 Status in the table below means:
 
@@ -452,6 +452,7 @@ Status in the table below means:
 | Webcast | virtual event | Register for any online webcast (not incl `Demo`) | Active |
 | Webinar | virtual event |  | Active |
 | Web Direct | web direct | Created when purchase is made direct through the portal (check for duplicates & merge record if found) | Active |
+| Investor | outbound | Sourced by our investors (i.e. - GV, Khosla, ICONIQ). The `Investor` value is coupled with the `Investor Name` custom field | Active |
 
 ## Lead and Contact Statuses
 
