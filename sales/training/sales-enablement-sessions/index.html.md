@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Mar 18 | [Q1 FY22 Channel Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/103)              |    David Forsch             |
 | Mar 25 | [Co-Selling with GCP](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/106)              |   Mayank Tahilramani              |
 | Apr 1  | [Co-Selling with AWS](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/108)              |   Pete Goldberg              |
 | Apr 8  |  [Incident Management](https://gitlab.com/gitlab-org/gitlab/-/issues/290229)             |   Sarah Waldner              |
