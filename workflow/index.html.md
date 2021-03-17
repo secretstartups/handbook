@@ -140,15 +140,6 @@ The merge request author of the change that broke master is the resolution DRI. 
   discovered: create a new issue with the `~"master:needs-investigation"` label
 1. Create an [issue](https://gitlab.com/gitlab-org/quality/team-tasks/issues/new) for the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) describing how the `~"master:broken"` could have been prevented in the Merge Request pipeline.
 
-### Broken `master` mirrors
-
-[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers](https://about.gitlab.com/community/release-managers/) and the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity-team/) to monitor failures for the following projects:
-
-- <https://gitlab.com/gitlab-org/security/gitlab>
-- <https://dev.gitlab.org/gitlab/gitlab-ee>
-
-The `#master-broken-mirrors` channel is to be used to identify unique failures for those projects and flaky failures are not expected to be retried/reacted to in the same way as `#master-broken`.
-
 #### Responsibilities of authors and maintainers
 
 Once the resolution DRI announces that `master` is fixed:
@@ -199,6 +190,15 @@ This reduces the chance of introducing new failures, and also acts to slow
 (but not stop) the rate of change in `master`, helping us to make it green again.
 
 [broken-master-issues]: https://gitlab.com/groups/gitlab-org/-/issues?state=all&label_name[]=master%3Abroken
+
+### Broken `master` mirrors
+
+[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers](https://about.gitlab.com/community/release-managers/) and the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity-team/) to monitor failures for the following projects:
+
+- <https://gitlab.com/gitlab-org/security/gitlab>
+- <https://dev.gitlab.org/gitlab/gitlab-ee>
+
+The `#master-broken-mirrors` channel is to be used to identify unique failures for those projects and flaky failures are not expected to be retried/reacted to in the same way as `#master-broken`.
 
 ## Security Issues
 
