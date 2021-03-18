@@ -207,12 +207,12 @@ This field inherits data from other fields in the following priority:
         1. Non-Sales members who own "test" or "junk" accounts 
     1. Account ownership will be determined by the Sales Segment and Address.  All children accounts in a hierarchy will be owned by the Global Account Owner of the Corporate Hierarchy regardless of physical location unless the child account has been marked as a `Named Account`, `Locally Managed`, `Strategic Account`, `Holdover` or `Holding Company`. 
 1. **Parent/Child Segmentation:** All Accounts in a hierarchy will adopt the MAX Segmentation of any account in the hierarchy. Expanded definitions and examples can be found in the handbook’s [Systems Terminology Definitions](https://about.gitlab.com/handbook/sales/sales-term-glossary/#parent-and-child-accounts).
-1. **Named Account:** Defined as an account that is owned by a Named Account Rep, regardless of corporate headquarters. Named accounts are identified by the `Named Account` Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
+1. **Named Account:** An account that is owned by a Named Account Rep, regardless of corporate headquarters. Named accounts are identified by the `Named Account` Checkbox on the Account. Named Accounts are owned and worked by the designated Strategic Account Leader (SAL) and the paired Sales Development Representative (SDR).
 This pairing owns all records (LEADS and CONTACTS) associated to a Named Account and any related Child accounts within SFDC.
-1. **Locally Managed:** Defined as an account that is owned by a local account rep regardless of the Global Account Leader. Locally managed accounts are identified by the `Locally Managed` check box on the account.
+1. **Locally Managed:** An account that is owned by a local account rep regardless of the Global Account Leader. Locally managed accounts are identified by the `Locally Managed` check box on the account.
    1. **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
-1. **Strategic Accounts:** Defined as an account that is not a Named account or Locally managed but management has decided it should belong to an AE or SAL for strategic business reasons. Accounts that are strategically owned by a non-named SAL or AE will be marked using the `Strategic Account` check box and must have manager approval. Strategic accounts will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
-1. **Holdover Accounts:** Defined as an account that is being held by a Rep that has been promoted or moved to a new territory.  Holdover accounts will be marked using the `Holdover Expiration`  date field and the `Holdover Next Owner` field. An account rep can only have a holdover account or holdover opportunity for one fiscal quarter. Any account that needs to be held over longer than one quarter should be marked as a `Strategic Account` and must have manager approval from both the current manager and the global account rep’s manager.
+1. **Strategic Accounts:** An account that is not a Named account or Locally managed but management has decided it should belong to an AE or SAL for strategic business reasons. Accounts that are strategically owned by a non-named SAL or AE will be marked using the `Strategic Account` check box and must have manager approval. Strategic accounts will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
+1. **Holdover Accounts:** An account that is being held by a Rep that has been promoted or moved to a new territory.  Holdover accounts will be marked using the `Holdover Expiration`  date field and the `Holdover Next Approved Owner` field. An account rep can only have a holdover account for 90 days. Any account that needs to be held over longer should be marked as a `Strategic Account` and must have manager approval from both the current manager and the global account rep’s manager.
 1. **Stand-alone Child Account:** Defined as an account that clearly has their own buying authority and purchasing process.
     1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
     1. **Government Holding Entity - Child Accounts:**
@@ -241,29 +241,43 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
 
  **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
 
-1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will be marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Approved accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. The reason some accounts cannot immediatley be moved is determined by account type and if the account has CARR. Additional details listed below. Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 1. **Sales Operations Immediate and Quarterly Account Review Process** 
    1. Accounts that can be moved immediately by Sales Operations: 
-       1. Public Sector accounts owned by non-Public Sector AEs/SALs can be immediately moved to the correct account owner
-       1. EDU/OSS accounts can immediately be moved to the correct acccount owner
-       1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment can have the data corrected and be reassigned immediately
-       1. Newly created accounts with inaccurate data resulting in incorrect account assignment can have the data corrected and be reassigned immediately
+       1. Public Sector accounts owned by non-Public Sector AEs/SALs 
+       1. Non-Public Sector accounts owned by Public Sector SALs
+       1. EDU/OSS accounts 
+       1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
+       1. Newly created accounts with inaccurate data resulting in incorrect account assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
        1. Prospect accounts with no open opportunities
        1. Accounts owned by SDRs, Sales Administrator or any other non sales role
    1. Accounts that will be marked for quarterly review and moved at the quarter with approvals: 
        1. Prospects with open opportunities
        1. Customer accounts - Sales Operations will not immediatly move accounts due to total CARR value of all requested account moves by a rep per quarter. If a rep requests accounts accumulating in over $50K of CARR to be transferred will require a review of remaining accounts to ensure quota is not affected
 1. **Holdover Accounts** 
-Once consensus has been met by both ASMs to allow a Rep to holdover an account chatter Sales-Support to request the holdover be marked on the account. Accounts are allowed to be heldover one time for a total of 90 days and will be marked with an expiration date in the `Holdover Expiration Date` field. Sales Operations will also put the name of the next approved owner of the account in the `Holdover Next Approved Owner` field. These accounts are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-   1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the next approved owner 
+Requested holdover accounts will have the expriation date and next approved owner populated 90 days from date of approval from all parties.These accounts are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+   1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the `Holdover Next Approved Owner` 
    1. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
 
 1. **Annual Account  Review Process**
-Accounts will still be reviewed annually prior to the Fiscal Year planning process and territory carving.
+Accounts will be reviewed annually prior to the Fiscal Year planning process and territory carving.
+
+### Opportunity Ownership Rules of Engagement 
+1. **Opportunity Ownership:** 
+    1. Only active Field Sales (AE/SAL) members can own opportunities. The exceptions to this rule include:
+        1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
+        1. **Reseller opportunities**: which can be owned by the AE/SAL or channel manager
+    1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
+        1. Those noted in the aforementioned section
+        1. Holdover opportunities or accounts
+        1. When an ISR or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
+1.  **Sales Operations Opportuntity Review Process**
+1. **Holdover Opportunities**
+
 
 <details>
 <summary markdown='span'>
-  Sales Ops Operators Guide for Account Review and Moves
+  Sales Ops Operators Guide for Account and Opportunity Review and Moves
 </summary>
  
  **Case Review Process**
@@ -280,9 +294,9 @@ Accounts will still be reviewed annually prior to the Fiscal Year planning proce
    1. Once account ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
 
 **Holdover Account Process**
-1. Review the Account and Opportunity Holdover Expiration reports and move the expired accounts and opportunities to the Account Rep listed in the `Holdover Next Owner`field. 
-   1. Ensure the Opportunity is in stage 3 or below before moving. Anything over stage 3 will remain with the current opportunity owner.
+1. Review the Account Holdover Expiration reports and move the expired accounts to the Account Rep listed in the `Holdover Next Owner`field. 
 1. Remove the value from the `Holdover Next Owner` after transfer of ownership
+1. Accounts are not eligible for a second holdover request. If this request is made the ASMs must agree
 
 **Quarterly Opportunity Review Process
 
@@ -293,15 +307,7 @@ Accounts will still be reviewed annually prior to the Fiscal Year planning proce
 
  </details>
 
-### Opportunity Ownership Rules of Engagement 
-1. **Opportunity Ownership:** 
-    1. Only active Field Sales (AE/SAL) members can own opportunities. The exceptions to this rule include:
-        1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
-        1. **Reseller opportunities**: which can be owned by the AE/SAL or channel manager
-    1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
-        1. Those noted in the aforementioned section
-        1. Holdover opportunities or accounts
-        1. When an ISR or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
+
 
 
 ### Account Sources, Routing and Other Requirements
