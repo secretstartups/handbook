@@ -25,7 +25,7 @@ Managers will participate in a series of quarterly training & reinforcement exer
 - **Q3FY22** (Dates TBD): Field Manager Summit (in-person at Contribute)
 
 ## Topics
-This program will address multiple learning objectives supporting the following categories:
+This program will leverage content from the [GitLab Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) and address multiple learning objectives supporting the following categories:
 1. Recruiting Top Talent
 1. What is a High Performing Team?
 1. Organizational / Team Health
