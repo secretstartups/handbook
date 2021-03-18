@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Lindsay Kerrs's README"
+title: "Lindsay Kerr's README"
 job: "Frontend Engineering Manager, Threat Management"
 ---
 
