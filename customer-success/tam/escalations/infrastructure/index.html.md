@@ -22,7 +22,7 @@ For any incident declared as `~severity::1`/`~severity::2`, an [incident review]
  is required. Incident reviews are authored asynchronously in the incident issue,
  and their workflow is tracked on the [Production Incidents Board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?label_name[]=incident).
  For full detail of the incident review process, please reference Infrastructure's 
- [incident review process](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/).
+ [incident review process](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/).  TAMs can self-serve updates on SaaS incidents by reviewing the SaaS weekly meeting, the agenda for which, and additional steps for TAMs when a topic is not listed, can be found in the [infrastructure handbook section found here](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/#review-of-root-causes-and-corrective-actions).
 
 Customer Success will seek to use the incident issue as the single source of truth (SSOT)
  and encourage TAMs and their customers to reference the issue for updates. This aims
@@ -36,13 +36,15 @@ Immediately following the resolution of an incident, asynchronous work to author
  the Incident Review should be complete, and the IMOC is responsible for labelling
  it appropriately and adding it to the agenda for Infrastructure's
  [Synchronous Review Meeting](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/#synchronous-review-meeting-sessions)
- held weekly on Tuesdays, and published in the GitLab Team Meetings calendar.
+ held weekly on Tuesdays, and published in the GitLab Team Meetings calendar.  
 
 For S1/S2 incidents where a TAM has reason to believe their customer has been impacted,
- it is highly recommended that the TAM reach out proactively to better understand
+ it is highly recommended that the TAM reach out proactively to their customer(s)to better understand
  if and how the customer has impacted and to determine next steps. For most customers, 
  proactive TAM communication, in addition to the platform notifications and incident
  issue updates, will be sufficient. 
+
+
 
 ### Incidents Impacting All Customers
 
