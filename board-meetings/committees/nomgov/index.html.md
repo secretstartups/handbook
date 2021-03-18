@@ -19,15 +19,20 @@ title: "Nominating and Corporate Governance Committee"
 
 ## Nominating and Corporate Governance Committee Charter
 
-1. Purpose The purpose of the Nominating and Corporate Governance Committee (the “Committee”) of the Board of Directors (the “Board”) of GITLAB, INC. (the “Company”) is to ensure that the Board is properly constituted to meet its fiduciary obligations to stockholders and the Company, and to assist the Board with respect to corporate governance matters, including:
-    - identifying, considering and nominating candidates for membership on the Board; and
-    - advising the Board on corporate governance matters and Board performance matters, including recommendations regarding the structure and composition of the Board and Board committees.
-    This charter (the “Charter”) sets forth the authority and responsibilities of the Committee in fulfilling its purpose.
-1. Structure and Membership The Committee will consist of two or more members of the Board, with the exact number determined from time to time by the Board. Each member of the Committee will:
-    - be free from any relationship that, in the opinion of the Board, would interfere with the exercise of independent judgment as a Committee member; and
-    - meet any other requirements imposed by applicable law, regulations or rules, subject to any applicable exemptions.  All members of the Committee will be appointed by,
-      and will serve at the discretion of, the Board. The Board may appoint a member of the Committee to serve as the chairperson of the Committee (the “Chair”).  If the Board does not appoint a Chair,
-      the Committee members may designate a Chair by their majority vote.  The Chair will work with management to set the agenda for Committee meetings and conduct the proceedings of those meetings.
+**THIS CHARTER WAS APPROVED BY THE BOARD ON 2021-03-18**
+
+1. **Purpose**: The purpose of the Nominating and Corporate Governance Committee (the “**Committee**”) of the Board of Directors (the “**Board**”) of GitLab, Inc. (the “**Company**”) is to ensure that the Board is properly constituted to meet its fiduciary obligations to stockholders and the Company, and to assist the Board with respect to corporate governance matters, including:
+    - identifying, considering and recommending candidates for membership on the Board;
+    - developing and recommending corporate governance guidelines and policies for the Company; 
+    - advising the Board on corporate governance matters and Board performance matters, including recommendations regarding the structure and composition of the Board and Board committees; and
+    - assisting the Board in overseeing any Company program relating to corporate responsibility and sustainability [^1]. 
+    This charter (the “**Charter**”) sets forth the authority and responsibilities of the Committee in fulfilling its purpose.
+1. **Structure and Membership**: The Committee will consist of three or more members of the Board, with the exact number determined from time to time by the Board. All members of the Committee will be appointed by the Board and will serve at the Board’s discretion. Members of the Committee may be replaced or removed by the Board at any time, with or without cause. Resignation or removal of a director from the Board, for whatever reason, will automatically constitute resignation or removal, as applicable, from the Committee. 
+    - Qualifications: Members of the Committee must meet the following criteria as well as any additional criteria required by applicable law, or such other qualifications as are established by the Board from time to time: 
+    - Each member of the Committee will:
+         - be free from any relationship that, in the opinion of the Board, would interfere with the exercise of independent judgment as a Committee member; and
+         - meet any other requirements imposed by applicable law, regulations or rules, subject to any applicable exemptions.  
+    - The Board may appoint a member of the Committee to serve as the chairperson of the Committee (the “**Chair**”). If the Board does not appoint a Chair, the Committee members may designate a Chair by their majority vote.  The Chair will work with management to set the agenda for Committee meetings and conduct the proceedings of those meetings.
 1. Authority and Responsibilities The principal responsibilities and duties of the Committee in serving the purposes outlined in Section I of this Charter are set forth below.
 These duties are set forth as a guide, with the understanding that the Committee will carry them out in a manner that is appropriate given the Company’s needs and circumstances.
 The Committee may supplement them as appropriate and may establish policies and procedures from time to time that it deems necessary or advisable in fulfilling its responsibilities.
@@ -53,3 +58,6 @@ The responsibilities and authority of the Committee will include:
     The Committee will maintain written minutes of its meetings and copies of its actions by written consent, and will make such minutes and copies of written consents available to the other members of the Board and cause them to be filed with the minutes of the meetings of the Board.  The Chair will report to the Board from time to time with respect to the activities of the Committee, including on significant matters related to the Committee’s responsibilities and the Committee’s deliberations and actions.
 1. Delegation of Authority The Committee may from time to time, as it deems appropriate and to the extent permitted under applicable law, and the Company’s Certificate of Incorporation and Bylaws, form and delegate authority to subcommittees.
 1. Compensation Members of the Committee will receive such fees, if any, for their service as Committee members as may be determined by the Board, which may include additional compensation for the Chair.
+
+## Footnotes
+1. Many technology companies are starting to include corporate responsibility in their charters as a result of increased focus on this by a variety of stakeholders, including employees, proxy advisory firms and institutional stockholders.
