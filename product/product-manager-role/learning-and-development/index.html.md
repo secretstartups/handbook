@@ -37,7 +37,28 @@ These books are highly recommended to be read by every product manager at GitLab
 
 ##### Quick reads and videos
 
+- [Paul Adams: Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
+
+##### Deeper dive
+
+- [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
+
+##### Online courses 
+
 Please contribute your favorite resources here
+
+##### Books
+
+- [Steve Krug: Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)
+- [Kevin Simler & Robin Hanson: The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)
+- [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+
+
+#### Customer Interviewing
+
+##### Quick reads and videos
+
+- ['Get in the Van' and Other Tips for Getting Meaningful Customer Feedback](https://review.firstround.com/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product)
 
 ##### Deeper dive
 
@@ -52,16 +73,19 @@ Please contribute your favorite resources here
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
 - [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
 
+
 #### Jobs to be done 
 
 ##### Quick reads and videos
 
 - [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (video 5 min)
+- [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
 ##### Deeper dive
 
 - [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (video 57 min)
 - [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (video 57 min)
+- [Xavier Russo - A step-by-step guide to using Outcome Driven Innovataion](https://medium.com/envato/a-step-by-step-guide-to-using-outcome-driven-innovation-odi-for-a-new-product-ded320f49acb)
 
 ##### Online courses 
 
@@ -70,12 +94,13 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
+- [Intercom on Jobs-to-be-Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done) (free ebook download)
 
 #### Lean product development
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+- [How to Build a Minimum Loveable Product](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c#.56uv0dydd)
 
 ##### Deeper dive
 
@@ -89,12 +114,11 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### Experimentation and growth hacking 
+#### Growth and experimentation 
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
-
+[Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
 ##### Deeper dive
 
 Please contribute your favorite resources here
@@ -106,6 +130,26 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
+- [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
+
+#### Design 
+
+##### Quick reads and videos
+
+- [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+- [Don Norman: The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+- [Steve Krug: Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 
 ### Delivery
 
@@ -132,6 +176,8 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [Brandon Chu: Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
+- [Sean McBride: RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
+- [Ash Maurya: Love the Problem, Not Your Solution](https://blog.leanstack.com/love-the-problem-not-your-solution/)
 
 ##### Deeper dive
 
@@ -145,6 +191,24 @@ Please contribute your favorite resources here
 
 - [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
+#### Working with Engineering 
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
+
+##### Deeper dive
+
+Please contribute your favorite resources here
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+Please contribute your favorite resources here
+
 ### Business Acumen
 
 #### Product strategy
@@ -152,6 +216,8 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [Marty Cagan: Vision Vs. Strategy](https://svpg.com/vision-vs-strategy/)
+- [Des Traynor: Product strategy means saying no](https://www.intercom.com/blog/product-strategy-means-saying-no/)
+- [Ken Norton's Discipline of No](https://mixpanel.com/blog/learning-to-say-no-with-ken-norton/)
 
 ##### Deeper dive
 
@@ -188,6 +254,28 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video 5 min)
+- [David Skok: SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/)
+
+##### Deeper dive
+
+- [Financial Modeling for Product Managers](https://tpgblog.com/2015/05/04/product-financial-modeling/) (video 60 min)
+
+##### Online courses 
+
+Please contribute your favorite resources here
+
+##### Books
+
+- [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
+- [Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intagibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)
+
+### Communication
+
+#### Relationships with customers
+
+##### Quick reads and videos
+
+Please contribute your favorite resources here
 
 ##### Deeper dive
 
@@ -199,9 +287,7 @@ Please contribute your favorite resources here
 
 ##### Books
 
-- [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
-
-### Communication
+Please contribute your favorite resources here
 
 #### Writing to inspire, align and activate 
 
@@ -239,24 +325,6 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### Remote team collaboration 
-
-##### Quick reads and videos
-
-Please contribute your favorite resources here
-
-##### Deeper dive
-
-Please contribute your favorite resources here
-
-##### Online courses 
-
-Please contribute your favorite resources here
-
-##### Books
-
-Please contribute your favorite resources here
-
 ### Team Management
 
 #### Stakeholder management
@@ -271,7 +339,7 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+* [Managing Project Stakeholders](https://www.linkedin.com/learning/managing-project-stakeholders-2?u=2255073) (LinkedIn Learning course)
 
 ##### Books
 
@@ -313,6 +381,8 @@ Please contribute your favorite resources here
 
 - [Kim Scott: Radical Candor](https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE)
 - [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
+- [Julie Zhuo: The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/)
+- [First Round Essentials: Management](https://books.firstround.com/management/) (free ebook download)
 
 #### Leadership and influence
 
@@ -340,23 +410,29 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 
 #### Blogs
 
-- https://svpg.com/articles/
-- https://www.intercom.com/blog/product-and-design/
-- https://producthabits.com/blog/
-- https://www.mindtheproduct.com/
+- [https://svpg.com/articles/](https://svpg.com/articles/)
+- [https://www.intercom.com/blog/product-and-design/](https://www.intercom.com/blog/product-and-design/)
+- [https://producthabits.com/blog/](https://producthabits.com/blog/)
+- [https://www.mindtheproduct.com/](https://www.mindtheproduct.com/)
 
 #### Podcasts
 
-- https://www.mindtheproduct.com/the-product-experience/
+- [Mind the Product](https://www.mindtheproduct.com/the-product-experience/)
+- [Masters of Scale](https://open.spotify.com/show/1bJRgaFZHuzifad4IAApFR)  
+- [Dollars to Donuts](https://open.spotify.com/show/26yTpSSgqzR58wdlFTEvis?si=FU8B_7sxQluT78PepGecGA&nd=1)  
+- [Presentable](https://open.spotify.com/show/2HMGa6BesR174n8NP28VEu?si=5tSm84pmTvKhOD4313Ir8Q&nd=1)  
 
 #### Newsletters
 
-- https://www.mindtheproduct.com/product-management-newsletter/
+- [Mind the Product Newsletter](https://www.mindtheproduct.com/product-management-newsletter/)
 
 #### Other
 
 - [Mind the Product Slack channel](https://www.mindtheproduct.com/product-management-slack-community/)
 - [GitLab team member Viktor Nagy on Twitter](https://twitter.com/nagyviktor)
+- [Product League](https://productleague.com/)
+- [Product School](https://www.youtube.com/channel/UC6hlQ0x6kPbAGjYkoz53cvA/featured) (YouTube Channel)
+- [Women In Product](https://www.youtube.com/channel/UC6z_ibVMdKbKFfgb3mxwx9g/videos?view=0&sort=p) (YouTube Channel)
 
 
 ### Thought leaders and influencers

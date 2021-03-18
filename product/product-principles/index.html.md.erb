@@ -13,7 +13,7 @@ title: Product Principles
 ## Our Product Principles
 
 The direction for the GitLab product is spelled out on the
-[Direction page](/direction). This document provides lessons and heuristics on
+[Direction page](/direction/). This document provides lessons and heuristics on
 how to design changes and new features. Our iterative process is demonstrated in
 a [blog post](/blog/2017/01/04/behind-the-scenes-how-we-built-review-apps/).
 
@@ -31,7 +31,7 @@ These are core principles we believe strongly in. The goal is to build a PM syst
   - Helpful resources: [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/ref=sr_1_3?keywords=marty+cagan&qid=1558392207&s=gateway&sr=8-3). [Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612/ref=sr_1_3?keywords=competing+against+luck&qid=1558392608&s=gateway&sr=8-3). [Get in the Van](https://firstround.com/review/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product/).
 1. **Start with the problem, not the solution.** It is tempting to dive right into solutioning, but we are often wrong about the underlying problem. A well formed problem statement is the key to a successful project.
   - Helpful resources: [Love the Problem Not Your Solution](https://blog.leanstack.com/love-the-problem-not-your-solution-65cfbfb1916b). [Great PM’s Don’t Spend Their Time on Solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/).
-1. **Prioritize ruthlessly.** It is better to do a few things well than many things poorly. We should focus first on what we’re best at and what our customers need most, with a preference for simplicity. Customers will tell us when we’re missing something they need, but they’re unlikely to tell us when we’re overwhelming them with unwanted features.
+1. **Prioritize relentlessly.** It is better to do a few things well than many things poorly. We should focus first on what we’re best at and what our customers need most, with a preference for simplicity. Customers will tell us when we’re missing something they need, but they’re unlikely to tell us when we’re overwhelming them with unwanted features.
   - Helpful resources: [Essentialism](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/ref=sr_1_3?keywords=essentialism&qid=1558392393&s=gateway&sr=8-3). [RICE](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/).
 1. **Assume you are wrong.** Human intuition is often wrong. To fight this, have a hypothesis and try to invalidate it quickly.
   - Helpful resource: [Thinking, Fast & Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_3?crid=CT91NU8162ED&keywords=thinking%2C+fast+and+slow&qid=1558392435&s=gateway&sprefix=thinking%2C+fas%2Caps%2C169&sr=8-3)
@@ -646,7 +646,7 @@ With this in mind, below are some product guidelines to consider:
 - **Low level of shame still applies here**
     - When we start to integrate with another product, it's almost like opening a whole new Category of work. With this in mind, a friendly reminder that [low level of shame](/handbook/values/#low-level-of-shame) applies, just like it would anywhere else. The integration may not be very valuable _today_, but it's just a starting place, and we should use our first iteration to validate what belongs in the next one.
 - **Track the maturity of the integration**
-    - Like any other category of work, we should track the maturity of the integration somewhere that's visible. Consider adding your integration to the [Ecosystem Integrations direction page](/direction/ecosystem/integrations), which contains a table that tracks our high-priority integrations and their maturity levels.
+    - Like any other category of work, we should track the maturity of the integration somewhere that's visible. Consider adding your integration to the [Ecosystem Integrations direction page](/direction/ecosystem/integrations/), which contains a table that tracks our high-priority integrations and their maturity levels.
 - **Respect security and permissions**
     - External applications may have security and permissions concerns that we don't have in our application. We should take careful consideration of these, since ignoring them could be potentially disastrous for our users. For example, if we ask a user for an administrative token with full access and then display content in our UI based on those privileges, we could potentially display sensitive data that shouldn't leave that application.
 - **Navigation**

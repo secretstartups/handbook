@@ -65,15 +65,15 @@ No consensus whatsoever, but some highlights:
 We now have a separate vision page for each stage in the DevOps lifecycle.
 You can find them as `/direction/[name of stage]`:
 
-- [/direction/manage](/direction/manage)
-- [/direction/plan](/direction/plan)
-- [/direction/create](/direction/create)
-- [/direction/verify](/direction/verify)
-- [/direction/package](/direction/package)
-- [/direction/release](/direction/release)
-- [/direction/configure](/direction/configure)
-- [/direction/monitor](/direction/monitor)
-- [/direction/secure](/direction/secure)
+- [/direction/manage](/direction/manage/)
+- [/direction/plan](/direction/plan/)
+- [/direction/create](/direction/create/)
+- [/direction/verify](/direction/verify/)
+- [/direction/package](/direction/package/)
+- [/direction/release](/direction/release/)
+- [/direction/configure](/direction/configure/)
+- [/direction/monitor](/direction/monitor/)
+- [/direction/secure](/direction/secure/)
 
 We will take the time to regularly present these in sales meetings,
 and other occasions that can be easily shared.
