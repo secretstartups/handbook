@@ -36,17 +36,17 @@ Passive acceptance of 5 days included in the SOW unless different terms are nego
 
 Project revenue release is followed dependant on project billing type:
    * Billed upon SOW execution biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+     * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
    * Billed upon Order Form execution biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+     * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
    * Time and Materials billing terms
      * Approved time sheet hours reported at each month end 
    * Project miletone SOW billing terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+     * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
    * Billed half up front and half at project completion SOW biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+     * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
    * Billed at completion biling terms
-     * SOW is be set up with milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+     * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
 
 ## Project Coordination- Training
 
@@ -152,6 +152,18 @@ Internal projects are set up to track internal time that is not customer project
     * All hours should be tracked against the task for preparation and close out of the training
   * All class hours are to be tracked against the task that gives the name of the training, example is GitLab Basics TRNG Hours
 
+#### Project Expenses
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for in the month which incurred. 
+1. Purchase incurred or travel booked
+1. PSE/PM submit expense report through Expensify with PSE Project Tag and COGS as the category
+1. PS Manager approves expense report in Expensify
+1. PS Manager selects PS Operations as the next approver for the customer expense report
+1. PS Operations then reviews the expense report and sends to Finance approval and processing
+1. PS Operations then reviews the customer expense report with the assigned Project Manager
+1. PS Operations then adds the expense report to the customer project and submits the billing over to Finance if the expense is billable 
+
+The GitLab Billing Manager will pull an expense report after each month end to be sure no expenses were missed during the submission and approval process.
+
 #### Quarterly time tracking entry and approval workflow
 
 * All hours are submitted and approved in Mavenlink on a weekly basis
@@ -194,8 +206,8 @@ Health Reports provide a weekly snap shot status to PS Management on the overall
 * Project Scope:
    * Is the project tracking to the original scope, as per the SOW? Y/N and if no, why?
 * Project Budget:
-   * Is the project tracking to the origninal budget, as per the SOW? Y/N and if no, why?
-* Client
+   * Is the project tracking to the original budget, as per the SOW? Y/N and if no, why?
+* Client:
    * How is the customer feeling about the project? Happy, Frustrated, engaged, disengaged
    * The project could be status of red for scope, schedule, etc. and the customer is still happy 
 
