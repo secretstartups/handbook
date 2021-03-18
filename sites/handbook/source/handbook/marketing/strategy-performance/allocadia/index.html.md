@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Allocadia
+description: Allocadia is Marketing Performance Management Software.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -104,9 +110,13 @@ The reports are broken out in folder format and once you click into the folders,
 
 ## Integrations
 
-### GitLab issues
+### GitLab Procurement issues
 
-We are adding a button so that you can create a procurement issue directly from Allocadia for a given line item. You will not be creating from category or subcategory lines as we need the expense to match the Vendor and the issue approvals.
+You have the ability to create a GitLab procurement issue directly from Allocadia for a given line item. You will not be creating from category or subcategory lines as we need the expense to match the Vendor and the issue approvals.
+
+[Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts.
+
+You may also create a procurement issue for software & that video will be forthcoming.
 
 ### SFDC
 
