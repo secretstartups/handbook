@@ -280,11 +280,11 @@ Code Unit:
 * [ForceManagement.page](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/pages/ForceManagement.page)
 
 
-## Linear Weighted iACV
+## Linear Weighted Net ARR
 
 **Business Process this supports:** [Linear Attribution](/handbook/marketing/marketing-operations/bizible/#linear-attribution)
 
-**Overview:** Linear Weighted iACV is a measure at Gitlab that is used to measure the effectiveness of our marketing campaigns. Please refer to the excellent [Linear Attribution](/handbook/marketing/marketing-operations/bizible/#linear-attribution) section in our handbook for additional details. 
+**Overview:** Linear Weighted Net ARR is a measure at Gitlab that is used to measure the effectiveness of our marketing campaigns. Please refer to the excellent [Linear Attribution](/handbook/marketing/marketing-operations/bizible/#linear-attribution) section in our handbook for additional details. In summary the Linear Weighted Net ARR is calculated by taking the Net ARR of an Opportunity and dividing it by the Number of associated Bizibile Touchpoints related to the Opportunity. 
 
 **Logic Locations:** [OpportunityJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityJob.cls)
 Code Unit: 
