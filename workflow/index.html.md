@@ -124,7 +124,7 @@ The merge request author of the change that broke master is the resolution DRI. 
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
    * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue. To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow up.
      * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
-1. Apply the `~"Pick into auto-deploy"` label to make sure deployments are unblocked. 
+1. Apply the `~"Pick into auto-deploy"` label to make sure deployments are unblocked.
 1. If the broken `master` affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
    open new merge requests **directly against the stable branches** which are
    broken and ping the current release manager in the merge requests to avoid
@@ -190,6 +190,15 @@ This reduces the chance of introducing new failures, and also acts to slow
 (but not stop) the rate of change in `master`, helping us to make it green again.
 
 [broken-master-issues]: https://gitlab.com/groups/gitlab-org/-/issues?state=all&label_name[]=master%3Abroken
+
+### Broken `master` mirrors
+
+[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers](https://about.gitlab.com/community/release-managers/) and the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity-team/) to monitor failures for the following projects:
+
+- <https://gitlab.com/gitlab-org/security/gitlab>
+- <https://dev.gitlab.org/gitlab/gitlab-ee>
+
+The `#master-broken-mirrors` channel is to be used to identify unique failures for those projects and flaky failures are not expected to be retried/reacted to in the same way as `#master-broken`.
 
 ## Security Issues
 
@@ -585,13 +594,13 @@ UI polish issues are visual improvements to the existing user interface, touchin
 
 - **Aesthetic improvements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/290262)): removing unnecessary borders from a UI, updating the background color of an element, fixing the font size of a heading element.
 - **Misalignment of text, buttons, etc** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/280538)): although because many times something isn't broken, these improvements are considered UI polish. These could also be considered a bug.
-- **Incorrect spacing between UI elements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/7905)): when two interface elements are using inconsistent spacing values, such as 10px instead of 8px. It could also be considered technical debt. Note that if two interface elements have zero space between them, its an obvious bug. 
+- **Incorrect spacing between UI elements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/7905)): when two interface elements are using inconsistent spacing values, such as 10px instead of 8px. It could also be considered technical debt. Note that if two interface elements have zero space between them, its an obvious bug.
 - **Visual inconsistencies across different product areas** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/296948)): visual inconsistencies could occur when we have have a series of buttons on a particular view. For example, when 3/4 of them have been migrated to use the Pajamas component, and 1/4 of them are still using a deprecated button, resulting in a visual inconsistency. This is considered a UI polish.
 
-### What is not UI polish 
+### What is not UI polish
 
 - **Functional inconsistency related to the experience**: for example, using a manual action to add an assignee automatically shows the assignee in the sidebar but using a manual action to add a weight to an issue does not automatically show the weight in the sidebar. This is not currently considered UI polish. It would be considered a UX issue.
-- **Improving visibility of system status**: status indicator improvements are experience improvements and are not classified as UI polish. 
+- **Improving visibility of system status**: status indicator improvements are experience improvements and are not classified as UI polish.
   - Even when updating something that is purely visual, such as a status icon, to improve the meaning the user has of what they are viewing, we are trying to improve the experience of that user.
 
 ## Monitor Merge Request Trends
