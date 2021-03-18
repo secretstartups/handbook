@@ -53,7 +53,7 @@ i.e. Record is put into `Registered` cannot be moved backwards to `Waitlisted`
 
 #### Conference
 
-Any large event run by Corporate Marketing that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit).
+Any event  that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit). This also includes any virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement. In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
 
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event.
 
@@ -63,10 +63,12 @@ Any large event run by Corporate Marketing that we have paid to sponsor, have a 
 | Sales Invited | Invitation/Information about event sent by Sales/SDR |  |
 | Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
 | Marketing Invited | Marketing geo-targeted email |  |
+| Waitlisted| Holding state if registration is full will be moved to Registered if space opens| |
 | Registered | Registered for event||
 | Meeting Requested | Meeting set to occur at conference |  |
 | Meeting No Show | Scheduled meeting at conference was cancelled or not attended |  |
 | Meeting Attended | Scheduled meeting at conference was attended | Yes |
+| Attended| Attended the event| |
 | Visited Booth | Stopped by booth for any reason | Yes |
 | Follow Up Requested | Requested to be followed up with by sales post event | Yes |
 
@@ -284,27 +286,6 @@ Used for campaigns where a third party vendor is organizing one-to-one meetings 
 | No Show | Registered, but did not attend the event |  |
 | Attended | Attended the Event | Yes |
 | Follow Up Requested | Had conversation with speaker or requested additional details to be sent post event | Yes |
-
-#### Virtual Sponsorship
-
-Synonomous with a `Sponsored Virtual Conference`. A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
-
-**Bizible:** This is tracked as an _offline_ Bizible channel.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Sales Invited | Invitation/Information about event sent by Sales/SDR |  |
-| Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
-| Marketing Invited | Marketing targeted email |  |
-| Waitlisted | Holding state if registration is full will be moved to `Registered` if space opens |  |
-| Registered | Registered for event |  |
-| Meeting Requested | Meeting set to occur at event |  |
-| No Show | Registered but did not attend event |  |
-| Attended | Attended event | Yes |
-| Visited Booth | Stopped by booth for any reason | Yes |
-| Follow Up Requested | Requested to be followed up with by sales post event | Yes |
-| Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
 
 #### Webcast
 
