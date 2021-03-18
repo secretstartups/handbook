@@ -59,7 +59,7 @@ A project's size can be reduced by:
 1. Cutting down the repository size (if that's what's large) via a cleanup first using [git filter-branch](https://docs.gitlab.com/ee/user/project/repository/reducing_the_repo_size_using_git.html#using-git-filter-branch) and running `git gc` and `housekeeping` afterward.
 1. Cutting down what's exported by editing the `import_export.yml` file on the self-managed instance. For more context see [this comment](https://gitlab.com/gitlab-org/gitlab/-/issues/24806#note_215512112).
 
-These are also noted in the `GitLab.com::Import::Determine_Eligibility.json` macro.
+These are also noted in the [`Support::SaaS::Import::Determine Eligibility`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043802800) macro.
 
 >**NOTE:** Once [196875](https://gitlab.com/gitlab-org/gitlab/issues/196875) is implemented, imports should be able to be restarted, which should get around this case.
 
@@ -105,7 +105,7 @@ If no error is found and the import is partial, most likely it is a timeout issu
 - **Repository shows 0 commits**.
   - See [15348](https://gitlab.com/gitlab-org/gitlab/issues/15348).
 
-Use the `GitLab.com::Import::Determine_Eligibility.json` Zendesk macro to make the requestor aware of all of these requirements and get additional details from them. If the requestor's case is approved based on their followup reply, move on to [Stage 2: Offering Import & Preparation](#stage-2-offering-import--preparation).
+Use the [`Support::SaaS::Import::Determine Eligibility`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043802800) Zendesk macro to make the requestor aware of all of these requirements and get additional details from them. If the requestor's case is approved based on their followup reply, move on to [Stage 2: Offering Import & Preparation](#stage-2-offering-import--preparation).
 
 ## Stage 2: Offering Import & Preparation
 
@@ -117,7 +117,7 @@ When customers request a specific time period for the imports to be done, they s
 
 ### Users Mapped
 
-If the customer requires that all issues, merge requests, and commits be mapped to the appropriate users in their organization, use the `GitLab.com::Import::Offer Import (Users Mapped)` Zendesk macro and then follow the next sections in sequence.
+If the customer requires that all issues, merge requests, and commits be mapped to the appropriate users in their organization, use the [`Support::SaaS::Import::Offer Import (Users Mapped)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607339) Zendesk macro and then follow the next sections in sequence.
 
 #### 1. Create Admin Account Access Request
 
@@ -152,17 +152,17 @@ The customer should send you a copy of the project export ahead of their chosen 
 
 **If issues within the list are found:**
 
-3. Reply to the requestor with the `GitLab.com::Import::Verify User List (Problem Found)` Zendesk macro, which will ask them to resolve the issues we found and send us a new project export once that's done. Once they have, repeat the [2. Verify User List](#2-verify-user-list) section.
+3. Reply to the requestor with the [`Support::SaaS::Import::Verify User List (Problem Found)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607299) Zendesk macro, which will ask them to resolve the issues we found and send us a new project export once that's done. Once they have, repeat the [2. Verify User List](#2-verify-user-list) section.
 
 **If no issues within the list are found:**
 
-3. Send the resulting list of users not in GitLab.com to the customer to confirm using the `GitLab.com::Import::Verify User List (Looks Good)` Zendesk macro and await their reply. Once they reply and confirm that all email addresses that were found only in the export file are from employees no longer with the company, this section is complete.
+3. Send the resulting list of users not in GitLab.com to the customer to confirm using the [`Support::SaaS::Import::Verify User List (Looks Good)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607239) Zendesk macro and await their reply. Once they reply and confirm that all email addresses that were found only in the export file are from employees no longer with the company, this section is complete.
 
 >**NOTE:** For these users, items will be mapped to the admin account, then the [ghost user](https://docs.gitlab.com/ee/user/profile/account/delete_account.html#associated-records) once the admin account is deleted.
 
 ### Users Not Mapped
 
-If the customer does not mention that they need project contributions (issues, MRs, etc.) mapped to their users, then we'll be importing their project(s) as a user of their choosing. Use the `GitLab.com::Import::Offer Import (Users Not Mapped)` Zendesk macro and then perform the steps in the following section:
+If the customer does not mention that they need project contributions (issues, MRs, etc.) mapped to their users, then we'll be importing their project(s) as a user of their choosing. Use the [`Support::SaaS::Import::Offer Import (Users Not Mapped)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607259) Zendesk macro and then perform the steps in the following section:
 
 #### 1. Verify User Permissions
 
@@ -171,7 +171,7 @@ The customer should have replied stating which GitLab.com account they'd like th
 1. They have **Owner** permissions in the namespace that the project will be imported into.
 1. That user is [Allowed to Create Projects](https://docs.gitlab.com/ee/user/group/#default-project-creation-level) in the namespace that the project will be imported into.
 
-If the user is not an **Owner**, use the `GitLab.com::Import::Require Group Permission` macro as a response.
+If the user is not an **Owner**, use the [`Support::SaaS::Import::Require group permission`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607319) Zendesk macro as a response.
 
 ## Stage 3: Import
 
@@ -208,20 +208,20 @@ After the import has completed successfully, perform the following steps.
 
 1. Close the infrastructure issue once an SRE has commented on it that the import has completed.
 1. Ensure the export file is deleted, or remind the customer to delete theirs in your next response.
-1. Send the macro `GitLab.com::Import::Complete Customer to Verify` to let the customer know that the import has completed and that they should double check that everything is in order.
+1. Use the [`Support::SaaS::Import::Complete - Customer to Verify`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360031338260) Zendesk macro to let the customer know that the import has completed and that they should double check that everything is in order.
 1. **[USERS MAPPED ONLY!]** After the customer confirms that everything looks okay, open an issue using the [Access Change Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request) template to request that the admin account used for the import be deleted.
 
 ## Zendesk Macros & Resources
 
 ### Macros
 
-- `GitLab.com::Import::Determine Eligibility`
-- `GitLab.com::Import::Require Group Permission`
-- `GitLab.com::Import::Offer Import (Users Mapped)`
-- `GitLab.com::Import::Offer Import (Users Not Mapped)`
-- `GitLab.com::Import::Verify User List (Looks Good)`
-- `GitLab.com::Import::Verify User List (Problem Found)`
-- `GitLab.com::Import::Complete Customer to Verify`
+- [`Support::SaaS::Import::Determine Eligibility`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043802800)
+- [`Support::SaaS::Import::Require group permission`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607319)
+- [`Support::SaaS::Import::Offer Import (Users Mapped)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607339)
+- [`Support::SaaS::Import::Offer Import (Users Not Mapped)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607259)
+- [`Support::SaaS::Import::Verify User List (Looks Good)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607239)
+- [`Support::SaaS::Import::Verify User List (Problem Found)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607299)
+- [`Support::SaaS::Import::Complete - Customer to Verify`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360031338260)
 
 ### Resources
 
