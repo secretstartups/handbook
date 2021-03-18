@@ -18,6 +18,7 @@ description: "Landing page for many of the handbook pages the recruiting team at
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [Hiring Charts](/handbook/hiring/charts/)
 - [Interviewing](/handbook/hiring/interviewing/)
+- [Interview Schedule](/handbook/hiring/interview-schedule)
 - [Overview of Job Families](/handbook/hiring/job-families)
 - [Job Offers and Post-Interview Processes](/handbook/hiring/offers/)
 - [Preferred Companies to Recruit from](/handbook/hiring/preferred-companies/)
@@ -27,6 +28,7 @@ description: "Landing page for many of the handbook pages the recruiting team at
 - [Recruiting Process Framework](/handbook/hiring/recruiting-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
 - [Referral Process](/handbook/hiring/referral-process/)
+- [Resource Guide](/handbook/hiring/resource-guide/)
 - [Sourcing](/handbook/hiring/sourcing/)
 - [Vacancies](/handbook/hiring/vacancies/)
 
