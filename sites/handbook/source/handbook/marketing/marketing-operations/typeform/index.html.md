@@ -10,3 +10,25 @@ description: "People-friendly forms and surveys"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+### About Typeform
+
+Typeform makes collecting and sharing information comfortable and conversational. It's a web based platform you can use to create anything from surveys to apps, without needing to write a single line of code. 
+
+### Access
+
+For Typeform access, team members will need their own accounts. Those accounts will need to have 2FA authenticated. With manager approval, you can [submit an access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to have your GitLab account added to Typeform.
+
+### Creating a Typeform for use on about.gitlab.com
+
+Once you've created your Typeform and ready to create a landing page on the marketing website, it's time to generate your embed code. 
+
+When you're creating your embed code, make sure to choose the ["standard" size](https://help.typeform.com/hc/en-us/articles/360029249212-Embed-your-typeform). Using other sizes will result in the Typeform not displaying correctly in the template we have designated for Typeform landing pages. 
+
+
+## Resources
+
+- [How to build a Typeform](https://help.typeform.com/hc/en-us/articles/360053660271-My-first-typeform-)
+- [How to generate a Typeform embed code](https://help.typeform.com/hc/en-us/articles/360029249212-Embed-your-typeform)
+- [Typeform landing pages with Netlify CMS](https://about.gitlab.com/handbook/marketing/netlifycms/#typeform-landing-pages)
+
+
