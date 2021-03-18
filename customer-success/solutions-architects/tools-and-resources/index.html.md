@@ -73,4 +73,17 @@ No two presentations are the same and we often find ourselves mixing and matchin
 - [Product Walkthrough Deck](https://docs.google.com/presentation/d/1jcnZbbfAyPJo0sIzqeN6nkfCS4nT_tMz/) - Product Walk-through from the lens of a Solution Architect covering Velocity, Visibility, and Security & Compliance.
 - [Getting Started](https://docs.google.com/presentation/d/1LJTZ7SC4EWcXJx3ptiA23Cf1i33GJHTE) - Kicking off a POV? This is a fantastic deck to help Customers on their journey to setting up Users, Groups, Pipelines, Auto DevOps, and more.
 
+### O'Reilly Learning Platform
+
+In order to facilitate an environment of learning and development, the Solutions Architect team has access to the [O’Reilly Learning Platform](https://learning.oreilly.com/home/).  This education platform contains thousands of books, videos and live learning courses to assist SA’s with gaining the knowledge they need to stay competitive. 
+
+As of 2021-03-17, only the Solutions Architect team has access to the platform.  If you do not already have a login, please contact your manager and they will add you to the system.  New members will receive an email with instructions for how to get set up.  Existing members with logins can navigate to URL listed above from your browser of choice. 
+
+As mentioned, the goal is to ensure all SA’s have easy access to information that will help them grow professionally. To that end, the SA Leadership team will, from time to time, create topical playlists from O’Reilly materials which can be accessed from within the platform.  These playlists will contain recommended books, selected chapters from books and even video lessons on such topics as IaC, GitOps, Security, etc…
+
+Additionally, code sandboxes are Included within the O’Reilly platform that SA’s can utilize to practice new skills or hone existing ones. 
+
+For a quick tour of what the O’Reilly Learning Platform can provide to our SA team, please check out this [short introductory video](https://www.loom.com/share/fca91ca4e127494fb5f4130b85eaa9ea).
+
+By the end of FY22 Q1, we plan to incorporate the O’Reilly Learning Platform into [GitLab’s EdCast installation](https://gitlab.edcast.com/log_in?auto_sso=true).  This will make it even easier for Solution Architects to navigate to one system and search for materials to help them level-up. 
 
