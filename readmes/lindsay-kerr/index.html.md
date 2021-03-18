@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Lindsay Kerrs's README"
-job: "Senior Frontend Engineering Manager, Threat Management"
+job: "Frontend Engineering Manager, Threat Management"
 ---
 
 ## Lindsay Kerr's README
