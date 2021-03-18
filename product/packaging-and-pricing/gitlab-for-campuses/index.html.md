@@ -38,6 +38,7 @@ Qualifying educational institutions may purchase a campus-wide enterprise licens
 * A single campus-wide enterprise license can have an unlimited number of seats **up to** the most recently published total student enrollment of the institution.
 * The institution will provide documentation to the GitLab account owner for the most recent published student enrollment numbers (graduate and undergraduate) for within one year of the date of deal closing.
 * The subscription at the agreed upon enrollment tier is valid for one year from the close date. No adjustments to the tier will be made during the subscription year.
+* Multiple year subscriptions are not available at this time. Institutions must purchase and renew on annual basis. Annual renewal ensures the abilty to verify the enrollment tier at time of enrollment. 
 
 - The unit (or SKU) is available to an **individual educational institution** (see definitions below).
 - The appropriate SKU will be determined based on the total number of enrolled students at the institution for the last published year of data available by the account owner.
