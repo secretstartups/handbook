@@ -20,6 +20,7 @@ There are two main situations where action may need to be taken on behalf of the
 
 1. Project/Group Changes
 1. Account Access Requests
+1. Releasing an Email Address
 
 ### User Action First
 
@@ -47,6 +48,20 @@ Before taking any action, ensure that you have verified the account owner using 
 If ownership is verified, then:
 
 1. [Confirm permission for the changes](#asking-permission)
+1. Add an [Admin Note](/handbook/support/workflows/admin_note.html) to the user's account.
+
+## Releasing an Email Address
+
+Similar to **Account Access Requests**, if a user has lost access to their account and the account shows **no activity** in its history, then we can consider releasing the email address for the user to create a new account with. 
+
+If an account shows any activity, is tied to a project or group, or has any data tied to the account (such as snippets), you will need to take the user through the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow to process an account access request. Do not update or change the primary (or secondary) email address on the account if the account shows any activity or data tied to it.
+
+To release an email address for an inactive account:
+
+1. User should be able to verify the username and email address tied to the account.
+1. Check the activity level of the account. Verify that the account shows **no activity** and is not a member of any projects or groups.
+1. [Confirm permission for the changes](#asking-permission).
+1. Update the email address with `+release`. For example, if the email address is `johndoe@example.com`, then update the email address on the account to `johndoe+release@example.com`.
 1. Add an [Admin Note](/handbook/support/workflows/admin_note.html) to the user's account.
 
 ## Asking Permission
