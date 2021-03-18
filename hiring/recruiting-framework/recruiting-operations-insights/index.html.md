@@ -34,7 +34,7 @@ Sourcing Team only - please contact the Sourcing Manager.
   DocuSign
   </summary>
 
-C.E.S. and Sales Operations Team only - please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
+Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
 
 </details>
 
@@ -49,10 +49,28 @@ C.E.S. and Sales Operations Team only - please [contact the Recruiting Operation
 
 <details>
   <summary markdown='span'>
+  Guide by Resource.io
+  </summary>
+
+Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
+
+</details>
+
+<details>
+  <summary markdown='span'>
   HelloSign
   </summary>
 
 [See how to request a HelloSign account in the handbook](/handbook/people-group/people-experience-team/#hellosign).
+
+</details>
+
+<details>
+  <summary markdown='span'>
+  Interview Schedule
+  </summary>
+
+Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
 
 </details>
 
@@ -220,23 +238,6 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
 
 <details>
   <summary markdown='span'>
-  Pipeline History and Pass-Through Rates
-  </summary>
-
-* **System**: Greenhouse
-* **Filters**:
-    * Rows = Stage
-    * Job Status = All
-    * Departments = All Departments
-    * Group of Candidates = Candidates Who Applied During a Specific Date Range
-    * Application Date = Custom Range (Enter Desired Month)
-    * Check *"Include Migrated Candidates"*
-* **Instructions**: Pull and export the report into the *Monthly Metrics* sheet.
-
-</details>
-
-<details>
-  <summary markdown='span'>
   Pipeline by Demographic (or EEOC)
   </summary>
 
@@ -289,6 +290,17 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
 
 </details>
 
+<details>
+  <summary markdown='span'>
+  Sourcing Metrics
+  </summary>
+
+* **System**: Greenhouse
+* **Instructions**: Using the data from the Hiring Speed Per Candidate report, update the `Sourced LF` and `Time-to-Offer Accept` tabs with the relevant data at the conclusion of each month.
+
+
+</details>
+
 ----
 
 #### Weekly Reports
@@ -307,16 +319,6 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 <details>
   <summary markdown='span'>
-  CRM Metrics
-  </summary>
-
-* **System**: Greenhouse
-* **Instructions**: Refresh the [Base] sheets, which are linked to Greenhouse via their *Google Sheets Connector*. Copy the data from the `[BASE] Prospect Conversion` and paste it into the `prospect_conversion_data` sheet, matching the existing columns. Filter the sheet by the `Converted to Candidate` column - remove "0" - then sort the sheet alphabetically by the `Prospect Pool` column. Combine all duplicates so that only aggregated pool information remains. Calculate the *Conversion Rate* (Converted to Candidate/Prospects in Pool/Stages) and use that information to update the `Historical Metrics` and `Pool Metrics` tabs. Secondly, copy the data from the `[Base] Prospecting Activity` sheet and paste that into the `prospecting_activity_data` sheet, matching the existing columns. Next, assign a *Role* to Recruiting Team Members **only** (e.g. *Recruiting Manager*, *Recruiter*, or *Sourcer*). Remove all "Blanks" from the `Role` column and calculate the *Conversion Rate* (Converted to Candidate/Prospects Added). Reference that range when updating the chart on the `Historical Metrics` tab.
-
-</details>
-
-<details>
-  <summary markdown='span'>
   Hiring Speed Per Candidate
   </summary>
 
@@ -326,22 +328,6 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
     * Departments = All Departments
     * Check *"Include Migrated Candidates"*
 * **Instructions**: Pull and export the report into the *Applies to Offer Accepts* sheet. Filter the report to the desired month and **add** a column for `Time to Accept`. Using the `DATEDIF` function, calculate the *Applied On Date* to the *Accepted Date* measuring days.
-
-</details>
-
-<details>
-  <summary markdown='span'>
-  Last 15 in [Stage]
-  </summary>
-
-* **System**: Greenhouse
-* **Filters**:
-    * Job Status = Open
-    * Status = Active
-    * Departments = All Departments (or Select Desired Department(s))
-    * Stage = (Select Desired Stage)
-    * Last Activity = (Select Desired Date)
-* **Instructions**: Pull and export the report into the **Last 15 in [Stage]** sheet. Include links to candidate Greenhouse profiles and a column for *Location Factor*.
 
 </details>
 
@@ -403,24 +389,61 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 <details>
   <summary markdown='span'>
-  Sourcing Metrics
+  Sales Hiring Forecast Report
   </summary>
 
 * **System**: Greenhouse
-* **Instructions**: This report is a complilation of multiple linked reports via the *Greenhouse Report Connector* tool. Refresh all reports via that connector and enter the current monthly data into the appropriate columns in the following tabs: `Source (Month/Month)`, `Sources & Percentages`, and `Quality (Month/Month)`. Please see the list below for additional action items, where applicable.
-     * `Source (Month/Month)`: Simply update the appropriate values that correspond to each source.
-         * If a new source needs to be added, insert a new row in the appropriate **Source Category** (e.g. *Prospecting*) and enter its values.
-         * Given the current Outbound model, there should be **no** candidates with the source, `Jobs page on your website`. If there are, please take the following steps to audit their source:
-             1. Run the [New Candidates by Source](https://gitlab.greenhouse.io/reports/new_candidates_by_source?term=&job_status=all&user_role_on_jobs=any_role&include_template_jobs=0&date_relative=current_month&summarize=month&include_migrated_candidates=1&hide_empty_rows=false) report (Filters: `Job Status = All`; `Date = Current Month`; [X] Include Migrated Candidates)
-             1. Go to the **All Candidates** tab and set the following filters:
-                 * **Clear** the default filters (`Active` and `Open Jobs`)
-                 * Apply `Source = Jobs page on your website` 
-                 * Apply `Applied On = [Current Month]`
-                 * For each candidate that appears, check their respective *Activity Feeds* to see how they came to be in their current requisition.
-                     * For example, if a Recruiting Team Member moved the candidate to the current requisition, then the candidate's source should likely be `Greenhouse Sourcing`.
-     * `Sources & Percentages`: Update the appropriate values that correspond to each source. Then, referencing the *Hiring Speed per Candidate* report, determine the total number of **Outbound Offer Accepts** and the **Total Offer Accepts**. The percentage will update automatically as well as the charts if the month remains the same.
-         * When adding a new month, create two new columns, copying their formatting, and update the chart's range.
-     * `Quality (Month/Month)`: Simply update the appropriate values that correspond to each source.
+* **Reports**:
+    * Job Status Report
+    * Current Pipeline Per Job Report
+* **Instructions**: Refresh the `Most Recent - Job Status Import from GH` and `REQ STATUS FROM GH` tabs and add the following columns per report:
+    * Job Status Report (`Most Recent - Job Status Import from GH` tab)
+        1. Move `GHP ID` to **Column A**.
+        1. Insert a new column (**Column B**) and title it, `VLOOKUP`.
+        1. Move `Opening Status` to **Columb C**.
+        1. Set the formula in `VLOOKUP` as follows in the row below the column header: `=VLOOKUP(A9,'Forecast to Plan'!A:A,1,0)`.
+            * Copy the formula down to include all rows that have data. 
+        1. Sort the data by `Opening Status` (A -> Z).
+        1. Look for any `#N/A` results in the `VLOOKUP` column where the `Opening Status` = **Open** and add the respective `GHP ID` to the `Forecast to Plan` tab.
+    * Current Pipeline Per Job Report (`REQ STATUS FROM GH` tab)
+        1. Duplicate the `Requisition ID` column and move it to **Column A** (the duplicate column will be in **Column C**).
+        1. Insert a new column (**Column N**) and title it, `Req Status`
+            * Working backwards (i.e. `Background Check and Offer` to `Get to Know Us`) provide a req status where there are **no** blanks or zero values in a column.
+            * Provide one of the following statuses: *Not Opened Yet*, *Screening*, *Hiring Manager Interview*, *Team Interview*, *References*, *Offer Pending*, or Start Date Pending*.
+    * `Forecast to Plan` Tab
+        1. Where formulas are present, drag them down to cover all rows.
+        1. The following rows will need to be entered manually: `Sales VP` (Column I), `Aligned Recruiter` (Column J), and `NQR/OQR` (Column K).
+        1. Audit the sheet where `#N/A` appears in a column where a formula is present.      
+
+</details>
+
+<details>
+  <summary markdown='span'>
+  Weekly People Overview
+  </summary>
+
+* **System**: BambooHR
+* **Reports**:
+    * Current Team Members
+    * Terminations
+* **Instructions**: Pull the listed reports from BambooHR and import them into a Google Sheet.
+    * Talent In Section
+        1. Insert a column to the right of `Hire Date` and call it `FYXX-QX` (Column B).
+            * Enter the corresponding quarter for the given `Hire Date`.
+        1. Insert a column to the right of `FYXX-QX` and call it `Start?` (Column C).
+            * For a future `Hire Date`, enter *Future Hire* in the cell.
+            * For a `Hire Date` in the current week, enter *Pending Hire* in the cell.
+            * For a past `Hire Date`, enter *Hired* in the cell.
+        1. Separate Sales by its NQR status as either: `NQR` or `Non-NQR`.    
+        1. Create a Pivot Table and split the data by the Team Member `Hire Date` statuses (above) and `Hire Date` dates.
+        1. Create a table from which build a bar chart comparing how many starts there were in the previous- and current weeks.
+    * Talent Out Section
+        1. Insert a column to the right of `Termination Date` and call it, `Weeking Ending` (Column D).
+        1. Create a Pivot Table and split the data by `Termination Type` and `Division` and `Exit Impact`.
+        1. Create a table from which build a stacked bar chart comparing how many terminations there were in the previous- and current weeks.
+    * Current Headcount Section
+        1. Create a Pivot Table from the Current Team Members report and split it by `Division` and a count of `Hire Date` separated by fiscal year and quarter.
+    * Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.             
 
 </details>
 
