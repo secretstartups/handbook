@@ -17,6 +17,19 @@ Organizations are simply a collection of users in Zendesk (much like groups). We
 use them to also store metadata (synced from Salesforce), which is used to
 determine such things as SLA, ARR, etc.
 
+## How are organizations created?
+
+Organizations in Zendesk are created automatically through our Salesforce and
+Zendesk integration (as well as the GitLab built sync script). This integration
+allows agents to see a customer's full Salesforce Profile within a live ticket
+in Zendesk. You can read more about what information we send to Salesforce and
+what fields are populated with information from Zendesk in the
+[Support Ops handbook](zendesk_global_sync.html).
+
+> Please do not manually create organizations. This can break the ZD<>SFDC
+> integration and cause users to receive incorrect SLAs. If you notice an
+> organization needs to be created, please notify support-ops to rectify this.
+
 ## Organization fields
 
 | Field Named | API Name | Data Type | Possible Values |
@@ -40,6 +53,17 @@ admin level abilities currently. If an organization needs to be edited, an issue
 should be filed using the
 [Add Zendesk Organization Notes or Tags Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request)
 issue template.
+
+## Organizations with outdated information
+
+If you notice an organization in Zendesk contains outdated information or the
+information doesn't match what Salesforce is displaying, this would indicate the
+sync integration has hit an issue. Luckily, we have the GitLab built sync script
+that runs every hour to rectify such issues.
+
+In your due diligence, you would want to create an issue via the
+[support-ops-project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new)
+so support-ops can double check to ensure there is nothing blocking the sync.
 
 ## Organization Notes
 
