@@ -649,15 +649,23 @@ Some of the most common meetings problems are outlined below:
 | No agenda with edit rights for everyone | Ensure that every meeting has an agenda and is available for everyone to edit |
 | People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting |
 
-### Pre-Recorded Presentations Are Preferred 
+### Pre-Recorded Presentations Are Mandatory 
 
-Meetings take up valuable time and resources for the company. If a meeting covers a topic that requires a presentation, do not use the meeting time to present information. Instead, make a pre-recorded video presentation on YouTube Unfiltered, and attach it to the meeting agenda. Announce in Slack Channels that the meeting has a pre-recorded video and all attendees are recommended to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides. 
+Meetings take up valuable time and resources for the company. Meetings are inconvenient for participants and having a pre-recorded presentation, versus presenting during the meeting, enables participants to receive maximum benefit from the meeting time. By pre-recording the presentation, team members can comprehend the information presented asynchronously. 
 
-GitLab recommends this approach during meetings for the following reasons: 
+When using meeting time for presentations, valuable material will be ignored due to selective watching by meeting participants. Team members are often multitasking during meetings and selective attention towards the content cannot be guaranteed. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content on their own time. 
+
+Make a pre-recorded video presentation on YouTube Unfiltered, and attach it to the meeting agenda. Announce in Slack Channels that the meeting has a pre-recorded video and all attendees are recommended to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides. 
+
+Pre-recorded presentations are mandatory for the following reasons: 
 1. Enables meeting participants to have their questions answered on the topic presented.
 2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it allows team members in different time zones to consume the presentation material on their own time. 
 3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the efficiency of the meeting time to ensure that team members have their voices heard during the Q&A. 
 4. Standardizes the approach to meetings across the organization. 
+5. Pre-recorded meetings have transcripts that can boost the value of content, help team member focus, and increase accessibility. 
+6. Recordings can be speed up and rewound by team members watching on their own time. 
+7. Enables [nuerodiverse](https://about.gitlab.com/handbook/values/#neurodiversity) equality for all team members who may prefer audio versus visual.  
+8. Allows for selective watching of presentation material for a certain period of time. 
 
 ## Indicating Availability
 
