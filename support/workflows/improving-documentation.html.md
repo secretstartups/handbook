@@ -18,7 +18,7 @@ Whenever possible, include a link to the applicable documentation as part of you
 
 - Submit the private note
 
-Alternatively, apply the macro `General::Document This` to the ticket then submit the private note.
+Alternatively, apply the [`General::Document This`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360036422559) Zendesk macro to the ticket then submit the private note.
 
 When working on creating the new docs, please follow the [documentation styleguide](https://docs.gitlab.com/ee/development/doc_styleguide.html#location-and-naming-of-documents).
 
