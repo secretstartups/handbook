@@ -123,7 +123,7 @@ Note: Modern Health is not a crisis resource. If you are experiencing a mental h
 ### Confidentiality and Security
 
 **Does my employer know if I’m using Modern Health?**
-No, a list of new GitLabbers is sent to Modern Health on a weekly basis so they can update GitLab's database but whether a team member chooses to use Modern Health or not is confidential and will not be shared with GitLab. All information submitted through the Modern Health application is kept confidential and used to deliver a more personalized experience. No individual usage data will ever be shared back with your employer.
+No, a list of new GitLab team members is sent to Modern Health on a weekly basis so they can update GitLab's database but whether a team member chooses to use Modern Health or not is confidential and will not be shared with GitLab. All information submitted through the Modern Health application is kept confidential and used to deliver a more personalized experience. No individual usage data will ever be shared back with your employer.
 
 **Is what I discuss with my coach confidential?**
 All information between you and your coach is confidential, except in the following cases:
