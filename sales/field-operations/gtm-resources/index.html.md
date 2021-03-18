@@ -263,52 +263,55 @@ Requested holdover accounts will have the expriation date and next approved owne
 Accounts will be reviewed annually prior to the Fiscal Year planning process and territory carving.
 
 ### Opportunity Ownership Rules of Engagement 
+**Understanding Opportunity Assignment, Rules and Definitions**
+
 1. **Opportunity Ownership:** 
     1. Only active Field Sales (AE/SAL) members can own opportunities. The exceptions to this rule include:
         1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
         1. **Reseller opportunities**: which can be owned by the AE/SAL or channel manager
     1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
         1. Those noted in the aforementioned section
-        1. Holdover opportunities or accounts
+        1. Holdover opportunities
         1. When an ISR or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
-1.  **Sales Operations Opportuntity Review Process**
-1. **Holdover Opportunities**
-
+        1. Stage of the opportunity at time of account ownership change
+**Holdover Opportunities** Holdover opportunties are flagged using the`Holdover Next Approved Owner` and `Holdover Expiration Date` fields on the Opportunity 
+   1. Stage considerations
+        1. All open opportunities stages 0-3 will immediately be moved to the new account owner when the account transfers unless there is a requested holdover approved by all parties in chatter
+        1. All open opportunities stages 4-6 will automatically have a 90 day holdover expiration date populated by sales operations team when moving accounts. If the opportunity does not close in the 90 days it will be moved to the account owner on the expiration date.
+        1. There will be no considerations made to extend an holdover if the opportunity moves stages during the 90 day holdover period. 
+1.  **Sales Operations Opportunity Review Process**
+    1. Opportunity holdovers are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 
 <details>
 <summary markdown='span'>
   Sales Ops Operators Guide for Account and Opportunity Review and Moves
 </summary>
- 
+ **Best Practices**
+ 1. Whenever possible, check to see if the account has a parent or is a duplicate and correct
+
  **Case Review Process**
  1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
  1. Update any of the data on the account if needed to reflect what was provided
- 1. Determine if the request meets any of the criteria for an immediate move. If so, move the account to the new owner and close the case.
- 1. If the account does not meet the criteria for an immediate move, select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the **Sales Operations Quarterly Account Review Dashboard**
+ 1. Determine if the request meets any of the criteria for an immediate move. 
+    1. Immediate move - Move the account to the new owner. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportuntiy and populate the `Holdover Next Approved Owner` field. 
+    1. If the account does not meet the criteria for an immediate move, select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the **Sales Operations Quarterly Account Review Dashboard**
  1. Close the case and indicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
 
  **Quarterly Account Review Process**
 1. Use the reports on the **Sales Operations Quarterly Account Review Dashboard** to review the requested account moves. 
-   1. Prospect and Customer accounts with `CARR` under $50K can be transferred immediately.
-   1. Prospect and Customer accounts with `CARR` over $50K will need to be evaluated to ensure the move doesn't impact quota.
+   1. Prospect and Customer accounts with `CARR` under $50K can be transferred immediately. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportuntiy and populate the `Holdover Next Approved Owner` field. 
+   1. Prospect and Customer accounts with `CARR` over $50K will need to be evaluated to ensure the move doesn't impact quota. Those approved to be moved follow the above step
    1. Once account ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
 
-**Holdover Account Process**
-1. Review the Account Holdover Expiration reports and move the expired accounts to the Account Rep listed in the `Holdover Next Owner`field. 
+**Holdover Account and Opportunity Review Process**
+1. Review the Account & Opportunity Holdover Expiration reports and move the expired accounts and opportunities to the Account Rep listed in the `Holdover Next Approved Owner`field.
 1. Remove the value from the `Holdover Next Owner` after transfer of ownership
-1. Accounts are not eligible for a second holdover request. If this request is made the ASMs must agree
-
-**Quarterly Opportunity Review Process
-
-**Holdover Opportunity Process**
+1. Accounts are not eligible for a second holdover request. If this request is made the ASMs must agree and must be approved by Sales Operations Leadership
 
 **Annual Review Process** 
 1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilzied the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
 
  </details>
-
-
-
 
 ### Account Sources, Routing and Other Requirements
 
