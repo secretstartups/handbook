@@ -67,7 +67,7 @@ Sometimes, a customer will request details on a security update that was release
 Following the [Responsible Disclosure Policy](/security/disclosure/), a confidential issue will be created and tracked internally.
 The contents of the confidential issue should not be shared.
 
-* You can use the "Field Security -> Request for security vulnerability details" macro and close as "Solved."
+* You can use the [`Field Security::Request for security vulnerability details`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360044308560) macro and submit the ticket as "Solved."
 
 #### General Guidelines
 
@@ -136,14 +136,13 @@ In the case that something ended up in the Security inbox and was forwarded on v
 
 In order to transfer a ticket from Support to Security:
 
-  * Use the "General -> Forms -> Change to Security" macro 
+  * Use the macro [`General::Forms::Change to Security`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373880)
 
 ### Escalate ZenDesk ticket to Security
 
 In the case that a security issue was reported through a support ticket:
 
-1. Update the assignee in ZenDesk to Security
-
+1. Change the form to "Security" by using the macro [`General::Forms::Change to Security`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373880)
 1. Link to the issue reporting the vulnerability
 
 ### If the customer has already created an issue
