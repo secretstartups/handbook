@@ -153,12 +153,9 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |Registered |Registered, <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
 |Follow Up Requested| Follow Up Requested|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
-|* Online  - High|Workshop, <br> Self-Service Virtual Event, <br> Webcast |	+30	|{{my.Online - High}} |Trigger| Everytime|
-|* Online  - Med|Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
-|* Online - Low |Virtual Sponsorship	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
-|* Offline  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
-|* Offline  - Med|Speaking Session,<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
-|* Offline  - Low|Field Event,<br> Vendor Arranged Meetings,<br> Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
+|* Program High|Workshop, <br> Self-Service Virtual Event, <br> Webcast, <br> Executive Roundtables |	+30	|{{my.Online - High}} |Trigger| Everytime|
+|* Program Med|Sponsored Webcast, <br>Speaking Session,<br> Owned Event	|+20	|{{my.Online - Med}}|Trigger|Everytime|
+|* Program Low |Field Event,<br> Vendor Arranged Meetings,<br> Conference	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
 |* Content - High|None Defined| +30|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|Gated Content|+15|	{{my.Content - Med}}	|Trigger  |Everytime|
 |* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime|
