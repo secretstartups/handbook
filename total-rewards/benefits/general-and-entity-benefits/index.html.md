@@ -20,7 +20,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 ## Entity Benefits
 - [GitLab BV (Netherlands)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-netherlands)
 - [GitLab BV (Belgium)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium)
-- [Global Upside (India and Philippines)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
+- [Global Upside (India, Philippines, Kenya, Chile, Costa Rica and Denmark)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
 - [GitLab Inc (US)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us)
 - [GitLab Inc (China)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-china)
 - [GitLab LTD (UK)](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk)
@@ -29,6 +29,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 - [GitLab Canada Corp](/handbook/total-rewards/benefits/general-and-entity-benefits/canada-corp-benefits)
 - [GitLab GK (Japan)](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-gk)
 - [GitLab Ireland LTD](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-ireland-ltd)
+- [GitLab Korea LTD](/handbook/total-rewards/benefits/general-and-entity-benefits/korea-ltd-benefits)
 - [Remote Technology (South Africa, Mexico, Hungary and Austria)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
 - [Safeguard (Spain, Italy, France, Brazil and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
 
@@ -60,133 +61,21 @@ In the unfortunate event that a GitLab team member passes away, GitLab will prov
 
 GitLab has a "no ask, must tell" [time off policy](/handbook/paid-time-off) per 25 consecutive calendar days off.
 
-## Tuition Reimbursement
+## Growth and Development Benefit
 
-GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to [20,000 USD](/handbook/total-rewards/compensation/#exchange-rates) per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course is considered to be included in the calendar year in which the course is paid/reimbursed (which should also be the same calendar year in which the course ends).
+GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to $10,000 USD per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course/program is considered to be included in the calendar year in which the course/program is paid/reimbursed (which should also be the same calendar year in which it ends). 
 
-Follow the [Expensify process](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) if the course is under [$500 USD](/handbook/total-rewards/compensation/#exchange-rates).
+If a team member wishes to take up [academic study](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) and the tuition cost for the year is expected to go over the $10,000 USD limit, a team member can apply for an [exception](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-an-exception). 
 
-If the course is over [$500 USD](/handbook/total-rewards/compensation/#exchange-rates) or if you have exceeded your allotted [$500 USD](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications) limit for courses and professional development certifications, follow the steps below.
+Budget estimations for the Growth & Development benefit are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package.
 
-
-### Tuition Reimbursement FAQ
-
-**Can I participate in this program?**
-* If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program.
-* If you are a part-time GitLab team member, you may still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis.
-
-**What courses are eligible for reimbursement?**
-* Courses must be a requirement of a degree or certification program and delivered through a credentialed college or university, an industry-recognized certification body, or effective online education such as [Udacity](https://www.udacity.com/).
-* There is no limit to the number of years a team member can participate in the program.
-* Courses eligible for reimbursement include classes for credit resulting in a grade (not pass/fail), courses providing continuing education credits, and/or courses taken as part of a certification program. You must earn a passing grade equivalent to a “B” or obtain a successful completion certification to submit for reimbursement.
-* A completed [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) (per the process below) along with a final grade report or satisfactory certificate of completion are required to receive reimbursement.
-* Budget estimations for tuition reimbursement are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving tuition reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package.
-* The course must be relevant to your role's goals and development:
-
-Examples of requests that may be approved:
-
-* A Backend Engineer who is not on a performance improvement plan seeking a bachelor's degree in Computer Science.
-* A People Operations Generalist seeking a master's in Human Resources with a concentration in International Employee Relations.
-* A Security Analyst seeking to take courses to gain a Cybersecurity certificate through an accredited college or university.
-* A Product Marketing Manager seeking to take courses to become a Certified Brand Manager from The Association of International Product Marketing and Management.
-* A Technical Account Manager seeking to obtain a Cloud Certification such as CompTIA Cloud, AWS Certified Solutions Architect, MicroSoft MCSA/MCSE, Cisco CCNA/CCNP.
-
-Examples of requests that may be denied:
-
-* A Marketing Manager seeking a master's in Human Resources, but has no intention of applying to a role in people ops.
-* A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
-* If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
-
-**Do I need to get approval to participate in this program?**
-* Yes, seek verbal approval from your manager before you submit your tuition reimbursement form.
-* Approval will also be obtained from the e-group member in charge of your organization via Hello Sign in accordance with the [signature authorization policy](/handbook/finance/authorization-matrix/)
-
-**I'm planning on taking a degree program, do I need approval for each class or for each semester/term?**
-* A [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) will be needed for each semester, however, the relevance of the classes taken for each semester will be subject to the approval of the manager and e-group leader.
-
-**When should I apply for Tuition Reimbursement?**
-* The [Tuition Reimbursement Agreement](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit) (as noted in the process below), must be submitted to Total Rewards at least 30 days before your course start date.
-
-**What is covered in the tuition reimbursement program?**
-* The program will cover only the tuition and enrollment related fees. Additional fees related to parking, books, supplies, technology, or administrative charges are not covered as part of the program. Tuition will be validated by receipt showing proof of payment.
-
-**When will I receive my tuition reimbursement?**
-* Your tuition reimbursement will be paid in the following pay cycle after you have completed the course and sent your official grade report or successful certification of completion to Total Rewards.
-* If the program does not allow for tuition deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course. 
-
-**What happens if I leave GitLab?**
-* If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, tuition reimbursements of $1000 USD and over will need to be refunded to GitLab. 
-* If you opted to receive 50% of the tuition reimbursement up front but the whole amount of your tuition is at least $1000 USD, the amount will still need to be refunded back to GitLab.
-
-
-### Tuition Reimbursement Process
-
-To receive tuition reimbursement, GitLab team members should follow the following process:
-
-1. Discuss your interest in professional development with your manager. If the manager agrees that the degree or certification program is aligned with the business and growth opportunities within GitLab, fill out the **first** page of the [Tuition Reimbursement Application Form](https://docs.google.com/document/d/1-WvPzoUMpcaUUOm3Gl5eDKQDw_-TtI4J0LP5ifMa8Vo/edit).
-1. If you are participating in a degree program, a Tuition Reimbursement Application Form will be needed for each semester or term. If this is the case, list down the course codes and names of the courses you are taking under the "Course" section of the form.
-1. Once you have filled out the first page of the form, share or forward it to total-rewards@ domain.
-1. The Total Rewards will stage the second page for signatures in Hello Sign.
-1. The Total Rewards Analyst will file the application and signed agreement in BambooHR.
-1. The Total Rewards Analyst will also log the tuition reimbursement in the "Tuition Reimbursement Log" found on the Google Drive.
-1. Once the course is completed, an official grade report or successful certification of completion must be submitted to Total Rewards.
-1. After grades are verified, Total Rewards will ensure the reimbursement is processed through the applicable payroll by the second pay cycle after submission.
-
-#### Tax Implications for Tuition Reimbursement by Country
-
-In some countries, tuition reimbursement may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes.
-
-For example, in the United States 2020 tax year if GitLab [pays over $5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center).
-
-Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopleops@gitlab.com) when you have questions.
-
-### Tuition Reimbursement for English Language Courses
-
-As GitLab expands globally, we want to support our team members where English may not be their first language. Team members are able to use the Tuition Reimbursement policy in order to take classes or courses that develop and strengthen their English language skills. Managers are encouraged to recommend this benefit to team members whose engagement as a part of GitLab and/or performance may be improved by further developing their English language skills.
-
-Any full-time GitLab team member is eligible to participate in this program. Courses offered in-person or online by a credential college or university or an English language school are eligible for reimbursement.
-
-To receive this reimbursement, GitLab team members should complete the following process:
-
-1. The team member should first discuss and receive approval from their manager.
-1. The team member should forward their manager's approval along with information on the English course including cost to the Total Rewards Analyst at total-rewards@domain.
-1. The Total Rewards Analyst will notify payroll to process the reimbursement by the second pay cycle after submission, for Contractors they can add the amount to their monthly invoice and Payroll to be informed.
-
-Note: The above process is not required if the course is being offered to you at no cost.
-
-Examples of English Language Courses:
- * [Coursera](https://www.coursera.org/browse/language-learning/learning-english) offers a wide variety of online English courses in partnership with various reputable colleges and universities. Their courses range from improving your English language skills to more specialized courses that focus on English for STEM or career development
- * [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=english) has many courses for English. [Writing in Plain English](https://www.linkedin.com/learning/writing-in-plain-english) seems particularly well suited for improving async communication.
- * Language learning Apps and sites can be effective tools.
-   * [duolingo](https://www.duolingo.com/) offers gamified way to learn English, plus other languages.
-   * [Memrise](https://www.memrise.com/) is helpful for vocabulary building.
-   * Use [italki](https://www.italki.com/teachers/english) to find a English tutor. 1:1 instruction is often necessary for continued improvement, especially once a person has reached basic proficiency.
- English Language Courses offered in-person or online by a local college or university or English language courses offered online by a non-local college or university.
- * Please add any recommendations and review to this list.
-
-### Tuition Reimbursement for Your 4th Trimester
-
-Your 4th Trimester is a 90-day coaching program with [Broad Perspective Consulting](https://www.broadperspectiveconsulting.com/maternity-transition). The purpose of the program is to help parents (regardless of gender) be as prepared as possible to be a working parent through coaching and development.
-
-If you are a full-time GitLab team member and have been employed for more than three months, you are eligible to participate in this program. If you are a part-time GitLab team member, you may still eligible to participate in this program but your reimbursement might be reduced. These situations will be discussed on case-by-case basis. As Your 4th Trimester is part of the Tuition Reimbursement program, the cost of participating in this program will be deducted from your yearly limit of 20,000 USD. Please note, this benefit may be considered as taxable income in some countries. 
-
-To apply for this program, please send a completed [Your 4th Trimester Form](https://docs.google.com/document/d/18Q-Y8fg1WIf3TtiqlOaKWWOFbtBVpE3-UnVPXyMVDAg/edit) to Total Rewards at least 60 days before the birth/adoption. If the team member does not apply before the 60 days (for any reason), please reach out to Total Rewards and we can talk through different options. Your 4th Trimester is open to tailoring the coaching timing to each team member as needed. 
-
-#### Administration of Your 4th Trimester 
-
-1. Once a completed form has been sent to Total Rewards, the team will process for final approval. 
-1. When all signatures are complete, Total Rewards will file the form in BambooHR. 
-1. If the team member lives in a country where this benefit is considered taxable income (currently only in Australia and some cases in Belgium), notify payroll.
-1. Total Rewards will send an introductory email to Your 4th Trimester to the team member and Barbara Palmer `barbara@your4thtrimester.com` outlining the expected leave date, expected return to work date, and date of birthing event. Barbara will conduct the intake with the team member and communicate directly for any coaching throughout the program. 
-
-**Monthly Reporting:**
-GitLab will provide Your 4th Trimester with a report monthly of any team members with an upcoming parental leave: expected leave date, expected return to work date, date of birthing event, country, whether the person has already opted in, and maternity or paternity leave. The purpose of this monthly report is to ensure Your 4th Trimester can plan accordingly to the volume of coaching for GitLab team members. 
-
-**Billing:**
-Your 4th Trimester will bill GitLab for this benefit quarterly with 50% at intake and 50% at the completion of the coaching program per participant. If there are more than 5 participants in a quarter, there will be a discount on the bill. If there are any tax implications for the GitLab team member, Total Rewards will work with payroll to ensure this is reported compliantly. 
-
+The [Growth and Development page](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development) covers information on the application process and the different types of expenses you can get reimbursed under this benefit.
+ 
 ## GitLab Contribute
-Every nine months or so GitLab team members gather at an exciting new location to [stay connected](/blog/2016/12/05/how-we-stay-connected-as-a-remote-company/), at what we like to call [GitLab Contribute](/company/culture/contribute). It is important to spend time face to face to get to know your team and, if possible, meet everyone who has also bought into the company vision. There are fun activities planned by our GitLab Contribute Experts, work time, and presentations from different Departments to make this an experience that you are unlikely to forget! Attendance is optional, but encouraged. For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous).
+[GitLab Contribute](/events/gitlab-contribute/) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Contribute is an optional event, so team members should not feel pressured to attend. This year, Contribute will be hybrid-first, enabling team members to watch and participate from anywhere.
+
+From our first Contribute in Serbia to our virtual event in 2020, team members from around the world have built friendships and experienced the values in person. 
+For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous).
 
 ## Business Travel Accident Policy
 
@@ -275,7 +164,7 @@ We encourage parents to take the time they need. GitLab team-members will be enc
 
 If you have been at GitLab for a six months and completed your probationary period your parental leave is fully paid. If you've been at GitLab for less than a six months it depends on your jurisdiction. If applicable, commissions are paid while on parental leave based on the prior twelve months of performance with a cap at 100% of plan. For example, if in the twelve months prior to starting parental leave you attained 85% of plan, you will be compensated at the same rate while on leave. On the day you return from leave and going forward, your commissions will be based on current performance only. The rate of commissions paid during your leave will be confirmed by the sales commissions team and communicated to the team member through the total rewards team prior to your leave start date. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
 
-Additionally, commissioned roles are eligible to receive quota relief during their parental leave if the team member has been with GitLab for eight months or longer. The team member will recieve credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave.  After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would recieve an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated OTI based off the number of days that a team member is in seat. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
+Additionally, effective Q1 FY22, commissioned roles are eligible to receive quota relief during their parental leave if the team member has been with GitLab for eight months or longer. The team member will recieve credit and commissions as specified in their existing Participant Schedule that occur ***prior*** to the start of the leave.  After 60 continuous days of parental leave, quota relief will be applied to the team member on leave for the total duration of the leave up to a total of 4 months. The team member would recieve an amended Participant Schedule upon return from leave. That amended participant schedule will include a prorated OTI based off the number of days that a team member is in seat. Please see a [reference slide here](https://docs.google.com/presentation/d/1pWM8UhJGL7G8w_QzLKM1q2Rqql4OKm7vLD9HSCKfT9g/edit#slide=id.p) for an example of how the quota relief process and calculation works. For more information on quota relief and commissions on leave, please refer to the terms in the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#sales-compensation-plan).
 
 You are entitled to and need to comply with your local regulations. They override our policy.
 
@@ -288,6 +177,8 @@ Some teams require more time to put a plan of action in place so we recommend co
 **To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.** We understand that parental leave dates may change. You can edit your PTO by Roots at a later time if you need to adjust the dates of your parental leave. It's important that you submit a tentative date at least 30 days in advance. Your manager and the Total Rewards team will get notified after you submit your leave. Total Rewards will send you an e-mail within 48 hours confirming that they've been notified of your Parental Leave dates.
 
 Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave **at least 30 days before your leave starts.**
+
+When you return from parental leave, please [notify Total Rewards that you have returned](/handbook/total-rewards/benefits/general-and-entity-benefits/#confirming-your-return).
 
 ### Planning Your Parental Leave Dates
 
@@ -306,20 +197,32 @@ Please e-mail Total Rewards if you'd like to make this request and submit your P
 
 ### Returning from Parental Leave
 
-To [alleviate the stress](/handbook/paid-time-off/#returning-to-work-after-parental-leave) associated with returning to work after parental leave, GitLab supports team members coming back at [50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Parents at GitLab who are reentering work following parental leave are encouraged to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/).
+#### Confirming your return
+
+A day before you return from parental leave, you'll receive a PTO by Roots [Welcome Back message](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#parental-leave-welcome-back) with buttons to confirm your return or to explore other options.   
+* Clicking the `Confirm my return` button will open the email client with a pre-loaded template "Confirming my return from Parental PTO".
+* Clicking the `Explore options` button will also open the email client with a pre-loaded template "I have exceeded my 16 weeks and like to look into further options".
+
+#### Return-to-work Resources
+
+To [alleviate the stress](/handbook/paid-time-off/#returning-to-work-after-parental-leave) associated with returning to work after parental leave, GitLab supports team members coming back at [50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Parents at GitLab who are reentering work following parental leave are encouraged to read the [Team Member Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit) and to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/#parental-leave-reentry-buddies).
 
 Managers of soon to be parents should check out this [Parental Leave Manager Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#manager-tool-kit) for best practices in supporting your team members as they prepare for and return from Parental Leave.
 
 If you're interested in learning about how other GitLab team members approach parenthood, take a look at [the parenting resources wiki page](https://gitlab.com/gitlab-com/gitlab-team-member-resources/wikis/parenting) and [#intheparenthood](https://gitlab.slack.com/messages/CHADS8G12/) on Slack.
 
 
-### Process for Total Rewards Analysts
+### Administration of Parental Leave Requests
+
+For Total Rewards:
+
   * PTO by Roots will notify Total Rewards of any upcoming parental leave.
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
   * Notify the team member that the parental leave request was received by sending the confirmation e-mail template (only send this e-mail if the team member is starting their parental leave. Team members who are taking their leave intermittently or changing the dates of their original leave request do not need to receive the confirmation e-mail again).
   * Notify payroll - add the start date and end date on the payroll changes file ("Payroll Changes" sheet for team members in the US, "Canada Payroll Changes" sheet for team members in Canada and "Non-US Payroll Changes" sheet for everyone else). Ensure the entry is under the appropriate pay cycle date.
   * PTO by Roots will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually. 
   * Check local statutory requirements and if applicable, arrange any paperwork and liaise with appropriate parties (such as the PEO and payroll team) to initiate the parental leave.
-  * 1 day before the End of Parental Leave date, BambooHR will send a notification to Total Rewards. Confirm the team member's return by sending the return to work e-mail to the team member and manager. If the team member or manager doesn't reply at least 1 business day after the End of Parental Leave Date, follow up again or ping the manager to confirm the team member has returned from leave.
+  * 3 days after the End of Parental Leave date, BambooHR will send a notification to Total Rewards. Check if the team member has confirmed their return via email. If not, send the Return to Work e-mail to the team member and manager.
+  * Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
   * If the dates in PTO by Roots change, update the payroll changes file and the BambooHR status accordingly.

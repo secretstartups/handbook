@@ -412,21 +412,20 @@ As Person B's manager, Person B is one of my top performers and I want to compen
 
 ### Iterations to Compaas
 
-We have now completed two compensation reviewed utilizing Compaas. Based on some awesome [Annual Compensation Review feedback](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/80) and [Catch-up Compensation Review feedback](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/173) from our GitLab team, we are working to have the following iterations to our process in Compaas. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
+We have now completed multiple compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team, we are working to have the following iterations to our process in Compaas. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
 
-The following iterations are expected to be live for FY22 Annual Compensation Review:
-* Implement Proxy Access for People Business Partners. People Business Partner currently have access to a report, but the goal is to have this access expanded to admin access for their parts of the organization.
-* Fields for recommended performance increase, percent change due to benchmark increases, percent change due to location factor increases.
-* Approver and slate owner navigation so you don't have to toggle back and forth, but instead everything is in once place. Update: Still on separate slates, but you can see everyone by navigating to "All Employees" tab.
-* Push notification so approvers know when a slate is waiting on their action.
-* Bulk approvals so approvers don't have to go in and approve slates individually.
-* Okta integration. Tentatively will be updated for FY22 Annual Compensation Review.
-
-The following iterations will not be ready to ship in time for FY22 Annual Compensation Review, but we will continue to review having implemented in Compaas:
+The following iterations we will continue to review having implemented in Compaas:
 * Managers and team members to be able to log in and see where they fall in compensation for Compaas Analytics
 * Ability to review who has/has not logged in with which ID and which permissions
 * Proxy approval where People Business Partners can approve on behalf of their part of the organization.
 * Mobile responsive
+* Approver and slate owner navigation so you don't have to toggle back and forth, but instead everything is in once place. Update: Still on separate slates, but you can see everyone by navigating to "All Employees" tab.
+* Push notification so approvers know when a slate is waiting on their action.
+* Okta integration. 
+* Equity Ranges (similar to how cash compensation range work)
+* A clear picture of overall budgetary impact for the leader vs by slate. 
+* Ability to see details (comp ranges, notes, etc) once a slate is submitted. 
+* Notification to a slate owner if an approver changes a recommended increase 
 
 ### Communicating Compensation Increases
 
