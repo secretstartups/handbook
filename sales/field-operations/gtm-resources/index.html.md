@@ -399,6 +399,10 @@ If you believe you have been incorrectly assigned a record that should belong to
 
 Only Sales Operations and Channel Operations have the ability to change the account owner in Salesforce. This is to ensure that the Rules of Engagement are followed and to ensure that the account is assigned to the correct account owner based on TSP outputs and parent/child association. If there is an issue with account assignment, follow the exception process outlined in the Account Ownership Rules of Engagement. 
 
+##### Changing Opportunity Ownership in Salesforce
+
+Only Sales Operations, Channel Operations, Finance, Deal Desk, SDRs and ISRs have the ability to change the opportunity owner in Salesforce. This is to ensure that the Rules of Engagement are followed and to ensure that the opportunity is assigned to the correct owner based on the corresponding Account Owner (see Opportunity Ownership for exceptions), TSP outputs and parent/child association. If there is an issue with opportunity assignment, follow the exception process outlined in the Opportunity Ownership Rules of Engagement. 
+
 ##### Changing Contact Ownership in Salesforce
 
 Contact Ownership follows the rules as laid out below. This contact ownership cannot be updated as it is maintained by an [automated process in Salesforce](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#contact-ownership)
