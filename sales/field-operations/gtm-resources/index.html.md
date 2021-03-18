@@ -309,7 +309,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 1. Accounts are not eligible for a second holdover request. If this request is made the ASMs must agree and must be approved by Sales Operations Leadership
 
 **Annual Review Process** 
-1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilzied the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
+1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilize the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
 
  </details>
 
