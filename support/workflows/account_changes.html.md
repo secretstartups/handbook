@@ -54,7 +54,7 @@ If ownership is verified, then:
 
 Similar to **Account Access Requests**, if a user has lost access to their account and the account shows **no activity** in its history, then we can consider releasing the email address for the user to create a new account with. 
 
-If an account shows any activity, is tied to a project or group, or has any data tied to the account (such as snippets), you will need to take the user through the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow to process an account access request. Do not update or change the primary (or secondary) email address on the account if the account shows any activity or data tied to it.
+Only use this process if the account shows **no** activity. If an account shows any activity tied to any type of contribution (such as snippets, or comments in a project or group), use the [Account Ownership Verification](account_verification.html) workflow instead.
 
 To release an email address for an inactive account:
 
