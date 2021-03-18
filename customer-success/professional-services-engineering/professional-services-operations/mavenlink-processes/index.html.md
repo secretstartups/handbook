@@ -14,7 +14,7 @@ description: "Learn about the GitLab Professional Services operations processes 
 
 Mavenlink is our current PSA, follow the link below to view process steps and guidelines.
 
-All other processed that relates to [professional services operations can be found on this page](/handbook/customer-success/professional-services-engineering/professional-services-operations/)
+All other processed that relates to professional services operations [can be found on the this page](/handbook/customer-success/professional-services-engineering/professional-services-operations/)
 
 #### Mavenlink Log In/ Password Creation
 
