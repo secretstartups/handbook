@@ -34,7 +34,7 @@ GitLab does not plan on adding additional medical cover at this time due to the 
 
 ## Pension
 
-State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [Brand New Day](https://new.brandnewday.nl/) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 3.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 1%. The pension base equals the pensionable salary less the state pension offset.
+State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [Brand New Day](https://new.brandnewday.nl/) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 3.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 1%. The pension base equals the pensionable salary less the state pension offset. For additional training, Brand New Day has provided [video](https://drive.google.com/drive/folders/1qjCicb0JxnCmG5i4l3Hv5CEs5q8mOuXX?usp=sharing) explanations on how the pension plan works. 
 
 **Pension Plan Summary:**
 * Pension: The Pension plan is designed for team members to build up an invested pension fund that they cash in to purchase a retirement
@@ -64,8 +64,9 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
 ## GitLab B.V. Netherlands Leave Policy
 
 * Statutory Sick Leave
+  - Team members who are unable to work due to illness are entitled to 70% of their salary for up to 104 weeks. Team members will receive 100% of their salary for the first six weeks of illness. This leave runs concurrently with GitLab PTO. 
   - GitLab complies with [Dutch local Laws](https://business.gov.nl/regulation/reporting-employee-illness-recovery/) regarding sick leave. Local laws override any leave policy we have in the benefit of the team members.
-  - For reporting sick leave please review [the sick time procedure for The Netherlands here](/handbook/paid-time-off/#sick-time-procedures---netherlands). 
+  - Team members must select `Out Sick` in PTO by Roots to ensure that all sick time is properly tracked. For complete reporting procedures, please review [the sick time procedure for The Netherlands here](/handbook/paid-time-off/#sick-time-procedures---netherlands). 
 
 * Statutory Maternity leave
   - The team member is entitled to a maximum six weeks' leave prior to the estimated date of childbirth and for ten weeks after that date; therefore totaling sixteen weeks.

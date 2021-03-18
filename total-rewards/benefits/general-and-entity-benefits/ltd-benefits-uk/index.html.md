@@ -16,11 +16,13 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ## Specific to UK based employees
 
+For any queries related to UK benefits, please email `total-rewards@gitlab.com` for further assistance. 
+
 ## Medical Insurance
 
-For UK based employees GitLab provides paid membership of medical insurance with AXA PPP. This private medical insurance level is named Business Health Select with core cover. Family members can be added to the insurance and GitLab will pay 66% of the cost to include them. Further information can also be found in the [AXA PPP Brochure](https://drive.google.com/file/d/1hN_lCecnd10E4D0hCvd_TCsyDuRv6WBe/view?usp=sharing).
+For UK based employees GitLab provides paid membership of medical insurance with AXA PPP. This private medical insurance level is named Business Health Select with core cover. Family members can be added to the insurance and GitLab will pay 66% of the cost to include them. Further information can also be found in the [AXA PPP Brochure](https://drive.google.com/file/d/1iaxamYvMcn4G6tWdmnhiiCR_HAtGKVcN/view?usp=sharing).
 
-Please let the Total Rewards team know if you would like to join the scheme via email to `total-rewards@gitlab.com` . Include the full names and date of birth of all dependants you would like added to the scheme. The Total Rewards team will forward your request to our UK HR partners by email. Please note that it can take 7 - 10 working days to receive a reply and confirmation from AXA PPP. 
+Please let the Total Rewards team know if you would like to join the scheme via email to `total-rewards@gitlab.com`. Include the full names and date of birth of all dependants you would like added to the scheme. The Total Rewards team will forward your request to our UK HR partners by email. Please note that it can take 7 - 10 working days to receive a reply and confirmation from AXA PPP. 
 
 FYI Total Rewards team: The UK HR partner's contact information can be found in the Entity and Co-Employer HR Contacts note in the PeopleOps vault in 1Password.
 
@@ -33,6 +35,7 @@ The current coverage includes:
    - Mental Health cover option
    - Extra Care option includes hospital at home, cash benefit, oral surgery, chiropody
    - Extra Cancer care option
+- Virtual GP appointments – [DR@Hand](https://drive.google.com/file/d/1YzkeG0qMLPLi6TEY6mQXqV8xooMQb4_Z/view?usp=sharing)
 
 - **Note:** Optical and dentist cashback option **is not** included.
 
@@ -60,7 +63,7 @@ GitLab will explore adding vision coverage as a future iteration to our health b
 
 ## Life Insurance
 
-GitLab is currently reviewing implementing life insurance and disability in the following [issue](https://gitlab.com/gitlab-com/people-group/Compensation/issues/42).
+GitLab is currently reviewing implementing life insurance and disability in the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/44).
 
 ## Pension Introduction
 
@@ -208,6 +211,11 @@ Management charges vary by fund and are not on the fact sheets: use the charges 
 
 ## GitLab LTD United Kingdom Leave Policy
 
+*  Sick Leave
+     - Team members are entitled to Statutory Sick Pay (SSP) for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three "waiting" days. A team member who is out sick for at least four days, but no more than 7 days will need to complete a [Company Self-Certification Form](https://docs.google.com/document/d/1Cy-xUgWwNKroUEEJ0ut80HGVA0d3RJV5mQO-amLjoCs/edit?usp=sharing) and return it to total-rewards@gitlab.com. Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify Total Rewards (total-rewards@gitlab.com) as soon as possible.
+
+     - Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked. 
+
 * Statutory Maternity Leave
      - Mother can take up to a year. Six weeks is paid at the average income over the proceeding 18 weeks (includes commissions, variable pay, etc). The employee is paid at the statutory requirement over the next 33 weeks, and the remaining 13 weeks of the year is unpaid.
 
@@ -229,6 +237,10 @@ For a Maternity leave, once an employee notifies GitLab of the pregnancy, People
   * The team member will be paid through payroll made up of any statutory payments, and any further ‘topped up’ amounts supplemented by GitLab.
   * GitLab will be able to recover from the Government the 39 weeks of statutory maternity pay.
   * Maternity pay is taxable and liable for National Insurance deductions much in the same way that standard pay is.
+
+### Statutory Vacation Leave
+
+Team members are entitled to at least 28 vacation days which consist of 20 days of standard annual leave plus 8 public holidays. These days will accrue from the start date. It is important for UK team members to utilize time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. Under normal circumstances, there is no carryover for unused vacation days; however, given the situation surrounding COVID-19, the UK government has relaxed measures on the carry over of annual leave for the following two calendar years: 2020-2021 and 2021-2022.
 
 ## Employer's Liability Insurance
 

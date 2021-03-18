@@ -101,6 +101,12 @@ If you meet the criteria set forth above and find that you need additional time 
 * What is the last day to apply for COVID-19 Leave?
   * The ability to request COVID-19 Leave will run through March 31, 2021. That means, any requests for COVID-19 Leave must be made prior to March 31, 2021, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on March 31, 2021 for 4 weeks, the end date for their COVID-19 Leave would be April 30, 2021. As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
 
+## Expensing the COVID-19 Vaccine 
+
+In order to continue supporting our team members globally, we will be offering to cover the cost of the COVID-19 vaccine for team members where the cost is not fully covered by the local government. 
+
+Team members can use our [expense reimbursement](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement) process to submit the cost of their vaccine for reimbursement, remembering to [redact personal information](https://about.gitlab.com/handbook/finance/expenses/#redacting-personal-information-from-receipts) including protected health information. When adding this expense to Expensify, team members should use the tag (classification) `FY22_COVIDVaccine`. If you have already received and incurred a cost for the vaccine, you may still request reimbursement.  
+
 ## Resources for COVID-19
 
 GitLab is committed to the physical and mental wellbeing of all of our team members and wider community during the COVID-19 outbreak. We have put together this list to assist people in finding helpful resources when confronting different challenges during this time. This list is not exhaustive and contributions to it are encouraged. If you are experiencing difficulty breathing or any other life-threatening symptoms, please contact your country's emergency response system immediately.

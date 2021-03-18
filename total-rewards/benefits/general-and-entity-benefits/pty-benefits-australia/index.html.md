@@ -94,45 +94,55 @@ No, only on-call shifts outside of working hours (I.E. weekends, evenings, etc.)
 Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) by selecting the `On-Call Time in Lieu` option.
 
 
-### GitLab PTY Australia Parental Leave Administrative Details
+### GitLab PTY Australia Parental Leave
 
-**Statutory General Entitlement:**
-* Employees are able to take parental leave if they:
-  * have worked for their employer for at least 12 months before the date or expected date of birth if the employee is pregnant; and
-  * have or will have responsibility for the care of a child.
+#### Statutory Leave Entitlement
+All team members are entitled to up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of _additional_ unpaid parental leave. 
 
-**Australian Government Paid Parental Leave Scheme:**
-* Eligible employees who are the primary carer of a newborn or adopted child get up to 18 weeks' leave paid at the [national minimum wage](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay). If the employee has been at GitLab for one year, the Parental Leave paid through GitLab will be the regular salary minus the payments made from the national minimum wage. The employee will apply online by [claiming](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay/claiming) the benefit. If you are not eligible for the government benefit, but you are eligible for 100% of parental leave pay, please reach out to People Ops for review.
+#### Maternity Leave Payment
+* For team members with a yearly salary of $150,000 AUD or less:
+  * Eligible team members who are the primary carer of a newborn or adopted child can receive up to 18 weeks of government-funded Parental Leave Pay via [Centrelink](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay), which is paid at the national minimum wage. 
+  * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
+  * To receive the government-funded Parental Leave payment, please submit an application via [Centrelink](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay/claiming).
+  * Total Rewards will have to "accept" the Parental Leave Pay for team members via [Business Hub](https://www.servicesaustralia.gov.au/organisations/business/services/centrelink/paid-parental-leave-scheme-employers/what-you-need-know/your-role-scheme/accept-parental-leave-pay-employees).
+  * Parental Leave Pay can be claimed in one set period and one flexible period:
+    * The first (set) period consists of 12 weeks and must be taken in one continuous period within 12 months of the birth or adoption of a child.
+    * The second (flexible) period consists of 30 days and must be taken within 24 months of the birth or adoption of a child.
+* For team members with a yearly salary above $150,000 AUD:
+  * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
 
-**Record-keeping for paid parental leave:**
-* In addition to the usual record-keeping requirements, employers that have employees getting government-funded Parental Leave Pay also have to keep the following records:
-  * the amount of Parental Leave Pay funding received from the government for each employee and the period it covers
-  * the date each parental leave payment was made to the employee
+
+#### Paternity Leave Payment
+* Team members with a yearly salary of $150,000 AUD or less:
+  * Eligible team members can receive up to 2 weeks of government-funded Dad and Partner pay via [Centrelink](https://www.servicesaustralia.gov.au/individuals/services/centrelink/dad-and-partner-pay), to be paid at the national minimum wage.
+  * To receive the government-funded Parental Leave payment, please submit an application via [Centrelink](https://www.servicesaustralia.gov.au/individuals/services/centrelink/dad-and-partner-pay/how-claim).
+    * If approved, team members will receive payment directly from the Australian Government.
+    * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
+* Team members with a yearly salary above $150,000 AUD:
+  * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+
+#### Applying for Parental Leave in Australia
+* If you are applying for government-funded Parental Leave Pay, you can apply up to 3 months before your child's due date.
+* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+
+**Record-keeping for paid Parental Leave:**
+* In addition to the usual record-keeping requirements, employers that have team members getting government-funded Parental Leave Pay also have to keep the following records:
+  * the amount of Parental Leave Pay funding received from the government for each team member and the period it covers
+  * the date each parental leave payment was made to the team member
   * the period each payment covers
   * the gross amount of the payment
   * the net amount paid and the amount of income tax withheld (including other payments, if any, were made)
   * a statement identifying the payment as Parental Leave Pay under the Australian Government Paid Parental Leave Scheme
   * the amount of any deductions made from each payment.
 
-**Pay slips for parental leave payments:**
-* Employees who get Parental Leave Pay have to be given a pay slip for each payment. The pay slip must specify that the payments are Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
-* Ordinary pay slip requirements apply to pay slips given to employees getting government-funded Parental Leave Pay. They must also include:
+**Pay slips for Parental Leave payments:**
+* Team members who get Parental Leave Pay have to be given a pay slip for each payment. The pay slip must specify that the payments are Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
+* Ordinary pay slip requirements apply to pay slips given to team members getting government-funded Parental Leave Pay. They must also include:
   * the gross and net amounts of Parental Leave Pay and the amount of income tax deducted
   * if there are other payments on the pay slip, this information must be included as well as the total gross, net and income tax amounts
   * the amount of any deduction and the name and bank details of the entity the deduction was given to.
     * Only certain deductions can be made from Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
-
-### Applying for Parental Leave in Australia
-
-**Notice requirements:**
-* Employees who want to take unpaid parental leave need to give their employer notice that they are taking leave and confirm the dates.
-* If an employee can’t give the appropriate notice (eg. the baby is born prematurely) they will still be entitled to take the leave as long as they provide notice when they can.
-
-**10 weeks before starting leave:**
-* An employee has to give notice to their employer at least 10 weeks before starting their unpaid parental leave. This notice needs to be in writing, and say how much leave they want to take, including the starting and finishing dates. If an employee can’t give 10 weeks’ notice, they need to provide as much notice as possible.
-
-**4 weeks before starting leave:**
-* An employee has to confirm their parental leave dates with their employer at least 4 weeks before they are due to start their leave. If there have been any changes to the dates the employee should tell their employer as soon as possible. If an employee can’t provide 4 weeks’ notice, they need to provide as much notice as possible.
 
 
 ##  GitLab PTY New Zealand Specific Benefits
@@ -142,6 +152,11 @@ New Zealand team members are eligible for a one time reimbursement of up to $750
 
 ### Annual Leave
 Team members are entitled to a minimum of four weeks’ annual leave per year. Annual leave does not expire and can be carried over each year, but GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice. Annual leave runs concurrently with GitLab PTO. Team members must select the `Vacation` option in PTO by Roots when taking vacation time to ensure that annual leave entitlement is properly tracked.
+
+### On-call (Engineering-only)
+New Zealand employment law requires that working on a formal Public Holiday, including [on-call](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/), be compensated with a day off as time-in-lieu, and time-and-a-half pay.  Our policy above covers for the [time-in-lieu requirement](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only) but we do not yet have any mechanism for handling the extra pay requirements.
+
+Therefore, a New Zealand team member may not be on-call on a New Zealand Public Holiday, and must seek/find a replacement for any affected shifts
 
 ### Sick Leave
 
@@ -157,6 +172,22 @@ Team members in New Zealand are eligible to take paid time off according to our 
 * When the team member is taking leave for the first week of a non-work accident, they can use sick leave and/or annual leave if they have any. This leave runs concurrently with GitLab PTO. Team members must designate time off for injury as `Out Sick` or `Vacation` in PTO by Roots if they wish to use sick leave or annual leave for the first week of an injury. Team members must notify Total rewards (total-rewards@gitlab.com) as soon as possible when they will need to go out on injured leave.
 
 * If the leave will last longer than five days and is [covered by the Accident Compensation Corporation (ACC) scheme](https://www.acc.co.nz/im-injured/what-we-cover/), GitLab will top up the ACC payment from 80 to 100% for the first 25 days.
+
+### GitLab PTY New Zealand Parental Leave 
+
+#### Statutory Leave Entitlement
+Team members can take up to 52 weeks of unpaid parental leave if they have been with GitLab for at least 12 months. They can also request up to an additional 26 weeks of unpaid parental leave.
+
+#### Maternity Leave Payment
+* Team members can receive government-funded Parental Leave pay for up to 26 weeks.
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
+* To apply for government-funded Parental Leave pay, please submit your application via [IRD](https://www.ird.govt.nz/paid-parental-leave/apply). Total Rewards will have to fill out the "Employer Declaration" part of the [form](https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir880/ir880-2020.pdf).
+
+#### Paternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Applying for Parental Leave in New Zealand
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 ### Medical
 GitLab does not plan at this time to offer Private Health Insurance benefits because New Zealand residents can access free or subsidised medical care in New Zealand through the public healthcare system. Injuries and accidents are covered by the Accident Compensation Corporation cover.
