@@ -28,7 +28,7 @@ JiHu is an independent company and will set up their own terms of service and cu
 
 **Q. Has GitLab Inc. coordinated with the Chinese government to establish the new company?**
 
-No, Gitlab Inc. has not been working with the Chinese government. JiHu has been working with the Chinese government independently to file the required paperwork to become an official company in China and secure the appropriate licensing for the SaaS business, as required.
+No, GitLab Inc. has not been working with the Chinese government. JiHu has been working with the Chinese government independently to file the required paperwork to become an official company in China and secure the appropriate licensing for the SaaS business, as required.
 
 **Q. How will intellectual property work between GitLab Inc. and JiHu?**
   
@@ -36,9 +36,9 @@ There will be three distributions of the GitLab product: CE (Community Edition),
 
 GitLab and JiHu will use two separate repositories where GitLab’s repository will be upstream and JiHu’s repository will be downstream. Changes to GitLab CE and EE will be one-way mirrored to the JiHu Edition, however, changes to the JiHu Edition will not be mirrored back to GitLab CE and EE. 
 
-Instead of mirroring, JiHu will be able to contribute to the Community Edition and Enterprise Edition by following the same meticulous protocols we already have in place for our current contributors. Each contribution must meet Gitlab’s rigorous standards for security and code quality before being added to the GitLab application. 
+Instead of mirroring, JiHu will be able to contribute to the Community Edition and Enterprise Edition by following the same meticulous protocols we already have in place for our current contributors. Each contribution must meet GitLab’s rigorous standards for security and code quality before being added to the GitLab application. 
 
-As an independent company, JiHu will manage its own technologies and infrastructure. JiHu’s SaaS service (GitLab.cn) and Gitlab Inc.’s SaaS service (GitLab.com) will share no common infrastructure, networking connectivity, systems, services, data, or resources.
+As an independent company, JiHu will manage its own technologies and infrastructure. JiHu’s SaaS service (GitLab.cn) and GitLab Inc.’s SaaS service (GitLab.com) will share no common infrastructure, networking connectivity, systems, services, data, or resources.
 
 ![How the two repositories work](/images/faq/two-repositories.png){: .center}
 
@@ -51,7 +51,7 @@ The CE distribution will continue to be offered as FOSS (free open source softwa
 The EE distribution will be offered to customers outside of China and will not contain the JH distribution’s generally contributed features or code. All incremental contributions from JiHu to CE and EE will be upstreamed as merge requests to GitLab Inc.’s maintainers for enhanced security review prior to acceptance. 
 
 The JH distribution will only be offered to customers inside China. 
-[GitLab's code is source-available and the open source components of GitLab are published under an MIT open source license](/solutions/open-source/). Like the hundreds of contributions we receive each month from our global community, JiHu will contribute to GitLab CE and EE following the same meticulous protocols we already have in place. Each contribution must meet our rigorous standards for security and code quality before being added to the GitLab application. GitLab Inc. is the maintainer of CE and EE and is solely able to approve merge requests into CE and EE following our software supply chain security procedures. Gitlab Inc. will retain full merge rights and control over everything that goes into CE and EE.
+[GitLab's code is source-available and the open source components of GitLab are published under an MIT open source license](/solutions/open-source/). Like the hundreds of contributions we receive each month from our global community, JiHu will contribute to GitLab CE and EE following the same meticulous protocols we already have in place. Each contribution must meet our rigorous standards for security and code quality before being added to the GitLab application. GitLab Inc. is the maintainer of CE and EE and is solely able to approve merge requests into CE and EE following our software supply chain security procedures. GitLab Inc. will retain full merge rights and control over everything that goes into CE and EE.
 
 GitLab Inc. has also instituted additional code audit and security oversight for code contributed by JiHu and the open source community in China to ensure both quality and security. We will follow existing processes for security reviews for externally contributed code, with a focus on code functionality that includes any of the following: processing credentials/tokens, storing credentials/tokens, logic for privilege escalation, authorization logic, user/account access controls, and authentication mechanisms. The [GitLab Inc. Security team](/handbook/engineering/security/#security-department) will continue to work with our [Community Relations team](/handbook/marketing/community-relations/) to ensure that security reviews are conducted according to our established standards.
 
