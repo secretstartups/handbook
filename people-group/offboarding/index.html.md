@@ -12,7 +12,7 @@ description: "Offboarding procedures for all stakeholders"
 
 ## Offboarding Overview
 
-Facilitation of the offboarding process is shared by the GitLab [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/), [People Operations Specialists](https://about.gitlab.com/job-families/people-ops/people-operations/), [People Experience Team](https://about.gitlab.com/job-families/people-ops/people-experience-associate/), and various [Tech Stack Provisioners](https://about.gitlab.com/handbook/business-ops/tech-stack-applications/).
+Facilitation of the offboarding process is shared by the GitLab [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/), [People Operations Specialists](https://about.gitlab.com/job-families/people-ops/people-operations/), [People Experience Team](https://about.gitlab.com/job-families/people-ops/people-experience-associate/), [Team Member Relations Specialist](https://about.gitlab.com/job-families/people-ops/people-operations/) and various [Tech Stack Provisioners](https://about.gitlab.com/handbook/business-ops/tech-stack-applications/).
 
 The process to be followed will be guided by the nature of the offboarding at hand i.e. either **Voluntary** or **Involuntary** - both of which have been described in greater detail below.  Each of the stakeholders listed play a critical role in ensuring that offboarding takes place in a manner that is efficient and best serves the unique needs and sensitivities surrounding the respective team members situation.
 
@@ -88,9 +88,9 @@ If resignation is the only solution after you have discussed your concerns, plea
 
 ### Voluntary Process
 
-1. ***Team Member***: Team members are requested to provide an agreed upon notice of their intention to separate from the company to allow a reasonable amount of time to transfer ongoing workloads.
-1. ***Team Member***: The team member should provide a written resignation letter or email notification to their manager.
-1. ***PBP***: Upon receipt of the resignation, the manager will notify the People Business Partner (PBP) by sending a copy of the resignation email/letter.
+1. **Team Member**: Team members are requested to provide an agreed upon notice of their intention to separate from the company to allow a reasonable amount of time to transfer ongoing workloads.
+1. **Team Member**: The team member should provide a written resignation letter or email notification to their manager.
+1. **PBP**: Upon receipt of the resignation, the manager will notify the People Business Partner (PBP) by sending a copy of the resignation email/letter.
     * A discussion with the  manager and PBP should also happen if needed to determine what led up to the resignation.
     * The PBP will acknowledge the receipt of the resignation with the team member confirming the last working day. Feel free to reference this [example email](https://docs.google.com/document/d/1rZvczqEuyyFDAzjheiF4LpcLuvj9fFd6maPOSDwkYpQ/edit).
     * **If the team member is located in a country with statutory holiday allowance**, the holiday taken should be confirmed with the manager and team member via email and then filed in BambooHR.
@@ -99,26 +99,24 @@ If resignation is the only solution after you have discussed your concerns, plea
 
     _Note: For GitLab UK team members, payroll can pay up to and including the 5th day of the following month. For example, if a team member's last day is February 2nd, the team member can receive their final pay for this in January's payroll._
 
-1. ***PBP***: The PBP will also inform the team member that they will receive an invitation in the next 48 hours from CultureAmp to complete an exit survey.
-1. ***PBP***: PBP will forward the resignation email to the People Experience team at `people-exp@gitlab.com`, the People Operations Specialist team email inbox `peopleops@gitlab.com`, as well as to the payroll lead. The PBP will indicate the last day, reason for resignation, and rehire eligibility in the email. 
+1. **PBP**: The PBP will also inform the team member that they will receive an invitation in the next 48 hours from CultureAmp to complete an exit survey.
+1. **PBP**: PBP will forward the resignation email to the People Experience team at `people-exp@gitlab.com`, the People Operations Specialist team email inbox `peopleops@gitlab.com`, as well as to the payroll lead. The PBP will indicate the last day, reason for resignation, and rehire eligibility in the email. 
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
-1. ***Specialist***: The People Specialist will save a pdf of the resignation email to the team member's BambooHR profile in their `Contracts & Changes` folder. 
-1. ***Specialist***: The Specialist will add the offboarding to the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=488708224) in the `Specialist Offboardings` tab and add their name as a DRI, or ping the other Specialists to be certain that there is a fair balance and rotation of who is the DRI.
-1. ***PBP***:The PBP will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9), which includes all information needed to process the termination for the team member. Once submitted, a summary of the response will be posted to the `#offboardings` Slack channel so all stakeholders can acknowledge the offboarding. 
-
-    
-1. ***Experience***: The People Experience Team will determine who will create the offboarding issue according to the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/), and confirm both in the `#offboardings` Slack channel and in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=0).
+1. **Specialist**: The People Specialist will save a pdf of the resignation email to the team member's BambooHR profile in their `Contracts & Changes` folder. 
+1. **Specialist**: The Specialist will add the offboarding to the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=488708224) in the `Specialist Offboardings` tab and add their name as a DRI, or ping the other Specialists to be certain that there is a fair balance and rotation of who is the DRI.
+1. **PBP**:The PBP will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9), which includes all information needed to process the termination for the team member. Once submitted, a summary of the response will be posted to the `#offboardings` Slack channel so all stakeholders can acknowledge the offboarding. 
+1. **Experience**: The People Experience Team will determine who will create the offboarding issue according to the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/), and confirm both in the `#offboardings` Slack channel and in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=0).
     
     * _Note: For resignations from Director-level and above, or for departures that have significant context pre-dating the exit interview that can help make the discussion more effective, the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) will send out the exit survey and conduct the exit interview._     
     
-1. ***Specialist***: The People Specialist will reach out to the team member directly to schedule an Exit Interview. A brief training on how to start and conduct exit interviews can be found [here](https://docs.google.com/presentation/d/1QCd6QLKcgCEzncJ2zdeDsnA6zlWFAmZre69Q1LKycJ0/edit?usp=sharing) (internal only)
+1. **Specialist**: The People Specialist will reach out to the team member directly to schedule an Exit Interview. A brief training on how to start and conduct exit interviews can be found [here](https://docs.google.com/presentation/d/1QCd6QLKcgCEzncJ2zdeDsnA6zlWFAmZre69Q1LKycJ0/edit?usp=sharing) (internal only)
       * The assigned People Specialist will first send out the Offboarding Informational Email according to the appropriate template. Current templates include [USA](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_usa.md), [Canada](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_canada.md) and [all other countries](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_all_countries.md).
       * The assigned People Specialist will then send out the Exit Survey via Culture Amp (using the Exit Survey template in Culture Amp) and communicate with the departing team member to mention that they would like to schedule a non-mandatory exit interview, to occur during the team member's last week. 
       * To send the Exit Survey, log into Culture Amp and click on `Surveys` from the top menu bar. Select `Exit Survey` and select the `start` exit button - this will allow the People Specialist to assign the survey to the departing team member.
       * Remind the departing team member it is necessary to complete the [Exit Survey](#exit-survey) _prior_ to the Exit Interview so it can be discussed.
       * Before the exit interview the interviewer (The People Specialist and/or People Business Partner) should make sure to carve out time to review the Exit Survey answers and prepare for the interview. If any voilations to our Code of Conduct are mentioned in the exit survey, these should be discussed first in the exit interview. 
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
-1. ***Experience***: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Important to note that offboardings which are scheduled to take place on a Friday will see issues being created at the latest 12:00pm PT at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
+1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Important to note that offboardings which are scheduled to take place on a Friday will see issues being created at the latest 12:00pm PT at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
 
 #### Team Member Actions
 
@@ -152,14 +150,14 @@ If the need for Involuntary offboarding arises, the process is as indicated belo
 
 #### Last Working Day or Garden Leave
 
-Team members on `Last Working Date` or `Garden leave` will have no access to GitLab systems and may not be required to do any work on GitLab's behalf, but will still be active on payroll through the termination date. The People Experience team will generate the offboarding issue at the end of the team member's last working day, as per notification from the People Business Partner. Once the `Last Working Day` or Garden leave expires the team member will be officially offboarded from GitLab.  Prior to the offboarding issue and the overall process for the term listed below.  The PBP will complete the following:
+Team members on `Last Working Date` or `Garden leave` will have no access to GitLab systems and may not be required to do any work on GitLab's behalf, but will still be active on payroll through the termination date. The People Experience team will generate the offboarding issue at the end of the team member's last working day, as per notification from the  Team Member Relations Specialist (TMR) or the People Business Partner (PBP). Once the `Last Working Day` or Garden leave expires the team member will be officially offboarded from GitLab.  Prior to the offboarding issue and the overall process for the term listed below.  The PBP will complete the following:
 
 `Last Working Day` - Only for US Team members
 
 
-*  ***PBP***: PBP will have a legal/CPO review of the planned offboarding.
-*  ***PBP***: PBP will inform payroll, compensation and benefits, security and the stock administration of the date the team member will have access suspended and the official offboarding date prior to the start of the official offboarding issue.  The PBP can either inform the group via the confidential #offboardings channel 1-2 days prior to the scheduled exit or via a zoom call.  
-*  ***PBP***: PBP will work with the People Experience Team to ensure the offboarding issue has the correct dates and all GitLab offboarding team members in payroll, compensation and benefits, security and stock administration have been communicated to and understand the correct offboarding date. 
+*  ***TMR***: TMR will have a legal/CPO review of the planned offboarding.
+*  ***TMR***: TMR will inform payroll, compensation and benefits, security and the stock administration of the date the team member will have access suspended and the official offboarding date prior to the start of the official offboarding issue.  The TMR can either inform the group via the confidential #offboardings channel 1-2 days prior to the scheduled exit or via a zoom call.  
+*  ***TMR***: TMR will work with the People Experience Team to ensure the offboarding issue has the correct dates and all GitLab offboarding team members in payroll, compensation and benefits, security and stock administration have been communicated to and understand the correct offboarding date. 
 
 _Note: The offboarding process will remain the same as listed below in the `Involuntary Process` section below. The People Specialist will notify the team via the confidential #offboardings Slack channel to start turning off the team member's access._ 
 
@@ -167,28 +165,28 @@ _Note: The offboarding process will remain the same as listed below in the `Invo
 
 The manager and the team member should have walked through the guidelines on [underperformance](/handbook/leadership/underperformance) before reaching this point.
 
-1. ***Manager***: Reach out to the appropriate People Business Partner (PBP) for assistance.
-    * PBP will ask about what the performance issues have been, how they have been attempted to be addressed, and review all manager/team member documentation.
-    * Once the review has been completed and the decision has been made to offboard the team member, the PBP will partner with the People Specialists to coordinate the offboarding of the team member.
-1. ***PBP***: The PBP will notify the People Operations Specialist team of the offboarding by posting in the `#Offboardings` confidential Slack channel. The PBP will indicate the team member's name, last day, reason for resignation, and rehire eligibility. The first Specialist to respond to the post will be the Specialist that partners with the PBP for the offboarding process.<br>
+1. ***Manager***: Reach out to the their TMR specialist for assistance.
+    * TMR will ask about what the performance issues have been, how they have been attempted to be addressed, and review all manager/team member documentation.
+    * Once the review has been completed and the decision has been made to offboard the team member, the TMR will partner with the People Specialists to coordinate the offboarding of the team member.
+1. ***TMR***: The TMR will notify the People Operations Specialist team of the offboarding by posting in the `#Offboardings` confidential Slack channel. The TMR will indicate the team member's name, last day, reason for resignation, and rehire eligibility. The first Specialist to respond to the post will be the Specialist that partners with the TMR for the offboarding process.<br>
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
-1. ***PBP***: The PBP will create a private Slack channel that will include the PBP, Manager, and Leader of the organization to review the offboarding and agreed upon offboarding date. 
-1. ***Specialist***: If applicable, the People Specialist will prepare the severance agreement in preparation for the call between the PBP, Manager, and team member. Additional guidelines for the preparation of this agreement can be found below in the [Separation and Release of Claims Agreements](#separation-agreement) section. To determine whether or not a severance agreement is applicable, please refer to the `Severance Elgibility` guidelines accessible by PBPs and Specialists. 
-   _Note: For any severance that has less than 48 hours turn around the People Business Partners will handle._
-1. ***Manager***: Once the date and time is confirmed, the manager will schedule time with the team member and send the PBP a _private and separate calendar invite_ with the Zoom details for the meeting with the team member to share the news of the offboarding. 
+1. ***TMR***: The TMR will create a private Slack channel that will include the PBP, Manager, and Leader of the organization to review the offboarding and agreed upon offboarding date. 
+1. ***Specialist***: If applicable, the People Specialist will prepare the severance agreement in preparation for the call between the TMR specialist, Manager, and team member. Additional guidelines for the preparation of this agreement can be found below in the [Separation and Release of Claims Agreements](#separation-agreement) section. To determine whether or not a severance agreement is applicable, please refer to the `Severance Elgibility` guidelines accessible by PBPs, Team Member Relations Specialist and People Specialists. 
+   _Note: For any severance that has less than 48 hours turn around the Team Member Specialist will handle._
+1. ***Manager***: Once the date and time is confirmed, the manager will schedule time with the team member and send the TMR specialist a _private and separate calendar invite_ with the Zoom details for the meeting with the team member to share the news of the offboarding. 
 1. ***Payroll***: If the team member is employed by a PEO/entity with statutory leave requirements, review if any time off needs to be paid on the last paycheck by looking in BambooHR in the `Time Off` section.
 1. ***People Experience Associate***: The PEA will confirm and coordinate the date and time of the offboarding and who will be available to assist with the offboarding. At this stage, the name of the departing team member is ***not*** yet shared. To share this information, the People Business Partner will complete the [Offboarding Form](https://forms.gle/HzUAVCgTJ4v5HSSA9). Once submitted a summary of the response will be posted to the `#offboarding` Slack channel. 
  
-1. ***PBP/Manager***: Discuss best mode of communicating the bad news to the team member. This discussion can happen via a private chat-channel, but it is best to be done via video.
-1. ***PBP/Manager***: Decide who will handle which part of the conversation, and if desired, practice it.
-    * If needed the PBP will provide the manager with a script for the offboarding meeting. 
-1. ***PBP/Manager***: If the team member who is being terminated is a people manager, a _communication plan for the team_ regarding the departure should be in place before the offboarding proceeds. The communication plan should include: identification of an interim leader, (ideally) a scheduled meeting with the interim leader for the direct reports, a scheduled team call to announce the current manager's departure and the interim leadership, and finally an announcement in the `#team-member-updates` Slack channel to share with the wider team. 
+1. ***TMR/Manager***: Discuss best mode of communicating the bad news to the team member. This discussion can happen via a private chat-channel, but it is best to be done via video.
+1. ***TMR/Manager***: Decide who will handle which part of the conversation, and if desired, practice it.
+    * If needed the TMR will provide the manager with a script for the offboarding meeting. 
+1. ***TMR/Manager***: If the team member who is being terminated is a people manager, a _communication plan for the team_ regarding the departure should be in place before the offboarding proceeds. The communication plan should include: identification of an interim leader, (ideally) a scheduled meeting with the interim leader for the direct reports, a scheduled team call to announce the current manager's departure and the interim leadership, and finally an announcement in the `#team-member-updates` Slack channel to share with the wider team. 
    * Important: 
       * Informing the team and answering questions should be the top priority.
       * No announcement should be made in the `#team-member-updates` Slack channel until the team call has been completed.
       * In most cases, a team call can occur the same day of the offboarding. If necessary, the offboarding can be announced in the `#team-member-updates` Slack channel the following day.
-1. ***PBP/Manager***: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager and Leader.
-1. ***PBP***: If the team member is a risk to the production environment, the PBP should privately reach out to the `Infrastructure Managers` to determine who will be available to assist with the offboarding. Once an infrastructure team member has been identified, they should be added to the private calendar invite sent to People Experience, Security, and Payroll to hold the time for the team member offboarding. Once the offboarding conversation starts the PBP will privately Slack the infrastructure contact the name of the team member to start the offboarding process.
+1. ***TMR/Manager***: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager and Leader.
+1. ***TMR***: If the team member is a risk to the production environment, the TMR should privately reach out to the `Infrastructure Managers` to determine who will be available to assist with the offboarding. Once an infrastructure team member has been identified, they should be added to the private calendar invite sent to People Experience, Security, and Payroll to hold the time for the team member offboarding. Once the offboarding conversation starts the TMR will privately Slack the infrastructure contact the name of the team member to start the offboarding process.
 
 When on the call...
 
@@ -197,12 +195,12 @@ When on the call...
 _"Thanks for joining the call, [team member name].
 Unfortunately, the reason I wanted to speak with you is because we have decided that we have to let you go and end your employment / contract with GitLab because of xyz."_
 
-1. ***PBP***: As soon as the conversation begins, the PBP will ping the team members in the confidential `#offboardings` Slack channel with the name of the team member to immediately start the offboarding process.
+1. ***TMR***: As soon as the conversation begins, the TMR will ping the team members in the confidential `#offboardings` Slack channel with the name of the team member to immediately start the offboarding process.
 1. ***People Operations Specialist***:The assigned People Specialist send out the Offboarding Informational Email according to the appropriate template. Current templates include [USA](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/Offboarding_Involuntary_USA.md),[Canada](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/Offboarding_Involuntary_Canada.md) and[Other countries](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/Offboarding_Involuntary_Other_countries.md)
-1. ***Manager***: Hand the call over to the PBP to continue. 
-1. ***PBP***: The PBP will also make it clear that the decision is final, but also will genuinely listen to the team member's side of the story since there may be useful lessons in what they say for the rest of the team e.g. regarding hiring and vetting practices.
-1. ***PBP***: Make sure to communicate the [practical points](#offboarding-points) from the offboarding memo outlined below.
-1. ***PBP***: Once the conversation is complete, the PBP will stage the severance document in HelloSign for review and signatures.
+1. ***Manager***: Hand the call over to the TMR to continue. 
+1. ***TMR***: The TMR will also make it clear that the decision is final, but also will genuinely listen to the team member's side of the story since there may be useful lessons in what they say for the rest of the team e.g. regarding hiring and vetting practices.
+1. ***TMR***: Make sure to communicate the [practical points](#offboarding-points) from the offboarding memo outlined below.
+1. ***TMR***: Once the conversation is complete, the TMR will stage the severance document in HelloSign for review and signatures.
 
 ## Offboarding Workflow 
 This section will define key terms in offboarding workflow google form. 
@@ -265,7 +263,7 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 1. ***Specialist***: The People Specialist assigned to the particular offboarding case at hand should select the appropriate severance template. Options include: Non-California over 40, California over 40, Non-California under 40, California under 40. 
 1. ***Specialist***: The People Specialist should make a copy of the template and save it in the `Copies of Individual Severance Agreements` folder. 
 1. ***Specialist***: The People Specialist should fill out the document and share with the PBP and Legal for final review/approval. 
-1. ***PBP***: The PBP will stage the document in HelloSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
+1. ***TMR***: The TMR will stage the document in HelloSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
 
 
 
@@ -274,8 +272,8 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
     *  Select the `assign signature order` option in HelloSign to ensure the team member signs the document first
     *  All US severance agreements should be signed by Pattie Egan, VP of People Operations.  If Pattie is unavailable then Wendy Nice Barnes, CPO will be responsible for signing.
     
-1. ***PBP***: When the signed document is received, the Specialist should upload it to the team member's BambooHR profile in the `termination` folder
-1. ***PBP***: As a final step, the PBP should ping the `#payoll_peopleops_terms` private channel to confirm that the Severance document has been signed and uploaded to BambooHR
+1. ***TMR***: When the signed document is received, the Specialist should upload it to the team member's BambooHR profile in the `termination` folder
+1. ***TMR***: As a final step, the PBP should ping the `#payoll_peopleops_terms` private channel to confirm that the Severance document has been signed and uploaded to BambooHR
 
 _Important Notes:_
 * Separation pay is not paid until the ex-team member signs the document and the revocation period has passed.
