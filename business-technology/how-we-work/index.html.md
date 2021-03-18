@@ -132,3 +132,9 @@ Issue weight is an estimate of how much time is required to complete the tasks i
 
 In the spirit of using our own platform, we label features we request or support with the label `BT-Feature Wanted`.<br>
 [Check out](https://gitlab.com/groups/gitlab-org/-/boards/1355408) our issue board with this label.
+
+## Tools
+### Rolly
+Rolly is a program status rollup automation tool.
+
+See [Rolly](rolly)

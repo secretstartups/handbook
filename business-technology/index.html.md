@@ -54,7 +54,7 @@ description: "Business Technology"
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> What's happening?
 
-- [FY21 Q4 OKRs Business Technology](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/187)
+- [FY22 OKRs Business Technology](https://gitlab.com/gitlab-com/business-technology/okrs/-/blob/master/README.md)
 - [CIO Speaker Series](https://www.youtube.com/watch?v=dHtIR7Oya6o&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ)
     - **Stephen Franchetti, CIO and VP of Business Technology, Slack** - [2020-08-19. **Topic:** Business Technology Rebranding](https://youtu.be/j9vjNMVuL9c)
     - **Eric Johnson, CIO, Survey Monkey** - [2020-09-16. **Topic:** Business Engagement](https://www.youtube.com/watch?v=dHtIR7Oya6o)
