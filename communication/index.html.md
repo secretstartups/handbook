@@ -651,21 +651,21 @@ Some of the most common meetings problems are outlined below:
 
 ### Pre-Recorded Presentations Are Mandatory 
 
-Meetings take up valuable time and resources for the company. Meetings are inconvenient for participants and having a pre-recorded presentation, versus presenting during the meeting, enables participants to receive maximum benefit from the meeting time. By pre-recording the presentation, team members can comprehend the information presented asynchronously. 
+Meetings take up valuable time and resources for the company. Meetings are inconvenient for attendees, and having a pre-recorded presentation, versus presenting during the meeting, enables attendees to receive maximum benefit from the meeting time. Pre-recording the content will allow team members to comprehend the information presented asynchronously. 
 
-When using meeting time for presentations, valuable material will be ignored due to selective watching by meeting participants. Team members are often multitasking during meetings and selective attention towards the content cannot be guaranteed. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content on their own time. 
+Team members are often multitasking during meetings and cannot guarantee selective attention towards the content. When using meeting time for presenting slides, valuable material will be ignored due to attendees' selective watching. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content on their own time. 
 
-Make a pre-recorded video presentation on YouTube Unfiltered, and attach it to the meeting agenda. Announce in Slack Channels that the meeting has a pre-recorded video and all attendees are recommended to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides. 
+Make a pre-recorded video presentation on YouTube Unfiltered, and attach it to the meeting agenda. Announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides. 
 
 Pre-recorded presentations are mandatory for the following reasons: 
-1. Enables meeting participants to have their questions answered on the topic presented.
+1. Enables meeting attendees to have their questions answered on the topic presented.
 2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it allows team members in different time zones to consume the presentation material on their own time. 
-3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the efficiency of the meeting time to ensure that team members have their voices heard during the Q&A. 
+3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A. 
 4. Standardizes the approach to meetings across the organization. 
-5. Pre-recorded meetings have transcripts that can boost the value of content, help team member focus, and increase accessibility. 
-6. Recordings can be speed up and rewound by team members watching on their own time. 
-7. Enables [nuerodiverse](https://about.gitlab.com/handbook/values/#neurodiversity) equality for all team members who may prefer audio versus visual.  
-8. Allows for selective watching of presentation material for a certain period of time. 
+5. Pre-recorded meetings have transcripts that can boost content value, help team members focus, and increase accessibility. 
+6. Recordings can be sped up and rewound by team members watching on their own time. 
+7. Enables [nuerodiverse](/handbook/values/#neurodiversity) equality for all team members who may prefer audio versus visual learning.  
+8. Allows for selective watching of presentation material for a certain period. 
 
 ## Indicating Availability
 
