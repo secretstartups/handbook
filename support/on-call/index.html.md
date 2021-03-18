@@ -15,6 +15,7 @@ description: >-
 ## On-call in GitLab Support
 
 There are four on-call rotations in Support:
+
 - [CMOC](/handbook/support/workflows/cmoc_workflows.html) - in which Support Engineers drive public communication in the incident management process during GitLab.com operational emergencies.
 - **Customer Emergencies** (currently covered on this page)- in which Support Engineers respond to and coordinate the resolution of emergency reports from Self-managed and GitLab.com customers
 - [US Federal Emergencies](#us-federal-on-call) - which is similar to Customer Emergencies, but has different hours and a US Citizen requirement to participate in
@@ -122,14 +123,13 @@ When your on-call shift starts, you should get notification(s) that your shift i
 1. If you are simultaneously on an [FRT or SLA Hawk shift](/handbook/support/workflows/meeting-service-level-objectives.html), ask in Slack for someone to takeover those duties.
 1. Create a Public Comment in the ticket acknowledging the emergency; offer a Zoom call to the customer.
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.
-1. Start a thread in `#support_self-managed` with the ticket link. _"Thread for emergency ticket LINK HERE"_.
+1. Start a thread in `#support_self-managed` or `#support_gitlab-com` with the ticket link. _"Thread for emergency ticket LINK HERE"_.
 1. **OPTIONAL:** Consult our [definitions of support impact](/support/#definitions-of-support-impact) and evaluate the customer's problem statement against the "Emergency" definition there. Even if you don't think that this qualifies as an emergency, follow the guidance given in the [Assume Good Intent](#assume-good-intent) section.
 1. After 15 minutes, if the customer has not responded to our initial contact with them, send a follow up message covering the following points:
-    * The bridge created to work on the emergency.
-    * If the customer is not able to join immediately, we can make other arrangements.
-    * After another 15 minutes without response the bridge will be close and the ticket will be assigned a `HIGH` priority.
-    * Feel free to open a new emergency request if the need arises.
-
+    - The bridge created to work on the emergency.
+    - If the customer is not able to join immediately, we can make other arrangements.
+    - After another 15 minutes without response the bridge will be close and the ticket will be assigned a `HIGH` priority.
+    - Feel free to open a new emergency request if the need arises.
 
 **NOTE:** If you need to reach the current on-call engineer and they're not accessible on Slack (e.g., it's a weekend, or the end of a shift), you can [manually trigger a PagerDuty incident](https://support.pagerduty.com/docs/incidents#section-manually-trigger-an-incident) to get their attention, selecting **Customer Support** as the Impacted Service and assigning it to the relevant Support Engineer.
 
@@ -191,21 +191,19 @@ For example:
 
 When the call has ended:
 
-1. Write post-call notes relevant to the customer in a public reply on the ticket.
+1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 
-## GitLab.com Emergencies
+## SaaS Emergencies
 
-Starting Sept 2020, we're beginning to trial GitLab.com emergency support with a small number of customers. The initial workflow for these calls is the same as with self-managed emergencies.
+The workflow for these calls is the same as with self-managed emergencies.
 However, you have additional visibility into problems that a customer may be facing that they will not.
 
 Review:
 
 - [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
 - [Using Sentry](/handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
-
-During this trial period, please page the manager on-call using `/pd-support-manager` for any GitLab.com emergencies so they can offer additional support.
 
 After you have identified the error and found reproduction steps, it's likely that you'll need to [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
 and coordinate with incident management team to reach resolution. If the error is a result of a product defect, you may also need to engage the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/).
