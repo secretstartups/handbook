@@ -54,9 +54,10 @@ The first step in the Incident Review process is the synchronous review of the i
 
 ### Review of Root Causes and Corrective Actions
 
-Incident reviews second step is engaging with the customer, through the point of contact such as a TAM. This should always involve sharing the findings from the first step in an async form. In case of a customer requiring a sync to discuss the finding, the Infrastructure management will organise the discussion with important stakeholders of this process, per defined [timelines](#incident-review-timeline)
+Incident reviews second step is engaging with the customer, through the point of contact such as a Technical Account Manager (TAM). TAM can self-serve by reviewing the [SaaS weekly meeting](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) for an overview of recent incidents, and reviewing the findings from the first step in an async form. In case of a customer requiring a sync to discuss the finding, TAM can engage with the Infrastructure management to organise the discussion with important stakeholders of this process, per defined [timelines](#incident-review-timeline):
 
-1. IMOC for the Incident updates the TAM team on expected AIR timelines.
+1. The TAM team reviews the findings provided in an async form.
+1. If the information is not available in async form, the TAM team can engage with Infrastructure management on expected review authoring timelines.
 1. IMOC provides TAM published review. IMOC can also include a recording of the review, if the recording does not contain sensitive information.
 1. TAM communicates to IMOC whether their customer(s) would like a synchronous review and the TAM schedules a review with the customer.
 1. TAM facilitates Customer access to the review and the Customer can add a set of questions prior to the meeting and all participants can collaborate on any changes or additions to corrective actions.
