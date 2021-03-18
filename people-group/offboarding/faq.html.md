@@ -22,7 +22,7 @@ Your access will be deactivated on your last day, when the offboarding issue is 
 
 ##### Do I need to wipe my laptop?
 
-A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address. If you have an apple computer, please ensure you have enrolled in [JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) prior to your final day. Please under no circumstance should you perform your own disk wipe on the laptop. If someone from IT does not reach out within 1-2 business days prior to offboarding please send an email to it-help@gitlab.com
+A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address. If you have an Apple computer, please ensure you have enrolled in [JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) prior to your final day. Please under no circumstance should you perform your own disk wipe on the laptop. If someone from IT does not reach out within 1-2 business days prior to offboarding please send an email to it-help@gitlab.com
 
 ##### Is there anything I need to do to get my offboarding issue created?
 
@@ -34,6 +34,7 @@ The following can be used as a guide on what actions could need to be taken befo
 
 - Unassign / Reassign any open projects, issues or merge requests to other team members or your manager. Use the [Global Search](https://docs.google.com/spreadsheets/d/1kVpBWDgxEp3zLyurE5Q9zpeDrGjWcDB7wb11uBl89ZQ/edit#gid=0) function and search your gitlab handle. 
 - [Install JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
+- Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
 - Prepare a handover document for your team / manager. 
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable). 
 - If you feel comfortable, send a message in the `team-member-updates` Slack channel notifying everyone of your departure. 
