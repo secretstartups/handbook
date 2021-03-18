@@ -74,9 +74,9 @@ Managing underperformance is very important because it reinforces acceptable sta
 It is hard because frequently the underperformance is due to a mistake we made in hiring, on boarding, and/or coaching.
 It is also hard because it is a hard message to give and receive that someone's performance is not adequate.
 
-### Loop in your People Business Partner (PBP)
+### Loop in the Team Member Relations Specialist
 
-Looping in your [aligned People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) early is essential. PBPs can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your PBP prior to delivering any formal action plan to team members. 
+Looping in the [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) early is essential. The TMR specialist can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR specialist prior to delivering any formal action plan to team members. 
 
 ## Frequency and Metrics
  
@@ -110,7 +110,7 @@ Managers are expected to address performance concerns (poor results and/or behav
 Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Tempate](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback. 
 
 Helping GitLab team-members understand clearly how their performance is below the standard expected quickly is very important to foster immediate improvement and continued success. It is also important to clarify when feedback given can provide helpful coaching vs. when to address a serious performance issue. It is not always clear how serious the feedback being provided is and setting the context can be critical.
-If there are extenuating circumstances, some leeway may be granted depending on the situation. This is an area where a People Business Partner can provide a sounding board or voice of reason.
+If there are extenuating circumstances, some leeway may be granted depending on the situation. This is an area where a People Business Partner or the Team Member Relations Specialist can provide a sounding board or voice of reason. 
 
 When underperformance is detected, managers compensate by checking their report's work more frequently. The company results should not be affected more than through under-hiring where the position was vacant and others would step in to compensate.
 
@@ -132,11 +132,11 @@ A Written warning should be communicated by email. The manager will then save th
 
 ### Performance Enablement Plan (PEP)
 
-When coaching a team member is not yielding the performance results desired the manager can move to a Performance Enablement Plan (PEP), as an alternative, before moving to a PIP.  The PEP process helps managers and team members identify areas for improvement, set goals, and measure progress. However, unlike a PIP, an unsuccessful PEP does not result in offboarding but may lead to a PIP.  In some instances after a PEP if a manager believes that a PIP would be unsuccessful then a discussion around the team members continued employment with GitLab will occur.  A PEP is usually set for a short period of time, normally 1 month.  During this time the manager and team member will work together in building the plan and the monitoring progress.  A [PEP Template](https://docs.google.com/document/d/1Gel5ebzMHy0MMqwCqd-fm2DH6wjVpt7ktHqwLiDoxoE/edit) is provided for your reference.  To use, notify the People Business Partner (PBP) of your intention to deliver a PEP in advance, then simply make a copy and share with the team member.  Please note the Performance Enablement Plan is not a career development tool.  This is to be used to address performance issues and start the process for corrective action.  Managers are highly recommended that they utilize the PEP before moving to a formal PIP. Once a PEP is delivered, the PBP will upload it to the document section in BambooHR and change the employment status to PEP for the duration of the PEP.
+When coaching a team member is not yielding the performance results desired the manager can move to a Performance Enablement Plan (PEP), as an alternative, before moving to a PIP.  The PEP process helps managers and team members identify areas for improvement, set goals, and measure progress. However, unlike a PIP, an unsuccessful PEP does not result in offboarding but may lead to a PIP.  In some instances after a PEP if a manager believes that a PIP would be unsuccessful then a discussion around the team members continued employment with GitLab will occur.  A PEP is usually set for a short period of time, normally 1 month.  During this time the manager and team member will work together in building the plan and the monitoring progress.  A [PEP Template](https://docs.google.com/document/d/1Gel5ebzMHy0MMqwCqd-fm2DH6wjVpt7ktHqwLiDoxoE/edit) is provided for your reference.  To use, notify the TMR specialist of your intention to deliver a PEP in advance, then simply make a copy and share with the team member.  Please note the Performance Enablement Plan is not a career development tool.  This is to be used to address performance issues and start the process for corrective action.  Managers are highly recommended that they utilize the PEP before moving to a formal PIP. Once a PEP is delivered, the TMR specialist will upload it to the document section in BambooHR and change the employment status to PEP for the duration of the PEP.
 
 You may reference this template as a guideline for [Communication to Team Member After Successful PIP/PEP Completion](https://docs.google.com/document/d/1USeIvAH7ND1Cw8mh1QQ0dY_Ym37Z3QFXbz98648pGRY/edit), and this template for [Successful PEP/PEP Template for Managers](https://docs.google.com/document/d/1hDdn4otiaXZrdmZRQe8Uc9oSVkmYU7SGG3l-NyLNd1c/edit).
 
-The People Business Partner (PBP) should stage the PEP document for the team members signature in HelloSign after the manager has delivered and reviewed the PEP with the team member. The team member's signature serves as an acknowledgement that they have received and understand the PEP. 
+The Team Member Relations Specialist (TMR) should stage the PEP document for the team members signature in HelloSign after the manager has delivered and reviewed the PEP with the team member. The team member's signature serves as an acknowledgement that they have received and understand the PEP. 
 
 
 ### Performance Improvement Plan (PIP)
@@ -209,27 +209,27 @@ A performance improvement plan includes the following:
     - Present the PIP to them on the call and go through it with them. Read it verbatim and don't deviate from it or think of other things to add during the call
     - Re-iterate that you want them to improve and you're there to support them. You will be checking their progress each week (or day if really necessary)
     - Ask them if they have any questions
-    - Inform the People Business Partner that the PIP conversation has taken place and the document have been sent to the team member.
-    - Once the PIP has been presented to the team member the PBP will upload in Hellosign and send for the team members signature.  Signing the document does not mean a team member agrees with the PIP but acknowledges that the PIP conversation between the manager and team member has occurred. 
-    - Once the PIP is signed and returned, the PBP will upload it to the document section in BambooHR and change the employment status to PIP for the duration of the PIP. 
+    - Inform the Team Member Relations Specialist (TMR) that the PIP conversation has taken place and the document have been sent to the team member.
+    - Once the PIP has been presented to the team member the TMR will upload in Hellosign and send for the team members signature.  Signing the document does not mean a team member agrees with the PIP but acknowledges that the PIP conversation between the manager and team member has occurred. 
+    - Once the PIP is signed and returned, the TMR will upload it to the document section in BambooHR and change the employment status to PIP for the duration of the PIP. 
 1. Typically, a team member gets time (2-4 weeks depending on the role and circumstances) to demonstrate improvement and meet specific goals, outlined in the PIP. By design, a PIP is expected to support a successful and sustained improvement in performance.
     - If sufficient improvement is not made, the PIP may end early and we move to next steps in termination (steps may vary by country). 
     - If sufficient improvement is not made but progress is headed in the right direction, a PIP may be extended at the discretion of the manager. 
 1. Otherwise, the team member is separated or their contract is cancelled. It is not necessary to create a second PIP for the same performance issues within a reasonable period of time and after informing the team member that the unacceptable performance has resurfaced in writing (an email is fine). 
-1. To begin the offboarding process, the manager should forward a recommendation for offboarding to their Executive team member and People Business Partner including the history of the PIP and the recurring performance issues. If a team member does need to be let go, work with People Business Partner to follow the process for [involuntary offboarding](/handbook/people-group/offboarding/#involuntary-offboarding).
+1. To begin the offboarding process, the manager align with the Team Member Relations Specialist and forward a recommendation for offboarding to their Executive team member and People Business Partner including the history of the PIP and the recurring performance issues. If a team member does need to be let go, work with Team Member Relations Specialist to follow the process for [involuntary offboarding](/handbook/people-group/offboarding/#involuntary-offboarding).
 
 
 ***The PIP process is between a manager and their direct report. Information shared in a PIP should be kept confidential by both participants. If underperformance becomes a reason for offboarding, the individual should not be taken by surprise, but others at the company might be.*** 
 
 ### Internal Applications and Transfers during underperformance remediation
 
-When in the process of underperformance remediation, such as when a written warning, PEP or PIP is active, you are generally not eligible for transfer to other roles within GitLab. If the underperformance is exclusively a result of a skills mismatch (not of lack of motivation, commitment, delivery etc.. or misalignment to our values) other roles within GitLab may be considered, however, a determination regarding your eligibility is at the discretion of your manager and People Business Partner. 
+When in the process of underperformance remediation, such as when a written warning, PEP or PIP is active, you are generally not eligible for transfer to other roles within GitLab. If the underperformance is exclusively a result of a skills mismatch (not of lack of motivation, commitment, delivery etc. or misalignment to our values) other roles within GitLab may be considered, however, a determination regarding your eligibility is at the discretion of your manager and People Business Partner. 
 
 When the underperformance is resolved and you want to transfer to another role, please review [the Internal Application Process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#for-internal-applicants---different-job-family) for transfer. Please note that an internal reference will be conducted before the transfer is final, with this the documented underperformance may be discussed.  
 
 ### Letting Someone Go
 
-This should be discussed with a People Business Partner before any action is taken in order to ensure it is done in compliance with local laws and regulation. As soon as you know you'll have to let someone go, do it immediately. The team member is entitled to know where they stand. Delaying it for days or weeks causes problems with confidentiality (finding out that they will be let go), causation (attributing it to another reason), and escalation (the working relationship is probably going downhill).
+This should be discussed with a Team Member Relations Specialist before any action is taken in order to ensure it is done in compliance with local laws and regulation. As soon as you know you'll have to let someone go, do it immediately. The team member is entitled to know where they stand. Delaying it for days or weeks causes problems with confidentiality (finding out that they will be let go), causation (attributing it to another reason), and escalation (the working relationship is probably going downhill).
 
 ### Underperformance in Senior Leadership
 
