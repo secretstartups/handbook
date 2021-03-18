@@ -54,6 +54,8 @@ If ownership is verified, then:
 
 Similar to **Account Access Requests**, if a user has lost access to their account and the account shows **no activity** in its history, then we can consider releasing the email address for the user to create a new account with. 
 
+For unverified/unconfirmed accounts, please see the [confirmation emails](confirmation_emails.html) workflow.
+
 Only use this process if the account shows **no** activity. If an account shows any activity tied to any type of contribution (such as snippets, or comments in a project or group), use the [Account Ownership Verification](account_verification.html) workflow instead.
 
 To release an email address for an inactive account:
