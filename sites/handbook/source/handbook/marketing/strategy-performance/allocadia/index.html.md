@@ -1,9 +1,3 @@
----
-layout: handbook-page-toc
-title: Allocadia
-description: Allocadia is Marketing Performance Management Software.
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -102,7 +96,7 @@ The reports are broken out in folder format and once you click into the folders,
 #### Reports Field Marketing uses
 
 1. To understand your regions budget (referred to in Allocadia as `Target`) and what you are forecasting to spend -
-    - Video walk through - <span class="colour" style="color: rgb(34, 0, 204);">[https://youtu.be/QTQeOKp3wDU](https://youtu.be/QTQeOKp3wDU)</span> - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE)
+    - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://youtu.be/QTQeOKp3wDU](https://youtu.be/QTQeOKp3wDU)</span> - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE)
 1. `Pipeline Planning - All Pipeline Plan by Segment - Drill In` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
     - Video walk through - [https://youtu.be/ewqvzQo-hX0](https://youtu.be/ewqvzQo-hX0) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
 1. `Strategy Planning (OKRs), Strategy Planner - Objective Details (Team)` - This report allows you to see how your plans are aligned to the Strategy feature within Allocadia.
