@@ -1183,7 +1183,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
 1. Linking the takeaways of courses to our values, like we did for [the Crucial Conversations training](/handbook/leadership/crucial-conversations/#how-crucial-conversations-align-with-gitlab-values).
 1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
-1. The default settings of the sofware we use (for example: [Speedy meetings](https://about.gitlab.com/handbook/tools-and-tips/#speedy-meetings), [document sharing](https://about.gitlab.com/handbook/communication/#link-sharing), agendas, etc.)
+1. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
