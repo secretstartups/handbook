@@ -117,6 +117,7 @@ During our Career Development workshops at Contribute, May 2019 we took team mem
 - [Tips for Creating Effective Growth Plans](https://docs.google.com/document/d/1O45gRkQqUa3dEgjJXGwdBE7iZbBI22EPC7zrkS3T4dM/edit)
 - [Career Development Worksheet](https://docs.google.com/presentation/d/104AFLl-45WVHbFqQFpNL8Ad-B5_vdY39wPEEmQsEKYI/edit#slide=id.g556339813d_0_2)
 - [Performance Review template](https://docs.google.com/document/d/1Qy6Uh6wL4twayv1642iLhD6UlePvRqPL8WJmYBXsAWM/edit)
+- [Individual Development Plan in Security](/handbook/engineering/security/individual-development-plan.html)
 
 ### Internal Opportunities to expand exposure
 
