@@ -70,6 +70,19 @@ The GitLab for Campuses enterprise offering is available at the following tiers:
 
 *Institution size is determined by the last published student enrollment (undergraduate and graduate) within one year of the contract closing.
 
+## Steps for Building a GitLab for Campuses Quote 
+The steps for building a GitLab for Campuses quote very slightly from standard quotes. 
+
+1. Before building the quote, determine the proper tier based on the most recently published enrollment data provided by the insitution. 
+2. After creating the opportunity and a new quote following the steps in the [Sales Order Processing handbook page](/sales/field-operations/order-processing/)
+  - On the `Select Billing Account page`choose the appropriate Quote Template - 01.21 New Order Form - EDU / 01.21 Amendment Order Form - EDU / 01.21 Renewal Order Form - EDU. 
+  - Proceed as usual until the  `Add base products`, and Click `Select Plan` on the relevant product. Scroll to the appropriate product SKU names from the table above. For example, `[EDU Enterprise-Small] SaaS - Ultimate (formerly Gold) - 1 Year`. 
+  - Proceed as usual. 
+
+### GitLab for Campuses Order Form
+The GitLab for Campuses Order form must be used for all GitLab for Campuses quotes because it contains specific language regarding the size of the institution. Specifically:
+
+`For the purposes of this Order Form only, Customer is purchasing the Subscriptions set forth herein based upon the number of enrolled students (“Institution Size”), as demonstrated and agreed to with GitLab. Such Institution Size shall reflect the applicable Institution Size Tier as located at [here](/product/packaging-and-pricing/gitlab-for-campuses/#tiers). The parties acknowledge and agree, Customer shall be obligated to purchase and/or renew the applicable Institution Size Tier commensurate with the Institution Size agreed to between the parties.  `
 
 
 #### Definitions of Qualifying Education Institutions and Associated Entities
