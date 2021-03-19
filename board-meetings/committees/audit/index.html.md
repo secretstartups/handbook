@@ -51,6 +51,7 @@ title: "Audit Committee"
           - iv. Periodically consult with the Independent Auditors out of the presence of the Company’s management about internal controls, the fullness and accuracy of the Company’s financial statements and any other matters that the Committee or the Independent Auditors believe should be discussed privately with the Committee. 
           - v. Establish procedures for (a) the receipt, retention and treatment of complaints received by the Company regarding accounting, internal accounting controls or auditing matters, and (b) the confidential anonymous submission by employees of the Company of concerns regarding questionable accounting or auditing matters. Oversee the review of any such complaints and submissions that have been received, including the current status and the resolution if one has been reached. 
     - **Independent Auditors.** With respect to the Company’s Independent Auditors, the Committee will: 
+
           - i. Be directly responsible for the selection, appointment, discharge, compensation, retention and oversight of the work of the Independent Auditors and any other registered public accounting firm engaged for the purpose of preparing and issuing an audit report or performing other audit-related services for the Company. The Independent Auditors will report directly to the Committee. 
           - ii. Review and discuss with the Independent Auditors and management (a) any significant audit problems or difficulties, including difficulties encountered by the Independent Auditors during their audit work (such as restrictions on the scope of their activities or their access to information), (b) any significant disagreements between management and the Independent Auditors and (c) management’s response to these problems, difficulties or disagreements. 
           - iii. Review the qualifications, performance and continuing independence of the Independent Auditors, including: 
@@ -65,14 +66,16 @@ title: "Audit Committee"
              - b. alternative treatments of financial information within GAAP that have been discussed with management, the ramifications of those alternatives and the treatment preferred by the Independent Auditors; 
              - c. any material written communications between the Independent Auditors and the Company’s management; and 
              - d. any matters required to be communicated to the Committee under GAAP and other legal or regulatory requirements. 
-    - ** Risk Oversight and Compliance:** The Committee will: 
+    - **Risk Oversight and Compliance:** The Committee will: 
+
           - i. Review with management the Company’s major financial risks and enterprise exposures and the steps management has taken to monitor or mitigate such risks and exposures, including the Company’s procedures and any related policies with respect to risk assessment and risk management. 
           - ii. Review with management the Company’s cybersecurity and other information technology risks, controls and procedures, including the Company’s plans to mitigate cybersecurity risks and respond to data breaches. 
           - iii. Review with management the Company’s risk exposures in other areas, as the Committee deems necessary or appropriate from time to time. 
           - iv. Review with management the Company’s (a) programs for promoting and monitoring compliance with applicable legal and regulatory requirements, and (b) major legal and regulatory compliance risk exposures and the steps management has taken to monitor or mitigate such exposures. 
           - v. Review the status of any significant legal and regulatory matters and any material reports or inquiries received from regulators or government agencies that reasonably could be expected to have a significant impact on the Company’s financial statements. 
-    - *Insurance.* Review and establish any appropriate changes to the insurance coverages for the Company’s directors and officers. 
+    - **Insurance.** Review and establish any appropriate changes to the insurance coverages for the Company’s directors and officers. 
     - **Internal Audit.** 
+    
           - i. The Committee also will review the adequacy of the Company’s internal audit charter annually, and approve any changes the Committee determines appropriate, if applicable. 
           - ii. Approve the annual internal audit plan and all major changes to the plan. Review the internal audit activity’s performance relative to its plan. 
     - [Code of Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/). Review the process for communicating the Company’s Code of Conduct to Company personnel, and for monitoring compliance therewith. 
