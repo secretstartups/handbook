@@ -39,12 +39,7 @@ ______________
     1. Your Google Sales Rep's email: manverma@google.com
     1. Select SUBMIT
 1. Attach a copy of the form to the Zendesk ticket for reference
-1. Reply to user letting them know that you have submitted the form.
-
-_Sample reply_
-
->I've completed the credit form with Google, I suspect it will take them a few days to process the request. Please let us know if you receive any notification or credit within your Google account. Of course, if Google confirms with us first we will let you know.
-
+1. Reply with [`General::Google Cloud Credit Troubleshooting Form Submitted`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073423299) macro letting them know that you have submitted the form.
 1. Once confirmation is received, update user and close ticket.
 
 #### Additional Reference
