@@ -380,9 +380,9 @@ App information:
 ### GitLab User Lookup
 
 This app looks in Salesforce and GitLab.com for a contact or account based on
-the requestor’s email address. If it finds a GitLab.com account, it will
-present some basic account information as well as the membership of the user
-(and the corresponding plans of said memberships).
+the requestor’s email address and provided GitLab.com username. If it finds a
+GitLab.com account, it will present some basic account information as well as
+the membership of the user (and the corresponding plans of said memberships).
 
 App information:
 
