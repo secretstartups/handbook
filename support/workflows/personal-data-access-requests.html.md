@@ -40,7 +40,7 @@ The request may look something like:
 
 When a request is received through Zendesk as a ticket, do the following:
 
-1. Apply the [**General::Personal Data Access Request Instructions - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360043149613) macro and mark the ticket as solved.
+1. Apply the [`General::Personal Data Access Request Instructions`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043149613) macro.
 
 This will simply advise the user to email `personal-data-request@gitlab.com` in order to have their request processed.
 
@@ -60,4 +60,4 @@ When a request is received in this manner, do the following:
 
 **Macros**
 
-- [General::Personal Data Access Request Instructions - GitLab.com](https://gitlab.zendesk.com/agent/admin/macros/360043149613)
+- [`General::Personal Data Access Request Instructions`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043149613)
