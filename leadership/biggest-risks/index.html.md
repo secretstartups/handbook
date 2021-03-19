@@ -299,7 +299,7 @@ GitLab's success will create growth opportunities for team members inside *and* 
 
 Key people may leave as they vest and achieve their economic goals.
 
-As reflected in our compensation principles, we don't want people to stay because they feel like they have [golden handcuffs](/handbook/total-rewards/compensation/#why-we-pay-local-rates), but we do recognize the alignment that comes with options vesting. For team members who have been at GitLab for 3.5 years, we offer an [option refresh program](/handbook/stock-options/#option-refresh-program) through which team members are granted a new option grant.
+As reflected in our compensation principles, we don't want people to stay because they feel like they have [golden handcuffs](/handbook/total-rewards/compensation/#why-we-pay-local-rates), but we do recognize the alignment that comes with options vesting. Beginning in FY22, eligible GitLab team members will be reviewed for a [refresh grant](/handbook/stock-options/#refresh-grants) once per year.
 
 ### Company size
 
