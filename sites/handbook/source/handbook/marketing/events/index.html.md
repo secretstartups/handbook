@@ -463,11 +463,11 @@ If the change in the date is related to COVID-19, the **FMM** will:
 If the date changes after the MPM set up the issues, epic, and tracking for the event, the **MPM** must make the following updates:
 
 - **No Registrations Received:** If no registrations have been processed for the event (even if members have been added to the campaign as "Marketing Invited"):
-    - SFDC: Change the ISO date in the SFDC Campaign name to the new date. Update the campaign start date to 30 days prior to the new date, and the end date to 60 days after the new date.
+    - SFDC: Change the ISO date in the SFDC Campaign name to the new date. 
     - Marketo: Change the ISO date in the Marketo Program to the new date. Update the tokens and confirm landing pages, confirmation emails and invites are updated.
     - GitLab: Update event date in epic and issues. Update due dates and email deployment dates.
 - **Registrations Received:** If registrations have been processed for the event:
-    - SFDC: Change the ISO date in the SFDC Campaign name to the new date. Leave the campaign start date as-is (reflecting 30 days prior to the original date), and update the end date to 60 days after the new date.
+    - SFDC: Change the ISO date in the SFDC Campaign name to the new date.
     - Marketo: Change the ISO date in the Marketo Program to the new date. Update the tokens and confirm landing pages, confirmation emails and invites are updated.
     - GitLab: Update event date in epic and issues. Update due dates and email deployment dates.
 
