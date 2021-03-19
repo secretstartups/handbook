@@ -130,7 +130,6 @@ When creating an individual/bulk access request, use the following information:
 ### Workflows
 
 * [License & renewals workflows](workflows/index.html)
-* [Internal policies and procedures wiki](https://gitlab.com/gitlab-com/support/license-and-renewals/-/wikis/home)
 
 ### Useful tools
 
