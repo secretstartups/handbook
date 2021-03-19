@@ -95,7 +95,7 @@ Team members may be eligible to participate in the annual refresh grant cycle re
  
 GitLab has completed its first annual refresh grant program in Q1 FY22. In order to move GitLab team members from a 3.5 year refresh cadence to an annual refresh cadence, this fiscal year, due to the change in cadence of this process, a one time transition multiplier was applied to all eligible team members based on time since the last new hire or refresh grant. This transition multiplier will not be used going forward in future annual refresh cycles.
  
-**Transition Multiplier:**
+##### Transition Multiplier
  
 | Time Since Last Grant  | Transition Multiplier |
 |------------------------|-----------------------|
@@ -106,7 +106,7 @@ GitLab has completed its first annual refresh grant program in Q1 FY22. In order
 | < 1.5 years            | 1.00x                 |
  
  
-**Key Talent:**
+##### Key Talent
  
 Key Talent (10% of overall population): We should specifically consider grants as a retention tool for those team members considered to be key talent:
 * Critical disruption to product if they were to leave
@@ -116,6 +116,15 @@ Key Talent (10% of overall population): We should specifically consider grants a
  
 GitLab will be using leadership discretion to determine who is deemed Key Talent.
  
+##### Timeline
+
+| Date | Action |
+|------|--------|
+| 2021-03-22 | [Compensation Calculator](https://comp-calculator.gitlab.net/) updated to include equity range calculator. |
+| 2021-03-24 | Grant Amount & Total Rewards Statements Uploaded to BambooHR (stock options table turned off in BambooHR for self-service). |
+| 2021-03-25 to 2021-04-08 | Leaders/Managers to notify team members of grants and share Total Rewards Statement in BambooHR. |
+| 2021-04-12 | Equity Grants added to Carta, access to stock options table in BambooHR turned back on. |
+
 #### FAQs
  
 Q: What happens to my existing awards?
