@@ -1,19 +1,18 @@
 ---
 layout: handbook-page-toc
 title: License & Renewals
-description: License & Renewals (L&R) comprises efforts to resolve problems customer face when they purchase or renew a license (self-managed) or subscription (GitLab.com).
+description: License & Renewals (L&R) comprises efforts to resolve problems customer face when they purchase or renew their self-managed or gitlab.com subscription.
 ---
 
 ## Overview
 
-When customers purchase or renew a license (self-managed) or subscription
-(GitLab.com), they sometimes run into problems applying or making use of their
+When customers purchase or renew their subscription, they sometimes run into problems applying their license or associating their subscription to their namespace and making use of their
 purchase. License & Renewals (L&R) comprises efforts to resolve these problems.
 
 L&R work generally involves collaborating with customers and other GitLab teams,
 as well as checking internal GitLab systems and data validation. Some examples:
 
-* General license queries from a user.
+* Answering general queries about purchasing and managing a subscription from a user.
 * Troubleshooting license upload errors and subscription association issues.
 * Assisting Sales team members with requests related to licensing and
   subscriptions.
@@ -48,25 +47,24 @@ managers currently actively involved are:
 
 ## Getting started
 
-The best way to get a guided start to L&R work is by working through the
-[L&R Support training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md).
+The best way to get started is by working through the relevant
+[Support training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md).
 
 ### What you'll be working on
 
-* The [License & Renewals ticket queue](https://gitlab.zendesk.com/agent/filters/360038103700) in Zendesk.
+* Tickets in the queue pertaining to subscriptions, licenses & renewals (see [Zendesk Global Views](../support-ops/documentation/zendesk_global_views.html) for more information on locating these) in Zendesk.
 * The [Internal Requests issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) on GitLab.com.
   See also the [working internal requests workflow page](/handbook/support/license-and-renewals/workflows/working_internal_requests.html).
 * Creating and/or updating [marketing pages](#marketing-pages),
   [product documentation](#product-documentation) and the
-  [GitLab Handbook](#handbook-pages) and [workflows](#workflows) around
-  L&R-related topics.
+  [GitLab Handbook](#handbook-pages) and [workflows](#workflows) around subscriptions, licensing and renewal-related topics.
 * Helping the Product group understand and prioritize product issues,
   specifically those in the
   [Fulfillment section backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Afulfillment).
 
 ### Systems you'll need access to
 
-To be effective with L&R work, you'll need access to systems and tools which you
+To be effective with this work, you'll need access to systems and tools which you
 might not otherwise encounter working other Support problem types. This list
 supplements the baseline entitlements for the Support Engineer job family.
 
@@ -110,7 +108,7 @@ When creating an individual/bulk access request, use the following information:
 
 Zuora is considered the [single source of truth](/handbook/handbook-usage/#single-source-of-truth)
 or [system of record](https://about.gitlab.com/handbook/handbook-usage/#system-of-record)
-for many L&R-related items, such as product SKUs, subscriptions and invoices
+for many subscription and renewal-related items, such as product SKUs, subscriptions and invoices
 (see the [Transition to Zuora as the SSOT issue](https://gitlab.com/groups/gitlab-org/-/epics/4664)
 for more information).
 
@@ -156,7 +154,7 @@ for the next milestone.
 The [Fulfillment](https://about.gitlab.com/direction/fulfillment/) Stage manages
 Purchasing and Provisioning, CustomersDot Usage, and Subscription Management.
 These teams own responsibilities that align with the types of requests we
-generally see in the L&R queue.
+generally see in the queue.
 
 `#s_fulfillment` channel in Slack
 
@@ -165,7 +163,7 @@ generally see in the L&R queue.
 
 When we look at the product [Growth](/handbook/product/categories/#growth-stage)
 stage, we can see that the team owns responsibilities that align with some of
-the types of requests we generally see in the L&R queue, in particular the
+the types of requests we generally see in the queue, in particular the
 `Conversion` group.
 
 - Activation Group: [New Group Namespace Verify Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
@@ -175,7 +173,7 @@ the types of requests we generally see in the L&R queue, in particular the
 
 ## What is **not in the scope** of L&R work in Support?
 
-The L&R queue should not be used for the following:
+The queue should not be used for the following:
 
 * Billing related matters, such as payments, invoice generation, refunds, etc.
 * Product related questions
@@ -192,7 +190,7 @@ The L&R queue should not be used for the following:
 
 ### Marketing pages
 
-* [Support L&R SLAs](https://about.gitlab.com/support/#issues-with-billing-purchasing-subscriptions-or-licenses)
+* [Support SLAs for billing, purchasing, subscriptions or licenses](https://about.gitlab.com/support/#issues-with-billing-purchasing-subscriptions-or-licenses)
 * [Licensing and subscription FAQ](https://about.gitlab.com/pricing/licensing-faq/)
 
 ### Handbook pages
