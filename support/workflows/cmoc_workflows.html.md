@@ -147,13 +147,32 @@ Change the following values:
 
 `Affected Infrastructure` - This should almost always be unchecked so that the value of the `Incident Status` field is only applied to the specific aspects of the platform that are affected by the incident. In the example above we're only experiencing an issue with job processing so only `CI/CD` is selected.
 
-#### 3. Notify Community Relations team
+#### 3. Notify Stakeholders
 
-The CMOC should make the [Community Relations](/handbook/marketing/community-relations/) team aware of the incident by mentioning them with the `@community-team` Slack handle in the [#incident-management](https://gitlab.slack.com/archives/CB7P5CJS1) channel if the following conditions are met.
+Once the severity of the incident has been deteremined in coordination with the IMOC, the CMOC should make a post in the `#e-group` channel on Slack.
 
-- The incident is an **severity::1**
-- The incident is an **severity::2**
-- The incident is an **severity::3** or **severity::4** but you feel that the CA team should know about it anyway
+Use the following template:
+```
+*Production Incident*
+Summary: <summary>
+Customer Impact: <customer impact>
+
+Production Issue: https://gitlab.com/gitlab-com/gl-infra/production/-/issues/<issue>
+Slack Channel: #incident-<issue>
+Status Page: https://status.gitlab.com/pages/incident/<path>
+```
+
+Notify the e-group when:
+- CMOC escalation to an incident has occurred, and
+- Public notification is occurring or IMOC has determined incident requires e-group notification.
+
+Add a comment in the thread in `#e-group` you created as there are relevant updates at the executive level.
+
+##### Community Team
+The CMOC should make the [Community Relations](/handbook/marketing/community-relations/) team aware of the incident by cross-posting the message in the [#community-relations](https://gitlab.slack.com/archives/C0R04UMT9) channel.
+
+##### Customer Success
+The CMOC should make the [Customer Success](https://about.gitlab.com/handbook/customer-success/) team aware of the incident by cross-posting the message in the [#customer-success](https://gitlab.slack.com/archives/CB7P5CJS) channel.
 
 ### Stage 2: **Incident Updates**
 
@@ -214,6 +233,10 @@ Once we have confirmation from the IMOC that the incident can be resolved, make 
 Before resolving the incident your draft should look similar to the following:
 
 ![Resolve incident](/images/support/cmoc_resolve_incident.png){: .shadow}
+
+##### Update the e-group
+
+After updating the status page, edit the Slack message you created in `#e-group` to indicate resolution and post a final update in the thread.
 
 #### Post-Mortem
 
