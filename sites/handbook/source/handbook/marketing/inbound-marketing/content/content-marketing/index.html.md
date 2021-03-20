@@ -249,6 +249,98 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
 2. [Axway aims for elite DevOps status with GitLab](/customers/axway-devops/)
 3. [Security provider KnowBe4 keeps code in-house and speeds up deployment](/customers/knowbe4/)
 
+### Content set template
+
+```
+## Persona: [Example: Software developer Sacha](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/#software-developer-sacha)
+
+## Use Case: [Example: Continuous integration](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/) 
+
+## Theme
+
+*Detail the specific angle you are taking on the topic. Why does it matter to this persona and what core messages need to be conveyed?*
+
+## Strategic overview and resources
+
+*Why are we targeting this theme and persona?*
+
+-  [Industry analysts](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/#industry-analyst-resources)
+-  [Market requirements](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/#market-requirements)
+-  [Discovery questions](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/#discovery-questions)
+
+## Content Audit
+
+1. Link to Path Factory use case track
+1. Link to blog topic tag
+1. Link to resources page filtered by topic 
+1. Link to topic page 
+1. Link to solutions page
+1. Link to related /stages-devops-lifecycle/ pages
+
+## PathFactory track
+
+       1. What content exists
+       1. What content needs to be updated?
+       1. What content is missing?
+
+## SEO
+
+*List the primary and secondary keywords for this content set.*
+
+*Resources*
+- [SEO content manual](https://docs.google.com/document/d/1ZPMW2ypTy2RssojVsulEkk1O_mLuM26liUU-Qoj-ACE/edit?usp=sharing)
+- [AlsoAsked.com](https://alsoasked.com/)
+- [SEMrush](https://www.semrush.com/)
+- [Answer The Public](https://answerthepublic.com/)
+
+## Content set
+
+*What content are you planning to create/update and why?*
+
+- Topic maturity assessment -- Following the template of the [DevSecOps maturity assessment](https://about.gitlab.com/resources/devsecops-methodology-assessment/), we'll create a module for each topic. Ideally, this will be interactive for the user and then align with the buyer's journey to provide content according to where they land on the assessment. 
+
+- eBook
+      
+      1. Focus/Title
+
+- Web article
+      
+      1. Focus/Title
+      2.
+      3.
+      4.
+      5.
+
+- Topic page
+     
+       1. Review/update/add - keep your topic page on your radar to continuously iterate.
+
+## Timeline 
+
+*List content with phases and due dates*
+
+- Maturity assessment
+      1. Due date will likely be determined by design planning timeline.
+
+- eBook
+
+      1. Due date
+
+- Web articles
+      
+      1. Due date
+      2.
+      3.
+      4.
+      5.
+
+- Topic page
+     
+       1. How often will you update (i.e. 2/month, etc)
+
+```
+
+
 ### Epic template
 
 ```
