@@ -20,6 +20,11 @@ This page provides specific considerations and details to help you plan your pat
 
 When you are ready to start building your path to promotion, review the tips on [creating and building a promotion doc](https://about.gitlab.com/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document). Ask for manager guidance and feedback as necessary.
 
+### General Considerations and Preparations (Applies to Any Promotion Path)
+Familiarize yourself with what it means to plan your career path, and how leadership plays a role in your next step.
+- Watch [this video on the Critical Career Path Conversation](https://www.youtube.com/watch?v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=7).
+- Read [leadership books](https://about.gitlab.com/handbook/leadership/#books) (strongly suggested).
+- Watch this [Engineering IC Leadership - Handbook Learning Session](https://www.youtube.com/watch?v=OXBwtaZ9edQ) to understand the difference between **IC leadership** and **Management**.
 
 ## Path to Promotion: Senior Support Engineering
 Details to be added here soon.
@@ -45,14 +50,10 @@ As you begin to track and document your promotion document for moving into a man
 - You have the ability to build (not demand) trust and respect with team members ranging from peers to direct reports to team members and executives across the entire organization.
 
 The following additional considerations can help you prepare and better understand what to expect, as you work to build your path towards becoming a Support Engineering Manager.
-
-- Read about [what you can expect in a Support Engineering Manager role])https://about.gitlab.com/job-families/engineering/support-management/#what-you-can-expect-in-a-manager-support-engineering-role-at-gitlab).
+- Read about [what you can expect in a Support Engineering Manager role](https://about.gitlab.com/job-families/engineering/support-management/#what-you-can-expect-in-a-manager-support-engineering-role-at-gitlab).
 - Read about the [Support Engineering Manager Responsibilities](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html).
-- Read about why [candidates should apply for a Support Manager role](https://about.gitlab.com/job-families/engineering/support-management/#you-should-apply-if), to understand what GitLab looks for when hiring for this role.
+- Read about why [candidates should apply for a Support Manager role](https://about.gitlab.com/job-families/engineering/support-management/#you-should-apply-if) to understand what GitLab looks for when hiring for this role.
 - Read [Transitioning from Individual Contributor to Manager](https://about.gitlab.com/handbook/engineering/development/dev/create/engineers/training/ic-to-manager/).
 - Read about [Individual Contribution vs. Management](https://about.gitlab.com/handbook/engineering/career-development/#individual-contribution-vs-management) and [Trying the Management Track](https://about.gitlab.com/handbook/engineering/career-development/#trying-the-management-track).
 - Read about the [Interim Manager](https://about.gitlab.com/handbook/engineering/career-development/#interim-manager) role.
-- Watch this [Engineering IC Leadership - Handbook Learning Session](https://www.youtube.com/watch?v=OXBwtaZ9edQ) to understand the difference between **IC leadership** and **Management**.
-- Watch [this video on the Critical Career Path Conversation](https://www.youtube.com/watch?v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=7).
 - Consider experiences beyond what you have accomplished at GitLab (previous job experiences or even personal accomplishments) as supportive examples for building your path to promotion for a management role.
-- Read [leadership books](https://about.gitlab.com/handbook/leadership/#books) (strongly suggested).
