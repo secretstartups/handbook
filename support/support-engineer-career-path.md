@@ -42,7 +42,7 @@ The following suggestions can help you prepare and better understand what will b
 Choosing to take the management path involves a holistic approach that goes well beyond a checklist of tasks and accomplishments. Becoming a good manager requires a set of people skills that not only embodies the [values of GitLab](https://about.gitlab.com/handbook/values/), but goes beyond any boundaries that may exist to successfully support and lead a team of diverse individuals.
 
 ### Considerations and Preparations
-As you begin to track and document your promotion document for moving into a managment role, use meaningful examples that highlight the following:
+As you begin to track and document your promotion document for moving into a management role, use meaningful examples that highlight the following:
 - You have the level of confidence needed to initiate change, address challenging situations, and make difficult decisions.
 - You have the ability to show humility and accept pushback or failure.
 - You have the ability to accept accountability in support of an individual, the team, our customers, and the business.
