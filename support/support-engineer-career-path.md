@@ -18,6 +18,9 @@ The Support team follows the [Engineering Career Development](https://about.gitl
 
 This page provides specific considerations and details to help you plan your path to promotion within Support. Use this as a guide to really consider where you would like to take your career, as well as to develop a career plan with your manager.
 
+When you are ready to start building your path to promotion, review the tips on [creating and building a promotion doc](https://about.gitlab.com/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document). Ask for manager guidance and feedback as necessary.
+
+
 ## Path to Promotion: Senior Support Engineering
 Details to be added here soon.
 
@@ -34,14 +37,12 @@ The following suggestions can help you prepare and better understand what will b
 Choosing to take the management path involves a holistic approach that goes well beyond a checklist of tasks and accomplishments. Becoming a good manager requires a set of people skills that not only embodies the [values of GitLab](https://about.gitlab.com/handbook/values/), but goes beyond any boundaries that may exist to successfully support and lead a team of diverse individuals.
 
 ### Considerations and Preparations
-As you begin to track and document your promotion document, use meaningful examples that highlight the following:
+As you begin to track and document your promotion document for moving into a managment role, use meaningful examples that highlight the following:
 - You have the level of confidence needed to initiate change, address challenging situations, and make difficult decisions.
 - You have the ability to show humility and accept pushback or failure.
 - You have the ability to accept accountability in support of an individual, the team, our customers, and the business.
 - You have the ability to influence positive change (improvements), starting at the individual level.
 - You have the ability to build (not demand) trust and respect with team members ranging from peers to direct reports to team members and executives across the entire organization.
-
-Review the tips on [creating and building a promotion doc](https://about.gitlab.com/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document). Ask for manager guidance and feedback as necessary.
 
 The following additional considerations can help you prepare and better understand what to expect, as you work to build your path towards becoming a Support Engineering Manager.
 
