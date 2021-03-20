@@ -277,6 +277,12 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
 1. Link to solutions page
 1. Link to related /stages-devops-lifecycle/ pages
 
+## PathFactory track
+
+       1. What content exists
+       1. What content needs to be updated?
+       1. What content is missing?
+
 ## SEO
 
 *List the primary and secondary keywords for this content set.*
@@ -308,12 +314,6 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
 - Topic page
      
        1. Review/update/add - keep your topic page on your radar to continuously iterate.
-
-## PathFactory track
-
-       1. What content exists
-       1. What content needs to be updated?
-       1. What content is missing?
 
 ## Timeline 
 
