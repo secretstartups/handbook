@@ -26,9 +26,9 @@ There are two main situations where action may need to be taken on behalf of the
 
 Following our [Security Policy on "GitLab's Access to Your Private Repositories"](/security/faq), actions should always be taken by the user whenever possible.
 
-For example, users should be deleting their own projects, but if they encounter an error every time they access the settings page, then staff can intervene with permission.
+For example, users should be deleting their own projects, but if they encounter an error with every attempt and there are no workarounds, then Support can intervene with permission.
 
-If in doubt, please surface this to a manager or escalate via an issue.
+If in doubt, please ask a Support manager to review.
 
 ## Project/Group Changes
 
@@ -41,7 +41,7 @@ If an issue is created for other team members, please include a note that the us
 
 ## Account Access Requests
 
-If a user has lost access to their account, all other options (e.g. SSH recovery codes, password reset) should be exhausted first.
+If a user has lost access to their account, all other options (such as SSH recovery codes, password reset) should be exhausted first.
 
 Before taking any action, ensure that you have verified the account owner using the [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow.
 
@@ -72,7 +72,7 @@ Before any actions are taken, please request explicit permission from the user t
 
 Some sample phrases:
 
-> Could you please provide permission for staff to ... ?
+> Could you please provide permission for Support to ... ?
 
 or
 
@@ -80,7 +80,7 @@ or
 
 For example:
 
-> Could you please provide permission for staff to re-run one or more pipelines in project `xyz` to investigate the issue you've described?
+> Could you please provide permission for Support to re-run one or more pipelines in project `xyz` to investigate the issue you've described?
 
 > Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address?
 
