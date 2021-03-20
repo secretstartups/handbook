@@ -11,12 +11,12 @@ description: The details of this page are to outline more specific guidance arou
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-**WORK IN PROGRESS**
+**NOTE: THIS IS A WORK IN PROGRESS!!**
 
 ## Support Engineer Career Path
 The Support team follows the [Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/) guidelines which offers an exciting track for [role promotions](https://about.gitlab.com/handbook/engineering/career-development/#support-department) within the Support Department. 
 
-This page provides specific details and considerations about Support roles in which you can advance to as you plan your career path.
+This page provides specific considerations and details to help you plan your path to promotion to other Support roles. Use this as a guide to really consider where you would like to take your career, as well as to develop a career plan with your manager.
 
 ## Path to Promotion: Senior Support Engineering
 Details to be added here soon.
