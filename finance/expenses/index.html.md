@@ -22,10 +22,13 @@ Expense reports are to be submitted at least once a month. Additional informatio
 ### Redacting Personal Information from Receipts - A Caution
 As the service does not require your personal information in order to process the reimbursement, we encourage you to redact your personal information before uploading receipts to protect your privacy. Managers should relay this caution to your team members but we will no longer deny the expense report if receipt images contain personal information.
 
-Your shipping and billing address(es)
-Your credit card information
-Your full name
-Any other data that is personal to you that you would not want publicly known
+Consider redacting this information:
+
+- Your shipping and billing address(es)
+- Your credit card information
+- Your full name
+- Any other data that is personal to you that you would not want publicly known
+
 At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
 
 The procedure by which reimbursable expenses are processed varies and is dependent on contributor legal status (e.g. independent contractor, employee) and [subsidiary assignment](https://about.gitlab.com/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure). Check with Payroll if you are unsure about either of these.
