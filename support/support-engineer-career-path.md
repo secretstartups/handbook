@@ -14,7 +14,7 @@ description: The details of this page are to outline more specific guidance arou
 **NOTE: THIS IS A WORK IN PROGRESS!!**
 
 ## Support Engineer Career Path
-The Support team follows the [Engineering Career Development](/handbook/engineering/career-development/) guidelines which offers an exciting track for [role promotions](/handbook/engineering/career-development/#support-department) in the Support Department. 
+The Support team follows the [Engineering Career Development](/handbook/engineering/career-development/) guidelines, which outlines an exciting track for [role promotions](/handbook/engineering/career-development/#support-department) in the Support Department. 
 
 This page provides specific considerations and details to help you plan your path to promotion within Support. Use this as a guide to really consider where you would like to take your career, as well as to develop a career plan with your manager.
 
@@ -56,4 +56,4 @@ The following additional considerations can help you prepare and better understa
 - Read [Transitioning from Individual Contributor to Manager](/handbook/engineering/development/dev/create/engineers/training/ic-to-manager/).
 - Read about [Individual Contribution vs. Management](/handbook/engineering/career-development/#individual-contribution-vs-management) and [Trying the Management Track](/handbook/engineering/career-development/#trying-the-management-track).
 - Read about the [Interim Manager](/handbook/engineering/career-development/#interim-manager) role.
-- Consider experiences beyond what you have accomplished at GitLab (previous job experiences or even personal accomplishments) as supportive examples for building your path to promotion for a management role.
+- Consider experiences beyond what you have accomplished at GitLab (previous job experiences or even personal accomplishments) as supportive examples for building your case to transition into a manager role.
