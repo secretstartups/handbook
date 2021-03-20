@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Support Engineer Career Path
-description: The details of this page are to outline more specific guidance around promotions for team members of Support Engineering.
+description: The details of this page are to outline more specific guidance around promotions for Support team members.
 
 ---
 
