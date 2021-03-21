@@ -1,12 +1,10 @@
 ---
 layout: handbook-page-toc
-title: "Professional Services"
-description: "The Professional Services team at GitLab is a part of the Customer Success department helping customers achieve value faster."
+title: "GitLab with Git Basics Hands On Guide"
+description: "This Hands On Guide is designed to walk you through the lab exercises used in the GitLab with Git Basics course."
 ---
-# Professional Services Handbook
+# GitLab with Git Basics Hands On Guide
 {:.no_toc}
-
-The Professional Services team at GitLab is a part of the [Customer Success](/handbook/customer-success) department. 
 
 ## Quick links
 
@@ -14,17 +12,7 @@ Here are links to the most popular Professional Services topics.
 
 * [Marketed Offerings](https://about.gitlab.com/services/)
 * [Offerings Framework & Delivery Kits](framework)
-* [Positioning](positioning)
-* [Selling](selling) 
-* [Working with PS](working-with)
-* [Scoping](scoping)
-* [SKUs](SKUs)
-* [Education Services](education-services)
-* [GitLab Technical Certifications](gitlab-technical-certifications)
-* [Delivery Methodology](delivery)
-* [Partner Collaboration](partner-collaboration)
-* [Sales enablement](sales-enablement)
-* [Professional Services Operations](professional-services-operations)
+
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -32,116 +20,462 @@ Here are links to the most popular Professional Services topics.
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Team functions
+## GITLAB BASICS LAB SETUP
 
-The Professional Services team is organized according to specialized functions and responsibilities. Click a Function link below to access details for specific team workflows and responsibilities.
+1. To begin lab, navigate to the sandbox link: <https://www.gitlabdemo.com/invite>  
+2. Enter your invitation code in the box and Click **Redeem**. 
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.006.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.007.jpeg)
+3. You will be brought to the link below: 
+4. Click **Download Credentials**. 
+5. Click the GitLab URL and launch your demo environment. 
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.008.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.009.jpeg)
+6. Enter your credentials and launch the demo environment. 
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.010.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.011.jpeg)
 
-| Function | Responsibilities |
-|---|---|
-| [Delivery](delivery/) | Service delivery planning, scheduling, and execution through specialized engineering and instructor team members |
-| [Engagement Management](engagement-mgmt/) | Opportunity and SOW scoping and closing in collaboration with GitLab Sales team members |
-| [Instructional Design and Development](instruct-dev/) | Educational content creation, deployment, and maintenance |
-| [Practice Management](practice-mgmt/) | Definition, planning, go-to-market, and performance for specific categories of professional services offerings |
-| [Project Management](project-mgmt/) | Project planning and execution |
-| [Professional Services Operations](professional-services-operations/) | Project Coordination, scheduling, and backend processes |
+## LAB 1- CREATE A PROJECT AND ISSUE
+### Create a Project
+1. Navigate to **Groups** > **Your Groups** 
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.012.png)
+2. Navigate to **Training Users** and expand the arrow to the left of Training Users, your training login will be the first one under your class session. ![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.013.jpeg)
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.014.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.015.jpeg)
+3. Navigate to the **New Project** button** and click it.  
+4. In the Project name dialog box, enter “***Top Level Project Repo*”**.  Optionally you may include a few notes in the Project Description Dialog Box. 
+5. Under Visibility Level, click the radio button for **Private**.  
+6 . Click **Initialize repository with a README** checkbox and then click the green **Create project** button.  
+Note: If you do not initialize your repository with a README, you will have a stripped down Git repo, that you will need to create content to bring it into existence. 
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.016.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.017.jpeg)
 
-## Direction
+### Create an Issue
+1. On the left-hand side of the screen, locate the **Issue** section on the taskbar and click on it.  
+2. Click the green **New Issue** button.  
+3. In the title field type, “***my first issue***”.  Optionally, you can enter a comment in the Description dialog box.  
+4. In the Assignee field, click the link for **Assign to me**. 
+5. Leave all other dialog boxes to their defaults and click the **Submit** Issue.
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.018.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.019.jpeg)
 
-### Mission
+### Create Custom Labels 
+1. On the left-hand side of the screen, locate the **Labels** section on the taskbar and click on it.  
+2. Click the green **New label** button.  
+3. In the title field type, “***Opened***”  and assign it a background color of your choosing 
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.020.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.021.jpeg)
+4. Click the green **Create label** button.  
+Note: Your labels have been created at the project level, so they are specific to that project level. They will not be available at the group level. 
+5. Repeat these steps 2 more times, creating labels for “***In Progress***”  and “***Completed***”  and using label colors of your choice. 
+6. You should now have 3 labels created under your Labels section.  
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.022.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.023.jpeg)
 
-GitLab Professional Services enables customers and partners to realize the full value of GitLab solutions to increase operational efficiencies, deliver better products faster, and reduce security and compliance risks.
+### Utilize a Quick Action**  
+1. On the left-hand side of the screen, locate the **Issue** section on the taskbar and click on it.  
+2. Click on **My First Issue** to open it.  
+3. Below the comment field, locate the **Quick Actions** link and open it.  
+4. Review the various quick actions you can complete by using the comment field in an issue.  
+5. Navigate back to the GitLab Issue page.  
+6. In the text editor field in the comment section, type “***/spend 1 h***” 
 
-### Goals
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.024.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.025.jpeg)
 
-* Deliver services to improve operational efficiency, accelerate time to market and reduce risk through GitLab product adoption.
-* Provide consistency and quality through a repeatable methodology with increased focus on business value. 
+7. Click the green **Comment** button.  
+7. Notice on the right, in the control panel section, the time tracking widget reflects your last action. 
+5. **Assign Labels to an Issue** 
+1. Navigate to Labels in the right pane of the dashboard in the Issue window.  
+1. Click the **edit** button and click on the 3 labels you created earlier.  
 
-## Benefits
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.026.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.027.png)
 
-Professional Services provides the following benefits to both GitLab customers and GitLab itself.
+3. Navigate back to your issue, and notice all three labels have been assigned. 
+3. **LAB 2- WORKING WITH GIT LOCALLY** 
 
-**Benefits to our customers**
+**Prior to starting this lab, verify git is installed locally:** 
 
-Having a Professional Services team benefits our customers in the following ways:
+● Open a terminal session or command prompt and type “***git version***” and press **Enter** 
 
-* Faster value realization
-* Improved customer experience
-* Access to GitLab experts / best practices
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.028.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.029.png)
 
-**Benefits to GitLab**
+1. **Generate an SSH Key**  
+1. Open a terminal or command prompt window and enter the following command:  “***ssh-keygen”*** 
+1. You will be prompted to select the location in which your key will be saved, press the **Enter** key to leave it at the default. 
+1. You may be prompted to create a passphrase, enter a password of your choice and hit the **Enter** key. 
 
-* Improved retention and expansion
-* Customer insights and feedback
-* Experience and offers for partners
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.030.png)
 
-## Delivery approach
+2. **Add an SSH Key to GitLab Profile** 
+1. On the right-hand side of the screen, locate your user avatar and click on the **down arrow**.  
+1. From the drop-down menu, click on the **Edit Profile** item.
 
-Today GitLab Professional Services offerings are delivered directly by GitLab team members as described in our [Professional Services product pages](https://about.gitlab.com/services/).
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.031.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.032.png)
 
-In the future we plan to enable selected channel partners to deliver Professional Services offerings to GitLab customers. This will allow us to accomplish the following operational objectives.
+3. On the left-hand side of the screen, click on **SSH Keys**. 
+3. If you have no SSH keys added to your profile, you will land on the Add an SSH Key screen.  
+3. Navigate back to your terminal/command session, in order to retrieve the SSH key you created, we need to move into the folder we saved them to.  
+3. In the terminal/command window, type “***cd {file path}***” and press **Enter**. 
+3. In the terminal/command window, type “***ls -al***” and press **Enter**.  
 
-* Ensure we have local coverage globally
-* Scale professional services in alignment with GitLab business growth
-* Create a partner revenue stream
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.033.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.034.png)
 
-## Team members and roles
+*Note the two files, they represent a public and private key, the public key (id\_rsa.pub) is what is needed to share with GitLab* 
 
-| Name | Functional Team | Role | 
-| :--- | :-------------- | :---- |
-| Robert Clark | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | Public Sector Manager, Customer Success |
-| Syeda Firdaus | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Donita Farnsworth | Project Coordinator/ Operations | [Sr. Project Coordinator](/job-families/sales/professional-services-project-coordinator/) |
-| Adriano Fonseca | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Sr. Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Victoria Goddard | [Project Management](/handbook/customer-success/professional-services-engineering/project-mgmt/) | [Sr. Professional Services Project Manager](/job-families/sales/professional-services-project-manager/) |
-| Michael Leopard | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) |  [Sr. Professional Services Engineer, Public Sector](/job-families/sales/professional-services-engineer/) |
-| Mike Lindsey | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Michael Lutz | Professional Services Leadership | [Sr. Director, Global Professional Services](/job-families/sales/director-of-professional-services/) | 
-| Kendra Marquart | [Instructional Design and Development](/handbook/customer-success/professional-services-engineering/instruct-dev/) | [Sr. Technical Instructional Designer](/job-families/sales/technical-instructional-designer-customer-education/) |
-| Jo Marquez | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Bryan May | [Practice Management](/handbook/customer-success/professional-services-engineering/practice-mgmt/) | [Principal Practice Manager, Consulting Services](/job-families/sales/professional-services-practice-manager/) |
-| Glenn Miller | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Sr. Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Jordan Ng | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Nicki Peric | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Petar Prokic | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Sr. Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Melani Ross | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Sr. Manager, Professional Services](https://about.gitlab.com/job-families/sales/professional-services-engineer/#senior-manager-professional-services) |
-| Ed Slatt | [Engagement Management](/handbook/customer-success/professional-services-engineering/engagement-mgmt/) | [Engagement Manager](/job-families/sales/source/job-professional-services-engagement-manager/) |
-| David Tacheny | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) |  Principal Technical Architect |   |
-| Kevin Vogt | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Sr. Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Allison Walker | [Project Management](/handbook/customer-success/professional-services-engineering/project-mgmt/) | [Sr. Project Manager (PMO)](/job-families/sales/professional-services-project-manager/) |
-| Christine Yoshida | [Practice Management](/handbook/customer-success/professional-services-engineering/practice-mgmt/) | [Manager, Practice Management, Education Services](/job-families/sales/professional-services-practice-manager/) |
-| Chris Cowell | Education Services | [Sr. Technical Trainer](/job-families/sales/professional-services-engineer/#senior-professional-services-technical-instructor) |
-| Thiago Presa | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
-| Vee Purohit | [Delivery](/handbook/customer-success/professional-services-engineering/delivery/) | [Professional Services Engineer](/job-families/sales/professional-services-engineer/) |
+8. In the terminal/command window, type “***cat id\_rsa.pub”*** and press **Enter** and copy the entire contents of your public key. 
+9. Navigate back to the GitLab Platform and paste the key into the open text field and click the **Add Key** button.  
+9. Your local computer is now authenticated to push and pull (interact) with GitLab
 
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.035.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.036.jpeg)
 
-## Team metrics
+3. **Copy (Clone) Project Repo to Your Local Machine**  
+1. Navigate back to your **Project Overview**  
+1. Locate the blue **Clone** button and click the drop down arrow.  
+1. In the Clone with SSH section, click the **Copy URL** button.  
 
-GitLab Professional Services measures success through tracking business profitability and resource utilization. The targets for FY21 are as follows.
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.037.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.038.jpeg)
 
-* **Long term profitability target**: 30% gross margin
-* **Utilization target**: 70% billable hours
+4. **Create a Directory on Your Local Machine**  
+1. In your terminal/command window, type “[***cd***](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)” to get out of the .ssh directory into your home directory. 
+1. In your terminal/command window, type “***mkdir training***” and press **Enter** to create a new directory. 
+1. In your terminal/command window, type “***cd training***” and press **Enter** to move into your new directory. 
 
-**Utilization**
-GitLab Professional Services Engineers track and categorize the utilization of their working hours as either Billable utilization or Productive utilization. 
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.039.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.040.png)
 
-* **Billable utilization** is time worked on defined scope that will be charged to a customer according to a contractual SOW. 
+4. Next, type “***git clone <URL you copied previously>***” and press **Enter**.  
+4. Now move into that directory you just cloned by typing “***cd top-level-project-repo***” and press **Enter**.  
 
-* **Productive utilization** is time worked on assigned tasks that benefit GitLab and GitLab Customers (overall utilization including marketing, sales, general management, training, internal projects, etc.)
+This is where the git software will track your changes, and where you will interact with the repo and git. 
 
-We use the following definitions to determine and track utilization.
+6. In your terminal/command window, type “***ls -al***” and press **Enter** to receive a list of all files in your current directory, including hidden files.
 
- 
-| Metric | Formula/Description | Value |
-| :--- | :--- | :--- |
-| Utilization | (Working Hours ÷ Available Hours) × 100% | varies |
-| Billable Utilization | (Billable Working Hours ÷ Utilization) × 100% | 70% target |
-| Productive Utilization | (Productive Working Hours ÷ Utilization) × 100% | 30% target |
-| Available Hours | Total Weekday Hours － Non-Working Hours | 1792 hrs |
-| Total Weekday Hours | (8 Hours × 5 days × 52 weeks) | 2080 hrs |
-| Non-Working Hours | (Holiday Hours + PTO Hours + Training Hours) | 288 hrs |
-| Holiday Hours | 11 holidays × 8 hrs/day | 88 hrs |
-| PTO Hours | 20 PTO days × 8 hrs/day | 160 hrs |
-| Training Hours | 5 professional development days × 8 hrs/day | 40 hrs |
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.041.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.042.png)
+
+7. On your terminal/command window type “***git status”*** and press **enter**. You will receive a message saying your working tree is clean.  
+5. **Make a Change to a README File** 
+1. Navigate to your README.md file.  
+1. Using the editor of your choice type, “***a second line added to master branch locally.***” below the line current line and save the file. 
+3. Type “***git status”*** and press **Enter**. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.043.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.044.png)
+
+Note:  GitLab has detected we have added a file to our local repo.  Your branch is up to date with origin/master: We have not authored our first commit yet, and therefore; not created a new snapshot yet. 
+
+6. **Work on a Branch** 
+1. In your terminal/command window, type “***git checkout -b temporary\_branch”*** and press **Enter**.  
+1. In your terminal/command window, type “***git branch -a”***  and press **Enter** to see all branches. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.045.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.046.png)
+
+*Note the red branches are on the remote server (GitLab)* 
+
+7. **Stage the README file to the GitLab staging area locally.** 
+1. In your terminal/command window, type “***git add README.md”*** and press **Enter**. If this was successful, the command window will move to a new line with no error message. 
+
+Note: We have taken our README.md file from our working directory, and moved it to a “staging area”  
+
+2. Type “***git status”*** and press **Enter**. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.047.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.048.png)
+
+8. **Commit the changes to the README.md file** 
+1. In your terminal/command window, type “***git commit -m “added a second line to readme.md file””*** and press **Enter**. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.049.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.050.png)
+
+- **Developer Tip:** You can stage and commit a change at the same time by using the “git commit -am “commit message” command to save time! 
+2. We have now created a record or point in time snapshot of the file that we can refer back to if needed. 
+2. In your terminal/command window, type “***git status”*** and review the changes. 
+9. **Push your changes to the temporary branch on the remote GitLab server.** 
+
+3.9.1. In your terminal/command window, type “***git push -u origin temporary\_branch”*** and press **Enter**. Enter the passcode for your SSH key if prompted. ![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.051.png)
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.052.png)
+
+- **Developer Tip:** If you are ever unsure of the exact command you need to push your changes to the remote server, type “git push” and press **Enter**. The system will output an error message with the correct commands you can copy/paste.  
+10. **Modify Your Content Again**  
+1. In your code editor, navigate to the README.md file  and edit the contents to include, “add a third line to file” 2 lines below the last change and save your changes in the editor.  
+
+Note: The image below is using [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal). 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.053.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.054.png)
+
+2. In your terminal/command window, type “***git add README.md”*** and press **Enter**.  
+2. In your terminal/command window, type “***git commit -m “modified the readme.md file””*** and press **Enter**. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.055.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.056.png)
+
+4. In your terminal/command window, type “***git log”*** and press **Enter**. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.057.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.058.png)
+
+5. In your terminal/command window, type “***git push -u origin temporary\_branch”*** and press **Enter**. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.059.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.060.png)
+
+- **Developer Tip:** If you want to commit your changes to your upstream, you can simply use the command type “git push -u” and press **Enter**. The system only needs to set the upstream once.  
+6. Navigate to the remote GitLab.com platform and view changes to your project. 
+11. **Simulate a change on the branch.**  
+
+Someone in your organization has merged a feature branch into master.  The code has moved code under our feet (so to speak) and now your local directory is out of sync with the remote. We now must update the state of the master branch. 
+
+1. From the GitLab dashboard, navigate to your Top Level Project and click on the Temporary Branch from the drop down on the repository screen. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.061.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.062.png)
+
+2. On your temporary\_branch, click on the **README.md** file. 
+2. Click on the **Web IDE** button. 
+2. In the editor, on line 9 type, “***add a fourth line from the remote on the temporary\_branch***”
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.063.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.064.png)
+
+5. Click the **Commit** button.  
+6. Uncheck both boxes for **Create a New Branch** and **Start a New Merge Request.** 
+
+` `Note:  you are working on the server now, the server is one commit ahead from your local repository. 
+
+7. Click the **Commit** button to finalize the changes.  
+12. **Refresh the state of your local branch using the fetch command.** 
+
+The git fetch command retrieves the updated state of branches without updating the contents.  
+
+1. Return to your terminal/command window and type “***git fetch”*** and press **Enter.** If you are prompted for your SSH passphrase, enter it. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.065.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.066.png)
+
+2. Type “***git status”*** and press **Enter.** Review the updated status of your local branch. 
+13. **Pull from the remote repository (upstream)** 
+
+We now need to explicitly tell git to update the contents. 
+
+1. In your terminal/command window, type “***git pull”*** and press **Enter.**
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.067.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.068.png)
+
+2. To view the contents of the README.md file, type “***cat README.md”*** and press **Enter.**
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.069.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.070.png)
+
+14. **Merge all changes from the temporary\_branch into the Master branch** 
+1. In your terminal/command window, type “***git branch”*** to verify which branch you are currently working in. You should already be in the temporary branch.
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.071.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.072.png)
+
+2. Switch to your Master Branch, in your terminal/command window, type “***git checkout master”***  and press **Enter**.  
+2. From the master branch, type “***git merge temporary\_branch”*** and press **Enter**.  
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.073.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.074.png)
+
+15. **Update the remote repository** 
+1. In your terminal/command window, type “***git status”*** and press **Enter**.  
+1. Type “***git push -u”*** and press **Enter.**
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.075.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.076.png)
+
+3. Navigate back to GitLab.com and view your Project Master Branch and view the changes made.
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.005.png) **GITLAB BASICS LAB DAY 2** 
+
+4. **LAB 3- USING GITLAB ISSUES TO PUSH CODE**  
+1. **Create a new Project** 
+1. Click the **New Project** button and name your project: ***Second Project***.  
+1. Under Visibility Level, click the radio button for **Private**.  
+1. Click **Initialize repository with a README** checkbox and then click the green **Create project** button.  
+2. **Create an Issue** 
+1. On the left-hand side of the screen, locate the **Issue** section on the taskbar and click on it.  
+1. Click the green **New Issue** button.  
+1. In the title field type, “***new issue***”.  Optionally, you can enter a comment in the Description dialog box.  
+1. In the Assignee field, click the link for **Assign to me**. 
+1. Click the **Submit** button to create the issue. 
+3. **Create a Merge Request** 
+1. On the bottom of the issue, click on the green **Create merge request** button. Note: this will create a new branch from the master branch using the default name of the issue. 
+1. Click the **drop down arrow** to view that you can customize the branch name it will create, for this exercise, leave it at the default.  
+1. Click the **Create** **merge request** button.
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.077.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.078.jpeg)
+
+4. **Edit Files Inline on a Branch** 
+1. On the Merge Request, click the **Open in Web IDE** button.
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.079.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.080.jpeg)
+
+2. On the left-hand navigation pane, click on **README.md.** 
+2. In the editor, on line 5 type, “***Edit my README.md file***” 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.081.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.082.jpeg)
+
+4. Click the blue **Commit** button on the bottom of the screen. 
+4. In the commit message box, type “***Updated the README.md file***” and then click the **Commit** button. 
+5. **Verify changes in the merge request** 
+1. On the very bottom of your browser window, locate the merge request message and the small exclamation point- Click on the blue hyperlinked number to open the request.
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.083.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.084.jpeg)
+
+2. On the Merge Request window- locate the Assignee section in the upper right-hand corner. Ensure the Merge Request is assigned to yourself. 
+6. **Make a Commit Comment** 
+1. On your Merge Request, click on the **Changes** tab directly below the Merge Request title.  
+1. Click on **Changes** 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.085.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.086.png)
+
+3. Hover over the left side of any line and a comment icon will appear. Hover over line 3 and click the **comment** icon. 
+3. In the comment field type, “this code xyz will fix this!” and click the **Start a review** button. Then click the **Submit Review** button.
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.087.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.088.jpeg)
+
+5. To mark that the comment has been looked at and the code adjusted, click the **Resolve Thread** icon to close the review.  
+7. **Approve the Merge Request** 
+1. To mark the Merge Request ready, click the **Mark as ready** button in the upper right hand corner.  
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.089.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.090.png)
+
+2. Click the **Overview** tab on the Merge Request.  
+2. Click the **Merge** button and ensure the Delete source branch checkbox is enabled. 
+2. If there were eligible approvers, the approval button would be in the View Eligible Approvers section.  
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.091.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.092.jpeg)
+
+5. **LAB 4- BUILD A GITLAB-CI.YML FILE** 
+
+**5.1. Create a new Project** 
+
+1. Navigate to **Groups** > **Your Groups**
+1. Navigate to **Training Users** and expand the arrow to the left of Training Users, your training login will be the first one under your class session. 
+1. Navigate to the **New Project** button** and click it.  
+1. In the Project name dialog box, enter “***CI Test*”**.  Optionally you may include a few notes in the Project Description Dialog Box. 
+1. Under Visibility Level, click the radio button for **Private**.  
+1. Click **Initialize repository with a README** checkbox and then click the green **Create project** button.  
+1. Navigate to My Groups > Training Users > Session > My Test Group 
+1. Click the **New File** button in the repository area.
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.093.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.094.jpeg)
+
+9. In the file name dialog box enter  *.gitlab-ci.yml* -> Select **.gitlab-ci.yml** for template type -> apply the **Bash** template 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.095.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.096.jpeg)
+
+10. For simplicity, we will create a minimum .gitlab-ci.yml file. 
+1. From the editor -> Remove all lines above and below the build1 and test1 sections  
+1. Add build and test stages at the top of the file.  Hint: watch your spacing! 
+
+   3. stages: 
+- build 
+- test 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.097.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.098.jpeg)
+
+11. Click the green **Commit Changes** button.  
+11. Notice a pipeline runs in the upper right corner of the page  
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.099.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.100.png)
+
+13. You can click on the blue pipeline running button to view the pipeline or you can navigate to it by clicking the CI/CD section to the left pane - Click **CI/CD** - 
+
+\> **Pipelines**  the review the passed section.  
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.101.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.102.jpeg)
+
+14. Each widget represents the web terminal that ran when you clicked commit. 
+15. Click each widget and identify the runner that ran on each job.  Your runners are selected at random, and we have the ability to limit which runners run using advanced CI configuration. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.103.jpeg)
+
+16. Review the different views in the Web Terminal for CI/CD Jobs. 
+6. **LAB 5- AUTO DEVOPS LAB- PREDEFINED TEMPLATE** 
+
+We will use a pre-defined template for Node JS express to show how auto devops works.  
+
+**6.1. Create a New Project with AutoDevOps** 
+
+1. Navigate to the **New Project** button and click it. You are now in the new project view.  Navigate to and click on **Create from template** -> locate and select the **NodeJS Express** template -> click **Use template.** 
+1. In the Project name dialog box, enter** *autoDevOps-test template* ->  Click **Create project** 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.104.jpeg)
+
+3. Remember auto DevOps is an alternative to crafting your own .gitlab-ci.yml file.  Note the banner alerting us that Auto DevOps is running in the background. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.105.jpeg)
+
+4. Navigate to the CI/CD in the left pane -> Click **Pipelines** -> note there are no pipelines running.  The common way for a pipeline to execute, is with a commit, so with each commit; a pipeline runs. (default behavior)  
+4. Create a **new branch** 
+4. Navigate to the left  pane -> Click **Branches** -> Click on **New branch** -> In the Branch name dialog box -> enter  *feature-content-update* -> Click **Create branch** 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.106.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.107.jpeg)
+
+7. Navigate to the left pane -> Click on CICD Pipelines -> **Note a a pipeline is running and it is tagged with Auto DevOps** 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.108.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.109.jpeg)
+
+8. Click **running** and note the stages. 
+8. Make a content change using the **Web IDE** 
+8. Navigate to and click on **Repository** - Click **Web-IDE** 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.110.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.111.jpeg)
+
+11. Switch to our new feature-content-update branch 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.112.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.113.jpeg)
+
+12. Click **views -> index.pug** 
+12. Modify the last line of the index.pug file to:  ***p GitLab Welcomes you to*** Note: the added “p” before is not an error- this is part of the code. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.114.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.115.jpeg)
+
+14. Click **Commit** ->  add a message: *Updated Index* -> leave the default checkboxes -> Click **commit**. 
+15. Assign the merge request to yourself. 
+15. Enter *Draft*: in the title -> Navigate to the bottom of page -> Click **Submit merge request**  
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.116.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.117.jpeg)
+
+Note:  We now have an active merge request and it will show us the status of our pipeline for the last change we made or the last commit we made. 
+
+17. It will deploy into this environment called review/ “branch name”  
+17. Click **Packages & Registries** -> **Container Registries** 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.118.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.119.jpeg)
+
+7. **LAB 6- SECURITY SCANNING (SAST)**  
+
+Application Security Testing (SAST) allows you to analyze your source code for known vulnerabilities. GitLab checks the SAST report and compares the found vulnerabilities between the source and target branches. The purpose of this lab is to run a SAST to identify potential security vulnerabilities in your pipeline. 
+
+**7.1. Step 1: Navigate to the CI-Test Project**  
+
+1. Open your CI-Test project and locate  your **.gitlab-ci.yml** file and click on it 
+1. ![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.120.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.121.jpeg)
+1. Click on **Web IDE** to begin editing your .gitlab-ci.yml file.  
+1. Note: For this lab, please pull up the following [Docs article](https://docs.gitlab.com/ee/user/application_security/sast/) to assist you. This page displays instructions for how to include SAST in your own CI. The page also displays GitLab supported languages and frameworks.  
+1. On the Docs page, scroll down and locate the **Configure SAST Manually** section.  
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.122.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.123.jpeg)
+
+6. Copy the following line: 
+
+include: 
+
+- template: Security/SAST.gitlab-ci.yml 
+7. Navigate back to the GitLab dashboard and locate your .gitlab-ci.yml file 
+7. **Paste the code** just copied below the test1 section leaving a space between blocks of code.  Note: ensure this lines up with the template. 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.124.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.125.jpeg)
+
+9. Click the green **Commit** button to begin running your pipeline. 
+9. Add a message for your change. 
+9. Click **Commit to master branch**.  Note: We don’t want to create a new branch 
+9. Now we will need to add a main.go file, navigate to your repository by clicking the Repo tab on the left hand panel.  
+9. Click the **Drop Down** arrow and select **New File** 
+9. ![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.126.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.127.jpeg)
+15. In the file name field, type ***main.go*** 
+15. Copy and paste the file contents from this [snippet](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-with-git-basics/gitlab-flow-demo/-/snippets/2214) beginning at line 1.  
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.128.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.129.jpeg)
+
+17. Click **Commit changes** 
+17. Navigate to **CI/CD** in the left pane  Note the security scan is running. 
+17. Click on your pipeline - > Click on the **Security tab** -> Navigate to  the **Vulnerability** tab -> Click **Errors unhandled** 
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.130.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.131.jpeg)
+
+![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.132.png)![](Aspose.Words.28adb55b-6531-41eb-b2a6-7bd55d320ed1.133.jpeg)
+
+8. **QUESTION & ANSWER SESSION**  
+
+If you have any follow up questions regarding these labs, feel free to chat them directly to your instructor in the online class platform or you can email us at <Proserv-education@gitlab.com>. 
+Page PAGE35 of NUMPAGES35 
+
+©2021 GitLab Inc.| All rights reserved 
+
 
 ## Professional Services offerings
 
