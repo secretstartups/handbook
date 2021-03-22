@@ -20,8 +20,37 @@ The Security team *should* create an [incident communication request](https://gi
 
 In the template the Security team should include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
 
+## Roles and Responsibilities
+### Requestor is responsible for: 
+* **Alerting email team as soon as possible that there may be a send (even if it does not move forward)**
+* Providing FINAL email, landing page, form copy, autoresponder copy, etc.
+    * NOTE: The addition of each item will increase scope and potentially delay announcement
+* Requesting target list from Data Team (creating the issue)
+* Creating [email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/incident_communications.md)
+* Providing approval list and who signs off on the email
+* Approving test email 
+* Providing any edits to the test email
+* Providing send time and date 
+* Approving all other materials and workflows (landing pages, forms, completion actions)
+
+### Email team are responsible for: 
+* Providing a timeline based on the request
+* Creating epic and some issues (all except for the target list or email request issues)
+* Building the email program and actual emails in Marketo (or sending platform of choice)
+* Uploading target list to Marketo (or sending platform of choice)
+* Sending test emails to requestors to approve
+* Making one round of changes to the emails
+* Creating form and Marketo landing page (if needed) - about.gitlab.com content or landing pages need to be requested and are created by the corp marketing team
+* Building workflows for form completion actions
+* Deploying emails
+* Providing email performance report, email link click reports, and form/landing page reports
+* Creating SFDC campaign if needed (if needed)
+* Coordinating SDR routing needs with Marketing Ops
+
+
 ## Standard Process
 This is the process to follow when there is an announcement that is an emergency that will need to be sent by the marketing ops and campaigns team. The marketing teams will determine what platform will be used based on the information that is provided to them such as timing, list size and severity.
+
 ### 1. **Requesting team notifies that an emergency communication is needed**
 - Immediately slack #mktgops and include the incident issue and the incident slack channel. If there is not a prompt response, follow on-call procedures.
 ### 2. **Issue Creation**
@@ -44,9 +73,8 @@ This is the process to follow when there is an announcement that is an emergency
 
 ## Lists 
 
-1. Most emergency communications the Security team should be providing a list as a Google Sheet in the issue request. 
-1. If no list is provided, need to ask for the parameters for filters. 
-     - Engineering Support would be able to pull a list from user table if necessary
+1. For most emergency communications the Security team should be providing a list as a Google Sheet in the issue request. 
+     - The Data team is able to pull a list from user table if necessary. Please create an issue with the Data team.
 1. If a generic emergency communication the opt-in email list contained in Marketo can be used. 
 1. Seldomly, lists need to be created in Salesforce or Marketo using parameters found within the marketing database.  
      - Marketo & Salesforce **do not** contain all records within the user table and vice versa
