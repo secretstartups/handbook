@@ -122,8 +122,5 @@ The recruiting team may also ask candidates if they've worked with anyone in the
 If a GitLab team-member provides a positive or negative feedback on a candidate, they should provide specific details of their experience and relationship with the candidate to enable the hiring manager to make an informed decision.
 
 #### Backchannel References
-As a hiring manager, if you decide to inquire about a candidate through known associates at their current or former employer there are some important steps to ensure
-you take.
 
-1. Inform the candidates you are about to start backchannel references and respect their wishes if they request you not
-1. Ask the candidates if there are any specific individuals or organizations that should not be contacted as part of the backchannel reference process
+At no time should a backchannel reference be completed. A backchannel reference is defined as reaching out to someone in a candidates network (professional or personal), to gather feedback about the candidate. 
