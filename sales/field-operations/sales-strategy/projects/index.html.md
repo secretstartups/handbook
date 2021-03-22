@@ -86,6 +86,8 @@ These fields are populated manually by Sales Ops on the user record as part of n
 
 We stamp the values from these fields onto our opportunity records at various points during the sales cycle, and we use these fields to tell us which sales team worked on each opportunity.
 
+For more info on user hierarchy, please see [this page](https://about.gitlab.com/handbook/sales/sales-term-glossary/#user-hierarchy).
+
 #### Key Salesforce Fields for Reporting by Account Characteristics
 
 We also have segment/geo/region/area fields on the Account object in Salesforce that mirror those on the User object. The Account fields sometimes share the same values as the User fields but are based on characteristics of the Account rather than characteristics of the sales rep who worked on the Account.
