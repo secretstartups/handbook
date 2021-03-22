@@ -10,6 +10,14 @@ title: "LATAM Region Handbook"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+##  What is the Latin American Region? 
+
+Latin America is a region of the world that spans two continents, North America (including Central America and the Caribbean) and South America. It includes 19 sovereign nations and one non-independent territory, Puerto Rico. Most people in the region speak Spanish or Portuguese, although French, English, Dutch, and Kreyol are also spoken in parts of the Caribbean, Central America, and South America. Its population is 652mil representing 8.5% of the Wolrds Population. 
+
+The Latin America region economies represents 6.5% of the Worlds GDP coming in at $5.7 trillion in 2019, the countries in Latin America are still considered "developing" or "emerging" nations, with Brazil, Mexico, and Argentina comprising the largest economies. 
+
+
+
 ##  LATAM Region Mission
 
 **Work in progress**
