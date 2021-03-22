@@ -79,6 +79,12 @@ This is the process to follow when there is an announcement that is an emergency
 1. Seldomly, lists need to be created in Salesforce or Marketo using parameters found within the marketing database.  
      - Marketo & Salesforce **do not** contain all records within the user table and vice versa
 
+### List Considerations
+
+- List loads greater than 20k take time. Millions may take hours.
+- Each platform has their own limits as to size of CSV that can be uploaded.
+- Lists greater than 100k may be subject to verification, so that we do not risk our sending reputation. Marketing Ops has budget set aside for these, but it will add possible days to the timeline to send. 
+
 ## Email Platform to Use
 The email platform determines many different factors for us.
 - [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Will not be used for communications over 20k
@@ -86,10 +92,15 @@ The email platform determines many different factors for us.
 - MailGun: If list send is greater than 50k we will use this. This involves engineering and will add 1 day minimum to send
 - [MailChimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends): Only if other platforms are not an option
 
-## Other Considerations
-- List loads greater than 20k take time. Millions may take hours.
-- Each platform has their own limits as to size of CSV that can be uploaded.
-- Lists greater than 100k may be subject to verification, so that we do not risk our sending reputation. Marketing Ops has budget set aside for these, but it will add possible days to the timeline to announce. 
+## Other Considerations and Questions for Requestors
+
+- Send / Reply-to email
+     - Should there be an auto-responder?
+     - Will someone be monitoring the email address?
+     - If unmonitored, does the email mention that?
+- Form + Landing Page
+     - Confirmation email copy
+     - Who from GitLab receives the alert?
 
 ## Pager Duty
 
