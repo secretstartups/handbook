@@ -34,6 +34,35 @@ We currently offer support for a [few languages](https://about.gitlab.com/suppor
 
 English is the offical language used on GitLab's [documentation](https://docs.gitlab.com/) and in the [Community Forum](https://forum.gitlab.com/).
 
+## Google Drive Name Convention and Organization
+
+Due the diversity of teams working in every country in Latin America, we have created a google drive [LATAM](https://drive.google.com/drive/folders/1OjjRxIJujWtmPeFRON0FkbAgQe4h1QKI) where we are saving all documents we have with our customers.
+
+This helps us to increase collaboration between all team members, be more efficient and transparent as these documents are accesible for GitLab team members.
+
+To organize the documentation we have three mains folders (ES for Spanish, PT for Portuguese and EN for English) and within these ones we have a folder for each customer with a prefix of their country abbereviation "XX - company name". The abbreviation list is in the following table:
+
+| Abbreviation | Country Name |
+| ---------------- | ---- |
+| AR | Argentina |
+| BO | Bolivia |
+| BR | Brazil |
+| CY | Cayman Islands |
+| CL | Chile |
+| CO | Colombia |
+| CR | Costa Rica |
+| DO | Dominican Republic |
+| EC | Ecuador |
+| SV | El Salvador |
+| HN | Honduras |
+| JM | Jamaica |
+| MX | Mexico |
+| PA | Panama |
+| PY | Paraguay |
+| PE | Peru |
+| UY | Uruguay |
+| VE | Venezuela |
+
 ## Events, webinars and resources in Spanish and Portuguese.
 
 GitLab LATAM has been promoting several Webinars and events for the entire Spanish and Portuguese speaking community. Below you can find our latest webinars and Events:
