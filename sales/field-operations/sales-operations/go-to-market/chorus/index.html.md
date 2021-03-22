@@ -13,6 +13,7 @@ Confused about how to use Chorus? Check out the links below for more information
 
 ## Chorus.ai Basics
 
+- [How to Remove Chorus From a Meeting](https://www.loom.com/share/a6513ac235ae4eb9acaaeb167d7583ce) 
 - [Getting Started with Chorus](https://docs.chorus.ai/hc/en-us/sections/115002365608-Getting-Started-with-Chorus)
 - [Chorus FAQs](https://docs.chorus.ai/hc/en-us/sections/115002365588-FAQs)
 - [Chorus Basics for SDRs and Reps](https://docs.chorus.ai/hc/en-us/sections/360003251593-Chorus-Basics-for-SDRs-BDRs-and-Reps)
