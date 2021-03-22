@@ -323,9 +323,10 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 
 Steps to add AE names to open/closed opps owned by Sales Admin (Easy Fixes)
 
-1. Export the easy fix reports from this dashboard 
+1. Export the easy fix reports from [this dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM) 
 1. To work from google sheet: Copy Values and paste into google spreadsheet, or you can use Excel
 1. Match the opportunity owner to the current account owner
+    - **EXCEPTION**: For existing accounts where the OSS/EDU Assigned field is populated AND the Web direct opportunity is $0 Net ARR, the opportunity owner should be the person in the OSS/EDU Assigned field
 1. To prepare the upload, you will only need the following fields: Opportunity Owner ID, Opportunity ID, SA Team, Account Owner (O), Owner Team (O) (you also need to update the Account ID/ Account Owner ID but I recommend uploading the accounts on a separate worksheet to avoid confusion.)
 1. Save the file as CSV and upload to data loader. 
 1. To update the account owner you will need Account ID, Account Owner ID. Match the opp owner to the Account Owner and upload.
@@ -333,12 +334,12 @@ Steps to add AE names to open/closed opps owned by Sales Admin (Easy Fixes)
 
 Steps to add AE’s to Closed Opps and accounts owned by Sales Admin (Hard Fixes)
 
-1. Export the hard fix reports from this dashboard 
+1. Export the hard fix reports from [this dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM) 
 1. To work from google sheet: Copy Values and paste into google spreadsheet, or you can use Excel
 1. Add filters onto the sheet to organize the sheet in alphabetical order 
 1. Sort the “Billing Country” field A → Z, this way you can populate multiple owners if the opps have the same billing country
 1. It is easier to work by market segment, filter by SMB/MM/Large (choose a field from Account Owner Team, Owner Team, SA Team - it is usually just best to choose the field with more values since many opportunities have missing fields)
-1. Use this mapping file to look for corresponding AE’s 
+1. Use [this mapping file](https://docs.google.com/spreadsheets/d/1n3_JQULEzHjwlrSQcchxnFiSLVD698yxF4k-M6OtQ2E/edit#gid=950930175) to look for corresponding AE’s 
 1. Insert 2 rows on the sheet and add Owner Name and Owner ID (you will delete the name later in prior to uploading- but is there for your view) 
 1. After inputting the names and Owner ID’s there will be multiple opps that do not have Billing countries listed on the Account. There are many times in which have TSP Country fields populated, but not the Billing Country or vice versa. Use those fields to map and populate the corresponding AE’s.
 1. If there is a zip code but no countries listed, it is recommended that you use google search to populate the States/countries to find the corresponding AE’s. 
