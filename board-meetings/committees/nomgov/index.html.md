@@ -25,7 +25,7 @@ title: "Nominating and Corporate Governance Committee"
     - identifying, considering and recommending candidates for membership on the Board;
     - developing and recommending corporate governance guidelines and policies for the Company; 
     - advising the Board on corporate governance matters and Board performance matters, including recommendations regarding the structure and composition of the Board and Board committees; and
-    - assisting the Board in overseeing any Company program relating to corporate responsibility and sustainability [^1]. 
+    - assisting the Board in overseeing any Company program relating to corporate responsibility and sustainability. 
     
 This charter (the “**Charter**”) sets forth the authority and responsibilities of the Committee in fulfilling its purpose.
 
@@ -72,7 +72,3 @@ The responsibilities and authority of the Committee will include:
     The Committee will maintain written minutes of its meetings and copies of its actions by written consent, and will make such minutes and copies of written consents available to the other members of the Board and cause them to be filed with the minutes of the meetings of the Board.  The Chair will report to the Board from time to time with respect to the activities of the Committee, including on significant matters related to the Committee’s responsibilities and the Committee’s deliberations and actions.
 7. **Delegation of Authority:** The Committee may from time to time, as it deems appropriate and to the extent permitted under applicable law, and the Company’s Certificate of Incorporation and Bylaws, form and delegate authority to subcommittees. Subcommittees of the Committee will consist of one or more members of the Committee who will regularly report on their activities to the Committee. 
 8. **Review of Committee Composition, Performance and Charter:** The Committee will evaluate on an annual basis the Committee’s composition and performance. The Committee also will review and reassess the adequacy of this Charter annually, and recommend to the Board any changes the Committee determines appropriate.
-
-## Footnotes 
-
-[^1]: Many technology companies are starting to include corporate responsibility in their charters as a result of increased focus on this by a variety of stakeholders, including employees, proxy advisory firms and institutional stockholders.
