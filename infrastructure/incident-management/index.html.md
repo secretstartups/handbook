@@ -104,7 +104,7 @@ In some cases, we may choose not to post to status.io, the following are example
 
 #### Incident Manager on Call (IMOC) Responsibilities
 
-1. When the IMOC is engaged on an incident, they are responsible for keeping the `Current Status` section as updated as possible.
+1. When the IMOC is engaged on an incident, they are responsible for keeping the `Current Status` section of the incident issue regularly updated.
 1. The SSOT for who is the current IMOC is the [GitLab Production - IMOC](https://gitlab.pagerduty.com/service-directory/PE8A5MX) service definition in PagerDuty.
 1. The IMOC should [monitor](https://gitlab.slack.com/archives/CB7P5CJS1) ongoing [incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues?scope=all&utf8=%E2%9C%93&state=opened) and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC. [IMOC incident Checklist in runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/incidents/general_incidents.md#imoc-checklist)
