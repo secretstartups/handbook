@@ -33,13 +33,14 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 1. Management Operating Rhythm
 
 ## Core Team
-- [Carolyn Bednarz](https://about.gitlab.com/company/team/#cbednarz) (People Business Partner, Sales)
-- [Josh Zimmerman](https://about.gitlab.com/company/team/#Josh_Zimmerman) (Learning & Development Manager)
-- [David Somers](https://about.gitlab.com/company/team/#dcsomers) (Sr. Director, Field Enablement)
-- Field Manager delegates
-    - [Timm Ideker](https://about.gitlab.com/company/team/#tideker) (Regional Sales Director, Mid-Market, Global)
-    - [Robbie Byrne](https://about.gitlab.com/company/team/#RobbieB) (Area Sales Manager, EMEA)
-    - [Tom Plumadore](https://about.gitlab.com/company/team/#Plumadore) (Area Sales Manager, ENT AMER Southeast)
-    - [Dave Astor](https://about.gitlab.com/company/team/#disastor) (Manager, Solutions Architects, US East) 
-    - [Michael Leutz](https://about.gitlab.com/company/team/#mrleutz) (Manager, Technical Account Managers, EMEA)
+- [Carolyn Bednarz](/company/team/#cbednarz) (People Business Partner, Sales)
+- [Josh Zimmerman](/company/team/#Josh_Zimmerman) (Learning & Development Manager)
+- [David Somers](/company/team/#dcsomers) (Sr. Director, Field Enablement)
+- Field Manager Advisors
+    - [Helen Mason](/company/team/#hmason) (Area Sales Manager (SMB), EMEA)
+    - [Jacob Potter](/company/team/#jpotter1) (Area Sales Manager, Mid Market First Order)
+    - [Robbie Byrne](/company/team/#RobbieB) (Area Sales Manager, EMEA)
+    - [Tom Plumadore](/company/team/#Plumadore) (Area Sales Manager, ENT AMER Southeast)
+    - [Dave Astor](/company/team/#disastor) (Manager, Solutions Architects, US East) 
+    - [Michael Leutz](/company/team/#mrleutz) (Manager, Technical Account Managers, EMEA)
 
