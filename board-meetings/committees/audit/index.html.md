@@ -25,7 +25,9 @@ title: "Audit Committee"
     - the Company’s accounting and financial reporting processes and internal controls, including audits and the integrity of the Company’s financial statements; 
     - the qualifications, independence and performance of the Company’s independent auditors (the “**Independent Auditors**”); 
     - risk assessment and management; and 
-    - compliance by the Company with legal and regulatory requirements. This charter (the “**Charter**”) sets forth the authority and responsibility of the Committee in fulfilling its purpose. The function of the Committee primarily is one of oversight. 
+    - compliance by the Company with legal and regulatory requirements. 
+
+This charter (the “**Charter**”) sets forth the authority and responsibility of the Committee in fulfilling its purpose. The function of the Committee primarily is one of oversight. 
 1. **Structure and Membership**
     - **Members.** The Audit Committee shall consist of at least three or more members of the Board, with the exact number determined by the Board. All members of the Committee will be appointed by the Board and will serve at the Board’s discretion.
     - **Chair.** The Board shall elect a Chair of the Committee, the Committee shall elect a Chair by majority vote.
@@ -39,11 +41,11 @@ title: "Audit Committee"
        - The Committee shall discharge its responsibilities, and shall assess the information provided by the Company’s management and the Indepedent Auditors, in accordance with its business judgment. Management is responsible for the preparation, presentation, and integrity of the Company’s financial statements and for the appropriateness of the accounting principles and reporting policies that are used by the Company. The Independent Auditors are responsible for auditing the Company’s financial statements. The authority and responsibilities set forth in this Charter do not reflect or create any duty or obligation of the Committee to plan or conduct any audit, to determine or certify that the Company’s financial statements are complete, accurate, fairly presented, or in accordance with generally accepted accounting principles or applicable law, or to guarantee the Independent Auditors’ reports.
     - **Financial Statements and Disclosures.** The Committee will:
        - Review and discuss the following with management, the internal auditors (if any), and the Independent Auditors, as applicable: 
-          - a. the Company’s annual audited and quarterly unaudited financial statements; 
-          - b. the results of the Independent Auditors’ audit or review of the financial statements; 
-          - c. all critical audit matters (CAMs) proposed by the Independent Auditor to be included in the Independent Auditor’s annual audit report; 
-          - d. any items required to be communicated by the Independent Auditors in accordance with the applicable requirements of the Public Company Accounting Oversight Board (the “PCAOB”); and
-          - e. any significant issues, events and transactions as well as any significant changes regarding accounting principles, practices, policies, judgments or estimates. 
+          - i. the Company’s annual audited and quarterly unaudited financial statements; 
+          - ii. the results of the Independent Auditors’ audit or review of the financial statements; 
+          - iii. all critical audit matters (CAMs) proposed by the Independent Auditor to be included in the Independent Auditor’s annual audit report; 
+          - iv. any items required to be communicated by the Independent Auditors in accordance with the applicable requirements of the Public Company Accounting Oversight Board (the “PCAOB”); and
+          - v. any significant issues, events and transactions as well as any significant changes regarding accounting principles, practices, policies, judgments or estimates. 
     - **Internal Controls** With respect to the Company’s internal controls, the Committee will: 
         - i. Review and discuss with the Company’s management, its internal auditors (if any), and the Independent Auditors, and provide oversight over, the design, implementation, adequacy and effectiveness of the Company’s accounting and financial processes and systems of internal controls and material changes in such controls, including any control deficiencies, significant deficiencies and material weaknesses in their design or operation. 
         - ii. Review any allegations of fraud that are disclosed to the Committee involving management or any Company team member with a significant role in the Company’s accounting and financial reporting process and systems of internal controls. 
