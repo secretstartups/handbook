@@ -31,7 +31,7 @@ When we connect data from Google Sheets everyone on the DMP team needs to able t
 #### Active dataStudio dashboards
 
 - [Marketing metrics dashboard](https://datastudio.google.com/reporting/1mvDffnzlIWsr-2S_cvkpRx0X25hiM_TI/page/1M) — Used to generate data for our monthly marketing metrics deck. A few elements update manually, ping the Digital Marketing team in #digitalmarketing if you need updated numbers.
-- [Blog dashboard](https://datastudio.google.com/s/vENymsekyR0) — Blog content reports, primarily used by the content team to track traffic to the blog, page visits, new and returning users, and conversion.
+- [Blog dashboard](https://datastudio.google.com/u/0/reporting/d99537bc-bdfc-475f-b545-bdbe3f885cdd/page/psGyB) — Blog content reports, primarily used by the content team to track traffic to the blog, page visits, new and returning users, and conversion.
 - [Just Commit dashboard](https://datastudio.google.com/reporting/1dbt-3WI6KzySYrnolIUfCufvvtba20f9/page/kWdQ) — Tracks progress of Just Commit integrated campaign.
 - [Job pages dashboard](https://datastudio.google.com/reporting/1w6TwUeGjkQpPZz4jvp9Hye8vdGP6MYel/page/JcPY) — Provides context around job page interactions.
 - [Security releases dashboard](https://datastudio.google.com/reporting/1bP748BOhYmgWRcfeoRiSCOHz7q4NUMkV/page/l7vj) — Website analytics data for security release blog posts.
