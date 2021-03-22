@@ -445,10 +445,10 @@ The number of contracted users on active paid subscriptions. Excludes OSS, Educa
 ### User Hierarchy
 
 All Accounts and Opportunities are owned by a "User" in SFDC (primarily a Sales Users) and each User is assigned a set of User Hierarchy attributes.  These attributes allow for "user based" reporting and include the following:
-        1. **User Segment**: The Sales Segment in which the user sells into (Large, PubSec, Mid-Market, SMB)
-        1. **User Geo**: The highest level of geographical coverage and in general, reflects the major theaters in which a User sells into (AMER, APAC, EMEA)
-        1. **User Region**: A subset or subsection of the Geo, this next level down in the hierarchy reflects a more granular geography in which the User sells into (East, West, PubSec, etc)
-        1. **User Area**: A subset or subsection of the Region, this next level down in the hierarchy reflects a more granular geography in which the User sells into (Bay Area, PNW/MW, Central, Named, Northeast,DACH, UK/I, Civilian, NSG, First Order, etc)
+- **User Segment**: The Sales Segment in which the user sells into (Large, PubSec, Mid-Market, SMB)
+- **User Geo**: The highest level of geographical coverage and in general, reflects the major theaters in which a User sells into (AMER, APAC, EMEA)
+- **User Region**: A subset or subsection of the Geo, this next level down in the hierarchy reflects a more granular geography in which the User sells into (East, West, PubSec, etc)
+- **User Area**: A subset or subsection of the Region, this next level down in the hierarchy reflects a more granular geography in which the User sells into (Bay Area, PNW/MW, Central, Named, Northeast,DACH, UK/I, Civilian, NSG, First Order, etc)
 
 User Hiearchy attributes are determined by Sales Operations, Sales Strategy and Finance and live on the User record in SFDC.  Any questions or discrepancies with respect to User Hierarchy should be addressed with [Sales Operations](/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us)
 
