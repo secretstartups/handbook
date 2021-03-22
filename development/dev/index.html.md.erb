@@ -82,10 +82,10 @@ The Dev sub-department is taking care of the first part of the DevSecOps Lifecyc
 <%= direct_team(manager_role: 'Backend Engineering Manager, Create:Static Site Editor') %>
 
 #### Create:Source Code Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Delivery & Scalability') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Code Review)Source Code/) %>
 
 #### Create:Code Review Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Code Review') %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Create:Source Code, Create:Code Review, Delivery & Scalability', role_regexp: /(?!Source Code)Code Review/) %>
 
 #### Gitaly
 <%= direct_team(manager_role: 'Backend Engineering Manager, Gitaly') %>
