@@ -62,7 +62,8 @@ The error budgets process has a few distinct items:
 
 1. Budget stakeholders
 1. Budget allocation
-1. Budget spend
+1. Budget spend (by service)
+1. Budget spend (by feature category)
 1. Budget accounting
 1. Communication between the stakeholders
 
@@ -88,7 +89,7 @@ The budget is set on the SaaS platform and is shared between stage and infrastru
 
 This budget does not take into account the number or complexity of the features owned by a team, existing product priorities, or the team size.
 
-## Budget spend
+## Budget spend (by service)
 
 The current budget spend can be found on the [general SLA dashboard][SLA dashboard].
 
@@ -102,13 +103,34 @@ The budget spend is currently aggregated at the primary service level.
 
 Details on what contributed to the budget spend can be further found by examining the raised incidents, and exploring the specific service dashboard (and its resources).
 
+## Budget spend (by feature category)
+
+The current 30 day budget spend can be found on each [stage group dashboard][stage group dashboards]. Feature categories for that stage group are rolled up to a single value. 
+
+Stage groups can use their dashboards to explore the cause of their budget spend. 
+
+The formula for calculating budget spend is as follows:
+```
+the number of operations with a satisfactory apdex + the number of operations without errors    
+/
+the total number of apdex measurements + the total number of operations
+```
+
+This is converted to minutes:
+```
+(1 - gitlab:stage_group:error_budget:ratio_3d) * (30 * 24 * 60)
+```
+
+_Apdex is a measure of response time based against a set threshold. It measures the ratio of satisfactory response times to unsatisfactory response times._
+
+
 ## Budget accounting
 
 The Infrastructure department announces the budget spend at the end of each month in [the relevant Engineering communication channels][eng comms].
 
 The budget spend is also announced in [the weekly GitLab SaaS call](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure).
 
-## Current State and Future Intent
+# Current State and Future Intent
 
 This process complements the [Engineering Architecture evolution process][architecture] in that:
 
@@ -140,3 +162,4 @@ Notable items to be addressed in future iterations include:
 [okr]: /handbook/engineering/#engineering-okr-process
 [eng comms]: /handbook/engineering/#keeping-yourself-informed
 [SLA dashboard]: https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now
+[stage group dashboards]: https://dashboards.gitlab.net/dashboards/f/stage-groups/stage-groups
