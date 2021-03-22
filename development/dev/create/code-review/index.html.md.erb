@@ -16,8 +16,95 @@ The Create:Code Review Group is responsible for all aspects of the product categ
 [stage]: /handbook/product/categories/#create-stage
 [lifecycle]: /handbook/product/categories/#devops-stages
 
-## Group Members
+## Group overview
+
+### Group members
 
 The following people are permanent members of the Create:Code Review Group:
 
 <%= product_group_table(group: 'Create:Code Review') %>
+
+### Sub-department specific pages
+
+- [Backend](/handbook/engineering/development/dev/create/code-review/backend/)
+- [frontend](/handbook/engineering/development/dev/create/code-review/frontend/)
+
+### Product categories
+
+The Code Review group is responsible for the following product categories:
+
+- [Code Review](/direction/create/code_review/)
+- [Editor Extension](https://about.gitlab.com/direction/create/editor_extension/)
+
+### Category performance indicators
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10426645, dashboard: 786738, embed: 'v2') %>">
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 11037140, dashboard: 825329, embed: 'v2') %>">
+
+## Work
+
+In general, we use the standard GitLab [engineering workflow]. To get in touch with the Create:Code Review FE team, it's best to create an issue in the relevant project (typically [GitLab]) and add the `~"group::code review"` label, along with any other appropriate labels (`~devops::create`, `~section::dev`). Then, feel free to ping the relevant Product Manager and/or Engineering Manager as listed above.
+
+For more urgent items, feel free to use [#g_create_code_review] on Slack.
+
+Work on the [GitLab VS Code Extension] follows a simplified development process. Learn more about it by looking at [CONTRIBUTING.md].
+
+[Take a look at the features we support per category here.]
+
+[engineering workflow]: /handbook/engineering/workflow/
+[GitLab]: https://gitlab.com/gitlab-org/gitlab
+[#g_create_code_review]: https://gitlab.slack.com/archives/g_create_code-review
+[#g_create_code_review_fe]: https://gitlab.slack.com/archives/g_create_source-code-review-fe
+[GitLab VS Code Extension]: https://gitlab.com/gitlab-org/gitlab-vscode-extension
+[CONTRIBUTING.md]: https://gitlab.com/gitlab-org/gitlab-vscode-extension/-/blob/main/CONTRIBUTING.md
+
+## Working with product
+
+Weekly calls between the product manager and engineering managers (frontend and backend) are listed in the "Code Review Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. Every 2 weeks (in the middle of a release), a [mid-milestone check-in](#middle-of-milestone-check-in) occurs, to report on the current status of ~"Deliverable"s. Monthly calls occurs under the same calendar where the entire group is encouraged to join, in order to highlight accomplishments/improvements, discuss future iterations, review retrospective concerns and action items, and any other general items that impact the group.
+
+### Collaborating with other counter parts
+
+You are encouraged to work as closely as needed with stable counterparts outside of the PM. We specifically include quality engineering and application security counterparts prior to a release kickoff and as-needed during code reviews or issue concerns.
+
+Quality engineering is included in our workflow via the [Quad Planning Process](https://gitlab.com/gitlab-com/www-gitlab-com/issues/6318).
+
+Application Security will be involved in our workflow at the same time that [kickoff emails](#kickoff-emails) are sent to the team, so that they are able to review the upcoming milestone work, and notate any concerns or potential risks that we should be aware of.
+
+### Working with the wider GitLab community
+
+Since we support such a large feature set, our team often reviews community contributions from the wider GitLab community. You're encouraged to give each contributor our version of "[white glove treatment](https://www.merriam-webster.com/dictionary/white-glove)". Providing recognition for their donated time, giving exceedingly helpful reviews, and encouraging them in their contribution are all excellent ways to build a sense of community. If you don't have time to respond to a ping for a review or suggestion, please quickly let the person who pinged you know so they can ping someone else.
+
+#### Tips and Tricks
+
+For tips, tricks, or quick shell scripts that aren't "ready" or sufficient enough to add to our developer documentation or handbook, we use [the Create stage wiki](https://gitlab.com/groups/gitlab-com/create-stage/-/wikis/home).
+
+### Middle of milestone check-in
+
+<%= partial("handbook/engineering/development/dev/create/sourcecode-codereview/midmilestone.erb") %>
+
+### Workflow labels
+
+<%= partial("handbook/engineering/development/dev/create/workflow_labels.erb", locals: { group_label: 'group::code review' }) %>
+
+### Async standup
+
+<%= partial("handbook/engineering/development/dev/create/async_standup.erb") %>
+
+Our team is encouraged to post links to their deliverable issues or merge requests when they are mentioned in relation to the second question. This helps other team members to understand what others are working on, and in the case that they come across something similar in the future, they have a good reference point.
+
+### Retrospectives
+
+We have 1 regularly scheduled "Per Milestone" retrospective, and can have ad-hoc "Per Feature" retrospectives more focused at analyzing a specific case, usually looking into the Iteration approach.
+
+#### Per Milestone
+<%= partial("handbook/engineering/development/dev/create/retrospectives.erb", locals: { group: "Code Review", group_slug: 'code-review' }) %>
+
+#### Per Project
+
+If a particular issue, feature, or other sort of project turns into a particularly useful learning experience, we may hold a synchronous or asynchronous retrospective to learn from it. If you feel like something you're working on deserves a retrospective:
+1. [Create an issue](https://gitlab.com/gl-retrospectives/create-stage/code-review/issues) explaining why you want to have a retrospective and indicate whether this should be synchronous or asynchronous
+2. Include your EM and anyone else who should be involved (PM, counterparts, etc)
+3. Coordinate a synchronous meeting if applicable
+
+All feedback from the retrospective should ultimately end up in the issue for reference purposes.
