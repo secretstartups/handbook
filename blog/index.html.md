@@ -553,7 +553,7 @@ We try to keep images on the blog neutral in terms of gender, ethnicity, etc. Th
 
 ##### Original images
 
-If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates). If you prefer, you can [create an image](#artwork) yourself.
+If you would like an original design for your blog post image, please [open a design request](/handbook/marketing/inbound-marketing/#brand-and-design-issue-templates). If you prefer, you can [create an image](#preparing-images) yourself.
 
 ##### Images for integration posts
 
@@ -1085,16 +1085,6 @@ There are a few ways to create animated GIFs, one of them is using [Giphy Captur
 Avoid GIFs with a huge file size, they will be difficult to load for users with bad internet connection. In those cases, you can either cut the GIFs in smaller pieces, or record a video, or use a sequential image.
 
 Read more on [Making Gifs in the Product Handbook](/handbook/product/making-gifs/).
-
-
-#### Artwork
-
-If you create your own cover image, it should have the following proportions:
-
-- On the [blog landing page](/blog/): 1275px x 750px w/h = 1.7
-- On blog post page (widescreen): 1920px x 550px w/h = 3.5
-
-Try to have them harmonically aligned with the title, which overlays the background image in both cases. To crop the image, use the size of 1275x750 px. If you want to align the background image with the title overlay, use the widescreen proportion.
 
 #### Resizing Images
 
