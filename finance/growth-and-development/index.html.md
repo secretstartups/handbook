@@ -10,7 +10,19 @@ The GitLab Finance Department is dedicated to the growth and development of our 
 
 **On-Boarding Growth and Development**
 
-Finance Team Member on-boarding will include specific tasks and information to foster a culture of continued development. This will include a working style assessment using Simpli5, a view into the Finance Career Ladders, an overview of the different mentorship programs, shadowing opportunities and internship programs, as well as the GitLab training tools available from the People group.
+Finance Team Member on-boarding will include specific tasks and information to foster a culture of continued development. This will include:
+
+-   a list of "Must Meet" for onboarding coffee chats, to be provided by the team member's manager
+
+-   a working style assessment using Simpli5
+
+-   a view into the Finance Career Ladders and a view of the [Org Chart](https://about.gitlab.com/company/team/org-chart/)
+
+-   a link to read GitLab's take on [Career Development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#what-is-career-development)
+
+-   an overview of the mentorship programs, shadowing opportunities and [internship programs](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internship-for-learning)
+
+-   links to the GitLab training tools available from the People group :[External Resources (with no cost)](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#external-resources-some-with-no-cost) &  [Internal Resources](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1)
 
 **Work Style Assessment**
 
