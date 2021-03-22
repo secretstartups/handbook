@@ -141,7 +141,7 @@ Guidance for stage groups is:
 |-----------------|----------|
 | < 5 minutes     | Understand your spend - no further action required. |
 | > 5 > 20 minutes| Increase focus on performance and availability improvements. |
-| > 20 minutes    | Urgent action required.  |
+| > 20 minutes    | Feature category is not performing at scale. Urgent action required.  |
 
 # Current State and Future Intent
 
