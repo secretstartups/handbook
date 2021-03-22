@@ -50,7 +50,7 @@ If the namespace owner makes a response (don’t remove my namespace) follow the
 
 #### Namespace owner has not responded
 
-If after one week there has been no response, apply the [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059) macro a second time and mark the ticket as **On-hold**.
+If after one week there has been no response, apply the [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059) macro a second time (replace `within 2 weeks` in the macro with the due date. Eg. `**before the 25th of March**`) and mark the ticket as **On-hold**.
 
 After two weeks, the ticket will be **automatically marked as open and an email sent to the assigned engineer**.
 
