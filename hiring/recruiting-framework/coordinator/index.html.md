@@ -132,6 +132,7 @@ GitLab will obtain references and complete a criminal [background check](https:/
 - The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initiate the background check process.
 - The Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
 - Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication 
+- Candidates in **Canada** require a form to be filled out by the employer (GitLab). The candidate will send the form with 2 forms of approved ID (listed on the form) and the CES will verify the name on each form of ID, enter it on the background check form. The CES will enter their signature on the form (either by editing a PDF or staging in DocuSign) and send back to the candidate.
 - Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner 
 
 For additional information on reviewing Background checks see [this page](/handbook/people-group/people-policy-directory/#background-checks).
