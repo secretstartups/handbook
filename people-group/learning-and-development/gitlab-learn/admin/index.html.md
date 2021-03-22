@@ -751,7 +751,7 @@ Important considerations when responding to questions in the forum:
 
 #### Team member opens a Zendesk ticket for support
 
-#### Support workflow
+##### Support workflow
 
 1. Use the Zendesk macro to direct team members to Slack
 
@@ -795,13 +795,14 @@ Sincerely,
 Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
 ```
 
-#### I'm having trouble creating an account on GitLab Learn
+#### I'm having trouble creating an account/logging in to my account on GitLab Learn
 
 ##### Support Workflow
 
 1. Confirm the user does not already have an account via the GitLab Learn admin panel
 1. If they **do** have an account set up:
-     1. 
+     1. Send response template below
+     1. Impersonate the account on EdCast if troubleshooting is needed
 1. If they **do not** have an account set up:
      1. Point to the training on [creating a new GitLab Learn account](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
      1. Confirm users are accessing the platform using Google Chrome browser
@@ -894,12 +895,31 @@ Want to connect with other GitLab Learn users? Check out our category on the Git
 
 1. Ask user to open an issue to report the mistake
 
-#####
+##### Response
 
 ```
 Dear {{user.firstname}}
 
 Thanks for helping us keep the content in GitLab Learn up to date! Please refer to the [reporting an error on GitLab Learn handbook section above](/handbook/people-group/learning-and-development/gitlab-learn/user/#reporting-content-errors-in-gitlab-learn) for instructions.
+
+Sincerely,
+
+{{agent.firstname}}
+
+```
+
+#### How do I contribute to GitLab Learn?
+
+##### Support Workflow
+
+1. Send macro that links to contribution process
+
+##### Response
+
+```
+Dear {{user.firstname}}
+
+Thanks for reaching out! Please see our handbook page that outlines [how to contribute learning content to GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/) and let us know if you have any questions!
 
 Sincerely,
 
