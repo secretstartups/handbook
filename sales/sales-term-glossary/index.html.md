@@ -83,7 +83,7 @@ Metrics that are based on customer data should also carry a clarifying descripti
 
 ### Customer Segmentation
 
-Customer segmentation follows the segmentation as laid out in the [Business Operations Handbook](/handbook/sales/field-operations/gtm-resources/#segmentation) at the [Parent Account level](#customers).
+Customer segmentation follows the segmentation as laid out in the [Go to Market Handbook](/handbook/sales/field-operations/gtm-resources/#segmentation) at the [Parent Account level](#customers).
 
 ### Customer Counts
 
@@ -385,9 +385,6 @@ A distinct group or organization within a customer which, from a GitLab customer
 - Their own GitLab instance
 - Their own GitLab management team
 
-### Licensed Users
-
-The number of contracted users on active paid subscriptions. Excludes OSS, Education, Free and other non-paid users. The data source is Zuora.
 
 ### Closed Deal - Won
 
@@ -431,6 +428,29 @@ The opportunity owner's primary reason as to why GitLab lost the deal
 - **Went Silent:** Prospect has ceased communication 
 - **Other:** The deal was lost due to reasons other than noted above
 
+### D300 (Account)
+
+`D300` accounts are any prospect & customer accounts in SFDC that have more than 300 total developers.  This is useful when prioritizing high growth potential with high propensity to buy GitLab to ensure long-term growth within accounts.
+
+### Licensed Users
+
+The number of contracted users on active paid subscriptions. Excludes OSS, Education, Free and other non-paid users. The data source is Zuora.
+
+
+### Sales Qualified Lead (SQL)
+
+[Sales Qualified Lead](/handbook/sales/field-operations/gtm-resources/#customer-lifecycle)
+
+
+### User Hierarchy
+
+All Accounts and Opportunities are owned by a "User" in SFDC (primarily a Sales Users) and each User is assigned a set of User Hierarchy attributes.  These attributes allow for "user based" reporting and include the following:
+        1. **User Segment**: The Sales Segment in which the user sells into (Large, PubSec, Mid-Market, SMB)
+        1. **User Geo**: The highest level of geographical coverage and in general, reflects the major theaters in which a User sells into (AMER, APAC, EMEA)
+        1. **User Region**: A subset or subsection of the Geo, this next level down in the hierarchy reflects a more granular geography in which the User sells into (East, West, PubSec, etc)
+        1. **User Area**: A subset or subsection of the Region, this next level down in the hierarchy reflects a more granular geography in which the User sells into (Bay Area, PNW/MW, Central, Named, Northeast,DACH, UK/I, Civilian, NSG, First Order, etc)
+
+User Hiearchy attributes are determined by Sales Operations, Sales Strategy and Finance and live on the User record in SFDC.  Any questions or discrepancies with respect to User Hierarchy should be addressed with [Sales Operations](/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us)
 
 ### Utilization
 
@@ -438,10 +458,4 @@ Utilization is defined as `Seats currently in use / Seats in license`.
 When not qualified, referring to "utilization" always refers to license utilization.
 All other uses, (e.g. CPU utilization), should be qualified and mentioned specifically.
 
-### Sales Qualified Lead (SQL)
 
-[Sales Qualified Lead](/handbook/sales/field-operations/gtm-resources/#customer-lifecycle)
-
-### D300 (Account)
-
-`D300` accounts are any prospect & customer accounts in SFDC that have more than 300 total developers.  This is useful when prioritizing high growth potential with high propensity to buy GitLab to ensure long-term growth within accounts.
