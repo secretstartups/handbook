@@ -145,6 +145,6 @@ We're expecting, broadly that emergencies will fall into one of three categories
 
 ## US Federal on-call
 
-US Federal on-call support is provided 7 days a week between the hours of 0600 and 1800 Pacific Time.
+US Federal on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time.
 
-The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(Public Link). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0600 Pacific Time and runs until 1200 Pacific Time. The PM shift starts at 1200 Pacific Time and runs until 1800 Pacific Time.
+The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(Public Link). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.
