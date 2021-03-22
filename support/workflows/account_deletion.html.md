@@ -20,6 +20,8 @@ Use the appropriate workflow on this page when a user requests the deletion of t
 
 ### Zendesk
 
+>**NOTE:** As there is a [known bug with Group Managed Accounts](https://gitlab.com/gitlab-org/gitlab/-/issues/209081), see the [Group Managed Accounts section](#group-managed-accounts) for the process.
+
 When a request is received through Zendesk as a ticket, do the following:
 
 1. Apply the [**Support::SaaS::Account Deletion Instructions - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360027176693) macro and mark the ticket as solved.
@@ -159,3 +161,17 @@ H(Apply Account Verification Failed Label)
 F-->|No|G
 I(Create Deletion Meta Issue)
 ```
+
+## Group Managed Accounts
+
+If a group is using [group managed accounts](https://docs.gitlab.com/ee/user/group/saml_sso/group_managed_accounts.html), user accounts may be orphaned until [gitlab#209081](https://gitlab.com/gitlab-org/gitlab/-/issues/209081) is fixed. You can use chatops to check whether a group has the relevant feature flags enabled.
+
+When checking the user account in admin, the user will be badged as a "Group Managed Account". Double check that the user is no longer a member of any group.
+
+In these cases, we can delete the account so that a new user account can be created.
+
+1. Use the [`Support::SaaS::Group Managed Account Deletion` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073474899), which outlines the criteria and deletion.
+1. Once Support receives permission from *both* the account holder and a group owner:
+1. Create an [internal request issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new) titled "Account Deletion" with the username, email, ticket number, and the reason in brief in the description.
+1. Go to the user's admin page and click on "Delete user and all contributions".
+1. Close the internal issue, and respond to the customer that the account has been deleted.
