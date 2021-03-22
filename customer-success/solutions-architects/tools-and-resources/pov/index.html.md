@@ -1,8 +1,3 @@
----
-layout: handbook-page-toc
-title: Proof of Value (POV) 
-description: Proof of Value (POV) 
----
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -14,9 +9,10 @@ description: Proof of Value (POV)
 ## Proof of Value (POV)
 {:.no_toc}
 
+<br>
 Solution Architects are instrumental in guiding prospects and customers to carry out a successful Proof of Value. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
 
-As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Often times a POV is conducted with a GitLab trial license either using GitLab.com or an installed instance. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers. 
+As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Often times a POV is conducted with a GitLab trial license either using GitLab.com or an installed instance. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers.
 
 ### POV Guidelines
 
