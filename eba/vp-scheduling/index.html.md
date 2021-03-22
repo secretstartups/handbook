@@ -12,15 +12,15 @@ description: “Discover how to schedule meetings with VPs at GitLab”
 
 When scheduling for VPs or directors at GitLab, please check the scheduling preferences below.
 
-## Scheduling for Dave Gilbert, VP of Recruiting
+## Scheduling for Pattie Egan, VP of People Operations, Technology, and Anayltics 
 
 * Please schedule all meetings through the People Function's EBA, Trevor Knudsen
-* Ask before scheduling over personal events (Noted by purple color in calendar)
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * Skip level 1:1's occur every other month
-* 1:1 meetings are light blue, internal meetings are red, external meetings are orange, coffee chats are dark green, reminders are in yellow, interviews are in dark blue.
-* Scheduling should ideally be kept between 9:00 am and 5:00 pm MT
+* 1:1 meetings are dark dark green, external meetings are orange, coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Pattie plays a crucial part in the meeting should be noted in red.
+* Do not schedule over DNB: Work Time blocks without consulting the EBA of the People Group.
+* Scheduling should ideally be kept between 9:00 am and 5:00 pm PT
 
 ## Scheduling for Carol Teskey, Sr. Director, People Success
 
