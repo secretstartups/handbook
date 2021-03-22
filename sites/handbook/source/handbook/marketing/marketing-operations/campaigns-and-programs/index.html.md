@@ -53,7 +53,9 @@ i.e. Record is put into `Registered` cannot be moved backwards to `Waitlisted`
 
 #### Conference
 
-Any event  that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit). This also includes any virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement. In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
+Any event  that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit). This also includes any virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement.
+
+In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-sponsored-virtual-conference).
 
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event.
 
@@ -340,7 +342,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 ##### Step 1: Clone the Marketo program indicated below
 
 - Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
-- Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME5121A1)
+- Conference - Virtual: [YYYYMMDD_Vendor_VirtualConfName (Conference - Virtual Template)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
 - Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
 - Vendor Arranged Meetings (1:1 meetings): [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
@@ -354,7 +356,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
      - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)     
-- (MCM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
+- (MCM use only) Conference - In Person: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 - (MCM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
 - (MCM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
 - (MCM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
@@ -621,6 +623,4 @@ Once a landing page has been set up for a campaign, it is good practice to have 
 1. Select `Change Status` at the top of the screen
 1. Select `Not in Program` in the drop down 
 1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
-
-
 
