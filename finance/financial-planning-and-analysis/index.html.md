@@ -422,7 +422,7 @@ The Finance team is the owner of the hiring plan, which resides within Adaptive.
 
 ### Hiring Managers
 
-When you are ready to open a new vacancy reach out to your Recruiter. They will open a GitLab issue or communicate directly with your FBP to get a GitLab Hiring Plan ID (GHP ID.)
+When you are ready to open a new vacancy reach out to your Recruiter. They will open a GitLab issue or communicate directly with your FBP to get a GitLab Hiring Plan ID (GHP ID.) While GitLab strongly believes that you should be able to backfill a role when someone departs, please check with your eGroup member before reaching out to Recruiting for all backfill positions.
 
 Each role has a unique GHP ID number, which is part of the information you need for your department to have the position opened in Greenhouse. If there is no GHP ID, the job will not be opened in Greenhouse. If the FBP has questions after Recruiting has contacted them, they will reach out to the Hiring Manager to gain more information.
 
