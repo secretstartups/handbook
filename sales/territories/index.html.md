@@ -91,6 +91,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	|
 |	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	|
 |	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-5	|	Patrick Byrne	|
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	|
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	|
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	|
