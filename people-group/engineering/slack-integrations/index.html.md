@@ -66,3 +66,14 @@ People Experience team can discuss and take action.
 - Values Check-In
 - Career Mobility Value Check-In
 - Career Mobility Satisfactory Survey
+
+### Referral bonus reminders
+
+A scheduled pipeline is configured to automatically send a message
+in the `#peopleops-alerts` Slack channel listing all team members who reached
+their 3 month work anniversary that week. For each anniversary, the team member's
+BambooHR and Greenhouse profiles are linked so that the people experience team
+can check if the listed team members were referred. For those that were referred, the 
+people experience team will then assign bonuses to the referrers.
+
+The pipeline is scheduled to be run at 10:00 AM UTC every Friday.
