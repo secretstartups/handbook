@@ -103,6 +103,12 @@ The budget spend is currently aggregated at the primary service level.
 
 Details on what contributed to the budget spend can be further found by examining the raised incidents, and exploring the specific service dashboard (and its resources).
 
+### Budget accounting
+
+The Infrastructure department announces the budget spend at the end of each month in [the relevant Engineering communication channels][eng comms].
+
+The budget spend is also announced in [the weekly GitLab SaaS call](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure).
+
 ## Budget spend (by feature category)
 
 The current 30 day budget spend can be found on each [stage group dashboard][stage group dashboards]. Feature categories for that stage group are rolled up to a single value. 
@@ -123,12 +129,19 @@ This is converted to minutes:
 
 _Apdex is a measure of response time based against a set threshold. It measures the ratio of satisfactory response times to unsatisfactory response times._
 
+### Budget accounting
 
-## Budget accounting
+The budget spend on each stage group dashboard shows the value for the previous 30 days. 
 
-The Infrastructure department announces the budget spend at the end of each month in [the relevant Engineering communication channels][eng comms].
+On the last day of each month, the budget spend value for each stage group is calculated and added to the current Engineering Week-In-Review. 
 
-The budget spend is also announced in [the weekly GitLab SaaS call](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure).
+Guidance for stage groups is:
+
+|**Monthly Spend**|**Action**|
+|-----------------|----------|
+| < 5 minutes     | Understand your spend - no further action required. |
+| > 5 > 20 minutes| Increase focus on performance and availability improvements. |
+| > 20 minutes    | Urgent action required.  |
 
 # Current State and Future Intent
 
