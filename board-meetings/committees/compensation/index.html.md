@@ -25,12 +25,14 @@ THIS CHARTER WAS APPROVED BY THE BOARD ON 2021-03-18
     - evaluating, recommending, approving and reviewing executive officer and director compensation arrangements, plans, policies and programs maintained by the Company; 
     - administering the Company’s cash- and equity-based compensation plans; and 
     - reviewing with management the Company’s organization and people activities. 
+
 This charter (the “**Charter**”) sets forth the authority and responsibility of the Committee in fulfilling its purpose. 
+
 1. **Structure and Membership:**
     - The Committee shall consist of two or more members of the Board, with the exact number determined by the Board. All members of the Committee will be appointed by the Board and will serve at the Board’s discretion. Members of the Committee may be replaced or removed by the Board at any time, with or without cause. Resignation or removal of a director from the Board, for whatever reason, will automatically constitute resignation or removal, as applicable, from the Committee. 
-    - Members of the Committee must meet the criteria required by applicable law, the rules and regulations of the U.S. Securities and Exchange Commission (the “Commission Rules”) or such other qualifications as are established by the Board from time to time. 
+    - Members of the Committee must meet the criteria required by applicable law, the rules and regulations of the U.S. Securities and Exchange Commission (the “**Commission Rules**”) or such other qualifications as are established by the Board from time to time. 
     - Additionally, unless determined otherwise by the Board, each member of the Committee will be a “non-employee director” as defined in Rule 16b-3 promulgated under Section 16 of the Securities Exchange Act of 1934, as amended (the “**Exchange Act**”). 
-    - The Board may appoint a member of the Committee to serve as the chairperson of the Committee (the “Chair”). If the Board does not appoint a Chair, the Committee members may designate a Chair by majority vote. The Chair will set the agenda for, preside over and conduct the proceedings of Committee meetings. 
+    - The Board may appoint a member of the Committee to serve as the chairperson of the Committee (the “**Chair**”). If the Board does not appoint a Chair, the Committee members may designate a Chair by majority vote. The Chair will set the agenda for, preside over and conduct the proceedings of Committee meetings. 
 1. **Duties and Responsibilities:** The principal duties and responsibilities of the Committee are set forth below. These responsibilities and duties are set forth as a guide, with the understanding that the Committee will carry them out in a manner that is appropriate given the Company’s needs and circumstances. The Committee may perform such other functions as are consistent with its purpose and applicable law, rules and regulations, as the Board may request or prescribe, or as the Committee deems necessary or appropriate consistent with its purpose.
     - *Compensation Matters:* 
         - i. Review the Company’s overall compensation strategy. 
@@ -42,12 +44,12 @@ This charter (the “**Charter**”) sets forth the authority and responsibility
     - *Compensation Plans and Programs:* 
         - Review and approve or make recommendations to the Board with respect to adoption and approval of, or amendments to, the Company’s cash- and equity-based incentive compensation plans and arrangements and the cash amounts and aggregate numbers of shares reserved for issuance thereunder, respectively. 
         - Administer and interpret the Company’s cash- and equity-based compensation plans and agreements thereunder and in that capacity: 
-            1. approve all cash or equity awards thereunder (other than as delegated in the manners described in this Charter); 
-            1. approve or recommend to the Board amendments to such plans (subject to stockholder approval when required) as may be necessary or appropriate to carry out the Company’s compensation strategy; 
-            1. determine whether awards granted under the plans that have performance-related criteria have been earned; 
-            1. correct any defect, supply any omission or reconcile any inconsistency in any cash- or equity-based compensation plan, award, exercise agreement or other arrangement; 
-            1. when appropriate, modify existing awards (with the consent of the grantees when necessary) and approve authorized exceptions to provisions of the plans; and 
-            1. adopt any required or appropriate equity award timing policy. 
+            - i. approve all cash or equity awards thereunder (other than as delegated in the manners described in this Charter); 
+            - 11. approve or recommend to the Board amendments to such plans (subject to stockholder approval when required) as may be necessary or appropriate to carry out the Company’s compensation strategy; 
+            - iii. determine whether awards granted under the plans that have performance-related criteria have been earned; 
+            - iv. correct any defect, supply any omission or reconcile any inconsistency in any cash- or equity-based compensation plan, award, exercise agreement or other arrangement; 
+            - v. when appropriate, modify existing awards (with the consent of the grantees when necessary) and approve authorized exceptions to provisions of the plans; and 
+            - vi. adopt any required or appropriate equity award timing policy. 
         - In addition to the authority to delegate to a subcommittee as set forth below, the Committee may delegate to the CEO (either alone or acting together with one or more officers of the Company), within the limits imposed by applicable law, the authority to make equity grants to service providers of the Company or of any subsidiary of the Company who are not the Executive Officers or directors of the Company, subject to guidelines or limits specified by the Committee; provided that, in the case of grants of stock options and stock appreciation rights, the price per share of any grant made pursuant to this delegated authority is no less than the fair market value of the Company’s common stock on the date of grant. 
         - Administer and, if deemed necessary, amend the Company’s 401(k) plan and any deferred compensation plans (collectively, the “Designated Plans”) and, if desired, delegate the routine administration of the Designated Plans to an administrative committee consisting of employees of the Company appointed by the Committee. 
         - Periodically review with the Chief Executive Officer and the Chairperson of the Board or lead independent director the succession plans for Executive Officers, reporting its findings and recommendations to the Board. If requested by the Board, the Committee will evaluate potential successors to executive officer positions and review strategies to accelerate the readiness of candidates identified for these positions, including an overall assessment of executive talent. The Committee also will review other leadership and management processes upon request of the Board. 
