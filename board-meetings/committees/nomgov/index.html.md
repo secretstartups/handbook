@@ -40,25 +40,27 @@ These duties are set forth as a guide, with the understanding that the Committee
 The Committee may supplement them as appropriate and may establish policies and procedures from time to time as are consistent with its purpose and applicable law, rules and regulations, as the Board may request or prescribe, or as the Committee deems necessary or appropriate consistent with its purpose. 
 
 The responsibilities and authority of the Committee will include:
-    - _Board Composition, Independence and Nominating Duties_:
-        1. Periodically consider and assess the desirability of developing policies regarding director nomination processes and, if the Committee determines it appropriate to have such policies, to develop and recommend such policies. 
-        1. Periodically consider and make recommendations to the Board regarding the size, structure and composition of the Board and its committees. 
-        1. Develop and recommend to the Board the desired qualifications, expertise and characteristics of Board members. 
-        1. Identify, consider and assist in recruiting qualified candidates for Board membership, consistent with criteria approved by the Board. 5. Oversee inquiries into the backgrounds and qualifications of potential candidates for membership on the Board. 
-        1. Review, and recommend to the Board for its determination, the independence of the non-employee directors and members of the Committee, the Audit Committee, Compensation Committee or other independent committees of the Board. 
-        1. Consider nominations properly submitted by the Company’s stockholders in accordance with the procedures set forth in the Company’s Certificate of Incorporation or Bylaws or determined by the Committee from time to time. 
-        1. Recommend for the Board’s selection all nominees to become members of the Board by appointment or to be proposed by the Board for election by the stockholders. 
-    - _Corporate Governance Duties_:
-        1. Consider, develop and make recommendations to the Board regarding Company policies, including corporate governance guidelines, and revisions to such policies. 
-        1. Recommend that the Board establish special committees as may be desirable or necessary from time to time in order to address interested director, ethical, legal or other matters that may arise. 
-        1. Consider the Board’s leadership structure, including the separation of the Chairman and Chief Executive Officer roles and/or appointment of a lead independent director of the Board, either permanently or for specific purposes, and make such recommendations to the Board with respect thereto as the Committee deems appropriate. 
+
+- *Board Composition, Independence and Nominating Duties:*
+    1. Periodically consider and assess the desirability of developing policies regarding director nomination processes and, if the Committee determines it appropriate to have such policies, to develop and recommend such policies. 
+    1. Periodically consider and make recommendations to the Board regarding the size, structure and composition of the Board and its committees. 
+    1. Develop and recommend to the Board the desired qualifications, expertise and characteristics of Board members. 
+    1. Identify, consider and assist in recruiting qualified candidates for Board membership, consistent with criteria approved by the Board. 5. Oversee inquiries into the backgrounds and qualifications of potential candidates for membership on the Board. 
+    1. Review, and recommend to the Board for its determination, the independence of the non-employee directors and members of the Committee, the Audit Committee, Compensation Committee or other independent committees of the Board. 
+    1. Consider nominations properly submitted by the Company’s stockholders in accordance with the procedures set forth in the Company’s Certificate of Incorporation or Bylaws or determined by the Committee from time to time. 
+    1. Recommend for the Board’s selection all nominees to become members of the Board by appointment or to be proposed by the Board for election by the stockholders. 
+- *Corporate Governance Duties:*
+    1. Consider, develop and make recommendations to the Board regarding Company policies, including corporate governance guidelines, and revisions to such policies. 
+    1. Recommend that the Board establish special committees as may be desirable or necessary from time to time in order to address interested director, ethical, legal or other matters that may arise. 
+    1. Consider the Board’s leadership structure, including the separation of the Chairman and Chief Executive Officer roles and/or appointment of a lead independent director of the Board, either permanently or for specific purposes, and make such recommendations to the Board with respect thereto as the Committee deems appropriate. 
         1. Periodically consider procedures for stockholder communications with members of the Board. 
         1. Oversee a process for evaluating on an annual basis the performance of the Board, each committee and each director. 
         1. Make such recommendations to the Board and its committees as the Committee may consider necessary or appropriate and consistent with its purpose, and take such other actions and perform such other services as may be referred to it from time to time by the Board. 
         1. Discharge the responsibilities as set forth in such policies, codes and guidelines approved by the Board. 
-    - _Corporate Responsibility_: The Committee will 
-        1. Develop, recommend to the Board and oversee any of the Company’s programs relating to corporate responsibility and sustainability, including environmental, social and corporate governance matters. Review and assess with management the Company’s performance, risks, controls and procedures relating to corporate responsibility and sustainability.
-        1. Oversee the Company’s engagement efforts with stockholders and other key stakeholders, including non-governmental organizations and key environmental, social and governance ratings agencies. 
+- *Corporate Responsibility:* The Committee will 
+    1. Develop, recommend to the Board and oversee any of the Company’s programs relating to corporate responsibility and sustainability, including environmental, social and corporate governance matters. Review and assess with management the Company’s performance, risks, controls and procedures relating to corporate responsibility and sustainability.
+    1. Oversee the Company’s engagement efforts with stockholders and other key stakeholders, including non-governmental organizations and key environmental, social and governance ratings agencies. 
+
 4. **Studies and Advisors:**
 The Committee, in discharging its responsibilities, may conduct, direct, supervise or authorize studies of, or investigations into, matters within the Committee’s scope of responsibility, with full and unrestricted access to all books, records, documents, facilities and personnel of the Company.  The Committee has the sole authority and right, at the expense of the Company, to retain legal counsel and other consultants, accountants, experts and advisors of its choice to assist the Committee in connection with its functions, including any studies or investigations.  The Committee will have the sole authority to approve the fees and other retention terms of such advisors.  The Company will provide for appropriate funding, as determined by the Committee, for:
     -	payment of compensation to any search firm, legal counsel and other consultants, accountants, experts and advisors retained by the Committee; and
