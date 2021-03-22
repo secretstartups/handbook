@@ -104,6 +104,7 @@ In some cases, we may choose not to post to status.io, the following are example
 
 #### Incident Manager on Call (IMOC) Responsibilities
 
+1. When the IMOC is engaged on an incident, they are responsible for keeping the `Current Status` section as updated as possible.
 1. The SSOT for who is the current IMOC is the [GitLab Production - IMOC](https://gitlab.pagerduty.com/service-directory/PE8A5MX) service definition in PagerDuty.
 1. The IMOC should [monitor](https://gitlab.slack.com/archives/CB7P5CJS1) ongoing [incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues?scope=all&utf8=%E2%9C%93&state=opened) and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC. [IMOC incident Checklist in runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/incidents/general_incidents.md#imoc-checklist)
@@ -114,10 +115,9 @@ In some cases, we may choose not to post to status.io, the following are example
     1. If the IMOC is unable to obtain a response through Slack channels, they should escalate to a manager or director to obtain assistance.
 1. They evaluate information provided by team members, lend technical direction, and coordinate troubleshooting efforts.
 1. If applicable, coordinate the incident response with [business contingency activities](/handbook/business-ops/gitlab-business-continuity-plan/).
-1. After the incident is resolved, the IMOC is responsible for updating the summary in the incident issue and conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review).
-1. In the case of high severity bugs that affect a customer, the IMOC will also be responsible for making sure Incident Reviews are coordinated with Engineering and go through the proper Incident Review process.
 1. In the event of a Severity 1 incident which has been running for an hour or more or appears that it will be a long-running Severity 1 incident, page Infrastructure leadership via email at `severity-1@gitlab.pagerduty.com` or via the `GitLab Production - Severity 1 Escalation` service in PagerDuty (app or website) with a link to the incident.
-1. If the incident goes on for longer than a single IMOC shift, when the outgoing IMOC briefs the incoming IMOC they should also update the summary of the incident and add a comment that they did so. This will facilitate better understanding of by the internal and external stakeholders (and is generally at a more detailed level than what is documented in status.gitlab.com)
+1. After the incident is resolved, the IMOC is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review).
+1. In the case of high severity bugs that affect a customer, the IMOC will also be responsible for making sure Incident Reviews are coordinated with Engineering and go through the proper Incident Review process.
 
 To engage the IMOC: either run `/pd trigger` in Slack, then select the "GitLab
 Production - IMOC" service, or create an incident in [the Pagerduty page for the
