@@ -10,13 +10,19 @@ description: "Overview of three critical pieces of GitLab's talent development p
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Overview
+# Talent Assessment Program 
 
-This page provides and overview of three key pillars of GitLab's Talent Development Program: Performance, Potential, and Key Talent. 
+### Purpose
 
-There are many Talent Assessment Options, we have opted to use a Performance/Potential Matrix (commonly known as "9-Box" in the US). GitLab's Performance/Potential Matrix is a type of Talent Assessment that forms part of our [Talent Development Program](https://about.gitlab.com/handbook/people-group/talent-development-program/). 
+The purpose of the Talent Assessment Program is to identify and retain team members who drive the success of our organization. This is a top priority and strategic process for people managers at GitLab. Our Talent Assessment Program (which is a critical piece of our overall [Talent Development Program](/handbook/people-group/talent-development-program/)) serves as a mechanism to help mitigate a couple of our biggest company risks: [lack of performance management](/handbook/leadership/biggest-risks/#underperformance) and [losing key people](/handbook/leadership/biggest-risks/#16-key-people-leave). 
 
-To ensure we remain efficient, we built a [Performance/Potential Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/), this is currently [(CY20-Q3 / FY21-Q3)](/handbook/communication/#writing-style-guidelines) being tested by a few teams, to provide feedback and iteration prior to launching company-wide.   
+### Overview 
+
+There are many talent assessment options, and we have opted to use a Performance/Potential Matrix (commonly known as "9-Box" in the US) and annually review Key Talent. 
+
+GitLab's Performance/Potential Matrix is a type of talent assessment that forms part of our [Talent Development Program](https://about.gitlab.com/handbook/people-group/talent-development-program/). To ensure we remain efficient and consistent, we built a [Performance/Potential Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/) to leverage during this process. 
+
+In addition to assessing Performance/Potential, we annually review Key Talent aligned with the criteria outlined below on this page. The combination of Performance/Potential and Key Talent assessments allow us to identify team members who drive the organization’s success and use our engagement tools to retain them. 
 
 
 # The Performance/Potential Matrix
@@ -445,3 +451,42 @@ The resulting charts are reviewed with peers, e.g. all other executives, all oth
 | [Unconscious Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) handbook page and [Recognizing Bias Training](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/#recognizing-bias-training) | It is important to me mindful of unconscious bias always, and especially during talent reviews and assessments. It is highly recommended that you review the handook page and watch the training. |
 | [Performance Factor](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) handbook page | This page is the SSOT to review the Performance Factor's impact on compensation. |
 
+# Key Talent
+
+## Key Talent Criteria  
+
+Key Talent makes up roughly ~10% of the population. Team members who are considered Key Talent meet at least one of the following criteria:  
+
+If the team member were to leave there would be:
+- Critical disruption to the product 
+- Critical disruption to ARR ([Annual Recurring Revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)) - including delays for customers
+- Substantially impacts company ability to achieve significant milestones 
+- Substantial impact to a significant process 
+
+For FY’22, while key talent was determined at the VP level (or the Director level in some cases for larger divisions/departments), the decision was based on guidance and our continuous feedback process from all leadership levels.
+
+## Key Talent and Performance
+
+Performance and being identified as key talent can influence one another, but they are _not directly related_. For example:
+
+- A team member that has a performance assessment of [“exceeding”](/handbook/people-group/performance-assessments-and-succession-planning/#exceeding), is not automatically indicated as key talent. Perhaps they are doing exceptionally well in their role, but the impact to the business would not be considered “critical” if they were to leave.
+- A team member that is new to the role and still ["developing"](/handbook/people-group/performance-assessments-and-succession-planning/#developing) could be identified as key talent if they work in an area of the business that is highly specialized and particularly difficult to hire for. 
+
+_Note: Intentionally hoarding knowledge is in direct conflict with our [transparency value](/handbook/values/#transparency) and is viewed as a performance issue as we measure performance based on alignment with our values._
+
+## Organizational Value
+
+A very small portion of our business (roughly ~10% of the population) is considered to be key talent. As such, a team members’ value in the organization should not be determined based on whether or not they are identified as key talent. 
+
+While some team members are identified as key talent, this does not mean the rest of our team is not valued and important to our organization’s success. Aligned with our [expected performance distribution](/handbook/people-group/performance-assessments-and-succession-planning/#expected-distribution-company-wide), approximately 60-65% of our team are core performers (or ["performing"](/handbook/people-group/performance-assessments-and-succession-planning/#performing)). Core performers are responsible for keeping things consistently moving forward. This group comprises the largest population in companies across the board for a reason and is an essential part of any organization’s success. 
+
+## Impact of Being Identified as Key Talent 
+
+We want to make sure we use engagement tools to retain Key Talent. A few of our primary engagement tools are: [Learning & Development](/handbook/people-group/learning-and-development/), growth opportunities and compensation.
+
+* **Learning & Development:** We want to support the growth of Key Talent and their competencies, skills, and knowledge by providing them with the tools they need and the opportunities to progress their own personal and professional development goals. As a people manager it’s your priority to identify [L&D opportunities](/handbook/people-group/learning-and-development/) for your team. 
+* **Growth Opportunities:** As a people manager, it’s important to have career conversations and identify growth opportunities with your team members. For Key Talent, it’s especially important to discuss their motivation and ambitions. Growth opportunities can be both horizontal and vertical. Examples of growth opportunities are: expanding the scope within a team member's current role, a lateral move to a new role, or a promotion to the next level.  
+* **Compensation:** At GitLab, compensation = cash + equity + benefits. We have a [market based approach](/handbook/total-rewards/compensation/#market-based-approach) and differentiate pay based on performance. Our Annual Compensation Review Cycle and Annual Equity Refresh program allow us to differentiate compensation based on performance and for Key Talent. 
+* **Succession Planning:** As team members identified as Key Talent are critical to roles that have a high impact on the company's success, it is important that we identify successors to avoid any single points of failure within the organization.
+
+**Note that being considered or designated as a key talent one year, does not mean or guarantee that a team member will be considered or designated as a key talent moving forward.**
