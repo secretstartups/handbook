@@ -264,3 +264,33 @@ List of CEO Handbook Learning Sessions:
 1. [Managing Underperformance](https://www.youtube.com/watch?v=-mLpytnQtlY&t=637s)
 1. [Transitioning from IC to Manager - Engineering](https://www.youtube.com/watch?v=Zeull-tdy6o) 
 
+## Skill of the Month 
+
+The L&D team outlines a skill of the month for team members to learn more about a particular topic. This provides team members with direction about what topics to learn more about and where to find information on these topics. This initiative began in April 2021. 
+
+### Goals
+
+1. Get team members engaged with our learning platforms (GitLab Learn and LinkedIn Learning). 
+
+### FY22 Topic Outline
+
+This is the list of topics that will be the focus in FY22. 
+
+- April: [topic]
+- May: [topic]
+- June: [topic]
+- July: [topic]
+- August: [topic]
+- September: [topic]
+- October: [topic]
+- November: [topic]
+- December: [topic]
+- January: [topic]
+
+### Organizing a Skill of the Month 
+
+The following process outlines steps for the L&D team to take when planning and implementing the Skill of the Month.
+
+Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
+
+**Planning Issue Template:** Open a `skill-of-the-month` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps are outlined in the issue template.
