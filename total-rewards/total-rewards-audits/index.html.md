@@ -148,11 +148,7 @@ This audit is meant to identify and fix any errors that occur during promotions,
 
 Process: TODO
 
-## Benefits Audits
-
-* [GitLab Inc (US) Benefits Audits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#audit-processes).
-
-## Access Level Audit
+### Access Level Audit
 
 Cadence: Every Quarter / As per requirement of Security Audit Team
 
@@ -191,3 +187,9 @@ Process:
 *Turn off filter >> Create a filter >> Select each access level to audit with the BambooHR access level count. Make sure to match the count of Employee self-service, Managers and Contractor self-service
 
 **Note:** A terminated team member on Garden Leave will still have the access level to prevent reporting issues. To prevent the access, IT Ops turns off the access via Okta manually as BambooHR is still active for team members.
+
+## Benefits Audits
+
+* [GitLab Inc (US) Benefits Audits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#audit-processes).
+
+
