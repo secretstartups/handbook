@@ -224,6 +224,10 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
         1. **Franchises or Consultants  - Child Accounts:** Accounts that are categorized as an independent Franchise or Consultant are considered standalone Accounts.  As such, they will not be parented and the corresponding number of employees will not count towards the HQ Total Employee Count.
 1. **Newly Updated Accounts:** Accounts that have had employee count and/or address information updated that would require a region or segment change. Timing on when the account will move will follow the escalation process since there is a potential it could affect  TAM and quota assignment.This includes changes to the Ultimate Parent details as a result of a merger, acquisition or move of headquarters.
 1. **Net New Accounts:** Accounts created in Salesforce by a list load or through a data enrichment tool such as Zoominfo. Sales Operations has the ability to create new accounts because these accounts must be parented, processed through LeanData to properly segment and assign to the appropriate territory. These will then be assigned to the correct account owner regardless of who requested or imported the account. Contacts will be linked by SDR’s during their normal workflow. For more information on this process you can check the [Steps to create an issue for an account list import](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-get-help). To request a new account be created that is not from an enrichment tool or a list load please open an issue in the Sales Operations Project. 
+1. **Sales Admin Owned Accounts:** When new accounts are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
+    - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the TSP process
+    - For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations twice weekly and assigned to the correct owner. 
+        - If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting.  
 1. **Field Permissions** In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations:   `Account Owner`, `Named Account`, `Strategic Account`, `Locally Managed`, `Holdover Expiration Date`, `Holdover Next Approved Owner` along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
 
 **Exception Process to Request Account Ownership Change:** _Any request to transfer an account for any reason must follow the outlined exception process and timeline._
@@ -280,6 +284,10 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
         1. All open opportunities stages 0-3 will immediately be moved to the new account owner when the account transfers unless there is a requested holdover approved by all parties in chatter
         1. All open opportunities stages 4-6 will automatically have a 90 day holdover expiration date populated by sales operations team when moving accounts. If the opportunity does not close in the 90 days it will be moved to the account owner on the expiration date.
         1. There will be no considerations made to extend a holdover if the opportunity moves stages during the 90 day holdover period. 
+1. **Sales Admin Owned Opportunities:** When new opportunities are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
+    - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the TSP process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner.  
+    - For accounts without known attributes (employees and location not identified), the account and corresponding opportunity is manually reviewed by Sales Operations twice weekly and assigned to the correct owners. 
+        - If Sales Operations is unable to identify enough attributes to correctly assign the account or opportunity, it will remain in Sales Admin owned and allocated to SMB for crediting.
 
 <details>
 <summary markdown='span'>
@@ -310,6 +318,38 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 
 **Annual Review Process** 
 1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilize the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
+
+**Sales Admin Owned Review and Owner Change Process**
+
+Steps to add AE names to open/closed opps owned by Sales Admin (Easy Fixes)
+
+1. Export the easy fix reports from this dashboard 
+1. To work from google sheet: Copy Values and paste into google spreadsheet, or you can use Excel
+1. Match the opportunity owner to the current account owner
+1. To prepare the upload, you will only need the following fields: Opportunity Owner ID, Opportunity ID, SA Team, Account Owner (O), Owner Team (O) (you also need to update the Account ID/ Account Owner ID but I recommend uploading the accounts on a separate worksheet to avoid confusion.)
+1. Save the file as CSV and upload to data loader. 
+1. To update the account owner you will need Account ID, Account Owner ID. Match the opp owner to the Account Owner and upload.
+1. The opportunities update in smaller increments (my cutline was 20). Split the upload sheet in 20’s as necessary and upload. 
+
+Steps to add AE’s to Closed Opps and accounts owned by Sales Admin (Hard Fixes)
+
+1. Export the hard fix reports from this dashboard 
+1. To work from google sheet: Copy Values and paste into google spreadsheet, or you can use Excel
+1. Add filters onto the sheet to organize the sheet in alphabetical order 
+1. Sort the “Billing Country” field A → Z, this way you can populate multiple owners if the opps have the same billing country
+1. It is easier to work by market segment, filter by SMB/MM/Large (choose a field from Account Owner Team, Owner Team, SA Team - it is usually just best to choose the field with more values since many opportunities have missing fields)
+1. Use this mapping file to look for corresponding AE’s 
+1. Insert 2 rows on the sheet and add Owner Name and Owner ID (you will delete the name later in prior to uploading- but is there for your view) 
+1. After inputting the names and Owner ID’s there will be multiple opps that do not have Billing countries listed on the Account. There are many times in which have TSP Country fields populated, but not the Billing Country or vice versa. Use those fields to map and populate the corresponding AE’s.
+1. If there is a zip code but no countries listed, it is recommended that you use google search to populate the States/countries to find the corresponding AE’s. 
+1. If the opportunity is missing a market segment, try to do a quick google search on the company. If no information is found, it is likely that the account is SMB. 
+1. Populate the Account owner (O), Owner Team (O), and SA Team and match as information above, and table.
+1. Repeat this process for each Market Segment (SMB/MM/Large) making sure each Territory is correct
+1. Make sure all opportunities are populated. If you cannot find any information on the account, make sure to ask about those before uploading.
+1. To prepare the upload, you will only need the following fields: Opportunity Owner ID, Opportunity ID, SA Team, Account Owner (O), Owner Team (O) (you also need to update the Account ID/ Account Owner ID but I recommend uploading the accounts on a separate worksheet to avoid confusion.)
+1. Save the file as CSV and upload to data loader. 
+1. To update the account owner you will need Account ID, Account Owner ID. Match the opp owner to the Account Owner and upload.
+
 
  </details>
 
