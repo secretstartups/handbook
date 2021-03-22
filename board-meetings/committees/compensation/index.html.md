@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Compensation Committee"
+title: "Compensation and Leadership Development Committee"
 ---
 
 ## On this page
