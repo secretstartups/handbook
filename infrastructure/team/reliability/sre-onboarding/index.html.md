@@ -202,7 +202,7 @@ the following tools help when working on production issues.
 Required tools
 1. [Homebrew](https://brew.sh)
 1. [SSH, properly configured](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/onboarding/ssh-config)
-1. chef, knife, berkshelf
+1. [chef, knife, berkshelf](https://docs.chef.io/workstation/install_workstation/)
 1. kubectl (`brew install kubernetes-cli`)
 
 Nice to have
