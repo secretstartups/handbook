@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "The GitLab Tax Team"
+title: "International Expansion"
+description: "GitLab is scaling fast and therefore its international expansion efforts need support from a dedicated team with multidisciplinary background."
 ---
 
 ## On this page

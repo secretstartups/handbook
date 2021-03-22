@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "The GitLab Tax Team"
+title: "Tax Performance Indicators"
+description: "Defining our success as a Tax Team for having an Effective Tax Risk Managament is also measured by our perfomance indicators."
 ---
 
 ## On this page

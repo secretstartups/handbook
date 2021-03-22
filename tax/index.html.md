@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "The GitLab Tax Team"
+description: "The tax department is responsible for GitLab’s overall tax strategy including all components of tax compliance, tax planning and accounting for income taxes."
 ---
 
 ## On this page
