@@ -285,14 +285,15 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
         1. All open opportunities stages 4-6 will automatically have a 90 day holdover expiration date populated by sales operations team when moving accounts. If the opportunity does not close in the 90 days it will be moved to the account owner on the expiration date.
         1. There will be no considerations made to extend a holdover if the opportunity moves stages during the 90 day holdover period. 
 1. **Sales Admin Owned Opportunities:** When new opportunities are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
-    - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the TSP process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner.  
-    - For accounts without known attributes (employees and location not identified), the account and corresponding opportunity is manually reviewed by Sales Operations twice weekly and assigned to the correct owners. 
-        - If Sales Operations is unable to identify enough attributes to correctly assign the account or opportunity, it will remain in Sales Admin owned and allocated to SMB for crediting.
+    - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the TSP process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner (unless exceptions apply).  
+    - For accounts without known attributes (employees and location not identified), the account and corresponding opportunity are manually reviewed by Sales Operations twice weekly and assigned to the correct owners. 
+        - If Sales Operations is unable to identify enough attributes to correctly assign the account or opportunity, they will remain in Sales Admin owned and allocated to SMB for crediting.
 
 <details>
 <summary markdown='span'>
   Sales Ops Operators Guide for Account and Opportunity Review and Moves
 </summary>
+ 
  **Best Practices**
 1. Before moving an SDR Account or non-Sales owned account check for duplicate accounts in the system. If a duplicate is found, merge the records.
 1. Before moving an SDR Account or non-Sales owned account check if the account is a child account and needs to be parented. If so, parent the account and assign to the owner of the parent account.
