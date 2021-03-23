@@ -196,7 +196,7 @@ A ready to be published update should look similar to the following.
 
 ![Incident update](/images/support/cmoc_post_incident_update.png){: .shadow}
 
-Make sure to [verify] the (https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
+Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
 
 After publishing the update, visit the live [GitLab Status Page](https://status.gitlab.com) to verify the update went through and looks clear.
 
@@ -208,6 +208,8 @@ The two stages of the resolution process are covered in their respective section
 
 #### Monitoring
 
+> **Note**: The IMOC may request monitoring status is skipped.
+
 To start the monitoring period, edit the incident, and configure the update similar to the following.
 
 ![Switch to monitoring](/images/support/cmoc_monitoring_stage.png){: .shadow}
@@ -215,9 +217,12 @@ To start the monitoring period, edit the incident, and configure the update simi
 Take special note of the changes made to the following fields at this stage.
 
 1. `Current State` - Change this to `Monitoring`.
-1. `Details` - If we have not previously mentioned that a fix has been applied, do so at this stage and make specific mention that we're monitoring the system to ensure that a repeat of the issue does not occur. Make sure to include a note that *All systems are online and currently fully operational*.
-1. `Incident Status` - At this point, the affected component should be back to normal operation, so we can flip this back to `Operational`. **IMPORTANT**: Each component must be updated to `Operational` manually.
-
+1. `Details` - If we have not previously mentioned that a fix has been applied, do so at this stage and make specific mention that we're monitoring the system to ensure that a repeat of the issue does not occur. Make sure to include:
+   - a note that *All systems are online and currently fully operational*. 
+   - an estimate for when you'll leave the "monitoring" state.
+   - **Example**:
+   > *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
+1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not**  flip this back to `Operational` until we leave the monitoring state. 
 #### Resolved
 
 Once we're confident that the underlying issue that caused the incident has been fully resolved and a monitoring period has been observed, we should close the incident. Before we do so, we should check with the IMOC via Slack for the all-clear. This should be done by starting a thread on the announcement in #incident-management that started the incident and [mentioning](https://slack.com/help/articles/205240127-Mention-a-member) the IMOC in it. The following is what one of these messages looks like.
@@ -228,7 +233,7 @@ Once we have confirmation from the IMOC that the incident can be resolved, make 
 
 1. `Current State` - Change this to `Resolved`
 1. `Details` - Our message here should include a definitive statement that the issue has been resolved and that the affected component is back to operating normally. We should also aim to again include a link to the relevant issue in the production issue tracker so that any users who missed previous updates know where to go for more info.
-1. `Incident Status` - Unless we forgot to change this field to `Operational` when our monitoring phase began we can leave this alone.
+1. `Incident Status` - Change this field to `Operational`. **IMPORTANT**: Make sure the "Apply status level to all affected infrastructure" is checked. Double check the [status.gitlab.com page](https://status.gitlab.com).
 
 Before resolving the incident your draft should look similar to the following:
 
