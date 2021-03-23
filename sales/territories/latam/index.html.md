@@ -20,7 +20,7 @@ The Latin America region economies represents 6.5% of the Worlds GDP coming in a
 
 ##  LATAM Region Mission
 
-**Work in progress**
+Everyone can contribute - no matter how, no matter _WHERE_. From end-to-end, our goal with our customers is to come together as ONE, sharing wins and overcoming unique challenges through _collaboration_.
 
 ## Who are we?
 
