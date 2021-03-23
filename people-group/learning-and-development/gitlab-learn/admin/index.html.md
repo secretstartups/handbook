@@ -615,7 +615,11 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 
 ## Reporting
 
-Admin process for reporting from EdGraph is coming soon.
+The following private videos can be viewed by team members using the GitLab Unfiltered account for training on how to create reports using EdGraph and Domo.
+
+1. [How L&D uses custom dashboards and reports in GitLab Learn](https://youtu.be/xQwhmX_hRYg)
+1. [How to create a custom report using EdGraph](https://youtu.be/ofqAjoUkJuM)
+1. [Monthly L&D reports - course completions by month and all time for team members](https://youtu.be/Smn37gRJQTs)
 
 ## Moderation
 
