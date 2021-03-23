@@ -273,41 +273,6 @@ When a new team member starts, the New Hire Swag email is sent with a link to Pr
 
 Should the PEA find any abuse of the link, they will need to report to the Manager, People Operations as well as the Senior Manager of Brand Activation. 
 
-
-### Scheduling Group Conversations 
-
-The People Experience team assists with the administration of the GitLab Team Calendar and automatically can assist with the following:
-
-- Scheduling new Group Conversations or AMA's
-- Assist with updating the calendar when Group Conversations are rescheduled
-
-Here are the steps to follow when scheduling a Group Conversation or AMA:
-
-1. Log into the PeopleOps Shared Zoom Account via Okta
-1. Select 'Schedule a New Meeting'
-1. Insert the name of the conversation under 'Topic'
-1. Below the date and time option, select 'Recurring Meeting'
-1. Under the 'Recurrence' dropdown, select 'No Fixed Time'
-1. Select the 'Require meeting password' option. This will automatically generate a password for you. 
-1. Ensure that the Video is on for both 'Host' and 'Participant'
-1. At the bottom of the page, untick 'Enable waiting room' 
-1. You are also able to add any alternative hosts in the event that the People Group will not be assisting with moderating the call. 
-1. Click 'Save'
-1. Once saved, select the option to 'Add to Google Calendar'
-1. You will be redirected to the Google Calendar and prompted to select a calendar. Select your own account. 
-1. Confirm allowing access for Zoom to Google Calendar.
-1. You will now be able to edit the calendar invitation with the following:
-    - Date and time (always needs to be scheduled in PST) and the meeting time should be set to 25 minutes. 
-    - Add the description and agenda link 
-    - Add the Host and Moderator to the description
-    - Add to the GitLab Team Meetings
-    - Invite everyone@gitlab.com 
-1. Click 'Save' 
-1. You will be prompted to select whether you would like to send invitation emails to Google Calendar guests? Select 'Don't Send'
-1. You will receive a bunch of automated messages in your personal Inbox regarding the scheduled call, you can simply ignore and delete them. 
-
-That's it, you have successfully scheduled the meeting! Now just remember to let the requesting team member know to check that you have completed the request. 
-
 ### HelloSign
 
 As the DRI for HelloSign, when a team member needs to have access to sign documents for the company, an access request needs to be created and assigned to the People Experience Team for provisioning. Please ensure to first ask the team member whether they will be signing more than 5 documents per month before allocating a seat with HelloSign. 
