@@ -47,3 +47,10 @@ managing Zendesk via the various GitLab projects, please review
 As we have many macros, and they change quite frequently, the best resource to
 see all the current macros would be the
 [zendesk-macros project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros).
+
+## How to link to macros
+
+Because macro names sometimes change, linking to them directly is not recommended.
+Instead, use the URL of a search for the macro's `id` number, like so:
+
+    https://gitlab.com/search?group_id=2573624&project_id=17008590&scope=blob&snippets=false&search=id%3A+<id>
