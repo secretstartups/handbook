@@ -140,7 +140,7 @@ There is a process for [updating the list](/handbook/business-ops/data-team/kpi-
 
 ## General Group Conversation
 
-[Group Conversations](/handbook/people-group/group-conversations/) are updates on different parts of the company every 6 weeks.
+[Group Conversations](/handbook/group-conversations/) are updates on different parts of the company every 6 weeks.
 The Chief of Staff prepares the General Group Conversation slides for the CEO.
 During the General Group Conversations, please help facilitate the flow and ask team members to verbalize.
 The CEO gives a General Group Conversation that covers the whole of the company.
