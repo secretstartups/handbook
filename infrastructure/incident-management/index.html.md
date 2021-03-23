@@ -305,7 +305,7 @@ Definitions and rules for transitioning state and status are as follows.
 | ----- | ---------- |
 | Investigating | The incident has just been discovered and there is not yet a clear understanding of the impact or cause. If an incident remains in this state for longer than 30 minutes after the EOC has engaged, the incident should be escalated to the IMOC. |
 | Identified | The cause of the incident is believed to have been identified and **a step to mitigate has been planned and agreed upon**. |
-| Monitoring | The step has been executed and metrics are being watched to ensure that we're operating at a baseline |
+| Monitoring | The step has been executed and metrics are being watched to ensure that we're operating at a baseline. If there's a >50% that the incident is resolved it is preferrable to skip this state. |
 | Resolved | The incident is closed and status is again Operational. |
 
 Status can be set independent of state. The only time these must align is when an issues is
