@@ -72,10 +72,12 @@ These dashboards show lagging indicators for how the services have responded to 
 
 The Scalability team is an owner of several performance indicators that roll up to the Infrastructure department indicators:
 
-1. [Service Maturity model][service maturity model]
+1. [Service Maturity model][service maturity model] which covers GitLab.com's production services.
 1. [Mean Time Between Failures](/handbook/engineering/infrastructure/performance-indicators/#mean-time-between-failure-mtbf)
+1. [Application Demand][application demand dashboard] which is [reviewed monthly](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/534) and is used as a way to identify that there may have been an application level change that alters how the application makes requests of the underlying infrastructure. If we observe a change in rate, this tells us that we need to investigate and understand the cause of the change.
+1. The forecasting [project named Tamland][tamland] which generates and displays [utilization and saturation reports][tamland reports]
 
-These indicators, combined with the `Application Demand` indicator, and the forecasting [project named Tamland][tamland] (which generates and displays [utilization and saturation reports][tamland reports]), allow us to better prioritize team projects.
+These are combined to enable us to better prioritize team projects.
 
 An overly simplified example of how these indicators might be used, in no particular order:
 
@@ -88,24 +90,9 @@ Between these different signals, we have a relatively (im)precise view into the 
 
 [tamland]: https://gitlab.com/gitlab-com/gl-infra/tamland/
 [tamland reports]: https://gitlab-com.gitlab.io/gl-infra/tamland/saturation.html
-
-### Maturity Model
-
-The Scalability team owns the [service maturity model] covering
-GitLab.com's production services.
-
 [service maturity model]: /handbook/engineering/infrastructure/service-maturity-model/
+[application demand dashboard]: https://dashboards.gitlab.net/d/general-application-demand
 
-### Application Demand
-
-We have a leading indicator of application demand. This is shown on the [Application Demand Dashboard](https://dashboards.gitlab.net/d/general-application-demand).
-
-The dashboard is reviewed monthly as part of the [triage rotation](#triage-rotation)and our observations are
-noted on the [indicator review issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/534).
-
-Application demand is used as a way to identify that there may have been an application level change that alters how
-the application makes requests of the underlying infrastructure. If we observe a change in rate, this tells us that we
-need to investigate and understand the cause of the change.
 
 ## Team Members
 
