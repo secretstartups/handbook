@@ -25,28 +25,42 @@ The epic code in each section below outlines the necessary issues to open in ord
 * Jump to ungated content journey (Pathfactory) setup process
 * Jump to gated content (Landing Page) setup process - *being phased out*
 
+### Types of content in campaigns
+{: #content-types .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* Gated Content: We have the piece of content offered on our website via landing page.
+    * [Internal GitLab-created content](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#internal-content-created-by-the-gitlab-team): We created the content in house
+    * [Analyst Content](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#analyst-content-delivered-by-analysts): We have bought the rights to use the content from an analyst such as Gartner, Forrester, etc.
+    * [On-Demand Webcasts](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/)
+* [Content Syndication](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication): We have promoted our content through a third-party, but do not direct back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
+
 ## Ungated Content Journeys
 {: #ungated-content-journeys .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-### Epic code and issues for ungated content journey setup
-{: #epic-issues-ungated-content-journeys}
+### Internal Content (created by the GitLab team)
+{: #ungated-internal-content}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+All internally-created GitLab content is aligned to a GTM Motion (and/or aligned sales play) per the [FY22 Marketing Plan](/handbook/marketing/plan-fy22/). Internally-created content is organized within content pillars (owned by Content Marketing).
+
+#### Epic code and issues - Internal GitLab Content
+{: #epic-issues-internal-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 🏷️ **Label statuses:**
 * **status:plan**: content is in a brainstormed status, not yet approved and no DRI assigned
 * **status:wip**: content is approved, with launch date determined and DRI assigned
 
-1. **Content Pillar Epic:** `Content DRI` creates content pillar epic
+1. **Content Pillar Epic:** `Content DRI` creates content pillar epic, and associates to GTM Motion epic
 1. **Content Asset Epics:** `Content DRI` creates content asset epics (using code below) and associates to pillar epic
 1. **Related Issues:** `Content DRI` creates the issues as designated in the epic code, and associates to the content asset epic
 
-As an guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1648326617)
+As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 ```
 <!-- NAME EPIC: [type] <Name of Asset> (ex. [eBook] A beginner's guide to GitOps) -->
 
-## Launch date: 
+## Launch date: `to be added`
 
 ## [Live landing page link]() - `to be added when live`
 
@@ -68,9 +82,10 @@ As an guide in developing timeline, please view the workback timeline calculator
 
 ### :books:  Issues to Create
 
-[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1648326617)
+[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
+* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
 * [ ] [Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
 * [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
 * [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content
@@ -90,6 +105,78 @@ As an guide in developing timeline, please view the workback timeline calculator
 </details>
 
 /label ~"Content Marketing" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
+```
+
+### External Content Content (i.e. Analyst Relations)
+{: #ungated-external-content}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+External content can be sourced from Analyst Relations, partners, and other vendors with whom we work. Some examples would be vendor comparisons (i.e. Gartner/Forrester) or industry/market analyses (i.e. DevOps Institute).
+
+When a GitLab team member (i.e. AR) determines that they will be purchasing or recieving content to be used in campaigns, they are responsible for working with the [GTM Motion teams](/handbook/marketing/plan-fy22/#core-teams) to discuss how to leverage the content, as well as creating the epics and associated issues to request work of all relevant teams (outlined below to try to make it efficient, comprehensive, and repeatable!).
+
+All external content should be planned in advance of purchase with `at least a 30 business day time to launch date`. This allows time to plan activation into existing and future integrated campaigns and GTM Motions.
+
+#### Epic code and issues - External Content
+{: #epic-issues-external-content}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+🏷️ **Label statuses:**
+* **status:plan**: content is in discussion status, not yet approved/purchased
+* **status:wip**: content is approved/purchased, with launch/delivery date determined and DRI assigned
+
+1. **External Content Epics:** `Content Owner (i.e. AR, Digital, etc.)` creates epic (using code below) and associates to primary GTM Motion epic
+1. **Related Issues:** `Content Owner (i.e. AR, Digital, etc.)` creates the issues as designated in the epic code, and associates to the external content epic
+
+As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+
+```
+<!-- NAME EPIC: [type] <Name of Asset> (ex. [eBook] A beginner's guide to GitOps) -->
+
+## Launch date: `to be added`
+
+## [Live landing page link]() - `to be added when live`
+
+#### :key: Key Details
+* **Analyst Relations DRI:**  
+* **Official Content Name:** 
+* **Official Content Type:** 
+* **Primary GTM Motion:** `CI/CD` `DevOps Platform` OR `GitOps`
+* **Primary Sales Segment:** `Large`, `Mid-Market`, or `SMB`
+* **Primary Buying Stage:** `Awareness`, `Consideration`, or `Decision/purchase`
+* **Primary Use Case:** 
+* **Primary Persona:** 
+* **Language:** 
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
+* [ ] [asset copy draft]() - `doc to be added by Content Marketing`
+* [ ] [pathfactory]() - `link to be added by content owner once in PF`
+
+
+### :books:  Issues to Create
+
+[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
+
+**Required Issues:**
+* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
+* [ ] [Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
+* [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
+* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content
+* [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
+* [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page) - Campaigns
+* [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
+
+<details>
+<summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
+
+* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=mktg-promotion-template) - Digital Marketing
+* [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social
+* [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
+* [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
+* [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
+
+</details>
+
+/label ~"Analyst Relations" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
 ```
 
 ### Setting up ungated content journeys
@@ -134,7 +221,7 @@ As an guide in developing timeline, please view the workback timeline calculator
 1. **Content Asset Epics:** `Content DRI` creates content asset epics (using code below) and associates to pillar epic
 1. **Related Issues:** `Content DRI` creates the issues as designated in the epic code, and associates to the content asset epic
 
-[View the workback timeline calculator here](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1648326617)
+[View the workback timeline calculator here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 ```
 <!-- NAME EPIC: *[type] Name of Asset* (ex. [eBook] A beginner's guide to GitOps) -->
@@ -166,9 +253,10 @@ As an guide in developing timeline, please view the workback timeline calculator
 
 ### :books:  Issues to Create
 
-[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=1648326617)
+[Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 **Required Issues:**
+* [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
 * [ ] [Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
 * [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
 * [ ] [Landing Page Copy Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=landing-page-copy) - Content
