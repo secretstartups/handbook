@@ -16,3 +16,4 @@ see the page for each type of partner for a description of that type:
 * [Open Partners](open.html)
 * [Select Partners](select.html)
 * [Alliance Partners](alliance.html)
+* [JiHu Partnership](jihu.html)
