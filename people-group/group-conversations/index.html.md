@@ -236,10 +236,23 @@ Additional links which may be useful when preparing to moderate a call include:
 There is a rotating schedule with each Department having a conversation on a regular interval. 
 We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/company/culture/contribute/).
 
-In April 2021, we'll move our Group Conversations to a new schedule to ensure [functions with key meetings](https://about.gitlab.com/handbook/finance/key-meetings/#invitees) will have monthly Group Conversations within 10 days following their Key Meeting. They are expected to largely leverage their Key Meeting material. Other groups will have one meeting in the eight week cycle. Groups Conversations without Key Meetings can only be swapped with other Groups without Key Meetings, or scheduled during an open day that is available as noted on the schedule below. The schedule, with directly responsible individuals (DRI), is as follows starting 2021-04-19:
+On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with key meetings](https://about.gitlab.com/handbook/finance/key-meetings/#invitees) will have monthly Group Conversations within 10 days following their Key Meeting. They are expected to largely leverage their Key Meeting material. Other groups will have one meeting in the eight week cycle. Groups Conversations without Key Meetings can only be swapped with other Groups without Key Meetings, or scheduled during an open day that is available as noted on the schedule below. The schedule, with directly responsible individuals (DRI), is as follows starting 2021-04-19:
 
 | Date | Group Conversation | DRI | Key Meeting? |
 |---|---|---|---|
+| 2021-03-25 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
+| 2021-03-29 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
+| 2021-03-30 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
+| 2021-03-31 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
+| 2021-04-01 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
+| 2021-04-05 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
+| 2021-04-06 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
+| 2021-04-07 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
+| 2021-04-08 | Open | Available for any Group Conversation | N/A |
+| 2021-04-12 | Open | Available for any Group Conversation | N/A |
+| 2021-04-13 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
+| 2021-04-14 | [CRO Group Conversation](/handbook/sales/)  | Michelle Hodges | Yes, monthly |
+| 2021-04-15 | Open | Available for any Group Conversation | N/A |
 | 2021-04-19 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
 | 2021-04-20 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
 | 2021-04-21 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
@@ -260,7 +273,7 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-05-18 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
 | 2021-05-19 | [Community Relations](/handbook/marketing/community-relations/)  | David Planella | No |
 | 2021-05-20 | Open | Available for any Group Conversation | N/A |
-| 2021-05-24 | [CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
+| 2021-05-24 | [CRO Group Conversation](/handbook/sales/)  | David Sakamoto | Yes, monthly |
 | 2021-05-25 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
 | 2021-05-26 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
 | 2021-05-27 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
@@ -270,7 +283,7 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-06-03 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
 | 2021-06-07 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
 | 2021-06-08 | Open | Reserved for Groups that have a Key Meeting | Yes |
-| 2021-06-09 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Welchel | No |
+| 2021-06-09 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
 | 2021-06-10 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-06-14 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
 | 2021-06-15 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
@@ -282,7 +295,7 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-06-24 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
 | 2021-06-28 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
 | 2021-06-29 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-06-30 | [[CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
+| 2021-06-30 | [CRO Group Conversation](/handbook/sales/)  | Mike Pyle | Yes, monthly |
 | 2021-07-01 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
 | 2021-07-05 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
 | 2021-07-06 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
@@ -297,7 +310,7 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-07-21 | Open | Available for any Group Conversation | N/A |
 | 2021-07-22 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
 | 2021-07-26 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-07-27 | [CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
+| 2021-07-27 | [CRO Group Conversation](/handbook/sales/)  | Ryan O'Nell | Yes, monthly |
 | 2021-07-28 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
 | 2021-07-29 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
 | 2021-08-02 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
@@ -305,14 +318,14 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-08-04 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
 | 2021-08-05 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
 | 2021-08-09 | Open | Reserved for Groups that have a Key Meeting | Yes |
-| 2021-08-10 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Welchel | No |
+| 2021-08-10 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
 | 2021-08-11 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-08-12 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
 | 2021-08-16 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
 | 2021-08-17 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
 | 2021-08-18 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
 | 2021-08-19 | Open | Available for any Group Conversation | N/A |
-| 2021-08-23 | [CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
+| 2021-08-23 | [CRO Group Conversation](/handbook/sales/)  | Michelle Hodges | Yes, monthly |
 | 2021-08-24 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
 | 2021-08-25 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
 | 2021-08-26 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
@@ -338,7 +351,7 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-09-30 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
 | 2021-10-04 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
 | 2021-10-05 | Open | Reserved for Groups that have a Key Meeting | Yes |
-| 2021-10-06 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Welchel | No |
+| 2021-10-06 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
 | 2021-10-07 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-10-11 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
 | 2021-10-12 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
@@ -348,7 +361,7 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-10-19 | Open | Available for any Group Conversation | N/A |
 | 2021-10-20 | Open | Available for any Group Conversation | N/A |
 | 2021-10-21 | Open | Available for any Group Conversation | N/A |
-| 2021-10-25 | [CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
+| 2021-10-25 | [CRO Group Conversation](/handbook/sales/)  | David Sakamoto | Yes, monthly |
 | 2021-10-26 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
 | 2021-10-27 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
 | 2021-10-28 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
@@ -364,7 +377,7 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-11-16 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
 | 2021-11-17 | [Community Relations](/handbook/marketing/community-relations/)  | David Planella | No |
 | 2021-11-18 | Open | Available for any Group Conversation | N/A |
-| 2021-11-22 | [CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
+| 2021-11-22 | [CRO Group Conversation](/handbook/sales/)  | Mike Pyle | Yes, monthly |
 | 2021-11-23 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
 | 2021-11-24 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
 | 2021-11-25 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
@@ -374,7 +387,7 @@ In April 2021, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-12-02 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
 | 2021-12-06 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
 | 2021-12-07 | Open | Reserved for Groups that have a Key Meeting | Yes |
-| 2021-12-08 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Welchel | No |
+| 2021-12-08 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
 | 2021-12-09 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-12-13 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
 | 2021-12-14 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
