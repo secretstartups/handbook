@@ -82,7 +82,7 @@ This video covers:
 
 ### Updating individual team member YAML for managerial changes
 
-Every GitLab team member has an entry in `team_members/person` and when a new manager joins a team, updates are needed in three places:
+Every GitLab team member has an entry in [team_members/person](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person) and when a new manager joins a team, updates are needed in three places:
 
 - Manager's entry - Update job family
 - Team member's entry - Update `reports_to` to include the new manager slug
