@@ -88,6 +88,8 @@ Every GitLab team member has an entry in [team_members/person](https://gitlab.co
 - Team member's entry - Update `reports_to` to include the new manager slug
 - [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) to indicate the new manager for the team (if part of engineering/product)
 
+Find step by step instructions on how to update the individual YAMLs in the [Edit this website locally handbook page](https://about.gitlab.com/handbook/git-page-update/#11-add-yourself-to-the-team-page)
+
 ### More Tips
 
 #### Pre-requisites
