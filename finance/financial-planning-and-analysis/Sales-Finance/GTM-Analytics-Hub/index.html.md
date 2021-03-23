@@ -22,9 +22,11 @@ title: "GTM Analytics Hub"
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTETMJQ7B5suZyrUDKG4NZT-lrCl4OULdMXcJVe8yqV_OireByQU9zGLSa3g1-nmz25ONG515QG6pt/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 
-## SSOT Fields
+## SSOT Fields/Logic
  * Order Type 2.0
- * Stamped Opp Owner User Segment
- * Stamped Opp Owner User Region
+ * Stamped Opp Owner User (Segment/Region/Area)
  * Sales Qualified Source
+ * DR - Partner Engagement Type
+ * DR - Partner
  * Quote Start Date
+ * Filter: Closed Won + (Renewal Closed Lost)
