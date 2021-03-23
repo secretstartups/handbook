@@ -191,8 +191,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-03-29 | 2021-04-02 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Darwin Sanoy](https://gitlab.com/darwinjs), Senior Solutions Architect, Alliances |
 | 2021-04-05 | 2021-04-09 | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
 | 2021-04-12 | 2021-04-16 | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin |
-| 2021-04-19 | 2021-04-23 | AVAILABLE - REMOTE | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager |
-| 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-04-19 | 2021-04-23 | [Joanna Shih](https://gitlab.com/jo_shih), Quality Engineering Manager, Ops | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager |
+| 2021-04-26 | 2021-04-30 | AVAILABLE - REMOTE | [Joanna Shih](https://gitlab.com/jo_shih), Quality Engineering Manager, Ops |
 | 2021-05-03 | 2021-05-07 | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher | AVAILABLE - REMOTE |
 | 2021-05-10 | 2021-05-14 | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher |
 | 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager |
