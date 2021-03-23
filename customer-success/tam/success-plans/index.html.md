@@ -26,7 +26,7 @@ These are some of the reasons we use a success plan:
 - Serve as baseline to [track delivery of outcomes and adoption](/handbook/customer-success/tam/stage-adoption/)
 - Provide a foundation for the [TAM cadence call](/handbook/customer-success/tam/cadence-calls/) to give relevance to each touchpoint, and lead outcomes-based discussions such as the [Executive Business Reviews](/handbook/customer-success/tam/ebr/)
 
-Success plans are another facet of [account engagement](/handbook/customer-success/tam/engagement/) and are separate from collaboration projects. The success plan is meant for articulating and tracking high-level strategic business objectives, while collaboration projects are best used for technical and tactical initiatives and to act as the primary communication method besides cadence calls on a day-to-day basis on issues to solve.
+Success plans are another facet of [account engagement](/handbook/customer-success/tam/engagement/) and are separate from collaboration projects. The success plan is meant for articulating and tracking high-level strategic business objectives, while collaboration projects are best used for technical and tactical initiatives and to act as the primary communication method besides cadence calls on a [day-to-day basis](/handbook/customer-success/tam/gainsight/#gainsight-workflow) on issues to solve.
 
 As you read through this page, you'll likely notice that the success plan is continually described as a [living document](/#success-plans-are-living-documents); this is intentional! A success plan is **not** a "set it and forget it" exercise. It should be something that the TAM maintains on an ongoing basis and [iterates](/handbook/values/#iteration) on as they learn new information.
 

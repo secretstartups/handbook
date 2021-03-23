@@ -66,11 +66,11 @@ Gainsight holds a lot of information and is great for reporting, but there can b
 
 Several TAMs find success by reviewing Gainsight at the beginning and/or end of their day, to see what action items (or [CTAs](/handbook/customer-success/tam/gainsight/ctas)) are due soon, [log their customer calls](/handbook/customer-success/tam/gainsight/timeline/) from the day, and check on the status of their [success plans](/handbook/customer-success/tam/success-plans/).
 
-When logging in, TAMs will begin on their dashboard.
+One of our TAMs created an [8 minute video](https://youtu.be/yk95b6u26So) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
 
 ### Gainsight Dashboard
 
-Gainsight's homepage will show a "TAM Portfolio" Dashboard which is a full list and overview of each TAM's customers. This dashboard defaults to show the book of business for the current user but can be filtered and configured in a variety of ways to view the information for specific TAMs, teams, etc.
+When logging in, TAMs will begin on their dashboard. Gainsight's homepage will show a "TAM Portfolio" Dashboard which is a full list and overview of each TAM's customers. This dashboard defaults to show the book of business for the current user but can be filtered and configured in a variety of ways to view the information for specific TAMs, teams, etc.
 
 This dashboard is likely to be a TAM's most-frequented page, as it shows a summary of their entire book of business, including last activity dates, health scores, at-risk customers, [upcoming renewals](/handbook/customer-success/tam/renewals/), stage adoption statistics, success plan progress, and more.
 
