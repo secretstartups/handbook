@@ -108,13 +108,7 @@ GitLab has completed its first annual refresh grant program in Q1 FY22. In order
  
 ##### Key Talent
  
-Key Talent (10% of overall population): We should specifically consider grants as a retention tool for those team members considered to be key talent:
-* Critical disruption to product if they were to leave
-* Critical disruption to ARR (including delays for customers) if they were to leave
-* Negatively impact company ability to achieve significant milestones
-* Key impact to significant process (may be a single source of failure)
- 
-GitLab will be using leadership discretion to determine who is deemed Key Talent.
+Key Talent (~10% of overall population) was identified during the FY22 Equity Refresh program. For more information, please refer to [the Key Talent section](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-criteria) on the Talent Assessment handbook page.
  
 ##### Timeline
 
