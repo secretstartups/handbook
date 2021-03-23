@@ -109,7 +109,7 @@ In some cases, we may choose not to post to status.io, the following are example
 1. The IMOC should [monitor](https://gitlab.slack.com/archives/CB7P5CJS1) ongoing [incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues?scope=all&utf8=%E2%9C%93&state=opened) and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC. [IMOC incident Checklist in runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/incidents/general_incidents.md#imoc-checklist)
 1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC may also take on the role of CMOC.
-    * Due to limited people on the IMOC rotation, there may be times of the day when the CMOC (if available; see [How to engage the CMOC](#how-to-engage-the-cmoc-only-during-weekdays)) is a more friendly choice.
+    * Due to limited people on the IMOC rotation, there may be times of the day when the CMOC (if available; see [How to engage the CMOC](#how-to-engage-the-cmoc)) is a more friendly choice.
 1. The IMOC should ensure that the appropriate team members from other teams engage within an appropriate amount of time.
     1. During a user-impacting incident, the appropriate time response time is minutes.
     1. If the IMOC is unable to obtain a response through Slack channels, they should escalate to a manager or director to obtain assistance.
@@ -136,7 +136,7 @@ During an incident, the CMOC will:
 1. Update the status page at regular intervals in accordance with [the severity of the incident](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
 1. Notify GitLab stakeholders (e-group, customer success and community team) of current incident and reference where to find further information. Provide additional update when the incident is mitigated. 
 
-##### How to engage the CMOC? (only during weekdays)
+##### How to engage the CMOC?
 
 If, during an incident, EOC or IMOC decide to engage CMOC, they should do that
 by paging the on-call person:
@@ -147,8 +147,9 @@ or
 schedule in PagerDuty. That can be done by navigating to [Incidents page in PagerDuty](https://gitlab.pagerduty.com/incidents),
 and then creating the new incident while picking **Incident Management - CMOC** as
 **Impacted Service**.
+CMOC coverage in APAC hours does not include the weekends. 24x7 coverage for CMOC is being worked in [support-team-meta#2822](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2822).
 
-Important to clarify that the CMOC covering hours does not include the weekends. 24x7 coverage for CMOC is being worked in [support-team-meta#2822](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2822).
+Saturday / Sunday 00:00 - 08:00 UTC does not currently have CMOC coverage.
 
 ### Corrective Actions
 Corrective Actions (CAs) are work items that we create as a result of an incident. They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence.
@@ -445,5 +446,5 @@ As [John Allspaw states](https://qz.com/504661/why-etsy-engineers-send-company-w
 When a near miss occurs, we should treat it in a similar manner to a normal incident.
 
 1. Open an [incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) issue, if one is not already opened. Label it with the severity label appropriate to the incident it would have caused, had the incident actually occurred. Label the incident issue with the `~Near Miss` label.
-1. [corrective actions](/handbook/engineering/infrastructure/incident-management/#Corrective-Actions) should be treated in the same way as those for an actual incident.
+1. [corrective actions](/handbook/engineering/infrastructure/incident-management/#corrective-actions) should be treated in the same way as those for an actual incident.
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
