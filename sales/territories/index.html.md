@@ -167,7 +167,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Simon Williams	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	|
-|	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Godwill NDulor	|
 
 
 ### Mid-Market
