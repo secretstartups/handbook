@@ -270,6 +270,10 @@ The second part contains 20 merge requests that weren't updated for 2 months or 
   1. Assign a reviewer as needed.
 * Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/58131](https://gitlab.com/gitlab-org/gitlab-ce/issues/58131)
 
+### Auto closure of triage reports
+
+Reports open for more than 2 weeks with the `~"triage report"` label will be closed automatically with the [close old triage reports](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/close-reports/close-old-triage-reports.yml) automation. 
+
 ## Triage automation
 
 General triage automation is run to label and update issues which help with
