@@ -221,7 +221,7 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://docs.gitlab.com/ee/user/packages/dependency_proxy/">Dependency Proxy Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/direction/package/#dependency-firewall">Dependency Firewall Direction and Roadmap</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/project/releases/#release-evidence">Release Evidence Feature Docs</a></li>
-    <li><a href="https://docs.gitlab.com/ee/administration/lfs/manage_large_binaries_with_git_lfs.html">Git LFS - Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/topics/git/lfs/index.html">Git LFS - Feature Docs</a></li>
     </ul>
 </td>
 </tr>
