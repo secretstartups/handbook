@@ -21,3 +21,10 @@ title: "GTM Analytics Hub"
 <figure class="video_container">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTETMJQ7B5suZyrUDKG4NZT-lrCl4OULdMXcJVe8yqV_OireByQU9zGLSa3g1-nmz25ONG515QG6pt/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
+
+## SSOT Fields
+ * Order Type 2.0
+ * Stamped Opp Owner User Segment
+ * Stamped Opp Owner User Region
+ * Sales Qualified Source
+ * Quote Start Date
