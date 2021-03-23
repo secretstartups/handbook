@@ -171,12 +171,6 @@ Where error budget points are incurred, a member of the Editorial team will appl
 - Check the review app or preview locally to make sure everything looks as expected.
 - Assign the MR to `@rebecca` well ahead of time (a minimum of two working days before you expect to publish).
 
-### Preparing confidential blog posts
-
-It is not currently possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. Please see below [Creating MRs for confidential issues](#creating-mrs-for-confidential-issues).
-
-In exceptional circumstances, we can prepare a confidential MR in a private repository. Please leave a comment on your blog post issue to note that this is necessary, and see [The Private handbook](/handbook/handbook-usage/#the-private-handbook) for further instructions.
-
 ## Third-party posts
 We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in.
 
@@ -1092,7 +1086,26 @@ Image sizes can exceed megabytes and slow down the site rendering. Follow the pr
 
 ## When your post is formatted and you're ready to create your merge request
 
- You can go about this a couple of ways: by adding a new file to `sites/marketing/source/blog/blog-posts/` in the UI, or using the terminal on your own computer.
+ You can go about this a couple of ways: by adding a new file to `sites/marketing/source/blog/blog-posts/` [in the UI](#creating-a-blog-post-mr-from-the-ui), or [using the terminal](#creating-a-post-from-the-command-line) on your own computer.
+ 
+### Preparing blog posts privately
+
+Currently, it is not possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. 
+
+We have an [issue open to explore implementing functionality in Netlify CMS that would allow us to stage and preview posts](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1149) before triggering a commit to GitLab.com. In the meantime, please leave a comment in your issue to let us know if the information in your proposed blog post is under embargo (e.g., a company announcement) and whether you need assistance staging the post in private. Please see below for details about how we prepare blog posts privately.
+
+#### Creating MRs for confidential issues
+
+If your blog post issue is confidential, please don't create an MR using the button on your issue – instead follow the instructions below. This also applies if there isn't an issue for the post (only in rare cases of extremely sensitive information).
+
+ 1. [Create a new merge request from a new branch through the UI](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html#new-merge-request-from-a-new-branch-created-through-the-ui) **OR** [create your blog post MR starting from the command line](#creating-a-post-from-the-command-line).
+ 1. When you have created your MR, apply the blog post MR template and make sure the description includes `Closes [link to your confidential issue]` to create the connection between the issue and the MR, so that when the MR is merged the issue will close automatically.
+
+**Note that your MR will not be confidential**. If information is under embargo it is best to prepare the blog post in a Google Doc or locally and create the MR ~1 hour ahead of publish time to keep the blog post private. This is to allow time for pipelines to pass before the post is live. Just give the branch and MR generic names to avoid drawing attention to them.
+
+**For time-sensitive announcements** we recommend finding out from #production on Slack who the [Engineer On Call](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) will be at the time you are hoping to publish, so you can give them a heads up about the plans and you know who to contact on the day if there are any production issues with GitLab.com.
+ 
+Feel free to give a thumbs up to [this feature request for confidential MRs](https://gitlab.com/gitlab-org/gitlab/-/issues/222404) and [this issue exploring implementing private staging in Netlify CMS](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1149).
 
 ### Creating a blog post MR from the UI
 
@@ -1107,15 +1120,6 @@ Make sure you select the blog post template for your MR, as this contains some i
 ![MR template for blog post](/images/handbook/marketing/blog-mr-template.png){: .shadow.medium.center}
 
 You can assign the MR to yourself while you are working on it.
-
-#### Creating MRs for confidential issues
-
-If your blog post issue is confidential, please don't create an MR using the button on your issue – instead follow the instructions below:
-
-1. [Create a new merge request from a new branch through the UI](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html#new-merge-request-from-a-new-branch-created-through-the-ui) **OR** [create your blog post MR starting from the command line](#creating-a-post-from-the-command-line).
-1. When you have created your MR, apply the blog post MR template and make sure the description includes `Closes [link to your confidential issue]` to create the connection between the issue and the MR, so that when the MR is merged the issue will close automatically.
-
-Note that your MR will not be confidential. If information is under embargo it is best to prepare the blog post in a Google Doc or locally and create the MR close to the publish time to keep the blog post private. Feel free to give a thumbs up to [this feature request for confidential MRs](https://gitlab.com/gitlab-org/gitlab/-/issues/222404).
 
 #### Adding your blog post file to the MR
 
