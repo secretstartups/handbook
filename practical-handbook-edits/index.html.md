@@ -80,16 +80,13 @@ This video covers:
 This video covers:
 - How to add a new page to your section of the handbook complete with a new main page and table of contents
 
-### Updating `team.yml` for managerial changes
+### Updating people YAML for managerial changes
 
-Every GitLab team member has an entry in `team.yml` and when a new manager
-joins a team, updates are needed in three places:
+Every GitLab team member has an entry in `team_members/person` and when a new manager joins a team, updates are needed in three places:
 
-- `team.yml` for the manager's entry
-- [`team.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team.yml) for each team member's entry.
-- [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) to indicate the new manager for the team.
-
-An example of how to do this can be seen in [this merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69299).
+- Manager's entry
+- Team member's entry
+- [`stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) to indicate the new manager for the team (if part of engineering/product)
 
 ### More Tips
 
