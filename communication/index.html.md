@@ -115,7 +115,7 @@ We tried Manager Mention MR’s for the first time in a recent announcement (202
 
 **For team members:** When leaving a comment in a Manager Mention MR, frame the comment as a question or suggestion to your manager directly, and not anyone else, including the DRI. We do this to scale communication, as it is unsustainable for the DRI to answer every question. 
 - **What not to do:** Leaving a comment and CC’ing your manager at the end of your post, but not addressing your manager directly. 
-- **What to do:** Address your manager directly at the beginning of your message as your comments should be addressed to your manager. If you have a suggestion, solution or see an issue with a big change, you can also bring it up directly to your manager.
+- **What to do:** Address your manager directly at the beginning of your message as your comments should be addressed to your manager. If you have a suggestion, solution or see an issue with a big change, you can also bring it up directly to your manager. The MR is not a poll. Give suggestions on how to improve and try to find data that helps support your argument or change in the MR.
 
 MRs should not start out as a Manager Mention MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI. An exception to this is compensation changes and other company-wide announcements that can be sensitive/contentious in nature since they have historically generated many comments.
 
