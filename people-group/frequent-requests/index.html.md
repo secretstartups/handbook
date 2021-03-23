@@ -26,6 +26,8 @@ If you need a letter from GitLab verifying your employment/contractor status or 
 
 If you are a GitLab GmbH employee, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfiFggqUAA12U_9NV52BLIuuOi7x7oBznIP2iaCcMQYcM39Ag/viewform). 
 
+If you are a PEO employee kindly reach out to the PEO for a letter of employment. If you require internal assistance on this matter please reach out to the People Experience team. 
+
 ## Employment Verification
 
 If you need People Operations to complete an employment verification form, usually for the purposes of a loan or security access, please have the relevant company or organization request this by emailing `people-exp@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`.
