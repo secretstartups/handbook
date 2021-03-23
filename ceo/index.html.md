@@ -133,7 +133,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ### Daily Meetings
 
-1. [Group Conversation](/handbook/people-group/group-conversations/). 25 minutes.
+1. [Group Conversation](/handbook/group-conversations/). 25 minutes.
 
 ### Weekly Meetings
 
@@ -149,7 +149,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 ### Monthly Meetings
 
 1. [Key Review](/handbook/finance/key-meetings/) with Executives and function leaders. 25 minutes.
-1. [CEO Group Conversation](/handbook/people-group/group-conversations/). 25 minutes.
+1. [CEO Group Conversation](/handbook/group-conversations/). 25 minutes.
 1. Informal Board Meeting with GitLab Board Members. 50 minutes.
 1. [1-1](/handbook/leadership/1-1/) with CEO Coach. 80 minutes.
 1. Industry Analyst Meetings. 25-50 minute meetings.
