@@ -107,9 +107,17 @@ This MR is a Manager Mention MR.  Contributors should tag their manager when add
 ```
 Additionally, add the `~"Manager Mention MR"` label to the merge request.  This will make future analytics on Manager Mention merge requests more easily identifiable.
 
-Comments without a manager tagged will be closed with a link to this handbook section or closed without comment.
+We tried Manager Mention MR’s for the first time in a recent announcement (2021-03-03) but this did not work well and we are working on making it better. Starting with a more thoughtful and transparent process in our communications cadence and approach going forward, including all directs and people managers getting a few days’ notice before important company-wide changes are announced to all team members. This will allow all directs and people managers to feel more enabled and better understand the why behind big changes in order to scale communication to team members. 
 
-MRs should not start out as a Manager Mention MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI. An exception to this is compensation changes since they have historically generated many comments.
+**For all managers:** It is important to ground yourself in the contents of the changes before the announcement goes live to all team members. If a team member tags you in a Manager Mention MR, it is your role to respond candidly and thoughtfully to their question or comment. If the line of questioning in the Manager Mention MR gets out of your depth, ask the DRI to help answer. If a team member comments without a manager tagged, the comment will be closed with a link to this handbook section or closed without comment. 
+- **What not to do:** Not communicate to team members of company-wide changes. Ignoring team member questions, whether that’s in a 1:1 or Manager Mention MR. 
+- **What to do:** If one of your team members has a suggestion, solution or sees an issue, see if talking through the communication will answer any of their questions. Team members are also allowed to bring forward their ideas in the Manager Mention MR addressed to you, we want everyone to contribute.  As a manager, you will be expected to communicate changes to your teams and also be present to answer any team member questions, whether that’s in a 1:1 or Manager Mention MR.
+
+**For team members:** When leaving a comment in a Manager Mention MR, frame the comment as a question or suggestion to your manager directly, and not anyone else, including the DRI. We do this to scale communication, as it is unsustainable for the DRI to answer every question. 
+- **What not to do:** Leaving a comment and CC’ing your manager at the end of your post, but not addressing your manager directly. 
+- **What to do:** Address your manager directly at the beginning of your message as your comments should be addressed to your manager. If you have a suggestion, solution or see an issue with a big change, you can also bring it up directly to your manager.
+
+MRs should not start out as a Manager Mention MR as we prefer [communication to be direct](/handbook/leadership/#communication-should-be-direct-not-hierarchical). They should only be designated as such after the number of comments on them grows to a level that is unsustainable for the DRI. An exception to this is compensation changes and other company-wide announcements that can be sensitive/contentious in nature since they have historically generated many comments.
 
 When an MR is changed to be `Manager Mention`, the person making this change should add a comment stating this so that everyone tracking the MR can be informed.
 
