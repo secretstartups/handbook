@@ -1,3 +1,8 @@
+---
+title: Table Markdown Example
+noindex: true
+---
+
 ## Normal Markdown   
 
 | Month | Saving |
