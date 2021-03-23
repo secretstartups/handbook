@@ -22,7 +22,7 @@ Keywords:  PII, Name, Social Security Number, Date and Place of birth, Mother's 
 
 PII requests have a 48 hour SLA.
 
-# Workflow
+## Workflow
 
 1. Vet the request.
 1. Verify that the reported links to the content is present in the request?
@@ -31,5 +31,5 @@ PII requests have a 48 hour SLA.
 1. If the content is still live, forward the request to Abuse for further review.
 1. The Abuse Team will comment on the ticket advising on the next steps or steps taken.
 
-It is important for the Abuse team to review the request before forwarding it to the reported account.  The Abuse Team will create a new ticket and forward the initial notice using the [`PII::Notice to content 'Owner'::First Touch`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360036087273) macro.  Including the reference ticket in Internal Notes. Abuse Team will take over from there. 
+It is important for the Abuse team to review the request before forwarding it to the reported account.  The Abuse Team will create a new ticket and forward the initial notice using the [`PII::Notice to content 'Owner'::First Touch`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360036087273) macro.  Including the reference ticket in Internal Notes. Abuse Team will take over from here. 
 
