@@ -15,7 +15,7 @@ subcategory: Live Upgrade Assistance
 ### Overview
 
 The GitLab support team is here to help. As a part of our [Priority Support](/support/index.html#priority-support)
-we offer Live Upgrade Assistance. That is, we'll host a live screen share
+we offer [Live Upgrade Assistance](/support/scheduling-live-upgrade-assistance.html). That is, we'll host a live screen share
 session to help you through the process and ensure there aren't any surprises.
 
 In addition to the live assistance, it is important for GitLab Support to ensure
