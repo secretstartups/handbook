@@ -444,7 +444,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | GitLab Board meeting or meeting with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)                   | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
 | Valley Meetings                  | No notes       | Timekeeping    |
-| L & D Weekly Learning Session    | Special (See[below](/handbook/ceo/shadow/#ceo-handbook-learning-sessions) | No Timekeeping |
+| L & D Weekly Learning Session    | Special ([See below](/handbook/ceo/shadow/#ceo-handbook-learning-sessions) | No Timekeeping |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 
@@ -469,6 +469,7 @@ Tips:
 1. Put Zoom in "gallery mode" so you can see all participants (rather than only the person currently speaking). This allows everyone to see the entire audience which creates a more inclusive environment and fosters better communication.
 1. If you aren't sure where meeting attendees are in a Google document, click on their face or initials in the upper-right side of the window. Doing this will cause your cursor to jump to wherever their cursor is in the document.
 1. It can be challenging to coordinate with the other shadow on who is taking notes at any point in time. Consider agreeing with the other shadow to "show your hands" in Zoom to indicate that you are not currently taking notes.
+1. Sometimes people will provide some color or context before providing the main point. Consider listening to the first setence before documenting to ensure you are capturing main points instead of what they are saying verbatim.
 
 ##### Keeping time
 
