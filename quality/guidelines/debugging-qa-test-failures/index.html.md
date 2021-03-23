@@ -344,10 +344,11 @@ To quarantine a test:
 
 > **Note** If the example has a `before` hook, [the `quarantine` metadata should be assigned to the outer context](#nested-contexts) to avoid running the `before` hook.
 
-- The merge request shall have the labels: `~"Quality", ~"QA", ~"bug", ~"Pick into auto-deploy"`.
-- The merge request may have stage or group labels. E.g. `~"devops::create" ~"group::source code"`.
-- The merge request shall have the current milestone.
-- The merge request shall link to (but not close) the failure issue.
+- Create a merge request using the [Quarantine End to End Test](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/merge_request_templates/Quarantine%20End%20to%20End%20Test.md) template.
+  - The merge request shall have the labels: `~"Quality", ~"QA", ~"bug", ~"Pick into auto-deploy"`.
+  - The merge request may have stage or group labels. E.g. `~"devops::create" ~"group::source code"`.
+  - The merge request shall have the current milestone.
+  - The merge request shall link to (but not close) the failure issue.
 - The failure issue should remain open and be assigned a DRI (likely the [counterpart SET](https://about.gitlab.com/handbook/engineering/quality/#individual-contributors)) for fixing, re-evaluating, or dequarantining the test as needed.
 
 To be sure that the test is quarantined quickly, ask in the `#quality` Slack channel for someone to review and merge the merge request, rather than assigning it directly.
@@ -429,7 +430,7 @@ for instruction on finding your release version created and tagged by the Omnibu
 
 To dequarantine a test:
 
-- Create a merge request that removes the `:quarantine` tag.
+- Create a merge request that removes the `:quarantine` tag using the [Quarantine End to End Test](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/merge_request_templates/Quarantine%20End%20to%20End%20Test.md) MR template.
 - Close the issue created as part of the quarantining process.
 
 As with quarantining a test, you can ask in the `#quality` Slack channel for someone to review and merge the merge request, rather than assigning it.
