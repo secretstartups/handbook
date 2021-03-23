@@ -19,6 +19,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 ● Open a terminal session or command prompt and type “***git version***” and press **Enter** 
 
 ### Generate an SSH Key
+These steps are only needed if you do not have an SSH key already installed.
 1. Open a terminal or command prompt window and enter the following command:  “***ssh-keygen”*** 
 2. You will be prompted to select the location in which your key will be saved, press the **Enter** key to leave it at the default. 
 3. You may be prompted to create a passphrase, enter a password of your choice and hit the **Enter** key. 
@@ -51,6 +52,12 @@ This is where the git software will track your changes, and where you will inter
 6. In your terminal/command window, type “***ls -al***” and press **Enter** to receive a list of all files in your current directory, including hidden files.
 7. On your terminal/command window type “***git status”*** and press **enter**. You will receive a message saying your working tree is clean.  
 
+### Work on a Branch
+1. In your terminal/command window, type “***git checkout -b temporary\_branch”*** and press **Enter**.  
+2. In your terminal/command window, type “***git branch -a”***  and press **Enter** to see all branches. 
+
+*Note the red branches are on the remote server (GitLab)* 
+
 ### Make a Change to a README File
 1. Navigate to your README.md file.  
 2. Using the editor of your choice type, “***a second line added to master branch locally.***” below the line current line and save the file. 
@@ -58,13 +65,7 @@ This is where the git software will track your changes, and where you will inter
 
 Note:  GitLab has detected we have added a file to our local repo.  Your branch is up to date with origin/master: We have not authored our first commit yet, and therefore; not created a new snapshot yet. 
 
-### Work on a Branch
-1. In your terminal/command window, type “***git checkout -b temporary\_branch”*** and press **Enter**.  
-2. In your terminal/command window, type “***git branch -a”***  and press **Enter** to see all branches. 
-
-*Note the red branches are on the remote server (GitLab)* 
-
-### Stage the README file to the GitLab staging area locally.
+### Stage the README file to the GitLab staging area locally
 1. In your terminal/command window, type “***git add README.md”*** and press **Enter**. If this was successful, the command window will move to a new line with no error message. 
 Note: We have taken our README.md file from our working directory, and moved it to a “staging area”  
 2. Type “***git status”*** and press **Enter**. 
@@ -85,11 +86,11 @@ Note: We typically use [Visual Studio Code](https://code.visualstudio.com/sha/do
 3. In your terminal/command window, type “***git add README.md”*** and press **Enter**.  
 4. In your terminal/command window, type “***git commit -m “modified the readme.md file””*** and press **Enter**. 
 5. In your terminal/command window, type “***git log”*** and press **Enter**. 
-6. In your terminal/command window, type “***git push -u origin temporary\_branch”*** and press **Enter**. 
+6. In your terminal/command window, type “***git push”*** and press **Enter**. 
 - **Developer Tip:** If you want to commit your changes to your upstream, you can simply use the command type “git push -u” and press **Enter**. The system only needs to set the upstream once.  
 7. Navigate to the remote GitLab.com platform and view changes to your project. 
 
-### Simulate a change on the branch.**  
+### Simulate a change on the branch 
 Someone in your organization has merged a feature branch into master.  The code has moved code under our feet (so to speak) and now your local directory is out of sync with the remote. We now must update the state of the master branch. 
 
 1. From the GitLab dashboard, navigate to your Top Level Project and click on the Temporary Branch from the drop down on the repository screen. 
@@ -108,17 +109,17 @@ The git fetch command retrieves the updated state of branches without updating t
 
 ### Pull from the remote repository (upstream)
 We now need to explicitly tell git to update the contents. 
-1. In your terminal/command window, type “***git pull”*** and press **Enter.**
+1. In your terminal/command window, type “***git pull*** and press **Enter.**
 2. To view the contents of the README.md file, type “***cat README.md”*** and press **Enter.**
 
 ### Merge all changes from the temporary\_branch into the Master branch 
-1. In your terminal/command window, type “***git branch”*** to verify which branch you are currently working in. You should already be in the temporary branch.
-2. Switch to your Master Branch, in your terminal/command window, type “***git checkout master”***  and press **Enter**.  
+1. In your terminal/command window, type “***git branch*** to verify which branch you are currently working in. You should already be in the temporary branch.
+2. Switch to your Master Branch, in your terminal/command window, type “***git checkout master***  and press **Enter**.  
 3. From the master branch, type “***git merge temporary\_branch”*** and press **Enter**.  
 
 ### Update the remote repository
-1. In your terminal/command window, type “***git status”*** and press **Enter**.  
-2. Type “***git push -u”*** and press **Enter.**
+1. In your terminal/command window, type “***git status*** and press **Enter**.  
+2. Type “***git push*** and press **Enter.**
 3. Navigate back to GitLab.com and view your Project Master Branch and view the changes made.
 
 ### SUGGESTIONS?
