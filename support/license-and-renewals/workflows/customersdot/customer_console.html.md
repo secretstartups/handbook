@@ -584,7 +584,7 @@ irb(main):180:0>  update_group_mins(1234,"gold",50000)
 
 ### update_extra_minutes
 
-> *Note*: Additional minutes can also be changed via chatops.
+> *Note*: Additional minutes can also be changed via chatops. Feature request for editing via UI in [gitlab#325917](https://gitlab.com/gitlab-org/gitlab/-/issues/325917).
 
 Update a group's shared runner minutes.
 
@@ -603,6 +603,8 @@ irb(main):180:0>  update_group_mins("gitlab-gold",50000)
 ```
 
 ### update_extra_storage
+
+> *Note*: Additional storage can also be changed via API. Feature request for editing via UI in [gitlab#325918](https://gitlab.com/gitlab-org/gitlab/-/issues/325918).
 
 Update a group's additional storage.
 
