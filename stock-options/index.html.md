@@ -361,7 +361,7 @@ For our employees based in the Netherlands, Germany and Australia, the differenc
  
 ### The United Kingdom
  
-In the United Kingdom there is a small difference in the tax treatment of exercising your stock options as opposed to the other entities; the difference between the fair market value and the exercise price is taxed at the date of exercise if there is a liquid market for the stock at time of exercise. For more information please check [our memo on this](/handbook/tax/#international-territory).
+In the United Kingdom there is a small difference in the tax treatment of exercising your stock options as opposed to the other entities; the difference between the fair market value and the exercise price is taxed through payroll at the date of exercise if there is a liquid market for the stock at time of exercise. If there is no liquid market, income tax will likely still be due but the team member will need to settle this directly with HMRC. For more information please check [our memo on this](/handbook/tax/#international-territory).
  
 ## Dual-Class Stock
  
