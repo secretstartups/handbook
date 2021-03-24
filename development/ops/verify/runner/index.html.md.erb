@@ -128,10 +128,16 @@ group, which will set proper permission across the projects.
 ### Runner Group Specific Onboarding Needs
 
 * `editor` access to the `group-verify` project in GCP
-* Add as `developer` to the `gitlab-com/runner-group` group on GitLab.com
+* Add as `maintainer` to the `gitlab-com/runner-group` group on GitLab.com
 * Make sure entry in `team.yml` has the new member as a reviewer of `gitlab-org/gitlab-runner` and `gitlab-org/ci-cd/custom-executor-drivers/autoscaler`
 * Add to Geekbot daily standup for `Runner Group Daily Standup` and `Runner Weekly Retro`
 * Add to `Verify` 1password vault (requires creating an access request).
+
+### Onboarding
+
+When a new developer joins Runner, their responsibility will include maintaining the runner project and all satelite repositories we own from their first day. This means that the developer will get Maintainer access to our repositories and will be added to the [`runner-maintainers`](https://gitlab.com/groups/gitlab-com/runner-maintainers/-/group_members?with_inherited_permissions=exclude) group so they appear in merge request approval group.
+
+This allows the onboarding developer to grow organically over time in their responsibilities, which might include (non-exhaustive) code reviews, incident response, operations and releases. We should still follow the [traditional two-stage review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/) for merges in most cases (incident response and operations being exceptions if the situation warrants it).
 
 ### Kanban
 
