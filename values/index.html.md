@@ -747,7 +747,7 @@ As discussed in [Sid's interview on iteration](https://youtu.be/tPTweQlBS54?t=10
 
 ##### Start off by impacting the fewest users possible 
 {:.no_toc}
-There are times when the Merge Request itself is not a large amount of work but the impact is significant.  In these scenarios, iterate by impacting as few users as possible.  For example, if your change impacts a project, start with an inactive project, next a small project and continue to iterate up unti you are comfortable making the change to a larger project.
+There are times when the Merge Request itself is not a large amount of work but the impact is significant. In these scenarios, iterate by impacting as few users as possible. For example, if your change impacts a project, start with an inactive project, followed by a small project, and continue to iterate up until you are comfortable making the change to a larger project.
 
 
 ##### Reduce cycle time
