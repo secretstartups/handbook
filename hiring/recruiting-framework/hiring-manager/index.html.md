@@ -54,7 +54,7 @@ Once each step in the interview plan is completed, the interview team will submi
 
 * Key Take-aways: This is an area to summarize your overall experience.
 
-* Pros: This is an area to capture alignment on role responsibliies, competnecy alignments and much more!
+* Pros: This is an area to capture alignment on role responsibliies, competency alignments and much more!
 
 * Cons: This is an area to capture opportunities, areas of improvement and/or specific feedback that would be useful to provide the candidate if a decision was made to not move forward with that candidate.
 
