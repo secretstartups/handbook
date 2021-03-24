@@ -510,6 +510,18 @@ Tip: The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is 
 
 ## Google
 
+### Google Docs
+
+#### Google Docs Pro Tips
+
+1. Quickly create a new Google Doc in chrome: type "docs.new" in the chrome address bar.
+   Likewise "sheets.new" for a Google Sheet etc...
+1. While in a document with many other editors, click on the image or icon of any user at the top of the document to move focus to their cursor and what they are typing in the document.
+   This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
+1. Quickly find all action items assigned to you with a [search for `followup:actionitems`](https://drive.google.com/drive/search?q=followup:actionitems).
+1. During meetings, in the upper-right side of the window for a Google document, double-click on the picture (or first initial) of the person speaking to see where their cursor currently is in the document being discussed.
+1. To add additional rows to a numbered list in a Google Document, press `Return` to add additional spaces under the existing numbered list in the document, highlight those spaces, and click the numbered list icon in the formatting bar (or press `Command ⌘ + Shift + 7` on a Mac) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial.
+
 ### Google Analytics
 
 [Google Analytics (GA)](https://analytics.google.com/) is an essential tool for making data-driven decisions.
@@ -657,7 +669,7 @@ Add as many time zone world clock as you wish by going to Settings -> World Cloc
 
 See the [Engineering handbook](/handbook/engineering/#resources) for a listing of cloud resources and how to gain access to them.
 
-### Google Drive/Docs
+### Google Drive
 
 #### First, an important message - Don't use Google Drive/Apps (unless you have to)
 
@@ -758,17 +770,7 @@ Here's how to do this:
 5. It might pull up a new page/tab and use your personal login.
    If it does this you won't see "Download & install Drive File Stream" on the page.
    Switch to your GitLab account.
-6. Download and install
-
-#### Google Docs Pro Tips
-
-1. Quickly create a new Google Doc in chrome: type "docs.new" in the chrome address bar.
-   Likewise "sheets.new" for a Google Sheet etc...
-1. While in a document with many other editors, click on the image or icon of any user at the top of the document to move focus to their cursor and what they are typing in the document.
-   This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
-1. Quickly find all action items assigned to you with a [search for `followup:actionitems`](https://drive.google.com/drive/search?q=followup:actionitems).
-1. During meetings, in the upper-right side of the window for a Google document, double-click on the picture (or first initial) of the person speaking to see where their cursor currently is in the document being discussed.
-1. To add additional rows to a numbered list in a Google Document, press `Return` to add additional spaces under the existing numbered list in the document, highlight those spaces, and click the numbered list icon in the formatting bar (or press `Command ⌘ + Shift + 7` on a Mac) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial. 
+6. Download and install 
 
 ### Google Forms
 
