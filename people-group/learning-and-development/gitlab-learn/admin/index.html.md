@@ -615,11 +615,31 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 
 ## Reporting
 
+EdCast uses a tool called EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. 
+
+### Key Dashboards
+
+1. [GitLab Learn Key Reports - All Users](https://edcast-536.domo.com/page/2188975) - this dashboard displays key reports that give insight into course completion and use engagement platform wide on GitLab Learn. This is the best dashboard to view metrics that are **not** segmented by audience.
+
+### L&D Teaam Dashboards
+
+1. [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) - this dashboard displays custom reports that share information for only GitLab team members on the GitLab Learn platform
+1. [DIB Certification Completion Reports](https://edcast-536.domo.com/page/2098296181) - this dashboard shows team member completion of the DIB certification broken down by department level
+
+### Reporting Training Materials
+
+#### Office Hours Recordings
+
+This [Google Drive](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6) contains recordings of office hours with EdCast that have a heavy focus on reporting using EdGraph and are great training resources for team members looking to build and access reports using the tool.
+
+#### L&D Monthly Reporting
+
 The following private videos can be viewed by team members using the GitLab Unfiltered account for training on how to create reports using EdGraph and Domo.
 
 1. [How L&D uses custom dashboards and reports in GitLab Learn](https://youtu.be/xQwhmX_hRYg)
 1. [How to create a custom report using EdGraph](https://youtu.be/ofqAjoUkJuM)
 1. [Monthly L&D reports - course completions by month and all time for team members](https://youtu.be/Smn37gRJQTs)
+
 
 ## Moderation
 
