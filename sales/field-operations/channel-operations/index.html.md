@@ -35,103 +35,83 @@ description: "This page serves as the Channel Operations team page and includes 
    </td>
   </tr>
   <tr>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjJ">Channel Book & Pipe-Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjJ">Channel Book & Pipe - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjO">Channel Book & Pipe-Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al8o">Channel Book & Pipe - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjT">Channel Book & Pipe-Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al8t">Channel Book & Pipe - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjY">Channel Book & Pipe-Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al8y">Channel Book & Pipe - Current Fiscal Quarter</a>
    </td>
   </tr>
   <tr>
    <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjd">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRji">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al93">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjn">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al98">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjs">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRif">Deal Path Pipe & Book - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRik">Deal Path Pipe & Book - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRip">Deal Path Pipe & Book - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiu">Deal Path Pipe & Book - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9D">Channel Book & Pipe by Partner - Current Fiscal Quarter</a>
    </td>
   </tr>
   <tr>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiz">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiz">Deal Path Pipe & Book - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRj4">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9I">Deal Path Pipe & Book - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRj9">Deal Path Pipe & Book - Current & Next Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9N">Deal Path Pipe & Book - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjE">Deal Path Pipe & Book - Current & Next Fiscal Quarter  </a>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjx">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRk2">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRk7">Direct vs. Channel Book & Pipe - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRjt">Direct vs. Channel Book & Pipe - Current Fiscal Quarter  </a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9S">Deal Path Pipe & Book - Current Fiscal Quarter  </a>
    </td>
   </tr>
   <tr>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aS13">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aS13">Open Partner Sourced Pipeline by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhh">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9X">Open Partner Sourced Pipeline by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiB">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9c">Open Partner Sourced Pipeline by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiG">Open PIO Pipeline by Partner - Current Fiscal Quarter</a>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiL">PIO Bookings by Partner - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiQ">PIO Bookings by Partner - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiV">PIO Bookings by Partner - Current Fiscal Quarter</a>
-   </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRia">PIO Bookings by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9h">Open Partner Sourced Pipeline by Partner - Current Fiscal Quarter</a>
    </td>
   </tr>
   <tr>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhS">PIO Creation by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRiL">Partner Sourced Bookings by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhI">PIO Creation by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9r">Partner Sourced Bookings by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhX ">PIO Creation by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004al9w">Partner Sourced Bookings by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhc">PIO Creation by Partner - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alA1">Partner Sourced Bookings by Partner - Current Fiscal Quarter</a>
    </td>
   </tr>
   <tr>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkW">PIO New Logos - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRhS">Partner Sourced Creation by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkb">PIO New Logos - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alAk">Partner Sourced Creation by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkg">PIO New Logos - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alAp ">Partner Sourced Creation by Partner - Current Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkl">PIO New Logos - Current Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alAu">Partner Sourced Creation by Partner - Current Fiscal Quarter</a>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aRkW">Partner Sourced New Logos - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alB4">Partner Sourced New Logos - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alB9">Partner Sourced New Logos - Current Fiscal Quarter</a>
+   </td>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alBJ">Partner Sourced New Logos - Current Fiscal Quarter</a>
    </td>
   </tr>
   <tr>
    <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXj">Channel Renewals - Current & Next Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXo">Channel Renewals - Current & Next Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alBT">Channel Renewals - Current & Next Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aWXt">Channel Renewals - Current & Next Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alBY">Channel Renewals - Current & Next Fiscal Quarter</a>
    </td>
-   <td><a href="https://gitlab.my.salesforce.com/00O4M000004aUMP">Channel Renewals - Current & Next Fiscal Quarter</a>
+   <td><a href="https://gitlab.my.salesforce.com/00O4M000004alBd">Channel Renewals - Current & Next Fiscal Quarter</a>
    </td>
   </tr>
 </table>
