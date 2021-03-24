@@ -140,7 +140,7 @@ Guidance for stage groups is:
 |**Monthly Spend** |**Action**|
 |------------------|----------|
 | < 10 minutes     | Understand your spend - no further action required. |
-| > 10 minutes     | Increase focus on performance and availability, reach out to XYZ for guidance. |
+| > 10 minutes     | Increase focus on performance and availability, reach out to Scalability for guidance. |
 
 # Current State and Future Intent
 
