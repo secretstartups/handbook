@@ -234,7 +234,7 @@ Additional links which may be useful when preparing to moderate a call include:
 ## Schedule & DRI
 
 There is a rotating schedule with each Department having a conversation on a regular interval. 
-We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/company/culture/contribute/).
+We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
 On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with key meetings](handbook/key-meetings/#invitees) will have monthly Group Conversations within 10 days following their Key Meeting. They are expected to largely leverage their Key Meeting material. Other groups will have one meeting in the eight week cycle. Groups Conversations without Key Meetings can only be swapped with other Groups without Key Meetings, or scheduled during an open day that is available as noted on the schedule below. The schedule, with directly responsible individuals (DRI), is as follows starting 2021-04-19:
 
