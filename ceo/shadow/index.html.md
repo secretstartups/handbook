@@ -134,7 +134,7 @@ You're also eligible if you work(ed) at an investment firm and while there helpe
 
 Exceptions to eligibility:
 
-CEO Shadow rotations will be reserved for [All-Directs](/company/team/structure/#all-directs) during the week of [E-Group Offsites](/handbook/ceo/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
+CEO Shadow rotations will be reserved for [All-Directs](/company/team/structure/#all-directs) during the week of [E-Group Offsites](/company/offsite/#schedule). An exception will be made if there is last minute availability as two All-Directs are not available to serve in this role during this window.
 
 **COVID-19 Note:** During this time, all shadow rotations are fully remote.
 Given the CEO generally works from 8 a.m. to 6 p.m. Pacific,
@@ -277,7 +277,7 @@ The CEO has a [section in the handbook](/handbook/ceo) that details processes an
 
 If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](/handbook/product/performance-indicators) handbook page has some useful acronyms as well as concepts you're likely to come across.
 
-- [KPI (Key Performance Indicator)](/handbook/ceo/kpis/#what-are-kpis)
+- [KPI (Key Performance Indicator)](/company/kpis/#what-are-kpis)
 - [OKRs (Objectives and Key Results)](/company/okrs/#what-are-okrs)
 - Product performance indicators such as [xMAU (Monthly Active User)](/handbook/product/performance-indicators/#three-versions-of-xmau) and [SpU (Stages per User)](/handbook/product/performance-indicators/#stages-per-user-spu)
 - [Revenue definitions](/handbook/sales/sales-term-glossary/#revenue-definitions) such as [ARR (Annual Recurring Revenue)](/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr)
