@@ -62,9 +62,7 @@ The error budgets process has a few distinct items:
 
 1. Budget stakeholders
 1. Budget allocation
-1. Budget spend (by service)
-1. Budget spend (by feature category)
-1. Budget accounting
+1. Budget spend and accounting
 1. Communication between the stakeholders
 
 ## Budget stakeholders
@@ -89,7 +87,9 @@ The budget is set on the SaaS platform and is shared between stage and infrastru
 
 This budget does not take into account the number or complexity of the features owned by a team, existing product priorities, or the team size.
 
-## Budget spend (by service)
+## Budget spend and accounting
+
+### Budget spend(by service)
 
 The current budget spend can be found on the [general SLA dashboard][SLA dashboard].
 
@@ -103,13 +103,13 @@ The budget spend is currently aggregated at the primary service level.
 
 Details on what contributed to the budget spend can be further found by examining the raised incidents, and exploring the specific service dashboard (and its resources).
 
-### Budget accounting
+#### Budget accounting
 
 The Infrastructure department announces the budget spend at the end of each month in [the relevant Engineering communication channels][eng comms].
 
 The budget spend is also announced in [the weekly GitLab SaaS call](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure).
 
-## Budget spend (by feature category)
+### Budget spend (by feature category)
 
 The current 30 day budget spend can be found on each [stage group dashboard][stage group dashboards]. Feature categories for that stage group are rolled up to a single value. 
 
@@ -127,13 +127,13 @@ This is converted to minutes:
 (1 - gitlab:stage_group:error_budget:ratio_3d) * (30 * 24 * 60)
 ```
 
-_Apdex is a measure of response time based against a set threshold. It measures the ratio of satisfactory response times to unsatisfactory response times._
+Apdex and Error Rates are explained in more detail on [the handbook page](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability). 
 
-### Budget accounting
+#### Budget accounting
 
 The budget spend on each stage group dashboard shows the value for the previous 30 days. 
 
-On the last day of each month, the budget spend value for each stage group is calculated and added to the current Engineering Week-In-Review. 
+On the last day of each month, a DRI in the Infrastructure department will calculate the budget spend value for each stage group and add this to the current Engineering Week-In-Review. 
 
 Guidance for stage groups is:
 
