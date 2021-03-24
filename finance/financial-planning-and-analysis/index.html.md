@@ -16,24 +16,23 @@ title: "Financial Planning & Analysis"
  * [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance/issues)
  * [Analytics Issue Tracker](https://gitlab.com/gitlab-data/analytics) for all data, dashboard, or reporting requests
  * [Slack Channel](https://gitlab.slack.com/archives/fpanda)
- * [Hypergrowth Rule](/handbook/finance/financial-planning-and-analysis/hypergrowth-rule)
  * [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance)
  * [FP&A Job Ladder](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
  * [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights) 
 
 ## What is purpose of FP&A @ GitLab?
-1. Facilitate execution of GitLab's [strategy](/company/strategy/)
-2. Ensure our investor narrative aligns with operating strategy
-3. Bring predictability to Gitlab
-4. Ensure financial and operational goals of GitLab are defined, documented and achieved
-5. Evangelize awareness of strategy and each departments role in achieving it
-6. Ensure sound data-driven decision support
+1. Facilitate aligned cross-functional execution of GitLab's [strategy](/company/strategy/)
+2. Bring predictability and operational rigor to Gitlab
+3. Ensure financial and operational goals of GitLab are defined, documented and achieved
+4. Evangelize awareness of strategy and each departments role in achieving it
+5. Ensure sound data-driven decision support
+6. Ensure our investor narrative aligns with operating strategy
 
 ## How GitLab’s FP&A plans to get there….
 1. Manage the budget and planning processes for GitLab's [Board Plan](/handbook/finance/financial-planning-and-analysis/#board-plan)
-2. Build and maintain a [long-term financial model](/handbook/finance/financial-planning-and-analysis/#gitLab-integrated-financial-model) that projects performance into the future
-3. Define business drivers and [KPIs](/handbook/business-ops/data-team/metrics/) in our operating and long-term models in collaboration with the business and measure efficacy of the business plan.
-4. Own the rolling forecast process and provide real-time information on how departments are performing relative to forecast. Improve forecasts.
+2. Build and maintain a [long-term financial model](/handbook/finance/financial-planning-and-analysis/#gitLab-integrated-financial-model) that identifies long-term strategy and financial targets
+3. Define business drivers and [KPIs](/handbook/business-ops/data-team/metrics/) in our operating and long-term models in collaboration with the business and measure efficacy of the business plan
+4. Own the rolling forecast process and provide actionable insights to ensure departmental performance vs. plan and strategy
 5. Provide insights on the business drivers to constantly look for opportunities to improve performance
     - Process Improvements
     - Analytics
@@ -52,14 +51,14 @@ Governance: Street model in the form of company guidance will be prepared by cor
 
 Purpose: GitLab's Board Plan identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
 
-What: The Board Plan includes the annual strategy, business Plans for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is driven off the GitLab revenue model and the expenses are Planned at the headcount and vendor level. The Board Plan is a 90% confidence Plan and expenses for R&D and G&A are based on the revenue in the Plan. 
+What: The Board Plan includes the annual strategy, business Plans/budgets for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is forecast off 90% confidence bookings plan and expenses are planned at the headcount and vendor level. The Board Plan is a 90% confidence Plan and expenses for R&D and G&A are based on the revenue in the Plan. Expenses for sales are based on capacity to achieve Company Target (below).
 
 Governance: The Board Plan is approved by the board of directors every year.
 
-#### Target
-Purpose: Build a go-to-market business plan to achieve the companies tops-down target. 
+#### Company Target
+Purpose: Build a go-to-market business plan to achieve the company's tops-down target. 
 
-What: This is the board Plan with stretch targets for bookings and revenue at a 50/50 confidence level with supporting marketing and sales inputs. The bookings component of the corporate bonus and sales commissions will be set based on this target. We will build enough sales and marketing capacity to achieve this goal.
+What: This is the plan with Targets for bookings and revenue at a 50% confidence level with supporting marketing and sales inputs. We will build enough sales and marketing capacity to achieve this goal and will measure operational success internally against these Targets.
 
 #### Actuals
 
@@ -69,7 +68,7 @@ What: Actuals are results that have been reported or exist in a system that is d
 
 Purpose: In a dynamic high-growth business, GitLab's needs may change through the year and we need to be able to predict what is going to happen.
 
-What: Forecast is a dynamic assessment based on current expectations of financial performance. The FP&A team will publish a monthly forecast for revenue driven by key metrics and expenses driven by headcount and vendors. A monthly forecast does not extend the forecast period. For example in March 2020, the forecast will span from February 2020 to January 2021 with February actuals and March 2020 to January 2021 forecast - this will be called the (1+11) forecast. A monthly forecast will not be formally compared to actuals in variance.
+What: Forecast is a dynamic assessment based on current expectations of financial performance. The FP&A team will publish a monthly forecast for revenue driven by bookings and expenses driven by headcount and vendors. A monthly forecast does not extend the forecast period. For example in March 2020, the forecast will span from February 2020 to January 2021 with February actuals and March 2020 to January 2021 forecast - this will be called the (1+11) forecast. A monthly forecast will not be formally compared to actuals in variance.
 
 Governance: The monthly forecast is approved by VP Finance and reviewed with CFO.
 
@@ -82,10 +81,9 @@ Governance: The quarterly rolling forecast is approved by the eGroup and CEO and
 
 ### Mechanics of the Board Plan:
 - The Board Plan Bookings Plan is developed by completing a bottoms up assessment of expected renewals, churn, expansion bookings and new bookings. This Plan is validated via analysis of historical cohort behavior, landed account potential (LAM), marketing Plans and sales capacity.
-- The Board Plan includes expenses for sales and marketing with capacity to achieve the stretch target. Expenses for R&D, G&A, Sales Commissions and Cost of Revenue are planned at the 90% confidence Booking Plan level. The Board Plan also assumes that the corporate bonus target will be fully achieved at stretch target.
+- The Board Plan includes expenses for sales and marketing with capacity to achieve the stretch target. Expenses for R&D, G&A, Sales Commissions and Cost of Revenue are planned at the 90% confidence Booking Plan level.
 - The [rolling 4 quarter forecast](/handbook/finance/financial-planning-and-analysis/#rolling-4-quarter-forecast) builds off of the revenue projected in the revenue model. During the rolling 4 quarter, departments build out plans to help meet their strategic goals. Understanding the departmental plans determines how much of the capital will be consumed for foreseeable future.
-
-- The [budget](/handbook/finance/financial-planning-and-analysis/#budgeting-@-gitLab) looks to GitLab's [long term profitability goals](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and incorporates plans made during the rolling 4 quarter forecast in addition to revenue forecasts from the revenue model. In order to have a budget, GitLab must have a forecast(s) for it's Board Plan. Therefore, the revenue and rolling 4 quarter forecasts are critical to set budgets. Budgets help GitLab understand how it's spends its cash and help predict long term targets, but ultimately budgets are a guideline.
+- To the extent that bookings is forecasted to exceed Board Plan, we will reinvest $0.50 of every dollar (after commissions/bonuses) into the company to support future GTM capacity and R&D initiatives.
 
 ### Contingency Mechanics of the Board Plan (Future):
 - **Corporate Contingency:** unknown or uncertain spend held at CFO and released monthly based on performance / developments in business
@@ -103,71 +101,52 @@ Governance: The quarterly rolling forecast is approved by the eGroup and CEO and
 * Planning begins with an annual planning process that drives the annual board approved budget.
 * Every month as part of the close process the team will generate a monthly forecast
 * Every quarter as part of the close process the team will generate a four quarter rolling forecast
-* If GitLab is exceeding the Board Plan, on a quarterly basis the executive team can decide to increase expense as long as we maintain operating income goals approved by the board of directors.
+* If GitLab is exceeding the Board Plan bookings, executive team can decide to increase expense as long as we maintain operating income goals approved by the board of directors.
 
 ### Annual Planning Steps
 * Align executive team on strategic priorities
-* Prioritize efforts aligned with three year strategy and FY22 themes
+* Prioritize efforts aligned with three year strategy and annual themes
 * Sign-off on financial priorities for the year
 * Build out bottoms up integrated sales and marketing financial model with key assumptions documented so they can be tracked
-* Set targets agreed upon by Product, Marketing and Sales.
-* Review product investments vs expected revenue generation.
-* Set expected amount for annual compensation increases.
-* Set targets for any contributors on a company based performance plan.
-* Generate the expense Plan based on a headcount list, tbh list, vendor level spend list
+* Set targets agreed upon by Product, Marketing and Sales
+* Review product investments vs expected revenue generation
+* Set expected amount for annual compensation increases
+* Set targets for any contributors on a company based performance plan
+* Generate the expense Plan based on a headcount list, TBH list, vendor level spend list
 * Headcount list communicated to recruiting, proposed vendor list communicated to procurement (future with Purchase Orders in place for existing vendors)
 * Generate and document key assumptions
 * Show trending of key metrics as output of the Plan
 * Capture Plans to drive key metrics
 * Capture X-functional dependencies of execution
-* Revise and update the annual sales compensation plan.
-* Set annual quota assignments for revenue producing roles.
+* Revise and update the annual sales compensation plan
+* Set annual quota assignments for revenue producing roles
 
 
-#### Annual Planning Important Dates (2021 shown)
-* **30th of October** - Three Year Strategy
-* **9th of November** - FY22 Themes
-* **20th of November** - GTM Planning offsite and Product Themes
-* **23rd of December** - First Plan Rollup
-* **6th of January** - v1 rollup and eGroup decisions on company wide assumptions
-* **12th of January** - v2 rollup and Planning Deck review including GTM business Plan review
-* **23th of January** - Plan sent to Board for async commentary
-* **29th of January** - FY22 Plan Approved by Board async (Pre FY21 numbers)
-* **17th of March** - Formal approval of FY22 Plan by Board with FY21 numbers
+#### Annual Planning Important Dates (WIP FY23 shown)
+* **2021-10-29** - Three Year Strategy aligned
+* **2021-11-08** - FY23 Themes 
+* **2021-11-15** - GTM Planning offsite and Product Themes
+* **2021-12-17** - First Plan Rollup
+* **2022-01-10** - v1 rollup and eGroup decisions on company wide assumptions
+* **2022-01-12** - v2 rollup and Planning Deck review including GTM business Plan review
+* **2022-01-25** - Plan sent to Board for async commentary
+* **2022-01-28** - FY23 Plan Approved by Board async (Pre FY22 Actuals)
+* **2022-03-TBD** - Formal approval of FY23 Plan by Board with final FY22 Actuals
 
 ****
 
-## Monthly Close Process and Variance Meeting (WIP)
+## Monthly Close and Variance Process
 
-GitLab’s FP&A team will participate in a rigorous monthly close process. The close process has clear deadlines to best support our accounting team, key dates to deliver information to the EVPs / department heads, analyze the performance of our budgets and forecasts against actuals, update our internal forecasts and eventually update our investor guidance to prepare for the quarterly earnings call. Our philosophy is to compare our forecasts to results so that we can constantly improve our forecasting methodologies and approaches to hold ourselves accountable. Additionally, this process drives accountability to the business owners of the budget.
+GitLab’s FP&A team participates in a rigorous monthly close process. The close process has clear deadlines to best support our accounting team, key dates to deliver information to the EVPs / department heads, analyze the performance of our budgets and forecasts against actuals, update our internal forecasts and eventually update our investor guidance to prepare for the quarterly earnings call. Our philosophy is to compare our forecasts to results so that we can constantly improve our forecasting methodologies and approaches to hold ourselves accountable. Additionally, this process drives accountability to the business owners of the budget.
 
-### Monthly FP&A Close Process
 
-These dates are based on a 10 day accounting close. FP&A needs two days to do variance analysis, post close and another two days to lock rolling forecasts and complete guidance analysis.
+### Monthly FP&A Close Timeline
+
+These dates are based on a 10 day accounting close. FP&A needs three BDs to publish variance analysis post-close and another day to lock rolling forecasts and complete guidance analysis.
 
 BD=Business Day, so for example BD4 means four business days after the month has ended. Let’s say the month ended on a Thursday. BD1 would be Friday, BD2 would be Monday, etc.
 
-#### Close process (today)
-
-**Bold denotes Accounting deliverable**
-- BD -2: AP Accrual notification for FP&A team.
-- BD1: Collect Marketing, Legal, Hosting accruals for accounting. Send out Investor Update notification.
-- BD2: **Payroll, Vendor and accruals booked.**
-- BD3: **Legal accruals booked. Hosting accruals booked.** Finance Business Partners: Review vendor accruals to check for accuracy.
-- BD4: **AR Closed.**
-- BD5: **Revenue, Sales comp booked**. Variance reviews with EVPs for Marketing, R&D, G&A (without sales comp and allocations).
-- BD6: **Allocations prepared**
-- BD7:
-- BD8: **Preliminary financials released.** Variance review with CRO. Investor Update signed off by CFO, VP, Finance.
-- BD9:
-- BD10: Investor update sent out by CEO.
-- BD11: **Updates to preliminary financials finalized, accounting closed.**
-- BD12: Variance Review Package ready for CFO.
-- BD13: Revenue/EBIT guidance updated.
-- BD14: Monthly rolling forecast locked.
-- BD15: Review and sign off on revenue of variance package by CFO, VP, Finance.
-
-#### Close process (future)
+#### Close process
 
 **Bold denotes Accounting deliverable**
 
@@ -175,17 +154,18 @@ BD=Business Day, so for example BD4 means four business days after the month has
 - BD1: Ensure all accruals for Marketing, Legal, Hosting are collected.
 - BD2: **Payroll, Vendor and accruals booked.** Forecast Version open in Adaptive.
 - BD3: Finance Business Partners: Review vendor accruals to check for accuracy.
-- BD4: **Revenue, AR Closed.**
+- BD4: **Revenue, AR Closed.** Start revenue, billings, collections variance analysis.
 - BD5: **Sales Comp Booked**, Variance reviews with EVPs for Marketing, R&D, G&A (without sales comp and allocations).
 - BD6: FP&A close AvF flux materially complete
 - BD7:
 - BD8: **Preliminary financials released**, Variance review with CRO.
 - BD9:
-- BD10: **Accounting Close** FP&A close AvF flux locked
-- BD11: Review accounting controller book and fluxes. Prepare for 10Q/10K drafting.
-- BD12: Variance Review Package ready for CFO.
-- BD13: Revenue/EBIT guidance updated.
-- BD14: Monthly rolling forecast locked.
+- BD10: **Accounting Close** FP&A close AvF flux locked. Gross margin variance analysis.
+- BD11: Workiva published with fluxes. Prepare for 10Q/10K drafting. BSCF variance analysis.
+- BD12: 
+- BD13: Variance Review Package ready for CFO.
+- BD14: Monthly rolling forecast locked. Revenue/EBIT guidance updated.
+- Day8: snapshot ARR, customer count, net retention (note this is captured on Day 8, not Business Day 8 
 
 #### Quarterly Close (Future assuming public company):
 
@@ -235,9 +215,9 @@ BD=Business Day, so for example BD4 means four business days after the month has
 
 ### Variance Meeting with CFO
 
-Each month after the financials have been published, GitLab reviews all aspects of the business including Corporate Metrics, Bookings, Revenue, Gross Margins, Expenses, Balance Sheet and Cash Flow. The goal of this review is to do a comprehensive review so that finance leadership has a pulse on the business and the financials.  
+Each month after the financials have been published, GitLab reviews all aspects of the business including Corporate Metrics, Bookings, Revenue, Gross Margins, Expenses, and Cash Flow. The goal of this review is to do a comprehensive review so that finance leadership has a pulse on the business and the financials. Based on insights from variance analysis, the FP&A team makes actionable recommendations to the CFO and eGroup to ensure continued performance to Plan/Target.
 
-The variance analysis will compare department budgets with actual results and examine any material differences between budgeted and actual costs. Additionally, the actuals for expenses will be compared to the quarterly rolling forecast. The expenses are reviewed at the divisional department level, allowing GitLab to measure progress in meeting its Plan (Q1-Q4) or rolling forecast (Q2-Q4). The team also evaluates the accuracy of forecasts, and operating model.
+The variance analysis will compare department budgets with actual results and examine any material differences between budgeted and actual costs. Additionally, the actuals for expenses will be compared to the quarterly rolling forecast. The expenses are reviewed at the divisional department level, allowing GitLab to measure progress in meeting its Plan (Q1-Q4) or rolling forecast (Q2-Q1). The team also evaluates the accuracy of forecasts, and operating model.
 
 #### Variance Analysis
 The study of differences between budgetary and expected cost. At GitLab, different measures of materiality thresholds are measured during the variance analysis process, including the Monthly Finance Planning Meeting. During the variance analysis processes the GitLab FP&A team analyzes and isolates any variance in question to the lowest level possible. The team reviews detailed items in order to identify the root cause of the variance. This could include transaction date, cost center, vendor, location, department or additional low level details.
@@ -273,14 +253,9 @@ Generally accepted accounting principles (GAAP) does not provide definitive guid
 
 We believe that Revenue & EBIT actuals that have a greater variance of  +/- 5% vs Plan or Forecast is considered material. 
 
-###### Logging Threshold Differences
-
-Coming soon...
-
-
 ### Variance Meeting with EVPs
 
-Additionally, each finance business partner will run a meeting with the VP of Finance and the EVP to review the past month. The information should be presented as timely as possible. Given the accounting close is 10 days, the team is asked to use pre-close numbers for the review to increase the speed of information. During the meeting, the Finance Business Partners will review GitLab results in addition to a detailed overview. Each division can expect to review the following during the monthly meetings:
+Each finance business partner will run a meeting with the VP of Finance and the EVP to review the past month. The information should be presented as timely as possible. Given the accounting close is 10 days, the team is asked to use pre-close numbers for the review to increase the speed of information. During the meeting, the Finance Business Partners will review GitLab results in addition to a detailed overview. Each division can expect to review the following during the monthly meetings:
 
 1. Company results
    -  Bookings IACV, TCV
