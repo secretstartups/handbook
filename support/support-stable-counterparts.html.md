@@ -57,6 +57,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 
 - A monthly communication cadence is recommended. Since your group might not have a lot of updates to share with Support every month, set a cadence that is appropriate for the situation.
 - Share announcements through the [SWIR](https://about.gitlab.com/handbook/support/#support-week-in-review) and in relevant Support Slack channels.
+    - Use the prefix `[SSC Update: Group_Name: GitLab(Major).(Minor).(Patch)]` for your updates in both SWIR and in relevant slack channels. Having consistency in this will help us measure the success and usefulness of this initiative.
 - Group related updates and announcements can be:
     - New features added in an upcoming release
     - Bug fixes in an upcoming release
@@ -64,6 +65,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
     - Major documentation changes
     - Discovered bugs and applicable workarounds
     - Any special processes or troubleshooting workflows that might pertain to the features in your group
+- If you have not had any updates to share in a long time, consider sending out a quick "Nothing major you have to watch out for with this release, all is well!" or "Here is an awesome new unfiltered video on this topic" etc.
 - Catalyze training materials and sessions as needed.
 - [Optional] Consider doing quarterly office hours to chat about your group and share your experiences as an SSC with newer team members.
 
