@@ -137,11 +137,10 @@ On the last day of each month, a DRI in the Infrastructure department will calcu
 
 Guidance for stage groups is:
 
-|**Monthly Spend**|**Action**|
-|-----------------|----------|
-| < 5 minutes     | Understand your spend - no further action required. |
-| > 5 > 20 minutes| Increase focus on performance and availability improvements. |
-| > 20 minutes    | Feature category is not performing at scale. Urgent action required.  |
+|**Monthly Spend** |**Action**|
+|------------------|----------|
+| < 10 minutes     | Understand your spend - no further action required. |
+| > 10 minutes     | Increase focus on performance and availability, reach out to XYZ for guidance. |
 
 # Current State and Future Intent
 
@@ -158,6 +157,7 @@ Notable items to be addressed in future iterations include:
 
 1. Definition, description, process, and collaboration on what is expected by teams in response to the depletion of an error budget. We're focusing on visibility now, but we need to decide together and in a detailed way how we respond to this in the future.
 1. De-coupling Error Budgets direct availability measurement. SLOs are meant to inform SLAs and we shouldn't aim to consistently exceed SLOs. However, for this to work they must not be the same value.
+1. We will create a more gradual scale and tighten the budgets as we start seeing budgets used more widely for prioritization decisions.
 
 [strategy]: /direction/#3-year-strategy
 [product strategy]: /direction/enablement/dotcom/
