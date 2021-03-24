@@ -74,6 +74,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Primary Use Case:** 
 * **Primary Persona:** 
 * **Language:** 
+* **Campaign Tag:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
 * [ ] [main salesforce program]()
 * [ ] [main marketo campaign]()
 * [ ] [asset copy draft]() - `doc to be added by Content Marketing`
@@ -146,6 +147,8 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Primary Use Case:** 
 * **Primary Persona:** 
 * **Language:** 
+* **Budget:** <!-- Match to Allocadia -->
+* **Campaign Tag:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
 * [ ] [main salesforce program]()
 * [ ] [main marketo campaign]()
 * [ ] [pathfactory track link]() - `link to PF track when created`
