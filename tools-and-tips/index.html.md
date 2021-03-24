@@ -522,6 +522,8 @@ Tip: The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is 
 1. During meetings, in the upper-right side of the window for a Google document, double-click on the picture (or first initial) of the person speaking to see where their cursor currently is in the document being discussed.
 1. To add additional rows to a numbered list in a Google Document, press `Return` to add additional spaces under the existing numbered list in the document, highlight those spaces, and click the numbered list icon in the formatting bar (or press `Command ⌘ + Shift + 7` on a Mac) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial.
 
+See also [Live Doc Meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) for more Google Doc tips.
+
 ### Google Analytics
 
 [Google Analytics (GA)](https://analytics.google.com/) is an essential tool for making data-driven decisions.
