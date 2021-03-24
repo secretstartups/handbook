@@ -18,7 +18,7 @@ description: "This page is an overview of the processes the hiring manager is re
 1. [Add Vacancy to the Hiring Plan](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-creation/#adding-vacancies-to-the-hiring-plan) 
 Determine the purpose of this role
 1. [Create or Review the Job Family](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-creation/#create-or-review-the-job-family) 
-1. [Work with the Recruting Manager/Lead to open the vacancy in Greenhouse](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-creation/#opening-vacancies-in-greenhouse)
+1. [Work with the Recruiting Manager/Lead to open the vacancy in Greenhouse](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-creation/#opening-vacancies-in-greenhouse)
 
 ### Step 2/HM: [Complete Kick-off](https://about.gitlab.com/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) 
 
