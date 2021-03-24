@@ -30,6 +30,14 @@ If the namespace isn't on the list, it means the user doesn't have owner level p
 
 Use the `Associate namespace` transactions issue type in ZD and set the ticket to Pending.
 
+## Troubleshooting 502 errors while provisioning the subscrpition 
+
+While handling the subscription provisioning requests, we might encounter a 502 error while impersonating the user on the customer portal, this occurs when an admin accidentally links their GitLab.com admin account with the customer portal account, due to which the customer portal tries to fetch all the groups that are accessible to the admin user on GitLab.com and eventually returns a 502 error. 
+
+- We can verify that by [retrieving the token information](https://docs.gitlab.com/ee/api/oauth2.html#retrieving-the-token-information)(grab the `access_token` from the customer portal and call the API endpoint to retrieve the `resource_owner_id` attribute, which should be the same as the  GitLab.com `userID`).
+
+To fix this, we should **completely unlink the GitLab.com account with the customer portal** account using the [unlink_customer console function](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#unlink_customer)
+
 ## Force Associate SaaS Subscription  
 
 While handing the subscription provisioning requests, we'll face some cases where it's not possible to associate the subscription by following the normal procedure(the workflow mentioned above) using the customer portal admin 
