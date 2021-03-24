@@ -112,6 +112,16 @@ GitLab handle: @cbuchanan
 
 Slack handle: @chrissie
 
+**[Ash Withers](https://gitlab.com/awithers)**
+
+Title: Sr. Content Marketing Manager
+
+Area of focus: GitOps
+
+GitLab handle: @awithers
+
+Slack handle: @ashwithers
+
 ### Recommended slack channels
 
 Anyone at GitLab can reach out to the content team by tagging `@contentteam` on Slack.
