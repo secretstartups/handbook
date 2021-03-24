@@ -132,9 +132,9 @@ The CEO's KRs are what we're measuring for the company for that quarter.
 
 ## KPIs
 
-While OKRs are [what's changing](/company/okrs/#okrs-are-what-is-different) every quarter, what we're focused on moving (improving, being more efficient, etc.), [KPIs](/handbook/ceo/kpis/) are how we're consistently measuring how we're doing as an organization.
-KPIs occur at multiple [layers](/handbook/ceo/kpis/#layers-of-kpis) and have [multiple parts](/handbook/ceo/kpis/#parts-of-a-kpi).
-The CEO maintains [an index of GitLab KPIs and links to where they are defined](/handbook/ceo/kpis/).
+While OKRs are [what's changing](/company/okrs/#okrs-are-what-is-different) every quarter, what we're focused on moving (improving, being more efficient, etc.), [KPIs](/company/kpis/) are how we're consistently measuring how we're doing as an organization.
+KPIs occur at multiple [layers](/company/kpis/#layers-of-kpis) and have [multiple parts](/company/kpis/#parts-of-a-kpi).
+The CEO maintains [an index of GitLab KPIs and links to where they are defined](/company/kpis/).
 There is a process for [updating the list](/handbook/business-ops/data-team/kpi-index/#updating-an-existing-kpi) by adding, removing, or changing a KPI.
 
 
@@ -168,11 +168,11 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 
 ## E-Group Offsite
 
-The executives get together every quarter for the [e-group offsite](/handbook/ceo/offsite/).
-The CoS plays an important [role](/handbook/ceo/offsite/#roles).
-It's [3-days long](/handbook/ceo/offsite/#schedule) with an All-Directs the following day.
-[There is a book](/handbook/ceo/offsite/#book-choice).
-There are [recurring content discussions](/handbook/ceo/offsite/#recurring-discussion-topics).
+The executives get together every quarter for the [e-group offsite](/company/offsite/).
+The CoS plays an important [role](/company/offsite/#roles).
+It's [3-days long](/company/offsite/#schedule) with an All-Directs the following day.
+[There is a book](/company/offsite/#book-choice).
+There are [recurring content discussions](/company/offsite/#recurring-discussion-topics).
 Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gitlab-com/cos-team/-/issues/18).
 
 ## CEO Performance Evaluation
@@ -193,7 +193,7 @@ For example, if one area of focus is "set 3-year strategy", the CoS will evaluat
 
 ## Fiscal Year Kickoff
 
-The [Fiscall Year Kickoff](/handbook/ceo/gitlab-assembly/) is the only all-hands-style meeting at GitLab.
+The [Fiscall Year Kickoff](/company/gitlab-assembly/) is the only all-hands-style meeting at GitLab.
 The CoS is responsible for organizing it.
 
 ## Managing the All Directs
