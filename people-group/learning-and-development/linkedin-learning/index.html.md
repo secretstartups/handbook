@@ -155,7 +155,7 @@ If you have activated a LinkedIn Learning license, you will also be able to acce
 
 ## Sub Admins
 
-All of our [People Business Partners](/handbook/people-group/#people-business-partner-alignment-to-division) are set up as sub-admins over the groups they over see. 
+All of our [People Business Partners](/handbook/people-group/#people-business-partner-alignment-to-division) are set up as sub-admins for the groups they over see. 
 
 We recommend that all sub-admins take the [Getting Started as a LinkedIn Admin](https://www.linkedin.com/learning/getting-started-as-a-linkedin-learning-admin/). If you do not have time to take the full 1 hour course, here are the videos we recommend watching to learn how to recommend content to your groups and pull reports: 
 
