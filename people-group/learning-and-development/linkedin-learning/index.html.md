@@ -153,6 +153,20 @@ All GitLab Learn users will be able to access free content on LinkedIn Learning.
 
 If you have activated a LinkedIn Learning license, you will also be able to access the paid content on LinkedIn Learning. You can find LinkedIn Learning courses by going to GitLab Learn and utilizing the search bar at the top to search for a topic or skill. 
 
+## Sub Admins
+
+All of our [People Business Partners](/handbook/people-group/#people-business-partner-alignment-to-division) are set up as sub-admins for the groups they over see. 
+
+We recommend that all sub-admins take the [Getting Started as a LinkedIn Admin](https://www.linkedin.com/learning/getting-started-as-a-linkedin-learning-admin/). If you do not have time to take the full 1 hour course, here are the videos we recommend watching to learn how to recommend content to your groups and pull reports: 
+
+1. [Recommend Content](https://www.linkedin.com/learning/getting-started-as-a-linkedin-learning-admin/recommend-content-8370321?u=2255073) (5m)
+1. [Create and Share Collections](https://www.linkedin.com/learning/getting-started-as-a-linkedin-learning-admin/create-and-share-collections-8372286?u=2255073) (7m)
+1. [Create and Share Learning Paths](https://www.linkedin.com/learning/getting-started-as-a-linkedin-learning-admin/create-and-share-learning-paths-8373276?u=2255073) (5m)
+1. [Analytics and Reports](https://www.linkedin.com/learning/getting-started-as-a-linkedin-learning-admin/analytics-and-reports?u=2255073) (4m)
+1. [Skill Insights](https://www.linkedin.com/learning/getting-started-as-a-linkedin-learning-admin/skill-insights?u=2255073) (3m)
+
+If you would like to request access to be a sub-admin, please reach out to our team in the `#learninganddevelopment` Slack channel. 
+
 ## Coordination with EdCast
 
 ### Set Up 
