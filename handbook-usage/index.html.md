@@ -200,7 +200,7 @@ Any changes to the handbook as part of this review will be shared in the `#handb
 
 ## KPI
 
-The Engineering team and all sub-teams track Handbook Update Frequency as a [KPI](/handbook/ceo/kpis/#engineering-kpis), with varying targets per team. Currently, Engineering is the only Division tracking Handbook update frequency, so as to analyse and observe the effectiveness of this KPI.
+The Engineering team and all sub-teams track Handbook Update Frequency as a [KPI](/company/kpis/#engineering-kpis), with varying targets per team. Currently, Engineering is the only Division tracking Handbook update frequency, so as to analyse and observe the effectiveness of this KPI.
 
 ## Screenshot the handbook instead of creating a presentation
 
