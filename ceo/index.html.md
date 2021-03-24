@@ -164,7 +164,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ### Quarterly Meetings
 
-1. [E-Group Offsite](/handbook/ceo/offsite/) Monday-Thursday. After QBR's and before the Board of Directors meeting.
+1. [E-Group Offsite](/company/offsite/) Monday-Thursday. After QBR's and before the Board of Directors meeting.
 1. [GitLab Board of Directors Meeting](/handbook/board-meetings/). 3.5 hours via Zoom. Usually preceded by a dinner or followed by a lunch for those who wish to attend in-person in San Francisco.
 1. GitLab Board of Director Committee Meetings => [Audit Committee](/handbook/board-meetings/committees/audit/#audit-committee-charter), [Compensation and Leadership Development Committee](/handbook/board-meetings/committees/compensation/), and [Nominating and Corp Governance](/handbook/board-meetings/#nominating-and-corporate-governance-committee) Meeting. 50 minutes.
 1. [Skip Levels](/handbook/leadership/skip-levels/) with direct report's leadership team. 25 minutes.
