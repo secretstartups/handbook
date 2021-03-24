@@ -257,6 +257,9 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **ACTIVITY: Let's Install GitLab! (Material - Handbook - 60 minutes)**
    -Choose one of the installation options mentioned in the link below. Once installed populate with some test data. Be sure to include: Populate with some test data: User account, Project, Issue.
    -Review the [About GitLab Installation Page](https://about.gitlab.com/install/)
+*  **ACTIVITY: Let's Install A GitLab Runner! (Material - Handbook - 60 minutes)**
+   -Choose one of the installation options mentioned in the link below. Become familiar with the executors and different use-cases they solve.
+   -Review the [About GitLab Runner Page](https://docs.gitlab.com/runner/install/)
 *  **Kubernetes 101 (Material - 13 hours)**
    -It is essential that you understand the Kubernetes (k8s) fundamentals. Based on your existing Kubernetes experience you should either take the first course "Kubernetes for the Absolute Beginner" (6 hours) or "Learn DevOps: the Complete Kubernetes Course" (13 hours).
 *  **Resources (Optional Material)
@@ -268,7 +271,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 * **Category Overview**
    - GitLab's vision is to be the best single application for every part of the DevOps toolchain. However, some customers use tools other than our built-in features–and we respect those decisions. The Integrations category was created specifically to better serve those customers. Currently, GitLab offers [30+ project services](https://docs.gitlab.com/ee/user/project/integrations/project_services.html#project-services) that integrate with a variety of external systems. Integrations are a high priority for GitLab, and the Integrations category was established to develop and maintain these integrations with key 3rd party systems and services.
 * **Jira**
-   - GitLab Issues are a powerful tool for discussing ideas and planning and tracking work. However, many organizations have been using Jira for these purposes and have extensive data and business processes built into it. While you can always migrate content and process from Jira to GitLab Issues, you can also opt to continue using Jira and use it together with GitLab through our [integration.](https://docs.gitlab.com/ee/user/project/integrations/jira.html) For a video demonstration of integration with Jira, watch [GitLab workflow with Jira issues and Jenkins pipelines.](https://youtu.be/Jn-_fyra7xQ)
+   - GitLab Issues are a powerful tool for discussing ideas and planning and tracking work. However, many organizations have been using Jira for these purposes and have extensive data and business processes built into it. While you can always migrate content and process from Jira to GitLab Issues, you can also opt to continue using Jira and use it together with GitLab through our [integration.](https://docs.gitlab.com/ee/user/project/integrations/jira.html) For a video demonstration of integration with Jira, watch [GitLab workflow with Jira issues](https://youtu.be/fWvwkx5_00E)
 * **Jenkins**
    - GitLab’s [Jenkins integration](https://docs.gitlab.com/ee/integration/jenkins.html) allows you to trigger a Jenkins build when you push code to a repository, or when a merge request is created. Additionally, it shows the pipeline status on merge request widgets and on the project’s home page. Videos are also available on [GitLab workflow with Jira issues and Jenkins pipelines](https://youtu.be/Jn-_fyra7xQ) and [Migrating from Jenkins to GitLab.](https://youtu.be/RlEVGOpYF5Y)
 * **Github**
@@ -278,20 +281,28 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -Review this page to learn how to use [GitLab as an OAuth authentication service provider](https://docs.gitlab.com/ee/integration/oauth_provider.html)
 
 ### 14. SAs Only: Set Up Your Demo Environment
-*  **ACTIVITY: Obtain Gold Level Access to Enable All Features on GitLabg.com (Assignment - 15 minutes - 10 points)**
+*  **ACTIVITY: Obtain Gold Level Access to Enable All Features on GitLab.com (Assignment - 15 minutes - 10 points)**
    -An [example request](https://gitlab.com/gitlab-com/support/internal-requests/issues/310)
-*  **ACTIVITY: Create a demo account on GitLab.demo.i20.online (Assignment - 10 points)**
-   -Once you've created a login, contact your manager to be promoted to an Administrator. This will give you access to the Admin area of self-hosted installations, which is unavailable on GitLab.com.
-*  **ACTIVITY: Set Up Standby Demo Environment (Assignment - 30 minutes - 10 points)**
-   -Set up a standby demo environment as described in the Handbook. Request project access from project owners as needed. Make sure to add your demo project to the group you created above so all features are available.
-   -Review the [Handbook](/handbook/customer-success/solutions-architects/#demo-readiness)
-*  **ACTIVITY: Obtain a Kubernetes Cluster (Assignment - 10 minutes - 10 points)**
-   -Obtain a Kubernetes cluster for your demo deployments. Contact Joel Krooswyk (mention @jkrooswyk in this issue) to request a GKE cluster be created for your personal use in demos. Cluster allocation and usage instructions can be found in the below Google sheet. Feel free to contact other SA's or your manager if you need help connecting your GitLab demo project to your cluster.
-   -[Request access here](https://docs.google.com/spreadsheets/d/1UmAutBx76lb3gMZGJqtcgg9vowvk5d2KUUocPqQ__Xw/edit#gid=0)
+*  **ACTIVITY: Create a demo account on gitlabdemo.com (Assignment - 10 points)**
+   - Log in with your GitLab credentials using Okta. After login, a GitLab group will be created automatically and accessible on the [Demo Dashboard](https://gitlabdemo.com/dashboard). From there, this group can serve as a ground for future demo projects. For an oveview of our demo systems, please review the [Demo Systems Handbook page](/handbook/customer-success/demo-systems/).
+*  **ACTIVITY: Set Up Standby Demo Project (Assignment - 1 day - 10 points)**
+   - At any point in the day, you may be called in to do a quick demo and its helpful to have a standby project in your back pocket with commonly requested workflows.
+   - Pair up with a member of your team on creating a standby project. Bonus - Collaborate on storytelling ideas when creating the standby project.
+   - Create a project in a familiar framework and language. Add the following capabilities to the project:
+     - Containerize the application and push to the container registry
+     - Enable GitLab Kubernetes integration and [connect to the demo cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/)
+     - Add unit tests to the project and include [unit test reports](https://docs.gitlab.com/ee/ci/unit_test_reports.html)
+     - Add [static analysis](https://docs.gitlab.com/ee/user/application_security/sast/) to identify vulnerabilities in the codebase
+     - Add [dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) to identify vulnerabilities in the projects dependencies
+     - Add [multiple approvals rules](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html) and review gating mechanisms
+     - Enable [protected branches](https://docs.gitlab.com/ee/user/project/protected_branches.html)
+     - Create an [issue board with a workflow](https://docs.gitlab.com/ee/user/project/issue_board.html)
 *  **ACTIVITY: Deliver Your Demo (Assignment - 60 minutes - 10 points)**
    -Deliver a short demo of your choice in the SA Bootcamp Demo Scenarios below. Access to Jenkins and Jira and the associated GitLab.com project are available in the [SA Vault within 1Password](https://docs.google.com/document/d/1tIaZUU5YYyQtvQwZ2EOpeCoIK2TGDHbVfJv7jbAI0kk/edit)
    -Be sure to invite your manager and onboarding buddy.
    -Upload the below recorded scenarios to the below [Google Drive folder](https://drive.google.com/drive/folders/1EIN5iZnTWVUvWOsdCNkINIWOBfPGe4Bz)
+*  **OPTIONAL: Sign up for a Sandbox Cloud Environment**
+   - [Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/) is an automated provisioning platform for AWS or GCP environments. These environments are helpful for demo/sandbox/testing purposes and is paid for by GitLab.
 
 ### 15. TAMs Only: Customer Onboarding
 *  **Customer Onboarding (Material - Handbook and Video - 60 Minutes)**
