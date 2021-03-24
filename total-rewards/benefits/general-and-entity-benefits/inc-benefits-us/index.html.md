@@ -35,7 +35,7 @@ More information on the processed deductions in payroll from Lumity can be found
 
 GitLab offers plans from Cigna for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2021-01-01 to 2021-12-31.
 
-For additional information on how [Benefits](https://drive.google.com/file/d/0B4eFM43gu7VPVS1aOFdRdXRSVzZ5Z3B0dEVKUXJIWm1zZXRj/view?usp=sharing) or [HSAs](https://drive.google.com/file/d/0B4eFM43gu7VPbUo1VFNFVFlQNlUyV0xQZkE0YXQyZENSNU1j/view?usp=sharing) operate, please check out the documentation on the Google Drive or Lumity's [resources](https://employee-resources.lumity.com/help).
+For additional information on how Benefits or HSAs operate, please check out the documentation on the Google Drive or Lumity's [resources](https://employee-resources.lumity.com/help).
 
 _If you already have current group medical coverage, you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts._
 
