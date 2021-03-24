@@ -110,7 +110,7 @@ gantt
 
 ## Day
 
-- [Group conversation](/handbook/people-group/group-conversations/)
+- [Group conversation](/handbook/group-conversations/)
 - [Company call](/handbook/communication/#company-call)
 - [Breakout call](/handbook/communication/#breakout-call)
 
