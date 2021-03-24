@@ -43,5 +43,6 @@ The Shadow program is currently scheduled over a 2 - 3 week period.
 
 - Catarina Ferreira - participated in June / July 2020
 - Kike Adio - participated in June / July 2020
+- Evan Mathis - participated in March 2021
 
 Any new shadowers are encouraged to connect with previous participants in the program for insights and guidance. 
