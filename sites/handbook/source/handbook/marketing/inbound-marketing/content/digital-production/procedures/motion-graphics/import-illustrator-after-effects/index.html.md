@@ -12,7 +12,7 @@ The following is an overview of how to prepare an Illustrator file for import in
 ## Video Explanation
 
 <figure class="video_container">
-    </iframe src="https://www.youtube.com/embed/9IippiMo0-8" frameborder="0" allowfullscreen="true"> </iframe>
+    <iframe src="https://www.youtube.com/embed/9IippiMo0-8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ## Checklist
