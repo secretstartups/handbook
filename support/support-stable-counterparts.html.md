@@ -79,7 +79,8 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 ### Be available to support and mentor newly onboarded SSCs
 
 - Being an SSC is a different experience based on group. However, you will have certain tried and tested best practices that will help newly onboarded SSCs. Consider sharing them with the other SSCs in the team.
-     - Use the `@gitlab-com/support/support-stable-counterparts` GitLab group, and the `@support-stable-counterparts` Slack user group to share best practices with other SSCs, and to gather input and feedback on process changes, improvements and other discussions.
+     - Use the `@gitlab-com/support/support-stable-counterparts` GitLab group, and `#support-stable-counterparts` Slack channel to share best practices with other SSCs, and to gather input and feedback on process changes, improvements and other discussions.
+        - This Slack channel has both Slackbot's reminder app and Geekbot enabled to encourage channel participants to share periodic updates.
 - Iterate on this page and other templates used in this initiative based on what works and what doesn't in the real world. Support Engineers looking to become SSCs will benefit from these.
 
 ### Raise concerns with your manager if unable to set aside required time to be an SSC
