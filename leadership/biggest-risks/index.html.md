@@ -337,7 +337,7 @@ While this could be reflected in [loss of velocity](#loss-of-velocity), innovati
 In addition to [keeping our hiring bar high](#lowering-the-hiring-bar), we have the benefit of our community to help bring new insights and use cases creating issues.
 We can keep this momentum by continuing to value and engage with our community.
 We have [Merge Request Coaches](/job-families/expert/merge-request-coach/) who help contributors to get their merge requests to meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
-and [wider community contributions per release](/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/handbook/ceo/kpis/#gitlab-kpis).
+and [wider community contributions per release](/handbook/marketing/performance-indicators/#wider-community-merged-mrs-per-release) is [a GitLab KPI](/company/kpis/#gitlab-kpis).
 
 ## 19. More layers of middle management creating problems
 
