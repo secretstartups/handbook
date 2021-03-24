@@ -19,7 +19,8 @@ GitLab offers an Employee Assistance Program to all team members via [Modern Hea
 
 Modern Health is the one-stop shop for all tools related to mental well-being and self-improvement. Members gain access to the following features:
 * **Personalized Plan:** Take a well-being assessment and review which tools may be most helpful for you.
-* **Professional Support** Get matched to a dedicated professional who can help you reach your personal and professional goals. As a GitLab team member, your first 10 sessions are complimentary. If you need more than 10 sessions please reach out to the Total Rewards team at `total-rewards@domain` to review adding additional sessions. 
+* **Professional Support**: Get matched to a dedicated professional who can help you reach your personal and professional goals. As a GitLab team member, your first 10 sessions are complimentary. If you need more than 10 sessions please reach out to the Total Rewards team at `total-rewards@domain` to review adding additional sessions. 
+* **Therapy**: As of `2021-03-18`, GitLab plans to add therapy to the Employee Assistance Plan through Modern Health, with six sessions per calendar year included. More details will be added soon. In the meantime, please direct questions to the Total Rewards team in the `#total-rewards` Slack channel.
 * **Curated Content Library:** Learn quick tips and tricks to prevent burnout, manage stress, and cope with anxiety or depression based on our evidence-based digital programs. You can use these digital programs for in-the-moment support or to build your own toolkit of techniques to improve your mental well-being.
 
 If you’re still not sure where to get started, we recommend that you:
@@ -138,6 +139,7 @@ Hypertext Transfer Protocol Secure (HTTPS) encryption measures for all data exch
 
 **What do I do in a crisis?**
 If you are experiencing a crisis (e.g., thoughts about suicide, thoughts about harming yourself or others, medical crisis, or in a dangerous situation) please call:
+
 * emergency responders (911 or the [appropriate local emergency number for your area](https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers))
 * in the US/Canada, https://suicidepreventionlifeline.org/ or 1-800-273-8255) or [a crisis line in your area](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
 * head to the nearest emergency room.
