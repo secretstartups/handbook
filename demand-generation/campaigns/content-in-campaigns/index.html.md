@@ -28,11 +28,11 @@ The epic code in each section below outlines the necessary issues to open in ord
 ### Types of content in campaigns
 {: #content-types .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-* Gated Content: We have the piece of content offered on our website via landing page.
-    * [Internal GitLab-created content](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#internal-content-created-by-the-gitlab-team): We created the content in house
-    * [Analyst Content](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#analyst-content-delivered-by-analysts): We have bought the rights to use the content from an analyst such as Gartner, Forrester, etc.
+* **Content for use in marketing campaigns:** we leverage the content in our marketing channels (website, email nurture, paid digital, organic social, etc.)
+    * [Internal GitLab-created content](): We created and developed the content in house
+    * [External content (i.e. Analyst Relations)](): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
     * [On-Demand Webcasts](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/)
-* [Content Syndication](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication): We have promoted our content through a third-party, but do not direct back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
+* **[Content syndication](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication)** (see digital marketing): We have promoted our content through a third-party vendor, but do not direct back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
 
 ## Ungated Content Journeys
 {: #ungated-content-journeys .gitlab-purple}
@@ -77,7 +77,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [main salesforce program]()
 * [ ] [main marketo campaign]()
 * [ ] [asset copy draft]() - `doc to be added by Content Marketing`
-* [ ] [pathfactory]() - `link to be added by content owner once in PF`
+* [ ] [pathfactory track link]() - `link to PF track when created`
 
 
 ### :books:  Issues to Create
@@ -148,9 +148,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Language:** 
 * [ ] [main salesforce program]()
 * [ ] [main marketo campaign]()
-* [ ] [asset copy draft]() - `doc to be added by Content Marketing`
-* [ ] [pathfactory]() - `link to be added by content owner once in PF`
-
+* [ ] [pathfactory track link]() - `link to PF track when created`
 
 ### :books:  Issues to Create
 
@@ -158,11 +156,8 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 **Required Issues:**
 * [ ] :calendar: Not an issue, but an action item for content owner: Add to [SSoT Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)
-* [ ] [Asset Copy Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=content-resource-request) - Content
-* [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
-* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content
+* [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content Owner
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
-* [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
 <details>
@@ -193,9 +188,9 @@ As a guide in developing timeline, please view the workback timeline calculator 
    - `Note to Self @jgragnola: is it necessary to add to program? or could we use whatever would have triggered them in as a filter to hold them back from emails? Is there merit to this? Second way of testing tracking? Historical knowledge in case we ever move off of PF?`
 
 
-* **[Handbook instructions for uploading to Pathfactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#how-to-upload-content) 
+* **[Handbook instructions for uploading to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/content-library/#before-uploading-content) 
 * Notes/reminders for ungated journey:
-   * Form strategy is required for all content (located in PathFactory track issue)
+   * Form strategy is required for all content tracks used in demand generation campaigns (located in PathFactory track issue)
    * The content owner must provide 1-3 related assets for the track or request Product Marketing to recommend content.
    * [Process for adding to /resource page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#add-to-resources-page) remains the same, but in ungated journey, the URL drives to the PF asset/track (not a landing page)
    * PathFactory URL/UTM [details](/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links)
