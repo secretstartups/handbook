@@ -328,8 +328,6 @@ We understand that our customers have non-developer use cases. Please [contact o
 1. Partial vs. full refill: We do a full refill since it is simpler to communicate, understand, bill, and administer. CircleCI does a partial refill for 25% of your normal credits.
 1. How much free? We should probably do 5x less than the lowest tier since we have 5x between the paid tiers. GitHub followed our pricing so that isn't a good source of comparison. CircleCI does 250 minutes on the free plan.
 1. Accumulative vs. non-cumulative:
-The pros with the accumulative approach are:
-The pros with the non-cumulative approach are:
 We currently think the pros with the non-cumulative approach outweigh the pros with the cumulative approach.
     1. It seems that per namespace is easier to communicate.
     1. Customers don't need to do calculations on the total minutes and storage they are getting when signing on contracts, renewals, adding users, etc. as long as they stay under the total it is a predictable bill.
