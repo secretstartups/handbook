@@ -182,9 +182,37 @@ Is our single source of truth (SSoT) for processes and relevant links
 {: #project-management .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+### Labels
+{: #labels .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+#### Prioritization labels
+{: #prioritization-labels}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+- `DG-Priority::Top`: Immediate action needed, aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
+- `DG-Priority::High`: Not requiring immediate action, but aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. Timeframe: Within weeks.
+- `DG-Priority::Med`: Requests submitted that align to OKRs, GTM motions/sales plays, or segment/region plans. Process improvements to fix broken processes, or improve campaign team efficiency. Timeframe: Within months.
+- `DG-Priority::Low`: Requests submitted that would be helpful, but can be pushed for higher priority issues. Nice-to-have improvements for campaign team processes. Timeframe: No specific timeline.
+
+#### Status labels
+{: #intake-labels}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+- **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
+- **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
+    - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
+    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#slas)
+- **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
+- **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
+    - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
+
+
 ### Turnaround Time and SLAs
 {: #slas}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+**NOTE: this section will be retired (and communicated). Prioritization of activities aligned to demand generation goals, and consideration against current and planned milestones and projects, will take precedence over a time-based requirement to complete work. The [Marketing Campaign Manager role](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/) requires focus on top-funnel lead generation, and new issues will be reviewed against workload and prioritized accordingly.**
 
 ⏱ **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue.**
 - Tip: Submit issues with full "Submitter Details" complete
@@ -274,17 +302,6 @@ Issues will be triaged as demonstrated in the diagram below. Please note: All re
 
 <div style="width: 600px;" class="embed-thumb"> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1598468466093-5f46b1720e54f644475491fc-61c7931a-18e2-4a73-90dd-eafcb724b939.png?v=27e40478-1cf5-43f3-8970-f6d66232a7d1) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1598468466093/3fecfe10c92a0e8b26403fe8e44305c6049185e4" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> You will enter this mural in View Only mode. </p></div>
 
-#### Intake process labels
-{: #intake-labels}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-- **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
-- **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
-    - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
-    - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#slas)
-- **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
-- **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
-    - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
 
 #### Intake process daily/weekly steps
 {: #intake-steps}
