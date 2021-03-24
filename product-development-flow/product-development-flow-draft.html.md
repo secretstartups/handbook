@@ -97,7 +97,7 @@ For new ideas where the customer problem and solution isn't well understood, Pro
 
 ✅ **Minimize** risks to value, usability, feasibility, and business viability with qualitative and quantitative analysis.
 
-**Outcome:** We have confidence that a proposed solution will positively impact one or more [Product KPIs](/handbook/ceo/kpis/#product-kpis). There may be reason for exceptions, so the team would need to be clear in that case, and be able to justify that it's still important without mapping back to our KPIs.
+**Outcome:** We have confidence that a proposed solution will positively impact one or more [Product KPIs](/company/kpis/#product-kpis). There may be reason for exceptions, so the team would need to be clear in that case, and be able to justify that it's still important without mapping back to our KPIs.
 
 If we don't have confidence in the MVC or what success looks like, we should continue validation cycles before we move to the Build track.
 
@@ -263,7 +263,7 @@ The build track is where we plan, develop, and deliver value to our users by bui
 
 ✅ **Iterate** until success metrics are achieved and the product experience is optimal.
 
-**Outcome:** Deliver performant MVCs that improve one or more of our [Product KPIs](/handbook/ceo/kpis/#product-kpis) and/or [Engineering KPIs](/handbook/ceo/kpis/#engineering-kpis). If it fails to do so, honor our Efficiency value (that includes a low level of shame), abandon it, and restart the validation cycle to identify the right solution.
+**Outcome:** Deliver performant MVCs that improve one or more of our [Product KPIs](/company/kpis/#product-kpis) and/or [Engineering KPIs](/company/kpis/#engineering-kpis). If it fails to do so, honor our Efficiency value (that includes a low level of shame), abandon it, and restart the validation cycle to identify the right solution.
 
 ### Build phase 1: Plan
 
