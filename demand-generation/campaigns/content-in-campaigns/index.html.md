@@ -131,14 +131,14 @@ All external content should be planned in advance of purchase with `at least a 3
 As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
 ```
-<!-- NAME EPIC: [type] <Name of Asset> (ex. [eBook] A beginner's guide to GitOps) -->
+<!-- NAME EPIC: [type] <Name of Asset> (ex. [Guide] Gartner MQ for ARO) -->
 
 ## Launch date: `to be added`
 
 ## [Live landing page link]() - `to be added when live`
 
 #### :key: Key Details
-* **Analyst Relations DRI:**  
+* **External Content (i.e. AR) DRI:**  
 * **Official Content Name:** 
 * **Official Content Type:** 
 * **Primary GTM Motion:** `CI/CD` `DevOps Platform` OR `GitOps`
@@ -173,6 +173,8 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 
 </details>
+
+/confidential
 
 /label ~"Analyst Relations" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
 ```
@@ -223,8 +225,6 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 ```
 <!-- NAME EPIC: *[type] Name of Asset* (ex. [eBook] A beginner's guide to GitOps) -->
-<!-- START DATE = date epic opened, DUE DATE = launch date -->
-<!-- DELETE THIS LINE AND ABOVE ONCE EPIC EDITED -->
 
 ## Launch date: 
 
