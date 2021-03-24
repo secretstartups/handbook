@@ -22,7 +22,6 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 - [GitLab BV (Belgium)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium)
 - [Global Upside (India, Philippines, Kenya, Chile, Costa Rica and Denmark)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
 - [GitLab Inc (US)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us)
-- [GitLab Inc (China)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-china)
 - [GitLab LTD (UK)](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk)
 - [GitLab GmbH (Germany)](/handbook/total-rewards/benefits/general-and-entity-benefits/gmbh-benefits-germany)
 - [GitLab PTY (Australia & New Zealand)](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia)
