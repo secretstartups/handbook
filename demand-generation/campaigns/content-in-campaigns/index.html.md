@@ -29,10 +29,10 @@ The epic code in each section below outlines the necessary issues to open in ord
 {: #content-types .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * **Content for use in marketing campaigns:** we leverage the content in our marketing channels (website, email nurture, paid digital, organic social, etc.)
-    * [Internal GitLab-created content](): We created and developed the content in house
-    * [External content (i.e. Analyst Relations)](): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
+    * [Internal GitLab-created content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#ungated-internal-content): We created and developed the content in house
+    * [External content (i.e. Analyst Relations)](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#ungated-external-content): We have bought the rights to use the content from an external vendor (analysts or publishers, for example) or received the content from a partner
     * [On-Demand Webcasts](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/)
-* **[Content syndication](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication)** (see digital marketing): We have promoted our content through a third-party vendor, but do not direct back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
+* **[Content syndication](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication)** (under Digital Marketing): We have promoted our content through a third-party vendor, but do not drive people back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
 
 ## Ungated Content Journeys
 {: #ungated-content-journeys .gitlab-purple}
@@ -178,7 +178,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 {: #process-ungated-content-journeys}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* [Add content to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/#how-to-upload-content) - Content Owner 
+* [Add content to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/content-library/#before-uploading-content) - Content Owner 
 * [Create track in Pathfactory](/handbook/marketing/marketing-operations/pathfactory/#create-a-content-track) - Content Owner
    - If part of Prescriptive Buyer Journey - [more streamlined process](/handbook/marketing/marketing-operations/pathfactory/#pbj-content-tracks) - Content Owner / Campaign Owner `@jgragnola to consider this step... should it be campaigns, or can content owner help with this?`
 * [Add form strategy to track in Pathfactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#form-strategy) - Campaign Manager
