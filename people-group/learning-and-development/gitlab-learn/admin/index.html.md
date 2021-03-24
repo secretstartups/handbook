@@ -638,7 +638,7 @@ The following private videos can be viewed by team members using the GitLab Unfi
 
 1. [How L&D uses custom dashboards and reports in GitLab Learn](https://youtu.be/xQwhmX_hRYg)
 1. [How to create a custom report using EdGraph](https://youtu.be/ofqAjoUkJuM)
-1. [Monthly L&D reports - course completions by month and all time for team members](https://youtu.be/Smn37gRJQTs)
+1. [Monthly L&D reports](https://youtu.be/vS0XuxkAH_E) - this training walks through how our [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) is used to fill in monthly data in our [FY22 GC Metrics sheet](https://docs.google.com/spreadsheets/d/1NxY5VWJlsQsOWmQrNAGPr7IIJ2Sa8qixXY7Et0cj45k/edit#gid=0)
 
 
 ## Moderation
