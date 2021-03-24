@@ -28,7 +28,7 @@ Interviewers will submit feedback via the designated scorecard in Greenhouse. Th
 
 You can review [sample interview questions for the interview team](https://docs.google.com/document/d/1Eb7GUUH0b9wzf1WxuyKUYhpjP774VbO5sQWtiDZX-PM/edit) based around specific focus areas.
 
-As a best practice the Hiring Manger should reach out to each individual on the interview plan.
+As a best practice the Hiring Manager should reach out to each individual on the interview plan.
 
 **Example Reachout**
 
@@ -71,7 +71,7 @@ In Greenhouse: Configure (the gear on the top right) - Email Templates - My Temp
 After creating the email template you can send to the references. Because there is not a bcc option you should send individual emails to each reference. From the Candidate's profile: Tools (bottom right on the page view) - Email the Team - Choose a template (drop-down) - (select the name of the template you created) - **Uncheck "Add a link to the candidate's profile"** - Send Email.
 
 
-#### Why Should Hiring Managers Check References
+#### Why Hiring Managers Should Check References
 
 We recorded a training on this subject here:
 
