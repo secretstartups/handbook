@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Biggest risks"
+description: "On this page, we document the biggest risks and how we intend to mitigate them."
 ---
 
 ## On this page
@@ -436,5 +437,5 @@ We mitigate functional silos by encouraging cross-functional communication and r
 * Being [public by default](/handbook/values/#transparency), enabling all functions to have simultaneous visibility into [OKRs](/company/okrs/), [direction](/direction/), issues, and milestones within the [handbook](/handbook/).
 * [Coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), including letting [Donut](/company/culture/all-remote/informal-communication/#the-donut-bot) help intro you to team members
 * [Social Call](/handbook/communication/#social-call) (formerly Company / Take a Break Call)
-* Getting together in-person every 9 months for our [Contribute](/company/culture/contribute/)
-* [Contribute](/company/culture/contribute/) is multi-function; we try to do every in-person event as a multi-function event. An exception would be [Sales Kick Off](/handbook/sales/training/SKO/) (SKO). SKO is an anti-pattern, though some cross-functional groups are invited to SKO that support sales (product, legal and marketing, for example).
+* Getting together in-person every 9 months for our [Contribute](/events/gitlab-contribute/)
+* [Contribute](/events/gitlab-contribute/) is multi-function; we try to do every in-person event as a multi-function event. An exception would be [Sales Kick Off](/handbook/sales/training/SKO/) (SKO). SKO is an anti-pattern, though some cross-functional groups are invited to SKO that support sales (product, legal and marketing, for example).
