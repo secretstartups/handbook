@@ -101,9 +101,9 @@ You can expect these communications/notifications (either through GitLab or in a
 
 - You will be provided with specific templates to help you input relevant information
 - Those issues will be vetted at the beginning of each week. The issue will either be:
-    - Moved into `mktg-status::WIP` or;
+    - Moved into `mktg-status::plan` or;
     - A comment will be added for what additional information is needed
-- The issues moved to `mktg-status::WIP` are then put into a sprint and assigned to a week sprint based on priorities, resources, weights and assignment loads
+- Once an issue is picked up by the relevant team, put into a sprint (based on priorities, resources, weights and assignment loads), assigned to a team member the status label will be set to 'mktg-status::wip' 
 - The `Assignee` will comment that they have received your Issue and when you can expect more information (ex: "On it. Will respond within the week on timeline")
 - If needed, the Issue Brief will be broken into a Project Epic with relevant issues and those issues reassigned to the relevant DRIs as `Assignee(s)`
 - A timeline will be provided in that Project Epic or individual issue and the due date will be adjusted accordingly.
@@ -182,7 +182,7 @@ Overarching Inbound Marketing Boards
 
 - **GOAL:** Weed out issues that superfluous or don’t contain extra information
 - **ACTIONS:** Move to either
-    - Move to either `mktg-status:WIP` which puts into the Sprint cycle or;
+    - Move to either `mktg-status:PLAN` which puts into the Sprint cycle or;
     - [mktg-status: blocked] and comment why it is being blocked
 
 #### [Sprint Board](https://gitlab.com/groups/gitlab-com/-/boards/1761580?label_name%5B%5D=mktg-inbound&label_name%5B%5D=mktg-status%3A%3Awip)
@@ -344,7 +344,7 @@ This is how we work with Issues and their scope
 - For each type of request we have a corresponding **Request [Type] Issue Template** that should be filled out to begin the process.
     - [Requesting Support](/handbook/marketing/inbound-marketing/#requesting-support)
 - Actions taken on issue:
-    - Reviewed for all information and label changed to `mktg-status::WIP` if all there or `mktg-status::blocked` if not all info is there
+    - Reviewed for all information and label changed to `mktg-status::PLAN` if all there or `mktg-status::blocked` if not all info is there
     - Assigned to a team member to execute on
     - Assigned to a Sprint week to be worked on (worked on= broken down into Production Issues)
     - Issue is added to a child Epic and execution issues are made for creating
@@ -357,7 +357,7 @@ This is how we work with Issues and their scope
 - Execution Items/Production Checklists for the Inbound Marketing Teams.
 - For each type of request we have a corresponding **Request [Type] Issue Template** that should be filled out to begin the process.
 - Actions taken on issue:
-    - Reviewed for all information and label changed to `mktg-status::WIP` if all there or `mktg-status::blocked` if not all info is there
+    - Reviewed for all information and label changed to `mktg-status::PLAN` if all there or `mktg-status::blocked` if not all info is there
     - Assigned to a team member to execute on
     - Assigned to a Sprint week to be worked on (worked on = deliverables created)
     - Assignee will follow the production checklist and deliver work within the original Issue
