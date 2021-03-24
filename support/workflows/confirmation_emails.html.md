@@ -16,14 +16,28 @@ description: "Workflow for cases when a customer reports they are not receiving 
 
 This workflow covers cases when a user says they are not receiving their confirmation email.
 
+### Triage the ticket with the correct problem type
+
+Make sure that the ticket is correctly triaged with the `Did not receive confirmation email` problem type, so that
+the [SaaS Account Ticket Helper](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#saas-account-ticket-helper) can activate.
+
+If the user has already correctly chosen the problem type, the automation will activate when an agent opens the ticket for the first time.
+
+### Check GitLab User Lookup App
+
+1. Click the `Apps` button located in the top right of the Zendesk interface.
+1. Scroll down to the `GitLab User Lookup` app.
+1. Check if the app found any account associated with the username/email provided by the user.
+    - No account? Use the Zendesk macro [`Support::SaaS::Account does not exist`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+91699288) or if you believe it's applicable use [`General::Verify self-managed or .com`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360024300939).
+1. If the app returns a result for the username lookup, but no result for the email lookup, go to their provided Admin Link and check what email
+   address the user has on their account. Continue on to Step 2 under [Check GitLab Admin](#check-gitlab-admin)
+
 ### Check GitLab Admin
 
 1. In the GitLab.com Admin Area, [search for the user](https://gitlab.com/admin/users) by username or email address to confirm the account has been created. Alternatively, search in your browser [using the API](https://gitlab.com/api/v4/users?search=email@email.test).
-    - No account? Use the Zendesk macro `GitLab.com::Account does not exist` or if you believe it's applicable use `General::Verify self-managed or .com`.
-
 1. Check the email address against what the user has reported.
     - Did they make a typo when registering? See [Fix Email Address](#fix-email-address).
-    - Otherwise see [Check Mailgun](#check-mailgun).
+    - Otherwise see [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk).
 
 #### Fix Email Address
 
@@ -33,27 +47,7 @@ If the user made a typo:
 1. When viewing the user in the admin area, click `Edit`.
 1. Fix the email address to the correct one and save your changes.
 
-### Check Mailgun
-
-On the first attempt, if our email system could not get through (usually server says it's non-existent or similar), then our mail server will put a suppression on sending further emails.
-
-1. Log in to [Mailgun](https://app.mailgun.com/app/dashboard) using the `supporteam` credentials in the Support Team vault in 1Password.
-1. Click on `Sending` along the left-hand side navigation bar.
-1. Click on `Logs`.
-1. Ensure that `mg.gitlab.com` is set as the domain above the activity graph.
-1. Enter the email address to be checked into the search bar, search, and then scan the results to see if mail is being delivered to that address.
-    - If email is delayed, respond to the user and ask them to wait.
-    - If email is bouncing due to a suppression (evidenced by the message `Not delivering to previously bounced address` in the log) proceed to [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun) or [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk)
-
-#### Removing a Suppression in Mailgun
-
-1. Click on `Suppressions` along the left-hand side navigation bar.
-1. Wait a moment for results to load before searching.
-1. Ensure that `mg.gitlab.com` is set as the domain at the top of the page.
-1. Enter the email address to be checked into the `Search for recipients` search bar and perform a search.
-1. Click the `Delete` button next to an entry and then confirm your selection to remove the suppression.
-
-#### Removing a Suppression in Zendesk
+### Removing a Suppression in Zendesk
 
 1. Click the `Apps` button located in the top right of the Zendesk interface.
 1. Scroll down to the `SaaS Account Ticket Helper` app located below the tag locker app.
@@ -63,6 +57,31 @@ On the first attempt, if our email system could not get through (usually server 
 1. Click the `Remove the suppression?` button.
 
 Once the suppression is removed you can then use the quick links menu that is displayed to either resend a new confirmation email, send a password reset email, or perform another search.
+
+### Check Mailgun
+
+On the first attempt, if our email system could not get through (usually server says it's non-existent or similar), then our mail server will put a suppression on sending further emails.
+
+This is useful to check if emails have been delivered successfully from our end, which could mean that the error is with the users' email provider.
+
+1. Log in to [Mailgun](https://app.mailgun.com/app/dashboard) using the `supporteam` credentials in the Support Team vault in 1Password.
+1. Click on `Sending` along the left-hand side navigation bar.
+1. Click on `Logs`.
+1. Ensure that `mg.gitlab.com` is set as the domain above the activity graph.
+1. Enter the email address to be checked into the search bar, search, and then scan the results to see if mail is being delivered to that address.
+    - If email is delayed, respond to the user and ask them to wait.
+    - If email is bouncing due to a suppression (evidenced by the message `Not delivering to previously bounced address` in the log) proceed to [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk) or [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun).
+
+#### Removing a Suppression in Mailgun
+
+If the `SaaS Account Ticket Helper` doesn't work for any reason, we can remove suppressions in Mailgun directly:
+
+1. Click on `Suppressions` along the left-hand side navigation bar.
+1. Wait a moment for results to load before searching.
+1. Ensure that `mg.gitlab.com` is set as the domain at the top of the page.
+1. Enter the email address to be checked into the `Search for recipients` search bar and perform a search.
+1. Click the `Delete` button next to an entry and then confirm your selection to remove the suppression.
+
 
 #### Identifying Multiple Suppressions on a Single Domain
 
