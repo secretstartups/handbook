@@ -64,11 +64,11 @@ If you want to associate emails to Opportunities using Outreach, follow these st
 1. On the bottom right, enable 'Automatically associate activity with Opportunity'
 1. Click the 'Save' button on the top right.
 
-### Salesforce Lightning for Gmail
+### Salesforce Plugin for Gmail
 
-If you want to associate emails to Opportunities or other records using the Salesforce Lightning for Gmail plug in, follow these steps:
+If you want to associate emails to Opportunities or other records using the Salesforce Plugin for Gmail plug in, follow these steps:
 
-1. Visit the Chrome Store to download the [Salesforce Lightning for Gmail](https://chrome.google.com/webstore/detail/salesforce-lightning-for/jjghhkepijgakdammjldcbnjehfkfmha) plug in.
+1. Visit the Chrome Store to download the [Salesforce Plugin for Gmail](https://chrome.google.com/webstore/detail/salesforce-lightning-for/jjghhkepijgakdammjldcbnjehfkfmha) plug in.
 1. Click `Add to Chrome`
 2. Click `Add Extension`
 2. Go to Gmail and open the right sidebar.
