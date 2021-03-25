@@ -92,6 +92,10 @@ The L&D team hosts and organizes [learning initiatives](/handbook/people-group/l
 
 We provide our team members with certifications to demonstrate their knowledge of specific topics. We have [outlined](/handbook/people-group/learning-and-development/certifications/) our current certifications as well as planned and upcoming certifications for the year.
 
+### Growth & Development
+
+Team members can take advantage of up to $10,000 USD per calendar year for [Growth & Development opportunities](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/). This amount can be used for professional development, certifications, workshops, coaching, and much more!
+
 ### Career Development
 
 Everyone's career development is different, but we have [outlined](/handbook/people-group/learning-and-development/career-development/) what it can look like at GitLab. Career development also includes our [GitLab coaching framework](/handbook/leadership/coaching/) to support managers in holding coaching discussions with their team. 
