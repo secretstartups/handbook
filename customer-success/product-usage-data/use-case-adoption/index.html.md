@@ -14,8 +14,6 @@ To drive use case enablement and expansion with customers, we need to define exa
 | UMAU / Licenses Sold        | <30%    | 30-50%     | \>=50%   |
 
 
-
-
 ## Source Code Management (SCM)
 
 SCM is considered one of the initial land use cases. To that end, we want to ensure the customer is using it appropriately.
@@ -27,21 +25,18 @@ SCM is considered one of the initial land use cases. To that end, we want to ens
 
 
 
-
 ## Continuous Integration (CI)
 
 CI is considered both an initial purchase reason or, in the case of SCM, an expansionary use case (one after the initial purchase intent has been solved).
 
-|                       | **Red** | **Yellow** | **Green* |
-| --------------------- | ------- | ---------- | -------- |
-| SMAU Create / UMAU    | <50%    | 50-75%     | \>=75%   |
-| Merge Requests / UMAU | <40%    | 40-60%     | \>=60%   |
+|                    | **Red** | **Yellow** | **Green* |
+| ------------------ | ------- | ---------- | -------- |
+| SMAU Verify / UMAU | <40%    | 40-60%     | \>=60%   |
 
 
 ## DevSecOps
 
 For customers on Ultimate, we want to measure their effectiveness and usage with Ultimate-level functionality.
-
 
 |                             |                         | **Red** | **Yellow** | **Green* |
 | --------------------------- | ----------------------- | ------- | ---------- | -------- |
