@@ -63,6 +63,7 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - ['Get in the Van' and Other Tips for Getting Meaningful Customer Feedback](https://review.firstround.com/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product)
+- [The Ultimate List of Customer Development Questions](https://mfishbein.com/the-ultimate-list-of-customer-development-questions/)
 
 ##### Deeper dive
 
@@ -76,6 +77,7 @@ Please contribute your favorite resources here
 
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
 - [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
+- [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 
 
 #### Jobs to be done 
