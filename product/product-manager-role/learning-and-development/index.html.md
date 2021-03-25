@@ -135,6 +135,7 @@ Please contribute your favorite resources here
 ##### Online courses 
 
 [Reforge](https://www.reforge.com/all-programs)
+
 ##### Books
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
@@ -147,6 +148,7 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
+- [Jess Eddy: What do designers really want from product managers?](https://uxdesign.cc/what-do-designers-really-want-from-product-managers-9c0e14993a8)
 
 ##### Deeper dive
 
