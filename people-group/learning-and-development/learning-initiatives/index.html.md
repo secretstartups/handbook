@@ -263,4 +263,5 @@ List of CEO Handbook Learning Sessions:
 1. [Giving and Receiving Feedback](https://www.youtube.com/watch?v=vL864Zg2sm4&t=731s)
 1. [Managing Underperformance](https://www.youtube.com/watch?v=-mLpytnQtlY&t=637s)
 1. [Transitioning from IC to Manager - Engineering](https://www.youtube.com/watch?v=Zeull-tdy6o) 
+1. [Manager Mention Merge Requests](https://www.youtube.com/watch?v=e1sTOtveNOk)
 
