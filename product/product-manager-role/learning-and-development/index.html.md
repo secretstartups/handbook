@@ -118,8 +118,8 @@ Please contribute your favorite resources here
 
 ##### Books 
 
-[Jake Knapp: Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
-[Ash Maurya: Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
+- [Jake Knapp: Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
+- [Ash Maurya: Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
 
 #### Growth and experimentation 
 
@@ -129,12 +129,12 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-[Product Led Growth Resources](https://openviewpartners.com/product-led-growth-resources/)
-[GrowthHackers: Growth University](https://university.growthhackers.com/)
+- [Product Led Growth Resources](https://openviewpartners.com/product-led-growth-resources/)
+- [GrowthHackers: Growth University](https://university.growthhackers.com/)
 
 ##### Online courses 
 
-[Reforge](https://www.reforge.com/all-programs)
+- [Reforge](https://www.reforge.com/all-programs)
 
 ##### Books
 
@@ -352,7 +352,7 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-* [Managing Project Stakeholders](https://www.linkedin.com/learning/managing-project-stakeholders-2?u=2255073) (LinkedIn Learning course)
+- [Managing Project Stakeholders](https://www.linkedin.com/learning/managing-project-stakeholders-2?u=2255073) (LinkedIn Learning course)
 
 ##### Books
 
