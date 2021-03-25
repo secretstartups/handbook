@@ -112,13 +112,15 @@ Please contribute your favorite resources here
 
 ##### Books 
 
-Please contribute your favorite resources here
+[Jake Knapp: Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
+[Ash Maurya: Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
 
 #### Growth and experimentation 
 
 ##### Quick reads and videos
 
 [Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
+
 ##### Deeper dive
 
 Please contribute your favorite resources here
@@ -130,6 +132,8 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
+- [Nir Eyal: Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
+- [Trusworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 - [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
 
 #### Design 
