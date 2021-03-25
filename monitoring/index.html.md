@@ -159,7 +159,8 @@ interface to this is through APIs, Kibana and the elastic.co web UI.  For
 monitoring system performance and metrics, Elastic's x-pack monitoring metrics are used. They are sent to a dedicated monitoring cluster. Long-term we intend to switch to Prometheus and Grafana as the preferred
 interface. As it is managed by Elastic they run the VMs and we do not have
 access to them. However, for investigating errors and incidents, raw logs are
-available via [Kibana](https://log.gprd.gitlab.net).
+available via [Kibana](https://log.gprd.gitlab.net). Logs are retained in Elasticsearch
+for 7 days.
 
 Staging logs are available via a separate [Kibana](https://nonprod-log.gitlab.net/) instance.
 
