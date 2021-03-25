@@ -29,7 +29,7 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
   <tr>
    <td style = "text-align: center">Available November 2020
    </td>
-   <td style = "text-align: center">Available Q4 FY22
+   <td style = "text-align: center">Coming in Q4 FY22
    </td>
    <td style = "text-align: center">Available April 2021
    </td>
@@ -188,58 +188,7 @@ The GitLab Channel team will communicate the award in email, and reflect the cer
 
       </td>
    </tr>
-   <tr>
-      <td>Open and Select GitLab Partners who design, build and operate a technical service practice can become MSPs if they (a) perpetually employ:
-
-
-
-<br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professionals</a> 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
-<br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Managed Services Engineers</a> 
-<br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Professional Service Engineer</a> 
-
-<br>in their technical services delivery organizations, (b) complete the GitLab MSP contract exhibit, and (c)  maintain positive Customer Success ratings measured against the following <a href="https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis">Time-to-Value KPIs</a> that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
-
-      </td>
-      <td>
-<br>
-<br>
-<br>
-<br><img src="/images/channel-service-program/gitlab-managed-services-partner.png" width="" alt="alt_text" title="">
-
-
-      </td>
-      <td style="text-align: center">
-
-
-
-<br>
-<br><img src="/images/channel-service-program/gitlab.png" width="" alt="alt_text" title="GitLab">
-<br>GitLab Software
-
-<br>    +
-
-
-
-
-
-<br><img src="/images/channel-service-program/software-development-lifecycle_original-manage-46px.png" width="" alt="alt_text" title="">
-<br>Managed Services
-
-      </td>
-      <td>
-      <br>
-      <br>
-      <br>Any or all of the following services can be provided by an MSP: 
-
-<br>*   Managed / Hosted services
-<br>*   Security / Compliance
-
-
- 
-
-   </td>
-  </tr>
+   
   <tr>
       <td>
 
