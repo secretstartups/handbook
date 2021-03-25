@@ -31,6 +31,10 @@ These books are highly recommended to be read by every product manager at GitLab
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
      - [Related live talk by author](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 
+These GitLab-specific items are also key for each product manager at GitLab: 
+
+- [Opportunity Canvas Reviews](https://youtu.be/ZXbwtLoxPjM)
+
 ### Discovery
 
 #### User Research
