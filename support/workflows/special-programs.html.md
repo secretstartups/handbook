@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Special Programs: EDU & OSS"
+title: "GitLab Special Programs: EDU, OSS and GitLab for Startups"
 category: License and subscription
-description: Redirecting EDU or OSS subscription inquiries.
+description: Redirecting EDU, OSS or Startups subscription inquiries.
 ---
 
 ## On this page
@@ -13,11 +13,21 @@ description: Redirecting EDU or OSS subscription inquiries.
 
 ##### Overview
 
-Use this workflow when there's a ticket for either the Education or Open Source program.
+We do not offer any non-profit discounts or programs, but users can apply for our special programs if they meet the requirements.
+
+Use the relevant workflow below when there's a ticket about [GitLab for Education](https://about.gitlab.com/solutions/education/), [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) or [GitLab for Startups](https://about.gitlab.com/solutions/startups/).
+
+Note that our special programs do not include support, but support can be purchased additionally for the Open Source and Startups programs. Internal escalations for all three of the programs can be made via Slack channel [#education-oss](https://gitlab.slack.com/archives/CB21NTDJQ).
 
 ---
-##### Workflows
-1. [GitLab Education program](https://about.gitlab.com/solutions/education/): use the [EDU response macro in ZD](https://gitlab.zendesk.com/agent/admin/macros/360026025159).
-1. [GitLab Open Source Software program aka OSS](https://about.gitlab.com/solutions/open-source/join/): use the [OSS response macro in ZD](https://gitlab.zendesk.com/agent/admin/macros/360026025179).
-1. We do not offer any non-profit discounts or programs.
-1. Internal escalations can be made via Slack channel [#education-oss](https://gitlab.slack.com/archives/CB21NTDJQ)
+
+##### GitLab for Education (EDU) Workflow
+1. When a customer is looking to apply or renew their existing EDU subscription, send the [`General::EDU Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/EDU%20Response.yaml) macro.
+
+##### GitLab for Open Source (OSS) Workflow
+
+1. When a customer is looking to apply or renew their existing OSS subscription, send the [`General::OSS Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/OSS%20Response.yaml) macro.
+
+##### GitLab for Startups Workflow
+
+1. When a customer is looking to apply or renew their existing Startup subscription, send the [`General::Startup Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Startup%20Response.yaml) macro.
