@@ -212,7 +212,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
 1. **Locally Managed:** An account that is owned by a local account rep regardless of the Global Account Leader. Locally managed accounts are identified by the `Locally Managed` check box on the account.
    1. **Considerations for transferring an account to a local rep:** If the decision-making power, end users, PO and Terms (or a majority combination) are confined to the child account, the Ultimate Parent owner should hand off the account to the appropriate territory owner as this would be in the best interests of the customer and for GitLab. Follow the Exception Process to request Account Ownership Change.
 1. **Strategic Accounts:** An account that is not a Named account or Locally managed but management has decided it should belong to an AE or SAL for strategic business reasons. Accounts that are strategically owned by a non-named SAL or AE will be marked using the `Strategic Account` check box and must have manager approval. Strategic accounts will be reviewed annually to determine if they should be moved to the Global Account Rep at that time.
-1. **Holdover Accounts:** An account that is being held by a Rep that has been promoted or moved to a new territory.  Holdover accounts will be marked using the `Holdover Expiration`  date field and the `Holdover Next Approved Owner` field. An account rep can only have a holdover account for 90 days. Any account that needs to be held over longer should be marked as a `Strategic Account` and must have manager approval from both the current manager and the global account rep’s manager.
+1. **Holdover Accounts:** An account that is being held by a Rep that has been promoted or moved to a new territory.  Holdover accounts will be marked using the `Holdover Expiration`  date field. An account rep can only have a holdover account for 90 days. Any account that needs to be held over longer should be marked as a `Strategic Account` and must have manager approval from both the current manager and the global account rep’s manager.
 1. **Stand-alone Child Account:** An account that clearly has their own buying authority and purchasing process.
     1. **Private Equity or Holding Company** - Accounts where the governing entity is a Private Equity firm or Holding Company will be considered standalone Accounts. As such, they will not be parented and will include the name of the holding company in the `Holding Company Name` field. Ownership & segmentation will be based on the individual account attributes and NOT the Holding Company or PE account attributes.
     1. **Government Holding Entity - Child Accounts:**
@@ -228,7 +228,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the TSP process
     - For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations twice weekly and assigned to the correct owner. 
         - If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting.  
-1. **Field Permissions** In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations:   `Account Owner`, `Named Account`, `Strategic Account`, `Locally Managed`, `Holdover Expiration Date`, `Holdover Next Approved Owner` along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
+1. **Field Permissions** In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations:   `Account Owner`, `Named Account`, `Strategic Account`, `Locally Managed`, `Holdover Expiration Date` along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
 
 **Exception Process to Request Account Ownership Change:** _Any request to transfer an account for any reason must follow the outlined exception process and timeline._
 
@@ -261,7 +261,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
        1. Customer accounts - Sales Operations will not immediatly move accounts due to total CARR value of all requested account moves by a rep per quarter. If a rep requests accounts accumulating in over $50K of CARR to be transferred will require a review of remaining accounts to ensure quota is not affected
 1. **Holdover Accounts** 
 Requested holdover accounts will have the expriation date and next approved owner populated 90 days from date of approval from all parties.These accounts are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
-   1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the `Holdover Next Approved Owner` 
+   1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the `[TSP] Next Approved Owner`
    1. Ideally there will be no holdovers in Q3 or Q4 for acccurate planning
 
 1. **Annual Account  Review Process**
@@ -279,7 +279,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
         1. Holdover opportunities
         1. When an ISR or SDR has created an opportunity but has not yet transitioned it to the correct AE/SAL
         1. Stage of the opportunity at time of account ownership change
-1. **Holdover Opportunities** Holdover opportunties are flagged using the`Holdover Next Approved Owner` and `Holdover Expiration Date` fields on the Opportunity and are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+1. **Holdover Opportunities** Holdover opportunties are flagged using the`Holdover Expiration Date` fields on the Opportunity and are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
    1. Stage considerations
         1. All open opportunities stages 0-3 will immediately be moved to the new account owner when the account transfers unless there is a requested holdover approved by all parties in chatter
         1. All open opportunities stages 4-6 will automatically have a 90 day holdover expiration date populated by sales operations team when moving accounts. If the opportunity does not close in the 90 days it will be moved to the account owner on the expiration date.
@@ -302,19 +302,19 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
  1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
  1. Update any of the data on the account if needed to reflect what was provided
  1. Determine if the request meets any of the criteria for an immediate move. 
-    1. Immediate move - Move the account to the new owner. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportuntiy and populate the `Holdover Next Approved Owner` field. 
+    1. Immediate move - Move the account to the new owner. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity. 
     1. If the account does not meet the criteria for an immediate move, select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7)
  1. Close the case and indicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
 
  **Quarterly Account Review Process**
 1. Use the reports on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7) to review the requested account moves. 
-   1. Prospect and Customer accounts with all approvals and  with `CARR` under $50K can be transferred immediately. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportuntiy and populate the `Holdover Next Approved Owner` field. 
+   1. Prospect and Customer accounts with all approvals and  with `CARR` under $50K can be transferred immediately. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity. 
    1. Prospect and Customer accounts with `CARR` over $50K with all approvals will need to be evaluated to ensure the move doesn't impact quota. Once approved to be moved, follow the step above
    1. Once account ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
 
 **Holdover Account and Opportunity Review Process**
-1. Review the [Account & Opportunity Holdover Expiration reports](https://gitlab.my.salesforce.com/01Z4M000000oYC7) and move the expired accounts and opportunities to the Account Rep listed in the `Holdover Next Approved Owner`field and remove the date and owner from the field. 
-1. Remove the values from the `Holdover Next Approved Owner` and `Holdover Expiration Date` after transfer of ownership (Note that this cannot be removed from accounts past stage 6)
+1. Review the [Account & Opportunity Holdover Expiration reports](https://gitlab.my.salesforce.com/01Z4M000000oYC7) and move the expired accounts and opportunities to the current `Account Owner` and remove the date from the field. 
+1. Remove the value from the `Holdover Expiration Date` after transfer of ownership (Note that this cannot be removed from accounts past stage 6)
 1. Accounts are not eligible for a second holdover request. If this request is made the ASMs must agree and must be approved by Sales Operations Leadership
 
 **Annual Review Process** 
