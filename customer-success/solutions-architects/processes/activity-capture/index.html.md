@@ -75,7 +75,7 @@ _Tip:_ You can create a dedicated slack section for all of your Troops related c
 
 ### SA Specific Opportunity Fields
 
-A **Tech Evaluation* is a set of activities a prospect or a customer undertakes in order to make a decision on whether or not GitLab features cover their business requirements from technical standpoint. These activities include and not limited to Trial, POV, or functional validation of the features. Oftentimes, these technical evaluations will require guidance from the Solutions Architect. 
+A **Tech Evaluation** is a set of activities a prospect or a customer undertakes in order to make a decision on whether or not GitLab features cover their business requirements from technical standpoint. These activities include and not limited to Trial, POV, or functional validation of the features. Oftentimes, these technical evaluations will require guidance from the Solutions Architect. 
 
 To assist with the analysis of SA guided technical evaluations by our prospects and customer, the SA team maintains four opportunity fields in Salesforce. These four fields can be updated through Troops.ai or within the opportunity in Salesforce:
 
