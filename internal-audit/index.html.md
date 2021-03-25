@@ -144,7 +144,7 @@ To build and continually improve an effective internal audit function, GitLab es
 
 * [Sarbanes-Oxley (SOX) Compliance](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)
 
-* Interested in joining our team? Check out more [here](https://bb-fy22-itgc-refresh-linking.about.gitlab-review.app/job-families/finance/internal-audit/)!
+* Interested in joining our team? Check out more [here](https://about.gitlab.com/job-families/finance/internal-audit/)
  
 
 
