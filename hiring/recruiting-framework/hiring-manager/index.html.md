@@ -48,7 +48,14 @@ As a best practice the Hiring Manager should reach out to each individual on the
 > >
 > > c. [insert name of Interviewer 3] - [focus area]
 
-### Step 4/HM: Hiring team to complete feedback in Greenhouse
+### Step 4/HM: Source candidates and/or review inbound applications
+
+Our hybrid recruiting model results in candidate's entering the pipeline either through an inbound application or through direct sourcing. Hiring Managers are expected to review inbound applications or help identify and source candidates to ensure we have a robust pipeline. 
+
+You can work with your Recruiter and Sourcer to understand whether your time will be better spent on sourcing outreach or on reviewing inbound applications. 
+
+
+### Step 5/HM: Hiring team to complete feedback in Greenhouse
 
 Once each step in the interview plan is completed, the interview team will submit feedback via the designated scorecard in Greenhouse within 1 business day of their interviews. Each scorecard will include the following required sections:
 
@@ -60,7 +67,7 @@ Once each step in the interview plan is completed, the interview team will submi
 
 If you have any questions or experience any issues accessing your scorecard, please contract your Recruiter of the CES team.
 
-### Step 5/HM: Complete references
+### Step 6/HM: Complete references
 
 Once the recruiter/CES has notified the hiring manager of the references sent by the candidate, the hiring manager will complete references to establish the candidate's strengths and opportunities, to set them up for success once joining GitLab. A reference check should never be used as a decision making tool. At least two references must be completed and documented in Greenhouse (one of them must be a manager or supervisor), before moving to offer with the candidate. 
 
