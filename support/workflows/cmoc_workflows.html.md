@@ -163,7 +163,7 @@ This will send the details of the incident to the #e-group, #customer-success, a
 - CMOC escalation to an incident has occurred
 - Public notification is occurring or the IMOC has determined the incident requires e-group notification.
 
-Start a thread on the message that is sent by the notifier to the #e-group channel as there are relevant updates to the incident.
+Start a thread on the message that is sent by the notifier to the #e-group channel and manually post updates to the incident there as you make them publicly via the status page.
 
 ### Stage 2: **Incident Updates**
 
