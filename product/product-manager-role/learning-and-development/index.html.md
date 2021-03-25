@@ -247,11 +247,12 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-- [Stop Ignoring Your Competitors...](https://producthabits.com/competitor-analysis/)
+- [Stop Ignoring Your Competitors...](https://producthabits.com/stop-ignoring-competitors/)
+- [The Startup Chat: Episode 319: How To Do Competitor Analysis](https://thestartupchat.com/ep319/)
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+- [SaaSFest Keynote: Building a Saas Company Isn't What it Used to Be](https://www.priceintelligently.com/blog/saasfest-keynote-speaker-hiten-shah-building-a-saas-business)
 
 ##### Online courses 
 
