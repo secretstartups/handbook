@@ -266,26 +266,28 @@ List of CEO Handbook Learning Sessions:
 
 ## Skill of the Month 
 
-The L&D team outlines a skill of the month for team members to learn more about a particular topic. This provides team members with direction about what topics to learn more about and where to find information on these topics. This initiative began in April 2021. 
+The L&D team outlines a skill of the month for team members to learn more about a particular topic. This provides team members with direction about what topics to learn more about and where to find information on these topics. This initiative begins in April 2021. 
 
 ### Goals
 
 1. Get team members engaged with our learning platforms (GitLab Learn and LinkedIn Learning). 
+1. Provide opportunities for Growth and Development. 
+1. Encourage team members to take time out to learn. 
 
 ### FY22 Topic Outline
 
 This is the list of topics that will be the focus in FY22. 
 
-- April: [topic]
-- May: [topic]
-- June: [topic]
-- July: [topic]
-- August: [topic]
-- September: [topic]
-- October: [topic]
-- November: [topic]
-- December: [topic]
-- January: [topic]
+- April: Managing Stress
+- May: [topic TBD]
+- June: [topi TBD]
+- July: [topic TBD]
+- August: [topic TBD]
+- September: [topic TBD]
+- October: [topic TBD]
+- November: [topic TBD]
+- December: [topic TBD]
+- January: [topic TBD]
 
 ### Organizing a Skill of the Month 
 
