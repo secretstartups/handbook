@@ -29,9 +29,9 @@ The GitLab Certified Service Partner Program offers our Partners three Certifica
   <tr>
    <td style = "text-align: center">Available November 2020
    </td>
-   <td style = "text-align: center">Available March 2021
+   <td style = "text-align: center">Available Q4 FY22
    </td>
-   <td style = "text-align: center">Available March 2021
+   <td style = "text-align: center">Available April 2021
    </td>
   </tr>
   <tr>
