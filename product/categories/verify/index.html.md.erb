@@ -35,6 +35,26 @@ The purpose of this product group are described by the [Verify stage direction](
 
 ![Verify Banner](verify_groups_banner.jpg)
 
+#### Continuous Integration and Runner Boundaries (Ownership/DRI's)
+
+While generally the functions of CI and Runners are interdependent (runners are the build agents that execute CI jobs), as Verify categories they represent distinct feature areas. However, it is sometimes difficult to discern which team or product manager is the DRI for a feature or capability that doesn't seem to fit neatly within the high-level categories and this section aims to clarify those boundaries.
+
+At GitLab, using [RADCIE](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#radcie) to assign responsibilities means everyone is Consulted and Informed, but to highlight critical team members who must be consulted the table below specifies who explicitly.
+
+The noted DRI still owns decision-making and is still responsible for notifying/consulting critical team members, however the 'Must be Consulted' designee(s) takes the guesswork out of who to involve when these team members may not be part of the core engineering team aligned to the DRI product manager.
+
+| Category| Code Base|Description|PM DRI|EM DRI|Must be consulted|
+| ------ | ------ |------ |------ |------ |------ |
+| Runner Core|runner|Development of features for the core runner code base for use by self-managed customers on various compute platforms and architectures (runner binary, docker images)|Runner PM - Darren Eastman|Runner EM - Elliot Rushton|N/A|
+| Runner Cloud|autoscaler|Development of capabilities for the GitLab SaaS build fleet, Shared Runners (Linux, Windows, macOS)|Runner PM - Darren Eastman|Runner EM - Elliot Rushton| Infrastructure Mgr. - David Smith|
+|Runner Security, Enterprise Mgmt and UX|RAILS|Development of features for the configuration, use and administration of runners in the GitLab UI. |Runner PM - Darren Eastman|Runner EM - Elliot Rushton| Changes to the security or runner entity model requires input from lead engineers: Kamil Trzciński , Grzegorz Bizon, Stan Hu |
+|Runners Configuration for GitLab SaaS|RAILS|Configuration changes for project and group runners by namespace.|Runner PM - Darren Eastman|Runner EM - Elliot Rushton| |
+|Runner Cache Management|RAILS|Features and capabilities related to user configurable cache management in the GitLab UI.|Runner PM - Darren Eastman|Runner EM - Elliot Rushton|tbd|
+|CI Pipeline Execution and Performance|RAILS|Features and capabilities for running or triggering a pipeline in the GitLab UI.|CI PM - Thao Yeager|CI EM - Cheryl Li|N/A|
+|CI/CD Queueing GitLab SaaS and Self-Managed|RAILS|CI jobs queueing architecture.|tbd|Lead engineers: Kamil Trzciński , Grzegorz Bizon, Stan Hu|
+|CI/CD Fair Scheduling GitLab SaaS |RAILS|CI jobs fair scheduling architecture and configuration.|tbd|Lead engineers: Kamil Trzciński , Grzegorz Bizon, Stan Hu|
+|CI Minutes Configuration for GitLab SaaS|RAILS|Changes to CI minutes configuration for customers on GitLab SaaS.|..|...|
+
 ### Workflow
 
 We work in a Kanban-style aligning with Milestones and [GitLab's Product Development Flow](/handbook/product-development-flow/).
