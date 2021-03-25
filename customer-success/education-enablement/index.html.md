@@ -24,15 +24,15 @@ There is a lot of depth to the GitLab product and the industry knowledge that yo
 
 ## Overview of GitLab Feature and Use Cases
 
-The GitLab product is organized based on the DevOps stages. 
+The GitLab product is organized based on the DevOps stages.
 
 ### DevOps Stages
 
 If you're new to GitLab and the concept of "stages" are new to you, simply think of it as a category of related features that a customer finds value in with a **technical** narrative. The stages are organized in an infinite loop diagram to show the software development lifecycle from planning to development to release, with additional value for deployed applications with security and monitoring features. You can see a high-level overview of each stage on the [marketing page](https://about.gitlab.com/stages-devops-lifecycle/). Be sure to click the `Learn More` link for each stage to see more about the features of that stage.
 
-One of the most helpful resources for understanding what GitLab does, the features in each stage, and how well the feature works is our [Category maturity](https://about.gitlab.com/direction/maturity/) chart. This may also be informally referred to as our "lovable feature chart". 
+One of the most helpful resources for understanding what GitLab does, the features in each stage, and how well the feature works is our [Category maturity](https://about.gitlab.com/direction/maturity/) chart. This may also be informally referred to as our "lovable feature chart".
 
-If you understand what the stages are and want to dive deeper, you can look at the [product categories handbook page](https://about.gitlab.com/handbook/product/categories/) for a deep-dive on each of the stages, specifically the [hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and the [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages). 
+If you understand what the stages are and want to dive deeper, you can look at the [product categories handbook page](https://about.gitlab.com/handbook/product/categories/) for a deep-dive on each of the stages, specifically the [hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and the [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages).
 
 For the purposes of education and enablement, we focus on the DevOps stages that the customer sees. There are additional stages that help GitLab as a business succeed, such as the [Growth stage](https://about.gitlab.com/handbook/product/categories/#growth-stage), [Fulfillment stage](https://about.gitlab.com/handbook/product/categories/#fulfillment-stage), [Enablement stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage), and [Single Engineer Groups stage](https://about.gitlab.com/handbook/product/categories/#single-engineer-groups-section). Although these are not necessarily DevOps stages, the Engineering and Product departments use the stage terminology for consistency. **You do not need to spend time learning about these stages and can search for this information later if the need arises.**
 
@@ -55,7 +55,7 @@ There are also resources available to cater to the size of customer and their ne
 
 ## GitLab Product Topics
 
-To align our education and enablement with our product, each of the topics below are grouped based on how GitLab product management and engineering defines it. 
+To align our education and enablement with our product, each of the topics below are grouped based on how GitLab product management and engineering defines it.
 
 <table>
 <tr>
@@ -146,7 +146,7 @@ To align our education and enablement with our product, each of the topics below
     <ul>
     <li><code>Free</code><a href="https://about.gitlab.com/solutions/jira/">JIRA Integration Solution Overview</a></li>
     <li><code>Free</code><a href="https://docs.gitlab.com/ee/user/project/integrations/jira.html">JIRA Issues Integration Feature Docs</a></li>
-    <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira_development_panel.html">JIRA Development Panel Integration Feature Docs</a></li>
+    <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira/index.html">JIRA Development Panel Integration Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Multiple approvers in code review Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Approval rules for code review Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html">Merge request dependencies Feature Docs</a></li>
@@ -448,11 +448,11 @@ TODO Packer, Ansible, Chef, Puppet
 
 ### Web Application Security
 
-TODO OWASP, Tenable, etc. 
+TODO OWASP, Tenable, etc.
 
 ## Demo Readiness
 
-Getting started demos for baseline proficiency. Learn more on the [Demo Readiness](/handbook/customer-success/solutions-architects/demonstrations/#demo-readiness) page 
+Getting started demos for baseline proficiency. Learn more on the [Demo Readiness](/handbook/customer-success/solutions-architects/demonstrations/#demo-readiness) page
 
 ## Demo Library
 
@@ -462,11 +462,11 @@ TODO Table of all sample projects and video walk through demos
 
 ### Customer Success Skills Exchange
 
-The Field Enablement Team hosts a 50 min weekly webinar focused on topics relevant to the Customer Success Team. To learn more, view the upcoming schedule, or check out a recording go to the [CS Skills Exchange handbook page](/handbook/sales/training/customer-success-skills-exchange/). 
+The Field Enablement Team hosts a 50 min weekly webinar focused on topics relevant to the Customer Success Team. To learn more, view the upcoming schedule, or check out a recording go to the [CS Skills Exchange handbook page](/handbook/sales/training/customer-success-skills-exchange/).
 
 ### Sales Enablement Level Up
 
-The Field Enablement Team hosts a weekly 30 minute webinar focused on topics relevant to the entire Field Team. To learn more, view the upcoming scheudle, or check out a recording go to the [Sales Level Up Webinar handbook page](/handbook/sales/training/sales-enablement-sessions/). 
+The Field Enablement Team hosts a weekly 30 minute webinar focused on topics relevant to the entire Field Team. To learn more, view the upcoming scheudle, or check out a recording go to the [Sales Level Up Webinar handbook page](/handbook/sales/training/sales-enablement-sessions/).
 
 ### Command of Message & MEDDPPICC
 
@@ -478,7 +478,7 @@ TODO List of bookmarks
 
 ## Additional Resources
 
-- [Field Enablement Handbook Page](/handbook/sales/field-operations/field-enablement/)  
+- [Field Enablement Handbook Page](/handbook/sales/field-operations/field-enablement/)
 - [Sales Training](/handbook/sales/training/)
 - [O'Reilly](https://learning.oreilly.com/home/). Contact your manager for a license.
 - [Communities of Practice](/handbook/customer-success/initiatives/communities-of-practice)
