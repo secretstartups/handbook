@@ -198,6 +198,19 @@ This requires an exact process, which is detailed via the
 | Next reply time | 24h | 24h | 24h | 24h |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
+### JiHu SLA
+
+* Conditions:
+  * Matches ALL of:
+    * `Form` is `JiHu`
+* Targets:
+
+| Target | Urgent | High | Normal | Low |
+|--------|:------:|:----:|:------:|:---:|
+| First reply time | 24h | 24h | 24h| 24h |
+| Next reply time | 24h | 24h | 24h | 24h |
+| Hours of operation | Business hours | Business hours | Business hours | Business hours |
+
 ## Special Situations
 
 There are special situations in which the SLA clock will not behave as we would
