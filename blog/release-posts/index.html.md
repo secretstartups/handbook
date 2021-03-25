@@ -1131,7 +1131,7 @@ Use the following pattern to apply the correct badge to the feature (Free, Premi
   - For GitLab Premium, use `[premium, ultimate]`
   - For GitLab Ultimate, use `[ultimate]`
 
-Note that the GitLab Free tier is referenced as `core` in the data file. This is intentional and the page templates will apply the proper tier name on the frontend.
+**Important note**: GitLab Free tier is referenced as `core` in the data file. This is intentional and the page templates will apply the proper tier name on the frontend.
 
 If the feature is available in GitLab.com, the badges for GitLab.com will be
 applied automatically according to the self-managed availability. For example,
@@ -1631,9 +1631,12 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
 | Label `group::`                                         | assigns group product manager as reporter, and tags [relevant team members in the MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md) |
 | label `category:`                                       | `categories:`                                   |
 | Label `release post item::` (`primary`/`secondary`)     | content block type `primary:` or `secondary:`   |
-| Label tier (e.g. `GitLab Core` `GitLab Ultimate`)       | `available_in:`                                 |
+| Label tier (e.g. `GitLab Core` `GitLab Premium` `GitLab Ultimate`) | `available_in:`                                 |
 | Issue web url (i.e. `/gitlab-org/gitlab/-/issues/####`) | `issue_url:`                                    |
 | Issue description under `### Release notes`             | `description:` will contain all text except for the `documentation_link` and `image_url` <br><br>`documentation_link:` is the first URL in the `### Release notes` section containing `https://docs.gitlab.com*` <br><br>`image_url:` is the first image added to the `### Release notes` section. (e.g. `Image: ![name](/path/)`) |
+
+**Improtant note:** GitLab Free tier is referenced as `core` in the data file. This is intentional and the page templates will apply the proper tier name on the frontend.
+
 
 To ensure the generator script runs correctly follow the process below:
 
