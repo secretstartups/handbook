@@ -8,6 +8,12 @@ category: GitLab.com
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Stop!
+
+Until further notice, Support-Infra imports **are not available**.
+
+Support engineers should still make use of the below information to identify import problems and comment on the relevant GitLab issues.
+
 ## Overview
 
 This workflow is meant to provide guidance on when GitLab Team members might offer to import projects on behalf of customers or prospects as a courtesy, and the process for doing the imports. Due to the shifting nature of what issues might be relevant, the specifics of this workflow may change. Overall though, the import process should follow the flow outlined below.
