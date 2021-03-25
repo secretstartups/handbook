@@ -28,7 +28,7 @@ External virtual events are, by definition, not owned and hosted by GitLab. They
 * [Vendor Arranged Meetings](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-vendor-arranged-meetings): hosted by an external vendor, the vendor organizes one-to-one meetings with prospect or customer accounts. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organizes meetings with prospects of interest to GitLab. The goal of a venor arranged meeting is to generate meetings with accounts of interest that we are finding challenging to break into directly - we do not promote to our existing database as it is a paid activity.
 
 ## Partner Webinar
-{: #channel-partner-webinar .gitlab-purple}
+{: #channel-partner-webinars .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 *A sponsored webinar is hosted on an external vendor platform (e.g: DevOps.com), with the goal of driving net new leads. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The project owner is responsible for creating the epic and related issue creation, and keeping timelines and DRIs up-to-date.*
