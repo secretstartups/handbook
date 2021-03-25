@@ -49,7 +49,8 @@ These GitLab-specific items are also key for each product manager at GitLab:
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+- [Nielson Norman Group Trainings and Events](https://www.nngroup.com/training/)
+
 
 ##### Books
 
@@ -152,7 +153,7 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+[Leaders of Awesomeness](https://leaders.centercentre.com/) 
 
 ##### Online courses 
 
