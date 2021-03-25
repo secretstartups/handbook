@@ -41,11 +41,11 @@ The following can be used as a guide on what actions could need to be taken befo
 
 ##### When will I receive my final pay?
 
-This depends on your location. When you complete your Exit Interview, the People Operations Specialist will clarify that your final check (or invoice period) will be for the pay period of `X` and includes `X` days of pay.
+This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additonal questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com`. 
 
 ##### When will I receive (if applicable) commissions payment(s)?
 
-Any commissions earned will be paid (directly deposited) on date provided by `nonuspayroll@ gitlab.com` to the People Ops Specialist, who will relay this information to you during your Exit Interview or prior to it. If you have any questions on this payment, please contact Sales Commissions at `sales-comp@gitlab.com`. 
+Any final commissions earned up until your last working day will be paid (directly deposited) at the end of the next month. Commissions are paid one month in arrears, so for example, if your last day is January 7, any January commissions would be paid at the end of February. If you have any questions on this payment, please contact Sales Commissions at `sales-comp@gitlab.com`. 
 
 ##### When do I submit my final reimbursable expenses?
 
