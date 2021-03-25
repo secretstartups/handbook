@@ -149,30 +149,21 @@ Change the following values:
 
 #### 3. Notify Stakeholders
 
-Once the severity of the incident has been deteremined in coordination with the IMOC, the CMOC should make a post in the `#e-group` channel on Slack.
+Once the severity of the incident has been determined in coordination with the IMOC, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack.
 
-Use the following template:
-```
-*Production Incident*
-Summary: <summary>
-Customer Impact: <customer impact>
+1. In #support_gitlab-com click the lightning bolt in the message composition box.
 
-Production Issue: https://gitlab.com/gitlab-com/gl-infra/production/-/issues/<issue>
-Slack Channel: #incident-<issue>
-Status Page: https://status.gitlab.com/pages/incident/<path>
-```
+   ![Incident Notifier Application](/images/support/cmoc_incident_notifier.png){: .
+shadow}
 
-Notify the e-group when:
-- CMOC escalation to an incident has occurred, and
-- Public notification is occurring or IMOC has determined incident requires e-group notification.
+1. Fill in the details and click `Submit`.
 
-Add a comment in the thread in `#e-group` you created as there are relevant updates at the executive level.
+This will send the details of the incident to the #e-group, #customer-success, and #community-relations channels, notifying them of the incident. This should be done when all of the following are true:
 
-##### Community Team
-The CMOC should make the [Community Relations](/handbook/marketing/community-relations/) team aware of the incident by cross-posting the message in the [#community-relations](https://gitlab.slack.com/archives/C0R04UMT9) channel.
+- CMOC escalation to an incident has occurred
+- Public notification is occurring or the IMOC has determined the incident requires e-group notification.
 
-##### Customer Success
-The CMOC should make the [Customer Success](https://about.gitlab.com/handbook/customer-success/) team aware of the incident by cross-posting the message in the [#customer-success](https://gitlab.slack.com/archives/CB7P5CJS) channel.
+Start a thread on the message that is sent by the notifier to the #e-group channel and manually post updates to the incident there as you make them publicly via the status page.
 
 ### Stage 2: **Incident Updates**
 
