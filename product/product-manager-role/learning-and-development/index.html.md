@@ -129,12 +129,12 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+[Product Led Growth Resources](https://openviewpartners.com/product-led-growth-resources/)
+[GrowthHackers: Growth University](https://university.growthhackers.com/)
 
 ##### Online courses 
 
-Please contribute your favorite resources here
-
+[Reforge](https://www.reforge.com/all-programs)
 ##### Books
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
