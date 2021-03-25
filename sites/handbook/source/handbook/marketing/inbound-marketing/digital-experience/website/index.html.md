@@ -165,8 +165,10 @@ The time needed for your webpage request will vary on a number of factors, inclu
 - Know the URL and keywords you want to use
    - Search Team [Issue Templates](/handbook/marketing/inbound-marketing/#inbound-marketing-issue-templates) to Request support
    - See [naming conventions](/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions)
-- Provide the layout you want to use from existing pages 
-- Provide the content in the layout of the existing page template
+- Provide the layout you think would work best from existing pages or existing blocks
+  - Tip: You can use the [Blocks section in Slippers](https://www.figma.com/file/nWIOpmuMp7RZXmfTj6ujAF/Slippers_foundations?node-id=1280%3A62) to ‘shop’ for blocks and gear your content to designs that already exist. 
+- Provide the content in the layout of the existing block or page template
+  - Example: Use this [Content + DSN Block Template](https://docs.google.com/document/d/1c2OYCtT57SACYSt55YMB5ZW-rt-JFw5RxYNWKPZt-Ao/edit?usp=sharing) as a base. This template allows you to input [existing block designs](https://www.figma.com/file/nWIOpmuMp7RZXmfTj6ujAF/Slippers_foundations?node-id=1280%3A62) mentioned above.
   - Example: This [Content Wireframe Template](https://docs.google.com/document/d/1ypPJVNEpaSiafY0BnZ0p49tBfVeBGQnySVhgYE7gikk/edit?usp=sharing) is based on the current about.gitlab.com/enterprise page
 - Provide all the files for images (assets, logos, etc.)
   - See [image guidelines](/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/) for specs
