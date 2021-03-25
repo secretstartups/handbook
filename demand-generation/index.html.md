@@ -204,7 +204,7 @@ The below table shows the rules how we select the demand gen related touchpoints
 
 There have been ongoing changes to best report on Public Sector. The following is the currently held truth on data (fields, next steps, etc.) related to PubSec across Sisense attribution dashboards and SFDC reporting, which should be consistent.
 
-* **Source of Truth Field (as of 2021-03-05):** `TO BE CONFIRMED WITH MKTG STRAT & PERF`
+* **Note as of 2021-03-12 `@jennyt`:** the [TD:-Sales-Funnel](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual) report accurately reports on Public Sector data. The Demand Gen and FMM Dashboards do not. Both the Demand Gen dash and FMM dash will be rebuilt on the dimensional model in a few weeks and will accurately report on PubSec after that is complete.
 * **Upcoming changes to comprehensively identify PubSec records:**
     - (Leads/Contacts) [Split out PUBSEC as a new segment value](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1675)
         - [Viki Comment 2021-02-22](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/133#note_514119804) Once it is done, it will be automatically visible on the current Demand Gen dashboard
