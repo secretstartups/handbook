@@ -836,7 +836,7 @@ This makes the link more prominent and makes it easier to follow while viewing t
 1. If you use headers, properly format them (`##` in Markdown, "Heading 2" in Google Docs); start at the second header level because header level 1 is for titles. Do not end headers with a colon. Do not use emoji in headers as these cause links to have strange characters.
 1. Always use a [serial comma](https://en.wikipedia.org/wiki/Serial_comma) (a.k.a. an "Oxford comma") before the coordinating conjunction in a list of three, four, or more items.
 1. Always use a single space between sentences rather than two.
-1. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/doc_styleguide.html) for more information when writing documentation.
+1. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide.html) for more information when writing documentation.
 1. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `MR`, write `merge request (MR)`.
     1. If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
 1. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/#segmentation).
