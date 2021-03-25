@@ -10,20 +10,11 @@ description: "Tips On How To Prepare For Your Technical Interview at GitLab."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Tips On How To Prepare For Your Technical Interview
+## Tips On How To Prepare For the Support Engineer Technical Interview
 
 #### "Homework" before your interview
 
-If you are not already familiar with the following, and if they seem relevant to the position you are applying for, take some time to review and practice.
-
-- [Basic Linux Commands](https://www.dummies.com/computers/operating-systems/linux/common-linux-commands/)
-- [Basic SSH Commands](https://www.ssh.com/ssh/command/)
-- [PostgreSQL](https://docs.gitlab.com/ee/ci/services/postgres.html)
-- [Git](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html)
-
-Re-familiarizing yourself with these will help with your communication through the hiring process, as well as prevent any roadblocks, and keep you focused on the tasks asked of you.
-
-It is probably a good idea to familiarize yourself with the GitLab product.  The following are recommended to get some hands-on experience before your interview:
+It is important to have knowledge of the GitLab product. We recommended getting some hands-on experience before your interview.  Spend time installing and using GitLab to get more familiar with the software and how to use it. Read through documentation and tutorials on using/configuring/troubleshooting GitLab.
 
 - Read the [Intro to GitLab](https://docs.gitlab.com/ee/README.html#new-to-git-and-gitlab)
 - [Install GitLab](/install/) locally and explore the product
@@ -31,7 +22,16 @@ It is probably a good idea to familiarize yourself with the GitLab product.  The
 - Read through the online [forum](https://forum.gitlab.com/search?q=error) to see what errors stand out
 - Read over some [useful commands](https://gist.github.com/dnozay/188f256839d4739ca3e4) when logging in locally to your GitLab installation
 
-Depending on the requirements of your position, review any relevant areas that you feel necessary.  The following list has some good examples of what's out there.    
+Review and practice:
+
+- [Basic Linux Commands](https://www.dummies.com/computers/operating-systems/linux/common-linux-commands/)
+- [Basic SSH Commands](https://www.ssh.com/ssh/command/)
+- [PostgreSQL](https://docs.gitlab.com/ee/ci/services/postgres.html)
+- [Git](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html)
+
+Familiarizing yourself with these will help with your communication through the hiring process, as well as prevent any roadblocks, and keep you focused on the tasks asked of you.
+
+Other areas you may want to brush up on:    
 
 - [Javascript](https://github.com/getify/You-Dont-Know-JS)
 - [Chef](https://www.oreilly.com/library/view/learning-chef-for/9781491959442/)
