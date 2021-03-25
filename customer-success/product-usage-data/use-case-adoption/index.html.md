@@ -4,7 +4,7 @@ title: "Customer Product Adoption"
 description: "How we measure a customer's adoption for general GitLab and different use cases"
 ---
 
-To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. 
+To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight.
 
 ## General Usage
 
@@ -38,9 +38,9 @@ CI is considered both an initial purchase reason or, in the case of SCM, an expa
 
 For customers on Ultimate, we want to measure their effectiveness and usage with Ultimate-level functionality.
 
-|                             |                         | **Red** | **Yellow** | **Green* |
-| --------------------------- | ----------------------- | ------- | ---------- | -------- |
-| SMAU Secure / UMAU          | Ultimate (product tier) | <10%    | 10-40%     | \>40%    |
-| SAST *OR* DAST Jobs (users) | Ultimate (product tier) | <5      | 5-7        | \>8      |
-| SMAU Protect/UMAU           | Ultimate (product tier) | <2%     | 3-6%       | \>7%     |
+|                             |                         | **Red** | **Yellow** | **Green** |
+| --------------------------- | ----------------------- | ------- | ---------- | --------  |
+| SMAU Secure / UMAU          | Ultimate (product tier) | <10%    | 10-40%     | \>40%     |
+| SAST *OR* DAST Jobs (users) | Ultimate (product tier) | <5      | 5-7        | \>8       |
+| SMAU Protect/UMAU           | Ultimate (product tier) | <2%     | 3-6%       | \>7%      |
 
