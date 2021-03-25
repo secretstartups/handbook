@@ -225,7 +225,7 @@ The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sib
 
 Books in this section [can be expensed](/handbook/spending-company-money).
 
-Notable books from the [E-Group Offsite Book Selections](/handbook/ceo/offsite/#previous-reads) may be added to the list below.
+Notable books from the [E-Group Offsite Book Selections](/company/offsite/#previous-reads) may be added to the list below.
 
 We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read through these books as a group.
 
