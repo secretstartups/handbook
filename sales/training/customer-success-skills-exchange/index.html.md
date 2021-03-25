@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Mar 24 | [Product Roadmap Update](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/126)            |  **Kenny Johnston**                |
 | Mar 31 | [Integrate & Analyze Usage Data in Gainsight](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/119#note_515359639)              |   **Jeff Beaumont**        |
 | Apr 7  |  [Detailed Deep Dive on Git/ SCM Capabilities](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/31)             |    **William Arias**             |
 | Apr 14 | [Breaking Changes in 14.0](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/124)        |   **Julie Byrne**         |
@@ -37,6 +36,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-03-24 | **[Product Roadmap Update](https://youtu.be/2K5wVhitfBk)**            |  Public          |
 | 2021-03-10 | **[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)**  | Public |
 | 2021-03-03 | **[Objection Handling Techniques & Role Play](https://youtu.be/vobGVMqUpqA)**            |     Public         |
 | 2021-02-24 | **[Tracking Value With GitLab - DORA4 Metrics](https://youtu.be/iZzGjnf_T_Y)** | Public |
