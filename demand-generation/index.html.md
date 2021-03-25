@@ -213,6 +213,7 @@ There have been ongoing changes to best report on Public Sector. The following i
 * Background on some previous data point (and some data caveats):
     - `[TSP] Territory = PubSec` is missing data because `Named` is an option, which means if it’s Named & PubSec, it would not be pulled in.
     - `.PubSec Owner? [TEMP]` - DO NOT USE (not used in Sisense per [Robert's comment](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/133#note_453053428) 2020-09-30)
+* [Issue with some PubSec reporting digging](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/862)
 
 ## Tactic-Specific Dashboards
 {: #dashboard-by-tactic}
