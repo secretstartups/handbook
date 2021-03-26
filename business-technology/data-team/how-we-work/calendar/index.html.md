@@ -58,35 +58,28 @@ Give responses to Geekbot that truly communicate to your team what you're workin
 
 Every Tuesday from 1400-1700 UTC we focus on results delivery within the business-focused Fusion Teams and Platform Enhancements Team.
 Data Team Leadership are expected to regularly attend most sessions and review all meeting agendas.
-Because we work in [2-week milestone intervals](/handbook/business-technology/data-team/how-we-work/#milestone-planning), the focus of these _Tuesday_ meetings will change from week-to-week.
+Because we work in [2-week milestone intervals](/handbook/business-ops/data-team/how-we-work/#milestone-planning), the focus of these _Tuesday_ meetings will change from week-to-week.
 
 | Time (CET/UTC/ET/PT) | Meeting                                                                                                                                |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
-| 1600/1400/1000/700   | [Lead To Cash Fusion Team Meeting](https://docs.google.com/document/d/1VaRo9qJvmG6YAR1pSAoetCqop2c807K6fjL2S9pIxGg/edit?usp=sharing)   |
-| 1700/1500/1100/800   | [Release to Adoption Fusion Team Meeting](https://docs.google.com/document/d/1cANv4hvrIt2V66yRJztzb_2tuDYOx1ashEzD2G69NbE/edit)        |
+| 1600/1400/1000/700   | [GTM Fusion Team Meeting](https://docs.google.com/document/d/1VaRo9qJvmG6YAR1pSAoetCqop2c807K6fjL2S9pIxGg/edit?usp=sharing)   |
+| 1700/1500/1100/800   | [Product Fusion Team Meeting](https://docs.google.com/document/d/1cANv4hvrIt2V66yRJztzb_2tuDYOx1ashEzD2G69NbE/edit)        |
 | 1800/1600/1200/900   | [Data Engineering Team Meeting](https://docs.google.com/document/d/1J6yPgnEpr2VXz2LFXNNA4w39UBaibtBrx8qE69H_xQY/edit) |
 
-**Tuesday Social Call**
-
-Every Tuesday we hold a Social Call to get together and talk about whatever. No agenda; 30 minutes to catch up on life.
-
-| Time (CET/UTC/ET/PT) | Meeting     |
-| :------------------- | :---------- |
-| 1900/1700/1300/1000  | Social Call |
-
-**Thursday Tech Stack and DEMO Meetings**
+**DEMO Meetings**
 
 Every Thursday we spend time focusing on our data stack and demonstrating solutions under development.
 
-- Data Stack/Functional Meetings: Creating excellent solutions and working with a growth mindset is required in a modern data organization. Functional Meetings provide an opportunity for members of a functional area to review technologies, discuss best-practices and improvements, and strive to continually improve the capabilities of their system and practices.
 - Demo Meetings: Demonstrating working software and related content is a great way to align on the solution, build awareness, and increase knowledge. Demos can include SQL examples, handbook pages, dbt flows, ERDs, Dashboards, and any other relevant content. Screen sharing and walk-throughs are encouraged. Business stakeholders will be invited to demos when appropriate.
 
 | Time (CET/UTC/ET/PT) | Meeting                                                                                                               |
 | :------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| 1900/1700/1300/1000  | [Data Team Demos](https://docs.google.com/document/d/1XBAj5x0WziLpqTyGRRu3CsMTDyYx5vDYuBOqqjONbSQ/edit?usp=sharing)   |
+| 1700/1500/1100/800  | [Data Team Demos](https://docs.google.com/document/d/1XBAj5x0WziLpqTyGRRu3CsMTDyYx5vDYuBOqqjONbSQ/edit?usp=sharing)   |
 
 **Monthly Meetings**
 
 | Time (CET/UTC/ET/PT) | Day           | Meeting                                                                                                                       |
 | :------------------- | :------------ | :---------------------------------------------------------------------------------------------------------------------------- |
-| 1700/1500/1100/800   | 1st Wednesday | [All-Hands & Retrospective](https://docs.google.com/document/d/1tAx1K6wt2ufZglzBdJsiIAuYD4B0pKZK9ABckwHD6u8/edit?usp=sharing) |
+| Varies | First Full Week | [All-Hands & Retrospective](https://docs.google.com/document/d/1tAx1K6wt2ufZglzBdJsiIAuYD4B0pKZK9ABckwHD6u8/edit?usp=sharing) |
+| Varies | Last Friday | [Handbook Jamboree](https://gitlab.com/groups/gitlab-data/-/epics/248) |
+| Varies | Varies | Monthly Pizza Party |
