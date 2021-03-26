@@ -46,7 +46,9 @@ For customers on Ultimate, we want to measure their effectiveness and usage with
 
 |                             |                         | **Red** | **Yellow** | **Green** |
 | --------------------------- | ----------------------- | ------- | ---------- | --------  |
-| SMAU Secure / UMAU          | Ultimate (product tier) | <10%    | 10-40%     | \>40%     |
-| SAST *OR* DAST Jobs (users) | Ultimate (product tier) | <5      | 5-7        | \>8       |
-| SMAU Protect/UMAU           | Ultimate (product tier) | <2%     | 3-6%       | \>7%      |
+| SMAU Secure / UMAU          | Ultimate (product tier) | <10%    |      |      |
+| SMAU Protect/UMAU           | Ultimate (product tier) | <2%     |        |      |
+| SMAU Secure / UMAU <BR> SMAU Protect/UMAU           | Ultimate (product tier) |     | >=10% AND <BR> <6%        |       |
+| SMAU Secure / UMAU <BR> SMAU Protect/UMAU           | Ultimate (product tier) |     | <40% AND <BR> >2%        | \>=40% AND <BR> \>=7%      |
+
 
