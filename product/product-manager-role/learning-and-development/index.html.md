@@ -98,7 +98,7 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+- [Mastering Jobs-To-Be-Done Interviews](https://learn.jobstobedone.org/courses/JTBDinterviews)
 
 ##### Books
 
