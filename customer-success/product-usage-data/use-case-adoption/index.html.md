@@ -4,9 +4,19 @@ title: "Customer Product Adoption"
 description: "How we measure a customer's adoption for general GitLab and different use cases"
 ---
 
-To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight.
+To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. Note: for multiple criteria use cases, when a customer achieves different health colors per metric, it will default to the lowest health color as a conservative measure. 
 
-## General Usage
+>>>
+For example: 
+- Metric 1: meets "green" criteria
+- Metric 2: meets "yellow" criteria 
+>>>
+
+In this case, the health measure would be yellow.
+
+## User Engagement
+
+In addition to license utilization, we need to measure the depth of user engagement and adoption at a high level.
 
 |                             | **Red** | **Yellow** | **Green* |
 | --------------------------- | ------- | ---------- | -------- |
