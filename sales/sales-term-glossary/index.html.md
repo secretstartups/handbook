@@ -432,6 +432,11 @@ The opportunity owner's primary reason as to why GitLab lost the deal
 
 `D300` accounts are any prospect & customer accounts in SFDC that have more than 300 total developers.  This is useful when prioritizing high growth potential with high propensity to buy GitLab to ensure long-term growth within accounts.
 
+### Swing Opportunity
+
+An opportunity with substantial Net ARR (typically 7 figures) in either the Pipeline or Best Case Forecast Category that creates a wide gap between the same quarters Commit Forecast making it difficult for the business forecast with single digit variance.
+
+
 ### Licensed Users
 
 The number of contracted users on active paid subscriptions. Excludes OSS, Education, Free and other non-paid users. The data source is Zuora.
