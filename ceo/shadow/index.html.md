@@ -999,3 +999,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-02-15 | 2021-02-26 | [Lauren Barker](https://gitlab.com/laurenbarker) | Sr. Full Stack Engineer, Digital Experience | [CEO Shadow takeaways from Barker](/blog/2021/02/26/ceo-shadow-takeaways-from-barker/) |
 | 2021-02-22 | 2021-03-12 | [Jessica Reeder](https://gitlab.com/jessicareeder) | All-Remote Campaign Manager | |
 | 2021-03-08 | 2021-03-19 | [Robert Kohnke](https://gitlab.com/rkohnke) | Marketing Strategy and Performance, Data Analyst | |
+| 2021-03-15 | 2021-03-26 | [Sarah Daily](https://gitlab.com/sdaily) | Senior Marketing Operations Manager | |
