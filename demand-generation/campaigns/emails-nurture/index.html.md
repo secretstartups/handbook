@@ -216,7 +216,7 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 1. In the `Schedule` box, enter the send date and select `Recipient time zone` if the option is available.
 1. Make sure `Head start` is checked too.
 1. In the `Approval` box, click on `Approve program`.
-1. Return to the newsletter issue and leave a comment telling requestor (@rebecca from the content team for marketing newsletters)  to double check all has been set up correctly. Close the issue when this is confirmed.
+1. Return to the newsletter issue and leave a comment telling requestor  to double check all has been set up correctly. Close the issue when this is confirmed.
 
 ## Ad-hoc (one-time) emails - requesting an email
 {: #one-time-emails .gitlab-purple}
