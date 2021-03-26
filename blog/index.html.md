@@ -4,7 +4,7 @@ title: "Blog Handbook"
 description: "A comprehensive guide to pitching and publishing to the GitLab blog."
 ---
 
-The [GitLab blog](/blog/) is managed by [@rebecca](https://gitlab.com/rebecca) the [Managing Editor](/job-families/marketing/editor/).
+The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/).
 
 ## Communication
 - Chat channels; use `#content` for questions, see `#content-updates` for updates on most recently published articles.
@@ -61,7 +61,7 @@ If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blo
 
 Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly.
 
-If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@rebecca` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
+If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@bmatturro` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
 
 If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team, or publish directly to [Unfiltered](/handbook/marketing/blog/unfiltered/) instead. If you're not concerned about whether you publish on the main blog or Unfiltered, this may suit you.
 
@@ -118,9 +118,9 @@ If your pitch isn't accepted, no problem! The Editorial team will suggest that y
 
 1. If you haven't already, feel free to start your draft using this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit) which has all the relevant information already embedded. Then see the [formatting guidelines](#formatting-guidelines) for help with creating and formatting your blog post MR.
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
-1. Assign the issue and associated merge request to yourself and apply the appropriate labels based on what stage of creation you are on. Once it's ready for editorial review, assign both to @rebecca. She will assign a member of the Editorial team to review the post.
+1. Assign the issue and associated merge request to yourself and apply the appropriate labels based on what stage of creation you are on. Once it's ready for editorial review, assign both to Editorial team member who reviewed your pitch.
 
-Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @rebecca or @skassabian for review.
+Note for the Content team: If your blog post is already scheduled and appears on the [blog calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) please submit your MR and associated issue directly to @skassabian or @bmatturro for review.
 {: .alert .alert-info .note}
 
 ### Process for time-sensitive posts
@@ -131,7 +131,7 @@ If you have already followed those directions in the [PR handbook](/handbook/mar
 
 #### Time-sensitive posts – instructions
 
-1. Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `Blog post` template and applying the `priority` label. **Even if you do not have a draft or a confirmed publish date, it's important to open the issue as far in advance as possible and ping @rebecca so she knows it is coming and can prioritize accordingly.**
+1. Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `Blog post` template and applying the `priority` label. **Even if you do not have a draft or a confirmed publish date, it's important to open the issue as far in advance as possible and ping @skassabian so she knows it is coming and can prioritize accordingly.**
 1. The issue title should reflect the date on which you expect to publish.
 1. The issue due date should be a _minimum_ of two working days before the publish date.
 1. If other due dates apply (for example, design assets are required) make sure the entire timeline and all the people responsible are captured in the issue description.
@@ -139,37 +139,16 @@ If you have already followed those directions in the [PR handbook](/handbook/mar
 1. **If you need assistance with drafting the post or creating the MR, please make this clear in your issue and we will confirm if this is possible within your timeframe.**
 1. Use the `Blog post` merge request template for your MR and ensure it is set to close the associated issue automatically.
 1. Be sure to check the review app for your blog post or preview it locally to ensure images, headlines, etc. are formatted correctly before handing over.
-1. When your MR is ready for review, please assign it and the corresponding issue to @rebecca (or @skassabian if Rebecca is OOO) a _minimum_ of two working days ahead of when you expect to publish. **Please submit your MR earlier if you can**.
+1. When your MR is ready for review, please assign it and the corresponding issue to @skassabian a _minimum_ of two working days ahead of when you expect to publish. **Please submit your MR earlier if you can**.
 1. When you've assigned your MR and issue to a reviewer, please change the due date on the issue to reflect the publishing date.
 1. Your reviewer may leave comments for you to address, in which case they will assign the MR back to you. When you have resolved all outstanding discussions, assign the MR back to the reviewer for final review and merging.
 
 #### Who to assign your MR to – urgent posts
 
-Please assign first to @rebecca. If she is OOO, assign to @skassabian. If no one is available and you cannot wait until they return, please assign to a member of the Technical Writing team. Where possible, select the technical writer who is [listed for the most relevant stage group](/handbook/product/categories/#devops-stages). If you need immediate assistance/review, find a technical writer who is online on Slack to request this directly. Regardless, be sure to specify any time constraints around getting the content reviewed and posted.
+Please assign first to @skassabian. If she is OOO, assign to @bmatturro. If no one is available and you cannot wait until they return, please assign to a member of the Technical Writing team. Where possible, select the technical writer who is [listed for the most relevant stage group](/handbook/product/categories/#devops-stages). If you need immediate assistance/review, find a technical writer who is online on Slack to request this directly. Regardless, be sure to specify any time constraints around getting the content reviewed and posted.
 
 Continuous delivery mindset: With time-sensitive posts, don't wait to publish a post if you have enough information to go live. It's OK to publish a headline and paragraph to get the news out in a timely matter and add more details later (e.g. add more graphics, charts, etc.). We don't want to miss out on a news cycle because we're waiting for an image or supplementary information.
 {: .alert .alert-info}
-
-#### Error budgets for time-sensitive posts
-
-Inspired by [error budgets used by Engineering](/handbook/engineering/#error-budgets).
-
-Applied to the blog, error budgets incentivize forward planning and early communication of time-sensitive blog posts. This helps the Editorial team to minimize time spent on unplanned work, shuffling of the publishing schedule, or work that is subsequently wasted or does not serve our [goals and objectives](/handbook/marketing/inbound-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers) or the needs of our audience.
-
-Each functional group is responsible for not exceeding an allowed budget of 15 points per quarter. The number of points given will depend on the severity of the impact to the team's workflow:
-
-- severity::1: 15 points - Less than 2 working days' notice for a time-sensitive post (except in cases of responding to an industry or company event/news for which there was no prior warning).
-- severity::2: 10 points - Failure to submit complete, formatted MR a _minimum_ of 2 working days ahead of publish date.
-- severity::3: 5 points - MR submitted ahead of time, but without all required formatting, links, and images included (unless otherwise agreed).
-
-Where error budget points are incurred, a member of the Editorial team will apply the relevant label to the issue or merge request in question. Points will be totaled at the end of the quarter and communicated to functional groups who exceed their budgets, so that we can work together on solutions to prevent this in the future.
-
-##### How to avoid incurring error budget points
-
-- Open an issue **as soon as you know a blog post will be needed**, using the blog post issue template, and give `@rebecca` a heads up that your post needs to go live on a specific day.
-- Create the MR for your blog post, ensuring everything is formatted correctly, all relevant images added, and links included.
-- Check the review app or preview locally to make sure everything looks as expected.
-- Assign the MR to `@rebecca` well ahead of time (a minimum of two working days before you expect to publish).
 
 ## Third-party posts
 We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in.
@@ -311,7 +290,7 @@ It is important that our blog content represents our company values of diversity
 ### More DIB writing tips
 
 - Is your blog post biased? We all have unconscious biases. Take our [recognizing bias training](/company/culture/inclusion/unconscious-bias/#recognizing-bias-training), check the [list of unconscious biases in our DIB handbook page](/company/culture/inclusion/unconscious-bias/#unconscious-biases-to-look-out-for-in-ourselves-and-in-others) and practice strategies for [recognizing and managing yours](/company/culture/inclusion/unconscious-bias/#tips-on-recognizing-and-avoiding-bias).
-- If you still have questions, don't hesitate to tag the editorial team (@skassabian, @rebecca), leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue or email diversityinclusionandbelonging@gitlab.com with your questions.
+- If you still have questions, don't hesitate to tag the editorial team (@skassabian), leads of the appropriate [team member resource group (TMRG)](/company/culture/inclusion/erg-guide/) in your blog issue or email diversityinclusionandbelonging@gitlab.com with your questions.
 
 ### Best practices for specific types of posts
 
@@ -876,7 +855,7 @@ merch_four:
 
 #### Requesting new merchandise
 
-If you have a new asset you'd like to promote with merchandise on the blog, please open an issue in the Corporate Marketing project using the [`blog-merch-request` issue template](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=blog-merch-request). When you have filled in the required copy, please ping @luke to assign someone from the Design team to create the required images. When you have these, create a merge request to add the new merch to the www-gitlab-com repository and update the [current merch items](#current-merch-items) in this handbook. If you're not sure how, please ping @laurenbarker or @rebecca on your issue.
+If you have a new asset you'd like to promote with merchandise on the blog, please open an issue in the Corporate Marketing project using the [`blog-merch-request` issue template](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=blog-merch-request). When you have filled in the required copy, please ping @luke to assign someone from the Design team to create the required images. When you have these, create a merge request to add the new merch to the www-gitlab-com repository and update the [current merch items](#current-merch-items) in this handbook. If you're not sure how, please ping @laurenbarker or @bmatturro on your issue.
 
 ### Adding code blocks
 
@@ -1214,7 +1193,7 @@ If you need to make changes to your file, including editing the filename to upda
 
 #### When your blog post is ready for review
 
-When you're ready, assign the MR to a fellow team member to review your post. When they have reviewed and you've addressed any comments they had and resolved any outstanding discussions, please assign your MR **and the corresponding issue** to `@rebecca` to review.
+When you're ready, assign the MR to a fellow team member to review your post. When they have reviewed and you've addressed any comments they had and resolved any outstanding discussions, please assign your MR **and the corresponding issue** to the Editorial team member who reviewed your pitch to review.
 
 You may find this video walkthrough helpful for creating your blog post MR from the UI:
 
