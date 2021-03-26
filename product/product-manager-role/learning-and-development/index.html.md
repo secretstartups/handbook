@@ -79,7 +79,7 @@ Please contribute your favorite resources here
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
 - [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
 - [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
-
+- [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X)
 
 #### Jobs to be done 
 
@@ -167,6 +167,7 @@ Please contribute your favorite resources here
 - [Don Norman: The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 - [Steve Krug: Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 - [Sketching User Experiences: The Workbook](https://www.amazon.com/Sketching-User-Experiences-Saul-Greenberg/dp/0123819598)
+- [The User Experience Team of One: A Research and Design Survival Guide](https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
 
 ### Delivery
 
@@ -286,6 +287,7 @@ Please contribute your favorite resources here
 
 - [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
 - [Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intagibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)
+- [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics](https://www.amazon.com/Measuring-User-Experience-Interactive-Technologies/dp/0124157815)
 
 ### Communication
 
