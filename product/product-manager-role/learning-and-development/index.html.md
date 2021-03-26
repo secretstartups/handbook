@@ -109,9 +109,12 @@ Please contribute your favorite resources here
 
 - [How to Build a Minimum Loveable Product](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c#.56uv0dydd)
 
+
 ##### Deeper dive
 
 - [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video 42 min)
+- [How to Run Amazing Remote Design Sprints!](https://www.youtube.com/watch?v=IFHfsRNTGCM) (video 60 min)
+- [Design Sprint Exercise Video Series](https://www.youtube.com/playlist?list=PLxk9zj3EDi0X5CgoFckoheIFAx-uT2i7j)
 
 ##### Online courses 
 
@@ -163,6 +166,7 @@ Please contribute your favorite resources here
 
 - [Don Norman: The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 - [Steve Krug: Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+- [Sketching User Experiences: The Workbook](https://www.amazon.com/Sketching-User-Experiences-Saul-Greenberg/dp/0123819598)
 
 ### Delivery
 
