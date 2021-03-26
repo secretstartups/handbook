@@ -157,12 +157,12 @@ Please contribute your favorite resources here
 
 - [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
 - [Jess Eddy: What do designers really want from product managers?](https://uxdesign.cc/what-do-designers-really-want-from-product-managers-9c0e14993a8)
+- [Jared Spool: Using the Kano Model to Build Delightful UX](https://youtu.be/ewpz2gR_oJQ) (45 min video)
 
 ##### Deeper dive
 
 - [Leaders of Awesomeness](https://leaders.centercentre.com/) 
 - [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
-- [Jared Spool: Using the Kano Model to Build Delightful UX](https://youtu.be/ewpz2gR_oJQ) (45 min video)
 
 ##### Online courses 
 
