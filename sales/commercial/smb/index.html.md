@@ -83,7 +83,7 @@ One initiative as an SMB AE is to be connecting with as many current customers a
 
 True-ups are conversations that often come to the table with customers during renewal conversations. It's important to get yourself familiar with the term, how true-ups work - and how the SMB team is handling true-up conversations:
 
-- [True Up Policy](/handbook/ceo/pricing/#true-up-pricing)
+- [True Up Policy](/company/pricing/#true-up-pricing)
 - [What Causes True Ups?](/handbook/business-ops/business_systems/portal/troubleshooting/#user-counts-true-ups-add-ons-users-over-license)
 - [How To Find True Ups](https://about.gitlab.com/pricing/licensing-faq/#what-does-users-over-license-mean)
 - [Licensing and Subscription Troubleshooting](/handbook/support/license-and-renewals/workflows/license_troubleshooting.html#licensing)

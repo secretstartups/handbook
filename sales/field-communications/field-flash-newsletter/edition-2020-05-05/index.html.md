@@ -46,7 +46,7 @@ The new “How to Deploy on AWS from GitLab” whitepaper provides screenshots a
 
 The Channel Program was announced externally on April 21 and generated a lot of positive media coverage, including a featured article in CRN. [Read and Share -->](https://www.crn.com/news/cloud/gitlab-introduces-first-channel-program-to-drive-devops-alliances)
 
-We have added a new section to clarify reporter user pricing in our Pricing Handbook Page. [Learn More -->](/handbook/ceo/pricing/#reporter-user-permission-pricing)
+We have added a new section to clarify reporter user pricing in our Pricing Handbook Page. [Learn More -->](/company/pricing/#reporter-user-permission-pricing)
 
 ### Did You Know? 🔢
 ABM campaigns are now being launched on an ongoing basis. **Accounts that are in our ABM strategy will include the ‘GTM strategy’ field in Salesforce.** And, you can check out the new Demandbase section in Salesforce to [view intent](/handbook/marketing/revenue-marketing/account-based-strategy/account-based-marketing/#how-we-use-intent-data) data for accounts. For more information:

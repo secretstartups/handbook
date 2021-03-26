@@ -10,9 +10,17 @@ title: "LATAM Region Handbook"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+##  What is the Latin American Region? 
+
+Latin America is a region of the world that spans two continents, North America (including Central America and the Caribbean) and South America. It includes 19 sovereign nations and one non-independent territory, Puerto Rico. Most people in the region speak Spanish or Portuguese, although French, English, Dutch, and Kreyol are also spoken in parts of the Caribbean, Central America, and South America. Its population is 652mil representing 8.5% of the Wolrds Population. 
+
+The Latin America region economies represents 6.5% of the Worlds GDP coming in at $5.7 trillion in 2019, the countries in Latin America are still considered "developing" or "emerging" nations, with Brazil, Mexico, and Argentina comprising the largest economies. 
+
+
+
 ##  LATAM Region Mission
 
-**Work in progress**
+Everyone can contribute - no matter how, no matter _WHERE_. From end-to-end, our goal with our customers is to come together as ONE, sharing wins and overcoming unique challenges through _collaboration_.
 
 ## Who are we?
 
@@ -33,6 +41,35 @@ Please, visit our [Technical Support Handbook Page](https://about.gitlab.com/sup
 We currently offer support for a [few languages](https://about.gitlab.com/support/#language-support) other than English (EN) via support ticket. This includes Spanish (ES) and Portuguese (PT). Should you be offered a call, only English is available.
 
 English is the offical language used on GitLab's [documentation](https://docs.gitlab.com/) and in the [Community Forum](https://forum.gitlab.com/).
+
+## Google Drive Name Convention and Organization
+
+Due the diversity of teams working in every country in Latin America, we have created a google drive [LATAM](https://drive.google.com/drive/folders/1OjjRxIJujWtmPeFRON0FkbAgQe4h1QKI) where we are saving all documents we have with our customers.
+
+This helps us to increase collaboration between all team members, be more efficient and transparent as these documents are accesible for GitLab team members.
+
+To organize the documentation we have three mains folders (ES for Spanish, PT for Portuguese and EN for English) and within these ones we have a folder for each customer with a prefix of their country abbereviation "XX - company name". The abbreviation list is in the following table:
+
+| Abbreviation | Country Name |
+| ---------------- | ---- |
+| AR | Argentina |
+| BO | Bolivia |
+| BR | Brazil |
+| CY | Cayman Islands |
+| CL | Chile |
+| CO | Colombia |
+| CR | Costa Rica |
+| DO | Dominican Republic |
+| EC | Ecuador |
+| SV | El Salvador |
+| HN | Honduras |
+| JM | Jamaica |
+| MX | Mexico |
+| PA | Panama |
+| PY | Paraguay |
+| PE | Peru |
+| UY | Uruguay |
+| VE | Venezuela |
 
 ## Events, webinars and resources in Spanish and Portuguese.
 

@@ -44,7 +44,7 @@ The below page overviews the primary meetings for the WW Field Team.
 
 * When: Happens every Thursday at 9am Pacific time
 
-## Sales Monthly [Key Meeting](https://about.gitlab.com/handbook/finance/key-meetings/)
+## Sales Monthly [Key Meeting](/handbook/key-meetings/)
 
 * When: Happens once every month
 * Where: Zoom link varies - please check the calendar invitation
