@@ -197,8 +197,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-05-10 | 2021-05-14 | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager | [Lorie Whitaker](https://gitlab.com/loriewhitaker) - Staff UX Researcher |
 | 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager |
 | 2021-05-24 | 2021-05-28 | [Melissa Ushakov](https://gitlab.com/mushakov) - Sr. Product Manager - Manage:Access| [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
-| 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE (short week due to Holiday) | [Melissa Ushakov](https://gitlab.com/mushakov)- Sr. Product Manager - Manage:Access |
-| 2021-06-07 | 2021-06-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-06-01 | 2021-06-04 | April Malone - Sijbrandij Personal EA | [Melissa Ushakov](https://gitlab.com/mushakov)- Sr. Product Manager - Manage:Access |
+| 2021-06-07 | 2021-06-11 | AVAILABLE - REMOTE | April Malone - Sijbrandij Personal EA |
 | 2021-06-14 | 2021-06-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-06-21 | 2021-06-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-06-28 | 2021-07-01 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
