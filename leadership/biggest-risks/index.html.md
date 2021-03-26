@@ -137,7 +137,7 @@ What we need to do is:
 
 1. [Keep up velocity](#loss-of-velocity)
 1. [Keep the open source community contributing](#loss-of-the-open-source-community)
-1. [Follow our buyer-based-open-core pricing model](/handbook/ceo/pricing/#buyer-based-open-core)
+1. [Follow our buyer-based-open-core pricing model](/company/pricing/#buyer-based-open-core)
 
 ## 10. Security breach
 {:#security-breach}
@@ -250,7 +250,7 @@ We serve smaller users by having:
 
 1. A great free open source product that [gets the majority of new features](/company/stewardship/#promises).
 1. A focus on [memory consumption reduction](/handbook/engineering/development/enablement/memory/) to ensure it is affordable to run our open source version.
-1. A [tiered pricing model](/handbook/ceo/pricing/#three-tiers) with a very low pricepoint for our lowest tier.
+1. A [tiered pricing model](/company/pricing/#three-tiers) with a very low pricepoint for our lowest tier.
 
 ### Infrastructure Bundling
 {:#infrastructure-bundling}
