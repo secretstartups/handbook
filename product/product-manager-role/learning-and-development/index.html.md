@@ -45,7 +45,8 @@ These GitLab-specific items are also key for each product manager at GitLab:
 
 ##### Deeper dive
 
-- [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
+- [Introduction to Modern Product Discovery](https://medium.com/productized-blog/an-introduction-to-modern-product-discovery-by-teresa-torres-productizedconf-bb2703b01fdb) 
+- [Adopting Continuous Discovery Practices](https://www.youtube.com/watch?v=a2HidFrzYIA)
 
 ##### Online courses 
 
@@ -85,13 +86,13 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (video 5 min)
+- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (5 min video)
 - [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
 ##### Deeper dive
 
-- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (video 57 min)
-- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (video 57 min)
+- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (57 min video)
+- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (57 min video)
 - [Xavier Russo - A step-by-step guide to using Outcome Driven Innovataion](https://medium.com/envato/a-step-by-step-guide-to-using-outcome-driven-innovation-odi-for-a-new-product-ded320f49acb)
 
 ##### Online courses 
@@ -112,8 +113,8 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video 42 min)
-- [How to Run Amazing Remote Design Sprints!](https://www.youtube.com/watch?v=IFHfsRNTGCM) (video 60 min)
+- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (42 min video)
+- [How to Run Amazing Remote Design Sprints!](https://www.youtube.com/watch?v=IFHfsRNTGCM) (60 min video)
 - [Design Sprint Exercise Video Series](https://www.youtube.com/playlist?list=PLxk9zj3EDi0X5CgoFckoheIFAx-uT2i7j)
 
 ##### Online courses 
@@ -158,7 +159,9 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-[Leaders of Awesomeness](https://leaders.centercentre.com/) 
+- [Leaders of Awesomeness](https://leaders.centercentre.com/) 
+- [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
+- [Jared Spool: Using the Kano Model to Build Delightful UX](https://youtu.be/ewpz2gR_oJQ) (45 min video)
 
 ##### Online courses 
 
@@ -198,6 +201,7 @@ Please contribute your favorite resources here
 - [Brandon Chu: Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 - [Sean McBride: RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 - [Ash Maurya: Love the Problem, Not Your Solution](https://blog.leanstack.com/love-the-problem-not-your-solution/)
+- [Launch mode vs iterate mode](https://www.intercom.com/blog/launch-mode-vs-iterate-mode/)
 
 ##### Deeper dive
 
@@ -241,7 +245,7 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/) (video 54 min)
+- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/) (54 min video)
 
 ##### Online courses 
 
@@ -274,12 +278,12 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video 5 min)
+- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (5 min video)
 - [David Skok: SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/)
 
 ##### Deeper dive
 
-- [Financial Modeling for Product Managers](https://tpgblog.com/2015/05/04/product-financial-modeling/) (video 60 min)
+- [Financial Modeling for Product Managers](https://tpgblog.com/2015/05/04/product-financial-modeling/) (60 min video)
 
 ##### Online courses 
 
@@ -361,7 +365,7 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/) (video 20 min)
+- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/) (20 min video)
 
 ##### Online courses 
 
@@ -398,7 +402,7 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video 30 min)
+- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (30 min video)
 
 ##### Online courses 
 
