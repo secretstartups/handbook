@@ -54,10 +54,12 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
    - For almost all cases, the originating email should be the same as the one listed on the account.
    - An existing paid plain is required for 2FA resets.  However, challenge responses can be accepted from any group or project associated with the user.  This includes groups or projects that are not associated with a paid plan.
    - Backup to app: [Risk Factor Worksheet](https://drive.google.com/drive/u/0/search?q=Risk%20factor%20worksheet%20parent:1nI4lCILooN-0U_RmPJP6_cNyIDgXJR99) (internal only) with the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket with the table at the bottom of the sheet.
-1. Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
-1. For the peer reviewer: In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to the next section on what to do if successful.
+1. Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com` if the account verification passed. If the verification failed, a peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
+1. For the peer reviewer: In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#user-successfully-proves-account-ownership) on what to do if successful.
 
 #### User Successfully Proves Account Ownership
+
+This section will usually be done by the peer reviewer.
 
 1. For situations other than 2FA, please see [Account Changes workflow](account_changes.html).
 1. For disabling 2FA: If you agree with the decision, sign into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
