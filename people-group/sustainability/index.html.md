@@ -22,9 +22,15 @@ As GitLab's reach in the global developer community grows, so to does our impact
 
 [GitLab's mission is to create world where everyone can contribute](https://about.gitlab.com/company/strategy/#mission). When everyone can contribute, consumers become contributors and we greatly `increase the rate of human progress`.
 
-How and if we can permenantly increase the rate of human progress, in a meaningful and intentional way 
+_How_ and _if we can permenantly_ increase the rate of human progress is limited by humans' ability to focus on contributing. Today, we see a reduction in contributions when someone is located where there are extreme weather events like floods or wildfires. Tomorrow, we may see a drop in contributions due to dramatic shifts in weather patterns. 
+
+The total contributions of the wider community are at risk of permanet reduction, or even elimination, when [large groups of people will be required to relocate from their homes and disrupt their lives as migration due to climate change begins to take a larger toll on the planet than it is already taking today](https://www.nytimes.com/interactive/2020/07/23/magazine/climate-migration.html). 
+
+If we don't hold ourselves accountable for sustainability, GitLab will continue to attack our own mission, reducing the possibility of long term success.
 
 ## We'll let our values drive us
+
+`INSERT SECTION HERE`
 
 ## We recognize the truth
 
@@ -78,22 +84,28 @@ We don't know what our philosophy on sustainability will be yet. We don't have m
 ## Sustainable projects already in motion
 
 While not organized under a sustainability banner, the following projects have been driven by or considered sustainability.
-- 
-- 
-- 
+- x
+- x
+- x
 
 ## What comes next?
 
+- Identify that not addressing sustainability needs is [one of GitLab's biggest risks](https://about.gitlab.com/handbook/leadership/biggest-risks/).
+- x
 
 
 ## What can you do?
 
 #### Team Members
 
-
+`INSERT SECTION HERE`
 
 #### The Community 
 
+`INSERT SECTION HERE`
 
 
 #### Partner
+
+`INSERT SECTION HERE`
+
