@@ -182,6 +182,7 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [How to split a user story](https://agileforall.com/how-to-split-a-user-story/)
+- [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 
 ##### Deeper dive
 
@@ -254,7 +255,7 @@ Please contribute your favorite resources here
 
 ##### Books
 
-Please contribute your favorite resources here
+- [Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-dp-0062292986/dp/0062292986)
 
 #### Competitive analysis
 
@@ -420,7 +421,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+[Start with why -- how great leaders inspire action](https://www.youtube.com/watch?v=u4ZoJKF_VuA) (18 min video)
 
 ##### Deeper dive
 
@@ -432,8 +433,7 @@ Please contribute your favorite resources here
 
 ##### Books
 
-Please contribute your favorite resources here
-
+- [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
 ## Socializing in Product
 
 ### Blogs, videos and podcasts and more...
