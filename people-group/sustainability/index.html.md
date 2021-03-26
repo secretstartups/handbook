@@ -16,9 +16,13 @@ twitter_creator: "gitlab"
 
 ## Sustainability at GitLab
 
-As GitLab's reach on the global developer community grows, so to does our impact on the environment. While we intentionally operate within our values as a part of our operations, we have not yet understood how to apply our values on the impact our business has on the environment. This handbook page will document our growing body of work in aligning our sustainability initiatives with our values. 
+As GitLab's reach in the global developer community grows, so to does our impact on the environment. While we intentionally operate within our values as a part of our operations, we have not yet understood how to apply our values on the impact our business has on the environment. This handbook page will document our growing body of work in aligning our sustainability initiatives with our values. 
 
 ## GitLab's mission can't succeed without sustainability 
+
+[GitLab's mission is to create world where everyone can contribute](https://about.gitlab.com/company/strategy/#mission). When everyone can contribute, consumers become contributors and we greatly `increase the rate of human progress`.
+
+How and if we can permenantly increase the rate of human progress, in a meaningful and intentional way 
 
 ## We'll let our values drive us
 
@@ -26,11 +30,11 @@ As GitLab's reach on the global developer community grows, so to does our impact
 
 In order for our values to drive us to the right emissions reduction solutions, we'll need to recognize some truths that outline where we are today.
 
-##### The internet is a major carbon emitter
+#### The internet is a major carbon emitter
 
 What's out of sight is usually out of mind. So it's important that we recognize the truth: The emissions of the internet (gadgets, systems required to operate, and the internet itself) accounts for approximately 3.7% of global greenhouse emissions - **similar in size and scope to the emissions produced by the airline industry**. _source: [BBC](https://www.bbc.com/future/article/20200305-why-your-internet-habits-are-not-as-clean-as-you-think)_
 
-##### It's our responsbility and we must be held accountable
+#### It's our responsbility and we must be held accountable
 
 - Emissions caused by GitLab's business operations are GitLab's emissions to reduce now and eliminate soon.
 - Waste produced by our business operations is GitLab's waste to process.
@@ -42,7 +46,7 @@ By beginning work on internal sustainability initiatives, we're focusing our eff
 
 We hope to advocate for this position in our strategies and in the greater context of the global sustainability movement.
 
-##### GitLab will eventually be required to operate a sustainable business
+#### GitLab will eventually be required to operate a sustainable business
 
 Either by cultural or governing body regulations, most businesses won't be allowed to operate without a sustainable business strategy and public reporting on their efforts. We choose to organize our strategy before these regulations take effect and hope to advocate for these kinds of policies in the greater context of the global sustainability movement.
 
@@ -50,24 +54,46 @@ Either by cultural or governing body regulations, most businesses won't be allow
 
 We still have a lot to learn. But what we know today helps us to define how we'll move our sustainability initiatives forward.
 
-##### Being All-Remote is an advantage and a unique challenge for sustainability work
+#### Being All-Remote is an advantage and a unique challenge for sustainability work
 GitLab has eliminated a significant amount of emissions by not having a daily commute to work. However, we've also complicated our ability to account for the different types of electrcity use. In a co-located office in a traditional company, there is one electric bill. But in an all-remote company in over 60 countries, emissions generated from team member electricity use get more challenging to reduce or eliminate as the team grows. 
 
 Emissions caused by team member electricity use for GitLab's business operations are the responsibility of GitLab to reduce now and eliminate soon. 
 
-##### It's about acting as a fiduciary for our Team Members, Customers, Community, and Planet
+#### We must act as a fiduciary for our Team Members, Customers, Community, and Planet
 
 While most sustainability initatives focus on things we can do help the planet, the outcomes are intended on helping people. In order for us to take the lives and wellbeing of our team members, customers, and the community seriously, we need to act as a fiduciary for the planet.
 
-##### We have a lot of work to do
-Depending on how you look at the companies of the world and their commitments to sustaiability, GitLab may seem behind on the times. 
+#### We have a lot of work to do
 
-##### We must center our actions in equity
+Depending on how you look at the companies of the world and their commitments to sustaiability, GitLab may seem behind on the times. Many of our partners and competitors have already made public commitments to operate more sustainably. But this is also a good gauge to research the commitment levels across the industry and to make sure that GitLab's commitments don't just sound nice, but ladder to real targets.
 
-This deserves a special callout for discussing our values. While Diversity, Inclusion, and Belonging is a critical GitLab value, we must understand that witout intentionally working equity into our sustainability initiatives, we are not adequetley supporting our team members, customers, community or the planet. 
+#### We must center our actions in equity
 
-##### Reduce now, eliminate soon
+While Diversity, Inclusion, and Belonging is a critical GitLab value, we must understand that witout intentionally working equity into our sustainability initiatives, we are not adequetley supporting our team members, customers, community or the planet. 
+
+#### Reduce now, eliminate soon
+
+We don't know what our philosophy on sustainability will be yet. We don't have more information to share on what commitments we'll soon make. But we do know that we'll need to focus on reducing our emissions now so that we can begin to eliminate those emissions in the near future. 
 
 ## Sustainable projects already in motion
 
+While not organized under a sustainability banner, the following projects have been driven by or considered sustainability.
+- 
+- 
+- 
+
 ## What comes next?
+
+
+
+## What can you do?
+
+#### Team Members
+
+
+
+#### The Community 
+
+
+
+#### Partner
