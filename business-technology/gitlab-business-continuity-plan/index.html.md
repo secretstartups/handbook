@@ -155,34 +155,34 @@ Some testing scenarios that can be performed, are given below:
 
 # Business Impact Analysis
 
-The Business Impact Analysis (BIA) is developed as part of the Business Continuity Plan process.
+The Business Impact Analysis (BIA) is developed as part of the Business Continuity Plan process and is a point-in-time analysis of system components that determines the criticality and potential impact to GitLab's mission-critical processes and data as well as impact to GitLab should the system component become unavailable. This quantitative analysis allows GitLab to establish priority levels for sequencing recovery activities and resources.
 
 ## Purpose
 
 The purpose of the BIA is to identify and prioritize system components by correlating them to mission critical processes that support the functioning of GitLab. Using this information to characterize what would be the impact to GitLab, if any of these systems were to be unavailable.
 
-### The Business Impact Analysis is composed of the following:
+### The Business Impact Analysis Results in the following:
 
-1. Determine data classification and approved operating System usage:   GitLab data and system resources can more clearly be linked to mission critical business processes by way of classifying them based on sensitivity.  These priority levels can be established for sequencing recovery activities and resources. Additionally, the existence of an approved set of operating systems platforms will facilitate ease of management and quick turnaround and repair when they are non-functional.
+1. Determining data classification and approved operating System usage:   GitLab data and system resources can more clearly be linked to mission critical business processes by way of classifying them based on sensitivity.  These priority levels can be established for sequencing recovery activities and resources. Additionally, the existence of an approved set of operating systems platforms will facilitate ease of management and quick turnaround and repair when they are non-functional.
 
     - [GitLab’s Data Classification policy covers all aspects of this requirement:](/handbook/engineering/security/data-classification-standard.html)
     - [Approved Operating Systems](/handbook/security/approved_os.html)
 
-1. Determine mission critical business processes and recovery criticality: In this step, GitLab’s mission critical business processes / systems are identified and the impact of a system disruption to those processes is determined along with outage impacts and estimated downtime.  The downtime reflects the maximum, that an organization can tolerate while still maintaining the mission.
+1. Determining mission critical business processes and recovery criticality: In this step, GitLab’s mission critical business processes / systems are identified and the impact of a system disruption to those processes is determined along with outage impacts and estimated downtime.  The downtime reflects the maximum, that an organization can tolerate while still maintaining the mission.
 
-    - This is covered in the [priority::1, priority::2, priority::3: Outages and their immediate impact on GitLab customer/user operations](/handbook/business-technology/gitlab-business-continuity-plan#data-continuity-system)
+    - This is covered in the [priority::1, priority::2, priority::3: Outages and their immediate impact on GitLab customer/user operations](/handbook/business-ops/gitlab-business-continuity-plan#data-continuity-system)
 
-1. Identify resource requirements:  Realistic recovery efforts require a thorough evaluation of the resources required to resume business processes and related interdependencies as quickly as possible.  Examples of resources that should be identified include software, data files, system components, and vital records.
+1. Identifying resource requirements:  Realistic recovery efforts require a thorough evaluation of the resources required to resume business processes and related interdependencies as quickly as possible.  Examples of resources that should be identified include software, data files, system components, and vital records.
 
     - The [Backup and Recovery process](/handbook/engineering/security/guidance/BU.1.01_backup_configuration.html) in GitLab is robust enough to satisfy the above requirement as it relates to GitLab.com.
 
-1. Determine alternate storage and strategies:  Identify any alternate strategies in place to meet expected RTOs.  This includes backup or spare equipment and vendor support contracts.[GitLab alternate storage process, serves to securely store data in an alternate location from source data](/handbook/engineering/security/guidance/BU.1.03_alternate_storage.html)
+1. Determining alternate storage and strategies:  Identify any alternate strategies in place to meet expected RTOs.  This includes backup or spare equipment and vendor support contracts.[GitLab alternate storage process, serves to securely store data in an alternate location from source data](/handbook/engineering/security/guidance/BU.1.03_alternate_storage.html)
 
-1. Identify recovery priorities for system resources based on standards: Adherence to GitLab's agreed upon RTO/ RPO:  Apart from determining the [RTO and RPO](/handbook/business-technology/gitlab-business-continuity-plan#recovery-time-objective-rto-and-recovery-point-objective-rpo), BIA also defines Maximum Tolerable Downtime (MTD)
+1. Identifying recovery priorities for system resources based on standards: Adherence to GitLab's agreed upon RTO/ RPO:  Apart from determining the [RTO and RPO](/handbook/business-ops/gitlab-business-continuity-plan#recovery-time-objective-rto-and-recovery-point-objective-rpo), BIA also defines Maximum Tolerable Downtime (MTD)
 
     - The Maximum Tolerable Downtime (MTD) - represents the total amount of time senior management are willing to accept for a mission/business process outage or disruption and includes all impact considerations.  Determining MTD is important because it could leave continuity planners with imprecise direction on (1) selection of an appropriate recovery method, and (2) the depth of detail which will be required when developing recovery procedures, including their scope and content.
 
-1. Delegation and defining the process:  Designate each incident as critical or non-critical based on the business priority. Compile a list of personnel who must be in place to perform these functions. In times of an occurrence of an incident, a detailed step-by-step approach about how to communicate it to the group, how it is performed, who performs it, and the operational mode of action taken.
+1. Delegating and defining the process:  Designate each incident as critical or non-critical based on the business priority. Compile a list of personnel who must be in place to perform these functions. In times of an occurrence of an incident, a detailed step-by-step approach about how to communicate it to the group, how it is performed, who performs it, and the operational mode of action taken.
 
 The following links show the process carried out at GitLab to cater to this requirement:
 
@@ -193,10 +193,30 @@ The following links show the process carried out at GitLab to cater to this requ
 - On-Call Runbooks - Incident response runbooks for [on-call engineers](/handbook/engineering/infrastructure/incident-management/#on-call-runbooks). .
 - Support Team function in the [handbook](/handbook/support/).
 
+## BIA Procedure
+
+1. A formal BIA questionnaire is distributed to the technical system owners for each system, as listed in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). If there are multiple individuals listed, one team member will be selected. The questionnaire will be sent to the team member's GitLab email directly from GitLab's GRC Application, ZenGRC. Additional information on completing this questionnaire can be found on the [ZenGRC Activities](https://about.gitlab.com/handbook/engineering/security/security-assurance/zg-activities.html#completing-zengrc-questionnaires) handbook page.
+
+2. Once all responses have been received, the data will be sanitized and aggregated. Follow-ups with technical owners will be completed as required to ensure the data used is accurate, complete, and objective.
+
+3. Mission critical systems are identified and next steps are taken to ensure that a system recovery/business continuity plan is documented accordingly.
+
+4. On a periodic basis, the BIA is reviewed and will be reperformed. While we do not anticipate significant changes year over year, as part of our due diligence and compliance needs, GitLab is required to make sure that system recovery/business continuity plans are up-to-date so that team members are always prepared to respond to system disruptions or outages.
+
+### BIA Schedule
+
+The FY22 BIA will be completed in phases with the goal that all systems listed in the tech stack will undergo the [BIA Procedure](#bia-procedure). The current planned schedule is:
+
+|Systems|BIA Procedures|
+|----------|----------|
+|SOX and SOC2 in-scope systems ([Tier 1 and Tier 2 critical systems](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|FY22 Q1 / Q2|
+|Non- SOX and SOC2 systems that store or process RED or ORANGE Data ([Tier 3 critical systems](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|TBD|
+|All remaining systems ([Tier 4 - non-critical sysetms](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|TBD|
+
 ## Conclusion
 
 The most important part of the Business Impact Analysis is to weigh the exactness of all findings. Communicate the findings to the respective department managers or key personnel to ensure that the assumptions made are in fact accurate and realistic. Once the accuracy of the documented findings has been established and agreed to by all parties, these BIA findings are submitted to GitLab's [e-group](/company/team/structure/#e-group) for approval.
 
-### Plan update and protect from disclosure
+## Plan update and protect from disclosure
 
 The BIA report will be updated based on changes to the organization, information system, or environment of operation and problems encountered during the implementation, execution, or testing.  This plan will be protected from unauthorized disclosure and modification. Finally, all the Business Impact Analysis data will be stored in a safe place for future reference in the event of a disaster.
