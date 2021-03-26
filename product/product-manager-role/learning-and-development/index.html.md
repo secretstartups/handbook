@@ -345,6 +345,10 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
+##### Examples
+
+- [Example CAB Presentation](https://docs.google.com/presentation/d/11YI6zj3qMeTwXTmdovuZLEM2i3D-eNMdNXcQgc9coc8/edit#slide=id.g85b09e34a4_0_5)
+
 ### Team Management
 
 #### Stakeholder management
