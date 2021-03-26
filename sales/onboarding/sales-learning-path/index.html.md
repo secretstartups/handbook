@@ -93,7 +93,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - The below are resources you might want to review or bookmark for later.
       - [GitLab Terms & Conditions](https://about.gitlab.com/terms/)
       - [GitLab Marketing Materials Repository](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/resources/downloads): Check out the GitLab.com marketing materials repository to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send downloaded copies to your clients to help them understand GitLab value.
-      - [GitLab Pricing Model](https://about.gitlab.com/handbook/ceo/pricing/): Check out the chart to understand our pricing model. For additional context take a look at the handbook page on [pricing](https://about.gitlab.com/pricing/). 
+      - [GitLab Pricing Model](https://about.gitlab.com/company/pricing/): Check out the chart to understand our pricing model. For additional context take a look at the handbook page on [pricing](https://about.gitlab.com/pricing/). 
 
 ### 5. Field Roles & Expectations
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
