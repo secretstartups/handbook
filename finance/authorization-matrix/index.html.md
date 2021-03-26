@@ -49,11 +49,11 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"><b>Exec Team</b></div>
   <div class="item-auth-matrix"><b>CEO</b></div>
   <div class="item-auth-matrix"><b>Board</b></div>  
-  <div class="item-auth-matrix"><b>PAO or VP, FP&A</b></div>
+  <div class="item-auth-matrix"><b>PAO or VP Finance</b></div>
   <div class="item-auth-matrix"><b>CFO</b></div>
   <div class="item-auth-matrix"><b>Director of Legal/CLO</b></div>
-  <div class="item-auth-matrix" style="grid-column: 1/12"><b>Operating Expenses, Vendor Contracts and Capital Asset Additions</b></div>  
-  <div class="item-auth-matrix">Up to $10K</div>  
+  <div class="item-auth-matrix" style="grid-column: 1/12"><b>Approving expense<sup>(1)(4)</sup></b></div>  
+  <div class="item-auth-matrix">>$0K to $25K</div>  
   <div class="item-auth-matrix"></div>  <!-- Team Member -->
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -61,10 +61,10 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal -->
-  <div class="item-auth-matrix">>$10K up to $25K</div>
+  <div class="item-auth-matrix">>$25K up to $50K</div>
   <div class="item-auth-matrix"></div>  <!-- Team Member -->
   <div class="item-auth-matrix"></div>  <!-- Manager -->
   <div class="item-auth-matrix">Approves</div>  <!-- Director --> 
@@ -72,10 +72,10 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal -->
-  <div class="item-auth-matrix">>$25K up to $50K</div>  
+  <div class="item-auth-matrix">>$50K up to $250K</div>  
   <div class="item-auth-matrix"></div>  <!-- Team Member -->
   <div class="item-auth-matrix"></div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -83,10 +83,10 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal -->
-  <div class="item-auth-matrix">>$50K up to $100K</div> 
+  <div class="item-auth-matrix">>$250K up to $500K</div> 
   <div class="item-auth-matrix"></div>  <!-- Team Member -->
   <div class="item-auth-matrix"></div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -94,10 +94,10 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves</div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP, FP&A -->
-  <div class="item-auth-matrix"></div>  <!-- CFO -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
+  <div class="item-auth-matrix">Approves/Signs<sup>(5)</sup></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal -->
-  <div class="item-auth-matrix">$100K to $250K</div> 
+  <div class="item-auth-matrix">$500K to $1M</div> 
   <div class="item-auth-matrix"></div>  <!-- Team Member -->
   <div class="item-auth-matrix"></div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -105,10 +105,10 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
   <div class="item-auth-matrix"></div> <!-- Board -->
-  <div class="item-auth-matrix"></div>  <!-- PAO or VP, FP&A -->
-  <div class="item-auth-matrix">Approves/Signs<sup>(8)</sup></div> <!-- CFO -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
+  <div class="item-auth-matrix">Signs</div> <!-- CFO -->
   <div class="item-auth-matrix"></div> <!-- Legal --> 
-  <div class="item-auth-matrix">$250K+</div> 
+  <div class="item-auth-matrix">$1M+</div> 
   <div class="item-auth-matrix"></div>  <!-- Team Member -->
   <div class="item-auth-matrix"></div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -116,9 +116,32 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
   <div class="item-auth-matrix">Approves<sup>(2)</sup></div> <!-- Board -->
-  <div class="item-auth-matrix"></div>  <!-- PAO or VP, FP&A -->
-  <div class="item-auth-matrix">Approves/Signs<sup>(8)</sup></div> <!-- CFO -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
+  <div class="item-auth-matrix">Signs</div> <!-- CFO -->
   <div class="item-auth-matrix"></div> <!-- Legal --> 
+  <div class="item-auth-matrix" style="grid-column: 1/12"><b>Approving Payment<sup>(1)</sup></b></div>
+  <div class="item-auth-matrix">>$0K to $250K</div>  
+  <div class="item-auth-matrix"></div>  <!-- Team Member -->
+  <div class="item-auth-matrix"></div>  <!-- Manager -->
+  <div class="item-auth-matrix"></div>  <!-- Director --> 
+  <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
+  <div class="item-auth-matrix"></div>  <!-- Exec Team -->
+  <div class="item-auth-matrix"></div>  <!-- CEO -->
+  <div class="item-auth-matrix"></div>  <!-- Board -->
+  <div class="item-auth-matrix">X</div>  <!-- PAO -->
+  <div class="item-auth-matrix"></div>  <!-- CFO -->
+  <div class="item-auth-matrix"></div>  <!-- Legal -->
+  <div class="item-auth-matrix">>$250K+</div>  
+  <div class="item-auth-matrix"></div>  <!-- Team Member -->
+  <div class="item-auth-matrix"></div>  <!-- Manager -->
+  <div class="item-auth-matrix"></div>  <!-- Director --> 
+  <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
+  <div class="item-auth-matrix"></div>  <!-- Exec Team -->
+  <div class="item-auth-matrix"></div>  <!-- CEO -->
+  <div class="item-auth-matrix"></div>  <!-- Board -->
+  <div class="item-auth-matrix"></div>  <!-- PAO -->
+  <div class="item-auth-matrix">X</div>  <!-- CFO -->
+  <div class="item-auth-matrix"></div>  <!-- Legal -->
   <div class="item-auth-matrix" style="grid-column: 1/12"><b>Legal Contracts</b></div>   
   <div class="item-auth-matrix">Standard Terms</div>  
   <div class="item-auth-matrix"></div>  <!-- Team Member -->
@@ -128,7 +151,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Signs</div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix">Signs/Approves</div>  <!-- Legal -->
   <div class="item-auth-matrix">Changes to Standard Terms and Vendor Contracts</div>
@@ -139,7 +162,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves</div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix">Signs/Approves</div>  <!-- Legal --> 
   <div class="item-auth-matrix">Non standard terms > $0.5M annual revenue	</div>  
@@ -150,7 +173,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix"></div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix">Signs</div> <!-- CFO -->
   <div class="item-auth-matrix">Signs/Approves</div>   <!-- Legal --> 
   <div class="item-auth-matrix">NDA - GitLab Template</div> 
@@ -161,7 +184,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Signs</div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div> <!-- Board -->
-  <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div> <!-- CFO -->
   <div class="item-auth-matrix">Signs/Approves</div> <!-- Legal --> 
   <div class="item-auth-matrix">NDA - Third Party</div> 
@@ -172,7 +195,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div> <!-- Board -->
-  <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div> <!-- CFO -->
   <div class="item-auth-matrix">Signs/Approves</div> <!-- Legal --> 
   <div class="item-auth-matrix" style="grid-column: 1/12"><b>Bad debt write off</b></div>   
@@ -184,7 +207,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves</div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Approves</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Approves</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal -->
   <div class="item-auth-matrix">$10K to $100K</div>
@@ -195,7 +218,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Approves</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Approves</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal --> 
   <div class="item-auth-matrix">$100K plus</div>
@@ -206,7 +229,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
   <div class="item-auth-matrix">Advised</div>  <!-- Board -->
-  <div class="item-auth-matrix"></div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix">Approves</div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal --> 
   <div class="item-auth-matrix" style="grid-column: 1/12"><b>Compensation/Hiring - non-executive</b></div>   
@@ -218,7 +241,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves</div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix"></div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal -->
   <div class="item-auth-matrix">Initial hiring Non-Budgeted</div>
@@ -229,7 +252,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Approves</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Approves</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal --> 
   <div class="item-auth-matrix">Use of Search Firm</div>
@@ -240,7 +263,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
   <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix"></div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal -->
   <div class="item-auth-matrix">Increases (Budgeted)</div>  
@@ -251,7 +274,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves</div>  <!-- Exec Team -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">Approves</div>  <!-- PAO or VP, FP&A -->
+  <div class="item-auth-matrix">Approves</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- Legal -->
   <div class="item-auth-matrix">Increases (Not Budgeted)</div>
@@ -385,9 +408,9 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="tr-auth-matrix grid-empty"></div>
   <div class="tr-auth-matrix"><b>Board</b></div>
   <div class="tr-auth-matrix">Letters of Credit</div>
-  <div class="tr-auth-matrix">Approves</div>
+  <div class="tr-auth-matrix">Over $2.5M - Approval required</div>
   <div class="tr-auth-matrix">Guarantees</div>
-  <div class="tr-auth-matrix">Approves</div>
+  <div class="tr-auth-matrix">Over $2.5M - Approval required</div>
   <div class="tr-auth-matrix">Debt/Loan Financings</div>
   <div class="tr-auth-matrix">Approves</div>
   <div class="tr-auth-matrix">Loan Renewals</div>
@@ -396,36 +419,36 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="tr-auth-matrix">Approves</div>
   <div class="tr-auth-matrix">Equity Financings</div>
   <div class="tr-auth-matrix">Approves</div>
-  <div class="tr-auth-matrix">Opening Closing Bank Accounts	</div>
-  <div class="tr-auth-matrix">Approves</div>
+  <div class="tr-auth-matrix">Changing Banks</div>
+  <div class="tr-auth-matrix">No Approval required; covered under Opening or Closing Bank Accounts</div>  
+  <div class="tr-auth-matrix">Opening or Closing Bank Accounts</div>
+  <div class="tr-auth-matrix">Chief Executive Officer approval (Delegation of approval authority to CEO to be recommended to the full BOD)</div>
   <div class="tr-auth-matrix">Establish, liquidate, or change the legal status of an entity</div>
   <div class="tr-auth-matrix">Approves</div>
   <div class="tr-auth-matrix">Acquire an entity</div>
-  <div class="tr-auth-matrix">Approves</div>
+  <div class="tr-auth-matrix">Over $2.5M - Approval required</div>
   <div class="tr-auth-matrix">Decisions to file a lawsuit or accept an injunction or consent decree (other than collection of receivables in due course)</div>
-  <div class="tr-auth-matrix">Approves</div>
-  <div class="tr-auth-matrix">Decision to withdraw from/settle a lawsuit > $50,000</div>
+  <div class="tr-auth-matrix">Chief Legal Officer Approves</div>
+  <div class="tr-auth-matrix">Decision to withdraw from/settle a lawsuit >$250K</div>
   <div class="tr-auth-matrix">Approves</div>
   <div class="tr-auth-matrix">Hiring or terminating corporate counsel</div>
-  <div class="tr-auth-matrix">Approves</div>
+  <div class="tr-auth-matrix">No Approval required</div>
   <div class="tr-auth-matrix">Amendment to subsidiary charter or by-laws</div>
-  <div class="tr-auth-matrix">Approves</div>
+  <div class="tr-auth-matrix">No Approval required</div>
   <div class="tr-auth-matrix">Change to equity structure and option plans</div>
   <div class="tr-auth-matrix">Approves</div>
+  <div class="tr-auth-matrix">Severance payments greater than 4 weeks of severance payments or the amount of severance payment required by local law or regulation which are not provided for in Company policies or plans</div>
+  <div class="tr-auth-matrix">Chief Legal Officer Approves</div>
 </div>
 
 
 **Notes/Comments**:
 
-- (1) If in Plan
-- (2) If Not Included in Company Plan
-- (3) Approved by Compensation Committee (or Board if no Compensation Committee)
-- (4) Approval from [function](/company/team/structure/#table) responsible for supporting associated objectives and goals 
-- (5) CEO review of transaction should ensure request submitted from member of accounting team and in-line with past practice.
-- (6) Recurring consumption operating costs on approved contracts do not require multiple approvals. Spend analysis is monitored on a quarterly basis against Plan. Approved costs in this category include hosting services for gitlab.com, bounty programs, lead generation ad placement spend.
-- (7) Only applies to approvals outside of the discount authorization matrix.
-- (8) For cloud provider committed usage (GCP only) transactions, CFO delegates approvals to VP Finance (not to exceed CFO signing limit)
-- (9) The CEO approves all initial multiyear commitments. Renewals of existing systems subject to approval levels in above table.
+- (1) Delegation of authority not to exceed 90 days in duration is permitted. Written notice of delegation shall be provided by the  delegating team member to the CFO,  CLO,  PAO and Director of Legal, Corporate in order for the delegation to be effective.
+- (2) If not included in Company Plan.
+- (3) Approved by Compensation Committee.
+- (4) Approval from [function](/company/team/structure/#table) responsible for supporting associated objectives and goals.
+- (5) Only applies to approvals outside of the discount authorization matrix.
 
 ## Banking Controls
 
