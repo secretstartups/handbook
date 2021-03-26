@@ -129,7 +129,9 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-[Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
+- [Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
+- [10 Statistics Traps in A/B Testing: The Ultimate Guide for Optimizers](https://cxl.com/blog/testing-statistics-mistakes/)
+- [5 Common Threats to Your A/B Test’s Validity](https://instapage.com/blog/validating-ab-tests)
 
 ##### Deeper dive
 
@@ -392,6 +394,7 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
+- [How to Improve Your Emotional Intelligence to Become a Better Leader](https://getlighthouse.com/blog/how-to-improve-emotional-intelligence/)
 
 ##### Deeper dive
 
@@ -438,6 +441,7 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 - [https://www.intercom.com/blog/product-and-design/](https://www.intercom.com/blog/product-and-design/)
 - [https://producthabits.com/blog/](https://producthabits.com/blog/)
 - [https://www.mindtheproduct.com/](https://www.mindtheproduct.com/)
+- [https://cutlefish.substack.com/](https://cutlefish.substack.com/)
 
 #### Podcasts
 
