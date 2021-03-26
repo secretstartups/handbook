@@ -152,7 +152,7 @@ This performance indicator tracks the mean time to get the system back up and ru
 ## New Hire Location Factor < 0.69
 
 - [Average Location Factor](/handbook/people-group/people-operations-metrics/#average-location-factor)
-- [Finance Team KPIs](/handbook/ceo/kpis/#finance-team-kpis)
+- [Finance Team KPIs](/company/kpis/#finance-team-kpis)
 
 ## Number of days since last environment audit
 

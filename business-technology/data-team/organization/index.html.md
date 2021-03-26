@@ -25,11 +25,11 @@ The data fusion model emphasizes 2 elements:
 
 | **Go To Market (GTM)** | **Product** | **G&A** |
 | ----- | ----- | ----- |
-| `@iweeks` _Lead/DRI_ | `@ktam` _Lead/DRI_	| `@pluthra` _Lead/DRI_ | 
-| `@jeanpeguero` |	`@mpeychet` | `@ken_aguilar`  |
-| `@jjstark` | `@m_walker` | `@vedprakash2021` |
+| `@iweeks` _Lead/DRI_ | `@rparker2` (Acting) _Lead/DRI_	| `@rparker2` (Acting) _Lead/DRI_ | 
+| `@jeanpeguero` |	`@mpeychet` |  |
+| `@jjstark` | `@m_walker` |  |
 | `@paul_armstrong` | `@snalamaru` | |
-| |	`@laddula` | |	
+| `@ken_aguilar` |	`@laddula` | |	
 						
 ### Engagement with Business Partners and Data Champions includes:
 
