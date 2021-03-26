@@ -21,7 +21,7 @@ In addition to license utilization, we need to measure the depth of user engagem
 
 ## Source Code Management (SCM)
 
-SCM is considered one of the initial land use cases. To that end, we want to ensure the customer is using it appropriately.
+SCM is considered one of the initial land use cases. To that end, we want to ensure the customer is using it appropriately. For customers after their initial 1 month purchase:
 
 |                       | **Red** | **Yellow** | **Green** |
 | --------------------- | ------- | ---------- | --------  |
@@ -33,7 +33,7 @@ SCM is considered one of the initial land use cases. To that end, we want to ens
 
 ## Continuous Integration (CI)
 
-CI is considered both an initial purchase reason or, in the case of SCM, an expansionary use case (one after the initial purchase intent has been solved).
+CI is considered both an initial purchase reason or, in the case of SCM, an expansionary use case (one after the initial purchase intent has been solved). For customers after their initial 1 month purchase:
 
 |                    | **Red** | **Yellow** | **Green** |
 | ------------------ | ------- | ---------- | --------  |
@@ -42,7 +42,7 @@ CI is considered both an initial purchase reason or, in the case of SCM, an expa
 
 ## DevSecOps
 
-For customers on Ultimate, we want to measure their effectiveness and usage with Ultimate-level functionality.
+For customers on Ultimate, we want to measure their effectiveness and usage with Ultimate-level functionality. For customers after their initial 1 month purchase:
 
 |                             |                         | **Red** | **Yellow** | **Green** |
 | --------------------------- | ----------------------- | ------- | ---------- | --------  |
