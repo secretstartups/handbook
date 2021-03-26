@@ -112,6 +112,7 @@ Within Unbabel
 * Korean
 * Portuguese - includes Portuguese(BR)
 * Spanish - includes Spanish Latin America
+* French
 
 #### Configuring Unbabel in Zendesk
 
