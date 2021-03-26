@@ -49,7 +49,7 @@ Our Objectives and Key Results per quarter: https://about.gitlab.com/company/okr
 All team members and numbers per department: https://about.gitlab.com/company/team/
 Handbook with all our processes in: /handbook/
 Pricing plans: https://about.gitlab.com/pricing/
-Pricing strategy: /handbook/ceo/pricing/
+Pricing strategy: /company/pricing/
 History: https://about.gitlab.com/company/history/
 About: https://about.gitlab.com/company/
 All Remote: https://about.gitlab.com/company/culture/all-remote/ 
@@ -103,7 +103,7 @@ If people want advice on open source, remote work, or other things related to Gi
 >   * [All team members and numbers per department](/company/team/)
 >   * [Handbook of 3000 pages with all our processes](/handbook/)
 >   * [Pricing plans](/pricing/)
->   * [Pricing strategy](/handbook/ceo/pricing/)
+>   * [Pricing strategy](/company/pricing/)
 >   * [History](/company/history/)
 >   * [About](/company/)
 >   * [All Remote](/all-remote/)
