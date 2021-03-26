@@ -203,6 +203,11 @@ Our hiring process includes an **optional** step where candidates can request to
 
 When a candidate requests to meet with an TMRG team member, their Candidate Experience Specialist will do the following:
 1. Share a message in the respective TMRG Slack channel. To aide with scheduling, the message will include the candidate’s time zone and a request for volunteers who would be willing to speak to that person for a 25-minute Zoom call. 
+
+**Suggested Language**
+
+Hi, All! We're looking for a volunteer who would be willing to speak to a candidate for a 25-minute Zoom call. The candidate is located in <LOCATION>. More information regarding the purpose of this call can be found [here](https://about.gitlab.com/company/culture/inclusion/recruiting-initiatives/#speaking-with-tmrg-members-in-the-hiring-process). If you’d like to volunteer, please let me know and provide me with your Calendly link to send to the candidate. Thank you!
+
    - Below are the slack channels you can ask for volunteers in  
       - #lgbtq
       - #women
@@ -211,9 +216,9 @@ When a candidate requests to meet with an TMRG team member, their Candidate Expe
       - #gender-minorities-employee-resource-group
       - #generational_understanding
 
-1. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG members’ Calendly link and GitLab team page profile.
+2. Once a volunteer has been found the Candidate Experience Specialist will send the candidate the 'TMRG Opportunity' email template. The CES will need to get the TMRG members’ Calendly link and GitLab team page profile.
 
-1. If a volunteer has not been found within 24 hours the CES team member will reach out to the [TMRG lead(s)](/company/culture/inclusion/erg-guide/) and request assistance with scheduling. If a volunteer has not been found within 2 business days of the request, the CES will ask the TMRG lead to take part in the conversation.
+3. If a volunteer has not been found within 24 hours the CES team member will reach out to the [TMRG lead(s)](/company/culture/inclusion/erg-guide/) and request assistance with scheduling. If a volunteer has not been found within 2 business days of the request, the CES will ask the TMRG lead to take part in the conversation.
 
 As a GitLab team member taking part in these calls, we advise you to start with a short introduction to you and your role here at GitLab. From here, we advise you to let the candidate lead the conversation as the goal is for you to answer their questions and offer insight into how we work.
 
