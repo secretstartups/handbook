@@ -12,13 +12,17 @@ description: "GitLab's response process for marketing emergencies"
 
 ## Marketing Emergency Response
 
-At times GitLab needs to communicate a "breaking" change or details related to a high-priority emergency patch. These emails are transactional in nature and are highly targeted to the impacted audience. 
+At times GitLab needs to communicate a "breaking" change or details related to a high-priority emergency patch. These emails are transactional in nature and are highly targeted to the impacted audience.
 
-When Marketing Ops is pinged for assistance in emergency communication situation it is either to support the Marketing Program Managers (MPMs) or because the MPMs are not reachable as its off-hours. 
+<!-- Note to Amy: should we put a timeframe on what we consider an emergency? -->
 
-The Security team *should* create an [incident communication request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) in the Digital Marketing Program project. This template is built to auto label and assign to the correct people. In addition to filling out the issue, please contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, and no timely response in slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+**Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](/handbook/marketing/emergency-response/#customer-comms-email) which will not alert fire drills to teams involved, but will enable teams to work together and plan.
 
-In the template the Security team should include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
+**As soon as an emergency communication to customers is recognized, the Security team MUST:**
+1. Create an **[incident communication request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)** (built to auto label and assign to the correct people)
+1. Notify in the #mktgops Slack channel
+1. If there is not a timely response (<!-- how much time is timely Amy? -->) in Slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+1. In the template the Security team will include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
 
 ## Roles and Responsibilities
 ### Requestor is responsible for: 
@@ -26,7 +30,7 @@ In the template the Security team should include details including CTA, email bo
 * Providing FINAL email, landing page, form copy, autoresponder copy, etc.
     * NOTE: The addition of each item will increase scope and potentially delay announcement
 * Requesting target list from Data Team (creating the issue)
-* Creating [email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/incident_communications.md)
+* Creating [email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
 * Providing approval list and who signs off on the email
 * Approving test email 
 * Providing any edits to the test email
@@ -54,7 +58,7 @@ This is the process to follow when there is an announcement that is an emergency
 ### 1. **Requesting team notifies that an emergency communication is needed**
 - Immediately slack #mktgops and include the incident issue and the incident slack channel. If there is not a prompt response, follow on-call procedures.
 ### 2. **Issue Creation**
- - Request issue utlizing [Incident Communications template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new#incident_communications) in the Marketing Operations project.
+ - Request issue utlizing [Incident Communications template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) in the Marketing Operations project.
 - Fill in as many blanks as you can with as much information as you have available - the issue template will walk you through what is needed. Feel free to add any additional context that may be helpful. If you do not have all the information, that is OK, as we know it is an ongoing development. 
 - Add Due Date (or best guess)
 - Include googlesheet of copy document, even if it is blank.
@@ -105,3 +109,51 @@ The email platform determines many different factors for us.
 ## Pager Duty
 
 You can page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+
+## Customer Update / Announcement Emails
+{: #customer-comms-email .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+This section should be used for non-emergency, planned customer communications. As much as possible, we will work across all teams at GitLab to understand upcoming needs to communicate via email to customers.
+
+### Epic Code & Issues
+{: #customer-comms-epic-issues .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+The requestor (Security, TAM, etc.) will follow the process below to create the epic, which will have quick links to the appropriate issues to open.
+
+* Create epic here and input code below: [https://gitlab.com/groups/gitlab-com/-/epics/new](https://gitlab.com/groups/gitlab-com/-/epics/new)
+
+```
+### :exclamation: Action items for requestor to complete
+*Note: this will automatically be a confidential epic.*
+* [ ] Once created, associate this epic to parent epic (if exists)
+* [ ] Create issues in section at bottom
+* [ ] Ensure all issues are associated to this epic
+
+### :star: Purpose
+<!-- Requestor, please describe the purpose of the email communication in this section for context by all teams involved -->
+
+### :link: Key links
+* [Copy Document]() `to be added by requestor ` ([use this template](https://docs.google.com/document/d/1hv0XF7j6SibLgHgGFxxlrbPrufxbcXHrO8ZRG04nFjU/edit#))
+* [Target List]() `to be added by requestor when final`
+* [Marketo Program]() `to be added by MOps` [shortcut](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4267A1)
+* **Determine email platform:**
+   - [ ] If list less than 20k, most likely deploy with Marketo
+   - [ ] If list 20-30k, most likely deploy with MailJet
+   - [ ] If list greater than 50k, most likely deploy with MailGun
+
+### :books: Issues for requestor to create (shortcuts below)
+* [ ] [Request target list issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) (Data Download Request template) - requestor open, Data Team DRI
+* [ ] [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) - requestor open, MOps DRI
+  - the email issue is blocked until requestor provides final copy
+* [ ] If landing page required: [Landing Page request issue]() (optional, will increase scope and delay timeline) - requestor open, MOps DRI
+
+### :point_up: Reminders on action items & timeline
+* Requestor is responsible for providing FINAL copy, including review by all reviewers, by date indicated in timeline
+* Requestor is responsible for providing list of who must review and approve email
+* Requestor is responsible for approving test email and providing send time and date
+
+/confidential
+/label ~"MktgOps-Urgency::P1" ~"MktgOps-Priority::High Priority" ~"Customer Success" ~TAM 
+```
