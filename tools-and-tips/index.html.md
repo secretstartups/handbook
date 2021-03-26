@@ -163,7 +163,7 @@ Manual upkeep of the maintainer training issue can be time consuming. There are 
 - https://gitlab.com/nolith/review-tanuki
 - https://gitlab.com/splattael/traintainer
 - https://gitlab.com/arturoherrero/trainee
-- https://gitlab.com/caalberts/review-tanuki
+- https://gitlab.com/alberts-gitlab/review-tanuki
 
 ## www-gitlab-com Tips
 
