@@ -458,6 +458,19 @@ Salesforce campaigns are used to track efforts of marketing tactics - field even
 The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking.
 Leveraging campaign aligns our efforts across Marketing, Sales and Finance. For information on integrated campaigns (managed by Marketing Programs), please see the [Integrated Campaigns handbook page](/handbook/marketing/campaigns/) and to learn more about planned, in progress, and previously executed campaign tactics, please see the [Marketing Programs handbook page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/).
 
+## Outreach & Tracking End of Availability Customers
+
+To ensure that we're engaged with those customers who were a part of the Starter/Bronze End of Availability initiative, Sales is asked to track their outreach (and other engagements) in SFDC by way of activities.  Below are the steps to ensure we're capturing that activity: 
+
+**Process For Tracking EoA Customer Outreach:** You should follow your existing outreach cadence and tracking via SFDC activities.  However, for any/all outreach to EoA customers, you make two important updates in SFDC:
+1. Enter the words “Starter”, “Bronze” or “EoA” in some capacity in the Activity Comments
+1. Update the `EoA Sentiment` field on the Account (red, yellow, green - defined in the help text)
+
+**Reporting**: 
+- All EoA customers can now be tracked in SFDC leveraging the `FY22 On Starter/Bronze` field (if box is checked, they’re an EoA customer).  A full list by segment, region and owner can be found [HERE](https://gitlab.my.salesforce.com/00O4M000004ajNm)
+- EoA account list: https://gitlab.my.salesforce.com/00O4M000004ajNm
+- EoA accounts with activity: https://gitlab.my.salesforce.com/00O4M000004ajpR
+
 ## System Set-up
 
 ##### Marketo Programs
