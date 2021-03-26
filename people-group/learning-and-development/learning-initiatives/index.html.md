@@ -96,6 +96,11 @@ Example of a Social Learning Live Learning Session on [Building High Performing 
 
 Social Learning can also occur in GitLab's Learning Experience Platform - [GitLab Learn](https://gitlab.edcast.com/) and asynchronous forums using GitLab. (i.e. [Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26))
 
+## Learning & Development Group Conversations
+
+The L&D team hosts [Group Conversations](/handbook/group-conversations/) approximately every six weeks to share regular updates across all GitLab teams. All team members are invited to participate to understand and learn about the latest information for learning. Group Conversations are targeted for the largest internal audience at GitLab. The L&D team will create slides and a pre-recorded video to be watched beforehand for all attendees. 
+
+
 ## Monthly Continuous Learning Call Overview
 
 At GitLab, the Learning and Development (L&D) team hosts a monthly Monthly Continuous Learning call. The series is intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions. It's an opportunity to come together as an organization and highlight everything we are doing within the L&D space and to help instill a learning culture at GitLab.
