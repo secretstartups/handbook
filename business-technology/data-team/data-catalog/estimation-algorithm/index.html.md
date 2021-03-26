@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Estimasted Algorithm"
+title: "Estimation Algorithm"
 ---
 
 ## On this page
@@ -11,9 +11,9 @@ title: "Estimasted Algorithm"
 
 ---
 
-## Estimated Algorithm
+## Estimation Algorithm
 
-For the Self-Managed instance that hosts our SaaS GitLab.com product, we get the accurate value via Usage Pings. For other Self-Managed instances, customers have the option to turn disable Usage Ping; therefore, we would not receive any usage statistics for that instance. In order to calculate estimated usage values across our Self Managed customers, we need to develop an algorithm to predict usage across instances who have disabled their Usage Ping.
+For the Self-Managed instance that hosts our SaaS GitLab.com product, we receive an real-world data from Usage Pings. For Self-Managed instances, customers have the option to disable Usage Ping and we do not receive usage statistics for these instances. To calculate usage values across all Self-Managed customers, we need to develop an algorithm to predict usage across instances who have disabled their Usage Ping. We call this algorithm our `Estimation Algorithm`.
 
 This section explains our first attempt in these xMAU estimations.
 
