@@ -53,7 +53,9 @@ i.e. Record is put into `Registered` cannot be moved backwards to `Waitlisted`
 
 #### Conference
 
-Any large event run by Corporate Marketing that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit).
+Any event  that we have paid to sponsor, have a booth/presence and are sending representatives from GitLab (example: AWS re:Invent, DevOps Enterprise Summit). This also includes any virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement.
+
+In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-sponsored-virtual-conference).
 
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event.
 
@@ -63,9 +65,12 @@ Any large event run by Corporate Marketing that we have paid to sponsor, have a 
 | Sales Invited | Invitation/Information about event sent by Sales/SDR |  |
 | Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
 | Marketing Invited | Marketing geo-targeted email |  |
+| Waitlisted| Holding state if registration is full will be moved to Registered if space opens| |
+| Registered | Registered for event||
 | Meeting Requested | Meeting set to occur at conference |  |
 | Meeting No Show | Scheduled meeting at conference was cancelled or not attended |  |
 | Meeting Attended | Scheduled meeting at conference was attended | Yes |
+| Attended| Attended the event| |
 | Visited Booth | Stopped by booth for any reason | Yes |
 | Follow Up Requested | Requested to be followed up with by sales post event | Yes |
 
@@ -284,27 +289,6 @@ Used for campaigns where a third party vendor is organizing one-to-one meetings 
 | Attended | Attended the Event | Yes |
 | Follow Up Requested | Had conversation with speaker or requested additional details to be sent post event | Yes |
 
-#### Virtual Sponsorship
-
-Synonomous with a `Sponsored Virtual Conference`. A virtual event that we sponsor and/or participate in that we do not own the registration but will generate a list of attendees, engagement and has on-demand content consumption post-live virtual event. In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
-
-**Bizible:** This is tracked as an _offline_ Bizible channel.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Sales Invited | Invitation/Information about event sent by Sales/SDR |  |
-| Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
-| Marketing Invited | Marketing targeted email |  |
-| Waitlisted | Holding state if registration is full will be moved to `Registered` if space opens |  |
-| Registered | Registered for event |  |
-| Meeting Requested | Meeting set to occur at event |  |
-| No Show | Registered but did not attend event |  |
-| Attended | Attended event | Yes |
-| Visited Booth | Stopped by booth for any reason | Yes |
-| Follow Up Requested | Requested to be followed up with by sales post event | Yes |
-| Attended On-demand | Watched/consumed the presentation materials post-event on-demand | Yes |
-
 #### Webcast
 
 Any webcast that is hosted and held by GitLab.
@@ -358,7 +342,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 ##### Step 1: Clone the Marketo program indicated below
 
 - Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
-- Virtual Conference: [YYYYMMDD_Vendor_VirtualConfName (Virtual Conference Template)](https://app-ab13.marketo.com/#ME5121A1)
+- Conference - Virtual: [YYYYMMDD_Vendor_VirtualConfName (Conference - Virtual Template)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
 - Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
 - Vendor Arranged Meetings (1:1 meetings): [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
@@ -372,7 +356,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
      - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)     
-- (MCM use only) Conference: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
+- (MCM use only) Conference - In Person: [YYYYMMDD_Conference_Template](https://app-ab13.marketo.com/#ME5100A1)
 - (MCM use only) Conference Speaking Session: [YYYYMMDD_SpeakingSession_Template](https://app-ab13.marketo.com/#ME5092A1)
 - (MCM use only) Field Event: [YYYYMMDD_FieldEvent_Template](https://app-ab13.marketo.com/#ME5083A1)
 - (MCM use only) Owned Event: [YYYYMMDD_OwnedEvent_Template](https://app-ab13.marketo.com/#ME4722A1)
@@ -414,7 +398,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Change the `Campaign owner` to your name
     - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
-    - Confirm that start date and end date populated correctly (this is automated). For events and webcasts, start date is 30 days prior to the event date and 60 days after. For all other campaigns, the start date is the date of launch, end date is 90 days from the date of launch (or if the campaign runs longer, update to the appropriate end date).
+    - Confirm that start date and end date populated correctly (this is automated).
     - Update the event epic
     - Update the description (if any)
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
@@ -462,7 +446,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
-    - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+    - Update `End Date`
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
     - Update `Status` to `In Progress` or the approriate selection
@@ -502,7 +486,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
-    - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+    - Update `End Date`
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
     - Update `Status` to `In Progress` or the approriate selection
@@ -532,7 +516,7 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 - Update the event epic
 - Update the description
 - Update `Start Date` to the date of launch
-- Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+- Update `End Date`
 - Update `Status` to `In Progress` or the approriate selection
 - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
 - Update `Region` and `Subregion` if you have the data available
@@ -607,7 +591,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
     - Update the event epic
     - Update the description
     - Update `Start Date` to the date of launch
-    - Update `End Date` to 90 days from date of launch (if this is an ongoing campaign, update appropriately)
+    - Update `End Date`
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Region` and `Subregion` if you have the data available
     - Update `Status` to `In Progress` or the approriate selection
@@ -639,6 +623,4 @@ Once a landing page has been set up for a campaign, it is good practice to have 
 1. Select `Change Status` at the top of the screen
 1. Select `Not in Program` in the drop down 
 1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
-
-
 

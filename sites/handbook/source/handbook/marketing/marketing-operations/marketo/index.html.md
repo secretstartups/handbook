@@ -153,12 +153,9 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |Registered |Registered, <br> Conference > Meeting Requested|	+10	|{{my.Registered}}|	Trigger	| Everytime|
 |Follow Up Requested| Follow Up Requested|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
-|* Online  - High|Workshop, <br> Self-Service Virtual Event, <br> Webcast |	+30	|{{my.Online - High}} |Trigger| Everytime|
-|* Online  - Med|Sponsored Webcast	|+20	|{{my.Online - Med}}|Trigger|Everytime|
-|* Online - Low |Virtual Sponsorship	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
-|* Offline  - High  |Executive Roundtables|+30|	{{my.Offline - High}}	|Trigger|Everytime|
-|* Offline  - Med|Speaking Session,<br> Owned Event|+20|	{{my.Offline - Med}}	|Trigger|Everytime|
-|* Offline  - Low|Field Event,<br> Vendor Arranged Meetings,<br> Conference|+10	|{{my.Offline - Low}}	|Trigger|Everytime|
+|* Program High|Workshop, <br> Self-Service Virtual Event, <br> Webcast, <br> Executive Roundtables |	+30	|{{my.Online - High}} |Trigger| Everytime|
+|* Program Med|Sponsored Webcast, <br>Speaking Session,<br> Owned Event	|+20	|{{my.Online - Med}}|Trigger|Everytime|
+|* Program Low |Field Event,<br> Vendor Arranged Meetings,<br> Conference	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
 |* Content - High|None Defined| +30|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|Gated Content|+15|	{{my.Content - Med}}	|Trigger  |Everytime|
 |* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime|
@@ -186,8 +183,8 @@ These are boosters to scores that occur when a special action takes place above 
 |**Action**|Description|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
 |E-Book Booster|Lead is created with `Initial Source` of `Gated Content - Ebook`| +15| {{my.Booster}}|Trigger|Once|
-|Demo Webcast Booster|Attends (or On-Demand) demo webcast (not incl. demo form fills)| +15| {{my.Booster}}|Trigger|Everytime|
-|PF Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|Everytime|
+|Demo Webcast Booster|Attends (or On-Demand) demo webcast (not incl. demo form fills)| +15| {{my.Booster}}|Trigger|1/day|
+|PF Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|1/day|
 |PF Engagement Booster 1|Engagement Time >  2 minutes < 4 minutes|+10|{{my.Content Boost 1}}|Trigger|Everytime|
 |PF Engagement Booster 2|Engagement Time > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|Everytime|
 |PF Fast Moving Buyer|Becomes fast moving buyer|+10|{{my.FMB Booster}}|Trigger|1/month|
@@ -356,6 +353,20 @@ The following segmentations that are approved and live.
 
 </details>
 
+<details>
+<summary markdown='span'>
+[Priority Countries](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1024A1)
+</summary>
+
+Complete list of priority countries as seen [here](https://docs.google.com/spreadsheets/d/1eRrtRPdNSQjtvDrEvPJ_klfqKAatnLIzDjvShXhnSr8/edit#gid=1078123371).
+
+- P0
+- P1
+- P2
+- P3
+- Embargoed
+
+</details>
 
 ### Account Based Marketing List   
 
