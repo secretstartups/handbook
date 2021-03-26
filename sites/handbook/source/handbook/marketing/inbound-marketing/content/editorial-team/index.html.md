@@ -522,7 +522,7 @@ Note: This principle applies to process changes. Don't worry about pinging every
 
 ### Why use the blog style guide?
 
-The blog style guide covers styling, punctuation, spelling, and grammatical guidelines for posts on the GitLab blog. If you have questions about writing, word usage, etc. that aren't included in the style guide, feel free to reach out to the Editorial team (@skassabian, @rebecca) or open a merge request with your suggested update and ping the team there.
+The blog style guide covers styling, punctuation, spelling, and grammatical guidelines for posts on the GitLab blog. If you have questions about writing, word usage, etc. that aren't included in the style guide, feel free to reach out to the Editorial team (@skassabian) or open a merge request with your suggested update and ping the team there.
 
 If you're looking for tips to improve your writing and storytelling, please see [Writing blog posts – best practices](/handbook/marketing/blog/#writing-blog-posts--best-practices) in the blog handbook.
 
