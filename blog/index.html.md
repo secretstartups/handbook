@@ -1086,7 +1086,11 @@ Image sizes can exceed megabytes and slow down the site rendering. Follow the pr
 
 ## When your post is formatted and you're ready to create your merge request
 
- You can go about this a couple of ways: by adding a new file to `sites/marketing/source/blog/blog-posts/` [in the UI](#creating-a-blog-post-mr-from-the-ui), or [using the terminal](#creating-a-post-from-the-command-line) on your own computer.
+There are three ways to create a blog post MR:
+
+1. Use [Netlify CMS](/handbook/marketing/netlifycms/)
+1. Add a new file to `sites/marketing/source/blog/blog-posts/` [in the UI](#creating-a-blog-post-mr-from-the-ui)
+1. [Use the terminal](#creating-a-post-from-the-command-line) on your own computer
  
 ### Preparing blog posts privately
 
@@ -1291,3 +1295,16 @@ This is usually because the image filename and what you entered in the frontmatt
 Make sure that the image path is correct (i.e. it begins with `/images/blogimages/` – no missing slash at the front, no `source` before the first slash).
 
 It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/marketing/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.  
+
+## When your blog post has been published
+
+Once your blog post is live, the Editorial team member who merged it will share it in #content-updates on Slack. From there, a team member from Social Marketing will schedule it for our social channels. 
+
+You should promote your content too! Please see the Social Marketing handbook for [Team member social media guidelines](/handbook/marketing/social-media-guidelines/#team-member-social-media-guidelines). 
+
+You can also view the below [How to Make Your Content Work Harder for You](https://docs.google.com/presentation/d/1RPSkAWtXtWfbuoHD9D1iSdt5o1d7a4MA5QPGjGeFFXM/edit?usp=sharing) training from Corporate Communications:
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/VrKd89vJizM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
