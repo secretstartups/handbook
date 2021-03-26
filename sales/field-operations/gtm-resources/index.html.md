@@ -1020,6 +1020,32 @@ Process:
 1. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O4M000004e2Ma)
 1. Executive Sponsor [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#)
 
+##### Executive Opportunity Sponsorship Program
+
+In contrast to the Account Sponsorship Program outlined above which runs in perpetuity, the Opportunity Sponsorship is an ephemeral (ie: short lived) program where a member of the e-group is assigned as a dedicated part of the Opportunity Team for a specific FH FY21 [Swing Opportunity](https://about.gitlab.com/handbook/sales/sales-term-glossary/#swing-opportunity). Since there are very few Swing Opportunities in any given quarter, only a small number of Opportunities will have e-group sponsor. 
+
+The primary purpose of the program is to improve our forecast accuracy by raising visibility of material deals to the e-team, exposing the sponsor to the opportunity process and strategy, and creating a forcing function for the Account Team to prepare properly and be accountable for specific actions during the life of the opportunity.
+
+Example activities for sponsors:
+1. The e-group member will maintain direct relationships with Opportunity Team
+2. Collaborate with opportunity stakeholders in the internal slack channel for the Account
+3. Participate in Opportunity Consults together with the Area Sales Manager. 
+4. Participate in opportunity strategy meetings
+5. Direct communications with the customer
+6. Facilitation of internal conversations and resources where necessary.
+
+How Opportunities are selected for and matched to an e-group sponsor:
+1. Maximum number of Opportunities per e-group sponsors: 2
+2. Opportunities may be nominated by SAL’s or Sales Management if they meet the Swing Deal criteria
+3. Sponsored Opportunities typically represent deep product utilization, significant ARR opportunity, and/or a broad vision for success and engagement/partnership with GitLab.
+
+Process:
+1. Executive sponsors are to be nominated as part of the Opportunity Team field in Salesforce 
+2. Opportunity Owners are responsible for establishing a regular Opportunity Consult with their ASM, SA and TAM by working with the e-group members EA to schedule
+3. Executive Sponsored Opportunity are listed in Salesforce (link TBD)
+4. Command and Close Plans should be updated regularly in preparation for the consult
+5. The e-team opportunity sponsor is responsible for reporting back the current status (brief), next steps, and their assessment to the e-team on a monthly basis
+
 ## Types of Accounts
 
 ##### Accounts Created in Salesforce utilizing CE Usage Ping Data
