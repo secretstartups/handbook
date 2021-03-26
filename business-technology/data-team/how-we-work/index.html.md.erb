@@ -1,0 +1,242 @@
+---
+layout: handbook-page-toc
+title: "Data Team - How We Work"
+description: "GitLab Data Team Workflow"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .toc-list-icons .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
+---
+
+### Working with the Data Team
+
+1. Once a KPI or other Performance Indicate is defined and assigned a prioritization, the metric will need to be added to Sisense by the data team.
+1. **Before** syncing with the data team to add a KPI to Sisense, the metric must be:
+    - Clearly defined in the relevant section in the handbook and added to the GitLab KPIs [with all of its parts](/handbook/ceo/kpis/#parts-of-a-kpi).
+    - Reviewed with the Financial Business Partner for the group.
+    - Approved and reviewed by the executive of the group.
+1. Once the KPI is ready to be added into Sisense, create an issue on the [GitLab Data Team Issue Tracker](https://gitlab.com/gitlab-data/analytics/issues) using the [KPI Template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/KPI%20Template.md) or [PI Request Template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/Visualization%20or%20Dashboard-%20New%20Request.md).
+    - The Data team will verify the data sources and help to find a way to automate (if necessary).
+    - Once the import is complete, the data team will present the information to the owner of the KPI for approval who will document in the relevant section of the handbook.
+
+### SLO for Issues and Merge Requests
+
+- First-Response SLO for a new Issue or MR: 36 hours from the time of creation
+- Issue Close SLO is based on the [Issue Weight](/handbook/business-ops/data-team/how-we-work/#issue-pointing) assigned by the Data Team.
+    - Issue weight of 1-5 points: 4 weeks (2 milestones)
+    - Issue weight > 5 points: No SLO
+- MR Review SLO
+    - 4 weeks (2 milestones)
+
+### Request to Expedite Responses
+
+Requests to expedite responses, triage issues, or review MRs is rare. Given the Data Team's shared-service model, expediting an item is asking to de-prioritize other work. To request an expedited response:
+
+1. Confirm there is a valid reason for moving your request ahead of others.
+1. Post a note to #data, along with a link to your Issue and a reason why you need an expedited response. Please do not DM an individual on the Data Team directly.
+1. A member of the Data Team will respond within 1 business day.
+
+### Can I get an update on my dashboard?
+
+The data team's priorities come from our OKRs.
+We do our best to service as many of the requests from the organization as possible.
+You know that work has started on a request when it has been assigned to a milestone.
+Please communicate in the issue about any pressing priorities or timelines that may affect the data team's prioritization decisions.
+Please do not DM a member of the data team asking for an update on your request.
+Please keep the communication in the issue.
+
+## <i class="fas fa-tasks fa-fw icon-color font-awesome" aria-hidden="true"></i>How we Work
+
+### Documentation
+
+The data team, like the rest of GitLab, works hard to document as much as possible. We believe [this framework](https://documentation.divio.com/) for types of documentation from Divio is quite valuable. For the most part, what's captured in the handbook are tutorials, how-to guides, and explanations, while reference documentation lives within in the primary analytics project. We have aspirations to tag our documentation with the appropriate function as well as clearly articulate the [assumed audiences](https://v4.chriskrycho.com/2018/assumed-audiences.html) for each piece of documentation.
+
+### Prioritization
+
+As a central shared service with finite time and capacity and with a responsibility to operate and develop the company's central Enterprise Data Warehouse, the Data Team must focus its time and energy on initiatives that will yield the greatest positive impact to the [overall global organization](/handbook/values/#global-optimization) towards [improving customer results](/handbook/values/#customer-results).
+
+The Data Team uses a **Value Calculator** to quantify the business value of new initiatives (issue, epic, OKR, strategic project) to enable prioritization and ranking of the Data Team development queue. The Value Calculator provides a uniform and transparent mechanism for ranking and enables all work to be evaluated on equal terms. The value calculator approach is similar to the [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/) for Product Managers and the [Demand Metric Prioritization Model](https://blog.demandmetric.com/2009/02/06/prioritize-your-strategic-initiatives/) for Marketing.
+
+### Standing Priorities
+
+Every day in Data brings a new challenge or opportunity. However, The Data Team strives to spend the majority of its time developing and operating the Enterprise Data Warehouse and related systems, keeping fresh data flowing through the system, regularly expanding the breadth of data available for analysis, and delivering high-impact strategic projects. Our standing priorities are listed below.
+
+| Rank | Priority              | Description                                                                                                                                                                                                                                              | Allocation We Aspire To                                                      |
+| ---- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 1    | Production Operations | Activities required to maintain efficient and reliable data services, including triage, bug fixes, and patching to meet established [Service Level Objectives](/handbook/business-ops/data-team/platform/#slos-service-level-objectives-by-data-source). | 10-20%, though will fluctuate as driven by incident frequency and complexity |
+| 2    | Data Team OKRs        | The Data Team identifies 3-4 strategic-level OKRs per quarter, primarily focused on core infrastructure and data development that will be beneficial to the entire company, aligned with CEO and Finance OKRs.                                           | 60-75%, though this will fluctuate as driven by larger Functional Team OKRs  |
+| 3    | Other work            | Other work, including Functional Team OKRs, as prioritized and ranked using the Value Calculator.                                                                                                                                                        | 15-25%                                                                       |
+
+We use [scoped labels in GitLab](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=priority%3A%3A) to track our issues across these priorities.
+
+### Resolving Prioritization and Blocking Issues
+
+In rare situations [established SLOs](/handbook/business-ops/data-team/how-we-work/#slo-for-issues-and-merge-requests) do not meet turnaround needs and in these cases the Data Team provides an [expedite response](/handbook/business-ops/data-team/how-we-work/#request-to-expedite-responses) capability. The Data Team will provide an date estimate if expedited request cannot be handled per the expedite response SLO.
+
+### Data Team Value Calculator
+
+The calculator below is based on the following [Value Calculator](https://docs.google.com/spreadsheets/d/1FROB7j0YfNS_cQM6qQD0CPkE0Emuf77EJwTb96UduWs/edit?usp=sharing) spreadsheet. Please select the values below to define the value of new work.
+
+<%= partial 'includes/data_team_value_calculator_vue' %>
+
+### Issue Types
+
+There are three _general_ types of issues:
+
+- Discovery
+- Introducing a new data source
+- Work
+
+Not all issues will fall into one of these buckets but 85% should.
+
+##### Discovery issues
+
+Some issues may need a discovery period to understand requirements, gather feedback, or explore the work that needs to be done.
+Discovery issues are usually 2 points.
+
+##### Introducing a new data source
+
+Introducing a new data source requires a _heavy lift_ of understanding that new data source, mapping field names to logic, documenting those, and understanding what issues are being delivered.
+Usually introducing a new data source is coupled with replicating an existing dashboard from the other data source.
+This helps verify that numbers are accurate and the original data source and the data team's analysis are using the same definitions.
+
+##### Work
+
+This umbrella term helps capture:
+
+- inbound requests from GitLab team-members that usually materialize into a dashboard
+- housekeeping improvements/technical debt from the data team
+- goals of the data team
+- documentation notes
+
+It is the responsibility of the assignee to be clear on what the scope of their issue is.
+A well-defined issue has a clearly outlined problem statement. Complex or new issues may also include an outline (not all encompassing list) of what steps need to be taken.
+If an issue is not well-scoped as its assigned, it is the responsibility of the assignee to understand how to scope that issue properly and approach the appropriate team members for guidance early in the milestone.
+
+### Incidents
+
+Incidents are times when a problem is discovered and some near term action is required to fix the issue. When this happens, we make an [Incident Issue](https://docs.gitlab.com/ee/operations/incident_management/incidents.html) in the Data Team Project. The process for working through incidents is as follows:
+
+* Open an [Incident issue](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=incident&issue[issue_type]=incident) using the "Incident Report" template
+* Detail the relevant information with appropriate timestamps
+* Tag and assign people on the Data Team and any other teams that need to be informed
+* Review the Security Team's documentation on [Incident Response](/handbook/engineering/security/sec-incident-response) and take any necessary action
+
+Data Team Incidents can be reviewed in [Incident Overview page](https://gitlab.com/gitlab-data/analytics/-/incidents) within the main project.
+
+### Workflow Summary
+
+| Stage (Label)               | Responsible        | Description                                          | Completion Criteria                                                                                                    |
+| --------------------------- | ------------------ | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `workflow::1 - triage`      | Data               | New issue, being assessed                            | Item has enough information to enter problem validation.                                                               |
+| `workflow::2 - validation`  | Data, Business DRI | Clarifying issue scope and proposing solution           | Solution defined with sign off from business owners on proposed solution that is valuable, usable, viable and feasible |
+| `workflow::3 - scheduling`  | Data               | Waiting for scheduling                               | Item has a numerical milestone label                                                                                   |
+| `workflow::4 - scheduled`   | Data               | Waiting for development                              | Data team has started development                                                                                      |
+| `workflow::5 - development` | Data               | Solution is actively being developed                 | Initial engineering work is complete and review process has started                                                    |
+| `workflow::6 - review`      | Data               | Waiting for or in Review                             | MR(s) are merged. Issues had all conversations wrapped up.                                                             |
+| `workflow::X - blocked`     | Data, Business DRI | Issue needs intervention that assignee can't perform | Work is no longer blocked                                                                                              |
+
+Generally issues should move through this process linearly. Some templated issues will skip from `triage` to `scheduling` or `scheduled`.
+
+#### Issue Pointing
+
+**Issue pointing captures the complexity of an issue, not the time it takes to complete an issue. That is why pointing is independent of who the issue assignee is.**
+
+- Refer to the table below for point values and what they represent.
+- We size and point issues as a group.
+- Effective pointing requires more fleshed out issues, but that requirement shouldn't keep people from creating issues.
+- When pointing work that happens outside of the Data Team projects, add points to the issue in the relevant Data Team project and ensure issues are cross-linked.
+
+| Weight | Description                                                                                                                                                                                                                                                  |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Null   | Meta and Discussions that don't result in an MR                                                                                                                                                                                                              |
+| 0      | Should not be used.                                                                                                                                                                                                                                          |
+| 1      | The simplest possible change including documentation changes. We are confident there will be no side effects.                                                                                                                                                |
+| 2      | A simple change (minimal code changes), where we understand all of the requirements.                                                                                                                                                                         |
+| 3      | A typical change, with understood requirements but some complicating factors                                                                                                                                                                                 |
+| 5      | A more complex change. Requirements are _probably_ understood or there might be dependencies outside the data-team.                                                                                                                                          |
+| 8      | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements.                                                                                                                            |
+| 13     | A significant change that has dependencies and we likely still don't understand all of the requirements. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break into smaller Issues. |
+
+#### Issue Labeling
+
+Think of each of these groups of labels as ways of bucketing the work done. All issues should get the following classes of labels assigned to them:
+
+- **Who** (Purple): Team for which work is primarily for (Data, Finance, Sales, etc.)
+- **When**: [Workflow Status](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow) and [Prioritization Type](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=Priority+Label%3A+)
+- **Where** (Brown): Which part of the team performs the work (Analytics, Infrastructure, Housekeeping)
+- **What** - Data or Tool
+    - Data (Light Green): Data being touched (Salesforce, Zuora, Zendesk, GitLab.com, etc.)
+    - Tool (Light Blue) (Sisense, dbt, Stitch, Airflow, etc.)
+- **How** (Orange): Type of work (Documentation, Break-fix, Enhancement, Refactor, Testing, Review)
+
+Optional labels that are useful to communicate state or other priority
+
+- State (Red) (Won't Do, Blocked, Needs Consensus, etc.)
+
+- Inbound: For issues created by folks who are not on the data team; not for asks created by data team members on behalf of others
+
+#### Workflows
+
+##### Merge Request Workflow
+
+_Ideally_, your workflow should be as follows:
+
+1. Confirm you have access to the analytics project. If not, request Developer access so you can create branches, merge requests, and issues.
+1. Create an issue, open an existing issue, or assign yourself to an existing issue. The issue is assigned to the person(s) who will be doing the work.
+1. Add appropriate labels to the issue (see above)
+1. Open an MR from the issue using the "Create merge request" button. This automatically creates a unique branch based on the issue name. This marks the issue for closure once the MR is merged.
+1. Push your work to the branch
+1. Update the MR with an [appropriate template](https://gitlab.com/gitlab-data/analytics/-/tree/master/.gitlab%2Fmerge_request_templates). Our current templates are:
+
+    - **dbt Model Changes** - used for any change involving dbt. Analysts will most often use this one
+    - **add_manifest_tables** - for adding tables to pgp extract
+    - **periscope** - for getting a Periscope dashboard reviewed
+    - **python_changes** - for general changes to Python code
+    - **All Other Changes** - for work that doesn't generally fall into these categories
+
+1. Run any relevant jobs to the work being proposed
+
+    - e.g. if you're working on dbt changes, run the job most appropriate for your changes. See the [CI jobs page](/handbook/business-ops/data-team/platform/ci-jobs/) for an explanation of what each job does.
+
+1. Document in the MR description what the purpose of the MR is, any additional changes that need to happen for the MR to be valid, and if it's a complicated MR, how you verified that the change works. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/658) for an example of good documentation. The goal is to make it easier for reviewers to understand what the MR is doing so it's as easy as possible to review.
+1. Request a review by assigning the MR to a peer using the [Merge Request Reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started#reviewer) feature.
+    - Requesting a review in this manner indicates to the person that you would like their code review and approval if everything is good. This does not mean they will merge the MR if they approve it.
+    - The peer reviewer should use the native approve button in the MR after they have completed their review and approve of the changes in the MR.
+    - After approval, the reviewer can unassign themselves from the Reviewer list. The reviewer is not responsible for the final tasks. The author is responsible for finalizing the checklist, closing threads, removing Draft, and getting it in a merge-ready state.
+1. If the MR is approved, remove the `Draft:` label, mark the branch for deletion, mark squash commits, and assign to the project's maintainer. Ensure that the attached issue is appropriately labeled and pointed.
+    - Generally, assigning the MR to a maintainer indicates you would like for them to merge it if there are no issues.  If the maintainer needs to approve the merge request before merge as part of a CODEOWNER group, then they will do a review before merging.  Otherwise, they will simply merge.  If you would like the maintainer's review regardless, simply leave a comment to that effect.
+    - Note that assigning someone an MR means action is required from them.
+    - If `Draft:` is still in the title of the MR, then the Maintainer will assign the MR back to the author to confirm that the MR is ready for merge.
+
+
+Other tips:
+
+1. The Merge Request Workflow provides clear expectations; however, there is some wiggle room and freedom around certain steps as follows.
+
+    - For simple changes, it is the MR author who should be responsible for closing the threads. If there is a complex change and the concern has been addressed, either the author or reviewer could resolve the threads if the reviewer approves.
+
+1. Reviewers should have 48 hours to complete a review, so plan ahead with the end of the milestone.
+1. When possible, questions/problems should be discussed with your reviewer before submitting the MR for review. Particularly for large changes, review time is the least efficient time to have to make meaningful changes to code, because you’ve already done most of the work!
+1. Consider bringing the latest commits from the primary branch so the MR is caught up. You can do this quickly by typing `/rebase` into a comment and GitLab will make this happen automatically, barring any merge conflicts.
+
+### Customer Satisfaction Survey (CSAT)
+
+We regularly measure how ow satisfied our internal customers are with the services and products we provide.
+
+- Our standing [Survey Results Dashboard](https://app.periscopedata.com/app/gitlab/798574/Data-Team-CSAT-Survey-Dashboard) presents trends of CSAT results over time.
+- Our [FY21 CSAT Survey Results and Takeaways](https://docs.google.com/presentation/d/1OPfoF4qzzCTiPZb9EeXHEpB6kDEpZ4CwV4lzg26L6Uw/edit?usp=sharing) presents a summary of our FY21 program.
+
+### YouTube
+
+We encourage everyone to record videos and post to GitLab Unfiltered. The [handbook page on YouTube](/handbook/communication/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you're uploading a video for the data team, be sure to do the following extra steps:
+
+- Add `data` as a video tag
+- Add it to the [Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI)
+- Share the video in #data channel on slack
