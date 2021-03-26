@@ -434,6 +434,9 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
+- [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268)
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
+
 ## Socializing in Product
 
 ### Blogs, videos and podcasts and more...
