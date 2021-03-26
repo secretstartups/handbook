@@ -12,7 +12,7 @@ job: "Engineering Director Threat Management"
 
 ### Wayne Haber README
 
-I’m the director of engineering for the [threat management](https://about.gitlab.com/handbook/engineering/development/threat-management/) and [growth](https://about.gitlab.com/handbook/engineering/development/growth/) departments.
+I’m the director of engineering for the [growth](https://about.gitlab.com/handbook/engineering/development/growth/) and [fulfillment](https://about.gitlab.com/handbook/engineering/development/fulfillment/) departments.  I am also a SME for security at the company.
 
 Links about Wayne:
 * [GitLab](https://gitlab.com/whaber)
@@ -25,7 +25,7 @@ I’m a veteran of three successful startups (including GitLab) and have experie
 ### How to collaborate with Wayne
 
 * I subscribe to [servant-leadership](https://en.wikipedia.org/wiki/Servant_leadership) 
-* Learning is very important to me.  I read approximately one book a week and aspire to take one Udemy class a month.
+* Learning is very important to me.  I read approximately one book a week and aspire to take one online class (Udemy or LinkedIn learning) every month or so.
 * I subscribe to the philosophy of “saying what you are going to do and doing what you say”.
 * I am an advocate of remote-work due to it being highly effective (on many levels) for both the company and for the individual.
 * At work, nothing makes me happier than when:
