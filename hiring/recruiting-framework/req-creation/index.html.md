@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Recruiting Process Framework for Creating REQs
+description: >-
+  The Recruiting Process Framework for Creating REQs provides guidance on how to
+  open a new requisition for the recruiting team.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -22,7 +30,7 @@ The Hiring Manager carries the responsibility to ensure that vacancies in Greenh
 
 Once the vacancy is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#job-families). A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
 
-### Opening Vacancies in Greenhouse (DRI: Recruting Manager/Lead)
+### Opening Vacancies in Greenhouse (DRI: Recruiting Manager/Lead)
 
 For positions that are included in the GitLab Hiring Plan, the Recruiting Manager will create approved in-plan requisitions.
 
@@ -60,38 +68,38 @@ For positions that are included in the GitLab Hiring Plan, the Recruiting Manage
 1. Click `This looks good, NEXT` at the right.
 1. Setup Notifications:
     - Weekly Recruiting Report:
-        - Hiring Manager
+    - Hiring Manager
     - New Internal Applicants:
-        - Hiring Manager
-        - Recruiter
+    - Hiring Manager
+    - Recruiter
     - New Referrals:
-        - Hiring Manager
-        - Recruiter
+    - Hiring Manager
+    - Recruiter
     - New Agency Submissions:
-        - Hiring Manager
-        - Recruiter
+    - Hiring Manager
+    - Recruiter
     - Approved to Start Recruiting:
-        - Hiring Manager
-        - Executive
-        - Recruiter
-        - Sourcer
-        - Sourcing Manager
-        - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
+    - Hiring Manager
+    - Executive
+    - Recruiter
+    - Sourcer
+    - Sourcing Manager
+    - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
     - Offer Fully Approved:
-        - Hiring Manager
-        - Executive
-        - Recruiter
-        - Sourcer
-        - Recruiting Manager
-        - Sourcing Manager
-        - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
+    - Hiring Manager
+    - Executive
+    - Recruiter
+    - Sourcer
+    - Recruiting Manager
+    - Sourcing Manager
+    - People Business Partner according to [business alignment](/handbook/people-group/#people-business-partner-alignment-to-division)
     - New Scorecards:
-        - Recruiter
-            - All stages
-        - Hiring Manager:
-            - Team Interview stage
+    - Recruiter
+    - All stages
+    - Hiring Manager:
+    - Team Interview stage
     - Stage Transitions:
-        - N/A
+    - N/A
 1. Create the [Global Self-Identification Survey](/handbook/hiring/greenhouse/#global-self-identification-survey) by creating a job post for the open requisition.
     - Job Name: Global Self-Identification Survey
     - Post To: GitLab
