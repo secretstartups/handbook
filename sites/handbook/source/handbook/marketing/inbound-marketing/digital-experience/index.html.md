@@ -208,7 +208,8 @@ These issue boards were created by the Digital Experience team to track our own 
 
 ## Requesting Support
 
-[https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support](https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support)
+* [Issue templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support)
+* [Tips on how to set your request up for success](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-support)
 
 ## How we use GitLab
 
