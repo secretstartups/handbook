@@ -42,11 +42,12 @@ These GitLab-specific items are also key for each product manager at GitLab:
 ##### Quick reads and videos
 
 - [Paul Adams: Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
+- [Adopting Continuous Discovery Practices](https://youtu.be/a2HidFrzYIA) (36 min video)
 
 ##### Deeper dive
 
 - [Introduction to Modern Product Discovery](https://medium.com/productized-blog/an-introduction-to-modern-product-discovery-by-teresa-torres-productizedconf-bb2703b01fdb) 
-- [Adopting Continuous Discovery Practices](https://www.youtube.com/watch?v=a2HidFrzYIA)
+- [Just Enough Research](https://vimeo.com/129039134) (59 min video)
 
 ##### Online courses 
 
@@ -58,7 +59,7 @@ These GitLab-specific items are also key for each product manager at GitLab:
 - [Steve Krug: Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)
 - [Kevin Simler & Robin Hanson: The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)
 - [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-
+- [Erika Hall: Just Enough Research](https://abookapart.com/products/just-enough-research)
 
 #### Customer Interviewing
 
