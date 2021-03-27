@@ -26,11 +26,36 @@ Managers will participate in a series of quarterly training & reinforcement exer
 
 ## Topics
 This program will leverage content from the [GitLab Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) and address multiple learning objectives supporting the following categories:
-1. Recruiting Top Talent
+1. Winning Top Talent
 1. What is a High Performing Team?
 1. Organizational / Team Health
 1. Giving Feedback & Coaching
 1. Management Operating Rhythm
+
+## Content
+
+### Program Overview
+- [Field Manager Development Program Overview](https://youtu.be/oNwqsJV_OmU) (11.5 minutes) ([slides](https://docs.google.com/presentation/d/1O2QSZefPxLf_0T6AQO3NWte73z2X357V1PxVV9wQZX4/edit?usp=sharing)) (GitLab internal only)
+
+### Interviewing
+- [Winning Top Talent](https://youtu.be/VftKycprJms) (13 minutes, GitLab internal only)
+- [Defining Team Needs](https://youtu.be/3BPjETac8ps) (6 minutes, GitLab internal only)
+- [Kicking Off the Process With Recruiting](https://youtu.be/6iIVmhJqfUk) (8.5 minutes, GitLab internal only)
+- [Importance of the Candidate Experience](https://youtu.be/2hFdo8ndXgs) (15 minutes, GitLab internal only)
+- [Inclusive Interview Practices](https://youtu.be/bZN-7yBFoDI) (32 minutes, GitLab internal only)
+- [Assessing Candidates](https://youtu.be/OZMqIdrnaEg) (10 minutes, GitLab internal only)
+
+### What is a High Performing Team
+- Coming soon
+
+### Organizational and Team Health
+- Coming soon
+
+### Giving Feedback and Coaching
+- Coming soon
+
+### Management Operating Rhythm
+- Coming later this year
 
 ## Core Team
 - [Carolyn Bednarz](/company/team/#cbednarz) (People Business Partner, Sales)
