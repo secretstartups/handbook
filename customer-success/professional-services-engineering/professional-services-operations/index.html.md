@@ -195,7 +195,7 @@ The GitLab Billing Manager will pull an expense report after each month end to b
 | Orange | Consulting & Training Project |
 | Lime | Internal Project |
   
-#### Constuling Project Health Reports
+#### Consulting Project Health Reports
 
 Health Reports provide a weekly snap shot status to PS Management on the overall project status, and rolled up to executives.  The report includes a Red, Yellow and Green indicator along with a section to update on overall status, schedule, scope, budget, client.  Health reports should be filled out by the project lead or project manager by Thursday of week each by EOD for the projects that are in the Active project status.  
 
