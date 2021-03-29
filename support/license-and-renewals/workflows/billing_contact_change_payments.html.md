@@ -107,8 +107,7 @@ this, CC a manager for approval.*
    process the refund. They will reply to the customer once done.
 
 Note: we cannot do partial refunds, so when a refund is requested, the whole
-subscription will have to be cancelled and refunded. See `Renewal reversal` for
-accidental renewal scenarios.
+subscription will have to be cancelled and refunded. See [Renewal reversal](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#renewal-reversal) for accidental renewal scenarios.
 
 ## Invoice
 
