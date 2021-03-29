@@ -79,7 +79,7 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
-- [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
+- [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4) ([alternate free pdf](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf))
 - [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X)
 
@@ -166,7 +166,7 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+- [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=2255073)
 
 ##### Books
 
@@ -256,6 +256,7 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-dp-0062292986/dp/0062292986)
+- [Testing Business Ideas: A Field Guide for Rapid Experimentation](https://www.amazon.com/Rapid-Testing-Business-Ideas-Customer/dp/1119551447)
 
 #### Competitive analysis
 
