@@ -49,6 +49,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 #### Articles 
 
 * CNBC — [Embracing Remote Work: Meet the Oracles](https://www.cnbc.com/video/2020/11/13/embracing-remote-work-meet-the-oracles.html)
+* Ladders — [The dawn of the age of Chief Remote Work Officers](https://www.theladders.com/career-advice/the-dawn-of-the-age-of-chief-remote-work-officers)
 * Fortune — [Why GitLab hired a ‘head of remote’ before the coronavirus pandemic](https://fortune.com/2020/05/28/coronavirus-head-of-remote-work-from-home-gitlab-github-jobs/)
 * Fast Company — [Extremely Transparent and Incredibly Remote](https://www.fastcompany.com/90548691/extremely-transparent-and-incredibly-remote-gitlabs-radical-vision-for-the-future-of-work)
 * San Francisco Chronicle — [Tech's hottest job title in 2021? 'Head of remote work'](https://www.sfchronicle.com/local/article/Meet-the-people-making-your-work-from-home-16044685.php)
