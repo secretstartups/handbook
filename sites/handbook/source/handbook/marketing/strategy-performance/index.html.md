@@ -23,8 +23,9 @@ We are a small team with a leader and data analysts.
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
 - [Dara Warde, Director](https://about.gitlab.com/company/team/#darawarde)
+- Open Head Count, Manager, Data Performance
 - [Robert Kohnke, Data Analyst](https://about.gitlab.com/company/team/#rkohnke)
-- [Viki Juhasz, Data Analyst](https://about.gitlab.com/company/team/#vikijuhasz)
+- Open Head Count, Data Analyst
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Teams We Work Closely With
 
@@ -47,7 +48,7 @@ We are a small team with a leader and data analysts.
 
 **Slack channels**
 
-We have not yet set up our own slack channel, but can be reached via the general [#marketing](https://about.gitlab.com/handbook/marketing/) channel or via [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
+We can be reached via our own #mktg-strat-perf channel, although we also monitor the general [#marketing](https://about.gitlab.com/handbook/marketing/) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
 
 ## <i class="far fa-life-ring" id="biz-tech-icons"></i> How to Get Help
 
@@ -147,7 +148,6 @@ Periodically Marketing Strategy and Performance becomes aware of significant cha
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
 
 - [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
-- [Marketing Owned Provisioning Instructions](/handbook/marketing/marketing-operations/marketing-owned-provisioning)
 
 ## <i class="fas fa-toolbox" id="biz-tech-icons"></i> Tech Stack
 
@@ -169,10 +169,6 @@ Integrated with Salesforce
 To request access to Bizible or Allocadia, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
 
 If you are working with a contractor or consultant that requires access to one of these tools, [please follow the professional services access request process](https://about.gitlab.com/handbook/finance/procurement/vendor-contract-professional-services/#-step-7--create-professional-services-access-request-optional) as outlined in the procurement handbook.
-
-### Requesting a new tool
-
-If you are interested in or would like to request a new tool be added to the tech stack, [please submit an issue to MktgOps using the tools eval issue template](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=tools_eval) in the Marketing Operations repository. Marketing Operations should be included in new tool evaluations to account for system integrations, budget, etc. Any new tools desired after the budget is set will be handled by transferring budget from the other department to Marketing Operations.
 
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 
