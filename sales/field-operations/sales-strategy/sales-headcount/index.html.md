@@ -11,7 +11,7 @@ description: “Guide for requesting position adjustments for Sales team members
 {:toc .hidden-md .hidden-lg}
 
 ### Sales Headcount Change Management
-All headcount records have been locked down as of 2020-03-06 (post board approval).  Any changes after this date must follow the processes below depending on impact to budget.
+All headcount records have been locked down as of 2021-03-18 (post board approval).  Any changes after this date must follow the processes below depending on impact to budget.
 
 **If requesting to:**
 1. Push out a hire date.
