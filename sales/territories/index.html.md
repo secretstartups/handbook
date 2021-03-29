@@ -48,7 +48,9 @@ title: "Sales Territories"
 
 ## Territories
 
-For the detailed breakdown of how the territories are mapped please reference the [Territories Mapping File - SSoT Master tab](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit?usp=sharing)
+For the detailed breakdown of how the territories are mapped please reference the mapping files:
+1. [Sales Territories Mapping File - SSoT Master tab](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit?usp=sharing)
+2. [ISR Territories Mapping File](https://docs.google.com/spreadsheets/d/1dzA_t3Nfa_C-qd-QJ41BkMy6I_A76FTTmXTXb57qZuI/edit#gid=0)
 
 ### Large
 
