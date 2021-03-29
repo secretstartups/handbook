@@ -628,6 +628,12 @@ EdCast uses a tool called EdGraph, hosted by Domo, to provide pre-built and cust
 
 1. [GitLab Learn Key Reports - All Users](https://edcast-536.domo.com/page/2188975) - this dashboard displays key reports that give insight into course completion and use engagement platform wide on GitLab Learn. This is the best dashboard to view metrics that are **not** segmented by audience.
 
+### How to get EdGraph Access
+
+Follow the steps outlined in the handbook to open an [individual access request for the `EdGraph` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `slee24@`.
+
+Once processed, you'll be able to be added as a collaborator on reports in EdGraph. Please work with the L&D team to be sure the essential reports are shared to your account.
+
 ### L&D Teaam Dashboards
 
 1. [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) - this dashboard displays custom reports that share information for only GitLab team members on the GitLab Learn platform
