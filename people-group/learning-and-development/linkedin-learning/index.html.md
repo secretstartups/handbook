@@ -155,9 +155,29 @@ The L&D Team or other sub-admins can create content Collections in LinkedIn Lear
 1. Click "Go to Admin" in the top right 
 1. Click "Content" on the top bar 
 1. Click "+ Add" on the right and select "Create Collection" 
-1. a
-1. b
-1. c
+1. Click "Create New"
+1. Fill out the fields on the form that pops up 
+1. Click "Create" 
+1. Click "Add Content" and then "Search for Content" 
+1. Type in some key words or course titles to find courses to add to the Collection 
+1. Click "Save & Publish" 
+1. At this point you can share with others or you can "X" out of the message and share with groups later following the directions below. 
+
+If you are on the L&D Team, you can watch a [video walkthrough](https://drive.google.com/drive/folders/186oiYAHEQV9QLXqocBnmTsPl-MhygDvW) of the deprovisioning process. 
+
+#### Sharing Collections 
+
+You can share collections with groups or with all team members by going through the following steps: 
+
+1. Log in to LinkedIn Learning 
+1. Click "Go to Admin" in the top right 
+1. Click "Content" on the top bar. All current Collections and Learning paths will be listed there. 
+1. Next to the Collection you want to share click the "Share" button
+1. Click "Recommend on LinkedIn Learning" 
+1. Add recipients you want to share the content with (this could be a group or set of groups or all GitLab Team Members)
+1. Add in a message so team members know why they are recieving this content recommendation 
+1. Add a due date if that applies 
+1. Click "Send" 
 
 If you are on the L&D Team, you can watch a [video walkthrough](https://drive.google.com/drive/folders/186oiYAHEQV9QLXqocBnmTsPl-MhygDvW) of the deprovisioning process. 
 
