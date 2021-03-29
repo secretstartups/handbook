@@ -689,7 +689,8 @@ The TW Lead is responsible for a final review of:
 - [Frontmatter check](#frontmatter)
 - [Bugs](#bugs-mr)
 - [Performance improvements](#performance-improvements-mr)
-- [MVP check](#mvp-check)
+- [MVP check](#mvp-entry)
+- [Versioned documentation release](#versioned-documentation-release)
 
 While individual [TW reviewers](#tw-reviewers) are responsible for reviewing the structure and content of individual feature items,
 the TW Lead still has overall responsibility for confirming that style and language
@@ -718,6 +719,13 @@ Review the introduction briefly, but do not change the writing style nor the mes
 these are owned by PMMs, so leave it to them to avoid unnecessary back-and-forths.
 Make sure feature descriptions make sense, anchors work fine, all internal links have
 the relative path.
+
+**Note:** The introduction or other parts of the release post written may include links to external
+blog posts. These links may be broken until the 21st, but should still be flagged by the TW Lead
+during the structural check so the Release post manager and Messaging lead don't miss coordinating
+with authors of these external blogs to ensure they're live before the release post blog goes live
+on the 22nd.
+{: .alert .alert-info}
 
 The Release Post is considered a special blog post instance, so should adhere to the Marketing
 editorial team's
@@ -859,11 +867,7 @@ This MR has **not** been reviewed by any other TW. For this MR, you'll check thi
 - All links from the MVP description.
 - "Look and feel" as built. Sometimes it's better to collect all info for the MVP in one or two paragraphs.
 
-#### Links to external blogs
-
-The introduction or other parts of the release post written may include links to external blogs posts. These links may be broken until the 21st but should still be flagged by the TW Lead during structural check so the Release post manager and Messaging lead don't miss coordinating with authors of these external blogs to make sure they're live before the release post blog goes live on the 22nd.
-
-#### Documentation version release
+#### Versioned documentation release
 
 When a new GitLab version is released on the 22nd, the TW Lead also sets up the release
 of the published documentation for that version.
