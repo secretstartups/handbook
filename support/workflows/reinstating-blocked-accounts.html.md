@@ -21,7 +21,7 @@ All blocked accounts should have an admin note with a link to a relevant issue.
 ## Process
 
 1. If the account is blocked, look for the admin note on the account to determine why it has been blocked.
-    - The (GitLab user lookup app)[https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup] in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively - 
+    - The [(GitLab user lookup app](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively - 
 	- If you have access to ChatOps you can use the below command in any chatops enabled Slack channel to read admin notes for the user
 		> `/chatops run user find <username or email>`
 1. If the block or complaint is related to access from an embargoed country, use the [`Support::SaaS::Abuse::TOS Section 10 (Embargoed Countries)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360020523679) macro.
