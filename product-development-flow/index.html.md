@@ -47,7 +47,10 @@ Examples:
 
 ## Workflow Summary
 
-<img src="/handbook/product-development-flow/PDF-Diagram.svg" alt="Product Development Flow diagram">
+<object data="PDF-Diagram.svg" style="width: 100%;" type="image/svg+xml">
+  Product Development Flow diagram.
+  Unable to load this content, check console for details.
+</object>
 
 > <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:1.25em" aria-hidden="true"></i> We use workflow labels to efficiently communicate an issue's state. Using these labels enables collaboration across teams and communicates an issue's current state.
 
