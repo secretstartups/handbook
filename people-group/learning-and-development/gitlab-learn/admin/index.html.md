@@ -851,8 +851,7 @@ Please visit the [GitLab Learn login page](https://gitlab.edcast.com/ and select
 If you're still having trouble after trying to reset your password, please respond to this email and include the following information:
 
 1. Email used while attempting to create and account:
-1. Are you trying to log into GitLab Learn using your GitLab.com account? Yes or No
-1. Are you trying to log into GitLab Learn using another account, like Google or LinkedIn? If yes, please indicate which account you're attempting to use:
+1. Browser used while attempting to create an account:
 
 Thank you for your patience while we process your request!
 
@@ -875,13 +874,11 @@ In order to help get your account set up, I will share a few resources and confi
 
 1. If you haven't yet reviewed our user docs, please watch this video on [setting up your GitLab Learn account for the first time](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
 1. Be sure you're accessing GitLab Learn via the Google Chrome browser, as it performs best in this browser.
-1. If you're trying to sign in via your GitLab.com account, please make sure you've already created an account on [GitLab.com](https://gitlab.com/)
 
 If you've attempted these 3 possible solutions and are still having trouble, please respond to this email and include the following information:
 
 1. Email used while attempting to create and account:
-1. Are you trying to log into GitLab Learn using your GitLab.com account? Yes or No
-1. Are you trying to log into GitLab Learn using another account, like Google or LinkedIn? If yes, please indicate which account you're attempting to use:
+1. Browser used while attempting to create an account:
 
 Thank you for your patience while we process your request!
 
