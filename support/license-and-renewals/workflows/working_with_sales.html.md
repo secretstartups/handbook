@@ -74,6 +74,30 @@ description: This page is about working with sales.
 
 _(Pro tip: create a personal ticket view where "Escalated to Sales" = checked, to pull these out into their own queue)_
 
+## Determining whether **to pass** or **to NOT pass** to Sales
+
+Please see specific workflows below:
+
+Pass to Sales:
+
+- The customer wants to pay via a method that isn't credit card
+- The customer had a sales-assisted purchase last year and wants to purchase on an order form (company requires a quote or purchase order)
+- The purchase needs to happen via a reseller (reseller or end user contacts us)
+- The customer wants to upgrade their Self-Managed plan and their current subscription is worth more than $1000
+
+DO NOT pass to Sales:
+
+- The customer wants to upgrade their SaaS plan - they can use the upgrade button in the customers portal.
+- The customer wants to upgrade their plan and their current sub is worth less than $1000 or the upgrade will be less than $1000, do not offer any opinions or  possibilities. You can state that we do not have the ability to transfer subscriptions between products. If they are at the end of their subscription, they can let it expire and purchase a new plan. NOTE: you can offer a refund for the old plan if they are eligible.
+- Don't escalate until you understand what the customer needs
+- The customer is trying to reach sales person to renew, but haven't received a response - Instead ask customer what they need assistance with and see if we can assist.
+- The customer asks a product or process question (we can answer this or put in another Support queue most of the time)
+- The customer has renewed, but they didn't add enough users - ask the customer to use the Add more seats button in customers portal.
+- The customer has renewed, but they didn't add enough trueups - if they need 1 or 2 trueups and their renewal is worth less than $1000, use your discretion to potentially waive the trueups as an exception for them. If the renewal is worth more than $1000, pass to Sales for a quote.
+- The customer asks for fees (like trueup fees) to be waived - we can use our discretion about waiving 1 or 2 trueups in certain circumstances. We have to weigh the cost of time and effort it will take for Sales to process a quote and the monetary loss for the company. Please ask in Slack if unsure if an exception can be made for a customer.
+
+NB, Sales does not simply waive trueups, there is an approval process for exceptional cases. Please don't set the expectation that any fees will be waived. When in doubt, the answer is probably no.
+
 ## Specific workflows to pass to Sales
 
 Many of the following workflows advise you to `Chatter Sales`.  How to do this
@@ -135,3 +159,4 @@ Workflow: To be confirmed
 **DECREASE SEAT COUNT** - a customer wishes to renew with less seats in their subscription
 
 Workflow: To be confirmed
+
