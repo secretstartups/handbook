@@ -157,6 +157,12 @@ We use the [Inbound Marketing Sprint Planning document](https://docs.google.com/
  <iframe src="https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing"></iframe>
 </figure>
 
+### Weekly Check In
+
+We use [Geekbot](https://geekbot.com/) to conduct asynchronous, weekly check-ins on iteration progress. 
+
+Each member of the Digital Experience team should be listed as a participant in the weekly check ins, and everyone should have permissions to manage the application for our team. The app can be configured through the [Geekbot Dashboard](https://app.geekbot.com/dashboard/), which you can visit directly, or find by clicking the **Geekbot** Slack conversation, navigating to the **About** tab, and clicking **App Homepage**.
+
 ### Sprint Releases
 
 On the second Wednesday of each sprint, we have a calendar reminder for "Sprint Release Async", which serves as a reminder for team members to add to the [Sprint Release Video Document](https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit). 
