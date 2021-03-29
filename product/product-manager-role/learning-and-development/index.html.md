@@ -18,7 +18,7 @@ Most of the resources here are free but any content requiring payment [can be re
 
 Over time, we will add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/#competencies), [CDF](/handbook/product/product-manager-role/#product-management-career-development-framework) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
-## Recommended books and talks for all product managers
+## Recommended books and talks for all GitLab product managers
 
 These books are highly recommended to be read by every product manager at GitLab:
 
@@ -31,6 +31,12 @@ These books are highly recommended to be read by every product manager at GitLab
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
      - [Related live talk by author](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 
+## GitLab Specific Competencies and Content 
+
+- [Example Opportunity Canvas Review](https://youtu.be/ZXbwtLoxPjM)
+
+## Broad Product Management Learning Content 
+
 ### Discovery
 
 #### User Research
@@ -38,27 +44,31 @@ These books are highly recommended to be read by every product manager at GitLab
 ##### Quick reads and videos
 
 - [Paul Adams: Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
+- [Adopting Continuous Discovery Practices](https://youtu.be/a2HidFrzYIA) (36 min video)
 
 ##### Deeper dive
 
-- [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
+- [Introduction to Modern Product Discovery](https://medium.com/productized-blog/an-introduction-to-modern-product-discovery-by-teresa-torres-productizedconf-bb2703b01fdb) 
+- [Just Enough Research](https://vimeo.com/129039134) (59 min video)
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+- [Nielson Norman Group Trainings and Events](https://www.nngroup.com/training/)
+
 
 ##### Books
 
 - [Steve Krug: Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)
 - [Kevin Simler & Robin Hanson: The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)
 - [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-
+- [Erika Hall: Just Enough Research](https://abookapart.com/products/just-enough-research)
 
 #### Customer Interviewing
 
 ##### Quick reads and videos
 
 - ['Get in the Van' and Other Tips for Getting Meaningful Customer Feedback](https://review.firstround.com/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product)
+- [The Ultimate List of Customer Development Questions](https://mfishbein.com/the-ultimate-list-of-customer-development-questions/)
 
 ##### Deeper dive
 
@@ -71,25 +81,26 @@ Please contribute your favorite resources here
 ##### Books
 
 - [Interviewing for Research by Andrew Travers](https://trvrs.co/book/)
-- [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4)
-
+- [Talking to Humans](https://www.amazon.co.uk/Talking-Humans-Success-understanding-customers-ebook/dp/B00NSUEUL4) ([alternate free pdf](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf))
+- [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
+- [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X)
 
 #### Jobs to be done 
 
 ##### Quick reads and videos
 
-- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (video 5 min)
+- [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (5 min video)
 - [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
 ##### Deeper dive
 
-- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (video 57 min)
-- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (video 57 min)
+- [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (57 min video)
+- [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (57 min video)
 - [Xavier Russo - A step-by-step guide to using Outcome Driven Innovataion](https://medium.com/envato/a-step-by-step-guide-to-using-outcome-driven-innovation-odi-for-a-new-product-ded320f49acb)
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+- [Mastering Jobs-To-Be-Done Interviews](https://learn.jobstobedone.org/courses/JTBDinterviews)
 
 ##### Books
 
@@ -102,34 +113,44 @@ Please contribute your favorite resources here
 
 - [How to Build a Minimum Loveable Product](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c#.56uv0dydd)
 
+
 ##### Deeper dive
 
-- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (video 42 min)
+- [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (42 min video)
+- [How to Run Amazing Remote Design Sprints!](https://www.youtube.com/watch?v=IFHfsRNTGCM) (60 min video)
+- [Design Sprint Exercise Video Series](https://www.youtube.com/playlist?list=PLxk9zj3EDi0X5CgoFckoheIFAx-uT2i7j)
 
 ##### Online courses 
 
 Please contribute your favorite resources here
 
 ##### Books 
-
-Please contribute your favorite resources here
+- [Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+- [Jake Knapp: Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
+- [Ash Maurya: Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
 
 #### Growth and experimentation 
 
 ##### Quick reads and videos
 
-[Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
+- [Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
+- [10 Statistics Traps in A/B Testing: The Ultimate Guide for Optimizers](https://cxl.com/blog/testing-statistics-mistakes/)
+- [5 Common Threats to Your A/B Test’s Validity](https://instapage.com/blog/validating-ab-tests)
+
 ##### Deeper dive
 
-Please contribute your favorite resources here
+- [Product Led Growth Resources](https://openviewpartners.com/product-led-growth-resources/)
+- [GrowthHackers: Growth University](https://university.growthhackers.com/)
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+- [Reforge](https://www.reforge.com/all-programs)
 
 ##### Books
 
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
+- [Nir Eyal: Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
+- [Trusworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 - [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
 
 #### Design 
@@ -137,19 +158,24 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
+- [Jess Eddy: What do designers really want from product managers?](https://uxdesign.cc/what-do-designers-really-want-from-product-managers-9c0e14993a8)
+- [Jared Spool: Using the Kano Model to Build Delightful UX](https://youtu.be/ewpz2gR_oJQ) (45 min video)
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+- [Leaders of Awesomeness](https://leaders.centercentre.com/) 
+- [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+- [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=2255073)
 
 ##### Books
 
 - [Don Norman: The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 - [Steve Krug: Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
+- [Sketching User Experiences: The Workbook](https://www.amazon.com/Sketching-User-Experiences-Saul-Greenberg/dp/0123819598)
+- [The User Experience Team of One: A Research and Design Survival Guide](https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
 
 ### Delivery
 
@@ -158,6 +184,7 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [How to split a user story](https://agileforall.com/how-to-split-a-user-story/)
+- [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 
 ##### Deeper dive
 
@@ -178,6 +205,7 @@ Please contribute your favorite resources here
 - [Brandon Chu: Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 - [Sean McBride: RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 - [Ash Maurya: Love the Problem, Not Your Solution](https://blog.leanstack.com/love-the-problem-not-your-solution/)
+- [Launch mode vs iterate mode](https://www.intercom.com/blog/launch-mode-vs-iterate-mode/)
 
 ##### Deeper dive
 
@@ -221,7 +249,7 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/) (video 54 min)
+- [Des Traynor: Product Strategy Revisited](https://businessofsoftware.org/2014/12/product-strategy-saying-part-2-des-traynor-bos-usa-2014/) (54 min video)
 
 ##### Online courses 
 
@@ -229,17 +257,19 @@ Please contribute your favorite resources here
 
 ##### Books
 
-Please contribute your favorite resources here
+- [Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-dp-0062292986/dp/0062292986)
+- [Testing Business Ideas: A Field Guide for Rapid Experimentation](https://www.amazon.com/Rapid-Testing-Business-Ideas-Customer/dp/1119551447)
 
 #### Competitive analysis
 
 ##### Quick reads and videos
 
-- [Stop Ignoring Your Competitors...](https://producthabits.com/competitor-analysis/)
+- [Stop Ignoring Your Competitors...](https://producthabits.com/stop-ignoring-competitors/)
+- [The Startup Chat: Episode 319: How To Do Competitor Analysis](https://thestartupchat.com/ep319/)
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+- [SaaSFest Keynote: Building a Saas Company Isn't What it Used to Be](https://www.priceintelligently.com/blog/saasfest-keynote-speaker-hiten-shah-building-a-saas-business)
 
 ##### Online courses 
 
@@ -253,12 +283,12 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (video 5 min)
+- [John Doerr: Why the secret to success is setting the right goals](https://www.youtube.com/watch?v=L4N1q4RNi9I) (5 min video)
 - [David Skok: SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/)
 
 ##### Deeper dive
 
-- [Financial Modeling for Product Managers](https://tpgblog.com/2015/05/04/product-financial-modeling/) (video 60 min)
+- [Financial Modeling for Product Managers](https://tpgblog.com/2015/05/04/product-financial-modeling/) (60 min video)
 
 ##### Online courses 
 
@@ -268,6 +298,7 @@ Please contribute your favorite resources here
 
 - [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
 - [Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intagibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)
+- [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics](https://www.amazon.com/Measuring-User-Experience-Interactive-Technologies/dp/0124157815)
 
 ### Communication
 
@@ -293,7 +324,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+[Paul Graham: Write Simply](http://paulgraham.com/simply.html)
 
 ##### Deeper dive
 
@@ -325,6 +356,10 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
+##### Examples
+
+- [Example CAB Presentation](https://docs.google.com/presentation/d/11YI6zj3qMeTwXTmdovuZLEM2i3D-eNMdNXcQgc9coc8/edit#slide=id.g85b09e34a4_0_5)
+
 ### Team Management
 
 #### Stakeholder management
@@ -335,11 +370,11 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/) (video 20 min)
+- [Rosemary King: Stakeholders, let 'em in](https://www.mindtheproduct.com/stakeholders-building-an-open-door-culture/) (20 min video)
 
 ##### Online courses 
 
-* [Managing Project Stakeholders](https://www.linkedin.com/learning/managing-project-stakeholders-2?u=2255073) (LinkedIn Learning course)
+- [Managing Project Stakeholders](https://www.linkedin.com/learning/managing-project-stakeholders-2?u=2255073) (LinkedIn Learning course)
 
 ##### Books
 
@@ -368,10 +403,11 @@ Please contribute your favorite resources here
 ##### Quick reads and videos
 
 - [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
+- [How to Improve Your Emotional Intelligence to Become a Better Leader](https://getlighthouse.com/blog/how-to-improve-emotional-intelligence/)
 
 ##### Deeper dive
 
-- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (video 30 min)
+- [The New Manager Death Spiral](https://www.youtube.com/watch?v=pAbU3WJ-NBw) (30 min video)
 
 ##### Online courses 
 
@@ -388,7 +424,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+[Start with why -- how great leaders inspire action](https://www.youtube.com/watch?v=u4ZoJKF_VuA) (18 min video)
 
 ##### Deeper dive
 
@@ -400,7 +436,9 @@ Please contribute your favorite resources here
 
 ##### Books
 
-Please contribute your favorite resources here
+- [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
+- [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268)
+- [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
 
 ## Socializing in Product
 
@@ -414,6 +452,7 @@ There is a lot of amazing content and ongoing trends in the world of product dev
 - [https://www.intercom.com/blog/product-and-design/](https://www.intercom.com/blog/product-and-design/)
 - [https://producthabits.com/blog/](https://producthabits.com/blog/)
 - [https://www.mindtheproduct.com/](https://www.mindtheproduct.com/)
+- [https://cutlefish.substack.com/](https://cutlefish.substack.com/)
 
 #### Podcasts
 
