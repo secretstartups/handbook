@@ -147,6 +147,20 @@ The L&D Team will deprovision access to LinkedIn Learning to team members who le
 
 If you are on the L&D Team, you can watch a [video walkthrough](https://drive.google.com/file/d/1x0jhZ09xLN2VHMD_pc-ZUQu3FmXivg7e/view?usp=sharing) of the deprovisioning process. 
 
+### Collections
+
+The L&D Team or other sub-admins can create content Collections in LinkedIn Learning by going through the following steps: 
+
+1. Log in to LinkedIn Learning 
+1. Click "Go to Admin" in the top right 
+1. Click "Content" on the top bar 
+1. Click "+ Add" on the right and select "Create Collection" 
+1. a
+1. b
+1. c
+
+If you are on the L&D Team, you can watch a [video walkthrough](https://drive.google.com/drive/folders/186oiYAHEQV9QLXqocBnmTsPl-MhygDvW) of the deprovisioning process. 
+
 ## User access process with the EdCast
 
 All GitLab Learn users will be able to access free content on LinkedIn Learning. 
