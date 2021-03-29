@@ -44,8 +44,7 @@ With the LinkedIn Learning app, team members can download audio-only versions of
 ### Here's how you can participate:
 
 1. Join the [#walk-and-learn Slack channel](https://app.slack.com/client/T02592416/C01T24NNZ4G)
-1. Download and sign in to the LinkedIn Learning app
-1. Browse courses on the app, or check out [recommended learning paths for all team members](/handbook/learning-and-development/linkedin-learning/#recommended-learning-paths) and [skill of the month](/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month) outlined on this page
+1. Browse courses on the app, or check out [recommended learning paths for all team members](/handbook/people-group/learning-and-development/linkedin-learning/#recommended-learning-paths) and [skill of the month](/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month) outlined on this page
 1. Download the `audio-only` version of the course you want to listen to
 1. Get walking! Aim to take 2 walks per week when you tune into your LinkedIn Learning course. Use the `:walking:` emoji in your Slack status with the status `Going on a #walk-and-learn!` to let people know you're participating in the initiative!
 1. If you'd like, post a photo of your walk or a screenshot or link of the course you're listening to in the channel
