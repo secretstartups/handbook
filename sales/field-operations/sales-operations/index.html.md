@@ -511,15 +511,10 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 
-### **Sales Territories**
+### **Territory Management**
+1. [Sales Territories](/handbook/sales/territories/)
+2. [ISR Territories](https://about.gitlab.com/handbook/sales/territories/#territories)
 
-[Sales Territories](/handbook/sales/territories/)
-
-### **ISR Territories**
-1.  [ISR Territory Handbook Page](https://about.gitlab.com/handbook/sales/territories/#territories)
-2.  [ISR Territory SSOT File](https://docs.google.com/spreadsheets/d/1dzA_t3Nfa_C-qd-QJ41BkMy6I_A76FTTmXTXb57qZuI/edit#gid=0)
-3.  To request an update to ISR Territory Alignment, please open an issue in the [sale ops](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) project using the ISR Territory Change Template.
-4.  Link to Systems Handbook plage explaining automation - TBD
 
 ### **Territory Success Planning (TSP)**
 
