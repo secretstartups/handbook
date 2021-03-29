@@ -368,6 +368,19 @@ Complete list of priority countries as seen [here](https://docs.google.com/sprea
 
 </details>
 
+<details>
+<summary markdown='span'>
+[Language Preferencel](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)
+</summary>
+
+- French
+- Japanese
+- German
+- Default (English)
+
+</details>
+
+
 ### Account Based Marketing List   
 
 ABM lists are built by request for the Field Marketing and Marketing Program team to target & send emails/invitations to accounts deemed to be high priority by Sales. You can find these lists in the DMA folder in the [Marketo Database](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52943077A1).
