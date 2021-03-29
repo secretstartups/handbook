@@ -494,6 +494,9 @@ With all tests being run via dbt, storing tests results is simple. We store the 
 
 These test results are parsed and are available for querying in Sisense.
 
+The schema we store all test results is: `WORKSPACE_DATA`. <br>
+Note: This schema only containts views. 
+
 #### Schema To Golden Record Coverage
 
 The Data Warehouse environment can change quickly and the TDF supports predictability, stability, and quality with test coverage of the areas in the Data Warehouse that are most likely to change:
@@ -507,7 +510,7 @@ The implementation details of these tests are documented in our [dbt guide](/han
 
 #### Trusted Data Dashboard
 
-More to come.
+The Trusted Data Dashboard in Sisense can be found [here](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
 
 #### Test Run
 
