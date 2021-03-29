@@ -681,10 +681,7 @@ check of the final release post merge request. This section is about the latter.
 {: .alert .alert-info}
 
 The TW Lead is responsible for a final review of:
-
-- [Structural check](#structural-check)
-  - [Release post top feature](#release-post-top-feature)
-  - [Release post primary features](#release-post-primary-features)
+  - [Release post primary features](#primary-features) For any identified issues, inform the [TW reviewer](#tw-reviewers) to resolve as appropriate.
   - [Release post secondary features](#release-post-secondary-features)
 - [Frontmatter check](#frontmatter)
 - [Bugs](#bugs-mr)
@@ -752,18 +749,6 @@ features:
 ```
 
 Each [TW reviewer](#tw-reviewers) retains prime responsibility for each RP, [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades).
-
-#### Release post primary features
-
-All release post [primary features](#primary-features) should already have been reviewed by the [TW reviewer](#tw-reviewers).
-If you find an issue, do work with the TW reviewer, if time permits.
-
-To identify the primary features, look for `primary` directly beneath `features` in the RP `.yml` file:
-
-```yaml
-features:
-  primary:
-```
 
 #### Release post secondary features
 
@@ -1088,6 +1073,13 @@ The most important feature of the release, mentioned right after the MVP section
 #### Primary features
 
 Features with higher impact, displayed in rows after the top feature, with an image next to its text. An image accompanying the description is required. A [video](#videos) can also be added to replace the image.
+All release post [primary features](#primary-features) should be reviewed by the [TW reviewer](#tw-reviewers).
+To identify the primary features, look for `primary` directly beneath `features` in the RP `.yml` file:
+
+```yaml
+features:
+  primary:
+```
 
 #### Secondary features (other improvements)
 
