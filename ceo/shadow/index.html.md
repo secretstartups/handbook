@@ -482,7 +482,7 @@ Shadows should provide a 5-minute and 1-minute notification. If a meeting is run
 
 You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat. At time, the same will occur with "We are at time". To use the script, download it, and use `source setalarm.sh` in your MacOS terminal to load the `setalarm` function. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if no argument is provided).
 
-A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is available for [iOS](https://apps.apple.com/us/app/speech-timer-for-talks/id979433325) and [Android](https://play.google.com/store/apps/details?id=senzillo.talk_timer_free&hl=en_US&gl=US). It costs $1 to have 3 warning levels - purchasing the application is not required if you just wish to have one warning visualization and watch the timer for the others.
+A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is available for [iOS](https://apps.apple.com/us/app/speech-timer-for-talks/id979433325) and [Android](https://play.google.com/store/apps/details?id=senzillo.talk_timer_free&hl=en_US&gl=US). Compared to other apps, this timer is easy to setup for the meeting warning levels and to switch between meeting time lengths. It costs $1 to have 3 warning levels - purchasing the application is not required if you just wish to have one warning visualization and watch the timer for the others.
 
 ##### If you see something, say something
 
