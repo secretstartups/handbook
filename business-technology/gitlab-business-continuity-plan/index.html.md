@@ -195,7 +195,11 @@ The following links show the process carried out at GitLab to cater to this requ
 
 ## BIA Procedure
 
-1. A formal BIA questionnaire is distributed to the technical system owners for each system, as listed in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). If there are multiple individuals listed, one team member will be selected. The questionnaire will be sent to the team member's GitLab email directly from GitLab's GRC Application, ZenGRC. Additional information on completing this questionnaire can be found on the [ZenGRC Activities](https://about.gitlab.com/handbook/engineering/security/security-assurance/zg-activities.html#completing-zengrc-questionnaires) handbook page.
+1. A formal BIA questionnaire is distributed to the technical system owners for each system, as listed in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). If there are multiple individuals listed, one team member will be selected. The questionnaire will be sent to the team member's GitLab email directly from GitLab's GRC Application, ZenGRC. Additional information on completing this questionnaire can be found on the [ZenGRC Activities](https://about.gitlab.com/handbook/engineering/security/security-assurance/zg-activities.html#completing-zengrc-questionnaires) handbook page. More info on the quetionnaire is available in the video below.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=df5IDS-tGQA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 2. Once all responses have been received, the data will be sanitized and aggregated. Follow-ups with technical owners will be completed as required to ensure the data used is accurate, complete, and objective.
 
