@@ -681,6 +681,7 @@ check of the final release post merge request. This section is about the latter.
 {: .alert .alert-info}
 
 The TW Lead is responsible for a final review of:
+  - [Release post top feature](#top-feature) For any identified issues, inform the [TW reviewer](#tw-reviewers) to resolve as appropriate.
   - [Release post primary features](#primary-features) For any identified issues, inform the [TW reviewer](#tw-reviewers) to resolve as appropriate.
   - [Release post secondary features](#release-post-secondary-features)
 - [Frontmatter check](#frontmatter)
@@ -689,9 +690,7 @@ The TW Lead is responsible for a final review of:
 - [MVP check](#mvp-entry)
 - [Versioned documentation release](#versioned-documentation-release)
 
-While individual [TW reviewers](#tw-reviewers) are responsible for reviewing the structure and content of individual feature items,
-the TW Lead still has overall responsibility for confirming that style and language
-remain reasonably consistent and that all links point to relevant content.
+While individual TW reviewers and product managers have ultimate responsibility for the style and and language of their release post items, including [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades), TW leads still have an overall responsibility to notify the release post manager, the product managers and TW reviewers if style and language don't seem reasonably consistent (things are obviously out of sync with known guidelines). But it is not the responsibility of the TW leads to _fix_ style and language inconsistencies. However, TW leads _do_ have the responsibility and ownership to make sure that all links in the release post point to relevant content and be fixed, if issues are found. 
 
 #### Structural check
 
@@ -735,20 +734,6 @@ directly to the release post. After that time, anyone who wants to include a
 change in the upcoming release may need to submit it in a separate MR, with a
 target of the `release-X-Y` branch. For more information, see
 [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlab-release-posts).
-
-#### Release post top feature
-
-Pay close attention to the content of this item. As this will be the "headline" feature
-for the release, it's especially important "to get this right."
-
-To identify the [Top feature](#top-feature), look for `top` directly beneath `features` in the RP `.yml` file:
-
-```yaml
-features:
-  top:
-```
-
-Each [TW reviewer](#tw-reviewers) retains prime responsibility for each RP, [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades).
 
 #### Release post secondary features
 
@@ -1068,7 +1053,14 @@ The most relevant features of the release are included in the post by [product m
 
 #### Top feature
 
-The most important feature of the release, mentioned right after the MVP section. Images can be added at will in the description entry. A link to the documentation is required.
+The top feature of the release is mentioned right after the MVP section, prior to other primary features. An image or video and documentation links are required. The [TW lead](#tw-lead) will pay close attention to the content of this item, as it is the "headline" feature for the release and it's especially important to get it right. 
+
+To identify the [Top feature](#top-feature), look for `top` directly beneath `features` in the RP `.yml` file:
+
+```yaml
+features:
+  top:
+```
 
 #### Primary features
 
