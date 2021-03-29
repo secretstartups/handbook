@@ -42,17 +42,11 @@ For more details about the vision for this area of the product, see the [product
 ## Exciting things and accomplishments
 This section details the happenings within the Package group. At any given time this section will have the top three most exiciting things and/or accomplishments of the team.
 
-### Exciting things from 13.9
+### Exciting things from 13.10
 
-- You can now automatically authenticate when using the Dependency Proxy.
-- A new Packages & Registries Settings page was introduced to help power the growing functionality of the registry. In 13.9, we added the ability to [allow or prevent duplicate Maven packages](https://gitlab.com/gitlab-org/gitlab/-/issues/276882). 
-
-### Major accomplishments expected in FY22
-
-| Section:Stage:Group:Category | Three key features/jobs-to-be-done (Q1,Q2 FY22) |  Three key features/jobs-to-be-done (Q3/Q4 FY22) |
-| ------ | ------ | ------ |
-| Ops:Package:Package:Package Registry/Dependency Proxy | Drive dogfooding and GMAU by adding support for: [RubyGems](https://gitlab.com/groups/gitlab-org/-/epics/3200), [Lifting npm package naming conventions](https://gitlab.com/gitlab-org/gitlab/-/issues/33685) and [Debian packages](https://gitlab.com/gitlab-org/gitlab/-/issues/5835) | Help teams be more efficient by adding support for remote and virtual registries: [npm virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3608), [Maven virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3610), [NuGet virtual registry](https://gitlab.com/groups/gitlab-org/-/epics/3611) |
-| Ops:Package:Package:Container Registry | Lower the cost of storage for the registry: [Support online garbage collection](https://gitlab.com/groups/gitlab-org/-/epics/2313), [Count registry size against object storage usage](https://gitlab.com/gitlab-org/gitlab/-/issues/31039), [Enable cleanup policies by default for all projects](https://gitlab.com/gitlab-org/gitlab/-/issues/196124) | Make it easier to use the container registry: [Remove branch related images on merge](https://gitlab.com/gitlab-org/gitlab/-/issues/26983), [Use GitLab metadata to verify and troubleshoot Docker images](https://gitlab.com/gitlab-org/gitlab/-/issues/197996), [Mark container images as protected to prevent accidental overwrite/deletion](https://gitlab.com/gitlab-org/gitlab/-/issues/18984) |
+- We lifted the [strict naming convention for npm](https://gitlab.com/gitlab-org/gitlab/-/issues/33685), resulting in a 20% increase in adoption on GitLab.com. 
+- We added support for [pulling container images by digest when using the Dependency Proxy](https://gitlab.com/gitlab-org/gitlab/-/issues/290944). This means we now support Docker 20.x. 
+- We resolved a one year old bug that got to the heart of how [Maven package and plug-in metadata](https://gitlab.com/gitlab-org/gitlab/-/issues/11424) are uploaded to the registry. 
 
 ## Team Members
 
