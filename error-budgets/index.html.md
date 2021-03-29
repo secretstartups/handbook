@@ -140,7 +140,7 @@ Guidance for stage groups is:
 |**Monthly Spend** |**Action**|
 |------------------|----------|
 | < 10 minutes     | Understand your spend - no further action required. |
-| > 10 minutes     | Increase focus on performance and availability, reach out to Scalability for guidance. |
+| > 10 minutes     | Increase focus on performance and availability, reach out to Scalability for guidance via [review request issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). |
 
 # Current State and Future Intent
 
