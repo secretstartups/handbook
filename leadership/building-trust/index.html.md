@@ -150,15 +150,18 @@ Below are potential team day activities:
 1. Create Slack social threads to solve riddles, play a trivia game, post GIFs to represent your day, and share photos.
 
 #### More Ideas for Activities
+
+- [Among Us](https://innersloth.com/gameAmongUs.php) - Free on mobile, multiple platforms.
 - [Battleship](https://battleship-teams.com/) - Free!
-- [Among Us](https://innersloth.com/gameAmongUs.php) - Free, multiple platforms.
-- [Drawphone](https://rocketcrab.com/game/drawphone) - Free!
-- [Drawasaurus](https://www.drawasaurus.org/) - Free!
+- [Card & board game "table"](https://playingcards.io/) - Free!
 - [City Guesser](https://virtualvacation.us/guess) - Free!
-- [Escape Rooms](https://brainchase.com/escape-rooms-for-parties-events/) - Small fee based on team size
+- [Drawasaurus](https://www.drawasaurus.org/) - Free!
+- [Drawphone](https://rocketcrab.com/game/drawphone) - Free!
+- [Escape rooms](https://brainchase.com/escape-rooms-for-parties-events/) - Small fee based on team size.
+- [GeoGuessr](https://www.geoguessr.com/) - Free. Guess your location based on what you see in Google Street View.
+- [Google Feud](https://googlefeud.com/) - Free. Like Family Feud but you're guessing Google autocomplete.
 - [Jackbox](https://www.jackboxgames.com/) - Small fee for each pack. Only the host needs to own the game.
-- [Online Multiplayer](https://jigsawpuzzles.io/) [Jigsaw Puzzles](https://www.jigsawexplorer.com/) – Free!
-- [Card & Board Game "Table"](https://playingcards.io/) – Free!
+- Online multiplayer jigsaw puzzles ([1](https://jigsawpuzzles.io/), [2](https://www.jigsawexplorer.com/)) - Free!
 
 ## Learning Speaker Series - Building Trust with Remote Teams
 
