@@ -347,8 +347,8 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix" style="grid-column: 1/12"><b>Employee Travel & Entertainment</b></div>   
   <div class="item-auth-matrix" style="grid-column: 1/12">Non Billable Expenses</div>  
   <div class="item-auth-matrix">Up to $5K</div>
-  <div class="item-auth-matrix">Approves</div>  <!-- Team Member -->
-  <div class="item-auth-matrix"></div>  <!-- Manager -->
+  <div class="item-auth-matrix"></div>  <!-- Team Member -->
+  <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
