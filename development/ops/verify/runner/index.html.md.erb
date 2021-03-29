@@ -252,6 +252,17 @@ month. The agenda can be found
 [here](https://docs.google.com/document/d/1fJfUzsk2RJqLaN8C42fXWzsTo5M8sZDQ5N2M-qJGt2M/edit?usp=sharing)
 (internal link).
 
+### Deprecations process
+
+At GitLab, our release post policy specifies that deprecation notices need to be added to the release post at least two cycles before the release when the feature is removed or officially obsolete. There are typically several deprecations or removals that the runner team needs to manage across the main runner project and the other projects that this team maintains.  As such, the runner development team uses the following process to manage deprecations and removals. This process should start no later than one month after the launch of a major release.
+
+1. The assigned developer creates a Deprecations and Removal epic for the next major release. See example [epic](https://gitlab.com/groups/gitlab-org/-/epics/3212).
+1. The assigned developer collects all planned deprecations and removals with input from the development team and includes them in the epic.
+1. The assigned developer verifies that there are deprecation issues created for each deprecation.
+1. The assigned developer tags the runner development team, engineering manager, and product manager.
+1. The product manager uses the list of issues to create the deprecation notices. Our goal is to start announcing deprecations no later than six cycles before the next major release.
+1. The product manager will continue to include the deprecation notices in all release post entries up to and including the major release where the features will be fully deprecated or removed.
+
 ## Regression Error Budget Process
 
 Each quarter we have an error budget of how many regression the release
