@@ -682,7 +682,6 @@ check of the final release post merge request. This section is about the latter.
 
 The TW Lead is responsible for a final review of:
   - [Release post primary features](#primary-features) For any identified issues, inform the [TW reviewer](#tw-reviewers) to resolve as appropriate.
-  - [Release post secondary features](#release-post-secondary-features)
 - [Frontmatter check](#frontmatter)
 - [Bugs](#bugs-mr)
 - [Performance improvements](#performance-improvements-mr)
@@ -749,20 +748,6 @@ features:
 ```
 
 Each [TW reviewer](#tw-reviewers) retains prime responsibility for each RP, [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades).
-
-#### Release post secondary features
-
-All release post [Secondary features](#secondary-features-other-improvements) should already have been reviewed by the [TW reviewer](#tw-reviewers).
-If you find an issue, do work with the TW reviewer, if time permits.
-
-To identify the primary features, look for `primary` directly beneath `features` in the RP `.yml` file:
-
-```yaml
-features:
-  secondary:
-```
-
-Images or videos are not required for secondary features.
 
 #### Frontmatter
 
@@ -1083,9 +1068,16 @@ features:
 
 #### Secondary features (other improvements)
 
-Relevant improvements in GitLab. Image is not required, but recommended.
+Relevant improvements in GitLab that follow after top and primary features. Images or videos aren't required, but are recommended. All release post [Secondary features](#secondary-features-other-improvements) should be reviewed by the [TW reviewer](#tw-reviewers).
 
 If the secondary feature is promoted to a primary feature, the PM or EM will be asked to supply an image on **short notice**.
+
+To identify the secondary features, look for `secondary` directly beneath `features` in the RP `.yml` file:
+
+```yaml
+features:
+  secondary:
+```
 
 ### Content blocks
 
