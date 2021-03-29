@@ -50,7 +50,7 @@ Below is a [firt time login training video](https://www.youtube.com/watch?v=uE-1
 
 GitLab Learn first time login steps:
 
-1. GitLab team members should choose `LogIn with GitLab Team Members SSO` via Okta. Non-team members should choose `LogIn with GitLab.Com SSO`.
+1. GitLab team members should choose `LogIn with GitLab Team Members SSO` via Okta. Non-team members should choose `LogIn with Email and Password`.
 1. Enter your first and last name
 1. Upload a profile photo. This step is optional at this phase of the sign on process and can be uploaded/edited within the platform at a later date
 1. Click `Next Step`
@@ -62,7 +62,7 @@ GitLab Learn first time login steps:
 1. At this point, you will be dropped into the GitLab Learn platform on the Discover page, and can begin to explore GitLab learning content! 
 
 
-Please note that the only option for authentication to GitLab Learn by users who are not GitLab team members will be SSO via GitLab.com.
+Please note that at this time, the only option for authentication to GitLab Learn by users who are not GitLab team members will be using an email and password .
 
 
 ### Getting familiar with the platform
@@ -100,7 +100,7 @@ This navgation bar links to the following support resources:
 
 1. [GitLab Docs](https://docs.gitlab.com/)
 1. [GitLab Support Ticket](https://support.gitlab.com/hc/en-us)
-1. [GitLab Handbook](https://about.gitlab.com/handbook/)
+1. [GitLab Handbook](/about.gitlab.com/handbook/)
 1. User Documentation and Trainings (on this page)
 
 #### Search bar
@@ -191,7 +191,7 @@ For a video walkthrough on sharing your badge to LinkedIn watch the following vi
 
 ## Reporting content in violation of the GitLab Code of Conduct
 
-GitLab Learn users are encouraged to report content on the platform that is in violation of the [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). 
+GitLab Learn users are encouraged to report content on the platform that is in violation of the [GitLab Code of Conduct](/community/contribute/code-of-conduct/). 
 
 Steps for reporting GitLab Learn content:
 
@@ -209,7 +209,7 @@ From here, the GitLab L&D team will moderate and remove comments and content in 
 
 ## Reporting content errors in GitLab Learn
 
-Learners in the platform might come across errors like spelling mistakes, broken links, or information that is not up to date. Please help our team by reporting these errors by open an issue using the template `gitlab-learn-error-report` on the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions/-/boards)
+Learners in the platform might come across errors like spelling mistakes, broken links, or information that is not up to date. Please help our team by reporting these errors by open an issue using the template `gitlab-learn-error-report` on the [lxp-contributions issue board](/gitlab-com/people-group/learning-development/lxp-contributions/-/boards)
 
 ## Frequently asked questions
 
@@ -220,13 +220,13 @@ The LXP implementation team is planning a phased rollout of the platform to mult
 
 ### Where is the content in the LXP stored?
 
-Content in GitLab Learn is developed using a [handbook first](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) approach. All learning content is stored in the handbook. Teams at GitLab use additional tools like Articulate 360 and Rise to build interactive courses.
+Content in GitLab Learn is developed using a [handbook first](/handbook/people-group/learning-and-development/interactive-learning/) approach. All learning content is stored in the handbook. Teams at GitLab use additional tools like Articulate 360 and Rise to build interactive courses.
 
 In addition to GitLab learning material stored in the handbook, GitLab team members will have access to off the shelf learning opportunity from other vendors and organizations, like LinkedIn Learning and WILL Learning.
 
 ### How can I contribute?
 
-The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/).
+The contribution process to the LXP is being built, and you can follow updates in the [learning and development handbook](/handbook/people-group/learning-and-development/gitlab-learn/contribute/).
 
 ### How do I share a GitLab Learn badge externally?
 
@@ -238,7 +238,7 @@ Please review the steps for [submitting a support ticket](/handbook/people-group
 
 ### I'm having trouble logging in or making a new account on GitLab Learn.
 
-Please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users). If you are not a GitLab team member, please be sure you've [created a gitlab.com account](https://gitlab.com/users/sign_up) in order to sign in to GitLab Learn.
+Please review the steps for [submitting a support ticket](/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users).
 
 ### I can't see all the content in a Pathway or Journey on GitLab Learn.
 
