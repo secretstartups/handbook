@@ -18,7 +18,7 @@ Most of the resources here are free but any content requiring payment [can be re
 
 Over time, we will add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/#competencies), [CDF](/handbook/product/product-manager-role/#product-management-career-development-framework) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
-## Recommended books and talks for all product managers
+## Recommended books and talks for all GitLab product managers
 
 These books are highly recommended to be read by every product manager at GitLab:
 
@@ -31,9 +31,11 @@ These books are highly recommended to be read by every product manager at GitLab
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
      - [Related live talk by author](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 
-These GitLab-specific items are also key for each product manager at GitLab: 
+## GitLab Specific Competencies and Content 
 
-- [Opportunity Canvas Reviews](https://youtu.be/ZXbwtLoxPjM)
+- [Example Opportunity Canvas Review](https://youtu.be/ZXbwtLoxPjM)
+
+## Broad Product Management Learning Content 
 
 ### Discovery
 
