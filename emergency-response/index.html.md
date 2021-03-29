@@ -30,7 +30,11 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 * Providing FINAL email, landing page, form copy, autoresponder copy, etc.
     * NOTE: The addition of each item will increase scope and potentially delay announcement
 * Requesting target list from Data Team (creating the issue)
-* Creating [email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
+* Creating epic and corresponding issues
+      * Creating Epic - [Template here](/handbook/marketing/emergency-response/#customer-comms-epic-issues)
+      * Creating [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
+      * Creating [Form request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request)
+      * Creating [Landing Page request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request)
 * Providing approval list and who signs off on the email
 * Approving test email 
 * Providing any edits to the test email
@@ -137,7 +141,7 @@ The requestor (Security, TAM, etc.) will follow the process below to create the 
 ### :link: Key links
 * [Copy Document]() `to be added by requestor ` ([use this template](https://docs.google.com/document/d/1hv0XF7j6SibLgHgGFxxlrbPrufxbcXHrO8ZRG04nFjU/edit#))
 * [Target List]() `to be added by requestor when final`
-* [Marketo Program]() `to be added by MOps` [shortcut](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4267A1)
+* [Email Program]() `to be added by MOps` [shortcut](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF4267A1)
 * **Determine email platform:**
    - [ ] If list less than 20k, most likely deploy with Marketo
    - [ ] If list 20-30k, most likely deploy with MailJet
@@ -147,7 +151,8 @@ The requestor (Security, TAM, etc.) will follow the process below to create the 
 * [ ] [Request target list issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) (Data Download Request template) - requestor open, Data Team DRI
 * [ ] [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) - requestor open, MOps DRI
   - the email issue is blocked until requestor provides final copy
-* [ ] If landing page required: [Landing Page request issue]() (optional, will increase scope and delay timeline) - requestor open, MOps DRI
+* [ ] If landing page required: [Landing Page request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request) (optional, will increase scope and delay timeline) - requestor open, MOps DRI
+* [ ] If form required: [Form request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request)
 
 ### :point_up: Reminders on action items & timeline
 * Requestor is responsible for providing FINAL copy, including review by all reviewers, by date indicated in timeline
@@ -156,4 +161,5 @@ The requestor (Security, TAM, etc.) will follow the process below to create the 
 
 /confidential
 /label ~"MktgOps-Urgency::P1" ~"MktgOps-Priority::High Priority" ~"Customer Success" ~TAM 
+/cc @amy.waller
 ```
