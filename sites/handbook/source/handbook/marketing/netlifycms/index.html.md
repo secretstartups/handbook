@@ -67,7 +67,7 @@ To edit an existing or create a new page in Netlify CMS, that [content type need
 7. Visit GitLab and locate the associated merge request with your edit.
     - If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=netlify-cms%2Fdraft)
 8. Assign the merge request to yourself, and assign a reviewer if it's ready to be reviewed.
-9. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged.
+9. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged. **Note**: There is a separate approval process if you are planning to publish a new blog post. Please see the [blog handbook](/handbook/marketing/blog/#publishing-process) for instructions.
 
 ## Content Types Enabled in Netlify CMS
 
