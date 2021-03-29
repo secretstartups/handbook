@@ -175,7 +175,7 @@ In order to define an issue as a "transient bug," use the `~"bug::transient"` la
 
 ### Infradev Issues 
 
-An issue may have an `infradev` label attached to it, which means it subscribes to a dedicated process to related to SaaS availability and reliability, as detailed in the [Infradev Engineering Workflow]((https://about.gitlab.com/handbook/engineering/workflow/#infradev)). These issues follow the established [severity SLOs for bugs](/handbook/engineering/quality/issue-triage/#severity-slos).
+An issue may have an `infradev` label attached to it, which means it subscribes to a dedicated process to related to SaaS availability and reliability, as detailed in the [Infradev Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/#infradev). These issues follow the established [severity SLOs for bugs](/handbook/engineering/quality/issue-triage/#severity-slos).
 
 ## Triaging Issues
 
