@@ -109,7 +109,7 @@ The project owner is responsible for following the steps below to create the epi
 - [ ] Consider creating separate invite htmls with UTMs for each partner and GitLab to send to GitLab and the partner sales orgs to help drive attendance.  Separate UTMs will help us track registrations coming from each sales org
 * [ ] Add to /events/ page - [Handbook Instructions](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents)
 * [ ] [Speaker request issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=pmm-speaker-request) (optional)
-* [ ] [Organic social promotion issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-general-request) (optional)
+* [ ] [Organic social promotion issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic) (optional)
 * [ ] [Paid digital promotion issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=mktg-promotion-template) (optional)
 
 ## If partner is sharing leads:
