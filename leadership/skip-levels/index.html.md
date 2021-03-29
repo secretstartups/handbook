@@ -74,3 +74,4 @@ _Having a large organization is not a reason to not conduct skip-level meetings.
   Manager-Tools
 * [The Art of the Skip Level
   Meeting](https://www.linkedin.com/pulse/art-skip-level-meeting-scott-boulton%2C-chrp-5948801065834024960/)
+* [Skip Level Meetings](https://about.gitlab.com/handbook/engineering/development/dev/create/engineers/skip-level/)
