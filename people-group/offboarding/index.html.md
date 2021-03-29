@@ -270,9 +270,10 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 *  When staging the document for signatures, please note:
     *  Remember to send the document to the team member's _personal_ email address
     *  Select the `assign signature order` option in HelloSign to ensure the team member signs the document first
-    *  All US severance agreements should be signed by Pattie Egan, VP of People Operations.  If Pattie is unavailable then Wendy Nice Barnes, CPO will be responsible for signing.
+    *  All US (Inc.) severance agreements should be signed by Pattie Egan, VP of People Operations.  If Pattie is unavailable then Wendy Nice Barnes, CPO will be responsible for signing.
+    * US (Federal LLC.) severance agreements need to be signed by an appropriate team member within the Federal Entity. 
     
-1. ***TMR***: When the signed document is received, the Specialist should upload it to the team member's BambooHR profile in the `termination` folder
+1. ***TMR***: When the signed document is received, the TMR should upload it to the team member's BambooHR profile in the `termination` folder
 1. ***TMR***: As a final step, the PBP should ping the `#payoll_peopleops_terms` private channel to confirm that the Severance document has been signed and uploaded to BambooHR
 
 _Important Notes:_
