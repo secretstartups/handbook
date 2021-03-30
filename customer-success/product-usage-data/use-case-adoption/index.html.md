@@ -4,7 +4,7 @@ title: "Customer Product Adoption"
 description: "How we measure a customer's adoption for general GitLab and different use cases"
 ---
 
-To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. 
+To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Product Usage Data handbook page](/product-usage-data/using-product-usage-data-in-gainsight/).
 
 
 ## User Engagement
