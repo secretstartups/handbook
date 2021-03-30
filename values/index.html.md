@@ -3,8 +3,8 @@ layout: handbook-page-toc
 title: "GitLab Values"
 description: Learn more about how we live our values at GitLab
 canonical_path: "/handbook/values/"
-twitter_image: "/images/opengraph/Talent-Brand/hiring-day-in-the-life-darren.png"
-twitter_image_alt: "GitLab Team Member working from home office, happy to see baby join the video call."
+twitter_image: "images/opengraph/gitlab_values_handbook_social_card.png'"
+twitter_image_alt: "GitLab Values featuring six unique tanuki icons expressing our values. Collaboration: two tanukis together. Results: a tanuki with a bar graph. Efficency: a tanuki with a clock face. Diversity, inclusion and belonging: a rainbow tanuki. Iteration: a tanuki with arrows cycling the head. Transparency: a semi-transparent tanuki that looks like it's made of glass."
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 
