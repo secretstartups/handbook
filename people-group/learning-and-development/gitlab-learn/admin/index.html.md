@@ -630,7 +630,7 @@ EdCast uses a tool called EdGraph, hosted by Domo, to provide pre-built and cust
 
 ### How to get EdGraph Access
 
-Follow the steps outlined in the handbook to open an [individual access request for the `EdGraph` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `slee24@`.
+Follow the steps outlined in the handbook to open an [individual access request for the `EdGraph` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `@slee24`.
 
 Once processed, you'll be able to be added as a collaborator on reports in EdGraph. Please work with the L&D team to be sure the essential reports are shared to your account.
 
