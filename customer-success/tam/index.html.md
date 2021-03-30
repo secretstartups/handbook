@@ -46,6 +46,8 @@ title: "Technical Account Management Handbook"
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
+- [Product Usage Data](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+- [Customer Use Case Adoptiom](/handbook/customer-success/product-usage-data/use-case-adoption/)
 
 
 ##### Digital Journey:

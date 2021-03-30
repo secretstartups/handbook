@@ -22,7 +22,7 @@ Gainsight will help across several different areas within Customer Success. Some
 - Consistency: Establish customer lifecycle process, manage and track engagement
 - Visibility: health scores, risk, adoption, and data visuals
 - Automation: process, adoption, enablement for digital journey
-- Metrics and Analytics: Stage Adoption, customer health, time-to-value,
+- Metrics and Analytics: Stage Adoption, customer health, time-to-value, product usage data
 - Grow Net Retention: Success plan-driven engagement, expand plays
 
 ## Getting Started
@@ -179,6 +179,8 @@ The videos listed here are internal to GitLab only. You will need to be logged i
 - [Sally Slackbot](https://education.gainsight.com/series/end-user-training/gainsight-sally)
 - [How a Gainsight CSM Uses Gainsight](https://education.gainsight.com/series/end-user-training-for-nxt/how-a-gainsight-csm-uses-gainsight)
 - [Using Gainsight in Account Team Meetings](https://youtu.be/gT_pz9PoHHg)
+- [License Usage in Gainsight](https://youtu.be/ZqpmxoUy6EE)
+- [Product Usage Data - Overview](https://youtu.be/5_J9Kfbu5JA)
 
 ## Feedback about Gainsight
 

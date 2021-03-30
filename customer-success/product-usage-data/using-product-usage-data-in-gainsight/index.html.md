@@ -29,32 +29,6 @@ For a video overview, see [the corresponding video overview](https://youtu.be/5_
 
 For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). FY22-Q1 will have self-managed only. 
 
-## Data
-
-### Data Integrations
-
-Data will be integrated from Snowflake —> Gainsight on a monthly basis. Over time, this will move to bi-weekly and then weekly.
-
-![Product Usage Data Flow Diagram](https://lucid.app/publicSegments/view/cba91861-d0aa-4f96-8848-56a2eec5798b/image.jpeg)
-
-### Data Sources and Application
-
-Below are the various data sources, their definitions, and uses.
-
-##### Usage Ping (self-managed)
-
-We utilize Usage Ping to derive self-managed customer usage data. For more details, see [Usage Ping FAQs](/handbook/customer-success/tam/usage-ping-faq/). Any references to "Usage Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
-
-##### SaaS (Snowplow))
-
-We are targeting SaaS product usage data in FY22-Q2.
-
-##### Seat Link
-
-Seat Link data encompasses license utilization data for **all** customers, regardless of type (self-managed or SaaS). Limitations:
-1. For privacy reasons, we do not collect the hostname (see [blog post](https://about.gitlab.com/blog/2020/03/16/how-were-improving-self-managed-billing/)) or other instance meta data. Instead, the highest reporting instance for a given subscription is displayed
-1. Seat Link does **not** have product usage data; it only counts licenses
-
 ## Gainsight Reports and Dashboards
 
 Use the [Product Usage Data Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) to see the full list of your accounts. Once on the C360, 
@@ -118,6 +92,41 @@ The Product Stage definitions have been extracted from the [Metrics Dictionary](
 Eventually, the metrics list and definitions will be embedded directly in the handbook. As a first iteration, the list of metrics and their definitions are in the [Data Mart - Table Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0) spreadsheet.
 
 See our technical documentation for our [instance of Gainsight's Adoption Explorer](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit).
+
+## Data
+
+### Data Integrations
+
+Data will be integrated from Snowflake —> Gainsight on a monthly basis. Over time, this will move to bi-weekly and then weekly.
+
+![Product Usage Data Flow Diagram](https://lucid.app/publicSegments/view/cba91861-d0aa-4f96-8848-56a2eec5798b/image.jpeg)
+
+### Data Sources and Application
+
+Below are the various data sources, their definitions, and uses.
+
+### Triaging Data Quality
+
+* Seat Link: Use the [License Usage reporting bad data](https://about.gitlab.com/handbook/customer-success/tam/gainsight/license-usage/#reporting-bad-data) process
+* Usage Ping: 
+   1. Confirm with CS Operations whether the data quality issue is specific to Gainsight or upstream (post in #gainsight-users)
+   1. If the data quality issue is upstream, create a data quality issue in the [Data project](https://gitlab.com/gitlab-data/analytics/-/issues)
+      1. Attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216)
+      1. Please include screenshots for troubleshooting and _mark issue as confidential_
+
+##### Usage Ping (self-managed)
+
+We utilize Usage Ping to derive self-managed customer usage data. For more details, see [Usage Ping FAQs](/handbook/customer-success/tam/usage-ping-faq/). Any references to "Usage Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
+
+##### SaaS (Snowplow))
+
+We are targeting SaaS product usage data in FY22-Q2.
+
+##### Seat Link
+
+Seat Link data encompasses license utilization data for **all** customers, regardless of type (self-managed or SaaS). Limitations:
+1. For privacy reasons, we do not collect the hostname (see [blog post](https://about.gitlab.com/blog/2020/03/16/how-were-improving-self-managed-billing/)) or other instance meta data. Instead, the highest reporting instance for a given subscription is displayed
+1. Seat Link does **not** have product usage data; it only counts licenses
 
 ## Requesting New Metrics 
 
