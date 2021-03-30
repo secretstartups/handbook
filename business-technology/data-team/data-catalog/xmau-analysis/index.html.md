@@ -70,15 +70,15 @@ Each metric has three different versions (Recorded, Estimated, Projected), expla
   - [the Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/#recorded-and-calculated-data)
 Currently, recorded metrics that have identified usage ping metrics have been charted on the Centralized Dashboard, but we are working on our first version of Estimated values [in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/6547#note_429610192).
 
-#### Difference between xMAU and Paid xMAU
+### Difference between xMAU and Paid xMAU
 
-##### Paid xMAU Definition
+#### Paid xMAU Definition
 
 Each of these above metrics will be calculated for xMAU and paid xMAU. Paid xMAU is currently defined as Monthly Active Users who "roll up to a paid instance for Self-Managed via Usage Ping data _or_ a paid namespace for SaaS via GitLab.com Postgres Database Imports in a 28 day rolling period". (See [Paid Stage Monthly Active Users - Paid SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#paid-stage-monthly-active-users-paid-smau) as an example.)
 
 Since GitLab Business functions currently do not have a standardized way to identified which namespaces or instances belong to an OSS, EDU, internal projects, or other subscriptions that have a paid plan type but do not contribute ARR, the current implementation of xMAU include users associated with these subscriptions as "paid".
 
-##### Calculation of xMAU and Paid xMAU
+#### Calculation of xMAU and Paid xMAU
 
 We have 2 main data sources to calculate xMAU and paid xMAU, the Version App and the Gitlab.com Postgres database. The table below summarises which data source is used for those calculations.
 
