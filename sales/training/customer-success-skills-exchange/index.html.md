@@ -10,6 +10,10 @@ description: "Continuous education webcast series for GitLab Customer Success te
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
+---
+
 # Customer Success Skills Exchange Sessions
 
 ## Upcoming Training
@@ -19,14 +23,10 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Mar 3 |  [Objection Handling Techniques & Role Play](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/123#note_515649154)            |     **Reshmi Krishna & David Astor**         |
-| Mar 10 |[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)  | **Julie Byrne** |
-| Mar 17 | [Gitlab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)              |  **Simon Mansfield**               |
-| Mar 24 | [Protect PM Shadow Show and Tell](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/118)              |   **Karen Kwentus**              |
-| Mar 31  |  [Integrate & Analyze Usage Data in Gainsight](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/119#note_515359639)             |    **Jeff Beaumont**             |
+| Mar 31 | [Integrate & Analyze Usage Data in Gainsight](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/119#note_515359639)              |   **Jeff Beaumont**        |
 | Apr 7  |  [Detailed Deep Dive on Git/ SCM Capabilities](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/31)             |    **William Arias**             |
-| Apr 14 |         |           |
-| Apr 21 |          |            |
+| Apr 14 | [Breaking Changes in 14.0](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/124)        |   **Julie Byrne**         |
+| Apr 21 |         |           |
 | Apr 28 | *No sessions during last week of the quarter*
 
 
@@ -36,6 +36,9 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-03-24 | **[Product Roadmap Update](https://youtu.be/2K5wVhitfBk)**            |  Public          |
+| 2021-03-10 | **[Peeling back the layers of Auto Devops](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/121)**  | Public |
+| 2021-03-03 | **[Objection Handling Techniques & Role Play](https://youtu.be/vobGVMqUpqA)**            |     Public         |
 | 2021-02-24 | **[Tracking Value With GitLab - DORA4 Metrics](https://youtu.be/iZzGjnf_T_Y)** | Public |
 
 

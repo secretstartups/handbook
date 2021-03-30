@@ -78,7 +78,7 @@ The Partner Helpdesk team has compiled a list of issues and solutions to the mos
 
 ## Help Your Partners Become a GitLab Certified Service Partner:
 
-Step 1: Introduce your partners to the GitLab Certified Service Partner 
+Step 1: Introduce your partners to the [GitLab Certified Service Partner Program](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview) 
 
 Step 2: Set an enablement plan with the partner representative that identifies their key employees who sign up for training and become certified to meet the enablement requirements.
 
@@ -116,10 +116,11 @@ Within 7 calendar days of assignment of the issue to the CAM who will:
     5. Direct your partners to our social media sharing kit to help them effectively announce their new certification per our social media kit.
     6. Invite your partner to work with you to Start building the partners’ GitLab service practice per our service development.
 2. The Issue will automatically be assigned to GitLab Partner Help Desk who will: 
-    7. Update the partner portal account information
+    1. Update the partner portal account information
+    2. If this is the first GitLab Certified Service Partner certification, grant the partner admin access to the GitLab Service Partner Community after the CAM has notified the partner about their new certification. [This video](https://www.brighttalk.com/webcast/18613/472279) demonstrates how.
                                                                                                                                                                                                                                                  
 3. If the partner indicates they want to create a Press Release about their new Services Certification; please follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#partner-needs-support-of-their-press-release-pr-with-a-quote-from-gitlab)  to request a press release.
-1. [Practitioner Badging Process - link to Training & Enablement ops](https://docs.google.com/document/d/1HXWEJ-Yr26YQYpp_Ap2sqA14Ltsu0je0dQUsnh12p6w/edit?usp=sharing)
+1. [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/)
 2. Impartner vs. Edcast: 
 
 
@@ -330,7 +331,7 @@ Create a [Single Access Request](https://gitlab.com/gitlab-com/team-member-epics
 4. _Assignee: _Your Manager,_ _Yourself (so you can track)
 5. _Labels:_ IT::to do, AR-Priority::3 (other labels will be auto-added)
 6. Click _Submit Issue_ button
-7. In the _Comments _section below the body of the issue, type: @gitlab-com/business-ops/team-member-enablement and then click _Comment_ to post.
+7. In the _Comments _section below the body of the issue, type: @gitlab-com/business-technology/team-member-enablement and then click _Comment_ to post.
 8. You may also want to comment to @your manager to ask them to label _AR-Approval Manager Approved_ and _ReadyForProvisioning_
 9. Once approved, it should be processed by IT-OPs within the timeframe needed
 

@@ -147,6 +147,8 @@ If a `Global Account` has a lower segment than any of its child accounts, the `G
 - `Mid-Market` = 101-2000 total employees
 - `SMB` (Small Business) = 0-100 total employees
 
+![gtm-model](/handbook/sales/field-operations/gtm-resources/gtm-model.png)
+
 `Total Employee` count is based on the number of employees that our data tools return for that account <b>as determined in the [sales segment review process time period](#sales-segment-and-hierarchy-review-process)</b>.
 We use a hierarchy structure to determine what the number of employees is for the account.
 The hierarchy of our data tools on _Accounts_ as they relate to the `Total Employee` count is shown below.
@@ -456,6 +458,19 @@ Salesforce campaigns are used to track efforts of marketing tactics - field even
 The campaign types align with how marketing tracks spend and align the way records are tracked across three of our core systems (Marketo, Salesforce and Bizible) for consistent tracking.
 Leveraging campaign aligns our efforts across Marketing, Sales and Finance. For information on integrated campaigns (managed by Marketing Programs), please see the [Integrated Campaigns handbook page](/handbook/marketing/campaigns/) and to learn more about planned, in progress, and previously executed campaign tactics, please see the [Marketing Programs handbook page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/).
 
+## Outreach & Tracking End of Availability Customers
+
+To ensure that we're engaged with those customers who were a part of the Starter/Bronze End of Availability initiative, Sales is asked to track their outreach (and other engagements) in SFDC by way of activities.  Below are the steps to ensure we're capturing that activity: 
+
+**Process For Tracking EoA Customer Outreach:** You should follow your existing outreach cadence and tracking via SFDC activities.  However, for any/all outreach to EoA customers, you make two important updates in SFDC:
+1. Enter the words “Starter”, “Bronze” or “EoA” in some capacity in the Activity Comments
+1. Update the `EoA Sentiment` field on the Account (red, yellow, green - defined in the help text)
+
+**Reporting**: 
+- All EoA customers can now be tracked in SFDC leveraging the `FY22 On Starter/Bronze` field (if box is checked, they’re an EoA customer).  A full list by segment, region and owner can be found [HERE](https://gitlab.my.salesforce.com/00O4M000004ajNm)
+- EoA account list: https://gitlab.my.salesforce.com/00O4M000004ajNm
+- EoA accounts with activity: https://gitlab.my.salesforce.com/00O4M000004ajpR
+
 ## System Set-up
 
 ##### Marketo Programs
@@ -522,7 +537,7 @@ Opportunities should be moved to new stage within 48 hours of IQM.
 ##### How to create an Opportunity
 
 An OPPORTUNITY can be created in Salesforce a) when converting a LEAD to CONTACT; b) from a CONTACT.
-**All opportunities** should be created with a Stage = `00-Pre Opportunity` regardless of how you create the OPPORTUNITY.
+**All opportunities** should be created with a Stage = `0-Pending Acceptance` regardless of how you create the OPPORTUNITY.
 Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages) can updated based on the criteria below.
 
 ##### Creating a New Business Opportunity from CONTACT record
@@ -535,7 +550,7 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
     - Type = `New Business`
     - Initial Source = DO NOT CHANGE
     - Close Date = if no time frame defined, **SDR** set close date rolling 9-months
-    - Stage = `00-Pre Opportunity` - starting stage for ALL opportunities
+    - Stage = `0-Pending Acceptance` - starting stage for ALL opportunities
     - Add as much detail on the OPPORTUNITY record as you can.
     - Click `SAVE`
 1. Scroll down OPPORTUNITY record to the `Contact Roles` section, **click** `New`. CONTACTS associated to the ACCOUNT will be listed (up to 50 records). You must select a CONTACT as **Primary** and define the `Role`.
@@ -545,7 +560,6 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
     - Fill in the `Related to` section for BOTH the CONTACT and the OPPORTUNITY
     - Change the `Assigned to` field to the OPPORTUNITY owner
     - Click `Save`
-1. Update the OPPORTUNITY Stage from `00-Pre Opportunity` to the correct stage -> normally `0-Pending Acceptance`.
 1. Update the 'NEXT STEP DATE FIELD' with the date of the next action step (most often an IQM).
 1. Enter in 'NEXT STEPS' with details that correlate to the NEXT STEP DATE FIELD.
 
@@ -575,7 +589,6 @@ Once the initial setup is complete, the [OPPORTUNITY Stage](#opportunity-stages)
 1. Within the OPPORTUNITY record, click the `Initial Qualifying Meeting` button. Enter the required fields (Start/End dates, Type) and update the description field with any notes the SAL/AM should have and review _before_ taking the scheduled meeting.
     - Fill in the `Related to` section for BOTH the CONTACT and the OPPORTUNITY
     - Change the `Assigned to` field to the OPPORTUNITY owner
-1. Update the OPPORTUNITY Stage from `00-Pre Opportunity` to the correct stage -> normally `0-Pending Acceptance`.
 1. Update the 'NEXT STEP DATE FIELD' with the date of the next action step (most often an IQM).
 1. Enter in 'NEXT STEPS' with details that correlate to the NEXT STEP DATE FIELD.
 
@@ -595,7 +608,7 @@ This creates a parent-child relationship between the _original_ `New Business` O
 1. Define:
     - `Initial Source` = see the [definition table](#initial-source) to choose the most correct source. It is important to be accurate as this does impact reporting and marketing attribution.
     - Close Date = if no timeframe defined input close date on a rolling 9-months.
-    - Stage = All opportunities start as `00-Pre-Opportunity`
+    - Stage = All opportunities start as `0-Pending Acceptance`
 1. Add any additional details on the OPPORTUNITY record
 1. Click `Save`
 
@@ -649,7 +662,7 @@ See [Working with Professional Services](/handbook/customer-success/professional
     - Type = do not change it will populate from parent OPPORTUNITY
     - Initial Source = do not change it will populate from parent OPPORTUNITY
     - Close Date = if no timeframe defined input close date on a rolling 9-months.
-    - Stage = All opportunities start as `00-Pre-Opportunity`
+    - Stage = All opportunities start as `0-Pending Acceptance`
     - Professional Services Value (ProServe Value) = enter dollar value, which is defined as the total value of all consulting, training, integration, or other professional services as outlined in the Statement of Work.
     - ACV = **do not populate** an automated workflow will fill this information
     - Amount = **do not populate** an automated workflow will fill this information
@@ -808,23 +821,13 @@ For example, a customer starts January 1st for 12 months, but wants to reset sta
 
 To help move sales through the sales process, [here](https://docs.google.com/document/d/1ag7YY9aJ93j0CRZb-DrbfgH3vmHprTEdjG7l3O57xEk/edit) is a list of questions to ask at each stage
 
-**00-Pre Opportunity**- This stage should be used when an opportunity does not meet our opportunity criteria. However, there is a potential for business, and it should be tracked for possible business.
-
-- What to Complete in This Stage:
-    - Schedule a discovery call with prospect to determine if there is an opportunity to pursue; or
-    - If there is no opportunity then the stage would be updated to 9-Unqualified.
-- Creating an Opportunity in this stage from Contacts
-    - If you are qualifying a contact for a new business opportunity, open an opportunity in this stage and use the qualification questions in the qualification section on the opportunity while qualifying the contacts.
-    - "Convert" Opportunities from this stage to **0-Pending Acceptance** when the opportunity meets [our criteria for an opportunity](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao)
-    - Follow [our process](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes) on creating opportunities from a contact record.
-
 **0-Pending Acceptance**: This is the initial stage once an opportunity is created.
 
 - What to Complete in This Stage:
     - For SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](/handbook/marketing/revenue-marketing/sdr/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity-sao).
     - The SDR has scheduled a call via Google Calendar, sent invites, created an event on the account object, named the event: GitLab Introductory Meeting - {{Account Name}}
     - Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to the next stage and the `Amount` field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
-    - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to an `8-Unqualified` stage (this is the only time an opportunity can move into `8-Unqualified` stage) or to `00-Pre Opportunity` if passed back to an SDR for further qualification.
+    - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to an `9-Unqualified` stage (this is the only time an opportunity can move into `9-Unqualified` stage) 
     - All Opps that are sales assisted must first enter this stage before they can be moved further in the pipeline. If they do not enter this stage at some point you will encounter a validation rule error.
     - For renewal opportunities, `0-Pending Acceptance` is only to be used if the renewal is not being actively worked by the Account Executive/Strategic Account Leader.
 
@@ -924,7 +927,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 
 ##### Opportunity Stage Movement Considerations
 
-Note that once you qualify an opportunity via our standard qualification process, you cannot revert an opportunity back to the following stages: `00-Pre Opportunity`, `0-Pending Acceptance`, or `9-Unqualified`.
+Note that once you qualify an opportunity via our standard qualification process, you cannot revert an opportunity back to the following stages: `0-Pending Acceptance`, or `9-Unqualified`.
 If you need to revert an opportunity you've previously qualified to one of these stages, please contact Sales Operations and we can determine why the opportunity (once qualified) is no longer qualified.
 
 ##### Reverting an Opportunity to a Previous Stage
@@ -1016,6 +1019,32 @@ Process:
 1. Once approved, Sales Operations will update the "Executive Sponsor" field.
 1. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O4M000004e2Ma)
 1. Executive Sponsor [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#)
+
+##### Executive Opportunity Sponsorship Program
+
+In contrast to the Account Sponsorship Program outlined above which runs in perpetuity, the Opportunity Sponsorship is an ephemeral (ie: short lived) program where a member of the e-group is assigned as a dedicated part of the Opportunity Team for a specific FH FY21 [Swing Opportunity](https://about.gitlab.com/handbook/sales/sales-term-glossary/#swing-opportunity). Since there are very few Swing Opportunities in any given quarter, only a small number of Opportunities will have e-group sponsor. 
+
+The primary purpose of the program is to improve our forecast accuracy by raising visibility of material deals to the e-team, exposing the sponsor to the opportunity process and strategy, and creating a forcing function for the Account Team to prepare properly and be accountable for specific actions during the life of the opportunity.
+
+Example activities for sponsors:
+1. The e-group member will maintain direct relationships with Opportunity Team
+2. Collaborate with opportunity stakeholders in the internal slack channel for the Account
+3. Participate in Opportunity Consults together with the Area Sales Manager. 
+4. Participate in opportunity strategy meetings
+5. Direct communications with the customer
+6. Facilitation of internal conversations and resources where necessary.
+
+How Opportunities are selected for and matched to an e-group sponsor:
+1. Maximum number of Opportunities per e-group sponsors: 2
+2. Opportunities may be nominated by SAL’s or Sales Management if they meet the Swing Deal criteria
+3. Sponsored Opportunities typically represent deep product utilization, significant ARR opportunity, and/or a broad vision for success and engagement/partnership with GitLab.
+
+Process:
+1. Executive sponsors are to be nominated as part of the Opportunity Team field in Salesforce 
+2. Opportunity Owners are responsible for establishing a regular Opportunity Consult with their ASM, SA and TAM by working with the e-group members EA to schedule
+3. Executive Sponsored Opportunity are listed in Salesforce (link TBD)
+4. Command and Close Plans should be updated regularly in preparation for the consult
+5. The e-team opportunity sponsor is responsible for reporting back the current status (brief), next steps, and their assessment to the e-team on a monthly basis
 
 ## Types of Accounts
 

@@ -143,57 +143,57 @@ A **Ramp Deal** is defined as ["a single deal with multiple individual ramp peri
 
 In FY22, Ramp Deals will be limited to 12 month ramp periods. This means that only multi-year deals can be ramped. Each ramp period will have its own opportunity in Salesforce. All ramp deals will be stamped with the "Ramp Deal" [Opportunity Category](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#opportunity-category) value.
 
-- **New Business Ramp Deal Example:** A customer purchases a three-year ramped new subscription, where the Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
+- **New Business Ramp Deal Example:** A customer purchases a three-year ramped new subscription, where the Year 1 value = $100,000, the Year 2 value = $200,000, and the Year 3 value = $300,000.
 
 **Opportunity 1 - Year 1:**
 
-Ramp Period: 2021-01-01 to 2021-12-31
+Ramp Period: 2021-01-01 to 2021-12-31 | Close Date: No more than 15 days prior to 2021-01-01
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
-| New Business | 12 months | $100,000 | $100,000 |
+| New Business | 36 months | $600,000 | $100,000 |
 
 **Opportunity 2 - Year 2:**
 
-Ramp Period: 2022-01-01 to 2022-12-31
+Ramp Period: 2022-01-01 to 2022-12-31 | Close Date: 2022-01-01
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
-| New Business | 12 months | $200,000 | $100,000 |
+| New Business | 12 months | $0 | $100,000 |
 
 **Opportunity 3 - Year 3:**
 
-Ramp Period: 2023-01-01 to 2023-12-31
+Ramp Period: 2023-01-01 to 2023-12-31 | Close Date: 2023-01-01
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
-| New Business | 12 months | $300,000 | $100,000 |
+| New Business | 12 months | $0 | $100,000 |
 
-- **Renewal Ramp Deal Example:** A customer purchases a three-year ramped renewal subscription, where the ARR Basis is $100,000, Year 1 TCV = $100,000, the Year 2 TCV = $200,000, and the Year 3 TCV = $300,000.
+- **Renewal Ramp Deal Example:** A customer purchases a three-year ramped renewal subscription, where the ARR Basis is $100,000, Year 1 value = $100,000, the Year 2 value = $200,000, and the Year 3 value = $300,000.
 
 **Opportunity 1 - Year 1:**
 
-Ramp Period: 2021-01-01 to 2021-12-31
+Ramp Period: 2021-01-01 to 2021-12-31 | Close Date: No more than 15 days prior to 2021-01-01
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
 | ------ | ------ | ------ | ------ | ------ |
-| Renewal | 12 months | $100,000 | $100,000 | $0 |
+| Renewal | 12 months | $600,000 | $100,000 | $0 |
 
 **Opportunity 2 - Year 2:**
 
-Ramp Period: 2022-01-01 to 2022-12-31
+Ramp Period: 2022-01-01 to 2022-12-31 | Close Date: 2022-01-01
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
 | ------ | ------ | ------ | ------ | ------ |
-| Renewal | 12 months | $200,000 | $100,000 | $100,000 |
+| Renewal | 12 months | $0 | $100,000 | $100,000 |
 
 **Opportunity 3 - Year 3:**
 
-Ramp Period: 2023-01-01 to 2023-12-31
+Ramp Period: 2023-01-01 to 2023-12-31 | Close Date: 2023-01-01
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **ARR Basis** |  **Net ARR** |
 | ------ | ------ | ------ | ------ | ------ |
-| Renewal | 12 months | $300,000 | $200,000 | $100,000 |
+| Renewal | 12 months | $0 | $200,000 | $100,000 |
 
 For more information about **quoting Ramp Deals**, visit the [Deal Desk Handbook.](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#how-to-create-a-ramp-deal)
 
@@ -255,33 +255,17 @@ In this scenario, the Net ARR for a 6 month add/on upgrade is $50,000. Because N
 
 #### Calculating Net ARR for Annual Payment Deals:
 
-An Annual Payment Deal is defined as a multi-year deal that is paid annually. For these deals, each payment period will have its own Close Won opportunities in Salesforce. All annual payment opportunities will be stamped with the "Annual Payments" [Payment Schedule](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#payment-schedule) value.
+An Annual Payment Deal is defined as a multi-year deal that is paid annually. These deals will be captured on a single opportunity, if flat. If ramped, these deals will be captured on multiple opportunities, per the above Ramp Deal section. All annual payment opportunities will be stamped with the "Annual Payments" [Payment Schedule](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#payment-schedule) value.
 
 - **New Business Annual Payments Deal Example:** A customer purchases a three-year new subscription with annual payments, where the total TCV of the deal is $300,000.
 
-**Opportunity 1 - Year 1:**
+**Opportunity:**
 
-Subscription Term: 2021-01-01 to 2021-12-31
-
-| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
-| ------ | ------ | ------ | ------ |
-| New Business | 12 months | $100,000 | $100,000 |
-
-**Opportunity 2 - Year 2:**
-
-Subscription Term: 2022-01-01 to 2022-12-31
+Subscription Term: 2021-01-01 to 2023-12-31
 
 | **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
 | ------ | ------ | ------ | ------ |
-| New Business | 12 months | $100,000 | $0 |
-
-**Opportunity 3 - Year 3:**
-
-Subscription Term: 2023-01-01 to 2023-12-31
-
-| **Type** | **Opportunity Term**  | **Amount/TCV** | **Net ARR** |
-| ------ | ------ | ------ | ------ |
-| New Business | 12 months | $100,000 | $0 |
+| New Business | 36 months | $300,000 | $100,000 |
 
 Note: **Annual Payments** require additional approvals. See "Deferred Payments" in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.5r6g2e2czzmp).
 

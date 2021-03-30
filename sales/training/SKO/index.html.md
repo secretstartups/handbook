@@ -135,6 +135,7 @@ Reference: [Company Code of Conduct](https://about.gitlab.com/community/contribu
 | Welcome to GitLab Sales Kickoff 2021 | [slides](https://docs.google.com/presentation/d/1tYA4skru1M8n41D41ZIA-4klgEiq3BRwRxXo2FF-tHg/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-welcome) (GitLab internal) |
 | Product Keynote: A Winning Product for Peak Performance | [slides](https://docs.google.com/presentation/d/1NunKRuZBnDcZi0k_N5-NQBvdy5X5ZaV4a1Qf7w126qs/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-product) (GitLab internal) |
 | Customer Spotlight: H-E-B and GitLab: A Happy Marriage | [slides](https://docs.google.com/presentation/d/1-PZn0IlB6SYvPMDW2zcF06mqAY61u9b-Dnv0vxRgJTI/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/customer-spotlight) (GitLab internal) |
+| Customer Spotlight: Trendyol & GitLab: How International Expansion Drives Business Needs | [slides](https://docs.google.com/presentation/d/1Hk0sJnqtNwmuakQ3_awOuY_lJJkbzeOD1zVn5bG8Trw/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-trendyol) (GitLab internal) |
 
 ## SKO 2021 Day 2 Sessions
 

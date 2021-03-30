@@ -23,6 +23,13 @@ title: "Sales Territories"
 1. `Sales Operations` to update LeanData download updated csv.
 1. Territory Management updates will be uploaded to LeanData by `Sales Operations` **after** change in system has been made.
 
+### Territory Ownership (ISR)
+
+1. Create an issue in the **Sales Operations** project - utilizing the [ISR Territory Change template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=ISRTerritoryChange)
+1. Follow the directions within the template & provide all the requested details
+1. `Sales Operations`and `Sales Systems` to update SFDC
+1. `Sales Operations`to update the [ISR Territories Mapping File](https://docs.google.com/spreadsheets/d/1dzA_t3Nfa_C-qd-QJ41BkMy6I_A76FTTmXTXb57qZuI/edit#gid=0) 
+
 #### Updating these tables without updating Operations will not be reflected in our various systems causing all reports and routing to be incorrect!
 
 {:.no_toc}
@@ -42,7 +49,9 @@ title: "Sales Territories"
 
 ## Territories
 
-For the detailed breakdown of how the territories are mapped please reference the [Territories Mapping File - SSoT Master tab](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit?usp=sharing)
+For the detailed breakdown of how the territories are mapped please reference the mapping files:
+1. [Sales Territories Mapping File - SSoT Master tab](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit?usp=sharing)
+2. [ISR Territories Mapping File](https://docs.google.com/spreadsheets/d/1dzA_t3Nfa_C-qd-QJ41BkMy6I_A76FTTmXTXb57qZuI/edit#gid=0)
 
 ### Large
 
@@ -62,22 +71,28 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales 
 | ---------- | ---- | -------------- | ----- | 
-|	NA East	|	Named East	|	**Named Accounts**	|	Mark Bell	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Jordan Goodwin	|
-|	NA East	|	Named East	|	**Named Accounts**	|	David Wells	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Larry Biegel	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Chip Digirolamo	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Josh Rector |
-|	NA East	|	Named East	|	**Named Accounts**	|	Sean Billow	|
-|	NA East	|	Named East	|	**Named Accounts**	|	Scott Hall	|
+|	NA East	|	East	|	Large-AMER-East-Named-1	|	Mark Bell	|
+|	NA East	|	East	|	Large-AMER-East-Named-2	|	Jordan Goodwin	|
+|	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	|
+|	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector |
+|	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	|
+|	NA West	|	Southwest	|	Large-AMER-West-1	|	Haydn Mackay	
+|	NA West	|	Southwest	|	Large-AMER-West-2	|	Alan Cooke	|
 |	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-2	|	Joe Drumtra	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-3	|	Haydn Mackay|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-4	|	Philip Wieczorek	|
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-5	|	Lydia Pollitt	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	|
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-2	|	Jim McMahon	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 3	|	Nico Ochoa	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 4	|	Joe Miklos	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 5	|	Michael Nevolo	|
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 6	|	Michael Scott	|
 |	NA East	|	Northeast	|	Large-AMER-Central-1	|	Tim Kuper	|
 |	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	|
 |	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	|
 |	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	|
-|	NA West	|	Southwest	|	Large-AMER-Large-West-1	|	Haydn Mackay	|
 |	LATAM	|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	|
 |	LATAM	|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	|
 |	NA West	|	Midwest	|	Large-AMER-Midwest-1	|	Timmothy Ideker	|
@@ -85,10 +100,18 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	|
 |	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	|
 |	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	|
+|	NA East	|	Northeast	|	Large-AMER-Northeast-5	|	Patrick Byrne	|
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	|
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-5	|	Robert Hyry	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-1	|	Chris Graham	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-2	|	Katherine Evans	|
 |	NA East	|	Southeast	|	Large-AMER-Southeast-3	|	Jim Bernstein	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-4	|	David Wells	|
+|	NA East	|	Southeast	|	Large-AMER-Southeast-5	|	Larry Biegel	|
+
 
 
 #### Public Sector
@@ -102,7 +125,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Evan Mathis |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis |
-| Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw | Evan Mathis |
+| Public Sector | **State and Local (SLED South)** | TBD | Alexis Shaw | Evan Mathis |
 | Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-2** | TBH | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey |
@@ -135,24 +158,26 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales |
 | ---------- | ---- | -------------- | ----- | 
-|	EMEA	|	Named EMEA	|	**Named Accounts**	|	Hugh Christey	|
-|	EMEA	|	Named EMEA	|	**Named Accounts**	|	Timo Schuit	|
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	|
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	|
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Christoph Stahl	|
+|	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	|
 |	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	|
 |	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	|
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	|
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	|
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	|
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	|
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	|
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-2	|	Aslihan Kurt	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	|
-|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Simon Williams	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	TBD	|
 |	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	|
+|	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Godwill NDulor	|
+
 
 ### Mid-Market
 
@@ -160,6 +185,12 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
+|	NA East	|	US East	|	MM-AMER-East-Named-1	|	Sharif Bennett	|
+|	NA East	|	US East	|	MM-AMER-East-Named-2	|	Steve Xu	|
+|	NA East	|	US East	|	MM-AMER-East-Named-3	|	Daniel Parry	|
+|	NA East	|	US East	|	MM-AMER-West-Named-1	|	Christopher Chiappe	|
+|	NA East	|	US East	|	MM-AMER-West-Named-2	|	Kyla Gradin	|
+|	NA East	|	US East	|	MM-AMER-West-Named-3	|	Matthew Kobilka	|
 |	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Michael Miranda	|
 |	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Jenny Kline	|
 |	LATAM	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	|
@@ -167,10 +198,10 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	US East	|	MM-AMER-EAST-NE	|	Michael Miranda	|
 |	NA East	|	US East	|	MM-AMER-EAST-SE	|	Jenny Kline	|
 |	NA East	|	US East	|	MM-AMER-EAST-Southeast	|	Daniel Parry	|
-|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Laura Shand	|
+|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Doug Robbin*	|
 |	NA West	|	US West	|	MM-AMER-WEST-NorCal	|	Brooke Williamson	|
 |	NA West	|	US West	|	MM-AMER-WEST-NW	|	Brooke Williamson	|
-|	NA West	|	US West	|	MM-AMER-WEST-SF	|	Laura Shand	|
+|	NA West	|	US West	|	MM-AMER-WEST-SF	|	Brooke Williamson*	|
 |	NA West	|	US West	|	MM-AMER-WEST-SoCal	|	Douglas Robbin	|
 
 #### APAC
@@ -188,6 +219,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
+|	EMEA	|	MEA	|	MM-EMEA-Named-1	|	Anthony Ogunbowale-Thomas	|
+|	EMEA	|	MEA	|	MM-EMEA-Named-2	|	Israa Mahros	|
 |	Africas	|	Africas	|	MM-EMEA-Africas	|	Daisy Miclat	|
 |	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Conor Brady	|
 |	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Conor Brady	|
@@ -305,3 +338,4 @@ For the detailed breakdown of how the territories are mapped please reference th
 | ---------- | ---- | -------------- | ----- | 
 |	AMER	|	US West	|	SMB-AMER-West-FO	|	Todd Lauver	|
 
+Note - An asterisk(*) next to the sales name indicates temporary coverage

@@ -18,44 +18,45 @@ President’s Club is synonymous with excellence and rewards individuals for ach
 
 ## How to Qualify
 
-For GitLab's FY21 President's Club, 42 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip in May 2021. Team member start dates must be on or before 2020-08-03 to be eligible and still be employed by GitLab at the time of the incentive trip to receive the benefit. Selection criteria varies by role (see below).
+For GitLab's FY22 President's Club, 49 GitLab team members (along with 1 guest per team member) will be rewarded with an invitation to join the President's Club incentive trip in May 2022. Exact dates to follow. Team member start dates must be on or before 2021-08-01 to be eligible and still be employed by GitLab at the time of the incentive trip to receive the benefit. Selection criteria varies by role (see below).
 
-## Selection Criteria
+## Eligibility Criteria
 
 | Category | # of winners | Criteria | 
 | ------ | ------ | ------ |
-| Top Strategic Account Leaders | 8 | based on % of annual full quota (full quota, non-ramped annual quota, prorated based on start date) as shown on the [FY21 President's Club Dashboard](https://app.periscopedata.com/app/gitlab/670929/WIP:-FY21-President's-Club-Dashboard) |
-| Top Mid Market Account Executives | 4 | same as above |
-| Top SMB Account Executive | 2 | VP/CRO selection (see SMB tab of [this doc](https://docs.google.com/spreadsheets/d/1UMY0rDbSPjw_X9nXKpe7r1SMPuZohgVjVhqEpdGYBJQ/edit?usp=sharing) for details) |
-| Top Area Sales Managers | 3 (2 ENT, 1 COM) | based on top quota performance (full quota, non-ramped annual quota, prorated based on start date) as shown on the [FY21 President's Club Dashboard](https://app.periscopedata.com/app/gitlab/670929/WIP:-FY21-President's-Club-Dashboard) |
-| Top Enterprise Sales Regional Director | 1 | same as above |
-| Top Solution Architects | 6 (may include Channel SAs) | VP/CRO selection (see CS tab of [this doc](https://docs.google.com/spreadsheets/d/1UMY0rDbSPjw_X9nXKpe7r1SMPuZohgVjVhqEpdGYBJQ/edit?usp=sharing) for details) |
-| Top Inside Sales Rep | 1 | VP/CRO selection (see ISR tab of [this doc](https://docs.google.com/spreadsheets/d/1UMY0rDbSPjw_X9nXKpe7r1SMPuZohgVjVhqEpdGYBJQ/edit?usp=sharing) for details) |
-| Top Channel & Alliances Managers | 3 (2 Channel Sales Managers, 1 Biz Dev/Alliances Manager) | VP/CRO selection (see Channels/Alliances tab of [this doc](https://docs.google.com/spreadsheets/d/1UMY0rDbSPjw_X9nXKpe7r1SMPuZohgVjVhqEpdGYBJQ/edit?usp=sharing) for details) |
-| Top Technical Account Managers & Professional Services Engineer | 7 (6 TAMs, 1 PSE) | VP/CRO selection (see CS tab of [this doc](https://docs.google.com/spreadsheets/d/1UMY0rDbSPjw_X9nXKpe7r1SMPuZohgVjVhqEpdGYBJQ/edit?usp=sharing) for details) |
-| Top Sales Development Reps | 2 | CMO selection (see SDR tab of [this doc](https://docs.google.com/spreadsheets/d/1UMY0rDbSPjw_X9nXKpe7r1SMPuZohgVjVhqEpdGYBJQ/edit?usp=sharing) for details) |
-| Top Sales Development Manager | 1 | CMO selection (see SDR tab of [this doc](https://docs.google.com/spreadsheets/d/1UMY0rDbSPjw_X9nXKpe7r1SMPuZohgVjVhqEpdGYBJQ/edit?usp=sharing) for details) |
-| Top CRO Organization Managers | 2 managers in the CRO org that don’t fall under one of the other Club award categories | VP/CRO selection (sales leader nominations to be collected by 1/31/21) |
-| Non-Sales MVPs | 2 | VP/CRO selection (sales leader nominations to be collected by 1/31/21) |
+| Top Strategic Account Leaders | 12 | Ranking by % of annual full quota (full quota, non-ramped annual quota, prorated based on start date) as shown on the FY22 President's Club Dashboard (link coming soon). See ENT tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=210333776) for details. |
+| Top Mid Market Account Executives | 6 | Ranking by % of annual full quota (full quota, non-ramped annual quota, prorated based on start date) as shown on the FY22 President's Club Dashboard (link coming soon). See MM tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=2130992) for details. |
+| Top ENT, MM, SMB Area Sales Managers | 4 (2 ENT, 2 COM) | Top quota performance as shown on the FY22 President's Club Dashboard (link coming soon), ≥ 36 Rep months under management. See ENT, MM, & SMB tabs of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=210333776) for details. |
+| Top ENT, MM, SMB Director/AVP | 2 (1 ENT, 1 COM) | Top quota performance as shown on the FY22 President's Club Dashboard (link coming soon), ≥ 36 Rep months under management. See ENT, MM, & SMB tabs of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=210333776) for details. |
+| Top SMB Account Executive | 3 | Top Closed/Won Net ARR. See SMB tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=974153580) for details. |
+| Top Solution Architects | 7 | VP/CRO selection. See CS tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=916403586) for details. |
+| Top Inside Sales Rep | 1 | VP/CRO selection. See ISR tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=1292511725) for details. |
+| Top Channel Sales Managers | 3 | Leader selection. See Channel/Alliances tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=577788595) for details. |
+| Top Alliances | 1 | Leader selection. See Channel/Alliances tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=577788595) for details. |
+| Top Technical Account Managers | 5 | Leader selection. See CS tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=916403586) for details. |
+| Top Professional Services Engineers | 2 | Leader selection. See CS tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=916403586) for details. |
+| Top Sales Development Reps | 2 | VP/CMO selection. See SDR tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=0) for details. |
+| Top Sales Development Manager | 1 | VP/CMO selection. See SDR tab of [this doc](https://docs.google.com/spreadsheets/d/11lct1eoCU7iWCff7OB0xU0BIy1tQ6wLcU7aRsghnWlM/edit?ts=604be470#gid=0) for details. |
+| Top CRO Organization Managers | 2 | VP/CRO selection. Managers in the CRO org that don’t fall under one of the other Club award categories. Sales leader nominations to be collected by 1/31/22. |
+| MVPs (Non-Sales) | 2 | CRO staff selection. Sales leader nominations to be collected by 1/31/22. |
 
-## Additional Criteria
-- Sales management must have a total of 36 SAL months under management during the fiscal year to qualify (e.g. 1 SAL all year would be 12 SAL months). 
-
-Please direct any questions to your manager.
-
-## Club 2021 FAQ
+## Presidents Club FAQ
 
 **What is the latest on President’s Club 2020?**
 
-We continue to adapt to the global health and travel challenges, and after a lot of careful consideration, we have made the decision to postpone the 2020 Presidents Club until next year. [2020 winners](https://docs.google.com/presentation/d/1XnXGkNagz6ZbJIqzBphoXdAs-Vra59Kjrj4IT_YEyp4/edit#slide=id.g883d59c798_4_0) will be combined with 2021 winners in the same event. 
+We continue to adapt to the global health and travel challenges, and after a lot of careful consideration, we made the difficult decision to postpone 2020 Presidents Club and combine 2020 and 2021 winners in the same event. 
 
 **What are the dates and location of President’s Club 2021?**
 
-[President’s Club 2021](/handbook/sales/club/) will be at the [Ritz Carlton in Maui, Hawaii](https://www.ritzcarlton.com/en/hotels/kapalua-maui) from May 11-14, 2021.  
+[President’s Club 2021](/handbook/sales/club/) will be at the [Ritz-Carlton in Maui, Hawaii](https://www.ritzcarlton.com/en/hotels/kapalua-maui) from November 30 - December 3, 2021.  
 
 **What happens if I am a President’s Club recipient in both 2020 and 2021?**
 
 If you are a President’s Club winner in <ins>both 2020 and 2021</ins>, you will receive two extra days at the Ritz Carlton in Maui for you and your guest. 
+
+**What are the dates and location of President’s Club 2022?**
+
+[President’s Club 2022](/handbook/sales/club/) will be at the [Ritz-Carlton Grand Cayman Islands Resort](https://www.ritzcarlton.com/en/hotels/caribbean/grand-cayman) in May 2022. Exact dates and schedule to be announced.  
 
 **Do I get extra time if I’m traveling from EMEA/APAC?**
 
@@ -63,20 +64,20 @@ While we understand that the trip is long, there will not be extra time allotted
 
 **How do I qualify for President’s Club?**
 
-Please see the [How to Qualify](/handbook/sales/club/#how-to-qualify) section above. 
+Please see the [How to Qualify](/handbook/sales/club/#how-to-qualify) section above for PC 2022. 
 
 **How are President’s Club winners selected?**
 
-Please see the [Selection Criteria](/handbook/sales/club/#selection-criteria) section above. 
+Please see the [Selection Criteria](/handbook/sales/club/#eligibility-criteria) section above for PC 2022. 
 
-**What is the schedule for President’s Club?**
+**What is the schedule for President’s Club 2020/2021?**
 
-- May 11 - Travel Day & Welcome Reception
-- May 12 - Planned activities; Club Dinner
-- May 13 - Planned activities; Farewell Reception
-- May 14 - Travel Day; two-time winners (2020 and 2021) will stay 
-- May 15 - Relaxation day for two-time winners 
-- May 16 - Travel Day for two-time winners
+- November 30 - Travel Day & Welcome Reception
+- December 1 - Planned activities; Club Dinner
+- December 2 - Planned activities; Farewell Reception
+- December 3 - Travel Day; two-time winners (2020 and 2021) will stay 
+- December 4 - Relaxation day for two-time winners 
+- December 5 - Travel Day for two-time winners
 
 **If I am selected as a President’s Club winner, can I bring a guest?**
 
@@ -92,9 +93,9 @@ Club is an adult-only event that is intended for team members to spend time toge
 
 If you have a family member or child that requires 24 hour care, or some other unique circumstance that jeopardizes your ability to attend, we can explore exceptions. For additional information, please reach out to Cheri Holmes and Libby Schulze via email. 
 
-**When will we announce Club 2021 winners?**
+**When will we announce Club 2022 winners?**
 
-Winners for President’s Club 2021 will be announced during the Awards Dinner at Sales Kickoff (SKO) taking place from Feb 8-12, 2021. For more information about SKO, please see [this Handbook page](/handbook/sales/training/SKO/).
+Winners for President’s Club 2022 will be announced during the Awards Dinner at Sales Kickoff (SKO) taking place in February 2022. For more information about SKO, please see [this Handbook page](/handbook/sales/training/SKO/).
 
 Reference: [GitLab Events Code of Conduct](https://about.gitlab.com/company/culture/contribute/coc/)
 

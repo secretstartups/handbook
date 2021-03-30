@@ -63,6 +63,17 @@ The Deal Desk team will do their best to respond to each request to '@sales-supp
 | Contract Reset / Co-Term | 6 Hours | 24 Hours | 
 | RFP/Vendor Forms | 6 Hours | Dependent on AM |
 
+### SLA for EoA Ramp Deal Requests
+
+The Deal Desk team will respond to E0A Ramp requests as quickly as possible. However, due to the complexity involved in building ramp deals, the SLA for an EoA Ramp Deal Order Form creation is as follows:
+
+| Subscription Term Start Date | First Response | Resolution |
+|----- | ----- | ------| 
+| < 30 days in the future | 4 Hours | 1 Business Day | 
+| > 30 days in the future| 4 Hours | 3 Business Days |
+
+A Deal Desk team member will respond to your chatter request with an estimate on when the Order Form will be complete. Please let us know if your customer requires the quote in advance due to lengthy procurement cycles or budget planning reasons - exceptions will be considered in cases of urgency, or to meet a customer's needs.
+
 #### Deal Desk - A Global Presence
 
 The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 6:00pm for the local time of the team member, as outlined below. 
@@ -220,7 +231,7 @@ This quote type should be only used when **new users are being added to an exist
     *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
 *   Under the **Edit Products and Charges** page, increase the existing license quantity to reach your total - i.e. enter the new total license count. This page will show all currently licensed products (marked “Original”), but the Order Form that generates will only show the added quantity and amount for the pro-rated period. 
 *   **To add users to the existing subscription at a different price**, the new user licenses should be added as a separate product line. 
-*   **True-Ups:** If you are quoting true-up users, click “Add Products” and wait for the next page to load. Then, click “Select” and choose “Add Add-On Products.” Select True-Up and click Next. Edit the quantity and effective price. Click “Submit.”
+*   **True-Ups:** NOTE: The true-up SKU does not add users to the license - it's simply a retroactive one time charge. If you are conducting a quarterly or semi annual true-up for a customer with our former percentage-based fee schedule, do not use the true-up SKU unless the true-up is in conjunction with their renewal and the customer will be renewing for less users. Instead, you should add users using an appropriately priced subscription product SKU. If you are quoting true-up users, click “Add Products” and wait for the next page to load. Then, click “Select” and choose “Add Add-On Products.” Select True-Up and click Next. Edit the quantity and effective price. Click “Submit.”
 *   **Order Form Generation**
     *   If no discounts or special terms are requested, click “Generate PDF.”
     *   If the deal contains discounts that require approval, please submit the quote for approval using the button on the quote. The quote must be approved before the PDF can be generated.
@@ -437,7 +448,7 @@ For more information on ARR calculation for Multi-Year Deals, see [ARR in Practi
 
 #### Ramp Deals 
 
-A ramp deal is when a customer prepays for users that will be fulfilled on a set schedule throughout the duration of the subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
+A ramp deal is when a contracts a multi-year deal for users that will be fulfilled on a set annual schedule throughout the duration of the multi-year subscription term. In a Ramp, users are prorated from when they will be added. The customer pays upfront, or annually, for all users planned in the ramp schedule. For [Amendment quotes](/handbook/sales/field-operations/sales-operations/deal-desk/#amend-subscription-quote), the customer adds users throughout the subscription with no set schedule. 
 
 Ramp deals are limited to multi-year deals, with 12 month ramp periods. See [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals) for more information.
 
@@ -450,6 +461,7 @@ A.  To create a ramp deal, tag @Sales-Support in chatter on the opportunity. **P
 *   Start date/term length
 *   Proposed ramp schedule
 *   Bill To and Sold To Contact
+*   Invoice Owner and Invoice Owner Contact (If Partner Deal)
 *   Product, quantity, discount
 *   Payment Terms (i.e. Net 30)
 *   Any other requests (i.e. Price Lock, true up language, etc.)
@@ -507,7 +519,9 @@ As of October 1, 2020, the following fields will be maintained by Deal Desk to d
 
 #### Opportunities Requiring Multiple Invoices
 
-If an opportunity requires multiple invoices due to a specific professional services delivery schedule or approved annual payment terms, a separate opportunity is required for each invoice period. If there is no difference in number of seats or price across the years only one subscription and quote would be required (ie. Invoice Only opps do not require a quote object).
+If an opportunity requires multiple invoices due to a specific professional services delivery schedule, a separate opportunity is required for each invoice period. If there is no difference in number of seats or price across the years only one subscription and quote would be required (ie. Invoice Only opps do not require a quote object).
+
+In FY22, multi year deals for recurring subscription products, paid annually, will be captured on one opportunity. 
 
 **Opportunity Structure**
 

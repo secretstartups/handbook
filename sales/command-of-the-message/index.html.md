@@ -214,17 +214,17 @@ The Mantra is a framework you can use to clearly demonstrate that you have a com
 <details>
 <summary markdown="span">Sharing Feedback</summary>
 
-Over time, the GitLab Value Framework and associated content above will iterate and evolve. To ensure these changes are easily consumable, iterations will be made on a predictable cadence. We will start with a quarterly cadence. 
-*  At the start of the last month of a fiscal quarter, Field Enablement will announce a Call for Feedback to solicit input/feedback on suggested iterations and improvements to the GitLab Value Framework and associated content (but feedback may be submitted at any time)
+Over time, the GitLab Value Framework and associated content above will iterate and evolve. To ensure these changes are easily consumable, iterations will be made on a predictable cadence of 2x per year. We track issues on this [VFF issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/boards/1626195). 
+*  At the start of the last month of Q1 and Q3, Field Enablement will announce a Call for Feedback to solicit input/feedback on suggested iterations and improvements to the GitLab Value Framework and associated content (but feedback may be submitted at any time)
 *  To share feedback, submit an issue using [**this issue template**](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=value-framework-feedback)  
-*  Field Enablement and Product Marketing leadership will review feedback during the middle of the first month of a new quarter. Additional stakeholders and subject matter experts will be pulled in as appropriate.
-*  During this review, Field Enablement and Product Marketing will determine the disposition for each issue submitted with three possible outcomes
+*  Field Enablement and Product Marketing leadership will review feedback by or before the first few weeks of Q2 and Q4. Additional stakeholders and subject matter experts will be pulled in as appropriate.
+*  During this review, Field Enablement and Product Marketing will determine the disposition for each issue submitted with three possible outcomes:
    1. Accepted (label: `vff::accepted`) - Value Framework feedback that will be actioned on
    1. Deferred (label: `vff::deferred`) - Value Framework feedback that will be deferred until more information is gathered
    1. Declined (label: `vff::declined`) - Value Framework feedback that is declined (no action will be taken)
 *  When the `vff::accepted` label is added, a version label will be applied (`ver::1.1`, `ver::1.2`, etc.) to indicate the version of the Value Framework in which the improvement will be implemented
 *  When the improvement has been implemented, the `vff::completed` label will be applied 
-*  Around the end of the first month of a new quarter, a summarized update of accepted feedback will be shared with the field and implementation of those updates will be tracked in the issues
+*  By or before the end of the first month of Q3 and Q1, a summarized update of accepted feedback will be shared with the field and implementation of those updates will be tracked in the issues
 </details>
 
 <details>

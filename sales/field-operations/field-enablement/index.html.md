@@ -14,7 +14,7 @@ description: "The Field Enablement team's mission is to help customers successfu
 
 ## Overview
 
-The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to [Gitlab’s values](/handbook/values/). How we do this:
+The Field Enablement team's mission is to: *Design and deliver effective enablement solutions to field team members and partners that grow expertise and confidence needed to drive efficient, predictable, and scalable growth for GitLab.* How we do this:
 - Collaborate with cross-functional stakeholders (including but not limited to Sales, Customer Success, Marketing, Sales Ops, Product/Engineering, and the People team) to address prioritized knowledge, behavior, and skill gaps in the GitLab Field Team to achieve desired business outcomes.
 - Define, coordinate, and/or lead the development and delivery of effective enablement solutions (training, technology, knowledge, content, process, and tools) for GitLab Sales, Customer Success, and Partners throughout all phases of the customer journey as well as different stages of each team member's tenure and/or experience at or with GitLab.
 - Champion the needs and interests of the Field Team (all routes to market) – ensuring that they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for their day-to-day work to meet and exceed business objectives.
@@ -34,10 +34,12 @@ The Field Enablement team's mission is to help customers successfully grow and e
      - [Sales Training Resources](/handbook/sales/training/)
      - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
 -  [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
+-  [Customer Success Enablement](/handbook/customer-success/education-enablement/) 
 -  [Field Certification Program](/handbook/sales/training/field-certification)
      - [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
      - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)     
-- [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
+- [Field Manager Development Program](/handbook/sales/field-manager-development/)
+     - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
 - [Field Communications](/handbook/sales/field-communications/)
      - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
@@ -128,24 +130,23 @@ The below is a work in progress as we define success measures across each stage 
 </details>
 
 <details>
-<summary markdown="span">5. What is most important right now (2HFY21)?</summary>
+<summary markdown="span">5. What is most important right now (1HFY22)?</summary>
 
-1. Improve field efficiency by training and sustaining prioritized knowledge and behavior/skill gaps
-    - Field certification program (Sales, CS & Partner audiences)
-        - Product feature, tiering, and customer use cases
-        - Moments That Matter across the customer journey
-        - Continue to operationalize Command of the Message & MEDDPPICC
-    - Deliver enablement program aligned with top competitor GTM initiatives
-    - Embrace partner enablement as an extension of GitLab Sales and Customer Success enablement
-1. Promote a culture of continuous learning and development
-    - Improve learning experience by implementing new Learning Experience Platform (LXP)
+[**Q1FY22 Field Enablement OKRs**](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/660)
+
+1. **Improve field efficiency (all routes to market) with effective training solutions to address prioritized knowledge and skill gaps**
+    - Collaborate wwith Alliances team to deliver internal enablement for 3 hypercloud partners (AWS, GCP, IBM) ([issue](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1953))
+    - Field certification program (Sales, SA, TAM, and Partner Sales & SA audiences)
+    - Design & begin to deliver a Manager Training program for the field org ([epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/46))
+    - Continue to operationalize and reinforce Command of the Message & MEDDPPICC
+1. **Promote a culture of continuous learning that activates intrinsic motivation for improvement & development**
+    - Improve learning experience by continued roll-out of new Learning Experience Platform (LXP)
     - Develop and execute robust change management plan that taps into team members’ inherent desire to pursue excellence
-    - Continued execution & ongoing iteration of functional onboarding training to accelerate time to productivity for new field team members
     - Continued execution & ongoing iteration of continuous learning programs (CS Skills Exchange and Sales Enablement Level Up Webcast series)
-1. Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates and has access to information & resources necessary for their day-to-day work
-    - Continue to mature and advance field communications strategy
+1. **Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates and has access to information & resources necessary for their day-to-day work**
+    - Deliver an effective Sales Kickoff 2021
+    - Continuous execution & iteration of field communications strategy
     - Make it easier for Sales to discover & access information/resources they need when they need it
-    - Keep planning for SKO 2021 on track
 
 </details>
 
