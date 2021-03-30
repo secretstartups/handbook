@@ -157,7 +157,7 @@ The following permissions are available on the platform and can be set to the `o
 
 ## How to request elevated role permissions in EdCast
 
-Follow the steps outlined in the handbook to open an [individual access request for the desired elevated role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `slee24@`.
+Follow the steps outlined in the handbook to open an [individual access request for the desired elevated role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `@slee24`.
 
 
 ### Platform Administrator
