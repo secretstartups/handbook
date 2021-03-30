@@ -103,7 +103,7 @@ This approach has many benefits, including:
 1. It helps ensure the highest priority projects are being completed
 1. It can help leadership identify issues that are blocked
 1. It provides leadership view into the work of the data team, including specialty analysts whose priorities are set from outside the data function
-1. It encourages consistent [throughput](/handbook/engineering/management/throughput/) from team members
+1. It encourages consistent throughput from team members
 1. It makes clear to stakeholders where their ask is in priority
 1. It makes clear to all team where their duty is in priority
 1. It helps alleviate the pressure of planning the next milestone, as issues are already ranked
