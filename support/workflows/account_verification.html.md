@@ -157,7 +157,7 @@ Ensure that the requestor has exhausted all self-service options:
 If no Self-service options are viable, follow the steps below:
 
 1. Use [`Support::SaaS::Account ownership change verification (Self-service option not possible)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073396100) macro
-1. If possible, add the current owner from GitLab in the CC.
+1. If possible, add the account owner or account manager in the CC.
 1. Once we received the necessary document, double check all the requested information is included. If not, let them know what's missing. If all required elements are present, follow the next step. 
 1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
 1. After receiving approval: add or elevate the requested user to Owner role.
