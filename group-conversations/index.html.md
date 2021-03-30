@@ -248,7 +248,6 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-04-05 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
 | 2021-04-06 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
 | 2021-04-07 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
-| 2021-04-08 | Open | Available for any Group Conversation | N/A |
 | 2021-04-12 | Open | Available for any Group Conversation | N/A |
 | 2021-04-13 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-04-14 | [CRO Group Conversation](/handbook/sales/)  | Michelle Hodges | Yes, monthly |
