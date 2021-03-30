@@ -352,7 +352,7 @@ We pride ourselves on being a company that operates with integrity, makes good c
 
 ### Substance Abuse
 
-GitLab strives to maintain a workplace that is free from illegal use, possession, sale, or distribution of alcohol or controlled substances. Legal or illegal substances shall not be used in a manner that impairs a person’s performance of assigned tasks. This will help to maintain the efficient and effective operation of the business, and to ensure customers receive the proper service. GitLab team members must also adhere to the local laws of where they reside and where they travel to, including the [GitLab Contribute](/company/culture/contribute/).
+GitLab strives to maintain a workplace that is free from illegal use, possession, sale, or distribution of alcohol or controlled substances. Legal or illegal substances shall not be used in a manner that impairs a person’s performance of assigned tasks. This will help to maintain the efficient and effective operation of the business, and to ensure customers receive the proper service. GitLab team members must also adhere to the local laws of where they reside and where they travel to, including the [GitLab Contribute](/events/gitlab-contribute/).
 
 ### Employee Information Privacy
 
