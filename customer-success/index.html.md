@@ -123,14 +123,17 @@ SA's will be brought back into a customer account in the following situations
 
 ## Other Resources
 
+### Education and Enablement
+
+As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+
 ### Customer Workshops
 
 2021-01 [Skills Exchange Enablement on Customer Workshops](https://www.youtube.com/watch?v=kSbTZgPLKUE&feature=youtu.be)
 
 TAM-Created, Enablement Focus:
 
-- [CI Workshop](/handbook/customer-success/workshops/ci-workshop.html)
-- [Secure Workshop](/handbook/customer-success/workshops/secure/)
+- [All TAM-created workshops ](/handbook/customer-success/workshops/index.html.md)
 
 SA-Created, Hands-On Focus:
 
@@ -146,7 +149,7 @@ Visit [this page](/handbook/customer-success/tam/gainsight/) for more informatio
 
 ### Dogfooding
 
-Outside of Engineering the Customer Success team has the largest concentration of tooling development capability. The team has unique needs that can't always be solved by GitLab's single DevOps platform. However, it is important to [dogfood](/handbook/values/#dogfooding) and avoid [dogfooding anti-patterns](/handbook/engineering/#dogfooding-antipatterns). As a result the [Product organization heavily weights internal customers](/handbook/values/#dogfooding) when considering prioritization. If you are considering building tooling in support of Customer Success priorities outside of GitLab, please follow the [dogfooding process](/handbook/values/#dogfooding).
+Outside of Engineering the Customer Success team has the largest concentration of tooling development capability. The team has unique needs that can't always be solved by GitLab's single [DevOps platform](/solutions/devops-platform/). However, it is important to [dogfood](/handbook/values/#dogfooding) and avoid [dogfooding anti-patterns](/handbook/engineering/#dogfooding-antipatterns). As a result the [Product organization heavily weights internal customers](/handbook/values/#dogfooding) when considering prioritization. If you are considering building tooling in support of Customer Success priorities outside of GitLab, please follow the [dogfooding process](/handbook/values/#dogfooding).
 
 ### Customer Success AWS Test Account
 

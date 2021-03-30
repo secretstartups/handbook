@@ -45,6 +45,7 @@ Recommended details to include in the agenda include:
   - Updates on long-term initiatives
   - Items where the customer is looking for assistance from the TAM to get resolution (feature requests, support tickets, etc.)
   - [Suggested discussion topics](#cadence-call-topics)
+  - Gaps in or outdated Gainsight information (watch an [8 minute video](https://youtu.be/yk95b6u26So) for recommendations!)
 
 The collaboration project template includes a [meeting agenda issue template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/.gitlab/issue_templates/Meeting%20Agenda.md) that is structured to follow this format.
 

@@ -38,7 +38,7 @@ Each root causes analysis meeting should follow (roughly) this agenda here.
 1. All follow-up action items will be assigned to a team/individual before the end of the meeting. If the item is not going to be top priority leaving the meeting, don't make it a follow up an item.
 
 #### Discussion
-1. Go through the [root causes analysis](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/RCA.md).
+1. Go through the [root causes analysis](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/blob/master/.gitlab/issue_templates/rca.md).
   - Identify key demographics for the engagement (customer contacts, GitLab team-members, dates, etc.)
   - Ensure to update links to the SOW for this engagement as well as the customer folder on Google Drive
   - Capture any remaining customer-facing action items and assign an owner

@@ -66,11 +66,11 @@ Gainsight holds a lot of information and is great for reporting, but there can b
 
 Several TAMs find success by reviewing Gainsight at the beginning and/or end of their day, to see what action items (or [CTAs](/handbook/customer-success/tam/gainsight/ctas)) are due soon, [log their customer calls](/handbook/customer-success/tam/gainsight/timeline/) from the day, and check on the status of their [success plans](/handbook/customer-success/tam/success-plans/).
 
-When logging in, TAMs will begin on their dashboard.
+One of our TAMs created an [8 minute video](https://youtu.be/yk95b6u26So) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
 
 ### Gainsight Dashboard
 
-Gainsight's homepage will show a "TAM Portfolio" Dashboard which is a full list and overview of each TAM's customers. This dashboard defaults to show the book of business for the current user but can be filtered and configured in a variety of ways to view the information for specific TAMs, teams, etc.
+When logging in, TAMs will begin on their dashboard. Gainsight's homepage will show a "TAM Portfolio" Dashboard which is a full list and overview of each TAM's customers. This dashboard defaults to show the book of business for the current user but can be filtered and configured in a variety of ways to view the information for specific TAMs, teams, etc.
 
 This dashboard is likely to be a TAM's most-frequented page, as it shows a summary of their entire book of business, including last activity dates, health scores, at-risk customers, [upcoming renewals](/handbook/customer-success/tam/renewals/), stage adoption statistics, success plan progress, and more.
 
@@ -126,7 +126,11 @@ When updating account information, be sure that you select the correct account. 
 
 ### Emails
 
-There are pre-filled email templates in Gainsight that TAMs can send to customers in one of two ways.
+Gainsight offers a semi-automated email feature called Email Assist, which is accessible to TAMs using Calls to action in the Cockpit. We recommend using Email Assist tasks when TAMs need more control over the scheduling and content of the email. A TAM will select the individual contacts to send the email to, and the email contents can be customized as needed.
+
+A full list of available emails can be found in a GitLab-only [Google Doc](https://docs.google.com/document/d/1NSxAH_CynFMeHUo05_N_bsh0ZRg1xyV69174l15zYaI/edit?usp=sharing). In the future, we'll move this information to a GitLab project.
+
+TAMs can send these emails to customers in one of two ways:
 
 **1. Directly in Gainsight**: To send an email directly from Gainsight, create a basic CTA for the customer with the email subject/purpose. Once it's opened, click on the CTA, click the three vertical dots at the top right, then click "Send Email". Then choose the appropriate email template from the dropdown and fill in the recipient's email address and send.
 
@@ -182,7 +186,7 @@ The videos listed here are internal to GitLab only. You will need to be logged i
 
 New feature requests can be submitted by creating an issue and selecting the [Gainsight Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) in the Customer Success Operations project. Make sure the `gainsight` label, and optionally ether the `gainsight::feature_request` or `gainsight::bug` scoped label, are successfully applied when opening the issue. The status of all Gainsight-related issues can be viewed on the [Gainsight issue board](https://gitlab.com/groups/gitlab-com/-/boards/1609037?label_name[]=gainsight).
 
-To request new email templates be added to Gainsight, or programs in [Journey Orchestrator](https://www.gainsight.com/journey-orchestrator/), open an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and put the content and format of your email in Markdown (if possible). Then `@mention` a Gainsight administrator.
+To request new email templates be added to Gainsight or the [Digital Journey](/handbook/customer-success/tam/digital-journey/), open an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and apply the program request or new program template if relevant. Then `@mention` a Gainsight administrator.
 
 To view recent updates to Gainsight, view [the running changelog](https://docs.google.com/document/d/11yJvTTDlWMrMAbKut1V0LFVoRojID2C_eRWk9ZF3HaA/edit#).
 

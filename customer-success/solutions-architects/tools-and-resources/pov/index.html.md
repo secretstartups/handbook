@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Proof of Value (POV) 
-description: Proof of Value (POV) 
+title: Proof of Value (POV)
+description: Proof of Value (POV)
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -16,7 +16,7 @@ description: Proof of Value (POV)
 
 Solution Architects are instrumental in guiding prospects and customers to carry out a successful Proof of Value. POV's should focus on specific customer business outcomes that cannot be achieved through other technical and/or business interactions.
 
-As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Often times a POV is conducted with a GitLab trial license either using GitLab.com or an installed instance. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers. 
+As a best practice, GitLab product evaluations should remain separate from GitLab high availability architecture and implementation evaluations. Often times a POV is conducted with a GitLab trial license either using GitLab.com or an installed instance. Due to cost and time intensity, a POV may not be the default course of action for most GitLab buyers.
 
 ### POV Guidelines
 
@@ -184,16 +184,24 @@ Agenda:
 - Identify next steps
 - Send out POV survey (where applicable)
 
-### On-site POV
+### On-site or Hands-On POV
 
-The On-site POV is typically the shortest and most intense POV. It is critical that before this type of POV begins:
+The On-site or Hands-On(virtual) POV is typically the shortest and most intense POV. It is critical that before this type of POV begins:
 
 - All outcomes and objectives are agreed to and documented
 - GitLab and customer team members are identified
-- Calendar schedules are arranged
+- Calendar schedules are arranged preferably with meetings(like standup) every day
 - System installations and/or user administration tasks are complete
 
-The SA will typically join the client at their chosen location and work directly with the team there to quickly identify the value proposition of GitLab within their environment. The SA will commonly dedicate themselves to the client for 3 to 4 days a week for this POV, collaborating on value drivers, assisting in solving problems, and enabling customer POV owners on required knowledge to obtain identified POV outcomes.
+The SA will typically join the client at their chosen location(or virtually) and work directly with the team there to quickly identify the value proposition of GitLab within their environment. The SA will commonly dedicate themselves to the client for a fixed few hours every day(or agreed upon cadence) of the week for this POV.
+
+The objective of the daily(regularly cadenced) meetings will be:
+
+- Checking on the POV status
+- Identifying blockers & coming up with a plan to remove them swiftly(in an agreed timeline)
+- Collaborating on value drivers
+- Assisting in solving problems
+- Enabling customer POV owners on required knowledge to obtain identified POV outcomes
 
 ### Paid POV
 

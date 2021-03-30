@@ -45,6 +45,8 @@ Examples:
 
 ## Objection Handling Workshops
 
+To ensure that GitLab Solution Architects are as best prepared as they can be, the practice of Objection Handling is something we would love all SA's to be well versed in.  The SA Handbook has an [entire page](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice/) devoted to effective Objection Handling.
+
 ## Feature Fridays
 
 This is a fun practice where a Solutions Architect Manager will select up to 3 SA's to pick an interesting feature they like most and have them do a quick Slack message about it.  As the name implies, the SA should post these on Friday mornings.  Selections should be done on a Wednesday so the SA's have time to think about it and put together a simple summary.  SA's can post the message in the #customer-success Slack channel.  These should be pretty minimal, but at the very least, the summary should include the name of the feature, why they like it and a link to the documentation.  If there's a project that shows off this feature, SA's can feel free to include that as well. 

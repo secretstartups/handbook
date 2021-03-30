@@ -25,6 +25,7 @@ title: "Technical Account Management Handbook"
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
 - [TAM and Support Interaction](/handbook/customer-success/tam/support/)
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
+  *  [Infrastructure Escalation & Incident Process](https://about.gitlab.com/handbook/customer-success/tam/escalations/infrastructure/)
 - [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
 - [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
@@ -132,6 +133,10 @@ The following articulates where collaboration and customer management is owned:
 1. [**Google Drive**](https://drive.google.com/drive/u/0/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U): Internal. Used to capture call notes and other customer related documents.
 1. [**Chorus**](/handbook/business-ops/tech-stack/#chorus): Internal. Used to record Zoom calls.
 1. [**Gainsight**](/handbook/customer-success/tam/gainsight/): Internal. Used to track customer health score, logging [customer activity](/handbook/customer-success/tam/gainsight/timeline/#activity-types) (i.e. calls, emails, meetings)
+
+### Education and Enablement
+
+As a Technical Account Manager, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
 
 ## SFDC useful reports 
 

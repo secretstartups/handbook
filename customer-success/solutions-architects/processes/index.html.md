@@ -8,7 +8,7 @@ title: Solutions Architect Processes
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-[**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes)
+[**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes) - [**Education and Enablement**](/handbook/customer-success/education-enablement)
 
 # Solutions Architect Processes
 {:.no_toc}
@@ -80,6 +80,8 @@ The entire cross-functional team should help in the preparation of the QBR conte
 ### Engaging an SA During the Sales Cycle
 
 Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation. Teams can handle this on a case by case basis.
+
+When reaching out to engage SAs during opportunity qualification and discovery, please provide them with the active SFDC opportunity id and any additional opportunity information (i.e., company background, initiatives, pain points, personas, etc.).  The opportunity information will enable the SAs to execute an efficient and relevant discovery, ensuring our prospects' / customers' optimal experience. 
 
 Solution Architects should participate in [technical discovery](#technical-discovery-and-demo-preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
 

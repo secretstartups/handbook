@@ -198,3 +198,26 @@ For example:
 > **Customer:** The CTO has an objective to reduce the time it takes to ship releases so we can get new features to market faster.
 
 By asking additional "why does this matter?" questions after the initial mention of wanting to set up GitLab with HA, the TAM in this scenario was able to get to a business outcome that comes straight from senior leadership. From here, the TAM can [ask about metrics](https://about.gitlab.com/handbook/sales/command-of-the-message/metrics/#connect-metrics-with-positive-business-outcomes), pain points, other tools in their DevOps workflow, and other discovery questions to understand success criteria for the business outcome.
+
+If you'd like to see more examples of how to use the Five Whys framework and what it could look like in practice, take a look at the [Five Whys breakout session from SKO 2021](https://gitlab.edcast.com/insights/breakout-leveling).
+
+
+## Examples
+
+### Customer meeting about DORA Metrics with GitLab
+
+One of our customers has asked to have a meeting to understand what GitLab can offer related to metrics, specifically they've mentioned [Dora Metrics](https://docs.gitlab.com/ee/user/analytics/ci_cd_analytics.html#dora4-metrics) as the topic of interest, their [Developer Experience Lead](https://about.gitlab.com/handbook/marketing/strategic-marketing/roles-personas/#delaney-development-team-lead) will be attending. We can't lose the opportunity to gather valuable information to build a Metric adoption's Success Plan.
+
+[Orit Golowinski](https://about.gitlab.com/company/team/#ogolowinski),  Release Stage Senior Product Manager,  has shared some open-ended questions that would be useful in another similar scenario illustrated above. 
+
+- What do you measure today? 
+- What do you want to measure? Why?
+- What additional info is interesting to understand the graphs (i.e., Deploy Freeze, release days,  etc.)
+- Who is interested in the data? In what granularity is it required?
+- Are there additional tools involved? Which ones?
+- Would API/export CSV from GitLab help display all data in one place?
+- What other metrics you interested in? (i.e., developers' performance, the time between releases, etc.)
+
+
+
+

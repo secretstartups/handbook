@@ -29,6 +29,8 @@ This playbook supports the following migrations...
 Each of these migrations are covered in more detail in the playbook itself.  
 Additionally, each of these migrations will have there own playbook in Gainsight.
 
+**Note:** _GitLab highly recommends that customers use our [standard reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) based on their current number of users and accounting for any anticipated growth. Any deviations from these reference architectures may lead to degraded reliability and performance._
+
 ## Migration Methodologies
 There are a number of different methodologies for migrating GitLab. This section details the most likely methodologies and the pros/cons of each.
 

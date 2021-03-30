@@ -32,7 +32,7 @@ Please consider this handbook documentation to be the single source of truth ("S
 
 To get access to our Demo Cloud shared Omnibus instance ([gitlab-core](https://gitlab-core.us.gitlabdemo.cloud)), see the [Creating and accessing your account](/handbook/customer-success/demo-systems/tutorials/getting-started/creating-accessing-your-account) tutorial.
 
-To self-provision an individual AWS account, see the instructions on the [Sandbox Cloud handbook page](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). To have a group AWS account provisioned, create an access request issue in the [Sandbox Cloud issue tracker](https://gitlab.com/gitlab-com/sandbox-cloud/issue-tracking/-/issues/new?issuable_template=aws_group_account_create_request).
+To self-provision an individual AWS account, see the instructions on the [Sandbox Cloud handbook page](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started). To have a group AWS account provisioned, create an access request issue in the [Sandbox Cloud issue tracker](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/new?issuable_template=aws_group_account_create_request).
 
 If you are planning a workshop and are looking for the process on using invitation codes and sample projects, see the [Training Cloud How it Works](/handbook/customer-success/demo-systems/environments/training-cloud#how-it-works) handbook section.
 

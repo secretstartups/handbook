@@ -40,7 +40,7 @@ Also to be considered:
 
 ## How to prepare an EBR
 
-The first step is the [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas) that will automatically open five months into the subscription, with a due date of one month later to give time to schedule, prepare for and conduct the EBR.  If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
+The first step is the [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas) that will automatically open seven months before renewal, with a due date of 45 days later to give time to schedule, prepare for and conduct the EBR.  If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR. If no progress has been made on the CTA (no tasks have been completed) and there are less than 2 months before renewal, the CTA will be closed automatically.
 
 To create the content for the EBR, here you can find the [EBR Template](https://docs.google.com/presentation/d/1FfHBVMsY2a3cteylz7Alq-K43OmBPLylBoVdIccsO8g/edit?usp=sharing).  Please note this template is aimed at a one-hour EBR, and the account team may want to consider removing elements such as product and support insights if a buyer has only given us 30 minutes.
 

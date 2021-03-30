@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Certified Trainer - Candidate Process"
+title: "GitLab Certified Trainer"
 description: "Explore how GitLab Professional Services certifies trainers to validate their readiness to deliver Education Services offerings."
 
 ---
@@ -11,18 +11,26 @@ description: "Explore how GitLab Professional Services certifies trainers to val
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## GitLab Certified Trainer - Candidate Process
+## GitLab Certified Trainer Program
 
-Professional Services now has a certification process for trainers to validate their readiness to deliver Education Services offerings. Here are the steps required to earn the certification for a given course. 
+To be able to scale the availaility of GitLab learning offerings, [GitLab Professional Education Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) offers certification pathways for individuals who want to deliver GitLab standard instructor-led training (ILT) courses. The program is currently available to GitLab team members as well as selected [GitLab Certified Services Partners](https://about.gitlab.com/handbook/resellers/services/). Customers who order the GitLab Train the Trainer option for a standard ILT course can request participation in the program.
+
+The program provides a systematic approach to developing and validating the skills and knowledge needed to successfully deliver each course offered by GitLab Professional Education Services.
+
+### GitLab Certified Trainer - Candidate Process
+
+GitLab Professional Education Services manages the certification process for all trainers to validate their readiness to deliver [Education Services offerings](https://about.gitlab.com/services/education/). Here are the steps required to earn the GitLab Certified Trainer certification for a given course. 
 
 
-**Step 1**: [Create a new issue](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) in the Education Services namespace using the `certified_trainer_candidate` issue template. If you are a partner or customer, contact your GitLab representative to gain access to the namespace or if you need assistance with creating the issue.
+**Step 1**: Reach out to your manager if you are a GitLab team member, or GitLab representative if you are a partner or customer, to discuss the courses you would like to be certified by GitLab to deliver.
 
-**Step 2**: Complete each item listed in the Candidate Tasks section of the issue description. As you work through the tasks, reach out to the training coordinator listed in the issue to schedule your shadowing and evaluation sessions. Here are the key tasks you will need to complete.
+**Step 2**: Create a new issue in the namespace provided to you by your GitLab representative using the `certified_trainer_candidate` issue template. If you are a partner or customer, contact your GitLab representative to gain access to the namespace or if you need assistance with creating the issue.
+
+**Step 3**: Complete each item listed in the Candidate Tasks section of the issue description. As you work through the tasks, reach out to the training coordinator listed in the issue to schedule your shadowing and evaluation sessions. Here are the key tasks you will need to complete.
 - Review the train-the-trainer (T3) resources: Attend a live session and/or review T3 materials asychronously
 - Shadow a certified trainer delivering the course to customers
 - Pass the end-user certification assessments for the course
 - Submit a recording of you delivering a "dry-run" portion of the course 
 - Deliver the entire course to a customer with a certified trainer observing or reviewing the recording, and receive an average rating of at least 4 out of 5 on the customer Training Survey.
 
-**Step 3**: Once you are certified, add the certification to your LinkedIn profile!
+**Step 4**: As you earn each certification, add the digital verification badge to your LinkedIn profile!

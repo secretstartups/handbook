@@ -126,7 +126,7 @@ The meeting agenda is generally as follows:
 - Introduce Topic of interest and provide background information
 - Demonstrate in GitLab's platform where the topic fits in and announce the [GitLab Stage](https://about.gitlab.com/direction/#devops-stages) it belongs to
 - Articulate the benefit of the Topic for our customers in APJ
-- Clearly articulate which [GitLab Tier](/handbook/ceo/pricing/) the topic is benefited from
+- Clearly articulate which [GitLab Tier](/company/pricing/) the topic is benefited from
 - Document your main finding in the internal bi-weekly GitLab New Release meeting document
 
 The meeting is scheduled regularly and on a bi-weekly basis. The meeting is hosted via Zoom and the Meeting Agenda is shared via gdrive Docs and available internally.

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Demo Systems Environments"
+description: "The GitLab Demo Systems environments handbook pages provides an overview of how our infrastructure is configured and has answers to frequently asked questions."
 ---
 
 ## On this page

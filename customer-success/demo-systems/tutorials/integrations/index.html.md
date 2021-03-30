@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Integration Tutorials"
+description: "The GitLab Demo Systems integration tutorials provide step-by-step instructions for using the demo systems infrastructure with 3rd party integrations and related technology infrastructure."
 ---
 
 ## On this page

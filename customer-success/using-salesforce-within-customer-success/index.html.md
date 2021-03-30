@@ -18,7 +18,7 @@ title: "Using Salesforce within Customer Success"
 On an account view in Salesforce, there is a Customer Success section, with the following fields:
 
 * Health Score - A field to record the overall customer health
-TAM Sentiment - A field to list the TAM's sense of the [customer's health](/tam/health-scores)
+TAM Sentiment - A field to list the TAM's sense of the [customer's health](/handbook/customer-success/tam/health-score-triage/)
 * GitLab Customer Success Project - Where you enter the URL of the project created using the template described above
 * Customer Slack Channel - A field to record Slack channel(s) used for internal and external customer collaboration. If a channel is internal, make sure it follows the naming convention `#a_<customer-name>-internal` per [Communication Chat](/handbook/communication/chat/#account-channels-a_)
 * Solutions Architect - The Solutions Architect aligned with the account

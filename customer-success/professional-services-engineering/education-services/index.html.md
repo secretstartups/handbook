@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Gitlab Education Services"
-description: “Discover Educational Services that GitLab Professional Services Team offers”
+title: "Gitlab Professional Education Services"
+description: “Technical Learning and Certification from GitLab Professional Services”
 ---
 
 ## On this page
@@ -10,8 +10,8 @@ description: “Discover Educational Services that GitLab Professional Services 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Education Services Overview
-Education Services are part of the Professional Services (PS) Team within GitLab Customer Success. 
+### Professional Education Services Overview
+Professional Education Services are part of the GitLab Professional Services (PS) Team within GitLab Customer Success. 
 
 #### Mission
 
@@ -19,12 +19,12 @@ The primary mission is to plan and implement effective and scalable educational 
 
 #### Approach
 
-The Education Services [job task analysis](https://docs.google.com/spreadsheets/d/114yAXzzUi3bKoOcN6zG4tOZ5I_-SmPU9luO8Ylp5XRI/edit?usp=sharing) is a blueprint that guides and defines courses and certifications through learning objectives aligned with the relevant industry job roles and jobs to be done. 
+The Professional Education Services [job task analysis](https://docs.google.com/spreadsheets/d/114yAXzzUi3bKoOcN6zG4tOZ5I_-SmPU9luO8Ylp5XRI/edit?usp=sharing) is a blueprint that guides and defines courses and certifications through learning objectives aligned with the relevant industry job roles and jobs to be done. 
 
 
 ### Current Offerings
 
-The GitLab Education Services team currently provides the following offerings:
+The GitLab Professional Education Services team currently provides the following offerings:
 - [live instructor-led training (ILT)](https://about.gitlab.com/services/education/)
 - [GitLab Technical Certifications](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/) as Professional Service offerings. 
 - [Train-the-Trainer](https://about.gitlab.com/services/education/train-the-trainer/)
@@ -46,5 +46,5 @@ The GitLab Education Services team currently provides the following offerings:
 
 
 #### Related Project and Issues
-- [Education Services Project Issues List](https://gitlab.com/gitlab-com/sales-team/professional-services/education-services/issues)
+- [Professional Education Services Project Issues List](https://gitlab.com/gitlab-com/sales-team/professional-services/education-services/issues)
 - [EdCast LXP Implementation](https://gitlab.com/groups/gitlab-com/-/epics/918)
