@@ -99,6 +99,7 @@ In addition, the file also analyses how open pipeline is progressing for the nex
 also compared to historical quarters to inform whether the current quarter is ahead, in line, or behind the pace of previous quarters.
 
 [File](https://docs.google.com/spreadsheets/d/1O81k_XpInMqn_pLPdbPJruh_nq0QQthJ9-nOiXZzBf0/edit#gid=2079563316)
+[Dashboard] (https://app.periscopedata.com/app/gitlab/799969/WIP:-NF---Pipeline-X-Ray-Support-Graphs)
 
 ## Quota & Capacity Model
 High-level long-range Quota & Capacity model to assess the feasibility of future bookings target and HC needs.
@@ -129,3 +130,9 @@ This dashboard provides a monthly trend view for Bookings, including dollar and 
 - Next 6 Months Pipe: view into the pipeline for the next 6 months
 
 [Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXuF)
+
+## Rolling List of Asks File
+This file is intended to intake investment requests of both Headcount and Program Spend from Sales teams, prioritize them via a consistent framework, and implement them based on agreed-upon prioritization. For the Sales Headcount Change Management process, please refer to the [Sales Headcount](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/sales-headcount/) Handbook page located in Sales Strategy & Analytics.
+
+[File](https://docs.google.com/spreadsheets/d/1NgnRnCQkDXRuLykroLLeNmWqKhIE1g0OaueSbFSUz6Q/edit#gid=0)
+
