@@ -29,7 +29,7 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 * **Alerting email team as soon as possible that there may be a send (even if it does not move forward)**
 * Providing FINAL email, landing page, form copy, autoresponder copy, etc.
     * NOTE: The addition of each item will increase scope and potentially delay announcement
-* Requesting target list from Data Team (creating the issue)
+* Requesting target list from Data Team (Template WIP)
 * Creating epic and corresponding issues
       * Creating Epic - [Template here](/handbook/marketing/emergency-response/#customer-comms-epic-issues)
       * Creating [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
@@ -61,6 +61,7 @@ This is the process to follow when there is an announcement that is an emergency
 
 ### 1. **Requesting team notifies that an emergency communication is needed**
 - Immediately slack #mktgops and include the incident issue and the incident slack channel. If there is not a prompt response, follow on-call procedures.
+
 ### 2. **Issue Creation**
  - Request issue utlizing [Incident Communications template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications) in the Marketing Operations project.
 - Fill in as many blanks as you can with as much information as you have available - the issue template will walk you through what is needed. Feel free to add any additional context that may be helpful. If you do not have all the information, that is OK, as we know it is an ongoing development. 
@@ -68,12 +69,15 @@ This is the process to follow when there is an announcement that is an emergency
 - Include googlesheet of copy document, even if it is blank.
 - Include approx size of the list - this will determine what email platform we will use and helps immensely in our planning. Over estimate when you are unsure.
 - Include any custom fields you need created for `mail-merge` in the email. Include field max lengths needed, or best guess. Mktops will determine if they can use an existing field or not.
+
 ### 3. **Issue in Process**
 - Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue/carrier pigeon!
 - List size and complexity will determine what [email platform](/handbook/marketing/emergency-response/#email-platform-to-use) we will need to use. 
+
 ### 4. **Email Ready to Deploy**
 - Email team will send a sample to the requestor and stakeholders for their review - preferably, there is a quick Zoom sync to double check send size, variable fields, email copy and time of send.
 - Requestor must approve in the issue before the email will be sent.
+
 ### 5. **Email Launched** 
 - The email team will provide stats minutes after launch, and at a cadence determined by the announcement team as necessary. 
       - Note: Full email stats are matured at 48 hours.
