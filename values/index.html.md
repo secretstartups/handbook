@@ -118,7 +118,7 @@ Give recognition generously, in the open, and often to [generate more engagement
 ##### Get to know each other
 {:.no_toc}
 We use a lot of [text-based communication](/company/culture/all-remote/effective-communication/), and if you know the person behind the text, it will be easier to prevent conflicts.
-So we encourage people to get to know each other on a personal level through our [Take A Break Call](/handbook/communication/#take-a-break-call), virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/company/culture/contribute/).
+So we encourage people to get to know each other on a personal level through our [Take A Break Call](/handbook/communication/#take-a-break-call), virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/events/gitlab-contribute/).
 
 ##### Don't pull rank
 {:.no_toc}
@@ -1181,7 +1181,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/).
 1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
-1. Giving value awards during [Contribute](/company/culture/contribute/).
+1. Giving value awards during [Contribute](/events/gitlab-contribute/).
 1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
 1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values. 
 1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
