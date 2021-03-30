@@ -705,7 +705,7 @@ merge requests, the purpose of the structural check is:
 - Make sure the post renders well.
 - The content as a whole clearly describes the new features and feature improvements.
 - Check all the links work and are in place.
-- Check for syntax errors, typos and grammar mistakes, remove extra whitespace.
+- Check all content for syntax errors, typos and grammar mistakes, remove extra whitespace.
 - Verify that the images look harmonic when scrolling through the page (for example, suppose that most of the images were screenshots taken of a large portion of the screen and one of them is super zoomed. This one should be ideally replaced with another that looks more like the rest of the images).
 - This should happen in the release post item review, but if there's time, double-check documentation links and product tiers.
 
@@ -734,19 +734,6 @@ change in the upcoming release may need to submit it in a separate MR, with a
 target of the `release-X-Y` branch. For more information, see
 [Develop on a feature branch](https://docs.gitlab.com/ee/topics/git/feature_branch_development.html#use-case-gitlab-release-posts).
 
-#### Release post secondary features
-
-All release post [Secondary features](#secondary-features-other-improvements) should already have been reviewed by the [TW reviewer](#tw-reviewers).
-If you find an issue, do work with the TW reviewer, if time permits.
-
-To identify the primary features, look for `primary` directly beneath `features` in the RP `.yml` file:
-
-```yaml
-features:
-  secondary:
-```
-
-Images or videos are not required for secondary features.
 
 #### Frontmatter
 
@@ -1072,9 +1059,9 @@ features:
   primary:
 ```
 
-#### Secondary features (other improvements)
+#### Secondary features
 
-Relevant improvements in GitLab that follow after top and primary features. Images or videos aren't required, but are recommended. All release post [Secondary features](#secondary-features-other-improvements) should be reviewed by the [TW reviewer](#tw-reviewers).
+Other relevant improvements in GitLab that follow after top and primary features. Images or videos aren't required, but are recommended. All release post [Secondary features](#secondary-features-other-improvements) should be reviewed by the [TW reviewer](#tw-reviewers).
 
 If the secondary feature is promoted to a primary feature, the PM or EM will be asked to supply an image on **short notice**.
 
