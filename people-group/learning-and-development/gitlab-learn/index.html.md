@@ -110,8 +110,7 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | David Sommers | Field Enablement | David Hong |
 | Christine Yoshida | Professional Services | Michael Lutz/David Sakamoto |
 | Josh Zimmerman | L&D | Carol Teskey |
-| Christopher Nelson | IT/Enterprise Applications | Christopher Nelson |
-| Ed Cepulis | Channel/Partner Enablement | Michelle Hodges | 
+| Alvaro Warden | Channel/Partner Enablement | Michelle Hodges | 
 | Tye David | Marketing | Todd Barr | 
 
 ### Audience Workstreams
