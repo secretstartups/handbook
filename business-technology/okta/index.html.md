@@ -173,6 +173,5 @@ Note that the 2FA for GitLab.com is different to the MFA you use to log into Okt
 ## Who are the Okta Super Admins?
 
 - Peter Kaldis, IT Manager
-- Amber Lammers, Lead, Systems Administrator
 - Jan Urbanc, Director of Security Operations
 
