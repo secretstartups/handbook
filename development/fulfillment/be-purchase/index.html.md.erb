@@ -26,12 +26,18 @@ The Purchase group manages the [Purchase category](/handbook/product/categories/
 
 ## How we work
 
+### Weekly meeting
 The team meets synchronously once per week alternating timezones between EMEA and APAC friendly times. Team members are encouraged to attended the meeting most appropriate for their time zone. Meeting topics include: wins from the past week, problems which are impeding progress in the milestone, and planning and refining of issues.
 
+### Weekly update
 The Engineering Manager provides a weekly update on the team progress toward the milestone objectives. This should include the weight closed relative to the weight of the entire milestone. This update is added as a comment to the milestone planning issue prior to the weekly team meeting. In case the Engineering Manager is unavailable to provide the weekly update, an alternate team member will be assigned via the #s_fulfillment Slack channel.
 
-It is important for long term planning for the team to accomplish what we agree to at the beginning of the milestone. A significant aspect to completing our planned work is accurately weighting issues. The explanation of weights is specified on the [Fulfillment Sub-department page](https://about.gitlab.com/handbook/engineering/development/fulfillment/#estimation). We further specify, as a baseline, a 5 should roughly take 2 engineering weeks of work to complete. A team of 5 engineers, fully engaged for the milestone, should be able to complete a weight of approximately 50 in the milestone. If that is not the case we are likely over-optimistic in our weighting of issues.
+### Milestone planning
+It is important for long term planning for the team to accomplish what we agree to at the beginning of the milestone. A significant aspect to completing our planned work is accurately weighting issues. The explanation of weights is specified on the [Fulfillment Sub-department page](https://about.gitlab.com/handbook/engineering/development/fulfillment/#estimation). We further specify, as a baseline, a 5 should roughly take 2 engineering weeks of work to complete. Issues with a weight of 1 should be rare and reserved for cases with no logic changes such as changing the text in a dialog or fixing a comment. A weight of 2 should be used when there are 1 or 2 minor logic changes. Likewise if an issue contains significant unknowns or will span multiple projects and many files, don't hesitate to weight at 8 or higher. This should trigger us to look more closely at breaking the issue into smaller issues, or more closely defining the implementation requirements.
 
+We use the rolling average of the past 3 milestones to determine the total weight of the current milestone. We expect this to increase over time as we weight issues higher and become more familiar with types of work requested.
+
+### Refinement
 Optimally we require 2 weeks from the time the issue is created to the time it is weighted. Issues are assigned for weighting by the Engineering Manager on Tuesdays and are reviewed in the weekly sync meeting on Thursdays. The issues are added to the agenda of the planning document when they are assigned. A reminder for engineers to refine issues will be posted to #s_fulfillment by the Engineering Manager. Prior to the sync meeting engineers should review the issue and add their comments and weights to the issue using the [estimation template](https://about.gitlab.com/handbook/engineering/development/fulfillment/#estimation-template), and then add a link to the sync agenda document ahead of the sync meeting.
 
 During the weekly sync meeting we will come to agreement on the weight, and the Engineering Manager will arbitrate any difference and assign the final weight to the issue. Weight should not be assigned until they have been refined in the sync meeting.
