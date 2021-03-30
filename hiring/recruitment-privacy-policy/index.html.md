@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Recruiting Privacy Policy"
-description: "This Recruitment Privacy Policy describes GitLab Inc. and its affiliates ("GitLab") practices for collecting, storing, and processing your personal information as part of the recruitment process."
+description: "This Recruitment Privacy Policy describes GitLab Inc. and its affiliates (\"GitLab\") practices for collecting, storing, and processing your personal information as part of the recruitment process."
 ---
 
 ## On this page
@@ -12,7 +12,7 @@ description: "This Recruitment Privacy Policy describes GitLab Inc. and its affi
 
 ## Recruitment Privacy Policy
 
-This Recruitment Privacy Policy describes GitLab Inc. and its affiliates (“GitLab”) practices for collecting, storing, and processing your personal information as part of the recruitment process.
+This Recruitment Privacy Policy describes GitLab Inc. and its affiliates ("GitLab") practices for collecting, storing, and processing your personal information as part of the recruitment process.
 
 #### What Personal Information Does GitLab Collect About You?
 
