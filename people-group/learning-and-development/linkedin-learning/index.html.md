@@ -48,7 +48,7 @@ With the LinkedIn Learning app, team members can download audio-only versions of
 1. Download the `audio-only` version of the course you want to listen to
 1. Get walking! Aim to take 2 walks per week when you tune into your LinkedIn Learning course. Use the `:walking:` emoji in your Slack status with the status `Going on a #walk-and-learn!` to let people know you're participating in the initiative!
 1. If you'd like, post a photo of your walk or a screenshot or link of the course you're listening to in the channel
-1. Invite your friends! Ask your team members what they're interested in learning about, and encourage them to take time to walk and learn, too!
+
 ### How can I participate if I can't walk?
 
 No problem! The goal of this initiative is to combine learning with something that makes you feel recharged and reenergized. If you aren't able to walk or are looking for another option to participate, check out these additional ways you can integrate learning into your daily practice!
