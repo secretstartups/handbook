@@ -20,9 +20,33 @@ For a video overview, see [the corresponding video overview](https://youtu.be/5_
 
 For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). FY22-Q1 will have self-managed only. 
 
-## Data Integration
+## Data
+
+### Data Integrations
 
 Data will be integrated from Snowflake —> Gainsight on a monthly basis. Over time, this will move to bi-weekly and then weekly.
+
+![Product Usage Data Flow Diagram](https://lucid.app/publicSegments/view/cba91861-d0aa-4f96-8848-56a2eec5798b/image.jpeg)
+
+### Data Sources and Application
+
+Below are the various data sources, their definitions, and uses.
+
+##### Usage Ping (self-managed)
+
+We utilize Usage Ping to derive self-managed customer usage data. For more details, see [Usage Ping FAQs](/handbook/customer-success/tam/usage-ping-faq/). Any references to "Usage Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
+
+##### SaaS (Snowplow))
+
+We are targeting SaaS product usage data in FY22-Q2.
+
+
+##### Seat Link
+
+Seat Link data encompasses license utilization data for **all** customers, regardless of type (self-managed or SaaS). Limitations:
+1. For privacy reasons, we do not collect the hostname (see [blog post](https://about.gitlab.com/blog/2020/03/16/how-were-improving-self-managed-billing/)) or other instance meta data. Instead, the highest reporting instance for a given subscription is displayed
+1. Seat Link does **not** have product usage data; it only counts licenses
+
 
 ## Ways to Use These Metrics
 
@@ -91,7 +115,7 @@ Examples of new metrics can include:
 * [Adoption Explorer - GitLab Documentation](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit)
 * [SaaS-Activity Dashboard](https://app.periscopedata.com/app/gitlab/684495/WIP---SaaS-Activity)
 * [High-Level Visual of GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey)
-
+* [Product Intelligence Overview](https://about.gitlab.com/handbook/product/product-intelligence-guide/) (details on product usage data)
   
 
 
