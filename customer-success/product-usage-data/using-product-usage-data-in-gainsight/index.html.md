@@ -66,7 +66,7 @@ Use the [Product Usage Data Dashboard](https://gitlab.gainsightcloud.com/v1/ui/h
 | **License Utilization Trends (Seat Link)** | Week-over-Week license utilization trend charts | Useful for understanding if and how much the customer is adding or removing licenses |
 | **Monthly Distilled Metrics (Usage Ping)** | Contextually-based metrics to graph the adoption percentage of the account (e.g., users who ran a pipeline divided by monthly active users). | Metrics to help the account team understand monthly use case and license usage to assess for expansion or enablement decisions. Toggle through the different reports to see different graphs. |
 | **Monthly Use Case Trends (Usage Ping)** | Month-over-Month trend analyses for use cases such as CI or SCM | Monthly data points for use case-specific metrics. To be used to help the account team learn feature and deployment depth and adoption — use this in conjunction with the Monthly Distilled Metrics. Toggle through the reports to analyze the top metrcs on a per use case basis. |
-| **Instance Details (Usage Ping)** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#Updating-Self-Managed-Instance-Type) |
+| **Instance Details (Usage Ping)** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#updating-self--managed-instance-type) |
 
 
 ## Ways to Use These Metrics
