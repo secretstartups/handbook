@@ -1061,7 +1061,7 @@ features:
 
 #### Secondary features
 
-Other relevant improvements in GitLab that follow after top and primary features. Images or videos aren't required, but are recommended. All release post [Secondary features](#secondary-features-other-improvements) should be reviewed by the [TW reviewer](#tw-reviewers).
+Other relevant improvements in GitLab that follow after top and primary features. Images or videos aren't required, but are recommended. All release post Secondary features should be reviewed by the [TW reviewer](#tw-reviewers).
 
 If the secondary feature is promoted to a primary feature, the PM or EM will be asked to supply an image on **short notice**.
 
