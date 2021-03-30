@@ -374,20 +374,28 @@ The kubernetes cluster is running [GCP as meltano-gitlab](https://console.cloud.
 
 The UI of Meltano is not exposed to internet. To view the logs we have to look in the kubernetes container logs. It can be found under "LOGS" tab or under the overview page by selecting the `meltano-gitlab` cluster under workloads.
 
-To update what extractors are being used, update the `meltano.yml` file in the main project. Add a git tag after the change is merged and update hte gitlab-app.yml kubernetes manifest to point to the new image.
+To update what extractors are being used, update the `meltano.yml` file in the main project. Add a git tag after the change is merged and update the gitlab-app.yml kubernetes manifest to point to the new image.
 
 Meltano uses Airflow internally and we use Cloud SQL as the metadata database. The [`meltano-gitlab` database](https://console.cloud.google.com/sql/instances/meltano-gitlab/overview?project=gitlab-analysis).
+```
+#Connect to the Kubernetes cluster from local(Prerequisites is Google cloud SDK installed). In case the command doesn't work then connect to GCP and select Cluster under Kubernetes and select connect to cluster. It will reveal the latest command. 
+gcloud container clusters get-credentials meltano-gitlab --zone us-west1-a --project gitlab-analysis
+```
 
-Many Kubernetes commands are similar to what we use for Airflow, except the flag `--namespace=meltano` is used. For example:
+Many Kubernetes commands are similar to what we use for Airflow, except the flag `--namespace=meltano` or `-n=meltano` is used. For example:
 
 ```
 # Editing Secrets
 $  kubectl edit secrets tap-secrets --namespace=meltano
 $  kubectl edit secrets admin-sdk --namespace=meltano
 $  kubectl edit secrets cloud-sql --namespace=meltano
+```
 
+
+
+```
 # Exec into a container
-$  kubectl exec -ti meltano-gitlab-85bf9f958b-bbffl -c gitlab /bin/bash --namespace=gitlab
+$  kubectl exec -ti meltano-gitlab-85bf9f958b-bbffl -c gitlab /bin/bash --namespace=meltano
 ```
 
 ```
