@@ -20,7 +20,7 @@ You can read more about the mission and vision of the LXP on the [EdCast About P
 
 Users of GitLab Learn can find support in our [user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) 
 
-Admin can find best practices and workflows for creating and managing content in our [admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/)
+Administrators can find best practices and workflows for creating and managing content in our [admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/)
 
 ### What is a LXP?
 
@@ -56,6 +56,8 @@ Future learning content coming to GitLab Learn:
 
 1. Trainings for managers in an all-remote setting
 1. Advanced GitLab topics
+1. Using GitLab for projecgt management
+1. Psychological safety, bias for asynchronous communication, and more training to reinforce GitLab values
 
 
 ## What will GitLab Learn do for the GitLab community
@@ -87,12 +89,86 @@ By using the LXP to administer learning, your team can:
 1. Suggest related training based on previously completed or viewed content using machine learning in the EdCast platform
 1. Enable other team members and community members to access learning content
 
-If you're looking to collaborate with the Learning and Development team in adding content to GitLab Learn, please review the process on our [work with us handbook page](/handbook/people-group/learning-and-development/work-with-us)
+If you're a GitLab team memmber looking to collaborate with the Learning and Development team in adding content to GitLab Learn, please review the process on our [work with us handbook page](/handbook/people-group/learning-and-development/work-with-us).
 
 
 ## Handbook first approach to the LXP
 
 The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach for all learning content, using the handbook as our single source of truth for learning content. Contributors to the LXP will use the platform to [find and curate](/handbook/people-group/learning-and-development/interactive-learning/) relevant content that exists in the handbook using a structured process. 
+
+## Governance
+
+[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
+
+Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
+
+### Steering Committee
+
+| Name | Team | Executive Sponsor |
+| ------ | ------ | ------ |
+| David Sommers | Field Enablement | David Hong |
+| Christine Yoshida | Professional Services | Michael Lutz/David Sakamoto |
+| Josh Zimmerman | L&D | Carol Teskey |
+| Alvaro Warden | Channel/Partner Enablement | Michelle Hodges | 
+| Tye David | Marketing | Todd Barr | 
+
+### Audience Workstreams
+
+- GitLab Team Members
+- Partners
+- Customers
+- Community Members
+
+### LXP Project DRIs
+
+| Gap | Description | DRI |
+| ------ | ------ | ------ |
+| Exec alignment | Need to be 100% aligned with LXP vision with Sid and e-group | David Somers |
+| Content QA - Handbook Alignment | Responsible for ensuring that all content on the LXP is handbook first, especially since content is regularly updated in the handbook and with the use of Articulate 360 (third party tool)  | Samantha Lee |
+| Content look and feel | Ensuring that all content has a similar look and feel, unified across Field Enablement, Partner Enablement, Community, Marketing, L&D, etc. | Samantha Lee |
+| Legal | Alignment with legal on EdCast features and capabilities for compliance of course content | Robert Nalen |
+| Branding | Need to have an EdCast designer that develops the look and feel  that is the same for partners, customers, and team members. Need logo, name, SEO, landing page, card styles, css style files, etc. | Samantha Lee, collaborating with Tye Davis |
+| Marketing | Coordination with marketing team on larger marketing strategy and tactics (i.e. do we have campaigns, where is the landing page, what is the SEO, how does this fit into pipeline, third party content providers (Coursera)) | Samantha Leee  |
+| Manager Functionality & Reporting | Need to determine how managers can monitor team member learning paths and dashboard of training completion | Learning and Development Team |
+| System Design | Should the owner of systems settings be organized at the highest level, not by department? | Learning and Development Team |
+| Content Strategy | Need to determine what the content categories are across the organization | TBD |
+| Content Management | Will content be managed by respective departments or will this be done a centralized level? | Learning and Development team |
+| Assessments | Standardization of assessment look and feel across the organization? | Related content owner |
+| Notifications | Determine how customers, partners, and team members will receive notifications and who owns the notification process to respective parties | Learning and Development team |
+| Support | Determine how technical issues and questions about the LXP will be managed | Learning and Development and Professional Services teams |
+| `www.about.gitlab.com/learn` Alignment | Determine how the LXP will be linked with the [GitLab Learn landing page](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Tye Davis |
+
+
+### Core Team Members and Roles
+
+| Name | Team at GitLab |
+| ----- | ----- |
+| Christopher Nelson | IT |
+| Josh Zimmerman | Learning and Development |
+| Jacie Bandur | Learning and Development |
+| Samantha Lee | Learning and Development |
+| David Somers | Field Enablement |
+| John Blevins | Field Enablement |
+| Kris Reynolds | Field Enablement |
+| Eric Brown | Field Enablement |
+| Monica Jacobs | Field Enablement |
+| Tanuja Paruchuri | Field Enablement |
+| Kelley Shirazi | Field Enablement |
+| Issac Abbasi | Field Enablement |
+| Christina Hupy | Marketing Enablement |
+| Christopher Wang | Marketing Enablement |
+| Alvaro Warden | Partner Enablement |
+| Christine Yoshida | Professional Services |
+| Kendra Marquart | Professional Services |
+| Wakae McLaurin | Professional Services |
+| Ed Cepulis | Channel Enablement |
+| Kim Jaeger | Channel Enablement |
+| Honora Duncan | Channel Enablement |
+| Evon Collett | Channel Enablement |
+| Boughty Canton | Channel Enablement |
+| Tye Davis | Technical Marketing |
+| Julia Lake | Security/Legal |
+| Lynsey Sayers | Security/Legal |
 
 
 ## Platform Roles and Permissions
@@ -693,79 +769,3 @@ The `Custom Role: Partner` role is not yet defined and will be revisited upon ph
 ### Custom Role: Customer
 
 The `Custom Role: Customer` role is not yet defined and will be revisited upon phase 2 of the EdCast launch to include GitLab Customers.
-
-## Governance
-
-[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
-
-Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
-
-### Steering Committee
-
-| Name | Team | Executive Sponsor |
-| ------ | ------ | ------ |
-| David Sommers | Field Enablement | David Hong |
-| Christine Yoshida | Professional Services | Michael Lutz/David Sakamoto |
-| Josh Zimmerman | L&D | Carol Teskey |
-| Christopher Nelson | IT/Enterprise Applications | Christopher Nelson |
-| Ed Cepulis | Channel/Partner Enablement | Michelle Hodges | 
-| Dan Gordon | Marketing | Todd Barr | 
-
-### Audience Workstreams
-
-- GitLab Team Members
-- Partners
-- Customers
-- Community Members
-
-### LXP Project DRIs
-
-| Gap | Description | DRI |
-| ------ | ------ | ------ |
-| Exec alignment | Need to be 100% aligned with LXP vision with Sid and e-group | David Somers |
-| Content QA - Handbook Alignment | Responsible for ensuring that all content on the LXP is handbook first, especially since content is regularly updated in the handbook and with the use of Articulate 360 (third party tool)  | Recommendation: Issac Abbasi |
-| Content look and feel | Ensuring that all content has a similar look and feel, unified across Field Enablement, Partner Enablement, Community, Marketing, L&D, etc. | Kendra Marquart |
-| Legal | Alignment with legal on EdCast features and capabilities for compliance of course content | Robert Nalen |
-| Branding | Need to have an EdCast designer that develops the look and feel  that is the same for partners, customers, and team members. Need logo, name, SEO, landing page, card styles, css style files, etc. | TBD-Marketing |
-| Marketing | Coordination with marketing team on larger marketing strategy and tactics (i.e. do we have campaigns, where is the landing page, what is the SEO, how does this fit into pipeline, third party content providers (Coursera)) | Samantha Leee  |
-| Manager Functionality & Reporting | Need to determine how managers can monitor team member learning paths and dashboard of training completion | Learning and Development Team |
-| System Design | Should the owner of systems settings be organized at the highest level, not by department? | TBD-Core team |
-| Content Strategy | Need to determine what the content categories are across the organization | TBD-Core team |
-| Content Management | Will content be managed by respective departments or will this be done a centralized level? | TBD-Core team |
-| Assessments | Standardization of assessment look and feel across the organization? | TBD-Core team |
-| Notifications | Determine how customers, partners, and team members will receive notifications and who owns the notification process to respective parties | TBD-Core team |
-| Support | Determine how technical issues and questions about the LXP will be managed | TBD-Core team |
-| Learn@GitLab Alignment | Determine how the LXP will be linked with the [Learn@GitLab site](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Tye Davis |
-
-
-### Core Team Members and Roles
-
-| Name | Team at GitLab |
-| ----- | ----- |
-| Christopher Nelson | IT |
-| Josh Zimmerman | Learning and Development |
-| Jacie Bandur | Learning and Development |
-| Samantha Lee | Learning and Development |
-| David Somers | Field Enablement |
-| John Blevins | Field Enablement |
-| Kris Reynolds | Field Enablement |
-| Eric Brown | Field Enablement |
-| Monica Jacobs | Field Enablement |
-| Tanuja Paruchuri | Field Enablement |
-| Kelley Shirazi | Field Enablement |
-| Issac Abbasi | Field Enablement |
-| Christina Hupy | Marketing Enablement |
-| Christopher Wang | Marketing Enablement |
-| Alvaro Warden | Partner Enablement |
-| Christine Yoshida | Professional Services |
-| Kendra Marquart | Professional Services |
-| Wakae McLaurin | Professional Services |
-| Ed Cepulis | Channel Enablement |
-| Kim Jaeger | Channel Enablement |
-| Honora Duncan | Channel Enablement |
-| Evon Collett | Channel Enablement |
-| Boughty Canton | Channel Enablement |
-| Tye Davis | Technical Marketing |
-| Julia Lake | Security/Legal |
-| Lynsey Sayers | Security/Legal |
-

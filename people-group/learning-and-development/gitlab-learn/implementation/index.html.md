@@ -17,11 +17,13 @@ title: GitLab Learn Implementation
 
 GitLab has created a three phase plan for the implementation of the EdCast LXP.
 
-| Phase | Timeline | Audience |
-| ----- | ----- | ----- |
-| Phase 1 | Q4FY21 | two core audiences: external customers/prospects and community members, and the field certification program (GitLab Account Executives (AEs), Strategic Account Leaders (SALs), Solution Architects (SAs), and Technical Account Managers (TAMs)
-| Phase 2 | by start of Q1FY22 | All GitLab team members |
-| Phase 3 | Q1FY22 | GitLab Partners migratie from Impartner LMS to EdCast LXP |
+| Phase | Timeline | Audience | Status |
+| ----- | ----- | ----- | ----- |
+| Phase 1 | Q4FY21 | Field certification program (GitLab Account Executives (AEs), Strategic Account Leaders (SALs), Solution Architects (SAs), and Technical Account Managers (TAMs) | Complete |
+| Phase 2 | Q1FY22 | All GitLab team members | Completed |
+| Phase 3 | Q1FY22 | GitLab customers and wider community members | In progress |
+| Phase 4 | TBD | GitLab Partners migratie from Impartner LMS to EdCast LXP | In progress |
+| Phase 5 | TBD | GitLab for Education program members |
 
 
 ## Business Readiness
@@ -36,26 +38,6 @@ Review the slides below to understand how the GitLab team is organizing our busi
 ## Project Management using GitLab
 
 The LXP Implementation team uses [GitLab issue boards](https://gitlab.com/gitlab-com/people-group/learning-development/edcast-lxp-implementation/-/boards) and [GitLab Epics](https://gitlab.com/groups/gitlab-com/-/epics/918) to track and collaborate on the roll out of the EdCast LXP.
-
-
-## Temporary Support from EdCast using Slack
-
-To streamline process of engaging EdCast in support realted questions, we've created the [#edcast-support](https://app.slack.com/client/T02592416/C01LG39GLAU/thread/C010VVAT48Y-1611274804.010800) Slack channel. The LXP implementation team should use this channel for the following purposes:
-
-1. Asking quick, support related questions about the EdCast or EdGraph platform
-1. Checking on best practices and suggestions by the EdCast team
-1. Following up on questions asked during office hour sessions
-
-
-EdCast will be a single-channel guest for a temporary period, currently through the end of February 2021, as we complete our final launches on the EdCast platform.
-
-
-GitLab team memebers should following these best practices when interacting with the Edcast team in Slack.
-
-1. Do not expect an immediate response from EdCast in Slack. Assume their team is checking Slack approximately 1x per day, similar to the cadence of email
-1. Search the [GitLab Learn Admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin) and the Slack channel itself for the answer to your question before posting in the channel.
-1. Post your question for EdCast in the channel and tag Katie and any other LXP implementation team who are involved in the conversation
-1. When your question is answered, if it is not documented on the [GitLab Learn Admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin), open an MR and assign the MR to `@slee24` to merge.
 
 
 
