@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Customer Product Adoption"
+title: "Customer Product Use Case Adoption"
 description: "How we measure a customer's adoption for general GitLab and different use cases"
 ---
 
@@ -47,7 +47,7 @@ For customers on Ultimate, we want to measure their effectiveness and usage with
 |                             |                         | **Red** | **Yellow** | **Green** |
 | --------------------------- | ----------------------- | ------- | ---------- | --------  |
 | SMAU Secure / UMAU          | Ultimate (product tier) | <10%    |      |      |
-| SMAU Protect/UMAU           | Ultimate (product tier) | <2%     |        |      |
+| SMAU Protect / UMAU           | Ultimate (product tier) | <2%     |        |      |
 | SMAU Secure / UMAU <BR> SMAU Protect/UMAU           | Ultimate (product tier) |     | >=10% AND <BR> <6%        |       |
 | SMAU Secure / UMAU <BR> SMAU Protect/UMAU           | Ultimate (product tier) |     | <40% AND <BR> >2%        | \>=40% AND <BR> \>=7%      |
 
