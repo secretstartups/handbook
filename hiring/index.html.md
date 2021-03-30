@@ -25,6 +25,7 @@ description: "Landing page for many of the handbook pages the recruiting team at
 - [Principles](/handbook/hiring/principles/)
 - [Recruiting Alignment](/handbook/hiring/recruiting-alignment/)
 - [Recruiting Metrics Process](/handbook/hiring/metrics/)
+- [Recruiting Privacy Policy](/handbook/hiring/recruitment-privacy-policy/)
 - [Recruiting Process Framework](/handbook/hiring/recruiting-framework/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
 - [Referral Process](/handbook/hiring/referral-process/)
