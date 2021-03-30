@@ -39,9 +39,11 @@ You're ready to build your channel! Please follow the steps on the [Work with Us
 
 If your team's channel already exists, please skip to Part 4
 
-### Part 4: Add the `curator` role to your EdCast profile
+### Part 4: Add the `Curator` role to your EdCast profile
 
-The process to add the `curator` role to your edcast profile is currently a work in progress.
+Follow the steps outlined in the handbook to open an [individual access request for the `Curator` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `@slee24`.
+
+Once processed, you're ready to start curating content on your team's channel! Please reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) if you need additional support.
 
 ## Become a GitLab Learning Evangelist
 
@@ -105,6 +107,12 @@ Upon completion of this learning path, GitLab Team members will earn the Learnin
 1. Review the process for completeing the [peer editing process](/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) before sharing content.
 1. Review strategies for [Sharing content with learners](/handbook/people-group/learning-and-development/gitlab-learn/admin/#sharing-content-with-learners)
 1. Knowledge Assessment
+
+## Add the `Learning Evangelist` role to your EdCast profile
+
+Follow the steps outlined in the handbook to open an [individual access request for the `Learning Evangelist` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `@slee24`.
+
+Once processed, you're ready to start contributing content to GitLab Learn! Please reach out in the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) if you need additional support.
 
 
 ## After earning the Learning Evangelist Badge

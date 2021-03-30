@@ -38,7 +38,6 @@ Our long term goal for [GitLab Learn](https://about.gitlab.com/learn/) is to cre
 
 All learning handbook follows our [handbook first learning best practices](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) and aligns with our [GitLab CREDIT values.](https://about.gitlab.com/handbook/values/). The LXP is [team member](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) and community driven with content on an open platform for all to consume! 
 
-
 #### A note about naming
 
 Review the following terms to get familiar with language used in this documentation.
@@ -155,6 +154,10 @@ The following permissions are available on the platform and can be set to the `o
 1. Manage analytics
 1. Manage channel analytics
 1. Manage group analytics
+
+## How to request elevated role permissions in EdCast
+
+Follow the steps outlined in the handbook to open an [individual access request for the desired elevated role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and assign the AR to `@slee24`.
 
 
 ### Platform Administrator
