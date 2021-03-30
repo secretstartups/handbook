@@ -363,8 +363,6 @@ The following is a list of all statutory annual vacation entitlements by entity 
     * An employee who has been continuously employed for six months and whose attendance has been at least 80% of the total number of working days during that period, is entitled to a minimum of ten days’ annual paid leave on the day after completing six months of employment. The entitlement increases by one day per year for the following two years and by two days per year thereafter, up to a maximum of 20 days per year. Unused annual paid leave expires after two years if not used. Companies are not required to purchase out unused annual paid leave when employees leave companies unless otherwise provided in the work rules or employment contracts.
 1. GitLab Inc. (USA)
     * The U.S. [Fair Labor Standards Act (FLSA)](https://www.dol.gov/general/topic/workhours/vacation_leave) does not require payment for time not worked, such as vacations, sick leave or federal or other holidays.
-1. GitLab Inc. (China)
-    * For employees who worked for one-year but less than 10 years, the annual leave is 5 days; for more than 10 years worked but less than 20 years, the annual leave is 10 days; for more than 20 years worked, the annual leave is 15 days.
 1. Global Upside (India)
     * The statutory requirements of India are covered through our PTO policy.
 1. GitLab Canada Corp (Canada)
