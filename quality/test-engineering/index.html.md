@@ -94,7 +94,7 @@ This test plan uses the ACC Framework (Attribute, Components and Capabilities ma
 * Components: major parts of the product
 * Capabilities: behavior the product should display that links components and attributes
 
-Currently we have a [test plan template](https://gitlab.com/gitlab-org/gitlab/blob/master/.gitlab/issue_templates/Test%20plan.md) that is available for test planning in GitLab. A test plan can be created by anyone involved in a change.
+Currently we have a [test plan template](https://gitlab.com/gitlab-org/gitlab/blob/master/.gitlab/issue_templates/Test%20Plan.md) that is available for test planning in GitLab. A test plan can be created by anyone involved in a change.
 
 You can see the all the existing test plans here: [GitLab Test Plans](https://gitlab.com/gitlab-org/gitlab/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=test-plan).
 
