@@ -55,10 +55,23 @@ Seat Link data encompasses license utilization data for **all** customers, regar
 1. For privacy reasons, we do not collect the hostname (see [blog post](https://about.gitlab.com/blog/2020/03/16/how-were-improving-self-managed-billing/)) or other instance meta data. Instead, the highest reporting instance for a given subscription is displayed
 1. Seat Link does **not** have product usage data; it only counts licenses
 
+## Gainsight Reports and Dashboards
+
+Use the [Product Usage Data Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) to see the full list of your accounts. Once on the C360, 
+
+
+| Report Name | Description | Application |
+| ------ | ------ | ------ |
+| **License Utilization (Seat Link)** | current, high level license utilization statistics | Use this to quickly identify the depth of adoption, if the account is Reporting  |
+| **License Utilization Trends (Seat Link)** | Week-over-Week license utilization trend charts | Useful for understanding if and how much the customer is adding or removing licenses |
+| **Monthly Distilled Metrics (Usage Ping)** | Contextually-based metrics to graph the adoption percentage of the account (e.g., users who ran a pipeline divided by monthly active users) | Metrics to help the account team understand monthly use case and license usage to assess for expansion or enablement decisions  |
+| **Monthly Use Case Trends (Usage Ping)** | Month-over-Month trend analyses for use cases such as CI or SCM | Monthly data points for use case-specific metrics. To be used to help the account team learn feature and deployment depth and adoption — use this in conjunction with the Monthly Distilled Metrics |
+| **Instance Details (Usage Ping)** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#Updating-Self-Managed-Instance-Type) |
+
 
 ## Ways to Use These Metrics
 
-There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](/#requesting-new-metrics). Here are several potential use cases for utilizing data:
+There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](#requesting-new-metrics). Here are several potential use cases for utilizing data:
 
 ### Understanding The Basics of My Customer's Usage
 
@@ -77,7 +90,7 @@ While we can use License Usage (see above) to understand the activated seats vs.
 
 As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption. Use the [Use Case Adoption](/product-usage-data/use-case-adoption/) guide for specific definitions around whether a customer has adopted a specific stage. See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. 
 
-Remember, this is an MVC — please [create an issue to suggest new metrics](/#requesting-new-metrics), different ways to evaluate the customer's journey, or other ideas.
+Remember, this is an MVC — please [create an issue to suggest new metrics](#requesting-new-metrics), different ways to evaluate the customer's journey, or other ideas.
 
 | Use Case (Stage)   | Purpose / Adoption Level | Description                                                  |
 | ------------------ | ------------------------ | ------------------------------------------------------------ |
