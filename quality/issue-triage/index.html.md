@@ -257,6 +257,12 @@ to overestimate the severity. But do get confirmation from a [domain expert](/ha
 
 Sort by "Author: your username" and close any issues which you know have been fixed or have become irrelevant for other reasons. Label them if they're not labeled already.
 
+### Product feedback issues
+
+Some issues may not fall into the [type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels), but they contain useful feedback on how GitLab features are used.
+These issues should be mentioned to the product manager and labeled as `~"Product Feedback"` in addition to the group, category and stage labels.
+<https://gitlab.com/gitlab-org/gitlab/-/issues/324770> is an example of a Product Feedback issue. 
+
 ### Questions/support issues
 
 If it's a question, or something vague that can't be addressed by the development
