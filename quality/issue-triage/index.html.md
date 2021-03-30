@@ -260,9 +260,8 @@ Sort by "Author: your username" and close any issues which you know have been fi
 ### Product feedback issues
 
 Some issues may not fall into the [type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels), but they contain useful feedback on how GitLab features are used.
-Often this takes the form of an issue where a user reports an unintuitive product feature, or a misunderstood feature.
-These issues should be labeled as `~"Product Feedback"` on top of the group, category and stage labels.
-Also, mention the relevant product manager in the issue.
+These issues should be mentioned to the product manager and labeled as `~"Product Feedback"` in addition to the group, category and stage labels.
+<https://gitlab.com/gitlab-org/gitlab/-/issues/324770> is an example of a Product Feedback issue. 
 
 ### Questions/support issues
 
