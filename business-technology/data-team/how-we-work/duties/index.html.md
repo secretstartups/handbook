@@ -55,6 +55,7 @@ The Data Analyst triager
 ### How to Complete Data Triage
 
 Create [an issue in the Data Team project](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=Data%20Triage).
+
 [Read](/handbook/business-technology/data-team/how-we-work/triage/) the FAQ and common issues.
 
 ### Triage Bot
