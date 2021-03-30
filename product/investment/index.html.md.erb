@@ -169,13 +169,13 @@ For non-DevOps and Enabling stages we still track our overall investment, but do
   <% end %>
 <% end %>
 
-## Total and Service Addressable Markets
+## Total and Served Addressable Markets
 
-Service Addressable Market (SAM) is a key driver of our stage level investment. We calculate our SAM based on what percentage of the total addressable market is servicable by our current products. Here is our future Total Addressable Market (TAMkt) for 2024, percent addressable and SAM for each stage which are used to determine our [SAM Driver score](#devops-stage-scoring-framework).
+Served Addressable Market (SAM) is a key driver of our stage level investment. We calculate our SAM based on what percentage of the total addressable market is serviceable by our current products. Here is our future Total Addressable Market (TAMkt) for 2024, percent addressable and SAM for each stage which are used to determine our [SAM Driver score](#devops-stage-scoring-framework).
 
 <% totalTAMkt = 0 %>
 <% totalSAM = 0 %>
-| Stage | 2024 TAMkt | % Servicable | 2024 SAM |
+| Stage | 2024 TAMkt | % Served | 2024 SAM |
 |:--|:--:|:--:|:--:|
 <% data.addressable_markets.each do |stage| %>
   <% stageLine=[] %>
@@ -195,7 +195,29 @@ _Note_ - It is difficult to find data sources that allow us to break down our TA
 
 ## Changes
 
+### Changes in Scoring and Addressable Markets
+
 Changes to this page are made by adding new values to the single sources of truth ([categories.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml), [stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) and [addressable_markets.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/addressable_markets.yml)) and then editing this page in order to display those values in table form. Be sure the definition for any column value is defined in [stage](/handbook/marketing/inbound-marketing/digital-experience/website/#stage-attributes) and [category attributes](/handbook/marketing/inbound-marketing/digital-experience/website/#category-attributes) and that the column headers link to those definitions.
 
 The process for making changes requires you to submit a merge request to the [stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) for the specific keywords that have changed and provide the data source for that change. Assign the merge request to the EVP or VP of Product and slack `#product` for approval/merge. You can reference the [Release Stage update](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/62103) for an example.
-    
+
+### Changes in Levels of Investment
+
+We have a few methods for adjusting the level of investment (team members) allocated to groups and categories. We can:
+- Within the Development department declare a short-term [rapid action](/handbook/engineering/development/#rapid-action) to deliver on specific priorities
+- Implement a medium-term [headcount reset](/handbook/product/product-processes/#prioritize-global)
+- [Realign](/handbook/people-group/promotions-transfers/#realignment-of-team-members-impacting-multiple-teams) team members to higher priority product groups for longer-term efforts
+- Approve [new incremental investment](#new-incremental-investment) in the form of hiring
+
+#### New Incremental Investment
+
+For new incremental R&D investment not related to Product Groups, Functional Leaders (in Support, Security, Infrastructure and Quality) can directly propose increased investment in our [R&D Investment Priorities](#references) and pinging the CProdO and CTO. 
+
+For new incremental R&D investment within Product Groups the investment request must:
+- Be listed in the +10 Investment Priorities within the Section Direction ([example](https://about.gitlab.com/direction/ops/#10-investment-priorities))
+- Include a business case issue ([example](https://gitlab.com/gitlab-com/Product/-/issues/2178)) that explains the specific overview/background, proposal and impact of the investment
+
+Only if those conditions are met should new investment requests be added to the [R&D Investment Priorities](#references) for prioritization by the CProdO and CTO.
+
+## References
+- SSOT R&D Investment Priorities (GitLab access only - found in GDrive by searching for `SSOT R&D Investment Priorities`)
