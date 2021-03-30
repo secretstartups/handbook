@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Digital Experience Handbook
+description: >-
+  Learn more about the Digital Experience purpose, vision, mission, objective
+  and more in this handbook.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -172,8 +180,17 @@ This is the agenda we use for [Sprint Retros](https://docs.google.com/document/d
 ### Sprint Videos
 
 We release videos for [sprint planning](#sprint-planning), [sprint releases](#sprint-releases), and [sprint retrospectives](#sprint-retros) in the [Digital Experience playlist of GitLab Unfiltered](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing).
+### Internal Agency Day
 
-### Internal Issue Boards
+The Digital Experience team sprint spans almost two weeks, from Monday until the following Thursday. This leaves every second Friday open for internal issues and requests made by the marketing team. These issues should be labelled with the `IM-WEBAGENCY` label and will be taken on based on priority/due date.
+
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+| ------ | ------- | --------- | -------- | ------ |
+| Sprint Begins |  |  |  |  |
+|  |  | Sprint Release Async | Sprint Ends | Agency Day |
+
+###
+Internal Issue Boards
 
 These issue boards were created by the Digital Experience team to track our own workloads for a given release cycle.
 
