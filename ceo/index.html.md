@@ -175,7 +175,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 
 ### Annual Meetings
 
-1. [Contribute](/company/culture/contribute/). Sunday-Friday.
+1. [Contribute](/events/gitlab-contribute/). Sunday-Friday.
 1. [Annual Planning](/handbook/finance/financial-planning-and-analysis/#annual-plan) with the GitLab Board of Directors. 50-80 minutes.
 1. Fiscal Year Kickoff. 50 minutes.
 1. Industry Conferences such as: DevOps Enterprise Summit, AWS re:Invent, KubeCon, Linux Summit
