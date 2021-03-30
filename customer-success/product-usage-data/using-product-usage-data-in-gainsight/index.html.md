@@ -6,7 +6,15 @@ description: "Effective ways to apply product data for Sales and Customer Succes
 
 ## Vision
 
-To align to our GitLab values of Efficiency, Results, Transparency, and Iteration, Product Usage Data will be accessible in:
+To align to our GitLab values of Efficiency, Results, Transparency, and Iteration, Product Usage Data is intended to:
+
+1. **License utilization**: Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
+1. **Verify outcomes**: Track the customer's top-level objectives to usage data
+1. **Ascertain use case adoption**: Understand which product use cases the customer has adopted, which ones are in progress, and how to assist the customer with their goals
+
+These outcomes will lead to greater retention and customer growth.
+
+Product Usage Data will be accessible in:
 
 1. Short-term: Our GTM systems (Salesforce, Gainsight, and Marketo) to enable effective outcomes by supporting the customer where _they_ are at in their customer journey
 1. Short-term: GitLab accessible dashboards (Sisense) for high level overviews and trend analyses
