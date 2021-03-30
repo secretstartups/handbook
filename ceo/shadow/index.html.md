@@ -187,7 +187,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-03-22 | 2021-03-26 | [Darwin Sanoy](https://gitlab.com/darwinjs), Senior Solutions Architect, Alliances | [Sarah Daily](https://gitlab.com/sdaily), Senior Marketing Operations Manager |
 | 2021-03-29 | 2021-04-02 | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA | [Darwin Sanoy](https://gitlab.com/darwinjs), Senior Solutions Architect, Alliances |
 | 2021-04-05 | 2021-04-09 | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
 | 2021-04-12 | 2021-04-16 | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin |
