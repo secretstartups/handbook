@@ -102,7 +102,7 @@ All paid digital campaigns are executed with the help of our digital agency PMG 
 
 GitLab Digital Marketing works directly with PMG within the GitLab [Digital Advertising project](https://gitlab.com/gitlab-com/marketing/digital-advertising), which is strictly for Digital Marketing & PMG communication only. To learn how PMG is involved in the paid digital request process, please refer to the [DMP Request Workflow](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#workflows) section below.
 
-### Digital Campaign Types
+### Digital Campaign Channels
 {: #campaign-channels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 Digital Marketing will recommend specific channels based on your campaign goals. The most common type is Paid Social based on robust targeting criteria and successful performance in reach and inquiry volume.
@@ -136,7 +136,7 @@ Digital Marketing will recommend specific channels based on your campaign goals.
    - Content Syndication
 
 
-### Program definitions
+### Channel definitions
 {: #channel-definitions}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -159,6 +159,7 @@ Paid search promotes [text ads](https://support.google.com/google-ads/answer/170
 * **Best used for**: Mid and bottom funnel content where we want someone to take action (ex: filling out a form to a gated asset, signing up for a demo, etc).
      * **Best type of content to use**: Use case type gated assets that directly applies to the intent for the search query. How-to guides and ebooks do well here.
      * **Worst type of content to use**: Events and thought leadership reports/whitepapers like Gartner and Forrester reports that are not specifically tied to the intent of a search query. Caveat here is if the content is more of a how to report or guide.
+     * **Targeting**: Paid Search is neither able to target by company size/segments nor by domain or company name. This channel is best used for brand campaigns.
 
 #### **Paid Display**: 
 {: #paid-display}
@@ -179,7 +180,8 @@ Publisher sponsorships are when we engage a specific publisher in order to purch
 * **Best used for**: Primarily used for demand generation, so we focus on mid to bottom funnel content.
      * **Best type of content to use**: Live webcasts and recorded webcasts work the best. Ebooks and guides sometimes work, depending on the placement. 
      * **Worst type of content to use**: Events and thought leadership reports/whitepapers like Gartner and Forrester reports. With leadership reports/whitepapers, we historically have not seen good engagement and sign-ups for these types of assets on Paid Social, unless the report is more of a how-to guide. 
-     
+
+
 ### Digital Campaign Ad Specs
 {: #specs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -409,6 +411,21 @@ If you would like to request a paid digital marketing promotion in paid search, 
 <!-- DO NOT CHANGE THIS ANCHOR -->
 We require campaigns to run at least 3-4 weeks (this is typically for event/webcasts promotions) in order to successfully exit the initial “learning phase” for our platforms’ algorithms. The learning phase is the period when the ad delivery system still has a lot to learn about a new campaign. During the learning phase, the delivery system is exploring the best way to deliver your ads - this means performance is less stable and costs are usually worse. Each time an ad is shown, the delivery system learns more about the best people and places to show the ad. The more an ad is shown, the better the delivery system becomes at optimizing the ad’s performance.
 
+### Campaign Request Requirements & Best Practices
+{: #requirements-best-practices}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+- Field Campaigns: In alignemnt with the FY22 contract (which can be found in ContractWorks) GitLab has with our digital vendor PMG, paid campaign promotion for Revenue Marketing is limited to 3 campaign launches per month.
+   * If you have a camapign that lasts multiple months, that campaign only counts against RevMktg's 3 in that 1st month and does not count against the 3 in the subsequent months. 
+- Landing Pages: All landing pages should be GitLab-owned (about.gitlab, learn.gitlab, and page.gitlab) so we are able to track conversion/inquiry performance. Conversion data increases the success of campaigns by advancing the platform learning phase and providing PMG with valuable data & insights to make manual optimizations. 
+
+3rd party landing pages are not able to report on conversions within our platforms, so they can significantly decrease campaign performance. Furthermore, if paid campaigns are not able to attribute their conversions/inquiries from 3rd party landing pages, reporting will lack correct data and show major inefficiencies. 
+
+If you are planning on using a 3rd party landing page, please [open an issue in the  Digital Marketing project](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) before a contract is signed so we can determine how to capture conversions and measure success.
+
+- Localization/Translation: While our ads are mainly in English, we are able to run campaigns in different languages but recommend all materials are translated. This means the creative copy, ad copy, landing page, and nurture have a fully localized, seamless experience from end to end.
+- Lead Time + Flight Time: We recommend followng our [Request Timing section](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#timing) to ensure your campaign is set up for success.
+- Ad Creative: We recommend adding a CTA (call to action) button, and using shorter copy within the image (typically 4-7 words) and leaning on the headline/introduction text to convey more of your message.
 
 ## LinkedIn Campaigns
 {: #linkedin}
