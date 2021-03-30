@@ -6,11 +6,12 @@ description: "Effective ways to apply product data for Sales and Customer Succes
 
 ## Vision
 
-To align to our GitLab values of Efficiency, Results, Transparency, and Iteration, Product Usage Data is intended to:
+To align to our GitLab values of Efficiency, Results, Transparency, and Iteration, Product Usage Data is intended to assess and review:
 
-1. **License utilization**: Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
-1. **Verify outcomes**: Track the customer's top-level objectives to usage data
-1. **Ascertain use case adoption**: Understand which product use cases the customer has adopted, which ones are in progress, and how to assist the customer with their goals
+1. **Customer Health**: Analyze and understand the customer's overall health to assess overall user engagement and depth of deployment
+1. **License Utilization**: Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
+1. **Customer Outcomes**: Track the customer's top-level objectives to usage data
+1. **Use Case Adoption**: Understand which product use cases the customer has adopted, which ones are in progress, and how to assist the customer with their goals
 
 These outcomes will lead to greater retention and customer growth.
 
