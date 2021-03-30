@@ -63,7 +63,7 @@ All GitLab Team Members can submit a referral by either submitting them directly
 
 1. Login to Greenhouse and click the `+` icon in the top right corner, then `Add a Referral`.
     * There's also an `Add a Referral` section on your dashboard and that'll take you to the same page.
-1. Fill-in all the required fields (designated by a red asterick) and as many of the non-required fields as possible. 
+1. Fill-in all the required fields (designated by a red asterisk) and as many of the non-required fields as possible. 
     * Of note:
         * When selecting a `Job` from the dropdown, make sure that an `Office` is **not** selected.
             * If you **don't** see the desired vacancy there, please check the [Internal Job Board](https://gitlab.greenhouse.io/internal_job_board). If the vacancy is there, please [submit an Issue](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/hiring/referral-process/index.html.md#submitting-a-referral-via-an-issue).
@@ -82,8 +82,8 @@ To see what positions are available to submit an external candidate for please v
 
 **Things to note:**
 
-*  A referral must be sumitted to a **specific requisition** - general referrals are **not** accepted.
-*  If you see `CURRENT TEAM MEMBERS ONLY -` before a requisition, please note that that requsition is for **Internal Team Members only**; please do **not** submit a referral.
+*  A referral must be submitted to a **specific requisition** - general referrals are **not** accepted.
+*  If you see `CURRENT TEAM MEMBERS ONLY -` before a requisition, please note that that requisition is for **Internal Team Members only**; please do **not** submit a referral.
 * Please keep in mind that it is up to the Recruiter and/or Hiring Manager's discretion to move forward with your referral once submitted, based on skill/experience alignment to their role.
 
 #### Referral Statuses
