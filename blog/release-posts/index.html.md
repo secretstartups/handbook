@@ -973,7 +973,7 @@ See also: [Google SRE Ch. 14](https://sre.google/sre-book/managing-incidents/)
   - [Secondary features (improvements)](#improvements)
   - [Illustrations](#illustrations) (screenshots, gifs, or videos)
   accompanying their respective features
-- [Performance improvements and bug fixes](#performance-improvements-and-bug-fixes)
+- [Usability improvements performance improvements and bug fixes](#usability-improvements-performance-improvements-and-bug-fixes)
 - [Omnibus improvements](#omnibus-improvements) (added as a secondary feature)
 - [Important notes on upgrading](#important-notes-on-upgrading) (optional)
 - [Deprecations](#deprecations)
