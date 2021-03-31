@@ -33,7 +33,7 @@ To make sure this is clear we:
 
 1. Document who is the [DRI](/handbook/people-group/directly-responsible-individuals/) on a decision.
 1. Have clear [KPIs](/handbook/business-ops/data-team/metrics/#gitlab-kpis) across the company
-1. Have [Key Meetings](/handbook/finance/key-meetings/)
+1. Have [Key Meetings](/handbook/key-meetings/)
 1. Have each job family include specific [performance indicators](/handbook/hiring/job-families/#why-job-families-have-performance-indicators)
 1. Have a [clear org-chart](/company/team/org-chart/) where [each individual reports to exactly one person](/handbook/leadership/#no-matrix-organization)
 1. Have managers regularly ask team members if they understand job expectations and close any gaps in understanding.
