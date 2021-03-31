@@ -145,7 +145,7 @@ These should be called Pop-up AMAs so it's clear to team members that the AMA wa
 
 #### Additional Consideration for Functional Presentations
 
-[Groups](/handbook/finance/key-meetings/#invitees) that also have [Key Meetings](/handbook/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Meetings](/handbook/key-meetings/) will have a monthly GC. 
+[Groups](/handbook/key-meetings/#invitees) that also have [Key Meetings](/handbook/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Meetings](/handbook/key-meetings/) will have a monthly GC. 
 
 ### 24 Hours Before the Call
 
