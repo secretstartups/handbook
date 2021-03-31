@@ -406,7 +406,7 @@ The opportunity owner's primary reason as to why GitLab won the deal.
 - **Web Direct:** A Web Portal purchase where we do not have a specified Closed Won Reason
 - **Other:** The deal was won due to reasons other than noted above
 
-We also capture Downgrade Reasons when we win a deal but with negative Net ARR (i.e., the customer renews but for less money than they were previously paying). All of the Lost Reasons below can apply to downgrades as well except for "Lack of Adoption."
+We also capture Downgrade Reasons when we win a deal but with negative Net ARR (i.e., the customer renews but for less money than they were previously paying). All of the Lost Reasons below can apply to downgrades.
 
 ### Closed Deal - Lost
 
@@ -416,7 +416,7 @@ A unique deal that is set to `8-Closed Lost` in SalesForce.
 
 The opportunity owner's primary reason as to why GitLab lost the deal.
 
-- **Lack of Adoption:** Customer never adopted the product or specific features so they did not get value. This can be because of organizational silos or lack of internal resources. If they didn't adopt because they didn't see / experience value, the lost reason should be "Product Value / Gaps."
+- **Lack of Adoption:** Customer never adopted the product or specific features so they did not get value. This can be because of organizational silos or lack of internal resources. If they didn't adopt because they didn't see / experience value, the lost reason should be "Product Value / Gaps." This reason does not apply to opportunities with order types of New First Order or New Connected.
 - **Product Value / Gaps:** Customer used the product and features, but did not see the value. The product did not meet requirements of the customer. This can also be a prospect where they did not experience or percieve value.
 - **Product Quality / Availibility:** Customer is using the product and features though the customer expectations did not meet the prospect or customer's needs. This can be defects, poor performance, or uptime/availability issues. Includes both self-managed and SaaS products.
 - **Lack of Engagement / Sponsor:** We were never able to get engagement with the customer team. The champion / sponsor left or changed responsibility. We were never able to re-establish connection with a new sponsor or champion. 
