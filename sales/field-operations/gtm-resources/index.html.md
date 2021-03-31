@@ -338,9 +338,9 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 **Order Type Review** 
 - Validate that the requestor has provided adequate details to justify the change request.
 - Follow the below steps for each Common Manual Override Scenarios:
-    1. Customers Returning More than 180  Days After Subscription Term End Date: Review the subscription term end date from the existing subscription.  If it is > 180 days, the opportunity Order Type should be manually updated to  First Order or New Connected.
-    1. Refunds: Confirm with deal desk that the opportunity is, in fact, a refund.  If yes, the opportunity Order Type should be manually updated to  First Order or New Connected.
-    1. Incorrect Parenting/Hierarchy: Validate that the parenting is, in fact, incorrect.  If so, unparent the account(s) and manually update the opportunity Order Type to First Order or New Connected
+    1. **Customers Returning More than 180  Days After Subscription Term End Date:** Review the subscription term end date from the existing subscription.  If it is > 180 days, the opportunity Order Type should be manually updated to  First Order or New Connected.
+    1. **Refunds:** Confirm with deal desk that the opportunity is, in fact, a refund.  If yes, the opportunity Order Type should be manually updated to  First Order or New Connected.
+    1. **Incorrect Parenting/Hierarchy:** Validate that the parenting is, in fact, incorrect.  If so, unparent the account(s) and manually update the opportunity Order Type to First Order or New Connected
 
 
 **Sales Admin Owned Review and Owner Change Process**
@@ -887,7 +887,7 @@ Customer subscriptions will be moved to cancelled no more than 30 days after the
         - Example:
            
             | **Opportunity** | **Stage** | **Net ARR** | **ARR Basis** | **ACV** |
-            | --- | --- | --- | --- | --- | --- |
+            | --- | --- | --- | --- | --- | 
             | New Business 2020| Closed Won | 100 | 0 | 100 |
             | Renewal 2021| Closed Won | 0 | 100 | 100 |
             | Renewal 2022 | Closed Lost | 0 | 100 | 100 |
