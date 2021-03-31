@@ -544,7 +544,7 @@ Please add the `documentation_link` at the same time you add a content block to 
 
 Always link to the "EE" version of GitLab docs `https://docs.gitlab.com/ee/` (not `/ce/`) in the blog post, even if it is a CE feature.
 
-**Bugs:**
+##### Contributing to Bug Fixes
 
 It's the PMs discretion on which bugs or performance improvements to include in a release post. When evaluating what to include consider the following factors:
 
