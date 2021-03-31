@@ -199,8 +199,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-06-01 | 2021-06-04 | AVAILABLE - REMOTE (short week due to Holiday) | [Melissa Ushakov](https://gitlab.com/mushakov)- Sr. Product Manager - Manage:Access |
 | 2021-06-07 | 2021-06-11 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-06-14 | 2021-06-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-06-21 | 2021-06-25 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-06-28 | 2021-07-01 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
+| 2021-06-21 | 2021-06-25 | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager | AVAILABLE - REMOTE |
+| 2021-06-28 | 2021-07-01 | AVAILABLE - REMOTE (short week due to Holiday) | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager |
 | 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
 | 2021-07-12 | 2021-07-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-07-19 | 2021-07-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
