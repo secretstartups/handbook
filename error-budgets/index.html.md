@@ -111,7 +111,7 @@ The budget spend is also announced in [the weekly GitLab SaaS call](/handbook/en
 
 ### Budget spend (by stage group)
 
-The current 28 day budget spend can be found on each [stage group dashboard][stage group dashboards]. Feature categories for that stage group are rolled up to a single value. 
+The current [28 day](/handbook/business-technology/data-team/programs/data-for-product-managers/#usage_ping_metric_count-snippet) budget spend can be found on each [stage group dashboard][stage group dashboards]. Feature categories for that stage group are rolled up to a single value. 
 
 Stage groups can use their dashboards to explore the cause of their budget spend. 
 
