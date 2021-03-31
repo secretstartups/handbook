@@ -780,7 +780,7 @@ Note: Because there are no individual TW reviewers for the performance improveme
 
 #### Bugs MR
 
-As the TW Lead, you're responsible for reviewing an MR created for [bug fixes](#create-mrs-for-bugs-and-performance-improvements).
+As the TW Lead, you're responsible for reviewing an MR created for [bug fixes](#create-mrs-for-usability-bugs-and-performance-improvements).
 This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
 
 Bugs included in the description:
