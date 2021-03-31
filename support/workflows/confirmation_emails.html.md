@@ -43,9 +43,21 @@ If the user has already correctly chosen the problem type, the automation will a
 
 If the user made a typo:
 
+##### With Admin Access
 1. Make sure the account in question has no activity.
 1. When viewing the user in the admin area, click `Edit`.
 1. Fix the email address to the correct one and save your changes.
+
+##### Without Admin Access
+1. Make sure the account in question has no activity.
+    - `/chatops run user find <user or email>
+    - The response should show blank for the following fields:
+        - Confirmed At
+        - Last Login
+        - Last Active At
+1. If there is no activity on the account, you can update the email to correct the typo
+    - `/chatops run user update_email <username or current email> <new_eamil@example.com>`
+1. Ensure the chatops response shows the new email
 
 ### Removing a Suppression in Zendesk
 
