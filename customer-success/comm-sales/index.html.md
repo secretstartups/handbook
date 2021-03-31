@@ -88,5 +88,5 @@ A seamless customer journey requires a continuous flow of relevant information b
 * Update SA name on account team in Salesforce
 * Ensure any account notes, [tech stack discoveries](https://docs.google.com/spreadsheets/d/1sOeluQhMO4W0wWIC6rbSE_E1NzTj7eTaR-FDKLYlLb4/edit#gid=912439232), [technical briefs](https://gitlab.com/gitlab-com/customer-success/tko/technical-followup-briefs/-/tree/master) or running call notes are linked to Salesforce and shared with the new SA
 * Introduce new SA live on a client call
-* If a [POV](/handbook/sales/POV/) is pending or active, update the POV record in Salesforce as required
+* If a [POV](/handbook/customer-success/solutions-architects/tools-and-resources/pov) is pending or active, update the POV record in Salesforce as required
 * Ensure any current action items are identified via an issue on the [Commercial SA Triage board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/boards/1006966)
