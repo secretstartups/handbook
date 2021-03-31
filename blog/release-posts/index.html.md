@@ -1318,17 +1318,9 @@ to the post.
 
 ### Performance improvements and bug fixes
 
-_To be added by Engineering Managers and Product Managers._
+_To be added by Engineering Managers,  Product Managers and Product Designers._
 
-The Release Post manager will [create MRs](#create-mrs-for-usability-improvements-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for performance improvements and bugs. Engineering Managers will contribute to performance improvements and both Engineering Managers and Product Managers will contribute to bug fixes.
-
-### Usablity improvements
-
-CONTENT NEEDS TO BE UPDATED
-
-_To be added by Producut Managers and Product Designers._
-
-The Release Post manager will [create MRs](#create-mrs-for-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for performance improvements and bugs. Engineering Managers will contribute to performance improvements and both Engineering Managers and Product Managers will contribute to bug fixes.
+The Release Post manager will [create MRs](#create-mrs-for-usability-improvements-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Both Product Managers and Product Designers can contribute to usability improvements.
 
 ### Omnibus improvements
 
