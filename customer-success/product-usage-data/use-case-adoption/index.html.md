@@ -50,9 +50,9 @@ Adoption timeline: 1 months after license purchase
 
 |                             | **Product Tier**   | **Red**  | **Yellow** | **Green** |
 | --------------------------- | ------------------ | -------- | ---------- | --------  |
-| SMAU Secure / UMAU          | Ultimate           | <10%     |           |      |
-| SMAU Protect                | Ultimate           | 0        |           |      |
+| SMAU Secure / UMAU          | Ultimate           | <10%     | >=10% AND <40%    |      |
+| SMAU Protect                | Ultimate           | 0        | 1         |      |
 | SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | >=10% AND <BR> 1       |       |
-| SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | <40% AND <BR> 1        | \>=40% AND <BR> >=2      |
+| SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | <40% AND <BR> >=2      | \>=40% AND <BR> >=2      |
 
 Note: for `SMAU Protect` this is the total number of users, not a percentage like other measures.
