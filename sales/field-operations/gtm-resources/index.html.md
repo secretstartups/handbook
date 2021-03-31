@@ -877,7 +877,7 @@ Opportunities for subscriptions will use the following guidelines:
 
 Customer subscriptions will be moved to cancelled no more than 30 days after the subscription term end date, and the related Renewal Opportunity will be moved to Closed Lost.
 
-##### Opportunity Requirements for Return Customers
+##### Opportunity Requirements for Returning Customers
 
 - **Customers Returning within 180 Days of Subscription Term End Date**:
     - If a customer returns to purchase another GitLab subscription **within 180 days** of the previous subscription term end date, the transaction must be booked under a **Renewal Opportunity**, using a new subscription quote. In this scenario, the following actions should be taken:
