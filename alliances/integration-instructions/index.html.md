@@ -21,8 +21,8 @@ Once [these steps](https://about.gitlab.com/partners/technology-partners/integra
 - Your logo
     > **Picture Requirements**
     >
-    > - Crop image to a perfect square.
-    > - Keep maximum dimension under 400 by 400 pixels.
+    > - Crop your image to a perfect square or rectangle.
+    > - Keep maximum dimensions under 800 by 800 pixels.
     > - Use the JPEG (`.jpg`) or PNG (`.png`) format.
     > - Name file `company_name_in_lowercase` and add the appropriate file extension.
 
