@@ -10,7 +10,7 @@ title: "GitLab Communication"
 
 We're an [all-remote](/company/culture/all-remote/#advantages-for-organizations) company that allows people to work from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines). We hire great people regardless of where they live, but with GitLab team members across [more than 60 countries](/company/team/), it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
 
-To accomplish this, we use **[asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point** and stay as open and transparent as we can by communicating through public issues, [merge requests](#everything-starts-with-a-merge-request), and [Slack channels](/handbook/communication/chat).
+To accomplish this, we use **[asynchronous communication](/company/culture/all-remote/asynchronous/) as a starting point** and stay as open and transparent as we can by communicating through public issues, [merge requests](#everything-starts-with-a-merge-request), and [Slack channels](/handbook/communication/chat/).
 
 We also place an emphasis on ensuring that conclusions of offline conversations are written down.
 When we go **back and forth three times,** we jump on a [synchronous video call](/handbook/communication/#video-calls).
@@ -80,7 +80,7 @@ It's best practice to start a discussion where possible with a [Merge Request (M
 1. If submitting a change for a feature, **update the description with the final conclusions** (Why an MR was rejected or why it was approved). This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion and discussion later on.
 1. Submit the **smallest** item of work that makes sense. When proposing a change, submit the smallest reasonable commit, put suggestions for other enhancements in separate issues/MRs and link them. An MR can start off as only a [problem description and TODO comments](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/35239/diffs?diff_id=97449459). If you're new to GitLab and are writing documentation or instructions, submit your first merge request for at most 20 lines.
 1. Do not leave MRs open for a long time. MRs should be **actionable** -- stakeholders should have a clear understanding of what changed and what they are ultimately approving or rejecting.
-1. Make a conscious effort to **prioritize** your work. The priority of items depends on multiple factors: Is someone waiting for the answer? What is the impact if you delay it? How many people does it affect, etc.? This is detailed in [Engineering Work flow](/handbook/engineering/workflow).
+1. Make a conscious effort to **prioritize** your work. The priority of items depends on multiple factors: Is someone waiting for the answer? What is the impact if you delay it? How many people does it affect, etc.? This is detailed in [Engineering Work flow](/handbook/engineering/workflow/).
 1. When submitting a MVC, **ask for feedback** from your peers. For example, if you're a designer and you propose a design, ping a fellow designer to review your work. If they suggest changes, you get the opportunity to improve your design and propose an alternative MR. This promotes collaboration and advances everyone's skills.
 1. Respond to comments within a **threaded discussion**. If there isn't a discussion thread yet, you can use the [Reply to comment](https://docs.gitlab.com/ee/user/discussions/#start-a-discussion-by-replying-to-a-standard-comment) button from the comments to create one. This will prevent comments from containing many interweaved discussions with responses that are hard to follow.
 1. If your comment or answer contains separate topics, write separate comments for each, so others can address topics independently using the [Reply to comment](https://docs.gitlab.com/ee/user/discussions/#start-a-discussion-by-replying-to-a-standard-comment) button.
@@ -157,7 +157,7 @@ Internal Communication includes conversations between team members, wider team d
 At GitLab, everyone can contribute to the effectiveness of Internal Communications to support aspects of GitLab culture, such as intentional transparency and engaging people in open dialogue.
 
 Since we believe that all team members must be [Managers of One](/handbook/leadership/#managers-of-one), most communication is handled by the relevant group, but we know that some communications are more sensitive and contentious than others.
-In those cases, the DRIs may want to engage the [Internal Communications function](/handbook/communication/internal-communications).
+In those cases, the DRIs may want to engage the [Internal Communications function](/handbook/communication/internal-communications/).
 
 ## Asynchronous communication
 
@@ -203,7 +203,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 
 ### Ask Me Anything Meetings
 
-[Ask Me Anything meetings](/handbook/communication/ask-me-anything) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.
+[Ask Me Anything meetings](/handbook/communication/ask-me-anything/) can be a useful opportunity for team members to meet a new leader, learn more about an existing team member, or gain clarity on a recent change.
 
 ### Posting in #company-fyi
 ```mermaid
@@ -317,7 +317,7 @@ Some things are **internal**, available internally but not externally. The follo
 
 1. Security and [abuse](/handbook/engineering/security/security-operations/trustandsafety/#what-is-abuse) vulnerabilities are not public since they would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security and abuse implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
 1. Financial information, including revenue and costs for the company, is confidential because we plan to be a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
-   1. the specific [IACV](/handbook/sales/sales-term-glossary/acv-in-practice) of an opportunity;
+   1. the specific [IACV](/handbook/sales/sales-term-glossary/acv-in-practice/) of an opportunity;
    1. total monthly cash inflow/outflow for GitLab.com;
    1. spend of more than 10%;
    1. a department's cost;
@@ -660,7 +660,7 @@ Some of the most common meetings problems are outlined below:
 
 Indicate your availability by updating your own calendar using Google's ["out of office"](https://www.theverge.com/2018/6/27/17510656/google-calendar-out-of-office-option) feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
 
-1. Put your planned away time including holidays, vacation, travel time, and other leave in your own calendar. Please see [Communicating your time off](/handbook/paid-time-off#communicating-your-time-off) for more.
+1. Put your planned away time including holidays, vacation, travel time, and other leave in your own calendar. Please see [Communicating your time off](/handbook/paid-time-off/#communicating-your-time-off) for more.
 1. Set your working hours in your Google Calendar settings.
 1. Utilize [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to keep other GitLab team members aware of your planned time away within Slack.
 
@@ -818,7 +818,7 @@ This makes the link more prominent and makes it easier to follow while viewing t
 1. In making URLs, always prefer hyphens to underscores, and always use lowercase.
 1. The community includes users, contributors, core team members, customers, people working for GitLab Inc., and friends of GitLab. If you want to refer to "people not working for GitLab Inc." just say that and don't use the word community. If you want to refer to people working for GitLab Inc. you can also use "the GitLab Inc. team" but don't use the "GitLab Inc. employees".
 1. When we refer to the GitLab community excluding GitLab team members please say "wider community" instead of "community".
-1. All people working for GitLab (the company) are the [GitLab team](/company/team). We also have the [Core team](/community/core-team/) that consists of volunteers.
+1. All people working for GitLab (the company) are the [GitLab team](/company/team/). We also have the [Core team](/community/core-team/) that consists of volunteers.
 1. Please always refer to GitLab Inc. people as GitLab team members, not employees.
 1. Use [inclusive and gender-neutral language](https://techwhirl.com/gender-neutral-technical-writing/) in all writing.
 1. Always write "GitLab" with "G" and "L" capitalized, even when writing "GitLab.com", except within URLs. When "gitlab.com" is part of a URL it should be lowercase.
@@ -1070,7 +1070,7 @@ Earlier in our history, 50% of all communication *was* in public channels.
 ### Use Public Channels
 
 1. If you use Slack and plan to message 3 or more people, we recommend a channel for customer/issue/project/problem/partnership.
-1. Learn about [common channels and channel-naming conventions](/handbook/communication/chat).
+1. Learn about [common channels and channel-naming conventions](/handbook/communication/chat/).
 1. If something is important but not urgent - like complimenting or encouraging the entire team - use email or post in the channel without `@`-mentioning the team.
 1. It's not rude to leave a channel. When you've had your questions answered or are no longer interested, feel free to leave the channel so it won't distract you anymore.
 1. The usage of ChatBots for integrations can sometimes depend upon the name of the channel. You should consult the channel about such integrations before changing the name of commonly used/popular channels to avoid inadvertently breaking integrations.
@@ -1195,7 +1195,7 @@ The following list is reflective of the ones we use for Diversity, Inclusion and
 | `hey guys, hi guys, you guys, salesman, salesmen, businessman, businessmen` | Are you including people of multiple genders? Please consider using "everyone," "team," "y'all," or similar instead. You can read [more about inclusive language in our handbook](/handbook/values/#inclusive-language--pronouns) |
 | `on your toes, on anybody's toes` | It's probably okay.<br><br>As companies grow, their speed of decision making goes down since there are more people involved. We should counteract that [by having short toes](/handbook/values/#short-toes) and feel comfortable letting others contribute to our domain. |
 | `aggressive` | Did you mean ambitious? |
-| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can [read more about this in our handbook](/handbook/communication/top-misused-terms) |
+| `gitlabber, gitlabbers` | The term `gitlabber` is a commonly misused term. Please use "GitLab team member" instead. You can [read more about this in our handbook](/handbook/communication/top-misused-terms/) |
 
 ### Why are we upgraded to the Plus tier?
 
@@ -1332,7 +1332,7 @@ Please visit the [Tools and Tips handbook](/handbook/tools-and-tips/#zoom) for Z
 
 ### Using Zoom for personal connection
 
-[COVID-19](/handbook/total-rewards/benefits/covid-19) is impacting how team members connect and communicate with family.
+[COVID-19](/handbook/total-rewards/benefits/covid-19/) is impacting how team members connect and communicate with family.
 
 Due to school closures, parents are tasked with being responsible for their children while at home. [Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second) is an important Diversity, Inclusion & Belonging  sub-value. To that end, we are encouraging GitLab team members to allow their children to connect with other children around the world.
 
