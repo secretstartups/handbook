@@ -1343,7 +1343,7 @@ The due date is defined by the removal of that feature. The field is required, a
 - An estimation of the removal date, e.g., "January 22nd, 2019 (estimated)", or
 - An estimation of the removal release (_only_ if the release date in unknown), e.g., "GitLab 12.0 (estimated)"
 
-If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0.
+If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0. Product Managers are the DRI for re-adding the deprecation to release posts until the item is completed.
 
 Create one .yml file for each deprecation notice in the `/data/release_posts/unreleased/` folder with the following contents:
 
