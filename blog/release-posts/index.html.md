@@ -217,13 +217,11 @@ Create a merge request with the introductory changes _after the previous post ha
 
 Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for Usability improvements, Bugs, and Performance Improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
 
-#### Create MRs for Usability improvements, bugs, and performance improvements
-
-CONTENT NEEDS TO BE UPDATED
+#### Create MRs for usability improvements, bugs, and performance improvements
 
 Create dedicated MRs from the sample templates for these content blocks (Usability improvements, Bugs, Performance improvements). This separation from the main Release Post MR simplifies the contribution and discussion process.
 
-_**Note:** The MRs for Usability improvements, Bugs, and Performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule._
+_**Note:** The MRs for usability improvements, Bugs, and Performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule._
 
 1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create 3 new
    branches from master: one for bugs, one for usability improvements and one for performance improvements.
@@ -341,9 +339,9 @@ The due dates for various reviews across all participants can be found on the [r
 
 Keeping an eye on the various content reviews (TW, PMM and Director) for the individual release post items (content block MRs) is the responsibility of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy edit and link check items as new items appear. It's also important to do this because this page is LIVE to users and should be error free.
 
-The content review of the Performance Improvements and Bug Fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
+The content review of the usability, performance improvements and bug fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
 
-The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
+The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, usability, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
 
 After the Review App for the release post has been generated, the Release Post Manager solicits additional feedback from the CEO and [product leaders](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) via Slack in the #release-post channel. Clearly communicate when they can expect to start their review 24 hours in advance; this is especially important when the review must happen over the weekend. A best practice for capturing feedback from Slack is to copy the feedback into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up. Refer to [this 13.0 MR comment thread](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940) for reference.
 
@@ -623,7 +621,7 @@ After the 11th of the month, your list of tasks to prepare and deliver the relea
 
 The messaging lead orders the primary features in the release post to align with the themes they've identified and incorporated into their introduction for the release post. Primary feature content blocks are sorted alphabetically by file name so the messaging lead can affect the order of these items by adding a 2-digit numerical prefix to the file name of each individual content block. For example, `01_filename.yml`, `02_another_file.yml`, etc.
 
-Secondary features, bug fixes, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. In cases where the messaging lead wants to manually affect the sort order of the secondary features, a change to the content block's `title` is required. It is recommended this be coordinated with the release post manager so the PM and the PMM of the content block are involved as needed.
+Secondary features, bug fixes, usability, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. In cases where the messaging lead wants to manually affect the sort order of the secondary features, a change to the content block's `title` is required. It is recommended this be coordinated with the release post manager so the PM and the PMM of the content block are involved as needed.
 
 #### Template for reviews
 
@@ -792,7 +790,7 @@ Bugs included in the description:
 - Whether the bug has been closed:
   - If the bug is closed, was it closed on or before the current milestone?
   - If the bug is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
-  - If the bug will not be closed by the 20th of the month, remove the entry from the Bugs MR.
+  - If the bug will not be closed by the 16th of the month, remove the entry from the Bugs MR.
 
 YAML data:
 
@@ -810,8 +808,8 @@ Performance improvements added to the description:
 - The title of the performance improvement issue, for syntax and clarity.
 - The link to the performance issue.
 - Whether the issue has been closed.
-  - If the issue is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
-  - If the issue will not be closed by the 20th of the month, remove the entry from the Bugs MR.
+  - If the issue is still open, make sure that the responsible EM, PM, or performance improvement author is aware of the situation.
+  - If the issue will not be closed by the 16th of the month, remove the entry from the Performance Improvements MR.
 
 YAML data:
 
@@ -821,7 +819,7 @@ YAML data:
 
 #### Usability improvements MR
 
-As the TW Lead, you're responsible for reviewing an MR created for [usablity improvements]( ).
+As the TW Lead, you're responsible for reviewing an MR created for [usablity improvements](#create-mrs-for-usability-improvements-bugs-and-performance-improvements).
 This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
 
 Usability improvements included in the description:
@@ -830,8 +828,8 @@ Usability improvements included in the description:
 - The link to the improvement issue/MR.
 - Whether the issue/MR has been closed:
   - If the issue/MR is closed, was it closed on or before the current milestone?
-  - If the issue/MR is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
-  - If the issue/MR will not be closed by the 16th of the month, remove the entry from the Bugs MR.
+  - If the issue/MR is still open, make sure that the responsible EM, PM, PD or  usablity author is aware of the situation.
+  - If the issue/MR will not be closed by the 16th of the month, remove the entry from the Usability MR.
 
 YAML data:
 
@@ -975,7 +973,7 @@ See also: [Google SRE Ch. 14](https://sre.google/sre-book/managing-incidents/)
   - [Secondary features (improvements)](#improvements)
   - [Illustrations](#illustrations) (screenshots, gifs, or videos)
   accompanying their respective features
-- [Usability improvements performance improvements and bug fixes](#usability-improvements-performance-improvements-and-bug-fixes)
+- [Usability improvements, performance improvements and bug fixes](#usability-improvements-performance-improvements-and-bug-fixes)
 - [Omnibus improvements](#omnibus-improvements) (added as a secondary feature)
 - [Important notes on upgrading](#important-notes-on-upgrading) (optional)
 - [Deprecations](#deprecations)
@@ -996,8 +994,7 @@ The first paragraph is the one that catches the eyes of the reader, it should be
 
 The following paragraphs should highlight the business value of top 3 features and link to the feature description (link using the feature headings' anchors). It's important to highlight the pain points solved and the value the feature provides.
 
-A final paragraph can give a shout out to additional features encouraging the reader to read the full release notes to learn about all the features have that shipped.
-It should also include the total number of new features being released, including bugs, performance improvements, and contributions from non-DevOps stages like Enablement. All of these should be listed in the release post, either as headers or bullet points.
+A final paragraph can give a shout out to additional features encouraging the reader to read the full release notes to learn about all the features have that shipped. It should include the total number of new features being released, including bugs, usablity improvements, performance improvements, and contributions from non-DevOps stages like Enablement. All of these should be listed in the release post, either as headers or bullet points.
 
 @mention the PMs whose features are included the intro and ask them to review.
 
@@ -1319,7 +1316,7 @@ to the post.
 
 ### Usability improvements performance improvements and bug fixes
 
-_To be added by Engineering Managers,  Product Managers and Product Designers._
+_To be added by Engineering Managers, Product Managers and Product Designers._
 
 The Release Post manager will [create MRs](#create-mrs-for-usability-improvements-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for usability improvements, performance improvements, and bugs. Engineering Managers can contribute to performance improvements and both Engineering Managers and Product Managers can contribute to bug fixes. Both Product Managers and Product Designers can contribute to usability improvements.
 
