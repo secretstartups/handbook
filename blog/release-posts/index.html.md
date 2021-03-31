@@ -1315,7 +1315,7 @@ Upgrade warnings should be added to the release post **only to describe importan
 If there's no relevant info to a given release, do not add this section
 to the post.
 
-### Performance improvements and bug fixes
+### Usability improvements performance improvements and bug fixes
 
 _To be added by Engineering Managers,  Product Managers and Product Designers._
 
