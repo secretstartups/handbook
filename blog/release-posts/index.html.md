@@ -817,7 +817,7 @@ YAML data:
 - `- name: "Performance improvements"`
 - `performance_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&milestone_title=XX.Y&label_name[]=performance'` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&milestone_title=13.8&label_name[]=performance` - this links to merged merge requests for the 13.8 milestone with the `~performance` label.
 
-#### Usablity MR
+#### Usability improvements MR
 
 As the TW Lead, you're responsible for reviewing an MR created for [usablity improvements]( ).
 This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
