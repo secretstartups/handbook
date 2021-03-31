@@ -122,7 +122,7 @@ the number of operations with a satisfactory apdex + the number of operations wi
 the total number of apdex measurements + the total number of operations
 ```
 
-This is converted to minutes:
+This gives us the percentage of operations that completed successfully and is converted to minutes:
 ```
 (1 - stage group availability) * (30 * 24 * 60)
 ```
