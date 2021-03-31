@@ -156,6 +156,10 @@ The GitLab Total Rewards team conducted a pay equality analysis to ensure fairne
 Q: How are the dollar ranges converted to a # of options?
 
 Based on the value of the stock options using the Stock Grant Assumption price.
+
+Q: When will the next equity refresh cycle be?
+
+Moving forward, we will align the annual equity review with our [annual compensation review](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review), which has historically occurred in Q4.  
  
 ### Promotions
  
