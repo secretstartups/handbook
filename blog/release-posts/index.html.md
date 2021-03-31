@@ -822,16 +822,14 @@ YAML data:
 As the TW Lead, you're responsible for reviewing an MR created for [usablity improvements]( ).
 This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
 
-NEEDS TO BE UPDDATE BY TW
+Usability improvements included in the description:
 
-Bugs included in the description:
-
-- The title of the bug, for syntax and clarity.
-- The link to the bug report.
-- Whether the bug has been closed:
-  - If the bug is closed, was it closed on or before the current milestone?
-  - If the bug is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
-  - If the bug will not be closed by the 20th of the month, remove the entry from the Bugs MR.
+- The title of the improvement, for syntax and clarity.
+- The link to the improvement issue/MR.
+- Whether the issue/MR has been closed:
+  - If the issue/MR is closed, was it closed on or before the current milestone?
+  - If the issue/MR is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
+  - If the issue/MR will not be closed by the 16th of the month, remove the entry from the Bugs MR.
 
 YAML data:
 
