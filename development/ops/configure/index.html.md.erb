@@ -247,14 +247,14 @@ As part of the framework we engage in the following process:
 
 ### How to contribute to Auto DevOps
 
-Read our [specific GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/howto/auto_devops.md)
-instructions
-on how to develop features for Auto DevOps.
+Read our [specific GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/tree/master/doc/howto/kubernetes)
+instructions as well as our [handbook entry](/handbook/engineering/development/ops/configure/autodevops/)
+on what existing testing does and how to develop features for Auto DevOps.
 
 ### Useful links for contributing to Auto DevOps
 
-- [Tips and Troubleshooting](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/howto/auto_devops/tips_and_troubleshooting.md)
-- [Useful Commands](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/howto/auto_devops/useful_commands.md)
-- [How to work with slow connections](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/howto/auto_devops/tips_and_troubleshooting.md#qa)
+- [Tips and Troubleshooting](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/kubernetes/tips_and_troubleshooting.md)
+- [Useful Commands](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/kubernetes/useful_commands.md)
+- [How to work with slow connections](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/kubernetes/tips_and_troubleshooting.md#qa)
 - [Enabling premium features for development purposes](https://license.gitlab.com/users/sign_in)
 - [Thanos query for complete Auto DevOps pipelines](https://thanos-query.ops.gitlab.net/graph?g0.range_input=2d&g0.max_source_resolution=0s&g0.expr=sum(increase(auto_devops_pipelines_completed_total%7Benv%3D%22gprd%22%7D%5B6h%5D))%20by%20(status)&g0.tab=0)
