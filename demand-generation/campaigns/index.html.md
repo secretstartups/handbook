@@ -182,18 +182,42 @@ Is our single source of truth (SSoT) for processes and relevant links
 {: #project-management .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+
+### Prioiritization
+{: #prioritization-boards}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+1. [Campaigns Team - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2532209?&label_name[]=mktg-demandgen)
+   - Do: at start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).
+   - Do: consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
+   - Do: only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
+   - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).*
+   - Discuss milestone with Jackie and if need help determining what to drop and how to communicate (potentially) to issue requestors.
+1. [Campaigns Team - Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started&)
+   - Do: minimize the "Low" and "Medium" columns. Your focus should first be on the "Top" and "High" priority issues.
+   - Do: prioritize completion of "Top" priority issues, then "High" priority issues.
+
 ### Labels
-{: #labels .gitlab-purple}
+{: #labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Prioritization labels
 {: #prioritization-labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- `DG-Priority::Top`: Immediate action needed, aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
-- `DG-Priority::High`: Not requiring immediate action, but aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. Timeframe: Within weeks.
-- `DG-Priority::Med`: Requests submitted that align to OKRs, GTM motions/sales plays, or segment/region plans. Process improvements to fix broken processes, or improve campaign team efficiency. Timeframe: Within months.
-- `DG-Priority::Low`: Requests submitted that would be helpful, but can be pushed for higher priority issues. Nice-to-have improvements for campaign team processes. Timeframe: No specific timeline.
+- `#FF0000`**DG-Priority::Top**: Immediate action needed, aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
+- `#821e64` **DG-Priority::High**: Not requiring immediate action, but aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. Timeframe: Within weeks.
+- `#dc2b50` **DG-Priority::Med**: Requests submitted that align to OKRs, GTM motions/sales plays, or segment/region plans. Process improvements to fix broken processes, or improve campaign team efficiency. Timeframe: Within months.
+- `#faa50a` **DG-Priority::Low**: Requests submitted that would be helpful, but can be pushed for higher priority issues. Nice-to-have improvements for campaign team processes. Timeframe: No specific timeline.
+- `#000000` **DG-Priority::ToBePrioritized**: Requests that have not yet been prioritized by Demand Gen.
+
+#### Team labels
+{: #team-labels}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+* `#5843AD` **mktg-demandgen**: DRI is in Demand Gen team
+* `#44AD8C` **dg-campaigns**: DRI is in Campaigns team
+* `#34495E` **dg-request**: Issue requesting Demand Gen support (did not originate from DRI team)
 
 #### Status labels
 {: #intake-labels}
