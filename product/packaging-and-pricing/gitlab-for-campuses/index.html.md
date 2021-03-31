@@ -80,9 +80,9 @@ The steps for building a GitLab for Campuses quote vary slightly from standard q
   - Proceed as usual. 
 
 ### GitLab for Campuses Order Form
-The GitLab for Campuses Order form must be used for all GitLab for Campuses quotes because it contains specific language regarding the size of the institution. Specifically:
+The GitLab for Campuses Order form must be used for all GitLab for Campuses quotes because it contains specific language regarding the size of the institution. 
 
-For the purposes of this Order Form only, Customer is purchasing the Subscriptions set forth herein based upon the number of enrolled students (“Institution Size”), as demonstrated and agreed to with GitLab. Such Institution Size shall reflect the applicable Institution Size Tier as located at [here](/product/packaging-and-pricing/gitlab-for-campuses/#tiers). The parties acknowledge and agree, Customer shall be obligated to purchase and/or renew the applicable Institution Size Tier commensurate with the Institution Size agreed to between the parties. 
+
 
 
 #### Definitions of Qualifying Education Institutions and Associated Entities
