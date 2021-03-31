@@ -494,9 +494,11 @@ Our GitLab Deal Registration process allows us to incentivize our partners to so
 
 1. Go to the portal at [partners.gitlab.com](https://partners.gitlab.com/) and select Register a Deal.
 2. Choose to "Add a Registration."
-3. Complete information. Ensure information is complete. GitLab will not engage based on a speculative or poorly defined opportunity, or with a reseller who is not eligible to win a sales opportunity.
-4. Submit the deal.
-5. Go through the review and approval process.
+3. Choose "GitLab" under the list of vendors.
+4. When asked to select a program, chose either "Deal Registraion" for a standard licensing sale, or "Service Attached Registration" if you're submitting services that you're providing to the customer.
+5. Complete information. Ensure information is complete. GitLab will not engage based on a speculative or poorly defined opportunity, or with a reseller who is not eligible to win a sales opportunity.
+6. Submit the deal.
+7. Go through the review and approval process.
 
 For detailed instructions and a step-by-step guide to submitting and maintaning a deal registration, [click here](https://drive.google.com/file/d/106aD_PPtLa7ivdFMCNEtx4RlR0Y5EAEv/view?usp=sharing)
 
