@@ -45,35 +45,31 @@ Customers interact with GitLab throughout the trial and purchasing journey in a 
 
 ### Trial
 
-#### UX flow documentation
-
-- [SaaS subscription purchase](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=138%3A97)
-- [Self-managed subscription purchase](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=143%3A0)
+- [SaaS subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=138%3A97)
+- [Self-managed subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=143%3A0)
+- [Trial flow, documented by EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/applications/#trial-web-direct-system-flow)
 
 
 ### New
 
-#### UX flow documentation
-
-- [SaaS subscription purchase](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=302%3A5577)
-- [Self-managed subscription purchase](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=252%3A242)
+- [SaaS subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=302%3A5577)
+- [Self-managed subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=252%3A242)
+- [New business flow, documented by EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/applications/#new-business-system-flow)
 
 
 ### Additional seat purchase
 
-#### UX flow documentation
-
-- [SaaS subscription purchase](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=626%3A134)
-- [Self-managed subscription purchase](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=626%3A222)
+- [SaaS subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=626%3A134)
+- [Self-managed subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=626%3A222)
 
 
 ### Renewal
 
-#### UX flow documentation
-
-- [SaaS subscription purchase](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=96%3A59)
-- [Self-managed subscription purchase](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=72%3A35)
-- [Emails](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=202%3A27)
+- [SaaS subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=96%3A59)
+- [Self-managed subscription purchase, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=72%3A35)
+- [Renewal Emails, documented by UX](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-gitlab-org-epics-3603?node-id=202%3A27)
+- [Renewal notifications, documented by EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/applications/#notifications)
+- [Renewal system flow, documented by EntApps team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/applications/#renewals-system-flow)
 
 
 ### Cancelation
@@ -86,5 +82,6 @@ Customers interact with GitLab throughout the trial and purchasing journey in a 
 We will be making updates to the current processes as the business needs evolve, and we learn from our customers' experiences. Here are some new projects that we are looking forward to:
 
 1. [Updates to renewal customer messaging](https://gitlab.com/gitlab-org/gitlab/-/issues/322674)
-1. 
+1. Quarterly co-terms
+1. Auto-renewals
 
