@@ -800,7 +800,7 @@ YAML data:
 
 #### Performance Improvements MR
 
-As the TW Lead, you're responsible for reviewing an MR created for [performance improvements](#create-mrs-for-bugs-and-performance-improvements).
+As the TW Lead, you're responsible for reviewing an MR created for [performance improvements](#create-mrs-for-usability-improvements-bugs-and-performance-improvements).
 This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
 
 Performance improvements added to the description:
