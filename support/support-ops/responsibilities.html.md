@@ -63,7 +63,7 @@ There are a few different options available for our customers:
 - All users can view all tickets but not add comments
 - All users can view all tickets and add comments to all tickets
 
-When a request is received from a customer, any member of the Customer Success or Support teams can create a request in the [Support Ops project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new?issuable_template=Shared%20Organization%20Request) using the `Shared Organization Request` template.  The Support Ops team will confirm with the customer and [action](/handbook/support/support-ops/wokrflows/shared_organizations.html) these requests.
+When a request is received from a customer, any member of the Customer Success or Support teams can create a request in the [Support Ops project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new?issuable_template=Shared%20Organization%20Request) using the `Shared Organization Request` template.  The Support Ops team will confirm with the customer and [action](/handbook/support/support-ops/workflows/shared_organizations.html) these requests.
 
 
 ## Salesforce - Zendesk sync
