@@ -217,9 +217,11 @@ Create a merge request with the introductory changes _after the previous post ha
 
 Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for Bug and for Performance Improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
 
-#### Create MRs for Bugs and Performance Improvements
+#### Create MRs for Usablity improvements, bugs and performance improvements
 
-Create two merge requests that simply contain the sample templates for these content blocks. Having separate MRs (from the main Release Post MR) allows discussions to be easier to follow and the contribution process to be simpler.
+CONTENT NEEDS TO BE UPDATED
+
+Create 3 merge requests that simply contain the sample templates for these content blocks. Having separate MRs (from the main Release Post MR) allows discussions to be easier to follow and the contribution process to be simpler.
 
 _**Note:** The MRs for Bug and for Performance Improvements provide a place for others to add their content, and while the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MR on schedule._
 
@@ -686,6 +688,7 @@ The TW Lead is responsible for a final review of:
 - [Frontmatter check](#frontmatter)
 - [Bugs](#bugs-mr)
 - [Performance improvements](#performance-improvements-mr)
+- [Usablity improvements](  )
 - [MVP check](#mvp-entry)
 - [Versioned documentation release](#versioned-documentation-release)
 
@@ -813,6 +816,28 @@ YAML data:
 - Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
 - `- name: "Performance improvements"`
 - `performance_improvements_url: 'https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&milestone_title=XX.Y&label_name[]=performance'` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&milestone_title=13.8&label_name[]=performance` - this links to merged merge requests for the 13.8 milestone with the `~performance` label.
+
+#### Usablity MR
+
+As the TW Lead, you're responsible for reviewing an MR created for [usablity improvements]( ).
+This MR has **not** been reviewed by any other TW. For this MR, ensure to check the metadata and the description, as follows:
+
+NEEDS TO BE UPDDATE BY TW
+
+Bugs included in the description:
+
+- The title of the bug, for syntax and clarity.
+- The link to the bug report.
+- Whether the bug has been closed:
+  - If the bug is closed, was it closed on or before the current milestone?
+  - If the bug is still open, make sure that the responsible EM, PM, or bug author is aware of the situation.
+  - If the bug will not be closed by the 20th of the month, remove the entry from the Bugs MR.
+
+YAML data:
+
+- Syntax: `[]()` for links, URLs wrapped in single quotes, text wrapped in double quotes, code wrapped in code blocks or inline code blocks.
+- `- name: "Bug fixes"`
+- `bug_fixes_url: 'https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=XX.Y&label_name[]=bug` - replace XX.Y with the current milestone. For example, for GitLab 13.8, the correct link is `https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=closed&milestone_title=13.8&label_name[]=bug'` - this links to closed issues for the 13.8 milestone with the `~bug` label.
 
 #### MVP entry
 
@@ -951,6 +976,7 @@ See also: [Google SRE Ch. 14](https://sre.google/sre-book/managing-incidents/)
   - [Illustrations](#illustrations) (screenshots, gifs, or videos)
   accompanying their respective features
 - [Performance improvements and bug fixes](#performance-improvements-and-bug-fixes)
+- [Usablity improvements]( )
 - [Omnibus improvements](#omnibus-improvements) (added as a secondary feature)
 - [Important notes on upgrading](#important-notes-on-upgrading) (optional)
 - [Deprecations](#deprecations)
@@ -1295,6 +1321,14 @@ to the post.
 ### Performance improvements and bug fixes
 
 _To be added by Engineering Managers and Product Managers._
+
+The Release Post manager will [create MRs](#create-mrs-for-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for performance improvements and bugs. Engineering Managers will contribute to performance improvements and both Engineering Managers and Product Managers will contribute to bug fixes.
+
+### Usablity improvements
+
+CONTENT NEEDS TO BE UPDATED
+
+_To be added by Producut Managers and Product Designers._
 
 The Release Post manager will [create MRs](#create-mrs-for-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for performance improvements and bugs. Engineering Managers will contribute to performance improvements and both Engineering Managers and Product Managers will contribute to bug fixes.
 
