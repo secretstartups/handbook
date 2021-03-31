@@ -14,14 +14,14 @@ Employment law refers to the law that governs the relationship between employer 
 
 
 - It means we work closely with the Tax and People Operations team to determine scalable employment solutions for the Company as it hires across the globe.
-- It means we support the recruiting department in meeting its goals and ensuring compliance with all local laws and regulations as they source, recruit, and hire new team members.
+- It means we support the talent acquisition department in meeting its goals and ensuring compliance with all local laws and regulations as they source, recruit, and hire new team members.
 - It means we help the People Operations team onboard new team members and get them the information they need that applies both to their location and to their job responsibilities.
 - It means we support the Total Rewards group in developing policies that meet GitLab’s needs, our team members’ needs, and local requirements.
 - It means we support our People Business Partners and Total Rewards as they manage team member relations, performance, requests for accommodation or adjustments, promotions, transfers, and any other types of issues that pop up during the course of the relationship.
 - It means we support our Diversity, Inclusion, and Belonging team in ensuring that decisions across the entire arc of the relationship match our mission statement.
 - And it means we provide support when it comes to end of employment decisions,  offboarding, and any follow-up matters that can occur.
 
-GitLab’s employment attorney provides information regarding legal risk and compliance requirements based on particular jurisdictions and particular job types. Often, it is up to the others within the organization whether or not to continue down a certain path once the risks and requirements are known.  
+GitLab’s employment attorney provides information regarding legal risk and compliance requirements based on particular jurisdictions and particular job types. Often, it is up to the others within the organization whether or not to continue down a certain path once the risks and requirements are known.
 
 ## Working with Legal on Employment Issues
 When individual team members have questions about their employment, they should interact with the People Group rather than reaching out directly to the Legal team. Visit the People Group Handbook to determine who to work with for your particular needs.
@@ -33,12 +33,12 @@ Below are some common employment topics where Legal is asked to provide input. T
 **Note: GitLab team members should *always* obtain approval from the Director of Legal, Employment prior to speaking with outside counsel regarding employment-related matters.**
 
 ### Before Hire:
-**Recruiting.** Legal reviews sourcing and recruiting strategy for compliance and advises about requirements for applicant tracking in the various countries in which we hire.
+**Talent Acquisition.** Legal reviews sourcing and talent acquisition strategy for compliance and advises about requirements for applicant tracking in the various countries in which we hire.
 
 **Background Check.** Legal reviews overall background check policy and procedure in place, helps develop background check adjudication process, and serves as escalation point when PBP responsible for reviewing background check has questions or concerns about specific results.
 
 ### During Hire
-**Contract review.** Legal should be asked to review negotiated contracts that seek to change standard terms. 
+**Contract review.** Legal should be asked to review negotiated contracts that seek to change standard terms.
 
 **Conversions.** As GitLab expands our international presence through new entities, some current contractors may become GitLab employees. Legal assists with this process.
 
@@ -56,4 +56,4 @@ Below are some common employment topics where Legal is asked to provide input. T
 
 **Policy development.** Legal should be asked to perform a final review when policies are updated or created.
 
-**Contract negotiations.** In the event that a customer or vendor has questions regarding terms that affect our team members (such as drug tests or more intensive background checks), the Contract team will reach out to the Employment team.  
+**Contract negotiations.** In the event that a customer or vendor has questions regarding terms that affect our team members (such as drug tests or more intensive background checks), the Contract team will reach out to the Employment team.
