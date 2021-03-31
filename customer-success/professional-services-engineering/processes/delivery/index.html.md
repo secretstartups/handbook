@@ -14,7 +14,7 @@ description: "Describes the workflow governing delivery of GitLab professional s
 
 The purpose of this page is to describe the workflow governing delivery of professional service projects. We will start by outlining the general workflow that is common across all service delivery categories. Then we will describe the differences for engagements that do not fit the general workflow shown below.
 
-![ps-delivery-workflow](../PS-delivery-workflow.png)
+![ps-delivery-workflow](PS-delivery-workflow.png)
 
 [Source](https://docs.google.com/presentation/d/1TOI2aoseBoyWYQC6-xpJVMknEncCNreSFfMvOHO7EBA/edit?usp=sharing),  internal only
 
