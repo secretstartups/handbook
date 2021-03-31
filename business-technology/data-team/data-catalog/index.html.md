@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Catalog"
-description: "This page is the list of GitLab Self-Service Analytics Workflows and Data Definitions, collectively known as The Data Catalog."
+description: "This page lists GitLab's Self-Service Analytics Workflow and Data Definitions."
 ---
 {::options parse_block_html="true" /}
 
@@ -15,7 +15,7 @@ description: "This page is the list of GitLab Self-Service Analytics Workflows a
 
 ## Introduction
 
-This page is the list of GitLab Self-Service [Analytics Workflows](/handbook/business-technology/data-team/data-catalog/#analytics-workflow) and [Data Definitions](/handbook/business-technology/data-team/data-catalog/#data-definition), collectively known as **The Data Catalog**. To maintain a Single Source of Truth for Trusted [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/), content is organized by function and maintained within the Data Team handbook. In cases where a Data Subject (such as Product SKU) crosses function boundaries, content will reside alongside the function that owns the source system of record (e.g. Product SKU will reside in Finance because Zuora is the SSOT for SKUs).
+This page lists GitLab self-service [analytics Workflows](/handbook/business-technology/data-team/data-catalog/#analytics-workflow) and [data definitions](/handbook/business-technology/data-team/data-catalog/#data-definition), collectively known as **The Data Catalog**. This single source of truth for trusted [self-service data](/handbook/business-technology/data-team/direction/self-service/) is organized by function and maintained within the Data Team handbook. In cases where a subject crosses functional boundaries, content will reside alongside the function that owns the source system of record. For example, consider Product SKUs, although many groups may use this data to make decisions, the documentation will live in Finance because Zuora is the SSOT for SKUs.
 
 ### Analytics Workflow
 
@@ -49,8 +49,6 @@ The Data Definition is a standard definition and set of use cases used as part o
 1. Data Definition is considered complete once all key parts are defined and the entry on this page is tagged with the appropriate [operational status](/handbook/business-technology/data-team/data-catalog/#legend).
 
 ### Data Catalog
-
-
 
 <style> #headerformat {
 background-color: #554488; color: white; padding: 5px; text-align: center;}
