@@ -890,9 +890,9 @@ Customer subscriptions will be moved to cancelled no more than 30 days after the
             | --- | --- | --- | --- | --- | 
             | New Business 2020| Closed Won | 100 | 0 | 100 |
             | Renewal 2021| Closed Won | 0 | 100 | 100 |
-            | Renewal 2022 | Closed Lost | 0 | 100 | 100 |
+            | Renewal 2022 | Closed Lost | -100 | 100 | 100 |
             | Renewal 2022 | Closed Won | 0 | 100 | 100 |
-            | Renewal 2022 | Closed Lost (Debook) | 0 | -100 | -100 |
+            | Renewal 2022 | Closed Lost (Debook) | 100 | -100 | -100 |
 
 - **Customers Returning More Than 180 Days After Subscription Term End Date**:
     - If a customer returns to purchase another GitLab subscription **more than 180 days** after the previous subscription term end date, the transaction must be booked under a **New Business Opportunity**.
