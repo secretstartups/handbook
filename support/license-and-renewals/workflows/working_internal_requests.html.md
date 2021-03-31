@@ -29,12 +29,14 @@ the following labels receive the appropriate attention from Support:
 * `Trial Extension License issue` - [Workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials.html#extending-trials)
 
 When on this role, prioritize working on internal request issues over Zendesk tickets.
-The general workflow guide is:
+The general workflow guide and best practices are:
 
 1. Review the list of [unassigned issues](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR).
-1. Pick an issue to work on/response to and assign this to yourself.
-1. Repeat step 1 and 2 until there are no longer any unassigned issues.
-1. Check if there are any [assigned issues where responses have stalled](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR&assignee_id=Any) and check with the assignee if follow up action needs to be taken.
+1. Pick an issue to work on/respond to and assign this to yourself.
+1. If you have resolved the problem or attended to the request, close the issue and let the requestor know to re-open the issue if further assistance is required.
+1. If you are awaiting manager approval or a reply from the requestor before moving the issue forward, add the appropriate labels (for example `Manager Approval::Awaiting` or `Status::Awaiting Confirmation`).
+1. Repeat steps above until there are no longer any unassigned issues.
+1. Check if there are any [assigned issues where responses have stalled](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR&assignee_id=Any) and check with the assignee and requestor if follow up action needs to be taken.
 
 You will continue to be responsible for any issues assigned to yourself even
 after you're off the role, so be mindful about working sustainably. If you need
