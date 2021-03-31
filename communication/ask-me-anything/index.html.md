@@ -33,6 +33,12 @@ They can be hosted by anyone who wants to host an AMA, but typically are hosted 
 
 Occasionally an AMA might be held for a smaller audience. It is encouraged for all AMAs to be open to the full company whenever possible. Occasionally an AMA may not make sense to be sent to the whole company. In those instances, it is still encouraged to add the calendar invitation to the GitLab Team Meetings Calendar as sometimes team members may want to join a call that may not be directly directly applicable to them. Whenever creating an AMA for a smaller group, be sure to invite the team directly in the calendar invite.
 
+### Process for initiating a Reverse AMA 
+
+#### E-Group Initiated
+
+#### Team Member Initiated
+
 #### Scheduling an AMA
 
 AMAs are generally coordinated, scheduled, and planned by the [Executive Business Administrator](https://about.gitlab.com/handbook/eba/) team when an E-Group member is the host. Anytime that an AMA is to be hosted by an executive, VP, or Director at GitLab, it should be arranged and scheduled by that functions EBA. AMAs of Board Members are scheduled by the Staff EBA to the CEO.
@@ -74,5 +80,9 @@ The Reverse AMA format was launched in Sales with our [Black](https://about.gitl
 
 **Schedule**
 * Quarterly
+
+## Actions and follow ups 
+
+All actions and follow up items should live in the Reverse AMA EPIC under the child EPIC for the Reverse AMA (To be Confirmed)
 
 
