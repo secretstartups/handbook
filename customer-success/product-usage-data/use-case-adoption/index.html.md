@@ -1,15 +1,16 @@
 ---
 layout: handbook-page-toc
-title: "Customer Product Use Case Adoption"
+title: "Customer Use Case Adoption"
 description: "How we measure a customer's adoption for general GitLab and different use cases"
 ---
 
-To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Product Usage Data handbook page](/product-usage-data/using-product-usage-data-in-gainsight/).
+To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations/).
 
 
 ## User Engagement
 
-In addition to license utilization, we need to measure the depth of user engagement and adoption at a high level. For customers after their initial 6 month purchase:
+In addition to license utilization, we need to measure the depth of user engagement and adoption.
+Adoption timeline: 6 months after license purchase
 
 |                             | **Red** | **Yellow** | **Green** |
 | --------------------------- | ------- | ---------- | --------  |
@@ -21,7 +22,8 @@ In addition to license utilization, we need to measure the depth of user engagem
 
 ## Source Code Management (SCM)
 
-SCM is considered one of the initial land use cases. To that end, we want to ensure the customer is using it appropriately. For customers after their initial 1 month purchase:
+SCM is considered one of the initial land use cases. To that end, we want to ensure the customer is using it appropriately.
+Adoption timeline: 1 months after license purchase
 
 |                       | **Red** | **Yellow** | **Green** |
 | --------------------- | ------- | ---------- | --------  |
@@ -33,7 +35,8 @@ SCM is considered one of the initial land use cases. To that end, we want to ens
 
 ## Continuous Integration (CI)
 
-CI is considered both an initial purchase reason or, in the case of SCM, an expansionary use case (one after the initial purchase intent has been solved). For customers after their initial 1 month purchase:
+CI is considered both an initial purchase reason or, in the case of SCM, an expansionary use case (one after the initial purchase intent has been solved). 
+Adoption timeline: 1 months after license purchase
 
 |                    | **Red** | **Yellow** | **Green** |
 | ------------------ | ------- | ---------- | --------  |
@@ -42,13 +45,14 @@ CI is considered both an initial purchase reason or, in the case of SCM, an expa
 
 ## DevSecOps
 
-For customers on Ultimate, we want to measure their effectiveness and usage with Ultimate-level functionality. For customers after their initial 1 month purchase:
+For customers on Ultimate, we want to measure their effectiveness and usage with Ultimate-level functionality. 
+Adoption timeline: 1 months after license purchase
 
-|                             |                         | **Red** | **Yellow** | **Green** |
-| --------------------------- | ----------------------- | ------- | ---------- | --------  |
-| SMAU Secure / UMAU          | Ultimate (product tier) | <10%    |      |      |
-| SMAU Protect / UMAU           | Ultimate (product tier) | <2%     |        |      |
-| SMAU Secure / UMAU <BR> SMAU Protect/UMAU           | Ultimate (product tier) |     | >=10% AND <BR> <6%        |       |
-| SMAU Secure / UMAU <BR> SMAU Protect/UMAU           | Ultimate (product tier) |     | <40% AND <BR> >2%        | \>=40% AND <BR> \>=7%      |
+|                             | **Product Tier**   | **Red**  | **Yellow** | **Green** |
+| --------------------------- | ------------------ | -------- | ---------- | --------  |
+| SMAU Secure / UMAU          | Ultimate           | <10%     |           |      |
+| SMAU Protect                | Ultimate           | 0        |           |      |
+| SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | >=10% AND <BR> 1       |       |
+| SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | <40% AND <BR> 1        | \>=40% AND <BR> >=2      |
 
-
+Note: for `SMAU Protect` this is the total number of users, not a percentage like other measures.
