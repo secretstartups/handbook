@@ -236,6 +236,10 @@ Once agreed, the blog team will assign and communicate the expected publish date
 
 ## Writing blog posts – best practices
 
+We have recently implemented Netlify CMS for drafting and publishing blog posts. This is fairly new, and there are several videos to help you learn how to use this tool.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A5_RIEYyIjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We review traffic to blog posts on a quarterly basis. You can view past analyses and takeaways in the [Editorial team handbook](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-traffic-analyses), but below are the key points for all team members to keep in mind.
 
 It's clear that technical/actionable/how-to content attracts the most blog readers and thus should be the focus of the majority of the content we create for the blog.
