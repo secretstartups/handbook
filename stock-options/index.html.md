@@ -442,6 +442,7 @@ Each quarter before the board meeting, the Total Rewards Analyst will run a repo
 1. Paste the BambooHR Report into a new tab in the sheet for historical reference.
 1. Add new tabs for options that have already been approved (they will be denoted by Yes, No, or N/A).
 1. Any blank "Approved by the Board" options should be added to a new sheet.
+    * Audit options that have been approved by the board, but fall into the current board approval date range. For example, if the cut off for the last board meeting was November 20 and this board meeting is March 5, any grants that indicate approved with an effective date during this time span should be reviewed to ensure they were on a previous approval.
 1. Use the pending options to population the "Option Grant" google doc by creating a new tab with the date of the board meeting.
 1. Update the Fully Diluted Shares as shown in Carta and ensure all formulas are functioning properly.
 1. Copy and paste the information from the pending approval tab to the proper column.
@@ -453,6 +454,19 @@ Each quarter before the board meeting, the Total Rewards Analyst will run a repo
 1. Ping the CFO that the report is ready for review.
 1. Verify all options were approved (or not) with the CFO after the board meeting and change the approval in BambooHR to avoid duplications on the next report.
  
+### Audits
+
+**Job Grade (Promotion) Audit**
+1. Pull a historical report of job grades in BambooHR.
+1. Identify any changes in job grade between the last board meeting cut off date and the current cut off date.
+1. Reconcile that each team member who had an increase in grade during this time period has been granted stock options and included on the board meeting report.
+    * If anyone who received an increase in grade, but isn't in the board meeting report: review the original promotion request in BambooHR or Greenhouse for a grant. If not in either of these systems, check whether the grant was missed in the promotion process. If here, process in BambooHR and the report accordingly.
+
+**Previous Board Meeting Audit**
+1. Pull a list of all grants in BambooHR with effective dates within the cutoff dates of the last board meeting. 
+1. Compare against the previous board meeting's list of grants that were reviewed and approved. 
+1. Ensure all grants that were not included/approved in the previous board meeting have not been marked approved by the board in BambooHR and are included in the current summary for review and approval. 
+
 ## Procedures for Issuing Options to Team Members
  
 1. In Carta Download the Bulk Import Sheet.
