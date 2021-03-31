@@ -221,7 +221,7 @@ Now that you have created the release post MR, refer to the checklist in the MR 
 
 CONTENT NEEDS TO BE UPDATED
 
-Create 3 merge requests that simply contain the sample templates for these content blocks. Having separate MRs (from the main Release Post MR) allows discussions to be easier to follow and the contribution process to be simpler.
+Create dedicated MRs from the sample templates for these content blocks (Usability improvements, Bugs, Performance improvements). This separation from the main Release Post MR simplifies the contribution and discussion process.
 
 _**Note:** The MRs for Bug and for Performance Improvements provide a place for others to add their content, and while the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MR on schedule._
 
