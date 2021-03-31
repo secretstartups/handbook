@@ -106,7 +106,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **Solutions Architects (Material - Handbook - 15 minutes)**
    - GitLab's Solutions Architects (SAs) are trusted advisors to GitLab prospects and customers during the presales motion, demonstrating how the GitLab application and GitLab Professional Services address common and unique business requirements.
    - Read the [Solutions Architect Role Description](https://about.gitlab.com/job-families/sales/solutions-architect/)
-   - Read about the [Proof of Value Deliverable](/handbook/sales/POV/)
+   - Read about the [Proof of Value Deliverable](/handbook/customer-success/solutions-architects/tools-and-resources/pov)
 *  **Technical Account Managers (Material, - Handbook - 15 minutes)**
    - GitLab's Technical Account Managers serve as trusted advisors to GitLab's customers. This section outlines to TAM role and their key deliverables: Health Checks, Sucess Plans, and Executive Business Reviews.
    - Read the [TAM Handbook](/handbook/customer-success/tam/#what-is-a-technical-account-manager-tam)
