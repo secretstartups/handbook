@@ -45,28 +45,43 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 
 | Title | Live in GS? | Automated? | Gainsight Location | Type | Internal Reference Link |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Stage Adoption: Manage    | - | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Plan      | - | Manual | Success Plan | Stage Adoption | |
+| Stage Adoption: Manage    | **Yes** | Manual | Success Plan | Stage Adoption | |
+| Stage Adoption: Plan      | **Yes** | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Create    | **Yes** | Manual | Success Plan | Stage Adoption | [Source Code Management (SCM) / Create Stage](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/) |
-| Stage Adoption: Verify    | - | Manual | Success Plan | Stage Adoption | [Continuous Integration / Verify](/handbook/marketing/strategic-marketing/usecase-gtm/ci/) and [TAM CI Workshop](/handbook/customer-success/playbooks/ci-verify.html)|
-| Stage Adoption: Package   | - | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Secure    | - | Manual | Success Plan | Stage Adoption | [DevSecOps / Security / Secure](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/) |
-| Stage Adoption: Release   | - | Manual | Success Plan | Stage Adoption | [Continuous Delivery / Release](/handbook/customer-success/playbooks/cd-release.html) |
-| Stage Adoption: Configure | - | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Monitor   | - | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Protect    | - | Manual | Success Plan | Stage Adoption | |
+| Stage Adoption: Verify    | **Yes** | Manual | Success Plan | Stage Adoption | [Continuous Integration / Verify](/handbook/marketing/strategic-marketing/usecase-gtm/ci/) and [TAM CI Workshop](/handbook/customer-success/playbooks/ci-verify.html)|
+| Stage Adoption: Package   | **Yes** | Manual | Success Plan | Stage Adoption | |
+| Stage Adoption: Secure    | **Yes** | Manual | Success Plan | Stage Adoption | [DevSecOps / Security / Secure](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/) |
+| Stage Adoption: Release   | **Yes** | Manual | Success Plan | Stage Adoption | [Continuous Delivery / Release](/handbook/customer-success/playbooks/cd-release.html) |
+| Stage Adoption: Configure | **Yes** | Manual | Success Plan | Stage Adoption | |
+| Stage Adoption: Monitor   | **Yes** | Manual | Success Plan | Stage Adoption | |
+| Stage Adoption: Protect    | **Yes** | Manual | Success Plan | Stage Adoption | |
+| Server Migration - On-Prem to On-Prem    |**Yes** | Manual | Success Plan | Stage Adoption | |
+| Server Migration - On-Prem to Self-Managed Cloud    |**Yes** | Manual | Success Plan | Stage Adoption | |
+| Server Migration - On-Prem/Cloud to K8S    |**Yes** | Manual | Success Plan | Stage Adoption | |
+| Server Migration - Self-Managed to GitLab SaaS    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Account Triage | **Yes** | Automated | CTA | Risk |      |
-| Low License Utilization | **Yes** | Manual | CTA | Risk |      |
+| Low License Utilization | **Yes** | Automated | CTA | Risk |      |
 | Product Risk | **Yes** | Manual | CTA | Risk |      |
+| Non-Engaged Customer | **Yes** | Manual | CTA | Risk |      |
 | Create Success Plan | **Yes** | Automated | CTA | Lifecycle |      |
+| Customer Offboarding | **Yes** | Automated | CTA | Lifecycle |      |
 | Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)     |
 | New Customer Onboarding | **Yes** | Automated | CTA | Lifecycle |      |
+| High License Utilization: Growth Opportunity | **Yes** | Automated | CTA | Lifecycle |      |
 | Usage Ping Enablement | **Yes** | Manual | CTA | Lifecycle | [Usage Ping FAQ](/handbook/customer-success/tam/usage-ping-faq/) |
-| Upcoming Renewal | **Yes** | Automated | CTA | Renewal |      |
-| Prometheus & Grafana | Coming Soon | Manual | Not Available | Not Available |  [Internal link - existing Playbook](https://drive.google.com/open?id=1pEu4FxYE8gPAMKGaTDOtdMMfoEKjsfBQ)    |
-| GitLab Days | Coming Soon | Manual | Not Available | Not Available | [Internal link - existing Playbook](https://drive.google.com/open?id=1LrAW0HI-8SiPzgqCfMCy2mf9XYvkWOKG)     |
+| Onboarding Pilot | **Yes** | Automated | CTA | Lifecycle |      | 
+Upcoming Renewal | **Yes** | Automated | CTA | Renewal |      |
+| Prometheus & Grafana | **Yes** | Manual | Not Available | Not Available |  [Internal link - existing Playbook](https://drive.google.com/open?id=1pEu4FxYE8gPAMKGaTDOtdMMfoEKjsfBQ)    |
+| GitLab Days | **Yes** | Manual | Not Available | Not Available | [Internal link - existing Playbook](https://drive.google.com/open?id=1LrAW0HI-8SiPzgqCfMCy2mf9XYvkWOKG)     |
 | Account Handoff | **Yes** | Manual | CTA | Activity |      |
+| Update Stale TAM Sentiment | **Yes** | Manual | CTA | Activity |      |
 | New TAM Account Assignment | **Yes** | Automated | CTA | N/A |  |
-| [GitLab Server Migrations](/handbook/customer-success/playbooks/server-migrations.html) | Coming Soon | Manual | Not Available | Not Available | [Internal link - existing Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0)  |
+| [GitLab Server Migrations](/handbook/customer-success/playbooks/server-migrations.html) | **Yes** | Manual | CTA | Not Available | [Internal link - existing Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0)  |
+| Digital Onboarding - Welcome Email | **Yes** | Manual | CTA | Digital Journey |      | 
+| Digital Onboarding - Self-Managed Alternative Backup Strategies | **Yes** | Manual | CTA | Digital Journey |      | 
+| New Customer Digital Onboarding - SaaS Email Series | **Yes** | Manual | CTA | Digital Journey |  [Internal link - existing Playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)     |
+| New Customer Digital Onboarding - Self-Managed Email Series | **Yes** | Manual | CTA | Digital Journey |  [Internal link - existing Playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)     |
+| Digital Onboarding - CI Enablment (Verify) | **Yes** | Manual | CTA | Digital Journey | [Internal link - existing Playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)     | 
+
 
 TAMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/tam/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.
