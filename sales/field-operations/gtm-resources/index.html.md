@@ -292,6 +292,18 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
     - For accounts without known attributes (employees and location not identified), the account and corresponding opportunity are manually reviewed by Sales Operations twice weekly and assigned to the correct owners. 
         - If Sales Operations is unable to identify enough attributes to correctly assign the account or opportunity, they will remain in Sales Admin owned and allocated to SMB for crediting.
 
+### Opportunity Order Type Rules of Engagement 
+**Understanding Order Type Assignment, Rules and Definitions**
+
+**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](/sales/sales-term-glossary/#customer-definitions-for-external-reporting) section of the handbook.   
+
+**Common Manual Override Scenarios:** Although Order Type is generated automatically on an opportunity, there are common scenarios in which it could require updating via a manual override:
+- [Customers Returning More Than 180 Days After Subscription Term End Date](/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+- Refunds
+- Incorrect Parenting/Hierarchies
+
+**Process to Request Order Type Changes:**  In the event that Order Type needs to be changed, please chatter @sales-support on the opportunity with details as to why the change is being requested.  This will trigger a case, which will be reviewed by the Sales Operations and Deal Desk teams. 
+
 <details>
 <summary markdown='span'>
   Sales Ops Operators Guide for Account and Opportunity Review and Moves
@@ -322,6 +334,14 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 
 **Annual Review Process** 
 1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilize the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
+
+**Order Type Review** 
+- Validate that the requestor has provided adequate details to justify the change request.
+- Follow the below steps for each Common Manual Override Scenarios:
+    1. Customers Returning More than 180  Days After Subscription Term End Date: Review the subscription term end date from the existing subscription.  If it is > 180 days, the opportunity Order Type should be manually updated to  First Order or New Connected.
+    1. Refunds: Confirm with deal desk that the opportunity is, in fact, a refund.  If yes, the opportunity Order Type should be manually updated to  First Order or New Connected.
+    1. Incorrect Parenting/Hierarchy: Validate that the parenting is, in fact, incorrect.  If so, unparent the account(s) and manually update the opportunity Order Type to First Order or New Connected
+
 
 **Sales Admin Owned Review and Owner Change Process**
 
@@ -859,23 +879,24 @@ Customer subscriptions will be moved to cancelled no more than 30 days after the
 
 ##### Opportunity Requirements for Return Customers
 
-- **Customers Returning within 180 Days of Renewal Date**:
+- **Customers Returning within 180 Days of Subscription Term End Date**:
     - If a customer returns to purchase another GitLab subscription **within 180 days** of the previous subscription term end date, the transaction must be booked under a **Renewal Opportunity**, using a new subscription quote. In this scenario, the following actions should be taken:
-        - A new renewal opportunity should be created, and Closed Won with the correct booking values.
-        - A second new renewal opportunity should be created, and Closed Lost, where Amount, ACV, Renewal Amount, and Renewal ACV represent the inverse of the same values on the original Closed Lost opportunity.
+        - **Sales**: A new renewal opportunity should be created, and Closed Won with the correct booking values.
+        - **Deal Desk**: A second new renewal opportunity should be created, and Closed Lost, where Amount, Net ARR and ARR Basis represent the inverse of the same values on the original Closed Lost opportunity.
+        - In this scenario, the Order Type 2.0 will be [3. Growth](/sales/sales-term-glossary/#growth-customers)
         - Example:
            
-            | **Opportunity** | **Stage** | **iACV** | **Renewal ACV** | **ACV** | **Net iACV (not on opp)** |
+            | **Opportunity** | **Stage** | **Net ARR** | **ARR Basis** | **ACV** |
             | --- | --- | --- | --- | --- | --- |
-            | New Business 2020| Closed Won | 100 | 0 | 100 | 100 |
-            | Renewal 2021| Closed Won | 0 | 100 | 100 | 0 |
-            | Renewal 2022 | Closed Lost | 0 | 100 | 100 | -100 |
-            | Renewal 2022 | Closed Won | 0 | 100 | 100 | 0 |
-            | Renewal 2022 | Closed Lost (Debook) | 0 | -100 | -100 | 100 |
+            | New Business 2020| Closed Won | 100 | 0 | 100 |
+            | Renewal 2021| Closed Won | 0 | 100 | 100 |
+            | Renewal 2022 | Closed Lost | 0 | 100 | 100 |
+            | Renewal 2022 | Closed Won | 0 | 100 | 100 |
+            | Renewal 2022 | Closed Lost (Debook) | 0 | -100 | -100 |
 
-- **Customers Returning More Than 180 Days After Renewal Date**:
+- **Customers Returning More Than 180 Days After Subscription Term End Date**:
     - If a customer returns to purchase another GitLab subscription **more than 180 days** after the previous subscription term end date, the transaction must be booked under a **New Business Opportunity**.
-        - In this scenario, the original Closed Lost opportunity will not be reversed.
+        - In this scenario, the original Closed Lost opportunity will not be reversed and the Order Type will be [1. New - First Order](/sales/sales-term-glossary/#first-order-customers) or [2. New - Connected](/sales/sales-term-glossary/#connected-new-customers) based on the Account Family. 
 
 
 ## Opportunity Types
