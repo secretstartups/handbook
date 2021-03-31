@@ -114,7 +114,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
   <div class="item-auth-matrix"></div>  <!-- Exec Team -->
-  <div class="item-auth-matrix">Approves</div>  <!-- CEO -->
+  <div class="item-auth-matrix">Approves<sup>(6)</sup></div>  <!-- CEO -->
   <div class="item-auth-matrix">Approves<sup>(2)</sup></div> <!-- Board -->
   <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix">Signs</div> <!-- CFO -->
@@ -449,6 +449,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
 - (3) Approved by Compensation Committee.
 - (4) Approval from [function](/company/team/structure/#table) responsible for supporting associated objectives and goals.
 - (5) Only applies to approvals outside of the discount authorization matrix.
+- (6) For cloud hosting provider committed usage discounts (CUD) - approvals are delegated to VP Infrastructure and VP Finance
 
 ## Banking Controls
 
