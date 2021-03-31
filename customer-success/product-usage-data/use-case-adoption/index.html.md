@@ -48,11 +48,11 @@ Adoption timeline: 1 months after license purchase
 For customers on Ultimate, we want to measure their effectiveness and usage with Ultimate-level functionality. 
 Adoption timeline: 1 months after license purchase
 
-|                             | **Product Tier**        | **Red** | **Yellow** | **Green** |
-| --------------------------- | ----------------------- | ------- | ---------- | --------  |
-| SMAU Secure / UMAU          | Ultimate | <10%    |      |      |
-| SMAU Protect / UMAU           | Ultimate | <2%     |        |      |
-| SMAU Secure / UMAU <BR> SMAU Protect/UMAU           | Ultimate |     | >=10% AND <BR> <6%        |       |
-| SMAU Secure / UMAU <BR> SMAU Protect/UMAU           | Ultimate  |     | <40% AND <BR> >2%        | \>=40% AND <BR> \>=7%      |
+|                             | **Product Tier**   | **Red**  | **Yellow** | **Green** |
+| --------------------------- | ------------------ | -------- | ---------- | --------  |
+| SMAU Secure / UMAU          | Ultimate           | <10%     |           |      |
+| SMAU Protect                | Ultimate           | 0        |           |      |
+| SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | >=10% AND <BR> 1       |       |
+| SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | <40% AND <BR> 1        | \>=40% AND <BR> >=2      |
 
-
+Note: for `SMAU Protect` this is the total number of users, not a percentage like other measures.
