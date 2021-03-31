@@ -74,18 +74,18 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 - [**Technical advisors**](#technical-advisors)
 - [**Engineering Managers**](#engineering-managers)
 
-### Volunteering for the Release post  
+### Volunteering for the Release post
 
 Each month a Product Manager, Product Marketing Manager, Technical Writer, and an Engineering Department Technical Advisor volunteer to manage the release post, as listed in the [Release Post Scheduling page](managers/). The Product Manager volunteer will lead the release post as the Release Post Manager and is listed as the Author of the release post when the post is published. To update the [release post scheduling list](managers/), all volunteers need to edit the data file below:
 
 - **[Data YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/release_post_managers.yml)**: gathers the release post managers for every release (9.0 onwards). Be sure to update the "Managers" section below the "Versions" if this is your first release.
 - **[Layout Haml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/handbook/marketing/blog/release-posts/managers/index.html.haml)**: simple handbook layout that pulls the data from the YAML file above.
 
-It is highly recommended that all volunteers shadlow the release post prior to the one they run. Volunteers can update the data YAML file noted above to indicate when they shadow as well as when the help run the release post. 
+It's highly recommended that all volunteers shadow the release post prior to the one they run. Volunteers can update the previously mentioned data YAML file to indicate both when they shadow and when they help run the release post.
 
 #### Release Post Manager
 
-Product Managers of any level (IC or managers) can volunteer for any release that doesn't have someone assigned yet. While we encourage IC product managers to take advantage of the this opportunity to demonstrate their leadership skills, we also value that managers will bring their experience to the role.  
+Product Managers of any level (IC or managers) can volunteer for any release that doesn't have someone assigned yet. While we encourage IC product managers to take advantage of this opportunity to demonstrate their leadership skills, we also value that managers will bring their experience to the role.
 
 To assign yourself as release post manager or release post manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle:
 
@@ -136,7 +136,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Creating MRs to collect [performance improvements and bug fixes](#create-mrs-for-bugs-and-performance-improvements)
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
-- Working with VP of Product Management to identify items to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users) 
+- Working with VP of Product Management to identify items to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
 - Sending out reminders about upcoming deadlines.
@@ -689,13 +689,13 @@ The TW Lead is responsible for a final review of:
 - [MVP check](#mvp-entry)
 - [Versioned documentation release](#versioned-documentation-release)
 
-While individual TW reviewers and product managers have ultimate responsibility for the style and and language of their release post items, including [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades), TW leads still have an overall responsibility to notify the release post manager, the product managers and TW reviewers if style and language don't seem reasonably consistent (things are obviously out of sync with known guidelines). But it is not the responsibility of the TW leads to _fix_ style and language inconsistencies. However, TW leads _do_ have the responsibility and ownership to make sure that all links in the release post point to relevant content and be fixed, if issues are found. 
+While individual TW reviewers and product managers have ultimate responsibility for the style and language of their release post items, including [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades), TW leads still have an overall responsibility to notify the release post manager, the product managers and TW reviewers if style and language don't seem reasonably consistent (things are obviously out of sync with known guidelines). But it is not the responsibility of the TW leads to _fix_ style and language inconsistencies. However, TW leads _do_ have the responsibility and ownership to make sure that all links in the release post point to relevant content and be fixed, if issues are found.
 
 #### Structural check
 
 _A technical writer, once assigned to the release post merge request, will check the syntax and the content structure._
 
-The **Structural check** [checklist in the main release post merge request description](../../../../../../../.gitlab/merge_request_templates/Release-Post.md)
+The **Structural check** [checklist in the main release post merge request description](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md#structural-check-technical-writing-lead)
 will guide them through the structural check.
 
 Given that the technical writing review occurs in release post items'
@@ -835,7 +835,7 @@ For instructions, see the GitLab docs [Monthly release process](https://docs.git
 **Note:** TW reviewers should not be confused with the [TW lead](#tw-lead).
 {: .alert .alert-info}
 
-Each person of the Technical Writing team is responsible for the review
+Each person in the Technical Writing team is responsible for the review
 of each individual release post item that falls under their
 [respective stage/group](/handbook/engineering/ux/technical-writing/#designated-technical-writers).
 
@@ -854,7 +854,7 @@ Product Designers should collaborate on release post items and review:
 
 - **JTBD**: Ensure that the messaging encapsulates how the item supports a user’s [Job to be Done](https://about.gitlab.com/handbook/engineering/ux/jobs-to-be-done/).
 - **MVC messaging**: Articulate any design vision or future iterations if applicable. This is especially important when considering items that are [under construction](https://about.gitlab.com/handbook/values/#under-construction), or contribute toward a Category’s maturity.
-- **Artifacts**: Validate that UI elements (screenshots, GIFs) included in the post are up to date and reflect all design changes. Ensure that no mocks are used. 
+- **Artifacts**: Validate that UI elements (screenshots, GIFs) included in the post are up to date and reflect all design changes. Ensure that no mocks are used.
 
 ### Engineering Managers
 
@@ -1039,7 +1039,7 @@ The most relevant features of the release are included in the post by [product m
 
 #### Top feature
 
-The top feature of the release is mentioned right after the MVP section, prior to other primary features. An image or video and documentation links are required. The [TW lead](#tw-lead) will pay close attention to the content of this item, as it is the "headline" feature for the release and it's especially important to get it right. 
+The top feature of the release is mentioned right after the MVP section, prior to other primary features. An image or video and documentation links are required. The [TW lead](#tw-lead) will pay close attention to the content of this item, as it is the "headline" feature for the release and it's especially important to get it right.
 
 To identify the [Top feature](#top-feature), look for `top` directly beneath `features` in the RP `.yml` file:
 
@@ -1780,13 +1780,13 @@ please make sure to specify them in the title, add the correct [category](../#ca
   - `title: "GitLab Security Release: x.y.z and x.y.z"`
   - `categories: releases`
 
-## Creating an MR for What's New entries 
+## Creating an MR for What's New entries
 
 [Video walkthrough of the process](https://youtu.be/GxKooIAknM8)
 
-1. The VP of Product Management will identify the 3-7 topics for [What's New](LINK to some kind of feature over view or documentation of what's new feature for reference) each release as part of the their final review. 
+1. The VP of Product Management will identify the 3-7 topics for [What's New](LINK to some kind of feature over view or documentation of what's new feature for reference) each release as part of the their final review.
      - What gets highlighted in the What's new can but does not have to align with the primary features and/or theme of the release post.
-     - If the VP of Product Management wants to solicit feedback on their selection from the PM team, they can do so by posting in Slack #release-post. 
+     - If the VP of Product Management wants to solicit feedback on their selection from the PM team, they can do so by posting in Slack #release-post.
 1. The VP of Product Management will create the What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
    1. Utilize the [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml)
    1. Title the file as `YYYYMMDD00001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`
@@ -1796,8 +1796,8 @@ please make sure to specify them in the title, add the correct [category](../#ca
    1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`
    1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`
    1. If an image is not available, you can use a generic image (ex: https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png)
-1. Submit the MR and add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for. 
-1. **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display** Typically this means the What's New content will be live on the 23rd. 
+1. Submit the MR and add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for.
+1. **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display** Typically this means the What's New content will be live on the 23rd.
 
 <style>
   pre { margin-bottom: 20px; }
