@@ -688,7 +688,7 @@ The TW Lead is responsible for a final review of:
 - [Frontmatter check](#frontmatter)
 - [Bugs](#bugs-mr)
 - [Performance improvements](#performance-improvements-mr)
-- [Usablity improvements](  )
+- [Usablity improvements](#usability-improvements-mr)
 - [MVP check](#mvp-entry)
 - [Versioned documentation release](#versioned-documentation-release)
 
