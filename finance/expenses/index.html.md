@@ -230,15 +230,20 @@ No problem, and consider adding it to this list if others can benefit as well.
 ### Reimbursement process and timeline:
 
 ##### SafeGuard
+
+The list of SafeGuard countries can be found [here](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity)
+
 Team members who are employed through SafeGuard must submit their expense for reimbursement through Expensify.  All expense reports must be submitted and approved by the manager and the Accounts Payable team by the 8th of the month to be included in the current month payment. **All Expense Reports must be approved by the Manager, and Montpac by EOD on the 7th of the month**
 
-Team members in France, Italy, and Spain must submit their expenses through:
+Team members working via SafeGuard must submit their expenses through:
 *  Expensify
 *  Safeguard in-house expense reimbursement
 *  GitLab payroll send the expense approval to Safeguard after the team member's manager approved the report
 *  Team members send the original receipts to Safeguard
 
 ##### Global Upside & Remote.com
+
+The list of Global Upside & Remote countries can be found [here](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity)
 
 * Team members must submit their expenses through Expensify. All expense reports must be submitted and approved by manager and the Accounts Payable team by the 7th of the month to include in the current month payment. 
 
@@ -257,9 +262,9 @@ Team members in France, Italy, and Spain must submit their expenses through:
 
 * Please include your expenses along with receipts on your monthly salary invoice.
 
-##### CXC Global
+##### CXC Global 
 
-Poland, Russia, Ukraine, Romania, Israel, Turkey, Czech Republic & Portugal:
+The list of CXC countries can be found [here](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity)
 
 * Expense reports must be submitted in Expensify by team members, approved by their managers, and final approved by Accounts Payable team on or before the 7th of each month to ensure it is included in the current months payroll
 * GitLab Payroll will send the approved expense amount to CXC EMEA payroll to include with the monthly salary
