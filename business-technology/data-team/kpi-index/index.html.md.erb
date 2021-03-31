@@ -1,0 +1,96 @@
+---
+layout: handbook-page-toc
+title: "KPI Index"
+description: "This page is the list of GitLab Key Performance Indicators and links to their definitions in the handbook."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Introduction
+
+{:no_toc}
+
+1. This page is the list of [GitLab Key Performance Indicators](/handbook/ceo/kpis/) and links to their definitions in the handbook.
+1. To maintain a [Single Source of Truth](/handbook/handbook-usage/#style-guide-and-information-architecture) and to organize [information by function and results](/handbook/handbook-usage/#organized-by-function-and-results), KPI and PI (Performance Indicator) definitions live only in the functional sections of the handbook as close to the work as possible.
+1. KPIs for each group are listed in a YAML file that are stored in a [common directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators) on GitLab.com.
+
+## KPI Development
+
+**Note: Data Team KPI development starts with a handbook [Merge Request](/handbook/communication/#everything-starts-with-a-merge-request) describing the KPI. The Data Team will use the MR as the basis for an Issue, which will be used to track development progress and presentation in the Data Team [KPI Issue Board](https://gitlab.com/gitlab-data/analytics/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=KPI).**
+
+KPIs require varying amounts of data discovery and development prior to final release into the handbook with an automated KPI dashboard. Given a clear business definition and available data, KPIs can be developed and published quickly. Others may take weeks or months if the business definition is not clear, targets are not defined, or data infrastructure is not in place. In general, KPIs which cross functional boundaries, cross subject matter boundaries, uncover source data quality problems, or require new data infrastructure are the most expensive and time consuming to implement.
+
+### Development Workflow
+
+```mermaid
+graph LR
+	A[KPI Definition in the Handbook] -->
+	B[Data Discovery] -->
+	C[Data Infrastructure Development] -->
+	D[Develop KPI Chart] -->
+  E[Quality Assurance and Sign-Off] -->
+  F[Public KPI Chart in Handbook]
+```
+
+### Creating A New KPI
+
+1. Create a merge request to add the KPI definition to the appropriate functional page of the handbook. Define the KPI as completely as possible with [all of its parts](/handbook/ceo/kpis/#parts-of-a-kpi).
+    - The MR must be approved by the functional leader and the CEO.
+    - Tag the CFO; VP, Finance; and Senior Director, Data in the MR for visibility into downstream changes that may need to occur.
+1. Create a [Data Team issue](https://gitlab.com/gitlab-data/analytics/-/issues) using the _KPI Template_ and fill in the details. Include a link to the handbook page if merged or MR if not.
+1. The Data Team will contact you to arrange a discovery session and create a development plan.
+1. Track development progress using the Data Team [KPI Issue Board](https://gitlab.com/gitlab-data/analytics/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=KPI).
+1. KPI Development is considered complete once the KPI chart is published and the KPI entry on this page is tagged with the appropriate [operational status](/handbook/ceo/kpis/#legend).
+
+### Updating An Existing KPI
+
+1. Create a merge request for the changed KPI definition in the appropriate functional page of the handbook.
+    - The merge request must be approved by the functional leader and the CEO.
+    - Tag the CFO; VP, Finance; and Senior Director, Data in the MR for visibility into downstream changes that may need to occur.
+    - FP&A will highlight changed KPIs in the Investor Metrics deck, along with a link to the Merge Request that describes the change.
+1. Create a [Data Team issue](https://gitlab.com/gitlab-data/analytics/-/issues) using the _KPI Template_ and fill in the details. Include a link to the handbook page if merged or MR if not.
+1. The Data Team will contact you to arrange a discovery session and create a development plan.
+1. Track development progress using the Data Team [KPI Issue Board](https://gitlab.com/gitlab-data/analytics/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=KPI).
+1. KPI Development is considered complete once the KPI chart is published and the KPI entry on this page is tagged with the appropriate [operational status](/handbook/ceo/kpis/#legend).
+
+
+## KPI/OKR relationship
+
+[OKRs](/company/okrs/#what-are-okrs) are what initiatives are being worked on in a quarter; things that happen every quarter are measured with KPIs. If you change a KPI, consider making it an OKR.
+
+## Discussion about page improvements
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/R1F-Iup-5Tc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+## Progress
+
+There are two goals that are tracked on this page:
+
+- [Phase 1](/handbook/business-technology/data-team/kpi-index/#phase-1) and
+- [Phase 2](/handbook/business-technology/data-team/kpi-index/#phase-2)
+
+### Phase 1
+
+The goal of Phase 1 is for each KPI to be operational in any system with a link to that data visualization or as an embedded chart in the handbook.
+
+### Phase 2
+
+The goal of Phase 2 is to embed a Sisense chart for each KPI that can be operationalized.
+KPI must be [fully defined](/handbook/ceo/kpis/#parts-of-a-kpi) with the data source available in the Data warehouse for the Data Team to prioritize the KPI.
+This dashboard shares the progress of operationalizing KPIs in Sisense:
+
+<iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/4fef0288-a4f3-49ac-9828-c9c6be229e9a?embed=true" height="700"> </iframe>
+
+## KPI Index
+
+The CEO maintains [an index of GitLab KPIs and links to where they are defined](/handbook/ceo/kpis/).
+
+## Working with the Data Team
+
+Please see [the Data Team Handbook](/handbook/business-technology/data-team/).

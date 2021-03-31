@@ -1,0 +1,139 @@
+---
+layout: handbook-page-toc
+title: Product Manager Toolkit
+---
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+- - -
+
+## What is this page for ?
+
+As a Product Manager, you constantly have data-related questions. You want to know how your feature is performing, who are your top users are, how many self-managed instances have adopted a specific feature, all of these could be broken down by product tier, paid vs free, edition...
+
+We have of course a lot of data, but some of you are not fully proficient or comfortable with SQL. And even though you can try to copy some of the existing charts to tune them to get the data you expect, you will waste some time, will never be 100% sure if your chart shows accurate data and will get frustrated.
+
+The Data Team has created a set of different snippets to address your needs. This list is not comprehensive and is mainly based on the feedback, questions and tasks we received from Product Managers. All of these snippets will be explained with detailed examples on how to change them and adapt them to your own needs. This is also at the moment mainly focusing on Self-Managed data and usage ping data source.
+
+If you prefer to learn by doing, we provide [a documented example SiSense dashboard](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations) that you can check out, most widgets include documentation in their SQL edit view too to help you customize them. You can look at the code used to generate the charts. The code has some extra guidelines commented out that will help you better understand how the given snippet works and what you can achieve with it.
+
+Overall, these snippets are meant to help any team member who is looking for specific data from Usage Ping. We want this page and these snippets to be a success which means to be understood, used and enhanced. We created [an issue](https://gitlab.com/gitlab-data/analytics/-/issues/7738) to gather feedbacks. So if you have some time, ideas, we will be super happy to read your thoughts and comments around this page and these snippets.
+
+If you want to:
+
+- have your Estimated xMAU metric charted, you should use the [td_xmau] snippet
+- have an Estimated value for one of your Performance Indicators, you can explore the [td_xmau] snippet
+- get a monthly count of instances using one of your feature with the [td_xmau_metrics_instance_count] snippet
+- get an adoption rate (per feature) of your instance, please read this section regarding the [td_xmau_metrics_instance_adoption]
+- get a list of your Top Users, Top Growing Users, or Churning Users, you can use either the [td_xmau_metrics_top_users], the [td_xmau_metrics_increasing_usage_users] or the [td_xmau_metrics_decreasing_usage_users]
+- have more insights into a drop or an increase of your feature usage. The [td_xmau_monthly_change_breakdown] is designed for this purpose
+
+NOTE:
+All these snippets start with a `td_` prefix. `td_` (td stands for Trusted Data, see here for more details)
+
+#### td_xmau: Estimated xMAU and PI charted
+
+The snippet [td_xmau] allows you to do it very quickly. With this snippet you will be able to:
+
+- [get a standard Estimated xMAU chart as the ones embedded in the handbook](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690032&udv=0)
+- [break down your estimated xMAU by main_edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690035&udv=0)
+- [break down by Self-Managed product tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690026&udv=0)
+
+[We created this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit?usp=sharing) to help you fill the snippet more easily. You just have to select some dimensions and then paste the snippet rendered in B6 in a New Chart in Periscope.
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10690032, dashboard: 793297, embed: 'v2') %>">
+
+##### You can actually do it with any of your metrics
+
+The snippet [td_xmau] could actually be used with any metrics. The embedded chart below is an example that charts the Estimated number of people using our wiki page.
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10690032, dashboard: 793297, embed: 'v2') %>">
+
+To build the snippet for your metric, you can go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit?usp=sharing) and select for the column `which xMAU` `PI`.
+
+Then as a filter you need to enter the metrics_path of the metrics you want to get your data from. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path.
+
+#### [td_xmau_metrics_recorded_metric_value]: Recorded Monthly Metric Value
+
+This snippet shows you the monthly metric value of any of your metric implemented in Usage Ping. To use this snippet, follow these steps:
+
+##### 1. Obtain the the metrics_path of the counter you want to monitor
+{:.no_toc}
+
+In [this view](https://app.periscopedata.com/app/gitlab/view/list_of_available_usage_ping_metrics_paths_for_mart__queries/5e6f74b0014747348c2525ba6e7d03bb/edit), type the name of your metric between the 2 `%` as shown in the example and then click on `Run SQL`. Copy the metrics_path from the output. You are going to use this in the snippet.
+
+##### 2. Use the metrics_path in the snippet
+{:.no_toc}
+
+Create a new chart to use the snippet. Input the copied metrics_path into the snippet. Here is an example: 
+
+- Metric: g_project_management_issue_moved_monthly
+- metrics_path: redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly
+- Snippet in use: [td_xmau_metrics_recorded_metric_value('redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly')]
+
+Then you will be able to get a dataset with the following potential breakdowns:
+
+- delivery
+- main_edition
+- ping_product_tier
+- umau_bucket
+
+Example chart: [td_xmau_metrics_recorded_metric_value: Metric Value split by delivery](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10999660&udv=0)
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10999660, dashboard: 793297, embed: 'v2') %>">
+
+#### [td_xmau_metrics_recorded_metric_value]: Recorded Monthly Metric Value
+
+This snippet is very similar to the one shown above, but adds a total line in the redis_hll_counters
+
+#### [td_xmau_metrics_instance_count]: Monthly Active Instance chart
+
+The snippet [td_xmau_metrics_instance_count] is showing you how many instances have used your feature in a given month M. To get it working you just need to reference the metrics_path. To help you build the snippet, we created [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit#gid=1727173902). You will need to just pick a value for each of the dropdowns in column B and then copy the value showed in B6 and put it in a New Chart in SiSense.
+
+Example chart:
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10755606, dashboard: 793297, embed: 'v2') %>">
+
+#### [td_xmau_metrics_instance_adoption] : Monthly Metrics Instance Adoption
+
+The snippet [td_xmau_metrics_instance_adoption](https://app.periscopedata.com/app/gitlab/snippet/td_xmau_instance_adoption/55f1e7266d0b47b2878e7b04d436197a/edit) is a snippet that can be used to get an idea about the Adoption of your features. It provides you the percentage of instances reporting back a specific usage ping metric. To help you build the snippet, we created [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit#gid=2130868735). You will need to just pick a value for each of the dropdowns in column B and then copy the value showed in BX and put it in a New Chart in SiSense.
+
+Then you will be able to get a dataset with the following potential breakdowns:
+
+- delivery
+- main_edition
+- ping_product_tier
+- umau_bucket
+
+#### [td_xmau_metrics_top_users] - Top Users Table
+
+The snippet [td_xmau_metrics_top_users] is rendering a list of Top 50 Self-Managed Instances using your specific feature. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path
+
+[An example could be found in this chart](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768540&udv=0)
+
+#### [td_xmau_metrics_increasing_usage_users] - Instances with biggest MOM usage increase
+
+The snippet [td_xmau_metrics_increasing_usage_users] is rendering a list of Top 50 Self-Managed Instances who have seen their monthly usage grow the most in the last completed month. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path.
+
+#### [td_xmau_metrics_decreasing_usage_users] - Instances with biggest MOM usage decrease
+
+The snippet [td_xmau_metrics_decreasing_usage_users] is rendering a list of Top 50 Self-Managed Instances who have seen their monthly usage decrease the most in the last completed month. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path
+
+#### [td_xmau_monthly_change_breakdown] - Monthly change breakdown
+
+You would like to be able to explain the growth/decrease of a specific monthly metric value. Have we seen big instances churning ? Or just a overall decrease of usage due to some seasonality ?
+
+Thanks to this snippet [td_xmau_monthly_change_breakdown] you will be able to create a chart that looks like this:
+The snippet allows you to quickly see the number of tracked instances with decreasing, increasing usage or newly added by month.
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10768920, dashboard: 793297, embed: 'v2') %>">
+
+#### Go further...
+
+With this official td_ (td stands for Trusted Data, see here for more details), we tried to create some key snippets that will help you get some quick charts and key data about your metrics. Of course, this list of snippet is just a glimpse of what can be done with our current data models.
+
+If you have unanswered questions despite using these snippets, [we would love to hear your feedback](https://gitlab.com/gitlab-data/analytics/-/issues/7738).

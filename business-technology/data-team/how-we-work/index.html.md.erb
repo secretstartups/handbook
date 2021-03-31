@@ -28,7 +28,7 @@ description: "GitLab Data Team Workflow"
 ### SLO for Issues and Merge Requests
 
 - First-Response SLO for a new Issue or MR: 36 hours from the time of creation
-- Issue Close SLO is based on the [Issue Weight](/handbook/business-ops/data-team/how-we-work/#issue-pointing) assigned by the Data Team.
+- Issue Close SLO is based on the [Issue Weight](/handbook/business-technology/data-team/how-we-work/#issue-pointing) assigned by the Data Team.
     - Issue weight of 1-5 points: 4 weeks (2 milestones)
     - Issue weight > 5 points: No SLO
 - MR Review SLO
@@ -69,7 +69,7 @@ Every day in Data brings a new challenge or opportunity. However, The Data Team 
 
 | Rank | Priority              | Description                                                                                                                                                                                                                                              | Allocation We Aspire To                                                      |
 | ---- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 1    | Production Operations | Activities required to maintain efficient and reliable data services, including triage, bug fixes, and patching to meet established [Service Level Objectives](/handbook/business-ops/data-team/platform/#slos-service-level-objectives-by-data-source). | 10-20%, though will fluctuate as driven by incident frequency and complexity |
+| 1    | Production Operations | Activities required to maintain efficient and reliable data services, including triage, bug fixes, and patching to meet established [Service Level Objectives](/handbook/business-technology/data-team/platform/#slos-service-level-objectives-by-data-source). | 10-20%, though will fluctuate as driven by incident frequency and complexity |
 | 2    | Data Team OKRs        | The Data Team identifies 3-4 strategic-level OKRs per quarter, primarily focused on core infrastructure and data development that will be beneficial to the entire company, aligned with CEO and Finance OKRs.                                           | 60-75%, though this will fluctuate as driven by larger Functional Team OKRs  |
 | 3    | Other work            | Other work, including Functional Team OKRs, as prioritized and ranked using the Value Calculator.                                                                                                                                                        | 15-25%                                                                       |
 
@@ -77,13 +77,89 @@ We use [scoped labels in GitLab](https://gitlab.com/groups/gitlab-data/-/labels?
 
 ### Resolving Prioritization and Blocking Issues
 
-In rare situations [established SLOs](/handbook/business-ops/data-team/how-we-work/#slo-for-issues-and-merge-requests) do not meet turnaround needs and in these cases the Data Team provides an [expedite response](/handbook/business-ops/data-team/how-we-work/#request-to-expedite-responses) capability. The Data Team will provide an date estimate if expedited request cannot be handled per the expedite response SLO.
+In rare situations [established SLOs](/handbook/business-technology/data-team/how-we-work/#slo-for-issues-and-merge-requests) do not meet turnaround needs and in these cases the Data Team provides an [expedite response](/handbook/business-technology/data-team/how-we-work/#request-to-expedite-responses) capability. The Data Team will provide an date estimate if expedited request cannot be handled per the expedite response SLO.
 
 ### Data Team Value Calculator
 
 The calculator below is based on the following [Value Calculator](https://docs.google.com/spreadsheets/d/1FROB7j0YfNS_cQM6qQD0CPkE0Emuf77EJwTb96UduWs/edit?usp=sharing) spreadsheet. Please select the values below to define the value of new work.
 
 <%= partial 'includes/data_team_value_calculator_vue' %>
+
+### OKR Planning
+
+The Data Team OKRs aspire to align with Business Technology OKRs, Finance Division OKRs, and CEO OKRs, thereby aligning with the OKRs of the Divisions we support. Due to the nature of the the technical and data infrastructure work required to develop and operate an Enterprise Data Warehouse this will not always be the case.
+
+At the beginning of a FQ, the Data Team will outline all actions that are required to succeed with our KRs _and_ in helping other teams measure the success of their KRs.
+The best way to do that is via a team brain dump session in which everyone lays out all the steps they anticipate for each of the relevant actions.
+This is a great time for the team to raise any blockers or concerns they foresee.
+These should be recorded for future reference.
+
+These OKRs drive ~60% of the work that the central data team does in a given quarter.
+The remaining time is divided between urgent issues that come up and ad hoc/exploratory analyses.
+
+Examples of OKR alignment _in-action_ includes:
+
+1. [FY21-Q2 CEO](https://about.gitlab.com/company/okrs/fy21-q2/) Objective 2, aligns to [Data Team Objective 2](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/80) for delivering automated data pipelines in support of Growth initiatives.
+1. [FY21-Q2 CEO](https://about.gitlab.com/company/okrs/fy21-q2/) Objective 3, KR4 and KR5 align to [Data Team Objective 1](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/79) to deliver a Finance ARR Data Mart.
+
+### Milestone Planning
+
+The data team currently works in two-week intervals, called milestones.
+Milestones start on Tuesdays and end on Mondays.
+This discourages last-minute merging on Fridays and allows the team to have milestone planning meetings at the top of the milestone.
+
+Milestones may be three weeks long if they cover a major holiday or if the majority of the team is on vacation or at Contribute.
+As work is assigned to a person and a milestone, it gets a weight assigned to it.
+
+Milestone planning should take into consideration:
+
+- vacation timelines
+- conference schedules
+- team member availability
+- team member work preferences (specialties are different from preferences)
+
+
+The timeline for milestone planning is as follows:
+
+- Meeting Preparation - Responsible Party: Milestone Planner
+    - Investigate and flesh out open issues.
+    - Assign issues to the milestone based on alignment with the Team Roadmap.
+    - Note: Issues are not assigned to an individual at this stage, except where required.
+
+| Day               | Current Milestone                                                                                                                                            | Next Milestone                                                                                                                                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 - 1st Wednesday | **Milestone Start** <br><br>[Roll Milestone](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Milestone%20Rolling)                      | -                                                                                                                                                                                                                        |
+| 7 - 2nd Tuesday   | **Midpoint** <br><br>Any issues that are at risk of slipping from the milestone must be raised by the assignee                                               | -                                                                                                                                                                                                                        |
+| 10 - 2nd Friday   | **The last day to submit MRs for review** <br><br>MRs must include documentation and testing to be ready to merge <br><br>No MRs are to be merged on Fridays, or on Thursday in the case of Family & Friends day. | **Milestone is roughly final** <br><br>Milestone Planner verifies issue priority and team capacity for next milestone.                                                                                                     |
+| 13 - 2nd Monday   | **Last day of Milestone** <br><br>Ready MRs can be merged                                                                                                    | -                                                                                                                                                                                                                        |
+| 14 - 2nd Tuesday  | **Meeting Day** <br><br> All unfinished issues either need to be removed from milestones or rolled to the next                                               | **Milestone Planning** <br><br> Scheduled DE meeting with a tactical discussion of the work to be completed next Milestone. Stakeholders and submitters are updated with what will or wont be added to the next milestone. |
+
+The short-term goal of this process is to improve our ability to plan and estimate work through better understanding of our velocity.
+In order to successfully evaluate how we're performing against the plan, any issues not raised at the T+7 mark should not be moved until the next milestone begins.
+
+During the milestone planning process, we point issues.
+Then we pull into the milestone the issues expected to be completed in the timeframe.
+Points are a good measure of consistency, as milestone over milestone should share an average.
+Then issues are prioritized according to these categories.
+
+Issues are not assigned to individual members of the team, except where necessary, until someone is ready to work on it.
+Work is not assigned and then managed into a milestone.
+Every person works on the top priority issue for their job type.
+As that issue is completed, they can pick up the next highest priority issue.
+People will likely be working on no more than 2 issues at a time.
+
+Data Engineers will work on Infrastructure issues.
+
+There is a demo of [what this proposal would look like in a board](https://gitlab.com/groups/gitlab-data/-/boards/1187725).
+
+This approach has many benefits, including:
+
+1. It helps ensure the highest priority projects are being completed
+1. It can help leadership identify issues that are blocked
+1. It provides leadership view into the work of the data team, including specialty analysts whose priorities are set from outside the data function
+1. It encourages consistent [throughput](/handbook/engineering/management/throughput/) from team members
+1. It makes clear to stakeholders where their ask is in priority
+1. It helps alleviate the pressure of planning the next milestone, as issues are already ranked
 
 ### Issue Types
 
@@ -203,7 +279,7 @@ _Ideally_, your workflow should be as follows:
 
 1. Run any relevant jobs to the work being proposed
 
-    - e.g. if you're working on dbt changes, run the job most appropriate for your changes. See the [CI jobs page](/handbook/business-ops/data-team/platform/ci-jobs/) for an explanation of what each job does.
+    - e.g. if you're working on dbt changes, run the job most appropriate for your changes. See the [CI jobs page](/handbook/business-technology/data-team/platform/ci-jobs/) for an explanation of what each job does.
 
 1. Document in the MR description what the purpose of the MR is, any additional changes that need to happen for the MR to be valid, and if it's a complicated MR, how you verified that the change works. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/658) for an example of good documentation. The goal is to make it easier for reviewers to understand what the MR is doing so it's as easy as possible to review.
 1. Request a review by assigning the MR to a peer using the [Merge Request Reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started#reviewer) feature.
