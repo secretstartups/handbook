@@ -223,7 +223,7 @@ CONTENT NEEDS TO BE UPDATED
 
 Create dedicated MRs from the sample templates for these content blocks (Usability improvements, Bugs, Performance improvements). This separation from the main Release Post MR simplifies the contribution and discussion process.
 
-_**Note:** The MRs for Bug and for Performance Improvements provide a place for others to add their content, and while the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MR on schedule._
+_**Note:** The MRs for Usability improvements, Bugs, and Performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule._
 
 1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create two new
    branches from master: one for bugs, and one for performance improvements.
