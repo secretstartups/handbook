@@ -17,7 +17,9 @@ description: "GitLab Inc (US) benefits specific to US based team members."
 
 US based benefits are arranged through [Lumity](https://lumity.helloflock.com/login). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  
 
-**The 2020 Open Enrollment will begin October 19, 2020 and will end on October 30, 2020. Your plan will renew January 1, 2021. _This will be an active enrollment, you must elect benefits in Lumity during the Open Enrollment window to have benefits in 2021._** Please review the information added on the plans for 2021 below and the [digital benefits guide](https://guides.lumity.com/f8wiCGbj/GitLab) is also available to review. 
+**The 2020 Open Enrollment will begin October 19, 2020 and will end on October 30, 2020. Your plan will renew January 1, 2021. _This will be an active enrollment, you must elect benefits in Lumity during the Open Enrollment window to have benefits in 2021._** Please review the information added on the plans for 2021 below and the [Digital Benefits Guide](https://guides.lumity.com/f8wiCGbj/GitLab) is also available to review. The Digital Benefits Guide includes relevant information as seen in this screenshot: 
+
+![digital-benefits-guide-2021](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/digital-benefits-guide-2021.png)
 
 Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.
 
