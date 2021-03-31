@@ -109,13 +109,13 @@ The Infrastructure department announces the budget spend at the end of each mont
 
 The budget spend is also announced in [the weekly GitLab SaaS call](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure).
 
-### Budget spend (by feature category)
+### Budget spend (by stage group)
 
-The current 30 day budget spend can be found on each [stage group dashboard][stage group dashboards]. Feature categories for that stage group are rolled up to a single value. 
+The current 28 day budget spend can be found on each [stage group dashboard][stage group dashboards]. Feature categories for that stage group are rolled up to a single value. 
 
 Stage groups can use their dashboards to explore the cause of their budget spend. 
 
-The formula for calculating budget spend is as follows:
+The formula for calculating availability:
 ```
 the number of operations with a satisfactory apdex + the number of operations without errors    
 /
@@ -124,7 +124,7 @@ the total number of apdex measurements + the total number of operations
 
 This is converted to minutes:
 ```
-(1 - gitlab:stage_group:error_budget:ratio_3d) * (30 * 24 * 60)
+(1 - stage group availability) * (30 * 24 * 60)
 ```
 
 Apdex and Error Rates are explained in more detail on [the handbook page](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability). 
