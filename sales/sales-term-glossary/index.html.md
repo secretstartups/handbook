@@ -406,26 +406,23 @@ The opportunity owner's primary reason as to why GitLab won the deal.
 - **Web Direct:** A Web Portal purchase where we do not have a specified Closed Won Reason
 - **Other:** The deal was won due to reasons other than noted above
 
+We also capture Downgrade Reasons when we win a deal but with negative Net ARR (i.e., the customer renews but for less money than they were previously paying). All of the Lost Reasons below can apply to downgrades.
+
 ### Closed Deal - Lost
 
 A unique deal that is set to `8-Closed Lost` in SalesForce.
 
 ### Closed Deal - Lost Reasons
 
-The opportunity owner's primary reason as to why GitLab lost the deal
+The opportunity owner's primary reason as to why GitLab lost the deal.
 
-- **Budget/Value Unperceived:** Prospect's overall evaluation of product or service did not have the ability to meet their needs and expectations or there was a loss of budget
-- **Competitive Loss:** Lost to a competitor
-- **Competitor Incumbent:** Prospect is staying with existing competitor product
-- **Do Nothing:** Prospect has chosen to take no action 
-- **Duplicate:** Opportunity is a duplicate to another in SFDC
-- **Legal Blocker:** Could not come to agreement on legal related items
-- **Merged into another opportunity:** Associated licenses have been merged into another opportunity
-- **No Relationship:** Evangelist /Champion Left or was not present
-- **Operational Silos:** Departments or management groups do not share information, goals, tools, priorities and processes with other departments
-- **Performance/Missing Features:** Prospect's overall evaluation of product or service meet some of their needs and expectations, but majorly lacked specific areas
-- **Product Maturity:** For the customers specific need, the product is not mature enough in certain areas. This should include large feature sets or large areas of capabilities that the customer believes is missing or not fully developed as opposed to one missing feature. 
-- **Went Silent:** Prospect has ceased communication 
+- **Lack of Adoption:** Customer never adopted the product or specific features so they did not get value. This can be because of organizational silos or lack of internal resources. If they didn't adopt because they didn't see / experience value, the lost reason should be "Product Value / Gaps." This reason does not apply to opportunities with order types of New First Order or New Connected.
+- **Product Value / Gaps:** Customer used the product and features, but did not see the value. The product did not meet requirements of the customer. This can also be a prospect where they did not experience or percieve value.
+- **Product Quality / Availibility:** Customer is using the product and features though the customer expectations did not meet the prospect or customer's needs. This can be defects, poor performance, or uptime/availability issues. Includes both self-managed and SaaS products.
+- **Lack of Engagement / Sponsor:** We were never able to get engagement with the customer team. The champion / sponsor left or changed responsibility. We were never able to re-establish connection with a new sponsor or champion. 
+- **Loss of Budget:** The prospect or customer lost budget due to business contraction, change of priorities, reduction of employees, or other. This was not a competitive loss.
+- **Corporate Decision:** Due to management decision or policy, the prospect or customer chose a different product but not because of product gaps, adoption, etc. This would be a top-down decision (e.g., ELA).
+- **Opportunity Merged:** The opportunity was merged into another opportunity so this opportunity was closed though was not really lost.
 - **Other:** The deal was lost due to reasons other than noted above
 
 ### D300 (Account)
