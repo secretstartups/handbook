@@ -74,6 +74,7 @@ The GitLab Partner Program makes it  easier for partners  to maximize the value 
 *   Improved ease of doing business, via a new partner portal with online resources and tools
 *   Marketing resources and marketing development funds for lead creation
 *   Support for our partners throughout the entire customer journey
+*   NFR licenses and discounts on GitLab products
 
 
 ### Partner Program Tracks
@@ -261,7 +262,7 @@ GitLab employees can access the discount table [here.](https://gitlab.my.salesfo
 #### Definitions and Qualifications
 
 
-*   **PIO Discount** - You can earn the largest available product discount with a **Partner Initiated Opportunity**. It can be a new opportunity to our sales team or one that was significantly impacted by the partner, early in the sales cycle.  It can be for a new or existing customer.  True ups and add-on licenses at renewal can also qualify for PIO discounts. The partner is expected to assist the GitLab Sales team in closing the sale.  
+*   **PIO Discount** - You can earn the largest available product discount with a **Partner Initiated Opportunity**. It can be a new opportunity to our sales team or one that was significantly impacted by the partner, early in the sales cycle.  It can be for a new or existing customer.  Partners purchasing GitLab for their own internal production use, true ups and add-on licenses at renewal can also qualify for PIO discounts. The partner is expected to assist the GitLab Sales team in closing the sale.  
 This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for PIO discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. PIO is available for both resale and referral opportunities.  Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 *   **Partner Assist Opportunity** is a discount earned for a GitLab-sourced opportunity where the partner assists our sales team in closing the deal. This may include demonstrating GitLab software, organizing executive meetings, delivery of services, etc. This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for Partner Assist discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 
