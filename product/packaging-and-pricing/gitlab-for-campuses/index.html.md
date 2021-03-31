@@ -82,7 +82,8 @@ The steps for building a GitLab for Campuses quote vary slightly from standard q
 ### GitLab for Campuses Order Form
 The GitLab for Campuses Order form must be used for all GitLab for Campuses quotes because it contains specific language regarding the size of the institution. 
 
-
+### GitLab for Campuses Agreeement
+The standard [GitLab Subscription Agreement](/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering. 
 
 
 #### Definitions of Qualifying Education Institutions and Associated Entities
