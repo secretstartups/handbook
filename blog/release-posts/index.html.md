@@ -215,7 +215,7 @@ Create a merge request with the introductory changes _after the previous post ha
    ![release post MR template](release-post-mr-template.png){:.shadow}
 
 
-Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for Bug and for Performance Improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
+Now that you have created the release post MR, refer to the checklist in the MR for each action that you need to take and the due dates of each action. Keep in mind the MRs for Usability improvements, Bugs, and Performance Improvements have their own checklists to be completed, including a task for the Release Post Manager to merge these MR by the 17th prior to final content assembly.
 
 #### Create MRs for Usablity improvements, bugs and performance improvements
 
