@@ -139,7 +139,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center}
 <h1 id="headerformat">Sales </h1>
 
   * <a href="/handbook/business-technology/data-team/data-catalog/customer-segmentation/" class="">📊 Self-Service Analytics Workflow: Customer Segmentation Analysis</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/sales-funnel/" class="">📊  WIP Self-Service Analytics Workflow: Sales Funnel</a>
+  * <a href="/handbook/business-technology/data-team/data-catalog/sales-funnel/" class="">📊  Self-Service Analytics Workflow: Sales Funnel</a>
   * <a href="/handbook/business-technology/data-team/data-catalog/manual-data-upload/" class="">🚧  Manual Usage Data Upload</a>
 
 <style> #headerformat {
