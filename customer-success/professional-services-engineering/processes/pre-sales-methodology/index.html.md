@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Scoping (Pre-Sales)"
+title: "Pre-Sales"
 description: “Discover how GitLab Scopes Professional Services for customers who have requirements that fall outside the scope of the packaged services.”
 ---
 # Scoping Custom Professional Services

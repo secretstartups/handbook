@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Delivery (Post-Sales)"
+title: "Post-Sales"
 description: "Describes the workflow governing delivery of GitLab professional service projects."
 ---
 
