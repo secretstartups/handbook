@@ -31,17 +31,17 @@ Finding courses and skills to learn just got easier with access to LinkedIn Lear
 
 With the LinkedIn Learning app, team members can download audio-only versions of courses and take learning on the go. We're pioliting a new initiative during the month of April 2021 encouraing team members to take learning with them while they walk.
 
-### Why should you try a Walk and Learn?
+#### Why should you try a Walk and Learn?
 
 1. Some team members might feel like their weeks are too busy to build in time for learning, or that professional development falls off their priority list. We hope this initiative helps team members think creatively about how they can make time for learning
 1. Auditory learners might feel that LinkedIn learning isn't a good fit for them, since courses are often created with video. The `audio-only` download option can help remove the added distraction of video and let learners focus just on listening
 
-### Walk and Learn Goals
+#### Walk and Learn Goals
 
 1. 20 team members will complete 1 walk and talk session and post in the #walk-and-talk Slack channel during the month of April 2021
 1. Average time spent on LinkedIn Learning by team members in April will reach 1.4 hour target
 
-### Here's how you can participate:
+#### Here's how you can participate:
 
 1. Join the [#walk-and-learn Slack channel](https://app.slack.com/client/T02592416/C01T24NNZ4G)
 1. Browse courses on the app, or check out [recommended learning paths for all team members](/handbook/people-group/learning-and-development/linkedin-learning/#recommended-learning-paths) and [skill of the month](/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month) outlined on this page
@@ -49,7 +49,7 @@ With the LinkedIn Learning app, team members can download audio-only versions of
 1. Get walking! Aim to take 2 walks per week when you tune into your LinkedIn Learning course. Use the `:walking:` emoji in your Slack status with the status `Going on a #walk-and-learn!` to let people know you're participating in the initiative!
 1. If you'd like, post a photo of your walk or a screenshot or link of the course you're listening to in the channel
 
-### How can I participate if I can't walk?
+#### How can I participate if I can't walk?
 
 No problem! The goal of this initiative is to combine learning with something that makes you feel recharged and reenergized. If you aren't able to walk or are looking for another option to participate, check out these additional ways you can integrate learning into your daily practice!
 
