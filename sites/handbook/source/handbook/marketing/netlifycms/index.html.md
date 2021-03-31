@@ -123,10 +123,10 @@ If you experience an issue or bug using the system, file an issue! GitLab's Mark
 
 #### Drafts missing from workflow tab
 
-Sometimes drafts in progress are missing from the workflow tab in Netlify CMS. This makes it hard for an editor to access the Netlify CMS UI to continue editing this draft! This is a known issue. However, you can still access the draft editing interface with a direct URL. 
+Sometimes drafts in progress are missing from the workflow tab in Netlify CMS. This makes it hard for an editor to access the Netlify CMS UI to continue editing this draft! This is a known [issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1166). However, you can still access the draft editing interface with a direct URL. 
 
-The URL structure to find the draft in Netlify CMS is https://about.gitlab.com/admin/#/collections/COLLECTION_NAME/entries/BRANCH_NAME?ref=workflow
+The URL structure to find the draft in Netlify CMS is `/admin/#/collections/COLLECTION_NAME/entries/BRANCH_NAME?ref=workflow`
 - Collection name = topic, topic_child, or blog_posts
-- Branch name = name_of_page_edited, this is the last part of branch name created by Netlify CMS which is cms/- collection_name/name_of_page_edited.
+- Branch name = `name_of_page_edited`, this is the last part of branch name created by Netlify CMS which is `cms/collection_name/name_of_page_edited`.
 
 Find this information from the MR associated with your change.
