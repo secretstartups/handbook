@@ -133,7 +133,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Supporting and checking in with the TW lead and Messaging lead via Slack and a brief weekly standup
 - Including the Release Post Manager Shadow as much as possible on activities
 - Creating the release post [merge request](#create-the-release-post-mr)
-- Creating MRs to collect [performance improvements and bug fixes](#create-mrs-for-bugs-and-performance-improvements)
+- Creating MRs to collect [usability improvements, performance improvements and bug fixes](#create-mrs-for-usability-improvements-bugs-an-performance improvements)
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
 - Working with VP of Product Management to identify items to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users) 
