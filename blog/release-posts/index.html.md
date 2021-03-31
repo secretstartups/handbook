@@ -225,13 +225,13 @@ Create dedicated MRs from the sample templates for these content blocks (Usabili
 
 _**Note:** The MRs for Usability improvements, Bugs, and Performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule._
 
-1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create two new
-   branches from master: one for bugs, and one for performance improvements.
-   Name the branches `release-X-Y-bugs` and `release-X-Y-performance-improvements`.
+1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create 3 new
+   branches from master: one for bugs, one for usability improvements and one for performance improvements.
+   Name the branches `release-X-Y-bugs` `release-X-Y-usability-improvements` and `release-X-Y-performance-improvements`.
 1. From each of these newly created branches, open a merge request (MR)
-   targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs` and
+   targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs` `Draft: release-X-Y-usability-improvements`and
    `Draft: release-X-Y-performance-improvements`, and use the
-   [`Release-Post-Bug-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
+   [`Release-Post-Bug-Usability-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
    template.
 1. Add appropriate milestone to the MRs.
 1. Assign the MRs to yourself, and assign the TW lead as Reviewer of the MRs when the merge request is ready for review.
@@ -244,6 +244,8 @@ _**Note:** The MRs for Usability improvements, Bugs, and Performance improvement
 1. In each MR, replace the `@mentions` with the actual task owner names.
 1. On the `release-X-Y-bugs` branch, add [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml)
    to the `data/release_posts/unreleased/` folder.
+1. On the `release-X-Y-usability-improvements` branch, add
+   [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/release-post-ux-improvements.yml) 
 1. On the `release-X-Y-performance-improvements` branch, add
    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
    to the  `data/release_posts/unreleased/` folder.
