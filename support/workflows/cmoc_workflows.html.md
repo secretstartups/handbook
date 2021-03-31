@@ -269,6 +269,20 @@ The contents of the maintenance should be filled out according to the details pr
 
 After the maintenance has been created, be sure to include it in your handover to the next on-call CMOC in the [Maintenances](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/-/blob/master/.gitlab/issue_templates/Handover.md#maintenances) section.
 
+In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
+![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
+
+Select the maintenance you need to reschedule.
+![Maintenance selected](/images/support/cmoc_get_in_maintenance.png){: .shadow}
+
+Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
+![Reschedule Maintenance](/images/support/cmoc_reschedule_maintenance.png){: .shadow}
+
+Select *Post Update Without Starting* 
+![Post maintenance without starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
+
+Enter the update provided by the Infrastructure team and confirm the appropiate broadcast channels with the team before proceed to sent the update.
+
 ## Handover Procedure
 
 At the end of each on-call shift its necessary to inform the next CMOC of any relevant activity that occurred during it or is still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) issue template. Create the handover issue even if nothing happened during your shift, signaling that everything is fine is also useful information. It's critical to remember that since we [work out in the open](https://about.gitlab.com/blog/2015/08/03/almost-everything-we-do-is-now-open/) by default, the CMOC Handover issue tracker is open to the public. **A handover issue should be made confidential if it must contain any sensitive information.**
