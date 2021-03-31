@@ -13,6 +13,22 @@ description: This page is about Zendesk workflows for L&R.
 
 This page outlines workflows relevant to folks using the `L&R` form in Zendesk. 
 
+## Working on tickets
+
+### Assignment and hot queue model
+
+We accept that tickets in the L&R queue may require a different approach than tickets in other queues. Acknowledging and drawing inspiration from the [existing Working on Tickets workflow](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html), we have opted to adopt a "hybrid model". The hybrid model has an emphasis on assignment of tickets, while also allowing a "hot queue" (i.e taking the next-to-breach ticket from the top of the queue) methodology.
+
+### The workflow
+
+1. Start at the top of your own view and work on next-to-breach tickets that are assigned to you
+1. Check the main view for New tickets in your region or all regions of preferred support
+1. If you are able to make a public reply on the ticket, do so, assign the ticket to yourself, and complete the form data
+1. If there is a New ticket that will breach in your timezone, but it is not in your region or all regions of preferred support, make a public reply if you can and leave the ticket unassigned
+1. If there are Open tickets that are unassigned, with all regions or your region of preferred support, assign to yourself, complete the form data, and make a public reply if you can
+1. If you are not able to make a public reply, please ask for assistance from your colleagues to drive the ticket forward
+1. If there is an Open ticket that is assigned to someone outside of your timezone and the ticket will breach before the start of their working hours, make a public reply if you can and let them know if you have done so via Slack
+
 ## Zendesk form data overview
 
 On the left sidebar in Zendesk in the ticket view, every form has data fields unique to that form. These data fields tell us more about the ticket, from the tags to the ticket type, the ARR and the information the customer filled out when submitting the ticket.
