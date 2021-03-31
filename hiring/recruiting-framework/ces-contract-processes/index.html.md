@@ -22,7 +22,7 @@ First, be sure to validate the following:
 
 ### Entity Contract Signatories
 | Entity | Signatory | 
-|-----------------|-------------|
+|-------- | -----|
 | GitLab Inc | Kelly Murdock  | 
 | GitLab Federal LLC    |       TBD      |  
 | GitLab BV Belgium, Dutch & English | TBD | 
