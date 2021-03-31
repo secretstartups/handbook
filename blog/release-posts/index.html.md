@@ -1320,7 +1320,7 @@ to the post.
 
 _To be added by Engineering Managers and Product Managers._
 
-The Release Post manager will [create MRs](#create-mrs-for-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for performance improvements and bugs. Engineering Managers will contribute to performance improvements and both Engineering Managers and Product Managers will contribute to bug fixes.
+The Release Post manager will [create MRs](#create-mrs-for-usability-improvements-bugs-and-performance-improvements), post notifications and share reminders to collect contributions for performance improvements and bugs. Engineering Managers will contribute to performance improvements and both Engineering Managers and Product Managers will contribute to bug fixes.
 
 ### Usablity improvements
 
