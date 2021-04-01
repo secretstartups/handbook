@@ -177,9 +177,7 @@ Below outlines use case examples when using `private` Groups, Channels, and cont
 1. If you share `private` content with a `public` Channel, only followers of that Channel can see the content, **but anyone can follow the Channel**. This is a similar use case as sharing `private` content with a `public` group. If you'd like to organize users with similar interests by inviting them to follow a `public` Channel, this use case might work.
 
 
-### Choosing between a badge or certification
-
-#### Badges
+### Badges
 
 Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set Pathway or Journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
 
@@ -194,17 +192,6 @@ Follow the steps below for [creating a badge in EdCast](/handbook/people-group/l
 Watch this video to review how to add badges to a Pathway or Journey:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VnBSYZ8Cbws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Certification
-
-_Please note that as of 2021-03-11, Certifications are not yet enabled in EdCast._
-
-Certifications are available for content updated in the Leapest LMS Lite with the combination of assessments created in Mettl. The certifications can be shared externally.
-
-Teams should choose to use certifications to recognize learners achievements when:
-
-- Learners require an official certification upon completion
-- Establishing credibility in a specific skill area, etc.
 
 
 ### Image guidelines
@@ -311,7 +298,7 @@ As new team members are onboarded as Learning Evangelists, the L&D team will ser
 
 #### Content review checklist items
 
-To review in the front end of GitLab Learn
+To be reviewed in the front end of GitLab Learn
 
 1. Click into the `edit` mode to review content in each Journey or Pathway
 1. Content is organized in a Pathway or Journey
@@ -321,8 +308,9 @@ To review in the front end of GitLab Learn
 1. Learning level is set
 1. Badge status is set and uploaded
 1. Each SmartCard has a clear description
+1. Content is compliant with the [DIB quality check process](/culture/inclusion/#diversity-inclusion-and-belonging-quality-check-learning--development-and-external-training)
 
-To review in the EdCast backend
+To be reviewed in the EdCast backend:
 
 1. Language is specified
 1. Tags are added based on related content keywords
@@ -330,8 +318,6 @@ To review in the EdCast backend
 1. User taxonomy topics are chosen
 
 When the peer-review is complete, content should be switched on by the content creator to the `published` state.
-
-
 
 ### Sharing content
 
@@ -428,12 +414,9 @@ Use these best practices when designing and updating the discover page in EdCast
 1. Leverage a carousel of groups by creating SmartCards that link directly to groups that you want to highlight
 
 
-
-
 ## Processes, management, and maintenance of content in EdCast
 
 This section documents specific workflows in EdCast that admin will use when creating and maintaining content. As the LXP implementation team discovers new ways to utilize EdCast, these processes shoud be updated. All admin should consider opening an MR to this page and workflows as they explore new tools in the platform.
-
 
 ### Journeys, Pathways, and SmartCards
 
