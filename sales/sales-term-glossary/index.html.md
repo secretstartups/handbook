@@ -27,7 +27,7 @@ A First Order customer is a customer within an Account Family that makes the fir
 
 ### Connected New Customers
 
-A connected new customer is the first new subscription order with an Account that is related to an existing customer Account Family (regardless of relative position in corporate hierarchy) and the iACV related to this new customer is considered "Connected New".
+A Connected New customer is the first new subscription order with an Account that is related to an existing customer Account Family (regardless of relative position in corporate hierarchy) and the ARR related to this new customer is considered "Connected New".
 
 ### Growth Customers
 
@@ -43,15 +43,15 @@ First Order and Connected New can be reported on via the Order Type fields in Sa
 
 | SFDC Field Name       | Source of Truth for Time Period | Description                                                                                                    |
 |-----------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Order Type 1.0        | FY21                            | Value stamped at close.                                                                                        |
-| (WIP) Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
-| (WIP) Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
+| [LEGACY] Order Type        | FY21                            | Value stamped at close.                                                                                        |
+| Order Type 2.0        | FY22 and Future Looking         | Value stamped at close. Includes enhanced logic to filter out Additional CI Minutes and Credits as First Order |
+| Order Type 2.0 (Live) | None                            | Used to track movement of values post deal close. Analysis Field Only.                                         |
 
 Order Type (all iterations) runs on a nightly job, please allow 24 hours after a relevant change for the fields to update. [Technical documentation here](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#order-type-system).
 
 #### Order Type 2.0 Field Values
 
-Order Type 2.0 introduced additional values that relate back to our [ARR defintion framework](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#arr-analysis-framework)
+Order Type 2.0 introduced additional values that relate back to our [ARR definition framework](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#arr-analysis-framework)
 
 | Value                | Definition                                                                                       |
 |----------------------|--------------------------------------------------------------------------------------------------|
@@ -63,23 +63,41 @@ Order Type 2.0 introduced additional values that relate back to our [ARR definti
 | 6. Churn - Final     | The inverse of New - First Order. The final churn in an account family.                          |
 | 7. PS / Other        | Non-recurring deals. Currently implemented as any deal value < $48 and is not coded as Pro Serv. |
 
-### Additional customer definitions for internal reporting
+### Reporting
+
+#### Additional Customer Definitions
 
 We define customers in the following categorical level of detail:
-1. Subscription: A unique subscription contract with GitLab for which the term has not ended.
+1. **Subscription:** A unique subscription contract with GitLab for which the term has not ended.
 As customers become more sophisticated users of GitLab the number of subscriptions may decline over time as Accounts and Parents consolidate subscriptions to gain more productivity.
-1. Account: An organization that controls multiple subscriptions that have been purchased under a group with  common leadership.
+1. **Account:** An organization that controls multiple subscriptions that have been purchased under a group with  common leadership.
 In the case of the U.S. government, we count U.S. government departments and major agencies as a unique account.
-1. Parent: An accumulation of Accounts under an organization with common ownership.
+1. **Parent:** An accumulation of Accounts under an organization with common ownership.
 In the case of the U.S. government, we count U.S. government major agencies as a unique parent account. (In Salesforce this is the `Ultimate Parent Account` field)
 
-Because "customer" can have three different meanings whenever customer is used in presenting data it must be qualified by the type of customer.
+Because "customer" can have multiple meanings, whenever customer is used in presenting data it must be qualified by the type of customer.
 
-The default description is parent. When the default is used, no further description is required.
+The default description is Parent. When the default is used, no further description is required.
 
-When account or subscription is being reported then the title or field description on the chart must be added to call out the basis for reporting.
+When Account or Subscription is being reported then the title or field description on the chart must be added to call out the basis for reporting.
 
-Metrics that are based on customer data should also carry a clarifying description. For clarity parent will be the only customer type used for external reporting.
+Metrics that are based on customer data should also carry a clarifying description. For clarity, Parent will be the only customer type used for external reporting.
+
+#### Notable Order Type & Customer Related Fields
+- **First Order Available:** This field is automated based on corresponding opportunities associated with the Account Family.  Accounts are marked as First Order Available by default.  The automation looks for any closed business in the Account Family, and if found the field is unchecked, to show that the First Order is taken for that family
+        - Customers who allow their renewal to lapse, but return after 180 days will be considered New Business and First Order Available will automatically be unchecked as appropriate
+
+### Order Type for PubSec:
+
+Due to the way the parenting of accounts is done at  GitLab, many of our Public Sector accounts roll up to only  a few primary ultimate parent accounts (ie. United States Army, USN, DoE, Air Force, etc).  This model has the following implications:
+- Customer Definition
+- Systematic flagging of Order Type 2.0 on opportunities 
+- First Order Available flagging
+
+In all of the above scenarios, there’s a higher likelihood of accounts and opportunities to be flagged as Connect New and/or First Order Available is false even though the individual entities could, in fact, be considered New Logo.  
+
+For this reason, **New Logos for the PubSec team are defined as opportunities where Order Type 2.0 = New - First Order OR  New - Connected**
+
 
 ### Customer Segmentation
 
