@@ -68,7 +68,7 @@ To release an email address for an inactive account:
 
 ## Asking Permission
 
-Before any actions are taken, please request explicit permission from the user to take the required action on their account. Be as specific as possible so that there is no confusion.
+Before any actions are taken, including impersonating a user, please request explicit permission from the user to take the required action on their account. Be as specific as possible so that there is no confusion.
 
 Some sample phrases:
 
