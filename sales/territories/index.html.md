@@ -23,6 +23,14 @@ title: "Sales Territories"
 1. `Sales Operations` to update LeanData download updated csv.
 1. Territory Management updates will be uploaded to LeanData by `Sales Operations` **after** change in system has been made.
 
+### Territory Ownership (ISR)
+
+1. Create an issue in the **Sales Operations** project - utilizing the [ISR Territory Change template](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/new?issuable_template=ISRTerritoryChange)
+1. Follow the directions within the template & provide all the requested details
+1. `Sales Operations`and `Sales Systems` to update SFDC
+1. `Sales Operations`to update the [ISR Territories Mapping File](https://docs.google.com/spreadsheets/d/1dzA_t3Nfa_C-qd-QJ41BkMy6I_A76FTTmXTXb57qZuI/edit#gid=0) 
+1. To request ISR ownership exceptions for individual opportunities, please chatter your ISR manager on the opportunity
+
 #### Updating these tables without updating Operations will not be reflected in our various systems causing all reports and routing to be incorrect!
 
 {:.no_toc}
