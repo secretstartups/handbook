@@ -838,7 +838,7 @@ Usability improvements included in the description:
 - The link to the improvement issue/MR.
 - Whether the issue/MR has been closed:
   - If the issue/MR is closed, was it closed on or before the current milestone?
-  - If the issue/MR is still open, make sure that the responsible EM, PM, PD or  usablity author is aware of the situation.
+  - If the issue/MR is still open, make sure that the responsible EM, PM, PD or usability author is aware of the situation.
   - If the issue/MR will not be closed by the 16th of the month, remove the entry from the Usability MR.
 
 YAML data:
