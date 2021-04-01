@@ -213,7 +213,7 @@ Keep the following in mind when choosing a photograph:
 1. Avoid images of large groups as it could make content look out of date
 1. Keep the focal point of the image in the middle to enable better cropping and addition of the image overlays described below
 
-### Images for SmartCards
+#### Images for SmartCards
 
 SmartCards without an image uploaded will either generate a random image from the EdCast system or will show no image at all. Both cases don't align with the look and feel of GitLab Learn. Follow one of the two options below when adding images to SmartCards
 
@@ -229,16 +229,6 @@ Journeys and Pathways will be identified with a white graphic image overlay and 
 [Example of images in Canva](https://www.canva.com/design/DAEQ-5KGqe4/7JF_Fz8qV2a0owZDQGLlcw/view?utm_content=DAEQ-5KGqe4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 We've organized a [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) so that contributors to GitLab Learn can access pre-edited photos to upload.
-
-#### Images for SmartCards
-
-Use the following chart to determine what image is best to use for your SmartCard content
-
-| Scenario | Image Guidelines |
-| ----- | ----- |
-| The SmartCard will be broadcasted on the Discover page | Follow guidelines for Journey and Pathway images |
-| The SmartCard links to the Handbook | Use the auto-generated GitLab logo |
-| The SmartCard is stored within a Pathway or Journey | You may either update each image following the guidelines for Journey and Pathway images or use the auto-generated images in the platform |
 
 #### Images for Channels
 
