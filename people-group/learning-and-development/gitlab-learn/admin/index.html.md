@@ -10,22 +10,21 @@ title: GitLab Learn Admin Documentation
 {:toc .hidden-md .hidden-lg}
 
 
-## Navigating GitLab Learn Admin Content
+# Navigating GitLab Learn Admin Content
 
-On this page, team members working in the GitLab Learn platform and GitLab Learning Evangelists will find documented processes and best practices for content creation. The page is split into two important sections.
+On this page, team members working in the GitLab Learn platform will find documented processes and best practices for content creation. The page is split into the following sections.
 
-| Section Number | Title | Purpose |
-| ----- | ----- | ----- | 
-| 1 | [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | This section will outline best practices for creating on brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
-| 2 | [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | This section outlines written and demonstrated processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
-| 3 | [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | TBD|
+| Title | Purpose |
+| ----- | ----- | 
+| [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | Outlines best practices for creating on brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
+| [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | Outlines processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
+| [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | Includes key links and trainings in EdGraph |
+| [Moderation](/handbook/people-group/learning-and-development/gitlab-learn/admin/#moderation) | TBD |
+| [Support](/handbook/people-group/learning-and-development/gitlab-learn/admin/#support)| Includes support workflows for users and templates for contacting EdCast support |
 
+Questions? Please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 ## Best practices for content creation and organization
-
-These best practices are iterative and will continuously update. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. EdCast admins and team members should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform for content creation and curation. 
-
-If EdCast admins have questions about best practices in the LXP or need support in making decisions about how to upload and organize their content, please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 If you're just getting started using EdCast, watch this short overview of the user experience in the platform and how new learning content fits into this design.
 
@@ -55,8 +54,7 @@ Before reviewing the documented best practices below, take time to watch these r
 
 #### Applicable to all content
 
-1. URLs for content cannot be deleted or edited, and they are generated automatically by the title that is first entered for the content. This is the same for all content in the platform, so take care to properly name content when you're creating it for the first time. When content is deleted, that URL can no longer be used.
-1. The `Mark as Complete` setting platform wide is set to `auto-mark as complete`. This setting allows our integration with LinkedIn Learning to track content completed on the LinkedIn platform itself and should not be changed. As a result, if you'd like users to manually mark content as complete, please be sure to select `Manually` at the Pathway setting to override the `auto-mark as complete` setting. Otherwise, leave Pathways to the `Automatically` mark as complete setting.
+1. URLs for SmartCards are generated automatically by the title that is first entered for the content and cannot be deleted or edited. This applies for all content in the platform, including Journeys, Channels, and Groups, so take care to properly name content when you're creating it for the first time for the most accurate URL. If content is deleted, that URL can no longer be used.
 
 #### SmartCards
 
@@ -64,15 +62,20 @@ Before reviewing the documented best practices below, take time to watch these r
 1. Create content based SmartCards independently from a Journey or Pathway so that content can be repurposed and discovered
 1. Always set an estimated time to finish for each SmartCard, as this is used to give an accurate guess on how long the content will take to consume
 
+Check out this video of a few of these SmartCard best pracitces in action:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bORBlaaOwD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Pathways
 
-1. Badges can be awarded upon completion of a Pathway. If the Pathway is not part of a Journey, use the Pathway level badges
-1. Enable lock functions for pathways where you want learners to go through the content in a specific order. For locked pathways, leave the first SmartCard unlocked, and lock all subsequent Smartcards.
+1. The `Mark as Complete` setting platform wide is set to `auto-mark as complete`. This setting allows our integration with LinkedIn Learning to track content completed on the LinkedIn platform itself and should not be changed. As a result, if you'd like users to manually mark content as complete, please be sure to select `Manually` at the Pathway setting to override the `auto-mark as complete` setting. Otherwise, leave Pathways to the `Automatically` mark as complete setting.
+1. Badges can be awarded upon completion of a Pathway.
+1. Enable `lock` functions for pathways where you want learners to go through the content in a specific order. For locked pathways, leave the first SmartCard unlocked, and lock all subsequent Smartcards.
+1. Enable `leap` functions for pathways where you want to redirect the learner based on how they perform on a quiz. For example, if a user passes a quiz, they can leap to the next SmartCard, but if they fail, they can be directed back to a SmartCard to review content before taking the quiz again.
 1. End Pathways that earn a badge with the sharing a [GitLab Learn badge SmartCard](https://gitlab.edcast.com/pathways/gitlab-certification/cards/1045949)
 1. Consider ending Pathways with a SmartCard that provides next steps for learning. This could be a call to action to take a similar Pathway or follow a Channel.
-1. Enable leap functions for pathways where you want to redirect the learner based on how they perform on a quiz. For example, if a user passes a quiz, they can leap to the next SmartCard, but if they fail, they can be directed back to a SmartCard to review content before taking the quiz again.
 
-Here is an example where you might use lock and leap in a Pathway:
+##### Lock and Leap Example
 
 In the GitLab 101 certification, a user must first read the handbook page on technical terminology, then take the knowledge assessment. If the user passes the quiz, they will leap to the next SmartCard, which brings them to the next handbook section. If the user fails, they will leap back to the initial SmartCard to review the quiz content. In the same pathway, we have a short poll used as a knowledge check. In this case, if the user answers either correctly or incorrectly, they move forward through the locked SmartCards as normal without any using leap functionality.
 
@@ -82,18 +85,21 @@ Watch this video example that explains the use of lock and leap in a Pathway:
 
 #### Journeys
 
-1. Badges can be awarded upon the completion of a Journey. It's best to require all pathways be completed in order to earn a badge and use a Journey level badge over Pathway level badges
+1. Badges can be awarded upon the completion of a Journey
 1. End Journeys that earn a badge with the sharing a [GitLab Learn badge SmartCard](https://gitlab.edcast.com/pathways/gitlab-certification/cards/1045949)
 1. Consider ending Pathways with a SmartCard that provides next steps for learning. This could be a call to action to take a similar Pathway or follow a Channel.
+1. Refer to the best practices for Pathways above when building Pathways that create a Journey.
 
 
 ### Order of Operations for Content Creation
+
+This section defines how to restrict content to specific audiences on GitLab Learn. Since GitLab Learn is available to both internal and external audiences, it's important to understand who can access your content. Whenever possible, we shouuld make learning public to align with our [transparency value](/handbook/values/#transparency), but in some cases, learning will only be accessible to team members or may require payment.
 
 #### Step 1: Determine if content is `public` or `private`
 
 | Content Type | Definition | Example Audience |
 | ----- | ----- | ----- |
-| `private` | Content is only visible to the assigned learner, assigned group, or channel | Content for the GitLab team or customers only |
+| `private` | Content is only visible to a specific audience | Content for the GitLab team or customers only |
 | `public` | Content is discoverable and visible to all learners in the platform | Content for wider community members |
 
 Watch this video that explains the difference between public and private content in GitLab Learn:
@@ -118,7 +124,7 @@ This video outlines the three scenarios for building public versus private conte
 
 1. Build Smartcards within a Pathway or Journey
 1. Make sure the `private` content checkbox is checked for SmartCards, Pathways, and Journeys
-1. Assign content directly to an individual user, group, or channel
+1. Assign or share content directly to an individual user, private Group, or private Channel
 
 **Example:** L&D uploads a compliance course with graded content for a specific group of learners. Since it is graded, interactive content, we want this path to only be assigned to the GitLab team. SmartCards will be built within a private Pathway that will be assigned directly to team members via a Group. In the future, the team might create a public course without the graded elements that could be public for the wider community.
 
@@ -137,7 +143,23 @@ Option 3: If parts of the content are for a certain audience and parts are avail
 
 There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
 
-#### Sharing private content with the right audience
+#### Step 3: Sharing private content with the right audience
+
+Once you've built your `public` or `private` content, you'll need to share with the correct audiences.
+
+##### Overview
+
+Please review these key structurs and how they can impact **who can access your content**.
+
+**Important Note: The first line in the table below is the ONLY way to ensure your content is truly restricted to a specific audience.**
+
+| Content Type | Shared With | Who can Access | 
+| ----- | ----- | ----- |
+| Private | Private Group or Private Channel | Only members of that Group or people added to the Channel |
+| Public | Public Group or Public Channel | Anyone in the Group or Channel and discoverable via search |
+| Private | Public Group or Public Channel | Anyone can join the public Group or Channel, therefor anyone can see your content |
+
+##### Explanation of `public` and `private` content
 
 With the combination of `private` content, Groups, and Channels, you can restrict content to certain audiences in GitLab Learn. This is an essential EdCast feature for the GitLab team, as we're using GitLab Learn to share content across internal and external audiences. Examples include:
 
@@ -155,9 +177,7 @@ Below outlines use case examples when using `private` Groups, Channels, and cont
 1. If you share `private` content with a `public` Channel, only followers of that Channel can see the content, **but anyone can follow the Channel**. This is a similar use case as sharing `private` content with a `public` group. If you'd like to organize users with similar interests by inviting them to follow a `public` Channel, this use case might work.
 
 
-### Choosing between a badge or certification
-
-#### Badges
+### Badges
 
 Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set Pathway or Journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
 
@@ -172,17 +192,6 @@ Follow the steps below for [creating a badge in EdCast](/handbook/people-group/l
 Watch this video to review how to add badges to a Pathway or Journey:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VnBSYZ8Cbws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Certification
-
-_Please note that as of 2021-03-11, Certifications are not yet enabled in EdCast._
-
-Certifications are available for content updated in the Leapest LMS Lite with the combination of assessments created in Mettl. The certifications can be shared externally.
-
-Teams should choose to use certifications to recognize learners achievements when:
-
-- Learners require an official certification upon completion
-- Establishing credibility in a specific skill area, etc.
 
 
 ### Image guidelines
@@ -279,7 +288,7 @@ As new team members are onboarded as Learning Evangelists, the L&D team will ser
 
 #### Content review checklist items
 
-To review in the front end of GitLab Learn
+To be reviewed in the front end of GitLab Learn
 
 1. Click into the `edit` mode to review content in each Journey or Pathway
 1. Content is organized in a Pathway or Journey
@@ -289,8 +298,9 @@ To review in the front end of GitLab Learn
 1. Learning level is set
 1. Badge status is set and uploaded
 1. Each SmartCard has a clear description
+1. Content is compliant with the [DIB quality check process](/culture/inclusion/#diversity-inclusion-and-belonging-quality-check-learning--development-and-external-training)
 
-To review in the EdCast backend
+To be reviewed in the EdCast backend:
 
 1. Language is specified
 1. Tags are added based on related content keywords
@@ -298,8 +308,6 @@ To review in the EdCast backend
 1. User taxonomy topics are chosen
 
 When the peer-review is complete, content should be switched on by the content creator to the `published` state.
-
-
 
 ### Sharing content
 
@@ -396,12 +404,9 @@ Use these best practices when designing and updating the discover page in EdCast
 1. Leverage a carousel of groups by creating SmartCards that link directly to groups that you want to highlight
 
 
-
-
 ## Processes, management, and maintenance of content in EdCast
 
 This section documents specific workflows in EdCast that admin will use when creating and maintaining content. As the LXP implementation team discovers new ways to utilize EdCast, these processes shoud be updated. All admin should consider opening an MR to this page and workflows as they explore new tools in the platform.
-
 
 ### Journeys, Pathways, and SmartCards
 
