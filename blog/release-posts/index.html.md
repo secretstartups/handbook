@@ -566,7 +566,7 @@ UPDATE
 - Severity - if the bug is severe (even if it impacts fewer users) consider including it. A performance improvement is a good example, it could be on a feature that sees less use but if you're able to make a significant improvement it's worth calling out.
 - Any data-loss or security related bug - you've likely already pushed a fix with relevant content in a patch release. If not, be sure to include those types of issues.
 - Bugs with high demand - demand being interest from customers (in the form of upvotes, discussions on issues) or the wider community.
-
+- In the event there are more than 10 suggested improvements, the Release Post Manager will review the list and work with Design Leadership to trim to the most noteworthy improvements.
 
 ### Messaging lead
 
