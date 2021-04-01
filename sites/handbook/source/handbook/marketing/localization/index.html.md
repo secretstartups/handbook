@@ -39,6 +39,23 @@ To ensure translated content makes contextual and technical sense, we have inter
 | German | @amimmo |
 | Japanese | @toshitakaito |
 
+#### Process for requesting a review via Smartling
+
+For some languages, a review step is built within the translation process in Smartling. We have internal reviewers that are trained on Smartling to review and send back to the translators if there are any issues. 
+
+Languages that the Smartling step is enabled for:
+1. German
+1. Russian
+
+Internal reviewers for these languages that willl review via smartling:
+
+| Language | Reviewers |
+| -------- | --------- |
+| German | @KSetschin |
+| Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
+
+Please follow the process above for requesting a review but please do so at the same time of opening the Smartling job. 
+
 ### Priority Countries
 
 Annually we prioritize countries that we believe offer the most opportunity for GitLab. A listing of those countries and our expected level of investment are tracked in an internal document called: [Priority Country Analysis](https://docs.google.com/spreadsheets/d/1eRrtRPdNSQjtvDrEvPJ_klfqKAatnLIzDjvShXhnSr8/edit?usp=sharing). 
