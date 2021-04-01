@@ -66,7 +66,7 @@ _You can use this template to request access for individuals or multiple people,
 
 **Step 4: Managers to do**
 1. If you are the manager of this person, add the labels `AR-Approval::Manager Approved` and `ReadyForProvisioning` to the issue; if you are the one asking for access, then you have to assign to _your_ manager for approval and they must add the labels `AR-Approval::Manager Approved` and `ready for provisioning`.
-1. After approval, then YOU MUST **assign the issue to the system provisioner** [listed in the tech stack.](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0)
+1. After approval, then YOU MUST **assign the issue to the system provisioner** [listed in the tech stack.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
 
 **Step 5: Provisioners to do**
 1. Before provisioning, consider that team members should only be granted the minimum necessary access to perform their function. Determine whether the access level is necessary or if a lower access level would be sufficient.
@@ -94,7 +94,7 @@ _You can use this template to request access for individuals or multiple people,
 **Prior to submitting this Issue Request**
 1. Please review our [Access Control Policy and Procedures](/handbook/engineering/security/#access-control-policy-and-procedures) to ensure that your request is in line with GitLab's policies and procedures. If after review you feel that a shared account is still needed, complete submit the issue using the template. **Note that systems with PCI data is not allowed shared accounts.**
 1. Please note that shared account request(s) will need to be reviewed and approved by IT Ops and the listed Tech Stack Owner.
-An [Exception Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/new?issuable_template=Exception%20Request) will need to be logged for each user you are requesting to be added. Note that with an Exception Request the maximum exception length is 90 days.
+**An [Exception Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/new?issuable_template=Exception%20Request) will need to be logged for each user you are requesting to be added.** Note that with an Exception Request the maximum exception length is 90 days (365 days for device exceptions only).
 After the Exception Length, you will be required to submit another Exception Request for review and approval.**If the exception request is not logged, reviewed, and approved for an extension, note that the Shared Account will be disabled.** Please refer to our [Information Security Policy Exception](/handbook/engineering/security/#information-security-policy-exception-management-process) handbook page for more information.
 
 **Instructions on how to submit this issue request**
@@ -126,20 +126,20 @@ After the Exception Length, you will be required to submit another Exception Req
 #### <a href="https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request" target="_blank" id="access-change-request">Access Change Request</a>
 
 Access Change Requests are logged when a team member no longer requires access to a currently provisioned system or no longer requires the same level of access (downgraded access from admin to user etc).
-Refer to [`For Total Rewards Analysts: Processing Promotions & Compensation Changes`](/handbook/people-group/promotions-transfers/#for-people-ops-analysts-processing-promotions--compensation-changes) section of the GitLab handbook for additional information.
+Refer to [`For Total Rewards Analysts: Processing Promotions & Compensation Changes`](/handbook/people-group/promotions-transfers/) section of the GitLab handbook for additional information.
 
 It is important to note that while Okta has provisioning/deprovisioning automation in place, this is not a complete/accurate reflection of access provisioning and deprovisioning.
 Okta has been configured to assign integrated/implemented applications based on a user's role/group.
 This makes applications accessible via Okta but users may still have the ability to access the systems directly.
-Refer to [Okta Application Stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=1906611965) for a list of applications set up in Okta.
+Refer to [Okta Application Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) for a list of applications set up in Okta.
 
 What this means is:
 
 1. A GitLab Team member gets transferred to a different role.
 1. The team member's profile in BambooHR is changed.
-1. This profile change automatically triggers a change in his Okta profile accordingly.
-1. This, in turn, results in the team member getting assigned to new applications based on his new department and role.
-1. Simultaneously all old applications that are not relevant to his new role get revoked/unassigned.
+1. This profile change automatically triggers a change in the team member's Okta profile accordingly.
+1. This, in turn, results in the team member getting assigned to new applications based on their new department and role.
+1. Simultaneously all old applications that are not relevant to their new role get revoked/unassigned.
 1. Additionally, the Okta administrator gets an Email from Okta, that there has been a change to a User profile - (Email Subject line: 1 existing user updated). Okta automation already happens in the background, this email is informational only.
 
 While this application automation will take place in Okta, "true" system provisioning and deprovisioning will still need to be manually completed within the impacted systems via an Access Change Request.
