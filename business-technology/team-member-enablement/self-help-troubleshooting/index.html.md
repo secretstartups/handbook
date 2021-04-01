@@ -38,6 +38,8 @@ Password resets to sensitive systems such as your Google Workspace account and O
 
 ### Using GMail app on phone with Okta log in
 
+Please refer to our GitLab Accceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab GMail account to your personal device. 
+
 To have GMail on your phone now that it is controlled by Okta, you must use the actual Google Apps. 
 - Download GMail to your phone
 - Add Google account
