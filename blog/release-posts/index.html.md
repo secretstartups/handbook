@@ -563,7 +563,7 @@ When evaluating what to include consider the following factors:
 
 - Reach - if it impacts 50% or more of our users, prospects, or customers, consider including it.
 - Impact - if it **does not** have a trivial or minimal impact, consider including it. Also, if the reach is low but it has a high or massive impact, consider including it.
-- In the event there are more than 10 suggested improvements, the Release Post Manager will review the list and work with Design Leadership to trim to the most noteworthy improvements.
+- In the event there are more than 12 suggested improvements, the Release Post Manager will review the list and work with Design Leadership to trim to the most noteworthy improvements.
 
 ### Messaging lead
 
