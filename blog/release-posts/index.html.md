@@ -131,6 +131,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Setting up the release post branch and completing all the tasks assigned to the Release Post manager in the Release Post MR template
 - Reviewing and supporting overall content quality and accuracy of all content published in the release post
 - Supporting and checking in with the TW lead and Messaging lead via Slack and a brief weekly standup
+- Onboard the Release Post shadow so they understand the whole process and can contribute to helping with content review and other tasks.
 - Including the Release Post Manager Shadow as much as possible on activities
 - Creating the release post [merge request](#create-the-release-post-mr)
 - Creating MRs to collect [performance improvements and bug fixes](#create-mrs-for-bugs-and-performance-improvements)
