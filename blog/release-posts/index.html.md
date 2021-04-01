@@ -138,7 +138,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
 - Working with VP of Product Management to identify items to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
-- Use [effective slack communication](https://about.gitlab.com/handbook/communication/#slack) as per the handbook, and post each new discussion for the team as a comment on individual thread instead of in the main channel.
+- When communicating with your release post team, use the release post prep channel and organize discussions into threads to make it easier to track conversations. Also, review GitLab's [effective slack communication](https://about.gitlab.com/handbook/communication/#slack) guidance.
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
 - Sending out reminders about upcoming deadlines.
 - Merging master into the release branch on a regular basis to resolve conflicts (do not rebase, please do `git pull origin master`, then `:wq`)
