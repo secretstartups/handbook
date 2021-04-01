@@ -54,7 +54,7 @@ _You can use this template to request access for individuals or multiple people,
 **Step 2. Access Request**
 1. Remove or add lines for the systems you need access to. **Make sure to follow the format from the template (also included below)**. Be as specific as possible with the access you are requesting by adding the role, vault, group, channel or project you are requesting access to.
 1. If administrative access is being granted, add the label admin-access. Request the least amount of access you need as per the [least privilege review](/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege) and explain why you need access in the rationale section.
-1. If the request involves access to systems owned by the Infrastructure team (according to the [tech stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0)), mention @gitlab-com/gl-infra/managers and ask them to approve by adding the ~InfrastructureApproved label.
+1. If the request involves access to systems owned by the Infrastructure team (according to the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml), mention @gitlab-com/gl-infra/managers and ask them to approve by adding the ~InfrastructureApproved label.
 
 ```
 - [ ] System name: Which vault, which group, which channel, which project, which role?
@@ -194,3 +194,11 @@ While this application automation will take place in Okta, "true" system provisi
 
 </div>
 </div>
+
+## Adding Access Request Process for a new item in the Tech Stack
+
+If you need to initiate an Access Request process for a new item in the tech stack:
+
+1. Confirm the tool is added to the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) 
+1. Confirm a team member is included as the `provisioner` `deprovisioner`
+1. Document the requirement to submit an Access Request in any relevant handbook pages
