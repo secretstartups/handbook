@@ -73,3 +73,10 @@ GitLab issue comment reminding the People Experience Associates to removes the r
 
 Currently, the pipeline is scheduled to run everyday at 04:00 AM UTC. It will comment on
 all the offboarding issues created 5 days before the current date.
+
+## Voluntary offboarding email
+
+When a team member voluntarily leaves GitLab, an email going over the offboarding interview and frequently asked questions is automatically sent to them.
+
+The pipeline is scheduled to run every hour and scan the offboarding spreadsheet for new rows since the last run. For each row, an email is sent to the departing team member using different templates depending on the team member's country.
+
