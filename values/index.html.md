@@ -1233,7 +1233,7 @@ New team members should read [GitLab's guide to starting a new remote role](/com
 
 ## Mission
 
-Our [mission](/company/strategy/#mission) is that **everyone can contribute**. This mission guides our path, and we live our values along that path.
+Our [mission](/company/mission-and-vision/#mission) is that **everyone can contribute**. This mission guides our path, and we live our values along that path.
 
 ## Biggest risks
 
