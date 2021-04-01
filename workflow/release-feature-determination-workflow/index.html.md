@@ -50,4 +50,4 @@ The release post MRs must be merged by the 17th of the month. In order to accomm
 
 ### Bugs and Performance Enhancements
 
-Ensure [bug fixes and performance improvements](/handbook/marketing/blog/release-posts/#performance-improvements-and-bug-fixes) are included in the Release Post by committing to the open MRs created by the Release Post Manager.
+Ensure [bug fixes and performance improvements](/handbook/marketing/blog/release-posts/#usability-improvements-performance-improvements-and-bug-fixes) are included in the Release Post by committing to the open MRs created by the Release Post Manager.
