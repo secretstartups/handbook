@@ -15,9 +15,9 @@ description: "This Facilitator Guide is intended to walk you through all importa
 ## Important Links
 
 1. [Master Presentation](https://docs.google.com/presentation/d/1Le0c7vijUOWvOANlQezty5G6oZD-gS8tfaB6eU0lkKg/edit#slide=id.g869c6da966_1_0)
-  - Go to File > Make a Copy > Entire Presentation to save a copy of your deck.
-  - PDF the presentation at the end of the course to send to the client
-  - Save  your copy in the applicable [client folder](https://drive.google.com/drive/u/0/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U)
+    1. Go to File > Make a Copy > Entire Presentation to save a copy of your deck.
+    2. PDF the presentation at the end of the course to send to the client
+    3. Save  your copy in the applicable [client folder](https://drive.google.com/drive/u/0/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U)
 2. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/%20gitbasicshandson.html)
 3. [GitLab Template Projects for VMs](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics)
 4. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
