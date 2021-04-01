@@ -10,6 +10,13 @@ title: "Technical Account Management Handbook"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Mission Statement
+Aligning passionate TAM's with customers to ensure their success by...  
+- Driving progress aligned with their business outcomes
+- Identifying and enabling the customer in their current and future GitLab use cases
+- Expanding ROI with GitLab  
+
+
 ## Handbook Directory
 
 ### TAM Segments & Metrics
