@@ -194,7 +194,7 @@ The key to identifying more GitLab Premium and GitLab Ultimate opportunities is 
 * How many tools do you have to use to understand current status? How long does that take? How does that affect your teams?
     * If this line of questioning reveals challenges in lack of visibility across the DevOps toolchain, position GitLab Premium’s [Operations Dashboard](https://docs.gitlab.com/ee/user/operations_dashboard/index.html#doc-nav) which provides a holistic view of the overall health of an organization's operations
 * How would you assess your level of confidence in how your organization currently manages software deploys? Are there any risks you wish you could mitigate? If so, what are they and why? GitLab Premium offers a multitude of capabilities to allow organizations to deploy with confidence including the below (see the [Why GitLab Premium? page](https://about.gitlab.com/pricing/premium/) for value descriptions of each of these features)
-    * [Multi Project Pipelines](https://docs.gitlab.com/ee/ci/multi_project_pipeline_graphs.html) - Link CI pipelines from multiple projects to deliver integrated solutions
+    * [Multi Project Pipelines](https://docs.gitlab.com/ee/ci/multi_project_pipelines.html) - Link CI pipelines from multiple projects to deliver integrated solutions
     * [Protected Environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html) - Establish controls and limit the access to change specific environments
 
 #### Manage Development
