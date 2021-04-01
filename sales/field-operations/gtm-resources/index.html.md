@@ -295,10 +295,10 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 ### Opportunity Order Type Rules of Engagement 
 **Understanding Order Type Assignment, Rules and Definitions**
 
-**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](/sales/sales-term-glossary/#customer-definitions-for-external-reporting) section of the handbook.   
+**Source of Data:** The account attributes used to properly assign Order Type are defined and explained in the [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary/#customer-definitions-for-external-reporting) section of the handbook.   
 
 **Common Manual Override Scenarios:** Although Order Type is generated automatically on an opportunity, there are common scenarios in which it could require updating via a manual override:
-- [Customers Returning More Than 180 Days After Subscription Term End Date](/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
+- [Customers Returning More Than 180 Days After Subscription Term End Date](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-returning-customers)
 - Refunds
 - Incorrect Parenting/Hierarchies
 
@@ -883,7 +883,7 @@ Customer subscriptions will be moved to cancelled no more than 30 days after the
     - If a customer returns to purchase another GitLab subscription **within 180 days** of the previous subscription term end date, the transaction must be booked under a **Renewal Opportunity**, using a new subscription quote. In this scenario, the following actions should be taken:
         - **Sales**: A new renewal opportunity should be created, and Closed Won with the correct booking values.
         - **Deal Desk**: A second new renewal opportunity should be created, and Closed Lost, where Amount, Net ARR and ARR Basis represent the inverse of the same values on the original Closed Lost opportunity.
-        - In this scenario, the Order Type 2.0 will be [3. Growth](/sales/sales-term-glossary/#growth-customers)
+        - In this scenario, the Order Type 2.0 will be [3. Growth](https://about.gitlab.com/handbook/sales/sales-term-glossary/#growth-customers)
         - Example:
            
             | **Opportunity** | **Stage** | **Net ARR** | **ARR Basis** | **ACV** |
@@ -896,7 +896,7 @@ Customer subscriptions will be moved to cancelled no more than 30 days after the
 
 - **Customers Returning More Than 180 Days After Subscription Term End Date**:
     - If a customer returns to purchase another GitLab subscription **more than 180 days** after the previous subscription term end date, the transaction must be booked under a **New Business Opportunity**.
-        - In this scenario, the original Closed Lost opportunity will not be reversed and the Order Type will be [1. New - First Order](/sales/sales-term-glossary/#first-order-customers) or [2. New - Connected](/sales/sales-term-glossary/#connected-new-customers) based on the Account Family. 
+        - In this scenario, the original Closed Lost opportunity will not be reversed and the Order Type will be [1. New - First Order](https://about.gitlab.com/handbook/sales/sales-term-glossary/#first-order-customers) or [2. New - Connected](https://about.gitlab.com/handbook/sales/sales-term-glossary/#connected-new-customers) based on the Account Family. 
 
 
 ## Opportunity Types
