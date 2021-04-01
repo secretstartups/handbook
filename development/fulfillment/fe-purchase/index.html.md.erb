@@ -77,9 +77,9 @@ These are:
 
 ### Feature Releases
 
-New features for the [CustomersDot](https://customers.gitlab.com) are released using [unleash feature flags](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html). The feature is first enabled on Staging by the engineer responsible for the merge request. The Product Manager and Designer are then assigned to the merge request for review. The label `workflow::verification` should also be added the issue. After receiving approval from reviewers the engineer will set the feature live in production.
+New features for the [CustomersDot](https://customers.gitlab.com) are released using [unleash feature flags](https://docs.gitlab.com/ee/operations/feature_flags.html). The feature is first enabled on Staging by the engineer responsible for the merge request. The Product Manager and Designer are then assigned to the merge request for review. The label `workflow::verification` should also be added the issue. After receiving approval from reviewers the engineer will set the feature live in production.
 
-Complex features can be released using the [percent rollout strategy](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html#percent-rollout-logged-in-users) at the discretion of Engineer, Engineering Manager, or Product Manager responsible for the issue. When using a percent rollout, the initial issue should be closed when the rollout begins, and a new issue should be created to track the progress of the rollout.
+Complex features can be released using the [percent rollout strategy](https://docs.gitlab.com/ee/operations/feature_flags.html#percent-rollout-logged-in-users) at the discretion of Engineer, Engineering Manager, or Product Manager responsible for the issue. When using a percent rollout, the initial issue should be closed when the rollout begins, and a new issue should be created to track the progress of the rollout.
 
 A follow-up issue must be created after features are released which will allow for removal of the feature flag and any code which is deprecated as a result of the new feature. This issue should be completed after feature is determined to be stable.
 
