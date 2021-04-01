@@ -557,7 +557,7 @@ It's also recommended you collaborate with your EM in deciding what to include.
 
 ##### Contributing to Usability Improvements
 
-It's up to the PM's and PD's discretion, in partnership, to decide what to include in a release post as a usability improvement that should be highlighted. This section will be limited to a maximum of 12 line items for consume-ability. We encourage PDs to make sure all items that don't make it into this section to be added to the UI Polish gallery, which is point to from the release post.  
+It's up to the product manager's and product designer's discretion, in partnership, to decide what to include in a release post as a usability improvement that should be highlighted. This section will be limited to a maximum of 12 line items for consume-ability. We encourage PDs to make sure all items that don't make it into this section be added to the UI Polish gallery, which is pointed to from the release post.  
 
 When evaluating what to include consider the following factors:
 
