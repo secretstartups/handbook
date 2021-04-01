@@ -53,6 +53,7 @@ Uses the GitLab API for managing users.
 ### Available Options
 
 - find
+- update_email
 
 #### Obtaining details about a single user
 
@@ -61,6 +62,10 @@ Uses the GitLab API for managing users.
 | **Attribute** | **Type** | **Required** | **Description** |
 | --- | --- | --- | --- |
 | `id` | string | yes | `username` or `email` (primary email address) of the user |
+
+#### Update a User's Primary Email
+
+`/chatops run user update_email <username or current email> <new_eamil@example.com>`
 
 ## Feature Flags
 

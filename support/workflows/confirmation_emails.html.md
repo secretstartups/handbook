@@ -43,9 +43,16 @@ If the user has already correctly chosen the problem type, the automation will a
 
 If the user made a typo:
 
-1. Make sure the account in question has no activity.
-1. When viewing the user in the admin area, click `Edit`.
-1. Fix the email address to the correct one and save your changes.
+1. Make sure the account in question has no activity by checking the following fields are blank/nil:
+    - Confirmed At
+    - Last Login
+    - Last Active At
+1. Edit the email address so that it is the correct one using one of the following methods:
+    - Admin: when viewing the user in admin, click on `Edit`, then `Save` when done.
+    - Chatops
+        - View User: `/chatops run user find <user or email>`
+        - Edit Email: `/chatops run user update_email <username or current email> <new_eamil@example.com>`
+1. Ensure that it now shows the new email.
 
 ### Removing a Suppression in Zendesk
 
