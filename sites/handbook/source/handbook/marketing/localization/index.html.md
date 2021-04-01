@@ -41,13 +41,14 @@ To ensure translated content makes contextual and technical sense, we have inter
 
 #### Process for requesting a review via Smartling
 
-For some languages, a review step is built within the translation process in Smartling. We have internal reviewers that are trained on Smartling to review and send back to the translators if there are any issues. 
+For some languages, a review step is built within the translation process in [Smartling](/handbook/marketing/marketing-operations/smartling). We have internal reviewers that are trained on Smartling to review and send back to the translators if there are any issues. 
 
 Languages that the Smartling step is enabled for:
+
 1. German
 1. Russian
 
-Internal reviewers for these languages that willl review via smartling:
+Internal reviewers for these languages that will review via Smartling:
 
 | Language | Reviewers |
 | -------- | --------- |
