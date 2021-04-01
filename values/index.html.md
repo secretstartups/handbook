@@ -3,8 +3,8 @@ layout: handbook-page-toc
 title: "GitLab Values"
 description: Learn more about how we live our values at GitLab
 canonical_path: "/handbook/values/"
-twitter_image: "/images/opengraph/Talent-Brand/hiring-day-in-the-life-darren.png"
-twitter_image_alt: "GitLab Team Member working from home office, happy to see baby join the video call."
+twitter_image: "images/opengraph/gitlab_values_handbook_social_card.png'"
+twitter_image_alt: "GitLab Values featuring six unique tanuki icons expressing our values. Collaboration: two tanukis together. Results: a tanuki with a bar graph. Efficency: a tanuki with a clock face. Diversity, inclusion and belonging: a rainbow tanuki. Iteration: a tanuki with arrows cycling the head. Transparency: a semi-transparent tanuki that looks like it's made of glass."
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 
@@ -118,7 +118,7 @@ Give recognition generously, in the open, and often to [generate more engagement
 ##### Get to know each other
 {:.no_toc}
 We use a lot of [text-based communication](/company/culture/all-remote/effective-communication/), and if you know the person behind the text, it will be easier to prevent conflicts.
-So we encourage people to get to know each other on a personal level through our [Take A Break Call](/handbook/communication/#take-a-break-call), virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/company/culture/contribute/).
+So we encourage people to get to know each other on a personal level through our [Take A Break Call](/handbook/communication/#take-a-break-call), virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/events/gitlab-contribute/).
 
 ##### Don't pull rank
 {:.no_toc}
@@ -945,6 +945,11 @@ We document what is [not public by default](/handbook/communication/#not-public)
 Being direct is about being transparent with each other. We try to channel our inner [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz) by being [both straightforward
 and kind, an uncommon cocktail of no-bullshit and no-asshole](https://medium.com/@producthunt/ben-horowitz-s-best-startup-advice-7e8c09c8de1b). Feedback is always about your work and not your person. That doesn't mean it will be easy to give or receive it.
 
+##### Value dissent
+
+In a group setting, participants may [disagree](/handbook/values/#disagree-commit-and-disagree) with a proposal but not articulate their views for one reason or another. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement, however, it can be difficult and even socially expensive.
+Expression of feedback is a way for everyone to grow and learn, and is [based on facts rather than opinions](https://hbr.org/tip/2018/04/good-feedback-is-based-on-facts-not-your-opinion). Share your perspective, rather than agreeing simply to avoid conflict or to go along with everyone else.
+
 ##### Articulate when you change your mind
 {:.no_toc}
 If you state one thing, and then change course and support a different direction, point, or outcome, articulate this. It is OK to have your position changed by new data. Articulating that an *earlier* stance is not your *current* stance provides clarity to others and encourages data-driven decision making. 
@@ -1181,7 +1186,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/).
 1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
-1. Giving value awards during [Contribute](/company/culture/contribute/).
+1. Giving value awards during [Contribute](/events/gitlab-contribute/).
 1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
 1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values. 
 1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
