@@ -39,7 +39,7 @@ Occasionally an AMA might be held for a smaller audience. It is encouraged for a
 
 #### Team Member Initiated
 
-#### Scheduling an AMA
+#### Scheduling an Reverse AMA
 
 AMAs are generally coordinated, scheduled, and planned by the [Executive Business Administrator](https://about.gitlab.com/handbook/eba/) team when an E-Group member is the host. Anytime that an AMA is to be hosted by an executive, VP, or Director at GitLab, it should be arranged and scheduled by that functions EBA. AMAs of Board Members are scheduled by the Staff EBA to the CEO.
 
