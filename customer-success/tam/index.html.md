@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Technical Account Management Handbook"
+description: "The Technical Account Management team at GitLab is a part of the Customer Success department, activing as trusted advisors to our customers and helping them realize value faster."
 ---
 
 ## On this page
@@ -48,13 +49,14 @@ Aligning passionate TAM's with customers to ensure their success by...
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
 - [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-enablement-and-expansion/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
-   - [Tracking Adoption with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
+   - [The Customer Value Received with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
+   - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+   - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
-- [Product Usage Data](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
-- [Customer Use Case Adoptiom](/handbook/customer-success/product-usage-data/use-case-adoption/)
+
 
 
 ##### Digital Journey:
