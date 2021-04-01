@@ -1004,7 +1004,7 @@ The first paragraph is the one that catches the eyes of the reader, it should be
 
 The following paragraphs should highlight the business value of top 3 features and link to the feature description (link using the feature headings' anchors). It's important to highlight the pain points solved and the value the feature provides.
 
-A final paragraph can give a shout out to additional features encouraging the reader to read the full release notes to learn about all the features have that shipped. It should include the total number of new features being released, including bugs, usablity improvements, performance improvements, and contributions from non-DevOps stages like Enablement. All of these should be listed in the release post, either as headers or bullet points.
+A final paragraph can give a shout out to additional features encouraging the reader to read the full release notes to learn about all the features have that shipped. It should include the total number of new features being released, including bugs, usability improvements, performance improvements, and contributions from non-DevOps stages like Enablement. All of these should be listed in the release post, either as headers or bullet points.
 
 @mention the PMs whose features are included the intro and ask them to review.
 
