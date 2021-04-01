@@ -14,7 +14,7 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ## Important Links
 
-1. [Master Presentation](https://docs.google.com/presentation/d/1Le0c7vijUOWvOANlQezty5G6oZD-gS8tfaB6eU0lkKg/edit#slide=id.g869c6da966_1_0)-
+1. [Master Presentation](https://docs.google.com/presentation/d/1Le0c7vijUOWvOANlQezty5G6oZD-gS8tfaB6eU0lkKg/edit#slide=id.g869c6da966_1_0)
   - Go to File > Make a Copy > Entire Presentation to save a copy of your deck.
   - PDF the presentation at the end of the course to send to the client
   - Save  your copy in the applicable [client folder](https://drive.google.com/drive/u/0/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U)
