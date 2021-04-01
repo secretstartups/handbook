@@ -318,7 +318,7 @@ faster.
 
 Every GitLab projects comes with a container registry. That means there is no
 need for elaborate configuration to be able to use and push container images in
-CI. Rather, all you have to do is use a [pre-defined](https://docs.gitlab.com/ee/user/project/container_registry.html)
+CI. Rather, all you have to do is use a [pre-defined](https://docs.gitlab.com/ee/user/packages/container_registry/index.html)
 variable in
 your CI configuration file (`.gitlab-ci.yml`).
 
