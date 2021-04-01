@@ -786,7 +786,7 @@ If you want only the release number to be dark, uncomment
 These two variables work independently; you can assign either of them
 or both of them to the same post.
 
-Note: Because there are no individual TW reviewers for the performance improvements and bug fixes (#performance-improvements-and-bug-fixes) content block MRs, Engineering Managers and Product Managers will contribute to MRs created by the Release Post Manager. The MR will be assigned to the TW Lead by the 16th to review, mark with Ready label and assign to the Release Post Manager to merge.
+Note: Because there are no individual TW reviewers for the performance improvements and bug fixes (#usability-improvements-performance-improvements-and-bug-fixes) content block MRs, Engineering Managers and Product Managers will contribute to MRs created by the Release Post Manager. The MR will be assigned to the TW Lead by the 16th to review, mark with Ready label and assign to the Release Post Manager to merge.
 
 #### Bugs MR
 
