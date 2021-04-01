@@ -555,7 +555,7 @@ It's the PMs discretion on which bugs or performance improvements to include in 
 
 It's also recommended you collaborate with your EM in deciding what to include.
 
-#### Contributing to Usability Improvements
+##### Contributing to Usability Improvements
 
 It's up to the PM's and PD's discretion, in partnership, to decide what to include in a release post as a usability improvement that should be highlighted. This section will be limited to a maximum of 12 line items for consume-ability. We encourage PDs to make sure all items that don't make it into this section to be added to the UI Polish gallery, which is point to from the release post.  
 
