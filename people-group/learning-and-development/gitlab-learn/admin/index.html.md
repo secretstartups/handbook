@@ -10,22 +10,21 @@ title: GitLab Learn Admin Documentation
 {:toc .hidden-md .hidden-lg}
 
 
-## Navigating GitLab Learn Admin Content
+# Navigating GitLab Learn Admin Content
 
-On this page, team members working in the GitLab Learn platform and GitLab Learning Evangelists will find documented processes and best practices for content creation. The page is split into two important sections.
+On this page, team members working in the GitLab Learn platform will find documented processes and best practices for content creation. The page is split into the following sections.
 
-| Section Number | Title | Purpose |
-| ----- | ----- | ----- | 
-| 1 | [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | This section will outline best practices for creating on brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
-| 2 | [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | This section outlines written and demonstrated processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
-| 3 | [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | TBD|
+| Title | Purpose |
+| ----- | ----- | 
+| [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | Outlines best practices for creating on brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
+| [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | Outlines processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
+| [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | Includes key links and trainings in EdGraph |
+| [Moderation](/handbook/people-group/learning-and-development/gitlab-learn/admin/#moderation) | TBD |
+| [Support](/handbook/people-group/learning-and-development/gitlab-learn/admin/#support)| Includes support workflows for users and templates for contacting EdCast support |
 
+Questions? Please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 ## Best practices for content creation and organization
-
-These best practices are iterative and will continuously update. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. EdCast admins and team members should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform for content creation and curation. 
-
-If EdCast admins have questions about best practices in the LXP or need support in making decisions about how to upload and organize their content, please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 If you're just getting started using EdCast, watch this short overview of the user experience in the platform and how new learning content fits into this design.
 
@@ -63,6 +62,10 @@ Before reviewing the documented best practices below, take time to watch these r
 1. SmartCards created in a Pathway or Journey are only discoverable from within that pathway or Journey. Create SmartCards with quizzes, polls, or other action items from learners from within the Journey or Pathway
 1. Create content based SmartCards independently from a Journey or Pathway so that content can be repurposed and discovered
 1. Always set an estimated time to finish for each SmartCard, as this is used to give an accurate guess on how long the content will take to consume
+
+Check out this video of a few of these SmartCard best pracitces in action:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bORBlaaOwD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Pathways
 
