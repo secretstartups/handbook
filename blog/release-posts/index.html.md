@@ -339,7 +339,7 @@ The due dates for various reviews across all participants can be found on the [r
 
 Keeping an eye on the various content reviews (TW, PMM and Director) for the individual release post items (content block MRs) is the responsibility of PM contributor. However, it is recommended that the Release Post Manager keep an eye on how many items are not yet marked with the Ready label on the 10th of the month or not yet merged on the 16th of the month, and check in with PMs in Slack Release Post channel to support and clear hurdles if needed. A really easy way to do this is to keep your eyes on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and copy edit and link check items as new items appear. It's also important to do this because this page is LIVE to users and should be error free.
 
-The content review of the usability, performance improvements and bug fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
+The content review of the Usability, Performance improvements, and bug fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
 
 The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, usability, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
 
