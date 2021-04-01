@@ -80,7 +80,7 @@ Note that job artifacts are available for all dbt run jobs. These include the co
 
 These jobs run against the primary `RAW` database.
 
-Most dbt run jobs can be parameterized with a variable specifying dbt model that requires testing. Watch [this this intro](https://youtu.be/l14N7l-Sco4) to see an example of how to set the variable.
+Most dbt run jobs can be parameterized with a variable specifying dbt model that requires testing. Watch [this intro](https://youtu.be/l14N7l-Sco4) to see an example of how to set the variable.
 
 The variable `DBT_MODELS` is a stand-in for any of the examples in [the dbt documentation on model selection syntax](https://docs.getdbt.com/docs/model-selection-syntax#section-specifying-models-to-run).
 
@@ -185,7 +185,7 @@ Runs only schema tests
 
 #### snapshots
 
-Runs snapshots. This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run.
+Runs snapshots. This jobs runs against the clone of `RAW`. Requires the `clone_raw_full` job to have been run.
 
 #### specify_tests
 
