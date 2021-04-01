@@ -64,6 +64,16 @@ There are two more states an issue can be placed in:
 - `Workflow::Blocked`: These issues are either blocked by another issue or by missing API endpoints. The People
 Ops Engineer always adds the reason why an issue is moved to blocked.
 
+#### Milestones
+We plan everything in monthly milestones. Every new milestone, starts at the beginning of the month. The first day of the
+milestone, someone in the People Engineering team will post a summary of the past milestone in #people-group on Slack. This
+should contain the main items we've worked on. If important issues weren't finished, this is also the place to communicate 
+this. In the same summary, we also add the big next month tickets and paste a URL to the board with the milestone.
+
+At the start of the milestone, all tickets we aim to finish within the milestone should be labeled with the `Deliverable`
+label. That way we can easily see the difference between scheduled vs unplanned work. If a `Deliverable` ticket can't be
+wrapped up during the milestone, we should communicate this as soon as possible to the stakeholders. 
+
 ### Review process
 1. Assign your merge request to anyone in the People Group Engineering team
 1. They will review it. Once the review is done, they will assign it back to you.
