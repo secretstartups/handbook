@@ -1,9 +1,3 @@
----
-layout: handbook-page-toc
-title: Allocadia
-description: Allocadia is Marketing Performance Management Software.
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
