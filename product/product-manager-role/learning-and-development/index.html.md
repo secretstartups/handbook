@@ -40,7 +40,11 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 ## Broad Product Management Learning Content 
 
+This content is divided into five key competencies for Product Managers. You can jump to the section you are interested in.<br><br>
 
+**💡 [Discovery](/handbook/source/handbook/product/product-manager-role/learning-and-development/index.html.md?from_merge_request_iid=78873#-discovery)  |  ✏️ [Design](/learning-and-development/index.html#design) |  🚀 Delivery  |  💬 Communication  |  🤝 Team Management**
+
+## 💡 Discovery
 ### Discovery: User Research
 
 ##### Quick reads and videos
