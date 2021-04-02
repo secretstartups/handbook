@@ -613,6 +613,20 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 1. Add a badge name
 1. Click the `done` button
 
+### Changing user permissions
+
+GitLab team members can complete the [Learning Evangelist or Learning Curator pathways](/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions/) to earn `Learning Evangelist` status in GitLab Learn. This role will enable team members to create and curate existing and new content for audiences on GitLab Learn.
+
+Team members can also request accedd to view EdGraph reports.
+
+After a team member has completed the Access Request process for any elevated permissions beyond the basic `member` role:
+
+1. Confirm the user has earned the Learning Evangelist badge by navigating to their profile. The easier way to do this is from the admin panel. Go to `Accounts` -> `Users` then search for the user using their email. From here, click on the user's name, which will redirect you to their account in GitLab Learn.
+1. Review the `Badges` section for the Learning Evangelist or Learning Curator badge. If the badge appears here, then the user has completed the learning path. This step does not apply for the EdGraph access.
+1. Return to the admin panel. Still in the `Users` section, relocate the user. Click on `Role`. This should show the current roles this user has.
+1. Under their current roles, there is the option to `Add New Role`. In the drop down menu, select `Learning Evangelist`, `Learning Curator` or `Edgraph` then hit `Save`.
+1. Alert the user they now have Learning Evangelist permissions in GitLab Learn and can begin contributing content. If they need support, remind them to reach out in the #learninganddevelopment Slack channel.
+
 
 
 ## Reporting
