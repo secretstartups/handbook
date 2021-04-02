@@ -22,14 +22,17 @@ Over time, we will add content to directly support GitLab's product management [
 
 These books are highly recommended to be read by every product manager at GitLab:
 
-- **[Marty Cagan: Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)** Provides a generic overview about Product Management
-     - [Related live talk by author](https://www.mindtheproduct.com/video-the-root-causes-of-product-failure-by-marty-cagan/)
+- **[Marty Cagan: Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)** <br>
+Provides a general overview of Product Management <br>
+[Related live talk by author](https://www.mindtheproduct.com/video-the-root-causes-of-product-failure-by-marty-cagan/)
 
-- **[Melissa Perry: Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/)** Describes how to build and operate a successful product team
-     - [Related live talk by author](https://www.mindtheproduct.com/escaping-build-trap-melissa-perri/)
+- **[Melissa Perry: Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X/)** <br>
+Describes how to build and operate a successful product team <br>
+[Related live talk by author](https://www.mindtheproduct.com/escaping-build-trap-melissa-perri/)
 
-- **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
-     - <iframe width="560" height="315" src="https://www.youtube.com/embed/RSaIOCHbuYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** <br>
+Discusses how to leverage efficiency to achieve optimal outcomes. <br> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RSaIOCHbuYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### GitLab Specific Competencies and Content 
 
@@ -61,7 +64,7 @@ These books are highly recommended to be read by every product manager at GitLab
 - [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 - [Erika Hall: Just Enough Research](https://abookapart.com/products/just-enough-research)
 
-### Discover: Customer Interviewing
+### Discovery: Customer Interviewing
 
 ##### Quick reads and videos
 
