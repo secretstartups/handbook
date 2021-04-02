@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Upsell Premium to Ultimate sales play"
+title: "Upsell Premium to Ultimate sales play planner"
 description: "description to add"
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
