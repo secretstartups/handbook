@@ -351,7 +351,6 @@ Each Certification track offers unique benefits that help partners better prepar
    <td>LXP Class Scheduling (future): add public training events into our LXP for visibility to a broader customer base.
    </td>
   </tr>
-  <tr>
 </table>
   
 
@@ -416,6 +415,7 @@ Each Certification track offers unique benefits that help partners better prepar
    <td>
    Eligible to provide subcontracting services to GitLab Education Services
    </td>
+  </tr>
 </table>
 
 
