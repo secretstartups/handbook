@@ -655,11 +655,6 @@ These training materials are for team members who need to access custom reports 
 1. [PBP training for DIB certification completions](https://drive.google.com/drive/folders/1t4YCkrqoGYrfOTJA1DeMkGhQyEW-PJwZ?usp=sharing)
 
 
-## Moderation
-
-Moderation and CoC workflows are being determiend by the LXP implementation team and will be documented in future iterations.
-
-
 ## Support
 
 ### Temporary Support Model
@@ -784,7 +779,7 @@ Important considerations when responding to questions in the forum:
 1. Whenever possible, link back to the [GitLab Learn user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) in your response. If the information you're sharing isn't documented on that page, add it.
 1. Review other ways to [use and interact with users on the forum](/handbook/marketing/community-relations/community-operations/#forum-uses)
 
-### Code of Conduct Moderation
+## Moderation
 
 Users on the GitLab Learn platform are expected to follow our [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). The following processes will be implemented to enforce our CoC when violated on the GitLab Learn platform.
 
