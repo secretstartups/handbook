@@ -4,7 +4,8 @@ title: "FY22 Population for Government Segmentation"
 description: "THIS PAGE IS OUTDATED - DO NOT USE"
 ---
 
-THIS PAGE IS OUTDATED - DO NOT USE
+**THIS PAGE IS OUTDATED - DO NOT USE**
+
 Country population as used to determine FY22 Government Segmentation. This data is frozen for FY22 account planning and will next be reviewed for FY23 planning and segmentation.
 
 | Country (or dependency) | Population (2020) | Segment |
