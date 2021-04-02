@@ -254,17 +254,19 @@ graph TB
 
 #### Posting in #company-fyi
 
-Our company wide announcements channel is **#company-fyi**.
-It is an **announcement only** channel, meaning that communications need to be approved before they can be posted.
+Our companywide announcements channel is **#company-fyi**.
+It is an **announcement only** channel, meaning that communications need to be approved before they can be posted. To minimize noise, announcements made in `#company-fyi` should not be duplicated in `#whats-happening-at-gitlab`. Be mindful of the [attention economy](https://en.wikipedia.org/wiki/Attention_economy).
 
-In order to post or have a message posted in #company-fyi, please reach out to your function's executive who can approve the message and post it.
+In order to post or have a message posted in `#company-fyi`, please reach out to [the internal communications team](/handbook/communication/internal-communications/) or your function's executive who can approve the message and post it.
 
 1. Examples of what **should not** go in **#company-fyi** (as per new group guidelines):
     1. Competition prize winner announcements.
     1. Org change or new team member announcements (unless they are E-group).
-    1. Promotion of an optional non-company wide internal event.
+    1. Promotion of an optional non-companywide internal event.
+    1. Announcement that directly impacts less than 75% of team members
+    1. Actions required from team members is not critical or timely
 
-**The above should now all go in the new #whats-happening-at-GitLab channel** (formerly the #company-announcement channel).
+**The above should all go in the new #whats-happening-at-GitLab channel** (formerly the `#company-announcement` channel).
 
 #### Posting in #whats-happening-at-gitlab
 
