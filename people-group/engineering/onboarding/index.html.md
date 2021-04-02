@@ -264,6 +264,8 @@ at their job title. If it **starts** with any of the following:
 - `Senior Manager`
 - `Director`
 - `Senior Director`
+- `Chief`
+- `VP`
 
 We also consider the person a people manager when the job title **ends** with:
 
