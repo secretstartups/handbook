@@ -183,7 +183,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
   </tr>
 </table>
 
-<br>
+
  ### GitLab Certified Training Partner Requirements  
 
 <div align= "center"><img src="/images/channel-service-program/gitlab-training-services-partner.png" width="200" alt="GitLab Certified Service Partner Program" title="image_tooltip"></div>
@@ -224,8 +224,8 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
      <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professional</a> 
      <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
      <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> 
-     <br>.     · Each trainer must be certified in delivering the <a href="https://about.gitlab.com/services/education/gitlab-basics/">GitLab with Git Basics Training</a>
-     <br>.     · Each CTP organization must be able to deliver at least three (3) GitLab courses
+     <br>     · Each trainer must be certified in delivering the <a href="https://about.gitlab.com/services/education/gitlab-basics/">GitLab with Git Basics Training</a>
+     <br>     · Each CTP organization must be able to deliver at least three (3) GitLab courses
      </td>
   </tr>
   <tr>
@@ -247,8 +247,8 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
      <br>* Hire and continually employ team members who achieve and maintain the competency requirements
      <br>* Ensure that GitLab licensed courses are only be delivered by a GitLab Certified Trainer who is certified for that specific course   
      <br>* Maintain Customer Satisfaction (CSAT) score for training deliveries of at least 80%
-     <br>.  · CSAT = (Number of satisfied customers - 4s and 5s) ÷ (Number of survey responses) x 100
-     <br>.  · Customer Satisfaction Surveys must be supplied prior to 30 days of the course delivery completion date
+     <br>  · CSAT = (Number of satisfied customers - 4s and 5s) ÷ (Number of survey responses) x 100
+     <br>  · Customer Satisfaction Surveys must be supplied prior to 30 days of the course delivery completion date
      <br>* Submit service attach registration for each GitLab licensed training engagement within 30 days of the delivery completion date
      </td>
   </tr>
@@ -269,7 +269,7 @@ Each Certification track offers unique benefits that help partners better prepar
    <td colspan="4" >
 
 
-GitLab recognizes the important role our partners play in delivering value and services to our joint customers. To ensure partners have the latest sales and technical knowledge about our products, we offer many different training opportunities and technical resources. Partners can learn in a self-paced environment, on-line as well as various in-person, instructor-led classes. Training Benefits give partners the opportunity to pursue accreditations and certifications.
+   GitLab recognizes the important role our partners play in delivering value and services to our joint customers. To ensure partners have the latest sales and technical knowledge about our products, we offer many different training opportunities and technical resources. Partners can learn in a self-paced environment, on-line as well as various in-person, instructor-led classes. Training Benefits give partners the opportunity to pursue accreditations and certifications.
    </td>
   </tr>
   <tr>
@@ -309,17 +309,19 @@ GitLab recognizes the important role our partners play in delivering value and s
    </td>
   </tr>
 </table>
-  ### Marketing Benefits
+  
+### Marketing Benefits
+
 <table>
   <tr>
    <td colspan="4" >
 
 
-GitLab Open and Select partners have access to the proposal-based <a href="https://about.gitlab.com/handbook/resellers/#the-marketing-development-funds-mdf-program">GitLab Marketing Development Funds (MDF) Program</a>, which provides funding support for eligible marketing and partner enablement activities. Select partners who are also GitLab Certified Service Partners will have the highest visibility in the market. 
+   GitLab Open and Select partners have access to the proposal-based <a href="https://about.gitlab.com/handbook/resellers/#the-marketing-development-funds-mdf-program">GitLab Marketing Development Funds (MDF) Program</a>, which provides funding support for eligible marketing and partner enablement activities. Select partners who are also GitLab Certified Service Partners will have the highest visibility in the market. 
    </td>
   </tr>
   <tr>
-   <td rowspan="4" >Services Related Marketing Benefits
+   <td rowspan="5" >Services Related Marketing Benefits
    </td>
    <td>Open/Select
    </td>
@@ -329,11 +331,11 @@ GitLab Open and Select partners have access to the proposal-based <a href="https
    </td>
   </tr>
   <tr>
-   <td colspan="4" >MDF is available to help partners promote service offerings.
+   <td colspan="3" >MDF is available to help partners promote service offerings.
    </td>
   </tr>
   <tr>
-   <td colspan="4" >Partner Locator: find partners with capabilities to address specific outcomes.
+   <td colspan="3" >Partner Locator: find partners with capabilities to address specific outcomes.
    </td>
   </tr>
   <tr>
@@ -350,7 +352,10 @@ GitLab Open and Select partners have access to the proposal-based <a href="https
   </tr>
   <tr>
 </table>
-  ### Sales Acceleration
+  
+
+### Sales Acceleration
+
 <table>
    <td colspan="4" >
 
