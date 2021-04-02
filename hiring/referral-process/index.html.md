@@ -93,7 +93,7 @@ You can stay up-to-date on the status of your referral(s) in the **My Referrals*
 
 Although we place special emphasis on Referrals, we treat Referral interviews the same as we do non-Referrals. Referral interviews should not be more or less demanding than any other interview.
 
-Additionally, it's possible that a Referral could be rejected prior to any other communication from the *Talent Acquisition Team*.
+Additionally, it's possible that a Referral could be marked as Rejected in Greenhouse prior to any other communication from the Talent Acquisition Team. If you'd like to share an update on the hiring process with your Referral, please reach out to the Talent Acquisition Team first.
 
 To prevent wrongful hires, Referrers need to keep their bar high. Interviewers and Hiring Managers should avoid bias based on the Referrer's status. There should be **no** favoritism based on previous experience working with a Referral after the candidate is hired.
 
