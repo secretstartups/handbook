@@ -185,77 +185,77 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
 
 <br>
  ### GitLab Certified Training Partner Requirements  
+
 <div align= "center"><img src="/images/channel-service-program/gitlab-training-services-partner.png" width="200" alt="GitLab Certified Service Partner Program" title="image_tooltip"></div>
 
-   <table>
+<table>
+  <tr>
+     <td>
+
+     <h3>Program Entry Requirements</h3>
+
+     </td>
+     <td>· This certification is  by invitation only, please work with your CAM on a business case if you are interested
+     <br>Each invited CTP must:
+
+
+     <br>· Be a GitLab Open or Select GitLab Partners
+
+
+     <br>· Design, build and operate a training services practice
+     <br>· Complete the CTP contract Master Service Agreement and legal exhibit
+     <br>· Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements
+     <br>· Get setup on Edcast and participate in onboarding to access the course catalog
+
+
+     </td>
+  </tr>
+  <tr>
+     <td>
+     <h3>Competency Requirements</h3>
+     </td>
+     <td>
+      
+     Each CTP must perpetually employ:
+
+
+
+
+     <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professional</a> 
+     <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
+     <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> 
+     <br>.     · Each trainer must be certified in delivering the <a href="https://about.gitlab.com/services/education/gitlab-basics/">GitLab with Git Basics Training</a>
+     <br>.     · Each CTP organization must be able to deliver at least three (3) GitLab courses
+     </td>
+  </tr>
   <tr>
       <td>
-
-<h3>Program Entry Requirements</h3>
-
-      </td>
-      <td>· This certification is  by invitation only, please work with your CAM on a business case if you are interested
-      <br>Each invited CTP must:
-
-
-<br>· Be a GitLab Open or Select GitLab Partners
-
-
-<br>· Design, build and operate a training services practice
-<br>· Complete the CTP contract Master Service Agreement and legal exhibit
-<br>· Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements
-<br>· Get setup on Edcast and participate in onboarding to access the course catalog
-
-
-      </td>
-   </tr>
-   <tr>
-      <td>
-      <h3>Competency Requirements</h3>
+      <h3>Service Offerings</h3>
       </td>
       <td>
-      
-      Each CTP must perpetually employ:
-
-
-
-
-<br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Professional</a> 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
-<br>*   at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> 
-<br>.     · Each trainer must be certified in delivering the <a href="https://about.gitlab.com/services/education/gitlab-basics/">GitLab with Git Basics Training</a>
-<br>.     · Each CTP organization must be able to deliver at least three (3) GitLab courses
- </td>
- </tr>
- <tr>
- <td>
- <h3>Service Offerings</h3>
- </td>
- <td>
- Any are all of the following services can be provided by a CTP: 
- <br>* Training Services
- <br>* Subcontract trainers to <a href="https://about.gitlab.com/services/education/">GitLab Education Services</a>
- </td>
- </tr>
- <tr>
- <td>
- <h3>Compliance Requirements</h3>
- </td>
- <td>
- Each CTP must:
- <br>* Hire and continually employ team members who achieve and maintain the competency requirements
- <br>* Ensure that GitLab licensed courses are only be delivered by a GitLab Certified Trainer who is certified for that specific course   
- <br>* Maintain Customer Satisfaction (CSAT) score for training deliveries of at least 80%
- <br>.  · CSAT = (Number of satisfied customers - 4s and 5s) ÷ (Number of survey responses) x 100
- <br>.  · Customer Satisfaction Surveys must be supplied prior to 30 days of the course delivery completion date
- <br>* Submit service attach registration for each GitLab licensed training engagement within 30 days of the delivery completion date
- </td>
- </tr>
+      Any are all of the following services can be provided by a CTP: 
+      <br>* Training Services
+      <br>* Subcontract trainers to <a href="https://about.gitlab.com/services/education/">GitLab Education Services</a>
+      </td>
+  </tr>
+  <tr>
+     <td>
+     <h3>Compliance Requirements</h3>
+     </td>
+     <td>
+     Each CTP must:
+     <br>* Hire and continually employ team members who achieve and maintain the competency requirements
+     <br>* Ensure that GitLab licensed courses are only be delivered by a GitLab Certified Trainer who is certified for that specific course   
+     <br>* Maintain Customer Satisfaction (CSAT) score for training deliveries of at least 80%
+     <br>.  · CSAT = (Number of satisfied customers - 4s and 5s) ÷ (Number of survey responses) x 100
+     <br>.  · Customer Satisfaction Surveys must be supplied prior to 30 days of the course delivery completion date
+     <br>* Submit service attach registration for each GitLab licensed training engagement within 30 days of the delivery completion date
+     </td>
+  </tr>
 
 </table>
 
 
-<br>
 ## GitLab Certified Service Partner Program Benefits
 
 There is significant business opportunity for partners to offer and deliver GitLab enabled services, and in order to ensure there is consistent customer experience throughout the market we offer Service Partners certifications.
