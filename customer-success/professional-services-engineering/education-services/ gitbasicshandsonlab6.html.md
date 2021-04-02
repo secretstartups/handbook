@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab with Git Basics Hands On Guide- Lab 6
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 6- SECURITY SCANNING (SAST)
 Application Security Testing (SAST) allows you to analyze your source code for known vulnerabilities. GitLab checks the SAST report and compares the found vulnerabilities between the source and target branches. The purpose of this lab is to run a SAST to identify potential security vulnerabilities in your pipeline. 
 ### Navigate to the CI-Test Project  
