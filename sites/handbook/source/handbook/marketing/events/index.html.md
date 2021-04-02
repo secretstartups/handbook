@@ -68,60 +68,6 @@ If your event fits the criteria above and you would like support from marketing,
 
 Be sure you review the issue template and provide all necessary information that is asked of you in the issue. We especially need goals/ reason to attend.
 
-## How We Evaluate and Build Potential Events
-
-All GitLab events must check at least drive two or more of the aims of our events below to be considered.
-
-- Brand awareness- we want to be a household name by 2020!
-- Build community
-- Gain contributors
-- Thought leadership
-- Help with hiring
-- Gather new relevant leads/ drive ROI
-- Educate possible buyers or users on our product or features
-- Marketplace positioning
-- Partnerships/ Alliances
-
-### Corporate events must also meet:
-{:.no_toc}
-
-- Audience minimum requirement of 5000+ attendees NA, 3,000+ EMEA, 1500+ other territories and...
-- Audience demographic requirements. We consider the balance of roles represented (contributor, user, customer, potential hires), and the Global reach of the audience. Audience profile must be over 50% national/ global.
-
-## Questions we ask ourselves when assessing an event:
-
-- How and where will this position us as a brand?
-- Does this event drive business goals forward in the next quarter? Year?
-- Is the event important for the industry, thought leadership, or brand visibility? We give preference to events that influence trends and attract leaders and decision makers. We also prioritize events organized by our strategic partners.
-- Will there be a GitLab speaker? We do not require a speaker slot in return for sponsorship but we do prioritize events where the audience will be hearing about GitLab - either from a GitLab team-member or a member of the wider GitLab community.
-- What type of people will be attending the event? We prefer events attended by diverse groups of decision makers with an interest in DevOps, DevSecOps, Cloud Native, Kubernetes, Serverless, Multi-cloud, CI/CD, Open Source, and other related topics.
-- Will we be able to interact with attendees? We stress events that provide opportunities for meetings, workshops, booth and/or stands to help people find us, as well as create other interactions with attendees.
-- Where will the event be held? We aim to have a presence at events around the globe with a particular focus on areas with large GitLab communities and large populations of support.
-- What is the size of the opportunity for the event? We prioritize events based their potential reach (audience size, the number of interactions we have with attendees) and potential for ROI (also account for cycyle time).
-- What story do we have to tell here and how does the event fit into our overall company strategy, goals, and product direction?
-- Do we have the bandwidth and resources to make this activity a success? Do we have the cycles, funds, collateral and runway to invest fully and make the event as successful as possible? Event must be weighed against other current activity in region and department.
-
-Suggested events will be subject to a valuation calculation - will it meet or exceed objectives listed above?
-
-### For Corporate Marketing - Event Scorecard
-
-Each question above is graded on a scale of 0-2. We then tally the scores and assign the event to a sponsorship tier.
-
-- Events scoring below 8 are not eligible for corporate sponsorship or financial support.
-- Events scoring 10+ are given top priority for staffing, and resources.
-
-| Criteria / Score | 0 | 1 | 2 |
-| ---------------- | --- | --- | --- |
-| Thought Leadership |  |  |  |
-| Audience type |  |  |  |
-| Attendee interaction |  |  |  |
-| Location and Timing |  |  |  |
-| Event Relevance/ Strategy |  |  |  |
-| Brand Reach |  |  |  |
-| Opportunity size/ Potential ROI |  |  |  |
-
-We ask these questions and use this scorecard to ensure that we're prioritizing the GitLab's brand and our community's best interests when we sponsor events.
-
 ## Event Execution
 
 ### Step 1- Issue Creation
@@ -210,27 +156,26 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 ```
 ## Event Details
 
-*Reminder: please only use this template for in-person events*
-
-* `place details from the event issue here`
-  * [main salesforce campaign]()
-  * [main marketo program]()
-  * campaign utm `enter utm here` (Format: Campaign Tag, must be all lowercase, with no spaces, underscores, or special characters)
+* `Place details from the event issue here`
+  * Event DRI: 
+  * [Main salesforce campaign]()
+  * [Main marketo program]()
+  * Marketo program type: 
+  * Campaign utm `enter utm here` (Format: Campaign Tag, must be all lowercase, with no spaces, underscores, or special characters)
   * Event Budget: 
   * Event Goals: 
   * [Add the planning sheet]()
   * Link to event landing page:
+  * Related GTM motions (sleect allt hat apply)
+         * [ ]  CI
+         * [ ]  DevOps  
+         * [ ]  GitOps               
 
 ## [Copy for landing page and emails >>]() - [template](<a href="https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit">https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit</a>)
 
 * Alliances/Partner Marketing involved - (if yes, must designate a DRI)
-* Will this event include use of Marketing Development Funds (MDFs)? YES/NO
-   * if yes, please tag Tina Sturgis here, and complete the section below
-        * [ ]  MDF request completed by FMM and sent to Tina at least 1 quarter out
-        * [ ]  event accepted for use of MDF (tag Tina here for her to approve)
-        * [ ]  receipt submitted post event
-        * [ ]  proof of payment submitted
-        * [ ]  leads submitted 
+* Will this event include use of Marketing Development Funds (MDFs)? YES/NO 
+   * [Requesting MDF Funds](<a href="https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#requesting-mdf-funds"</a>)
 
 ## Issues to be created
 
