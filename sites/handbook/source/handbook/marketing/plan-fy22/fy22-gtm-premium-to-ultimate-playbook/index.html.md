@@ -4,9 +4,14 @@ title: "FY22 GTM Sales Play - Premium to Ultimate"
 ---
 ## Context (campaign promise/offer) 
 
-Objective to convert landed accounts that are already using CI/CD to expand from premium to ultimate. This play is fyi only for SDRs because it is upselling tiers, not necessarily expanding seats.
+Objective to convert landed accounts that are already using CI/CD to expand from premium to ultimate. This play is fyi only for SDRs because it is upselling tiers, not necessarily expanding seats. 
 
-Marketing is targeting a campaign at these accounts: (as of 2021-03-22): https://gitlab.my.salesforce.com/00O4M000004akG8. XYZ persona will receive an email inviting them to zzz web page (or collateral or offer). (See [this epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1901)for details.)
+Related sales enablement content: 
+* [SKO Expanding to Ultimate](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
+* [Selling security]() see John Blevin's online classroom material
+* [Selling DevSecOps](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)
+
+Marketing is targeting a campaign at [these accounts](https://gitlab.my.salesforce.com/00O4M000004akG8) (as of 2021-03-22) XYZ persona will receive [this email]() inviting them to [zzz web page]()  (or collateral or offer). (See [this epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1901)for details.)
 
 Emphasis on large due to the relation to verticals + regulated industries, but all should be included.
 
@@ -49,16 +54,31 @@ GitLab Ultimate provides the single tool DevOps teams need to find and fix vulne
 
 **Ask these questions:**
 
+1. Happy with Jira? 
+   * No - talk about GitLab Plan Plan pitch
+1. Wanting to shift security left in DevOps/Agile environment?
+   * Yes - Lead with integrated platform to simplify
+   * No - If security says so, verify with dev and use security pitch deck
+1. Incumbent tools provide insight into psych 
+   * If Snyk or Checkmarx, continue with integrated platform
+   * If Veracode, Fortify, Synopsis, assess priorities to reduce vs replace 
+1. Using containers & Kubernetes?
+   * Yes - Lead with integrated platform to modernize software dev
+
+
 ## What to show/info to use
 
-Use these slides -xxx along with the customer pitch deck (link)
+Use **these slides** 
+* Plan pitch deck 
+* Security pitch deck for shift left (link)
+* Security CISO deck (includes ROI framework slide)
 
-Use this collateral:
-1. 
-1. 
-1. 
+Use **this collateral**:  
+1.  
+1.  Gartner MQ for AST expected in May 2021
+1.  new Gartner MQ for Plan
 
-And these customer stories:
+And these **customer stories**: (reevaluate if these are still the best ones for Plan & Secure)
 * ~20 tools consolidated into GitLab; Glympse remediated security issues faster than any other company in their Security Auditor's experience
 
 Development can move much faster when engineers can stay on one page and click buttons to release auditable changes to production and have easy rollbacks; everything is much more streamlined. Within one sprint, just 2 weeks, Glympse was able to implement security jobs across all of their repositories using GitLab’s CI templates and their pre-existing Docker-based deployment scripts.
@@ -80,9 +100,9 @@ Product architect, BI Worldwide
 
 
 
-Use this POV boiler plate: xxx
+Use this **POV boiler plate**: xxx (SA team to provide)
 
-Note: May want to move this information to slides: 
+**Note: May want to move this information to slides:** 
 
 Key capabilities in Ultimate center around security, compliance, insights/analytics, and releasing better + faster: 
 
@@ -114,4 +134,6 @@ Truly shift security left (and right!) to reduce exposure and align security wit
 - [ ] Gameplan with GitLab champion
 - [ ] Meeting with Security team or other economic buyer
 - [ ] Agreement to do POV
+
+Note: progress of the GTM Motion will be measured at the campaign level with clicks/opens/page visits, SAO (is there a code sales needs to use in SFDC?)
 
