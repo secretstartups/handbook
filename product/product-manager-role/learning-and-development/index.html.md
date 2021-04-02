@@ -42,7 +42,7 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 This content is divided into five key competencies for Product Managers. You can jump to the section you are interested in.<br><br>
 
-**💡 [Discovery](/handbook/source/handbook/product/product-manager-role/learning-and-development/index.html.md?from_merge_request_iid=78873#-discovery)     ✏️ [Design](/learning-and-development/index.html#design)    🚀 Delivery     💬 Communication     🤝 Team Management**
+**💡 [Discovery](/#-discovery)     ✏️ [Design](/#design)    🚀 [Delivery](/index.html#-delivery)    📈 Business Acumen   💬 [Communication](/index.html#-communication)     🤝 Team Management**
 
 ## 💡 Discovery
 ### Discovery: User Research
@@ -247,7 +247,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-<hr>
+## 📈 Business Acumen
 
 ### Business Acumen: Product strategy
 
@@ -311,6 +311,7 @@ Please contribute your favorite resources here
 - [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics](https://www.amazon.com/Measuring-User-Experience-Interactive-Technologies/dp/0124157815)
 
 ## 💬 Communication
+
 ### Communication: Relationships with customers
 
 ##### Quick reads and videos
@@ -368,6 +369,9 @@ Please contribute your favorite resources here
 ##### Examples
 
 - [Example CAB Presentation](https://docs.google.com/presentation/d/11YI6zj3qMeTwXTmdovuZLEM2i3D-eNMdNXcQgc9coc8/edit#slide=id.g85b09e34a4_0_5)
+
+
+## 🤝 Team Management 
 
 ### Team Management: Stakeholder management
 
@@ -427,7 +431,6 @@ Please contribute your favorite resources here
 - [Julie Zhuo: The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/)
 - [First Round Essentials: Management](https://books.firstround.com/management/) (free ebook download)
 
-## 🤝 Team Management
 ### Team Management: Leadership and influence
 
 ##### Quick reads and videos
