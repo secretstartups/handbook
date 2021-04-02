@@ -78,10 +78,12 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 
 <!-- DO NOT CHANGE ANCHOR -->
 
-- <b>[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)</b>: a perpetual, overarching topic/message as part of go-to-market strategy
-- <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies and aligned Sales Plays
+- <b>[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/marketing/strategic-marketing/usecase-gtm/). 
+- <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned Sales Plays
 - <b>[Theme](/handbook/marketing/plan-fy22#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
-- <b>[Sales Play](/handbook/marketing/plan-fy22#sales-plays)</b>: a combination of buyer persona, messaging, and positioning plus tools and strategies to arm the sales and SDR teams as a part the outbound motion
+- <b>[Solution GTM Strategy](/handbook/marketing/plan-fy22#solution-gtm-strategy)</b>: a document that describes what problem the solution solves for customers, buyer personas, messaging, positioning, and relevant competitive points. This doc is used to inform content for the Sales Play (sales audience) and the GTM Motion campaign (marketing audience).
+- <b>[Sales Play](/handbook/marketing/plan-fy22#sales-plays)</b>: a brief document to prepare the sales and SDR teams to take marketing generated leads to closure (can be inbound and/or outbound). Can also be used independent of a marketing campaign to prepare response to customer inquiry or to open a new conversation. Includes context (promise/offer), who to meet with, what to say, info to use, and how to measure progress.
+- <b>[GTM Motion Campaign](/handbook/marketing/plan-fy22#gtm-motion-campaign)</b>: campaign briefing document used to communicate relevant info to internal and external marketing teams to generate demand for solutions (aka GTM Motions) (aligned to sales playbooks).
 - <b>[GTM 4x2](/handbook/marketing/plan-fy22#gtm-4x2)</b>: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments
 - <b>[Prescriptive Buyer Journey](/handbook/marketing/prescriptive-buyer-journeys/)</b>: content aligned to buyer journey stages, leveraged in email nurture, digital marketing, and more
 - <b>[Project Compass](/handbook/marketing/plan-fy22#project-compass)</b>:
@@ -100,7 +102,7 @@ To view the GTM Motions Googlesheet, please go to your [Google Drive](https://dr
 The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
 All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
 
-### What is included in a GTM Motion?
+### What is included in a GTM Motion? 
 {: #gtm-motion-includes}
 
 <!-- DO NOT CHANGE ANCHOR -->
@@ -108,61 +110,96 @@ _The list below includes potential and recommended items to include in a GTM Mot
 
 **Potential/Recommended Pieces of a GTM Motion:**
 
-- Buyer personas
-- Messaging and positioning framework
-- Identification of alliance parter joint GTM campaigns and activities
-- LinkedIn / GDN display advertising
-- Buyer journey content (including awareness, consideration, and decision)
-- Focus account lists (in alignment with Sales, Channel, and Alliance Partners)
-- Definition of ABM intent triggers
+- [Solution GTM Stratetgy Doc]((/handbook/marketing/strategic-marketing/usecase-gtm/#use-case-details)), including: 
+    - Buyer personas
+    - Messaging and positioning framework
+    - Market landscape
+    - Product capabilities
+    - etc. 
+- [Campaign Brief(s)]((/handbook/marketing/plan-fy22#gtm-motion-campaign))
+- [Sales Play(s)]((/handbook/marketing/plan-fy22#sales-plays))
+- Supporting content 
+    - Buyer journey content (including awareness, consideration, and decision)
+    - Competitive assets 
+    - Analyst relations content and activitie
+    - Customer references
+- Alliance partner joint GTM campaigns and activities
 - Channel partner campaigns
-- Analyst relations content
-- Customer references
-- Competitive assets
 - Web ROI model
-- Sales enablement
-- Share of voice campaigns
+- [Sales enablement]((/handbook/marketing/plan-fy22#sales-enablement))
+
+## Solution GTM Strategy
+
+The GTM Strategy doc includes the background market information to illustrates the context and personas experiencing a problem that attracts budget and describes how our soultion meets that need. GTM stratetgy docs, also refered to as [Use Case GTM pages](/handbook/marketing/strategic-marketing/usecase-gtm/#use-case-details), are kept in the handbook. 
+
+## GTM Motion Campaign
+{: #gtm-motion-campaign .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+A GTM motion can include one or more marketing campaigns. GTM motion campaigns can be designed to work independently or in tandem with an associated sales play. A campaign brief describes the tactics and channels to drive demand. 
+
+May include:
+- Full-funnel integrated tactics
+- Cohesive design throughout touchpionts
+- Virtual events (webcasts/workshops)
+- Prescriptive buyer journeys
+- Email nurture series
+- Digital promotion (paid social, GDN, etc.)
+- Organized marketing channel mix (social, PR, community)
+- Integrated messaging at relevant corporate events and Commit
+- Definition of ABM intent triggers
+- Focus account lists (in alignment with Sales, Channel, and Alliance Partners)
 - Unified L2RM (Lead to Revenue Management) reporting/analytics
 - Bizible/Marketo Reporting
 
 ## Sales Plays
 {: #sales-plays .gitlab-purple}
-
 <!-- DO NOT CHANGE ANCHOR -->
-A sales play is a series of prescribed actions around a Go to Market theme that are taken by cross functional sales and marketing teams to reach a positive sales outcome. It includes prescribed actions taken jointly by marketing, sales development and sales executives to identify and create sales opportunities that can be closed. Sales Plays can be delivered as a PDF book, or as an interactive guide leveraging PathFactory - or both.
+
+A sales play's intended audience is sales (SALs, SAs, TAMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
+
+The Sales Play should include (at minimum):  
+- Context (promise/offer) 
+- Who to meet with 
+- What to say 
+- What to show/info to use
+- How to measure progress
+
+Sales Plays should be delivered as a handbook page, or as an interactive guide leveraging PathFactory - or both.
 
 To see the planned Sales Plays, see **column C** in [GTM Motions](/handbook/marketing/plan-fy22#gtm-motions).
 
-### What is included in a Sales Play?
-{: #sales-play-includes}
+## Sales enablement to support a Sales Play and/or GTM Campaign
+{: #sales-enablement}
 
 <!-- DO NOT CHANGE ANCHOR -->
 _The list below includes potential and recommended items to include in a Sales Play. Not all Sales Plays will include the full list, and the Core Team - in collaboration across Marketing and Sales - will determine need and timeline for the items to be included, and may add additional items for which there is an oranized plan to leverage._
 
-**Potential/Recommended Pieces of a Sales Play:**
+**Potential/Recommended supporting sales enablement:**
 
-- Integrated sales playbooks
+- Sales play
 - Sales play training (SDR, Sales, Partners)
 - ABM named accounts, Focus Account Lists
 - Target personas, key contacts, prospect criteria, and other competitive and intel sources
-- Buyer personas
-- Sales Play specific campaigns
-- LinkedIn InMail campaigns
+- Campaigns related to this Sales Play 
+- LinkedIn InMail campaigns/templates
+- Email campaigns/templates
 - Outreach guide with intro messages, objection handling, differentiation
-- Outreach sequences
-- Email campaigns
+- Recommended outreach sequences
 - Pathfactory tracks for sales use (or use of _Pathfactory for Sales_ tool in SFDC)
-- Video intros that can be sent by sales to prospects (optionally with sales play specific content)
-- ROI training and support
+- Video intros and other assets that can be sent by sales to prospects (referenced by sales play)
+- ROI training and support, if relevant
 - Sales Play specific SFDC Reporting
 
 ## GTM Motion Core Teams
 {: #core-teams .gitlab-purple}
-
 <!-- DO NOT CHANGE ANCHOR -->
 
 - The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the GTM Motion and related Sales Plays
 - The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
+- In each GTM Motion core team, there will be a team captain responsible for providing updates and participating in the scrum of scrums, collaborating with their respective core team to define deliverables and timelines to launch.
+- In each core team, a Product Marketing Manager will be the DRI for Sales Plays, responsible for production/enablement of Sales Plays and rallying relevant team members to be involved. 
+- In each core team, a Campaign Manager will be the DRI for Marketing Campaigns, responsible for the production of lead generation campaigns and rallying relevant team members to be involved.
 - The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Sales Plays
 - The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
 - The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
@@ -205,13 +242,6 @@ While the majority of GTM Motion work will take place asynchronously, aligned to
 - GitOps: 2021-02-23 (7 am PT / 10 am ET / 3 pm UTC)
 - DevOps Platform: 2021-02-24 (7 am PT / 10am ET / 3 pm UTC)
 - CI/CD: 2021-02-24 (8:15 am PT / 11:15 am ET / 4:15 pm UTC)
-
-**To copy calendar invite to your personal calendar:**
-
-- Look up Dara Warde's calendar in GoogleCal
-- Click on the calendar item, and when the preview appears, between the email icon and the X are **three dots**
-- Click the three dots icon and choose "copy to [your] calendar"
-- Now the calendar invite will be on your calendar! :tada:
 
 ### Interlocked Teams
 {: #interlocked-teams}
