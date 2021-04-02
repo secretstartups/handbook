@@ -205,30 +205,30 @@ Is our single source of truth (SSoT) for processes and relevant links
 {: #prioritization-labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- `#FF0000`**DG-Priority::Top**: Immediate action needed, aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
-- `#821e64` **DG-Priority::High**: Not requiring immediate action, but aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. Timeframe: Within weeks.
-- `#dc2b50` **DG-Priority::Med**: Requests submitted that align to OKRs, GTM motions/sales plays, or segment/region plans. Process improvements to fix broken processes, or improve campaign team efficiency. Timeframe: Within months.
-- `#faa50a` **DG-Priority::Low**: Requests submitted that would be helpful, but can be pushed for higher priority issues. Nice-to-have improvements for campaign team processes. Timeframe: No specific timeline.
-- `#000000` **DG-Priority::ToBePrioritized**: Requests that have not yet been prioritized by Demand Gen.
+- `DG-Priority::Top`: Immediate action needed, aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. This category will be limited because not everything can be a priority. Timeframe: Immediate action needed.
+- `DG-Priority::High`: Not requiring immediate action, but aligned to OKRs, GTM motions/sales plays, or segment/region MQL generation. Timeframe: Within weeks.
+- `DG-Priority::Med`: Requests submitted that align to OKRs, GTM motions/sales plays, or segment/region plans. Process improvements to fix broken processes, or improve campaign team efficiency. Timeframe: Within months.
+- `DG-Priority::Low`: Requests submitted that would be helpful, but can be pushed for higher priority issues. Nice-to-have improvements for campaign team processes. Timeframe: No specific timeline.
+- `DG-Priority::ToBePrioritized`: Requests that have not yet been prioritized by Demand Gen.
 
 #### Team labels
 {: #team-labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* `#5843AD` **mktg-demandgen**: DRI is in Demand Gen team
-* `#44AD8C` **dg-campaigns**: DRI is in Campaigns team
-* `#34495E` **dg-request**: Issue requesting Demand Gen support (did not originate from DRI team)
+* `mktg-demandgen`: DRI is in Demand Gen team
+* `dg-campaigns`: DRI is in Campaigns team
+* `dg-request`: Issue requesting Demand Gen support (did not originate from DRI team)
 
 #### Status labels
 {: #intake-labels}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- **mktg-status::triage** - the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
-- **mktg-status::blocked** - there were insufficient details in the issue for work to be triaged
+- `mktg-status::triage`: the issue will be evaluated to determine if full details are included, and ask questions as needed if the scope/details are not clear
+- `mktg-status::blocked`: there were insufficient details in the issue for work to be triaged
     - The requester must provide the details and then move the status back to `mktg-status::triage` in order for the request to be reviewed again.
     - Please note: issue submission does not begin the SLA timeline; sufficient details begin the SLA timeline. [see note about turnaround time and SLAs](/handbook/marketing/demand-generation/campaigns/#slas)
-- **mktg-status::wip** - the issue is assigned and moved into appropriate time-based milestone
-- **mktg-status::plan** - this is used for work that is in an earlier stage of planning and a specific request has not been made
+- `mktg-status::wip`: the issue is assigned and moved into appropriate time-based milestone
+- `mktg-status::plan`: this is used for work that is in an earlier stage of planning and a specific request has not been made
     - This will likely be used mainly by campaign managers on issues that are not high priority but there is a desire to capture the idea/notes.
 
 
