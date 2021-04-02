@@ -452,7 +452,7 @@ Please contribute your favorite resources here
 - [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
 
-## Socializing in Product
+## Product management thought leadership
 
 ### Blogs, videos and podcasts and more...
 
