@@ -34,6 +34,7 @@ flowchart TD
     Q[Interview Schedule]
     R[LinkedIn]
     S[Navex Global]
+    T[Compaas]
 
     A --> P 
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
@@ -72,6 +73,8 @@ flowchart TD
     linkStyle 15 stroke-width:2px,fill:none,stroke:black;
     B --> S
     linkStyle 16 stroke-width:2px,fill:none,stroke:red;
+    B --> T 
+    linkStyle 17 stroke-width:2px,fill:none,stroke:black;
 ```
 
 ## Integrations
@@ -90,6 +93,7 @@ flowchart TD
 | Nominator bot | API | two-way (reads and writes from/to BambooHR) |[link](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#nominator) |
 | EdCast - GitLab Learn | TBD | TBD |TBD |
 | Navex Global| SFTP Upload | one-way (reads from BambooHR) |TBD |
+| Compaas | TBD | one-way (reads from BambooHR) |TBD |
 
 ### Greenhouse
 
