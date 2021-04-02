@@ -11,13 +11,11 @@ Related sales enablement content:
 * [Selling security]() see John Blevin's online classroom material
 * [Selling DevSecOps](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)
 
-Marketing is targeting a campaign at [these accounts](https://gitlab.my.salesforce.com/00O4M000004akG8) (as of 2021-03-22) XYZ persona will receive [this email]() inviting them to [zzz web page]()  (or collateral or offer). (See [this epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1901)for details.)
+Marketing is targeting a campaign at [these accounts](https://gitlab.my.salesforce.com/00O4M000004akG8) (as of 2021-03-22) XYZ persona will receive [this email]() inviting them to [zzz web page]()  (or collateral or offer). (See [this epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1901) for details.)
 
 Emphasis on large due to the relation to verticals + regulated industries, but all should be included.
 
 **Key messages used in the campaign**
-
-[Placeholder for link to message house](link-to-add)
 
 * ENT: GitLab unifies teams together across the entire SDLC regardless of role - product managers, designers, developers, managers, and all roles in between, can work more efficiently and stay involved as a part of a single conversation across the SDLC. Helps enterprises create products relevant for customers, go to market faster and beat the competition while staying secure and compliant. 
 * MM: Improve efficiencies, collaboration, and eliminate bottlenecks. Spend time on planned work instead of maintaining and integrating tools. Get expertise and support that assures you can meet your strategic goals along the way
@@ -41,7 +39,7 @@ Emphasis on large due to the relation to verticals + regulated industries, but a
 * Chief Architect, App Dev Manager
 
 **Other Personas to consider:**   
-* Infrastructure Engineering Director, Release and Change Management Director, 
+* Infrastructure Engineering Director, Release and Change Management Director 
 
 
 
@@ -70,18 +68,22 @@ GitLab Ultimate provides the single tool DevOps teams need to find and fix vulne
 **Objection handling**
 - add link
 
+#### [Message house](/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house)
 
 ## What to show/info to use
 
 Use **these slides** 
 * Plan pitch deck 
-* Security pitch deck for shift left (link)
-* Security CISO deck (includes ROI framework slide)
+* [Security pitch deck for shift left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing) 
+* [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)
 
 Use **this collateral**:  
-1.  
-1.  Gartner MQ for AST expected in May 2021
-1.  new Gartner MQ for Plan
+
+1. Gartner MQ for AST expected in May 2021
+1. New Gartner MQ for Plan
+1. Why Premium to Ultimate?
+1. placeholder
+
 
 And these **customer stories**: (reevaluate if these are still the best ones for Plan & Secure)
 * ~20 tools consolidated into GitLab; Glympse remediated security issues faster than any other company in their Security Auditor's experience
@@ -103,15 +105,13 @@ Adam Dehnel
 Product architect, BI Worldwide
 [Read more](https://about.gitlab.com/customers/bi_worldwide/)
 
-
-
 Use this **POV boiler plate**: xxx (SA team to provide)
 
 **Note: May want to move this information to slides:** 
 
 Key capabilities in Ultimate center around security, compliance, insights/analytics, and releasing better + faster: 
 
-https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features
+[Ultimate specific features](https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features)
 
 Ultimate also includes priority support (4 business hour support), live upgrade assistance, and a Technical Account Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
 
@@ -119,18 +119,18 @@ Ultimate also includes priority support (4 business hour support), live upgrade 
 How does GitLab uniquely deliver this business outcome vs. competitors? 
 
 Truly shift security left (and right!) to reduce exposure and align security with dev. Emergent advantages include unparalleled visibility and insights and much easier traceability with consistent compliance to policies or regulatory requirements for cleaner, easier audits. 
-* Single application with end-to-end visibility and insights
-   * From developers to managers to execs. Lovable developer UX with executive visibility. No one asks “what changed?”
-   * Reduces exposure and unifies teams- with emergent advantages including unparalleled visibility and insights and much easier traceability.
-* Embedded security that’s contextual and congruent to DevOps processes
-   * Built in security and compliance shifted all the way left (and all the way right) - reduces risk and scales
-   * Consistent compliance to policy, for cleaner and easier audits 
-* Leading SCM, CI, and code review in one
-   * Completely integrated from idea to production
-   * No plugins, etc.
-* Transparent and collaborative
-   * Single source of truth with built-in collaboration to focus on remediation, less friction
-   * Auditable - see who changed what where, when including policy exceptions.
+1. **Single application with end-to-end visibility and insights**
+   1. From developers to managers to execs. Lovable developer UX with executive visibility. No one asks “what changed?”
+   1. Reduces exposure and unifies teams- with emergent advantages including unparalleled visibility and insights and much easier traceability.
+1. **Embedded security that’s contextual and congruent to DevOps processes**
+   1. Built in security and compliance shifted all the way left (and all the way right) - reduces risk and scales
+   1. Consistent compliance to policy, for cleaner and easier audits 
+1. **Leading SCM, CI, and code review in one**
+   1. Completely integrated from idea to production
+   1. No plugins, etc.
+1. **Transparent and collaborative**
+   1. Single source of truth with built-in collaboration to focus on remediation, less friction
+   1. Auditable - see who changed what where, when including policy exceptions.
 
 
 ## How to measure progress
