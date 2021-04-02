@@ -183,8 +183,8 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
   </tr>
 </table>
 
-
- ### GitLab Certified Training Partner Requirements  
+<br>
+### GitLab Certified Training Partner Requirements  
 
 <div align= "center"><img src="/images/channel-service-program/gitlab-training-services-partner.png" width="200" alt="GitLab Certified Service Partner Program" title="image_tooltip"></div>
 
@@ -310,6 +310,7 @@ Each Certification track offers unique benefits that help partners better prepar
   </tr>
 </table>
   
+
 ### Marketing Benefits
 
 <table>
@@ -357,6 +358,7 @@ Each Certification track offers unique benefits that help partners better prepar
 ### Sales Acceleration
 
 <table>
+  <tr>
    <td colspan="4" >
 
 
