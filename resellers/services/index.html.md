@@ -141,11 +141,11 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
       <br>· Be a Open or Select GitLab Partner 
 
 
-<br>· Design, build and operate a professional service practice
-<br>· Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements
+       <br>· Design, build and operate a professional service practice
+       <br>· Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements
  
 
-      </td>
+       </td>
    </tr>
    <tr>
       <td><h3>Competency Requirements</h3>
@@ -155,33 +155,33 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
 
 
 
-<br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Core</a> 
-<br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
-<br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Professional Service Engineers,</a> 
-</td>
-</tr>
-<tr>
-<td><h3>Service Offerings</h3>
-</td>
-<td>Any are all of the following services can be provided by an PSP: 
-<br>* Assessment
-<br>* Migration
-<br>* Integration
-<br>* Implementation
-<br>* Optimization
-<br>* Security/Compliance
-</td>
-</tr>
-<tr>
-<td><h3>Compliance Requirements</h3>
-</td>
-<td>Each PSP must:
-<br>* Hire and continually employ team members who achieve and maintain the competency requirements 
-<br>* Maintain positive Customer Success ratings measured against the following <a href="https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis">Time-to-Value KPIs</a> that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
-
+      <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Core</a> 
+      <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> 
+      <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Professional Service Engineers,</a> 
+      </td>
+  </tr>
+  <tr>
+     <td><h3>Service Offerings</h3>
+     </td>
+     <td>Any are all of the following services can be provided by an PSP: 
+     <br>* Assessment
+     <br>* Migration
+     <br>* Integration
+     <br>* Implementation
+     <br>* Optimization
+     <br>* Security/Compliance
+     </td>
+  </tr>
+  <tr>
+     <td><h3>Compliance Requirements</h3>
+     </td>
+     <td>Each PSP must:
+     <br>* Hire and continually employ team members who achieve and maintain the competency requirements 
+     <br>* Maintain positive Customer Success ratings measured against the following <a href="https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis">Time-to-Value KPIs</a> that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.
+     </td>
      
-   </tr>
-   </table>
+  </tr>
+</table>
 
 <br>
  ### GitLab Certified Training Partner Requirements  
