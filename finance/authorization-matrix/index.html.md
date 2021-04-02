@@ -198,6 +198,17 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div> <!-- CFO -->
   <div class="item-auth-matrix">Signs/Approves</div> <!-- Legal --> 
+  <div class="item-auth-matrix">New Contract due to Relocation</div> 
+  <div class="item-auth-matrix"></div>  
+  <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
+  <div class="item-auth-matrix">Approves if applicable</div>  <!-- Director --> 
+  <div class="item-auth-matrix">Approves if applicable/VP of People Ops Signs</div>  <!-- Sr Director -->  
+  <div class="item-auth-matrix">Approves if applicable</div>  <!-- Exec Team -->
+  <div class="item-auth-matrix"></div>  <!-- CEO -->
+  <div class="item-auth-matrix"></div> <!-- Board -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
+  <div class="item-auth-matrix"></div> <!-- CFO -->
+  <div class="item-auth-matrix"></div> <!-- Legal --> 
   <div class="item-auth-matrix" style="grid-column: 1/12"><b>Bad debt write off</b></div>   
   <div class="item-auth-matrix">Up to $10K</div>  
   <div class="item-auth-matrix"></div>  <!-- Team Member -->
