@@ -40,6 +40,7 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 ## Broad Product Management Learning Content 
 
+
 ### Discovery: User Research
 
 ##### Quick reads and videos
@@ -154,6 +155,9 @@ Please contribute your favorite resources here
 - [Trusworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 - [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
 
+
+<hr>
+
 ### Design 
 
 ##### Quick reads and videos
@@ -177,6 +181,8 @@ Please contribute your favorite resources here
 - [Steve Krug: Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 - [Sketching User Experiences: The Workbook](https://www.amazon.com/Sketching-User-Experiences-Saul-Greenberg/dp/0123819598)
 - [The User Experience Team of One: A Research and Design Survival Guide](https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
+
+<hr>
 
 ### Delivery: User stories
 
@@ -235,6 +241,8 @@ Please contribute your favorite resources here
 ##### Books
 
 Please contribute your favorite resources here
+
+<hr>
 
 ### Business Acumen: Product strategy
 
@@ -296,6 +304,8 @@ Please contribute your favorite resources here
 - [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
 - [Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intagibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)
 - [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics](https://www.amazon.com/Measuring-User-Experience-Interactive-Technologies/dp/0124157815)
+
+<hr>
 
 ### Communication: Relationships with customers
 
@@ -412,6 +422,8 @@ Please contribute your favorite resources here
 - [Michael Lopp: Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering-ebook/dp/B01J53IE1O/)
 - [Julie Zhuo: The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/)
 - [First Round Essentials: Management](https://books.firstround.com/management/) (free ebook download)
+
+<hr>
 
 ### Team Management: Leadership and influence
 
