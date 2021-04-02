@@ -138,6 +138,13 @@ In order to transfer a ticket from Support to Security:
 
   * Use the macro [`General::Forms::Change to Security`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373880)
 
+Escalating a Zendesk ticket from Support to Trust and Safety: 
+
+      * [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
+      * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
+      * [DMCA Requests](/handbook/dmca/) - Reporter should forward notice to dmca@gitlab.com. 
+      * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new) - Use the `Description` dropdown.
+
 ### Escalate ZenDesk ticket to Security
 
 In the case that a security issue was reported through a support ticket:
