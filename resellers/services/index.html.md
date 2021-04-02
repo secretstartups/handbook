@@ -151,6 +151,8 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
       <td><h3>Competency Requirements</h3>
       </td>
       <td>
+      Each PSP must perpetually employ:
+
 
 
 <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Core</a> 
@@ -181,6 +183,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
    </tr>
    </table>
 
+<br>
  ### GitLab Certified Training Partner Requirements  
 <div align= "center"><img src="/images/channel-service-program/gitlab-training-services-partner.png" width="200" alt="GitLab Certified Service Partner Program" title="image_tooltip"></div>
 
