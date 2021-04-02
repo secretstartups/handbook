@@ -43,7 +43,7 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 This content is divided into five key competencies for Product Managers. You can jump to the section you are interested in.<br><br>
 
-**💡 [Discovery](/#-discovery)     ✏️ [Design](/#design)    🚀 [Delivery](/index.html#-delivery)    📈 Business Acumen   💬 [Communication](/index.html#-communication)     🤝 Team Management**
+**💡 [Discovery](/#-discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](/#design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](/index.html#-delivery)  &nbsp; &nbsp; &nbsp;  📈 Business Acumen  &nbsp; &nbsp; &nbsp; 💬 [Communication](/index.html#-communication)  &nbsp; &nbsp; &nbsp;   🤝 Team Management**
 
 ## 💡 Discovery
 ### Discovery: User research
@@ -79,7 +79,7 @@ This content is divided into five key competencies for Product Managers. You can
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
@@ -129,7 +129,7 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books 
 - [Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
@@ -200,11 +200,11 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
@@ -221,11 +221,11 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books 
 
@@ -235,19 +235,19 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ## 📈 Business acumen
 
@@ -285,11 +285,11 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ### Business acumen: KPIs and Metrics 
 
@@ -304,7 +304,7 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
@@ -318,19 +318,19 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ### Communication: writing to inspire, align and activate 
 
@@ -340,33 +340,33 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ### Communication: presentations, prepared and adhoc
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Examples
 
@@ -379,7 +379,7 @@ Please contribute your favorite resources here
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Deeper dive
 
@@ -391,25 +391,25 @@ Please contribute your favorite resources here
 
 ##### Books
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ### Team management: cross-functional team management
 
 ##### Quick reads and videos
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ### Team management: direct team management
 
@@ -424,7 +424,7 @@ Please contribute your favorite resources here
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
@@ -441,11 +441,11 @@ Please contribute your favorite resources here
 
 ##### Deeper dive
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Online courses 
 
-Please contribute your favorite resources here
+_Please contribute your favorite resources here_
 
 ##### Books
 
