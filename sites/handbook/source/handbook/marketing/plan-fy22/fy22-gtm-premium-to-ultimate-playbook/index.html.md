@@ -58,26 +58,35 @@ Use this collateral:
 1. 
 1. 
 
+And these customer stories:
+* ~20 tools consolidated into GitLab; Glympse remediated security issues faster than any other company in their Security Auditor's experience
+
+Development can move much faster when engineers can stay on one page and click buttons to release auditable changes to production and have easy rollbacks; everything is much more streamlined. Within one sprint, just 2 weeks, Glympse was able to implement security jobs across all of their repositories using GitLab’s CI templates and their pre-existing Docker-based deployment scripts.
+Zaq Wiedmann
+Lead Software Engineer, Glympse
+[Read more](https://about.gitlab.com/customers/glympse/)
+
+* Jenkins build took 3 hours, now with GitLab it takes 30 mins: a 6x improvement
+
+GitLab has allowed Alteryx to have code reviews, source control, continuous integration, and continuous deployment all tied together and speaking the same language. The team took a build that was running legacy systems and moved it to GitLab. This build took 3 hours on the Jenkins machine and it took 30 minutes to run on GitLab after it was going. Engineers can actually look at the build and understand what’s going on; they’re able to debug it and make it successful
+[Read more](https://about.gitlab.com/customers/alteryx/)
+
+* BI Worldwide performed 300 SAST/Dependency scans in the first 4 days of use helping the team identify previously unidentified vulnerabilities
+
+One tool for SCM+CI/CD was a big initial win. Now wrapping security scans into that tool as well has already increased our visibility into security vulnerabilities. The integrated Docker registry has also been very helpful for us. Issue/Product management features let everyone operate in the same space regardless of role.
+Adam Dehnel
+Product architect, BI Worldwide
+[Read more](https://about.gitlab.com/customers/bi_worldwide/)
+
+
+
 Use this POV boiler plate: xxx
 
-Note: Move this information to slides: 
+Note: May want to move this information to slides: 
 
 Key capabilities in Ultimate center around security, compliance, insights/analytics, and releasing better + faster: 
-* Compliance dashboard - high level view of project compliance status and merge request approvers
-* Release analytics- An aggregated view of all release metrics for each of the projects associated to a group.
-* Auto rollback- Automatic rollback to the last successful deployment.
-* DORA 4 metrics (Deployment frequency available now, lead time scheduled to ship in 13.11), the remaining two are on the roadmap later this year)
-* Comprehensive Application Security Testing 
-   * Dynamic Application Security Testing - analyze review applications to identify potential security issues on running web applications before deployment
-   * Static Application Security Testing - check for potential security issues by evaluating static code.
-   * Secrets Detection - avoid exposing secrets and credentials for potential exploit.
-   * Dependency Scanning - evaluate third-party dependencies to identify potential security issues.
-   * Container Scanning - analyze Docker images and check for potential security issues.
-* Security Dashboard - visualize security status for projects.
-* Security Alerts dashboard- Container Network Policies can be configured to send alerts to the security alert dashboard
-* Vulnerability Management
-* Security Approvals in Merge Requests (available in Premium)
-* License Compliance - identify the presence of new software licenses included in your project and track project dependencies. Approve or deny the inclusion of a specific license.
+
+https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features
 
 Ultimate also includes priority support (4 business hour support), live upgrade assistance, and a Technical Account Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
 
