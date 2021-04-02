@@ -629,7 +629,7 @@ Follow the steps outlined in the handbook to open an [individual access request 
 
 Once processed, you'll be able to be added as a collaborator on reports in EdGraph. Please work with the L&D team to be sure the essential reports are shared to your account.
 
-### L&D Teaam Dashboards
+### L&D Team Dashboards
 
 1. [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) - this dashboard displays custom reports that share information for only GitLab team members on the GitLab Learn platform
 1. [DIB Certification Completion Reports](https://edcast-536.domo.com/page/2098296181) - this dashboard shows team member completion of the DIB certification broken down by department level
@@ -647,6 +647,12 @@ The following private videos can be viewed by team members using the GitLab Unfi
 1. [How L&D uses custom dashboards and reports in GitLab Learn](https://youtu.be/xQwhmX_hRYg)
 1. [How to create a custom report using EdGraph](https://youtu.be/ofqAjoUkJuM)
 1. [Monthly L&D reports](https://youtu.be/vS0XuxkAH_E) - this training walks through how our [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) is used to fill in monthly data in our [FY22 GC Metrics sheet](https://docs.google.com/spreadsheets/d/1NxY5VWJlsQsOWmQrNAGPr7IIJ2Sa8qixXY7Et0cj45k/edit#gid=0)
+
+#### Other training
+
+These training materials are for team members who need to access custom reports on EdGraph and are for internal use only.
+
+1. [PBP training for DIB certification completions](https://drive.google.com/drive/folders/1t4YCkrqoGYrfOTJA1DeMkGhQyEW-PJwZ?usp=sharing)
 
 
 ## Moderation
