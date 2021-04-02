@@ -10,7 +10,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 ### Sales plays
 
 1. [Sales Playbook for Upsell Premium => Ultimate](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook)
-   - Upsell Premium => Ultimate [*message house*](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house)
+   - [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house)
    - [Strategy/planner doc](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner) for visibility
 
 Additional sales plays will be added as they're available
