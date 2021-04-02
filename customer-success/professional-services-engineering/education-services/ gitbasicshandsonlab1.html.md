@@ -50,4 +50,3 @@ Note: Your labels have been created at the project level, so they are specific t
 ### SUGGESTIONS?
 
 If you wish to make a change to our Hands on Guide for GitLab with Git Basics- please submit your changes via Merge Request!
-
