@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: "Facilitator Guide for GitLab with Git Basics"
 description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab with Git Basics course."
 ---
-# GitLab with Git Facilitator Guide for Instructors
+# GitLab with Git Basics Facilitator Guide for Instructors
 {:.no_toc}
 
 ## On this page
