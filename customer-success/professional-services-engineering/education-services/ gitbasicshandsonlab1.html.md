@@ -6,7 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab with Git Basics Hands On Guide- Lab 1
 {:.no_toc}
 
-
 ## LAB 1- CREATE A PROJECT AND ISSUE
 ### Create a Project
 1. Navigate to **Groups** > **Your Groups** 
