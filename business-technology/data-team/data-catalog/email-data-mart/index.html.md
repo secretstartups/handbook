@@ -12,9 +12,14 @@ title: "WIP Email Marketing Data Mart"
 ---
 ## Email Marketing Data Mart
 
-Coming soon
 
-The goal of this page:
+Over the last year, our team noticed a need for a solution that helped us scale our data requests and our lifecycle marketing tactics.
+
+Enter the email marketing data mart (also known as Email Marketing Database), which integrates several disparate data sources to help us reach our users, customers, and prospects in a more intelligent and scalable way. 
+
+In partnership with enterprise applications and marketing teams, we have created a solution that will enable GitLab to more quickly communicate critical customer and user updates, understand the overlap between prospects and users, and enable us to market to them more efficiently. 
+
+#### The goal of this page:
 
 * Help you to use the [TD: Email Marketing Data Mart README](https://docs.google.com/spreadsheets/d/1z0-QQbudAYU3pYS5CrdQMoyLxMipbx0rQzKTjx6AEZo/edit#gid=1701629744) to generate email campaigns.
 * Help you understand the data models used to create the TD: Email Marketing Data Mart.
