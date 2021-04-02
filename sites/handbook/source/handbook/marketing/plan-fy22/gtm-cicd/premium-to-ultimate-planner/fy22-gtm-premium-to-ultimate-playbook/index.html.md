@@ -65,6 +65,9 @@ GitLab Ultimate provides the single tool DevOps teams need to find and fix vulne
 1. Using containers & Kubernetes?
    * Yes - Lead with integrated platform to modernize software dev
 
+**Objection handling**
+- add link
+
 
 ## What to show/info to use
 
@@ -126,7 +129,6 @@ Truly shift security left (and right!) to reduce exposure and align security wit
 * Transparent and collaborative
    * Single source of truth with built-in collaboration to focus on remediation, less friction
    * Auditable - see who changed what where, when including policy exceptions.
-
 
 
 ## How to measure progress
