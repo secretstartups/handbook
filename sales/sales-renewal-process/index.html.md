@@ -68,14 +68,16 @@ To ensure proper adherence to the 45 day late renewals bookings policy, notifica
 **Tracking**
 - Each notification is tracked as an activity in SFDC on the associated account
 - Opportunities that get automatically closed will reflect the following information:
-  - Stage: 8-Closed Lost
-  - Closed Lost/Unqualified Reason: Other
-  - Closed Lost/Unqualified Details: Auto closed late renewal
+  - `Stage`: 8-Closed Lost
+  - `Closed Lost/Unqualified Reason`: Other
+  - `Closed Lost/Unqualified Details`: Auto closed late renewal
 
 **Steps to Take if Renewal Infomation is Incorrect**
+
 Prior to closure, if any questions or errors are discovered on the renewal opportunity, please chatter @sales-support on the renewal opportunity with details.  Sales Operations and/or Deal Desk will review and update the opportunity as necessary. 
 
 **Steps to Take if a Customer Returns after 45 Days**
+
 If a customer returns after 45 days and their renewal opportunity has been moved to Closed Lost (automatically or by a user), please refer to the [FY22 bookings policy handbook page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy) for details on how to open a new Renewal or New Business opportunity accordingly.
 
 #### Duplicate Opportunities
