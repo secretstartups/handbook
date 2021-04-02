@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab with Git Basics Hands On Guide- Lab 3
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 3- USING GITLAB ISSUES TO PUSH CODE
 
 ### Create a new Project and Issue
