@@ -14,7 +14,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 #### **Sales play name**  {#sales-play-name}
 
-Premium => Ultimate CI/CD
+Premium => Ultimate CI/CD: [find and use the sales playbook here.](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook)
 
 
 #### **Description**  {#description}
