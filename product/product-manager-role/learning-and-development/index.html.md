@@ -43,9 +43,10 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 This content is divided into five key competencies for Product Managers. You can jump to the section you are interested in.<br><br>
 
-**💡 [Discovery](/#-discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](/#design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](/index.html#-delivery)  &nbsp; &nbsp; &nbsp;  📈 Business Acumen  &nbsp; &nbsp; &nbsp; 💬 [Communication](/index.html#-communication)  &nbsp; &nbsp; &nbsp;   🤝 Team Management**
+**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](#design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](#-delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#-business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](/index.html#-communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#-team-management)**
 
 ## 💡 Discovery
+<hr>
 ### Discovery: User research
 
 ##### Quick reads and videos
@@ -164,7 +165,7 @@ _Please contribute your favorite resources here_
 
 
 ## ✏️ Design 
-
+<hr>
 ##### Quick reads and videos
 
 - [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
@@ -190,7 +191,7 @@ _Please contribute your favorite resources here_
 
 
 ## 🚀 Delivery
-
+<hr>
 ### Delivery: User stories
 
 ##### Quick reads and videos
@@ -250,7 +251,7 @@ _Please contribute your favorite resources here_
 _Please contribute your favorite resources here_
 
 ## 📈 Business acumen
-
+<hr>
 ### Business acumen: product strategy
 
 ##### Quick reads and videos
@@ -313,7 +314,7 @@ _Please contribute your favorite resources here_
 - [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics](https://www.amazon.com/Measuring-User-Experience-Interactive-Technologies/dp/0124157815)
 
 ## 💬 Communication
-
+<hr>
 ### Communication: relationships with customers
 
 ##### Quick reads and videos
@@ -374,7 +375,7 @@ _Please contribute your favorite resources here_
 
 
 ## 🤝 Team management 
-
+<hr>
 ### Team management: stakeholder management
 
 ##### Quick reads and videos
