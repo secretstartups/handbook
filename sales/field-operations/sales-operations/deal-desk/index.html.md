@@ -511,6 +511,15 @@ As of October 1, 2020, the following fields will be maintained by Deal Desk to d
 
 *  This is a lookup field, where the name of the original opportunity (now being decommissioned) is entered. This field is required by validation rule if Opportunity Category = Decommission. Upon saving, the linked opportunity will automatically be categorized as "Decommissioned" via process builder.
 
+#### Creating Decomission Opportunties
+
+Deal Desk will create Decommission (refund) opportunities for all Sales Assisted Orders. The Billing team will create Decommission (refund) opportunities for all Wep Portal purchases. The creation process is the same for both Deal Desk and Billing. 
+
+To create the decommission opp, navigate to the related Closed-Won Opportunity. Click 'Create Refund Opportunity'. Navigate to the opportunities tab under the Account page. Click on the newly created decommission opp, it will have 'REFUND' in the opportuntiy name. On the opportunity level, double check all fields populated as expected. For some multi-year deals, or partial refunds, 'Amount' may need to be updated manually. 
+
+**Deal Desk** - After confirming all fields are correct on a Sales Assisted decommission, submit the opp for approval. 
+**Billing** - After confirming all the fields are correct on a Web Portal Purchase, manually change the 'Stage' to 'Closed-Won'. 
+
 #### Payment Schedule
 
 *  Prepaid (Default Value)
