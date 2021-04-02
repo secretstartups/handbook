@@ -18,7 +18,7 @@ Most of the resources here are free but any content requiring payment [can be re
 
 Over time, we will add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/#competencies), [CDF](/handbook/product/product-manager-role/#product-management-career-development-framework) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
-## Recommended books and talks for all GitLab product managers
+### Recommended books and talks for all GitLab product managers
 
 These books are highly recommended to be read by every product manager at GitLab:
 
@@ -31,15 +31,13 @@ These books are highly recommended to be read by every product manager at GitLab
 - **[Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)** Discusses how to leverage efficiency to achieve optimal outcomes.
      - [Related live talk by author](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 
-## GitLab Specific Competencies and Content 
+### GitLab Specific Competencies and Content 
 
 - [Example Opportunity Canvas Review](https://youtu.be/ZXbwtLoxPjM)
 
 ## Broad Product Management Learning Content 
 
-### Discovery
-
-#### User Research
+### Discovery: User Research
 
 ##### Quick reads and videos
 
@@ -63,7 +61,7 @@ These books are highly recommended to be read by every product manager at GitLab
 - [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 - [Erika Hall: Just Enough Research](https://abookapart.com/products/just-enough-research)
 
-#### Customer Interviewing
+### Discover: Customer Interviewing
 
 ##### Quick reads and videos
 
@@ -85,7 +83,7 @@ Please contribute your favorite resources here
 - [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X)
 
-#### Jobs to be done 
+### Discovery: Jobs to be done 
 
 ##### Quick reads and videos
 
@@ -107,7 +105,7 @@ Please contribute your favorite resources here
 - [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
 - [Intercom on Jobs-to-be-Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done) (free ebook download)
 
-#### Lean product development
+### Discovery: Lean product development
 
 ##### Quick reads and videos
 
@@ -129,7 +127,7 @@ Please contribute your favorite resources here
 - [Jake Knapp: Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
 - [Ash Maurya: Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
 
-#### Growth and experimentation 
+### Discovery: Growth and experimentation 
 
 ##### Quick reads and videos
 
@@ -153,7 +151,7 @@ Please contribute your favorite resources here
 - [Trusworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 - [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
 
-#### Design 
+### Design 
 
 ##### Quick reads and videos
 
@@ -177,9 +175,7 @@ Please contribute your favorite resources here
 - [Sketching User Experiences: The Workbook](https://www.amazon.com/Sketching-User-Experiences-Saul-Greenberg/dp/0123819598)
 - [The User Experience Team of One: A Research and Design Survival Guide](https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
 
-### Delivery
-
-#### User stories
+### Delivery: User stories
 
 ##### Quick reads and videos
 
@@ -198,7 +194,7 @@ Please contribute your favorite resources here
 
 - [Jeff Patton: User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 
-#### Backlog management
+### Delivery: Backlog management
 
 ##### Quick reads and videos
 
@@ -219,7 +215,7 @@ Please contribute your favorite resources here
 
 - [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
-#### Working with Engineering 
+### Delivery: Working with Engineering 
 
 ##### Quick reads and videos
 
@@ -237,9 +233,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-### Business Acumen
-
-#### Product strategy
+### Business Acumen: Product strategy
 
 ##### Quick reads and videos
 
@@ -260,7 +254,7 @@ Please contribute your favorite resources here
 - [Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-dp-0062292986/dp/0062292986)
 - [Testing Business Ideas: A Field Guide for Rapid Experimentation](https://www.amazon.com/Rapid-Testing-Business-Ideas-Customer/dp/1119551447)
 
-#### Competitive analysis
+### Business Acumen: Competitive analysis
 
 ##### Quick reads and videos
 
@@ -279,7 +273,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### KPIs and Metrics 
+### Business Acumen: KPIs and Metrics 
 
 ##### Quick reads and videos
 
@@ -300,9 +294,7 @@ Please contribute your favorite resources here
 - [Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intagibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)
 - [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics](https://www.amazon.com/Measuring-User-Experience-Interactive-Technologies/dp/0124157815)
 
-### Communication
-
-#### Relationships with customers
+### Communication: Relationships with customers
 
 ##### Quick reads and videos
 
@@ -320,7 +312,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### Writing to inspire, align and activate 
+### Communication: Writing to inspire, align and activate 
 
 ##### Quick reads and videos
 
@@ -338,7 +330,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### Presentations, prepared and adhoc
+### Communication: Presentations, prepared and adhoc
 
 ##### Quick reads and videos
 
@@ -360,9 +352,7 @@ Please contribute your favorite resources here
 
 - [Example CAB Presentation](https://docs.google.com/presentation/d/11YI6zj3qMeTwXTmdovuZLEM2i3D-eNMdNXcQgc9coc8/edit#slide=id.g85b09e34a4_0_5)
 
-### Team Management
-
-#### Stakeholder management
+### Team Management: Stakeholder management
 
 ##### Quick reads and videos
 
@@ -380,7 +370,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### Cross-functional team management
+### Team Management: Cross-functional team management
 
 ##### Quick reads and videos
 
@@ -398,7 +388,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-#### Direct team management
+### Team Management: Direct team management
 
 ##### Quick reads and videos
 
@@ -420,7 +410,7 @@ Please contribute your favorite resources here
 - [Julie Zhuo: The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/)
 - [First Round Essentials: Management](https://books.firstround.com/management/) (free ebook download)
 
-#### Leadership and influence
+### Team Management: Leadership and influence
 
 ##### Quick reads and videos
 
