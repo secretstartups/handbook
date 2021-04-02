@@ -163,7 +163,8 @@ _Please contribute your favorite resources here_
 
 
 
-
+<br>
+<br>
 ## ✏️ Design 
 <hr>
 ##### Quick reads and videos
@@ -189,7 +190,8 @@ _Please contribute your favorite resources here_
 - [The User Experience Team of One: A Research and Design Survival Guide](https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
 
 
-
+<br>
+<br>
 ## 🚀 Delivery
 <hr>
 ### Delivery: User stories
@@ -249,7 +251,8 @@ _Please contribute your favorite resources here_
 ##### Books
 
 _Please contribute your favorite resources here_
-
+<br>
+<br>
 ## 📈 Business acumen
 <hr>
 ### Business acumen: product strategy
@@ -313,6 +316,8 @@ _Please contribute your favorite resources here_
 - [Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intagibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)
 - [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics](https://www.amazon.com/Measuring-User-Experience-Interactive-Technologies/dp/0124157815)
 
+<br>
+<br>
 ## 💬 Communication
 <hr>
 ### Communication: relationships with customers
@@ -373,7 +378,8 @@ _Please contribute your favorite resources here_
 
 - [Example CAB Presentation](https://docs.google.com/presentation/d/11YI6zj3qMeTwXTmdovuZLEM2i3D-eNMdNXcQgc9coc8/edit#slide=id.g85b09e34a4_0_5)
 
-
+<br>
+<br>
 ## 🤝 Team management 
 <hr>
 ### Team management: stakeholder management
@@ -454,6 +460,8 @@ _Please contribute your favorite resources here_
 - [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057)
 
+<br>
+<br>
 ## Product management thought leadership
 
 ### Blogs, videos and podcasts and more...
