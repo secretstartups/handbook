@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Allocadia
+description: Allocadia is Marketing Performance Management Software.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -101,6 +107,15 @@ The reports are broken out in folder format and once you click into the folders,
     - Video walk through - [https://youtu.be/ewqvzQo-hX0](https://youtu.be/ewqvzQo-hX0) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
 1. `Strategy Planning (OKRs), Strategy Planner - Objective Details (Team)` - This report allows you to see how your plans are aligned to the Strategy feature within Allocadia.
     - Video walk through - [https://youtu.be/_VQG1BLjwmw](https://youtu.be/_VQG1BLjwmw)  - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
+
+##### Reporting folders breakdown 
+While the above listed reports are reports you use to get the information for your QBR, here's a breakdown on the other reporting folders. 
+
+1. Finance - we will view actuals here. We aren't using this folder in detail yet. More to come! 
+2. Health Check - We aren't using this folder in detail yet. More to come! 
+3. Investment Planning 
+    1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary. 
+    2. Vendor Plan details - Management uses this section to understand how much we are spending with DemandBase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the 
 
 ## Integrations
 
