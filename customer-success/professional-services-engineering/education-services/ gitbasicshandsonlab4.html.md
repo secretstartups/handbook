@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab with Git Basics Hands On Guide- Lab 4
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 4- BUILD A GITLAB-CI.YML FILE
 
 ### Create a new Project and add a YML file 
