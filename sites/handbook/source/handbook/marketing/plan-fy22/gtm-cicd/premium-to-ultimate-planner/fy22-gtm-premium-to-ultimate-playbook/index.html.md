@@ -17,6 +17,8 @@ Emphasis on large due to the relation to verticals + regulated industries, but a
 
 **Key messages used in the campaign**
 
+[Placeholder for link to message house](link-to-add)
+
 * ENT: GitLab unifies teams together across the entire SDLC regardless of role - product managers, designers, developers, managers, and all roles in between, can work more efficiently and stay involved as a part of a single conversation across the SDLC. Helps enterprises create products relevant for customers, go to market faster and beat the competition while staying secure and compliant. 
 * MM: Improve efficiencies, collaboration, and eliminate bottlenecks. Spend time on planned work instead of maintaining and integrating tools. Get expertise and support that assures you can meet your strategic goals along the way
 * SMB: Set yourself up for long term success and keep your developers happy - code reviews, source control, continuous integration, and continuous deployment all tied together and all roles can speak the same language. Start right before inefficiencies get in the way of scaling out successfully
