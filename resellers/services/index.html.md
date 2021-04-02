@@ -303,14 +303,14 @@ GitLab recognizes the important role our partners play in delivering value and s
    </td>
   </tr>
   <tr>
-  <td>
-  </td>
+   <td>
+   </td>
    <td colspan="2" >Access to the <a href="https://about.gitlab.com/handbook/resellers/services/#partner-service-community">Partner Service Community</a>
    </td>
   </tr>
-  </table>
+</table>
   ### Marketing Benefits
-  <table>
+<table>
   <tr>
    <td colspan="4" >
 
@@ -349,12 +349,13 @@ GitLab Open and Select partners have access to the proposal-based <a href="https
    </td>
   </tr>
   <tr>
-  </table>
+</table>
   ### Sales Acceleration
+<table>
    <td colspan="4" >
 
 
-All authorized GitLab partners are eligible for co-selling with the GitLab Sales team. Certified partners are often prioritized in co-selling activities because those partners are able to deliver greater value for our joint customers. The GitLab Sales team and partner sellers align to drive customer value through joint account planning, account development, and working together to grow revenue.  Additionally, Certified Service Partners can be brought in for services only opportunities to help customers assess their DevOps infrastructure in advance of a potential GitLab purchase, or optimize their GitLab deployments.
+   All authorized GitLab partners are eligible for co-selling with the GitLab Sales team. Certified partners are often prioritized in co-selling activities because those partners are able to deliver greater value for our joint customers. The GitLab Sales team and partner sellers align to drive customer value through joint account planning, account development, and working together to grow revenue.  Additionally, Certified Service Partners can be brought in for services only opportunities to help customers assess their DevOps infrastructure in advance of a potential GitLab purchase, or optimize their GitLab deployments.
    </td>
   </tr>
   <tr>
