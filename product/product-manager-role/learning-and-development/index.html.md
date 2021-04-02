@@ -35,18 +35,18 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RSaIOCHbuYw" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
-### GitLab Specific Competencies and Content 
+### GitLab specific competencies and Content 
 
 - [Example Opportunity Canvas Review](https://youtu.be/ZXbwtLoxPjM)
 
-## General Product Management Learning Content 
+## General Product Management learning content 
 
 This content is divided into five key competencies for Product Managers. You can jump to the section you are interested in.<br><br>
 
 **💡 [Discovery](/#-discovery)     ✏️ [Design](/#design)    🚀 [Delivery](/index.html#-delivery)    📈 Business Acumen   💬 [Communication](/index.html#-communication)     🤝 Team Management**
 
 ## 💡 Discovery
-### Discovery: User Research
+### Discovery: User research
 
 ##### Quick reads and videos
 
@@ -70,7 +70,7 @@ This content is divided into five key competencies for Product Managers. You can
 - [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 - [Erika Hall: Just Enough Research](https://abookapart.com/products/just-enough-research)
 
-### Discovery: Customer Interviewing
+### Discovery: Customer interviewing
 
 ##### Quick reads and videos
 
@@ -190,6 +190,7 @@ Please contribute your favorite resources here
 
 
 ## 🚀 Delivery
+
 ### Delivery: User stories
 
 ##### Quick reads and videos
@@ -248,9 +249,9 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-## 📈 Business Acumen
+## 📈 Business acumen
 
-### Business Acumen: Product strategy
+### Business acumen: product strategy
 
 ##### Quick reads and videos
 
@@ -271,7 +272,7 @@ Please contribute your favorite resources here
 - [Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-dp-0062292986/dp/0062292986)
 - [Testing Business Ideas: A Field Guide for Rapid Experimentation](https://www.amazon.com/Rapid-Testing-Business-Ideas-Customer/dp/1119551447)
 
-### Business Acumen: Competitive analysis
+### Business acumen: competitive analysis
 
 ##### Quick reads and videos
 
@@ -290,7 +291,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-### Business Acumen: KPIs and Metrics 
+### Business acumen: KPIs and Metrics 
 
 ##### Quick reads and videos
 
@@ -313,7 +314,7 @@ Please contribute your favorite resources here
 
 ## 💬 Communication
 
-### Communication: Relationships with customers
+### Communication: relationships with customers
 
 ##### Quick reads and videos
 
@@ -331,7 +332,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-### Communication: Writing to inspire, align and activate 
+### Communication: writing to inspire, align and activate 
 
 ##### Quick reads and videos
 
@@ -349,7 +350,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-### Communication: Presentations, prepared and adhoc
+### Communication: presentations, prepared and adhoc
 
 ##### Quick reads and videos
 
@@ -372,9 +373,9 @@ Please contribute your favorite resources here
 - [Example CAB Presentation](https://docs.google.com/presentation/d/11YI6zj3qMeTwXTmdovuZLEM2i3D-eNMdNXcQgc9coc8/edit#slide=id.g85b09e34a4_0_5)
 
 
-## 🤝 Team Management 
+## 🤝 Team management 
 
-### Team Management: Stakeholder management
+### Team management: stakeholder management
 
 ##### Quick reads and videos
 
@@ -392,7 +393,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-### Team Management: Cross-functional team management
+### Team management: cross-functional team management
 
 ##### Quick reads and videos
 
@@ -410,7 +411,7 @@ Please contribute your favorite resources here
 
 Please contribute your favorite resources here
 
-### Team Management: Direct team management
+### Team management: direct team management
 
 ##### Quick reads and videos
 
@@ -432,7 +433,7 @@ Please contribute your favorite resources here
 - [Julie Zhuo: The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/)
 - [First Round Essentials: Management](https://books.firstround.com/management/) (free ebook download)
 
-### Team Management: Leadership and influence
+### Team management: leadership and influence
 
 ##### Quick reads and videos
 
