@@ -31,6 +31,20 @@ Or, if you feel comfortable with making the change yourself, submit a [merge req
 
 In this section we list the companies that have been inspired by GitLab with the links to the handbook pages that inspired them.
 
+1. [Facebook](https://www.fastcompany.com/90573992/more-companies-are-hiring-a-director-of-remote-work)
+   - "In 2019, before the pandemic, tech company GitLab hired Darren Murph to be its head of remote, helping manage the employee experience for its entirely remote workforce. Since the pandemic, Murph has been advising other companies on designing successful remote working arrangements, including Facebook."
+1. [Dropbox](https://blog.dropbox.com/topics/work-culture/what-you-can--and-can-t--learn-from-gitlab-about-remote-work)
+   - "What GitLab-proven techniques can you apply to your own organizational transformation? We refined them into a 1-2-3 set of high-level practices applicable to both all-remote and (more likely) hybrid companies who seek to succeed in a work-from-home world."
+1. [Remote](https://www.notion.so/Handbook-a3439c6ccaac4d5f8c7515c357345c11)
+   - Remote handles international payroll, benefits, taxes, and compliance for businesses big and small. It was founded by a [former GitLab team member](https://www.linkedin.com/in/jobvo/) and uses a public handbook.
+1. [Almanac](https://almanac.io/docs/almanac-handbook-5yyZ5TgtZJeCvH5B5WhHU5dwXezgEi6O)
+   - "The Almanac team handbook is our company's operating system: a central doc repository of the principles, structures, and systems we use to run the company.""
+1. [Tangram Visions](https://medium.com/tangram-visions/making-remote-work-work-with-gitlab-ffab5b0b6697)
+   - "In particular, our engineering team has placed GitLab at the core of our remote workflow, because it reinforces our values and perspectives around working well remotely."
+1. [Fellow.app](https://fellow.app/lp/digitalbydefault/)
+   - "Documentation and a 'single source of truth' for remote teams is key."
+1. [OpenAI](https://www.youtube.com/watch?v=ExG8_bnIAMI)
+   - Sam Altman, CEO of OpenAI, discusses plans to consider a [CEO Shadow program](https://about.gitlab.com/handbook/ceo/shadow/) based on GitLab's pioneering approach to the concept.
 1. [Doist](https://doist.com/)
 	 - This all-remote company launched [Twist](https://doist.com/blog/twist-mindful-team-communication/), a team communications app. In a series of [Remote Work Guides](https://twist.com/remote-work-guides), Doist cites GitLab in sharing practices around all-remote [hiring](https://twist.com/remote-work-guides/remote-company-setup) and [management](https://twist.com/remote-work-guides/remote-management), as well as mastering [asynchronous communication](https://twist.com/remote-work-guides/remote-team-communication). 
 1. [Joy Labs](https://joylabs.com/)
@@ -39,7 +53,12 @@ In this section we list the companies that have been inspired by GitLab with the
 	- Veamly is a remote-first software firm. CEO Emna G. was inspired GitLab's documented approach to [building company culture](/company/culture/all-remote/building-culture/), and shared elements that she is implementing in a [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) [Pick Your Brain](/company/culture/all-remote/pick-your-brain/) video. 
 1. [ProxyCrawl](https://proxycrawl.com/)
 	- At ProxyCrawl we are a completely remote company with employees all around the world working from home, co-working spaces, coffee shops, parks, etc. All our products have been created by our remote team. We have faced many of the issues of a worldwide remote team and GitLab handbook has helped us and inspired us to be a greater team. Special mentions to [communication](/handbook/communication/) and [all-remote](https://about.gitlab.com/company/culture/all-remote/guide/) pages. 
+1. [Hubstaff](https://twitter.com/TSell89/status/1329372153595117568)
+   - "The open source GitLab handbook is why I’m a successful remote worker and leader after a 13 year career in education."
+1. [Clearbit](https://clearbit.com/blog/gitlabs-strategies-remote-first/)
+   - "As the COVID headwinds continue to push back against a full reopening, now is a good time for CEOs to embrace remote work — and discover how it can make their teams even more effective."
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
 Let us know by [opening an issue](https://gitlab.com/gitlab-com/www-gitlab-com/issues) to include them in this page, with the company's name and their website so that we can contact them and list their experience here as well, to inspire others. Don't forget to add the label 'handbook'.
+
