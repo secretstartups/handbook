@@ -69,6 +69,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "A company handbook that everyone edits together is such a superpower, and I've never seen anyone do it better than GitLab. It was the very first thing I brought to my next job because it is the foundation for so much other goodness."
 1. [Vowel](https://twitter.com/franciscoferri/status/1346054673686523905)
    - "It's amazing what GitLab, Buffer, and Remote have done for the rest of the world by open sourcing how they operate remotely. I am convinced that in 10 years, we'll look back at these documents as a crucial step in the evolution of Remote Work."
+1. [Mighty](https://twitter.com/Suhail/status/1344662014937812994)
+   - "I’ve stolen this from GitLab, but I think you have to ensure a consistent experience where the people in an office aren’t treated specially and you provide a [remote-first culture](/company/culture/all-remote/meetings/#avoid-hybrid-calls)."
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
