@@ -38,7 +38,7 @@ In this section we list the companies that have been inspired by GitLab with the
 1. [Remote](https://www.notion.so/Handbook-a3439c6ccaac4d5f8c7515c357345c11)
    - Remote handles international payroll, benefits, taxes, and compliance for businesses big and small. It was founded by a [former GitLab team member](https://www.linkedin.com/in/jobvo/) and uses a public handbook.
 1. [Almanac](https://almanac.io/docs/almanac-handbook-5yyZ5TgtZJeCvH5B5WhHU5dwXezgEi6O)
-   - "The Almanac team handbook is our company's operating system: a central doc repository of the principles, structures, and systems we use to run the company.""
+   - "The Almanac team handbook is our company's operating system: a central doc repository of the principles, structures, and systems we use to run the company."
 1. [Tangram Visions](https://medium.com/tangram-visions/making-remote-work-work-with-gitlab-ffab5b0b6697)
    - "In particular, our engineering team has placed GitLab at the core of our remote workflow, because it reinforces our values and perspectives around working well remotely."
 1. [Fellow.app](https://fellow.app/lp/digitalbydefault/)
@@ -57,6 +57,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "The open source GitLab handbook is why I’m a successful remote worker and leader after a 13 year career in education."
 1. [Clearbit](https://clearbit.com/blog/gitlabs-strategies-remote-first/)
    - "As the COVID headwinds continue to push back against a full reopening, now is a good time for CEOs to embrace remote work — and discover how it can make their teams even more effective."
+1. [Tackle](https://twitter.com/johnjahnke/status/1235183028785360897)
+   - "[The GitLab all-remote guide] is an amazing resource when you are working through building a remote company. We use it regularly at Tackle. Thanks GitLab for sharing your guide with the community."
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
