@@ -62,7 +62,9 @@ In this section we list the companies that have been inspired by GitLab with the
 1. [Gable](https://twitter.com/liza_mash/status/1366906945031049216)
    - "Remote work thrives most when teams focus on async communication and that’s just what we do, guided by amazing examples from GitLab, Doist, and Buffer. Our team is not expected to answer emails or Slack chats immediately."
 1. [Botmock](https://twitter.com/ElleForLanguage/status/1360356999897239553)
-   - "[GitLab] literally wrote the manifesto on remote work; for this our team will be forever grateful]."
+   - "[GitLab] literally wrote the manifesto on remote work; for this our team will be forever grateful."
+1. [Aimtal](https://twitter.com/meshymind/status/1359527704467562501)
+   - "All of this, especially THIS - 'Remote isn’t the future of work; it’s the future of living.' We're adopting many of GitLab's remote work practices and processes at Aimtal. Many thanks to their team for openly sharing their knowledge and insights!"
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
