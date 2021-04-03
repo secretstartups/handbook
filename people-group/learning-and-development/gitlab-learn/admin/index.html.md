@@ -653,7 +653,7 @@ Once processed, you'll be able to be added as a collaborator on reports in EdGra
 #### Office Hours Recordings
 
 1. This [Google Drive](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6) contains recordings of office hours with EdCast that have a heavy focus on reporting using EdGraph and are great training resources for team members looking to build and access reports using the tool.
-1. [2021-04-02 EdGraph training](LINK) - building custom reports, drilling down into data sets, sharing dashboards, and general Q&A.
+1. [2021-04-02 EdGraph training](https://drive.google.com/file/d/1AIqtuWA3ttErKT-9iZXnpbthSfRLcWg_/view?usp=sharing) - building custom reports, drilling down into data sets, sharing dashboards, and general Q&A.
 
 #### L&D Monthly Reporting
 
