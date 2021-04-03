@@ -104,11 +104,13 @@ If you have any questions about the process, please post in #eba-team slack chan
 
 #### Interview Schedule
 
+Please ensure you have the [Interview Schedule Chrome Extension](https://chrome.google.com/webstore/detail/interview-schedule/nbimjaonnklighojgkihkipemiaimgdk) installed on your Chrome Browser.
+
 Interview Schedule processes can be found [here](https://about.gitlab.com/handbook/hiring/interview-schedule/).
 
 #### Resource - Candidate Guide
 
-Please ensure you have the [guide chrome extension](https://chrome.google.com/webstore/detail/resource-button/ikeemflbkbdhkgmgbdpeapmnnggbfogd) installed on your computer.
+Please ensure you have the [guide chrome extension](https://chrome.google.com/webstore/detail/resource-button/ikeemflbkbdhkgmgbdpeapmnnggbfogd) installed on your Chrome Browser.
 
 Guide processes can be found [here](/handbook/hiring/resource-guide/).
 
