@@ -808,6 +808,40 @@ Moderation of user activity on the GitLab learn platform will be maintained by t
      1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
      1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
 
+##### CoC Violation email template
+
+```
+Dear {{user.firstname}}
+
+Please note that your account on GitLab Learn has been suspended due to unacceptable behavior that does not follow or [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+
+{{Add details on which content was flagged and removed}}
+
+If you have any questions, please respond to this email.
+
+Sincerely,
+
+{{agent.firstname}}
+
+```
+
+##### CoC Moderation email template
+
+
+```
+Dear {{user.firstname}}
+
+Please note that your {SmartCard/Comment/Other Content} has been removed as it does not follow the guidelines in our [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+
+{{Add details on which content was flagged and removed}}
+
+If you have any questions, please respond to this email.
+
+Sincerely,
+
+{{agent.firstname}}
+
+```
 
 
 ### Support for frequently asked questions
