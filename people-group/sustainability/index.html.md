@@ -81,6 +81,7 @@ We don't know what our philosophy on sustainability will be yet. We don't have m
 
 While not organized under a sustainability banner, the following projects have been driven by or considered sustainability.
 - [Organizing existing work that enables our marketing website to be more energy efficient](https://gitlab.com/gitlab-com/marketing/inbound-marketing/marketing-website/-/issues/110)
+- Contribute, our annual team member in-person event, considers carbon offsets for travel, which began in 2020.
 - [LinkedIn Learning course for GitLab team members to understand their carbon impacts](https://gitlab.com/gitlab-com/sustainability/-/issues/8)
 - This handbook page also serves as our project for organizing sustainability at GitLab
 
@@ -99,7 +100,7 @@ While not organized under a sustainability banner, the following projects have b
 - Research ways sustainability could positively impact your line of work
 - Contribute to our monthly releases, focusing on features and stability improvements that aid efficiency
 - Join the #sustainability Slack channel to gather with other team members interested in the topic
-- Contribute to this handbook page
+- Contribute to this handbook page. Does something you're working on aid in sustainability? Add it to the list of projects already in motion.
 
 #### The Community 
 
