@@ -404,6 +404,10 @@ When taking notes in an agenda, in the handbook, or on our [OKRs](/company/okrs/
 The number is not a signal of the importance or rank of the subject unless explicitly stated to be such.
 It is just for ease of reference.
 
+## Cross-Link 
+
+Cross-linking highlights important connections across the handbook, issues, and epics. It also help us to to establish a single [Single Source of Truth](/handbook/values/#single-source-of-truth) for definitions and concepts. Instead of creating content in isolation, we should try to reference the home of concepts and where folks can navigate to in order to learn more. Team members are responsible for ensuring that links are appropriately updated as changes are made to the handbook.
+
 ## Acknowledgement Receipts (ACK)
 
 In order to effectively communicate an important change to hundreds of distributed employees, we occasionally use an ACK process:
