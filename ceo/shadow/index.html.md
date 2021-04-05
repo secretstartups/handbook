@@ -519,7 +519,7 @@ Remember, do _not_ say that your role is to "follow the CEO around". It's about 
 #### Finding meeting recordings
 
 If Sid records a video to the cloud in a meeting it will eventually end up
-being uploaded to [the Google Drive](https://drive.google.com/drive/u/1/folders/0B5OISI5eJZ-DX0VkSkpfTm1ONjA)
+being uploaded to [the Google Drive](https://drive.google.com/drive/folders/0APOeuCQrsm4KUk9PVA)
 folder.
 Finding the video will require searching based on the calendar event name and
 checking the "last modified" date.
