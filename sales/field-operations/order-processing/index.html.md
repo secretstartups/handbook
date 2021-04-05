@@ -524,24 +524,24 @@ First, go to the Partner's Account page in Salesforce.
 
 Effective 2021-04-05, the quote approval module has been updated to trigger an approval workflow on quotes that meet the [FY22 GTM Service Attach](https://docs.google.com/presentation/d/1wLYQP7KV9UMdBSneg_caBFnckHPcKEw6C5zfEsrysFM/edit#slide=id.gc5c5401a33_0_5) opportunity criteria. 
 
-- Service Attach Opportunity Criteria:
+- **Service Attach Opportunity Criteria:**
 
 1. Order Type = New - First Order
 2. Net ARR => $20,000
 3. Segment = Large 
 
-- Service Attach Quoting Process:
+- **Service Attach Quoting Process:**
 
 If an opportunity meets the criteria listed above, a minimum of $15,000 in Professional Services must be attached to the opportunity. Services can be attached using one of two methods:
 
 1. Add standard SKU professional services (i.e. Admin Training) totaling or exceeding $15,000 to the quote. Note: Custom services requiring a signed SOW must be quoted separately on a standalone opportunity - see below.
 2. Link a separate, standalone professional services opportunity with services totaling or exceeding $15,000 via the "PS Opportunity" field. 
 
-- Service Attach Exceptions/Approval Process:
+- **Service Attach Exceptions/Approval Requirements:**
 
 If an opportunity meets the criteria listed above, but does not have a Professional Services value of $15,000, or does not have a linked opportunity with a Professional Services value of $15,000, the quote will require approval to sell the subscription deal without the minimum Service Attach. 
 
-Approval Process:
+- **Service Attach Quote Approval Process:**
 
 1. Populate the "ProServ Exception Approval Notes" field on the quote with the following information: 
   - What use cases are they adopting?
