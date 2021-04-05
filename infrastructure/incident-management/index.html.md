@@ -85,7 +85,7 @@ These definitions imply several on-call rotations for the different roles.
 1. By acknowledging an incident in Pagerduty, the EOC is implying that they are working on it. To further reinforce this acknowledgement, post a note in Slack that you are joining the `The Situation Room Permanent Zoom` as soon as possible.
     1. If the EOC believes the alert is incorrect, comment on the thread in `#production`. If the alert is flappy, create an issue and post a link in the thread. This issue might end up being a part of RCA or end up requiring a change in the alert rule.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
-1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](#corrective-actions) are added to the issue description, regardless of the incident severity. If it is an S1/S2 incident, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review), presenting the incident review in the synchronous review meeting if the incident is an S1 or a review has been requested via the `~review-requested` label. It is expected that the incident review is completed within 14 days of the incident.
+1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](#corrective-actions) are added to the issue description, regardless of the incident severity. If it has a `~review-requested` label, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review), in some cases this may be be a synchronous review meeting or an async review depending on what is requested by those involved with the incident.
 
 #### Guidelines on Security Incidents
 
@@ -134,7 +134,7 @@ During an incident, the CMOC will:
 
 1. Be the voice of GitLab during an incident by updating our end-users, internal parties, and executive-level managers through updates to our [status page](https://status.gitlab.com/) hosted by Status.io.
 1. Update the status page at regular intervals in accordance with [the severity of the incident](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates).
-1. Notify GitLab stakeholders (e-group, customer success and community team) of current incident and reference where to find further information. Provide additional update when the incident is mitigated. 
+1. Notify GitLab stakeholders (e-group, customer success and community team) of current incident and reference where to find further information. Provide additional update when the incident is mitigated.
 
 ##### How to engage the CMOC?
 
