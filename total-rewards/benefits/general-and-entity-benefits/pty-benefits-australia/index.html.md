@@ -167,6 +167,7 @@ All team members are entitled to up to 12 months of unpaid parental leave if the
 **Applying for Parental Leave in Australia**
 * To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with GitLab's Parental Leave policy.
 * If you are applying for government-funded Parental Leave Pay, you can apply up to 3 months before your child's due date.
+
 **Record-keeping for paid Parental Leave:**
 * In addition to the usual record-keeping requirements, employers that have team members getting government-funded Parental Leave Pay also have to keep the following records:
   *  the amount of Parental Leave Pay funding received from the government for each team member and the period it covers
@@ -176,6 +177,7 @@ All team members are entitled to up to 12 months of unpaid parental leave if the
   * the net amount paid and the amount of income tax withheld (including other payments, if any, were made)
   * a statement identifying the payment as Parental Leave Pay under the Australian Government Paid Parental Leave Scheme
   * the amount of any deductions made from each payment.
+  
 **Pay slips for Parental Leave payments:**
 * Team members who get Australian Government Parental Leave Pay have to be given a pay slip for each payment. The pay slip must specify that the payments are Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
 * Ordinary pay slip requirements apply to pay slips given to team members getting government-funded Parental Leave Pay. 
