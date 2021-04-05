@@ -2,9 +2,19 @@
 layout: markdown_page
 title: "FY22 GTM Sales Play - Premium to Ultimate"
 ---
+
+## Big picture
+
+**Demand generation**
+1. placeholder
+
+**Activities and support**
+1. placeholder
+
+
 ## Context (campaign promise/offer) 
 
-Objective to convert landed accounts that are already using CI/CD to expand from premium to ultimate. This play is fyi only for SDRs because it is upselling tiers, not necessarily expanding seats. 
+Objective to convert landed accounts that are already using CI/CD to expand from premium to ultimate. This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats. 
 
 Related sales enablement content: 
 * [SKO Expanding to Ultimate](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
@@ -28,7 +38,6 @@ Emphasis on large due to the relation to verticals + regulated industries, but a
 * TAM is xxx
 * Contributes toward revenue goals of xxx 
 * Partners: grow new markets, new business, cross-sell, upsell opportunity, partner profitability, competitive advantage, compliment with services.
-
 
 ## Who to meet with 
 

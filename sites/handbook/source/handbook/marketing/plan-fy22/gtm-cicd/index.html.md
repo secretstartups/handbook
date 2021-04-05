@@ -7,6 +7,10 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 ## CI/CD GTM Motion 
 
+### Integrated campaigns
+1. Upsell Premium => Ultimate campaign
+   - Campaign brief (placeholder)
+
 ### Sales plays
 
 1. [Sales Playbook for Upsell Premium => Ultimate](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook)
