@@ -698,7 +698,7 @@ GitLab team members should work towards responding to internal and external requ
 
 Workflows, email templates, and outlines below will remain the same for this temporary support model.
 
-### End goal Support Model
+### End-goal Support Model
 
 This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
 
@@ -717,7 +717,7 @@ graph TD
 
 ### Pathways for user support
 
-#### Slack support for team members
+#### Team member support via Slack
 
 ##### Slack workflow
 
@@ -735,7 +735,7 @@ This chart outlines common questions and triage actions taken by the L&D team:
 | Field Enablement or Professional Services content | Tag FE and PS DRIs |
 
 
-#### Zendesk support for customers and community members
+#### Customers and community members support via Zendesk
 
 Zendesk will be our main hub for providing user support for external audiences on GitLab Learn. 
 
@@ -783,258 +783,25 @@ The GitLab Community Forum has a category entitled `GitLab Learn` for users to c
 
 Below are a collection of key questions and answers posted on the forum. Consider linking to these threads when providing support on the forum, in Zendesk, or in Slack.
 
-| Question | Forum Thread Link |
-| ----- | ----- | 
-| | |
-| | |
-
 Important considerations when responding to questions in the forum:
 
 1. If you need personal information from the user, direct them to open a ticket. This could include problems with logging in, accessing their account, or updating accout information.
 1. Whenever possible, link back to the [GitLab Learn user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) in your response. If the information you're sharing isn't documented on that page, add it.
 1. Review other ways to [use and interact with users on the forum](/handbook/marketing/community-relations/community-operations/#forum-uses)
 
-## Moderation
-
-Users on the GitLab Learn platform are expected to follow our [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). The following processes will be implemented to enforce our CoC when violated on the GitLab Learn platform.
-
-#### Moderation DRI
-
-Moderation of user activity on the GitLab learn platform will be maintained by the Learning and Development team.
-
-#### Moderation Workflows
-
-1. Navigate to the EdCast admin panel
-1. Click on `Content` -> `Reported Content` or `Reported Comment`
-1. Options for reported content/comments include to `unreport` which will remove the reported flag and keep content/comments available to users, or `trash` which will delete the content from the platform.
-1. Triage the reported content starting at the bottom of the list to address reports as they have come in.
-1. Click the name link in the column titled `Content Title` to review the reported content. Clicking this link will open the content in a new tab. After reviewing the content, take the following actions:
-1. If the content is **not** in violation of our CoC, but is reported as a technical issue, refer to the correct section of the admin documentation to resolve the issue and click the `unreport` button.
-1. If the content is in clear violation of our CoC, take the following actions:
-     1. Open a confidential issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information.
-     1. In the issue, determine appropriate action for the user's account.
-     1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
-     1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
-     1. Choose the `trash` option to remove the content
-1. If it is unclear if the content is in violation of our CoC, take the following actions:
-     1. Open an issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information
-     1. In the issue, determine appropriate action for the user's account.
-     1. Collaborate with the L&D and security team to determine the appropriate action for the user's account
-     1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
-     1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
-
-##### CoC Violation email template
-
-```
-Dear {{user.firstname}}
-
-Please note that your account on GitLab Learn has been suspended due to unacceptable behavior that does not follow or [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
-
-{{Add details on which content was flagged and removed}}
-
-If you have any questions, please respond to this email.
-
-Sincerely,
-
-{{agent.firstname}}
-
-```
-
-##### CoC Moderation email template
-
-
-```
-Dear {{user.firstname}}
-
-Please note that your {SmartCard/Comment/Other Content} has been removed as it does not follow the guidelines in our [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
-
-{{Add details on which content was flagged and removed}}
-
-If you have any questions, please respond to this email.
-
-Sincerely,
-
-{{agent.firstname}}
-
-```
-
 
 ### Support for frequently asked questions
 
-#### Team member opens a Zendesk ticket for support
-
-##### Support workflow
-
-1. Use the Zendesk macro to direct team members to Slack
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Team members can get support for GitLab Learn in Slack from the Learning and Development team. Please reach out to them with your question in the [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) channel.
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-```
-
-#### How do I share my GitLab Learn badges externally?
-
-##### Support workflow
-
-1. Use the Zendesk macro to direct the user to the correct SmartCard and handbook documentation
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Thanks for reaching out to our team about your GitLab Learn badge! We're happy to hear you've earned a badge and are ready to share your success with your LinkedIn network.
-
-[This SmartCard](https://gitlab.edcast.com/insights/ECL-15365c36-f581-47fd-8c43-bf6d85e61656) will walk you through the process of sharing your badge externally on LinkedIn. 
-
-You can also find this information in our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges).
-
-Please let us know if there is anything else we can help you with!
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-```
-
-#### I'm having trouble creating an account/logging in to my account on GitLab Learn
-
-##### Support Workflow
-
-1. Confirm the user does not already have an account via the GitLab Learn admin panel
-1. If they **do** have an account set up:
-     1. Send response template below
-     1. Impersonate the account on EdCast if troubleshooting is needed
-1. If they **do not** have an account set up:
-     1. Point to the training on [creating a new GitLab Learn account](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
-     1. Confirm users are accessing the platform using Google Chrome browser
-     1. If logging in using GitLab.com account, confirm that user has an existing GitLab.com account
-
-##### Response if they **do** have an account set up:
-
-```
-Dear {{user.firstname}}
-
-I'm sorry to hear you're having trouble creating a GitLab Learn account. I've checked our system and do see an account successfully created with the email: {{user.email}}.
-
-Please visit the [GitLab Learn login page](https://gitlab.edcast.com/ and select the `forgot your password` option to reset your account.
-
-If you're still having trouble after trying to reset your password, please respond to this email and include the following information:
-
-1. Email used while attempting to create and account:
-1. Browser used while attempting to create an account:
-
-Thank you for your patience while we process your request!
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-```
-
-
-##### Response if they **do not** have an account set up:
-
-```
-Dear {{user.firstname}}
-
-I'm sorry to hear you're having trouble creating a GitLab Learn account. I've checked our system and do not see an account created using the email {{user.email}}.
-
-In order to help get your account set up, I will share a few resources and confirm a few things with you:
-
-1. If you haven't yet reviewed our user docs, please watch this video on [setting up your GitLab Learn account for the first time](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
-1. Be sure you're accessing GitLab Learn via the Google Chrome browser, as it performs best in this browser.
-
-If you've attempted these 3 possible solutions and are still having trouble, please respond to this email and include the following information:
-
-1. Email used while attempting to create and account:
-1. Browser used while attempting to create an account:
-
-Thank you for your patience while we process your request!
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-```
-
-#### I can't see all the content in a Pathway or Journey on GitLab Learn.
-
-##### Support Workflow
-
-1. Confirm which content the user is trying to view.
-1. Respond with macro explaining internaly only content.
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Thanks for reaching out with your question about GitLab Learn.
-
-Can you please clarify which Pathway or Journey you're having trouble accessing? Please include a link to the content in your response.
-
-Please note that not all learning content on the GitLab Learn platform is available to our wider community. As we grow, we'll release additional learning Pathways and Journeys for you to continue your personal and professional development.
-
-If you have any suggetsions of content you'd like to see in the GitLab Learn platform, please post in our GitLab Community Forum.
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-
-```
-
-#### I found a mistake in GitLab Learn - how do I report it?
-
-##### Support Workflow
-
-1. Ask user to open an issue to report the mistake
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Thanks for helping us keep the content in GitLab Learn up to date! Please refer to the [reporting an error on GitLab Learn handbook section above](/handbook/people-group/learning-and-development/gitlab-learn/user/#reporting-content-errors-in-gitlab-learn) for instructions.
-
-Sincerely,
-
-{{agent.firstname}}
-
-```
-
-#### How do I contribute to GitLab Learn?
-
-##### Support Workflow
-
-1. Send macro that links to contribution process
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Thanks for reaching out! Please see our handbook page that outlines [how to contribute learning content to GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/) and let us know if you have any questions!
-
-Sincerely,
-
-{{agent.firstname}}
-
-```
+The following Zendesk macros are set up in the Professional Services Zendesk view to provide efficient support to free and paid users:
+
+| FAQ | Macro Title| 
+| ----- | ----- |
+| Team member opens a Zendesk ticket for support | Send `Professional Services -> Team-member-ticket` macro in Zendesk |
+| How do I share my GitLab Learn badges externally? | Send `Professional Services -> Share-badge` macro in Zendesk |
+| I'm having trouble creating an account/logging in to my account on GitLab Learn | Send `Professional Services -> Login-problems` macro in Zendesk |
+| I can't see all the content in a Pathway or Journey on GitLab Learn. | Send `Professional Services -> Content-Not-Seen` |
+| I found a mistake in GitLab Learn - how do I report it? | Send `Professional Services -> Report-a-Problem` macro in Zendesk |
+| How do I contribute to GitLab Learn? | Send `Professional Services -> Contribute` macro in Zendesk |
 
 
 ### Automatic email templates
@@ -1246,5 +1013,69 @@ To engage the EdCast team in a performance related incident, email the EdCast te
 9. Please provide a (HAR) file.  
 
 10. Any additional information that you would like to share with the support team 
+```
+
+## Moderation
+
+Users on the GitLab Learn platform are expected to follow our [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). The following processes will be implemented to enforce our CoC when violated on the GitLab Learn platform.
+
+#### Moderation DRI
+
+Moderation of user activity on the GitLab learn platform will be maintained by the Learning and Development team.
+
+#### Moderation Workflows
+
+1. Navigate to the EdCast admin panel
+1. Click on `Content` -> `Reported Content` or `Reported Comment`
+1. Options for reported content/comments include to `unreport` which will remove the reported flag and keep content/comments available to users, or `trash` which will delete the content from the platform.
+1. Triage the reported content starting at the bottom of the list to address reports as they have come in.
+1. Click the name link in the column titled `Content Title` to review the reported content. Clicking this link will open the content in a new tab. After reviewing the content, take the following actions:
+1. If the content is **not** in violation of our CoC, but is reported as a technical issue, refer to the correct section of the admin documentation to resolve the issue and click the `unreport` button.
+1. If the content is in clear violation of our CoC, take the following actions:
+     1. Open a confidential issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information.
+     1. In the issue, determine appropriate action for the user's account.
+     1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
+     1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
+     1. Choose the `trash` option to remove the content
+1. If it is unclear if the content is in violation of our CoC, take the following actions:
+     1. Open an issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information
+     1. In the issue, determine appropriate action for the user's account.
+     1. Collaborate with the L&D and security team to determine the appropriate action for the user's account
+     1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
+     1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
+
+##### CoC Violation email template
+
+```
+Dear {{user.firstname}}
+
+Please note that your account on GitLab Learn has been suspended due to unacceptable behavior that does not follow or [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+
+{{Add details on which content was flagged and removed}}
+
+If you have any questions, please respond to this email.
+
+Sincerely,
+
+{{agent.firstname}}
+
+```
+
+##### CoC Moderation email template
+
+
+```
+Dear {{user.firstname}}
+
+Please note that your {SmartCard/Comment/Other Content} has been removed as it does not follow the guidelines in our [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+
+{{Add details on which content was flagged and removed}}
+
+If you have any questions, please respond to this email.
+
+Sincerely,
+
+{{agent.firstname}}
+
 ```
 
