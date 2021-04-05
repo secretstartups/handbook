@@ -48,6 +48,7 @@ see [editing_end_users.html](Editing end-users).
 * Once the end-user replies back to the ticket, Support-ops will then apply the
   changes to the organization or the users, depending on the type of shared
   organization the end-user desires.
+* If after a week and there's still no response from the end-user accepting the security risk and choosing the type of shared organization they desire, Suppport-ops will close out the issue in the support-ops-project. In the event the end-user replies after closing out the issue, Support-ops will need to create a new issue and process the request from there. 
 
 ## Flowchart
 
