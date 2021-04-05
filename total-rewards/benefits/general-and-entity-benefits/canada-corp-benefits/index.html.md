@@ -4,7 +4,7 @@ title: "Gitlab Canada Corp"
 description: "GitLab Canada Corp benefits specific to Canada based team members."
 ---
 
-Can't find what you're looking for? Try the main [People Operations page](/handbook/people-operations).
+Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
