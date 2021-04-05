@@ -69,6 +69,8 @@ managing Zendesk via the various GitLab projects, please review
 | [License & Renewals](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038103700) | Support AMER, Support APAC, Support EMEA | This shows all tickets using the form L&R |
 | [First Response Hawk](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038124359) | Support AMER, Support APAC, Support EMEA | This shows paid support, prospect, and former customer support tickets with a New status |
 | [Follow-up Required](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360050766859) | Support Managers | This shows all assigned open/on-hold tickets that are at least 14 days old |
+| [China Comms](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073361819) | China Comms | This shows all new/open tickets that are using the form China Comms Response |
+| [AMER FRT](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073300560) | Support AMER | This is an FRT view specific for the AMER region. This shows all New paid support, prospect, and former customer support tickets where preferred region of support is not present or is set to AMER/All Regions. |
 | [Area of Focus Placeholder](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360050766879) | Support AMER, Support APAC, Support EMEA | This is a placeholder view for the Areas of Focus workgroup |
 | [View Placeholder](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051670340) | Support AMER, Support APAC, Support EMEA | This is a placeholder view. We don’t know what it will be yet. |
 | [New](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360050766519) | Shared | This shows all tickets with a status of New |
@@ -78,7 +80,7 @@ managing Zendesk via the various GitLab projects, please review
 
 ## Moving tickets between views
 
-The crieria for most views is centered around the form the ticket is using. But
+The criteria for most views is centered around the form the ticket is using. But
 there are some scenarios where the tags on a ticket can cause it to show in
 multiple areas.
 
