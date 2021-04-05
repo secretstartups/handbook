@@ -274,25 +274,18 @@ It is possible to add tags that automatically link to applicants when they apply
 
 Going forward, all new applicants whose answers in their application questions correlate to the rule you set up will automatically also have the tags you chose. To quickly find candidates, go to either `All Candidates` or the candidates for a specific requisition, open the `Profile Details` section on the left sidebar, and under `Candidate Tag` select the appropriate tag. You can add additional filters as desired, and you can then perform bulk actions on these candidates by using the bulk function on the top right.
 
-### Global Self-Identification Survey
+### EEOC Questionnaire
 
-Anyone who reaches the `Screening` stage must be sent out the **Global Self-Identification Survey**, including current team members. This will be sent automatically to candidates once they are moved into the **Screening stage**. Keep in mind, if the role is **only** open to current team members, the GSIS does not need to be created or sent to internal candidates. Ensure the req is labeled accordingly; additional details found [here](https://about.gitlab.com/handbook/hiring/talent acquisition-framework/req-creation/#publishing-the-job/#9).
+All candidates that are evaluated for a requsition **must** be sent the **EEOC Questionnaire**. For requisitions that are posted externally, where a candidate would apply, the candidate will automatically be presented with the *optional* survey in the application. However, if a candidate comes from a source where they **wouldn't** have necessarily applied (e.g. via an *Agency* or were *Sourced* or *Referred*), then the **EEOC Questionnaire** will need to be sent **manually**. 
 
-Currently, the GSIS will automatically be sent to candidates if their Sources are labeled as any of the following:
-1. Referral
-1. Agencies
-1. Other
-1. Prospecting
+Here's how to see if it's been sent and, if applicable, how to send it:
 
-**To Send the Survey Manually**
+#### Checking or Sending the EEOC Questionnaire
 
 1. From Candidate profile, navigate to `Application` (on left hand side)
 1. Navigate to `Job Post` > `Job Post Questions`
-1. Select `Send`
-1. Ensure Job Post: `Global Self-Identification Survey (Remote)` is [offline]
-1. Check: `Hide basic fields (i.e. name, email, phone number, resume, cover letter, location, education)`
-1. Select Template: `Global Self-Identification Survey`
-1. Send email from: `noreply@gitlab.com` (should default in)
+1. Reference the **EEOC** row to view its status; it'll either read, `Not yet sent` or `Submitted by [CANDIDATE NAME] on [DATE]`
+    * If the survey has **not** been sent, please click `Send` and you're done.
 
 ### Scheduling interviews with Greenhouse
 
