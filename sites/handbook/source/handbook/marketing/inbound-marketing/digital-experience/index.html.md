@@ -14,6 +14,15 @@ description: >-
 
 # Digital Experience Handbook
 
+- [Digital Definitions](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/)
+- [Foundations Agenda](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/foundations-agenda/)
+- [Image Guidelines](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/image-guidelines/)
+- [Marketo Page Template](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/marketo-page-template/)
+- [Slippers Design System](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/slippers-design-system/)
+- [Video Bands](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/video-bands/)
+- [Website](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/)
+- [Writing Description Templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/writing-description-templates/)
+
 ## Overview
 
 ### Managed Channels
@@ -49,7 +58,7 @@ Contribute and execute on the strategy for the marketing site.
 ### Strategy (FY21 Q3)
 
 1. Implement a CMS - so that the content marketing team is more productive, and more teams can self-serve improvements to the website
-1. Create a Design System - developer productivity, more consistent up-leveled look/feel of the website
+1. Create a [Design System](https://gitlab.com/gitlab-com/marketing/inbound-marketing/slippers-ui) - developer productivity, more consistent up-leveled look/feel of the website
 1. Set the long-term strategy for website to continue to see the content, design, and processes refreshed
 1. Establish SEO partnership
 
@@ -136,7 +145,6 @@ Our goal is to deliver a release every 2 weeks. Our release day is always a Wedn
 ### Sprint Cycle
 
 For FY22 Q1 we have one two-week sprint cycle.
-
 <figure class="video_container">
 <iframe src="https://calendar.google.com/calendar/embed?src=c_g97ibfb3lq183mphm8mnbjfk34%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </figure>
@@ -152,21 +160,19 @@ We use issue weight to plan and manage our work. Team members are not held to we
 **Agenda**
 
 We use the [Inbound Marketing Sprint Planning document](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit#heading=h.aa7av9szmk5t) for our planning meetings.
-
 <figure class="video_container">
  <iframe src="https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing"></iframe>
 </figure>
 
 ### Weekly Check In
 
-We use [Geekbot](https://geekbot.com/) to conduct asynchronous, weekly check-ins on iteration progress. 
+We use [Geekbot](https://geekbot.com/) to conduct asynchronous, weekly check-ins on iteration progress.
 
 Each member of the Digital Experience team should be listed as a participant in the weekly check ins, and everyone should have permissions to manage the application for our team. The app can be configured through the [Geekbot Dashboard](https://app.geekbot.com/dashboard/), which you can visit directly, or find by clicking the **Geekbot** Slack conversation, navigating to the **About** tab, and clicking **App Homepage**.
 
 ### Sprint Releases
 
-On the second Wednesday of each sprint, we have a calendar reminder for "Sprint Release Async", which serves as a reminder for team members to add to the [Sprint Release Video Document](https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit). 
-
+On the second Wednesday of each sprint, we have a calendar reminder for "Sprint Release Async", which serves as a reminder for team members to add to the [Sprint Release Video Document](https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit).
 <figure class="video_container">
  <iframe src="https://docs.google.com/document/d/1I9Th3Q-AakOkE_-pmNtEzwwMDSqYKF5Je2etGdPTovk/edit"></iframe>
 </figure>
@@ -180,15 +186,25 @@ This is the agenda we use for [Sprint Retros](https://docs.google.com/document/d
  <iframe src="https://docs.google.com/document/d/1kMNiUF2UDuSrMDuzLyRi8OEhVxry_MJoYi38RmmWafY/edit?usp=sharing"></iframe>
 </figure>
 
-### Sprint Videos 
+### Sprint Videos
 
 We release videos for [sprint planning](#sprint-planning), [sprint releases](#sprint-releases), and [sprint retrospectives](#sprint-retros) in the [Digital Experience playlist of GitLab Unfiltered](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing).
-### Internal Issue Boards
+### Internal Agency Day
+
+The Digital Experience team sprint spans almost two weeks, from Monday until the following Thursday. This leaves every second Friday open for internal issues and requests made by the marketing team. These issues should be labelled with the `IM-WEBAGENCY` label and will be taken on based on priority/due date.
+
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+| ------ | ------- | --------- | -------- | ------ |
+| Sprint Begins |  |  |  |  |
+|  |  | Sprint Release Async | Sprint Ends | Agency Day |
+
+###
+Internal Issue Boards
 
 These issue boards were created by the Digital Experience team to track our own workloads for a given release cycle.
 
-* [Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/2415116)
-* [Kanban](https://gitlab.com/groups/gitlab-com/-/boards/2415063)
+- [Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/2415116)
+- [Kanban](https://gitlab.com/groups/gitlab-com/-/boards/2415063)
 
 ## Contact Us
 
@@ -214,8 +230,8 @@ These issue boards were created by the Digital Experience team to track our own 
 
 ## Requesting Support
 
-* [Issue templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support)
-* [Tips on how to set your request up for success](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-support)
+- [Issue templates](https://about.gitlab.com/handbook/marketing/inbound-marketing/#requesting-support)
+- [Tips on how to set your request up for success](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-support)
 
 ## How we use GitLab
 
