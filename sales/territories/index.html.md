@@ -93,8 +93,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	| David Fisher
 |	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	| David Fisher
 |	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	| David Fisher 
-|	LATAM	|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	| David Fisher
-|	LATAM	|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	| David Fisher
+|	[LATAM](/handbook/sales/territories/latam/)		|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	| David Fisher
+|	[LATAM](/handbook/sales/territories/latam/)		|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	| David Fisher
 |	NA West	|	Midwest	|	Large-AMER-Midwest-1	|	Timmothy Ideker	| Matthew Beadle
 |	NA East	|	Northeast	|	Large-AMER-Northeast-1	|	Liz Corring	| David Fisher
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	| David Fisher
