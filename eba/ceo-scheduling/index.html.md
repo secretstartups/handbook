@@ -15,10 +15,11 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 
 1. Meetings before 7:30am and after 6pm Pacific require Sid's approval before scheduling. Please reach out to him in slack to approve. If Sid agrees to a meeting at 7am or earlier, please schedule a block on his calendar on the previous day reminding him that he has a meeting before 7:30am PT the following day.
 1. Don't schedule over the Weekly E-group call unless approved by Sid
-1. When our CLO requests a meeting it will always override other meetings that are scheduled if urgent
+1. When our CLO requests a meeting it will always override other meetings that are scheduled if urgent and important
 1. Mark the events listed in [Google Calendar section](/handbook/communication/#google-calendar) of the handbook as 'Private'
-1. The [agenda](https://docs.google.com/document/d/187Q355Q4IvrJ-uayVamoQmh0aXZ6eixAOE90jZspAY4/edit?ts=574610db&pli=1) of items to be handled by Sid's EA
-1. **All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
+1. The [agenda](https://docs.google.com/document/d/187Q355Q4IvrJ-uayVamoQmh0aXZ6eixAOE90jZspAY4/edit?ts=574610db&pli=1) of items to be handled by Sid's EBA
+1. Use 'and' instead of '<>' in meeting invites because of the transfer to YouTube titles when streaming
+**All** holds on Sid's calendar need a reason so he can judge when the hold might no longer apply.
 1. Monthly reoccuring 1:1 video calls are 25 minutes while quarterly calls/dinners are scheduled for 90 minutes plus any necessary travel time.
 1. Follow up on introductions from certain recipients (board, investors) immediately without asking for approval.
 * If Sid is meeting with a candidate, partner with talent acquisition to send the calendar invite through Greenhouse.
@@ -30,12 +31,14 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 1. Due to a busy schedule Sid has a preference of meeting setup: First try for a video call or a meeting at Mission Control. If the other party presses to meet at their location, confirm if that is OK before accepting.
 1. Sales meetings are important. If the CEO can help the process, feel free to include him in the meeting by working with the EBA to CEO on this. Please include the sales rep and solutions architect in this meeting. The person requesting the meeting should provide a meeting brief document to the EBA at the time of their request to schedule.
 1. Meetings should be set up on Sid's Zoom account. Customer/Prospect meetings are an exception and Sid is happy to join on another platform of the customers choosing like WebEx or Google Meet.
-    1. If Sid is invited to a meeting on WebEx add a reminder to his calendar 5 minutes before the meeting to `disable shush` in advance of the next meeting
-1. Prep calls for Sales meeting should be scheduled for 10 minutes by default. A [Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) needs to be provided by the Sales team member requesting the meeting in order to schedule with the CEO.
+    1. If Sid is invited to a meeting on WebEx add a reminder to his calendar 5 minutes before the meeting to `disable shush` in advance of the next meeting.
 1. Office hours hosted by the CEO like Iteration Office Hours should be live streamed publicly by default and the live stream should be hosted by a member of the EBA team or a CEO Shadow.
 1. Sid will attend one of the Monthly Diversity, Inclusion and Belonging calls (typically scheduled at 8am or 4pm PT). Please accept one and decline the other.
 1. If there is a video posted in advance of a [Group Conversation](/handbook/group-conversations/) in slack, the EBA to the CEO should schedule a meeting at 6am (Pacific time) on the CEO's calendar for him to watch the video in advance of the Group Conversation on the same day. Please include a link to the video in the calendar invite and indicate whether it is a private or public video.
 
+### Prep Calls for Customer/Prospect Meetings
+1. Prep calls for Sales meeting should be scheduled for 10 minutes by default. A [Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) needs to be provided by the Sales team member at the time of requesting the meeting in order to schedule with the CEO. 
+1. The account team including a Solutions Architect or Product Manager should always be included on the invite for both the prep meeting and the external meeting with the customer or prospect. 
 
 ### Calendar blurb for External Meetings with the CEO
 
