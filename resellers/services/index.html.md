@@ -163,7 +163,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
   <tr>
      <td><h3>Service Offerings</h3>
      </td>
-     <td>Any are all of the following services can be provided by an PSP: 
+     <td>Any or all of the following services can be provided by an PSP: 
      <br>* Assessment
      <br>* Migration
      <br>* Integration
@@ -233,7 +233,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
       <h3>Service Offerings</h3>
       </td>
       <td>
-      Any are all of the following services can be provided by a CTP: 
+      Any or all of the following services can be provided by a CTP: 
       <br>* Training Services
       <br>* Subcontract trainers to <a href="https://about.gitlab.com/services/education/">GitLab Education Services</a>
       </td>
