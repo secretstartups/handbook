@@ -101,6 +101,8 @@ This results in a lower rate of involuntary attrition than comparable companies,
  
 **It is important to note that there is no requirement for these options to be considered or presented consecutively.** 
 
+It is also important to note that when a PEP or PIP is active, the team member is not eligible for compensation increases from the [annual compensation review](../../total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) or the [annual refresh grant program](../../stock-options/#annual-refresh-grant-program-eligibility).
+
 ### Coaching
 
 [Coaching](/handbook/leadership/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
