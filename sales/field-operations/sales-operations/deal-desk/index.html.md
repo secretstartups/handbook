@@ -21,7 +21,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
 *  Sales Support
 *  Quote Configuration
 *  Complex/Non-standard Deal structure
-*  Month End / Quarter End Reconciliation
+*  Month End / Quarter End Reconciliation 
 
 ### Helpful Links
 
