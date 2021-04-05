@@ -28,10 +28,6 @@ The total contributions of the wider community are at risk of permanet reduction
 
 If we don't hold ourselves accountable for sustainability, GitLab will continue to attack our own mission, reducing the possibility of long term success.
 
-## We'll let our values drive us
-
-`INSERT SECTION HERE`
-
 ## We recognize the truth
 
 In order for our values to drive us to the right emissions reduction solutions, we'll need to recognize some truths that outline where we are today.
@@ -84,28 +80,35 @@ We don't know what our philosophy on sustainability will be yet. We don't have m
 ## Sustainable projects already in motion
 
 While not organized under a sustainability banner, the following projects have been driven by or considered sustainability.
-- x
-- x
-- x
+- [Organizing existing work that enables our marketing website to be more energy efficient](https://gitlab.com/gitlab-com/marketing/inbound-marketing/marketing-website/-/issues/110)
+- [LinkedIn Learning course for GitLab team members to understand their own carbon impacts](https://gitlab.com/gitlab-com/sustainability/-/issues/8)
+- This handbook page also serves as our project for organizing sustainability at GitLab
 
 ## What comes next?
 
+- Develop a purpose, vision, mission, objectives, strategies, and principles, that guide GitLab's point-of-view on sustainability
 - Identify that not addressing sustainability needs is [one of GitLab's biggest risks](https://about.gitlab.com/handbook/leadership/biggest-risks/).
-- x
-
+- Identify "sustainability champions" across the company and through different teams to consider more sustainable practices for their own outcomes
+- Continue the work with our marketing website energy efficiency project
+- Get more team members talking about sustainability topics in the #sustainability Slack channel
 
 ## What can you do?
 
 #### Team Members
 
-`INSERT SECTION HERE`
+- Research ways sustainability could positively impact your line of work
+- Contribute to our monthly releases, focusing on features and stability improvements that aid in efficency
+- Join the #sustainability Slack channel to gather with other team members interested in the topic
+- Contribute to this handbook page
 
 #### The Community 
 
-`INSERT SECTION HERE`
-
+- [Contribute to GitLab development, focusing on features and stability improvements that aid in efficiency](https://about.gitlab.com/community/contribute/development/)
+- Contribute to this handbook page
 
 #### Partner
 
-`INSERT SECTION HERE`
+- Share your company's experiences in sustainability with us
+- Help us to understand how your company got sustainability practices started 
+- Consider contributing to this handbook page 
 
