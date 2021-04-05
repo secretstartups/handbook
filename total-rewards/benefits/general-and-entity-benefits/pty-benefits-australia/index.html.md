@@ -50,14 +50,6 @@ Team members in Australia have the option to make concessional super contributio
 ### Life insurance
 GitLab does not plan to offer life insurance at this time as Australians can access [government payments and services](https://www.humanservices.gov.au/individuals/subjects/payments-people-living-illness-injury-or-disability) if they get ill, injured or have a disability. Most Australians who choose to have life insurance take out cover from their super fund.
 
-### GitLab PTY Australia Annual, Sick and Carer's Leave
-**Annual Leave**
-* Team members are entitled to 4 weeks of paid leave each year, which runs concurrently with GitLab PTO and accumulates from the first day of employment. Any unused annual leave rolls over to the following year.
-* Team members in Australia are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Since GitLab has a legal duty to pay out any accumulated Annual Leave when a team member leaves the company, the payroll team will deduct vacation time off requests from the team member's Annual Leave balance. When taking vacation time, team members must select the `Vacation` option in PTO by Roots to ensure this time is properly tracked.  Annual leave does not expire and may be carried over year to year.  For team members who are not covered by a modern award or enterprise agreement, they may be asked to take a period of paid annual leave if such request is reasonable, such as when a team member has accrued an excessive amount of paid annual leave.
-
-**Sick Leave**
-* Team members are entitled to 10 days of sick/carer's leave each year. This leave runs concurrently with GitLab PTO.
-* Sick and carer's leave, also known as personal/carer's leave fall under the same statutory leave entitlement. Selecting the `Out Sick` option in PTO by Roots will prompt the payroll team to process any time off taken as Sick and Carer's Leave. If you wish to take Carer's Leave but don't want to change your Slack status to `Out Sick`, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
 
 ### On-Call (Engineering only)
 
@@ -94,63 +86,28 @@ No, only on-call shifts outside of working hours (I.E. weekends, evenings, etc.)
 Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) by selecting the `On-Call Time in Lieu` option.
 
 
-### GitLab PTY Australia Parental Leave
+### GitLab PTY Australia Annual, Sick and Carer's Leave, and Other Statutory Leaves
 
-#### Statutory Leave Entitlement
-All team members are entitled to up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of additional unpaid parental leave.
+#### Annual Leave
+* Full-time team members are entitled to 4 weeks paid annual leave in accordance with the Fair Work Act 2009 (Cth) per year of continuous service.  This amount will be pro-rated for part-time team members by reference to the team member’s ordinary hours of work. 
+* Annual leave accrues progressively and accumulates from year to year.
+* This leave runs concurrently with GitLab PTO.  Team members should select `Vacation` in PTO by Roots to ensure that leave entitlements are properly tracked.  For team members who are not covered by a modern award or enterprise agreement, they may be asked to take a period of paid annual leave if such request is reasonable, such as when a team member has accrued an excessive amount of paid annual leave.
 
-#### Maternity Leave Payment
-* For team members with a yearly salary of $150,000 AUD or less:
-  * Eligible team members who are the primary carer of a newborn or adopted child can receive up to 18 weeks of government-funded Parental Leave Pay via [Centrelink](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay), which is paid at the national minimum wage. 
-  * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
-  * To receive the government-funded Parental Leave payment, please submit an application via [Centrelink](https://www.humanservices.gov.au/individuals/services/centrelink/parental-leave-pay/claiming).
-  * Total Rewards will have to "accept" the Parental Leave Pay for team members via [Business Hub](https://www.servicesaustralia.gov.au/organisations/business/services/centrelink/paid-parental-leave-scheme-employers/what-you-need-know/your-role-scheme/accept-parental-leave-pay-employees).
-  * Parental Leave Pay can be claimed in one set period and one flexible period:
-    * The first (set) period consists of 12 weeks and must be taken in one continuous period within 12 months of the birth or adoption of a child.
-    * The second (flexible) period consists of 30 days and must be taken within 24 months of the birth or adoption of a child.
-* For team members with a yearly salary above $150,000 AUD:
-  * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+#### Personal/Carer’s Leave
+* Team members will be entitled to personal/carer’s leave in accordance with the Fair Work Act 2009 (Cth) as varied from time to time.  Currently that entitlement is 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.t.
+* Personal/carer’s leave is cumulative and accrues progressively.
+* This leave runs concurrently with GitLab PTO.  Team members should select `Out Sick` in PTO by Roots to ensure that leave entitlements are properly tracked.  If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
 
-
-#### Paternity Leave Payment
-* Team members with a yearly salary of $150,000 AUD or less:
-  * Eligible team members can receive up to 2 weeks of government-funded Dad and Partner pay via [Centrelink](https://www.servicesaustralia.gov.au/individuals/services/centrelink/dad-and-partner-pay), to be paid at the national minimum wage.
-  * To receive the government-funded Parental Leave payment, please submit an application via [Centrelink](https://www.servicesaustralia.gov.au/individuals/services/centrelink/dad-and-partner-pay/how-claim).
-    * If approved, team members will receive payment directly from the Australian Government.
-    * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
-* Team members with a yearly salary above $150,000 AUD:
-  * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
-
-
-#### Applying for Parental Leave in Australia
-* If you are applying for government-funded Parental Leave Pay, you can apply up to 3 months before your child's due date.
-* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
-
-**Record-keeping for paid Parental Leave:**
-* In addition to the usual record-keeping requirements, employers that have team members getting government-funded Parental Leave Pay also have to keep the following records:
-  * the amount of Parental Leave Pay funding received from the government for each team member and the period it covers
-  * the date each parental leave payment was made to the team member
-  * the period each payment covers
-  * the gross amount of the payment
-  * the net amount paid and the amount of income tax withheld (including other payments, if any, were made)
-  * a statement identifying the payment as Parental Leave Pay under the Australian Government Paid Parental Leave Scheme
-  * the amount of any deductions made from each payment.
-
-**Pay slips for Parental Leave payments:**
-* Team members who get Parental Leave Pay have to be given a pay slip for each payment. The pay slip must specify that the payments are Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
-* Ordinary pay slip requirements apply to pay slips given to team members getting government-funded Parental Leave Pay. They must also include:
-  * the gross and net amounts of Parental Leave Pay and the amount of income tax deducted
-  * if there are other payments on the pay slip, this information must be included as well as the total gross, net and income tax amounts
-  * the amount of any deduction and the name and bank details of the entity the deduction was given to.
-    * Only certain deductions can be made from Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
+#### Long Service Leave
+* Team members may be eligible for long service leave in accordance with state/territory based legislation as varied from time to time.
+* This leave runs concurrently with GitLab PTO.  Team members should select `Vacation` in PTO by Roots to ensure that leave entitlements are properly tracked.
 
 #### Other Types of Leave
-
 <details>
   <summary markdown="span">Family and Domestic Violence Leave</summary>
 
 * All team members are entitled to 5 days of unpaid family and domestic violence leave each year. This leave will run concurrently with GitLab PTO. Team members should notify Total Rewards (total-rewards@gitlab.com) if they need to make use of this leave.
-* For more information on Family and Domestic Violence Leave, please visit the [Fair Work Ombudsman Website](https://www.fairwork.gov.au/leave/family-and-domestic-violence-leave#support-services).
+* For more information on Family and Domestic Violence Leave, please visit the Fair Work Ombudsman Website.
 * Resources: 
   * [1800RESPECT](https://www.1800respect.org.au/)
   * [Safe Steps](https://www.safesteps.org.au/)
@@ -163,16 +120,14 @@ All team members are entitled to up to 12 months of unpaid parental leave if the
 
 <details>
   <summary markdown="span">Compassionate and Bereavement Leave</summary>
-
-* All employees are entitled to 2 days of paid compassionate leave in the event that an immediate family or household member dies or suffers a life threatening illness or injury. 
-* This leave runs concurrently with GitLab PTO. Team members should select `Bereavement Leave` in PTO by Roots to ensure that leave entitlements are properly tracked.
+* All employees are entitled to 2 days of paid compassionate leave in the event that an immediate family or household member dies or suffers a life threatening illness or injury.
+* This leave runs concurrently with GitLab PTO. Team members should select Bereavement Leave in PTO by Roots to ensure that leave entitlements are properly tracked.
 </details>
 
 <details>
   <summary markdown="span">[Public Holidays](https://www.fairwork.gov.au/leave/public-holidays)</summary>
-
-* All team members are entitled to at least their base pay rate for all hours worked on public holidays. 
-* Team members who take time off for public holidays are entitled to their base pay rate for the ordinary hours they would have worked. GitLab encourages all team members to take time off for the holidays they observe. 
+* All team members are entitled to at least their base pay rate for all hours worked on public holidays.
+* Team members who take time off for public holidays are entitled to their base pay rate for the ordinary hours they would have worked. GitLab encourages all team members to take time off for the holidays they observe.
 * Team members must select `Public Holiday` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 </details>
 
@@ -181,15 +136,46 @@ All team members are entitled to up to 12 months of unpaid parental leave if the
 
 * All team members are entitled to unpaid community service leave for voluntary emergency management activities. Team members are also entitled to paid community service leave for jury duty.
 * A team member engages in a voluntary emergency management activity if:
-  *  The activity involves dealing with an emergency or natural disaster
-  * The team member engages in the activity on a voluntary basis
+  * The activity involves dealing with an emergency or natural disaster
+* The team member engages in the activity on a voluntary basis if:
   * The team member was either requested to engage in an activity, or it would be reasonable to expect that such a request would have been made if circumstances had permitted, and
   * The team member is a member of, or has a member-like association with a recognized emergency management body. More information can be found on the [FairWork Ombudsman Website](https://www.fairwork.gov.au/leave/community-service-leave).
-* Jury Duty
-  * Team members are entitled to “make-up pay” for the first 10 days of jury selection and jury duty. GitLab will supplement the difference between the amount that the team member has been paid and their ordinary pay to ensure that the team member receives 100% of their salary for the first 10 days of jury duty/selection. 
-  * This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
-  * Team members must notify their manager of the period or expected period of leave as soon as possible and provide evidence showing they attended jury selection or jury duty.
+
+Jury Duty
+* Team members are entitled to “make-up pay” for the first 10 days of jury selection and jury duty. GitLab will supplement the difference between the amount that the team member has been paid and their ordinary pay to ensure that the team member receives 100% of their salary for the first 10 days of jury duty/selection.
+* This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+* Team members must notify their manager of the period or expected period of leave as soon as possible and provide evidence showing they attended jury selection or jury duty.
 </details>
+
+### GitLab PTY Australia Parental Leave
+
+**Statutory Leave Entitlement**
+All team members are entitled to up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of additional unpaid parental leave.
+
+**Australian Government Parental Leave Payment**
+* For team members with a yearly salary of $150,000 AUD or less, and who meet various other tests including a work test and residency rules.  The parent must also be the primary carer of the child:
+  * All payments are managed by Services Australia (Federal government) and some employees will receive payment directly from Services Australia.
+  * Only certain deductions can be made from Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
+* For team members with a yearly salary above $150,000 AUD:
+  * If you are eligible, you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+**Applying for Parental Leave in Australia**
+* To initiate your parental leave, submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with GitLab's Parental Leave policy.
+* If you are applying for government-funded Parental Leave Pay, you can apply up to 3 months before your child's due date.
+**Record-keeping for paid Parental Leave:**
+* In addition to the usual record-keeping requirements, employers that have team members getting government-funded Parental Leave Pay also have to keep the following records:
+  *  the amount of Parental Leave Pay funding received from the government for each team member and the period it covers
+  * the date each parental leave payment was made to the team member
+  * the period each payment covers
+  * the gross amount of the payment
+  * the net amount paid and the amount of income tax withheld (including other payments, if any, were made)
+  * a statement identifying the payment as Parental Leave Pay under the Australian Government Paid Parental Leave Scheme
+  * the amount of any deductions made from each payment.
+**Pay slips for Parental Leave payments:**
+* Team members who get Australian Government Parental Leave Pay have to be given a pay slip for each payment. The pay slip must specify that the payments are Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
+* Ordinary pay slip requirements apply to pay slips given to team members getting government-funded Parental Leave Pay. 
+
+
 
 ##  GitLab PTY New Zealand Specific Benefits
 
