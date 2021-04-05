@@ -14,31 +14,28 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ## Important Links
 
-1. [Master Presentation](https://docs.google.com/presentation/d/1Le0c7vijUOWvOANlQezty5G6oZD-gS8tfaB6eU0lkKg/edit#slide=id.g869c6da966_1_0)
-    1. Go to File > Make a Copy > Entire Presentation to save a copy of your deck.
-    2. Go to `File > Download > PDF Document` at the end of the course and send the PDF to the client
-    3. Save  your copy in the applicable [client folder](https://drive.google.com/drive/u/0/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U)
-2. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/%20gitbasicshandson.html)
-3. [GitLab Template Projects for VMs](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics)
-4. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
-5. [Certification Instructions](https://drive.google.com/file/d/1GfqYHu2w78YdBFr_9vgXm9r66o7a6ZKj/view?usp=sharing)
-6. [GitLab Certified Associate Instructions Wiki](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/wikis/GitLab-Certification-Instructions)(Internal GitLab only)
+1. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/%20gitbasicshandson.html)
+2. [GitLab Template Projects for VMs](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics)
+3. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
 
 
-## Before Class Preparation
+## Things to do Ahead
 
-1. Hands-on walkthrough
-   1. Practice each demo in the lab environment
-   2. Test each hands-on activity in the lab environment
-2. Websites to have up prior to class:
+1. Lab setup and preparation
+   1. Set up the GitLab with Git Basics hands on project with your organizations GitLab training lab environment (if not already done) by following the instructions in the ReadMe file within the [GitLab Demo Flow project](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-with-git-basics/gitlab-flow-demo)
+   2. Provision learners
+2. Hands-on walkthrough
+    1. Practice each demo in the lab environment
+    2. Test each hands-on activity in the lab environment
+3. Websites to have up prior to class
     1. [Related GitLab Docs pages](https://docs.gitlab.com/ee/gitlab-basics/)
     2. [Hands on Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/%20gitbasicshandson.html)
-    3. [Lab environment](https://gitlabdemo.com) 
-    4. [Example Demo Projects](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-with-git-basics)
-3. Slides
+    3. Lab environment
+    4. Example demo projects
+4. Slides
     1. Make sure you can access the slides with presenter notes
 
-## Instructor Tips and Links by Module Number 
+## Tips and Links by Module Number 
 
 ### Module 1- GitLab Overview
 1. Hands-on Environment: Instruct learners to sign into your hands-on demo/lab environment  prior to the starting these sections of the module.
@@ -61,16 +58,3 @@ description: "This Facilitator Guide is intended to walk you through all importa
 ### Module 7: Secure
 1. Complete the SAST demo using the instructions in the notes section/lab guide
 2. At the end of the session, please share out the link for the [GitLab Training Survey](https://forms.gle/sKcsKSqV1aeXkYyF7)
-
-### Cleaning up your Local Comp and Demo System After Class
-
-After each class you will want to clean up your systems so it does not interfere with your next class.
-
-1. Remove the Training directory from your local system: (rm -rf Training)
-2. Navigate to the training users group and remove the projects you created in labs
-3. If you followed the lab guide; the projects will be:
-    1. Top Level Project Repo
-    1. CI Test
-    1. Second Project
-    1. autoDevOps-test
-4. Navigate to each project -> Settings -General -> Advanced -> Delete Project -> copy and paste the entire project name -> click Delete Project -> confirm 
