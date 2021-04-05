@@ -192,6 +192,11 @@ New Zealand team members are eligible for a one time reimbursement of up to $750
 ### Annual Leave
 Team members are entitled to a minimum of four weeks’ annual leave per year. Annual leave does not expire and can be carried over each year, but GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice. Annual leave runs concurrently with GitLab PTO. Team members must select the `Vacation` option in PTO by Roots when taking vacation time to ensure that annual leave entitlement is properly tracked.
 
+### On-call (Engineering-only)
+New Zealand employment law requires that working on a formal Public Holiday, including [on-call](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/), be compensated with a day off as time-in-lieu, and time-and-a-half pay.  Our policy above covers for the [time-in-lieu requirement](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only) but we do not yet have any mechanism for handling the extra pay requirements.
+
+Therefore, a New Zealand team member may not be on-call on a New Zealand Public Holiday, and must seek/find a replacement for any affected shifts
+
 ### Sick Leave
 
 Team members in New Zealand are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Team members in New Zealand are entitled to 5 days' sick leave after six months’ current continuous employment with GitLab. For each 12-month period after meeting the above criteria, each team member gets at least five days’ sick leave. If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.

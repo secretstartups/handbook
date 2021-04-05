@@ -194,7 +194,7 @@ To determine your area:
 
    1. Select the country you live in. This will filter out all areas outside of your country. Then you will select your Province or State (if applicable). Based on the choices under "Metro Area," if you live within a commutable one hour and forty-five minutes of a city listed, you may use that as your location. If you are within a commutable one hour and forty-five minutes of more than one city, the city with the shortest commute would be used as your location. If not, you will select "Not Applicable." If no additional boxes for State/Province and/or Metro Area generate for the country you select, this country has the same location factor regardless of the city you live in. Similarly, if no additional box generates for Metro Area after selecting a State/Province, this State/Province has the same location factor regardless of the city you live in.
    1. If your country is not listed, reach out to total-rewards@domain to gather relevant data.
-   1. When you move, [you have to inform People Ops and Total Rewards](/handbook/people-group/contracts-and-international-expansion/#relocation) and your compensation may be adjusted up or down. Refer to Total Rewards team or the Compensation Calculator to see what the likely impact will be.
+   1. When you move, you have to inform People Ops and Total Rewards, per the [Relocation process](/handbook/people-group/relocation/) and your compensation may be adjusted up or down. Refer to Total Rewards team or the Compensation Calculator to see what the likely impact will be.
 
 ### Calculating Location Factors
 
@@ -218,7 +218,7 @@ GitLab will gather and analyze the data for each location factor annually as par
    * Reasons why the formula may be adjusted:
         * Not enough number of data points for the output to be statistically relevant
         * Adjusted to align with other metros in geo
-   * When analyzing: Focus on where we are having troubles recruiting, retaining, or have a smaller population of team members as these can be indicators of a misalignment in the region.
+   * When analyzing: Focus on where we are having troubles talent acquisition, retaining, or have a smaller population of team members as these can be indicators of a misalignment in the region.
 
 ## Level Factor
 

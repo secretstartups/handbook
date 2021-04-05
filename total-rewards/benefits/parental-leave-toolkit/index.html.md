@@ -104,7 +104,7 @@ A nice way to celebrate a team member's new addition to their family is by hosti
    * All team members taking Parental Leave are welcome to participate in this program (regardless of gender)
    * The program starts a month before a team member goes out on Parental Leave
    * Barbara (from Your 4th Trimester) will re-engage with the team member 30 days before the end of Parental Leave
-   * To apply for this coaching program, follow the [Growth & Development process (Over $1,000 USD)](/handbook/total-rewards/benefits/general-and-entity-benefits/#how-to-apply-for-growth-and-development-benefits).
+   * To apply for this coaching program, follow the [Growth & Development process (Over $1,000 USD)](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits).
 * Read [GitLab's guide to parenting as a remote worker](/company/culture/all-remote/parenting/)
 * Consider reaching out to a [Parental Leave Reentry Buddy](#parental-leave-reentry-buddies)
 
