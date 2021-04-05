@@ -75,7 +75,7 @@ GitLab Ultimate provides the single tool DevOps teams need to find and fix vulne
    * Yes - Lead with integrated platform to modernize software dev
 
 **Objection handling**
-- add link
+- [Potential objections and how to respond](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections)
 
 #### [Message house](/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house)
 
