@@ -670,11 +670,6 @@ These training materials are for team members who need to access custom reports 
 1. [PBP training for DIB certification completions](https://drive.google.com/drive/folders/1t4YCkrqoGYrfOTJA1DeMkGhQyEW-PJwZ?usp=sharing)
 
 
-## Moderation
-
-Moderation and CoC workflows are being determiend by the LXP implementation team and will be documented in future iterations.
-
-
 ## Support
 
 ### Temporary Support Model
@@ -798,6 +793,70 @@ Important considerations when responding to questions in the forum:
 1. If you need personal information from the user, direct them to open a ticket. This could include problems with logging in, accessing their account, or updating accout information.
 1. Whenever possible, link back to the [GitLab Learn user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) in your response. If the information you're sharing isn't documented on that page, add it.
 1. Review other ways to [use and interact with users on the forum](/handbook/marketing/community-relations/community-operations/#forum-uses)
+
+## Moderation
+
+Users on the GitLab Learn platform are expected to follow our [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). The following processes will be implemented to enforce our CoC when violated on the GitLab Learn platform.
+
+#### Moderation DRI
+
+Moderation of user activity on the GitLab learn platform will be maintained by the Learning and Development team.
+
+#### Moderation Workflows
+
+1. Navigate to the EdCast admin panel
+1. Click on `Content` -> `Reported Content` or `Reported Comment`
+1. Options for reported content/comments include to `unreport` which will remove the reported flag and keep content/comments available to users, or `trash` which will delete the content from the platform.
+1. Triage the reported content starting at the bottom of the list to address reports as they have come in.
+1. Click the name link in the column titled `Content Title` to review the reported content. Clicking this link will open the content in a new tab. After reviewing the content, take the following actions:
+1. If the content is **not** in violation of our CoC, but is reported as a technical issue, refer to the correct section of the admin documentation to resolve the issue and click the `unreport` button.
+1. If the content is in clear violation of our CoC, take the following actions:
+     1. Open a confidential issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information.
+     1. In the issue, determine appropriate action for the user's account.
+     1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
+     1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
+     1. Choose the `trash` option to remove the content
+1. If it is unclear if the content is in violation of our CoC, take the following actions:
+     1. Open an issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information
+     1. In the issue, determine appropriate action for the user's account.
+     1. Collaborate with the L&D and security team to determine the appropriate action for the user's account
+     1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
+     1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
+
+##### CoC Violation email template
+
+```
+Dear {{user.firstname}}
+
+Please note that your account on GitLab Learn has been suspended due to unacceptable behavior that does not follow or [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+
+{{Add details on which content was flagged and removed}}
+
+If you have any questions, please respond to this email.
+
+Sincerely,
+
+{{agent.firstname}}
+
+```
+
+##### CoC Moderation email template
+
+
+```
+Dear {{user.firstname}}
+
+Please note that your {SmartCard/Comment/Other Content} has been removed as it does not follow the guidelines in our [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+
+{{Add details on which content was flagged and removed}}
+
+If you have any questions, please respond to this email.
+
+Sincerely,
+
+{{agent.firstname}}
+
+```
 
 
 ### Support for frequently asked questions
