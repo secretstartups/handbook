@@ -1,8 +1,10 @@
 ---
 layout: handbook-page-toc
 title: "FY22 Population for Government Segmentation"
-description: "Operations, Procedures, Documentation"
+description: "THIS PAGE IS OUTDATED - DO NOT USE"
 ---
+
+**THIS PAGE IS OUTDATED - DO NOT USE**
 
 Country population as used to determine FY22 Government Segmentation. This data is frozen for FY22 account planning and will next be reviewed for FY23 planning and segmentation.
 

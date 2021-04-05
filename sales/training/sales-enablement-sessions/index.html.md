@@ -23,8 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Apr 1  | [Co-Selling with AWS](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/108)              |   Pete Goldberg              |
-| Apr 8  |  [Incident Management](https://gitlab.com/gitlab-org/gitlab/-/issues/290229)             |   Sarah Waldner              |
+| Apr 8  |               |                |
 | Apr 15 | [Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/95) | Fiona O'Keeffe & Jennifer Parker |
 | Apr 22 | *No sessions during last 2 weeks of the quarter*
 | Apr 29 | *No sessions during last 2 weeks of the quarter*
@@ -38,6 +37,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-04-01 | **[Co-Selling with AWS](https://youtu.be/dKWjSjkhyE0)**              |   Private              |
 | 2021-03-25 | **[Co-Selling with GCP](https://youtu.be/BOyE0NQxL90)**              |   Private            |
 | 2021-03-11 | **[Positioning Verify & Product Vision](https://youtu.be/zKmD4i80tdg)**         |  Private |
 | 2021-03-04 | **[Co-Selling with IBM](https://youtu.be/E546ohLj-cQ)** | Private |

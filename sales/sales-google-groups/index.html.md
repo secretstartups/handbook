@@ -44,7 +44,7 @@ The parent google group of the sales team is sales-all. Several child groups fal
 | sales-ops | team | Members of the sales operations team |
 | field-enablement | team | Members of the field enablement team |
 | sales-analytics | team | Members of the sales strategy team |
-| sales-recruiting | segment | People partners and sales recruiters who support the field organization |
+| sales-talent acquisition | segment | People partners and sales recruiters who support the field organization |
 
 See the below chart for a visualization of the Google Group hierarchy
 
@@ -111,7 +111,7 @@ The below channels are specific to the field organization.
 **Customer Success**
 Consistent with company guidance to use [public channels](/handbook/communication/#use-public-channels), there are instances where private channels are preferred. As we want to ensure an [inclusive environment](/handbook/values/#diversity-inclusion), the feedback from some of the team is that private channels are sometimes preferred as there is a perception of being judged (i.e., imposter syndrome). The recommendation is to use public channels as it:
 - Allows for broader collaboration (i.e., SA/TAM/PS, Product, Marketing, Sales) on solutions, recommendations, and best practices
-- Provides ability for broader learning for things such as customer challenges, enablement needs, product documentation improvements, etc. 
+- Provides ability for broader learning for things such as customer challenges, enablement needs, product documentation improvements, etc.
 - Enables the ability to harvest the information for content (i.e., TAM solutions, adoption content for digital journey, product documentation)
 The recommendation is to use public channels even while it may sometimes feel uncomforable as we [want to embrace this](/handbook/values/#embracing-uncomfortable-ideas-and-conversations).
 
