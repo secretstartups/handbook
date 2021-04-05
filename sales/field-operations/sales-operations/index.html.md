@@ -512,8 +512,8 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
 
 ### **Territory Management**
-1. [Sales Territories](/handbook/sales/territories/)
-2. [ISR Territories](https://about.gitlab.com/handbook/sales/territories/#territories)
+1. [Sales Territories](https://about.gitlab.com/handbook/sales/territories/#territory-ownership-sales)
+2. [ISR Territories](https://about.gitlab.com/handbook/sales/territories/#territory-ownership-isr)
 
 
 ### **Territory Success Planning (TSP)**
