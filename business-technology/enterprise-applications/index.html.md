@@ -41,7 +41,7 @@ Our team ensures the availability of these applications and integrations through
 *  Enterprise Applications supports all of the core finance systems with experienced admins that streamline and enhance current processes, turn on new features, and improve end to end process cycle time.
 
 ##### Integration Engineering
-* Our integration team manages all of the integrations between Enterprise Applications at GitLab.  Focusing on building out failover, redundant and auditable integrations that are constantly monitored. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/architecture/integrations/).
+* Our integration team manages all of the integrations between Enterprise Applications at GitLab.  Focusing on building out failover, redundant and auditable integrations that are constantly monitored. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/).
 
 ##### IT Audit and Compliance
 * Focusing on operationalizing and optimizing the Information Technology General Compute Controls (ITGCs) for GitLab.  This is a critical step to supporting our security posture and meeting SOX compliance and becoming a public company. Learn more in our [IT Compliance handbook page](https://about.gitlab.com/handbook/business-technology/it-compliance/).
@@ -52,7 +52,7 @@ Our team ensures the availability of these applications and integrations through
   <a href="/handbook/business-technology/enterprise-applications/bsa/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analyst</a>
   <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">IT Compliance</a>
   <a href="/job-families/finance/finance-systems-administrator" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Operations</a>
-  <a href="/handbook/business-technology/enterprise-applications/architecture/integrations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
+  <a href="/handbook/business-technology/enterprise-applications/integrations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
 </div>
 
 ## <i class="far fa-building" id="biz-tech-icons"></i> Results we are focused on!
