@@ -1259,4 +1259,4 @@ The support team cannot assist you with:
 
     * Salesforce updates/Account/Opportunity Management
     * Quoting - Whether it's a new quote or fixing a true up error, they cannot build quotes
-    * Questions regarding the LicenseApp
+    * Questions regarding the LicenseApp 
