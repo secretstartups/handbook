@@ -12,81 +12,53 @@ description: "Meet the GitLab Legal Team and learn how to engage with us for int
  
 # Welcome to GitLab Legal!
 
-We are glad you are here! GitLab's [LegalTeam](https://about.gitlab.com/company/team/?department=legal) is small but mighty and entirely at your service. 
+We are glad you are here! GitLab's [Legal Team](https://about.gitlab.com/company/team/?department=legal) is small but mighty and entirely at your service. 
 
-## How to Partner With the GitLab Legal Team to get What you Need 
-Please take a moment to read through the below, where we’ve tried to address the best ways to engage GitLab Legal depending upon your specific request. Alternatively, please feel free to check out this [tutorial video](https://www.youtube.com/watch?v=Kh_pPeJkF2o), featuring our very own Rob Nalen. If you still have questions, you can always reach us at *[`#legal`](https://gitlab.slack.com/archives/legal)*
 
-### Anonymous Internal Ethics and Compliance Reporting
+## How to Reach Us
 
-We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using EthicsPoint. Futher details are found on the [Code of Business Conduct and Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations) handbook page. We have also engaged Lighthouse to support when relating to reporting team member relations issues. Details can be found on the [People Group](/handbook/people-group/#how-to-report-violations) handbook page.
+#### Anonymous Internal Ethics and Compliance Reporting
+We take employee concerns very seriously and encourage all GitLab Team Members to report any ethics and/or compliance violations by using Lighthouse. Futher details are found on the [People Ops Handbook page](https://about.gitlab.com/handbook/people-group/code-of-conduct/#how-to-contact-gitlabs-24-hour-hotline).
 
-### Quick Questions
-For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. If your request is for legal advice, deliverables, or any discussion of confidential information, please keep reading. 
+#### Quick Questions
+For quick questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*. We find this channel best for questions regarding process, who handles what or how to find certain things if the Handbook has not yielded the right result for you after searching. *[`#legal`](https://gitlab.slack.com/archives/legal)* is not a private channel, so your inquiry will be visible to the entire company. One of our Team Members will do their best to answer your question in a timely fashion. **If your request is sales or procurement related, involves legal advice, deliverables, or any discussion of confidential information, please follow the process set forth in the table below.** 
 
-### Privileged / Confidential Communications
-If you have a request that involves confidential and/or sensitive information, please email [legal@gitlab.com](mailto:legal@gitlab.com).  
 
-For more information on Attorney-Client Privilege, see the [General Legal FAQs](https://about.gitlab.com/handbook/legal/#general-legal-faqs) below. 
+| Type of Request | Process / Information |
+| ------ | ------ |
+| Sales / Customer Related matters (which includes any matter that is, or could potentially be, revenue generating) | [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)|
+| Procurement / Vendor (which includes any matters related to a potential purchase by GitLab) | [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) Procurement will engage legal as necessary|
+| *Any Non Sales or Procurement Request (Corporate, Marketing, Employment or Product & Privacy Questions) | Email: Legal_Internal@gitlab.com |
+| Marketing Request | Follow the steps above, be sure to visit the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/) |
+| NDA Request | Use the [GitLab NDA](https://drive.google.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view) send to recipient using electronic signature. See [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) for who can sign on behalf of GitLab |
 
-### Sales Guide: Collaborating with GitLab legal 
-**Are you a member of GitLab Sales?** Everything you're looking for can be found in the [Sales Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/customer-negotiations/)
+*To ensure the protection of confidential and privileged information, GitLab Legal is proud to use [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html) for all general requests.
+For more information on Attorney-Client Privilege, see the [General Legal FAQs](https://about.gitlab.com/handbook/legal/#general-legal-faqs) below.  
 
-### Marketing Guide: Collaborating with GitLab legal 
-**Is your need marketing related?** Everything you're looking for can be found in the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/)
-
-### Requests with Deliverables
-If you are making a request that requires some sort of deliverable, please use the list below to determine how you should reach out. If you are unsure where your non-Slack request fits, refer #3 below. 
-
-### 1. Vendor, Partner, and other "To Pay" Contracts
-* If you are looking for a new vendor, need an NDA for a vendor , or need review of a vendor  contract, these services are handled by the Procurement Team. For purposes of this process, anyone that will receive payment from GitLab is considered a vendor. 
-* Legal will be brought in by Procurement for escalations only. Please see the [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) for more information on the Vendor Management Process. Once a Vendor NDA and/or Contract has been completed, it should be uploaded by the requestor into our contract management database tool [ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/). If you need a license, you will need to submit an Access Request.
-
-### 2. Insurance Certificate
-* If you need an insurance certificate (other than for worker's compensation) you can send an email request directly to our insurance broker at *[ABD](mailto:abdcertdept@theabdteam.com).*    You will need to include contact information for the customer seeking to be added to the certificate and any other specific requirements relating to the coverage. If you require an insurance certificate for worker's compensation email: payroll@gitlab.com with the same information.
-
-* For a summary of GitLab's insurance coverage [ please refer to this link](https://drive.google.com/file/d/17pvhu9cKtoQatO7xOlKbwSoOXDEJRpiQ/view?usp=sharing).
-
-### 3. Other Legal Requests 
-We use [issues](https://gitlab.com/gitlab-com/legal-and-compliance/issues) to track all other requests that are not customer-related, but require input from the Legal Team or a deliverable, such as: 
-
-- A legal question on an existing issue
-- Open source questions
-- General compliance inquiries 
-- [NDAs](https://drive.google.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view)
-- Waivers 
-- [Media Consent and Release Forms](https://drive.google.com/file/d/10pplnb9HMK0J0E8kwERi8rRHvAs_rKoH/view?usp=sharing)
-
-Please tag the relevant Legal Team Member and ask your questions in the issue that relates to your question. If there is not an issue related to your question, please create an issue in the [Legal and Compliance Issue Tracker](https://gitlab.com/gitlab-com/legal-and-compliance/issues) using issue templates. **All Legal and Compliance issues should be marked as confidential. GitLab team members will be able to access these issues directly.** For more specific instructions, see our [issue tracker workflow](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/).
-
-**_If you are unsure where your request fits, an issue is where your journey begins._**  
-Please be sure to include sufficient detail regarding your request, including: time-sensitive deadlines, relevant documents, and background information necessary to respond.
  
-## Contract Templates
-* [Mutual Non-Disclosure Agreement](https://drive.google.com/a/gitlab.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view?usp=sharing)
-* [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
-* [Media Consent and Release Form](https://drive.google.com/file/d/10pplnb9HMK0J0E8kwERi8rRHvAs_rKoH/view?usp=sharing)
 
-## Other Resources
+## Helpful Resources 
+
 * [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 * [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
 * [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
 * [Acceptable Licenses](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/licensing.md) - list of acceptable licenses covering third party components used in development
 
-### Processes
+## Processes
 * [Uploading Third Party Contracts to ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
 * [Issue Tracker Workflows](https://about.gitlab.com/handbook/legal/issue-tracker-workflows/)
 * [Privacy Review Process](https://about.gitlab.com/handbook/legal/privacy/#privacy-review-process)
 
 ## Policies
-* [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
 * [Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information) - general information about each legal entity of the company
-* [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
-* [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
+* [Compliance](https://about.gitlab.com/handbook/legal/global-compliance/) - general information about compliance issues relevant to the company
 * [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) GitLab's policy for how it handles personal information about team members.
-* [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
+* [General Guidelines](https://about.gitlab.com/handbook/general-guidelines/) - general company guidelines
+* [GitLab Modern Slavery Act Transparency Statement](https://about.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)
+* [Privacy Policy](https://about.gitlab.com/privacy/) - GitLab's policy for how it handles personal information
 * [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records
 * [Related Party Transactions Policy](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)
+* [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
 
 # Code of Business Conduct and Ethics 
 GitLab's Code of Business Conduct and Ethics summarizes the ethical standards for all directors, officers, team members and contractors of GitLab and of its direct and indirect subsidiaries and is a reminder of the seriousness of our commitment to our values. [Please click here to read GitLab's Code of Business Conduct and Ethics in its entirety.](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) 
@@ -137,25 +109,7 @@ A litigation hold is the process a company uses to preserve all forms of relevan
 
 Once the company becomes aware of potential litigation, the company's attorney will provide notice to the impacted employees, instructing them not to delete or destroy any information relating to the subject matter of the litigation.  The litigation hold applies to paper and electronic documents. During a litigation hold, all retention policies must be overridden.
 
-## 3. Human Rights
-
-### How is GitLab advancing Human Rights?
-
-We are committed to upholding fundamental human rights and believe that all human beings around the world should be treated with dignity, fairness, and respect. Our company will only engage suppliers and direct contractors who demonstrate a serious commitment to the health and safety of their workers, and operate in compliance with human rights laws. GitLab does not use or condone the use of slave labor or human trafficking, denounces any degrading treatment of individuals or unsafe working condition, and supports our products being free of conflict minerals.
-
-#### Anti-Slavery and Anti-Human Trafficking Policy
-
-1. Slavery and Human Trafficking are crimes and violations of fundamental human rights. These violations take various forms, such as slavery, servitude, forced and compulsory labour, and/or human trafficking, all of which have in common the deprivation of a person’s liberty by another in order to exploit them for personal or commercial gain. GitLab is committed to acting ethically and with integrity in our business dealings and relationships by implementing and enforcing systems/controls to ensure modern slavery or human trafficking are not taking place in our business, or with those with whom we do business.
-
-2. GitLab is also committed to ensuring there is transparency in our business and in our approach to tackling slavery and human trafficking throughout our supply chains and overall organization, consistent with disclosure obligations we may have under applicable law. To that end, we prohibit the use of forced, compulsory or trafficked labor, or anyone held in slavery or servitude, whether adults or children by anyone working for or with GitLab.
-
-3. All employees, directors, officers, agents, interns, vendors, distributors, resellers, contractors, external consultants, third-party representatives and business partners are expected to comply with this policy.
-
-4. Every Team Member is responsible to assist in the prevention, detection and reporting of slavery and human trafficking by those working for or with GitLab.  Each Team Member is encouraged to raise concerns about any known or suspected incidents of slavery or human trafficking in any parts of our business or supply chains at the earliest possible stage.   If you are unsure about whether a particular act, the treatment of workers more generally, or their working conditions within any tier of our supply chains or business partners constitutes any of the various forms of modern slavery/human trafficking, raise it at Compliance@Gitlab.com.
-
-5. We may terminate our relationship with individuals and/or Business Partners if they breach this policy.
-
-## 4. Foreign Corrupt Practices Act
+## 3. Foreign Corrupt Practices Act
 
 The Foreign Corrupt Practices Act is a United States federal law that prohibits U.S. citizens and entities from bribing foreign government officials to benefit their business interests. It is not only an invaluable tool to help fight corruption but one to which we must be compliant. As GitLab Inc. is a U.S. incorporated entity, we need to make sure our operations worldwide are compliant with the provisions of the Foreign Corrupt Practices Act. To that end, GitLab requires Team Members to complete an annual online course relating to anti-bribery and corruption at GitLab. In the training, learners will explore improper payments, including facilitation payments and personal safety payments, as well as policies on commercial bribery. 
 
