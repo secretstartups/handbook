@@ -142,11 +142,9 @@ If the recruiter needs to add an additional week to the issue, please copy and p
 
 * When the prospect responds with interest and we have a matching requisition, select the option to “convert to candidate” in Greenhouse.
 
-#### Global Self-Identification Survey
+####  EEOC Questionnaire
 
-* When the candidate is moved into the `Screening` stage, the person sending out the request to schedule an interview will need to send the **Global Self-Identification Survey** before **any** other steps are taken. Information about sending the survey can be found [here](/handbook/hiring/greenhouse/#global-self-identification-survey).
-
-Recruiters should ensure this step has been done before the perform the screening call. If the survey has not been sent, and the candidate is still in the screening stage, the survey should be sent out.
+* All candidates that are evaluated for a requsition **must** be sent the **EEOC Questionnaire**. For requisitions that are posted externally, where a candidate would apply, the candidate will automatically be presented with the *optional* survey in the application. However, if a candidate comes from a source where they **wouldn't** have necessarily applied (e.g. via an *Agency* or were *Sourced* or *Referred*), then the **EEOC Questionnaire** will need to be sent **manually**. Information about checking the status of that questionnaire and how-to send it can be found [here](/handbook/hiring/greenhouse/#eeoc-questionnaire).
 
 #### Screening
 
