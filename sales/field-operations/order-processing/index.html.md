@@ -412,7 +412,7 @@ GitLab provides free licenses to qualifying entities through the Community Progr
 1. All Education opportunities should be owned by Christina Hupy and all open source or startup opportunities should be owned by Nuritzi Sanchez.
 1. If you need to assign an opportunity or a renewal opportunity to Christina Hupy or Nuritzi Sanchez, please chatter the program manager in Salesforce. 
 
-### **Quote Discount and Payment Term Approval Process**
+### **How to Submit a Quote for Discount and Payment Term Approval**
 
 The following is intended as a guide for Opportunity Owners who need to submit a quote for approval for discount or payment terms. If the quote requires additional approvals before sending to a customer, there will be a <span style="color:red">**red stop sign**</span> flagged with "**Additional Approvals Required**".
 
