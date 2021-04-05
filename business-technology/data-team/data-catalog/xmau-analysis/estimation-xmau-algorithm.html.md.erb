@@ -13,43 +13,44 @@ title: "Estimation Algorithm"
 
 ## Estimation Algorithm
 
-For the Self-Managed instance that hosts our SaaS GitLab.com product, we get the accurate value via Usage Pings. For other Self-Managed instances, customers have the option to turn disable Usage Ping; therefore, we would not receive any usage statistics for that instance. In order to calculate estimated usage values across our Self Managed customers, we need to develop an algorithm to predict usage across instances who have disabled their Usage Ping.
+GitLab Self-Managed customers have the option to enable or disable the GitLab usage ping, which returns to GitLab user activty and other usage metrics for analysis. Some customers choose to send this data knowing that it helps GitLab to prioritize and design lovable features. Other customers, for a variety of reasons, choose not to participate. Therefore, any analysis of user-level data is limited to GitLab.com customers and those Self-Managed instances that have opted to share their data with GitLab. So, to calculate estimated usage, the Data team has developed an algorithm to predict usage for thos instances who have disabled their usage ping.
 
-This section explains our first attempt in these xMAU estimations.
+The below section explains the first attempt to estimate xMAU.
 
 ### Current Methodology
 
-**What we know ?**
+**What we know**
 
-* The number of Active subscriptions per month
-* The number of Active subscriptions that send us a Usage Ping payload per month broken down by version
-* The release date (therefore month) of a specific xMAU counter in Usage ping. For example we know that the `merge_requests_users` which is the GMAU of the Create - Source Code Group was released in version 12.9
+* The number of active subscriptions per month
+* The number of active subscriptions that send GitLab usage ping data each month
+* The release date (or month) for each specific xMAU counter in the usage ping. For example, we know that the `merge_requests_users` which is the GMAU of the Create - Source Code Group was released in version 12.9
 
-**What we don't know ?**
+**What we don't know**
 
 * Number of Active Free Instances
 
-**What we can do ?**
+**What we can do**
 
-Let's discuss a real-life example! The counter used as SMAU for Dev:Create stage is `action_monthly_active_users_project_repo`. It was released on version 13.3. To calculate the Estimated SMAU we follow this process step-by-step:
+Let's discuss a real-life example. The counter used as SMAU for Dev:Create stage is `action_monthly_active_users_project_repo`. It was released on version 13.3. To calculate the Estimated SMAU we follow the following process:
 
 * Calculate recorded GMAU split by delivery
 * Calculate per month 
-  * For October, we know we have 3500 subscriptions that sent us a Usage Ping Payload out of 5000 subscriptions
-  * Among them we split between subscriptions that are on a version 13.3 or above and the ones which have 13.2 or below and the ones which don't send us any payload.
-  * [This SiSense chart saw the split per month](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Managers:-Supporting-Dashboard?widget=10065654&udv=953103)
-* We get from the chart above a % of subscriptions that send us payloads and that are on 13.4 or above out of all Active Subscriptions
+  * For a given month, let's say there were 3500 out of 5000 Subscriptions that sent GitLab usage ping data
+  * Among them we split between subscriptions that are on a version 13.3+, those that are 13.2- and those that don't share data.
+  * [This SiSense chart displays the split per month](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Managers:-Supporting-Dashboard?widget=10065654&udv=953103)
+* We get from the chart above a % of subscriptions that sent us data and that are on 13.4 or above out of all active subscriptions
 * We then deduce that Estimated SMAU = Recorded SMAU / % on 13.3
 
-Since counters are released on different GitLab version, the estimation is customised form one counter to another. 
+Since counters are released on different GitLab version, the estimation is customised from one counter to another. 
 
-This number is actually a quite accurate number to estimate paid XMAU but can be used at first for calculating estimated xMAU. Though we can imagine several improvements in order to make this estimator more robust:
+This number may be used to estimate xMAU. However there are several improvements that can be made to the algorithm:
 
-* The first improvement would be to use the sum of the seat quantity ordered instead of the number of subscriptions.
-* We could also break down the estimator per plan (current problem: a subscription can have 2 instances from 2 different product tiers)
-* A major area of improvement is regarding our Core estimation. We currently assume that we have the same patterns between paid and free in terms of version upgrade and usage ping opt-in. While usage ping opt-in rate estimation seems very complicated to improve an critical area of improvement would be around version upgrade and usage data trend for Core Instances
+* Use the sum of the seat quantity instead of the number of subscriptions.
+* Break down the estimator per plan (current problem: a subscription can have 2 instances from 2 different product tiers)
+* Improve how we estimate Core adoption
 
-The table below explained for the last month for each stage how we calculate the Estimated MAU and the Estimated Uplift from the Recorded Self-Managed SMAU.
+The table below explains for each stage how we calculate the estimated xMAU and the estimated uplift from the recorded Self-Managed xMAU.
+
 <br>
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10461005, dashboard: 789044, embed: 'v2') %>">
 
