@@ -2,8 +2,8 @@
 layout: handbook-page-toc
 title: Sustainability at GitLab
 description: Strategies and details on GitLab's sustainability efforts
-twitter_image: "/images/opengraph/file-name.png"
-twitter_image_alt: "describe the image being used here"
+twitter_image: "/images/opengraph/handbook/handbook-sustainability.png"
+twitter_image_alt: "Sustainability focused handbook illustration with the GitLab Tanuki logo and a globe on the cover of the handbook"
 twitter_site: "gitlab"
 twitter_creator: "gitlab"
 ---
