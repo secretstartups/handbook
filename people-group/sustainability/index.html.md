@@ -22,9 +22,9 @@ As GitLab's reach in the global developer community grows, so does our impact on
 
 [GitLab's mission is to create a world where everyone can contribute](https://about.gitlab.com/company/strategy/#mission). When everyone can contribute, consumers become contributors, and we greatly `increase the rate of human progress`.
 
-_How_ and _if we can increase the rate of human progress is limited by humans' ability to focus on contributing. Today, we see a reduction in contributions when someone is located where extreme weather events like floods or wildfires occur. Tomorrow, we may see a drop in contributions due to dramatic shifts in weather patterns. 
+_How_ and _if_ we can increase the rate of human progress is limited by humans' ability to focus on contributing. Today, we see a reduction in contributions when someone is located where extreme weather events like floods or wildfires occur. Tomorrow, we may see a drop in contributions due to dramatic shifts in weather patterns. 
 
-The wider community's total contributions are at risk of permanent reduction when large groups of people are required to migrate due to climate change. [This is already beginning to happen today.] (https://www.nytimes.com/interactive/2020/07/23/magazine/climate-migration.html). 
+The wider community's total contributions are at risk of permanent reduction when large groups of people are required to migrate due to climate change. [This is already beginning to happen today](https://www.nytimes.com/interactive/2020/07/23/magazine/climate-migration.html). 
 
 If we don't hold ourselves accountable for sustainability, GitLab will continue to attack our mission, reducing the possibility of long-term success.
 
