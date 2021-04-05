@@ -120,15 +120,19 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 
 <details>
   <summary markdown="span">Compassionate and Bereavement Leave</summary>
+
 * All employees are entitled to 2 days of paid compassionate leave in the event that an immediate family or household member dies or suffers a life threatening illness or injury.
 * This leave runs concurrently with GitLab PTO. Team members should select Bereavement Leave in PTO by Roots to ensure that leave entitlements are properly tracked.
+
 </details>
 
 <details>
   <summary markdown="span">[Public Holidays](https://www.fairwork.gov.au/leave/public-holidays)</summary>
+
 * All team members are entitled to at least their base pay rate for all hours worked on public holidays.
 * Team members who take time off for public holidays are entitled to their base pay rate for the ordinary hours they would have worked. GitLab encourages all team members to take time off for the holidays they observe.
 * Team members must select `Public Holiday` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
 </details>
 
 <details>
@@ -150,6 +154,7 @@ Jury Duty
 ### GitLab PTY Australia Parental Leave
 
 **Statutory Leave Entitlement**
+
 All team members are entitled to up to 12 months of unpaid parental leave if they have been at GitLab for at least 12 months. They can also request up to 12 months of additional unpaid parental leave.
 
 **Australian Government Parental Leave Payment**
