@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Importing Projects for Customers
+title: Project Imports and Exports for Customers
 description: "Provides guidance on when GitLab Team members might offer to import projects on behalf of customers or prospects, and the process for doing so."
 category: GitLab.com
 ---
@@ -13,6 +13,21 @@ category: GitLab.com
 Until further notice, Support-Infra imports **are not available**.
 
 Support engineers should still make use of the below information to identify import problems and comment on the relevant GitLab issues.
+
+## Project Exports
+
+If a customer is having issues with exporting a project, troubleshoot as normal, including:
+
+1. Ask user to attempt both UI and API.
+1. Gather necessary information to search logs. See [Identify Import Errors](#identify-import-errors) for tips based on how we search for failed imports.
+1. Find relevant issue and comment, or create one if needed, with Kibana/Sentry links.
+
+Once an issue is created or commented on, you may use the [`Support::SaaS::Export::Offer one time` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073665160) to offer a one-time export attempt. If the customer accepts the offer, then [open an export request in the internal requests tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Export%20Request).
+
+For convenience, two additional macros are available after export attempt is made:
+
+- [`Support::SaaS::Export::Completed - Successful`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073665100)
+- [`Support::SaaS::Export::Completed - Failed`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073665000)
 
 ## Overview
 
