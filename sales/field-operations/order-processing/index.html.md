@@ -520,6 +520,19 @@ First, go to the Partner's Account page in Salesforce.
 - **For partners on the new program**, review the "Partner Track" field. Then, reference the [Partner Program Discount Table](https://gitlab.my.salesforce.com/0694M000008xON4).
 - **For partners under a previous contract**, review the "Reseller Discount" field.
 
+### Service Attach Quote Approval
+
+Effective 2021-04-05, the quote approval module has been updated to trigger an approval workflow on quotes that meet the [FY22 GTM Service Attach](https://docs.google.com/presentation/d/1wLYQP7KV9UMdBSneg_caBFnckHPcKEw6C5zfEsrysFM/edit#slide=id.gc5c5401a33_0_5) opportunity criteria. 
+
+Service Attach Opportunity Criteria:
+
+1. Order Type = New - First Order
+2. Net ARR => $20,000
+3. Segment = Large 
+
+Service Attach Quote Approval Process:
+
+
 
 ### How to Request Quote Approval via Chatter
 
