@@ -275,10 +275,8 @@ Select the maintenance you need to reschedule.
 ![Maintenance selected](/images/support/cmoc_get_in_maintenance.png){: .shadow}
 
 Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
-![Reschedule Maintenance](/images/support/cmoc_reschedule_maintenance.png){: .shadow}
 
-Select *Post Update Without Starting* 
-![Post maintenance without starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
+## Sending an update about a scheduled maintenance
 
 Enter the update provided by the Infrastructure team and confirm the appropiate broadcast channels with the team before proceed to sent the update.
 
