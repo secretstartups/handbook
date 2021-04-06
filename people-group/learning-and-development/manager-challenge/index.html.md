@@ -13,7 +13,7 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
 
-L&D will be rolling out a **three-week iteration of the program** during the month of May 2021. **The program will start 2021-05-03 and end on 2021-05-21. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the May program! Currently, the program is being offered to GitLab team members. 
+L&D will be rolling out a **three-week iteration of the program** during the month of May 2021. **The program will start 2021-05-03 and end on 2021-05-14. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the May program! Currently, the program is being offered to GitLab team members. 
 
 Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
 
@@ -88,7 +88,7 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 | Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Learn about the SOCIAL STYLES assessment <br> *Define what it means to be a manager at GitLab |
 | Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
 | Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Define how to become a high performing team |
-| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
+| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 1hr 20 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
 | Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Manager Action Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
 ### Week 2
@@ -103,30 +103,12 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------|---------|
-| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics |
-| Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | <br> *Share examples and tips on crucial conversations |
-| Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | <br> * Evaluate what needs to be included when giving constructive feedback |
-| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
-| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the manager action plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges  |
+| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> Crucial Conversations |
+| Day 7   | Cultures | 20 minutes | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration Activity |
+| Day 8   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach |
+| Day 9   | Live Learning - Effective Communications with Your Team | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
+| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the manager action plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
 
-
-### Week 3
-
-During week three we will discuss **Peak Performance & Coaching & Cultures**. Information covered in week three can be found on the following handbook pages: 
-- [Coaching](/handbook/leadership/coaching/)
-- [Career Development](/handbook/people-group/learning-and-development/career-development/) 
-- [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
-- [Building Trust](/handbook/leadership/building-trust/)
-- [Iteration](/handbook/values/#iteration)
-- [Cross-Culture Collaboration Guide](https://about.gitlab.com/company/culture/cross-culture-collaboration-guide/)
-
-| Day     | Daily Challenge | Length of Time   |  Format | Activity | 
-|---------|-----------------|------------------|---------| ---------|
-| Day 11   | Eliciting Peak Performance and Motivation | 20 minutes | Self-paced Daily Challenge | <br> *Analyze how to motivate your teams to reach peak performance <br> *Applying Iteration  |
-| Day 12   | Cultures | 20 minutes | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration Activity |
-| Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
-| Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
-| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> Catch up on weekly challenges <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
 
 ### Manager Action Plan
 
