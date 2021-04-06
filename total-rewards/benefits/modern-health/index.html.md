@@ -13,20 +13,21 @@ description: Information on GitLab's Employee Assistance Program.
 
 ## Employee Assistance Program
 
-GitLab offers an Employee Assistance Program to all team members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to coaching sessions at no cost to you.
+GitLab offers an Employee Assistance Program to all team members via [Modern Health](https://www.joinmodernhealth.com/). Modern Health provides technology and professional support to help reduce stress, feel more engaged, and be happier. Through GitLab, you have access to 5 coaching sessions and 6 therapy sessions at no cost to you as well as 100+ digital programs & mediations and unlimited live provider-led group sessions or circles.
 
 ### What does Modern Health offer?
 
 Modern Health is the one-stop shop for all tools related to mental well-being and self-improvement. Members gain access to the following features:
 * **Personalized Plan:** Take a well-being assessment and review which tools may be most helpful for you.
-* **Professional Support**: Get matched to a dedicated professional who can help you reach your personal and professional goals. As a GitLab team member, your first 10 sessions are complimentary. If you need more than 10 sessions please reach out to the Total Rewards team at `total-rewards@domain` to review adding additional sessions. 
-* **Therapy**: As of `2021-03-18`, GitLab plans to add therapy to the Employee Assistance Plan through Modern Health, with six sessions per calendar year included. More details will be added soon. In the meantime, please direct questions to the Total Rewards team in the `#total-rewards` Slack channel.
+* **Professional Support**: Get matched to a dedicated professional who can help you reach your personal and professional goals. As a GitLab team member, your first 5 coaching sessions are complimentary. After the allotted sessions have been utilized, team members can work directly with the provider to determinate a path forward at an additional cost to the team member.
+* **Therapy**: As of `2021-03-18`, GitLab has added Therapy to the offerings through Modern Health. As a GitLab team member, your first 6 therapy sessions are complimentary. After the allotted sessions have been utilized, team members can work directly with the provider to determinate a path forward at an additional cost to the team member.
 * **Curated Content Library:** Learn quick tips and tricks to prevent burnout, manage stress, and cope with anxiety or depression based on our evidence-based digital programs. You can use these digital programs for in-the-moment support or to build your own toolkit of techniques to improve your mental well-being.
+* **Circles:** [Live community sessions](https://circles.modernhealth.com/) led by Modern Health therapists and coaches, designed to help you proactively improve your mental health. Access to circles is unlimited and center around topics such as foundations of mental health, healing asian communities, power of women, and others. 
 
 If you’re still not sure where to get started, we recommend that you:
 1. Download the app and register your account
 2. Register and take the well-being assessment and
-1. Get matched to a dedicated coach who can work with you to figure out next steps.
+1. Get matched to a dedicated coach and/or therapist who can work with you to figure out next steps.
 
 ### Which areas does Modern Health support?
 
@@ -52,7 +53,7 @@ Modern Health’s model is grounded in evidence-based approaches, primarily Cogn
 
 ### When do my Modern Health benefits reset?
 
-Your benefits reset on March 20, 2021.
+Your benefits reset on March 20, 2022.
 Note: Unused sessions do not rollover when your benefits reset.
 
 ### What languages is Modern Health available in?
@@ -83,27 +84,45 @@ Your well-being score empowers experts at Modern Health to provide you the best 
 **What is coaching?**
 Coaching is a collaborative process to help you make important changes in your personal and professional life. Your coach is there to help you figure out how you want to change and the steps you need to take to do so. Your coach’s job is to help you organize your thoughts, emotions, and goals and break things down into smaller steps that create forward movement and growth. The client is the driver of these sessions, while the coach is there to provide reflection, clarity, and accountability.
 
-**What is the difference between coaching and therapy?**
-Modern Health’s belief is that anyone can benefit from working with a coach, and some people need therapy in addition to or instead of coaching. The primary difference between coaching and therapy is that therapy is conducted by licensed mental health professionals who are trained to treat clinical difficulties (e.g., depression, anxiety) whereas coaches work on non-clinical issues (e.g, personal growth, financial well-being, and professional development). If you are experiencing a clinical need, please access therapy through your health insurance or EAP. You can also work with your dedicated coach to determine if you would benefit from therapy.
+**What is therapy?** 
+Therapy is talk-based mental health treatment delivered by licensed clinicians to help with mental health needs. Therapy is appropriate if there is a clinical concern, as defined by the duration of symptoms (e.g., most of the time for two weeks) and their severity (e.g., interfering with someone’s ability to function in an important area of life). Those with a clinical need essentially experience symptoms (e.g., depression, anxiety) that are strong, last a long time, and impact the ability to function. 
 
-**How do you match me to a coach?**
+**What is the difference between coaching and therapy?**
+Modern Health’s belief is that anyone can benefit from working with a coach, and some people need therapy in addition to or instead of coaching. The primary difference between coaching and therapy is that therapy is conducted by licensed mental health professionals who are trained to treat clinical difficulties (e.g., depression, anxiety), whereas coaches work on non-clinical issues (e.g., personal growth, financial well-being, and professional development). You can maybe think about it as the difference between seeing an orthopedic surgeon and a physical therapist. If you have broken your leg, you should see a surgeon since they are uniquely qualified to support you. But if you’ve sprained your ankle, a physical therapist is a much better fit. Not only would seeing a surgeon be more intense than you need, but physical therapists are better trained to help you gain strength. In this metaphor, therapists serve as the surgeon and coaches serve as the physical therapist.
+
+Here is a breakdown of the different types of providers in our coaching and therapy networks:
+
+Coaching: Coaches work with individuals to help them have the kind of lives they want. While there is no specific degree or license required to practice as a coach, all Modern Health coaches are rigorously vetted, certified, and trained in evidence-based approaches.
+
+Therapy: Therapy can be provided by therapists or psychologists. Therapists can have a variety of titles (counselors, therapists, clinicians, etc.). What they have in common is a master’s degree (M.A., or M.S.) in clinical psychology or a related field and are licensed in the state in which they practice. Common licenses include Licensed Marriage and Family Therapist (LMFT), Licensed Clinical Social Worker (LCSW), and Licensed Professional Counselor(LPC). These therapists are also trained in the assessment and treatment of
+mental health concerns. Psychologists have a doctoral degree (Ph.D., or Psy.D.) in clinical psychology or a related field such as counseling psychology or education and are licensed in the state in which they practice. They are trained in the assessment and treatment of mental health concerns.
+
+**Why do I only see coaching as an option?**
+Based on your answers to the well-being survey, Modern Health will determine the appropriate care for your level of well-being needs and direct you to match with either a coach and/or a therapist. We believe that everyone can benefit from working with a coach and some people can benefit from working with a therapist if they have a clinical need.
+
+If you weren't matched to a therapist based on your well-being survey, but would still like to be matched with a therapist, you can reach out to help@joinmodernhealth.com and notify the Care Team that you were matched to coaching, but would like to be matched to a therapist. The Care Team will then work with you on your preferences, areas of focus, etc. and make sure you receive great matches for therapy.
+
+**How do you match me to a provider?**
 Modern Health matches you to appropriate coach based on a proprietary algorithm that takes into account your well-being assessment and areas you want to focus on.
 
-**How often should I meet with my coach?**
-How often you meet with your coach depends on your personal situation. Some people like to meet weekly, whereas others meet every month or two.
+**How often should I meet with my coach or therapist?**
+How often you meet with your coach or therapist depends on your personal situation. Some people like to meet weekly, whereas others meet every month or two.
 
 **Can I complete sessions with my partner or a family member?**
-Yes, you are able to use your sessions with your partner or a family member. If you choose to do so, each completed session will count as one of your covered sessions.  Please discuss this directly with your coach.
+Yes, you are able to use your sessions with your partner or a family member. If you choose to do so, each completed session will count as one of your covered sessions.  Please discuss this directly with your coach or therapist.
 
 **What can I expect during my first coaching session?**
 During the first session, your coach will kick things off with an introduction to what coaching is and what you can expect during the session, including reviewing confidentiality (nothing you discuss is shared with Modern Health or your employer unless you request more support or need crisis resources). They will then ask you a few questions to better understand what you hope to get out of the coaching experience and what a successful experience would be for you. By setting expectations up front, the coach will be able to better help you identify personal goals and take steps towards achieving them. In subsequent sessions, the coach will follow up on any action items to understand their impact and you will together come up with next steps. The standard coaching session is 30 minutes and takes place over video, usually every two weeks or once a month.  In between sessions, you are encouraged to reach out to your coach with any follow up questions or advice via Modern Health’s digital messaging tool in the app as well as utilize the digital CBT and meditation programs.
 
+**What can I expect during my first therapy session?**
+Similar to coaching, therapists will start each session with an introduction and review of expectations and confidentiality to make sure that you feel comfortable with them and the process. They will then ask you a series of questions to get a better understanding of your symptoms and background to best identify how you can work together to achieve your goals. After this initial assessment, they will work collaboratively with you to formulate a treatment plan and review different methods to help you address your needs (e.g. Cognitive Behavioral Therapy, Acceptance and Commitment Therapy, Dialectical Behavior Therapy). They will likely give you some follow up action items that you can take away from the session.  In follow up sessions they will review specific action items and alter your treatment plan based on your needs. Typically, therapist visits will be 45-50 minutes in length and occur in person or via video, often weekly. 
+
 **How should I prepare for my first session?**
-Before your first session, we encourage you to ask yourself a few questions. As with many other aspects of your life, the more effort you put into your coaching experience, the more you’ll get out of it. These can help guide your initial conversations with your coach.
+Before your first session, we encourage you to ask yourself a few questions. As with many other aspects of your life, the more effort you put into your coaching and/or therapy experience, the more you’ll get out of it. These can help guide your initial conversations with your coach or therapist.
 * Where do you want to start?
-* You might have a lot of areas of interest (e.g., you want to learn mindfulness, and work on your finances). Spend some time thinking about where you want to get started before your first visit. What is most on your mind or stressing you out?
+   * You might have a lot of areas of interest (e.g., you want to learn mindfulness, and work on your finances). Spend some time thinking about where you want to get started before your first visit. What is most on your mind or stressing you out?
 * Do you know what your goals are or do you need help figuring that out?
-* What do you want to get out of coaching?
+* What do you want to get out of coaching or therapy?
 * What do you want your coach to be like? Do you want someone who holds you accountable, who is a cheerleader, who challenges you?
 * How do you want your life to look when you are done? What does success look like?
 
@@ -113,9 +132,9 @@ Our goal at Modern Health is to find someone that you feel you can do good work 
 ### Logistics
 
 * You have unlimited access to your coach over text and/or email.
-* Coaching sessions are held over video/phone.
-* If you need to miss a scheduled session please let your coach know at least 24 hours before your appointment. If you cancel after that time, or miss the session, it will count towards your total covered sessions.
-
+* Coaching and therapy sessions are held over video/phone.
+* If you need to miss a scheduled session please let your coach/therapist know at least 24 hours before your appointment. If you cancel after that time, or miss the session, it will count towards your total covered sessions.
+* Remember that the [GitLab PTO policy](/handbook/paid-time-off/) and a [non-linear workday structure](/company/culture/all-remote/non-linear-workday/) are meant to enable you to make time for your mental health. Team members should feel empowered to make an appointment for therapy in the middle of the day or take time off to attend an appointment.
 **What do I do if I need support in between sessions?**
 Beyond sessions, your coach is available through chat to check in on your progress toward your goals, as well as provide ad hoc support when situations come up that you might need advice on, but don’t need a full session for. To chat with your coach, click the blue text bubble on the bottom center of the mobile app.
 
@@ -126,7 +145,7 @@ Note: Modern Health is not a crisis resource. If you are experiencing a mental h
 **Does my employer know if I’m using Modern Health?**
 No, a list of new GitLab team members is sent to Modern Health on a weekly basis so they can update GitLab's database but whether a team member chooses to use Modern Health or not is confidential and will not be shared with GitLab. All information submitted through the Modern Health application is kept confidential and used to deliver a more personalized experience. No individual usage data will ever be shared back with your employer.
 
-**Is what I discuss with my coach confidential?**
+**Is what I discuss with my coach/therapist confidential?**
 All information between you and your coach is confidential, except in the following cases:
 * You are at risk of harming themselves and/or others
 * Child, elder adult, or dependent adult abuse
