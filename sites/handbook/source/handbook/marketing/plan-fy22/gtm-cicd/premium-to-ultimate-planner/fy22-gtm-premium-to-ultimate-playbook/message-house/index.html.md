@@ -30,13 +30,13 @@ Think *security and reducing risk, protecting the business's intellectual proper
 
 | **Key-Values** | Single app with end-to-end visibility and insights | Embedded security that’s contextual + congruent to DevOps processes | Leading SCM, CI, and code review in one | Modern CD with compliance |
 |--------------|----------------------------------------------------------|--------------|--------------|
-| **Promise** |  |  |  |  |
+| **Promise** | wip |  |  |  |
 | **Pain points** |  |  |  |  |
 | **Why GitLab** |  |  |  |   |
 
 Additional Ultimate value: 
 - Enterprise-grade priority support, including 24/7 uptime support, a named Technical Account Manager (TAM), and live upgrade assistance are all still included with Ultimate.
 - Access to free guest users
-- Project, portfolion and requirements management [value](https://about.gitlab.com/pricing/ultimate/#project-portfolio-and-requirements-management)
+- Project, portfolio and requirements management [value](https://about.gitlab.com/pricing/ultimate/#project-portfolio-and-requirements-management)
 
 | **Proof points** |  [Glympse](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/issues/22), [BI Worldwide](https://11211-wip-web-page-for-premium-to-ultimate-sales-play.about.gitlab-review.app/customers/bi_worldwide/), [Jasper](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/issues/49), [Wag!](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/issues/14)], [HERE Tech](https://developer.here.com/blog/shifting-security-left-in-the-here-platform)] |
