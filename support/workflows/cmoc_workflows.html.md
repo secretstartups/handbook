@@ -267,8 +267,7 @@ The contents of the maintenance should be filled out according to the details pr
 
 ![Maintenance Details](/images/support/cmoc_maintenance_details.png){: .shadow}
 
-After the maintenance has been created, be sure to include it in your handover to the next on-call CMOC in the [Maintenances](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/-/blob/master/.gitlab/issue_templates/Handover.md#maintenances) section.
-
+### Rescheduling a maintenance event
 In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
 ![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
 
