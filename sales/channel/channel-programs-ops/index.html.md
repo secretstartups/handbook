@@ -52,10 +52,7 @@ The Admin console capabilities include:
 
 Where do partners and CAMs submit questions?
 
-
-    Slack Channels:
-
-
+## Slack Channels
 
 *   #channel-sales for general sales engagement questions.
 *   #channel-programs for questions about the overall GitLab Partner Program,rules, governance, enablement and processes.
@@ -63,12 +60,10 @@ Where do partners and CAMs submit questions?
 *   #channel-services for questions about the partner services program and partner engagement in services opportunities.
 *   #resellers for partners to submit questions.
 
-	Email aliases
-
-
+## Email aliases
 
 *   [partnersupport@gitlab.com](mailto:partnersupport@gitlab.com) for questions about the partner portal and partner related Salesforce questions.
-*   [partners@gitllab.com](mailto:partners@gitllab.com) for messages to the entire channel team.
+*   [partners@gitlab.com](mailto:partners@gitlab.com) for messages to the entire channel team.
 
 The Partner Helpdesk team has compiled a list of issues and solutions to the most common Partner Portal, application and data questions into an [FAQ doc](https://docs.google.com/document/d/1rygv7btm5dl-iQrVD30zOYWq98R0dsGYNjIHTBmczGY/edit?usp=sharing).  Please start here to address any issues.
 
