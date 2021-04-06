@@ -59,6 +59,8 @@ Items marked with `*` are optional
     - GraphQL
     - REST
     - gRPC*
+    - Flexible webhooks
+    - Streaming endpoints
     - Automated documentation ([Swagger](https://swagger.io/) & OpenAPI)
     - Security (at each API layer)
         - OAuth2 (All flows)
@@ -109,6 +111,8 @@ Items marked with `*` are optional
     - [ ] GraphQL
     - [x] REST
     - [ ] gRPC*
+    - [ ] Flexible webhooks
+    - [ ] Streaming endpoints
     - [ ] Automated documentation ([Swagger](https://swagger.io/) & OpenAPI)
     - [ ] Security (at each API layer)
         - [ ] OAuth2 (All flows)
