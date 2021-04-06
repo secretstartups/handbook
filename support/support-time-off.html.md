@@ -123,8 +123,9 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
 
    Add an item in the regional (and .com) agenda the week before your absence to announce
    your time off.
-1. Change your workflow two or three days in advance of your absence:
-   1. stop taking new tickets
+1. Change your workflow in advance of your absence:
+  1. A week in advance: Start thinking about whether you may need to hand off tickets, and pair with others to get them up to speed.
+  1. Two to three days in advance: stop taking new tickets.
    1. work to resolve and close as many of your assigned tickets as possible
    1. contribute more to other people's tickets - internal comments, pairing
       sessions - to make up for not taking new tickets of your own
