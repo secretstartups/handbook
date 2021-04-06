@@ -158,8 +158,6 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
 
 * `Place details from the event issue here`
   * Event DRI: 
-  * [Main salesforce campaign]()
-  * [Main marketo program]()
   * Marketo program type: 
   * Campaign utm `enter utm here` (Format: Campaign Tag, must be all lowercase, with no spaces, underscores, or special characters)
   * Event Budget: 
@@ -170,6 +168,13 @@ NOTE: The Epic is the main hub for all event information. **All issues** associa
          * [ ]  CI
          * [ ]  DevOps  
          * [ ]  GitOps               
+
+## Program Tracking Details
+  * Campaign Type: `enter utm here- usually Owned Event'
+  * SFDC Campaign: To be added by Verticurl
+  * MKTO Program: To be added by Verticurl
+  * UTM Campaign: `enter utm here`
+  * Finance Tag: `enter utm here`
 
 ## [Copy for landing page and emails >>]() - [template](<a href="https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit">https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit</a>)
 
