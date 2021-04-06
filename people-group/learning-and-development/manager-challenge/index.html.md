@@ -61,7 +61,7 @@ Learn the basic principles of what it means to be a manager using a whole-person
 
 **What do I need to do**
 
-Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 2 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
+Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (1 hour 20 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill your individual growth plan. If you are unable to prioritize the training for the 2 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
 
 ### Challenge Issue explainer video 
 
@@ -89,7 +89,7 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 | Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
 | Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Define how to become a high performing team |
 | Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 1hr 20 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
-| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Manager Action Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
+| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
 ### Week 2
 
@@ -107,12 +107,16 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day 7   | Cultures | 20 minutes | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration Activity |
 | Day 8   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach |
 | Day 9   | Live Learning - Effective Communications with Your Team | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
-| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the manager action plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
+| Day 10  | Individual Growth Plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
 
 ### Individual Growth Plan
 
 Throughout the program, we ask that managers to create or refine their [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1). We encourage Managers to self-reflect on their professional development as a people leader and identify areas where they can advance their skills. 
 The document is intended to be a starting point for managers to document where they can improve as a people leader.
+
+### Buddy Program
+
+More details to come!
 
 ### Post Manager Challenge
 
