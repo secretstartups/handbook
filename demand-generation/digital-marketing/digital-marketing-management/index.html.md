@@ -415,14 +415,12 @@ We require campaigns to run at least 3-4 weeks (this is typically for event/webc
 {: #requirements-best-practices}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- Field Campaigns: In alignemnt with the FY22 contract (which can be found in ContractWorks) GitLab has with our digital vendor PMG, paid campaign promotion for Revenue Marketing is limited to 3 campaign launches per month.
-   * If you have a camapign that lasts multiple months, that campaign only counts against RevMktg's 3 in that 1st month and does not count against the 3 in the subsequent months. 
+- Field Campaigns: In alignment with the FY22 contract (which can be found in ContractWorks) GitLab has with our digital vendor PMG, paid campaign promotion for Revenue Marketing is limited to 3 campaign launches per month.
+   * Please check this [PMG Revenue Marketing Campaign Tracker](https://docs.google.com/spreadsheets/d/1lylnQb3wXq1ry2n_ifqxtzKX13KaFtVTVzbWn7jDkbI/edit?usp=sharing) to confirm availability before requesting a paid campaign.
+   * If you have a campaign that lasts multiple months, that campaign only counts against RevMktg's 3 in that 1st month and does not count against the 3 in the subsequent months. 
 - Landing Pages: All landing pages should be GitLab-owned (about.gitlab, learn.gitlab, and page.gitlab) so we are able to track conversion/inquiry performance. Conversion data increases the success of campaigns by advancing the platform learning phase and providing PMG with valuable data & insights to make manual optimizations. 
-
-3rd party landing pages are not able to report on conversions within our platforms, so they can significantly decrease campaign performance. Furthermore, if paid campaigns are not able to attribute their conversions/inquiries from 3rd party landing pages, reporting will lack correct data and show major inefficiencies. 
-
-If you are planning on using a 3rd party landing page, please [open an issue in the  Digital Marketing project](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) before a contract is signed so we can determine how to capture conversions and measure success.
-
+   * 3rd party landing pages are not able to report on conversions within our platforms, so they can significantly decrease campaign performance. Furthermore, if paid campaigns are not able to attribute their conversions/inquiries from 3rd party landing pages, reporting will lack correct data and show major inefficiencies. 
+   * If you are planning on using a 3rd party landing page, please [open an issue in the  Digital Marketing project](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) before a contract is signed so we can determine how to capture conversions and measure success.
 - Localization/Translation: While our ads are mainly in English, we are able to run campaigns in different languages but recommend all materials are translated. This means the creative copy, ad copy, landing page, and nurture have a fully localized, seamless experience from end to end.
 - Lead Time + Flight Time: We recommend followng our [Request Timing section](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#timing) to ensure your campaign is set up for success.
 - Ad Creative: We recommend adding a CTA (call to action) button, and using shorter copy within the image (typically 4-7 words) and leaning on the headline/introduction text to convey more of your message.
