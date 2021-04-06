@@ -40,3 +40,20 @@ To swap your on-call duty with someone, follow the steps listed under [Swapping 
 
 ### Resolving issues as the support manager on-call
 We currently consider :green_check_mark: in slack on the original slack request as a signal that the escalation has been resolved.
+
+### Manually triggering a PagerDuty notification
+
+At times, you may receive an escalation where the customer is reporting a situation that qualifies for emergency support under
+our [definitions of support impact](https://about.gitlab.com/support/#definitions-of-support-impact). In such cases you may
+elect to trigger an emergency directly, rather than directing the customer to open a new ticket.
+
+To manually trigger a PagerDuty notification, login to [gitlab.pagerduty.com](https://gitlab.pagerduty.com) and select
+**+ New Incident** from the upper right corner. Then fill out the form that follows:
+
+- **Impacted Service**: Customer Support
+- **Assign to**: Customer Emergency Rotation
+- **Title**: Put the ticket number here
+
+No other fields need to be filled out and you may then **Create Incident**
+
+![Manually triggering an emergency](/images/support/manually-trigger-emergency.png){: .shadow}
