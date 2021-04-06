@@ -116,7 +116,7 @@ Key Talent (~10% of overall population) was identified during the FY22 Equity Re
 |------|--------|
 | 2021-03-22 | [Compensation Calculator](https://comp-calculator.gitlab.net/) updated to include equity range calculator. |
 | 2021-03-24 | Grant Amount & Total Rewards Statements Uploaded to BambooHR (stock options table turned off in BambooHR for self-service). |
-| 2021-03-25 to 2021-04-08 | Leaders/Managers to notify team members of grants and share Total Rewards Statement in BambooHR. |
+| 2021-03-25 to 2021-04-09 | Leaders/Managers to notify team members of grants and share Total Rewards Statement in BambooHR. |
 | 2021-04-12 | Equity Grants added to Carta, access to stock options table in BambooHR turned back on. |
 
 #### FAQs
