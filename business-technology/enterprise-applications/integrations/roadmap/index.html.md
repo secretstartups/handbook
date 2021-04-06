@@ -43,6 +43,7 @@ Items marked with `*` are optional
     - Supports blob storage (S3 / Google Storage)
     - ORM / similar
     - Schema Migrations
+    - Encryption at rest
     - FTP
         - client
         - server
@@ -53,6 +54,10 @@ Items marked with `*` are optional
     - Correlation ID and request tracing
     - Trigger alerts from logs
     - Monitoring Dashboards
+- Network
+    - TLS
+    - IPSec
+    - IP whitelisting
 - APIs
     - Supports API tiering (Experience, Process and Service layers)
     - Versioning
@@ -61,11 +66,12 @@ Items marked with `*` are optional
     - gRPC*
     - Flexible webhooks
     - Streaming endpoints
+    - Rate limiting
     - Automated documentation ([Swagger](https://swagger.io/) & OpenAPI)
     - Security (at each API layer)
         - OAuth2 (All flows)
         - API Key
-        - IP whitelisting
+        - Role based authorization
 - Platform Security
     - Custom roles
     - SAML / OAuth2 SSO
@@ -95,6 +101,7 @@ Items marked with `*` are optional
     - [x] Supports blob storage (S3 / Google Storage)
     - [ ] ORM / similar
     - [ ] Schema Migrations
+    - [ ] Encryption at rest
     - [ ] FTP
         - [x] client
         - [ ] server
@@ -105,19 +112,24 @@ Items marked with `*` are optional
     - [ ] Correlation ID and request tracing
     - [ ] Trigger alerts from logs
     - [x] Monitoring Dashboards
+- [ ] Network
+    - [x] TLS
+    - [ ] IPSec
+    - [ ] IP whitelisting
 - [ ] APIs
     - [ ] Supports API tiering (Experience, Process and Service layers)
     - [x] Versioning
     - [ ] GraphQL
     - [x] REST
     - [ ] gRPC*
-    - [ ] Flexible webhooks
+    - [x] Flexible webhooks
     - [ ] Streaming endpoints
+    - [ ] Rate limiting
     - [ ] Automated documentation ([Swagger](https://swagger.io/) & OpenAPI)
     - [ ] Security (at each API layer)
         - [ ] OAuth2 (All flows)
         - [x] API Key
-        - [ ] IP whitelisting
+        - [ ] Role based authorization
 - [ ] Platform Security
     - [x] Custom roles
     - [x] SAML / OAuth2 SSO
