@@ -20,7 +20,7 @@ These guidelines also describe who would need to review, approve and merge your,
 
 All GitLab engineers can, and are encouraged to, perform a code review on merge requests of colleagues and community contributors. If you want to review merge requests, you can wait until someone assigns you one, but you are also more than welcome to browse the list of open merge requests and leave any feedback or questions you may have.
 
-You can find someone to review your merge requests by looking on the [team page](/company/team/), or on the list of [GitLab Engineering Projects](/handbook/engineering/projects/), both of which are fed by `data/team.yml`.
+You can find someone to review your merge requests by looking on the [team page](/company/team/), or on the list of [GitLab Engineering Projects](/handbook/engineering/projects/), both of which are fed by YAML files under `data/team_members/person/*`.
 
 You can also help community contributors get their merge requests ready, by becoming a [Merge Request Coach](/job-families/expert/merge-request-coach/).
 
@@ -94,7 +94,7 @@ To help grow the maintainer base with the team, we allow for 'trainee maintainer
 
 Anyone may nominate themselves as a trainee by opening a tracking issue using the [Trainee backend maintainer template], [Trainee frontend maintainer template], [Trainee database maintainer template], or [Trainee quality maintainer template]. It's normally a good idea to check with at least one maintainer or your manager before creating the issue, but it's not required.
 
-After opening your tracking issue, create a Merge Request for the [team page] proposing yourself as a trainee maintainer.
+After opening your tracking issue, create a Merge Request for the [team page](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person) proposing yourself as a trainee maintainer.
 
 Most backend trainees, working full-time without significant interruptions (for example, parental leave) reach the point where they are ready to become a maintainer in five to seven months. If it takes longer, that's OK.
 
@@ -196,7 +196,7 @@ Self-identification:
 The only requirement to be considered a domain expert is to have substantial experience with a specific technology, product feature or area of the codebase. We leave it up to the team member to decide whether they meet this criteria.
 
 1. Define a new, or use an existing domain expertise key, located in [`data/domain_expertise.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/domain_expertise.yml).
-1. Update your entry in [`data/team.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team.yml) with a new `domain_expertise` property and list all domain expertise keys.
+1. Update your entry in your own [YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person) with a new `domain_expertise` property and list all domain expertise keys.
 
 Example:
 
@@ -211,7 +211,7 @@ frontend_architecture:
   link: https://docs.gitlab.com/ee/development/fe_guide/architecture.html
 ```
 
-**team.yml**
+**your_handle.yml**
 
 ``` yaml
 domain_expertise:
@@ -244,4 +244,3 @@ As the author of an MR you should reassign to another reviewer or maintainer if 
 [1:1 meetings]: /handbook/leadership/1-1/
 [dashboard]: https://app.periscopedata.com/app/gitlab/475647/Engineer-:-Maintainer-Ratio
 [ratio]: https://app.periscopedata.com/app/gitlab/655064/Merge-Requests:-MR-Count-and-Ratio-by-FE-BE-DB
-[team page]: https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml

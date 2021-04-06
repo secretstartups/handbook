@@ -124,11 +124,11 @@ The merge request author of the change that broke master is the resolution DRI. 
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
    * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue. To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow up.
      * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
-1. If the broken `master` affects any auto-deploy, add the relevant `~"Pick into auto-deploy"` label.
+1. Apply the `~"Pick into auto-deploy"` label to make sure deployments are unblocked.
 1. If the broken `master` affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
    open new merge requests **directly against the stable branches** which are
    broken and ping the current release manager in the merge requests to avoid
-   delays in releases / security releases. Optionally, post a message in `#releases`.
+   delays in releases / security releases. See [How to fix a broken stable branch guide](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/how-to-fix-broken-stable-branch.md) for more details.
 1. Reactions by the resolution DRI in `#development` should follow this guidance:
    * `:eyes:` - applied by the resolution DRI (or backup) to signal acknowledgment
    * `:construction:` - applied by the resolution DRI to signal that work is in progress on a fix
@@ -150,46 +150,93 @@ Once the resolution DRI announces that `master` is fixed:
   [Pipeline for Merged Results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/#pipelines-for-merged-results)
   isn't supported in these cases).
 
-### Maintaining throughput during broken master
+### Merging during broken master
 
-When `master` is red, we need to try hard to avoid introducing **new** failures,
+Merge requests **can not be merged** to `master` until the broken pipeline
+is fixed and passing again.
+
+This is because we need to try hard to avoid introducing **new** failures,
 since it's easy to lose confidence if it stays red for a long time.
 
-Most merge requests don't need to be merged *immediately*, so the priority should
-always be maintaining the stability of `master` over keeping a high throughput.
+In the rare case where a merge request is [urgent](#criteria-for-merging-during-broken-master)
+and must be merged **immediately**, team members can follow the process below to have a merge
+request merged during a broken `master`.
 
-In the rare cases where `master` is broken for more than 4 hours (from the
-notification in `#master-broken`), maintainers are allowed to merge with a
-broken pipeline if all the following conditions are met:
+#### Criteria for merging during broken master
 
-1. The failures also happen on `master` **for at least 4 hours**.
-1. Only one or two tests are failing and they are not directly related to
-   functionality touched by the merge request.
-1. There is [an issue labelled `~"master:broken"`][broken-master-issues] for it,
-   see the "Triage DRI Responsibilities" steps above for more details
-1. That issue is already assigned to someone
-1. The assignee is actively working on it (i.e. they are not on PTO, at a conference, etc.)
+Merging while `master` is broken can only be done for:
 
-Before asking a maintainer to review, or before merging the merge request,
-add a comment mentioning that the failure happens in `master`,
-and post a reference to the issue. For instance:
+- Merge requests that need to be deployed to GitLab.com to alleviate an ongoing production incident.
+- Merge requests that fix broken `master` issues (we can have multiple broken master issues ongoing).
 
+#### How to request a merge during a broken `master`
+
+First, ensure the latest pipeline has completed less than 2 hours ago (although it is likely to have have failed due to
+  `gitlab-org/gitlab` using
+  [pipelines for merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/)).
+
+Next, make a request on Slack:
+
+1. Post to either the `#frontend_maintainers` _or_ `#backend_maintainers` Slack
+   channels (whichever one is more relevant).
+1. In your post outline _why_ the merge request is [urgent](#criteria-for-merging-during-broken-master).
+1. Make it clear that this would be a merge during a broken `master`, optionally add a link to this
+   page in your request.
+
+#### Instructions for the maintainer
+
+A maintainer who sees a request to merge during a broken `master` must follow this process.
+
+Note, if any part of the process below disqualifies a merge request from being merged
+during a broken `master` then the maintainer must inform the requestor as to _why_ in the
+merge request (and optionally in the Slack thread of the request).
+
+First, assess the request:
+
+1. Add the `:eyes:` emoji to the Slack post so other maintainers know it is being assessed.
+   We do not want multiple maintainers to work on fulfilling the request.
+1. Assess whether the merge request [is urgent or not](#criteria-for-merging-during-broken-master). If in doubt, ask the requestor for more
+   details in the merge request about why it is urgent.
+
+Next, ensure that all the following conditions are met:
+
+1. The latest pipeline has completed less than 2 hours ago (although it is likely to have failed due to
+  `gitlab-org/gitlab` using
+  [pipelines for merged results](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/)).
+1. All of the latest pipeline failures also happen on `master`.
+1. There is [an issue labelled `~"master:broken"`][broken-master-issues] for every failure,
+see the "Triage DRI Responsibilities" steps above for more details.
+
+Next, add a comment to the merge request mentioning that the merge request will be merged
+during a broken `master`, and link to the `~"master:broken"` issue(s). For example:
+
+```md
+Merge request will be merged while `master` is broken.
+
+Failure in <JOB_URL> happens in `master` and is being worked on in <ISSUE_URL>.
 ```
-Failure in <JOB_URL> happens in `master` and is being worked on in #XYZ.
-```
 
-Whether the merge requests pipeline is failing or not, if `master` is red:
+Next, merge the merge request:
 
-* For canonical merge requests, always start a new merge request pipeline and check that the
-  failure happens in `master` with a link to the `~"master:broken"` issue before
-  clicking the red "Merge" button.
-* For forks, check how far behind `master` the source branch is. If it's more
-  than 100 commits behind `master`, ask the author to rebase it before merging.
+- If the "Merge" button is enabled (this is unlikely), then click it.
+- Otherwise, you must:
+  1. Unset the
+    ["Pipelines must succeed" setting](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html#only-allow-merge-requests-to-be-merged-if-the-pipeline-succeeds)
+    for the [`gitlab-org/gitlab` project](https://gitlab.com/gitlab-org/gitlab/edit).
+  1. Click the "Merge" button.
+  1. Set the "Pipelines must succeed" setting to be on again.
 
-This reduces the chance of introducing new failures, and also acts to slow
-(but not stop) the rate of change in `master`, helping us to make it green again.
 
 [broken-master-issues]: https://gitlab.com/groups/gitlab-org/-/issues?state=all&label_name[]=master%3Abroken
+
+### Broken `master` mirrors
+
+[`#master-broken-mirrors`](https://gitlab.slack.com/archives/C01PK38VAN8) was created to remove duplicative notifications from the `#master-broken` channel which provides a space for [Release Managers](https://about.gitlab.com/community/release-managers/) and the [Engineering Productivity team](https://about.gitlab.com/handbook/engineering/quality/engineering-productivity-team/) to monitor failures for the following projects:
+
+- <https://gitlab.com/gitlab-org/security/gitlab>
+- <https://dev.gitlab.org/gitlab/gitlab-ee>
+
+The `#master-broken-mirrors` channel is to be used to identify unique failures for those projects and flaky failures are not expected to be retried/reacted to in the same way as `#master-broken`.
 
 ## Security Issues
 
@@ -342,7 +389,7 @@ Make sure the appropriate labels (such as `customer`) are applied so every issue
 
 [![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-foss/-/snippets/1731455)
 
-Teams (Product, UX, Engineering) continually work on issues according to their respective workflows.
+Teams (Product, UX, Development, Quality) continually work on issues according to their respective workflows.
 There is no specified process whereby a particular person should be working on a set of issues in a given time period.
 However, there are specific deadlines that should inform team workflows and prioritization.
 Suppose we are talking about milestone `m` that will be shipped in month `M` (on the 22nd).
@@ -359,7 +406,7 @@ We have the following deadlines:
 - On month `M-1, 18th` (or next business day, milestone `m` begins): **Kick off!** 📣
   - [Company Kickoff](#kickoff) call live streamed.
   - Development on milestone `m` begins
-- On `M-1 26th`: GitLab Bot opens [Team Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
+- On `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
 - By month `M, 17th`:
   - Completed `m` issues with docs have been merged into master.
   - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html).
@@ -367,7 +414,7 @@ We have the following deadlines:
   - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
   - By end of the day, milestone `m` is expired.
 - On or around `M, 19th`:
-  - [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective summary and discussion](#retrospective)
+  - [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) should happen so they can inform the [public retrospective summary and discussion](#retrospective)
 - On `M, 19th`, or `M, 20th`, or `M, 21st`:
   - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
 - On month `M, 22nd`: **Release Day** 🚀
@@ -406,19 +453,19 @@ The notes are available in a publicly-accessible [Google doc](https://docs.googl
 
 ## Retrospective
 
-The purpose of our retrospective is to help our team at GitLab learn and improve as much as possible from every monthly release.
+The purpose of our retrospective is to help each Product Group, and the entire [R&D cost center](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#by-cost-center---where-gitlabbers-report) at GitLab learn and improve as much as possible from every monthly release.
 
 Each retrospective consist of three parts:
 
-- [Team Retrospectives](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/): retrospectives held by individual teams
-- [Retrospective Summary](https://about.gitlab.com/handbook/engineering/workflow/#retrospective-summary): a short pre-recorded video which summarizes the learnings across all team retrospectives
+- [Group Retrospectives](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/): retrospectives held by individual [Product Groups](/company/team/structure/#product-groups)
+- [Retrospective Summary](https://about.gitlab.com/handbook/engineering/workflow/#retrospective-summary): a short pre-recorded video which summarizes the learnings across all group retrospectives
 - [Retrospective Discussion](https://about.gitlab.com/handbook/engineering/workflow/#retrospective-discussion): a 25 minute live discussion diving into retrospective discussion topics]
 
 **Timeline**
 
-- `M-1 26th`: GitLab Bot opens [Team Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
-- `M, 19th`: Team Retrospectives should be held.
-- `M, 24th`: Moderator opens the Retrospective planning and execution issue.
+- `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/team-retrospectives/) issue for the current milestone.
+- `M, 19th`: Group Retrospectives should be held.
+- `M, 24th`: Moderator opens the Retrospective planning and execution issue and communicates a reminder in R&D quad slack channels.
 - `M, 24th` to `M+1, 3rd`: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
 - `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
 - `M+1, 6th`: Retrospective Discussion is held.
@@ -449,26 +496,26 @@ Set the due date to 2 days before the Retrospective Discussion to encourage team
 
 The [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit) is a Google Doc we use to collaborate on for our Retrospective Summary and Retrospective Discussion.
 
-### Team Retrospectives
+### Group Retrospectives
 
-At the end of every release, each team should host their own retrospective. For details on how this is done, see [Team Retrospectives](/handbook/engineering/management/team-retrospectives/).
+At the end of every release, each team should host their own retrospective. For details on how this is done, see [Group Retrospectives](/handbook/engineering/management/team-retrospectives/).
 
 ### Retrospective Summary
 
-The Retrospective Summary is a short pre-recorded video which summarizes the learnings across all [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) ([example video](https://www.youtube.com/watch?v=XdENBhVOSiw&feature=youtu.be), [example presentation](https://docs.google.com/presentation/d/1kH9TwUAXbslM1cac938hS4Y-3mEBojQlwHw_Mm44kDE/edit?usp=sharing)).
+The Retrospective Summary is a short pre-recorded video which summarizes the learnings across all [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) ([example video](https://www.youtube.com/watch?v=XdENBhVOSiw&feature=youtu.be), [example presentation](https://docs.google.com/presentation/d/1kH9TwUAXbslM1cac938hS4Y-3mEBojQlwHw_Mm44kDE/edit?usp=sharing)).
 
-Once all Team Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
+Once all Group Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
 
 **Steps for participants**
-1. Please host your Team Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
-1. After the Team Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
+1. Please host your Group Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
+1. After the Group Retrospective is complete, please choose a subset some of your most interesting learnings to share company-wide in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).  Please try to group by these by our [CREDIT values](https://about.gitlab.com/handbook/values/).
 1. In the retro doc, if there is a learning that you would like to explicitly highlight, please add the text **highlight** at the beginning of the text. The moderator will highlight this along with other learnings listed in the retro doc when they create the pre-recorded video.
 1. If there are improvement tasks for your team from the previous retrospective, please provide an update on them in the retro doc. They will be verbalized during the Retrospective Discussion.
 1. If there are improvement tasks for your team in the current retrospective, please add them in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit). They will be verbalized during the Retrospective Discussion.
-1. Add a checkbox in the table of the Retrospective planning and execution issue when your Team Retrospective is complete and when the retro doc is updated.
+1. Add a checkbox in the table of the Retrospective planning and execution issue when your Group Retrospective is complete and when the retro doc is updated.
 
 **Steps for the moderator**
-1. Please read through the Team Retrospective learnings in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
+1. Please read through the Group Retrospective learnings in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
 1. Add the learnings into a slide deck and identify the highlights you would like to cover.
 1. Record a video presentation summarizing the highlights.
 1. Upload this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
@@ -476,13 +523,13 @@ Once all Team Retrospectives are completed, each team inputs their learnings int
 
 ### Retrospective Discussion
 
-The Retrospective Discussion is a 25 minute live discussion among participants where we deep dive into discussion topics from our Team Retrospectives ([example](https://www.youtube.com/watch?v=WP9E7RbNSPw)). In line with our value of [transparency](/handbook/values/#transparency), we livestream this meeting to YouTube and monitor chat for questions from viewers. Please check the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing) for details on joining the livestream.
+The Retrospective Discussion is a 25 minute live discussion among participants where we deep dive into discussion topics from our Group Retrospectives ([example](https://www.youtube.com/watch?v=WP9E7RbNSPw)). In line with our value of [transparency](/handbook/values/#transparency), we livestream this meeting to YouTube and monitor chat for questions from viewers. Please check the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit?usp=sharing) for details on joining the livestream.
 
 **Discussion Topics**
 
 For each retrospective discussion, we aim to host an interactive discussion covering two discussion topics. We limit this to two topics due to the length of the meeting.
 
-The discussion topics stem from our Team Retrospective learnings and should be applicable to the majority of participants.
+The discussion topics stem from our Group Retrospective learnings and should be applicable to the majority of participants.
 
 Discussion topics are suggested by participants by commenting on the Retrospective planning and execution issue. Participants can vote on these topics by adding a :thumbsup: reaction. The two topics with the most :thumbsup: votes will be used as the discussion topics. If there are not enough votes or if the discussion topics are not relevant to the majority of participants, the moderator can choose other discussion topics.
 
@@ -591,13 +638,13 @@ UI polish issues are visual improvements to the existing user interface, touchin
 
 - **Aesthetic improvements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/290262)): removing unnecessary borders from a UI, updating the background color of an element, fixing the font size of a heading element.
 - **Misalignment of text, buttons, etc** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/280538)): although because many times something isn't broken, these improvements are considered UI polish. These could also be considered a bug.
-- **Incorrect spacing between UI elements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/7905)): when two interface elements are using inconsistent spacing values, such as 10px instead of 8px. It could also be considered technical debt. Note that if two interface elements have zero space between them, its an obvious bug. 
+- **Incorrect spacing between UI elements** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/7905)): when two interface elements are using inconsistent spacing values, such as 10px instead of 8px. It could also be considered technical debt. Note that if two interface elements have zero space between them, its an obvious bug.
 - **Visual inconsistencies across different product areas** ([example](https://gitlab.com/gitlab-org/gitlab/-/issues/296948)): visual inconsistencies could occur when we have have a series of buttons on a particular view. For example, when 3/4 of them have been migrated to use the Pajamas component, and 1/4 of them are still using a deprecated button, resulting in a visual inconsistency. This is considered a UI polish.
 
-### What is not UI polish 
+### What is not UI polish
 
 - **Functional inconsistency related to the experience**: for example, using a manual action to add an assignee automatically shows the assignee in the sidebar but using a manual action to add a weight to an issue does not automatically show the weight in the sidebar. This is not currently considered UI polish. It would be considered a UX issue.
-- **Improving visibility of system status**: status indicator improvements are experience improvements and are not classified as UI polish. 
+- **Improving visibility of system status**: status indicator improvements are experience improvements and are not classified as UI polish.
   - Even when updating something that is purely visual, such as a status icon, to improve the meaning the user has of what they are viewing, we are trying to improve the experience of that user.
 
 ## Monitor Merge Request Trends
