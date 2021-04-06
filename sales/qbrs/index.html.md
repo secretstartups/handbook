@@ -64,7 +64,7 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. CS Leadership 
 
 ### QBR Participation
-QBRs include account teams, leadership, and delegates from across the business:
+Sales QBRs include account teams, leadership, and delegates from across the business: (for leadership QBR or CS QBR participation details, see below)
 1. All Strategic Account Leaders (SALs) and Account Executives (AEs), Solution Architects (SAs), Technical Account Managers (TAMs), and Channel Account Managers applicable for the QBR session
 1. All Sales, Channel, and Customer Success Managers applicable for the QBR session (i.e. applicable VP, RD and ASM)
 1. 1-2 delegates from the following teams will participate 
@@ -137,7 +137,7 @@ QBRs include account teams, leadership, and delegates from across the business:
 1. Manager, Product Marketing
 1. Sr. Program Manager, Customer Success Enablement
 
-**CS QBRs (Non-Leadership)**
+**CS QBRs (excluding CS Leadership QBR)**
 1. Customer Success Leadership (VP directs)
 1. Segment Sales VP
 1. Chief Revenue Officer (CRO)
