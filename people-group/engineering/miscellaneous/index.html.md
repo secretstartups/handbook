@@ -27,4 +27,4 @@ From 2020-12-18 we will do a daily check to see if any new Parental leave PTO wa
 
 ## Set closed training issues to confidential 
 
-Once per day, closed issues in the training project are automatically marked as confidential for compliance.
+Once per day, closed issues in the [training project](https://gitlab.com/gitlab-com/people-group/Training) are automatically marked as confidential for compliance.
