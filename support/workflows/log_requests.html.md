@@ -16,8 +16,6 @@ subcategory: Legal
 
 Users often ask for access to GitLab.com logs, typically, due to [IP blocks](/handbook/support/workflows/ip-blocks.html), a possible security issue, or for internal auditing purposes.
 
-Due to privacy issues, GitLab cannot provide a copy of the logs without a court order which we should consult Legal on. What we can do is answer specific questions with a summary of our search results.
-
 Always include a link to the log as an internal note, with additional information if needed.
 
 If required, post in the `#support_escalations` channel for a senior engineer or manager review.
@@ -26,16 +24,28 @@ A standard response is available in ZenDesk as a macro [`Support::SaaS::Audit lo
 
 Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana should be handled according to the process outlined in the handbook page dedicated to [providing assistance to GitLab.com customers during customer-based security incidents](/handbook/security/customer-requests/).
 
+## Who can make a request
+
+Requester must be Account Owner of a Paid Account.  
+ - Must verify that this is who is making the request
+
 ## What we can provide
 
-The key is not providing any individual or identifiable information, so we provide answers to yes/no inquiries and can provide a summary. For example, depending on the query, we can provide:
+We can provide the following information:
+- Information found in the Audit Events Features
+- Information about who has accessed the account/projects that the customers owns.  This can include:
+  - IP address
+  - number of users
+  - number of times accessed
+  - number of unique IPs
+  - range of timestamp of occurance
+  - project path
 
-- number of users
-- number of times accessed
-- number of unique IPs
-- range of timestamp of occurance
+## What we cannot provide
 
-In cases where the requestor is an owner or maintainer of a project, we can also provide the project path (such as in example 2).
+We cannot provide the following information: 
+- Information about accounts or projects that the requestor does not own
+- Any information that would disclose GitLab confidential information or processes   
 
 ## Examples
 
