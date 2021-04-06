@@ -19,7 +19,7 @@ Please note that if you plan on participating you will need to dedicate at least
 
 One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the two-weeks. 
 
-We rolled out the first iteration of the [Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The pilot received a [Net Promoter Score of 4.6](https://drive.google.com/drive/folders/11J1b8jwxROFYH4Xgylkhgo6x3OEm4kyB?ths=true) by the participants. The [second iteration](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26) was run in January 2021 where we condensed the program to three weeks. For May, L&D iterated again and are rolling out a two week program
+We rolled out the first iteration of the [Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The pilot received a [Net Promoter Score of 4.6](https://drive.google.com/drive/folders/11J1b8jwxROFYH4Xgylkhgo6x3OEm4kyB?ths=true) by the participants. The [second iteration](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26) was run in January 2021 where we condensed the program to three weeks. For May, L&D iterated again and are rolling out a two week program.
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
@@ -49,7 +49,7 @@ Below is a video L&D recorded with Sid on manager enablement:
 
 **What** 
 
-The Three Week Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
+The Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
 
 **Why** 
 
@@ -61,7 +61,7 @@ Learn the basic principles of what it means to be a manager using a whole-person
 
 **What do I need to do**
 
-Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
+Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 2 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
 
 ### Challenge Issue explainer video 
 
