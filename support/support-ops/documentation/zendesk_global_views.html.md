@@ -31,19 +31,20 @@ Currently, Zendesk has 3 view types:
 
 Currently, Zendesk views have some limitations:
 
-* Only 12 visable views (Default and Shared) will be displayed.
+* Only 12 visible views (Default and Shared) will be displayed.
 * Views cannot use criteria that is not "defined", meaning it must be selectable
   data (text fields will not work, as an example).
-* You can only display up to 8 personal views
-
+* You can only display up to 8 personal views and Support Ops cannot manage/view them.
+* Views will not include [archived tickets](https://support.zendesk.com/hc/en-us/articles/203657756-About-ticket-archiving)
+i.e. Closed tickets after 120 days. 
 
 ## View management
 
-Instead of managing Zendesk views via Zendesk itself, we instead use GitLab
+Instead of managing Shared Zendesk views via Zendesk itself, we instead use GitLab
 itself via the
 [zendesk-views project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-views).
-This allows us to have version-controlled views. For more information on
-managing Zendesk via the various GitLab projects, please review
+This allows us to have version-controlled views. Personal views can be managed by Zendesk itself.
+For more information on managing Zendesk via the various GitLab projects, please review
 [Using the sync repos](sync_repos.html).
 
 ### Current views
