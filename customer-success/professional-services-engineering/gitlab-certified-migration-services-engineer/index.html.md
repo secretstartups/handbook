@@ -17,6 +17,13 @@ To be able to scale the availaility of GitLab Migration Services, [GitLab Profes
 
 The program provides a systematic approach to developing and validating the skills and knowledge needed to successfully migrate a customer's data from their legacy systems to GitLab.
 
+## Skills and Knowledge Validated
+
+- insert
+- insert
+- insert
+- insert
+
 ### Candidate Process
 
 Here are the steps required to earn the GitLab Certified Migration Services Engineer certification. 

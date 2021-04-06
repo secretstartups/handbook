@@ -17,13 +17,6 @@ To be able to scale the availaility of GitLab learning offerings, [GitLab Profes
 
 The program provides a systematic approach to developing and validating the skills and knowledge needed to successfully deliver each course offered by GitLab Professional Education Services.
 
-## Skills and Knowledge Validated
-
-- insert
-- insert
-- insert
-- insert
-
 ### GitLab Certified Trainer - Candidate Process
 
 GitLab Professional Education Services manages the certification process for all trainers to validate their readiness to deliver [Education Services offerings](https://about.gitlab.com/services/education/). Here are the steps required to earn the GitLab Certified Trainer certification for a given course. 
