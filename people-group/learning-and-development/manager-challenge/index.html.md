@@ -15,7 +15,7 @@ Welcome to the GitLab Manager Challenge page. The Learning and Development Team 
 
 L&D will be rolling out a **two-week iteration of the program** during the month of May 2021. **The program will start 2021-05-03 and end on 2021-05-14. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the May program! Currently, the program is being offered to GitLab team members only. 
 
-Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend the 1 hour and 20 minute live learning sessions or complete the async live learning activities.  
+Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend the 1 hour and 20 minute live learning sessions or complete the async live learning activities. Blocking your calendar each day during the program goes a long way!   
 
 One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the two-weeks. 
 
