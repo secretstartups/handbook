@@ -18,7 +18,7 @@ Job families are [organized by function in directories in the www-gitlab-com rep
 
 1. Before you begin creating a new job family you should check the directory to see if there is an existing job family or a role close to the one you are working to create. Job families should encompass a team, a department, or perhaps a division. If you are confused about when you need to create a new job family and when you should add a new role to an existing one watch [this video](https://www.youtube.com/embed/5EcFz1qNj2E).
     * Sometimes you should just add a level, a specialty or a segment and not create a new job family.
-1. We don't include location requirements for most roles (EMEA, Americas, APEC) in the job family because these can change over time and job families are constant.
+1. We don't include location requirements for most roles (EMEA, Americas, APAC) in the job family because these can change over time and job families are constant.
 1. We don't include [expertises](/company/team/structure/#expert), since these are free form.
 1. We don't allow them to read like a [vacancy](/handbook/hiring/vacancies/). The job family could be used for hiring however they are more often serving as the requirements that team members and managers alike use in conversations around career development and performance management. The verbiage you don't want to use includes phrases like "you will", or "exciting opportunity" or "we're hiring for".
 1. We are continually iterating on job families. Do not search other job families for examples of what good looks like. The templates below and this page are the SSOT for guidance.
