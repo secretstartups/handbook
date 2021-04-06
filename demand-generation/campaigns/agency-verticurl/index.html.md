@@ -14,22 +14,21 @@ twitter_creator: '@gitlab'
 
 ## Verticurl Agency Overview
 {: #overview .gitlab-purple}
-
 <!-- DO NOT CHANGE THIS ANCHOR -->
-The Verticurl team will be working with GitLab to execute email marketing setup and other tasks in Marketo. Review and approval is expected of issue requesters, and the project managment pass of issues will take place between GitLab and Verticurl. `@jgragnola` will be PM for GitLab Campaigns issues (including Partner Marketing and Corporate Marketing), while the regional Field Marketing leaders will be responsible for passing issues on behalf of Field Marketing. `@ashwin.raj` will be responsible for assignment to team members within Verticurl.
+The Verticurl team will be working with GitLab to execute email marketing setup and other tasks in Marketo. Review and approval is expected of issue requesters, and the project managment pass of issues will take place between GitLab and Verticurl. `@jgragnola` will be overall liason for requests coming from Campaigns, Partner, and Corporate, while the regional Field Marketing leaders will be responsible for passing issues on behalf of Field Marketing. `@ashwin.raj` will be responsible for assignment to team members within Verticurl.
 
 ### Process documentation shortcuts for Verticurl
 {: #shortcuts .gitlab-purple}
-
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - [Sales Nominated Invitations](/handbook/marketing/demand-generation/campaigns/emails-nurture/#sales-nominated)
 - [Add to Nurture](/handbook/marketing/demand-generation/campaigns/emails-nurture/#add-to-nurture-in-program)
+- [Marketo Program + Salesforce Campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up)
 - [Workshop Landing Page and Marketo Setup](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshop-logistical-set-up)
+- To be added (not yet scoped with MOps): GTM Motion token to build in overarching nurture logic and remove "add to nurture" issues.
 
 ### Team Members
 {: #team}
-
 <!-- DO NOT CHANGE THIS ANCHOR -->
 [View all team members with GitLab handles and email addresses here](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=1269662266)
 
@@ -38,21 +37,18 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Ashwinraj Maniraj | Verticurl, Client Success Manager | @ashwin.raj | `ashwinraj.maniraj@verticurl.com` |
 | Jayaprakash D | Verticurl, Campaigns Team Consultant | @? | `jayaprakash.d@verticurl.com` |
 | Sonu Gifty | Verticurl, Campaigns Team Consultant | @sonugifty | `sonugifty.thomas@verticurl.com` |
+| Priya | Verticurl, Campaigns Team Consultant | @@priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
 | Viswanath R | Verticurl, Project Management | @? | `Viswanath.R@verticurl.com` |
 | Prathap Arumugam | Verticurl, Backup Project Management | @? | `prathap.arumugam@verticurl.com` |
 | Karthikeyan K. | Verticurl, FMM/ABM resource | @? | `karthikeyan.k@verticurl.com` |
 
+
 ## Project Management - Campaigns team
 {: #project-management-campaigns-team}
-
 <!-- DO NOT CHANGE THIS ANCHOR -->
-To assist with organizing prioritization and pipeline of issues for Verticurl, we utilize this [project planning doc](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=0). Issues will still be managed within GitLab with commentary taking place there.
-
-- [Campaigns, Partner, and Corporate](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=0)
 
 ### Shortcut list views
 {: #list-views}
-
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 - [All Verticurl Issues](https://gitlab.com/groups/gitlab-com/marketing/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=Verticurl)
@@ -63,27 +59,25 @@ To assist with organizing prioritization and pipeline of issues for Verticurl, w
 
 ### Triage Steps
 {: #triage}
-
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. **GitLab**: Issues are submitted with final copy and all details included, with status ~mktg-status::triage.
     - At the time of moving to triage, all details must be provided and final (including copy reviewed by relevant stakeholders, and all hyperlinks double-checked and confirmed).
-1. **GitLab**: Project Manager for relevant team will review the incoming issues for completed details. When details are confirmed and final, Project Manager will move to ~mktg-status::wip and assign to `@ashwin.raj`.
-    - `@jgragnola` will project manage the triage for Campaigns/Partner/Corporate
+1. **GitLab**: when details in issue description are confirmed and final, issue owner will move to **~mktg-status::wip** and assign to `@ashwin.raj`.
 1. **Verticurl**: `@ashwin.raj` will assign issue to a Verticurl DRI (Directly Responsible Individual) within Verticurl's internal project management system.
     - SLA: 24 hours (from day assigned to `@ashiwn.raj` to be assigned to Verticurl team DRI)
-1. **Verticurl**: Verticurl DRI adds email to the Google Calendar for the anticipated send date.
-    - The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Ashwin, the date of the issue will be scheduled 5 business days out to abide by SLAs.
+1. **Verticurl**: Verticurl DRI adds email to the Google Calendar AND [Marketing Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=1705692818) for the anticipated send date.
+    - The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Ashwin, the date of the issue may be scheduled 5 business days out to abide by SLAs. This is at the discretion of Verticurl based on other work in progress and upcoming.
 1. **Verticurl**: Verticurl DRI completes the setup in Marketo, then sends a test email to the "Reviewers/Approvers" listed in the issue
     - SLA: 24 hours (from day assigned to Verticurl team DRI to provide )
-    - [Tables to reference with email addresses of potential reviewers](/handbook/marketing/demand-generation/campaigns/agency-verticurl#team)
+    - [Tables to reference with email addresses of potential reviewers](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=1269662266)
 1. **Verticurl**: Verticurl DRI comments into the issue tagging the reviewers/approvers and documenting that the test email was sent to their inbox.
-1. **Verticurl**: Verticurl DRI moves status to ~mktg-status::review
+1. **Verticurl**: Verticurl DRI moves status to **~mktg-status::review**
 1. **Verticurl**: Verticurl DRI posts a screenshot of the email in the issue description
     - This chrome extension is recommended by `@nbsmith` for screenshots: [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
 1. **GitLab**: Issue requester must review and approve email (or provide corrections) via comment in the issue
     - SLA: 24 hours *from when the test email is sent and comment added to issue). Feedback and approval in a timeley manner is critical on the GitLab side.
-1. **Verticurl**: Verticurl DRI makes any necessary corrections. If no corrections needed and approval provided by reviewer, Verticurl DRI sets the email to send (time for send to be determined in issue comments).
+1. **Verticurl**: Verticurl DRI makes any necessary corrections. If no corrections needed and approval provided by reviewer, Verticurl DRI sets the email to send (time for send to be determined in issue description/comments).
 1. **Verticurl**: Verticurl checks that email was sent, confirms in comments (tagging issue requester) and closes out the issue.
 
 ### Responsibilities of email requesters
@@ -143,7 +137,7 @@ In an effort to avoid manually adding the issues we are working on with Verticur
     - The requested send date is the due date of the issue. If the requested send date is less than 5 Business Days from the date it is passed to Karthikeyan K, the date of the issue will be scheduled 5 business days out to abide by SLAs.
 1. **Verticurl**: Verticurl DRI completes the setup in Marketo, then sends a test email to the "Reviewers/Approvers" listed in the issue
     - SLA: 24 hours (from day assigned to Verticurl team DRI to provide)
-    - [Tables to reference with email addresses of potential reviewers](/handbook/marketing/demand-generation/campaigns/agency-verticurl#team)
+    - [Tables to reference with email addresses of potential reviewers](https://docs.google.com/spreadsheets/d/1AlSJKG2izsC7VKs5yUfL8EttJycYSBZrb38E_rBCAgk/edit#gid=1269662266)
 1. **Verticurl**: Verticurl DRI comments into the issue tagging the reviewers/approvers and documenting that the test email was sent to their inbox.
 1. **Verticurl**: Verticurl DRI moves status to `FMM-Verticurl::review`
 1. **Verticurl**: Verticurl DRI posts a screenshot of the email in the issue description
