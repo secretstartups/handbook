@@ -424,26 +424,33 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 * **System**: BambooHR
 * **Reports**:
+    * Additions & Terminations 
     * Current Team Members
     * Terminations
-* **Instructions**: Pull the listed reports from BambooHR and import them into a Google Sheet.
-    * Talent In Section
+* **Instructions**: Pull the listed reports from BambooHR and import them into a Google Sheet. Additionally, split the Marketing and Sales divisions as follows for **all** tabs: `Marketing (SDR)` for *Sales Development* roles, while everything else is `Marketing`; `Sales (NQR)` for *Commercial-* and *Enterprise Sales* roles, while everything else is `Sales (Non-NQR)`.
+    * **Additions & Terminations**
+        1. Pull the report with the Date Range = `Start of the Current Fiscal Year` to `Plus 8-months from the Current Month`.
+            * **Additions Tab**
+                * Add a column after `Hire Date` and call it `Start Status` (Column H).
+                * If the `Hire Date` is in the coming week, enter *Pending Start*. If the `Hire Date` is in future week, enter *Future Hire*. Enter *Hired* for all other `Hire Dates`.
+                * Create a separate tab for a pivot table and count the number of additions by `Hire Date` and division.
+                * Create another pivot within that tab to count the number of *Pending Starts* for the current week and all *Future Hires* by divison.
+            * **Terminations Tab**
+                * Add a column after `Termination Date` and call it `Week Ending` (Column I).
+                * Enter the week end date (i.e. Sunday) in the ISO date format for any terminations in the current- or following week.
+    * **Current Team Members**  
+        1. Pull the Current Team Members reports.
         1. Insert a column to the right of `Hire Date` and call it `FYXX-QX` (Column B).
             * Enter the corresponding quarter for the given `Hire Date`.
-        1. Insert a column to the right of `FYXX-QX` and call it `Start?` (Column C).
-            * For a future `Hire Date`, enter *Future Hire* in the cell.
-            * For a `Hire Date` in the current week, enter *Pending Hire* in the cell.
-            * For a past `Hire Date`, enter *Hired* in the cell.
-        1. Separate Sales by its NQR status as either: `NQR` or `Non-NQR`.
-        1. Create a Pivot Table and split the data by the Team Member `Hire Date` statuses (above) and `Hire Date` dates.
-        1. Create a table from which build a bar chart comparing how many starts there were in the previous- and current weeks.
-    * Talent Out Section
+        1. Create a pivot table to count the number to Team Members by division.
+            * Update the bar chart to showcase how the company size has change over the last four quarters.      
+    * **Talent Out (Regrettable/Non-Regrettable)**
         1. Insert a column to the right of `Termination Date` and call it, `Weeking Ending` (Column D).
-        1. Create a Pivot Table and split the data by `Termination Type` and `Division` and `Exit Impact`.
+        1. Create a pivot table and split the data by `Termination Type` and `Division` and `Exit Impact`.
         1. Create a table from which build a stacked bar chart comparing how many terminations there were in the previous- and current weeks.
-    * Current Headcount Section
-        1. Create a Pivot Table from the Current Team Members report and split it by `Division` and a count of `Hire Date` separated by fiscal year and quarter.
-    * Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.
+    * **Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.**
+        * The main columns of the table are as follows:
+            * Division, Talent In & Talent Out for Last Week, Talent In & Talent Out for the Current Week, Headcount, Headcount including *Future Hires*, Planned Headcount at Month End, Headcount Difference, and Headcount Difference including *Future Hires*.   
 
 </details>
 
