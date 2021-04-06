@@ -279,7 +279,7 @@ It also offers a free reliable mobile video conference app.
 ### Loom
 
 [Loom (Free)](https://www.useloom.com/) is a handy Chrome plugin tool for video walkthroughs.
-Nice tool for demo recordings and internal/external documentation.
+Nice tool for demo recordings and internal/external documentation. Note, Loom videos are public by default - ensure you are not exposing data that should remain private.
 
 ### Teampaper Snap
 
