@@ -56,7 +56,11 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. Channel Geo/Field QBRs - EMEA, GSI & AMER
 
 **CS QBRs**
-1. TBD
+1. Solutions Architects
+1. Solutions Architects - APAC 
+1. Technical Account Managers 
+1. Professional Services 
+1. Public Sector 
 1. CS Leadership 
 
 ### QBR Participation
