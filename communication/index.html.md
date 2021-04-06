@@ -406,7 +406,18 @@ It is just for ease of reference.
 
 ## Cross-Link 
 
-Cross-linking highlights important connections across the handbook, issues, and epics. It also help us to to establish a single [Single Source of Truth](/handbook/values/#single-source-of-truth) for definitions and concepts. Instead of creating content in isolation, we should try to reference the home of concepts and where folks can navigate to in order to learn more. Team members are responsible for ensuring that links are appropriately updated as changes are made to the handbook.
+Cross-linking highlights important connections across the handbook, [issues](https://docs.gitlab.com/ee/user/project/issues/crosslinking_issues.html), and epics. It also help us to to establish a [Single Source of Truth](/handbook/values/#single-source-of-truth) for definitions and concepts. Instead of creating content in isolation, we should try to reference the home of concepts and where folks can navigate in order to learn more. We should go beyond deep-linking to create a richer web of links that can surface content. Instead of linking from Page A to Page B, we might create the following set of links:
+
+1. Page A to Page B
+1. Page B to Page A
+1. Page A to the home page
+1. Page B to the home page
+
+For example, the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide links to the [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/). The [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/) links back to the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide.
+
+Team members are responsible for ensuring that links are appropriately updated as changes are made to the handbook.
+
+
 
 ## Acknowledgement Receipts (ACK)
 
