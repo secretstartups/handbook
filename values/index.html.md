@@ -345,13 +345,18 @@ While we iterate with small changes, we strive for large, ambitious results.
 Working at GitLab will expose you to situations of various levels of difficulty and complexity. This requires focus and the ability to defer gratification.
 We value the ability to maintain focus and motivation when work is tough and asking for help when needed.
 
-##### Bias for Action
+##### Bias for action
 {:.no_toc}
 It's important that we keep our focus on action, and don't fall into the trap of analysis paralysis or sticking to a slow, quiet path without risk. Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes; our bias for action also allows us to course correct quickly. Everyone will make mistakes, but it's the relative number of mistakes against all decisions made (i.e. percentage of mistakes), and the swift correction or resolution of that mistake, which is important. A key to success with transparency is to always combine an observation with questions to ensure understanding and suggestions for solutions / improvement to the group that can take action.  We don't take the easy path of general complaints without including and supporting the groups that can affect change. Success with transparency almost always requires effective [collaboration](#collaboration).
 
-##### Accepting Uncertainty
+##### Accepting uncertainty
 {:.no_toc}
 We should strive to accept that there are things that we don’t know about the work we’re trying to do, and that the best way to drive out that uncertainty is not by layering analysis and conjecture over it, but rather accepting it and moving forward, driving it out as we go along. Wrong solutions can be fixed, but non-existent ones aren’t adjustable at all. [The Clever PM Blog](https://www.cleverpm.com/2018/08/23/accepting-uncertainty-is-the-key-to-agility/)
+
+##### Escalate to unblock
+{:.no_toc}
+
+We should be diligent to define [Directly Responsible Individuals](/handbook/people-group/directly-responsible-individuals/) (DRI). If you are a DRI, you're empowered to escalate to unblock. Managers at GitLab seek to increase the output of the work of those on their team, a core concept in [High Output Management](/handbook/leadership/high-output-management/). Early escalation, delivered with context of the challenge, enables managers to function as an unblocker. 
 
 ##### Customer results
 {:.no_toc}
@@ -487,7 +492,7 @@ Not every problem should lead to a new process to prevent them. Additional proce
 {:.no_toc}
 We value constant improvement by iterating quickly, month after month. If a task is not the [smallest thing possible](/handbook/values/#iteration), cut the scope.
 
-##### Embrace Change
+##### Embrace change
 {:.no_toc}
 Adoption of features, user requirements, and the competitive landscape change frequently and rapidly. The most successful companies adapt their roadmap and their organization quickly to keep pace. One of the things that makes the challenging is the impact on our team. People may need to change teams, subject matter, or even who manages them. This can rightly feel disruptive. If we coach ourselves to embrace the positive aspects of change, such as increased opportunity and new things to learn, we can move faster as a company and increase our odds of success. It is important to [hold management accountable for being deliberate](#always-iterate-deliberately).
 
@@ -795,7 +800,7 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 {:.no_toc}
 Cultural differences can bring unique challenges and expectations to iteration. For some, expressions like "it doesn't have to be perfect..." can challenge cultural norms. We encourage you to bring your authentic self and seek shared understanding when iterating. [Giving feedback](/handbook/leadership/#giving-feedback) and ensuring [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) are necessary for every iterative attempt. 
 
-##### Focus on Improvement
+##### Focus on improvement
 {:.no_toc}
 We believe great companies sound negative because they focus on what they can improve, not on what is working.
 Our first question in every conversation with someone outside the company should be: What do you think we can improve?
@@ -836,7 +841,7 @@ handbook, create the new page with a small amount of initial content, get it mer
 quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent merge requests. 
 Similarly, when adding features to GitLab, consider ways to [reduce the scope](/handbook/product/product-processes/#crafting-an-mvc) of the feature before creating the merge request to ensure your merge request is as small as possible.
 
-##### Always Iterate Deliberately
+##### Always iterate deliberately
 {:.no_toc}
 Rapid iteration can get in the way of [results](#results) if it's not thought out; for example, when adjusting our marketing messaging (where consistency is key), product categories (where we've set development plans), [organizational structure](/company/team/structure/#organizational-structure) or [product scope alignment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) (where real human stresses and team stability are involved), sales methodologies (where we've trained our teams) and this values page (where
 we use the values to guide all GitLab team members). In those instances, we add additional review to the approval
@@ -946,6 +951,7 @@ Being direct is about being transparent with each other. We try to channel our i
 and kind, an uncommon cocktail of no-bullshit and no-asshole](https://medium.com/@producthunt/ben-horowitz-s-best-startup-advice-7e8c09c8de1b). Feedback is always about your work and not your person. That doesn't mean it will be easy to give or receive it.
 
 ##### Value dissent
+{:.no_toc}
 
 In a group setting, participants may [disagree](/handbook/values/#disagree-commit-and-disagree) with a proposal but not articulate their views for one reason or another. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement, however, it can be difficult and even socially expensive.
 Expression of feedback is a way for everyone to grow and learn, and is [based on facts rather than opinions](https://hbr.org/tip/2018/04/good-feedback-is-based-on-facts-not-your-opinion). Share your perspective, rather than agreeing simply to avoid conflict or to go along with everyone else.
@@ -986,7 +992,7 @@ By having most company communications and work artifacts be public to the Intern
 {:.no_toc}
 Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication/#multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to MRs in Slack.
 
-##### Find the Limit
+##### Find the limit
 {:.no_toc}
 We accept that we occasionally make mistakes in the direction of transparency. In other words, we accept it if we're sometimes publicizing information that should have remained confidential in retrospect. Most companies become non-transparent over time because they don't accept any mistakes. Making mistakes and reflecting on them means we know where the limit of transparency is.
 
