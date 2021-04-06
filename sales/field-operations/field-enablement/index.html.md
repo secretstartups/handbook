@@ -180,7 +180,7 @@ If you have a great training idea and/or enablement request, we'd love to hear i
 - Submit an issue using [this issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-enablement-request)
     - Please be descriptive in the issue in order to give our team the necessary context to review and prioritize your request. Note that ALL questions must be answered prior to Field Enablement triaging your request.
 - Upon submitting your request, the issue will be tagged as `FE priority::new request` and `FE status::triage`
-- Field Enablement will triage the request as quickly as possible. Upon examining the request, they will assess the priority and status by labeling it with one of the labels (please see label definitions in section below):
+- Field Enablement will triage the request as quickly as possible. Upon examining the request, the team will assess the priority and status by labeling it with one of the following labels (please see label definitions in section below):
     - Priority:
         - `FE priority::1`
         - `FE priority::2`
@@ -188,7 +188,8 @@ If you have a great training idea and/or enablement request, we'd love to hear i
     - Status:
         - `FE status::wip`
         - `FE status::backlog`
-- Field Enablement will collaborate with the requester on the request details directly in the issue to clarify any missing information, set up a discovery call, and/or update on next-steps.
+- Field Enablement will collaborate with the requester on the request details directly in the issue to clarify any missing information, set up a discovery call, and/or update on next steps.
+- [Click here](/handbook/sales/field-operations/field-enablement/prioritization-framework) for a deeper look into the Field Enablement team's prioritization framework
 
 If you have a Field Communications request (process change, announcement, etc.), please see the request process outlined [here](/handbook/sales/field-communications/#requesting-field-announcements).
 
