@@ -13,13 +13,13 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
 
-L&D will be rolling out a **three-week iteration of the program** during the month of May 2021. **The program will start 2021-05-03 and end on 2021-05-14. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the May program! Currently, the program is being offered to GitLab team members. 
+L&D will be rolling out a **two-week iteration of the program** during the month of May 2021. **The program will start 2021-05-03 and end on 2021-05-14. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the May program! Currently, the program is being offered to GitLab team members only. 
 
-Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
+Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend the 1 hour and 20 minute live learning sessions or complete the async live learning activities.  
 
-One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the three-weeks. 
+One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the two-weeks. 
 
-We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The pilot received a [Net Promoter Score of 4.6](https://drive.google.com/drive/folders/11J1b8jwxROFYH4Xgylkhgo6x3OEm4kyB?ths=true) by the participants. The [second iteration](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26) was run in January 2021 where we condensed the program to three weeks. 
+We rolled out the first iteration of the [Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The pilot received a [Net Promoter Score of 4.6](https://drive.google.com/drive/folders/11J1b8jwxROFYH4Xgylkhgo6x3OEm4kyB?ths=true) by the participants. The [second iteration](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26) was run in January 2021 where we condensed the program to three weeks. For May, L&D iterated again and are rolling out a two week program
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
@@ -109,10 +109,10 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day 9   | Live Learning - Effective Communications with Your Team | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
 | Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the manager action plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
 
+### Individual Growth Plan
 
-### Manager Action Plan
-
-Throughout the program, we ask that managers create a manager action plan to self-identify and self-reflect on areas that they wish to improve on moving forward. The document is intended to be a starting point for managers to document where they can improve as a people leader. Any manager can use the [manager action template](https://docs.google.com/document/d/1he_sJUrMuuWf1QPGoUu4E_W0uRQCQ3Ohd3jElTiN4hE/edit#) we've created. 
+Throughout the program, we ask that managers to create or refine their [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1). We encourage Managers to self-reflect on their professional development as a people leader and identify areas where they can advance their skills. 
+The document is intended to be a starting point for managers to document where they can improve as a people leader.
 
 ### Post Manager Challenge
 
@@ -139,8 +139,6 @@ Team members have access to [LinkedIn Learning](https://about.gitlab.com/handboo
 
 1. **What is the Manager Challenge Program?**
      - The program is intended to build a set of baseline management skills through micro habits and daily practices over 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
-1. **When is the next session?**
-     - The next session will be launched on 2020-01-11 for any people leader interested in attending.
 1. **Do I have to participate?**
      - We strongly recommend that all managers that sign up for the program complete the daily challenges and actively participate. All new managers are strongly encouraged to participate in their first year of leading teams. 
 1. **Have we done this program in the past?**
