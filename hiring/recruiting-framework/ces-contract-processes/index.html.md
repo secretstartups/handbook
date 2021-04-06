@@ -21,11 +21,11 @@ First, be sure to validate the following:
 1. Confirm if the team member would be an employee or contractor and [through which entity the team member would be employed or contracted](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab). If the team member wants to be contracted through a company, it can either be their own established legal entity or a separate and unaffiliated 3rd party company; please confirm which with the team member prior to sending out the contract. If the team member will be contracted through their own entity (or as an independent contractor), please use the BV Contractor Agreement. If the team member will be contracted through a 3rd party company, please inform Legal so that we can enter into a vendor contract with the company. The 3rd party company will then enter into a contract with the team member, and People Ops Analyst will provide the necessary specific salary and position information.
 
 ### Entity Contract Signatories
-<<<<<<< HEAD
+
 | Entity | Signatory | 
 |-------- | -----|
 | GitLab Inc | Kelly Murdock  | 
-| GitLab Federal LLC    |       TBD      |  
+| GitLab Federal LLC    |       Marc Kris      |  
 | GitLab BV Belgium, Dutch & English | TBD | 
 | GitLab BV, Netherlands | TBD | 
 | GitLab GmbH | Kelly Murdock | 
@@ -33,25 +33,17 @@ First, be sure to validate the following:
 | GitLab PTY Ltd, New Zealand | TBD | 
 | GitLab Ireland LTD | Carol Teskey | 
 | GitLab UK Ltd | Carol Teskey | 
-| GitLab Canada Corp | TBD | 
+| GitLab Canada Corp | Craig Mestel | 
 | GitLab GK, Japan | TBD | 
 | GitLab IT BV | TBD | 
-=======
-| Entity | Signatory |
-|-----------------|-------------|
-| GitLab Inc | Kelly Murdock  |
-| GitLab Federal LLC    |       TBD      |
-| GitLab BV Belgium, Dutch & English | TBD |
-| GitLab BV, Netherlands | TBD |
-| GitLab GmbH | Kelly Murdock |
-| GitLab PTY Ltd, Australia | TBD |
-| GitLab PTY Ltd, New Zealand | TBD |
-| GitLab Ireland LTD | Carol Teskey |
-| GitLab UK Ltd | Carol Teskey |
-| GitLab Canada Corp | TBD |
-| GitLab GK, Japan | TBD |
-| GitLab IT BV | TBD |
->>>>>>> Rename all Recruiting -> Talent Acquisition
+
+#### Offer Details Access steps
+Not all individuals who are signatories for entities have the appropriate access in Greenhouse and this is something that has to be set up on a per req basis at time of contract sending. 
+
+Once the entity of the chosen candidate has been determined and the CES team has received the request to send the contract, follow the steps below: 
+1. Go to the `Job Setup` tab within Greenhouse
+1. Select `Edit` in the `Job Info` box at the top of the screen
+1. Select the pencil icon next to `Office` and pick the correct entity 
 
 ### Send the contract through Greenhouse
 
@@ -72,6 +64,7 @@ Click on the Text box.  Click `save as custom field` name it as desired.
 **You will need to create the conditional logic rule each time you send out contracts**, it does not save for future use.
 There may also be other fields you'll need to add a textbox for, so double check if there are any other fields that need to be completed by either the candidate or GitLab signatory (as contracts for different entities vary; one that is easy to miss is the UK contract which requires the candidate to input their national insurance number). Once you've verified that all the information is correct and appropriately assigned, click "Send" at the top right corner.
 1. You'll now be redirected back to Greenhouse, where you can monitor the progress of the contract and be able to see when each party signs it. Once it is signed by all parties, you and everyone cc'd on the original request will receive a confirmation email that it has been signed.
+1. After sending the contract via DocuSign, ping the signatory and the Senior Recruiting Program Analyst - Erich Wegscheider (or People Operations Specialist - Ashley Jameson if Erich is unavailable) in the #contracts-to-sign slack channel.
 1. If you need to resend the contract, follow the same steps, but be sure to log into your DocuSign account and first delete the original one to avoid confusion.
 
 ### How to add a contract into Greenhouse
