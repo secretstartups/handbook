@@ -44,9 +44,9 @@ product.
 | Name | Role  | Slack Handle |
 |--|--|--|
 | [Jason Colyer](https://gitlab.com/jcolyer) | Support Operations Manager | @jcolyer |
-| [Nabeel Bilgrami](https://gitlab.com/nabeel.bilgrami) | Support Operations Specialist (Main Instance) | @nabeel.bilgrami |
+| [Nabeel Bilgrami](https://gitlab.com/nabeel.bilgrami) | Support Operations Specialist (Global Instance) | @nabeel.bilgrami |
 | [Dan Nolan](https://gitlab.com/dnolan1) | Support Operations Specialist (US Federal)} | @dnolan1
-| [Alyssa Villa](https://gitlab.com/avilla4) | Support Operations Specialist (Main Instance) | @avilla4 |
+| [Alyssa Villa](https://gitlab.com/avilla4) | Support Operations Specialist (Global Instance) | @avilla4 |
 
 ## Support Operations Important Links
 
