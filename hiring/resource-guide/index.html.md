@@ -70,6 +70,8 @@ DRI: Candidate Experience Team
 
 #### **How to send out a Guide to a candidate for a Demo or Technical Interview via Greenhouse**
 
+1. Before scheduling, make sure the Demo/Technical interview information or instructions are updated in the `Guide Interview Details`.
+   - Information regarding what should be included in `Guide Interview Details` can be found in [this SSOT issue](https://gitlab.com/gl-recruiting/ces-service-desk/-/issues/3605).
 1. Once you have scheduled the interviews that need to be scheduled, click on the guide chrome extension in the upper right corner. 
 1. Select Preview and Send and ensure the Email template used is `Interview Confirmation- Demo or Technical Interview`
 1. Select Send
