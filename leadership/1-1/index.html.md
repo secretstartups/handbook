@@ -189,7 +189,7 @@ In an effort to be [transparent](/handbook/values/#transparency), managers shoul
 ### 1-1-1 Transition Schedule
 The following schedule can ensure a smooth transition:
 1. Current Manager: Create a 1-1-1 and invite the team member and the future manager
-1. Get approval from the team member to share the existing 1-1 document with the future manager. Or, start a new 1-1 document and share it with the team member and the future manager
+1. Prior to the meeting get approval from the team member to share the existing 1-1 doc (and other feedback documents) with the future manager. Or, if they request start a new 1-1 document and share it with the team member and the future manager. This will give the future manager an opportunity to review in advance of the meeting.
 1. Team Member: If a new 1-1 document was started, transfer any relevant content
 1. Group: Continue 1-1-1s for up to a month (if needed)
 1. New Manager: Remove the former manager from calendar invites and the 1-1 document
