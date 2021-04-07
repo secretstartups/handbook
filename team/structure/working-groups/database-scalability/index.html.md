@@ -113,6 +113,8 @@ We should consider some of the following patterns:
 
 These patterns can also be used in combination. For example, partition based on time and drop partitions older than X months.
 
+For details, see the [blueprint](time-decay.html).
+
 #### Entity/Service
 
 A popular database scalability methodology entails decomposing concrete entities (e.g., users) into separate data stores. This approach is typically associated with *microservices*, and while at times it may be useful to encapsulate an *entity* behind a *service*, this is not a strict requirement, especially within the context of our application (even though, as mentioned earlier, we have already done this with [Gitaly](https://gitlab.com/gitlab-org/gitaly)).
