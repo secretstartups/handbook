@@ -206,11 +206,15 @@ Having the following code snippet in a performance indicator yaml:
 ```yaml
 ...
 - name: Configure:Configure - SMAU, GMAU - MAU of GitLab Managed Terraform State
-  target_name: redis_hll_counters.terraform.p_terraform_state_api_unique_users_monthly
+  target_name: counts.projects_with_terraform_states
   monthly_recorded_targets:
-    "2021-04-30": 3000
+    "2021-04-20": 5000
+    "2020-11-01": 3000
+    "2020-07-01": 700
   monthly_estimated_targets:
-    "2021-04-30": 5000
+    "2021-04-20": 6000
+    "2020-11-01": 3000
+    "2020-07-01": 700
 ...
 ```
 
