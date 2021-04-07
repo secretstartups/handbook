@@ -15,12 +15,12 @@ description: "This page lists a number of tips and tricks we have found useful i
 This page lists a number of tips and tricks we have found useful in day to day Quality Engineering related
 tasks.
 
-## Running Gitlab-QA pipeline against a specific GitLab release
+## Running GitLab-QA pipeline against a specific GitLab release
 
 While working on the [GitLab-QA codebase](https://gitlab.com/gitlab-org/gitlab-qa), it is sometimes helpful to run the GitLab-QA pipeline
 against a specific release of the [GitLab project](https://gitlab.com/gitlab-org/gitlab). This could be
 due reasons such as that particular GitLab release containing specific code needed for validating the changes made
-in Gitlab-QA. To run a [GitLab-QA pipeline](https://gitlab.com/gitlab-org/gitlab-qa/pipelines) against
+in GitLab-QA. To run a [GitLab-QA pipeline](https://gitlab.com/gitlab-org/gitlab-qa/pipelines) against
 a specific GitLab release, we need to know the GitLab release version created and tagged by the omnibus pipeline.
 This can be found by either observing the `RELEASE` variable in any of the `package-and-qa` test jobs or
 in the last output line of the `Trigger:gitlab-docker` job triggered by the `package-and-qa` job. Here is an example of what the `RELEASE` string

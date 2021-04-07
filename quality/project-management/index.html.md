@@ -15,7 +15,7 @@ description: "Guidelines for project management for the Quality Engineering Depa
 The Quality team currently works cross-functionally and our task ownership spans multiple projects.
 
 * **GitLab.org**
-  * [Gitlab QA](https://gitlab.com/gitlab-org/gitlab-qa/)
+  * [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/)
   * [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage)
   * [GitLab](https://gitlab.com/gitlab-org/gitlab/)
   * [GitLab CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
