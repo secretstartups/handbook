@@ -292,7 +292,7 @@ GitLab provides a policy through Cigna that may replace up to 66.7% of your base
 
 ## Employee Assistance Program
 
-GitLab team members in the United States are eligible for a complementary [Employee Assistance program](hhttps://www.cigna.com/individuals-families/member-resources/employee-assistance-program) as a result of enrollment in the long-term disability plan through Cigna, dependents who are enrolled in a Cigna coverage are also eligible. More information can be found online on [myCigna](https://my.cigna.com/web/public/guest) for the following topics: Emotional Health and Family Support, Home Life Referrals, Financial and Legal Assistance, Job and Career Support, and other topics.
+GitLab team members in the United States are eligible for a complementary [Employee Assistance program](https://www.cigna.com/individuals-families/member-resources/employee-assistance-program) as a result of enrollment in the long-term disability plan through Cigna, dependents who are enrolled in a Cigna coverage are also eligible. More information can be found online on [myCigna](https://my.cigna.com/web/public/guest) for the following topics: Emotional Health and Family Support, Home Life Referrals, Financial and Legal Assistance, Job and Career Support, and other topics.
 
 ## 401k Plan
 
