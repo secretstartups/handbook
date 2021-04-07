@@ -276,9 +276,9 @@ Going forward, all new applicants whose answers in their application questions c
 
 ### EEOC Questionnaire
 
-All candidates that are evaluated for a requsition **must** be sent the **EEOC Questionnaire**. For requisitions that are posted externally, where a candidate would apply, the candidate will automatically be presented with the *optional* survey in the application. However, if a candidate comes from a source where they **wouldn't** have necessarily applied (e.g. via an *Agency* or were *Sourced* or *Referred*), then the **EEOC Questionnaire** will need to be sent **manually**. 
+All candidates that are evaluated for a requsition **must** be sent the **EEOC Questionnaire**. For requisitions that are posted externally, where a candidate would apply, the candidate will automatically be presented with the *optional* survey in the application. If a candidate comes from a source where they **wouldn't** have necessarily applied (e.g. via an *Agency* or were *Sourced* or *Referred*), then the candidate will receive an automated email from Greenhouse when they reach the `Assessment` milestone. In the case of the requisition **not** being posted externally, then the **EEOC Questionnaire** will need to be sent **manually**.
 
-The DRI for sending the **EEOC Questionnaire** would be whoever sends the `Screening` invite (e.g. the *Recruiter* or *Sourcer*).
+The DRI for manually sending the **EEOC Questionnaire** would be whoever sends the `Screening` invite (e.g. the *Recruiter* or *Sourcer*).
 
 Here's how to see if it's been sent and, if applicable, how to send it:
 
