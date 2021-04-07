@@ -142,7 +142,7 @@ Team members have access to [LinkedIn Learning](https://about.gitlab.com/handboo
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
-     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
+     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 2 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
 1. **Do I have to participate?**
      - We strongly recommend that all managers that sign up for the program complete the daily challenges and actively participate. All new managers are strongly encouraged to participate in their first year of leading teams. 
 1. **Have we done this program in the past?**
