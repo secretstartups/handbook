@@ -23,7 +23,16 @@ Product Usage Data will be accessible in:
 
 ## Using Product Usage Data in Gainsight 
 
-For a video overview, see [the corresponding video overview](https://youtu.be/5_J9Kfbu5JA).
+For video overviews, see:
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/5_J9Kfbu5JA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+- [Product Usage Data - video overview](https://youtu.be/5_J9Kfbu5JA)
+- [Health Measures and Data Quality](https://www.youtube.com/watch?v=XQCGKL4XF_o)
 
 **Note**: for License Usage, see [License Usage Salesforce App](/handbook/sales/field-operations/sales-systems/license-usage-app/) and [License Usage in Gainsight](/handbook/customer-success/tam/gainsight/license-usage/).
 
