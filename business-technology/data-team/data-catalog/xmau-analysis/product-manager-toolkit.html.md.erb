@@ -35,7 +35,7 @@ If you want to:
 NOTE:
 All these snippets start with a `td_` prefix. `td_` (td stands for Trusted Data, see here for more details)
 
-#### Estimated xMAU and PI charted: td_xmau(user segment, xMAU type, filter, target)
+#### Estimated xMAU or PI chart: td_xmau(user segment, xMAU type, filter, target)
 
 The snippet [td_xmau] allows you to do it very quickly. With this snippet you will be able to:
 
@@ -53,7 +53,7 @@ Parameters (use the Google Spreadsheet instead!):
 - *xMAU*: one of the xMAU types or 'PI'
 - *filter*: if there are multiple options after choosing xMAU, you can choose the concrete metric
 - *target*: the target to draw for this metric. 
-    - If xMAU is 'PI', then the target value is taken from performance indicator yaml files' `monthly_recorded_targets` key
+    - If xMAU is 'PI', then the target value is taken from performance indicator yaml files' `monthly_recorded_targets` key with a corresponding `target_name` key
     - If the target it between 0-1, then it's considerd to be the a percentage change from the last value. 
     - If the target is greater than 1, then the target is added as a scalar.
 
@@ -76,15 +76,18 @@ This snippet shows you the change in your metric value of any of your metric imp
 ##### Usage
 
 1. Obtain the the metrics_path of the counter you want to monitor
-In [this view](https://app.periscopedata.com/app/gitlab/view/list_of_available_usage_ping_metrics_paths_for_mart__queries/5e6f74b0014747348c2525ba6e7d03bb/edit), type the name of your metric between the 2 `%` as shown in the example and then click on `Run SQL`. Copy the metrics_path from the output. You are going to use this in the snippet.
-2. Use the metrics_path in the snippet
-Create a new chart to use the snippet. Input the copied metrics_path into the snippet. Here is an example: 
 
-    - Metric: `g_project_management_issue_moved_monthly`
-    - metrics_path: `redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly`
-   - Snippet in use: 
-   ``   [td_xmau_metrics_recorded_metric_value('redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly')]
-``
+   In [this view](https://app.periscopedata.com/app/gitlab/view/list_of_available_usage_ping_metrics_paths_for_mart__queries/5e6f74b0014747348c2525ba6e7d03bb/edit), type the name of your metric between the 2 `%` as shown in the example and then click on `Run SQL`. Copy the metrics_path from the output. You are going to use this in the snippet.
+
+2. Use the metrics_path in the snippet
+
+   Create a new chart to use the snippet. Input the copied metrics_path into the snippet. 
+   
+##### Example: 
+
+- Metric: `g_project_management_issue_moved_monthly`
+- metrics_path: `redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly`
+- Snippet in use:  `[td_xmau_metrics_recorded_metric_value('redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly')]`
 
 Then you will be able to get a dataset with the following potential breakdowns:
 
@@ -95,16 +98,7 @@ Then you will be able to get a dataset with the following potential breakdowns:
 
 ##### Adding a target value
 
-You can add a target value to the chart by adding a `target_name` and a `monthly_estimated_targets` key to the performance indicator yaml, like in the following example:
-
-``
-- name: Configure:Configure - SMAU, GMAU - MAU of GitLab Managed Terraform State
- target_name: redis_hll_counters.terraform.p_terraform_state_api_unique_users_monthly
- monthly_recorded_targets:
- "2021-04-30": 3000
- monthly_estimated_targets:
- "2021-04-30": 5000
-``
+You can add a target value to the chart by adding a `target_name` and a `monthly_estimated_targets` key to the performance indicator yaml. Learn more about this feature below.
 
 Example chart: [td_xmau_metrics_recorded_metric_value: Metric Value split by delivery](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10999660&udv=0)
 
@@ -116,7 +110,7 @@ This snippet extends `td_xmau_metrics_recorded_metric_value` with a total line.
 
 ##### Usage
 
-[See above]().
+[See above](#usage-1).
 
 #### Original Monthly Metric Value: [td_xmau_metrics_original_metric_value(metrics_path)]
 
@@ -124,7 +118,7 @@ This snippet is a variation of `td_xmau_metrics_recorded_metric_value` that show
 
 ##### Usage
 
-[See above]().
+[See above](#usage-1).
 
 #### Monthly Active Instance chart: [td_xmau_metrics_instance_count(breakdown, metrics_path)]
 
@@ -175,6 +169,38 @@ Thanks to this snippet [td_xmau_monthly_change_breakdown] you will be able to cr
 The snippet allows you to quickly see the number of tracked instances with decreasing, increasing usage or newly added by month.
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10768920, dashboard: 793297, embed: 'v2') %>">
+
+#### How to show dynamic targets on your widgets?
+
+The following snippets support adding dynamic target values from performance indicator yaml files:
+
+- `td_xmau`
+- `td_xmau_metrics_recorded_metric_value`
+- `td_xmau_metrics_recorded_metric_value_with_total`
+- `td_xmau_metrics_original_metric_value`
+
+Adding the `target_name`, `monthly_recorded_targets`, `monthly_estimated_targets` keys to a performance indicator yaml file, shows the provided target values for the provided metric name.
+
+##### Usage
+
+- `target_name`: The target name should equal to the `metrics_path` used in the snippet
+- `monthly_estimated_targets`: is a list of `"key": value` pairs where `key` is the target date to reach the target `value`
+- `monthly_recorded_targets`: is a list of `"key": value` pairs where `key` is the target date to reach the target `value`
+
+##### Example
+
+```
+...
+- name: Configure:Configure - SMAU, GMAU - MAU of GitLab Managed Terraform State
+  target_name: redis_hll_counters.terraform.p_terraform_state_api_unique_users_monthly
+  monthly_recorded_targets:
+    "2021-04-30": 3000
+  monthly_estimated_targets:
+    "2021-04-30": 5000
+...
+```
+
+Then using a snippet like `[td_xmau_metrics_original_metric_value('counts.projects_with_terraform_states')]` shows the recorded targets on top of the original values. [See example](https://app.periscopedata.com/app/gitlab/677628/Infrastructure-as-Code?widget=9080255&udv=1037942).
 
 #### Go further...
 
