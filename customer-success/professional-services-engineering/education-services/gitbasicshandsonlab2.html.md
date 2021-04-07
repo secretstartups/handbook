@@ -6,12 +6,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 # GitLab with Git Basics Hands On Guide: Lab 2
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 2: WORKING WITH GIT LOCALLY
 
 ### Verify git is installed locally
