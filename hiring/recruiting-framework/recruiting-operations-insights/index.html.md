@@ -438,6 +438,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
             * **Terminations Tab**
                 * Add a column after `Termination Date` and call it `Week Ending` (Column I).
                 * Enter the week end date (i.e. Sunday) in the ISO date format for any terminations in the current- or following week.
+                * Look up the `Termination Type` and `Exit Impact` in BambooHR on the departing Team Member's profile and include this is the **Talent Out (Regrettable/Non-Regrettable)** chart.
     * **Current Team Members**  
         1. Pull the Current Team Members reports.
         1. Insert a column to the right of `Hire Date` and call it `FYXX-QX` (Column B).
@@ -450,7 +451,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. Create a table from which build a stacked bar chart comparing how many terminations there were in the previous- and current weeks.
     * **Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.**
         * The main columns of the table are as follows:
-            * Division, Talent In & Talent Out for Last Week, Talent In & Talent Out for the Current Week, Headcount, Headcount including *Future Hires*, Planned Headcount at Month End, Headcount Difference, and Headcount Difference including *Future Hires*.   
+            * Division, Talent In & Talent Out for Last Week, Talent In & Talent Out for the Current Week, Headcount, Headcount including *Future Hires*, Planned Headcount at Month End, *Future Terminations*, Headcount Difference, and Headcount Difference including *Future Hires*.   
 
 </details>
 
