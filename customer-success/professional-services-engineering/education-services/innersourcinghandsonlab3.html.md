@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab InnerSourcing Hands On Guide- Lab 3
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 3- USING GITLAB TO MAKE CHANGES AND COLLABORATE
 
 ### Create a New Issue
