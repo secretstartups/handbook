@@ -302,3 +302,14 @@ The following process outlines steps for the L&D team to take when planning and 
 Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
 
 **Planning Issue Template:** Open a `skill-of-the-month` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps are outlined in the issue template.
+
+## People Group Self-Care Check in Calls
+
+This optional call occurs weekly on Wednesday and is a space for the People Group to check-in weekly on our own self-care practices. This initiative is currently in a pilot state and we're iterating on the best format. Other teams at GitLab should feel encouraged to adpot a similar call format if they are interested. [Calm](https://www.calm.com/business/blog) offers great blogs and articles about self-care strategies, and a webinar they hosted in March 2021 inspired the start of these weekly social self-care calls.
+
+This call does not have an agenda because the intention is to hold a safe space where peole can speak openly without focusing on documenting discussions.
+
+Call Structure:
+
+- First 10 minutes: Optional share-out of what you've done this week or this day to care for your self. Participants can share verbally or in the Zoom chat
+- Second 10 minutes: Discuss one question prompt about self-care, mental wellness, and general wellbeing. The goal is to get participants thinking about how they can integrate self-care strategies into their daily practice
