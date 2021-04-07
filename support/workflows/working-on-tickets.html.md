@@ -89,7 +89,7 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 
 <!-- ![Working on Tickets process flowchart](assets/working-on-tickets-workflow.png) -->
 
-### Keep In Mind:
+### Zendesk Housekeeping and Things To Keep In Mind:
 
 1. Teamwork is really important with this workflow. Be aware of what's happening
    across the board: watch Slack channels for requests from other SEs on their
@@ -100,7 +100,9 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    with them. If you decide to post a public response, be sure that your next
    steps align with the action plan that the assignee has described on their
    replies or ticket summary.
+1. Ensure that the subject of a support ticket is both descriptive and accurate. Although the subject is automatically set whenever a customer creates a new ticket you should review and if necessary modify the subject throughout the ticket lifecycle to ensure that it always accurately describes the customer's issue at any given time.  Having a descriptive and accurate subject is pivotal in enabling colleagues in support to quickly identify similar issues and reuse existing information.
 1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
+1. Add research notes to your tickets. Adding research notes allows you to clearly document the research and debugging steps that you have implemented throughout a tickets lifecycle. Not only is this a good way for you to track your own progress particularly for ongoing and challenging tickets but it also provides your colleagues with a clear understanding of what has been tried thus far enabling a smoother transition if a ticket needs to be reassigned.
 1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
 1. For all tickets in which the user is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period). Make sure you check with the user that they are comfortable with any timescales you are working towards. If they are not, ensure you understand the impact to their business so that we can react accordingly.
 1. After 1 on-hold period or a week, generally, an issue should be created in the appropriate tracker especially if there is discussion with the development team.
