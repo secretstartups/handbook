@@ -26,7 +26,7 @@ The communicated Talent Acquisition Process Framework specifically focuses on ap
 * **[Candidate Experience Specialist (CES)](/handbook/hiring/talent-acquisition-framework/coordinator/):** The CES partners with the Recruiter and Sourcer on all scheduling, background check, references and offer needs. For more information on what role a CES may play, please visit the [CES Job Family](/job-families/people-ops/candidate-experience/).
 
 ### **Step 1: Identify hiring need**
-The Hiring Manager will determine the need for a vacancy and ensure it is listed on the Gitlab Hiring Plan. Once confirmed, the Hiring Manager will notify the [Talent Acquisition Manager/Lead specific to their org](/handbook/hiring/talent-acquisition-alignment/) utilizing the steps provided on the [vacancy creation process](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process).
+The Hiring Manager will determine the need for a vacancy and ensure it is listed on the GitLab Hiring Plan. Once confirmed, the Hiring Manager will notify the [Talent Acquisition Manager/Lead specific to their org](/handbook/hiring/talent-acquisition-alignment/) utilizing the steps provided on the [vacancy creation process](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process).
 
 ###  **Step 2: Create vacancy in Greenhouse**
 The Talent Acquisition Manager/Lead will create the vacancy in Greenhouse following the [vacancy creation](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the vacancy is approved.
