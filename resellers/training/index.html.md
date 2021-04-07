@@ -169,14 +169,14 @@ GitLab Technical Core is the foundational technical training for post-sales tech
 
 **Training and Certifications**
 
-Gitlab offers Sales and technical certifications that are designed to ensure Partners have the ability to apply GitLab core competencies in the field and within their own practices.  To earn a certification, candidates must first complete all relevant course material and then pass the assessment test with a score of 80% or greater. 
+GitLab offers Sales and technical certifications that are designed to ensure Partners have the ability to apply GitLab core competencies in the field and within their own practices.  To earn a certification, candidates must first complete all relevant course material and then pass the assessment test with a score of 80% or greater. 
 
 <details>
   <summary markdown='span'>
   GitLab Certified  Professional Services Engineer (PSE) Certification
   </summary>
 
-<b>Gitlab Partner Bootcamp</b>
+<b>GitLab Partner Bootcamp</b>
 
 <ul>
 <li>Lesson 1: Code Management and Version Control</li>
