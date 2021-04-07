@@ -203,6 +203,14 @@ Code Unit:
 **Logic Locations**
 * To be added once functionality is in Production
 
+## Opportunity Validation Rule for Closed Accounting Period
+
+**Business Process this supports**  The Sales Finance & Analytics
+
+**Overview** The goal is have a static opportunity population in salesforce once the opportunity close date is past accounting close date ( which is 10th day of the month) so it ties to everything that was reported to the Board. And to ensure the bookings data don't change as there are other downstream implications such as Commissions Calculation, Booking Reporting & Adaptive Bookings Data,need to build a mechanism to lock the booking related opportunity fields after green light from Deal Desk & Finance. If there are any minor adjustments ( if needed ) to historical periods we have a specific permission sets to make the appropriate changes.
+
+**Logic Locations**
+* [ Validation Rule](https://gitlab.my.salesforce.com/03d4M000001113V?setupid=OpportunityValidations)
 
 ## Block Salesforce From Transferring Historical Opp Owners On Account Owner Transfers
 
