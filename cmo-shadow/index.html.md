@@ -71,6 +71,7 @@ CMO staff will recommend who from their organizations should participate in the 
 | 2021-02-22 | 2021-03-05 | [Emily Kyle](https://gitlab.com/emily) - Manager, Corporate Events and Branding |
 | 2021-03-15 | 2021-03-26 | [William Chia](https://gitlab.com/williamchia) - Manager, Product Marketing |
 | 2021-03-29 | 2021-04-09 | [Hannah Woodward](https://gitlab.com/hwoodward) - Sr. Manager, AMER Sales Development |
+| 2021-04-19 | 2021-04-30 | [Natasha Woods](https://gitlab.com/nwoods1) - Director, Corporate Communications |
 
 ## Preparing for the Program
 {: #preparation .gitlab-purple}
