@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab InnerSourcing Hands On Guide- Lab 5
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 5- FORK A PROJECT AND CONTRIBUTE TO IT
 ### Create a Forked Project
 1. In the GitLab Demo Cloud, locate your {Last name}InnerSourcing Project and click on it.  

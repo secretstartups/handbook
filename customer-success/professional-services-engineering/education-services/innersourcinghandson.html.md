@@ -6,21 +6,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 # GitLab InnerSourcing Hands On Guide
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Hands On Lab Setup
-
-1. To begin lab, navigate to the sandbox link: <https://www.gitlabdemo.com/invite>  
-2. Enter your invitation code in the box and Click **Redeem**. 
-3. You will be brought to the link below: 
-4. Click **Download Credentials**. 
-5. Click the GitLab URL and launch your demo environment. 
-6. Enter your credentials and launch the demo environment. 
-
 ## GitLab InnerSourcing Labs
 * [Lab 1- Create a Project from a Template and an Issue](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/innersourcinghandsonlab1.html)
 * [Lab 2- Create an Epic and Tie an Issue to it](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/innersourcinghandsonlab2.html)
