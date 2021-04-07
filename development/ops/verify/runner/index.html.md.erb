@@ -125,6 +125,32 @@ group, which will set proper permission across the projects.
 
 ## How we work
 
+### The responsibility of the merge request author
+
+Developers are responsible for creating merge requests that incrementally improve the product. Every developer should aspire to have their merge requests "sail through" the review process.
+
+Each merge request created should include an explanation of why it is needed. Simply saying `Closes Issue #1234` is incomplete - it puts the work of understanding the context on the reviewer who then needs to go through the issue and put together the context they need to understand this particular change. Maintainers are encouraged to immediately send back MRs that don't make it clear why the change is needed.
+
+When a merge request is sent to a reviewer or maintainer, it should be for the sake of performing a review that leads to a merge. If a merge request can't be merged at the end of the review it should not make it to a maintainer. For example, if it is blocked by another MR that needs to be merged before it or a yet-to-be-decided constant value then it cannot be merged and shouldn't be clogginging up the maintainers review queue.
+
+As the author of a merge request, it is your responsibility to get your code merged. If it's not happening due to delays in review, it's up to you to reach out to the reviewer, consider offering to pair-review it on a call, or reassign it to a reviewer with more capacity.
+
+When an MR is ready for review, or maintainer review, it is the author's responsibility to find a reviewer with capacity who agrees to take it on. All the active work of this is on the MR author as part of their responsibility for getting their code merged. Often times our maintainers, being the friendly team mates that they are, will actively solicit MRs that need revieweing - especially when approaching a release date - but this shouldn't be expected.
+
+Reviewers and maintainers have a limit on how many MRs they can have assigned for review at any given time. If no one has capacity to review your MR consider doing anything possible to help address that situation. For example, offer to do a pair review with the reviewer to speed up a review. Otherwise you may need to wait for the backlog of reviews to be resolved by the reviewers before moving along with asking for more reviews. The current number of assigned reviews for each member of the team is viewable on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0) 
+
+### The responsibility of Reviewers and Maintainers
+
+Reviews, esepcially maintainer reviews, are the biggest bottleneck for our team delivering improvements to the product. Because of this we must be strict with expectations of incoming MRs and reasonable with the expecations we have on how much work the maintainers can handle. Because an issue in GitLab can have a one-to-many relationship with MRs, MRs - not issues - are our representation of work in flight. To help maintain reasonable amount of work on the shoulders of anyone doing reviews, we have a WIP limit of 5 MRs being reviewed by any person at any time. This can be tracked on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0) and will alert in the team slack channel when anyone crosses the WIP limit in either direction.
+
+Because reviewing is a bottleneck for our team, it is important to be efficient. When reviewing an MR, consider high-level things before diving deeply into it - is the MR description adequate for you to understand the context without reading through 100's of issue comments? Does the general approach to the solution make architectural sense? Is it clear to you how to test it out and what behavioural difference you should see when the code is exercised? 
+
+If you as a reviewer or maintainer who has reached your limit of assigned review MRs, consider asking for assistance from your peers by reassigning some to them. Additionally consider pair-reviewing with the authors on a video call to speed up the review cycle - especially if you have multiple MRs to review from a single author.
+
+Non-team member MRs count towards WIP limit. At GitLab anyone can contribute, and codebases do not equal "teams" or "groups" (even if they happen to share a name). Therefore we should, from time to time, anticipate the occasional MR from a non-team member. Since other teams may not be familiar with our imposed WIP limits, we will need to accommodate them as best we can and the reviewers may need to help with the re-balancing their workload. We should not accept these MRs as a valid reason to go above the WIP limits.
+
+These limits are intended to help with the work load on the reviewers and maintainers. If you are feeling pressured to rush through reviews, talk to your EM. Quality is always more important than speed of review. 
+
 ### Runner Group Specific Onboarding Needs
 
 * `editor` access to the `group-verify` project in GCP
