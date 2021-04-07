@@ -3,29 +3,40 @@ layout: markdown_page
 title: "FY22 GTM Sales Play - Premium to Ultimate"
 ---
 
-## Jump to Sales Play Tactics (/sales-play-tactics anchor link below)
+## Jump to [Sales Play Tactics](#sales-play-tactics)
 
 ## Overview
 
 **Objective**
+
 Convert landed accounts that are already using CI/CD to expand from GitLab Premium to GitLab Ultimate. 
 
 Who is this sales play for?  
 * Primary: SALs and AEs who call on one or more existing GitLab Premium customers  
 * Secondary: SAs and TAMs who support one or more existing GitLab Premium customers  
+
 Note: This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats.
 
 ## Who to meet
 
 **Ideal Customer Profile**  
+
 Existing GitLab Premium customers already using CI/CD
+- Bonus points for:
+   - Organizations at lower maturity level undergoing or planning to undergoing tranformation
+   - Siloed teams with disparate tools, especially security, lacking visibility at the individual level and executive level
+   - Organizations with stringent regulatory security or compliance requirements
 
 **Target Buyer Personas**
+
 Economic buyers: CISO or Security Manager, VP of Security, Director of Security, VP of IT or CTO, App/Dev Director
+
 Technical influencers: Chief Architect, App Dev Manager
+
 Other Personas to consider: Infrastructure Engineering Director, Release and Change Management Director
 
 **Target Account Lists** 
+
 [Account list](https://gitlab.my.salesforce.com/00O4M000004akG8) 
 
 ## Getting Started
@@ -40,27 +51,33 @@ Consider the following questions:
  
 ## Value Discovery
 
-Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format?
+Note: as we iterate, we can use [these DevSecOps disovery questions for MVC1](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format
 
 **Common Pains**  
+
 GitLab Premium customers may be experiencing one or more of the below challenges:
-| Challenges ("Before Scenarios")        | So What? ("Negative Consequences")           |
+
+| Challenges ("Before Scenarios")  | So What? ("Negative Consequences")  |
 | ------------- |:-------------:| 
 | challenge 1    | negative cons 1 |
 | challenge 2    | negative cons 2 |
 | challenge 3    | negative cons 3 |
 
 **Common Benefits**  
+
 By upgrading from GitLab Premium to GitLab Ultimate, customers may experience one or more of the below benefits:
-| Desired Future State (“After Scenarios”)        | So What? (“Positive Business Outcomes”)           |
+
+| Desired Future State (“After Scenarios”) | So What? (“Positive Business Outcomes”)   |
 | ------------- |:-------------:| 
 | item 1    | item 1 |
 | item 2    | item 2 |
 | item 3    | item 3 |
 
 **Required Capabilities**  
+
 To achieve the positive business outcomes highlighted above, what required capabilities does the customer need to solve for and how will success be measured?
-| Required capability        | Metrics           |
+
+| Required capability |  Metrics  |
 | ------------- |:-------------:| 
 | item 1    | item 1 |
 | item 2    | item 2 |
@@ -70,7 +87,7 @@ To achieve the positive business outcomes highlighted above, what required capab
 
 Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format?
 
-| Questions to Better Understand the Customer’s needs        | Discovery questions           |
+| Questions to Better Understand the Customer’s needs  | Discovery questions  |
 | ------------- |:-------------:| 
 | current state    | questions 1, 2, 3 |
 | future state    | questions 1, 2,3 |
@@ -79,23 +96,33 @@ Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketi
 ## Positioning Value 
 
 **How GitLab Does It**
-https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements
+
+[How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
 
 **How GitLab Does It Better** 
 
 Note: suggested format has Differentiators and Benefits followed by Proof Points while the resource page has differentiator, value, proof point, demo. I propose we leave the summary here but link to the resource page as mvc1. For mvc2 we can reformat the resource page (if needed).
 
-With GitLab Ultimate, organizations are able to truly shift security left (and right!) to reduce exposure and align security with dev. Emergent advantages include unparalleled visibility and insights and much easier traceability with consistent compliance to policies or regulatory requirements for cleaner, easier audits. Key GitLab differentiators include:
-https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators
+With GitLab Ultimate, organizations are able to truly shift security left (and right!) to reduce exposure and align security with dev. Emergent advantages include unparalleled visibility and insights and much easier traceability with consistent compliance to policies or regulatory requirements for cleaner, easier audits. 
+
+[Key GitLab differentiators](https://cblake-master-patch-70404.about.gitlab-review.app/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators)] include:
+
+1. Detailed and Actionable Scan Results Displayed in MRs created from Feature Branch
+1. Block MRs based on Security Policy
+1. Compliance Management
+
+*see provided link for additional differentiators and details*
 
 [More proof points](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#proof-points---customers)
 
 
 ## Objection handling
-https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections
+
+[Potential objections](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections)
 
 Objection Response
-| Objection        | response           |
+
+| Objection  | Response    |
 | ------------- |:-------------:| 
 | objections 1, 2, 3    | responses 1, 2, 3 |
 | Ultimate is 5x.       | response.         |
@@ -108,13 +135,14 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 
 ## Additional Resources 
 
-* [SKO Expanding to Ultimate](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
-* [Selling security]() see John Blevin's online classroom material
-* [Selling DevSecOps](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)
+* [SKO Expanding to Ultimate slide deck](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
+* [Why GitLab Ultimate slide deck](https://docs.google.com/presentation/d/1TP5cXH5Nr0VkH7mE6M_-DFXT_Jnq7o5LPxuMUz2paI4/edit?usp=sharing)
+* [Selling security] see John Blevin's online classroom material
+* [Selling DevSecOps resource page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)
+* [GitLab Ultimate specific features and value handbook page](https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features)
 
 
-
-# Sales Play Tactics
+# Sales Play Tactics {#sales-play-tactics}
 
 ## Related Campaign activies to drive leads to you
 
