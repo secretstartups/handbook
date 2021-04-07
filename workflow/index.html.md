@@ -581,7 +581,7 @@ Milestones closure is in the remit of [the Delivery team](/handbook/engineering/
 
 ### Milestone cleanup schedule
 
-The milestone cleanup will happen one business day (weekday) before the 22nd (release day). 
+The milestone cleanup will happen one weekday before the 22nd (release day). 
 
 The following is observed to account for the weekends:
 - If the 22nd falls on the weekend, cleanup happens on the prior friday.
