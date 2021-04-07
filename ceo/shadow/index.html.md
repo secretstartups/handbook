@@ -507,6 +507,8 @@ It's important to set the correct tone, so please stick to the following introdu
 
 When attending Valley meetings please be sure to use the **For Valley meetings** intro. It can cause much confusion if you mention GitLab when Sid is acting in an individual capacity.
 
+When attending investor meetings, please introduce yourself and hand it off to the next team member by announcing their name.
+
 When introducing yourself in a meeting as the first shadow, say:
 
 1. I'm NAME.
