@@ -73,6 +73,10 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 </figure>
 <!-- blank line -->
 
+### Pre-Challenge Kickoff Call
+
+Before the challenge is offically kicked off, a kickoff meeting will take place to get to know one another better. A roundtable discussion and intro's will take place. The program will be reviewed in depth and questions will be answered. The call is optional but everyone is invited to attend! 
+
 ### Week 1
 
 During week one we will discuss **The Art of Management** at GitLab. Information covered in week one can be found on the following handbook pages:  
@@ -116,7 +120,7 @@ The document is intended to be a starting point for managers to document where t
 
 ### Buddy Program
 
-More details to come!
+For the May Manager Challenge, a buddy program will be encouraged for Managers during the event. Managers can select their buddies and complete the async activities together. It can also serve as an opportunity for Managers and team members participating to get to know one another. 
 
 ### Post Manager Challenge
 
@@ -142,7 +146,7 @@ Team members have access to [LinkedIn Learning](https://about.gitlab.com/handboo
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
-     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
+     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 2 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
 1. **Do I have to participate?**
      - We strongly recommend that all managers that sign up for the program complete the daily challenges and actively participate. All new managers are strongly encouraged to participate in their first year of leading teams. 
 1. **Have we done this program in the past?**
