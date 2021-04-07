@@ -39,7 +39,7 @@ Internal Audit reports administratively to the Principal Accounting Officer but 
 
 **Introduction**
 
-Internal Audit is an independent and objective assurance and consulting activity that is guided by a philosophy of adding value to improve the control environment around Gitlab’s financial reporting and to recommend operational efficiencies of GitLab as requested. It assists in accomplishing its objectives by bringing a systematic and disciplined approach to evaluate and improve the effectiveness of the organization's governance, risk management and internal controls.
+Internal Audit is an independent and objective assurance and consulting activity that is guided by a philosophy of adding value to improve the control environment around GitLab’s financial reporting and to recommend operational efficiencies of GitLab as requested. It assists in accomplishing its objectives by bringing a systematic and disciplined approach to evaluate and improve the effectiveness of the organization's governance, risk management and internal controls.
 
 **Role**
 
