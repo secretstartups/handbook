@@ -324,7 +324,7 @@ _Please contribute your favorite resources here_
 
 ##### Quick reads and videos
 
-_Please contribute your favorite resources here_
+- [How can I say this? Podcast](https://open.spotify.com/show/55AaTIqnERpvxwTVMxToC5)
 
 ##### Deeper dive
 
@@ -332,11 +332,11 @@ _Please contribute your favorite resources here_
 
 ##### Online courses 
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning: Advanced Business Development Communication & Negotiation](https://www.linkedin.com/learning/advanced-business-development-communication-and-negotiation/taking-it-to-the-next-level)
 
 ##### Books
 
-_Please contribute your favorite resources here_
+- [Building a Story brand](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329/ref=sr_1_11?)
 
 ### Communication: writing to inspire, align and activate 
 
@@ -368,7 +368,7 @@ _Please contribute your favorite resources here_
 
 ##### Online courses 
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning: Communicating for Product Managers](https://www.linkedin.com/learning/communication-for-product-managers/your-role-as-diplomat-of-the-product-team?u=2255073)
 
 ##### Books
 
@@ -404,7 +404,7 @@ _Please contribute your favorite resources here_
 
 ##### Quick reads and videos
 
-_Please contribute your favorite resources here_
+- [HBR: What cross functional teams need to succeed](https://hbr.org/tip/2015/10/what-cross-functional-teams-need-to-succeed)
 
 ##### Deeper dive
 
@@ -412,11 +412,12 @@ _Please contribute your favorite resources here_
 
 ##### Online courses 
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning: Cross Functional Team Management](https://www.linkedin.com/learning/managing-a-cross-functional-team/welcome)
 
 ##### Books
 
-_Please contribute your favorite resources here_
+- [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520)
+- [Radical Candor](https://www.amazon.com/dp/1529038340/ref=cm_sw_em_r_mt_dp_JW4418H1Q2BQ2MGV62WN)
 
 ### Team management: direct team management
 
@@ -431,7 +432,7 @@ _Please contribute your favorite resources here_
 
 ##### Online courses 
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning: Building High Performing Teams](https://www.linkedin.com/learning/building-high-performance-teams/building-a-high-performing-team)
 
 ##### Books
 
@@ -444,7 +445,8 @@ _Please contribute your favorite resources here_
 
 ##### Quick reads and videos
 
-[Start with why -- how great leaders inspire action](https://www.youtube.com/watch?v=u4ZoJKF_VuA) (18 min video)
+- [Start with why -- how great leaders inspire action](https://www.youtube.com/watch?v=u4ZoJKF_VuA) (18 min video)
+- [Leadership Biz Cafe Podcast](https://www.tanveernaseer.com/lbc/)
 
 ##### Deeper dive
 
@@ -452,7 +454,7 @@ _Please contribute your favorite resources here_
 
 ##### Online courses 
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning Path: Strategic Leadership](https://www.linkedin.com/learning/paths/develop-your-strategic-planning-skills)
 
 ##### Books
 
