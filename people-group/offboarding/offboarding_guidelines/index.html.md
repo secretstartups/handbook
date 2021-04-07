@@ -79,7 +79,7 @@ The People Experience Associate will navigate to the [team.yml file](https://git
 To remove pet entry and any mentions from the handbook and documention, you will need to download the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) to your computer and use a prefered text editor.
 
 To download;
-1. Navigate to the [Gitlab.com project](https://gitlab.com/gitlab-com/www-gitlab-com)
+1. Navigate to the [GitLab.com project](https://gitlab.com/gitlab-com/www-gitlab-com)
 2. On the far right corner, click `Clone` and copy the clone with SSH URL, git@gitlab.com:gitlab-com/www-gitlab-com.git
 3. On your command line, run `git clone git@gitlab.com:gitlab-com/www-gitlab-com.git `
 This downloads the project to your computer mostly on the document folder. Consider going through the [Clone a repository](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository) and the [Command Line](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html) documents to understand further.
