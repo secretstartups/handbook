@@ -415,16 +415,18 @@ As Person B's manager, Person B is one of my top performers and I want to compen
 We have now completed multiple compensation reviewed utilizing Compaas. Based on some awesome feedback from our GitLab team, we are working to have the following iterations to our process in Compaas. There are certain items that we may not be able to have implemented since any change to Compaas updates their tool for all clients. Where that is the case we will outline that it is a limitation for future reference.
 
 The following iterations we will continue to review having implemented in Compaas:
-* Managers and team members to be able to log in and see where they fall in compensation for Compaas Analytics
-* Ability to review who has/has not logged in with which ID and which permissions
-* Proxy approval where People Business Partners can approve on behalf of their part of the organization.
+* Managers and team members to be able to log in and see where they fall in compensation for Compaas Analytics.
+   * This is ready when GitLab is ready. We'll audit and pilot it with a few managers.
+* Ability to review who has/has not logged in with which ID.
+   * On Compaas's backlog.
 * Mobile responsive
 * Approver and slate owner navigation so you don't have to toggle back and forth, but instead everything is in once place. Update: Still on separate slates, but you can see everyone by navigating to "All Employees" tab.
-* Push notification so approvers know when a slate is waiting on their action.
-* Okta integration. 
+   * In development: All employees tab grouped by slate with budget status.
+* Okta integration. Update: Ready when we are.
 * Equity Ranges (similar to how cash compensation range work)
 * A clear picture of overall budgetary impact for the leader vs by slate. 
 * Ability to see details (comp ranges, notes, etc) once a slate is submitted. 
+   * Update: Notes available, Compaas working on the rest.
 * Notification to a slate owner if an approver changes a recommended increase 
 
 ### Communicating Compensation Increases
