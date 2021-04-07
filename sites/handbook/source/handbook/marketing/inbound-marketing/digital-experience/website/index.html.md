@@ -645,7 +645,7 @@ Copy and paste this template:
 
 ### Creating a DevOps tools comparison page
 
-The [`/devops-tools`](/devops-tools/) section of the website shows info about DevOps tools and a feature comparison of those tools to Gitlab. Comparison pages are auto-generated from `features.yml`. All you need to do is add a tool to the `devops_tools` section and add that tool id to some features and the page will be created.
+The [`/devops-tools`](/devops-tools/) section of the website shows info about DevOps tools and a feature comparison of those tools to GitLab. Comparison pages are auto-generated from `features.yml`. All you need to do is add a tool to the `devops_tools` section and add that tool id to some features and the page will be created.
 
 To add a new comparison page:
 1. Edit [`features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml)

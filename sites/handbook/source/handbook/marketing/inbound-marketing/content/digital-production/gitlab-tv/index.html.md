@@ -24,7 +24,7 @@ GitLab.tv is focused on growing our business and brand in measurable ways. Conte
 1. **Encourage contribution of customer-centric and shareable content.**
 GitLab.TV is a group effort. We encourage contribution by providing streamlined paths and guidelines for creating video content. We enable contributors to create customer-centric content that is easy to find and consume and is aligned to audience needs.
 1. **Increase video content distribution.**
-GitLab.tv video content is distributed across owned, earned and paid content channels. All GitLab.tv video content contributions that are approved are first posted to their respective Gitlab.tv Video Channels on YouTube. GitLab.tv video content can also be cross-promoted via GitLab websites, blog, social, and third party platforms as determined by GitLab.tv Video Channel Distribution plans. Top content may be promoted more than standard content. The goal is to make GitLab accessible to audiences, especially top content.
+GitLab.tv video content is distributed across owned, earned and paid content channels. All GitLab.tv video content contributions that are approved are first posted to their respective GitLab.tv Video Channels on YouTube. GitLab.tv video content can also be cross-promoted via GitLab websites, blog, social, and third party platforms as determined by GitLab.tv Video Channel Distribution plans. Top content may be promoted more than standard content. The goal is to make GitLab accessible to audiences, especially top content.
 
 ### Success metrics
 
