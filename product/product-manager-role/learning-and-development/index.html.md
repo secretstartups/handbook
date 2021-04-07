@@ -37,6 +37,11 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 ### GitLab specific competencies and Content 
 
+#### Opportunity Canvases 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f8k1jWejojA" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+
+
 - [Example Opportunity Canvas Review](https://youtu.be/ZXbwtLoxPjM)
 
 ## General Product Management learning content 
