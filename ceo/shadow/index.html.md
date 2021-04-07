@@ -199,16 +199,24 @@ Exceptional community members may be able to participate, as well.
 | 2021-06-07 | 2021-06-11 | AVAILABLE - REMOTE | April Malone - Sijbrandij Personal EA |
 | 2021-06-14 | 2021-06-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-06-21 | 2021-06-25 | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager | AVAILABLE - REMOTE |
-| 2021-06-28 | 2021-07-01 | AVAILABLE - REMOTE (short week due to Holiday) | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager |
+| 2021-06-28 | 2021-07-01 | Christine Lee - Strategy and Operations Director | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager |
 | 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
-| 2021-07-12 | 2021-07-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-07-19 | 2021-07-23 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-07-26 | 2021-07-30 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-08-02 | 2021-08-06 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-07-12 | 2021-07-13 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-07-19 | 2021-07-23 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-07-26 | 2021-07-30 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-08-02 | 2021-08-06 | AVAILABLE - REMOTE | Christine Lee - Strategy and Operations Director|
 | 2021-08-09 | 2021-08-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-08-16 | 2021-08-20 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-08-30 | 2021-09-03 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
+| 2021-09-13 | 2021-09-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-09-20 | 2021-09-24 | UNAVAILABLE - Contribute | UNAVAILABLE - Contribute |
+| 2021-09-27 | 2021-10-01 | UNAVAILABLE | UNAVAILABLE |
+| 2021-10-04 | 2021-10-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-10-11 | 2021-10-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-10-18 | 2021-10-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-10-25| 2021-10-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
