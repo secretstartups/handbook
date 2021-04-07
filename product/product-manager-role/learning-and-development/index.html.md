@@ -41,9 +41,9 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 ## General Product Management learning content 
 
-This content is divided into five key competencies for Product Managers. You can jump to the section you are interested in.<br><br>
+This content is divided into five key competencies for Product Managers. 
 
-**💡 [Discovery](/#-discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](/#design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](/#delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](/#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](/#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](/#team-management)**
+<!--**💡 [Discovery](#-discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](#%EF%B8%8F-design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](#-delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#-business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#-communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#-team-management)**-->
 
 ## 💡 Discovery
 <hr>
