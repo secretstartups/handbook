@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab InnerSourcing Hands On Guide- Lab 2
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 2- CREATE AN EPIC AND TIE AN ISSUE TO IT
 
 ### Create an Epic 
