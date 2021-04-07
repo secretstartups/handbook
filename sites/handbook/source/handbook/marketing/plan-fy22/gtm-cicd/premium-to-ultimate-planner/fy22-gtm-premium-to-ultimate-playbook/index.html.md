@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "FY22 GTM Sales Play - Premium to Ultimate"
+title: "FY22 GTM Sales Play <br> - Premium to Ultimate"
 ---
 
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
@@ -29,9 +29,10 @@ Existing GitLab Premium customers already using CI/CD
 
 **Target Buyer Personas**
 
-Economic buyers: CISO or Security Manager, VP of Security, Director of Security, VP of IT or CTO, App/Dev Director
-
-Technical influencers: Chief Architect, App Dev Manager
+| Persona role  | Possible titles|
+| ------------- |:----------------------:| 
+| Economic buyers    | CISO or Security Manager, VP of Security, Director of Security, VP of IT or CTO, App/Dev Director |
+| Technical influencers    | Chief Architect, App Dev Manager |
 
 Other Personas to consider: Infrastructure Engineering Director, Release and Change Management Director
 
@@ -59,9 +60,10 @@ GitLab Premium customers may be experiencing one or more of the below challenges
 
 | Challenges ("Before Scenarios")  | So What? ("Negative Consequences")  |
 | ------------- |:-------------:| 
-| challenge 1    | negative cons 1 |
-| challenge 2    | negative cons 2 |
-| challenge 3    | negative cons 3 |
+| Difficulty writing secure code without becoming security experts   | Increased risk  |
+| Costly triaging and tracking of vulnerabilities    | Higher TCO, inefficient remediation process |
+| Managing complex tool chains, plugins, and fragile automation scripts   | Added cost and maintenance overhead |
+|   challenge 4          |      negative cons 4      |
 
 **Common Benefits**  
 
