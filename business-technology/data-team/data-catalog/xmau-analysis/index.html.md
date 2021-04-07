@@ -80,22 +80,22 @@ Since GitLab Business functions currently do not have a standardized way to iden
 
 #### Calculation of xMAU and Paid xMAU
 
-We have 2 main data sources to calculate xMAU and paid xMAU, the Version App and the Gitlab.com Postgres database. The table below summarises which data source is used for those calculations.
+We have 2 main data sources to calculate xMAU and paid xMAU, the Version App and the GitLab.com Postgres database. The table below summarises which data source is used for those calculations.
 
 |   Delivery   | xMAU         | Paid xMAU                   |
 |--------------|--------------|-----------------------------|
-| SaaS         | version app* | Gitlab.com Postgres Table** |
+| SaaS         | version app* | GitLab.com Postgres Table** |
 | Self-Managed | version app  | version app***              |
 
 _Notes_:
 
 \*: For SaaS xMAU, we use the payloads generated for gitlab.com. These payloads are easily identifiable since they are linked to an instance with uuid = `ea8bf810-1d6f-4a6a-b4fd-93e8cbd8b57f`
 
-\*\*: For SaaS paid XMAU, we need to use Gitlab.com postgres table. The Usage Ping payloads generated from our Gitlab.com Instance gives us high-level statistics at an instance level. This is an aggregated number which can't be further broken down, for example by product tier, plan type, or namespace.
-  * To be able to generate SaaS paid xMAU we need to replicate the xMAU counters with the replica of the Gitlab.com database which is stored in our data warehouse.
+\*\*: For SaaS paid XMAU, we need to use GitLab.com postgres table. The Usage Ping payloads generated from our GitLab.com Instance gives us high-level statistics at an instance level. This is an aggregated number which can't be further broken down, for example by product tier, plan type, or namespace.
+  * To be able to generate SaaS paid xMAU we need to replicate the xMAU counters with the replica of the GitLab.com database which is stored in our data warehouse.
     * [Batch counters](https://docs.gitlab.com/ee/development/usage_ping/#ordinary-redis-counters) are simple SQL-generated counters. The SQL query used to generate the counters are accessible and easily recreated.
     * Unfortunately, this is not doable for every single counter. [Redis counters](https://docs.gitlab.com/ee/development/usage_ping/#redis-counters) are NOT SQL-generated counters. They also track actions that are not in the Postgres DB such as pageviews, or frontend interactions.
-  * Therefore, only some metrics can be recreated using the Gitlab.com Postgres Replica. That means that for now, we are not able to calculate some of the SaaS Paid xMAU metrics like the Monitor Stage.
+  * Therefore, only some metrics can be recreated using the GitLab.com Postgres Replica. That means that for now, we are not able to calculate some of the SaaS Paid xMAU metrics like the Monitor Stage.
 
 \*\*\*: To calculate paid xMAU on Self-Managed we use the `edition` field in the [Usage Ping Payload](https://docs.gitlab.com/ee/development/usage_ping/#example-usage-ping-payload), selecting only usage pings with `EEP`, `EES` and `EEU` edition. The edition value is derived from the [plan column in the license table in the licenseDot database at the time the license was generated](https://gitlab.com/gitlab-data/analytics/-/issues/7257#note_464118474)
 
@@ -237,12 +237,12 @@ One of our goals is to create a 1 model that easily provides all the data needed
 <p>
 - Source System Owner:
     - Versions: `@jeromezng`
-    - Gitlab.com: `TBD`
+    - GitLab.com: `TBD`
     - Salesforce: `@jbrennan1`
     - Zuora: `@andrew_murray`
 - Source System Subject Matter Expert:
     - Versions: `@jeromezng`
-    - Gitlab.com: `TBD`
+    - GitLab.com: `TBD`
     - Salesforce: `@jbrennan1`
     - Zuora: `@andrew_murray`
 - Data Team Subject Matter Expert: `@mpeychet_` `@m_walker`

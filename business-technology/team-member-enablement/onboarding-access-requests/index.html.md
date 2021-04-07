@@ -186,7 +186,7 @@ Links in the list below are to sample items, other options can be considered.
 
 ### Laptop Recycle
 
-Laptops being returned to the company that are no longer fit for service will be recycled with our vendor [AnythingIT](https://www.anythingit.com/). Gitlab receives a monetary credit for each laptop recycled and this credit is applied to our purchasing balance through other vendors. 
+Laptops being returned to the company that are no longer fit for service will be recycled with our vendor [AnythingIT](https://www.anythingit.com/). GitLab receives a monetary credit for each laptop recycled and this credit is applied to our purchasing balance through other vendors. 
 
 Laptops that are being returned that are still fit for service (less then 1 year old) will be warehoused with AnythingIT and repurposed as needed. 
 

@@ -37,7 +37,7 @@ The Narrow MR Rate Dashboard is built on `rpt_gitlab_employees_merge_request_met
 
 2) `Breakout_division_department`: This filter is a child filter and will change depending on the breakout selection.
   * `Breakout` = `Company` --> `Breakout_division_department` will give 1 option to be selected `all_company`
-  * `Breakout` = `Division` --> `Breakout_division_department` will list all the divisions at Gitlab
+  * `Breakout` = `Division` --> `Breakout_division_department` will list all the divisions at GitLab
   * `Breakout` = `Department`--> `Breakout_division_department`  will list all the division-department combinations.
 
   *Note: the `Breakout_division_department` filter only allows you to select 1 option as the data is pre-aggregated.*
@@ -73,7 +73,7 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;}
 
 The [underlying data model](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_gitlab_employees_merge_request_metrics?g_v=1&g_i=%2Brpt_gitlab_employees_merge_request_metrics%2B) take into account a lot of data models beforehard, however, we try to make it easier to analyze by bringing this into 1 aggregated data model at the GitLab team member level, and then creating the aggregated level report:
 
-[gitlab_employees_merge_requests_xf](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_gitlab_employees_merge_request_metrics) -- shows all merge requests for Gitlab Team Members, and indicates whether the merge request is accounted for in our narrow mr rate calculation with the usage of the `is_part_of_product` field.
+[gitlab_employees_merge_requests_xf](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_gitlab_employees_merge_request_metrics) -- shows all merge requests for GitLab Team Members, and indicates whether the merge request is accounted for in our narrow mr rate calculation with the usage of the `is_part_of_product` field.
 
 In addition, we use [gitlab_bamboohr_employee_base](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.gitlab_bamboohr_employee_base) to create our base model that breaks down employees by month and organizational attributes (i.e division, department, etc) and how long they are effective. 
 
