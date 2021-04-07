@@ -30,6 +30,7 @@ The data fusion model emphasizes 2 elements:
 | `@jjstark` | `@m_walker` |  |
 | `@paul_armstrong` | `@snalamaru` | |
 | `@ken_aguilar` |	`@laddula` | |	
+| `@michellecooper` | | |
 						
 ### Engagement with Business Partners and Data Champions includes:
 
