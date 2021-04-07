@@ -19,7 +19,7 @@ Create a company-wide customer success approach, providing an engagement framewo
 
 ## Goals
 
-Deliver faster time-to-value and customer-specific business outcomes with a world class customer experience, leveraging the full capabilities of the GitLab application. Increase average Incremental Annual Contract Value (IACV) as well as Life-Time Value (LTV).
+Deliver faster time-to-value and customer-specific business outcomes with a world class customer experience, leveraging the full capabilities of the GitLab application. Increase net dollar retention as well as lifetime value (LTV).
 
 ## High-Level Visual of Customer Journey
 
