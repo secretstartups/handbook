@@ -311,17 +311,23 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 
 ### Monitor
 
+* Opsgenie/Atlassian
+* Splunk/VictorOps/SignalFx
+* PagerDuty
+* ServiceNow 
 * Datadog
+* Grafana Labs
+* Honeycomb
+* Lightstep
+* OpenTelemetry
+* Prometheus
+* Jaeger
 * Dynatrace
 * Elastic
 * Influxdata
-* Lightstep
 * Netsil
 * New Relic
-* SignalFx
-* Splunk/VictorOps
-* Pluralsight
-* Tasktop 
+* AppDynamics/Cisco
 
 ### Secure
 
