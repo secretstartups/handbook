@@ -52,3 +52,7 @@ This issue is added to the [team member's epic](/handbook/people-group/engineeri
 This is the same as the manager an interview training issues we create for onboarding. Except that for onboarding we only create it after day 7 and for career mobility we create it at the same time as the career mobility issue.
 
 Read [here](/handbook/people-group/engineering/onboarding#manager-and-interview-training-issues)
+
+## Access request reminders
+
+Every day, a job runs and looks for career mobility issues that have been open for more than 5 days. If the team member for whom a career mobility issue was opened has not been mentioned in any access requests since their career mobility issue was opened, an issue note is created on the career mobility issue to remind the participants to create the necessary access requests.
