@@ -587,9 +587,11 @@ Milestones closure is in the remit of [the Delivery team](/handbook/engineering/
 
 ### Milestone cleanup schedule
 
-- On `M, 19th` if `M, 22nd` is Monday:
-- On `M, 20th` or `M, 21st` whichever is Friday, if `M, 22nd` is on weekend.
-- On `M, 21st` if `M, 22nd` is any other day
+The milestone cleanup will happen one weekday before the 22nd (release day). 
+
+The following is observed to account for the weekends:
+- If the 22nd falls on the weekend, cleanup happens on the prior friday.
+- If the 22nd falls on Monday, cleanup happens on the prior friday.
 
 These actions will be applied to open issues:
 - Open issues and merge requests will be moved to the next milestone, and
