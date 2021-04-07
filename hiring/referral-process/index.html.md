@@ -36,7 +36,7 @@ A Referral is **not**:
 * Someone you sourced or someone who reached out to you regarding a vacancy (e.g. on LinkedIn). If someone you have **not** worked with reaches out requesting to be referred, you could respond with, *"Thank you for your interest in GitLab. We prefer that you register your interest with our Talent Community. This will ensure the that right GitLab Team Member reviews your profile and, if you're deemed suitable, replies back. Unfortunately, I cannot refer you as we have not had a chance to work together. Also, I cannot influence your application"*.
 * Someone who applied via a unique link you shared from Greenhouse on a social site (a.k.a. a `Social Referral`).
     * While the unique link creation/sharing feature is in the `Add a Referral` section of Greenhouse and reads, _"Share your link with people interested in working at your company
-Every time someone clicks on your link and applies for a job, your hiring team can track you as a source,"_ this is **not** considered a referral because there's **no** way of determining who clicked a link on Twitter from a genuine referral, for example. For that very reason, `Social Referrals` are **ineglible** for the referral bonus. Regardless, the promotion of our vacancies is always appreciated!
+Every time someone clicks on your link and applies for a job, your hiring team can track you as a source,"_ this is **not** considered a referral because there's **no** way of determining who clicked a link on Twitter from a genuine referral, for example. For that very reason, `Social Referrals` are **ineligible** for the referral bonus. Regardless, the promotion of our vacancies is always appreciated!
 * A former (or "Boomerang") Team Member.
 
 Other Referral clarifications:
