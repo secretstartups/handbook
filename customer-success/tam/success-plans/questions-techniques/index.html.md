@@ -33,9 +33,9 @@ This question creates an opening to explore driving additional value for the cus
 
 If the customer responds that there is nothing else they need or are interested in, you can start asking questions about their current situation.  These questions can explore what challenges they are currently working on, the focus of their manager or company, etc. to take the conversation in other directions that may give you an opening to make suggestions.
 
-Instead of asking about GitLab and how GitLab might help them, turn the conversation around to talk about their business. Listen actively, let the customer talk without interjecting, and then explore how what you heard could be activated in the Gitlab platform.
+Instead of asking about GitLab and how GitLab might help them, turn the conversation around to talk about their business. Listen actively, let the customer talk without interjecting, and then explore how what you heard could be activated in the GitLab platform.
 
-- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab.  Would you be open to sharing what those goals are?  I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on Gitlab to you as are relevant.
+- "Last time we spoke, you mentioned you had other initiatives you were working on outside of GitLab.  Would you be open to sharing what those goals are?  I would like to understand your focus now and in the future so that I can be continually bringing new features and strategies on GitLab to you as are relevant.
 
 ## Sync/Refresh
 

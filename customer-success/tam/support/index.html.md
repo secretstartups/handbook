@@ -41,7 +41,7 @@ GitLab offers [a variety of support options](/support/) for all customers and us
    - Detailed steps to recreate
    - Current behavior
    - Expected behavior
-   - Any recent changes to Gitlab, its components, dependencies, or the services it's hosted on?
+   - Any recent changes to GitLab, its components, dependencies, or the services it's hosted on?
    - Attach logs and screenshots (avoid attaching .doc or .pdf files)
 1. If you prefer Support to only answer during your business hours, choose your region; please note if you select a region, the SLA will only be within those business hours. Otherwise, choose "All regions" to get the standard SLAs and responses from our global support team. See our [guidelines](https://about.gitlab.com/support/#effect-on-support-hours-if-a-preferred-region-for-support-is-chosen) for more information.
 1. Try and avoid requesting a call during the initial ticket submission. We would like to keep all communication within the ticket and attempt to resolve the issue there before going to a call.

@@ -250,7 +250,7 @@ If you still have your GitLab project in a different browser tab or window, you 
 1. Visit [https://gitlabdemo.com](https://gitlabdemo.com).
 1. On the Dashboard, locate the **GitLab Omnibus (US)** card (bordered section).
 1. Click the blue **My Group** button to open a new tab and access your group on the GitLab instance.
-1. In the list of projects on Gitlab, click the title of the application you used earlier (Ex. `Tutorial App - Jenkins Pipeline`).
+1. In the list of projects on GitLab, click the title of the application you used earlier (Ex. `Tutorial App - Jenkins Pipeline`).
 1. With the project open, verify that the `Jenkinsfile` exists in the root of the repository. You do not need to make any changes.
 
 > If the file does not exist, go back to Task 1 to create a `Jenkinsfile` or ensure that you're looking at the same GitLab project you started with earlier.

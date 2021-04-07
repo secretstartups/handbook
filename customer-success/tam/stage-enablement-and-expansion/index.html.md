@@ -38,7 +38,7 @@ We're trying to avoid playbook overload! The guidance to the TAMs is that discov
 1. Improve onboarding experience
 1. Reduce customer's time to value
 1. Provide digital enablement for customer to use
-1. Contribute knowledge to Gitlab docs and blogs
+1. Contribute knowledge to GitLab docs and blogs
 1. Hold stage expansion and enablement workshops and webinars
 1. Ask effective trap-setting questions for plays based on proven paths to adoption
 1. Help us establish metrics on time-per-stage for adoption and insights on successes and non-successes

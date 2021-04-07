@@ -48,7 +48,7 @@ Hello [customer POC],
 
 Thank you for your business!
 
-Gitlab takes our customer's success very seriously.  Professional Services strives to provide a first class experience for our engagements.  We would love to hear your feedback on our recent services engagement with you.
+GitLab takes our customer's success very seriously.  Professional Services strives to provide a first class experience for our engagements.  We would love to hear your feedback on our recent services engagement with you.
 
 Please click on the link below to provide us your feedback.  The survey should only take 5 minutes to complete. Thank you for your consideration. 
 https://gitlab.fra1.qualtrics.com/jfe/form/SV_bIQbxSZByYe5y0l
