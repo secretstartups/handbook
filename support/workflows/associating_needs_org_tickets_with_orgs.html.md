@@ -235,3 +235,24 @@ For example:
 - you view `GitLab User Lookup` app in the Zendesk sidebar and none of the groups are on a paid plan
 - if an account exists in the CustomersDot, no subscriptions are shown and you see
   `Choose a plan that suits your needs` when using `Impersonate` functionality.
+
+## Customer is using personal email
+
+Sometimes the customer raise tickets with the personal email instead of
+business email or the business email is not synced in Zendesk. After providing
+[proof of entitlement](/support/#proving-your-support-entitlement), please use
+the following cases for your ease:
+
+- Customer used Subscription Email field in form to show associated email but used personal email for raising ticket:
+  1. If `Subscription Email` helps in identifying the organization and that is not added in SFDC, use (this process to add them.)[https://about.gitlab.com/handbook/support/workflows/associating_needs_org_tickets_with_orgs.html#adding-a-customer-to-an-organization]
+  1. Once added in SFDC, merge the personal email with associated email.
+- Customer have both generic email and business email listed in SFDC but only one email is present in Zendesk:
+  1. Merge the personal email with business email. (Contact Support Ops if you are unable to add secondary email).
+  1. Inform the customer that you have added the personal email as secondary email.
+- Customer raised ticket with business email but in middle of ticket responding with personal email:
+  1. Merge the personal email with business email. (Contact Support Ops if you are unable to add secondary email).
+  1. Inform the customer that you have added the personal email as secondary email.
+- Customer raised a ticket with business email listed in SFDC but not in Zendesk:
+  1. Our Zapier sync will link the customer with the correct organization if it is already listed in SFDC.
+
+Note: Proof of entitlement strictly includes primary email address associated for SAAS and company provided email address for SM.
