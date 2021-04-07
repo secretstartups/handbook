@@ -3,18 +3,81 @@ layout: markdown_page
 title: "FY22 GTM Sales Play - Premium to Ultimate"
 ---
 
-## Big picture
+## Jump to Sales Play Tactics (anchor link to below)
 
-**Demand generation**
-1. placeholder
+## Overview
 
-**Activities and support**
-1. placeholder
+**Objective**
+Convert landed accounts that are already using CI/CD to expand from GitLab Premium to GitLab Ultimate. 
+
+Who is this sales play for?  
+* Primary: SALs and AEs who call on one or more existing GitLab Premium customers  
+* Secondary: SAs and TAMs who support one or more existing GitLab Premium customers  
+Note: This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats.
+
+## Who to meet
+
+**Ideal Customer Profile**  
+Existing GitLab Premium customers already using CI/CD
+
+**Target Buyer Personas**
+Economic buyers: CISO or Security Manager, VP of Security, Director of Security, VP of IT or CTO, App/Dev Director
+Technical influencers: Chief Architect, App Dev Manager
+Other Personas to consider: Infrastructure Engineering Director, Release and Change Management Director
+
+**Target Account Lists** 
+add list link (use SFDC link) 
+
+## Getting Started
+
+Consider the following questions: 
+* What has prevented the customer from moving to (or considering moving to) GitLab Ultimate?
+* Does the customer have any strategic initiative or priority to which upgrading to Ultimate would align nicely?
+* Are you engaged with the right personas/teams (see Target Buyer Personas above)?
+* Do you have access to power/authority (a business decision maker)?
+* Who are your champions within the account?
+* Are the capabilities and PBOs that are enabled by GitLab Ultimate important to the customer? Why or why not? How do you know?
+ 
+## Value Discovery
+
+**Common Pains**  
+GitLab Premium customers may be experiencing one or more of the below challenges:
+| Challenges ("Before Scenarios")        | So What? ("Negative Consequences")           |
+| ------------- |:-------------:| 
+| challenge 1    | negative cons 1 |
+| challenge 2    | negative cons 2 |
+| challenge 3    | negative cons 3 |
+
+**Common Benefits**  
+By upgrading from GitLab Premium to GitLab Ultimate, customers may experience one or more of the below benefits:
+| Desired Future State (“After Scenarios”)        | So What? (“Positive Business Outcomes”)           |
+| ------------- |:-------------:| 
+| item 1    | item 1 |
+| item 2    | item 2 |
+| item 3    | item 3 |
+
+**Required Capabilities**  
+To achieve the positive business outcomes highlighted above, what required capabilities does the customer need to solve for and how will success be measured?
+| Required capability        | Metrics           |
+| ------------- |:-------------:| 
+| item 1    | item 1 |
+| item 2    | item 2 |
+| item 3    | item 3 |
+
+## Engaging the Customer
+
+Questions to Better Understand the Customer’s...
+Discovery Questions
+Current State
 
 
-## Context (campaign promise/offer) 
+Desired Future State
 
-Objective to convert landed accounts that are already using CI/CD to expand from premium to ultimate. This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats. 
+
+Required Capabilities
+
+
+**NOTE: WIP new to here, using old below.**
 
 Related sales enablement content: 
 * [SKO Expanding to Ultimate](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
@@ -39,16 +102,6 @@ Emphasis on large due to the relation to verticals + regulated industries, but a
 * Contributes toward revenue goals of xxx 
 * Partners: grow new markets, new business, cross-sell, upsell opportunity, partner profitability, competitive advantage, compliment with services.
 
-## Who to meet with 
-
-**Economic buyers:**  
-* CISO or Security Manager, VP of Security, Director of Security, VP of IT or CTO, App/Dev Director
-
-**Technical influencers:**  
-* Chief Architect, App Dev Manager
-
-**Other Personas to consider:**   
-* Infrastructure Engineering Director, Release and Change Management Director 
 
 
 
@@ -141,6 +194,17 @@ Truly shift security left (and right!) to reduce exposure and align security wit
    1. Single source of truth with built-in collaboration to focus on remediation, less friction
    1. Auditable - see who changed what where, when including policy exceptions.
 
+# Sales Play Tactics
+
+## Related Campaign activies to drive leads to you
+
+**Demand generation**
+1. Email #1
+1. Email #2
+1. Email #3
+
+## Actions to take
+1. placeholder
 
 ## How to measure progress
 
