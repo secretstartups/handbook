@@ -39,7 +39,7 @@ More than 100,000 organizations from startups to global enterprise organizations
 
 Some additional detail is linked below:
 
-* [Gitlab ranked number 4 software company (44th overall) on Inc. 5000 list of 2018's Fastest Growing Companies](/is-it-any-good/#gitlab-ranked-number-4-software-company-44th-overall-on-inc-5000-list-of-2018s-fastest-growing-companies)
+* [GitLab ranked number 4 software company (44th overall) on Inc. 5000 list of 2018's Fastest Growing Companies](/is-it-any-good/#gitlab-ranked-number-4-software-company-44th-overall-on-inc-5000-list-of-2018s-fastest-growing-companies)
 * [GitLab has 2/3 market share in the self-managed Git market](/is-it-any-good/#gitlab-has-23-market-share-in-the-self-managed-git-market)
 * [GitLab CI is the fastest growing CI/CD solution](/is-it-any-good/#gitlab-has-23-market-share-in-the-self-managed-git-market)
 * [GitLab CI is a leader in The Forrester Wave™](/is-it-any-good/#gitlab-ci-is-a-leader-in-the-the-forrester-wave)
