@@ -407,27 +407,6 @@ irb(main):021:0> associate_full_user_count_with_group(order)
 => {:success=>true}
 ```
 
-## EULA Methods
-
-### send_eula
-
-> *Note:* As EULAs are not sent anymore, this should no longer be required.
-
-Generates an EULA for a subscription.
-
-#### Parameters
-
-| Name | Required | Details |
-| ------ | ------ | ------ |
-| `:subscription_name` | *Yes* | Subscription name to generate the EULA|
-
-#### Sample
-
-```ruby
-irb(main):021:0> send_eula("A-S00000000")
-=> (sample output not copied here as it is very long)
-```
-
 ## GitLab.com Group methods
 
 These functions help fix various bug issues that have surfaced on GitLab.com. These functions do *not* change anything in the CustomersDot.
@@ -572,13 +551,12 @@ Update a group's shared runner minutes.
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:id` | *Yes* | The namespace ID to update |
-| `:newplan` | *Yes* | The plan to assign to the namespace (free, bronze, silver, gold) |
 | `:mins` | *Yes* | CI Minutes to update |
 
 #### Sample
 
 ```ruby
-irb(main):180:0>  update_group_mins(1234,"gold",50000)
+irb(main):180:0>  update_group_mins(1234,50000)
 => {:success=>true}
 ```
 
