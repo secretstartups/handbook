@@ -278,6 +278,8 @@ Going forward, all new applicants whose answers in their application questions c
 
 All candidates that are evaluated for a requsition **must** be sent the **EEOC Questionnaire**. For requisitions that are posted externally, where a candidate would apply, the candidate will automatically be presented with the *optional* survey in the application. However, if a candidate comes from a source where they **wouldn't** have necessarily applied (e.g. via an *Agency* or were *Sourced* or *Referred*), then the **EEOC Questionnaire** will need to be sent **manually**. 
 
+The DRI for sending the **EEOC Questionnaire** would be whoever sends the `Screening` invite (e.g. the *Recruiter* or *Sourcer*).
+
 Here's how to see if it's been sent and, if applicable, how to send it:
 
 #### Checking or Sending the EEOC Questionnaire
