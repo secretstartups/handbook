@@ -10,6 +10,7 @@
 <a href="/company/team/#<%= member.anchor %>" style="display:block;font-weight: 600;color: #333;font-size: 18px;margin-bottom: 6px;text-decoration:none;">
 <%= member.name %>
 </a>
+<%= member.role %>
 <% if member.locality || member.country %>
 <% location = [member.locality, member.country].compact.join(", ") %>
 <h5 style="font-size: 14px;font-weight: 400;color: #828282;margin: 0;">
