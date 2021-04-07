@@ -228,7 +228,7 @@ The Slack channel for the pilot program was `#manager-challenge-pilot`. Each day
 
 Each week of the challenge has one day of live learning sessions. Depending on the locations of the participants, it can be determined how many sessions are held on the Thursday of each week.  
 
-Approximate times for the live sessions to ensure timezone coverage include: 10:30 am ET, 4:00 pm ET, and 9:30 pm ET. 
+Approximate times for the live sessions to ensure timezone coverage include: 7:30 am PT, 1:00 pm PT, and 6:30 pm PT. 
 
 ### Retrospective Sessions
 
