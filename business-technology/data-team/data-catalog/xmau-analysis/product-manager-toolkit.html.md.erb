@@ -35,7 +35,7 @@ If you want to:
 NOTE:
 All these snippets start with a `td_` prefix. `td_` (td stands for Trusted Data, see here for more details)
 
-## Estimated xMAU or PI chart: td_xmau(user segment, xMAU type, filter, target)
+## Estimated xMAU or PI chart: [td_xmau(user segment, xMAU type, filter, target)]
 
 The snippet [td_xmau] allows you to do it very quickly. With this snippet you will be able to:
 
@@ -147,25 +147,35 @@ Then you will be able to get a dataset with the following potential breakdowns:
 - ping_product_tier
 - umau_bucket
 
-## Top Users Table: [td_xmau_metrics_top_users]
+## Insightful tables
 
-The snippet [td_xmau_metrics_top_users] is rendering a list of Top 50 Self-Managed Instances using your specific feature. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path
+The following snippets render a list of Top 50 Self-Managed Instances that can be used to find the corresponding customer to learn more about their use case. All these snippets follow the same pattern, you can [find the `metrics_path` used in the snippets as described above](#usage-1). 
 
 [An example could be found in this chart](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768540&udv=0)
 
-## Instances with biggest MOM usage increase: [td_xmau_metrics_increasing_usage_users]
+### Top Users Table: [td_xmau_metrics_top_users(metrics_path)]
 
-The snippet [td_xmau_metrics_increasing_usage_users] is rendering a list of Top 50 Self-Managed Instances who have seen their monthly usage grow the most in the last completed month. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path.
+The snippet renders a list of the Top 50 Self-Managed Instances using your specific feature. 
 
-## Instances with biggest MOM usage decrease: [td_xmau_metrics_decreasing_usage_users]
+### Instances with biggest MOM usage increase: [td_xmau_metrics_increasing_usage_users(metrics_path)]
 
-The snippet [td_xmau_metrics_decreasing_usage_users] is rendering a list of Top 50 Self-Managed Instances who have seen their monthly usage decrease the most in the last completed month. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path
+The snippet renders a list of Top 50 Self-Managed Instances who have seen their monthly usage grow the most in the last completed month.
 
-## Monthly change breakdown: [td_xmau_monthly_change_breakdown]
+### Instances with biggest MOM usage decrease: [td_xmau_metrics_decreasing_usage_users(metrics_path)]
 
-You would like to be able to explain the growth/decrease of a specific monthly metric value. Have we seen big instances churning ? Or just a overall decrease of usage due to some seasonality ?
+The snippet renders a list of Top 50 Self-Managed Instances who have seen their monthly usage decrease the most in the last completed month. 
 
-Thanks to this snippet [td_xmau_monthly_change_breakdown] you will be able to create a chart that looks like this:
+## Monthly change breakdown: [td_xmau_monthly_change_breakdown(metrics_path)]
+
+Would like to be able to explain the growth/decrease of a specific monthly metric value? Have we seen big instances churning? Or just a overall decrease of usage due to some seasonality?
+
+### Usage
+
+You can [find the `metrics_path` used for this snippets as described above](#usage-1). 
+
+### Example
+
+Using the [td_xmau_monthly_change_breakdown] you will be able to create a chart that looks like this:
 The snippet allows you to quickly see the number of tracked instances with decreasing, increasing usage or newly added by month.
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10768920, dashboard: 793297, embed: 'v2') %>">
@@ -189,7 +199,7 @@ Adding the `target_name`, `monthly_recorded_targets`, `monthly_estimated_targets
 
 ### Example
 
-```
+```yaml
 ...
 - name: Configure:Configure - SMAU, GMAU - MAU of GitLab Managed Terraform State
   target_name: redis_hll_counters.terraform.p_terraform_state_api_unique_users_monthly
