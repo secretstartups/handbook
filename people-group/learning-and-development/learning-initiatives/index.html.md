@@ -313,3 +313,15 @@ Call Structure:
 
 - First 10 minutes: Optional share-out of what you've done this week or this day to care for your self. Participants can share verbally or in the Zoom chat
 - Second 10 minutes: Discuss one question prompt about self-care, mental wellness, and general wellbeing. The goal is to get participants thinking about how they can integrate self-care strategies into their daily practice
+
+### Example self-care discussion questions
+
+1. What have you managed well in the past year?
+1. What brought you joy today? This week? This month?
+1. How do you feel at this moment? Why?
+1. What advice do you give others? Do you follow it for yourself?
+1. When the people I spend time with do ____ or say ____, I feel energized.
+1. How do you move past unpleasant thoughts, experiences, or discussions?
+1. What do you do that makes you feel most like yourself? Why?
+
+
