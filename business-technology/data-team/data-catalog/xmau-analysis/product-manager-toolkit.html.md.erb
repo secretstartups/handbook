@@ -32,10 +32,12 @@ If you want to:
 - get a list of your Top Users, Top Growing Users, or Churning Users, you can use either the [td_xmau_metrics_top_users], the [td_xmau_metrics_increasing_usage_users] or the [td_xmau_metrics_decreasing_usage_users]
 - have more insights into a drop or an increase of your feature usage. The [td_xmau_monthly_change_breakdown] is designed for this purpose
 
-NOTE:
-All these snippets start with a `td_` prefix. `td_` (td stands for Trusted Data, see here for more details)
+## Trusted Data snippets
 
-## Estimated xMAU or PI chart: [td_xmau(user segment, xMAU type, filter, target)]
+NOTE:
+All these snippets start with a `td_` prefix. `td_` (td stands for Trusted Data, see [here for more details](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf))
+
+### Estimated xMAU or PI chart: [td_xmau(user segment, xMAU type, filter, target)]
 
 The snippet [td_xmau] allows you to do it very quickly. With this snippet you will be able to:
 
@@ -43,7 +45,7 @@ The snippet [td_xmau] allows you to do it very quickly. With this snippet you wi
 - [break down your estimated xMAU by main_edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690035&udv=0)
 - [break down by Self-Managed product tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690026&udv=0)
 
-### Usage
+#### Usage
 
 [We created this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit?usp=sharing) to help you fill the snippet more easily. You just have to select some dimensions and then paste the snippet rendered in B6 in a New Chart in Periscope.
 
@@ -73,7 +75,7 @@ Then as a filter you need to enter the metrics_path of the metrics you want to g
 
 This snippet shows you the change in your metric value of any of your metric implemented in Usage Ping. 
 
-### Usage
+#### Usage
 
 1. Obtain the the metrics_path of the counter you want to monitor
 
@@ -83,11 +85,11 @@ This snippet shows you the change in your metric value of any of your metric imp
 
    Create a new chart to use the snippet. Input the copied metrics_path into the snippet. 
    
-### Adding a target value
+#### Adding a target value
 
 You can add a target value to the chart by adding a `target_name` and a `monthly_estimated_targets` key to the performance indicator yaml [as described below](#how-to-show-dynamic-targets-on-your-widgets).
 
-### Example: 
+#### Example: 
 
 - Metric: `g_project_management_issue_moved_monthly`
 - metrics_path: `redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly`
@@ -104,27 +106,27 @@ Example chart: [td_xmau_metrics_recorded_metric_value: Metric Value split by del
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10999660, dashboard: 793297, embed: 'v2') %>">
 
-## Recorded Monthly Metric Value Change with Total: [td_xmau_metrics_recorded_metric_value_with_total(metrics_path)]
+### Recorded Monthly Metric Value Change with Total: [td_xmau_metrics_recorded_metric_value_with_total(metrics_path)]
 
 This snippet extends `td_xmau_metrics_recorded_metric_value` with a total line.
 
-### Usage
+#### Usage
 
 [See above](#usage-1).
 
-## Original Monthly Metric Value: [td_xmau_metrics_original_metric_value(metrics_path)]
+### Original Monthly Metric Value: [td_xmau_metrics_original_metric_value(metrics_path)]
 
 This snippet is a variation of `td_xmau_metrics_recorded_metric_value` that shows to original metric, instead of a change from the previous period.
 
-### Usage
+#### Usage
 
 [See above](#usage-1).
 
-## Monthly Active Instance chart: [td_xmau_metrics_instance_count(breakdown, metrics_path)]
+### Monthly Active Instance chart: [td_xmau_metrics_instance_count(breakdown, metrics_path)]
 
 The snippet [td_xmau_metrics_instance_count] shows you how many instances have used your feature in a given month. To get it working you just need to reference the `metrics_path`. 
 
-### Usage
+#### Usage
 
 To help you build the snippet, we created [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit#gid=1727173902). You will need to just pick a value for each of the dropdowns in column B and then copy the value showed in B6 and put it in a New Chart in SiSense.
 
@@ -132,11 +134,11 @@ Example chart:
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10755606, dashboard: 793297, embed: 'v2') %>">
 
-## Monthly Metrics Instance Adoption: [td_xmau_metrics_instance_adoption(breakdown, metrics_path)]
+### Monthly Metrics Instance Adoption: [td_xmau_metrics_instance_adoption(breakdown, metrics_path)]
 
 The snippet [td_xmau_metrics_instance_adoption](https://app.periscopedata.com/app/gitlab/snippet/td_xmau_instance_adoption/55f1e7266d0b47b2878e7b04d436197a/edit) is a snippet that can be used to get an idea about the Adoption of your features. It provides you the percentage of instances reporting back a specific usage ping metric. 
 
-### Usage 
+#### Usage 
 
 To help you build the snippet, we created [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit#gid=2130868735). You will need to just pick a value for each of the dropdowns in column B and then copy the value showed in BX and put it in a New Chart in SiSense.
 
@@ -147,33 +149,33 @@ Then you will be able to get a dataset with the following potential breakdowns:
 - ping_product_tier
 - umau_bucket
 
-## Insightful tables
+### Insightful tables
 
 The following snippets render a list of Top 50 Self-Managed Instances that can be used to find the corresponding customer to learn more about their use case. All these snippets follow the same pattern, you can [find the `metrics_path` used in the snippets as described above](#usage-1). 
 
 [An example could be found in this chart](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768540&udv=0)
 
-### Top Users Table: [td_xmau_metrics_top_users(metrics_path)]
+#### Top Users Table: [td_xmau_metrics_top_users(metrics_path)]
 
 The snippet renders a list of the Top 50 Self-Managed Instances using your specific feature. 
 
-### Instances with biggest MOM usage increase: [td_xmau_metrics_increasing_usage_users(metrics_path)]
+#### Instances with biggest MOM usage increase: [td_xmau_metrics_increasing_usage_users(metrics_path)]
 
 The snippet renders a list of Top 50 Self-Managed Instances who have seen their monthly usage grow the most in the last completed month.
 
-### Instances with biggest MOM usage decrease: [td_xmau_metrics_decreasing_usage_users(metrics_path)]
+#### Instances with biggest MOM usage decrease: [td_xmau_metrics_decreasing_usage_users(metrics_path)]
 
 The snippet renders a list of Top 50 Self-Managed Instances who have seen their monthly usage decrease the most in the last completed month. 
 
-## Monthly change breakdown: [td_xmau_monthly_change_breakdown(metrics_path)]
+### Monthly change breakdown: [td_xmau_monthly_change_breakdown(metrics_path)]
 
 Would like to be able to explain the growth/decrease of a specific monthly metric value? Have we seen big instances churning? Or just a overall decrease of usage due to some seasonality?
 
-### Usage
+#### Usage
 
 You can [find the `metrics_path` used for this snippets as described above](#usage-1). 
 
-### Example
+#### Example
 
 Using the [td_xmau_monthly_change_breakdown] you will be able to create a chart that looks like this:
 The snippet allows you to quickly see the number of tracked instances with decreasing, increasing usage or newly added by month.
