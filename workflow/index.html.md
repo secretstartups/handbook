@@ -504,7 +504,7 @@ At the end of every release, each team should host their own retrospective. For 
 
 The Retrospective Summary is a short pre-recorded video which summarizes the learnings across all [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) ([example video](https://www.youtube.com/watch?v=XdENBhVOSiw&feature=youtu.be), [example presentation](https://docs.google.com/presentation/d/1kH9TwUAXbslM1cac938hS4Y-3mEBojQlwHw_Mm44kDE/edit?usp=sharing)).
 
-Once all Group Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
+Once all Group Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [GitLab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
 
 **Steps for participants**
 1. Please host your Group Retrospective following the guidelines outlined in the [handbook](https://about.gitlab.com/handbook/engineering/management/team-retrospectives/).
@@ -518,7 +518,7 @@ Once all Group Retrospectives are completed, each team inputs their learnings in
 1. Please read through the Group Retrospective learnings in the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
 1. Add the learnings into a slide deck and identify the highlights you would like to cover.
 1. Record a video presentation summarizing the highlights.
-1. Upload this video to our public [Gitlab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
+1. Upload this video to our public [GitLab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
 1. Announce the video and discussion topics in Retrospective planning and execution issue, the #whats-happening-at-gitlab slack channel, and the retro doc.
 
 ### Retrospective Discussion
