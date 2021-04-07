@@ -29,7 +29,7 @@ We will use a pre-defined template for NodeJS Express to show how Auto DevOps wo
 6. In the **Commit message** field, type `update welcome message in index.pug`. Click **Commit changes**.
 7. Click the blue **Create merge request** button.
 8. Assign the merge request to yourself.
-9. Add `Draft:` to the beginning of the text in the **Title** field to show that it isn't ready to be merged yet.
+9. Add `Draft:`to the beginning of the text in the **Title** field to show that it isn't ready to be merged yet.
 10. Leave all other fields at their default values and click **Submit merge request** at the bottom of the page. You now have an active merge request for merging the `new-feature` branch into the `master` branch. The page you are on shows the details of that merge request, including the status of the last pipeline that was run on the `new-feature` branch (sometimes you have to refresh the page to see the pipeline's status). GitLab will run a new pipeline every time you commit to the `new-feature` branch.
 11. Toward the end of the Auto DevOps pipeline, it will deploy your NodeJS Express application into a review environment named after the branch: **review/new-feature**.
 12. You can see the Docker container that the Auto DevOps pipeline created when it was deploying your application to the review environment: in the left pane, click **Container Registry** in the **Packages & Registries** section.
