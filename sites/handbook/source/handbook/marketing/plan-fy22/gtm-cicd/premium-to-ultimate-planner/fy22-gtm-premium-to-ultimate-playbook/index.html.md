@@ -15,7 +15,7 @@ Who is this sales play for?
 * Primary: SALs and AEs who call on one or more existing GitLab Premium customers  
 * Secondary: SAs and TAMs who support one or more existing GitLab Premium customers  
 
-Note: This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats.
+*Note: This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats.*
 
 ## Who to meet
 
@@ -37,7 +37,7 @@ Other Personas to consider: Infrastructure Engineering Director, Release and Cha
 
 **Target Account Lists** 
 
-[Account list](https://gitlab.my.salesforce.com/00O4M000004akG8) 
+- [Account list](https://gitlab.my.salesforce.com/00O4M000004akG8) 
 
 ## Getting Started
 
@@ -97,7 +97,7 @@ Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketi
 
 **How GitLab Does It**
 
-[How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
+- [How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
 
 **How GitLab Does It Better** 
 
@@ -105,7 +105,7 @@ Note: suggested format has Differentiators and Benefits followed by Proof Points
 
 With GitLab Ultimate, organizations are able to truly shift security left (and right!) to reduce exposure and align security with dev. Emergent advantages include unparalleled visibility and insights and much easier traceability with consistent compliance to policies or regulatory requirements for cleaner, easier audits. 
 
-[Key GitLab differentiators](https://cblake-master-patch-70404.about.gitlab-review.app/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators)] include:
+[Key GitLab differentiators](https://cblake-master-patch-70404.about.gitlab-review.app/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators) include:
 
 1. Detailed and Actionable Scan Results Displayed in MRs created from Feature Branch
 1. Block MRs based on Security Policy
@@ -113,14 +113,14 @@ With GitLab Ultimate, organizations are able to truly shift security left (and r
 
 *see provided link for additional differentiators and details*
 
-[More proof points](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#proof-points---customers)
+- **[More proof points](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#proof-points---customers)**
 
 
 ## Objection handling
 
-[Potential objections](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections)
+- [Potential objections](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections)
 
-Objection Response
+**Objection Response**
 
 | Objection  | Response    |
 | ------------- |:-------------:| 
