@@ -248,6 +248,13 @@ Please note that some content in the Pathway is restricted to internal team memb
 
 Thanks for helping us keep the content in GitLab Learn up to date! Please refer to the [reporting an error on GitLab Learn handbook section above](/handbook/people-group/learning-and-development/gitlab-learn/user/#reporting-content-errors-in-gitlab-learn) for instructions.
 
+### I'm having trouble viewing a course. All I can see is a blank screen.
+
+This could be caused by your pop-up blocker or chrome extension. Please try the following steps to access the course material:
+
+1. Use the preferred Chrome browser
+1. Open the course in an incognito window
+
 ## Have additional questions about GitLab Learn?
 
 Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
