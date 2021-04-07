@@ -49,7 +49,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. You don't need to worry about taking time off to go to the gym, [take a nap](https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor-f24fbff47a75), go grocery shopping, do household chores, help someone, take care of a loved one, etc. If you have urgent tasks, but something comes up or takes longer than expected, just ensure the rest of the team **knows** and someone can pick up the tasks (assuming you're able to communicate).
 1. GitLab encourages team members to volunteer within their community to take care of others. Consider taking time in support of causes that matter to you and support your personal commitment to GitLab's values such as diversity, inclusion and belonging.
 1. GitLab also encourages you to use your leave for jury duty, bereavement leave. You are not expected to work during this time off, but we recommend following the guidance under [Communicating Your Time Off](#communicating-your-time-off) when these situations arise.
-1. Gitlab also encourages you to take time off to vote, volunteer at the polls or volunteer in your community.
+1. GitLab also encourages you to take time off to vote, volunteer at the polls or volunteer in your community.
 1. If you decide to work on a holiday and then take another day off in lieu of the actual holiday date, we ask that you choose Public Holiday as a PTO category, and in the section `What is this OOO for?` please clarify that this day is taken in lieu of the actual holiday date.
 
    ![picture-of-pto-ninja-OOO-request](/handbook/paid-time-off/pto_ninja_OOO.png)
