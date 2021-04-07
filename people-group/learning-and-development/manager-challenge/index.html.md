@@ -73,6 +73,10 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 </figure>
 <!-- blank line -->
 
+### Pre-Challenge Kickoff Call
+
+Before the challenge is offically kicked off, a kickoff meeting will take place to get to know one another better. A roundtable discussion and intro's will take place. The program will be reviewed in depth and questions will be answered. 
+
 ### Week 1
 
 During week one we will discuss **The Art of Management** at GitLab. Information covered in week one can be found on the following handbook pages:  
@@ -113,10 +117,10 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 
 Throughout the program, we ask that managers to create or refine their [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1). We encourage Managers to self-reflect on their professional development as a people leader and identify areas where they can advance their skills. 
 The document is intended to be a starting point for managers to document where they can improve as a people leader.
-
+t
 ### Buddy Program
 
-More details to come!
+For the May Manager Challenge, a buddy program will be encouraged for Managers during the event. Managers can select their buddies and complete the async activities together. It can also serve as an opportunity for Managers and team members participating to get to know one another. 
 
 ### Post Manager Challenge
 
