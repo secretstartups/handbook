@@ -141,7 +141,7 @@ Learn more about Building Trust with Remote Teams from the co-founder of Trust M
 
 ## Self-paced Learning
 
-Team members have access to [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/) for access to self-paced learning content. The Learning & Development team has developed a learning path in Gitlab Learn with curated self-paced content that can benefit [people leaders](https://gitlab.edcast.com/channel/leadership-development) to access anytime. 
+Team members have access to [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/) for access to self-paced learning content. The Learning & Development team has developed a learning path in GitLab Learn with curated self-paced content that can benefit [people leaders](https://gitlab.edcast.com/channel/leadership-development) to access anytime. 
 
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
@@ -176,7 +176,7 @@ Team members have access to [LinkedIn Learning](https://about.gitlab.com/handboo
 
 ## Manager Challenge Certification
 
-Following the completion of the Gitlab Manager Challenge program, participants will be [awarded a certification](/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
+Following the completion of the GitLab Manager Challenge program, participants will be [awarded a certification](/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
 
 ## Testimonials
 

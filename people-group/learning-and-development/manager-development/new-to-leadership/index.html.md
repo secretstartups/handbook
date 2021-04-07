@@ -43,7 +43,7 @@ There are some great articles regarding being new to leadership. Please review t
 
 If you have not yet reviewed the [Hiring Pages](/handbook/hiring/#hiring-pages) in the handbook please familiarize yourself with the information. This page is a great overview of job families, vacancies, country hiring guidelines and etc...  A best practice once you are a manager is to schedule time with your aligned recruiter and sourcer.  In this meeting you can provide an overview of your team, potential hiring opportunities and sourcing strategies.  Talent Acquisition alignment can be found [here](/handbook/hiring/talent-acquisition-alignment/)
 
-As a manager you are now responsible for hiring team members to fill open vacancies.  You most likely have already been involved in interviewing candidates for Gitlab, however now you are the decision maker on who is hired onto your team and into GitLab.  As a manager you should be mindful of the following:
+As a manager you are now responsible for hiring team members to fill open vacancies.  You most likely have already been involved in interviewing candidates for GitLab, however now you are the decision maker on who is hired onto your team and into GitLab.  As a manager you should be mindful of the following:
 
 *  Everyone on your interview team has completed the interview training at GitLab
 *  You understand what to say and what not to say during an [interview](/handbook/hiring/interviewing/)
