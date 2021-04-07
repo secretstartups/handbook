@@ -1,0 +1,62 @@
+---
+layout: handbook-page-toc
+title: Sharding Group
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Vision
+
+The Sharding Group is the direct outcome of applying our value of [Iteration](https://about.gitlab.com/handbook/values/#iteration) to the direction of the [Database Scalability Working Group](https://about.gitlab.com/company/team/structure/working-groups/database-scalability/). There are multiple proposals and ideas on increasing database scalability through different sharding implementations. The charter of this group is to explore some of these ideas, quickly iterate on them and validate proposals to provide a solution for scaling our database to accommodate 10 Million Daily Active Users (DAU) of GitLab.com, and lead the efforts to eventually implement the first iteration (MVC) of a sharded database that works with GitLab application at scale. As we iterate on these ideas, the list of potential outcomes includes:
+1. Incremental steps towards a larger sharding solution
+1. Defining work for various groups to implement sharding for their stage
+1. Blueprints for next steps as we expand the sharding implementations
+1. Case studies on why a proposal will not work
+1. The first iteration (MVC) of a sharded PostgreSQL database that works with the GitLab application
+
+As we brainstorm and iterate on sharding proposals, we will provide implementation details, prototypes, metrics, demos and documentation to support our hypotheses and outcomes.
+
+## Team Members
+
+The following people are permanent members of the Memory Team:
+
+<%= direct_team(manager_slug: 'craiggomes', role_regexp: /Sharding|Enablement/) %>
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+<table>
+<thead>
+<tr>
+<th>Person</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fabian Zimmer</td>
+<td><a href="/job-families/product/product-manager">Principal Product Manager, Geo</a></td>
+</tr>
+</tbody>
+</table>
+
+## Meetings
+Where we can we follow the GitLab values and communicate asynchronously.  However, there have a few important recurring meetings.  Please reach out to the [#g_sharding](https://gitlab.slack.com/archives/C01TQ838Y3T) Slack channel if you'd like to be invited.
+
+## Work
+We follow the GitLab [engineering workflow](/handbook/engineering/workflow/) guidelines.  To bring an issue to our attention please add the `~"group::sharding"` label along with any other relevant labels.  If it is an urgent issue, please reach out to the Product Manager or Engineering Manager listed in the [Stable Counterparts](/handbook/engineering/development/enablement/memory/#stable-counterparts) section above.
+
+### Planning
+TBD
+
+We have the following boards for tracking our work (listed below). 
+
+#### Boards
+
+- [Sharding: Build](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding) for issues assigned specifically to `~"group::sharding"`
+- [Database Scalability Working Group ](https://gitlab.com/groups/gitlab-org/-/boards/2502942?label_name[]=wg_database-scalability) for issues related to database scalability efforts that span multiple teams
+
