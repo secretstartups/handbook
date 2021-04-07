@@ -308,7 +308,7 @@ _Please contribute your favorite resources here_
 
 ##### Online courses 
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning: SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-3/)
 
 ##### Books
 
