@@ -235,7 +235,7 @@ The Learn GitLab project is utilized to onboard new users to GitLab and contains
 
 ### Growth RADCIE and DRIs
 
-In alignment with Gitlab's [RADCIE](/handbook/people-group/directly-responsible-individuals/#radcie) approach, the DRIs for the following tasks would be:
+In alignment with GitLab's [RADCIE](/handbook/people-group/directly-responsible-individuals/#radcie) approach, the DRIs for the following tasks would be:
 
 | Task | DRI |
 | ---- | --- |

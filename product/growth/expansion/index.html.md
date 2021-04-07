@@ -12,7 +12,7 @@ title: Expansion
 
 ## Overview
 
-The Expansion Team at GitLab focuses on running experiments to increase the expansion of our platform and expanding usage by teams within an organization or by individual users additionally we strive to increase the value of Gitlab to existing customers getting them to adopt new features in higher paid tiers.
+The Expansion Team at GitLab focuses on running experiments to increase the expansion of our platform and expanding usage by teams within an organization or by individual users additionally we strive to increase the value of GitLab to existing customers getting them to adopt new features in higher paid tiers.
 
 ## Communication
 
