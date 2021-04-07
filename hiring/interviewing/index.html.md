@@ -21,23 +21,7 @@ twitter_creator: "@gitlab"
 
 ### External Applicants
 
-As the GitLab team continues to grow, we're taking a unique approach to our hiring process.
-We encourage anyone interested in career opportunities with GitLab to share their information with our team by [joining our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002).
-This allows our team to consider you for current and future [openings on the team](/jobs/careers/).
-
-Read more about [our outbound hiring model](/jobs/faq/#gitlabs-outbound-talent-acquisition-model) and other frequently asked questions on our [Jobs FAQ page](/jobs/faq/).
-
-<details open><summary>How to Join Our Talent Community
-</summary>
-
-1. Go to our [talent community page](https://boards.greenhouse.io/gitlab/jobs/4700367002), fill out your personal information, and upload your CV or resume.
-1. Once you have finished, click "Submit Application" at the bottom.
-1. Our team will be in touch with you if you're a match for a current or future job opening.
-1. Please refer to the [country hiring guidelines](/jobs/faq/#country-hiring-information) to see if we are able to hire in your location.
-1. Should you reach out to any GitLab team member on any social media platform, that you have not worked with previously or do not know, requesting to be referred, instead of or in addition to [joining our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002), you'll receive the following reply: "Thank you for your interest in GitLab! The best way to share your information with our talent acquisition team is to [join our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002). This will ensure that you're among the pool of candidates our team will consider when sourcing for current and future openings. Unfortunately, I can't refer you for the position since we have not had a chance to work together. To ensure we stay [inclusive](/company/culture/inclusion/), I'm also not able to influence your candidacy for a particular role."
-1. If at any point during the interview process, you send threatening emails, emails containing profanity, vulgar language, or [hurtful labels](https://about.gitlab.com/community/contribute/code-of-conduct/), we will no longer pursue your candidacy and will inform you of that. We will also not respond any further to you. We aim to hire only people who align with our [values](/handbook/values/).
-
-</details>
+To learn more about what's it like to work at GitLab, please visit our [Jobs FAQ page](/jobs/faq/).
 
 <details open><summary>Average Time to Hire
 </summary>
