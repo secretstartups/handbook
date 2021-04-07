@@ -11,6 +11,7 @@ description: How to request a review of an Abuse Report
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
 # Overview
 
 This workflow is to request a review of an Abuse Report.  All blocked accounts should have an admin note with a link to a relevant issue.
@@ -18,7 +19,7 @@ This workflow is to request a review of an Abuse Report.  All blocked accounts s
 ## Process
 
 1. If the account request for a review on an Abuse Report, create an `Abuse_Report_Review_Request` issue in the Trust and Safety [Operations Issue Tracker](/handbook/engineering/security/security-operations/trustandsafety/)
-    - The [(GitLab user lookup app](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively - 
+    - The [(GitLab user lookup app](/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively - 
     - If you have access to ChatOps you can use the below command in any chatops enabled Slack channel to read admin notes for the user
         > `/chatops run user find <username or email>`
 1. If the Abuse Report Review Request is related to the abusive activity, 
@@ -47,8 +48,8 @@ This workflow is to request a review of an Abuse Report.  All blocked accounts s
 
 1. The requesting account has been blocked.
    * If the account owner is requesting access to the account to retrieve information, follow the [Reinstating Blocked Accounts](https://about.gitlab.com/handbook/support/workflows/reinstating-blocked-accounts.html) workflow instead.
-1. Namespace or Trademark Disputes - [Workflow](https://about.gitlab.com/support/#namespace--trademarks)
-1. Ownership Dispute Policy - [Worfkflow](https://about.gitlab.com/support/#ownership-disputes)
+1. Namespace or Trademark Disputes - [Workflow](/handbook/support/#namespace--trademarks)
+1. Ownership Dispute Policy - [Worfkflow](/handbook/support/#ownership-disputes)
 1. Continued Abuse from an already reported account ie:  The person(s) are creating multiple accounts to circumvent a block or evade detection.
    * A detailed abuse report can be sent to abuse@gitlab.com and must be sent from an attended mailbox. 
 
