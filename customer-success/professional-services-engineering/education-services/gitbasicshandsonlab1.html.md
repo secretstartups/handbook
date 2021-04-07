@@ -6,13 +6,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 # GitLab with Git Basics Hands On Guide- Lab 1
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-
 ## LAB 1: CREATE A PROJECT AND ISSUE
 ### Create a project
 1. Navigate to **Groups** > **Your groups** in the top navigation bar.
