@@ -25,7 +25,7 @@ First, be sure to validate the following:
 | Entity | Signatory | 
 |-------- | -----|
 | GitLab Inc | Kelly Murdock  | 
-| GitLab Federal LLC    |       Marc Kris      |  
+| GitLab Federal LLC    |       Marc Kriz     |  
 | GitLab BV Belgium, Dutch & English | TBD | 
 | GitLab BV, Netherlands | TBD | 
 | GitLab GmbH | Kelly Murdock | 
