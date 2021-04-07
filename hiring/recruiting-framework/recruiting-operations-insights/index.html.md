@@ -396,8 +396,8 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 * **Reports**:
     * Job Status Report
     * Current Pipeline Per Job Report
-* **Instructions**: Refresh the `Most Recent - Job Status Import from GH` and `REQ STATUS FROM GH` tabs and add the following columns per report:
-    * Job Status Report (`Most Recent - Job Status Import from GH` tab)
+* **Instructions**: Refresh the `[GH] Job Status - Open + Draft`, `[GH] Job Status - Draft`, `[GH] Req Status - Open + Draft`, and `[GH] Req Status - Draft` tabs and then copy and paste any *Draft* status requisitons to the respective tab titled, `... Open + Draft`. The proceed with each tab by doing the following:
+    * Job Status Report (`[GH] Job Status - Open + Draft` tab)
         1. Move `GHP ID` to **Column A**.
         1. Insert a new column (**Column B**) and title it, `VLOOKUP`.
         1. Move `Opening Status` to **Columb C**.
@@ -405,11 +405,11 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
             * Copy the formula down to include all rows that have data.
         1. Sort the data by `Opening Status` (A -> Z).
         1. Look for any `#N/A` results in the `VLOOKUP` column where the `Opening Status` = **Open** and add the respective `GHP ID` to the `Forecast to Plan` tab.
-    * Current Pipeline Per Job Report (`REQ STATUS FROM GH` tab)
+    * Current Pipeline Per Job Report (`[GH] Req Status - Open + Draft` tab)
         1. Duplicate the `Requisition ID` column and move it to **Column A** (the duplicate column will be in **Column C**).
         1. Insert a new column (**Column N**) and title it, `Req Status`
             * Working backwards (i.e. `Background Check and Offer` to `Get to Know Us`) provide a req status where there are **no** blanks or zero values in a column.
-            * Provide one of the following statuses: *Not Opened Yet*, *Screening*, *Hiring Manager Interview*, *Team Interview*, *References*, *Offer Pending*, or Start Date Pending*.
+            * Provide one of the following statuses: *Not Opened Yet*, *Application Review*, *Screening*, *Hiring Manager Interview*, *Team Interview*, *References*, *Offer Pending*, or *Start Date Pending*.
     * `Forecast to Plan` Tab
         1. Where formulas are present, drag them down to cover all rows.
         1. The following rows will need to be entered manually: `Sales VP` (Column I), `Aligned Recruiter` (Column J), and `NQR/OQR` (Column K).
