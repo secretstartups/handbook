@@ -1,38 +1,41 @@
 ---
 layout: handbook-page-toc
-title: "GitLab with Git Basics Hands On Guide- Lab 4"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab with Git Basics course."
+title: "GitLab with Git Basics Hands On Guide: Lab 4"
+description: "This Hands On Guide is designed to walk you through the lab exercises used in the *GitLab with Git Basics* course."
 ---
-# GitLab with Git Basics Hands On Guide- Lab 4
+# GitLab with Git Basics Hands On Guide: Lab 4
 {:.no_toc}
 
-## LAB 4- BUILD A GITLAB-CI.YML FILE
+## LAB 4: BUILD A `.gitlab-ci.yml` FILE
 
-### Create a new Project and add a YML file 
-1. Navigate to **Groups** > **Your Groups**
-2. Navigate to **Training Users** and expand the arrow to the left of Training Users, your training login will be the first one under your class session. 
-3. Navigate to the **New Project** button** and click it.  
-4. In the Project name dialog box, enter “***CI Test*”**.  Optionally you may include a few notes in the Project Description Dialog Box. 
-5. Under Visibility Level, click the radio button for **Private**.  
-6. Click **Initialize repository with a README** checkbox and then click the green **Create project** button.  
-7. Navigate to My Groups > Training Users > Session > My Test Group 
-8. Click the **New File** button in the repository area.
-9. In the file name dialog box enter  *.gitlab-ci.yml* -> Select **.gitlab-ci.yml** for template type -> apply the **Bash** template 
-10. For simplicity, we will create a minimum .gitlab-ci.yml file. 
-11. From the editor -> Remove all lines above and below the build1 and test1 sections  
-12. Add build and test stages at the top of the file.  Hint: watch your spacing! 
-stages: 
-- build 
-- test 
-13. Click the green **Commit Changes** button.
+### Create a new project and add a CI/CD configuration file
+1. Navigate to your group, click **New project**, click **Create blank project**.
+2. In the Project name dialog box, enter `CI Test`.
+3. Under **Visibility Level**, click the radio button for **Private**.
+4. Enable the checkbox for **Initialize repository with a README**.
+5. Click the green **Create project** button.
+6. You should be on the **Project overview** page for your `CI Test` project. If not, navigate to it using the top navigation bar: **Groups** > **Your Groups** > **Training Users** > **Session NUMBER** > **My Test Group - USERNAME** > **CI Test**.
+7. Create a new file by clicking the **+** dropdown 2 lines below the project's title. Click **New file** in the **This directory** section.
+8. In the **File name** dialog box enter `.gitlab-ci.yml`.
+9. If it's not already selected, click **.gitlab-ci.yml** in the next dropdown to the right, which selects a file template.
+10. In the **Apply a template** dropdown, select **Bash** in the **General** section. This creates a minimal `.gitlab-ci.yml` file.
+11. In the editor, delete all lines above and below the **build1** and **test1** sections
+12. Define **build** and **test** stages by adding these 3 lines at the top of the file. Hint: watch your spacing! The `stages` keyword should be flush left. The stage names should each be indented by 2 spaces.
+```yaml
+stages:
+  - build
+  - test
+```
+13. Click the green **Commit changes** button.
 
-### Review the CI/CD Section 
-1. Notice a pipeline runs in the upper right corner of the page  
-2. You can click on the blue pipeline running button to view the pipeline or you can navigate to it by clicking the CI/CD section to the left pane - Click **CI/CD** then **Pipelines** and review the passed section.  
-3. Each widget represents the web terminal that ran when you clicked commit. 
-4. Click each widget and identify the runner that ran on each job.  Your runners are selected at random, and we have the ability to limit which runners run using advanced CI configuration. 
-5. Review the different views in the Web Terminal for CI/CD Jobs. 
+### Inspect the CI/CI pipeline
 
-### SUGGESTIONS?
+1. GitLab started running a CI/CD pipeline as soon as you committed `.gitlab-ci.yml` to your project's repository. To see the project's pipelines, go to the left navigation bar and click **CI/CD** > **Pipelines**.
+2. Only one pipeline has run so far. See the details of that pipeline by clicking the green **passed** label next to the pipeline's table entry.
+3. In the **Build** column, there's a widget representing the **build1** job that belongs to that stage. The same is true for the **Test** column.
+4. Click the **build1** widget to see a web terminal that shows what happened when that job ran.
+5. Go back and do the same for the **test1** widget.
 
-If you wish to make a change to our Hands on Guide for GitLab with Git Basics- please submit your changes via Merge Request!
+### Suggestions?
+
+If you wish to make a change to the *Hands on Guide for GitLab with Git Basics*, please submit your changes via Merge Request!
