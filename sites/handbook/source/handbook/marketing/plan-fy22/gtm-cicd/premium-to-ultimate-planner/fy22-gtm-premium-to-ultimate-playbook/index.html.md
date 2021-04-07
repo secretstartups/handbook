@@ -95,6 +95,12 @@ Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketi
 
 ## Positioning Value 
 
+**Elevator pitch** 
+
+> GitLab Ultimate is ideal for projects with executive visibility and strategic organizational usage. Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. A single tool DevOps teams need to find and fix vulnerabilities in application code, its environments, and to manage their risk from detection through remediation.
+
+*Note: Everything you get in Premium as well as free guest users, 50,000 CI/CD minutes, a named TAM, and more…*
+
 **How GitLab Does It**
 
 - [How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
@@ -105,7 +111,7 @@ Note: suggested format has Differentiators and Benefits followed by Proof Points
 
 With GitLab Ultimate, organizations are able to truly shift security left (and right!) to reduce exposure and align security with dev. Emergent advantages include unparalleled visibility and insights and much easier traceability with consistent compliance to policies or regulatory requirements for cleaner, easier audits. 
 
-[Key GitLab differentiators](https://cblake-master-patch-70404.about.gitlab-review.app/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators) include:
+**[Key GitLab differentiators](https://cblake-master-patch-70404.about.gitlab-review.app/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators)** include:
 
 1. Detailed and Actionable Scan Results Displayed in MRs created from Feature Branch
 1. Block MRs based on Security Policy
@@ -137,9 +143,10 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 
 * [SKO Expanding to Ultimate slide deck](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
 * [Why GitLab Ultimate slide deck](https://docs.google.com/presentation/d/1TP5cXH5Nr0VkH7mE6M_-DFXT_Jnq7o5LPxuMUz2paI4/edit?usp=sharing)
-* [Selling security] see John Blevin's online classroom material
 * [Selling DevSecOps resource page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)
-* [GitLab Ultimate specific features and value handbook page](https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features)
+*  Selling security (need link) see John Blevin's online classroom material
+*  New Gartner MQ for Plan (need link)
+*  *Gartner MQ for AST expected in May 2021*
 
 
 # Sales Play Tactics {#sales-play-tactics}
@@ -158,6 +165,10 @@ Marketing is running a related demand gen campaign to drive leads to you using t
 
 ## Resources to use
 
+* [Security pitch deck for shift left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing) 
+* [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)
+* [GitLab Ultimate specific features and value handbook page](https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features)
+
 ## How to measure progress
 
 - [ ] Gameplan with GitLab champion
@@ -169,13 +180,6 @@ Note: progress of the GTM Motion will be measured at the campaign level with cli
 
 # **Note: below is old content to reconcile with new above**
 
-**What to say**
-
-**Elevator pitch** 
-Connect to campaign messages above. GitLab Ultimate is ideal for projects with executive visibility and strategic organizational usage. Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. 
-
-Everything you get in Premium as well as free guest users, 50,000 CI/CD minutes, and more…
-GitLab Ultimate provides the single tool DevOps teams need to find and fix vulnerabilities in application code and its environments and to manage their risk from detection through remediation
 
 **Ask these questions:**
 
@@ -191,26 +195,9 @@ GitLab Ultimate provides the single tool DevOps teams need to find and fix vulne
    * Yes - Lead with integrated platform to modernize software dev
 
 
-**What to show/info to use**
-
-Use **these slides** 
-* Plan pitch deck 
-* [Security pitch deck for shift left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing) 
-* [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)
-
-Use **this collateral**:  
-
-1. Gartner MQ for AST expected in May 2021
-1. New Gartner MQ for Plan
-1. Why Premium to Ultimate?
-1. placeholder
-
 Use this **POV boiler plate**: xxx (SA team to provide)
 
-
 Key capabilities in Ultimate center around security, compliance, insights/analytics, and releasing better + faster: 
-
-[Ultimate specific features](https://about.gitlab.com/pricing/ultimate/#ultimate-specific-features)
 
 add this to objection handling: Ultimate also includes priority support (4 business hour support), live upgrade assistance, and a Technical Account Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
 
