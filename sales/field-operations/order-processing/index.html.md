@@ -986,6 +986,10 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
 **My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?**
 - See [How do I know if a License Key was sent to the Customer?](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
 
+#### Locked Bookings
+
+Beginning April 2021, all Closed Won and Closed Lost opportunities closed in a given month will become locked for editing on the tenth day of the next month. Any requested edits to opportunities closed in a locked accounting period will require review and action by the Senior Manager, Deal Desk or the Senior Director, Sales Operations.    
+
 #### Purchase Order (PO) Policy
 
 Certain customers require that invoices submitted to them include a Purchase Order (PO) number. For these customers, a PO is required for opportunity closure, with limited exceptions. This policy is supplemental to the other booking requirements listed on this page. It does not replace any other booking requirements.
