@@ -55,4 +55,4 @@ Read [here](/handbook/people-group/engineering/onboarding#manager-and-interview-
 
 ## Access request reminders
 
-A job is scheduled to run once per day to look for career mobility issues that have been opened for more than 5 days. If the team member for whom a career mobility issue was opened has not been mentioned in any access requests since their career mobility issue was opened, an note is created on the career mobility issue to remind the participants to create the necessary access requests.
+A job is scheduled to run once every 5 days to look for career mobility issues that have been opened for more than 5 days. If the team member for whom a career mobility issue was opened has not been mentioned in any access requests since their career mobility issue was opened, an note is created on the career mobility issue to remind the participants to create the necessary access requests.
