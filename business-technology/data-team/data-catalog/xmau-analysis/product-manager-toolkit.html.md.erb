@@ -35,7 +35,7 @@ If you want to:
 NOTE:
 All these snippets start with a `td_` prefix. `td_` (td stands for Trusted Data, see here for more details)
 
-#### Estimated xMAU or PI chart: td_xmau(user segment, xMAU type, filter, target)
+## Estimated xMAU or PI chart: td_xmau(user segment, xMAU type, filter, target)
 
 The snippet [td_xmau] allows you to do it very quickly. With this snippet you will be able to:
 
@@ -43,7 +43,7 @@ The snippet [td_xmau] allows you to do it very quickly. With this snippet you wi
 - [break down your estimated xMAU by main_edition](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690035&udv=0)
 - [break down by Self-Managed product tier](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690026&udv=0)
 
-##### Usage
+### Usage
 
 [We created this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit?usp=sharing) to help you fill the snippet more easily. You just have to select some dimensions and then paste the snippet rendered in B6 in a New Chart in Periscope.
 
@@ -53,13 +53,13 @@ Parameters (use the Google Spreadsheet instead!):
 - *xMAU*: one of the xMAU types or 'PI'
 - *filter*: if there are multiple options after choosing xMAU, you can choose the concrete metric
 - *target*: the target to draw for this metric. 
-    - If xMAU is 'PI', then the target value is taken from performance indicator yaml files' `monthly_recorded_targets` key with a corresponding `target_name` key
+    - If xMAU is 'PI', then the target value is taken from performance indicator yaml files' if [specified as described below](#how-to-show-dynamic-targets-on-your-widgets)
     - If the target it between 0-1, then it's considerd to be the a percentage change from the last value. 
     - If the target is greater than 1, then the target is added as a scalar.
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10690032, dashboard: 793297, embed: 'v2') %>">
 
-##### You can actually do it with any of your metrics
+## You can actually do it with any of your metrics
 
 The snippet [td_xmau] could actually be used with any metrics. The embedded chart below is an example that charts the Estimated number of people using our wiki page.
 
@@ -69,11 +69,11 @@ To build the snippet for your metric, you can go to [this spreadsheet](https://d
 
 Then as a filter you need to enter the metrics_path of the metrics you want to get your data from. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path.
 
-#### Recorded Monthly Metric Value Change: [td_xmau_metrics_recorded_metric_value(metrics_path)]
+## Recorded Monthly Metric Value Change: [td_xmau_metrics_recorded_metric_value(metrics_path)]
 
 This snippet shows you the change in your metric value of any of your metric implemented in Usage Ping. 
 
-##### Usage
+### Usage
 
 1. Obtain the the metrics_path of the counter you want to monitor
 
@@ -83,7 +83,11 @@ This snippet shows you the change in your metric value of any of your metric imp
 
    Create a new chart to use the snippet. Input the copied metrics_path into the snippet. 
    
-##### Example: 
+### Adding a target value
+
+You can add a target value to the chart by adding a `target_name` and a `monthly_estimated_targets` key to the performance indicator yaml [as described below](#how-to-show-dynamic-targets-on-your-widgets).
+
+### Example: 
 
 - Metric: `g_project_management_issue_moved_monthly`
 - metrics_path: `redis_hll_counters.issues_edit.g_project_management_issue_moved_monthly`
@@ -96,35 +100,31 @@ Then you will be able to get a dataset with the following potential breakdowns:
 - ping_product_tier
 - umau_bucket
 
-##### Adding a target value
-
-You can add a target value to the chart by adding a `target_name` and a `monthly_estimated_targets` key to the performance indicator yaml. Learn more about this feature below.
-
 Example chart: [td_xmau_metrics_recorded_metric_value: Metric Value split by delivery](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10999660&udv=0)
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10999660, dashboard: 793297, embed: 'v2') %>">
 
-#### Recorded Monthly Metric Value Change with Total: [td_xmau_metrics_recorded_metric_value_with_total(metrics_path)]
+## Recorded Monthly Metric Value Change with Total: [td_xmau_metrics_recorded_metric_value_with_total(metrics_path)]
 
 This snippet extends `td_xmau_metrics_recorded_metric_value` with a total line.
 
-##### Usage
+### Usage
 
 [See above](#usage-1).
 
-#### Original Monthly Metric Value: [td_xmau_metrics_original_metric_value(metrics_path)]
+## Original Monthly Metric Value: [td_xmau_metrics_original_metric_value(metrics_path)]
 
 This snippet is a variation of `td_xmau_metrics_recorded_metric_value` that shows to original metric, instead of a change from the previous period.
 
-##### Usage
+### Usage
 
 [See above](#usage-1).
 
-#### Monthly Active Instance chart: [td_xmau_metrics_instance_count(breakdown, metrics_path)]
+## Monthly Active Instance chart: [td_xmau_metrics_instance_count(breakdown, metrics_path)]
 
 The snippet [td_xmau_metrics_instance_count] shows you how many instances have used your feature in a given month. To get it working you just need to reference the `metrics_path`. 
 
-##### Usage
+### Usage
 
 To help you build the snippet, we created [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit#gid=1727173902). You will need to just pick a value for each of the dropdowns in column B and then copy the value showed in B6 and put it in a New Chart in SiSense.
 
@@ -132,11 +132,11 @@ Example chart:
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10755606, dashboard: 793297, embed: 'v2') %>">
 
-#### Monthly Metrics Instance Adoption: [td_xmau_metrics_instance_adoption(breakdown, metrics_path)]
+## Monthly Metrics Instance Adoption: [td_xmau_metrics_instance_adoption(breakdown, metrics_path)]
 
 The snippet [td_xmau_metrics_instance_adoption](https://app.periscopedata.com/app/gitlab/snippet/td_xmau_instance_adoption/55f1e7266d0b47b2878e7b04d436197a/edit) is a snippet that can be used to get an idea about the Adoption of your features. It provides you the percentage of instances reporting back a specific usage ping metric. 
 
-##### Usage 
+### Usage 
 
 To help you build the snippet, we created [this spreadsheet](https://docs.google.com/spreadsheets/d/1VzQg9G46spnXxsjOLoQQFAYldh8UdUN5xaaK9t_x-Z8/edit#gid=2130868735). You will need to just pick a value for each of the dropdowns in column B and then copy the value showed in BX and put it in a New Chart in SiSense.
 
@@ -147,21 +147,21 @@ Then you will be able to get a dataset with the following potential breakdowns:
 - ping_product_tier
 - umau_bucket
 
-#### Top Users Table: [td_xmau_metrics_top_users]
+## Top Users Table: [td_xmau_metrics_top_users]
 
 The snippet [td_xmau_metrics_top_users] is rendering a list of Top 50 Self-Managed Instances using your specific feature. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path
 
 [An example could be found in this chart](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10768540&udv=0)
 
-#### Instances with biggest MOM usage increase: [td_xmau_metrics_increasing_usage_users]
+## Instances with biggest MOM usage increase: [td_xmau_metrics_increasing_usage_users]
 
 The snippet [td_xmau_metrics_increasing_usage_users] is rendering a list of Top 50 Self-Managed Instances who have seen their monthly usage grow the most in the last completed month. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path.
 
-#### Instances with biggest MOM usage decrease: [td_xmau_metrics_decreasing_usage_users]
+## Instances with biggest MOM usage decrease: [td_xmau_metrics_decreasing_usage_users]
 
 The snippet [td_xmau_metrics_decreasing_usage_users] is rendering a list of Top 50 Self-Managed Instances who have seen their monthly usage decrease the most in the last completed month. To use it you need to reference the metrics_path. [This section](#how-to-get-your-metrics_path-for-your-counter-) gives you clear guidelines on how to find your metrics_path
 
-#### Monthly change breakdown: [td_xmau_monthly_change_breakdown]
+## Monthly change breakdown: [td_xmau_monthly_change_breakdown]
 
 You would like to be able to explain the growth/decrease of a specific monthly metric value. Have we seen big instances churning ? Or just a overall decrease of usage due to some seasonality ?
 
@@ -170,7 +170,7 @@ The snippet allows you to quickly see the number of tracked instances with decre
 
 <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 10768920, dashboard: 793297, embed: 'v2') %>">
 
-#### How to show dynamic targets on your widgets?
+## How to show dynamic targets on your widgets?
 
 The following snippets support adding dynamic target values from performance indicator yaml files:
 
@@ -181,13 +181,13 @@ The following snippets support adding dynamic target values from performance ind
 
 Adding the `target_name`, `monthly_recorded_targets`, `monthly_estimated_targets` keys to a performance indicator yaml file, shows the provided target values for the provided metric name.
 
-##### Usage
+### Usage
 
 - `target_name`: The target name should equal to the `metrics_path` used in the snippet
 - `monthly_estimated_targets`: is a list of `"key": value` pairs where `key` is the target date to reach the target `value`
 - `monthly_recorded_targets`: is a list of `"key": value` pairs where `key` is the target date to reach the target `value`
 
-##### Example
+### Example
 
 ```
 ...
@@ -202,7 +202,7 @@ Adding the `target_name`, `monthly_recorded_targets`, `monthly_estimated_targets
 
 Then using a snippet like `[td_xmau_metrics_original_metric_value('counts.projects_with_terraform_states')]` shows the recorded targets on top of the original values. [See example](https://app.periscopedata.com/app/gitlab/677628/Infrastructure-as-Code?widget=9080255&udv=1037942).
 
-#### Go further...
+## Go further...
 
 With this official td_ (td stands for Trusted Data, see here for more details), we tried to create some key snippets that will help you get some quick charts and key data about your metrics. Of course, this list of snippet is just a glimpse of what can be done with our current data models.
 
