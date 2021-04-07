@@ -45,7 +45,7 @@ This should be a fully featured version of the current EE release. The high SLA 
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
 | ---- | --- | ------- | ------ | -------- | --------------- |
-| .org | [dev.gitlab.org](https://dev.gitlab.org) | Tools for Gitlab.com | Nightly | Real Work | Production and build team |
+| .org | [dev.gitlab.org](https://dev.gitlab.org) | Tools for GitLab.com | Nightly | Real Work | Production and build team |
 
 Currently there are two main uses for the .org environment:
 
