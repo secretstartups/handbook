@@ -25,7 +25,6 @@ While "sourcing" and "referring" are similar activities, there are distinctions 
 A Referral is:
 
 * Someone you are claiming a personal or professional relationship with.
-* Someone who is referred by a person you are claiming a personal or professional relationship with.
 * Someone you could make a confident claim about regarding their cultural adaptability (to GitLab), how well they align with our values, and their ability to excel in a given role.
 * Someone you feel would be a great addition to the GitLab team.
 
@@ -35,8 +34,9 @@ A Referral is **not**:
     * This applies to *Prospects* as well as *Candidates*.
 * Someone you **do not** know and **would not** be able to speak about confidently.
 * Someone you sourced or someone who reached out to you regarding a vacancy (e.g. on LinkedIn). If someone you have **not** worked with reaches out requesting to be referred, you could respond with, *"Thank you for your interest in GitLab. We prefer that you register your interest with our Talent Community. This will ensure the that right GitLab Team Member reviews your profile and, if you're deemed suitable, replies back. Unfortunately, I cannot refer you as we have not had a chance to work together. Also, I cannot influence your application"*.
-* Someone who applied via a link you shared on a social site.
-    * There's **no** way of determining who clicked a link on Twitter from a genuine Referral.
+* Someone who applied via a unique link you shared from Greenhouse on a social site (a.k.a. a `Social Referral`).
+    * While the unique link creation/sharing feature is in the `Add a Referral` section of Greenhouse and reads, _"Share your link with people interested in working at your company
+Every time someone clicks on your link and applies for a job, your hiring team can track you as a source,"_ this is **not** considered a referral because there's **no** way of determining who clicked a link on Twitter from a genuine referral, for example. For that very reason, `Social Referrals` are **ineglible** for the referral bonus. Regardless, the promotion of our vacancies is always appreciated!
 * A former (or "Boomerang") Team Member.
 
 Other Referral clarifications:
