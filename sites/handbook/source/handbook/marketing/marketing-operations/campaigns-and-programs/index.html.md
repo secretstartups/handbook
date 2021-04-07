@@ -239,7 +239,7 @@ This campaign type can be part of a larger Field/Conference/Owned event but we t
 
 #### Sponsored Webcast
 
-This is webcast hosted on an external partner/vendor platform. The status of `Attended On-demand` accounts for Gitlab hosted On-Demand and non-Gitlab hosted On-demand webcasts. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
+This is webcast hosted on an external partner/vendor platform. The status of `Attended On-demand` accounts for GitLab hosted On-Demand and non-GitLab hosted On-demand webcasts. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#types-of-external-virtual-events).
 
 **Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel
 
