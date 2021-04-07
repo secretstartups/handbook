@@ -248,7 +248,7 @@ Commercial Sales POV's are commonly executed as a variety of the Lite POV, thoug
 
 ### Commercial Sales - POV and Customer Success Plan Creation
 
-- Create and track the POV in Salesforce according to [this process](/handbook/sales/POV/#tracking-a-pov-in-salesforce)
+- Create and track the POV in Salesforce according to [this process](/handbook/customer-success/solutions-architects/tools-and-resources/pov/#tracking-a-pov-in-salesforce)
 - Create a new [customer project](https://gitlab.com/gitlab-com/account-management/commercial/pre-sales) in the Commercial/Pre-sales group. To use the template, select the 'Create from Template' tab, select the 'Group' templates, and then click 'Use template' for the 'New Customer Project - Commercial Sales' template.
 - Edit README.md with information specific to POV under the Proof of Value section and fill in any additional relevant fields.
 - Upon completion of POV, update Salesforce record with POV result as successful or unsuccessful and provide supportive reasons in the associated freeform fields

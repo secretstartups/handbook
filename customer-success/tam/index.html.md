@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Technical Account Management Handbook"
+description: "The Technical Account Management team at GitLab is a part of the Customer Success department, activing as trusted advisors to our customers and helping them realize value faster."
 ---
 
 ## On this page
@@ -9,6 +10,13 @@ title: "Technical Account Management Handbook"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+## Mission Statement
+Aligning passionate TAM's with customers to ensure their success by...  
+- Driving progress aligned with their business outcomes
+- Identifying and enabling the customer in their current and future GitLab use cases
+- Expanding ROI with GitLab  
+
 
 ## Handbook Directory
 
@@ -19,7 +27,7 @@ title: "Technical Account Management Handbook"
 
 ### TAM Responsibilities
 
-- [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (Gitlab Internal)
+- [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (GitLab Internal)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
@@ -41,11 +49,14 @@ title: "Technical Account Management Handbook"
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](https://about.gitlab.com/handbook/customer-success/tam/success-plans/questions-techniques/)
 - [Stage Enablement & Stage Expansion - The Two Stage Adoption Motions](/handbook/customer-success/tam/stage-enablement-and-expansion/)
    - [Stage Adoption Metrics](/handbook/customer-success/tam/stage-adoption/)
-   - [Tracking Adoption with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
+   - [The Customer Value Received with Usage Ping](/handbook/customer-success/tam/usage-ping-faq/)
+   - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+   - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
+
 
 
 ##### Digital Journey:
@@ -57,8 +68,8 @@ title: "Technical Account Management Handbook"
 ### TAM Managers
 
 - [TAM Manager Processes](/handbook/customer-success/tam/tam-manager/)
-- [TAM Manager QBR Template](https://docs.google.com/presentation/d/1P7Cao5xgILSSrpEGy7Sh09djilnbbIK91IuTs-Xq7mY/edit?usp=sharing) (Gitlab Internal)
-- [TAM Promotion Template](https://docs.google.com/document/d/1Hg16QVYB2qm0gUGR6H_NPz0cd8OGEuvi3GyDtOsEagY/edit?usp=sharing) (Gitlab Internal)
+- [TAM Manager QBR Template](https://docs.google.com/presentation/d/1P7Cao5xgILSSrpEGy7Sh09djilnbbIK91IuTs-Xq7mY/edit?usp=sharing) (GitLab Internal)
+- [TAM Promotion Template](https://docs.google.com/document/d/1Hg16QVYB2qm0gUGR6H_NPz0cd8OGEuvi3GyDtOsEagY/edit?usp=sharing) (GitLab Internal)
 
 
 - - -

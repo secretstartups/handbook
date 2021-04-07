@@ -77,19 +77,20 @@ The techniques listed below are commonly used in the field to handle objections 
 
 [Presentation](https://docs.google.com/presentation/d/1SvKvx1U9KWZ-ABfkJr3rgsePtaD-pIA--jn4ywRU_hQ/edit#slide=id.g153a2ed090_0_63)
 
-TODO : Add recording
+[Recording](https://www.youtube.com/watch?v=vobGVMqUpqA)
 
 ## Facilitating Objection Handling Exercise
 
 Practice Objection Handling in team meeeting by using the framework below:
 
-Please note it's suggested to have these meetings weekly, biweekly so handling objections become a 2nd nature to us. The
+Please note it's suggested to have these meetings weekly, biweekly so handling objections becomes a 2nd nature to us. The
 
 1. Here's a list of objections that we have gathered from the [field](https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871). This is a starting point & more objections will be added with everyone's contribution. Please feel free to add additional objections to it.
+1. Ask for volunteers who would like to participate in the objection handling practice
 1. Use a randomized selection (like [wheel of misfortune](https://wheelofnames.com/#)) method to pick an objection & individual(s) to handle the objections using the techniques above or any way they prefer. Make it fun!!!
-1. Please dedicate a fixed amount of time (say 5 mins) to handling the objection.
-1. Afterward, a fixed amount of time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection.
-1. Please note the best objection handling method for the particular objections.
+1. Please dedicate a fixed amount of time (say 5 mins) to handle the objection with the techniques mentioned above. Remember to pick a technique that feels natural to you.
+1. Afterwards, a fixed amount of time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection. Make sure to take notes.
+1. Please note the best objection handling method for the particular objection.
 1. Repeat the exercise again.
 
 ## Best Practices

@@ -38,6 +38,8 @@ If neither of these two situations apply to your customer, see how to [report ba
 
 There is a health scorecard measure called License Usage. This results in green/yellow/red based on the account's license usage health per [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
+For more on Product Usage Data health scoring in Gainsight, see [Product Usage Data](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) and [Customer Product Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/).
+
 ### High License Utilization CTA
 
 When a customer's license utilization reaches or exceeds 98%, a [CTA](/handbook/customer-success/tam/gainsight/ctas) will automatically open in order to notify the TAM that the account is reaching its purchased licensed users number. Although customers are able to exceed their licensed users [in order to allow growth](/company/pricing/#true-up-pricing), the purpose of this CTA is to alert the TAM so they can proactively discuss growth and true-ups with the customer, especially if it occurs outside of the renewal process. This can also be a good opportunity to inform your customers of how to manage their subscription and continue to grow their account intentionally as opposed to reactively. This CTA will only fire once every 90 days as applicable for TAM-managed accounts.

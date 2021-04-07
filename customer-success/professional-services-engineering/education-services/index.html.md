@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Gitlab Professional Education Services"
+title: "GitLab Professional Education Services"
 description: “Technical Learning and Certification from GitLab Professional Services”
 ---
 

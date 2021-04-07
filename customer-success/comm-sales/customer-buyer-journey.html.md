@@ -39,7 +39,7 @@ Technical evaluation is where the prospective customer evaluates the fit of GitL
 
 ### Deliverables
 * Google Doc: for running call notes (when applicable)
-* Salesforce: call notes, [POV creation](/handbook/sales/POV/) (optional)
+* Salesforce: call notes, [POV creation](/handbook/customer-success/solutions-architects/tools-and-resources/pov) (optional)
 
 ### Responsibilities
 * Convert any existing free trial to a Lite POV if > 200 users or $10K IACV

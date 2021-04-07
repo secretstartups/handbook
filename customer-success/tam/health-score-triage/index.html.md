@@ -119,7 +119,7 @@ Health score criteria is either manually or automatically applied to determine t
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month <br>- Yellow: 5-15 tickets/month <br>- Red: \>15 tickets/month | 5% |
 | [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For `50k+ ARR` accounts:<br> TAM manually determines red/yellow/green | 65% |
 | License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | ARR thresholds: <br>- 50k+: 10% <br> - 20-50k 51% <br> - <20: 75%  |
-
+| Product Usage Data | Based on the customer's product usage data (if available) | Automatic | See [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) | 0% |
 
 ##### Commercial
 
@@ -130,6 +130,7 @@ Health score criteria is either manually or automatically applied to determine t
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month<br>- Yellow: 5-15 tickets/month<br>- Red: \>15 tickets/month | 5% |
 | [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For `TAM Prioritization == 1` accounts:<br> TAM manually determines red/yellow/green | 65% |
 | License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | ARR thresholds: <br>- 50k+: 10% <br> - 20-50k 51% <br> - <20: 75%  |
+| Product Usage Data | Based on the customer's product usage data (if available) | Automatic | See [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) | 0% |
 
 ##### License Usage health table
 
