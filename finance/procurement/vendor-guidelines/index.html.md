@@ -98,7 +98,7 @@ title: "Vendor Guidelines"
 
 ### 8.  INTELLECTUAL PROPERTY
 
-8.1  Any inventions, products, designs, specification, drawings, technical information, data, tools, processes, techniques, computer programs, databases, user interfaces, know-how, notes, works of authorship software, or any other material furnished, or paid for, by GitLab shall: (i) remain or become GitLab’s property, (ii) be used by Vendor exclusively to provide the Products and/or Professional Services, (iii) be destroyed or returned, at Gitlab’s sole option, to GitLab upon written request. Vendor hereby assigns and agrees to assign GitLab all right, title, and interest in and to the Deliverables. For the avoidance of doubt, the assignment of right, title and interest shall not apply to Vendor Product(s) which are “off-the-shelf” and do not include any GitLab Confidential Information.
+8.1  Any inventions, products, designs, specification, drawings, technical information, data, tools, processes, techniques, computer programs, databases, user interfaces, know-how, notes, works of authorship software, or any other material furnished, or paid for, by GitLab shall: (i) remain or become GitLab’s property, (ii) be used by Vendor exclusively to provide the Products and/or Professional Services, (iii) be destroyed or returned, at GitLab’s sole option, to GitLab upon written request. Vendor hereby assigns and agrees to assign GitLab all right, title, and interest in and to the Deliverables. For the avoidance of doubt, the assignment of right, title and interest shall not apply to Vendor Product(s) which are “off-the-shelf” and do not include any GitLab Confidential Information.
 
 ### 9.  INSURANCE
 

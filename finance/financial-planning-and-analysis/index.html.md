@@ -22,7 +22,7 @@ title: "Financial Planning & Analysis"
 
 ## What is purpose of FP&A @ GitLab?
 1. Facilitate aligned cross-functional execution of GitLab's [strategy](/company/strategy/)
-2. Bring predictability and operational rigor to Gitlab
+2. Bring predictability and operational rigor to GitLab
 3. Ensure financial and operational goals of GitLab are defined, documented and achieved
 4. Evangelize awareness of strategy and each departments role in achieving it
 5. Ensure sound data-driven decision support
@@ -597,15 +597,15 @@ The Infrastructure teams costs are allocated according to the final hosting expe
 
 #### *Summary*
 
-**Gitlab.com COGS Allocation** = (Paid Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
+**GitLab.com COGS Allocation** = (Paid Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
                                (Paid Tier Hosting Usage (%)  * Infrastructure Team Costs) +
                                (Paid Tier Ticket Resolution Time (%) * Total Support Team Costs)
 
-**Gitlab.com Free User Allocation** = (Free Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
+**GitLab.com Free User Allocation** = (Free Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
                                       (Free Tier Hosting Usage (%)  * Infrastructure Team Costs) +
                                       (Free Tier Ticket Resolution Time (%) * Total Support Team Costs)
 
-**Gitlab.com Internal User Allocation** = (Internal Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
+**GitLab.com Internal User Allocation** = (Internal Tier Hosting Usage (%)  * Total Invoiced Hosting Costs) +
                                           (Internal Tier Hosting Usage (%)  * Infrastructure Team Costs)
 
 

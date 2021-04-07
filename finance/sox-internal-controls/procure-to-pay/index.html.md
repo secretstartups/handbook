@@ -113,7 +113,7 @@ There are 3 contract templates to be used, depending on the type purchase.
   The finance business partner is tagged in the item request issue, and needs to approve the item, after verifying that the spend is part of the planned budget. The Finance Business Partner also provides the Department and the GL account that this spend is to use, as well as the entity. 
 
   Security tags the appropriate reviewer/approver here.
-  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html). The Risk and Field Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them.
+  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html). The Risk and Field Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that GitLab shares with them.
 
     * If no vendor security review is needed, the box is checked by the Security Team.
     * If a security review was performed, and there are no risks associated with the use of this vendor, the box is checked and no approval is required.
@@ -148,7 +148,7 @@ There are 3 contract templates to be used, depending on the type purchase.
 
 - STEP 6:
 
-  The Gitlab signed contract PDF is uploaded to HelloSign, and sent to the vendor for signature.
+  The GitLab signed contract PDF is uploaded to HelloSign, and sent to the vendor for signature.
   The contract signed by both parties is then uploaded to ContractWorks. 
 
   Purchase Orders are used for purchases over $100,000 USD, or with an annual spend of over $100,000 USD.If an invoice is received that is at or above $100K and there is no PO, the invoice will not be paid until a PO is created which could cause delays to the vendor's receipt of payment.
@@ -288,7 +288,7 @@ There are 3 contract templates to be used, depending on the type purchase.
   The finance business partner is tagged in the item request issue, and needs to approve the item, after verifying that the spend is part of the planned budget. The Finance Business Partner also provides the Department and the GL account that this spend is to use, as well as the entity. 
 
   Security tags the appropriate reviewer/approver here.
-  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Risk Management Procedure](/handbook/source/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management). The Risk and Field Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that Gitlab shares with them.
+  Anytime Non - Public GitLab data will be stored or processed by the vendor, security approval is required. Security is responsible for reviewing vendor security practices and will adhere to the Third Party Risk Management Procedure](/handbook/source/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management). The Risk and Field Security Team assesses whether the vendor has the appropriate security policies and practices in place to protect any date that GitLab shares with them.
   * If no vendor security review is needed, the box is checked by the Security Team.
   * If a security review was performed, and there are no risks associated with the use of this vendor, this box is checked and no approval is required.
   * If a security review was performed, and risks were identified with compensating controls in place, the Security Manager checks the box of, giving approval.
@@ -306,7 +306,7 @@ There are 3 contract templates to be used, depending on the type purchase.
 
 * STEP 6:[Screenshot Link](https://drive.google.com/open?id=1GOkEzJHsSdMgx3gulrdIE7gI8qOVTIgA)
 
-  The Gitlab signed contract PDF is uploaded to HelloSign, and sent to the vendor for signature.
+  The GitLab signed contract PDF is uploaded to HelloSign, and sent to the vendor for signature.
 The contract signed by both parties is then uploaded to ContractWorks. 
 
     Purchase Orders are used for purchases over $100,000 USD, or with an annual spend of over $100,000 USD.If an invoice is received that is at or above $100K and there is no PO, the invoice will not be paid until a PO is created which could cause delays to the vendor's receipt of payment.
@@ -379,7 +379,7 @@ Confirmation is given [here](https://drive.google.com/open?id=1Zi6Ay8BOZAAaujMF7
 
 * STEP 6: [Screenshot Link](https://drive.google.com/open?id=1_yjJL5C4TQ-Ma5GBJa6TO8zUZi4D1094)
 
-  The Gitlab signed contract PDF is uploaded to HelloSign, and sent to the vendor for signature.
+  The GitLab signed contract PDF is uploaded to HelloSign, and sent to the vendor for signature.
   The contract signed by both parties is then uploaded to ContractWorks. 
 
   Purchase Orders are used for purchases over $100,000 USD, or with an annual spend of over $100,000 USD. If an invoice is received that is at or above $100K and there is no PO, the invoice will not be paid until a PO is created which could cause delays to the vendor's receipt of payment.
@@ -1043,10 +1043,10 @@ This mapping is done via issues where the Finance Business Partner identifies wh
 
 R&D expenses are booked to the indirect expense (600x) accounts, while GitLab.com expenses are apportioned to the Cost of sales (500x) accounts. 
 
-R&D expenses are allocated to the 500x COGS accounts with Gitlab.com 
+R&D expenses are allocated to the 500x COGS accounts with GitLab.com 
 600X accounts are 6026 - hosting services and 6060 - subscriptions.
 
-**Variance Analysis for Gitlab.com (R&D Expenses)**
+**Variance Analysis for GitLab.com (R&D Expenses)**
 
 Budget vs Actuals are done on Google Sheets for GitLab.com. These numbers come from NetSuite. This is reviewed monthly as a part of the Infrastructure Review, and the monthly Finance variance review. Variances above 0 are colored in red, and those below 0 are in green.
 There are no thresholds hard defined as of now (baseline = 0) for variances, but a loose threshold used is +/-10%, post which a discussion is to be had around the variance.

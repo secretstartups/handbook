@@ -59,7 +59,7 @@ The Director of Tax reviews and [approves](https://docs.google.com/document/d/17
 
 **1.1.2. Payment of tax**
 
-The tax liability due is remitted by Avalara to the tax authority and auto-deducted from Gitlab’s bank account.
+The tax liability due is remitted by Avalara to the tax authority and auto-deducted from GitLab’s bank account.
 ***Controls being implemented: REG.C.05***
 
 
@@ -78,7 +78,7 @@ Cr. Bank account (Bank account from which payment is made)
 
 **1.2.  Value Added tax/ Goods and Service tax for non-US entities**
 
-Tax returns for non-US entities are filed by third party consultants based on sales and purchase tax details provided by Gitlab. Sales tax details are generated from Avalara and purchase tax details are generated from NetSuite.<br>
+Tax returns for non-US entities are filed by third party consultants based on sales and purchase tax details provided by GitLab. Sales tax details are generated from Avalara and purchase tax details are generated from NetSuite.<br>
 
 
 **1.2.1.  Generating sales tax report from Avalara**
@@ -145,13 +145,13 @@ Dr. 2260 VAT on sales (Sales tax)<br>
 **GitLab Ltd (UK)**
 
 Cr. Bank account (Bank account from which payment is made)<br>
-Cr. 1250 VAT on Purchases - Gitlab Ltd (Purchase tax)<br>
+Cr. 1250 VAT on Purchases - GitLab Ltd (Purchase tax)<br>
 Dr. 2260 VAT on sales (Sales tax)<br>
 
 **GitLab GmbH (Germany)**
 
 Cr. Bank account (Bank account from which payment is made)<br>
-Cr. 1251 VAT on Purchases - Gitlab GmBH (Purchase tax)<br>
+Cr. 1251 VAT on Purchases - GitLab GmBH (Purchase tax)<br>
 Dr. 2261 VAT on sales - GitLab GmbH (Sales tax)<br>
 
 
@@ -271,7 +271,7 @@ Based on the salary details of employees updated in ADP application, the wage ta
 
 The returns for wage tax are filed with the tax authorities on the due dates by ADP based on the liability ascertained during payroll processing. ***Controls being implemented: REG.C.11***
 
-The tax liability is remitted to the tax authorities by ADP and auto-debited from Gitlab’s bank account. ***Controls being implemented: REG.C.13***
+The tax liability is remitted to the tax authorities by ADP and auto-debited from GitLab’s bank account. ***Controls being implemented: REG.C.13***
 
 * Senior Accounting Manager: Account the tax payment as a journal in NetSuite. The following is the entry posted in NetSuite.
 
@@ -293,9 +293,9 @@ Based on the salary details of employees considered for payroll, the payroll ser
 * Senior Manager, Global Payroll and Payments reviews whether the tax returns are correctly filed on or before the due dates.**REG.C.12**
 
 * The tax liability remittance is made as follows:
-  * UK – Tax liability is auto debited from Gitlab’s bank account based on the returns filed. ***Controls being implemented: REG.C.14***
+  * UK – Tax liability is auto debited from GitLab’s bank account based on the returns filed. ***Controls being implemented: REG.C.14***
   * Germany and Netherlands – Director - Corporate Controller: Pay the tax liability by making a wire transfer to the tax authority.**(REG.C.15)**<br> 
-  * Belgium – Payroll service provider remits the tax to the tax authorities. The liability remitted is charged to Gitlab as part of the monthly payroll bill. The Senior Manager, Global Payroll and Payments reviews whether the tax remittances are correctly made on or before the due dates.**(REG.C.16)**
+  * Belgium – Payroll service provider remits the tax to the tax authorities. The liability remitted is charged to GitLab as part of the monthly payroll bill. The Senior Manager, Global Payroll and Payments reviews whether the tax remittances are correctly made on or before the due dates.**(REG.C.16)**
 <br>
 
 * Finance team: Account the tax payment as a journal in Net Suite. The following is the entry posted in Net Suite.

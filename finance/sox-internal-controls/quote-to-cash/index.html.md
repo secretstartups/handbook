@@ -119,7 +119,7 @@ Details such as Account name, Parent Account, Account type, Employees, GitLab pl
 
 **2.1. Creation of price master for product/ service**
 
-Price masters are created in Zuora for new products and services by the Director of Revenue based on the approvals obtained from the CEO, CFO and CRO through a Gitlab issue.  Once the new product is set up in Zuora by the Controller, it is reviewed and approved by PAO through a GitLab issue.
+Price masters are created in Zuora for new products and services by the Director of Revenue based on the approvals obtained from the CEO, CFO and CRO through a GitLab issue.  Once the new product is set up in Zuora by the Controller, it is reviewed and approved by PAO through a GitLab issue.
 
 - In Zuora, [select “Product catalog”](https://docs.google.com/document/d/1P_OHpD6mS7UFVVfIA-mXNwB76oxMTEVWLg7cEImlVw8/edit).
  
@@ -144,7 +144,7 @@ Price masters are created in Zuora for new products and services by the Director
 
 **2.2. Revision of price master for product/ service**
 
-Revision of price masters in Zuora for existing products and services is done by the  Director of Revenue based on approvals obtained from  CEO, CFO and CRO through a Gitlab issue.  Revisions to products setup in Zuora carried out by the Controller are reviewed and approved by PAO through a GitLab issue.
+Revision of price masters in Zuora for existing products and services is done by the  Director of Revenue based on approvals obtained from  CEO, CFO and CRO through a GitLab issue.  Revisions to products setup in Zuora carried out by the Controller are reviewed and approved by PAO through a GitLab issue.
 
 - In Zuora, select “[Product catalog](https://docs.google.com/document/d/1knW5volmycAOldR6T4qSctu2LdsaUbqhhKrNfbs7UKw/edit)”.
 
@@ -232,7 +232,7 @@ On finalizing an opportunity, a quote is created in Salesforce by the Sales pers
 
 [Link to Flowchart](https://docs.google.com/presentation/d/1xZRkGygzMQkOXSqb1cJnvU7s4oVmwzTHFWgqM7D6_88/edit#slide=id.g7a76194e77_0_0)
 
-Gitlab enters into contracts with resellers to sell the products. The sale rates for the resellers are based on standard discount rates, agreed in the contracts.[(Process steps screenshot)](https://docs.google.com/document/d/168xu-tactXINGD7Gej_OoTvPNMFAUu70NndWyPC713g/edit)
+GitLab enters into contracts with resellers to sell the products. The sale rates for the resellers are based on standard discount rates, agreed in the contracts.[(Process steps screenshot)](https://docs.google.com/document/d/168xu-tactXINGD7Gej_OoTvPNMFAUu70NndWyPC713g/edit)
 
 Resellers are further classified into 2 classes based on their experience and association with GitLab.Follwing is the classification:
 
@@ -589,7 +589,7 @@ The report contains the name of the account to be invoiced, subscription referen
 
    - Update the opportunity as [“Closed Won”](https://docs.google.com/document/d/1kOvlWzfvYRMuk5PKtQBkuxi73_-TMHCZV8_w5b2wKAM/edit).
 
-   - In the invoice information section, update the [invoice number](https://docs.google.com/document/d/1H4sm5YUYECpwAiR2ly6rTzm-ilEnTlNGrT4NSoaw06w/edit) of the renewed subscription and the billing entity. All renewals are to be billed by the US entity (Gitlab Inc.).
+   - In the invoice information section, update the [invoice number](https://docs.google.com/document/d/1H4sm5YUYECpwAiR2ly6rTzm-ilEnTlNGrT4NSoaw06w/edit) of the renewed subscription and the billing entity. All renewals are to be billed by the US entity (GitLab Inc.).
 
    - [Enter](https://docs.google.com/document/d/1Y8o6YuSUSsgP74NZ2XwG0a2fP17NgKv31-iXbbDgRbk/edit) the Start date and End date of the subscription, opportunity term and the renewal amount.
 
@@ -766,7 +766,7 @@ The [sign off document](https://docs.google.com/document/d/1umlAj6EihU6czk1FSovI
 
 [Link to Flowchart](https://docs.google.com/presentation/d/18bk70WKJDswU7yE5vhC_LFAUMjt1LkDvrX0DVSVyZi4/edit#slide=id.g7a7540af44_0_0)
 
-Customers buy merchandise from the Gitlab website. The sale transaction is updated in the [Shopify ](https://docs.google.com/document/d/10gAXdbf_21jNBIUR0KddiEHNVixTT2D86o8rtUVS9HE/edit)application. The income from the sale of merchandise is accounted in NetSuite as “Other Income” on a monthly basis
+Customers buy merchandise from the GitLab website. The sale transaction is updated in the [Shopify ](https://docs.google.com/document/d/10gAXdbf_21jNBIUR0KddiEHNVixTT2D86o8rtUVS9HE/edit)application. The income from the sale of merchandise is accounted in NetSuite as “Other Income” on a monthly basis
 
 - Download the [sale details](https://docs.google.com/document/d/13vf4Niab3xOAwc8zbOrbLGnoNcql8DC_LWVRlJhTFNQ/edit) from Shopify. 
 
@@ -793,7 +793,7 @@ Customers buy merchandise from the Gitlab website. The sale transaction is updat
 
 [Link to Flowchart](https://docs.google.com/presentation/d/1JrFJx0YcIkuRFthOqRMn212x9QSiuIodQv0Ldjh_-nQ/edit#slide=id.g7a763c7d61_0_0)
 
-Gitlab refers customers to Google cloud platform. If the customer signs up, Google pays a referral fee to Gitlab. The revenue and receivable is accounted as a Journal in NetSuite. The following will be the [accounting entry](https://docs.google.com/document/d/1DboG_3yBuNK9eao2PsUFTJi3w3WKdEWZI1u27jVMHrM/edit):
+GitLab refers customers to Google cloud platform. If the customer signs up, Google pays a referral fee to GitLab. The revenue and receivable is accounted as a Journal in NetSuite. The following will be the [accounting entry](https://docs.google.com/document/d/1DboG_3yBuNK9eao2PsUFTJi3w3WKdEWZI1u27jVMHrM/edit):
 
 Dr. 1101 Accounts receivable<br>
 Cr. 4008 Revenue – GCP referral
@@ -813,7 +813,7 @@ Customers can make payment through credit card, cheque and bank transfer. Paymen
 
 - **Customer payments received through cheque**
 
-   All checks received from customers are managed by Lockbox. Lockbox on receipt of check, verifies the completeness of the information provided and deposits the same in Gitlab’s bank account.
+   All checks received from customers are managed by Lockbox. Lockbox on receipt of check, verifies the completeness of the information provided and deposits the same in GitLab’s bank account.
 
    Accounting for check collections happens based on the deposits reflected in the bank statement.
 
@@ -845,7 +845,7 @@ Customers can make payment through credit card, cheque and bank transfer. Paymen
 
 - **Customer payments received through bank transfer**
 
-   - To view the list of check deposits made by customers, login to the bank’s portal and select “Gitlab Inc” under Accounts Summary > [“All Accounts”](https://docs.google.com/document/d/1LEtn6gqg-eOOhsn4Z4jC2hP0CuPVTon817CbYmYUzPU/edit). 
+   - To view the list of check deposits made by customers, login to the bank’s portal and select “GitLab Inc” under Accounts Summary > [“All Accounts”](https://docs.google.com/document/d/1LEtn6gqg-eOOhsn4Z4jC2hP0CuPVTon817CbYmYUzPU/edit). 
 
    - The list of bank transactions is generated. Filter the results for the required period using the [“Filter”](https://docs.google.com/document/d/1nHWK7NSE9MsFgKvhyBDnwmtv58ZX3FedJyNPTEI2Zb0/edit) option and select “Search”. The list of bank transactions for the required period is generated. 
 
@@ -869,7 +869,7 @@ Customers can make payment through credit card, cheque and bank transfer. Paymen
 
   Invoice aging analysis is carried out by the Billing team on a weekly basis.
 
-   - Under reports section in Zuora, select “[Invoice aging – Gitlab” report](https://docs.google.com/document/d/1wZjrqL5EZ-LqCXElfrL75t1b8kEh0AD0lqvAR_JBoVE/edit).
+   - Under reports section in Zuora, select “[Invoice aging – GitLab” report](https://docs.google.com/document/d/1wZjrqL5EZ-LqCXElfrL75t1b8kEh0AD0lqvAR_JBoVE/edit).
 
    - Select [“Run Summary Report”](https://docs.google.com/document/d/17gVmC5uGmkI3uoJeyuLFVjvxVUtmwbjYKTg16UzXjR4/edit) under Run Detail report section.
 
