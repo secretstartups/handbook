@@ -17,7 +17,7 @@ Everyone at GitLab has a responsibility to prevent and stop harassment. Working 
 
 ## Perspective
 
-GitLab is a San Francisco, California-based start-up that has grown into a global fully distributed team. We strive to ensure our team is fully aligned with Gitlab’s no tolerance harassment policy despite their location. We want everyone to feel confident and comfortable communicating concerns. GitLab respects, appreciates, understands and supports every aspect of diversity. We aim to continuously foster a globally aware team.
+GitLab is a San Francisco, California-based start-up that has grown into a global fully distributed team. We strive to ensure our team is fully aligned with GitLab’s no tolerance harassment policy despite their location. We want everyone to feel confident and comfortable communicating concerns. GitLab respects, appreciates, understands and supports every aspect of diversity. We aim to continuously foster a globally aware team.
 
 ## Scope
 
