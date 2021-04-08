@@ -45,15 +45,15 @@ We currently consider :green_check_mark: in slack on the original slack request 
 
 At times, you may receive an escalation where the customer is reporting a situation that qualifies for emergency support under
 our [definitions of support impact](https://about.gitlab.com/support/#definitions-of-support-impact). In such cases you may
-elect to trigger an emergency directly, rather than directing the customer to open a new ticket.
+elect to trigger an emergency directly, rather than asking the customer to open a new ticket.
 
 To manually trigger a PagerDuty notification, login to [gitlab.pagerduty.com](https://gitlab.pagerduty.com) and select
-**+ New Incident** from the upper right corner. Then fill out the form that follows:
+**+ New Incident** from the upper right corner. Then fill out the form as follows:
 
 - **Impacted Service**: Customer Support
 - **Assign to**: Customer Emergency Rotation
-- **Title**: Put the ticket number here
+- **Title**: Add the Zendesk ticket number here
 
-No other fields need to be filled out and you may then **Create Incident**
+No other fields need to be filled out, therefore you may then **Create Incident**
 
 ![Manually triggering an emergency](/images/support/manually-trigger-emergency.png){: .shadow}
