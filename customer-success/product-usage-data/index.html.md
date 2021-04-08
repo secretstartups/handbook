@@ -10,7 +10,7 @@
 
 ## Vision
 
-Leverage product usage data (i.e., license, active users, use cases, features) from the product to:
+Leverage product usage data (e.g., license, active users, use cases, features) from the product to:
 
 1. Accelerate ability for customers to realize value from the GitLab platform and see delivery against desired business outcomes through a world-class customer experience
 2. Improve value, quality, and usability through data related to how customers use our product 
