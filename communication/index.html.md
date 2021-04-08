@@ -649,23 +649,28 @@ Some of the most common meetings problems are outlined below:
 | No agenda with edit rights for everyone | Ensure that every meeting has an agenda and is available for everyone to edit |
 | People are late to meetings or don't have time to use the restroom between meetings | Use Speedy Meetings to give people breathing space before their next meeting |
 
-### Pre-Recorded Presentations Are Mandatory 
+### No Presenting in Meetings 
 
-Meetings take up valuable time and resources for the company. They are expensive since they require synchronous time. A pre-recorded presentation, versus presenting during the meeting, enables attendees to receive maximum benefit from the meeting time. Pre-recording the content will allow team members to comprehend the information presented asynchronously. 
+Meetings take up valuable time and resources for the company. They are expensive since they require synchronous time. A pre-recorded presentation, versus presenting during the meeting, enables attendees to benefit from the meeting time. Pre-recording the content will allow team members to comprehend the information presented asynchronously. In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in meetings. 
 
-Team members are often multitasking during meetings and cannot guarantee selective attention towards the content. When using meeting time for presenting slides, valuable material will be ignored due to attendees' selective watching. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/32GJ2ehUBhs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+If you are hosting a meeting, it's okay not to have a presentation or have a pre-recorded presentation. What's not okay is doing the presentation during the session because you are taking valuable synchronous time away from the attendees, which could be asynchronous. It is easier to watch YouTube in more locations than joining a Zoom call. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). 
 
 Make a pre-recorded video presentation on our [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A), and attach it to the meeting agenda. Announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides. 
 
-**Pre-recorded presentations are mandatory because they save synchronous time:** 
-1. Pre-recording the presentation allows to use the meeting for back and forth Q&A which enables meeting attendees to have their questions answered on the topic without running out of time.
-2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it allows team members in different time zones to consume the presentation material async versus spending time in a meeting. 
+**Pre-recorded presentations enable the following:** 
+1. Pre-recording the presentation allows the time to be used for back and forth Q&A, which enables meeting attendees to have their questions answered on the topic without running out of time.
+2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it helps team members in different timezones to consume the presentation material async versus spending time in a meeting. 
 3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A. 
 4. Standardizes the approach to meetings across the organization. 
 5. Pre-recorded meetings have transcripts that can boost content value, help team members focus, and increase accessibility. 
 6. Recordings can be sped up and rewound by team members watching on their own time. 
 7. Enables [neurodiverse](/handbook/values/#neurodiversity) equality for all team members who might take some time to process the presentation and reflect on their questions before asking them.  
 8. Allows for selective watching of presentation material for a certain period. 
+
 
 ## Indicating Availability
 
