@@ -59,7 +59,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 #### Adoption and Expansion
 
-- In alignment with a customer's goals, the adoption of the customer's desired use cases will be monitoring and utilized to drive engagement activities based on product usage data. Depending on the adoption progress, resulting actions could be:
+- In alignment with a customer's goals, the adoption of the customer's desired use cases will be monitored and used to drive engagement activities based on product usage data. Depending on the adoption progress, resulting actions could be:
   - TAM may provide enablement content (i.e., product documentation, educational videos, etc.), guidance on best practices and approaches, key capabilities to adopt, and/or services to ensure successful adoption.
   - TAM engages with customer to understand if there are any issues or blockers with the customer (e.g., training or enablement gaps, change management delays, technical issues, configuration problems, etc.). Depending on the issue, support and/or product may be engaged to assist the customer.
   - In a digital-only engagement, relevant content could be delivered to the customer (i.e., best practice, configuration guides, education / enablement videos) based on the customer's usage data.
