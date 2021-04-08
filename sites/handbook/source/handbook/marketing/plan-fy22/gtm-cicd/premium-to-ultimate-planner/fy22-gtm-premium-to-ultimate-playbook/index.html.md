@@ -183,6 +183,8 @@ Marketing is running a related demand gen campaign to drive leads to you using t
 
 ## Actions for sales to take
 
+Note TBD: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
+
 1. **Initial qualification meeting 1** - use #value-discovery above to assess business objectives. Use these recommended assets based upon areas of most interest:
    * Cost and/or complexity⇒ use ROI template (link) discussion   
    * vulnerabilities/risk ⇒  security deck (link) as preface to next mtg  
@@ -197,11 +199,19 @@ Marketing is running a related demand gen campaign to drive leads to you using t
    * Auditing and Compliance reporting (deck and PM/PMM to engage)
    * Security of software supply chain (deck and PM/PMM to engage)  
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer  
-**Metric:** Sales Accepted Opp
+**Metric:** Sales stage x
+
+1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.
+   * Share CISO deck and review more detailed ROI (if needed)
+   * Identify key value driver, champion, and economic buyer
+   * Ask for POV to prove value unique to this customer
+**Milestones:** agree to next meeting  
+**Metric:** Sales stage x 
 
 
+## Resources to use 
 
-## Resources to use
+Will have specific resources under actions above. This is for additional resources.
 
 * [Security pitch deck for shift left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing) 
 * [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)
@@ -209,24 +219,23 @@ Marketing is running a related demand gen campaign to drive leads to you using t
 
 ## How to measure progress
 
-- [ ] Gameplan with GitLab champion
+**Milestones** (identified by sales stages and/or SDLC fields)
+- [ ] Gameplan with GitLab champion (Medpic)
 - [ ] Meeting with Security team or other economic buyer
 - [ ] Agreement to do POV
+- [ ] POV requirements defined
+- [ ] Successful POV
+- [ ] Proposal 
+
+
+**Metrics:** 
+- [ ] Avg days per stage to progress
+- [ ] Longest step (common blockage?)
+- [ ] Economic buyer titles - common factor?
+- [ ] Retro on sales play
+
 
 Note: progress of the GTM Motion will be measured at the campaign level with clicks/opens/page visits, SAO (is there a code sales needs to use in SFDC?)
 
-
-# **Note: below is old content to reconcile with new above**
-
-
-**Ask these questions:**
-
-
-
-Use this **POV boiler plate**: xxx (SA team to provide)
-
-Key capabilities in Ultimate center around security, compliance, insights/analytics, and releasing better + faster: 
-
-add this to objection handling: Ultimate also includes priority support (4 business hour support), live upgrade assistance, and a Technical Account Manager who will work with you to achieve your strategic objectives and gain maximum value from your investment in GitLab.
 
 
