@@ -136,11 +136,11 @@ There are three layers of content in a presentation:
 
 - [Strategic Marketing Group Conversation 2020-01-22](https://docs.google.com/presentation/d/1xSxP_AztHHtLcYFd12Mf5yUIMVy9BU6QZnSebrlO7oo/edit): This has lots of links and a [supporting YouTube presentation](https://www.youtube.com/watch?v=2RfNsIJ7lPM).
 
-#### Cancellation
+#### Cancellation or Open Slot 
 
 We try not to cancel a GC. 
-We prefer to have half-prepared GCs over delaying them, but occasionally there may be a last-minute cancellation. 
-If a Group Conversation is cancelled, the EBA Team should ask a member of the E-Group to host a Pop-up AMA. 
+We prefer to have half-prepared GCs over delaying them, but occasionally there may be a last-minute cancellation or an open time slot on the calendar. 
+If a Group Conversation is cancelled or if there is an opening in the schedule, the EBA Team should ask a member of the E-Group to host a Pop-up AMA. 
 These should be called Pop-up AMAs so it's clear to team members that the AMA was added to the calendars solely as a function of a GC cancellation.  
 
 #### Additional Consideration for Functional Presentations
