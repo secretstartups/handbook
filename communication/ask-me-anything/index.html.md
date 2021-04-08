@@ -53,6 +53,9 @@ Occasionally an AMA might be held for a smaller audience. It is encouraged for a
 - The team member will work the EBA to ensure an agenda and facilitator are in place. 
 
 #### Reverse AMA Facilitators
+It is near impossible to be an effective facilitator while also being a participant.  So if you have been identified as a facilitator but would rather participate in the conversation, we encourage you to ask one of your designated facilitator team members (list tbc) to take your place.
+
+- (Placeholder for steps to become a facilitator)
 
 
 #### Scheduling an Reverse AMA
