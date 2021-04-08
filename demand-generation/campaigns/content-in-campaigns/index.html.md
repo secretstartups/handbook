@@ -132,6 +132,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 ```
 <!-- NAME EPIC: [type] <Name of Asset> (ex. [Guide] Gartner MQ for ARO) -->
+* [ ] Make sure epic is confidential, if applicable (i.e. Analyst Reports)
 
 ## Launch date: `to be added`
 
