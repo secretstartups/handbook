@@ -51,7 +51,7 @@ You can find more tools and tips in the following sub-pages:
 
 - Navigate to <https://gitlab.com/profile/account> in both your accounts.
 - Look for your username.
-  This operation has to be done quickly, otherwise you are risking to loose your awesome new username to someone else quicker than you.
+  This operation has to be done quickly, otherwise you are risking to lose your awesome new username to someone else quicker than you.
   We need to **swap** the usernames between both accounts, so you'll keep all your history, your privileges, issues, and MRs assigned to you, etc.
 - If you work with 2 monitors, open each browser on one monitor.
   If you don't, open them side by side, so that you can keep an eye on both at the same time.
