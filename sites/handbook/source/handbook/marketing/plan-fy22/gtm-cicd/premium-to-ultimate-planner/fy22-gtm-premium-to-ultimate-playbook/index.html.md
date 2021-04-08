@@ -52,7 +52,6 @@ Consider the following questions:
  
 ## Value Discovery
 
-Note: as we iterate, we can use [these DevSecOps disovery questions for MVC1](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format
 
 **Common Pains**  
 
@@ -69,6 +68,7 @@ GitLab Premium customers may be experiencing one or more of the below challenges
 
 An in-depth view of security pain points and probing questions around them can be found on the [DevSecOps resource page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions)
 
+
 **Common Benefits**  
 
 By upgrading from GitLab Premium to GitLab Ultimate, customers may experience one or more of the below benefits:
@@ -79,6 +79,7 @@ By upgrading from GitLab Premium to GitLab Ultimate, customers may experience on
 | Consistent compliance to policy    | less risk of vulnerabilities in production and easier audits |
 | Reduced security exposure, more scanning finds more vulnerabilities    | reduced risk to finance and reputation |
 | Predictable security costs that scale with DevOps | able to confidently forecast and budget as DevOps and App Sec both scale|
+
 
 **Required Capabilities**  
 
@@ -172,13 +173,33 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 
 Marketing is running a related demand gen campaign to drive leads to you using the account list above and this [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house)
 
-**Demand generation**
-1. Email #1
-1. Email #2
-1. Email #3
+**Marketing will be sending these emails to generate leads:**
+1. Email #1 (link) Are you getting the most out of GitLab?
+   CTA: Talk to your rep about what you’d like to achieve.  
+1. Email #2 (link) GitLab Ultimate can take your app sec to a new level
+   CTA: Ask your rep for a deep dive on any of these topics.  
+1. Email #3 (link) GitLab for Security and Compliance - Let’s do the math together
+   CTA: Use this template(link) and talk to your rep about how GL can help you with more predictable costs.
 
-## Actions to take
-1. placeholder
+## Actions for sales to take
+
+1. **Initial qualification meeting 1** - use #value-discovery above to assess business objectives. Use these recommended assets based upon areas of most interest:
+   * Cost and/or complexity⇒ use ROI template (link) discussion   
+   * vulnerabilities/risk ⇒  security deck (link) as preface to next mtg  
+   * compliance/software supply chain security ⇒ compliance deep dive deck (TBD as preface to next mtg (will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24  
+**Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
+**Metric:** Sales Accepted Opp
+
+1. **Meeting 2** - purpose is to understand customer’s interest in one or more of the topics of interest and provide a deep dive on:
+   * Vulnerability mgmt (deck and PM/PMM to engage)
+   * Container security (deck and PM/PMM to engage)
+   * Policy management (deck and PM/PMM to engage)
+   * Auditing and Compliance reporting (deck and PM/PMM to engage)
+   * Security of software supply chain (deck and PM/PMM to engage)  
+**Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer  
+**Metric:** Sales Accepted Opp
+
+
 
 ## Resources to use
 
