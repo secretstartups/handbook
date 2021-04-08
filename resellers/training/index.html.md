@@ -47,6 +47,7 @@ By completing the GitLab Sales Core and scoring above 80% on the tests, you’ll
 <ul>
 <li>Partner Portal</li>
 <li>Deal Registration</li>
+<li>Deal Registration Update as of March 22nd</li>
 <li>You’ve Got Issues</li>
 </ul>
 
@@ -84,11 +85,9 @@ By completing the GitLab Sales Core and scoring above 80% on the tests, you’ll
 <ul>
 <li>GitLab Company Presentation</li>
 <li>Feature Comparison</li>
-<li>Why Sell Ultimate / Gold</li>
+<li>Why Sell Ultimate</li>
 <li>Pricing</li>
 <li>Use Cases</li>
-<li>OPTIONAL Selling GitLab Professional Services</li>
-<li>OPTIONAL Plan and Manage Work with GitLab</li>
 <li>QUIZ:  GitLab Portfolio</li>
 </ul>
 
