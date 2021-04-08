@@ -37,9 +37,9 @@ Occasionally an AMA might be held for a smaller audience. It is encouraged for a
 
 #### E-Group Initiated
 
-- If an E-Group team member would like a Reverse AMA, they will directly or through their EBA contact an associated TMRG. If there isn't an associated TMRG the E-Group member or EBA will broadcast a message through there Slack channel to see if there is a population of members for the AMA. 
-- The E-Group member or EBA will create an issue (template to follow) tagging the [TMRG Leads](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) or a nominated facilitator for a non-tmrg AMA, a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), and Stella Treas (Chief of Staff)
-- The TMRG Leads will consult with the TMRG membership and accept or reject the request. If accepted the TMRG leads will provide an ideal timeframe for the AMA i.e. could suggest anytime in May.  
+- If an E-Group team member would like a Reverse AMA, they or their EBA will contact an associated TMRG. If there isn't an associated TMRG the E-Group member or EBA will broadcast a message through their Slack channel to see if there is a population of members for the AMA. 
+- The E-Group member or EBA will create an issue (template to follow) tagging the [TMRG Leads](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) or a nominated facilitator for a non-tmrg AMA (facilitator group to be determined), a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), and Stella Treas (Chief of Staff)
+- The TMRG Leads will consult with the TMRG membership and accept or reject the request. If accepted the TMRG leads will provide an ideal timeframe for the AMA, ideally within 4 weeks from the date of the request.  
 - Once accepted the EBA will provide a series of times that are suitable
 - The E-Group member or EBA will ensure that there is a a Reverse AMA facilitator for the session. (Guidance to follow)
 - The EBA will create a calendar invite and Agenda for the agreed time
