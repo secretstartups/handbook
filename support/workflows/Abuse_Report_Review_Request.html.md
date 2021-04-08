@@ -28,7 +28,7 @@ This workflow is to request a review of an Abuse Report.  All blocked accounts s
 1. For all other cases where no abuse report exists, including Zendesk, Twitter or slack - Complete [General_Request](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues) issue in the Security Operations Tracker. A member of the team will review the request within 24 hours. If the request is urgent, please reach out in the #abuse Slack channel.
 1.  Send the [`Support::SaaS::Blocked Accounts::Escalated-TrustAndSafety`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073013540) macro for the initial response to the user.
 
-> **Note:** The rest of this page is for **reference** only and should be updated to point to Security's workflow.
+> 
 
 ## NOTE
 
