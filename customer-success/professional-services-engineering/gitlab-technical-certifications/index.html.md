@@ -18,6 +18,39 @@ GitLab offers technical certifications to help the GitLab community and team mem
 
 GitLab is planning and developing several technical certifications to help the GitLab community and team members validate their ability to apply GitLab in their daily DevOps work. To earn certification, candidates must first pass a written assessment, followed by a hands-on lab assessment graded by GitLab Professional Services engineers. 
 
+#### Certification Journey Structure and Flow
+
+##### Structure
+
+There are three levels of GitLab Technical Certification.
+
+1. Associate
+2. Specialist
+3. Professional
+
+The Associate level is a prerequisite for the Specialist level, and the Specialist level is a prerequisite for the Professional level.
+
+##### Flow
+
+The following diagram shows the journey from Associate through Professional for the GitLab Certified DevOps Professional certification.
+
+```mermaid
+graph LR;
+  
+  A((GitLab Certified Associate))-->B([GitLab Certified CI/CD Specialist]);
+  style A fill:#bbf,stroke:#380D75,stroke-width:2px
+  style B fill:#bbf,stroke:#380D75,stroke-width:2px
+  style C fill:#bbf,stroke:#380D75,stroke-width:2px
+  style D fill:#bbf,stroke:#380D75,stroke-width:2px
+  style E fill:#bbf,stroke:#380D75,stroke-width:2px
+  A((GitLab Certified Associate))-->C([GitLab Certified Project Management Specialist]);
+  A((GitLab Certified Associate))-->D([GitLab Certified Security Specialist]);
+  E((GitLab Certified DevOps Professional))
+  B --> E
+  C--> E
+  D--> E
+```
+
 ### Why certification?
 
 #### For employers
