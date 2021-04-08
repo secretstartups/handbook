@@ -85,13 +85,13 @@ By upgrading from GitLab Premium to GitLab Ultimate, customers may experience on
 
 To achieve the positive business outcomes highlighted above, what required capabilities does the customer need to solve for and how will success be measured?
 
-| Required capability |  Metrics  |
+| Required capability |  Customer Metrics  |
 | ------------- |:-------------:| 
-| Comprehensive app sec scanning methods    | item 1 |
-| Scan results delivered to the developer in their CI pipeline    | item 2 |
-| Security governance    | item 3 |
-| Option to use 3rd party scanners | item 4 |
-| Vulnerability management | item 5
+| Comprehensive app sec scanning methods    | percent of apps scanned with multiple scan types  |
+| Scan results delivered to the developer in their CI pipeline    | vulnerabilities found pre-prod |
+| Security governance    | time spent on audits, fewer compliance issues |
+| Option to use 3rd party scanners | metric? |
+| Vulnerability management | mean time to resolution |
 
 ## Engaging the Customer
 
