@@ -182,6 +182,20 @@ As detailed in GitLab's [Definition of Diversity, Inclusion & Belonging ](/compa
 
 As part of GitLab's [Transparency](/handbook/values/#transparency) value, team members are encouraged to be open and honest with their manager. You are encouraged to learn and develop your skills without pressure to in turn seek promotion. If you feel you are not being supported in this way, please visit the [Need Help?](/handbook/people-group/#reach-peopleops) portion of the People Group Handbook.
 
+#### Recomendations for Managers to support the learning of team members
+
+Managers should support their direct reports with career and professional development goals. Managers can help direct reports by implementing the following into their [1-1](/handbook/leadership/1-1/), team meetings, and async communications. 
+
+- Encourage team members to incorporate learning and professional development into their [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1) or using [Gitlab Epics to track career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development). 
+- Ensure that direct reports prioritize learning, and support different learning styles: 
+     - Recommend blocking time to take [time out to learn](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign). This can be on weekly, monthly, or quarterly basis; whatever works best for the reports learning goals. 
+    - Organize communities of learning within your team and cross-functional ones to encourage [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning)
+    - Be the example for your team by sharing career and professional development pursuits you are currently looking into and completing. 
+- Create a team or functional [Learning Hub](/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team) on [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) to organize team learning paths and activities to promote self-service and self-paced learning. 
+    - Curate content in GitLab by reviewing offerings in [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/), the Handbook, external vendors, and open source material that are applicable to the role and skills needed for the team. 
+    - Document learning in a centralized knowledge base in GitLab Learn and a Handbook page. 
+
+
 ### E-Group Performance Enablement Review
 
 Effective FY21, each member of the E-Group will have a performance conversation with their direct manager, the [CEO](/company/team/#sytses), at the beginning of the new fiscal year. These conversations will assess alignment to each of our [credit values](https://about.gitlab.com/handbook/values/#credit), performance and personal development.
