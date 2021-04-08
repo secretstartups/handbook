@@ -276,7 +276,7 @@ Select the maintenance you need to reschedule.
 
 Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
 
-## Sending an update about a scheduled maintenance
+### Sending an update about a scheduled maintenance
 
 Enter the update provided by the Infrastructure team and confirm the appropiate broadcast channels with the team before proceed to sent the update.
 
