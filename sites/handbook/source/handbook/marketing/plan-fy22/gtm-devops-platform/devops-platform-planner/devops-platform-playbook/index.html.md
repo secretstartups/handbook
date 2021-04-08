@@ -10,18 +10,20 @@ title: "FY22 DevOps Platform Sales Play"
 **Objective** - . 
 
 Who is this sales play for?  
-* Primary: TBD 
-* Secondary: TBD  
-
-*Note: This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats.*
+* Primary: SDRs, SALs approaching new prospects 
+* Secondary: SALS, AEs, TAMs calling on existing customers and looking to broaden adoption by new roles
 
 ## Who to meet
 
-**Ideal Customer Profile**  - TBD
+**Ideal Customer Profiles**  
+- Transformation-minded leaders
+- Management personas interested in greater efficiency
+
 - Bonus points for:
-   - TBD
-   - TBD
-   - TBD
+   - Heavy focus on cross-team collaboration
+   - Multiple roles being filled by individual contributors (e.g., needing to jump from development to security or product manager to tester)
+   - Multiple-vendor DevOps toolchain in place
+   - Existing resources already assigned to integration and maintenance
 
 **Target Buyer Personas**
 
