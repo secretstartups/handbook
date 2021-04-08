@@ -12,7 +12,7 @@
 
 Leverage product usage data (i.e., license, active users, use cases, features) from the product to:
 
-1. Accelerate customer's realization of value from the GitLab platform and delivery to customers' desired business outcomes with a world-class customer experience
+1. Accelerate ability for customers to realize value from the GitLab platform and see delivery against desired business outcomes through a world-class customer experience
 2. Improve the GitLab platform by utilizing customer usage as to evaluate and improve to product value, quality, and usability
 3. Improve net dollar retention by efficiently retaining customers and assisting in account expansion 
 
