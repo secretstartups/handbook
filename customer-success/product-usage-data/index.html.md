@@ -25,7 +25,7 @@ Understanding a customer's use of the GitLab platform enables GitLab to:
 - Ensure expected value is delivered through the adoption of the GitLab platform
 - Monitor the customer's usage to ensure they are adopting licenses, use cases, and features to support their business objectives and goals
 - Provide data to support delivery to a customer's return-on-investment (ROI) proposal and/or justify additional investments 
-- Continuously improve the product value, quality, and usability by monitoring and understanding customer usage (e.g., high and low usage of stages or features, user experience measurements, etc.)
+- Continuously improve product value, quality, and usability by monitoring and understanding customer usage (for example, high and low usage of stages or features, user experience measurements, etc.)
 - Recommend best practices and enablement content that would help customers adoption and/or operationalize the platform capabilities 
 - Identify and recommend additional features or use cases that would add additional value to the customer
 - Identify adoption issues, delays, or barriers to trigger assistance by GitLab team members or digital content
