@@ -59,11 +59,15 @@ Note: as we iterate, we can use [these DevSecOps disovery questions for MVC1](ht
 GitLab Premium customers may be experiencing one or more of the below challenges:
 
 | Challenges ("Before Scenarios")  | So What? ("Negative Consequences")  |
-| ------------- |:-------------:| 
+| ------------- |-------------| 
 | Difficulty writing secure code without becoming security experts   | Increased risk  |
-| Costly triaging and tracking of vulnerabilities    | Higher TCO, inefficient remediation process |
-| Managing complex tool chains, plugins, and fragile automation scripts   | Added cost and maintenance overhead |
-|   challenge 4          |      negative cons 4      |
+| Vulnerabilities found late in the SDLC | Costly remediation, blocks production at last minute |
+| Costly triaging and tracking of vulnerabilities    | Inefficient use of scarce security resources, lengthy remediation process |
+| Managing complex tool chains, plugins, and fragile automation scripts   | Added cost, maintenance, and admin overhead |
+|   How to ensure scans are executed consistently and policies applied          |      teams may skip scans or use exceptions to push ahead, difficult to see across tools when this happens      |
+| Security costs are unpredictable or concerning as DevOps scales | must find more money as number of apps grows |
+
+An in-depth view of security pain points and probing questions around them can be found on the [DevSecOps resource page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions)
 
 **Common Benefits**  
 
@@ -71,9 +75,10 @@ By upgrading from GitLab Premium to GitLab Ultimate, customers may experience on
 
 | Desired Future State (“After Scenarios”) | So What? (“Positive Business Outcomes”)   |
 | ------------- |:-------------:| 
-| item 1    | item 1 |
-| item 2    | item 2 |
-| item 3    | item 3 |
+| Greater efficiencies for both security and dev    | less risk and greater velocity of DevOps |
+| Consistent compliance to policy    | less risk of vulnerabilities in production and easier audits |
+| Reduced security exposure, more scanning finds more vulnerabilities    | reduced risk to finance and reputation |
+| Predictable security costs that scale with DevOps | able to confidently forecast and budget as DevOps and App Sec both scale|
 
 **Required Capabilities**  
 
@@ -81,19 +86,24 @@ To achieve the positive business outcomes highlighted above, what required capab
 
 | Required capability |  Metrics  |
 | ------------- |:-------------:| 
-| item 1    | item 1 |
-| item 2    | item 2 |
-| item 3    | item 3 |
+| Comprehensive app sec scanning methods    | item 1 |
+| Scan results delivered to the developer in their CI pipeline    | item 2 |
+| Security governance    | item 3 |
+| Option to use 3rd party scanners | item 4 |
+| Vulnerability management | item 5
 
 ## Engaging the Customer
 
 Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format?
 
 | Questions to Better Understand the Customer’s needs  | Discovery questions  |
-| ------------- |:-------------:| 
-| current state    | questions 1, 2, 3 |
-| future state    | questions 1, 2,3 |
-| Required capabilities   | questions 1, 2, 3 |
+| ------------- |-------------| 
+| current state    | 1. Are you wanting to shift security left? How is that going?<br>2. What security tools are you using today?<br>3. Are you confident you can secure containers and Kubernetes?|
+| future state    | 1. What if you could simplify your shift-left efforts?<br>2. What challenges do you have with your existing tools and can you predict their cost 2 yrs out?<br>3. Would you like to better protect containers and K8s? |
+| Required capabilities   | 1. Could security integrated into CI help you get there?<br>2. What if you had one, known cost that enabled ALL your security scans, with results to the developer in their CI pipeline, along with vulnerability management for the security pro? What if you could either eliminate some existing security tools or reduce their use/cost?<br>3. What if you could scan containers and monitor their host and their traffic within K8s clusters? |
+
+Note: if they say they do NOT want to shift left and empower developers to find and fix security flaws, you are probably speaking with a security analyst. Talk to his/her boss, DevOps, or application dev/engineering team.
+
 
 ## Positioning Value 
 
@@ -105,7 +115,7 @@ Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketi
 
 **How GitLab Does It**
 
-- [How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements)
+- [How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements) (link includes benefits, videos, and more.)
 
 **How GitLab Does It Better** 
 
@@ -118,22 +128,27 @@ With GitLab Ultimate, organizations are able to truly shift security left (and r
 1. Detailed and Actionable Scan Results Displayed in MRs created from Feature Branch
 1. Block MRs based on Security Policy
 1. Compliance Management
+1. Fuzz testing, including API testing
+1. Offline environments
+1. Vulnerability management (vs point solutions)
 
-*see provided link for additional differentiators and details*
+*see provided link for additional details including value and videos*
 
-- **[More proof points](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#proof-points---customers)**
+**[Proof points](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#proof-points---customers)**
 
 
 ## Objection handling
 
-- [Potential objections](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections)
 
-**Objection Response**
+**Most common objections**
 
 | Objection  | Response    |
 | ------------- |:-------------:| 
-| objections 1, 2, 3    | responses 1, 2, 3 |
-| Ultimate is 5x.       | response.         |
+| How does your scanning capability compare to leading scanners? How accurate are they?    | [accuracy slide](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g9e2080204d_0_1084), [G2 SAST](https://www.g2.com/categories/static-application-security-testing-sast#grid) |
+| Can you integrate with my  incumbent scanner? | We can [work with other scanners](https://docs.gitlab.com/ee/development/integrations/secure.html) or [replace them](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g9e2080204d_0_3374) |
+| Ultimate is 5x.       | [Why Ultimate](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)         |
+
+Other objections and responses can be found in the [FAQ deck](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g2823c3f9ca_0_9) with more detail on [Potential objections](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#potential-objections) here.
 
 ## Services
 
@@ -185,16 +200,6 @@ Note: progress of the GTM Motion will be measured at the campaign level with cli
 
 **Ask these questions:**
 
-1. Happy with Jira? 
-   * No - talk about GitLab Plan Plan pitch
-1. Wanting to shift security left in DevOps/Agile environment?
-   * Yes - Lead with integrated platform to simplify
-   * No - If security says so, verify with dev and use security pitch deck
-1. Incumbent tools provide insight into psych 
-   * If Snyk or Checkmarx, continue with integrated platform
-   * If Veracode, Fortify, Synopsis, assess priorities to reduce vs replace 
-1. Using containers & Kubernetes?
-   * Yes - Lead with integrated platform to modernize software dev
 
 
 Use this **POV boiler plate**: xxx (SA team to provide)
