@@ -22,20 +22,23 @@ First, be sure to validate the following:
 
 ### Entity Contract Signatories
 
+This chart reflects the available signatories for each of GitLab's entities. They are listed in order of preferred signatory first. 
+
 | Entity | Signatory | 
 |-------- | -----|
-| GitLab Inc | Kelly Murdock  | 
-| GitLab Federal LLC    |       Marc Kriz     |  
-| GitLab BV Belgium, Dutch & English | TBD | 
-| GitLab BV, Netherlands | TBD | 
-| GitLab GmbH | Kelly Murdock | 
-| GitLab PTY Ltd, Australia | TBD | 
-| GitLab PTY Ltd, New Zealand | TBD | 
-| GitLab Ireland LTD | Carol Teskey | 
-| GitLab UK Ltd | Carol Teskey | 
-| GitLab Canada Corp | Craig Mestel | 
-| GitLab GK, Japan | TBD | 
-| GitLab IT BV | TBD | 
+| GitLab Inc | Kelly Murdock, Pattie Egan, Wendy Nice Barnes, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document.   | 
+| GitLab Federal LLC    |       Bob Stevens, Marc Kriz     |  
+| GitLab BV Belgium, Dutch & English | Carol Teskey (POA),Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab BV, Netherlands | Carol Teskey (POA), Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab GmbH | Kelly Murdock (POA), Carol Teskey (POA), Igor Groenewegen-Mackintosh | 
+| GitLab PTY Ltd, Australia | Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab PTY Ltd, New Zealand | Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab Ireland LTD | Carol Teskey, Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab UK Ltd | Carol Teskey (POA), Igor Groenewegen-Mackintosh | 
+| GitLab Canada Corp | Craig Mestel, Dale Brown | 
+| GitLab GK, Japan | Dale Brown, Craig Mestel | 
+| GitLab IT BV | Carol Teskey (POA), Craig Mestel, Igor Groenewegen-Mackintosh | 
+| GitLab South Korea | Dale Brown, Craig Mestel | 
 
 #### Offer Details Access steps
 Not all individuals who are signatories for entities have the appropriate access in Greenhouse and this is something that has to be set up on a per req basis at time of contract sending. 
