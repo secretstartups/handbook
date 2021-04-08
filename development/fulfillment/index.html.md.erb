@@ -242,7 +242,7 @@ The CustomersDot has different types of tests running:
 1. Unit tests (specs, these could be of many types, such as controller specs)
 1. Integration tests (specs, mocking external calls)
 1. Frontend tests
-1. E2E integration tests (TBD)
+1. E2E integration tests [via Watir](https://github.com/watir/watir)
 
 We also have a flag `VCR` that mocks external calls to Zuora by default. We have a [daily pipeline](https://gitlab.com/gitlab-org/customers-gitlab-com/pipeline_schedules) that runs at 9AM UTC with the flag set so the API calls hit the Zuora sandbox and we are notified of any failure (due to potential API changes).
 
