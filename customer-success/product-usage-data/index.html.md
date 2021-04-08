@@ -1,8 +1,7 @@
-
 ---
 layout: handbook-page-toc
-title: "Product Usage Data Overview"
-description: "The visiona and overview for how to apply product data for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
+title: "Overview: Product Usage Data"
+description: "The vision and overview for how to apply product data for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
 ---
 
 ## On this page
@@ -42,5 +41,6 @@ Product Usage Data will be accessible in:
 * [High-Level Visual of GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey)
 * [Product Intelligence Overview](https://about.gitlab.com/handbook/product/product-intelligence-guide/) (details on product usage data)
   
+
 
 
