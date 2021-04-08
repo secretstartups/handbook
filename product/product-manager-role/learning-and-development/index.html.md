@@ -43,6 +43,7 @@ GitLab's Chief Product Officer shares insights on what makes an opporunity canva
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8k1jWejojA" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
+This [opportunity canvas team chat (45 min)](https://youtu.be/ZXbwtLoxPjM) is an example of how to approach identifying opportunities in preparation for doing a canvas.
 ## General Product Management learning content 
 
 This content is divided into five key competencies for Product Managers. 
