@@ -37,7 +37,7 @@ The following shows the high-level view of the capabilities that we will be deve
 
 ## Product Usage Data 
 
-Product usage data (also called "product telemetry data") is key to driving customer and GitLab outcomes by providing visibility to customers' adoption of licenses, use cases, and capabilities. For more about how we use and plan to use this data, please see our ["Product Usage Data" vision page](/handbook/customer-success/product-usage-vision/). 
+Product usage data (also called "product telemetry data") is key to driving customer and GitLab outcomes by providing visibility to customers' adoption of licenses, use cases, and capabilities. For more about how we use and plan to use this data, please see our ["Product Usage Data Vision" page](/handbook/customer-success/product-usage-data/). 
 
 ## Lifecycle Stages
 
