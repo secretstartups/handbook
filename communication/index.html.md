@@ -664,7 +664,7 @@ Make a pre-recorded video presentation on our [Unfiltered YouTube channel](https
 4. Standardizes the approach to meetings across the organization. 
 5. Pre-recorded meetings have transcripts that can boost content value, help team members focus, and increase accessibility. 
 6. Recordings can be sped up and rewound by team members watching on their own time. 
-7. Enables [nuerodiverse](/handbook/values/#neurodiversity) equality for all team members who may prefer audio versus visual learning.  
+7. Enables [neurodiverse](/handbook/values/#neurodiversity) equality for all team members who might take some time to process the presentation and reflect on their questions before asking them.  
 8. Allows for selective watching of presentation material for a certain period. 
 
 ## Indicating Availability
