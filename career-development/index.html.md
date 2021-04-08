@@ -536,6 +536,8 @@ All exceptions should be documented in a handbook page local to the workgroup or
 | Staff Security Engineer Red Team | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517282157) |
 | Staff Security Engineer Security Research | Security | 2 : Team | [Issue](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/83#note_517284355)|
 | Engineering Data Analyst |Quality| 2 : Team | Hyperlink TBD |
+| Distribution Team | Enablement | 2 Staff+ : Team | [Distribution Team Page](/handbook/engineering/development/enablement/distribution/#team-ic-gearing) |
+| Geo Team | Enablement | 2 Staff+ : Team | [Geo Team Page](/handbook/engineering/development/enablement/geo/) |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
