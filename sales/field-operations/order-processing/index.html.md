@@ -1142,6 +1142,14 @@ Deal Desk must tag the Revenue Recognition team to review opportunities in the f
     *   Guest or Reporter Access SKU(s) in addition to a standard subscription product SKU on the same quote
     *   The usage of any free SKU
 
+**Opportunity Rejection Reasons** 
+
+Opportunity Rejection reasons are tracked to ensure efficiency inside and outside of GitLab by identifying trends for opportunity rejections. 
+
+    *   If an opportunity is missing any booking requirement, the Deal Desk team member will reject the opportunity
+    *   At time of Rejection, the Deal Desk team member will populate the Rejection Reason field with reason codes 
+    *   If opp is rejected and Rejection Reason field is left blank, the Deal Desk team member who processed the order will be responsible for reconciling opps at the end of the month
+
 </details>
 
 
