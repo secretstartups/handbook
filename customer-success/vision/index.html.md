@@ -15,7 +15,7 @@ _"Customer Success is when customers achieve their desired outcome through inter
 
 ## Objective
 
-Create a company-wide customer success approach, providing an engagement framework for the Customer Success organization and integrating related programs and operations from the GitLab operations (i.e., marketing, sales, customer success, product / engineering and support).
+Create a company-wide customer success approach, providing an engagement framework for the Customer Success organization and integrating related programs and operations from GitLab operations (i.e., marketing, sales, customer success, product / engineering and support).
 
 ## Goals
 
