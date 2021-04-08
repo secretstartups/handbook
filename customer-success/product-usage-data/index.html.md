@@ -77,7 +77,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 #### Product
 
 - **ADD DETAILS ON HOW THE XMAU DATA IS USED OR LINK TO APPROPRIATE PAGES**
-- Identify customers who are using certain GitLab stages or use cases for feedback (e.g., survey, interviews, etc.)
+- Identify customers who are using certain GitLab stages or use cases for feedback (through surveys, interviews, etc.)
 
 ### Metrics
 
