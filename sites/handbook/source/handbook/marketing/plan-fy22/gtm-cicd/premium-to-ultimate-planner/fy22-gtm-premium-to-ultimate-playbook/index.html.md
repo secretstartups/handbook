@@ -7,9 +7,7 @@ title: "FY22 GTM Sales Play <br> Upsell Premium  => Ultimate"
 
 ## Overview
 
-**Objective**
-
-Convert landed accounts that are already using CI/CD to expand from GitLab Premium to GitLab Ultimate. 
+**Objective** - Convert landed accounts that are already using CI/CD to expand from GitLab Premium to GitLab Ultimate. 
 
 Who is this sales play for?  
 * Primary: SALs and AEs who call on one or more existing GitLab Premium customers  
@@ -19,9 +17,7 @@ Who is this sales play for?
 
 ## Who to meet
 
-**Ideal Customer Profile**  
-
-Existing GitLab Premium customers already using CI/CD
+**Ideal Customer Profile**  - Existing GitLab Premium customers already using CI/CD
 - Bonus points for:
    - Organizations at lower maturity level undergoing or planning to undergoing tranformation
    - Siloed teams with disparate tools, especially security, lacking visibility at the individual level and executive level
@@ -53,7 +49,7 @@ Consider the following questions:
 ## Value Discovery
 
 
-**Common Pains**  
+### Common Pains  
 
 GitLab Premium customers may be experiencing one or more of the below challenges:
 
@@ -69,7 +65,7 @@ GitLab Premium customers may be experiencing one or more of the below challenges
 An in-depth view of security pain points and probing questions around them can be found on the [DevSecOps resource page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions)
 
 
-**Common Benefits**  
+### Common Benefits  
 
 By upgrading from GitLab Premium to GitLab Ultimate, customers may experience one or more of the below benefits:
 
@@ -81,7 +77,7 @@ By upgrading from GitLab Premium to GitLab Ultimate, customers may experience on
 | Predictable security costs that scale with DevOps | able to confidently forecast and budget as DevOps and App Sec both scale|
 
 
-**Required Capabilities**  
+### Required Capabilities  
 
 To achieve the positive business outcomes highlighted above, what required capabilities does the customer need to solve for and how will success be measured?
 
@@ -108,19 +104,17 @@ Note: if they say they do NOT want to shift left and empower developers to find 
 
 ## Positioning Value 
 
-**Elevator pitch** 
+### Elevator pitch 
 
 > GitLab Ultimate is ideal for projects with executive visibility and strategic organizational usage. Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. A single tool DevOps teams need to find and fix vulnerabilities in application code, its environments, and to manage their risk from detection through remediation.
 
 *Note: Everything you get in Premium as well as free guest users, 50,000 CI/CD minutes, a named TAM, and more…*
 
-**How GitLab Does It**
+### How GitLab Does It
 
 - [How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements) (link includes benefits, videos, and more.)
 
-**How GitLab Does It Better** 
-
-Note: suggested format has Differentiators and Benefits followed by Proof Points while the resource page has differentiator, value, proof point, demo. I propose we leave the summary here but link to the resource page as mvc1. For mvc2 we can reformat the resource page (if needed).
+### How GitLab Does It Better 
 
 With GitLab Ultimate, organizations are able to truly shift security left (and right!) to reduce exposure and align security with dev. Emergent advantages include unparalleled visibility and insights and much easier traceability with consistent compliance to policies or regulatory requirements for cleaner, easier audits. 
 
