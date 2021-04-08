@@ -142,8 +142,8 @@ Escalating a Zendesk ticket from Support to Trust and Safety:
 
       * [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
       * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
-      * [DMCA Requests](/handbook/dmca/) - Reporter should forward notice to dmca@gitlab.com. 
-      * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new) - Use the `Description` dropdown.
+      * [DMCA Requests](/handbook/dmca/) - Reporters should forward notice to dmca@gitlab.com. 
+      * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)   
 
 ### Escalate ZenDesk ticket to Security
 
