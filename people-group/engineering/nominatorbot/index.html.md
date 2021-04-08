@@ -28,13 +28,16 @@ The manager will receive a message with the full nomination and will be asked to
 nominee and to share it in the #team-members-update channel on Slack.
 
 ## Features
+
 ### Update a nomination
+
 Since 2021-03-05 all approvers also have the uption to `update` a nomination. Sometimes
 the nomination although valid, doesn't contain enough information. By clicking the update button the
 approver can edit the nomination message. Once updated, it can be approved (or rejected) and it will be
 send to the next approver with the updated message.
 
 ### Retrigger the approver
+
 Sometimes a nomination is "stuck" with an approver. A nominator can use the home section of the nominatorbot
 to let the bot send a new message to the person who needs to approve. We only allow a retrigger when:
 
@@ -46,10 +49,61 @@ Please be mindful using this retrigger functionality. There could be a valid rea
 to approve or reject the nomination.
 
 ### Follow the state of a nomination as a manager
+
 When you've approved a nomination and you want to be able to follow up the nomination. In the home section of the
 nominator bot, there is a button `Reviewed Nominations`. Upon clicking that button a list will be loaded with all
 the nominations you've reviewed and their current status.
 
+## Frequenty asked questions
+
+### How can I nominate someone?
+Anywhere in Slack, just type `/nominate` and a modal should open where you can submit the form. 
+Alternatively, you can go to the Home tab of the `Nominator` and click the `Nominate!` button. This 
+will do the same as when you just type `/nominate`. 
+
+### I nominated someone recently and I still haven't heard back?
+
+The first step you should do is have a look at the Nominator's Home section in Slack. There you 
+will see a list of all the nominations you've made and what the status is. For every nomination we show:
+
+- the nominee
+- the status 
+- values
+- the message
+
+The status is what you can use to see where the nomination might be stuck. Different options:
+
+- Waiting for manager approval: this means that the manager of the nominee has not approved it yet. 
+- Waiting for second level approval: this means that the manager of the manager of the nominee has not approved it yet.
+- Waiting for People Business Partner approval: this means that the relavant People Business Partner of the nominee has not approved it yet
+- Waiting for Total Reward approval: this means that someone from the Total Rewards team still need to approve it
+
+There are also the following statuses, although at this point the nomination approval flow is wrapped up:
+- Rejected: sadly the nomination was rejected. The bot doesn't reach out when this happens, as we ask the rejector to reach out
+- Approved: great news, this means the nomination was approved. The bot should've reached out to let you know about this.
+
+Secondly, if the current person who needs to approve has been notified of a nomination more than 24hours ago, you can use the
+`Remind Approver` button next to the nomination in this home section. This will ping the current approver by starting a thread on
+the original message with the following message:
+
+`:waves: <@#{channel}> Friendly ping not to forget about this nomination.`
+
+If all of the above doesn't help you move the process forward, feel free to reach out to someone from People Group Engineering. 
+We will need the name of the nominee, please only do this in DM.
+
+### I approved a nomination but I haven't heard back?
+First thing to note is that only the manager of the nominee will hear back when the nomination is fully approved. So if you're the second level approver, you will not get any notifications.
+
+However, every approver will have a section in the Nominator's Home tab on Slack where they can see all the nominations they've approved. 
+
+1. In Slack, open the Nominator conversation
+1. Click on the `Home` tab
+1. Click on `Reviewed nominations`
+
+This will load all the nominations you've reviewed, you will be able to see the state that nominations are in. These states are all the 
+same as mentioned in the above `I nominated someone recently and I still haven't heard back?` question.
+
 ## Requests and or bugs
+
 Upcoming iterations can be found [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/1655060?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=p-nominatorbot)
 Issues with the bot and/or feedback about the process can be created [here](https://gitlab.com/gitlab-com/people-group/peopleops-eng/nominatorbot/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). We welcome contributions to the project!
