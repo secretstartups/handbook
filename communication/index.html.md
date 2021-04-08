@@ -651,13 +651,11 @@ Some of the most common meetings problems are outlined below:
 
 ### No Presenting in Meetings 
 
-Meetings take up valuable time and resources for the company. They are expensive since they require synchronous time. A pre-recorded presentation, versus presenting during the meeting, enables attendees to benefit from the meeting time. Pre-recording the content will allow team members to comprehend the information presented asynchronously. In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in meetings. 
+If you are hosting a meeting, it's okay not to have a presentation or have a pre-recorded presentation. What's not okay is doing the presentation during the session because you are taking valuable synchronous time away from the attendees, which could be asynchronous. It is easier to watch YouTube in more locations than joining a Zoom call. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). Meetings take up valuable time and resources for the company. They are expensive since they require synchronous time. In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in meetings. 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/32GJ2ehUBhs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
-If you are hosting a meeting, it's okay not to have a presentation or have a pre-recorded presentation. What's not okay is doing the presentation during the session because you are taking valuable synchronous time away from the attendees, which could be asynchronous. It is easier to watch YouTube in more locations than joining a Zoom call. A recording makes content more accessible, prevents confusion, and increases participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). 
 
 Make a pre-recorded video presentation on our [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A), and attach it to the meeting agenda. Announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides. 
 
