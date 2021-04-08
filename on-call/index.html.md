@@ -26,7 +26,7 @@ If you're a GitLab team member looking for help with a security problem, please 
 - Provide support to the release managers in the release process.
 - As noted in the [main handbook](/handbook/paid-time-off), after being on-call take time off. Being available for issues and outages will wear you off even if you had no pages, and resting is critical for proper functioning. Just let your team know.
   - Specific to team members in Australia review the [Time in lieu policy here](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/)
-- For on-call it's the responsibility of the team members to act in compliance with local rules and regulations. If ever in doubt, please reach out to your manager and/or People Business Partner. 
+- For on-call it's the responsibility of the team members to act in compliance with local rules and regulations. If ever in doubt, please reach out to your manager and/or [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). 
 
 ## Customer Emergency On-Call Rotation
 
