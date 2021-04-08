@@ -187,6 +187,7 @@ As part of GitLab's [Transparency](/handbook/values/#transparency) value, team m
 Managers should support their direct reports with career and professional development goals. Managers can help direct reports by implementing the following into their [1-1](/handbook/leadership/1-1/), team meetings, and async communications. 
 
 - Encourage team members to incorporate learning and professional development into their [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1) or using [Gitlab Epics to track career development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development). 
+- Utilize the [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) for professional development opportunities
 - Ensure that direct reports prioritize learning, and support different learning styles: 
      - Recommend blocking time to take [time out to learn](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign). This can be on a weekly, monthly, or quarterly basis; whatever works best for the reports learning goals. 
     - Organize communities of learning within your team and cross-functional ones to encourage [social learning.](/handbook/people-group/learning-and-development/learning-initiatives/#social-learning-through-live-learning)
