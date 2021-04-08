@@ -85,7 +85,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 - [License Utilization](https://about.gitlab.com/handbook/customer-success/tam/gainsight/license-usage/): Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
 - [xMAU](https://about.gitlab.com/handbook/product/performance-indicators/#three-versions-of-xmau) leverages usage data and is a key performance indicator (KPI) for the Product Team
 - Use case expansion playbook success will be measured by customer use case adoption
-- Use case health score will leverage use case adoption (i.e., minimum to advanced). This is used to understand which use cases have been adopted and what is the progress on adopting those use cases.
+- Use case health score will leverage use case adoption (scored as minimum to advanced). This is used to understand which use cases have been adopted and what is the progress on adopting those use cases.
 - Customer health scores (planned) will leverage use case health scores. This is used to analyze and understand the customer's overall health through engagement and depth of deployment. This will also leverage other inputs like support cases and NPS/customer sentiment surveys.
 
 ## Data Privacy
