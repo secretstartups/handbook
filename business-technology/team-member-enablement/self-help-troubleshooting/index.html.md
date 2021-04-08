@@ -168,11 +168,12 @@ Our security team also did an amazing write-up for Linux installations - [Linux 
 
 You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. To do this follow the below instructions
 
+***Please make sure to backup your Mac before you commence any updates***
+
 1. Head to Finder on your Mac and select Applications
 2. Click on Self Service
-3. On the left hand side you'll see OS Updates
-![image-1.png](./image-1.png)
-4. From here you'll have 2 options, either the last version of MacOS Catalina (10.15.7) or the newest version of MacOS Big Sur. Click on the one you wish to install. Please note you cannot downgrade to lower OS
+3. On the left hand side you'll see OS Updates, click on that
+4. From here you'll have 2 options, either the last version of MacOS Catalina (10.15.7) or the newest version of MacOS Big Sur. Click on the one you wish to install. This will redirect you to the Apple Store where you can install the OS .Please note you cannot downgrade to a lower OS
 5. This can take upwards of an hour, so please factor in that time when you are updating
 
 
