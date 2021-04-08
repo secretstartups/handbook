@@ -63,7 +63,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
   - TAM may provide enablement content (i.e., product documentation, educational videos, etc.), guidance on best practices and approaches, key capabilities to adopt, and/or services to ensure successful adoption.
   - TAM engages with customer to understand if there are any issues or blockers with the customer (e.g., training or enablement gaps, change management delays, technical issues, configuration problems, etc.). Depending on the issue, support and/or product may be engaged to assist the customer.
   - In a digital-only engagement, relevant content could be delivered to the customer (i.e., best practice, configuration guides, education / enablement videos) based on the customer's usage data.
-  - When mature adoption of desired use case(s) are completed, additional use cases or capabilties that would provide additional value to the customer may be recommended. 
+  - When mature adoption of desired use case(s) is complete, we may recommend additional use cases or capabilities that would provide added value to the customer. 
 - The customer's product usage may indicate there are capabilities in a higher subscription teir that may provide additional value to the customer. This would be proposed by the TAM, sales representative, or digitally. 
 
 #### Process and Playbooks
