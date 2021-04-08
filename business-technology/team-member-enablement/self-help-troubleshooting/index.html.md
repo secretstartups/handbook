@@ -221,11 +221,13 @@ Once this is complete you can then install OS by clicking on Reinstall macOS fro
 
 ## Enrolling your Chromebook into GitLab Google Device Management
 
-1. Turn on your Chromebook and follow the on-screen instructions until you see the sign-in screen. Don't sign in yet.
-2. Choose an option to get to the enrollment screen: Press Ctrl+Alt+E. Click More options and then Enterprise enrollment (not available on Chromebook tablets).
+1. Turn on your Chromebook, connect it to a network and follow the on-screen instructions until you see the **Who's using this Chromebook** screen. Don't sign in yet. 
+2. You should see an option at the bottom for **Enterprise Enrollment**: If you do not see this you can press **ctrl+alt+e** and it should bring you to the Enterprise Enrollment Screen. 
 3. Enter the username and password from your Google admin welcome letter or for a Google Account that has eligibility to enroll. This is your GitLab username and password.
-4. If prompted, enter the asset ID and location and click Next.
+4. Once you successfully input your registered Gitlab email address an Okta prompt should appear. You should now enter the email address and password you use for Okta. Afterwards you should be prompted to input a 2FA code or verify a push notification
 5. When you get a confirmation message that the device is successfully enrolled, click Done.
+6. Lastly, you should be prompted one final time to **Sign in to your Chromebook**. Click next and repeat the steps above. (input Okta email and password + 2FA or push notification)
+7. Congrats! You have now completed your sign in an enrollment. 
 
 ## Can't find what you are looking for?
 
