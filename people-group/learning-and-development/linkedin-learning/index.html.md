@@ -164,6 +164,8 @@ The L&D Team will provision access to team members who want access to paid conte
 1. Enter team members GitLab email address 
 1. Click "Confirm" in the bottom right 
 
+If you are on the L&D Team, you can watch a [video walkthrough](https://drive.google.com/file/d/17N8g2llYGAgenx1R0W-MPebiKO6xQG9j/view?usp=sharing) of the provisioning process when adding team members via email (not CSV upload). 
+
 ### Deprovisioning Access 
 
 The L&D Team will deprovision access to LinkedIn Learning to team members who leave GitLab by going through the following steps: 
