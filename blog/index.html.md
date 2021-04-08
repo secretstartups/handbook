@@ -433,9 +433,11 @@ Occasionally, some blog posts are better suited to publishing natively by the au
 
 Please see the [publishing process](/handbook/marketing/blog#publishing-process) before you get started.
 
-To publish to the blog, you will need to create a merge request for the www-gitlab-com project with a file of your blog post content formatted in Markdown. Please read through the [Markdown guide](/handbook/markdown-guide/) for reference.
+To publish to the blog, you will need to create a merge request for the www-gitlab-com project with a file of your blog post content formatted in Markdown. There are a few ways to go about this outlined [below](#when-youre-ready-to-create-your-blog-post). **If you choose to use Netlify CMS you likely won't need to know all the formatting in this section so feel free to [skip ahead](#when-youre-ready-to-create-your-blog-post).** 
 
-If you like, you can start by drafting your post in a Google Doc (feel free to make a copy of this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit)). Below are instructions for formatting the content of your file correctly. If you already have your content ready to go, you can jump ahead to see [how to add your blog post file with a merge request](#when-your-post-is-formatted-and-youre-ready-to-create-your-merge-request).
+Please read through the [Markdown guide](/handbook/markdown-guide/) for reference.
+
+If you like, you can start by drafting your post in a Google Doc (feel free to make a copy of this [blog post template](https://docs.google.com/document/d/1TavHlYbHQ8U1C82TEzcYaLS9l0sm89jEcBNQ0gBgkcw/edit)). Below are instructions for formatting the content of your file correctly. If you already have your content ready to go, you can jump ahead to see [how to add your blog post file with a merge request](#when-youre-ready-to-create-your-blog-post).
 
 ### Frontmatter
 
@@ -1063,13 +1065,20 @@ Read more on [Making Gifs in the Product Handbook](/handbook/product/making-gifs
 
 Image sizes can exceed megabytes and slow down the site rendering. Follow the proportions above and learn more about [resizing images](/handbook/tools-and-tips/#resizing-images).
 
-## When your post is formatted and you're ready to create your merge request
+## When you're ready to create your blog post
 
 There are three ways to create a blog post MR:
 
-1. Use [Netlify CMS](/handbook/marketing/netlifycms/)
+1. Use [Netlify CMS](/handbook/marketing/netlifycms/)*
 1. Add a new file to `sites/marketing/source/blog/blog-posts/` [in the UI](#creating-a-blog-post-mr-from-the-ui)
 1. [Use the terminal](#creating-a-post-from-the-command-line) on your own computer
+
+*We have recently implemented Netlify CMS for drafting and publishing blog posts. This is fairly new, and there are several videos to help you learn how to use this tool.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/A5_RIEYyIjo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
  
 ### Preparing blog posts privately
 
@@ -1220,7 +1229,7 @@ Hit **enter** or **return**, then you'll be prompted to enter the post title. Ty
 
 ### Adding a cover image to your blog post MR
 
-Most blog posts require a new [cover image](#cover-image). You should upload your chosen image to the same branch as your blog post file, so that it is all included in the same MR. This means it will be published to the website simultaneously, and also allows you to preview your cover image in the review app.
+Most blog posts require a new [cover image](#cover-image). You should upload your chosen image to the same branch as your blog post file, so that it is all included in the same MR. This means it will be published to the website simultaneously, and also allows you to preview your cover image in the review app. **If you're using [Netlify CMS](/handbook/marketing/netlifycms/) you can add your cover image there.**
 
 #### Step 1: Upload image file
 
