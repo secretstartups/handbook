@@ -57,7 +57,7 @@ Important things to ensure:
 
 - Creating the correct Access Requests for systems needed and for systems no longer needed.
 - Create any training issue that may be required.
-- Reminding the team member to update their title on the team page.
+- Reminding the team member to update their title on the team page, on their GitLab profile, in Zoom, in Slack and on professional networks like Linkedin. If relevant, remind them to order new business cards as well.
 - If we are in the middle of company wide 360 reviews, it is encouraged that the current manager and new manager arrange a successful handover of the feedback, whether sync or async.
 
 ## Compliance
