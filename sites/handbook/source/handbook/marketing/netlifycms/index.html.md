@@ -136,3 +136,10 @@ Here is an example [MR #78654](https://gitlab.com/gitlab-com/www-gitlab-com/-/me
 - Netlify CMS Direct URL: `/admin/#/collections/topic/entries/ci-cd?ref=workflow` 
 
 The Netlify CMS Direct URL will no longer work once a merge request has been merged with the master branch.
+
+#### Netlify CMS branches not deleted after merging with master
+
+When a branch is published through Netlify CMS, the `cms/` branch remains in the repo after it's merged with master. This was reported [here](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1171). This causes an API error message when a editor goes to edit the same page at a later date. 
+
+As a stop gap solution, we are manually deleting merged `cms/` branches at the end of every iteration cycle. 
+
