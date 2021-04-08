@@ -1,13 +1,14 @@
 ---
 layout: handbook-page-toc
-title: Support Engineering Parameters and Metrics
+title: Support Engineering Data Analysis Community
 description:
 ---
 
 ## Purpose
 
-This page documents various planning parameters and metrics which Support team
-members use when doing planning and analysis.
+Support team members often engage in some sort of data analysis in the course
+of their work. This page documents various planning parameters and metrics
+which have been looked at when doing planning and analysis.
 
 It serves as a repository for:
 
