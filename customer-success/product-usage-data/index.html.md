@@ -29,6 +29,7 @@ Understanding a customer's use of the GitLab platform enables GitLab to:
 - Recommend best practices and enablement content that would help customers adoption and/or operationalize the platform capabilities 
 - Identify and recommend additional features or use cases that would add additional value to the customer
 - Identify adoption issues, delays, or barriers to trigger assistance by GitLab team members or digital content
+- Proactively provide system-level support to help maintain uptime, resolve any system performance issues, and monitor for security issues
 
 ### GitLab
 
