@@ -11,6 +11,20 @@ description: "Business Technology Change Management"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Business Technology Change Management
+
+Business Technology Change Management covers changes to System settings in addition to Process and Policy changes. The Business Technology Change Management (CM) process at GitLab provides a framework for the thorough documentation, testing, and evaluation of proposed changes to the Business Technology systems. The CM process mitigates risk to production applications that could threaten the stability, resiliency, security, data availability, integrity, and regulatory compliance.
+
+This handbook page defines the steps necessary to implement and maintain CM processes to ensure changes are planned, documented, reviewed, and approved in a controlled manner.
+
+Making a user- or group-level change doesn't require a Business Technology change request. For example, if your team decides to make a change to one of your team's group settings on GitLab.com, a Business Technology change request isn't required. However, if you decide to make a change to a configuration or setting for GitLab.com globally, that requires a change request. Another example is Google Drive. If you decide to make a change to one of your team's Google Drive folders, no Business Technology change request is required. But if you change the default sharing setting of all of Google Doc for GitLab, a Business Technology change request is required.
+
+Additional examples include: If you are making a Process and/or Policy change that will impact only your team's process, a change management is not required. If you are making a Process and/or Policy change that will impact one or more other departments, a change management is required.
+
+For additional information regarding Change Management, refer to our [Change Management Workflow Control Guidance](/handbook/engineering/security/change-management-guidance.html).
+
+**A Business Technology change request is only needed when a change is being requested for review for applications already listed in our tech stack.**
+
 ## Why Change Management is important
 
 There are many benefits from effective change management.
@@ -105,16 +119,6 @@ Last 7 calendar days and first 7** calendar days of each quarter
 **Finance impacted systems.
 
 ## Business Technology Change Request Workflow
-
-Business Technology Change Management covers changes to System settings in addition to Process and Policy changes.
-
-Making a user- or group-level change doesn't require a Business Technology change request. For example, if your team decides to make a change to one of your team's group settings on GitLab.com, a Business Technology change request isn't required. However, if you decide to make a change to a configuration or setting for GitLab.com globally, that requires a change request. Another example is Google Drive. If you decide to make a change to one of your team's Google Drive folders, no Business Technology change request is required. But if you change the default sharing setting of all of Google Doc for GitLab, a Business Technology change request is required.
-
-Additional examples include: If you are making a Process and/or Policy change that will impact only your team's process, a change management is not required. If you are making a Process and/or Policy change that will impact one or more other departments, a change management is required.
-
-For additional information regarding Change Management, refer to our [Change Management Workflow Control Guidance](/handbook/engineering/security/change-management-guidance.html).
-
-**A Business Technology change request is only needed when a change is being requested for review for applications already listed in our tech stack.**
 
 Business Technology change requests are important because they help us track and manage the risk of making wide-reaching configuration and setting changes. All requests for Application, Process, and/or Policy changes are initiated by the requestor submitting a [Business Technology Change Request](https://gitlab.com/gitlab-com/business-ops/change-management/issues/new?issuable_template=Business%20Technology%20Change%20Management) issue.
 
