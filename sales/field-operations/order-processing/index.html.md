@@ -514,6 +514,38 @@ First, go to the Partner's Account page in Salesforce.
 - **For partners on the new program**, review the "Partner Track" field. Then, reference the [Partner Program Discount Table](https://gitlab.my.salesforce.com/0694M000008xON4).
 - **For partners under a previous contract**, review the "Reseller Discount" field.
 
+### Service Attach Quote Approval
+
+Effective 2021-04-05, the quote approval module has been updated to trigger an approval workflow on quotes that meet the [FY22 GTM Service Attach](https://docs.google.com/presentation/d/1wLYQP7KV9UMdBSneg_caBFnckHPcKEw6C5zfEsrysFM/edit#slide=id.gc5c5401a33_0_5) opportunity criteria. 
+
+- **Service Attach Opportunity Criteria:**
+
+1. Order Type 2.0 = `1. New - First Order`
+2. Net ARR >=`$20,000`
+3. Stamped Sales Segment = `Large`
+
+- **Service Attach Quoting Process:**
+
+If an opportunity meets the criteria listed above, a minimum of $15,000 in Professional Services must be attached to the opportunity. Services can be attached using one of two methods:
+
+1. Add standard SKU professional services (i.e. Admin Training) totaling or exceeding $15,000 to the quote. Note: Custom services requiring a signed SOW must be quoted separately on a standalone opportunity - see below.
+2. Link a separate, standalone professional services opportunity with services totaling or exceeding $15,000 via the "PS Opportunity" field. 
+
+- **Service Attach Exceptions/Approval Requirements:**
+
+If an opportunity meets the criteria listed above, but does not have a Professional Services value of $15,000, or does not have a linked opportunity with a Professional Services value of $15,000, the quote will require approval to sell the subscription deal without the minimum Service Attach. 
+
+- **Service Attach Quote Approval Process:**
+
+1. Populate the "ProServ Exception Approval Notes" field on the quote with the following information: 
+  - What use cases are they adopting?
+  - What specific services were positioned?
+  - Was PS services engagement manager engaged (y/n)?
+  - What was the customer’s reason why they didn’t agree to services?
+  - Other supporting reasons?
+2. Submit the quote for approval by clicking "Submit for Approval" on the quote object.
+3. Approval is required first by Michael Lutz or David Sakamoto. If one of these leaders approvals the quote, a second and final Service Attach approval request will go to Mike Pyle. 
+4. If the approvals noted above are obtained, and no other approvals are required, the quote will be approved. If the approvals noted above are obtained, and other approvals are required (discount approvals, payment term approvals, etc.), the quote approval module will automatically enter the existing approval process. 
 
 ### How to Request Quote Approval via Chatter
 
