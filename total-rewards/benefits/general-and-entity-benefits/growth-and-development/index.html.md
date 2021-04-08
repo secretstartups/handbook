@@ -37,7 +37,7 @@ Examples of requests that may be denied:
 ### How to Apply For Growth and Development Benefits
 
 **For Growth & Development Benefits that cost under $1,000 USD**
-We encourage you to seek verbal approval from your manager before you sign up to anything. If the cost is under $1,000 USD, please fill out the [Growth & Development Benefit Form (Under $1,000)](https://forms.gle/ZLH2KtEqxBtW1Bja6) and submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). 
+We encourage you to seek verbal approval from your manager before you sign up to anything. If the cost is $1,000 USD or less, please fill out the [Growth & Development Benefit Form (Under $1,000)](https://forms.gle/ZLH2KtEqxBtW1Bja6) and submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). 
 
 **For Growth & Development Benefits that cost over $1,000 USD**
 Once your manager has verbally approved your plan, please fill out the [Growth & Development Benefit Form (Over $1,000 USD)](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) at least 30 days before the commencement date. Total Rewards will stage a Growth & Development Agreement for you and obtain signatures from the approvers per the table below. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program (this option is available for reimbursements above $1,000 USD only as it is processed via payroll).
