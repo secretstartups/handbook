@@ -36,11 +36,11 @@ Having dedicated triagers on the team helps address the bystander affect. The sc
 
 Data triagers are the first responders to requests and problems for the Data team.
 
-- The Data Analyst triager is primarily responsible for responding to GitLabber Requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
+- The Data Analyst triager is primarily responsible for responding to GitLab team member Requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
 - The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#analytics-pipelines** or **#dbt-runs** slack channels or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors).
     - Daily, a link to the DBT Source Freshness dashboard is posted in **#analytics-pipelines**.  This dashboard should be reviewed by the Data Engineer triager.
     - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues onthe [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
-- The Data Analyst and Data Engineer triagers are secondarily responsible for platform problems and Gitlabber Requests respectively.
+- The Data Analyst and Data Engineer triagers are secondarily responsible for platform problems and GitLab team member requests respectively.
 
 Many issues that come into the data team project from other GitLab team members need additional info and/or context in order to be understood, estimated, and prioritized.
 It is the triager's priority to ask those questions and to surface issues sooner, rather than later.
