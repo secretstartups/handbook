@@ -154,9 +154,21 @@ New Zealand team members are eligible for a one time reimbursement of up to $750
 Team members are entitled to a minimum of four weeks’ annual leave per year. Annual leave does not expire and can be carried over each year, but GitLab may set expectations on how much annual leave employees may accumulate and may require employees to take entitled leave with 14 days notice. Annual leave runs concurrently with GitLab PTO. Team members must select the `Vacation` option in PTO by Roots when taking vacation time to ensure that annual leave entitlement is properly tracked.
 
 ### On-call (Engineering-only)
-New Zealand employment law requires that working on a formal Public Holiday, including [on-call](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/), be compensated with a day off as time-in-lieu, and time-and-a-half pay.  Our policy above covers for the [time-in-lieu requirement](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only) but we do not yet have any mechanism for handling the extra pay requirements.
+New Zealand employment law requires that work on a formal [Public Holiday](https://www.govt.nz/browse/work/public-holidays-and-work/public-holidays-and-anniversary-dates/), including [on-call](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/), be compensated with a paid day off as time-in-lieu. On top of that, depending on whether it would be a normal working day or not, and whether there was an actual callout, overtime pay would be required.  Our policy above covers for the [time-in-lieu requirement](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only) but we do not yet have a set mechanism for handling the extra pay requirements. 
 
-Therefore, a New Zealand team member may not be on-call on a New Zealand Public Holiday, and must seek/find a replacement for any affected shifts
+Therefore, a New Zealand team member may not be on-call on a New Zealand Public Holiday, and must seek/find a replacement for any affected shifts. To ensure we remain compliant with local laws we ask of the team members to consider local laws when taking shifts. The backend process will be as follows: 
+
+1. With scheduling we want to avoid on-call taking/assigning on-call shifts on Public Holidays for New Zealand. 
+  - We will follow the dates of this website:  https://www.govt.nz/browse/work/public-holidays-and-work/public-holidays-and-anniversary-dates/ 
+1. If it happens that a team member does take an on-call shift they would have to align with their manager and try to find a replacement for that shift. 
+
+If it’s impossible to find a replacement and the team member ends up taking the on-call shift on a public holiday, the process to follow is:
+1. Team member should obtain manager approval. 
+1. If the team member is not called in to work during their on call shift, a time in lieu compensation for the shift be applied.  
+1. If the team member is called in to work during their on call shift, they have to record their hours worked on the call-out and report to payroll/manager in order for overtime payment processing. 
+
+Note: Prior to any approval it is important to check whether the day would normally be a working day (Mon-Fri). If the day is normally a working day, overtime payment does not apply, and time in lieu will be leveraged. 
+
 
 ### Sick Leave
 
