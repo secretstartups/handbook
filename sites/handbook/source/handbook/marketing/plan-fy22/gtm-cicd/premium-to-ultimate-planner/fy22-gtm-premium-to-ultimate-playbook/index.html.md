@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "FY22 GTM Sales Play <br> Upsell Premium => Ultimate"
+title: "FY22 GTM Sales Play <br> Upsell Premium  => Ultimate"
 ---
 
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
