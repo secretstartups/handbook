@@ -38,7 +38,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 - Measure quality of processes and methods like onboarding, enablement content, and adoption playbooks
 - Leverage customer health to manage account plans and assist planning and forecasting
 - Provide efficiency through automation in both TAM-led and digitally-led engagement throughout the customer journey
-- Identify customers who are risk of attrition or churn as well as identify potential expansion opportunities (i.e., license and/or subscription tier)
+- Identify customers who are at risk of attrition or churn, as well as identify potential expansion opportunities (i.e., license and/or subscription tier)
 
 *Note: The use cases, approaches, and metrics below include current and planned use cases.* 
 
