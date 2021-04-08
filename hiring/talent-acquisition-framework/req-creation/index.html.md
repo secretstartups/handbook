@@ -130,7 +130,7 @@ Labels: Division and Department
 
 **Complete the Kick-Off**
 
-1. Schedule a [Kick-off Session](/handbook/hiring/recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) or complete a-sync with the Hiring Team.
+1. Schedule a [Kick-off Session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) or complete a-sync with the Hiring Team.
 1. Notify the CES Team inside the kickoff issue so the job can be published to the [Careers Page](https://about.gitlab.com/jobs/careers/)
 
 **Post the job internally**
