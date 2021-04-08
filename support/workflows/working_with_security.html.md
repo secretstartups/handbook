@@ -31,14 +31,28 @@ same caution as any other suspicious email:
 
 ### Identifying Issues for Transfer to Security
 
-- blocked accounts. Do not transfer, see [relevant workflow](reinstating-blocked-accounts.html) instead.
-- Reports of phishing or malicious content, regardless of hosting source. Keywords:
-  - malware/malicious
-  - phish
-  - campaign
-- Sender claims to be a security related employee at a non-associated company.
-- DMCA Takedown requests
-- Security questionnaires or other requests for documentation.
+-Escalating a Zendesk ticket from Support to Trust and Safety: 
+
+      * [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
+      * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
+      * [DMCA Requests](/handbook/dmca/) - Reporters should forward notice to dmca@gitlab.com. 
+      * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)   
+      * Reports of phishing or malicious content, regardless of hosting source. Keywords:
+       - malware/malicious
+       - Phish
+       - campaign
+       - Sender claims to be a security related employee at a non-associated company.
+
+### Risk and Field Security Team
+
+-  Security questionnaires or other requests for documentation
+
+   * [Customer Assurannce Procedure](/handbook/engineering/security/security-assurance/risk-field-security/).
+
+### SIRT 
+
+- [Security Incidents](/handbook/engineering/security/#engaging-the-security-on-call) 
+- [Other](/handbook/engineering/security/#sirt---security-incident-response-team))
 
 ### Identifying Issues for Transfer to Support
 
@@ -137,13 +151,6 @@ In the case that something ended up in the Security inbox and was forwarded on v
 In order to transfer a ticket from Support to Security:
 
   * Use the macro [`General::Forms::Change to Security`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373880)
-
-Escalating a Zendesk ticket from Support to Trust and Safety: 
-
-      * [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
-      * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
-      * [DMCA Requests](/handbook/dmca/) - Reporters should forward notice to dmca@gitlab.com. 
-      * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)   
 
 ### Escalate ZenDesk ticket to Security
 
