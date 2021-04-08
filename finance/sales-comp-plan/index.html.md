@@ -13,6 +13,15 @@ Due to the continuted iterations and customizations of each role's Sales Compens
 
 **Please Note** Included with your participant schedule will be reference to the current (FY22) Sales Compensation Plan Terms and Conditions. These Terms and Conditions will supersede any previous terms related to compensation, including the FY21 Sales Compensation Plan found below.  
 
+### FY22 New Logo Target Accounts
+Booking a deal with a New Logo may entitle the Participant to be eligible for additional commission(s) based upon the Participant’s Individual Plan. Below are details on the New Logo Accounts that qualify as well as the process to request Accounts to be added to the New Logo Target Account list:
+
+**Reporting** The full list of elgibile New Logo Target Accounts can be found on this SFDC report: https://gitlab.my.salesforce.com/00O4M000004aiGV
+
+**Process to Request Accounts to be Added to the New Logo Target Accounts List**
+1. Check the aforementioned report to verify that the Account is not already on the eligibility list
+1. Navigate to the Account in SFDC and chatter the VP of Enterprise Sales (Mike Pyle) and Sr. Director of Sales Ops (James Harrison) requesting the account be added to the New Logo Target Account list.  Please also provide justification for the request. 
+1. Upon their approval via chatter, the Account will be flagged as New Logo Target Account eligible and will be populated on the above report as confirmation.  
 
 ## FY21 Sales Compensation Plan **THESE TERMS NO LONGER APPLY**
 
