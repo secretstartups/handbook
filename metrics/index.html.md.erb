@@ -33,29 +33,36 @@ The inception of this initiative can be see in this [epic](https://gitlab.com/gr
 * [Enablement Section](/handbook/engineering/development/performance-indicators/enablement/)
 
 ### Metrics list
+
 #### Development indicators
-* Narrow MR vs Narrow Issues
-* Narrow MR Rate, this rolls up to a KPI for the Development department
+
+* MRs vs Issues
+* MR Rate, this rolls up to a KPI for the Development department
 * Review to Merge time
 * Product MRs by type
 * Narrow MRs vs Wider MRs
 * Feature flags older than 2 months
+* MRs authored by team members vs community contribution MRs
 
 #### Infrastructure indicators
+
 * Corrective Actions past SLO
 * Product Incidents
 
 #### Quality indicators
+
 * S1 Mean Time to Close, this rolls up to a KPI for the Quality department
 * Average Age of unresolved S1 bugs
 * S2 Mean Time to Close, this rolls up to a KPI for the Quality department
 * Average Age of unresolved S2 bugs
 
 #### UX indicators
+
 * UX Debt open/close
 * Average days to close UX Debt
 
 #### Security indicators
+
 * Average Age of currently open bug vulnerabilities, this rolls up to a KPI for the Security department
 * MTTM of vulnerabilities by month
 
@@ -65,6 +72,20 @@ The inception of this initiative can be see in this [epic](https://gitlab.com/gr
 * Take note of anything that might be impacting the team's capacity such as holidays or increased PTO.
 * Take note of your team's focus on community contribution as an example. If the team is able to consistently merge MRs in this categories, celebrate it.
 * If you see a large amount `undefined`, spend some time to review your team's issues and MRs and add labels so we can get a more accurate classification.
+
+## Merge request rate
+
+Merge Request (MR) Rate is a measure of productivity and efficiency. The numerator is a collection of merge requests to a set of projects. The denominator is a collection of people. Both are tracked over time (usually monthly).
+
+[Identity]` is collection of people (the denominator) and is usually a Division, Department, Sub-Department, or Team name from  our [Organizational Structure](/company/team/structure/#organizational-structure)
+
+MR Rate prefixes have been removed in favor of focusing on what was previously known as Narrow MR Rate. Narrow MR Rates are now referred to as MR Rate in Engineering performance indicators.
+
+### Examples
+
+A 5 member team in the past month has merged 200 MRs authored by team members, merged 100 MRs authored by other GitLab team members, and 50 MRs authored by people from the wider-community.
+
+The Team MR Rate would be 40 (200 / 5)
 
 ## Data Classification
 
@@ -124,3 +145,34 @@ We allow flexibility where the parent `devops::xxx` and child `group::xxx` label
 If a contribution happens across groups, we leave it to the discretion of the engineering and product manager to change the `group::xxx` label to reflect which group worked on it.
 They can also decide if they want to move over the `devops::xxx` as well or keep it to reflect the product area.
 The [triage bot](https://gitlab.com/gitlab-org/quality/triage-ops/) automatic labelling we will not override existing labels.
+
+## Projects that are part of the product
+
+In the MR Rate and Volume of MR calculations, we consider MRs from projects that contributes to the overall product efforts.
+
+The current list of projects are identified in the [`gitlab-data/analytics`](https://gitlab.com/gitlab-data/analytics) project for the following system databases:
+
+| System Database | File |
+|-----------------|------|
+| GitLab.com      | [`projects_part_of_product.csv`](https://gitlab.com/gitlab-data/analytics/blob/master/transform%2Fsnowflake-dbt%2Fdata%2Fprojects_part_of_product.csv) |
+| ops.gitlab.net  | [`projects_part_of_product_ops.csv`](https://gitlab.com/gitlab-data/analytics/blob/master/transform%2Fsnowflake-dbt%2Fdata%2Fprojects_part_of_product_ops.csv)
+
+
+### Updating the list of projects
+
+The guidelines for inclusion in the `is_part_of_product` lists are:
+
+- Included with the product as apart of a GitLab Omnibus or Cloud Native installation
+- Support product development efforts
+- Support the delivery and release process to GitLab SaaS
+
+Follow these steps to request a new project to be tracked:
+
+1. Create a merge request to the GitLab.com or ops.gitlab.net project list from above.
+1. Assign the merge request to the [Manager of Engineering Productivity team](https://gitlab.com/kwiebers)
+1. The Manager of the Engineering Productivity team will work with the [Development Operations Analyst](https://gitlab.com/lmai1) to determine the changes to MR Rate metrics and provide validation for the projects
+1. The [VP of Development](https://gitlab.com/clefelhocz1) is the DRI to approve the list of projects. Upon approval the merge request author should ask in #data for assistance by a member of the Data Engineering team to merge.
+
+There is no need to remove archived projects from the `is_part_of_product` list. Removal of projects will remove historical merge requests from metrics and reduce Merge Request rates.
+
+Please reach out to a member of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) if more assistance is needed
