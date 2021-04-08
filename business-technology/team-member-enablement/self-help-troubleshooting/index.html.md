@@ -164,6 +164,18 @@ Check out the GitLab Tools and Tips pages for recommended software and applicati
 
 Our security team also did an amazing write-up for Linux installations - [Linux Setup](/handbook/tools-and-tips/linux/)
 
+### Using JAMF Self Service to Update your OS
+
+You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. To do this follow the below instructions
+
+1. Head to Finder on your Mac and select Applications
+2. Click on Self Service
+3. On the left hand side you'll see OS Updates
+![image-1.png](./image-1.png)
+4. From here you'll have 2 options, either the last version of MacOS Catalina (10.15.7) or the newest version of MacOS Big Sur. Click on the one you wish to install. Please note you cannot downgrade to lower OS
+5. This can take upwards of an hour, so please factor in that time when you are updating
+
+
 ### Reinstalling Mac OS after a JAMF wipe
 
 We use JAMF to wipe laptops when you're either getting a new laptop, sending it back to our supplier 'Sell your Mac' or retaining your laptop after you have left the company (https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy)
