@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "FY22 GTM Sales Play <br> - Premium to Ultimate"
+title: "FY22 GTM Sales Play <br> Upsell Premium => Ultimate"
 ---
 
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
@@ -33,8 +33,8 @@ Existing GitLab Premium customers already using CI/CD
 | ------------- |:----------------------:| 
 | Economic buyers    | CISO or Security Manager, VP of Security, Director of Security, VP of IT or CTO, App/Dev Director |
 | Technical influencers    | Chief Architect, App Dev Manager |
+| Other Personas to consider | Infrastructure Engineering Director, Release and Change Management Director |
 
-Other Personas to consider: Infrastructure Engineering Director, Release and Change Management Director
 
 **Target Account Lists** 
 
