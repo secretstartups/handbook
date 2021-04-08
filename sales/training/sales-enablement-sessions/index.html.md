@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Apr 8  |               |                |
+| Apr 8  | Discussion: How to Avoid Common Discovery Pitfalls | David Somers |
 | Apr 15 | [Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/95) | Fiona O'Keeffe & Jennifer Parker |
 | Apr 22 | *No sessions during last 2 weeks of the quarter*
 | Apr 29 | *No sessions during last 2 weeks of the quarter*
