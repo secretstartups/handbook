@@ -29,9 +29,9 @@ Who is this sales play for?
 
 | Persona role  | Possible titles|
 | ------------- |:----------------------:| 
-| Economic buyers    | TBD |
-| Technical influencers    | TBD |
-| Other Personas to consider | TBD |
+| Economic buyers    | Head of Product, CTO, CIO, CISO, VP / Director of App Development |
+| Technical influencers    | Chief Architect, App Dev Manager, DevOps Engineer | 
+| Other Personas to consider | PMO, Release & Change Management |
 
 
 **Target Account Lists** 
@@ -41,12 +41,13 @@ Who is this sales play for?
 ## Getting Started
 
 Consider the following questions: 
-* TBD
-* TBD
+* Does the organization have any strategic transformation initiatives that could benefit from a single platform for collaboration?
+* Is there existing interdepartmental friction brought about by differently aligned priorities? 
+* Is the customer already managing multiple tools in a toolchain?
+* Is the customer early in their agile journey and seeking guidance on the best path forward?
 * Are you engaged with the right personas/teams (see Target Buyer Personas above)?
 * Do you have access to power/authority (a business decision maker)?
 * Who are your champions within the account?
-* Are the capabilities and PBOs that are enabled by GitLab Ultimate important to the customer? Why or why not? How do you know?
  
 ## Value Discovery
 
@@ -100,20 +101,63 @@ Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketi
 
 | Questions to Better Understand the Customer’s needs  | Discovery questions  |
 | ------------- |-------------| 
-| current state    | 1. Are you wanting to shift security left? How is that going?<br>2. What security tools are you using today?<br>3. Are you confident you can secure containers and Kubernetes?|
-| future state    | 1. What if you could simplify your shift-left efforts?<br>2. What challenges do you have with your existing tools and can you predict their cost 2 yrs out?<br>3. Would you like to better protect containers and K8s? |
-| Required capabilities   | 1. Could security integrated into CI help you get there?<br>2. What if you had one, known cost that enabled ALL your security scans, with results to the developer in their CI pipeline, along with vulnerability management for the security pro? What if you could either eliminate some existing security tools or reduce their use/cost?<br>3. What if you could scan containers and monitor their host and their traffic within K8s clusters? |
+| current state    | 1. How far along are you in your DevOps journey?<br>2. What / how many DevOps tools are you using today?<br>3. How do you involve business stakeholders in your DevOps process?<br>4. How important are audits and compliance? |
+| future state    | 1. In an ideal world, what would collaboration look like in your organization?<br>2. What challenges do you have with your existing tools and can you predict their cost 2 years out?<br>3. Are there things you'd like to do with DevOps but complexity is holding you back? |
+| Required capabilities   | 1. What if your security teams, business stakeholders, and others had access to all the information they needed on-demand?<br>2. What would you do if you could reclaim the time you spend integrating and maintaining your DevOps toolchain?<br>3. What if you could track all your discussions, the code changes that resulted from them, the performance and security impact of those changes, and all the collaboration around them--in one place, automatically? |
 
 
 
 
 ## Positioning Value 
 
-### Elevator pitch 
+### Elevator pitches 
 
-> GitLab Ultimate is ideal for projects with executive visibility and strategic organizational usage. Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. A single tool DevOps teams need to find and fix vulnerabilities in application code, its environments, and to manage their risk from detection through remediation.
+Below are one-sentence summaries of value you can deliver to user and buyer personas to position relevant aspects of the DevOps Platform use case's value, based on the market segment of the persona's company.
 
-*Note: Everything you get in Premium as well as free guest users, 50,000 CI/CD minutes, a named TAM, and more…*
+{::options parse_block_html="true" /}
+
+<div class="panel panel-info">
+
+**SMB**
+{: .panel-heading}
+
+<div class="panel-body">
+
+|   User: [Delaney - the Development Team Lead](/handbook/marketing/strategic-marketing/roles-personas/#delaney-development-team-lead)	|   User: [Devon - the DevOps Engineer](/handbook/marketing/strategic-marketing/roles-personas/#devon-devops-engineer)	|   Buyer: CTO<code>&ast;</code>	|  Buyer: CIO<code>&ast;</code> 	|
+|---	|---	|---	|---	|
+|   Receive immediate feedback on the quality, performance, and security of code as soon as you commit. Collaborate seamlessly among teams.	|   Grow without having to build and support custom integrations.	|   Collaborate in a single system, minimize context-switching, and increase developer productivity and focus.	|   Grow without building and supporting custom integrations. Scale and manage a single system.	|
+{: .custom-class #custom-id}
+
+*<code>&ast;</code> CTO (Dev, external focus) and CIO (Ops, internal focus) personas in development and may vary per segment.*
+
+</div>
+
+##### **Mid-Market**
+{: .panel-heading}
+
+<div class="panel-body">
+
+|   User: [Delaney - the Development Team Lead](/handbook/marketing/strategic-marketing/roles-personas/#delaney-development-team-lead)	|   User: [Devon - the DevOps Engineer](/handbook/marketing/strategic-marketing/roles-personas/#devon-devops-engineer)	|   Buyers: range from [Erin - the Application Development Executive](https://about.gitlab.com/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/#erin---the-application-development-executive-vp-etc) to the CTO<code>&ast;</code>	|  Buyers: range from [Kennedy - the Infrastructure Engineering Director](https://about.gitlab.com/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/#kennedy---the-infrastructure-engineering-director) to the CIO<code>&ast;</code> 	|
+|---	|---	|---	|---	|
+|   Receive immediate feedback on the quality, performance, and security of code as soon as you commit. Collaborate seamlessly among teams.	|   Increase reliability and eliminate ad hoc, team-based integrations.	|  Collaborate in a single system, minimize context-switching and waiting, identify and remove productivity blockers, and deliver more value faster with more productive, focused developers. 	|   Increase reliability and performance while you grow by eliminating custom integrations. Scale and manage a single system.	|
+{: .custom-class #custom-id}
+
+*<code>&ast;</code> CTO (Dev, external focus) and CIO (Ops, internal focus) personas in development and may vary per segment.*
+
+</div>
+
+##### **Enterprise**
+{: .panel-heading}
+
+<div class="panel-body">
+
+|   User: [Delaney - the Development Team Lead](/handbook/marketing/strategic-marketing/roles-personas/#delaney-development-team-lead)	|   User: [Devon - the DevOps Engineer](/handbook/marketing/strategic-marketing/roles-personas/#devon-devops-engineer)	|   Buyer: [Erin - the Application Development Executive](https://about.gitlab.com/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/#erin---the-application-development-executive-vp-etc)	|  Buyer: [Kennedy - the Infrastructure Engineering Director](https://about.gitlab.com/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/#kennedy---the-infrastructure-engineering-director) 	|
+|---	|---	|---	|---	|
+|   Receive immediate feedback on the quality, performance, and security of code as soon as you commit. Collaborate seamlessly among teams.	|   Increase reliability and eliminate ad hoc, team-based integrations.	|   Collaborate in a single system, minimize context-switching and waiting, identify and remove productivity blockers, and deliver more value faster with more productive, focused developers.	|   Increase reliability and performance while you grow by eliminating custom integrations. Scale and manage a single system.	|
+{: .custom-class #custom-id}
+
+</div></div>
+
 
 ### How GitLab Does It
 
