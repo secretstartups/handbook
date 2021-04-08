@@ -152,6 +152,14 @@ Internal projects are set up to track internal time that is not customer project
     * All hours should be tracked against the task for preparation and close out of the training
   * All class hours are to be tracked against the task that gives the name of the training, example is GitLab Basics TRNG Hours
 
+#### Quarter End Time Tracking 
+Professional Services has a hard quarterly close for each quarter
+
+Our agreed schedule with finace is [Montly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
+
+Time sheets would be submitted by the team and then approved by the project lead on the cutoff date, then an additional project lines would be added to finish out the remainder of the week, then follow the normal end of the week process
+
+
 #### Project Expenses
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for in the month which incurred. 
 1. Purchase incurred or travel booked
