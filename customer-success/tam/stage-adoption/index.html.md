@@ -117,7 +117,7 @@ Usage Discovery Questions:
 - From a feature standpoint, if they are using 2 of the following features...
     - [Pages](https://about.gitlab.com/stages-devops-lifecycle/pages/)
     - [Review Apps](https://about.gitlab.com/stages-devops-lifecycle/review-apps/)
-    - [Feature Flags](https://docs.gitlab.com/ee/user/project/operations/feature_flags.html)
+    - [Feature Flags](https://docs.gitlab.com/ee/operations/feature_flags.html)
     - [Release Orchestration](https://docs.gitlab.com/ee/user/project/releases/)
 
 Usage Discovery Questions:
