@@ -123,7 +123,9 @@ While the above listed reports are reports you use to get the information for yo
 
 You have the ability to create a GitLab procurement issue directly from Allocadia for a given line item. You will not be creating from category or subcategory lines as we need the expense to match the Vendor and the issue approvals.
 
-[Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts.
+[Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts. 
+
+For Field Marketing, the reviewer/approver will click into the linked Allocaida line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue. 
 
 You may also create a procurement issue for software & that video will be forthcoming.
 
@@ -153,7 +155,14 @@ We are looking into the ability to enter the Corporate (CEO level), Marketing (C
 
 ## Lead to Goal - Allocadia `Metrics' :hash:
 
-There is an `Impact Modeler` that we can use to automatically calculate the effect of our marketing efforts to MQL and SAOs. Similar to the way these were calculated in the 5Q rolling for the Field Marketing team, Allocadia can keep track of how spend should affect our lead volume.
+Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance. 
+
+By using the `Impact Modeler` feature we can use to automatically calculate the effect of our marketing efforts to MQL, SAOs, and pipeline.
+
+We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO convertion rates as well as SAO>Closed Won data. We have loaded two FY worth of data just given how different our campaigns types were in FY21 due to the pandemic.
+
+This calculation is done by then taking into account the MQLs and segment data that has been given at the line item level in the details panel. The ASPs (which we used the ASPs from the TOPO model per segment) are also loaded for calculation purposes. [Video walk through](https://youtu.be/LPMmah5tvT8) (and yes, you know you need to be logged into Unfiltered to see! ;))   
+
 
 ## GitLab Internal Calendars
 
