@@ -167,6 +167,7 @@ For E-Group, information may need to be iterated on or MR branches may need to b
 
 #### The process of using this handbook
 
+- If adding to this handbook as part of a working group initiative, review the [process for working groups](/company/team/structure/working-groups/#process)
 - From the [project](https://gitlab.com/gitlab-com-private/www-gitlab-com), creating a commit or MR is just like any other project.
 - Any MR you make on this project will only be available for viewing by the members of the group (gitlab-com-private)
 - When you are **ready** to make a merge request against the **public** repo do the following:
