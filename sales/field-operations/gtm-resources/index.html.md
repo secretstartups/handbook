@@ -134,11 +134,11 @@ See the [events handbook page](/handbook/marketing/events/) for more details.
 
 ## Record Management
 
-##### MQL Definition and Scoring
+### MQL Definition and Scoring
 
 A breakdown of MQLs and lead scoring can be found in the [marketing operations handbook](/handbook/marketing/marketing-operations#mql-scoring-model).
 
-##### Segmentation
+### Segmentation
 
 Sales Segmentation is based on `Total Employee` count of the `Global Account`.
 If a `Global Account` has a lower segment than any of its child accounts, the `Global Account` will adopt the largest sales segment of any of its child accounts.
@@ -160,7 +160,7 @@ LinkedIn/Websites are not designated data sources.
 If a prospect communicates a different employee size from DataFox/Zoominfo that conflicts with segmentation of what is determined by DataFox/Zoominfo then SalesOPS should be notified via chatter on the record.
 Admins have the ability to override the `Number of Employees` and bypass this hierarchy but only during our [sales segment review process](#sales-segment-and-hierarchy-review-process).
 
-##### Sales Segment and Hierarchy Review Process
+### Sales Segment and Hierarchy Review Process
 
 In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `[TSP]` fields updated and the account will be reviewed per the Rules of Engagement. 
 
@@ -168,7 +168,7 @@ Provide the URL to validate the request. Examples of valid sources include but a
 
 If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and follow the Rules of Engagement account review process.
 
-##### Region/Vertical
+### Region/Vertical
 
 - **VP Commercial Sales** (Mid-Market & Small Business): Ryan O'Nell
 - <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): Jon Burghart, Regional Director
@@ -193,7 +193,7 @@ This field inherits data from other fields in the following priority:
 4. Shipping Address 
 5. Billing Address
 
-## Account Ranking for Enterprise Sales
+### Account Ranking for Enterprise Sales
 Account Ranking in SFDC allows sales to focus and prioritize activities for their target customers, easily nominate or flag accounts for both marketing support and ABM campaigns. Account ranking would also be leveraged to drive discussions during QBRs.
 
 In order to rank accounts each Enterprise Sales rep would updathe the 'Account Rank' field located in Account Rank Information section and can also add the Account Rank Notes. The Account rank should be added at the Ultimate Parent Account level and to not more than 50 Accounts. 
@@ -208,7 +208,7 @@ In order to rank accounts each Enterprise Sales rep would updathe the 'Account R
 * **Rank 3** don't match our current ICP but are strategic for sales & GitLab in the region. Should include both Land and Expand
 
 ## Account Ranking for Commercial Sales
-t is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see the [Account Ranking section of the Commercial Sales handbook](/handbook/sales/commercial/#account-ranking) for definitions specific to SMB and Mid-Market AEs.
+It is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see the [Account Ranking section of the Commercial Sales handbook](/handbook/sales/commercial/#account-ranking) for definitions specific to SMB and Mid-Market AEs.
 
  
 
