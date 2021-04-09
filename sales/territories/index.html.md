@@ -46,7 +46,7 @@ title: "Sales Territories"
 - <b>[Europe, Middle East and Africa](#emea)</b>: Jon Burghart, Regional Director
 - <b>[North America - US East](/handbook/sales/territories/territory-deprecate/#us-east)</b>: TBD, Regional Director
 - <b>[North America - US West](/handbook/sales/territories/territory-deprecate/#us-west)</b>: Haydn Mackay, Regional Director
-- <b>[Public Sector](#public-sector)</b>: Jim Riley (interim), Director of Federal Sales
+- <b>[Public Sector](#public-sector)</b>: Jim Riley (Interim), Director of Federal Sales
 
 ## Territories
 
