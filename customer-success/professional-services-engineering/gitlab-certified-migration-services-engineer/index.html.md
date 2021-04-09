@@ -18,13 +18,13 @@ To be able to scale the availaility of GitLab Migration Services, [GitLab Profes
 The program provides a systematic approach to developing and validating the skills and knowledge needed to successfully migrate a customer's data from their legacy systems to GitLab.
 
 ## Skills and Knowledge Validated
-The certified migration engineer will:
+The certified migration engineer is able to successfully complete the following objectives:
 - Use GitLab capabilities available within the GitLab UI or through API to import/export data to/from common source code management (SCM) data sources such as GitLab, GitHub, and Bitbucket.
-- Compare and contrast the types of data stored in the git envelope vs data elements stored in a GitLab (or other SCM) Project to have confidence to troubleshoot issues that may arise during a migration. 
+- Trouebleshoot common migration issues related to data stored in the git envelope vs data elements stored in a GitLab (or other SCM) project. 
 - Interpret the contents of a given project Statement of Work (SOW) or similar scoping documentation to identify tasks that are in scope or out of scope.
 - Given a migration project scoping document, validate and refine the scope by conducting a discovery meeting with a customer.
-- Use Congregate, the Professional Services (PS) migration automation tool) to complete an automated SCM migration.
-- Know how to ask for support from the PS migration team to troubleshoot problems or review an approach to a customer migration. 
+- Use Congregate, the Professional Services (PS) migration automation tool, to complete an automated SCM migration.
+- Follow the correct guidelines and processes to request support from the PS migration team to troubleshoot problems or review an approach to a customer migration. 
 
 ### Candidate Process
 
