@@ -27,20 +27,24 @@ GitLab has several compliance courses and resources. Explore the drop-downs belo
 
 All team members, regardless of location, are required to take harassment prevention training. All new team members will have a task in their onboarding issue to complete this training using [Will Interactive's Platform](https://learning.willinteractive.com/) within the first 30 days of hire. Once you get to that step in your onboarding issue, please do the following:
 
-1. Log into BambooHR
-1. On the Training tab, click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.). The list of courses to choose from are: **Anti-Harassment Training for Non-U.S. Team Members**, **Anti-Harassment Training for Non-U.S. Supervisors**, **Anti-Harassment Training for U.S. Team Members**, or **Anti-Harassment Training for U.S. Supervisors**. You only need to complete one training. For managers and leaders, the course is 2 hours long, but you can stop and come back to it. For all other GitLab Team Members, this is 1 hour long.
-1. Click on the *Sign Up Now* link
-1. Enter in your name and GitLab email address
+1. Review our [Anti-Harassment Policy](/handbook/anti-harassment/) which outlines guidelines, reporting, and disciplinary action. 
+1. We have four separate trainings, but you only need to complete one of them. For managers and leaders, the course is 2 hours long. For all other GitLab Team Members, the course is 1 hour long. You do not need to complete the course in one sitting as you can stop and come back to it. Just ensure it is completed within your first 30 days at GitLab. Click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.): 
+   1. [**Anti-Harassment Training for Non-U.S. Team Members**]() 
+   1. [**Anti-Harassment Training for Non-U.S. Supervisors**]() 
+   1. [**Anti-Harassment Training for U.S. Team Members**]()
+   1. [**Anti-Harassment Training for U.S. Supervisors**]() 
+1. Once you are in WILL Learning by clicking the correct link for the course you are taking, click on the *Sign Up Now* link
+1. Enter in your name and **GitLab email address**
 1. Create a password
-1. You may be sent a link to verify your account
-1. Once you have logged in successfully, you will be taken to the course you selected in BambooHR. (You can use the navigation bar at the top right-hand side of the screen for volume and screen settings. To the left and right of the center screen, you should see this symbol: > which you can click on to move forward and back through the training.)
-1. Once completed, please upload a copy of your certificate in BambooHR in the *Employee Uploads* folder
-1. You may also keep a record of the certificate for your own files. To create the certificate, click on *view* in the course title
-1. Scroll down to *users* then click on *completion certificates* to download the PDFs
+1. You may be sent a link via email to verify your account
+1. Once you have logged in successfully, you will be taken to the course you selected. 
+   1. You can use the navigation bar at the top right-hand side of the screen for volume and screen settings. To the left and right of the center screen, you should see this symbol: > which you can click on to move forward and back through the training.
+1. Once completed, please log into BambooHR and upload a copy of your certificate in the *Employee Uploads* folder
+1. You may also keep a record of the certificate for your own files. To create the certificate, click on *view* in the course title, scroll down to *users* then click on *completion certificates* to download the PDFs. 
 
 If a Team Member moves from an individual contributor role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue, it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
 
-Our [Anti-Harassment Policy](/handbook/anti-harassment/) outlines guidelines, reporting, and disciplinary action.  
+If you accidently click on multiple courses, please reach out to the Learning & Development team in the `#learninganddevelopment` slack channel so we can work with WILL Interactive to update on the backend. 
 
 ### Processing Steps for L&D Team
 
