@@ -327,7 +327,7 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://docs.gitlab.com/ee/user/application_security/dast/">Dynamic Application Security Testing (DAST) Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/">Fuzz Testing Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/application_security/dependency_scanning/">Dependency Scanning Feature Docs</a></li>
-    <li><a href="https://docs.gitlab.com/ee/user/application_security/license_compliance/">License Compliance Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/user/compliance/license_compliance/index.html">License Compliance Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/application_security/secret_detection/">Secret Detection Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/application_security/security_dashboard/">Vulnerability Management Feature Docs</a></li>
     </ul>
