@@ -385,6 +385,7 @@ Click the “Related Chatter Object” link to view the original request.
 **General Notes:**
 1. If working a case, and the requester makes a second request out of scope, please tag Sales Support so that a new case is opened for Deal Desk to review the request.
 1. If working a case, and any aspect of the request relates to ownership of a closed opportunity, please change the case owner back to Sales Support for Deal Desk to review the request.
+1. **Cases Black Out Week:** The last week of each quarter, Sales Operations will not be responding to new cases that have been submitted.  This is to allow them time to review approved Account movements from the current quarter, validate the moves and prepare them for new Account Ownership the first week of the following quarter.  For urgent case request during this time, chatter sales-support as well as the Sr. Manager of Sales Operations for review.  
 
 <details>
 <summary markdown='span'> Common Scenarios for Sales Operations team on completing Sales Operations Cases
@@ -507,9 +508,12 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 ## **Sales Operations Go To Market**
 
-### **Account Ownership Rules of Engagement**
+### **Ownership & Order Type Rules of Engagement**
 
-[Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+- [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+- [Opportunity Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#opportunity-ownership-rules-of-engagement)
+- [Changing Ownership in Salesforce](/handbook/sales/field-operations/gtm-resources/#changing-ownership-in-salesforce)
+- [Order Type Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#opportunity-order-type-rules-of-engagement)
 
 ### **Territory Management**
 1. [Sales Territories](https://about.gitlab.com/handbook/sales/territories/#territory-ownership-sales)
@@ -702,3 +706,7 @@ Below are instructions on how Sales Operations offboards users within the variou
 1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps%20Tech%20Stack-Completed).
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
 1. When the user has been deactivated in the systems listed for the Sales Operations DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
+
+### End of Quarter Blackout Period
+To ensure that Field Sales can solely focus on closing business during the final weeks of a quarter, Sales Operations will not release any new systematic or internal processes that directly impact the Sales team.  This period will begin roughly the third Monday of the final month of the quarter (or about 2 weeks prior to end of quarter) and last for the balance of that quarter.   
+
