@@ -1406,10 +1406,10 @@ Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/
 
 When approved, include the "Ready" label in the MR before merging.
 
-Deprecations are announced for 3 consecutive milestones before final removal. Since the content remains the same each month, it is not necessary to get the content reviewed each time by TW and PMM. When Product Managers OR Engineering Managers are preparing the second or third instance of a deprecation, follow these steps:
+Deprecations are announced for 2 releases in advance of the final removal. Since the content remains the same each month, it is not necessary to get the content reviewed each time by TW and PMM. When Product Managers OR Engineering Managers are preparing the subsequent instances of a deprecation, follow these steps:
 1. Create a MR and copy content directly from the previous MR that was merged.
 2. Check off the review tasks for PMM and TW
-3. Tag PMM and TW in a comment on the MR indicating the content was previousky reviewed in milestone XX.XX in _link to the old merge request_.
+3. Tag PMM and TW in a comment on the MR indicating the content was previously reviewed in release XX.XX in _link to the old merge request_.
 4. Add the `Ready` label and proceed as normal for a RPI
 
 ---
