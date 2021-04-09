@@ -164,10 +164,21 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 
 ## Sales prescriptive actions to initiate engagement with target audience (outbound)
 
-1. Sales review list of their respective accounts
-1. Outreach to customer - how?
-1. (specific way to track in SFDC?)
+### Options
 
+A. Do nothing, do not contact this customer
+B. Sales direct outreach 
+C. Marketing volume outreach
+
+Segment-specific?
+
+### Action Items
+
+1. Sales review list of their respective accounts
+1. Analyze account and pick the path (option A, B, C)
+1. Outreach to customer
+   * Sales outreach (Option B)
+   * Marketing outreach (Option C)
 
 ## Related Marketing Campaign
 
