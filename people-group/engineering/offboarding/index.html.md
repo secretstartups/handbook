@@ -20,11 +20,14 @@ Note: this section only discusses items in the offboarding where People Engineer
 ## Timeline Flow
 ```mermaid
 graph TD
-  A[PEA triggers Slack command for offboarding issue] -->|Offboarding issue is created, manager is assigned| B
-  B[Offboarding merge request is created] --> C
-  C[Team member is removed from gitlab-com and gitlab-org] --> D
-  D[1 day after: removed from Guardian] --> E
-  E[5 Days after: Issue reminder]
+  A[Offboarding is logged into the tracker] --> B
+  A --> |if the offboarding is voluntary| G
+  B[PEA triggers Slack command for offboarding issue] -->|Offboarding issue is created, manager is assigned| C
+  C[Offboarding merge request is created] --> D
+  D[Team member is removed from gitlab-com and gitlab-org] --> E
+  E[1 day after: removed from Guardian] --> F
+  F[5 Days after: Issue reminder]
+  G[Informational email is automatically sent to the departing team member]
 ```
 
 ## Offboarding issue creation
