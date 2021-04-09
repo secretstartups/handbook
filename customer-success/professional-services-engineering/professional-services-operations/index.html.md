@@ -10,9 +10,20 @@ description: "Learn about the GitLab Professional Services operations processes 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Professional Services Operations 
+## Welcome to GitLab Professional Services Operations 
 Professional Services Operations is a collaboration of our consulting, training, schedululing, reporting and backend processes to support the Professional Services team.
 
+#### How to contact us
+
+Our Team Slack Channel [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) 
+
+The Project Coordinators can be reached by tagging the group `@ps-scheduling`
+
+#### Who we are
+
+[Donita Farnsworth, our Senior Consulting Project Coordinator](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team_members/person/p/psprojectcoor-donita-f.yml)
+
+[Wakae McLaurin, our Senior Training Project Coordinator](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team_members/person/w/wakaemclaurin.yml) 
 
 ## Project Coordination- Consulting
 
@@ -22,7 +33,7 @@ When the PC and PM have the project team aligned the PC will send [Consulting Pr
 
 #### Consulting Projects Billing Guidelines
 
-Project billing is outlined in each customer SOW or Order Form.  The current billing terms that professional services follows is the following:
+Project billing is outlined in each customer SOW or Order Form.  The current billing terms that Professional Services follows is the following:
    * Billed upon SOW execution
    * Order Form execution
    * Time and Materials
@@ -30,33 +41,43 @@ Project billing is outlined in each customer SOW or Order Form.  The current bil
    * Billed half up front and half at project completion
    * Billed at completion
    
-Passive acceptance of 5 days included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services
+Passive acceptance of 5 days is included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services.
    
 #### Consulting Projects Revenue Forecasting Guidelines
 
 Project revenue release is followed dependant on project billing type:
-   * Billed upon SOW execution biling terms
+   * Billed upon SOW execution billing terms
      * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Billed upon Order Form execution biling terms
+   * Billed upon Order Form execution billing terms
      * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
    * Time and Materials billing terms
      * Approved time sheet hours reported at each month end 
-   * Project miletone SOW billing terms
+   * Project milestone SOW billing terms
      * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Billed half up front and half at project completion SOW biling terms
+   * Billed half up front and half at project completion SOW billing terms
      * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
-   * Billed at completion biling terms
+   * Billed at completion billing terms
      * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
+
+#### How To Forecast Revenue For Consulting Projects
+
+##### T&M Projects
+T&M project revenue is forecasted by scheduled soft or hard allocations in the Master Planning in Mavenlink.  The hours that are schedule are multiplied by the rate card on the project.  
+
+##### Fixed Priced Projects
+
+Fixed priced projects are forecasted by the project milestones in the Mavenlink project.  Each milestone has a sign off task, that task is updated with correct sign off date for the activities in the milestone.  Best practice is update the sign off task to give time for the customer to review and obtain acceptance from the customer.
+If there is not confidence that the activities will be complete and the customer will sign off, then the Sign Off task should be moved out to the next quarter.
 
 ## Project Coordination- Training
 
 #### Training Projects Billing Guidelines
 
-Training billing is outlined in each customer SOW or Order Form.  The current billing terms that professional services follows is the following:
+Training billing is outlined in each customer SOW or Order Form.  The current billing terms that Professional Services follows is the following:
    * Billed upon SOW
    * Order Form execution
    
-Passive acceptance of 5 days included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services
+Passive acceptance of 5 days is included in the SOW unless different terms are negotiated by the customer and approved by the Director of Professional Services.
 
 #### Training Projects Revenue Forecasting Guidelines
 
@@ -65,6 +86,11 @@ Training revenue release is followed dependant on training billing type:
      * Once each training class is complete and roster is received
    * Order Form execution billing terms
      * Once each training class is complete and roster is received
+
+#### How To Forecast Revenue Training Projects
+
+Training projects are typically considered fixed priced projects and are forecasted by the project milestones in the Mavenlink project.  Each milestone includes tasks for each training course that are used to capture training preparation/planning/closeout and delivery hours.  Each task is updated with the correct due date for the activities in the milestone.  Best practice is to ensure that the task due dates are updated to accurately reflect training completion dates for forecasting purposes.  
+If there is not confidence that the activities will be complete, then the task due date should be moved out to the next quarter.
 
 ## Operations  
 
@@ -136,7 +162,7 @@ Internal projects are set up to track internal time that is not customer project
 
 ****Customer consulting projects****
 
-  When working on a customer project all hours worked should be tracked against the project, here are some examples: 
+  When working on a customer project, all hours worked should be tracked against the project.  Here are some examples: 
   * Project tasks are aligned with SOW activities and hours tracked against the tasks
   * Internal/ Sales Handoff Calls
   * Internal/ External status meeting
@@ -147,7 +173,7 @@ Internal projects are set up to track internal time that is not customer project
 
 ****Customer training projects****
  
-  When working on a training project all hours worked should be tracked against the project, here are some examples:
+  When working on a training project, all hours worked should be tracked against the project.  Here are some examples:
   * Introduction/ Planning/ Preparation/ Close Out
     * All hours should be tracked against the task for preparation and close out of the training
   * All class hours are to be tracked against the task that gives the name of the training, example is GitLab Basics TRNG Hours
@@ -157,7 +183,13 @@ Professional Services has a hard quarterly close for each quarter
 
 Our agreed schedule with finace is [Montly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
 
-Time sheets would be submitted by the team and then approved by the project lead on the cutoff date, then an additional project lines would be added to finish out the remainder of the week, then follow the normal end of the week process
+Due to the quarterly close, time sheets will need to be submitted and approved twice in the same week.
+
+Time sheets would be submitted by the team and then approved by the project lead on the cutoff date.  Then an additional project line would be added to finish out the remainder of the week, and follow the normal end of the week process.
+
+Here is an example of a time sheet that has been submitted and approved on a Tuesday, then new lines created for the remainder of the week
+
+![splittimesheet](./splittimesheet.png)
 
 
 #### Project Expenses
@@ -175,7 +207,7 @@ The GitLab Billing Manager will pull an expense report after each month end to b
 #### Quarterly time tracking entry and approval workflow
 
 * All hours are submitted and approved in Mavenlink on a weekly basis
-* The quarterly hours report is pulled from Mavenlink and reivewed by the PC and then provided to the PS Delivery Manager for review and approval
+* The quarterly hours report is pulled from Mavenlink and reviewed by the PC and then provided to the PS Delivery Manager for review and approval
 * A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
 * The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
 * Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
@@ -216,15 +248,15 @@ Health Reports provide a weekly snap shot status to PS Management on the overall
 * Project Budget:
    * Is the project tracking to the original budget, as per the SOW? Y/N and if no, why?
 * Client:
-   * How is the customer feeling about the project? Happy, Frustrated, engaged, disengaged
+   * How is the customer feeling about the project? Happy, frustrated, engaged, disengaged
    * The project could be status of red for scope, schedule, etc. and the customer is still happy 
 
 #### Mavenlink Reports
-The professional services team uses Mavenlink reports to track project and team metrics
+The Professional Services Team uses Mavenlink reports to track project and team metrics
 
 [Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
 
 ### Mavenlink Processes
-Mavenlink is our current PSA, follow the link below to view process steps.
+Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
 
 [Link to Mavenlink Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
