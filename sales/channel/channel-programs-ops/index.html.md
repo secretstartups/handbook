@@ -248,7 +248,7 @@ Deliverable \ Ownership
    </td>
    <td>R
 
-<br>(prelim vetting)
+   <br>(prelim vetting)
    </td>
    <td>A, R
    </td>
@@ -404,7 +404,7 @@ The table below describes how the GitLab Channel team will work with the GitLab 
 
 
 
-# Internal NFR Request Processes
+<br># Internal NFR Request Processes
 
 **General NFR Request Process**
 
