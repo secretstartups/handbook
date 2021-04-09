@@ -10,7 +10,7 @@ description: "Learn about the GitLab Professional Services operations processes 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Welcome to GitLab Professional Services Operations 
+## Welcome to GitLab Professional Services Operations 
 Professional Services Operations is a collaboration of our consulting, training, schedululing, reporting and backend processes to support the Professional Services team.
 
 #### How to contact us
