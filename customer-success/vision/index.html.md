@@ -51,7 +51,7 @@ Each customer deployment will go through the following lifecycle stages.
 These will be measured according to product analytics (if available) or through agreement with the customer.
 We define the adoption of a use case using the criteria established in our [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) page.
 
-**Optimize and Grow**: The objective is to enable the customer to get additional value from the GitLab platform. This is achieved through the adoption of additional features, use cases and/or stages, deeper process and operational integration in a customer's environment, optimization of application performance and availability, expansion into additional teams, and additional application of GitLab and DevOps best practices. The customer will remain in this stage as long as the customer continues to renew. The maturity of the customer will be tracked by product analytics (if available) or by collecting feedback from the customer on stages adopted.
+**Optimize and Grow**: The objective is to enable the customer to get additional value from the GitLab platform. This is achieved through the adoption of additional features, use cases and/or stages, deeper process and operational integration in a customer's environment, optimization of application performance and availability, expansion into additional teams, and additional application of GitLab and DevOps best practices. The customer will remain in this stage as long as the customer continues to renew. The maturity of the customer will be tracked by product analytics (if available) or by collecting feedback from the customer on use cases adopted.
 
 ## Measurement and KPIs
 
@@ -160,7 +160,7 @@ If you need help with determining the standard cost rate or if it is applicable 
 ## Current Priorities
 
 1. Success planning (sales, post-transaction, tracking and closure)
-1. Time-to-value (onboarding, first value, maturity model to full stage/user adoption, cross-stage expansion)
+1. Time-to-value (onboarding, first value, maturity model to full use case/user adoption, cross-use case expansion)
 1. Renewal forecasting/sales alignment
 
 ## Process Framework
