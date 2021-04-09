@@ -193,6 +193,25 @@ This field inherits data from other fields in the following priority:
 4. Shipping Address 
 5. Billing Address
 
+## Account Ranking for Enterprise Sales
+Account Ranking in SFDC allows sales to focus and prioritize activities for their target customers, easily nominate or flag accounts for both marketing support and ABM campaigns. Account ranking would also be leveraged to drive discussions during QBRs.
+
+In order to rank accounts each Enterprise Sales rep would updathe the 'Account Rank' field located in Account Rank Information section and can also add the Account Rank Notes. The Account rank should be added at the Ultimate Parent Account level and to not more than 50 Accounts. 
+
+[The Account Ranking Guide](https://docs.google.com/document/d/1u2Dg_jorRi_tgcC_2L-FjAmEqnMya76bvZ6WmAt4qGA/edit) can be used to help the Strategic Account Leader focus on a cadence to target each Account Rank. 
+
+#### Definitions for Enterprise Account Ranking: 
+
+* **Rank 1** highest priority accounts that require both sales focus, SDR and marketing support in the next quarter. These are the accounts reviewed in QBR's each quarter by sales and include both Land and Expand accounts. 
+* **Rank 1.5** quarterly ABM nominations: should match all of Rank 1 criteria
+* **Rank 2** accounts that match our ICP and should be a focus for sales and marketing in the current FY but are not a Rank 1 account. Should include both Land and Expand.
+* **Rank 3** don't match our current ICP but are strategic for sales & GitLab in the region. Should include both Land and Expand
+
+## Account Ranking for Commercial Sales
+t is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see the [Account Ranking section of the Commercial Sales handbook](/handbook/sales/commercial/#account-ranking) for definitions specific to SMB and Mid-Market AEs.
+
+ 
+
 ### Account Ownership Rules of Engagement 
 
 **Effective FY22-Q1**
@@ -1191,16 +1210,4 @@ The adoption of any `Sales Admin` owned records will trigger an email alert that
 3. When an account record has been identified for follow up, the Account Research Specialist will work with the appropriate Regional Director (RD) to determine Outbound SDR assignment based on work load and available capacity.
 4. The assigned Outbound SDR will work the `Prospect - CE User` account the same as any other known `CE User` account leveraging the tools at their disposal (Zoominfo, LinkedIn Sales Navigator, etc) to add contacts to the account record and populate the firmographic profile of the account.
 
-## Account Ranking for Enterprise Sales
-Account Ranking in SFDC allows sales to focus and prioritize activities for their target customers, easily nominate or flag accounts for both marketing support and ABM campaigns. Account ranking would also be leveraged to drive discussions during QBRs.
 
-In order to rank accounts each Enterprise Sales rep would updathe the 'Account Rank' field located in Account Rank Information section and can also add the Account Rank Notes. The Account rank should be added at the Ultimate Parent Account level and to not more than 50 Accounts. 
-
-[The Account Ranking Guide](https://docs.google.com/document/d/1u2Dg_jorRi_tgcC_2L-FjAmEqnMya76bvZ6WmAt4qGA/edit) can be used to help the Strategic Account Leader focus on a cadence to target each Account Rank. 
-
-#### Definitions for Account Ranking: 
-
-* **Rank 1** highest priority accounts that require both sales focus, SDR and marketing support in the next quarter. These are the accounts reviewed in QBR's each quarter by sales and include both Land and Expand accounts. 
-* **Rank 1.5** quarterly ABM nominations: should match all of Rank 1 criteria
-* **Rank 2** accounts that match our ICP and should be a focus for sales and marketing in the current FY but are not a Rank 1 account. Should include both Land and Expand.
-* **Rank 3** don't match our current ICP but are strategic for sales & GitLab in the region. Should include both Land and Expand
