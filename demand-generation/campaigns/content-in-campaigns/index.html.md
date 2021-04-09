@@ -97,7 +97,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 <details>
 <summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
 
-* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=mktg-promotion-template) - Digital Marketing
+* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
@@ -167,7 +167,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 <details>
 <summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
 
-* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=mktg-promotion-template) - Digital Marketing
+* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
@@ -268,7 +268,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 <details>
 <summary>Expand below for quick links to optional activation issues to be created and linked to the epic.</summary>
 
-* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=mktg-promotion-template) - Digital Marketing
+* [ ] [Digital Marketing Promotion Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/digital-marketing/-/issues/new?issuable_template=paid-digital-request) - Digital Marketing
 * [ ] [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Social
 * [ ] [Homepage Feature (only when applicable)](https://gitlab.com/gitlab-com/marketing/growth-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) - Growth Marketing
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
