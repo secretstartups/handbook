@@ -116,7 +116,7 @@ The requirements for each GitLab Certified Service Partner certification can be 
 
 GitLab Field Enablement Channel Program Management is responsible for granting the practitioner level badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated with the GitLab Certified Professional Services Engineer certifications. 
 
-When a partner reaches the required number of trained practitioners, the GitLab Field Enablement Channel Program Manager will open an issue in the [Channels ](https://gitlab.com/groups/gitlab-com/channel/-/issues)project using the Partner_Certification_Award issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
+When a partner reaches the required number of trained practitioners, the GitLab Field Enablement Channel Program Manager will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the Partner_Certification_Award issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
 
 Within 7 calendar days of assignment the CAM will:
 
@@ -158,7 +158,8 @@ Within 7 calendar days of assignment the CAM will:
 
 
 The table below describes how the GitLab Channel team will work with the GitLab Professional Services team when Channel Partners are used to deliver service engagements that were sold on GitLab paper. 
-    RACI= Accountable, Responsible, Consult, Inform
+
+RACI= Accountable, Responsible, Consult, Inform
    
 
 <table>
@@ -259,7 +260,8 @@ Deliverable \ Ownership
 
 ### RACI-CTP
 The table below describes how the GitLab Channel team will work with the GitLab Education Services Delivery team when Channel Partners are used to deliver service engagements that were sold on GitLab paper.
-    RACI= Accountable, Responsible, Consult, Inform
+
+RACI= Accountable, Responsible, Consult, Inform
 
 
 <table>
@@ -304,7 +306,7 @@ The table below describes how the GitLab Channel team will work with the GitLab 
    </td>
   </tr>
   <tr>
-   <td>Royalty Rate 
+   <td>Course Content Price 
    </td>
    <td>C
    </td>
@@ -369,12 +371,7 @@ The table below describes how the GitLab Channel team will work with the GitLab 
   </tr>
   <tr>
    <td>Managing monthly reporting for Channel Excellence:
-<p>
-  Certified
-<p>
-  Subcontractor
-<p>
-  Performance ratings
+   <br>Certified Subcontractor Performance ratings
    </td>
    <td>A, C 
    </td>
