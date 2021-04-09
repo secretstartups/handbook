@@ -119,7 +119,7 @@ Sales capacity is an individual metric that is based on several factors (lead so
 - Capacity Goal (active opportunities in [Stage 1-6](#customer-lifecycle)) - 40 opportunities
 - [SCLAU](#glossary) per month - 10 (40 opportunities / 4 months)
 
-## How tos & Setup
+## How Tos & Setup
 
 ##### Events
 
@@ -192,6 +192,17 @@ This field inherits data from other fields in the following priority:
 3. Zoominfo 
 4. Shipping Address 
 5. Billing Address
+
+### Executive Opportunity Sponsorship Program
+This program gives Sales the ability to align GitLab Executive Group (e-group) members to specific **material deals** for better Executive Sponsorship reporting and forecast accuracy.
+
+**Adding an Executive to an Opportunity in SFDC**
+1. Navigate to the Opportunity in which you want to flag a member of GitLab's e-group
+1. Under the `Opportunity Teams` section, select the `Add` button
+1. On the following screen, make the following updates:
+    - `User` = appropriate GitLab e-group member
+    - `Team Role` = "Opportunity Executive Sponsor"
+    - `Opportunity Access` = whatever desired access you'd like to give them to your opportunity
 
 ### Account Ownership Rules of Engagement 
 
