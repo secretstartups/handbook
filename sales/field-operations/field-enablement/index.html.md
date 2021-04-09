@@ -70,8 +70,8 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
 <!-- blank line -->
 
 ### Key Discussion Points
-- Our [Mission](/company/strategy/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
-- We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/strategy/#mission).
+- Our [Mission](/company/mission-and-vision/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
+- We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/mission-and-vision/#mission).
 - There are benefits to keeping our e-learning material [handbook-first](/handbook/handbook-usage/#why-handbook-first):
     - Folks who have already completed a formal training through an e-learning platform may want to return to the materials
     - Those who never go through the formal platform may also benefit from the materials
