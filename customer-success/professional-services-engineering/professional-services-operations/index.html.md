@@ -67,6 +67,7 @@ T&M project revenue is forecasted by scheduled soft or hard allocations in the M
 ##### Fixed Priced Projects
 
 Fixed priced projects are forecasted by the project milestones in the Mavenlink project.  Each milestone has a sign off task, that task is updated with correct sign off date for the activities in the milestone.  Best practice is update the sign off task to give time for the customer to review and obtain acceptance from the customer.
+If there is not confidence that the activities will be complete and the customer will sign off, then the Sign Off task should be moved out to the next quarter.
 
 ## Project Coordination- Training
 
