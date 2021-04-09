@@ -1194,7 +1194,7 @@ The adoption of any `Sales Admin` owned records will trigger an email alert that
 ## Account Ranking for Enterprise Sales
 Account Ranking in SFDC allows sales to focus and prioritize activities for their target customers, easily nominate or flag accounts for both marketing support and ABM campaigns. Account ranking would also be leveraged to drive discussions during QBRs.
 
-In order to rank accounts each Enterprise Sales rep would updathe the 'Account Rank' field located in Account Rank Information section and can also add the Account Rank Notes. The Account rank should be added at the Ultimate Parent Account level and should not be added to more than 50 Accounts. 
+In order to rank accounts each Enterprise Sales rep would updathe the 'Account Rank' field located in Account Rank Information section and can also add the Account Rank Notes. The Account rank should be added at the Ultimate Parent Account level and to not more than 50 Accounts. 
 
 [The Account Ranking Guide](https://docs.google.com/document/d/1u2Dg_jorRi_tgcC_2L-FjAmEqnMya76bvZ6WmAt4qGA/edit) can be used to help the Strategic Account Leader focus on a cadence to target each Account Rank. 
 
