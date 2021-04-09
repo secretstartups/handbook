@@ -26,7 +26,7 @@ The epic code in each section below outlines the necessary issues to open in ord
 * Jump to gated content (Landing Page) setup process - *being phased out*
 
 ### Types of content in campaigns
-{: #content-types .gitlab-purple}
+{: #content-types .gitlab-orange}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * **Content for use in marketing campaigns:** we leverage the content in our marketing channels (website, email nurture, paid digital, organic social, etc.)
     * [Internal GitLab-created content](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#ungated-internal-content): We created and developed the content in house
