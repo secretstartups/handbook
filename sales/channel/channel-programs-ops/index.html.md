@@ -75,56 +75,90 @@ The Partner Helpdesk team has compiled a list of issues and solutions to the mos
 
 Step 1: Introduce your partners to the [GitLab Certified Service Partner Program](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview) 
 
-Step 2: Set an enablement plan with the partner representative that identifies their key employees who sign up for training and become certified to meet the enablement requirements.
+Step 2: Set an enablement plan with the partner representative that identifies their key employees who sign up for training and become certified to meet the competency requirements for the program.
 
 Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our [Service Development Framework](https://about.gitlab.com/handbook/resellers/services/services-catalog/)
+
+Step 4: Include GitLab Certified Service Partner certifications in their business plan using slide 19 in [the business planning template](https://docs.google.com/presentation/d/1AR4oUnYmyTggB1COoLarxIlAJDhvi-MHhAngCSxLZgc/edit?usp=sharing). Slide 19 is required to be filled out for all partners who are invited to become GitLab Certified Training Partners, and we suggest it for all other partners. 
+
+### GitLab Certified Training Partner Invitation Process
+GitLab Certified Training Partner program is invite only throughout the end of FY22. Each quarter the GitLab Channel Services team will work with GitLab Education Services Delivery team to identify the amount of partners who can be added to the program based on the trainer certification capacity compared to the business need for the program, and set criteria for new partner invitations. The Channel Services team will then engage the Channel Account Management (CAM) team to identify and prioritize the eligible partners per that criteria, and issue the invitations. 
+
+After a partner accepts an invitiation, the CAM will open a project in the Channel Partner collaboration sub-group using the GitLab_Certified_Service_Partner_Program project template and open an issue using the CTP_Requirement_Tracking_Issue template in that project. The template automatically engages the GitLab Channel Services team and the GitLab Education Services Delivery team, but the CAM is required to assign themselves and the partner primary contact to the issue, and complete all sections assigned to the CAM. Please watch this video if you need help learning how to use project and issue templates to complete this action. 
+
+The issue is designed to:
+1. Set certification timeline goals
+2. Track completion of all program requirements for becoming a CTP, including:
+    a. Program Entry requirements
+    b. Competency requirements
+    c. Compliance requirements and setting MBO goals
+    d. Legal and operational requirements
+3. Facilitate internal and partner contributions to the process
+
+When all sections of the issue are completed, the GitLab Education Services Delivery team member will close the issue and proceed with awarding the certification per the GitLab Service Partner Certifications Award Process.
 
 
 ## GitLab Service Partner Certifications Award Process
 
-Channel partners who are compliant with the Channel program are eligible to achieve Certified Service Partner Certifications. We have three Channel Service Partner Certifications: 
+Channel partners who are compliant with the Channel program are eligible to achieve Certified Service Partner Certifications. We have two Channel Service Partner Certifications: 
 
 
 
 1. GitLab Certified Professional Services Partner (PSP)
-2. GitLab Certified Managed Services Partner (MSP)
-3. GitLab Certified Training Partner (CTP)
+2. GitLab Certified Training Partner (CTP)
 
-The table below describes the requirements for each Channel Service Partner Certification on the [Channel Services Handbook Page](https://hduncan-master-patch-91233.about.gitlab-review.app/handbook/resellers/services/index.html#).
-
-
-### Certification Award Process
-
-GitLab Field Enablement Channel Program Management is responsible for granting the practitioner level badges when Partner employees complete the required training and certification exam to achieve the practitioner certifications. 
-
-When a partner reaches the required number of trained practitioners, the GitLab Field Enablement Channel Program Manager will open an issue in the [Channels ](https://gitlab.com/groups/gitlab-com/channel/-/issues)project using the Partner_Certification_Award issue template and assign the Channel Account Manager responsible for the account.
-
-Within 7 calendar days of assignment of the issue to the CAM who will:
+The requirements for each GitLab Certified Service Partner certification can be found on the [Channel Services Handbook Page](https://hduncan-master-patch-91233.about.gitlab-review.app/handbook/resellers/services/index.html#).
 
 
 
-1. Send the appropriate certification award email to the main Partner contact person.
+
+### GitLab Certified Professional Services Partner Award Process
+
+GitLab Field Enablement Channel Program Management is responsible for granting the practitioner level badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated with the GitLab Certified Professional Services Engineer certifications. 
+
+When a partner reaches the required number of trained practitioners, the GitLab Field Enablement Channel Program Manager will open an issue in the [Channels ](https://gitlab.com/groups/gitlab-com/channel/-/issues)project using the Partner_Certification_Award issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
+
+Within 7 calendar days of assignment the CAM will:
+
+
+1. Send the appropriate certification award email to the main Partner contact person. The award email contains the following elements:
     1. Congratulations
-    2. Social Media Sharing Kit
-    3. Badge Graphic Download
-    4. Offer your partners help to create a press release announcing their new certification. 
-    5. Direct your partners to our social media sharing kit to help them effectively announce their new certification per our social media kit.
-    6. Invite your partner to work with you to Start building the partners’ GitLab service practice per our service development.
-2. The Issue will automatically be assigned to GitLab Partner Help Desk who will: 
-    1. Update the partner portal account information
+    2. Access to a Badge Graphic Download 
+    3. Offers partners help to create a press release announcing their new certification
+    4. Directs partners to our social media sharing kit to help them effectively announce their new certification per our social media kit.
+2. The Issue will also be automatically be assigned to GitLab Partner Help Desk who will: 
+    1. Update the partner portal account information with the new certification and include the badge on the partner locator for the account.
     2. If this is the first GitLab Certified Service Partner certification, grant the partner admin access to the GitLab Service Partner Community after the CAM has notified the partner about their new certification. [This video](https://www.brighttalk.com/webcast/18613/472279) demonstrates how.
                                                                                                                                                                                                                                                  
-3. If the partner indicates they want to create a Press Release about their new Services Certification; please follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#partner-needs-support-of-their-press-release-pr-with-a-quote-from-gitlab)  to request a press release.
-1. [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/)
-2. Impartner vs. Edcast: 
+3. If the partner indicates they want to create a Press Release about their new Services Certification; the CAM can follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#partner-needs-support-of-their-press-release-pr-with-a-quote-from-gitlab)  to request a press release.
+
+### GitLab Certified Training Partner Award Process
+
+The GitLab Education Services team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues)project using the Partner_Certification_Award issue template and assign the (CAM) responsible for the account to that issue. The CAM and the Partner Help Desk (PHD) each have tasks to complete in the issue. Instructions and templates are linked in the issue fto make it easy for each team member to carry out the tasks.
+
+Within 7 calendar days of assignment the CAM will:
 
 
-## RACI-Master Services Agreement (MSA)
+1. Send the appropriate certification award email to the main partner contact person. The award email contains the following elements:
+    1. Congratulations
+    2. Access to a Badge Graphic Download 
+    3. Offers partners help to create a press release announcing their new certification
+    4. Directs partners to our social media sharing kit to help them effectively announce their new certification.
+2. The Issue will also be automatically assigned to the PHD who will: 
+    1. Update the partner portal account information with the new certification and include the badge on the partner locator for the account.
+    2. If this is the first GitLab Certified Service Partner certification, the PHD will grant the partner admin access to the GitLab Service Partner Community after the CAM has notified the partner about their new certification. [This video](https://www.brighttalk.com/webcast/18613/472279) demonstrates how.
+                                                                                                                                                                                                                                                 
+3. If the partner indicates they want to create a Press Release about their new Services Certification; the CAM can follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/#partner-needs-support-of-their-press-release-pr-with-a-quote-from-gitlab)  to request a press release.
 
 
 
-    1. Channel Partner - Delivering on GitLab paper RACI
-    2. Accountable, Responsible, Consult, Inform :
+## Channel Service Partners as Subcontractors for GitLab Professional Services
+### RACI-Master Services Agreement (MSA)
+
+
+
+The table below describes how the GitLab Channel team will work with the GitLab Professional Services team when Channel Partners are used to deliver service engagements that were sold on GitLab paper. 
+    RACI= Accountable, Responsible, Consult, Inform
    
 
 <table>
@@ -223,17 +257,154 @@ Deliverable \ Ownership
 
 
 
-## RACI-CTP
+### RACI-CTP
+The table below describes how the GitLab Channel team will work with the GitLab Education Services Delivery team when Channel Partners are used to deliver service engagements that were sold on GitLab paper.
+    RACI= Accountable, Responsible, Consult, Inform
+
+
+<table>
+  <tr>
+   <td><strong>Deliverable \ Ownership</strong>
+   </td>
+   <td><strong>Channel Team</strong>
+   </td>
+   <td><strong> Education Services</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Onboarding process creation including how to engage with GL (contracts, accounting, collaboration/communication)
+   </td>
+   <td>R, A
+   </td>
+   <td>C, I
+   </td>
+  </tr>
+  <tr>
+   <td>Partner onboarding: GitLab Partner Program
+   </td>
+   <td>R, A
+   </td>
+   <td>C
+   </td>
+  </tr>
+  <tr>
+   <td>Learning partner and/or trainer onboarding:   CTP/subcontract list
+   </td>
+   <td>I
+   </td>
+   <td>R, A
+   </td>
+  </tr>
+  <tr>
+   <td>Rate cards (PS/EdS offerings)
+   </td>
+   <td>C
+   </td>
+   <td>R, A
+   </td>
+  </tr>
+  <tr>
+   <td>Royalty Rate 
+   </td>
+   <td>C
+   </td>
+   <td>R, A
+   </td>
+  </tr>
+  <tr>
+   <td>Billing and invoice management for a specific project
+   </td>
+   <td>I
+   </td>
+   <td>R, A
+   </td>
+  </tr>
+  <tr>
+   <td>Coordinate delivery with a partner for a specific customer
+   </td>
+   <td>
+   </td>
+   <td>R, A, C, I
+   </td>
+  </tr>
+  <tr>
+   <td>MSA terms for subcontracting arrangement
+   </td>
+   <td>C, I
+   </td>
+   <td>R, A
+   </td>
+  </tr>
+  <tr>
+   <td>Partner SOW for project engagement
+   </td>
+   <td>
+   </td>
+   <td>A, R
+   </td>
+  </tr>
+  <tr>
+   <td>Subcontracting process definition (SOW, invoicing, etc.)
+   </td>
+   <td>C, I
+   </td>
+   <td>A, R
+   </td>
+  </tr>
+  <tr>
+   <td>“Bench” Relationship Management (FY22) 
+   </td>
+   <td>C, I
+   </td>
+   <td>R, A
+   </td>
+  </tr>
+  <tr>
+   <td>Vetting process for partners 
+   </td>
+   <td>R (prelim vetting)
+   </td>
+   <td>A, R
+   </td>
+  </tr>
+  <tr>
+   <td>Managing monthly reporting for Channel Excellence:
+<p>
+  Certified
+<p>
+  Subcontractor
+<p>
+  Performance ratings
+   </td>
+   <td>A, C 
+   </td>
+   <td>R 
+   </td>
+  </tr>
+  <tr>
+   <td>Collecting Monthly Metrics
+   </td>
+   <td>
+   </td>
+   <td>A, R
+   </td>
+  </tr>
+  <tr>
+   <td>Managing monthly billing
+   </td>
+   <td>I
+   </td>
+   <td>A, R
+   </td>
+  </tr>
+</table>
 
 
 
-3. Engagement Model
-    5. PS and Sales
-4. Reporting?
-5. Badging Process - link to Training & Enablement ops
 
 
-## Internal NFR Request Processes
+
+# Internal NFR Request Processes
 
 **General NFR Request Process**
 
