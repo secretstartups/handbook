@@ -82,9 +82,17 @@ Step 3: Build a business plan to incorporate GitLab as a strategic element in th
 Step 4: Include GitLab Certified Service Partner certifications in their business plan using slide 19 in [the business planning template](https://docs.google.com/presentation/d/1AR4oUnYmyTggB1COoLarxIlAJDhvi-MHhAngCSxLZgc/edit?usp=sharing). Slide 19 is required to be filled out for all partners who are invited to become GitLab Certified Training Partners, and we suggest it for all other partners. 
 
 ### GitLab Certified Training Partner Invitation Process
-GitLab Certified Training Partner program is invite only throughout the end of FY22. Each quarter the GitLab Channel Services team will work with GitLab Education Services Delivery team to identify the amount of partners who can be added to the program based on the trainer certification capacity compared to the business need for the program, and set criteria for new partner invitations. The Channel Services team will then engage the Channel Account Management (CAM) team to identify and prioritize the eligible partners per that criteria, and issue the invitations. 
+GitLab Certified Training Partner program is invite only throughout the end of FY22. 
+1. Each quarter the GitLab Channel Services team will work with GitLab Education Services Delivery team to identify the amount of partners who can be added to the program based on the trainer certification capacity compared to the business need for the program, and set criteria for new partner invitations. 
+2. The Channel Services team will then engage the Channel Account Management (CAM) team to identify and prioritize the eligible partners per that criteria, and issue the invitations. 
 
-After a partner accepts an invitiation, the CAM will open a project in the Channel Partner collaboration sub-group using the GitLab_Certified_Service_Partner_Program project template and open an issue using the CTP_Requirement_Tracking_Issue template in that project. The template automatically engages the GitLab Channel Services team and the GitLab Education Services Delivery team, but the CAM is required to assign themselves and the partner primary contact to the issue, and complete all sections assigned to the CAM. Please watch this video if you need help learning how to use project and issue templates to complete this action. 
+After a partner accepts an invitiation, the CAM:
+1. Will open a project in the Channel Partner collaboration sub-group using the GitLab_Certified_Service_Partner_Program project template.
+2. Name the project "'Partner Company Name' CTP Requirements Project".
+3. Open an issue using the CTP_Requirement_Tracking_Issue template in that project. 
+    a. The template automatically engages the GitLab Channel Services team and the GitLab Education Services Delivery team
+    b. The CAM is required to assign themselves and the partner primary contact to the issue 
+    c. Each assigned team member is required to complete all sections assigned to the their job title. Please watch this video if you need help learning how to use project and issue templates to complete this action. 
 
 The issue is designed to:
 1. Set certification timeline goals
