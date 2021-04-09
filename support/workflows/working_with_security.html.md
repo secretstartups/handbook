@@ -37,6 +37,9 @@ same caution as any other suspicious email:
       * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
       * [DMCA Requests](/handbook/dmca/) - Reporters should forward notice to dmca@gitlab.com. 
       * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)   
+
+For the following, transfer to Security:
+
       * Reports of phishing or malicious content, regardless of hosting source. Keywords:
        - malware/malicious
        - Phish
