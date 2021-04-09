@@ -203,7 +203,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
    * PathFactory [form strategy](/handbook/marketing/marketing-operations/pathfactory/#form-strategy)
 
 
-## Gated Content Landing Pages
+## Gated Content Landing Pages (Historic Process/Format)
 {: #gated-content-landing-pages .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -274,7 +274,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Blog Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Editorial
 * [ ] [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - PR
 * [ ] Analyst Content: AR to add issue template for creating /analysts/ page (if desired)
-* [ ] Analyst Content: [Expiration Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Gated-Content-Expiration-Analysts-MPM) - 
+* [ ] Analyst Content: [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) - 
 
 </details>
 
@@ -387,7 +387,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 {: #add-to-resources-page .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-*Note from `@jgragnola`: let's see if using Pathfactory explore page (automatically tapping into all content) would be a direction we can go to erase this manual step.*
+*Note from `@jgragnola`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
 
 1. Begin a new MR from [the resources yml](https://gitlab.com/gitlab-com/www-gitlab-com/edit/master/data/resources.yml)
 2. Use the code below to add a new entry with the relevant variables
@@ -460,7 +460,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 *Note from @jgragnola: this process needs a lot of work and should be minimal time spent by campaigns team. Create section for ungated journeys, and section (hidden) for former gated pages, and pass to Verticurl.*
 
-* An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Gated-Content-Expiration-Analysts-MPM) will be open for each analyst asset, and related to the overarching Epic upon gating (with due date for when the asset is set to expire)
+* An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be open for each analyst asset, and related to the overarching Epic upon gating (with due date for when the asset is set to expire)
 * At times, we will extend the rights to an asset if it is heavily used by sales or performing well in later stage nurture. In that case the decisio nis indicated in the Expiration Issue, and the team is updated.
 
 ### Retire Marketo landing page
