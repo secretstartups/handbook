@@ -270,6 +270,7 @@ Requested holdover accounts will have the expriation date and next approved owne
 1. **Annual Account  Review Process**
 Accounts will be reviewed annually prior to the Fiscal Year planning process and territory carving.
 
+
 ### Opportunity Ownership Rules of Engagement 
 **Understanding Opportunity Assignment, Rules and Definitions**
 
@@ -1189,3 +1190,17 @@ The adoption of any `Sales Admin` owned records will trigger an email alert that
 2. The Account Research Specialist will be responsible for reviewing the `Prospect - CE User` accounts on a regular basis to determine additional account records that should be worked either by a Sales Team member or Outbound SDR.
 3. When an account record has been identified for follow up, the Account Research Specialist will work with the appropriate Regional Director (RD) to determine Outbound SDR assignment based on work load and available capacity.
 4. The assigned Outbound SDR will work the `Prospect - CE User` account the same as any other known `CE User` account leveraging the tools at their disposal (Zoominfo, LinkedIn Sales Navigator, etc) to add contacts to the account record and populate the firmographic profile of the account.
+
+## Account Ranking for Enterprise Sales
+Account Ranking in SFDC allows sales to focus and prioritize activities for their target customers, easily nominate or flag accounts for both marketing support and ABM campaigns. Account ranking would also be leveraged to drive discussions during QBRs.
+
+In order to rank accounts each Enterprise Sales rep would updathe the 'Account Rank' field located in Account Rank Information section and can also add the Account Rank Notes. The Account rank should be added at the Ultimate Parent Account level and should not be added to more than 50 Accounts. 
+
+[The Account Ranking Guide](https://docs.google.com/document/d/1u2Dg_jorRi_tgcC_2L-FjAmEqnMya76bvZ6WmAt4qGA/edit) can be used to help the Strategic Account Leader focus on a cadence to target each Account Rank. 
+
+#### Definitions for Account Ranking: 
+
+* **Rank 1** highest priority accounts that require both sales focus, SDR and marketing support in the next quarter. These are the accounts reviewed in QBR's each quarter by sales and include both Land and Expand accounts. 
+* **Rank 1.5** quarterly ABM nominations: should match all of Rank 1 criteria
+* **Rank 2** accounts that match our ICP and should be a focus for sales and marketing in the current FY but are not a Rank 1 account. Should include both Land and Expand.
+* **Rank 3** don't match our current ICP but are strategic for sales & GitLab in the region. Should include both Land and Expand
