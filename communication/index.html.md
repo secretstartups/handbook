@@ -410,7 +410,6 @@ Linking should not be in one direction. We should go beyond deep-linking to crea
 
 Team members are responsible for ensuring that links are appropriately updated as changes are made to the handbook.
 
-
 ## Acknowledgement Receipts (ACK)
 
 In order to effectively communicate an important change to hundreds of distributed employees, we occasionally use an ACK process:
