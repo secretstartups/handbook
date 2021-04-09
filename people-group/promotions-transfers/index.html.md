@@ -376,7 +376,11 @@ If selected for the role, a [Letter of Adjustment](/handbook/people-group/promot
 
 ## Department Transfers Manager Initiated
 
-If you are a manager wishing to recruit someone, the process is the same as a team member initiated transfer. We encourage the hiring manager to be transparent with the team member's current manager. This will allow the current manager the maximal amount of time to plan for the transfer and speed up the overall process.
+If you are a manager wishing to recruit someone, the process is the same as a team member initiated transfer. 
+
+* We highly encourage the hiring manager to be transparent with the team member's current manager. This will allow the current manager the maximal amount of time to plan for the transfer and speed up the overall process.
+* The open role should be posted in public internal forums to attract all potentially interested candidates.
+* It is highly discouraged to reach out to a potential candidate directly without talking to their manager first.
 
 ### Internal Department Transfers
 
