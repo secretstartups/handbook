@@ -10,9 +10,20 @@ description: "Learn about the GitLab Professional Services operations processes 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Professional Services Operations 
+# Welcome to GitLab Professional Services Operations 
 Professional Services Operations is a collaboration of our consulting, training, schedululing, reporting and backend processes to support the Professional Services team.
 
+#### How to contact us
+
+Our Team Slack Channel [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) 
+
+The Project Coordinators can be reached by tagging the group `@ps-scheduling`
+
+#### Who we are
+
+[Donita Farnsworth, our Senior Consulting Project Coordinator](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team_members/person/p/psprojectcoor-donita-f.yml)
+
+[Wakae McLaurin, our Senior Training Project Coordinator](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team_members/person/w/wakaemclaurin.yml) 
 
 ## Project Coordination- Consulting
 
@@ -48,6 +59,15 @@ Project revenue release is followed dependant on project billing type:
    * Billed at completion biling terms
      * SOW contains milestones that include activities, and revenue can be released as each milestone is                 accepted or passive acceptance is reached
 
+#### How To Forcast Revneue For Consulting Projects
+
+##### T&M Projects
+T&M project revenue is forecasted by scheduled soft or hard allocations in the Master Planning in Mavenlink.  The hours that are schedule are multiplied by the rate card on the project.  
+
+##### Fixed Priced Projects
+
+Fixed priced projects are forecasted by the project milestones in the Mavenlink project.  Each milestone has a sign off task, that task is updated with correct sign off date for the activities in the milestone.  Best practice is update the sign off task to give time for the customer to review and obtain acceptance from the customer.
+
 ## Project Coordination- Training
 
 #### Training Projects Billing Guidelines
@@ -65,6 +85,9 @@ Training revenue release is followed dependant on training billing type:
      * Once each training class is complete and roster is received
    * Order Form execution billing terms
      * Once each training class is complete and roster is received
+
+#### How To Forcast Revneue Training Projects
+
 
 ## Operations  
 
@@ -157,7 +180,13 @@ Professional Services has a hard quarterly close for each quarter
 
 Our agreed schedule with finace is [Montly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
 
+Due to the quarterly close, time sheets will need to be submitted and approved twice in the same week.
+
 Time sheets would be submitted by the team and then approved by the project lead on the cutoff date, then an additional project lines would be added to finish out the remainder of the week, then follow the normal end of the week process
+
+Here is an example of a time sheet that has been submitted and approved on a Tuesday then new lines created for the remainder of the week
+
+![splittimesheet](./splittimesheet.png)
 
 
 #### Project Expenses
