@@ -222,8 +222,8 @@ For additional security specifically when travelling through an airport, the fol
 
 - Completely power-off laptops and mobile devices before any security checkpoints. This reduces the risk of attacks that may be conducted against machines in a sleep mode, where the disk encryption is not being actively enforced.
 - Prior to the trip, remove any sensitive data from your local machine that is not absolutely required. Refer to the [Data Classification Standards](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-standards) for more information.
-- If you are concerned about the risks involved, you may request advice in the `#security-department` Slack channel.
-
+- If you are travelling through an [embargoed country](https://about.gitlab.com/handbook/sales/#export-control-classification-and-countries-we-do-not-do-business-in), do not bring any company-owned devices with you. If you must bring one, contact the legal department to discuss.
+- If you are aware of any circumstances with your travel that may present a unique security risk (such as traveling to speciality conferences like Defcon), you may request advice in the `#security-department` Slack channel.
 
 
 ## Travel Guidance: COVID-19
