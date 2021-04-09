@@ -33,7 +33,7 @@ Familiarize yourself with what it means to plan your career path, and how leader
 - Watch this [Engineering IC Leadership - Handbook Learning Session](https://www.youtube.com/watch?v=OXBwtaZ9edQ) to understand the difference between **IC leadership** and **Management**.
 
 ## Path to Promotion: Senior Support Engineering
-A Senior-level Support engineer is a natural leader who has championed multiple areas of technical skillsets required to resolve both intermediate and complex customer issues. Senior engineers are direct mentors of Support Engineers, and extend their contributions to other areas, such as contributing to documentation, bug fixes, workflow improvements, or working as the next point of technical escalations.
+A Senior-level Support engineer is a natural leader who has championed multiple areas of technical skillsets required to resolve both intermediate and complex customer issues. Senior engineers are direct mentors of Support Engineers, and extend their contributions to other areas, such as contributing to documentation, bug fixes, workflow improvements, or engaging as the next point of escalation for technical issues.
 
 ### Considerations and Recommendations
 Recommendations to explore this path:
@@ -44,10 +44,15 @@ Recommendations to explore this path:
 Considerations when building your path:
 
 - Schedule a coffee chat or AMA with a Senior Engineer to better understand what they do, and ask for advice on how to work towards this role.
+- As you begin to track and document your path to promotion document for Senior Support Engineering, use meaningful examples that highlight the following:
+    - You consistently collaborate with the team, and willingly jump in to help with critical escalations, customer calls, and emergency issues.
+    - You have the ability to influence positive change within the team.
+    - You support the growth of Support Engineers by offering frequent office hours and pairing sessions.
+    - You enjoy leading by example and look for ways to help improve various workflows, documentation, and training (including onboarding of new team members).
+    - You are willing to stretch yourself with new challenges, and learn to improve from setbacks versus settle for mediocrity.
 
 ## Path to Promotion: Staff Engineering
-Choosing to move into a Staff-level role within the Support team involves an advanced level of technical skills that are often both broad and deep, in combination with leadership skills that help support and mentor other engineers. Staff Engineers lead by example, and often help to breakdown barriers between customers, Support, and other cross-functional teams by contributing to bug fixes, feature enhancements, or diving into deeper complex issues. 
-
+Choosing to move into a Staff-level role within the Support team involves an advanced level of technical skills that are often both broad and deep, in combination with leadership skills that help support and mentor other engineers. Staff Engineers lead by example, and often help to breakdown barriers between customers, Support, and other cross-functional teams by engaging in technical deep dives, contributing to bug fixes, contributing to feature enhancements, or providing architectural / performance-improving recommendations.
 
 ### Considerations and Recommendations
 Recommendations to explore this path:
@@ -59,10 +64,17 @@ Recommendations to explore this path:
 
 Considerations when building your path:
 
-- Schedule a coffee chat or AMA with a Staff Engineer to better understand what they do, ask for advice, and seek to dive into why they went this direction or why they feel they were promoted to Staff.
+- Schedule a coffee chat or AMA with a Staff Engineer to better understand what they do, ask for advice, and seek to dive into why they chose their direction, or why they feel they were promoted to Staff.
+- Consider projects you've led or have participated in, and how your contributions positively impacted the business, team, or customer.
+- As you begin to track and document your path to promotion document for Staff Engineering, use meaningful examples that highlight the following:
+    - You consistently collaborate with engineers across multiple teams, and willingly jump in to help with critical escalations, customer calls, and emergency issues at a level that goes above and beyond the call of duty.
+    - You have the ability to influence positive change and improvements with the product, technology, and cross-functional team collaboration.
+    - You support the growth of both Support Engineers and Senior Support Engineers by offering frequent office hours, pairing sessions, and deep dive technical training sessions.
+    - You perform at a level that is consistent with a technical team lead, and proactively pursue opportunities to find areas of improvement that benefit the business, customers, and team members.
+    - You are willing to stretch yourself with new challenges, and engage in customer meetings to provide a level of support that sets the customer on the path to success.
 
 ## Path to Promotion: Support Engineering Manager
-Choosing to take the management path involves a holistic approach that goes well beyond a checklist of tasks and accomplishments. Becoming a good manager requires a set of people skills that not only embodies the [values of GitLab](/handbook/values/), but goes beyond boundaries as needed to successfully support and lead a team of diverse individuals. Maintaining your technical skillsets becomes secondary, however you have the autonomy to balance your level of technical skill upkeep with the priorities and needs of your team.
+Choosing to take the management path involves a holistic approach that goes well beyond a checklist of tasks and accomplishments. Becoming a good manager requires a set of people skills that not only embodies the [values of GitLab](/handbook/values/), but goes beyond boundaries as needed to successfully support and lead a team of diverse individuals. Maintaining your technical skillsets becomes secondary, however you have the  autonomy (and ability) to balance your level of technical skill upkeep with the priorities and needs of your team. Above all, you keep team members and our customers your top priority.
 
 ### Recommendations and Considerations
 Recommendations to explore this path:
@@ -79,7 +91,8 @@ Considerations when building your path:
 - Consider experiences beyond what you have accomplished at GitLab (previous job experiences or even personal accomplishments) that can be used as supportive examples for building your case to transition into a manager role.
 - As you begin to track and document your path to promotion document for moving into a management role, use meaningful examples that highlight the following:
     - You have the level of confidence needed to initiate change, address challenging situations, and make difficult decisions.
-    - You have the ability to show humility and accept pushback or failure.
+    - You have the ability to show humility and accept pushback or failure with an eagerness to learn from them.
     - You have the ability to accept accountability in support of an individual, the team, our customers, and the business.
     - You have the ability to influence positive change (improvements), starting at the individual level.
-    - You have the ability to build (not demand) trust and respect with team members ranging from peers to direct reports to team members and executives across the entire organization.
+    - You have the ability to build (not demand) trust and respect with team members ranging from peers to direct reports to team members and executives across the organization.
+    - You have the deep desire to grow every team member you work with, using both empathy and open communication to maintain honesty in every line of feedback you give.
