@@ -48,9 +48,9 @@ As a best practice the Hiring Manager should reach out to each individual on the
 > >
 > > c. [insert name of Interviewer 3] - [focus area]
 
-### Step 4/HM: Source candidates and/or review inbound applications
+### Step 4/HM (Optional): Source candidates and/or review inbound applications
 
-Our hybrid recruiting model means that candidates enter the pipeline through an inbound application or via direct sourcing. Hiring Managers are expected to review inbound applications or help identify and source candidates to ensure we have a robust pipeline. 
+Our hybrid recruiting model means that candidates enter the pipeline through an inbound application or via direct sourcing. Depending on capacity, Hiring Managers can contribute to the hiring process by reviewing inbound applications or helping identify and source candidates to ensure we have a robust pipeline. 
 
 You can work with your Recruiter and Sourcer to understand whether your time will be better spent on sourcing outreach or on reviewing inbound applications. 
 
