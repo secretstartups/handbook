@@ -47,7 +47,7 @@ same caution as any other suspicious email:
 
 -  Security questionnaires or other requests for documentation
 
-   * [Customer Assurannce Procedure](/handbook/engineering/security/security-assurance/risk-field-security/).
+   * [Customer Assurance Procedure](/handbook/engineering/security/security-assurance/risk-field-security/).
 
 ### SIRT 
 
