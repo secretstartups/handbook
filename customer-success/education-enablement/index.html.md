@@ -258,7 +258,7 @@ To align our education and enablement with our product, each of the topics below
     </ul>
     </li>
     <li><a href="https://docs.gitlab.com/ee/topics/autodevops/index.html#incremental-rollout-to-production-premium">Advanced Deployments Feature Docs</a></li>
-    <li><a href="https://docs.gitlab.com/ee/user/project/operations/feature_flags.html">Feature Flags Feature Docs</a></li>
+    <li><a href="https://docs.gitlab.com/ee/operations/feature_flags.html">Feature Flags Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/project/releases/">Release Orchestration Feature Docs</a></li>
     </ul>
 </td>
