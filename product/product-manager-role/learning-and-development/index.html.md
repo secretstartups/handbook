@@ -107,11 +107,14 @@ _Please contribute your favorite resources here_
 
 ##### Quick reads and videos
 
+- [Gitlab Jobs to be Done (JTBD) Overview](https://about.gitlab.com/handbook/engineering/ux/jobs-to-be-done/)
 - [Clayton Christensen - Understanding the Job](https://www.youtube.com/watch?v=sfGtw2C95Ms) (5 min video)
 - [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
+
 ##### Deeper dive
 
+- [GitLab Jobs to be Done (JTBD) Deep Dive](https://about.gitlab.com/handbook/engineering/ux/jobs-to-be-done/deep-dive/)
 - [Bob Moesta & Chris Spiek - Uncovering the Jobs to be Done](https://businessofsoftware.org/2014/06/bos-2013-bob-moesta-and-chris-spiek-uncovering-the-jobs-to-be-done/) (57 min video)
 - [Tony Ulwick - Customer Centered Innovation](https://businessofsoftware.org/2015/08/tony-ulwick/) (57 min video)
 - [Xavier Russo - A step-by-step guide to using Outcome Driven Innovataion](https://medium.com/envato/a-step-by-step-guide-to-using-outcome-driven-innovation-odi-for-a-new-product-ded320f49acb)
