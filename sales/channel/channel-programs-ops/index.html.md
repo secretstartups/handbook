@@ -82,7 +82,7 @@ Step 3: Build a business plan to incorporate GitLab as a strategic element in th
 Step 4: Include GitLab Certified Service Partner certifications in their business plan using slide 19 in [the business planning template](https://docs.google.com/presentation/d/1AR4oUnYmyTggB1COoLarxIlAJDhvi-MHhAngCSxLZgc/edit?usp=sharing). Slide 19 is required to be filled out for all partners who are invited to become GitLab Certified Training Partners, and we suggest it for all other partners. 
 
 ### GitLab Certified Training Partner Invitation Process
-GitLab Certified Training Partner program is invite only throughout the end of FY22. 
+GitLab Certified Training Partner program is invite only until 31 January 2021. 
 1. Each quarter the GitLab Channel Services team will work with GitLab Education Services Delivery team to identify the amount of partners who can be added to the program based on the trainer certification capacity compared to the business need for the program, and set criteria for new partner invitations. 
 2. The Channel Services team will then engage the Channel Account Management (CAM) team to identify and prioritize the eligible partners per that criteria, and issue the invitations. 
 
