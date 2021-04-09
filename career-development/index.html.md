@@ -538,6 +538,7 @@ All exceptions should be documented in a handbook page local to the workgroup or
 | Engineering Data Analyst |Quality| 2 : Team | Hyperlink TBD |
 | Distribution Team | Enablement | 2 Staff+ : Team | [Distribution Team Page](/handbook/engineering/development/enablement/distribution/#team-ic-gearing) |
 | Geo Team | Enablement | 2 Staff+ : Team | [Geo Team Page](/handbook/engineering/development/enablement/geo/) |
+| Vulnerability Research | Development | 2 Staff+ : Team | [Issue](https://gitlab.com/gitlab-org/secure/general/-/issues/155) |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
