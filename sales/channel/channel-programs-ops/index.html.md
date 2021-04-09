@@ -90,17 +90,17 @@ After a partner accepts an invitiation, the CAM:
 1. Will open a project in the Channel Partner collaboration sub-group using the GitLab_Certified_Service_Partner_Program project template.
 2. Name the project "'Partner Company Name' CTP Requirements Project".
 3. Open an issue using the CTP_Requirement_Tracking_Issue template in that project. 
-    a. The template automatically engages the GitLab Channel Services team and the GitLab Education Services Delivery team
-    b. The CAM is required to assign themselves and the partner primary contact to the issue 
-    c. Each assigned team member is required to complete all sections assigned to the their job title. Please watch this video if you need help learning how to use project and issue templates to complete this action. 
+   1. The template automatically engages the GitLab Channel Services team and the GitLab Education Services Delivery team
+   2. The CAM is required to assign themselves and the partner primary contact to the issue 
+   3. Each assigned team member is required to complete all sections assigned to the their job title. Please watch this video if you need help learning how to use project and issue templates to complete this action. 
 
 The issue is designed to:
 1. Set certification timeline goals
 2. Track completion of all program requirements for becoming a CTP, including:
-    a. Program Entry requirements
-    b. Competency requirements
-    c. Compliance requirements and setting MBO goals
-    d. Legal and operational requirements
+   1. Program Entry requirements
+   2. Competency requirements
+   3. Compliance requirements and setting MBO goals
+   4. Legal and operational requirements
 3. Facilitate internal and partner contributions to the process
 
 When all sections of the issue are completed, the GitLab Education Services Delivery team member will close the issue and proceed with awarding the certification per the GitLab Service Partner Certifications Award Process.
