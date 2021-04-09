@@ -104,6 +104,8 @@ Copy the content below and please add your system to the stack in its appropriat
   employee_or_customer_facing_app:
   notes: null
   saas: null
+  handbook_link:
+  google_group:
 ```
 
 **Step 2**
