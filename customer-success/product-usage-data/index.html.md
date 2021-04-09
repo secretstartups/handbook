@@ -1,6 +1,17 @@
-<iframe tabindex="-1" role="presentation" aria-hidden="true" title="Blank" src="https://consentcdn.cookiebot.com/sdk/bc-v3.min.html" style="box-sizing: border-box; display: block; margin-left: auto; margin-right: auto; max-width: 100%; color: rgb(51, 51, 51); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: absolute; width: 1px; height: 1px; top: -9999px;"></iframe>
+---
+layout: handbook-page-toc
+title: "Product Usage Data Vision Page"
+description: "The page outlines the current and planned utilization of product usage data at GitLab, including Product, Sale, Cusotmer Success, and Marketing."
+---
 
-![Gitlab hero border pattern left svg](https://about.gitlab.com/images/home/icons-pattern-left.svg)![Gitlab hero border pattern right svg](https://about.gitlab.com/images/home/icons-pattern-right.svg)
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+---
+
 
 # Product Usage Vision Page
 
