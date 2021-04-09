@@ -73,6 +73,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "I’ve stolen this from GitLab, but I think you have to ensure a consistent experience where the people in an office aren’t treated specially and you provide a [remote-first culture](/company/culture/all-remote/meetings/#avoid-hybrid-calls)."
 1. [Journal](https://twitter.com/SamDeBrule/status/1372615291889451010)
    - "we couldn't have created the persona without examples from [@gitlab's handbook](https://about.gitlab.com/handbook/marketing/strategic-marketing/roles-personas/#parker-product-manager)." 
+1. [Aula](https://runekvist.substack.com/p/the-remote-work-bible)
+   - "I started out skeptical about remote work. My fears were vague, like ‘You can’t build a strong company culture if you don’t see each other.’ Now, having built a remote company for two years, I’m unlikely to work from an office ever again GitLab’s journey inspired our leap of faith to tear up our London office lease to embrace remote work."
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
