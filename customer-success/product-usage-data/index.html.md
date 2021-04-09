@@ -95,12 +95,8 @@ The collection and usage of a customer's product usage data will be governed and
 
 ## Relevant Links
 
-- [GitLab customer use cases](https://about.gitlab.com/handbook/customer-success/tam/success-plans/)
-- [Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) : Gainsight is a customer lifecycle management platform used for TAM and digital engagement.
-- [Customer Use Cases and Stage Mapping](https://docs.google.com/presentation/d/1bC_TdQO917hLbj4jfdkhtP0l7w8p1SKEK9vVjga5Wec/edit#slide=id.g7fe53431a5_0_33) (internal document)
-- [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
-- [Adoption Explorer - GitLab Documentation](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit)
-- [SaaS-Activity Dashboard](https://app.periscopedata.com/app/gitlab/684495/WIP---SaaS-Activity)
 - [Customer Success Vision Page](/handbook/customer-success/vision/)
-- [High-Level Visual of GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey)
+- [Customer Use Cases and Stage Mapping](https://docs.google.com/presentation/d/1bC_TdQO917hLbj4jfdkhtP0l7w8p1SKEK9vVjga5Wec/edit#slide=id.g7fe53431a5_0_33) (internal document)
+- [Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) : Gainsight is a customer lifecycle management platform used for TAM and digital engagement.
+- [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
 - [Product Intelligence Overview](https://about.gitlab.com/handbook/product/product-intelligence-guide/) (details on product usage data)
