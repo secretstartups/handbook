@@ -97,6 +97,7 @@ The collection and usage of a customer's product usage data will be governed and
 
 - [Customer Success Vision Page](/handbook/customer-success/vision/)
 - [Customer Use Cases and Stage Mapping](https://docs.google.com/presentation/d/1bC_TdQO917hLbj4jfdkhtP0l7w8p1SKEK9vVjga5Wec/edit#slide=id.g7fe53431a5_0_33) (internal document)
-- [Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) : Gainsight is a customer lifecycle management platform used for TAM and digital engagement.
+- [Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for TAM and digital engagement
 - [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
-- [Product Intelligence Overview](https://about.gitlab.com/handbook/product/product-intelligence-guide/) (details on product usage data)
+- [Product Intelligence Overview](/handbook/product/product-intelligence-guide/) (details on product usage data)
+
