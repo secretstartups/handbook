@@ -43,13 +43,13 @@ Each customer deployment will go through the following lifecycle stages.
 
 **Implementation**: The objective is to ensure the customer has the right infrastructure to support GitLab solution operations. For self-managed customers, this could include setting up on-premises equipment and/or cloud infrastructure. For customers leveraging GitLab.com, this includes integration of the GitLab cloud service with the customers environment (e.g., SAML SSO integration). This is considered complete when production infrastructure is ready for use.
 
-**Adoption**: The objective is to support our customer's utilization of the GitLab solution to address the customer's original purchase intent (i.e., product stage(s) and capabilities, licenses). Adoption is complete when:
+**Adoption**: The objective is to support our customer's utilization of the GitLab solution to address the customer's original purchase intent (i.e., use case(s) and capabilities, licenses). Adoption is complete when:
 
 1. 80% of the licenses from the original purchases are activated and
-1. the customer is successfully adopting the capabilities or stages from their original purchase intent.
+1. the customer is successfully adopting the capabilities or use cases from their original purchase intent.
 
 These will be measured according to product analytics (if available) or through agreement with the customer.
-We define the adoption of a stage using the criteria established in our [Stage Adoption](/handbook/customer-success/tam/stage-adoption/) page.
+We define the adoption of a use case using the criteria established in our [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) page.
 
 **Optimize and Grow**: The objective is to enable the customer to get additional value from the GitLab platform. This is achieved through the adoption of additional features, use cases and/or stages, deeper process and operational integration in a customer's environment, optimization of application performance and availability, expansion into additional teams, and additional application of GitLab and DevOps best practices. The customer will remain in this stage as long as the customer continues to renew. The maturity of the customer will be tracked by product analytics (if available) or by collecting feedback from the customer on stages adopted.
 
