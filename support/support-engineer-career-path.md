@@ -38,7 +38,7 @@ A Senior-level Support engineer is a natural leader who has championed multiple 
 ### Considerations and Recommendations
 Recommendations to explore this path:
 
-- Read about [what does saff level mean at GitLab](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/).
+- Read about [what does staff level mean at GitLab](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/).
 - Read about the [Senior Support Engineer role criteria](/job-families/engineering/support-engineer/#senior-support-engineer).
 - Read about the [Senior level competencies and framework requirements](/handbook/engineering/career-development/matrix/engineering/support/senior/).
 
