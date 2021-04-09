@@ -157,12 +157,6 @@ If you need help with determining the standard cost rate or if it is applicable 
     - **People Operations**: Job types, grades and families
     - **Information Technology**: Customer and operational dashboards, workflow management capabilities (i.e., SFDC, customer success platform), journey automation
 
-## Current Priorities
-
-1. Success planning (sales, post-transaction, tracking and closure)
-1. Time-to-value (onboarding, first value, maturity model to full use case/user adoption, cross-use case expansion)
-1. Renewal forecasting/sales alignment
-
 ## Process Framework
 
 ![Process Framework](images/process-framework.jpg)
