@@ -254,7 +254,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
      <br>* Maintain Customer Satisfaction (CSAT) score for training deliveries of at least 80%
      <ol>
      <li>  CSAT = (Number of satisfied customers - 4s and 5s) ÷ (Number of survey responses) x 100</li>
-     <li>  Customer Satisfaction Surveys must be supplied prior to 30 days of the course delivery completion date</li>
+     <li>  Customer Satisfaction Surveys must be supplied prior to 30 days after the course delivery completion date</li>
      </ol>
      <br>* Submit service attach registration for each GitLab licensed training engagement within 30 days of the delivery completion date
      </td>
