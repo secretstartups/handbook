@@ -132,7 +132,7 @@ Andreas: We agree, and this is planned for 2019. See the epic on [Auditing and d
 
 ##### Dependency management
 
-Fabio: we started working on it as part of the Secure stage ([dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) and [license compliance](https://docs.gitlab.com/ee/user/application_security/license_compliance/)), there is also a [proposal](https://gitlab.com/gitlab-org/gitlab-ee/issues/7476) to make dependency management first-class.
+Fabio: we started working on it as part of the Secure stage ([dependency scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) and [license compliance](https://docs.gitlab.com/ee/user/compliance/license_compliance/index.html)), there is also a [proposal](https://gitlab.com/gitlab-org/gitlab-ee/issues/7476) to make dependency management first-class.
 
 ##### More dashboards and reports for top-level management
 
