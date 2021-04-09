@@ -7,15 +7,6 @@ description: "xMAU is a single term to capture the various levels at which we ca
 ## On this page
 {:.no_toc}
 
-- TOC---
-layout: handbook-page-toc
-title: "xMAU Analysis"
-description: "xMAU is a single term to capture the various levels at which we capture Monthly Active Usage (MAU)"
----
-
-## On this page
-{:.no_toc}
-
 - TOC
 {:toc}
 
