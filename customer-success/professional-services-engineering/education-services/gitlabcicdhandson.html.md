@@ -22,7 +22,7 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 6. Enter your credentials and launch the demo environment. 
 
 ## GitLab CI/CD Labs
-* [Lab 1- Review Example GitLab CI/CD Section(https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab1.html)
+* [Lab 1- Review Example GitLab CI/CD Section](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab1.html)
 * [Lab 2- Create a Project and a GitLab-ci.yml File](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab2.html)
 * [Lab 3- Create a Basic CI Configuration](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab3.html)
 * [Lab 4- Define Pipeline Environments](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab4.html)
