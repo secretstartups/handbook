@@ -234,8 +234,10 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
       </td>
       <td>
       Any or all of the following services can be provided by a CTP: 
-      <br>* Training Services
-      <br>* Subcontract trainers to <a href="https://about.gitlab.com/services/education/">GitLab Education Services</a>
+      <ol>
+      <li>* Training Services</li>
+      <li>* Subcontract trainers to <a href="https://about.gitlab.com/services/education/">GitLab Education Services</a></li>
+      </ol>
       </td>
   </tr>
   <tr>
