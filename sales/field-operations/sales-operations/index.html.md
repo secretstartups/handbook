@@ -385,6 +385,7 @@ Click the “Related Chatter Object” link to view the original request.
 **General Notes:**
 1. If working a case, and the requester makes a second request out of scope, please tag Sales Support so that a new case is opened for Deal Desk to review the request.
 1. If working a case, and any aspect of the request relates to ownership of a closed opportunity, please change the case owner back to Sales Support for Deal Desk to review the request.
+1. **Cases Black Out Week:** The last week of each quarter, Sales Operations will not be responding to new cases that have been submitted.  This is to allow them time to review approved Account movements from the current quarter, validate the moves and prepare them for new Account Ownership the first week of the following quarter.  For urgent case request during this time, chatter sales-support as well as the Sr. Manager of Sales Operations for review.  
 
 <details>
 <summary markdown='span'> Common Scenarios for Sales Operations team on completing Sales Operations Cases
