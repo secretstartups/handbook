@@ -39,10 +39,13 @@ During the onboarding process, a People Experience Associate will complete the f
 Per the current [Referral Submission Process](/handbook/hiring/referral-process/#submitting-a-referral), Team Members will submit referrals through Greenhouse if the vacancy is posted externally and via Issues if the vacancy is **only** open internally. When a new Issue appears, please do the following:
 
 1. Assign the Issue to yourself (upper right corner).
-    * _Reruiting Operations & Insights_ is responsible for assigning the appropriate _Recruiter(s)_.
+    * _Reruiting Operations & Insights_ is responsible for assigning the appropriate _Sourcer(s)_.
+        * The appropriate *Sourcer(s)* is determined by referencing the **Hiring Team** page of the requisition.
 1. Check to make sure the Issue is marked as `Confidential`.
     * _Reruiting Operations & Insights_ will ensure this setting is enabled.
-1. Open Greenhouse and click `+` > `Add a Referral`.
+1. Check to see if the vacancy is posted on the external [Job Board](https://boards.greenhouse.io/gitlab/) and if it is, **tag** the *Referrer*, **comment** that they'll need to submit their referral directly in Greenhouse per [these instructions](/handbook/hiring/referral-process/#submitting-a-referral-in-greenhouse), and **close** the Issue.
+    * _Reruiting Operations & Insights_ will check to make sure the vacancy is only posted internally.
+1. If the vacancy is **only** open internally, go to your Greenhouse dashboard and click `+` > `Add a Referral`.
 1. Reference the Issue to see what should be entered in the following fields:
     * **Job**
         * If a specific requisition is **not** specified, follow-up with the referring Team Member to determine the appropriate role as "general" referrals are **not** accepted.
