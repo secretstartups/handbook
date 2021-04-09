@@ -10,6 +10,8 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 
 We will use a pre-defined template for NodeJS Express to show how Auto DevOps works.
 
+Resource: [SAST docs](https://docs.gitlab.com/ee/user/application_security/sast/)
+
 ### Create a new Node JS Express project with Auto DevOps
 1. Just like with previous labs, navigate to your group and click **New project**. Click **Create from template** and then click **Use template** next to **NodeJS Express**.
 2. In the **Project name** field, enter `Auto DevOps-test`. Make sure the **Visiblity Level** is **Private**. Click **Create project**.
