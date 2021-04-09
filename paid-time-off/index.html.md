@@ -99,6 +99,11 @@ Returning from PTO of any length can feel overwhelming. Consider implementing th
 
 1. When returning from paid time off, it can be helpful to schedule a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
 
+#### Adjust/Remove PTO from past events 
+The People Operations team is able to adjust active PTO events and past PTO events. If you need the team to adjust an event, please send an email to `peopleops@gitlab.com` with the dates and time e.g. 'please remove two hours of PTO from October 31st'. 
+
+We encourage everyone to fully step away from work on their days off but understand that unforseen events can arise. 
+
 ### Sick Time - Taking and Reporting
 
 In keeping with our [values](/handbook/values/) of freedom, efficiency, transparency, kindness, and boring solutions, we have crafted the following protocol around sick time for all GitLab team-members.
