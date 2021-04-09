@@ -138,15 +138,15 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
 
       </td>
       <td>Each PSP must be:
-      <ol>
-      <li> Be a Open or Select GitLab Partner</li> 
+      
+      <br>* Be a Open or Select GitLab Partner
 
 
-       <li> Design, build and operate a professional service practice</li>
-       <li> Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements</li>
+       <br>* Design, build and operate a professional service practice, and 
+       <br>* Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements
  
 
-       </ol>
+       
        </td>
    </tr>
    <tr>
@@ -158,7 +158,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
 
 
       <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Sales Core</a> 
-      <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a> and, 
+      <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect,</a> and 
       <br>*   at least three (3) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Certified Professional Service Engineers</a> 
       </td>
   </tr>
