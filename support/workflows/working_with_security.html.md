@@ -31,7 +31,8 @@ same caution as any other suspicious email:
 
 ### Identifying Issues for Transfer to Security
 
--Escalating a Zendesk ticket from Support to Trust and Safety: 
+Please _do not_ transfer to security and refer to the relevant workflow for the following:
+
 
       * [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
       * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
