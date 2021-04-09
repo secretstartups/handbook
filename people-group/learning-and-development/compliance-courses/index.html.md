@@ -29,10 +29,10 @@ All team members, regardless of location, are required to take harassment preven
 
 1. Review our [Anti-Harassment Policy](/handbook/anti-harassment/) which outlines guidelines, reporting, and disciplinary action. 
 1. We have four separate trainings, but you only need to complete one of them. For managers and leaders, the course is 2 hours long. For all other GitLab Team Members, the course is 1 hour long. You do not need to complete the course in one sitting as you can stop and come back to it. Just ensure it is completed within your first 30 days at GitLab. Click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.): 
-   1. [**Anti-Harassment Training for Non-U.S. Team Members**](https://docs.google.com/document/d/1UNgLozq4KhnJwoE4Fuw_ygFzMchTriYfjyNAwXycs0s/edit?usp=sharing) 
-   1. [**Anti-Harassment Training for Non-U.S. Supervisors**](https://docs.google.com/document/d/1iPJtkEWpqHijkrRDqcw_khW4eFNMFCRG2wWs0rLvzPQ/edit?usp=sharing) 
+   1. [**Anti-Harassment Training for Non-U.S. Team Members**](https://docs.google.com/document/d/1UNgLozq4KhnJwoE4Fuw_ygFzMchTriYfjyNAwXycs0s/edit?usp=sharing)
+   1. [**Anti-Harassment Training for Non-U.S. Supervisors**](https://docs.google.com/document/d/1iPJtkEWpqHijkrRDqcw_khW4eFNMFCRG2wWs0rLvzPQ/edit?usp=sharing)
    1. [**Anti-Harassment Training for U.S. Team Members**](https://docs.google.com/document/d/1Nm1GxbjTixS7goig0YuyXUPibYqKFRtFD1xVvxiR06o/edit?usp=sharing)
-   1. [**Anti-Harassment Training for U.S. Supervisors**](https://docs.google.com/document/d/17QLry3O0T_FNZV69QBJfjcYOhag0f8HwHBxCH9vTlaQ/edit?usp=sharing) 
+   1. [**Anti-Harassment Training for U.S. Supervisors**](https://docs.google.com/document/d/17QLry3O0T_FNZV69QBJfjcYOhag0f8HwHBxCH9vTlaQ/edit?usp=sharing)
 1. Once you are in WILL Learning by clicking the correct link for the course you are taking, click on the *Sign Up Now* link
 1. Enter in your name and **GitLab email address**
 1. Create a password
