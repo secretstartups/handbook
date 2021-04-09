@@ -162,9 +162,16 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 
 # Sales Play Tactics {#sales-play-tactics}
 
-## Related Campaign activies to drive leads to you
+## Sales prescriptive actions to initiate engagement with target audience (outbound)
 
-Marketing is running a related demand gen campaign to drive leads to you using the account list above and this [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house)
+1. Sales review list of their respective accounts
+1. Outreach to customer - how?
+1. (specific way to track in SFDC?)
+
+
+## Related Marketing Campaign
+
+Marketing is running a related demand gen campaign to drive leads to you using the account list above and this [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house).
 
 **Marketing will be sending these emails to generate leads:**
 1. Email #1 (link) Are you getting the most out of GitLab?
