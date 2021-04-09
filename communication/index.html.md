@@ -406,7 +406,7 @@ It is just for ease of reference.
 
 ## Cross-Link 
 
-Linking should not be in one direction. When linking one page to another, try to link back. We should go beyond deep-linking to create a richer web of links that can surface content. Instead of linking from Page A to Page B, link Page A to Page B and then link Page B back to Page A.
+Linking should not be in one direction. We should go beyond deep-linking to create a richer web of links that can surface content. When linking one page to another, try to link back. Instead of linking from Page A to Page B, link Page A to Page B and then link Page B back to Page A. For example, the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide links to the [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/). The [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/) links back to the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide.
 
 For example, the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide links to the [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/). The [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/) links back to the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide.
 
