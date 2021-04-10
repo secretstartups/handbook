@@ -88,9 +88,9 @@ Work with your crew to prevent breaches:
 1. If the ticket **has an assignee**:
    1. If the assignee is in your Region, link the ticket in Slack and ping them asking if they are able to take a look.
    1. If the assignee is from another Region and it's during their “office hours” ask them if they could take a look.
-   1. If the assignee is offline and the ticket/customer needs an update, follow the next step below.
+   1. If the assignee is unavailable and the ticket/customer needs an update, follow the next step below.
    1. If the assignee can’t currently work the ticket ask them to follow the Process in action for [Working on Tickets](#the-process-in-action-2).
-1. If the ticket **has no assignee**, or **assignee is offline**:
+1. If the ticket **has no assignee**, or **assignee is unavailable**:
     1. Read the ticket and if you you know what the next action is, do that (e.g. ask the customer for more information, send your own reply or the solve the ticket if the issue is resolved).
     1. If you're not sure how to respond, talk with your crew in Slack or on Zoom and work together to get a reply out.
     1. If noone on your crew knows how to respond, try to locate a subject matter expert or ping a support manager for advice.
