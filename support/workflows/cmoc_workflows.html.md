@@ -267,7 +267,18 @@ The contents of the maintenance should be filled out according to the details pr
 
 ![Maintenance Details](/images/support/cmoc_maintenance_details.png){: .shadow}
 
-After the maintenance has been created, be sure to include it in your handover to the next on-call CMOC in the [Maintenances](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/-/blob/master/.gitlab/issue_templates/Handover.md#maintenances) section.
+### Rescheduling a maintenance event
+In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
+![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
+
+Select the maintenance you need to reschedule.
+![Maintenance selected](/images/support/cmoc_get_in_maintenance.png){: .shadow}
+
+Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
+
+### Sending an update about a scheduled maintenance
+
+Enter the update provided by the Infrastructure team and confirm the appropiate broadcast channels with the team before proceed to sent the update.
 
 ## Handover Procedure
 
