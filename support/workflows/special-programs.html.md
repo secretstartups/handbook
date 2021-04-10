@@ -17,7 +17,7 @@ We do not offer any non-profit discounts or programs, but users can apply for ou
 
 Use the relevant workflow below when there's a ticket about [GitLab for Education](https://about.gitlab.com/solutions/education/), [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) or [GitLab for Startups](https://about.gitlab.com/solutions/startups/).
 
-Note that our special programs do not include support, but support can be purchased additionally for the Open Source and Startups programs. Internal escalations for all three of the programs can be made via Slack channel [#education-oss](https://gitlab.slack.com/archives/CB21NTDJQ).
+Note that our special programs do not include support, but support can be purchased additionally for the Open Source and Startups programs. Internal escalations for all three of the programs can be made via Slack channel [#community-programs](https://join.slack.com/share/zt-op8hxhoy-V4TBiVh_r41H6uelJeCPfA).
 
 ---
 
