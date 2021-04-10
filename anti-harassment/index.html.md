@@ -226,7 +226,7 @@ forcing a team member to perform certain tasks, which are clearly unnecessary fo
 - ordering a team member to perform menial tasks which are far below the team member's ability or experience and do not provide any work at all for the team member relevant to the business (insufficient work demands)
 - excessively inquiring into the private affairs of a team member (invasion of privacy)
 
-Team members who feel that they may have been subjected to power harassment may bring their complaint to their People Business Partner, who will engage the appropriate internal consultation services and respond to claims.  GitLab is prohibited from dismissing or treating unfairly any team members who report harassment cases or cooperate in an investigation or consultation process.
+Team members who feel that they may have been subjected to power harassment may bring their complaints to their People Business Partner, who will engage the appropriate internal consultation services and respond to claims.  GitLab is prohibited from dismissing or treating unfairly any team members who report harassment cases or cooperate in an investigation or consultation process.
 
 **Prohibition of Sexual Harassment**
 
