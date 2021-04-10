@@ -404,6 +404,11 @@ When taking notes in an agenda, in the handbook, or on our [OKRs](/company/okrs/
 The number is not a signal of the importance or rank of the subject unless explicitly stated to be such.
 It is just for ease of reference.
 
+## Cross-Link 
+
+Linking should not be in one direction. We should go beyond deep-linking to create a richer web of links that can surface content and ensure people consider all pages when making updates. When linking one page to another, try to link back as well. Instead of only linking from Page A to Page B, both link Page A to Page B and link Page B back to Page A. For example, the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide links to the [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/). The [Live Docs Meetings page](/company/culture/all-remote/live-doc-meetings/) links back to the [Live Doc Meeting](/company/culture/all-remote/meetings/#live-doc-meetings) section of the All Remote Guide.
+
+
 ## Acknowledgement Receipts (ACK)
 
 In order to effectively communicate an important change to hundreds of distributed employees, we occasionally use an ACK process:
