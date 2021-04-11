@@ -21,9 +21,9 @@ The Project Coordinators can be reached by tagging the group `@ps-scheduling`
 
 #### Who we are
 
-[Donita Farnsworth, our Senior Consulting Project Coordinator](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team_members/person/p/psprojectcoor-donita-f.yml)
+[Donita Farnsworth, our Senior Consulting Project Coordinator](https://about.gitlab.com/company/team/#dfarnsworth04)
 
-[Wakae McLaurin, our Senior Training Project Coordinator](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/team_members/person/w/wakaemclaurin.yml) 
+[Wakae McLaurin, our Senior Training Project Coordinator](https://about.gitlab.com/company/team/#wmclaurin) 
 
 ## Project Coordination- Consulting
 
