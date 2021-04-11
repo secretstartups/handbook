@@ -76,7 +76,7 @@ In this section we list the companies that have been inspired by GitLab with the
 1. [Aula](https://runekvist.substack.com/p/the-remote-work-bible)
    - "I started out skeptical about remote work. My fears were vague, like ‘You can’t build a strong company culture if you don’t see each other.’ Now, having built a remote company for two years, I’m unlikely to work from an office ever again GitLab’s journey inspired our leap of faith to tear up our London office lease to embrace remote work."
 1. [Spark'n](https://twitter.com/Snakecharmer/status/1381059849807556609)
-   - "Spending a lot of time processing GitLab's rather amazing remote work manifesto/guidebook for use at Spark'n. Really gel with the 100% remote commit for the modern workplace. It's very now and the future. :100: Unreal `@darrenmurph` and team. :raised_hands:"
+   - "Spending a lot of time processing GitLab's rather amazing remote work manifesto/guidebook for use at Spark'n. Really gel with the 100% remote commit for the modern workplace. It's very now and the future. 💯 Unreal `@darrenmurph` and team. 🙌 "
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
