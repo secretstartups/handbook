@@ -104,7 +104,7 @@ Sub-department channels (prefixed with `sd_`) correspond to sub-departments with
 
 **Example**
 
-* **[`#sd_threat_mgmt`](https://gitlab.slack.com/archives/sd_threat_mgmt)**: For the [Threat Management sub-department](/handbook/engineering/development/threat-management/).
+* **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](/handbook/engineering/development/dev/).
 
 
 #### Values Feed Channels (values-feed-)
