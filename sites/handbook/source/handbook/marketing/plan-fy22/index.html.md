@@ -68,6 +68,20 @@ Internal only - search for `GTM Slides - w Data`
    - Meeting will be recorded for reference by all team members
 * Once agreed between sales and marketing, add to [calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1300837366) as the SSoT
 
+### Roles & Responsibilities
+{: #roles-responsibilities}
+<!-- DO NOT CHANGE ANCHOR -->
+
+* **Team Captain:** responsible for providing updates and participating in the scrum of scrums, collaborating with their respective core team to define deliverables and timelines to launch.
+* **Product Marketing:** DRI for sales plays. responsible for production/enablement of Sales Plays and including relevant team members to be involved in steps to launch.
+* **Marketing Campaigns:** DRI for marketing campaigns. both for overall GTM motions and campaigns related to Sales Plays. Responsible for the production of lead generation campaigns and rallying relevant team members to be involved.
+* **Technical Marketing:** responsible for related demo production, outlining best technical content for campaigns and sales plays.
+* **Content Marketing:** responsible for content strategy and production related to the GTM motions and sales plays, and collaborating with other teams on prescpriptive buyer journeys.
+* **Digital Marketing:** resonsible for digital strategy and defining ideal marketing channels to reach goals.
+* **Brand:** responsible for cohesive branded journey across all tactics and between GTM Motions.
+* **Field Enablement:** responsible for sales enablement and training, and collaborating with GTM core teams on launch timeline.
+* **Sales Leadership:** responsible for providing insight into prioritization of sales plays.
+
 ### TOPO Marketing Model
 {: #topo}
 
