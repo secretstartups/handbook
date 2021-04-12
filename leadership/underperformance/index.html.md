@@ -95,13 +95,12 @@ This results in a lower rate of involuntary attrition than comparable companies,
 * [Coaching](/handbook/leadership/underperformance/#coaching)
 * [Verbal Warning](/handbook/leadership/underperformance/#verbal-warning)
 * [Written Warning](/handbook/leadership/underperformance/#written-warning)
-* [Performance Enablement Plan (PEP)](/handbook/leadership/underperformance/#performance-enablement-plan-pep)
 * [Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
 * Letting Someone Go
  
 **It is important to note that there is no requirement for these options to be considered or presented consecutively.** 
 
-It is also important to note that when a PEP or PIP is active, the team member is not eligible for compensation increases from the [annual compensation review](../../total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) or the [annual refresh grant program](../../stock-options/#annual-refresh-grant-program-eligibility).
+It is also important to note that when a PIP is active, the team member is not eligible for compensation increases from the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle) or the [annual refresh grant program](/handbook/stock-options/#refresh-grants).
 
 ### Coaching
 
@@ -131,22 +130,14 @@ A Written Warning is used to bring attention to new or ongoing deficiencies in c
 Here is a [Sample Formal Written Warning](https://docs.google.com/document/d/12wveh-73CDw6mD70_lRNHRxcnqmdnHGLu5pKP00puZk/edit) you can use a template. 
 
 A Written warning should be communicated by email. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder.  The written warning will remain in the BHR file for the requisite time, as required by applicable local law.
-
-### Performance Enablement Plan (PEP)
-
-When coaching a team member is not yielding the performance results desired the manager can move to a Performance Enablement Plan (PEP), as an alternative, before moving to a PIP.  The PEP process helps managers and team members identify areas for improvement, set goals, and measure progress. However, unlike a PIP, an unsuccessful PEP does not result in offboarding but may lead to a PIP.  In some instances after a PEP if a manager believes that a PIP would be unsuccessful then a discussion around the team members continued employment with GitLab will occur.  A PEP is usually set for a short period of time, normally 1 month.  During this time the manager and team member will work together in building the plan and the monitoring progress.  A [PEP Template](https://docs.google.com/document/d/1Gel5ebzMHy0MMqwCqd-fm2DH6wjVpt7ktHqwLiDoxoE/edit) is provided for your reference.  To use, notify the TMR specialist of your intention to deliver a PEP in advance, then simply make a copy and share with the team member.  Please note the Performance Enablement Plan is not a career development tool.  This is to be used to address performance issues and start the process for corrective action.  Managers are highly recommended that they utilize the PEP before moving to a formal PIP. Once a PEP is delivered, the TMR specialist will upload it to the document section in BambooHR and change the employment status to PEP for the duration of the PEP.
-
-You may reference this template as a guideline for [Communication to Team Member After Successful PIP/PEP Completion](https://docs.google.com/document/d/1USeIvAH7ND1Cw8mh1QQ0dY_Ym37Z3QFXbz98648pGRY/edit), and this template for [Successful PEP/PEP Template for Managers](https://docs.google.com/document/d/1hDdn4otiaXZrdmZRQe8Uc9oSVkmYU7SGG3l-NyLNd1c/edit).
-
-The Team Member Relations Specialist (TMR) should stage the PEP document for the team members signature in HelloSign after the manager has delivered and reviewed the PEP with the team member. The team member's signature serves as an acknowledgement that they have received and understand the PEP. 
-
-
+ 
 ### Performance Improvement Plan (PIP)
 
 #### Not The First Step To Letting Someone Go
 
 Many companies use a PIP for most involuntary offboarding, as documented support for releasing a team member.
 At GitLab we think that giving someone a plan while you intend to let them go is a bad experience for the team member, their manager, and the rest of the team.
+
 A PIP at GitLab is not used to "check the box;" a PIP is a genuine last chance to resolve underperformance.
 You should only offer a PIP if you are confident that the team member can successfully complete it. The team member should also be committed to successfully completing the PIP and maintaining the level of performance arrived at through the PIP.  A PIP will not be successful unless both the team member and the manager believes the team member can succeed.
 
