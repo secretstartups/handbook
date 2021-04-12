@@ -25,9 +25,9 @@ Note: this section only discusses items in the offboarding where People Engineer
 graph TD
   A[PEA triggers Slack command for career mobility issue] --> B
   B[Career mobility issue is created, team member is assigned] --> C
-  C[Manager and Interview training issues are opened if people manager]
-  D[Career mobility issue is automatically marked confidential]
-  B --> |Issue is closed|D
+  C[Career mobility issue is automatically marked confidential] --> D
+  D[Manager and Interview training issues are opened if people manager] --> E
+  E[Access Request reminder is commented on the issue]
 ```
 
 ## Career Mobility issue creation
