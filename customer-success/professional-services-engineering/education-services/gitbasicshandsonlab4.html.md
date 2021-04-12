@@ -32,7 +32,7 @@ stages:
 
 1. GitLab started running a CI/CD pipeline as soon as you committed `.gitlab-ci.yml` to your project's repository. To see the project's pipelines, go to the left navigation bar and click **CI/CD** > **Pipelines**.
 2. Only one pipeline has run so far. See the details of that pipeline by clicking the green **passed** label next to the pipeline's table entry.
-3. In the **Build** column, there's a widget representing the **build1** job that belongs to that stage. The same is true for the **Test** column.
+3. In the **Build** column, there's a widget representing the **build1** job that belongs to that stage. In the **Test** column there's a widget representing the **test1** job that belongs to that stage.
 4. Click the **build1** widget to see a web terminal that shows what happened when that job ran.
 5. Go back and do the same for the **test1** widget.
 

@@ -3,34 +3,35 @@ layout: handbook-page-toc
 title: "GitLab with Git Basics Hands On Guide: Lab 1"
 description: "This Hands On Guide is designed to walk you through the lab exercises used in the GitLab with Git Basics course."
 ---
-# GitLab with Git Basics Hands On Guide- Lab 1
+# GitLab with Git Basics Hands On Guide: Lab 1
 {:.no_toc}
 
 ## LAB 1: CREATE A PROJECT AND ISSUE
 ### Create a project
 1. Navigate to **Groups** > **Your groups** in the top navigation bar.
-2. Expand the arrow to the left of **Training Users**. Expand the arrow to the left of the **Session** entry for your class. Click on the entry for **My Test Group** that includes your username (it should be the first entry in your class session).
-3. Click the green **New project** button. Click **Create blank project**.
+2. Expand the arrow to the left of **Training Users**. Expand the arrow to the left of the **Session** entry for your class. Click on the entry for **My Test Group** that includes your username (hint: the group with the `Owner` tag is yours).
+3. Click the blue **New project** button. Click **Create blank project**.
 4. In the **Project name** field, enter `Top Level Project`. Optionally, include a few notes in the **Project description** box.
 5. Under **Visibility Level**, click the radio button for **Private**.
-6. Click the **Initialize repository with a README** checkbox. Click the green **Create project** button.
-Note: If you do not initialize your repository with a README, you will have a “bare” Git repository that you will need to add content to in order to bring into existence.
+6. Click the **Initialize repository with a README** checkbox. If you don't initialize your repository with a README, you will create a “bare” Git repository that you will need to add content to in order to bring into existence.
+7. Click the green **Create project** button.
 
 ### Create an issue
 1. On the left-hand side of the screen, click the **Issues** section on the taskbar. You might need to click the double right-arrow icon at the bottom of the taskbar to make the section names visible.
-2. Click the green **New issue** button.
+2. Click the blue **New issue** button.
 3. In the **Title** field, type `my first issue`. Optionally, enter a comment in the **Description** field.
 4. In the **Assignees** field, click the **Assign to me** link.
 5. Leave all other fields at their defaults and click **Submit issue**.
 
 ### Create custom labels
 1. On the left-hand side of the screen, click the **Labels** section (under the **Issues** header) on the taskbar.
-2. Click the green **New label** button.
+2. Click the blue **New label** button.
 3. In the **Title** field, type `Opened` and assign it a background color of your choosing.
-4. Click the green **Create label** button.
+4. Click the blue **Create label** button.
 Note: this label has been created at the project level, so it is specific to that project. It will not be available at the group level.
-5. Repeat these steps 2 more times, creating labels for `In Progress` and `Completed`, using label colors of your choice.
-6. You should now have 3 labels created under the **Labels** section of the taskbar.
+5. Using the same steps, create labels for `Completed` and `Needs documentation`, using label colors of your choice.
+   
+   You should now have 3 labels created under the **Labels** section of the taskbar.
 
 ### Utilize a quick action
 1. On the left-hand side of the screen, click the **Issues** section on the taskbar.
@@ -44,8 +45,8 @@ Note: this label has been created at the project level, so it is specific to tha
 
 ### Assign labels to an issue
 1. Find the **Labels** section in the right-hand pane of the `my first issue` page. Click **Edit** in that section.
-2. Click on each of the 3 labels you created earlier.
-3. Click away from the **Labels** section, and notice all 3 labels have been assigned to this issue.
+2. Click on the `Opened` and `Needs documentation` labels you created earlier.
+3. Click away from the **Labels** section, and notice that the issue has both labels applied to it.
 
 ### Suggestions?
 
