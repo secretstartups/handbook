@@ -89,7 +89,8 @@ This content is divided into five key competencies for Product Managers.
 
 ##### Deeper dive
 
-_Please contribute your favorite resources here_
+- [Teresa Torres: Adopting Continuous Product Discovery Practices](https://youtu.be/a2HidFrzYIA) 
+- [Product Talk: Customer Interviews Articles](https://www.producttalk.org/category/customer-interviews/)
 
 ##### Online courses 
 
