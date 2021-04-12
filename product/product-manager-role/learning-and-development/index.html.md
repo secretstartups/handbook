@@ -143,7 +143,7 @@ This content is divided into five key competencies for Product Managers.
 
 ##### Online courses 
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning: UX Research: Lean Experimentation](https://www.linkedin.com/learning/ux-research-lean-experimentation/)
 
 ##### Books 
 - [Eric Ries: The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
