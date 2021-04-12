@@ -10,7 +10,7 @@ title: "Territory Planning"
 {:toc .hidden-md .hidden-lg}
 
 ## Overview 
-The goal of reviewing your territory and tiering your accounts (customers AND prospects) is to enable you to prioritize your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow IACV by spending the right amount of time depending on the potential and current value of the customer/prospect.
+The goal of reviewing your territory and tiering your accounts (customers AND prospects) is to enable you to prioritize your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow your opportunity pipeline by spending the right amount of time depending on the potential and current value of the customer/prospect.
 
 ## Analyze Your Territory 
 To get started, you'll need to understand how the territory looks. 
