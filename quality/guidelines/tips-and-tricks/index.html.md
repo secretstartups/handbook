@@ -31,10 +31,19 @@ registry.gitlab.com/gitlab-org/omnibus-gitlab/gitlab-ee:41b42271ff37bf79066ef308
 ```
 
 Copy this string and create a new [GitLab-QA pipeline](https://gitlab.com/gitlab-org/gitlab-qa/pipelines)
- with a `RELEASE` variable and use the copied string as its value. Also, add the `CI_MERGE_REQUEST_IID` variable which corresponds to the Merge Request ID with the changes in GitLab QA. Run the pipeline against the branch that
- has your changes.
+with a `RELEASE` variable and use the copied string as its value. Create another variable called `QA_IMAGE` and set it to the value
+that can be found in the `package-and-qa` upstream job. Here is an example of what the `QA_IMAGE` string looks like:
 
-It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](https://about.gitlab.com/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) using the `RELEASE` variable from the `package-and-qa` job of GitLab's Merge Request. For example, here is the link to run a manual GitLab QA pipeline [against Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines/new?var[RELEASE]=%27insert_docker_image_name_from_the_MR%27).
+```bash
+ registry.gitlab.com/gitlab-org/gitlab/gitlab-ee-qa:qa-shl-use-unique-group-for-access-termination-specs
+ ```
+
+Note that the string is same as `RELEASE` except for the `-qa` suffix on the image name and the tag which is the branch name on the GitLab project.
+
+Now run the pipeline against the branch that has your changes.
+
+It's also possible to trigger a manual GitLab-QA pipeline against a specific [GitLab environment](https://about.gitlab.com/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) using the `RELEASE` and `QA_IMAGE` variable from the `package-and-qa` job of GitLab's Merge Request.
+For example, here is the link to run a manual GitLab QA pipeline [against Staging](https://ops.gitlab.net/gitlab-org/quality/staging/-/pipelines/new?var[RELEASE]=%27insert_docker_image_name_from_the_MR%27).
 
 ## Running end-to-end test pipelines using code from a specific GitLab-QA branch
 
