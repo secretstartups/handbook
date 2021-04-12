@@ -127,6 +127,8 @@ You have the ability to create a GitLab procurement issue directly from Allocadi
 
 For Field Marketing, the reviewer/approver will click into the linked Allocaida line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue. 
 
+More information on the [campaign tag creation](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags) can be found on the FMM handbook page. 
+
 You may also create a procurement issue for software & that video will be forthcoming.
 
 #### Procurement issues that can be created from Allocadia
