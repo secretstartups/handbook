@@ -76,7 +76,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 | ---- | ---------- | ------------------- |
 | Marketing Operations | `Admin` | Manage, quality assurance, user management, system integrations, training |
 | Content Marketing | `Author` | Add content, quality assurance, participate in quarterly content audits |
-| Marketing Campaign Managers | `Author` | Add content, create and edit tracks for use in campaigns, define form strategy for conversion on tracks, participate in quarterly content audits |
+| Campaign Managers | `Author` | Add content, create and edit tracks for use in campaigns, define form strategy for conversion on tracks, participate in quarterly content audits |
 | Product Marketing | `Author` (select users), `Reporter` (select users) | Upload new content, participate in quarterly content audits, collaborate with `Authors` of tracks on content selection |
 | Field Marketing | `Author` (select users), `Reporter` (select users) | Upload content from virtual workshops, clone existing workshop tracks for use in follow-up emails, view content performance |
 | Account-Based Marketing | `Author` | Add content, create and edit content tracks for use in campaigns |
@@ -257,6 +257,8 @@ Form strategy is used on content tracks to collect data from unknown visitors. T
 
 - [Form strategy best practices](https://nook.pathfactory.com/nook/s/article/form-strategy-best-practices)
 - [Form strategy FAQ](https://nook.pathfactory.com/nook/s/article/forms-strategy-faq)
+
+**GDPR Considerations:** When using time-based form strategy, aim for at least 15-30 seconds in order for the user to have plenty of time to accept the cookie consent pop-up prior to filling out the form.
 
 #### Add Form Strategy to a Content Track
 
