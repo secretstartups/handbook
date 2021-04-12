@@ -565,10 +565,10 @@ This is needed for a single owner to be aware of the bigger picture technical de
 
 The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For FY22 we have selected 4 moderators from across Engineering and Product.  The moderators are:
 
-- [Sam Goldstein](https://about.gitlab.com/company/team/#sgoldstein)
-- [Tanya Pazitny](https://about.gitlab.com/company/team/#tpazitny)
-- [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston)
-- [Mike Long](https://about.gitlab.com/company/team/#mikelong)
+- Q1: [Sam Goldstein](https://about.gitlab.com/company/team/#sgoldstein)
+- Q2: [Tanya Pazitny](https://about.gitlab.com/company/team/#tpazitny)
+- Q3: [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston)
+- Q4: [Mike Long](https://about.gitlab.com/company/team/#mikelong)
 
 ## Milestone Cleanup
 
