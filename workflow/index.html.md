@@ -561,6 +561,15 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 At the end of each retrospective the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-structure) is responsible for triaging improvement items identified from the retrospective.
 This is needed for a single owner to be aware of the bigger picture technical debt and backstage work. The actual work can be assigned out to other teams or engineers to execute.
 
+### Retrospective Summary Moderators for FY22 
+
+The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For FY22 we have selected 4 moderators from across Engineering and Product.  The moderators are:
+
+- [Sam Goldstein](https://about.gitlab.com/company/team/#sgoldstein)
+- [Tanya Pazitny](https://about.gitlab.com/company/team/#tpazitny)
+- [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston)
+- [Mike Long](https://about.gitlab.com/company/team/#mikelong)
+
 ## Milestone Cleanup
 
 Engineering Managers are responsible for capacity planning and scheduling for their respective teams with guidance from their counterpart Product Managers.
