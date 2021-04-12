@@ -193,7 +193,8 @@ This content is divided into five key competencies for Product Managers.
 
 ##### Online courses 
 
-- [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=2255073)
+- [LinkedIn Learning: Learning Design Thinking](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization)
+- [LinkedIn Learning: Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=2255073)
 
 ##### Books
 
