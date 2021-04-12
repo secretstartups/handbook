@@ -142,7 +142,7 @@ Within 7 calendar days of assignment the CAM will:
 
 ### GitLab Certified Training Partner Award Process
 
-The GitLab Education Services team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues)project using the Partner_Certification_Award issue template and assign the (CAM) responsible for the account to that issue. The CAM and the Partner Help Desk (PHD) each have tasks to complete in the issue. Instructions and templates are linked in the issue fto make it easy for each team member to carry out the tasks.
+The GitLab Education Services team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the Partner_Certification_Award issue template and assign the (CAM) responsible for the account to that issue. The CAM and the Partner Help Desk (PHD) each have tasks to complete in the issue. Instructions and templates are linked in the issue fto make it easy for each team member to carry out the tasks.
 
 Within 7 calendar days of assignment the CAM will:
 
