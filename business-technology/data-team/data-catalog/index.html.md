@@ -98,7 +98,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 </summary>
   * <a href="/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/" class="">People Metrics</a>
   * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html" class="">Promotions Report</a>
-  * <a href="#" class="/handbook/business-ops/data-team/data-catalog/people-analytics/recruiting_metrics.html.md">Talent Acquisition Metrics</a>
+  * <a href="#" class="/handbook/business-ops/data-team/data-catalog/people-analytics/talent-acquisition-metrics.html.md">Talent Acquisition Metrics</a>
   * <a href="https://app.periscopedata.com/app/gitlab/topic/People/abaa4b1155104d529eed2464838d3f39" class="">Other People Dashboards</a>
   * <a href="#" class="https://app.periscopedata.com/app/gitlab/topic/recruiting/abc202b7029542f98ffb8fefa4958907">Other Talent Acquisition Dashboards</a>
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">People Metrics - Data Discovery in Sisense Dashboard</a>
