@@ -906,7 +906,7 @@ By having ubiquitous words to identify concepts we prevent confusion over what i
 
 Make sure that domains don't overlap, for example [organization size](/handbook/sales/#organization-size) and [deal size](//handbook/sales/sales-term-glossary/) don't reuse words to prevent overlap.
 
-If a term is ambiguous don't use it, for example our [hiring definitions](/handbook/hiring/#definitions) have roles and vacancies but avoid the ambiguous word job.
+If a term is ambiguous don't use it, for example our [hiring definitions](/handbook/hiring/vacancies/#definitions) have roles and vacancies but avoid the ambiguous word job.
 
 Make sure that projects and working groups have clear and direct names. Prefer "CI Spend Reduction Working Group" to "Project Raven Working Group".
 
