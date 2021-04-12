@@ -242,6 +242,19 @@ Industry verticals are set using a standard list in SFDC per [this issue](https:
 1. Transportation
 1. Utilities
 
+### Personas
+
+1. Software Developer
+1. Application Development Director
+1. Vice President Application Development
+1. Security Analyst
+1. Infosec Director
+1. Chief Information Security Officer 
+1. Operations Engineer
+1. Infra Engineering Director
+1. Vice President Infrastructure and Operations
+1. Program Manager
+
 ### Blocked Content from Third-Party Web Pages
 
 If you try to upload a web page from a domain that you do not own and that web page has not whitelisted your PathFactory track URLs, you will be served an error message telling you that you cannot upload this content to the Content Library.
