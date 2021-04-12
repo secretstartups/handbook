@@ -22,7 +22,7 @@ First, be sure to validate the following:
 
 ### Entity Contract Signatories
 
-This chart reflects the available signatories for each of GitLab's entities. They are listed in order of preferred signatory first. 
+This chart reflects the available signatories for each of GitLab's entities. They are listed in order of preferred signatory first. This chart should only be used for new hire contracts where GitLab has entities. This is not for internal move (letter of adjustments) or relocations.
 
 | Entity | Signatory | 
 |-------- | -----|
