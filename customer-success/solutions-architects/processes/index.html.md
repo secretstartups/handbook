@@ -139,7 +139,11 @@ When workload exceeds the SA's capacity or when there is a request from other de
 
 ### EMEA Account Engagement Model
 
-SA engagement for customer interactions, RFP's, audits and more can be requested by any EMEA-based sales executive or other GitLab team-member using the appropriate GitLab issue board. The [EMEA Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-triage/boards) is leveraged by the team in order to ensure coverage for all sales activity. The issue creation and triage processes are described in detail below.
+EMEA Enterprise SA's are aligned regionally with Strategic Account Leaders and aligned in their respective account activities. Each team collaborates according to standard [Working Agreements](#working-agreements), but they can be adjusted by teams individually.
+
+Default alignment is maintained in the [EMEA Triage README](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-triage/-/blob/master/README.md). Exceptions will happen, especially in the case where SAL's work with named accounts.
+
+When workload exceeds the SA's capacity or when there is a request from other departments, please submit the request for assistance on the [EMEA Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/emea-triage/boards). The issue creation and triage processes are described in detail below.
 
 ### Commercial Engagement Model
 
