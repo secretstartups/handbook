@@ -89,7 +89,6 @@ Giving regular [feedback](/company/culture/all-remote/effective-communication/#f
 - Provide [context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication)
 - Use a framework for your feedback. Examples: 1) Two Areas: [Praise](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) (What's working well) and Tips (What could be done differently) or 2), Three Areas: Start, Stop, Continue
 - Ask yourself, is this:
-Ask the questions listed in the [1-on-1 guide](/handbook/leadership/1-1) and the [career development discussion at the 1-on-1](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1) section.
     - Actionable
     - Specific
     - [Kind](/handbook/values/#kindness) (Does the feedback help the person? Note: Being kind is not the same as being nice.)
