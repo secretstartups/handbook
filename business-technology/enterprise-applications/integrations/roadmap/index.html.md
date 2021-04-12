@@ -5,6 +5,12 @@ title: "Integrations Roadmap"
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
+<style>
+#capabilities-table td .bg-green {
+    background-color: green;
+}
+</style>
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -21,6 +27,26 @@ to agree on a high-level architecture for a new integrations platform that we'll
 This integrations platform is designed to serve GitLab's Enterprise Applications ecosystem long into the future and assist us in consistently applying oustanding security, scalability, maintainability, reusability, and testing standards. It will also allow the Integrations Engineering team to provide reliable SLA's to our business partners and move quickly to implement new integrations and refactor existing integrations as GitLab's needs change in this high growth period for the company.
 
 ## Integrations Platform
+
+### Capabilities shortfall
+
+{::options parse_block_html="true" /}
+
+<table id="capabilities-table">
+    <thead>
+        <tr>
+            <th>TitleA</th>
+        </tr>
+    <thead>
+    <tbody>
+        <tr>
+            <td class="bg-green">Hello</td>
+        </tr>
+    </tbody>
+</table>
+
+{::options parse_block_html="false" /}
+
 ### Capabilities?
 Items marked with `*` are optional
 
