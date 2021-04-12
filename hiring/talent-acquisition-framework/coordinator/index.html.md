@@ -29,7 +29,7 @@ The CES team operates off of a queue style system with differing levels of prior
 
 #### How the CES Team will run the Service Desk
 
-1. Under this [CES Service Desk Project](https://gitlab.com/gl-recruiting/ces-service-desk) set up the proper notifications
+1. Under this [CES Service Desk Project](https://gitlab.com/gl-talent-acquisition/ces-service-desk) set up the proper notifications
    - Click on the bell icon on the top right next to Star and Clone
    - Go to Custom Settings
    - Check "New issue"

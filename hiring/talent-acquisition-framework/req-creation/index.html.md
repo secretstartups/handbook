@@ -40,7 +40,7 @@ For positions that are included in the GitLab Hiring Plan, the Talent Acquisitio
 1. The `Internal Job Name` is only viewable within Greenhouse, and the `External Job Name` is what appears on the jobs page. Enter in the requisition's title in these fields, including _Specialty_, if applicable. These two fields should almost always be the same, but if you have questions, please reach out to the Compensation & Benefits Team.
     - If only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
 1. `Department` is the department this role will fall under. Always choose a department and **not** a division (e.g. for a Security Engineer vacancy, choose **Security** within the `Engineering` division, and do **not** choose `Engineering`). If you are unsure of what department to choose, reach out to the Compensation & Benefits team.
-1. If a requisition can be located anywhere GitLab hires, check `Anywhere` next to `Office`. If a vacancy is dedicated to a certain region or time zone, uncheck the `Anywhere` box and select any of the predetermined regions or time zones. If a region or time zone is not shown in the list, please reach out to the [Recruiting Ops Team](https://gitlab.com/gl-recruiting/operations/-/issues/new). In addition to the region or time zone you've selected, it's recommended to also choose `Remote` so that it's clear to applicants that the vacancy is both located in a particular area but also still remote.
+1. If a requisition can be located anywhere GitLab hires, check `Anywhere` next to `Office`. If a vacancy is dedicated to a certain region or time zone, uncheck the `Anywhere` box and select any of the predetermined regions or time zones. If a region or time zone is not shown in the list, please reach out to the [Recruiting Ops Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new). In addition to the region or time zone you've selected, it's recommended to also choose `Remote` so that it's clear to applicants that the vacancy is both located in a particular area but also still remote.
 1. Click `Generate IDs` to create a requisition ID
 1. Under `Employment Type`, select if your vacancy is a _Full-Time_, _Part-Time_, _Intern_, or _Contract_ role. We strongly advise offering both full-time and part-time options for most requisitions. Please note that _Contract_ refers to a true consultant, who works on short-term projects. This is seldom used.
 1. `Salary` will be input by the Total Rewards Team. The salary can be found in the [Compensation Calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/), which is available to all team members and advanced candidates.
@@ -121,8 +121,8 @@ For positions that are included in the GitLab Hiring Plan, the Talent Acquisitio
 Title: Function: Job name, Greenhouse req/opening number
 Due Date: Target Start Date
 Labels: Division and Department
-1. Open up a [kick-off issue](https://gitlab.com/gl-recruiting/req-intake/-/issues/new) and attach to the Child Eric
-1. Open a [weekly check-in issue](https://gitlab.com/gl-recruiting/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md) and attach to the Child Epic.
+1. Open up a [kick-off issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/issues/new) and attach to the Child Eric
+1. Open a [weekly check-in issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md) and attach to the Child Epic.
 
 #### Kick-off & Finalyze Greenhouse Setup (DRI: Recruiter)
 

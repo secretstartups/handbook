@@ -34,7 +34,7 @@ Sourcing Team only - please contact the Sourcing Manager.
   DocuSign
   </summary>
 
-C.E.S. and Sales Operations Team only - please [contact the Talent Acquisition Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
+C.E.S. and Sales Operations Team only - please [contact the Talent Acquisition Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -52,7 +52,7 @@ C.E.S. and Sales Operations Team only - please [contact the Talent Acquisition O
   Guide by Resource.io
   </summary>
 
-Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
+Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -70,7 +70,7 @@ Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl
   Interview Schedule
   </summary>
 
-Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-recruiting/operations/-/issues/new).
+Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -424,7 +424,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 * **System**: BambooHR
 * **Reports**:
-    * Additions & Terminations 
+    * Additions & Terminations
     * Current Team Members
     * Terminations
 * **Instructions**: Pull the listed reports from BambooHR and import them into a Google Sheet. Additionally, split the Marketing and Sales divisions as follows for **all** tabs: `Marketing (SDR)` for *Sales Development* roles, while everything else is `Marketing`; `Sales (NQR)` for *Commercial-* and *Enterprise Sales* roles, while everything else is `Sales (Non-NQR)`.
@@ -439,19 +439,19 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
                 * Add a column after `Termination Date` and call it `Week Ending` (Column I).
                 * Enter the week end date (i.e. Sunday) in the ISO date format for any terminations in the current- or following week.
                 * Look up the `Termination Type` and `Exit Impact` in BambooHR on the departing Team Member's profile and include this is the **Talent Out (Regrettable/Non-Regrettable)** chart.
-    * **Current Team Members**  
+    * **Current Team Members**
         1. Pull the Current Team Members reports.
         1. Insert a column to the right of `Hire Date` and call it `FYXX-QX` (Column B).
             * Enter the corresponding quarter for the given `Hire Date`.
         1. Create a pivot table to count the number to Team Members by division.
-            * Update the bar chart to showcase how the company size has change over the last four quarters.      
+            * Update the bar chart to showcase how the company size has change over the last four quarters.
     * **Talent Out (Regrettable/Non-Regrettable)**
         1. Insert a column to the right of `Termination Date` and call it, `Weeking Ending` (Column D).
         1. Create a pivot table and split the data by `Termination Type` and `Division` and `Exit Impact`.
         1. Create a table from which build a stacked bar chart comparing how many terminations there were in the previous- and current weeks.
     * **Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.**
         * The main columns of the table are as follows:
-            * Division, Talent In & Talent Out for Last Week, Talent In & Talent Out for the Current Week, Headcount, Headcount including *Future Hires*, Planned Headcount at Month End, *Future Terminations*, Headcount Difference, and Headcount Difference including *Future Hires*.   
+            * Division, Talent In & Talent Out for Last Week, Talent In & Talent Out for the Current Week, Headcount, Headcount including *Future Hires*, Planned Headcount at Month End, *Future Terminations*, Headcount Difference, and Headcount Difference including *Future Hires*.
 
 </details>
 
