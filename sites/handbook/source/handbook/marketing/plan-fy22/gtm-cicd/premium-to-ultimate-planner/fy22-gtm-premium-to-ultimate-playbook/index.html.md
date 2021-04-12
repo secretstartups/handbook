@@ -164,13 +164,23 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 
 ## Sales prescriptive actions to initiate engagement with target audience (outbound)
 
-### Options
+### Segment-Specific Paths
 
 A. Do nothing, do not contact this customer
 B. Sales direct outreach 
 C. Marketing volume outreach
 
-Segment-specific?
+#### Large Strategy
+
+For Large customers, sales will do active outreach to customers to engage them in conversation. The marketing emails should be seen as an additional way to engage customers (if sales does not determine to exclude them from the mass emails), but sales action is the key ingredient for this segment.
+
+#### Mid-Market Strategy
+
+For MM customers, sales will do active outreach to customers to engage them in conversation. The marketing email air cover will be complimentary to engage customers, but sales action is the key ingredient for this segment.
+
+#### SMB Strategy
+
+For SMB customers, we will rely on inbound responses to the marketing campaign.
 
 ### Action Items
 
