@@ -129,6 +129,17 @@ For Field Marketing, the reviewer/approver will click into the linked Allocaida 
 
 You may also create a procurement issue for software & that video will be forthcoming.
 
+#### Procurement issues that can be created from Allocadia
+1. Vendor Contracts Marketing Events 
+1. Software Vendor Contract Requests 
+1. General Vendor Requests 
+
+#### Making changes to the Procurement issues
+If you find yourself needing to update a procurement issue template for any of the issues above - nedd to add link, please [submit an issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for the Marketing Strategy & Performance team, as this must be done through our Allocadia CSM. 
+
+#### Wrong procurement issue template was pushed...what now? 
+If you've hit the GitLab Procurement issue template button and the wrong issue tempalte has been created, not to fear! More info coming soon! But we won't leave ya hanging! 
+
 ### SFDC
 
 As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. In addition, we will be sending over the updated forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget.
