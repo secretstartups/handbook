@@ -6,9 +6,25 @@ title: "Integrations Roadmap"
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 <style>
-#capabilities-table td .bg-green {
-    background-color: green;
+#capabilities-table td.bg-green {
+    background-color: #059669;
+    color: white;
 }
+
+#capabilities-table td.bg-red {
+    background-color: #DC2626;
+    color: white;
+}
+
+#capabilities-table td.bg-yellow {
+    background-color: #FCD34D;
+}
+
+table > tbody > tr > td {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
 </style>
 
 ## On this page
@@ -30,22 +46,27 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
 
 ### Capabilities shortfall
 
-{::options parse_block_html="true" /}
-
 <table id="capabilities-table">
     <thead>
         <tr>
-            <th>TitleA</th>
+            <th>Capability</th>
+            <th>Mulesoft</th>
+            <th>Workato</th>
         </tr>
-    <thead>
+    </thead>
     <tbody>
         <tr>
-            <td class="bg-green">Hello</td>
+            <td>Something</td>
+            <td class="bg-green">Yes</td>
+            <td class="bg-red">No</td>
+        </tr>
+        <tr>
+            <td>Something else</td>
+            <td class="bg-green">Yes</td>
+            <td class="bg-yellow">Maybe</td>
         </tr>
     </tbody>
 </table>
-
-{::options parse_block_html="false" /}
 
 ### Capabilities?
 Items marked with `*` are optional
