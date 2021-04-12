@@ -16,7 +16,7 @@ The [People Experience Associate](/job-families/people-ops/people-experience-ass
 
 ### Notice of Offboarding
 
-The offboarding process kicks off once a Slack Workflow has been submitted by a People Business Partner (PBP) in the closed offboarding channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.  The team members status should immediately be updated in BambooHR to either `Notice Period` or `Garden Leave` where applicable. `Notice Period` is defined as the period of work after someone has voluntarily resigned from GitLab. `Garden Leave` can be found with additional details in the [handbook](https://about.gitlab.com/handbook/people-group/offboarding/#leave-of-absence-or-garden-leave) and will be confirmed by the People Business Partner.
+The offboarding process kicks off once the People Business Partner completes the [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform), which is also included in the `#offboardings` Slack channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.  The team members status should immediately be updated in BambooHR to either `Notice Period` or `Garden Leave` where applicable. `Notice Period` is defined as the period of work after someone has voluntarily resigned from GitLab. `Garden Leave` can be found with additional details in the [handbook](https://about.gitlab.com/handbook/people-group/offboarding/#leave-of-absence-or-garden-leave) and will be confirmed by the People Business Partner.
 
 People Business Partners are encouraged to provide reasonable notice that an offboarding will be taking place to allow for adequate planning both on the part of the People Experience Team and the Tech Provisioners involved.
 
@@ -24,7 +24,7 @@ In support of the People Experience Teams efforts to remain both compliant and e
 
 We encourage an earlier time in the day to start offboarding and in timezones where it is more effective to do so earlier (EMEA and JPAC), we'll do our best to accomodate, but not later than 12:00pm PT.  Managers and People Business Partners should account for this in their planning and communicate the same to departing team members.
 
-Should the offboarding fall on a day when the People Experience Team is [unavailable](https://about.gitlab.com/handbook/people-group/people-experience-team/), The People Experience Associate will create a private Slack channel with the team member's manager and team member and discuss off-boarding options. 
+Should the offboarding fall on a day when the People Experience Team is [unavailable](https://about.gitlab.com/handbook/people-group/people-experience-team/), The People Experience Associate will create a private Slack channel with the team member's manager and team member and discuss offboarding options. 
 
 ### Creating the Offboarding Issue
 
@@ -34,17 +34,15 @@ Should the offboarding fall on a day when the People Experience Team is [unavail
 
 Note: If the team member is transitioning to a [temporarily positioned contractor](/handbook/people-group/general-onboarding/consultants/), please proceed with the full offboarding and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
 
-## Updating BambooHR
-1. Update Employment Status -
+### Updating BambooHR
+1. Click on the setting gear symbol in the right hand corner and set employee to terminated, which will prompt for the following information:
    1. Effective Date
    1. Employment Status
    1. Termination Type
-   1. Termination Reason - Ensure the PBP gives you a reason listed within BambooHR.
+   1. Termination Reason - Ensure the PBP gives you a reason listed within BambooHR
    1. Eligible for Rehire
-1. Then click on the setting gear symbol in the right hand corner and set employee to terminated
+1. Add exit impact below Employment Status table
 1. If the team member is within their probation period, delete the "End of Probation Period" and "Active" entries. The top entry in the Employment Status table should be the "Termination" entry.
-
-If the team member is on the People Team, the People Experience Associate will need to notify the Total Rewards team in order to have them update the employment status.
 
 
 ## Tools Offboarding
@@ -69,29 +67,39 @@ After 5 days, when the former team member's offboarding issue is due, IT Ops wil
 
 ### Slack
 
+- Bots
+
 IT Ops check if the team member has created any bots before disabling the account. Go to [Slack](https://gitlab.slack.com/apps/manage) or on your admin Slack profile click Menu >> Configure Apps >> Custom Integrations >> Bots and search through the bots' list for the team member.
 If a bot exists, please DM the manager to confirm if the bot should be removed.
 
+- Custom Emoji's
+
+There is currently a task listed in the offboarding template for the People Experience Associate handling the offboarding to search for and remove any custom emoji for the offboarded team member. Herewith the steps to complete:
+
+1. Select the dropdown in Slack where it states GitLab
+1. Select Settings and Administration
+1. Customize GitLab
+1. Ensure that you are under the Emoji tab
+1. Search for the team members name 
+1. If there is a custom emoji, select the `x` next to the emoji listed to delete
+1. Select confirm to delete permanently from the GitLab Slack workspace
+
 ### Team Page
 
-The People Experience Associate will navigate to the [team.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team.yml). Using Web IDE or your editor of choice, search the team member name and delete their team page image and replace with `../gitlab-logo-extra-whitespace.png`. Don't forget to delete the image by navigating to `sites/marketing/source/images/team` while still here and search for their image. Ideally saved as firstnamelastname.png. The images are in alphabetical order.
+As per the [automation](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#offboarding-merge-request) in place, a merge request is automatically created to remove the team member from the team page. This will update the following:
 
-To remove pet entry and any mentions from the handbook and documention, you will need to download the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) to your computer and use a prefered text editor.
+- Removing the individual file from the data/team_members/person directory
+- Removing the picture used in the previous file
+- Adjusting the reports_to in case the offboarded team member had reports
+- Removing the pet picture in case the team member had any
+- Update the CODEOWNERS file: change to the manager or remove if the manager is already a codeowner for that file
 
-To download;
-1. Navigate to the [GitLab.com project](https://gitlab.com/gitlab-com/www-gitlab-com)
-2. On the far right corner, click `Clone` and copy the clone with SSH URL, git@gitlab.com:gitlab-com/www-gitlab-com.git
-3. On your command line, run `git clone git@gitlab.com:gitlab-com/www-gitlab-com.git `
-This downloads the project to your computer mostly on the document folder. Consider going through the [Clone a repository](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository) and the [Command Line](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html) documents to understand further.
+The People Experience Associate will need to complete:
 
-To `Find All` using Atom;
-1. Download Atom at atom.io
-2. After installing, click `Open Project` on the Welcome Guide Page.
-3. Choose www-gitlab-com project from your Documents folder
-4. On the Find tab drop down menu, click `Find in Project`
-5. Search all variations of the departing team members name; firstname, lastname and GitLab username.
-6. Follow the File path given in the results on the Web IDE and delete all the mentions, make sure to replace any mentions you deem appropriate with who is standing in for the position.
-DO NOT delete any blog mentions.
+- Remove from any entry applicable to the team member from the pet page
+- Remove the team members ReadMe
+- Check that the image for the pet/s has been removed, if not go remove
+
 
 ## Offboarding Compliance
 
