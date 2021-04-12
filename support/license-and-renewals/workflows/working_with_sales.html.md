@@ -83,7 +83,6 @@ Pass to Sales:
 - The customer wants to pay via a method that isn't credit card
 - The customer had a sales-assisted purchase last year and wants to purchase on an order form (company requires a quote or purchase order)
 - The purchase needs to happen via a reseller (reseller or end user contacts us)
-- The customer wants to upgrade their Self-Managed plan and their current subscription is worth more than $1000
 
 DO NOT pass to Sales:
 
