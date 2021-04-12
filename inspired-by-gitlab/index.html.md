@@ -39,6 +39,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - Remote handles international payroll, benefits, taxes, and compliance for businesses big and small. It was founded by a [former GitLab team member](https://www.linkedin.com/in/jobvo/) and uses a public handbook.
 1. [BNP Paribas](https://www.linkedin.com/feed/update/urn:li:activity:6787407510333722624?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6787407510333722624%2C6787420841140457472%29)
    - "Thanks Flexjob and GitLab for your time! Learning how to work efficiently on [all-remote] was really inspiring. We've learned a lot from your daily practices."
+1. [Upwork](https://www.linkedin.com/posts/haydenlbrown_skip-the-workacation-and-take-the-vacation-activity-6787399956862001152-3-rN)
+   - "Skip the workacation and take the vacation! I totally +1 to GitLab's Darren M.'s comment that committing to our team's sanity starts with each of us creating boundaries, particularly in senior leadership. I have actively tried to publicize within my company to promote others to take time off, too."
 1. [Almanac](https://almanac.io/docs/almanac-handbook-5yyZ5TgtZJeCvH5B5WhHU5dwXezgEi6O)
    - "The Almanac team handbook is our company's operating system: a central doc repository of the principles, structures, and systems we use to run the company."
 1. [Tangram Visions](https://medium.com/tangram-visions/making-remote-work-work-with-gitlab-ffab5b0b6697)
