@@ -291,7 +291,7 @@ _To be documented_
 ## Communicating Departures Company-Wide
 
 As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md), GitLab does not provide any context around why people are leaving when they do.
-However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can share their reasons for leaving if they wish.
+However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can [share their reasons for leaving](https://about.gitlab.com/handbook/people-group/offboarding/faq.html#can-i-provide-my-own-update-in-the-team-member-updates-slack-channel) if they wish.
 
 If they choose not to then the departing team member's manager shares the following in the `#team-member-updates` Slack channel:  
 
