@@ -16,27 +16,30 @@ description: "Marketing Operations (MktgOps) supports the entire Marketing team 
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> Charter
 
-Marketing Operations (MktgOps) supports the entire Marketing team to streamline processes and manage related tools. Due to those tools, we often support other teams at GitLab as well. MktgOps works closely with Sales Operations (SalesOps) to ensure information between systems is seamless, data is as accurate as possible and terminology is consistent in respective systems. Not only are we assisting with marketing operations but we are also involved in the operations of marketing, such as the budget and strategies.
+Marketing Operations (MktgOps) supports the marketing organization to streamline processes and manage related tools. We work closely with multiple teams to ensure information between systems is seamless, data is as accurate as possible, and terminology is consistent in respective systems. Our team's primary functions are:
 
-Our team is structured as business partners to the rest of Marketing - see focus next to the names below.
+- Project management of marketing technology stack
+- Streamline and standardize processes related to tools 
+- Data cleanliness and accuracy
+- Best practices and strategy on marketing technology
+- Continuous improvement of marketing systems
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
-- Claudia Beer - Manager, Marketing Operations
-- Beth Peterson - Senior Marketing Operations Manager
-- Amy Waller - Senior Marketing Operations Manager
-- Sarah Daily - Senior Marketing Operations Manager
-- Robert Rosu - Marketing Operations Manager 
-- Gillian Murphy - Marketing Operations Manager
-- Jameson Burton - Marketing Operations Associate
+Our team is structured as business partners to the rest of marketing. See focus next to the names below:
 
-**Business Partners**
+| Person | Role | Focus |
+| ------ | ------ | ------ |
+| [Amy Waller](https://gitlab.com/amy.waller)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Campaigns |
+| [Beth Peterson](https://gitlab.com/bethpeterson)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | SDRs |
+| [Gillian Murphy](https://gitlab.com/gillmurphy) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Localization, and SDRs |
+| [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Associate](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | Operations |
+| [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Data |
+| [Sarah Daily](https://gitlab.com/sdaily)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Content |
 
-- SDRs - Beth Peterson
-- Campaigns - Amy Waller
-- Content - Sarah Daily
+_*indicates business partner_
 
-## <i class="fas fa-users" id="biz-tech-icons"></i> Teams We Work Closely With
+## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/revenue-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Revenue Marketing</a>
@@ -102,6 +105,14 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 **Format:** `As a _____ (role in marketing), I would like to ____________(need), so that ________________(reason).`
 
 Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
+
+### Weights
+
+To help prioritize issues and scope work in our milestones, we've adopted GitLab [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html#issue-weight) to our issues. By adding a weight to our issues, our team will have a better idea of how much time, value or complexity a given issue has or costs. For the numbering formula, we are using the traditional Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21. Anything marked `21` or above may be promoted to an epic. 
+
+### Health Status
+
+To indicate status of issues related to [OKRs](https://about.gitlab.com/company/okrs/), we've adopted [GitLab health status](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status). By adding health status to issues tied to OKRs, you can quickly see whether an OKR-related [epic is on track](https://docs.gitlab.com/ee/user/group/epics/#issue-health-status-in-epic-tree) to complete within a quarter based on the health status of the issues tied to it. 
 
 ### Epics
 
@@ -299,6 +310,7 @@ For budgetary reasons, Marketing Operations will be performing quarterly, and fo
   - Outreach
   - ZoomInfo
   - Linkedin Sales Navigator
+  - PathFactory
 - Tools included under the bi-quaterly guidelines, Q1 and Q3
   - Sigstr
   - Drift

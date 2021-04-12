@@ -97,7 +97,7 @@ The Vimeo player URL is the `https://player.vimeo.com/video/514439220` link with
 
 When the asset is added to a content track, you'll have a working, embedded, private Vimeo video.
 
-## Removing an asset from the library
+### Removing an asset from the library
 
 **Important:** Do not remove an asset from the content library without first checking which content tracks it is in and following the procedure below. Certain assets within content tracks may be directly tied to an integrated campaign, digital advertising, or other live campaign. If you remove the asset from the library, it consequently removes it from whatever content tracks it is in, thus breaking the campaign setup and tracking.
 
@@ -139,7 +139,7 @@ To use a thumbnail image, visit the [web design repository](https://gitlab.com/g
 1. Directly under `Public Configurations`, you'll find the thumbnail for the asset. Hover over the image and click the edit icon.
 1. Under the thumbnail images tab, click to upload the thumbnail image you just downloaded. All images are already properly sized for PathFactory.
 
-## Content types
+### Content types
 
 Unsure what content types align with your asset? Use the table below as a guideline to tag content you upload to PathFactory accordingly.
 
@@ -166,7 +166,7 @@ Unsure what content types align with your asset? Use the table below as a guidel
 | Webcast | A live broadcast & recording that includes a presenter, slides, and a live audience. | [Cloud Native Transformation with Ask Media Group](https://www.youtube.com/watch?v=3ED5NrVoVzk) |
 | Whitepaper | Whitepapers are data-driven, persuasive, and opinionated reports that address a specific problem for a niche audience. A whitepaper presents new research, addresses a specific problem, and argues in favor of a specific solution. Whitepapers are academic and authoritative in tone. Whitepapers are most often introduced in the consideration or decision making stage to prove or validate a concept or solution. | [A seismic shift in application security](/resources/whitepaper-seismic-shift-application-security/) |
 
-## Content topics
+### Content topics
 
 Unsure what content topics align with your asset? Use the table below as a guideline to tag content you upload to PathFactory accordingly.
 
@@ -201,7 +201,7 @@ Unsure what content topics align with your asset? Use the table below as a guide
 | Veracode | | |
 | Version control and collaboration | | |
 
-## Industry Verticals
+### Industry Verticals
 
 Industry verticals are set using a standard list in SFDC per [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/2500). 
 
@@ -242,7 +242,7 @@ Industry verticals are set using a standard list in SFDC per [this issue](https:
 1. Transportation
 1. Utilities
 
-## Blocked Content from Third-Party Web Pages
+### Blocked Content from Third-Party Web Pages
 
 If you try to upload a web page from a domain that you do not own and that web page has not whitelisted your PathFactory track URLs, you will be served an error message telling you that you cannot upload this content to the Content Library.
 
@@ -259,6 +259,6 @@ More on iFrame blocking can be found [here](/handbook/marketing/marketing-operat
 
 When uploading third-party assets, always ensure they are secure URLs (`https://`). Content that is not secure will not display in content tracks. Also, third-party web pages would need to allow iFraming as PathFactory tracks are served within an iFrame.
 
-## Content Expiration Policy
+### Content Expiration Policy
 
 Two years from the day it was uploaded. Please review any assets in the library older than two years and consider expiring from the content library. 

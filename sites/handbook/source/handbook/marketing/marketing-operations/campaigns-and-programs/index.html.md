@@ -101,30 +101,6 @@ This is when a package or piece of mail is sent out.
 | Delivered | Package was received by the addressee | Yes |
 | Responded | Recipient took action or CTA (trackable on PURLs | Yes |
 
-**This is for the Alyce Integration**
-
-**Bizible:** This is tracked as an _offline_ channel. Only responded members are included.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| Gift is being researched | Alyce Gift Created |  |
-| Need more information for gift| Alyce needs more information on the recipient |  |
-| Gift options ready| Gift options ready to be viewed  | Yes |
-| Gift invitation scheduled|Gift invitation scheduled| |
-| Gift invitation in fulfillment | Alyce gift invitation sent to fulfillment | |
-| Gift out for delivery | Gift out for delivery| |
-| Email invitation bounced | Email invitation bounced| | 
-| Physical invitation returned | Physical invitation returned | | 
-| Gift invitation sent by email | Alyce gift invitation sent with email | |
-| Physical gift invitation sent | Alyce physical gift invitation sent|  |
-| Gift invitation delivered | Alyce physical gift invitation delivered|  |
-| Gift accepted | Alyce gift accepted by the recipient| Yes |
-| Gift expired | Alyce gift expired|  |
-| Gift declined | Alyce gift declined by the recipient|  |
-| Gift disabled | Alyce gift disabled or deleted|  |
-| Invite Bounced | Invite Bounced | | 
-| Gift invitation viewed | Alyce gift invitation viewed by the recipient|  |
-
 
 #### Executive Roundtables
 
@@ -404,7 +380,9 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
     - Update `Status` to `In Progress` or the approriate selection
     - Update `Region` and `Sub-region`, if these are local or targeted to a specific region
-    - Update `Budget Holder`, if the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - NOTE: an offling Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/).
+    - Update `Budget Holder` -  Do keep in mind that the `Budget Holder` field should be updated **only if**:
+        - the campaign results in offline Bizible touchpoints based on campaign type (i.e. content syndication, sponsored webcast, etc.) - **NOTE:** an offline Bizible touchpoint happens when we gather a lead offline and in order for the system to have this name you must go through a [list upload process](/handbook/marketing/marketing-operations/list-import/).
+        - there were Gitlab Dollars spent on the campaign (Field, Digital, Corporate, Community etc.) - can be left blank in the cases when we have campaigns that do not utilize budget; - **NOTE:** By updating the budget holder, we do **NOT** run the risk of double counting touchpoints, however, do keep in mind that since the field is not always filled out, it shouldn't be used for measuring each team's performance.   
     - All other fields on the campaign are not required and are not used for reporting - take `Status` as an example. You WOULD update this field to `Aborted` if the campaign was cancelled for any reason. We have a process that goes into more detail specifically when [offline events are cancelled](/handbook/marketing/events/#cancellation-of-offline-events). 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
@@ -525,6 +503,8 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 #### Steps to Use HopIn Connector
 Follow all of the set up steps [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-marketo-programs-and-salesforce-campaigns). You will also need to do go into the `Hopin Integration` folder in the Owned Event Template and you will see several smart campaigns and a form.
 
+**YOU MUST CONNECT HOPIN TO MARKETO BEFORE YOU TURN ON REGISTRATION IN HOPIN (STEP 1 BELOW)**
+
 1. `01a Registration from Hopin` is used if you are using HopIn registration pages. This smart campaign triggers off of a custom activity `Registers for HopIn Event` and will add the registrant to the proper campaign. 
    - To use, make sure you update the program token `{{my.hopin event name}}` with your HopIn event name. Use `starts with` as the operator to make sure you catch all registrants. You can pull the `Event Name` from the HopIn platform.
    - When token is updated, you can turn on. No changes are necessary for the Flow.
@@ -611,7 +591,7 @@ _e.g.: 2020_Social_GitOps_iacgitops_LinkedIn Lead Gen_
   - Edit the `flow` steps to be the nurture program you desire to push leads into, and the stream.
 
 ##### Step 5: Update this Handbook page
-- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a :white_check_mark: for the parameter you have set up.
+- Update this [handbook page with the parameter](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only) with a `yes` and a link to the parameter and campaign you have set up.
 
 ## Removing Registrations from Marketo Programs
 

@@ -12,7 +12,19 @@ description: "PathFactory is an intelligent B2B content experience platform used
 
 ## What is PathFactory?
 
-PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](/handbook/marketing/inbound-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Marketing campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
+PathFactory is an intelligent B2B content experience platform used to create personalized content journeys for your audience. The [global content](/handbook/marketing/inbound-marketing/content/) team is primarily responsible for all the of the content within the PathFactory. Campaign managers work with other teams in marketing to organize and curate assets into tracks that are then disseminated for use in Marketo, `about.gitlab.com`, and other campaign-related channels.
+
+## What is PathFactory used for?
+
+- PathFactory is used primarily for email nurture streams, landing pages, advertising, and virtual event follow-up.
+ 
+- Assets are bundled together (around 5-7) in a "content track" and shared as one link. Instead of sharing multiple links to individual assets, **one link** provides a curated content experience. 
+
+### What PathFactory is _not_ used for
+
+- **Sharing individual assets.** It's meant to encourage a visitor to "binge" the content and self-nurture towards MQL. For sharing individual assets, please direct to the GitLab website.
+
+- **Creating web pages.** Pathfactory is a content library that curates experiences (think of it like Netflix for B2B content). Pathfactory is not a replacement for Marketo.
 
 ### PathFactory vs. Marketo
 
@@ -54,6 +66,7 @@ There are three levels of access - `Admin`, `Author`, `Reporter` - which are gra
 - `Admin` access is granted to Marketing Operations and at times, other teams such as sales or business operations to manage integrations between systems.
 - `Author` access allows user to build, edit and publish content tracks applying existing tags to the assets.
 - `Reporter` access provides general visibility to content within PathFactory but does not allow end user to create or modify any of the content, tracks or tags. This level of access is granted for the general GitLab team member both within Marketing and elsewhere who have a business need to have access. 
+- `Sales User` is anyone who has a valid email domain associated with our PathFactory instance, but who does not have a login. These users are not able to login to PathFactory, but they will be able to share any content tracks that `Admins` select on the `Sales Configuration` page.
 
 For more info on the capabilities of each role, [see the knowledge base article](https://nook.pathfactory.com/nook/s/article/user-roles). 
 
@@ -98,8 +111,10 @@ For more info on the capabilities of each role, [see the knowledge base article]
 
 **[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
 
-1. [Pathfactory Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
+1. [Pathfactory Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - per [rules of engagement](/handbook/marketing/marketing-operations/pathfactory/#rules-of-engagement-by-team), the content owner is DRI on uploading their new content
+   - *The upload issue may be created in the content owner's GitLab project; this issue template may be helpful in outlining the steps, campaigns team is not responsible for uploads.*
 1. [Pathfactory Bulk Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk)
+   - *This issue template should be used sparingly, as content should be added to Pathfactory by content owners ongoing as it becomes available. This is helpful for examples like a number of videos produced during a Commit event with many sessions.*
 1. [Pathfactory Track Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
 
 ## Changelog
@@ -520,3 +535,32 @@ An iframe, or inline frame, is a tag `<iframe> </iframe>` that is used to embed 
 PathFactory uses iframes to serve content inside content tracks. Some web pages have restrictions that prevent their content from displaying in an iframe.
 
 - [About iFrame Blocking](https://nook.pathfactory.com/nook/s/article/about-iframe-blocking)
+
+## Google Chrome Extension
+
+The [Google Chrome Extension for PathFactory](https://nook.pathfactory.com/nook/s/article/integrate-with-chrome) lets PathFactory users share content tracks and explore pages via Gmail. This functionality lets you embed content thumbnails and titles when sending emails using Gmail. [See FAQ in The Nook](https://nook.pathfactory.com/nook/s/article/chrome-faq).
+
+### How to install
+
+1. Download the PathFactory Chrome extension [here](https://chrome.google.com/webstore/detail/pathfactory-chrome-extens/mhhpkoilfamiipddihngolbcjboodcjf). Once you download the app, the PathFactory logo will appear in the top right corner of your Chrome address bar.
+1. The PathFactory icon in your browser will appear greyed out unless you are in Gmail. Click the PathFactory icon when in the Gmail tab of your Google Chrome browser.
+1. Sign in with your Google credentials.
+
+### How to include PathFactory content in Gmail
+
+1. Compose a new email in Gmail. 
+1. After composing your message, click the PathFactory icon next to the `Send` button.
+1. Navigate to the desired content track or content asset using the folder system. Use the search bar to find a specific track or content asset, and/or the filter to find content with specific topics.
+1. There are two ways for you to include content in your email:
+   - Embed content thumbnails in an email: select a content asset, then click the `Insert` in the bottom right.
+   - Hyperlink to either a content track or to a specific content asset within a track: click `Copy Link` next to the content track or content asset. Close the modal to return to the email, select the text you want to link from, click the `Insert Link` button, then paste the copied link.
+
+Only `Admins` can enabled content tracks in the organization settings for use in the Chrome extension. Open an issue in the marketing operations project if you would like a specific content track enabled.
+
+### Tracking
+
+The PathFactory Google Chrome Extension will only de-anonymize users who view content sent in emails if the following is true:
+
+1. The email is only sent to 1 recipient
+   - This means only 1 recipient in total, if using To, CC, or BCC
+1. You use the Embed content thumbnail option (not the copy link option)
