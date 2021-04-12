@@ -116,7 +116,7 @@ We also want to ask about Stage Adoption metrics so that we can tie their GitLab
   - What do you use to scan your application source code and binaries?
   - Do you analyze your running web application for known runtime vulnerabilities?
   - What do you use to check your Docker images for known vulnerabilities?
-  - Do you look for known vulnerabilities in you external dependencies?
+  - Do you look for known vulnerabilities in your external dependencies?
 - **Release**
   - Are you using GitLab to deploy your applications?
   - Do you use GitLab pages to create, manage and deploy static sites?
