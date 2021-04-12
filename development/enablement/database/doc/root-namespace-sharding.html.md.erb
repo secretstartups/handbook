@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Sharding GitLab by root namespace
+title: Sharding GitLab by top-level namespace
 ---
 
 ## On this page
@@ -9,9 +9,9 @@ title: Sharding GitLab by root namespace
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Sharding GitLab by Root Namespace
+## Sharding GitLab by top-level namespace
 
-This document summarizes the idea of sharding GitLab by root namespace. It is meant to provide an idea of how product features would have to change with namespace sharding and to highlight the difficulties and complexities we anticipate with this approach, as well as touching on implementation details and known unknowns.
+This document summarizes the idea of sharding GitLab by top-level namespace. It is meant to provide an idea of how product features would have to change with namespace sharding and to highlight the difficulties and complexities we anticipate with this approach, as well as touching on implementation details and known unknowns.
 
 ### Nomenclature - what is a namespace?
 
@@ -19,10 +19,10 @@ Let's start off by defining common nomenclature.
 
 #### Namespace
 
-In GitLab, projects are contained inside a *namespace*.. A namespace can be nested inside another namespace. This forms a tree-like hierarchy: Namespaces are the nodes of the tree, projects are the leaves. The root of this hierarchy is called "root namespace".
+In GitLab, projects are contained inside a *namespace*.. A namespace can be nested inside another namespace. This forms a tree-like hierarchy: Namespaces are the nodes of the tree, projects are the leaves. The root of this hierarchy is called "top-level namespace".
 
 Let's decompose this example: https://gitlab.com/gitlab-org/database-team/team-tasks
-1. `gitlab-org`: root namespace
+1. `gitlab-org`: top-level namespace
 1. `database-team`: a group inside `gitlab-org`
 1. `team-tasks`: a project inside `database-team`
 
@@ -35,11 +35,11 @@ A data access pattern is a commonly found perspective of how data is being looke
 2. Data by user: The primary query filter is the user id. GitLab example: User dashboard
 3. Data by namespace: The primary query filter is the namespace id. GitLab example: issue group search
 
-### Sharding by root namespace
+### Sharding by top-level namespace
 
-The gist of this idea is to slice all data horizontally by the respective root namespace. 
+The gist of this idea is to slice all data horizontally by the respective top-level namespace.
 
-Let's use `/gitlab-org` and `/gitlab-com` as two example root namespaces. Both contain many sub-groups, projects, a lot of issues, merge requests, CI data and so on. With sharding applied at the database level, we separate those two namespaces in the database into separate shards (for the sake of the example):
+Let's use `/gitlab-org` and `/gitlab-com` as two example top-level namespaces. Both contain many sub-groups, projects, a lot of issues, merge requests, CI data and so on. With sharding applied at the database level, we separate those two namespaces in the database into separate shards (for the sake of the example):
 
 1. Shard 1: `/gitlab-org` and all its data
 2. Shard 2: `/gitlab-com` and all its data
@@ -55,14 +55,14 @@ Complicating things, there is data that is completely unrelated to a namespace. 
 Before we dive into details, let's summarize shortly what is ideal for this sharding approach:
 
 1. There is only one common sharding dimension for related data, i.e. data that is commonly accessed together in one database query.
-1. Shardable data has some notion of the sharding key, e.g. a reference to a namespace. This can be a transitive property, e.g. an issue does not have a direct reference to the root namespace but rather is contained in a project, perhaps other groups which eventually reference the root namespace.
+1. Shardable data has some notion of the sharding key, e.g. a reference to a namespace. This can be a transitive property, e.g. an issue does not have a direct reference to the top-level namespace but rather is contained in a project, perhaps other groups which eventually reference the top-level namespace.
 1. Features are designed such that their data access patterns align with the sharding dimension.
 
 The following section details apply these points to GitLab.
 
 ### Common sharding dimension in GitLab
 
-We describe database sharding by root namespace and this builds on the premise of using the root namespace as the common sharding dimension throughout the application. Let's look into how well this works in GitLab.
+We describe database sharding by top-level namespace and this builds on the premise of using the top-level namespace as the common sharding dimension throughout the application. Let's look into how well this works in GitLab.
 
 #### Database schema
 
@@ -83,13 +83,13 @@ Let's look at two examples here, more can be found in [#50](https://gitlab.com/g
 
 ##### Issues
 
-An issue tracker lives inside a single project. As such, issue data transitively references a root namespace.
+An issue tracker lives inside a single project. As such, issue data transitively references a top-level namespace.
 
 Sharding by namespace is ideal for these features:
 1. Listing and working with a project issue tracker including search etc ([example](https://gitlab.com/gitlab-org/gitlab/-/issues))
 2. Similar the group level ([example](https://gitlab.com/groups/gitlab-org/-/issues))
 
-For these examples, we can clearly see the access path is "by namespace" or "by project" (which ultimately "by root namespace" covers).
+For these examples, we can clearly see the access path is "by namespace" or "by project" (which ultimately "by top-level namespace" covers).
 
 On the other hand, there are features which would require a cross-shard scan:
 
@@ -102,12 +102,12 @@ In a non-sharded database, this is easy: We maintain a single lookup table `issu
 
 In a database sharded by namespace, we would have two shards following the previous example:
 
-1. Shard 1: `/gitlab-org` with a table `issue_assignees (user_id int, issue_id int)` 
-2. Shard 2: `/gitlab-com` data with a table `issue_assignees (user_id int, issue_id int)` 
+1. Shard 1: `/gitlab-org` with a table `issue_assignees (user_id int, issue_id int)`
+2. Shard 2: `/gitlab-com` data with a table `issue_assignees (user_id int, issue_id int)`
 
-In order to find all assigned issues, we iterate all shards and query each of them. This is because we don't know which root namespaces the user interacted with at all and where to look for issue assignments (also see "Statistics on user interaction"). After querying all shards, we reconcile the results to typically display the TOP 20 issues (by some criteria) across all shards.
+In order to find all assigned issues, we iterate all shards and query each of them. This is because we don't know which top-level namespaces the user interacted with at all and where to look for issue assignments (also see "Statistics on user interaction"). After querying all shards, we reconcile the results to typically display the TOP 20 issues (by some criteria) across all shards.
 
-###### How can we fix this? 
+###### How can we fix this?
 
 In the ideal scenario for namespace sharding, these features would be constrained by a namespace. This means, search cannot go across multiple namespaces. There are two theoretically possible ways to implement this:
 
@@ -148,15 +148,15 @@ The premise of sharding by namespace is the idea that "customers care only about
 
 For example, it may even be undesirable for a SaaS customer on GitLab.com to accidentally @-mention users outside their organization. A typical SaaS customer is assumed to only care about search results inside their namespace, for example.
 
-In GitLab, we track which projects a user interacted with. Based on that, we conducted an analysis of how many projects, groups and root namespaces users interact with on GitLab.com. Here, interaction is defined as performing any kind of action on a project - opening and just looking at a project is not enough in this case (i.e. we're looking at actions that lead to an event). Note this includes users without any activity.
+In GitLab, we track which projects a user interacted with. Based on that, we conducted an analysis of how many projects, groups and top-level namespaces users interact with on GitLab.com. Here, interaction is defined as performing any kind of action on a project - opening and just looking at a project is not enough in this case (i.e. we're looking at actions that lead to an event). Note this includes users without any activity.
 
 ![user-interaction-middle](root-namespace-sharding/user-interaction-middle.png)
 
 A summary and the takeaways are:
 
-1. 95% of users interact with about 4 root namespaces or less (including their user namespace).
+1. 95% of users interact with about 4 top-level namespaces or less (including their user namespace).
 
-2. 60% of users only interact with 1 root namespace
+2. 60% of users only interact with 1 top-level namespace
 
 3. 45% of users interact with a namespace other than their own
 
@@ -164,7 +164,7 @@ A summary and the takeaways are:
 
 More details including the raw data used can be found in [gitlab-org/database-team/user-interaction-data](https://gitlab.com/gitlab-org/database-team/user-interaction-data/-/blob/master/user%20interaction%20data.ipynb).
 
-While this is good news for the namespace sharding approach, it doesn't solve the fundamental problem of conflicting access patterns for all features. 
+While this is good news for the namespace sharding approach, it doesn't solve the fundamental problem of conflicting access patterns for all features.
 
 For "by user" access patterns, we may be able to use this information to first figure out which shards are relevant for the particular user at hand and then only query those. This would help to avoid scans across all shards and limit it closer to what is relevant. However, this is not a static analysis anymore but rather involves maintaining lookup information to track which shards are relevant for a given user.
 
@@ -194,7 +194,7 @@ We explored what is needed for database sharding and we also got an idea of how 
 
 #### How does this relate to partitioning efforts?
 
-We aim to introduce PostgreSQL table partitioning to the application. This can be thought of as a database tool we have at our disposal to considerably improve performance and scalability of the application. 
+We aim to introduce PostgreSQL table partitioning to the application. This can be thought of as a database tool we have at our disposal to considerably improve performance and scalability of the application.
 
 It can be applied local to a single feature and optimize for a particular use case. For example, we are working on improving the [audit log feature with a partitioning pattern](https://gitlab.com/groups/gitlab-org/-/epics/3206). The benefit from this locality is the ability to optimize for different cases across the application - we don't have to find the single common sharding dimension for everything.
 
