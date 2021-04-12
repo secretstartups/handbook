@@ -98,6 +98,8 @@ from [the Calendly Integrations page](https://calendly.com/integrations).
 curl -v  --header "X-TOKEN: <your Calendly API token>" --data "event_type_uuid=CEGFRWO2Q6R7SAQE" https://calendly.com/api/apps/extension/v1/users/me/event_type_single_use_links
 ```
 
+Additionally, you can generate a link from your Calendly home page according to [the Calendly documenation](https://help.calendly.com/hc/en-us/articles/1500001292022-How-to-create-and-share-a-single-use-link-to-a-specific-event).
+
 ## Auto block Pagerduty shifts in Calendly
 
 It is possible to automate the blocking of your Pagerduty shifts in Calendly, so you are not booked for a customer call while 
