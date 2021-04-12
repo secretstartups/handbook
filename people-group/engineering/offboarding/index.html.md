@@ -20,14 +20,26 @@ Note: this section only discusses items in the offboarding where People Engineer
 ## Timeline Flow
 ```mermaid
 graph TD
-  A[PEA triggers Slack command for offboarding issue] -->|Offboarding issue is created, manager is assigned| B
-  B[Offboarding merge request is created] --> C
-  C[Team member is removed from gitlab-com and gitlab-org] --> D
-  D[1 day after: removed from Guardian] --> E
-  E[5 Days after: Issue reminder]
+  A[Offboarding is logged into the tracker] --> B
+  A --> |if the offboarding is voluntary| G
+  B[PEA triggers Slack command for offboarding issue] -->|Offboarding issue is created, manager is assigned| C
+  C[Offboarding merge request is created] --> D
+  D[Team member is removed from gitlab-com and gitlab-org] --> E
+  E[1 day after: removed from Guardian] --> F
+  F[5 Days after: Issue reminder]
+  G[Informational email is automatically sent to the departing team member] --> B
 ```
 
-## Offboarding issue creation
+## Automations
+
+### Voluntary offboarding email
+
+When a team member voluntarily leaves GitLab, an email going over the offboarding interview and frequently asked questions is automatically sent to them.
+
+The pipeline is scheduled to run every hour and scan the offboarding spreadsheet for new rows since the last run. For each row, an email is sent to the departing team member using different templates depending on the team member's country.
+
+
+### Offboarding issue creation
 
 The Slack command used by the People Experience Associate for offboarding issues is:
 
@@ -49,7 +61,8 @@ contents of those files also in the offboarding issue.
 
 This issue is added to the [team member's epic](/handbook/people-group/engineering/employment-issues#epics).
 
-## Offboarding Merge Request
+### Offboarding Merge Request
+
 The `offboarding` command will also create a merge request to the `www-gitlab-com` project. This MR
 includes:
 - Removing the individual file from the `data/team_members/person` directory
@@ -58,13 +71,13 @@ includes:
 - Removing the pet picture in case the team member had any
 - Update the CODEOWNERS file: change to the manager or remove if the manager is already a codeowner for that file
 
-## Remove from Guardian
+### Remove from Guardian
 
 When a team member leaves GitLab they also need to be _terminated_ on Guardian. We have a daily check for offboarded team members. Every day we check if there are any new offboarding issues created for the day before. For those, we check if the team member is located in the United States. If there are matches, we create a file with the following naming convention: `04_employee_termination_mmddyyhhmmss.csv` and add the users employee id and their end date to the file. This is then uploaded to Guardian so they can process it.
 
 You can read more about how team members are added to Guardian [here](/handbook/people-group/engineering/onboarding#sync-to-guardian).
 
-## Redirect rule reminder
+### Redirect rule reminder
 
 When a team member is offboarded, there's a redirect rule that is setup on Google Workspace for
 the outgoing team member. After 5 days this redirect rule needs to be removed.
