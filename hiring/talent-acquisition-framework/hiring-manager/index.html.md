@@ -13,14 +13,14 @@ description: "This page is an overview of the processes the hiring manager is re
 ## Talent Acquisition Process Framework - Hiring Manager Tasks
 {: #framework-hm}
 
-### Step 1/HM: [Identifying hiring need](/handbook/hiring/talent-recruiting-framework/req-creation/#requisition-creation-process)
+### Step 1/HM: [Identifying hiring need](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process)
 
-1. [Add Vacancy to the Hiring Plan](https://about.gitlab.com/handbook/hiring/talent-recruiting-framework/req-creation/#adding-vacancies-to-the-hiring-plan)
+1. [Add Vacancy to the Hiring Plan](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#adding-vacancies-to-the-hiring-plan)
 Determine the purpose of this role
 1. [Create or Review the Job Family](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#create-or-review-the-job-family)
 1. [Work with the Recruiting Manager/Lead to open the vacancy in Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse)
 
-### Step 2/HM: [Complete Kick-off](https://about.gitlab.com/handbook/hiring/talent-recruiting-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)
+### Step 2/HM: [Complete Kick-off](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session)
 
 ### Step 3/HM: Setup Scorecard and Prepare Interview Team
 
@@ -50,9 +50,9 @@ As a best practice the Hiring Manager should reach out to each individual on the
 
 ### Step 4/HM (Optional): Source candidates and/or review inbound applications
 
-Our hybrid recruiting model means that candidates enter the pipeline through an inbound application or via direct sourcing. Depending on capacity, Hiring Managers can contribute to the hiring process by reviewing inbound applications or helping identify and source candidates to ensure we have a robust pipeline. 
+Our hybrid recruiting model means that candidates enter the pipeline through an inbound application or via direct sourcing. Depending on capacity, Hiring Managers can contribute to the hiring process by reviewing inbound applications or helping identify and source candidates to ensure we have a robust pipeline.
 
-You can work with your Recruiter and Sourcer to understand whether your time will be better spent on sourcing outreach or on reviewing inbound applications. 
+You can work with your Recruiter and Sourcer to understand whether your time will be better spent on sourcing outreach or on reviewing inbound applications.
 
 
 ### Step 5/HM: Hiring team to complete feedback in Greenhouse
