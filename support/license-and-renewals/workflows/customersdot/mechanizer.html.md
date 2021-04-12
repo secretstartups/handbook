@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Mechanizer Application
-description: "How to use the GitLab.com Mechanizer application"
-category: References
+title: Mechanizer 
+category: CustomersDot
+description: How to use the mechanizer for L&R requests. 
 ---
 
 ## On this page
