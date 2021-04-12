@@ -50,6 +50,9 @@ issue. The issue will be automatically assigned to the following people:
 
 This issue is added to the [team member's epic](/handbook/people-group/engineering/employment-issues#epics).
 
+## Make confidential
+Sometimes, issues are created by humans instead of a bot, in this case they can forget to mark the issue as confidential. We run a daily pipeline to mark issues as confidential in the `training` project. This includes manager and interview training issues as the `employment` project is internal to GitLab team members anyway.
+
 ## Manager and Interview training issues
 
 This is the same as the manager an interview training issues we create for onboarding. Except that for onboarding we only create it after day 7 and for career mobility we create it at the same time as the career mobility issue.
