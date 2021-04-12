@@ -469,47 +469,51 @@ If the original contract has already been approved, but there is an addendum tha
 
 Introduction:
 
-This section outlines the various Accounts Payable activities at GitLab. GitLab uses Tipalti to pay invoices. All invoices must be approved by the respective business units, PAO (Upto 100K USD), or CFO (Beyond 100K USD)  as per the approval matrix and the before any payments are made.
+This section outlines the various Accounts Payable (AP) activities at GitLab. GitLab uses Tipalti to pay invoices. All invoices must be approved by the respective business units, PAO (up to 100K USD), or CFO (beyond 100K USD)  as per the approval matrix and before any payments are made.
 
 
 **Vendor Registration on Tipalti**
 	
 * Step 1: Intimation to AP Specialist to create an account
 
-  Tipalti is used in conjunction with NetSuite. They are both synchronized, and anything that goes into Tipalti syncs into NetSuite every 10 minutes. Either Vendors completely onboard themselves onto Tipalti, or if the vendor doesn’t want to, the AP Billing Specialist onboards them on their behalf. The AP team sends a request to the vendor via email to onboard themselves. Check if the vendor needs to be setup in AP tool and if the vendor is not already setup, send a new onboarding request to the vendor are checked on the invoice [issue](https://docs.google.com/document/d/1_N8jJguTfP2biQ1y01iemIrzHul_w6X-PDNxGS3-IMw/edit) if a new vendor needs to be created on Tipalti.
+  Tipalti is used in conjunction with NetSuite. They are both synchronized, and anything that goes into Tipalti syncs into NetSuite every 10 minutes. Either Vendors completely onboard themselves onto Tipalti, or if the vendor is unable to, the AP Specialist will onboard them on their behalf (see step 4). The AP team will send a request to the vendor via email to onboard themselves. However, first, they must check if the vendor needs to be set up in the AP tool and if the vendor is not already set up, send a new onboarding request to the vendor are checked on the invoice [issue](https://docs.google.com/document/d/1_N8jJguTfP2biQ1y01iemIrzHul_w6X-PDNxGS3-IMw/edit) if a new vendor needs to be created on Tipalti.
 
-  If the following details aren’t present in the issue, the AP team reaches out to the business to get them:
+  If the following details aren’t present in the issue, the AP team will reach out to the business unit to get them:
 
-    * The Billing Email of the Vendor
-    * The name of the vendor
-    * Which subsidiary the vendor is to work with (If it’s multiple, then multiple vendors are created ex. PWC US, PWC BV, etc)
+    * The billing email of the Vendor
+    * The name of the Vendor
+    * Which subsidiary the Vendor is to work with (If it’s multiple, then multiple vendors are created ex. PWC US, PWC BV, etc)
 
   ***Controls being implemented: P2P.C.03 and P2P.C.04***
 <br>
 
 * Step 2: Onboarding Request sent to Vendor 
 
-  If the vendor is a company, then the company is selected, and Payee ID is auto-filled by Tipalti and can be used to identify the Payee in the future. The default AP account selected is always AP account 2000. After this, the Invite to the Supplier’s portal is checked. This option isn’t checked if the AP specialist is going to onboard the vendor herself. 
+  If the vendor is a company, then the company is selected, and Payee ID is auto-filled by Tipalti and can be used to identify the Payee in the future. The default Accounts Payable account selected is general ledger account 2000. After this, the invite to the Supplier’s portal is checked. This option will not be checked if the AP Specialist will manually onboard the vendor. (For example, government agencies are usually manually onboarded.)
 
   The contact to which to send the [onboarding request](https://docs.google.com/document/d/1rjts_OVzhIiXlT7UdLONdylr1i6R6rQ_cS1FV5DYyI8/edit) is specified in the vendor onboarding issue.
 <br>
 
 * Step 3: Onboarding Request received by Vendor
 
-  The vendor receives [this](https://docs.google.com/document/d/1T4ionTMxUCryzuekf83YEH4wGLoRBmkrZ4ElOhwLOeA/edit) request and fills out the rest of the data themselves with information such as;
-      * The address of the vendor
-      * Bank Account Information
-      * Payment Type ( ACH, Wire, E-Check) 
-      * Contact Information
-      * Tax Information
-  Otherwise, the AP specialist reaches out to the vendor themselves to get this information and enters it. 
+  The Vendor will receive a [request](https://docs.google.com/document/d/1T4ionTMxUCryzuekf83YEH4wGLoRBmkrZ4ElOhwLOeA/edit) and should complete the remaining data themselves.   
+  
+   Additional information such as:
+    * The address of the vendor
+    * Bank Account Information
+    * Payment Type ( ACH, Wire, E-Check) 
+    * Contact Information
+    * Tax Information
 
-  To add the payee manually, click [login](https://docs.google.com/document/d/1T6STj7pDeHZUVS-93slfqCkx8JlhKCsPF_kpO1ZJsHM/edit) as payee.
+* Step 4: Onboarding Vendor Manually
 
-  Enter all the information shown [here](https://docs.google.com/document/d/1WNyiIfAK9ait9lQX2LhJrmew1Fh5W72sU1yDTQqULZg/edit). This information comes either from the Invoice, or the vendor themselves(the AP specialist contacts them directly)
+If the Vendor is unable to successfully onboard themselves, then the AP team will create an issue requesting approval to manually onboard them.  The issue is assigned to the Reporting team for review and approval.  Once approved, the AP team will add the payee manually, by clicking [Log in as payee](https://docs.google.com/document/d/1T6STj7pDeHZUVS-93slfqCkx8JlhKCsPF_kpO1ZJsHM/edit).
 
-  The tax form must be directly submitted by the vendor. This portion cannot be uploaded by the AP specialist.
-Once the vendor is onboarded, they become [Payable](https://docs.google.com/document/d/17S2rqTcfCM-fczYFY_2Req-eVBenLVTWeZoK926JeX0/edit), and this allows the AP team to start processing that vendor’s invoices.
+Entering all the [required information]](https://docs.google.com/document/d/1WNyiIfAK9ait9lQX2LhJrmew1Fh5W72sU1yDTQqULZg/edit). This information comes either from the invoice, or the vendor directly.
+
+The tax form must be directly submitted by the vendor. This portion cannot be uploaded by the AP Specialist.
+
+Once the Vendor information has been entered into Tipalti, the AP team requests approval to enable the Vendor for payment. The Reporting team will verify payment information and approve to enable the Vendor for payment.  Once the Vendor has become [Payable](https://docs.google.com/document/d/17S2rqTcfCM-fczYFY_2Req-eVBenLVTWeZoK926JeX0/edit) this will allow the AP team to start processing that vendor’s invoices.
 
 **Invoice Processing**
 
