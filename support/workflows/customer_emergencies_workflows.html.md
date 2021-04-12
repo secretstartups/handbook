@@ -60,7 +60,7 @@ If at any point you would like advice or help finding additional support, go ahe
 **NOTE:** If you need to reach the current on-call engineer and they're not accessible on Slack (e.g., it's a weekend, or the end of a shift), you can [manually trigger a PagerDuty incident](https://support.pagerduty.com/docs/incidents#section-manually-trigger-an-incident) to get their attention, selecting **Customer Support** as the Impacted Service and assigning it to the relevant Support Engineer.
 
 #### PagerDuty Status
-{:.no_toc}
+{:no_toc}
 
 - **Triggered** - "A customer has requested the attention of the on-call engineer"
 - **Acknowledged** - "I have seen the page and am reviewing the ticket"
@@ -132,22 +132,69 @@ If you're stuck _and_ are having difficulty finding help, contact the [manager o
 
 ## SaaS Emergencies
 
-The workflow for these calls is the same as with self-managed emergencies.
-However, you have additional visibility into problems that a customer may be facing that they will not.
+The workflow for these calls is the same as with self-managed emergencies: success means that the customer is unblocked.
+However, you have additional visibility into problems that a customer may be facing that they will not. In some cases,
+you may even be able to fully resolve a customers problem.
 
 Review:
 
 - [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
 - [Using Sentry](/handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
 
-After you have identified the error and found reproduction steps, it's likely that you'll need to [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
-and coordinate with incident management team to reach resolution. If the error is a result of a product defect, you may also need to engage the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/).
-
-We're expecting, broadly that emergencies will fall into one of three categories:
+We're expecting, broadly that emergencies will fall into one of four categories:
 
 - **broken functionality due to a regression being pushed to GitLab.com** => reproduce, identify, escalate to have a patch created and deployed.
 - **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. => reproduce, identify, escalate to have the specific data corrected (and create a bug report so our code is better)
 - **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
+
+- **License / Consumption issues are preventing access to the product**
+
+### Broken Functionality
+If a customer is reporting that behaviour has recently changed, first check [GitLab.com Status](https://status.gitlab.com) and `#incident-management` for any on-going incidents. If there's no known incident:
+
+1. Initiate a call with the customer. You're specifically looking to:
+   - observe broken behavior.
+   - determine if there's a known issue, bug report, or other customers reporting similar behavior.
+   - ascertain whether or not a feature flag that may have been recently turned on (see: [Enabling Feature Flags on GitLab.com](https://docs.gitlab.com/ee/development/feature_flags/controls.html#enabling-a-feature-for-gitlabcom))
+   - find/build reproduction steps devoid of customer data to build a bug report if none exists.
+
+## Broken functionality due to a regression or feature flag
+
+1. Create a `~bug` issue and have the customer review it.
+1. Escalate the `~bug` issue
+   - If it's a new bug, or a bug with [S1/S2 severity](/handbook/engineering/quality/issue-triage/#severity) escalate using the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/). In most cases we will generate a roll-back patch and apply it to Gitlab.com.
+   - If it's a feature flag, work with the who turned it on to [disable it through ChatOps](https://docs.gitlab.com/ee/development/feature_flags/controls.html#disabling-feature-flags). In some cases, you may need to use the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) to raise a developer.
+1. If this is affecting multiple customers, [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
+1. Once the original functionality is restored, update the customer.
+
+## Broken functionality due to something specific to the customer
+
+1. [Page the Support Manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) to review the best way to unblock the customer. It may be that you will need someone with .com console access to fully investigate / resolve.
+
+## Broken functionality due to an incident
+
+If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml). 
+
+#### Example tickets:
+{:no_toc}
+
+- [Feature flag broke previously working behaviour](https://gitlab.zendesk.com/agent/tickets/204073): resolution was to turn off a feature-flag.
+- [Regression on GitLab.com broke previously working pipeline](https://gitlab.zendesk.com/agent/tickets/147266): resolution was to revert a recently deployed MR.
+- [Customer locked themselves out of their group by changing SAML settings]()
+
+### Subscription Issues
+
+A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
+
+1. [Manually upgrade the namespace using the mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
+1. Use 
+
+### CI Minutes quota is blocking a production deployment
+
+A customer may be blocked because they have run out of CI minutes. 
+
+1. Advise them to purchase additional minutes or set up individual runners.
+1. As a courtesy, [set an additional 1000 minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
 
 ## US Federal on-call
 
