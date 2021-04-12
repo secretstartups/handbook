@@ -98,7 +98,7 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
 The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
-With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. To help us in that effort, please create any Marketing Operations issues in the following format.
+With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. 
 
 **Note:** This format is the [Agile user story](https://www.agilealliance.org/glossary/user-story-template/) format and helps the issue-requester (you) and the MOps team by clearly stating **what** as well as **why** for each request and concern.
 
