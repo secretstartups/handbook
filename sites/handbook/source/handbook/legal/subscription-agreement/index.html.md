@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "GitLab Subscription Agreement"
-description: "Learn more about GitLab Subscription Agreement"
+description: "Learn more about the GitLab Subscription Agreement"
 ---
 
 ## On this page
