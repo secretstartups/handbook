@@ -289,6 +289,11 @@ Sometimes, you might require help from senior support engineers, subject matter 
 
 At times the usual ticket workflow may be interrupted by a new customer [emergency ticket](/handbook/support/on-call/#sts=Taking%20an%20emergency%20customer%20call) or an [escalated situation](/handbook/support/internal-support/#i-want-to-escalate-a-ticket). There may be a need to reprioritise workload to accomodate these. If you anticipate a problem with prioritization please let your manager know so that they can help with next steps.
 
+### A customer has confirmed a ticket can be closed but the ticket has no assignee - what should I to do?
+
+When reviewing tickets or monitoring them to prevent SLA breaches you may encounter instances where a customer has confirmed that they have been provided with a solution however the ticket has not been assigned to an individual support engineer.  In this type of situation you should inform the customer that you are changing the ticket status to solved and assign the ticket to either the engineer who provided the technical solution or if this is not distinguishable then use good judgement and assign the ticket to an engineer who has significantly contributed to the ticket throughout its life cycle. 
+
+
 ### Understanding Ticket Status
 
 Each ticket in Zendesk has a [status](https://support.zendesk.com/hc/en-us/articles/212530318-Updating-and-solving-tickets) that tells you what state it's currently in. They are as follows.
