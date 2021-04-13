@@ -459,8 +459,7 @@ Sales Operations is responsible for identifying and merging duplicate Accounts i
 1. On the top of the Merge Page you can Select which account URL you want to keep.
 1. Once you have reviewed the information, click “Merge”.
 
-
-<details>
+</details>
 
 ## **Sales Operations Sponsored Dashboards and Maintenance**
 
