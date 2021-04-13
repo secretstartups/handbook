@@ -312,7 +312,7 @@ GitLab has an entity (Ireland LTD) in Ireland . All team members in this locatio
 
 ## CXC
 
-GitLab is working in partnership with [CXC Global](http://cxcglobal.com/) to employ GitLab team-members located in **Poland**, **Ukraine**, **Romania**, and **Russia**. The actual employment contracts will be sent and issued by CXC and are in accordance with local labor law. CXC also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and CXC.
+GitLab is working in partnership with [CXC Global](http://cxcglobal.com/) to employ GitLab team-members located in **Poland**, **Ukraine**, **Romania**, **Russia**, **Serbia**, & **Slovenia**. The actual employment contracts will be sent and issued by CXC and are in accordance with local labor law. CXC also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and CXC.
 
 CXC provides a 12 month contract in these locations, and this can be extended. They are only able to support contractors that have an established entity/company in these countries (listed above). The offer details will be provided to CXC by GitLab's hiring team.
 
