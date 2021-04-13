@@ -31,7 +31,7 @@ Below are the steps the Field Enablement team takes to prioritize work.
     - Level of effort (Small, Medium, or Large)
     - Need for and availability of subject matter resources (if applicable) 
     - Opportunity to leverage across multiple routes to market and/or customer segments
-    - Input / feedback gathered during monthly 
+    - Input / feedback gathered during monthly enablement meetings with sales managers
     - Insights from functional competency and/or other assessments or surveys of key stakeholders (if applicable)
     - Learner consumption capacity 
     - Field Enablement capacity
