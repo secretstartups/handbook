@@ -34,6 +34,7 @@ Similar to prior year, if we do not use the full envelope provided to Marketing 
 - [Searching for your activity/ budget line item](https://support.allocadia.com/hc/en-us/articles/115005135427-Searching-your-Budget)
 - [Understanding Forecast Status Tags](https://support.allocadia.com/hc/en-us/articles/115000885934-Understanding-Forecast-Status-Tags)
 - [Switching between activity plans](https://support.allocadia.com/hc/en-us/articles/115004969207-Switching-Between-Activity-Plans)
+- [Budget Reallocations (transfers)](https://support.allocadia.com/hc/en-us/articles/360060630433-What-are-Budget-Reallocations-## )
 
 ## Activity Planning Tab
 
@@ -90,6 +91,10 @@ NOTE: any line items within a category or subcategory default inherit these deta
 ## Insights Tab
 
 Most reporting is done within the Insights tab within Allocadia. Reports are built at the highest level and then use a drill down feature so each team does not have to recreate reports.
+
+### Transferring budgets
+
+There is a button "Request Transfer" that can be used to request funds from another department. Specific approvers have been set up in Allocadia to be notified by email and can approve or deny the transfer. See more details in the Budget Reallocation link above. Note that on the Home page, the `transfer` will show in red until it has been resolved.
 
 ### Dashboards
 
