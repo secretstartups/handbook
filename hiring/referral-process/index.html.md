@@ -54,6 +54,7 @@ All GitLab team members are eligible for the [Referral Bonus](/handbook/incentiv
 * If the Referring Team Member would manage the Referral directly.
 * If there's a perceived conflict of interest.
 * If the Referring Team Member is at the VP level [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) or the [Executive Group](https://about.gitlab.com/company/team/structure/#executives).
+* If the referral is an intern. You will be paid a referral bonus if the referral is converted to a full-time, intermediate-level team member. 
 
 #### Submitting a Referral
 
