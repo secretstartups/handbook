@@ -121,6 +121,7 @@ Once the total rewards team has approved the bike or ticket application, an invo
   * Total Rewards will then send you a completed [MB2 form](https://www.into.ie/app/uploads/2019/07/MB1.pdf).
   * Submit your application via the [Maternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-maternity-benefit/) at least 6 weeks before you intend to start your leave.
 * To apply for State Parent's Benefit, submit your application via the [Parent's Benefit gov.ie website](https://www.gov.ie/en/service/b321b1-parents-benefit/).
+* Once you receive your letter with the confirmation of the Maternity leave benefit payment please share with nonuspayroll@gitlab.com
 
 #### Paternity Leave Payment
 * You can receive State [Paternity Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/paternity_benefit.html#:~:text=Paternity%20Benefit%20is%20a%20payment,or%20after%201%20September%202016) at 245 EUR per week for up to 2 weeks subject to your PRSI contributions. You have to submit your application 4 weeks before you intend to start your Paternity Leave. 
@@ -130,6 +131,7 @@ Once the total rewards team has approved the bike or ticket application, an invo
   * Total Rewards will then send you a completed [PB2 form](https://www.gov.ie/en/service/apply-for-paternity-benefit/).
   * Submit your application via the [Paternity Benefit gov.ie website](https://www.gov.ie/en/service/apply-for-paternity-benefit/).
 * To apply for State Parent's Benefit, submit your application via the [Parent's Benefit gov.ie website](https://www.gov.ie/en/service/b321b1-parents-benefit/).
+* Once you receive your letter with the confirmation of the Paternity leave benefit payment please share with nonuspayroll@gitlab.com
 
 #### Applying for Parental Leave in Ireland
 
