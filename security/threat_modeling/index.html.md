@@ -16,7 +16,25 @@ Threat modeling is the process of taking established or new procedures, and then
 
 Within the context of GitLab, there are different risks we evaluate. Will my code change introduce a security vulnerability into the product? Will a radical new company policy being introduced create outside criticism and damage GitLab's reputation? When was the last time we evaluated this existing code library for vulnerabilities? What are the potential pitfalls our new sales campaign might face when moving into new markets? These are risks we deal with all of the time, just like every other company.
 
-### Threat Modeling Within GitLab
+## Getting Started
+
+Here are a few resources to help get you started in threat modeling.
+
+### HowTo guide
+
+We've compiled a beginner friendly [howto guide to threat modeling](/handbook/security/threat_modeling/howto.html).
+
+### Issue Template for Using PASTA
+
+We've included a sample template to be cut and pasted into an issue or document, which is available [here](https://gitlab.com/gitlab-com/gl-security/security-research/threat-modeling-template). The idea would be to open an issue and work through the template, documenting everything.
+
+### Samples of PASTA Evaluations
+
+Here is a [real sample of an evaluation](https://gitlab.com/gitlab-com/gl-security/security-research/gitlab-standalone-instance) of the install of a GitLab standalone instance in a hostile environment.
+
+More samples will be added later.
+
+## Threat Modeling Within GitLab
 
 The most common use of threat modeling within a tech company like GitLab is our code base. The Security Team has developed a threat modeling "framework" for Engineering with the following in mind:
 
@@ -157,24 +175,6 @@ Proof of a threat via numerous indicators as opposed to just theory or conjectur
  * Substantiate the threats that are defined with real data
 
 *Applies all stages of PASTA*
-
-## Getting Started
-
-Here are a few resources to help get you started in threat modeling.
-
-### HowTo guide
-
-We've compiled a beginner friendly [howto guide to threat modeling](/handbook/security/threat_modeling/howto.html).
-
-### Issue Template for Using PASTA
-
-We've included a sample template to be cut and pasted into an issue or document, which is available [here](https://gitlab.com/gitlab-com/gl-security/security-research/threat-modeling-template). The idea would be to open an issue and work through the template, documenting everything.
-
-### Samples of PASTA Evaluations
-
-Here is a [real sample of an evaluation](https://gitlab.com/gitlab-com/gl-security/security-research/gitlab-standalone-instance) of the install of a GitLab standalone instance in a hostile environment.
-
-More samples will be added later.
 
 ### Additional Resources
 
