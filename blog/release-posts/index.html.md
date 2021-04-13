@@ -1078,6 +1078,8 @@ The most relevant features of the release are included in the post by [product m
 
 #### Top feature
 
+_**Note**_: If you would like a feature to be considered for a `top` feature, create the release post MR with the feature as `primary` and reach out to the release post manager on Slack at #release-post. The release post manager is the DRI for selecting the `top` feature and will make their choice from the `primary` features in the release.
+
 The top feature of the release is mentioned right after the MVP section, prior to other primary features. An image or video and documentation links are required. The [TW lead](#tw-lead) will pay close attention to the content of this item, as it is the "headline" feature for the release and it's especially important to get it right.
 
 To identify the [Top feature](#top-feature), look for `top` directly beneath `features` in the RP `.yml` file:
