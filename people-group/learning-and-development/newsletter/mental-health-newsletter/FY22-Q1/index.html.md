@@ -45,7 +45,7 @@ And, keep an eye out for upcoming opportunities to connect with John Fitch and c
 1. Here's a great [lo-fi music playlist to turn on in the background while you're working today](https://youtu.be/n_wbIhJIQTU)
 1. Join the L&D team in the [#walk-and-learn Slack channel](/handbook/people-group/learning-and-development/linkedin-learning/#walk-and-learn) to practice the April [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month), Managing Stress.
 
-If you can, take a break to [to nothing with Lebron James for 30 seconds](https://youtu.be/LwgnzCLy8Mk)
+If you can, take a break to [do nothing with Lebron James for 30 seconds](https://youtu.be/LwgnzCLy8Mk)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LwgnzCLy8Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
