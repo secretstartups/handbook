@@ -134,7 +134,6 @@ Categories
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
 - `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Terminus Email Experiences`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`, `Typeform`: used to highlight one of our tech stack tools
-- `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
 - `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
