@@ -221,23 +221,23 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	EMEA	|	MEA	|	MM-EMEA-Named-1	|	Anthony Ogunbowale-Thomas	|
 |	EMEA	|	MEA	|	MM-EMEA-Named-2	|	Israa Mahros	|
 |	Africas	|	Africas	|	MM-EMEA-Africas	|	Daisy Miclat	|
-|	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Conor Brady	|
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Conor Brady	|
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 20x-29x	|	Chris Willis	|
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 30x-39x	|	Chris Willis	|
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 40x-99x	|	Conor Brady	|
+|	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Hans Frederiks	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Hans Frederiks	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 20x-29x	|	Hans Frederiks	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 30x-39x	|	Hans Frederiks	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 40x-99x	|	Hans Frederiks	|
 |	Europe Central	|	AT	|	MM-EMEA-Central-AT	|	Conor Brady	|
 |	Europe Central	|	CH	|	MM-EMEA-Central-CH	|	Conor Brady	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 0x	|	Chris Willis	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 1x	|	Chris Willis	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 2x	|	Conor Brady	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 3x	|	Chris Willis	|
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Hans Frederiks	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 5x	|	Conor Brady	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 6x	|	Chris Willis	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 7x	|	Chris Willis	|
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Conor Brady	|
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Hans Frederiks	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Hans Frederiks	|
 |	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Conor Brady	|
 |	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	|
 |	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	|
@@ -247,19 +247,19 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Daisy Miclat	|
 |	MEA	|	R	|	MM-EMEA-MEA-R	|	Daisy Miclat	|
 |	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Daisy Miclat	|
-|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Chris Willis	|
+|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Hans Frederiks	|
 |	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Conor Brady	|
-|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Daisy Miclat	|
-|	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Daisy Miclat	|
+|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Hans Frederiks	|
+|	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Hans Frederiks	|
 |	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Conor Brady	|
 |	Russia	|	RU	|	MM-EMEA-Russia	|	Daisy Miclat	|
-|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Chris Willis	|
+|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Hans Frederiks	|
 |	Southern Europe	|	IL	|	MM-EMEA-Southern-IL	|	Conor Brady	|
-|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Daisy Miclat	|
-|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Daisy Miclat	|
-|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Daisy Miclat	|
+|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Hans Frederiks	|
+|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Hans Frederiks	|
+|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Hans Frederiks	|
 |	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	|
-|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Daisy Miclat	|
+|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Hans Frederiks	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Chris Willis	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Chris Willis	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London N	|	Chris Willis	|
