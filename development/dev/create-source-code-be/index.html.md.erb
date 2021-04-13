@@ -67,6 +67,25 @@ Quality engineering is included in our workflow via the [Quad Planning Process](
 
 Application Security will be involved in our workflow at the same time that [kickoff emails](#kickoff-emails) are sent to the team, so that they are able to review the upcoming milestone work, and notate any concerns or potential risks that we should be aware of.
 
+### Triage Process
+
+The weekly Triage Report is generated automatically by the [GitLab bot](https://gitlab.com/gitlab-bot) and this report is reviewed by the EM and Staff Engineer. Here is [an example](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/2700) of a previous report.
+
+The Triage Report can be quite long, and it important to deal with it efficiently. An effective way to approach it is:
+
+* Open every issue in a separate browser tab and use "edit issue" to mark then as checked once review, then close the tab.
+* Verify if the issue belongs to ~"group::source code" and change group label if needed. The [Features by Group](https://about.gitlab.com/handbook/product/categories/features/#createsource-code-group) page is a good starting point for this assessment.
+* Apply ~frontend if it is a frontend issue.
+* Perform a brief search to assess if is a duplicate, close with a ~Duplicate label if this is the case.
+* Is it a ~"support request" ? Does it ~"needs investigation" ? Apply labels if so.
+* Apply ~regression label if it is one, consider bumping severity numbers if recent.
+* Apply ~"severity::4", ~"priority::4", %Backlog if a smaller issue with no significant impact.
+* If an uncontroversial problem with a clear solution, consider applying ~"Accepting merge requests"
+* If also an easier issue which might interest a newer community contributor, consider applying ~"low hanging fruit", ~"good for new contributors".
+* Apply ~"priority::3" ~"severity::3" if a bug with a workaround.
+* Anything causing data loss, severe performance impact or security apply a ~"severity::1"  and ~"priority::1" or ~"priority::2" and assign to a team member.
+* Unassign yourself from the Triage Report
+
 ### Engineering cycle
 
 The engineering cycle is centered around the [GitLab Release Date of the 22nd of the month](https://about.gitlab.com/handbook/engineering/releases/#timelines). This is the only fixed date in the month, and the table below indicates how the other dates can be determined in a given month.
