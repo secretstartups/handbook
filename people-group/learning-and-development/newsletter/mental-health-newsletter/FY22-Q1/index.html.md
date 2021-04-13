@@ -26,16 +26,21 @@ During the month of March, the Learning and Development team encouraged team mem
 
 Take some time this month to learn strategies about how you can better care for your mental health using these resources. Remember that team members can use the [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) to expense courses like the Time Off: Design your Rest Ethic course linked above.
 
+And, keep an eye out for upcoming opportunities to connect with John Fitch and continute the discussion about building a rest ethic for yourself and your team.
+
 
 ## Manager resources
 
-{Highlight resources managers can use to enable their team in supporting their mental health}
+1. We've revamped the [Leadership Chats](/handbook/people-group/learning-and-development/manager-challenge/leadership-chats/) at GitLab to be a safe space for managers to connect and talk about challenging things at work. If you're looking for a space to connect and share experiences with managers across the organization, consider joining one of the sessions hosted each month.
+1. Remeber that taking [time off](https://about.gitlab.com/handbook/paid-time-off/) is critical to your own success. Take a moment now to schedule time off for the next quarter.
+1. The next time that you schedule [time off](https://about.gitlab.com/handbook/paid-time-off/) for yourself, consider sharing with your team what you did to refresh and reset during your time away from work.
 
 ## Team member resources and reminders
 
 1. Take a moment to schedule some [time off](https://about.gitlab.com/handbook/paid-time-off/) in the coming weeks to help you reset and rest as we gear up for Q2
 1. The [Calm app](https://www.calm.com/) has a fantastic [YouTube channel](https://www.youtube.com/c/calm/featured) with meditations, stories, and discussions about mindfulness practices
 1. Here's a great [lo-fi music playlist to turn on in the background while you're working today](https://youtu.be/n_wbIhJIQTU)
+1. Join the L&D team in the [#walk-and-learn Slack channel](/handbook/people-group/learning-and-development/linkedin-learning/#walk-and-learn) to practice the April [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month), Managing Stress.
 
 If you can, take a break to [to nothing with Lebron James for 30 seconds](https://youtu.be/LwgnzCLy8Mk)
 
