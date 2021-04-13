@@ -289,7 +289,7 @@ At times the usual ticket workflow may be interrupted by a new customer [emergen
 
 ### A customer has confirmed a ticket can be closed but the ticket has no assignee - what should I to do?
 
-When reviewing tickets or monitoring them to prevent SLA breaches you may encounter instances where a customer has confirmed that they have been provided with a solution however the ticket has not been assigned to an individual support engineer.  In this type of situation you should inform the customer that you are changing the ticket workflow to solved and assign the ticket to either the engineer who provided the technical solution or if this is not distinguishable then use good judgement and assign the ticket to an engineer who has significantly contributed to the ticket throughout its life cycle. 
+When reviewing tickets or monitoring them to prevent SLA breaches you may encounter instances where a customer has confirmed that they have been provided with a solution however the ticket has not been assigned to an individual support engineer.  In this type of situation you should inform the customer that you are changing the ticket status to solved and assign the ticket to either the engineer who provided the technical solution or if this is not distinguishable then use good judgement and assign the ticket to an engineer who has significantly contributed to the ticket throughout its life cycle. 
 
 
 ### Understanding Ticket Status
