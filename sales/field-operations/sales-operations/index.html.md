@@ -435,11 +435,13 @@ The `Field Marketing Manager` field on the account is maintained by Sales Operat
 <summary markdown='span'>
   Merging Accounts
 </summary>
-Sales Operations is responsible for identifying and merging duplicate Accounts in SFDC.  There are two primary use cases to consider when merging duplicate Accounts:
+Sales Operations is responsible for identifying and merging duplicate Accounts in SFDC.  
+
+**There are two primary use cases to consider when merging duplicate Accounts:**
 1. Prospect and Prospect Account merges
 1. Prospect and Customer Account merges
 
-There are also two primary ways in which Accounts can be merged:
+**There are also two primary ways in which Accounts can be merged:**
 1. Automated via RingLead
 1. Manual Merges in SFDC
 
