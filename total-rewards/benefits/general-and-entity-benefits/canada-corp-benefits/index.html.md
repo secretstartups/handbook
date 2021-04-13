@@ -104,7 +104,7 @@ GitLab team members enrolled in Canada Life have the option of Akira Virtual Car
 GitLab Canada Corp's statutory vacation requirements are found on the [GitLab PTO handbook page](/handbook/paid-time-off/#statutory-vacation-requirements). Vacation time runs concurrently with GitLab PTO. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
 
 ## Sick Pay
-Ontario - Employees are entitled to up to three full days of job protected unpaid sick leave every calendar year under the Employment Standards Act (ESA). Leave under ESA runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
+Ontario - Team members who have been employed by GitLab for at least two consecutive weeks are entitled to up to three full days of job protected unpaid sick leave every calendar year under the Employment Standards Act (ESA). Leave under ESA runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
  
 Quebec - The Act Respecting Labour Standards (ALS) provides for two days of paid absence per calendar year (January 1 to December 31). This leave runs concurrently with GitLab PTO. Employees must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.
 
@@ -117,13 +117,13 @@ Québec - [La Loi sur les normes du travail (N-1.1)](http://www.legisquebec.gouv
 **Maternity Leave:** 
 
 _Ontario_
- * Team members who have worked at GitLab for at least 13 weeks before their due date are entitled to 17 weeks of Maternity Leave. This leave may begin as early as 17 weeks prior to the expected date of birth. If the child is not born within the first 17 weeks of maternity leave, then maternity leave is extended until the date of birth. Once maternity leave has started, it must be taken all at once.
+ * Team members who have been employed at GitLab for at least 13 weeks before their due date are entitled to 17 weeks of Maternity Leave. This leave may begin as early as 17 weeks prior to the expected date of birth. If the child is not born within the first 17 weeks of maternity leave, then maternity leave is extended until the date of birth. Once maternity leave has started, it must be taken all at once.
 
 _Quebec_
  * Team members are entitled to 18 weeks of Maternity Leave. This leave may begin as early as 16 weeks prior to the expected date of birth and end no later than 20 weeks after the week of delivery. If the leave begins at the time of the delivery, the week of the delivery is not included in the calculation of leave. If delivery occurs after the expected date, the team member is entitled to at least 2 weeks of maternity leave after the delivery, even if the 18 week entitlement has already been used. At the request of the parent, this leave may be suspended, divided, or extended if the health conditions of the parent or child require it. 
 
 _British Columbia_ 
- * Pregnant team members can take up to 17 consecutive weeks of unpaid maternity leave. Leave must begin on or before the date the baby is born. It cannot start earlier than 13 weeks before the expected date of birth. Leave continues for at least 6 weeks after childbirth. If the team member is unable to return to work for reasons related to childbirth, the leave can be extended for six weeks (for a total of 12 weeks) after the baby is born.
+ * Pregnant team members can take up to 17 consecutive weeks of unpaid maternity leave. Leave must begin on or before the date the baby is born. It cannot start earlier than 13 weeks before the expected date of birth. Leave continues for at least 6 weeks after childbirth. If the team member is unable to return to work for reasons related to childbirth, the leave can be extended for six weeks (for a total of 23 weeks) after the baby is born.
 
 _Alberta_ 
  * Team members who have been employed by GitLab for at least 90 days are entitled to up to 16 consecutive weeks of unpaid maternity leave. The number of weeks exceeds the Employment Insurance benefit length by one week in recognition of the waiting period. Leave can start up to 13 weeks prior to the expected date of birth, and no later than the date of birth. Pregnant team members must take at least 6 weeks of leave after birth. 
@@ -139,13 +139,13 @@ _Quebec_
 **Parental Leave:** 
 
 _Ontario_
- * All team members who have worked at GitLab for at least 13 weeks prior to taking leave, are eligible for up to 61 or 63 weeks of Parental Leave. The parent who gives birth to the child is entitled to take up to 61 weeks of parental leave. All other new parents are entitled to take up to 63 weeks of parental leave. This leave may be taken at any time during the first 78 weeks after your child is born, or the day your child comes into your care. Parental leave must be taken in one continuous period.
+ * All team members who have been employed at GitLab for at least 13 weeks prior to taking leave, are eligible for up to 61 or 63 weeks of Parental Leave. The parent who gives birth to the child is entitled to take up to 61 weeks of parental leave. All other new parents are entitled to take up to 63 weeks of parental leave. This leave may be taken at any time during the first 78 weeks after your child is born, or the day your child comes into your care. Parental leave must be taken in one continuous period.
 
 _Quebec_ 
  * Team members are entitled to up to 65 weeks of parental leave in addition to 18-week maternity leave or 5-week paternity leave. At the request of the parent, this leave may be suspended, divided, or extended if the health conditions of the parent or child require it. 
 
 _British Columbia_ 
- * Team members can take up to 62 weeks of unpaid parental leave any time within 78 weeks of their baby being born, or a child being placed. It can be extended by up to five weeks if the child needs more care due to a physical, psychological or emotional condition. Team members who take maternity leave, are entitled to 61 weeks of parental leave (for a total of 78 weeks), which begins immediately after maternity leave ends, unless another agreement is made. 
+ * Team members can take up to 62 weeks of unpaid parental leave any time within 78 weeks of their baby being born, or an adoptive child being placed. Team members who take maternity leave are entitled to 61 weeks of parental leave which begins immediately after maternity leave ends (for a total of 78 weeks), unless another agreement is made. Parental leave can be extended by up to five weeks if the child needs more care due to a physical, psychological or emotional condition.
 
 _Alberta_ 
  * Team members who have been employed by GitLab for at least 90 days can take up to 62 weeks of unpaid parental leave. The number of weeks of leave exceeds the Employment Insurance benefit length by one week in recognition of the waiting period. Leave can start any time after the birth or adoption of a child, but must be completed within 78 weeks of the date the baby is born or placed with the parents. In the case of a pregnant team member, parental leave begins immediately following maternity leave.
@@ -155,24 +155,24 @@ _Manitoba_
 
 ### Maternity Leave Payment
 
-* Team members in Ontario, British Columbia, Alberta, and Manitoba can receive [Employment Insurance Maternity Benefit](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.1) through the Government of Canada for up to 15 weeks of Maternity Leave.
+* Team members in Ontario, British Columbia, Alberta, and Manitoba may be eligible to receive [Employment Insurance Maternity Benefit](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.1) through the Government of Canada for up to 15 weeks of Maternity Leave if they meet the required eligibility criteria..
   * The Province of Québec is responsible for providing maternity, paternity, parental, and adoption benefits to residents of Quebec through a program called the [Québec Parental Insurance Plan](https://www.rqap.gouv.qc.ca/en/about-the-plan/general-information/premiums-and-maximum-insurable-earnings).
-* Team members can also receive Employment Insurance Parental Benefit (see below).
-* If a team member is eligible to receive Employment Insurance and also eligible to take [GitLab's Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement Employment Insurance payments to ensure the team member receives 100% pay for up to 16 weeks of leave.
-* If a team member is ineligible to receive Employment Insurance, but eligible to take GitLab's Parental Leave, GitLab will pay 100% for up to 16 weeks of leave.
-* To apply for Employment Insurance, follow the instructions on the [Service Canada website](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.3).
+* Team members may also be eligible to receive Employment Insurance Parental Benefit (see below) if they meet the required eligibility criteria.
+* If a team member is eligible to receive Employment Insurance and also eligible to receive payments under [GitLab's paid Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement Employment Insurance payments for up to 16 weeks such that the gross amount of the Employment Insurance payments plus GitLab’s top-up payment under Parental Leave will equal 100% of the team members’ normal weekly salary during each week of the top-up payments.
+* If a team member is ineligible to receive Employment Insurance, but eligible to take GitLab's paid Parental Leave, GitLab will pay 100% of the team members’ normal weekly salary for up to 16 weeks of leave.
+* To determine your eligibility for such benefits and/or apply for Employment Insurance, follow the instructions on the [Service Canada website](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.3). Please note that GitLab is not responsible for, or at all involved in, the adjudication of claims for employment insurance benefits.   
 
 ### Parental Leave Payment
 
-* Team members in Ontario, British Columbia, Alberta, and Manitoba can receive [Employment Insurance Standard Parental Benefit](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.1-h3.2) through the Government of Canada of up to 35 weeks or [Employment Insurance Extended Parental Benefit](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.1-h3.2) of up to 61 weeks.
+* Team members in Ontario, British Columbia, Alberta, and Manitoba may be eligible to receive [Employment Insurance Standard Parental Benefit](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.1-h3.2) through the Government of Canada of up to 35 weeks or [Employment Insurance Extended Parental Benefit](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.1-h3.2) of up to 61 weeks if they meet the required eligibility criteria.
   * The Province of Québec is responsible for providing maternity, paternity, parental, and adoption benefits to residents of Quebec through a program called the [Québec Parental Insurance Plan](https://www.rqap.gouv.qc.ca/en/about-the-plan/general-information/premiums-and-maximum-insurable-earnings).
-* If a team member is eligible to receive Employment Insurance and also eligible to take [GitLab's Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement Employment Insurance payments to ensure the team member receives 100% pay for up to 16 weeks of leave.
-* If a team member is ineligible to receive Employment Insurance, but eligible to take GitLab's Parental Leave, GitLab will pay 100% for up to 16 weeks of leave. 
-* To apply for Employment Insurance, follow the instructions on the [Service Canada website](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.3).
+* If a team member is eligible to receive Employment Insurance and also eligible to receive payments under [GitLab's paid Parental Leave](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement Employment Insurance payments for up to 16 weeks such that the gross amount of the Employment Insurance payments plus GitLab’s top-up payment under Parental Leave will equal 100% of the team members’ normal weekly salary during each week of the top-up payments.
+* If a team member is ineligible to receive Employment Insurance, but eligible to take GitLab's Parental Leave, GitLab will pay 100% of the team members’ normal weekly salary for up to 16 weeks of leave. 
+* To determine your eligibility for such benefits and/or apply for Employment Insurance, follow the instructions on the [Service Canada website](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/reports/maternity-parental.html#h2.3).  Please note that GitLab is not responsible for, or at all involved in, the adjudication of claims for employment insurance benefits. 
 
 ### Applying for Parental Leave in Canada
 
-* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
+* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 6 weeks before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). 
 * Pregnant team members must provide a certificate from a health care practitioner certifying their pregnancy to Total Rewards (total-rewards@gitlab.com).
 
 ### GitLab Parental Leave Payments and Employment Insurance
@@ -190,7 +190,7 @@ Per the statutory requirements in Canada, a team member is ineligible to receive
 <details>
   <summary markdown="span">Ontario</summary>
 
-The following leave types run concurrently with GitLab PTO. Each leave is separate, and the right to each leave is independent of any right a team member may have to other leave(s). A team member may be entitled to more than one leave for the same event. Additional information can be found on the [Government of Ontario website](https://www.ontario.ca/document/your-guide-employment-standards-act-0). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible. 
+The following statutory leave types run concurrently with GitLab PTO. Each leave is separate, and the right to each leave is independent of any right a team member may have to other leave(s). A team member may be entitled to more than one leave for the same event. A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. Additional information can be found on the [Government of Ontario website](https://www.ontario.ca/document/your-guide-employment-standards-act-0). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible to ascertain the type of leave applicable in the situation. 
 
 **Bereavement Leave** _Team members who have been employed by GitLab for at least 2 consecutive weeks_ 
 * 2 unpaid days each calendar year for the death of a family member. 
@@ -212,6 +212,9 @@ The following leave types run concurrently with GitLab PTO. Each leave is separa
 **Child Death Leave** _Team members who have been employed with Gitlab for at least six consecutive months_  
 * Up to 104 weeks of leave with respect to the death of a child. Team members who take time away from work because of a crime-related death of a child may apply for a [Federal Income Support Grant](https://www.canada.ca/en/employment-social-development/programs/federal-income-support-parents-murdered-missing-children.html). 
 
+**Crime-related child disappearance leave** _Team members who have been employed with Gitlab for at least six consecutive months_ 
+* Up to 104 weeks of leave with respect to the crime-related disappearance of a child. Team members who take time away from work because of a crime-related death of a child may apply for a [Federal Income Support Grant](https://www.canada.ca/en/employment-social-development/programs/federal-income-support-parents-murdered-missing-children.html).
+
 **Domestic or sexual violence leave** _Team members who have been employed with Gitlab for at least 13 consecutive weeks_ 
 * 10 days and 15 weeks of domestic or sexual violence leave each calendar year. The first 5 days of leave are paid. 
 
@@ -219,7 +222,7 @@ The following leave types run concurrently with GitLab PTO. Each leave is separa
 * Team members are entitled to take this leave for [specified reasons](https://www.ontario.ca/document/your-guide-employment-standards-act-0/infectious-disease-emergency-leave#section-7)  related to a designated infectious disease. The only disease for which infectious disease emergency leave may be taken as of 2021-03-09 is COVID-19. 
  
 **Organ Donor Leave** _Team members who have been employed with Gitlab for at least 13 weeks_ 
-* Up to to 13 weeks of [organ donor leave](https://www.ontario.ca/document/your-guide-employment-standards-act-0/organ-donor-leave). 
+* Up to to 13 weeks of [organ donor leave](https://www.ontario.ca/document/your-guide-employment-standards-act-0/organ-donor-leave) for the purpose of undergoing surgery to donate all or part of certain organs to a person. 
 * This leave may be extended an additional 13 weeks for a maximum of 26 weeks.
 
 **Reservist Leave** _Reservists who have been employed with Gitlab for at least six consecutive months_ 
@@ -232,30 +235,55 @@ The following leave types run concurrently with GitLab PTO. Each leave is separa
 
 The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible. More information on these leave entitlements can be found on the [Commission des Normes, de l’Equité website](https://www.cnesst.gouv.qc.ca/fr/conditions-travail/conges/lies-famille).
 
+**Reservist Leave** 
+* A reservist of the Canadian Armed Forces may be absent from civilian work, without pay, to conduct operations in Canada or abroad:
+ * Abroad: After 12 months of uninterrupted service with their employer, reservists may be absent from work to take part in a Canadian Armed Forces operation abroad for a period of up to 18 months. An operation abroad includes preparation, training, rest and travel from their place of residence and back;
+ * In Canada: A reservist may be absent from work to take part in a Canadian Armed Forces operation in Canada in order to:
+   - provide assistance in the event of a major disaster within the meaning of the Loi sur la sécurité civile;
+   - assist the civil authority at the request of the Attorney General of Québec pursuant to the National Defence Act;
+   - intervene in any other emergency situation designated by the Government.
+ * In Canada or abroad: A reservist may be absent from work to take part in any other Canadian Armed Forces operation under the circumstances, the conditions and for the period prescribed by regulation;
+ * Annual training: A reservist may be absent from work to take part in annual training with the Canadian Armed Forces for a period of up to 15 days;
+ * Exceptions: A reservist does not have the right to be absent from work in the following situations:
+   - if there is a danger to the life, health or safety of other workers or the population;
+   - if there is a risk of destruction or serious deterioration of buildings or movable property, or in a case of force majeure; if their absence is contrary to their professional code of ethics.
+
 **Marriage or civil union**
 * 1 day of paid leave for the team member’s marriage or civil union when it falls on a week day.
 * 1 day of unpaid leave for the marriage or civil union of a parent, child, sibling, or child of spouse.
 
 **Parental or family obligations** _Team members who have been employed with Gitlab for at least 3 months_
 * 10 days per year; team members are entitled to pay for the first 2 days.
-* Up to 16 weeks to care for a loved one due to a serious accident or serious illness
+* Up to 16 weeks in one 12-month period to care for a loved one due to a serious accident or serious illness
 * Up to 27 weeks in one 12-month period if the critically ill person suffers from a life-threatening illness
 * Up to 36 weeks in a 12-month period if the seriously ill or injured person is a minor child.
 
 **Bereavement Leave**
-* 5 days of leave in the event of the death of a family member. Team members are entitled to pay for the first 2 days.
+* 5 days of leave in the event of the death of an immediate family member. Team members are entitled to pay for the first 2 days.
 * Up to 104 weeks of unpaid leave following the death of a minor child, or suicide of spouse, parent or child. If the death occurs when the team member is eligible for parental benefits, the benefits will be paid until the end of the 2nd week following the death.
 
 **Disappearance of a minor child**
 * Up to 104 weeks of unpaid leave.
 
+**Organ or tissue donation:** 
+* Team members are entitled to up to 26 weeks of unpaid leave over a 12-month period for organ or tissue donation for transplant.
+
+**Victims of a Crime**
+* Team members who are victims of a crime that renders them unable to perform their regular job are entitled to unpaid leave for up to 104 weeks.
+* Team members may also be entitled to leave if:
+  * their minor child suffers serious injuries as a result of a criminal offense;
+  * their spouse or child of full age dies as a result of a criminal offense.
+  * Exceptions: The leave entitlement does not apply if the worker or the deceased person (spouse or child of full age) participated in the criminal offense or contributed to the injury through their gross fault, i.e., through their recklessness, carelessness or gross negligence.
+
+**Victim of domestic or sexual violence:** 
+* Workers who must be absent from work as a result of domestic or sexual violence are entitled to an unpaid absence of up to 26 weeks over a 12-month period.
+
 **Non-work related accident or illness** _Team members who have been employed with Gitlab for at least 3 consecutive months_
 * 2 paid days per calendar year (which do not roll over) for the following reasons: 
   * Sickness or accident
   * Family obligations relating to care, health, or education of child or spouse’s child.
-  * Family obligations as an informal caregiver for a relative or another person who is ill.
-  * Organ or tissue donation 
-  * Domestic or secual violence or other criminal offense.
+  * Family obligations as an informal caregiver for a relative or another person who is ill. 
+
 
 The following leave types **do not** run concurrently with GitLab PTO:
 * [Occupational disease](https://www.cnesst.gouv.qc.ca/en/procedures-and-forms/workers/work-accident-or-occupational-disease/occupational-disease)
@@ -265,10 +293,10 @@ The following leave types **do not** run concurrently with GitLab PTO:
 <details>
   <summary markdown="span">British Columbia</summary>
 
-* The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible. More information on these leave entitlements can be found on the [Government of British Columbia’s website](https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/leave-time-off).
+* The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible. More information on these leave entitlements can be found on the [Government of British Columbia’s website](https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/time-off/leaves-of-absence).
 
 **Leave respecting domestic or sexual violence**
-* 5 days of paid leave, 5 days of unpaid leave, and 15 weeks of unpaid leave, if necessary. This leave also applies to parents of a child or dependent impacted by this kind of violence.
+* 5 days of paid leave, 5 days of unpaid leave, and 15 weeks of additional unpaid leave, if necessary. This leave also applies to parents of a child or dependent impacted by this kind of violence.
 
 **Personal illness or injury leave** _Team members who have been employed with Gitlab for at least 90 days_
 * Up to 3 days of unpaid leave each year. 
@@ -278,28 +306,32 @@ The following leave types **do not** run concurrently with GitLab PTO:
 * Does not carry over from year to year
 
 **Critical Illness or Injury Leave**
-* Up to 36 weeks within a 52-week period to care for a child 
-* Up to 16 weeks within a 52-week period to care for a family member over the age of 19 
+* Up to 36 weeks within a 52-week period to care for a child under the age of 19.
+* Up to 16 weeks within a 52-week period to care for a family member who is 19 years of age or older.
 * Team members must provide Total Rewards with a medical certificate certifying that the life of the family member is at risk, the care/support can be provided by someone who is not a medical professional, and specifying the period of time for which the family member will need care/support.
 
 **Compassionate Care Leave**
-* Up to 27 weeks within a 52-week period to care for a family member who is terminally ill.
-* Team members are required to provide Total Rewards with a medical certificate stating that the family member has a serious medical condition and is at risk of death within 26 weeks. 
+* Up to 27 weeks within a 52-week period to care for a family member who is gravely ill.
+* Team members are required to provide Total Rewards with a medical certificate stating that the family member has a serious medical condition and is at significant risk of death within 26 weeks. 
 
 **Bereavement Leave**
 * Up to 3 days of unpaid leave.
 
 **Leave respecting the disappearance of a child**
-* Up to 52 weeks of unpaid leave.
+* Up to 52 weeks of unpaid leave for employees whose child has gone missing in circumstances where it is likely the child’s disappearance is the result of a crime.
 
 **Leave respecting the death of a child**
 * 104 weeks of unpaid leave
 
 **Reservists Leave** _Team members who are reservists for the Canadian Forces_
-* 20 days of unpaid leave in a calendar year if deployed to a Canadian Forces operation outside of Canada, to assist with an emergency or its aftermath, or participate in pre-deployment or post-deployment activities.
+* Team members who are reservists are entitled to unpaid leave if they are deployed to a Canadian Forces operation outside Canada, or if they are engaged, either inside or outside Canada, in pre-deployment or post-deployment activities in connection with such an operation. Reservists are also entitled to unpaid leave if they are deployed to a Canadian Forces operation inside Canada that will be providing assistance in dealing with an emergency or its aftermath. Reservists are entitled to this leave for as long as the deployment circumstances apply.  In addition, team members who are reservists are entitled to 20 days per year of unpaid leave to participate in Canadian Forces training activities.
 
 **Jury Duty**
 * Unpaid leave to attend court as a juror
+
+**COVID-19 Related Leave**
+* Team members can take unpaid leave if unable to work for specified reasons related to COVID-19: https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/time-off/leaves-of-absence.  This leave will be available for as long as the circumstances that require the leave are present. 
+
 </details>
 
 <details>
@@ -320,9 +352,8 @@ The following leave types run concurrently with GitLab PTO. Statutory leave for 
 **COVID-19 Leave**
 * 14 days of unpaid leave for team members who are in quarantine due to COVID-19
 
-**Critical Illness Leave** _Team members who have been employed with Gitlab for at least 90 days_
-* Up to 36 weeks for the critical illness of a child.
-* Up to 16 weeks for the critical illness of an adult.
+**Critical Illness of a Child Leave** _Team members who have been employed with Gitlab for at least 90 days_
+* Up to 36 weeks for the critical illness of the team member's child.
 * Team members may be eligible for Employment Insurance.
 
 **Death or disappearance of a child leave** _Team members who have been employed with Gitlab for 90 days_
@@ -348,7 +379,7 @@ The following leave types run concurrently with GitLab PTO. Statutory leave for 
 <details>
   <summary markdown="span">Manitoba</summary>
 
-The following leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible. More information can be found on the [Government of Manitoba website](https://www.gov.mb.ca/labour/standards/doc,unpaid-leave,factsheet.html).
+The following statutory leave types run concurrently with GitLab PTO. Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.  A team member’s entitlement to any statutory leaves of absence is governed by the legislation applicable in the province in which the employee works for the Company. Statutory leaves of absence will be tracked separately. Any additional paid or unpaid leaves provided by GitLab, are inclusive of, and not in addition to, any concurrent paid or unpaid leaves provided by the applicable employment standards legislation. To initiate leave, and ensure that statutory entitlements are properly tracked, team members should submit their time off by selecting the appropriate option in PTO by Roots. If none applies, team members should reach out to their managers and Total Rewards as soon as possible to ascertain the type of leave applicable in the situation. More information can be found on the [Government of Manitoba website](https://www.gov.mb.ca/labour/standards/doc,unpaid-leave,factsheet.html).
 
 **Family Leave** _Team members who have been employed with Gitlab for at least 30 days_
 * 3 days of unpaid leave for a team member to deal with family responsibilities or personal illness.
