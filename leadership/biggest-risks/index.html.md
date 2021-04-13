@@ -18,7 +18,9 @@ We frequently get asked questions like:
 - What are your biggest fears?
 - What keeps you up at night?
 
-On this page, we document the biggest risks and how we intend to mitigate them. We also have a [biggest tailwinds](/handbook/leadership/biggest-tailwinds) page to see what waves we are riding in our current market.
+On this page, we document the biggest risks and how we intend to mitigate them. We also have a [biggest tailwinds](/handbook/leadership/biggest-tailwinds) page to see what waves we are riding in our current market. 
+
+The list below has a rough ranking of risks. The items toward the top of the list have a higher probability of occuring or level of consequence if they were to occur. Items lower on the list are less likely to happen or less material to the business if they were to occur.
 
 ## 1. Confusion about the expected output
 {:#confusion-about-the-expected-output}
