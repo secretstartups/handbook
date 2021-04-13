@@ -79,6 +79,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Low License Utilization | **Yes** | Automated | CTA | Risk |      |
 | Product Risk | **Yes** | Manual | CTA | Risk |      |
 | Non-Engaged Customer | **Yes** | Manual | CTA | Risk |      |
+| CI Health Enablement/Expansion Review | **Yes | Automated | CTA | Activity | 
 | Create Success Plan | **Yes** | Automated | CTA | Lifecycle |      |
 | Customer Offboarding | **Yes** | Automated | CTA | Lifecycle |      |
 | Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)     |
