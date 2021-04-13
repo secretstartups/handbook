@@ -60,7 +60,7 @@ If at any point you would like advice or help finding additional support, go ahe
 **NOTE:** If you need to reach the current on-call engineer and they're not accessible on Slack (e.g., it's a weekend, or the end of a shift), you can [manually trigger a PagerDuty incident](https://support.pagerduty.com/docs/incidents#section-manually-trigger-an-incident) to get their attention, selecting **Customer Support** as the Impacted Service and assigning it to the relevant Support Engineer.
 
 #### PagerDuty Status
-{:no_toc}
+{:.no_toc}
 
 - **Triggered** - "A customer has requested the attention of the on-call engineer"
 - **Acknowledged** - "I have seen the page and am reviewing the ticket"
@@ -158,7 +158,7 @@ If a customer is reporting that behaviour has recently changed, first check [Git
    - ascertain whether or not a feature flag that may have been recently turned on (see: [Enabling Feature Flags on GitLab.com](https://docs.gitlab.com/ee/development/feature_flags/controls.html#enabling-a-feature-for-gitlabcom))
    - find/build reproduction steps devoid of customer data to build a bug report if none exists.
 
-## Broken functionality due to a regression or feature flag
+#### Broken functionality due to a regression or feature flag
 
 1. Create a `~bug` issue and have the customer review it.
 1. Escalate the `~bug` issue
@@ -167,16 +167,16 @@ If a customer is reporting that behaviour has recently changed, first check [Git
 1. If this is affecting multiple customers, [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
 1. Once the original functionality is restored, update the customer.
 
-## Broken functionality due to something specific to the customer
+#### Broken functionality due to something specific to the customer
 
 1. [Page the Support Manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) to review the best way to unblock the customer. It may be that you will need someone with .com console access to fully investigate / resolve.
 
-## Broken functionality due to an incident
+#### Broken functionality due to an incident
 
 If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml). 
 
 #### Example tickets:
-{:no_toc}
+{:.no_toc}
 
 - [Feature flag broke previously working behaviour](https://gitlab.zendesk.com/agent/tickets/204073): resolution was to turn off a feature-flag.
 - [Regression on GitLab.com broke previously working pipeline](https://gitlab.zendesk.com/agent/tickets/147266): resolution was to revert a recently deployed MR.
@@ -187,14 +187,23 @@ If there is a known incident, it's acceptable to link to the public status page 
 A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
 
 1. [Manually upgrade the namespace using the mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
-1. Use 
+1. Alert `#support_licensing-subscription` that you've done so and link to the ticket for follow-up.
 
-### CI Minutes quota is blocking a production deployment
+### Consumption Issues
+
+#### CI Minutes quota is blocking a production deployment
 
 A customer may be blocked because they have run out of CI minutes. 
 
 1. Advise them to purchase additional minutes or set up individual runners.
 1. As a courtesy, [set an additional 1000 minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
+
+#### Customer has exceeded their storage quota
+
+A customer may be blocked because they've exceeded their storage quota.
+
+1. Advise them to purchase additional storage
+1. As a courtesy, someone with GitLab.com admin can override the storage limit on a group.
 
 ## US Federal on-call
 
