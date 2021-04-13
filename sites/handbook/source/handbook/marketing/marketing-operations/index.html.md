@@ -89,7 +89,6 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="https://gitlab.com/groups/gitlab-com/-/boards/825719" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Ops Global issue board</a>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Operations project</a>
   </div>
 </div>
