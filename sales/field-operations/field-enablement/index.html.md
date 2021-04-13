@@ -235,13 +235,18 @@ If you have a Field Communications request (process change, announcement, etc.),
         - `FE priority::1` - work that directly supports an OKR
         - `FE priority::2` - work that does not directly support an OKR but has a large impact on the field team
         - `FE priority::3` - work that does not directly support an OKR and has a low to medium impact on the field
-- **Field Enablement Issue Boards**
-    - [Field Enablement By Initiative Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1191445)
-    - [Field Enablement Prioritization Board](https://gitlab.com/groups/gitlab-com/-/boards/2624997)
-    - [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
-    - [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
-    - [Sales & CS Onboarding Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790236)
-    - [Partner Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1645038)
-    - [Field Certification Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426)
-    - [Value Framework Feedback (VFF) Board](https://gitlab.com/groups/gitlab-com/-/boards/2625246)
-    - [Commercial Sales Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790139)
+
+## Field Enablement Issue Boards
+
+### Primary 
+- [Field Enablement Initiatives Board](https://gitlab.com/groups/gitlab-com/-/boards/2626847)
+- [Field Enablement Prioritization Board](https://gitlab.com/groups/gitlab-com/-/boards/2624997)
+
+### Other
+- [Field Certification Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426)
+- [Value Framework Feedback (VFF) Board](https://gitlab.com/groups/gitlab-com/-/boards/2625246)
+- [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
+- [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
+- [Sales & CS Onboarding Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790236)
+- [Partner Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1645038)
+- [Commercial Sales Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790139)
