@@ -22,10 +22,8 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 **Spring 2020 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
-|--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Apr 7  |  [Detailed Deep Dive on Git/ SCM Capabilities](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/31)             |    **William Arias**             |
-| Apr 14 | [Breaking Changes in 14.0](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/124)        |   **Julie Byrne**         |
-| Apr 21 |         |           |
+|--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
+| Apr 21 |  [GraphQL APIs Overview](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)       | **Simon Mansfield**         |
 | Apr 28 | *No sessions during last week of the quarter*
 
 
