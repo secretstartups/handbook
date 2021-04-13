@@ -15,7 +15,20 @@ description: "Outreach is a sales engagement platform helps efficiently and effe
 Outreach is a sales engagement platform helps efficiently and effectively engage prospects to drive more pipeline and close more deals.
 
 ### Set-Up  
+
+##### Non-admin users
 User set-up instructions can be found [here](https://docs.google.com/document/d/1VJpZaoDoGtwN4Dp21g_OuhVauN2prHNyUtmIWKuROUY/edit#heading=h.v6blhaepsusl).
+
+##### Admin users
+When provisioning new users or altering current users' credentials for role changes, there are a few things to keep in mind:
+- A user's SFDC profile  cannot be loaded into Outreach for up to 24 hours after creation in Salesforce. However, the profile will automatically create in Outreach and will just need to be unlocked. The new user will also need to be added to the [Google Okta Group](https://groups.google.com/a/gitlab.com/g/okta-outreach-users) for access
+- When adding a new user into Outreach, immediately place them in their appropriate Teams via the admin menu. When a user changes roles, remember to move them to the appropriate Team
+- When a current user changes roles, sales-ops will create a new SFDC profile for their new role. These means _every_ role change will require remapping between Outreach profiles and SFDC profiles. Remap a user by:
+    - Proceed to `Plugins` under Outreach settings
+    - Click into the `Salesforce` plugin, then select `User`, followed by `Mappings`
+    - Locate the user that needs to be altered. The search box does not work as of April 2021 so it will be a manual search. Sorry for the difficulty, friend!
+    - Select the dropdown and click `Remove` to completely remove the mapping between Outreach and Salesforce
+    - Select `Add`, type in the Salesforce and Outreach names to complete the new mapping. Be sure to double check you selected the correct `SFDC ID` before hitting save
 
 ### Learning Pathways
 Outreach provides educational courses via their [Outreach University Pathways](https://university.outreach.io/) programs that are updated frequently with new content. While GitLab does not require the SDR team to pursue completion of Outreach University Pathways, it's recommended for longterm users to pursue mastery of any marketing tools we use.
