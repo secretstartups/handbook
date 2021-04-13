@@ -450,3 +450,22 @@ We can mitigate this risk by:
 * Being honest and transparent about the quality of the data we are looking at (the Trusted Data framework is a great start)
 * Resisting making decisions on incomplete or not-trusted data. Being intellectually honest that tha decision is ultimately a judgement call, as the data is not complete
 * Tracking down data inconsistencies, and restating old data - BUT not going back in time to post-judge previous business decisions made when data was insufficient
+
+## 29. Being obsessed with metrics (vs. being data-driven)
+
+Collecting as much data as possible is great. But then reporting on all of that data because you have it can lead to sub-optimal results, as team members won't know what is important or what to optimize for.
+
+[This article](https://www.cfo.com/analytics/2016/04/obsession-metrics-killing-company/) explains some of the risks of an over-obsession on metrics and reporting.
+
+We can mitigate this risk by:
+* Picking a small set of most important metrics (KPIs), based on Trusted Data, that represent our best view of how the company and a function are doing (and what they should be focused on)
+* Using easily understood metrics, that are directly tied to results desired (that can't be gamed)
+* Automating reporting as much as possible
+* Give team members a voice in selecting KPIs
+
+
+
+
+
+
+
