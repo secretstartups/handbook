@@ -31,8 +31,16 @@ Take some time this month to learn strategies about how you can better care for 
 
 {Highlight resources managers can use to enable their team in supporting their mental health}
 
-## Team member resources
+## Team member resources and reminders
 
+1. Take a moment to schedule some [time off](https://about.gitlab.com/handbook/paid-time-off/) in the coming weeks to help you reset and rest as we gear up for Q2
+1. The [Calm app](https://www.calm.com/) has a fantastic [YouTube channel](https://www.youtube.com/c/calm/featured) with meditations, stories, and discussions about mindfulness practices
+1. Here's a great [lo-fi music playlist to turn on in the background while you're working today](https://youtu.be/n_wbIhJIQTU)
+
+If you can, take a break to [to nothing with Lebron James for 30 seconds](https://youtu.be/LwgnzCLy8Mk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LwgnzCLy8Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 ## Discussion 
 
 If you would like to discuss items related to this newsletter, please see the related [issue](https://gitlab.com/gitlab-com/people-group/learning-development/mental-health/-/issues/2). 
