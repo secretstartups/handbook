@@ -32,12 +32,10 @@ The Quality team currently works cross-functionally and our task ownership spans
 
 Upon joining the Quality department, team members are granted either developer, maintainer, or owner access to a variety of core projects. For projects where only developer access is initially granted, there are some criteria that should be met before maintainer access is granted.
 
-For general information, please see the [engineering workflow page](/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer) about how to become a maintainer.
-
 * [GitLab (/qa)](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
   * Quality team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality department to help review.
   * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
-    * Authored and reviewed 3 MRs related to improvements to the framework.  
+    * Authored and reviewed 3 MRs related to improvements to the framework.
     * Authored and reviewed 5 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
 * [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa)
   * Authored and reviewed 5 merged MRs that demonstrate good understanding of the codebase.
@@ -52,8 +50,33 @@ For general information, please see the [engineering workflow page](/handbook/en
 * [GitLab CustomersDot (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
   * Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
   * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
-    * Authored and reviewed 5 MRs related to improvements to the framework.  
+    * Authored and reviewed 5 MRs related to improvements to the framework.
     * Authored and reviewed 10 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+
+#### Becoming a maintainer
+
+The following guidelines will help you to become a maintainer. Remember that there is no specific
+timeline on this, and that you should work together with your manager and current maintainers.
+
+To start the process as a trainee maintainer, see the [trainee maintainer section](/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer)
+of the code review guidelines.
+
+In general, you're required to author and review 3 - 10 MRs that demonstrate good overall understanding
+of the existing codebase and framework. See the section above for [further details of the requirements](#reviewers-and-maintainers).
+You can seek out more opportunities to work on framework improvements by asking on the `#quality` Slack channel.
+
+Your reviews should aim to cover maintainer responsibilities as well as reviewer responsibilities.
+Your approval means you think it is ready to merge.
+
+It is your responsibility to set up any necessary meetings to discuss your
+progress with current maintainers, as well as your manager. These can be at any
+frequency that is right for you.
+
+It is also recommended that you invite current maintainers to share feedback in your
+[trainee maintainer issue](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=trainee-quality-maintainer),
+positive _and_ negative, if they notice contributions of yours that are relevant to your progress
+towards becoming a maintainer. Please be aware that feedback may be shared there regardless,
+so you're encouraged to invite it rather than be surprised!
 
 ## Project Management
 
