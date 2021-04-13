@@ -187,7 +187,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-04-05 | 2021-04-09 | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin | [Anthony O - Thomas](https://gitlab.com/anthonyot), Account Executive, EMEA |
 | 2021-04-12 | 2021-04-16 | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager | [Katie Gammon](https://gitlab.com/kgammon), Executive Business Admin |
 | 2021-04-19 | 2021-04-23 | [Joanna Shih](https://gitlab.com/jo_shih), Quality Engineering Manager, Ops | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager |
 | 2021-04-26 | 2021-04-30 | [Jacie Bandur](https://gitlab.com/jbandur), Learning & Development Generalist | [Joanna Shih](https://gitlab.com/jo_shih), Quality Engineering Manager, Ops |
