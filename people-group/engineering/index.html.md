@@ -66,38 +66,33 @@ Ops Engineer always adds the reason why an issue is moved to blocked.
 
 #### Priorities
 Before we state a ticket as fully triaged, we need to have the following information:
-- is it compliance related
-- how often does the problem occure
-- how many team members are affected by this
-- what is the manual effort currently done for this
+- is it compliance related?
+- how often does the problem occur?  Daily, weekly, monthly, annually?
+- how many team members are affected by this?
+- what is the manual effort (in time) currently required to accomplish this work today?
 
 What that knowledge in mind we determine the priority of a ticket, with the following table:
 
 | Priority Level   | Compliance | Impact                       | Occurrence               | Project involved                      |
 | --------------   | ---------- |-----------------             | ---------------          |-----------------------                |
-| p1 (`~pops::p1`) | yes        | company or division          | daily, weekly or monthly | n/a                                   |
-| p2 (`~pops::p2`) | yes        | department or team           | daily, weekly or monthly | n/a                                   |
-| p2 (`~pops::p2`) | n/a        | company                      | n/a                      | comp calc, nom bot or assessment tool |
-| p3 (`~pops::p3`) | no         | company                      | daily or weekly          | n/a                                   |
-| p3 (`~pops::p3`) | n/a        | team                         | n/a                      | nom bot or assessment tool            |
-| p4 (`~pops::p4`) | no         | division, department or team | daily or weekly          | n/a                                   |
-| p5 (`~pops::p5`) | no         | division, department or team | monthly                  | n/a                                   |
+| p1 (`~pops::p1`) | yes        | Any                          | daily, weekly or monthly | n/a                                   |
+| p2 (`~pops::p2`) | no         | Company                      | daily, weekly            | comp calc, nom bot or assessment tool |
+| p3 (`~pops::p3`) | no         | Division, Department or Team | daily, weekly            | nom bot or assessment tool            |
+| p5 (`~pops::p5`) | no         | Division, Department or Team | monthly                  | n/a                                   |
 
-Our issues will be labeled according to the priority level. Anything that falls outside of the table, won't get a priority label. As this is a first
-iteration, we will review those without a label, to see if they should've gotten a label and if we need to rework this table.
+Our issues will be labeled according to the priority level. Anything that falls outside of the table won't be labeled with a priority and will be added to our backlog and worked after priority items are completed.  As this is a first iteration, we will review those without labels to see if they should've been labeled differently and if we need to rework this table.
 
 #### Milestones
-We plan everything in monthly milestones. Every new milestone, starts at the beginning of the month. The first day of the
-milestone, someone in the People Engineering team will post a summary of the past milestone in #people-group on Slack. This
-should contain the main items we've worked on. If important issues weren't finished, this is also the place to communicate
-this. In the same summary, we also add the big next month tickets and paste a URL to the board with the milestone.
+We plan everything in monthly milestones. Every new milestone starts at the beginning of the month. The first day of the
+milestone the People Engineering team will post a summary of the past milestone in #people-group on Slack. This
+will contain the main items we've worked. If important issues weren't completed, this will also be communicated at that time.  
+In the same summary, we also add the big next month tickets and paste a URL to the board with the milestone.
 
 At the start of the milestone, all tickets we aim to finish within the milestone should be labeled with the `Deliverable`
 label. That way we can easily see the difference between scheduled vs unplanned work. If a `Deliverable` ticket can't be
 wrapped up during the milestone, we should communicate this as soon as possible to the stakeholders.
 
-To plan the milestone, we filter the open issues on label: `~Workflow::Ready for Development` and `Milestone=None`. Then we first take the `~pops::p1` labeled issues.
-If there's room for other tickets left, we go to the `~pops::p2` labeled issues and so on.
+To plan the milestone, we filter the open issues on label: `~Workflow::Ready for Development` and `Milestone=None`. Then we first take the `~pops::p1` labeled issues. If there's room for other tickets left, we go to the `~pops::p2` labeled issues and so on.
 
 There are two exceptions on the priority labels:
 - issues labeled `bug`: these should be fixed either in the current milestone or in the next one
