@@ -237,11 +237,11 @@ If you have a Field Communications request (process change, announcement, etc.),
         - `FE priority::3` - work that does not directly support an OKR and has a low to medium impact on the field
 - **Field Enablement Issue Boards**
     - [Field Enablement By Initiative Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1191445)
-    - [Field Enablement By Priority Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1644552?&label_name%5B%5D=field%20enablement)
+    - [Field Enablement Prioritization Board](https://gitlab.com/groups/gitlab-com/-/boards/2624997)
     - [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
     - [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
     - [Sales & CS Onboarding Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790236)
     - [Partner Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1645038)
     - [Field Certification Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426)
-    - [Command of the Message and MEDDPPICC Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1823684)
+    - [Value Framework Feedback (VFF) Board](https://gitlab.com/groups/gitlab-com/-/boards/2625246)
     - [Commercial Sales Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790139)
