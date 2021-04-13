@@ -55,11 +55,12 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 This content is divided into five key competencies for Product Managers. 
 
-<!--**💡 [Discovery](#-discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](#%EF%B8%8F-design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](#-delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#-business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#-communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#-team-management)**-->
+<!--**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**-->
 
+<a id=“discovery”></a>
 ## 💡 Discovery
 <hr>
-### Discovery: User research
+### 💡 User research
 
 ##### Quick reads and videos
 
@@ -83,7 +84,7 @@ This content is divided into five key competencies for Product Managers.
 - [Daniel Kahneman: Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 - [Erika Hall: Just Enough Research](https://abookapart.com/products/just-enough-research)
 
-### Discovery: Customer interviewing
+### 💡 Customer interviewing
 
 ##### Quick reads and videos
 
@@ -106,7 +107,7 @@ This content is divided into five key competencies for Product Managers.
 - [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180742)
 - [Interviewing Users: How to Uncover Compelling Insights](https://www.amazon.com/Interviewing-Users-Uncover-Compelling-Insights/dp/193382011X)
 
-### Discovery: Jobs to be done 
+### 💡 Jobs to be done 
 
 ##### Quick reads and videos
 
@@ -131,7 +132,7 @@ This content is divided into five key competencies for Product Managers.
 - [Clayton M. Christensen et al: Competing Against Luck](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer-ebook/dp/B01BBPZIHM/)
 - [Intercom on Jobs-to-be-Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done) (free ebook download)
 
-### Discovery: Lean product development
+### 💡 Lean product development
 
 ##### Quick reads and videos
 
@@ -153,7 +154,7 @@ This content is divided into five key competencies for Product Managers.
 - [Jake Knapp: Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
 - [Ash Maurya: Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
 
-### Discovery: Growth and experimentation 
+### 💡 Growth and experimentation 
 
 ##### Quick reads and videos
 
@@ -181,6 +182,7 @@ This content is divided into five key competencies for Product Managers.
 
 <br>
 <br>
+<a id=“design”></a>
 ## ✏️ Design 
 <hr>
 ##### Quick reads and videos
@@ -209,9 +211,10 @@ This content is divided into five key competencies for Product Managers.
 
 <br>
 <br>
+<a id=“delivery”></a>
 ## 🚀 Delivery
 <hr>
-### Delivery: User stories
+### 🚀 User stories
 
 ##### Quick reads and videos
 
@@ -230,7 +233,7 @@ _Please contribute your favorite resources here_
 
 - [Jeff Patton: User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 
-### Delivery: Backlog management
+### 🚀 Backlog management
 
 ##### Quick reads and videos
 
@@ -251,7 +254,7 @@ _Please contribute your favorite resources here_
 
 - [Donald G. Reinertsen: The Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
-### Delivery: Working with Engineering 
+### 🚀 Working with Engineering 
 
 ##### Quick reads and videos
 
@@ -270,9 +273,10 @@ _Please contribute your favorite resources here_
 _Please contribute your favorite resources here_
 <br>
 <br>
+<a id=“business-acumen”></a>
 ## 📈 Business acumen
 <hr>
-### Business acumen: product strategy
+### 📈 Product strategy
 
 ##### Quick reads and videos
 
@@ -293,7 +297,7 @@ Please contribute your favorite resources here
 - [Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream-dp-0062292986/dp/0062292986)
 - [Testing Business Ideas: A Field Guide for Rapid Experimentation](https://www.amazon.com/Rapid-Testing-Business-Ideas-Customer/dp/1119551447)
 
-### Business acumen: competitive analysis
+### 📈 Competitive analysis
 
 ##### Quick reads and videos
 
@@ -312,7 +316,7 @@ _Please contribute your favorite resources here_
 
 _Please contribute your favorite resources here_
 
-### Business acumen: KPIs and Metrics 
+### 📈 KPIs and Metrics 
 
 ##### Quick reads and videos
 
@@ -335,9 +339,10 @@ _Please contribute your favorite resources here_
 
 <br>
 <br>
+<a id=“communication”></a>
 ## 💬 Communication
 <hr>
-### Communication: relationships with customers
+### 💬 Relationships with customers
 
 ##### Quick reads and videos
 
@@ -355,7 +360,7 @@ _Please contribute your favorite resources here_
 
 - [Building a Story brand](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329/ref=sr_1_11?)
 
-### Communication: writing to inspire, align and activate 
+### 💬 Writing to inspire, align and activate 
 
 ##### Quick reads and videos
 
@@ -373,7 +378,7 @@ _Please contribute your favorite resources here_
 
 _Please contribute your favorite resources here_
 
-### Communication: presentations, prepared and adhoc
+### 💬 Presentations, prepared and adhoc
 
 ##### Quick reads and videos
 
@@ -397,9 +402,10 @@ _Please contribute your favorite resources here_
 
 <br>
 <br>
+<a id=“team-management”></a>
 ## 🤝 Team management 
 <hr>
-### Team management: stakeholder management
+### 🤝 Stakeholder management
 
 ##### Quick reads and videos
 
@@ -417,7 +423,7 @@ _Please contribute your favorite resources here_
 
 _Please contribute your favorite resources here_
 
-### Team management: cross-functional team management
+### 🤝 Cross-functional team management
 
 ##### Quick reads and videos
 
@@ -436,7 +442,7 @@ _Please contribute your favorite resources here_
 - [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520)
 - [Radical Candor](https://www.amazon.com/dp/1529038340/ref=cm_sw_em_r_mt_dp_JW4418H1Q2BQ2MGV62WN)
 
-### Team management: direct team management
+### 🤝 Direct team management
 
 ##### Quick reads and videos
 
@@ -458,7 +464,7 @@ _Please contribute your favorite resources here_
 - [Julie Zhuo: The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks-ebook/dp/B079WNPRL2/)
 - [First Round Essentials: Management](https://books.firstround.com/management/) (free ebook download)
 
-### Team management: leadership and influence
+### 🤝 Leadership and influence
 
 ##### Quick reads and videos
 
