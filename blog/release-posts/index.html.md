@@ -1370,21 +1370,11 @@ extras:
 
 ### Deprecations
 
-_To be added by Product Managers or Engineering Managers and merged by either. Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration) at least 2 releases prior to the actual release when feature is removed or officially obsolete, and repeated in subsequent release posts as appropriate till complete._
+_To be added by Product Managers or Engineering Managers and merged by either._
+ Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
-Describe the deprecations happening in that release or in upcoming releases. Note that there are differences in [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
-so be sure to include the relevant details on when the feature will be removed from GitLab in the post. Let our community know about a future deprecation as soon as possible. When adding deprecations be sure to keep with the same structure of "XYZ feature or function will be deprecated at ABC time."
-
-The due date is defined by the removal of that feature. The field is required, and should be set as:
-
-- The date of the removal, e.g., "May 22nd, 2017", or
-- An upcoming release (_only_ if the release date in unknown), e.g., "GitLab 12.0", or
-- An estimation of the removal date, e.g., "January 22nd, 2019 (estimated)", or
-- An estimation of the removal release (_only_ if the release date in unknown), e.g., "GitLab 12.0 (estimated)"
-
-If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0. Product Managers are the DRI for re-adding the deprecation to release posts until the item is completed.
-
-Create one .yml file for each deprecation notice in the `/data/release_posts/unreleased/` folder with the following contents:
+A deprecation is an annoucement in the release post notifying the community of a future removal. Deprecations should be included in the release post as far in advance as possible or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+Create a deprecation notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
 
 ```yaml
 deprecations:
@@ -1396,6 +1386,22 @@ deprecations:
       Veritatis, quisquam.
 ```
 
+`feature_name` should follow the structure of "XYZ feature or function will be deprecated at ABC time."
+
+
+
+The `due` field is defined by the future removal of that feature. The field is required, and should be set as:
+
+- The date of the removal, e.g., "May 22nd, 2017", or
+- An upcoming release (_only_ if the release date in unknown), e.g., "GitLab 12.0", or
+- An estimation of the removal date, e.g., "January 22nd, 2019 (estimated)", or
+- An estimation of the removal release (_only_ if the release date in unknown), e.g., "GitLab 12.0 (estimated)"
+
+`description` should contain a brief description of the feature or functionality being removed. It is recommended that you link to the documentation.
+
+
+If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0. Product Managers are the DRI for re-adding the deprecation to release posts until the item is completed.
+
 If you have multiple deprecation notices for your category, then you can choose to create one MR. The MR should still consist of a deprecate_category_feature.yml file for each feature that you are deprecating.
 
 No other changes are required and the `features.yml` file should not be edited until the feature is removed from the product.
@@ -1406,7 +1412,9 @@ Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/
 
 When approved, include the "Ready" label in the MR before merging.
 
-Deprecations are announced for 2 releases in advance of the final removal. Since the content remains the same each month, it is not necessary to get the content reviewed each time by TW and PMM. When Product Managers OR Engineering Managers are preparing the subsequent instances of a deprecation, follow these steps:
+#### Repeat Deprecation notices
+
+Deprecations are announced for at least 2 releases in advance of the final removal. Since the content remains the same each month, it is not necessary to get the content reviewed each time by TW and PMM. When Product Managers OR Engineering Managers are preparing the subsequent instances of a deprecation, follow these steps:
 1. Create a MR and copy content directly from the previous MR that was merged.
 2. Check off the review tasks for PMM and TW
 3. Tag PMM and TW in a comment on the MR indicating the content was previously reviewed in release XX.XX in _link to the old merge request_.
@@ -1416,19 +1424,12 @@ Deprecations are announced for 2 releases in advance of the final removal. Since
 
 ### Removals
 
-_To be added by Product Managers or Engineering Managers and merged by either. Removals should be added to the release post at least 2 releases prior to the actual release when feature is removed, and repeated in subsequent release posts as appropriate till complete._
+_To be added by Product Managers or Engineering Managers and merged by either._
 
-Describe the features that are being removed in the upcoming release. Removals should be planned.
-If possible, set up a [deprecation](#deprecation) notice at least one minor release before removing a feature.
+A removal is an announcement in the release post notifying the community that a feature has officially been removed. Do not use the removal template until the feature is actually getting removed. Removals are announced in the release post as a deprecation at least 2 releases prior to the actual release when feature is removed. Note the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
 
-Note the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features),
-so be sure to include the relevant details on when the feature will be removed from GitLab in the post.
+Create a removal notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
 
-The `date_of_removal`due date is defined by the removal of that feature. The field is required, and should be set as:
-
-- The date of the removal, e.g., "May 22nd, 2017"
-
-Please set up one removal per MR.
 
 ```yaml
 removals:
@@ -1455,6 +1456,12 @@ removals:
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
 ```
+
+`feature_name` should follow the structure of "XYZ feature or function has been removed."
+
+`date_of_removal` should be the day the removal was releaed, e.g. May 22nd, 2021. 
+
+`description` should contain a brief description of the feature or functionality being removed.
 
 The `/data/features.yml` file should also be edited with the removed features deleted from the file.
 
