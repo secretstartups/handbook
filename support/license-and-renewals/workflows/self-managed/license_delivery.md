@@ -16,4 +16,6 @@ Frequently we need to generate license files, the request for those can be origi
 1. By a customer direct request in Zendesk
 1. As part of an internal request
 
-In both cases the license can be attached to the issue or ticket where the request was made, however a change to this policy will come in effect soom that will modify how we deliver support generated license files.
+In both cases the license can be attached to the issue or ticket where the request was made.
+
+However, once read-only access is available for LicenseDot (see https://gitlab.com/gitlab-org/license-gitlab-com/-/issues/204), this workflow should be updated (see https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3251 for a discussion on this topic).
