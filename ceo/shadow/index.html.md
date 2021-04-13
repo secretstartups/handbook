@@ -1010,3 +1010,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-03-08 | 2021-03-19 | [Robert Kohnke](https://gitlab.com/rkohnke) | Marketing Strategy and Performance, Data Analyst | |
 | 2021-03-15 | 2021-03-26 | [Sarah Daily](https://gitlab.com/sdaily) | Senior Marketing Operations Manager | |
 | 2021-03-22 | 2021-04-02 | [Darwin Sanoy](https://gitlab.com/darwinjs) | Senior Solutions Architect, Alliances | |
+| 2021-03-29 | 2021-04-09 | [Anthony Ogunbowale - Thomas](https://gitlab.com/anthonyot) | Named, Account Executive EMEA | |
