@@ -20,13 +20,20 @@ To nominate someone you type in `/nominate`. The bot will open a dialog
 with additional details to fill in. Once filled in, you can submit the dialog. This data
 will be stored in a database and is sent through Slack to the nominee's manager.
 
-The manager can then decide to approve or reject this nomination. On approval, the bot will
-send this nomination to the second level manager, People Business Partners and Total Rewards
+The manager can then decide to approve or reject this nomination. 
+
+On approval, the bot will send this nomination to the second level manager, People Business Partners and Total Rewards
 team. Each of them have to approve. On the final approval, it is added to BambooHR in the
 bonus table. The nominator AND the manager of the nominee are also updated about a final approval.
 The manager will receive a message with the full nomination and will be asked to share this with the
 nominee and to share it in the #team-members-update channel on Slack.
 
+On rejection, an additional modal will pop-up asking for the rejection reason. This reason is
+only to be used in an aggregated way to get details about why nominations are rejected. This is
+not shared with anyone else or shown in the Home views. The nominator will see that the nomination
+was rejected but they won't see why. The bot will send a message to the person who rejected asking
+to share feedback with the nominator.
+ 
 ## Features
 
 ### Update a nomination
