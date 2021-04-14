@@ -16,7 +16,7 @@ description: "How the GitLab Inc team works with JiHu"
 
 ## Overview
 
-As announced in the blog post [GitLab licensed its technology to new independent Chinese company](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/), GitLab Inc. has licensed its technology to JiHu. The purpose this page is to outline how teams at GitLab Inc. will be working with JiHu. 
+As announced in the blog post [GitLab licensed its technology to new independent Chinese company](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/), GitLab Inc. has licensed its technology to JiHu. The purpose this page is to outline how teams at GitLab Inc. will work with JiHu. 
 
 ## PR and Brand
 
