@@ -1,9 +1,9 @@
 ---
 layout: handbook-page-toc
-title: "Facilitator Guide for Certified Training Partners for the GitLab CI/CD course"
+title: "Facilitator Guide for Certified Trainers for the GitLab CI/CD course"
 description: "This Facilitator Guide is intended to walk you through all important links, preparation items, and after class items for our GitLab CI/CD course."
 ---
-# GitLab CI/CD Facilitator Guide for Partners
+# GitLab CI/CD Facilitator Guide 
 {:.no_toc}
 
 ## On this page
@@ -14,9 +14,17 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ## Important Links
 
-1. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html)
-2. [GitLab Template Projects for VMs](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo)
-3. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
+1. [Master Presentation](https://docs.google.com/presentation/d/1Eb7m7cGFrmMDfaHF3TRWLqhgSxZpYxl0RzA8DHWIcDU/edit?usp=sharing)-
+  - Go to File > Make a Copy > Entire Presentation to save a copy of your deck.
+  - PDF the presentation at the end of the course to send to the client
+  - Save  your copy in the applicable [client folder](https://drive.google.com/drive/u/0/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U)
+2. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html)
+3. GitLab Template Projects
+   - [For Partner VM Builds](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo)
+   - [For GitLab Demo Cloud](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training)
+4. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
+5. [Course Introduction CBT](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+GitLab+CICD+-+Storyline+output/story.html) (all attendees receive prior to training)
+
 
 ## Before Class Preparation
 
@@ -29,8 +37,10 @@ description: "This Facilitator Guide is intended to walk you through all importa
 3. Websites to have up prior to class:
     1. [Related GitLab Docs pages](https://docs.gitlab.com/ee/gitlab-basics/)
     2. [Hands on Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html)
-    3. [Lab environment](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo) 
-        (Virtual Machines need to be built prior to class)
+    3. Lab environments
+      - [GitLab Demo Cloud](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training)
+      - [Partner VM Builds](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo)
+         - When building the lab environment in a standalone instance or a virtual machine, follow the step by step instructions in the [README](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo/-/blob/master/README.md) to ensure your Hands On evnironment is set up correctly prior to class.
 4. Slides
     1. Make sure you can access the slides with presenter notes
 
@@ -56,8 +66,8 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ### Module 5: Variable Precedence and Scoping
 
-1. Ensure learners have the link to the [Sample Project](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo) in your envionment.
-1. Ensure learners are able to access the Snippets section once the sample project is imported into your VM envionment. 
+1. Ensure learners have the link to the Sample Project titled "GitLab CICD Hands On Demo" in your envionment.
+1. Ensure learners are able to access the Snippets section. 
 
 ### [Super Mario Adventure Game](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/Super+Mario+Adventure+-+Storyline+output/story.html)
 
@@ -66,9 +76,9 @@ description: "This Facilitator Guide is intended to walk you through all importa
 At the end of the session, remember to share out the link for the [survey](https://forms.gle/sKcsKSqV1aeXkYyF7)- they will receive a follow up email as well with the survey and certification instructions, but this helps get you immediate results and better input. At end of session, remember to put post course session survey link in chat.
 
 
-## Cleaning up your Local Comp and Hands on VMs After Class
+## Cleaning up your Local Comp and Hands on Environments After Class
 
-Afer each class you will want to clean up your systems both locally and in your VMs so you do not end up with duplicates that intefere with future classes.
+Afer each class you will want to clean up your systems both locally and in your Hands On Environment so you do not end up with duplicates that intefere with future classes.
 
 1. Remove the Training directory from your local system:  (rm -rf Training)
 1. Navigate to the training users group and remove the projects you created in labs
