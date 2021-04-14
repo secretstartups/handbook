@@ -13,14 +13,27 @@ title: "Enterprise Dimensional Model"
 
 ## Background
 
-This is to demo work currently done as part of data team's effort to develop EDW using dimensional modeling.
+The Enterprise Dimensional Model (EDM) is GitLab's centralized data model, designed to enable and support the highest levels of accuracy and quality for reporting and analytics. The data model follows the [Kimball](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/) technique, including a Bus Matrix and Entity Relationship Diagram. Dimensional Modeling is the third step of our overarching [Data Development Approach](https://about.gitlab.com/handbook/business-technology/data-team/organization/#development-approach) (after Requirements definition and UI Wireframing) and this overall approach enables us to repeatedly produce high-quality data solutions. The EDM is housed in our Snowflake [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) and is generated using [dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/).
 
-- [Proposal issue](https://gitlab.com/gitlab-data/managers/-/merge_requests/1)
-- [Pilot Enterprise Data Warehouse epic](https://gitlab.com/groups/gitlab-data/-/epics/76)
+As of 2021-April, the EDM solves for Go-To-Market funnel analytics and is atively being expanded to solve for Product Usage analytics. Example SiSense dashboards powered by the EDM include:
+- [TD: Sales Funnel](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
+- [TD: Customer Segmentation](https://app.periscopedata.com/app/gitlab/718514/TD:-Customer-Segmentation)
+- [TD: Drillable Net Retention](https://app.periscopedata.com/app/gitlab/763726/TD:-Drillable-Net-Retention)
+- [TD: Pricing Dashoard](https://app.periscopedata.com/app/gitlab/748119/TD:-Pricing-Dashboard---Customer-Overview)
 
-## Dimensional modeling
+### Primary Dimensional Modeling Artifacts
+- The [Enterprise Bus Matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=1372061550) consolidates all of our Fact and Dimension tables into an easy-to-use table and is patterned after the [Kimball bus matrix](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/kimball-data-warehouse-bus-architecture/).
+- The [Enterprise Entity Relationship Diagram](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) presents a unified entity-level view of the Fact and Dimension tables.
+- The [Dimensional Modelling Development Process](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#dimensional-modeling) covers our modeling standards, including naming conventions.
 
-Dimensional modeling is part of the Business Dimensional Lifecycle methodology developed by Ralph Kimball which includes a set of methods, techniques and concepts for use in data warehouse design.
+### The Enterprise Dimensional Model 'BIG PICTURE' Diagram
+- We use Lucidchart's [ER diagram template](https://www.lucidchart.com/pages/er-diagrams) to build [Enterprise Entity Relationship Diagram](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) source.
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19" id="jBktl-f497ew"></iframe></div>
+
+## What Is Dimensional Modeling?
+
+Dimensional modeling is part of the Business Dimensional Lifecycle methodology developed by [Ralph Kimball](https://en.wikipedia.org/wiki/Ralph_Kimball) which includes a set of methods, techniques and concepts for use in data warehouse design.
 
 _a logical design technique that seeks to present the data in a standard, intuitive framework that allows for high-performance access_
 
@@ -31,7 +44,7 @@ Dimensional Modeling is business process oriented and can be built in 4 steps:
 1. Identify the dimensions
 1. Identify the fact
 
-## Fact and dimension tables
+### Fact and dimension tables
 
 Dimensional modeling always uses the concepts of facts (measures), and dimensions (context).
 Facts are typically (but not always) numeric values that can be aggregated, and dimensions are groups of hierarchies and descriptors that define the facts.
@@ -39,11 +52,16 @@ Facts are typically (but not always) numeric values that can be aggregated, and 
 In the simplest version fact table is a central table and is linked to dimensional tables with foreign keys creating a star schema.
 Star schema with dimensional tables linking to more dimensional tables are called snowflake schemas, multi fact tables schemas are called galaxies.
 
-### First iteration in GitLab DWH
+### Why is it worth using dimensional modeling 
 
-OKR: Reporting on both ARR and Customer counts entirely supported in a Kimball Dimensional Warehouse
+- Dimensional Modeling has a few flavors, but the overall design is industry standard and has been used successfully for decades
+- The FACT and DIM structures result in easy to understand and access data, suitable for business teams
+- Dimensional modeling supports centralized implementation of business logic and consistent definitions across business users e.g. one source of truth of customer definition
+- The design supports 'plug and play' of new subject areas and in fact the model grows in power as more dimensions are added
 
-The graphical schema of dimensional model developed for calculating  ARR/ Customer count
+## Our Very First Iteration - Solving for ARR and Customer Counts
+
+The initial iteration was proposed in [2019-December](https://gitlab.com/gitlab-data/managers/-/merge_requests/1) and we deployed a model to support ARR/ Customer counts in [2020-May](https://gitlab.com/groups/gitlab-data/-/epics/76). 
 
 ```mermaid
 classDiagram
@@ -91,50 +109,6 @@ classDiagram
         PK: product_details_id
     }
 ```
-
-More on use and conventions of Dimensional Modeling in Data Team Handbook [here](/handbook/business-technology/data-team/platform/dbt-guide/#dimensional-modeling)
-
-## How to interact with the dim and fct tables -  building Data Marts
-
-Fct_ and dim_ dbt models are created in `COMMON` schema indicating that they are not source related and create basis to build data marts.
-
-In Snowflake they can be found in `ANALYTICS_STAGING` schema.
-
-The advantage of dimensional schema is ease of querying and building data marts.
-
-Data mart is where the dimensions labels selection and aggregation can happen.
-
-```sql
-    SELECT
-    COALESCE(dim_customers.merged_to_account_id , dim_customers.CRM_ID) AS customer_id,
-    subscription_name_slugify,
-    dateadd('month',-1,dim_dates.first_day_of_month) as mrr_month,
-    mrr
-    FROM ANALYTICS.ANALYTICS_STAGING.dim_dates
-     INNER JOIN ANALYTICS.ANALYTICS_STAGING.fct_charges ON fct_charges.effective_start_date_id <= dim_dates.date_id
-     AND fct_charges.effective_end_date_id > dim_dates.date_id  AND dim_dates.day_of_month=1
-    INNER JOIN ANALYTICS.ANALYTICS_STAGING.fct_invoice_items_agg ON fct_charges.charge_id = fct_invoice_items_agg.charge_id
-    INNER JOIN ANALYTICS.ANALYTICS_STAGING.dim_subscriptions ON dim_subscriptions.SUBSCRIPTION_ID = fct_charges.subscription_id
-    INNER JOIN  ANALYTICS.ANALYTICS_STAGING.dim_customers ON dim_customers.crm_id = dim_subscriptions.crm_id;
-
-```
-
-- Example Data Mart build with dbt [WIP](https://gitlab.com/gitlab-data/analytics/-/blob/b7375abfc6ab32eb6d9988df6ae5a98ebc7f72ba/transform/snowflake-dbt/models/marts/mrr/mrr_data_mart.sql)
-
-## Why is it worth using fact and dim tables
-
-- simpler to query as fully normalized data models are way too complex for non-developers to deal with
-- centralized implementation of business logic, consistent definitions across business users e.g. one source of truth of customer definition
-- easier to add data to existing dimensional model
-- easier to communicate with business
-- definitions should be source system independent
-
-## How dimensional modeling can improve weaknesses of what we are using now
-
-- very often our models follow source models which are normalized and difficult for business user to understand
-- plenty of xf_ models (re-)use similar but yet not the same logic for defining customer
-- redundancy, reinventing definitions when building model using source models
-- hard to identify which xf_/intermediate models are affected by changes in source/base models
 
 ## Useful links and resources
 
