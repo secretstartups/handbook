@@ -1,3 +1,11 @@
+---
+layout: handbook-page-toc
+title: Digital Experience Handbook
+description: >-
+  Learn more about the Digital Experience purpose, vision, mission, objective
+  and more in this handbook.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -161,6 +169,14 @@ We use the [Inbound Marketing Sprint Planning document](https://docs.google.com/
 We use [Geekbot](https://geekbot.com/) to conduct asynchronous, weekly check-ins on iteration progress.
 
 Each member of the Digital Experience team should be listed as a participant in the weekly check ins, and everyone should have permissions to manage the application for our team. The app can be configured through the [Geekbot Dashboard](https://app.geekbot.com/dashboard/), which you can visit directly, or find by clicking the **Geekbot** Slack conversation, navigating to the **About** tab, and clicking **App Homepage**.
+
+### Code Reviews
+
+Our team makes every attempt to complete [code reviews](https://about.gitlab.com/handbook/engineering/workflow/code-review/) on Merge Requests as timely as possible.
+
+Team members who create a Merge Request should factor in a suitable amount of time for code and/or design review. If an issue has a due date, the MR creator should try have the work code-complete at least 24 hours prior to the intended release. This gives time for any major fixes that the reviewers may point out, and encourages quick [iterations](https://about.gitlab.com/handbook/values/#iteration) and [Minimal Viable Change releases](https://about.gitlab.com/handbook/values/#move-fast-by-shipping-the-minimal-viable-change).
+
+When a team member is requested for review, it is good practice for them to post a comment in the Merge Request with an estimated timeline by which they expect to complete the review. For example, it is understandable to take 3 days to do a review, as long as you've let the MR creator know it may take that long. This gives the MR creator an opportunity to request a review from another team member.
 
 ### Sprint Releases
 
