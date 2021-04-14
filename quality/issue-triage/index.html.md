@@ -5,6 +5,7 @@ description: "Guidelines for triaging new issues opened on GitLab.com projects"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -50,12 +51,14 @@ The priority label is used to indicate the importance and guide the scheduling o
 ## Severity
 
 Severity labels help us determine urgency and clearly communicate the impact of a `~bug` on users. There can be multiple categories of a `~bug`.
-The presence of bug category labels `~availability `, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category.
+The presence of bug category labels `~availability`, `~performance`, `~security`, and `~UX` denotes to use the severity definition in that category.
 
 | Type of `~bug` | `~severity::1`: Blocker | `~severity::2`: Critical | `~severity::3`: Major  | `~severity::4`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
 | General bugs   | Broken feature with no workaround. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | |
 | `~performance` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 500ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/) |
+| `~performance` Browser Rendering <br> ([LCP](https://web.dev/lcp/))[^2] | Above 9000ms to timing out | Between 4000ms and 9000ms | Between 3000ms and 4000ms | Between 3000ms and 2500ms | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/) |
+| `~performance` Browser Rendering <br> ([TBT](https://web.dev/tbt/))[^2] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 300ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/) |
 | `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | [Product Designers](/handbook/engineering/ux/product-design/) of that Product group |
 | `~availability` of GitLab SaaS | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | |
 | `~security` Security Vulnerability | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | AppSec team |
@@ -133,6 +136,7 @@ The merge request (MR) experience is the core of our product. Due to many teams 
 The overlapping is largely seen in the following areas: Merge Request Widgets, Mergeability Checks, MWPS and Merge Trains.
 
 As part of the analysis in the [Transient Bug working group](/company/team/structure/working-groups/transient-bugs/), we have discovered that the top most affected product areas are:
+
 1. `create::code review`
 1. `verify::continuous integration`
 1. `create::source code` (tied)
@@ -156,24 +160,27 @@ We need an elevated sense of action in this area. If a bug is related to the mer
 **Improving performance**: It may not be possible to reach the intended response time in one iteration.
 We encourage performance improvements to be broken down. Improve where we can and then re-evaluate the next appropriate level of severity & priority based on the new response time.
 
-[^1]: Our current response time standard is based on the TTFB P90 results of the GitLab Performance Tool (GPT) being run against the 10k-user reference environment.
-This run happens nightly and results are outputted to the [wiki on the GPT project.](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/10k)
+[^1]: Our current response time targets for APIs, Web Controllers and Git calls are based on the TTFB P90 results of the [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance) being run against a [10k-user reference environment](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html) under lab like conditions. This run happens nightly and results are outputted to the [wiki on the GPT project](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/10k).
+
+[^2]: Our current Browser Rendering targets for [Largest Contentful Paint (LCP)](https://web.dev/lcp/) and [Total Blocking Time (TBT)](https://web.dev/tbt/) are based on results of [SiteSpeed](https://gitlab.com/gitlab-org/quality/performance-sitespeed) being run against a [10k-user reference environment](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html) under lab like conditions. This run happens nightly and results are outputted to the [wiki on the GPT project](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/SiteSpeed/10k).
 
 ### UX debt
 
 Issues labeled as `~UX Debt` can also have a severity and priority labels applied *without* an accompanying `~bug` label. UX Debt results from the decision to release a user-facing feature that needs refinement, with the intention to improve it in subsequent iterations. Because it is an intentional decision, `~UX Debt` should not have a severity higher than `~severity::3`, because [MVCs](/handbook/values/#minimal-viable-change-mvc) should not intentionally have obvious bugs or significant usability problems.
 
 ### Transient bugs
+
 A transient bug is unexpected, unintended behavior that does not always occur in response to the same action.
 
 Transient bugs give users conflicting impressions about what is happening when they take action, may not consistently occur, and last for a short period of time. While these bugs may not block a user's workflow and are usually resolved by a total page refresh, they are detrimental to the user experience and can build a lack of trust in the product. Users can become unsure about whether the data they are seeing is stale, fresh, or has even updated after they took an action. Examples of transient behaviors include:
+
 - Clicking the "Apply Suggestion" button and the page not getting updated with the applied suggestion
 - Updating the milestone of an issue by using a quick action, but the sidebar not updating to reflect the new milestone
 - Merging a merge request and the merge request page still showing as "Open"
 
 In order to define an issue as a "transient bug," use the `~"bug::transient"` label
 
-### Infradev Issues 
+### Infradev Issues
 
 An issue may have an `infradev` label attached to it, which means it subscribes to a dedicated process to related to SaaS availability and reliability, as detailed in the [Infradev Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/#infradev). These issues follow the established [severity SLOs for bugs](/handbook/engineering/quality/issue-triage/#severity-slos).
 
@@ -183,17 +190,17 @@ Initial triage involves (at a minimum) labelling an issue appropriately, so un-t
 
 Follow one of these links:
 
-* [GitLab][issues-query]
-* [GitLab Omnibus][omnibus-issues-query]
-* [GitLab.com Support Tracker][support-issues-query]
+- [GitLab][issues-query]
+- [GitLab Omnibus][omnibus-issues-query]
+- [GitLab.com Support Tracker][support-issues-query]
 
 Pick an issue, with preference given to the oldest in the list, and evaluate it with a critical eye, bearing the [issue triage practices](#issue-triage-practices) below in mind. Some questions to ask yourself:
 
-* Do you understand what the issue is describing?
-* What labels apply? Particularly consider [type, stage and severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) labels.
-* How critical does it seem? Does it need to be escalated to a product or engineering manager, or to the security team?
-* Would the `~security` label be appropriate?
-* Should it be made confidential? It's usually the case for `~security` issues or
+- Do you understand what the issue is describing?
+- What labels apply? Particularly consider [type, stage and severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html) labels.
+- How critical does it seem? Does it need to be escalated to a product or engineering manager, or to the security team?
+- Would the `~security` label be appropriate?
+- Should it be made confidential? It's usually the case for `~security` issues or
   issues that contain private information.
 
 Apply each label that seems appropriate. Issues with a security impact should be treated specially - see the [security disclosure process](/handbook/support/channels/#security-disclosures).
