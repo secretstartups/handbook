@@ -20,7 +20,7 @@ domains. This is a security measure affecting custom domains served by
 GitLab.io, preventing domains from being hijacked by unauthorized users.
 
 Verification involves adding a GitLab-generated code to the DNS records for the
-domain. Full details can be found [at this documentation page](https://docs.gitlab.com/ee/user/project/pages/getting_started_part_three.html#dns-txt-record).
+domain. Full details can be found [at this documentation page](https://docs.gitlab.com/ee/user/project/pages/custom_domains_ssl_tls_certification/index.html#dns-txt-record).
 
 Domains can be verified or unverified. They can also be - separately - enabled or
 disabled. When a new domain is added, it is both unverified and disabled. Once
