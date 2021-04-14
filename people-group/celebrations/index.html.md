@@ -36,7 +36,7 @@ Kindly note that team members are welcome to send cards or tokens of acknowledge
 
 ## Significant Life Events
 ### Flowers and Gift Ordering
-Managers are able to send Gifts and Flowers on behalf of their teammembers in acknowledgement of significant life events such as the birth of a little one; well wishes ahead of surgery, or the loss of a loved one.
+Managers are able to send Gifts and Flowers on behalf of their team members in acknowledgment of significant life events such as the birth of a little one; well wishes ahead of surgery, or the loss of a loved one.
 
 The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**. 
 
