@@ -91,6 +91,63 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 | 13 | Extra-extra-large task | [Add support for REST API scans to DAST](https://gitlab.com/gitlab-org/gitlab/-/issues/10928) |
 | Bigger | Epic in disguise |  |
 
+### Security Vulnerability Process
+
+We are responsible to ensure that what we deliver is secure. This means that we dogfood GitLab's Security
+features.
+
+When creating an issue for a vulnerability, please make sure to follow
+the [Engineering Security instructions](/handbook/engineering/security/#creating-new-security-issues).
+
+#### SLO by Vulnerability Severity
+
+When triaging `Unknown` vulnerabilities, they should be assigned a proper severity as a means to decide the
+priority they should receive to be resolved. The corresponding priority is taken from [Triage levels
+Priority](../../../quality/issue-triage/#triage-levels).
+
+| Target                     | Unknown | Critical     | High         | Medium       | Low          |
+|----------------------------|:------:|:------------:|:------------:|:------------:|:------------:|
+| Dismiss/Confirm Vuln       | 72h    | 72h          | 72h          | 1mo          | 1mo          |
+| Confirmed Vuln is Resolved | N/A    | ~priority::1 | ~priority::2 | ~priority::3 | ~priority::4 |
+
+#### Workstream Designation
+
+The following is a description of the type of work and which workstream it flows through.
+
+| Work | Responsible Workstream |
+| Triage of new vulns | This should be done as a part of the MR review that introduces the vulns. |
+| Triage of existing vulns | This is done by the main maintainer of each of our analyzers as defined in our [Release project's issue template](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/scripts/templates/release_issue.md.erb). |
+| Resolution of Critical / High Vulns | These should be a Product-driven priority. |
+| Resolution of Medium / Low Vulns | This is done by the main maintainer of each of our analyzers as defined in our [Release project's issue template](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/scripts/templates/release_issue.md.erb). |
+
+As always, contributions are welcome from our community or the current MR coach in rotation.
+
+#### False Positive Dismissal Process
+
+The process for dismissing a vulnerability as a false positive is as follows:
+
+* If it doesn't exist on the [Static Analysis Group Defined False Positives](/handbook/engineering/development/secure/static-analysis/false_positives.html) page, then write documentation describing the type of false positive and why we think it is classified as such.
+* If the vulnerability relates to a specific code location (e.g. SAST), then open an MR with comments at each FP location that contain a link to the FP documentation.
+* Dismiss vulnerability in the GitLab UI with a comment that contains:
+  * A link to the FP documentation.
+  * A link to the FP comment MR if it was created.
+
+#### Vulnerability Issue Labels
+
+When creating issues for vulnerability consider adding the following labels besides our normal labels:
+
+- ~security
+- ~bug
+
+When there is a doubt about the severity/priority while creating the issue and severity/priority labels are
+not added. Then [Appsec Escalation
+Engine](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator#appsec-escalation-engine)
+could be leveraged to initiate a discussion with the Appsec team.  This bot monitor issues that are labeled
+~security and not ~test or ~feature. If severity/priority labels are not present, then labels
+security-sp-label-missing and security-triage-appsec will be added and this issue will be mentioned in the
+\#sec-appsec Slack channel. Then, the appsec stable counterpart for the group or App sec team triage person
+will pick up the issue and assign a severity as part of the appsec triage rotation.
+
 ### We Own What We Ship
 
 We are responsible for delivering GitLab's SAST and Secret Detection features, and the analyzers we develop rely heavily upon open source software. 
