@@ -276,7 +276,7 @@ No questions at this time.
 
 *  **Short answer**: Coming soon
 *  **Context video**: Coming soon
-*  **Learn more**: Review the [Replication with Geo documentation](https://docs.gitlab.com/ee/administration/geo/replication/index.html)
+*  **Learn more**: Review the [Replication with Geo documentation](https://docs.gitlab.com/ee/administration/geo/index.html)
 
 
 #### What is GitLab's out-of-the-box support for (AWS/Azure/GCP)?
@@ -291,13 +291,13 @@ No questions at this time.
 *  **Short answer**: Three requirements to determine the correct (most appropriate) reference architecture are:
 1.  Number of users
 2.  Whether or not HA (High Availability) is required
-3.  Whether or not [Geo (Replication)](https://docs.gitlab.com/ee/administration/geo/replication/index.html) is required
+3.  Whether or not [Geo (Replication)](https://docs.gitlab.com/ee/administration/geo/index.html) is required
 *  **Context video** (9 minutes, May 2020):
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/-WaX9nLKQME" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-*  **Learn more**: GitLab supports a number of scaling options to ensure that your self-managed instance is able to scale out to meet your organization’s needs when scaling up a single-box GitLab installation is no longer practical or feasible. Check out [GitLab's Reference Architecture documentation](https://docs.gitlab.com/ee/administration/scaling/index.html#reference-architectures).
+*  **Learn more**: GitLab supports a number of scaling options to ensure that your self-managed instance is able to scale out to meet your organization’s needs when scaling up a single-box GitLab installation is no longer practical or feasible. Check out [GitLab's Reference Architecture documentation](https://docs.gitlab.com/ee/administration/reference_architectures/index.html#reference-architectures).
 
 
 #### What are the best practices for backing up a GitLab instance?
