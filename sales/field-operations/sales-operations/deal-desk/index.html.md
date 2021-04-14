@@ -466,9 +466,9 @@ Occasionally, changes will be made to a Custom SOW after an opportunity has been
 
 #### Creating Decomission Opportunties
 
-Deal Desk will create Decommission (refund) opportunities for all Sales Assisted Orders. The Billing team will create Decommission (refund) opportunities for all Wep Portal purchases. The creation process is the same for both Deal Desk and Billing. 
+Deal Desk will create Decommission (refund) opportunities for all Sales Assisted Orders. The Billing team will create Decommission (refund) opportunities for all Web Portal purchases. The creation process is the same for both Deal Desk and Billing. 
 
-To create the decommission opp, navigate to the related Closed-Won Opportunity. Click 'Create Refund Opportunity'. Navigate to the opportunities tab under the Account page. Click on the newly created decommission opp, it will have 'REFUND' in the opportuntiy name. On the opportunity level, double check all fields populated as expected. For some multi-year deals, or partial refunds, 'Amount' may need to be updated manually. 
+To create the decommission opportunity, navigate to the related Closed-Won Opportunity. Click 'Create Refund Opportunity'. Navigate to the opportunities tab under the Account page. Click on the newly created decommission opp, it will have 'REFUND' in the opportuntiy name. On the opportunity level, double check all fields populated as expected. For some multi-year deals, or partial refunds, 'Amount' may need to be updated manually. 
 
 **Deal Desk** - After confirming all fields are correct on a Sales Assisted decommission, submit the opp for approval. 
 **Billing** - After confirming all the fields are correct on a Web Portal Purchase, manually change the 'Stage' to 'Closed-Won'. 
