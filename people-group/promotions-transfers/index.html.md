@@ -380,7 +380,7 @@ If you are a manager wishing to recruit someone, the process is the same as a te
 
 * We highly encourage the hiring manager to be transparent with the team member's current manager. Doing so will allow the current manager the maximal amount of time to plan for the transfer and speed up the overall process.
 * The hiring manager should post the open role in internal public forums to attract all potentially interested candidates.
-* It is highly discouraged to reach out to a potential candidate directly without talking to their manager first.
+* It is highly discouraged to reach out to a potential candidate directly without talking to their manager first. The hiring manager should share their intention of reaching out to the current manager's team member to ensure transparency and awareness. 
 
 ### Internal Department Transfers
 
