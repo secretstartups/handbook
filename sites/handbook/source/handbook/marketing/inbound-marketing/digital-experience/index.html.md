@@ -1,11 +1,3 @@
----
-layout: handbook-page-toc
-title: Digital Experience Handbook
-description: >-
-  Learn more about the Digital Experience purpose, vision, mission, objective
-  and more in this handbook.
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
