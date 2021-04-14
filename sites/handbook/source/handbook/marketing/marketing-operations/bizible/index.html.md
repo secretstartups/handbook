@@ -277,11 +277,19 @@ This diagram is to be used internally and with Pathfactory to understand the att
 
 <div style="width: 600px;" class="embed-thumb"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:22px; color: #393939;margin-bottom: 10px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> <div style="padding-left:50px"> <span style="max-width:555px;display: inline-block;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;line-height: 1; height: 25px; margin-top: -3px;">Bizible Online an Offline Touchpoints with Pathfactory</span> <span style="position:relative;top:-3px;font-size: 16px; margin-top: -6px; line-height: 24px;color: #393939; font-weight: 300;"> by Jackie Gragnola</span> </div> </h1> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1597182505968-5f331229ffb2423070d75f73-4b73eb23-af5f-435c-8bd1-8181147a68af.png?v=c974be40-95fe-4d07-b865-12e38e430e73) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1597182505968/6c8778e0d022161c22d9a3530e47a110e6cd5ef0" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> </div>
 
-## Bizible Reports in SFDC
+## Bizible in SFDC
+### [Bizible] SFDC Campaigns
+These are part of Bizible's native and automatic functionality. Bizible will for every channel and subchannel, create a generic `[Bizible]` campaign within SFDC in order to attribute touchpoints.
+
+But these are not official campaigns, that is why there are no members, but the touchpoints will reference these campaigns for use in reporting and analytics.
+
+Example: [Web Direct [Bizible]](https://gitlab.my.salesforce.com/70161000000Cnzk)
+
+### Bizible Reports in SFDC
 
 Below are some frequently used bizible reports in SFDC and their use cases.
 
-### Use case: Track registration by source for GitLab owned gated landing pages
+#### Use case: Track registration by source for GitLab owned gated landing pages
 
 **Bizible report type used: Bizible person with Bizible touchpoints (Custom)**
 
