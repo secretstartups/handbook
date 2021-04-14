@@ -57,7 +57,7 @@ This content is divided into five key competencies for Product Managers.
 
 **💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](#design)**<!--  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**-->
 
-<div id=“discovery”></div>
+<div id=“discovery” markdown="1">
 
 ## 💡 Discovery
 <hr>
@@ -179,12 +179,12 @@ This content is divided into five key competencies for Product Managers.
 - [Trusworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 - [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
 
-
+</div>
 
 <br>
 <br>
 <!--<a id=“design”> </a>-->
-## ✏️ <a id=“design”>Design</a> 
+## ✏️ <a id=“design” markdown="1">Design</a> 
 <hr>
 ##### Quick reads and videos
 
