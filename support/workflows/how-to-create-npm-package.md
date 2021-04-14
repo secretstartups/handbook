@@ -47,7 +47,7 @@ You don't need to add a license, keyword etc. All that matters it that:
 
 2. Create and provision the `.npmrc` file
 
-The `npmrc` file is one of the locations where npm gets its settings. In our case, the configuration, per the official [GitLab NPM Registry docs](https://docs.gitlab.com/ee/user/project/packages/npm_registry.html), it will hold is where to look for packages under a particular
+The `npmrc` file is one of the locations where npm gets its settings. In our case, the configuration, per the official [GitLab NPM Registry docs](https://docs.gitlab.com/ee/user/packages/npm_registry/index.html), it will hold is where to look for packages under a particular
 scope, as well as the current user's authentication to push/pull packages.
 
 ##### Step 1: Create the ~/.npmrc file
@@ -128,7 +128,7 @@ image: node:latest
 # This template assumes you have the following settings configured:
 # OAUTH Access Token generated and added as an Environment Variable under Project -> Settings -> CI/CD https://docs.gitlab.com/ee/api/oauth2.html
 # Personal Access Token added as an Environment Variable in order to update your package.json with the new version value
-# Your package.json contains the path to your private NPM Registry on GitLab. https://docs.gitlab.com/ee/user/project/packages/npm_registry.html#uploading-packages
+# Your package.json contains the path to your private NPM Registry on GitLab. https://docs.gitlab.com/ee/user/packages/npm_registry/index.html#uploading-packages
 ######
 ######
 
@@ -140,7 +140,7 @@ build:create_npmrc:
   stage: build
   script:
     - |
-      if [ ! -f .npmrc ]; then echo .npmrc missing. Creating one now. Please review the following link for more information https://docs.gitlab.com/ee/user/project/packages/npm_registry.html#authenticating-with-an-oauth-token;
+      if [ ! -f .npmrc ]; then echo .npmrc missing. Creating one now. Please review the following link for more information https://docs.gitlab.com/ee/user/packages/npm_registry/index.html#authenticating-with-an-oauth-token;
           export NPM_PROJECT_URL=$(echo "$CI_PROJECT_URL" | sed "s/${CI_PROJECT_PATH//\//\\/}/api\/v4/g")
           export NPM_REGISTRY_PATHS=$(echo "$CI_PROJECT_URL" | sed "s/${CI_PROJECT_PATH//\//\\/}/api\/v4/g")
           export NPMRC_URL=$(echo "$NPM_REGISTRY_PATHS" |  sed 's/[^:]*[:]//')
