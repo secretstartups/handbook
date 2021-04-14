@@ -266,7 +266,13 @@ Below are changes that can often be low risk:
 * Backend enhancements that are not yet used by the frontend
 * Frontend and backend Enhancements that are behind a feature flag
 * Frontend enhancements that are not behind a feature flag, but are labeled as "beta" or "experimental"
+The following processes should be followed for high-risk changes:
 
+- Use confidential issues for these changes
+- Release changes under a feature flag so this can be enabled on the release date
+- Create a rollout issue for the release date and make sure all parties are informed about the process. [Example](https://gitlab.com/gitlab-org/gitlab/-/issues/299068)
+- Consider enabling this to a subset of customers so changes can be tested iteratively
+- Use the regular MR process even if the issue is confidential until confidential MRs are improved ([1](https://gitlab.com/groups/gitlab-org/-/epics/1175), [2](https://gitlab.com/groups/gitlab-org/-/epics/264))
 #### CustomersDot
 
 We use CD (Continuous Deployment) for [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/) and a MR goes through the following stages once it gets merged into the `staging` branch:
