@@ -93,6 +93,12 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
   </div>
 </div>
 
+### Issue Boards
+
+1. [MktgOps Priority (issues by priority)](https://gitlab.com/groups/gitlab-com/-/boards/2626681)
+1. [MktgOps Status (issues by status)](https://gitlab.com/groups/gitlab-com/-/boards/2629676)
+1. [MktgOps Team (issues by team member)](https://gitlab.com/groups/gitlab-com/-/boards/2629685)
+
 ### Issues
 
 The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
