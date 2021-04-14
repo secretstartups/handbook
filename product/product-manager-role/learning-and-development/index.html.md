@@ -61,7 +61,8 @@ This content is divided into five key competencies for Product Managers.
 
 ## 💡 Discovery
 
-<hr>
+---
+
 ### 💡 User research
 
 ##### Quick reads and videos
@@ -184,7 +185,9 @@ This content is divided into five key competencies for Product Managers.
 <br>
 <!--<a id=“design”> </a>-->
 ## ✏️ Design
-<hr>
+
+---
+
 ##### Quick reads and videos
 
 - [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
@@ -213,7 +216,9 @@ This content is divided into five key competencies for Product Managers.
 <br>
 <!--<a id=“delivery”></a>-->
 ## 🚀 Delivery
-<hr>
+
+---
+
 ### 🚀 User stories
 
 ##### Quick reads and videos
@@ -275,7 +280,9 @@ _Please contribute your favorite resources here_
 <br>
 <!--<a id=“business-acumen”> </a>-->
 ## 📈 Business acumen
-<hr>
+
+---
+
 ### 📈 Product strategy
 
 ##### Quick reads and videos
@@ -341,7 +348,9 @@ _Please contribute your favorite resources here_
 <br>
 <!--<a id=“communication”> </a>-->
 ## 💬 Communication
-<hr>
+
+---
+
 ### 💬 Relationships with customers
 
 ##### Quick reads and videos
@@ -404,7 +413,9 @@ _Please contribute your favorite resources here_
 <br>
 <!--<a id=“team-management”> </a>-->
 ## 🤝 Team management 
-<hr>
+
+---
+
 ### 🤝 Stakeholder management
 
 ##### Quick reads and videos
