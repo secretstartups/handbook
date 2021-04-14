@@ -101,7 +101,7 @@ To provide Mavenlink access to an internal GitLab team members, provide access b
   * Settings
   * Members
   * Invite Account Members
-* Okta-Mavenlink- Users
+* Okta-Mavenlink- Users Google Group
   * Gmail
   * Gmail Apps
   * Groups
