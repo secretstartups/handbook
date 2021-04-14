@@ -19,11 +19,11 @@ We have Drift playbooks in use on select permanant webpages as well as temporary
 
 | Permanent pages | Playbook(s) |
 | ------ | ------ |
-| https://about.gitlab.com/pricing/ | Standard & ABM |
-| https://about.gitlab.com/sales/ | Standard & ABM |
-| https://about.gitlab.com/features/ | Standard & ABM |
-| https://about.gitlab.com/stages-devops-lifecycle/ | Standard & ABM |
-| https://about.gitlab.com/free-trial/ | Standard & ABM |
+| https://about.gitlab.com/pricing/ | ABM, AMER, APAC, EMEA, & LATAM |
+| https://about.gitlab.com/sales/ | ABM, AMER, APAC, EMEA, & LATAM |
+| https://about.gitlab.com/features/ | ABM, AMER, APAC, EMEA, & LATAM |
+| https://about.gitlab.com/stages-devops-lifecycle/ | ABM, AMER, APAC, EMEA, & LATAM |
+| https://about.gitlab.com/free-trial/ | ABM, AMER, APAC, EMEA, & LATAM |
 
 
 | Temporary pages | Playbook(s) |
