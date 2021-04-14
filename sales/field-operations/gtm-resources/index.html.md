@@ -35,6 +35,7 @@ description: "Operations, Procedures, Documentation"
 - `#it_help`
 - `#marketing_programs`
 - `#marketing`
+- `#community-programs`
 
 ## Glossary
 
@@ -117,7 +118,7 @@ Sales capacity is an individual metric that is based on several factors (lead so
 - Months to lose - 3 months (half of months to close, expecting constant fallout)
 - Months on average - 4 (33.3% times 6 and 66.7% of 3)
 - Capacity Goal (active opportunities in [Stage 1-6](#customer-lifecycle)) - 40 opportunities
-- [SCLAU](#glossary) per month - 10 (40 opportunities / 4 months)
+- [SCLAU](/handbook/sales/field-operations/gtm-resources/#glossary) per month - 10 (40 opportunities / 4 months)
 
 ## How Tos & Setup
 
@@ -241,7 +242,8 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
 1. **Sales Admin Owned Accounts:** When new accounts are created due to web portal purchases, they are temporarily assigned to the Sales Admin User and are changed to the correct (and active) Sales User in the following cadences:
     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the TSP process
     - For accounts without known attributes (employees and location not identified), the account is manually reviewed by Sales Operations twice weekly and assigned to the correct owner. 
-        - If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting.  
+        - If Sales Operations is unable to identify enough attributes to correctly assign the account, it will remain in Sales Admin owned and allocated to SMB for crediting. 
+1. **Community Programs (OSS/EDU/Startups) Accounts** For Accounts where there's an OSS/EDU/Startups opportunity, ownership of that Account will remain with the active Field Sales (AE/SAL) member. However, [the relevant Community Program DRI](/handbook/marketing/community-relations/community-operations/community-program-applications/) will manage the OSS/EDU/Startups relationship and will be identified in a separate field on the Account called `Community Program Owner`. 
 1. **Field Permissions** In order to ensure Rules of Engagement are being enforced the following fields will need to be updated by Sales Operations:   `Account Owner`, `Named Account`, `Strategic/Locally Managed`, `Holdover Expiration Date` along with the ability to create a Parent/Child. To request a change to any of these fields chatter on the account or if there are more than 10 accounts open an issue in the Sales Operations Project.
 
 **Exception Process to Request Account Ownership Change:** _Any request to transfer an account for any reason must follow the outlined exception process and timeline._
@@ -265,7 +267,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
    1. Accounts that can be moved immediately by Sales Operations: 
        1. Public Sector accounts owned by non-Public Sector AEs/SALs 
        1. Non-Public Sector accounts owned by Public Sector SALs
-       1. EDU/OSS accounts 
+       1. EDU/OSS/Startups accounts owned by a Community Programs team member 
        1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
        1. Newly created accounts with inaccurate data resulting in incorrect account assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
        1. Prospect accounts with no open opportunities
@@ -287,6 +289,8 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 1. **Opportunity Ownership:** 
     1. Only active Field Sales (AE/SAL) members can own opportunities. The exceptions to this rule include:
         1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
+            - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE/SAL owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
+                - If a paying customer is also interested in a free EDU license, the Commumity Programs team will always reach out to the AE/SAL prior to engaging with the customer.  
         1. **Reseller opportunities**: which can be owned by the AE/SAL or channel manager
     1. The opportunity owner should match the corresponding Account owner.  The exceptions to this rule are:
         1. Those noted in the aforementioned section
