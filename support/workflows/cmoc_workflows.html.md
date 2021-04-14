@@ -280,6 +280,8 @@ Update the new schedule time by hitting on the *Reschedule Maintenance* button *
 
 Enter the update provided by the Infrastructure team and confirm the appropiate broadcast channels with the team before proceed to sent the update.
 
+Once the GitLab Status Twitter account has posted about the maintenance schedule, send a link of the tweet to the `#social-nedia-action` Slack channel to let the social team know that you'd like amplification on our GitLab brand twitter account. This should only be used once during a selected scheduled maintenance timeline, preferably mid-week prior to the scheduled maintenance.
+
 ## Handover Procedure
 
 At the end of each on-call shift its necessary to inform the next CMOC of any relevant activity that occurred during it or is still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) issue template. Create the handover issue even if nothing happened during your shift, signaling that everything is fine is also useful information. It's critical to remember that since we [work out in the open](https://about.gitlab.com/blog/2015/08/03/almost-everything-we-do-is-now-open/) by default, the CMOC Handover issue tracker is open to the public. **A handover issue should be made confidential if it must contain any sensitive information.**
