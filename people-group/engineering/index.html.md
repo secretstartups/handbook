@@ -78,7 +78,8 @@ What that knowledge in mind we determine the priority of a ticket, with the foll
 | p1 (`~pops::p1`) | yes        | Any                          | daily, weekly or monthly | n/a                                   |
 | p2 (`~pops::p2`) | no         | Company                      | daily, weekly            | comp calc, nom bot or assessment tool |
 | p3 (`~pops::p3`) | no         | Division, Department or Team | daily, weekly            | nom bot or assessment tool            |
-| p4 (`~pops::p4`) | no         | Division, Department or Team | monthly                  | n/a                                   |
+| p4 (`~pops::p4`) | no         | Any | daily, weekly                 | n/a                                   |
+| p5 (`~pops::p5`) | no         | Any | monthly, yearly                 | n/a                                   |
 
 Our issues will be labeled according to the priority level. Anything that falls outside of the table won't be labeled with a priority and will be added to our backlog and worked after priority items are completed.  As this is a first iteration, we will review those without labels to see if they should've been labeled differently and if we need to rework this table.
 
