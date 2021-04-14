@@ -31,7 +31,7 @@ We have Drift playbooks in use on select permanant webpages as well as temporary
 | TBD | TBD |
 
 #### Performance measurement
-As of 2020-08-26, all Drift playbooks are associated with unique Saleforce campaigns to enable playbook performance to be measured outside of the Drift platform.
+All Drift playbooks are associated with Saleforce campaigns to enable playbook performance to be measured outside of the Drift platform.
 
 ### Conversation routing
 
