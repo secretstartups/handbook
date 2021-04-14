@@ -566,3 +566,49 @@ The PathFactory Google Chrome Extension will only de-anonymize users who view co
 1. The email is only sent to 1 recipient
    - This means only 1 recipient in total, if using To, CC, or BCC
 1. You use the Embed content thumbnail option (not the copy link option)
+
+## Access Protection
+
+[Access protection](https://nook.pathfactory.com/nook/s/article/access-protection) protects content and events so only a select group of people can access it, based on them having a valid email address or email domain based on an _allowed list_. This allows you to share more confidential information with prospects, customers and employees in a content track or a VEX Event without the worry of someone viewing it who shouldn’t be.
+
+### Set Up Access Protection 
+
+1. Select the cog menu, and select `Access Protection`. 
+1. Select an existing group you wish to modify or create a new group. Each group is an _allowed list_ that you can apply to experiences you build in PathFactory. You can apply one or more groups as _allowed lists_ to specific content tracks or Explore pages. Ensure the name and description of the group is clear for other users.
+1. Add the email addresses or email domains of the individuals you would like to grant access to. You can do this by manually typing it in or pasting a comma or space separated list into the input field. 
+1. Press enter to lock them in and then press `Add Email` to save. You can edit or delete these values at any point. 
+
+**Note:** Anyone who has an email address in the Domains list or the Email Address list will be able to access the content. 
+
+### Localized Access Protection 
+
+1. In the cog menu, click `Languages`.
+1. Select the language group on the side and navigate to `Access Protection`.
+1. Configure all the messages a user might receive when access protection is applied to a track:
+   - **Title:** The title a visitor will see when they try to access a protected track
+   - **Email Success Message:** The message a visitor will see when they have entered an email address that is in the list of email address/domains entered in the group
+   - **Email Failed Message:** The message a visitor will see when they enter an email address that doesn’t exist in the group list
+   - **Email Confirmed Message:** The message a visitor will see when they have already gained access to the track and need to go to their email to click the link to access
+   - **Email Instruction Message:** The message a visitor will see when they try to access a protected track
+   - **Email Body Content:** The message a visitor will get in the email they receive for successfully gaining access to the track
+   - **Helper Message:** The message that appears when a visitor is trying to access a track under the button to help them through the process
+
+**Note:** These messages willl apply for all users who use access protection in PathFactory. Ensure the messages are generic to apply to all use cases.
+
+### Change Access Protection Appearance
+
+1. In the cog menu, navigate to the `Appearances` tab.
+1. Select the appearance your content track will be using.
+1. Under the `General` tab, configure the styling that will apply when someone is trying to access the content track. The fonts and colors will apply to messages within the windows that appear while trying to gain access to the content track, and the logo configured here is also displayed in the first message someone sees when they try to gain access.
+
+### Adding Access Protection to a Content Track
+
+1. Navigate to your content track. 
+1. In the track settings on the left-hand side, set the language and access protection applicable for that track.
+
+### How Access Protection Works
+
+1. When someone tries to access the content track, they will be prompted to enter their email address. 
+1. When they submit an email address address which is in the group, they will get the confirmation message and will need to navigate to their email inbox where they will find an email from support (`support@pathfactory.com`) with the link to access the content track.
+1. The visitor must click this link to validate that they are the owner of the email address. Once they click the link in the email they will gain access to the content track.
+1. If they enter an email address that is not in the access protection group(s) you've selected, they will get the warning message you set in the configuration and will have the ability to try again.
