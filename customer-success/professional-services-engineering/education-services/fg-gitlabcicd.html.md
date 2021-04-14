@@ -14,22 +14,28 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ## Important Links
 
-1. [Master Presentation](https://docs.google.com/presentation/d/1Eb7m7cGFrmMDfaHF3TRWLqhgSxZpYxl0RzA8DHWIcDU/edit?usp=sharing)-
+### For GitLab Certified Training Partners
+
+1. Instructor Slides: Follow the link in your instructor kit provided by your organization from within the EdCast Marketplace.
+2. Hands On Lab Environment: Use these [GitLab Template Projects VM Builds](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo)
+3. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html)
+4. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
+
+### For GitLab Team Members and Contractors
+
+1. Instructor Slides: You will make your own copy of this[Main Presentation](https://docs.google.com/presentation/d/1Eb7m7cGFrmMDfaHF3TRWLqhgSxZpYxl0RzA8DHWIcDU/edit?usp=sharing)-
   - Go to File > Make a Copy > Entire Presentation to save a copy of your deck.
   - PDF the presentation at the end of the course to send to the client
   - Save  your copy in the applicable [client folder](https://drive.google.com/drive/u/0/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U)
-2. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html)
-3. GitLab Template Projects
-   - [For Partner VM Builds](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo)
-   - [For GitLab Demo Cloud](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training)
+2. Hands On Lab Environment: Use the sample projects located in the [GitLab Demo Cloud](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training)
+3. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html)
 4. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
-5. [Course Introduction CBT](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+GitLab+CICD+-+Storyline+output/story.html) (all attendees receive prior to training)
 
-
-## Before Class Preparation
+## Things to do Ahead
 
 1. Lab set up and preparation
    1. Set up the lab environment for your organization (if not already done)
+     - When building the lab environment in a standalone instance or a virtual machine, follow the step by step instructions in the [README](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo/-/blob/master/README.md) to ensure your Hands On evnironment is set up correctly prior to class.
    2. Provision learners
 2. Hands-on walkthrough
    1. Practice each demo in the lab environment
@@ -38,10 +44,7 @@ description: "This Facilitator Guide is intended to walk you through all importa
     1. [Related GitLab Docs pages](https://docs.gitlab.com/ee/gitlab-basics/)
     2. [Hands on Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html)
     3. Lab environments
-      - [GitLab Demo Cloud](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training)
-      - [Partner VM Builds](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo)
-         - When building the lab environment in a standalone instance or a virtual machine, follow the step by step instructions in the [README](https://gitlab.com/gitlab-com/customer-success/professional-services-group/partner-training-template-projects/gitlab-cicd-hands-on-demo/-/blob/master/README.md) to ensure your Hands On evnironment is set up correctly prior to class.
-4. Slides
+4. Slide Check
     1. Make sure you can access the slides with presenter notes
 
 ## Instructor Tips and Links by Module Number 
@@ -73,7 +76,8 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ### Session End
 
-At the end of the session, remember to share out the link for the [survey](https://forms.gle/sKcsKSqV1aeXkYyF7)- they will receive a follow up email as well with the survey and certification instructions, but this helps get you immediate results and better input. At end of session, remember to put post course session survey link in chat.
+1. Highlight the GitLab Certified CI/CD Specialist Certification and encourage attendees to complete the exams.
+2. Ask attendees to access the link on the last slide to complete the [GitLab Training Survey](https://forms.gle/sKcsKSqV1aeXkYyF7). 
 
 
 ## Cleaning up your Local Comp and Hands on Environments After Class
