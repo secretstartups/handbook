@@ -44,9 +44,9 @@ title: "Sales Territories"
 - **VP Commercial Sales** ([Mid-Market](#mid-market) & [Small Business](/handbook/sales/territories/territory-deprecate/#small-business-segment)): Ryan O'Nell
 - <b>[APAC](#apac)</b>: Anthony McMahon, Regional Director
 - <b>[Europe, Middle East and Africa](#emea)</b>: Jon Burghart, Regional Director
-- <b>[North America - US East](/handbook/sales/territories/territory-deprecate/#us-east)</b>: Mark Rogge, Regional Director
+- <b>[North America - US East](/handbook/sales/territories/territory-deprecate/#us-east)</b>: TBD, Regional Director
 - <b>[North America - US West](/handbook/sales/territories/territory-deprecate/#us-west)</b>: Haydn Mackay, Regional Director
-- <b>[Public Sector](#public-sector)</b>: Paul Almeida, Director of Federal Sales
+- <b>[Public Sector](#public-sector)</b>: Jim Riley (Interim), Director of Federal Sales
 
 ## Territories
 
@@ -93,8 +93,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	| David Fisher
 |	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	| David Fisher
 |	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	| David Fisher 
-|	LATAM	|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	| David Fisher
-|	LATAM	|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	| David Fisher
+|	[LATAM](/handbook/sales/territories/latam/)		|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	| David Fisher
+|	[LATAM](/handbook/sales/territories/latam/)		|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	| David Fisher
 |	NA West	|	Midwest	|	Large-AMER-Midwest-1	|	Timmothy Ideker	| Matthew Beadle
 |	NA East	|	Northeast	|	Large-AMER-Northeast-1	|	Liz Corring	| David Fisher
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	| David Fisher
@@ -192,7 +192,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	US East	|	MM-AMER-West-Named-3	|	Matthew Kobilka	|
 |	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Michael Miranda	|
 |	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Jenny Kline	|
-|	LATAM	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	|
+|	[LATAM](/handbook/sales/territories/latam/)	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	|
 |	NA East	|	US East	|	MM-AMER-EAST-MidAtlantic	|	Jenny Kline	|
 |	NA East	|	US East	|	MM-AMER-EAST-NE	|	Michael Miranda	|
 |	NA East	|	US East	|	MM-AMER-EAST-SE	|	Jenny Kline	|
@@ -221,23 +221,23 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	EMEA	|	MEA	|	MM-EMEA-Named-1	|	Anthony Ogunbowale-Thomas	|
 |	EMEA	|	MEA	|	MM-EMEA-Named-2	|	Israa Mahros	|
 |	Africas	|	Africas	|	MM-EMEA-Africas	|	Daisy Miclat	|
-|	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Conor Brady	|
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Conor Brady	|
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 20x-29x	|	Chris Willis	|
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 30x-39x	|	Chris Willis	|
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 40x-99x	|	Conor Brady	|
+|	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Hans Frederiks	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Hans Frederiks	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 20x-29x	|	Hans Frederiks	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 30x-39x	|	Hans Frederiks	|
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 40x-99x	|	Hans Frederiks	|
 |	Europe Central	|	AT	|	MM-EMEA-Central-AT	|	Conor Brady	|
 |	Europe Central	|	CH	|	MM-EMEA-Central-CH	|	Conor Brady	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 0x	|	Chris Willis	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 1x	|	Chris Willis	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 2x	|	Conor Brady	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 3x	|	Chris Willis	|
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Hans Frederiks	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 5x	|	Conor Brady	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 6x	|	Chris Willis	|
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 7x	|	Chris Willis	|
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Conor Brady	|
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Conor Brady	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Hans Frederiks	|
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Hans Frederiks	|
 |	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Conor Brady	|
 |	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	|
 |	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	|
@@ -247,19 +247,19 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Daisy Miclat	|
 |	MEA	|	R	|	MM-EMEA-MEA-R	|	Daisy Miclat	|
 |	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Daisy Miclat	|
-|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Chris Willis	|
+|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Hans Frederiks	|
 |	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Conor Brady	|
-|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Daisy Miclat	|
-|	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Daisy Miclat	|
+|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Hans Frederiks	|
+|	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Hans Frederiks	|
 |	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Conor Brady	|
 |	Russia	|	RU	|	MM-EMEA-Russia	|	Daisy Miclat	|
-|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Chris Willis	|
+|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Hans Frederiks	|
 |	Southern Europe	|	IL	|	MM-EMEA-Southern-IL	|	Conor Brady	|
-|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Daisy Miclat	|
-|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Daisy Miclat	|
-|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Daisy Miclat	|
+|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Hans Frederiks	|
+|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Hans Frederiks	|
+|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Hans Frederiks	|
 |	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	|
-|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Daisy Miclat	|
+|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Hans Frederiks	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Chris Willis	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Chris Willis	|
 |	UKI	|	GB	|	MM-EMEA-UKI-London N	|	Chris Willis	|
@@ -289,7 +289,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	AMER	|	AMER	|	SMB-AMER-EAST-CTL-2	|	Anthony Feldman
 |	AMER	|	AMER	|	SMB-AMER-EAST-CTL-3	|	Matthew Walsh
 |	AMER	|	AMER	|	SMB-AMER-EAST-CTL-4	|	Kaley Johnson
-|	LATAM	|	US East	|	SMB-AMER-EAST-LATAM	|	Romer Gonzalez
+|	[LATAM](/handbook/sales/territories/latam/)	|	US East	|	SMB-AMER-EAST-LATAM	|	Romer Gonzalez
 |	AMER	|	AMER	|	SMB-AMER-EAST-MidAtl	|	Jenny Chapman
 |	AMER	|	AMER	|	SMB-AMER-EAST-NE	|	Matthew Walsh
 |	AMER	|	AMER	|	SMB-AMER-EAST-NY	|	Anthony Feldman

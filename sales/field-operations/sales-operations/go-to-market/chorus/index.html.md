@@ -11,6 +11,16 @@ title: "Learn How to Use Chorus.ai"
 
 Confused about how to use Chorus? Check out the links below for more information on how to get the most out of this important sales tool.
 
+## How to Remove Chorus.ai From a Meeting
+
+<!-- blank line -->
+
+<figure class="video_container">
+  <iframe src="https://www.loom.com/share/a6513ac235ae4eb9acaaeb167d7583ce" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<!-- blank line -->
+
 ## Chorus.ai Basics
 
 - [How to Remove Chorus From a Meeting](https://www.loom.com/share/a6513ac235ae4eb9acaaeb167d7583ce) 

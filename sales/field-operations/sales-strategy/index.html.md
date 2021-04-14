@@ -28,7 +28,7 @@ Create an issue in the [analytics project](https://gitlab.com/gitlab-com/sales-t
 | ------ | ------ | ------ | 
 | Jake Bielecki | Sr Director Sales Strategy | [@jakebielecki](https://gitlab.com/jakebielecki) | 
 | Alex Cohen | Director GTM Planning & Operations | [@alex.cohen](https://gitlab.com/alex.cohen) | 
-| Melia Vilain | Sr Sales Analytics Analyst | [@mvilain](https://gitlab.com/mvilain) |
+| Melia Vilain | Manager, Sales Analytics | [@mvilain](https://gitlab.com/mvilain) |
 | David Mack | Sr Sales Analytics Analyst | [@DavidMack](https://gitlab.com/DavidMack) |
 | Noel Figuera | Sr Sales Analytics Analyst | [@nfiguera](https://gitlab.com/nfiguera)  |
 

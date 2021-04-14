@@ -150,6 +150,7 @@ Qualitative Success Metrics
 
 | **Edition** | **Subj Line** | **Highlights** |
 | ------ | ------ | ------ |
+| [April 2021: 2021-04-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-04-06) | NEW ⚡️ GitLab Field Flash: April Edition ⚡️ | Field Ops updates, GitLab IDC feature, Co-selling with Partners & Alliances |
 | [March 2021: 2021-03-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-03-01) | NEW ⚡️ GitLab Field Flash: March Edition ⚡️ | SKO Recordings, Engagement Survey, DIB Certification, BoxBoat Partner Resources |
 | [February 2021: 2021-02-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-02-01) | NEW ⚡️ GitLab Field Flash: FY22 Kickoff Edition ⚡️ | SKO 2021, SOC Examinations, GitLab for Education, Gartner Market Guide for VSDP |
 | [January 2021: 2021-01-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-01-06) | NEW ⚡️ GitLab Field Flash: 2021 Kickoff Edition ⚡️ | Sales Kickoff, President's Club, Competitive Resource Updates, Field Certification |
@@ -162,8 +163,5 @@ Qualitative Success Metrics
 | [May 2020: 2020-06-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-06-02) | GitLab Field Flash: Your Top Field Highlights from May ⚡️ | Pricing overview, QBR ask follow-ups, GitLab 13.0 milestone release |
 | [April 2020: 2020-05-05](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-05-05) | GitLab Field Flash: Your Top Field Highlights from April ⚡️ | GitHub competitive resources, GTM Field Update, requirements management |
 | [March 2020: 2020-04-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2020-04-02) | We're Live! Time to Level Up with Field Flash. ⚡️ | Partner Program launch, COVID-19 resources & sales process changes |
-
-
-
 
 

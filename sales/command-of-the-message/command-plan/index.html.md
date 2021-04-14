@@ -44,6 +44,20 @@ This section is comprised of the following 3 fields:
 1. **Risks** - _What is the biggest risk with this opportunity? What would be the possible reasons for why the deal doesn't come in on time? What are we doing to proactively address and/or mitigate key risks?_
 1. **Help** - _How can the extended GitLab team help (i.e. Product Management/Engineering needs, Legal requirements, Deal Desk, Finance, Execs)?_
 
+## Manager Review
+
+Continuing to improve the fidelity of Command Plans is a critical success factor to winning more deals and improving productivity and predictability. As such, at the bottom of the Command Plan is a section for Managers and above to enter review notes from opportunity consults (and/or Lightweight Deal Reviews for Commercial Sales) conducted. Manager Review notes should with “YYYY-MM-DD” to indicate the date when the opportunity consult was conducted, and the notes should succinctly highlight: 
+1. Prioritized gaps identified during the opportunity consult 
+1. Specific action items that were agreed to (who will do what by when)
+
+Note: The Manager Review Info section (immediately below the Manager Review section) will auto-populate based on information entered in the Manager Review section.
+
+### Enterprise Sales Manager Expectations
+An opportunity consult should be conducted with Strategic Account Leaders (SALs) at least once a month for every $50K opportunity. Consider conducting monthly opportunity consults for the top 3 opportunities for SALs with fewer than three $50K+ opportunities.
+
+### Commercial Sales Manager Expectations
+
+
 ## Additional Resources
 
 ### Command Plan templates
