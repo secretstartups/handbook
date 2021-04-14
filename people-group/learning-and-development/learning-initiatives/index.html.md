@@ -269,6 +269,7 @@ List of CEO Handbook Learning Sessions:
 1. [Managing Underperformance](https://www.youtube.com/watch?v=-mLpytnQtlY&t=637s)
 1. [Transitioning from IC to Manager - Engineering](https://www.youtube.com/watch?v=Zeull-tdy6o) 
 1. [Manager Mention Merge Requests](https://www.youtube.com/watch?v=e1sTOtveNOk)
+1. [Working Groups](/company/team/structure/working-groups/#ceo-handbook-learning-discussion-on-working-groups)
 
 ## Skill of the Month 
 
