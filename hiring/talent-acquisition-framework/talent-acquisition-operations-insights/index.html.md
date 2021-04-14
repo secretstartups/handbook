@@ -31,15 +31,6 @@ Sourcing Team only - please contact the Sourcing Manager.
 
 <details>
   <summary markdown='span'>
-  DocuSign
-  </summary>
-
-C.E.S. and Sales Operations Team only - please [contact the Talent Acquisition Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
-
-</details>
-
-<details>
-  <summary markdown='span'>
   Greenhouse
   </summary>
 
@@ -53,15 +44,6 @@ C.E.S. and Sales Operations Team only - please [contact the Talent Acquisition O
   </summary>
 
 Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
-
-</details>
-
-<details>
-  <summary markdown='span'>
-  HelloSign
-  </summary>
-
-[See how to request a HelloSign account in the handbook](/handbook/people-group/people-experience-team/#hellosign).
 
 </details>
 
@@ -86,16 +68,6 @@ Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl
 ----
 
 ### System Processes
-
-
-<details>
-  <summary markdown='span'>
-  DocuSign
-  </summary>
-
-TBA
-
-</details>
 
 <details>
   <summary markdown='span'>
@@ -238,19 +210,18 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
 
 <details>
   <summary markdown='span'>
-  Pipeline by Demographic (or EEOC)
+  EEOC
   </summary>
 
 * **System**: Greenhouse
 * **Filters**:
-    * Use Data From = Global Self-Identification Survey
-    * Columns = Milestones
     * Job Status = All
     * Departments = All Departments
     * Group of Candidates = Candidates Who Applied During a Specific Date Range
     * Application Date = Custom Range (Enter Desired Month)
     * Check *"Include Migrated Candidates"*
-* **Instructions**: Pull and export the report into the *Monthly Metrics* sheet.
+* **Instructions**: Pull and export the **full report** into the *Monthly Metrics* sheet.
+    * Only `Site Admins` have the ability to pull and export the **full report**.
 
 </details>
 
@@ -277,16 +248,6 @@ The *Monthly Metrics* are comprised of reports from both BambooHR and Greenhouse
 
 * **System**: Sisense
 * **Dashboard**: [Discretionary Bonuses Overview](https://app.periscopedata.com/app/gitlab/507956/Discretionary-Bonuses-Overview)
-
-</details>
-
-<details>
-  <summary markdown='span'>
-  GitLabbers by Org Structure
-  </summary>
-
-* **System**: Sisense
-* **Dashboard**: [GitLabbers by Org Structure](https://app.periscopedata.com/app/gitlab/512946/GitLabbers-by-Org-Structure)
 
 </details>
 
@@ -333,7 +294,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 <details>
   <summary markdown='span'>
-  Global Self-Identification Survey Data
+  Global Self-Identification Survey Data `PAUSED`
   </summary>
 
 * **System**: Greenhouse
@@ -392,8 +353,8 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
   Sales Hiring Forecast Report
   </summary>
 
-* **System**: Greenhouse
-* **Reports**:
+* **System**: Adaptive and Greenhouse
+* **Greenhouse Reports**:
     * Job Status Report
     * Current Pipeline Per Job Report
 * **Instructions**: Refresh the `[GH] Job Status - Open + Draft`, `[GH] Job Status - Draft`, `[GH] Req Status - Open + Draft`, and `[GH] Req Status - Draft` tabs and then copy and paste any *Draft* status requisitons to the respective tab titled, `... Open + Draft`. The proceed with each tab by doing the following:
@@ -414,6 +375,21 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. Where formulas are present, drag them down to cover all rows.
         1. The following rows will need to be entered manually: `Sales VP` (Column I), `Aligned Recruiter` (Column J), and `NQR/OQR` (Column K).
         1. Audit the sheet where `#N/A` appears in a column where a formula is present.
+* **Adaptive Report**:
+    * Finance will pull and export a report to the [Interim Sales Hiring Plan - Sales Finance](https://docs.google.com/spreadsheets/d/1ce0d3EJjIRVBWBxOJS53OxKbli3wIbm7lLm7rbMJ1BE/edit#gid=0) sheet.
+    * Auditing `GHP IDs` in Adaptive that are **not** in Greenhouse
+        1. Go to the `GitLab Hiring Plan` tab.
+        1. Insert a new column (**Column B**) and title it, `Opened?`.
+        1. Set the formula in `Opened` as follows in the row below the column header: `VLOOKUP(A5,NEWjobstatus,1,0)`.
+            * If the `GHP ID` matches, it exists.
+            * If the cell produces a `#N/A`, it doesn't exist.
+            * To note, there are situations where the requisition has closed, but it has yet to fall off the Adaptive report. In such a situation, please ping the *Recruiting Manager* for Sales.
+    * Auditing `GHP IDs` in Greenhouse that are **not** in Adaptive
+        1. Go to the `[GH] Job Status - Open + Draft` tab.
+        1. Insert a new column at the end (**Column U**) and title it, `Opened?`.
+        1. Set the formula in `Opened` as follows in the row below the column header: `VLOOKUP(A5,GHP,1,0)`.
+            * If the `GHP ID` matches, it exists.
+            * If the cell produces a `#N/A`, it doesn't exist.          
 
 </details>
 
