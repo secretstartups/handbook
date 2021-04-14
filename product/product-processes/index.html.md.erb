@@ -1138,9 +1138,8 @@ Customers interested in adopting SaaS may have certain hard requirements for fea
 
 To track hard adoption blockers, use the ~"GitLab.com Enterprise Readiness" label within the [GitLab-Org](https://gitlab.com/groups/gitlab-org/-/boards/2037713?label_name[]=GitLab.com%20Enterprise%20Readiness) and [GitLab-com](https://gitlab.com/groups/gitlab-com/-/boards/2037722?label_name[]=GitLab.com%20Enterprise%20Readiness) groups.
 
-When building a feature needed by a Self-Managed customer make sure that it is also available for SaaS customers from day 1 so that we we maintain feature [parity between SaaS and Self-managed installations](https://about.gitlab.com/handbook/product/product-principles/#parity-between-saas-and-self-managed-deployments).
 
-
+There are a few special considerations when it comes to delivering new features for SaaS. In order to achieve [parity between SaaS and Self-managed installations](https://about.gitlab.com/handbook/product/product-principles/#parity-between-saas-and-self-managed-deployments) PMs should prioritize efforts to eliminate existing feature gaps that exist [across the two deployment types](https://about.gitlab.com/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlab-saas-and-self-managed). Additionally, new features should ship for SaaS and self-managed at the same time. Features should be implemented at the group level first, before being implemented at the instance level, so that they will work across [both self-managed and SaaS](https://about.gitlab.com/direction/manage/#gitlabcom). Finally, in order for new features to be adequately monitored, they should include good logging and observability hooks. These components are critical for monitoring and troubleshooting.
 
 ### Working with Your Group
 
