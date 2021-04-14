@@ -1,7 +1,10 @@
 ---
 layout: handbook-page-toc
 title: "Engineering Internships"
+description: "Learn about GitLab's engineering internship program."
 ---
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -9,13 +12,44 @@ title: "Engineering Internships"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-GitLab is establishing an on-going internship program that can offer students, graduates, career switchers, and those returning to the workforce an opportunity to further their careers. We desire to create an inclusive program that will provide a fair and equal opportunity for all qualifying candidates.
+# <i class="far fa-newspaper" id="biz-tech-icons"></i>  About
+GitLab has established an on-going internship program that offers students, graduates, career switchers, and those returning to the workforce an opportunity to further their careers. Our goal is to run an inclusive enginereing internship program that will provide a fair and equal opportunity for all qualifying candidates.
 
-## Engineering Internship Pilot Program
+On this page, you'll learn more about how we first began this program, and how to get involved as [an applicant](/handbook/engineering/internships/#how-to-apply-for-an-internship), or as an engineering team, [how to request an intern for your team](/handbook/engineering/internships/#how-to-request-an-intern-for-your-team). 
+
+## 2020 Engineering Internship Pilot Program
 
 To validate and refine our approach to offering internships at an [all-remote company](/company/culture/all-remote/getting-started/) we have launched a pilot program between May 2020 and August 2020. Due to it's success we have decided to roll out internships on a more continuous basis and have it be our entry level Engineering position at GitLab. More information on the learnings and the program success can be found on this [Working Group page](/company/team/structure/working-groups/internship-pilot/).
 
-### Candidate qualifying criteria
+# <i class="fas fa-users" id="biz-tech-icons"></i> Get involved
+
+### Criteria for teams requesting an intern
+
+Requests for opening a intern requisition will be evaluated on the following criteria:
+1. Mentorship
+    - Does the team have a manager and 1-2 engineers willing to serve as mentors for the duration of the program?
+    - Do the mentors have previous experience mentoring interns or junior engineers? Previous experience is a nice-to-have, but not a must-have.
+1. Workload
+    - Does the team have a roadmap containing low weight issues with few dependencies suitable for an intern?
+1. Team Size and maturity
+    - How established is this team? Will they be able to take on an intern without risking a decrease in velocity?
+
+The team manager and mentors will also need to be able to actively participate in the interview process.
+
+### How to request an intern for your team
+The process for opening an intern requisition would be as follows:
+1. Opening a requisition starts via either a [backfill process](/handbook/engineering/#backfill-process) or would be based on headcount availability and budget
+1. The requesting team writes up a proposal including: projects/workload, proposed career path, requirement knowledge, skills and abilities by the intern. [This example of Security](/handbook/engineering/security/internship.html) can be helpful for review
+1. The proposal will be reviewed by Engineering Leadership up until the CTO
+1. If approved the manager for the team will be the DRI for the internship
+1. The DRI will make sure the intern level is added to the Job Family for their group
+1. Recruitment/sourcing starts for intern
+1. The recommended minimum length for an internship is 4 months, but can be longer, with a maximum of 1 year
+1. The goal would be to bring the intern on board for a fulltime Engineering role after the internship
+1. The DRI should connect with the Department Head and People Business Partner when they would want to promote the intern to an intermediate level role at the end of the internship
+1. Before hiring, during the internship and when potentially transitioning to fulltime the DRI (manager) is responsible for aligning communication with the stakeholders. Learnings/documents can be used from [the Internship Pilot 2020](/company/team/structure/working-groups/internship-pilot/).
+
+## Candidate qualifying criteria
 The following criteria are considered required for candidates to be eligible for Engineering Internship positions:
 1. Contributor to open source projects
 1. Available full-time during the internship
@@ -24,20 +58,20 @@ The following criteria are considered required for candidates to be eligible for
 
 As an example of an intern position in our job families please review the [Software Engineering Intern job family](/job-families/engineering/software-engineer-intern/) for further details.
 
-#### Duration and timing
+### Duration and timing
 
 The ideal duration is a minimum of 4 months.
 
 An internship can start anytime. Since it is a lead-in to our fulltime hiring process, internships it should not be delayed unnessarily. Engineering interships are not specifically linked to a cohort or class, nor to specific seasons such as university semesters or summer breaks.
 
-#### Location
+### Location
 
 The internship program is [all-remote](/company/culture/all-remote/).
 
 The intern can choose to relocate themselves to a region where there happens to be a cluster of GitLab employees who co-work together (when not during the pandemic). But expenses, travel documentation, and all other considerations need to be handled by the intern. They should keep their manager informed of any plans. If the intern converts to a full-time hire all conditions of their country-of-residence must be met related to their country of residence.
 
-#### Internship day-to-day activities
-
+### Internship day-to-day activities
+Below and example of a 4 month internship program: 
 1. Week 1: We expect an intern will:
     - Have completed key [Day 1-5 onboarding tasks](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
     - Understand remote work and communication best practices
@@ -62,54 +96,34 @@ The intern can choose to relocate themselves to a region where there happens to 
     - Complete final Skills Gap Analysis with their engineering manager
     - Share experiences and learnings with the company and wider-community through media such as blog posts and GitLab Unfiltered.
 
-#### Compensation
+### Compensation
 
 Internships at GitLab offered in the framework described on this page will be paid and follow the same logic as that depicted in our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) and according to our [Global Compensation Principles](/handbook/total-rewards/compensation/). This means that, as usual, the San Francisco benchmark, location and experience factors will be taken into account during the recruitment process and before making an offer. Depending on country regulations, we will have to align with national labor laws.
 
-### Recruitment
+### How to apply for an internship
+We post our open internship positions in the Careers section of the [GitLab Jobs site](https://about.gitlab.com/jobs), so keep an eye out for new openings there. If you want to show interest in upcoming internships, you can do so via [this page](https://boards.greenhouse.io/gitlab/jobs/5197819002). 
+
+# <i class="fas fa-tasks" id="biz-tech-icons"></i> Program Processes
+
+## Recruitment
 For interns we will target students or career switchers and would look at our Talent community. We would not limit candidate intake to university students and are open to all qualifying candidates.
 
 We exclusively focus all our active sourcing activities on candidates from [underrepresented groups](/handbook/incentives/#add-on-bonus-for-select-underrepresented-groups).
 
-#### Advertising
+### Advertising
 We advertise on all the traditional talent acquisition platforms as well as the GitLab vacancies page. Additional advertising is done on internship focussed job boards (e.g. Youtern, angel.co etc.)
 
-#### University Recruitment
+### University Recruitment
 We proactively reach out to and engage with universities/colleges to hold a Virtual Careers Talk to encourage students at those universities to apply. Also, we reach out to any associations within these universities that represent underrepresented groups and hold Virtual Careers Talk with them.
 
 We hold virtual talks at a minimum of five universities in the following regions: AMER, EMEA and APAC.
 
-### Interviewing
+## Interviewing
 For intern candidates we are setting the bar high at the application stage and apply a similar process as to other level roles at GitLab. On [this page](/handbook/hiring/interviewing/#typical-hiring-timeline) you can view a typical timeline for our hiring process.
 
-### Criteria for teams requesting an intern
+## Measuring success
 
-Requests for opening a intern requisition will be evaluated on the following criteria:
-1. Mentorship
-    - Does the team have a manager and 1-2 engineers willing to serve as mentors for the duration of the program?
-    - Do the mentors have previous experience mentoring interns or junior engineers? Previous experience is a nice-to-have, but not a must-have.
-1. Workload
-    - Does the team have a roadmap containing low weight issues with few dependencies suitable for an intern?
-1. Team Size and maturity
-    - How established is this team? Will they be able to take on an intern without risking a decrease in velocity?
-
-The team manager and mentors will also need to be able to actively participate in the interview process.
-
-The process for opening an intern requisition would be as follows:
-1. Opening a requisition starts via either a [backfill process](/handbook/engineering/#backfill-process) or would be based on headcount availability and budget
-1. The requesting team writes up a proposal including: projects/workload, proposed career path, requirement knowledge, skills and abilities by the intern. [This example of Security](/handbook/engineering/security/internship.html) can be helpful for review
-1. The proposal will be reviewed by Engineering Leadership up until the CTO
-1. If approved the manager for the team will be the DRI for the internship
-1. The DRI will make sure the intern level is added to the Job Family for their group
-1. Recruitment/sourcing starts for intern
-1. The recommended minimum length for an internship is 4 months, but can be longer, with a maximum of 1 year
-1. The goal would be to bring the intern on board for a fulltime Engineering role after the internship
-1. The DRI should connect with the Department Head and People Business Partner when they would want to promote the intern to an intermediate level role at the end of the internship
-1. Before hiring, during the internship and when potentially transitioning to fulltime the DRI (manager) is responsible for aligning communication with the stakeholders. Learnings/documents can be used from [the Internship Pilot 2020](/company/team/structure/working-groups/internship-pilot/).
-
-### Measuring success
-
-#### Hiring process after the internship
+### Hiring process after the internship
 
 After the internship the aim would be to hire the intern as an Intermediate Engineer (depending on previous experience).
 The timeline for hiring decisions in a 4 month program would be as follows:
@@ -124,7 +138,7 @@ The timeline for hiring decisions in a 4 month program would be as follows:
 
 If an offer is not made or an offer is not accepted, there are opportunities to stay in touch with GitLab's team or People Business Partner and re-enter a conversation at a later time.
 
-#### Team Retrospective
+### Team Retrospective
 
 Upon the completion of the internship, participating teams will be asked to complete
 a retrospective. This will follow the process used for GitLab's monthly [team retrospectives](/handbook/engineering/management/team-retrospectives/).
@@ -134,6 +148,6 @@ During the retrospective all team members should be encouraged to contribute, ev
 
 Following the retrospective period the issues will be made public.
 
-#### GitLab Intern Feedback Survey
+### GitLab Intern Feedback Survey
 
 The feedback survey provides interns with the opportunity to freely express views about working at GitLab. The People Experience team will send the [Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSffF8sAFDHTp0JAeum9XYHaG_PsFSHREssSpGECMeJJClXVrg/viewform) to all interns 2 days prior to the pilot programme completion. The People Business Partner & the intern may proactively set up time to discuss their responses and ask for further information. The feedback survey are not mandatory, however your input will help provide GitLab with information regarding what worked well and what can be improved in future iterations.
