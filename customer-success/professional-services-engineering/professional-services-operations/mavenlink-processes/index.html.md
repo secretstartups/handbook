@@ -16,19 +16,28 @@ Mavenlink is our current PSA, follow the link below to view process steps and gu
 
 All other processed that relates to professional services operations [can be found on the this page](/handbook/customer-success/professional-services-engineering/professional-services-operations/)
 
-#### Mavenlink Log In/ Password Creation
+#### Mavenlink Log In
 
-- At this time to log into Mavenlik, you will need to go to the Mavenlink landing page.
-  - Our end goal is to have Mavenlink added to Okta
+To log into Mavenlik, you will need to access the GitLab's Okta account
 
+* Confirm access is given to Mavenlink and Okta 
 
-- First time logging in go to www.mavenlink.com
-- Click on "Forget your Password" and follow the prompts to create your password
-- Email will be sent to change your Mavenlink password
-- Change your password
-- Log in and Enjoy!
+* Once clicking on Mavenlink inside Okta
 
-![Log In](./Mavenlinklogin.png)
+![mavenlinkokta](./mavenlinkokta.png)
+
+* Verify email
+* Enter password
+* click on Sign On via Okta
+
+![verification1](./verification1.png)
+
+![verification2](./verification2.png)
+
+![verification3](./verification3.png)
+
+![verification4](./verification4.png)
+
 
 #### Mavenlink Project Read/ Guest Access
 
