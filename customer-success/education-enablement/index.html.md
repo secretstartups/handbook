@@ -145,8 +145,8 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://about.gitlab.com/stages-devops-lifecycle/code-review/">Code Review Feature Overview with 30+ Features</a>
     <ul>
     <li><code>Free</code><a href="https://about.gitlab.com/solutions/jira/">JIRA Integration Solution Overview</a></li>
-    <li><code>Free</code><a href="https://docs.gitlab.com/ee/user/project/integrations/jira.html">JIRA Issues Integration Feature Docs</a></li>
-    <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira/index.html">JIRA Development Panel Integration Feature Docs</a></li>
+    <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira/">JIRA Issues Integration Feature Docs</a></li>
+    <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira/dvcs.html">JIRA Development Panel Integration Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Multiple approvers in code review Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Approval rules for code review Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html">Merge request dependencies Feature Docs</a></li>
