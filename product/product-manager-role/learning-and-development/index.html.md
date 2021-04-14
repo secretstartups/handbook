@@ -57,7 +57,7 @@ This content is divided into five key competencies for Product Managers.
 
 <!--**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**-->
 
-<a id=“discovery”> </a>
+<!--<a id=“discovery”> </a>-->
 ## 💡 Discovery
 <hr>
 ### 💡 User research
@@ -182,7 +182,7 @@ This content is divided into five key competencies for Product Managers.
 
 <br>
 <br>
-<a id=“design”> </a>
+<!--<a id=“design”> </a>-->
 ## ✏️ Design 
 <hr>
 ##### Quick reads and videos
@@ -211,7 +211,7 @@ This content is divided into five key competencies for Product Managers.
 
 <br>
 <br>
-<a id=“delivery”></a>
+<!--<a id=“delivery”></a>-->
 ## 🚀 Delivery
 <hr>
 ### 🚀 User stories
@@ -273,7 +273,7 @@ _Please contribute your favorite resources here_
 _Please contribute your favorite resources here_
 <br>
 <br>
-<a id=“business-acumen”> </a>
+<!--<a id=“business-acumen”> </a>-->
 ## 📈 Business acumen
 <hr>
 ### 📈 Product strategy
@@ -339,7 +339,7 @@ _Please contribute your favorite resources here_
 
 <br>
 <br>
-<a id=“communication”> </a>
+<!--<a id=“communication”> </a>-->
 ## 💬 Communication
 <hr>
 ### 💬 Relationships with customers
@@ -402,7 +402,7 @@ _Please contribute your favorite resources here_
 
 <br>
 <br>
-<a id=“team-management”> </a>
+<!--<a id=“team-management”> </a>-->
 ## 🤝 Team management 
 <hr>
 ### 🤝 Stakeholder management
