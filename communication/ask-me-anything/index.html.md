@@ -55,7 +55,15 @@ Occasionally an AMA might be held for a smaller audience. It is encouraged for a
 #### Reverse AMA Facilitators
 It is near impossible to be an effective facilitator while also being a participant.  So if you have been identified as a facilitator but would rather participate in the conversation, we encourage you to ask one of your designated facilitator team members (list tbc) to take your place.
 
-- (Placeholder for steps to become a facilitator)
+- Complete the [Linkedin Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
+- Watch the purpose of Reverse AMA's Video (too come)
+
+**Things to remember:** 
+
+- Remain impartial 
+- Ensure the call stays on track 
+- Keep a track of time 
+- Ensure that a number of voices are heard, including agenda points
 
 
 #### Scheduling an Reverse AMA
