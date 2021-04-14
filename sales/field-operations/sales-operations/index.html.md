@@ -430,6 +430,37 @@ The `Field Marketing Manager` field on the account is maintained by Sales Operat
 
 </details>
 
+
+<details>
+<summary markdown='span'>
+  Merging Accounts
+</summary>
+Sales Operations is responsible for identifying and merging duplicate Accounts in SFDC.  
+
+**There are two primary use cases to consider when merging duplicate Accounts:**
+1. Prospect and Prospect Account merges
+1. Prospect and Customer Account merges
+
+**There are also two primary ways in which Accounts can be merged:**
+1. Automated via RingLead
+1. Manual Merges in SFDC
+
+**Steps to Manually Merge Accounts**
+1. Open tabs of the Accounts you want to merge. You can merge up to 3 Accounts at a time.
+   - If one of the accounts in question is a **Channel Account**, be sure to check with the Channel Ops team in chatter first to confirm it can be merged
+   - **Helpful Tip**: Change the Name of both accounts to something that you can find easily.
+      - Example - You need to merge CustomerCentral with Customer Central Add 'Merge' to the end of the Account to be merged Account 1: CustomerCentral MERGE Account 2: Customer Central
+   - **Customer Accounts/Billing Account ID:** If the Account that is being deleted (merged into another account) has a Billing Account associated with it, please copy the Billing Account Number, and paste it into chatter on the Account that will remain. Tag Billing-Ops and ask them to link the Billing Account to this SFDC account.
+1. Click on the Accounts tab in Salesforce.
+1. Scroll down, in the bottom right hand corner of the page, click “Merge Accounts”
+1. Search the name of the Accounts you want to merge - following the example above - in the search bar type xCustomer
+1. Select the checkbox on the left of each account to merge, click Next.
+1. Review this section carefully. It’s best practice to keep the most accurate information when you merge accounts. You will be able to select one record to move the information into.
+1. On the top of the Merge Page you can Select which account URL you want to keep.
+1. Once you have reviewed the information, click “Merge”.
+
+</details>
+
 ## **Sales Operations Sponsored Dashboards and Maintenance**
 
 The Sales Operations team has sponsored a comprehensive but consumable "Reporting Package" (via SFDC Dashboards) with validated (SalesOps approved) metrics to the Account Executives.
