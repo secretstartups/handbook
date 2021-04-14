@@ -20,7 +20,7 @@ This document does not cover servers that are not integral to the public facing 
 - [GitLab.com Settings](/gitlab-com/settings/)
 - [GitLab.com Rate Limits](https://docs.gitlab.com/ee/user/gitlab_com/index.html#gitlabcom-specific-rate-limits)
 - [Monitoring of GitLab.com](/handbook/engineering/monitoring/)
-- [GitLab performance monitoring documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html)
+- [GitLab performance monitoring documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/index.html)
 - [Performance of the Application](/handbook/engineering/performance/)
 - [Gemnasium Service Production Architecture](/handbook/engineering/dev-backend/production-architecture/gemnasium-service.html)
 - [CI Service Architecture](ci-architecture.html)
