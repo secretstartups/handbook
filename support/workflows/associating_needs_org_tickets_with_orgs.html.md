@@ -84,7 +84,7 @@ you can tie the ZenDesk organization to the user if the user meets one of the fo
   - For GitLab.com, user is a member of paid group. Use the `GitLab User Lookup` app in the Zendesk sidebar to check the user's membership details.
 1. Possibly, ask the TAM (Technical Account Manager) or Account Owner (also known as AM / Account Manager)
 listed in SalesForce, in the `#account-management` slack channel,
-to add the user under the contacts for that Salesforce Account.
+to add the user under the contacts for that Salesforce Account. We have contact syncing available from SFDC to Zendesk.
 While that's happening, please let the customer know you are reaching out to their TAM/AM to get them properly associated with the organization.
 
 *Look up resource*: You can use the [customer account look up workflow](looking_up_customer_account_details.html)
@@ -183,17 +183,19 @@ Follow these steps after [identifying the user as a customer](#identifying-custo
 
 To associate a user with an organization:
 
+1. Make sure the user exists in SFDC. If not, please ping their AM/TAM (via Chatter aka Salesforce Feed) to add the user in SFDC.
 1. Click on the user's name in ZD ticket.
 1. In the "Org" field type the organization name.
 1. Select the appropriate organization.
 
 ![Adding a user to an existing organization](/images/handbook/support/zendesk_needs_org-add.png)
+ 
 
 **Note**: If a customer raises a ticket to add some users in their organization, here are some things to take note of: 
 
 - If the user exists in both SFDC and Zendesk, we can associate the user to the org. 
 - If the user exists in SFDC but not in Zendesk, you can create the user in Zendesk if you desire or just inform the user that when they first submit a ticket in the Support Portal the Zapier process we have in place should auto-associate the user in the org.
-- If the user does not exist in both SFDC and Zendesk,  we can ping their TAM/AM (via Chatter) and ask them to add the user in SFDC. Once the user is in SFDC, the Zapier process we have in place will also auto-associate the user to their org when they register or submit a ticket via the Support portal. 
+- If the user does not exist in both SFDC and Zendesk,  we can ping their TAM/AM (via Chatter aka Salesforce Feed) and ask them to add the user in SFDC. Once the user is in SFDC, the Zapier process we have in place will also auto-associate the user to their org when they register or submit a ticket via the Support portal. 
 
 ### Removing a user from an organization
 
