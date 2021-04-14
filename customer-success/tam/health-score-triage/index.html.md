@@ -109,6 +109,7 @@ Health score criteria is either manually or automatically applied to determine t
 
 * Except for TAM Sentiment, all health measures will typically be NULL for the first 30 days of the customer's onboarding due to insufficient data and inaccurate results, such as Engagement.
 * In instances where a measure is N/A, whatever percentage weighting will be redistributed to the other health measures.
+* These calculations do NOT apply for account labeled as an Unmanaged Child Account
 
 ##### Enterprise 
 
