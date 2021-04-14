@@ -473,7 +473,7 @@ _Please contribute your favorite resources here_
 
 ##### Deeper dive
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning: Executive Leadership](https://www.linkedin.com/learning/executive-leadership/take-action-to-lead) (1h 19m total)
 
 ##### Online courses 
 
