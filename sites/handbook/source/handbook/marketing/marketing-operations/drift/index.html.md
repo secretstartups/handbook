@@ -28,7 +28,7 @@ We have Drift playbooks in use on select permanant webpages as well as temporary
 
 | Temporary pages | Playbook(s) |
 | ------ | ------ |
-| https://page.gitlab.com/springone-virtual-2020.html | Custom |
+| TBD | TBD |
 
 #### Performance measurement
 As of 2020-08-26, all Drift playbooks are associated with unique Saleforce campaigns to enable playbook performance to be measured outside of the Drift platform.
