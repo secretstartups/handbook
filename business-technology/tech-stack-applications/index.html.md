@@ -68,6 +68,8 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 | employee_or_customer_facing_app | Text (employee, customer) | If access is limited to GitLab team members, then please add the `employee` word. If access can be granted to external parties, then add `customer` | MR Author and contributors |
 | notes | Text or Unknown** | Additional relevant information about the system that is not captured in any other field. | Optional, MR Author and contributors |
 | saas | Boolean* or Unknown** | Is the tool a Software as a Service (SaaS) tool? | Optional, MR Author and contributors |
+| handbook_link | Text or Unknown** | Link to handbook page that includes more information about the system/application | Optional, MR Author and contributors |
+| google_group | Text or Unknown** | Google group being used to manage access to the systems through Okta | Optional, MR Author and contributors |
 
 *  *For Booleans, you need to type out either `true` or `false`.
 *  **Unknown: If information is unknown, please don't leave the field empty, type `null` instead.
