@@ -22,13 +22,13 @@ To log into Mavenlik, you will need to access the GitLab's Okta account
 
 * Confirm access is given to Mavenlink and Okta 
 
-* Once clicking on Mavenlink inside Okta
+* Click on Mavenlink inside Okta
 
 ![mavenlinkokta](./mavenlinkokta.png)
 
 * Verify email
 * Enter password
-* click on Sign On via Okta
+* click on Sign On with Okta
 
 ![verification1](./verification1.png)
 
@@ -37,6 +37,8 @@ To log into Mavenlik, you will need to access the GitLab's Okta account
 ![verification3](./verification3.png)
 
 ![verification4](./verification4.png)
+
+You should not be in Mavenlink, Enjoy!
 
 
 #### Mavenlink Project Read/ Guest Access
