@@ -124,6 +124,9 @@ For a global view of current and next fiscal quarter channel renewals, [click he
 
 ## Managing Channel Opportunities
 
+Partners must be an Authorized Partner of GitLab’s in order to sell GitLab products and services. To achieve authorization, partners must have an executed agreement and meet the requirements of the GitLab Partner Program. Unless you are a GitLab partner in the program and in good standing, you may not sell GitLab products and services unless specifically approved on a case-by-case basis by the GitLab partner program team. 
+
+
 ### Policy and Process
 
 All channel opportunities require a Partner to submit a Deal Registration via the Partner Portal in order to receive programmatic discounts. In the event that a Partner does not submit a Deal Registration (ex: Alliances, GSIs), but it is a Partner Sourced deal, the logic needs to match '`Initial Source = Channel Qualified Lead` and `Sales Qualified Source = Channel Generated` on the opportunity. For more details on the partner deal registration process and program go [here](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).

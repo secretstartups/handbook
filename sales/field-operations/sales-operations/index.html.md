@@ -385,6 +385,7 @@ Click the “Related Chatter Object” link to view the original request.
 **General Notes:**
 1. If working a case, and the requester makes a second request out of scope, please tag Sales Support so that a new case is opened for Deal Desk to review the request.
 1. If working a case, and any aspect of the request relates to ownership of a closed opportunity, please change the case owner back to Sales Support for Deal Desk to review the request.
+1. **Cases Black Out Week:** The last week of each quarter, Sales Operations will not be responding to new cases that have been submitted.  This is to allow them time to review approved Account movements from the current quarter, validate the moves and prepare them for new Account Ownership the first week of the following quarter.  For urgent case request during this time, chatter sales-support as well as the Sr. Manager of Sales Operations for review.  
 
 <details>
 <summary markdown='span'> Common Scenarios for Sales Operations team on completing Sales Operations Cases
@@ -426,6 +427,37 @@ The `Field Marketing Manager` field on the account is maintained by Sales Operat
 
 1. Enterprise, Mid-Market and First Order accounts are updated through LeanData routing and the mapping is maintained in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293). 
 1. Named and PubSec are dataloaded manually on a monthly cadence. PubSec mapping is maintained in the Master Territory List Public Sector Account Coverage file.  Named mapping is maintained in [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293)in the Named Reps tab. 
+
+</details>
+
+
+<details>
+<summary markdown='span'>
+  Merging Accounts
+</summary>
+Sales Operations is responsible for identifying and merging duplicate Accounts in SFDC.  
+
+**There are two primary use cases to consider when merging duplicate Accounts:**
+1. Prospect and Prospect Account merges
+1. Prospect and Customer Account merges
+
+**There are also two primary ways in which Accounts can be merged:**
+1. Automated via RingLead
+1. Manual Merges in SFDC
+
+**Steps to Manually Merge Accounts**
+1. Open tabs of the Accounts you want to merge. You can merge up to 3 Accounts at a time.
+   - If one of the accounts in question is a **Channel Account**, be sure to check with the Channel Ops team in chatter first to confirm it can be merged
+   - **Helpful Tip**: Change the Name of both accounts to something that you can find easily.
+      - Example - You need to merge CustomerCentral with Customer Central Add 'Merge' to the end of the Account to be merged Account 1: CustomerCentral MERGE Account 2: Customer Central
+   - **Customer Accounts/Billing Account ID:** If the Account that is being deleted (merged into another account) has a Billing Account associated with it, please copy the Billing Account Number, and paste it into chatter on the Account that will remain. Tag Billing-Ops and ask them to link the Billing Account to this SFDC account.
+1. Click on the Accounts tab in Salesforce.
+1. Scroll down, in the bottom right hand corner of the page, click “Merge Accounts”
+1. Search the name of the Accounts you want to merge - following the example above - in the search bar type xCustomer
+1. Select the checkbox on the left of each account to merge, click Next.
+1. Review this section carefully. It’s best practice to keep the most accurate information when you merge accounts. You will be able to select one record to move the information into.
+1. On the top of the Merge Page you can Select which account URL you want to keep.
+1. Once you have reviewed the information, click “Merge”.
 
 </details>
 
@@ -507,9 +539,12 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 ## **Sales Operations Go To Market**
 
-### **Account Ownership Rules of Engagement**
+### **Ownership & Order Type Rules of Engagement**
 
-[Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+- [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+- [Opportunity Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#opportunity-ownership-rules-of-engagement)
+- [Changing Ownership in Salesforce](/handbook/sales/field-operations/gtm-resources/#changing-ownership-in-salesforce)
+- [Order Type Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#opportunity-order-type-rules-of-engagement)
 
 ### **Territory Management**
 1. [Sales Territories](https://about.gitlab.com/handbook/sales/territories/#territory-ownership-sales)
@@ -702,3 +737,7 @@ Below are instructions on how Sales Operations offboards users within the variou
 1. Sales Operations DRIs will add the salesOps label to any Offboarding issue with SalesOps tasks and work off of this list view to identify users to offboard: [Ready to Offboard List](https://gitlab.com/gitlab-com/team-member-epics/employment/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=offboarding&not[label_name][]=SalesOps%20Tech%20Stack-Completed).
 1. This can also be pulled by going to the employment project and filtering using the Offboarding and SalesOps labels.
 1. When the user has been deactivated in the systems listed for the Sales Operations DRIs, or the items are completed, the Sales Ops team member will add the SalesOps Tech Stack-Completed and/or SalesOps Records-Completed label(s) identifying that issue as 'Done.'
+
+### End of Quarter Blackout Period
+To ensure that Field Sales can solely focus on closing business during the final weeks of a quarter, Sales Operations will not release any new systematic or internal processes that directly impact the Sales team.  This period will begin roughly the third Monday of the final month of the quarter (or about 2 weeks prior to end of quarter) and last for the balance of that quarter.   
+

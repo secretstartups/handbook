@@ -63,7 +63,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 ### 4. Our Portfolio
 *  **Our Portfolio**
    - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
-   - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html) 
+   - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html)
 *  **QUESTION: Pitch Deck Video (Material - Video - 15 Minutes)**
    - Please write one thing you learned or found interesting from watching the GitLab Pitch Deck video.
 *  **GitLab Features & Functionality**
@@ -87,13 +87,13 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
       - [GitLab Direction](https://about.gitlab.com/direction/#single-application)
       - [GitLab Releases](https://about.gitlab.com/releases/categories/releases/)
 *  **Product Maturity**
-   - GitLab has a broad scope and vision, and we are constantly iterating on existing and new features. Some stages and features are more mature than others. 
+   - GitLab has a broad scope and vision, and we are constantly iterating on existing and new features. Some stages and features are more mature than others.
    - To convey the state of our feature set and be transparent, we have developed a [GitLab Product Maturity framework](https://about.gitlab.com/direction/maturity/) for categories, application types, and stages.
 *  **Additional Resources**
    - The below are resources you might want to review or bookmark for later.
       - [GitLab Terms & Conditions](https://about.gitlab.com/terms/)
       - [GitLab Marketing Materials Repository](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/resources/downloads): Check out the GitLab.com marketing materials repository to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send downloaded copies to your clients to help them understand GitLab value.
-      - [GitLab Pricing Model](https://about.gitlab.com/company/pricing/): Check out the chart to understand our pricing model. For additional context take a look at the handbook page on [pricing](https://about.gitlab.com/pricing/). 
+      - [GitLab Pricing Model](https://about.gitlab.com/company/pricing/): Check out the chart to understand our pricing model. For additional context take a look at the handbook page on [pricing](https://about.gitlab.com/pricing/).
 
 ### 5. Field Roles & Expectations
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
@@ -251,7 +251,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -[GitLab Runner Deep Dive Slides](https://docs.google.com/presentation/d/1OhQllwfVNSbWymjf5MCxgWG86FnxjvqLUjL-8sQgZTg/edit#slide=id.g2823c3f9ca_0_9)
    -[GitLab Runner Deep Dive Reording](https://drive.google.com/file/d/1QdgNLxepxiNwUwykhOX6DBmUMp067ooQ/view)
 *  **GitLab Reference Architectures and GitLab GEO (Material - 20 minutes)**
-   -Review the GitLab Reference Architectures and Geo Replication Overview, then hear Brian Wald, Solution Architect Manager, break it all down.  
+   -Review the GitLab Reference Architectures and Geo Replication Overview, then hear Brian Wald, Solution Architect Manager, break it all down.
    -[GitLab Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
    -[GitLab High Availability and Geo Options Video](https://youtu.be/fji7nvmOHNQ)
 *  **ACTIVITY: Let's Install GitLab! (Material - Handbook - 60 minutes)**
@@ -271,7 +271,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 * **Category Overview**
    - GitLab's vision is to be the best single application for every part of the DevOps toolchain. However, some customers use tools other than our built-in features–and we respect those decisions. The Integrations category was created specifically to better serve those customers. Currently, GitLab offers [30+ project services](https://docs.gitlab.com/ee/user/project/integrations/project_services.html#project-services) that integrate with a variety of external systems. Integrations are a high priority for GitLab, and the Integrations category was established to develop and maintain these integrations with key 3rd party systems and services.
 * **Jira**
-   - GitLab Issues are a powerful tool for discussing ideas and planning and tracking work. However, many organizations have been using Jira for these purposes and have extensive data and business processes built into it. While you can always migrate content and process from Jira to GitLab Issues, you can also opt to continue using Jira and use it together with GitLab through our [integration.](https://docs.gitlab.com/ee/user/project/integrations/jira.html) For a video demonstration of integration with Jira, watch [GitLab workflow with Jira issues](https://youtu.be/fWvwkx5_00E)
+   - GitLab Issues are a powerful tool for discussing ideas and planning and tracking work. However, many organizations have been using Jira for these purposes and have extensive data and business processes built into it. While you can always migrate content and process from Jira to GitLab Issues, you can also opt to continue using Jira and use it together with GitLab through our [integration.](https://docs.gitlab.com/ee/integration/jira/) For a video demonstration of integration with Jira, watch [GitLab workflow with Jira issues](https://youtu.be/fWvwkx5_00E)
 * **Jenkins**
    - GitLab’s [Jenkins integration](https://docs.gitlab.com/ee/integration/jenkins.html) allows you to trigger a Jenkins build when you push code to a repository, or when a merge request is created. Additionally, it shows the pipeline status on merge request widgets and on the project’s home page. Videos are also available on [GitLab workflow with Jira issues and Jenkins pipelines](https://youtu.be/Jn-_fyra7xQ) and [Migrating from Jenkins to GitLab.](https://youtu.be/RlEVGOpYF5Y)
 * **Github**

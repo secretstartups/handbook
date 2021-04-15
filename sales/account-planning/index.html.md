@@ -102,7 +102,7 @@ Lastly, one of the fundamental benefits of an account plan is to figure out what
 ## Building the Account Plan 
 
 ### Step 1: Account Prioritization 
-It is expected that all strategic accounts will have an account plan, but do not try to create an account plan for all of your accounts at the same time. Ideally, focus your efforts on building up to three account plans at one time. A limited number of thoughtful and robust account plans for your most strategic accounts is a much better approach than to spread yourself too thin by trying to create, manage, and maintain a larger quantity of account plans.  
+Rather than building an account plan for each and every one of your accounts, it is recommended that you prioritize your accounts with a process sometimes called [Territory Planning](/handbook/sales/territory-planning/). Ideally, focus your efforts on building up to three account plans at one time. A limited number of thoughtful and robust account plans for your most strategic accounts is a much better approach than spreading yourself too thin by trying to create, manage, and maintain a large number of account plans.   
 
 ### Step 2: Build the Account Profile
 Invest time in researching your customer and gathering data and insights. Document what you know about the account and try to answer the questions outlined in the Account Profile section above. Identify and work on closing information gaps until you have enough information to formulate a strategy.

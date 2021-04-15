@@ -70,8 +70,8 @@ Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (C
 <!-- blank line -->
 
 ### Key Discussion Points
-- Our [Mission](/company/strategy/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
-- We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/strategy/#mission).
+- Our [Mission](/company/mission-and-vision/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our Learning Materials.
+- We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/mission-and-vision/#mission).
 - There are benefits to keeping our e-learning material [handbook-first](/handbook/handbook-usage/#why-handbook-first):
     - Folks who have already completed a formal training through an e-learning platform may want to return to the materials
     - Those who never go through the formal platform may also benefit from the materials
@@ -235,13 +235,18 @@ If you have a Field Communications request (process change, announcement, etc.),
         - `FE priority::1` - work that directly supports an OKR
         - `FE priority::2` - work that does not directly support an OKR but has a large impact on the field team
         - `FE priority::3` - work that does not directly support an OKR and has a low to medium impact on the field
-- **Field Enablement Issue Boards**
-    - [Field Enablement By Initiative Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1191445)
-    - [Field Enablement By Priority Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1644552?&label_name%5B%5D=field%20enablement)
-    - [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
-    - [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
-    - [Sales & CS Onboarding Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790236)
-    - [Partner Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1645038)
-    - [Field Certification Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426)
-    - [Command of the Message and MEDDPPICC Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1823684)
-    - [Commercial Sales Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790139)
+
+## Field Enablement Issue Boards
+
+### Primary 
+- [Field Enablement Initiatives Board](https://gitlab.com/groups/gitlab-com/-/boards/2626847)
+- [Field Enablement Prioritization Board](https://gitlab.com/groups/gitlab-com/-/boards/2624997)
+
+### Other
+- [Field Certification Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426)
+- [Value Framework Feedback (VFF) Board](https://gitlab.com/groups/gitlab-com/-/boards/2625246)
+- [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
+- [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
+- [Sales & CS Onboarding Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790236)
+- [Partner Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1645038)
+- [Commercial Sales Enablement Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1790139)

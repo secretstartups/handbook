@@ -523,6 +523,7 @@ Effective 2021-04-05, the quote approval module has been updated to trigger an a
 1. Order Type 2.0 = `1. New - First Order`
 2. Net ARR >=`$20,000`
 3. Stamped Sales Segment = `Large`
+4. Stamped Opp Owner User Region = `AMER`
 
 - **Service Attach Quoting Process:**
 
