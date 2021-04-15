@@ -136,8 +136,17 @@ Any agreement must be between the team member and the co-working space (i.e. Git
 
 ### Work-related online courses and professional development certifications
 
-GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per calendar year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit). Expenses related to reimbursement of tuition will be capped at $1,000 USD within Expensify. Anything over $1,000 USD must go through payroll for reimbursement. Team members must attach a proof of receipt screen shot of the submitted G&D form when submitting a expense report for tuition, while choosing the "Training" category option. Please note any sort of conference attendance should be categorized to "Conference Attendance".  
+GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per calendar year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit). Expenses related to reimbursement of tuition will be capped at $1,000 USD within Expensify. Anything over $1,000 USD must go through payroll for reimbursement. Team members must attach a proof of receipt screen shot of the submitted G&D form when submitting a expense report for tuition, while choosing the "Training" category option. Please note any sort of conference attendance should be categorized to "Conference Attendance", and follow the same G&D steps as outlined above with reimbursement in Expensify capped at $1,000 USD.
 
+### Team Manager Flower and Gift Purchases ###
+
+Managers are able to send Gifts and Flowers on behalf of their team members in acknowledgment of significant life events such as the birth of a little one; well wishes ahead of surgery, or the loss of a loved one.
+
+The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**. 
+
+Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restuarant gift cards at this time.  In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
+
+When expensing Team member gifts please use the tag FY21_EmployeeGiftsFlowers.
 
 ### Team building Budget
 
