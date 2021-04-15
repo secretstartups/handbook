@@ -55,7 +55,7 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 This content is divided into five key competencies for Product Managers. 
 
-**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp;**<!--   ✏️ [Design](#design)&nbsp; &nbsp; &nbsp;  🚀 [Delivery](delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**-->
+**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp;  ✏️ [Design](#design)&nbsp; &nbsp; &nbsp;  🚀 [Delivery](delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**
 
 ## <a id="discovery"></a>💡 Discovery
 
@@ -181,8 +181,8 @@ This content is divided into five key competencies for Product Managers.
 
 <br>
 <br>
-<!--<a id=“design”> </a>-->
-## ✏️ Design
+
+## <a id="design"></a> ✏️ Design
 
 ---
 
@@ -212,8 +212,8 @@ This content is divided into five key competencies for Product Managers.
 
 <br>
 <br>
-<!--<a id=“delivery”></a>-->
-## 🚀 Delivery
+
+## <a id="delivery"></a> 🚀 Delivery
 
 ---
 
@@ -276,8 +276,8 @@ _Please contribute your favorite resources here_
 _Please contribute your favorite resources here_
 <br>
 <br>
-<!--<a id=“business-acumen”> </a>-->
-## 📈 Business acumen
+
+## <a id="businss-acumen"></a> 📈 Business acumen
 
 ---
 
@@ -344,8 +344,8 @@ _Please contribute your favorite resources here_
 
 <br>
 <br>
-<!--<a id=“communication”> </a>-->
-## 💬 Communication
+
+## <a id="communication"></a> 💬 Communication
 
 ---
 
@@ -409,8 +409,8 @@ _Please contribute your favorite resources here_
 
 <br>
 <br>
-<!--<a id=“team-management”> </a>-->
-## 🤝 Team management 
+
+## <a id="team-management"></a> 🤝 Team management 
 
 ---
 
