@@ -108,7 +108,17 @@ When a team member is pursuing a people manager role (Level Manager+) long term 
 | Manager/Sr Manager | Director       | No (managing managers)                     | Yes                           |
 |                    |                | Yes (managing managers)                    | No                            |
 
+_Note that `previous management experience` can be management experience in a previous organization, or management experience at GitLab. ["Acting"](/handbook/people-group/promotions-transfers/#acting) role management experience at GitLab can also count towards the 6 month threshold._
+
+###### Exceptions
+
 For Director+ positions no interim is required.
+
+Exceptions can also be reviewed on a case-by-case basis depending on readiness for team members who have served in acting roles, and who have passed the interview process for a permanent role. 
+
+###### Ending Interim Period
+
+For details on logistics please refer to the [promotions and transfers page](/handbook/people-group/promotions-transfers/#interim-and-acting-roles).
 
 Interim Manager positions are for individuals who are pursuing the role long term: the requirement is that, before moving into the role full time, they will make at least one successful hire. The official promotion will not occur before 30 days after that person's hire, so that we can assess whether the hire was truly successful. If the new hire's success is indeterminate at the 30-day mark, then we will continue to review until a firm decision is made. If the new hire is not successful, that does not mean that the Interim Manager cannot eventually move into the full-time role.
 
