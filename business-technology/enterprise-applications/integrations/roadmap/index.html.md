@@ -214,9 +214,7 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
             <td class="bg-green"></td>
         </tr>
         <tr>
-            <th style="color:DodgerBlue;">API</th>
-            <th></th>
-            <th></th>
+            <th colspan="3">API</th>
         </tr>
         <tr>
             <td>Data transformations - built in functions</td>
@@ -280,6 +278,9 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
             <td>Custom policy configuartions</td>
             <td class="bg-green"></td>
             <td class="bg-green"></td>
+        </tr>
+        <tr>
+            <td colspan="3" style="border-bottom:2px solid blue;text-align:center;color:blue;">Target Maturity Level</td>
         </tr>
         <tr>
             <td>Resuable asset discovery</td>
@@ -359,119 +360,3 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
     </tbody>
 </table>
 
-### Capabilities?
-Items marked with `*` are optional
-
-- SDLC
-    - Ability to review changes
-    - Automated testing (with mocks)
-    - Automated deployments
-    - Environment/stage management
-    - Secrets management
-- Architecture Components
-    - Message Queues
-    - Pub/Sub
-    - Event Sourcing*
-    - Service definitions
-    - Service discovery
-    - Canonical Data Model
-    - Ability to batch process
-- Storage
-    - Support for RDBMS and Data Lakes (Snowflake)
-    - Supports blob storage (S3 / Google Storage)
-    - ORM / similar
-    - Schema Migrations
-    - Encryption at rest
-    - FTP
-        - client
-        - server
-- Logging, Monitoring and Alerting (either natively supported or through third-party integrations)
-    - Structured logging
-    - Log severity
-    - Log searching
-    - Correlation ID and request tracing
-    - Trigger alerts from logs
-    - Monitoring Dashboards
-- Network
-    - TLS
-    - IPSec
-    - IP whitelisting
-- APIs
-    - Supports API tiering (Experience, Process and Service layers)
-    - Versioning
-    - GraphQL
-    - REST
-    - gRPC*
-    - Flexible webhooks
-    - Streaming endpoints
-    - Rate limiting
-    - Automated documentation ([Swagger](https://swagger.io/) & OpenAPI)
-    - Security (at each API layer)
-        - OAuth2 (All flows)
-        - API Key
-        - Role based authorization
-- Platform Security
-    - Custom roles
-    - SAML / OAuth2 SSO
-    - SCIM
-- Infrastructure
-    - Hosted on the cloud
-    - Horizontally scalable
-
-### Where are we falling short with our current platform?
-
-- [ ] SDLC
-    - [ ] Ability to review changes
-    - [ ] Automated testing (with mocks)
-    - [ ] Automated deployments
-    - [ ] Environment/stage management
-    - [x] Secrets management
-- [ ] Architecture Components
-    - [ ] Message Queues
-    - [x] Pub/Sub
-    - [ ] Event Sourcing*
-    - [ ] Service definitions
-    - [ ] Service discovery
-    - [x] Canonical Data Model
-    - [x] Ability to batch process
-- [ ] Storage
-    - [x] Support for RDBMS and Data Lakes (Snowflake)
-    - [x] Supports blob storage (S3 / Google Storage)
-    - [ ] ORM / similar
-    - [ ] Schema Migrations
-    - [ ] Encryption at rest
-    - [ ] FTP
-        - [x] client
-        - [ ] server
-- [ ] Logging, Monitoring and Alerting (either natively supported or through third-party integrations)
-    - [ ] Structured logging
-    - [ ] Log severity
-    - [ ] Log searching
-    - [ ] Correlation ID and request tracing
-    - [ ] Trigger alerts from logs
-    - [x] Monitoring Dashboards
-- [ ] Network
-    - [x] TLS
-    - [ ] IPSec
-    - [ ] IP whitelisting
-- [ ] APIs
-    - [ ] Supports API tiering (Experience, Process and Service layers)
-    - [x] Versioning
-    - [ ] GraphQL
-    - [x] REST
-    - [ ] gRPC*
-    - [x] Flexible webhooks
-    - [ ] Streaming endpoints
-    - [ ] Rate limiting
-    - [ ] Automated documentation ([Swagger](https://swagger.io/) & OpenAPI)
-    - [ ] Security (at each API layer)
-        - [ ] OAuth2 (All flows)
-        - [x] API Key
-        - [ ] Role based authorization
-- [ ] Platform Security
-    - [x] Custom roles
-    - [x] SAML / OAuth2 SSO
-    - [ ] SCIM
-- [ ] Infrastructure
-    - [x] Hosted on the cloud
-    - [x] Horizontally scalable
