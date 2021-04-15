@@ -1,3 +1,7 @@
+---
+layout: handbook-page-toc
+title: GitLab Communication
+---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -36,7 +40,7 @@ If you see something that concerns you in Slack, Issues, Merge Requests, Video, 
 Key practices to consider during any meeting are listed below.
 
 1. Video Calls - If this is your first time meeting a customer/prospect/partner/etc., turn on your camera when you login to Zoom. This will help to make the customer/prospect feel more comfortable as they are certain your undivided attention is geared towards them.
-1. Agenda - Always have an agenda prepped and ready to go. Share this with your audience. Make sure that everything on the agenda is accurate and ask if there’s anything missing that needs to be addressed during this call or for the future. When there is no agenda, it translates to you not caring.
+1. Agenda - Always have an agenda prepped and ready to go. Share this with your audience. Make sure that everything on the agenda is accurate and ask if there’s anything missing that needs to be addressed during this call or for the future. When there is no agenda, it translates to you not caring. When sharing agendas with customers and partners it should be called "GitLab + Name Shared Collaboration & Agenda", not "External Agenda" as that implies there is something the parties are not seeing.
 1. 70/30 Rule - Ask open ended questions that leave the audience talking 70% of the time, while you are talking 30% of the time. Please note that this varies based on the type of meeting that you are conducting. Be conscious of what questions need to be asked and to capture those items.
 1. Take Notes - Effective note-taking is a valuable skill that will help you retain and recall any important details. Be the person who remembers all the details of your audience's needs.
 1. Adapt to Audience Tone - Before going into the business portion of your meeting, evaluate first the tone of the audience. Adapt your tone accordingly in order to appeal to various types of personalities.
@@ -574,7 +578,6 @@ The team members can use Zoom on their mobile device with the audio only functio
 ## Release Retrospectives and Kickoffs
 {: #kickoffs}
 
-<br>
 After GitLab releases a new version on the 22nd of each month, we have a
 30-minute call a few days later reflecting on what could have been
 better:
@@ -739,7 +742,6 @@ Just like in-person meetings be cognizant of when, who, and how you interrupt, w
 ### You are the manager of your attention
 {: #paying-attention-in-meetings}
 
-<br>
 You are the manager of your attention, and you decide when you do or don't pay attention in a meeting.
 
 You will always have more work than time in your life.
@@ -797,7 +799,6 @@ Theoretically you can have multiple people in a room with their own equipment bu
 1. If you make a mistake, admit it. Be upfront and be quick with your correction. If you're posting to a blog, you may choose to modify an earlier post. Just make it clear that you have done so.
 1. There can be a fine line between healthy debate and incendiary reaction. Try to frame what you write to invite differing points of view without inflaming others. You don’t need to respond to every criticism or barb. Be careful and considerate.
 
-``` sse
 1. [Assume positive intent](/handbook/values/#assume-positive-intent) and explicitly state the strongest plausible interpretation of what someone says before you respond, not a weaker one that's easier to criticize. [Rapoport's Rules](https://rationalwiki.org/wiki/Rapoport%27s_Rules) also implores you to list points of agreement and mention anything you learned.
 1. Answer questions, thank people even if it’s just a few words. Make it a two way conversation.
 1. Appreciate suggestions and feedback.
@@ -806,7 +807,6 @@ Theoretically you can have multiple people in a room with their own equipment bu
 1. When facing negative comments, respond patiently and treat every user as an individual, people with the strongest opinions can turn into [the strongest supporters](/blog/2015/05/20/gitlab-gitorious-free-software/).
 1. By default, discussions in issues and MRs are public and could include participation of wider community members. It is important to make the wider community members feel welcome participating in discussions and sharing their view. Wider community members also submit [MRs to help improve our website/handbook](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&label_name[]=Community%20Contribution) and this is often their first contribution to GitLab. We want to make sure that we are responsive to their contributions and thank them for helping improve GitLab.
 1. Adhere to the [Code of Conduct](/community/contribute/code-of-conduct/) in all communication. Similarly, expect users to adhere to the same code when communicating with the GitLab team and the rest of the GitLab community. No one should accept being mistreated.
-```
 
 ## Writing Style Guidelines
 
@@ -890,7 +890,6 @@ Some examples can be found at [SCI-PAB - Six Steps To Reach Your Audience](https
 ## Company phone number
 {: #phone-number}
 
-<br>
 If you need to provide the details of GitLab's contact information you can take the [address from the visiting page](/company/visiting/) for reference; or the [mailing address](/handbook/people-group/#addresses) of the office in the Netherlands if that is more applicable.
 
 If a phone number is required, leave this field empty by default. If that is not possible, then use
@@ -953,7 +952,6 @@ One nit-pick is that the Medium of SMB and Mid of Mid-Market sound very similar.
 ## Simple Language
 {: #simple-language}
 
-<br>
 Simple Language is meant to encourage everyone at GitLab to simplify the language we use.
 We should always use the most clear, straightforward, and meaningful words possible in every conversation.
 Avoid using "fluff" words, jargon, or "corporate-speak" phrases that don't add value.
@@ -1049,7 +1047,6 @@ Internal slack messages between team members are still considered professional c
 ### Avoid Direct messages
 
 **Note:** We don't use the term _private message_, because these _direct messages_ are not inherently _private_ like a phone call or private letter. The messages are potentially accessible by Workspace admins or via Backups. Slack refers to these types of messages as [direct messages themselves](https://slack.com/intl/en-de/help/articles/212281468-What-is-a-direct-message).
-<br>
 1. When using Slack for work-related purposes, please avoid direct messages. [Direct messages discourage collaboration](http://blog.flowdock.com/2014/04/30/beware-of-private-conversations/). You might actually be contacting the wrong person, and they cannot easily redirect you to the right person. If the person is unavailable at the moment, it is less efficient because other people cannot jump in and help. Use a public channel and mention the person or group you want to reach. This ensures it is easy for other people to chime in, involve other people if needed, and learn from whatever is discussed.
 1. If someone sends you a work-related direct message, it is okay to let them know you'd like to take the conversation to a public channel, linking to this section of the handbook. The process might look something like:
     1. In the direct message: `Thanks for reaching out, that's a great question/idea I think the rest of the team could benefit from.  I'm going to move this to #public-channel based on [our desire to avoid direct messages](/handbook/communication/#avoid-direct-messages)`
@@ -1262,7 +1259,6 @@ GitLab has chosen to restrict the ability to install apps, and we have a process
 #### Slack is down
 {:.no_toc}
 
-<br>
 Use the "Slack Down!" group chat on Zoom.
 
 1. In the Zoom desktop app go to the _Contacts_ tab
@@ -1276,7 +1272,6 @@ Once service is restored, go back to Slack.
 #### Zoom is down
 {:.no_toc}
 
-<br>
 Use Slack calls.
 
 1. Navigate to the appropriate Slack channel or direct message.
@@ -1288,7 +1283,6 @@ Once service is restored, go back to Zoom.
 #### Slack and Zoom are down
 {:.no_toc}
 
-<br>
 Join the [Slack Down!](https://chat.google.com/preview/room/AAAAGAd_BaQ) room on Hangouts Chat.
 Once service is restored, go back to Slack and Zoom.
 
@@ -1308,7 +1302,6 @@ account and set the visibility and access controls according to the following gu
 | **On - GitLab (Recommended Default)** | This is the recommended default as it allows anyone within GitLab to easily discover documents via searching for their name within Drive. |
 | On - Anyone at GitLab with the link | Avoid this option as it limits discoverability by others at GitLab. |
 | Off - Specific people | When the document contains highly sensitive or private information such as 1:1s with direct reports |
-<br>
 | **Access Setting** | **Use Cases** |
 | -------------- | --------- |
 | Can Edit | Anyone that can view the document can edit it. This is the recommended setting when **On - GitLab** is enabled for the document |
@@ -1331,7 +1324,6 @@ people time you can also [link to the search results
 page](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22)
 which allows people to quickly get to the doc without anyone being able to
 
-``` sse
     request access. If there are multiple documents showing up in the search, you may filter your [search link by adding the owner.](https://drive.google.com/drive/search?q=%22this%20is%20a%20link%20to%20the%20search%20results%20page%22%20owner:email%40gitlab.com)
 1. If you are having trouble finding a shared Google Doc, make sure you [Search &lt;your domain&gt;](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
 1. In our handbook, if you find yourself wondering whether it is better to provide a public link to a Google Doc vs. writing out the content on the website, use the following guideline: Is this document frequently adapted / customized? If yes, then provide a link, making sure that the document can be _commented on_ by _anyone_ with the link. For instance, this is how we share our employment [contracts](/handbook/contracts/). If the document is rarely customized, then provide the content directly on the site and deprecate the Google Doc.
@@ -1342,7 +1334,6 @@ which allows people to quickly get to the doc without anyone being able to
 1. If you want to have the Google Doc be readable to the public, do not change the sharing settings from 'Editable by Everyone at GitLab', [publish the document](#how-to-publish-a-google-doc) instead.
 1. In all cases, the sharing settings (who a document is shared with, if it is visible to the whole company, etc.) on a Google Doc should be the single source of truth for the confidentiality of the document.
 1. Avoid using your initials when adding content to Google Docs or referring to someone else. Use your full name, as Google Docs [Smart Compose](https://support.google.com/docs/answer/9643962?hl=en) will auto-complete names for you, and display information about the GitLab team member on hover. It makes documents more readable and consumable, especially for people outside your team/department.
-```
 
 ### How to publish a Google Doc
 
