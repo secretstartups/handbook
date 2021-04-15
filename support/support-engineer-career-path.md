@@ -11,7 +11,6 @@ description: The details of this page are to outline more specific guidance arou
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-**NOTE: THIS IS A WORK IN PROGRESS!!**
 
 ## Career Development in Support
 
