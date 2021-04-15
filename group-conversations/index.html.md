@@ -240,22 +240,11 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 
 | Date | Group Conversation | DRI | Key Meeting? |
 |---|---|---|---|
-| 2021-03-25 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-03-29 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-03-30 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
-| 2021-03-31 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-04-01 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-04-05 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-04-06 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
-| 2021-04-07 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
-| 2021-04-12 | Open | Available for any Group Conversation | N/A |
-| 2021-04-13 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
-| 2021-04-14 | [CRO Group Conversation](/handbook/sales/)  | Michelle Hodges | Yes, monthly |
-| 2021-04-15 | Open | Available for any Group Conversation | N/A |
+| 2021-04-15 | AMA with the CPO | Wendy Barnes | N/A |
 | 2021-04-19 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
 | 2021-04-20 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
 | 2021-04-21 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
-| 2021-04-22 | Open | Available for any Group Conversation | N/A |
+| 2021-04-22 | AMA with the CTO | Eric Johnson | N/A |
 | 2021-04-26 | [CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
 | 2021-04-27 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
 | 2021-04-28 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
@@ -271,25 +260,25 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-05-17 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
 | 2021-05-18 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
 | 2021-05-19 | [Community Relations](/handbook/marketing/community-relations/)  | David Planella | No |
-| 2021-05-20 | Open | Available for any Group Conversation | N/A |
+| 2021-05-20 | AMA with David Hornik (Board Member) | N/A | N/A |
 | 2021-05-24 | [CRO Group Conversation](/handbook/sales/)  | David Sakamoto | Yes, monthly |
 | 2021-05-25 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
 | 2021-05-26 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
 | 2021-05-27 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-05-31 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
+| 2021-05-31 | No GC - US Holiday | n/a | n/a |
 | 2021-06-01 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
 | 2021-06-02 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
 | 2021-06-03 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
 | 2021-06-07 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-06-08 | Open | Reserved for Groups that have a Key Meeting | Yes |
+| 2021-06-08 | AMA with Godfrey Sullivan (Board Member) | N/A | Yes |
 | 2021-06-09 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
-| 2021-06-10 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
+| 2021-06-10 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
 | 2021-06-14 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
 | 2021-06-15 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
 | 2021-06-16 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
 | 2021-06-17 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
-| 2021-06-21 | Open | Available for any Group Conversation | N/A |
-| 2021-06-22 | Open | Available for any Group Conversation | N/A |
+| 2021-06-21 | AMA with the CEO | Sid Sijbrandij | N/A |
+| 2021-06-22 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-06-23 | Open | Available for any Group Conversation | N/A |
 | 2021-06-24 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
 | 2021-06-28 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
