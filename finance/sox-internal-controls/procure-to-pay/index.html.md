@@ -24,7 +24,8 @@ Procure to pay is the process of requisitioning, purchasing, receiving, paying f
 |ContractWorks|Contracts are stored here|
 |HelloSign|Used to sign contracts|
 |Expensify|Employee reimbursement tool|
-|Tipalti|Accounts payable tool|
+
+
 
 It includes the following sub processes:
 
@@ -507,13 +508,13 @@ This section outlines the various Accounts Payable (AP) activities at GitLab. Gi
 
 * Step 4: Onboarding Vendor Manually
 
-If the Vendor is unable to successfully onboard themselves, then the AP team will create an issue requesting approval to manually onboard them.  The issue is assigned to the Reporting team for review and approval.  Once approved, the AP team will add the payee manually, by clicking [Log in as payee](https://docs.google.com/document/d/1T6STj7pDeHZUVS-93slfqCkx8JlhKCsPF_kpO1ZJsHM/edit).
+  If the Vendor is unable to successfully onboard themselves, then the AP team will create an issue requesting approval to manually onboard them.  The issue is assigned to the Reporting team for review and approval.  Once approved, the AP team will add the payee manually, by clicking [Log in as payee](https://docs.google.com/document/d/1T6STj7pDeHZUVS-93slfqCkx8JlhKCsPF_kpO1ZJsHM/edit).
 
-Entering all the [required information]](https://docs.google.com/document/d/1WNyiIfAK9ait9lQX2LhJrmew1Fh5W72sU1yDTQqULZg/edit). This information comes either from the invoice, or the vendor directly.
+  Entering all the [required information](https://docs.google.com/document/d/1WNyiIfAK9ait9lQX2LhJrmew1Fh5W72sU1yDTQqULZg/edit). This information comes either from the invoice, or the vendor directly.
 
-The tax form must be directly submitted by the vendor. This portion cannot be uploaded by the AP Specialist.
+  The tax form must be directly submitted by the vendor. This portion cannot be uploaded by the AP Specialist.
 
-Once the Vendor information has been entered into Tipalti, the AP team requests approval to enable the Vendor for payment. The Reporting team will verify payment information and approve to enable the Vendor for payment.  Once the Vendor has become [Payable](https://docs.google.com/document/d/17S2rqTcfCM-fczYFY_2Req-eVBenLVTWeZoK926JeX0/edit) this will allow the AP team to start processing that vendor’s invoices.
+  Once the Vendor information has been entered into Tipalti, the AP team requests approval to enable the Vendor for payment. The Reporting team will verify payment information and approve to enable the Vendor for payment.  Once the Vendor has become [Payable](https://docs.google.com/document/d/17S2rqTcfCM-fczYFY_2Req-eVBenLVTWeZoK926JeX0/edit) this will allow the AP team to start processing that vendor’s invoices.
 
 **Invoice Processing**
 
