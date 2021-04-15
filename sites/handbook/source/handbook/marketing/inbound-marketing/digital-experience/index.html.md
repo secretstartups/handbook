@@ -149,6 +149,22 @@ For FY22 Q1 we have one two-week sprint cycle.
 <iframe src="https://calendar.google.com/calendar/embed?src=c_g97ibfb3lq183mphm8mnbjfk34%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </figure>
 
+### Internal Agency Day
+
+Every second Friday of our sprint cycle is open for issues and requests initiated outside of the Inbound Marketing team. These issues should be labelled with the `IM-WEBAGENCY` label and will be taken on based on priority/due date.
+
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+| ------ | ------- | --------- | -------- | ------ |
+| Sprint Begins |  |  |  |  |
+|  |  | Sprint Release Async | Sprint Ends | Agency Day |
+
+### Internal Issue Boards
+
+These issue boards were created by the Digital Experience team to track our own workloads for a given release cycle.
+
+- [Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/2415116)
+- [Kanban](https://gitlab.com/groups/gitlab-com/-/boards/2415063)
+
 ### Sprint Planning
 
 Before a sprint starts, our team aligns on what will be delivered during the sprint. We identify issues that need to be written, write them, then add them to our boards and weight them.
@@ -198,22 +214,6 @@ This is the agenda we use for [Sprint Retros](https://docs.google.com/document/d
 
 We release videos for [sprint planning](#sprint-planning), [sprint releases](#sprint-releases), and [sprint retrospectives](#sprint-retros) in the [Digital Experience playlist of GitLab Unfiltered](https://docs.google.com/document/d/1uFw2snKuBlt2VirP5mjMvCr66HD7hOAB6QrXaElBZQE/edit?usp=sharing).
 
-### Internal Agency Day
-
-The Digital Experience team sprint spans almost two weeks, from Monday until the following Thursday. This leaves every second Friday open for internal issues and requests made by the marketing team. These issues should be labelled with the `IM-WEBAGENCY` label and will be taken on based on priority/due date.
-
-| Monday | Tuesday | Wednesday | Thursday | Friday |
-| ------ | ------- | --------- | -------- | ------ |
-| Sprint Begins |  |  |  |  |
-|  |  | Sprint Release Async | Sprint Ends | Agency Day |
-
-### Internal Issue Boards
-
-These issue boards were created by the Digital Experience team to track our own workloads for a given release cycle.
-
-- [Current Milestone](https://gitlab.com/groups/gitlab-com/-/boards/2415116)
-- [Kanban](https://gitlab.com/groups/gitlab-com/-/boards/2415063)
-
 ## Contact Us
 
 ### Slack Group
@@ -244,3 +244,21 @@ These issue boards were created by the Digital Experience team to track our own 
 ## How we use GitLab
 
 [https://about.gitlab.com/handbook/marketing/inbound-marketing/#how-we-use-gitlab](https://about.gitlab.com/handbook/marketing/inbound-marketing/#how-we-use-gitlab)
+
+## Digital Experience FAQ
+
+<details markdown="1">
+
+<summary>Why can't you work on a small request right away?</summary>
+
+### Why can't you work on a small request right away?
+
+Unfortunately we get multiple of these requests every day. When we do unplanned work, then we cannot deliver all of the work we planned. That said, it doesn't hurt to ask. We might have availability.
+
+If we don't have availability, then we respectfully ask for your patience while waiting for the next available [agency day](https://about.gitlab.com/handbook/marketing/inbound-marketing/digital-experience/#internal-agency-day). This is time we set aside for this kind of work.
+
+Your request might only take a few minutes to implement, but there is additional overhead in context switching, creating issues + merge requests + branches, testing procedures, reviewing, and verifying releases.
+
+If you have an emergency then please do let us know. Be aware that whenever new work is brought into a sprint, other work is negatively impacted. Your request might be important, but we still need to weigh the importance against other projects.
+
+</details>

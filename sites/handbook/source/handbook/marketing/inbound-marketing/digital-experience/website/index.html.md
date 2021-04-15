@@ -959,18 +959,3 @@ On the about.gitlab.com website we have approval to use the customer logos lisit
 Sometimes a merge train will get stuck in our [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) repo pipelines. Please see this related issue for [instructions on how to recover a stuck merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/217908#when-the-merge-train-in-the-www-gitlab-com-project-might-be-stuck).
 
 </details>
-
-## Tools
-
-<details markdown="1">
-
-<summary>show/hide this section</summary>
-
-- [Adobe Creative Cloud / Suite](https://www.adobe.com/): Adobe Creative Cloud is a set of applications and services from Adobe Inc. that gives subscribers access to a collection of software used for graphic design, video editing, web development, photography, along with a set of mobile applications and also some optional cloud services.
-- [Sketch](https://www.sketch.com/): Create, prototype, collaborate and turn your ideas into incredible products with the definitive platform for digital design.
-- [Mural](https://mural.co/): MURAL is an Online Virtual Collaboration Space, Easy to Use Specially Designed for Teams. You can Post Stickies, Share Ideas, Brainstorm and Run Product Sprints.
-- [Sisense ( previously Periscope )](https://www.sisense.com/product/data-teams/): Sisense for Cloud Data Teams (previously Periscope Data) empowers data teams to quickly connect to cloud data sources, then explore and analyze data in a matter of minutes. Extend cloud investments with the Sisense analytics platform to build, embed, and deploy analytics at scale.
-- [Launch Darkly](https://launchdarkly.com/): LaunchDarkly is a Feature Management Platform that serves over 100 billion feature flags daily to help software teams build better software, faster.
-- [Swiftype](https://swiftype.com/): Swiftype is our search provider for the about site and handbook site. We are on a legacy "business" plan where we are allowed 100,000 documents to index, 3 engines, 24 hours for partial recrawls (edited documents), and 7 days for full recrawls (new & deleted documents).
-
-</details>
