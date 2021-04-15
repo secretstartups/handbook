@@ -269,7 +269,7 @@ GitLab has an [Open Core](https://en.wikipedia.org/wiki/Open-core_model) busines
 
 
 1. [Writing to Inspire Action Competency](#writing-to-inspire-action)
-1. [Communicating to Internal Executives](# communicating-to-internal-executives)
+1. [Communicating to Internal Executives](#communicating-to-internal-executives)
 1. Documenting for Clarity
 1. Presenting to Large Audiences
 1. Representing GitLab's Entire Product Value
