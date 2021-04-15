@@ -46,6 +46,7 @@ description: "Operations, Procedures, Documentation"
 | AM | Account Manager |
 | AE | Account Executive |
 | APAC | Asia-Pacific |
+| CAM | Channel Account Manager |
 | CS | Customer Success |
 | EMEA | Europe, Middle East and Africa |
 | EULA | End User Licence Agreement |
