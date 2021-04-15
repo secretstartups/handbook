@@ -14,13 +14,13 @@ canonical_path: "TBD"
 
 On this page, you'll find an overview as well as links to helpful resources for evaluating a product manager's performance at GitLab. To better understand a product manager's responsiblities at GitLab, please visit [The Product Manager Role at GitLab](/handbook/product/product-manager-role/)
 
-# Product Management Career Development Framework
+## Product Management Career Development Framework
 
 <kbd class="required">Required 🔎</kbd><br>
 <br>
 We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [GoogleSheet template](https://docs.google.com/spreadsheets/d/1NaqSgu_1IcL_DYRHjrDGsKLooSykpewD3QYU2OZR5jc/edit#gid=1091464991) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Low, Medium and High potential instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
 
-## CDF for Individual Contributors
+### CDF for Individual Contributors
 The below table outlines the CDF for [Product Managers](/job-families/product/product-manager/). 
 
 | [Product Manager Levels](https://about.gitlab.com/job-families/product/product-manager/) | Intermediate | Senior | Principal |
@@ -32,7 +32,7 @@ The below table outlines the CDF for [Product Managers](/job-families/product/pr
 | **Typical Reporting Structure** | Reports to a Director or Group Manager | Reports to a Director or Group Manager | Reports to a Director or VP |
 | **Typical Experience** | Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | 
 
-## CDF for Product Leadership
+### CDF for Product Leadership
 The below table outlines the Career Development Framework used for [Product Leaders](/handbook/product/product-leadership/#product-leaders).
 
 | [Product Leadership Role](https://about.gitlab.com/job-families/product/product-management-leadership/) | Group Manager PM | Director PM | Senior Director PM |
@@ -47,11 +47,11 @@ The below table outlines the Career Development Framework used for [Product Lead
 
 ***
 
-## Performance/Potential Assessment
+### Performance/Potential Assessment
 
 Product Management Leadership will perform CDF reviews with their team members on a regular cadence agreed upon with their team member, to happen at every 2 to 3 months, and no less frequently than every 3 months. We encourage limited flexibility based on manager discretion because team members have different career goals, growth cadences and product challenges they may want to align with their CDF. Product Management Leadership should consider creating a recurring meeting dedicated to this topic rather than utilizing existing 1:1 meetings.
 
-### What is the expected outcome of a CDF Review?
+#### What is the expected outcome of a CDF Review?
 CDF reviews should result in actionable improvement focus areas for the product manager. When conducting a CDF review, managers should consider drilling into specific items within the PM's purview to highlight where the team member can focus on improving. [PM competencies](#competencies) are also valuable for identifying improvement areas.
 
 We also use a values alignment indicator to competencies: 
@@ -63,7 +63,7 @@ We also use a values alignment indicator to competencies:
 * [Iteration](/handbook/values/#iteration) - (I
 * [Transparency](/handbook/values/#transparency) - (T) 
 
-### Topics for Discussion in CDF Reviews by Track
+#### Topics for Discussion in CDF Reviews by Track
 
 #### CDF Topics For Product Managers
 Responsibilities outlined in the [Product Manager Job Family page](https://about.gitlab.com/job-families/product/product-manager/#role).
@@ -110,7 +110,7 @@ Responsibilities outlined in the [Product Manager Job Family page](https://about
 
 * N/A
 
-#### CDF Topics For Group Managers of Product
+##### CDF Topics For Group Managers of Product
 Responsibilities outlined in the [Group Manager of Product Job Family page](/job-families/product/product-management-leadership/#group-manager-product-gmp).
 
 **Validation Track Skills**
@@ -146,12 +146,12 @@ Responsibilities outlined in the [Group Manager of Product Job Family page](/job
 * Strategy alignment
 * Rapport with direct reports
 
-## Evaluating Product Manager's potential
+### Evaluating Product Manager's potential
 When evaluating a product manager's potential, in addition to the [generic information](/handbook/people-group/performance-assessments-and-succession-planning/#what-is-potential) outlined, we also want to evaluate potential based on the unique and outsized impact PMs can have. We acknowledge that the evaluation will remain more qualitative than quantitative, but rather than shy away from making an evaluation, we will lean in using the information below.
 
 We can think about the Product Manager's potential primarily on two axis: value creation and leadership.
 
-### Value Creation
+#### Value Creation
 Product managers are in the business of creating value, measurable by [Product KPIs](https://about.gitlab.com/handbook/product/performance-indicators/#structure). They prioritize the most important thing to unlock the most value at the intersection of the business and the user or buyer.
 
 We expect product managers to create value across the business by excelling at execution in at least the following levels. When thinking of a PM's potentials, consider their capacity to expand their influence beyond their current level.
@@ -165,7 +165,7 @@ We expect product managers to create value across the business by excelling at e
 | **Director** |  cross-stage, cross-department |
 | **VP and up** |  company-wide or new business/industry |
 
-### Leadership
+#### Leadership
 As product managers grow in experience and seniority, they are tasked with shaping alignment, producing results, and leading with increasing responsibilities. Understanding how to set the tone with vision and strategy, and knowing how to control output in a system comprised of people, culture, technology, and process is how product managers lead.
 
 We expect product managers to be a leader at the following levels. When evaluating potential, consider the PM's capacity to be a leader with more scope.
@@ -178,7 +178,7 @@ We expect product managers to be a leader at the following levels. When evaluati
 | **Senior Director** |  cross-department |
 | **VP** |  company-wide |
 
-### A framework for evaluating potential
+#### A framework for evaluating potential
 It can be challenging objectively evaluating product managers for categorization of Low, Medium and High potential as suggested in the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). Consider using the following framework to rank a PM's potential. Assign a ranking, 1 (Low) - 5 (High) to each attribute below. Add up the rankings for a total score. A score between 5-11 is low potential, 12-18 is medium potential, 19-25 is high potential.
 
 | Attribute | Reasoning|
@@ -189,16 +189,16 @@ It can be challenging objectively evaluating product managers for categorization
 | Ambitious | High potential PMs stretch themselves and make themselves available to new responsibility.|
 | Self-awareness | A large part of leadership is knowing where you are not strong and building relationships to fill in the gaps. |
 
-#### Make evaluating potential actionable
+##### Make evaluating potential actionable
 Product managers are typically driven and high performing individuals, and we often overestimate our own abilities relative to others. Seeing even a medium potential may be disappointing to many PMs. It should be made clear that a perceived lower than desired potential does not mean the PM is not valued and not performing to expectation. Managers should use a [CDF Review](https://about.gitlab.com/handbook/product/product-manager-role/#cdf-reviews) to discuss the scoring of the potential. The outcome should be to identify opportunities for the PM to grow and areas for the manager to mentor and coach the PM.
 
-# Competencies
+## Competencies
 
 Product Managers must be able to demonstrate a variety of skills across our CDF. We provide additional career development guidance by listing priority [competencies](/handbook/competencies/) for each CDF category.
 
 At the moment we are working building out our Product Management Competencies.
 
-## Validation Track Competencies
+### Validation Track Competencies
 
 The [validation track](/handbook/product-development-flow/#validation-track) is the first phase of GitLab's Product Development Workflow. Industry wide, this track is commonly referred to as ideation and research. This phase lays the foundation for designs and solutions. When the business and users problems are well understood, the more likely it is that the product will solve the user's problem and the higher likelihood that those users will enjoy the solution.
 
@@ -216,7 +216,7 @@ Using a competencies model will help Product Managers understand the expectation
 **Note:** Visit the [Product L & D](./learning-and-development/#discovery)) for more resources to support  development in this area.
 {:.alert .alert-info}
 
-### Customer Interviewing Competency
+#### Customer Interviewing Competency
 
 Customer interviewing is essential to clearly defining the user's needs, problems, and jobs to be done. At GitLab, customer interviewing is typically done in partnership with User Experience, including Product Design and User Research. This competency will help Product Managers get stronger at problem identification and curating a solid foundation for user stories, prototypes and solutions to be built upon.
 
@@ -230,7 +230,7 @@ Customer interviewing is essential to clearly defining the user's needs, problem
 | **Vice President PM** | In addition to the requirements of the senior director requirements, vice president’s proactively inform the validation process, goals, and frameworks with context from the global company and external stakeholders, like investors. | Customer Interview Assessment - People Leaders - Coming Soon |
 | **EVP/Chief Product** | In addition to upholding the requirements of a VP, the executive vice president should advocate for the validation framework and goals across the company. Comfortable representing the way product decisions are informed and designed within and outside of the company. | Customer Interview Assessment - People Leaders - Coming Soon |
 
-### Opportunity Canvas Competency
+#### Opportunity Canvas Competency
 
 Determining if an opportunity is worth pursuing and whether to solve it “now” is a critical product management skill. Being able to clearly communicate a problem, who is experiencing it, the potential reach of a solution (customers or market size), and GitLab’s vision for solving it (both in the short and long term) is critical to validating if an opportunity is worth pursuing. GitLab uses the Opportunity Canvas as this communication artifact, alongside formal Opportunity Canvas reviews to vet larger opportunities like [new categories](https://about.gitlab.com/handbook/product/product-processes/#adding-a-new-category-to-a-stage) or [stages](https://about.gitlab.com/handbook/product/product-processes/#adding-a-new-stage). This competency helps Product Managers get stronger at articulating problems and solution spaces. Used correctly, the Opportunity Canvas determines both the merit and urgency of solving a problem and frames and phases the solution. 
 
@@ -246,13 +246,13 @@ Visit [GitLab specific competencies content](/handbook/product/product-manager-r
 | **Vice President PM** | In addition to the requirements of the Senior Director requirements, Vice Presidents proactively inform the validation process, goals, and frameworks with context from the global company and external stakeholders, like investors. | TBD |
 | **EVP/Chief Product** | In addition to upholding the requirements of a VP, the Executive Vice President should advocate for the validation framework and goals across the company. Comfortable representing the way product decisions are informed and designed within and outside of the company. | TBD |
 
-## Business Competencies
+### Business Competencies
 Product Managers are responsible for driving the success for a product area. Understanding market dynamics along side the ability to organize, influence, and iterate to reach the desired outcomes is essential.
 
 **Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#business-acumen).
 {:.alert .alert-info}
 
-### Understanding Buyer Based Tiering
+#### Understanding Buyer Based Tiering
 GitLab has an [Open Core](https://en.wikipedia.org/wiki/Open-core_model) business model and generate the majority of revenue from [paid tiers](/pricing/). While general pricing decisions are made by the CEO, [determining pricing tier for product features](/company/pricing/#departments) is an important aspect of the Product Manager's job. We use a [buyer based tiering](/company/pricing/#buyer-based-tiering-clarification) model to determine which of the [four tiers](/company/pricing/#four-tiers) a feature belongs to. Being able to clearly define and articulate pricing decisions and strategy is a critical competency for PMs to master in order to influence the success of GitLab's business.
 
 |  **Level** | **Demonstrates Competency by...**| **Assessment** |
@@ -263,14 +263,14 @@ GitLab has an [Open Core](https://en.wikipedia.org/wiki/Open-core_model) busines
 
 |**Director PM**| Ensures consistent application of buyer based tiering across product stages. Coaches Product Managers on market-specific buyer needs and go-to-market strategy. Applies [consumption pricing principles](/company/pricing/#consumption-pricing-principles) to help simplify pricing and make GitLab more scalable. Ensures [tiering and pricing changes](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change) do not have any preventable negative financial or business model impact. | TBD |
 
-## Communication Competencies
+### Communication Competencies
 
 [Product Managers communicate](/handbook/product/product-processes/#communication) to various audiences across an array of medium. As a result the set of communication competencies for Product Managers is more diverse than those for other positions.
 
 **Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#communication).
 {:.alert .alert-info}
 
-### Writing to Inspire Action Competency
+#### Writing to Inspire Action Competency
 
 [Writing to inspire action](/handbook/product/product-processes/#writing-to-inspire-action) is a critical competency for PMs in order to facilitate a bias towards action within their [Product Groups](/company/team/structure/#product-groups). PMs communicate with a wide variety of audiences one key to inspiring action via your writing is focusing on what your reader values.
 
@@ -280,7 +280,7 @@ GitLab has an [Open Core](https://en.wikipedia.org/wiki/Open-core_model) busines
 | **Sr. PM**| Proactively intervening when async communication becomes drawn out by focusing on boring solutions, starting with a proposal, garnering a sense of urgency, and taking a bias towards action. You can spot these by looking for long single comments and multiple comments back and forth. You can respond with - "I've updated the proposal with what is being discussed, let's respond to that new proposal.", "I don't think this dialog is moving us forward, can we get back to the problem statement at hand?" and "I've removed that part of the proposal to stay focused on what we can delivery quickly." | Writing to Inspire Action Assessment coming soon |
 | **Principal PM/ Group Manager PM**| Coaches others by taking advantage of teachable moments to highlight how team members could better communicate to inspire action in others. It's best to do this in private but you can spot them when you see other team members continuing long-running dialog despite it no longer being action oriented. | Writing to Inspire Action Assessment coming soon |
 
-### Communicating to Internal Executives
+#### Communicating to Internal Executives
 
 In any position, communicating to internal executives can be intimidating. As Product Managers at GitLab, there are many responsibilities assigned to you as the DRI for your scope. One of those responsibilities is to educate others in the company as the subject matter expert for how to best pursue our product goals. That includes senior executives. Most have the benefit of a more global perspective than yours but _none_ have put more thought into your product scope than you. When communicating it's important to seek to understand their global perspective and intent, and inform that intent and challenge their proposals based on your expertise. Your boss (or your bosses bosses boss) would be supremely disappointed if they know that you were directly actioning on their suggestions without first applying your knowledge and expertise, educating them directly and propsing alternatives.
 
@@ -292,7 +292,7 @@ Here's a [brief video](https://www.youtube.com/watch?v=MrWjb76ndSw&feature=youtu
 | **Sr. PM**| Communicating with confidence of current perspective in your assigned product scope and willingness to accept and assimilate new global perspectives | TBD |
 | **Principal PM/ Group Manager PM**| Expanding your confidence beyond your assigned product scope and proactively educating others on new global perspective | TBD |
 
-## Build Track Competencies
+### Build Track Competencies
 The [build track](/handbook/product-development-flow/#build-track) is the second phase of GitLab's Product Development Workflow. This track is the execution phase for the solutions that were validated and designed during the Validation track.
 
 Using a competencies model will help Product Managers understand the expectations of the build track at each level in the Product Management organization. The competencies in the build track are:
@@ -305,7 +305,7 @@ Using a competencies model will help Product Managers understand the expectation
 **Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#delivery).
 {:.alert .alert-info}
 
-### Breaking Down Issues
+#### Breaking Down Issues
 The ability to break down larger features and functionality into small iterative issues is a key skill of any Product Manager. Breaking down issues into small iterations enables the development team to quickly understand what is the next most important iteration to execute.  To be skilled in this competency, a Product Manager must have a deep understanding of the customer problem to be solved, a strong familiarity with how GitLab is architected, and familiar with how software applications function.
 
 |  **Level** | **Demonstrates Competency by...**| **Assessment** |
@@ -318,16 +318,16 @@ The ability to break down larger features and functionality into small iterative
 | **Vice President PM** |TBD||
 | **EVP/Chief Product** |TBD||
 
-### People Management Competencies
+#### People Management Competencies
 Individual contributor product managers and managers of product managers are leaders of their respective group, stage, and section. Product managers influence and manage a diverse set of teammates. As a result, even individual contributors need to develop strong people management competencies.
 
 **Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#team-management).
 {:.alert .alert-info}
 
-### Managing Team Performance
+#### Managing Team Performance
 Successfully [managing team performance](/handbook/people-group/learning-and-development/building-high-performing-teams/#what-makes-a-high-performing-team-at-gitlab) enables Product Managers to bring the most successful product to market in the most efficient manner.
 
-### Facilitating Career Development Conversations
+#### Facilitating Career Development Conversations
 
 Product Managers are highly encouraged to engage with their managers on Career Coaching. Here are some resources to help managers support their team members:
 - A [template for Career Coaching conversations](https://docs.google.com/document/d/1B1zNIH2lOIAvFnycSS5KiOIh_zoyXfYp45CKi91K1vk/edit) between Manager and Team Member
@@ -339,7 +339,7 @@ Product Managers are highly encouraged to engage with their managers on Career C
 | **Manager of IC PMs** | [Hires and retains](/handbook/leadership/#talent-acquisition-and-retention) talented product managers. Enables Product Managers to be a [manager of one](/handbook/leadership/#managers-of-one). Helps direct reports thrive and improve via [CDF Reviews](#cdf-reviews). Coaches direct reports to stretch their skillset and sharpen existing skills. Are available to provide strategic or tactical input. Recognizes when [process](/handbook/leadership/#process-gets-a-bad-rep) can improve efficiency, is important for [global optimization](/handbook/values/#global-optimization), or is detrimental to autonomy and team performance and actively acts to address. Enables direct reports to [take time off](#taking-time-off) yet maintain group's forward momentum. | TBD |
 | **Manager of PM Managers** |TBD||
 
-## Future Competencies
+### Future Competencies
 
 Here is our prioritized list of future competencies. We'll add them to our competencies list by starting with the top priority in each skill category. We'll add more detail and content for each one of these as we add them to the PM competencies list.
 
@@ -373,7 +373,7 @@ People Management Skills
 1. Aligning Your Team on Strategy
 1. Applying Situational Leadership
 
-## Contributing to our PM Competencies
+### Contributing to our PM Competencies
 
 Every GitLab team member is encouraged to contribute to the list of prioritized Product Manager competencies, as well as the content for each competency via merge requests to this page.
 
