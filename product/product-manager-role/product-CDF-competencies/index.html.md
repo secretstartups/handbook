@@ -278,7 +278,7 @@ Communication Skills
 **Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#communication).
 {:.alert .alert-info}
 
-#### Writing to Inspire Action
+#### Writing to Inspire Action Competency
 
 [Writing to inspire action](/handbook/product/product-processes/#writing-to-inspire-action) is a critical competency for PMs in order to facilitate a bias towards action within their [Product Groups](/company/team/structure/#product-groups). PMs communicate with a wide variety of audiences one key to inspiring action via your writing is focusing on what your reader values.
 
