@@ -101,7 +101,7 @@ Once the total rewards team has approved the bike or ticket application, an invo
  * Team members must designate all time off for illness as `Out Sick` to ensure that PTO is properly tracked.
  
 ### Vacation Leave
-*Team members are entitled to a maximum of four weeks of statutory vacation each year, which is calculated in accordance with the [Organisation of Working Time Act of 1997](https://revisedacts.lawreform.ie/eli/1997/act/20/revised/en/html#SEC19). Part-time team members’ entitlement is calculated on a pro-rata basis. Unused statutory vacation time may not be carried over into the following calendar year, other than under exceptional circumstances and with GitLab’s prior written consent. GitLab does not provide pay in lieu of unused statutory vacation entitlement other than on termination of employment. If your employment terminates for any reason, you will receive pay for any accrued but unused statutory vacation entitlement. If your employment terminates, and at the date of termination you have exceeded your statutory vacation entitlement, the excess will be deducted from your final pay. Vacation leave runs concurrently with GitLab PTO. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
+* Team members are entitled to a maximum of four weeks of statutory vacation each year, which is calculated in accordance with the [Organisation of Working Time Act of 1997](https://revisedacts.lawreform.ie/eli/1997/act/20/revised/en/html#SEC19). Part-time team members’ entitlement is calculated on a pro-rata basis. Unused statutory vacation time may not be carried over into the following calendar year, other than under exceptional circumstances and with GitLab’s prior written consent. GitLab does not provide pay in lieu of unused statutory vacation entitlement other than on termination of employment. If your employment terminates for any reason, you will receive pay for any accrued but unused statutory vacation entitlement. If your employment terminates, and at the date of termination you have exceeded your statutory vacation entitlement, the excess will be deducted from your final pay. Vacation leave runs concurrently with GitLab PTO. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
  
  
  
@@ -117,7 +117,7 @@ Once the total rewards team has approved the bike or ticket application, an invo
  
 **Parent’s Leave:** All team members who qualify as “relevant parents” (https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parents_leave.html) can take up to 5 weeks of Parent's Leave during the first 2 years of their child's life, or within 2 years of the adoption event. Leave may be taken in one continuous period, or in several periods of not less than one week.
  
-** Parental Leave:** All team members who qualify as “relevant parents” (https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parental_leave.html) can take up to 26 weeks of unpaid Parental Leave.
+**Parental Leave:** All team members who qualify as “relevant parents” (https://www.citizensinformation.ie/en/employment/employment_rights_and_conditions/leave_and_holidays/parental_leave.html) can take up to 26 weeks of unpaid Parental Leave.
  
 #### GitLab Parental Leave Payment
 * For team members who are eligible for GitLab Parental Leave and are eligible to receive State Maternity/Adoptive/Paternity/Parent’s benefit from the Department of Social Protection (DSP), GitLab will supplement their pay so that they receive 100% of their salary for up to a total of 16 weeks of leave taken in the first year after the birth/adoption event. The 16-week balance is per birth or adoption event. 
@@ -167,11 +167,11 @@ To initiate your leave, submit your time off by selecting the `Parental Leave` c
 * Leave may be taken in one continuous period of 104 weeks, or in several periods that amount to no more than 104 weeks.
 * The minimum period of Carer’s Leave you can take is 13 weeks. If Carer’s Leave is taken in more than one period, there must be at least 6 weeks in between each period.
 * You must submit written notice to Total Rewards (total-rewards@gitlab.com) of your intention to take Carer's Leave at least 6 weeks before the leave begins. Written notice must include the following details:
- * The date on which you intend to commence the leave
- * The duration of the leave
- * The manner in which you propose to take the leave
- * A statement that an application for a decision that the person to be cared for is a relevant person for the purposes of the Carer's Leave Act, 2001, has been made to the Department of Employment Affairs and Social Protection
- * Your signature and date
+    1. The date on which you intend to commence the leave
+    1. The duration of the leave
+    1. The manner in which you propose to take the leave
+    1. A statement that an application for a decision that the person to be cared for is a relevant person for the purposes of the Carer's Leave Act, 2001, has been made to the Department of Employment Affairs and Social Protection
+    1. Your signature and date
 * Once notice has been given, the team member must submit a copy of the decision from the Deciding Officer of the Department of Employment Affairs and Social Protection, that the person to be cared for is medically certified as requiring full-time care and attention.
 * Once Carer’s Leave has been approved, at least two weeks before the start of leave, the team member must complete a [confirmation document](https://docs.google.com/document/d/1uQ6EldAAxS0gvr9bQ7SXkrsWVh-Yccs5M9HZgvZMRMc/edit?usp=sharing). GitLab will retain a copy, and provide the team member with a copy.
 * If you have enough PRSI contributions, you may qualify for [Carer's Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/carers/carers_benefit.html) from the Department of Social Protection. If you do not qualify for Carer’s Benefit, you may qualify for [Carer's Allowance](https://www.citizensinformation.ie/social_welfare/social_welfare_payments/carers/carers_allowance.html). You can take Carer's Leave even if you do not qualify for these payments.
