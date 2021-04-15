@@ -24,7 +24,7 @@ During the month of March, the Learning and Development team encouraged team mem
 1. LinkedIn Learning courses on [Mindful Stress Management](https://gitlab.edcast.com/pathways/time-off-is-productive-develop-your-rest-ethic/cards/1257710) and [How to create a life of meaning and purpose](https://gitlab.edcast.com/pathways/time-off-is-productive-develop-your-rest-ethic/cards/1257713)
 1. A call to action to contribute to our handbook section entitled [Your rest ethic is as important as your work ethic](/company/culture/all-remote/mental-health/#your-rest-ethic-is-as-important-as-your-work-ethic)
 
-![rest-ethic-handbook](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/rest-ethic.jpg)
+![rest-ethic-handbook](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/rest-ethic.png)
 
 Take some time this month to learn strategies about how you can build your own rest ethic. Remember that team members can use the [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) to expense courses like the Time Off: Design your Rest Ethic course linked above.
 
