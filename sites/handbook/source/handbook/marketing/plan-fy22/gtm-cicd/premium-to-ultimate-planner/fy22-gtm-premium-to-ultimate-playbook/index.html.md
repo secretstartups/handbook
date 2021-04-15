@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "FY22 GTM Sales Play <br> Upsell Premium  => Ultimate"
+title: "Sales Play: Upsell Premium to Ultimate"
 ---
 
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
@@ -47,7 +47,6 @@ Consider the following questions:
 * Are the capabilities and PBOs that are enabled by GitLab Ultimate important to the customer? Why or why not? How do you know?
  
 ## Value Discovery
-
 
 ### Common Pains  
 
@@ -112,13 +111,13 @@ Note: if they say they do NOT want to shift left and empower developers to find 
 
 ### How GitLab Does It
 
-- [How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements) (link includes benefits, videos, and more.)
+[How GitLab meets the market requirements for security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#how-gitlab-meets-the-market-requirements) (link includes benefits, videos, and more.)
 
 ### How GitLab Does It Better 
 
 With GitLab Ultimate, organizations are able to truly shift security left (and right!) to reduce exposure and align security with dev. Emergent advantages include unparalleled visibility and insights and much easier traceability with consistent compliance to policies or regulatory requirements for cleaner, easier audits. 
 
-**[Key GitLab differentiators](https://cblake-master-patch-70404.about.gitlab-review.app/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators)** include:
+**[Key GitLab differentiators](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators)** include:
 
 1. Detailed and Actionable Scan Results Displayed in MRs created from Feature Branch
 1. Block MRs based on Security Policy
@@ -179,27 +178,33 @@ Marketing is running a related demand gen campaign to drive leads to you using t
 
 Note TBD: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
 
-1. **Initial qualification meeting 1** - use #value-discovery above to assess business objectives. Use these recommended assets based upon areas of most interest:
+1. **Initial qualification meeting 1** - use the [value discovery](#value-discovery) section above to assess business objectives. Use these recommended assets based upon areas of most interest:
    * Cost and/or complexity⇒ use ROI template (link) discussion   
    * vulnerabilities/risk ⇒  security deck (link) as preface to next mtg  
    * compliance/software supply chain security ⇒ compliance deep dive deck (TBD as preface to next mtg (will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24  
+
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
+
 **Metric:** Sales Accepted Opp
 
-1. **Meeting 2** - purpose is to understand customer’s interest in one or more of the topics of interest and provide a deep dive on:
+2. **Meeting 2** - purpose is to understand customer’s interest in one or more of the topics of interest and provide a deep dive on:
    * Vulnerability mgmt (deck and PM/PMM to engage)
    * Container security (deck and PM/PMM to engage)
    * Policy management (deck and PM/PMM to engage)
    * Auditing and Compliance reporting (deck and PM/PMM to engage)
    * Security of software supply chain (deck and PM/PMM to engage)  
+
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer  
+
 **Metric:** Sales stage x
 
-1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.
+3. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.
    * Share CISO deck and review more detailed ROI (if needed)
    * Identify key value driver, champion, and economic buyer
    * Ask for POV to prove value unique to this customer
+
 **Milestones:** agree to next meeting  
+
 **Metric:** Sales stage x 
 
 
