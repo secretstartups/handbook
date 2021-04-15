@@ -23,20 +23,21 @@ Think *security and reducing risk, protecting the business's intellectual proper
 
 ### Messaging and Positioning
 
-| **Positioning statement** | GitLab Ultimate helps you reduce and manage risk, protect your IP, and streamline the software delivery process by embedding security and compliance into your DevOps workflows, unifying teams under one roof. <br> <br> 
-|-----------|-------------------------------------------------------------------------|
-| **Elevator pitch** |  GitLab Ultimate is ideal for projects with executive visibility and strategic organizational usage. Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. |
-| **Long description** | GitLab Ultimate helps organizations and teams achieve advanced DevOps maturity via enterprise-level application security capabilities, advanced insights/analytics at the project, group, and instance level, and enterprise-grade priority support. This includes 24/7 uptime support with live upgrade assistance and named Technical Account Manager to assure you meet your goals **and** have expertise at your side to overcome challenges when you need it most. |
+| **Positioning statement** | GitLab Ultimate helps you reduce and manage risk, protect your IP, and streamline the software delivery process by embedding security and compliance into your DevOps workflows, unifying teams under one roof. |
+|:-----------|--------------------------------------|
+| **Elevator pitch** |  GitLab Ultimate is ideal for projects with executive visibility and strategic organizational usage. <br> <br> Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. |
+| **Long description** | GitLab Ultimate helps organizations and teams achieve advanced DevOps maturity via enterprise-level application security capabilities, advanced insights/analytics at the project, group, and instance level, and enterprise-grade priority support. <br> <br> This includes 24/7 uptime support with live upgrade assistance and named Technical Account Manager to assure you meet your goals **and** have expertise at your side to overcome challenges when you need it most. |
 
-| **Key-Values** | Single app with end-to-end visibility and insights | Embedded security that’s contextual + congruent to DevOps processes | Leading SCM, CI, and code review in one | Modern CD with compliance |
+| **Key-Values** | Single app with end-to-end visibility and insights | Embedded security that’s contextual + congruent to DevOps processes | Leading SCM, CI, and code review in one | Transparent and collaborative |
 |--------------|----------------------------------------------------------|--------------|--------------|
-| **Promise** | wip |  |  |  |
-| **Pain points** |  |  |  |  |
-| **Why GitLab** |  |  |  |   |
+| **Promise** | Lovable developer UX with executive visibility  | Built in security and compliance shifted all the way left | No plugins or costly integrations to maintain | Streamline processes and empower teams to make better decisions |
+| **Pain points** | In a constant state of asking "what changed!?" | Increased risk of vulnerabilities, difficult audits | Complexity, added overhead | Inefficient, stifles innovation |
+| **Why GitLab** | Reduce exposure and unify teams | Reduce risk, easily scalable |  Completely integrated from idea to production | Single source of truth to focus on remediation, less friction  |
 
 Additional Ultimate value: 
 - Enterprise-grade priority support, including 24/7 uptime support, a named Technical Account Manager (TAM), and live upgrade assistance are all still included with Ultimate.
 - Access to free guest users
 - Project, portfolio and requirements management [value](https://about.gitlab.com/pricing/ultimate/#project-portfolio-and-requirements-management)
+- Modern CD with compliance
 
 | **Proof points** |  [Glympse](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/issues/22), [BI Worldwide](https://11211-wip-web-page-for-premium-to-ultimate-sales-play.about.gitlab-review.app/customers/bi_worldwide/), [Jasper](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/issues/49), [Wag!](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/case-study-content/-/issues/14), [HERE Tech](https://developer.here.com/blog/shifting-security-left-in-the-here-platform) |
