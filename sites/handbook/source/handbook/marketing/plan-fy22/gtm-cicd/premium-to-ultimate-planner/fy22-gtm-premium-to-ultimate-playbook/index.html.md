@@ -47,7 +47,7 @@ Consider the following questions:
 * Are the capabilities and PBOs that are enabled by GitLab Ultimate important to the customer? Why or why not? How do you know?
  
 ## Value Discovery
-
+{ :#value-discovery}
 ### Common Pains  
 
 GitLab Premium customers may be experiencing one or more of the below challenges:
@@ -178,7 +178,7 @@ Marketing is running a related demand gen campaign to drive leads to you using t
 
 Note TBD: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
 
-1. **Initial qualification meeting 1** - use (#value-discovery) above to assess business objectives. Use these recommended assets based upon areas of most interest:
+1. **Initial qualification meeting 1** - use the [value discovery](#value-discovery) section above to assess business objectives. Use these recommended assets based upon areas of most interest:
    * Cost and/or complexity⇒ use ROI template (link) discussion   
    * vulnerabilities/risk ⇒  security deck (link) as preface to next mtg  
    * compliance/software supply chain security ⇒ compliance deep dive deck (TBD as preface to next mtg (will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24  
