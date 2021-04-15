@@ -211,7 +211,7 @@ In order to rank accounts each Enterprise Sales rep would update the 'Account Ra
 ## Account Ranking for Commercial Sales
 It is a requirement for the Commercial Sales Team to tier their accounts using the fields on the Account Object. This helps prioritize the accounts to go after when prospecting for new or expansion. Please see the [Account Ranking section of the Commercial Sales handbook](/handbook/sales/commercial/#account-ranking) for definitions specific to SMB and Mid-Market AEs.
 
- 
+
 
 ### Account Ownership Rules of Engagement 
 
