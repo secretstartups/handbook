@@ -1,3 +1,8 @@
+---
+layout: handbook-page-toc
+title: Development Department
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -76,30 +81,23 @@ The development team is responsible for developing products in the following cat
 
 The following people are permanent members of the Development Department:
 
-``` sse
 <%
 departments = ['Verify', 'Package', 'Release', 'Protect', 'Dev' , 'Enablement', 'Fulfillment', 'Growth', 'Ops', 'Secure', 'Fellow']
 department_regexp = /(#{Regexp.union(departments)})/
 %>
-```
 
-``` sse
 <%=  direct_team(role_regexp: department_regexp, manager_role: 'VP of Development') %>
-```
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-``` sse
 <%= stable_counterparts(role_regexp: /[,&] Development/, direct_manager_role: 'VP of Development') %>
-```
 
 ## Team Composition
 
 This is the breakdown of our department by section and by stage.
 
-``` sse
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
     <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 8817664,dashboard: 673088 , embed: "v2"}) %>">
@@ -107,9 +105,7 @@ This is the breakdown of our department by section and by stage.
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
-```
 
-``` sse
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
     <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 8817717,dashboard: 673088, embed: "v2"}) %>">
@@ -117,11 +113,9 @@ This is the breakdown of our department by section and by stage.
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
-```
 
 This is the stack-up of our engineers, by level.
 
-``` sse
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
     <embed width="100%" height="100%" style="min-height:300px;" src="<%= signed_periscope_url({ chart: 8737993,dashboard: 673088, embed: "v2"}) %>">
@@ -129,7 +123,6 @@ This is the stack-up of our engineers, by level.
   <% else %>
     <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
 <% end %>
-```
 
 ## How We Work
 
@@ -225,6 +218,24 @@ Below are tips for developing individual's OKRs:
 
 1. [Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7253)
 1. [Development](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7148)
+
+## Engineering Allocations and Tracking
+
+[Engineering Allocation](https://about.gitlab.com/handbook/engineering/#engineering-allocation) require us to track goals with more diligence and thought.  We need confidence that we’re making correct decisions and executing well to these initiatives. As such, you will see us reviewing these more closely than other initiatives.  We will meet on a cadence to review these initiatives and request additional reporting to support the process.  Possible requests for additional data:
+
+1. [Demos](https://about.gitlab.com/handbook/engineering/#engineering-demo-process)
+1. [GitLab Roadmaps](https://docs.gitlab.com/ee/user/group/roadmap/)
+1. [Gitlab Architecture Workflow](https://about.gitlab.com/handbook/engineering/architecture/workflow/)
+1. <span class="colour" style="color: rgb(0, 0, 0);">Dogfooding of features we think may be useful</span>
+
+<span class="colour" style="color: rgb(0, 0, 0);">Proposed Engineering Allocation Checkpoint </span>
+
+- <span class="colour" style="color: rgb(0, 0, 0);">Cadence: Weekly</span>
+- <span class="colour" style="color: rgb(0, 0, 0);">Agenda (for each Group/Stage):</span>
+    - <span class="colour" style="color: rgb(0, 0, 0);">Progress on allocation (roadmap review)</span>
+    - <span class="colour" style="color: rgb(0, 0, 0);">Blueprint decisions and policy questions (architecture review)</span>
+    - <span class="colour" style="color: rgb(0, 0, 0);">Demo videos</span>
+    - <span class="colour" style="color: rgb(0, 0, 0);">Blockers/Escalations</span>
 
 ### Ownership of Shared Services and Components
 
@@ -473,9 +484,7 @@ clubs around these books and those listed on our [Leadership page](/handbook/lea
 
 ## Common Links
 
-``` sse
 * [Development department board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Development%20Department)
 * [Current OKR's](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1008667?scope=all&utf8=✓&state=opened&label_name[]=Development%20Department&label_name[]=OKR)
 * Slack channel [#development](https://gitlab.slack.com/messages/C02PF508L)
 * [Manager Notes](/handbook/engineering/development/managers)
-```
