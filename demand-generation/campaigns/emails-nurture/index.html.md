@@ -292,19 +292,26 @@ The approval table below applies to non-Marketing emails.
 {: #best-practices .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+### Subject line best practices (and preview text)
+{: #best-practices-subject-lines}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+* Do not exceed 90 characters
+* Need to learn more of Nout's advice
+* The preview text is the first sentence displayed in an email client alongside the subject line (before opening the email)
+
 ### Email content best practices
 {: #best-practices-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-*  Email copy should be shorter and more conversion-oriented
-*  Avoid walls of text when possible
-*  Use extremely clear wording and remove words that don't provide value
-*  Minimize CTAs (calls-to-action)
-*  Take advantage of content hierarchy
-*  Use humor when it makes sense
-*  Craft compelling subject lines and employ the preview text as a complement to the subject line
-*  Focus on value-first content and CTAs. Ask yourself: "what's in it for the subscriber?"
-*  Make sure that the size of your HTML file does not exceed 102kb, otherwise gmail will truncate your email and your email will be out of compliance.
+* Email copy should be shorter and more conversion-oriented
+* Avoid walls of text when possible
+* Use extremely clear wording and remove words that don't provide value
+* Minimize CTAs (calls-to-action)
+* Take advantage of content hierarchy
+* Use humor when it makes sense
+* Focus on value-first content and CTAs. Ask yourself: "what's in it for the subscriber?"
+* Make sure that the size of your HTML file does not exceed 102kb, otherwise gmail will truncate your email and your email will be out of compliance.
 
 ### Design best practices
 {: #best-practices-design}
