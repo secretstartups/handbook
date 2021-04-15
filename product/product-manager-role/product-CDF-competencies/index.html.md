@@ -1,4 +1,3 @@
-
 ---
 layout: handbook-page-toc
 title: Product Management CDF and Competencies
