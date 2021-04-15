@@ -190,7 +190,7 @@ Product managers are typically driven and high performing individuals, and we of
 
 ## Competencies
 
-Product Managers must be able to demonstrate a variety of skills across our CDF. We provide additional career development guidance by listing [competencies](/handbook/competencies/) for each CDF category in order of priority. We are currently  building out our Product Management competencies. Any competencies that are not yet confirmed are marked as  _future competencies_.  We'll add more details and supporting content for each one of these as they are confirmed.
+Product Managers must be able to demonstrate a variety of skills across our CDF. We provide additional career development guidance by listing [competencies](/handbook/competencies/) for each CDF category in order of priority. We are currently  building out our Product Management competencies. Any competencies that are not yet confirmed are lower in the list and not linked to supporting materials.   We'll add more details and supporting content for each one of these as they are confirmed.
 
 ### Validation Track Competencies
 
