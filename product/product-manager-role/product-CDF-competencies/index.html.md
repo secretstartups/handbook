@@ -200,7 +200,7 @@ Using a competencies model will help Product Managers understand the expectation
 
 1. [Customer Interviewing](# customer-interviewing-competency)
      - supporting educational content: [customer interviewing](./learning-and-development/#discovery-customer-interviewing)
-1. Creating an Opportunity Canvas
+1. [Creating an Opportunity Canvas](# opportunity-canvas-competency)
      - supporting educational content: [opportunity canvases](./learning-and-development/#opportunity-canvases)
 1. Creating a Storyboard Designing Prototypes
      
