@@ -47,7 +47,7 @@ The below table outlines the Career Development Framework used for [Product Lead
 
 ***
 
-### Performance/Potential Assessment
+### CDF Review
 
 Product Management Leadership will perform CDF reviews with their team members on a regular cadence agreed upon with their team member, to happen at every 2 to 3 months, and no less frequently than every 3 months. We encourage limited flexibility based on manager discretion because team members have different career goals, growth cadences and product challenges they may want to align with their CDF. Product Management Leadership should consider creating a recurring meeting dedicated to this topic rather than utilizing existing 1:1 meetings.
 
