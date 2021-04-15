@@ -167,7 +167,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   1. Click on `edit` on the top right side of your screen.
   1. <%= partial "team-page-fields" %>
   1. After you added your information, add a comment to your commit and click on “Commit Changes”.
-  1. Now [Create a merge request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created by clicking `Create merge request` button.
+  1. Now [Create a merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created by clicking `Create merge request` button.
   - Create a title that describes your changes at a high level.
   - Add a description of your changes
   - Assign the merge request to yourself
@@ -195,7 +195,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
            ```
         1. Follow the directions in `README.md`.
   1. After validating your changes, commit your changes to the branch of www-gitlab-com that you created in step 4, with a comment *Add FirstName LastName to team page* and push your branch. You may need to set the remote as upstream or you can use `--set-upstream` option and specify remote as upstream.
-  1. [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created and assign it to your manager for review.
+  1. [Create a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created and assign it to your manager for review.
 
   *Note:* When you test locally, the map on top of the page won't show your photo. This is because it is not populated with local data. [More about how the map works](https://gitlab.com/gitlab-com/teampage-map/blob/master/README.md#background). You will see your picture on the map as soon as your Merge Request is merged.
   *Note:* Searching the handbook in your local environment yields production results, so navigate directly to the team page via URL to see your changes.
@@ -242,7 +242,7 @@ The Web Integrated Development Environment (IDE) is used to make changes within 
   3. Edit away!  See the "Start Contributing" section, above, for details about the Markdown that most pages are written in.
   4. Preview your changes locally by following the directions in `README.md`.  Keep in mind that the local server won't auto-reload when you change a page, so you'll need to restart it to see what you've done.
   5. Once you've made your changes and verified they appear the way you want them to, commit them with a comment and push your branch.
-  6. As above, [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com).  If you're onboarding, don't forget to assign it to your manager.
+  6. As above, [Create a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com).  If you're onboarding, don't forget to assign it to your manager.
 
 ## Marking a merge request as a Work in Progress (WIP)
 
@@ -260,7 +260,7 @@ Then assign the MR to a maintainer for review and merging.
 GitLab has a lot of places you can put web content including the [website](/handbook/marketing/inbound-marketing/digital-experience/), [blog](/handbook/marketing/blog/), [docs](https://docs.gitlab.com/ee/development/documentation/index.html), and the [handbook](/handbook/handbook-usage/). Here's an overview of where you should create a merge request to add content.
 1. **[blog](/handbook/marketing/blog/)**: The blog is a great place to start. If you don't know where to put content, then write a blog post! Great blogs can always be then copied or modified for the website, docs, and handbook later. Blog posts are especially good for news, announcements, and current trends because blog posts are tied to a specific date.
 1. **[website](/handbook/marketing/inbound-marketing/digital-experience/)**: This is the main marketing site for GitLab and where folks will tend to go first to find out information about GitLab (the product and the company). The website contains a broad set of content from [product pages](/product) to [customer case studies](/customers). The website is the best place for [evergreen](https://www.wordstream.com/blog/ws/2012/10/16/guide-to-evergreen-content-marketing) articles such as [topic](/handbook/marketing/inbound-marketing/digital-experience/#topics) and [solution](/handbook/marketing/inbound-marketing/digital-experience/website/#solutions) pages since it's not tied to specific date.
-1. **[docs](https://docs.gitlab.com/ee/development/documentation/index.html)**: The docs are where are all technical information about GitLab self-managed and GitLab.com belongs. If the intended audience for the content is a user of GitLab then it should be in the docs. The docs are great place for both reference docs (what are the configurable settings for a feature, e.g. [what can you do with issues](https://docs.gitlab.com/ee/user/project/issues/index.html)) and narrative docs (how to do x with y, e.g. how to set up [HA on AWS](https://docs.gitlab.com/ee/university/high-availability/aws/README.html#doc-nav)).
+1. **[docs](https://docs.gitlab.com/ee/development/documentation/index.html)**: The docs are where are all technical information about GitLab self-managed and GitLab.com belongs. If the intended audience for the content is a user of GitLab then it should be in the docs. The docs are great place for both reference docs (what are the configurable settings for a feature, e.g. [what can you do with issues](https://docs.gitlab.com/ee/user/project/issues/index.html)) and narrative docs (how to do x with y, e.g. how to set up [HA on AWS](https://docs.gitlab.com/ee/install/aws/index.html#doc-nav)).
 1. **[handbook](/handbook/handbook-usage/)**: The handbook is for any content that needs to be [used by GitLab team-members to do their job](/handbook/handbook-usage/). If you put content on the blog, website, and docs, but you think it would be helpful for GitLab team-members to do their job then link to the content from the handbook.
 
 Sometimes the lines are blurry and it can seem as though there are multiple places that would be a good fit. For example, "how to" articles make great blog posts, but could be more discoverable to users if they are in the docs. Just pick one. It's better to create content somewhere than nowhere. When in doubt, start with the blog.
