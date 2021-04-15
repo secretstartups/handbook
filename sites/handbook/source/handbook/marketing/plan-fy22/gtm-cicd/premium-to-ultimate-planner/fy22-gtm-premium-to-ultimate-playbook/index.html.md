@@ -187,7 +187,7 @@ Note TBD: When sales gets the lead, will it show from which email it came? If so
 
 **Metric:** Sales Accepted Opp
 
-1. **Meeting 2** - purpose is to understand customer’s interest in one or more of the topics of interest and provide a deep dive on:
+2. **Meeting 2** - purpose is to understand customer’s interest in one or more of the topics of interest and provide a deep dive on:
    * Vulnerability mgmt (deck and PM/PMM to engage)
    * Container security (deck and PM/PMM to engage)
    * Policy management (deck and PM/PMM to engage)
@@ -198,7 +198,7 @@ Note TBD: When sales gets the lead, will it show from which email it came? If so
 
 **Metric:** Sales stage x
 
-1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.
+3. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.
    * Share CISO deck and review more detailed ROI (if needed)
    * Identify key value driver, champion, and economic buyer
    * Ask for POV to prove value unique to this customer
