@@ -107,8 +107,8 @@ For details regarding the *Referral Bonus Payout*, please visit [this page](/han
     * In the event that your Referral already applied, please create an [Issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) and provide as much detail as possible about the referral situation. Also, please answer the questions outlined in the *Referral Submission* template. To reiterate, Referrals should be submitted with a personal conviction that they'll be a great addition to the GitLab team. After receiving that, the appropriate Team Member will look into updating the Candidate's source information.
 * Your Referral was referred by someone else.
     * In the event that your claimed Referral was submitted by someone else, the **first** Team Member to have submit the candidate will be considered their *Referrer*.
-        * In the event of **multiple** *Referrers* claiming ownership on a similar vacancy, it will be up to the *Referrers* to decide how to split the Referral Bonus and inform Talent Acquisition Ops of that compromise.
-            * When such a situation arises, a member of the Talent Acquisition Ops Team will notify the Referrers and what will need to happen next.
+        * In the event of **multiple** *Referrers* claiming ownership on a similar vacancy, it will be up to the *Referrers* to decide how to split the Referral Bonus and inform People Ops of that compromise.
+            * When such a situation arises, a People Ops team member will notify the Referrers and what will need to happen next.
 * If you referred the candidate to **dissimilar** vacancy, then you would be named their *Referrer* for that specific vacancy.
 
 Other scenarios to be mindful of:
