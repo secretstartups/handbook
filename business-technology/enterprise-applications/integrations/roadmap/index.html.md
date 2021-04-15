@@ -49,121 +49,81 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
 <table id="capabilities-table">
     <thead>
         <tr>
-            <th style="color:DodgerBlue;">Capability</th>
-            <th style="color:DodgerBlue;">Mulesoft</th>
-            <th style="color:DodgerBlue;">Workato</th>
+            <th style="color:DodgerBlue;">Must-to-have</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th colspan="3">Design and development</th>
+            <th>Design and development</th>
         </tr>   
         <tr>
             <td>Bulk data processing</td>
-            <td class="bg-green">Yes</td>
-            <td class="bg-red">No</td>
         </tr>
         <tr>
             <td>API specifcation design</td>
-            <td class="bg-green">Yes</td>
-            <td class="bg-yellow">Maybe</td>
         </tr>
         <tr>
             <td>API Testing, Simulation and Mocking</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>    
         <tr>
             <td>Automated Build Pipeline (CI/CD pipeline)</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>          
         <tr>
             <td>Support event driven arch</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>      
         <tr>
             <td>API data model - Enterprise(Canonical) and Bounded Context (Business)</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow"></td>
         </tr>   
         <tr>
             <td>Custom Coding</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow"></td>
         </tr>  
         <tr>
             <td>Async and batch processing</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow"></td>
         </tr> 
         <tr>
-            <th colspan="3">Runtime execution and hosting</th>
+            <th>Runtime execution and hosting</th>
         </tr>        
         <tr>
             <td>Runtime high availability</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Cloud hosting</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
-            <th colspan="3">API Operations and Management</th>
+            <th>API Operations and Management</th>
         </tr>
         <tr>
             <td>API Versioning</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Runtime analytics and monitoring</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow"></td>
         </tr>
         <tr>
             <td>API Policy configuration and management</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow"></td>
         </tr>
         <tr>
             <td>API client credentials management</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
-            <th colspan="3">Storage</th>
+            <th>Storage</th>
         </tr>
         <tr>
             <td>Support for RDBMS and Data Lakes (Snowflake)</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Supports blob storage (S3 / Google Storage)</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow"></td>
         </tr>
         <tr>
             <td>FTP and SFTP (Client and server)</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
-            <th colspan="3">Security</th>
+            <th>Security</th>
         </tr>
         <tr>
             <td>Encrypting data at rest and in transit</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Secret Management</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Supported protocols should include HTTPS, TLS, SFTP, SMTP/S, IPSec</td>
@@ -172,26 +132,18 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
         </tr>
         <tr>
             <td>User roles and responsibilities</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow">Yes, but limited</td>
         </tr>
         <tr>
             <td>API gateway</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
-            <th colspan="3">Logging, Monitoring and Alerting (either natively supported or through third-party integrations)</th>
+            <th>Logging, Monitoring and Alerting (either natively supported or through third-party integrations)</th>
         </tr>
         <tr>
             <td>Different logs level</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow">Yes, but limited</td>
         </tr>
         <tr>
             <td>Structured logging</td>
-            <td class="bg-yellow">Maybe</td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Log search and retention</td>
@@ -200,163 +152,109 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
         </tr>
         <tr>
             <td>Correlation ID and request tracing</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Traffic metrics</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>SSO</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
-            <th colspan="3">API</th>
+            <th>API</th>
         </tr>
         <tr>
             <td>Data transformations - built in functions</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow">Yes, but limited</td>
         </tr>
         <tr>
             <td>Flexible webhooks</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>REST and SOAP</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Polling</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow">yes, but limited</td>
         </tr>
         <tr>
             <td>Transaction management</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
-            <th colspan="3">Security - API policies</th>
+            <th>Security - API policies</th>
         </tr>
         <tr>
             <td>Client ID enforcement</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Authentication/Authorization: OAuth, IP-based access control</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Cross-Origin Resource Sharing Control</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Payload threat protection</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Rate limiting</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Spike control</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Custom policy configuartions</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
+    </tbody>
+    <thead>
         <tr>
-            <td colspan="3" style="border-bottom:2px solid blue;text-align:center;color:blue;">Target Maturity Level</td>
+            <th style="color:DodgerBlue;">Good-to-have</th>
         </tr>
+    </thead>
+    <tbody>
         <tr>
             <td>Resuable asset discovery</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow"></td>
         </tr>
         <tr>
             <td>HTTP Caching to API invocations</td>
-            <td class="bg-green"></td>
-            <td class="bg-yellow"></td>
         </tr>
         <tr>
             <td>API usage and discoverability analytics</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>Fault-tolerant API invocation</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>API actionable documentation</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>ORM / similar</td>
-            <td class="bg-red"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Schema Migrations</td>
-            <td class="bg-yellow">May be possible, need to investigate</td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Async and sync logging</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Trigger alert from logs</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Alerts on api policy or invocations</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>ETL</td>
-            <td class="bg-yellow">Not recommended</td>
-            <td class="bg-yellow">Not recommended</td>
         </tr>
         <tr>
             <td>GraphQL</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Denial of service</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>API proxy</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Tokenization and masking</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
     </tbody>
 </table>
+
+### Enterprise integration business model for "New Busines - Direct, Web and SaaS"
 
