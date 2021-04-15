@@ -52,7 +52,7 @@ Considerations when building your path:
     - You are willing to stretch yourself with new challenges, and learn to improve from setbacks versus settle for mediocrity.
 
 ## Path to Promotion: Staff Engineering
-Choosing to move into a Staff-level role within the Support team involves an advanced level of technical skills that are often both broad and deep, in combination with leadership skills that help support and mentor other engineers. Staff Engineers lead by example, and often help to breakdown barriers between customers, Support, and other cross-functional teams by engaging in technical deep dives, contributing to bug fixes, contributing to feature enhancements, or providing architectural / performance-improving recommendations.
+Choosing to pursue a Staff-level role within the Support team involves an advanced level of technical skills that are often both broad and deep, in combination with leadership skills that help support and mentor other engineers. Staff Engineers lead by example, and often help to breakdown barriers between customers, Support, and other cross-functional teams by engaging in technical deep dives, contributing to bug fixes, contributing to feature enhancements, or providing product-improving recommendations.
 
 ### Considerations and Recommendations
 Recommendations to explore this path:
