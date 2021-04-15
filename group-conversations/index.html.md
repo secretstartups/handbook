@@ -254,8 +254,8 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-05-05 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
 | 2021-05-06 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
 | 2021-05-10 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
-| 2021-05-11 | Open | Reserved for Groups that have a Key Meeting | Yes |
-| 2021-05-12 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
+| 2021-05-11 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
+| 2021-05-12 | Open | Reserved for Groups that have a Key Meeting | Yes |
 | 2021-05-13 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
 | 2021-05-17 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
 | 2021-05-18 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
