@@ -170,3 +170,25 @@ See the [500 errors workflow](500_errors.html.md) for more information on search
 Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana.
 
 Support Engineers looking to configure a Self-Managed instance should review our [resources for development](/handbook/engineering/#resources) for a list of available (company provided) hosting options.
+
+#### Filter by IP Range
+
+Customers will sometimes give us an IP Range of their resources such as their Kubernetes cluster or other external servers that may need to access GitLab. You can search a range by using Elasticsearch Query DSL.
+
+1. Click `+ Add Filter` > `Edit as Query DSL`
+1. Use the following format to create your query:
+
+```json
+{
+  "query": {
+    "term": {
+      "json.remote_ip": {
+        "value": "192.168.0.1/20"
+      }
+    }
+  }
+}
+```
+1. Click Save to perform your query. 
+
+Note that depending on the range, this operation may be expensive so it is best to first narrow down your date range first.
