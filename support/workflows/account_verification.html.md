@@ -94,8 +94,8 @@ The (Technical) Account Manager ((T)AM) is responsible for the setup. If a custo
 1. Create an issue template called `2FA Verification.md` that contains the following:
 
    ```plain
-   User to reset: `@user`
-   ZD Ticket: `ZD ticket number`
+   - User to reset (required): `@user`
+   - ZD Ticket: `#ticket number`
    /label ~"2FA Reset"
    ```
 
@@ -112,7 +112,7 @@ If the ZenDesk organization's notes has a "2FA owner vouch" link, use the follow
 1. Use Slack and ping the individuals listed in the `2FA Reset Owners.md` file in the listed Slack channel, alerting them that a request exists, and that they can expedite the processing of the request. You can use the following as a template for this message:
 
    ```plain
-   Hi @user - we got a request from `REQUESTOR_EMAIL` to reset 2FA on their account. Could you vouch for them by creating an issue via https://gitlab.com/path/to/account/project/issues/new?issuable_template=2FA%20Verification and filling in all of the details there?
+   Hi @user - we got a request from `REQUESTOR_EMAIL` to disable 2FA on their account. Could you vouch for them by creating an issue via https://gitlab.com/path/to/account/project/issues/new?issuable_template=2FA%20Verification and filling in all of the details there?
 
    Once you've done that, link the issue here and I'll get them reset. If you don't get to this, we'll use our standard account verification procedures to determine if they're eligible for a 2FA reset.
    ```
