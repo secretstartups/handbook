@@ -436,11 +436,16 @@ When testing postgres pipeline (pgp) locally in Airflow, there are a few things 
 
 The gitlab.com read replica database used for data pulls into Snowflake occasionally has problems with replication lag. This means the database is behind in applying changes to the replica from the primary database. This can kill queries from pgp extracts and cause significant delays. The amount of lag can be monitored by [checking Thanos](https://thanos-query.ops.gitlab.net/graph?g0.range_input=2d&g0.max_source_resolution=0s&g0.expr=pg_replication_lag%7Btype%3D%22postgres-archive%22%2Cenv%3D%22gprd%22%7D&g0.tab=0&g1.range_input=3d&g1.max_source_resolution=0s&g1.expr=rate(pg_xlog_position_bytes%7Benv%3D%22gprd%22%7D%5B1m%5D)%20and%20on%20(instance)%20(pg_replication_is_replica%20%3D%3D%200)&g1.tab=0).  
 
+```mermaid
+graph LR 
+GitLab.com-DB-Live --Replication Process --> GitLab.com-DB-Replica -- Postgres Pipeline --> Snowflake-DWH --> SiSense
+```
+
 The Infrastructure team has an alert setup to post to the `#alerts` slack channel when the replication lag is over 3 hours.  The name of this alert is `PostgreSQL_ReplicationLagTooLarge_ArchiveReplica`.  Monitoring the `#alerts` channel for this alert name can help proactively address high lag situations.
 
 ### GitLab Database Schema Changes and DangerFile
 
-The data engineering team maintains a Dangerfile in the main GitLab project [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/danger/datateam/Dangerfile) with the purpose of alerting the `@gitlab-data/engineers` group about any changes to the gitlab.com schema definition file. Being notified about some schema changes is essential to avoiding errors in the extraction process from the GitLab.com database since extraction is based on running a series of select statements. The data engineer on triage for any given day is the DRI for investigating schema changes as well as creating issues for any needed action from the data team.
+The data engineering team maintains a Dangerfile in the main GitLab project [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/danger/datateam/Dangerfile) with the purpose of alerting the `@gitlab-data/engineers` group about any changes to the gitlab.com source schema definition file. Being notified about source schema changes is essential to avoiding errors in the extraction process from the GitLab.com database since extraction is based on running a series of select statements. The data engineer on triage for any given day is the DRI for investigating schema changes as well as creating issues for any needed action from the data team.
 
 ## Bash Scripting
 
