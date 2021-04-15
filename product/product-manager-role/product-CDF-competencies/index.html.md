@@ -198,7 +198,7 @@ The [validation track](/handbook/product-development-flow/#validation-track) is 
 
 Using a competencies model will help Product Managers understand the expectations of the validation track at each level in the Product Management organization. The competencies in the validation track are:
 
-1. [Customer Interviewing](# customer-interviewing-competency)
+1. [Customer Interviewing](#customer-interviewing-competency)
      - supporting educational content: [customer interviewing](./learning-and-development/#discovery-customer-interviewing)
 1. [Creating an Opportunity Canvas](# opportunity-canvas-competency)
      - supporting educational content: [opportunity canvases](./learning-and-development/#opportunity-canvases)
