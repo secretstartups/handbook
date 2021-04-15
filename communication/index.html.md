@@ -660,7 +660,7 @@ If you are hosting a meeting, it's okay not to have a presentation or have a pre
 Make a pre-recorded video presentation on our [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A), and attach it to the meeting agenda. At least 24 hours in advance of the meeting, announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand. Use the meeting time for Q&A versus presenting information to the audience with slides. 
 
 **Pre-recorded presentations enable the following:** 
-1. Pre-recording the presentation allows the time to be used for back and forth Q&A, which enables meeting attendees to have their questions answered on the topic without running out of time.
+1. Pre-recording the presentation allows the time to be used for back and forth Q&A (as seen in [Group Conversations](/handbook/group-conversations/#presentation), which enables meeting attendees to have their questions answered on the topic without running out of time.
 2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it helps team members in different timezones to consume the presentation material async versus spending time in a meeting. 
 3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A. 
 4. Standardizes the approach to meetings across the organization. 
