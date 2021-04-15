@@ -2,7 +2,6 @@
 layout: handbook-page-toc
 title: Product Management CDF and Competencies
 description: "TBD"
-canonical_path: "TBD"
 ---
 
 ## On this page
