@@ -177,13 +177,13 @@ To comment on a GitLab issue:
 Knowing how to search for a GitLab issue can be very helpful, especially if you had been looking at it but hadn't made a comment or been tagged in it. If you know some key words that were in the issue, you should be able to find it! Here's how:
 
 1. Go to [gitlab.com](https://gitlab.com/)
-1. In the top right click on the "Issues" button
-1. Click the "x" on the right of the search bar to clear
-1. If there is specific text you know is in an issue or part of it's title you can search for it by entering the text in quotations. (ex. "GitLab 101")
-1. If you don't know what text is in the issue, but you know who it is assigned to (aka "Assignee") you can click on the search box and select "z" from the drop down, then select "=", and then search for the handle of the team member you know it is assigned to
-1. You can also search using the options of "Author", "Milestone", "Release", "Label", and "My Reaction"
+1. In the top right click on the search bar
+1. Type in text you want to search for and hit enter
+1. On the next screen, select the group the issue is in that you are searching for. In this instance the group is `people-group`
+1. Then, select the project the issue is in that you are searching for. In this instance the group is `gitlab-tool-training`
+1. Click on the "issues" tab under the search bar to see all issues with the text you are searching for in that specific group and project. 
 
-This [resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on searching for an Issue.
+This [docs resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on searching for an Issue.
 
 #### Video: How to search for a GitLab Issue (~4 minutes)
 
