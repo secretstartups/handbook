@@ -127,8 +127,6 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
         </tr>
         <tr>
             <td>Supported protocols should include HTTPS, TLS, SFTP, SMTP/S, IPSec</td>
-            <td class="bg-green"></td>
-            <td class="bg-green"></td>
         </tr>
         <tr>
             <td>User roles and responsibilities</td>
@@ -147,8 +145,6 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
         </tr>
         <tr>
             <td>Log search and retention</td>
-            <td class="bg-green"></td>
-            <td class="bg-red"></td>
         </tr>
         <tr>
             <td>Correlation ID and request tracing</td>
