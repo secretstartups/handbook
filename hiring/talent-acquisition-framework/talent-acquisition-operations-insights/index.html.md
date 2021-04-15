@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Talent Acquisition Process Framework - Talent Acquisition Operations & Insights"
-description: "This page is an overview of the processes, reports, and systems that the Talent Acquisition Operations & Insights Team is responsible for."
+title: "Talent Acquisition Process Framework - Talent Operations & Insights"
+description: "This page is an overview of the processes, reports, and systems that the Talent Operations & Insights Team is responsible for."
 ---
 
 {::options parse_block_html="true" /}
@@ -12,9 +12,9 @@ description: "This page is an overview of the processes, reports, and systems th
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Talent Acquisition Process Framework - Talent Acquisition Operations & Insights
+## Talent Acquisition Process Framework - Talent Operations & Insights
 
-This page is an overview of the processes, reports, and systems that the Talent Acquisition Operations & Insights Team is responsible for. While [Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new) are best medium for fielding questions related to the aforementioned topics, we hold [Office Hours](https://docs.google.com/document/d/1JdyLg8OvYpGGLoNGpP6HhXvuoxInccZrpNJmX3pp91Y/edit) on the fourth Wednesday of each month at 11:00 am ET (3:00 pm GMT).
+This page is an overview of the processes, reports, and systems that the Talent Operations & Insights Team is responsible for. While [Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new) are best medium for fielding questions related to the aforementioned topics, we hold [Office Hours](https://docs.google.com/document/d/1JdyLg8OvYpGGLoNGpP6HhXvuoxInccZrpNJmX3pp91Y/edit) on the fourth Wednesday of each month at 11:00 am ET (3:00 pm GMT).
 
 ### System Access
 
@@ -43,7 +43,7 @@ Sourcing Team only - please contact the Sourcing Manager.
   Guide by Resource.io
   </summary>
 
-Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
+Please [contact the Talent Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -52,7 +52,7 @@ Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl
   Interview Schedule
   </summary>
 
-Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
+Please [contact the Talent Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -128,7 +128,7 @@ Please [contact the Recruiting Operations & Insights Team](https://gitlab.com/gl
 
 ### Project Access
 
-The Talent Acquisition Operations and Insights team audits users and access level permissions of the Talent Acquisition group on a monthly basis.
+The Talent Operations and Insights team audits users and access level permissions of the Talent Acquisition group on a monthly basis.
 
 ----
 ### Reporting
@@ -294,7 +294,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
 
 <details>
   <summary markdown='span'>
-  Global Self-Identification Survey Data `PAUSED`
+  Global Self-Identification Survey Data  `PAUSED`
   </summary>
 
 * **System**: Greenhouse
@@ -408,9 +408,9 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. Pull the report with the Date Range = `Start of the Current Fiscal Year` to `Plus 8-months from the Current Month`.
             * **Additions Tab**
                 * Add a column after `Hire Date` and call it `Start Status` (Column H).
-                * If the `Hire Date` is in the coming week, enter *Pending Start*. If the `Hire Date` is in future week, enter *Future Hire*. Enter *Hired* for all other `Hire Dates`.
+                * If the `Hire Date` is in the coming week, enter *Pending Start*. If the `Hire Date` is in future week, enter *Accepted Not Started (or ANS)*. Enter *Hired* for all other `Hire Dates`.
                 * Create a separate tab for a pivot table and count the number of additions by `Hire Date` and division.
-                * Create another pivot within that tab to count the number of *Pending Starts* for the current week and all *Future Hires* by divison.
+                * Create another pivot within that tab to count the number of *Pending Starts* for the current week and all *Accepted Not Started* by divison.
             * **Terminations Tab**
                 * Add a column after `Termination Date` and call it `Week Ending` (Column I).
                 * Enter the week end date (i.e. Sunday) in the ISO date format for any terminations in the current- or following week.
@@ -427,7 +427,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. Create a table from which build a stacked bar chart comparing how many terminations there were in the previous- and current weeks.
     * **Update the [Weekly People Overview](https://docs.google.com/spreadsheets/d/1L8Hl301wDqJlGg8JyxHdpa4DZdttuaX23-BRyWruMA4/edit#gid=0) sheet with the data.**
         * The main columns of the table are as follows:
-            * Division, Talent In & Talent Out for Last Week, Talent In & Talent Out for the Current Week, Headcount, Headcount including *Future Hires*, Planned Headcount at Month End, *Future Terminations*, Headcount Difference, and Headcount Difference including *Future Hires*.
+            * Division, Talent In & Talent Out for Last Week, Talent In & Talent Out for the Current Week, Headcount, Headcount including *Accepted Not Started*, Planned Headcount at Month End, *Future Terminations*, Headcount Difference, and Headcount Difference including *Accepted Not Started*.
 
 </details>
 
@@ -452,7 +452,7 @@ In the Issue, please provide the requested information and as much detail as pos
 
 ### Common Issues
 
-The Talent Acquisition Operations & Insights team utilizes [Talent Acquisition Operations Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Talent Acquisition's systems.
+The Talent Operations & Insights team utilizes [Talent Operations Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Talent Acquisition's systems.
 
 <details>
   <summary markdown='span'>
@@ -478,7 +478,7 @@ The Talent Acquisition Operations & Insights team utilizes [Talent Acquisition O
     * "I have a *Recruiter* (or *Hiring Manager*) seat, but can't access GitLab's account.
         * Please try signing-out of LinkedIn and when signing back in, please be sure to select GitLab's account. This error often appears if you had a seat with another organisation.
     * "I requested a *Hiring Manager* seat, but actually need a *Recruiter* seat (i.e. to source, message, and add prospective candidates to projects)."
-        * Please follow-up in your `Access Request` Issue and a Talent Acquisition Operations & Insights Team Member will reach out to LinkedIn Support requesting this change.
+        * Please follow-up in your `Access Request` Issue and a Talent Operations & Insights Team Member will reach out to LinkedIn Support requesting this change.
             * The typical turnaround time for such a request is 1 - 2 business days.
     * "I have a *Recruiter* seat and am encountering an error when attempting to bulk send InMail."
        * LinkedIn has limitations on how many InMails a user can send. Please refer to their [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181) for more information.
