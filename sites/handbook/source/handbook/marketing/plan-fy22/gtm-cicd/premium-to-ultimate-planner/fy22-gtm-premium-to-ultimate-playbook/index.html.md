@@ -47,7 +47,7 @@ Consider the following questions:
 * Are the capabilities and PBOs that are enabled by GitLab Ultimate important to the customer? Why or why not? How do you know?
  
 ## Value Discovery
-{ :#value-discovery}
+
 ### Common Pains  
 
 GitLab Premium customers may be experiencing one or more of the below challenges:
