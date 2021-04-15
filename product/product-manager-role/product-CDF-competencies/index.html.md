@@ -244,7 +244,8 @@ Visit [GitLab specific competencies content](/handbook/product/product-manager-r
 Product Managers are responsible for driving the success for a product area. Understanding market dynamics along side the ability to organize, influence, and iterate to reach the desired outcomes is essential.
 
 
-1. Understanding Buyer Based Tiering Crafting a Strong Vision
+1. [Understanding Buyer Based Tiering](#understanding-buyer-based-tiering)
+1. Crafting a Strong Vision
 1. Defining & Prioritizing for Success Metrics
 1. Developing a Business Case
 1. Investing Just Enough
