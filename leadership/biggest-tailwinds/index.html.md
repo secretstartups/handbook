@@ -24,7 +24,7 @@ We also have a [biggest risks page](/handbook/leadership/biggest-risks/).
 
 [Lack of Developers](https://stackoverflow.blog/2017/03/09/developer-hiring-trends-2017/)
 
-[Open Source](/20-years-open-source/)
+[Open Source](/topics/20-years-open-source/)
 
 ## 3. [Multicloud](/topics/multicloud/)
 [Cloud Native and the Adoption of Kubernetes](/cloud-native/)
