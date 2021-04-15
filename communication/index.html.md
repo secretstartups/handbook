@@ -669,6 +669,10 @@ Make a pre-recorded video presentation on our [Unfiltered YouTube channel](https
 7. Enables [neurodiverse](/handbook/values/#neurodiversity) equality for all team members who might take some time to process the presentation and reflect on their questions before asking them.  
 8. Allows for selective watching of presentation material for a certain period. 
 
+There are times when presenting during a meeting is needed. This may occur when adding more context to a specific topic on slides. If this is the case, consider the following: 
+1. A presentation, with optional attendance and mandatory recording. This will allow clarifying questions to be asked and answered efficently and enables team members to watch async. 
+1. Include an async Q&A doc for team members who did not attend the presentation. 
+1. Ensure the async Q&A doc is linked in the YouTube description. 
 
 ## Indicating Availability
 
