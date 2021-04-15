@@ -327,7 +327,7 @@ The ability to break down larger features and functionality into small iterative
 ### People Management Competencies
 Individual contributor product managers and managers of product managers are leaders of their respective group, stage, and section. Product managers influence and manage a diverse set of teammates. As a result, even individual contributors need to develop strong people management competencies.
 
-1. [Managing Team Performance](# managing-team-performance)
+1. [Managing Team Performance](#managing-team-performance)
 1. [Facilitating Career Development Conversations](facilitating-career-development-conversations)
 1. Coaching GitLab Values Based Product Management
 1. Aligning Your Team on Strategy
