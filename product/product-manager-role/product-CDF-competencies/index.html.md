@@ -303,7 +303,7 @@ Here's a [brief video](https://www.youtube.com/watch?v=MrWjb76ndSw&feature=youtu
 ### Build Track Competencies
 The [build track](/handbook/product-development-flow/#build-track) is the second phase of GitLab's Product Development Workflow. This track is the execution phase for the solutions that were validated and designed during the Validation track. Using a competencies model will help Product Managers understand the expectations of the build track at each level in the Product Management organization. The competencies in the build track are:
 
-1. [Breaking Down Your Issues](# breaking-down-issues)
+1. [Breaking Down Your Issues](#breaking-down-issues)
 1. Optimizing PM Inputs for Development Outputs
 1. Understanding GitLab Architecture
 1. Demoing GitLab
