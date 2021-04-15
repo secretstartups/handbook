@@ -277,7 +277,7 @@ _Please contribute your favorite resources here_
 <br>
 <br>
 
-## <a id="businss-acumen"></a> 📈 Business acumen
+## <a id="business-acumen"></a> 📈 Business acumen
 
 ---
 
