@@ -24,9 +24,9 @@ Here are a few resources to help get you started in threat modeling.
 
 We've compiled a beginner friendly [howto guide to threat modeling](/handbook/security/threat_modeling/howto.html).
 
-### Issue Template for Using PASTA
+### Issue Template for Threat Modeling
 
-We've included a sample template to be cut and pasted into an issue or document, which is available [here](https://gitlab.com/gitlab-com/gl-security/security-research/threat-modeling-template). The idea would be to open an issue and work through the template, documenting everything.
+We've developed an issue template which is available [here](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models) (private link). The idea would be to open an issue and work through the template, documenting everything.
 
 ### Samples of PASTA Evaluations
 
@@ -176,7 +176,7 @@ Proof of a threat via numerous indicators as opposed to just theory or conjectur
 
 *Applies all stages of PASTA*
 
-### Additional Resources
+## Additional Resources
 
 Here are some helpful links.
 

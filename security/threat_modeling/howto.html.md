@@ -131,6 +131,6 @@ To document our threat model and the results we can keep it simple as well. What
 
 But really anything is fine as long as you write down the identified threats and potential mitigations as well as the needed next steps. This will help your fellow team members[^1] to gain a better understanding of the feature in general, in terms of risks it might expose, how to use it and how to **NOT** use it.
 
-There's also a [repository](https://gitlab.com/gitlab-com/gl-security/security-research/threat-modeling-template/) with templates for threat modeling you can use in issues or epics. 
+There's also a [repository](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models) with templates for threat modeling you can use in issues or epics. 
 
 [^1]: All the team members, not only those in the security department which torture you with threat modeling
