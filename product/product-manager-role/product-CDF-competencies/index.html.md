@@ -269,7 +269,7 @@ GitLab has an [Open Core](https://en.wikipedia.org/wiki/Open-core_model) busines
 [Product Managers communicate](/handbook/product/product-processes/#communication) to various audiences across an array of medium. As a result the set of communication competencies for Product Managers is more diverse than those for other positions.
 
 
-1. [Writing to Inspire Action Competency](#writing-to-inspire-action)
+1. [Writing to Inspire Action Competency](#writing-to-inspire-action-competency)
 1. [Communicating to Internal Executives](#communicating-to-internal-executives)
 1. Documenting for Clarity
 1. Presenting to Large Audiences
