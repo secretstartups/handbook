@@ -94,6 +94,30 @@ If there is not confidence that the activities will be complete, then the task d
 
 ## Operations  
 
+#### Mavenlink Access
+
+To provide Mavenlink access to an internal GitLab team members, provide access by the following:
+* Mavenlink Access
+  * Settings
+  * Members
+  * Invite Account Members
+* Okta-Mavenlink- Users Google Group
+  * Gmail
+  * Gmail Apps
+  * Groups
+  * Okta-Mavenlink- users
+  * Members
+  * Add Members
+ 
+ To provide Mavenlink access to a GitLab partner, provide access by the following:
+* Mavenlink Access
+  * Settings
+  * Members
+  * Invite Account Members
+* Process a GitLab Access Request
+  * Request Okta
+  * Request Mavenlink to be added to Okta
+
 #### Time Tracking 
 
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
