@@ -278,9 +278,15 @@ Update the new schedule time by hitting on the *Reschedule Maintenance* button *
 
 ### Sending an update about a scheduled maintenance
 
-Enter the update provided by the Infrastructure team and confirm the appropiate broadcast channels with the team before proceed to sent the update.
+To send an update about a maintenance event, such as a reminder, go to the *Maintenances* tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the *Post Update Without Starting* button.
 
-Once the GitLab Status Twitter account has posted about the maintenance schedule, send a link of the tweet to the `#social-nedia-action` Slack channel to let the social team know that you'd like amplification on our GitLab brand twitter account. This should only be used once during a selected scheduled maintenance timeline, preferably mid-week prior to the scheduled maintenance.
+![Post Update Without Starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
+
+Enter the update details provided by the Infrastructure team and have them confirm the appropiate broadcast channels before proceeding to send the update. If "Send Reminders" was enabled in the maintenance information page, be sure not to check "Notify email subscribers" in the broadcast settings.
+
+![Broadcast Maintenance Update](/images/support/cmoc_broadcast_maintenance_update.png){: .shadow}
+
+Once the GitLab Status Twitter account has posted about the maintenance schedule, send a link of the tweet to the `#social_media_action` Slack channel to let the social team know that you'd like amplification on our GitLab brand twitter account. This should only be used once during a selected scheduled maintenance timeline, preferably mid-week prior to the scheduled maintenance.
 
 ## Handover Procedure
 
