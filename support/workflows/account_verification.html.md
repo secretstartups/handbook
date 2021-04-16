@@ -32,12 +32,15 @@ In most cases, users can disable 2FA themselves and regain access to their accou
 
 ## Disable 2FA with Support Intervention
 
-Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an *existing paid plan* when the ticket was created.
+If a user cannot make use of self-serve methods (lost their account recovery codes and has no SSH key registered), proving they own the account can be difficult. Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an *existing paid plan* when the ticket was created.
 
 If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
 
-If a user has lost their account recovery codes and has no SSH key registered, proving they own the account can be difficult.
-In these cases, please use the workflow below.
+While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with SSO enforce on. In these cases:
+
+1. Owner vouch is required.
+1. Primary email of the account must match the company domain.
+1. User must still prove account ownership following the [workflow](#workflow).
 
 ### Workflow
 
