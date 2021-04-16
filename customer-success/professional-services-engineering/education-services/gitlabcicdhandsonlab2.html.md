@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab CI/CD Hands On Guide- Lab 2
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 2- CREATE A PROJECT AND A GITLAB-CI.YML FILE
 
 It is important to ensure all attendees have installed Docker for their operating system in order for this lab to work correctly. In the instance where they are unable to install Docker, you can install a Shell Runner, but be aware that this has a higher fail rate. If they run into issues with permissions, firewalls, or other issues, have them use a Shared Runner from Settings > CICD> Runners.
