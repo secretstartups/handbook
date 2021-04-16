@@ -12,15 +12,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Hands On Lab Setup
-
-1. To begin lab, navigate to the sandbox link: <https://www.gitlabdemo.com/invite>  
-2. Enter your invitation code in the box and Click **Redeem**. 
-3. You will be brought to the link below: 
-4. Click **Download Credentials**. 
-5. Click the GitLab URL and launch your demo environment. 
-6. Enter your credentials and launch the demo environment. 
-
 ## GitLab CI/CD Labs
 * [Lab 1- Review Example GitLab CI/CD Section](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab1.html)
 * [Lab 2- Create a Project and a GitLab-ci.yml File](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab2.html)
