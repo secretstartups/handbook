@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab CI/CD Hands On Guide- Lab 6
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 6- JOB POLICY PATTERN
 
 1. In the GitLab Demo Cloud, locate your CICD Demo project from previous labs and open it.
