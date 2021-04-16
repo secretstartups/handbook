@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Apr 15 | [Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/95) | Fiona O'Keeffe & Jennifer Parker |
 | Apr 22 | GitLab Premium to Ultimate Sales Play Launch (tentative) | TBD |
 | Apr 29 | *No sessions during last week of the quarter* | |
 
@@ -36,6 +35,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-04-15 | **[Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://youtu.be/Pus0y34mIQA)** | Private |
 | 2021-04-08 | **[How to Avoid Common Discovery Pitfalls](https://youtu.be/04kviW1GkW4)** | Private |
 | 2021-04-01 | **[Co-Selling with AWS](https://youtu.be/dKWjSjkhyE0)**              |   Private              |
 | 2021-03-25 | **[Co-Selling with GCP](https://youtu.be/BOyE0NQxL90)**              |   Private            |
