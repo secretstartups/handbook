@@ -233,7 +233,6 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
     - [Book club](/handbook/leadership/book-clubs/#high-output-management)
 1. [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) - Ben Horowitz
     - [Chase Wright's notes](https://docs.google.com/document/d/1Uxva11x1YX4zci1FHmF45UTYjGLPMU5HmrbmflINoG4/)
-1. [The score takes care of itself - Bill Walsh - PDF](http://coachjacksonspages.com/The%20Score%20Takes%20Care.pdf)
 1. [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) - Kerry Patterson
     - Notes from the [E-group](/company/team/structure#e-group) reading:
     - Virtual teams are much more likely to fail on crucial conversations than colocated teams
@@ -245,24 +244,6 @@ We sometimes self-organize [book clubs](/handbook/leadership/book-clubs) to read
     - Documenting something is _not_ a replacement for having the hard conversation
     - [Book club](/handbook/leadership/book-clubs/#crucial-conversations)
     - [Crucial Conversations Handbook Page](/handbook/leadership/crucial-conversations)
-1. [The Advantage: Why Organization Health Trumps Everything Else In Business](https://www.goodreads.com/book/show/12975375-the-advantage) - Patrick Lencioni
-1. [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - Patrick Lencioni
-1. [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm) - Geoffrey A. Moore
-1. [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.goodreads.com/book/show/15824358-the-first-90-days) - Michael D. Watkins
-1. [The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership) - John C. Maxwell
-1. [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) - Daniel Kahneman
-1. [The Power of Habit](https://www.goodreads.com/book/show/12609433-the-power-of-habit) - Charles Duhigg
-1. [Your Brain at Work](https://www.goodreads.com/book/show/6899290-your-brain-at-work) - David Rock
-1. [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) - Simon Sinek
-1. [Leaders Eat Last](https://www.goodreads.com/book/show/16144853-leaders-eat-last) - Simon Sinek
-1. [How to Win Friends & Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) - Dale Carnegie
-1. [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works) - Eric Schmidt
-1. [Good to Great](https://www.goodreads.com/book/show/76865.Good_to_Great) - James C. Collins
-1. [The Last Lecture](https://www.goodreads.com/book/show/40611510-the-last-lecture) - Randy Pausch
-1. [Mastery](https://www.goodreads.com/book/show/13589182-mastery) - Robert Greene
-1. [Radical Candor](https://www.goodreads.com/book/show/48430205-radical-candor) - Kim Malone Scott
-1. [Creativity, Inc](https://www.goodreads.com/book/show/18077903-creativity-inc) - Ed Catmull, Amy Wallace
-1. [Turn the Ship Around!](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) - L. David Marquet
 
 ## Email Lists
 
