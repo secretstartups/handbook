@@ -12,7 +12,7 @@ description: A list of the General & Entity Specific Benefits that GitLab offers
 
 ## Introduction
 
-For the avoidance of doubt, the benefits listed below in the General Benefits section are available to contractors and team members, unless otherwise stated. Other benefits are listed by countries that GitLab has established an entity or co-employer and therefore are applicable to team members in those countries only via our entity specific benefits. GitLab has also made provisions for Parental Leave which may apply to team members and contractors but this may vary depending on local country laws. If you are unsure please reach out to the Total Rewards team.
+For the avoidance of doubt, the benefits listed below in the General Benefits section are available to contractors and team members, unless otherwise stated. Other benefits are listed by countries that GitLab has established an entity or co-employer and therefore are applicable to team members in those countries only via our entity specific benefits. GitLab has also made provisions for Parental Leave which may apply to team members but this may vary depending on local country laws. If you are unsure please reach out to the Total Rewards team.
 
 ## Contact Total Rewards
 For any questions relating to benefits, please reach out to [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
@@ -20,15 +20,15 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 ## Entity Benefits
 - [GitLab BV (Netherlands)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-netherlands)
 - [GitLab BV (Belgium)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium)
-- [Global Upside (India and Philippines)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
+- [Global Upside (India, Philippines, Kenya, Chile, Costa Rica and Denmark)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
 - [GitLab Inc (US)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us)
-- [GitLab Inc (China)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-china)
 - [GitLab LTD (UK)](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk)
 - [GitLab GmbH (Germany)](/handbook/total-rewards/benefits/general-and-entity-benefits/gmbh-benefits-germany)
 - [GitLab PTY (Australia & New Zealand)](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia)
 - [GitLab Canada Corp](/handbook/total-rewards/benefits/general-and-entity-benefits/canada-corp-benefits)
 - [GitLab GK (Japan)](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-gk)
 - [GitLab Ireland LTD](/handbook/total-rewards/benefits/general-and-entity-benefits/gitlab-ireland-ltd)
+- [GitLab Korea LTD](/handbook/total-rewards/benefits/general-and-entity-benefits/korea-ltd-benefits)
 - [Remote Technology (South Africa, Mexico, Hungary and Austria)](/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com)
 - [Safeguard (Spain, Italy, France, Brazil and Switzerland)](/handbook/total-rewards/benefits/general-and-entity-benefits/safeguard/)
 
@@ -64,12 +64,17 @@ GitLab has a "no ask, must tell" [time off policy](/handbook/paid-time-off) per 
 
 GitLab supports team members who wish to continue their education and growth within their professional career. GitLab team-members are eligible for a reimbursement of up to $10,000 USD per calendar year (January 1st - December 31st) depending on tenure, performance, company need for the learned skill, and available budget. A course/program is considered to be included in the calendar year in which the course/program is paid/reimbursed (which should also be the same calendar year in which it ends). 
 
+If a team member wishes to take up [academic study](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) and the tuition cost for the year is expected to go over the $10,000 USD limit, a team member can apply for an [exception](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-an-exception). 
+
 Budget estimations for the Growth & Development benefit are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package.
 
-The [Growth and Development page](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development) covers information on the application process and the different types of expenses you can get reimbursed under this benefit. 
-
+The [Growth and Development page](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development) covers information on the application process and the different types of expenses you can get reimbursed under this benefit.
+ 
 ## GitLab Contribute
-Every nine months or so GitLab team members gather at an exciting new location to [stay connected](/blog/2016/12/05/how-we-stay-connected-as-a-remote-company/), at what we like to call [GitLab Contribute](/company/culture/contribute). It is important to spend time face to face to get to know your team and, if possible, meet everyone who has also bought into the company vision. There are fun activities planned by our GitLab Contribute Experts, work time, and presentations from different Departments to make this an experience that you are unlikely to forget! Attendance is optional, but encouraged. For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous).
+[GitLab Contribute](/events/gitlab-contribute/) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Contribute is an optional event, so team members should not feel pressured to attend. This year, Contribute will be hybrid-first, enabling team members to watch and participate from anywhere.
+
+From our first Contribute in Serbia to our virtual event in 2020, team members from around the world have built friendships and experienced the values in person. 
+For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous).
 
 ## Business Travel Accident Policy
 
@@ -172,6 +177,8 @@ Some teams require more time to put a plan of action in place so we recommend co
 
 Please note, even though we have a "no ask, must tell" Parental Leave Policy, some countries require extra paperwork or notifications to a PEO so it's important that the Total Rewards team is aware of your leave **at least 30 days before your leave starts.**
 
+When you return from parental leave, please [notify Total Rewards that you have returned](/handbook/total-rewards/benefits/general-and-entity-benefits/#confirming-your-return).
+
 ### Planning Your Parental Leave Dates
 
 Your 16 weeks of parental leave starts on the first day that you take off. This day can be in advance of the day that the baby arrives. You don't have to take your parental leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is within the 12 months of the birth or adoption event.
@@ -189,6 +196,14 @@ Please e-mail Total Rewards if you'd like to make this request and submit your P
 
 ### Returning from Parental Leave
 
+#### Confirming your return
+
+A day before you return from parental leave, you'll receive a PTO by Roots [Welcome Back message](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#parental-leave-welcome-back) with buttons to confirm your return or to explore other options.   
+* Clicking the `Confirm my return` button will open the email client with a pre-loaded template "Confirming my return from Parental PTO".
+* Clicking the `Explore options` button will also open the email client with a pre-loaded template "I have exceeded my 16 weeks and like to look into further options".
+
+#### Return-to-work Resources
+
 To [alleviate the stress](/handbook/paid-time-off/#returning-to-work-after-parental-leave) associated with returning to work after parental leave, GitLab supports team members coming back at [50% capacity](/handbook/paid-time-off/#returning-to-work-at-50-capacity). Parents at GitLab who are reentering work following parental leave are encouraged to read the [Team Member Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#team-member-tool-kit) and to reach out to team members who self-designate as a [Parental Leave Reentry Buddy](/handbook/total-rewards/benefits/parental-leave-toolkit/#parental-leave-reentry-buddies).
 
 Managers of soon to be parents should check out this [Parental Leave Manager Tool Kit](/handbook/total-rewards/benefits/parental-leave-toolkit/#manager-tool-kit) for best practices in supporting your team members as they prepare for and return from Parental Leave.
@@ -196,13 +211,17 @@ Managers of soon to be parents should check out this [Parental Leave Manager Too
 If you're interested in learning about how other GitLab team members approach parenthood, take a look at [the parenting resources wiki page](https://gitlab.com/gitlab-com/gitlab-team-member-resources/wikis/parenting) and [#intheparenthood](https://gitlab.slack.com/messages/CHADS8G12/) on Slack.
 
 
-### Process for Total Rewards Analysts
+### Administration of Parental Leave Requests
+
+For Total Rewards:
+
   * PTO by Roots will notify Total Rewards of any upcoming parental leave.
   * Log and monitor upcoming parental leave in the "Parental Leave Log" Google sheet on the drive.
   * Notify the team member that the parental leave request was received by sending the confirmation e-mail template (only send this e-mail if the team member is starting their parental leave. Team members who are taking their leave intermittently or changing the dates of their original leave request do not need to receive the confirmation e-mail again).
   * Notify payroll - add the start date and end date on the payroll changes file ("Payroll Changes" sheet for team members in the US, "Canada Payroll Changes" sheet for team members in Canada and "Non-US Payroll Changes" sheet for everyone else). Ensure the entry is under the appropriate pay cycle date.
   * PTO by Roots will automatically update the employment status in BambooHR. Note: If the team member changes the date of their parental leave or cancels their request, the BambooHR employment status will need to be updated manually. 
   * Check local statutory requirements and if applicable, arrange any paperwork and liaise with appropriate parties (such as the PEO and payroll team) to initiate the parental leave.
-  * 1 day before the End of Parental Leave date, BambooHR will send a notification to Total Rewards. Confirm the team member's return by sending the return to work e-mail to the team member and manager. If the team member or manager doesn't reply at least 1 business day after the End of Parental Leave Date, follow up again or ping the manager to confirm the team member has returned from leave.
+  * 3 days after the End of Parental Leave date, BambooHR will send a notification to Total Rewards. Check if the team member has confirmed their return via email. If not, send the Return to Work e-mail to the team member and manager.
+  * Do a weekly audit of parental leave return dates. If a team member hasn't sent an e-mail within 3 days of returning, send them the return to work e-mail, copying the manager in.
   * If there are no changes to the End of Parental Leave date, update the team member's BambooHR status to "Active" and mark the status as "Completed" in the Parental Leave Log sheet.
   * If the dates in PTO by Roots change, update the payroll changes file and the BambooHR status accordingly.

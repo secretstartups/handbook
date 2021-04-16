@@ -17,7 +17,9 @@ description: "GitLab Inc (US) benefits specific to US based team members."
 
 US based benefits are arranged through [Lumity](https://lumity.helloflock.com/login). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available.  
 
-**The 2020 Open Enrollment will begin October 19, 2020 and will end on October 30, 2020. Your plan will renew January 1, 2021. _This will be an active enrollment, you must elect benefits in Lumity during the Open Enrollment window to have benefits in 2021._** Please review the information added on the plans for 2021 below and the [digital benefits guide](https://guides.lumity.com/f8wiCGbj/GitLab) is also available to review. 
+**The 2020 Open Enrollment will begin October 19, 2020 and will end on October 30, 2020. Your plan will renew January 1, 2021. _This will be an active enrollment, you must elect benefits in Lumity during the Open Enrollment window to have benefits in 2021._** Please review the information added on the plans for 2021 below and the [Digital Benefits Guide](https://guides.lumity.com/f8wiCGbj/GitLab) is also available to review. The Digital Benefits Guide includes relevant information as seen in this screenshot: 
+
+![digital-benefits-guide-2021](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/digital-benefits-guide-2021.png)
 
 Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.
 
@@ -35,7 +37,7 @@ More information on the processed deductions in payroll from Lumity can be found
 
 GitLab offers plans from Cigna for all states within the US as well as additional Kaiser options for residents of California, Hawaii, and Colorado. Deductibles for a plan year of 2021-01-01 to 2021-12-31.
 
-For additional information on how [Benefits](https://drive.google.com/file/d/0B4eFM43gu7VPVS1aOFdRdXRSVzZ5Z3B0dEVKUXJIWm1zZXRj/view?usp=sharing) or [HSAs](https://drive.google.com/file/d/0B4eFM43gu7VPbUo1VFNFVFlQNlUyV0xQZkE0YXQyZENSNU1j/view?usp=sharing) operate, please check out the documentation on the Google Drive or Lumity's [resources](https://employee-resources.lumity.com/help).
+For additional information on how Benefits or HSAs operate, please check out Lumity's [resources](https://employee-resources.lumity.com/help).
 
 _If you already have current group medical coverage, you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts._
 
@@ -277,19 +279,20 @@ GitLab provides a policy through Cigna that may replace up to 66.7% of your base
 **Short Term Disability Claim Process via Cigna**
 
 1. Team member will submit the [Short Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form by email to the Total Rewards team at `total-rewards@gitlab.com`.  
-1. The Total Rewards team will complete the employer portion of the Short Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
-1. The Total Rewards team will notify the team member of submission of claim and provided next steps. 
-1. Cigna Claims Process:   
-  * Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed.  
-  * The claims team will also contact the Total Rewards team to confirm eligibility and verify job responsibilities, if needed.  
-  * Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so.  
-  * If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Total Rewards team will also receive a notification of the denial. 
-  * If approved, communication is sent to the Total Rewards team and claim status reports with approval date and estimated return-to-work date is provided to the Total Rewards team.   
-1. The Total Rewards team will process the approval or denial and file all related paperwork in BambooHR.  
+      - Page 3 includes the Employee portion of the form as well as the Doctor Certification. This page can be sent directly to Cigna (using the mail or fax number at the top of the form) or this page can be returned to GitLab and we can send to Cigna all at once. This is completely at the preference of the team member or the requirement from the Doctor. 
+2. The Total Rewards team will complete the employer portion of the Short Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
+3. The Total Rewards team will notify the team member of submission of claim and provided next steps. 
+4. Cigna Claims Process:   
+      - Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed.  
+      - The claims team will also contact the Total Rewards team to confirm eligibility and verify job responsibilities, if needed.  
+      - Cigna claims team will immediately begin reviewing the information available to make a decision. Cigna may also contact the team members attending physician, if needed, once Cigna has the team members authorization to do so.  
+      - If the claim is denied, the team member will receive a call from Cigna explaining the decision. The Total Rewards team will also receive a notification of the denial. 
+      - If approved, communication is sent to the Total Rewards team and claim status reports with approval date and estimated return-to-work date is provided to the Total Rewards team.   
+5. The Total Rewards team will process the approval or denial and file all related paperwork in BambooHR.  
 
 ## Employee Assistance Program
 
-GitLab team members in the United States are eligible for a complementary [Employee Assistance program](hhttps://www.cigna.com/individuals-families/member-resources/employee-assistance-program) as a result of enrollment in the long-term disability plan through Cigna, dependents who are enrolled in a Cigna coverage are also eligible. More information can be found online on [myCigna](https://my.cigna.com/web/public/guest) for the following topics: Emotional Health and Family Support, Home Life Referrals, Financial and Legal Assistance, Job and Career Support, and other topics.
+GitLab team members in the United States are eligible for a complementary [Employee Assistance program](https://www.cigna.com/individuals-families/member-resources/employee-assistance-program) as a result of enrollment in the long-term disability plan through Cigna, dependents who are enrolled in a Cigna coverage are also eligible. More information can be found online on [myCigna](https://my.cigna.com/web/public/guest) for the following topics: Emotional Health and Family Support, Home Life Referrals, Financial and Legal Assistance, Job and Career Support, and other topics.
 
 ## 401k Plan
 
@@ -380,13 +383,13 @@ Chair: Principal Accounting Officer (PAO)
 
 ## Optional Plans Available at Team Member Expense
 
-### Discovery Health Savings Accounts and Flexible Spending Accounts
+### WEX (Discovery Benefits) Health Savings Accounts and Flexible Spending Accounts
 
-If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account (FSA), Dependent Care Flexible Spending Account (DCFSA) or commuter benefits, the funds are held through Discovery Benefits. After your benefit enrollment effective start date, [create an account with Discovery](https://www.discoverybenefits.com/) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on Discovery or call and they will send one to your home of record.
+If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account (FSA), Dependent Care Flexible Spending Account (DCFSA) or commuter benefits, the funds are held through WEX (Discovery Benefits). After your benefit enrollment effective start date, [create an account with WEX (Discovery)](https://benefitslogin.discoverybenefits.com/Login.aspx?ReturnUrl=%2f) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on WEX (Discovery) or call and they will send one to your home of record.
 
-If you would like to transfer your HSA from a previous account, please contact Discovery Benefits and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to Discovery, and they will get in contact with your old HSA provider and process the transfer of funds. You can reach Discovery Benefits at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.helloflock.com/login). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year. If you leave GitLab and would like to keep your HSA account, GitLab will no longer be responsible for the administration fee. The account holder will become responsible for the $2.50 per month admin fee. 
+If you would like to transfer your HSA from a previous account, please contact WEX (Discovery) and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to WEX (Discovery), and they will get in contact with your old HSA provider and process the transfer of funds. You can reach WEX (Discovery) at 866.451.3399. If you would like to adjust your HSA contributions please log into [Lumity](https://lumity.helloflock.com/login). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year. If you leave GitLab and would like to keep your HSA account, GitLab will no longer be responsible for the administration fee. The account holder will become responsible for the $2.50 per month admin fee. 
 
-FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. Discovery Benefits asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to Discovery Benefits at 866.451.3399.
+FSAs are employer-owned accounts. If you leave GitLab, you cannot take FSA accounts with you. You are able to use your full FSA amounts up to and on your last day, but not afterwards. Your FSA benefits stop on your termination date. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. For additional information, please reach out to WEX (Discovery) at 866.451.3399.
 
 FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with Lumity to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections. 
 
@@ -400,7 +403,7 @@ Up to 90 days after the plan year has concluded (also known as the runout period
 
 #### Commuter Benefits
 
-GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through Discovery Benefits. The contribution limits from the IRS for 2020 are $270/month for parking and $270/month for transit. These contributions rollover month to month.
+GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through WEX (Discovery Benefits). The contribution limits from the IRS for 2020 are $270/month for parking and $270/month for transit. These contributions rollover month to month.
 
 ##### Commuter Benefits Period to Submit Claims
 
@@ -456,34 +459,22 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable by entering the dates in PTO Roots via Slack.
 2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and email the completed forms to `total-rewards@gitlab.com`.
       - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will dispurse those funds to the team member. The intention of this form is to keep payroll consistent for the team member via GitLab payroll vs needing to offset disability payments from Cigna. GitLab may need to offset any state related payments if applicable. 
-      - Please see the Short Term Disbaility claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance). 
+      - Please see the Short Term Disbaility claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) as well as specifics on how to fill out the Leave Request Form. 
 1. The Total Rewards team will send the team member an email with how payments will be processed and advise any differences in pay.
 1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
 1. The team member will notify the Total Rewards team on their first day back to work.
 1. The Total Rewards team will get a notification once the claim is closed. 
 1. TODO Outline process to return the team member to work
 
-#### Maternity Leave STD Form - Total Rewards to fill out:
-This section will be populated once we have the form from Cigna. 
-
 ### Payroll Processing During Parental Leave
 
 **Paternity Leave**
-Paternity Leave is not covered under Short Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay."
+Paternity Leave is not covered under Short Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay." Paternity Leave is also offset for any state eligible payments. 
 
 **Maternity Leave**
-For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll and Short-term Disability (STD).
+For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
 
-1. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll.
-  * The team member will inform Total Rewards when their short term disability is set to begin and end.
-  * There is a seven day elimination period for short term disability that is not paid through Cigna, where GitLab will need to supplement the entire wage through payroll.
-    * For instance, if Cigna has approved STD for January 1 - February 12, January 1 - January 7 would not be paid through STD.
-    * If any adjustments need to be made to a payroll that has already passed, People Ops will coordinate with the Payroll Lead to ensure retroactive payments are made.
-  * For the days the team member is paid through STD, payroll will adjust leave with pay hours to equal 33.3% and leave without pay hours to equal 66.7%.
-    * For example, if there are 80 hours in the pay period you would input 26.66 hours Leave with Pay / 53.34 Leave without Pay.
-1. When short-term disability ends, payroll will need to have 100% of the hours fall under leave with pay.
-
-Note: Also, ensure the disability is not capped out at the current maximum or that will also need to be supplemented in each pay cycle.
+GitLab will recieve the Short Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave.Total Rewards will also notify payroll of any state related payments which may need to be offset. 
 
 ## COBRA
 
@@ -491,13 +482,13 @@ If you are enrolled in medical, dental, and/or vision when you terminate from Gi
 
 ### Timeline
 1. Typically terminations are updated in BambooHR on the date of the termination and once updated, will sync with [Lumity](https://lumity.helloflock.com/login) by the end of the next business day.
-1. Once the termination has synced with Lumity, the information will then be sent over to [Discovery Benefits](https://www.discoverybenefits.com/), our COBRA administrator. Government guidelines give 30 days for Discovery to be notified of the COBRA eligibility, but typically this will take about 1-2 weeks.
-1. Once notified, Discovery has 14 days to generate and send the COBRA enrollment packet. Allow normal mailing timelines (5-10 business days) to receive the packet once sent.
+1. Once the termination has synced with Lumity, the information will then be sent over to [WEX (Discovery Benefits)](https://cobra.discoverybenefits.com/), our COBRA administrator. Government guidelines give 30 days for WEX (Discovery) to be notified of the COBRA eligibility, but typically this will take about 1-2 weeks.
+1. Once notified, WEX (Discovery) has 14 days to generate and send the COBRA enrollment packet. Allow normal mailing timelines (5-10 business days) to receive the packet once sent.
 1. You will have 60 days from the time you receive the COBRA packet to enroll either through the mail or online. Instructions for how to enroll will be included in your COBRA packet. Coverage will be retro-effective to the date coverage was lost.
 1. From the day you enroll, you have 45 days to bring your payments to current.
 1. You may remain on COBRA for up to 18 months. Please see the COBRA enrollment packet for information on extending COBRA an additional 18 months, if applicable. The state you reside in may allow for additional time on COBRA, but may be more expensive and include only Medical. Please consult the laws for your state for more information.
 
-If you are currently employed and have any general COBRA questions, feel free to contact the Compensation & Benefits team. If you have terminated already or have specific questions on the administration of COBRA, feel free to contact Discovery Benefits directly: (866) 451-3399.
+If you are currently employed and have any general COBRA questions, feel free to contact the Compensation & Benefits team. If you have terminated already or have specific questions on the administration of COBRA, feel free to contact WEX (Discovery) Benefits directly: (866) 451-3399.
 
 ### Costs per Month
 
@@ -534,13 +525,13 @@ If you are currently employed and have any general COBRA questions, feel free to
 
 ## Audit Processes
 
-### Discovery Funding Account Audit
+### WEX (Discovery) Funding Account Audit
 
-This quarterly audit is conducted to ensure the funding of our account used for FSA, DCFSA, and commuter benefit plans according to Accounts Payable matches the amount of claims incurred in Discovery's system.
+This quarterly audit is conducted to ensure the funding of our account used for FSA, DCFSA, and commuter benefit plans according to Accounts Payable matches the amount of claims incurred in WEX (Discovery)'s system.
 
-1. Reach out to Accounts Payable to provide an updated payment history report for payments made to Discovery.
+1. Reach out to Accounts Payable to provide an updated payment history report for payments made to WEX (Discovery).
 1. In the `Ongoing Discovery Audit` spreadsheet, add new entries in the report provided by Accounts Payable to the bottom of the table in the "Discovery Payments History" tab.
-1. Navigate to [Discovery's platform](https://www.discoverybenefits.com/) and log into the employer portal.
+1. Navigate to [WEX (Discovery)'s platform](https://employer.discoverybenefits.com/Login?ReturnUrl=%2f) and log into the employer portal.
    * Select "Benefits Administration" in the left toolbar.
    * Navigate to the "Reports" tab and select the "Employer Funding Report".
    * Download all reports for the months that have elapsed since the last audit was conducted.
@@ -553,10 +544,10 @@ This quarterly audit is conducted to ensure the funding of our account used for 
    * Copy the formula down for columns C, D, and E.
    * For columns D and E, replace the year and month in the formula with the year and month inputted in a column A and B.
      * For example, if the formula current has `=sumif('March 2020 Funding Detail'!A:A,"Manual Employer Transaction and Adjustment",'March 2020 Funding Detail'!H:H)` and you are working on the row for April 2020, change the formula to say `=sumif('April 2020 Funding Detail'!A:A,"Manual Employer Transaction and Adjustment",'April 2020 Funding Detail'!H:H)`.
-1. In the same "Funding Summary" tab, review the difference calculated in cell L3. This difference should be positive and roughly equivalent to the amount we currently have available in our Funding Account for Discovery, typically in the range of $5,000 to $50,000.
+1. In the same "Funding Summary" tab, review the difference calculated in cell L3. This difference should be positive and roughly equivalent to the amount we currently have available in our Funding Account for WEX (Discovery), typically in the range of $5,000 to $50,000.
 1. Any discrepancies or problems should be escalated to the Manager, Total Rewards.
 
-### Discovery Payroll Audit
+### WEX (Discovery) Payroll Audit
 
 TODO
 
