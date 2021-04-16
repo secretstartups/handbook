@@ -4,12 +4,17 @@ title: License & Renewals
 description: License & Renewals (L&R) comprises efforts to resolve problems customer face when they purchase or renew their self-managed or gitlab.com subscription.
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Overview
 
-When customers purchase or renew their subscription, they sometimes run into problems applying their license or associating their subscription to their namespace and making use of their
-purchase. License & Renewals (L&R) comprises efforts to resolve these problems.
+When customers purchase or renew their GitLab subscription, they sometimes need help if things don't work as expected. Support Engineers focused on License & Renewals (L&R) help resolve these problems.
 
-L&R work generally involves collaborating with customers and other GitLab teams,
+L&R work generally involves collaborating with customers and other GitLab teams (e.g. Sales and Fulfillment),
 as well as checking internal GitLab systems and data validation. Some examples:
 
 * Answering general queries about purchasing and managing a subscription from a user.
@@ -32,23 +37,42 @@ are:
    was already doing this work and was in a position to quickly scale up to meet
    customer needs.
 
-Support is currently figuring out how best to meet customer needs around L&R
-while not creating a separate team to do the work. The support engineering
-managers currently actively involved are:
+## Contacts, Direction and Metrics
 
-* Shaun McCann (Overall DRI)
-* Ronnie Alfaro
-* Wei-Meng Lee
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+### Support Management contacts
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+* Overall DRI: Shaun McCann
+* Collaborating with Sales: Mike Dunninger
+* Collaborating with Fulfillment: Tom Atkins
+* Coordinating Mechanizer development: Ronnie Alfaro
 
-## Getting started
+### Support Stable Counterparts
 
-The best way to get started is by working through the relevant
-[Support training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md).
+We have [three Support Stable Counterparts who work with the Fulfillment section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section).
+
+### Direction
+
+In collaboration with Sales, Fulfillment and other teams we aim to improve the customer experience related to managing subscriptions. We achieve this by:
+
+- automating processes
+- suggesting improvements to processes
+- reporting and fixing bugs
+- meeting our Service Level Objectives to external and internal customers
+
+### Monthly reports
+
+From March 2021 we will publish monthly reports to help track and improve our work in this area. Links to reports:
+
+- [Support L&R report for 2021-03](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/35)
+
+---
+
+## Information for Support Engineers focusing on L&R
+
+**Before starting to focus on L&R, please discuss with your manager.** We need to balance resources to meet the needs
+of our customers and ticket volume, so manager approval is needed before switching focus.
+
+The first step is to complete the [L&R / Subsciptions training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md).
 
 ### What you'll be working on
 
