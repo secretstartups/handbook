@@ -21,9 +21,9 @@ title: "Sales Finance"
 | Name | Function |
 | -------- | ---- |
 | @fkurniadi | Overall |
-| @alcurtis | Consolidation, Enterprise Sales |
-| @bmenegocci | Commercial Sales, Channels, Alliances |
-| @ysun3 | Customer Success, Professional Services, Field Ops |
+| @alcurtis | Consolidation, Enterprise Sales, Commercial Sales |
+| @laura_newbury | Customer Success, Channels, Alliances |
+| @ysun3 |  Professional Services, Field Ops |
 
 ## Sales Forecast Rhythm
 We believe an excellent forecasting process enables us to deploy our resources effectively, risk-manage the business, and provide early warning systems. At GitLab, we design our Sales Forecast Rhythm to foster careful inspection and execution of bookings target throughout the quarter. Each week we review various aspects of the business, such as Current/Next Quarter pipeline, Renewals timing, and leading indicators KPIs, to name but a few.
@@ -54,6 +54,8 @@ We believe an excellent forecasting process enables us to deploy our resources e
 [Jan'21 Deck](https://docs.google.com/presentation/d/1UC1xFGZmw7bQJnYZFDjSGmchvqzFEihJTcbMf9FnYq8/edit?usp=sharing)
 
 [Feb'21 Deck](https://docs.google.com/presentation/d/1f3AG8g_jfC-6eFurbwQQbZgvj2zTwUIDbwkXoG8gcHw/edit?usp=sharing)
+
+[Mar'21 Deck](https://docs.google.com/presentation/d/1HBaWXmSBt5fhLttw2tQgKjCGzIEwZLTtbQO1OsIuR0Y/edit?usp=sharing)
 
 ## Sales & Marketing Funnel SSOT Dashboards
 The following Single Source of Truth (SSOT) dashboards provide a monthly and quarterly Sales & Marketing funnel trend view, including; 
