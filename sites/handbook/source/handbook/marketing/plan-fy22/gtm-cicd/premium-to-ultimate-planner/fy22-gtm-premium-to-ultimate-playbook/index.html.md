@@ -243,6 +243,7 @@ This sequence of recommended emails is intended to move the prospect from intere
 * MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. We recommend you send the next email in the sequence 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. **Please use the templates provided in the links below**. They have embedded links so you will see what they open and click thru (and marketing will see what's getting used most).
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. [Email 1](link) **Are you getting the most out of GitLab?**  
    Practioner Offer: [A Developer's Guide to Application Security](https://cdn.pathfactory.com/assets/10519/contents/105715/188f553e-eaef-43f3-bf45-8324b1d2e35b.pdf)  
    Management Offer: [CI the new frontier for Security pros](https://thenewstack.io/continuous-integration-the-new-frontier-for-security-pros/)  
@@ -251,21 +252,32 @@ This sequence of recommended emails is intended to move the prospect from intere
 1. [Email 2](link) **GitLab Ultimate can take your app sec to a new level**  
 =======
 1. [Email 1](link) Are you getting the most out of GitLab?  
+=======
+1. [Email 1](link) **Are you getting the most out of GitLab?**  
+>>>>>>> iterating on meetings
    Practioner Offer: [A Developer's Guide to Application Security](https://cdn.pathfactory.com/assets/10519/contents/105715/188f553e-eaef-43f3-bf45-8324b1d2e35b.pdf)  
    Management Offer: [CI the new frontier for Security pros](https://thenewstack.io/continuous-integration-the-new-frontier-for-security-pros/)  
    CTA: Talk to your rep about what you’d like to achieve. 
 
+<<<<<<< HEAD
 1. [Email 2](link) GitLab Ultimate can take your app sec to a new level  
 >>>>>>> added email asset info
+=======
+1. [Email 2](link) **GitLab Ultimate can take your app sec to a new level**  
+>>>>>>> iterating on meetings
    CTA: Ask your rep for a deep dive on any of these topics.  
    Practioner Offer: [From DevOps to DevSecOps: Automate your security tests with CI](https://about.gitlab.com/webcast/automate-security-ci/)  
    Management Offer: [Compliance made easy with GitLab](https://about.gitlab.com/blog/2020/07/02/compliance-made-easy/)  
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. [Email 3](link) **GitLab for Security and Compliance - Let’s do the math together**  
 =======
 1. [Email 3](link) GitLab for Security and Compliance - Let’s do the math together  
 >>>>>>> added email asset info
+=======
+1. [Email 3](link) **GitLab for Security and Compliance - Let’s do the math together**  
+>>>>>>> iterating on meetings
    CTA: Talk to your rep about how GL can help you with more predictable costs.  
    Practioner Offer: [Tired of afterthought security? Take a fresh look at GitLab Ultimate](https://about.gitlab.com/blog/2020/12/08/security-features-in-ultimate/)  
    Management Offer: [How Chorus uses GitLab to power its development](https://about.gitlab.com/customers/chorus/)
@@ -276,6 +288,7 @@ This sequence of recommended emails is intended to move the prospect from intere
 
 Agnes: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
 
@@ -313,15 +326,37 @@ The following sequence is recommended to progress the customer from awareness an
       * For securing modern apps via containers, K8s, APIs, Infrastructure as code: (asset)  
       * Container security (asset - Sam White, PM)
 =======
+=======
+The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (punn intended)
+
+>>>>>>> iterating on meetings
 1. **Meeting 1** - **assess business objectives**  
    Use [Value Discovery](#value-discovery) above along with these recommended assets to determine their business priorities, existing security tools, chief pain points:  
-   * Cost and/or complexity⇒ use ROI template (link) discussion   
-   * vulnerabilities/risk ⇒  security deck (link) as preface to next mtg  
-   * compliance/software supply chain security ⇒ compliance deep dive deck (TBD as preface to next mtg (will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24  
+   * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on objectives slide)
+   * [Manage Compliance with GitLab](https://youtu.be/QV2dIocn-hk)   
+   * software supply chain security (we will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24 to share as potential leave-behind.  
+   Ask 4 questions: 
+      1. Wanting to shift left? (If no, talk to the Dev or DevOps team instead of security)
+      1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning.
+      1. Using containers and/or Kubernetes? If yes, are you scanning containers? Helm charts? Testing APIs?
+      1. Which objective do they most relate to (slide x)
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
 **Metric:** Sales Accepted Opp
 >>>>>>> added email asset info
 
+<<<<<<< HEAD
+=======
+
+1. **Meeting 2** - **security topics of interest**
+   Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. on one or more of the following:  
+   * Priority = speed and efficiency
+   * Priority = predictable cost to scale
+   * Priority = Vulnerability mgmt - [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
+   * Container security (deck and PM/PMM to engage)
+   * Policy management (deck and PM/PMM to engage)
+   * Auditing and Compliance reporting (deck and PM/PMM to engage)
+   * Security of software supply chain (deck and PM/PMM to engage)  
+>>>>>>> iterating on meetings
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer  
 **Metric:** Sales stage x (Tanuja?)  
 
