@@ -1734,7 +1734,7 @@ The schema is implemented using [Rx](http://rx.codesimply.com/index.html).
 
 ### Release post assembly
 
-The [release post assembly](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/validate-release-post-item) script moves release post content blocks and their images to the current release directory.
+The [release post assembly](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-assemble) script moves release post content blocks and their images to the current release directory.
 
 It uses a simple regexp to locate content files and images. It performs no validation. In the future, it would be simple to combine the functionality with the linter to reduce the number of scripts to maintain.
 
