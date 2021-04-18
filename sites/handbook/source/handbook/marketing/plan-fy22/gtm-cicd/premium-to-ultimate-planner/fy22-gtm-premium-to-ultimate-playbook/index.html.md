@@ -188,6 +188,7 @@ Enterprise accounts will **not** be included in the email campaign driving custo
 **ENT and MM Sales Actions**
 
 1. Review the target list and prioritize contacts.
+<<<<<<< HEAD
 1. Familiarize yourself with context for this play (above), especially differentiators and objections
 1. Familiarize yourself with the email sequence and next steps (below).
 1. Using the [recommended email sequence](#recommended-email-sequence), start the conversation at the appropriate point. Choose to start with email 1, 2, or 3 (**use the templates!**) based upon where you are with this contact.
@@ -197,6 +198,11 @@ Enterprise accounts will **not** be included in the email campaign driving custo
 1. Determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence after 7-10 days. (**Please use the templates's tracking links!**) You can modify the templates to fit your unique conversations as needed.  
 1. Repeat with next recommended email until you get to a POV or sale.
 
+=======
+1. Using the [recommended email sequence](#recommended-email-sequence), start the conversation at the appropriate point 
+1. Familiarize yourself with next steps below
+1. Familiarize yourself with context for this play (above)
+>>>>>>> fixed error and fleshed out email section
 
 
 #### Small Business Accounts
@@ -212,6 +218,7 @@ For SMB customers, we will rely on inbound responses to the marketing-generated 
 1. Familiarize yourself with context for this play (above), especially differentiators and objections
 1. Familiarize yourself with the email sequence and next steps (below).
 1. See which contacts have responded (Agnes, please describe how they do this)
+<<<<<<< HEAD
 1. Conduct meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
 1. Update sales stage in SFDC.
 1. Note: once they ask for an initial meeting from any email they will be pulled out of subsequent automated emails. (If they respond to email 1, they will not receive emails 2 and 3 from marketing.) It will be up to sales to determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence. **Please use the templates** as they provided tracking links so you can see what was opened and clicked (and marketing can see what is getting used). You can modify the templates to fit your unique conversations as needed.
@@ -228,6 +235,18 @@ This sequence of recommended emails is intended to move the prospect from intere
    Practioner Offer: [A Developer's Guide to Application Security](https://cdn.pathfactory.com/assets/10519/contents/105715/188f553e-eaef-43f3-bf45-8324b1d2e35b.pdf)  
    Management Offer: [CI the new frontier for Security pros](https://thenewstack.io/continuous-integration-the-new-frontier-for-security-pros/)  
    CTA: Talk to your rep about what you’d like to achieve.
+=======
+1. Familiarize yourself with context for this play (above)
+1. Familiarize yourself with the email sequence and next steps (below).
+1. (Agnes or Tanuja?) Go to xxxx to see who opened which emails 
+
+
+### Recommended email sequence {#recommended-email-sequence}
+
+This sequence of recommended emails is intended to move the propsect from interest to POV. Note:  
+* Marketing will be sending these emails to SMB targets generate leads. The first will go out starting April 29th and subsequent emails will follow every 7-10 days. (Agnes, verify days)
+* MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. We recommend you send the next email in the sequence 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. **Please use the template**. It has embedded links so you will see what they open and click thru (and marketing will see what's getting used most).
+>>>>>>> fixed error and fleshed out email section
 
 1. [Email 2](link) **GitLab Ultimate can take your app sec to a new level**  
    CTA: Ask your rep for a deep dive on any of these topics.  
@@ -245,6 +264,7 @@ This sequence of recommended emails is intended to move the prospect from intere
 
 Agnes: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
 
+<<<<<<< HEAD
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
 
 1. **Meeting 1** - **assess business objectives**  
@@ -293,6 +313,32 @@ The following sequence is recommended to progress the customer from awareness an
 
 **Milestones:** agree to next meeting  
 **Metric:** Sales stage x (Tanuja?)  
+=======
+1. **Meeting 1** - use [Value Discovery](#value-discovery) above to assess business objectives. Use these recommended assets based upon areas of most interest:  
+   * Cost and/or complexity⇒ use ROI template (link) discussion   
+   * vulnerabilities/risk ⇒  security deck (link) as preface to next mtg  
+   * compliance/software supply chain security ⇒ compliance deep dive deck (TBD as preface to next mtg (will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24  
+**Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
+**Metric:** Sales Accepted Opp
+
+
+1. **Meeting 2** - purpose is to understand customer’s interest in one or more of the topics of interest and provide a deep dive on:  
+   * Vulnerability mgmt (deck and PM/PMM to engage)
+   * Container security (deck and PM/PMM to engage)
+   * Policy management (deck and PM/PMM to engage)
+   * Auditing and Compliance reporting (deck and PM/PMM to engage)
+   * Security of software supply chain (deck and PM/PMM to engage)  
+**Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer  
+**Metric:** Sales stage x (Tanuja?)
+
+
+1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.  
+   * Share CISO deck and review more detailed ROI (if needed)
+   * Identify key value driver, champion, and economic buyer
+   * Ask for POV to prove value unique to this customer
+**Milestones:** agree to next meeting  
+**Metric:** Sales stage x (Tanuja?)
+>>>>>>> fixed error and fleshed out email section
 
 
 ### POV agreement
