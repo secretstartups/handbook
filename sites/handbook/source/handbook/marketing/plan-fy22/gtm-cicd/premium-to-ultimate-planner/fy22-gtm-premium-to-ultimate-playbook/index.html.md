@@ -126,9 +126,24 @@ With GitLab Ultimate, organizations are able to truly shift security left (and r
 * Easily assess remediation progress
 * Automate policies and focus on the exceptions not individual inspections.
 
+<<<<<<< HEAD
 Advantages of a single application for DevOps and Security together include unparalleled visibility and insights/traceability with consistent compliance to policies and regulatory requirements for cleaner, easier audits.
 
 **[Key GitLab differentiators](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators)** include:
+=======
+With GitLab Ultimate, organizations are able to truly shift security left (and right!) to find and fix vulnerabilities earlier while keeping up with DevOps velocity and new attack surfaces of cloud native apps. With GitLab, the integration is done for them. No need to fit your security tools into the CI pipeline - it's done! And for ONE predictable cost, even as you scale! 
+
+**For one cost, you can:**  
+* Scan every code commit on every app (no more choosing because scans are too expensive)
+* Use multiple scan types to find threats individual scanners might miss
+* Manage all vulnerabilities found in one place with united collaboration between dev and sec
+* Easily assess remediation progress
+* Automate policies and focus on the exceptions not individual inspections.
+
+Advantages of a single application for DevOps and Security together include unparalleled visibility and insights/traceability with consistent compliance to policies and regulatory requirements for cleaner, easier audits. 
+
+**Additional [Key GitLab differentiators](https://cblake-master-patch-70404.about.gitlab-review.app/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#top-differentiators)** include:
+>>>>>>> improved differentiators section
 
 1. Detailed and Actionable Scan Results Displayed in MRs created from Feature Branch
    * Microsoft does this for SAST and Dependencies. Other scan types require integration and bring-your-own licenses.
@@ -245,6 +260,7 @@ This sequence of recommended emails is intended to move the prospect from intere
 
 This sequence of recommended emails is intended to move the propsect from interest to POV. Note:  
 * Marketing will be sending these emails to SMB targets generate leads. The first will go out starting April 29th and subsequent emails will follow every 7-10 days. (Agnes, verify days)
+<<<<<<< HEAD
 * MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. We recommend you send the next email in the sequence 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. **Please use the template**. It has embedded links so you will see what they open and click thru (and marketing will see what's getting used most).
 >>>>>>> fixed error and fleshed out email section
 
@@ -257,6 +273,16 @@ This sequence of recommended emails is intended to move the propsect from intere
    CTA: Talk to your rep about how GL can help you with more predictable costs.  
    Practioner Offer: [Tired of afterthought security? Take a fresh look at GitLab Ultimate](https://about.gitlab.com/blog/2020/12/08/security-features-in-ultimate/)  
    Management Offer: [How Chorus uses GitLab to power its development](https://about.gitlab.com/customers/chorus/)
+=======
+* MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. We recommend you send the next email in the sequence 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. **Please use the templates provided in the links below**. They have embedded links so you will see what they open and click thru (and marketing will see what's getting used most).
+
+1. [Email 1](link) Are you getting the most out of GitLab?
+   CTA: Talk to your rep about what you’d like to achieve.  
+1. [Email 2](link) GitLab Ultimate can take your app sec to a new level
+   CTA: Ask your rep for a deep dive on any of these topics.  
+1. [Email 3](link) GitLab for Security and Compliance - Let’s do the math together
+   CTA: Talk to your rep about how GL can help you with more predictable costs.
+>>>>>>> improved differentiators section
 
 ## Next Steps
 
