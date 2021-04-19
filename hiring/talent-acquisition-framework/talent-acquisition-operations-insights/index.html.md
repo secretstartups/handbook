@@ -376,7 +376,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. The following rows will need to be entered manually: `Sales VP` (Column I), `Aligned Recruiter` (Column J), and `NQR/OQR` (Column K).
         1. Audit the sheet where `#N/A` appears in a column where a formula is present.
 * **Adaptive Report**:
-    * Finance will pull and export a report to the [Interim Sales Hiring Plan - Sales Finance](https://docs.google.com/spreadsheets/d/1ce0d3EJjIRVBWBxOJS53OxKbli3wIbm7lLm7rbMJ1BE/edit#gid=0) sheet.
+    * Finance will pull and export a report to the [FY22 Headcount Tracker (Hongker)](https://docs.google.com/spreadsheets/d/1ZIYG5YctfhXSR9iAq5l1WNSfpG4moeofMTgSbKD4Hl8/edit#gid=0) sheet.
     * Auditing `GHP IDs` in Adaptive that are **not** in Greenhouse
         1. Go to the `GitLab Hiring Plan` tab.
         1. Insert a new column (**Column B**) and title it, `Opened?`.
