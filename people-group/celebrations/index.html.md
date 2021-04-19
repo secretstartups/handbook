@@ -40,7 +40,7 @@ Managers are able to send Gifts and Flowers on behalf of their team members in a
 
 The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**. 
 
-Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restuarant gift cards at this time.  In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
+Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restaurant gift cards at this time.  In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
 
 The budget for sending these gifts will come from the department budget of the gift-receiving team member. 
 
