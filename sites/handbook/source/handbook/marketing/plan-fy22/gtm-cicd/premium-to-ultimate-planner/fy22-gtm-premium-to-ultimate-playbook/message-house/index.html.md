@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Upsell Premium to Ultimate message house"
-description: "description to add"
+description: "Messaging related to the GTM-CICD motion"
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
 
@@ -23,19 +23,23 @@ Think *security and reducing risk, protecting the business's intellectual proper
 
 ### Messaging and Positioning
 
-| **Positioning statement** | GitLab Ultimate helps you reduce and manage risk, protect your IP, and streamline the software delivery process by embedding security and compliance into your DevOps workflows, unifying teams under one roof. |
+**Headline**: Dev+Sec+Ops all under one roof
+**Subheader**: GitLab Ultimate makes it happen
+
+
+| **Positioning statement** | GitLab Ultimate streamlines the software delivery process by embedding security and compliance into your DevOps workflows, unifying teams under one roof. |
 |:-----------|--------------------------------------|
-| **Elevator pitch** |  GitLab Ultimate is ideal for projects with executive visibility and strategic organizational usage. <br> <br> Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. |
-| **Long description** | GitLab Ultimate helps organizations and teams achieve advanced DevOps maturity via enterprise-level application security capabilities, advanced insights/analytics at the project, group, and instance level, and enterprise-grade priority support. <br> <br> This includes 24/7 uptime support with live upgrade assistance and named Technical Account Manager to assure you meet your goals **and** have expertise at your side to overcome challenges when you need it most. |
+| **Elevator pitch** |  GitLab Ultimate enables DevSecOps by optimizing and accelerating software delivery while managing priorities, security, risk, and compliance. |
+| **Long description** | GitLab Ultimate helps organizations and teams achieve DevSecOps via enterprise-level application security capabilities, advanced insights/analytics at the project, group, and instance level, and industry-leading continuous integration and delivery. |
 
 | **Key-Values** | Single app with end-to-end visibility and insights | Embedded security that’s contextual + congruent to DevOps processes | Leading SCM, CI, and code review in one | Transparent and collaborative |
 |--------------|----------------------------------------------------------|--------------|--------------|
-| **Promise** | Lovable developer UX with executive visibility  | Built in security and compliance shifted all the way left | No plugins or costly integrations to maintain | Streamline processes and empower teams to make better decisions |
+| **Promise** | Lovable developer UX with executive visibility  | Built-in security and compliance shifted all the way left | No plugins or costly integrations to maintain | Streamline processes and empower teams to make better decisions |
 | **Pain points** | In a constant state of asking "what changed!?" | Increased risk of vulnerabilities, difficult audits | Complexity, added overhead | Inefficient, stifles innovation |
 | **Why GitLab** | Reduce exposure and unify teams | Reduce risk, easily scalable |  Completely integrated from idea to production | Single source of truth to focus on remediation, less friction  |
 
 Additional Ultimate value: 
-- Enterprise-grade priority support, including 24/7 uptime support, a named Technical Account Manager (TAM), and live upgrade assistance are all still included with Ultimate.
+- Enterprise-grade priority support, including 24/7 uptime support, a dedicated Technical Account Manager (TAM), and live upgrade assistance are all still included with Ultimate.
 - Access to free guest users
 - Project, portfolio and requirements management [value](https://about.gitlab.com/pricing/ultimate/#project-portfolio-and-requirements-management)
 - Modern CD with compliance
