@@ -46,7 +46,9 @@ For some languages, a review step is built within the translation process in [Sm
 Languages that the Smartling step is enabled for:
 
 1. German
-1. Russian
+2. Russian
+3. Japanese
+4. Korean
 
 Internal reviewers for these languages that will review via Smartling:
 
