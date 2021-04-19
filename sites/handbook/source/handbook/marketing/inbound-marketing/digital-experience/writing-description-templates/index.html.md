@@ -42,6 +42,24 @@ An outline helps you organize information, ensures topics are covered, and helps
 * Add head tags (H1-H6) to each section. These are directly linkable.
 * Create a visual hierarchy. The most important information should be the highest contrast. The document should be easy to skim through. It should be easy to find what you're looking for.
 
+## Create an order-of-operations
+
+Informational hierarchy is important, but procedural hierarchy is equally important. The following template is suggested:
+
+1. Instructions
+1. Prompt
+1. Example
+
+Below is an example that follows the above template:
+
+```
+Include the problem we're trying to solve.
+
+Insert here your request WITH reason
+
+Example: As an X, I want to do Y because Z.
+```
+
 ## Ask good questions
 
 You have to ask the right questions in order to gather the right information from the user.
