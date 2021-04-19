@@ -25,6 +25,18 @@ table > tbody > tr > td {
     padding-bottom: 2px;
 }
 
+.mermaid {
+    display: block !important;
+}
+
+.wider {
+    width: 1600px;
+}
+
+.scrollable {
+    overflow-x: auto
+}
+
 </style>
 
 {::options parse_block_html="true" /}
@@ -43,6 +55,40 @@ Our focus has now shifted towards designing a technical architecture and develop
 We have spent the middle of Q1 researching and drawing inspiration from industry and domain knowledge developed by integrations companies and teams in order
 to agree on a high-level architecture for a new integrations platform that we'll be resourcing and building in the coming quarters.
 This integrations platform is designed to serve GitLab's Enterprise Applications ecosystem long into the future and assist us in consistently applying oustanding security, scalability, maintainability, reusability, and testing standards. It will also allow the Integrations Engineering team to provide reliable SLA's to our business partners and move quickly to implement new integrations and refactor existing integrations as GitLab's needs change in this high growth period for the company.
+
+## Timeline
+
+<div class="scrollable">
+<div class="wider">
+
+```mermaid
+gantt
+    title Integrations Roadmap
+    dateFormat YYYY-MM-DD
+    section Quarters
+    Q2                      :q2, 2021-03-01, 2021-06-01
+    Q3                      :q3, 2021-06-01, 2021-09-01
+    Q4                      :q4, 2021-09-01, 2021-12-01
+
+    section Platform
+    Platform Evaluation             :p4, 2021-03-15, 2021-04-19
+    Mulesoft Procurement            :p1, 2021-04-19, 60d
+    Mulesoft Implementation         :p2, after p1, 60d
+    Workato > Mulesoft Cutover      :p3, 2021-07-15, 60d
+
+    section Team
+    Mulesoft Training               :t1, 2021-04-19, 30d
+    Resource Planning               :t2, after t1, 30d
+    Hiring                          :t3, 2021-08-01, 60days
+
+    section Key Projects
+    New expense tool                :k1, 2021-05-01, 30d
+    Xactly                          :k2, 2021-05-01, 30d
+    EntApps API Service             :k3, after q3, 60d
+    Employee Record Integrations    :k4, after q3, 30d
+```
+</div>
+</div>
 
 ## Integrations Platform
 
