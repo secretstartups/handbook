@@ -55,7 +55,16 @@ Internal reviewers for these languages that will review via Smartling:
 | German | @KSetschin |
 | Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
 
-Please follow the process above for requesting a review but please do so at the same time of opening the Smartling job. 
+Please follow the below process for requesting a review but please do so at the same time of opening the Smartling job:
+
+1. Submit job in Smartling
+2. Directly after, create a review issue and tag all the reviewers of language.
+3. Reviewers have 24-48 hours to claim the job.
+4. If it’s not claimed, campaign manager has right to assign the job to one of the reviewers on the Gitlab issue.
+5. Reviewer needs to claim the job on Smartling. Once it’s ready to review, they will get an email notification alert them that their job is ready to review
+6. Once reviewed, if ready to publish, please publish the job and update on the Gitlab review issue to let the campaign manager- it would be great if they could also let the campaign manager know the quality of the translation.
+
+
 
 ### Priority Countries
 
