@@ -102,6 +102,7 @@ Note: if they say they do NOT want to shift left and empower developers to find 
 
 
 ## Positioning Value
+<<<<<<< HEAD
 
 ### Elevator pitch
 
@@ -112,6 +113,12 @@ Ultimate enables IT transformation by optimizing and accelerating delivery while
 
 =======
 > With GitLab Ultimate, organizations are able to truly shift security left (and right!) while keeping up with DevOps velocity and new attack surfaces of cloud native apps. Empower developers to find and fix vulnerabilities earlier and security teams to manage risk from detection through remediation. With GitLab, the integration is done for them. No need to fit your security tools into the CI pipeline - it's done! And for ONE predictable cost, even as you scale! 
+=======
+
+### Elevator pitch
+
+> With GitLab Ultimate, organizations are able to truly shift security left (and right!) while keeping up with DevOps velocity and new attack surfaces of cloud native apps. Empower developers to find and fix vulnerabilities earlier and security teams to manage risk from detection through remediation. With GitLab, the integration is done for them. No need to fit your security tools into the CI pipeline - it's done! And for ONE predictable cost, even as you scale!
+>>>>>>> prepare for rebase
 
 Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance.  
 
@@ -260,7 +267,7 @@ This sequence of recommended emails is intended to move the prospect from intere
 >>>>>>> iterating on meetings
    Practioner Offer: [A Developer's Guide to Application Security](https://cdn.pathfactory.com/assets/10519/contents/105715/188f553e-eaef-43f3-bf45-8324b1d2e35b.pdf)  
    Management Offer: [CI the new frontier for Security pros](https://thenewstack.io/continuous-integration-the-new-frontier-for-security-pros/)  
-   CTA: Talk to your rep about what you’d like to achieve. 
+   CTA: Talk to your rep about what you’d like to achieve.
 
 <<<<<<< HEAD
 1. [Email 2](link) GitLab Ultimate can take your app sec to a new level  
@@ -291,6 +298,7 @@ This sequence of recommended emails is intended to move the prospect from intere
 
 Agnes: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
@@ -331,6 +339,9 @@ The following sequence is recommended to progress the customer from awareness an
 =======
 =======
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (punn intended)
+=======
+The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
+>>>>>>> prepare for rebase
 
 >>>>>>> iterating on meetings
 1. **Meeting 1** - **assess business objectives**  
@@ -338,8 +349,8 @@ The following sequence is recommended to progress the customer from awareness an
    * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) slide)
    * [Manage Compliance with GitLab](https://youtu.be/QV2dIocn-hk)   
    * software supply chain security (we will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24 to share as potential leave-behind.  
-   
-   **Ask 4 questions:** 
+
+   **Ask 4 questions:**
       1. Wanting to shift left? (If no, talk to the Dev or DevOps team instead of security)
       1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning. Enter into SFDC.
       1. Using containers and/or Kubernetes? If yes, are you scanning containers? Helm charts? Testing APIs?
@@ -375,19 +386,23 @@ The following sequence is recommended to progress the customer from awareness an
    * Priority = speed and efficiency  
       * single app story (asset)
       * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)  
-   * Priority = consistency/compliance 
+   * Priority = consistency/compliance
       * Policy management (deck and PM/PMM to engage)
       * Auditing and Compliance reporting (deck and Sam Kerr, PM)
       * Security of software supply chain (deck and Cindy Blake)
-   * Priority = predictable cost to scale 
-      * ask for ROI discussion - see meeting 3 
+   * Priority = predictable cost to scale
+      * ask for ROI discussion - see meeting 3
    * Priority = vulnerabilities/risk   
       For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
-      * For the developer: Shift left (asset) 
+      * For the developer: Shift left (asset)
       * For securing modern apps via containers, K8s, APIs, Infrastructure as code: (asset)  
       * Container security (asset - Sam White, PM)
+<<<<<<< HEAD
     
 >>>>>>> iterated on meetings and resources
+=======
+
+>>>>>>> prepare for rebase
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer  
 **Metric:** Sales stage x (Tanuja?)  
 
@@ -446,10 +461,14 @@ Note: progress of the GTM Motion will be measured at the campaign level with cli
 
 Marketing is running a related demand gen campaign.  
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house).
 =======
 * Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house). 
 >>>>>>> iterated on meetings and resources
+=======
+* Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house).
+>>>>>>> prepare for rebase
 * A LinkedIn campaign will help surface new contacts for accounts where we have none/few.
 * An 'air cover' campaign will raise awareness of GitLab's Ultimate capabilities. It will likely include Security (first) and Planning capabilities (next).
 
