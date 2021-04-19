@@ -54,6 +54,8 @@ Internal reviewers for these languages that will review via Smartling:
 | -------- | --------- |
 | German | @KSetschin |
 | Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
+| Japanese | @toshitakaito, @emorita, @yuki_murakami |
+| Korean | @taehohyun, @minsuhan |
 
 Please follow the below process for requesting a review but please do so at the same time of opening the Smartling job:
 
