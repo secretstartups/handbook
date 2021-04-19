@@ -739,7 +739,7 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
 #### Infrastructure
 
 1. Nominate issues by adding `Infradev` label.
-+1. Assess [Severity](/handbook/engineering/quality/issue-triage/#severity-slos) and apply the corresponding severity label as appropriate.
++1. Assess [Severity](/handbook/engineering/quality/issue-triage/#severity-slos) and `Priority` and apply the corresponding label as appropriate.
 1. Provide [as much information as possible](#a-guide-to-creating-effective-infradev-issues) to assist development engineering troubleshooting.
 
 #### Development
@@ -747,7 +747,9 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
 1. Development directors are responsible for [triaging Infradev issues](/handbook/engineering/development/#daily-duties-for-engineering-directors) regularly by following the [triage process](#triage-process) below.
 1. Development managers are encouraged to [triage issues](#triage-process) regularly as well.
 1. Development managers collaborate with their counterpart Product Managers to refine, schedule, and resolve Infradev issues.
-1. Usually, issues are nominated as Infradev issues by SREs or Managers in the Infrastructure Department. Development engineers/managers are not expected to nominate Infradev issues. However, when it's necessary to spin off new issues from an Infradev issue, development engineers/managers may also apply `Infradev` label to the new issue(s).
+1. Usually, issues are nominated as Infradev issues by SREs or Managers in the Infrastructure Department. Development engineers/managers are not expected to nominate Infradev issues. 
+   1. However, when it's necessary to spin off new issues from an existing Infradev issue, development engineers and managers may also apply `Infradev` label to the new issues.
+   1. When development engineers and managers split off new Infradev issues, they must have a `Severity` and `Priority` labels to the new issues.  The labels should correspond to the importance of the follow-on work.
 
 #### Product Management
 
