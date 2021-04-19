@@ -113,15 +113,39 @@ The reports are broken out in folder format and once you click into the folders,
 1. `Strategy Planning (OKRs), Strategy Planner - Objective Details (Team)` - This report allows you to see how your plans are aligned to the Strategy feature within Allocadia.
     - Video walk through - [https://youtu.be/_VQG1BLjwmw](https://youtu.be/_VQG1BLjwmw)  - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
 
+##### Reporting folders breakdown 
+While the above listed reports are reports you use to get the information for your QBR, here's a breakdown on the other reporting folders. 
+
+1. Finance - we will view actuals here. We aren't using this folder in detail yet. More to come! 
+2. Health Check - We aren't using this folder in detail yet. More to come! 
+3. Investment Planning 
+    1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary. 
+    2. Vendor Plan details - Management uses this section to understand how much we are spending with DemandBase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the 
+
 ## Integrations
 
 ### GitLab Procurement issues
 
 You have the ability to create a GitLab procurement issue directly from Allocadia for a given line item. You will not be creating from category or subcategory lines as we need the expense to match the Vendor and the issue approvals.
 
-[Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts.
+[Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts. 
+
+For Field Marketing, the reviewer/approver will click into the linked Allocaida line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue. 
+
+More information on the [campaign tag creation](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags) can be found on the FMM handbook page. 
 
 You may also create a procurement issue for software & that video will be forthcoming.
+
+#### Procurement issues that can be created from Allocadia
+1. Vendor Contracts Marketing Events 
+1. Software Vendor Contract Requests 
+1. General Vendor Requests 
+
+#### Making changes to the Procurement issues
+If you find yourself needing to update a procurement issue template for any of the issues above - nedd to add link, please [submit an issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for the Marketing Strategy & Performance team, as this must be done through our Allocadia CSM. 
+
+#### Wrong procurement issue template was pushed...what now? 
+If you've hit the GitLab Procurement issue template button and the wrong issue tempalte has been created, not to fear! More info coming soon! But we won't leave ya hanging! 
 
 ### SFDC
 
@@ -149,7 +173,14 @@ We are looking into the ability to enter the Corporate (CEO level), Marketing (C
 
 ## Lead to Goal - Allocadia `Metrics' :hash:
 
-There is an `Impact Modeler` that we can use to automatically calculate the effect of our marketing efforts to MQL and SAOs. Similar to the way these were calculated in the 5Q rolling for the Field Marketing team, Allocadia can keep track of how spend should affect our lead volume.
+Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance. 
+
+By using the `Impact Modeller` feature we can forecast the ROI of our marketing efforts from an MQL>SAOs, SAO>Won, and pipeline standpoint taking into consideration the regional converstion rates by campaign type.
+
+We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. We have loaded two FY worth of data to get to these conversion rates given how different our campaigns types were in FY21 due to the pandemic. If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and then live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807). These charts will be added to the FMM Dashboard in a future iteration. 
+
+This calculation is done by then taking into account the MQLs and segment data that has been given at the line item level in the details panel. The ASPs (which we used the ASPs from the TOPO model per segment) are also loaded for calculation purposes. [Video walk through](https://youtu.be/LPMmah5tvT8) (and yes, you know you need to be logged into Unfiltered to see! ;))   
+
 
 ## GitLab Internal Calendars
 
