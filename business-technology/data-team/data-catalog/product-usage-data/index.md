@@ -139,7 +139,7 @@ A great way to get started building charts in Sisense is to watch this 10 minute
 - We utilize Usage Ping to derive self-managed customer usage data. Self-Managed customer product usage data is largely contained in the self-contained Usage Ping packets.
 - The SaaS Customer Product Usage Data is rebuilt using source database tables.
 - The Seat Link data encompasses license utilization data for all customers, regardless of type (self-managed or SaaS).
-- The Aggregated metrics are collected in 7d and 28d time frames are added into Usage Ping payload under the aggregated_metrics sub-key in the counts_weekly and counts_monthly top level keys.
+- The Aggregated metrics are collected in 7 and 28 day time frames are added into Usage Ping payload under the aggregated_metrics sub-key in the counts_weekly and counts_monthly top level keys.
 - Aggregated metrics for all time frame are present in the count top level key, with the aggregate_ prefix added to their name.
 - The underlying tables for Gainsight's consumption are built on the set of all Zuora subscriptions that are associated with a Self-Managed rate plans. Seat Link data from Customers DB is combined with high priority Usage Ping metrics to build out the set of facts included in this table.Tthe most recently received and the latest Usage Ping (by created_at date for a given subscription_id) and Seat Link (by dim_subscription_id) payload from each month are reported.
 
