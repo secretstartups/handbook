@@ -188,6 +188,10 @@ It can be challenging objectively evaluating product managers for categorization
 ##### Make evaluating potential actionable
 Product managers are typically driven and high performing individuals, and we often overestimate our own abilities relative to others. Seeing even a medium potential may be disappointing to many PMs. It should be made clear that a perceived lower than desired potential does not mean the PM is not valued and not performing to expectation. Managers should use a [CDF Review](#cdf-review) to discuss the scoring of the potential. The outcome should be to identify opportunities for the PM to grow and areas for the manager to mentor and coach the PM.
 
+### Supporting a Product Manager's Career
+
+At GitLab we want product managers to succeed at GitLab and beyond. Product managers are encuraged to fill out and talk to their manager about their longer term careers goals as part of their CDF reviews. This ensure it's stays top of mind and time gets alotted to it. To help faciliate, track and make time for overall career growth, product managers can fill out this specific template for career coaching conversations the main [CDF template](LINK TO APPROPRIATE CDF TAB).
+
 ## Competencies
 
 Product Managers must be able to demonstrate a variety of skills across our CDF. We provide additional career development guidance by listing [competencies](/handbook/competencies/) for each CDF category in order of priority. We are currently  building out our Product Management competencies. Any competencies that are not yet confirmed are lower in the list and not linked to supporting materials.   We'll add more details and supporting content for each one of these as they are confirmed.
