@@ -21,7 +21,7 @@ In the case where you cannot connect to Zendesk, it is best to alert Support-Ops
 immediately. It could be a localized problem or a problem with the nodes our
 instance lives on!
 
-### I am unable to access part of Zendesk Support for example, Insights?
+### I am unable to access part of Zendesk Support for example, Explore?
 
 This is likely a permission issue. It is best to either ping Support-Ops via
 slack or via an issue so we can look into this. If you are needing elevated
@@ -52,3 +52,13 @@ it, hit up Support-Ops so they can dig into it!
 There is, stemming from Zendesk itself. The first 8 personal views are
 accessible in the Views list. You can have more, but only the first (top) 8 will
 be displayed.
+
+### Is there a way to automatically CC an end-user to all tickets created by an organization?
+
+It is not possible to configure a trigger or automation to automatically CC end users. As an alternative, we can either: 
+
+1. Set up [Shared Organizations](https://about.gitlab.com/handbook/support/support-ops/workflows/shared_organizations.html) to allow all users within an organization to view their organization’s tickets. 
+1. We can add in the request to automatically CC another user in the [organization notes](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) so anyone handling the ticket can see that has been requested. 
+1. End-users can request the names/emails to CC on every ticket they raised so agents can manually add them in the CC. 
+1. They setup a shared group on their email provider and use that to submit tickets. 
+
