@@ -89,16 +89,21 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="https://gitlab.com/groups/gitlab-com/-/boards/825719" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Ops Global issue board</a>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Operations project</a>
   </div>
 </div>
+
+### Issue Boards
+
+1. [MktgOps Priority (issues by priority)](https://gitlab.com/groups/gitlab-com/-/boards/2626681)
+1. [MktgOps Status (issues by status)](https://gitlab.com/groups/gitlab-com/-/boards/2629676)
+1. [MktgOps Team (issues by team member)](https://gitlab.com/groups/gitlab-com/-/boards/2629685)
 
 ### Issues
 
 The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
-With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. To help us in that effort, please create any Marketing Operations issues in the following format.
+With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. 
 
 **Note:** This format is the [Agile user story](https://www.agilealliance.org/glossary/user-story-template/) format and helps the issue-requester (you) and the MOps team by clearly stating **what** as well as **why** for each request and concern.
 
@@ -134,7 +139,6 @@ Categories
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
 - `Marketo`, `Bizible`, `Cookiebot`, `Demandbase`, `Drift`, `GDPR`, `LeanData`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`, `Periscope`, `Terminus Email Experiences`, `ZoomInfo`, `Smartling`, `Vimeo`, `OneTrust`, `Typeform`: used to highlight one of our tech stack tools
-- `In Epic`: bright yellow label to show that it is part of a MktgOps epic
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
 - `MktgOps-Future Feature`: Something to consider for a future project as time allows. Timeframe: As time allows
@@ -185,9 +189,7 @@ Stage
 
 ### Milestones
 
-The MktgOps team works in two week sprints/iterations which are tracked as milestones at the `GitLab.com` level. Each Ops individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
-
-The MktgOps team will only create a milestone one beyond the current iteration, so at any given time there will be the **current** milestone and **upcoming** milestone, any other issue that is not included will be added into future milestones &/or added as work is completed in the current milestone.
+The MktgOps team works in two week iterations which are tracked as milestones at the `GitLab.com` level. Each Ops individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two-week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
 
 A milestone cannot be closed nor marked complete until the milestone's accompanying merge request has been merged. Within every milestone there is a `WIP` merge request with all commits being changes to our handbook. All team members contribute their changes to the milestone merge request. The merge request should be tagged with marketing operations labels and the current milestone.
 
