@@ -14,10 +14,6 @@ title: GitLab Learn User Documentation
 
 The following resources can be used by learners in the [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) platform to help navigate the login process, explore new content, and more.
 
-**Have additional questions?**
-
-GitLab team members can reach out to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) for additional support with GitLab Learn.
-
 #### A note about naming
 
 Review the following terms to get familiar with language used in this documentation.
@@ -36,7 +32,7 @@ If you're looking for support in getting your questions answered, please refer t
 | ----- | ----- |
 | GitLab team members | Please reach out to the L&D team in Slack for support via the [#learninganddevelopment channel](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/C6H8647PS-1611605514.007500) |
 | Customers | Please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) for help from our Support or Professional Services team |
-| Community Members | Please post your question in the in the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759). |
+| Community Members | Please post your question in the in the [GitLab Community Forum](https://forum.gitlab.com/c/gitlab-learn/42) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759). |
 
 
 ### First time login to GitLab Learn
@@ -257,6 +253,6 @@ This could be caused by your pop-up blocker or chrome extension. Please try the 
 
 ## Have additional questions about GitLab Learn?
 
-Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
+Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/c/gitlab-learn/42) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
 
 
