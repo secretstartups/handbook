@@ -24,17 +24,49 @@ This team will expand and improve on the Engineering specialty of the [Data Anal
 * Propose new data and measurements to provide additional clarity to existing measurements.
 * Analyze trends and propose strategic improvements to Engineering Leaders.
 * Ensure a smooth and efficient Key Review process with proactive performance indicator preparation.
-* Take feedback from stakeholders and iteration and improve Performance Indicators.
-* Lean on our values and continue to drive and achieve metric excellence
+* Take feedback from stakeholders and iterate to improve Performance Indicators and [Engineering Metrics](/handbook/engineering/metrics).
+* Lean on our values and continue to drive towards metric excellence.
 
 ## Team Structure
 
 This new team will be a new function under the Quality Department operating as a team of Data Analysts, led by an Engineering Manager reporting to the Quality Department Leader.
 
+```mermaid
+graph TD
+    A[Quality Department]
+    A --> B[Engineering Analytics Team]
+    B --> BA[Data Analyst]
+    B --> BB[Data Analyst]
+    A --> CA(Quality Engineering teams)
+    CA --> CAA[Software Engineer in Test]
+    CA --> CAB[Software Engineer in Test]
+    CA --> CAC[Software Engineer in Test]
+    A --> D[Engineering Productivity Team]
+    D --> DA[Engineering Productivity Engineer]
+    D --> DB[Engineering Productivity Engineer]
+    style B fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
+    style BA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
+    style BB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
+```
 
 ## How this team operates
 
 While this team operates as a single team reporting to one manager, we emphasize on ensuring the prioritization and needs of Engineering Leaders via stable counterparts.
+
+### Counterpart Assignments
+
+We assign the stable counterpart by Engineering Division’s sub-departments. This is identified by the Engineering Department name assigned to an Analyst title. E.g. `Senior Data Analyst, Development`
+
+| Engineering department | Data domains |
+| ------ | ------ |
+| `Development` | - MR Rate <br> - Code review/merge times <br> - Merge Request types <br> - Merge request activity and trends |
+| `Infrastructure` | - Spend efficiency & forecasting <br> - MTTP <br> - MTTR <br> - Corrective actions & Incidents  <br> - Infrastructure product related metrics <br> - Finance Partnership <br> - [Roadmap](https://about.gitlab.com/blog/2020/10/27/how-we-optimized-our-infrastructure-spend-at-gitlab/) |
+| `Quality` | - Defect age <br> -  Bug SLO/SLA <br> - Defect rates <br> - Pipeline efficiency <br> - Issue & Merge Reques type  |
+| `UX` | - UX debt age <br> - SUS Scores <br> - Refinement MR rate  |
+| `Security` | - Security Vulnerabilities <br> - Security SLA |
+| `Support` | - Ticket time to respond <br> - Ticket time to triage |
+
+Data analysts assigned to one area are experts in that area and may not have the knowledge depth in other areas. As such contributing cross domain expertise will only be limited to Sisense charting and not beyond this data layer.
 
 ### Bi-weekly sync with assigned counterparts
 
@@ -44,7 +76,6 @@ The Data Analysts counterparts will have bi-weekly meetings with their designate
 * Ensure completion of follow up for Key Review
 
 ### Weekly review with GitLab’s Data Team
-
 
 This team will have standing weekly sync with the Data team to:
 * Drive to resolution data dependencies
@@ -57,57 +88,6 @@ This team will have standing weekly sync with the Data team to:
 
 The team structure will leverage [stable counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) assignees to ensure proper allocation and attention needed to service all Engineering Departments and Leaders and still promote cross-functional collaboration and ownership of an area.
 
-### Counterpart Assignments
-
-We assign the stable counterpart by Engineering Division’s sub-departments.
-
-| Engineering department | Data domains |
-| ------ | ------ |
-| `Development` | - MR Rate <br> - Code review/merge times <br> - Merge Request types |
-| `Infrastructure` | - Spend efficiency <br> - TBD |
-| `Quality` | - Defect age <br> - TBD  |
-| `UX` | - UX debt age <br> - TBD |
-| `Security` | - TBD <br> - TBD |
-| `Support` | - TBD <br> - TBD |
-
-
-* Development Department
-  * Domain specificality:
-    * Code review/merge times
-    * Merge request activity and trends
-    * Merge request types
-* Infrastructure Department
-  * Domain specificality:
-    * Infrastructure spend efficiency
-    * Roadmap https://about.gitlab.com/blog/2020/10/27/how-we-optimized-our-infrastructure-spend-at-gitlab/
-    * Infrastructure product related metrics
-    * Incidents per product group
-    * Corrective actions
-    * MTTP
-    * MTTR
-    * Finance Partnership
-    * Cost forecasting work
-* Quality Department
-  * Domain specificality:
-    * Bug SLO/SLA
-    * Defect rates
-    * Pipeline efficiency
-* UX Department
-  * Domain specificality:
-    * SUS Scores
-    * UX debt
-    * Refinement MR rate
-* Security Department
-  * Domain specificality:
-    * Security Vulnerabilities
-    * Security SLA
-* Support Department
-  * Domain specificality:
-    * Ticket time to respond
-    * Ticket time to triage
-
-Data analysts assigned to one area are experts in that area and may not have the knowledge depth in other areas. As such contributing cross domain expertise will only be limited to Sisense charting and not beyond this data layer.
-
 ### Common Responsibilities
 In addition to the counterpart relationships, every data analyst on this team is responsible for:
 * Operational excellence in Sisense dashboards
@@ -115,6 +95,3 @@ In addition to the counterpart relationships, every data analyst on this team is
 * Metric representation consistency and ensuring our [guidelines](https://about.gitlab.com/handbook/engineering/performance-indicators/#guidelines) are met
 * Showcasing our work transparently to the world via our handbook.
 * Improve our handbook pages iteratively, ensure that it’s is up to date
-
-
-
