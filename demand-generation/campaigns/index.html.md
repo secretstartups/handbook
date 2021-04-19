@@ -103,7 +103,7 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
 
 **Zac Badgley** _Sr. Marketing Campaign Manager_
 
-- **Top-funnel campaigns for Commercial (Mid-Market and SMB) Segment, *EMEA and APAC***
+- **Top-funnel campaigns for Commercial (Mid-Market and SMB) Segment, *Americas***
   - Plan, organize, implement, and optimize top-funnel campaigns for commercial segment
   - Analyze and share results/findings of full-funnel attribution reporting for commercial segment
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel commercial campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
