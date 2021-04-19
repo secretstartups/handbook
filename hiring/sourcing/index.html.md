@@ -94,6 +94,10 @@ Please reach out to your recruiter for tips on how to improve your LinkedIn prof
 
 To note, we **won't** be able to reimburse any LinkedIn seats purchased at your own expense.
 
+## LinkedIn Talent Insights
+
+The Sourcing Team has two seasts for LinkedIn's **Talent Insights** product. **Talent Insights** is a platform that is specialized in answering business questions regarding workforce planning, talent pools, competitive hiring analysis, and more from its database that exceeds 705 million members, 50 million companies, 20 million jobs, and 90,000 schools. The use of this tool is especially helpful in determining the size of a *Talent Pool* for current- and future requisitions. To request such insights, please submit an Issue [here](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) using the `LinkedIn Talent Insights Request` template.
+
 ## Reach out to the Sourcing Team
 If you're not sure who is your Sourcing Partner, please visit our [Talent Acquisition Alignment](https://about.gitlab.com/handbook/hiring/talent-acquisition-alignment/) page or reach out to the Sourcing Manager.
 We welcome knowledge sharing within the team and use #sourcing-hacks Slack channel for market and industry updates and would appreciate your contributions.
