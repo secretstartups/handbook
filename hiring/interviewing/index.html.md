@@ -71,7 +71,8 @@ There are situations in which multiple internal applicants apply for the same ro
 
 #### Reminders For Recruitment
 
-Please ensure that internal applicants have appropriate Greenhouse visibility permissions for the role they are applying to. For example, internal applicants should _not_ be able to see other team members who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove almost all of the access manually.
+- Please ensure that internal applicants have appropriate Greenhouse visibility permissions for the role they are applying to. For example, internal applicants should _not_ be able to see other team members who have also applied for the role (internally or externally). If there are internal People Group requisitions the recruiter on the role should remove almost all of the access manually.
+- When scheduling interviews, please mark these are *private* on the calendar. Many team members at GitLab have their calendar event details set to be [internally viewable](https://about.gitlab.com/handbook/communication/#google-calendar). Setting up interviews as `private` is important to maintain confidentiality of applicants/candidates during the interview process.  
 
 ### Adjustments to our Interview Process
 
