@@ -27,6 +27,7 @@ description: "Landing page for many of the handbook pages the talent acquisition
 - [Talent Acquisition Metrics Process](/handbook/hiring/metrics/)
 - [Talent Acquisition Privacy Policy](/handbook/hiring/recruitment-privacy-policy/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
+- [Talent Operations & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
 - [Referral Operations](/handbook/hiring/referral-operations/)
 - [Referral Process](/handbook/hiring/referral-process/)
 - [Resource Guide](/handbook/hiring/resource-guide/)
