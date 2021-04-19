@@ -341,9 +341,17 @@ Successfully [managing team performance](/handbook/people-group/learning-and-dev
 
 ##### Facilitating Career Development Conversations
 
-Product Managers are highly encouraged to engage with their managers on Career Coaching. Here are some resources to help managers support their team members:
-- A [template for Career Coaching conversations](https://docs.google.com/document/d/1B1zNIH2lOIAvFnycSS5KiOIh_zoyXfYp45CKi91K1vk/edit) between Manager and Team Member
-- GitLab's [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit)
+Product leaders are highly encouraged to engage with their product managers on long term career goals. To help keep career coaching top of mind, we've included a specific template for career coaching conversations the main [CDF template](LINK TO APPROPRIATE CDF TAB).  Product managers can fill this out and track it with their managers. Please note this is optinal for product managers, encouraged but not required. 
+
+Tips for using the career coaching template effectively:
+
+- Make sure you help product managers set realisitic, achievable career  goals in tandem with the job responsiblities and goals. 
+- It is important to support product managers in finding TIME to pursue broader career learning, or it'll never get prioritized over their daily job
+- ADDITIONAL CONENT NEEDED SUCH AS SPECIFICS OF HOW TO USE THE TEMPLATE OR NOT USE THE TEMPLATE
+
+GitLab has a [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) that product managers should be maded aware of as well. 
+
+To support product leaders at being effective at career coaching and mentorship, we'll soon be adding supporting materials to the [product L & D](/handbook/product/product-manager-role/learning-and-development/). 
 
 |  **Level** | **Demonstrates Competency by...**| **Assessment** |
 | --- | --- | --- |
