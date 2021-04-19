@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Enablement"
-description: "The Field Enablement team's mission is to help customers successfully grow and evolve in their journey with GitLab to achieve positive business outcomes with effective enablement solutions aligned to Gitlab’s values"
+description: "The Field Enablement team's mission is to design and deliver effective enablement solutions to field team members and partners that grow expertise and confidence needed to drive efficient, predictable, and scalable growth for GitLab"
 ---
 
 {::options parse_block_html="true" /}
