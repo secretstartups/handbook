@@ -55,11 +55,16 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 This content is divided into five key competencies for Product Managers. 
 
-<!--**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp; ✏️ [Design](design)  &nbsp; &nbsp; &nbsp;  🚀 [Delivery](delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**-->
-
-<a id=“discovery”> </a>
-## 💡 Discovery
 <hr>
+
+**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp;   🚀 [Delivery](#delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**
+
+<hr>
+
+## <a id="discovery"></a>💡 Discovery
+
+---
+
 ### 💡 User research
 
 ##### Quick reads and videos
@@ -179,12 +184,9 @@ This content is divided into five key competencies for Product Managers.
 - [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
 
 
+### 💡 Design
 
-<br>
-<br>
-<a id=“design”> </a>
-## ✏️ Design 
-<hr>
+
 ##### Quick reads and videos
 
 - [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
@@ -211,9 +213,11 @@ This content is divided into five key competencies for Product Managers.
 
 <br>
 <br>
-<a id=“delivery”></a>
-## 🚀 Delivery
-<hr>
+
+## <a id="delivery"></a> 🚀 Delivery
+
+---
+
 ### 🚀 User stories
 
 ##### Quick reads and videos
@@ -273,9 +277,11 @@ _Please contribute your favorite resources here_
 _Please contribute your favorite resources here_
 <br>
 <br>
-<a id=“business-acumen”> </a>
-## 📈 Business acumen
-<hr>
+
+## <a id="business-acumen"></a> 📈 Business acumen
+
+---
+
 ### 📈 Product strategy
 
 ##### Quick reads and videos
@@ -339,9 +345,11 @@ _Please contribute your favorite resources here_
 
 <br>
 <br>
-<a id=“communication”> </a>
-## 💬 Communication
-<hr>
+
+## <a id="communication"></a> 💬 Communication
+
+---
+
 ### 💬 Relationships with customers
 
 ##### Quick reads and videos
@@ -402,9 +410,11 @@ _Please contribute your favorite resources here_
 
 <br>
 <br>
-<a id=“team-management”> </a>
-## 🤝 Team management 
-<hr>
+
+## <a id="team-management"></a> 🤝 Team management 
+
+---
+
 ### 🤝 Stakeholder management
 
 ##### Quick reads and videos
