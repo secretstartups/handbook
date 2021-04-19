@@ -151,13 +151,51 @@ There are multiple types of PathFactory experiences that you can create under `C
 1. Explore Pages - Explore Pages allow your visitors to quickly view all content assets in a content track. Each `Explore Page` you create is built on top of an existing `Target` or `Recommend` Content Track.
 1. Website Promoters - Website promoters allow you to harness the power of PathFactory’s content promoters directly on your website. They provide more opportunities for interested parties to find and enter your Content Tracks by connecting eye-catching CTAs to content tracks.
 
-## Track Naming conventions
+## Naming Conventions
 
-When creating and editing content tracks, please use the following naming convention to let others know the status of your track.
+### Assets
+
+When adding assets to the [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/), please ensure both the public and internal titles match the title of the asset. Do not add any extra prefixes to the asset title (ex: `[BLOG] - Title of blog`). Content types are already indicated by the content type field. Remove any extra SEO meta title information such as `|GitLab` that is appended to the title once PathFactory pulls in the information about the asset from the URL. Follow the [editorial team's guidelines](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/) for formatting and [case](/handbook/marketing/inbound-marketing/content/editorial-team/#case) (sentence case).
+
+[Title of asset]
+
+### Tracks 
+
+When creating and editing content tracks, please use the following naming convention to let others know the status of your track. These track names are not shown to the visitor of the track. Name the track so that other `Author` roles understand the use of your track. Add start and end dates for your campaign if relevant so it can be archived/deleted at a later date. Add [persona](/handbook/marketing/marketing-operations/pathfactory/content-library/#personas) in the track title if the track is for a specific persona. [Add a GTM motion](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content) to the title if the track assets are focused toward a specific GTM motion.
 
 1. `[WIP] - [Campaign Name]` - work in progress track; not live
 1. `[LIVE] - [Campaign Name]` - live track; traffic is flowing to track
 1. `[ARCHIVED] - [Campaign Name]` - arhived track; not in active use; traffic may or may not be flowing to track
+
+### Track Labels
+
+Track labels are used to document the channels that a content track is distributed on. These track labels are arbitrary and do not tie to any functionality within PathFactory. They are simply used to indicate to other `Author` roles within PathFactory how you intend to use your content track. 
+
+| Label | Use |
+| ------ | ------ |
+| archived | content track no longer in use and marked for archiving, possibly future deletion |
+| email | content track to be sent from a Marketo email or nurture stream |
+| event | content track is shared as part of a corporate event or partner event |
+| external | content track is shared externally (ex: third-party website) |
+| in-app | content track sent from an in-product message or notification |
+| integrated campaign | content track is part of an integrated campaign |
+| internal use only | content track is distributed to GitLab team members only |
+| landing page | content track is sent to a visitor after filling out a form on a landing page |
+| organic social | content track is shared in an organic social media post |
+| outreach | content track is sent via [Outreach](/handbook/marketing/marketing-operations/outreach/) |
+| paid search | content track is part of a paid search campaign |
+| paid social | content track is part of a paid social campaign |
+| SAL inbound | content track is enabled for PathFactory for Sales for SALs to share inbound |
+| SAL outbound | content track is enabled for PathFactory for Sales for SALs to share outbound |
+| SDR inbound | content track is enabled for PathFactory for Sales for SDRs to share inbound |
+| SDR outbound | content track is enabled for PathFactory for Sales for SDRs to share outbound |
+| survey/quiz | content track is shared in a survey or quiz |
+| web promoter | content track is used in a website promoter within PathFactory |
+| website | content track is linked on a web page on `about.gitlab.com` |
+
+### Track Folders 
+
+Track folders are set up by team as different teams within marketing use and distribute content tracks for various use cases. This helps to ensure that team members only make change to content tracks within their team folder. 
 
 ## Content Tracks
 
