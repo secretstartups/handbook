@@ -3,6 +3,12 @@ layout: markdown_page
 title: "Sales Play: Upsell Premium to Ultimate"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
 
 ## Overview
