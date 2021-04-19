@@ -62,7 +62,7 @@ Our demo conversion rate in December 2020 was 8.3% (600/7,226).
 
 ### Marketing Metrics Dashboard
 
-The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/431555/Marketing-Metrics) is the centralized hub of all major marketing metrics and [marketing KPIs](/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions). It is an evergreen source of information brought in from Salesforce that is comprised of numerous individual graphs/charts (defined below) and allows the viewer to quickly filter results using pre-defined filters on the dashboard itself.
+The [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) is the centralized hub of all major marketing metrics and [marketing KPIs](/handbook/marketing/revenue-marketing/#revenue-marketing-kpi-definitions). It is an evergreen source of information brought in from Salesforce that is comprised of numerous individual graphs/charts (defined below) and allows the viewer to quickly filter results using pre-defined filters on the dashboard itself.
 
 ### Marketing Attribution
 
@@ -75,210 +75,1027 @@ Note: The time delay between a record being added to SFDC and the time it takes 
 
 ![Trial sign up flow](/images/handbook/marketing/marketing-operations/trial-sign-up-flow.png)
 
-### Marketing Metric Charts - Base Fields and Base Data Filters
+### [Marketing Metrics Dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) Charts - Base Fields, Base Data Filters and SQL Queries
 
 #### New Unique Emails Added
 **Base Fields**
-1. Salesforce `Leads` and `Contacts` - sum of unique SFDC IDs
+1. Salesforce `Leads` and `Contacts` - Count of unique email addresses
 1. `Created Date` - SFDC System field - grouped by Month
-1. [Net New Source Categories](https://docs.google.com/spreadsheets/d/1s0n1vrcROrG7qjJ55hz3qs5UyOLvSO-ljEx4IT5ENf4/edit?usp=sharing) - using the [Lead's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields) or [Contact's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Contact&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DContact%26setupid%3DContactFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DContact&setupid=ContactFields) - By Default `DiscoverOrg` is removed, but can be added in with a Sisense filter.   
+1. [Net New Source Categories](https://docs.google.com/spreadsheets/d/1s0n1vrcROrG7qjJ55hz3qs5UyOLvSO-ljEx4IT5ENf4/edit?usp=sharing) - using the [Lead's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields) or [Contact's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Contact&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DContact%26setupid%3DContactFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DContact&setupid=ContactFields) 
 
-**Base Filter**
-`Email` is not NULL.
+**Adjustable Filters**
+1. `User_Sales_Segment`
+1. `_fiscal_year_`
 
-### MQLs by Date by Initial Source
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH base AS (
+SELECT
+  mart_crm_person.*,
+  dim_date.fiscal_month_name_fy,
+  dim_date.fiscal_quarter_name_fy,  
+  dim_date.fiscal_year,
+  dim_date.fiscal_year                     AS date_range_year,
+  dim_date.fiscal_quarter_name_fy          AS date_range_quarter,
+  DATE_TRUNC(month, dim_date.date_actual)  AS date_range_month,
+  dim_date.date_id                         AS date_range_id
+FROM [mart_crm_person]
+LEFT JOIN common.dim_date 
+  ON mart_crm_person.created_date = dim_date.date_day
+  WHERE [sales_segment_name=user_segment_name]
+  AND [fiscal_year=_fiscal_year_]
+)
+SELECT 
+COUNT(DISTINCT email_hash) AS records,
+lead_source,
+[_Group_By_Time]
+FROM base
+GROUP BY 2,3
+ORDER BY 
+3,2
+
+```
+
+</details>
+
+### MQLs by Initial Source Bucket
 **Base Fields**
-1. Salesforce `Leads` and `Contacts` - sum of unique SFDC IDs
-1. `MQL Date` - [Lead MQL Date](https://gitlab.my.salesforce.com/00N6100000CJuLB?setupid=LeadFields) or [Contact MQL Date](https://gitlab.my.salesforce.com/00N4M00000IW0Jx?setupid=ContactFields) - grouped by Month
+1. Salesforce `Leads` and `Contacts` - Count of unique email addresses
+1. `MQL Date` - [Lead MQL Date](https://gitlab.my.salesforce.com/00N6100000CJuLB?setupid=LeadFields) or [Contact MQL Date](https://gitlab.my.salesforce.com/00N4M00000IW0Jx?setupid=ContactFields) - grouped by `_Group_by_Time` filter
 1. [Source Buckets](https://docs.google.com/spreadsheets/d/1s0n1vrcROrG7qjJ55hz3qs5UyOLvSO-ljEx4IT5ENf4/edit?usp=sharing) - using the [Lead's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields) or [Contact's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Contact&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DContact%26setupid%3DContactFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DContact&setupid=ContactFields)
 
-**Base Filter**
-`MQL Date` is not from `2018-12-03 08:00:00` to `2018-12-04 07:00:00` (UTC)
+**Adjustable Filters**
+1. `User_Sales_Segment`
+1. `_fiscal_year_`
 
-### MQLs by Date by Segment
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH base AS (
+
+SELECT 
+  [_Group_By_Time],
+  sales_segment_name,
+  email_hash,
+  source_buckets
+FROM [rpt_crm_person_mql] 
+WHERE [sales_segment_name=user_segment_name]
+  AND [fiscal_year=_fiscal_year_]
+ORDER BY 1
+  
+)
+
+SELECT
+COUNT(DISTINCT email_hash) AS mqls,
+source_buckets,
+[_Group_By_Time]
+FROM
+  base
+group by
+  3,2
+order by
+  3,2
+
+```
+
+</details>
+
+### MQLs by Segment
 **Base Fields**
-1. Salesforce `Leads` and `Contacts` - sum of unique SFDC IDs
-1. `MQL Date` - [Lead MQL Date](https://gitlab.my.salesforce.com/00N6100000CJuLB?setupid=LeadFields) or [Contact MQL Date](https://gitlab.my.salesforce.com/00N4M00000IW0Jx?setupid=ContactFields) - grouped by Month
+1. Salesforce `Leads` and `Contacts` - Count of unique email addresses
+1. `MQL Date` - [Lead MQL Date](https://gitlab.my.salesforce.com/00N6100000CJuLB?setupid=LeadFields) or [Contact MQL Date](https://gitlab.my.salesforce.com/00N4M00000IW0Jx?setupid=ContactFields) - grouped by `_Group_by_Time` filter
 1. `Sales Segment` - [Lead Sales Segment](https://gitlab.my.salesforce.com/00N6100000HHdoa?setupid=LeadFields) or [Contact/Account UPA Sales Segment](https://gitlab.my.salesforce.com/00N6100000IOi8o?setupid=AccountFields) - using the [Lead's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields) or [Contact's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Contact&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DContact%26setupid%3DContactFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DContact&setupid=ContactFields)
 
-**Base Filter**
-`MQL Date` is not from `2018-12-03 08:00:00` to `2018-12-04 07:00:00` (UTC)
+**Adjustable Filters**
+1. `User_Sales_Segment`
+1. `_fiscal_year_`
+1. `Source_Bucket`
 
-### Converted MQLs by Converted Date
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH base AS (
+SELECT 
+  [_Group_By_Time],
+  sales_segment_name,
+  dim_crm_person_id
+  --bizible_marketing_channel_path_name
+ -- COUNT(mql) AS actual_mqls --this counts mqls by ID, not by email hash
+FROM [rpt_crm_person_mql] 
+WHERE [sales_segment_name=user_segment_name]
+  AND [fiscal_year=_fiscal_year_]
+ORDER BY 1
+)
+, unioned AS (
+  SELECT 
+base.dim_crm_person_id,
+[_Group_By_Time],
+sales_segment_name,
+  common.dim_crm_person.email_hash AS email_hash,
+  source_buckets
+  FROM base
+  LEFT JOIN common.dim_crm_person 
+  ON base.dim_crm_person_id = common.dim_crm_person.dim_crm_person_id
+)
+SELECT
+[_Group_By_Time],
+COUNT(DISTINCT email_hash) AS mqls,
+sales_segment_name--,
+--sales_segment_name AS segment
+FROM
+  unioned
+WHERE
+[source_buckets=Source_Bucket]
+GROUP BY
+  1,3
+ORDER BY
+  1,3
+
+```
+
+</details>
+
+### MQLs by Detailed Initial Source
 **Base Fields**
-1. Salesforce `Leads` - sum of unique SFDC IDs
-1. `Converted Date` - SFDC System Field - grouped by Month
-1. [Source Buckets](https://docs.google.com/spreadsheets/d/1s0n1vrcROrG7qjJ55hz3qs5UyOLvSO-ljEx4IT5ENf4/edit?usp=sharing) - using the [Lead's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields)
+1. Salesforce `Leads` - Count of unique email addresses
+1. `MQL Date` - [Lead MQL Date](https://gitlab.my.salesforce.com/00N6100000CJuLB?setupid=LeadFields) or [Contact MQL Date](https://gitlab.my.salesforce.com/00N4M00000IW0Jx?setupid=ContactFields) - grouped by `_Group_by_Time` filter
+1. `Initial Source` - using the [Lead's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields)
 
-**Base Filter**
-`MQL Date` is not from `2018-12-03 08:00:00` to `2018-12-04 07:00:00` (UTC)
-`MQL Date` is not NULL
-`Is Converted` - SFDC System Field - is not `False`
+**Adjustable Filters**
+1. `User_Sales_Segment`
+1. `_fiscal_year_`
+1. `Source_Bucket`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH base AS (
+SELECT 
+  [_Group_By_Time],
+  sales_segment_name,
+  dim_crm_person_id
+FROM [rpt_crm_person_mql] 
+WHERE [sales_segment_name=user_segment_name]
+  AND [fiscal_year=_fiscal_year_]
+ORDER BY 1
+)
+, unioned AS (
+  SELECT 
+base.dim_crm_person_id,
+[_Group_By_Time],
+sales_segment_name,
+  common.dim_crm_person.email_hash AS email_hash,
+  lead_source
+  FROM base
+  LEFT JOIN common.dim_crm_person 
+  ON base.dim_crm_person_id = common.dim_crm_person.dim_crm_person_id
+)
+SELECT
+[_Group_By_Time],
+COUNT(DISTINCT email_hash) AS mqls,
+lead_source
+FROM
+  unioned
+WHERE
+[source_buckets=Source_Bucket]
+GROUP BY
+  1,3
+ORDER BY
+  1,3
+
+```
+
+</details>
+
+### MQLs by Detailed Initial Source - Daily
+**Base Fields**
+1. Salesforce `Leads` - Count of unique email addresses
+1. `MQL Date` - [Lead MQL Date](https://gitlab.my.salesforce.com/00N6100000CJuLB?setupid=LeadFields) or [Contact MQL Date](https://gitlab.my.salesforce.com/00N4M00000IW0Jx?setupid=ContactFields) - grouped by day
+1. `Initial Source` - using the [Lead's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields)
+
+**Adjustable Filters**
+1. `User_Sales_Segment`
+1. `_fiscal_year_`
+1. `Source_Bucket`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH base AS (
+SELECT 
+  mql_date_first,
+  sales_segment_name,
+  dim_crm_person_id
+FROM [rpt_crm_person_mql] 
+WHERE [sales_segment_name=user_segment_name]
+  AND [fiscal_year=_fiscal_year_]
+ORDER BY 1
+)
+, unioned AS (
+  SELECT 
+base.dim_crm_person_id,
+mql_date_first AS mql_date,
+sales_segment_name,
+  common.dim_crm_person.email_hash AS email_hash,
+  lead_source
+  FROM base
+  LEFT JOIN common.dim_crm_person 
+  ON base.dim_crm_person_id = common.dim_crm_person.dim_crm_person_id
+)
+SELECT
+date_trunc('day',mql_date)::Date AS mql_month,
+COUNT(DISTINCT email_hash) AS mqls,
+lead_source
+FROM
+  unioned
+WHERE
+[source_buckets=Source_Bucket]
+GROUP BY
+  1,3
+ORDER BY
+  1,3
+
+```
+
+</details>
 
 ### Opportunity Creation - Count by Source
 **Base Fields**
 1. Salesforce `Opportunities` - sum of unique SFDC IDs
-1. `Created Date` - SFDC System Field - Grouped by Month
+1. `Created Date` - SFDC System Field - Grouped by `Group_by_Time` filter
 1. [Source Buckets](https://docs.google.com/spreadsheets/d/1s0n1vrcROrG7qjJ55hz3qs5UyOLvSO-ljEx4IT5ENf4/edit?usp=sharing) - Using the [Opportunity Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields)
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
 
-### Opportunity Creation - IACV by Segment
+**Adjustable Filters**
+1. `Order_Type`
+1. `Sales_Qualified_Source`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+1. `source_bucket`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  COUNT(*) AS actual_created,
+ source_buckets
+FROM [rpt_crm_opportunity_created_period]
+WHERE [order_type=order_type]
+  AND [sales_qualified_source_name=sales_qualified_source]
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+    AND [source_buckets=Source_Bucket]
+  AND is_edu_oss = 0
+   AND stage_name != '10-Duplicate'
+GROUP BY 1,3
+ORDER BY 1
+  
+)
+
+SELECT
+actual_created,
+source_buckets,
+[_Group_By_Time]
+FROM actual_created
+ORDER BY 3
+
+```
+
+</details>
+
+### Opportunity Creation - Net ARR by Segment
 **Base Fields**
-1. [Opportunity's IACV](https://gitlab.my.salesforce.com/00N6100000HJpyB?setupid=OpportunityFields) - sum of IACV
-1. `Created Date` - SFDC System Field - Grouped by Month
-1. `Sales Segment` - Using the [Account UPA Sales Segment](https://gitlab.my.salesforce.com/00N6100000IOi8o?setupid=AccountFields)
+1. [Opportunity's Net ARR](https://gitlab.my.salesforce.com/00N4M00000Ib5n8?setupid=OpportunityFields) - sum of Net ARR
+1. `Created Date` - SFDC System Field - Grouped by `_Group_by_Time` filter
+1. `Sales Segment` - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Segment`
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
 
-### XDR Opportunity Creation by XDR
+**Adjustable Filters**
+1. `Order_Type`
+1. `Sales_Qualified_Source`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+ SUM(net_arr) AS actual_net_arr,
+  crm_user_sales_segment
+FROM [rpt_crm_opportunity_created_period]
+WHERE [order_type=order_type]
+  AND [sales_qualified_source_name=sales_qualified_source]
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+   AND stage_name != '10-Duplicate'
+  --AND is_sao = TRUE
+GROUP BY 1,3
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+crm_user_sales_segment AS sales_segment,
+actual_net_arr AS arr
+
+FROM actual_created
+ORDER BY 1,2
+
+```
+
+</details>
+
+### SDR Opportunity Creation by SDR
 **Base Fields**
-1. Salesforce `Opportunities` - sum of unique SFDC IDs
-1. `Created Date` - SFDC System Field - Grouped by Month
-1. `XDR` - by User Name -  Using the [SDR](https://gitlab.my.salesforce.com/00N6100000HmyBe?setupid=OpportunityFields) or [BDR](https://gitlab.my.salesforce.com/00N6100000HmyBZ?setupid=OpportunityFields) fields on the Opportunity.
+1. Salesforce `Opportunities` - Count of unique SFDC IDs
+1. `Created Date` - SFDC System Field - Grouped by `Group_by_Time` filter
+1. `SDR` - by User Name -  Using the [SDR/BDR](https://gitlab.my.salesforce.com/00N6100000I1Y02?setupid=OpportunityFields) field on the Opportunity.
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
-`XDR` is not NULL or `Sales Admin`
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. `SDR` is not NULL
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
 
-### XDR Opportunity Creation by Source
+**Adjustable Filters**
+1. `Order_Type`
+1. `Sales_Qualified_Source`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  COUNT(*) AS actual_created,
+  opportunity_development_representative
+FROM [rpt_crm_opportunity_created_period]
+WHERE [order_type=order_type]
+  AND [sales_qualified_source_name=sales_qualified_source]
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+   AND stage_name != '10-Duplicate'
+  AND opportunity_development_representative IS NOT null
+GROUP BY 1,3
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+opportunity_development_representative,
+actual_created
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+### SDR Opportunity Creation by Source Bucket
 **Base Fields**
-1. Salesforce `Opportunities` - sum of unique SFDC IDs
-1. `Created Date` - SFDC System Field - Grouped by Month
+1. Salesforce `Opportunities` - Count of unique SFDC IDs
+1. `Created Date` - SFDC System Field - Grouped by `Group_by_Time` filter
 1. [Source Buckets](https://docs.google.com/spreadsheets/d/1s0n1vrcROrG7qjJ55hz3qs5UyOLvSO-ljEx4IT5ENf4/edit?usp=sharing) - using the [Opportunity's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields)
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
-`XDR` is not NULL or `Sales Admin` - by User Name - Using the [SDR](https://gitlab.my.salesforce.com/00N6100000HmyBe?setupid=OpportunityFields) or [BDR](https://gitlab.my.salesforce.com/00N6100000HmyBZ?setupid=OpportunityFields) fields on the Opportunity.
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) = `BDR Generated` or `SDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
 
-### XDR Pipeline Creation - IACV
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+1. `source_bucket`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  COUNT(*) AS actual_created,
+  source_buckets
+FROM [rpt_crm_opportunity_created_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('BDR Generated','SDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+    AND [source_buckets=Source_Bucket]
+  AND is_edu_oss = 0
+   AND stage_name != '10-Duplicate'
+GROUP BY 1,3--,4
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+source_buckets,
+actual_created
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+### SDR Pipeline Creation - Net ARR
 **Base Fields**
-1. [Opportunity's IACV](https://gitlab.my.salesforce.com/00N6100000HJpyB?setupid=OpportunityFields) - sum of IACV
-1. `Created Date` - SFDC System Field - Grouped by Month
-1. `Sales Segment` - Using the [Account UPA Sales Segment](https://gitlab.my.salesforce.com/00N6100000IOi8o?setupid=AccountFields)
+1. [Opportunity's Net ARR](https://gitlab.my.salesforce.com/00N4M00000Ib5n8?setupid=OpportunityFields) - sum of Net ARR
+1. `Created Date` - SFDC System Field - Grouped by `Group_by_Time` filter
+1. `Sales Segment` - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Segment`
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
-[Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
 
-### XDR SAOs by XDR
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  crm_user_sales_segment,
+ SUM(net_arr) AS actual_net_arr
+FROM [rpt_crm_opportunity_created_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+  AND stage_name != '10-Duplicate'
+GROUP BY 1,2
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+crm_user_sales_segment,
+actual_net_arr AS arr
+
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+### SAO SDR Pipeline Creation - Net ARR
 **Base Fields**
-1. Salesforce `Opportunities` - sum of unique SFDC IDs
-1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by Month
-1. `XDR` - by User Name - Using the [SDR](https://gitlab.my.salesforce.com/00N6100000HmyBe?setupid=OpportunityFields) or [BDR](https://gitlab.my.salesforce.com/00N6100000HmyBZ?setupid=OpportunityFields) fields on the Opportunity.
+1. [Opportunity's Net ARR](https://gitlab.my.salesforce.com/00N4M00000Ib5n8?setupid=OpportunityFields) - sum of Net ARR
+1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by `Group_by_Time` filter
+1. `Sales Segment` - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Segment`
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
-`XDR` is not NULL or `Sales Admin`
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
 
-### XDR SAOs by Source
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  crm_user_sales_segment,
+ SUM(net_arr) AS actual_net_arr
+FROM [rpt_crm_opportunity_accepted_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+  AND stage_name != '10-Duplicate'
+GROUP BY 1,2
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+crm_user_sales_segment,
+actual_net_arr AS arr
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+### SDR SAOs by Segment
 **Base Fields**
-1. Salesforce `Opportunities` - sum of unique SFDC IDs
-1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by Month
+1. Salesforce `Opportunities` - Count of unique SFDC IDs
+1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by `Group_by_Time` filter
+1. `Sales Segment` - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Segment`
+
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
+
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  crm_user_sales_segment,
+COUNT(*) AS actual_saos
+FROM [rpt_crm_opportunity_accepted_period]
+WHERE [order_type=order_type]
+ AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+  AND stage_name != '10-Duplicate'
+  AND is_sao = TRUE
+GROUP BY 1,2
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+crm_user_sales_segment,
+actual_saos
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+
+### SDR SAOs by Source
+**Base Fields**
+1. Salesforce `Opportunities` - Count of unique SFDC IDs
+1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by `Group_by_Time` filter
 1. [Source Buckets](https://docs.google.com/spreadsheets/d/1s0n1vrcROrG7qjJ55hz3qs5UyOLvSO-ljEx4IT5ENf4/edit?usp=sharing) - using the [Opportunity's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields)
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
-`XDR` is not NULL or `Sales Admin`
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
 
-### XDR SAOs - Opp per XDR
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+1. `source_bucket`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  source_buckets,
+COUNT(*) AS actual_saos
+FROM [rpt_crm_opportunity_accepted_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+    AND [source_buckets=Source_Bucket]
+  AND is_edu_oss = 0
+  AND stage_name != '10-Duplicate'
+  AND is_sao = TRUE
+GROUP BY 1,2
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+source_buckets,
+actual_saos
+
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+### SDR SAOs by Initial Source
+
 **Base Fields**
-1. Salesforce `Opportunities` - sum of unique SFDC IDs
-1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by Month
-1. Salesforce `XDR`s - count of unique users in that role
-1. count of `Opportunities` / count of `XDR`s as - Opps per XDR
+1. Salesforce `Opportunities` - Count of unique SFDC IDs
+1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by `Group_by_Time` filter
+1. [Opportunity's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields)
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
-`XDR` is not NULL or `Sales Admin` - by User Name - Using the [SDR](https://gitlab.my.salesforce.com/00N6100000HmyBe?setupid=OpportunityFields) or [BDR](https://gitlab.my.salesforce.com/00N6100000HmyBZ?setupid=OpportunityFields) fields on the Opportunity.
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
 
-### XDR Closed Won by Segment - Count
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  lead_source,
+COUNT(*) AS actual_saos
+FROM [rpt_crm_opportunity_accepted_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+  AND stage_name != '10-Duplicate'
+  AND is_sao = TRUE
+GROUP BY 1,2
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+lead_source,
+actual_saos
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+### SDR SAOs by SDR
 **Base Fields**
-1. Salesforce `Opportunities` - sum of unique SFDC IDs
-1. [Closed Date](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=CloseDate&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields) - Grouped by Month
-1. `Sales Segment` - Using the [Account UPA Sales Segment](https://gitlab.my.salesforce.com/00N6100000IOi8o?setupid=AccountFields)
+1. Salesforce `Opportunities` - Count of unique SFDC IDs
+1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by `Group_by_Time` filter
+1. `SDR` - by User Name -  Using the [SDR/BDR](https://gitlab.my.salesforce.com/00N6100000I1Y02?setupid=OpportunityFields) field on the Opportunity.
+1. `Sales Segment` - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Segment`
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is 'Closed Won' or '7-Closed Won'
-`XDR` is not NULL or `Sales Admin` - by User Name - Using the [SDR](https://gitlab.my.salesforce.com/00N6100000HmyBe?setupid=OpportunityFields) or [BDR](https://gitlab.my.salesforce.com/00N6100000HmyBZ?setupid=OpportunityFields) fields on the Opportunity.
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
+1. `SDR` is not null
 
-### XDR Closed Won by Segment - IACV
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  crm_user_sales_segment,
+COUNT(*) AS actual_saos,
+  opportunity_development_representative
+FROM [rpt_crm_opportunity_accepted_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+  AND opportunity_development_representative IS NOT null
+  AND stage_name != '10-Duplicate'
+  AND is_sao = TRUE
+GROUP BY 1,2,4
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+crm_user_sales_segment,
+actual_saos,
+ opportunity_development_representative
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+### SDR SAOs - Opp per SDR
 **Base Fields**
-1. [Opportunity's IACV](https://gitlab.my.salesforce.com/00N6100000HJpyB?setupid=OpportunityFields) - sum of IACV
-1. [Closed Date](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=CloseDate&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields) - Grouped by Month
-1. `Sales Segment` - Using the [Account UPA Sales Segment](https://gitlab.my.salesforce.com/00N6100000IOi8o?setupid=AccountFields)
+1. Salesforce `Opportunities` - Count of unique SFDC IDs
+1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields) - Grouped by `Group_by_Time` filter
+1. `SDR` - Count of SDRs -  Using the [SDR/BDR](https://gitlab.my.salesforce.com/00N6100000I1Y02?setupid=OpportunityFields) field on the Opportunity.
+1. Count of `Opportunities` / count of `SDR`s as - `SAOs per SDR`
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is 'Closed Won' or '7-Closed Won'
-`XDR` is not NULL or `Sales Admin` - by User Name - Using the [SDR](https://gitlab.my.salesforce.com/00N6100000HmyBe?setupid=OpportunityFields) or [BDR](https://gitlab.my.salesforce.com/00N6100000HmyBZ?setupid=OpportunityFields) fields on the Opportunity.
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
+1. `SDR` is not null
 
-### Converted MQLs by Converted Date - daily
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
+
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  opportunity_development_representative,
+  dim_crm_opportunity_id as opp_id
+FROM [rpt_crm_opportunity_accepted_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+     AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+  AND stage_name != '10-Duplicate'
+  AND opportunity_development_representative IS NOT null
+ AND is_sao = TRUE
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+COUNT(DISTINCT opportunity_development_representative) as SDRs,
+COUNT(DISTINCT opp_id) AS sao_count,
+(sao_count/SDRs) AS saos_per_sdr
+FROM actual_created
+GROUP BY 1
+ORDER BY 1
+
+```
+
+</details>
+
+
+### SDR Closed Won by Segment - Count
 **Base Fields**
-1. Salesforce `Leads` - sum of unique SFDC IDs
-1. `Converted Date` - SFDC System Field - grouped by Day
-1. [Source Buckets](https://docs.google.com/spreadsheets/d/1s0n1vrcROrG7qjJ55hz3qs5UyOLvSO-ljEx4IT5ENf4/edit?usp=sharing) - using the [Lead's Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Lead&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DLead%26setupid%3DLeadFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DLead&setupid=LeadFields)
+1. Salesforce `Opportunities` - Count of unique SFDC IDs
+1. [Closed Date](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=CloseDate&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields) - Grouped by `Group_by_Time` filter
+1. `Sales Segment` - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Segment`
 
-**Base Filter**
-`MQL Date` is not from `2018-12-03 08:00:00` to `2018-12-04 07:00:00` (UTC)
-`MQL Date` is not NULL
-`Is Converted` - SFDC System Field - is not `False`
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
+1. [is_won](https://gitlab.my.salesforce.com/00N6100000IOu6D?setupid=OpportunityFields) = `True`
 
-### Inquiries
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
 
+<details>
+<summary><i>SQL Query</i></summary>
+
+```
+
+WITH actual_created AS (
+
+SELECT
+  [_Group_By_Time],
+  crm_user_sales_segment,
+COUNT(*) AS actual_saos
+FROM [rpt_crm_opportunity_closed_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+  AND stage_name != '10-Duplicate'
+  AND is_won = True
+GROUP BY 1,2
+ORDER BY 1
+)
+
+SELECT
+[_Group_By_Time],
+crm_user_sales_segment,
+actual_saos
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
+### SDR Closed Won by Segment - Net ARR
 **Base Fields**
-1. TBD
-1. TBD
-1. TBD
+1. [Opportunity's Net ARR](https://gitlab.my.salesforce.com/00N4M00000Ib5n8?setupid=OpportunityFields) - sum of Net ARR
+1. [Closed Date](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=CloseDate&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields) - Grouped by `Group_by_Time` filter
+1. `Sales Segment` - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Segment`
 
-### MQL Goals
-**Base Fields**
-1. Salesforce `Leads` and `Contacts` - sum of unique SFDC IDs
-1. `MQL Date` - [Lead MQL Date](https://gitlab.my.salesforce.com/00N6100000CJuLB?setupid=LeadFields) or [Contact MQL Date](https://gitlab.my.salesforce.com/00N4M00000IW0Jx?setupid=ContactFields) - grouped by Month 
-1. [MQL Goal](https://docs.google.com/spreadsheets/d/15GDBF9OI3WSZKO3osODafY1u6tf5OG01Za8srO85pyY/edit#gid=0) - Displayed by Month
+**Hard Coded Filters**
+1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `10-Duplicate`
+1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) is `SDR Generated` or `BDR Generated`
+1. [is_edu_oss](https://gitlab.my.salesforce.com/00N6100000IOu68?setupid=OpportunityFields) is `false` (`0`)
+1. [is_won](https://gitlab.my.salesforce.com/00N6100000IOu6D?setupid=OpportunityFields) = `True`
 
-**Base Filter**
-`MQL Date` is not from `2018-12-03 08:00:00` to `2018-12-04 07:00:00` (UTC)
+**Adjustable Filters**
+1. `Order_Type`
+1. `_fiscal_year_`
+1. `user_segment_name`
+1. `user_geo_name`
+1. `user_region_name`
+1. `user_area_name`
 
-### IACV Pipeline Creation
-**Base Fields**
-1. [Opportunity's IACV](https://gitlab.my.salesforce.com/00N6100000HJpyB?setupid=OpportunityFields) - sum of IACV
-1. `Created Date` - SFDC System Field - Grouped by Month
-1. [Net New IACV Goal](https://docs.google.com/spreadsheets/d/15GDBF9OI3WSZKO3osODafY1u6tf5OG01Za8srO85pyY/edit#gid=0) - Displayed by Month
+<details>
+<summary><i>SQL Query</i></summary>
 
-**Base Filter**
-[Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields) is not `Duplicate` or `10-Duplicate`
-[Opportunity Type](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Type&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields) is `Net New Business`
+```
 
-### New Hire Location Factor - Marketing
-**Base Fields**
-1. `Hire Date` - Grouped by Month
-1. `Location Factor` - Averaged
+WITH actual_created AS (
 
-**Base Filter**
-`Location Factor` is not NULL
-`Department` is not NULL
-`Division` is `Marketing`
+SELECT
+  [_Group_By_Time],
+  crm_user_sales_segment,
+SUM(net_arr) AS actual_net_arr
+FROM [rpt_crm_opportunity_closed_period]
+WHERE [order_type=order_type]
+  AND sales_qualified_source_name IN ('SDR Generated','BDR Generated')
+  AND [fiscal_year=_fiscal_year_]
+    AND [crm_user_sales_segment=user_segment_name]
+    AND [crm_user_geo=user_geo_name]
+    AND [crm_user_region=user_region_name]
+    AND [crm_user_area=user_area_name]
+  AND is_edu_oss = 0
+  AND stage_name != '10-Duplicate'
+  AND is_won = True
+GROUP BY 1,2
+ORDER BY 1
+)
 
-Note: This data is from BambooHR
+SELECT
+[_Group_By_Time],
+crm_user_sales_segment,
+actual_net_arr AS arr
+FROM actual_created
+ORDER BY 1
+
+```
+
+</details>
+
 
 ## Filters on Marketing Dashboards
 Filters are a native and integral piece of any dashboard! They allow you to quickly and easily isolate and filter your data based on pre-determined values and sets. They are of *no use* to anyone if we don't all know what a specific filter represents though! Here are the most common filters used on marketing dashboards, what data they pull from, and what they mean to you as the end-user!   
 
 ### Date Filters
-1. DateRange - DateRange is the standard date filter in Sisense. Unless otherwise noted it is the X-axis of an individual chart. Note: DateRange works as an `after` filter of the first date, so if you want to see all of February 2020, your `DateRange` filter must be set to `2020-01-31 to 2020-02-29`.
-1. Fiscal Quarter - this groups the X-axis dates (unless noted on the chart) by GitLab's [Fiscal Quarters](/handbook/finance/#fiscal-year)
+1. `Group_by_Time` - this groups the X-axis dates by the specified value - either Month, Quarter, or Year
 1. Fiscal Year - this groups the X-axis dates (unless noted on the chart) by GitLab's [Fiscal Years](/handbook/finance/#fiscal-year)
 
 ### Salesforce Data Filters
 All of these filters pull from the linked/specified field(s) from Salesforce. Notes will indicate when there are groupings used. As all of these pull directly from SFDC and are not cleaned (except for those specified as being bucketed/grouped, anomalies may occur when our data is not properly maintained in SFDC)
-1. Sales Segment - this pulls from SoT for `Segment` for each object as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/marketing-operations/marketing-metrics/#reporting-fields-source-of-truth) section.
+1. User Segment Name - this pulls from SoT for `Segment` for each object as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/marketing-operations/marketing-metrics/#reporting-fields-source-of-truth) section.
 1. Source Bucket - this pulls from the `Lead Source` for Leads/Contacts as shown below in the [Reporting Fields Source of Truth](/handbook/marketing/marketing-operations/marketing-metrics/#reporting-fields-source-of-truth) section. Note: these are grouped into **buckets** which, once updatd, will be displayed in a table below. This is considered the SoT for where a specific Lead/Contact came from/was sourced.
 1. Sales Qualified Source - this pulls from the [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields) of the Opportunity. This is considered the SoT for where an Opportunity came from/was sourced.
-1. Opp Sales Type - this pulls from the [Type](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Type&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields) field on the Opportunity. It is used to define whether an Opportunity is `New Business`, `Add-On Business`, etc.
-1. Net New Category_ToIgnore - this is a special exclusive filter used *only* for the `New Unique Emails Added` chart on the Marketing Metrics Dashboard. When `DiscoverOrg` is checked, no Leads/Contacts with `DiscoverOrg` as their `Lead Source` will be shown on that chart. 
-
+1. Order Type - this pulls from the [Order Type](https://gitlab.my.salesforce.com/00N4M00000Ib8Ok?setupid=OpportunityFields) field on the Opportunity. It is used to define whether an Opportunity is `New First Order`, `New Connected`, etc.
+1. User Region Name - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Region`
+1. User Geo Name - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Geo`
+1. User Area Name - Using the [Opportunity Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhObFF4TnpveE56bzBPUzR5TURGYSxWQmZIWkc5eUh2TmFZdmtNbXhOeVBSLFl6UTNNekF5&setupid=OpportunityFields) `User Area`
 
 
 ## Reporting Fields Source of Truth
@@ -294,21 +1111,20 @@ Note: There is a current transition to move towards the [Territory Success Plann
 ### Contact
 1. [Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Contact&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DContact%26setupid%3DContactFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DContact&setupid=ContactFields)
 1. [MQL Date](https://gitlab.my.salesforce.com/00N4M00000IW0Jx?setupid=ContactFields) - if this is blank, the record is *not* counted as a `MQL`
-1. Sales Segment - See the Account `TSP Sales Segment` field. 
+1. Sales Segment - See the Account `Sales Segment` field. 
 
 ### Account
-1. [TSP Sales Segment](https://gitlab.my.salesforce.com/00N4M00000IPFvy?setupid=AccountFields)
+1. `Sales Segment` - Using the [Account Owner's](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Owner&type=Account&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DAccount%26setupid%3DAccountFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DAccount&_CONFIRMATIONTOKEN=VmpFPSxNakF5TVMwd05DMHhOMVF4TlRveE5qb3dOaTQzTnpOYSxURnIyR3gyTDhNSWx5dWJmTW1ObUxGLFl6UTNNekF5&setupid=AccountFields) - `User Segment`
 
 ### Opportunity
-1. [BDR](https://gitlab.my.salesforce.com/00N6100000HmyBZ?setupid=OpportunityFields)
+1. [SDR/BDR](https://gitlab.my.salesforce.com/00N6100000I1Y02?setupid=OpportunityFields)
 1. [Closed Date](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=CloseDate&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields)
-1. [IACV](https://gitlab.my.salesforce.com/00N6100000HJpyB?setupid=OpportunityFields)
+1. [Net ARR](https://gitlab.my.salesforce.com/00N4M00000Ib5n8?setupid=OpportunityFields)
 1. [Lead Source](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=LeadSource&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields)
 1. [Sales Accepted Date](https://gitlab.my.salesforce.com/00N6100000HmPaK?setupid=OpportunityFields)
 1. [Sales Qualified Source](https://gitlab.my.salesforce.com/00N6100000HZPjd?setupid=OpportunityFields)
-1. [SDR](https://gitlab.my.salesforce.com/00N6100000HmyBe?setupid=OpportunityFields) 
 1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields)
-1. [Type](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Type&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields&setupid=OpportunityFields)
+1. [Order Type](https://gitlab.my.salesforce.com/00N4M00000Ib8Ok?setupid=OpportunityFields)
 
 ## Useful things to know when it comes to Sisense vs. SFDC data
 Given the way that our systems are connected and synched, you may see a discrepancy in the data within Sisense vs. Sales Force.com. A few things to note: 
