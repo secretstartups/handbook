@@ -255,6 +255,12 @@ Industry verticals are set using a standard list in SFDC per [this issue](https:
 1. Vice President Infrastructure and Operations
 1. Program Manager
 
+### Business Unit
+
+1. CI/CD
+1. DevOps Platform
+1. GitOps
+
 ### Blocked Content from Third-Party Web Pages
 
 If you try to upload a web page from a domain that you do not own and that web page has not whitelisted your PathFactory track URLs, you will be served an error message telling you that you cannot upload this content to the Content Library.
