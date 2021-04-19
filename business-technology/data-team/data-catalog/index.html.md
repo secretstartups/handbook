@@ -87,9 +87,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 <summary markdown='span'>
   Data Models
 </summary>
-
   * <a href="#" class="/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html">PTO By Roots (Slack)</a>
-
 </details>
 
 <details>
@@ -104,7 +102,6 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">People Metrics - Data Discovery in Sisense Dashboard</a>
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">Team Member Separations Report</a>
   * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html" class="">People KPI Deck</a>
-</summary>
 </details>
 
 <style> #headerformat {
@@ -120,6 +117,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;
   * <a href="/handbook/business-technology/data-team/data-catalog/product-geolocation/" class="">📊 Self-Service Analytics Workflow: Product Geolocation Analysis</a><br><br>
   * <a href="/handbook/business-technology/data-team/data-catalog/pricing/" class="">📊 Self-Service Analytics Workflow: Pricing Analysis</a><br><br>
   * <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/" class="">🚧 WIP Self-Service Analytics Workflow: XMAU Analysis</a><br><br>
+  * <a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="">🚧 WIP Product Usage Data</a><br><br>
 </details>
 
 
@@ -136,9 +134,9 @@ background-color: #554488; color: white; padding: 5px; text-align: center}
 </style>
 <h1 id="headerformat">Sales </h1>
 
-  * <a href="/handbook/business-technology/data-team/data-catalog/customer-segmentation/" class="">📊 Self-Service Analytics Workflow: Customer Segmentation Analysis</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/sales-funnel/" class="">📊  Self-Service Analytics Workflow: Sales Funnel</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/manual-data-upload/" class="">🚧  Manual Usage Data Upload</a>
+  * <a href="/handbook/business-technology/data-team/data-catalog/customer-segmentation/" class="">📊 Self-Service Analytics Workflow: Customer Segmentation Analysis</a><br><br>
+  * <a href="/handbook/business-technology/data-team/data-catalog/sales-funnel/" class="">📊  Self-Service Analytics Workflow: Sales Funnel</a><br><br>
+  * <a href="/handbook/business-technology/data-team/data-catalog/manual-data-upload/" class="">🚧  Manual Usage Data Upload</a><br><br>
 
 <style> #headerformat {
 background-color: #554488; color: white; padding: 5px; text-align: center;}
