@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Product Usage Data Vision Page"
-description: "The page outlines the current and planned utilization of product usage data at GitLab, including Product, Sale, Cusotmer Success, and Marketing."
+description: "The page outlines the current and planned utilization of product usage data at GitLab, including Product, Sales, Customer Success, and Marketing."
 ---
 
 ## On this page
