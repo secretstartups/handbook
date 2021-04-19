@@ -36,17 +36,17 @@ Kindly note that team members are welcome to send cards or tokens of acknowledge
 
 ## Significant Life Events
 ### Flowers and Gift Ordering
-The GitLab People Experience Team is able to send Gifts and Flowers on behalf of the Company or a specific Team in acknowledgement of significant life events such as the birth of a little one; well wishes ahead of surgery or the loss of a loved one. Only one order will be sent for a significant life event, if multiple requests are made, the People Experience Team will communicate this further with the manager. 
+Managers are able to send Gifts and Flowers on behalf of their team members in acknowledgment of significant life events such as the birth of a little one; well wishes ahead of surgery, or the loss of a loved one.
 
 The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**. 
 
-We are able to facilitate the ordering of Flowers or Gifts for deliver however are unable to support the purchase of Gift Cards at this time.  In an instance where team members would like to extend the offer of a meal or food delivery service this would need to be expensed by the recipient for reimbursement.
+Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restaurant gift cards at this time.  In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
 
-Requests for Gift and Flowers to be ordered can be made using the following [Gift Request Form](https://docs.google.com/forms/d/e/1FAIpQLScxwCUNF-9IV-y-XNswQwkzwA-a6ahuPd8HFGEuxw3EMjukrA/viewform).  Once an order has been placed you will receive a direct Slack message of confirmation from the People Experience Team.
+The budget for sending these gifts will come from the department budget of the gift-receiving team member. 
 
-The budget for sending these gifts will come from the department budget of the gift-receiving team member. To make sure the reports in Expensify are routed correctly, People Experience Associates will be sure to fill in the correct division and department. Team members' division and departmental information can be found in their BambooHR profile under the Job tab, in the `Job Information` section.
+To make sure the reports in Expensify are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `FY21EmployeeGiftsFlowers` in the `classification` section of the expense.  
 
-For procedures on how to handle [gifts](/handbook/people-group/people-experience-team/#gift-requests)
+For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
 
 ## Support
 If you need support around the ordering of gifts and flowers e.g. updating a team members address or editing any of the details submitted please reach our to the People Experience Team via the **#peopleops** channel.
