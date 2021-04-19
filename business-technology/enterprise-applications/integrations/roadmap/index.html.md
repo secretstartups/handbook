@@ -45,212 +45,113 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
 ## Integrations Platform
 
 ### Capabilities shortfall
+**Must to have**
+ <details>
+  <summary markdown="span">Design and development</summary>
 
-<table id="capabilities-table">
-    <thead>
-        <tr>
-            <th style="color:DodgerBlue;">Must-to-have</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th>Design and development</th>
-        </tr>   
-        <tr>
-            <td>Bulk data processing</td>
-        </tr>
-        <tr>
-            <td>API specifcation design</td>
-        </tr>
-        <tr>
-            <td>API Testing, Simulation and Mocking</td>
-        </tr>    
-        <tr>
-            <td>Automated Build Pipeline (CI/CD pipeline)</td>
-        </tr>          
-        <tr>
-            <td>Support event driven arch</td>
-        </tr>      
-        <tr>
-            <td>API data model - Enterprise(Canonical) and Bounded Context (Business)</td>
-        </tr>   
-        <tr>
-            <td>Custom Coding</td>
-        </tr>  
-        <tr>
-            <td>Async and batch processing</td>
-        </tr> 
-        <tr>
-            <th>Runtime execution and hosting</th>
-        </tr>        
-        <tr>
-            <td>Runtime high availability</td>
-        </tr>
-        <tr>
-            <td>Cloud hosting</td>
-        </tr>
-        <tr>
-            <th>API Operations and Management</th>
-        </tr>
-        <tr>
-            <td>API Versioning</td>
-        </tr>
-        <tr>
-            <td>Runtime analytics and monitoring</td>
-        </tr>
-        <tr>
-            <td>API Policy configuration and management</td>
-        </tr>
-        <tr>
-            <td>API client credentials management</td>
-        </tr>
-        <tr>
-            <th>Storage</th>
-        </tr>
-        <tr>
-            <td>Support for RDBMS and Data Lakes (Snowflake)</td>
-        </tr>
-        <tr>
-            <td>Supports blob storage (S3 / Google Storage)</td>
-        </tr>
-        <tr>
-            <td>FTP and SFTP (Client and server)</td>
-        </tr>
-        <tr>
-            <th>Security</th>
-        </tr>
-        <tr>
-            <td>Encrypting data at rest and in transit</td>
-        </tr>
-        <tr>
-            <td>Secret Management</td>
-        </tr>
-        <tr>
-            <td>Supported protocols should include HTTPS, TLS, SFTP, SMTP/S, IPSec</td>
-        </tr>
-        <tr>
-            <td>User roles and responsibilities</td>
-        </tr>
-        <tr>
-            <td>API gateway</td>
-        </tr>
-        <tr>
-            <th>Logging, Monitoring and Alerting (either natively supported or through third-party integrations)</th>
-        </tr>
-        <tr>
-            <td>Different logs level</td>
-        </tr>
-        <tr>
-            <td>Structured logging</td>
-        </tr>
-        <tr>
-            <td>Log search and retention</td>
-        </tr>
-        <tr>
-            <td>Correlation ID and request tracing</td>
-        </tr>
-        <tr>
-            <td>Traffic metrics</td>
-        </tr>
-        <tr>
-            <td>SSO</td>
-        </tr>
-        <tr>
-            <th>API</th>
-        </tr>
-        <tr>
-            <td>Data transformations - built in functions</td>
-        </tr>
-        <tr>
-            <td>Flexible webhooks</td>
-        </tr>
-        <tr>
-            <td>REST and SOAP</td>
-        </tr>
-        <tr>
-            <td>Polling</td>
-        </tr>
-        <tr>
-            <td>Transaction management</td>
-        </tr>
-        <tr>
-            <th>Security - API policies</th>
-        </tr>
-        <tr>
-            <td>Client ID enforcement</td>
-        </tr>
-        <tr>
-            <td>Authentication/Authorization: OAuth, IP-based access control</td>
-        </tr>
-        <tr>
-            <td>Cross-Origin Resource Sharing Control</td>
-        </tr>
-        <tr>
-            <td>Payload threat protection</td>
-        </tr>
-        <tr>
-            <td>Rate limiting</td>
-        </tr>
-        <tr>
-            <td>Spike control</td>
-        </tr>
-        <tr>
-            <td>Custom policy configuartions</td>
-        </tr>
-    </tbody>
-    <thead>
-        <tr>
-            <th style="color:DodgerBlue;">Good-to-have</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Resuable asset discovery</td>
-        </tr>
-        <tr>
-            <td>HTTP Caching to API invocations</td>
-        </tr>
-        <tr>
-            <td>API usage and discoverability analytics</td>
-        </tr>
-        <tr>
-            <td>Fault-tolerant API invocation</td>
-        </tr>
-        <tr>
-            <td>API actionable documentation</td>
-        </tr>
-        <tr>
-            <td>ORM / similar</td>
-        </tr>
-        <tr>
-            <td>Schema Migrations</td>
-        </tr>
-        <tr>
-            <td>Async and sync logging</td>
-        </tr>
-        <tr>
-            <td>Trigger alert from logs</td>
-        </tr>
-        <tr>
-            <td>Alerts on api policy or invocations</td>
-        </tr>
-        <tr>
-            <td>ETL</td>
-        </tr>
-        <tr>
-            <td>GraphQL</td>
-        </tr>
-        <tr>
-            <td>Denial of service</td>
-        </tr>
-        <tr>
-            <td>API proxy</td>
-        </tr>
-        <tr>
-            <td>Tokenization and masking</td>
-        </tr>
-    </tbody>
-</table>
+   1. Bulk data processing
+   2. API specifcation design
+   3. API Testing, Simulation and Mocking
+   4. Automated Build Pipeline (CI/CD pipeline)
+   5. Support event driven arch
+   6. API data model - Enterprise(Canonical) and Bounded Context (Business)
+   7. Custom coding
+   8. Async and batch processing
+ </details>
+ <details>
+  <summary markdown="span">Runtime execution and hosting</summary>
+
+   1. Runtime high availability
+   2. Cloud hosting
+ </details>
+ <details>
+  <summary markdown="span">API Operations and Management</summary>
+
+   1. API Versioning
+   2. Runtime analytics and monitoring
+   3. API Policy configuration and management
+   4. API client credentials management
+ </details>
+ <details>
+  <summary markdown="span">Storage</summary>
+
+   1. Support for RDBMS and Data Lakes (Snowflake)
+   2. Supports blob storage (S3 / Google Storage)
+   3. FTP and SFTP (Client and server)
+ </details>
+ <details>
+  <summary markdown="span">Security</summary>
+
+   1. Encrypting data at rest and in transit
+   2. Secret Management
+   3. Supported protocols should include HTTPS, TLS, SFTP, SMTP/S, IPSec
+   4. User roles and responsibilities
+   5. API gateway
+ </details>
+ <details>
+  <summary markdown="span">Logging, Monitoring and Alerting (either natively supported or through third-party integrations)</summary>
+  <details>
+   <summary>Logging</summary>
+
+    1. Different logs level
+    2. Authentication/Authorization: OAuth, IP-based access control
+    3. Log search and retention
+    4. Correlation ID and request tracing
+  </details>
+  <details>
+   <summary>Monitoring Dashboards</summary>
+
+    1. Traffic metrics
+    2. SSO
+  </details>
+ </details>
+ <details>
+  <summary markdown="span">API</summary>
+
+   1. Data transformations - built in functions
+   2. Flexible webhooks
+   3. REST and SOAP
+   4. Polling
+   5. Transaction management
+ </details>
+ <details>
+  <summary markdown="span">API security</summary>
+  <details>
+   <summary>API Policies</summary>
+
+    1. Client ID enforcement
+    2. Authentication/Authorization: OAuth, IP-based access control
+    3. Cross-Origin Resource Sharing Control
+    4. Payload threat protection
+  </details>
+  <details>
+   <summary>Quality of Service(QoS)</summary>
+
+    1. Rate limiting
+    2. Spike Control
+    3. Custom policy configuartions
+  </details>
+ </details>
+
+**Good to have**
+ 1. Resuable asset discovery
+ 2. HTTP Caching to API invocations
+ 3. API usage and discoverability analytics
+ 4. Fault-tolerant API invocation
+ 5. API actionable documentation
+ 6. ORM / similar
+ 7. Schema Migrations
+ 8. Async and sync logging
+ 9. Trigger alert from logs
+ 10. Alerts on api policy or invocations
+ 11. ETL
+ 12. Streaming endpoints
+ 13. GraphQL
+ 14. Denial of service
+ 15. API proxy
+ 16. Tokenization and masking
+
+
 
 ### Enterprise integration business model for "New Busines - Direct, Web and SaaS"
-
+![Semantic description of image](/sites/handbook/source/handbook/business-technology/images "Enterprise Integration landscape for New Business - Direct, Web, SaaS")
