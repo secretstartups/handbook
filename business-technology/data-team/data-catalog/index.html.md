@@ -87,9 +87,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 <summary markdown='span'>
   Data Models
 </summary>
-
   * <a href="#" class="/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html">PTO By Roots (Slack)</a>
-
 </details>
 
 <details>
@@ -104,7 +102,6 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">People Metrics - Data Discovery in Sisense Dashboard</a>
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">Team Member Separations Report</a>
   * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html" class="">People KPI Deck</a>
-</summary>
 </details>
 
 <style> #headerformat {
