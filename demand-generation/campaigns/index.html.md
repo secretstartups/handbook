@@ -238,7 +238,7 @@ Is our single source of truth (SSoT) for processes and relevant links
 
 **NOTE: this section will be retired (and communicated). Prioritization of activities aligned to demand generation goals, and consideration against current and planned milestones and projects, will take precedence over a time-based requirement to complete work. The [Marketing Campaign Manager role](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/) requires focus on top-funnel lead generation, and new issues will be reviewed against workload and prioritized accordingly.**
 
-⏱ **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue.**
+⏱ **The SLA (Service Level Agreement) - 15 business days - begins when all details (including 100% final copy) is provided in the issue.**
 - Tip: Submit issues with full "Submitter Details" complete
 - Tip: Bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
 
@@ -272,13 +272,13 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 - [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder)
 - [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests*
 - [request-mkto-landing-page](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page)
-- [request-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
-- [request-pathfactory-upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
+- [request-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - creation of pathfactory tracks for one-time use is responsibility of owner.
+- [request-pathfactory-upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - the content owner is responsible for uploading to Pathfactory.
 - [request-pathfactory-upload-bulk](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk)
 - [request-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
 - [request-resource-page-addition](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition)
 - [request-sales-nominated](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-sales-nominated)
-- [request-zoom-license-date](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-zoom-license-date)
+- [request-zoom-license-date](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-zoom-license-date) - as 
 - [request-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-webcast-dryrun-sched)
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
 - [idea-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-webcast)
