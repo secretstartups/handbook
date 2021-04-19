@@ -138,6 +138,7 @@ A few additional resources that can be helpful when working with Mermaid are:
   - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Operations Specialist
   - [CEO Year at a Glance](/company/cadence/#year-at-a-glance)
   - [Data Infrastructure System Diagram](/handbook/business-ops/data-team/platform/infrastructure/#system-diagram)
+* [Advanced layout demos](mermaid) for Mermaid diagrams
 
 _Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart.
 This will enable Markdown to distinguish between .md and Mermaid.
