@@ -55,7 +55,7 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 This content is divided into five key competencies for Product Managers. 
 
-**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp;  ✏️ [Design](#design)&nbsp; &nbsp; &nbsp;  🚀 [Delivery](delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**
+**💡 [Discovery](#discovery) &nbsp; &nbsp; &nbsp;   🚀 [Delivery](#delivery)  &nbsp; &nbsp; &nbsp;  📈 [Business Acumen](#business-acumen)  &nbsp; &nbsp; &nbsp; 💬 [Communication](#communication)  &nbsp; &nbsp; &nbsp;   🤝 [Team Management](#team-management)**
 
 ## <a id="discovery"></a>💡 Discovery
 
@@ -179,12 +179,9 @@ This content is divided into five key competencies for Product Managers.
 - [Trusworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
 - [Intercom: The Growth Handbook](https://www.intercom.com/resources/books/growth-handbook) (free ebook download)
 
-<br>
-<br>
 
-## <a id="design"></a> ✏️ Design
+### 💡 Design
 
----
 
 ##### Quick reads and videos
 
