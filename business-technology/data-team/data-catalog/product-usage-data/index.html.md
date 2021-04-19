@@ -1,4 +1,3 @@
-
 ---
 layout: handbook-page-toc
 title: "Product Usage Data"
@@ -6,13 +5,12 @@ description: "Product Usage Data provides quantitative measurement of how, when,
 ---
 
 ## On this page
-{:.no_toc}
-
 - TOC
 {:toc}
 
----
+{::options parse_block_html="true" /}
 
+---
 ## Product Usage Data
 
 Product Usage Data provides quantitative measurement of how, when, and where the Customer is using GitLab as a product and how the utilization metrics can be integrated into CRO organization business processes to accelerate customer adoption and improve customer retention. The Product Usage Data page will provide the information and tools that GitLab team members can use to explore Product Usage Data and develop customer insights.
@@ -198,4 +196,3 @@ A detailed Dashboard showing dbt tests, Source Model freshness, Record Counts, L
 ### RAW Source Data Pipeline validations
 
 [Data Pipeline Health Validations](https://app.periscopedata.com/app/gitlab/715938/Data-Pipeline-Health-Dashboard)
-
