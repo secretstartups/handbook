@@ -170,13 +170,12 @@ The [(WIP) Enterprise Dimensional Model Validation Dashboard](https://app.perisc
 
 **ORANGE**
 
-- Description: Customer and Personal data at the row or record level.
-- Objects:
-  
-**YELLOW**
-
-- Description: 
-- Objects:
+- Description: Personal data at the row or record level. Given this, this data is masked in `PROD.COMMON_MART_MARKETING`, but is available in `PREP.SENSITIVE`. Customer Metadata (such as customer company name) is available in `PROD.COMMON_MART_MARKETING`
+- Objects: 
+  - `PREP.SENSITIVE.DIM_MARKETING_CONTACT`
+  - `PREP.SENSITIVE.MART_MARKETING_CONTACT`
+  - `PROD.COMMON_MART_MARKETING.MART_CRM_TOUCHPOINT`
+  - `PROD.COMMON_MART_MARKETING.MART_CRM_ATTRIBUTION_TOUCHPOINT`
  
 </details>
 
