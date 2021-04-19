@@ -181,6 +181,7 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 * TBD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ## Additional Resources 
 
@@ -191,6 +192,8 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 *  New Gartner MQ for Plan (Expected in May)
 *  Gartner MQ for AST (expected in May 2021)
 >>>>>>> added email asset info
+=======
+>>>>>>> iterated on meetings and resources
 
 
 # Sales Play Tactics {#sales-play-tactics}
@@ -332,22 +335,31 @@ The following sequence is recommended to progress the customer from awareness an
 >>>>>>> iterating on meetings
 1. **Meeting 1** - **assess business objectives**  
    Use [Value Discovery](#value-discovery) above along with these recommended assets to determine their business priorities, existing security tools, chief pain points:  
-   * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on objectives slide)
+   * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) slide)
    * [Manage Compliance with GitLab](https://youtu.be/QV2dIocn-hk)   
    * software supply chain security (we will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24 to share as potential leave-behind.  
-   Ask 4 questions: 
+   
+   **Ask 4 questions:** 
       1. Wanting to shift left? (If no, talk to the Dev or DevOps team instead of security)
-      1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning.
+      1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning. Enter into SFDC.
       1. Using containers and/or Kubernetes? If yes, are you scanning containers? Helm charts? Testing APIs?
+<<<<<<< HEAD
       1. Which objective do they most relate to (slide x)
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
 **Metric:** Sales Accepted Opp
 >>>>>>> added email asset info
+=======
+      1. Which [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) do they most relate to: efficiency, consistency, risk, predictable costs?  
+
+   **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
+   **Metric:** Sales Accepted Opp
+>>>>>>> iterated on meetings and resources
 
 <<<<<<< HEAD
 =======
 
 1. **Meeting 2** - **security topics of interest**
+<<<<<<< HEAD
    Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. on one or more of the following:  
    * Priority = speed and efficiency
    * Priority = predictable cost to scale
@@ -357,6 +369,25 @@ The following sequence is recommended to progress the customer from awareness an
    * Auditing and Compliance reporting (deck and PM/PMM to engage)
    * Security of software supply chain (deck and PM/PMM to engage)  
 >>>>>>> iterating on meetings
+=======
+   Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. Identify key value driver, champion, and economic buyer.
+
+   * Priority = speed and efficiency  
+      * single app story (asset)
+      * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)  
+   * Priority = consistency/compliance 
+      * Policy management (deck and PM/PMM to engage)
+      * Auditing and Compliance reporting (deck and Sam Kerr, PM)
+      * Security of software supply chain (deck and Cindy Blake)
+   * Priority = predictable cost to scale 
+      * ask for ROI discussion - see meeting 3 
+   * Priority = vulnerabilities/risk   
+      For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
+      * For the developer: Shift left (asset) 
+      * For securing modern apps via containers, K8s, APIs, Infrastructure as code: (asset)  
+      * Container security (asset - Sam White, PM)
+    
+>>>>>>> iterated on meetings and resources
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer  
 **Metric:** Sales stage x (Tanuja?)  
 
@@ -414,7 +445,11 @@ Note: progress of the GTM Motion will be measured at the campaign level with cli
 ## Related Marketing Campaign
 
 Marketing is running a related demand gen campaign.  
+<<<<<<< HEAD
 * Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house).
+=======
+* Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house). 
+>>>>>>> iterated on meetings and resources
 * A LinkedIn campaign will help surface new contacts for accounts where we have none/few.
 * An 'air cover' campaign will raise awareness of GitLab's Ultimate capabilities. It will likely include Security (first) and Planning capabilities (next).
 
