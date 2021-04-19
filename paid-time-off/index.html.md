@@ -158,6 +158,14 @@ Team members may request an unpaid leave of absence by working with their manage
 * At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email.  Any funds paid in error are subject to repayment.
 * Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the total rewards team (total-rewards@gitlab.com) so the total reward's team can reinstate pay.
 
+### Communicating with team members while they are leave of absence
+
+For team members who are on paid or unpaid leave of absence like [parental leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#sts=Parental%20Leave), [short or long term disability](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#sts=Group%20Long-Term%20and%20Short-Term%20Disability%20Insurance), or [other approved leaves](https://about.gitlab.com/handbook/paid-time-off/#unpaid-leave-of-absence) there is no expectation that work would be accomplished during this time.  Team members should use their approved paid or unpaid leave as an opportunity to focus on their health and well being.  For managers it is important that you do not reach out to team members and ask them to complete work while on an approved leave of absence.  An occasional quick call for a simple question is acceptable but these should be infrequent and simple requests that can be answered during that conversation.  
+
+We do understand that during extended periods of time off team members may still want to feel connected.  We encourage team members at their discretion to maintain a social connection with their peers and team members.  This is completely up to the team member on leave on how or if they want to remain connected while on leave of absence.
+
+For managers it is ok to reach out to a team member every 3-4 weeks to just to say hello.  These conversations should remain social and avoid work related topics.  
+
 ### Communicating Other Status Using PTO by Roots
 
 Other OOO options include;
