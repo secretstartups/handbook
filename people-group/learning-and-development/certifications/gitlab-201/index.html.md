@@ -249,4 +249,4 @@ Please complete the Lesson 3 assessment in [GitLab Learn](https://gitlab.edcast.
 To become certified in GitLab 201, you will have to pass (with at least an 80%) all three lessons.
 
 ## Feedback
-We are always trying to improve. Please let us know what you thought of this GitLab 201 course by filling out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfUAYCKSKmUPvwPYAi3oH9d2qGVP_VFa9hxKM_VDRWaBrsTNw/viewform).
+We are always trying to improve. Please let us know what you thought of this GitLab 201 course by filling out our [feedback form in GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this/cards/1424490).
