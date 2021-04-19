@@ -137,7 +137,7 @@ A great way to get started building charts in Sisense is to watch this 10 minute
 
 - The Product Usage data sourced from GitLab SaaS and GitLab Self-Managed customer deployments is fed into the Enterprise Data Warehouse on a regular basis to be consumed by Gainsight and Salesforce.
 - We utilize Usage Ping to derive self-managed customer usage data. Self-Managed customer product usage data is largely contained in the self-contained Usage Ping packets.
-- The Saas Customer Product Usage Data is rebuilt using source database tables.
+- The SaaS Customer Product Usage Data is rebuilt using source database tables.
 - The Seat Link data encompasses license utilization data for all customers, regardless of type (self-managed or SaaS).
 - The Aggregated metrics are collected in 7d and 28d time frames are added into Usage Ping payload under the aggregated_metrics sub-key in the counts_weekly and counts_monthly top level keys.
 - Aggregated metrics for all time frame are present in the count top level key, with the aggregate_ prefix added to their name.
