@@ -259,4 +259,4 @@ To become certified in GitLab 101, you will have to pass (with at least an 80%) 
 
 ## Feedback
 
-We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdtScO_hkV_mFlhlB4tiSf9tjXvrQBVMkkGCOegZlZH2yzZWQ/viewform).
+We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form in GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification/cards/1424490).
