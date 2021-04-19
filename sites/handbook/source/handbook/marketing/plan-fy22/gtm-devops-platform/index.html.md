@@ -5,7 +5,7 @@ description: "List and description of all Sales Plays in the DevOps Platform GTM
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
 
-## CI/CD GTM Motion 
+## DevOps Platform Motion 
 
 ### Integrated campaigns
 1. TBD
