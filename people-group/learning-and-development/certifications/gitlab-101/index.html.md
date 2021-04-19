@@ -11,7 +11,9 @@ title: GitLab 101 Tool Certification
 
 ## Introduction
 
-Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab.
+Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab. 
+
+Please visit GitLab Learn and create an account to complete the [GitLab 101 Certification](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification) and earn the GitLab 101 Badge!
 
 ### Who can benefit from this 101 training?
 
@@ -105,9 +107,7 @@ To use the flashcards, click on the link above. You can review the flashcards in
 
 ### Quiz - Lesson 1: Technical Terminology
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
-
-To move on to the next Lesson, take and pass the [GitLab 101: Technical Terminology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3G3QJJRa1XvKbUNXhJENSxoWd5907CpP4-jhvvyRcvZzwRA/viewform).
+Please complete the Lesson 2 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
 
 ## Lesson 2: GitLab Issues
 
@@ -208,10 +208,7 @@ Each GitLab Project has an Issue Board. These can be set up similar to how a kan
 
 ### Quiz - Lesson 2: GitLab Issues
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
-
-To move on to the next Lesson, take and pass the [GitLab 101: Issues Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeR1zOvGKrDWD1t52DNv3DdNeLblI2nPP0dm-PKD8TkNUfB7Q/viewform).
-
+Please complete the Lesson 2 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
 
 ## Lesson 3: GitLab Merge Requests
 
@@ -256,9 +253,7 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
 
 ### Quiz - Lesson 3: GitLab Merge Requests
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
-
-Take and pass the [GitLab 101: Merge Requests Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzwgutFZegAESbgsiObhb6N8rqn4NNlWDbxACK7khh3p5hJA/viewform).
+Please complete the Lesson 3 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
 
 To become certified in GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
 
