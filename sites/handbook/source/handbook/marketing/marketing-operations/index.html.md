@@ -111,6 +111,8 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 
 Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
 
+Please do not reopen issues that have been closed in a previous milestone. If you find that you have additional questions about a closed issue, comment in the issue and ping the marketing ops DRI who worked the issue. The DRI within our team will determine whether an issue needs to be reopened and pulled into a current milestone. 
+
 ### Weights
 
 To help prioritize issues and scope work in our milestones, we've adopted GitLab [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html#issue-weight) to our issues. By adding a weight to our issues, our team will have a better idea of how much time, value or complexity a given issue has or costs. For the numbering formula, we are using the traditional Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21. Anything marked `21` or above may be promoted to an epic. 
