@@ -46,24 +46,24 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
 
 ### Capabilities shortfall
 **Must to have**
- <details>
-  <summary markdown="span">Design and development</summary>
+<details>
+<summary markdown="span">Design and development</summary>
 
-   1. Bulk data processing
-   2. API specifcation design
-   3. API Testing, Simulation and Mocking
-   4. Automated Build Pipeline (CI/CD pipeline)
-   5. Support event driven arch
-   6. API data model - Enterprise(Canonical) and Bounded Context (Business)
-   7. Custom coding
-   8. Async and batch processing
- </details>
- <details>
-  <summary markdown="span">Runtime execution and hosting</summary>
+  1. Bulk data processing
+  2. API specifcation design
+  3. API Testing, Simulation and Mocking
+  4. Automated Build Pipeline (CI/CD pipeline)
+  5. Support event driven arch
+  6. API data model - Enterprise(Canonical) and Bounded Context (Business)
+  7. Custom coding
+  8. Async and batch processing
+</details>
+<details>
+<summary markdown="span">Runtime execution and hosting</summary>
 
-   1. Runtime high availability
-   2. Cloud hosting
- </details>
+  1. Runtime high availability
+  2. Cloud hosting
+</details>
  <details>
   <summary markdown="span">API Operations and Management</summary>
 
@@ -154,4 +154,4 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
 
 
 ### Enterprise integration business model for "New Busines - Direct, Web and SaaS"
-![Semantic description of image](/sites/handbook/source/handbook/business-technology/images "Enterprise Integration landscape for New Business - Direct, Web, SaaS")
+![Enterprise integration business model for New Busines - Direct, Web and SaaS](/sites/handbook/source/handbook/business-technology/images)
