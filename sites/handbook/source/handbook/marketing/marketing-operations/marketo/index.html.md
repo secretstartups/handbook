@@ -376,6 +376,7 @@ Complete list of priority countries as seen [here](https://docs.google.com/sprea
 - French
 - Japanese
 - German
+- Korean
 - Default (English)
 
 </details>
