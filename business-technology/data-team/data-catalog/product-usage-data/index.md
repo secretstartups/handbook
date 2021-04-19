@@ -111,7 +111,7 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 1. [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
 
 
-### Metric Formnats
+### Metric Formats
 
 1. **User-based metrics**: # of users who performed an action/event
    - Last 28 days
