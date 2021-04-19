@@ -173,16 +173,6 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 * TBD
 * TBD
 
-## Additional Resources 
-
-* [SKO Expanding to Ultimate slide deck](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gb4749ff26b_0_85)
-* [Why GitLab Ultimate slide deck](https://docs.google.com/presentation/d/1TP5cXH5Nr0VkH7mE6M_-DFXT_Jnq7o5LPxuMUz2paI4/edit?usp=sharing)
-* [Selling DevSecOps resource page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)
-*  Selling security (need link) see John Blevin's online classroom material
-*  New Gartner MQ for Plan (Expected in May)
-*  Gartner MQ for AST (expected in May 2021)
-
-
 # Sales Play Tactics {#sales-play-tactics}
 
 These are Sales prescriptive actions to initiate engagement with target audience for Premium to Ultimate upgrade of existing GitLab CI users. **Strategy and actions differ by market segment** with SMB relying on marketing to drive inbound contacts initiated by the customer and ENT/MM primarily using the play to guide conversations initiated by sales.
@@ -268,52 +258,17 @@ Agnes: When sales gets the lead, will it show from which email it came? If so, s
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
 
 1. **Meeting 1** - **assess business objectives**  
-   Use [Value Discovery](#value-discovery) above along with these recommended assets to determine their business priorities, existing security tools, chief pain points:  
+
+Use [Value Discovery](#value-discovery) above along with these recommended assets to determine their business priorities, existing security tools, chief pain points:  
    * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) slide)
    * [Manage Compliance with GitLab](https://youtu.be/QV2dIocn-hk)   
    * software supply chain security (we will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24 to share as potential leave-behind.  
 
-   **Ask 4 questions:**
-      1. Wanting to shift left? (If no, talk to the Dev or DevOps team instead of security)
-      1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning. Enter into SFDC.
-      1. Using containers and/or Kubernetes? If yes, are you scanning containers? Helm charts? Testing APIs?
-      1. Which [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) do they most relate to: efficiency, consistency, risk, predictable costs?  
-
-   **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
-   **Metric:** Sales Accepted Opp
-
-
-1. **Meeting 2** - **security topics of interest**
-   Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. Identify key value driver, champion, and economic buyer.
-
-   * Priority = speed and efficiency  
-      * single app story (asset)
-      * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)  
-   * Priority = consistency/compliance
-      * Policy management (deck and PM/PMM to engage)
-      * Auditing and Compliance reporting (deck and Sam Kerr, PM)
-      * Security of software supply chain (deck and Cindy Blake)
-   * Priority = predictable cost to scale
-      * ask for ROI discussion - see meeting 3
-   * Priority = vulnerabilities/risk   
-      For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
-      * For the developer: Shift left (asset)
-      * For securing modern apps via containers, K8s, APIs, Infrastructure as code: (asset)  
-      * Container security (asset - Sam White, PM)
-
-The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
-
-1. **Meeting 1** - **assess business objectives**  
-   Use [Value Discovery](#value-discovery) above along with these recommended assets to determine their business priorities, existing security tools, chief pain points:  
-   * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) slide)
-   * [Manage Compliance with GitLab](https://youtu.be/QV2dIocn-hk)   
-   * software supply chain security (we will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24 to share as potential leave-behind.  
-
-   **Ask 4 questions:**
-      1. Wanting to shift left? (If no, talk to the Dev or DevOps team instead of security)
-      1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning. Enter into SFDC.
-      1. Using containers and/or Kubernetes? If yes, are you scanning containers? Helm charts? Testing APIs?
-      1. Which [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) do they most relate to: efficiency, consistency, risk, predictable costs? 
+**Ask 4 questions:**
+1. Wanting to shift left? (If no, talk to the Dev or DevOps team instead of security)
+1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning. Enter into SFDC.
+1. Using containers and/or Kubernetes? If yes, are you scanning containers? Helm charts? Testing APIs?
+1. Which [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) do they most relate to: efficiency, consistency, risk, predictable costs?  
 
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
 
@@ -321,36 +276,26 @@ The following sequence is recommended to progress the customer from awareness an
 
 1. **Meeting 2** - **security topics of interest**
 
-   Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. on one or more of the following:  
-   * Priority = speed and efficiency
-   * Priority = predictable cost to scale
-   * Priority = Vulnerability mgmt - [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
-   * Container security (deck and PM/PMM to engage)
-   * Policy management (deck and PM/PMM to engage)
-   * Auditing and Compliance reporting (deck and PM/PMM to engage)
-   * Security of software supply chain (deck and PM/PMM to engage)  
+Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. Identify key value driver, champion, and economic buyer.
 
-   Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. Identify key value driver, champion, and economic buyer.
-
-   * Priority = speed and efficiency  
-      * single app story (asset)
-      * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)  
+* Priority = speed and efficiency  
+   * Single app story (asset)
+   * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)  
    * Priority = consistency/compliance
       * Policy management (deck and PM/PMM to engage)
       * Auditing and Compliance reporting (deck and Sam Kerr, PM)
       * Security of software supply chain (deck and Cindy Blake)
-   * Priority = predictable cost to scale
-      * ask for ROI discussion - see meeting 3
-   * Priority = vulnerabilities/risk   
-      For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
-      * For the developer: Shift left (asset)
-      * For securing modern apps via containers, K8s, APIs, Infrastructure as code: (asset)  
-      * Container security (asset - Sam White, PM)
+* Priority = predictable cost to scale
+   * ask for ROI discussion - see meeting 3
+* Priority = vulnerabilities/risk   
+   * For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
+   * For the developer: Shift left (asset)
+   * For securing modern apps via containers, K8s, APIs, Infrastructure as code: (asset)  
+   * Container security (asset - Sam White, PM)
 
-**Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer  
+**Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer
 
-**Metric:** Sales stage x (Tanuja?)  
-
+**Metric:** Sales stage x (Tanuja?
 
 1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.  
    * [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)  
