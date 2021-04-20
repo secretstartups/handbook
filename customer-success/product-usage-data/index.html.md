@@ -91,6 +91,11 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 - **ADD DETAILS ON HOW THE XMAU DATA IS USED OR LINK TO APPROPRIATE PAGES**
 - Identify customers who are using certain GitLab stages or use cases for feedback (through surveys, interviews, etc.)
 
+#### Marketing
+
+- Identify and market to community users who could get additional value from paid subscription tiers
+- Utilize usage data from customers to provide contextually relevant content and lifecycle marketing campaigns
+
 ### Metrics
 
 - [Time-to-First Value](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) uses license data and potentially use case data in the future
