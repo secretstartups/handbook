@@ -32,6 +32,7 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * f5
 * Facebook
 * Google
+* GitHub
 * Heroku
 * Joyent
 * Lyft
@@ -294,6 +295,16 @@ GitLab is a single application for the complete DevOps Lifecycle. As such, we're
 * Netlify
 * Zeit
 * Plutora
+* CodeFresh
+* Cloudbees
+* LaunchDarkly
+* JFrog
+* Spinnaker
+* Urbancode
+* XebiaLabs
+* DeployHQ
+* Harness
+* ArgoCD
 
 ### Package
 
