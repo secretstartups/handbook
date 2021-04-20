@@ -485,7 +485,7 @@ To be completed by the content owner if Pathfactory access is granted. If no acc
 *The purpose of this step is to make it possible to flip the autoresponder if Pathfactory were to have an outtage, at which point, we would still have the PDF version available in Marketo for a quick turnaround.*
 
 1. Save the pdf to your computer with naming convention `[asset-type]-short-name-asset`, ex: `ebook-agile-delivery-models`
-1. Navigate to the (de-indexed) [`resource/download`](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/marketing/source/resources) directory
+1. Navigate to the (de-indexed) [`resource/download`](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/resources) directory
 1. Where it says `www-gitlab-com / sites / marketing / source / resources / +`, click the plus drop down and select "Upload File"
 1. Upload the file you've saved to your computer with the naming convention above
 1. For commit message, add `Upload [Asset Type]: [Asset Name]`, check box for "create new merge request", name your merge request, and click "Upload file"
