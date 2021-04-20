@@ -345,7 +345,7 @@ Successfully [managing team performance](/handbook/people-group/learning-and-dev
 
 ##### Facilitating Career Development Conversations
 
-Product leaders are highly encouraged to engage with their product managers on long term career goals. To help keep career coaching top of mind, we've included a specific template for career coaching conversations the main [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=325513433).  Product managers can fill this out and track it with their managers. Please note this is optional for product managers, encouraged but not required. 
+Product leaders are highly encouraged to engage with their product managers on long term career goals. To help keep career coaching top of mind, we've included a specific template for career coaching conversations in the main [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=325513433).  Product managers can fill this out and track it with their managers. Please note this is optional for product managers, encouraged but not required. 
 
 Tips for using the career coaching template effectively:
 
