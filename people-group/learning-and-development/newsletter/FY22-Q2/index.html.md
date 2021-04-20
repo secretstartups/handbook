@@ -105,39 +105,28 @@ This quarter's team spotlight is on the [People Business Partners](/handbook/peo
 
 Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
 
-* Continuation of [support for managing burnout](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24)
-* [Mentorship opportunities at GitLab](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/16)
-* New resource coming soon: [Tuition reimbursement suggested program list](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/163)
-* GitLab Learn BINGO 
-   * Anyone is welcome to join our upcoming Learning BINGO challenge to become more familiar with GitLab Learn and LinkedIn Learning. The challenge will last two weeks where you will have the opportunity to complete items to get a "BINGO" and earn a new badge on GitLab Learn!
-* Another Manager Challenge planning to launch in March
-* [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions)
-* Crucial Conversations Certification will be completed by L&D Team Members to be able to provide training across the company later in the FY22! 
-* We will be transitioning from [Monthly Continuous Learning Calls](/handbook/people-group/learning-and-development/learning-initiatives/#monthly-continuous-learning-call-overview) to a Learning & Development Group Conversation. Our first Group Conversation will be 2021-04-13!  
-* GitLab Learn launch to external audiences!
+* Samatha will train as a Crucial Conversations trainer 
 
 **Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
 
 ## Recap of FY22-Q1
 
-FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If you missed them or want to go back and review anything, here is an outline of what took place: 
+FY22-Q1 was full of Learning Initiatives by the Learning & Development Team. If you missed them or want to go back and review anything, here is an outline of what took place: 
 
-* 2020-11-10: Live Learning - [Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging)
-* 2020-11-12: Learning Speaker Series - [Building Trust](/handbook/leadership/building-trust/#learning-speaker-series---building-trust-with-remote-teams) 
-* 2020-11-16 - 2020-11-20 - [Psychological Safety - One Week Challenge](/handbook/leadership/emotional-intelligence/psychological-safety/#one-week-challenge)
-* 2020-12-03: Live Learning - [Introduction to Coaching](/handbook/leadership/coaching/) 
-* 2020-12-07 - 2020-12-11 - Mental Health Awareness Campaign  
-   * [Mental Health Awareness Week Recap](https://about.gitlab.com/blog/2020/12/21/gitlab-mental-health-awareness-week-recap/)
-   * 2020-12-10: Learning Speaker Series - [Managing Mental Health & Burnout](https://about.gitlab.com/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive)
-   * [Mental Health Awareness Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY21-Q4/) 
-* 2020-12-14 Launched a new Learning Initiative - [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) 
-* 2021-01 - [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) - currently in progress
-* 2021-01-11 - GitLab Learn Internal Launch
-* 2021-01-11 - LinkedIn Learning Launch 
-* [Monthly Continuous Learning Calls](/handbook/people-group/learning-and-development/learning-initiatives/#past-monthly-continuous-learning-call)
-   * [2020-11-18](https://www.youtube.com/watch?v=tWZ3iVyb-4E&feature=youtu.be)
-   * [2020-12-16](https://www.youtube.com/watch?v=DQdzXFu9Nbc) 
-   * [2021-01-20](https://www.youtube.com/watch?v=pnc4FqHk_a0)
+* Launched our first [LXP and LinkedIn Learning survey](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/205)
+* [Bias Towards Asynchronous Communication](https://gitlab.edcast.com/pathways/ECL-d28057c0-d024-41b0-a89d-9e4d5a024932) self-paced learning path launched in GitLab Learn
+* Jacie trained as Crucial Conversation trainer, Samantha completed Crucial Conversations certification
+   * If you are interested in completing the Crucial Conversations training, please fill out [this interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform)
+* Collaborated with Sales Enablement on [Interview Training](https://gitlab.com/gitlab-com/people-group/learning-development/training-curriculum/-/issues/3) 
+* Shared [internal Rest Ethic and mental wellness training campaign](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/198)
+* Launched [Skill of the Month](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month)
+* Launched [Walk & Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/#walk-and-learn)
+* Created 2 new Job Families for our team! 
+   * [Instructional Designer](https://about.gitlab.com/job-families/people-ops/instructional-designer/)
+   * [Learning System Administrator](https://about.gitlab.com/job-families/people-ops/learning-system-administrator/)
+* Mental Health Newsletter {add link when published}
+* [LinkedIn Learning Cohorts](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/#linkedin-learning-cohorts)
+* add more 
 
 ### New and Updated Leadership Pages 
 
