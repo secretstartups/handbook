@@ -193,7 +193,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   > * Use the JPEG (`.jpg`) or PNG (`.png`) format.
   > * Keep the file size below 100k.
   > * Test image in color and black-and-white (you will add the color version).
-  > * The image file should be located in the folder `sites/marketing/source/images/team/`
+  > * The image file should be located in the folder `sites/uncategorized/source/images/team/`
   > * Name file `yournameinlowercase` and add the appropriate file extension.
 * Story about your background and interests. (See other team member profiles for examples.)
 * Your personal LinkedIn / Twitter / GitLab handles
@@ -222,7 +222,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   1. Click `New branch`.
   1. For `Branch name`, name it something unique (it's temporary so don't worry too much about the exact name) like *your initials-team-page-update-yourdepartment-the date* and click `Create branch`. Example: `hk-team-page-update-custsupport-feb06`
   1. Start by adding your image. Click on `Repository` on the left side then `Files`.
-  1. In the file browser, navigate to `sites/marketing/source/images/team`
+  1. In the file browser, navigate to `sites/uncategorized/source/images/team`
   1. At the top of the page click `+` and choose `Upload file` to upload your picture. Be sure to follow the [picture requirements](#picture-requirements). Add text *Add YourFirstName YourLastName to team page* and click `Upload file`.
   1. Navigate on your branch near the top of the page following the text that has your unique branch name and click on the text that follows your branch name `www-gitlab-com`.
   1. Now you will edit your biographical information. All the bio information displayed on the Team page is pulled from a data file. Click on `data`, and then scroll down to `team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` (you are looking for a file that specifies your name or slug).
@@ -245,7 +245,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   1. Follow the steps to create and add your [SSH keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html).
   1. Clone the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
   1. Create and checkout a new branch for the changes you will be making.
-  1. Add your picture to the `sites/marketing/source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
+  1. Add your picture to the `sites/uncategorized/source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
   1. Open `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in your favorite editor, specifically looking for the file with your name or slug.
   1. <%= partial "team-page-fields" %>
   1. Save the changes to the file in `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/` that you just edited, and `git add` it.
@@ -269,7 +269,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   1. Again, find the picture that you'd like to add to the team pets page, and update the picture's name to the following format: `petname.jpg` or `petname.png`. Ensure the picture size is around 400x400 (*it must be square*, see [picture requirements](#picture-requirements)).
   1. Go to the [GitLab.com / www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/) project.
   1. On the Repository page, you will see a Web IDE button near the middle of the page next to History and Find File buttons.
-  1. In the file browser, navigate to `sites/marketing/source/images/team/pets`.
+  1. In the file browser, navigate to `sites/uncategorized/source/images/team/pets`.
   1. Click the `⋁` icon next to the `pets` directory and choose upload file and choose the photo you prepared in step 1.
   1. Next, navigate to in the file browser `data/pets.yml` and click on it to open the editor.
   1. Add your pet by following the format of the existing pets on the page (you can copy and paste their lines of code, even). Ensure that you include your pet's name, your full name, and the image you uploaded in step 1.
