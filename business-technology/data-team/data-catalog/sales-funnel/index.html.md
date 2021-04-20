@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "WIP Sales Funnel"
+title: "Sales Funnel"
 ---
 ## On this page
 
@@ -16,7 +16,7 @@ The Sales Funnel is a core component of GitLab's Lead to Cash process and it tra
 
 The goal of this page:
 
-* Help you understand how to navigate through the [TD: Sales Funnel - Target vs. Actual Dashboard](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
+* Help you understand how to navigate through the [TD: Sales Funnel - Target vs. Actual Dashboard](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual) and its derived dashboards.
 * Help you understand the data models used to create the TD: Sales Funnel - Targets vs. Actuals Dashboard.
 * Have you assess your understanding by taking a certification most applicable to your role at GitLab.
     * To learn more about how to use the dashboard, take the [Dashboard user certification](https://docs.google.com/forms/d/e/1FAIpQLScTU4iVXI0yw0QSDjZbznbIMmhZSs1GxCoTsVOlg1lQdgUSGg/viewform).
@@ -27,6 +27,8 @@ The goal of this page:
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Targets-vs.-Actuals" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Sales Funnel - Targets vs. Actuals Dashboard</a>
   <a href="https://www.youtube.com/watch?v=AuMV-cq04cs&feature=youtu.be" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Sales Funnel Dimensional Model and Dashboard Training</a>
+  <a href="https://app.periscopedata.com/app/gitlab/828239/TD:-Sales-Funnel-Management-View---Preloaded-Cuts" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Sales Funnel Management View - Preloaded Cuts</a>
+  <a href="https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Standard Bookings Cuts</a>
   <a href="https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Getting started using Sisense Discovery</a>
 </div>
 <br><br><br><br><br><br><br><br><br>
@@ -59,7 +61,7 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 Dimensions:
 
 * [Order Type](https://about.gitlab.com/handbook/sales/sales-term-glossary/#order-type-20-field-values)
-* **Opportunity Source:** How the opportunity was created.
+* **Sales Qualified Source:** How the opportunity was created.
 * **Purchase Channel:** The method in which the account purchased.
 * [GTM Strategy](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/GL4300-and-MM4000./#accounts-are-identified-in-salesforce-by-the-gtm-strategy-field-in-salesforce) 
 * **Focus Account:** These represent the accounts where our Account Based Marketing team is working closely with Sales and Field Marketing to specifically target. GTM Strategy values of Account Centric, Account Based - Net New, and Account Based - Expand GTM Strategy Accounts represent Focus Accounts.
@@ -176,7 +178,34 @@ ORDER BY 1 DESC
 </details>
 <br>
 
+### Sales Funnel Management View - Preloaded Cuts
 
+The [TD: Sales Funnel Management View - Preloaded Cuts](https://app.periscopedata.com/app/gitlab/828239/TD:-Sales-Funnel-Management-View---Preloaded-Cuts) dashboard tracks the main 9 KPIs from the Sales Funnel:
+
+1. Net ARR
+1. New Logos
+1. Pipeline Created
+1. Sales Accepted Opportunities (SAO)
+1. Marketing Qualified Leads (MQLs)
+1. Trials
+1. Average Sales Price (ASP)
+1. MQLs to SAOs
+1. Win Rate
+
+against their respective targets at a quarter to date (QTD) pacing, slicing them by different cuts. This allows management get a quick high level overview on how the business is performing across different dimensions. It answers the question of what areas of the business are on track and which need more attention.
+
+This dashboard contains different cuts, the three most important being:
+
+1. Segment Region Cut
+1. Order Type Mapped || Segment Region Mapped Cut
+1. Segment Mapped || Sales Qualified Source Cut
+
+
+### Standard Bookings Cuts
+
+The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts) dashboard tracks the performance booked ARR against the Previous Year (Year over Year, Y/Y) and agains the financial target by different slices / cuts.
+
+Each slice / cut is composed of a Quarter View and a Fiscal Year View.
 
 <style> #headerformat {
 background-color: #6666c4; color: black; padding: 5px; text-align: center;
