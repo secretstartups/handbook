@@ -16,7 +16,7 @@ On this page, you'll find an overview as well as links to helpful resources for 
 
 <kbd class="required">Required 🔎</kbd><br>
 <br>
-We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [GoogleSheet template](https://docs.google.com/spreadsheets/d/1NaqSgu_1IcL_DYRHjrDGsKLooSykpewD3QYU2OZR5jc/edit#gid=1091464991) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Low, Medium and High potential instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
+We track progress through the skills required to be a product manager at all levels via the Product Management Career Development Framework (CDF). The single source of truth for that framework is the table below but you can use this [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=1091464991) to track your career development with your manager. We are transitioning the CDF to include the company-wide standard of evaluating performance per the [Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). In this model, performance will be considered in categories of Developing, Performing, and Exceeding, alongside evaluation of Low, Medium and High potential instead of using Growing, Learning, Thriving, and Expert categories of the [compa-ratio](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#compa-ratio).
 
 ***
 
@@ -188,6 +188,10 @@ It can be challenging objectively evaluating product managers for categorization
 ##### Make evaluating potential actionable
 Product managers are typically driven and high performing individuals, and we often overestimate our own abilities relative to others. Seeing even a medium potential may be disappointing to many PMs. It should be made clear that a perceived lower than desired potential does not mean the PM is not valued and not performing to expectation. Managers should use a [CDF Review](#cdf-review) to discuss the scoring of the potential. The outcome should be to identify opportunities for the PM to grow and areas for the manager to mentor and coach the PM.
 
+### Supporting a Product Manager's Career
+
+We want Product Managers to succeed in their careers at GitLab and beyond. Product Managers are encouraged to fill out and talk to their managers about their longer-term career goals either as part of their CDF reviews or as a separate career coaching discussion. To help facilitate, track and make time for overall career growth, Product Managers can fill out this specific template for career coaching conversations in the main [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=325513433). Having all career development and progression in one document will help both Product Managers and their Managers keep track of progress.
+
 ## Competencies
 
 Product Managers must be able to demonstrate a variety of skills across our CDF. We provide additional career development guidance by listing [competencies](/handbook/competencies/) for each CDF category in order of priority. We are currently  building out our Product Management competencies. Any competencies that are not yet confirmed are lower in the list and not linked to supporting materials.   We'll add more details and supporting content for each one of these as they are confirmed.
@@ -341,9 +345,19 @@ Successfully [managing team performance](/handbook/people-group/learning-and-dev
 
 ##### Facilitating Career Development Conversations
 
-Product Managers are highly encouraged to engage with their managers on Career Coaching. Here are some resources to help managers support their team members:
-- A [template for Career Coaching conversations](https://docs.google.com/document/d/1B1zNIH2lOIAvFnycSS5KiOIh_zoyXfYp45CKi91K1vk/edit) between Manager and Team Member
-- GitLab's [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit)
+Product leaders are highly encouraged to engage with their Product Managers on long term career goals. To help keep career coaching top of mind, we've included a specific template for career coaching conversations in the main [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=325513433).  Product Managers can fill this out and track it with their managers. Please note this is encouraged but not required for product managers.
+
+Tips for using the career coaching template effectively:
+
+- Help Product Managers set actionable, realistic, achievable goals that build toward their ultimate career goals in tandem with their job responsibilities. 
+- It is important to support Product Managers in finding TIME to pursue broader career learning, or it'll never get prioritized over their daily job
+- Provide actionable feedback that aligns with the Product Manager's career goals
+- Make connection to opportunities inside of GitLab and outside of GitLab
+- Help Product Managers be accountable to their own career goals by revisiting the topic regularly 
+
+GitLab has a [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) that Product Managers should be made aware of as well. 
+
+To support product leaders at being effective at career coaching and mentorship, we'll soon be adding supporting materials to the [product L & D](/handbook/product/product-manager-role/learning-and-development/). 
 
 |  **Level** | **Demonstrates Competency by...**| **Assessment** |
 | --- | --- | --- |
