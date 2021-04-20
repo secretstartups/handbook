@@ -96,3 +96,6 @@ Considerations when building your path:
 - You have the ability to influence positive change (improvements), starting at the individual level.
 - You have the ability to build (not demand) trust and respect with team members ranging from peers to direct reports to team members and executives across the organization.
 - You have the deep desire to grow every team member you work with, using both empathy and open communication to maintain honesty in every line of feedback you give.
+
+## Path to Promotion: Looking Beyond Staff and Support Engineering Manager
+While this document is meant to primarily focus on career development opportunities for Support Engineering IC's, there are many other possible opportunities to pursue. This may include [transfer option examples](https://about.gitlab.com/handbook/engineering/career-development/#transfer-options)), or continued promotion opportunities that go beyond that of Staff and Support Engineering Manager, such as a [Principal Engineer](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/74187) role, [Senior Engineering Manager](https://about.gitlab.com/job-families/engineering/development/management/senior-manager/) role, and [Promotions to Director and above](https://about.gitlab.com/handbook/people-group/promotions-transfers/#promotions-to-director-and-above).
