@@ -349,7 +349,7 @@ Product leaders are highly encouraged to engage with their product managers on l
 
 Tips for using the career coaching template effectively:
 
-- Make sure you help product managers set realisitic, achievable career  goals in tandem with the job responsiblities and goals. 
+- Help product managers set actionable, realistic, achievable goals that build toward their ultimate career goals in tandem with their job responsibilities. 
 - It is important to support product managers in finding TIME to pursue broader career learning, or it'll never get prioritized over their daily job
 - Provide actionable feedback that aligns with the Product Manager's career goals
 - Make connection to opportunities inside of GitLab and outside of GitLab
