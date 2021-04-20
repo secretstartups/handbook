@@ -49,7 +49,7 @@ Considerations when building your path:
 
 - You consistently collaborate with the team, and willingly jump in to help with critical escalations, customer calls, and emergency issues.
 - You have the ability to influence positive change within the team.
-- You support the growth of Support Engineers by offering frequent office hours and pairing sessions.
+- You support the growth of Support Engineers by frequently offering office hours and pairing sessions.
 - You enjoy leading by example and look for ways to help improve various workflows, documentation, and training (including onboarding of new team members).
 - You are willing to stretch yourself with new challenges, and learn to improve from setbacks versus settle for mediocrity.
 
