@@ -351,7 +351,9 @@ Tips for using the career coaching template effectively:
 
 - Make sure you help product managers set realisitic, achievable career  goals in tandem with the job responsiblities and goals. 
 - It is important to support product managers in finding TIME to pursue broader career learning, or it'll never get prioritized over their daily job
-- ADDITIONAL CONENT NEEDED SUCH AS SPECIFICS OF HOW TO USE THE TEMPLATE OR NOT USE THE TEMPLATE
+- Provide actionable feedback that aligns with the Product Manager's career goals
+- Make connection to opportunities inside of GitLab and outside of GitLab
+- Help Product Managers be accountable to their own career goals by revisiting the topic regularly 
 
 GitLab has a [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) that product managers should be maded aware of as well. 
 
