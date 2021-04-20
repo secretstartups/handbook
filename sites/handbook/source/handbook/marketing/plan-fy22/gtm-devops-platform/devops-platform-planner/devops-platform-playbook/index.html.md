@@ -54,18 +54,7 @@ Consider the following questions:
 
 ### Common Pains  
 
-GitLab Premium customers may be experiencing one or more of the below challenges:
-
-| Challenges ("Before Scenarios")  | So What? ("Negative Consequences")  |
-| ------------- |-------------| 
-| TBD   | TBD |
-| TBD | TBD |
-| TBD   | TBD |
-| TBD | TBD |
-| TBD   | TBD |
-| TBD | TBD |
-
-An in-depth view of security pain points and probing questions around them can be found on the [DevOps Platform resource page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/#discovery-questions)
+An in-depth view of pain points and probing questions around them can be found on the [DevOps Platform resource page](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/#current-state-wheres-the-pain)
 
 
 ### Common Benefits  
@@ -97,15 +86,7 @@ To achieve the positive business outcomes highlighted above, what required capab
 
 ## Engaging the Customer
 
-Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format?
-
-| Questions to Better Understand the Customer’s needs  | Discovery questions  |
-| ------------- |-------------| 
-| current state    | 1. How far along are you in your DevOps journey?<br>2. What / how many DevOps tools are you using today?<br>3. How do you involve business stakeholders in your DevOps process?<br>4. How important are audits and compliance? |
-| future state    | 1. In an ideal world, what would collaboration look like in your organization?<br>2. What challenges do you have with your existing tools and can you predict their cost 2 years out?<br>3. Are there things you'd like to do with DevOps but complexity is holding you back? |
-| Required capabilities   | 1. What if your security teams, business stakeholders, and others had access to all the information they needed on-demand?<br>2. What would you do if you could reclaim the time you spend integrating and maintaining your DevOps toolchain?<br>3. What if you could track all your discussions, the code changes that resulted from them, the performance and security impact of those changes, and all the collaboration around them--in one place, automatically? |
-
-
+To better understand your customer's needs, choose from [this list of discovery questions](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devops-platform/).
 
 
 ## Positioning Value 
@@ -190,9 +171,10 @@ With GitLab, organizations TBD.
 
 | Objection  | Response    |
 | ------------- |:-------------:| 
-| TBD | TBD |
-| TBD   | TBD |
-| TBD | TBD |
+| "I don't want to rip and replace my toolchain." | There's no need to do a rip-and replace. GitLab can coexist with any number of tools for as long as you need. You can start small on a green field project and prove out the value of GitLab before adopting more widely. If you have a tool you just can't move for now, simply integrate it, use GitLab for the rest, and consider replacing the legacy tool in the futre if that's right for you.  |
+| "We've spent a lot of time building/customizing/tuning _product x_."   | What if you could stop spending that effort on tool maintainence and spend it instead on delivering higher quality software faster? |
+| "We have very specialized DevOps needs." | We've developer a true DevOps Platform. That means you can build on it easily if you need to, either through our [many integrations](https://docs.gitlab.com/ee/integration/), or by [contributing](https://docs.gitlab.com/ee/development/contributing/) to our [open source cor](https://about.gitlab.com/blog/2016/07/20/gitlab-is-open-core-github-is-closed-source/)e. You probably won't need to, however. [Our customers](https://about.gitlab.com/customers/) have very specific and demanding requirements, and we've been able to meet them. |
+| "I'm not going to use all of it." | You don't need to use everything GitLab has to offer, but it will always be available to you,and since we're a true platform delivered as a single application, adding new features when you're ready is really just as easy as pushing a button. We have thousands of customers who started with just one or two features and adopted the entire solution because it was more cost effective and simpler to maintain. |
 
 
 
@@ -222,9 +204,7 @@ TBD
 Note TBD: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
 
 1. **Initial qualification meeting 1** - use #value-discovery above to assess business objectives. Use these recommended assets based upon areas of most interest:
-   * Cost and/or complexity⇒ use ROI template (link) discussion   
-   * vulnerabilities/risk ⇒  security deck (link) as preface to next mtg  
-   * compliance/software supply chain security ⇒ compliance deep dive deck (TBD as preface to next mtg (will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24  
+   * TBD
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
 **Metric:** Sales Accepted Opp
 
@@ -251,8 +231,8 @@ Will have specific resources under actions above. This is for additional resourc
 ## How to measure progress
 
 **Milestones** (identified by sales stages and/or SDLC fields)
-- [ ] Gameplan with GitLab champion (Medpic)
-- [ ] Meeting with Security team or other economic buyer
+- [ ] Gameplan with GitLab champion
+- [ ] Meeting with economic buyer
 - [ ] Agreement to do POV
 - [ ] POV requirements defined
 - [ ] Successful POV
