@@ -63,7 +63,7 @@ After triaging failed tests, possible follow up actions are:
 
 ### Report the failure
 
-Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution.
+Your priority is to make sure we have an issue for each failure, and to communicate the status of its investigation and resolution. When there are multiple failures to report, consider their impact when deciding which to report first. See the [pipeline triage reponsilibities](../#responsibility) for further guidance.
 
 If there are multiple failures we recommend that you identify whether each one is new or old (and therefore already has an issue open for it). For each new failure, open an issue that includes only the required information. Once you have opened an issue for each new failure you can investigate each more thoroughly and act on them appropriately, as described in later sections.
 
