@@ -188,6 +188,7 @@ While this application automation will take place in Okta, "true" system provisi
 1. [Legal](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1319051)
 1. [PeopleOPs](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1318841)
 1. [Prod+Eng](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1319057)
+1. [Marketing](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1284066) 
 1. [Sales](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1262518)
 1. [Security](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1319052)
 1. [Support](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1319053)
