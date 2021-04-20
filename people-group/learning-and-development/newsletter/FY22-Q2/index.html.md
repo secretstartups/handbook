@@ -15,53 +15,18 @@ This quarter we are learning from [Christie Lenneville](/company/team/#clennevil
   <iframe width="560" height="315" src="addURL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-**Q: What has your career journey looked like to date?**
+### Five Fast Facts from our Interview with Christie
 
-- _Robin_: I graduated from NYU film school, and worked for several years in the film industry and then in technology before deciding to go to law school. I have always been drawn towards technology, having grown up in a house with every Apple computer but the Lisa.
-- _Robin_: After receiving my law degree I joined a Bay Area law firm that specializes in working  with technology clients. After several years of working closely with clients in a variety of technology fields, I was recruited to Adobe’s legal team, and then went on to join New Relic as their General Counsel. The intersection of law and technology continues to fascinate me. I especially enjoy the challenge of my role at GitLab, given the speed of constant innovation and the juxtaposition against traditional legal constructs. 
-- _Robin_: I’m drawn to GitLab’s Values, especially our transparency, which I believe dovetails with many of the reasons behind various legal structures and requirements. 
+1. a
+1. b
+1. c
+1. d
+1. e
 
-**Q: What’s the biggest career risk you’ve ever taken?**
+**Fun Facts about Christie**
 
-- _Robin_: The biggest career risk I have taken was deciding to change careers and go to law school.
-
-**Q: What’s the best book you’ve read in the past year or favorite book in general?**
-
-- _Robin_: I am currently reading “[Undaunted: Overcoming Doubt and Doubters](https://www.amazon.com/Undaunted-Overcoming-Doubters-Kara-Goldin/dp/1400220289)” by Kara Goldin, the CEO of Hint Water. 
-
-**Q: What is your preferred learning style? (Different learning styles - Visual: You prefer using pictures, images, and spatial understanding. Auditory: You prefer using sound and music. Kinesthetic: You prefer using your body, hands and sense of touch. Reading/Writing: You prefer using words, both in speech and writing.)**
-
-- _Robin_: I use a combination of all learning styles. I find that I remember things best when I write them down.
- 
-**Q: Why do you think learning is important?**
-
-- _Robin_: I think learning is important because we work in technology where things are constantly evolving. There is a boundless need for information and learning. I’m not sure you could name an industry where technology isn’t involved. I especially love learning about how our customers are using our product to innovate in their own fields.  
-
-**Q: What is one thing you wish you would have learned sooner in your career?**
-
-- _Robin_: That you are not going to know all the answers off the top of your head all of the time and that it’s okay not to know as long as you ask questions to arrive at the right result and know where to find the answer. If your gut is telling you something or urging you to ask the question, you are probably onto something. It’s better to speak up than to wait until things are too far down the line.
-
-**Q: Can you name a person who has had a tremendous impact on you as a leader? Maybe someone who has been a mentor to you. Why and how did this person impact your life.** 
-
-- _Robin_: I am deeply influenced by the former General Counsel at Adobe. Early on, he told me I would one day be a successful General Counsel/Chief Legal Officer and gave me a lot of encouragement and valuable counsel over the years. He loved hearing about my adventures at a young, quickly growing public company and was never further away than a quick text. My role as a CLO can be a lonely one so having someone who has “been there, done that” was invaluable to my career evolution. So much so that I make it a priority to provide the same for anyone who is in a similar place on their career trajectory. 
-- _Robin_: Also, my husband. Years ago when I was deciding whether to accept my first General Counsel role, he asked me how I would feel if I turned it down and then I heard about the person who ended up taking the job. It made my choice incredibly clear :-) 
-- _Robin_: People are the most impactful when they push themselves beyond the familiar and comfortable. He has always supported me and that has allowed me to feel secure in expanding my comfort zone. 
-
-**Q: What are you doing to ensure you continue to grow and develop as a leader?**
-
-- _Robin_: Listen. I learn from the people I collaborate with every day - both in and outside of GitLab. It’s not about telling people how or what to be. It’s listening and trying to help them strategically problem-solve.
-- _Robin_: As an organization grows and scales, it’s imperative not to outsource your understanding. While delegation is necessary for a company to scale, I believe an effective leader can delegate successfully while remaining aware of and close to the issues that people are working on.
-
-**Q: Is there anything else you would like to tell us about Leadership at GitLab?**
-
-- _Robin_: Leadership is a mindset, not a title. Individuals can be leaders. Here at GitLab, people can lead in their subject matter expertise, or on certain projects as DRIs or in the activities they are involved in (i.e. TMRGs). If leadership is something that interests you but is not part of your day-to-day role, look for opportunities outside of that. 
-- _Robin_: Ask for help when you need it. Too often people won’t ask for help because they view it as a weakness. 
-- _Robin_: Two things that have been key at GitLab for me are: the lack of political culture here and transparency so people understand how decisions are made and arrived at.  
-
-**Fun Facts about Robin**
-
-- You can find me in my favorite slack channel: `#dog` 
-- In my free time, I love spending time with my family and baking. I made homemade bagels for the first time last year. 
+- a
+- b 
 
 **Is there a leader at GitLab that you want to learn more about?** To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
