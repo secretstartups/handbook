@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Talent Acquisition Process Framework - Talent Operations & Insights"
-description: "This page is an overview of the processes, reports, and systems that the Talent Operations & Insights Team is responsible for."
+title: "People Technology & Insights Process Framework - People Technology & Insights"
+description: "This page is an overview of the processes, reports, and systems that the People Technology & Insights Team is responsible for."
 ---
 
 {::options parse_block_html="true" /}
@@ -12,9 +12,9 @@ description: "This page is an overview of the processes, reports, and systems th
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Talent Acquisition Process Framework - Talent Operations & Insights
+## People Technology & Insights Process Framework
 
-This page is an overview of the processes, reports, and systems that the Talent Operations & Insights Team is responsible for. While [Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new) are best medium for fielding questions related to the aforementioned topics, we hold [Office Hours](https://docs.google.com/document/d/1JdyLg8OvYpGGLoNGpP6HhXvuoxInccZrpNJmX3pp91Y/edit) on the fourth Wednesday of each month at 11:00 am ET (3:00 pm GMT).
+This page is an overview of the processes, reports, and systems that the People Technology & Insights Team is responsible for. While [Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new) are best medium for fielding questions related to the aforementioned topics, we hold [Office Hours](https://docs.google.com/document/d/1JdyLg8OvYpGGLoNGpP6HhXvuoxInccZrpNJmX3pp91Y/edit) on the fourth Wednesday of each month at 11:00 am ET (3:00 pm GMT).
 
 ### System Access
 
@@ -43,7 +43,7 @@ Sourcing Team only - please contact the Sourcing Manager.
   Guide by Resource.io
   </summary>
 
-Please [contact the Talent Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
+Please [contact the People Technology & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -52,7 +52,7 @@ Please [contact the Talent Operations & Insights Team](https://gitlab.com/gl-tal
   Interview Schedule
   </summary>
 
-Please [contact the Talent Operations & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
+Please [contact the People Technology & Insights Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new).
 
 </details>
 
@@ -128,7 +128,7 @@ Please [contact the Talent Operations & Insights Team](https://gitlab.com/gl-tal
 
 ### Project Access
 
-The Talent Operations and Insights team audits users and access level permissions of the Talent Acquisition group on a monthly basis.
+The People Technology & Insights team audits users and access level permissions of the Talent Acquisition group on a monthly basis.
 
 ----
 ### Reporting
@@ -452,7 +452,7 @@ In the Issue, please provide the requested information and as much detail as pos
 
 ### Common Issues
 
-The Talent Operations & Insights team utilizes [Talent Operations Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Talent Acquisition's systems.
+The People Technology & Insights team utilizes [People Technology & Insights Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues) to provide support for a variety of requests regarding systems support and access requests across Talent Acquisition's systems.
 
 <details>
   <summary markdown='span'>
@@ -478,7 +478,7 @@ The Talent Operations & Insights team utilizes [Talent Operations Issues](https:
     * "I have a *Recruiter* (or *Hiring Manager*) seat, but can't access GitLab's account.
         * Please try signing-out of LinkedIn and when signing back in, please be sure to select GitLab's account. This error often appears if you had a seat with another organisation.
     * "I requested a *Hiring Manager* seat, but actually need a *Recruiter* seat (i.e. to source, message, and add prospective candidates to projects)."
-        * Please follow-up in your `Access Request` Issue and a Talent Operations & Insights Team Member will reach out to LinkedIn Support requesting this change.
+        * Please follow-up in your `Access Request` Issue and a People Technology & Insights Team Member will reach out to LinkedIn Support requesting this change.
             * The typical turnaround time for such a request is 1 - 2 business days.
     * "I have a *Recruiter* seat and am encountering an error when attempting to bulk send InMail."
        * LinkedIn has limitations on how many InMails a user can send. Please refer to their [Recruiter InMail Policy](https://www.linkedin.com/help/recruiter/answer/50181) for more information.
