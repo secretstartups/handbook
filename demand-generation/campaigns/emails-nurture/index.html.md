@@ -296,9 +296,23 @@ The approval table below applies to non-Marketing emails.
 {: #best-practices-subject-lines}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* Do not exceed 90 characters
-* Need to learn more of Nout's advice
-* The preview text is the first sentence displayed in an email client alongside the subject line (before opening the email)
+* Use subject lines to justify sending the email and connecting to a problem that the reader might have
+* Ask yourself "why would I open this email"? - include the **value proposition**
+* Keep it short and sweet - only include that is absolutely necessary
+* Try 28 to 39 characters - studies suggest this is a "sweet spot" but that is always debatable and testable 
+* Front-load - put information information **first**
+* Be specific - emphasize what the reader "gets" out of reading this email
+* Test when you can!
+* Chad White, email marketing strategist and book author created the **CUE-DIVE method**:
+   * ❏ Contextual - personalized, localized, segmented, relevant, anticipated
+   * ❏ Urgent - topical, events, deadlines, newsjacking
+   * ❏ Emotional - aspirations, happiness, anxiety, duty, fear
+   * ❏ Detailed - answers the question “what is this email about?”
+   * ❏ Intriguing - questions, curiosity, mysterious, humor, puns
+   * ❏ Visual - very long or very short, unusual spelling, emojis, unusual punctuation
+   * ❏ Earned - testimonials, reviews, endorsements, media coverage
+* SUBJECT LINES AFFECT OTHER METRICS TOO! Subject lines affect click through rates & conversions! Poor subject lines can damage the performance of future email campaigns. Do not underestimate their importance!
+* The preview text is the first sentence displayed in an email client alongside the subject line (before opening the email), don't ignore it! Some email clients show 90 characters, so there is some flexibility with length
 
 ### Email content best practices
 {: #best-practices-content}
