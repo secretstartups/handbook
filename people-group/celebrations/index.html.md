@@ -49,5 +49,6 @@ To make sure the reports in Expensify are routed correctly, managers will need t
 For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
 
 ## Support
-If you need support around the ordering of gifts and flowers e.g. updating a team members address or editing any of the details submitted please reach our to the People Experience Team via the **#peopleops** channel.
+If you need the address and phone number of your team member, please reach out to our People Experience Team via the **#peopleops** channel.
+
 
