@@ -355,7 +355,7 @@ Tips for using the career coaching template effectively:
 - Make connection to opportunities inside of GitLab and outside of GitLab
 - Help Product Managers be accountable to their own career goals by revisiting the topic regularly 
 
-GitLab has a [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) that product managers should be maded aware of as well. 
+GitLab has a [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) that Product Managers should be made aware of as well. 
 
 To support product leaders at being effective at career coaching and mentorship, we'll soon be adding supporting materials to the [product L & D](/handbook/product/product-manager-role/learning-and-development/). 
 
