@@ -567,7 +567,7 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `news` – company or product announcements (including policy changes, operational announcements, and breaking changes), news, or events
 - `security` – security-related posts
 - `unfiltered` – posts on [GitLab Unfiltered](/handbook/marketing/blog/unfiltered/)
-- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/marketing/source/releases/posts` directory, not `sites/marketing/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
+- `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
 
 We're working on improving category pages and tagging, but for now you can find posts under the same category by navigating to
 `https://about.gitlab.com/blog/categories/category-name/`. Dashes will be automatically added
@@ -584,7 +584,7 @@ following files:
 1. If a category changes, you need to replace it in all posts. Here's a one-liner command you can run:
 
     ```sh
-    find . sites/marketing/source/blog/blog-posts -type f -exec sed -i 's/categories: old/categories: new/' {} \;
+    find . sites/uncategorized/source/blog/blog-posts -type f -exec sed -i 's/categories: old/categories: new/' {} \;
     ```
 
     where `old` is the old category and `new` is the new one.
@@ -1075,7 +1075,7 @@ Image sizes can exceed megabytes and slow down the site rendering. Follow the pr
 There are three ways to create a blog post MR:
 
 1. Use [Netlify CMS](/handbook/marketing/netlifycms/)*
-1. Add a new file to `sites/marketing/source/blog/blog-posts/` [in the UI](#creating-a-blog-post-mr-from-the-ui)
+1. Add a new file to `sites/uncategorized/source/blog/blog-posts/` [in the UI](#creating-a-blog-post-mr-from-the-ui)
 1. [Use the terminal](#creating-a-post-from-the-command-line) on your own computer
 
 *We have recently implemented Netlify CMS for drafting and publishing blog posts. This is fairly new, and there are several videos to help you learn how to use this tool.
@@ -1124,7 +1124,7 @@ Click on the link to the right of `Request to merge` (this is the name of your b
 
 ![branch name](/images/handbook/marketing/branch-name-screengrab.png){: .shadow.medium.center}
 
-Now navigate to `sites/marketing/source/blog/blog-posts/` in the tree view, then click on the `+` dropdown menu and select `New file`.
+Now navigate to `sites/uncategorized/source/blog/blog-posts/` in the tree view, then click on the `+` dropdown menu and select `New file`.
 
 ![New file](/images/handbook/marketing/new-file.png){: .shadow.medium.center}
 
@@ -1287,7 +1287,7 @@ This is usually because the image filename and what you entered in the frontmatt
 
 Make sure that the image path is correct (i.e. it begins with `/images/blogimages/` – no missing slash at the front, no `source` before the first slash).
 
-It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/marketing/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.  
+It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.  
 
 ## When your blog post has been published
 
