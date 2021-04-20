@@ -108,11 +108,11 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 1. After 1 on-hold period or a week, generally, an issue should be created in the appropriate tracker especially if there is discussion with the development team.
 1. If you are the assignee of a ticket, and the customer has confirmed that the solution you provided has resolved the issue, add a **closure summary** to the ticket prior to changing the ticket status to solved.  
 The closure summary should provide a brief outline of the confirmed solution. It should be written with the goals of giving clarity to the customer with regard to the solution as well as providing your colleagues with a quick and easy way to see what solved the customer's problem. A good closure summary is helpful when searching for solutions to future tickets. To make it easier for yourself to create a summary, please consider using the [General::Closing Summary](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Closing%20Summary.yaml) macro, which adds a template as an internal note populated with some information. You will then need only to fill in the remaining items with relevant information before copying the completed message to a public comment for the customer.  
-Some caveats to bare in mind:  
+Some caveats to bear in mind:  
     1. You should add a closure summary if the ticket is a long ongoing ticket where multiple suggestions have been provided to the customer throughout the ticket lifecycle.
     1. The template ‘Closure Summary’ is there to help guide you with formatting a closure summary, you can modify or remove template content as deemed necessary.
     1. You should not feel the need to add a closure summary if the customer has not responded and the ticket has been automatically closed.
-    1. You should not feel the need to add a closure summary if the ticket has a short life span and the solution is easy identifiable from the ticket history.
+    1. You should not feel the need to add a closure summary if the ticket has a short life span and the solution is easy identifiable from the ticket history. (For example: If the resolution was a simple link to documentation.)
 
 ### FAQ About Working on Tickets workflow
 
