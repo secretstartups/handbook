@@ -71,6 +71,48 @@ If there is not confidence that the activities will be complete and the customer
 
 ## Project Coordination- Training
 
+#### Training Planning and Scheduling
+
+1. **Closed Order Notification** - Project Coordinators receive an automated Salesforce.com email notification when an order has closed and the opportunity is in a closed won stage.  The Project Coordinator will review the purchased training documentation in Salesforce by reviewing the Quote Charge Summaries section within the Saleforce opportunity and attachments and update the corresponding Mavenlink project per the [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process. 
+
+2. **GitLab.com Professional Services epics** are used for tracking training-related information and checklist including the following:
+   * Training dates
+   * Class times
+   * Assigned instructor
+   * Teleconferencing set up
+   * Preparation link
+   * Send out customer follow up email with class details
+   * Add attendance roster to Mavenlink
+   * Send out post training email and recording information
+   * Close out the project
+
+**Scenario 1** - If a customized training is purchased, then a GitLab.com Professional Services epic should already exist as part of the scoping process.
+   * Go to the epic, and update the training course listing section by removing any courses that were not purchased.  Your remaining list should only include the courses that were purchased.
+   * You will also need to update the epic name to be the same name as the corresponding Mavenlink project name.
+   * Update the Engagement SSOT table and Project Checklist sections based on the opportunity and project details.
+
+**Scenario 2** - If only standard training is purchased, then a GitLab.com Professional Services epic most likely will not already have been created.  Use the [GitLab Services Calculator](https://services-calculator.gitlab.io/) to create an epic.
+   * Enter the customer name, your GitLab handle, and your email address into the GitLab Services Calculator and click the **Create PS Scoping Issue** button.  You should see a message that the pipeline is creating.
+   * After the epic has been created, you should receive an email notification with the link to the Scope Engagement and Write SoW issue.  Go to the _Scope Engagement and Write SoW_ issue and close it.
+   * Go to the epic, and update the training course listing section by removing any courses that were not purchased.  Your remaining list should only include the courses that were purchased.
+   * You will also need to update the epic name to be the same name as the corresponding Mavenlink project name.
+   * Update the Engagement SSOT table and Project Checklist sections based on the opportunity and project details.
+
+3. Contact the Account Sales representative via the Salesforce opportunity Chatter feed to request customer PoC confirmation.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) to post your message.
+
+4. **Post-Sales Training Intake Questionnaire** - Use the [template](https://docs.google.com/document/d/15Ame5jLudiX-oztJ3padL-syu5g4yKphK4z8WMkfaNE/edit?usp=sharing) to make a copy of the questionnaire for the customer to complete.  Make sure to save the copy in the correct PMO > Active Projects Google Drive folder.  Update the customer’s training intake questionnaire as necessary and add the customer point of contact to the Google doc with edit rights.
+
+5. **Welcome to PS** - Send the Welcome to PS email to the customer per [template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
+
+6. **Training Scheduling** - After receiving customer confirmation and training intake questionnaire feedback, review trainer schedules in Mavenlink and confirm availability.
+   * Propose training dates and times to the customer.  Add soft allocations to the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and to the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing).
+   * Upon receiving the customer's confirmation of training dates and times, change the soft allocations to hard allocations within the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and update the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing) accordingly.
+   * **Partner Training Work Authorization** - If you are using a partner to deliver the training, create a draft of the applicable Training Work Authorization form and send to the partner for signature using the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
+      * After receiving the signed Training Work Authorization form, save a copy in the partner SFDC account and the Professional Services Partner Google Drive folder.
+      * Update the partner Statement of Work training funds Google sheet tracker to keep track of the training dollars remaining on the Statement of Work.  Notify the Professional Services Education Services Manager when the funds are getting low so a new Statement of Work and procurement issue can be generated for additional funds.
+
+
+
 #### Training Projects Billing Guidelines
 
 Training billing is outlined in each customer SOW or Order Form.  The current billing terms that Professional Services follows is the following:
