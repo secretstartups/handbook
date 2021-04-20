@@ -54,23 +54,36 @@ Performance Indicators:
 
 **Meta issue** to track various issues listed here is at on the [infrastructure tracker](https://gitlab.com/gitlab-com/infrastructure/issues/2373).
 
-## Speed index
+# GitLab's Application performance
+
+## Measurement
 
 ### Target
 
 Performance of GitLab and GitLab.com is ultimately about the user experience. As also described in the [product management handbook](/handbook/product/gitlab-the-product/#performance), "faster applications are better applications".
 
-Our target is: an average **Speed Index of less than 2 seconds** for GitLab.com
+Our current focus at the moment are two indicators:
 
-The [Speed Index](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index) is "the average time at which visible parts of the page are displayed".
+- **[Largest Contentful Paint](https://web.dev/lcp/)** (LCP) to measure the complete loading performance. To provide a good user experience, LCP should occur within 2.5 seconds of when the page first starts loading.
+- **[Time to first Byte](https://web.dev/time-to-first-byte/)** (TTFB) so we have an understanding how long the backend takes to send the base page. Our target for a good backend rendering is below 500ms
 
-There are many other performance metrics that can be useful in analyzing and prioritizing work, some of those are discussed in the sections below. But the user experienced Speed Index is the target for the site as a whole, and should be what everything ties back to in the end.
+On a mid term we target to focus on all of the [Web Vitals](https://web.dev/vitals/) with introducing also a bigger focus on **[First Input delay](https://web.dev/fid/)** (FID) and **[Cumulative Layout Shift](https://web.dev/cls/)** (CLS). So if routes are already performing well with our main indicators please extend optimisations on those.
 
-In everything that is to follow, times are measured from a single geo-location (in Europe) using ["Cable" connectivity](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index#TOC-5Mbps-Cable) for that location (5 /1 Mbps).
+There are many other performance metrics that can be useful in analyzing and prioritizing work, some of those are discussed in the sections below. But the user experienced LCP is the target for the site as a whole, and should be what everything ties back to in the end.
+
+Groups should monitor closely the user experience in regards of performance to also improve the [perceived performance](https://developer.mozilla.org/en-US/docs/Learn/Performance/perceived_performance) also outside those measured performance indicators. For example if any action after loading is very slow and takes a lot of time.
+
+### What we measure
+
+Every end-user performance metric we can, through [sitespeed.io](https://www.sitespeed.io/) by having automatic runs every 4 hours. Any data we collect can be helpful to provide us to analyze for improvements or bottle necks on specific routes. We are sending the data to an graphite instance for continous data storage which is used for all Grafana dashboards. On top of that we also save full reports (links are visible by activating the `Runs` toggle on a sitespeed dashboard) to have more insight data, slow motion data, HAR files and full [Lighthouse](https://developers.google.com/web/tools/lighthouse) reports.
+
+### How we measure
+
+We currently measure with an empty cache, the connection limited to `Cable` and a medium CPU based machine which is located in `us-central` every 4 hours.
 
 ### Past and Current Performance
 
-The URLs from GitLab.com listed in the table below form the basis for measuring performance improvements - these are heavy use cases. The times indicate time passed from web request to "the average time at which visible parts of the page are displayed" (per the definition of Speed Index). Since the "user" of these URLs is a controlled entity in this case, it represents an _external_  measure of "Speed Index".
+The URLs from GitLab.com listed in the table below form the basis for measuring performance improvements - these are heavy use cases. The times indicate time passed from web request to "the average time at which visible parts of the page are displayed" (per the definition of Speed Index). Since the "user" of these URLs is a controlled entity in this case, it represents an _external_  measure of our previous performance metric "Speed Index".
 
 | Type |  [2018-04] | [2019-09] | [2020-02] | Now* |
 | Issue List: [GitLab FOSS Issue List] | 2872 | <span class="text-success">1197</span> | - | N/A |
@@ -395,8 +408,8 @@ Guide to this table:
 
 **Notes:**
 - 1\. <a name="note-blackbox"></a> The range here corresponds to the range in First Byte times of the 4 sample URLs provided in the First Byte [table](#first-byte). However, based on all _non-staging_ URL's measured in [this dashboard](https://dashboards.gitlab.net/dashboard/db/gitlab-web-status?refresh=1m&panelId=14&fullscreen&orgId=1&from=now-90d&to=now), between 2017-03-30 and 2017-06-28, the number would be 3,833 ms.
-- 2\. <a name="note-fp-times"></a> The range here corresponds to the range in Speed Indices of the 4 sample URLs provided in the Speed Index [table](#speed-index).
-- 3\. <a name="note-fl-time"></a> The range here corresponds to the range in Fully Loaded times of the 4 sample URLs provided in the Speed Index [table](#speed-index).
+- 2\. <a name="note-fp-times"></a> The range here corresponds to the range in Speed Indices of the 4 sample URLs provided in the Speed Index table.
+- 3\. <a name="note-fl-time"></a> The range here corresponds to the range in Fully Loaded times of the 4 sample URLs provided in the Speed Index table.
 
 
 ### Git Commit Push
