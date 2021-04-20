@@ -140,7 +140,7 @@ One of the best ways to help GitLab grow is by referring talented people in your
 As you think about who would be a good fit for GitLab, don't limit yourself to only the people you know are actively searching for a job. You never know when someone is ready for their next career journey.
 We want to hire the best candidate for the role and make sure that person will be a ["values add"](/handbook/values/#culture-fit-is-a-bad-excuse) to GitLab's unique [culture](/company/culture/).
 
-Here's a [fact sheet](https://gitlab.com/gitlab-com/people-group/recruiting/-/blob/master/Hiring_fact_sheet_-_2020-03.pdf) that can be used as a reference guide as you're having conversations with potential candidates.
+Here's a [fact sheet](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/blob/master/Hiring_fact_sheet_-_2020-03.pdf) that can be used as a reference guide as you're having conversations with potential candidates.
 
 **Ready to make your first referral?** Check out [this guide.](/handbook/hiring/referral-process/)
 
