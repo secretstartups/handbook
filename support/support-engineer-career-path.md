@@ -31,8 +31,8 @@ Familiarize yourself with what it means to plan your career path, and how leader
 - Read [leadership books](/handbook/leadership/#books) (strongly suggested).
 - Watch this [Engineering IC Leadership - Handbook Learning Session](https://www.youtube.com/watch?v=OXBwtaZ9edQ) to understand the difference between **IC leadership** and **Management**.
 - Schedule a coffee chat or AMA with someone in the position to better understand what they do, and ask for advice on how to work towards this role.
-- As you begin to track and document your path to promotion document, use meaningful examples that highlight the relevant competencies and the type of work the promotion document asks for. See each specific section for some specific conditions.
 - Review and use the templates and resources available in [this Google Drive folder](https://drive.google.com/drive/folders/1LZ6AkjVv4JW0CiHYTGzyMQdGadyOgDY_) to track your performance, career development, and path to promotion.
+- As you begin to track and document your path to promotion document, use meaningful examples that highlight the relevant competencies and the type of work the promotion document asks for. See each section below for some specific conditions.
 
 ## Path to Promotion: Senior Support Engineering
 A Senior-level Support engineer is a natural leader who has championed multiple areas of technical skillsets required to resolve both intermediate and complex customer issues. Senior engineers are direct mentors of Support Engineers, and extend their contributions to other areas, such as contributing to documentation, bug fixes, workflow improvements, or engaging as the next point of escalation for technical issues.
