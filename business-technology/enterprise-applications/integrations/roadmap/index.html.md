@@ -24,19 +24,6 @@ table > tbody > tr > td {
     padding-top: 2px;
     padding-bottom: 2px;
 }
-
-.mermaid {
-    display: block !important;
-}
-
-.wider {
-    width: 1600px;
-}
-
-.scrollable {
-    overflow-x: auto
-}
-
 </style>
 
 {::options parse_block_html="true" /}
@@ -58,8 +45,8 @@ This integrations platform is designed to serve GitLab's Enterprise Applications
 
 ## Timeline
 
-<div class="scrollable">
-<div class="wider">
+<div class="x-scrollable">
+<div style="width: 1600px;">
 
 ```mermaid
 gantt
