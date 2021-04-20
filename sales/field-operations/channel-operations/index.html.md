@@ -515,7 +515,7 @@ Required fields when requesting Google Cloud Credits on an Opportunity
 2. Customer open to being a reference? (drop down: logo use, case-study, joint speaking session, etc.)
 3. Credits being requested (Sales Rep enters in the amount of credits required to close the deal)
 
-Once all required information is provided, it will be routed internally for approval. 
+Once all required information is provided, it will be routed internally for approval. For more information, visit the [Private Alliance Handbook Page](https://gitlab-com.gitlab.io/alliances/alliances-internal/gcp/).
 
 
 ## Channel Neutral
