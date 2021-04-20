@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Catalog"
-description: "This page is the list of GitLab Self-Service Analytics Workflows and Data Definitions, collectively known as The Data Catalog."
+description: "This page lists GitLab's Self-Service Analytics Workflow and Data Definitions."
 ---
 {::options parse_block_html="true" /}
 
@@ -15,7 +15,7 @@ description: "This page is the list of GitLab Self-Service Analytics Workflows a
 
 ## Introduction
 
-This page is the list of GitLab Self-Service [Analytics Workflows](/handbook/business-technology/data-team/data-catalog/#analytics-workflow) and [Data Definitions](/handbook/business-technology/data-team/data-catalog/#data-definition), collectively known as **The Data Catalog**. To maintain a Single Source of Truth for Trusted [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/), content is organized by function and maintained within the Data Team handbook. In cases where a Data Subject (such as Product SKU) crosses function boundaries, content will reside alongside the function that owns the source system of record (e.g. Product SKU will reside in Finance because Zuora is the SSOT for SKUs).
+This page lists GitLab self-service [analytics Workflows](/handbook/business-technology/data-team/data-catalog/#analytics-workflow) and [data definitions](/handbook/business-technology/data-team/data-catalog/#data-definition), collectively known as **The Data Catalog**. This single source of truth for trusted [self-service data](/handbook/business-technology/data-team/direction/self-service/) is organized by function and maintained within the Data Team handbook. In cases where a subject crosses functional boundaries, content will reside alongside the function that owns the source system of record. For example, consider Product SKUs, although many groups may use this data to make decisions, the documentation will live in Finance because Zuora is the SSOT for SKUs.
 
 ### Analytics Workflow
 
@@ -29,7 +29,7 @@ graph TD
       Dashboards
       Ad-Hoc-SQL
     end
-  end    
+  end
 ```
 
 #### Analytics Workflow Development
@@ -48,9 +48,7 @@ The Data Definition is a standard definition and set of use cases used as part o
 1. Define the Data Definition page as completely as possible with all of its parts, including a business summary and links to source systems of record and dashboards.
 1. Data Definition is considered complete once all key parts are defined and the entry on this page is tagged with the appropriate [operational status](/handbook/business-technology/data-team/data-catalog/#legend).
 
-### Data Catalog 
-
-
+### Data Catalog
 
 <style> #headerformat {
 background-color: #554488; color: white; padding: 5px; text-align: center;}
@@ -75,7 +73,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 
 <h1 id="headerformat">Marketing </h1>
 
-  * Coming Soon!
+  * <a href="/handbook/business-technology/data-team/data-catalog/email-data-mart/" class="">🚧  WIP Self-Service Analytics Workflow: Email Marketing Data Mart</a>
 
 <style> #headerformat {
 background-color: #554488; color: white; padding: 5px; text-align: center;}
@@ -88,24 +86,22 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 <details>
 <summary markdown='span'>
   Data Models
-</summary>  
-
+</summary>
   * <a href="#" class="/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html">PTO By Roots (Slack)</a>
-  
 </details>
 
 <details>
 <summary markdown='span'>
   Data Solutions
-</summary>  
+</summary>
   * <a href="/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/" class="">People Metrics</a>
   * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html" class="">Promotions Report</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/recruiting_metrics.html" class="">Recruiting Metrics</a>
+  * <a href="#" class="/handbook/business-ops/data-team/data-catalog/people-analytics/talent-acquisition-metrics.html.md">Talent Acquisition Metrics</a>
   * <a href="https://app.periscopedata.com/app/gitlab/topic/People/abaa4b1155104d529eed2464838d3f39" class="">Other People Dashboards</a>
-  * <a href="https://app.periscopedata.com/app/gitlab/topic/Recruiting/abc202b7029542f98ffb8fefa4958907" class="">Other Recruiting Dashboards</a>
+  * <a href="#" class="https://app.periscopedata.com/app/gitlab/topic/recruiting/abc202b7029542f98ffb8fefa4958907">Other Talent Acquisition Dashboards</a>
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">People Metrics - Data Discovery in Sisense Dashboard</a>
   * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">Team Member Separations Report</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html" class="">People KPI Deck</a> 
+  * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html" class="">People KPI Deck</a>
 </details>
 
 <style> #headerformat {
@@ -117,17 +113,18 @@ background-color: #554488; color: white; padding: 5px; text-align: center;
 <details>
 <summary markdown='span'>
   Data Solutions
-</summary>  
+</summary>
   * <a href="/handbook/business-technology/data-team/data-catalog/product-geolocation/" class="">📊 Self-Service Analytics Workflow: Product Geolocation Analysis</a><br><br>
   * <a href="/handbook/business-technology/data-team/data-catalog/pricing/" class="">📊 Self-Service Analytics Workflow: Pricing Analysis</a><br><br>
   * <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/" class="">🚧 WIP Self-Service Analytics Workflow: XMAU Analysis</a><br><br>
+  * <a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="">🚧 WIP Product Usage Data</a><br><br>
 </details>
 
 
 <details>
 <summary markdown='span'>
   Data Definitions
-</summary>  
+</summary>
   * <a href="/handbook/product/performance-indicators/#structure/" class="">Data Definition: XMAU</a>
   * <a href="/handbook/product/product-categories/#devops-stages/" class="">Data Definition: Product Stage</a>
 </details>
@@ -137,9 +134,9 @@ background-color: #554488; color: white; padding: 5px; text-align: center}
 </style>
 <h1 id="headerformat">Sales </h1>
 
-  * <a href="/handbook/business-technology/data-team/data-catalog/customer-segmentation/" class="">📊 Self-Service Analytics Workflow: Customer Segmentation Analysis</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/sales-funnel/" class="">🚧  WIP Self-Service Analytics Workflow: Sales Funnel</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/manual-data-upload/" class="">🚧  Manual Usage Data Upload</a>
+  * <a href="/handbook/business-technology/data-team/data-catalog/customer-segmentation/" class="">📊 Self-Service Analytics Workflow: Customer Segmentation Analysis</a><br><br>
+  * <a href="/handbook/business-technology/data-team/data-catalog/sales-funnel/" class="">📊  Self-Service Analytics Workflow: Sales Funnel</a><br><br>
+  * <a href="/handbook/business-technology/data-team/data-catalog/manual-data-upload/" class="">🚧  Manual Usage Data Upload</a><br><br>
 
 <style> #headerformat {
 background-color: #554488; color: white; padding: 5px; text-align: center;}
@@ -153,7 +150,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 </style>
 <h1 id="headerformat">Sisense</h1>
 
-  * <a href="https://app.periscopedata.com/app/gitlab/topic/Sisense-Maintenance/abde7717743143098ac071be8c646bdb" class="">Sisense Related Dashboards - this accounts for Sisense Users, Dashboard Usage, Query Runtime</a>  
+  * <a href="https://app.periscopedata.com/app/gitlab/topic/Sisense-Maintenance/abde7717743143098ac071be8c646bdb" class="">Sisense Related Dashboards - this accounts for Sisense Users, Dashboard Usage, Query Runtime</a>
 
 
 ### Legend

@@ -9,7 +9,7 @@ title: "People Metrics"
 ---
 ## People Key Metrics
 
-Gitlab is a focused on supporting our team members, and just like other business stakeholders our People Group is data focused when it comes to creating an environment that allows team members to focus on the contribution they have at Gitlab.
+GitLab is a focused on supporting our team members, and just like other business stakeholders our People Group is data focused when it comes to creating an environment that allows team members to focus on the contribution they have at GitLab.
 
 
 Many of the People KPIs can be found in our [KPI Index](https://about.gitlab.com/handbook/ceo/kpis/#people-group-kpis).
@@ -48,9 +48,9 @@ The dashboard can be filtered down to 3 levels:
 
 | Dashboard View | Filter 1 | Filter 2 |
 |----------------| ---------| ---------|
-| Gitlab Overaall | `Breakout` = `Company` | `Breakout_Division_Department` = `All Company` |
-| Gitlab Overaall | `Breakout` = `Division` | `Breakout_Division_Department` = `Filter on the applicable division` |
-| Gitlab Overaall | `Breakout` = `Department` | `Breakout_Division_Department` = `Filter on the applicable division-department` |
+| GitLab Overall | `Breakout` = `Company` | `Breakout_Division_Department` = `All Company` |
+| GitLab Overall | `Breakout` = `Division` | `Breakout_Division_Department` = `Filter on the applicable division` |
+| GitLab Overall | `Breakout` = `Department` | `Breakout_Division_Department` = `Filter on the applicable division-department` |
 
 **Note: This only allows you select 1 division or 1 department at a time.
 

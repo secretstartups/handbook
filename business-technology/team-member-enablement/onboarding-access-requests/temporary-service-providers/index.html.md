@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Temporary Service Providers Access Requests and Onboarding"
+title: "Temporary Service Providers Access Requests, Onboarding and Offboarding"
 ---
 
 ## On this page
@@ -36,5 +36,8 @@ Please read instructions on how to request access to the following applications 
 - **Slack:** Single or multi channel guest access only, unless there is a situation where this wouldn't work. Inefficiency in adding people to many channels isn't a good enough justification as we are risking providing access to confidential topics being discussed in Slack to non-GitLab team members.
 - **Zoom:** Temporary service providers can create a Zoom account with their personal/work email (Non GitLab) and be invited to any meetings. No need to provide a Zoom account unless there is a situation where this wouldn't work.
 
+### Offboarding
 
+- Managers of Temporary Service Providers will be need to be sure to open an offboarding issue in order to ensure Access Removal. 
+- Should the Temporary Service Provider become a Team Member, an offboarding issue will need to be completed at least one business day before their start date in order to ensure they have updated permissions and access.
 

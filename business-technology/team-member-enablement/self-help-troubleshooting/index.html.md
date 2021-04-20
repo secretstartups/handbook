@@ -38,6 +38,8 @@ Password resets to sensitive systems such as your Google Workspace account and O
 
 ### Using GMail app on phone with Okta log in
 
+Please refer to our GitLab Accceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab GMail account to your personal device. 
+
 To have GMail on your phone now that it is controlled by Okta, you must use the actual Google Apps. 
 - Download GMail to your phone
 - Add Google account
@@ -162,6 +164,19 @@ Check out the GitLab Tools and Tips pages for recommended software and applicati
 
 Our security team also did an amazing write-up for Linux installations - [Linux Setup](/handbook/tools-and-tips/linux/)
 
+### Using JAMF Self Service to Update your OS
+
+You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. To do this follow the below instructions
+
+***Please make sure to backup your Mac before you commence any updates***
+
+1. Head to Finder on your Mac and select Applications
+2. Click on Self Service
+3. On the left hand side you'll see OS Updates, click on that
+4. From here you'll have 2 options, either the last version of MacOS Catalina (10.15.7) or the newest version of MacOS Big Sur. Click on the one you wish to install. This will redirect you to the Apple Store where you can install the OS .Please note you cannot downgrade to a lower OS
+5. This can take upwards of an hour, so please factor in that time when you are updating
+
+
 ### Reinstalling Mac OS after a JAMF wipe
 
 We use JAMF to wipe laptops when you're either getting a new laptop, sending it back to our supplier 'Sell your Mac' or retaining your laptop after you have left the company (https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy)
@@ -206,11 +221,13 @@ Once this is complete you can then install OS by clicking on Reinstall macOS fro
 
 ## Enrolling your Chromebook into GitLab Google Device Management
 
-1. Turn on your Chromebook and follow the on-screen instructions until you see the sign-in screen. Don't sign in yet.
-2. Choose an option to get to the enrollment screen: Press Ctrl+Alt+E. Click More options and then Enterprise enrollment (not available on Chromebook tablets).
+1. Turn on your Chromebook, connect it to a network and follow the on-screen instructions until you see the **Who's using this Chromebook** screen. Don't sign in yet. 
+2. You should see an option at the bottom for **Enterprise Enrollment**: If you do not see this you can press **ctrl+alt+e** and it should bring you to the Enterprise Enrollment Screen. 
 3. Enter the username and password from your Google admin welcome letter or for a Google Account that has eligibility to enroll. This is your GitLab username and password.
-4. If prompted, enter the asset ID and location and click Next.
+4. Once you successfully input your registered Gitlab email address a Okta prompt should appear. You should now enter the email address and password you use for Okta. Afterwards you should be prompted to input a 2FA code or verify a push notification
 5. When you get a confirmation message that the device is successfully enrolled, click Done.
+6. Lastly, you should be prompted one final time to **Sign in to your Chromebook**. Click next and repeat the steps above. (input Okta email and password + 2FA or push notification)
+7. Congrats! You have now completed your sign in an enrollment. 
 
 ## Can't find what you are looking for?
 

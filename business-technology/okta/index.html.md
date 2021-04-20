@@ -111,7 +111,7 @@ Once your Factors have been reset, please set up at least two MFA factors (Yubik
 
 ### Managing Okta Access Using Google Groups
 
-The Gitlab Team Member Enablement team has created a new process for Owners and Provisioners to manage access to Okta applications. If you are listed as an Owner/Provisioner for an application in the [tech stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=1906611965) you will be using the method below to add users to a Google group, which will then sync this group to Okta and assign the application to users. This process was created to empower business application owners to effect Access Requests which require Okta application assignment.
+The GitLab Team Member Enablement team has created a new process for Owners and Provisioners to manage access to Okta applications. If you are listed as an Owner/Provisioner for an application in the [tech stack](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=1906611965) you will be using the method below to add users to a Google group, which will then sync this group to Okta and assign the application to users. This process was created to empower business application owners to effect Access Requests which require Okta application assignment.
 
 - Sign in to [Google Groups](https://groups.google.com/).
 - Click My groups.
@@ -173,6 +173,5 @@ Note that the 2FA for GitLab.com is different to the MFA you use to log into Okt
 ## Who are the Okta Super Admins?
 
 - Peter Kaldis, IT Manager
-- Amber Lammers, Lead, Systems Administrator
 - Jan Urbanc, Director of Security Operations
 

@@ -98,7 +98,7 @@ The [Endpoint Management Implementation Plan](https://gitlab.com/gitlab-com/busi
 * 1st wave (2020-09-28): Cross Functional Pilot Groups
   * This group will consist of a mix of GitLab team members and Engineering Managers
 * 2nd wave (2020-10-05): E-Group
-* 3rd wave (2020-10-12): People, Recruiting, Finance, Product, Marketing
+* 3rd wave (2020-10-12): People, Talent Acquisition, Finance, Product, Marketing
 * 4th wave (2020-10-19): Sales, Legal, Chief of Staff team
 * 5th wave (2020-10-26): Engineering
 
@@ -125,9 +125,9 @@ To install Jamf on your Mac hardware device, you will need to launch the **Safar
 - Safari will auto-identify the mobile configuration files (profiles) and install automatically.
 - Chrome will download the files to the desktop and you will have to manually install the configuration files.
 
-### Installing Jamf
+### Installing Jamf for OS 10.15.7 and lower
 
-**Note that the following instructions are being shown in Safari.**
+**Note that the following instructions are being shown in Safari**
 
 **[TLDR](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#installation-completion-confirmation)** - Too long didn't read can be found at the end of the installation instruction.
 
@@ -152,6 +152,31 @@ To install Jamf on your Mac hardware device, you will need to launch the **Safar
 - When installation is complete, you will receive a confirmation that installation is complete.
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vTQXkiYD5ZR5Xed_cIER75KQJEWdEVLT1iyi4O2acdDM_K2w3px7jNNrHJXcTem_nsbPGbUMmHKlUT1/pub?w=440&amp;h=263">
+
+### Installing Jamf for OS Big Sur
+
+**Note that the following instructions are being shown in Safari**
+
+- Once you've opened your web browser and navigated to GitLab's Jamf instance, you will be directed to enter in your Okta credentials.
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vT28v5zghXjN3L0oYgdRO54zq1c1GY-cv7tXz_4k5IaR_gIlc0h-eMIRzbjKjr-pK6G_Axv59Dzojcv/pub?w=440&amp;h=263">
+
+- After entering in your Okta credentials and authentication, you will see a message to "Continue". By selecting "Continue", the download process for Jamf configuration files will begin.
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vT8VtWM10a-vNPCy4-41_s19YeiVCJf5sOpiVSp8pjCWkiQW_oufwO6u43RoaNCGPeoB6DrG3TVljbt/pub?w=440&amp;h=263">
+
+- After selecting "Allow gitlab.jamfcloud.com' to install you will then see a pop up in the right hand corner that advises you to "review the profile in System Preferences if you want to install it" click on this or alternatively head to system preferences and click on profiles
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRD1vVsT1NsHbQX6vQ4v_M2OyDkUxPRmNObfgcnnSLM0IXZnhpwKC9320k9-nekCh9thX4Aixunyuoh/pub?w=960&h=720">
+
+
+- Click on the MDM Profile and select Install. It will open up another pop up, you can safely click install here. It will take 10 seconds, and then ask you if you are sure you want to install the profile again. Click "install" once again.
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vRqGN_whi7viM79mYiNfHOGK8CUfiMozPf8ivQ2WVgsmRjxJKSK9HuiSkKGwRjt62czo6K3dopR3Xyr/pub?w=960&h=720">
+
+- It will prompt you to input you admin details for your computer. Enter these and you're complete! You will see the profiles have installed as per the below picture
+
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vR6WJxRF8EReR-s1bZuDXBBMNS-NW0C5cNipESxG86-iTdqHXRu13NfeqaMZtRu4wsN6zeWx23fykue/pub?w=960&h=720">
 
 ##### Installation completion confirmation
 
@@ -202,7 +227,7 @@ The Jamf Pro endpoint management solution provides a lot of advantages over an o
 
 ### Can we self-host our own solution to have more control?
 
-We have chosen to go with the SaaS version of Jamf because we believe that it will be more costly to get the same level of security with the self hosted version. The self-hosted version requires expertise with the security and management of MySQL and Tomcat, plus additional costs for the cloud infrastructure required to support it. Since Gitlab uses SaaS applications for all other functions of the company, we see no reason to treat this service differently.
+We have chosen to go with the SaaS version of Jamf because we believe that it will be more costly to get the same level of security with the self hosted version. The self-hosted version requires expertise with the security and management of MySQL and Tomcat, plus additional costs for the cloud infrastructure required to support it. Since GitLab uses SaaS applications for all other functions of the company, we see no reason to treat this service differently.
 
 
 ### What is the Jamf track record of addressing security vulnerabilities?

@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "IT Compliance"
-description: "The IT Audit and Compliance function at GitLab is here to ensure as a company we are ready to pass a SOX Audit for our IT General Controls (ITGC)."
+description: "IT Compliance"
 ---
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -69,3 +69,9 @@ The most common ITGCs:
 #### [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan)
 
 IT Compliance works closely with our Security Compliance team to ensure that GitLab's Business Continuity Plan is up to date. 
+
+#### [Business Technology Change Management](/handbook/business-technology/change-management)
+
+IT Compliance works closely with our internal business partners for all Enterprise Application Change Management. More information can be found in our [Business Technology Change Management](/handbook/business-technology/change-management) handbook page. 
+
+
