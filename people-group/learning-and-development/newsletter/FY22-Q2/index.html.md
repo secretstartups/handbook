@@ -141,13 +141,19 @@ FY21-Q4 was full of Learning Initiatives by the Learning & Development Team. If 
 
 ### New and Updated Leadership Pages 
 
-The L&D Team has been adding more content to the leadership handbook pages and doing [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions). 
-
-The following video is an example of the [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) the L&D Team is doing to uplevel the Leadership handbook pages. 
+The following videos are examples of the [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) the L&D Team is doing to uplevel the Leadership handbook pages. 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="AddURL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=CHs8NxRSGPw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
+If you want to learn more on this topic, see the [High Output Management](/handbook/leadership/high-output-management/#applying-high-output-management) handbook page. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-mLpytnQtlY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+If you want to learn more on this topic, see the [Managing Underperformance](/handbook/leadership/underperformance/#managing-underperformance-handbook-learning-session) handbook page. 
 
 ### Learning & Development Blog Posts 
 
