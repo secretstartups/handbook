@@ -116,4 +116,4 @@ The collection and usage of a customer's product usage data will be governed and
 - [Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for TAM and digital engagement
 - [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
 - [Product Intelligence Overview](/handbook/product/product-intelligence-guide/) (details on product usage data)
-
+- [Email Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart/)
