@@ -13,7 +13,7 @@ description: "To support and scale GitLab’s continued growth and success, the 
 ## Overview 
 To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Strategic Account Leaders that includes functional, soft skills, and technical training for field team members.  
 
-Certification badges will align to the customer journey and critical “Moments That Matter” (MTMs) as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each MTM.
+Certification badges will align to the critical customer engagements as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
 
 ## Strategic Account Leader Curriculum 
 The below slide shows the holistic learner journey for SALs and provides context for the information included throughout the learning program. 
@@ -22,26 +22,31 @@ The below slide shows the holistic learner journey for SALs and provides context
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000&slide=id.g94bb3b04a3_0_271" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-## Pipeline Generation & Qualification Learning Path 
+## Building the Territory & Pipeline Learning Path 
 This is the first learning path in development for SALs which will consist of 5 courses. The learning objectives for each course are outlined below.
 
-**Course 1: Applying DevOps**
-* Apply DevOps concepts and terms 
-* Explain the different types of customer use cases 
-* Given a scenario, determine an entry point with a customer 
+**Course 1: [Co-Selling with Partners](https://gitlab.edcast.com/insights/ECL-9a30df21-dff0-4ac5-8ffa-e67429860dfd)**
+* The different types of partners GitLab works with
+* Key elements of both the Channel and Alliances programs
+* How to effectively co-sell with partners in the field
+* How to engage with key stakeholders within GitLab  
 
-**Course 2: Describe the Customer Journey** 
-* Describe sales activities aligned to the customer journey (OODA LOOP)
-* Define a Marketing Qualified Lead 
-* Convert the Marketing Qualified Lead into a Sales Accepted Opportunity 
-* Differentiate between territory planning, opportunity planning, and account planning 
+**Course 2: Account Planning**
+* Define an account plan
+* Identify differences between Territory Planning, Account * Planning, Opportunity Planning, and Success Planning
+* Explain the criteria to justify creating an account plan
+* Explain the components of an account plan
+* Explain the methodology used to create each component of an account plan
+* Explain how to collaboratively execute an account plan
+* Build an account plan template based on one of your existing accounts
 
-**Course 3: Analyze Your Territory**
-* Analyze a territory 
-* Given a scenario, select pipeline engagement activities 
-* Given a business vertical, create and present a territory plan
+**Course 3: Account Planning in Gainsight**
+* Create a strategy for 6, 12, and 18 mos* 
+* Organize people/ influence map in Gainsight
+* Build white space map in Gainsight
+* Organize an action plan for the account team
 
-**Course 4: Execute Pipeline Generation Activities** 
+**Course 4: Generate Pipeline** 
 * Differentiate between lead generation and pipeline generation
 * Describe how to conduct various pipeline generation activities 
 * Prepare for an initial qualification meeting 

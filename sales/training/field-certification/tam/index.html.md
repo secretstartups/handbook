@@ -13,7 +13,7 @@ description: "To support and scale GitLab’s continued growth and success, the 
 ## Overview 
 To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Technical Account Managers that includes functional, soft skills, and technical training for field team members.  
 
-Certification badges will align to the customer journey and critical “Moments That Matter” (MTMs) as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each MTM.
+Certification badges will align to the critical customer engagements as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
 
 ## Technical Account Managers Curriculum 
 The below slide shows the holistic learner journey for TAMs and provides context for the information included throughout the learning program. 
@@ -22,36 +22,44 @@ The below slide shows the holistic learner journey for TAMs and provides context
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000&slide=id.g94bb3b04a3_0_492" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-## Onboarding Customers for Success Learning Path 
-This is the first learning path in development for TAMs which will consist of five courses. The learning objectives for each course are outlined below.
+## Upcoming courses for TAMs
+It is an exciting quarter for TAM enablement. The learning objectives for each course are outlined below.
 
-**Course 1: SALSA-TAM Meeting**
+**Course 1: [Building Success Plans](https://gitlab.edcast.com/pathways/ECL-47775d76-4bc6-4fe8-bdde-07f6ffc56578)**
+* Define success plans and their purpose
+* Distinguish between success plans and collaboration projects
+* Explain the process of creating a success plan
+* Define well-written customer outcomes
+
+**Course 2: Success Plans in Gainsight**
+* How to build success plan in gainsight
+* What to put into fields like Strategy
+* Building objectives and related tasks in Gainsight 
+
+**Course 3: Executive Business Reviews**
+* Define what is an EBR
+* Describe why we do EBRs
+* List who should be at EBR, and their role
+* Utilize content from success plan to build EBR Deck
+* Demonstrate the value of an EBR to customers (to assist in getting EBR scheduled)
+* Facilitate scheduling EBRs in a timely fashion with execs and economic buyers.
+
+**Course 4: SALSA-TAM Meeting**
 * Identify roles & responsibilities in the SALSA-TAM Meeting
 * Review SALSA-TAM Meeting best practices
 * Leverage tools during call 
 
-**Course 2: Transition to the Account** 
-* Differentiate between when a TAM should get involved in Commercial and Enterprise accounts 
-* Review the customer use case with SAL and SA
-* Analyze the customer’s background
-* Identify gaps in understanding for planning phase 
+**Course 5: Pre- to Post Sales Handoff**
+*Differentiate between when a TAM should get involved in commercial and enterprise accounts
+* Review the Customer Use Case with SAL and SA
+* Analyze the Customer’s Background
+* Identify gaps in understanding for planning phase
 
-**Course 3: Kickoff the Customer Engagement**
-* Define current and desired state for customer 
-* Customize and send TAM Welcome email 
-* Conduct pre-kickoff activities 
-* Conduct the kick-off 
-* Manage customer onboarding in Gainsight 
-* Schedule cadence call to discuss future growth 
+**Course 6: GitLab Days**
+ Learning Objectives are TBD 
 
-**Course 4: Build the Success Plan**
-* Review the customer’s motivation for purchasing GitLab through reviews with the sales team
-* Identify the customer’s business objectives 
-* Document the success plan in Gainsight  
-* Track value of the ROI success plan 
 
-**Course 5: Obtain Customer Feedback** 
-* Send customer satisfaction survey and swag email 
+ 
 
 
 # Recognition

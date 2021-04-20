@@ -60,13 +60,13 @@ To achieve GitLab “certified” status, candidates must complete both the onli
 ![field-cert-badges](/handbook/sales/training/field-certification/field-cert-badges.png)
 
 ## Roadmap
-Alpha testing for the below courses will take place in FY21Q4:
+Alpha testing for the below courses will take place in FY22Q2:
 - Account Planning for Strategic Account Leaders
-- The Required 7 for Account Executives: Command Plans  
-- Technical Discovery for Solutions Architects
-- Building ROI Success Plans for Technical Account Managers 
+- The Required 7 for Account Executives: Practical Assessment  
+- Demo Skills with Demo2Win 
+- Executive Business Reviews for Technical Account Managers 
 
-The first courses are scheduled to go live in conjunction with the launch of our Learning Experience Platform (LXP) in FY21Q4. 
+This is a roadmap of what to expect in the next quarter, but do not wait to be assigned courses. You can search and consume courses on your own schedule by searching in [GitLab Learn](https://gitlab.edcast.com/) our learning experience platform.  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -88,13 +88,16 @@ Currently available courses include the following:
 
 #### Continuous Integration (CI)
 
-- Access the [Continuous Integration Customer Use Case learning path](https://classroom.google.com/c/ODA3MDM2NDkzODFa?cjc=4oy74tz) in Google Classroom (internal only)
-- Just want to take the knowledge check quiz? [Click here](https://forms.gle/SYcjEptqKyfohUHx7). 
+- Access the [Continuous Integration Customer Use Case learning path](https://gitlab.edcast.com/insights/ECL-ac43cbf8-722b-4b0f-9b9c-e5132aa6d7b0)  
 
 #### DevSecOps
 
-- Access the [DevSecOps Customer Use Case learning path](https://classroom.google.com/c/MTI4MzkzMDA0NTg5?cjc=g3q2snm) in Google Classroom (internal only)
-- Just want to take the knowledge check quiz? [Click here](https://forms.gle/hkta3uDUpki52BGD8).
+- Access the [DevSecOps Customer Use Case learning path](https://gitlab.edcast.com/pathways/ECL-ec3486b7-6b30-4a00-b638-4d482fb236c8)
+
+#### DevOps Platform 
+
+- Access the [DevOps Platform Use Case learning path](https://gitlab.edcast.com/insights/ECL-b6672a5d-a33e-4c0e-850e-e72c5f8be001)
+
 
 ## Feedback 
 

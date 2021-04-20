@@ -13,7 +13,7 @@ description: "To support and scale GitLab’s continued growth and success, the 
 ## Overview 
 To support and scale GitLab’s continued growth and success, the Field Enablement Team is developing a certification program for Solutions Architects that includes functional, soft skills, and technical training for field team members.  
 
-Certification badges will align to the customer journey and critical “Moments That Matter” (MTMs) as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each MTM.
+Certification badges will align to the critical customer engagements as well as the [field functional competencies](/handbook/sales/training/field-functional-competencies/) that address the critical knowledge, skills, role-based behaviors, processes, content, and tools to successfully execute each customer interaction.
 
 ## Solutions Architects Curriculum 
 The below slide shows the holistic learner journey for SAs and provides context for the information included throughout the learning program. 
@@ -35,7 +35,7 @@ This is the first learning path in development for SAs which will consist of 5 c
 * Build the customer demo 
 * Conduct a demo dry run 
 
-**Course 3: Conduct the Customer Demo** 
+**Course 3: Deliver the Customer Demo** 
 * Demonstrate GitLab features, value, propositions, and workflows 
 * Present compelling information in a  relevant, tailored, and logical way 
 
