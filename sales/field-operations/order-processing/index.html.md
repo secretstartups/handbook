@@ -983,6 +983,8 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 #### FY22 Bookings Policy
 
+Subscription Start Date TBD 
+
 This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
 **New Business/Add-On Opportunities:**
