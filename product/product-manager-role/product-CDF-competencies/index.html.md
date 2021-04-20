@@ -190,7 +190,7 @@ Product managers are typically driven and high performing individuals, and we of
 
 ### Supporting a Product Manager's Career
 
-We want product managers to succeed in their careers at GitLab and beyond. Product managers are encouraged to fill out and talk to their managers about their longer-term career goals either as part of their CDF reviews or as a separate career coaching discussion. To help facilitate, track and make time for overall career growth, product managers can fill out this specific template for career coaching conversations the main [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=325513433). Having all career development and progression in one document will help both Product Managers and their Managers keep track of progress.
+We want Product Managers to succeed in their careers at GitLab and beyond. Product Managers are encouraged to fill out and talk to their managers about their longer-term career goals either as part of their CDF reviews or as a separate career coaching discussion. To help facilitate, track and make time for overall career growth, Product Managers can fill out this specific template for career coaching conversations in the main [CDF template](https://docs.google.com/spreadsheets/d/1bojC8gGcgxckjBpMigLII-N4ATau4UfB2xwVuMW9Mps/edit#gid=325513433). Having all career development and progression in one document will help both Product Managers and their Managers keep track of progress.
 
 ## Competencies
 
