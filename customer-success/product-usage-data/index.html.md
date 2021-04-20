@@ -88,7 +88,8 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 #### Product
 
-- **ADD DETAILS ON HOW THE XMAU DATA IS USED OR LINK TO APPROPRIATE PAGES**
+- Measure usage of features, stages, and use cases for Product Team key performance indicators (KPIs)
+- Understand usage of the product to identify and/or validate product investments to improve the product and customer experience
 - Identify customers who are using certain GitLab stages or use cases for feedback (through surveys, interviews, etc.)
 
 #### Marketing
