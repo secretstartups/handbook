@@ -14,10 +14,10 @@ description: "This page is an overview of the processes each party of the search
 
    - [Acquisitions](/handbook/hiring/talent-acquisition-framework/acquisitions/)
    - [Candidate Experience Specialist Responsibilities](/handbook/hiring/talent-acquisition-framework/coordinator/)
-   - [How to Complete a Contract - CES Process](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/)
+   - [Candidate Management Processes](/handbook/hiring/talent-acquisition-framework/candidate-management/)
    - [Hiring Manager Processes](/handbook/hiring/talent-acquisition-framework/hiring-manager/)
+   - [How to Complete a Contract - CES Process](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/)
+   - [People Technology & Insights Processes](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights)
    - [Req Creation Process](/handbook/hiring/talent-acquisition-framework/req-creation/)
    - [Req Overview Processes](/handbook/hiring/talent-acquisition-framework/req-overview/)
-   - [Talent Acquisition Operations & Insights Processes](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights)
    - [Talent Community Processes](/handbook/hiring/talent-acquisition-framework/talent-community/)
-   - [Candidate Management Processes](/handbook/hiring/talent-acquisition-framework/candidate-management/)
