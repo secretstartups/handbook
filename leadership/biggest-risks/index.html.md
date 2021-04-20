@@ -138,7 +138,7 @@ We should [identify and take action as early as possible](/handbook/leadership/u
 1. Have [contributing organizations](/community/contributing-orgs/)
 
 ## 6. Key people leave
-{:#key-people-leave}
+{:#6-key-people-leave}
 
 GitLab's success will create growth opportunities for team members inside *and* outside of the company. 
 
