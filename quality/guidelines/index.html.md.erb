@@ -54,7 +54,8 @@ it **must** be behind a feature flag (disabled by default) until a QA test is wr
 
 ## Test Failures
 
-- **Fix failing test in `master` first**: [Failing tests on `master` are treated as the highest priority](/handbook/engineering/workflow/#broken-master).
+- **Fix tests failing in `master` before other development work**: [Failing tests on `master` are treated as the highest priority](/handbook/engineering/workflow/#broken-master) relative to other development work, e.g., new features.
+- **Follow the [pipeline triage guidelines](debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure) for investigating, reporting, and resolving test failures**
 - **Flaky tests are quarantined until proven stable**: A flaky test is as bad as no tests or in some cases worse due to the effort required to fix or even re-write the test.
 As soon as detected it is quarantined immediately to stabilize CI, and then fixed as soon as possible, and monitored until it is fixed.
 - **Close issue when the test is moved out of quarantine**: Quarantine issues should not be closed unless tests are moved out of quarantine.
