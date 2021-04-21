@@ -171,7 +171,7 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 The executives get together every quarter for the [e-group offsite](/company/offsite/).
 The CoS plays an important [role](/company/offsite/#roles).
 It's [3-days long](/company/offsite/#schedule) with an All-Directs the following day.
-[There is a book](/company/offsite/#book-choice).
+[There is a content discussion](/company/offsite/#content-choice).
 There are [recurring content discussions](/company/offsite/#recurring-discussion-topics).
 Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gitlab-com/cos-team/-/issues/18).
 
