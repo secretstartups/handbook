@@ -70,7 +70,7 @@ The following table provides scores for each of our DevOps stages and a comparis
     <% next if !stage.marketing %>
     <% totalMarketingScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
     <% stage.groups.each do |groupKey, group| %>
-      <% totalMarketingDevelopers += team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag)%>
+      <% totalMarketingDevelopers += team_member_count_from_groups(groups: [group.be_team_tag, group.fe_team_tag, group.fs_team_tag])%>
     <% end %>
   <% end %>
 <% end %>
@@ -79,7 +79,7 @@ The following table provides scores for each of our DevOps stages and a comparis
     <% next if !stage.marketing %>
     <% stage_devs = 0 %>
     <% stage.groups.each do |groupKey, group| %>
-      <% stage_devs += team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag)%>
+      <% stage_devs += team_member_count_from_groups(groups: [group.be_team_tag, group.fe_team_tag, group.fs_team_tag])%>
     <% end %>
     <% stageLine=[] %>
     <% combinedScore = stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
@@ -113,7 +113,7 @@ The following table provides scores for each of our DevOps stages and a comparis
     <% next if !stage.marketing && !stage.enabling %>
     <% stage.groups.each do |groupKey, group| %>
       <% totalDevOpsEnableScore += group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
-      <% totalDevOpsEnableDevelopers += team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag)%>
+      <% totalDevOpsEnableDevelopers += team_member_count_from_groups(groups: [group.be_team_tag, group.fe_team_tag, group.fs_team_tag])%>
     <% end %>
   <% end %>
 <% end %>
@@ -121,7 +121,7 @@ The following table provides scores for each of our DevOps stages and a comparis
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing && !stage.enabling %>
     <% stage.groups.each do |groupKey, group| %>
-      <% group_developers = team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag) %>
+      <% group_developers = team_member_count_from_groups(groups: [group.be_team_tag, group.fe_team_tag, group.fs_team_tag])%>
       <% combinedScore = group.usage_driver_score.to_i + group.asp_driver_score.to_i + group.sam_driver_score.to_i %>
       <% next if combinedScore == 0 %>
       <% percent_of_total = (combinedScore.to_f/totalDevOpsEnableScore.to_f)*100 %>
@@ -151,14 +151,14 @@ For non-DevOps and Enabling stages we still track our overall investment, but do
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% stage.groups.each do |groupKey, group| %>
-      <% totalAllDevelopers += team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag)%>
+      <% totalAllDevelopers += team_member_count_from_groups(groups: [group.be_team_tag, group.fe_team_tag, group.fs_team_tag])%>
     <% end %>
   <% end %>
 <% end %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% stage.groups.each do |groupKey, group| %>
-      <% group_developers = team_member_count_from_group(group: group.be_team_tag) + team_member_count_from_group(group: group.fe_team_tag) + team_member_count_from_group(group: group.fs_team_tag) %>
+      <% group_developers = team_member_count_from_groups(groups: [group.be_team_tag, group.fe_team_tag, group.fs_team_tag])%>
       <% percent_of_developers = (group_developers.to_f / totalAllDevelopers.to_f)*100 %>
       <% groupLine=[] %>
       <% groupLine << "#{stage.display_name}: #{group.name}" %>
