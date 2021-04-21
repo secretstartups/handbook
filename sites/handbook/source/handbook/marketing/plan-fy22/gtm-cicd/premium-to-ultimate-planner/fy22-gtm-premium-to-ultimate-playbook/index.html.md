@@ -200,7 +200,7 @@ Enterprise accounts will **not** be included in the email campaign driving custo
 1. Familiarize yourself with context for this play (above), especially differentiators and objections
 1. Familiarize yourself with the email sequence and next steps (below).
 1. Using the [recommended email sequence](#recommended-email-sequence), start the conversation at the appropriate point. Choose to start with email 1, 2, or 3 (**use the templates!**) based upon where you are with this contact.
-1. See which contacts have responded (Agnes, please describe how they do this)
+1. See which contacts have responded by checking your gmail inbox for emails alerts (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert) | [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
 1. Conduct meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
 1. Update sales stage in SFDC.
 1. Determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence after 7-10 days. (**Please use the templates's tracking links!**) You can modify the templates to fit your unique conversations as needed.  
@@ -217,10 +217,10 @@ For SMB customers, we will rely on inbound responses to the marketing-generated 
 **SMB Sales Actions**
 
 1. Sales review list of target accounts/contacts (link to list)
-1. Notify marketing by Friday, 2021-04-23 (@agnes or @jackie? how/where?) for any additional accounts or individual contacts that need to be excluded from the 'contact sales' emails below. The default approach should be to include as many accounts and customers as possible, excluding only where such communication would be disruptive to existing deals.
+1. Notify marketing by Friday, 2021-04-23 individual contacts that need to be excluded from the marketing generated emails below by filling out columns A & B on [this final target list](url). The default approach should be to include as many accounts and customers as possible, excluding only where such communication would be disruptive to existing deals.
 1. Familiarize yourself with context for this play (above), especially differentiators and objections
 1. Familiarize yourself with the email sequence and next steps (below).
-1. See which contacts have responded (Agnes, please describe how they do this)
+1. See which contacts have responded by checking your gmail inbox for emails alerts (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert) | [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
 1. Conduct meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
 1. Update sales stage in SFDC.
 1. Note: once they ask for an initial meeting from any email they will be pulled out of subsequent automated emails. (If they respond to email 1, they will not receive emails 2 and 3 from marketing.) It will be up to sales to determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence. **Please use the templates** as they provided tracking links so you can see what was opened and clicked (and marketing can see what is getting used). You can modify the templates to fit your unique conversations as needed.
@@ -230,7 +230,7 @@ For SMB customers, we will rely on inbound responses to the marketing-generated 
 ### Recommended email sequence {#recommended-email-sequence}
 
 This sequence of recommended emails is intended to move the prospect from interest to POV. Note:  
-* Marketing will be sending these emails to SMB targets generate leads. The first will go out starting April 29th and subsequent emails will follow every 7-10 days. (Agnes, verify days)
+* Marketing will be sending these emails to SMB targets generate leads. The first will go out starting April 27th and subsequent emails will follow every 7 days.
 * MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. We recommend you send the next email in the sequence 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. **Please use the templates provided in the links below**. They have embedded links so you will see what they open and click thru (and marketing will see what's getting used most).
 
 
