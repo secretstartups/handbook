@@ -14,7 +14,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 #### **Sales play name**  {#sales-play-name}
 
-Premium => Ultimate CI/CD: [find and use the sales playbook here.](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/index.html.md)
+Premium => Ultimate CI/CD: [find and use the sales playbook here.](/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate)
 
 
 #### **Description**  {#description}
