@@ -209,7 +209,7 @@ _The list below includes potential and recommended items to include in a Sales P
 - The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the GTM Motion as well as related
 Campaigns and Sales Plays.
 - The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Campaigns and Sales Plays.
-- Teach team member should formally commit to due dates for their work.
+- Each team member should formally commit to due dates for their work.
 - Each team member is responsible for communicating as soon as possible when a due date is at risk.
 - The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
 - The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
@@ -222,7 +222,7 @@ Campaigns and Sales Plays.
 
 * **Team Captain:** Scrum Leader for the team Responsible for project planning and backlog refinement. Provides updates and participates in the scrum of scrums. Responsible for ensuring that due dates and timelines are defined and committed to by team members performing the work.  
 * **Product Marketing:** Responsible for the Solution GTM Strategy including narrative, messaging, and positioning. DRI for sales plays. Marketing DRI for Sales and SDR enablement . DRI for buyer and influencer personas. Responsible for fostering participation of the entire team in the research, positioning, messaging, general strategy.
-* **Marketing Campaigns:** DRI for marketing campaigns, both for overall GTM motions and campaigns related to Sales Plays. Responsible for the production of lead generation campaigns and rallying relevant team members to be involved.
+* **Marketing Campaigns:** DRI for marketing campaigns, both for overall GTM motions and campaigns related to Sales Plays. Responsible for the production of lead generation campaigns and rallying relevant teams and team members to deliver integrated marketing plans.
 * **Technical Marketing:** Responsible for technical narrative and value proposition. DRI for practitioner personas. DRI for Customers Success enablement including SAs, TAMs, and Support. Responsible for technical content production such as demos, blogs, workshops, webinars, etc.
 * **Content Marketing:** Responsible for content strategy and production related to the GTM motions and collaborating with other teams on prescriptive buyer journeys.
 * **Digital Marketing:** Responsible for digital strategy and defining ideal marketing channels to reach goals.
