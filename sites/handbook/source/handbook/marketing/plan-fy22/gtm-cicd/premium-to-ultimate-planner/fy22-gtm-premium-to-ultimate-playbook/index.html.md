@@ -175,9 +175,12 @@ Other objections and responses can be found in the [FAQ deck](https://docs.googl
 
 ## Services
 
+[General PS deck](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9)
+
 GitLab (or a GitLab partner) offers the below services to help accelerate time to value and mitigate risk:
 * TBD
 * TBD
+
 
 # Sales Play Tactics {#sales-play-tactics}
 
@@ -231,29 +234,31 @@ This sequence of recommended emails is intended to move the prospect from intere
 
 1. [Email 1](link) **Are you getting the most out of GitLab?**  
    
-CTA: Talk to your rep about what you’d like to achieve.
+   CTA: Talk to your rep about what you’d like to achieve.
 
-Practioner Offer: [A Developer's Guide to Application Security](https://cdn.pathfactory.com/assets/10519/contents/105715/188f553e-eaef-43f3-bf45-8324b1d2e35b.pdf)  
+   Practioner Offer: [A Developer's Guide to Application Security](https://cdn.pathfactory.com/assets/10519/contents/105715/188f553e-eaef-43f3-bf45-8324b1d2e35b.pdf)  
    
-Management Offer: [CI the new frontier for Security pros](https://thenewstack.io/continuous-integration-the-new-frontier-for-security-pros/)  
+   Management Offer: [CI the new frontier for Security pros](https://thenewstack.io/continuous-integration-the-new-frontier-for-security-pros/)  
   
    
 
 1. [Email 2](link) **GitLab Ultimate can take your app sec to a new level**  
 
-CTA: Ask your rep for a deep dive on any of these topics.  
+   CTA: Ask your rep for a deep dive on any of these topics.  
    
-Practioner Offer: [From DevOps to DevSecOps: Automate your security tests with CI](https://about.gitlab.com/webcast/automate-security-ci/)  
+   Practioner Offer: [From DevOps to DevSecOps: Automate your security tests with CI](https://about.gitlab.com/webcast/automate-security-ci/)  
   
-Management Offer: [Compliance made easy with GitLab](https://about.gitlab.com/blog/2020/07/02/compliance-made-easy/)  
+   Management Offer: [Compliance made easy with GitLab](https://about.gitlab.com/blog/2020/07/02/compliance-made-easy/)  
+
 
 1. [Email 3](link) **GitLab for Security and Compliance - Let’s do the math together**  
 
-CTA: Talk to your rep about how GL can help you with more predictable costs.  
+   CTA: Talk to your rep about how GL can help you with more predictable costs.  
    
-Practioner Offer: [Tired of afterthought security? Take a fresh look at GitLab Ultimate](https://about.gitlab.com/blog/2020/12/08/security-features-in-ultimate/)  
+   Practioner Offer: [Tired of afterthought security? Take a fresh look at GitLab Ultimate](https://about.gitlab.com/blog/2020/12/08/security-features-in-ultimate/)  
   
-Management Offer: [How Chorus uses GitLab to power its development](https://about.gitlab.com/customers/chorus/)
+   Management Offer: [How Chorus uses GitLab to power its development](https://about.gitlab.com/customers/chorus/)
+
 
 ## Next Steps
 
@@ -268,11 +273,11 @@ The following sequence is recommended to progress the customer from awareness an
 Use [Value Discovery](#value-discovery) above along with these recommended assets to determine their business priorities, existing security tools, chief pain points:  
    * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) slide)
    * [Manage Compliance with GitLab](https://youtu.be/QV2dIocn-hk)   
-   * software supply chain security (we will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24 to share as potential leave-behind.  
+   * Securing your software supply chain (assets coming soon).  
 
 **Ask 4 questions:**
 1. Wanting to shift left? (If no, talk to the Dev or DevOps team instead of security)
-1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning. Enter into SFDC.
+1. What tool currently in use and/or consideration? (for each: SAST, DAST, Dependencies, License Compliance, Container scanning). Is this a Microsoft shop? Enter into SFDC (please, it's super helpful).
 1. Using containers and/or Kubernetes? If yes, are you scanning containers? Helm charts? Testing APIs?
 1. Which [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) do they most relate to: efficiency, consistency, risk, predictable costs?  
 
@@ -282,32 +287,29 @@ Use [Value Discovery](#value-discovery) above along with these recommended asset
 
 1. **Meeting 2** - **security topics of interest**
 
-Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. Identify key value driver, champion, and economic buyer.
+Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. (@cblake and the #s_secure slack channel can help with any questions you may have.) Identify key value driver, champion, and economic buyer.
 
-* Priority = speed and efficiency  
-   * Single app story (asset)
+* **If Priority = speed and efficiency** then use: 
+   * [Simplifying DevSecOps](https://docs.google.com/presentation/d/1qdUgIZAh3Xdcu7yK8borN77hWiQLvMwkBhepeD1hVuY/edit?usp=sharing)  
    * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)  
-   * Priority = consistency/compliance
-      * Policy management (deck and PM/PMM to engage)
-      * Auditing and Compliance reporting (deck and Sam Kerr, PM)
-      * Security of software supply chain (deck and Cindy Blake)
-* Priority = predictable cost to scale
-   * ask for ROI discussion - see meeting 3
-* Priority = vulnerabilities/risk   
+* **If Priority = consistency/compliance** then use:    
+   * [Auditing and Compliance reporting](link), Sam Kerr, PM.   
+   * Security of software supply chain (deck coming soon), Cindy Blake, PMM    
+* **If Priority = predictable cost to scale** then ask for ROI discussion - see meeting 3   
+* **If Priority = vulnerabilities/risk** then use:     
    * For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
-   * For the developer: Shift left (asset)
-   * For securing modern apps via containers, K8s, APIs, Infrastructure as code: (asset)  
-   * Container security (asset - Sam White, PM)
+   * For the developer: [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)    
+   * For securing modern apps via containers see [Container security](asset TBD), Sam White, PM  
 
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer
 
 **Metric:** Sales stage x (Tanuja?
 
-1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.  
+1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs. DO NOT lose site of the fact that our greatest differentiator is our all-in-one approach that provides all type sof security scans integrated into a united UI for both dev and sec. **Be sure to include the value of this benefit along with tool costs.**  
    * [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)  
-   * Review 1-page ROI and more detailed one (if needed)  (link)
-   * Ask for POV to prove value unique to this customer  
-   * Move to POV agreement steps
+   * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy[(https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing) or from [Cherry Han](link). Please provide feedback to help us tune these models in [this issue](link).   
+   * Ask for POV to prove value unique to this customer. 
+   * Move to POV agreement steps.
 
 **Milestones:** agree to next meeting  
 
