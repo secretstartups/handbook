@@ -20,15 +20,15 @@ As announced in the blog post [GitLab licensed its technology to new independent
 
 ## Brand
 
-Process to be added.
+Please refer to our guidelines (link to be added).
 
 ## Sales
 
-Process to be added.
+Please refer to our [guidelines](https://docs.google.com/document/d/1JigQn7g8KUrY8N6WHuf248ARWHzCpIGhE2yXriuhI5c/edit#heading=h.tjdyooh61fom).
 
 ## Professional Services
 
-Process to be added.
+Please refer to our guidelines (link to be added).
 
 ## Customer Support
 
@@ -39,6 +39,10 @@ Process to be added.
 Process to be added.
 
 ## Product
+
+Process to be added.
+
+## Design 
 
 Process to be added.
 
