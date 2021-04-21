@@ -12,12 +12,15 @@ description: "Information about the automated BambooHR Audit we perform on a wee
 {:toc}
 
 ## Overview
-To assure our SSoT data in BambooHR is always correct and compliant we run audits on this data. 
+To assure our SSoT data in BambooHR is always correct and compliant we run audits on this data. People Engineering
+is [helping to move this from a manual process to a automated process](https://gitlab.com/gitlab-com/people-group/peopleops-eng/people-group-engineering/-/issues/289). 
 
 ## Weekly New hires
-Once / week we run the audit on all the team members who started the week before. A spreadsheet is created 
-in a Google Drive folder that is shared with Total Rewards and the VP People Operations, Technology & Analytics.
+Every Wednesday at 10AM UTC, we run the audit on all the team members who started the week before. A spreadsheet is created 
+in a Google Drive folder that is shared with Total Rewards and the VP People Operations, Technology & Analytics. In the
+spreadsheet we will list all the team members that we audited and mark the columns that need to be checked.
 
 ## Monthly all Team Members
-Once / month we run the audit on all the active team members at GitLab. A spreadsheet is created 
-in a Google Drive folder that is shared with Total Rewards and the VP People Operations, Technology & Analytics.
+Every first of the month at 10AM UTC, we run the audit on all the active team members at GitLab. A spreadsheet is created 
+in a Google Drive folder that is shared with Total Rewards and the VP People Operations, Technology & Analytics. In the spreadsheet
+we will list all the team members that we audited _and_ that had something marked as _needs to be checked_.
