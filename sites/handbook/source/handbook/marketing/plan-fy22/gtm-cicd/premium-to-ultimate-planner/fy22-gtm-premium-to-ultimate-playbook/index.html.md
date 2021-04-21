@@ -1,7 +1,16 @@
 ---
 layout: markdown_page
 title: "Sales Play: Upsell Premium to Ultimate"
+description: "This page has all the information for the GTM-CICD sales play."
 ---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+Note: Think of a sales play as a recipe. If you follow the recipe, we can achieve more predictable, consistent results. And if we find an asset or approach that works best (or flops), then we can tweak the recipe to continuously improve. **If you have improvements to suggest, please click edit at the bottom of this page** to open an MR and suggest your edits and discussion.
 
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
 
@@ -94,7 +103,7 @@ Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketi
 
 | Questions to Better Understand the Customer’s needs  | Discovery questions  |
 | ------------- |-------------|
-| current state    | 1. Are you wanting to shift security left? How is that going?<br>2. What security tools are you using today?<br>3. Are you confident you can secure containers and Kubernetes?|
+| current state    | 1. Are you wanting to shift security left? How is that going?<br>2. What security tools are you using today?<br>3. How are you currently securing containers and Kubernetes?|
 | future state    | 1. What if you could simplify your shift-left efforts?<br>2. What challenges do you have with your existing tools and can you predict their cost 2 yrs out?<br>3. Would you like to better protect containers and K8s? |
 | Required capabilities   | 1. Could security integrated into CI help you get there?<br>2. What if you had one, known cost that enabled ALL your security scans, with results to the developer in their CI pipeline, along with vulnerability management for the security pro? What if you could either eliminate some existing security tools or reduce their use/cost?<br>3. What if you could scan containers and monitor their host and their traffic within K8s clusters? |
 
@@ -105,9 +114,9 @@ Note: if they say they do NOT want to shift left and empower developers to find 
 
 ### Elevator pitch
 
-> With GitLab Ultimate, organizations are able to truly shift security left (and right!) while keeping up with DevOps velocity and new attack surfaces of cloud native apps. Empower developers to find and fix vulnerabilities earlier and security teams to manage risk from detection through remediation. With GitLab, the integration is done for them. No need to fit your security tools into the CI pipeline - it's done! And for ONE predictable cost, even as you scale!
+> With GitLab Ultimate, organizations are able to truly shift security left (and right!) while keeping up with DevOps velocity. Empower developers to find and fix vulnerabilities earlier and security teams to manage risk from detection through remediation. With GitLab, the integration is done for them. No need to fit your security tools into the CI pipeline - it's already built-in! And for ONE predictable cost, even as you scale!
 
-Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance.  
+GitLab Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. 
 
 *Note: Everything you get in Premium plus all security scanners, vulnerability management, security and compliance dashboards, free guest users, 50,000 CI/CD minutes, a named TAM, and more…*
 
@@ -169,9 +178,12 @@ Other objections and responses can be found in the [FAQ deck](https://docs.googl
 
 ## Services
 
+[General PS deck](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9)
+
 GitLab (or a GitLab partner) offers the below services to help accelerate time to value and mitigate risk:
 * TBD
 * TBD
+
 
 # Sales Play Tactics {#sales-play-tactics}
 
@@ -187,14 +199,18 @@ Enterprise accounts will **not** be included in the email campaign driving custo
 
 1. Review the target list and prioritize contacts.
 1. Familiarize yourself with context for this play (above), especially differentiators and objections
-1. Familiarize yourself with the email sequence and next steps (below).
-1. Using the [recommended email sequence](#recommended-email-sequence), start the conversation at the appropriate point. Choose to start with email 1, 2, or 3 (**use the templates!**) based upon where you are with this contact.
-1. See which contacts have responded (Agnes, please describe how they do this)
+1. Familiarize yourself with the [recommended email sequence](#recommended-email-sequence-email-templates) and next steps (below).
+1. Please use the [three email templates](#recommended-email-sequence-email-templates) below to reach out to leads.
+1. We have provided a recommended sequence, but choose any email to start with based upon current conversations.  
+1. We recommend you send your next email 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. 
+1. Emails can be copied and pasted as-is into Gmail. 
+1. **Do not edit the hyperlinks in the email templates.** Each one is linked to a Pathfactory track with recommended content.
+1. Each email includes a second CTA for the recipient to reach out to their rep.
+1. See which contacts have responded by checking your gmail inbox for emails alerts (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert) | [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
 1. Conduct meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
 1. Update sales stage in SFDC.
 1. Determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence after 7-10 days. (**Please use the templates's tracking links!**) You can modify the templates to fit your unique conversations as needed.  
 1. Repeat with next recommended email until you get to a POV or sale.
-
 
 
 #### Small Business Accounts
@@ -206,54 +222,47 @@ For SMB customers, we will rely on inbound responses to the marketing-generated 
 **SMB Sales Actions**
 
 1. Sales review list of target accounts/contacts (link to list)
-1. Notify marketing by Friday, 2021-04-23 (@agnes or @jackie? how/where?) for any additional accounts or individual contacts that need to be excluded from the 'contact sales' emails below. The default approach should be to include as many accounts and customers as possible, excluding only where such communication would be disruptive to existing deals.
+1. Notify marketing by Friday, 2021-04-23 individual contacts that need to be excluded from the marketing generated emails below by filling out columns A & B on [this final target list](url). The default approach should be to include as many accounts and customers as possible, excluding only where such communication would be disruptive to existing deals.
 1. Familiarize yourself with context for this play (above), especially differentiators and objections
 1. Familiarize yourself with the email sequence and next steps (below).
-1. See which contacts have responded (Agnes, please describe how they do this)
+1. See which contacts have responded by checking your gmail inbox for emails alerts (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert) | [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
 1. Conduct meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
 1. Update sales stage in SFDC.
-1. Note: once they ask for an initial meeting from any email they will be pulled out of subsequent automated emails. (If they respond to email 1, they will not receive emails 2 and 3 from marketing.) It will be up to sales to determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence. **Please use the templates** as they provided tracking links so you can see what was opened and clicked (and marketing can see what is getting used). You can modify the templates to fit your unique conversations as needed.
+1. Note: once they ask for an initial meeting from any email they will be pulled out of subsequent automated emails. (If they respond to email 1, they will not receive emails 2 and 3 from marketing.) It will be up to sales to determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence. **Please use the templates** as they provide tracking links so you can see what was opened and clicked (and marketing can see what is getting used). You can modify the templates in Gmail to fit your unique conversations as needed.
 1. Repeat with next recommended email until you get to a POV or sale.
 
 
-### Recommended email sequence {#recommended-email-sequence}
+### Recommended email sequence and email templates {#recommended-email-sequence-email-templates}
 
 This sequence of recommended emails is intended to move the prospect from interest to POV. Note:  
-* Marketing will be sending these emails to SMB targets generate leads. The first will go out starting April 29th and subsequent emails will follow every 7-10 days. (Agnes, verify days)
+* Marketing will be sending these emails to SMB targets generate leads. The first will go out starting April 27th and subsequent emails will follow every 7 days.
 * MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. We recommend you send the next email in the sequence 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. **Please use the templates provided in the links below**. They have embedded links so you will see what they open and click thru (and marketing will see what's getting used most).
 
 
-1. [Email 1](link) **Are you getting the most out of GitLab?**  
+1. [Email template 1](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit?usp=sharing){:target="_blank"} 
    
-CTA: Talk to your rep about what you’d like to achieve.
+   Subject: **Interested in speed and security?**
 
-Practioner Offer: [A Developer's Guide to Application Security](https://cdn.pathfactory.com/assets/10519/contents/105715/188f553e-eaef-43f3-bf45-8324b1d2e35b.pdf)  
+   Offer 1: [From DevOps to DevSecOps: Automate your security tests with CI](https://learn.gitlab.com/c/security-tests-ci?x=6e4ppk&utm_medium=email&utm_source=gmail&utm_campaign=premtoultimatesp&utm_content=devopstodevsecopswc)    
+       
+
+1. [Email template 2](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit?usp=sharing){:target="_blank"}
+
+   Subject: **Learn how to deploy to production 6x faster**
+
+   Offer 2: [How Chorus uses GitLab to power its development](hhttps://learn.gitlab.com/c/chorus-gitlab?x=h7zzhf&utm_medium=email&utm_source=gmail&utm_campaign=premtoultimatesp&utm_content=choruscasestudy)
+
+1. [Email template 3](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit?usp=sharing){:target="_blank"} 
+
+   Subject: **No more afterthought security**  
    
-Management Offer: [CI the new frontier for Security pros](https://thenewstack.io/continuous-integration-the-new-frontier-for-security-pros/)  
-  
-   
-
-1. [Email 2](link) **GitLab Ultimate can take your app sec to a new level**  
-
-CTA: Ask your rep for a deep dive on any of these topics.  
-   
-Practioner Offer: [From DevOps to DevSecOps: Automate your security tests with CI](https://about.gitlab.com/webcast/automate-security-ci/)  
-  
-Management Offer: [Compliance made easy with GitLab](https://about.gitlab.com/blog/2020/07/02/compliance-made-easy/)  
-
-1. [Email 3](link) **GitLab for Security and Compliance - Let’s do the math together**  
-
-CTA: Talk to your rep about how GL can help you with more predictable costs.  
-   
-Practioner Offer: [Tired of afterthought security? Take a fresh look at GitLab Ultimate](https://about.gitlab.com/blog/2020/12/08/security-features-in-ultimate/)  
-  
-Management Offer: [How Chorus uses GitLab to power its development](https://about.gitlab.com/customers/chorus/)
+   Offer 3: [Tired of afterthought security? Take a fresh look at GitLab Ultimate](https://learn.gitlab.com/c/security-features-in?x=6e4ppk&utm_medium=email&utm_source=gmail&utm_campaign=premtoultimatesp&utm_content=afterthoughtsecblog)  
 
 ## Next Steps
 
 ### Meetings to get to a POV agreement
 
-Agnes: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
+If your customer engages with emails (sent either from marketing or from yourself), the lead will come to you via email and will it show what asset they clicked on and if they clicked the 'contact us' button. Based upon this insight, and any conversations you may have had, you will want to choose where in this progression is most appropriate to begin.
 
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
 
@@ -262,50 +271,48 @@ The following sequence is recommended to progress the customer from awareness an
 Use [Value Discovery](#value-discovery) above along with these recommended assets to determine their business priorities, existing security tools, chief pain points:  
    * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) slide)
    * [Manage Compliance with GitLab](https://youtu.be/QV2dIocn-hk)   
-   * software supply chain security (we will have a [new webinar](https://gitlab.com/gitlab-com/marketing/account-based-strategy/account-based-marketing/-/issues/573) May 24 to share as potential leave-behind.  
+   * Securing your software supply chain (assets coming soon).  
 
 **Ask 4 questions:**
 1. Wanting to shift left? (If no, talk to the Dev or DevOps team instead of security)
-1. What tool currently in use and/or consideration? (SAST, DAST, Dependencies, License Compliance, Container scanning. Enter into SFDC.
+1. What tool currently in use and/or consideration? (for each: SAST, DAST, Dependencies, License Compliance, Container scanning). Is this a Microsoft shop? Enter into SFDC (please, it's super helpful).
 1. Using containers and/or Kubernetes? If yes, are you scanning containers? Helm charts? Testing APIs?
 1. Which [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) do they most relate to: efficiency, consistency, risk, predictable costs?  
 
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
 
-**Metric:** Sales Accepted Opp
+**Metric:** Opportunity stage 0 - pending acceptance or stage 1 - Sales Accepted Opp or no opportunity
 
 1. **Meeting 2** - **security topics of interest**
 
-Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. PMM @cblake can help determine if a PM should get involved. The #s_secure slack channel can help with any questions you may have. Identify key value driver, champion, and economic buyer.
+Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. (@cblake and the #s_secure slack channel can help with any questions you may have.) Identify key value driver, champion, and economic buyer.
 
-* Priority = speed and efficiency  
-   * Single app story (asset)
-   * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)  
-   * Priority = consistency/compliance
-      * Policy management (deck and PM/PMM to engage)
-      * Auditing and Compliance reporting (deck and Sam Kerr, PM)
-      * Security of software supply chain (deck and Cindy Blake)
-* Priority = predictable cost to scale
-   * ask for ROI discussion - see meeting 3
-* Priority = vulnerabilities/risk   
+* **If Priority = speed and efficiency** then use: 
+   * [Simplifying DevSecOps](https://docs.google.com/presentation/d/1qdUgIZAh3Xdcu7yK8borN77hWiQLvMwkBhepeD1hVuY/edit?usp=sharing)  
+   * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)
+   * [HackerOne case study](https://about.gitlab.com/customers/hackerone/)  
+* **If Priority = consistency/compliance** then use:    
+   * [Auditing and Compliance reporting](link), Sam Kerr, PM.   
+   * Security of software supply chain (deck coming soon), Cindy Blake, PMM    
+* **If Priority = predictable cost to scale** then ask for ROI discussion - see meeting 3   
+* **If Priority = vulnerabilities/risk** then use:     
    * For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
-   * For the developer: Shift left (asset)
-   * For securing modern apps via containers, K8s, APIs, Infrastructure as code: (asset)  
-   * Container security (asset - Sam White, PM)
+   * For the developer: [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)    
+   * For securing modern apps via containers: [Container security blog](https://about.gitlab.com/blog/2020/10/23/container-network-security-is-important/), Sam White, PM  
 
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer
 
-**Metric:** Sales stage x (Tanuja?
+**Metric:** Opportunity Stage 1 - Discovery
 
-1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs.  
+1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs. DO NOT lose site of the fact that our greatest differentiator is our all-in-one approach that provides all type sof security scans integrated into a united UI for both dev and sec. **Be sure to include the value of this benefit along with tool costs.**  
    * [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)  
-   * Review 1-page ROI and more detailed one (if needed)  (link)
-   * Ask for POV to prove value unique to this customer  
-   * Move to POV agreement steps
+   * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy[(https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing) or from [Cherry Han](link). Please provide feedback to help us tune these models in [this issue](link).   
+   * Ask for POV to prove value unique to this customer. 
+   * Move to POV agreement steps.
 
 **Milestones:** agree to next meeting  
 
-**Metric:** Sales stage x (Tanuja?)  
+**Metric:** Opporunity Stage 2 - Scoping or Stage 3 - Technical Evaluation  
 
 
 ### POV agreement
@@ -355,9 +362,3 @@ Marketing is running a related demand gen campaign.
 * Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house).
 * A LinkedIn campaign will help surface new contacts for accounts where we have none/few.
 * An 'air cover' campaign will raise awareness of GitLab's Ultimate capabilities. It will likely include Security (first) and Planning capabilities (next).
-
-In **future iterations**, for the contact-us email sequence, we would like to allow MM and ENT to speicify the following for individual contacts:  
-
-A. Do nothing, do not contact this customer  
-B. Sales direct outreach only  
-C. Marketing volume/email outreach
