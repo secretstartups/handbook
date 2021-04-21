@@ -32,12 +32,6 @@ Team members can use [GitLab Learn](https://gitlab.edcast.com/) to complete many
 * [Manager Challenge Program](/handbook/people-group/learning-and-development/manager-challenge/)
 * [Diversity, Inclusion, and Belonging Certification](https://gitlab.edcast.com/journey/ECL-5c978980-c9f0-4479-bf44-45d44fc56d05)
 
-### Upcoming
-
-In FY22 we plan to roll out the additional certification(s) listed below. 
-
-* Diversity, Inclusion, and Belonging Certification
-
 ## Knowledge Assessments 
 
 Knowledge Assessments at GitLab test knowledge of the specific content covered in training. Knowledge Assessments are formative learning that measures how an individual is performing against the training content. Knowledge Assessments are featured following the completion of a training event are typically five to ten questions in length. In addition, they can be one of many requirements to attain a certification. 
