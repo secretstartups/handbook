@@ -298,7 +298,7 @@ Based on their business objectives, assess interest in learning more on theses t
 * **If Priority = vulnerabilities/risk** then use:     
    * For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
    * For the developer: [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)    
-   * For securing modern apps via containers see [Container security](asset TBD), Sam White, PM  
+   * For securing modern apps via containers: [Container security blog](https://about.gitlab.com/blog/2020/10/23/container-network-security-is-important/), Sam White, PM  
 
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer
 
