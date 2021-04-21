@@ -144,7 +144,7 @@ As part of my role, I participate in a variety of meetings both internal and ext
 1. PR Interviews. 25-50 minutes.
 1. Scaling. 25 minutes.
 1. PM & Engineering. 50 minutes.
-1. [Take A Break Call](/handbook/communication/#take-a-break-call). 25 minutes.
+1. [Social Call](/handbook/communication/#social-call). 25 minutes.
 
 ### Monthly Meetings
 
