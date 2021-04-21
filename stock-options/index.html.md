@@ -93,7 +93,7 @@ Team members may be eligible to participate in the annual refresh grant cycle re
  
 #### FY22 Annual Refresh Grant Cycle
  
-GitLab has completed its first annual refresh grant program in Q1 FY22. In order to move GitLab team members from a 3.5 year refresh cadence to an annual refresh cadence, this fiscal year, due to the change in cadence of this process, a one time transition multiplier was applied to all eligible team members based on time since the last new hire or refresh grant. This transition multiplier will not be used going forward in future annual refresh cycles.
+GitLab has completed its first annual refresh grant program in Q1 FY22. In order to move GitLab team members from a 3.5 year refresh cadence to an annual refresh cadence, this fiscal year, due to the change in cadence of this process, a one time transition multiplier was applied to all eligible team members based on time since the last new hire or refresh grant. The cut off date for this multiplier was March 17th. This transition multiplier will not be used going forward in future annual refresh cycles.
  
 ##### Transition Multiplier
  
