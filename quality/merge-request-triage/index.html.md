@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Community Merge Request Triage
-description: "Guidelines for triaging new merge requests from the Wider community opened on GitLab.com projects"
+title: Wider Community Merge Request Triage
+description: "Guidelines for triaging new merge requests from the wider community opened on GitLab.com projects"
 ---
 
 ## On this page
