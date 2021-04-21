@@ -124,43 +124,53 @@ This will be the responsibility of the People Experience Associate that is assig
 These are audits that the People Experience Team will complete on a quarterly basis. The Sr. People Experience Associate will open the issue each quarter for these audits.
 
 - Onboarding Issue Audit
+
 The first quarter of the year (February 1 to April 30)
 PEA team will need to perfom an audit on the tasks in this issue.
-      - ensure compliance pieces are up-to-date
-      - add any additional tasks based on OSAT feedback
-      - remove any tasks that are unnecessary 
-      - go through open issues to close/reach out
+
+    - ensure compliance pieces are up-to-date
+    - add any additional tasks based on OSAT feedback
+    - remove any tasks that are unnecessary 
+    - go through open issues to close/reach out
 
 - Offboarding Issue Audit
+
 The second quarter of the year (May 1- July 31)
 PEA team will need to perform an audit on the tasks in this issue.
-     - ensure de-provisioners are correctly listed
-     - ensure systems are up-to-date
-     - ensure tasks PEA tasks are up-to-date
-     - remove any tasks that are unnecessary
-     - go through open issues to close/reach out
+
+  - ensure de-provisioners are correctly listed
+  - ensure systems are up-to-date
+  - ensure tasks PEA tasks are up-to-date
+  - remove any tasks that are unnecessary
+  - go through open issues to close/reach out
 
 - Career Mobility Audit
+
 The third quarter of the year (August 1- October 31)
 PEA team will need to perform an audit on the tasks in this issue
+
       - ensure compliance pieces are up-to-date
       - review and if applicable, apply, feedback from the career mobility survey
       - remove any tasks that are unnecessary
       - go through open issue to close/reach out
 
 - Code of Conduct Audit
+
 The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct in BambooHR. 
+
     - A monthly report will be pulled from BambooHR for `Code of Ethics Acknowledgment 2020` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
     - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. 
     - If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
 
 - HelloSign Audit
+
 On a quarterly basis, the People Experience Associate in the respective rotation will pull a report from HelloSign with the full list of active team members. 
     - In the correct Slack channel `hellosign-review`, the Associate will cross reference the current team members in that channel vs the report from HelloSign (add any missing team members to the Channel).
     - Announce in the channel that an audit is being completed and ask team member to update the spreadsheet confirming their usage. 
     - Create an access request to remove any non active team members as well as removing them from HelloSign. 
 
 - Anniversary Gift Stock Audit
+
 The People Experience Team will complete a quarterly stock audit of the anniversary gift items in Printfection. To check to see what the current stock levels are, follow this process:
 
 - Log into [Printfection](https://app.printfection.com/account/secure_login.php)
