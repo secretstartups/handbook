@@ -87,11 +87,13 @@ Please note it's suggested to have these meetings weekly, biweekly so handling o
 
 1. Here's a list of objections that we have gathered from the [field](https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871). This is a starting point & more objections will be added with everyone's contribution. Please feel free to add additional objections to it.
 1. Ask for volunteers who would like to participate in the objection handling practice
-1. Use a randomized selection (like [wheel of misfortune](https://wheelofnames.com/#)) method to pick an objection & individual(s) to handle the objections using the techniques above or any way they prefer. Make it fun!!!
+1. Use a randomized selection (like [wheel of misfortune](https://wheelofnames.com/jv5-ny3)) method to pick an objection & individual(s)(https://wheelofnames.com/xfb-yz5) to handle the objections using the techniques above or any way they prefer. Make it fun!!!
 1. Please dedicate a fixed amount of time (say 5 mins) to handle the objection with the techniques mentioned above. Remember to pick a technique that feels natural to you.
-1. Afterwards, a fixed amount of time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection. Make sure to take notes.
-1. Please note the best objection handling method for the particular objection.
+1. Afterwards, a fixed amount of time (say 10 mins) to have a retro with the team to discuss the objection & brainstorm on different ways to handle the objection. Make sure to take notes in a feedback note like [this]( https://docs.google.com/document/d/1LQb62it3cVdvCFvAatzB7p39R13qltqbxGXieoIimfI/edit).
+1. Please note the best objection handling method for the particular objection in a summary document like [this](https://docs.google.com/spreadsheets/d/130m005uhn3oh-HWhpX1TZJWYgWEashG5Rp1DDPg6Whw/edit#gid=916047871)
 1. Repeat the exercise again.
+
+[Example Facilitation recording] (https://drive.google.com/file/d/16SQpH4EJedght5qRaNUikYCqm1t6G3tl/view)
 
 ## Best Practices
 
