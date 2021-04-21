@@ -214,6 +214,33 @@ The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911
 
 Each slice / cut is composed of a Quarter View and a Fiscal Year View.
 
+To use the dashboard select a Fiscal Quarter in the filters and any of the options of the `Drilldown` filter. The latter selects the granularity of the `Sales Segment Drilldown` field:
+
+| Overall | Large - PubSec Breakdown | Large - REgion Breakdown | Mid-Market Breakdown |
+|     --         | --           | --              | --                |
+|                |              | US East         | US East           |
+|                |              | US West         | US West           |
+|                |              | EMEA            | EMEA              |
+|                |              | APAC            | APAC              |
+|                |  Large       | Large           | Large             | 
+|                |  PubSec      | PubSec          | PubSec            |
+| Large + PubSec |              | Large + PubSec  | Large + PubSec    |
+|                |              |                 | First Order Team  |
+|                |              |                 | Territory (<500)  |       
+| Mid - Market   | Mid - Market | Mid - Market    | Mid - Market      |
+| SMB            | SMB          | SMB             | SMB               |
+| WW             | WW           | WW              | WW                |
+
+#### Key Terms
+
+* [ATR (Available To Renew)](https://about.gitlab.com/handbook/sales/sales-term-glossary/#available-to-renew-atr)
+* %ATR: Net ARR for a given category / subtotal ATR. E.g. when calculating %ATR for the segment SMB and growth type Contraction: `Net ARR for SMB | Contraction` / `ATR for SMB`.
+* TRX: Number of opportunities
+* %MIX(ARR): Net ARR for a given category / subtotal ARR. E.g. when calculating %MIX(ARR) for the segment SMB and Deal Size 5-25k: `Net ARR for SMB | 5-25k` / `ARR for SMB`
+* % of Bookings: Net ARR for a given category / total ARR for a given quarter. 
+* ProServ #: Number of opportunities with a proserv_amount different from zero. 
+
+
 <style> #headerformat {
 background-color: #6666c4; color: black; padding: 5px; text-align: center;
 }
