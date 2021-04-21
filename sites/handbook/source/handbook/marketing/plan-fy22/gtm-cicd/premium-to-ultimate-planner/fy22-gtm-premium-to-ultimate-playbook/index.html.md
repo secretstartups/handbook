@@ -293,7 +293,8 @@ Based on their business objectives, assess interest in learning more on theses t
 
 * **If Priority = speed and efficiency** then use: 
    * [Simplifying DevSecOps](https://docs.google.com/presentation/d/1qdUgIZAh3Xdcu7yK8borN77hWiQLvMwkBhepeD1hVuY/edit?usp=sharing)  
-   * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)  
+   * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)
+   * [HackerOne case study](https://about.gitlab.com/customers/hackerone/)  
 * **If Priority = consistency/compliance** then use:    
    * [Auditing and Compliance reporting](link), Sam Kerr, PM.   
    * Security of software supply chain (deck coming soon), Cindy Blake, PMM    
