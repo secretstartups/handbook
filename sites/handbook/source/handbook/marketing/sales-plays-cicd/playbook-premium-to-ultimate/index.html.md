@@ -359,6 +359,6 @@ Note: progress of the GTM Motion will be measured at the campaign level with cli
 
 Marketing is running a related demand gen campaign.  
 
-* Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house).
+* Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/sales-plays-cicd/message-house-premium-to-ultimate/index.html.md).
 * A LinkedIn campaign will help surface new contacts for accounts where we have none/few.
 * An 'air cover' campaign will raise awareness of GitLab's Ultimate capabilities. It will likely include Security (first) and Planning capabilities (next).
