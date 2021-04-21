@@ -7,6 +7,12 @@ Welcome to the GitLab Learning & Development (L&D) newsletter! The purpose of th
 
 You can find more information on the [structure and process](/handbook/people-group/learning-and-development/newsletter/) for the L&D newsletter, as well as links to [past L&D Newsletters](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). 
 
+WELCOMEVIDEO
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="addURL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## Learn from Leadership 
 
 This quarter we are learning from [Christie Lenneville](/company/team/#clenneville). 
