@@ -66,6 +66,13 @@ Process of measurement in progress.
 **'Turn-Around' times <= 3 business days**
 * Monthly average response times within purchase request issues for proposal updates, commercial constructs, procurement questions, etc.
 
+## <i class="far fa-flag" id="biz-tech-icons"></i> Coupa is coming!
+We’re excited to announce that GitLab will be launching Coupa in June!
+
+Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, starting with the US and Netherlands. 
+
+You can learn more about Coupa in our [FAQ Page](/handbook/)
+
 
 ## <i class="far fa-question-circle" id="biz-tech-icons"></i> Frequently asked questions
 
