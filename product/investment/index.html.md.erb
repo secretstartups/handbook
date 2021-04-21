@@ -79,7 +79,7 @@ The following table provides scores for each of our DevOps stages and a comparis
     <% next if !stage.marketing %>
     <% stage_devs = 0 %>
     <% stage.groups.each do |groupKey, group| %>
-      <% stage_devs += team_member_count_from_groups([group: group.be_team_tag,group: group.fe_team_tag,group: group.fs_team_tag])%>
+      <% stage_devs += team_member_count_from_groups([groups: group.be_team_tag,group: group.fe_team_tag,group: group.fs_team_tag])%>
     <% end %>
     <% stageLine=[] %>
     <% combinedScore = stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
