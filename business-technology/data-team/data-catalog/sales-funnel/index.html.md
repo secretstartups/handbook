@@ -192,13 +192,7 @@ The [TD: Sales Funnel Management View - Preloaded Cuts](https://app.periscopedat
 1. MQLs to SAOs
 1. Win Rate
 
-against their respective targets at a quarter to date (QTD) pacing, slicing them by different cuts. This allows management get a quick high level overview on how the business is performing across different dimensions. It answers the question of what areas of the business are on track and which need more attention.
-
-This dashboard contains different cuts, some of them being:
-
-1. Segment Region Cut
-1. Order Type Mapped | Segment Region Mapped Cut
-1. Segment Mapped | Sales Qualified Source Cut
+against their respective targets at a quarter to date (QTD) pacing, slicing them by different cuts. These cuts allows management get a quick high level overview on how the business is performing across different dimensions. It answers the question of what areas of the business are on track and which need more attention.
 
 Currently, the sales management cuts are powered by the following snippets (instructions on how to use them in the description section of the snippet):
 
@@ -216,7 +210,7 @@ Each slice / cut is composed of a Quarter View and a Fiscal Year View.
 
 To use the dashboard select a Fiscal Quarter in the filters and any of the options of the `Drilldown` filter. The latter selects the granularity of the `Sales Segment Drilldown` field:
 
-| Overall | Large - PubSec Breakdown | Large - REgion Breakdown | Mid-Market Breakdown |
+| Overall | Large - PubSec Breakdown | Large - Region Breakdown | Mid-Market Breakdown |
 |     --         | --           | --              | --                |
 |                |              | US East         | US East           |
 |                |              | US West         | US West           |
@@ -231,15 +225,17 @@ To use the dashboard select a Fiscal Quarter in the filters and any of the optio
 | SMB            | SMB          | SMB             | SMB               |
 | WW             | WW           | WW              | WW                |
 
-#### Key Terms
+#### Key Fields and Business Logic
 
 * [ATR (Available To Renew)](https://about.gitlab.com/handbook/sales/sales-term-glossary/#available-to-renew-atr)
-* %ATR: Net ARR for a given category / subtotal ATR. E.g. when calculating %ATR for the segment SMB and growth type Contraction: `Net ARR for SMB | Contraction` / `ATR for SMB`.
+* %ATR: Net ARR for a given category / subtotal ATR. E.g. when calculating %ATR for the segment SMB and growth type Contraction: `Net ARR for SMB | Contraction` / `ATR for SMB`
 * TRX: Number of opportunities
 * %MIX(ARR): Net ARR for a given category / subtotal ARR. E.g. when calculating %MIX(ARR) for the segment SMB and Deal Size 5-25k: `Net ARR for SMB | 5-25k` / `ARR for SMB`
-* % of Bookings: Net ARR for a given category / total ARR for a given quarter. 
-* ProServ #: Number of opportunities with a proserv_amount different from zero. 
-
+* % of Bookings: Net ARR for a given category / total ARR for a given quarter
+* ProServ #: Number of opportunities with a proserv_amount different from zero
+* The `US East` row showed in the sales segment drilldown field is composed of both the `East` and `LATAM` region
+* Sales segment drilldown = APAC is composed of all the regions that are not `East`, `West`, `LATAM` and `EMEA`
+* Sales segment drilldown = SMB is composed of the segment SMB plus all the segments that are not `Large` and `Mid-Market`
 
 <style> #headerformat {
 background-color: #6666c4; color: black; padding: 5px; text-align: center;
