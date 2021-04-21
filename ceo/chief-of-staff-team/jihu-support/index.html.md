@@ -32,19 +32,19 @@ Please refer to our guidelines (link to be added).
 
 ## Customer Support
 
-Process to be added.
+Process to be added below.
 
 ## Engineering
 
-Process to be added.
+Process to be added below.
 
 ## Product
 
-Process to be added.
+Process to be added below.
 
 ## Design 
 
-Process to be added.
+Process to be added below.
 
 ## Links 
 
