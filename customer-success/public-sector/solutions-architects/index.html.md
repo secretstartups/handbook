@@ -24,6 +24,7 @@ The GitLab Support Team provides [U.S.-based support](https://about.gitlab.com/s
 - All accounts and user information get synched between SFDC and Zendesk on an hourly basis under the conditions detailed on the [Support Ops page](/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync).
 - All communications with support will be asynchronous, unless a synchronous call is requested by the Technical Account Manager and/or Solutions Architect for that account.
 - Only customers designated as Public Sector in SFDC are eligible for Federal Support.
+- When a Public Sector prospective customer begins a sales-assisted trial (including Proofs of Value), the Public Sector Solutions Architect will verify that the appropriate "Support Level" is set in the account record in SFDC (Premium or Ultimate).  This will ensure that the SLA for support is set correctly.
 
 ## Technical Close Plans
 
