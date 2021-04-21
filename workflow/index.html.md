@@ -124,7 +124,7 @@ The merge request author of the change that broke master is the resolution DRI. 
    * [Quarantine](https://docs.gitlab.com/ee/development/testing_guide/flaky_tests.html#quarantined-tests) the failing test if you can confirm that it is flaky (e.g. it wasn't touched recently and passed after retrying the failed job).
    * Create a new merge request to fix the failure if revert is not possible or would introduce additional risk. This should be treated as a `~priority::1` `~severity::1` issue. To ensure efficient review of the fix, the merge request should only contain the minimum change needed to fix the failure. Additional refactor or improvement to the code should be done as a follow up.
      * Remove the `~"master:broken"` label from the issue and apply  `~"failure::flaky-test"`
-1. Apply the `~"Pick into auto-deploy"` label to make sure deployments are unblocked.
+1. Apply the `~"Pick into auto-deploy"` label (along with the needed `~"severity::1"` and `~"priority::1"`) to make sure deployments are unblocked.
 1. If the broken `master` affects any stable branches (e.g. <https://gitlab.com/gitlab-org/gitlab/-/merge_requests/25274>),
    open new merge requests **directly against the stable branches** which are
    broken and ping the current release manager in the merge requests to avoid
