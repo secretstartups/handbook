@@ -63,7 +63,7 @@ Internal only - search for `GTM Slides - w Data`
 {: #sales-marketing-alignment}
 <!-- DO NOT CHANGE ANCHOR -->
 
-* Quarterly meeting to present proposed timeline of sales plays across the 3 GTM Motions
+* Quarterly Epic to present a proposed set of sales plays to deliver across the 3 GTM Motions
    - DRI and attendees TBD
    - Meeting will be recorded for reference by all team members
 * Once agreed between sales and marketing, add to [calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1300837366) as the SSoT
