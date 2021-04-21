@@ -24,6 +24,7 @@ Think *security and reducing risk, protecting the business's intellectual proper
 ### Messaging and Positioning
 
 **Headline**: Dev+Sec+Ops all under one roof
+
 **Subheader**: GitLab Ultimate makes it happen
 
 
