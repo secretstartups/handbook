@@ -21,7 +21,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Jaclyn Grant (Sr. EBA) supporting Brian Robins(CFO) and Finance Leadership: Craig Mestel, Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
 * Trevor Knudsen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success)
 * Katie Gammon (EBA) supporting Stella Treas (Chief of Staff)
-* Kristie Thomas (EBA) supporting Scott Williamson (CProdO),Eric Johnson (CTO), and Johnathan Hunt (VP of Security)
+* Kristie Thomas (EBA) supporting Scott Williamson (CProdO),Eric Johnson (CTO), Johnathan Hunt (VP of Security), Anoop Dawar (VP of Product Management), David DeSanto (Sr. Director of Product Management, Dec & Sec)
 * Jennifer Garcia (EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and future VP of Alliances
 * Victoria Reinhardt (EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
 
