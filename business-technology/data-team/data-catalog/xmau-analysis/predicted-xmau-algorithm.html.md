@@ -44,9 +44,9 @@ So we will calculate a different Predicted SMAU for CE, EE and SaaS, applying th
 
 ```
 
-Predicted SMAU, CE = 50 x (1+ (0.02 x 12) = 50 x 1.24 = 62
-Predicted SMAU, EE = 20 x (1+ (0.04 x 12) = 20 x 1.48 = 30
-Predicted SMAU, CE = 30 x (1+ (0.03 x 12) = 30 x 1.63 = 41
+Predicted SMAU, CE = 50 x (1+ (0.02 x 12)) = 50 x 1.24 = 62
+Predicted SMAU, EE = 20 x (1+ (0.04 x 12)) = 20 x 1.48 = 30
+Predicted SMAU, CE = 30 x (1+ (0.03 x 12)) = 30 x 1.63 = 41
 
 Predicted SMAU = Predicted SMAU, CE + Predicted SMAU, EE + Predicted SMAU, SaaS = 62 + 30 + 41 = 133
 
