@@ -197,7 +197,7 @@ Unsure what content topics align with your asset? Use the table below as a guide
 | Open source | Content that covers open source projects, partnershipship initiatives, and community contributions. | [What to consider with an open source business model](https://about.gitlab.com/blog/2019/07/05/thoughts-on-open-source/) |
 | Pulumi | | |
 | Rally | | |
-| Source code management | Content that relates to source code management, Git, GitLab Flow, and version control. | [GitLab Workflow: An Overview](https://about.gitlab.com/topics/version-control/what-is-gitlab-workflow/) |
+| Source code management | Content that relates to source code management, Git, GitLab Flow, and version control. | [GitLab Workflow: An Overview](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/) |
 | Veracode | | |
 | Version control and collaboration | | |
 
