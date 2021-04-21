@@ -262,7 +262,7 @@ This sequence of recommended emails is intended to move the prospect from intere
 
 ### Meetings to get to a POV agreement
 
-If your customer engages with emails (sent either from marketing or from yourself), the lead will come to you via email and will it show what they engaged on. Based upon this insight, and any conversations you may have had, you will want to choose where in this progression is most appropriate to begin.
+If your customer engages with emails (sent either from marketing or from yourself), the lead will come to you via email and will it show what asset they clicked on and if they clicked the 'contact us' button. Based upon this insight, and any conversations you may have had, you will want to choose where in this progression is most appropriate to begin.
 
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
 
