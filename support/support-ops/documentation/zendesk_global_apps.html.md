@@ -107,12 +107,12 @@ The languages we support in tickets at this time are listed
 Within Unbabel
 
 * Chinese - listed as Chinese (Simplified)
+* French
 * German
 * Japanese
 * Korean
 * Portuguese - includes Portuguese(BR)
 * Spanish - includes Spanish Latin America
-* French
 
 #### Configuring Unbabel in Zendesk
 
@@ -140,7 +140,7 @@ the others.
 To request a translation automatically, simply reply as you normally would as
 an internal note with the #unbabel hashtag included at the top of your content.
 As per our
-[working with tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) 
+[working with tickets](/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow)
 workflow, please remember to assign yourself to the ticket if the ticket
 doesn't currently have an assignee when you respond.
 
@@ -218,7 +218,7 @@ practices when writing a response for translation.
 #### Zendesk Triggers
 
 Unbabel relies on two Zendesk triggers to work properly. These should _never_
-be changed, as it can cause significant problems. 
+be changed, as it can cause significant problems.
 
 * <details>
   <summary>[Unbabel for agent](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057239500)</summary>
