@@ -64,6 +64,7 @@ The following factors will also be taken into consideration:
 **The Rotation groups are listed as follows:**
 
 - Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / Deleting LOE team member data / GSuite License Reminder/ Printfection Report
+
 - BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
 
 - I-9 Administration / Pruning of Stale Records (TBD)
@@ -88,12 +89,13 @@ The following factors will also be taken into consideration:
 
 - We always try and split evenly and fairly. 
 
-### Audits & Quarterly Rotations
+### Audits and Quarterly Rotations
+
+## Issue Audits
 
 There are certain tasks that need to be completed by all the different departments and team members and we as the People Experience Team need to ensure to remain compliant in line with these tasks. Herewith a breakdown of the important compliance and team tasks:  
 
 - Onboarding
-
 This will be the responsibility of the People Experience Associate that is assigned to the specific team members onboarding. 
 
     - Ensure that the new team member has shared a screenshot of their FileVault disk encryption and computer serial number in the onboarding issue. 
@@ -121,23 +123,48 @@ This will be the responsibility of the People Experience Associate that is assig
 
 **Over and above these audits, the Compliance Specialist will perform their own audits to ensure that certain tasks have been completed.**
 
+## Quarterly Audits
+
+These are audits that the People Experience Team will complete on a quarterly basis. The Sr. People Experience Associate will open the issue each quarter for these audits.
+
+- Onboarding Issue Audit
+The first quarter of the year (February 1 to April 30)
+PEA team will need to perfom an audit on the tasks in this issue.
+      - ensure compliance pieces are up-to-date
+      - add any additional tasks based on OSAT feedback
+      - remove any tasks that are unnecessary 
+      - go through open issues to close/reach out
+
+- Offboarding Issue Audit
+The second quarter of the year (May 1- July 31)
+PEA team will need to perform an audit on the tasks in this issue.
+     - ensure de-provisioners are correctly listed
+     - ensure systems are up-to-date
+     - ensure tasks PEA tasks are up-to-date
+     - remove any tasks that are unnecessary
+     - go through open issues to close/reach out
+
+- Career Mobility Audit
+The third quarter of the year (August 1- October 31)
+PEA team will need to perform an audit on the tasks in this issue
+      - ensure compliance pieces are up-to-date
+      - review and if applicable, apply, feedback from the career mobility survey
+      - remove any tasks that are unnecessary
+      - go through open issue to close/reach out
+
 - Code of Conduct Audit
-
 The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct in BambooHR. 
-
     - A monthly report will be pulled from BambooHR for `Code of Ethics Acknowledgment 2020` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
     - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. 
     - If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
 
 - HelloSign Audit
-
-    - On a quarterly basis, the People Experience Associate in the respective rotation will pull a report from HelloSign with the full list of active team members. 
+On a quarterly basis, the People Experience Associate in the respective rotation will pull a report from HelloSign with the full list of active team members. 
     - In the correct Slack channel `hellosign-review`, the Associate will cross reference the current team members in that channel vs the report from HelloSign (add any missing team members to the Channel).
     - Announce in the channel that an audit is being completed and ask team member to update the spreadsheet confirming their usage. 
     - Create an access request to remove any non active team members as well as removing them from HelloSign. 
 
 - Anniversary Gift Stock Audit
-
 The People Experience Team will complete a quarterly stock audit of the anniversary gift items in Printfection. To check to see what the current stock levels are, follow this process:
 
 - Log into [Printfection](https://app.printfection.com/account/secure_login.php)
@@ -169,21 +196,21 @@ Every Monday and Wednesday, the Associate in the rotation will pull the report t
 
 ### Weekly Moo Report
 
-Every week, the People Experience Associate in the rotation creates a Report in BambooHR containing all Active Employees in three columns: their First Name, their Last Name, their GitLab work email. People Experience Associate adds this data to the `GitLab : Moo` spreadsheet in a new weekly tab titled that Tuesday's date (format yyyy-mm-dd) so that our Moo Rep can grab this data and send out email invitations to new team members from the Moo platform.
+Every week On Tuesday, the People Experience Associate in the rotation creates a Report in BambooHR containing all Active Employees in three columns: their First Name, their Last Name, their GitLab work email. People Experience Associate adds this data to the `GitLab : Moo` spreadsheet in a new weekly tab titled that Tuesday's date (format yyyy-mm-dd) so that our Moo Rep can grab this data and send out email invitations to new team members from the Moo platform.
 
-Please note that all info from the report is added to the sheet, including any past hires. The Moo system will only send the invitation to the new members not previously listed on the sheet. This ensures that any potential missed members still receive their invitation.
+Please note to only include the new team members for that week.
 
 ### Letters of Employment and Employee Verification Requests
 
 This lists the steps for the People Experience team to follow when receiving requests:
 
-#### Letters of Employment 
+## Letters of Employment 
 
 Once the team member completes the form as listed in the [Handbook](/handbook/people-group/frequent-requests/#letter-of-employment), we will receive an email in the People Experience Inbox to view and audit if the information has been correctly inserted by the team member. 
 - If the information is correct, please proceed with forwarding the Letter of Employment to the team member by email. 
 - If the information is incorrect, please email the team member and provide the details of what is incorrect and ask that they resubmit the form with the correct information. 
 
-#### Employee Verifications
+## Employee Verifications
 
 We may be contacted by different vendors who require a team members employment to be verified along with other personal information. 
 
@@ -214,7 +241,7 @@ Once a new team member has completed their onboarding, they are asked to complet
 - Score of 4 or higher: use own discretion based on the feedback received and see whether there are any improvements or changes that can be made to the onboarding template / onboarding process (this can be subjective). 
 - Score of 3 or lower: reach out to the team member and schedule a feedback session to further discuss their concerns and feedback provided. 
 
-#### Onboarding Buddy Feedback
+### Onboarding Buddy Feedback
 
 In the same survey, new team members are able to provide a score and feedback on their onboarding buddy. If the score and feedback received is constructive and valuable insights when the score is low, the People Experience Associate assigned to that specific team members onboarding, should reach out to the manager of the onboarding buddy and provide feedback in a polite and supportive way.  
 
@@ -246,20 +273,6 @@ People Experience Team process:
 
 Tip for Printfection Site: Star and bell the relevant campaigns applicable to our team for further ease to search for. 
 
-### Gift Requests
-
-When a team member completes the GitLab gift form request, the People Experience team receives an email to people-exp@gitlab.com to process the request. Most often, these are requests for flowers to be sent to another team member. Please see the below steps for guidance on how to process these requests:
-
-- Navigate and open the gift form requests in `Google spreadsheet`. 
-- Open the PeopleOps 1Password Vault and select `Gift & Flower Vendors` to gain access to the various vendors used. 
-- Place order and once confirmed, add data, including order confirmation link, to spreadsheet. 
-- Send the requesting team member an email or message in Slack to confirm that you have processed the request/order. 
-- Use the Gift [page](/handbook/people-group/#gifts) in the Handbook for any further information regarding the policy for gift order requests. 
-- If a gift card is needed for a particular event or prize, create an issue for the Payroll team to get the relevant approval. 
-
-**Swag** Gift Requests 
-If a swag gift is requested (.i.e. a GitLab onesie) email merch@gitlab.com for a code to get one. said swag. Please do not order one from the store and expense. These expenses will get rejected if they are found by finance. 
-
 ### Printfection Report for New Hire Swag
 
 When a new team member starts, the New Hire Swag email is sent with a link to Printfection where new team members can order their swag. To keep track of the orders, the PEA will run a weekly report on Friday's. Please see the below steps on how to process the report:
@@ -285,7 +298,7 @@ As the DRI for HelloSign, when a team member needs to have access to sign docume
 1. Insert the team members GitLab email address and click `Invite`
 1. Take a screenshot of the confirmed invitation sent and upload to the Access Request as confirmation
 
-#### Monthly Billing
+### Monthly Billing
 
 When monthly expenses are due, we need to be able to provide Finance with the specific team members name in order to assign to the correct Department. To do this we would need to complete the following steps:
 
