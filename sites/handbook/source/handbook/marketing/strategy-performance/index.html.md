@@ -1,3 +1,13 @@
+---
+layout: handbook-page-toc
+title: Marketing Strategy and Performance
+description: >-
+  Marketing Strategy and Performance supports the entire Marketing team to
+  develop and execute a Global Marketing Strategy by working with Marketing
+  Leadership and GTM teams as well as owning the overall measurement strategy
+  for GitLab marketing. 
+---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -16,27 +26,22 @@ We are a small team with a leader and data analysts.
 
 - [Dara Warde, Director](https://about.gitlab.com/company/team/#darawarde)
 - [Robert Kohnke, Data Analyst](https://about.gitlab.com/company/team/#rkohnke)
-- [Viki Juhasz, Data Analyst](https://about.gitlab.com/company/team/#vikijuhasz)
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Teams We Work Closely With
 
-``` sse
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/revenue-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Revenue Marketing</a>
     <a href="/handbook/marketing/corporate-marketing" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Corporate Marketing</a>
     <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Community Relations</a>
     <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Strategic Marketing</a>
     <a href="/handbook/marketing/inbound-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Inbound Marketing</a>
-```
 
 </div>
 
-``` sse
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
     <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
     <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
-```
 
 </div>
 
@@ -48,24 +53,20 @@ We have not yet set up our own slack channel, but can be reached via the general
 
 ## <i id="biz-tech-icons" class="far fa-life-ring"></i>How to Get Help
 
-``` sse
 <div class="flex-row" markdown="0">
   <div>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
   </div>
 </div>
-```
 
 ## <i id="biz-tech-icons" class="fas fa-tasks"></i>How We Work
 
-``` sse
 <div class="flex-row" markdown="0">
   <div>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/boards/2084660" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Strategy and Performance local issue board</a>
     <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Strategy and Performance project</a>
   </div>
 </div>
-```
 
 ### Issues
 
@@ -90,12 +91,10 @@ We use labels for two purposes:
 1. Categorize the tool or area that is affected
 1. Identify the stage they are in
 
-``` sse
 <details>
 <summary markdown='span'>
 Categories
 </summary>
-```
 
 - `Bizible`: Used to highlight a data related tech stack tool; we are currently still administering this but it will be moving to MktgOps soon.
 - `MktgSandP- Reporting`: Used to highlight that the issue is one requiring or related to a report or dashboard.
@@ -103,12 +102,10 @@ Categories
 
 </details>
 
-``` sse
 <details>
 <summary markdown='span'>
 Backlog
 </summary>
-```
 
 - `MktgSandP::0 - To Be Triaged`: Issue initially created, used in templates, the starting point for any label that involves Mktg Strategy ; no real discussion on the issue; generally unassigned.
 - `MktgSandP::1 - Planning`: Issues assigned to a Mktg Strategy team member and are currently being scoped/considered but are not being actively worked on yet.
@@ -117,12 +114,10 @@ Backlog
 
 </details>
 
-``` sse
 <details>
 <summary markdown='span'>
 In Milestone
 </summary>
-```
 
 - `MktgSandP::3 - In Process`: Issues that are actively being worked on in the current two-week sprint/milestone.
 
@@ -136,13 +131,11 @@ The Mktg Strategy team generally creates just one milestone beyond the current i
 
 If there are handbook updates that need to be made as a result of work done in a given milestone, a separate MR should be included in that milestone.
 
-``` sse
 <div class="flex-row" markdown="0">
   <div>
     <a href="https://gitlab.com/groups/gitlab-com/-/milestones?utf8=%E2%9C%93&search_title=sandp&state=&sort=" class="btn btn-purple" style="width:170px;margin:5px;">View Milestones</a>
   </div>
 </div>
-```
 
 ### Focus Fridays
 
@@ -161,12 +154,10 @@ Periodically Marketing Strategy and Performance becomes aware of significant cha
 
 For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are currently owned and managed by Marketing Strategy and Performance.
 
-``` sse
 <details>
 <summary markdown='span'>
 Integrated with Salesforce
 </summary>
-```
 
 - [Bizible](/handbook/marketing/marketing-operations/bizible/)
 - [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
