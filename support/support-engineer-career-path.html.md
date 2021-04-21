@@ -67,7 +67,7 @@ Recommendations to explore this path:
 Considerations when building your path:
 
 - Consider projects you've led or have participated in, and how your contributions positively impacted the business, team, or customer.
-- You consistently collaborate with engineers across multiple teams, and willingly jump in to help with critical escalations, customer calls, and emergency issues at a level that goes above and beyond the call of duty.
+- You consistently collaborate with engineers across multiple teams, and willingly jump in to help with critical escalations, customer calls, and emergency issues; you are known within the team as someone they can count on in difficult situations.
 - You have the ability to influence positive change and improvements with the product, technology, and cross-functional team collaboration.
 - You support the growth of both Support Engineers and Senior Support Engineers by offering frequent office hours, pairing sessions, and deep dive technical training sessions.
 - You perform at a level that is consistent with a technical team lead, and proactively pursue opportunities to find areas of improvement that benefit the business, customers, and team members.
