@@ -64,6 +64,10 @@ Internal only - search for `GTM Slides - w Data`
 <!-- DO NOT CHANGE ANCHOR -->
 
 * Quarterly Epic to present a proposed set of sales plays to deliver across the 3 GTM Motions
+    - PMMs list their proposed sales plays along with expected delivery dates in the Epic 
+    - Sales Enablement (@dcsomers @tanuja) review the proposed delivery dates and add expected dates for enablement sessions. 
+    - Sales Leadership (@mpyle @ronell) review the proposed plays and approve or provide input/requests on changes. 
+    - If plans/priorities change they will be communicated at minimum via a comment in the issue/Epic as the SSoT. 
 * Once agreed between sales and marketing, add campaign and enablement dates to [calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1300837366) as the SSoT
 
 ### TOPO Marketing Model
