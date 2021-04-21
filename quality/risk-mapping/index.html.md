@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Risk Mapping"
-description: ""
+description: "Developing a strategic approach to risk and mitigation planning."
 ---
 
 ## On this page
@@ -48,6 +48,8 @@ Utilise the Risk Map as a tool to:
 | Feature/Dependencies | Cross-group work not being prioritised in a timely manner    | Delayed deliverables, reduced customer satisfaction, reduced team productivity |  |  |  | Cross-group dependency tracking, communication coordination |
 
 
-The above risks listed are  generified for the teams to adjust according to their own specific challenges. The team should also devise a mitigation/contingency plan for each risk and a strategy to implement and monitor these efforts. They could create their own team's risk map project and use the issue tracker to track each risk. Also, to help visualise the risks priority, it is recommended to input these in a [visual risk map](https://docs.google.com/presentation/d/1T_9mMQuBHeQzgXIZdV5asicW6h8z_10kbqJYswzJCjM/edit?usp=sharing). [Here's](https://docs.google.com/presentation/d/1d3RoC7Tp1qoQrv1sldjgC9Q0u5ODkSo50ECS0dS9XIo/edit?usp=sharing) an example of a complete visual risk map.  
+The above risks listed are generalized for the teams to adjust according to their own specific challenges. The team should also devise a mitigation/contingency plan for each risk and a strategy to implement and monitor these efforts. They could create their own team's risk map project and use the issue tracker to track each risk. 
+
+If desired, a team or group could input these in a [visual risk map](https://docs.google.com/presentation/d/1T_9mMQuBHeQzgXIZdV5asicW6h8z_10kbqJYswzJCjM/edit?usp=sharing). [Here's](https://docs.google.com/presentation/d/1d3RoC7Tp1qoQrv1sldjgC9Q0u5ODkSo50ECS0dS9XIo/edit?usp=sharing) an example of a complete visual risk map.  
 
 The team can iterate on this exercise by expanding it to their product categories, having a more granular understanding on the risks and challenges of each feature.
