@@ -108,10 +108,10 @@ The reports are broken out in folder format and once you click into the folders,
 
 1. To understand your regions budget (referred to in Allocadia as `Target`) and what you are forecasting to spend -
     - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://youtu.be/QTQeOKp3wDU](https://youtu.be/QTQeOKp3wDU)</span> - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE)
-1. `Pipeline Planning - All Pipeline Plan by Segment - Drill In` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
-    - Video walk through - [https://youtu.be/ewqvzQo-hX0](https://youtu.be/ewqvzQo-hX0) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
-1. `Strategy Planning (OKRs), Strategy Planner - Objective Details (Team)` - This report allows you to see how your plans are aligned to the Strategy feature within Allocadia.
-    - Video walk through - [https://youtu.be/_VQG1BLjwmw](https://youtu.be/_VQG1BLjwmw)  - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
+1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type by Motion` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
+    - [Video walk through](https://youtu.be/bauTMmEnaXc) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
+1. `Pipeline Planning Folder> Planned Pipeline* ROI by Motion by Campaign - Full` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. 
+    - [Video walk through](https://youtu.be/Ogf4XTzJu4g) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
 
 ##### Reporting folders breakdown 
 While the above listed reports are reports you use to get the information for your QBR, here's a breakdown on the other reporting folders. 
