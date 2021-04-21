@@ -362,9 +362,3 @@ Marketing is running a related demand gen campaign.
 * Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/plan-fy22/gtm-cicd/premium-to-ultimate-planner/fy22-gtm-premium-to-ultimate-playbook/message-house).
 * A LinkedIn campaign will help surface new contacts for accounts where we have none/few.
 * An 'air cover' campaign will raise awareness of GitLab's Ultimate capabilities. It will likely include Security (first) and Planning capabilities (next).
-
-In **future iterations**, for the contact-us email sequence, we would like to allow MM and ENT to speicify the following for individual contacts:  
-
-A. Do nothing, do not contact this customer  
-B. Sales direct outreach only  
-C. Marketing volume/email outreach
