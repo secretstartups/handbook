@@ -151,6 +151,9 @@ Always use YouTube and never use Google Drive, even for [private videos](#visibi
 1. public videos show up in Google search.
 1. easy to make public if the video is suitable for that.
 1. have playlists that allow for better organization of the video content.
+1. show the number of views, so you can see what resonates
+1. have the ability to comment, so people can contribute
+1. have voting so you can review what videos aren't meeting expectations
 
 ## Visibility
 
