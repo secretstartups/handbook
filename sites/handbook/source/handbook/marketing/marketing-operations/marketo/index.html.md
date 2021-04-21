@@ -167,7 +167,8 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Inbound - Med|Inbound form, not above |	+60|{{my.Inbound - Med}}	|	Trigger	|1/day|
 |Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
 |Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
-|* Trial | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
+|* Trial - Business Email | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
+|* Trial - Personal Email | SaaS,<br>Self-Managed   |	+65|{{my.Trial - Personal}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
 |Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
