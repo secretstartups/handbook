@@ -11,34 +11,6 @@ title: Coupa FAQ
 - TOC
 {:toc}
 
-### What is Coupa?
-
-Coupa is a cloud-based purchasing and payment platform that will be used by GitLab as from June 1st 2021 for US and Netherlands. It has an easy-to-use interface that will improve the way suppliers connect with GitLab. All new purchase orders, invoices and communications will be managed through the Coupa Supplier Portal.
-
-### GitLab Coupa Supplier Information
-
-Benefits of using Coupa and the Coupa Supplier Portal (CSP): 
-
-- Free and self-serve tool for suppliers to easily do business with GitLab.
-- Manage settings on a customer-by-customer basis, including viewing purchase orders, setting up delivery methods, creating catalogs etc.
-- Track the real time status of Purchase Orders and payments.
-
-### Coupa Enrollment and Enablement
-
-GitLab's rollout of Coupa will be done using a phased approach, starting with US and Netherlands as from June 1st 2021. The project team will send suppliers proper communication to help them onboard.
-
-The Coupa Supplier portal (CSP) is free to use and suppliers that choose to use the CSP will have to enroll to the portal to indicate their method to receive Purchase orders and to send back invoices to GitLab. The use of Coupa will allow GitLab to work with our suppliers in a faster and more effective way. Suppliers that choose not to join the CSP can receive POs via email using Supplier Actionable Notifications (SAN).
-
-Coupa Supplier Portal (CSP) info - Getting started, administration, video tutorials, FAQs and more:
-
-- [https://www.coupa.com/suppliers/#faq](https://www.coupa.com/suppliers/#faq) 
-- [https://supplier.coupa.com/help/](https://supplier.coupa.com/help/) 
-
-
-### Suppliers - Training and Support on Coupa
-
-References and support resources are available on [Coupa.com](https://success.coupa.com/Suppliers/For_Suppliers).
-
 ## GENERAL FAQ
 
 ### What is Coupa?
