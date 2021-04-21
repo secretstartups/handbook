@@ -18,18 +18,21 @@ Slippers is following [Semantic Versioning](https://semver.org/) and is currentl
 * [Slippers Design System webpage](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/)
 * [Architecture discussion video Jan 2020](https://www.youtube.com/watch?v=-JUtVOAaQcE&list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba&index=7)
 * [Digital definitions](/handbook/marketing/inbound-marketing/digital-experience/digital-definitions/)
+* [GitLab Blog: Why design systems benefit everyone](https://about.gitlab.com/blog/2021/03/05/starting-from-the-start-slippers-design-system/)
+
 
 ## Why slippers
 
-Slippers is the marketing website design system used on about.gitlab.com. We called it slippers because it pairs nicely with the [Pajamas design system](https://design.gitlab.com/). Slippers is currently maintained by the [Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/) in [Inbound Marketing](/handbook/marketing/inbound-marketing/) at GitLab.
+Slippers is the Marketing Website Design System used on about.gitlab.com. It's called Slippers because it pairs nicely with the [Pajamas design system](https://design.gitlab.com/). Slippers is currently maintained by the [Digital Experience team](/handbook/marketing/inbound-marketing/digital-experience/) in [Inbound Marketing](/handbook/marketing/inbound-marketing/) at GitLab.
 
 ## Why not Pajamas
 
-- Pajamas code is written using different languages and servers than the marketing website and handbook. Marketing wants something that aligns better with our existing tech stack. That said, we still want to align with Pajamas tech choices whenever possible.
+- Pajamas code is written using different technology than the marketing website and handbook. For the sake of [building things that don't scale](https://about.gitlab.com/handbook/values/#do-things-that-dont-scale), we choose something that aligns better with our existing tech stack. That said, we want to align with Pajamas whenever possible.
 - Product has a much longer-lasting design cycle than marketing. Marketing frequently performs design tests and pivots. End-users of a product expect stability. Marketers need the flexibility to try new things.
-- Best practices for a marketing website differ from those used when building a product. For example, certain occasions might call for a toast in a software product vs a modal popup on a marketing website. One might be focused around metrics like Fitt's law and the other might be focused on conversion. Sometimes designs could be information-dense and others could be focused on a single paragraph.
+- Best practices for a marketing website differ from those used when building a product. 
+  - Certain occasions might call for a toast in a software product compared to a modal popup on a marketing website. 
 
-## Goals
+## Goals (Q3 2021)
 
 * Make it easier to update the about.gitlab website.
 * Clarify what's possible, what's permissible, and what's advisable.
@@ -42,11 +45,11 @@ Slippers is the marketing website design system used on about.gitlab.com. We cal
 * Modernize code using paradigms such as BEM and Atomic design.
 * Clarify ownership of systems and contents.
 
-## Our vision
+## Our vision (Q3 2021)
 
 We want to have a design system that is visible to the world and searchable from a URL similar to Pajamas. We would love to have a living design system where the code used in the website is built using the same components that the design system is built from, where updating one updates the other.
 
-## Our journey
+## Our plan (Q3 2021)
 
 The process so far involves small incremental changes. Before we have a place to store the design system components we might apply raw HTML and CSS straight from Figma to existing pages while we explore and build out those systems, tools, designs, and code.
 
@@ -61,3 +64,16 @@ The process so far involves small incremental changes. Before we have a place to
 * Keep iterating until we reach a point where our new CSS system is integrated with Tailwind and Storybook, implementing a rough draft of a functional design system.
 * Rebuild and iterate our pilot pages with final components and code as they become available.
 
+## Implementation Details (as of Q1 2021)
+* Inventory of existing front-end code: [Issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/284)
+* Create a [base2020.scss](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/stylesheets/2020base.scss) file as a working solution to use in new pages
+* Create page YAML front matter properties [disable_handbook_styles](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/layouts/default.haml#L10) and [disable_default_styles](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/includes/layout/head.html.haml#L157)
+* Create a [new repository to hold Slippers code](https://gitlab.com/gitlab-com/marketing/inbound-marketing/slippers-ui)
+* Recreate UI components [using Storybook as a dedicated development environment](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/)
+* Publish [package through npm](https://www.npmjs.com/package/slippers-ui)
+* Include `slippers-ui` in [package.json for about-gitlab](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/package.json)
+* Support usage on same pages with `base2020.scss`, [roll out Slippers to the blog](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/slippers-blog-template.md)
+* [Support Slippers within Middleman templating and usage as a client side library](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/slippers.md)
+
+## Opportunities for Growth
+TODO
