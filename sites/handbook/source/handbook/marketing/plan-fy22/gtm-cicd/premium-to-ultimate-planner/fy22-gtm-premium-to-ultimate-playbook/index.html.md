@@ -281,7 +281,7 @@ Use [Value Discovery](#value-discovery) above along with these recommended asset
 
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
 
-**Metric:** Opportunity stage 0 - Sales Accepted Opp
+**Metric:** Opportunity stage 0 - pending acceptance or stage 1 - Sales Accepted Opp or no opportunity
 
 1. **Meeting 2** - **security topics of interest**
 
