@@ -156,7 +156,7 @@ If an exception request is made to end a probation period early, this should be 
 2. Save this email to the BambooHR profile.
 3. Update the BambooHR Job Status table with the new probation period.
 
-Current Entities and Co-employers with Probationary Periods:
+Current Locations With Probationary Periods:
 
 <% entities_with_prob = data.entity_mapper.select {|entity| entity.fetch('probation_months', 0) > 0}.sort_by {|k, v| k['country']}%>
 
@@ -183,7 +183,7 @@ Current Entities and Co-employers with Probationary Periods:
   </tbody>
 </table>
 
-Countries without Probation Periods:
+Locations without Probation Periods:
 
 <% entities_without_prob = data.entity_mapper.select {|entity| entity.fetch('probation', '') === 'None'}.sort_by {|k, v| k['country']}%>
 
