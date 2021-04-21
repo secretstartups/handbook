@@ -9,6 +9,8 @@ title: "Sales Play: Upsell Premium to Ultimate"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+Note: Think of a sales play as a recipe. If you follow the recipe, we can achieve more predictable, consistent results. And if we find an asset or approach that works best (or flops), then we can tweak the recipe to continuously improve. **If you have improvements to suggest, please click edit at the bottom of this page** to open an MR and suggest your edits and discussion.
+
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
 
 ## Overview
