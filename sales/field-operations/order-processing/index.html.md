@@ -983,7 +983,6 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 #### FY22 Bookings Policy
 
-Subscription Start Date TBD 
 
 This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
@@ -1020,6 +1019,27 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
 
 **My customer is waiting for their license key (self-managed) or provisioning email (SaaS). When will they receive their entitlements?**
 - See [How do I know if a License Key was sent to the Customer?](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-do-i-know-if-a-license-key-was-sent-to-the-customer) below.
+
+#### Subscription Start Date 
+
+Deal Desk will review the start date on all opportunities at time of booking. The following scenarios are firm guidelines for accepting orders where the Subscription Start Date is in the past. 
+
+**New Business Opportunity**
+Customer procurement cycles can take time. A start date on a quote may be in the past if the procurment cycle took longer than expected. 
+
+1. If the Start Date is in the past, Deal Desk will update the Start Date on the quote object to the date of processing. This *will not* require a newly signed order form. 
+2. The opportunity must meet all booking requirements and is still subject to the FY22 bookings policy. 
+
+**Add-On Opportunity** 
+1. If the Start Date on an Add on is < 2 weeks in the past, the order will be booked as is. 
+2. Add on opportunities with a Start Date > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking. 
+3. The opportunity must meet all booking requirements and is still subject to the FY22 bookings policy.  
+
+**Renewal Opportunity**
+
+1. Renewal opportunties where the Start Date < 2 weeks in the past will be booked as is, without additional confirmation or intervention from the sales team. 
+2. Renewal opportuntiies where the Start Date is > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking. 
+3. The opportunity must meet all booking requirements and is still subject to the FY22 bookings policy.  
 
 #### Locked Bookings
 
