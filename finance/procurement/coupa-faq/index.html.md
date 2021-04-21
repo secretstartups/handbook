@@ -28,7 +28,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 ### Do we still need to use GitLab issues after Go Live, if receiving POs and invoices from other entities?
 
-- answer
+- Yes. We will be rolling out in a phased approach, starting with the US and Netherlands. For all other entities the process will remain the same as is.
 
 ## SUPPLIER FAQ
 
