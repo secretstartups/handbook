@@ -262,7 +262,7 @@ This sequence of recommended emails is intended to move the prospect from intere
 
 ### Meetings to get to a POV agreement
 
-Agnes: When sales gets the lead, will it show from which email it came? If so, sales will want to align the meeting purpose to the CTA from which the lead came. If sales will not see from which email the lead came, they can choose where in this flow is most appropriate to begin.
+If your customer engages with emails (sent either from marketing or from yourself), the lead will come to you via email and will it show what they engaged on. Based upon this insight, and any conversations you may have had, you will want to choose where in this progression is most appropriate to begin.
 
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
 
@@ -281,7 +281,7 @@ Use [Value Discovery](#value-discovery) above along with these recommended asset
 
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to second meeting  
 
-**Metric:** Opportunity stage 0 - Pending Acceptance
+**Metric:** Opportunity stage 0 - Sales Accepted Opp
 
 1. **Meeting 2** - **security topics of interest**
 
@@ -312,7 +312,7 @@ Based on their business objectives, assess interest in learning more on theses t
 
 **Milestones:** agree to next meeting  
 
-**Metric:** Opporunity Stage 2 - Scoping AND/OR Stage 3 - Technical Evaluation  
+**Metric:** Opporunity Stage 2 - Scoping or Stage 3 - Technical Evaluation  
 
 
 ### POV agreement
