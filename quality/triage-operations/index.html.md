@@ -134,7 +134,7 @@ This report contains recent wider community contribution merge requests requirin
 The goal is for coaches to add stage and group labels (as well as type and category labels, ideally),
 so that the relevant Product Manager or Engineering Manager can be pinged later on based on these labels.
 
-* Triage owner: Merge request coaches.
+* Triage owner: [Merge request coaches](https://gitlab.com/gitlab-org/coaches).
 * Listed merge requests: All which have been created in the last 24 hours.
 * Triage action: Follow the instructions in the triage report.
   * Example: [https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364)
@@ -260,15 +260,15 @@ This report contains open merge requests which has been submitted by the wider
 community. These merge requests would have the `~"Community contribution"` label.
 
 The report itself is divided into 2 parts.
-The first part contains the 20 newest merge requests from the wider community.
-The second part contains 20 merge requests that weren't updated for 2 months or more.
+The first part contains the newest unassigned merge requests from the wider community.
+The second part contains merge requests that weren't updated for 28 days or more.
 
-* Triage owner: [@gitlab-org/coaches](https://gitlab.com/gitlab-org/coaches).
+* Triage owner: Engineering Manager(s) for that group.
 * Triage action:
   1. Determine if the merge request should be followed through or closed.
   1. Determine if the merge request is ready or further changes are required.
   1. Assign a reviewer as needed.
-* Example: [https://gitlab.com/gitlab-org/gitlab-ce/issues/58131](https://gitlab.com/gitlab-org/gitlab-ce/issues/58131)
+* Example: [https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/2440](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/2440)
 
 ### Auto closure of triage reports
 
@@ -452,6 +452,11 @@ realtime feedback provides an improved developer experience. This is handled by
 
 Merge requests which have an author that is not a member of `gitlab-org` will have a label of `~"Community contribution"` applied.
 Additionally, a note will be posted to thank the contributor for their contribution, and to give some information about the review process, as well as some useful resource links.
+
+* Automation condition: Open merge request which have an author that is not a member of `gitlab-org`
+* Automation action:
+  - Apply label `~"Community contribution"`
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/label-community-contributions.yml>
 
 ### Ensure priorities for availability issues
 
