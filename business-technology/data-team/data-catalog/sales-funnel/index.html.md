@@ -194,7 +194,7 @@ The [TD: Sales Funnel Management View - Preloaded Cuts](https://app.periscopedat
 
 The KPIs are compared to their respective targets at a quarter to date (QTD) pacing, slicing them by different dimensions. These cuts allow management to get a quick high level overview on how the business is performing across different dimensions. It answers the question of what areas of the business are on track and which need more attention.
 
-Currently, the sales management cuts are powered by the following snippets (instructions on how to use them in the description section of the snippet):
+Currently, the sales management cuts are powered by the following snippets (instructions on how to use them are in the description section of the snippet):
 
 1. [main_qtd_view_sales_funnel](https://app.periscopedata.com/app/gitlab/snippet/main_qtd_view_sales_funnel/55d49d17d8cf4cc6bf976c61da2d0017/edit)
 1. [ratio_qtd_view_sales_funnel](https://app.periscopedata.com/app/gitlab/snippet/ratio_qtd_view_sales_funnel/55d5211e130f45a29a3a1562307f95d9/edit)
