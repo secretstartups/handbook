@@ -489,6 +489,7 @@ Current type labels with subtype labels are:
 ## Resources
 
 * [Issue Triage Policies](/handbook/engineering/quality/issue-triage/).
+* [Wider Community Merge Request Triage Policies](/handbook/engineering/quality/merge-request-triage/)
 * Chat channels; we use our chat internally as a realtime communication tool:
   * [#triage](https://gitlab.slack.com/messages/triage): general triage team channel.
   * [#gitlab-issue-feed](https://gitlab.slack.com/messages/gitlab-issue-feed) - Feed of all GitLab-CE issues
