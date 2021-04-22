@@ -30,7 +30,7 @@ see [editing_end_users.html](Editing end-users).
 1. An end-user requests heightened permissions for their organization. This can
    be either via a ticket or by communicating with their technical account
    manager (TAM) or account manager (AM).
-1. Depedning on the source of the request, someone creates a support-ops-project
+1. Depending on the source of the request, someone creates a support-ops-project
    issue using the
    [Shared Organization Request template](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Shared%20Organization%20Request)
    * If via a ticket, Support will create the request
@@ -48,7 +48,7 @@ see [editing_end_users.html](Editing end-users).
 * Once the end-user replies back to the ticket, Support-ops will then apply the
   changes to the organization or the users, depending on the type of shared
   organization the end-user desires.
-* If after a week and there's still no response from the end-user accepting the security risk and choosing the type of shared organization they desire, Suppport-ops will close out the issue in the support-ops-project. In the event the end-user replies after closing out the issue, Support-ops will need to create a new issue and process the request from there. 
+* If after a week and there's still no response from the end-user accepting the security risk and choosing the type of shared organization they desire, Support-ops will close out the issue in the support-ops-project. In the event the end-user replies after closing out the issue, Support-ops will need to create a new issue and process the request from there. 
 
 ## Flowchart
 
@@ -87,10 +87,10 @@ dropdown option. You can use this to further modifiy the permissions.
 
 ## Security risks
 
-Heightend permissions always increase security risks. This is why GitLab
+Heightened permissions always increase security risks. This is why GitLab
 follows the
 [principle of least privilege](../../engineering/security/access-management-policy.html#principle-of-least-privilege)
 in everything we do. While the risk is normally minimized by our current
-processes and procedures, shared organizations do have a slighly higher risk
+processes and procedures, shared organizations do have a slightly higher risk
 than normal. This is why Support-ops always confirms the end-user understands
 and accepts this added risk.
