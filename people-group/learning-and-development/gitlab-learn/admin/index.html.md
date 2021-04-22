@@ -808,33 +808,7 @@ The following Zendesk macros are set up in the Professional Services Zendesk vie
 
 The following are email templates generatetd automatically either via Zendesk or Gmail and are meant to point users to the correct pathways for support.
 
-#### EdCast notification emails
-
-EdCast sends notification emails on a cadence editable by the user. These emails reveal a support email address in the footer of the email. To avoid confusion, the following workflow has been put in place:
-
-1. The support email for the plaform has been set the `gitlablearn@gitlab.com`. This is a Google Group managed by the L&D team.
-1. This Google Group email address will not be monitored by the L&D team and is only meant to route users to the correct space for support.
-1. Any emails sent to this email address will receive the following auto-responded message:
-
-```
-Thanks for using GitLab Learn and for reaching out to our team!
-
-In order to get your support question to the right team, please follow the instructions below:
-Before reaching out for additional support, please review our [GitLab Learn User Documentation](/handbook/people-group/learning-and-development/gitlab-learn/user/)
-
-1. If you are a GitLab team member, please post your question in the #learninganddevelopment Slack channel for support from our Learning and Development team.
-
-2. If you are a GitLab customer or community member, please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759)
-
-Thanks again for reaching out. Please do not respond to this email, as this inbox is not regularly monitored.
-
-Sincerely,
-
-The GitLab Learning and Development Team`
-```
-
-***Important note for users***: If you are reading this documentation, please do ***not*** email `gitlablearn@gitlab.com` for support. This email inbox is not monitored. Instead, please visit the [user documentation and check the correct support workflow]((/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
-
+The `gitlablearn@gmail.com` will trigger a new professional services Zendesk ticket for each email. The email inbox is managed by the L&D team but is not monitored, and Zendesk is instead used to provide support.
 
 #### Zendesk macro for free users
 
