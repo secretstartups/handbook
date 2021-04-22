@@ -13,6 +13,7 @@ description: "This page has all the information for the GTM-CICD sales play."
 Note: Think of a sales play as a recipe. If you follow the recipe, we can achieve more predictable, consistent results. And if we find an asset or approach that works best (or flops), then we can tweak the recipe to continuously improve. **If you have improvements to suggest, please click edit at the bottom of this page** to open an MR and suggest your edits and discussion.
 
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
+### [Sales Play Quick Reference Guide](https://docs.google.com/presentation/d/1F0aZ4k9NutSwYDBCiXF4AcwprBPDcsISvAOYb7NgepM/edit?usp=sharing)
 
 ## Overview
 
@@ -35,7 +36,7 @@ Who is this sales play for?
 **Target Buyer Personas**
 
 | Persona role  | Possible titles|
-| ------------- |:----------------------:|
+| ------------- | ---------------------- |
 | Economic buyers    | CISO or Security Manager, VP of Security, Director of Security, VP of IT or CTO, App/Dev Director |
 | Technical influencers    | Chief Architect, App Dev Manager |
 | Other Personas to consider | Infrastructure Engineering Director, Release and Change Management Director |
@@ -78,7 +79,7 @@ An in-depth view of security pain points and probing questions around them can b
 By upgrading from GitLab Premium to GitLab Ultimate, customers may experience one or more of the below benefits:
 
 | Desired Future State (“After Scenarios”) | So What? (“Positive Business Outcomes”)   |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Greater efficiencies for both security and dev    | less risk and greater velocity of DevOps |
 | Consistent compliance to policy    | less risk of vulnerabilities in production and easier audits |
 | Reduced security exposure, more scanning finds more vulnerabilities    | reduced risk to finance and reputation |
@@ -90,7 +91,7 @@ By upgrading from GitLab Premium to GitLab Ultimate, customers may experience on
 To achieve the positive business outcomes highlighted above, what required capabilities does the customer need to solve for and how will success be measured?
 
 | Required capability |  Customer Metrics  |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Comprehensive app sec scanning methods    | percent of apps scanned with multiple scan types  |
 | Scan results delivered to the developer in their CI pipeline    | vulnerabilities found pre-prod |
 | Security governance    | time spent on audits, fewer compliance issues |
@@ -102,7 +103,7 @@ To achieve the positive business outcomes highlighted above, what required capab
 Note: maybe we use [this link as mvc1](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions) and then change the resource pages to the suggested format?
 
 | Questions to Better Understand the Customer’s needs  | Discovery questions  |
-| ------------- |-------------|
+| ------------- | ------------- |
 | current state    | 1. Are you wanting to shift security left? How is that going?<br>2. What security tools are you using today?<br>3. How are you currently securing containers and Kubernetes?|
 | future state    | 1. What if you could simplify your shift-left efforts?<br>2. What challenges do you have with your existing tools and can you predict their cost 2 yrs out?<br>3. Would you like to better protect containers and K8s? |
 | Required capabilities   | 1. Could security integrated into CI help you get there?<br>2. What if you had one, known cost that enabled ALL your security scans, with results to the developer in their CI pipeline, along with vulnerability management for the security pro? What if you could either eliminate some existing security tools or reduce their use/cost?<br>3. What if you could scan containers and monitor their host and their traffic within K8s clusters? |
@@ -169,7 +170,7 @@ Advantages of a single application for DevOps and Security together include unpa
 **Most common objections**
 
 | Objection  | Response    |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | How does your scanning capability compare to leading scanners? How accurate are they?    | [accuracy slide](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g9e2080204d_0_1084), [G2 SAST](https://www.g2.com/categories/static-application-security-testing-sast#grid) |
 | Can you integrate with my  incumbent scanner? | We can [work with other scanners](https://docs.gitlab.com/ee/development/integrations/secure.html) or [replace them](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit#slide=id.g9e2080204d_0_3374) |
 | Ultimate is 5x.       | [Why Ultimate](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)         |
@@ -338,7 +339,7 @@ Will have specific resources under actions above. This is for additional resourc
 ## How to measure progress
 
 **Milestones** (identified by sales stages and/or SDLC fields)
-- [ ] Gameplan with GitLab champion (Medpic)
+- [ ] Gameplan with GitLab champion (MEDDPPICC)
 - [ ] Meeting with Security team or other economic buyer
 - [ ] Agreement to do POV
 - [ ] POV requirements defined
