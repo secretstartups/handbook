@@ -1121,21 +1121,21 @@ Changes by Legal will automatically update the Account, although updates may tak
 (iii) If the Account requires immediate attention (i.e., to close a deal), open a Chatter message in the Account and message “@legal”. Upon receipt of a request, the Legal team can review and update in Visual Compliance.
 Please understand that if Legal finds a problem, the flag and the account will remain locked down.
 
-##### Executive Account Sponsorship Program
+## Executive Sponsorship Program
 
-This program adds a member of e-group to be a dedicated part of the sales Account Team on a specific account.
-The exec will maintain direct relationships with people at the account and participate in both remote and in-person meetings as appropriate.
+##### Account Sponsorship
 
-Goal: Leverage our executive team to ensure great customer experience and direct two-way connection with GitLab and executive visibility into a small number of high-value customers.
-This is intended to both support the customers to be successful and to provide insights to ensure GitLab is sucessful.
-Examples of executive sponsor responsibilities may include (and not limited to) participation in quarterly account planning meetings, communications with the customer as well as helping to facilitate internal conversations & resources where necessary.
+Summary:
+1. E-group members are assigned to *specific accounts*.
+1. The Sponsor will maintain direct relationships with individuals at the account and participate in both remote and in-person meetings as appropriate.
+1. This is a long-term assignment (liklely years, minimum several quarters)
 
-Very few accounts will have named sponsors; execs are still available as needed:
+Goal: Leverage our executive team to ensure great positve business outcomes and a great customer experience.  We will leverage a direct two-way connection with GitLab and executive visibility into a small number of high-value customers.  We expect to gain insight and learning from the customer to improve our product, business, and processes.
 
 1. Only a small number of accounts can have exec sponsorship, so there is no guarantee for any account to necessarily have an assigned exec sponsor
 1. Even though most accounts will not have an assigned exec sponsor, the exec team is available to support an engage all customers as needed.
 
-Accounts are selected for and matched to an executive sponsor:
+Account selection and sponsor matching:
 
 1. Total accounts with named sponsors: 10
 1. Accounts may be nominated by Sales VPs and Confirmed by CRO after agreement with the named sponsor.
@@ -1146,7 +1146,7 @@ Example activities for sponsors:
 1. SAL Exec briefing & initial Zoom w/customer exec champion
 1. Quarterly Account Review Meetings
 1. Two in-person meetings with account / yr
-1. 1 year on the account
+1. Build personal relationships with individual leaders at the customer and ensure full understanding of long-term value with each.
 
 Process:
 
@@ -1155,11 +1155,18 @@ Process:
 1. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O4M000004e2Ma)
 1. Executive Sponsor [Briefing Template](https://docs.google.com/document/d/1No6Hzv2UoeFi6Bl8qtVUYYy2hDA7ChwoVENboh8wuVs/edit#)
 
-##### Executive Opportunity Sponsorship Program
+##### Opportunity Sponsorship
 
-In contrast to the Account Sponsorship Program outlined above which runs in perpetuity, the Opportunity Sponsorship is an ephemeral (ie: short lived) program where a member of the e-group is assigned as a dedicated part of the Opportunity Team for a specific FH FY21 [Swing Opportunity](https://about.gitlab.com/handbook/sales/sales-term-glossary/#swing-opportunity). Since there are very few Swing Opportunities in any given quarter, only a small number of Opportunities will have e-group sponsor. 
+Summary:
+1. E-group members are assigned to *specific sales opportunities*.
+1. The Sponsor will be a member of the sales team for the duration of the specific opportunity only and roll off when the opportunity is closed.
+1. Sponsors will participate in both remote and in-person meetings as appropriate.
+1. Sponsors will share key learnings with E-Group on a periodic basis
+1. This is a *short-term assignment* (liklely weeks or months)
 
-The primary purpose of the program is to improve our forecast accuracy by raising visibility of material deals to the e-team, exposing the sponsor to the opportunity process and strategy, and creating a forcing function for the Account Team to prepare properly and be accountable for specific actions during the life of the opportunity.
+In contrast to sponsorship of accounts, Opportunity Sponsorship is an ephemeral (ie: short lived) assignment where a member of the e-group is assigned as a dedicated part of the Opportunity Team for a specific [Swing Opportunity](https://about.gitlab.com/handbook/sales/sales-term-glossary/#swing-opportunity)with a close date in the next 6 months. Since there are very few Swing Opportunities in any given quarter, only a small number of Opportunities will have e-group sponsor. 
+
+The primary purpose of the program is to improve our forecast accuracy by raising visibility of material deals to the e-team, exposing the sponsor to the opportunity process and strategy, and creating additional accountability for specific actions throughout the company during the life of the opportunity.
 
 Example activities for sponsors:
 1. The e-group member will maintain direct relationships with Opportunity Team
@@ -1170,7 +1177,7 @@ Example activities for sponsors:
 6. Facilitation of internal conversations and resources where necessary.
 
 How Opportunities are selected for and matched to an e-group sponsor:
-1. Maximum number of Opportunities per e-group sponsors: 2
+1. Target number of Opportunities per e-group sponsors: 2
 2. Opportunities may be nominated by SAL’s or Sales Management if they meet the Swing Deal criteria
 3. Sponsored Opportunities typically represent deep product utilization, significant ARR opportunity, and/or a broad vision for success and engagement/partnership with GitLab.
 
