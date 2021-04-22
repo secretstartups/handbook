@@ -67,9 +67,9 @@ The stock option ranges by role are calculated as follows:
  
 **Definitions:**
 * [Compensation Range](/handbook/total-rewards/compensation/compensation-calculator/#the-compensation-calculator-formula) is the cash compensation range as seen in the GitLab [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in). 
-* [Equity Percent](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/equity_calculator.yml) is a globally consistent percentage of compensation range based on the team member’s job grade.
+* [Equity Percent](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/equity_calculator.yml) is a globally consistent percentage of compensation range based on the team member’s job grade.
    * The Equity Percent by grade will be updated annually in the Compensation Calculator and linked once merged.
-* [Stock Grant Assumption](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/equity_calculator.yml), which will be calculated quarterly by GitLab, is typically the spread between the price of the Company’s preferred stock and its most recent 409a valuation.
+* [Stock Grant Assumption](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/equity_calculator.yml), which will be calculated quarterly by GitLab, is typically the spread between the price of the Company’s preferred stock and its most recent 409a valuation.
    * The Stock Grant Assumption will be updated quarterly in the Compensation Calculator and linked once merged.
  
 Note: All stock option grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to stock option grants including the decision not to make a grant at all.
