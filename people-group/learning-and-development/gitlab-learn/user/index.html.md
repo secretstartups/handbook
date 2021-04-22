@@ -251,6 +251,22 @@ This could be caused by your pop-up blocker or chrome extension. Please try the 
 1. Use the preferred Chrome browser
 1. Open the course in an incognito window
 
+### How do I delete my account?
+
+To delete your GitLab Learn account and related data, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) and note your request.
+
+### I can't load or access content on GitLab Learn
+
+This typically means the connection is being disrupted and the sign on is not transferring from one page to the next. Try clearing your cache and cookies and attempt to click the orange Enroll button again.
+
+In addition, confirm you're using the Google Chrome preferred browser.
+
+If you're still facing problems, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) 
+
+### I did not receive a confirmation or password reset email
+
+For help with your account, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) and note your request.
+
 ## Have additional questions about GitLab Learn?
 
 Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/c/gitlab-learn/42) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
