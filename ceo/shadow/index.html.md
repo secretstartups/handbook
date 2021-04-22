@@ -133,8 +133,8 @@ Considerations are cumulative and can be:
 If you are not a GitLab team member and you'd like to apply to the program, you are eligible if:
 1. You've work(ed) at an investment firm and while there helped to lead a private round in GitLab.
 1. A member of GitLab's Customer Advisory Board (CAB)[marketing/strategic-marketing/customer-reference-program/CAB/]
-1. A CEO of a customer or prospect company with high GitLab [LAM](https://about.gitlab.com/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) 
-1. A CEO of startup invited by an E-group member
+1. A CEO of a customer or prospect company with high GitLab [LAM](/sales/sales-term-glossary/#landed-addressable-market-lam) 
+1. A CEO of a startup and you were invited by an [E-Group](https://about.gitlab.com/company/team/structure/#executives) member
 
 Exceptions to eligibility:
 
