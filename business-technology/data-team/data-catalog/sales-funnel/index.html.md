@@ -206,7 +206,7 @@ The [sales management python module](https://gitlab.com/gitlab-data/periscope/-/
 
 The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts) dashboard tracks the performance of Booked Net ARR against the Previous Year (Year over Year, Y/Y) and against the financial target by different dimensions.
 
-Each slice / cut is composed of a Quarter View and a Fiscal Year View.
+Each cut is composed of a Quarter View and a Fiscal Year View.
 
 To use the dashboard select a Fiscal Quarter in the filters and any of the options of the `Drilldown` filter. The latter selects the granularity of the `Sales Segment Drilldown` field:
 
@@ -233,7 +233,7 @@ To use the dashboard select a Fiscal Quarter in the filters and any of the optio
 * %MIX(ARR): Net ARR for a given category / subtotal ARR. E.g. when calculating %MIX(ARR) for the segment SMB and Deal Size 5-25k: `Net ARR for SMB | 5-25k` / `ARR for SMB`
 * % of Bookings: Net ARR for a given category / total ARR for a given quarter
 * ProServ #: Number of opportunities with a proserv_amount different from zero
-* The `US East` row showed in the sales segment drilldown field is composed of both the `East` and `LATAM` region
+* The `US East` row shown in the sales segment drilldown field is composed of both the `East` and `LATAM` region
 * Sales segment drilldown = APAC is composed of all the regions that are not `East`, `West`, `LATAM` and `EMEA`
 * Sales segment drilldown = SMB is composed of the segment SMB plus all the segments that are not `Large` and `Mid-Market`
 
