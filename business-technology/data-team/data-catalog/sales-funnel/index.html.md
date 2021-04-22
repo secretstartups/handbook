@@ -192,7 +192,7 @@ The [TD: Sales Funnel Management View - Preloaded Cuts](https://app.periscopedat
 1. MQLs to SAOs
 1. Win Rate
 
-against their respective targets at a quarter to date (QTD) pacing, slicing them by different cuts. These cuts allows management get a quick high level overview on how the business is performing across different dimensions. It answers the question of what areas of the business are on track and which need more attention.
+The KPIs are compared to their respective targets at a quarter to date (QTD) pacing, slicing them by different dimensions. These cuts allow management to get a quick high level overview on how the business is performing across different dimensions. It answers the question of what areas of the business are on track and which need more attention.
 
 Currently, the sales management cuts are powered by the following snippets (instructions on how to use them in the description section of the snippet):
 
