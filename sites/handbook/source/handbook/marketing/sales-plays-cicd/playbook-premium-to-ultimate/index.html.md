@@ -208,7 +208,7 @@ For Enterprise and MM, sales will do active outreach to customers to engage them
 
 **ENT and MM Sales Actions**
 
-1. [ ] Review the [target list](docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602) and prioritize contacts.
+1. [ ] Review the [target list](https://docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=682218372) and prioritize contacts.
 1. [ ] Familiarize yourself with context for this play (above), especially differentiators and objections
 1. [ ] Familiarize yourself with the [recommended email sequence](#recommended-email-sequence-email-templates) and next steps (below).
 1. [ ] Use the [three email templates](#recommended-email-sequence-email-templates) below to reach out to leads.
@@ -232,7 +232,7 @@ For SMB customers, we will rely on inbound responses to the marketing-generated 
 
 **SMB Sales Actions**
 
-1. [ ] Review the list of [target accounts/contacts](https://gitlab.my.salesforce.com/00O4M000004akG8)
+1. [ ] Review the list of [target accounts/contacts](https://docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602)
 1. [ ] By Friday, 2021-04-23, identify individual contacts that need to be excluded from the marketing generated emails by filling out columns A & B on [this target list](https://docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602). The default approach should be to include as many accounts and customers as possible, excluding only where such communication would be disruptive to existing deals. The first automated email will go out **starting Tuesday, April 27th** and subsequent emails will follow every 7 days.
 1. [ ] Familiarize yourself with context for this play (above), especially differentiators and objections
 1. [ ] Familiarize yourself with the email sequence and next steps (below).
