@@ -74,7 +74,9 @@ Considerations when building your path:
 - You are willing to stretch yourself with new challenges, and engage in customer meetings to provide a level of support that sets the customer on the path to success.
 
 ## Path to Promotion: Support Engineering Manager
-Choosing to take the management path involves a holistic approach that goes well beyond a checklist of tasks and accomplishments. Becoming a good manager requires a set of people skills that not only embodies the [values of GitLab](/handbook/values/), but goes beyond boundaries as needed to successfully support and lead a team of diverse individuals. Maintaining your technical skillsets becomes secondary, however you have the  autonomy (and ability) to balance your level of technical skill upkeep with the priorities and needs of your team. Above all, you keep team members and our customers your top priority.
+People managers need a combination of skills involving not only [technical credibility](/handbook/engineering/management/#technical-credibility), but interpersonal and organizational skills in order to lead a team of diverse individuals. These skills include embodying the [GitLab Values](/handbook/values/), [coaching](/handbook/leadership/coaching/), [interviewing and hiring](/handbook/support/managers/hiring.html), and thinking holistically about the Support team, how we fit within the company, and interact with users. People managers also need to have _organizational awareness_ within GitLab, so you know where to look for answers and how to guide team members toward solutions. Read more about [Leadership at GitLab](/handbook/leadership/).
+
+Maintaining your technical skillsets becomes secondary, however you have the  autonomy (and ability) to balance your level of technical skill upkeep with the priorities and needs of your team. Above all, you keep team members and our customers your top priority.
 
 ### Recommendations and Considerations
 Recommendations to explore this path:
