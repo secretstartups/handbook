@@ -92,7 +92,7 @@ Considerations when building your path:
 - Consider experiences beyond what you have accomplished at GitLab (previous job experiences or even personal accomplishments) that can be used as supportive examples for building your case to transition into a manager role.
 - You have the level of confidence needed to initiate change, address challenging situations, and make difficult decisions.
 - You have the ability to show humility and accept pushback or failure with an eagerness to learn from them.
-- You have the ability to accept accountability in support of an individual, the team, our customers, and the business.
+- You have the ability to accept accountability and ownership involving the support we provide through guidance, leadership support, and assisting team members and the company to overcome challenges.
 - You have the ability to influence positive change (improvements), starting at the individual level.
 - You have the ability to build (not demand) trust and respect with team members; including not only peers and direct reports, but also team members and senior management across the organization.
 - You have the deep desire to grow every team member you work with, using both empathy and open communication to maintain honesty in every line of feedback you give.
