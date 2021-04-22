@@ -85,7 +85,7 @@ This also applies on levels above Staff+, partnering with their peers in Managem
 
 #### Architect
 
-At GitLab [Architecture is a practice](/handbook/engineering/architecture/) where [everyone can contribute](/company/mission-and-vision/#mission) but Staff+ Engineers play a fundamental role in that.
+At GitLab [Architecture is a practice](/handbook/engineering/architecture/) where [everyone can contribute](/company/mission/#mission) but Staff+ Engineers play a fundamental role in that.
 
 > **Architecture as a practice is everyone's responsibility, but it is notably ingrained in senior technical leadership roles**, where the roles' levels and their sphere of influence determine DRI responsibilities within the practice.
 
