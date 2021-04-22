@@ -2,15 +2,18 @@
 layout: markdown_page
 title: "Sales Play: Upsell Premium to Ultimate"
 description: "This page has all the information for the GTM-CICD sales play."
+
 ---
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Note: Think of a sales play as a recipe. If you follow the recipe, we can achieve more predictable, consistent results. And if we find an asset or approach that works best (or flops), then we can tweak the recipe to continuously improve. **If you have improvements to suggest, please click edit at the bottom of this page** to open an MR and suggest your edits and discussion.
+Note: Think of a sales play as a recipe. If you follow the recipe, we can achieve more predictable, consistent results. And if we find an asset or approach that works best (or flops), then we can tweak the recipe to continuously improve. **If you have improvements to suggest, please contribute comments to [this MR](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) to suggest your edits and upvote on others.
 
 ## Jump to [Sales Play Tactics](#sales-play-tactics)
 ### [Sales Play Quick Reference Guide](https://docs.google.com/presentation/d/1F0aZ4k9NutSwYDBCiXF4AcwprBPDcsISvAOYb7NgepM/edit?usp=sharing)
@@ -26,6 +29,7 @@ Who is this sales play for?
 *Note: This play is FYI only for SDRs because it is upselling tiers, not necessarily expanding seats.*
 
 ## Who to meet
+{: .alert .alert-gitlab-orange}
 
 **Ideal Customer Profile**  - Existing GitLab Premium customers already using CI/CD
 - Bonus points for:
@@ -44,7 +48,7 @@ Who is this sales play for?
 
 **Target Account Lists**
 
-- [Account list](https://gitlab.my.salesforce.com/00O4M000004akG8)
+- [Account list](docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602)
 
 ## Getting Started
 
@@ -57,6 +61,7 @@ Consider the following questions:
 * Are the capabilities and PBOs that are enabled by GitLab Ultimate important to the customer? Why or why not? How do you know?
 
 ## Value Discovery
+{: .alert .alert-gitlab-orange}
 
 ### Common Pains  
 
@@ -112,6 +117,7 @@ Note: if they say they do NOT want to shift left and empower developers to find 
 
 
 ## Positioning Value
+{: .alert .alert-gitlab-orange}
 
 ### Elevator pitch
 
@@ -161,7 +167,7 @@ Advantages of a single application for DevOps and Security together include unpa
 
 *see provided link for additional details including value and videos*
 
-**[Proof points](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#proof-points---customers)**
+### [Proof points](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#proof-points---customers)
 
 
 ## Objection handling
@@ -187,34 +193,38 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 
 
 # Sales Play Tactics {#sales-play-tactics}
+{: .alert .alert-gitlab-purple}
 
 These are Sales prescriptive actions to initiate engagement with target audience for Premium to Ultimate upgrade of existing GitLab CI users. **Strategy and actions differ by market segment** with SMB relying on marketing to drive inbound contacts initiated by the customer and ENT/MM primarily using the play to guide conversations initiated by sales.
 
-#### Enterprise and Mid-market Accounts
+**Enterprise and Mid-market Accounts**
+{: .alert .alert-gitlab-orange}
+
 
 **Strategy**
 
-Enterprise accounts will **not** be included in the email campaign driving customers to 'contact sales'. This allows the SALs greater control over who is contacted in their accounts, and the contacts can be more personal. Sales will do active outreach to customers to engage them in conversation using the recommended email templates and conversation flow below, modifying as needed. Enterprise customers may be included in broader 'air cover' awareness campaigns TBD after initial launch of this play. Sales action is the key driver for this segment.
+For Enterprise and MM, sales will do active outreach to customers to engage them in conversation using the recommended email templates and conversation flow below, modifying as needed. These accounts will **not** be included in the **automated** email campaign. This allows the SALs greater control over who is contacted in their accounts, and the contacts can be more personal. 
+
 
 **ENT and MM Sales Actions**
 
-1. Review the target list and prioritize contacts.
-1. Familiarize yourself with context for this play (above), especially differentiators and objections
-1. Familiarize yourself with the [recommended email sequence](#recommended-email-sequence-email-templates) and next steps (below).
-1. Please use the [three email templates](#recommended-email-sequence-email-templates) below to reach out to leads.
-1. We have provided a recommended sequence, but choose any email to start with based upon current conversations.  
-1. We recommend you send your next email 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. 
-1. Emails can be copied and pasted as-is into Gmail. 
-1. **Do not edit the hyperlinks in the email templates.** Each one is linked to a Pathfactory track with recommended content.
-1. Each email includes a second CTA for the recipient to reach out to their rep.
-1. See which contacts have responded by checking your gmail inbox for emails alerts (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert) | [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
-1. Conduct meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
-1. Update sales stage in SFDC.
-1. Determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence after 7-10 days. (**Please use the templates's tracking links!**) You can modify the templates to fit your unique conversations as needed.  
-1. Repeat with next recommended email until you get to a POV or sale.
+1. [ ] Review the [target list](docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602) and prioritize contacts.
+1. [ ] Familiarize yourself with context for this play (above), especially differentiators and objections
+1. [ ] Familiarize yourself with the [recommended email sequence](#recommended-email-sequence-email-templates) and next steps (below).
+1. [ ] Use the [three email templates](#recommended-email-sequence-email-templates) below to reach out to leads. 
+   * We have provided a recommended sequence, but choose the best email to start based upon your current conversations.  
+   * Copy and paste the emails as-is into Gmail. 
+   * Personalize it, but **do not edit the hyperlinks in the email templates.** Each one is linked to a Pathfactory track with recommended content for optimal user experience.
+1. [ ] Check your own email inbox for alerts showing which contacts have responded | (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert), [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
+1. [ ] Conduct the meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
+1. [ ] Update sales stage in SFDC.
+1. [ ] Determine the cadence for progressing to the next step based upon the initial meeting. We recommend sending the next email in the sequence after 7-10 days, even if they didn't respond to the last one sent. The flow is intended to move their thinking along even if they don't call you to discuss each one.   
+1. [ ] Repeat with next recommended email until you finish the meeting sequence, get to a POV, or to a sale. If you reach the end of the recommended emails and meetings and don't see progress, please leave feedback in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) or in slack at #gtm-ci-cd. Where are you stuck? How can we help? 
 
 
-#### Small Business Accounts
+**Small Business Accounts**
+{: .alert .alert-gitlab-orange}
+
 
 **Strategy**
 
@@ -222,22 +232,24 @@ For SMB customers, we will rely on inbound responses to the marketing-generated 
 
 **SMB Sales Actions**
 
-1. Sales review list of target accounts/contacts (link to list)
-1. Notify marketing by Friday, 2021-04-23 individual contacts that need to be excluded from the marketing generated emails below by filling out columns A & B on [this final target list](url). The default approach should be to include as many accounts and customers as possible, excluding only where such communication would be disruptive to existing deals.
-1. Familiarize yourself with context for this play (above), especially differentiators and objections
-1. Familiarize yourself with the email sequence and next steps (below).
-1. See which contacts have responded by checking your gmail inbox for emails alerts (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert) | [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
-1. Conduct meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
-1. Update sales stage in SFDC.
-1. Note: once they ask for an initial meeting from any email they will be pulled out of subsequent automated emails. (If they respond to email 1, they will not receive emails 2 and 3 from marketing.) It will be up to sales to determine the cadence for progressing to the next step based upon their initial meeting. We recommend sending the next email in the sequence. **Please use the templates** as they provide tracking links so you can see what was opened and clicked (and marketing can see what is getting used). You can modify the templates in Gmail to fit your unique conversations as needed.
-1. Repeat with next recommended email until you get to a POV or sale.
+1. [ ] Review the list of [target accounts/contacts](https://gitlab.my.salesforce.com/00O4M000004akG8)
+1. [ ] By Friday, 2021-04-23, identify individual contacts that need to be excluded from the marketing generated emails by filling out columns A & B on [this target list](https://docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602). The default approach should be to include as many accounts and customers as possible, excluding only where such communication would be disruptive to existing deals. The first automated email will go out **starting Tuesday, April 27th** and subsequent emails will follow every 7 days.
+1. [ ] Familiarize yourself with context for this play (above), especially differentiators and objections
+1. [ ] Familiarize yourself with the email sequence and next steps (below).
+1. [ ] Check your own email inbox for alerts showing which contacts have responded | (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert),  [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
+1. [ ] Conduct the meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
+1. [ ] Update sales stage in SFDC.
+1. [ ] Determine the cadence for progressing to the next step based upon the initial meeting. We recommend sending the next email in the sequence after 7-10 days, even if they didn't respond to the last one sent. The flow is intended to move their thinking along even if they don't call you to discuss each one.   
+1. [ ] Once they click 'contact sales' on an automated email **You** must send subsequent emails manually using the templates provided. This allows you to determine the cadence and next step based upon the initial meeting. **Please use the templates** as they provide tracking links so we can alert you on their responses (and marketing can see what is most useful). You can modify the templates in Gmail to fit your unique conversations as needed.
+1. [ ] Repeat with next recommended email until you get to a POV or sale. If you reach the end of the recommended emails and meetings and don't see progress, please leave feedback in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) or in slack at #gtm-ci-cd. Where are you stuck? How can we help? 
 
 
 ### Recommended email sequence and email templates {#recommended-email-sequence-email-templates}
+{: .alert .alert-gitlab-orange}
 
 This sequence of recommended emails is intended to move the prospect from interest to POV. Note:  
-* Marketing will be sending these emails to SMB targets generate leads. The first will go out starting April 27th and subsequent emails will follow every 7 days.
-* MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. We recommend you send the next email in the sequence 7-10 days later to move them through the buyer's journey. The material is intended to move their thinking along even if they don't call you to discuss each one. **Please use the templates provided in the links below**. They have embedded links so you will see what they open and click thru (and marketing will see what's getting used most).
+* Marketing will be sending these emails to SMB targets generate leads. 
+* MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. 
 
 
 1. [Email template 1](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit?usp=sharing){:target="_blank"} 
@@ -262,12 +274,15 @@ This sequence of recommended emails is intended to move the prospect from intere
 ## Next Steps
 
 ### Meetings to get to a POV agreement
+{: .alert .alert-gitlab-orange}
 
 If your customer engages with emails (sent either from marketing or from yourself), the lead will come to you via email and will it show what asset they clicked on and if they clicked the 'contact us' button. Based upon this insight, and any conversations you may have had, you will want to choose where in this progression is most appropriate to begin.
 
 The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
 
-1. **Meeting 1** - **assess business objectives**  
+
+**Meeting 1** - **assess business objectives**
+{: .alert .alert-gitlab-purple}  
 
 Use [Value Discovery](#value-discovery) above along with these recommended assets to determine their business priorities, existing security tools, chief pain points:  
    * [Security and Compliance Overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931) (focus on [desired outcomes](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1990) slide)
@@ -284,7 +299,8 @@ Use [Value Discovery](#value-discovery) above along with these recommended asset
 
 **Metric:** Opportunity stage 0 - pending acceptance or stage 1 - Sales Accepted Opp or no opportunity
 
-1. **Meeting 2** - **security topics of interest**
+**Meeting 2** - **assess security priorities**
+{: .alert .alert-gitlab-purple}
 
 Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. (@cblake and the #s_secure slack channel can help with any questions you may have.) Identify key value driver, champion, and economic buyer.
 
@@ -305,9 +321,13 @@ Based on their business objectives, assess interest in learning more on theses t
 
 **Metric:** Opportunity Stage 1 - Discovery
 
-1. **Meeting 3** - purpose is to use the provided template and assess opportunity and show how GL Secure compares for more predictable costs. DO NOT lose site of the fact that our greatest differentiator is our all-in-one approach that provides all type sof security scans integrated into a united UI for both dev and sec. **Be sure to include the value of this benefit along with tool costs.**  
+**Meeting 3** - **help them see the value**
+{: .alert .alert-gitlab-purple}
+
+Use the provided ROI framework slide to help the customer identify all of his obvious costs, now and most importantly, into the future. Show how GitLab can provide predictable costs as they scale. DO NOT lose site of the fact that our greatest differentiator is our all-in-one approach that provides all types of security scans integrated into a united UI for both dev and sec. **Be sure to include the value of this benefit along with tool costs.**
+
    * [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)  
-   * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy[(https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing) or from [Cherry Han](link). Please provide feedback to help us tune these models in [this issue](link).   
+   * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing) or from [Cherry Han](link). Please provide feedback to help us tune these models in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5096).   
    * Ask for POV to prove value unique to this customer. 
    * Move to POV agreement steps.
 
@@ -317,6 +337,7 @@ Based on their business objectives, assess interest in learning more on theses t
 
 
 ### POV agreement
+{: .alert .alert-gitlab-orange}
 
 1. Define POV requirements like this (link to David Astor's SKO preso or Cherry Han's package)
 1. Execute POV. Move requirements met to complete on issue board. Orchestrate collaboration with PMs for any unmet needs. Use #s_secure slack channel or capabiities page to identify the right PM to engage on the POV issues. Get customer to engage with PMs on the issues.
@@ -336,10 +357,19 @@ Will have specific resources under actions above. This is for additional resourc
 *  Gartner MQ for AST (expected in May 2021)
 
 
-## How to measure progress
+## Measuring progress
+{: .alert .alert-gitlab-orange}
 
+Consider these milestones and adjust stages in SDLC as you progress.
+
+<<<<<<< sites/handbook/source/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/index.html.md
+**Milestones** (identified by sales stages and/or SDLC fields)
+
+- [ ] Gameplan with GitLab champion (Medpic)
+=======
 **Milestones** (identified by sales stages and/or SDLC fields)
 - [ ] Gameplan with GitLab champion (MEDDPPICC)
+>>>>>>> sites/handbook/source/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/index.html.md
 - [ ] Meeting with Security team or other economic buyer
 - [ ] Agreement to do POV
 - [ ] POV requirements defined
@@ -354,12 +384,11 @@ Will have specific resources under actions above. This is for additional resourc
 - [ ] Retro on sales play
 
 
-Note: progress of the GTM Motion will be measured at the campaign level with clicks/opens/page visits, SAO (is there a code sales needs to use in SFDC?)
+Note: progress of the GTM Motion will be measured at the campaign level with clicks/opens/page visits, SAO.
 
 ## Related Marketing Campaign
 
 Marketing is running a related demand gen campaign.  
 
 * Initial launch will include the email campaign outlined above for SMB to drive leads using the [Message house](/handbook/marketing/sales-plays-cicd/message-house-premium-to-ultimate).
-* A LinkedIn campaign will help surface new contacts for accounts where we have none/few.
 * An 'air cover' campaign will raise awareness of GitLab's Ultimate capabilities. It will likely include Security (first) and Planning capabilities (next).
