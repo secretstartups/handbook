@@ -94,7 +94,7 @@ Considerations when building your path:
 - You have the ability to show humility and accept pushback or failure with an eagerness to learn from them.
 - You have the ability to accept accountability in support of an individual, the team, our customers, and the business.
 - You have the ability to influence positive change (improvements), starting at the individual level.
-- You have the ability to build (not demand) trust and respect with team members ranging from peers to direct reports to team members and executives across the organization.
+- You have the ability to build (not demand) trust and respect with team members; including not only peers and direct reports, but also team members and senior management across the organization.
 - You have the deep desire to grow every team member you work with, using both empathy and open communication to maintain honesty in every line of feedback you give.
 
 ## Looking Beyond Staff, Manager, and Support Roles
