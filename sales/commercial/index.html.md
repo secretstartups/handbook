@@ -70,7 +70,7 @@ If you are going to an event you think first:
 - 8 hours: then you need to get 5x return on $, and the fact that any event pipeline closes at about 30%
 - How many total personal life hours will you be away from your personal life?
 
-Given the rough calculation above, you've to be committed driving/booking enough iACV at the event prior to you going to the event
+Given the rough calculation above, you've to be committed driving/booking enough Net ARR at the event prior to you going to the event
 Note: this doesn’t mean you can’t get travel approval without booking meetings. It means once you get travel approval it is on you to go get people to the event/meetings to create pipeline.
 
 #### Trip Notes
@@ -140,7 +140,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 
 1. [Ranking your accounts](/handbook/sales/commercial/#account-ranking) - [video here](https://youtu.be/M-5OhlYxmFI)
     - Rank all accounts and explain why; log your sources for future efficiency; this needs to be your (recent) ranking, not the previous owners, nor the ranking from the prior fiscal. If it’s unchanged, make the note that it is unchanged and why
-1. Building your [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) for any opp amount over $5k SMB $10k MM **Amount** (n.b. amount, not iACV) that:
+1. Building your [custom deck](https://docs.google.com/presentation/d/1duy8kjEvNiRx8fnCvc6ZnxWwXTM_71phbG3k9rgmU4Q/edit?usp=sharing) for any opp amount over $5k SMB $10k MM **Amount** (n.b. amount, not Net ARR) that:
     - Calculates the ROI of using GitLab vs. next best option (this might be vs. do nothing)
     - Provides the 2 options for the customer going forward - normally both with GitLab (example: Ult or Prem)
     - Demonstrates a customised vision for the customer: “what if you used all of GitLab to do Devops in a single app?”
@@ -153,7 +153,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 1. [Updating your next steps](/handbook/sales/commercial/#opportunity-next-steps-best-practices) - [video here](https://youtu.be/74OKSNWoN8Q)
 1. [Command plans](/handbook/sales/command-of-the-message/command-plan/), what needs to be filled in:
     - $5k SMB, $10k MM **Amount** - All fields in opportunity overview (the whys) and close-plan over this Amount threshold
-    - $10k SMB, $20k MM **iACV** - Full Command Plan over this iACV threshold
+    - $10k SMB, $20k MM **Net ARR** - Full Command Plan over this Net ARR threshold
     - If you don’t yet know the answers or have the data, you will populate the Command Plan fields with your script and next steps to get that information
     - Exception to command plan: for channel managed opportunities we may not have access - put `Channel-Managed` in the opportunity title
     - ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
@@ -162,13 +162,13 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 
 #### SMB
 
-- An Opportunity Consult happens when the opportunity IACV threshold is $10K +
-- A Light Weight Deal Review happens when the opportunity IACV threshold is $5K and is forecasted to close this month or next month.
+- An Opportunity Consult happens when the opportunity Net ARR threshold is $10K +
+- A Light Weight Deal Review happens when the opportunity Net ARR threshold is $5K and is forecasted to close this month or next month.
 
 #### Mid-Market
 
-- An Opportunity Consult happens when the opportunity IACV threshold is $20K +
-- A Light Weight Deal Review happens when the opportunity IACV threshold is $10K and is forecasted to close this month or next month.
+- An Opportunity Consult happens when the opportunity Net ARR threshold is $20K +
+- A Light Weight Deal Review happens when the opportunity Net ARR threshold is $10K and is forecasted to close this month or next month.
 
 ### Opportunity Next Steps Best Practices
 
@@ -186,7 +186,7 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
 
 ### Opportunity-Specific Slide Deck
 
-It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB) in total amount (not iACV) will have a custom slide deck that is shared with the customer or prospect. The custom deck must be attached to the opportunity by pasting the deck link in the SalesForce field 'Link to Custom Pitch Deck' on the opportunity home page. This will enable Mid Market Account Executives and SMB Account Executives to capture critical account information. Additionally, this will facilitate selling on value rather than features.
+It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB) in total amount (not Net ARR) will have a custom slide deck that is shared with the customer or prospect. The custom deck must be attached to the opportunity by pasting the deck link in the SalesForce field 'Link to Custom Pitch Deck' on the opportunity home page. This will enable Mid Market Account Executives and SMB Account Executives to capture critical account information. Additionally, this will facilitate selling on value rather than features.
 
 #### Custom Deck Requirements
 
@@ -249,7 +249,7 @@ Within timezone (WIP), the Support team is responsible to take the lead on all i
 
 Support will take the lead on all incoming requests in the queue and only forward to the sales owner when:
 
-- There is an IACV affecting event from a **customer** -OR-
+- There is an Net ARR affecting event from a **customer** -OR-
 - There is a credit or other request which requires sales manager approval
 
 ### Salesforce Pipeline Activity
@@ -289,10 +289,10 @@ GitLab.com Trials & Subscription Management
 
 #### Close Date Conventions
 
-<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross IACV Best Case, Gross IACV Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
+<span class="colour" style="color: rgb(0, 0, 0);">First, forecasting, down to even the opportunity level, is a routine exercise for accuracy, not motivation or aspiration. Each week on Wednesday it is required to update five values in Clari by close of business (5 PM) local time.  This is Renewal Loss Best Case, Renewal Loss Best Case, Gross Net ARR Best Case, Gross Net ARR Commit, and Net 50/50.  At this time, it is required to double-check pipeline cleanliness and always follow the close date conventions listed here.</span>
 
 1. <span class="colour" style="color: rgb(0, 0, 0);">The close date should always be in the month that you believe it has the most likely chance of closing (with only one exception as dictated below).</span>
-1. <span class="colour" style="color: rgb(0, 0, 0);">At **all times** the iACV amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
+1. <span class="colour" style="color: rgb(0, 0, 0);">At **all times** the Net ARR amount should reflect your best estimate of the actual amount that the opportunity will have on it when it closes in the month reflected in the close date. There are no exceptions other than returning from an onsite visit, even if you have not spoken with the account. If you get a new opp you should quickly assess the account and, given your experience, make an educated guess on what amount the company will transact at.</span>
 1. <span class="colour" style="color: rgb(0, 0, 0);">The Stage represents where you believe the customer is in their buying process, not only the specific steps they have taken with you.</span>
 
 <span class="colour" style="color: rgb(0, 0, 0);">The three close dates:</span>
@@ -399,7 +399,7 @@ It is a requirement for the Commercial Sales Team to tier their accounts using t
 
 #### Mid-Market Account Executive Definitions for Account Ranking
 
-- Rank 1: Accounts that I am working to maximize their iACV this fiscal year.
+- Rank 1: Accounts that I am working to maximize their Net ARR this fiscal year.
 - Rank 1.5 The subset of Rank 2 that is best and trending toward being future Rank 1s.
 - Rank 2 Accounts that I am working to grow and I speak with them at least once a month.
 - Rank 3 Accounts that I keep informed about GitLab and DevOps monthly.
@@ -419,14 +419,14 @@ The GitLab partner network is ready to work with GitLab Account Executive's in o
 
 #### What are the key benefits from working with partners? 
 
-*   AEs Working with Partners for Increased Customer Value & IACV
+*   AEs Working with Partners for Increased Customer Value & Net ARR
 *   Extended reach and capabilities via Partner sales and services capacity and reach via  GitLab-trained Partner AE’s, SA’s, Engineers, and often a GitLab channel manager to coordinate/assist.   
 *   Accelerated reach to new customer logos “**_Land_**”: Partners are beginning to bring GitLab new logo opportunities via mining their customer base. In many cases, Partners already have a “trusted Partner status” with their customers, which also serves to accelerate new logo engagements. 
 *   Increased customer “**_Expand_**” success: In many cases, Partners will sell and deliver the key services called for to ensure customers get the maximum value from their GitLab technology investment and drive stage advance along with user growth.  
 *   Deployment and related services: For faster delivery and increased capacity, AEs are turning to Partners to sell and deliver these services, also TAM-like customer success services. 
 *   In the case of OPEN partners via distributors, dramatic reduction in the admin steps associated with quote-to-order process.
 
-#### How do AEs work with partners for increased customer value & IACV? 
+#### How do AEs work with partners for increased customer value & Net ARR? 
 
 GitLab has a mature Partner network with good coverage of GitLab-trained Sales and Technical resources.  There are a few ways in which AEs will work with a customer including a Partner. 
 
