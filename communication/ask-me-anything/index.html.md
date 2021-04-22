@@ -58,6 +58,10 @@ It is near impossible to be an effective facilitator while also being a particip
 - Complete the [Linkedin Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
 - Watch the purpose of Reverse AMA's Video (too come)
 
+**Current Facilitators:** 
+
+Liam McNally - Diversity, Inclusion & Belonging Partner 
+
 **Things to remember:** 
 
 - Remain impartial 
