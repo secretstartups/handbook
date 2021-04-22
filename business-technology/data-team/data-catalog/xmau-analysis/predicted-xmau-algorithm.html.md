@@ -10,13 +10,10 @@ Per [our Performance Indicators page](https://about.gitlab.com/handbook/product/
 The first proposed solution would be to calculate Predicted xMAU on a month M by applying the following formula :
 
 ```
-Predicted xMAU(Month M) = Estimated xMAU(last month) x (1 + (current MoM Growth Rate x month_difference(between last month and month M))
+Predicted xMAU(Month M) = Estimated xMAU(last month) + (current MoM Growth Amount x month_difference(between last month and month M))
 ``` 
 
-MoM growth rate is calculated as the [Compound Monthly Growth Rate (CMGR)](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) over the last 3 months with 2 exceptions:
-
-* For new counters with CMGR over 10%, we default the CMGR to 10%
-* For counters with negative CMGR, we default it to 0%.
+MoM growth Amount is calculated as the Average Monthly Absolute Growth Amount over the last quarter. and transform it into 
 
 So assuming, we have for Plan Stage a MoM growth rate of 2% and a current value of 100. We would like to calculate the Predicted SMAU in 12 Months. 
 
