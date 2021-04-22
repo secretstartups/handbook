@@ -315,7 +315,7 @@ Based on their business objectives, assess interest in learning more on theses t
 * **If Priority = vulnerabilities/risk** then use:     
    * For the security pro: [Accelerate AppSec Efficiency with the GitLab Security Dashboard](https://youtu.be/p3qt2z1rQk8)  
    * For the developer: [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)    
-   * For securing modern apps via containers: [Container security blog](https://about.gitlab.com/blog/2020/10/23/container-network-security-is-important/), Sam White, PM  
+   * For securing modern apps via containers: [Container security blog](https://about.gitlab.com/blog/2020/10/23/container-network-security-is-important/) and [deck](https://docs.google.com/presentation/d/1xLBQljc6yRtG8ENGwjX9I7LgGj-ShtjaARZPY9WbtQs/edit#slide=id.g29a70c6c35_0_68), Sam White, PM  
 
 **Milestones:** Identify key value driver, champion, and economic buyer, agree to meeting with economic buyer
 
@@ -324,10 +324,10 @@ Based on their business objectives, assess interest in learning more on theses t
 **Meeting 3** - **help them see the value**
 {: .alert .alert-gitlab-purple}
 
-Use the provided ROI framework slide to help the customer identify all of his obvious costs, now and most importantly, into the future. Show how GitLab can provide predictable costs as they scale. DO NOT lose site of the fact that our greatest differentiator is our all-in-one approach that provides all types of security scans integrated into a united UI for both dev and sec. **Be sure to include the value of this benefit along with tool costs.**
+Use the provided ROI framework slide to help the customer identify all of his obvious costs, now and most importantly, into the future. Show how GitLab can provide predictable costs as they scale. Make sure it's clear that our greatest value is our all-in-one approach that provides all types of security scans integrated into a united UI for both dev and sec. **Be sure to include the value of this benefit along with tool costs.**
 
    * [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)  
-   * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing) or from [Cherry Han](link). Please provide feedback to help us tune these models in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5096).   
+   * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing). Please provide feedback to help us tune these models in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5096). It's best to avoid this level of detail until after the POV so they can experience the value side of the equation for themselves.  
    * Ask for POV to prove value unique to this customer. 
    * Move to POV agreement steps.
 
