@@ -9,9 +9,12 @@ description: "The purpose of this page is to provide the  GitLab Sales team insi
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
 #### GitLab team members are the primary audience for this page.
 
-# **GitLab Channel Overview**
+# GitLab Channel Overview
 
 The GitLab Partner Program enables partners — including systems integrators, cloud platform partners, independent software vendors, managed service providers, resellers, distributors and ecosystem partners — to maximize customer value through the GitLab platform and their value-added GitLab and DevOps services.   Although we welcome all partners, our program is structured to provide additional rewards for partners that make a commitment and investments in a deeper GitLab relationship.
 
@@ -28,7 +31,7 @@ Additional related channel resources:
 *   [Partner Locator](https://partners.gitlab.com/English/directory/) - Enables customer and GitLab team members to find a partner in a specific geographic location and with specific services skills.
 
 
-### **Channel Value for GitLab**
+### Channel Value for GitLab
 
 The Channel is a critical part of our overall go to market strategy and are a valuable extension of the GitLab team.  Our channel partners help us scale sales, marketing and services engagement, and also help us reach new markets and decision makers.  Additionally, our partners help us:
 
@@ -38,7 +41,7 @@ The Channel is a critical part of our overall go to market strategy and are a va
 2. Drive and increase new customer ARR through their relationships, service engagements, and knowledge of accounts.
 
 
-### **How can GitLab sellers benefit from our channel partners?**
+### How can GitLab sellers benefit from our channel partners?
 
 GitLab channel partners have established sales forces that help us multiply our sales coverage. Through that coverage and deep customer relationships, partners can identify new customer opportunities and new sales opportunities with existing customers, resulting in ARR growth. Through their service offerings and vendor partnerships, they can deliver more complete solutions than GitLab can alone, and drive customer adoption of GitLab. As a result, the GitLab channel will:
 
@@ -60,7 +63,7 @@ GitLab channel partners have established sales forces that help us multiply our 
     10. Align to the AWS channel
 
 
-## **Channels Partner Types**
+## Channels Partner Types
 
 
 ### Resellers
@@ -91,7 +94,7 @@ Primary monetization is through the sale of a partner’s own GitLab and devops 
 Learn more about our Alliance partners by visiting the [Alliances](https://about.gitlab.com/handbook/alliances/)<span style="text-decoration:underline;"> Handbook page.</span>
 
 
-## **Channels Partner Tracks**
+## Channels Partner Tracks
 
 
 ### Select
@@ -115,13 +118,13 @@ Open - Resellers, integrators and other sales and services partners join the pro
 
 ### Partners can help you scale and working with them is comp neutral
 
-[Channel Neutral Compensation](https://about.gitlab.com/handbook/sales/commissions/#channel-neutral-compensation)
+[Channel Neutral Compensation](/handbook/sales/commissions/#channel-neutral-compensation)
 
-To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via discounts or rebates). More information can be found on the [compensation page](https://about.gitlab.com/handbook/sales/commissions/#channel-neutral-compensation).
+To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via discounts or rebates). More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
 
-FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](https://about.gitlab.com/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
+FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
 
-Partner Services also qualify for [FY21 Professional Services Spiff (v2)](https://about.gitlab.com/handbook/sales/commissions/#fy21-professional-services-spiff-v2). So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
+Partner Services also qualify for [FY21 Professional Services Spiff (v2)](/handbook/sales/commissions/#fy21-professional-services-spiff-v2). So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
 
 ### Maximizing value by working with Channel Partners
 
@@ -159,7 +162,7 @@ Watch the August 2020 Level Up session [Channel Partner Success for GitLab Selle
     *   Escalate to your manager
     *   No customer collisions: Strive to stay aligned \ on customer calls - take differing POVs offline
 
-### **Partner Co-selling best practices, and how Partners can help with R7 and Command plans**
+### Partner Co-selling best practices, and how Partners can help with R7 and Command plans
 
 In general Partners do not want to be told _generally_ “how to sell” but they **_do value _**tips and tricks about _selling GitLab_ (from your experience, what to watch out for, what are the effective sales motions, etc.). 
 
@@ -173,51 +176,37 @@ Partners often will have their own best practices selling methodologies in place
 *   Of course if schedules do not allow that, a brief email to the partner should also be effective. 
 
 
-### **Required 7 & Partner Co-selling**
+### Required 7 & Partner Co-selling
 
 
 <table>
   <tr>
-   <td><strong>Required component</strong>
-   </td>
-   <td><strong>Detail</strong>
-   </td>
-   <td><strong>Partner Co-selling Guidance</strong>
-   </td>
+   <td><strong>Required component</strong></td>
+   <td><strong>Detail</strong></td>
+   <td><strong>Partner Co-selling Guidance</strong></td>
   </tr>
   <tr>
-   <td><strong>Logging call notes with (ii) in the title</strong>
-   </td>
-   <td>Every verbal interaction with an account is logged.
-   </td>
-   <td>Whether AE captures directly the notes from Partner co-selling engagement calls/emails, or Chan Mgr collects and documents them separately and shares with  the AE, all call notes should be captured noting it’s ‘via the Partner’.  
-   </td>
+   <td><strong>Logging call notes with (ii) in the title</strong></td>
+   <td>Every verbal interaction with an account is logged.</td>
+   <td>Whether AE captures directly the notes from Partner co-selling engagement calls/emails, or Chan Mgr collects and documents them separately and shares with  the AE, all call notes should be captured noting it’s ‘via the Partner’.</td>
   </tr>
   <tr>
-   <td><strong>Rank/tier all of your accounts</strong>
-   </td>
-   <td>Any customer with CARR higher than 0 or any prospect with an open opportunity needs to be tiered
-   </td>
-   <td>Partner/Chan Mgr may uncover customer information that would impact a customer’s tiering. Anything they learn will be promptly shared with the AE.   
-   </td>
+   <td><strong>Rank/tier all of your accounts</strong></td>
+   <td>Any customer with CARR higher than 0 or any prospect with an open opportunity needs to be tiered</td>
+   <td>Partner/Chan Mgr may uncover customer information that would impact a customer’s tiering. Anything they learn will be promptly shared with the AE.</td>
   </tr>
   <tr>
-   <td><strong>Keep your next steps up to date</strong>
-   </td>
-   <td>Next steps must be up to date <span style="text-decoration:underline;">every day</span>
-   </td>
+   <td><strong>Keep your next steps up to date</strong></td>
+   <td>Next steps must be up to date <span style="text-decoration:underline;">every day</span></td>
    <td>To lay the foundation for success, always capture Partner tasks in the opp with a due date agreed upon by the Partner (at least a goal date). 
 <p>
 If a Partner task becomes overdue, The AE should reach out to the Partner & Channel Manager requesting an update. The Channel Manager becomes DRI to get an update from the Partner.
    </td>
   </tr>
   <tr>
-   <td><strong>Your opportunities have to be up to date</strong>
-   </td>
-   <td>$ amount, opp name, type, stage & close dates must be accurate at all times
-   </td>
-   <td>The Partner and/or Channel Manager will proactively share key learnings/updates on deals that may be useful for the AE’s potential forecast update.
-   </td>
+   <td><strong>Your opportunities have to be up to date</strong></td>
+   <td>$ amount, opp name, type, stage & close dates must be accurate at all times</td>
+   <td>The Partner and/or Channel Manager will proactively share key learnings/updates on deals that may be useful for the AE’s potential forecast update.</td>
   </tr>
   <tr>
    <td><strong>Command plans for all deals over $5k amount or $10k IACV (SMB) or $10k amount or $20k IACV (Mid-Market)</strong>
@@ -247,7 +236,7 @@ If a Partner task becomes overdue, The AE should reach out to the Partner & Chan
   </tr>
 </table>
 
-## **Partner Portal and Locator**
+## Partner Portal and Locator
 
 The GitLab Partner Portal is a resource for our channel partners that provides partners with enablement resources, as well as transaction entry and information.  On the partner portal, partners are able to access:
 
@@ -276,17 +265,17 @@ Partners that invest the effort to develop a robust partner locator presence are
 GitLab teams are able to use the Partner Locator to find partners in their region to help with specific customer opportunities with whom to develop a longer term relationship.
 
 
-## **Channel Operations**
+## Channel Operations
 
-Information on managing channel opportunities, deal registrations and other valuable information about how to work with your partners can be found on the [Channel Operations page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#welcome-to-the-channel-operations-page).
-
-
-## **Definitions**
-
-Program and incentive definitions can be found on the [Channel Operations page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions).
+Information on managing channel opportunities, deal registrations and other valuable information about how to work with your partners can be found on the [Channel Operations page](/handbook/sales/field-operations/channel-operations/#welcome-to-the-channel-operations-page).
 
 
-## **I need help! How to do I contact channel experts?**
+## Definitions
+
+Program and incentive definitions can be found on the [Channel Operations page](/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions).
+
+
+## I need help! How to do I contact channel experts?
 
 The quickest way to get help is by using the following Slack channels:
 
