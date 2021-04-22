@@ -123,7 +123,7 @@ Note: if they say they do NOT want to shift left and empower developers to find 
 
 > With GitLab Ultimate, organizations are able to truly shift security left (and right!) while keeping up with DevOps velocity. Empower developers to find and fix vulnerabilities earlier and security teams to manage risk from detection through remediation. With GitLab, the integration is done for them. No need to fit your security tools into the CI pipeline - it's already built-in! And for ONE predictable cost, even as you scale!
 
-GitLab Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance. 
+GitLab Ultimate enables IT transformation by optimizing and accelerating delivery while managing priorities, security, risk, and compliance.
 
 *Note: Everything you get in Premium plus all security scanners, vulnerability management, security and compliance dashboards, free guest users, 50,000 CI/CD minutes, a named TAM, and more…*
 
@@ -203,7 +203,7 @@ These are Sales prescriptive actions to initiate engagement with target audience
 
 **Strategy**
 
-For Enterprise and MM, sales will do active outreach to customers to engage them in conversation using the recommended email templates and conversation flow below, modifying as needed. These accounts will **not** be included in the **automated** email campaign. This allows the SALs greater control over who is contacted in their accounts, and the contacts can be more personal. 
+For Enterprise and MM, sales will do active outreach to customers to engage them in conversation using the recommended email templates and conversation flow below, modifying as needed. These accounts will **not** be included in the **automated** email campaign. This allows the SALs greater control over who is contacted in their accounts, and the contacts can be more personal.
 
 
 **ENT and MM Sales Actions**
@@ -211,15 +211,15 @@ For Enterprise and MM, sales will do active outreach to customers to engage them
 1. [ ] Review the [target list](docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602) and prioritize contacts.
 1. [ ] Familiarize yourself with context for this play (above), especially differentiators and objections
 1. [ ] Familiarize yourself with the [recommended email sequence](#recommended-email-sequence-email-templates) and next steps (below).
-1. [ ] Use the [three email templates](#recommended-email-sequence-email-templates) below to reach out to leads. 
+1. [ ] Use the [three email templates](#recommended-email-sequence-email-templates) below to reach out to leads.
    * We have provided a recommended sequence, but choose the best email to start based upon your current conversations.  
-   * Copy and paste the emails as-is into Gmail. 
+   * Copy and paste the emails as-is into Gmail.
    * Personalize it, but **do not edit the hyperlinks in the email templates.** Each one is linked to a Pathfactory track with recommended content for optimal user experience.
 1. [ ] Check your own email inbox for alerts showing which contacts have responded | (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert), [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
 1. [ ] Conduct the meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
 1. [ ] Update sales stage in SFDC.
 1. [ ] Determine the cadence for progressing to the next step based upon the initial meeting. We recommend sending the next email in the sequence after 7-10 days, even if they didn't respond to the last one sent. The flow is intended to move their thinking along even if they don't call you to discuss each one.   
-1. [ ] Repeat with next recommended email until you finish the meeting sequence, get to a POV, or to a sale. If you reach the end of the recommended emails and meetings and don't see progress, please leave feedback in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) or in slack at #gtm-ci-cd. Where are you stuck? How can we help? 
+1. [ ] Repeat with next recommended email until you finish the meeting sequence, get to a POV, or to a sale. If you reach the end of the recommended emails and meetings and don't see progress, please leave feedback in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) or in slack at #gtm-ci-cd. Where are you stuck? How can we help?
 
 
 **Small Business Accounts**
@@ -241,23 +241,23 @@ For SMB customers, we will rely on inbound responses to the marketing-generated 
 1. [ ] Update sales stage in SFDC.
 1. [ ] Determine the cadence for progressing to the next step based upon the initial meeting. We recommend sending the next email in the sequence after 7-10 days, even if they didn't respond to the last one sent. The flow is intended to move their thinking along even if they don't call you to discuss each one.   
 1. [ ] Once they click 'contact sales' on an automated email **You** must send subsequent emails manually using the templates provided. This allows you to determine the cadence and next step based upon the initial meeting. **Please use the templates** as they provide tracking links so we can alert you on their responses (and marketing can see what is most useful). You can modify the templates in Gmail to fit your unique conversations as needed.
-1. [ ] Repeat with next recommended email until you get to a POV or sale. If you reach the end of the recommended emails and meetings and don't see progress, please leave feedback in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) or in slack at #gtm-ci-cd. Where are you stuck? How can we help? 
+1. [ ] Repeat with next recommended email until you get to a POV or sale. If you reach the end of the recommended emails and meetings and don't see progress, please leave feedback in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5095) or in slack at #gtm-ci-cd. Where are you stuck? How can we help?
 
 
 ### Recommended email sequence and email templates {#recommended-email-sequence-email-templates}
 {: .alert .alert-gitlab-orange}
 
 This sequence of recommended emails is intended to move the prospect from interest to POV. Note:  
-* Marketing will be sending these emails to SMB targets generate leads. 
-* MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads. 
+* Marketing will be sending these emails to SMB targets generate leads.
+* MM and ENT Sales will choose the best email to start with based upon current conversations. Then use the template to send it to the contacts provided and any additional, to generate leads.
 
 
-1. [Email template 1](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit?usp=sharing){:target="_blank"} 
-   
+1. [Email template 1](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit?usp=sharing){:target="_blank"}
+
    Subject: **Interested in speed and security?**
 
    Offer 1: [From DevOps to DevSecOps: Automate your security tests with CI](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit#bookmark=id.7jua79vyici7)    
-       
+
 
 1. [Email template 2](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit#bookmark=id.mpc3s9pyes5e){:target="_blank"}
 
@@ -265,10 +265,10 @@ This sequence of recommended emails is intended to move the prospect from intere
 
    Offer 2: [How Chorus uses GitLab to power its development](https://learn.gitlab.com/c/chorus-gitlab?x=h7zzhf&utm_medium=email&utm_source=gmail&utm_campaign=premtoultimatesp&utm_content=choruscasestudy)
 
-1. [Email template 3](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit#bookmark=id.4dnnwki2f1vq){:target="_blank"} 
+1. [Email template 3](https://docs.google.com/document/d/1uqRa9VUqFP0GVvuiqMOczjJOo8-OAd9d2q7pa04Orow/edit#bookmark=id.4dnnwki2f1vq){:target="_blank"}
 
    Subject: **No more afterthought security**  
-   
+
    Offer 3: [Tired of afterthought security? Take a fresh look at GitLab Ultimate](https://learn.gitlab.com/c/security-features-in?x=6e4ppk&utm_medium=email&utm_source=gmail&utm_campaign=premtoultimatesp&utm_content=afterthoughtsecblog)  
 
 ## Next Steps
@@ -304,7 +304,7 @@ Use [Value Discovery](#value-discovery) above along with these recommended asset
 
 Based on their business objectives, assess interest in learning more on theses topics then schedule deep dive with your SA. (@cblake and the #s_secure slack channel can help with any questions you may have.) Identify key value driver, champion, and economic buyer.
 
-* **If Priority = speed and efficiency** then use: 
+* **If Priority = speed and efficiency** then use:
    * [Simplifying DevSecOps](https://docs.google.com/presentation/d/1qdUgIZAh3Xdcu7yK8borN77hWiQLvMwkBhepeD1hVuY/edit?usp=sharing)  
    * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)
    * [HackerOne case study](https://about.gitlab.com/customers/hackerone/)  
@@ -326,9 +326,9 @@ Based on their business objectives, assess interest in learning more on theses t
 
 Use the provided ROI framework slide to help the customer identify all of his obvious costs, now and most importantly, into the future. Show how GitLab can provide predictable costs as they scale. Make sure it's clear that our greatest value is our all-in-one approach that provides all types of security scans integrated into a united UI for both dev and sec. **Be sure to include the value of this benefit along with tool costs.**
 
-   * [Security CISO deck](https://docs.google.com/presentation/d/1toM1YIkIjLAmXMPPT3XCS-tryA8pKef6wnGe-DDp148/edit?usp=sharing) (includes ROI framework slide)  
-   * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing). Please provide feedback to help us tune these models in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5096). It's best to avoid this level of detail until after the POV so they can experience the value side of the equation for themselves.  
-   * Ask for POV to prove value unique to this customer. 
+   * [Security CISO deck](https://docs.google.com/presentation/d/1MfdWk90O9N191MNpSvp3_GuJiAPiIQWovdPoYLeDJ9M/edit?usp=sharing) (includes [value framework slide](https://docs.google.com/presentation/d/1MfdWk90O9N191MNpSvp3_GuJiAPiIQWovdPoYLeDJ9M/edit#slide=id.gca94c05912_0_1521))  
+   * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing). Please provide feedback to help us tune these models in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5096).   
+   * Ask for POV to prove value unique to this customer.
    * Move to POV agreement steps.
 
 **Milestones:** agree to next meeting  
@@ -362,14 +362,8 @@ Will have specific resources under actions above. This is for additional resourc
 
 Consider these milestones and adjust stages in SDLC as you progress.
 
-<<<<<<< sites/handbook/source/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/index.html.md
-**Milestones** (identified by sales stages and/or SDLC fields)
-
-- [ ] Gameplan with GitLab champion (Medpic)
-=======
 **Milestones** (identified by sales stages and/or SDLC fields)
 - [ ] Gameplan with GitLab champion (MEDDPPICC)
->>>>>>> sites/handbook/source/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/index.html.md
 - [ ] Meeting with Security team or other economic buyer
 - [ ] Agreement to do POV
 - [ ] POV requirements defined
