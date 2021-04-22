@@ -259,7 +259,7 @@ To delete your GitLab Learn account and related data, please [submit a ticket](h
 
 This typically means the connection is being disrupted and the sign on is not transferring from one page to the next. Try clearing your cache and cookies and attempt to click the orange Enroll button again.
 
-In addition, confirm you're using the Google Chrome preferred browser.
+In addition, confirm you're using Google Chrome, the preferred browser.
 
 If you're still facing problems, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) 
 
