@@ -12,6 +12,7 @@ description: "Learn about the GitLab Professional Services operations processes 
 
 ## Welcome to GitLab Professional Services Operations 
 Professional Services Operations is a collaboration of our consulting, training, schedululing, reporting and backend processes to support the Professional Services team.
+___
 
 #### How to contact us
 
@@ -19,11 +20,15 @@ Our Team Slack Channel [#professional-services](https://gitlab.slack.com/archive
 
 The Project Coordinators can be reached by tagging the group `@ps-scheduling`
 
+___
+
 #### Who we are
 
 [Donita Farnsworth, our Senior Consulting Project Coordinator](https://about.gitlab.com/company/team/#dfarnsworth04)
 
 [Wakae McLaurin, our Senior Training Project Coordinator](https://about.gitlab.com/company/team/#wmclaurin) 
+
+___
 
 ## Project Coordination- Consulting
 
@@ -69,6 +74,8 @@ T&M project revenue is forecasted by scheduled soft or hard allocations in the M
 Fixed priced projects are forecasted by the project milestones in the Mavenlink project.  Each milestone has a sign off task, that task is updated with correct sign off date for the activities in the milestone.  Best practice is update the sign off task to give time for the customer to review and obtain acceptance from the customer.
 If there is not confidence that the activities will be complete and the customer will sign off, then the Sign Off task should be moved out to the next quarter.
 
+___
+
 ## Project Coordination- Training
 
 #### Training Planning and Scheduling
@@ -111,7 +118,69 @@ If there is not confidence that the activities will be complete and the customer
       * After receiving the signed Training Work Authorization form, save a copy in the partner SFDC account and the Professional Services Partner Google Drive folder.
       * Update the partner Statement of Work training funds Google sheet tracker to keep track of the training dollars remaining on the Statement of Work.  Notify the Professional Services Education Services Manager when the funds are getting low so a new Statement of Work and procurement issue can be generated for additional funds.
 
+7: **Training Preparation Meeting** - Schedule a training preparation call with the customer and assigned trainers to discuss logistics, training topics, and system requirements.  After confirming the meeting date and time with the customer and trainers, send a meeting invitation to the customer, trainers, and the GitLab account team with the Professional Services Education Services Manager as an optional attendee.
+   * Create a draft of the Training Event Plan notes per the [Training Event Plan template](https://docs.google.com/document/d/1huNauyfhFPvLCuo-9T7Ol3FtBDYowYxiP_T5ItP2FN4/edit?usp=sharing) prior to the meeting and add the trainers to the document with edit rights.  You will update the document during the training planning meeting.
+   * Use the following suggested meeting name when creating the meeting invite.  
+      **GitLab Training Preparation / customer name - course name**
+   * Within the meeting description, add the applicable information per [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
+   * Post a message to the trainers in the Mavenlink project to inform them of the customer training preparation meeting confirmation and next steps.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) for your message.
+   * After the customer call, send a pdf version of the meeting notes to the customer as part of the follow-up email using the [Post-Planning example email template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing) to draft the message.
+   * Save a copy of the customer call notes to the customer Active Projects folder.
 
+ 8: **Teleconferencing Set Up** - GitLab typically prefers to use Zoom as our primary teleconferencing system.  However, we can set up Webex or MS Teams as an alternative solution based on the training requirements.
+   * If **Zoom** is the preferred teleconferencing system, then the Project Coordinator sets up the Zoom sessions per the [set up instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/). Make sure to add the trainers as alternate hosts for the sessions in order for the trainers to gain host rights for the meeting.
+   * If **Webex** is the preferred teleconferencing system, then the Project Coordinator sets up the Webex sessions per the [set up instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing).  Make sure to add the trainers as attendees for the sessions so they can add the calendar placeholders.  The trainers will need to start the meeting via GitLab's shared account to gain host rights for the meeting.  The training attendees are also typically added to the meeting invite instead of requiring registration.  
+
+9: As you work through the training scheduling and preparation tasks, update the Professional Services GitLab.com epic training checklist.   
+
+#### Training Preparation (T-1 Week)
+One week prior to the class start date, the Project Coordinator will send the following reminders and perform preparation tasks leading up to the training delivery.  
+
+1: **Registration Report** - Run the registration report approximately one week prior to the class start date, and save a copy in the PS PMO Active Project folder.
+   * **Zoom** - [Registration report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
+
+2: **Customer Reminder** - Send an email to the customer approximately 1 week prior to the class start date as a reminder for the system requirements and attach a copy of the registration report, if applicable.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) for your email message to the customer.
+
+3: **Demo Cloud Invitation Code** - Generate invitation code for the upcoming class per [these instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/delivery/#planning-and-delivering-education-services).
+
+4: **Trainer Friendly Reminders** - Post a trainer reminder message per [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) within the Mavenlink project after setting up demo cloud lab invitation code.  Make sure to @ mention the trainer within the post and link the post to the applicable Mavenlink task.
+
+#### Training Preparation (T-1 Day)
+1: **Training Roster** - Run the registration report one day prior to the class start date, and save a copy in the PS PMO Active Project folder.  Also attach a copy of the roster to the Mavenlink project and task by replying to your trainer friendly reminder post; make sure to @ mention the trainer within the post.
+   * **Zoom** - [Registration report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
+
+2: Follow up with the trainers and customers if any last minute preparations are required.
+
+#### Training Delivery
+The Project Coordinator will monitor Slack channels and emails in case any last minute triaging is required.
+
+#### Training Close-out
+Upon training delivery completion, the Project Coordinator will perform the following close-out tasks.
+
+1: **Attendance Report** - Run the attendance report, and save a pdf copy in the PS PMO Active Project folder.
+   * **Zoom** - [Attendance report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
+   * **Webex** - [Attendance report instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing)
+
+2: **Recordings** - If GitLab's teleconferencing system was used for the training, then access the recording links via the instructions below.
+   * **Zoom** - [Recording link instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
+   * **Webex** - [Recording link instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing)
+   * Add the recording link information to the Professional Services GitLab.com epic under the applicable training course checklist task.
+
+3: **Mavenlink Project** - Save a pdf copy of the attendance report to the applicable milestone, and update Mavenlink project per [these instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-process/-/issues/36).
+
+4: **Course Slide Deck** - Send a Slack message to the trainer asking if a customized or standard version of the slide deck was used during the training class.
+   * **Customized Slide Deck** - Download a pdf copy of the slide deck from the trainer and save to the Professional Services > PMO > Active Projects Google Drive folder.
+   * **Standard Slide Deck** - Download a pdf copy of the slide deck from the applicable Course Content Packages Google Drive folder, and save a copy to the Professional Services > PMO > Active Projects Google Drive folder.
+
+5: **Customer Post-Training Correspondence** - Send the post-training email with the recording links, course attendance, slide deck, lab guide, survey, and certification assessment information per the [example template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
+
+6: **GitLab.com Epic** - Update the training checklist as you complete the activities.  After all trainings per the order have been completed for _training-only orders_, go to the GitLab.com epic.  
+   * Close all issues associated with the epic.
+   * Close the epic.
+
+7: **PMO Active Projects Google Drive Folder** - After all trainings per the order have been completed for _training-only orders_, go to the Professional Services > PMO > Active Projects Google Drive folder, and move the customer subfolder to the Professional Services > PMO > Completed Projects Google Drive folder.
+
+___
 
 #### Training Projects Billing Guidelines
 
@@ -133,6 +202,8 @@ Training revenue release is followed dependant on training billing type:
 
 Training projects are typically considered fixed priced projects and are forecasted by the project milestones in the Mavenlink project.  Each milestone includes tasks for each training course that are used to capture training preparation/planning/closeout and delivery hours.  Each task is updated with the correct due date for the activities in the milestone.  Best practice is to ensure that the task due dates are updated to accurately reflect training completion dates for forecasting purposes.  
 If there is not confidence that the activities will be complete, then the task due date should be moved out to the next quarter.
+
+___
 
 ## Operations  
 
