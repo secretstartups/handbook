@@ -160,7 +160,7 @@ If you are a Sales Leader, will have additional access to the **Forecasting Tab*
       - **Open Pipeline**: Current quarter open pipeline (all stages)
 
 * **Gross ARR Attainment**
-  * * For Sales Reps who are on a Gross ARR plan, this tab reflects a consolidated view of the following details by rep:
+  * For Sales Reps who are on a Gross ARR plan, this tab reflects a consolidated view of the following details by rep:
       - **Plan**: Gross ARR Quota
       - **Closed**: Gross Won
       - **Gap to Go**: Plan minus Closed
