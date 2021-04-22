@@ -5,6 +5,7 @@ description: "Guidelines for project management for the Quality Engineering Depa
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -14,44 +15,58 @@ description: "Guidelines for project management for the Quality Engineering Depa
 
 The Quality team currently works cross-functionally and our task ownership spans multiple projects.
 
-* **GitLab.org**
-  * [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/)
-  * [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage)
-  * [GitLab](https://gitlab.com/gitlab-org/gitlab/)
-  * [GitLab CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
-  * **Quality Group**
-    * [Quality team tasks](https://gitlab.com/gitlab-org/quality/team-tasks/)
-    * [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
-    * [Nightly tests](https://gitlab.com/gitlab-org/quality/nightly)
-    * [Staging tests](https://gitlab.com/gitlab-org/quality/staging)
-    * [Canary test pipeline](https://gitlab.com/gitlab-org/quality/canary)
-    * [Production test pipeline](https://gitlab.com/gitlab-org/quality/production)
-    * [Known QA failures](https://gitlab.com/groups/gitlab-org/quality/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=bug)
+- **GitLab.org**
+  - [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa/)
+  - [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage)
+  - [GitLab](https://gitlab.com/gitlab-org/gitlab/)
+  - [GitLab CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
+  - **Quality Group**
+    - [Quality team tasks](https://gitlab.com/gitlab-org/quality/team-tasks/)
+    - [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
+    - [Nightly tests](https://gitlab.com/gitlab-org/quality/nightly)
+    - [Staging tests](https://gitlab.com/gitlab-org/quality/staging)
+    - [Canary test pipeline](https://gitlab.com/gitlab-org/quality/canary)
+    - [Production test pipeline](https://gitlab.com/gitlab-org/quality/production)
+    - [Known QA failures](https://gitlab.com/groups/gitlab-org/quality/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=bug)
+    - [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit)
+    - [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance)
 
 ### Reviewers and maintainers
 
 Upon joining the Quality department, team members are granted either developer, maintainer, or owner access to a variety of core projects. For projects where only developer access is initially granted, there are some criteria that should be met before maintainer access is granted.
 
-* [GitLab (/qa)](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
-  * Quality team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality department to help review.
-  * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
-    * Authored and reviewed 3 MRs related to improvements to the framework.
-    * Authored and reviewed 5 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
-* [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa)
-  * Authored and reviewed 5 merged MRs that demonstrate good understanding of the codebase.
-  * Reviewed 5 MRs that make substantial improvements.
-* [GitLab Triage](https://gitlab.com/gitlab-org/gitlab-triage/)
-  * Completed 5 merged MRs with all MRs reviewed by the Engineering Productivity team and resulting in no reverts.
-  * Reviewed 5 MRs.
-  * After completing the above requirement the maintainer should be vetted by an existing maintainer in the Engineering Productivity team. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 10 MRs in the issue to help aid with review.
-  * After the issue has been reviewed and approved by manager of the Engineering Productivity team, an access request will be created to grant the engineer maintainer role.
-* [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
-  * Engineers who authored and reviewed at least 10 merged MRs should be given Maintainer access.
-* [GitLab CustomersDot (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
-  * Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
-  * In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
-    * Authored and reviewed 5 MRs related to improvements to the framework.
-    * Authored and reviewed 10 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+- [GitLab (/qa)](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
+  - Quality team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality department to help review.
+  - In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
+    - Authored and reviewed 3 MRs related to improvements to the framework.
+    - Authored and reviewed 5 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+- [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa)
+  - Authored and reviewed 5 merged MRs that demonstrate good understanding of the codebase.
+  - Reviewed 5 MRs that make substantial improvements.
+- [GitLab Triage](https://gitlab.com/gitlab-org/gitlab-triage/)
+  - Completed 5 merged MRs with all MRs reviewed by the Engineering Productivity team and resulting in no reverts.
+  - Reviewed 5 MRs.
+  - After completing the above requirement the maintainer should be vetted by an existing maintainer in the Engineering Productivity team. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 10 MRs in the issue to help aid with review.
+  - After the issue has been reviewed and approved by manager of the Engineering Productivity team, an access request will be created to grant the engineer maintainer role.
+- [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops/)
+  - Engineers who authored and reviewed at least 10 merged MRs should be given Maintainer access.
+- [GitLab CustomersDot (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
+  - Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
+  - In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
+    - Authored and reviewed 5 MRs related to improvements to the framework.
+    - Authored and reviewed 10 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+- [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit)
+  - Select Quality Enablement team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please reach out to the Quality Enablement team to help review.
+  - In general, team members looking to become maintainers of this project are recommended to have a good working knowledge of [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/) and the GitLab application itself first before applying. We expect that team members will generally feel comfortable and will be granted maintainer access once they have:
+    - Authored and reviewed 10 MRs related to improvements to the toolkit.
+    - Authored and reviewed 5 MRs related to adding making substantial improvements or additions.
+  - After completing the above requirement the maintainer should be vetted by an existing maintainer for the Toolkit. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 15 MRs in the issue to help aid with review.
+- [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance)
+  - Select Quality Enablement team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please reach out to the Quality Enablement team to help review.
+  - In general, team members looking to become maintainers of this project are recommended to have a good working knowledge of performance testing in general, [k6](https://k6.io/) and the GitLab application itself first before applying. We expect that team members will generally feel comfortable and will be granted maintainer access once they have:
+    - Authored and reviewed 5 MRs related to new tests in the Tool.
+    - Authored and reviewed 3 MRs related to improvements to the Tool.
+  - After completing the above requirement the maintainer should be vetted by an existing maintainer for the Tool. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 10 MRs in the issue to help aid with review.
 
 #### Becoming a maintainer
 
@@ -127,28 +142,28 @@ This also ensures that the data rolled up to the top level board is consistent.
 
 ### Board Links
 
-* **[GitLab.org top Level board](https://gitlab.com/groups/gitlab-org/-/boards/425899)**
-   * [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa/)
-     * [`Development`](https://gitlab.com/gitlab-org/gitlab-qa/boards/2922)
-     * [`Priorities`](https://gitlab.com/gitlab-org/gitlab-qa/boards/787592)
-     * [`Scheduling`](https://gitlab.com/gitlab-org/gitlab-qa/boards/787593)
-  * [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage/)
-     * [`Development`](https://gitlab.com/gitlab-org/gitlab-triage/boards/316854)
-     * [`Priorities`](https://gitlab.com/gitlab-org/gitlab-triage/boards/788523)
-     * [`Scheduling`](https://gitlab.com/gitlab-org/gitlab-triage/boards/788524)
-  * [GitLab](https://gitlab.com/gitlab-org/gitlab/): GitLab issues with `~Quality`
-    * [`Quality: Development`](https://gitlab.com/gitlab-org/gitlab/boards/793784)
-    * [`Quality: Priorities`](https://gitlab.com/gitlab-org/gitlab/boards/793788)
-    * [`Quality: Scheduling`](https://gitlab.com/gitlab-org/gitlab/boards/793791)
-  * **[Quality group](https://gitlab.com/gitlab-org/quality)**
-    * [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/): GitLab-Triage setup
-      * [`Development`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/701857)
-      * [`Priorities`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/793763)
-      * [`Scheduling`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/793764)
-    * [Quality Tasks](https://gitlab.com/gitlab-org/quality/team-tasks) Roadmap and initiative planning
-      * [`Roadmaps`](https://gitlab.com/gitlab-org/quality/team-tasks/boards/548459)
-      * [`Initiatives`](https://gitlab.com/gitlab-org/quality/team-tasks/boards/793708)
-    * [Nightlies](https://gitlab.com/gitlab-org/quality/nightly)
-      * Use the [default board](https://gitlab.com/gitlab-org/quality/nightly/boards)
-    * [Staging](https://gitlab.com/gitlab-org/quality/staging)
-      * Use the [default board](https://gitlab.com/gitlab-org/quality/staging/boards)
+- **[GitLab.org top Level board](https://gitlab.com/groups/gitlab-org/-/boards/425899)**
+  - [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa/)
+    - [`Development`](https://gitlab.com/gitlab-org/gitlab-qa/boards/2922)
+    - [`Priorities`](https://gitlab.com/gitlab-org/gitlab-qa/boards/787592)
+    - [`Scheduling`](https://gitlab.com/gitlab-org/gitlab-qa/boards/787593)
+  - [GitLab-Triage](https://gitlab.com/gitlab-org/gitlab-triage/)
+    - [`Development`](https://gitlab.com/gitlab-org/gitlab-triage/boards/316854)
+    - [`Priorities`](https://gitlab.com/gitlab-org/gitlab-triage/boards/788523)
+    - [`Scheduling`](https://gitlab.com/gitlab-org/gitlab-triage/boards/788524)
+  - [GitLab](https://gitlab.com/gitlab-org/gitlab/): GitLab issues with `~Quality`
+    - [`Quality: Development`](https://gitlab.com/gitlab-org/gitlab/boards/793784)
+    - [`Quality: Priorities`](https://gitlab.com/gitlab-org/gitlab/boards/793788)
+    - [`Quality: Scheduling`](https://gitlab.com/gitlab-org/gitlab/boards/793791)
+  - **[Quality group](https://gitlab.com/gitlab-org/quality)**
+    - [Triage-Ops](https://gitlab.com/gitlab-org/quality/triage-ops/): GitLab-Triage setup
+      - [`Development`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/701857)
+      - [`Priorities`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/793763)
+      - [`Scheduling`](https://gitlab.com/gitlab-org/quality/triage-ops/boards/793764)
+    - [Quality Tasks](https://gitlab.com/gitlab-org/quality/team-tasks) Roadmap and initiative planning
+      - [`Roadmaps`](https://gitlab.com/gitlab-org/quality/team-tasks/boards/548459)
+      - [`Initiatives`](https://gitlab.com/gitlab-org/quality/team-tasks/boards/793708)
+    - [Nightlies](https://gitlab.com/gitlab-org/quality/nightly)
+      - Use the [default board](https://gitlab.com/gitlab-org/quality/nightly/boards)
+    - [Staging](https://gitlab.com/gitlab-org/quality/staging)
+      - Use the [default board](https://gitlab.com/gitlab-org/quality/staging/boards)
