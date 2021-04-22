@@ -765,7 +765,12 @@ To add a merch sidebar to your blog post, you need to designate it in the front 
 
 #### Merch banner
 
-Merch banners are automatically added to the end of blog posts if they are designated in the frontmatter.
+Merch banners are automatically added to the end of blog posts if they are designated in the frontmatter. Adding the following will add the 2nd Merch Banner:
+
+```
+merch_banner: merch_two
+merch_sidebar: merch_two
+```
 
 
 You can see a live example of the merchandizing in this blog post: [Introducing Resource Groups](/blog/2020/01/21/introducing-resource-groups).
