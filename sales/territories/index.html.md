@@ -207,7 +207,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
-| ANZ	|	ANZ	|	MM-APAC-ANZ	|	Ian Chiang	|
+| ANZ	|	ANZ	|	MM-APAC-ANZ	|	Jo-Ming Huang	|
 |	Asia Central	|	Asia Central	|	MM-APAC-Central Asia	|	Ishan Padgotra	|
 |	Japan	|	Japan	|	MM-APAC-Japan	|	Ian Chiang	|
 |	Asia Central	|	Pakistan	|	MM-APAC-Pakistan	|	Ishan Padgotra	|
