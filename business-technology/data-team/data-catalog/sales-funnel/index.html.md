@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "WIP Sales Funnel"
+title: "Sales Funnel"
 ---
 ## On this page
 
@@ -16,7 +16,7 @@ The Sales Funnel is a core component of GitLab's Lead to Cash process and it tra
 
 The goal of this page:
 
-* Help you understand how to navigate through the [TD: Sales Funnel - Target vs. Actual Dashboard](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
+* Help you understand how to navigate through the [TD: Sales Funnel - Target vs. Actual Dashboard](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual) and its derived dashboards.
 * Help you understand the data models used to create the TD: Sales Funnel - Targets vs. Actuals Dashboard.
 * Have you assess your understanding by taking a certification most applicable to your role at GitLab.
     * To learn more about how to use the dashboard, take the [Dashboard user certification](https://docs.google.com/forms/d/e/1FAIpQLScTU4iVXI0yw0QSDjZbznbIMmhZSs1GxCoTsVOlg1lQdgUSGg/viewform).
@@ -27,6 +27,8 @@ The goal of this page:
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Targets-vs.-Actuals" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Sales Funnel - Targets vs. Actuals Dashboard</a>
   <a href="https://www.youtube.com/watch?v=AuMV-cq04cs&feature=youtu.be" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Sales Funnel Dimensional Model and Dashboard Training</a>
+  <a href="https://app.periscopedata.com/app/gitlab/828239/TD:-Sales-Funnel-Management-View---Preloaded-Cuts" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Sales Funnel Management View - Preloaded Cuts</a>
+  <a href="https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Standard Bookings Cuts</a>
   <a href="https://www.youtube.com/watch?v=F4FwRcKb95w&feature=youtu.be" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Getting started using Sisense Discovery</a>
 </div>
 <br><br><br><br><br><br><br><br><br>
@@ -59,7 +61,7 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 Dimensions:
 
 * [Order Type](https://about.gitlab.com/handbook/sales/sales-term-glossary/#order-type-20-field-values)
-* **Opportunity Source:** How the opportunity was created.
+* **Sales Qualified Source:** How the opportunity was created.
 * **Purchase Channel:** The method in which the account purchased.
 * [GTM Strategy](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/GL4300-and-MM4000./#accounts-are-identified-in-salesforce-by-the-gtm-strategy-field-in-salesforce) 
 * **Focus Account:** These represent the accounts where our Account Based Marketing team is working closely with Sales and Field Marketing to specifically target. GTM Strategy values of Account Centric, Account Based - Net New, and Account Based - Expand GTM Strategy Accounts represent Focus Accounts.
@@ -136,7 +138,7 @@ This views takes into account the data models as seen in the Entity Relationship
 </summary>
 Let's calculate SAOs, MQLs, and pull the targets for SAOs using the Marts. You can use these queries in both Snowflkae and Sisense.
 <br>
-```
+```sql
 --select the targets for SAOs
 SELECT 
   target_month,
@@ -176,7 +178,79 @@ ORDER BY 1 DESC
 </details>
 <br>
 
+<style> #headerformat {
+background-color: #6666c4; color: black; padding: 5px; text-align: center;}
+</style>
+<h1 id="headerformat">Sales Funnel Standard Reports</h1>
+<br>
 
+<details>
+<summary markdown='span'>
+  Sales Funnel Management View - Preloaded Cuts
+</summary>
+
+The [TD: Sales Funnel Management View - Preloaded Cuts](https://app.periscopedata.com/app/gitlab/828239/TD:-Sales-Funnel-Management-View---Preloaded-Cuts) dashboard tracks the main 9 KPIs from the Sales Funnel:
+
+1. Net ARR
+1. New Logos
+1. Pipeline Created
+1. Sales Accepted Opportunities (SAO)
+1. Marketing Qualified Leads (MQLs)
+1. Trials
+1. Average Sales Price (ASP)
+1. MQLs to SAOs
+1. Win Rate
+
+The KPIs are compared to their respective targets at a quarter to date (QTD) pacing, slicing them by different dimensions. These cuts allow management to get a quick high level overview on how the business is performing across different dimensions. It answers the question of what areas of the business are on track and which need more attention.
+
+Currently, the sales management cuts are powered by the following snippets (instructions on how to use them are in the description section of the snippet):
+
+1. [main_qtd_view_sales_funnel](https://app.periscopedata.com/app/gitlab/snippet/main_qtd_view_sales_funnel/55d49d17d8cf4cc6bf976c61da2d0017/edit)
+1. [ratio_qtd_view_sales_funnel](https://app.periscopedata.com/app/gitlab/snippet/ratio_qtd_view_sales_funnel/55d5211e130f45a29a3a1562307f95d9/edit)
+
+The [sales management python module](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master/custom_modules/sales_management), along with the snippets, are used to visualize the reports in the BI layer.
+
+</details>
+
+<details>
+<summary markdown='span'>
+  Standard Bookings Cuts
+</summary>
+
+The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts) dashboard tracks the performance of Booked Net ARR against the Previous Year (Year over Year, Y/Y) and against the financial target by different dimensions.
+
+Each cut is composed of a Quarter View and a Fiscal Year View.
+
+To use the dashboard select a Fiscal Quarter in the filters and any of the options of the `Drilldown` filter. The latter selects the granularity of the `Sales Segment Drilldown` field:
+
+| Overall | Large - PubSec Breakdown | Large - Region Breakdown | Mid-Market Breakdown |
+|     --         | --           | --              | --                |
+|                |              | US East         | US East           |
+|                |              | US West         | US West           |
+|                |              | EMEA            | EMEA              |
+|                |              | APAC            | APAC              |
+|                |  Large       | Large           | Large             | 
+|                |  PubSec      | PubSec          | PubSec            |
+| Large + PubSec |              | Large + PubSec  | Large + PubSec    |
+|                |              |                 | First Order Team  |
+|                |              |                 | Territory (<500)  |       
+| Mid - Market   | Mid - Market | Mid - Market    | Mid - Market      |
+| SMB            | SMB          | SMB             | SMB               |
+| WW             | WW           | WW              | WW                |
+
+#### Key Fields and Business Logic
+
+* [ATR (Available To Renew)](https://about.gitlab.com/handbook/sales/sales-term-glossary/#available-to-renew-atr)
+* %ATR: Net ARR for a given category / subtotal ATR. E.g. when calculating %ATR for the segment SMB and growth type Contraction: `Net ARR for SMB | Contraction` / `ATR for SMB`
+* TRX: Number of opportunities
+* %MIX(ARR): Net ARR for a given category / subtotal ARR. E.g. when calculating %MIX(ARR) for the segment SMB and Deal Size 5-25k: `Net ARR for SMB | 5-25k` / `ARR for SMB`
+* % of Bookings: Net ARR for a given category / total ARR for a given quarter
+* ProServ #: Number of opportunities with a proserv_amount different from zero
+* The `US East` row shown in the sales segment drilldown field is composed of both the `East` and `LATAM` region
+* Sales segment drilldown = APAC is composed of all the regions that are not `East`, `West`, `LATAM` and `EMEA`
+* Sales segment drilldown = SMB is composed of the segment SMB plus all the segments that are not `Large` and `Mid-Market`
+
+</details>
 
 <style> #headerformat {
 background-color: #6666c4; color: black; padding: 5px; text-align: center;
