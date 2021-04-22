@@ -227,7 +227,7 @@ At GitLab, we ensure that promotions are impactful from the compensation perspec
 - Enter in all applicable fields in the form, and then submit.
     - Note: The amount entered for the pay rate should be based on the number of pay periods for the team member. For example, if the team member is in the United States, the annual salary is divided by 24 to get the pay rate to be entered. If the employee is in the Netherlands, please divide by 12.96. The divisor can be found in the "Pay Frequency" field above "Comment for the Approver(s)" in the request form. For any questions on how to fill out the form, please reach out to People Ops Analysts.
 - In the comments section please include:
-    - The promotion document
+    - The promotion document - the manager will ensure the promotion document is editable by those in the approval chain before submitting to the E-Group leader.
     - Any proposed change to variable compensation (if applicable)
     - If applicable, any business justification for an increase greater than 10% or above the compensation calculator.
 - Managers should not communicate any promotion or salary adjustment until the request has gone through the entire approval process and you receive an adjustment letter from Total Rewards Analysts.
@@ -236,8 +236,8 @@ At GitLab, we ensure that promotions are impactful from the compensation perspec
 
 This section describes the approval chain after a manager submits a promotion or compensation change request in BambooHR.
 
-1. The indirect manager will review the promotion in BambooHR.
-1. The People Business Partner (PBP) will then review the business case for promotion then they will ping the Total Rewards team to add the compensation notes (Review the [For People Business Partners](#for-people-business-partners-approving-promotions--compensation-changes) section below for details). The PBP will ensure the promotion document is editable by those in the approval chain before submitting to the E-Group leader. 
+1. The indirect manager will review the promotion in BambooHR and will ensure the promotion document is editable by those in the approval chain before approving.
+1. The People Business Partner (PBP) will then review the business case for promotion then they will ping the Total Rewards team to add the compensation notes (Review the [For People Business Partners](#for-people-business-partners-approving-promotions--compensation-changes) section below for details). The PBP will do a final check that the promotion document is editable by those in the approval chain before approving and submitting to the E-Group leader. 
 1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#promotions), job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The Total Rewards team will also add the average compa ratio for the job code to serve as an additional data points for PBPs and managers. The People Business Partner will then approve the request if applicable.
 1. The E-Group leader will review the entire proposal in BambooHR for approval. 
 1. The CFO or CEO will review the request. If there are any questions, the CFO or CEO will add a comment outlining the specific concerns and the Total Rewards team will ensure follow-up within a week to escalate to the comp group or deny the request.
