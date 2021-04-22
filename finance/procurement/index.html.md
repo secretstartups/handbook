@@ -71,7 +71,7 @@ We’re excited to announce that GitLab will be launching Coupa in June!
 
 Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, starting with the US and Netherlands. 
 
-You can learn more about Coupa in our [FAQ Page](/handbook/)
+You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/)
 
 
 ## <i class="far fa-question-circle" id="biz-tech-icons"></i> Frequently asked questions
