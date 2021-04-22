@@ -54,27 +54,50 @@ Once RVM has been installed, ensure that your updated terminal environment has b
 
 The version of Ruby that you'll need to build this website will change from time to time, but you can always check what version that is by looking at the contents of `.ruby-version` in the root of the `www-gitlab-com` directory. You can always check it [on GitLab](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version) even if you haven't yet cloned your own local copy of the repository.
 
-If `.ruby-version` specifies version `2.6.5`, you can install it with RVM like so:
+If `.ruby-version` specifies version `2.7.2`, you can install it with RVM like so:
 
-1. In a terminal, execute: `rvm install 2.6.5` to install Ruby
+1. In a terminal, execute: `rvm install 2.7.2` to install Ruby
    (enter your system password if prompted).
-1. Execute: `rvm use 2.6.5 --default` to set your default Ruby to `2.6.5`.
-1. Execute: `ruby --version` to verify Ruby is installed. You should see:
-   `ruby 2.6.5p114 (2019-10-01 revision 67812)`.
+1. Execute: `rvm use 2.7.2 --default` to set your default Ruby to `2.7.2`.
+1. Execute: `ruby --version` to verify Ruby is installed. You should see `ruby 2.7.2` included in the output:
+   `ruby 2.7.2p137 (2020-10-01 revision 5445e04352)`.
 1. Execute: `gem install bundler` to install [Bundler](http://bundler.io/).
 
 **Ruby 3 note:**
 
 We upgraded to Ruby 3.0.0 on Monday, 2021-04-26. We put together some [upgrade instructions in the MR comments, which we shared throughout Slack](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/78850#note_559337911). If you're still having issues with the Ruby 3.0.0 upgrade, please reach out via the [follow-up issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1273)
 
-## 6. Clone the source of the website and install its dependencies
+## 6. Clone the source of the website
 
-1. If you set up SSH keys previously, in terminal execute: `git clone git@gitlab.com:gitlab-com/www-gitlab-com.git` to clone the website. If you prefer using https, then execute: `git clone https://gitlab.com/gitlab-com/www-gitlab-com.git`, but note that if you've activated 2FA on your GitLab.com account, you'll need to take some additional steps to set up [personal access tokens](https://gitlab.com/profile/personal_access_tokens). If you ever want to switch between SSH and https, execute `git remote remove origin`, followed by `git remote add origin [..]` where the `[..]` is the part that starts with `git@` for SSH, or with `https:` for https.
-1. Execute: `cd www-gitlab-com` to change to the `www-gitlab-com` directory.
+There are two ways to clone this repository: `ssh` or `https`. You only need to choose one.
+
+### Clone via SSH
+
+The GitLab documentation covers how to setup SSH keys. If you haven't already done this - or aren't sure - read through the GitLab [SSH docs](https://docs.gitlab.com/ee/ssh/). When you have your SSH keys [added to your GitLab account](https://docs.gitlab.com/ee/ssh/#add-an-ssh-key-to-your-gitlab-account):
+
+1. In a terminal, execute: `git clone git@gitlab.com:gitlab-com/www-gitlab-com.git` to clone the website.
+
+### Clone via HTTPS
+
+If you prefer using https, then:
+
+1. In a terminal, execute: `git clone https://gitlab.com/gitlab-com/www-gitlab-com.git`
+
+Note that if you've activated [2FA](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) on your [GitLab.com account](https://gitlab.com/-/profile/account), you'll need to take some additional steps to set up [personal access tokens](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html) on your [GitLab.com account](https://gitlab.com/-/profile/personal_access_tokens).
+
+If you ever want to switch between SSH and https, execute `git remote remove origin`, followed by `git remote add origin [..]` where the `[..]` is the part that starts with `git@` for SSH, or with `https:` for https.
+
+## 7. Install and verify dependencies
+
+1. Execute: `cd www-gitlab-com` to change to the www-gitlab-com directory created when you cloned the repository.
 1. Execute: `bundle install` to install all gem dependencies.
-1. Install additional dependencies [Homebrew, nvm, yarn, and rbenv](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md).  If not installed, step 8 may result in an error.
+1. Install additional dependencies [Homebrew, nvm, yarn, and rbenv](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md). If not installed, step 9 may result in an error.
 
-## 7. Prevent newlines from causing all following lines in a file to be tagged as changed
+Each time you update this repository (`git pull`) new dependencies might be required. The following script will check your ruby version, bundle, and yarn and provide suggestions for updating these.
+
+1. From the `www-gitlab-com` directory, in terminal execute: `./bin/doctor`
+
+## 8. Prevent newlines from causing all following lines in a file to be tagged as changed
 
 Git is able to automatically convert line endings between `CRLF` and `LF` and vice versa. Execute the following command to configure Git to convert `CRLF` to `LF` on commit but otherwise leave line endings alone:
 
@@ -84,7 +107,7 @@ git config --global core.autocrlf input
 
 If you'd like to learn more about Git's formatting and whitespace options see the "Formatting and Whitespace" section under "[Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)" in "[Pro Git](https://git-scm.com/book/)".
 
-## 8. Preview website changes locally
+## 9. Preview website changes locally
 
 1. In a terminal, execute:
     1. Change to the directory for your site, for example: `cd sites/handbook` (see [monorepo docs](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/monorepo.md) for more details)
@@ -95,7 +118,7 @@ If you'd like to learn more about Git's formatting and whitespace options see th
    [Sublime Text 3](http://www.sublimetext.com/3) or [Atom](https://atom.io/). Use command / ctrl P to quickly open the file you need.
 1. Refresh your browser to see your changes.
 
-## 9. Test if all URL links in a page are valid
+## 10. Test if all URL links in a page are valid
 
 Until this is automated in CI, a quick way to see if there are any invalid
 links inside a page is the following.
@@ -110,7 +133,7 @@ and test again.
 
 All internal links (links leading to other parts of the website) should be relative.
 
-## 10. Start contributing
+## 11. Start contributing
 
 Most pages that you might want to edit are written in markdown [Kramdown](http://kramdown.gettalong.org/).
 Read through our [Markdown Guide](/handbook/markdown-guide/) to understand its syntax and create new content.
@@ -118,7 +141,7 @@ Read through our [Markdown Guide](/handbook/markdown-guide/) to understand its s
 Instructions on how to update the website are in the
 [readme of www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/README.md).
 
-## 11. Add yourself to the Team Page
+## 12. Add yourself to the Team Page
 
 We are happy to have you join our company and to include you in our [team page](/company/team/)! [A sync](/handbook/people-group/engineering/miscellaneous/#sync-to-team-page) will add a basic entry for you on our team page on your second day of employment at GitLab. You are invited to personalize this entry and add more information to it.
 
@@ -220,7 +243,7 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   1. Once you have verified all of the edits, click commit once more. Here, enter a short commit message including what you've changed. Choose `Create a new branch and merge request`. Choose a branch name of your choosing. Remember to name it something unique. We recommend the format *your initials-team-page-update-yourdepartment-the date* Example: `mh-team-page-update-custsupport-feb06`
   1. Fill out the merge request details and assign it to your manager for review.
 
-## 12. Edit the Handbook
+## 13. Edit the Handbook
 
 ### WebIDE, using the browser
 The Web Integrated Development Environment (IDE) is used to make changes within the browser. This method requires no setup.
