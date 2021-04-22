@@ -204,7 +204,7 @@ The [sales management python module](https://gitlab.com/gitlab-data/periscope/-/
 
 ### Standard Bookings Cuts
 
-The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts) dashboard tracks the performance booked ARR against the Previous Year (Year over Year, Y/Y) and against the financial target by different slices / cuts.
+The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts) dashboard tracks the performance of Booked Net ARR against the Previous Year (Year over Year, Y/Y) and against the financial target by different dimensions.
 
 Each slice / cut is composed of a Quarter View and a Fiscal Year View.
 
