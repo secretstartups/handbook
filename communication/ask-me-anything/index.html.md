@@ -110,7 +110,7 @@ The Reverse AMA format was launched in Sales with our [Black](https://about.gitl
 
 ## Actions and follow ups 
 
-All actions and follow up items should live in the Reverse AMA EPIC under the child EPIC for the Reverse AMA (To be Confirmed)
+All actions and follow up items should live in the [Reverse AMA EPIC](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/17) under the child EPIC for the Reverse AMA
 
 Learnings can be captured in our DIB Sharing page (link to be added when merged)
 
