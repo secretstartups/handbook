@@ -36,11 +36,12 @@ If a user cannot make use of self-serve methods (lost their account recovery cod
 
 If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
 
-While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with SSO enforce on. In these cases:
+While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
 
 1. Owner vouch is required.
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
+   - Include the paid namespace when determining the data classification level.  
 
 ### Workflow
 
