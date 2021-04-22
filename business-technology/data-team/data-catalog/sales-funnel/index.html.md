@@ -199,7 +199,7 @@ Currently, the sales management cuts are powered by the following snippets (inst
 1. [main_qtd_view_sales_funnel](https://app.periscopedata.com/app/gitlab/snippet/main_qtd_view_sales_funnel/55d49d17d8cf4cc6bf976c61da2d0017/edit)
 1. [ratio_qtd_view_sales_funnel](https://app.periscopedata.com/app/gitlab/snippet/ratio_qtd_view_sales_funnel/55d5211e130f45a29a3a1562307f95d9/edit)
 
-And the [sales management python module](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master/custom_modules/sales_management).
+The [sales management python module](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master/custom_modules/sales_management), along with the snippets, are used to visualize the reports in the BI layer.
 
 
 ### Standard Bookings Cuts
