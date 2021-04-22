@@ -362,7 +362,7 @@ Will have specific resources under actions above. This is for additional resourc
 
 Consider these milestones and adjust stages in SDLC as you progress.
 
-**Milestones** (identified by sales stages and/or SDLC fields)
+**Milestones** 
 - [ ] Gameplan with GitLab champion (MEDDPPICC)
 - [ ] Meeting with Security team or other economic buyer
 - [ ] Agreement to do POV
