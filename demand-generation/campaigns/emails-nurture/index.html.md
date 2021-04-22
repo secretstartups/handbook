@@ -292,19 +292,40 @@ The approval table below applies to non-Marketing emails.
 {: #best-practices .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+### Subject line best practices (and preview text)
+{: #best-practices-subject-lines}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+* Use subject lines to justify sending the email and connecting to a problem that the reader might have
+* Ask yourself "why would I open this email"? - include the **value proposition**
+* Keep it short and sweet - only include that is absolutely necessary
+* Try 28 to 39 characters - studies suggest this is a "sweet spot" but that is always debatable and testable 
+* Front-load - put information information **first**
+* Be specific - emphasize what the reader "gets" out of reading this email
+* Test when you can!
+* Chad White, email marketing strategist and book author created the **CUE-DIVE method**:
+   * ❏ Contextual - personalized, localized, segmented, relevant, anticipated
+   * ❏ Urgent - topical, events, deadlines, newsjacking
+   * ❏ Emotional - aspirations, happiness, anxiety, duty, fear
+   * ❏ Detailed - answers the question “what is this email about?”
+   * ❏ Intriguing - questions, curiosity, mysterious, humor, puns
+   * ❏ Visual - very long or very short, unusual spelling, emojis, unusual punctuation
+   * ❏ Earned - testimonials, reviews, endorsements, media coverage
+* SUBJECT LINES AFFECT OTHER METRICS TOO! Subject lines affect click through rates & conversions! Poor subject lines can damage the performance of future email campaigns. Do not underestimate their importance!
+* The preview text is the first sentence displayed in an email client alongside the subject line (before opening the email), don't ignore it! Some email clients show 90 characters, so there is some flexibility with length
+
 ### Email content best practices
 {: #best-practices-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-*  Email copy should be shorter and more conversion-oriented
-*  Avoid walls of text when possible
-*  Use extremely clear wording and remove words that don't provide value
-*  Minimize CTAs (calls-to-action)
-*  Take advantage of content hierarchy
-*  Use humor when it makes sense
-*  Craft compelling subject lines and employ the preview text as a complement to the subject line
-*  Focus on value-first content and CTAs. Ask yourself: "what's in it for the subscriber?"
-*  Make sure that the size of your HTML file does not exceed 102kb, otherwise gmail will truncate your email and your email will be out of compliance.
+* Email copy should be shorter and more conversion-oriented
+* Avoid walls of text when possible
+* Use extremely clear wording and remove words that don't provide value
+* Minimize CTAs (calls-to-action)
+* Take advantage of content hierarchy
+* Use humor when it makes sense
+* Focus on value-first content and CTAs. Ask yourself: "what's in it for the subscriber?"
+* Make sure that the size of your HTML file does not exceed 102kb, otherwise gmail will truncate your email and your email will be out of compliance.
 
 ### Design best practices
 {: #best-practices-design}
