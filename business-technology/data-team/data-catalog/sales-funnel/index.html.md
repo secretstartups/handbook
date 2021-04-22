@@ -138,7 +138,7 @@ This views takes into account the data models as seen in the Entity Relationship
 </summary>
 Let's calculate SAOs, MQLs, and pull the targets for SAOs using the Marts. You can use these queries in both Snowflkae and Sisense.
 <br>
-```
+```sql
 --select the targets for SAOs
 SELECT 
   target_month,
@@ -178,7 +178,16 @@ ORDER BY 1 DESC
 </details>
 <br>
 
-### Sales Funnel Management View - Preloaded Cuts
+<style> #headerformat {
+background-color: #6666c4; color: black; padding: 5px; text-align: center;}
+</style>
+<h1 id="headerformat">Sales Funnel Standard Reports</h1>
+<br>
+
+<details>
+<summary markdown='span'>
+  Sales Funnel Management View - Preloaded Cuts
+</summary>
 
 The [TD: Sales Funnel Management View - Preloaded Cuts](https://app.periscopedata.com/app/gitlab/828239/TD:-Sales-Funnel-Management-View---Preloaded-Cuts) dashboard tracks the main 9 KPIs from the Sales Funnel:
 
@@ -201,8 +210,12 @@ Currently, the sales management cuts are powered by the following snippets (inst
 
 And the [sales management python module](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master/custom_modules/sales_management).
 
+</details>
 
-### Standard Bookings Cuts
+<details>
+<summary markdown='span'>
+  Standard Bookings Cuts
+</summary>
 
 The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts) dashboard tracks the performance booked ARR against the Previous Year (Year over Year, Y/Y) and against the financial target by different slices / cuts.
 
@@ -236,6 +249,8 @@ To use the dashboard select a Fiscal Quarter in the filters and any of the optio
 * The `US East` row showed in the sales segment drilldown field is composed of both the `East` and `LATAM` region
 * Sales segment drilldown = APAC is composed of all the regions that are not `East`, `West`, `LATAM` and `EMEA`
 * Sales segment drilldown = SMB is composed of the segment SMB plus all the segments that are not `Large` and `Mid-Market`
+
+</details>
 
 <style> #headerformat {
 background-color: #6666c4; color: black; padding: 5px; text-align: center;
