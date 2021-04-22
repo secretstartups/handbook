@@ -142,6 +142,9 @@ If you are a Sales Leader, will have additional access to the **Forecasting Tab*
   * Gross ARR will be your bookings, a positive value; Renewal Loss will be for lost renewal ARR, represented by a negative value.
       * The Won column is calculated dynamically. For Managers and certain sales teams it will be the Net ARR amount while for individual reps on Gross plans, it will be the Gross ARR amount, which excludes Renewals with Negative ARR.
   * The result will be your Net ARR, which will be your official value submitted.
+  * Also note that you will see the following on this tab:
+      -**Plan**: Net ARR Quota
+      - **Net Won**: Total of Won deals in Net ARR (includes lost renewals)
 
 * **Renewal ARR**
   * This will be a read only tab. You will see your rep’s Closed Won Renewal ARR, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
