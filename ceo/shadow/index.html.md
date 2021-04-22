@@ -130,7 +130,11 @@ Considerations are cumulative and can be:
 1. You are based in APAC
 1. You belong to a GitLab Team Member Resource Group ([TMRG](/company/culture/inclusion/erg-guide/))
 
-You're also eligible if you work(ed) at an investment firm and while there helped to lead a private round in GitLab.
+If you are not a GitLab team member and you'd like to apply to the program, you are eligible if:
+1. You've work(ed) at an investment firm and while there helped to lead a private round in GitLab.
+1. A member of GitLab's Customer Advisory Board (CAB)[marketing/strategic-marketing/customer-reference-program/CAB/]
+1. A CEO of a customer or prospect company with high GitLab [LAM](https://about.gitlab.com/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) 
+1. A CEO of startup invited by an E-group member
 
 Exceptions to eligibility:
 
@@ -147,17 +151,21 @@ Shadows with scheduled rotations always have the option to delay to later in the
 Shadows who have chosen to delay their rotations until another time include:
 
 - Jarka Kosanova
-- James Ramsey
 - Liam McNally
 - Bartek Marnane
 
-### How to apply
+### How to apply if you're a GitLab Team Member
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule). Ensure the merge request description highlights how you meet the eligibility criteria (merge request examples: [Anastasia Pshegodskaya](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/43159), [Jackie Meshell](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/42958), [Philippe Lafoucrière](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/51265)).
 1. Assign your manager and ask them to approve (**but not to merge**) the merge request. Managers, please ensure the candidate meets the eligibility criteria.
 1. Assign the merge request to the [Executive Business Admin supporting the CEO](/handbook/eba/#executive-business-administrator-team), link to the merge request in the `#ceo-shadow` channel, and `@mention` the Executive Business Admin supporting the CEO in the message.
 
-Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
+Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises. 
+
+### How to apply if you're not a GitLab Team Member 
+1. Create a merge request (requires a GitLab account) to add yourself to the [rotation schedule](#rotation-schedule). Ensure the merge request description highlights how you meet the eligibility criteria and includes your email address. 
+1. Assign the merge request to the [Executive Business Admin supporting the CEO](/handbook/eba/#executive-business-administrator-team) [@cheriholmes](https://gitlab.com/cheriholmes) in the Assignee field.  Within 48hrs, the EBA will reach out to you via e-mail. 
+1. Upon approval of your application the program, you will be sent an NDA via DocuSign from the EBA or Legal department for your signature. An executed NDA is required to participate in the program. 
 
 ### Parental Participation
 
