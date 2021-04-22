@@ -51,7 +51,7 @@ See the [Command Plan](/handbook/sales/command-of-the-message/command-plan/) Han
 See the [Opportunity Stages overview](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) for more information. 
 
 ### Forecast Categories Definitions
-There are two types of categories we review when your forecasts are pushed to Clari:
+There are five types of categories we review when your forecasts are pushed to Clari:
 
 * **Closed**: Closed includes only those opportunities that are "Closed Won" only. In forecasting, Closed includes Closed Won.
 * **Commit**: Commit includes opportunities that you feel have a 95-100% probability to close in the given period as represented by the Close Date. If you do not believe it will close in that period, it should not be a Commit.  For forecasting purposes, Commit will include "Closed + Commit Deals".
@@ -132,7 +132,7 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
 
 ### Forecasting and Sales Leaders
 
-If you are a Sales Leader, will have additional access to the **Forecasting Tab** in Clari. You will see four tabs:
+If you are a Sales Leader, will have additional access to the **Forecasting Tab** in Clari. You will see the following tabs:
 
 * **ARR**
   * On this tab, you will enter your forecast for the following:
@@ -151,6 +151,21 @@ If you are a Sales Leader, will have additional access to the **Forecasting Tab*
 
 * **Pipeline Gen**
   * This will be a read only tab. You will see your rep’s total open pipeline, pipeline in stage 3+ and coverage rates for both Next Quarter and Next Quarter+1. The pipeline coverage is calculated by looking at total pipeline in a given quarter divided by quota for that same quarter.
+
+* **Net ARR Attainment**
+  * For Sales Reps who are on a Net ARR plan, this tab reflects a consolidated view of the following details by rep:
+      - **Plan**: Net ARR Quota
+      - **Closed**: Net Won
+      - **Gap to Go**: Plan minus Closed
+      - **Open Pipeline**: Current quarter open pipeline (all stages)
+
+* **Gross ARR Attainment**
+  * * For Sales Reps who are on a Gross ARR plan, this tab reflects a consolidated view of the following details by rep:
+      - **Plan**: Gross ARR Quota
+      - **Closed**: Gross Won
+      - **Gap to Go**: Plan minus Closed
+      - **Open Pipeline**: Current quarter open pipeline (all stages)
+
 
 #### Reviewing Forecasts
 
