@@ -19,12 +19,23 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Spring 2020 Lineup**
+**Summer 2021 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Apr 22 | GitLab Premium to Ultimate Sales Play Launch (tentative) | TBD |
-| Apr 29 | *No sessions during last week of the quarter* | |
+| May 6  | Channel Program Updates | Ed Cepulis |
+| May 13 | Sales Ops Update - Docusign Rollout |    Jesse Rabbits  |
+| May 20 | GitOps Infrastructure Automation Sales Play |      |
+| May 27 | Q2 FY22 Competitive Update 1 |    Aleeta Bell  |
+| Jun 3  | Incident Management |    Kevin Chu  |
+| Jun 10 | DevOps Platform Sales Play |      |
+| Jun 17 | Q2 FY22 Product Update |    Brian Glanz  |
+| Jun 24 | Q2 FY22 Competitive Update 2 |    Aleeta Bell  |
+| Jul 1  |  |  |
+| Jul 8  |  |  |
+| Jul 15  |  |  |
+| Jul 22  | *No sessions during the last two weeks of a quarter* |  |
+| Jul 29  | *No sessions during the last two weeks of a quarter* |  |
 
                                                                                                                                   
                                                                                                                                    
@@ -35,6 +46,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-04-22  | **[GitLab Premium to Ultimate Sales Playbook Launch](https://youtu.be/UY-J-SHcCC8)** | Private |
 | 2021-04-15 | **[Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://youtu.be/Pus0y34mIQA)** | Private |
 | 2021-04-08 | **[How to Avoid Common Discovery Pitfalls](https://youtu.be/04kviW1GkW4)** | Private |
 | 2021-04-01 | **[Co-Selling with AWS](https://youtu.be/dKWjSjkhyE0)**              |   Private              |
