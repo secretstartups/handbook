@@ -108,7 +108,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 ## Data Privacy
 
-The collection and usage of a customer's product usage data will be governed and managed according to our [Data Privacy Agreement](https://about.gitlab.com/privacy/) and regional data laws and regulations. 
+The collection and use of product usage data will done in accordance with the [GitLab Privacy Policy](https://about.gitlab.com/privacy/). 
 
 ## Relevant Links
 
