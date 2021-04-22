@@ -59,8 +59,11 @@ It is near impossible to be an effective facilitator while also being a particip
 - Watch the purpose of Reverse AMA's Video (too come)
 
 **Current Facilitators:** 
+Template: "Name" - "Role", **Self Identified (Optional):** 
 
-Liam McNally - Diversity, Inclusion & Belonging Partner 
+- Liam McNally - Diversity, Inclusion & Belonging Partner, **Self Identified (Optional):** CIS gender Man, Gay, Black, No Diverseabilities, Age: 31
+
+
 
 **Things to remember:** 
 
