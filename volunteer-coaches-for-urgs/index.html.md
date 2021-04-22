@@ -50,7 +50,8 @@ GitLab Contact: [Melissa Ushakov](https://gitlab.com/mushakov)
 
 | Volunteer   | Start  | End |
 |-------------|--------|-----|
-| TBD         |        |     |
+| [Melissa Ushakov](/company/team/#mushakov)      |   February 2021     |   TBD  |
+| [Chad Woolley](/company/team/#cwoolley-gitlab)     |    February 2021     |   TBD  |
 
 ### [FreeCodeCamp](https://www.freecodecamp.org/)
 
