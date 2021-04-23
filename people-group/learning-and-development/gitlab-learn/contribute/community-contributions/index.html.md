@@ -12,7 +12,7 @@ decscription: "Contribution process for wider community members"
 
 ## Contributing to GitLab Learn
 
-At GitLab, [everyone can contribute](/company/mission-and-vision/#mission). This section outlines the contributions process to the GitLab Learn LXP by members of our wider community.
+At GitLab, [everyone can contribute](/company/mission/#mission). This section outlines the contributions process to the GitLab Learn LXP by members of our wider community.
 
 ### Why contribute?
 
