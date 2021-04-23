@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Team"
-description: "The GitLab Data Team is responsible for building and operating data and analytics infrastructure to power decision making across GitLab."
+description: "The GitLab Data Team is responsible for building and operating data and analytics infrastructure to help power decision making across GitLab."
 ---
 
 ## On this page
@@ -12,79 +12,49 @@ description: "The GitLab Data Team is responsible for building and operating dat
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
+## Welcome to the Data Team Handbook
 
-## vision
-
-
+Hello and welcome the Data Team Handbook! We have a large amount of information available and to help you navigate the space, we've organized it into three major sections:
+- Analytics: if you are looking for reports, dashboards, analytics initiatives or to perform your own analysis, start with our Analytics page.
+- How We Work: if you are interested in learning about how Data works at GitLab and how we're organized, start with our [Mission](/handbook/business-technology/data-team/#mission)
+- Platform: if you are interested in learning about our tech stack, head to our [Data Platform page](/handbook/business-technology/data-team/platform).
 
 ## Mission
 
 _Deliver Results That Matter With Trusted and Scalable Data Solutions_
 
-The Data Team enables GitLab (the company) to continually improve its ability to make important decisions by ensuring we develop and operate an enterprise-grade Data Platform, consising of an Enterprise Data Warehouse (we use Snowflake), Enterprise Dimensional Model (our SSOT for mission-critical decisions), Data Visualization tool (we use SiSense), and Data Pump.
+The Data Team helps GitLab (the company) continually improve its ability to make decisions by operating and building an [Enterprise Data Platform](/handbook/business-technology/data-team/platform/#our-data-stack), helping teams improve their data capabilities through training, consultation, and support, and builds an [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw/) to support critical analysis and decision making for GTM, R&D, and G&A teams.
 
-Quality is critical to our sucess and we have defined a 3-tier strategy to provide data results depending on the 
-. To ensure tquality engine (we use Trusted Data).
+## How We Work
 
-, and GitLab SaaS users to focus on generating value for their own businesses by ensuring that we operate an enterprise-grade SaaS platform.
+The GitLab Data Program is organized in a hub-and-spoke model, with the central Data Team in Business Technology serving as the "Hub" and Center of Excellence for analytics technology, operations, and infrastructure. The "Spokes" represent each Department's "specialist" data team, such as Business Insights, Sales Analysis, Marketing Analysis, and Engineering Analysis. Because some GitLab Departments do not yet have data specialists, the central Data Team can provide limited development support. From the Spoke perspective, the central Data Team provides reliable data infrastructure, technical expertise, and high-level subject matter expertise. 
 
+```mermaid
+graph TD
+    A[FP&A Business Insights] --> C
+    B[Marketing Analytics] --> C
+    D[Sales Analytics] --> C
+    E[Product Analytics] --> C
+    F[Engineering Analytics] --> C
+    G[People Analytics] --> C
+C{Data Team}
+```
 
-## How Data Works at GitLab
+## Team Responsibilities
+
+### Central Data Team
+
+The central **Data Team** reports into Business Technology and is responsible for analytics strategy, building business-wide data models, providing self-service data capabilities, maintaining the data warehouse and data accuracy.  The Data Team is responsible for data that is defined and accessed on a regular basis by GitLab team members. The Data Team builds data infrastructure to power approximately 80% of the data that is accessed on a regular basis.
  
-GitLab Data is organized in a hub-and-spoke model, with the central Data Team serving as the "Hub" and Center of Excellence for technology and operations of Data infrastrcture. The spokes represent each Department's "specialist" data team, such as Salesti Analysis, Marketing Analysis, and Engineering Analysis. From the spoke perspective, the central Data Team provides reliable, scalable, ahd high-performance data infrastrcture, technical expertise, and high-level subject matter expertise.
+### Analytics and Business Insights
 
-GitLab has three primary distinct teams that use data to drive insights and business decisions.  These teams are complementary to one another and are focused on specific areas to drive a deeper understanding of trends in the business.  The three areas are the **Data Team**, **Business Insights**, and **analysts located in Sales, Marketing, Product, or Engineering**.
- 
-Here are how the team members divide their work and work with each other to ensure the best results:
- 
-* The **Data Team** reports into Business Technology and is responsible for analytics strategy, building business-wide data models, providing self-service data capabilities, maintaining the data warehouse and data accuracy.  The Data Team is responsible for data that is defined and accessed on a regular basis by GitLab team members. The Data Team builds data infrastructure to power approximately 80% of the data that is accessed on a regular basis.
- 
-* **Analytics and Business Insights** reports into FP&A and provides a broad view of performance across the business. Business Insights primarily work on company-wide strategic analysis and data that spans various departments – sales, marketing, product, engineering, people, and finance. To the extent this analysis leads to insights that should be produced on a regular basis, Business Insights will work with the Data team to create a self-service dashboard.  The distinction between Business Insights and the Data Team is deep dive analysis that currently doesn’t have a dashboard to drive deeper business insights with data that resides in multiple areas.
+The **Analytics and Business Insights** team reports into FP&A and provides a broad view of performance across the business. Business Insights primarily work on company-wide strategic analysis and data that spans various departments – sales, marketing, product, engineering, people, and finance. To the extent this analysis leads to insights that should be produced on a regular basis, Business Insights will work with the Data team to create a self-service dashboard.  The distinction between Business Insights and the Data Team is deep dive analysis that currently doesn’t have a dashboard to drive deeper business insights with data that resides in multiple areas.
 
-* **Sales, Marketing, Product, and Engineering Analysts**, or “Function Analysts” reside in their respective functions. These analysts perform specific analysis for data that is within the function. These analysts will build dashboards based on the centralized trusted data model for regular analysis, and will also build function-specific/ad-hoc data models to solve pressing needs. Function analysts work closely with both the Business Insights and Data Team. Function analyst team members provide requirements for new trusted data dashboards, validate metrics, and help drive prioritization of work asked of the Data Team. When data gaps are found in our business processes and source systems, the team members will provide requirements to product management, sales ops and marketing ops to ensure the source systems capture the correct data.
+### Functional Analyst Teams
+
+**Sales, Marketing, Product, and Engineering Analysts**, or “Function Analysts” reside in their respective functions. These analysts perform specific analysis for data that is within the function. These analysts will build dashboards based on the centralized trusted data model for regular analysis, and will also build function-specific/ad-hoc data models to solve pressing needs. Function analysts work closely with both the Business Insights and Data Team. Function analyst team members provide requirements for new trusted data dashboards, validate metrics, and help drive prioritization of work asked of the Data Team. When data gaps are found in our business processes and source systems, the team members will provide requirements to product management, sales ops and marketing ops to ensure the source systems capture the correct data.
 
 
-## FY22 Direction
-
-In FY22 we will work towards accomplishing more of the department vision, especially in support of continuing the successful monthly delivery of product and ongoing reliability improvements for our SaaS customers.
-We must also work to enable both currently proposed as well as expected needs to scale our infrastructure not only vertically with the existing GitLab.com service, but horizontally with multiple site implementations.
-
-To progress towards the department vision, we are focusing on:
-
-
-
-The Infrastructure Department does this by focusing on **availability**, **reliability**, **performance**, and **scalability** efforts.
-These responsibilities have cost efficiency as an additional driving force, reinforced by the properly prioritized [**dogfooding**](#dogfooding) efforts.
-
-Many other teams also contribute to the success of the SaaS platform because [GitLab.com is not a role](/company/team/structure/#gitlabcom-isnt-a-role).
-However, it is the responsibility of the Infrastructure Department to drive the ongoing evolution of the SaaS platform, enabled by platform observability data.
-
-
-
-
-## Welcome to the Data Team Handbook
-
-* Our Mission is to **Deliver Results That Matter With Trusted and Scalable Data Solutions.**
-* Read our [Direction](/handbook/business-technology/data-team/direction/) page to learn _what_ we are doing to improve data at GitLab.
-* Our [Principles](/handbook/business-technology/data-team/principles/) inform how we accomplish our mission.
-
-**Would you like to contribute? [Become a Data Champion](/handbook/business-technology/data-team/direction/data-champion/), [recommend an improvement](https://gitlab.com/gitlab-data/analytics/-/issues), [visit #data](https://gitlab.slack.com/messages/data/), [watch a Data Team video](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). We want to hear from you!**
-{: .alert .alert-success}
-
-
-
-## <i class="fas fa-info-circle" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>How We Can Help You
-
-### Self-Service Data
-
-We are actively building _[Self-Service Analytics Workflows](/handbook/business-technology/data-team/direction/self-service/)_ across our Go-To-Marketing and Product Spaces, enabling you to do more with data by yourself. Examples include [Product Geolocation Analysis](/handbook/business-technology/data-team/data-catalog/product-geolocation) and [Customer Segmentation Analysis](/handbook/business-technology/data-team/data-catalog/customer-segmentation), with more coming soon.
-
-- [Review the KPI Index](/handbook/ceo/kpis/#gitlab-kpis) to see how GitLab is performing or to [Develop a new KPI](/handbook/business-technology/data-team/kpi-index/#kpi-development).
-- [Browse the Data Catalog](/handbook/business-technology/data-team/data-catalog/index.html#data-catalog) to find ready-to-use Self-Service Analytics Workflows, Data Definitions, and Dashboards.
-- [Learn about Sisense](/handbook/business-technology/data-team/platform/periscope/) to access existing Dashboards or build your own Dashboard.
-- [Review our Data Sources](/handbook/business-technology/data-team/platform/#extract-and-load) to see data we have available for analysis.
-- [Conduct your own SQL Analysis](/handbook/business-technology/data-team/platform/#warehouse-access) with our Snowflake Data Warehouse.
-- [SheetLoad: Load spreadsheets and CSVs into our data warehouse](/handbook/business-technology/data-team/platform/#using-sheetload) that you can connect to Sisense Dashboards.
 
 ### Data Programs
 
