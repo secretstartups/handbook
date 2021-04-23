@@ -63,12 +63,11 @@ By adopting GitLab's DevOps Platform, customers may experience one or more of th
 
 | Desired Future State (“After Scenarios”) | So What? (“Positive Business Outcomes”)   |
 | ------------- |:-------------:| 
-| TBD   | TBD |
-| TBD | TBD |
-| TBD   | TBD |
-| TBD | TBD |
-| TBD   | TBD |
-| TBD | TBD |
+| Seamless collaboration across entire SDLC.   | Complete context always available to any stakeholder, resulting in less misalignment of work, less context switching, and greater ability to execute quickly and independently. |
+| No integrations to create or maintain. | Staff can spend more time creating value, rather than managing infrastructure. Increased visibility across toolchain in the absence of API "chokepoints" between tools.  |
+| End-to-end traceability from discussion, to code, to review, to test and deploy.   | Painless audits, easy-to-understand forensic analysis to improve value flow and training. |
+| Complete suite of DevSecOps functionality available out-of-the-box | Predictable costs, even as needs evolve. Users more likely to partake of security and compliance features if they are readily available.  |
+| A single application with a single UX   | Reduce training costs and ramp time, increases ability of staff to move between roles and teams |
 
 
 ### Required Capabilities  
