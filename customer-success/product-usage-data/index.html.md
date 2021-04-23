@@ -52,9 +52,8 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 - Provide efficiency through automation in both TAM-led and digitally-led engagement throughout the customer journey
 - Identify customers who are at risk of attrition or churn, as well as identify potential expansion opportunities (i.e., license and/or subscription tier)
 
-*Note: The use cases, approaches, and metrics below include current and planned use cases.* 
-
 ## Use Cases
+*Note: The use cases, approaches, and metrics below include current and planned use cases. The following are some examples of how GitLab may use product usage data. Use cases may also be dependent on customer settings or consents the customer has provided to GitLab.* 
 
 ### Lifecycle Management
 
