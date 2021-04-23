@@ -80,7 +80,7 @@ Template: "Name" - "Role", **Self Identified (Optional):**
 - Ensure that a number of voices are heard, including agenda points
 
 
-#### Scheduling an Reverse AMA
+#### Scheduling a Reverse AMA
 
 AMAs are generally coordinated, scheduled, and planned by the [Executive Business Administrator](https://about.gitlab.com/handbook/eba/) team when an E-Group member is the host. Anytime that an AMA is to be hosted by an executive, VP, or Director at GitLab, it should be arranged and scheduled by that functions EBA. AMAs of Board Members are scheduled by the Staff EBA to the CEO.
 
