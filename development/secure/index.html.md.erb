@@ -53,7 +53,7 @@ The following people are permanent members of the Secure Sub-Department:
 
 <%=  direct_team(role_regexp: /Engineer(.*)Secure:Fuzz Testing/, manager_slug: 'sethberger') %>
 
-### [Frontend Team](fe-secure)
+### [Analyzer Frontend Team](fe-secure)
 
 <%= direct_team(role_regexp: /[,&] Secure/, manager_role: 'Frontend Engineering Manager, Secure') %>
 
@@ -61,11 +61,19 @@ The following people are permanent members of the Secure Sub-Department:
 
 <%= direct_team(role_regexp: /Vulnerability Research/, manager_role: 'Manager, Vulnerability Research Engineering') %>
 
+### [Threat Insights](threat-insights)
+
+<%=  direct_team(role_regexp: /Engineer(.*)Secure:Threat Insights/, manager_slug: 'thiagocsf') %>
+
+### [Threat Insights Frontend](threat-insights)
+
+<%=  direct_team(role_regexp: /Engineer(.*)Secure:Threat Insights/, manager_slug: 'lkerr') %>
+
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Secure/, direct_manager_role: nil, other_manager_roles: ['Backend Engineering Manager, Secure:Static Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis, Secure:Fuzz Testing', 'Backend Engineering Manager, Secure:Composition Analysis', 'Frontend Engineering Manager, Secure', 'Director of Engineering, Secure']) %>
+<%= stable_counterparts(role_regexp: /[,&] Secure/, direct_manager_role: nil, other_manager_roles: ['Backend Engineering Manager, Secure:Static Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis', 'Backend Engineering Manager, Secure:Dynamic Analysis, Secure:Fuzz Testing', 'Backend Engineering Manager, Secure:Composition Analysis', 'Frontend Engineering Manager, Secure', 'Frontend Engineering Manager, Secure:Threat Insights', Backend Engineering Manager, Secure:Threat Insights, 'Director of Engineering, Secure']) %>
 
 ## Secure Team
 
@@ -341,6 +349,7 @@ As our teams focus on different areas, we have Geekbot configured to broadcast t
 1. Composition Analysis: [#g_secure-composition-analysis-standup]
 1. Static Analysis: [#g_secure-static-analysis-standup]
 1. Dynamic Analysis: [#g_secure-dynamic-analysis-standup]
+1. Threat Insights: [#g_secure_threat-insights_standup]
 1. Frontend: [#s_secure-frontend-standup]
 
 #### Recorded meetings
@@ -443,3 +452,5 @@ NB: we use to have a sub-department wide retrospective whose issues are still ac
 [#g_secure-static-analysis-standup]: https://gitlab.slack.com/archives/g_secure-static-analysis-standup
 [#g_secure-dynamic-analysis-standup]: https://gitlab.slack.com/archives/g_secure-dynamic-analysis-standup
 [#s_secure-frontend-standup]: https://gitlab.slack.com/archives/s_secure-frontend-standup
+[#g_secure_threat-insights_standup]: https://gitlab.slack.com/archives/g_secure_threat-insights_standup
+
