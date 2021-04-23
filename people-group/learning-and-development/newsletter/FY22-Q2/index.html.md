@@ -31,7 +31,7 @@ This quarter we are learning from [Christie Lenneville](/company/team/#clennevil
 
 ## Learner Spotlight   
 
-Our Learner Spotlight for this quarter is [Viktor Nagy](https://about.gitlab.com/company/team/#john_long). We would like to thank [Aric Buerer](https://about.gitlab.com/company/team/#abuerer) for nominating John! Continue reading to learn more about John and how he prioritizes learning.  
+Our Learner Spotlight for this quarter is [Viktor Nagy](https://about.gitlab.com/company/team/#nagyv-gitlab). We would like to thank [Name]() for nominating Viktor! Continue reading to learn more about Viktor and how he prioritizes learning.  
 
 * **What is your current role at GitLab?** 
    * _Viktor_: Senior Product Manager, Configure
