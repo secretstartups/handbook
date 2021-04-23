@@ -21,18 +21,11 @@ This quarter we are learning from [Christie Lenneville](/company/team/#clennevil
   <iframe width="560" height="315" src="addURL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Five Fast Facts from our Interview with Christie
+### Fast Facts from our Interview with Christie
 
-1. a
+1. What’s the best professional development resource you’ve utilized in the past year: [Executive Leadership LinkedIn Learning Course](https://www.linkedin.com/learning/executive-leadership/take-action-to-lead?u=2255073) 
 1. b
 1. c
-1. d
-1. e
-
-**Fun Facts about Christie**
-
-- a
-- b 
 
 **Is there a leader at GitLab that you want to learn more about?** To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
