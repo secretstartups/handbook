@@ -318,7 +318,9 @@ If you would like to practice presenting, you can do so using your own private Z
 
 Sharing a document is not recommended in Zoom.  Instead, participants can follow along in the document themselves.  The link to the document should be included in the meeting invite.
 
-If you share your screen (for a document despite above recomendation, for a web based application demo, for an ssh session, etc.) it is recommended that you increase the font size so that the text can easily be read by those who are farsighted.
+If you share your screen (for a document despite above recommendation, for a web based application demo, for an ssh session, etc.) it is recommended that you increase the font size so that the text can easily be read by those who are farsighted. 
+
+If you share your screen in zoom, please wait until after introductions have been completed to allow participants to see each other clearly during introductions. This is especially important during external calls when participants are meeting each other for the first time.
 
 ### Using a phone to connect to audio
 
