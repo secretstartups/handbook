@@ -15,10 +15,6 @@ description: "The page outlines the current and planned utilization of product u
 
 # Product Usage Vision Page
 
-#### Maintained by:
-
-[![David Sakamoto](https://about.gitlab.com/images/team/davidsakamoto-crop.jpg)](https://gitlab.com/dsakamoto)
-
 ## Vision
 
 Leverage product usage data (for example, license, active users, use cases, and features) from the product to:
