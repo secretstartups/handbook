@@ -234,15 +234,16 @@ Assuming that you've already been assigned a LinkedIn seat, here's how to enable
 
 **Step 1:**
 
-1. Click `•••` > `Integrations` from any page in Greenhouse
-2. Search *"LinkedIn Recruiter System Connect"* and select the result of the same name
-3. Enable the integration
+1. Click `Hi [NAME]` in the top-right corner of Greenhouse > `Account Settings`
+2. Scroll down to the **LinkedIn Recruiter System Connect** section in the right column and click `Connect`
+    * To note, if you have `Basic` access in Greenhouse, you will **not** be able to access this integration.
+3. Click `Allow` and you'll be set-up to access information seamlessly between both systems
 
 **Step 2**
 
-1. Click `Hi [NAME]` in the top-right corner of Greenhouse > `Account Settings`
-2. Scroll down to the **LinkedIn Recruiter System Connect** section in the right column and click `Connect`
-3. Click `Allow` and you'll be set-up to access information seamlessly between both systems
+1. Click `•••` > `Integrations` from any page in Greenhouse
+2. Search *"LinkedIn Recruiter System Connect"* and select the result of the same name
+3. Enable the integration
 
 If you have **not** been assigned a seat and would like one, please add your GitLab email to your LinkedIn profile and submit an [Access Request](https://gitlab.com/gl-talent acquisition/operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue using the `LinkedIn Access Request` template.
 
