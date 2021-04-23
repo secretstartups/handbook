@@ -155,7 +155,13 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 ## 4. Customer Success
 
 ### Retrospective
-**TODO: Add or link to content about what happens in this step**
+The project manager should schedule a retrospective at the end of the project. Invite the accout team (SAL, AE, TAM, SA), the delivery team (PSEs, trainers, Project Coordinators), Engagement Manager who scoped the engagement, and PS Leadership team. 
+
+The [Retrospective TEMPLATE](https://docs.google.com/document/d/1CXfnCzjF_hwapy0R-89txiFUmSmvX7jvlEqWn48zN8A/edit#heading=h.yqd5ghhhm2lh) can be used to capture notes during the meeting. 
+
+The Retrospective meeting should be run by someone that is not intimately familiar with the execution of the project (typically PS Practice Manager or Engagement Manager). During the meeting, encourage contribtions into the notes doc in real time and offer for participants to verbalize their feedback. 
+
+Toward the end of the call, gather actions and assign owners to complete those actions. 
 
 ### Success Plan (TAM)
 **TODO: Add or link to content about what happens in this step**
