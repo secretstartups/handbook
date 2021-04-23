@@ -380,7 +380,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
     * Auditing `GHP IDs` in Adaptive that are **not** in Greenhouse
         1. Go to the `GitLab Hiring Plan` tab.
         1. Insert a new column (**Column B**) and title it, `Opened?`.
-        1. Set the formula in `Opened` as follows in the row below the column header: `VLOOKUP(A5,NEWjobstatus,1,0)`.
+        1. Set the formula in `Opened` as follows in the row below the column header: `=VLOOKUP(A5,NEWjobstatus,1,0)`.
             * If the `GHP ID` matches, it exists.
             * If the cell produces a `#N/A`, it doesn't exist.
             * To note, there are situations where the requisition has closed, but it has yet to fall off the Adaptive report. In such a situation, please ping the *Recruiting Manager* for Sales.
