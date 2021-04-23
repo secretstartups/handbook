@@ -56,12 +56,33 @@ Our Learner Spotlight for this quarter is [John Long](https://about.gitlab.com/c
 
 ## Department Spotlight 
 
-This quarter's team spotlight is on the [People Business Partners](/handbook/people-group/#people-business-partner-alignment-to-division) (PBP) Team. The PBP Team has X team members that focus on xyz. 
+This quarter's team spotlight is on the [Team Member Relations](/handbook/people-group/#team-member-relations-specialist) Team. 
 
-<figure class="video_container">
-  <iframe width="560" height="315" src="addURL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+- **What is the goal of the Team Member Relations team?** 
 
+   - Team Member Relations provides all Team Members with a safe environment to discuss workplace issues.  Our main goal is to strengthen relationships and collaboration through identifying and resolving issues, and providing support, coaching and consultation during performance management/improvement efforts and interpersonal conflicts.  
+
+- **Can you run through the team & what different functions do?** 
+
+   - Currently, Team Member Relations consists of Amy Tisdale who supports Team Members in North America and David Cives who supports Team Members in EMEA and APAC.  
+  
+- **When should/do Team Members reach out to Team Member Relations?** 
+
+   - Team Members can reach out with questions related to coaching, performance management/improvement or interpersonal conflict.  The sooner we know about the concern, the sooner we can help. To learn about how to engage with the team, please review [“Discussing Private Concerns”](/handbook/people-group/#discussing-private-concerns). If you prefer to remain anonymous, you can instead report any concerns via [Lighthouse](/handbook/people-group/#how-to-report-violations). 
+
+- **When should/do people leaders reach out to Team Member Relations?** 
+
+   - People Leaders may reach out to Team Member Relations to receive coaching and guidance regarding a performance, conduct, or interpersonal concern.  Team Member Relations will discuss the situation and recommend solutions and next steps.   
+
+   - When in doubt, reach out.  Before the concern escalates, talk it through with your Team Member Relations Specialist.  
+
+- **Important handbook pages relating to Team Member Relations**
+
+   - Please review the [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist) portion of the handbook.  
+
+- **Why is it important to reach out to Team Member Relations?**
+
+   - Resolving concerns quickly and proactively helps GitLab remain an employer of choice and a success in the marketplace.  
 
 **Is there a team at GitLab you want to learn more about?** Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue](addURL) if there is a team you would like to see featured or if you would like your team to be featured! 
 
