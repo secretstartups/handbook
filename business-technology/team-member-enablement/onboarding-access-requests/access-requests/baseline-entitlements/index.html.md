@@ -39,7 +39,7 @@ The hope with the above workflow is that everyone will contribute to the creatio
 
 - The [directory `issues_templates`](https://gitlab.com/gitlab-com/team-member-epics/access-requests/tree/master/.gitlab/issue_templates) in the Access Request project is used to document the configuration and approvals for the baseline and role-based entitlements. Any changes to these approved configurations require the approval of the management groups outlined in each of the runbooks.
 
-- Role-based entitlement templates should be maintained for each role at GitLab, as required by the [Access Management Policy](https://about.gitlab.com/handbook/engineering/security/access-management-policy.html#role-based-access-control-rbac-requirements). These templates are utilized internally by Security Compliance and externally by External Auditors when assessing access management controls and procedures at GitLab.
+- Role-based entitlement templates should be maintained accordingly, based on the speicifc requirements documented in the [Access Management Policy](https://about.gitlab.com/handbook/engineering/security/access-management-policy.html#role-based-access-control-rbac-requirements). These templates are utilized internally by Security Compliance and externally by External Auditors when assessing access management controls and procedures at GitLab.
 
 #### Baseline Entitlements (All GitLab team-members):
 
@@ -96,7 +96,7 @@ The instructions below mention how to create one from scratch but read through t
 Before you get started, please keep in mind there is an approval process for adding new templates.
 The following people need to review and approve the template before it can be merged:
 
-1. The template needs to be approved by a manager and/or director from the department the role belongs to.
+1. The template needs to be approved by a manager or higher from the department the role belongs to. If the manager is creating the baseline entitlement, an explicit approval from a higher level is required to ensure the permissions included in the baseline entitlement are appropriate.
 1. The level of permission  you are requesting access to needs to be approved by the technical owner of the system. You can find a list of the technical owners of each system in our [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).
 1. If the role you are requesting access to is Admin of a system, security compliance (@gitlab-com/gl-security/security-assurance/sec-compliance) also needs to approve the request. Non-admin access doesn't need to be reviewed by Security.
 1. Once the MR has been approved by all the relevant parties, you can tag @gitlab-com/business-technology/team-member-enablement on the MR for a format review and merge.
