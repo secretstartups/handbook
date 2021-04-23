@@ -26,7 +26,8 @@ Leverage product usage data (for example, license, active users, use cases, and 
 1. Accelerate ability for customers to realize value from the GitLab platform and see delivery against desired business outcomes through a world-class customer experience
 2. Improve value, quality, and usability through data related to how customers use our product 
 3. Improve net dollar retention by efficiently retaining customers and assisting in account expansion 
-*This may also be referenced as "service data."*
+
+*Product usage data may also be referenced as "service data."*
 
 ## Benefits
 
