@@ -72,6 +72,8 @@ A fast-moving buyer alert or FMB alert is an email alert set up in Marketo to se
 
 The links in the alert will direct you to the lead or contact record in Salesforce where you can navigate to the PathFactory for Sales section to dive deeper into their content consumption journey. 
 
+The fast-moving buyer alert also triggers a global interesting moment from Marketo. 
+
 ### FAQs
 
 **Why do some of my accounts, leads, and contacts have no PathFactory engagement data in Salesforce?**
