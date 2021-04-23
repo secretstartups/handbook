@@ -49,8 +49,9 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8k1jWejojA" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
-##### Example Canvases by Stage Maturity
+####  Overview and Example Canvases by Stage Maturity
 
+* [Opportunity Canvas Overview](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas)
 * Minimal: [Translating alerts into actionable incidents is challenging](https://docs.google.com/document/d/1-sJoVFr3ND_-N3EtXUNYF6oVROfhE4rcjVqpnQd5N6U/edit#heading=h.bjrjegyjyv9f)
 * Complete: [Remote and Virtual Package Repositories](https://docs.google.com/document/d/1HxStNvY5i4Qn6c_AvhsKNV2WOEqbAivEjZqFPwhKej8/edit#heading=h.4mt5fmtn0ax4)
 * Loveable: [Plan: Project Management, Fix Groups and Projects](https://docs.google.com/document/d/1a2xuEMAsWzPK-cb_wnS9DWh9YHXZLs34Lp7jdetODR4/edit#heading=h.4mt5fmtn0ax4)
