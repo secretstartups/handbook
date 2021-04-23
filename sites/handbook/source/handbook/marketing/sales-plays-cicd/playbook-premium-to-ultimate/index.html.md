@@ -273,12 +273,12 @@ This sequence of recommended emails is intended to move the prospect from intere
 
 ## Next Steps
 
-### Meetings to get to a POV agreement
+### Meetings to get to value alignment
 {: .alert .alert-gitlab-orange}
 
 If your customer engages with emails (sent either from marketing or from yourself), the lead will come to you via email and will it show what asset they clicked on and if they clicked the 'contact us' button. Based upon this insight, and any conversations you may have had, you will want to choose where in this progression is most appropriate to begin.
 
-The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, proof of value, and ultimate purchase (pun intended)
+The following sequence is recommended to progress the customer from awareness and interest in GitLab security capabilities to consideration, agreement of solutions alignment to expected value, and ultimate purchase (pun intended)
 
 
 **Meeting 1** - **assess business objectives**
@@ -328,15 +328,16 @@ Use the provided ROI framework slide to help the customer identify all of his ob
 
    * [Security CISO deck](https://docs.google.com/presentation/d/1MfdWk90O9N191MNpSvp3_GuJiAPiIQWovdPoYLeDJ9M/edit?usp=sharing) (includes [value framework slide](https://docs.google.com/presentation/d/1MfdWk90O9N191MNpSvp3_GuJiAPiIQWovdPoYLeDJ9M/edit#slide=id.gca94c05912_0_1521))  
    * **IF** a more detailed ROI is if needed, consider one from [Darwin Sanoy](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit?usp=sharing). Please provide feedback to help us tune these models in [this issue](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/5096).   
-   * Ask for POV to prove value unique to this customer.
-   * Move to POV agreement steps.
+   * Determine if additional steps are needed for solutions alignment (e.g., additional demonstrations, hands-on workshop, POV)
+   * Do NOT push for a POV. Explore more efficient activities with the customer.  If the customer requests a POV, move to POV agreement steps.
+   
 
 **Milestones:** agree to next meeting  
 
 **Metric:** Opporunity Stage 2 - Scoping or Stage 3 - Technical Evaluation  
 
 
-### POV agreement
+### POV agreement (If POV is requested and necessary)
 {: .alert .alert-gitlab-orange}
 
 1. Define POV requirements like this (link to David Astor's SKO preso or Cherry Han's package)
