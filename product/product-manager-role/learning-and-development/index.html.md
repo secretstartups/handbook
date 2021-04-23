@@ -84,7 +84,6 @@ This content is divided into five key competencies for Product Managers.
 ##### Quick reads and videos
 
 - [Paul Adams: Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)
-- [Adopting Continuous Discovery Practices](https://youtu.be/a2HidFrzYIA) (36 min video)
 
 ##### Deeper dive
 
