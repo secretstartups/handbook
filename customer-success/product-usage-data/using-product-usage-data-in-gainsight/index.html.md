@@ -10,6 +10,8 @@ description: "Effective ways to apply product data for Sales and Customer Succes
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
+
 ---
 
 ## Purpose
