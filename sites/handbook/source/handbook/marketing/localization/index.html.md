@@ -22,19 +22,24 @@ To ensure translated content makes contextual and technical sense, we have inter
 
 Internal reviewers **are expected** to review content for accuracy and quality and identify small mistakes made by the translator. Internal reviewers **are not expected** to copyedit or rewrite documents. If the quailty of a translated document is poor and needs to be written, the reviewer should stop reading and let the requestor know that the translation is not usable and provide a reason why. The requestor should provide this feedback to the translator.
 
+**Guidlines for job requesters**
+
+1. State any specific deadlines or expected SLAs in the review request issue.
+1. Stay in communication with internal reviewer about expectations and deadlines.
+
 **Guidelines for reviewers**
 
 1. Identify copy mistakes.
 1. Identify areas where the context did not translate well and needs more attention.
 1. Identify words or phrases that should **not** be translated.
-1. If by the third second page it is clear that the translation is too poor to be used, stop reading and let the requestor know that translation is not usable and should be resumbitted.
+1. If by the second page it is clear that the translation is too poor to be used, stop reading and let the requestor know that translation is not usable and should be resumbitted.
 
 **Timeframe guideline for reviewers**
 
-1. Stay in communication with the Job Requester - if you will be delayed reviewing a job please make sure to update the job requester. 
-2. If you are tagged in a review issue along with others, please respond asap with if you have the bandwidth to take on the job. 
-3. If you have claimed a job in Smartling, please complete the review in 5 - 7 business days. Delays are fine, as mentioned above, just stay in touch with the job requester. Sometimes the job requester will need it fast than a week, if so they need to explicitly say this in the review request issue. 
-4. If you have trouble with Smartling, please put your question/issue into the slack channel: Mktgops and tag the job requester. 
+1. Stay in communication with the job requester - if you will be delayed reviewing a job please make sure to update the job requester. 
+2. If you are tagged in a review issue along with others, please respond ASAP with if you have the bandwidth to take on the job. 
+3. If you have claimed a job in Smartling, please complete the review in 5 - 7 business days. Delays are fine, as mentioned above, just stay in communication with the job requester. 
+4. If you have trouble with Smartling, please put your question/issue into the slack channel: `#mktgops` and tag the job requester. 
 
 #### Process for requesting a review
 
@@ -76,8 +81,6 @@ Please follow the below process for requesting a review but please do so at the 
 4. If it’s not claimed, campaign manager has right to assign the job to one of the reviewers on the Gitlab issue.
 5. Reviewer needs to claim the job on Smartling. Once it’s ready to review, they will get an email notification alert them that their job is ready to review
 6. Once reviewed, if ready to publish, please publish the job and update on the Gitlab review issue to let the campaign manager- it would be great if they could also let the campaign manager know the quality of the translation.
-
-
 
 ### Priority Countries
 
