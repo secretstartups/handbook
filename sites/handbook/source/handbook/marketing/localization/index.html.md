@@ -20,9 +20,9 @@ Our current localization capablities are limited due to resources and bandwidth.
 
 To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. At the moment, our internal reviewers are volunteers. We completely appreciate that this task is on top of your day job and will continue to respect that. Below are some expectations, as we will sometimes have hard deadlines to try to hit.
 
-Internal reviewers **are expected** to review content for accuracy and quality and identify small mistakes made by the translator. Internal reviewers **are not expected** to copyedit or rewrite documents. If the quailty of a translated document is poor and needs to be written, the reviewer should stop reading and let the requestor know that the translation is not usable and provide a reason why. The requestor should provide this feedback to the translator.
+Internal reviewers **are expected** to review content for accuracy and quality and identify small mistakes made by the translator. Internal reviewers **are not expected** to copyedit or rewrite documents. However, reviewers may want provide preferred translations during the review process and they are welcome to do so. If the quailty of a translated document is poor and needs to be written, the reviewer should stop reading and let the requestor know that the translation is not usable and provide a reason why. The requestor should provide this feedback to the translator.
 
-**Guidlines for job requesters**
+**Guidelines for job requesters**
 
 1. State any specific deadlines or expected SLAs in the review request issue.
 1. Stay in communication with internal reviewer about expectations and deadlines.
@@ -51,7 +51,6 @@ Internal reviewers **are expected** to review content for accuracy and quality a
 | -------- | --------- |
 | French | @k33g |
 | German | @amimmo |
-| Japanese | @toshitakaito |
 
 #### Process for requesting a review via Smartling
 
@@ -78,9 +77,9 @@ Please follow the below process for requesting a review but please do so at the 
 1. Submit job in Smartling
 2. Directly after, create a review issue and tag all the reviewers of language.
 3. Reviewers have 24-48 hours to claim the job.
-4. If it’s not claimed, campaign manager has right to assign the job to one of the reviewers on the Gitlab issue.
+4. If it’s not claimed, the job requester has right to assign the job to one of the reviewers on the Gitlab issue.
 5. Reviewer needs to claim the job on Smartling. Once it’s ready to review, they will get an email notification alert them that their job is ready to review
-6. Once reviewed, if ready to publish, please publish the job and update on the Gitlab review issue to let the campaign manager- it would be great if they could also let the campaign manager know the quality of the translation.
+6. Once reviewed, if ready to publish, please publish the job and update on the Gitlab review issue to let the job requester know - it would be great if they could also let them know the quality of the translation.
 
 ### Priority Countries
 
