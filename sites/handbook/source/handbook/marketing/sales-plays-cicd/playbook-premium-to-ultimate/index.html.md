@@ -215,7 +215,7 @@ For Enterprise and MM, sales will do active outreach to customers to engage them
    * We have provided a recommended sequence, but choose the best email to start based upon your current conversations.  
    * Copy and paste the emails as-is into Gmail.
    * Personalize it, but **do not edit the hyperlinks in the email templates.** Each one is linked to a Pathfactory track with recommended content for optimal user experience.
-1. [ ] Check your own email inbox for alerts showing which contacts have responded | (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert), [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
+1. [ ] Check your own email inbox for alerts showing which contacts have responded (Example email alerts: [Contact request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1120#white_check_mark-lead-alert), [Email offer engagement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1135#sample-alert-email))
 1. [ ] Conduct the meeting suggested below (1, 2, or 3) for the corresponding email to which they responded.
 1. [ ] Update sales stage in SFDC.
 1. [ ] Determine the cadence for progressing to the next step based upon the initial meeting. We recommend sending the next email in the sequence after 7-10 days, even if they didn't respond to the last one sent. The flow is intended to move their thinking along even if they don't call you to discuss each one.   
