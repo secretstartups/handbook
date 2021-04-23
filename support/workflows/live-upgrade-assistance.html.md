@@ -30,7 +30,7 @@ advance of the production upgrade.
    creates a support-team-meta issue using the [`Upgrade Assistance Request`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) issue template. If the customer does not have an assigned TAM, and reaches out
    to support themselves to schedule, the support engineer should ensure they have provided all necessary information and
    create this issue.
-1. The current [manager on-call](/handbook/support/on-call/index.html#manager-on-call) will act as a DRI for the issue at this moment.
+1. The current [manager on-call](/handbook/support/on-call/index.html#manager-on-call) will act as a DRI for the issue. (Confidential [upgrade request issues can be found here](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?scope=all&state=opened&label_name[]=upgrade-assistance).)
    That manager should also ping the Support Manager who will be on-call during
    the upgrade window so they can be involved in this process.
 1. The DRIs will locate a Support Engineer to review the current given info
