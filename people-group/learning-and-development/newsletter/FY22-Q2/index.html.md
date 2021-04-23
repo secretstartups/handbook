@@ -3,15 +3,13 @@ layout: handbook-page-toc
 title: FY22-Q2 Learning & Development Newsletter
 ---
 
-Welcome to the GitLab Learning & Development (L&D) newsletter! The purpose of the L&D newsletter is to enable a culture of curiosity and continuous learning that *prioritizes learning* with a [growth mindset](/handbook/values/#growth-mindset) for team members. The quarterly newsletter will raise awareness of what learning initiatives took place in the past quarter, insight into what's coming next, learning tips, and encourage participation. We will also feature leadership and learner profiles that highlight what our community has done to learn new skills. Consider this a forum to hear from others across GitLab on what learning has done for them. 
-
-You can find more information on the [structure and process](/handbook/people-group/learning-and-development/newsletter/) for the L&D newsletter, as well as links to [past L&D Newsletters](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). 
-
-WELCOMEVIDEO
-
 <figure class="video_container">
   <iframe width="560" height="315" src="addURL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
+Welcome to the GitLab Learning & Development (L&D) newsletter! The purpose of the L&D newsletter is to enable a culture of curiosity and continuous learning that *prioritizes learning* with a [growth mindset](/handbook/values/#growth-mindset) for team members. The quarterly newsletter will raise awareness of what learning initiatives took place in the past quarter, insight into what's coming next, learning tips, and encourage participation. We will also feature leadership and learner profiles that highlight what our community has done to learn new skills. Consider this a forum to hear from others across GitLab on what learning has done for them. 
+
+You can find more information on the [structure and process](/handbook/people-group/learning-and-development/newsletter/) for the L&D newsletter, as well as links to [past L&D Newsletters](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). 
 
 ## Learn from Leadership 
 
