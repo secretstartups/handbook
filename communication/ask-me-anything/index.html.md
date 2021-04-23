@@ -64,6 +64,7 @@ Template: "Name" - "Role", **Self Identified (Optional):**
 - Liam McNally - Diversity, Inclusion & Belonging Partner, **Self Identified (Optional):** CIS gender Man, Gay, Black, No Diverseabilities, Age: 31
 - Amanda Rueda - Diversity, Inclusion & Belonging Advisory Group Member, **Self Identified (Optional):** CIS gender Woman, Age: 45
 - Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman
+- Carol Teskey - Senior Director, People Success, **Self Identified (Optional):** CIS gender woman
 
 
 **Things to remember:** 
