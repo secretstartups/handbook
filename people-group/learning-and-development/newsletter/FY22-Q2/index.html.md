@@ -114,11 +114,9 @@ If you want to learn more on this topic, see the [Managing Underperformance](/ha
 
 ## Learning Spotlight 
 
-More ways you can continue to learn throughout the quarter: 
+Skill of the Month launched in April and will continue thorughout FY22. April's skill of the month was Managing Stress, you can still find the courses and resources recommended for this topic in the [Skill of the Month (FY22) Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) on GitLab Learn. The May skill of the month is **Effective Communication**. 
 
-walk-and-learn 
-
-Skill of the Month 
+You can do two things at once by taking a course from the Skill of the Month recomendation and participate in the Walk and Learn initiative. If you aren't intersted in any of the courses for skill of the month. Join the [#walk-and-learn]() Slack channel to see what other things your peers are learning about. 
 
 ## Learning Tips 
 
