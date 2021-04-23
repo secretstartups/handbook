@@ -41,7 +41,7 @@ Occasionally an AMA might be held for a smaller audience. It is encouraged for a
 - The E-Group member or EBA will create an issue (template to follow) tagging the [TMRG Leads](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) or a nominated facilitator for a non-tmrg AMA (facilitator group to be determined), a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), and Stella Treas (Chief of Staff)
 - The TMRG Leads will consult with the TMRG membership and accept or reject the request. If accepted the TMRG leads will provide an ideal timeframe for the AMA, ideally within 4 weeks from the date of the request.  
 - Once accepted the EBA will provide a series of times that are suitable
-- The E-Group member or EBA will ensure that there is a a Reverse AMA facilitator for the session. (Guidance to follow)
+- The E-Group member or EBA will ensure that there is a a Reverse AMA facilitator for the session. (Facilitator Group link to follow)
 - The EBA will create a calendar invite and Agenda for the agreed time
 
 #### Team Member Initiated
@@ -53,10 +53,15 @@ Occasionally an AMA might be held for a smaller audience. It is encouraged for a
 - The team member will work the EBA to ensure an agenda and facilitator are in place. 
 
 #### Reverse AMA Facilitators
-It is near impossible to be an effective facilitator while also being a participant.  So if you have been identified as a facilitator but would rather participate in the conversation, we encourage you to ask one of your designated facilitator team members (list tbc) to take your place.
+It is near impossible to be an effective facilitator while also being a participant.  So if you have been identified as a facilitator but would rather participate in the conversation, we encourage you to ask one of your designated facilitator team members (Facilitator Group link to follow) to take your place.
 
-- Complete the [Linkedin Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
-- Watch the purpose of Reverse AMA's Video (too come)
+Before facilitating a session, all facilitators will complete the following steps: 
+1. Complete the [Linkedin Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
+1. Complete the LinkedIn Learning Empathy Training (link to follow)
+1. Watch the purpose of Reverse AMA's Video (too come)
+1. Shadow a current faciliator when they are running and AMA
+1. Be shadowed by a current facilitator in your first AMA 
+
 
 **Current Facilitators:** 
 Template: "Name" - "Role", **Self Identified (Optional):** 
