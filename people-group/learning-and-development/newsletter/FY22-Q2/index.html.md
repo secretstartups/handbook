@@ -90,7 +90,16 @@ This quarter's team spotlight is on the [Team Member Relations](/handbook/people
 
 Our L&D team will have a variety of learning initiatives throughout the quarter to help reinforce our culture of learning. 
 
-* Samatha will train as a Crucial Conversations trainer 
+* Crucial Conversations 
+   * Samatha will train as a Crucial Conversations trainer 
+   * We plan to deliver the training to one group this quarter 
+* [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#skill-of-the-month) 
+   * May - Effective Communication
+   * June - Coaching 
+   * July - Culture of Feedback 
+* [Manager Challenge Program (May)](/handbook/people-group/learning-and-development/manager-challenge/)
+* [Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/)
+* Develop Learning Hubs in GitLab Learn
 
 **Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
 
