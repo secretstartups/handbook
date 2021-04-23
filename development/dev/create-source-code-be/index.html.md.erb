@@ -68,9 +68,17 @@ To ensure we are living our iteration value consistenly, we should be intentiona
 1. EM will work with engineers to decide distribution of work and assign issues for breakdown.
 1. Engineers will evaluate the issue, work with PM, UX, and engineering where necessary to address questions and concerns.
 1. If the planned implemntation of the issue can be further broken down, the engineer will work with the PM to reduce scope and create new issues until this is the case (either PM or engineer can create new work items).
-1. When the planned implementation of the issue is in its smallest form, the engineer will provide a weight. EM or PM will mark as `workflow::ready for development`.
+1. When the planned implementation of the issue is in its smallest form, the engineer will provide a weight. EM or PM will mark as `workflow::ready for development`.asdf
 
-An important conclusion of this process is that the entire group ensures we are following over convention over configuration principle.
+### Convention over configuration
+
+As stated in our direction, we must place special emphasis on our [convention over configuration](https://about.gitlab.com/direction/create/source_code_management/#critical-product-principles) principle. As the feature set within Create:Source Code grows, it may feel natural to solve problems with configuration. To ensure this is not the case, we must intentionally challenge MVC and new feature issues to check for this. Let's consider the following steps for best results:
+
+1. Once issues have been labeled as `workflow::needs issue review` PM will share the proposal with either a peer or their manager and optionally with engineering.
+
+1. Peers in product and engineering who review the issue should look for opportunities to eliminate configuration where possible. If opportunities are identified, the issue is moved back to `workflow::issue refinement`.
+
+1. If PM and peers are satisfied with the proposal and it follows our convention over configuration principle as much as possible, those who reviewed the issue indicate their agreement with the proposal (with either 👍 or a comment in the issue). Finally, PM will label issue `workflow:: ready for development`.
 
 ### Collaborating with counterparts
 
