@@ -11,12 +11,12 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 ### Add Artifacts to Your Pipeline 
 1. In the GitLab Demo Cloud, locate your CICD Demo project from previous labs and open it.
 2. Click on your gitlab-ci.yml file and click the **Edit** icon. 
-3. In another tab, locate the [ci-artifacts](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training/gitlab-cicd-hands-on-demo/-/snippets/1693)** code snippet and click the **Copy File Contents** icon in the upper right corner of the file.  
+3. In another tab, locate the **ci-artifacts** code snippet and click the **Copy File Contents** icon in the upper right corner of the file.  
 4. Return to your CICD Demo project and place your cursor in the last line in the body of your .gitlab-ci.yml file and ***paste the contents of the ci-artifacts code snippet***. 
 5. In the Commit Message field, type **“adding CI artifacts”** and click the **Commit Changes** button. 
 
 ### Add a Main.Go File
-1. Navigate to the [Hands On Demo Project](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training/gitlab-cicd-hands-on-demo)
+1. Navigate to the Hands On Demo Project
 2. Click on the main.go file in the repository to open it. 
 3. Click the **Copy file contents** button in the upper right hand corner of the file. 
 4. Navigate back to your GitLab CICD Demo Project and click the **New File** button

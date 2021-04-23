@@ -9,7 +9,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 ## LAB 9- SECURITY SCANNING
 
 1. In the GitLab Demo Cloud, locate your CICD Demo project from previous labs and open it.
-2. In a seperate tab, open the [ci-sast snippet](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training/gitlab-cicd-hands-on-demo/-/snippets/1695) and click the **Copy file contents** icon. 
+2. In a seperate tab, open the **ci-sast snippet** and click the **Copy file contents** icon. 
 3. Return to your CICD Demo project opened in your other tab and open the gitlab-ci.yml file. 
 4. Click the **Edit** icon and **paste the contents of the snippet at the end of the file.**
 5. In the Commit Message field, enter  “**enable sast**” -> **Commit to Master Branch**. 
