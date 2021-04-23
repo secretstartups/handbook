@@ -9,17 +9,7 @@ title: Secure Sub-Department
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The secure engineering sub-department is responsible for most of the [secure stage](/handbook/product/categories/#secure-stage) of the product. (One portion of the secure stage (threat insights) is a responsibility of the [Threat Management](/handbook/engineering/development/threat-management/) engineering sub-department).
-
-``` mermaid
-erDiagram
-    Secure-Stage ||--|{ Static-Dynamic-Composition-Fuzz-And-Vuln-Research-Groups : contains
-    Static-Dynamic-Composition-Fuzz-And-Vuln-Research-Groups }|--|| Secure-Department : reports-to
-    Protect-Stage ||--|| Container-Security-Group : contains
-    Threat-Insights-Group  ||--|| Threat-Management-Department: reports-to
-    Container-Security-Group ||--|| Threat-Management-Department : reports-to
-    Secure-Stage ||--|| Threat-Insights-Group  : contains
-```
+The Secure engineering sub-department is responsible for the [Secure Stage](/handbook/product/categories/#secure-stage) of the product.
 
 ## Vision
 
@@ -142,10 +132,6 @@ If you are submitting an issue about a Secure Stage feature, use `~devops::secur
 <% end %>
 
 Additional labels should be added according to the [Workflow Labels Documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#workflow-labels).
-
-#### Delineate Secure and Threat Management
-
-It is important to delineate who the EM and PM DRIs are for every functionality, especially where this may not be obvious. It is documented on a dedicated [delineation page](../threat-management/delineate-secure-threat-management.html).
 
 #### Skills
 
