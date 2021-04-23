@@ -387,7 +387,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
     * Auditing `GHP IDs` in Greenhouse that are **not** in Adaptive
         1. Go to the `[GH] Job Status - Open + Draft` tab.
         1. Insert a new column at the end (**Column U**) and title it, `Opened?`.
-        1. Set the formula in `Opened` as follows in the row below the column header: `VLOOKUP(A5,GHP,1,0)`.
+        1. Set the formula in `Opened` as follows in the row below the column header: `=VLOOKUP(A5,GHP,1,0)`.
             * If the `GHP ID` matches, it exists.
             * If the cell produces a `#N/A`, it doesn't exist.          
 
