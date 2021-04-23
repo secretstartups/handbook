@@ -31,26 +31,28 @@ This quarter we are learning from [Christie Lenneville](/company/team/#clennevil
 
 ## Learner Spotlight   
 
-Our Learner Spotlight for this quarter is [John Long](https://about.gitlab.com/company/team/#john_long). We would like to thank [Aric Buerer](https://about.gitlab.com/company/team/#abuerer) for nominating John! Continue reading to learn more about John and how he prioritizes learning.  
+Our Learner Spotlight for this quarter is [Viktor Nagy](https://about.gitlab.com/company/team/#john_long). We would like to thank [Aric Buerer](https://about.gitlab.com/company/team/#abuerer) for nominating John! Continue reading to learn more about John and how he prioritizes learning.  
 
 * **What is your current role at GitLab?** 
-   * _John_: 
+   * _Viktor_: Senior Product Manager, Configure
 * **How long have you been a GitLab team member?** 
-   * _John_: 
+   * _Viktor_: Since 2019-09-02
 * **How do you make time for learning in your normal day-to-day?** 
-   * _John_: 
+   * _Viktor_: I am up for learning almost all day and if a learning opportunity finds me, I try to grab it. Moreover, living in Europe allows me to start work around 10 and only rarely have meetings before 13:00. As a result, when I have a longer term, more demanding learning project (let it be a book or a course), I can easily set up time for it in my morning and early work hours.
 * **Why do you make learning a priority?** 
-   * _John_: 
+   * _Viktor_: Why not? To me learning is not about the profession or about career, but about what I want. Thankfully, I love my job a lot, as a result, I don’t mind learning related things either, but I really approach the topic from the point of view of my basic motivations and aspirations. I learn because I want something. I want to build a better world.
 * **What is your preferred learning style? (Different learning styles - Visual: You prefer using pictures, images, and spatial understanding. Auditory: You prefer using sound and music. Kinesthetic: You prefer using your body, hands and sense of touch. Reading/Writing: You prefer using words, both in speech and writing.)** 
-   * _John_: 
+   * _Viktor_: I have learned that the brain is actually a locomotor organ, and the best way to develop our brain is together with movement. Sometime this is hard (“how to add movement to the jobs to be done theory?”), but even then I can take a walk, and discuss the topic with someone. Beyond that I try to speak/write about everything that I have learned or even during the process, this allows me to think through and understand the topic much better, and I can get feedback about my understanding and opinion too. Finally, as I approach learning from my personal motivations, I try to put everything into practice. The most exciting part of this is making philosophy a practice!
+* **Have you taken advantage of GitLab’s [Growth & Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/)? If so, what program/course have you completed or what conference(s) have you attended?** 
+   * _Viktor_: Yes, multiple times. I took part in product management related training, got reimbursed on book costs, and even hired an English teacher to improve my grammar.
 * **Have you recently completed a course? If so, which course (or courses) did you complete and why?** 
-   * _John_: 
+   * _Viktor_: I’m currently participating in a [Game Theory course from Coursera](https://www.coursera.org/learn/game-theory-1/home/welcome). I have learned advanced Game Theory during my PhD, and this is actually just a refresher for me. I have a theory that I would like to model properly to be able to publish it in a scientific journal, and I need to polish my game theory and math knowledge for that. 
 * **Do you have a favorite or recommended course for others?** 
-   * _John_:  
+   * _Viktor_: Only in Hungarian. I think that learning always starts with oneself, and the best way to avoid all the crap in this realm is to focus on the amazing wisdom of philosophy. There is an outstanding Hungarian research institute with philosophy classes that I would recommend to everyone, Fontanus Központ.
 * **What advice would you give someone who is struggling to make learning a priority?** 
-   * _John_: 
+   * _Viktor_: Ask yourself what do you want? Then check if your daily routine is aligned with your aspirations, and fix your life. Learning might be part of it or not.
 * **Anything else you would like to share about learning?**
-   * _John_: 
+   * _Viktor_: One of the biggest philosophers I know about is Socrates, from Ancient Greece, apparently he said that “an unexamined life is not worth living”. Learning provides the tools to examine our lives.
 
 **Do you know a team member that places an emphasis on learning?** To nominate someone for our Learner Spotlight for our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfi72ONbp8UcUXDCL__TPAoCEEGH4K_9i1-ZQN7yh_YzlVx0w/viewform). 
 
