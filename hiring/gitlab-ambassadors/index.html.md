@@ -17,7 +17,7 @@ description: "Keeping with our mission that everyone can contribute, we want all
 It's an exciting time to be part of the GitLab team. As we continue to grow, our goal is to create and foster a culture of talent acquisition across the company.
 
 Whether you're a hiring manager or an individual contributor, you play an important role in this.
-Keeping with [our mission](/company/mission-and-vision/#mission) that everyone can contribute, we want all GitLab team members to feel encouraged and equipped to take part in helping us find great talent and act as ambassadors for the company and our talent brand.
+Keeping with [our mission](/company/mission/#mission) that everyone can contribute, we want all GitLab team members to feel encouraged and equipped to take part in helping us find great talent and act as ambassadors for the company and our talent brand.
 
 Here are a few key things you can do to become a **talent ambassador for GitLab.**
 
