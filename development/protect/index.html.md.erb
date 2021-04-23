@@ -1,0 +1,85 @@
+---
+layout: handbook-page-toc
+title: Protect sub-department
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+The Protect engineering sub-department is responsible for the [Protect Stage](/handbook/product/categories/#protect-stage) of the product.
+
+
+## Vision
+
+Protect our users' applications, services, and infrastructure from the ever-evolving threat landscape.
+
+## Sub-department development people leaders
+
+
+<%=
+departments = ['Protect']
+department_regexp = /(#{Regexp.union(departments)})/
+
+direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Sec')
+%>
+### Backend
+
+<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security') %>
+
+### Frontend
+
+<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Frontend Engineering Manager, Secure:Threat Insights, Protect:Container Security') %>
+
+## Open-source projects
+
+The Protect uses and [contributes](https://gitlab.com/gitlab-org/protect/general/-/blob/master/README.md#outgoing-mrs) to a number of open source projects including:
+* [Kubernetes](https://kubernetes.io/)
+* [ModSecurity Web Application Firewall](https://modsecurity.org/)
+* [OWASP ModSecurity Web App Firewall Rule Set](https://owasp.org/www-project-modsecurity-core-rule-set/)
+* [Cilium Network Policies for Kubernetes](https://github.com/cilium/cilium)
+* [Falco Cloud-Native runtime security](https://falco.org/)
+* [AppArmor operating system and application policies](https://gitlab.com/apparmor/apparmor/-/wikis/home)
+
+
+## Skills
+
+Because we have a wide range of domains to cover, it requires a lot of different expertises and skills:
+
+| Technology skills  | Areas of interest         |
+| -------------------|---------------------------|
+| Ruby on Rails      | Backend development       |
+| Go                 | Backend development       |
+| Vue, Vuex          | Frontend development      |
+| GraphQL            | _Various_                 |
+| SQL (PostgreSQL)   | _Various_                 |
+| Docker/Kubernetes  | Threat Detection          |
+| Network Security   | Container network security |
+| Host Security      | _Various_                 |
+
+
+## Engineering Refinement & Planning
+
+We are constantly iterating on our [planning process](./planning/) as a team. To maximize our velocity and meet our deliverables, we follow a [refinement process for all issues](./planning/#refinement).
+
+
+### Product Documentation Links
+
+* [Network Policies with Cilium](https://docs.gitlab.com/ee/topics/autodevops/#network-policy)
+* [Install Cilium Network Policies](https://docs.gitlab.com/ee/user/clusters/applications.html#install-cilium-using-gitlab-cicd)
+* [Install Falco](https://docs.gitlab.com/ee/user/clusters/applications.html#install-falco-using-gitlab-cicd)
+* [Install AppArmor](https://docs.gitlab.com/ee/user/clusters/applications.html#install-apparmor-using-gitlab-cicd)
+* [Configure Pod Security Policies](https://docs.gitlab.com/ee/user/clusters/applications.html#using-podsecuritypolicy-in-your-deployments)
+* [Security Dashboard](https://docs.gitlab.com/ee/user/application_security/security_dashboard/)
+* [Vulnerability Pages](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/)
+* [Security scanner integration](https://docs.gitlab.com/ee/development/integrations/secure.html)
+* [Securing your deployed applications](https://docs.gitlab.com/ee/user/project/clusters/securing)
+* [Secure and Protect terminology](https://docs.gitlab.com/ee/user/application_security/terminology/)
+
+### Slack
+
+* [Stage #s_protect](https://gitlab.slack.com/archives/s_protect)
+* [Group #g_protect_container_security](https://gitlab.slack.com/archives/CU9V380HW)
+
