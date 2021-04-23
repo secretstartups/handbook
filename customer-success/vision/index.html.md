@@ -13,6 +13,14 @@ description: "Create a company-wide customer success approach, providing an enga
 
 _"Customer Success is when customers achieve their desired outcome through interactions with your company with the appropriate experience."_ - Lincoln Murphy
 
+## Objective
+
+Create a company-wide customer success approach, providing an engagement framework for the Customer Success organization and integrating related programs and operations from GitLab operations (i.e., marketing, sales, customer success, product / engineering and support).
+
+## Goals
+
+Deliver faster time-to-value and customer-specific business outcomes with a world class customer experience, leveraging the full capabilities of the GitLab application. Increase net dollar retention as well as lifetime value (LTV).
+
 ## High-Level Visual of Customer Journey
 
 [Video Introduction to Customer Journey and Process Framework](https://youtu.be/LIroDgZOWLc)
@@ -27,13 +35,9 @@ _"Customer Success is when customers achieve their desired outcome through inter
 The following shows the high-level view of the capabilities that we will be developing as mature our customer success team, processes and systems. [A pdf version for viewing.](images/gitLab_customer_success_capabilities_roadmap.pdf)
 ![GitLab Capabilities Roadmap](images/capabilities-roadmap.jpeg)
 
-## Objective
+## Product Usage Data 
 
-Create a company-wide customer success approach, providing an engagement framework for the Customer Success organization and integrating related programs and operations from the GitLab operations (i.e., marketing, sales, customer success, product / engineering and support).
-
-## Goals
-
-Deliver faster time-to-value and customer-specific business outcomes with a world class customer experience, leveraging the full capabilities of the GitLab application. Increase average Incremental Annual Contract Value (IACV) as well as Life-Time Value (LTV).
+Product usage data is key to driving customer and GitLab outcomes by providing visibility to customers' adoption of licenses, use cases, and capabilities. For more about how we use and plan to use this data, please see our ["Product Usage Data Vision" page](/handbook/customer-success/product-usage-data/). 
 
 ## Lifecycle Stages
 
