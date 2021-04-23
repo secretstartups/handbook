@@ -236,7 +236,7 @@ Assuming that you've already been assigned a LinkedIn seat, here's how to enable
 
 1. Click `Hi [NAME]` in the top-right corner of Greenhouse > `Account Settings`
 2. Scroll down to the **LinkedIn Recruiter System Connect** section in the right column and click `Connect`
-    * To note, if you have `Basic` access in Greenhouse, you will **not** be able to access this integration.
+    * If you have `Basic` permissions in Greenhouse, you will **not** be able to access this integration.
 3. Click `Allow` and you'll be set-up to access information seamlessly between both systems
 
 **Step 2**
