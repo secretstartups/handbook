@@ -73,7 +73,7 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 |-------------------------------------------------------------------------------------------------------|----------------------|---------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Height-adjustable desk](/company/culture/all-remote/workspace/#desks)                                | $300 - $500          | $500                | 10/10      | We use our desks everyday and need them to be ergonomic and adjustable to our size and needs, whether that is sitting or standing.                                                                                                                                                                                                                                    |
 | [Ergonomic chair](/company/culture/all-remote/workspace/#chairs)                                      | $200 - $400          | $400                | 10/10      | We use our desk chairs hours at a time, and need them to be healthy, supportive, and comfortable.                                                                                                                                                                                                                                                                     |
-| [Headphones (wired or wireless, with mic ability)](/company/culture/all-remote/workspace/#headphones) | $100                 | $100                | 10/10      | We use our headphones everyday during our [meetings](/company/culture/all-remote/meetings/), to connect with our fellow team members. We need our headphones to be comfortable, functional, and great quality.                                                                                                                                                        |
+| [Headphones (wired or wireless, with mic ability)](/company/culture/all-remote/workspace/#headphones) | $100                 | $100                | 10/10      | We use our headphones everyday during our [meetings](/company/culture/all-remote/meetings/), to connect with our fellow team members. We need our headphones to be comfortable, functional, and great quality. Due to low audio quality we do not reimburse air-pods.                                                                                                                                                       |
 | [External monitor](/company/culture/all-remote/workspace/#monitors)                                   | $380                 | $380                | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health.                                                                                                                                                                                                                                                    |
 | [Keyboard](/company/culture/all-remote/workspace/#external-keyboard-and-mouse)                        | $250                 | $250                | 10/10      | Find a keyboard that works for you and is comfortable for your workflow and hand size.                                                                                                                                                                                                                                                                                |
 | [Mouse or Trackpad](/company/culture/all-remote/workspace/#external-keyboard-and-mouse)               | $80 or $145          | $145                | 10/10      | Find a mouse/trackpad that works for you and is comfortable for your workflow.                                                                                                                                                                                                                                                                                        |
@@ -329,7 +329,7 @@ Slack channel
 
 ## Non-reimbursable Expenses:
 
-Examples of things we have not reimbursed:
+Examples of things we do not reimburse:
 1. Costume for the party at the end of Contribute.
 1. Boarding expense for animals while traveling.
 1. Headphones costing $800 which were found to be in excess of our standard equipment guidelines.
@@ -344,6 +344,7 @@ Examples of things we have not reimbursed:
 1. Treadmill Desks
 1. Portable Air Conditioners
 1. Home Power Generators 
+1. Air-pods
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 
