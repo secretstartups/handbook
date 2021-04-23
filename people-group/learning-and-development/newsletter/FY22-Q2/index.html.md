@@ -154,4 +154,4 @@ There are plenty of courses on GitLab Learn as well as LinkedIn Learning that yo
 
 ## Discussion 
 
-If you would like to discuss items related to this newsletter, please see the [related discussion issue](addURL).
+If you would like to discuss items related to this newsletter, please see the [related discussion issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/10).
