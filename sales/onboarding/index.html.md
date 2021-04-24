@@ -23,12 +23,11 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 *  [SQS Workshop](https://about.gitlab.com/handbook/sales/onboarding/SQS-workshop/)
 *  [Graduating from Sales Onboarding](https://about.gitlab.com/handbook/sales/onboarding/graduating-SQS/)
 
-
 ## Upcoming Sales Quick Start (SQS) Workshops
 
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
-| Dec 02 - Dec 11, 2020 | AMER | Virtual | [issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/567) | 
+| May 2021 (exact dates TBD) | AMER | Virtual | issue (coming soon) | 
 
 
 ## Swag for New Sales Team Members
