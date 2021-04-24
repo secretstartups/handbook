@@ -19,7 +19,7 @@ description: "The page outlines the current and planned utilization of product u
 
 Leverage product usage data (for example, license, active users, use cases, and features) from the product to:
 
-1. Accelerate customers' realization of value from the GitLab platform through delivery against desired business outcomes with a world-class customer experience
+1. Accelerate customers' realization of value from the GitLab platform and delivery to desired business outcomes with a world-class customer experience
 2. Improve value, quality, and usability through data related to how customers use our product 
 3. Improve net dollar retention by efficiently retaining customers and assisting in account expansion 
 
