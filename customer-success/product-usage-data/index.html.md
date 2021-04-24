@@ -19,7 +19,7 @@ description: "The page outlines the current and planned utilization of product u
 
 Leverage product usage data (for example, license, active users, use cases, and features) from the product to:
 
-1. Accelerate ability for customers to realize value from the GitLab platform and see delivery against desired business outcomes through a world-class customer experience
+1. Accelerate customers' realization of value from the GitLab platform through delivery against desired business outcomes with a world-class customer experience
 2. Improve value, quality, and usability through data related to how customers use our product 
 3. Improve net dollar retention by efficiently retaining customers and assisting in account expansion 
 
@@ -70,7 +70,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 - In alignment with a customer's goals, the adoption of the customer's desired use cases will be monitored and used to drive engagement activities based on product usage data. Depending on the adoption progress, resulting actions could be:
   - TAM may provide enablement content (product documentation, educational videos, etc.), guidance on best practices and approaches, key capabilities to adopt, and/or services to ensure successful adoption.
-  - TAM engages with customer to understand if there are any issues or blockers with the customer (for example, training or enablement gaps, change management delays, technical issues, configuration problems, etc.). Depending on the issue, support and/or product may be engaged to assist the customer.
+  - TAM engages with customers to understand if there are any issues or blockers with the customer (for example, training or enablement gaps, change management delays, technical issues, configuration problems, etc.). Depending on the issue, support and/or product may be engaged to assist the customer.
   - In a digital-only engagement, relevant content could be delivered to the customer (for example, best practices, configuration guides, education/enablement videos) based on the customer's usage data.
   - When mature adoption of desired use case(s) is complete, we may recommend additional use cases or capabilities that would provide added value to the customer. 
 - The customer's product usage may indicate there are capabilities in a higher subscription tier that may provide additional value to the customer. This would be proposed by the TAM, sales representative, or digitally. 
@@ -79,7 +79,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 - The quality of key engagement processes and playbooks like onboarding, adoption, and expansion will be measured by usage data to determine if changes drive desired improvements with customer adoption. Some objects may include: 
   - Accelerating time-to-value and time to mature adoption of use cases
-  - Improving speed or sequence of adopting features and capabilties
+  - Improving speed or sequence of adopting features and capabilities
   - Improving customer experience and satisfaction
   - Improving the success rates at expanding into new use cases
 
@@ -105,7 +105,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 ## Data Privacy
 
-The collection and use of product usage data will done in accordance with the [GitLab Privacy Policy](https://about.gitlab.com/privacy/). 
+The collection and use of product usage data will governed in accordance with the [GitLab Privacy Policy](https://about.gitlab.com/privacy/). 
 
 ## Relevant Links
 
