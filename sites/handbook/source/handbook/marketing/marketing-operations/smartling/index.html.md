@@ -54,6 +54,7 @@ Smartling is our localization platform that is used to translate pages on our we
 1. **Account Owner:** Highest level of permissions. Manages the translation process from capture to delivery, including all account and project setting administration, as well as all users across all projects under the account.
 1. **Project Manager:** Manages the translation process from capture to delivery within a particular project, including settings and users. The `Project Manager` needs to be given access to specific projects to be able to see and modify anything in that project. `Account Owners` can add `Project Managers`. `Project Managers` can add additional `Project Managers` to the projects they have access to.
 1. **Requester:** Can upload files and request translations in any of the languages available in the project that they have been given access to. Monitors jobs after they have been authorized, using a limited view of the Smartling dashboard. To add `Requesters`, the `Requester` Portal feature must be enabled for your account. 
+1. **Translation Resource** Translates, edits, or reviews content. Only has visibility into workflow steps and languages they have been given access to.
 
 See more details on [Smartling's help article](https://help.smartling.com/hc/en-us/articles/115003066573-User-Permissions) regarding user permissions. 
 
@@ -65,6 +66,8 @@ See more details on [Smartling's help article](https://help.smartling.com/hc/en-
 1. Russian
 1. Italian
 1. Spanish (LATAM)
+1. Portuguese (Brazilian)
+1. Korean
 
 ## Translation Costs and SLAs
 

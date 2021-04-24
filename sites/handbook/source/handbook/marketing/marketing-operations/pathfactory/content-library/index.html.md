@@ -16,7 +16,7 @@ The content library is where all your uploaded assets are stored and tagged in P
 
 ### Before uploading content
 
-1. Use the search to determine if it’s already been added. Be thorough, as the asset could also have a different URL. If you try to add a file or URL that's already in the library, the system will tell you it already exists. 
+1. Use the search to determine if it’s already been added. Be thorough, as the asset could also have a different URL. If you try to add a file or URL that's already in the library, the system will tell you it already exists. For example, uploading `https://about.gitlab.com/customers/extra-hop-networks/` and `https://about.gitlab.com/customers/extra-hop-networks` would be considered different URLs and both would be uploaded to the library (note the trailing `/`). 
 1. Ensure you have the most valuable version of the asset (blog post vs. case study or PDF).
 1. Ensure you have the most recent version of the asset.
 1. Follow the [blog style guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
@@ -254,6 +254,12 @@ Industry verticals are set using a standard list in SFDC per [this issue](https:
 1. Infra Engineering Director
 1. Vice President Infrastructure and Operations
 1. Program Manager
+
+### Business Unit
+
+1. CI/CD
+1. DevOps Platform
+1. GitOps
 
 ### Blocked Content from Third-Party Web Pages
 
