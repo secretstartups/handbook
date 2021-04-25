@@ -53,6 +53,15 @@ Once the entity of the chosen candidate has been determined and the CES team has
 1. Once the offer package has been approved in Greenhouse and the recruiter has given the verbal offer, go to the candidate's profile in Greenhouse. Verify the address is listed on the details tab. If the address is not listed you can locate it on the background check, or in the reference request email reply.
 1. If necessary click Edit Profile to update the candidate's name to their legal name (given during the reference/background check stage) and list any preferred names in quotes as the first name. Legal names are required on contracts and for proper export to Bamboo HR.
 1.  Update signatory and entity by clicking "Update" under Offer Details. Add signatory name and title, as well as entity based on candidate's location.
+1. Next you'll need to update the signatory's permissions to ensure we're able to send the DocuSign contract to them.
+    - Navigate to `Job Setup` at the top of the page.
+    - Click `Hiring Team` on the left handside toolbar.
+    - Navigate down to the search bar located underneath `Who can see this job?`
+    - Search the signatory's name
+    - Click the pencil to trigger the dropdown list of permissions
+    - Select `Job Admin: Job Approver`
+    - Click `Save`
+    - Navigate back to the Offer Details on the candidate profile and continue next steps
 1. Scroll to the section "Offer Documents" and click "Generate". Then click in the box and select from the options the appropriate template for the team member's entity, employment/contractor status, full-time or part-time, and any applicable bonuses. An example is `GitLab Inc full-time, with variable bonus/commission`. Then click "Generate". It will now populate and .docx and .pdf files under the "Offer Documents" section. Download the pdf and preview it to ensure everything populated correctly. If there are any token errors (i.e. problems with the information pulling from the candidate's profile and into the contract), Greenhouse will notify you. Most likely, if that happens it is because a field in the candidate profile is not accurately filled in. Once you fix the error, you'll need to "Regenerate" the contract.
 1. Next, click "Send with DocuSign" right below the offer documents. You will need to have first connected your Greenhouse account with your DocuSign account by going to the integrations tab in Greenhouse.
 1. Choose the correct template according to country, or if no country template is available select `Offer through DocuSign`. In the "To User" field, choose the GitLab signatory for the contract. In the "CC" field, add the recruiter and the hiring manager. Then click "Preview on DocuSign".
