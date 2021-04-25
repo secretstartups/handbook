@@ -71,7 +71,7 @@ The CES team operates off of a queue style system with differing levels of prior
    - After the 3rd email to candidate with no response, the CES will make the Recruiter aware of the no response and no longer attempt to receive availability
    - Note: Greenhouse reminders should be set for "Coordinator" not a specific person
 - After availability is received, CES will schedule interviews based on the interview plans in Greenhouse
-   - CES will be using the Zoom integration with Greenhouse for interviews
+   - CES will be using the Zoom integration with [Interview Schedule](https://about.gitlab.com/handbook/hiring/interview-schedule/) for interviews
 - If the candidate is an internal candidate, the CES will tag Talent Acquisition Ops and Insights in the GH profile to merge while candidate is still in the Team Interview stage.
 - CES will [send interview confirmations via Guide](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#using-the-candidate-guide)
 - CES will not automatically schedule next interviews based off of scorecards
