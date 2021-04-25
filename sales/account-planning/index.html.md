@@ -13,7 +13,7 @@ title: "Account Planning"
 
 An account plan is a document or record that contains important details about a customer or prospect, including information about the organization's business, strategic objectives, mission-critical priorities, goals and motivations, competitive landscape, pertinent technology stack details, key contacts and relationship maps, and your strategy and action plan over varying time horizons (6 months, 12 months, 18 months) to establish and expand a mutually beneficial, long-term strategic relationship. 
 
-Think about account planning as if you were the CEO of your own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps you analyze and execute on your business with a specific account.  
+Think about account planning as if you were the CEO of your own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps you analyze and execute on your business with a specific account.  Like a CEO, you need your leadership team to effectively plan for your account. Be sure to leverage your Solutions Architect, Technical Account Manager, and Channel Partners as you strategize and build your plan! 
 
 ## Why Account Planning?
 
