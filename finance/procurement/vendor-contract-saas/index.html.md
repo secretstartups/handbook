@@ -18,30 +18,28 @@ title: Vendor Contract Issue Process
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-## <i class="fas fa-check-circle" id="biz-tech-icons"></i> For Software < $25K?
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I create a Purchase Request for Software under $25K?
 If the software is a new request, a renewal or add-on under $25K:
 
-1. Create a Requisition in Coupa.
-      - Review the [How to Create a Requisition in Coupa]() page first.
+1. Create a Requisition in Coupa to begin the process.
+      - Check the [How to Create a Requisition in Coupa]() page for a detailed walkthrough guide.
 
 ### How do I request approval for a Software Purchase < $25K?
 
-1. Create a Requisition in Coupa to begin the process.
-1. Create the requisition **BEFORE** agreeing to business terms and/or pricing.
-1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+1. After the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+   - Create the requisition **BEFORE** agreeing to business terms and/or pricing.
 
-## <i class="fas fa-check-circle" id="biz-tech-icons"></i> For Software > $25K?
-If the software you are requesting is greater than $25K:
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I create a Purchase Request for Software over $25K?
+If the software is a new request, a renewal or add-on greater than $25K:
 
 1. A Vendor Contract Request issue needs to be created using [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) to begin the process.
 
 ### How do I request approval for a Software Purchase > $25K?
 
-1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) to begin the process.
-1. Create this issue **BEFORE** agreeing to business terms and/or pricing.
-1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+1. After the Vendor Contract Request issue is opened, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+   - Create the issue **BEFORE** agreeing to business terms and/or pricing.
 
-### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Software Vendor Purchase Request Process
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Software Vendor Purchase Request issue
 Review the [Prior to Contacting Procurement](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/) page first.
 
    * **NEW VENDOR:** Once you've narrowed your vendor selection process to your final one or two vendors, open the [Software Vendor Contract Request Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request). Let your vendor(s) know they will need to follow the procurement process to finalize the necessary decision making and approval processes. If your contract requires a negotiation, allow for 2-6 weeks to complete all steps in the process which includes internal review, cost analysis, negotiation alignement, negotiation, and contract review and approval. Note this is a rough guideline and not an exact SLA, exact timing depends on the completeness and clarity of business needs. Note the procurement team cannot begin negotiations without all necessary information. If you have specific deadlines please identify those in the due date of the issue and/or in the comment field.
