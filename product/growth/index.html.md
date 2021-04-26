@@ -215,7 +215,7 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
    * Form a plan how the 2 teams can keep each other updated async, for example, ping the PMs on the relevant issues async or sync meetings etc.
    * Ideally, establish understanding of both teams' KPIs and objectives 
 
-1. Growth will post regular updates on what we are working on, what has been shipped, what's up & next, and the results & learnings from analyzed experiments to channels such as key meetings, GC, and potentially a monthly summary video.
+1. Growth will post regular updates on what we are working on, what has been shipped, what's up & next, and the results & learnings from analyzed experiments to channels such as Key Reviews, GC, and potentially a monthly summary video.
 
 1. Most growth experiments will be focused on UX/copy flow changes initially, and these will follow the typical GitLab code review process.
 
