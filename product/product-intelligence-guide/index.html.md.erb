@@ -1,7 +1,3 @@
----
-layout: handbook-page-toc
-title: Product Intelligence Guide
----
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -17,13 +13,14 @@ There are several stages and teams involved to go from collecting data to making
 | Stage | Description | DRI | Support Teams |
 | ----- | ----------- | --- | ------------- |
 | Privacy Settings | The implementation of our Privacy Policy including data classification, data access, and user settings to control what data is shared with GitLab. | Product Intelligence | Legal, Data |
-| Collection | <span class="colour" style="color: rgb(0, 0, 0);">The data collection tools used across all GitLab applications including GitLab SaaS, GitLab self-managed, CustomerDot, LicenseDot, VersionDot, and </span><span class="colour" style="color: rgb(17, 85, 204);"><u>[about.gitlab.com](http://about.gitlab.com/)</u></span><span class="colour" style="color: rgb(0, 0, 0);">. Our current tooling includes Snowplow, Usage Ping, and Google Analytics.</span> | Product Intelligence | Infrastructure |
+| Collection | <span class="colour" style="color:rgb(0, 0, 0)">The data collection tools used across all GitLab applications including GitLab SaaS, GitLab self-managed, CustomerDot, LicenseDot, VersionDot, and </span><span class="colour" style="color:rgb(17, 85, 204)"><u>[about.gitlab.com](http://about.gitlab.com/)</u></span><span class="colour" style="color:rgb(0, 0, 0)">. Our current tooling includes Snowplow, Usage Ping, and Google Analytics.</span> | Product Intelligence | Infrastructure |
 | Extraction | The data extraction tools used to extract data from Product, Infrastructure, Enterprise Apps data sources. Our current tooling includes Stitch, Fivetran, and Custom. | Data |  |
 | Loading | The data loading tools used to extract data from Product, Infrastructure, Enterprise Apps data sources and to load them into our data warehouse. Our current tooling includes Stitch, Fivetran, and Custom. | Data |  |
 | Orchestration | The orchestration of extraction and loading tooling to move data from sources into the Enterprise Data Warehouse. Our current tooling includes Airflow. | Data |  |
 | Storage | The Enterprise Data Warehouse (EDW) which is the single source of truth for GitLab's corporate data, performance analytics, and enterprise-wide data such as Key Performance Indicators. Our current EDW is built on Snowflake. | Data |  |
 | Transformation | The transformation and modelling of data in the Enterprise Data Warehouse in preparation for data analysis. Our current tooling is dbt and Python scripts. | Data | Product Intelligence |
 | Analysis | The analysis of data in the Enterprsie Data Warehouse using a querying and visualization tool. Our current tooling is Sisense. | Data | Product Intelligence |
+
 [Editable source file](https://docs.google.com/spreadsheets/d/144-BLh7uyX4aY23QNrvke5BqCcb9xfPk2BL4qGFvzFY/edit?usp=sharing)
 
 ## Systems overview
