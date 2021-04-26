@@ -11,11 +11,7 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# External Virtual Events Overview
-{:.no_toc}
----
-
-## Overview
+# Overview
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -27,7 +23,7 @@ External virtual events are, by definition, not owned and hosted by GitLab. They
 * [Executive Roundtable](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-executive-roundtable):  hosted on an external vendor platform, this is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. The goal of an executive roundtable is net new leads - we do not promote to our existing database as it is a paid activity.
 * [Vendor Arranged Meetings](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-vendor-arranged-meetings): hosted by an external vendor, the vendor organizes one-to-one meetings with prospect or customer accounts. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organizes meetings with prospects of interest to GitLab. The goal of a venor arranged meeting is to generate meetings with accounts of interest that we are finding challenging to break into directly - we do not promote to our existing database as it is a paid activity.
 
-## Partner Webinars
+# Partner Webinars
 {: #partner-hosted-webinars .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -141,7 +137,7 @@ Leave Opt-In empty if no other option is available
 
 ```
 
-## Sponsored Webinars
+# Sponsored Webinars
 {: #sponsored-webinars .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -223,7 +219,7 @@ Add the team label to indicate the team running the event (Example: Field Market
 
 ☝️ *Note on campaign utm format: we avoid using special characters due to issues in the past passing UTMs from Bizible to SFDC, the basis for attribution reporting.*
 
-## Virtual Conferences
+# Virtual Conferences
 {: #virtual-conferences .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -315,7 +311,7 @@ Add the team label to indicate the team running the event (Example: Field Market
 /label ~"mktg-status::wip" ~"Virtual Conference" 
 ```
 
-## Executive Roundtables
+# Executive Roundtables
 {: #executive-roundtables .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -383,7 +379,7 @@ The project owner is responsible for following the steps below to create the epi
 /label ~"mktg-status::wip" ~"Field Marketing" ~"Executive Roundtable"
 ```
 
-## Vendor Arranged Meetings
+# Vendor Arranged Meetings
 {: #vendor-arranged-meetings .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -450,6 +446,3 @@ The project owner is responsible for following the steps below to create the epi
 
 /label ~"mktg-status::wip" ~"Field Marketing" ~"Vendor Arranged Meetings"
 ```
-
-
-
