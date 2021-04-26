@@ -29,34 +29,33 @@ In the middle of the two extremes we can find datasets that have useful informat
 
 ## Characteristics of time-decay data
 
-There can be datasets of variable sizes that show strong time-decay effects, but in the context of this blueprint we are going to focus to entities with a **considerably large dataset**.
-Smaller datasets do not contribute significantly to the database relate resource usage, nor do they inflict a considerable performance penalty to queries.
+We are interested in datasets that show the following characteristics:
+
+1. They are considerably large.
+1. When we access the dataset, we filter by a time related dimension or a categorial dimension with time decay effects.
+1. The time-decay status does not change
+1. Optionally, we are interested in whether we want to keep the old data or not (e.g. retention policy) and/or whether old data will be accessible by users through the application.
+
+There can be datasets of variable sizes that show strong time-decay effects, but in the context of this blueprint we are going to focus on entities with a **considerably large dataset**.
+Smaller datasets do not contribute significantly to the database related resource usage, nor do they inflict a considerable performance penalty to queries.
 In contrast, large datasets over \~50 Million records and/or 100GB in size add a significant overhead to constantly accessing a really small subset of the data. In those cases we would want to use the time-decay effect in our advantage and reduce the actively accessed dataset.
 
 The second and most important characteristic of time-decay data is that most of the times we implicitly or explicitly access the data using a date filter, **restricting our results based on a time related dimension**.
-There can be many such dimensions, but we are going to only restrict our focus on the creation date as it is both the most commonly used and the one that we can control and optimize against.
-It is constant, set when the record is created, and can be tied to physically clustering the records without having to move them around.
+There can be many such dimensions, but we are only going to focus on the creation date as it is both the most commonly used and the one that we can control and optimize against.
+It is immutable, set when the record is created, and can be tied to physically clustering the records without having to move them around.
 Time decay data without such a time-decay related access method are of no use from an optimization perspective as there is no way to set and follow a scaling pattern.
 
 The third characteristic of time-decay data is that their **time-decay status does not change**. Once they are considered "old", they can not switch back to "new" or relevant again.
-This definition may sound trivial but we have to be able to make operations over "old" data expensive (e.g. by archiving or moving them to less expensive storage) without having to worry about the repercussions of switching back to being relevant and having important application operations underperforming.
+This definition may sound trivial but we have to be able to make operations over "old" data more expensive (e.g. by archiving or moving them to less expensive storage) without having to worry about the repercussions of switching back to being relevant and having important application operations underperforming.
 Consider as a counter example to a time-decay data access pattern an application view that presents issues by when they were updated. We are also interested in the most recent data from an "update" perspective, but that definition is volatile and not actionable.
 Similarly, it would be hard to apply the time-decay pattern to data with various levels of time relevancy definitions depending on the context or the role of the user accessing them (e.g. developers never accessing an entity more than one week old vs administrators going daily through year old past data).
 
 As a side note, if we extend the aforementioned definitions to access patterns that most of the time restrict access to a monotonically, well defined subset of the data, we could use the time-decay scaling patterns for many other types of data.
 As an example, consider data that are only accessed while they are labeled as active, like ToDos not marked as done, pipelines for not merged MRs (or a similar not time based constraint), etc.
-In this case, instead of using a time dimension to define the decay, we use a categorical dimension (i.e. one that uses a finite set of values) to set the subset of interest.
+In this case, instead of using a time dimension to define the decay, we use a categorical dimension (i.e. one that uses a finite set of values) to define the subset of interest.
 As long as that subset is small compared to the overall size of the dataset, we could use the same approach.
 
 Finally, a characteristic that further differentiates time-decay data in sub categories with slightly different approaches available is **whether we want to keep the old data or not** (e.g. retention policy) and/or **whether old data will be accessible by users through the application**.
-
-## Identifying time-decay data
-
-**WIP**: Before we continue with strategies on how to address time-decay data, it would be useful if we could define ways to identify such datasets and not only depend on empirical evidence.
-
-How could we identify such datasets? It's too expensive to monitor the data fetched by `created_at`; we don't even log such information.
-
-This section may be removed and only use the characteristics provided in the previous section. As we are only focussing on large datasets, it may not be required in the first place.
 
 ## Time-Decay data strategies
 
@@ -77,7 +76,7 @@ It is possible to specify a tablespace and storage parameters for each partition
 - Set the storage parameters higher on that new tablespace so that the PostgreSQL optimizer knows that the disks are slower.
 - Move the old partitions to the slow tablespace automatically by using background workers.
 
-Finally, moving partitions outside of the database can be achieved through database archiving or manually exporting the partitions to a different storage engine (more detials in the dedicated sub-section).
+Finally, moving partitions outside of the database can be achieved through database archiving or manually exporting the partitions to a different storage engine (more details in the dedicated sub-section).
 
 ### Pruning old data
 
@@ -86,7 +85,10 @@ If we don't want to keep old data around in any form, we can implement a pruning
 It's a simple to implement strategy that uses a pruning worker to delete past data. As an example that we'll further analyze below, we are pruning old `web_hook_logs` older than 90 days.
 
 The disadvantage of such a solution over large, non-partitioned tables is that we have to manually access and delete all the records that are considered as not relevant any more.
-That is a very expensive operation and can lead to the pruning worker not being able to catchup with new records being created, like in the case of [web_hook_logs](https://gitlab.com/gitlab-org/gitlab/-/issues/256088) at the time of writing this document.
+That is a very expensive operation due to multi-version concurrency control in Postgres.
+It also leads to the pruning worker not being able to catchup with new records being created if that rate exceeds a threshold, as is the case of [web_hook_logs](https://gitlab.com/gitlab-org/gitlab/-/issues/256088) at the time of writing this document.
+
+For the aforementioned reasons, our proposal is that we should base any implementation of a data retention strategy to partitioning, unless there are strong reasons not to.
 
 ### Moving old data outside of the database
 
