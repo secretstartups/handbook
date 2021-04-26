@@ -58,5 +58,3 @@ Once the data is available as Report Artifact, it can be processed by the [GitLa
 Depending on the context, the security reports can be stored in the database or stay as Report Artifacts for on-demand access.
 
 This part is mainly covered by the [Threat Insights group](/handbook/product/categories/#threat-insights-group).
-
-Though, the boundaries can sometimes be a bit blurry so [we're trying to delineate this as clearly as possible](/handbook/engineering/development/secure/delineate-secure-protect.html#technical-boundaries).
