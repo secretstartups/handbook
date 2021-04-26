@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Key Meetings"
+title: "Key Reviews"
 ---
 
 ## On this page
@@ -29,7 +29,7 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 Meetings are scheduled monthly starting on the 15th day after month end.  
 
 ## Scheduling
-The EBA to the CFO is the scheduling DRI for the Monthly Key Meetings, with the exception of the Sales Key Meeting, the EBA to the CRO is the scheduling DRI for the Sales Key Meeting.
+The EBA to the CFO is the scheduling DRI for the Monthly Key Reviews, with the exception of the Sales Key Meeting, the EBA to the CRO is the scheduling DRI for the Sales Key Meeting.
 
 A Key Meeting should not be cancelled, permission to cancel or make changes to the Key Meeting schedule must be approved by the CFO. If the CFO is not available the CEO will make the decision. Requests should be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. All changes to the Key Meeting schedule and/or invites have to be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 
@@ -61,9 +61,9 @@ If you would like to be added to a function's Key Meeting post in [#key-meetings
 
 ### Key Rotation
 
-We expect that All-Directs have a general understanding of the business beyond their function. They are GitLab leaders who often have to work cross-functionally and need business context to guide their teams. Key Meetings are a forum for understanding what is happening in other functions. The Key Rotation is designed to encourage All-Directs to make time to learn about what is happening in other functions. 
+We expect that All-Directs have a general understanding of the business beyond their function. They are GitLab leaders who often have to work cross-functionally and need business context to guide their teams. Key Reviews are a forum for understanding what is happening in other functions. The Key Rotation is designed to encourage All-Directs to make time to learn about what is happening in other functions. 
 
-Each month, one All-Direct will join the Key Rotation. While no meeting is mandatory, the person should plan to attend all Key Meetings in that month. The team member is encouraged to contribute questions and comments to the agenda in each of these meetings. The team member is also encouraged to bring takeaways back to the team member's E-Group manager and teams.
+Each month, one All-Direct will join the Key Rotation. While no meeting is mandatory, the person should plan to attend all Key Reviews in that month. The team member is encouraged to contribute questions and comments to the agenda in each of these meetings. The team member is also encouraged to bring takeaways back to the team member's E-Group manager and teams.
 
 A rotation includes 10 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings. If a participant has to skip a couple of meetings due to last minute conflicts, the participant can opt to attend the missed sessions in the following month.
 
@@ -101,19 +101,19 @@ Important notes:
 1. The functional owner is responsible for updating and posting their key meeting agenda 24 hours in advance of the meeting, post in the [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. 
 1. Video is not required, but if there is a video it should be posted 24hrs in advance in the [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 1. The agenda document should include a presentation link that is accessible by all team members, as well as a Q&A section.
-1. Key Meetings should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key meetings with [not public](/handbook/communication/#not-public) information should be privately streamed to YouTube Unfiltered. 
-1. Should public or private streaming be unavailable, key meetings are set to auto-record to the cloud and should be uploaded to the GitLab Unfiltered [Key Meetings Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi) on YouTube. It is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered with the correct visibility (private or public). 
+1. Key Reviews should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key Reviews with [not public](/handbook/communication/#not-public) information should be privately streamed to YouTube Unfiltered. 
+1. Should public or private streaming be unavailable, Key Reviews are set to auto-record to the cloud and should be uploaded to the GitLab Unfiltered [Key Reviews Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi) on YouTube. It is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered with the correct visibility (private or public). 
 1. If the function DRI is not available to attend their key meeting then the function's leadership team is responsible for attending the meeting and providing updates.
 
 Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Group Conversations and Key Meeting Metrics
-Function DRIs are expected to use their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/handbook/group-conversations/). Group Conversations should follow Key Meetings, please see the [Group Conversation schedule](/handbook/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key meeting to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
+Function DRIs are expected to use their function's Key Meeting deck and recordings for their scheduled [Group Conversations](/handbook/group-conversations/). Group Conversations should follow Key Reviews, please see the [Group Conversation schedule](/handbook/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key meeting to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
 
 ### Recordings
 
-To view a recording of a key meeting, visit the playlist on YouTube Unfiltered titled [Key Meetings](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). 
+To view a recording of a key meeting, visit the playlist on YouTube Unfiltered titled [Key Reviews](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). 
 
 Key Meeting recording links should be shared in the #key-meetings Slack channel by the functional department EBA within 24 hours of a Key Meeting being completed.
 
@@ -130,7 +130,7 @@ The following slides need to be updated with an MR:
 * Key Business Takeaways- should especially highlight any KPIs that need attention
 * OKR statuses
 
-The following Key Meetings are automated: (all links are internal)
+The following Key Reviews are automated: (all links are internal)
 * [CEO](https://gitlab-com.gitlab.io/kpi-slides/slides-html/ceo/#/)
 * [Finance](https://gitlab-com.gitlab.io/kpi-slides/slides-html/finance/#/)
 * [Infrastructure](https://gitlab-com.gitlab.io/kpi-slides/slides-html/infrastructure/#/)
@@ -171,7 +171,7 @@ This method is ideal, as it is [handbook-first](/handbook/handbook-usage/#why-ha
 Commentary can be added via an MR to the [data/performance_indicators.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators.yml) file. 
 The executive summary section can help consumers of the information understand where to dig in futher. 
 
-The difficulty in using performance indicator pages for Key Meetings is for groups who have a signficant number of Performance Indicators that [cannot be public](/handbook/communication/#not-public). 
+The difficulty in using performance indicator pages for Key Reviews is for groups who have a signficant number of Performance Indicators that [cannot be public](/handbook/communication/#not-public). 
 For folks looking to consume this information quickly, having to 2FA into Sisense to see the information can be frustrating. 
 For functions or departments for which this is true, it is recommended to use a different key meeting format. 
 
