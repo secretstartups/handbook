@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Vendor Contract Issue Process
+title: Vendor Contract Issue Process - Software
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
