@@ -46,7 +46,7 @@ For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.c
 <a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data - Data Team Handbook</a>
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 
