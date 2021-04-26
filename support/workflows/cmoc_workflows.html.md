@@ -14,6 +14,8 @@ description: "Describes the role and responsibilities for CMOC rotation in Suppo
 
 As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) it's your job to be the voice of GitLab during an incident to our users, customers, and stakeholders. To do this you must communicate with them through our status page, [Status.io](https://status.io).
 
+The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
+
 The basics of how to create, update, and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. However, this document covers how we specifically use Status.io to perform those tasks.
 
 You may also be asked to [contact a user](internal_requests.html#contact-request) on behalf of Infrastructure or Security, which may or may not be related to an Incident. 

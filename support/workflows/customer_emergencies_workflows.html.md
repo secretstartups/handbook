@@ -14,6 +14,8 @@ description: "Describes the role and responsibilities for Customer Emergencies r
 
 Support Engineers in the Customer Emergencies rotation coordinate operational emergencies from GitLab customers.
 
+The Customer Emergencies rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call/).
+
 ## Expectations for Support Engineers in the Customer Emergencies Rotation
 
 ### Communicate
