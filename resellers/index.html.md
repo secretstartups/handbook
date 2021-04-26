@@ -304,10 +304,10 @@ To promote the growth and success of our channels, to manage channel conflict an
 
 Only a properly completed Deal Registration Form can initiate an engagement. It is therefore in all parties’ best interest that you complete a Deal Registration Form as soon as a qualified sales opportunity is identified.  Since the first qualified deal registration is approved, partners are encouraged to submit their deal registrations as early as possible to lock in the biggest discount.
 
-Deal registration and associated discounts are only available to partners that have signed the GitLab Partner Program Agreement, and for deals approved by GitLab Sales. Additionally, at least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.  In the GitLab Partner Program, you need to register individual sales opportunities. Partners may not register an account or combine opportunities.
+Only partners that have signed the GitLab Partner Program Agreement are able to register deals, earn program discounts and transact with GitLab. Unauthorized partners do not qualify.  Additionally, at least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.  In the GitLab Partner Program, you need to register individual sales opportunities. Partners may not register an account or combine opportunities.
 
 
-*   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, partner relationship with customer.  Final deal registration approval decision will be made by GitLab Sales.
+*   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, partner relationship with customer.  Deal registration approval is required and will be made by GitLab Sales.
 *   Only one partner can earn a deal registration discount per opportunity.  Partners, other than the partner granted the deal registration discount that request a quote, will receive the fulfillment
 discount rate. 
 *   New customer opportunities or new opportunities with existing customers can qualify for deal registration.  Add-on sales to renewals can qualify for deal registration.
