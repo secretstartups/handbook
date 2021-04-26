@@ -299,3 +299,7 @@ Under the [Interview Reimbursement Service Desk](https://gitlab.com/interview-re
    - Closeout the window
 
 Additional process details can be found on the [project README page](https://gitlab.com/interview-reimbursement/ap-ces/blob/master/README.md).
+
+### Employment Offboarding
+
+When employees are offboarding, People Experience will create an offboarding issue. Candidate Expereince is responsible for completing the CES section under Recruiting Operations". Once these steps have been completed, unfollow the issue to disable notifications.
