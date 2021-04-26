@@ -22,18 +22,20 @@ twitter_creator: "@gitlab"
 External virtual events are, by definition, not owned and hosted by GitLab. They are hosted by an external third party (i.e. a partner or paid vendor). The goal of external virtual events is to drive net new leads, and we do not promote to our internal database. The various types of external virtual events are below, and involve epic and issue creation, designation of DRIs, and workback schedule definition within the issue due dates.
 
 * [Partner-Hosted Webinars](/handbook/marketing/virtual-events/external-virtual-events/#partner-hosted-webinars): hosted by a channel partner (i.e. WWT), this is an unpaid tactic. The channel partner manages landing page, moderating and hosting the webinar on their platform. GitLab represents as a speaker at the event, sometimes jointly with an alliance partner. A lead list is often not shared after the event, as the channel partner will work the leads. We will sometimes promote, and determine which channels are appropriate.
-* [Sponsored Webinars](): hosted on an external vendor platform (i.e. DevOps.com), this is a paid tactic. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The goal of a sponsored webinar is net new leads - we do not promote to our existing database as it is a paid activity.
-* [Virtual Conferences](): hosted on an external vendor platform (i.e. Hopin), this is a paid tactic. GitLab pays a sponsorship fee to receive a virtual booth and often speaking session or panel presence. The goal of a sponsored virtual conference is net new leads - we do not promote to our existing database as it is a paid activity.
+* [Sponsored Webinars](/handbook/marketing/virtual-events/external-virtual-events/#sponsored-webinars): hosted on an external vendor platform (i.e. DevOps.com), this is a paid tactic. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The goal of a sponsored webinar is net new leads - we do not promote to our existing database as it is a paid activity.
+* [Virtual Conferences](/handbook/marketing/virtual-events/external-virtual-events/#virtual-conferences): hosted on an external vendor platform (i.e. Hopin), this is a paid tactic. GitLab pays a sponsorship fee to receive a virtual booth and often speaking session or panel presence. The goal of a sponsored virtual conference is net new leads - we do not promote to our existing database as it is a paid activity.
 * [Executive Roundtable](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-executive-roundtable):  hosted on an external vendor platform, this is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. The goal of an executive roundtable is net new leads - we do not promote to our existing database as it is a paid activity.
 * [Vendor Arranged Meetings](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-vendor-arranged-meetings): hosted by an external vendor, the vendor organizes one-to-one meetings with prospect or customer accounts. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organizes meetings with prospects of interest to GitLab. The goal of a venor arranged meeting is to generate meetings with accounts of interest that we are finding challenging to break into directly - we do not promote to our existing database as it is a paid activity.
 
-## Partner Webinar
+## Partner Webinars
 {: #partner-hosted-webinars .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-*A sponsored webinar is hosted on an external vendor platform (e.g: DevOps.com), with the goal of driving net new leads. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The project owner is responsible for creating the epic and related issue creation, and keeping timelines and DRIs up-to-date.*
+*A parter-hosted webinar is hosted by the partner, with the goal of driving net new leads. The partner is responsible for driving registration, moderating and hosting the webinar on their platform, and, in some cases, delivering a lead list after the event. The project owner (Partner Marketing) is responsible for creating the epic and related issue creation, and keeping timelines and DRIs up-to-date.*
 
 ### How to request Partner Marketing support
+{: #partner-hosted-webinar-requesting-support}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 CAMs and Alliance Managers should use this [issue template](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new) to request Channel Marketing support for their planned event or webinar.
 
@@ -58,6 +60,7 @@ The project owner is responsible for following the steps below to create the epi
 ### Epic code and issue templates
 {: #partner-hosted-webinar-epic-code}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
 ```
 <!-- Name this epic: Channel Webinar - [Webinar Name] (Partner) - [3-letter Month] [Date], [Year] -->
 <!-- Example epic name: Channel Webinar - Modern CI/CD with Anthos (WWT) - Apr 22, 2021 -->
@@ -137,3 +140,316 @@ Leave Opt-In empty if no other option is available
 /label ~"mktg-status::wip" ~"Webinar - Channel Partner"  ~"Webinar"
 
 ```
+
+## Sponsored Webinars
+{: #sponsored-webinars .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+*A sponsored webcast is hosted on an external vendor platform (i.e. DevOps.com); this is a paid tactic. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The goal of a sponsored webinar is net new leads - we do not promote to our existing database as it is a paid activity.*
+
+### Process in GitLab to organize epic & issues
+{: #sponsored-webinar-project-management}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+The project owner is responsible for following the steps below to create the epic and related issues in GitLab.
+
+1. Project owner (FMM) creates the main tactic issue
+1. Project owner (FMC) creates the epic to house all related issues (code below)
+1. Project owner (FMC) creates the relevant issues required (shortcut links in epic code below)
+1. Project owner (FMC) associates all the relevant issues to the newly created epic, as well as the original issue
+1. Project owner (FMC) sets due dates for each issue, based on agreed upon SLAs between teams for each task, and confirms accurate ownership for each issue
+
+*Note: if the date of the tactic changes, the project owner is responsible for changing the due dates of all related issues to match the new date, and alerting the team members involved.*
+
+### Epic code and issue templates
+{: #sponsored-webinar-epic-code}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+```
+<!-- Name this epic: Sponsored Webcast - [Vendor] - [3-letter Month] [Date], [Year] -->
+
+## [Main Issue >>]()
+
+## [Copy document >>]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
+
+## :notepad_spiral: Key Details 
+* **Project Owner:** 
+* **FMC/FMS:** 
+* **Type:** Sponsored Webcast
+* **Official Name:** 
+* **Registration URL:** 
+* **Persona (choose one):** `Practitioner, Manager, or Executive`
+* **Use Case (choose primary):** `CI, VC&C, DevSecOps, Other` (FY21-22 focus on CI and VC&C)
+* **Sales Segment (choose primary):** `Large, Mid-Market, or SMB`
+* **Sales Region (choose one):** `AMER, EMEA, APAC`
+* **Sales Territory (optional, if specific):** 
+* **Goal:** `Please be specific on the metric this is meant to impact.`
+* **Budget:** 
+* **Campaign Tag:**  
+* **Launch Date:**  [YYYY-MM-DD] 
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
+* [ ] Campaign UTM - Project Owner/FM to fill in (Format: campaign tag - change to all lowercase, no spaces, hyphens, underscores, or special characters)
+
+## User Experience
+[Project Owner to provide a description of the user journey - from communication plan, to what the user experiences upon receipt, plus triggers on our end like confirmation email and how GitLab fulfils with the vendor, up until receipt by the user and answering whether or not we get confirmation that they received it... what is the anticipated journey after that?]
+
+## Additional description and notes about the tactic
+[Project Owner/FMM add whatever additional notes are relevant here]
+
+## Issue creation
+If you are Field Marketer, see next section below for the issues you need to create. 
+
+* [ ] Program Tracking
+  - [If tactic owner is Campaigns Team](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
+* [ ] [Write copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy)
+* [ ] [Follow up email issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup) 
+* [ ] [List clean and upload issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list)
+* [ ] [Add to nurture issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
+* [ ] [Pathfactory Upload issue created](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) (*optional*) 
+
+## Issue Creation for Field Marketing 
+Please delete the generic issue creation section above if you are a FMC creating this. 
+* [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - FMC creates, assigns to FMC
+* [ ] [Write copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - FMC creates, assigns to FMM
+* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
+* [ ] [Add to Nurture](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture) - FMC creates, assigns to FMM (issue will be triaged)
+* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
+* [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
+
+Add the team label to indicate the team running the event (Example: Field Marketing, Corporate Marketing)   
+
+/label ~"mktg-status::wip" ~"Webcast - Sponsored" 
+```
+
+☝️ *Note on campaign utm format: we avoid using special characters due to issues in the past passing UTMs from Bizible to SFDC, the basis for attribution reporting.*
+
+## Virtual Conferences
+{: #virtual-conferences .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+*A virtual conference is hosted on an external vendor platform (i.e. Hopin); this is a paid tactic. GitLab pays a sponsorship fee to receive a virtual booth and often speaking session or panel presence. The goal of a sponsored virtual conference is net new leads - we do not promote to our existing database as it is a paid activity.*
+
+**Presence of a virtual booth is a requirement for the virtual event to be considered a Virtual Conference.** [Link to Marketo program template that will be cloned.](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
+
+### Process in GitLab to organize epic & issues
+{: #virtual-conference-project-management}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+The project owner is responsible for following the steps below to create the epic and related issues in GitLab.
+
+1. Project owner (Corp/FMM) creates the main tactic issue
+1. Project owner (Corp/FMC) creates the epic to house all related issues (code below)
+1. Project owner (Corp/FMC) creates the relevant issues required (shortcut links in epic code below)
+1. Project owner (Corp/FMC) associates all the relevant issues to the newly created epic, as well as the original issue
+1. Project owner (Corp/FMC) sets due dates for each issue, based on agreed upon SLAs between teams for each task, and confirms accurate ownership for each issue
+
+*Note: if the date of the tactic changes, the project owner is responsible for changing the due dates of all related issues to match the new date, and alerting the team members involved.*
+
+### Epic code and issue templates
+{: #virtual-conference-epic-code}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+```
+<!-- Name this epic: Sponsored Virtual Conference - [Vendor] - [3-letter Month] [Date], [Year] -->
+
+## [Main Issue >>]()
+
+## [Copy document >>]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
+
+## :notepad_spiral: Key Details 
+* **Corp Events/Field Marketing Manager/Requester:** 
+* **Field Marketing Coordinator:** 
+* **Type:** Conference
+* **Official Name:** 
+* **Date(s):**  [YYYY-MM-DD] 
+* **Registration URL:** 
+* **Sales Segment (choose primary):** `Large, Mid-Market, or SMB`
+* **Sales Region (choose one):** `AMER, EMEA, APAC`
+* **Sales Territory (optional, if specific):** 
+* **Goal:** `Please be specific on the KPI this is meant to impact.`
+* **Budget:** 
+* **Campaign Tag:**  
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
+* [ ] Campaign UTM - Project Owner to fill in (Format: campaign tag - change to all lowercase, no spaces, hyphens, underscores, or special characters)
+
+## User Experience
+[Project owner to provide a description of the user journey - from communication plan, to what the user experiences upon receipt, plus triggers on our end like confirmation email and how GitLab fulfils with the vendor, up until receipt by the user and answering whether or not we get confirmation that they received it... what is the anticipated journey after that?]
+
+## Additional description and notes about the tactic
+[Project owner add whatever additional notes are relevant here]
+
+## Issue creation
+If you are a Field Marketer, see below for issue creation. 
+* [ ] Program Tracking
+  - [If tactic owner is Campaigns Team](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
+* [ ] [Write copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy)
+* [ ] [Follow up email issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup) 
+* [ ] [List clean and upload issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list)
+* [ ] [Add to nurture issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
+* [ ] [Pathfactory Upload issue created](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) (*optional*)
+
+## Issue Creation for Field Marketing 
+Please delete the generic issue creation section above if you are a FMC creating this. 
+* [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - FMC creates, assigns to FMC
+* [ ] [Write copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - FMC creates, assigns to FMM
+* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
+* [ ] [Add to Nurture](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture) - FMC creates, assigns to FMM (issue will be triaged)
+* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
+* [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
+
+
+<details>
+<summary>Corporate Marketing Activation: Expand below for quick links to issues to be created and linked to the epic.</summary>
+
+* [ ] Activate*: [Organic Social Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=social-general-request) - Corp creates, assignment in issue
+* [ ] Activate*: [Blog Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/issues/new#?issuable_template=blog-post-pitch) - Corp creates, assignment in issue
+* [ ] Activate*: [PR Announcement Issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/issues/new?issuable_template=announcement) - Corp creates, assignment in issue
+
+</details>
+
+**Everything with an * is optional: create the optional issues only if we plan to use those outbound activation channels*
+
+Add the team label to indicate the team running the event (Example: Field Marketing, Corporate Marketing)    
+
+/label ~"mktg-status::wip" ~"Virtual Conference" 
+```
+
+## Executive Roundtables
+{: #executive-roundtables .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+*An executive roundtable is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. The project owner (field marketing) is responsible for creating the epic and related issue creation, and keeping timelines and DRIs up-to-date. Mareting Ops is responsible for uploading the list to our database.* 
+
+### Process in GitLab to organize epic & issues
+{: #executive-roundtable-project-management}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+The project owner is responsible for following the steps below to create the epic and related issues in GitLab.
+
+1. Project owner (FMM) creates the main tactic issue
+1. Project owner (FMC) creates the epic to house all related issues (code below)
+1. Project owner (FMC) creates the relevant issues required (shortcut links in epic code below)
+1. Project owner (FMC) associates all the relevant issues to the newly created epic, as well as the original issue
+1. Project owner (FMC) sets due dates for each issue, based on agreed upon SLAs between teams for each task, and confirms accurate ownership for each issue
+
+*Note: if the date of the tactic changes, the project owner is responsible for changing the due dates of all related issues to match the new date, and alerting the team members involved.*
+
+### Epic code and issue templates
+{: #executive-roundtable-epic-code}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+```
+<!-- Name this epic: Executive Roundtable - [Vendor] - [3-letter Month] [Date], [Year] -->
+
+## [Main Issue >>]()
+
+## [Copy document >>]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
+
+## :notepad_spiral: Key Details 
+* **Project Owner/Field Marketing Manager:** 
+* **FMC/FMS:** 
+* **Type:** Executive Roundtable 
+* **Official Name:** 
+* **Date(s):** 
+* **Registration URL:** 
+* **Sales Segment (choose primary):** `Large, Mid-Market, or SMB`
+* **Sales Region (choose one):** `AMER, EMEA, APAC`
+* **Sales Territory (optional, if specific):** 
+* **Goal:** `Please be specific on the metric this is meant to impact.`
+* **Budget:** 
+* **Campaign Tag:**  
+* **Launch Date:**  [YYYY-MM-DD] 
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
+* [ ] Campaign UTM - Project Owner/FM to fill in (Format: campaign tag - change to all lowercase, no spaces, hyphens, underscores, or special characters)
+
+## User Experience
+[Project Owner/FMM to provide a description of the user journey - from communication plan, to what the user experiences upon reciept, plus triggers on our end like confirmation email and how GitLab fulfils with the vendor, up until receipt by the user and answering whether or not we get confirmation that they received it... what is the anticipated journey after that?]
+
+## Additional description and notes about the tactic
+[Project Owner/FMM add whatever additional notes are relevant here]
+
+## Issue creation
+* [ ] [Program Tracking - FM](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - FMC creates, assigns to FMC
+* [ ] [Write copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - FMC creates, assigns to FMM
+* [ ] [Sales Nominated Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_sales_nominated) - FMC creates, assigns to the FMM (issue will be triaged)
+* [ ] [Email Invitation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_invite) - FMC creates one for each invitation requested, assigns to FMM (issue will be triaged)
+* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
+* [ ] [Add to Nurture](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture) - FMC creates, assigns to FMM (issue will be triaged)
+* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps
+* [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
+
+/label ~"mktg-status::wip" ~"Field Marketing" ~"Executive Roundtable"
+```
+
+## Vendor Arranged Meetings
+{: #vendor-arranged-meetings .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+*A vendor arranged meeting is used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts, ideally connecting our team with target accounts that are challenging to set meetings with directly. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab. The project owner (field marketing commonly) is responsible for creating the epic and related issue creation, and keeping timelines and DRIs up-to-date. Mareting Ops is responsible for uploading the list to our database.* 
+
+### Process in GitLab to organize epic & issues
+{: #vendor-arranged-meeting-project-management}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+The project owner is responsible for following the steps below to create the epic and related issues in GitLab.
+
+1. Project owner (FMM) creates the main tactic issue
+1. Project owner (FMC) creates the epic to house all related issues (code below)
+1. Project owner (FMC) creates the relevant issues required (shortcut links in epic code below)
+1. Project owner (FMC) associates all the relevant issues to the newly created epic, as well as the original issue
+1. Project owner (FMC) sets due dates for each issue, based on agreed upon SLAs between teams for each task, and confirms accurate ownership for each issue
+
+*Note: if the date of the tactic changes, the project owner is responsible for changing the due dates of all related issues to match the new date, and alerting the team members involved.*
+
+### Epic code and issue templates
+{: #vendor-arranged-meeting-epic-code}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+```
+<!-- Name this epic: Vendor Arranged Meeting - [Vendor] - [3-letter Month] [Date], [Year] -->
+
+## [Main Issue >>]()
+
+## [Copy document >>]() - [template](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit)
+
+## :notepad_spiral: Key Details 
+* **Project Owner:** 
+* **FMC/FMS:** 
+* **Type:** Vendor Arranged Meetings 
+* **Official Name:** 
+* **Registration URL:** 
+* **Sales Segment (choose primary):** `Large, Mid-Market, or SMB`
+* **Sales Region (choose one):** `AMER, EMEA, APAC`
+* **Sales Territory (optional, if specific):** 
+* **Goal:** `Please be specific on the metric this is meant to impact.`
+* **Budget:** 
+* **Campaign Tag:**  
+* **Launch Date:**  [YYYY-MM-DD] 
+* [ ] [main salesforce program]()
+* [ ] [main marketo campaign]()
+* [ ] Campaign UTM - Project Owner/FM to fill in (Format: campaign tag - change to all lowercase, no spaces, hyphens, underscores, or special characters)
+
+## User Experience
+[Project Owner/FMM to provide a description of the user journey - from communication plan, to what the user experiences upon reciept, plus triggers on our end like confirmation email and how GitLab fulfils with the vendor, up until receipt by the user and answering whether or not we get confirmation that they received it... what is the anticipated journey after that?]
+
+## Additional description and notes about the tactic
+[Project Owner/FMM add whatever additional notes are relevant here]
+
+## Issue creation
+
+* [ ] [Program Tracking - FM](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking) - FMC creates, assigns to FMC
+* [ ] [Write copy issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) - FMC creates, assigns to FMM
+* [ ] [Follow Up Email issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_email_followup) - FMC creates, assigns to FMM (issue will be triaged)
+* [ ] [Add to Nurture](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_add_nurture) - FMC creates, assigns to FMM (issue will be triaged)
+* [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM and MOps 
+* [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
+
+**Optional: create the optional issues only if we have rights to recording and content is worth gating*
+
+/label ~"mktg-status::wip" ~"Field Marketing" ~"Vendor Arranged Meetings"
+```
+
+
+
