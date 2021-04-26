@@ -6,7 +6,7 @@ title: "Process for Tracking and Escalating Glassdoor Reviews"
 # Tracking reviews
 
 The Talent Acquisition Operations and Insights team tracks Glassdoor reviews on a regular basis. We share this info regularly through:
-- People Group Key meeting monthly
+- People Group Key Review monthly
 - Direct escalations of negative reviews - require immediate action or response
 - Talent Acquisition team meeting - sharing hiring-related themes that have come up
 
