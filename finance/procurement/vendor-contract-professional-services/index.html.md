@@ -18,12 +18,27 @@ title: Vendor Contract Issue Process - Professional Services and all Other Contr
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I request approval for a Purchase?
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> When should I open a Requisition in Coupa?
+If you know which vendor to hire and already have a contract:
+
+1. Create a Requisition in Coupa to begin the process.
+      - Check the [How to Create a Requisition in Coupa]() page for a detailed walkthrough guide.
+
+### How do I request approval for a purchase made in Coupa?
+
+1. After the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+   - Create the requisition **BEFORE** agreeing to business terms and/or pricing.
+
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> When should I open a Vendor Contract Request issue in GitLab?
+If no vendor has been identified:
 
 1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=general_vendor_contract_request) to begin the process.
-1. Create this issue **BEFORE** agreeing to business terms and/or pricing.
-1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
 
+
+### How do I request approval for a purchase made through a GitLab issue?
+
+1. After the Vendor Contract Request issue is opened, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+   - Create the issue **BEFORE** agreeing to business terms and/or pricing.
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Professional Services and all Other Purchase Types Request Process
 Review the [Prior to Contacting Procurement](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/) page first.
