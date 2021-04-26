@@ -278,6 +278,16 @@ _Important: Employment contracts cannot be backdated. If a team member requests 
 * The People Operations Specialist should stage the contract in HelloSign to be signed by both the team member and the Director of People Operations.
 * Once siged by both parties, the contract should be uploaded to the team members BambooHR profile in the `Contracts & Changes` section.
 
+### How to Unhire a Candidate After Contract is Signed
+If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab.
+
+If they have been hired in Greenhouse and exported to BambooHR, follow these steps:
+1. Unhire the candidate in Greenhouse if the req is still open. If the req is closed, Recruiting Ops will need to be brought in to unhire.
+1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
+1. Cancel any scheduled emails in Greenhouse.
+1. Tag the Senior Director, People Success in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the Senior Director, People Success) can remove the profile, this is why this step is so important.
+1.  If they were hired via a PEO, inform the contact person at the PEO of this change immediately, ideally before onboarding starts.
+
 ## Letter of Adjustment
 
 When a team member applies for and receives a new position through Greenhouse, a Letter of Adjustment is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Senior Manager, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Letter of Adjustment template in Greenhouse the letter is cc'd to the Total Rewards team for processing.
