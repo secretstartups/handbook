@@ -117,7 +117,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. Functions with Key Meetings should not create a new deck for a Group Conversation but should use their [Key Meeting deck](/handbook/key-meetings/#group-conversations-and-key-meeting-metrics) for the Group Conversation. 
+Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. Functions with Key Meetings should not create a new deck for a Group Conversation but should use their [Key Meeting deck](/handbook/key-review/#group-conversations-and-key-meeting-metrics) for the Group Conversation. 
 
 **Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement. 
 
@@ -145,7 +145,7 @@ These should be called Pop-up AMAs so it's clear to team members that the AMA wa
 
 #### Additional Consideration for Functional Presentations
 
-[Groups](/handbook/key-meetings/#invitees) that also have [Key Meetings](/handbook/key-meetings/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Meetings](/handbook/key-meetings/) will have a monthly GC. 
+[Groups](/handbook/key-review/#invitees) that also have [Key Meetings](/handbook/key-review/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Meetings](/handbook/key-review/) will have a monthly GC. 
 
 ### 24 Hours Before the Call
 
