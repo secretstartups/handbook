@@ -251,7 +251,7 @@ To add your email to your LinkedIn profile, click `Me` > `Settings & Privacy` > 
 
 ### Configuring notifications
 
-Notifications are configured as part of the [requisition creation process](/handbook/hiring/talent acquisition-framework/req-creation/#requisition-creation-process) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove people for that section.
+Notifications are configured as part of the [requisition creation process](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process) but can be adjusted at any time. To set up notifications, go to the requisition's job dashboard and click on `Job Setup` at the top, then `Notifications` at the left. Under each section, you can then click `Edit` to add or remove people for that section.
 
 It is recommended for the Recruiter of a requisition to set up notifications for themselves regarding new internal applicants, new referrals, new agency submissions, approved to start talent acquisition, offer fully approved, stage transitions, and new scorecards.
 
@@ -306,7 +306,7 @@ Please be sure to include the role for both the Interviewer and the interviewee 
 
 At this time, it is not possible to bulk schedule candidates; however, it is helpful to filter the candidates under `Pipeline Tasks` > `To be scheduled` so you can see everyone who needs to be scheduled on the page and easily scroll through them.
 
-Scheduling [executive interviews](/handbook/hiring/talent acquisition-framework/coordinator/index.html#executive-interview-scheduling) varies slightly for collecting and confirming interview times and typically involves the executive's Executive Assistant.
+Scheduling [executive interviews](/handbook/hiring/talent-acquisition-framework/coordinator/index.html#executive-interview-scheduling) varies slightly for collecting and confirming interview times and typically involves the executive's Executive Assistant.
 
 #### Important scheduling and interview notes
 
