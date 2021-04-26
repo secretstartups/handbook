@@ -14,6 +14,7 @@ twitter_creator: "@gitlab"
 # Overview
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+---
 
 External virtual events are, by definition, not owned and hosted by GitLab. They are hosted by an external third party (i.e. a partner or paid vendor). The goal of external virtual events is to drive net new leads, and we do not promote to our internal database. The various types of external virtual events are below, and involve epic and issue creation, designation of DRIs, and workback schedule definition within the issue due dates.
 
@@ -26,6 +27,7 @@ External virtual events are, by definition, not owned and hosted by GitLab. They
 # Partner Webinars
 {: #partner-hosted-webinars .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+---
 
 *A parter-hosted webinar is hosted by the partner, with the goal of driving net new leads. The partner is responsible for driving registration, moderating and hosting the webinar on their platform, and, in some cases, delivering a lead list after the event. The project owner (Partner Marketing) is responsible for creating the epic and related issue creation, and keeping timelines and DRIs up-to-date.*
 
@@ -140,6 +142,7 @@ Leave Opt-In empty if no other option is available
 # Sponsored Webinars
 {: #sponsored-webinars .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+---
 
 *A sponsored webcast is hosted on an external vendor platform (i.e. DevOps.com); this is a paid tactic. The vendor is responsible for driving registration, moderating and hosting the webinar on their platform, and delivering a lead list after the event. The goal of a sponsored webinar is net new leads - we do not promote to our existing database as it is a paid activity.*
 
@@ -222,6 +225,7 @@ Add the team label to indicate the team running the event (Example: Field Market
 # Virtual Conferences
 {: #virtual-conferences .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+---
 
 *A virtual conference is hosted on an external vendor platform (i.e. Hopin); this is a paid tactic. GitLab pays a sponsorship fee to receive a virtual booth and often speaking session or panel presence. The goal of a sponsored virtual conference is net new leads - we do not promote to our existing database as it is a paid activity.*
 
@@ -314,6 +318,7 @@ Add the team label to indicate the team running the event (Example: Field Market
 # Executive Roundtables
 {: #executive-roundtables .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+---
 
 *An executive roundtable is a gathering of high level CxO attendees run as an open discussion between the moderator/host, GitLab expert and delegates. There usually aren't any presentations, but instead a discussion where anyone can chime in to speak. The host would prepare questions to lead discussion topics and go around the room asking delegates questions to answer. The project owner (field marketing) is responsible for creating the epic and related issue creation, and keeping timelines and DRIs up-to-date. Mareting Ops is responsible for uploading the list to our database.* 
 
@@ -382,6 +387,7 @@ The project owner is responsible for following the steps below to create the epi
 # Vendor Arranged Meetings
 {: #vendor-arranged-meetings .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+---
 
 *A vendor arranged meeting is used for campaigns where a third party vendor is organizing one-to-one meetings with prospect or customer accounts, ideally connecting our team with target accounts that are challenging to set meetings with directly. This does not include meetings set internally by GitLab team members. An example would be a "speed dating" style meeting setup where a vendor organized meetings with prospects of interest to GitLab. The project owner (field marketing commonly) is responsible for creating the epic and related issue creation, and keeping timelines and DRIs up-to-date. Mareting Ops is responsible for uploading the list to our database.* 
 
