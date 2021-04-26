@@ -105,12 +105,6 @@ The MktgOps team works from issues and issue boards. If you are needing our assi
 
 With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. 
 
-**Note:** This format is the [Agile user story](https://www.agilealliance.org/glossary/user-story-template/) format and helps the issue-requester (you) and the MOps team by clearly stating **what** as well as **why** for each request and concern.
-
-**Format:** `As a _____ (role in marketing), I would like to ____________(need), so that ________________(reason).`
-
-Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
-
 Please do not reopen issues that have been closed in a previous milestone. If you find that you have additional questions about a closed issue, comment in the issue and ping the marketing ops DRI who worked the issue. The DRI within our team will determine whether an issue needs to be reopened and pulled into a current milestone. 
 
 ### Weights
