@@ -10,7 +10,7 @@ description: "Describes the workflow governing delivery of GitLab professional s
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Overview
+## Overview
 
 The purpose of this page is to describe the workflow governing delivery of professional service projects. We will start by outlining the general workflow that is common across all service delivery categories. Then we will describe the differences for engagements that do not fit the general workflow shown below.
 
@@ -21,9 +21,25 @@ The purpose of this page is to describe the workflow governing delivery of profe
 <!---Update this below
 GitLab professional services employs three different workflows that control projects for the following categories:  standard professional services, education, and dedicated engineers.  Each of these categories have unique attributes that warrant a different approach.--->
 
-### Planning and Delivering Standard Services
+## 1. Pre-sales
+_Note: for presales scoping and SOW signature, see the [pre-sales methodology page](/handbook/customer-success/professional-services-engineering/processes/pre-sales-methodology)_
 
-#### Scheduling
+### PS/EM Assessment
+**TODO: Add content about what happens in this step**
+
+## 2. PS Project Planning
+
+### Sales to PS Handoff
+**TODO: Add content about what happens in this step**
+
+### Resource Assignment
+Resource assignment happens only after the SOW is received with Customer signature. The Sr. PS Operations team identifies delivery resources based on the needs of the engagement. 
+
+**TODO: Add or link to content about what happens in this step. E.g. List link to the skills matrix,  Show example of skills requirements breakdown that come from a scoping issue, Link to the appropriate PS Operations handbook page to show the process in mavenlink**. 
+
+
+
+### Scheduling
 
 The Professional Services (PS) team scheduling is processed through the Sr. PS Project Coordinator (PC).  Our PSA sytem calendar is our single source of truth for scheduing our customer and internal projects.  
 
@@ -38,9 +54,9 @@ Submit a Resource Request through Mavenlink with the following details:
 
 The PC will review the master planning for availability and procecss the resource request.  If there is a schedule conflict the PC will provide another set of project dates.
 
-Scheduling updates and changes follow this same process with a resource request  in Mavenlink.
+Scheduling updates and changes follow this same process with a resource request in Mavenlink.
 
-If a customer project has not booked, but planning/ scheduling discussions need to take place, reach out to the PC to review.
+If a customer project has not booked, but planning/scheduling discussions need to take place, reach out to the PC to review.
 
 #### How to schedule internal time
 
@@ -51,18 +67,27 @@ There are 2 project that track internal time, Creditable and Non Creditable.  If
 * Task assignment
 * Soft or Hard allocation
 
-#### Kicking off an engagement
+## 3. Engagement Execution
+
+#### Kickoff
 
 See the details in the Project workflow section of the [PS Project Management](/handbook/customer-success/professional-services-engineering/project-mgmt/) page.
 
-### Holding discovery sessions
+### Plan
+**TODO: Add content about what happens in this step**
+
+### Discovery
 During discovery or fact finding sessions with the customer, PSEs will often have a predefined list of questions that need to be answered to to ensure we're designing and building the appropriate solution given customer constraints and requirements. It is good practice to send these question to the customer prior to the discovery call so they can be prepared for the discussion.
 
 During the call, take notes to ensure that things that have validated or invalidated your initial assumptions have been captured. At the end of the meeting, review the things you've learned to memorialize what will be designed and built. Reiterating back your understanding of the details of the agreement instills confidence in the customer representative that we understand their requirements and can deliver what was reviewed.
 
 After the meeting, based on meeting notes, create issues in the gitlab.com customer collaboration project outlining the work. Include Consider using a simple template with `Overview`, `Open Questions`, `Tasks`, and `Acceptance Criteria`. These can be helpful in further memorializing the scope of work with the customer and getting asynchronous feedback to open questions. Make sure the `overview` is as detailed as possible, and the `tasks` section has build-to level tasks (e.g. update congregate list() function to include data from CI sources).
 
-### Planning and Delivering Education Services
+### Build/Validate
+The build validation step is a bit vague on purpose because it depends on what was included in the scope of the engagement. The PSE can use the [delivery kits mapped to our service offerings](/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework) which include templatized discovery documents, automation software to facilitate service delivery, and templatized deliverable documents. Most of the collateral will be modified and updated right from the delivery kits so this section is intentionally light on detail.
+
+
+### Train
 
 PSEs or Technical Instructors who deliver GitLab Education Services instructor-led courses can use the following workflow to ensure smooth interactions with customers. In addition, PSEs and Technical Instructors should complete these [GitLab Certified Trainer](/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/) steps for each course they are scheduled to deliver.
 
@@ -121,12 +146,31 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 1. The Project Coordinator will download the Zoom attendee report and send a Next Steps email to the customer main point of contact using an email template located in the [email communication templates](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
 1. <strong>For courses that have certification assessments</strong>: When an attendee submits their certification assessment, review their work in the demo lab cloud within 7 days of the attendee's submission and manually release their results using the attendee's completed Google Form. [Here are the detailed instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/wikis/GitLab-Certification-Instructions) for certifying customers.
 
-### Planning and Delivering Dedicated Engineering Services
+### Complete 
+**TODO: Add or link to content about what happens in this step**
 
-Work in progress
+### Financial Closeout 
+**TODO: Add or link to content about what happens in this step**
 
+## 4. Customer Success
 
-### Employing Subcontractors
+### Retrospective
+The project manager should schedule a retrospective at the end of the project. Invite the accout team (SAL, AE, TAM, SA), the delivery team (PSEs, trainers, Project Coordinators), Engagement Manager who scoped the engagement, and PS Leadership team. 
+
+The [Retrospective TEMPLATE](https://docs.google.com/document/d/1CXfnCzjF_hwapy0R-89txiFUmSmvX7jvlEqWn48zN8A/edit#heading=h.yqd5ghhhm2lh) can be used to capture notes during the meeting. 
+
+The Retrospective meeting should be run by someone that is not intimately familiar with the execution of the project (typically PS Practice Manager or Engagement Manager). During the meeting, encourage contribtions into the notes doc in real time and offer for participants to verbalize their feedback. 
+
+Toward the end of the call, gather actions and assign owners to complete those actions. 
+
+### Success Plan (TAM)
+**TODO: Add or link to content about what happens in this step**
+
+### Handoff (Support)
+**TODO: Add or link to content about what happens in this step**
+At the end of a small/medium sized projects or after the initial implementation phase of a large engagement, open a [support ops issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) and add a link to the collaboration project architecture diagram that was deployed. The Support team will load it into a field in Zendesk to help them have context for customer support requests. 
+
+## Employing Subcontractors
 
 If the project requirements exceed the current capacity of the available resources then the professional services team may employ a subcontractor to help deliver the project.  The following provides a checklist of items to process before and during the use of a subcontracted resource:
 
