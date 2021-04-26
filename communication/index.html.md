@@ -631,14 +631,17 @@ This gives us meetings of, for example, 25 or 50 minutes leaving some time to:
 The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week. Guidance for Focus Fridays includes:
 
 - Cancel or move any standing meetings occurring on Fridays
-- Customer/prospect/partner/external meetings are exceptions
-- Some one-off internal meetings might not be avoidable, but aim to minimize them as much as possible
+- Customer, prospect, partner and other external meetings are exceptions. You should not decline an external meeting citing Focus Fridays as the reason 
+- Urgent and important one-off internal meetings might not be avoidable, we should aim to minimize them as much as possible and defer to async work where we can
 - Consider blocking off your calendar as "busy" on Fridays to block your work time
 - Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work
+- Consider using Fridays to dedicate time to your [learning and development](/people-group/learning-and-development/)
 
-You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule.
+You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule. 
 
-Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 which ran through 2020-09-07, at which time E-Group evaluated the effectiveness on productivity and morale. They found the impact to be a positive one and extended the program until 2021-04-30.
+Consider joining #focus-fridays in slack and share how you spent your Friday including what has worked for you and what has not worked. Managers are encouraged to provide coaching and guidance. 
+
+Focus Fridays began as an experiment in the Northern Hemisphere Summer/Southern Hemisphere Winter of 2020 which ran through 2020-09-07, at which time E-Group evaluated the effectiveness on productivity and morale. They found the impact to be a positive one and extended the program until 2021-04-30. On 2021-04-26, the E-Group met and reviewed the [feedback issue](https://gitlab.com/gitlab-com/eba-team/-/issues/19) and found the overall sentiment from the team is that Focus Fridays are instrumental in helping folks concentrate and give space for creative thinking, encourage asynchronous work, and nurture team member well-being. E-Group decided to keep Focus Fridays permanently. 
 
 ### Meeting Cleanup Day
 
