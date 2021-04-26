@@ -6,28 +6,43 @@ description:
 
 ## Purpose
 
-Support team members often engage in data analysis during the course
-of their work. This page documents various planning parameters and metrics
-which have been looked at when doing planning and analysis.
+This page serves as the cornerstone for a Support Engineering data analysis
+[community of practice](https://en.wikipedia.org/wiki/Community_of_practice).
+Support team members who engage in any form of data extraction and analysis,
+either out of interest or as part of their work, can use this page to get an
+overview of ongoing planning and analysis efforts in the Suport team, current
+methods of extracting and analyzing data, and figure out who to collaborate with
+on specific topics of interest.
 
-It serves as a repository for:
+As such, this page contains the following information:
 
-* What's being used and the purpose for it.
+* What's being measured, why it's being measured, and the data is retrieved.
 * Who's responsible for it.
-
-The goal is to provide visibility into planning and analysis efforts undertaken
-by Support team members, form a basis for coordination, and reduce duplication
-of efforts.
-
+* Best practices around data collection and analysis.
 ### How do these metrics differ from Performance Indicators?
 
-The [Customer Support Deparment Performance Indicators](../performance-indicators/)
+The [Customer Support Department Performance Indicators](../performance-indicators/)
 are formal metrics used to keep track of how well the Support team is doing as a
 whole.
 
-The planning parameters and metrics included in this page are for exploratory
+The any parameters and metrics included in this page are for exploratory
 and internal planning purposes and should not be used for reporting on
 performance.
+
+The Customer Support Department Performance Indicators are the single source of
+truth for those indicators and, in the case of conflict, prevails over any the
+content on this page.
+
+### How is this related to the Engineering Analytics Team?
+
+The [Engineering Analytics Team](/handbook/engineering/quality/engineering-analytics-team/)
+formally works on data analysis for the Engineering Division, including Customer
+Support.
+
+The Support Data Analysis Community of Practice is made up of people interested
+in the application of data analysis to Support work, but may not have this as a
+formal part of their role's responsibilities.
+
 
 ## Parameters
 
