@@ -25,13 +25,18 @@ department_regexp = /(#{Regexp.union(departments)})/
 
 direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Sec')
 %>
-### Backend
 
-<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security') %>
+### Backend
+<%=  direct_team(role_regexp: /Engineer(.*)Protect:Container Security/, manager_slug: 'thiagofigueiro') %>
 
 ### Frontend
+<%=  direct_team(role_regexp: /Engineer(.*)Protect:Container Security/, manager_slug: 'lindsaykerr') %>
 
-<%=  direct_team(role_regexp: /Engineer/, manager_role: 'Frontend Engineering Manager, Secure:Threat Insights, Protect:Container Security') %>
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Protect/, direct_manager_role: nil, other_manager_roles: ['Frontend Engineering Manager, Secure:Threat Insights, Protect:Container Security', 'Backend Engineering Manager, Secure:Threat Insights, Protect:Container Security', 'Director of Engineering, Sec']) %>
 
 ## Open-source projects
 
