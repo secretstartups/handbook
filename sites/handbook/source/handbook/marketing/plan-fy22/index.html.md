@@ -51,7 +51,7 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 **Measure:** How do we confirm everyone is aligned?
 
 - [Trusted Data Sales Funnel Target vs. Actual](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual): Trials, MQLs, SAOs, Pipeline
-- [Marketing Key Meeting Dashboard](https://app.periscopedata.com/app/gitlab/775108/WIP:-Key-Monthly-Marketing-Metrics): Views, Traffic, etc.
+- [Marketing Key Review Dashboard](https://app.periscopedata.com/app/gitlab/775108/WIP:-Key-Monthly-Marketing-Metrics): Views, Traffic, etc.
 - [Demand Gen Dashboards for Campaign Metrics](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard)
 - [Linear Attribution Tables](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution)
 - [WIP: SDR Efficiency Metrics](https://app.periscopedata.com/app/gitlab/641469/SDR-Metrics)
@@ -76,7 +76,7 @@ Internal only - search for `GTM Slides - w Data`
 <!-- DO NOT CHANGE ANCHOR -->
 The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22, leveraging advisory services from [TOPO (now Gartner)](https://topohq.com/). In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `FY22_Mktg Model_TOPO_Machado - PLAN LOCKED`.
 
-On a monthly cadence, the **Marketing Key Meeting** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
+On a monthly cadence, the **Marketing Key Review** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
 
 ### Marketing Budgets
 {: #budgets}
