@@ -373,7 +373,7 @@ For more information on quoting or the Partner Program, please visit:
 
 ### Partner Program Discounts
 - The GitLab Partner Program provides partners with set discounts based on their engagement in opportunities (see definitions below) and their partner program track.
-- Partners are not eligible for discounts on sales or renewals of Bronze / Starter licenses.
+- At least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.
 - GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
 
 ### Partner Sourced Opportunity
