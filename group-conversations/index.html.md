@@ -12,7 +12,7 @@ description: "Everything you need to know about GitLab's daily, recurring Group 
 
 ## Introduction
 
-Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). Functions with a [Key Meeting](/handbook-key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations. 
+Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). Functions with a [Key Review](/handbook-key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations. 
 
 The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule--dri) as **Available**. If you would like to be added to the GC rotation, please post in #group-conversations . 
 
@@ -30,17 +30,17 @@ In this video our CEO, Sid gives team members tips and tricks for hosting a FGU 
 
 Below is a guide to ensure evenryone gets the most out of Group Conversations. If you have suggestions for improving the Attendee or Meeting Leader experience please create a Merge Request (MR) to update this page — [everyone can contribute](/company/strategy/#why)!
 
-## Group Conversation vs. Key Meeting
+## Group Conversation vs. Key Review
 
 It's common to wonder what the difference is between these two meetings. Generally, they cover the same or similar content, but for different audiences.
 
-|  | Key Meeting | Group Conversation
+|  | Key Review | Group Conversation
 | --- | --- | --- |
 | **Audience** | Management | General GitLab Team |
 | **Tone** | Formal | Informational |
 | **Discussion** | High-context | [Low-context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) |
 
-The Key Meeting is intended for updating management on progress, while the Group Conversation is open to the entire GitLab team and is a good place for sharing news and explaining initiatives. Here's a brief discussion of why we have both meetings, and how they can operate effectively:
+The Key Review is intended for updating management on progress, while the Group Conversation is open to the entire GitLab team and is a good place for sharing news and explaining initiatives. Here's a brief discussion of why we have both meetings, and how they can operate effectively:
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/tLOMA3663XM" frameborder="0" allowfullscreen="true"> </iframe>
@@ -117,7 +117,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Meeting deck](/handbook/key-review/#group-conversations-and-key-meeting-metrics) for the Group Conversation. 
+Use presentations to document everything people should know about your group. These presentations are for attendees to review and generate questions from for the call. You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement with the slides. Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-meeting-metrics) for the Group Conversation. 
 
 **Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement. 
 
@@ -145,7 +145,7 @@ These should be called Pop-up AMAs so it's clear to team members that the AMA wa
 
 #### Additional Consideration for Functional Presentations
 
-[Groups](/handbook/key-review/#invitees) that also have [Key Reviews](/handbook/key-review/) should repurpose material created for their last Key Meeting in the Group Conversation immediately following the Key Meeting. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Reviews](/handbook/key-review/) will have a monthly GC. 
+[Groups](/handbook/key-review/#invitees) that also have [Key Reviews](/handbook/key-review/) should repurpose material created for their last Key Review in the Group Conversation immediately following the Key Review. This is to give the broader team exposure to progress against key metrics and objectives that are key to the business and to reduce content duplication. Groups with [Key Reviews](/handbook/key-review/) will have a monthly GC. 
 
 ### 24 Hours Before the Call
 
@@ -236,9 +236,9 @@ Additional links which may be useful when preparing to moderate a call include:
 There is a rotating schedule with each Department having a conversation on a regular interval. 
 We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
-On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](handbook/key-meetings/#invitees) will have monthly Group Conversations within 10 days following their Key Meeting. They are expected to largely leverage their Key Meeting material. Other groups will have one meeting in the eight week cycle. Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the schedule below. The schedule, with directly responsible individuals (DRI), is as follows starting 2021-04-19:
+On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](handbook/key-meetings/#invitees) will have monthly Group Conversations within 10 days following their Key Review. They are expected to largely leverage their Key Review material. Other groups will have one meeting in the eight week cycle. Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the schedule below. The schedule, with directly responsible individuals (DRI), is as follows starting 2021-04-19:
 
-| Date | Group Conversation | DRI | Key Meeting? |
+| Date | Group Conversation | DRI | Key Review? |
 |---|---|---|---|
 | 2021-04-15 | AMA with the CPO | Wendy Barnes | N/A |
 | 2021-04-19 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
@@ -255,7 +255,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-05-06 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
 | 2021-05-10 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
 | 2021-05-11 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
-| 2021-05-12 | Open | Reserved for Groups that have a Key Meeting | Yes |
+| 2021-05-12 | Open | Reserved for Groups that have a Key Review | Yes |
 | 2021-05-13 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
 | 2021-05-17 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
 | 2021-05-18 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
@@ -289,7 +289,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-07-06 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
 | 2021-07-07 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
 | 2021-07-08 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
-| 2021-07-12 | Open | Reserved for Groups that have a Key Meeting | Yes |
+| 2021-07-12 | Open | Reserved for Groups that have a Key Review | Yes |
 | 2021-07-13 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
 | 2021-07-14 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
 | 2021-07-15 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
@@ -305,7 +305,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-08-03 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
 | 2021-08-04 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
 | 2021-08-05 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-08-09 | Open | Reserved for Groups that have a Key Meeting | Yes |
+| 2021-08-09 | Open | Reserved for Groups that have a Key Review | Yes |
 | 2021-08-10 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
 | 2021-08-11 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-08-12 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
@@ -322,7 +322,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-09-01 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
 | 2021-09-02 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
 | 2021-09-06 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
-| 2021-09-07 | Open | Reserved for Groups that have a Key Meeting | Yes |
+| 2021-09-07 | Open | Reserved for Groups that have a Key Review | Yes |
 | 2021-09-08 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
 | 2021-09-09 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
 | 2021-09-13 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
@@ -338,7 +338,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-09-29 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
 | 2021-09-30 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
 | 2021-10-04 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-10-05 | Open | Reserved for Groups that have a Key Meeting | Yes |
+| 2021-10-05 | Open | Reserved for Groups that have a Key Review | Yes |
 | 2021-10-06 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
 | 2021-10-07 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-10-11 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
@@ -358,7 +358,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-11-03 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
 | 2021-11-04 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
 | 2021-11-08 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
-| 2021-11-09 | Open | Reserved for Groups that have a Key Meeting | Yes |
+| 2021-11-09 | Open | Reserved for Groups that have a Key Review | Yes |
 | 2021-11-10 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
 | 2021-11-11 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
 | 2021-11-15 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
@@ -374,7 +374,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | 2021-12-01 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
 | 2021-12-02 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
 | 2021-12-06 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-12-07 | Open | Reserved for Groups that have a Key Meeting | Yes |
+| 2021-12-07 | Open | Reserved for Groups that have a Key Review | Yes |
 | 2021-12-08 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
 | 2021-12-09 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
 | 2021-12-13 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
