@@ -83,6 +83,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 | [Netsuite](https://www.netsuite.com/portal/home.shtml) | [Fivetran](https://fivetran.com/) | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h |
 | PMG | x | `pmg` | `pmg` | x | x / x |
 | [Qualtrics](https://www.qualtrics.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `qualitrics` | `qualtrics` | Marketing | 12h / 48h |
+| [SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |
 | [Salesforce](https://www.salesforce.com/) | [Stitch](https://www.stitchdata.com/) | `salesforce_stitch` | `sfdc`| Sales | 6h / 24h |
 | [SheetLoad](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | [SheetLoad](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `sheetload` | `sheetload` | Multiple | 24h / 48h |
 | [Snowplow](https://snowplowanalytics.com/) | [Snowpipe](/handbook/business-technology/data-team/platform/snowplow/index.html#snowpipe) | `snowplow` | `snowplow` | Product | 15m / 24h |
