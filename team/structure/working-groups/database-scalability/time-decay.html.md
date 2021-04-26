@@ -71,13 +71,15 @@ Consider as a counter example to a time-decay data access pattern an application
 
 Finally, a characteristic that further differentiates time-decay data in sub categories with slightly different approaches available is **whether we want to keep the old data or not** (e.g. retention policy) and/or **whether old data will be accessible by users through the application**.
 
-### Extended definition
+#### (optional) Extended definition of time-decay data
 
 As a side note, if we extend the aforementioned definitions to access patterns that restrict access to a well defined subset of the data based on a clustering attribute, we could use the time-decay scaling patterns for many other types of data.
 
 As an example, consider data that are only accessed while they are labeled as active, like ToDos not marked as done, pipelines for not merged MRs (or a similar not time based constraint), etc.
 In this case, instead of using a time dimension to define the decay, we use a categorical dimension (i.e. one that uses a finite set of values) to define the subset of interest.
 As long as that subset is small compared to the overall size of the dataset, we could use the same approach.
+
+Similarly, we may define data as old based both on a time dimension and additional status attributes, like for example ci pipelines that have failed more than 6 months ago.
 
 ## Time-Decay data strategies
 
@@ -140,17 +142,26 @@ That does not mean that they are not directly accessible by users through the ap
 In the simplest use case we can provide fast and direct access to recent data, while allowing users to download an archive with older data.
 This is an option evaluated in the `audit_events` use case; depending on the country and industry, audit events may have a very long retention period, while only the past month(s) of data are actively accessed through GitLab's interface.
 
-**WIP:** Define detailed strategy on how to approach moving data out of the database
+Additional use cases may include exporting data to a datawarehouse or other types of data stores as they may be better suited for processing that type of data. An example can be JSON logs that we sometimes store in tables: loading such data into a BigQuery or a columnar store like Redshift may be better for analyzing/querying the data.
+
+We might consider a number of strategies for moving data outside of the database:
+
+1. Streaming this type of data into logs and then move them to secondary storage options or load them to other types of data stores directly (as CSV/JSON data).
+1. Creating an ETL process that exports the data to CSV, uploads them to object storage, drops this data from the database, and then loads the CSV into a different data store.
+1. Loading the data in the background by using the API provided by the data store.
+
+   This may be a not viable solution for large datasets; as long as bulk uploading using files is an option, it should outperform API calls.
 
 ## Use cases
 
 ### Audit Events
 
-**WIP:** [Partitioning: web_hook_logs table](https://gitlab.com/groups/gitlab-org/-/epics/5558)
+**WIP:** [Partitioning: Design and implement partitioning strategy for Audit Events](https://gitlab.com/groups/gitlab-org/-/epics/3206)
 
 ### Web hook logs
 
-**WIP:** [Partitioning: Design and implement partitioning strategy for Audit Events](https://gitlab.com/groups/gitlab-org/-/epics/3206)
+
+**WIP:** [Partitioning: web_hook_logs table](https://gitlab.com/groups/gitlab-org/-/epics/5558)
 
 ### CI tables
 
