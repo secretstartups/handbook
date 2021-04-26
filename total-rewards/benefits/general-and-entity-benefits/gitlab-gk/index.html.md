@@ -75,10 +75,9 @@ The statutory entitlement for maternity leave is 14 weeks. The leave must start 
 #### Maternity Leave Payment
  
 * Team members may be eligible for maternity leave allowance equal to 2/3 of the team member's base salary for the duration of maternity leave. The allowance also covers the delay period if the actual date of birth is later than the expected due date. 
+ - If the team member is a dependent under their spouse's health insurance, they will not be eligible for maternity leave allowance.
  
-   * If the team member is a dependent under their spouse's health insurance, they will not be eligible for maternity leave allowance.
- 
-* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave, the team member may choose to take GitLab Parental Leave for the first 16 weeks of maternity leave. During this time, the team member will not be eligible for maternity leave allowance from the government. GitLab parental leave and government maternity leave allowance _do not_ run concurrently.
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), the team member may choose to take GitLab Parental Leave for the first 16 weeks of maternity leave. During this time, the team member will not be eligible for maternity leave allowance from the government. GitLab parental leave and government maternity leave allowance _do not_ run concurrently.
  
 #### Childcare Leave Payment
  
@@ -87,7 +86,7 @@ The statutory entitlement for maternity leave is 14 weeks. The leave must start 
  
 * Social insurance will pay the team member 67% of their base salary for the first 6 months of Child Care Leave and 50% of their salary for the remainder of leave. 
  
-* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave, the team member may choose to take GitLab Parental Leave for the first 16 weeks. During this time, the team member will not be eligible for child care leave allowance from the government. GitLab Parental Leave and government child care leave allowance _do not_ run concurrently.
+* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), the team member may choose to take GitLab Parental Leave for the first 16 weeks. During this time, the team member will not be eligible for child care leave allowance from the government. GitLab Parental Leave and government child care leave allowance _do not_ run concurrently.
  
 #### Other Job-Protected Leave
   
@@ -97,9 +96,9 @@ The statutory entitlement for maternity leave is 14 weeks. The leave must start 
  
 **Family Care Leave:** Team members are entitled to 5 days of leave to look after a sick or injured family member, or up to 10 days for 2 or more family members. This leave runs concurrently with GitLab PTO.
 
-**Menstrual Leave**  A female team member whose ability to attend work is significantly impeded by menstruation can request unpaid menstrual leave.
+**Menstrual Leave**:  A female team member whose ability to attend work is significantly impeded by menstruation can request unpaid menstrual leave.
 
-**Time off To Exercise Civil Rights** A team member exercising their civil right such as voting or serving as a juror can request unpaid time off. 
+**Time off To Exercise Civil Rights**: A team member exercising their civil right such as voting or serving as a juror can request unpaid time off. 
 
 
 
