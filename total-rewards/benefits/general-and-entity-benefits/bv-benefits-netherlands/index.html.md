@@ -34,7 +34,7 @@ GitLab does not plan on adding additional medical cover at this time due to the 
 
 ## Pension
 
-State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [Brand New Day](https://new.brandnewday.nl/) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 3.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 1%. The pension base equals the pensionable salary less the state pension offset.
+State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [Brand New Day](https://new.brandnewday.nl/) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 3.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 1%. The pension base equals the pensionable salary less the state pension offset. For additional training, Brand New Day has provided [video](https://drive.google.com/drive/folders/1qjCicb0JxnCmG5i4l3Hv5CEs5q8mOuXX?usp=sharing) explanations on how the pension plan works. 
 
 **Pension Plan Summary:**
 * Pension: The Pension plan is designed for team members to build up an invested pension fund that they cash in to purchase a retirement
@@ -64,7 +64,7 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
 ## GitLab B.V. Netherlands Leave Policy
 
 * Statutory Sick Leave
-  - Team members who are unable to work due to illness are entitled to 70% of their salary for up to 104 weeks. Team members will receive 100% of their salary for the first six weeks of illness. This leave runs concurrently with GitLab PTO. 
+  - Team members who are unable to work due to illness are entitled to 70% of their salary for up to 104 weeks. This leave runs concurrently with GitLab PTO. Team members will receive 100% of their salary for the first 25 of illness. 
   - GitLab complies with [Dutch local Laws](https://business.gov.nl/regulation/reporting-employee-illness-recovery/) regarding sick leave. Local laws override any leave policy we have in the benefit of the team members.
   - Team members must select `Out Sick` in PTO by Roots to ensure that all sick time is properly tracked. For complete reporting procedures, please review [the sick time procedure for The Netherlands here](/handbook/paid-time-off/#sick-time-procedures---netherlands). 
 
@@ -78,12 +78,30 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
   - After your partner has given birth you are entitled to up to five days of paid parental leave.
   - Within 6 months of the birth you are also entitled to 5 weeks of additional paid leave at 70% (["Aanvullend geboorteverlof"](https://www.rijksoverheid.nl/onderwerpen/geboorteverlof-en-partnerverlof/geboorteverlof-voor-partners)).
   - Team members who have children under the age of eight are entitled to take unpaid parental leave. In the case of a family with more than one child under the age of eight, that right is applicable for each child. The number of hours' leave is thirteen times the weekly working hours (65 days for full-time employment). However, no more than half of the number of weekly working hours can be taken each week.
-  - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they superside the statutory leave benefits.
+  - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they supersede the statutory leave benefits.
 
 * Vacation Leave
   - Team members are entitled to at least 20 vacation days per year which run concurrently with GitLab PTO. The days will accrue at 1.67 days/month from the team member's start date. Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata part vacation days exists. Team members must designate all vacation days taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
 
+* Adoption and Foster Leave
+- Team members who have adopted or taken in a foster child are entitled to 6 weeks of leave and [adoption or foster care allowance](https://www.uwv.nl/particulieren/zwanger-adoptie-pleegzorg/adoptie-pleegzorg/ik-word-adoptie-of-pleegouder/detail/krijg-ik-een-adoptie-of-pleegzorguitkering#hoe-hoog-is-mijn-adoptie-of-pleegzorguitkering).
+- This leave runs concurrently with GitLab Parental Leave. GitLab will supplement adoption or foster care allowance for [eligible team members](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) so that they receive 100% of their pay for the first 16 weeks of leave.
+- Team members must notify Total Rewards of their intent to take adoption or foster leave at least three weeks in advance, and must designate this time off as `Parental Leave` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
 People Ops will consult with HRSavvy to ensure that the statute is met.
+
+* Short-term Care Leave
+- Short-term care leave is available to team members who must provide essential care to someone who is ill or otherwise in real need. In order to be eligible, the team member must be the only person who can look after the person in need during that period of time. 
+- Team members are entitled to a maximum of twice the number of their normal weekly hours agreed upon in their employment contract, per 12-month period. For example, if a team member’s contract states that they have a 40-hour work week, then that team member may take 80 hours of short-term care leave in one 12-month period.
+- Team members are entitled to 70% of their salary to be paid by the employer. This leave runs concurrently with GitLab PTO. GitLab team members will receive 100% of their pay for the first 25 days of short-term care leave. 
+- Team members must notify their manager and Total Rewards of their intent to take short-term care leave as soon as possible.
+
+* Long-term Care Leave
+- Team members are entitled to long-term care in the event that their child, partner, or parent has a serious, life-threatening illness. 
+- Team members are entitled to a maximum of 6 times the number of their normal weekly hours agreed upon in their employment contract, per 12-month period of time. For example, if a team member’s contract states that they have a 40-hour work week, then that team member may take 240 hours of long-term care leave in one 12-month period. 
+- There is no entitlement to pay during long-term care leave; however, this leave runs concurrently with GitLab PTO, so team members will receive 100% of their pay for the first 25 days of leave. 
+- Team members should notify their manager and Total Rewards of their intention to take long-term care leave as soon as possible.
+
 
 ### Applying for Leave in the Netherlands
 

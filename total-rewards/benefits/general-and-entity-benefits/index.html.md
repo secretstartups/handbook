@@ -12,7 +12,7 @@ description: A list of the General & Entity Specific Benefits that GitLab offers
 
 ## Introduction
 
-For the avoidance of doubt, the benefits listed below in the General Benefits section are available to contractors and team members, unless otherwise stated. Other benefits are listed by countries that GitLab has established an entity or co-employer and therefore are applicable to team members in those countries only via our entity specific benefits. GitLab has also made provisions for Parental Leave which may apply to team members and contractors but this may vary depending on local country laws. If you are unsure please reach out to the Total Rewards team.
+For the avoidance of doubt, the benefits listed below in the General Benefits section are available to contractors and team members, unless otherwise stated. Other benefits are listed by countries that GitLab has established an entity or co-employer and therefore are applicable to team members in those countries only via our entity specific benefits. GitLab has also made provisions for Parental Leave which may apply to team members but this may vary depending on local country laws. If you are unsure please reach out to the Total Rewards team.
 
 ## Contact Total Rewards
 For any questions relating to benefits, please reach out to [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
@@ -20,9 +20,8 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 ## Entity Benefits
 - [GitLab BV (Netherlands)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-netherlands)
 - [GitLab BV (Belgium)](/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium)
-- [Global Upside (India and Philippines)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
+- [Global Upside (India, Philippines, Kenya, Chile, Costa Rica and Denmark)](/handbook/total-rewards/benefits/general-and-entity-benefits/global-upside-benefits-india)
 - [GitLab Inc (US)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us)
-- [GitLab Inc (China)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-china)
 - [GitLab LTD (UK)](/handbook/total-rewards/benefits/general-and-entity-benefits/ltd-benefits-uk)
 - [GitLab GmbH (Germany)](/handbook/total-rewards/benefits/general-and-entity-benefits/gmbh-benefits-germany)
 - [GitLab PTY (Australia & New Zealand)](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia)
@@ -72,7 +71,10 @@ Budget estimations for the Growth & Development benefit are based on utilization
 The [Growth and Development page](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development) covers information on the application process and the different types of expenses you can get reimbursed under this benefit.
  
 ## GitLab Contribute
-Every nine months or so GitLab team members gather at an exciting new location to [stay connected](/blog/2016/12/05/how-we-stay-connected-as-a-remote-company/), at what we like to call [GitLab Contribute](/company/culture/contribute). It is important to spend time face to face to get to know your team and, if possible, meet everyone who has also bought into the company vision. There are fun activities planned by our GitLab Contribute Experts, work time, and presentations from different Departments to make this an experience that you are unlikely to forget! Attendance is optional, but encouraged. For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous).
+[GitLab Contribute](/events/gitlab-contribute/) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Contribute is an optional event, so team members should not feel pressured to attend. This year, Contribute will be hybrid-first, enabling team members to watch and participate from anywhere.
+
+From our first Contribute in Serbia to our virtual event in 2020, team members from around the world have built friendships and experienced the values in person. 
+For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous).
 
 ## Business Travel Accident Policy
 
