@@ -1,7 +1,3 @@
----
-layout: handbook-page-toc
-title: Product Intelligence Guide
----
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -16,7 +12,7 @@ There are several steps involved to go from collecting data to making it useful 
 
 #### 1. Privacy Policy and Settings
 
-```mermaid
+``` mermaid
 graph LR
 	privacy_policy[Privacy Policy] --> data_classification_policy[Data Classification Policy]
 	data_classification_policy[Data Classification Policy] --> privacy_settings[Privacy Settings]
@@ -24,7 +20,7 @@ graph LR
 
 #### 2. Data Collection
 
-```mermaid
+``` mermaid
 graph LR
 	collection_framework[Collection Framework] --> metrics_dictionary[Metrics Dictionary]
 	metrics_dictionary[Metrics Dictionary] --> instrumentation[Instrumentation]
@@ -35,7 +31,7 @@ graph LR
 
 #### 3. Processing Pipeline
 
-```mermaid
+``` mermaid
 graph LR
     snowplow_collector[Snowplow Collector] --> snowplow_enricher[Snowplow Enricher]
 	usage_ping_collector[Usage Ping Collector] --> usage_ping_processor[Usage Ping Processor]
@@ -62,7 +58,7 @@ graph LR
 
 #### 4. Enable Product Teams
 
-```mermaid
+``` mermaid
 graph LR
 	data_triage[Data Triage] --> sisense_dashboards[Sisense Dashboards]
 	sisense_dashboards[Sisense Dashboards] --> certified_sisense_dashboards[Certified Sisense Dashboards]
@@ -74,7 +70,7 @@ graph LR
 
 #### 5. Enable Sales and Customer Success
 
-```mermaid
+``` mermaid
 graph LR
 	snowflake_to_edw_salesforce_data_pump[Snowflake EDW to Salesforce Data Pump] --> salesforce_dashboards[Salesforce Dashboards]
 	salesforce_dashboards[Salesforce Dashboards] --> salesforce_to_gainsight_data_feed[Salesforce to Gainsight Data Feed]
@@ -84,7 +80,7 @@ graph LR
 
 #### 6. Enable Full Funnel Analytics
 
-```mermaid
+``` mermaid
 graph LR
 	all_data_feeds_to_snowflake_edw[All Data Feeds to Snowflake EDW] --> product_data[Product Data]
 	all_data_feeds_to_snowflake_edw[All Data Feeds to Snowflake EDW] --> license_and_subscription_data[License and Subscription Data]
@@ -103,7 +99,7 @@ graph LR
 
 #### 7. Enhance Value Stream Management Feature
 
-```mermaid
+``` mermaid
 graph LR
 	value_stream_management_data_feed[Value Stream Management Data Feed] --> value_stream_management_features[Value Stream Management Features]
 ```
@@ -112,57 +108,57 @@ graph LR
 
 We work closely with other internal teams in each step in the Product Intelligence Process. The teams involved at each step are:
 
-| Theme                           | Step                                  | Description                                                                                                             | Team Responsible        | Teams Involved                                                           |
-|---------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------------------------------------------------------|
-| Privacy Policy and Settings     | Privacy Policy                        | Outlines what product usage data we collect from our users.                                                             | Legal                   | Product Intelligence, Data                                                  |
-| Privacy Policy and Settings     | Data Classification Policy            | Outlines our data classification levels based on sensitivity.                                                           | Security                | Legal, Product Intelligence, Data                                           |
-| Privacy Policy and Settings     | Privacy Settings                      | In app settings for users to control what data they share with GitLab.                                                  | Product Intelligence       | Legal, Data                                                              |
-| Data Collection                 | Collection Framework                  | Outlines our available data collection tools.                                                                           | Product Intelligence       |                                                                          |
-| Data Collection                 | Event Dictionary                      | The single source of truth defining all product metrics and events.                                                     | Product Intelligence       | Product Managers                                                         |
-| Data Collection                 | Instrumentation                       | Instrumentation of feature tracking done by each product and engineering team.                                          | Product Managers        | Product Intelligence                                                        |
-| Data Collection                 | Release Cycle                         | The release of GitLab code. We have daily releases for SaaS and monthly releases for self-managed.                      | Product Managers        | Product Intelligence                                                        |
-| Data Collection                 | Product Usage                         | Product usage of GitLab generating tracking events.                                                                     | Product Managers        | Product Intelligence                                                        |
-| Data Collection                 | Usage Ping Generation                 | A weekly job that aggregates and sends product usage data to GitLab.                                                    | Product Intelligence       |                                                                          |
-| Processing Pipeline             | Snowplow Collector                    | The collection of Snowplow data.                                                                                        | Product Intelligence       | Data, Infrastructure                                                     |
-| Processing Pipeline             | Snowplow Enricher                     | The enrichment of Snowplow data.                                                                                        | Product Intelligence       | Data, Infrastructure                                                     |
-| Processing Pipeline             | Usage Ping Collector                  | The collection of Usage Ping data.                                                                                      | Product Intelligence       | Data                                                                     |
-| Processing Pipeline             | Usage Ping Processor                  | The processing of Usage Ping data.                                                                                      | Product Intelligence       | Data                                                                     |
-| Processing Pipeline             | Extractors                            | The extraction of Usage Ping and Snowplow data sources.                                                                 | Data                    | Product Intelligence, Infrastructure                                        |
-| Processing Pipeline             | Loaders                               | The loading of Usage Ping and Snowplow data into the data warehouse.                                                    | Data                    | Product Intelligence, Infrastructure                                        |
-| Processing Pipeline             | Snowflake Enterprise Data Warehouse   | Our enterprise data warehouse where our organization's data is kept.                                                    | Data                    | Product Intelligence, Infrastructure                                        |
-| Processing Pipeline             | dbt Base Data Models                  | General ETL, models, and visualizations                                                                                 | Data                    | Product Intelligence                                                        |
-| Processing Pipeline             | Product Data Models                   | Product specific ETL, models, and visualizations                                                                        | Product Intelligence       | Data                                                                     |
-| Processing Pipeline             | Engineering Data Models               | Engineering specific ETL, models, and visualizations                                                                    | Data                    | Engineering                                                              |
-| Processing Pipeline             | Sales Data Models                     | Sales specific ETL, models, and visualizations                                                                          | Data                    | Sales                                                                    |
-| Processing Pipeline             | Customer Success Data Models          | Customer Success specific ETL, models, and visualizations                                                               | Data                    | Customer Success                                                         |
-| Processing Pipeline             | Marketing Data Models                 | Marketing specific ETL, models, and visualizations                                                                      | Data                    | Marketing                                                                |
-| Processing Pipeline             | People Data Models                    | People specific ETL, models, and visualizations                                                                         | Data                    | People                                                                   |
-| Processing Pipeline             | Finance Data Models                   | Finance specific ETL, models, and visualizations                                                                        | Data                    | Finance                                                                  |
-| Processing Pipeline             | Enterprise Dimensional Models         | The single source of truth for GitLab data, spanning corporate performance and customer journey analytics.              | Data                    | Product Intelligence                                                        |
-| Enable Product                  | Data Triage                           | The triaging of inbound Product Intelligence requests.                                                                     | Product Analysts        | Product Managers, Data                                                   |
-| Enable Product                  | Sisense Dashboards                    | Sisense dashboards for product managers.                                                                                | Product Managers        | Product Intelligence, Data                                                  |
-| Enable Product                  | Certified Sisense Dashboards          | Sisense dashboards containing the SSOT for product performance, supported by the Enterprise Dimensional Model.          | Product Analysts, Data  | Product Managers, Product Intelligence                                      |
-| Enable Product                  | Product KPI Dashboards                | Sisense dashboards containing established KPIs for Product.                                                             | Product Analysts        | Product Managers, Data                                                   |
-| Enable Product                  | Product Performance Indicators        | The product metrics GitLab's product team pays attention to.                                                            | Product Managers        | Product Intelligence, Data                                                  |
-| Enable Product                  | Metrics Reviews                       | Monthly reviews of GitLab's product metrics.                                                                            | Product Managers        | Product Intelligence, Data                                                  |
-| Enable Product                  | Product Improvements                  | Product improvements based on insights from product usage data.                                                         | Product Managers        |                                                                          |
-| Enable Sales / CS               | Snowflake EDW to Salesforce Data Pump | Data feed of product usage data into Salesforce from EDW.                                                               | Data                    | Sales, Customer Success, Product Intelligence                               |
-| Enable Sales / CS               | Salesforce Dashboards                 | Dashboard embeded into each Salesforce Customer showing product usage.                                                  | Sales                   | Product Intelligence, Data                                                  |
-| Enable Sales / CS               | Salesforce to Gainsight Data Feed     | Data feed from Salesforce to Gainsight.                                                                                 | Customer Success        |                                                                          |
-| Enable Sales / CS               | Gainsight Dashboards                  | Dashboard embeded into each Gainsight Customer showing product usage.                                                   | Customer Success        | Product Intelligence, Data                                                  |
-| Enable Sales / CS               | Customer Conversations                | Customer conversations using product usage data.                                                                       | Sales, Customer Success |                                                                          |
-| Full Funnel Analytics           | All Data Feeds to Snowflake EDW       | ETL from source into EDW/Snowflake in a Secure and Compliant RAW landing zone.                                          | Data                    | Multiple                                                                 |
-| Full Funnel Analytics           | Product Data                          | Product data sources such as GitLab.com Postgres, Usage Ping data, and Snowplow data.                                   | Product Intelligence       | Data, Enterprise Applications                                            |
-| Full Funnel Analytics           | License and Subscription Data         | License and subscription data sources such as Customers app, License app, and Zuora data.                               | Fulfillment             | Product Intelligence, Data, Enterprise Applications                         |
-| Full Funnel Analytics           | Sales Data                            | Sales data sources such as Salesforce.                                                                                  | Sales                   | Product Intelligence, Data, Enterprise Applications                         |
-| Full Funnel Analytics           | Customer Success Data                 | Customer Success data sources such as Gainsight.                                                                        | Customer Success        | Product Intelligence, Data, Enterprise Applications                         |
-| Full Funnel Analytics           | Marketing Data                        | Marketing data sources such as Google Analytics and Marketo.                                                            | Marketing               | Product Intelligence, Data, Enterprise Applications                         |
-| Full Funnel Analytics           | Full Funnel Integration               | The integration of all Product, License and Subscription, Sales, Customer Success, and Marketing Data.                  | Enterprise Applications | Marketing, Fulfillment, Sales, Customer Success, Product Intelligence, Data |
-| Full Funnel Analytics           | Full Funnel Analysis                  | The analysis of all Product, License and Subscription, Sales, Customer Success, and Marketing Data.                     | Data                    | Marketing, Fulfillment, Sales, Customer Success, Product Intelligence       |
-| Full Funnel Analytics           | Corporate Performance Analysis        | Cross-functional dashboards, balanced scorecards, and related metrics for measuring corporate lead-to-cash performance. | Data                    | Marketing, Fulfillment, Sales, Customer Success, Product Intelligence       |
-| Full Funnel Analytics           | Customer Journey Analytics            | Cross-functional dashboards, balanced scorecards, and related metrics for measuring the customer product experience.    | Data                    | Marketing, Fulfillment, Sales, Customer Success, Product Intelligence       |
-| Enhance Value Stream Management | Value Stream Management Data Feed     | A data feed for passing benchmark product usage data back to customers.                                                 | Product Intelligence       | Value Stream Management                                                  |
-| Enhance Value Stream Management | Value Stream Management Features      | Features to show customers how they're using GitLab.                                                                    | Value Stream Management | Product Intelligence                                                        |
+| Theme | Step | Description | Team Responsible | Teams Involved |
+| ----- | ---- | ----------- | ---------------- | -------------- |
+| Privacy Policy and Settings | Privacy Policy | Outlines what product usage data we collect from our users. | Legal | Product Intelligence, Data |
+| Privacy Policy and Settings | Data Classification Policy | Outlines our data classification levels based on sensitivity. | Security | Legal, Product Intelligence, Data |
+| Privacy Policy and Settings | Privacy Settings | In app settings for users to control what data they share with GitLab. | Product Intelligence | Legal, Data |
+| Data Collection | Collection Framework | Outlines our available data collection tools. | Product Intelligence |  |
+| Data Collection | Event Dictionary | The single source of truth defining all product metrics and events. | Product Intelligence | Product Managers |
+| Data Collection | Instrumentation | Instrumentation of feature tracking done by each product and engineering team. | Product Managers | Product Intelligence |
+| Data Collection | Release Cycle | The release of GitLab code. We have daily releases for SaaS and monthly releases for self-managed. | Product Managers | Product Intelligence |
+| Data Collection | Product Usage | Product usage of GitLab generating tracking events. | Product Managers | Product Intelligence |
+| Data Collection | Usage Ping Generation | A weekly job that aggregates and sends product usage data to GitLab. | Product Intelligence |  |
+| Processing Pipeline | Snowplow Collector | The collection of Snowplow data. | Product Intelligence | Data, Infrastructure |
+| Processing Pipeline | Snowplow Enricher | The enrichment of Snowplow data. | Product Intelligence | Data, Infrastructure |
+| Processing Pipeline | Usage Ping Collector | The collection of Usage Ping data. | Product Intelligence | Data |
+| Processing Pipeline | Usage Ping Processor | The processing of Usage Ping data. | Product Intelligence | Data |
+| Processing Pipeline | Extractors | The extraction of Usage Ping and Snowplow data sources. | Data | Product Intelligence, Infrastructure |
+| Processing Pipeline | Loaders | The loading of Usage Ping and Snowplow data into the data warehouse. | Data | Product Intelligence, Infrastructure |
+| Processing Pipeline | Snowflake Enterprise Data Warehouse | Our enterprise data warehouse where our organization's data is kept. | Data | Product Intelligence, Infrastructure |
+| Processing Pipeline | dbt Base Data Models | General ETL, models, and visualizations | Data | Product Intelligence |
+| Processing Pipeline | Product Data Models | Product specific ETL, models, and visualizations | Product Intelligence | Data |
+| Processing Pipeline | Engineering Data Models | Engineering specific ETL, models, and visualizations | Data | Engineering |
+| Processing Pipeline | Sales Data Models | Sales specific ETL, models, and visualizations | Data | Sales |
+| Processing Pipeline | Customer Success Data Models | Customer Success specific ETL, models, and visualizations | Data | Customer Success |
+| Processing Pipeline | Marketing Data Models | Marketing specific ETL, models, and visualizations | Data | Marketing |
+| Processing Pipeline | People Data Models | People specific ETL, models, and visualizations | Data | People |
+| Processing Pipeline | Finance Data Models | Finance specific ETL, models, and visualizations | Data | Finance |
+| Processing Pipeline | Enterprise Dimensional Models | The single source of truth for GitLab data, spanning corporate performance and customer journey analytics. | Data | Product Intelligence |
+| Enable Product | Data Triage | The triaging of inbound Product Intelligence requests. | Product Analysts | Product Managers, Data |
+| Enable Product | Sisense Dashboards | Sisense dashboards for product managers. | Product Managers | Product Intelligence, Data |
+| Enable Product | Certified Sisense Dashboards | Sisense dashboards containing the SSOT for product performance, supported by the Enterprise Dimensional Model. | Product Analysts, Data | Product Managers, Product Intelligence |
+| Enable Product | Product KPI Dashboards | Sisense dashboards containing established KPIs for Product. | Product Analysts | Product Managers, Data |
+| Enable Product | Product Performance Indicators | The product metrics GitLab's product team pays attention to. | Product Managers | Product Intelligence, Data |
+| Enable Product | Metrics Reviews | Monthly reviews of GitLab's product metrics. | Product Managers | Product Intelligence, Data |
+| Enable Product | Product Improvements | Product improvements based on insights from product usage data. | Product Managers |  |
+| Enable Sales / CS | Snowflake EDW to Salesforce Data Pump | Data feed of product usage data into Salesforce from EDW. | Data | Sales, Customer Success, Product Intelligence |
+| Enable Sales / CS | Salesforce Dashboards | Dashboard embeded into each Salesforce Customer showing product usage. | Sales | Product Intelligence, Data |
+| Enable Sales / CS | Salesforce to Gainsight Data Feed | Data feed from Salesforce to Gainsight. | Customer Success |  |
+| Enable Sales / CS | Gainsight Dashboards | Dashboard embeded into each Gainsight Customer showing product usage. | Customer Success | Product Intelligence, Data |
+| Enable Sales / CS | Customer Conversations | Customer conversations using product usage data. | Sales, Customer Success |  |
+| Full Funnel Analytics | All Data Feeds to Snowflake EDW | ETL from source into EDW/Snowflake in a Secure and Compliant RAW landing zone. | Data | Multiple |
+| Full Funnel Analytics | Product Data | Product data sources such as GitLab.com Postgres, Usage Ping data, and Snowplow data. | Product Intelligence | Data, Enterprise Applications |
+| Full Funnel Analytics | License and Subscription Data | License and subscription data sources such as Customers app, License app, and Zuora data. | Fulfillment | Product Intelligence, Data, Enterprise Applications |
+| Full Funnel Analytics | Sales Data | Sales data sources such as Salesforce. | Sales | Product Intelligence, Data, Enterprise Applications |
+| Full Funnel Analytics | Customer Success Data | Customer Success data sources such as Gainsight. | Customer Success | Product Intelligence, Data, Enterprise Applications |
+| Full Funnel Analytics | Marketing Data | Marketing data sources such as Google Analytics and Marketo. | Marketing | Product Intelligence, Data, Enterprise Applications |
+| Full Funnel Analytics | Full Funnel Integration | The integration of all Product, License and Subscription, Sales, Customer Success, and Marketing Data. | Enterprise Applications | Marketing, Fulfillment, Sales, Customer Success, Product Intelligence, Data |
+| Full Funnel Analytics | Full Funnel Analysis | The analysis of all Product, License and Subscription, Sales, Customer Success, and Marketing Data. | Data | Marketing, Fulfillment, Sales, Customer Success, Product Intelligence |
+| Full Funnel Analytics | Corporate Performance Analysis | Cross-functional dashboards, balanced scorecards, and related metrics for measuring corporate lead-to-cash performance. | Data | Marketing, Fulfillment, Sales, Customer Success, Product Intelligence |
+| Full Funnel Analytics | Customer Journey Analytics | Cross-functional dashboards, balanced scorecards, and related metrics for measuring the customer product experience. | Data | Marketing, Fulfillment, Sales, Customer Success, Product Intelligence |
+| Enhance Value Stream Management | Value Stream Management Data Feed | A data feed for passing benchmark product usage data back to customers. | Product Intelligence | Value Stream Management |
+| Enhance Value Stream Management | Value Stream Management Features | Features to show customers how they're using GitLab. | Value Stream Management | Product Intelligence |
 
 [Editable source file](https://docs.google.com/spreadsheets/d/144-BLh7uyX4aY23QNrvke5BqCcb9xfPk2BL4qGFvzFY/edit?usp=sharing)
 
@@ -225,7 +221,7 @@ users engage with our website and application.
 Snowplow consists of two components:
 
 - [Snowplow JS](https://github.com/snowplow/snowplow/wiki/javascript-tracker) tracks client-side
-  events.
+events.
 - [Snowplow Ruby](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/ruby-tracker/) tracks server-side events.
 
 For more details, read the [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) guide.
@@ -290,13 +286,14 @@ We're currently focusing our Metrics Dictionary on [Usage Ping](https://docs.git
 ## Implementing Product Performance Indicators
 
 We've recently had a large push across the product organization to become more data driven. Part of this push includes getting product metrics in place for each product section, stage, and group. In FY21-Q3 OKRs, we setup a couple of OKRs to help us accomplish this:
+
 - [100% of groups have Future GMAU (or Paid GMAU) with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1342)
 - [100% of stages have Future SMAU and Paid SMAU with instrumentation, dashboards, and quarterly targets](https://gitlab.com/gitlab-com/Product/-/issues/1343).
 
 To accomplish these OKRs, we setup a seven step process to implement product metrics. This process was originally presented in the Weekly Product Meeting on August 11, 2020 ([slide deck](https://docs.google.com/presentation/d/1wCpvdCUtBtU4Y1vHDOSOLjhrlPvdYBAbydj58SRN5Js/edit) and [video presentation](https://youtu.be/1l1ru7k-q2I?t=375)) and has been refined over time.
 
 | Implementation Status | Description | Responsibility | Exit Criteria |
-| ------ | ----------- | -------------- |-------------- |
+| --------------------- | ----------- | -------------- | ------------- |
 | [Definition](#definition) | The definition step outlines the process for deciding which product metrics to track. | PM Responsibility, Product Intelligence Support | Metric is defined in the Event Dictionary and [in the Performance Indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators) with the future `metric_name`. Issue for instrumentation is completed and scheduled for the current release. |
 | [Instrumentation](#instrumentation) | The instrumentation step outlines how each product team implements data collection. | PM Responsibility, Product Intelligence Support | Instrumentation is completed and feature flags are turned off so that data can be collected |
 | [Data Availability](#data-availability) | The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse. | PM Responsibility, Product Intelligence Support | PM confirms that the `metric_name` is present in the data set, updates the PI file with a cc to `@gitlab-org/growth/product-intelligence/engineers @gitlab-data` to inform them that the metric is available. For example, for self-managed usage ping implementation, check the #g_product_intelligence slack channel for the latest SaaS Usage Ping Payload. |
@@ -317,25 +314,23 @@ Determine what metrics are important for your specific section, stage, or group.
     1. Group level - GMAU, Paid GMAU, Other PI
 1. Define the metric. This is typically done by selecting an initial AMAU that is most representative of overall stage/group use
 1. Determine the right [collection framework](/direction/product-intelligence-guide/#collection-framework) to utilize. Some guidance for considering collection frameworks:
-  * **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage.
-   * **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
-   * **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentation on GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed.
-   * **Usage Ping - Postgres** - Our original Usage Ping implementation this collects distinct database counts.
-   * **Usage Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
+    - **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage.
+    - **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
+    - **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentation on GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed.
+    - **Usage Ping - Postgres** - Our original Usage Ping implementation this collects distinct database counts.
+    - **Usage Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
 1. Plan your future events and metrics with your engineering team and add them to the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485).
 1. Add the value from column A of the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) to the [Performance Indicator (PI) yaml file as the `metric_name`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators)
 
 #### Deduplication of Aggregated Metrics
+
 Note: We now enable you to deduplicate aggregated metrics implemented via Redis HLL, in order to get distinct counts (ex distinct users count across multiple actions in a stage). Please read our docs on [Aggregated Metrics](https://docs.gitlab.com/ee/development/usage_ping/#aggregated-metrics) for more information. We are working towards the ability to deduplicate across multiple Database HLL metrics via [#288848](https://gitlab.com/gitlab-org/gitlab/-/issues/288848), and then deduplication across multiple Redis HLL and Database HLL metrics via [#421](https://gitlab.com/gitlab-org/product-intelligence/-/issues/421)
 
-
 | Term | Definition | Example |
-| -----| -----------| --------|
-| Aggregated| Metric contains rolled-up values due to an aggregate function (COUNT, SUM, etc) | Total Page Views (TPV) - the sum of all events when a page was viewed. |
+| ---- | ---------- | ------- |
+| Aggregated | Metric contains rolled-up values due to an aggregate function (COUNT, SUM, etc) | Total Page Views (TPV) - the sum of all events when a page was viewed. |
 | Deduplicated | Metric counts each unit of measurement once. | Unique Monthly Active Users (UMAU) - each user_id is counted once |
-| Deduplicated Aggregated | Metric contains a rolled-up value where each unit is counted once. |  UMAU is a deduplicated aggregated metric but TPV is not. |
-
-
+| Deduplicated Aggregated | Metric contains a rolled-up value where each unit is counted once. | UMAU is a deduplicated aggregated metric but TPV is not. |
 
 ### 2. Instrumentation
 
@@ -440,19 +435,20 @@ Set a growth target, and embed in the tracking dashboard. Growth targets should 
 All of the prior steps have been completed and a PI is successfully implemented.
 
 **Instructions**
+
 1. Continually monitor your results, and refine your priorities based on results.
 1. Line up your roadmap priorities to positively influence the adoption funnel, drive the performance metric, and hit the growth targets.
 1. Deeply understand the drivers of your metric through customer interviews and other product usage data. Visualize this through a user adoption funnel that describes how users enjoy the value of the particular product area you are measuring.
 
 ## Quick Links
 
-| Resource                                                              | Description                                               |
-|-----------------------------------------------------------------------|-----------------------------------------------------------|
-| [Product Intelligence Guide](/handbook/product/product-intelligence-guide) | A guide to Product Intelligence                   |
-| [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/)  | An implementation guide for Usage Ping  |
-| [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/index.html)   | An implementation guide for Snowplow        |
-| [Event Dictionary](/handbook/product/product-intelligence-guide#metrics-dictionary)  | A SSoT for all collected metrics and events       |
-| [Privacy Policy](/privacy/)      | Our privacy policy outlining what data we collect and how we handle it     |
-| [Implementing Product Performance Indicators](/handbook/product/product-intelligence-guide#implementing-product-performance-indicators)    | The workflow for putting product performance indicators in place   |
-| [Product Intelligence Direction](/direction/product-intelligence/)   | The roadmap for Product Intelligence at GitLab                       |
-| [Product Intelligence Development Process](/handbook/engineering/development/growth/product-intelligence/) | The development process for the Product Intelligence groups   |
+| Resource | Description |
+| -------- | ----------- |
+| [Product Intelligence Guide](/handbook/product/product-intelligence-guide) | A guide to Product Intelligence |
+| [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/) | An implementation guide for Usage Ping |
+| [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/index.html) | An implementation guide for Snowplow |
+| [Event Dictionary](/handbook/product/product-intelligence-guide#metrics-dictionary) | A SSoT for all collected metrics and events |
+| [Privacy Policy](/privacy/) | Our privacy policy outlining what data we collect and how we handle it |
+| [Implementing Product Performance Indicators](/handbook/product/product-intelligence-guide#implementing-product-performance-indicators) | The workflow for putting product performance indicators in place |
+| [Product Intelligence Direction](/direction/product-intelligence/) | The roadmap for Product Intelligence at GitLab |
+| [Product Intelligence Development Process](/handbook/engineering/development/growth/product-intelligence/) | The development process for the Product Intelligence groups |
