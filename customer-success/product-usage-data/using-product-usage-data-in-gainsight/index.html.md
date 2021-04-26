@@ -11,8 +11,6 @@ description: "Effective ways to apply product data for Sales and Customer Succes
 {:toc .hidden-md .hidden-lg}
 
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
 {::options parse_block_html="true" /}
 
 ---
