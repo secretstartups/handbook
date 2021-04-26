@@ -25,7 +25,7 @@ description: This page is about working with sales.
    relevant details.
    * Consider adding the following note in the Chatter message:
      > Please note that according to the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) we expect a reply from you on this chatter within 24 hours (excluding weekend, Family & Friends day & global holidays) stating when/if you will contact the customer.
-   * Share the link to the Chatter message in an internal note on the ticket.
+   * Share the link to the Chatter message (right-click on timestamp) in an internal note on the ticket.
      * Note that you can only link to the original Chatter message, not to any of its comments.
    * You may want to check the account owner's Slack status to see if they're
      currently taking time off work.
