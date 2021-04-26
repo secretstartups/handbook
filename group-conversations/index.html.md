@@ -12,7 +12,7 @@ description: "Everything you need to know about GitLab's daily, recurring Group 
 
 ## Introduction
 
-Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). Functions with a [Key Meeting](/handbook/key-meetings) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations. 
+Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). Functions with a [Key Meeting](/handbook-key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations. 
 
 The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule--dri) as **Available**. If you would like to be added to the GC rotation, please post in #group-conversations . 
 
