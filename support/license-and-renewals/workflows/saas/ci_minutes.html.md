@@ -20,7 +20,7 @@ Extra Minutes form</a>.
 <details>
 <summary>Using GitLab.com ChatOps</summary>
 
-View the<a href="/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace">
+View the <a href="/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace">
 Support ChatOps documentation</a> for more information.
 </details>
 
