@@ -5,7 +5,7 @@ title: "Predicted XMAU Algorithm"
 
 ### xMAU Variations - Trusted Data Framework
 
-xMAU KPIs are very important metrics that assess the health of the business and its growth. They are inspected with scrutinity during the Product Key Meetings held once a month. They are additionally showcased in the Product Performance Indicators Pages in the handbook.
+xMAU KPIs are very important metrics that assess the health of the business and its growth. They are inspected with scrutinity during the Product Key Reviews held once a month. They are additionally showcased in the Product Performance Indicators Pages in the handbook.
 
 For all of these reasons, the Data Team created a suite of tools (dashboards, alerts, custom tests) to allow direct KPI owners to easily monitor variations of the KPI and to potentially be alerted in case of extreme or suspicious trends.
 
