@@ -312,4 +312,4 @@ Additional process details can be found on the [project README page](https://git
 
 ### Employment Offboarding
 
-When employees are offboarding, People Experience will create an offboarding issue. Candidate Expereince is responsible for completing the CES section under R'ecruiting Operations". Once these steps have been completed, unfollow the issue to disable notifications.
+When employees are offboarding, People Experience will create an offboarding issue. Candidate Expereince is responsible for completing the CES section under Recruiting Operations". Once these steps have been completed, unfollow the issue to disable notifications.
