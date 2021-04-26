@@ -21,6 +21,8 @@ title: Vendor Contract Issue Process - Professional Services and all Other Contr
 ## <i class="fas fa-check-circle" id="biz-tech-icons"></i> When should I open a Requisition in Coupa?
 If you know which vendor to hire and already have a contract:
 
+1. Complete the "Professional Services Request" form in Coupa.
+   - Make sure to complete the the form **BEFORE** submitting the requisition.
 1. Create a Requisition in Coupa to begin the process.
       - Check the [How to Create a Requisition in Coupa]() page for a detailed walkthrough guide.
 
