@@ -223,19 +223,19 @@ Team members in New Zealand are eligible to take paid time off according to our 
 
 **Parental Leave**
 
-* Extended Leave
-  * Team members who have been employed for at least six months, but less than twelve and are eligible under the Parental Leave and Employment Protection Act 1987 are entitled to up to a total of 26 weeks of unpaid leave (less time taken for Primary Carer Leave, if applicable).
-  * Team members who have been employed for at least twelve months and are eligible under the Parental Leave and Employment Protection Act 1987 are entitled to up to 52 weeks of unpaid leave (less time taken for Primary Carer Leave. A maximum of 26 weeks may be deducted from extended leave).
+Extended Leave
+* Team members who have been employed for at least six months, but less than twelve and are eligible under the Parental Leave and Employment Protection Act 1987 are entitled to up to a total of 26 weeks of unpaid leave (less time taken for Primary Carer Leave, if applicable).
+* Team members who have been employed for at least twelve months and are eligible under the Parental Leave and Employment Protection Act 1987 are entitled to up to 52 weeks of unpaid leave (less time taken for Primary Carer Leave. A maximum of 26 weeks may be deducted from extended leave).
 
-* Special Leave
-  * Team members who are pregnant can also take up to 10 days of unpaid special leave for pregnancy-related reasons such as antenatal classes, scans, or midwife appointments. This is in addition to primary carer leave. 
-  * This leave will run concurrently with GitLab PTO. If you do not want to select `Out Sick` in PTO by Roots, you may email total-rewards@gitlab.com with the date(s) that you will be taking special leave. 
+Special Leave
+* Team members who are pregnant can also take up to 10 days of unpaid special leave for pregnancy-related reasons such as antenatal classes, scans, or midwife appointments. This is in addition to primary carer leave. 
+* This leave will run concurrently with GitLab PTO. If you do not want to select `Out Sick` in PTO by Roots, you may email total-rewards@gitlab.com with the date(s) that you will be taking special leave. 
 
-* Partner Leave
-  * If you are a spouse or partner of a primary carer and have been employed for at least six months, but less than twelve months, you are entitled to one week of unpaid partner's leave. 
-  * If you are a spouse or partner of a primary carer and you have been employed for at least twelve months, you are entitled to two weeks of unpaid partner's leave. 
-  * Partner Leave will run concurrently with GitLab Parental Leave. If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
-  * Team members must select `Parental Leave` in PTO by Roots to ensure that their time off is properly tracked.
+Partner Leave
+* If you are a spouse or partner of a primary carer and have been employed for at least six months, but less than twelve months, you are entitled to one week of unpaid partner's leave. 
+* If you are a spouse or partner of a primary carer and you have been employed for at least twelve months, you are entitled to two weeks of unpaid partner's leave. 
+* Partner Leave will run concurrently with GitLab Parental Leave. If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+* Team members must select `Parental Leave` in PTO by Roots to ensure that their time off is properly tracked.
 
 #### Applying for Parental Leave in New Zealand
 * To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
