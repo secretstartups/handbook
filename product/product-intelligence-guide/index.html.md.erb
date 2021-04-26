@@ -1,3 +1,7 @@
+---
+layout: handbook-page-toc
+title: Product Intelligence Guide
+---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -23,7 +27,7 @@ There are several stages and teams involved to go from collecting data to making
 
 [Editable source file](https://docs.google.com/spreadsheets/d/144-BLh7uyX4aY23QNrvke5BqCcb9xfPk2BL4qGFvzFY/edit?usp=sharing)
 
-## Systems overview
+## Systems Overview
 
 The systems overview is a simplified diagram showing the interactions between GitLab Inc and self-managed instances.
 
@@ -54,7 +58,45 @@ As shown by the green lines, on GitLab.com system logs flow into GitLab Inc's mo
 
 Note (1): Snowplow JS and Snowplow Ruby are available on self-managed, however, the Snowplow Collector endpoint is set to a self-managed Snowplow Collector which GitLab Inc does not have access to.
 
-## Collection Framework
+## Collection
+
+### Types of Data
+
+#### Event data
+
+**Page views**
+
+- Number of sessions that visited the /dashboard/groups page
+
+**UI events**
+
+- Number of sessions that clicked on a button or link
+- Number of sessions that closed a modal
+
+UI events are any interface-driven actions from the browser including click data.
+
+**CRUD or API events**
+
+- Number of Git pushes
+- Number of GraphQL queries
+- Number of requests to a Rails action or controller
+
+These are backend events that include the creation, read, update, deletion of records, and other events that might be triggered from layers other than those available in the interface.
+
+#### Transactional data
+
+**Database records**
+These are raw database records which can be explored using business intelligence tools like Sisense. The full list of available tables can be found in [structure.sql](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql).
+
+#### Settings data
+
+**Instance settings**
+These are settings of your instance such as the instance's Git version and if certain features are enabled such as `container_registry_enabled`.
+
+**Integration settings**
+These are integrations your GitLab instance interacts with such as an [external storage provider](https://docs.gitlab.com/ee/administration/static_objects_external_storage.html) or an [external container registry](https://docs.gitlab.com/ee/administration/packages/container_registry.html#use-an-external-container-registry-with-gitlab-as-an-auth-endpoint). These services must be able to send data back into a GitLab instance for data to be tracked.
+
+### Which Tooling To Use
 
 ![Collection Framework Visual](collection_framework_fy21_q4-update.png)
 
@@ -96,37 +138,6 @@ For more details, read the [Usage Ping](https://docs.gitlab.com/ee/development/u
 ### Database import
 
 Database imports are full imports of data into GitLab's data warehouse. For GitLab.com, the PostgreSQL database is loaded into Snowflake data warehouse every 6 hours. For more details, see the [data team handbook](https://about.gitlab.com/handbook/business-ops/data-team/platform/#extract-and-load).
-
-### Pageview events
-
-- Number of sessions that visited the /dashboard/groups page
-
-### UI events
-
-- Number of sessions that clicked on a button or link
-- Number of sessions that closed a modal
-
-UI events are any interface-driven actions from the browser including click data.
-
-### CRUD or API events
-
-- Number of Git pushes
-- Number of GraphQL queries
-- Number of requests to a Rails action or controller
-
-These are backend events that include the creation, read, update, deletion of records, and other events that might be triggered from layers other than those available in the interface.
-
-### Database records
-
-These are raw database records which can be explored using business intelligence tools like Sisense. The full list of available tables can be found in [structure.sql](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql).
-
-### Instance settings
-
-These are settings of your instance such as the instance's Git version and if certain features are enabled such as `container_registry_enabled`.
-
-### Integration settings
-
-These are integrations your GitLab instance interacts with such as an [external storage provider](https://docs.gitlab.com/ee/administration/static_objects_external_storage.html) or an [external container registry](https://docs.gitlab.com/ee/administration/packages/container_registry.html#use-an-external-container-registry-with-gitlab-as-an-auth-endpoint). These services must be able to send data back into a GitLab instance for data to be tracked.
 
 ### Reporting level
 
