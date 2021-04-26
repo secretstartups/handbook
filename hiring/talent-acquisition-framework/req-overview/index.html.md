@@ -232,5 +232,5 @@ After the verbal offer is made the recruiter can send an email to the candidate 
 If the candidate declines GitLab's offer, the Recruiter will tag the CES team in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
 
 ### **Step 11: Contract**
-Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/talent acquisition-framework/coordinator/#send-contract) to the candidate. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
 
+Once a verbal offer is made to a candidate, the Recruiter will notify `@ces` to [send a contract](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract) to the candidate. If there are any special circumstances regarding relocation, this should be communicated in the notification to CES to ensure it is added to the contract. Once a candidate signs a contract, the CES will send welcome email with instructions on hardware ordering and next steps.
