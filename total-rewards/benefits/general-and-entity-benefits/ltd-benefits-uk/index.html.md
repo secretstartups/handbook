@@ -210,23 +210,24 @@ A fund factsheet is provided for each fund with usual information such as previo
 Management charges vary by fund and are not on the fact sheets: use the charges sheet tool on the [workplace pension page.](https://drive.google.com/file/d/1e38np_Q8_s9Ty5JdbXTiMFXYVPTa20UQ/view?usp=sharing).
 
 ## GitLab LTD United Kingdom Leave Policy
-
- 
-## GitLab LTD United Kingdom Leave Policy
  
 ### Sick Leave
  
-Team members are entitled to Statutory Sick Pay (“SSP”)for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three "waiting" days. A team member who is out sick for at least four days, but no more than 7 days will need to complete a [Company Self-Certification Form](https://docs.google.com/document/d/1Cy-xUgWwNKroUEEJ0ut80HGVA0d3RJV5mQO-amLjoCs/edit?usp=sharing) and return it to total-rewards@gitlab.com. Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify Total Rewards (total-rewards@gitlab.com) as soon as possible.  Team members who have received SSP in the last 8 weeks who need additional sick pay will be paid for waiting days, including the initial 3-day period of the second leave.
- 
+Team members are entitled to Statutory Sick Pay (“SSP”)for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three "waiting" days. 
+* A team member who is out sick for at least four days, but no more than 7 days will need to complete a [Company Self-Certification Form](https://docs.google.com/document/d/1Cy-xUgWwNKroUEEJ0ut80HGVA0d3RJV5mQO-amLjoCs/edit?usp=sharing) and return it to total-rewards@gitlab.com. 
+* Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify Total Rewards (total-rewards@gitlab.com) as soon as possible.  
+* Team members who have received SSP in the last 8 weeks who need additional sick pay will be paid for waiting days, including the initial 3-day period of the second leave.
 * Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that annual sick leave entitlement is properly tracked.  GitLab PTO is inclusive of any entitlement in respect of statutory sick pay.
  
 ### Statutory Vacation Leave
  
-Team members are entitled to at least 28 vacation days which consist of 20 days of standard annual leave plus 8 public holidays. These days will accrue from the team member’s start date. Entitlement to vacation leave is pro rata for any part-time team members based on hours worked.  It is important for UK team members to utilize time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. Under normal circumstances, there is no carryover for unused vacation days, with exceptions where a team member cannot take annual leave due to sickness or maternity leave; however, given the situation surrounding COVID-19, the UK government has relaxed measures on the carry over of annual leave for the following two calendar years: 2020-2021 and 2021-2022.
+Team members are entitled to at least 28 vacation days which consist of 20 days of standard annual leave plus 8 public holidays. These days will accrue from the team member’s start date. 
+* Entitlement to vacation leave is pro rata for any part-time team members based on hours worked.  
+* It is important for UK team members to utilize time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays. 
+* Team members must designate any vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked. 
+* Under normal circumstances, there is no carryover for unused vacation days, with exceptions where a team member cannot take annual leave due to sickness or maternity leave; however, given the situation surrounding COVID-19, the UK government has relaxed measures on the carry over of annual leave for the following two calendar years: 2020-2021 and 2021-2022.
  
 ### Parental Leave
- 
-#### Statutory Leave Entitlement
  
 **Statutory Maternity Leave:** Team members can take up to 52 weeks of Maternity Leave.
 * The earliest that the Maternity Leave can start is 11 weeks before the expected week of childbirth.
@@ -250,22 +251,22 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
  
 #### Maternity Leave Payment
  
-* Team members can receive Statutory Maternity Pay for up to 39 weeks:
-   * To be eligible for Statutory Maternity Pay, team members must have continuous employment with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the expected week of childbirth). Eligible team members are entitled to:
-   * 90% of the team member's average weekly earnings (before tax) for the first 6 weeks.
-   * £151.97 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks. This also applies to the leave amounts provided for Paternity Leave and Adoption Leave.
-  
-* If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
+Team members can receive Statutory Maternity Pay for up to 39 weeks:
+* To be eligible for Statutory Maternity Pay, team members must have continuous employment with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the expected week of childbirth). Eligible team members are entitled to:
+* 90% of the team member's average weekly earnings (before tax) for the first 6 weeks.
+* £151.97 or 90% of the team member's average weekly earnings (whichever is lower) for the next 33 weeks. This also applies to the leave amounts provided for Paternity Leave and Adoption Leave.
+
+If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
+
+To apply for Maternity Leave:
+* Submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.
+* Send Total Rewards a completed [MATB1 Certificate](https://www.gov.uk/government/publications/maternity-certificate-mat-b1-guidance-for-health-professionals/maternity-certificate-form-mat-b1-guidance-on-completion) no later than 21 days before your leave start date.
+* Total Rewards will then complete a [Risk Assessment Form](https://docs.google.com/document/d/1qHdbaeFSnqdwkQDTEurHD5QMbLPLuZGBQO_CBnRkpiE/edit) within 1-3 days of receiving notification of your leave. The purpose of the assessment is to make the team member aware of any hazards or “risks” to her in the workplace/home office to reduce potential injury to her or her baby.
+* Total Rewards will notify payroll and email Vistra a copy of the MATB1, start date of leave, and outline what pay the team member is eligible for (statutory, supplemental, etc). Payroll will then automatically calculate the SMP due each pay period based on this information. The recovery of 90% will be outlined on the monthly payroll spreadsheet so that the finance team has indication of the amounts being offset each month.   
+* Payroll will continue to be the same while on parental leave but Vistra will file for reimbursement of any statutory funds once the proper paperwork has been sent.
  
-* To apply for Maternity Leave:
-   * Submit your time off by selecting the Parental Leave category in PTO by Roots at least 30 days before your leave starts.
-   * Send Total Rewards a completed [MATB1 Certificate](https://www.gov.uk/government/publications/maternity-certificate-mat-b1-guidance-for-health-professionals/maternity-certificate-form-mat-b1-guidance-on-completion) no later than 21 days before your leave start date.
-   * Total Rewards will then complete a [Risk Assessment Form](https://docs.google.com/document/d/1qHdbaeFSnqdwkQDTEurHD5QMbLPLuZGBQO_CBnRkpiE/edit) within 1-3 days of receiving notification of your leave. The purpose of the assessment is to make the team member aware of any hazards or “risks” to her in the workplace/home office to reduce potential injury to her or her baby.
-   * Total Rewards will notify payroll and email Vistra a copy of the MATB1, start date of leave, and outline what pay the team member is eligible for (statutory, supplemental, etc). Payroll will then automatically calculate the SMP due each pay period based on this information. The recovery of 90% will be outlined on the monthly payroll spreadsheet so that the finance team has indication of the amounts being offset each month.   
-   * Payroll will continue to be the same while on parental leave but Vistra will file for reimbursement of any statutory funds once the proper paperwork has been sent.
- 
-* If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternity Allowance](https://www.gov.uk/maternity-allowance).
-   * If a team member is eligible for maternity allowance and GitLab Parental Leave, GitLab will supplement the allowance so that team members receive 100% of their pay for up to 16 weeks of their leave.
+If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternity Allowance](https://www.gov.uk/maternity-allowance).
+* If a team member is eligible for maternity allowance and GitLab Parental Leave, GitLab will supplement the allowance so that team members receive 100% of their pay for up to 16 weeks of their leave.
  
 #### Paternity Leave Payment
  
@@ -303,9 +304,7 @@ The following leave types run concurrently with GitLab PTO. Team members should 
  
 **Parental Bereavement Leave:** Team members are entitled to 2 weeks of leave for a child under 18 who has died or if the team member has a stillbirth after 24 weeks of pregnancy.
  
-**Time off for Public Duties:** Team members are entitled to a reasonable amount of time off if they are a local councillor, a school governor, a member of any statutory tribunal, a member of the managing or governing body of an educational establishment, a member of a health authority, a member of a school council or board in Scotland, a member of the Environment Agency or the Scottish Environment Protection agency, a member of the prison independent monitoring boards (England or Wales) or a member of the prison visiting committees (Scotland), a member of Scottish Water or a Water Customer Consultation Panel, or a trade union member.
- 
-* The amount of time should be agreed upon between the team member and the manager beforehand based on how long the duties might take, the amount of time the team member has already taken off for public duties, and how the time off will affect the business.
+**Time off for Public Duties:** Team members are entitled to a reasonable amount of time off if they are a local councillor, a school governor, a member of any statutory tribunal, a member of the managing or governing body of an educational establishment, a member of a health authority, a member of a school council or board in Scotland, a member of the Environment Agency or the Scottish Environment Protection agency, a member of the prison independent monitoring boards (England or Wales) or a member of the prison visiting committees (Scotland), a member of Scottish Water or a Water Customer Consultation Panel, or a trade union member. The amount of time should be agreed upon between the team member and the manager beforehand based on how long the duties might take, the amount of time the team member has already taken off for public duties, and how the time off will affect the business.
 
 ## Employer's Liability Insurance
 
