@@ -28,3 +28,9 @@ From 2020-12-18 we will do a daily check to see if any new Parental leave PTO wa
 ## Set closed training issues to confidential 
 
 Once per day, closed issues in the [training project](https://gitlab.com/gitlab-com/people-group/Training) are automatically marked as confidential for compliance.
+
+## Letter of employment
+
+Every 15 minutes, a scheduled job checks the letter of employment requests spreadsheet for new entries. For each entry, a letter of employment will be generated using the team member's BambooHR data. The letter is then sent to `people-exp@gitlab.com` for review.
+
+The [People Experience](/handbook/people-group/people-experience-team) team will then validate the information on the generated letter of employment and forward it to the team member if the information is correct.
