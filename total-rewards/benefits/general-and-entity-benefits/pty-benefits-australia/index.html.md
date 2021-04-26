@@ -216,36 +216,31 @@ Team members in New Zealand are eligible to take paid time off according to our 
 
 #### Statutory Leave Entitlement
 **Primary Carer Leave**
-* All team members who have been employed for at least six months and are going to have the primary responsibility for the care, development, and upbringing of a child under six years old on a permanent basis, whether through childbirth, adoption, permanent care, or whangai are entitled to Primary Carer Leave.
+* Team members who have been employed for at least six months and become a “Primary Carer” as defined under the Parental Leave and Employment Protection Act 1987 can receive government-funded parental leave pay (Primary Carer Leave).
+* A Primary Carer is either the biological mother OR a person (that is not the biological mother or her spouse/partner) who will take primary responsibility for the care, development, and upbringing of a child under six years old on a permanent basis.
 * Primary Carer Leave can last up to 26 weeks and must be taken in one continuous period.
-* Primary Carer Leave typically starts on the due date or date of birth, but may begin earlier if arrangements are made between the team member and manager.
-  * If Primary Carer Leave begins early, the team member is still entitled to 20 weeks of leave regardless of when the leave began (this may amount to more than a total of 26 weeks).
-* Primary Carer Leave cannot be taken if the team member has already taken any period of parental or similar leave in relation to that child.
+* Primary Carer Leave typically starts on the due date or date of birth, but may begin up to 6 weeks earlier if arrangements are made between the team member and manager.
 
 **Parental Leave**
 
 * Extended Leave
-  * Team members who have been employed for at least six months, but less than twelve are eligible for up to a total of 26 weeks of unpaid leave (less time taken for Primary Carer Leave, if applicable).
-  * Team members who have been employed for at least twelve months are entitled to up to 52 weeks of unpaid leave (less time taken for Primary Carer Leave. A maximum of 26 weeks may be deducted from extended leave).
+  * Team members who have been employed for at least six months, but less than twelve and are eligible under the Parental Leave and Employment Protection Act 1987 are entitled to up to a total of 26 weeks of unpaid leave (less time taken for Primary Carer Leave, if applicable).
+  * Team members who have been employed for at least twelve months and are eligible under the Parental Leave and Employment Protection Act 1987 are entitled to up to 52 weeks of unpaid leave (less time taken for Primary Carer Leave. A maximum of 26 weeks may be deducted from extended leave).
 
 * Special Leave
-
-  * Team members who are pregnant can also take up to 10 days of unpaid special leave for pregnancy-related reasons such as antenatal classes, scans, or midwife appointments. This is in addition to maternity and/or parental leave. This leave will run concurrently with GitLab PTO. If you do not want to select `Out Sick` in PTO by Roots, you may email total-rewards@gitlab.com with the date(s) that you will be taking special leave. 
+  * Team members who are pregnant can also take up to 10 days of unpaid special leave for pregnancy-related reasons such as antenatal classes, scans, or midwife appointments. This is in addition to primary carer leave. 
+  * This leave will run concurrently with GitLab PTO. If you do not want to select `Out Sick` in PTO by Roots, you may email total-rewards@gitlab.com with the date(s) that you will be taking special leave. 
 
 * Partner Leave
-  * If you are a spouse or partner and have been employed for at least six months, but less than twelve months, you are entitled to one week of unpaid partner's leave. This leave will run concurrently with [GitLab Parental Leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave). Eligible team members will receive up to 16 weeks of 100% paid time off. Team members must select `Parental Leave` in PTO by Roots to ensure that their time off is properly tracked.
-  * If you are a spouse or partner and you have been employed for at least twelve months, you are entitled to two weeks of unpaid partner's leave. This will run concurrently with GitLab Parental Leave. Eligible team members will receive up to 16 weeks of 100% paid time off. Team members must select `Parental Leave` in PTO by Roots to ensure that their time off is properly tracked.  
-
-#### Parental Leave Payment
-* Team members who have been employed for at least six months can receive government-funded Parental Leave pay for up to 26 weeks.
-* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave. 
-* To apply for government-funded Parental Leave pay, please submit your application via [IRD](https://www.ird.govt.nz/paid-parental-leave/apply). Total Rewards will have to fill out the "Employer Declaration" part of the [form](https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir880/ir880-2020.pdf).
-
-#### Partner Leave Payment
-* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+  * If you are a spouse or partner of a primary carer and have been employed for at least six months, but less than twelve months, you are entitled to one week of unpaid partner's leave. 
+  * If you are a spouse or partner of a primary carer and you have been employed for at least twelve months, you are entitled to two weeks of unpaid partner's leave. 
+  * Partner Leave will run concurrently with GitLab Parental Leave. If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+  * Team members must select `Parental Leave` in PTO by Roots to ensure that their time off is properly tracked.
 
 #### Applying for Parental Leave in New Zealand
-To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+* To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+* To apply for government-funded Parental Leave pay, please submit your application via [IRD](https://www.ird.govt.nz/paid-parental-leave/apply). Total Rewards will have to fill out the "Employer Declaration" part of the [form](https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir880/ir880-2020.pdf).
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), GitLab will supplement the government-funded payment to ensure that you receive 100% pay for up to 16 weeks of your Parental Leave.
 
 #### Other Types of Leave
 
@@ -254,6 +249,7 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 
 * A team member with workplace stress that amounts to an illness may take sick leave. The [ordinary conditions for sick leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#sick-leave) apply. If the team member has been sick for a period of 3 or more consecutive days, the team member may be asked to provide a medical certificate.
 * This leave runs concurrently with GitLab PTO. Team members must designate Stress Leave as `Out Sick` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
 </details>
 
 <details>
@@ -261,6 +257,7 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 
 * Under the Volunteers Employment Protection Act 1973, all team members who are members of the Armed Forces are entitled to unpaid job-protected leave during military training and/or service. 
 * This leave runs concurrently with GitLab PTO. Team members must email Total Rewards (total-rewards@gitlab.com) as soon as possible to notify them of the first date of leave and, if possible, the end date of their leave.
+
 </details>
 
 <details>
@@ -268,6 +265,7 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 
 * Team members are entitled to 2 hours of paid time off to vote in general (parliamentary) elections on polling day if they are registered as an elector of the district and have not had a reasonable opportunity to vote before starting work. GitLab encourages you to [take time off to vote](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) or volunteer at the polls. 
 * This leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
 </details>
 
 <details>
@@ -275,6 +273,7 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 
 * All team members who have been called for jury service are entitled to unpaid leave for the duration of the service. Team members who attend jury service receive an attendance fee from the Ministry of Justice. 
 * Jury Service Leave runs concurrently with GitLab PTO. Team members must select `Mandatory Civilian Service` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+
 </details>
 
 <details>
@@ -282,18 +281,23 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 
 * All team members who have been employed for six months are entitled to three days of paid leave in the event of the death of a spouse or partner, parent, child, sibling, grandparent, grandchild, or parent of a spouse or partner, and one day in the event of the death of another person not previously listed.
 * This leave runs concurrently with GitLab PTO. Team members must designate this time off as `Bereavement Leave` in PTO by Roots to ensure that statutory entitlements are properly tracked.
+* All team members who have been employed for six months are entitled to three days paid leave if a pregnancy ended by way of a miscarriage or still-birth in circumstances that give rise to an entitlement to bereavement leave under the Holidays Act 2003.
+
 </details>
 
 <details>
-  <summary markdown="span">Domestic Violence Leave</summary>
+  <summary markdown="span">Family Violence Leave</summary>
 
-* All team members who have been employed for a six month continuous period are entitled to 10 days of paid leave if they have been affected by domestic violence. This leave may also be taken to support a child who has experienced domestic violence as long as they live with the team member for some of the time. 
+* All team members who have been employed for a six month continuous period are entitled to 10 days of paid leave if they have been affected by family violence. 
+* This leave may also be taken to support a child who has experienced domestic violence as long as they live with the team member for some of the time. 
+* A person is affected by family violence if they are a person against whom any other person is inflicting, or has inflicted family violence, and/or a person with whom there ordinarily or periodically resides a child against whom any other person is inflicting or has inflicted, family violence.
 * Team members may also request [short-term flexible working arrangements](https://www.employment.govt.nz/leave-and-holidays/domestic-violence-leave/short-term-flexible-working/) for up to 2 months.  
 * This leave runs concurrently with GitLab PTO. Team members should notify Total Rewards (total-rewards@gitlab.com) if they need to make use of this leave.
+
 </details>
 
 ### Medical
-GitLab does not plan at this time to offer Private Health Insurance benefits because New Zealand residents can access free or subsidised medical care in New Zealand through the public healthcare system. Injuries and accidents are covered by the Accident Compensation Corporation cover.
+GitLab does not plan at this time to offer Private Health Insurance benefits because New Zealand residents can access free or subsidised medical care in New Zealand through the public healthcare system. Injuries and accidents are covered by the Accident Compensation Corporation.
 
 ### Pension
 GitLab's KiwiSaver contributions will be 3% on top of base salary. Team members will automatically be enrolled in the KiwiSaver scheme but may elect to opt out within the first 56 days of employment. GitLab will deduct a participating team member's contributions from their before-tax pay at the team member's chosen contribution rate (3%, 4%, 6%, 8% or 10%). If a team member does not choose a contribution rate, the default rate of 3% will be used to calculate deductions.
