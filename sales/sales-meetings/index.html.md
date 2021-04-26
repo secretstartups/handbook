@@ -44,7 +44,7 @@ The below page overviews the primary meetings for the WW Field Team.
 
 * When: Happens every Thursday at 9am Pacific time
 
-## Sales Monthly [Key Meeting](/handbook/key-review/)
+## Sales Monthly [Key Review](/handbook/key-review/)
 
 * When: Happens once every month
 * Where: Zoom link varies - please check the calendar invitation
