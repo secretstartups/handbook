@@ -13,12 +13,12 @@ The first proposed solution would be to calculate Predicted xMAU on a month M by
 Predicted xMAU(Month M) = Estimated xMAU(last month) + (current MoM Growth Amount x month_difference(between last month and month M))
 ``` 
 
-MoM growth Amount is calculated as the Average Monthly Absolute Growth Amount over the last quarter. and transform it into 
+MoM growth Amount is calculated as the Average Monthly Absolute Growth Amount over the last quarter. 
 
-So assuming, we have for Plan Stage a MoM growth rate of 2% and a current value of 100. We would like to calculate the Predicted SMAU in 12 Months. 
+So assuming, we have for Plan Stage a MoM growth amount of 2 and a current value of 100. We would like to calculate the Predicted SMAU in 12 Months. 
 
 ```
-Predicted Plan SMAU(Last Month + 12 Months) = Estimated Plan SMAU(Last Month) x (1 + 0.02 x 12) = 100 x (1 + 0.24) = 124
+Predicted Plan SMAU(Last Month + 12 Months) = Estimated Plan SMAU(Last Month) + (2 x 12) = 100 + 24 = 124
 ```
 
 With the formula described above, we will get a Predicted Value for Plan SMAU in 12 Months of **124**.
