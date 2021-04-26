@@ -507,11 +507,15 @@ Once the Labor Contract has been signed by both CIIC and the new hire the indivi
 
 ## Employment Agreements for GitLab team-members in Germany
 
-Please note, due to German labor law, the stock options are not included in the contract template and are not to be listed on the contract. If the candidate asks specifically for this information to be listed on the contract, please seek guidance from the CES Team Lead and/or Legal. A wet signature is required for German employment agreements the following process must be followed:
+Please note, due to German labor law, the stock options are not included in the contract template and are not to be listed on the contract. If the candidate asks specifically for this information to be listed on the contract, please seek guidance from the CES Team Lead and/or Legal. 
+
+It is important that the start date for German new hires is far enough out that we are able to mail the contract out for wet signature. If there is a candidate that is able to start within 2 weeks, the electronic DocuSign can suffice as an intent to sign the contract, however, the contract should be sent out with a reasonable amount of time before the start date to ensure it is signed and sent back in a timely manner. 
+
+A wet signature is required for German employment agreements the following process must be followed:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
 1. The Candidate Experience Specialist sends the new team member the GreenHouse email template: German Contract Step 1.
-1. The Candidate Experience Specialist generates the German Contract form out of GreenHouse and stages for signature though GreenHouse and DocuSign. The Talent Acquisition Manager or the VP of Talent Acquisition (with the CPO and the People Ops Director as backup) signs the German Contract.
+1. The Candidate Experience Specialist generates the German Contract form out of GreenHouse and stages for signature though GreenHouse and DocuSign. The Talent Acquisition Manager or the Senior Director of People Success (as listed on the signatory chart above) signs the German Contract.
 1. The Candidate Experience Specialist saves the unsigned contract to be used in a future step. It may require a manual edit to remove the signature tokens.
 1. Once the DocuSign contract is signed you may hire the candidate and send the Welcome Email in Greenhouse.
 1. The Candidate Experience Specialist saves the DocuSign Contract for upload into BambooHR as per the standard procedure.
