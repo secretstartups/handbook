@@ -97,6 +97,33 @@ To swap on-call duty with a colleague:
 
 See [the PagerDuty documentation](https://support.pagerduty.com/docs/editing-schedules#create-and-delete-overrides) for complete steps.
 
+#### Considerations in APAC
+
+##### Shifts start on Tuesday and end on Monday
+
+Due to the global on-call week starting on Monday, 09:00 Amsterdam time,
+on-call shifts for APAC begin on Tuesday and end on Monday. The APAC team has
+decided to retain this shift configuration as it allows for easier planning to
+take a long weekend with Monday off and as a buffer to ease into the next
+on-call. See the latest discussion in this [Support Team Meta issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3204).
+
+##### Australia (Employees of GitLab PTY Ltd)
+
+Team members employed by GitLab PTY Ltd _must_ take time off in lieu within two
+weeks after completion of their on-call shift. Time in lieu should be requested
+via PTO by Roots, selecting the `On-Call Time in Lieu` option.
+
+For more details, see the [GitLab PTY Australia Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
+page.
+
+##### New Zealand (Employees of GitLab PTY Ltd NZ)
+
+Team members employed by GitLab PTY Ltd NZ must avoid taking an on-call shift
+which falls on a New Zealand public holiday. If this cannot be avoided, your
+manager must be informed.
+
+For more details, see the [GitLab PTY Ltd NZ Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only-1) page.
+
 ### Starting on-call
 
 Before your shift starts, _always_ double-check that your alerts are working. Send a test page to make sure that you are receiving alerts correctly.
