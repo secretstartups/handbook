@@ -22,6 +22,14 @@ title: Purchase Request Process
 - All purchases made on behalf of GitLab that are not a personal expense, must have an approved purchase request before work can begin, contracts can be signed, or payment can be made.
 - The specific approvals needed are based on your spend type, spend threshold, key terms, and risk to GitLab. They are identified in the issue template links below. This is to ensure that GitLab purchases are strategically aligned and to ensure SOX Compliance.
 
+## How can I create a Purchase Request?
+- Depending on the request type and dollar amount, a Purchase Request can be created by:
+   - Opening a Vendor Contract Request issue to begin the process.
+   - Creating a Requisition in Coupa.
+      - You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/).
+- Check the _[How do I open a Purchase Request?](/handbook/finance/procurement/purchase-request-process/#how-do-i-open-a-purchase-request-issue)_ section to understand which method applies to your request. 
+   - If you're uncertain, ask us in the #procurement slack channel!!
+
 ## When should I create a Purchase Request?
 - First review the [Vendor Selection Process](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/) page for the policies regarding multiple bid and RFP requirements. 
 - **Before sharing details and/or confidential information regarding our business needs, please obtain a [Mutual Non-Disclosure Agreement](https://drive.google.com/a/gitlab.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view?usp=sharing) from the potential vendor(s).**
@@ -129,13 +137,13 @@ In these instances, the vendor can invoice GitLab in Tipalti, and AP will route 
 
 
 #### [**Field Marketing and Events**](/handbook/finance/procurement/vendor-contract-marketing/)
-- Examples for this template type include marketing events, programs, sponsorships, catering, hotels, swag and services that do NOT involve the processing or sharing of data.
+- Examples for this request type include marketing events, programs, sponsorships, catering, hotels, swag and services that do NOT involve the processing or sharing of data.
 - Due to the rapid nature of these types of requests, procurement will only negotiate if spend is greater then $100K.
 - If you will be sharing confidential data with the vendor, please use the Professional Services & General template.
 
 #### [**Professional Services and all other general contracts**](/handbook/finance/procurement/vendor-contract-professional-services/)
 - Read more about this purchase type BEFORE agreeing to business terms and/or pricing.
-- This template can be used for addendums that either do or do not change pricing.
+- This type of request can be used for addendums that either do or do not change pricing.
 
 
 
