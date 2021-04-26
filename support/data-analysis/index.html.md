@@ -6,7 +6,7 @@ description:
 
 ## Purpose
 
-Support team members often engage in some sort of data analysis in the course
+Support team members often engage in data analysis during the course
 of their work. This page documents various planning parameters and metrics
 which have been looked at when doing planning and analysis.
 
