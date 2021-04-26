@@ -51,20 +51,26 @@ purposes. To generate a new license, log in to LicenseDot and click on the
 without a Zuora subscription" at the bottom of the screen and fill out all non-optional
 fields.
 
-## Testing Environments
+## Cloud Testing Environments
 
 You can create (ephemeral) testing environments. We recommend using the support-resources project for doing so.
 
-### GCP Testing Environment (support-resources)
+###GCP
 
-Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project.
+#### GCP `support-resources` project (preferred)
 
-If you need to manually create resources in a GCP Testing environment, please use the `support-resources` project. You can do so using the [GCP console](https://console.cloud.google.com/), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
+Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project. This is the preferred way to create GitLab testing instances.
+
+#### GCP `support-resources` project
+
+If you need to manually create resources in a GCP testing environment, please use the `support-resources` project. You can do so using the [GCP console](https://console.cloud.google.com/home/dashboard?project=support-resources-c801eb), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
 If you don't have access to this project, please create an access request and assign your manager for approval.
 
-**Warning:** you may also have access to the `gitlab-internal` GCP project. You should **not** create resources in this project.
+**Warning:** you may also have access to the `gitlab-internal` and `gitlab-support` GCP projects. You should **not** create resources in these projects.
 
-#### GKE Cluster
+**Note:** Please remember to shut down resources that you are no longer using.
+
+#### GCP GKE Kubernetes Cluster
 
 Please use the `support-resources` GCP project for creating a GCP Kubernetes cluster.
 
@@ -91,6 +97,10 @@ Specifically for *Group* SAML/SCIM (GitLab.com) testing, shared account credenti
 ### Okta Testing Environment
 
 For SAML/SCIM testing, please open an access request for GitLab's Okta Preview instance with `admin` role and ability to add *Applications*.
+
+### gitlab.support testing domain
+
+If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can use a subdomain of `gitlab.support`. You can confgure this in GCP in the [gitlab-support project here](https://console.cloud.google.com/net-services/dns/zones/gitlabsupport/details?project=support-testing-168620).
 
 ### Digital Ocean and Docker Testing Environment
 
