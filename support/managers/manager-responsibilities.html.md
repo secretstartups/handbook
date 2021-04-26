@@ -35,7 +35,7 @@ Our primary responsibility in the Support Leadership team is to ensure high qual
 | ------------------- | ------------------ |
 | Help support engineers to resolve tickets accurately and efficiently | Understand GitLab [Support Service Levels](/support/#gitlab-support-service-levels) and [KPIs](/handbook/support/#how-we-measure-our-performance) |
 |  | Know how we use Zendesk, [Slack](#working-in-slack), and GitLab for ticket management |
-|  | Serve as [Support Manager On-Call](/handbook/support/on-call/#manager-on-call) for Customer Emergencies and Escalations |
+|  | Serve as [Support Manager On-Call](/handbook/support/on-call/) for Customer Emergencies and Escalations |
 |  | Serve as [SSAT Reviewing Manager](/handbook/support/workflows/how-to-respond-to-feedback.html) for handling Customer Feedback |
 |  | Know how to use Zendesk Explore to monitor KPIs |
 |  | Work with GitLab Sales, Pricing, Product, and other teams when company initiatives change Support requirements |
