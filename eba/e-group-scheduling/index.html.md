@@ -80,7 +80,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
   * E-Group Meeting
   * PM&Eng (with CEO)
   * Skip-levels
-  * Engineering Key Meetings
+  * Engineering Key Reviews
 * Eric is Required (these meetings can be moved)
   * 1:1's with direct reports
   * 1:1's with peers
@@ -120,7 +120,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Scott will allocate "DNB" blocks for work time based on upcoming priorities
 * Green working blocks can be scheduled over
 * Red blocks are either personal appointments or working blocks that cannot be compromised
-* Reminders at -2 weeks, -1 week and -2 days should be put ont the calendar for the following events: OKR, Group Conversations (Product and Growth), Board of Director meetings, Monthly Key Meetings
+* Reminders at -2 weeks, -1 week and -2 days should be put ont the calendar for the following events: OKR, Group Conversations (Product and Growth), Board of Director meetings, Monthly Key Reviews
 * 1:1's should always be rescheduled instead of cancelled unless unavoidable due to OOO/PTO schedules
 
 ## Scheduling for Robin Schulman, Chief Legal Officer
