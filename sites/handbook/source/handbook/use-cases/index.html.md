@@ -126,6 +126,9 @@ The goal of portfolio management is to determine the optimal resource mix for de
 #### [Incident Management](/handbook/marketing/strategic-marketing/usecase-gtm/incident-management/)
 I need a platform that consumes alerts from my monitoring stack and provides me with tools to take action on the critical ones by creating incidents. This tooling would allow us to triage, troubleshoot, remediate, and optimize to reduce risk of future incidents.
 
+#### Package Management
+I need a centralized location to seamlessly manage, store, and distribute my packages and container images. I also want to package up my applications, along with their dependencies, in a secure way.
+
 
 ## Non-Use Cases
 
