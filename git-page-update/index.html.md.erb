@@ -63,6 +63,10 @@ If `.ruby-version` specifies version `2.6.5`, you can install it with RVM like s
    `ruby 2.6.5p114 (2019-10-01 revision 67812)`.
 1. Execute: `gem install bundler` to install [Bundler](http://bundler.io/).
 
+**Ruby 3 note:**
+
+We upgraded to Ruby 3.0.0 on Monday, 2021-04-26. We put together some [upgrade instructions in the MR comments, which we shared throughout Slack](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/78850#note_559337911). If you're still having issues with the Ruby 3.0.0 upgrade, please reach out via the [follow-up issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1273)
+
 ## 6. Clone the source of the website and install its dependencies
 
 1. If you set up SSH keys previously, in terminal execute: `git clone git@gitlab.com:gitlab-com/www-gitlab-com.git` to clone the website. If you prefer using https, then execute: `git clone https://gitlab.com/gitlab-com/www-gitlab-com.git`, but note that if you've activated 2FA on your GitLab.com account, you'll need to take some additional steps to set up [personal access tokens](https://gitlab.com/profile/personal_access_tokens). If you ever want to switch between SSH and https, execute `git remote remove origin`, followed by `git remote add origin [..]` where the `[..]` is the part that starts with `git@` for SSH, or with `https:` for https.
