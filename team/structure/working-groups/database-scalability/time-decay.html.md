@@ -154,19 +154,94 @@ We might consider a number of strategies for moving data outside of the database
 
 ## Use cases
 
-### Audit Events
-
-**WIP:** [Partitioning: Design and implement partitioning strategy for Audit Events](https://gitlab.com/groups/gitlab-org/-/epics/3206)
-
 ### Web hook logs
 
+Related epic: [Partitioning: `web_hook_logs` table](https://gitlab.com/groups/gitlab-org/-/epics/5558)
 
-**WIP:** [Partitioning: web_hook_logs table](https://gitlab.com/groups/gitlab-org/-/epics/5558)
+The important characteristics of `web_hook_logs` are the following:
+
+1. Size of the dataset: It is a really large table. At the moment we decided to partition it (`2021-03-01`), it had \~527M records and a  total size of \~1TB
+
+   | Table | Rows | Total size | Table size | Index(es) Size | TOAST Size |
+   |-------|------|--------------|------------|----------------|------------|
+   | `web_hook_logs` | \~527M | 1.02 TiB (10.46%) | 713.02 GiB (13.37%) | 42.26 GiB (1.10%) | 279.01 GiB (38.56%) |
+
+1. Access methods: We always request for the past 7 days of logs at max.
+1. Immutability: It can be partitioned by `created_at`, an attribute that does not change.
+1. Retention: There is a 90 days retention policy set for it.
+
+Additionally, we were at the time trying to prune the data by using a background worker (`PruneWebHookLogsWorker`), which could not [keep up with the rate of inserts](https://gitlab.com/gitlab-org/gitlab/-/issues/256088).
+
+As a result, on March 2021 there were still not deleted records since July 2020 and the table was increasing in size by more than 2 million records per day instead of staying at a more or less stable size.
+
+Finally, the rate of inserts has grown to more than 170GB of data per month by March 2021 and keeps on growing, so the only viable solution to pruning old data was through partitioning.
+
+Our approach was to partition the table per month as it aligned with the 90 days retention policy.
+
+The process required follows:
+
+1. Decide on a partitioning key
+
+   Using the `created_at` column is straightforward in this case: it is a natural partitioning key when a retention policy exists and there were no conflicting access patterns.
+
+1. Once we decide on the partitioning key, we can start with creating the partitions and backfill them (copy data from the existing table).
+
+   The reason for that is that we can't just partition an existing table, we have to create a new partitioned table.
+
+   So, we have to create the partitioned table and all the related partitions, start copying everything over and also add sync triggers so that any new data or updates/deletes to existing data can be mirrored to the new partitioned table.
+
+   [MR with all the necessary details on how to start partitioning a table](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/55938)
+
+   It required a 15 days and 7.6 hours to complete that process.
+
+1. Next step, one milestone after the initial partitioning starts is to clean up after the background migration used to backfill and finish executing any remaining jobs, retry failed jobs, etc.
+
+   [MR with all the necessary details](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/57580)
+
+1. Then we can add any remaining foreign keys and secondary indexes to the partitioned table.
+
+   The purpose of this operation is to bring its schema on par with the original non partitioned table before we can swap them in the next milestone.
+
+   We are not adding them at the beginning as they are adding overhead to each insert and they would slow down the initial backfilling of the table (in this case for more than half a billion records, which can add up significantly). So we create a lightweight, *vanilla* version of the table, copy all the data and then add any remaining indexes and foreign keys.
+
+   MRs with all the necessary details: MRs adding indexes([MR-1](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/59261), [MR-2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/59266)), [MR adding Foreign Keys](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/59282)
+
+1. Swap the base table with partitioned copy
+
+   This is the point when the partitioned table starts actively being used by the application.
+
+   Dropping the original table is a destructive operation and we want to make sure that we had no issues during the process, so we keep the old non-partitioned table.We also switch the sync trigger the other way around so that the non-partitioned table is still up to date with any operations happening on the partitioned table. That allows us to swap back the tables if it is necessary.
+
+   [MR with all the necessary details](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/60184)
+
+1. Last step, one milestone after the swap - Drop the non-partitioned table
+
+   [Issue with all the necessary details](https://gitlab.com/gitlab-org/gitlab/-/issues/323678)
+
+1. After the non-partitioned table is dropped, we can add a worker to implement the pruning strategy by dropping past partitions.
+
+   In this case, the worker will make sure that only 4 partitions are always active (as the retention policy us 90 days) and drop any partitions older than four months. We have to keep 4 months of partitions as while the current month is still active, going 90 days back takes you to the fourth oldest partition.
+
+### Audit Events
+
+Related epic: [Partitioning: Design and implement partitioning strategy for Audit Events](https://gitlab.com/groups/gitlab-org/-/epics/3206)
+
+The `audit_events` table shares a lot of characteristics with the `web_hook_logs` table discussed in the previous sub-section, so we are going to focus on the points they differ.
+
+There was a need for a solution ([1](https://gitlab.com/gitlab-org/gitlab/-/issues/7865), [2](https://gitlab.com/groups/gitlab-org/-/epics/3179#note_337353221)) and a consensus that partitioning could solve most of the performance issues ([1](https://gitlab.com/groups/gitlab-org/-/epics/3206#note_338157248), [2](https://gitlab.com/gitlab-org/gitlab/-/issues/217471)).
+
+In contrast to most other large tables, it has no major conflicting access patterns: we could switch the access patterns to align with partitioning by month.
+This is not the case for example for our core tables, which even though could justify a partitioning approach (e.g. by namespace), they have many conflicting access patterns.
+
+In addition, `audit_events` is a write heavy table with very few reads (queries) over it and has a very simple schema, not connected with the rest of the database (no incoming or outgoing FK constraints) and with only two indexes defined over it.
+
+The later was important at the time as not having Foreign Key constraints meant that we could partition it while we were still in PostgreSQL 11. *This is not a concern any more now that we have moved to PostgreSQL 12 as a required default, as can be seen for the `web_hook_logs` use case above.*
+
+The migrations and steps required for partitioning the `audit_events` are similar to the ones described in the previous sub-section for `web_hook_logs`. There is no retention strategy defined for `audit_events` at the moment, so there is no pruning strategy implemented over it.
+
+What's interesting on the case of `audit_events` is the discussion on the necessary steps that we had to follow to implement the [UI/UX Changes needed to encourage optimal querying of the partitioned](https://gitlab.com/gitlab-org/gitlab/-/issues/223260). It can be used as a starting point on the changes required on the application level to align all access patterns with a specific time-decay related access method.
 
 ### CI tables
 
-**WIP:** Requirements and analysis of the CI tables use case
+**WIP:** Requirements and analysis of the CI tables use case - Still a work in progress, so we'll have to add more details after the analysis moves forward.
 
-## Summary
-
-**WIP**: The deliverable should include a detailed analysis of the strategies to follow, together with examples of how they were or can be applied on specific use cases in GitLab's database.
