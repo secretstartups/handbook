@@ -121,7 +121,7 @@ _The list below includes potential and recommended items to include in a GTM Mot
 
 **Potential/Recommended Pieces of a GTM Motion:**
 
-- [Solution GTM Strategy Doc]((/handbook/marketing/strategic-marketing/usecase-gtm/#use-case-details)), including:
+- [Solution GTM Strategy Doc]((/handbook/marketing/strategic-marketing/usecase-gtm/)), including:
     - Buyer personas
     - Messaging and positioning framework
     - Market landscape
@@ -141,7 +141,7 @@ _The list below includes potential and recommended items to include in a GTM Mot
 
 ## Solution GTM Strategy
 
-The GTM Strategy doc includes the background market information to illustrates the context and personas experiencing a problem that attracts budget and describes how our soultion meets that need. GTM strategy docs, also refered to as [Use Case GTM pages](/handbook/marketing/strategic-marketing/usecase-gtm/#use-case-details), are kept in the handbook.
+The GTM Strategy doc includes the background market information to illustrates the context and personas experiencing a problem that attracts budget and describes how our soultion meets that need. GTM strategy docs, also refered to as [Use Case GTM pages](/handbook/use-cases/), are kept in the handbook.
 
 ## GTM Motion Campaign
 {: #gtm-motion-campaign .gitlab-purple}
