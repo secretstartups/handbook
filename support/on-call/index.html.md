@@ -117,6 +117,7 @@ APAC 1 and APAC 2, allowing each team member to cover hours within their normal
 working hours.
 
 Note that support manager on call shifts remain the full 8 hours.
+
 ##### Australia (Employees of GitLab PTY Ltd)
 
 Team members employed by GitLab PTY Ltd _must_ take time off in lieu within two
