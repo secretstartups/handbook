@@ -265,6 +265,14 @@ graph LR
 ```
 *Note* If you are not seeing the diagram, make sure that you accepted all cookies.
 
+#### Project Ownership
+
+Each project has an owner who is responsible for delivering the project. 
+
+The owner needs to:
+1. Update the status block in the epic description each week.
+1. Work with others to move project issues through the boards. 
+
 #### Project Structure
 
 The epic for the project must have the following items:
@@ -388,21 +396,8 @@ the changes that they make.
 
 #### Weekly Issues
 
-1. **Board refinement**
-   1. Using the [Planning Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697168).
-      1. `workflow-infra::Triage` issues should be checked to make sure the idea is valid. Move the conversation forward
-          and ask for clarification where needed. Do what you can to add more details to develop a proposal.
-      1. `workflow-infra::Proposal` issues should be checked to make sure that the proposal is complete. The benefit of the
-          work should be clear, it should contain a breakdown of tasks, and include steps to validate the outcome.
-      1. `workflow-infra::Blocked` issues should be checked to see if blockers have been removed.
-      1. `workflow-infra::Ready` issues should be moved to the [Build Board](https://gitlab.com/gitlab-com/gl-infra/scalability/-/boards/1697160) using the following guidelines:
-          1. _Issue part of an active project_ - then move it to the build board, else
-          1. _Issue part of a future project_ - then move it back to the backlog, else
-          1. _Issue is `Scalability::P1` or `Scalability::P2`_ - then move it to the build board, else
-          1. _Other issue that is less than 2 days of work_ - then move to the build board, else
-          1. _Other issue that is larger than 2 days of work_ - raise with the Engineering Manager or discuss in the team's Slack channel.
-2. **`Service::Unknown` refinement** - go through issues marked `Service::Unknown` and add a defined service, where possible.
-3. **Review request processing** - the goal is to move [review request](#scalability-review-requests) issues to `workflow-infra::In Progress`, either
+1. **`Service::Unknown` refinement** - go through issues marked `Service::Unknown` and add a defined service, where possible.
+1. **Review request processing** - the goal is to move [review request](#scalability-review-requests) issues to `workflow-infra::In Progress`, either
    through picking them up directly, or asking on our team channel if any one else is able.
 
 #### Monthly Issues
@@ -410,8 +405,15 @@ the changes that they make.
 1. **Application demand review** - to review the [Application Demand dashboard](https://dashboards.gitlab.net/d/general-application-demand/general-application-demand-indicators?orgId=1)
     and determine if there are any outliers that should be investigated, and updating the [indicator review issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/534)
     if necessary.
-1. **Issue triage** - review issues not on a [board](#issue-boards) and add them to a board if necessary.
 1. **Infradev review** - show issues with [`team::Scalability` and `infradev` labels](#engagement-with-the-infradev-process) so we can help the stage groups move those forward.
+
+#### Quarterly Issues
+
+Every quarter, we perform a review of all issues on the backlog that are not part of any project. When reviewing issues:
+- if the issue is no longer relevant then it should be closed
+- if it is relevant but we are unlikely to work on it soon it should remain open
+
+The EM creates this issue each quarter. It is not the sole responsibility of the person on Triage Rotation and is shared among all team members. 
 
 ## Choosing something to work on
 
