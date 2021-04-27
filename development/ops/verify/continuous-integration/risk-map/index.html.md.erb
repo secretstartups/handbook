@@ -22,6 +22,17 @@ Utilise the Risk Map as a tool to:
 * Priority - Impact x Probability. Address highest score first.
 * Mitigation - what could be done to lower the impact or probability
 
-| Risk Area            | Risk Description                                             | Impact | Impact level | Probability | Priority | Mitigation |
-| -------------------- | ------------------------------------------------------------ | ------ | ------------ | ----------- | -------- | ---------- |
-|  |  |  |  |  |  |  |
+| Risk Area | Risk Description | Impact | Impact level (1 LOW  to 5 HIGH) | Probability (1 LOW to 5 HIGH) | Priority | Mitigation |
+| --- | --- | --- | --- | --- | --- | --- |
+| Team/Capacity | We have 3 dedicated BE engineers on CI and have a large (and growing) backlog | Burn out, missed SLO/SLA  | 5 | 5 | 25 | Make BE headcount more available ((any concern on FE and SET counts?)) |
+| Team/Escalations | Escalations like Rapid Actions, Engineering Allocations are disrupting the ability to focus on team priorities | Burn out, low level of autonomy, low overall team productivity | 5 | 4 | 20 | Find ways to proactively mitigate urgent issues with gitlab.com, work on GraphQL to unblock FE, find a dedicated SRE for CI |
+| Product/Backlog | Bug and Technical Debt backlog has been accruing over the years | missed SLO/SLA, prioritzation is harder | 4 | 3 | 12 | Revisit ownership of domains to better share the gaps |
+| Feature/Performance | Low pipeline performance at high traffic (pipeline is stuck) |  |  |  | 0 |  |
+| Feature/Performance | Service outages dues to large artifacts storage/removals |  |  |  | 0 |  |
+| Quality/Testability | Hard to replicate production traffic to account for performance testing |  |  |  | 0 |  |
+| Quality/Test covereages | This is a mature product, there are many features and feature sets have yet to have test coverages (historical test gaps) | Escape regession bugs |  |  | 0 |  |
+| Product/Cost | Ci minutes free tier abuse |  |  |  | 0 |  |
+| Feature/Performance | DB timeout from free tier CI minutes monthy reset |  | 3 | 1 | 3 | This has been mitigated as of 2021-04-01 run, but we are keeping an eye on it |
+| Feature/Performance | Unperformant database queries | Adding load to gitlab.com database, slow page and feature load times | 3 | 3 | 9 | Recent rapid actions has helped, and there's continual effort to address this to ensure we don't regress |
+| Team/Efficiency | Migrating more REST to GraphQL to help unblock FE | FE productivity and delivery | 5 | 3 | 15 |  |
+
