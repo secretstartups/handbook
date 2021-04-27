@@ -13,27 +13,19 @@ _without_ affecting the namespace's usual monthly quota.
 <details>
 <summary>Using Support Forms Processor</summary>
 
-Use the
-
-<a href="https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/extra_minutes.html">
-Extra Minutes form
-</a>
-.
+Use the <a href="https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/extra_minutes.html">
+Extra Minutes form</a>.
 </details>
 
 <details>
 <summary>Using GitLab.com ChatOps</summary>
 
-View the
-
-<a href="/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace">
-Support ChatOps documentation
-</a>
-for more information.
+View the <a href="/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace">
+Support ChatOps documentation</a> for more information.
 </details>
 
 ## Purchased CI minutes are not associated with customer's group
-To transfer CI minutes from a user's personal namespace to a group namespace, use the [Force Association Mechanizer](https://about.gitlab.com/handbook/support/workflows/mechanizer.html#force-associate). 
+To transfer CI minutes from a user's personal namespace to a group namespace, use the [Force Association Mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/force_associate.html). 
 
 There may be times when the Mechanizer does not work and you will need to request a refund for the customer:
 - Confirm that the CI minutes are associated with the user's personal namespace.

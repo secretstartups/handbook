@@ -11,6 +11,13 @@ description: "Describes the role and responsibilities for the Support Managers r
 ----
 
 
+## Introduction
+
+The Support Manager On-call helps coordinate respones to urgent and important situations that arise within the scope of delivering a quality
+experience to GitLab customers.
+
+The Support Manager On-call is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call/).
+
 ## Expectations for Support Manager On-call
 
 As part of [GitLab Support on-call](/handbook/support/on-call/), Support Managers serve in a rotation. The support manager on-call is responsible generally for:
