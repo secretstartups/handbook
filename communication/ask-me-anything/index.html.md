@@ -57,7 +57,7 @@ It is near impossible to be an effective facilitator while also being a particip
 
 Before facilitating a session, all facilitators will complete the following steps: 
 1. Complete the [Linkedin Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
-1. Complete the LinkedIn Learning Empathy Training (link to follow)
+1. Complete the [LinkedIn Learning Empathy Training] (https://www.linkedin.com/learning/communicating-with-empathy/empathy-as-a-path-to-productive-conversations?u=2255073)
 1. Watch the purpose of Reverse AMA's Video (too come)
 1. Shadow a current faciliator when they are running and AMA
 1. Be shadowed by a current facilitator in your first AMA 
