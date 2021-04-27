@@ -107,9 +107,9 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------|---------|
-| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> Crucial Conversations |
-| Day 7   | Cultures | 20 minutes | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration Activity |
-| Day 8   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach |
+| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
+| Day 7   | Coaching and Feedback | 20 minutes | Self-paced Daily Challenge | <br> *Coaching & Feedback Skills |
+| Day 8   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> *Understanding Underperformance <br> * Complete the learning pathway on underperformance |
 | Day 9   | Live Learning - Effective Communications with Your Team | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
 | Day 10  | Individual Growth Plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
 
