@@ -38,7 +38,7 @@ If you would like to schedule a meeting with E-Group at GitLab, please slack the
 1. Duration: 25 mins, 50 mins, etc.
 1. Subject of the meeting
 1. Desired outcome of the meeting
-1. Provide context: include a link to the [agenda doc]((https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit#heading=h.954v91mukl7r)) and provide context in the document so that the EBA can adequately understand and prioritize your meeting with E-Group. The google doc is required to be included in the calendar invite. If you're requesting the meeting, it is your responsibility to prepare the agenda document. 
+1. Provide context: include a link to the [agenda doc](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit#heading=h.954v91mukl7r) and provide context in the document so that the EBA can adequately understand and prioritize your meeting with E-Group. The google doc is required to be included in the calendar invite. If you're requesting the meeting, it is your responsibility to prepare the agenda document. 
 
 ### Agenda Document Templates 
 1. [Agenda Document Template](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit#heading=h.954v91mukl7r) should be used for all meetings with members of our E-Group and provided at the time of the meeting request. Select file > make a copy to use this template. If relevant to your meeting request, the agenda document should include links relevant MRs, issues, slides, or helpful background material and information. This document is sufficient for most internal meetings. 
