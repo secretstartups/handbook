@@ -219,8 +219,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-09-20 | 2021-09-24 | UNAVAILABLE - Contribute | UNAVAILABLE - Contribute |
 | 2021-09-27 | 2021-10-01 | UNAVAILABLE | UNAVAILABLE |
 | 2021-10-04 | 2021-10-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-10-11 | 2021-10-15 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-10-18 | 2021-10-22 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-10-11 | 2021-10-15 | [Chris Hill](https://gitlab.com/chillosu) | AVAILABLE - REMOTE |
+| 2021-10-18 | 2021-10-22 | AVAILABLE - REMOTE | [Chris Hill](https://gitlab.com/chillosu) |
 | 2021-10-25| 2021-10-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
