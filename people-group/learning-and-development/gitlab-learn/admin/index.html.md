@@ -628,14 +628,64 @@ After a team member has completed the Access Request process for any elevated pe
 1. Alert the user they now have Learning Evangelist permissions in GitLab Learn and can begin contributing content. If they need support, remind them to reach out in the #learninganddevelopment Slack channel.
 
 
-
 ## Reporting
 
-EdCast uses a tool called EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. 
+EdCast uses a tool called EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. EdGraph is powered by data sets that are stored in a system called [EdData](https://docs.edcast.com/docs/eddata). This documentation is important to review to understand what variables and attributes are captured in the data lake, and how you can access and combine these points.
 
-### Key Dashboards
+### EdGraph Key Dashboards
 
-1. [GitLab Learn Key Reports - All Users](https://edcast-536.domo.com/page/2188975) - this dashboard displays key reports that give insight into course completion and use engagement platform wide on GitLab Learn. This is the best dashboard to view metrics that are **not** segmented by audience.
+EdGraph comes with 6 dashboards, pre-populated with 5-10 reports each. These reports are some of the most commonly requested data arrangements requested by EdCast customers. These reports can be filtered, copied, saved, and shared and are a great jumping point for customization of existing data sets.
+
+Each dashboard and the corresponding reports in that dashboard can be found on the [EdGraph documentation page](https://docs.edcast.com/docs/edgraph)
+
+#### Using key dashboards to build customs reports
+
+{add video training here}
+
+### Custom Dashboards
+
+EdGraph has the option of building custom dashboards to organize data and reports in a central location. These dashboards are great for teams to organize commonly accessed reports and share results with leadership.
+
+Below is a list of current custom dashboards used by the LXP team:
+
+1. [Field Sales Reports](https://edcast-536.domo.com/page/1094270617)
+1. [GitLab Learn Metrics: All Users](https://edcast-536.domo.com/page/2188975)
+1. [DIB Certification Completions](https://edcast-536.domo.com/page/2098296181)
+1. [Key L&D Reports](https://edcast-536.domo.com/page/1036257110)
+1. [Executive Insights](https://edcast-536.domo.com/page/622335069)
+
+Please note that in order to view the above dashboards, you must have both access to EdGraph and be added to each dashboard. Please work with the L&D team to process an access request if you'd like to view reports in EdGraph.
+
+#### Building custom dashboards
+
+##### Create a new dashboard
+
+1. Go to the [EdGraph Domo site](https://edcast-536.domo.com/page/-100000)
+1. In the top navigation click the circle icon with a `+` sign in the center and choose `Dashboard`
+1. Give a name to your dashboard. This can be edited later.
+1. Your dashboard will automatically open, with instructions to do 3 differen steps: Add Content, Resize and move, and Add styling.
+1. The vertical navigation bar on the right side of the page has style elements you can drag and drop on to your dasohboard. These elements will house text, images, and reports and enable you to organize them on the page to communicate key information to the dashboard viewer.
+1. Building your dashboard requires a combination of sharing content to the dashboard and arranging it using these style elements. Further customization and styling can be done to add brand alighment, colors, etc. Training for this will be included in future iterations.
+1. In the vertical navigation bar, you'll see the option to add `Header`, `Layout`, `Card`, `Image`, `Text` and `Border`. Review the use case for each element in the chart below:
+
+| Element | Use |
+| ----- | ----- | 
+| Header | Text header to give titles on your dashboard | 
+| Layout | Built-in organization options for multiple report cards | 
+| Card | A single report card | 
+| Image | Upload and display an image to the dashboard | 
+| Text | Add a textbox |
+| Border | Add a solid horizontal line to deliniate space on the dashboard | 
+
+{add video training buildnig a dashboard}
+
+##### Share reports to a dashboard
+
+1. Navigate to the report you want to share
+1.
+1. 
+##### Customize a dashboard
+##### Add users to a dashboard
 
 ### How to get EdGraph Access
 
