@@ -584,52 +584,5 @@ If the Opportunity is going through a 2-Tier Channel (Distributor + Reseller), b
 
 For deals going through GCP and AWS, the Partner fields should still be filled out on the Opportunity but comp neutral will not calculate until the deal closes as partner discounts are done after the quote/order form is generated. Deal Desk will assist with this process.
 
-## Frequently Asked Questions
 
-**Where can I find the Standard Channel Discounts for my Partners?**
-- Follow [SFDC Discounting table](https://gitlab.my.salesforce.com/0694M000008xAk4)
-
-[Public Sector discount table](https://gitlab.my.salesforce.com/0694M000009YhAcQAK)
-
-**Where can I find more information about our current Partner processes?**
-- The current Resellers Handbook can be found [Here](/handbook/resellers/)
-
-**Whats the current Deal Registration Process?**
-- The current process can be found [Here](/handbook/resellers/#deal-registration)
-
-**How do I track the opportunity of a partner deal?**
-Please fill in at least one of the following Opportunity drop downs to identify the deal as a Channel opportunity.
-- **If the partner registered the deal** the `Deal Registrar`field will need to be populated in the SFDC opportunity with the appropriate Partner Account.
-- **If the Partner Assisted you** (see above for definition) please populate the `Partner - Assisted` field in the SFDC opportunity with the appropriate partner account.
-- **If GitLab sourced and sold the deal directly, and the partner is simply fulfilling the deal**, please populate the `Partner - Fulfillment` field in the SFDC opportunity.
-
-**How do I check what I'm being paid on?**
-
-**What are some examples of Channel Neutral math?**
-
-| **Deal Calculation** | **Direct Deal** | **Channel 1 (Neutral)** | **Channel 2 (Add’l Disc)** | **Channel 3 (Split Disc)** |
-|----- | ----- | ------ | ------ | ------|
-| List Price | $100,000 |  $100,000 | $100,000  | $100,000 |
-| Channel Discount | 0% | 20% | 20% | 20% |
-| Additional Rep Discount | 5% | 0% | +5% | +2.5% |
-| **Total Discount** | **5%** | **20%** | **25%** | **22.5%** |
-| IACV (Quota Relief) | $95,000 |  $80,000 | $75,000  | $77,500 |
-| Channel Neutral (No Quota Relief @ BCR)  | +$0 |  +$20,000 | +$20,000  | +$20,000 |
-| **Commissionable Amount** | **$95,000** |  **$100,000** | **$95,000**  | **$97,500** |
-| Base Commission Rate (BCR) | % 8 |  % 8 | % 8  | % 8 |
-| **Commission Payout** | **$7,600** | **$8,000** | **$7,600**  | **$7,800** |
-
-
-**How do I get Channel deals/discount approvals?**
-Follow [standard approval process](/handbook/business-ops/order-processing/#step-5---submitting-a-quote-for-discount-and-terms-approval) in SFDC
-
-**How does the Amazon Process work?**
-Follow [Amazon Web Services (AWS) Private Offer Transactions](/handbook/business-ops/order-processing/#amazon-web-services-aws-private-offer-transactions) handbook
-
-**I need HELP!  How to do I reach out to the experts?**
-
-The quickest way to get help is by using the following Slack channels:
-- #channel-sales
-- #channel-ops
-- #alliances
 
