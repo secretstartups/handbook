@@ -68,7 +68,8 @@ Work with your crew to prevent breaches:
 1. Reply to tickets linked by bot alerts in Slack about imminent breaches
     1. Add the `:eyes:` emoji reaction to the bot message to show you're looking at a ticket (you can remove this if you've looked and don't know how to reply - though ideally at this point start a thread and ask your crew to collaborate with you)
     1. Add the `:white_check_mark:` emoji reaction to the bot message when you've replied to the ticket so the rest of your crew knows that it's been taken care of.
-    1. At the end of your crew day, **all bot alerts should have an emoji response** to show that we've responded to all tickets
+    1. Prioritise `All Regions` and `Preferred Region = your region` tickets.
+    1. At the end of your crew day, **all bot alerts for `All Regions` and `Preferred Region = your region` tickets should have an emoji response**.
 1. Reply to tickets in the `SM with SLA` and `.com with SLA` views to get ahead of imminent breaches. Work in Zendesk from the top of these views - there's **no need to wait for the bot!** Try to anticipate future busy periods by looking at the time to next breach in Zendesk and getting replies out before the bot alert the channel.
 
 
