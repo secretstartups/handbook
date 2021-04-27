@@ -98,3 +98,5 @@ The ZoomInfo Outreach integration is now live and you may export contacts direct
 - There is a 100 contact export limit in place.
 - We do not allow for new accounts/account updates from ZoomInfo into Outreach. 
 - Please do not upload any contact without an email address into Outreach- if you do, the prospect will not sync into SFDC and any activities you do on the prospect will not be recorded in SFDC. 
+
+Any prospects created without email address will be found and deleted in the Outreach database management we will run monthly. To avoid uploading contacts with no email addresses, please use the ZoomInfo filtering available.
