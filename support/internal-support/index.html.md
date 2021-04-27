@@ -178,7 +178,9 @@ If a ticket or issue escalation is posted in the wrong channel, simply add the `
 
 By default, [trial licenses do not include support](https://about.gitlab.com/support/#trials-support).
 
-If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant temporary support for their trial license**. You can do this via Salesforce in a few simple steps:
+If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant temporary support for their trial license**. Please note this is only available for 60 days maximum. After that point, the account will be downgraded back to the standard levels for a trial/prospect.
+
+You can do this via Salesforce in a few simple steps:
 
 1. Browse to the organization's Salesforce record, locate the field titled `Manual Support Upgrade` and add a check mark.
 1. Add a contact record in Salesforce for each person in the organization who you want to be able to submit and work support tickets.
