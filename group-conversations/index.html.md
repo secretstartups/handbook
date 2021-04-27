@@ -40,7 +40,7 @@ It's common to wonder what the difference is between these two meetings. General
 | **Tone** | Formal | Informational |
 | **Discussion** | High-context | [Low-context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) |
 
-The Key Review is intended for updating management on progress, while the Group Conversation is open to the entire GitLab team and is a good place for sharing news and explaining initiatives. Here's a brief discussion of why we have both meetings, and how they can operate effectively:
+The Key Review is intended for senior experts to ask questions. The Group Conversation is open to the entire GitLab team to ask questions. We have both to give the senior experts enough time to ask questions since the Group Conversations can have 100+ attendees. Both are also a good place for sharing news and explaining initiatives. The same deck must be used for both calls. Here's a brief discussion of why we have both meetings, and how they can operate effectively:
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/tLOMA3663XM" frameborder="0" allowfullscreen="true"> </iframe>
