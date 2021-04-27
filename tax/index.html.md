@@ -95,6 +95,57 @@ What are the prerequisites for a decision to establish a NewCo in a country wher
 
 To monitor developments and keeping stakeholders informed, weekly cross-functional meetings are held with Legal, Payroll, People Ops and Tax. FP&A is included about planned hiring for new markets.
 
+
+**Subsidiary Board Meeting Process**
+
+## **Subsidiary Board Meeting Schedule**
+
+1. Meetings for the respective Board of Directors for each direct and indirect subsidiary of GitLab Inc. are held quarterly and they are all remote; everyone joins with their own video conference setup from a separate location, unless prohibited by local law.
+2. Meetings are scheduled on/around the Thursday 7 weeks after the end of the quarter, assuming availability of the respective directors of the subsidiaries.
+3. The 2021 schedule of subsidiary board meetings is as follows:
+
+*   2021-06-24
+*   2021-10-7
+*   2021-12-22
+
+The corporate secretary for each subsidiary board shall ensure that there are separate calendar invites for all attendees within each session, all including exact session start and end times, the appropriate Zoom link, and links to the notes doc, agenda and any supplemental materials:
+
+*   Subsidiary Board of Directors Meeting - General Session
+    *   Duration: 30 minutes
+    *   Attendees: GitLab Subsidiary Board of Directors, outside legal firm representatives (if required)
+*   Subsidiary Board of Directors Meeting - Closed Session
+    *   Duration: 20 minutes
+    *   Attendees: GitLab Subsidiary Board of Directors, outside legal firm representatives (if required)
+
+**Timeline**
+
+1. The subsidiary’s corporate secretary is the DRI for scheduling the Subsidiary Board meetings and updating the dates on this page.
+2. The subsidiary’s corporate secretary reaches out before the meeting to collect questions from the board members and prepares and shares the agenda.
+3. The subsidiary’s corporate secretary sends notice to the board within the timeframe required per each subsidiary’s governance documents.
+4. Presentations for the subsidiary board meeting should be ready 10 days prior to the meeting.
+5. Once approved, the subsidiary’s corporate secretary distributes the subsidiary board materials 3 days before the meeting to the applicable board members for the subsidiary. All presentations and content should be finalized at this time with no further changes. 
+6. The subsidiary’s corporate secretary is responsible for linking all materials in the agendas for each session of the board meeting. Materials should always be linked in the agenda and shared with the appropriate attendees.
+7. The day before the meeting, the subsidiary’s corporate secretary ensures that the “introduction” section of the agenda is up to date with the latest attendees. The Director of Tax also ensures that the agenda document is locked to further questions 24 hours before the meeting is set to begin. Questions can still be raised verbally during the meeting.
+8. The subsidiary’s corporate secretary is responsible for ensuring that the Board meeting runs according to the time allotted.
+9. The subsidiary’s corporate secretary is responsible for maintaining the minutes of the meeting and submitting for subsidiary board approval.
+10. The subsidiary’s corporate secretary ensures that PDF versions of the materials including presentations, exhibits, approved minutes, and administrative materials are securely stored on Google Drive labeled with the date of the meeting.
+
+** Agenda**
+
+1. Prior to distributing the Board deck, the subsidiary’s corporate secretary groups questions together in the agenda by function. Questions can be added to the agenda up to 24 hours before the meeting starts. After this point, the agenda will be locked. 
+2. Board materials are presented during subsidiary board meetings. This includes:
+    *   The Board deck (excluding the appendix or any pre-read slides) and highlighting the items requiring the subsidiary board approval, if any. Five to eight minutes will be allocated for this.
+3. Questions can be asked throughout presentations, but 30 minutes at the end will be allocated just for discussion.
+4. At the conclusion of the General Session, all attendees other than the members of the subsidiary board depart and the full subsidiary board shall meet for a Closed Session.
+
+**Board Deck**
+
+1. Slides should convey a high-level overview as opposed to operational updates and should not include embedded links.
+2. Put information on public web pages such as [/strategy](https://about.gitlab.com/company/strategy/) as much as possible.
+3. Sensitive information goes into the administrative deck managed by the Director of Tax.
+4. Font size should be minimum 16pt, footnotes excluded. We want to make sure everything can be read.
+5. Every slide should have a title which provides the key takeaway from that slide.
+
 ## Tax Procedure for Compliance with Transfer Pricing
 
 One of the consequences of GitLab's global footprint is that intercompany transactions are conducted between GitLab entities. For instance, finance team members in the USA support the German entity with daily activities; or backend engineers support development of GitLab's IP that is owned by GitLab BV. International tax law requires that intercompany transactions are performed at arm’s length. At arm's length means that GitLab's companies should agree on terms and conditions of these services that independent enterprises would also apply (i.e. pay for use of services, goods or intangibles). Intercompany transactions can be grouped into four categories:
