@@ -9,6 +9,9 @@ title: "Spending Company Money - Equipment Examples"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+See also the [hardware expense table](/handbook/finance/expenses/#hardware)
+for a list of items and how much is reimbursable.
+
 ### Adapters and cables
 
 #### A note on HDMI and 4K@60Hz
