@@ -79,5 +79,5 @@ Community contributions are valuable, and we should handle them as effectively a
 | [Complete Triage for Merged Merge Requests](#complete-triage-for-merged-merge-requests) | 7 days                                     | Reach out to [Engineering Productivity team][Engineering Productivity team] |
 | [Complete Triage for Idle Merge Requests](#complete-triage-for-idle-merge-requests)    | 7 days                                     | Reach out to [Community Relations team](/handbook/marketing/community-relations/#-how-to-reach-us)         |
 
-[GitLab.com]: (https://gitlab.com/groups/gitlab-org)
-[Engineering Productivity team]: (/handbook/engineering/quality/#engineering-productivity-team)
+[GitLab.com](https://gitlab.com/groups/gitlab-org) | 
+[Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-team)
