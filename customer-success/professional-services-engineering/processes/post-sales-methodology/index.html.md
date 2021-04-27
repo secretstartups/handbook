@@ -147,7 +147,9 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 1. <strong>For courses that have certification assessments</strong>: When an attendee submits their certification assessment, review their work in the demo lab cloud within 7 days of the attendee's submission and manually release their results using the attendee's completed Google Form. [Here are the detailed instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/wikis/GitLab-Certification-Instructions) for certifying customers.
 
 ### Complete 
-**TODO: Add or link to content about what happens in this step**
+For training engagements, check out the [close out procedures on our operations page](/handbook/customer-success/professional-services-engineering/professional-services-operations/#training-close-out). 
+
+For blended engagements, see the `Deploy & Close` section of our [project management page])(/handbook/customer-success/professional-services-engineering/project-mgmt/#project-workflow)
 
 ### Financial Closeout 
 **TODO: Add or link to content about what happens in this step**
