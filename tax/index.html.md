@@ -130,7 +130,7 @@ The corporate secretary for each subsidiary board shall ensure that there are se
 9. The subsidiary’s corporate secretary is responsible for maintaining the minutes of the meeting and submitting for subsidiary board approval.
 10. The subsidiary’s corporate secretary ensures that PDF versions of the materials including presentations, exhibits, approved minutes, and administrative materials are securely stored on Google Drive labeled with the date of the meeting.
 
-** Agenda**
+**Agenda**
 
 1. Prior to distributing the Board deck, the subsidiary’s corporate secretary groups questions together in the agenda by function. Questions can be added to the agenda up to 24 hours before the meeting starts. After this point, the agenda will be locked. 
 2. Board materials are presented during subsidiary board meetings. This includes:
