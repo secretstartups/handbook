@@ -359,6 +359,22 @@ Code Unit:
    - [OpportunityClass.checkAndConfirmSplitPercentages](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L337)
    - Please also see the [OpportunityClass.singleWonOppSplitOwnerUpdate](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L126) where split are also handled but not directly in alignment with the needs for this process
 
+## Maintain Channel Manaher
+
+**Business Process this supports:** This automation maintains the correct Channel Manaher on Opportunities. This is important for trakcing which Channel Manager gets compensated on which Opportunity. 
+
+**Overview:** 
+   - Currently there are a handful of automations that maintain the Channel Manager on Opportunity records. 
+      - When a Deal Registration is associated with an Opportunity the Channel Manager on the Deal registration is stamped onto the Opportunity. This also happens when creating the Opportunity from the Deal registration. This is handeled through our managed package, Vartopia. 
+      - When a Deal Registration has its Channel Manaher updated, the new Channel Manager is stamped onto the Opportunity in the Channel Manager field. This is to accomadate for scenarios with Pub Sec Accounts. Instead of having two Channel accounts in SFDC have only one and update the channel manager on the Deal Registration when it is a Pub Sector Deal Registration. 
+      - `This Class/Automation` When the Channel Manaher on an account is updated. Find all open Opportunities where that Partner Account is the same as the account with the owner change and the Old Account Owner is stamped as the `Channel Manager` on the Opportunity and update the `Channel Manager` to the new Owner of the Partner Account. 
+
+
+**Logic Locations:** 
+   - [AccountClass.maintainChannelManagerOpenOpps](###) - Link Coming soon
+   - [AccountClassTest.maintainChannelManagerOpenOpps](###) - Link Coming soon
+
+
 ## Refund Opportunity 
 
 **Business Process this supports:** [Decommision Opportunity Process](/handbook/sales/field-operations/sales-operations/deal-desk/#creating-decomission-opportunties)
