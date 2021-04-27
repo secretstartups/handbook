@@ -75,7 +75,7 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 
 ### Pre-Challenge Kickoff Call
 
-Before the challenge is offically kicked off, a kickoff meeting will take place to get to know one another better. A roundtable discussion and intro's will take place. The program will be reviewed in depth and questions will be answered. The call is optional but everyone is invited to attend! 
+Before the challenge is offically kicked off, a kickoff meeting will take place to get to know one another better. A roundtable discussion and intro's will take place. The program will be reviewed in depth and questions will be answered. The call is optional, but everyone is invited to attend! 
 
 ### Week 1
 
@@ -89,9 +89,9 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity |
 |---------|-----------------|------------------|---------|---------|
-| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Learn about the SOCIAL STYLES assessment <br> *Define what it means to be a manager at GitLab |
+| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Complete the learning pathway <br> *Define what it means to be a manager at GitLab |
 | Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
-| Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Define how to become a high performing team |
+| Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Complete the learning pathway |
 | Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 1hr 20 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
 | Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
@@ -108,7 +108,7 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day     | Challenge Topic | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------|---------|
 | Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
-| Day 7   | Coaching and Feedback | 20 minutes | Self-paced Daily Challenge | <br> *Coaching & Feedback Skills |
+| Day 7   | Coaching and Feedback | 20 minutes | Self-paced Daily Challenge | <br> *Complete the learning pathway for coaching and feedback |
 | Day 8   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> *Understanding Underperformance <br> * Complete the learning pathway on underperformance |
 | Day 9   | Live Learning - Effective Communications with Your Team | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
 | Day 10  | Individual Growth Plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
