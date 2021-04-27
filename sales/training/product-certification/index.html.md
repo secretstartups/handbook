@@ -14,9 +14,9 @@ description: "Training and certification program to ensure field team members ha
 
 ## Overview
 
-As part of the [Field Certification Program](/handbook/sales/training/field-certification/), the objective of this program is to ensure field team members have the requisite knowledge to serve as trusted advisors to customers, prospects, and partners by properly positioning the right GitLab solution(s) based on customers’ or prospects’ expressed needs and/or challenges. 
+As part of the [Field Certification Program](/handbook/sales/training/field-certification/), the objective of this program is to ensure field team members have the requisite knowledge to serve as trusted advisors to customers, prospects, and partners by properly positioning the right GitLab solution(s) based on customers’ or prospects’ expressed needs and/or challenges.
 
-Note: This GitLab product training and certification program is different from resources like the ones below that focus on how to _use GitLab_ (though we encourage field team members to take these as well)! 
+Note: This GitLab product training and certification program is different from resources like the ones below that focus on how to _use GitLab_ (though we encourage field team members to take these as well)!
 - [GitLab Certifications](/handbook/people-group/learning-and-development/certifications/)
 - [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
 
@@ -36,9 +36,11 @@ graph TD;
 
 ### What the Field Needs to Know
 
-Product training and certification learning objectives are determined by the [Use Case Activation Teams](/handbook/marketing/strategic-marketing/usecase-gtm/#use-case-activation-team) for all [Tier 1](/handbook/marketing/strategic-marketing/usecase-gtm/#tier-1) and [Tier 2](/handbook/marketing/strategic-marketing/usecase-gtm/#tier-2) customer use cases based on what and how key GitLab features and capabilities deliver against prioritized [market requirements](/handbook/marketing/strategic-marketing/usecase-gtm/#market-requirements) for each customer use case. Learning objectives are also defined for what the field needs to know about GitLab’s [product tiers](/handbook/marketing/strategic-marketing/tiers/). Two sets of prioritized product learning objectives are maintained--one for Sales roles and one for Customer Success roles.
+Product training and certification learning objectives are defined for [customer use cases](/handbook/marketing/strategic-marketing/usecase-gtm/) based on what and how key GitLab features and capabilities deliver against prioritized [market requirements](/handbook/marketing/strategic-marketing/usecase-gtm/#market-requirements) for each customer use case.
 
-### Training 
+ Learning objectives are also defined for what the field needs to know about GitLab’s [product tiers](/handbook/marketing/strategic-marketing/tiers/). Two sets of prioritized product learning objectives are maintained--one for Sales roles and one for Customer Success roles.
+
+### Training
 
 Lightweight role-based product training learning paths (one for Sales roles and one for Customer Success roles) are being developed to support the learning objectives outlined above with the goal of launching by or before early FY22. Until that time, team members and partners are encouraged to leverage and consume existing Handbook resources and participate in existing informal continuing education programs. New field team members will be encouraged to complete this training during their first few months in the role after successfully completing the [Sales Quick Start field onboarding](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/#sales--customer-success-quick-start-learning-path---core-curriculum) training program as outlined above.
 
