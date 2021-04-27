@@ -159,7 +159,7 @@ The project manager should schedule a retrospective at the end of the project. I
 
 The [Retrospective TEMPLATE](https://docs.google.com/document/d/1CXfnCzjF_hwapy0R-89txiFUmSmvX7jvlEqWn48zN8A/edit#heading=h.yqd5ghhhm2lh) can be used to capture notes during the meeting. 
 
-The Retrospective meeting should be run by someone that is not intimately familiar with the execution of the project (typically PS Practice Manager or Engagement Manager). During the meeting, encourage contribtions into the notes doc in real time and offer for participants to verbalize their feedback. 
+The Retrospective meeting should be run by someone that is not intimately familiar with the execution of the project (typically PS Practice Manager or Engagement Manager). During the meeting, encourage contributions into the notes doc in real time and offer for participants to verbalize their feedback.
 
 Toward the end of the call, gather actions and assign owners to complete those actions. 
 
@@ -167,7 +167,6 @@ Toward the end of the call, gather actions and assign owners to complete those a
 **TODO: Add or link to content about what happens in this step**
 
 ### Handoff (Support)
-**TODO: Add or link to content about what happens in this step**
 At the end of a small/medium sized projects or after the initial implementation phase of a large engagement, open a [support ops issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) and add a link to the collaboration project architecture diagram that was deployed. The Support team will load it into a field in Zendesk to help them have context for customer support requests. 
 
 ## Employing Subcontractors
