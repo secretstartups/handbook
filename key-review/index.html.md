@@ -31,9 +31,9 @@ Meetings are scheduled monthly starting on the 15th day after month end.
 ## Scheduling
 The EBA to the CFO is the scheduling DRI for the Monthly Key Reviews, with the exception of the Sales Key Review, the EBA to the CRO is the scheduling DRI for the Sales Key Review.
 
-A Key Review should not be cancelled, permission to cancel or make changes to the Key Review schedule must be approved by the CFO. If the CFO is not available the CEO will make the decision. Requests should be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. All changes to the Key Review schedule and/or invites have to be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
+A Key Review should not be cancelled, permission to cancel or make changes to the Key Review schedule must be approved by the CFO. If the CFO is not available the CEO will make the decision. Requests should be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. All changes to the Key Review schedule and/or invites have to be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 
-Each month's Key Review schedule will be posted in the [#key-meeting](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel on the first Monday of each month (if that Monday falls on a holiday it will be posted on the next business day).
+Each month's Key Review schedule will be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel on the first Monday of each month (if that Monday falls on a holiday it will be posted on the next business day).
 
 ## Invitees
 
@@ -57,7 +57,7 @@ Functions that have these meetings are:
 *  Sales (Michael McBride - function DRI) scheduled monthly
 *  Support (Tom Cooney - function DRI) scheduled monthly
 
-If you would like to be added to a function's Key Review post in [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
+If you would like to be added to a function's Key Review post in [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
 
 ### Key Rotation
 
@@ -67,7 +67,7 @@ Each month, one All-Direct will join the Key Rotation. While no meeting is manda
 
 A rotation includes 10 meetings--each 25 minutes long. The meetings tend to be spread over two weeks. A participant may want to spend some time in advance prepping for these meetings. If a participant has to skip a couple of meetings due to last minute conflicts, the participant can opt to attend the missed sessions in the following month.
 
-Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the [EBA of the CFO](/handbook/eba/#executive-business-administrator-team) in the #key-meetings Slack channel. The EBA to the CFO will add participants to meetings.
+Participants can sign up in the Key Rotation Schedule by making an MR to this page and assigning to the [EBA of the CFO](/handbook/eba/#executive-business-administrator-team) in the #key-review Slack channel. The EBA to the CFO will add participants to meetings.
 
 #### Key Rotation Schedule
 
@@ -98,8 +98,8 @@ Important notes:
 1. Every department KPI should be covered. This can be in the presentation and/or links to the handbook.
 1. Wherever possible, the KPI or KR being reviewed should be compared to Plan, Target, or industry benchmark.
 1. There is no presentation; the meeting is purely Q&A. Of course, people can ask to talk them through a slide. If you want to present, please [post a YouTube video](/handbook/marketing/marketing-operations/youtube/) like [Todd did](https://www.youtube.com/watch?v=hpyR39y_1d0) and link that from the slide deck, agenda, and/or Slack.
-1. The functional owner is responsible for updating and posting their Key Review agenda 24 hours in advance of the meeting, post in the [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. 
-1. Video is not required, but if there is a video it should be posted 24hrs in advance in the [#key-meetings](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
+1. The functional owner is responsible for updating and posting their Key Review agenda 24 hours in advance of the meeting, post in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. 
+1. Video is not required, but if there is a video it should be posted 24hrs in advance in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 1. The agenda document should include a presentation link that is accessible by all team members, as well as a Q&A section.
 1. Key Reviews should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key Reviews with [not public](/handbook/communication/#not-public) information should be privately streamed to YouTube Unfiltered. 
 1. Should public or private streaming be unavailable, Key Reviews are set to auto-record to the cloud and should be uploaded to the GitLab Unfiltered [Key Reviews Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi) on YouTube. It is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered with the correct visibility (private or public). 
@@ -109,13 +109,13 @@ Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
 
 ### Group Conversations and Key Review Metrics
-Function DRIs are expected to use their function's Key Review deck and recordings for their scheduled [Group Conversations](/handbook/group-conversations/). Group Conversations should follow Key Reviews, please see the [Group Conversation schedule](/handbook/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key Review to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
+Function DRIs are expected to use and share their function's Key Review deck, meeting notes and any recordings for their scheduled [Group Conversations](/handbook/group-conversations/). Group Conversations should follow Key Reviews, please see the [Group Conversation schedule](/handbook/group-conversations/#schedule--dri). The goal for these meetings are to discuss what is important and the decks should be the same. You can add additional slides to the Key Review to give more context, not all slides have to relate to KPIs and OKRs. The difference between the two meetings is the audience, the GCs are for a wider audience of the entire company.
 
 ### Recordings
 
 To view a recording of a Key Review, visit the playlist on YouTube Unfiltered titled [Key Reviews](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi). If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). 
 
-Key Review recording links should be shared in the #key-meetings Slack channel by the functional department EBA within 24 hours of a Key Review being completed.
+Key Review recording links should be shared in the #key-review Slack channel by the functional department EBA within 24 hours of a Key Review being completed.
 
 ### Automated KPI Slides
 
