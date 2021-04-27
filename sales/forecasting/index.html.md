@@ -97,6 +97,10 @@ On receiving an approved request for the split, SalesOps team will update the Op
 
 * **CaptivateIQ**
 Opportunity split crediting will automatically be calculated in the commissions system through the Opportunity Splits section. The Commissions team will ensure that the commissions are calculated accurately based on the split % and confirm in Chatter on the opportunity.
+
+* **Clari**
+As of FY22Q2, our Clari instance will pull in Opportunity Splits.  The splits in Clari will be pulled directly from the Opportunity Split section in Salesforce.
+
 #### Advantages to Updating Opps in Clari
 
 In Clari, we have provided a simplified layout meaning that we have designed the **Details** tab to include the most important fields that an RD/VP will review when determining whether they will include your opportunity in their regional forecast. **Purchasing Plan, MEDDPPICC, Next Steps** are atop this simplified layout. You won’t have to navigate through various sections of Salesforce to enter the most important details. What's more is that sales leadership will use this exact same view when reviewing your opportunities. So while you might be more familiar with updating opportunity records in Salesforce, over time, you should find updating in Clari will prove much more convenient.
