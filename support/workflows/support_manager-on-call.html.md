@@ -72,7 +72,7 @@ An escalation is considered resolved when the correct next-step is identified an
 
 When an escalation is resolved:
 
-1. Apply a `:green-check-mark` emoji to the escalation notification in `#support_escalations`. 
+1. Apply a `:green-check-mark:` emoji to the escalation notification in `#support_escalations`. 
 1. Update the associated escalation Issue with an appropriate comment, and Close it.
 
 ## Act as a notification point for security incidents
