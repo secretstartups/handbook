@@ -44,7 +44,7 @@ See the [Command Plan](/handbook/sales/command-of-the-message/command-plan/) Han
 
 * **Forecast Category** will be used when forecasting any opportunity with Net ARR. For example, if you are submitting a New Business, Add On Business, or Renewal opportunity to your forecast, the Net ARR portion of the opportunity will be included in your number.
 
-* **Churn Renewal** will be used **only** when forecasting any renewal opportunities that have a probability to churn. In these cases, the Renewal ARR portion of the deal will be included into your Renewal Loss forecast number.
+* **Churn Renewal** will be used **only** when forecasting any renewal opportunities that have a probability to churn. In these cases, the ARR Basis portion of the deal will be included into your Renewal Loss forecast number.
 
 ### Default Salesforce Stage to Forecast Category and Churn Renewal Mapping
 
@@ -97,10 +97,6 @@ On receiving an approved request for the split, SalesOps team will update the Op
 
 * **CaptivateIQ**
 Opportunity split crediting will automatically be calculated in the commissions system through the Opportunity Splits section. The Commissions team will ensure that the commissions are calculated accurately based on the split % and confirm in Chatter on the opportunity.
-
-* **Clari**
-As of FY21Q3, our Clari instance will pull in Opportunity Splits.  The splits in Clari will be pulled directly from the Opportunity Split section in Salesforce.
-
 #### Advantages to Updating Opps in Clari
 
 In Clari, we have provided a simplified layout meaning that we have designed the **Details** tab to include the most important fields that an RD/VP will review when determining whether they will include your opportunity in their regional forecast. **Purchasing Plan, MEDDPPICC, Next Steps** are atop this simplified layout. You won’t have to navigate through various sections of Salesforce to enter the most important details. What's more is that sales leadership will use this exact same view when reviewing your opportunities. So while you might be more familiar with updating opportunity records in Salesforce, over time, you should find updating in Clari will prove much more convenient.
@@ -139,7 +135,7 @@ If you are a Sales Leader, will have additional access to the **Forecasting Tab*
       * Net ARR - Commit, 50/50 & Best Case
       * Gross ARR - Commit & Best Case
       * Renewal Loss - Commit & Best Case
-  * Gross ARR will be your bookings, a positive value; Renewal Loss will be for lost renewal ARR, represented by a negative value.
+  * Gross ARR will be your bookings, a positive value; Renewal Loss will be for lost ARR Basis, represented by a negative value.
       * The Won column is calculated dynamically. For Managers and certain sales teams it will be the Net ARR amount while for individual reps on Gross plans, it will be the Gross ARR amount, which excludes Renewals with Negative ARR.
   * The result will be your Net ARR, which will be your official value submitted.
   * Also note that you will see the following columns on this tab:
@@ -147,7 +143,7 @@ If you are a Sales Leader, will have additional access to the **Forecasting Tab*
       - **Net Won**: Total of Won deals in Net ARR (includes lost renewals)
 
 * **Renewal ARR**
-  * This will be a read only tab. You will see your rep’s Closed Won Renewal ARR, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
+  * This will be a read only tab. You will see your rep’s Closed Won ARR Basis, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
 
 * **TCV**
   * This will be a read only tab. You will see your rep’s Closed Won TCV, Commit, Best Case, and Pipeline.
