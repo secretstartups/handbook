@@ -149,6 +149,18 @@ Seat Link data encompasses license utilization data for **all** customers, regar
 1. For privacy reasons, we do not collect the hostname (see [blog post](https://about.gitlab.com/blog/2020/03/16/how-were-improving-self-managed-billing/)) or other instance meta data. Instead, the highest reporting instance for a given subscription is displayed
 1. Seat Link does **not** have product usage data; it only counts licenses
 
+##### Mapping Licenses to Subscriptions
+
+When licenses are automatically generated (either via WebStore or Deal Desk) a Zuora subscription ID is mapped to a license. This mapping enables the data to link in Gainsight to create a complete picture of an account. 
+
+If there is ever an issue where that data is not mapped follow the steps below:
+
+1. Confirm the account has Usage Ping enabled by checking the VersionApp
+1. Check to see if their license key has a Zuora subscription linked in LicenseDot
+1. IF the Zuora subscription is missing, open a support ticket to generate a new license with the correct Zuora subscription ID
+
+Example Issue where this issue was discovered: https://gitlab.com/gitlab-data/analytics/-/issues/8518
+
 ## Requesting New Metrics 
 
 To request a new metric, please open an issue in the [Product Analytics project](https://gitlab.com/gitlab-org/product-analytics/-/issues/new) and at-mention Product Analytics PM. You can see [Add per project count](https://gitlab.com/gitlab-org/product-analytics/-/issues/425) as an example. However, before you create an issue, please confirm the metric does not already exist in the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485&fvid=1422977269). 
