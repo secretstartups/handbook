@@ -54,7 +54,7 @@ There can be many such dimensions, but we are only going to focus on the creatio
 It is immutable, set when the record is created, and can be tied to physically clustering the records without having to move them around.
 
 It's important to add that even if time-decay data are not accessed that way by the application by default, there is a way to make the vast majority of the queries explicitly filter the data in such a way.
-Time decay data without such a time-decay related access method are of no use from an optimization perspective as there is no way to set and follow a scaling pattern.
+**Time decay data without such a time-decay related access method are of no use from an optimization perspective as there is no way to set and follow a scaling pattern.**
 
 We are not restricting the definition to data that are always accessed using a time-decay related access method, as there may be some outlier operations, which may be necessary and we can accept them not scaling that well as long as the rest of the accesss methods can scale.
 An example could be an administrator accessing all past events of a specific type while all other operations only access a maximum of a month of events, restricted to 6 months in the past.
@@ -63,7 +63,7 @@ An example could be an administrator accessing all past events of a specific typ
 
 The third characteristic of time-decay data is that their **time-decay status does not change**. Once they are considered "old", they can not switch back to "new" or relevant again.
 
-This definition may sound trivial but we have to be able to make operations over "old" data more expensive (e.g. by archiving or moving them to less expensive storage) without having to worry about the repercussions of switching back to being relevant and having important application operations underperforming.
+This definition may sound trivial but we have to be able to make operations over "old" data **more** expensive (e.g. by archiving or moving them to less expensive storage) without having to worry about the repercussions of switching back to being relevant and having important application operations underperforming.
 
 Consider as a counter example to a time-decay data access pattern an application view that presents issues by when they were updated. We are also interested in the most recent data from an "update" perspective, but that definition is volatile and not actionable.
 
@@ -102,7 +102,7 @@ We have to set the partitioning key based on the date interval of interest, whic
 
    The major purpose of partitioning is accessing tables that are as small as possible. If they get too large by themselves, queries will start underperforming and we may have to re-partition (split) them in even smaller partitions.
 
-The perfect partitioning scheme keeps all queries over a dataset almost always over a single partition, with some cases going over two partitions and seldomly over multiple partitions being an acceptable balance. We should also target for partitions that are as small as possible, bellow 5-10M records and/or 10GB each.
+The perfect partitioning scheme keeps **all queries over a dataset almost always over a single partition**, with some cases going over two partitions and seldomly over multiple partitions being an acceptable balance. We should also target for **partitions that are as small as possible**, bellow 5-10M records and/or 10GB each maximum.
 
 Partitioning can be combined with other strategies to either prune (drop) old partitions, move them to cheaper storage inside the database or move them outside of the database (archive or use of other types of storage engines).
 
@@ -131,7 +131,7 @@ The disadvantage of such a solution over large, non-partitioned tables is that w
 That is a very expensive operation due to multi-version concurrency control in Postgres.
 It also leads to the pruning worker not being able to catchup with new records being created if that rate exceeds a threshold, as is the case of [web_hook_logs](https://gitlab.com/gitlab-org/gitlab/-/issues/256088) at the time of writing this document.
 
-For the aforementioned reasons, our proposal is that we should base any implementation of a data retention strategy on partitioning, unless there are strong reasons not to.
+For the aforementioned reasons, our proposal is that **we should base any implementation of a data retention strategy on partitioning**, unless there are strong reasons not to.
 
 ### Moving old data outside of the database
 
@@ -210,7 +210,7 @@ The process required follows:
 
    This is the point when the partitioned table starts actively being used by the application.
 
-   Dropping the original table is a destructive operation and we want to make sure that we had no issues during the process, so we keep the old non-partitioned table.We also switch the sync trigger the other way around so that the non-partitioned table is still up to date with any operations happening on the partitioned table. That allows us to swap back the tables if it is necessary.
+   Dropping the original table is a destructive operation and we want to make sure that we had no issues during the process, so we keep the old non-partitioned table. We also switch the sync trigger the other way around so that the non-partitioned table is still up to date with any operations happening on the partitioned table. That allows us to swap back the tables if it is necessary.
 
    [MR with all the necessary details](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/60184)
 
@@ -220,7 +220,7 @@ The process required follows:
 
 1. After the non-partitioned table is dropped, we can add a worker to implement the pruning strategy by dropping past partitions.
 
-   In this case, the worker will make sure that only 4 partitions are always active (as the retention policy us 90 days) and drop any partitions older than four months. We have to keep 4 months of partitions as while the current month is still active, going 90 days back takes you to the fourth oldest partition.
+   In this case, the worker will make sure that only 4 partitions are always active (as the retention policy is 90 days) and drop any partitions older than four months. We have to keep 4 months of partitions while the current month is still active, as going 90 days back takes you to the fourth oldest partition.
 
 ### Audit Events
 
@@ -231,17 +231,16 @@ The `audit_events` table shares a lot of characteristics with the `web_hook_logs
 There was a need for a solution ([1](https://gitlab.com/gitlab-org/gitlab/-/issues/7865), [2](https://gitlab.com/groups/gitlab-org/-/epics/3179#note_337353221)) and a consensus that partitioning could solve most of the performance issues ([1](https://gitlab.com/groups/gitlab-org/-/epics/3206#note_338157248), [2](https://gitlab.com/gitlab-org/gitlab/-/issues/217471)).
 
 In contrast to most other large tables, it has no major conflicting access patterns: we could switch the access patterns to align with partitioning by month.
-This is not the case for example for our core tables, which even though could justify a partitioning approach (e.g. by namespace), they have many conflicting access patterns.
+This is not the case for example for other tables, which even though could justify a partitioning approach (e.g. by namespace), they have many conflicting access patterns.
 
 In addition, `audit_events` is a write heavy table with very few reads (queries) over it and has a very simple schema, not connected with the rest of the database (no incoming or outgoing FK constraints) and with only two indexes defined over it.
 
 The later was important at the time as not having Foreign Key constraints meant that we could partition it while we were still in PostgreSQL 11. *This is not a concern any more now that we have moved to PostgreSQL 12 as a required default, as can be seen for the `web_hook_logs` use case above.*
 
-The migrations and steps required for partitioning the `audit_events` are similar to the ones described in the previous sub-section for `web_hook_logs`. There is no retention strategy defined for `audit_events` at the moment, so there is no pruning strategy implemented over it.
+The migrations and steps required for partitioning the `audit_events` are similar to the ones described in the previous sub-section for `web_hook_logs`. There is no retention strategy defined for `audit_events` at the moment, so there is no pruning strategy implemented over it, but we may implement an archiving solution in the future.
 
 What's interesting on the case of `audit_events` is the discussion on the necessary steps that we had to follow to implement the [UI/UX Changes needed to encourage optimal querying of the partitioned](https://gitlab.com/gitlab-org/gitlab/-/issues/223260). It can be used as a starting point on the changes required on the application level to align all access patterns with a specific time-decay related access method.
 
 ### CI tables
 
 **WIP:** Requirements and analysis of the CI tables use case - Still a work in progress, so we'll have to add more details after the analysis moves forward.
-
