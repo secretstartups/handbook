@@ -26,9 +26,25 @@ The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-m
 
 To schedule the EBR, the SALSA/TAM meeting or AE/TAM sync is the best time to review customers that are due an EBR, and agree on next steps, ensuring the economic buyer and key decision makers are invited and able to attend where possible.
 
-During a cadence call, the TAM should bring up the topic of an EBR. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know key stakeholders should attend and ask them to start revewing calendars for an ideal time to schedule the EBR. After the cadence call, follow up with a written summary of the EBR and reiterate your ask for help in scheduling. It can take up to 3 months to find a good time for stakeholders to all be available to meet with us, so the earlier we can start the conversation the better.
+During a cadence call, the TAM should bring up the topic of an EBR. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know key stakeholders should attend and ask them to start revewing calendars for an ideal time to schedule the EBR. After the cadence call, follow up with a [written summary of the EBR](#Sample-EBR-Email) and reiterate your ask for help in scheduling. It can take up to 3 months to find a good time for stakeholders to all be available to meet with us, so the earlier we can start the conversation the better.
 
 Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR sell sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which TAMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
+
+#### Sample EBR Email
+
+Acme Team, 
+
+As our partnership continues to grow, I would like to schedule a one hour Executive Business Review between Acme stakeholders and the GitLab team. 
+
+This is an opportunity to showcase the growth of GitLab within Acme and the value it has provided your users over the last year. We will also spend time aligning on goals and how we can partner together for success over the next year.  
+
+Proposed agenda: 
+1. Introductions
+1. GitLab Overview
+1. Growth, Objectives, and Goals
+1. Product & Usage Insights
+1. Product Overview - (area of your choosing)
+1. Next Steps
 
 
 ### EBRs in Gainsight
