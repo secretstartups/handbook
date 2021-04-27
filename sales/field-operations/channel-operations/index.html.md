@@ -439,15 +439,9 @@ Any partner offering services would qualify for Services-Attach incentives in ad
 
 ### Unauthorized Partners
 - Unauthorized partners are ones that have not signed a GitLab Partner Agreement.
-- A key goal of the GitLab Channel Program is the success of our authorized partners. We are developing our channel to provide coverage across geos, customer segments and vertical markets. Since the program was just launched in April 2020, we have not onboarded enough partners to support every sales opportunity. As we continue to build out our channel coverage, there will still be a need to utilize one-off, unauthorized partners for specific sales opportunities.
-- For Developed Regions - Most P0 and many P1 countries.  GitLab Sales teams, work with your CAM to identify authorized partners in your region.
-GitLab Sales teams should use existing, authorized GitLab partners, including our distributors, whenever possible.
-For FY21 Q2 and Q3, one-off partners can provide fulfillment transactions utilizing the Fulfillment contract.  Additional instructions for opportunities sold via fulfillment partners are available in the Handbook.
-Q4 and beyond - VP approval required for one-off partner requests.
-- For Developing Regions - GitLab Sales teams, work with your CAM to identify authorized partners in your region.
-Use fulfillment contract for one-off partner deals
-On a quarterly basis, the Channel team will revisit developing countries to determine if there is a continued need for fulfillment partners, or if we have the necessary coverage with authorized partners.
-
+- A key goal of the GitLab Channel Program is the success of our authorized partners. As such, we do not permit transactions with unauthorized partners.  Partners must sign a GitLab agreement to transact with GitLab.
+- GitLab Sales teams should work with their Channel Sales team members to identify existing, authorized GitLab partners including our distributors in your region.
+- If a customer requires the use of an unauthorized partner, the partner can visit about.gitlab.com/partners to register.
 
 
 ## Partner Applicant Approval / Denial - Granting Portal Access
