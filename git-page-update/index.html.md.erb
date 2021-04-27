@@ -42,6 +42,9 @@ linking your account to Git.
 
 ## 4. Install Ruby Version Manager (RVM)
 
+There is more than one way to install Ruby. Using a version manager can make it easier to upgrade as the required version for this project changes.
+The [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md#install-prerequisites) file describes how to install `rbenv`. Another version manager is `RVM`. You only need to install one.
+
 [Ruby Version Manager (RVM)](https://rvm.io/) is a command-line utility that allows you to easily install and switch between different versions of the [Ruby](https://www.ruby-lang.org/) programming language, which is used to build this website. It can be installed directly from a command prompt (e.g., in macOS Terminal) with the following command:
 
 ```bash
@@ -54,13 +57,13 @@ Once RVM has been installed, ensure that your updated terminal environment has b
 
 The version of Ruby that you'll need to build this website will change from time to time, but you can always check what version that is by looking at the contents of `.ruby-version` in the root of the `www-gitlab-com` directory. You can always check it [on GitLab](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version) even if you haven't yet cloned your own local copy of the repository.
 
-If `.ruby-version` specifies version `2.7.2`, you can install it with RVM like so:
+If `.ruby-version` specifies version `3.0.0`, you can install it with RVM like so:
 
-1. In a terminal, execute: `rvm install 2.7.2` to install Ruby
+1. In a terminal, execute: `rvm install 3.0.0` to install Ruby
    (enter your system password if prompted).
-1. Execute: `rvm use 2.7.2 --default` to set your default Ruby to `2.7.2`.
-1. Execute: `ruby --version` to verify Ruby is installed. You should see `ruby 2.7.2` included in the output:
-   `ruby 2.7.2p137 (2020-10-01 revision 5445e04352)`.
+1. Execute: `rvm use 3.0.0 --default` to set your default Ruby to `3.0.0`.
+1. Execute: `ruby --version` to verify Ruby is installed. You should see `ruby 3.0.0` included in the output:
+   `ruby 3.0.0p0 (2020-12-25 revision 95aff21468)`.
 1. Execute: `gem install bundler` to install [Bundler](http://bundler.io/).
 
 **Ruby 3 note:**
