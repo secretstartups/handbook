@@ -170,7 +170,6 @@ Code contributions to Verify typically occur in three flavors:
 
 Contributions from both free and paid users are equally important and will follow our [GitLab Contribution Guidelines](https://about.gitlab.com/community/contribute/). We strive to make this process as frictionless as possible between our users and the Engineering teams in Verify, especially during the reviewing of contributions.
 
-
 ### Reviewing contributions
 
 Once a contribution has been created, the Engineering Manager assigns an engineer to manage and review with the Community Contributor. Reviewing contributions will follow the definition of done, style guidelines, and other practices of development. As the DRI of the review, the assigned Verify engineer will work with Community Contributor to resolve any outstanding items. The MR is then passed to a Maintainer with relevant domain expertise for final review prior to being merged.
@@ -179,6 +178,17 @@ Once a contribution has been created, the Engineering Manager assigns an enginee
 
 The Maintainer of the codebase will be the DRI of merging the contribution into the Verify product.
 
+### SLOs for Community Contributions 
+
+For issues that are **refined**, they are considered priority for review and merging. Refined issues are defined as issues in `workflow::ready for development`, with `direction` labels, and either have technical proposals or are weighted. Issues that are not labeled with `workflow::ready for development` and `direction` labels are considered **non-refined** and are lower priority for review, and therefore have longer merge SLOs. SLOs for these two types of issues are defined in the table below:
+
+| Types of issues & users  | Time Frame for Review SLO | Time frame for Merge SLO |
+| --- | --- | --- |
+| All users contributing to refined issues  | 30 days | The next release (60 days) |
+| Paying users from non-refined issues  | 60 days | Within the next 3 releases (approx one quarter or 90 days) |
+| Non-paying users from non-refined issues  | 90 days | Anything outside the next 3 releases (more than one quarter or 120 days). |
+
+In order to prevent the inflow of Community Contributions overwhelming engineers on the team and impacting their ability to work on planned issues, there is a WIP limit of 5 assigned Community Contribution MRs per reviewing engineer. This helps limit the amount of context switching a single engineer is doing and prevents them from being overwhelmed with reviews.
 ## Common Links
 
 ### Slack Channels
