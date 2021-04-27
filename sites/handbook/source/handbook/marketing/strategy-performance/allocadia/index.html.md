@@ -115,20 +115,18 @@ The reports are broken out in folder format and once you click into the folders,
 
 1. To understand your regions budget (referred to in Allocadia as `Target`) and what you are forecasting to spend -
     - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://youtu.be/QTQeOKp3wDU](https://youtu.be/QTQeOKp3wDU)</span> - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE)
-1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type by Motion` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
+1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
     - [Video walk through](https://youtu.be/bauTMmEnaXc) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
-1. `Pipeline Planning Folder> Planned Pipeline* ROI by Motion by Campaign - Full` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions.
-    - [Video walk through](https://youtu.be/Ogf4XTzJu4g) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
+1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. 
+    - [Video walk through](https://youtu.be/XfgckiT9_1s) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
 
 ##### Reporting folders breakdown
 
-While the above listed reports are reports you use to get the information for your QBR, here's a breakdown on the other reporting folders.
-
-1. Finance - we will view actuals here. We aren't using this folder in detail yet. More to come!
-1. Health Check - We aren't using this folder in detail yet. More to come!
-1. Investment Planning
-    1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary.
-    1. Vendor Plan details - Management uses this section to understand how much we are spending with DemandBase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the
+1. Finance - we will view actuals here. We aren't using this folder in detail yet. More to come! 
+2. Health Check - We aren't using this folder in detail yet. More to come! 
+3. Investment Planning 
+    1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary. 
+    2. Vendor Plan details - Management uses this section to understand how much we are spending with Demandbase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the 
 
 ## Integrations
 
@@ -186,12 +184,17 @@ We are looking into the ability to enter the Corporate (CEO level), Marketing (C
 
 Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance.
 
-By using the `Impact Modeller` feature we can forecast the ROI of our marketing efforts from an MQL>SAOs, SAO>Won, and pipeline standpoint taking into consideration the regional conversion rates by campaign type.
+We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. We have loaded two FY worth of data to get to these conversion rates given how different our campaigns types were in FY21 due to the pandemic. 
 
-We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. We have loaded two FY worth of data to get to these conversion rates given how different our campaigns types were in FY21 due to the pandemic. If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and then live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807). These charts will be added to the FMM Dashboard in a future iteration.
+If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. 
 
-This calculation is done by then taking into account the MQLs and segment data that has been given at the line item level in the details panel. The ASPs (which we used the ASPs from the TOPO model per segment) are also loaded for calculation purposes. [Video walk through](https://youtu.be/LPMmah5tvT8) (and yes, you know you need to be logged into Unfiltered to see! ;))
+Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807). These charts will be added to the FMM Dashboard in a future iteration. 
 
+The average deal size by campaign by region can be found [here](https://app.periscopedata.com/app/gitlab/823916/Field-Marketing-Metrics?widget=11036333&udv=1250443) (you'll have to refer back to dashboard to change the region if you want to see a specific regions data) are also loaded for calculation purposes. If there were less than 3 closed deals then we did NOT use that deal size information, but relied on the ASP from the TOPO model to fulfull that deal size. 
+
+A calculation is then done by then taking into account the MQLs, region, segment data and campaign type that has been given at the line item level in the details panel. 
+
+[Video walk through](https://youtu.be/bBLiwdpd5iY) (and yes, you know you need to be logged into Unfiltered to see! ;))   
 ## GitLab Internal Calendars
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
