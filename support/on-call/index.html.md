@@ -107,6 +107,16 @@ decided to retain this shift configuration as it allows for easier planning to
 take a long weekend with Monday off and as a buffer to ease into the next
 on-call. See the latest discussion in this [Support Team Meta issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3204).
 
+##### Support Engineer shifts are 4-hour long shifts
+
+APAC spans many timezones. Using an 8-hour shift to cover APAC business hours
+results in an on-call shift that can finish as late 9pm local time for APAC east
+based team members, and that starts as early as 04:30 local time for APAC west
+team members.  Consequently the support engineer shifts are split into 2 groups,
+APAC 1 and APAC 2, allowing each team member to cover hours within their normal
+working hours.
+
+Note that support manager on call shifts remain the full 8 hours.
 ##### Australia (Employees of GitLab PTY Ltd)
 
 Team members employed by GitLab PTY Ltd _must_ take time off in lieu within two
