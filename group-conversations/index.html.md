@@ -14,7 +14,7 @@ description: "Everything you need to know about GitLab's daily, recurring Group 
 
 Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). Functions with a [Key Review](/handbook/key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations. 
 
-The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](/handbook/people-group/group-conversations/#schedule--dri) as **Available**. If you would like to be added to the GC rotation, please post in #group-conversations . 
+The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. 
 
 All Team Members are invited to participate Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite.
 
@@ -28,7 +28,7 @@ In this video our CEO, Sid gives team members tips and tricks for hosting a FGU 
   <iframe src="https://www.youtube.com/embed/MN3mzvbgwuc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Below is a guide to ensure evenryone gets the most out of Group Conversations. If you have suggestions for improving the Attendee or Meeting Leader experience please create a Merge Request (MR) to update this page — [everyone can contribute](/company/strategy/#why)!
+Below is a guide to ensure everyone gets the most out of Group Conversations. If you have suggestions for improving the Attendee or Meeting Leader experience please create a Merge Request (MR) to update this page — [everyone can contribute](/company/strategy/#why)!
 
 ## Group Conversation vs. Key Review
 
@@ -87,11 +87,12 @@ If you have questions around an upcoming Group Conversation or would like to sta
 
 ### Scheduling and Selecting an Alternate Host
 
-Calls are scheduled by the [EBA Team](/job-families/people-ops/executive-business-administrator/). If you need to reschedule, please *switch* your presenting day with another Group Conversation leader, by asking another leader in the #group-conversations channel publicly. The Executive Business Administrator team is not responsible for finding a replacement for your day. If you've agreed to switch, the EBA DRI will do the following:
+Calls are scheduled by the [EBA Team](/job-families/people-ops/executive-business-administrator/). If you need to reschedule, please *switch* your presenting day with another Group Conversation leader, by asking another leader in the #group-conversations channel publicly. Please also @ mention @exec-admins so they are aware. The Executive Business Administrator team is not responsible for finding a replacement for your day. If you've agreed to switch, the EBA DRI will do the following:
   - Go to the *GitLab Team calendar* invite
   - Update the date of your and the other invite to be switched
   - Choose to send an update to the invitees
   - _If prompted_ with the questions to update 1 or all events, choose to only update this event
+  - Update the GC [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing)
 
 If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](/handbook/people-group/group-conversations/#schedule--dri) to Host:
 - Please update the Alternate Host line in the Group Conversation Agenda document.
@@ -166,7 +167,7 @@ These should be called Pop-up AMAs so it's clear to team members that the AMA wa
 
 The `EBA` team are responsible for moderating the following calls on a rotational basis:
 
-- AMAs (If requested with sufficient notice as per the instructions detailed [here](/handbook/people-group/group-conversations/#request-an-ama)) 
+- AMAs (If requested with sufficient notice as per the instructions detailed [here](/handbook/people-group/group-conversations/#request-an-ama)
 - Group Conversations where an e-group member is the DRI
 - CEO 101 (Introductions and Livestream)
 
@@ -234,159 +235,37 @@ Additional links which may be useful when preparing to moderate a call include:
 ## Schedule & DRI
 
 There is a rotating schedule with each Department having a conversation on a regular interval. 
-We usually do not have Group Conversations or Company calls between December 23rd and January 2nd. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
+We usually do not have Group Conversations or Company calls during the last two weeks of December. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
-On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](handbook/key-review/#invitees) will have monthly Group Conversations within 10 days following their Key Review. They are expected to largely leverage their Key Review material. Other groups will have one meeting in the eight week cycle. Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the schedule below. The schedule, with directly responsible individuals (DRI), is as follows starting 2021-04-19:
+On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](/handbook/key-review/#invitees) will have monthly Group Conversations within 10 days following their Key Review. They are expected to largely leverage their Key Review material. Other groups will have one meeting in the eight week cycle. Please note: the freqency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Strategic Marketing GC happens every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the schedule below. The schedule, with directly responsible individuals (DRI), is as follows starting 2021-04-19:
 
-| Date | Group Conversation | DRI | Key Review? |
+| Group Conversation | DRI | Key Review? | GC Frequency |
 |---|---|---|---|
-| 2021-04-15 | AMA with the CPO | Wendy Barnes | N/A |
-| 2021-04-19 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
-| 2021-04-20 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
-| 2021-04-21 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
-| 2021-04-22 | AMA with the CTO | Eric Johnson | N/A |
-| 2021-04-26 | [CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
-| 2021-04-27 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-04-28 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
-| 2021-04-29 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-05-03 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-05-04 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-05-05 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-05-06 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
-| 2021-05-10 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
-| 2021-05-11 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
-| 2021-05-12 | Open | Reserved for Groups that have a Key Review | Yes |
-| 2021-05-13 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
-| 2021-05-17 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
-| 2021-05-18 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
-| 2021-05-19 | [Community Relations](/handbook/marketing/community-relations/)  | David Planella | No |
-| 2021-05-20 | AMA with David Hornik (Board Member) | N/A | N/A |
-| 2021-05-24 | [CRO Group Conversation](/handbook/sales/)  | David Sakamoto | Yes, monthly |
-| 2021-05-25 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-05-26 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
-| 2021-05-27 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-05-31 | No GC - US Holiday | n/a | n/a |
-| 2021-06-01 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-06-02 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-06-03 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
-| 2021-06-07 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-06-08 | AMA with Godfrey Sullivan (Board Member) | N/A | Yes |
-| 2021-06-09 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
-| 2021-06-10 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-06-14 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
-| 2021-06-15 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
-| 2021-06-16 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
-| 2021-06-17 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
-| 2021-06-21 | AMA with the CEO | Sid Sijbrandij | N/A |
-| 2021-06-22 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
-| 2021-06-23 | Open | Available for any Group Conversation | N/A |
-| 2021-06-24 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
-| 2021-06-28 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
-| 2021-06-29 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-06-30 | [CRO Group Conversation](/handbook/sales/)  | Mike Pyle | Yes, monthly |
-| 2021-07-01 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-07-05 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-07-06 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-07-07 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-07-08 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
-| 2021-07-12 | Open | Reserved for Groups that have a Key Review | Yes |
-| 2021-07-13 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
-| 2021-07-14 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
-| 2021-07-15 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
-| 2021-07-19 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
-| 2021-07-20 | [Community Relations](/handbook/marketing/community-relations/)  | David Planella | No |
-| 2021-07-21 | Open | Available for any Group Conversation | N/A |
-| 2021-07-22 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-07-26 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-07-27 | [CRO Group Conversation](/handbook/sales/)  | Ryan O'Nell | Yes, monthly |
-| 2021-07-28 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-07-29 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
-| 2021-08-02 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-08-03 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-08-04 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
-| 2021-08-05 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-08-09 | Open | Reserved for Groups that have a Key Review | Yes |
-| 2021-08-10 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
-| 2021-08-11 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
-| 2021-08-12 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
-| 2021-08-16 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
-| 2021-08-17 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
-| 2021-08-18 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
-| 2021-08-19 | Open | Available for any Group Conversation | N/A |
-| 2021-08-23 | [CRO Group Conversation](/handbook/sales/)  | Michelle Hodges | Yes, monthly |
-| 2021-08-24 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-08-25 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
-| 2021-08-26 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-08-30 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-08-31 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-09-01 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-09-02 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
-| 2021-09-06 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
-| 2021-09-07 | Open | Reserved for Groups that have a Key Review | Yes |
-| 2021-09-08 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
-| 2021-09-09 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
-| 2021-09-13 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
-| 2021-09-14 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
-| 2021-09-15 | [Community Relations](/handbook/marketing/community-relations/)  | David Planella | No |
-| 2021-09-16 | Open | Available for any Group Conversation | N/A |
-| 2021-09-20 | [CRO Group Conversation](/handbook/sales/)  | Michael McBride | Yes, monthly |
-| 2021-09-21 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-09-22 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
-| 2021-09-23 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-09-27 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-09-28 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-09-29 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-09-30 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
-| 2021-10-04 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-10-05 | Open | Reserved for Groups that have a Key Review | Yes |
-| 2021-10-06 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
-| 2021-10-07 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
-| 2021-10-11 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
-| 2021-10-12 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
-| 2021-10-13 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
-| 2021-10-14 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
-| 2021-10-18 | Open | Available for any Group Conversation | N/A |
-| 2021-10-19 | Open | Available for any Group Conversation | N/A |
-| 2021-10-20 | Open | Available for any Group Conversation | N/A |
-| 2021-10-21 | Open | Available for any Group Conversation | N/A |
-| 2021-10-25 | [CRO Group Conversation](/handbook/sales/)  | David Sakamoto | Yes, monthly |
-| 2021-10-26 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-10-27 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
-| 2021-10-28 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-11-01 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-11-02 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-11-03 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-11-04 | [Security](/handbook/engineering/security/)  | Johnathan Hunt  | Yes, every other month |
-| 2021-11-08 | [UX](/handbook/engineering/ux/)  | Christie Lenneville | Yes, every other month |
-| 2021-11-09 | Open | Reserved for Groups that have a Key Review | Yes |
-| 2021-11-10 | [General](/handbook/ceo/)  | Sid Sijbrandij | No |
-| 2021-11-11 | [Meltano](/handbook/meltano/)  | Douwe Maan  | No |
-| 2021-11-15 | [Inbound Marketing](/handbook/marketing/inbound-marketing)  | Danielle Morrill | No |
-| 2021-11-16 | [UX Research](/handbook/engineering/ux/ux-research/)  | Sarah Jones/Adam Smolinski | No |
-| 2021-11-17 | [Community Relations](/handbook/marketing/community-relations/)  | David Planella | No |
-| 2021-11-18 | Open | Available for any Group Conversation | N/A |
-| 2021-11-22 | [CRO Group Conversation](/handbook/sales/)  | Mike Pyle | Yes, monthly |
-| 2021-11-23 | [Finance](/handbook/finance/)  | Brian Robins | Yes, monthly |
-| 2021-11-24 | [Marketing](/handbook/marketing/)  | Todd Barr  | Yes, monthly |
-| 2021-11-25 | [People](/handbook/people-group/)  | Wendy Barnes | Yes, monthly |
-| 2021-11-29 | [Product](/handbook/product/) | Scott Williamson | Yes, monthly |
-| 2021-11-30 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes, monthly |
-| 2021-12-01 | [Support](/handbook/support/)  | Tom Cooney  | Yes, monthly |
-| 2021-12-02 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes, every other month |
-| 2021-12-06 | [Quality](/handbook/engineering/quality/)  | Mek Stittri | Yes, every other month |
-| 2021-12-07 | Open | Reserved for Groups that have a Key Review | Yes |
-| 2021-12-08 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No |
-| 2021-12-09 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No |
-| 2021-12-13 | [Alliances](/handbook/alliances/)  | Mayank Tahilramani | No |
-| 2021-12-14 | [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No |
-| 2021-12-15 | [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | [Darren Murph](/handbook/marketing/readmes/dmurph/) | No |
-| 2021-12-16 | [Digital Experience](handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No |
+| [CRO](/handbook/sales/) | Michael McBride | Yes | Monthly |
+| [Finance](/handbook/finance/) | Brian Robins | Yes | Monthly |
+| [Marketing](/handbook/marketing/) | Todd Barr | Yes | Monthly |
+| [People](/handbook/people-group/) | Wendy Barnes | Yes | Monthly |
+| [Product](/handbook/product/) | Scott Williamson | Yes | Monthly |
+| [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Monthly |
+| [Support](/handbook/support/) | Tom Cooney | Yes | Monthly |
+| [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month |
+| [Security](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month |
+| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month |
+| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month |
+| [Strategic Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No | Every other month |
+| [All-Remote](/handbook/marketing/corporate-marketing/all-remote/) | Darren Murph | No | Every other month |
+| [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No | Every other month |
+| [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month |
+| [Meltano](/handbook/meltano/) | Douwe Maan | No | Every other month |
+| [Inbound Marketing](/handbook/marketing/inbound-marketing/) | Danielle Morrill | No | Every other month |
+| [UX Research](/handbook/engineering/ux/ux-research/) | Sarah Jones/Adam Smolinski | No | Every other month |
+| [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Every other month |
+| [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No | Every other month |
+| [Alliances](/handbook/alliances/) | Mayank Tahilramani | No | Every other month |
 
 ## Request a new Group Conversation
 
-- Review existing Group Conversation schedule and find an empty time slot.
-- Create an MR to add new Group Conversation session to this empty slot. Include GC Name, link to the handbook page, and also include DRI name.
-- Assign the MR to the [EBA Team](/handbook/eba/) for review, merging, and creation of the Zoom link and addition to the GitLab Team Meetings calendar.
+To request a new Group Conversation, please ping @exec-admins in the slack channel #group-conversations and they will assist you in finding an open slot.
 
 ## Request an AMA
 
