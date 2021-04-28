@@ -681,11 +681,38 @@ Please note that in order to view the above dashboards, you must have both acces
 
 ##### Share reports to a dashboard
 
-1. Navigate to the report you want to share
-1.
-1. 
+1. Navigate to the report you want to share. This could be a built-in report from one of the EdGraph dashboards, or a custom report you've already built.
+1. Click the drop down toggle image in the top right hand corner of the report and select `Save As`. This will create a copy of the original report and save the copy to your selected dashboard.
+1. Rename the report how you'd like and add a description if needed.
+1. From the drop down menu, select the dashboard you'd like to save the report to. 
+1. The `Take me to the new card when I'm done` option is auto-checked. If you'd like to stay on the current page in EdGraph, remember to uncheck this box. If you'd like to automatically go to this new report, keep the box checked.
+1. Click `Save`
+1. Navigate to the dashboard where the report was saved. The report will appear in the `Appendix` section at the bottom of the report. From here, you can edit and filter the report, change the dispaly, and stylize/arrange the report on your dashboard.
+
+{add video training sharing reports}
+
 ##### Customize a dashboard
+
+Customized dashboards help to:
+
+1. tell a story with data
+1. organize data by learning experience, audience, and other factors
+1. quickly communicate key results to stakeholders.
+
+This training video demonstrates some of the stylized additions you can make to your dashboards. Please not this is not an expansive training and that taking time to explore Domo and EdGraph is one of the best ways to try out different dashboard style options and arrangements. 
+
+{add video training custimizing a dashboard}
+
 ##### Add users to a dashboard
+
+1. First, ensure the user has access to EdGraph. Review steps below to correctly add users to EdGraph using an access request.
+1. Navigate to the dashboard or report you'd like to share. In the top navigation bar, you'll see an `add user` button, next to a set of profile images or empty circles that illustrate users already on that report.
+1. Click the `add user` button and the option to share will appear in a pop-up
+1. Add the user name, name, or email address of the person you'd like to share this report with
+1. Add a note to the shared messaage
+1. If you'ld like this event to trigger an email, keep the box selected to send an email. If not, unclick the box
+1. Click the `Share` button
+1. Shared users now have access to view reports or dashboards shared with them. Note that the LXP implementation team are `editors` in EdGraph, but other users are `participants`. Participants cannot edit or maniupulate data, they can only drill down and see the graphs and results you've curated.
 
 ### How to get EdGraph Access
 
