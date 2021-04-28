@@ -135,6 +135,16 @@ Be sure to give a heads-up to `#development`,`#eng-managers`,`#product`, `#ux` S
 and the Engineering week in review when an automation is expected to triage more
 than 50 notifications or change policies that a large stakeholder group use (e.g. team-triage report).
 
+## Experiments
+
+This is a list of Engineering Productivity experiments where we identify an opportunity, form a hypothesis and experiment to test the hypothesis.
+
+| Experiment | Status | Hypothesis | Feedback Issue or Findings |
+| --- | --- | --- | --- |
+| [Enabling developers to run failed specs locally](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/58569) | In Progress | Enabling developers to run failed specs locally will lead to less pipelines per merge request and improved productivity from being able to fix regressions more quickly | <https://gitlab.com/gitlab-org/gitlab/-/issues/327660> |
+| [Use dynamic analysis to streamline test execution](https://gitlab.com/gitlab-org/gitlab/-/issues/222369) | Complete | Dynamic analysis can reduce the amount of specs that are needed for MR pipelines without causing significant disruption to master stability | [Miss rate of 10%](https://gitlab.com/gitlab-org/gitlab/-/issues/222369#note_480768617) would cause a large impact to master stability. Look to leverage dynamic mapping with local developer tooling. Added [documentation](https://docs.gitlab.com/ee/development/pipelines.html#rspec-minimal-job-experiment) from the experiment. |
+| [Using timezone for Reviewer Roulette suggestions](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/34862) | Complete - Reverted | Using timezone in Reviewer Roulette suggestions will lead to a reduction in the mean time to merge | Reviewer Burden was inconsistently applied and specific reviewers were getting too many reviews compared to others. More details in the [experiment issue](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/563#note_397680373) and [feedback issue](https://gitlab.com/gitlab-org/gitlab/-/issues/227123) |
+
 [GitLab]: https://gitlab.com/gitlab-org/gitlab
 [GitLab Insights]: https://gitlab.com/gitlab-org/gitlab-insights
 [GitLab Triage]: https://gitlab.com/gitlab-org/gitlab-triage
