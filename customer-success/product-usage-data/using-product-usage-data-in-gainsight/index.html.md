@@ -157,7 +157,7 @@ If there is ever an issue where that data is not mapped follow the steps below:
 
 1. Confirm the account has Usage Ping enabled by checking the VersionApp
 1. Check to see if their license key has a Zuora subscription linked in LicenseDot
-1. IF the Zuora subscription is missing, open a support ticket to generate a new license with the correct Zuora subscription ID
+1. IF the Zuora subscription is missing, [open a support issue](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions) to generate a new license with the correct Zuora subscription ID
 
 Example Issue where this issue was discovered: https://gitlab.com/gitlab-data/analytics/-/issues/8518
 
