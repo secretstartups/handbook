@@ -371,6 +371,25 @@ Code Unit:
       * CreateRefundOpp
    * Create Refund Opportunity Button 
 
+   ## SQS [ Sales Qualified Source] Override
+
+   **Business Process this supports:** Sales Cycle & Operations  [Tracking Sales Qualified Source in the Opportunity](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#tracking-sales-qualified-source-in-the-opportunity)
+
+   **Overview:** There are times in which we may need to override Sales Qualified Source. In this event, we have a system that will allow this. This ability is limited to James Harrison and Colleen Farris. To override Sales Qualified Source, enabling user with perform the following steps:
+
+1. Check the Override SQS checkbox
+2. Select the updated value in Sales Qualified Source
+
+Once this is complete, a validation rule will prohibit anyone other than the above mentioned users from editing this field. All automation that updates this field includes criteria that excludes them from firing if the Override SQS checkbox is checked.
+
+**Logic Locations:** 
+
+* Permission Set : [Edit SQS Override](https://gitlab.my.salesforce.com/0PS4M00000113aW)
+* Validation Rule : [Cannot edit overridden SQS](https://gitlab.my.salesforce.com/03d4M000001118T?setupid=OpportunityValidations )
+
+
+
+
 ## Automations
 
 ### Email Alerts
