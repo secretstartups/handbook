@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Go-To-Market Technical Documentation"
+description: "This page is the key GitLab Handbook page for all the technical documentation relating to the main projects and automations that the sales systems has worked on, developed and deployed. It includes a high level business overview as well as technical details revolving around each projects technical lift."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
