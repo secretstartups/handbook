@@ -147,8 +147,8 @@ To align our education and enablement with our product, each of the topics below
     <li><code>Free</code><a href="https://about.gitlab.com/solutions/jira/">JIRA Integration Solution Overview</a></li>
     <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira/">JIRA Issues Integration Feature Docs</a></li>
     <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira/dvcs.html">JIRA Development Panel Integration Feature Docs</a></li>
-    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Multiple approvers in code review Feature Docs</a></li>
-    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Approval rules for code review Feature Docs</a></li>
+    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html">Multiple approvers in code review Feature Docs</a></li>
+    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html">Approval rules for code review Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html">Merge request dependencies Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/code_owners.html">Code Owners Feature Docs</a></li>
     </ul>
