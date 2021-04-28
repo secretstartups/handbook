@@ -104,5 +104,5 @@ Here are the certifications GitLab has soft-launched in FY'21. Each set of certi
 
 ### Recertification
 
-GitLab Technical Certifications do not have an expiration date. Instead, GitLab uses a continuous model for recertification in which a certified individual can take the latest assessments at any time to receive an updated digial badge. The badge provides verification of the latest date certified for an efficient way to showcase staying up-to-date.
+GitLab Technical Certifications do not have an expiration date. Instead, GitLab uses a continuous model for recertification in which a certified individual can take the latest assessments at any time to receive an updated digital badge. The badge provides verification of the latest date certified for an efficient way to showcase staying up-to-date.
 
