@@ -432,7 +432,7 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 
 The process for creating and sending an agreement is as follows:
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
-1. CES sends “Contract Info Request-Global Upside (India and Philippines)” email to the new hire to collect additional details.
+1. CES sends “Contract Info Request-Global Upside” email to the new hire to collect additional details.
 1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
@@ -441,14 +441,14 @@ The process for creating and sending an agreement is as follows:
     - If the contract is fixed, select "Fixed Contract" from the dropdown in "Offer Details" and enter the end date under "End Date".
 1. Once additional details are obtained, update the offer details to reflect all information. The CES should be the signatory.
 1. Generate “PEO New Hire Template” in Offer Documents to Send through DocuSign
-1. Choose template *Offer through DocuSign -Global Upside (India and Philippines)*
+1. Choose template *Offer through DocuSign -Global Upside*
     -To User, Self (CES)
     -Sign and complete
 1. Download the completed Statement of Work in PDF form to upload it into Egnyte.
     -Make sure the downloaded file is titled with new hire’s full name
 1. Once in Egnyte, navigate to *“/Shared/GPS/Active Clients/GitLab/IN/HR/Employee Master/Client Upload/New Employee Information”*
 1. Click *Upload* to place new hire’s statement of work in this folder
-1. Inform the GitLab Implementation alias (gitlab.implementations@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside-India and Philippines* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
+1. Inform the GitLab Implementation alias (gitlab.implementations@globalpeoservices.com) of any new hires by sending email template *Email to Global Upside* under “Email the Team” in Greenhouse to let them know that a new SOW was uploaded into Egnyte and the employee’s name.
 1. The Candidate Experience Specialist should add the candidate to the [PEO Tracking Sheet](https://docs.google.com/spreadsheets/d/1gSOVTJ1Yv-YsSaliJwKVf-1H0vBZXxb5NWFiqCwT-uo/edit#gid=0) and keep track of communication between GitLab.
 1. Once Global Upside has drafted up the contract, they will place it in Egnyte and email the CES to review and approve.
     -CES should double-check that the contract reflects all the correct information that we sent to them.
