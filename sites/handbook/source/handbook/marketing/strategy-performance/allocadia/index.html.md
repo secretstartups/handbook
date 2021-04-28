@@ -168,7 +168,7 @@ The calendar invite is set for the entire day. If you would like the event to be
 
 Here is a [quick video walk through](https://youtu.be/xa8OpqMDrJw) to show you how the calendar invite gets created, if you're more of a visual learner!
 
-**`Metrics' tab** #️⃣ - Lead to Goal
+##### Metrics Tab #️⃣
 
 Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance.
 
@@ -184,7 +184,7 @@ A calculation is then done by then taking into account the MQLs, region, segment
 
 [Video walk through](https://youtu.be/bBLiwdpd5iY) (and yes, you know you need to be logged into Unfiltered to see! ;))   
 
-**Strategy tab**
+##### Strategy Tab
 
 This tab can be used to connect your line item to Marketing level quarterly OKRs or Project Compass. See more details below.
 
