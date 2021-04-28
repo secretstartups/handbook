@@ -43,22 +43,25 @@ The collective set of people, projects, and initiatives focused on advancing the
 
 ### How Data Teams Work Together
 
-The relationship between the Data Team and Function Analysts teams is organized as a "Hub & Spoke" model, with the central Data Team in Business Technology serving as the "Hub" and Center of Excellence for analytics, analytics technology, operations, and infrastructure, while the "Spokes" represent each Division or Departments analysts. Because some GitLab Departments do not yet have dedicated data analysts or may not need permanent data analysts, the Data Team can also provide development capacity, either with existing or contract staff.
+On a normal operational basis, the Data Team and Function Analyst teams work in a "Hub & Spoke" model, with the central Data Team in Business Technology serving as the "Hub" and Center of Excellence for analytics, analytics technology, operations, and infrastructure, while the "Spokes" represent each Division or Departments analysts. Because some GitLab Departments do not yet have dedicated data analysts or may not need permanent data analysts, the Data Team does  provide limited development capacity.
 
 ```mermaid
-graph TD
-    A[FP&A Business Insights] --> C
-    B[Marketing Analytics] --> C
-    D[Sales Analytics] --> C
-    E[Product Analytics] --> C
-    F[Engineering Analytics] --> C
-    G[People Analytics] --> C
-C{Data Team}
+classDiagram
+    Sales <|-- Data
+    Marketing <|-- Data
+    Product <|-- Data
+    Engineering <|-- Data
+    Finance <|-- Data
+    People <|-- Data
+    Data : +Data Analyst
+    Data : +Analytics Engineer
+    Data : +Data Engineer
+    Data : +Data Scientist
 ```
 
 ### Data Fusion Teams
 
-To further support important business workflows and initiatives, the Data Team is organized into three sub-teams, or **Data Fusion Teams**. The three Data Fusion Teams are focused on analytics outcomes in support of their designated business activities and partner with Function Department Leadership and Function Analysts towards development of complete data solutions, including new Data Models, Data Pipelines, Dashboards, and ad-hoc analysis. Data Fusion Teams are staffed with a complete set of skills required to develop a full data solution. The Data Fusion Teams meet on a weekly basis, review and align on priorities, define joint quarterly objectives, and collaborately work towards delivering successful data solutions.
+To support stable business workflows and longer-term initiatives, the Data Team is organized into three sub-teams, or **Data Fusion Teams**. The three Data Fusion Teams are focused on analytics outcomes in support of their designated business activities and partner with Function Department Leadership and Function Analysts towards development of complete data solutions, including new Data Models, Data Pipelines, Dashboards, and ad-hoc analysis. Data Fusion Teams are staffed with the appropriate mix of business and technical skills required to develop a full data solution. The Data Fusion Teams meet on a weekly basis, review and align on priorities, define joint quarterly objectives, and collaborately work towards delivering successful data solutions.
 
 - The **Go-To-Market** Data Fusion Team focuses on the activities required to bring GitLab's products and services to the marketplace and measuring the business performance of these activities. The team meeets on a weekly basis and covers topics defined in the [GTM Weekly Agenda](https://docs.google.com/document/d/1m-SygSyUqEcfd276_Jb1ZARMXIb4Z8clDF0eoxmudyw/edit#), while the teams priorities are defined in the [GTM Data Priorities](https://docs.google.com/spreadsheets/d/1EyjWw3-0iFt0oil95U15X8rFGj1aKrSYVYV1GMzWfq4/edit#gid=1029287785) sheet. Staff allocation is defined in [Team Organization](/handbook/business-technology/data-team/organization/#-team-organization).
 
@@ -66,16 +69,11 @@ To further support important business workflows and initiatives, the Data Team i
 
 - The **General & Administrative ** Data Fusion Team focuseson organization performance primarily around the contributions of GitLab teams and People metrics. The G&A Fusion Team is currently under construction and we expect to launch the team later in FY22. The "team" currently meets on a weekly basis as part of the [Engineering & Data Team Weekly Sync](https://docs.google.com/document/d/1ekImsdsldcYNnNhWkI0pTZldjgRoJDaq6odo2BgKhQM/edit?usp=sharing). Staff allocation is defined in [Team Organization](/handbook/business-technology/data-team/organization/#-team-organization).
 
-| **General & Administrative** |
-| Mission |  |   | Focus  |
-| Agenda |  | 
-| [R&D Data Priorities](), [R&D Weekly Agenda]() |  `Not Available`, `Not Available` |
+### Data Job Families
 
-| Fusion Team | Mission | Priorities | Agenda |
-| ----- | ----- | :----- | :----- | 
-| **Go-To-Market** | Focus on the activities reqiured to bring GitLab's products and services to the marketplace and measuring the business performance of these activities. | [GTM Data Priorities](https://docs.google.com/spreadsheets/d/1EyjWw3-0iFt0oil95U15X8rFGj1aKrSYVYV1GMzWfq4/edit#gid=1029287785) | [GTM Weekly Agenda](https://docs.google.com/document/d/1m-SygSyUqEcfd276_Jb1ZARMXIb4Z8clDF0eoxmudyw/edit#) | 
-| **Research & Development** | Focus on understandung how GitLab's products are used by customers and individual users, towards the goal of developing complete customer intelligence and product intelligence capabilities. | [R&D Data Priorities](https://docs.google.com/spreadsheets/d/1hCAY4tW0vbsYadHQzoGQ59aZmcMz2daumvuH3JwgarA/edit#gid=2036283287) | [R&D Weekly Agenda](https://docs.google.com/document/d/1CRIGdNATvRAuBsYnhpEfOJ6C64B7j8hPAI0g5C8EdlU/edit#) |
-| **General & Administrative** | Focus on organization performance primarily around the contributions of GitLab teams and People metrics. The G&A Fusion Team is currently under construction and we expect to launch the team in FY22-Q3. | `Not Available` |  `Not Available` |
+
+
+
 
 ## <i class="fas fa-bullhorn fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Connect With Us
 
