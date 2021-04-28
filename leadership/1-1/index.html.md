@@ -54,6 +54,14 @@ We recorded a training about 1-1s which you can find here:
   - Have you identified any career development opportunities that I can help you with? For example: [Internship for Learning](/handbook/people-group/promotions-transfers/#internship-for-learning)
   - Other great questions to consider can be found in the [Culture Amp Blog: 24 great one-on-one meeting questions](https://www.cultureamp.com/blog/great-one-on-one-meeting-questions/) or in 15Five's [The Great eBook of Employee Questions](https://www.15five.com/ebook/employee-questions/).
 
+## Learning From the CEO on Conducting a 1-1
+
+The Learning & Development team and the CEO, discuss conducting a 1-to-1 in more detail during a handbook learning session. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/TAcfRjqGzOs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Career Development Discussion at the 1-1
 
 We recorded a training about career mapping which you can find here:
