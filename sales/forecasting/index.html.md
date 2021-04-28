@@ -135,48 +135,49 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
 If you are a Sales Leader, will have additional access to the **Forecasting Tab** in Clari. You will see the following tabs:
 
 * **ARR**
-  * On this tab, you will enter your forecast for the following:
-      * Net ARR - Commit, 50/50 & Best Case
-      * Gross ARR - Commit & Best Case
-      * Renewal Loss - Commit & Best Case
-  * Gross ARR will be your bookings, a positive value; Renewal Loss will be for lost ARR Basis, represented by a negative value.
-      * The Won column is calculated dynamically. For Managers and certain sales teams it will be the Net ARR amount while for individual reps on Gross plans, it will be the Gross ARR amount, which excludes Renewals with Negative ARR.
-  * The result will be your Net ARR, which will be your official value submitted.
-  * Also note that you will see the following columns on this tab:
-      - **Plan**: Net ARR Quota
-      - **Net Won**: Total of Won deals in Net ARR (includes lost renewals)
+   - On this tab, you will enter your forecast for the following:
+      - Net ARR - Commit, 50/50 & Best Case
+      - Gross ARR - Commit & Best Case
+      - Renewal Loss - Commit & Best Case
+   - Gross ARR will be your bookings, a positive value; Renewal Loss will be for lost ARR Basis, represented by a negative value.
+      - The Net Won column is calculated dynamically. For Managers and certain sales teams it will be the Net ARR amount while for individual reps on Gross plans, it will be the Gross ARR amount, which excludes Renewals with Negative ARR.
+   - The result will be your Net ARR, which will be your official value submitted.
+   - Also note that you will see the following columns on this tab:
+      - Plan: Net ARR Quota
+      - Net Won: Total of Won deals in Net ARR (includes lost renewals)
 
 * **Renewal ARR**
-  * This will be a read only tab. You will see your rep’s Closed Won ARR Basis, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
+   - This will be a read only tab. You will see your rep’s Closed Won ARR Basis, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
 
 * **TCV**
-  * This will be a read only tab. You will see your rep’s Closed Won TCV, Commit, Best Case, and Pipeline.
+   - This will be a read only tab. You will see your rep’s Closed Won TCV, Commit, Best Case, and Pipeline.
 
 * **Pipeline Gen**
-  * This will be a read only tab. You will see your rep’s total open pipeline, pipeline in stage 3+ and coverage rates for both Next Quarter and Next Quarter+1. The pipeline coverage is calculated by looking at total pipeline in a given quarter divided by quota for that same quarter.
+   - This will be a read only tab. You will see your rep’s total open pipeline, pipeline in stage 3+ and coverage rates for both Next Quarter and Next Quarter+1. The pipeline coverage is calculated by looking at total pipeline in a given quarter divided by quota for that same quarter.
 
 * **Net ARR Attainment**
-  * For Sales Reps who are on a Net ARR plan, this tab reflects a consolidated view of the following details by rep:
+   - For Sales Reps who are on a Net ARR plan, this tab reflects a consolidated view of the following details by rep:
       - **Plan**: Net ARR Quota
       - **Closed**: Net Won
       - **Gap to Go**: Plan minus Closed
       - **Open Pipeline**: Current quarter open pipeline (all stages)
+   - The Net ARR Attainment tab will only show for individuals and/or Sales Leaders who are on a Net ARR plan (or have team members on a Net ARR plan). 
 
 * **Gross ARR Attainment**
-  * For Sales Reps who are on a Gross ARR plan, this tab reflects a consolidated view of the following details by rep:
+   - For Sales Reps who are on a Gross ARR plan, this tab reflects a consolidated view of the following details by rep:
       - **Plan**: Gross ARR Quota
       - **Closed**: Gross Won
       - **Gap to Go**: Plan minus Closed
       - **Open Pipeline**: Current quarter open pipeline (all stages)
-
+   - The Gross ARR Attainment tab will only show for individuals and/or Sales Leaders who are on a Gross ARR plan (or have team members on a Gross ARR plan).
 
 #### Reviewing Forecasts
 
 On the right of each tab, you will see a Toggle Details button.
 You can click on this to expand the list of opportunities in the selected forecast category. You will have three options:
-* Total:  shows the combined deals for Closed + Open in that category (Closed, Commit, Best Case, or Pipeline)
-* Closed: shows deals Closed Deals
-* Open: shows open deals in that category
+* **Total:**  shows the combined deals for Closed + Open in that category (Closed, Commit, Best Case, or Pipeline)
+* **Closed:** shows deals Closed Deals
+* **Open:** shows open deals in that category
 
 Click on the radio button for the type of opportunities you want to see (normally for forecasting calls with AEs, you will select “Open”). Then click “View Deals” to go to a full list of opportunities.
 
