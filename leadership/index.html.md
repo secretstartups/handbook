@@ -84,7 +84,7 @@ This is a more [efficient](/handbook/values/#efficiency), [transparent](/handboo
 
 ## Giving Feedback
 
-Giving regular [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) is extremely important for both managers and team members. Feedback can take the form of coaching sessions, separate from [1-on-1 meetings](/handbook/leadership/1-1). Giving feedback is also about being prepared and, depending on the situation, you should create separate agendas and structure them as follows:
+Giving regular [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) is extremely important for both managers and team members. Feedback can take the form of coaching sessions, separate from [1-to-1 meetings](/handbook/leadership/1-1). Giving feedback is also about being prepared and, depending on the situation, you should create separate agendas and structure them as follows:
 
 - Provide [context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication)
 - Use a framework for your feedback. Examples: 1) Two Areas: [Praise](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) (What's working well) and Tips (What could be done differently) or 2), Three Areas: Start, Stop, Continue
@@ -118,7 +118,7 @@ evaluate the feedback and decide how to proceed.
 Feedback](https://hbr.org/2018/05/the-right-way-to-respond-to-negative-feedback)
 - If a team member from your department or another part of the org comes to you and says they do not feel like they or their reports' contributions are valued by your reports, the manager should try to resolve this. Research shows that this is more likely to happen to underrepresented minorities. Please note that [DRIs are free to ignore feedback](/handbook/people-group/directly-responsible-individuals/) without acknowledging it and that [valuing contributions isn't the same as agreeing with them](/handbook/values/#collaboration-is-not-consensus). This is about co-opting someone else's idea without attribution and/or dismissing an idea with an ad-hominem remark.
 
-## 1-on-1
+## 1-to-1
 
 Please see [/handbook/leadership/1-1](/handbook/leadership/1-1).
 

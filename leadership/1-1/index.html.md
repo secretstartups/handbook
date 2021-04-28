@@ -9,7 +9,7 @@ title: "1-1"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Maintaining an effective and efficient agenda is important to get the best out of the 1-1 meetings you have with your team members. Furthermore this page will take you through other tips and tricks to conduct an effective 1-1 meeting.
+Maintaining an effective and efficient agenda is important to get the best out of the 1-1 (read as: one *to* one) meetings you have with your team members. Furthermore this page will take you through other tips and tricks to conduct an effective 1-1 meeting.
 
 ## The 1-1 Agenda
 1. Make sure you use a consistent agenda format from week to week
