@@ -442,6 +442,25 @@ Bugs have a severity label that indicates the [SLO for a fix](https://about.gitl
 *  Example: <TBD>
 *  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/comment-slo-breaching-bugs.yml>
 
+### Prompt for severity label, priority label, and milestone in ~infradev issues
+
+Issues with the ~infradev label should have a [severity label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity), a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority), and a milestone set. This automated policy aims to prompt managers about such issues missing one of these attributes.
+
+* Automation Condition:
+  - Open issue labelled `~infradev` and has no severity label, or no priority label, or no milestone set
+  - Issue doesn't have the `~"automation:infradev-missing-labels"` set
+* Automation Action:
+  * The label `~"automation:infradev-missing-labels"` is applied
+  * A message is posted to ask for a severity label, a priority label, and a milestone to be set on the issue
+*  Example: <TBD>
+*  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/ask-severity-priority-for-infradev-issues.yml>
+
+Note:
+
+1. The `~"automation:infradev-missing-labels"` is automatically removed when a severity label, a priority label, and a milestone are set on the issue.
+1. The `~"automation:infradev-missing-labels"` is automatically removed after two weeks, leading to a new message being posted if the Automation Conditions above are still met.
+   This effectively ensures that a reminder is posted on the issue every two weeks.
+
 ## Reactive triage automation
 
 Reactive triage automation is complementary to general triage automation where
