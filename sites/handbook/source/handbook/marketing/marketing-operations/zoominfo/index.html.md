@@ -91,4 +91,12 @@ All of Salesforce current accounts in the database have been enriched with Zoomi
 All leads owned by the `SDR Queue` are scheduled to be enriched by Zoominfo weekly on Saturdays. Leads updated by ZoomInfo during this Scheduled Enrich job are reprocessed by LeanData and if possible, assigned to the appropriate SDR. 
 
 ### Outreach Integration
-Coming soon.
+The ZoomInfo Outreach integration is now live and you may export contacts directly to Outreach. Any contacts you do export, will also be exported in SFDC. They will be initially missing some ZI information in SFDC but there will be an append job that will run automatically to update any missing information.
+
+ There are some limitations in place:
+
+- There is a 100 contact export limit in place.
+- We do not allow for new accounts/account updates from ZoomInfo into Outreach. 
+- Please do not upload any contact without an email address into Outreach- if you do, the prospect will not sync into SFDC and any activities you do on the prospect will not be recorded in SFDC. 
+
+Any prospects created without email address will be found and deleted in the Outreach database management we will run monthly. To avoid uploading contacts with no email addresses, please use the ZoomInfo filtering available.
