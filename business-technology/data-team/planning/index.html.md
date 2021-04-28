@@ -55,7 +55,22 @@ The outcome of the work breakdown is a detailed description of the work to be pe
 
 The work breakdown is team effort and everyone is encouraged to contribute.
 
+### T-Shirt Sizing Approach
+
+We use a T-Shirt sizing approach for quickly sizing the work required to deliver new issues, epics, and longer-term initiatives. The T-Shirt sizing approach is designed to support work breakdowns towards the creation of detailed work plans, but also intended to provide a sufficient level of detail to manage overall scope.
+
+| Size | Dedicated Person Time | Examples | 
+| :--: | :--: | :-- |
+| XS | < 1/2 Day | Update existing handbook page. #data research/response. New Trusted Data Test.
+| S | < 1 Day | New handbook page; typical triage issue; New dashboard on top of existing models. 
+| M | 1 Week | New dashboard requiring new models. New data source with Stitch or Fivetran.
+| L | 2-3 Weeks | New fact table implementation & testing. Full XMAU solution.
+| XL | 1-2 Months | New Data Pump to new system. New Data Source with complex source API.
+| XXL | 2-4 Months | New Dimensional Model subject area with New Data Sources.
+
+
 ## Milestone Planning
+
 Milestone planning takes place on Thursday and Friday ahead of every milestone. 
 
 The data team works in two-week intervals, called milestones. 1 milestones per quarter will take three weeks long, because a quarter contains 13 weeks. The milestone that takes 3 weeks is the milestone that covers a major holiday or if the majority of the team is on vacation or at Contribute.
