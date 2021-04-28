@@ -42,6 +42,8 @@ Similar to prior year, if we do not use the full envelope provided to Marketing 
 
 This section houses the main grid. This section is more for the Allocadia admin, although all budget holders will make use of it for mapping expenses to their line items as the Netsuite uploads are done monthly.
 
+Also in this section, you can see where teams are from a forecast to plan standpoint by clicking into the `view-roll up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) in GitLab Unfiltered. 
+
 ## Activities
 
 The activity planning section is where you add the tactics of your quarterly/annual plan and where can you see quick high level metrics to help you understand your `Investment Target` and your `Plan` vs. `Forecast`. Depending on what view you are in will depend on if you see this data based on the quarter or based on the FY.
@@ -208,6 +210,7 @@ The reports are broken out in folder format and once you click into the folders,
     - [Video walk through](https://youtu.be/bauTMmEnaXc) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
 1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. 
     - [Video walk through](https://youtu.be/XfgckiT9_1s) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
+1. Monthly forecasting report - at the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
 
 ##### Reporting folders breakdown
 
