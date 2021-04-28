@@ -238,7 +238,7 @@ The duration of each experiment will vary depending on how long it takes for exp
 
 #### Overview
 
-1. Create a [Growth experiment] issue to define the scope of the experiment (labels: `~"growth experiment"`, `~"experiment idea"`)
+1. Create an [Experiment idea] issue to define the scope of the experiment (label added: `~"experiment idea"`, optionally add: `~"growth experiment"`)
   - Anybody who has an idea of something to try as an experiment can create this issue
   - They provide information about which portion of the product they'd like to experiment with, their experimentation idea (i.e. their hypothesis), and what a successful outcome might look like
   - At this extremely early stage, the most critical thing is that we get the idea jotted down with enough context and detail that it is understood by others on the team and can be carried forward by the Project Manager
@@ -285,7 +285,7 @@ To track the status of an Experiment, Experiment tracking issues using the `~"ex
 
 ##### Experiment Definition Issue
 
-This issue acts as the starting point for defining an experiment, including an overview of the experiment, the hypothesis, and some idea of how success will be measured. This issue will be tagged with the `~"growth experiment"` and `~"experiment idea"` labels. The [Growth Experiment] issue template can be used for this.
+This issue acts as the starting point for defining an experiment, including an overview of the experiment, the hypothesis, and some idea of how success will be measured. The [Experiment idea] issue template can be used for this (label added: `~"experiment idea"`, optionally add: `~"growth experiment"`).
 
 ##### Experiment Definition Standards
 
@@ -318,18 +318,19 @@ The `experiment::` scoped labels are:
 
 This issue is used to clean up an experiment after an experiment has been completed. It is created within the project where the cleanup work will be done (e.g. the `gitlab-org/gitlab` project). The cleanup work may include completely removing the experiment (in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`). The cleanup issue should be linked to the experiment tracking issue as a reference to ensure the experiment is concluded prior to cleanup.
 
-The [Experiment Successful Cleanup] issue template can be used for the `gitlab-org/gitlab` project.
+The [Experiment Successful Cleanup](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Successful%20Cleanup) issue template can be used for the `gitlab-org/gitlab` project.
 
 #### Experiment issue templates
 
-- Growth team-tasks
-  - [Growth team planning] issue template
-  - [Growth Experiment] issue template for Growth teams
-  - [Growth team-tasks experiment Tracking] issue template for Growth teams - use the GitLab project template where appropriate
-- GitLab project
-  - [Experiment Tracking]
-  - [Experiment Successful Cleanup] issue template for `gitlab-org/gitlab`
-  - [Experimentation] issue template for Engineering
+- GitLab `gitlab-org/gitlab` project
+  - [Experiment idea](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Idea) issue template
+  - [Experimentation](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experimentation) issue template for Engineering
+  - [Experiment tracking](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=experiment_tracking_template)
+  - [Experiment successful cleanup](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Successful%20Cleanup) issue template for converting a successful experiment into a feature
+- Growth `team-tasks` project
+  - [Milestone planning](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=growth_team_planning_template) issue template for Growth groups
+  - [Experiment idea](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=Growth%20experiment) issue template for Growth groups
+  - [Experiment tracking](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=experiment_tracking_template) issue template for Growth groups
 
 ## Experiment cadence
 
@@ -373,14 +374,7 @@ On occasion we put together a virtual team day to help take a break and particip
 * [Growth meetings and agendas] (GitLab internal)
 * [GitLab values]
 
-
-[Growth Experiment]: https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=Growth%20experiment
-[Growth team-tasks experiment Tracking]: https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=experiment_tracking_template\
-[Growth team planning]: https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=growth_team_planning_template
-
-[Experiment Tracking]: https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=experiment_tracking_template
-[Experiment Successful Cleanup]: https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Successful%20Cleanup
-[Experimentation]: https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experimentation
+[Experiment idea]: https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Idea
 
 [GitLab values]: /handbook/values/
 [Growth sub-department]: /handbook/engineering/development/growth/
