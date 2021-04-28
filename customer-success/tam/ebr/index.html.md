@@ -32,9 +32,10 @@ Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjX
 
 #### Sample EBR Email
 
-Acme Team, 
+>>>
+Acme team, 
 
-As our partnership continues to grow, I would like to schedule a one hour Executive Business Review between Acme stakeholders and the GitLab team. 
+As our partnership continues to grow, I would like to schedule an Executive Business Review between Acme stakeholders and the GitLab team. 
 
 This is an opportunity to showcase the growth of GitLab within Acme and the value it has provided your users over the last year. We will also spend time aligning on goals and how we can partner together for success over the next year.  
 
@@ -46,6 +47,10 @@ Proposed agenda:
 1. Product Overview - (area of your choosing)
 1. Next Steps
 
+When would be a good date and time for you and your stakeholders for this meeting? We'd prefer to have an hour and a half if possible, but we understand your schedules are busy, so we're open to any open availability you have.
+
+Please let me know if you have any questions!
+>>>
 
 ### EBRs in Gainsight
 
