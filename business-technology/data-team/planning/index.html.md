@@ -59,14 +59,14 @@ The work breakdown is team effort and everyone is encouraged to contribute.
 
 We use a T-Shirt sizing approach for quickly sizing the work required to deliver new issues, epics, and longer-term initiatives. The T-Shirt sizing approach is designed to support work breakdowns towards the creation of detailed work plans, but also intended to provide a sufficient level of detail to manage overall scope.
 
-| Size | Dedicated Person Time | Examples | 
+| Size | Dedicated Person Time | Weight (issue points) | Examples | 
 | :--: | :--: | :-- |
-| XS | < 1/2 Day | Update existing handbook page. #data research/response. New Trusted Data Test.
-| S | < 1 Day | New handbook page; typical triage issue; New dashboard on top of existing models. 
-| M | 1 Week | New dashboard requiring new models. New data source with Stitch or Fivetran.
-| L | 2-3 Weeks | New fact table implementation & testing. Full XMAU solution.
-| XL | 1-2 Months | New Data Pump to new system. New Data Source with complex source API.
-| XXL | 2-4 Months | New Dimensional Model subject area with New Data Sources.
+| XS | < 1/2 Day | 1 | Update existing handbook page. #data research/response. New Trusted Data Test.
+| S | < 1 Day | 2-3 | New handbook page; typical triage issue; New dashboard on top of existing models. 
+| M | 1 Week | 5-8 | New dashboard requiring new models. New data source with Stitch or Fivetran.
+| L | 2-3 Weeks | 13 | New fact table implementation & testing. Full XMAU solution.
+| XL | 1-2 Months | 26 | New Data Pump to new system. New Data Source with complex source API.
+| XXL | 2-4 Months | 52+ | New Dimensional Model subject area with New Data Sources.
 
 
 ## Milestone Planning
