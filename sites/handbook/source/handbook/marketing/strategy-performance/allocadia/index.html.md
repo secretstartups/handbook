@@ -96,7 +96,7 @@ For common vendors, its important to note that you must use the same upper and l
 As we move to Coupa, that integration will allow us to use their list of standardized vendor names for ones that already exist in the system which should make this easier.
 
 We have just moved the Vendor to the Details panel - for now it shows up in both and can be updated in either place - but we are considering taking it off the main grid if there are no objections.
-- Comments - this can be used for any notes about the spend, but it is not reportable nor sortable.
+- Comments - this can be used for any notes about the spend, but it is not reportable, sortable, nor does the budget holder (or anyone for that matter) receive a notification that a comment had been made.
 - Months - this is where you enter the dollar amounts by month. You can use the cut and paste feature and tab between months for ease of entry. You can also enter formulas, such as 12000/12 if you have an annual $12K cost that you want calculating the $1K per month. Depending on the `View`, there are columns for your bottoms up `Plan` and your ongoing 'Forecast'. And then monthly as we load in `Actuals` from Netsuite, those amounts will show in those columns.
 
 ##### Details panel
