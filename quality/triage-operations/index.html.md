@@ -442,7 +442,7 @@ Bugs have a severity label that indicates the [SLO for a fix](https://about.gitl
 *  Example: <TBD>
 *  Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/comment-slo-breaching-bugs.yml>
 
-### Prompt for severity label, priority label, and milestone in ~infradev issues
+### Reminder on ~infradev issues to set severity label, priority label, and milestone
 
 Issues with the ~infradev label should have a [severity label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity), a [priority label](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#priority), and a milestone set. This automated policy aims to prompt managers about such issues missing one of these attributes.
 
