@@ -224,6 +224,7 @@ This content is divided into five key competencies for Product Managers.
 - [Steve Krug: Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
 - [Sketching User Experiences: The Workbook](https://www.amazon.com/Sketching-User-Experiences-Saul-Greenberg/dp/0123819598)
 - [The User Experience Team of One: A Research and Design Survival Guide](https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
+- [Jeff Gothelf: Lean UX](https://www.amazon.com/Lean-UX-Designing-Great-Products-ebook/dp/B01LYGQ6CH/)
 
 
 <br>
