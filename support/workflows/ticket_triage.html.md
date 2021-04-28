@@ -41,6 +41,8 @@ Most of the forms are self-explanatory, but here are some extra considerations:
 - Accounts Receivable: refunds, VAT and invoices.
 - L&R (License and Renewals): any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/workflows/#license-and-subscription).
 - Community: any ticket not entitled to support. Typically, Self-managed CE user, or SaaS free user request [not listed as supported](/support/statement-of-support.html#support-for-free-plan-users). New tickets will activate the [`Ticket::Autoresponder::Community tickets`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073064519) trigger.
+- Professional Services: For tickets that should go to the Professional Services team, such as requests about [the GitLab Learn platform](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/)(`gitlab.edcast.com`). Use the [`General::Forms::Change to Professional Services`](https://gitlab.com/search?utf8=%E2%9C%93&search=360063214199&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar) macro to apply the right form.
+
 
 ## After applying the correct form
 
