@@ -25,7 +25,7 @@ title: "Self-Service Data"
 
 The GitLab Self-Service Data program helps GitLab move faster with trusted data and helps the Data Team scale by providing four distinct, but complimentary capabilities:
 
-- **[Data Catalog](/handbook/business-technology/data-team/direction/self-service/#data-catalog)** - modeled after the [KPI Index](/handbook/company/kpis/), the Data Catalog helps Data Customers find _relevant_ data definitions, dashboards, and models
+- **[Data Catalog](/handbook/business-technology/data-team/direction/self-service/#data-catalog)** - modeled after the [KPI Index](/handbook/company/kpi-index/), the Data Catalog helps Data Customers find _relevant_ data definitions, dashboards, and models
 - **[Dashboard Viewer](/handbook/business-technology/data-team/direction/self-service/#self-service-dashboard-viewer)** - all GitLab team members have _access_ to pre-build Dashboards through an always-on portal accessible from Okta
 - **[Dashboard Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-dashboard-developer)** - for GitLab team members who want to build their own data visualization charts or dashboards
 - **[SQL Developer](/handbook/business-technology/data-team/direction/self-service/#self-service-sql-developer)** - for GitLab team members who are familiar with SQL and want to conduct their own SQL-based analysis
