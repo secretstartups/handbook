@@ -34,6 +34,10 @@ notification from GitLab and a To-Do item.
 
 The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) identifies the current **SSAT Reviewing Manager**, with a link to the rotation in [PagerDuty](https://gitlab.pagerduty.com/schedules#P9UIIDY).
 
+**Please note:** Starting 2021-04-26 we are trialling an additional feedback form that allows our customers to provide comments not only at close, but throughout the life of the ticket. The feedback will create issues in the customer feedback project with a subject format of **Postive/Negative feedback for ticket nnnnnn** and will still get automatically assigned to the SSAT reviewing manager. If the feedback is negative there is also an option to request manager contact. While the trial is active any item that requires manager contact will be handled by one of the EMEA support managers within 48hrs (Mon-Fri). They will also change the assignee to themselves and follow the [If there is action to be taken](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-there-is-action-to-be-taken) and [If the customer should be contacted](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-the-customer-should-be-contacted) guidance. An issue requiring contact can be identified by an SSAT Contact label and a field within the issue that specifies manager contact was requested. If there is no indication that contact was requested the **SSAT reviewing manager** can handle the feedback in the same way as described below.
+
+This above note will be removed when the trial concludes (date not yet determined).
+
 ### What does success look like?
 
 At the end of your rotation:
