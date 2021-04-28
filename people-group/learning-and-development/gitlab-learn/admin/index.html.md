@@ -638,28 +638,7 @@ EdGraph comes with 6 dashboards, pre-populated with 5-10 reports each. These rep
 
 Each dashboard and the corresponding reports in that dashboard can be found on the [EdGraph documentation page](https://docs.edcast.com/docs/edgraph)
 
-### L&D Team Dashboards
-
-1. [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) - this dashboard displays custom reports that share information for only GitLab team members on the GitLab Learn platform
-1. [DIB Certification Completion Reports](https://edcast-536.domo.com/page/2098296181) - this dashboard shows team member completion of the DIB certification broken down by department level
-
-### How to get EdGraph Access
-
-Follow the steps outlined in the handbook to open an [individual access request for the `EdGraph` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). First obtain manager approval on this AR, then assign the AR to `@slee24`.
-
-Once processed, you'll be able to be added as a collaborator on reports in EdGraph. Please work with the L&D team to be sure the essential reports are shared to your account.
-
-### Building Custom Reports
-
-#### Using key dashboards to build customs reports
-
-{add video training here}
-
-##### Using data sets to build custom reports
-
-{add video training here}
-
-### Building Custom Dashboards
+### GitLab Custom Dashboards
 
 EdGraph has the option of building custom dashboards to organize data and reports in a central location. These dashboards are great for teams to organize commonly accessed reports and share results with leadership.
 
@@ -672,6 +651,26 @@ Below is a list of current custom dashboards used by the LXP team:
 1. [Executive Insights](https://edcast-536.domo.com/page/622335069)
 
 Please note that in order to view the above dashboards, you must have both access to EdGraph and be added to each dashboard. Please work with the L&D team to process an access request if you'd like to view reports in EdGraph.
+
+### How to get EdGraph Access
+
+Follow the steps outlined in the handbook to open an [individual access request for the `EdGraph` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). First obtain manager approval on this AR, then assign the AR to `@slee24`.
+
+Once processed, you'll be able to be added as a collaborator on reports in EdGraph. Please work with the L&D team to be sure the essential reports are shared to your account.
+
+### Building Custom Reports
+
+#### Using key dashboards to build customs reports
+
+Existing reports on EdGraph key dashboards can be filtered and saved to create and share custom, specialized reports. Recorded examples of this functionality are included below.
+
+{add video training here}
+
+##### Using data sets to build custom reports
+
+This process is currently being build by the L&D, Field Enablement and PeopleOps team at GitLab. Additional information can be found in previous office hours recordings in this [Google Drive folder]([Google Drive](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6)) 
+
+### Building Custom Dashboards
 
 #### Create a new dashboard
 
