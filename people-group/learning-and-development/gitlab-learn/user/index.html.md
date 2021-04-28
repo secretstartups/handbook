@@ -14,7 +14,7 @@ title: GitLab Learn User Documentation
 
 The following resources can be used by learners in the [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) platform to help navigate the login process, explore new content, and more.
 
-If you need support accessing GitLab Learn, have questions about content, need to edit or remove your account, or have feedback to provide, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
+**If you need support accessing GitLab Learn, have questions about content, need to edit or remove your account, or have feedback to provide, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).**
 
 #### A note about naming
 
