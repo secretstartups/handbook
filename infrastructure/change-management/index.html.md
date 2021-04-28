@@ -305,17 +305,17 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
 | 01 January 2021             | Hard       | Holiday: New Year's Day       |
-| 15 January 2021              | Soft       | Friends & Family Day       |
+| 15 January 2021              | Soft       | Pandemic Support Day       |
 | 26 January 2021              | Soft       | EoA announcement       |
 | 28-29 January 2021           | Soft       | Addressing platform action items |
-| 26 February 2021              | Soft       | Friends & Family Day       |
+| 26 February 2021              | Soft       | Pandemic Support Day       |
 | 09 March 2021              | Hard       | Corrective actions for [incident 3875](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3875#summary)      |
 | 15 March 2021              | Hard       | [incident 3962](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3962)       |
-| 19 March 2021              | Soft       | Friends & Family Day       |
-| 16 April 2021              | Soft       | Friends & Family Day       |
-| 28 May 2021              | Soft       | Friends & Family Day       |
+| 19 March 2021              | Soft       | Pandemic Support Day       |
+| 16 April 2021              | Soft       | Pandemic Support Day       |
+| 28 May 2021              | Soft       | Pandemic Support Day       |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
-| Recurring: [Scheduled Friends & Family Days](https://about.gitlab.com/company/family-friends-day/#upcoming-family-and-friends-days)         | Soft       | Friends & Family Days                   |
+| Recurring: [Scheduled Pandemic Support Days](https://about.gitlab.com/company/pandemic-support-day/#upcoming-pandemic-support-days)         | Soft       | Pandemic Support Days                   |
 
 There are 2 types of PCLs: soft and hard.
 
