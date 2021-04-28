@@ -234,10 +234,10 @@ Additional links which may be useful when preparing to moderate a call include:
 
 ## Schedule & DRI
 
-There is a rotating schedule with each Department having a conversation on a regular interval. 
+There is a [rotating schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) with each Department having a conversation on a regular interval. 
 We usually do not have Group Conversations or Company calls during the last two weeks of December. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
-On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](/handbook/key-review/#invitees) will have monthly Group Conversations within 10 days following their Key Review. They are expected to largely leverage their Key Review material. Other groups will have one meeting in the eight week cycle. Please note: the freqency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Strategic Marketing GC happens every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the schedule below. The schedule, with directly responsible individuals (DRI), is as follows starting 2021-04-19:
+On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [functions with Key Reviews](/handbook/key-review/#invitees) will have monthly Group Conversations within 10 days following their Key Review. They are expected to largely leverage their Key Review material. Other groups will have one meeting in the eight week cycle. Please note: the freqency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Strategic Marketing GC happens every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews can only be swapped with other Groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing). 
 
 | Group Conversation | DRI | Key Review? | GC Frequency |
 |---|---|---|---|
