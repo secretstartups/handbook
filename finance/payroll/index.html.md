@@ -36,9 +36,9 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 ## Pay Date
 
 1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule and payslips are available on [ADP portal](https://workforcenow.adp.com). To access pay statements, go to Myself -> Pay Statements.
-1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their payslip in their personal portal on
+1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month unless it falls on a holiday then it will be the business day before, and can see their payslip in their personal portal on
 [HR Savvy's system](https://hr-savvy.nmbrs.nl/) towards the end of the month.
-1. Employees of GitLab BV (Belgium) will get their salary wired the last day of each month and will receive their payslip in their personal portal on [myworkandme] (https://www.myworkandme.com/portal/)
+1. Employees of GitLab BV (Belgium) will get their salary wired on the 28th of each month unless it falls on a holiday then it will be the business day before and will receive their payslip in their personal portal on [myworkandme] (https://www.myworkandme.com/portal/)
 1. Employees of GitLab Ltd will get their salary wired on the 28th of each month unless it falls on a holiday then it will be the business day before. Payslips are accessed via a personal portal on [Vistra's system](https://www.webcare2.com/vistra) towards the end of the month using the login details which is a 9-digit user ID. New hires will recive both a welcome note and password via @webcare2.com while the user id will come from an email sent direct from a Vistra team member usually about two days before paydate. Please contact `nonuspayroll@gitlab.com` if you are having difficuly retrieving or need to have your password reset.
 1. Employees of GitLab GmbH will get their salary wired on the 28th of every month unless it falls on a holiday then it will be the business day before, and Employees can see their payslip via their personal account on [DATEV Arbeitnehmeronline](https://secure10.datev.de/an-online).
 1. Employees of GitLab Canada Corp will get pay bi-weekly and they can access their payslip via their personal portal on [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
@@ -264,6 +264,8 @@ If you have not received an invitation to create an account, visit the [register
 - Ukraine
 - Greece
 - Czech Republic
+- Slovenia
+- Serbia
 
 Team members from the above countries will get paid through CXC Global. Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc.) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format. Team members should ensure their expenses are approved on Expensify by the 8th of each month so they can include them on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual workdays from the hire date` Team members can email nonuspayroll@gitlab.com if they have any queries for invoicing
 
