@@ -262,6 +262,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 </summary>
 
 - [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
+- [Backblaze](/handbook/marketing/marketing-operations/backblaze)
 - Disqus
 - Eventbrite
 - Figma
@@ -277,8 +278,8 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - MailChimp
 - [OneTrust](/handbook/marketing/marketing-operations/onetrust)
 - [Rev](/handbook/marketing/marketing-operations/rev)
-- Screaming Frog
 - SEMrush
+- Sitebulb
 - [Smartling](/handbook/marketing/marketing-operations/smartling)
 - Sprout Social
 - Swiftype
