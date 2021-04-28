@@ -33,7 +33,7 @@ The Regional Director/Vice President of each team will establish weekly due date
 
 (Note that the above requires Renewal Loss to be forecasted)
 
-Please watch the following videos on how to submit your [IACV forecast](https://drive.google.com/open?id=1b42doQGZ1H-3Yi_8boGF5wmk-7Fb7SL-) and your [Renewal ACV forecast](https://drive.google.com/open?id=1X8LRZVmC4Q4FQ__GiCGsG1Xq6SwZagqc).
+Please watch the following videos on how to submit your [ARR forecast](https://drive.google.com/open?id=1b42doQGZ1H-3Yi_8boGF5wmk-7Fb7SL-) and your [Renewal ACV forecast](https://drive.google.com/open?id=1X8LRZVmC4Q4FQ__GiCGsG1Xq6SwZagqc).
 The following sections provide you with additional information on our forecasting methodologies and practices.
 
 ### Opportunity Management Requirements
@@ -87,7 +87,7 @@ In Clari, you will update records individually via Opportunity tab:
   3. Click Save.
 
 ####  Opportunity Splits
-Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date. Opportunity splits must be documented in Chatter on the opportunity and require approval from Regional Director and VP. Under no circumstances will double compensation (more than 100% of deal value) on the same deal will be allowed. Note: Reports and Dashboards in Salesforce will reflect the opportunity IACV unless the report or dashboard is looking at the opportunity split object.  Clari will always pull in the split. 
+Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date. Opportunity splits must be documented in Chatter on the opportunity and require approval from Regional Director and VP. Under no circumstances will double compensation (more than 100% of deal value) on the same deal will be allowed. Note: Reports and Dashboards in Salesforce will reflect the opportunity ARR unless the report or dashboard is looking at the opportunity split object.  Clari will always pull in the split. 
 
 * **Sales Team**
 To request an opportunity split, a sales rep should indicate the split in Chatter, tag the ASM(s), RD(s), and VP(s) for each rep for approval, and tag Sales Support to make the update once approved. Opportunity splits should be requested before any work is shared on the opportunity.
@@ -115,10 +115,10 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
    - [Watch this 8 minute video](https://youtu.be/_m3gn1kki20) looking at the activity with a deal, diving into the CRM score, also highlighting where the Force Management fields are located.
 * **Additional Functionality**
    - [Watch this 5 minute video](https://youtu.be/16-5cvEODAU) to learn more about Clari Connect, Open in Salesforce, LinkedIn Sales Navigator, and best practices.
-* **Introduction to Gross and Net IACV**
-   - [Watch this 8 minute video](https://youtu.be/4LEGrMs4KEo) for an introduction on where to forecast using Gross IACV and Renewal fields and how they relate to Net IACV population.
+* **Introduction to Gross and Net ARR**
+   - VIDEO COMING SOON for an introduction on where to forecast using Gross ARR and Renewal fields and how they relate to Net ARR population.
 * **Overview of Renewals**
-   - [Watch this 5 minute video](https://youtu.be/rh4i8Gg_4l0) for a further look at the Gross, TCV and Renewal Tabs as well as how to view past and future quarters.
+   - VIDEO COMING SOON for a further look at the Renewal Tabs as well as how to view past and future quarters.
 * **GitLab Forecasting 101**
    - [Watch the 20 minute video](https://youtu.be/3TGiyNHV4_k) on how we use Clari at GitLab led by Area Sales Manager Adam Johnson
 * **Gitlab Renewals Forecasting 101**
@@ -200,8 +200,8 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
    - [Watch this 5 minute video](https://youtu.be/io4ysgxkicQ) to learn more about Clari Connect, Open in Salesforce, LinkedIn Sales Navigator, and best practices.
 * **Dashboards**
    - [Watch this 8 minute video](https://youtu.be/z_LT3JaR-78) for an overview of the 1:1 Rep/Manager Dashboard.
-* **Introduction to Gross and Net IACV**
-   - [Watch this 8 minute video](https://youtu.be/BXJsB2Frjxk) for an introduction on where to forecast using Gross IACV and Renewal fields and how they relate to Net IACV population.
+* **Introduction to Gross and Net ARR**
+   - VIDEO COMING SOON for an introduction on where to forecast using Gross ARR and Renewal fields and how they relate to Net ARR population.
 * **Overview of Renewals**
    - [Watch this 5 minute video](https://youtu.be/3b2Y3nY7-QY) for a further look at the TCV and Renewal Tabs as well as how to view past and future quarters.
 
