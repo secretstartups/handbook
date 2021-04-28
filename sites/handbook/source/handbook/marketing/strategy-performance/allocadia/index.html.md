@@ -244,9 +244,9 @@ If you find yourself needing to update a procurement issue template for any of t
 
 #### Wrong procurement issue template was pushed...what now?
 
-If you've hit the GitLab Procurement issue template button and the wrong issue template has been created, not to fear! More info coming soon! But we won't leave ya hanging!
+If you've hit the GitLab Procurement issue template button and the wrong issue template has been created, not to fear! Someone with owner or admin rights to your folder can assist you. To determine who has owner or admin rights to your folder from the home screen you would find your folder, click in the `Users` column that person icon with (number), from there, you see a list of people who have acess + their rights. Search until you find `Owner` or `Adminstrator` and then slack that person in the #mktg-budget-holders slack room. [Video walk through](https://youtu.be/PwbWpt3pMX4) (must be logged into GitLab Unfiltered!).  
 
-### SFDC
+### SalesForce.com (SFDC) 
 
 As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign, Allocadia will push over all the fields that have been completed in the details panel. In addition, we will be sending over forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget.
 
