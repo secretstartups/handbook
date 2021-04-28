@@ -80,4 +80,4 @@ Community contributions are valuable, and we should handle them as effectively a
 | [Complete Triage for Idle Merge Requests](#complete-triage-for-idle-merge-requests)    | 7 days                                     | Reach out to [Community Relations team](/handbook/marketing/community-relations/#-how-to-reach-us)         |
 
 [GitLab.com]: https://gitlab.com/groups/gitlab-org 
-[Engineering Productivity team]: /handbook/engineering/quality/#engineering-productivity-team
+[Engineering Productivity team]: /handbook/engineering/quality/engineering-productivity-team/
