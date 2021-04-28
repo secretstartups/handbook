@@ -34,17 +34,17 @@ Having a **"handbook first"** mentality ensures there is no duplication; the han
 When asked during an [INSEAD](http://insead.edu/) case study interview (shown above) about challenges related to being all-remote, GitLab co-founder and CEO Sid Sijbrandij provided the following reply.
 
 > The biggest problem is GitLab not working handbook first. We have an amazing handbook that allows us to collaborate, onboard new people, and think collectively.
-> 
+>
 > However, it is counterintuitive to communicate changes to the handbook. The default of people, when they wish to communicate a change, is to send a Slack message, send an email, give a presentation, or tell people in a meeting — _anything_ but make a change in the handbook.
-> 
+>
 > It's slower for them. It's quicker to use any other form. If they make a change in the handbook, they first have to find the relevant part of the handbook, they sometimes have to adjust the handbook to make sure their change will fit in, they have to go through a technical process and a review or two, and they have to wait a bit before it's deployed.
-> 
+>
 > It's slower than any other option. However, it allows people that commit a change after that to build upon a change. When they take that extra time, it's building a foundation for the next thing.
-> 
+>
 > I think of it as brick laying. Every piece of information is a brick. At GitLab, there is a well-structured house, and everyone adds to that one house. Because we're pretty particular on how we build it, it has a strong foundation and we can build it very high.
-> 
+>
 > In every other company, they send the brick into the hands of people. Everyone is receiving bricks daily that they have to add to the house they're building internally. They forget things and things are unclear. A lot of context has to be created because there is no context around where to place the bricks.
-> 
+>
 > So, you can end up with a thousand houses that look quite different, that are all hanging a bit, and each time you add a brick to the top one pops out at the bottom. — _GitLab co-founder and CEO Sid Sijbrandij_
 
 ## Handbook guidelines
@@ -280,13 +280,13 @@ For [more serious problems](/handbook/about/on-call/#when-to-escalate-an-issue),
 
 ## Merge Rights Guidelines
 
-You need [`maintainer` access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) to the [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) to be able to merge MRs for the handbook. If you want merge access, fill out an [access request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/). This page contains some tips and guidelines that you should keep in mind when you have `maintainer` access. 
+You need [`maintainer` access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) to the [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) to be able to merge MRs for the handbook. If you want merge access, fill out an [access request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/). This page contains some tips and guidelines that you should keep in mind when you have `maintainer` access.
 
 ### Merge with confidence
 
 Even if you are not a developer, you should feel confident merging any changes that pass the pipeline without worrying that you will break the handbook. The tests in the pipeline are designed to catch any major problems. The  `www-gitlab-com` project is configured so that changes cannot be merged unless the pipeline passes. When in doubt, feel free to loop in a technical reviewer. You can ask for help in the `#mr-buddies` slack channel. MR Buddies can provide a technical review or help you fix a broken pipeline. In the event that code is merged that does break the handbook in some way, follow the instructions for [reporting an issue to the Handbook on-call team](/handbook/about/on-call/).
 
-### Do not use merge immediately 
+### Do not use merge immediately
 
 Do **not** use the [merge immediately](https://docs.gitlab.com/ee/ci/merge_request_pipelines/pipelines_for_merged_results/merge_trains/#immediately-merge-a-merge-request-with-a-merge-train) feature! Even if your MR is important and time-sensitive, using this feature will create a lot of pain for everyone else. This feature should only be used when critical public information needs to be sent live as quickly as possible and should be approved by PR or Legal. **If you don’t have PR or Legal approval, don’t use this feature**.
 
@@ -300,28 +300,28 @@ More context on the technical reasons behind this:
 
 ### When to get approval
 
-Getting pinged to approve every small change to your page can be annoying, but someone changing a policy or procedure in the handbook without proper approval and have strong negative consequences. Use your best judgement on when to ask for approvals. 
+Getting pinged to approve every small change to your page can be annoying, but someone changing a policy or procedure in the handbook without proper approval and have strong negative consequences. Use your best judgement on when to ask for approvals.
 
 Whenever reasonable, practice [responsibility over rigidity](https://about.gitlab.com/handbook/values/#freedom-and-responsibility-over-rigidity). When you expect a page owner will appreciate your changes, go ahead and merge them without approval. Always ping the code owners with an @mention comment to inform them of the changes. They will be happy their page was made better and they didn’t need to waste time reviewing and approving the change. In the event that something isn’t an improvement, we practice [clean up over sign off](https://about.gitlab.com/handbook/values/#cleanup-over-sign-off)
 
-Whenever appropriate, get approval from the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html) using the [approval feature](https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html#adding-or-removing-an-approval) before merging changes. Each page in the handbook shows who the code owner listed under “Maintained by”. This information is pulled from the [codeowners file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS). The page’s code owner is the DRI for the page and has the final say for what appears in the handbook. When in doubt, get the DRI’s permission before changing their page. 
+Whenever appropriate, get approval from the [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html) using the [approval feature](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/settings.html) before merging changes. Each page in the handbook shows who the code owner listed under “Maintained by”. This information is pulled from the [codeowners file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS). The page’s code owner is the DRI for the page and has the final say for what appears in the handbook. When in doubt, get the DRI’s permission before changing their page.
 
-### Have a peer review your changes 
+### Have a peer review your changes
 
-Unless it’s a small change like a typo, always have another team member review your changes before you merge them. 
+Unless it’s a small change like a typo, always have another team member review your changes before you merge them.
 
 ### Access to the website, blog, and handbook
 
-The [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) contains the blog, marketing website, and handbook. As a maintainer, you will have access to all three. In most cases, you should only merge changes to the handbook and loop in the marketing team for any MR related to the blog or marketing site. 
+The [`www-gitlab-com` project](https://gitlab.com/gitlab-com/www-gitlab-com/) contains the blog, marketing website, and handbook. As a maintainer, you will have access to all three. In most cases, you should only merge changes to the handbook and loop in the marketing team for any MR related to the blog or marketing site.
 
-For example, don’t merge blog posts without following the process outlined in the [Blog handbook](/handbook/marketing/blog/). Publishing on the marketing blog requires approval from the Editorial Team. Note, [anyone can write and publish](/handbook/marketing/blog/unfiltered/) a blog post for [GitLab’s Unfiltered Blog](/handbook/marketing/blog/unfiltered/). 
+For example, don’t merge blog posts without following the process outlined in the [Blog handbook](/handbook/marketing/blog/). Publishing on the marketing blog requires approval from the Editorial Team. Note, [anyone can write and publish](/handbook/marketing/blog/unfiltered/) a blog post for [GitLab’s Unfiltered Blog](/handbook/marketing/blog/unfiltered/).
 
 Similarly, don't merge website updates without marketing in the loop. Follow the [instructions for updating the website](/handbook/marketing/inbound-marketing/digital-experience/website/#updating-the-marketing-website) or [requesting help from the marketing team](/handbook/marketing/inbound-marketing/digital-experience/website/#requesting-website-updates).
 
-### Broad Permissions 
+### Broad Permissions
 
 Being a maintainer gives you access to much more than just the ability to merge. You can see a [full list of permissions](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in the docs. Keep in mind that you’ll have access to a broad set of settings and configuration for the project. Don’t adjust any settings or make any structural changes without approval from the [marketing Digital Experience team](https://about.gitlab.com/handbook/marketing/growth-marketing/brand-and-digital-design/).
 
 ### Granting others maintain access
 
-Do not grant people maintainer access without an [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/). As a maintainer you have the ability to grant others maintainer access. Don’t do so without following the Access Request process to garner the appropriate approvals and create the necessary documentation.  
+Do not grant people maintainer access without an [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/). As a maintainer you have the ability to grant others maintainer access. Don’t do so without following the Access Request process to garner the appropriate approvals and create the necessary documentation.
