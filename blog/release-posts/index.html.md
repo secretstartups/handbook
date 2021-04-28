@@ -339,7 +339,6 @@ The Developer Evangelism team will reach out to the release post manager in Slac
 
 #### Content reviews
 
-**NOTE** To the extent possible we strive to use [GitLab's Community Code Review Guidlines](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) when performing Release Post content review. 
 
 The due dates for various reviews across all participants can be found on the [release post MR template](#templates) and the [release post item MR template](#templates). PM contributors are encouraged to cease attempts to add new content blocks after the content merge deadline on the 17th, and especially after final content assembly happens on the 18th at 8 AM PT (3 PM UTC). Exceptions can be made for highly impactful features but it is up to the discretion of the Release Post Manager to work with the PM and Messaging lead to add more content blocks up until the 21st.
 
