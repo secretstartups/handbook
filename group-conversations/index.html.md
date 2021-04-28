@@ -12,7 +12,7 @@ description: "Everything you need to know about GitLab's daily, recurring Group 
 
 ## Introduction
 
-Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](/handbook/people-group/group-conversations/#schedule--dri). Functions with a [Key Review](/handbook/key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations. 
+Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a [rotating schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing). Functions with a [Key Review](/handbook/key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations. 
 
 The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-ops/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Monday to Thursday. Some days might not have a Group Conversation. These are listed in the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. 
 
@@ -94,13 +94,13 @@ Calls are scheduled by the [EBA Team](/job-families/people-ops/executive-busines
   - _If prompted_ with the questions to update 1 or all events, choose to only update this event
   - Update the GC [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing)
 
-If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](/handbook/people-group/group-conversations/#schedule--dri) to Host:
+If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](/handbook/group-conversations/#schedule--dri) to Host:
 - Please update the Alternate Host line in the Group Conversation Agenda document.
 - Please notify any of the Executive Business Administrator Team or your functional EBA in the #group-conversations Slack channel so that they may change the host in Zoom's settings.
 
 If your Group Conversation falls on a day when you feel that a large percentage of the company may be OOO (for example, a Public Holiday observed by a number of countries). In such instances:
 - In the #group-conversations channel, ask channel members if they agree that a Group Conversation should not occur on a particular date.
-- If there is consensus, look at the Group Conversation [Schedule & DRI](/handbook/people-group/group-conversations/#schedule--dri). Find the next open slot and check on the GitLab Team Meetings calendar to be certain there is no meeting schedule on that day at the GC time (8am PT).
+- If there is consensus, look at the Group Conversation [Schedule & DRI](/handbook/group-conversations/#schedule--dri). Find the next open slot and check on the GitLab Team Meetings calendar to be certain there is no meeting schedule on that day at the GC time (8am PT).
 - Ping the EBA team (`@exec-admins`) in Slack in your thread and ask them to move your regularly scheduled GC to the open slot you have found. This will be a one-time move and all other instances of your GC will stay as scheduled.
 
 All Zoom meetings now require passwords. If a Group Conversation event was created in Zoom prior to this rule, please ping the EBA team (`@exec-admins`) in Slack to update the GC event in Zoom and in the GitLab Team Meetings calendar.
@@ -183,7 +183,7 @@ Additional links which may be useful when preparing to moderate a call include:
 
 ### Prior to the Call
 
-1. Ping the [DRI](/handbook/people-group/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `#group-conversations` Slack channel at least 24 hours prior to confirm whether they will be hosting or have nominated another team member to do so.
+1. Ping the [DRI](/handbook/group-conversations/#schedule--dri) of the Group Conversation you will be moderating in the `#group-conversations` Slack channel at least 24 hours prior to confirm whether they will be hosting or have nominated another team member to do so.
 2. If the host for the particular Group Conversation you are moderating has not hosted a call of this nature before, be sure to assign a [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) to them to support their preparation for the call.
 3. Be sure to confirm ahead of time whether this will be a [Public or Private Stream](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#never-call-it-a-livestream-or-just-a-recording) as you will need to mention this at the beginning of the call.
 4. Review the `Group Conversation Agenda` to ensure there are 15 numbered lines below the Date; Topic; Host Name; and Slide Deck Link - this is where team members will be able to insert any questions they may have for the host.
