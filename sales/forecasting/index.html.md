@@ -33,7 +33,7 @@ The Regional Director/Vice President of each team will establish weekly due date
 
 (Note that the above requires Renewal Loss to be forecasted)
 
-VIDEO COMING SOON on how to submiy your ARR and your ARR Basis forecasts.
+VIDEO COMING SOON on how to submit your ARR and your ARR Basis forecasts.
 The following sections provide you with additional information on our forecasting methodologies and practices.
 
 ### Opportunity Management Requirements
