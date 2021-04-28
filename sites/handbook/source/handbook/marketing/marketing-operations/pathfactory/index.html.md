@@ -106,6 +106,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 
 **[Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)**
 
+1. [PathFactory Author Onboarding](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_author_onboarding.md) 
 1. [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
 1. [PathFactory QA Review request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_qa_review.md)
 1. [New PathFactory form request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_form.md)
