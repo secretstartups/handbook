@@ -24,8 +24,8 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 |------------------- | --------------|
 | 2021-04-02 | Public Holiday
 | 2021-04-05 | Public Holiday
-| 2021-04-16 | Family & Friends Day
-| 2021-05-28 | Family & Friends Day
+| 2021-04-16 | Pandemic Support Day
+| 2021-05-28 | Pandemic Support Day
 
 
 ### OOO Handover Process for People Experience Team
