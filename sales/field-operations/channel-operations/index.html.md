@@ -323,7 +323,7 @@ For more information on quoting or the Partner Program, please visit:
 [Partner Program](https://about.gitlab.com/handbook/resellers/)
 
 ## Channel Reporting and Tagging
-![Reporting_Tagging_Matrix](/handbook/sales/field-operations/channel-operations/images/Screen Shot 2021-04-28 at 1.57.30 PM.png/)
+![Reporting_Tagging_Matrix](/handbook/sales/field-operations/channel-operations/images/Screen Shot 2021-04-28 at 1.57.30 PM.png)
 
 **Definitions:**
 1. _Deal Path_: How the deal is transacted. Values can be Channel, Direct, or Web. Also, includes Referral Ops for Channel. 
