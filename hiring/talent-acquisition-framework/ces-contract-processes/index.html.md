@@ -286,7 +286,7 @@ If they have been hired in Greenhouse and exported to BambooHR, follow these ste
 1. Unhire the candidate in Greenhouse if the req is still open. If the req is closed, Recruiting Ops will need to be brought in to unhire.
 1. Reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.
 1. Cancel any scheduled emails in Greenhouse.
-1. Tag the Senior Director, People Success in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the Senior Director, People Success) can remove the profile, this is why this step is so important.
+1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important.
 1.  If they were hired via a PEO, inform the contact person at the PEO of this change immediately, ideally before onboarding starts.
 
 ## Letter of Adjustment
