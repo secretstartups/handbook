@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: "Predicted XMAU Algorithm"
 ---
 
-### Prediction Algorithm - Introduction
+### Prediction Algorithm Description
 
 Per [our Performance Indicators page](https://about.gitlab.com/handbook/product/performance-indicators/#three-versions-of-xmau), we currently have 3 versions of xMAU. Predicted xMAU is meant to provide Product Leadership a sense for what usage will look like in 3 years at current growth rates.
 
@@ -33,11 +33,11 @@ Predicted Plan SMAU(Last Month + 12 Months) = Estimated Plan SMAU(Last Month) + 
 With the formula described above, we will get a Predicted Value for Plan SMAU in 12 Months of **124**.
 
 
-### Predicted Algorithm - Most Viable Change
+### Adjustment to the growth rate for SaaS, Self-Managed CE, and Self-Managed EE
 
-Our first attempt to create Predicted xMAU is an iteration of the formula described above. The main difference is that a different growth rate will be applied for SaaS, Self-Managed CE and Self-Managed EE assuming that growth trend between SaaS, CE and EE might vary widely. The MoM growth rate will be calculated as the average growth rate over the last quarter. 
+Growth trends between SaaS, CE and EE might vary widely. To account for this, the algorithm factors in the amount of usage for a given group across CE, EE, and SaaS, and adjusts the growth rate based on the average growth rate for each of those delivery types, respectively.
 
-So let's calculate the Predicted SMAU for Plan in 12 Months. we have the following assumptions :
+So let's calculate the Predicted SMAU for Plan in 12 Months. We have the following assumptions:
 
 | Delivery  and Edition| SMAU | MoM Growth |
 |-------|------|------------|
