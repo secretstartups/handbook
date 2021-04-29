@@ -245,6 +245,8 @@ Meeting Schedule:
 
 These meetings are subject to change and we will continue to evaluate the frequency of them. The Principal Internal Communications manager is responsible for drafting any shareable updates as a result of the meeting, which include MRs and messaging around changes to the travel guidance on this page. 
 
+If you have a question or feedback related to the working group, please post in the slack channel: #covid19-response-committee
+
 ### International Travel
 GitLab has suspended all cross-border business travel until further notice. If you have international travel booked, please contact your
 travel service to cancel or update your itinerary. Instructions to assist you with this process can be found below. If you are currently traveling internationally, please return home as soon as practical. If you have future travel booked during the suspension period, please cancel.
