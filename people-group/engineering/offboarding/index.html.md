@@ -39,15 +39,13 @@ When a team member voluntarily leaves GitLab, an email going over the offboardin
 
 The pipeline is scheduled to run every hour and scan the offboarding spreadsheet for new rows since the last run. For each row, an email is sent to the departing team member using different templates depending on the team member's country.
 
-### Voluntary offboarding slack reminder
+### Scheduled offboarding issue creation
 
-Team members who voluntarily leave GitLab will receive a Slack message two days before their last day. This message is a reminder to perform the following tasks:
+Every 15 minutes, a pipeline scans the offboarding spreadsheet for rows where the `Termination Effective Date` and `Termination Time PST` occurred within the past 15 minutes. For each row matching these criteria, it will perform the same actions as if a People Experience Associate ran `/pops run offboarding <id_in_BambooHR_URL>` (see [Manually initiated offboarding issue creation](#manually-initiated-offboarding-issue-creation) and [Offboarding merge request](#offboarding-merge-request) sections).
 
-- Not wipe their computer until given the green light by IT Ops
-- Ensure [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) is installed on their computer
-- Backup personal files since they won't be available after wiping the computer
+The manual process is kept as a backup process should the automation fail or for exceptional cases where a team member offboarding cannot be added to the offboarding spreadsheet.
 
-### Offboarding issue creation
+### Manually initiated offboarding issue creation
 
 The Slack command used by the People Experience Associate for offboarding issues is:
 
@@ -69,7 +67,7 @@ contents of those files also in the offboarding issue.
 
 This issue is added to the [team member's epic](/handbook/people-group/engineering/employment-issues#epics).
 
-### Offboarding Merge Request
+### Offboarding merge request
 
 The `offboarding` command will also create a merge request to the `www-gitlab-com` project. This MR
 includes:
