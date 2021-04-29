@@ -74,7 +74,7 @@ The [Growth and Development page](/handbook/total-rewards/benefits/general-and-e
 [GitLab Contribute](/events/gitlab-contribute/) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Contribute is an optional event, so team members should not feel pressured to attend. This year, Contribute will be hybrid-first, enabling team members to watch and participate from anywhere.
 
 From our first Contribute in Serbia to our virtual event in 2020, team members from around the world have built friendships and experienced the values in person. 
-For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous).
+For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](/company/culture/contribute/previous/).
 
 ## Business Travel Accident Policy
 
