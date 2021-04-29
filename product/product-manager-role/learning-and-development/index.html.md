@@ -470,6 +470,11 @@ _Please contribute your favorite resources here_
 
 ### 🤝 Direct team management
 
+##### New Manager Buddy Program
+
+- For new Group Managers at GitLab, we have an buddy program that matches the new Group Manager with a Senior leader (Director or above) in the Product team that is not in their direct reporting chain. This is an optional program to help new managers understand GitLab management process, find a sounding board to discuss challenging situations in a safe space without judgement, and generally learn management techniques. Although this is targeted to new managers (typically first time managers), it is open to those who are becoming a manager for the first time at GitLab but have been managers elsewhere.
+
+
 ##### Quick reads and videos
 
 - [The New Manager Death Spiral](https://randsinrepose.com/archives/the-new-manager-death-spiral/)
