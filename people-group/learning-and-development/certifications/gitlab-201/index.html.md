@@ -13,6 +13,7 @@ title: GitLab 201 Tool Certification
 
 Welcome to the GitLab 201 Tool certification page! This is a self-paced course consisting of reading material, video tutorials and knowledge assessments at the end of each lesson. To become certified in GitLab 201, participants will have to pass all 3 lessons with at least 80%. We recommend that courses are completed and passed in order.
 
+Please visit GitLab Learn and create an account to complete the [GitLab 201 Certification](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this) and earn the GitLab 201 Badge!
 
 ### Who can benefit from this 201 training?
 
@@ -121,9 +122,8 @@ Once the desired epic has been selected, it will be shown on the issue like this
 
 ### Quiz - Lesson 1: Epics
 
-If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
+Please complete the Lesson 1 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this)
 
-To move on to the next lesson, take and pass the [GitLab 201: epics quiz](https://docs.google.com/forms/d/e/1FAIpQLSev9PA7WGLHwtlF3Uo3XhhcW_GIrNnJN1dShQYv4tGqvDMcow/viewform).
 
 ## Lesson 2: Merge Requests
 
@@ -189,9 +189,8 @@ Save changes, and assign the merge request to the DRI of the page.
 
 ### Quiz - Lesson 2: Merge Requests
 
-If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
+Please complete the Lesson 2 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this)
 
-To move on to the next lesson, take and pass the [GitLab 201: merge requests quiz](https://docs.google.com/forms/d/e/1FAIpQLSfJYcLiYIp4iN7jPiTN2_CQbVdtVVCPx4Y1BzMVv9wffk7OCw/viewform).
 
 ## Lesson 3: How to create a new handbook page
 
@@ -244,11 +243,10 @@ description: "[insert a short sentence to appear as part of search results]"
 
 ### Quiz - Lesson 3: How to create a new handbook page
 
-If you are a GitLab team member, plese return to GitLab 201 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
+Please complete the Lesson 3 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this)
 
-Take and pass the [GitLab 201: How to create a new handbook page quiz](https://docs.google.com/forms/d/e/1FAIpQLSfhBE-121_41DXdXbn8qtSPqBhiQvnsupFwLAifEj58pGTHvw/viewform).
 
 To become certified in GitLab 201, you will have to pass (with at least an 80%) all three lessons.
 
 ## Feedback
-We are always trying to improve. Please let us know what you thought of this GitLab 201 course by filling out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfUAYCKSKmUPvwPYAi3oH9d2qGVP_VFa9hxKM_VDRWaBrsTNw/viewform).
+We are always trying to improve. Please let us know what you thought of this GitLab 201 course by filling out our [feedback form in GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification-this/cards/1424490).

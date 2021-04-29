@@ -54,7 +54,7 @@ This syncs the new hires to Guardian and is fully automated. Every day we check 
 
 - hire date: the date they start working at GitLab
 - employee id: the unique employee ID that has been assigned to them in BambooHR (not to be confused with the ID of the user in BambooHR)
-- legal entity: either `Gitlab Inc` or `GitLab Federal LLC`. This depends on what is filled in on the `location` field in BambooHR.
+- legal entity: either `GitLab Inc` or `GitLab Federal LLC`. This depends on what is filled in on the `location` field in BambooHR.
 - first and last name
 - personal email address
 
@@ -264,6 +264,8 @@ at their job title. If it **starts** with any of the following:
 - `Senior Manager`
 - `Director`
 - `Senior Director`
+- `Chief`
+- `VP`
 
 We also consider the person a people manager when the job title **ends** with:
 

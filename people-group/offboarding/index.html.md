@@ -111,7 +111,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
     
 1. **Specialist**: The People Specialist will reach out to the team member directly to schedule an Exit Interview. A brief training on how to start and conduct exit interviews can be found [here](https://docs.google.com/presentation/d/1QCd6QLKcgCEzncJ2zdeDsnA6zlWFAmZre69Q1LKycJ0/edit?usp=sharing) (internal only)
       * The assigned People Specialist will first send out the Offboarding Informational Email according to the appropriate template. Current templates include [USA](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_usa.md), [Canada](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_canada.md) and [all other countries](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/offboarding_all_countries.md).
-      * The assigned People Specialist will then send out the Exit Survey via Culture Amp (using the Exit Survey template in Culture Amp) and communicate with the departing team member to mention that they would like to schedule a non-mandatory exit interview, to occur during the team member's last week. 
+      * The assigned People Specialist will then send out the Exit Survey via Culture Amp (using the Exit Survey template in Culture Amp) and communicate with the departing team member to mention that they would like to schedule a non-mandatory exit interview, to occur during the team member's notice period.
       * To send the Exit Survey, log into Culture Amp and click on `Surveys` from the top menu bar. Select `Exit Survey` and select the `start` exit button - this will allow the People Specialist to assign the survey to the departing team member.
       * Remind the departing team member it is necessary to complete the [Exit Survey](#exit-survey) _prior_ to the Exit Interview so it can be discussed.
       * Before the exit interview the interviewer (The People Specialist and/or People Business Partner) should make sure to carve out time to review the Exit Survey answers and prepare for the interview. If any voilations to our Code of Conduct are mentioned in the exit survey, these should be discussed first in the exit interview. 
@@ -291,13 +291,13 @@ _To be documented_
 ## Communicating Departures Company-Wide
 
 As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md), GitLab does not provide any context around why people are leaving when they do.
-However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can share their reasons for leaving if they wish.
+However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on sharing a company-wide message about their departure. 
 
-If they choose not to then the departing team member's manager shares the following in the `#team-member-updates` Slack channel:  
+Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departing team member’s manager shares the following message company-wide about the team member’s upcoming departure in the `#team-member-updates` Slack channel. 
+If they choose not to then the departing team member's manager shares the following in the #team-member-updates Slack channel. 
 
-> "As of today, [X] ([X's job title] from the [X's team] team) is no longer with GitLab. I would like to take this opportunity to thank X for their contributions and wish them all the best for the future.
-> If you have questions about tasks or projects that need to be picked up, please let me know.
-> If you have concerns, please bring them up with your manager."
+Managers can use this template as a guide to how to communicate a team member’s upcoming departure::
+"I want to share that (team member’s name) will be leaving GitLab, and [his/her/their] last day is (date of their last day). (Context to add about the team member’s time at GitLab - examples: their favorite contribution to the handbook or they can use the update to express gratitude towards teams and individuals that have made their experience at GitLab positive.) I would like to take this opportunity to thank (team member's name) for their contributions and wish them all the best for the future. If you have questions about tasks or projects that need to be picked up, please let me know. If you have concerns, please bring them up with your manager. To keep in touch with (team member's name) he/she/they can be reached at (contact info - e.g. LinkedIn, email, etc.)"
 
 If someone is let go involuntarily, this generally cannot be shared since it affects the individual's privacy and job performance is intentionally kept [between an
 individual and their manager](/handbook/communication/#not-public).
@@ -333,14 +333,10 @@ Some team members do not thrive or enjoy the work that they were hired to do.
 For example after starting at GitLab a team member quickly learns they have no desire or interest to learn Git or work with Git.  This doesn't make them a bad person, it just means they don't have the interest for the role and based on that the decision was made to exit the company.
 Again, we want all team members to enjoy and thrive in their work and that may or may not be at GitLab.
 
-The departing team member may author a goodbye message for either voluntary or involuntary offboarding:
-  1. Write your message, for example, "It was a pleasure working with you all.
-  I've decided to pursue an opportunity in a different industry that is more aligned with my interests.
-  I'll be rooting for GitLab from the sidelines.
-  Stay in touch: Cheers!"
-  1. Send it to your manager and People Partner for approval.
-  1. The manager can with the permission of the team member post the agreed upon message verbatim as long as the message is deemed appropriate in the company call agenda and slack goodbye announcements.
-  1. If appropriate, managers are encouraged to thank departing team members for their contributions and wish them the best of luck on their future endeavors.
+The departing team member may work with their manager to author a goodbye message for voluntary offboarding:
+  1. Work with your manager on the message that your manager will share in `#team-member-updates` on Slack. 
+  2. Send it to your manager for approval. If, as a manager, you are in doubt about the message - please reach out to your manager or [aligned People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for additional review.
+  3. Managers are encouraged to use the suggested template (above link) and have the space to add more color wherever they see fit.
 
 In some instances there will be no further clarification on why a team member has departed, if there are concerns you can address those with your manager.
 Different levels of transparency will exist based on maintaining respectful treatment for all departures.

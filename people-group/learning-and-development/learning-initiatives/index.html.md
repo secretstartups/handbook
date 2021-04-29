@@ -269,6 +269,7 @@ List of CEO Handbook Learning Sessions:
 1. [Managing Underperformance](https://www.youtube.com/watch?v=-mLpytnQtlY&t=637s)
 1. [Transitioning from IC to Manager - Engineering](https://www.youtube.com/watch?v=Zeull-tdy6o) 
 1. [Manager Mention Merge Requests](https://www.youtube.com/watch?v=e1sTOtveNOk)
+1. [Working Groups](/company/team/structure/working-groups/#ceo-handbook-learning-discussion-on-working-groups)
 
 ## Skill of the Month 
 
@@ -285,9 +286,9 @@ The L&D team outlines a skill of the month for team members to learn more about 
 This is the list of topics that will be the focus in FY22. Each skill of the month can be found in the [Skill of the Month (FY22)](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) channel on [GitLab Learn](https://gitlab.edcast.com/). 
 
 - April: Managing Stress
-- May: [topic TBD]
-- June: [topi TBD]
-- July: [topic TBD]
+- May: Effective Communication
+- June: Coaching
+- July: Culture of Feedback
 - August: [topic TBD]
 - September: [topic TBD]
 - October: [topic TBD]
@@ -302,3 +303,26 @@ The following process outlines steps for the L&D team to take when planning and 
 Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
 
 **Planning Issue Template:** Open a `skill-of-the-month` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps are outlined in the issue template.
+
+## People Group Self-Care Check in Calls
+
+This optional call occurs weekly on Wednesday and is a space for the People Group to check-in weekly on our own self-care practices. This initiative is currently in a pilot state and we're iterating on the best format. Other teams at GitLab should feel encouraged to adpot a similar call format if they are interested. [Calm](https://www.calm.com/business/blog) offers great blogs and articles about self-care strategies, and a webinar they hosted in March 2021 inspired the start of these weekly social self-care calls.
+
+This call does not have an agenda because the intention is to hold a safe space where peole can speak openly without focusing on documenting discussions.
+
+Call Structure:
+
+- First 10 minutes: Optional share-out of what you've done this week or this day to care for your self. Participants can share verbally or in the Zoom chat
+- Second 10 minutes: Discuss one question prompt about self-care, mental wellness, and general wellbeing. The goal is to get participants thinking about how they can integrate self-care strategies into their daily practice
+
+### Example self-care discussion questions
+
+1. What have you managed well in the past year?
+1. What brought you joy today? This week? This month?
+1. How do you feel at this moment? Why?
+1. What advice do you give others? Do you follow it for yourself?
+1. When the people I spend time with do ____ or say ____, I feel energized.
+1. How do you move past unpleasant thoughts, experiences, or discussions?
+1. What do you do that makes you feel most like yourself? Why?
+
+

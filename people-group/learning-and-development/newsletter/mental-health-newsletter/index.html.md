@@ -47,8 +47,7 @@ The newsletter is planned using both issues in the [Mental Health project](https
 ## Past newsletters
 
 1. [FY21-Q4 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY21-Q4/)
-
-Past mental health newsletters will be linked here. Our first newsletter is planned for FY21-Q4, with a target publish date of 2020-01-14.
+1. [FY22-Q1 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/)
 
 ## Merge request template
 

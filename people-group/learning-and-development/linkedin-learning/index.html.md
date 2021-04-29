@@ -29,7 +29,7 @@ Finding courses and skills to learn just got easier with access to LinkedIn Lear
 
 ### Walk and Learn
 
-With the LinkedIn Learning app, team members can download audio-only versions of courses and take learning on the go. We're pioliting a new initiative during the month of April 2021 encouraing team members to take learning with them while they walk.
+With the LinkedIn Learning app, team members can download audio-only versions of courses and take learning on the go. We're piloting a new initiative during the month of April 2021 encouraging team members to take learning with them while they walk.
 
 #### Why should you try a Walk and Learn?
 
@@ -163,6 +163,8 @@ The L&D Team will provision access to team members who want access to paid conte
 1. Click "Add new users" and then "Add new users by email" 
 1. Enter team members GitLab email address 
 1. Click "Confirm" in the bottom right 
+
+If you are on the L&D Team, you can watch a [video walkthrough](https://drive.google.com/file/d/17N8g2llYGAgenx1R0W-MPebiKO6xQG9j/view?usp=sharing) of the provisioning process when adding team members via email (not CSV upload). 
 
 ### Deprovisioning Access 
 

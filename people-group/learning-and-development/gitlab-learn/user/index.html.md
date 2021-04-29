@@ -14,9 +14,7 @@ title: GitLab Learn User Documentation
 
 The following resources can be used by learners in the [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) platform to help navigate the login process, explore new content, and more.
 
-**Have additional questions?**
-
-GitLab team members can reach out to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) for additional support with GitLab Learn.
+**If you need support accessing GitLab Learn, have questions about content, need to edit or remove your account, or have feedback to provide, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).**
 
 #### A note about naming
 
@@ -36,7 +34,7 @@ If you're looking for support in getting your questions answered, please refer t
 | ----- | ----- |
 | GitLab team members | Please reach out to the L&D team in Slack for support via the [#learninganddevelopment channel](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/C6H8647PS-1611605514.007500) |
 | Customers | Please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) for help from our Support or Professional Services team |
-| Community Members | Please post your question in the in the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759). |
+| Community Members | Please post your question in the in the [GitLab Community Forum](https://forum.gitlab.com/c/gitlab-learn/42) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759). |
 
 
 ### First time login to GitLab Learn
@@ -248,8 +246,31 @@ Please note that some content in the Pathway is restricted to internal team memb
 
 Thanks for helping us keep the content in GitLab Learn up to date! Please refer to the [reporting an error on GitLab Learn handbook section above](/handbook/people-group/learning-and-development/gitlab-learn/user/#reporting-content-errors-in-gitlab-learn) for instructions.
 
+### I'm having trouble viewing a course. All I can see is a blank screen.
+
+This could be caused by your pop-up blocker or chrome extension. Please try the following steps to access the course material:
+
+1. Use the preferred Chrome browser
+1. Open the course in an incognito window
+
+### How do I delete my account?
+
+To delete your GitLab Learn account and related data, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) and note your request.
+
+### I can't load or access content on GitLab Learn
+
+This typically means the connection is being disrupted and the sign on is not transferring from one page to the next. Try clearing your cache and cookies and attempt to click the orange Enroll button again.
+
+In addition, confirm you're using Google Chrome, the preferred browser.
+
+If you're still facing problems, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) 
+
+### I did not receive a confirmation or password reset email
+
+For help with your account, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759) and note your request.
+
 ## Have additional questions about GitLab Learn?
 
-Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
+Questions from team members about the LXP can be directed to the Learning and Development team via the [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W). Community members should post on the [GitLab Community Forum](https://forum.gitlab.com/c/gitlab-learn/42) or [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).
 
 

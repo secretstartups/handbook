@@ -11,7 +11,9 @@ title: GitLab 101 Tool Certification
 
 ## Introduction
 
-Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab.
+Welcome to the GitLab 101 Tool certification page! Here you will find our 101 course on how to use GitLab. 
+
+Please visit GitLab Learn and create an account to complete the [GitLab 101 Certification](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification) and earn the GitLab 101 Badge!
 
 ### Who can benefit from this 101 training?
 
@@ -105,9 +107,7 @@ To use the flashcards, click on the link above. You can review the flashcards in
 
 ### Quiz - Lesson 1: Technical Terminology
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
-
-To move on to the next Lesson, take and pass the [GitLab 101: Technical Terminology Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd3G3QJJRa1XvKbUNXhJENSxoWd5907CpP4-jhvvyRcvZzwRA/viewform).
+Please complete the Lesson 2 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
 
 ## Lesson 2: GitLab Issues
 
@@ -177,18 +177,18 @@ To comment on a GitLab issue:
 Knowing how to search for a GitLab issue can be very helpful, especially if you had been looking at it but hadn't made a comment or been tagged in it. If you know some key words that were in the issue, you should be able to find it! Here's how:
 
 1. Go to [gitlab.com](https://gitlab.com/)
-1. In the top right click on the "Issues" button
-1. Click the "x" on the right of the search bar to clear
-1. If there is specific text you know is in an issue or part of it's title you can search for it by entering the text in quotations. (ex. "GitLab 101")
-1. If you don't know what text is in the issue, but you know who it is assigned to (aka "Assignee") you can click on the search box and select "z" from the drop down, then select "=", and then search for the handle of the team member you know it is assigned to
-1. You can also search using the options of "Author", "Milestone", "Release", "Label", and "My Reaction"
+1. In the top right click on the search bar
+1. Type in text you want to search for and hit enter
+1. On the next screen, select the group the issue is in that you are searching for. In this instance the group is `people-group`
+1. Then, select the project the issue is in that you are searching for. In this instance the group is `gitlab-tool-training`
+1. Click on the "issues" tab under the search bar to see all issues with the text you are searching for in that specific group and project. 
 
-This [resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on searching for an Issue.
+This [docs resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on searching for an Issue.
 
 #### Video: How to search for a GitLab Issue (~4 minutes)
 
 <figure class="video_container">
-  <iframe src="https://player.vimeo.com/video/491221700" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/537384017" width="640" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ### GitLab Issue Labels and Issue Boards
@@ -208,10 +208,7 @@ Each GitLab Project has an Issue Board. These can be set up similar to how a kan
 
 ### Quiz - Lesson 2: GitLab Issues
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
-
-To move on to the next Lesson, take and pass the [GitLab 101: Issues Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeR1zOvGKrDWD1t52DNv3DdNeLblI2nPP0dm-PKD8TkNUfB7Q/viewform).
-
+Please complete the Lesson 2 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
 
 ## Lesson 3: GitLab Merge Requests
 
@@ -256,12 +253,10 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
 
 ### Quiz - Lesson 3: GitLab Merge Requests
 
-If you are a GitLab team member, plese return to GitLab 101 in the GitLab Learn platform to take the quiz on this section. It will be the next smartcard in the pathway.
-
-Take and pass the [GitLab 101: Merge Requests Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfzwgutFZegAESbgsiObhb6N8rqn4NNlWDbxACK7khh3p5hJA/viewform).
+Please complete the Lesson 3 assessment in [GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
 
 To become certified in GitLab 101, you will have to pass (with at least an 80%) all three Lessons including: Technical Terminology, GitLab Issues, and GitLab Merge Requests.
 
 ## Feedback
 
-We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdtScO_hkV_mFlhlB4tiSf9tjXvrQBVMkkGCOegZlZH2yzZWQ/viewform).
+We are always trying to improve. Please let us know what you thought of this GitLab 101 course by filling out our [feedback form in GitLab Learn](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification/cards/1424490).

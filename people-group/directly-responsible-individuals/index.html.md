@@ -95,7 +95,7 @@ Different organizations use different methods of assigning responsibility;
 one of the most popular is the [RACI Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix), which outlines who the Responsible-Accountable-Consulted-Informed folks should be on a decision or project. 
 
 GitLab's implementation of a DRI for decision-making means that we have evolved the RACI matrix to RADCIE. 
-The **Responsible** and **Accountable** person is the **DRI**, and given that **[Everyone Can Contribute](/company/strategy/#mission)**, the **Consulted** and **Informed** people are **Everyone**.
+The **Responsible** and **Accountable** person is the **DRI**, and given that **[Everyone Can Contribute](/company/mission/#mission)**, the **Consulted** and **Informed** people are **Everyone**.
 
 # Circumstances Requiring the Rare Need for Approvals
 

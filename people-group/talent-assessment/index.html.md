@@ -14,7 +14,7 @@ description: "Overview of three critical pieces of GitLab's talent development p
 
 ### Purpose
 
-The purpose of the Talent Assessment Program is to identify and retain team members who drive the success of our organization. This is a top priority and strategic process for people managers at GitLab. Our Talent Assessment Program (which is a critical piece of our overall [Talent Development Program](/handbook/people-group/talent-development-program/)) serves as a mechanism to help mitigate a couple of our biggest company risks: [lack of performance management](/handbook/leadership/biggest-risks/#underperformance) and [losing key people](/handbook/leadership/biggest-risks/#16-key-people-leave). 
+The purpose of the Talent Assessment Program is to identify and retain team members who drive the success of our organization. This is a top priority and strategic process for people managers at GitLab. Our Talent Assessment Program (which is a critical piece of our overall [Talent Development Program](/handbook/people-group/talent-development-program/)) serves as a mechanism to help mitigate a couple of our biggest company risks: [lack of performance management](/handbook/leadership/biggest-risks/#underperformance) and [losing key people](/handbook/leadership/biggest-risks/#key-people-leave). 
 
 ### Overview 
 
@@ -211,7 +211,7 @@ The calibration session is one of the most important pieces of the Performance/P
 
 While we want to encourage open and transparent conversation during calibration session, there are certain topics that should be avoided to ensure we respect team member privacy.
 
-* Sharing whether team members are currently undergoing [formal performance remediation](/handbook/leadership/underperformance/#options-for-remediation). It is okay to share that team members are receiving coaching, but specifics pertaining to PEPs, PIPs, etc. should be avoided. 
+* Sharing whether team members are currently undergoing [formal performance remediation](/handbook/leadership/underperformance/#options-for-remediation). It is okay to share that team members are receiving coaching, but specifics pertaining to Written coaching, PIPs, etc. should be avoided. 
 * Anything related to health (I.E. medical diagnoses, conditions, disabilities, etc.). It is okay to share that team members have a lot going on in their personal lives, but we should not go into detail. _Note that this applies for team member's friends/family as well._
 
 ## Matrix Tool
@@ -382,7 +382,7 @@ This change will impact both team members and managers.
 * **As a manager, when reviewing my team members, what is the difference between Developing and Underperformance?**
     * [Underperformance](/handbook/leadership/underperformance/) is generally ongoing for a period of time with multiple attempts to remediate. "Developing" implies more of a stage of progression that is also consistent (I.E. not a sustained underperformance to meet expectations). 
     While everyone within the Developing category isn't necessarily Underperforming, a subset of team members who might be Underperforming would be grouped into the Developing category along with those team members who are not underperforming but are simply new to the role. 
-    Team members who are on a formal Underperformance remediation plan, such as a [Performance Enablement Plan](/handbook/leadership/underperformance/#performance-enablement-plan-pep) or [Performance Improvement Plan](/handbook/leadership/underperformance/#performance-improvement-plan-pip), will not be eligible for a compensation increase as a result of the [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor).
+    Team members who are on a formal Underperformance remediation plan, such as a [Performance Improvement Plan](/handbook/leadership/underperformance/#performance-improvement-plan-pip), will not be eligible for a compensation increase as a result of the [Annual Compensation Review](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor).
 
 * **How should I factor in COVID impact when assessing performance and potential?** 
 

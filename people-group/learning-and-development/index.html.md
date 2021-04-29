@@ -72,15 +72,7 @@ We are a small team, but we've got a big role to play at GitLab!
 
 ## FY22 Learning and Development Calendar 
 
-**FY22 Q1 Calendar of Sessions/Events:** 
-- 2021-03-XX: LXP Community Launch
-- Month of March: [Mental Health Awareness Month](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/198)
-- 2021-03-21: Field Sales Manager Hiring Top Talent Training
-- 2021-04-03: Enterprise Sales Hiring Top Talent Training
-
-**FY22 Q2 Calendar**
-- 2021-05-03 to 2021-05-21: May [Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/)
-- 2021-05-XX: [Field Manager Development Program](/handbook/sales/field-manager-development/)
+You can view the Learning & Development calendar, as well as other people group team calendars on the [People Group Page](https://about.gitlab.com/handbook/people-group/#team-calendars). 
 
 ## Learning Initiatives 
 

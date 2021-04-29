@@ -20,6 +20,15 @@ It will be created on your last day, the People Experience Associate assigned to
 
 Your access will be deactivated on your last day, when the offboarding issue is created. 
 
+##### Can I provide my own update in the Team Member Updates Slack Channel?
+
+Yes! Once there is alignment with your leadership around timelines and interim team management (when 
+necessary), if you would like to provide GitLab Team Members (via #team-member-updates) an update 
+prior to your departure as to your reasons for leaving and one that is separate from the 
+manager-provided update, you are welcomed to do so. Please consider including your favorite 
+contribution to the handbook or use the update to express gratitude towards teams and individuals 
+that have made your experience at GitLab positive. 
+
 ##### Do I need to wipe my laptop?
 
 A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address. If you have an Apple computer, please ensure you have enrolled in [JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) prior to your final day. Please under no circumstance should you perform your own disk wipe on the laptop. If someone from IT does not reach out within 1-2 business days prior to offboarding please send an email to it-help@gitlab.com
@@ -38,6 +47,11 @@ The following can be used as a guide on what actions could need to be taken befo
 - Prepare a handover document for your team / manager. 
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable). 
 - If you feel comfortable, send a message in the `team-member-updates` Slack channel notifying everyone of your departure. 
+- Set up accounts that you'll need access to after your last day. They may include:
+  - ADP (payroll): https://workforcenow.adp.com
+  - Lumity (US Health Benefits): https://login.lumity.com
+  - Betterment (US 401(k)): https://wwws.betterment.com/app/login
+  - Carta (Stock options): https://login.app.carta.com/credentials/login/
 
 ##### When will I receive my final pay?
 

@@ -13,13 +13,13 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
 
-L&D will be rolling out a **three-week iteration of the program** during the month of May 2021. **The program will start 2021-05-03 and end on 2021-05-21. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the May program! Currently, the program is being offered to GitLab team members. 
+L&D will be rolling out a **two-week iteration of the program** during the month of May 2021. **The program will start 2021-05-03 and end on 2021-05-14. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the May program! Currently, the program is being offered to GitLab team members only. 
 
-Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend or watch the 50-minute recordings of the weekly live learning courses.  
+Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend the 1 hour and 20 minute live learning sessions or complete the async live learning activities. Blocking your calendar each day during the program goes a long way!   
 
-One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the three-weeks. 
+One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the two-weeks. 
 
-We rolled out the first iteration of the [4 Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The pilot received a [Net Promoter Score of 4.6](https://drive.google.com/drive/folders/11J1b8jwxROFYH4Xgylkhgo6x3OEm4kyB?ths=true) by the participants. The [second iteration](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26) was run in January 2021 where we condensed the program to three weeks. 
+We rolled out the first iteration of the [Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The pilot received a [Net Promoter Score of 4.6](https://drive.google.com/drive/folders/11J1b8jwxROFYH4Xgylkhgo6x3OEm4kyB?ths=true) by the participants. The [second iteration](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26) was run in January 2021 where we condensed the program to three weeks. For May, L&D iterated again and are rolling out a two week program.
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
@@ -49,7 +49,7 @@ Below is a video L&D recorded with Sid on manager enablement:
 
 **What** 
 
-The Three Week Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
+The Manager Challenge Program is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build foundational management skills. The program incorporates leadership assessments, interactive live learning sessions, and digital learning. 
 
 **Why** 
 
@@ -61,7 +61,7 @@ Learn the basic principles of what it means to be a manager using a whole-person
 
 **What do I need to do**
 
-Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (50 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill in the Manager Action Plan. If you are unable to prioritize the training for the 3 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
+Set aside time each day to participate in the challenge (20-30 minutes) and live learning sessions (1 hour 20 minutes). Complete the weekly learning evaluations, comment on the challenge issues, and fill your individual growth plan. If you are unable to prioritize the training for the 2 weeks, please consider signing up for a session at a later date or discuss additional options with the L&D team. In addition, there will also be async learning options for participants that are unable to attend the live learning sessions. 
 
 ### Challenge Issue explainer video 
 
@@ -72,6 +72,10 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
      <iframe width="560" height="315" src="https://www.youtube.com/embed/VTMQiCgvEDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+
+### Pre-Challenge Kickoff Call
+
+Before the challenge is offically kicked off, a kickoff meeting will take place to get to know one another better. A roundtable discussion and intro's will take place. The program will be reviewed in depth and questions will be answered. The call is optional, but everyone is invited to attend! 
 
 ### Week 1
 
@@ -85,11 +89,11 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity |
 |---------|-----------------|------------------|---------|---------|
-| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Learn about the SOCIAL STYLES assessment <br> *Define what it means to be a manager at GitLab |
+| Day 1    | Getting to know yourself and team members | 20 minutes | Self-paced Daily Challenge | <br> *Complete the learning pathway <br> *Define what it means to be a manager at GitLab |
 | Day 2    | Managerial output, leverage, and delegation | 20 minutes | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
-| Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Define how to become a high performing team |
-| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 50 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
-| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Manager Action Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
+| Day 3    | Building high performing teams | 20 minutes | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Complete the learning pathway |
+| Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 1hr 20 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
+| Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
 ### Week 2
 
@@ -103,34 +107,20 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------|---------|
-| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics |
-| Day 7   | Crucial Conversations | 20 minutes | Self-paced Daily Challenge | <br> *Share examples and tips on crucial conversations |
-| Day 8   | Giving and Receiving Feedback | 20 minutes | Self-paced Daily Challenge | <br> * Evaluate what needs to be included when giving constructive feedback |
-| Day 9   | Live Learning - Effective Communications with Your Team | 50 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
-| Day 10  | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the manager action plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges  |
+| Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 20 minutes | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
+| Day 7   | Coaching and Feedback | 20 minutes | Self-paced Daily Challenge | <br> *Complete the learning pathway for coaching and feedback |
+| Day 8   | Performance Management | 20 minutes | Self-paced Daily Challenge | <br> *Understanding Underperformance <br> * Complete the learning pathway on underperformance |
+| Day 9   | Live Learning - Effective Communications with Your Team | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
+| Day 10  | Individual Growth Plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
 
+### Individual Growth Plan
 
-### Week 3
+Throughout the program, we ask that managers to create or refine their [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#internal-resources-1). We encourage Managers to self-reflect on their professional development as a people leader and identify areas where they can advance their skills. 
+The document is intended to be a starting point for managers to document where they can improve as a people leader.
 
-During week three we will discuss **Peak Performance & Coaching & Cultures**. Information covered in week three can be found on the following handbook pages: 
-- [Coaching](/handbook/leadership/coaching/)
-- [Career Development](/handbook/people-group/learning-and-development/career-development/) 
-- [Performance/Potential Matrix and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
-- [Building Trust](/handbook/leadership/building-trust/)
-- [Iteration](/handbook/values/#iteration)
-- [Cross-Culture Collaboration Guide](https://about.gitlab.com/company/culture/cross-culture-collaboration-guide/)
+### Buddy Program
 
-| Day     | Daily Challenge | Length of Time   |  Format | Activity | 
-|---------|-----------------|------------------|---------| ---------|
-| Day 11   | Eliciting Peak Performance and Motivation | 20 minutes | Self-paced Daily Challenge | <br> *Analyze how to motivate your teams to reach peak performance <br> *Applying Iteration  |
-| Day 12   | Cultures | 20 minutes | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration Activity |
-| Day 13   | Coaching skills | 20 minutes | Self-paced Daily Challenge | <br> *Present how and where to coach | 
-| Day 14   | Live Learning - Coaching to develop and motivate your people | 50 minutes | Live Learning | <br> * Live learning sessions with scenario based coaching discussions to elicit peak performance | 
-| Day 15   | Manager action plan & final weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> *Complete the manager action plan <br> *Complete final evaluation <br> Catch up on weekly challenges <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! 
-
-### Manager Action Plan
-
-Throughout the program, we ask that managers create a manager action plan to self-identify and self-reflect on areas that they wish to improve on moving forward. The document is intended to be a starting point for managers to document where they can improve as a people leader. Any manager can use the [manager action template](https://docs.google.com/document/d/1he_sJUrMuuWf1QPGoUu4E_W0uRQCQ3Ohd3jElTiN4hE/edit#) we've created. 
+For the May Manager Challenge, a buddy program will be encouraged for Managers during the event. Managers can select their buddies and complete the async activities together. It can also serve as an opportunity for Managers and team members participating to get to know one another. 
 
 ### Post Manager Challenge
 
@@ -151,14 +141,12 @@ Learn more about Building Trust with Remote Teams from the co-founder of Trust M
 
 ## Self-paced Learning
 
-Team members have access to [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/) for access to self-paced learning content. The Learning & Development team has developed a learning path in Gitlab Learn with curated self-paced content that can benefit [people leaders](https://gitlab.edcast.com/channel/leadership-development) to access anytime. 
+Team members have access to [LinkedIn Learning](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/) for access to self-paced learning content. The Learning & Development team has developed a learning path in GitLab Learn with curated self-paced content that can benefit [people leaders](https://gitlab.edcast.com/channel/leadership-development) to access anytime. 
 
 ## FAQs (Frequently Asked Questions) for the Manager Challenge program
 
 1. **What is the Manager Challenge Program?**
-     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 3 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
-1. **When is the next session?**
-     - The next session will be launched on 2020-01-11 for any people leader interested in attending.
+     - The program is intended to build a set of baseline management skills through micro habits and daily practices over 2 weeks. It is a blended learning approach that combines self-paced and live learning sessions. It is intended to build leadership and management skills based on the book High Output Management and GitLab remote management & leadership best practices. 
 1. **Do I have to participate?**
      - We strongly recommend that all managers that sign up for the program complete the daily challenges and actively participate. All new managers are strongly encouraged to participate in their first year of leading teams. 
 1. **Have we done this program in the past?**
@@ -188,7 +176,7 @@ Team members have access to [LinkedIn Learning](https://about.gitlab.com/handboo
 
 ## Manager Challenge Certification
 
-Following the completion of the Gitlab Manager Challenge program, participants will be [awarded a certification](/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
+Following the completion of the GitLab Manager Challenge program, participants will be [awarded a certification](/handbook/people-group/learning-and-development/certifications/)! The certification will be sent to a team member who has completed at least 80% of the daily challenges. Once a team member receives a certification, they can post it on their LinkedIn Profile. 
 
 ## Testimonials
 
@@ -244,7 +232,7 @@ The Slack channel for the pilot program was `#manager-challenge-pilot`. Each day
 
 Each week of the challenge has one day of live learning sessions. Depending on the locations of the participants, it can be determined how many sessions are held on the Thursday of each week.  
 
-Approximate times for the live sessions to ensure timezone coverage include: 10:30 am ET, 4:00 pm ET, and 9:30 pm ET. 
+Approximate times for the live sessions to ensure timezone coverage include: 7:30 am PT, 1:00 pm PT, and 6:30 pm PT. 
 
 ### Retrospective Sessions
 

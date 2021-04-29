@@ -10,22 +10,21 @@ title: GitLab Learn Admin Documentation
 {:toc .hidden-md .hidden-lg}
 
 
-## Navigating GitLab Learn Admin Content
+# Navigating GitLab Learn Admin Content
 
-On this page, team members working in the GitLab Learn platform and GitLab Learning Evangelists will find documented processes and best practices for content creation. The page is split into two important sections.
+On this page, team members working in the GitLab Learn platform will find documented processes and best practices for content creation. The page is split into the following sections.
 
-| Section Number | Title | Purpose |
-| ----- | ----- | ----- | 
-| 1 | [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | This section will outline best practices for creating on brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
-| 2 | [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | This section outlines written and demonstrated processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
-| 3 | [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | TBD|
+| Title | Purpose |
+| ----- | ----- | 
+| [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | Outlines best practices for creating on brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
+| [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | Outlines processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
+| [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | Includes key links and trainings in EdGraph |
+| [Moderation](/handbook/people-group/learning-and-development/gitlab-learn/admin/#moderation) | TBD |
+| [Support](/handbook/people-group/learning-and-development/gitlab-learn/admin/#support)| Includes support workflows for users and templates for contacting EdCast support |
 
+Questions? Please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 ## Best practices for content creation and organization
-
-These best practices are iterative and will continuously update. As the LXP implementation team discovers new ways to utilize EdCast, these best practices will be updated. EdCast admins and team members should consider opening an MR to this page and adding best practices as they discover new use cases and tools in the platform for content creation and curation. 
-
-If EdCast admins have questions about best practices in the LXP or need support in making decisions about how to upload and organize their content, please reach out to the [L&D team in Slack](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CAEEVBR2M-1608029461.344100).
 
 If you're just getting started using EdCast, watch this short overview of the user experience in the platform and how new learning content fits into this design.
 
@@ -55,8 +54,7 @@ Before reviewing the documented best practices below, take time to watch these r
 
 #### Applicable to all content
 
-1. URLs for content cannot be deleted or edited, and they are generated automatically by the title that is first entered for the content. This is the same for all content in the platform, so take care to properly name content when you're creating it for the first time. When content is deleted, that URL can no longer be used.
-1. The `Mark as Complete` setting platform wide is set to `auto-mark as complete`. This setting allows our integration with LinkedIn Learning to track content completed on the LinkedIn platform itself and should not be changed. As a result, if you'd like users to manually mark content as complete, please be sure to select `Manually` at the Pathway setting to override the `auto-mark as complete` setting. Otherwise, leave Pathways to the `Automatically` mark as complete setting.
+1. URLs for SmartCards are generated automatically by the title that is first entered for the content and cannot be deleted or edited. This applies for all content in the platform, including Journeys, Channels, and Groups, so take care to properly name content when you're creating it for the first time for the most accurate URL. If content is deleted, that URL can no longer be used.
 
 #### SmartCards
 
@@ -64,15 +62,20 @@ Before reviewing the documented best practices below, take time to watch these r
 1. Create content based SmartCards independently from a Journey or Pathway so that content can be repurposed and discovered
 1. Always set an estimated time to finish for each SmartCard, as this is used to give an accurate guess on how long the content will take to consume
 
+Check out this video of a few of these SmartCard best pracitces in action:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bORBlaaOwD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Pathways
 
-1. Badges can be awarded upon completion of a Pathway. If the Pathway is not part of a Journey, use the Pathway level badges
-1. Enable lock functions for pathways where you want learners to go through the content in a specific order. For locked pathways, leave the first SmartCard unlocked, and lock all subsequent Smartcards.
+1. The `Mark as Complete` setting platform wide is set to `auto-mark as complete`. This setting allows our integration with LinkedIn Learning to track content completed on the LinkedIn platform itself and should not be changed. As a result, if you'd like users to manually mark content as complete, please be sure to select `Manually` at the Pathway setting to override the `auto-mark as complete` setting. Otherwise, leave Pathways to the `Automatically` mark as complete setting.
+1. Badges can be awarded upon completion of a Pathway.
+1. Enable `lock` functions for pathways where you want learners to go through the content in a specific order. For locked pathways, leave the first SmartCard unlocked, and lock all subsequent Smartcards.
+1. Enable `leap` functions for pathways where you want to redirect the learner based on how they perform on a quiz. For example, if a user passes a quiz, they can leap to the next SmartCard, but if they fail, they can be directed back to a SmartCard to review content before taking the quiz again.
 1. End Pathways that earn a badge with the sharing a [GitLab Learn badge SmartCard](https://gitlab.edcast.com/pathways/gitlab-certification/cards/1045949)
 1. Consider ending Pathways with a SmartCard that provides next steps for learning. This could be a call to action to take a similar Pathway or follow a Channel.
-1. Enable leap functions for pathways where you want to redirect the learner based on how they perform on a quiz. For example, if a user passes a quiz, they can leap to the next SmartCard, but if they fail, they can be directed back to a SmartCard to review content before taking the quiz again.
 
-Here is an example where you might use lock and leap in a Pathway:
+##### Lock and Leap Example
 
 In the GitLab 101 certification, a user must first read the handbook page on technical terminology, then take the knowledge assessment. If the user passes the quiz, they will leap to the next SmartCard, which brings them to the next handbook section. If the user fails, they will leap back to the initial SmartCard to review the quiz content. In the same pathway, we have a short poll used as a knowledge check. In this case, if the user answers either correctly or incorrectly, they move forward through the locked SmartCards as normal without any using leap functionality.
 
@@ -82,18 +85,21 @@ Watch this video example that explains the use of lock and leap in a Pathway:
 
 #### Journeys
 
-1. Badges can be awarded upon the completion of a Journey. It's best to require all pathways be completed in order to earn a badge and use a Journey level badge over Pathway level badges
+1. Badges can be awarded upon the completion of a Journey
 1. End Journeys that earn a badge with the sharing a [GitLab Learn badge SmartCard](https://gitlab.edcast.com/pathways/gitlab-certification/cards/1045949)
 1. Consider ending Pathways with a SmartCard that provides next steps for learning. This could be a call to action to take a similar Pathway or follow a Channel.
+1. Refer to the best practices for Pathways above when building Pathways that create a Journey.
 
 
 ### Order of Operations for Content Creation
+
+This section defines how to restrict content to specific audiences on GitLab Learn. Since GitLab Learn is available to both internal and external audiences, it's important to understand who can access your content. Whenever possible, we shouuld make learning public to align with our [transparency value](/handbook/values/#transparency), but in some cases, learning will only be accessible to team members or may require payment.
 
 #### Step 1: Determine if content is `public` or `private`
 
 | Content Type | Definition | Example Audience |
 | ----- | ----- | ----- |
-| `private` | Content is only visible to the assigned learner, assigned group, or channel | Content for the GitLab team or customers only |
+| `private` | Content is only visible to a specific audience | Content for the GitLab team or customers only |
 | `public` | Content is discoverable and visible to all learners in the platform | Content for wider community members |
 
 Watch this video that explains the difference between public and private content in GitLab Learn:
@@ -118,7 +124,7 @@ This video outlines the three scenarios for building public versus private conte
 
 1. Build Smartcards within a Pathway or Journey
 1. Make sure the `private` content checkbox is checked for SmartCards, Pathways, and Journeys
-1. Assign content directly to an individual user, group, or channel
+1. Assign or share content directly to an individual user, private Group, or private Channel
 
 **Example:** L&D uploads a compliance course with graded content for a specific group of learners. Since it is graded, interactive content, we want this path to only be assigned to the GitLab team. SmartCards will be built within a private Pathway that will be assigned directly to team members via a Group. In the future, the team might create a public course without the graded elements that could be public for the wider community.
 
@@ -137,7 +143,23 @@ Option 3: If parts of the content are for a certain audience and parts are avail
 
 There is also the option to organize these public SmartCards into a second Pathway that the wider community can access without the graded requirements. Perhaps a quick quiz or poll could be utilized here instead. 
 
-#### Sharing private content with the right audience
+#### Step 3: Sharing private content with the right audience
+
+Once you've built your `public` or `private` content, you'll need to share with the correct audiences.
+
+##### Overview
+
+Please review these key structurs and how they can impact **who can access your content**.
+
+**Important Note: The first line in the table below is the ONLY way to ensure your content is truly restricted to a specific audience.**
+
+| Content Type | Shared With | Who can Access | 
+| ----- | ----- | ----- |
+| Private | Private Group or Private Channel | Only members of that Group or people added to the Channel |
+| Public | Public Group or Public Channel | Anyone in the Group or Channel and discoverable via search |
+| Private | Public Group or Public Channel | Anyone can join the public Group or Channel, therefor anyone can see your content |
+
+##### Explanation of `public` and `private` content
 
 With the combination of `private` content, Groups, and Channels, you can restrict content to certain audiences in GitLab Learn. This is an essential EdCast feature for the GitLab team, as we're using GitLab Learn to share content across internal and external audiences. Examples include:
 
@@ -155,9 +177,7 @@ Below outlines use case examples when using `private` Groups, Channels, and cont
 1. If you share `private` content with a `public` Channel, only followers of that Channel can see the content, **but anyone can follow the Channel**. This is a similar use case as sharing `private` content with a `public` group. If you'd like to organize users with similar interests by inviting them to follow a `public` Channel, this use case might work.
 
 
-### Choosing between a badge or certification
-
-#### Badges
+### Badges
 
 Badges are available with the creation of both pathways and journeys and are awarded to the learner on the EdCast platform upon completing a set Pathway or Journey. Badges can also be [shared by the learner](/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges) on their LinkedIn profiles.
 
@@ -172,17 +192,6 @@ Follow the steps below for [creating a badge in EdCast](/handbook/people-group/l
 Watch this video to review how to add badges to a Pathway or Journey:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VnBSYZ8Cbws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Certification
-
-_Please note that as of 2021-03-11, Certifications are not yet enabled in EdCast._
-
-Certifications are available for content updated in the Leapest LMS Lite with the combination of assessments created in Mettl. The certifications can be shared externally.
-
-Teams should choose to use certifications to recognize learners achievements when:
-
-- Learners require an official certification upon completion
-- Establishing credibility in a specific skill area, etc.
 
 
 ### Image guidelines
@@ -213,7 +222,7 @@ Keep the following in mind when choosing a photograph:
 1. Avoid images of large groups as it could make content look out of date
 1. Keep the focal point of the image in the middle to enable better cropping and addition of the image overlays described below
 
-### Images for SmartCards
+#### Images for SmartCards
 
 SmartCards without an image uploaded will either generate a random image from the EdCast system or will show no image at all. Both cases don't align with the look and feel of GitLab Learn. Follow one of the two options below when adding images to SmartCards
 
@@ -229,16 +238,6 @@ Journeys and Pathways will be identified with a white graphic image overlay and 
 [Example of images in Canva](https://www.canva.com/design/DAEQ-5KGqe4/7JF_Fz8qV2a0owZDQGLlcw/view?utm_content=DAEQ-5KGqe4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 We've organized a [GitLab Learn photo drive](https://drive.google.com/drive/folders/1GvE-MUtHzGbZ9KX-16bsTvwFDn-Cd4hy?ths=true) so that contributors to GitLab Learn can access pre-edited photos to upload.
-
-#### Images for SmartCards
-
-Use the following chart to determine what image is best to use for your SmartCard content
-
-| Scenario | Image Guidelines |
-| ----- | ----- |
-| The SmartCard will be broadcasted on the Discover page | Follow guidelines for Journey and Pathway images |
-| The SmartCard links to the Handbook | Use the auto-generated GitLab logo |
-| The SmartCard is stored within a Pathway or Journey | You may either update each image following the guidelines for Journey and Pathway images or use the auto-generated images in the platform |
 
 #### Images for Channels
 
@@ -289,7 +288,7 @@ As new team members are onboarded as Learning Evangelists, the L&D team will ser
 
 #### Content review checklist items
 
-To review in the front end of GitLab Learn
+To be reviewed in the front end of GitLab Learn
 
 1. Click into the `edit` mode to review content in each Journey or Pathway
 1. Content is organized in a Pathway or Journey
@@ -299,8 +298,9 @@ To review in the front end of GitLab Learn
 1. Learning level is set
 1. Badge status is set and uploaded
 1. Each SmartCard has a clear description
+1. Content is compliant with the [DIB quality check process](/culture/inclusion/#diversity-inclusion-and-belonging-quality-check-learning--development-and-external-training)
 
-To review in the EdCast backend
+To be reviewed in the EdCast backend:
 
 1. Language is specified
 1. Tags are added based on related content keywords
@@ -308,8 +308,6 @@ To review in the EdCast backend
 1. User taxonomy topics are chosen
 
 When the peer-review is complete, content should be switched on by the content creator to the `published` state.
-
-
 
 ### Sharing content
 
@@ -406,12 +404,9 @@ Use these best practices when designing and updating the discover page in EdCast
 1. Leverage a carousel of groups by creating SmartCards that link directly to groups that you want to highlight
 
 
-
-
 ## Processes, management, and maintenance of content in EdCast
 
 This section documents specific workflows in EdCast that admin will use when creating and maintaining content. As the LXP implementation team discovers new ways to utilize EdCast, these processes shoud be updated. All admin should consider opening an MR to this page and workflows as they explore new tools in the platform.
-
 
 ### Journeys, Pathways, and SmartCards
 
@@ -618,6 +613,20 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 1. Add a badge name
 1. Click the `done` button
 
+### Changing user permissions
+
+GitLab team members can complete the [Learning Evangelist or Learning Curator pathways](/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions/) to earn `Learning Evangelist` status in GitLab Learn. This role will enable team members to create and curate existing and new content for audiences on GitLab Learn.
+
+Team members can also request accedd to view EdGraph reports.
+
+After a team member has completed the Access Request process for any elevated permissions beyond the basic `member` role:
+
+1. Confirm the user has earned the Learning Evangelist badge by navigating to their profile. The easier way to do this is from the admin panel. Go to `Accounts` -> `Users` then search for the user using their email. From here, click on the user's name, which will redirect you to their account in GitLab Learn.
+1. Review the `Badges` section for the Learning Evangelist or Learning Curator badge. If the badge appears here, then the user has completed the learning path. This step does not apply for the EdGraph access.
+1. Return to the admin panel. Still in the `Users` section, relocate the user. Click on `Role`. This should show the current roles this user has.
+1. Under their current roles, there is the option to `Add New Role`. In the drop down menu, select `Learning Evangelist`, `Learning Curator` or `Edgraph` then hit `Save`.
+1. Alert the user they now have Learning Evangelist permissions in GitLab Learn and can begin contributing content. If they need support, remind them to reach out in the #learninganddevelopment Slack channel.
+
 
 
 ## Reporting
@@ -634,7 +643,7 @@ Follow the steps outlined in the handbook to open an [individual access request 
 
 Once processed, you'll be able to be added as a collaborator on reports in EdGraph. Please work with the L&D team to be sure the essential reports are shared to your account.
 
-### L&D Teaam Dashboards
+### L&D Team Dashboards
 
 1. [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) - this dashboard displays custom reports that share information for only GitLab team members on the GitLab Learn platform
 1. [DIB Certification Completion Reports](https://edcast-536.domo.com/page/2098296181) - this dashboard shows team member completion of the DIB certification broken down by department level
@@ -643,7 +652,8 @@ Once processed, you'll be able to be added as a collaborator on reports in EdGra
 
 #### Office Hours Recordings
 
-This [Google Drive](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6) contains recordings of office hours with EdCast that have a heavy focus on reporting using EdGraph and are great training resources for team members looking to build and access reports using the tool.
+1. This [Google Drive](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6) contains recordings of office hours with EdCast that have a heavy focus on reporting using EdGraph and are great training resources for team members looking to build and access reports using the tool.
+1. [2021-04-02 EdGraph training](https://drive.google.com/file/d/1AIqtuWA3ttErKT-9iZXnpbthSfRLcWg_/view?usp=sharing) - building custom reports, drilling down into data sets, sharing dashboards, and general Q&A.
 
 #### L&D Monthly Reporting
 
@@ -653,10 +663,11 @@ The following private videos can be viewed by team members using the GitLab Unfi
 1. [How to create a custom report using EdGraph](https://youtu.be/ofqAjoUkJuM)
 1. [Monthly L&D reports](https://youtu.be/vS0XuxkAH_E) - this training walks through how our [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) is used to fill in monthly data in our [FY22 GC Metrics sheet](https://docs.google.com/spreadsheets/d/1NxY5VWJlsQsOWmQrNAGPr7IIJ2Sa8qixXY7Et0cj45k/edit#gid=0)
 
+#### Other training
 
-## Moderation
+These training materials are for team members who need to access custom reports on EdGraph and are for internal use only.
 
-Moderation and CoC workflows are being determiend by the LXP implementation team and will be documented in future iterations.
+1. [PBP training for DIB certification completions](https://drive.google.com/drive/folders/1t4YCkrqoGYrfOTJA1DeMkGhQyEW-PJwZ?usp=sharing)
 
 
 ## Support
@@ -687,7 +698,7 @@ GitLab team members should work towards responding to internal and external requ
 
 Workflows, email templates, and outlines below will remain the same for this temporary support model.
 
-### End goal Support Model
+### End-goal Support Model
 
 This section outlines workflows and processes that the GitLab team uses to provide support to GitLab Learn users.
 
@@ -706,7 +717,7 @@ graph TD
 
 ### Pathways for user support
 
-#### Slack support for team members
+#### Team member support via Slack
 
 ##### Slack workflow
 
@@ -724,7 +735,7 @@ This chart outlines common questions and triage actions taken by the L&D team:
 | Field Enablement or Professional Services content | Tag FE and PS DRIs |
 
 
-#### Zendesk support for customers and community members
+#### Customers and community members support via Zendesk
 
 Zendesk will be our main hub for providing user support for external audiences on GitLab Learn. 
 
@@ -772,11 +783,6 @@ The GitLab Community Forum has a category entitled `GitLab Learn` for users to c
 
 Below are a collection of key questions and answers posted on the forum. Consider linking to these threads when providing support on the forum, in Zendesk, or in Slack.
 
-| Question | Forum Thread Link |
-| ----- | ----- | 
-| | |
-| | |
-
 Important considerations when responding to questions in the forum:
 
 1. If you need personal information from the user, direct them to open a ticket. This could include problems with logging in, accessing their account, or updating accout information.
@@ -786,213 +792,23 @@ Important considerations when responding to questions in the forum:
 
 ### Support for frequently asked questions
 
-#### Team member opens a Zendesk ticket for support
-
-##### Support workflow
-
-1. Use the Zendesk macro to direct team members to Slack
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Team members can get support for GitLab Learn in Slack from the Learning and Development team. Please reach out to them with your question in the [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) channel.
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-```
-
-#### How do I share my GitLab Learn badges externally?
-
-##### Support workflow
-
-1. Use the Zendesk macro to direct the user to the correct SmartCard and handbook documentation
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Thanks for reaching out to our team about your GitLab Learn badge! We're happy to hear you've earned a badge and are ready to share your success with your LinkedIn network.
-
-[This SmartCard](https://gitlab.edcast.com/insights/ECL-15365c36-f581-47fd-8c43-bf6d85e61656) will walk you through the process of sharing your badge externally on LinkedIn. 
-
-You can also find this information in our [GitLab Learn user documentation](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#sharing-your-gitlab-learn-badges).
-
-Please let us know if there is anything else we can help you with!
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-```
-
-#### I'm having trouble creating an account/logging in to my account on GitLab Learn
-
-##### Support Workflow
-
-1. Confirm the user does not already have an account via the GitLab Learn admin panel
-1. If they **do** have an account set up:
-     1. Send response template below
-     1. Impersonate the account on EdCast if troubleshooting is needed
-1. If they **do not** have an account set up:
-     1. Point to the training on [creating a new GitLab Learn account](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
-     1. Confirm users are accessing the platform using Google Chrome browser
-     1. If logging in using GitLab.com account, confirm that user has an existing GitLab.com account
-
-##### Response if they **do** have an account set up:
-
-```
-Dear {{user.firstname}}
-
-I'm sorry to hear you're having trouble creating a GitLab Learn account. I've checked our system and do see an account successfully created with the email: {{user.email}}.
-
-Please visit the [GitLab Learn login page](https://gitlab.edcast.com/ and select the `forgot your password` option to reset your account.
-
-If you're still having trouble after trying to reset your password, please respond to this email and include the following information:
-
-1. Email used while attempting to create and account:
-1. Browser used while attempting to create an account:
-
-Thank you for your patience while we process your request!
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-```
-
-
-##### Response if they **do not** have an account set up:
-
-```
-Dear {{user.firstname}}
-
-I'm sorry to hear you're having trouble creating a GitLab Learn account. I've checked our system and do not see an account created using the email {{user.email}}.
-
-In order to help get your account set up, I will share a few resources and confirm a few things with you:
-
-1. If you haven't yet reviewed our user docs, please watch this video on [setting up your GitLab Learn account for the first time](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/user/#first-time-login-to-gitlab-learn)
-1. Be sure you're accessing GitLab Learn via the Google Chrome browser, as it performs best in this browser.
-
-If you've attempted these 3 possible solutions and are still having trouble, please respond to this email and include the following information:
-
-1. Email used while attempting to create and account:
-1. Browser used while attempting to create an account:
-
-Thank you for your patience while we process your request!
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-```
-
-#### I can't see all the content in a Pathway or Journey on GitLab Learn.
-
-##### Support Workflow
-
-1. Confirm which content the user is trying to view.
-1. Respond with macro explaining internaly only content.
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Thanks for reaching out with your question about GitLab Learn.
-
-Can you please clarify which Pathway or Journey you're having trouble accessing? Please include a link to the content in your response.
-
-Please note that not all learning content on the GitLab Learn platform is available to our wider community. As we grow, we'll release additional learning Pathways and Journeys for you to continue your personal and professional development.
-
-If you have any suggetsions of content you'd like to see in the GitLab Learn platform, please post in our GitLab Community Forum.
-
-Sincerely,
-
-{{agent.firstname}}
-
-Want to connect with other GitLab Learn users? Check out our category on the GitLab Learn Community Forum!
-
-```
-
-#### I found a mistake in GitLab Learn - how do I report it?
-
-##### Support Workflow
-
-1. Ask user to open an issue to report the mistake
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Thanks for helping us keep the content in GitLab Learn up to date! Please refer to the [reporting an error on GitLab Learn handbook section above](/handbook/people-group/learning-and-development/gitlab-learn/user/#reporting-content-errors-in-gitlab-learn) for instructions.
-
-Sincerely,
-
-{{agent.firstname}}
-
-```
-
-#### How do I contribute to GitLab Learn?
-
-##### Support Workflow
-
-1. Send macro that links to contribution process
-
-##### Response
-
-```
-Dear {{user.firstname}}
-
-Thanks for reaching out! Please see our handbook page that outlines [how to contribute learning content to GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/) and let us know if you have any questions!
-
-Sincerely,
-
-{{agent.firstname}}
-
-```
+The following Zendesk macros are set up in the Professional Services Zendesk view to provide efficient support to free and paid users:
+
+| FAQ | Macro Title| 
+| ----- | ----- |
+| Team member opens a Zendesk ticket for support | Send `Professional Services -> Team-member-ticket` macro in Zendesk |
+| How do I share my GitLab Learn badges externally? | Send `Professional Services -> Share-badge` macro in Zendesk |
+| I'm having trouble creating an account/logging in to my account on GitLab Learn | Send `Professional Services -> Login-problems` macro in Zendesk |
+| I can't see all the content in a Pathway or Journey on GitLab Learn. | Send `Professional Services -> Content-Not-Seen` |
+| I found a mistake in GitLab Learn - how do I report it? | Send `Professional Services -> Report-a-Problem` macro in Zendesk |
+| How do I contribute to GitLab Learn? | Send `Professional Services -> Contribute` macro in Zendesk |
 
 
 ### Automatic email templates
 
 The following are email templates generatetd automatically either via Zendesk or Gmail and are meant to point users to the correct pathways for support.
 
-#### EdCast notification emails
-
-EdCast sends notification emails on a cadence editable by the user. These emails reveal a support email address in the footer of the email. To avoid confusion, the following workflow has been put in place:
-
-1. The support email for the plaform has been set the `gitlablearn@gitlab.com`. This is a Google Group managed by the L&D team.
-1. This Google Group email address will not be monitored by the L&D team and is only meant to route users to the correct space for support.
-1. Any emails sent to this email address will receive the following auto-responded message:
-
-```
-Thanks for using GitLab Learn and for reaching out to our team!
-
-In order to get your support question to the right team, please follow the instructions below:
-Before reaching out for additional support, please review our [GitLab Learn User Documentation](/handbook/people-group/learning-and-development/gitlab-learn/user/)
-
-1. If you are a GitLab team member, please post your question in the #learninganddevelopment Slack channel for support from our Learning and Development team.
-
-2. If you are a GitLab customer or community member, please [submit a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759)
-
-Thanks again for reaching out. Please do not respond to this email, as this inbox is not regularly monitored.
-
-Sincerely,
-
-The GitLab Learning and Development Team`
-```
-
-***Important note for users***: If you are reading this documentation, please do ***not*** email `gitlablearn@gitlab.com` for support. This email inbox is not monitored. Instead, please visit the [user documentation and check the correct support workflow]((/handbook/people-group/learning-and-development/gitlab-learn/user/#support-options-for-gitlab-learn-users)
-
+The `gitlablearn@gmail.com` will trigger a new professional services Zendesk ticket for each email. The email inbox is managed by the L&D team but is not monitored, and Zendesk is instead used to provide support.
 
 #### Zendesk macro for free users
 
@@ -1171,5 +987,69 @@ To engage the EdCast team in a performance related incident, email the EdCast te
 9. Please provide a (HAR) file.  
 
 10. Any additional information that you would like to share with the support team 
+```
+
+## Moderation
+
+Users on the GitLab Learn platform are expected to follow our [GitLab Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). The following processes will be implemented to enforce our CoC when violated on the GitLab Learn platform.
+
+#### Moderation DRI
+
+Moderation of user activity on the GitLab learn platform will be maintained by the Learning and Development team.
+
+#### Moderation Workflows
+
+1. Navigate to the EdCast admin panel
+1. Click on `Content` -> `Reported Content` or `Reported Comment`
+1. Options for reported content/comments include to `unreport` which will remove the reported flag and keep content/comments available to users, or `trash` which will delete the content from the platform.
+1. Triage the reported content starting at the bottom of the list to address reports as they have come in.
+1. Click the name link in the column titled `Content Title` to review the reported content. Clicking this link will open the content in a new tab. After reviewing the content, take the following actions:
+1. If the content is **not** in violation of our CoC, but is reported as a technical issue, refer to the correct section of the admin documentation to resolve the issue and click the `unreport` button.
+1. If the content is in clear violation of our CoC, take the following actions:
+     1. Open a confidential issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information.
+     1. In the issue, determine appropriate action for the user's account.
+     1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
+     1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
+     1. Choose the `trash` option to remove the content
+1. If it is unclear if the content is in violation of our CoC, take the following actions:
+     1. Open an issue on the EdCast Modteration issue board. Use the `moderation` issue template and fill in relevant user information
+     1. In the issue, determine appropriate action for the user's account.
+     1. Collaborate with the L&D and security team to determine the appropriate action for the user's account
+     1. If the user is to be suspended, email the user with the `CoC Violation` email template, suspend the user's GitLab Learn account, and close the issue. Add the issue to the `suspended-account` list on the issue board.
+     1. If the user is not to be suspended, email the user with the `CoC Modteration` email template keep the issue open. Add the issue to the `active-account` list on the issue board
+
+##### CoC Violation email template
+
+```
+Dear {{user.firstname}}
+
+Please note that your account on GitLab Learn has been suspended due to unacceptable behavior that does not follow or [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+
+{{Add details on which content was flagged and removed}}
+
+If you have any questions, please respond to this email.
+
+Sincerely,
+
+{{agent.firstname}}
+
+```
+
+##### CoC Moderation email template
+
+
+```
+Dear {{user.firstname}}
+
+Please note that your {SmartCard/Comment/Other Content} has been removed as it does not follow the guidelines in our [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/).
+
+{{Add details on which content was flagged and removed}}
+
+If you have any questions, please respond to this email.
+
+Sincerely,
+
+{{agent.firstname}}
+
 ```
 

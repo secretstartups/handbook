@@ -90,7 +90,7 @@ synced to the `Contracts & Changes` and the resume is synced to the `Resumes and
 folder on BambooHR. They are set to be shared with the new team member.
 - Employment Status: these are different depending on which entity is linked to the team member.
 It follows the process that is outlined in the [handbook](/handbook/people-group/general-onboarding/onboarding-processes/#adding-a-new-team-member-to-bamboohr). When there are changes in probations, a
-change should also be made to [this file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/-/blob/master/data/probations.yml).
+change should also be made to [this file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml).
 
 When required data is missing, the system is set up to send a Slack message about
 this applicant. Currently these candidates will need to be synced manually.
@@ -112,16 +112,3 @@ Slack command:
 
 This will sync this person as it is described aboved. You can find the team member's ID in Greenhouse by looking at the URL for the member in Greenhouse. It is an 11-digit number listed between /people/ and the ? symbol. It is recommended that you
 also create a [GitLab issue](https://gitlab.com/gitlab-com/people-group/peopleops-eng/employment-automation/issues/new?issuable_template=bug_with_greenhouse_bamboo_sync) so the team can investigate what went wrong.
-
-### Resync Team Member
-
-Sometimes a team member needs to be resynced (for example when the contract was changed _after_ it was signed). In that case the People Experience team can
-execute the following Slack command:
-
-```
-/pops run resyncnewhire <id_in_greenhouse>
-```
-
-This command will trigger a pipeline and the candidate will be fully resynced to the existing profile
-on BambooHR. You can find the team member's ID in Greenhouse by looking at the URL for the member in Greenhouse. It is an 11-digit number listed between /people/ and the ? symbol. When manual changes were made on the BambooHR profile there is a chance they are wiped out
-by the resync.

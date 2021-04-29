@@ -48,6 +48,7 @@ These awards and lists recognize GitLab's unique culture and help us spread the 
 - [Best Tech Companies For Remote Jobs in 2021 according to Glassdoor, Forbes](https://www.forbes.com/sites/louiscolumbus/2020/12/20/the-best-tech-companies-for-remote-jobs-in-2021-according-to-glassdoor/?sh=2922f81c2ceb)
 - [Fortune's Best Small & Medium Workplaces in 2020](https://www.greatplacetowork.com/best-workplaces/smb/2020?category=medium)
 - [Great Place to Work Certified, 2020-2021](https://www.greatplacetowork.com/certified-company/7013799)
+- [Best Engingeering Departments, Comparably, 2021](https://www.businessinsider.com/companies-with-the-best-engineering-teams-according-to-employees-comparably-2021-4#here-is-the-full-list-of-companies-with-the-best-engineering-departments-26)
 - [Best Startup Employers in 2020, Forbes](https://www.forbes.com/americas-best-startup-employers/#46146ae96527)
 - [Cloud 100 List, Forbes, 2020](https://www.forbes.com/cloud100/#12ceb6e35f94)
 - [No. 2 top private employer via Hired's Brand Health Report, 2020](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/09/22/the-top-40-brands-people-want-to-work-for-in-the-tech-industry/amp/)

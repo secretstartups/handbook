@@ -49,6 +49,8 @@ _**For team members legally able to work and live in the Netherlands, we should 
 - [GitLab GmbH, employment agreement without OTE](https://docs.google.com/document/d/15Hqgb6OsDSpqp9IkZaUBnV9PP14BNMmThbepwbHAp10/edit?usp=sharing)
 - [GitLab GmbH, employment agreement with OTE](https://docs.google.com/document/d/1N2FlH5CtKltSIem4Ad-aDo0pnPpeiHTV9pGhx8W4u8E/edit?usp=sharing)
 
+All German contracts are required to have wet signatures. Please note that these contracts will need to be mailed to both the signatory and the team member for signatures.
+
 ### Australia
 
 - [GitLab PTY Ltd, Australia, without OTE](https://docs.google.com/document/d/1syTv61Q0BvGlz9DnZ70Uu-XA3CrRsAHLs-KQ-YtVJ8U/edit?usp=sharing)
@@ -63,8 +65,8 @@ New Zealand new hires should use this New Zealand contract, which is governed by
 
 ### United Kingdom
 
-- [GitLab UK Ltd, without OTE](https://docs.google.com/document/d/1DkC6V1ldVtRQhKLUcTknirydSaxh5ZCSvlGsP1OTHdk/edit?usp=sharing)
-- [GitLab UK Ltd, with OTE](https://docs.google.com/document/d/1LE4FsdcDzH9MbwKtx1OIc4TUNOV9i1XGH3ln2SaJXXo/edit?usp=sharing)
+- [GitLab UK Ltd, without OTE](https://docs.google.com/document/d/1hIfMDgMBpN8QVbddsy45Eb_vhdC8j1ujq_SaPOKZVi0/edit?usp=sharing)
+- [GitLab UK Ltd, with OTE](https://docs.google.com/document/d/1GAI4iMQRxyJiOmXmhtDoMMqKFtWBPtpNpCNLqLsqR3k/edit?usp=sharing)
 
 ### Canada
 
@@ -77,6 +79,11 @@ New Zealand new hires should use this New Zealand contract, which is governed by
 
 - [GitLab GK employment agreement without OTE](https://docs.google.com/document/d/1X8A532swtBa5mu5Ri2YX5dEL-opzdn7S3OQAVGO2VS0/edit)
 - [GitLab GK employment agreement with OTE](https://docs.google.com/document/d/19XidNzEUObKppHuW7ciQza-jNOd5V6sFIcN7rbX4HdM/edit)
+
+### Ireland 
+
+[GitLab Ireland Ltd. without OTI](https://docs.google.com/document/d/1PcuUZ235HvmpIqh32NuLDfWSjEXSyF-ft38bb1uuXSA/edit?ts=606c674c#)
+[GitLab Ireland Ltd. with OTI](https://docs.google.com/document/d/1R_vvXJ1b-4MkBmot0I3LtUl3urUZxlOJiZ2Z4yzUSzo/edit?ts=606c6759#) 
 
 ### Other
 
@@ -149,7 +156,7 @@ If an exception request is made to end a probation period early, this should be 
 2. Save this email to the BambooHR profile.
 3. Update the BambooHR Job Status table with the new probation period.
 
-Current Entities and Co-employers with Probationary Periods:
+Current Locations With Probationary Periods:
 
 <% entities_with_prob = data.entity_mapper.select {|entity| entity.fetch('probation_months', 0) > 0}.sort_by {|k, v| k['country']}%>
 
@@ -176,7 +183,7 @@ Current Entities and Co-employers with Probationary Periods:
   </tbody>
 </table>
 
-Countries without Probation Periods:
+Locations without Probation Periods:
 
 <% entities_without_prob = data.entity_mapper.select {|entity| entity.fetch('probation', '') === 'None'}.sort_by {|k, v| k['country']}%>
 
@@ -259,9 +266,11 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 
 1. Using the Relocation & Contract Renewal's [tracker](https://docs.google.com/spreadsheets/d/14nDqTtM7zycvvyKIscW-kQTJ_25WWUFQvDz3jZTyWL0/edit#gid=1600318886) view the upcoming team member contract expiry date. On the sheet you will see the People Operations Specialist owner, if you are the owner be sure to note the end date and start the below process 2 months before the end date.
 1. Take note of the team members details and reach out to the team members manager via email using the following [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md), be sure to CC the team members People Business Partner.
-1. Once you have received confirmation on next steps from the team members line manager be sure to save the thread under the team members profile on BambooHR.
+1. Once you have received confirmation on next steps from the team members line manager, be sure to save the thread under the team members profile on BambooHR.
 1. Using the correct contract template from the [templates folder](https://drive.google.com/drive/u/0/folders/1KlKyfJ0wg42GJHzmRbggVs_pTI0xeJRH) complete with required team member details. These details can be found on the team members BambooHR profile.
 1. Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
+1. Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
+1. Remove any wording regarding Probation Period [if applicable](/handbook/people-group/contracts-probation-periods/#probation-period).
 1. When you have a completed contract be sure to allow a team member to peer review it for you. This can be done by posting the document link in the People Ops private slack channel. Indicate that you are reviewing it by using the 'Eyes' emoji.
 1. Once reviewed, stage the contract for signing in HelloSign.
 1. Ensure that the GitLab signatory is the first to sign, followed by the team member. This can be done by selecting the assign signing order option.
@@ -282,6 +291,9 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 1. At least 1 month before the end of the contract, the manager informs the team member of the extension or not. The [People Business Partner](/handbook/people-group/) can help with providing guidance on the messaging.
 1. The People Experience team documents the emails in the Contracts & Changes folder in BambooHR.
 1. If the contract extension is approved, the People Operations team creates the contract and stages it via HelloSign for the team member and Senior Director, People Success (on behalf of CPO if there is no current CPO) to sign.
+1. Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
+1. Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
+1. Remove any wording regarding Probation Period [if applicable](/handbook/people-group/contracts-probation-periods/#probation-period).
 1. Note: A second [probation period](/handbook/people-group/contracts-probation-periods/#probation-period) should only be implemented if the team member's new contract reflects the start of an [entirely new role](https://wsadvocaten.nl/probationary-period-netherlands-dutch-law/). If the contract is simply a continuation of employment in the current role, a second probation period should not be applied.
 1. The People Experience Team will then password-protect the signed contract and email to HR Savvy.
 
@@ -299,4 +311,5 @@ CXC contracts are issued on a yearly basis, with contracts expiry after one year
 - The People Operations Specialist or People Experience Associate will update the relevant employment status to the renewed dates in BambooHR and file the renewed contract in the `Contracts & Changes` folder.
 
 Standard practice is to automatically renew CXC contracts. The [offboarding process](https://about.gitlab.com/handbook/people-group/offboarding/) will apply should a team member be terminated voluntarily or involuntarily.
+
 

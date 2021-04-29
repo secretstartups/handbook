@@ -23,6 +23,26 @@ People Compliance works collaboratively with multiple functional teams throughou
 * Slack
    * The #peopleops Slack channel is the best place for questions relating to our team.
 
+## Defining People Compliance
+
+People compliance (or HR compliance in other organizations) is a process of defining policies and procedures to ensure our employment and work practices demonstrate a thorough understanding of applicable laws and regulations, while also being aware of GitLab's larger People Group objectives. These practices include our sourcing, screening, interviewing, hiring, onboarding, and offboarding stages. It also includes safeguarding confidential team member people data while employed.
+
+We at GitLab face increasing people complexities as the number of employment laws and regulations are consistently on the rise, and the risk of penalties for non-compliance has perhaps never been greater. When developing people policies and procedures, GitLab has to remember, for example, that:
+
+- GitLab must follow all employment laws, including applicable global regulations and all US federal, state, and local regulations.
+- GitLab may be subject to an audit from an enforcing agency that may levy heavy fines and penalties for non-compliance.
+- Not knowing or understanding your compliance obligations is not an acceptable legal defense.
+
+Understanding GitLab's strategic priorities lays the foundation for a better understanding of how compliance concerns may impact decisions. People Group goals should be designed to support company strategy, yet they must also consider different scenarios and the people compliance implications. People compliance practices will refine and influence activities such as hiring, employee development, and retention. 
+
+## People Compliance FY22 Goals
+
+* Complete United States-related People Compliance Assessment by external vendor
+* Partial Global People Compliance Assessment by external vendor (starting with 5 entities)
+* Non-discriminatory Hiring assessment 
+* Affirmative Action Plan Parameters in Place for accurate 2022 report
+* Recommendations, procedures, and audits put in place from above assessments
+
 ## People Compliance Core Competencies & Responsibilities
 
 All Responsibilities are listed in the [People Compliance job family page](https://about.gitlab.com/job-families/people-ops/people-compliance/), and they can be summarized as follows:
@@ -59,7 +79,6 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 * [Data Protection Impact Assessment (DPIA) Policy](/handbook/engineering/security/dpia-policy/) - GitLab's policies related to Data Protection.
 * [GitLab Audit Committee](/handbook/board-meetings/committees/audit/) - Information regarding GitLab's Audit Committee of the Board of Directors of GitLab Inc. 
 * [Total Rewards Audits](/handbook/total-rewards/total-rewards-audits/) - Information on some of our People Group audits.
-
 
 ## Performance Indicators
 
