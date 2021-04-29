@@ -62,7 +62,6 @@ Before facilitating a session, all facilitators will complete the following step
 1. Shadow a current faciliator when they are running and AMA
 1. Be shadowed by a current facilitator in your first AMA 
 
-
 **Current Facilitators:** 
 Template: "Name" - "Role", **Self Identified (Optional):** 
 
@@ -70,7 +69,13 @@ Template: "Name" - "Role", **Self Identified (Optional):**
 - Amanda Rueda - Diversity, Inclusion & Belonging Advisory Group Member, **Self Identified (Optional):** CIS gender Woman, Age: 45
 - Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman
 - Carol Teskey - Senior Director, People Success, **Self Identified (Optional):** CIS gender woman
-- - Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman
+- Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman
+
+#### Reverse AMA Hosts 
+
+Every Reverse AMA will be hosted by the Executive Business Partner for the E-Group Leader even when the leader is not an E-Group Member
+
+The Executive Business Partner alignment can be found [here](https://about.gitlab.com/handbook/eba/)
 
 
 **Things to remember:** 
