@@ -8,7 +8,7 @@ Based on the AARRR framework (Acquisition, Activation, Retention, Revenue, Refer
 classDiagram
   Acquistion --|> Activation
     Acquistion: Awareness - Are users aware of CI pipelines?
-    Acquistion: Measurement (Total count of CI Docs page views)
+    Acquistion: Measurement (Total count of users in GitLab Projects with access to `git write` or "SCM Users")
   Activation --|> Retention
     Activation: Use - Are users creating CI configurations/pipelines?
     Activation: Measurement (Total count of projects with .gitlab-ci.yml files)
