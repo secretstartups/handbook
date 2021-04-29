@@ -238,9 +238,12 @@ Expectations:
 
 | Month | Name |
 | ----- | ---- |
-| February 2021 | @alexives |
-| March 2021 | @mkozono | 
+| July 2021 | @aakriti.gupta |
+| June 2021 | @dbalexandre |
+| May 2021 | @mkozono |
 | April 2021 | @dbalexandre |
+| March 2021 | @mkozono | 
+| February 2021 | @alexives |
 
 ## Retrospectives
 
