@@ -28,6 +28,8 @@ To schedule the EBR, the SALSA/TAM meeting or AE/TAM sync is the best time to re
 
 During a cadence call, the TAM should bring up the topic of an EBR. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know key stakeholders should attend and ask them to start revewing calendars for an ideal time to schedule the EBR. After the cadence call, follow up with a [written summary of the EBR](#sample-ebr-email) and reiterate your ask for help in scheduling. It can take up to 3 months to find a good time for stakeholders to all be available to meet with us, so the earlier we can start the conversation the better.
 
+While we always want to include decision-makers and leadership to be involved with EBRs, if it's your first EBR with a customer we may only be able have our regular contacts attend. Use this opportunity to demonstrate the value of having leadership in EBRs going forward, so that the customer will be more inclined to ensure their leadership is involved for subsequent EBRs.
+
 Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR sell sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which TAMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
 
 #### Sample EBR Email
@@ -66,6 +68,7 @@ If no progress has been made on the CTA (no tasks have been completed) and there
 EBRs typically consists of the following content:
 
 1. Introductions to key team members/those present for the EBR
+    - This should be a brief roundtable for everyone to say their name & role for easy recognition throughout the call
 1. Overview/Update on GitLab
     - This is often especially valuable for the Economic Buyer in order to understand the full capabilities of GitLab
 1. Reiteration of the customer's goals and desired positive business outcomes as we understand them
@@ -84,7 +87,14 @@ Also to be considered:
 
 [Usage ping](https://docs.gitlab.com/ee/development/usage_ping/) can provide data to build the usage and growth story. If usage ping is not enabled, a [payload](https://docs.gitlab.com/ee/development/usage_ping/#usage-ping-payload) may be periodically requested from the customer. Extracting the payload is a simple process and only takes about 30 seconds. Some examples included in this data are historical and current user count, and CI build history. Please note usage ping only goes back 6 months, so it's worthwhile to keep old data for comparison in future EBRs.
 
-#### Examples
+#### Before the call 
+
+Besides creating the deck, there are a few other items to consider to ensure your EBR will go as smoothly as possible.
+
+1. Ask someone else who will be on the call (e.g. your manager) to take notes and create a Google doc for notes in the customer folder. Having a dedicated notetaker ensures that you're able to effectively lead the conversation as well as focus on your content instead of switching between windows.
+1. There are usually specific product areas that customers have special interest in, and having the Product Manager for that area on the call can be incredibly valuable. Once you've scheduled the EBR and determined which PM would be most appropriate, reach out to the PM to ask if they are available and willing to join the presentation with an overview of recently delivered product functionality, as well as what features will be coming within the next year. Also set expectations for the time commitment expected from them; for example, 15 or 30 minutes at the end of the EBR. Once you've confirmed their availability, add them to the calendar invite and share your deck with them and add a dedicated section of the deck for them to add slides to. Make sure you follow up 48 hours in advance of the EBR if they haven't added their content.
+
+#### EBR Examples
 
 To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1FfHBVMsY2a3cteylz7Alq-K43OmBPLylBoVdIccsO8g/edit?usp=sharing).  Please note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider removing elements such as product and support insights depending on most relevant content and time allotted.
 
