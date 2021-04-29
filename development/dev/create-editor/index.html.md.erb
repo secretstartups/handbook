@@ -1,7 +1,9 @@
 ---
 layout: handbook-page-toc
-title: "Create:Editor Team"
-description: "The Editor Team is part of the Create Stage. We focus on multiple categories: Web IDE, Snippets, Static Site Editor, and Wiki."
+title: 'Create:Editor Team'
+description: >-
+  The Editor Team is part of the Create Stage. We focus on multiple categories:
+  Web IDE, Snippets, Static Site Editor, and Wiki.
 ---
 
 ## On this page
@@ -118,10 +120,26 @@ The approach can be summarized like so:
 #### PM - EM
 
 Our team follows the general [Product Development Flow][product-development-flow] but this guide is intended to elaborate on a few elements to represent the team's internal flavor, emphasise certain points, and smooth the collaboration.
+#### Design
+
+- Feedback from the group will be solicited via the design management area of the related issue.
+    - The group with be a mentioned for general awareness
+    - Specific people will be mentioned when asking for direct feedback
+    - Designs still in the early stages will have the prefix of `concept` to the design files
+- When designs are ready for planning and development
+    - The designer will create a separate page in Figma called `Specifications` to collate what is to be the solution to be shipped.
+        - This design may change through learning more information during the building phase. Changes should be logged on the "Specifications" page in a changelog so that there is a history trail to follow.
+    - A section called "Solution" will be added to the issue along with a link to the "Specifications" Figma page. It is recommended that some screenshots are to be attached to explain the solution directly in the issue.
 
 #### Workflow labels
 
 Let's look at a few of the workflow labels we should take as important cornerstones of our development workflow.
+
+`workflow::design`
+
+This is the general label for all things design and validation. For issues that need further exploration in either design approach or validation, it is recommended to create a separate issue (see below). This is to make the parent issue easier to parse the important decisions when it comes to the build phase.
+- Design exploration: A separate issue will be created in the [gitlab-design](https://gitlab.com/gitlab-org/gitlab-design) project and linked to the parent issue.
+- Problem/solution validation: A separate issue will be created in the [ux-research](https://gitlab.com/gitlab-org/ux-research) project and linked to the parent issue.
 
 `workflow::planning breakdown`
 
@@ -242,10 +260,10 @@ Do not relate issue weight directly to time (see [GitLab's relevant guide on wei
 
 To cultivate engagement from the wider community, do not weight an issue according to a certain assignee or time estimate. This creates hidden coupling to the weight, which can deter the wider community from reading the weight in a meaningful way. Issue weights are a completely abstract measurement and should describe the weightiness of the issue as it stands by itself ([see relevant guideline][issue-weight-guideline]).
 
-* Weight 1: Really simple and small (for example, changing copy text or 1-2 lines of CSS). Most of these issues should have a `good for new contributors` and/or `Hackathon - Candidate` label attached.
-* Weight 2: Straightforward, but involves updating actual behavior (for example, fixing and testing a trivial bug).
-* Weight 5: Changing the behavior of pre-existing modules, or adding significant new behavior (for example, making the Web IDE left-sidebar collapsible).
-* Weight 9: Large fundamental rewrite and should probably be investigated for a more iterative approach.
+- Weight 1: Really simple and small (for example, changing copy text or 1-2 lines of CSS). Most of these issues should have a `good for new contributors` and/or `Hackathon - Candidate` label attached.
+- Weight 2: Straightforward, but involves updating actual behavior (for example, fixing and testing a trivial bug).
+- Weight 5: Changing the behavior of pre-existing modules, or adding significant new behavior (for example, making the Web IDE left-sidebar collapsible).
+- Weight 9: Large fundamental rewrite and should probably be investigated for a more iterative approach.
 
 ❗️Any weight going above 5 is usually a warning sign that the work is quite complex, and should probably be broken down into smaller issues.
 
@@ -262,12 +280,12 @@ The Editor Team communicates based on the following guidelines:
 1. By default communicate in the open.
 1. All work related communication in Slack happens in the [#g_create_editor][slack] channel.
 1. We use the following emoji reactions in Slack for conveying action when writing a response is unnecessary:
-    - e.g.: Added comment on an GitLab Issue, Left a note on a Google Doc.
     1. `:ack:` = acknowledgement as in I have taken note of the message/request and will action - not appropriate for questions (see `:thumbsup:`)
     1. `:thumbsup: ` = acknowledgement as in I agree with a statement/question - appropriate for binary questions asking approval/consensus (as in this one)
     1. `:thumbsdown:` = acknowledgement as in I disagree with a statement/question - appropriate for binary questions asking approval/consensus (as in this one) - encouraged to follow up with a text response
     1. `:white_check_mark:` = acknowledgement as in I have taken action on a request
     1. `:speech_balloon:` = acknowledgement as in I have added to the conversation with a comment/question outside of Slack.
+    - e.g.: Added comment on an GitLab Issue, Left a note on a Google Doc.
 
 ### Ad-hoc sync calls
 
@@ -285,9 +303,9 @@ When scheduling a sync call consider doing the following:
 
 As an engineering organization, we have defined a [default ratio for the number of Staff Engineers per team](https://about.gitlab.com/handbook/engineering/career-development/#gearing-ratios). While this makes sense for most teams, the Create:Editor team has a slightly different ratio due to the nature of the team.
 
-*Exception Ratio*: 2 Staff Engineers per Team
+_Exception Ratio_: 2 Staff Engineers per Team
 
-*Justification*: The default gearing ratio typically has a staff-level engineer for both backend and frontend technologies. This is aligned with teams having separate backend and frontend managers. Since the Create:Editor team is a fullstack team with one manager, the default gearing ratio would be to have only one staff engineer working with the one manager. The Create:Editor team is responsible for a large number of product categories. These categories not only span backend and frontend but require highly skilled engineer expertise on both sides.
+_Justification_: The default gearing ratio typically has a staff-level engineer for both backend and frontend technologies. This is aligned with teams having separate backend and frontend managers. Since the Create:Editor team is a fullstack team with one manager, the default gearing ratio would be to have only one staff engineer working with the one manager. The Create:Editor team is responsible for a large number of product categories. These categories not only span backend and frontend but require highly skilled engineer expertise on both sides.
 
 ## 🔗 Other Useful Links
 
