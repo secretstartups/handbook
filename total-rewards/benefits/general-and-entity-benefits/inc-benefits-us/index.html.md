@@ -21,7 +21,7 @@ US based benefits are arranged through [Lumity](https://lumity.helloflock.com/lo
 
 ![digital-benefits-guide-2021](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/digital-benefits-guide-2021.png)
 
-Please review the full [summary plan description](https://drive.google.com/file/d/1XGOniJ-lnUyPdSvE_ce1W5KZlTzjRyTK/view?usp=sharing) of all related health benefits.
+Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits.
 
 If you have any questions regarding benefits please reach out to Total Rewards directly. If you have any questions with the Lumity platform, feel free to reach out to their support personnel at `support@lumity.com` or `1-844-258-6489`.
 
