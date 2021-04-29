@@ -1,4 +1,4 @@
----
+z--
 layout: handbook-page-toc
 title: "GitLab Release Posts"
 description: "Guidelines to create and update release posts"
@@ -1769,7 +1769,7 @@ In this case, ruby is trying to load a file named `styled_yaml`. It's not clear 
 
 2. Ruby mismatch
 
-If you have a ruby version manager installed, you may receive an error in your terminal along the lines of `ruby  2.6.6  Not installed. Run "asdf install ruby 2.6.6"`
+If you have a ruby version manager installed, you may receive an error in your terminal along the lines of `ruby  3.0.0  Not installed. Run "asdf install ruby 3.0.0"`
 
 It's possible that your ruby version is out of date with what is required to run handbook scripts. You should be able to run `./bin/doctor` to compare your current ruby version with that in the `.tool-versions` file.
 
@@ -1777,9 +1777,9 @@ It's possible that your ruby version is out of date with what is required to run
 
 To install Ruby in the most popular ruby version managers, try:
 
-- For asdf, run the following: `asdf install ruby 2.6.6`
-- For rbenv, run the following: `brew upgrade rbenv ruby-build && rbenv install 2.6.6`
-- For rvm, run the following: `rvn install 2.6.6`
+- For asdf, run the following: `asdf install ruby 3.0.0`
+- For rbenv, run the following: `brew upgrade rbenv ruby-build && rbenv install 3.0.0`
+- For rvm, run the following: `rvm install 3.0.0`
 
 If you're uncomfortable or encounter have difficulty here, you can reach out to the [release post DRI](https://gitlab.com/fseifoddini) for advisement.
 
