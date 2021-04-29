@@ -36,12 +36,14 @@ At times GitLab needs to communicate a "breaking" change or details related to a
       * Creating [Form request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request)
       * Creating [Landing Page request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request)
 * Providing approval list and who signs off on the email
+* Notifying affected field teams (Customer Success, TAM, SAL/AE, SA, Professional Services)
 * Approving test email 
 * Providing any edits to the test email
 * Providing send time and date 
 * Approving all other materials and workflows (landing pages, forms, completion actions)
 
-### Email team are responsible for: 
+
+### Email team is responsible for: 
 * Providing a timeline based on the request
 * Creating epic and some issues (all except for the target list or email request issues)
 * Building the email program and actual emails in Marketo (or sending platform of choice)
@@ -74,11 +76,20 @@ This is the process to follow when there is an announcement that is an emergency
 - Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue/carrier pigeon!
 - List size and complexity will determine what [email platform](/handbook/marketing/emergency-response/#email-platform-to-use) we will need to use. 
 
-### 4. **Email Ready to Deploy**
-- Email team will send a sample to the requestor and stakeholders for their review - preferably, there is a quick Zoom sync to double check send size, variable fields, email copy and time of send.
-- Requestor must approve in the issue before the email will be sent.
+### 4. Approvals
 
-### 5. **Email Launched** 
+The following approvers are needed for the copy and list size:
+ - Vice President of Customer Success
+ - Vice President of the function who is initiating the communication (i.e., Security, Engineering, Infrastructure)
+ - Marketing Operations Manager
+ - Appropriate field teams driven by the scope of customers receiving the communication (SAL/AE, SA, TAM, Professional Services)
+ 
+
+ ### 5. **Email Ready to Deploy**
+- Email team will send a sample to the requestor and approvers for their review - preferably, there is a quick Zoom sync to double check send size, variable fields, email copy and time of send.
+- Requestor and approvers must approve in the issue before the email will be sent.
+
+### 6. **Email Launched** 
 - The email team will provide stats minutes after launch, and at a cadence determined by the announcement team as necessary. 
       - Note: Full email stats are matured at 48 hours.
 - Inbox monitoring will be done by the requestor team, unless otherwise stated.
@@ -122,7 +133,7 @@ You can page the on-call Marketing Ops via entering `/pd` trigger command in any
 {: #customer-comms-email .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-This section should be used for non-emergency, planned customer communications. As much as possible, we will work across all teams at GitLab to understand upcoming needs to communicate via email to customers.
+This section should be used for non-emergency, planned customer communications. As much as possible, we will work across all teams at GitLab to understand upcoming needs to communicate via email to customers. All customer communications need to be approved by the Vice President of Customer Success.
 
 ### Epic Code & Issues
 {: #customer-comms-epic-issues .gitlab-purple}
