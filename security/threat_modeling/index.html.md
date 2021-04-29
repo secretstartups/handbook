@@ -18,15 +18,11 @@ Within the context of GitLab, there are different risks we evaluate. Will my cod
 
 ## Getting Started
 
-Here are a few resources to help get you started in threat modeling.
+Here are a few resources to help get you started in threat modeling:
 
-### HowTo guide
-
-We've compiled a beginner friendly [howto guide to threat modeling](/handbook/security/threat_modeling/howto.html).
-
-### Issue Template for Threat Modeling
-
-We've developed an issue template which is available [here](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models) (private link). The idea would be to open an issue and work through the template, documenting everything.
+We've developed an issue template available [here](https://gitlab.com/gitlab-com/gl-security/appsec/threat-models/-/issues/new?issuable_template=Threat%20Model) (private link) that you can use to create an issue documenting your threat model.
+There's also a beginner-friendly [how-to guide to threat modeling](/handbook/security/threat_modeling/howto.html) which you should read if you're 
+new to threat modeling.
 
 ### Samples of PASTA Evaluations
 
