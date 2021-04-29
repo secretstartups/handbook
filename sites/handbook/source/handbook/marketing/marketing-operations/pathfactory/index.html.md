@@ -199,6 +199,13 @@ Track labels are used to document the channels that a content track is distribut
 
 Track folders are set up by team as different teams within marketing use and distribute content tracks for various use cases. This helps to ensure that team members only make change to content tracks within their team folder. 
 
+### Forms
+
+When naming forms, please follow the naming convention:
+
+1. WIP forms: `[WIP] - Language - Purpose - Marketo Form ID` (example: `[WIP] Korean - Contact Us - 2963`)
+1. Live forms: `[LIVE] - Language - Purpose - Marketo Form ID`  (example: `[LIVE] Korean - Contact Us - 2963`)
+
 ## Content Tracks
 
 Before creating a new content track, decide what type of content track (target vs. recommend) you want to create. Use the criteria below to decide the best option:
