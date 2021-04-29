@@ -113,7 +113,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
 1. The host of the GC needs to make sure to add the link of the presentation to the Group Conversation Agenda Document invite at least 24 hours _before_ the call takes place. This allows team members to see the presentation, to click links, have [random access](https://twitter.com/paulg/status/838301787086008320) during the presentation,  and to quickly scan the presentation if they missed it. Please also add who the speaker will be to the presentation and the invite. The EBA Team will ping the appropriate team member at the 24-hour mark if the event hasn't been updated yet.
-1. Post links to the Group Conversation Agenda Document and the slides or video in the #whats-happening-at-gitlab channel 24 hours before the call.
+1. Post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document and the slides or video in the #whats-happening-at-gitlab channel 24 hours before the call.
 1. Consider blocking off the 30 minutes before your scheduled to lead a Group Conversation
 
 #### Presentation
