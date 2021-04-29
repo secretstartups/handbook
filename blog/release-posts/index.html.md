@@ -1,4 +1,4 @@
-z--
+---
 layout: handbook-page-toc
 title: "GitLab Release Posts"
 description: "Guidelines to create and update release posts"
