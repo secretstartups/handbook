@@ -268,7 +268,7 @@ GitLab offers company paid basic life and accidental death and dismemberment (AD
 
 ## Group Long-Term and Short-Term Disability Insurance
 
-GitLab provides a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500. 
+GitLab provides a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500. For more information please see the Cigna [flyer](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing)
 
 **GitLab Process for Disability Claim**
 
