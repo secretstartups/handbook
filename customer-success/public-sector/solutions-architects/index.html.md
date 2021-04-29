@@ -96,7 +96,9 @@ A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x 
 A: [See this GitLab Epic](https://gitlab.com/groups/gitlab-org/-/epics/2068)
 
 
+### Campus Program Technical Evaluation Playbook
 
-### Campus program tech eval framework
-<<<Narritive>>>
-[framework] (https://docs.google.com/spreadsheets/d/1vyRgC2auX0RYp34nqMMp8xr0YllhsVfxJ3EnGImtM9k/edit?usp=sharing)
+The GitLab for Campuses program introduced flat rate pricing for universities based on size. In order for these campuses to evaluate GitLab's fit for their schools, labs, and students, a campus technical evaluation playbook was created.  The playbook covers personas, meeting types, options and outcomes associated with an ideal 4 to 8 week evaluation of GitLab for campuses with minimal to moderate knowledge of GitLab.
+
+Solutions Architects can use this playbook to guide campuses through an evaluation of GitLab's broad technical capabilities. The [playbook](https://docs.google.com/spreadsheets/d/1vyRgC2auX0RYp34nqMMp8xr0YllhsVfxJ3EnGImtM9k/edit?usp=sharing) is accessibly by GitLab team members only.
+
