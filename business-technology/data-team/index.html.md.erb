@@ -37,22 +37,29 @@ The Data Team Handbook contains a large amount of information! To help you navig
 
 The collective set of people, projects, and initiatives focused on advancing the state of data at GitLab is called the **GitLab Data Program**. GitLab has two primary distinct teams within the Data Program who use data to drive insights and business decisions. These teams are complementary to one another and are focused on specific areas to drive a deeper understanding of trends in the business. The two teams are the (central) Data Team and, separately, analysts located in Sales, Marketing, Product, Engineering or Finance.
 
-- The **Data Team** reports into Business Technology and is the Center of Excellence for analytics, analytics technology, operations, and infrastructure. The Data Team is also responsible for analytics strategy, building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), providing [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities, maintaining the [data platform](/handbook/business-technology/data-team/platform/#our-data-stack), and monitoring and measuring data accuracy. The Data Team is responsible for data that is defined and accessed on a regular basis by GitLab team members from the [Snowflake Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/#data-warehouse). The Data Team builds data infrastructure to power approximately 80% of the data that is accessed on a regular basis.
+- The **Data Team** reports into Business Technology and is the Center of Excellence for analytics, analytics technology, operations, and infrastructure. The Data Team is also responsible for analytics strategy, building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), providing [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities, maintaining the [data platform](/handbook/business-technology/data-team/platform/#our-data-stack), developing [Data Pumps](/handbook/business-technology/data-team/platform/#data-pump), and monitoring and measuring [Data Quality](/handbook/business-technology/data-team/data-quality/). The Data Team is responsible for data that is defined and accessed on a regular basis by GitLab team members from the [Snowflake Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/#data-warehouse). The Data Team builds data infrastructure to power approximately 80% of the data that is accessed on a regular basis.
 
 - **Sales, Marketing, Product, Engineering and Financial Analysts**, or “Function Analysts” reside in their respective functions. These analysts perform specific analysis for data that is within the function. These analysts will build dashboards based on the centralized trusted data model for regular analysis, and will also build function-specific/ad-hoc data models to solve pressing needs. Function analysts work closely with the Data Team. Function analyst team members provide requirements for new trusted data dashboards, validate metrics, and help drive prioritization of work asked of the Data Team. When data gaps are found in our business processes and source systems, the team members will provide requirements to product management, sales ops and marketing ops to ensure the source systems capture the correct data.
 
 ### How Data Teams Work Together
 
-On a normal basis, the Data Team and Function Analyst teams work in a "Hub & Spoke" model, with the central Data Team in Business Technology serving as the "Hub" and Center of Excellence for analytics, analytics technology, operations, and infrastructure, while the "Spokes" represent each Division or Departments analysts. Function analysts develop deep subject matter expertise with their area and leverage the Data Team when needed.  From time to time, the Data Team can provide limited development support for GitLab Departments that do not yet have dedicated Function Analysts or those teams which do have dedicated Function Analysts, but might need additional support. The teams interact together through these [Slack #data channel](https://gitlab.slack.com/messages/data/) and the [GitLab Data Project](https://gitlab.com/gitlab-data/).
+On a normal operational basis, the Data Team and Function Analyst teams work in a "Hub & Spoke" model, with the Data Team serving as the "Hub" and Center of Excellence for analytics, analytics technology, operations, and infrastructure, while the "Spokes" represent each Division or Departments Function analysts. Function analysts develop deep subject matter expertise in their specific area and leverage the Data Team when needed.  From time to time, the Data Team provides limited development support for GitLab Departments that do not yet have dedicated Function Analysts or those teams which do have dedicated Function Analysts, but might need additional support. The teams interact together through the [Slack #data channel](https://gitlab.slack.com/messages/data/), the [GitLab Data Project](https://gitlab.com/gitlab-data/), and ad-hoc meetings.
 
 ```mermaid
 classDiagram
     Sales <|-- Data
+        Sales : +Sales Analyst
     Marketing <|-- Data
+        Marketing : +Marketing Analyst
     Product <|-- Data
+        Product : +Product Analyst
     Engineering <|-- Data
+        Engineering : +Operations Analyst
+        Engineering : +Infrastructure Analyst
     Finance <|-- Data
+        Finance : +Financial Analyst
     People <|-- Data
+        People : +People Analyst
     Data : +Data Analyst
     Data : +Analytics Engineer
     Data : +Data Engineer
@@ -61,22 +68,26 @@ classDiagram
 
 ### Data Fusion Teams
 
-To support stable business workflows and longer-term initiatives, the Data Team has deployed three sub-teams, or **Data Fusion Teams**. The three Data Fusion Teams collaborate with Function Department Leadership and Function Analysts towards development of complete data solutions, including new Data Models, Data Pipelines, Dashboards, and ad-hoc analysis. Data Fusion Teams are staffed with the appropriate set of team members required to develop a full data solution. The Data Fusion Teams meet on a weekly basis, define, review, and align on priorities, define quarterly objectives, and collaborately develop successful data solutions.
+To support stable business workflows and longer-term initiatives, the Data Team has deployed three sub-teams, or **Data Fusion Teams**. The three Data Fusion Teams collaborate with Function Department Leadership and Function Analysts towards development of data solutions, including Dashboards, Data Models, Data Pipelines, Data Pumps, and ad-hoc analysis. Data Fusion Teams are staffed with the appropriate set of team members required to develop a full data solution. The Data Fusion Teams meet on a weekly basis, define, review, and align on priorities, define quarterly objectives, and collaborately develop successful data solutions.
 
-- The **Go-To-Market** Data Fusion Team focuses on the activities required to bring GitLab's products and services to the marketplace and measuring the business performance of these activities. The team meeets on a weekly basis and covers topics defined in the [GTM Weekly Agenda](https://docs.google.com/document/d/1m-SygSyUqEcfd276_Jb1ZARMXIb4Z8clDF0eoxmudyw/edit#), while the teams priorities are defined in the [GTM Data Priorities](https://docs.google.com/spreadsheets/d/1EyjWw3-0iFt0oil95U15X8rFGj1aKrSYVYV1GMzWfq4/edit#gid=1029287785) sheet. Staff allocation is defined in [Team Organization](/handbook/business-technology/data-team/organization/#-team-organization).
+- The **Go-To-Market** Data Fusion Team focuses on the activities required to bring GitLab's products and services to the marketplace and measuring the business performance of these activities. The team meeets on a weekly basis and covers topics defined in the [GTM Data Weekly Agenda](https://docs.google.com/document/d/1m-SygSyUqEcfd276_Jb1ZARMXIb4Z8clDF0eoxmudyw/edit#), while the teams priorities are defined in the [GTM Data Priorities](https://docs.google.com/spreadsheets/d/1EyjWw3-0iFt0oil95U15X8rFGj1aKrSYVYV1GMzWfq4/edit#gid=1029287785) sheet. Data Team staff allocation is defined in [Team Organization](/handbook/business-technology/data-team/organization/#-team-organization).
 
-- The **Research & Development** Data Fusion Team focuses on understandung how GitLab's products are used by customers, towards the goal of developing complete customer intelligence and product intelligence capabilities to make better decisions. The team meeets on a weekly basis and covers topics defined in the [R&D Weekly Agenda](https://docs.google.com/document/d/1CRIGdNATvRAuBsYnhpEfOJ6C64B7j8hPAI0g5C8EdlU/edit#), while the teams priorities are defined in the [GR&DTM Data Priorities](https://docs.google.com/spreadsheets/d/1hCAY4tW0vbsYadHQzoGQ59aZmcMz2daumvuH3JwgarA/edit#gid=2036283287) sheet. Staff allocation is defined in [Team Organization](/handbook/business-technology/data-team/organization/#-team-organization).
+- The **Research & Development** Data Fusion Team focuses on understandung how GitLab's products are used by customers, towards the goal of developing complete customer intelligence and product intelligence capabilities to make better decisions. The team meeets on a weekly basis and covers topics defined in the [R&D Data Weekly Agenda](https://docs.google.com/document/d/1CRIGdNATvRAuBsYnhpEfOJ6C64B7j8hPAI0g5C8EdlU/edit#), while the teams priorities are defined in the [R&D Data Priorities](https://docs.google.com/spreadsheets/d/1hCAY4tW0vbsYadHQzoGQ59aZmcMz2daumvuH3JwgarA/edit#gid=2036283287) sheet. Data Team staff allocation is defined in [Team Organization](/handbook/business-technology/data-team/organization/#-team-organization).
 
-- The **General & Administrative ** Data Fusion Team focuseson organization performance primarily around the contributions of GitLab teams and People metrics. The G&A Fusion Team is currently under construction and we expect to launch the team later in FY22. The "team" currently meets on a weekly basis as part of the [Engineering & Data Team Weekly Sync](https://docs.google.com/document/d/1ekImsdsldcYNnNhWkI0pTZldjgRoJDaq6odo2BgKhQM/edit?usp=sharing). Staff allocation is defined in [Team Organization](/handbook/business-technology/data-team/organization/#-team-organization).
+- The **General & Administrative** Data Fusion Team focuses on organization performance of GitLab teams, including People metrics. The G&A Fusion Team is currently `under construction` and is expected to launch in late FY22. The team currently meets on a weekly basis as part of the [Engineering & Data Team Weekly Sync](https://docs.google.com/document/d/1ekImsdsldcYNnNhWkI0pTZldjgRoJDaq6odo2BgKhQM/edit?usp=sharing). Data Team staff allocation is defined in [Team Organization](/handbook/business-technology/data-team/organization/#-team-organization).
 
 ### Data Job Families
 
-- Data Analyst https://about.gitlab.com/job-families/finance/data-analyst/
-- Data Engineer https://about.gitlab.com/job-families/finance/data-engineer/
-- Data Scientist https://about.gitlab.com/job-families/finance/data-science/ 
-- Data Manager https://about.gitlab.com/job-families/finance/manager-data/ 
+The job families are designed to support all of the routine activities expected of a Data Team. In FY22 we expect to introduce two new job families, Data Scientist and Analytics Engineer.
 
-## <i class="fas fa-bullhorn fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Connect With Us
+- [Data Analyst](https://about.gitlab.com/job-families/finance/data-analyst/)
+- [Data Scientist](https://about.gitlab.com/job-families/finance/data-science)
+- Analytics Engineer (`under construction`) 
+- [Data Engineer](https://about.gitlab.com/job-families/finance/data-engineer/)
+- [Manager, Data](https://about.gitlab.com/job-families/finance/manager-data/)
+- [Director, Data](https://about.gitlab.com/job-families/finance/dir-data-and-analytics/)
+
+## How To Connect With Us
 
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://gitlab.slack.com/messages/data/" class="btn btn-purple" style="width:30%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">#Data Slack Channel</a>
@@ -86,7 +97,7 @@ To support stable business workflows and longer-term initiatives, the Data Team 
 </div>
 <br>
 
-### Data Team Slack Channels
+### Slack
 
 The Data Team primarily uses these channels on Slack:
 
@@ -124,6 +135,7 @@ You can tag the Data Team in GitLab using:
 ### Data Team Handbook Structure
 
 - [Dashboards & Data You Can Use](/handbook/business-technology/data-team/data-catalog)
+- [Data Learning and Resources](/handbook/business-technology/data-team/learning-library)
 - [How The Data Team Works](/handbook/business-technology/data-team/how-we-work)
     - [Planning Drumbeat](/handbook/business-technology/data-team/planning)
     - [Calendar](/handbook/business-technology/data-team/how-we-work/calendar)
@@ -131,6 +143,7 @@ You can tag the Data Team in GitLab using:
     - [Data Analytics Team](/handbook/business-technology/data-team/organization/analytics/)
     - [Data Engineering Team](/handbook/business-technology/data-team/organization/engineering)
     - [Data Team Principles](/handbook/business-technology/data-team/principles)
+    - [Data Handbook Documentation](/handbook/business-technology/data-team/documentation)
 - [How The Data Platform Works](/handbook/business-technology/data-team/platform)
     - [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope)
     - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide)
@@ -149,6 +162,3 @@ You can tag the Data Team in GitLab using:
     - [Data Champion](/handbook/business-technology/data-team/direction/data-champion/)
     - [Data Quality](/handbook/business-technology/data-team/data-quality)
     - [Data Services](/handbook/business-technology/data-team/data-service)
-- [Data Handbook Documentation](/handbook/business-technology/data-team/documentation)
-- [Data Learning and Resources](/handbook/business-technology/data-team/learning-library)
-
