@@ -283,6 +283,17 @@ All team-member laptops must be securely erased before being returned.
 This not only protects the company, but also protects you since it is possible for personal information to exist on these machines.
 Reformatting a computer is not sufficient in these cases because it is possible for sensitive data to be recovered after reinstalling an operating system.
 
+## Gitlab Asset Management
+
+### Snipe-IT
+
+The Team Member Enablement Team has been busy iterating and and setting up [Snipe-IT open source asset management](https://snipeitapp.com/). As of April 2021 Gitlab now has an asset tracking application that will be used as a source of truth for all Gitlab hardware! If you are a member of Gitlab you can sign in and view the application at https://snipeit.gitlab.net/ (Use your Okta credentials). 
+
+How does it work exactly?
+
+Im glad you asked! We installed and configured the application in a GCP virtual machine, we setup an integration with Jamf and our Okta LDAP directory to automatically sync users and laptop information from Jamf. Linux machines will be imported manually through the apps web interface.
+If you would like a more detailed view of whats been completed and what will come in the future please check out the [master issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/296) for Snipe-IT.
+
 ## Other Resources
 
 ### Okta

@@ -26,7 +26,7 @@ description: "Sisense For Cloud Data Teams‎ at GitLab"
 ### Self-Service Dashboard Access
 
 1. Everyone at GitLab is provided a **View-only** license to [Sisense](https://app.periscopedata.com/app).
-1. View-only provides access all non-sensitive Dashboards, including those regularly reviewed during [Key Meetings](/handbook/key-meetings/).
+1. View-only provides access all non-sensitive Dashboards, including those regularly reviewed during [Key Reviews](/handbook/key-review/).
 1. Login to Sisense with [Okta](/handbook/business-technology/okta/).
 
 ### Self-Service Dashboard Development

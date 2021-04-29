@@ -234,6 +234,7 @@ Key points to remember:
     - GitLab.com data with tables stored in `raw.tap_postgres.gitlab_db_*` would have source models in `prep.gitlab_dotcom`
     - Customers.gitlab.com data with tables stored in `raw.tap_postgres.customers_db_*` would have source models in `prep.customers_db`
 - These models should be organized by source - this will usually map to a schema in the raw database
+- The name of source models should end with `_source`
 - Only source models should select from source/raw tables
 - Source models should not select from the `raw` database directly. Instead, they should reference sources with jinja, e.g. `FROM {{ source('bamboohr', 'job_info') }}`
 - Only a single source model should be able to select from a given source table
