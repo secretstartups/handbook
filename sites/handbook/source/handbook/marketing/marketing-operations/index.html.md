@@ -70,6 +70,10 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 - [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
 - [#hbupdate-mktgops](https://gitlab.slack.com/archives/mktgops) - This channel is used to automatically post new [handbook updates](#handbook-updates) that have been merged. 
 
+**Emergency Comms and Pager Duty**
+
+If an emergency communication needs to be send out, Marketing Ops will need to assist. Follow directions on this [page](/handbook/marketing/emergency-response) to initiate the emergency response. You can also follow the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan) for security related issues.
+
 ## <i class="far fa-life-ring" id="biz-tech-icons"></i> How to Get Help
 
 **Important**: Before submitting an issue that may contain [Personally Identifable Information (PII) data](https://about.gitlab.com/handbook/support/workflows/pii_removal_requests.html#overview) (including screenshots), please ensure the issue is marked confidential. You can use [quick actions](https://docs.gitlab.com/ee/user/project/quick_actions.html#issues-merge-requests-and-epics) to accomplish this in the issue description priort to submitting.
@@ -219,12 +223,6 @@ The Marketing Operations team had started an experiment on 2020-04-20 to commit 
 ### Marketing Changelog
 
 Periodically Marketing Operations and other teams through the marketing org make significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [changelog](https://docs.google.com/spreadsheets/d/1FHiKhQukMVfwKsBJDzyrsuzuw2bv97xQFhegvFXTeNQ/edit#gid=0). The MktgOps and Strategy/Perf teams update this document as needed as changes are made. If you are working on an issue or epic that will have a significant impact across marketing, add the label `MktgOps - changelog` so marketing oeprations can track changes across GitLab.
-
-### PagerDuty and Emergency Comms
-
-In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
-
-If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan). Follow directions on this [page](/handbook/marketing/emergency-response) to initiate the emergency response, and contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
 
 
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
