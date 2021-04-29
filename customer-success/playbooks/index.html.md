@@ -69,12 +69,13 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Stage Adoption: Configure | **Yes** | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Monitor   | **Yes** | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Protect    | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Selling Ultimate to New Customers   | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Ultimate uptier for existing customers  | **Yes** | Manual | Success Plan | Stage Adoption | |
+| Selling Ultimate to New Customers   | **Yes** | Manual | Success Plan | ROI Success | |
+| Ultimate uptier for existing customers  | **Yes** | Manual | Success Plan | ROI Success | |
 | Server Migration - On-Prem to On-Prem    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - On-Prem to Self-Managed Cloud    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - On-Prem/Cloud to K8S    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - Self-Managed to GitLab SaaS    |**Yes** | Manual | Success Plan | Stage Adoption | |
+| Geo Implementation  |**Yes** | Manual | Success Plan | ROI Success | |
 | Account Triage | **Yes** | Automated | CTA | Risk |      |
 | Low License Utilization | **Yes** | Automated | CTA | Risk |      |
 | Product Risk | **Yes** | Manual | CTA | Risk |      |
