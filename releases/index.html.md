@@ -66,6 +66,13 @@ version is created and published.
 
 Our [maintenance policy] describes in detail the cadence of our major, minor and patch releases for self-managed users. The major release yearly cadence was defined [after an all stakeholder discussion](https://gitlab.com/gitlab-com/Product/issues/50).
 
+## Security
+The security of the software we ship must be everyones responsibiltiy as is the quality.  It can be a daunting task to deliver quality software securely.  GitLab has processes in place to help with application and code security reviews through the Secruity Departments' [Application Security (AppSec) team](/handbook/engineering/security/#application-security).  If you're unsure about the security implications of an addition to a code-base, the AppSec team can be included (`@gitlab-com/gl-security/appsec`) in the review to help.
+
+Supply-chain attacks like the [SolarWinds attack](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html) that occurred in March, 2020 are especially cumbersome and yet critical to defend.  These attacks take many forms and allow actors to infect a multitude of systems without having to target individuals explicitly with phishing attacks or the like as an example.  The efficiency of these types of attacks has made them more prevalent in recent years.  Code reviews and [tooling aimed at defending these types of attacks](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/58780) are our first line of defense.
+
+During the code review process, should evidence be found of a security flaw that needs further investigation, the [Security Incident Response Team (SIRT) can be engaged](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html) to help.  If you need to immediately stop a release for further investigation, any GitLab team member can [report an incident to the Infrastructure team](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).  GitLab also has an [incident communication plan in place](/handbook/marketing/corporate-marketing/incident-communications-plan/) depending on the circumstances surrounding an incident.
+
 ## Timelines
 
 The only guaranteed date throughout the release cycle is the 22nd. On this date,
