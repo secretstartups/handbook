@@ -23,8 +23,6 @@ Gainsight holds a lot of information and is great for reporting, but there can b
 
 TBD
 
-
-
 ### Account Profile
 
 TBD
