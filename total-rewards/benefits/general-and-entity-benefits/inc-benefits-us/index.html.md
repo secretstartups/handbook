@@ -313,7 +313,7 @@ The company offers a 401k plan in which you may make voluntary pre-tax contribut
 
 GitLab offers matching 50% of contributions on the first 6% of allocated earnings with a yearly cap of 1,500 USD. As you are eligible to participate in GitLab's 401k as of your hire date, you are *also* eligible for GitLab matching contributions as of your hire date.
 
-All employer contributions are pre-tax contributions. Team members can still make Roth team member contributions and receive pre-tax employer contributions.
+All employer contributions are pre-tax contributions. Team members can still make Roth 401(k) team member contributions and receive pre-tax employer contributions to your Traditional 401(k) account.
 
 **Vesting:**
 
