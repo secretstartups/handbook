@@ -230,6 +230,21 @@ For additional security specifically when travelling through an airport, the fol
 
 Our top priority is the health and safety of our team members. 
 
+### Covid-19 Travel Working Group
+The COVID-19 Travel WG is comprised of the Covid Response Committee that was formed in 2020. Members are: Chief People Officer, Chief Legal Officer, Chief Marketing Officer and Chief Revenue Officer with additional support by the Staff EBA and Principal Internal Communications Manager. This group meets once monthly for 25min to review the current travel guidance around COVID-19. The meeting generally occurs on the second Thursday of every month which began on 2021-03-11
+
+Meeting Schedule:
+1. 2021-03-11
+1. 2021-04-13
+1. 2021-05-13
+1. 2021-06-10
+1. 2021-07-08
+1. 2021-08-12
+1. 2021-09-09
+1. 2021-10-14
+
+These meetings are subject to change and we will continue to evaluate the frequency of them. The Principal Internal Communications manager is responsible for drafting any shareable updates as a result of the meeting, which include MRs and messaging around changes to the travel guidance on this page. 
+
 ### International Travel
 GitLab has suspended all cross-border business travel until further notice. If you have international travel booked, please contact your
 travel service to cancel or update your itinerary. Instructions to assist you with this process can be found below. If you are currently traveling internationally, please return home as soon as practical. If you have future travel booked during the suspension period, please cancel.
