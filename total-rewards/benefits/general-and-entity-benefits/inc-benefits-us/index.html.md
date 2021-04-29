@@ -264,11 +264,11 @@ For out-of-network services: 365 days from Date of Service.
 
 ## Basic Life Insurance and AD&D
 
-GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage.
+GitLab offers company paid basic life and accidental death and dismemberment (AD&D) plans through Cigna. The Company pays for basic life insurance coverage valued at two times annual base salary with a maximum benefit of $250,000, which includes an equal amount of AD&D coverage. For more information please see the [summary of benefits](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing).
 
 ## Group Long-Term and Short-Term Disability Insurance
 
-GitLab provides a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500. For more information please see the Cigna [flyer](https://drive.google.com/file/d/1rkA8n3zgZvnoiqzu3ZJuLwZ_9zMaNbZW/view?usp=sharing)
+GitLab provides a policy through Cigna that may replace up to 66.7% of your base salary, for qualifying disabilities. For short-term disability there is a weekly maximum benefit of $2,500; for long-term disability there is a monthly benefit maximum of $12,500. 
 
 **GitLab Process for Disability Claim**
 
