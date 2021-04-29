@@ -95,3 +95,8 @@ A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x 
 
 A: [See this GitLab Epic](https://gitlab.com/groups/gitlab-org/-/epics/2068)
 
+
+
+### Campus program tech eval framework
+<<<Narritive>>>
+[framework] (https://docs.google.com/spreadsheets/d/1vyRgC2auX0RYp34nqMMp8xr0YllhsVfxJ3EnGImtM9k/edit?usp=sharing)
