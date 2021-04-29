@@ -71,7 +71,7 @@ Stage 4-5
 
 A customer-distributable [Success Management data sheet](https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68) as well as an [accompanying slide presentation](https://docs.google.com/presentation/d/1xh-ZNm9xyKau6UHQtAyoYjMqf5kO9HYVU2y0O2LwQxM/edit#slide=id.g92b7b0fa4f_0_68) are available for use to guide the customer discussion. These resources are only available to GitLab team members.
 
-### OpenShift FAQ
+## OpenShift FAQ
 
 FAQ for customer engagements when customers are using OpenShift
 
@@ -94,4 +94,10 @@ A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x 
 **Q: How can I (or my customer) track the integration status?**
 
 A: [See this GitLab Epic](https://gitlab.com/groups/gitlab-org/-/epics/2068)
+
+## Campus Program Technical Evaluation Playbook
+
+The GitLab for Campuses program introduced flat rate pricing for universities based on size. In order for these campuses to evaluate GitLab's fit for their schools, labs, and students, a campus technical evaluation playbook was created.  The playbook covers personas, meeting types, options and outcomes associated with an ideal 4 to 8 week evaluation of GitLab for campuses with minimal to moderate knowledge of GitLab.
+
+Solutions Architects can use this playbook to guide campuses through an evaluation of GitLab's broad technical capabilities. The [playbook](https://docs.google.com/spreadsheets/d/1vyRgC2auX0RYp34nqMMp8xr0YllhsVfxJ3EnGImtM9k/edit?usp=sharing) is accessibly by GitLab team members only.
 
