@@ -129,6 +129,7 @@ The only exception to this should be for executive roles. Please just forward th
 GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) with employment verifications.
 
 - Once a candidate is moved to the reference check stage, the recruiter should ping `@ces` to kick off the reference check process
+   - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES should send the job requisition to the legal team via the #legal slack channel during Reference/Background check phase to determine whether or not the role is a position of trust. 
 - CES will send the Reference Check email via Guide
    - CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-19hm-complete-references) with recruiter in cc via email using the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
 - The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initiate the background check process.
