@@ -135,7 +135,7 @@ Virtual visits for Cigna members can be accessed by visiting [myCigna](https://m
 
 #### Kaiser 2021 Calendar Year Plans
 
-These plans cover team members in the United States located in California, Colorado and Hawaii. 
+In addition to the Cigna plans offered above, the following plans are also an option for team members in the United States located in California, Colorado, and Hawaii. 
 
 **Coverages:**
 
