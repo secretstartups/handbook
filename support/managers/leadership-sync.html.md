@@ -66,7 +66,7 @@ The purpose of these meetings is **not** to:
 1. Review each agenda item. If you have any feedback for items under `Discuss` and will not be joining the meeting synchronously, add them under `Async Notes` for that item.
 
 #### As a synchronous meeting participant
-1. If you raised an item for discussion, be brief (everyone should be familiar with the discussion) ,clear (why did you bring this item to this meeting) and polite (avoid interrupting when possible (For more on this see point 13 in the [Video Calls Section](/handbook/communication/#video-calls) of the Communication page)).
+1. If you raised an item for discussion, be brief (everyone should be familiar with the discussion), clear (why did you bring this item to this meeting), and understanding (others may interrupt you while speaking due to the nature of video calls (For more on this see point 13 in the [Video Calls Section](/handbook/communication/#video-calls) of the Communication page)).
 1. Use majority of the meeting time to build rapport with the folks on the call.
    1. Talk through team related call-outs, share tips and tricks, latest learnings and others. 
    1. You should feel empowered to talk about things not on the agenda - sometimes, we need our peers' guidance and experience on things that might be bothering or challenging us.
