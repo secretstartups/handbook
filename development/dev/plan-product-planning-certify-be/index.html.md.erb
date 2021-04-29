@@ -108,7 +108,7 @@ any PoC MRs produced.
 
 <%= partial("handbook/engineering/development/dev/plan/historical_capacity", locals: { chart_ids: [7693825] }) %>
 
-### Working with Frontend
+### Collaborating with Frontend
 
 #### Workflow Labels
 
@@ -121,11 +121,18 @@ To ensure visibility for other team-members, for issues with a frontend and
 backend component:
 - Assign yourself as early as possible if you have capacity to work on it;
 - Move the issue to the top of ~"workflow::ready for development" until a frontend engineer is assigned;
-- When both are assigned, consider hosting a small kickoff discussion, then
+- When both are assigned, consider hosting a small kickoff discussion.
+- When the backend work is merged and verified add [the ~"backend complete" label](#using-the-backend-complete-label).
 
 We value [velocity over predictability](/handbook/engineering/#velocity-over-predictability)
 so use your own judgement on whether you should wait for a frontend engineer to
 get involved before proceeding with development.
+
+#### Using the ~"backend complete" label
+
+The ~"backend complete" label is added to issues with multiple specializations (usually backend and 
+frontend) to indicate that the backend component is complete. Add this label when the backend work is 
+functionally complete, merged and verified but frontend, or other, work is ongoing.
 
 #### Documentation
 
