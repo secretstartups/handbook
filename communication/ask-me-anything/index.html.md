@@ -33,7 +33,60 @@ They can be hosted by anyone who wants to host an AMA, but typically are hosted 
 
 Occasionally an AMA might be held for a smaller audience. It is encouraged for all AMAs to be open to the full company whenever possible. Occasionally an AMA may not make sense to be sent to the whole company. In those instances, it is still encouraged to add the calendar invitation to the GitLab Team Meetings Calendar as sometimes team members may want to join a call that may not be directly directly applicable to them. Whenever creating an AMA for a smaller group, be sure to invite the team directly in the calendar invite.
 
-#### Scheduling an AMA
+### Process for initiating a Reverse AMA 
+
+#### E-Group Initiated
+
+- If an E-Group team member would like a Reverse AMA, they or their EBA will contact an associated TMRG. If there isn't an associated TMRG the E-Group member or EBA will broadcast a message through their Slack channel to see if there is a population of members for the AMA. 
+- The E-Group member or EBA will create an issue (template to follow) tagging the [TMRG Leads](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) or a nominated facilitator for a non-tmrg AMA (facilitator group to be determined), a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), and Stella Treas (Chief of Staff)
+- The TMRG Leads will consult with the TMRG membership and accept or reject the request. If accepted the TMRG leads will provide an ideal timeframe for the AMA, ideally within 4 weeks from the date of the request.  
+- Once accepted the EBA will provide a series of times that are suitable
+- The E-Group member or EBA will ensure that there is a a Reverse AMA facilitator for the session. (Facilitator Group link to follow)
+- The EBA will create a calendar invite and Agenda for the agreed time
+
+#### Team Member Initiated
+
+- A team member of a particular underrepresented group will create an issue (Template link to follow)
+- The team member will tag a [DIB Team Member](https://gitlab.slack.com/archives/CLLDY3L8P/p1617863963093900), the [E-Group Members EBA](https://about.gitlab.com/handbook/eba/) and Stella Treas (Chief of Staff)
+- The E-Group member will review the request, the E-Group member can suggest an alternative member including a direct report to host the AMA or may reject the AMA based on the information provided in the issue.
+- If accepted the E-Group EBA will work with the E-Group member or direct report to find a time and date that is sutiable.
+- The team member will work the EBA to ensure an agenda and facilitator are in place. 
+
+#### Reverse AMA Facilitators
+It is near impossible to be an effective facilitator while also being a participant.  So if you have been identified as a facilitator but would rather participate in the conversation, we encourage you to ask one of your designated facilitator team members (Facilitator Group link to follow) to take your place.
+
+Before facilitating a session, all facilitators will complete the following steps: 
+1. Complete the [Linkedin Learning Facilitator Training](https://www.linkedin.com/learning/meeting-facilitation/)
+1. Complete the [LinkedIn Learning Empathy Training] (https://www.linkedin.com/learning/communicating-with-empathy/empathy-as-a-path-to-productive-conversations?u=2255073)
+1. Watch the purpose of Reverse AMA's Video (too come)
+1. Shadow a current faciliator when they are running and AMA
+1. Be shadowed by a current facilitator in your first AMA 
+
+**Current Facilitators:** 
+Template: "Name" - "Role", **Self Identified (Optional):** 
+
+- Liam McNally - Diversity, Inclusion & Belonging Partner, **Self Identified (Optional):** CIS gender Man, Gay, Black, No Diverseabilities, Age: 31
+- Amanda Rueda - Diversity, Inclusion & Belonging Advisory Group Member, **Self Identified (Optional):** CIS gender Woman, Age: 45
+- Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman
+- Carol Teskey - Senior Director, People Success, **Self Identified (Optional):** CIS gender woman
+- Carolyn Bednarz - People Business Partner, **Self Identified (Optional):** CIS gender woman
+
+#### Reverse AMA Hosts 
+
+Every Reverse AMA will be hosted by the Executive Business Partner for the E-Group Leader even when the leader is not an E-Group Member
+
+The Executive Business Partner alignment can be found [here](https://about.gitlab.com/handbook/eba/)
+
+
+**Things to remember:** 
+
+- Remain impartial 
+- Ensure the call stays on track 
+- Keep a track of time 
+- Ensure that a number of voices are heard, including agenda points
+
+
+#### Scheduling a Reverse AMA
 
 AMAs are generally coordinated, scheduled, and planned by the [Executive Business Administrator](https://about.gitlab.com/handbook/eba/) team when an E-Group member is the host. Anytime that an AMA is to be hosted by an executive, VP, or Director at GitLab, it should be arranged and scheduled by that functions EBA. AMAs of Board Members are scheduled by the Staff EBA to the CEO.
 
@@ -74,5 +127,11 @@ The Reverse AMA format was launched in Sales with our [Black](https://about.gitl
 
 **Schedule**
 * Quarterly
+
+## Actions and follow ups 
+
+All actions and follow up items should live in the [Reverse AMA EPIC](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/17) under the child EPIC for the Reverse AMA
+
+Learnings can be captured in our DIB Sharing page (link to be added when merged)
 
 
