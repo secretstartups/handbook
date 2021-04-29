@@ -21,9 +21,9 @@ Gainsight holds a lot of information and is great for reporting, but there can b
 
 ### Gainsight Dashboard
 
-When logging in, SALs will begin on their Customer 360 Dashboard. Gainsight's homepage will show the Top 20 SaaS Customer by ARR. On this page, you can review the customer's Lifecycle Stage, Known License Utlization, Health Score, your Open Calls to Action (CTAs), Open Tickets, and the last Activity Date. 
+TBD
 
-This dashboard is likely to be a SALs most-frequented page, as it shows a summary of their entire book of business. 
+
 
 ### Account Profile
 
