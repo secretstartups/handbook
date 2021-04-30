@@ -374,7 +374,7 @@ For more information on quoting or the Partner Program, please visit:
 ### Partner Program Discounts
 - The GitLab Partner Program provides partners with set discounts based on their engagement in opportunities (see definitions below) and their partner program track.
 - At least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.
-- GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
+- GitLab employees can access the discount table [here](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s) for commercial partners, [here](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng) for PubSec and [here](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1A/2WB5w5FkEJFBN_jcjmA9.9fp8n5rxvkOYpr9.mQ_1JM) for Managed Service Providers.  Partners can find the discount table in the Asset Library on the GitLab Partner Portal.
 
 ### Partner Sourced Opportunity
 - A Partner Sourced opportunity is an opportunity where a Partner has either found an original opportunity or is upselling a current customer. 
