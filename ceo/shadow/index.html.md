@@ -195,7 +195,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-04-26 | 2021-04-30 | [Jacie Bandur](https://gitlab.com/jbandur), Learning & Development Generalist | [Joanna Shih](https://gitlab.com/jo_shih), Quality Engineering Manager, Ops |
 | 2021-05-03 | 2021-05-07 | [Mikołaj Wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak), Backend Engineer, Product Intelligence | [Jacie Bandur](https://gitlab.com/jbandur), Learning & Development Generalist |
 | 2021-05-10 | 2021-05-14 | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager | [Mikołaj Wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak), Backend Engineer, Product Intelligence |
 | 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager |
@@ -1021,3 +1020,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-03-29 | 2021-04-09 | [Anthony Ogunbowale - Thomas](https://gitlab.com/anthonyot) | Named, Account Executive EMEA | |
 | 2021-04-05 | 2021-04-16 | [Katie Gammon](https://gitlab.com/kgammon) | Executive Business Administrator | |
 | 2021-04-12 | 2021-04-23 | [Pilar Mejia](https://gitlab.com/pmejia) | Distribution Manager, Public Sector | |
+| 2021-04-19 | 2021-04-30 | [Joanna Shih](https://gitlab.com/jo_shih) | Quality Engineering Manager, Ops | |
