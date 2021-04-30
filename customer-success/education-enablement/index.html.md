@@ -117,7 +117,7 @@ To align our education and enablement with our product, each of the topics below
     <ul>
     <li><a href="https://docs.gitlab.com/ee/user/project/issues/">Issue Tracking Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/solutions/time-tracking/">Time Tracking Feature Docs</a></li>
-    <li><a href="https://about.gitlab.com/product/issueboard/">Boards Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/issueboard/">Boards Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/product/epics/">Epics Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/product/roadmaps/">Roadmaps Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/product/service-desk/">Service Desk Feature Docs</a></li>
