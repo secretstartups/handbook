@@ -683,7 +683,7 @@ This is how we operate, because Google Docs/Apps can only be found and contribut
 
 Having said that, there is content which doesn’t make sense to be created on the website directly (e.g. large collections of data in tables, spreadsheets for calculations, etc) or for which Google Drive storage makes sense.
 
-When directing folks to these files in Google Drive please include name of the file in the handbook. If you link the URL people from outside the organization can request access, creating workload and the potential for mistakes.
+When directing folks to these files in Google Drive please include name of the file in the handbook so that team members can search for it in Google Drive. If you link directly to the URL, people from outside the organization can request access, creating workload and the potential for mistakes.
 
 #### Keeping it organized
 
