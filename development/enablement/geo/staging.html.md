@@ -97,6 +97,8 @@ The main goals for this rotation:
 | Month     | Name             |
 | -----     | ------           |
 | **2021**  | |
+| July      | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
+| June      | [`@mkozono`](https://gitlab.com/mkozono) |
 | May       | [`@ibaum`](https://gitlab.com/ibaum) |
 | April     | [`@alexives`](https://gitlab.com/alexives) |
 | March     | [`@vsizov`](https://gitlab.com/vsizov) |
