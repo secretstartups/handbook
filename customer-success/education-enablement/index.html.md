@@ -276,7 +276,7 @@ To align our education and enablement with our product, each of the topics below
     <!-- Associate -->
     <ul>
     <!--<li><a href="#"></a></li>-->
-    <li><a href="https://about.gitlab.com/product/auto-devops/">Auto DevOps Feature Overview</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/auto-devops/">Auto DevOps Feature Overview</a></li>
     <li><a href="https://docs.gitlab.com/ee/topics/autodevops/">Auto DevOps Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/solutions/kubernetes/">Kubernetes Management Feature Overview</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/variables/">Secrets Management CI Variable Docs</a></li>
