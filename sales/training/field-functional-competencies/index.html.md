@@ -20,7 +20,7 @@ More specifically, functional competencies help to:
 *  Reinforce behavior that is consistent with GitLab’s values and culture
 *  Enable GitLab field team members to build productive relationships and generate positive results
 
-There are three primary competencies for the field organization: Customer Focus, Solution Focus, and Operational Excellence. Please refer to the tables below to learn more. 
+There are three primary competencies for the field organization: **Customer Focus**, **Solution Focus**, and **Operational Excellence**. Please refer to the tables below to learn more or download and print the [**GitLab Field Functional Competencies one pager**](https://drive.google.com/file/d/1Q0honXXQg76ewRz07zcvQ_ChLo4BpVoD/view?usp=sharing).
 
 ## Customer Focus
 
@@ -46,7 +46,7 @@ Field team members should be focused on how GitLab helps customers solve their b
 
 ## Operational Excellence
  
-To drive efficiency, field team members should adhere to the tools and processes established by the field Operations team and their leadership.
+To drive efficiency, field team members should leverage the tools and processes established by Field Operations and their leadership.
 
 | EXAMPLE SKILLS / BEHAVIORS | DESCRIPTION |
 | ---- | ----- |
@@ -65,13 +65,14 @@ Competency proficiency rating levels align with GitLab’s enterprise-wide perfo
 # Practical Application
 
 Field team members and their managers are encouraged to have regular coaching and development conversations to assess individual and team strengths and areas of opportunity across all competencies and the supporting/example skills and behaviors. More specifically, managers in the field organization should:
-1. Encourage team members to complete their own self-assessment (see below) to
+1. Encourage team members to conduct their own self-assessment to
     - Identify 2 or more strengths field team members intend to continue to leverage to deliver positive results
     - Identify 2 specific skills / behaviors field team members would like to improve upon
-1. In parallel, managers should complete a similar assessment for each of his or her direct reports
-1. Field team members and their managers should then meet to compare and discuss assessment results then collaboratively brainstorm opportunities and agree on specific plans to support the team member's professional development and ongoing improvement
-1. Team members are encouraged to identify and regularly engage with an accountability partner (whether that be their manager and/or other) to maintain focus on development plans and to provide ongoing feedback
+1. Complete a similar assessment for each of his or her direct reports
+1. Next, meet with team members to compare and discuss assessment results then collaboratively brainstorm opportunities and agree on specific plans to support the team member's professional development and ongoing improvement
+
+Field team members are also encouraged to identify and regularly engage with an accountability partner to maintain focus on development plans and provide ongoing feedback.
 
 ## Self-Assessment 
 
-On an annual basis the Field Enablement team will launch a self-assessment for field team members with CultureAmp. This information will help the Field Enablement Team prioritize training needs and assess the efficacy of training programs throughout the year. This will not be used for performance reviews. 
+On an annual basis, the Field Enablement team will launch a self-assessment for field team members with CultureAmp. This information will help the Field Enablement team prioritize training needs and assess the efficacy of training programs throughout the year. This will not be used for performance reviews. For field team members and/or managers who would like to lead their own assessment exercises, please feel free to make a copy of the [GitLab Field Competencies doc](https://docs.google.com/spreadsheets/d/1tVLinM-A-RZhOS2nKAqDwFf6fq0ZSgCIeoGQSm7DUHU/edit?usp=sharing) (see Assessment Template on the 2nd tab).
