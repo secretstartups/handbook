@@ -46,18 +46,18 @@ When an engineer is actively working (workflow of ~workflow::"In dev" or further
 
 This update need not adhere to a particular format. Some ideas for formats:
 
-```text
+```markdown
 Health status: (On track|Needs attention|At risk)
 Notes: (Share what needs to be shared specially when the issue needs attention or is at risk)
 ```
 
-```text
+```markdown
 Health status: (On track|Needs attention|At risk)
 What's left to be done:
 What's blocking: (probably empty when on track)
 ```
 
-```text
+```markdown
 ## Update <date>
 Health status: (On track|Needs attention|At risk)
 What's left to be done:
@@ -84,8 +84,6 @@ Some notes/suggestions:
 * It is not necessary that the updates happen at the same time/day each week
 * Generally when there is a logical time to leave an update, that is the best time
 * Engineers are encouraged to use these updates as a place to collect some technical notes and thoughts or "think out loud" as they work through an issue
-```
-
 
 ## Performance Indicator
 
@@ -158,21 +156,6 @@ is added to each project with maintainer permission. We also try to align tools 
 
 We spend a lot of time working in Go which is the language that [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) is written in. Familiarity with Docker and Kubernetes is also useful on our team.
 
-## Becoming a maintainer for one of our projects
-
-We follow the same process [outlined
-here](/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer).
-Any engineeer inside of the organization is welcome to become a
-maintainer of a project owned by the Runner team. The first step would
-be to become a [trainee
-maintainer](/handbook/engineering/workflow/code-review/#trainee-maintainer).
-
-To start the maintainer training process,
-please create an issue in the Runner project's issue tracker using the [Release Maintainer Trainee template](https://gitlab.com/gitlab-org/gitlab-runner/issues/new?issuable_template=trainee-backend-maintainer).
-
-After the training is finished, the new maintainer will be added to the <https://gitlab.com/gitlab-com/runner-maintainers>
-group, which will set proper permission across the projects.
-
 ## Common Links
 
  * [Issue Tracker](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Arunner)
@@ -193,19 +176,19 @@ As the author of a merge request, it is your responsibility to get your code mer
 
 When an MR is ready for review, or maintainer review, it is the author's responsibility to find a reviewer with capacity who agrees to take it on. All the active work of this is on the MR author as part of their responsibility for getting their code merged. Often times our maintainers, being the friendly team mates that they are, will actively solicit MRs that need revieweing - especially when approaching a release date - but this shouldn't be expected.
 
-Reviewers and maintainers have a limit on how many MRs they can have assigned for review at any given time. If no one has capacity to review your MR consider doing anything possible to help address that situation. For example, offer to do a pair review with the reviewer to speed up a review. Otherwise you may need to wait for the backlog of reviews to be resolved by the reviewers before moving along with asking for more reviews. The current number of assigned reviews for each member of the team is viewable on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0) 
+Reviewers and maintainers have a limit on how many MRs they can have assigned for review at any given time. If no one has capacity to review your MR consider doing anything possible to help address that situation. For example, offer to do a pair review with the reviewer to speed up a review. Otherwise you may need to wait for the backlog of reviews to be resolved by the reviewers before moving along with asking for more reviews. The current number of assigned reviews for each member of the team is viewable on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0)
 
 ### The responsibility of Reviewers and Maintainers
 
-Reviews, esepcially maintainer reviews, are the biggest bottleneck for our team delivering improvements to the product. Because of this we must be strict with expectations of incoming MRs and reasonable with the expecations we have on how much work the maintainers can handle. Because an issue in GitLab can have a one-to-many relationship with MRs, MRs - not issues - are our representation of work in flight. To help maintain reasonable amount of work on the shoulders of anyone doing reviews, we have a WIP limit of 5 MRs being reviewed by any person at any time. This can be tracked on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0) and will alert in the team slack channel when anyone crosses the WIP limit in either direction.
+Reviews, especially maintainer reviews, are the biggest bottleneck for our team delivering improvements to the product. Because of this we must be strict with expectations of incoming MRs and reasonable with the expecations we have on how much work the maintainers can handle. Because an issue in GitLab can have a one-to-many relationship with MRs, MRs - not issues - are our representation of work in flight. To help maintain reasonable amount of work on the shoulders of anyone doing reviews, we have a WIP limit of 5 MRs being reviewed by any person at any time. This can be tracked on the [spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1fkPW5cy2Cz_h2T2tSoYGlnuulMzU-zX6Miwz53sErE4/edit#gid=0) and will alert in the team slack channel when anyone crosses the WIP limit in either direction.
 
-Because reviewing is a bottleneck for our team, it is important to be efficient. When reviewing an MR, consider high-level things before diving deeply into it - is the MR description adequate for you to understand the context without reading through 100's of issue comments? Does the general approach to the solution make architectural sense? Is it clear to you how to test it out and what behavioural difference you should see when the code is exercised? 
+Because reviewing is a bottleneck for our team, it is important to be efficient. When reviewing an MR, consider high-level things before diving deeply into it - is the MR description adequate for you to understand the context without reading through 100's of issue comments? Does the general approach to the solution make architectural sense? Is it clear to you how to test it out and what behavioural difference you should see when the code is exercised?
 
 If you as a reviewer or maintainer who has reached your limit of assigned review MRs, consider asking for assistance from your peers by reassigning some to them. Additionally consider pair-reviewing with the authors on a video call to speed up the review cycle - especially if you have multiple MRs to review from a single author.
 
 Non-team member MRs count towards WIP limit. At GitLab anyone can contribute, and codebases do not equal "teams" or "groups" (even if they happen to share a name). Therefore we should, from time to time, anticipate the occasional MR from a non-team member. Since other teams may not be familiar with our imposed WIP limits, we will need to accommodate them as best we can and the reviewers may need to help with the re-balancing their workload. We should not accept these MRs as a valid reason to go above the WIP limits.
 
-These limits are intended to help with the work load on the reviewers and maintainers. If you are feeling pressured to rush through reviews, talk to your EM. Quality is always more important than speed of review. 
+These limits are intended to help with the work load on the reviewers and maintainers. If you are feeling pressured to rush through reviews, talk to your EM. Quality is always more important than speed of review.
 
 ### Runner Group Specific Onboarding Needs
 
@@ -220,6 +203,19 @@ These limits are intended to help with the work load on the reviewers and mainta
 When a new developer joins Runner, their responsibility will include maintaining the runner project and all satelite repositories we own from their first day. This means that the developer will get Maintainer access to our repositories and will be added to the [`runner-maintainers`](https://gitlab.com/groups/gitlab-com/runner-maintainers/-/group_members?with_inherited_permissions=exclude) group so they appear in merge request approval group.
 
 This allows the onboarding developer to grow organically over time in their responsibilities, which might include (non-exhaustive) code reviews, incident response, operations and releases. We should still follow the [traditional two-stage review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/) for merges in most cases (incident response and operations being exceptions if the situation warrants it).
+
+### Becoming a maintainer for one of our projects
+
+Although maintainer access is provided from day one for practical purposes,
+we follow the same process [outlined
+here](/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer).
+Any engineeer inside of the organization is welcome to become a
+maintainer of a project owned by the Runner team. The first step would
+be to become a [trainee
+maintainer](/handbook/engineering/workflow/code-review/#trainee-maintainer).
+
+To start the maintainer training process,
+please create an issue in the Runner project's issue tracker using the [Release Maintainer Trainee template](https://gitlab.com/gitlab-org/gitlab-runner/issues/new?issuable_template=trainee-backend-maintainer).
 
 ### Kanban
 
