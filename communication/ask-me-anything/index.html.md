@@ -136,3 +136,11 @@ All actions and follow up items should live in the [Reverse AMA EPIC](https://gi
 Learnings can be captured in our DIB Sharing page (link to be added when merged)
 
 
+## Reverse AMA Schedule - past and upcoming
+
+| Date | URG / TMRG | Leader | Takeaways | 
+| ---------- | -------- | ---- | ----- | 
+| TBC | Women in Engineering | Scott Williamson (CPO) / Eric Johnson (CTO) | [Reverse AMA EPIC](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/17) |
+
+
+
