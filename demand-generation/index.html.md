@@ -206,8 +206,8 @@ There have been ongoing changes to best report on Public Sector. The following i
 
 * **Note as of 2021-03-12 `@jennyt`:** the [TD:-Sales-Funnel](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual) report accurately reports on Public Sector data. The Demand Gen and FMM Dashboards do not. Both the Demand Gen dash and FMM dash will be rebuilt on the dimensional model in a few weeks and will accurately report on PubSec after that is complete.
 * **Upcoming changes to comprehensively identify PubSec records:**
-    - (Leads/Contacts) [Split out PUBSEC as a new segment value](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1675)
-        - [Viki Comment 2021-02-22](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/133#note_514119804) Once it is done, it will be automatically visible on the current Demand Gen dashboard
+    - (Leads/Contacts) [Split out PUBSEC as a new segment value](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1675) - This is complete.
+        - [Viki Comment 2021-02-22](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/133#note_514119804) Once it is done, it will be automatically visible on the current Demand Gen dashboard - However, this dashboard still is not accurately reporting on PubSec, possibly due to fields not being populated in SFDC or properly pulling into the dashboard.
     - [Viki Comment 2021-02-22](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/133#note_514119804): Another project is to switch the Demand Gen dashboard to the new Dimensional Data Model that will have a different way of pulling sales segment on the opportunities: it is based on the `opportunity owner segment`
         - Part of the dimensional model is to determine how to [define the user fields on the lead/contact object](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1201)
 * Background on some previous data point (and some data caveats):
