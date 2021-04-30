@@ -195,7 +195,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-04-19 | 2021-04-23 | [Joanna Shih](https://gitlab.com/jo_shih), Quality Engineering Manager, Ops | [Pilar Mejia](https://gitlab.com/pmejia), Public Sector Distribution Manager |
 | 2021-04-26 | 2021-04-30 | [Jacie Bandur](https://gitlab.com/jbandur), Learning & Development Generalist | [Joanna Shih](https://gitlab.com/jo_shih), Quality Engineering Manager, Ops |
 | 2021-05-03 | 2021-05-07 | [Mikołaj Wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak), Backend Engineer, Product Intelligence | [Jacie Bandur](https://gitlab.com/jbandur), Learning & Development Generalist |
 | 2021-05-10 | 2021-05-14 | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager | [Mikołaj Wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak), Backend Engineer, Product Intelligence |
