@@ -58,10 +58,16 @@ These items must be triaged continuously throughout the month which means they m
 
 ### Security vulnerabilities triaging process
 
-1. Leverage the group level [Vulnerability Report of security-products/analyzers](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&state=CONFIRMED&severity=HIGH&severity=CRITICAL&projectId=18446184&projectId=17987891&projectId=17450826&projectId=15369510&projectId=13150952&projectId=9450197&projectId=9450195&projectId=9450192&projectId=9396716&projectId=9358979&projectId=6126012) with filters to focus on vulnerabilities with High and Critical severity and reported on the relevant projects.
-1. For each "Detected" item, investigate and either [dismiss it](#dismissing-a-vulnerabilty) or [create an issue](#creating-security-issues). When the vulnerability is impacting a dependency (software library, system library, base image, etc,), possibility of upgrade should be evaluated first, and investigate the issue only when the upgrade is not straightforward.
+We are responsible for triaging vulnerabilities reported on 2 sets of projects: our analyzers and their upstream scanner software. For the latter, we've set up mirrors to run our security scans. Triaging is achieved by relying on the Vulnerability Report with filters to focus on items with High and Critical severity and only for the relevant projects.
+
+1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&state=CONFIRMED&severity=HIGH&severity=CRITICAL&projectId=18446184&projectId=17987891&projectId=17450826&projectId=15369510&projectId=13150952&projectId=9450197&projectId=9450195&projectId=9450192&projectId=9396716&projectId=9358979&projectId=6126012) 
+1. [Upstream scanners Vulnerability Report][Upstream scanners Vulnerability Report]
+
+For each "Detected" item, investigate and either [dismiss it](#dismissing-a-vulnerability) or [create an issue](#creating-security-issues). When the vulnerability is impacting a dependency (software library, system library, base image, etc,), the possibility of an upgrade should be evaluated first. Investigate the issue only when the upgrade is not straightforward.
 
 If necessary, escalate to our [Application Security team](/handbook/engineering/security/security-engineering-and-research/application-security/) to establish whether there's indeed a threat.
+
+For vulnerabilities discovered in upstream scanners, an issue must be created in GitLab's issue tracker, and we should work with the relevant Open Source community to help provide a resolution. As a last resort, we can patch locally or fork the upstream project temporarily to fix the vulnerability sooner.
 
 #### Dismissing a vulnerability
 
@@ -70,7 +76,7 @@ When doing so, make sure to comment on the vulnerability status change to explai
 
 #### Creating Security issues
 
-Unfortunately, creating a security issue can't be done yet via the "create issue" button from the vulnerability page or security dashboard as this only works when creating an issue in the same project where the error was reported.
+Unfortunately, creating a security issue can't be done yet via the "create issue" button from the vulnerability page or security dashboard as this only works when creating an issue in the same project where the error was reported and we've disabled the embedded issue tracker in our projects.
 Instead, in our workflow we open all our issues in [the main GitLab project](https://gitlab.com/gitlab-org/gitlab/issues).
 As a workaround, you can copy and paste the content of the vulnerability page (this keeps markdown formatting!). Please also follow our Security guidelines about [creating new security issues](/handbook/engineering/security/#creating-new-security-issues).
 You can leverage quick actions to add the necessary labels.
@@ -145,6 +151,18 @@ Additional notes:
 - [License-finder analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/license-finder)
 - [License-management](https://gitlab.com/gitlab-org/security-products/license-management) is the original project that needs to be maintained until [the migration](https://gitlab.com/gitlab-org/gitlab/-/issues/215933) is completed.
 
+### Upstream scanner mirrors
+
+As some of our analyzers rely on open source software, we include them in our security testing to increase coverage and reduce risk.
+
+To do so, we mirror their repository and execute our security scans on them:
+
+- [license-finder](https://gitlab.com/gitlab-org/security-products/dependencies/license-finder)
+- [bundler-audit](https://gitlab.com/gitlab-org/security-products/dependencies/bundler-audit)
+- [retire.js](https://gitlab.com/gitlab-org/security-products/dependencies/retire.js)
+
+The vulnerabilities reported on the currently used version of the scanner are automatically reported in [the group level Vulnerability Report][Upstream scanners Vulnerability Report] and triaged as part of our [security vulnerabilities triaging process](#security-vulnerabilities-triaging-process).
+
 ## Monitoring
 
 - [Stage Group dashboad on Grafana](https://dashboards.gitlab.net/d/stage-groups-composition_analysis/stage-groups-group-dashboard-secure-composition-analysis?orgId=1)
@@ -154,3 +172,4 @@ Additional notes:
 As part of FY21-Q4 OKRs, we've started tracking and monitoring the Largest Contentful Paint for our web pages. The results can be viewed on [this Grafana dashboard](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&var-browser=chrome&var-connectivity=cable&var-domains=gitlab_com&var-function=median&var-namespace=sitespeed_io&var-pages=Secure_Dependency_List&var-pages=Secure_License_Compliance&var-pages=Secure_Security_Configuration&var-path=desktop).
 
 
+[Upstream scanners Vulnerability Report]: https://gitlab.com/groups/gitlab-org/security-products/dependencies/-/security/vulnerabilities/?projectId=25588419&projectId=25586931&projectId=25584602
