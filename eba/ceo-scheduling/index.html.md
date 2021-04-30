@@ -23,7 +23,7 @@ title: "CEO Scheduling & Preferences"
 1. **[Katie Gammon](https://about.gitlab.com/company/team/#kgammon) - Executive Business Adminstrator** 
    1. Schedules internal and external meetings with CEO (exeption is Board Meetings)
    1. Triage meeting requests in #eba-team, engage the Staff EBA to the CEO as necessary 
-   1. Triage the CEO’s inbox and assign messages to the Staff EA or the CoS to draft and follow up on. 
+   1. Triage the CEO’s inbox and assign messages to the Staff EBA or the CoS to draft and follow up on. 
    1. Expense Reports for the CEO 
    1. Total travel coordination for the CEO
    1. Live-streaming meetings on behalf of the CEO. For instance: CEO General Group Conversation, CEO 101, CEO AMA, Iteration Office Hours, Pick Your Brain live-streams
