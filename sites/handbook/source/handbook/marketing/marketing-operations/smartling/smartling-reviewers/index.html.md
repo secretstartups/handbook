@@ -56,9 +56,7 @@ Once you are done, you can submit the job at the top of the page and the job wil
 
 ##Notifications:
 
-As a reviewer, there are some email notifications that we recommend turning on. Please be mindful that even if these are on, the emails may go to your spam inbox. Below is a helpful video on how to turn these notifications on:
-
-VIDEO
+As a reviewer, there are some email notifications that we recommend turning on. Please be mindful that even if these are on, the emails may go to your spam inbox. Watch this helpful video to see [how to turn these notifications on](https://drive.google.com/file/d/14tOVmc5cCrVq2x_WzArW0eytzAKWmM3c/view?usp=sharing).
 
 The two notifications are the following:
 
