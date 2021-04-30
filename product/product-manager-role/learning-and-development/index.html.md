@@ -69,6 +69,8 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 ## General Product Management learning content 
 
+#### [This content is avaialble and trackable in GitLab Learn](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub)
+
 This content is divided into five key competencies for Product Managers. 
 
 <hr>
