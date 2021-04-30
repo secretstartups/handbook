@@ -252,7 +252,7 @@ Product Managers are responsible for driving the success for a product area. Und
 1. Developing a Business Case
 1. Investing Just Enough
 
-**Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#business-acumen).
+**Note:** We've collected [various learning and development materials to support your development in this area](/handbook/product/product-manager-role/learning-and-development/#business-acumen).
 {:.alert .alert-info}
 
 #### Understanding Buyer Based Tiering
@@ -277,7 +277,7 @@ GitLab has an [Open Core](https://en.wikipedia.org/wiki/Open-core_model) busines
 1. Presenting to Large Audiences
 1. Representing GitLab's Entire Product Value
 
-**Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#communication).
+**Note:** We've collected [various learning and development materials to support your development in this area](/handbook/product/product-manager-role/learning-and-development/#communication).
 {:.alert .alert-info}
 
 #### Writing to Inspire Action Competency
@@ -310,7 +310,7 @@ The [build track](/handbook/product-development-flow/#build-track) is the second
 1. Understanding GitLab Architecture
 1. Demoing GitLab
 
-**Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#delivery).
+**Note:** We've collected [various learning and development materials to support your development in this area](/handbook/product/product-manager-role/learning-and-development/#delivery).
 {:.alert .alert-info}
 
 #### Breaking Down Issues
@@ -335,7 +335,7 @@ Individual contributor product managers and managers of product managers are lea
 1. Aligning Your Team on Strategy
 1. Applying Situational Leadership
 
-**Note:** We've collected [various learning and development materials to support your development in this area](./learning-and-development/#team-management).
+**Note:** We've collected [various learning and development materials to support your development in this area](/handbook/product/product-manager-role/learning-and-development/#team-management).
 {:.alert .alert-info}
 
 ##### Managing Team Performance
