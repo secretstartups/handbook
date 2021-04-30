@@ -18,6 +18,7 @@ This page details processes and general guidelines specific to the Executive Bus
 ### E-Group Member EBA's
 * Cheri Holmes (Staff EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Michael McBride (CRO)
 * Katie Gammon (EBA) supporting Sid Sijbrandij (Co-Founder & CEO), Michael McBride (CRO), and Stella Treas (Chief of Staff)
+  * Contact Katie for all scheduling requests for the CEO, CRO and CoS 
 * Stefanie Haynes (Sr. EBA) supporting Todd Barr (CMO) and Darren Murph (Head of Remote)
 * Robyn Hartough (Sr. EBA) supporting Robin Schulman (CLO), and Legal Directors: Rashmi Chachra (Corporate), Rob Nalen (Operations & Contracts), Emily Plotkin (Employment), and Lynsey Sayers (Privacy & Product)
 * Jaclyn Grant (Sr. EBA) supporting Brian Robins(CFO) and Finance Leadership: Craig Mestel, Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
