@@ -176,7 +176,7 @@ To align our education and enablement with our product, each of the topics below
 <td>
     <!-- Associate -->
     <ul>
-    <li><a href="https://about.gitlab.com/product/continuous-integration/">Continuous Integration (CI) Feature Overview</a><br />
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/">Continuous Integration (CI) Feature Overview</a><br />
     <ul>
     <li><a href="https://docs.gitlab.com/ee/ci/">CI/CD Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/introduction/">CI/CD Concepts Docs</a></li>
@@ -239,7 +239,7 @@ To align our education and enablement with our product, each of the topics below
 <td>
     <!-- Associate -->
     <ul>
-    <li><a href="https://about.gitlab.com/product/continuous-delivery/">Continuous Delivery Feature Overview</a>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/">Continuous Delivery Feature Overview</a>
     <ul>
     <li><a href="#verify-stage">See verify stage for full list of CI/CD resources</a></li>
     </ul>
