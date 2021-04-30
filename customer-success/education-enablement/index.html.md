@@ -119,8 +119,8 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://about.gitlab.com/solutions/time-tracking/">Time Tracking Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/stages-devops-lifecycle/issueboard/">Boards Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/product/epics/">Epics Feature Docs</a></li>
-    <li><a href="https://about.gitlab.com/product/roadmaps/">Roadmaps Feature Docs</a></li>
-    <li><a href="https://about.gitlab.com/product/service-desk/">Service Desk Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/roadmaps/">Roadmaps Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/service-desk/">Service Desk Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/project/requirements/">Requirements Management Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/test_cases/index.html">Quality Management Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/project/issues/design_management.html">Design Management Feature Docs</a></li>
@@ -244,7 +244,7 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="#verify-stage">See verify stage for full list of CI/CD resources</a></li>
     </ul>
     </li>
-    <li><a href="https://about.gitlab.com/product/pages/">Pages Feature Overview</a>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/pages/">Pages Feature Overview</a>
     <ul>
     <li><a href="https://about.gitlab.com/direction/release/pages">Pages Feature Direction and Roadmap</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/project/pages/">Pages Feature Docs</a></li>
