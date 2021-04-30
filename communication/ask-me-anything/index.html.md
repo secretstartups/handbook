@@ -141,8 +141,8 @@ Learnings can be captured in our DIB Sharing page (link to be added when merged)
 | Date | URG / TMRG | Leader | Takeaways | 
 | ---------- | -------- | ---- | ----- | 
 | TBC | Women in Engineering | Scott Williamson (CPO) / Eric Johnson (CTO) | [Reverse AMA EPIC](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/17) |
-| 2021-02-05 | Black Team Members & CEO | Sid Sijbrandij (CEO) | tbd |
-| 2021-04-06 | Latinx | Sid Sijbrandij (CEO) | tbd |
+| 2021-02-05 | Black Team Members & CEO | Sid Sijbrandij (CEO) | |
+| 2021-04-06 | Latinx | Sid Sijbrandij (CEO) | |
 | 2021-05-06 | Black Team Members & CEO | Sid Sijbrandij (CEO) | tbd |
 | 2021-06-03 | Black Team Members & CEO | Sid Sijbrandij (CEO) | tbd |
 | 2021-06-22 | Latinx | Sid Sijbrandij (CEO) | tbd |
