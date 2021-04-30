@@ -251,12 +251,12 @@ For more details, visit the [Channel Training, Certifications and Enablement](ht
 
 The GitLab Partner Program helps develop your practice to best fit your business model. You can earn one-time and recurring revenues from product and services sales, referrals, and services delivery and resale.
 
-To view the GitLab Partner Program Discount and Referral Fee Table please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Partner) and access discount table in the Program Documents folder in the Asset Library. 
+To view the GitLab Partner Program Discount and Referral Fee Table please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) (must be an authorized Partner) and access discount table in the Program Documents folder in the Asset Library. 
 
-Authorized Public Sector Partner can earn one-time and recurring revenues from product and services sales, referrals, as well as services deliver and resale.  To view Public Sector Discounts please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Public Sector Partner) and access discount table in the Program Documents folder in the Asset Library.
+Authorized Public Sector Partner can earn one-time and recurring revenues from product and services sales, referrals, as well as services deliver and resale.  To view Public Sector Discounts please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) (must be an authorized Public Sector Partner) and access discount table in the Program Documents folder in the Asset Library.
 
 
-GitLab employees can access the discount table [here.](https://gitlab.my.salesforce.com/0694M000008xAk4)
+GitLab employees can access the discount table [here](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s) and the Public Sector matrix [here](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng).
 
 #### Definitions and Qualifications
 
@@ -271,7 +271,7 @@ GitLab employees can access the discount table [here.](https://gitlab.my.salesfo
 
 This incentive is based on the number of services delivered to unique customers each quarter. Services Attach requests must be submitted to GitLab via the Partner Portal as a deal registration (Deal Registration Type = Services Attach), must include reasonable information and documentation (as requested by GitLab) to demonstrate the Referral Client's receipt of the Partner Professional Services and must be approved by GitLab Sales.  Rebates are paid out no later than 45 days after the end of each quarter.  
 
-    Visit the GitLab Partner Portal to view available incentives and additional information on qualifying services.
+    To view the GitLab Services Attach incentive plan please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) (must be an authorized Partner) and access the resources in the Program Documents folder in the Asset Library. 
 
 *   **Referral Fees** - Referral fees are paid to partners for identifying Partner Initiated GitLab software sales opportunities that are not being resold by the partner. To qualify for a referral fee, partners must enter a referral fee deal registration in our Partner Portal. Each registration received by GitLab qualifies as a "Qualified Referral," provided that the referral is a GitLab sales opportunity that is new to GitLab, and the customer/prospect is willing to enter into a binding written agreement with GitLab to use our products and services.
     *   All referral deal registrations must be approved by GitLab before becoming eligible for a referral fee. Referral fees are paid out no later than 45 days after the end of each quarter.
