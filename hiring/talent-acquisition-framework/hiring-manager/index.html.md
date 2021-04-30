@@ -13,14 +13,6 @@ description: "This page is an overview of the processes the hiring manager is re
 ## Talent Acquisition Process Framework - Hiring Manager Tasks
 {: #framework-hm}
 
-### Step 0/HM: Keep a Warm pipeline
-
-Even if you don't have any open roles on your team, as a Hiring Manager you should be spending approximately 2.5 hours per week to keep a warm pipeline. Spread out over the week, this would result in 30 minutes a day. Suggested tasks include: 
-
-- Making a list of potential future candidates
-- Reaching out to potential future candidates on LinkedIn 
-- Making 1 call to a potential future candidate 
-
 ### Step 1/HM: [Identifying hiring need](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process)
 
 1. [Add Vacancy to the Hiring Plan](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/#adding-vacancies-to-the-hiring-plan)
