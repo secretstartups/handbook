@@ -250,7 +250,7 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://docs.gitlab.com/ee/user/project/pages/">Pages Feature Docs</a></li>
     </ul>
     </li>
-    <li><a href="https://about.gitlab.com/product/review-apps/">Review Apps Feature Overview</a>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/review-apps/">Review Apps Feature Overview</a>
     <ul>
     <li><a href="https://www.youtube.com/watch?v=CteZol_7pxo&feature=youtu.be">YouTube Webcast Feature Overview</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-org/-/epics/495">Review Apps Direction and Roadmap</a></li>
@@ -281,7 +281,7 @@ To align our education and enablement with our product, each of the topics below
     <li><a href="https://about.gitlab.com/solutions/kubernetes/">Kubernetes Management Feature Overview</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/variables/">Secrets Management CI Variable Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/chatops/">ChatOps Feature Docs</a></li>
-    <li><a href="https://about.gitlab.com/product/serverless/">Serverless Feature Overview</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/serverless/">Serverless Feature Overview</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/infrastructure/">Infrastructure-as-Code Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/clusters/cost_management.html">Cluster Cost Management Feature Docs</a></li>
     </ul>
