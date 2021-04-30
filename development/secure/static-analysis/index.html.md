@@ -67,6 +67,10 @@ Board in their assigned epic swimlane and pull them through the identified state
 | `~workflow::in review` | Last MR is merged and changes are available in a production environment. |
 | `~workflow::verification` | Changes functionally tested in a production environment. |
 
+#### Code Review Process
+
+The process for reviewing and maintainer code is documented within our [Static Analysis Group Code Review](/handbook/engineering/development/secure/static-analysis/code_review.html) page.
+
 #### Weights
 
 Weights are used as a *rough* order of magnitude to help signal to the rest of the team how much work is involved.
