@@ -18,8 +18,8 @@ are created in BambooHR once they are hired. We created a custom sync between Gr
 manual work adding the right data from one system to the other.
 
 We check every 15 minutes if new applicants have been marked as hired on Greenhouse. If there are
-any, we create a user on BambooHR with the applicant and offer data from Greenhouse. Before
-this custom sync, we used a sync within Greenhouse itself but it didn't sync the data correctly.
+any, we create a new user on BambooHR with the applicant and offer data from Greenhouse. When the applicant
+is a former team member, we don't create a new profile but update their existing BambooHR profile. 
 
 ### Synced fields
 
