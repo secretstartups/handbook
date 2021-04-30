@@ -20,14 +20,15 @@ Note: this section only discusses items in the offboarding where People Engineer
 ## Timeline Flow
 ```mermaid
 graph TD
-  A[Offboarding is logged into the tracker] --> B
-  A --> |if the offboarding is voluntary| G
-  B[PEA triggers Slack command for offboarding issue] -->|Offboarding issue is created, manager is assigned| C
+  A[Offboarding is logged into the tracker] --> |All offboardings| B
+  A --> |When the offboarding is voluntary| G
+  B[PEA triggers Slack command for offboarding issue] --> |Offboarding issue is created, manager is assigned| C
   C[Offboarding merge request is created] --> D
   D[Team member is removed from gitlab-com and gitlab-org] --> E
   E[1 day after: removed from Guardian] --> F
   F[5 Days after: Issue reminder]
-  G[Informational email is automatically sent to the departing team member] --> B
+  G[Informational email is sent to the departing team member] --> |2 days before departure| H
+  H[Slack message is sent to the departing team member]
 ```
 
 ## Automations
@@ -38,6 +39,13 @@ When a team member voluntarily leaves GitLab, an email going over the offboardin
 
 The pipeline is scheduled to run every hour and scan the offboarding spreadsheet for new rows since the last run. For each row, an email is sent to the departing team member using different templates depending on the team member's country.
 
+### Voluntary offboarding slack reminder
+
+Team members who voluntarily leave GitLab will receive a Slack message two days before their last day. This message is a reminder to perform the following tasks:
+
+- Not wipe their computer until given the green light by IT Ops
+- Ensure [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) is installed on their computer
+- Backup personal files since they won't be available after wiping the computer
 
 ### Offboarding issue creation
 
