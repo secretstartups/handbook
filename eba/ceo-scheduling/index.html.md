@@ -18,7 +18,7 @@ title: "CEO Scheduling & Preferences"
     1. CEO e-mail management 
     1. Preparing agendas and content for CEO's meetings 
     1. Triage #ceo slack channel
-    1. Assist CoS with company-wide OKRs as required
+    1. Assists CoS with company-wide OKRs as required
     1. Coordinates the quarterly E-Group offsite and other social/team bonding events for the Executive team 
 1. **[Katie Gammon](https://about.gitlab.com/company/team/#kgammon) - Executive Business Adminstrator** 
    1. Schedules internal and external meetings with CEO (exeption is Board Meetings)
