@@ -9,7 +9,32 @@ title: "CEO Scheduling & Preferences"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-All meetings on Sid's calendar should be scheduled and vetted by the EBA to the CEO. Please do not directly schedule a meeting onto Sid's calendar without confirming with the EBA to the CEO in advance.
+## The CEO Support Team 
+1. **[Stella Treas](https://about.gitlab.com/company/team/#streas) - Chief of Staff**
+    1. Cross-functional and multi-functional projects
+1. **[Cheri Holmes](https://about.gitlab.com/company/team/#cheriholmes) - Staff Executive Business Administrator** 
+    1. Board Meetings 
+    1. Board Member AMAs
+    1. CEO e-mail management 
+    1. Preparing agendas and content for CEO's meetings 
+    1. Triage #ceo slack channel
+    1. Assist CoS with company-wide OKRs as required
+    1. Coordinates the quarterly E-Group offsite and other social/team bonding events for the Executive team 
+1. **[Katie Gammon](https://about.gitlab.com/company/team/#kgammon) - Executive Business Adminstrator** 
+   1. Schedules internal and external meetings with CEO (exeption is Board Meetings)
+   1. Triage meeting requests in #eba-team, engage the Staff EBA to the CEO as necessary 
+   1. Triage the CEO’s inbox and assign messages to the Staff EA or the CoS to draft and follow up on. 
+   1. Expense Reports for the CEO 
+   1. Total travel coordination for the CEO
+   1. Live-streaming meetings on behalf of the CEO. For instance: CEO General Group Conversation, CEO 101, CEO AMA, Iteration Office Hours, Pick Your Brain live-streams
+   1. Ad-hoc requests from the Staff EBA + CEO  
+1. **[Jacqueline Hogue](https://about.gitlab.com/company/team/#jhogue) - Sr. Corporate Communications Manager, Executive Communications** 
+   1. Vetting, preparing content, briefing and supporting the CEO for external speaking enagements 
+
+### How to request a meeting with CEO? 
+Reach out to Katie Gammon in #eba-team with the [required details](/handbook/eba/#meeting-request-requirements) to book a meeting with the CEO. Katie handles scheduling for the CEO with the exception of the [Board and Committee Meetings](/handbook/board-meetings/) which are managed by Cheri Holmes. 
+
+All meetings on Sid's calendar should be scheduled and vetted by the EBA to the CEO. Please do not directly schedule a meeting onto Sid's calendar without confirming with the EBA to the CEO in advance. The CEO requires meetings to originate from his calendar and on his Zoom account. 
 
 ## Scheduling preferences for Sid Sijbrandij, Co-founder and CEO
 
