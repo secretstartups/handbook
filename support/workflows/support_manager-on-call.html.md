@@ -22,14 +22,14 @@ The Support Manager On-call is one of the rotations that make up [GitLab Support
 
 As part of [GitLab Support on-call](/handbook/support/on-call/), Support Managers serve in a rotation. The support manager on-call is responsible generally for:
 
-1. Ensuring customer emergencies are handled promptly and accurately
-1. Handling customer-related escalations during business hours
-1. Acting as a notification point for security incidents
-1. Analyzing and dispatching Upgrade Assistance Requests initiated during the shift
+1. Ensuring customer emergencies are [handled promptly and accurately](#handling-customer-emergencies-and-incidents), [according to SLAs](https://about.gitlab.com/support/)
+1. [Handling customer-related escalations](#mechanics-of-handling-escalations) during business hours according to the [support escalation definitions of urgency](/handbook/support/internal-support/support-escalations.html#definition-of-urgency)
+1. Acting as a [notification point for security incidents](#act-as-a-notification-point-for-security-incidents)
+1. Analyzing and dispatching [Live Upgrade Assistance Requests](#analyze-and-dispatch-live-upgrade-assistance-requests) initiated during the shift
 
 ## Handling customer emergencies and incidents
 
-The [Support Engineer on-call](https://about.gitlab.com/handbook/support/on-call/) is the first responder for customer emergencies. Managers support this work as follows:
+The [Support Engineer on-call](/handbook/support/on-call/) is the first responder for customer emergencies. Managers support this work as follows:
 
 - Act as the next-tier escalation point for emergency pages that get missed (you will be notified automatically by PagerDuty).
 - Be aware of ongoing emergencies, and assist or lead our response as appropriate.
@@ -86,14 +86,26 @@ When an escalation is resolved:
 
 When GitLab experiences a [security incident](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC on-call](/handbook/support/workflows/cmoc_workflows.html).
 
-## Analyze and dispatch Upgrade Assistance Requests
+## Analyze and dispatch Live Upgrade Assistance Requests
 
 Analyzing [live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) means that you must ensure the request conforms to the requirements documented in [Scheduling Live Upgrade Assistance](handbook/support/workflows/live-upgrade-assistance.html).
 
 To dispatch a request:
 
-1. Locate the Support Manager on-call for the requested day/time/timezone, and assign the Issue to them.
-1. ??
+1. Review the issue to make sure that the required information has been provided, 
+including the appropriate region's label. If you notice missing information, tag 
+the requester and ask for it to be provided.
+1. If the Live Upgrade Assistance request is scheduled inside your region's
+working hours, follow steps 2 and 3 of the [Global Support 
+Process](/handbook/support/workflows/live-upgrade-assistance.html#global-support-process),
+keeping in mind that you are the DRI. In brief, the process states that you need to:
+   * Assign the support manager and support engineer who will be on-call on the requested upgrade date.
+   * Find a support engineer to perform the pre-scheduling tasks.
+   * Find a support engineer to perform the day-of-upgrade tasks (may be the same engineer as above).
+
+**NOTE**: If the Live Upgrade Assistance request is scheduled outside of your region's
+working hours, assign the Request to all the managers of the appropriate region.
+It is their task to complete steps 2 and 3 described above.
 
 ## Reassigning or swapping your on-call shift
 
