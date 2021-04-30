@@ -108,10 +108,18 @@ We also want to ask about Stage Adoption metrics so that we can tie their GitLab
   - What tools are you using for continuous integration?
   - What percentage of projects/teams are using GitLab CI?
 - **Package**
-  - What tools do you use for package management?
-  - What do you use to maintain Docker images?
-  - Do you use the GitLab Container Registry to manage Helm Charts?
-  - What percentage of projects are building containers as deliverables?
+  - Are you using GitLab for CI?
+  - Do you currently containerize your apps?
+    - If yes, what container registry are you using?
+    - What percentage of your projects are building containers?
+    - Which features are important to you in a container registry?
+    - Do you have customized workflows or requirements?
+    - What is working / not working about your current container registry?
+  - Do you package any libraries? Are you planning to?
+    - What languages are you using?
+    - Which features are important to you in a package registry?
+    - What is working / not working about your current package registry?
+  - Do you want to provide public access to any of your containers or packages?
 - **Secure**
   - What do you use to scan your application source code and binaries?
   - Do you analyze your running web application for known runtime vulnerabilities?
