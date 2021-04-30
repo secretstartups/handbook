@@ -202,17 +202,15 @@ The [validation track](/handbook/product-development-flow/#validation-track) is 
 
 Using a competencies model will help Product Managers understand the expectations of the validation track at each level in the Product Management organization. The competencies in the validation track are:
 
+**Note:** Visit the [GitLab Learn Product Management Learning Hub]](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub) for resources to support  development in this area.
+{:.alert .alert-info}
+
 1. [Customer Interviewing](#customer-interviewing-competency)
-     - supporting educational content: [customer interviewing](./learning-and-development/#discovery-customer-interviewing)
 1. [Creating an Opportunity Canvas](#opportunity-canvas-competency)
-     - supporting educational content: [opportunity canvases](./learning-and-development/#opportunity-canvases)
 1. Creating a Storyboard Designing Prototypes
-     
-     - supporting educational content: [lean product development](./learning-and-development/#discovery-lean-product-development) and [design](./learning-and-development/#%EF%B8%8F-design)
 1. Engaging Analysts via Inquiries
 
-**Note:** Visit the [Product L & D](./learning-and-development/#discovery)) for more resources to support  development in this area.
-{:.alert .alert-info}
+
 
 #### Customer Interviewing Competency
 
