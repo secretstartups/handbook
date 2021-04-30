@@ -10,7 +10,7 @@ Executive Business Administrator's at GitLab toggle seamlessly between various s
 
 ## Executive Business Administrator (Junior) 
 
- Executive Business Administrators (Junior) report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead]. 
+Executive Business Administrators (Junior) report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead]. 
 
 ### Job Grade
 
