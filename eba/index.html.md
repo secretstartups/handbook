@@ -15,23 +15,26 @@ This page details processes and general guidelines specific to the Executive Bus
 
 ## Executive Business Administrator Team
 
+### E-Group Member EBA's
 * Cheri Holmes (Staff EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Michael McBride (CRO)
+* Katie Gammon (EBA) supporting Sid Sijbrandij (Co-Founder & CEO), Michael McBride (CRO), and Stella Treas (Chief of Staff)
 * Stefanie Haynes (Sr. EBA) supporting Todd Barr (CMO) and Darren Murph (Head of Remote)
 * Robyn Hartough (Sr. EBA) supporting Robin Schulman (CLO), and Legal Directors: Rashmi Chachra (Corporate), Rob Nalen (Operations & Contracts), Emily Plotkin (Employment), and Lynsey Sayers (Privacy & Product)
 * Jaclyn Grant (Sr. EBA) supporting Brian Robins(CFO) and Finance Leadership: Craig Mestel, Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
 * Trevor Knudsen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success)
-* Katie Gammon (EBA) supporting Stella Treas (Chief of Staff)
 * Kristie Thomas (EBA) supporting Scott Williamson (CProdO),Eric Johnson (CTO), Johnathan Hunt (VP of Security), Anoop Dawar (VP of Product Management), David DeSanto (Sr. Director of Product Management, Dec & Sec)
+
+### All-Directs EBA's 
 * Jennifer Garcia (EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and future VP of Alliances
 * Victoria Reinhardt (EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
 
 ## Contact us
-We'd love for our fellow team members to contact us in slack at #eba-team. If you need to quickly communicate with the entire team please @ mention exec-admins in slack.
+Please feel free to ping/hang out with us in slack at #eba-team. If you need to quickly communicate with the entire team please @ mention exec-admins in slack.
 
 
 ## Meeting request requirements
 
-If you would like to schedule a meeting with E-Group at GitLab, please slack the EBA in #eba-team with the following information (or DM if confidential):
+If you would like to schedule a meeting with a Leader at GitLab, please slack the appropriate EBA in #eba-team with the following information (or DM if confidential):
 1. Must have/optional attendees
 1. Meeting type: internal prep, client facing/customer, prospective customer, etc
 1. Urgency/ Desired timeframe: in the next two days, in the next week or two, etc
