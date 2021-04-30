@@ -214,8 +214,9 @@ The FY22 BIA will be completed in phases with the goal that all systems listed i
 |Systems|BIA Procedures|
 |----------|----------|
 |SOX and SOC2 in-scope systems ([Tier 1 and Tier 2 critical systems](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|FY22 Q1 / Q2|
-|Non- SOX and SOC2 systems that store or process RED or ORANGE Data ([Tier 3 critical systems](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|TBD|
-|All remaining systems ([Tier 4 - non-critical sysetms](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|TBD|
+|Non- SOX and SOC2 systems that store or process RED or ORANGE Data ([Tier 3 critical systems](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|Tentatively planned for July 2021|
+|Systems that store YELLOW or GREEN data ([Tier 4 - non-critical sysetms](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers)); including systems on the tech stack with a data classification value of `null`|TBD|
+|True-up: The BIA rollout was based on a static pull of the tech stack as of `2021-03-28`. A static list provided the team with a more efficient way to track the various phases of work.|TBD|
 
 ## Conclusion
 
