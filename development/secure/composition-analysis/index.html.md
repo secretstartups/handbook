@@ -29,11 +29,29 @@ See [the exhaustive list of projects](#projects) the group maintains.
 
 The Composition Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
 
+#### Indicating Status and Raising Risk
+
+We leverage [the issue's health status feature](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status) to communicate the progress of the issue. 
+
+All issues should be marked `On Track` at the beginning of a milestone. This is currently done manually by the Engineering Manager.
+
+Raising risk early is important. The more time we have, the more options we have. As such, the team reviews issues every week and discusses items that `Need Attention` or are `At Risk` to possibly course correct and re-assign resources based on the team's priorities.
+
+Follow these steps when raising or downgrading risk:
+
+1. Update the Health Status in the issue:
+    1. `On Track` - the work will be completed within the planned milestone.
+    1. `Needs Attention` - the issue is blocked or has other factors that need to be discussed.
+    1. `At Risk` - the issue is in jeopardy of missing the cutoff to ship within the planned milestone.
+1. Add a comment about why the risk has increased or decreased.
+1. Copy the Backend Engineering Manager and Product Manager in a comment.
+1. Copy the Frontend Engineering Manager if there is associated frontend work that may be impacted.
+
 #### Experiments
 
-In addition to the above workflows, the Composition Analysis group can be involved in some experiments, which might temporarily alter how we work
+In addition to the above workflow, the Composition Analysis group can be involved in some experiments, which might temporarily alter how we work. 
 
-- [Leverage issue's health status to report progress - Composition Analysis](https://gitlab.com/gitlab-org/secure/general/-/issues/130)
+*There are no experiments in progress at the moment.*
 
 ### Reaction rotation
 
