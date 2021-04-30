@@ -36,7 +36,7 @@ _The sections below also link to these templates, but they're provided here for 
 
 - [Monthly **release post** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md)
 - [Monthly **release post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
-- [Monthly **release post bug, usability and performance improvements** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
+- [Monthly **release post bug, usability and performance improvements** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
 - [Monthly release **content block** templates](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased/samples)
 - [Patch release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/patch_release_blog_template.html.md.erb)
 - [Security release template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/security_release_blog_template.html.md)
@@ -231,7 +231,7 @@ _**Note:** The MRs for Usability improvements, Bugs, and Performance improvement
 1. From each of these newly created branches, open a merge request (MR)
    targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs` `Draft: release-X-Y-usability-improvements`and
    `Draft: release-X-Y-performance-improvements`, and use the
-   [`Release-Post-Bug-Usability-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-PerformanceImprovement-Block.md)
+   [`Release-Post-Bug-Usability-PerformanceImprovement-Block`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Bug-Performance-Usability-Improvement-Block.md)
    template.
 1. Add appropriate milestone to the MRs.
 1. Assign the MRs to yourself, and assign the TW lead as Reviewer of the MRs when the merge request is ready for review.
@@ -245,7 +245,7 @@ _**Note:** The MRs for Usability improvements, Bugs, and Performance improvement
 1. On the `release-X-Y-bugs` branch, add [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml)
    to the `data/release_posts/unreleased/` folder.
 1. On the `release-X-Y-usability-improvements` branch, add
-   [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/release-post-ux-improvements.yml) 
+   [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml) 
 1. On the `release-X-Y-performance-improvements` branch, add
    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
    to the  `data/release_posts/unreleased/` folder.
