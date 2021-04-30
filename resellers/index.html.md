@@ -26,21 +26,21 @@ This page provides an overview of the program, requirements, benefits and instru
 
 ### GitLab Value for Partners
 
-GitLab is experiencing tremendous growth, which creates incredible opportunities for our partners.  Partners have the opportunity to create revenue growth for their companies through:
+GitLab is experiencing tremendous growth, which creates incredible opportunities for our partners.  Partners have the opportunity to create revenue growth with GitLab through:
 
 *   Product sales discounts or referral fees
 *   Growing recurring revenues and renewals
-*   Deployment and consulting services incentives and opportunities including implementation, integration, migration, education and process improvement services.
-
+*   Deployment and consulting services including implementation, integration, migration, education and process optimization services.
 
 ![alt_text](/images/gitlabvalueforpartners.png "image_tooltip")
+
 
 
 ### Why Become a GitLab Partner?
 
 Companies need skilled, qualified experts to help them implement the latest DevOps best practices and technologies to improve the quality and speed of their software development. GitLab is the only vendor offering an end to end software development lifecycle solution.  This means that you can offer your customers the most complete solution on the market and help them develop efficient, integrated end to end processes.  The result?  Simplified development toolchains, faster delivery of quality software, and improved security and compliance.
 
-And it’s not just the completeness of the solution that creates opportunities for you.  By joining the GitLab Partner Program, you will be partnering with a company that is growing annual recurring revenue by over 100%.  As our customer base grows, your business opportunities grow.  Additionally, you can help the thousands of users of the open source GitLab Community Edition that could benefit from an upgrade to the expanded features and functionality of the GitLab Enterprise Edition.  
+And it’s not just the completeness of the solution that creates opportunities for you.  By joining the GitLab Partner Program, you will be partnering with a company that is rapidly growing annual recurring revenue and global customer base.  As our customer base grows, your business opportunities grow.  Additionally, you can help the thousands of users of the open source GitLab Community Edition that could benefit from an upgrade to the expanded features and functionality of the GitLab Enterprise Edition.  
 
 Whether you are working with new customers, customer transitions from open-source to licensed editions, customer expansions or addressing other needs, your customers will need your help, creating a tremendous opportunity to expand your software sales and services businesses.  
 
@@ -66,12 +66,12 @@ The GitLab Partner Program makes it  easier for partners  to maximize the value 
 
 
 
-*   Training and Enablement
+*   Training, Enablement and Certifications
     *   Sales training and enablement, ensuring that our partners are as well-trained and equipped as our own sales teams
     *   Technical services, training and enablement designed to help you drive customer usage and adoption
     *   GitLab Badging, Accreditation & Certification
 *   Global expansion of our channel team to support the growth of your GitLab success
-*   Improved ease of doing business, via a new partner portal with online resources and tools
+*   Improved ease of doing business, via a partner portal and learning management system with online resources and tools
 *   Marketing resources and marketing development funds for lead creation
 *   Support for our partners throughout the entire customer journey
 *   NFR licenses and discounts on GitLab products
@@ -87,33 +87,33 @@ The GitLab Partner Program consists of three tracks to support the different way
 
 ### Getting Started with GitLab
 
-To engage with GitLab, partners start by completing the online registration process on about.gitlab.com/reseller page, executing the GitLab Partner Agreement and completing the partner onboarding steps.
+To engage with GitLab, partners start by completing the online registration process on about.gitlab.com/partners page, executing the GitLab Partner Agreement and completing the partner onboarding steps.
 
-Once a partner contract is executed , you will have access to the GitLab Partner Portal and other members of your team will be able to register and be associated with your account.  At that time, you will be able to enter deal registrations and referral transactions.  You will also have access to sales tools, technical resources, and training courses.  
+Once a partner contract is executed , you will have access to the GitLab Partner Portal and other members of your team will be able to register and be associated with your account.  At that time, you will  have access to sales tools, technical resources, and training courses.  Once one member of your team completes the GitLab Sales Core training, your company will also be able to enter deal registrations and referral transactions.  
 
 #### Program Requirements and Benefits
 
 |    |**GitLab Open** | **GitLab Select (Invitation only)** | **GitLab Technology** |
 |-------------------|:---------------------------------:|:-------------------:|:---:|
-| Overall Program Requirements |  |  |  |
+| **Overall Program Requirements** |  |  |  |
 | GitLab Partner Agreement | X | X | X |
 | # of Sales Certified resources | 2 | 5 |  |
 | # of Technical Certified resources | 1 | 3 |  |
 | Exec Sponsored Joint Business Plan |  | X |  |
 | Program Rev Targets Min - BusPlan Committed |  | $300K |  |
 |  |  |  |  |
-| Sales Benefits |  |  |  |
+| **Sales Benefits** |  |  |  |
 | Deal Registration Discounts | X | X |  |
 | Referral Fee | X | X | X |
 | Renewals Discounts | X | X |  |
 |  |  |  |  |
-| Support Benefits |  |  |  |
+| **Support Benefits** |  |  |  |
 | Partner Helpdesk | X | X |  |
 | Level 2 Support Hotline |  | X |  |
 | Dedicated Channel Manager |  | X |  |
-| Free Limited Instance of GitLab Ultimate/Gold - 5 users/6mo |  | X |  |
+| Free Limited Instance of GitLab Ultimate - 5 users/6mo |  | X |  |
 |  |  |  |  |
-| Marketing |  |  |  |
+| **Marketing** |  |  |  |
 | Partner Portal | X | X | X |
 | Proposal Based MDF | X | X |  |
 | Sales & Pre-Sales Technical Enablement | X | X | X |
@@ -123,14 +123,13 @@ Once a partner contract is executed , you will have access to the GitLab Partner
 | Demand Generation Resources | X | X | X |
 | Leads |  | X |  |
 |  |  |  |  |
-| Separate Partner Tracks |  |  |  |
-| Services |  |  |  |
+| **Services** |  |  |  |
 | Packaged Professional Services Discounts | X | X |  |
 | Product Services Certification |  | X |  |
 | Operational Services Certification |  | X |  |
 | Customer Success Certifications |  | X |  |
 |  |  |  |  |
-| Managed Services |  |  |  |
+| **Managed Services** |  |  |  |
 | Managed Services certification |  | X |  |
 | Managed Services Support Discount |  | X |  |
 
@@ -171,19 +170,21 @@ The GitLab Partner Program consists of three tracks that support the different w
   *   GitLab Badges
   *   Field Support
 2. **Select** partners make a greater investment in expertise, develop services practices around GitLab and are expected to drive greater product recurring revenues. Participation in the Select Partner track is by invitation only. We provide:
-  *   Focused Strategic Relationships
+  *   Focused Strategic Relationships (Channel Account Manager, Solution Architect, Executives)
   *   Discounts and Referral Fees
   *   Targeted Sales and Services Enablement
   *   Badges and Certifications
   *   Access to Proposal-based MDF
-  *   Ultimate/Gold-Level Support
+  *   Lead sharing opportunities
+  *   Ultimate-Level Technical Support
   *   Business Planning and QBRs
-  *   Featured in the GitLab Partner Locator
+  *   Priority Help Desk support
+  *   Priority position in the GitLab Partner Locator
 Since participation in the Select Track is by invitation only, partners are not automatically upgraded. To be considered, they must meet these minimum requirements:
   *   Five (5) Sales Certifications in the region specified in your GitLab Partner Contract
   *   Three (3) Technical Sales Certifications in the region specified in your GitLab Partner Contract
   *   Executive-sponsored joint business plan
-  *   $300k minimum program revenue, defined as Incremental Annual Customer Value (IACV).
+  *   $300k minimum program revenue, defined as Net Annual Recurring Revenue (NetARR).
   *   Dedicated DevOps sales and/or services practice
   *   Minimum one GitLab demand generation activity per quarter
 3. **Technology** partners drive GitLab solutions through product integrations and marketplaces as part of our Technology Alliances program. They are key to completing our customer solutions through integrations with cloud platforms, legacy DevOps solutions and other solutions needed to meet customer requirements.
@@ -196,25 +197,25 @@ Since participation in the Select Track is by invitation only, partners are not 
 
 |   |**GitLab Open** | **GitLab Select** <br> **(Invitation only)** | **GitLab Technology** |
 |------------------|:---------------------------:|:-------------------:|:---:|
-| Overall Program Requirements |  |  |  |
+| **Overall Program Requirements** |  |  |  |
 | GitLab Partner Agreement | X | X | X |
 | # of Sales Certified resources | 2 | 5 |  |
 | # of Technical Certified resources | 1 | 3 |  |
 | Exec Sponsored Joint Business Plan |  | X |  |
 | Program Rev Targets Min - BusPlan Committed |  | $300K |  |
 |  |  |  |  |
-| Sales Benefits |  |  |  |
+| **Sales Benefits** |  |  |  |
 | Deal Registration Discounts | X | X |  |
 | Referral Fee | X | X | X |
 | Renewals Discounts | X | X |  |
 |  |  |  |  |
-| Support Benefits |  |  |  |
+| **Support Benefits** |  |  |  |
 | Partner Helpdesk | X | X |  |
 | Level 2 Support Hotline |  | X |  |
 | Dedicated Channel Manager |  | X |  |
 | Free Limited Instance of GitLab Ultimate/Gold - 5 users/6mo |  | X |  |
 |  |  |  |  |
-| Marketing |  |  |  |
+| **Marketing** |  |  |  |
 | Partner Portal | X | X | X |
 | Proposal Based MDF | X | X |  |
 | Sales & Pre-Sales Technical Enablement | X | X | X |
@@ -224,14 +225,13 @@ Since participation in the Select Track is by invitation only, partners are not 
 | Demand Generation Resources | X | X | X |
 | Leads |  | X |  |
 |  |  |  |  |
-| Separate Partner Tracks |  |  |  |
-| Services |  |  |  |
+| **Services** |  |  |  |
 | Packaged Professional Services Discounts | X | X |  |
 | Product Services Certification |  | X |  |
 | Operational Services Certification |  | X |  |
 | Customer Success Certifications |  | X |  |
 |  |  |  |  |
-| Managed Services |  |  |  |
+| **Managed Services** |  |  |  |
 | Managed Services certification |  | X |  |
 | Managed Services Support Discount |  | X |  |
 
@@ -242,17 +242,16 @@ GitLab has developed core training and certification for sales, solution archite
 1. **GitLab Sales Core** - This is the basic certification for sales and the prerequisite for pre-sales technical professionals.  The curriculum provides an overview of the market GitLab services, customer personas and needs, GitLab solutions and positioning of GitLab.  By completing the GitLab Sales Core, you’ll earn a GitLab Core Sales accreditation and meet the program requirement for Sales certification.  At least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.
 2. **GitLab Solution Architect Core** - This is the basic certification for pre-sales technical professionals and provides a deeper understanding of demonstrating, deploying, integrating and optimizing GitLab solutions.  This certification is a mix of online learning and hands-on labs.  GitLab Sales Core is the prerequisite for GitLab Solution Architect Core.  GitLab Solution Architect Core meets the program requirement for Pre-sales technical certification.  _NOTE:  The hand-on lab components for this certification are not yet available for partners.  Partners will be notified once it is available._
 3. **GitLab Technical Core** - GitLab Technical Core is the foundational technical training for post-sales technical professionals and can also be a valuable training for pre-sales technical professionals.  As we continue to develop our services enablement offerings, partners will need to develop a custom plan with their Channel Account Managers to meet the certification requirements.
+4. **Professional Services Engineer** - Individuals who earn the GitLab Professional Services Engineer (Partner) certification are able to demonstrate hands-on proficiency implementing GitLab, and are able to articulate the most common GitLab customer use cases. Estimated completion time: 20-25 hour
 
- On-demand, online training courses are available on the GitLab Partner Portal.  Registration for courses delivered to a live audience will also be available on the Partner Portal. Sales Core training takes approximately 3.5 hours to complete, Solution Architect training takes approximately 5 hours to complete. 
-
-Upon completion of each certification program, partners will earn a badge and will address the corresponding company certification requirement.
+For more details, visit the [Channel Training, Certifications and Enablement](https://about.gitlab.com/handbook/resellers/training/) page.
 
 
 ### Discounts and Referral Fees
 
 The GitLab Partner Program helps develop your practice to best fit your business model. You can earn one-time and recurring revenues from product and services sales, referrals, and services delivery and resale.
 
-To view the GitLab Partner Program Discount and Referral Fee Table please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Partner) and access discount table in the Program Documents folder in the Asset Library.  Note, no discounts are given on sales of Bronze / Starter sales or renewals.
+To view the GitLab Partner Program Discount and Referral Fee Table please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Partner) and access discount table in the Program Documents folder in the Asset Library. 
 
 Authorized Public Sector Partner can earn one-time and recurring revenues from product and services sales, referrals, as well as services deliver and resale.  To view Public Sector Discounts please visit the [GitLab Partner Portal](https://partners.gitlab.com) (must be an authorized Public Sector Partner) and access discount table in the Program Documents folder in the Asset Library.
 
@@ -262,32 +261,26 @@ GitLab employees can access the discount table [here.](https://gitlab.my.salesfo
 #### Definitions and Qualifications
 
 
-*   **Partner Sourced Discount** - You can earn the largest available product discount with a **Partner Sourced opportunity**. It can be a new opportunity to our sales team or one that was significantly impacted by the partner, early in the sales cycle.  It can be for a new or existing customer.  Partners purchasing GitLab for their own internal production use, true ups and add-on licenses at renewal can also qualify for PIO discounts. The partner is expected to assist the GitLab Sales team in closing the sale.  
-This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for Sourced discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. Partner Sourced is available for both resale and referral opportunities.  Please visit the Deal Registration Program guideline in the Program Guide for additional details.
-*   **Partner Assist Opportunity** is a discount earned for a GitLab-sourced opportunity where the partner assists our sales team in closing the deal. This may include demonstrating GitLab software, organizing executive meetings, delivery of services, etc. This is an upfront discount and the amount depends on your track within the GitLab Partner Program. To qualify for Partner Assist discounts, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. Please visit the Deal Registration Program guideline in the Program Guide for additional details.
+*   **Partner Sourced/Initiated Discount** - You can earn the largest available product discount with a **Partner Sourced opportunity**. A Partner Sourced opporunity is a new opportunity to our sales team, and can be for a new or existing customer.  Partners purchasing GitLab for their own internal production use and add-on licenses at renewal can also qualify for a Partner Sourced discounts, which is an up front discount. The partner is expected to assist the GitLab Sales team in closing the sale.  To qualify for a Sourced discount, partners must submit a deal registration to GitLab via the GitLab Partner Portal, and it must be approved by GitLab Sales to qualify. Partner Sourced is available for both resale and referral opportunities.  Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 
+*   **Partner Assist Opportunity** is a discount earned for a GitLab-sourced opportunity where the partner assists our sales team in closing the deal. This may include demonstrating GitLab software, organizing executive meetings, supporting contract negotiations, delivery of services, etc. This is an upfront discount. To qualify for the Partner Assist discount, partners must submit a deal registration to GitLab via our Partner Portal, and it must be approved by GitLab Sales to qualify. Please visit the Deal Registration Program guideline in the Program Guide for additional details.
 
 *   **Partner Fulfillment Opportunity** is fulfilled by a partner but closed independently by the GitLab sales team. The partner only processes the order and doesn’t provide additional support to close the deal.
 
+*   **Services Attach Discount and Rebate** is an incentive for partner-delivered services provided to the end user related to their use of their paid GitLab Software licenses. Services include product-related services (such as deployment, integration and migration), operational and strategic. The Services Attach incentive is based on a percentage of a customer's net annual recurring revenue of the most recent software sale for a period of up to six (6) months.
 
-*   **Services Attach Discount and Rebate** is an incentive for partner-delivered services provided to the end user related to their use of the GitLab Software (Core/Free and Starter/Bronze sales do not qualify). Services include product-related services (such as deployment, integration and migration), operational and strategic. The Services Attach incentive is administered as a rebate of 2.5% of the net license price of the most recent software sale for a period of up to six (6) months.
-    *   This incentive is stackable to up to three (3) independent services engagements provided by the partner to a single end user. The maximum is 7.5% discount and/or rebate with any combination of upfront or post sales of partner-delivered services.
-    *   Partner Services engagements must meet the following partner services deal size minimums:
-        *    1st deal: => $7,500
-        *    2nd deal: =>$10,000
-        *   3rd deal: => $10,000
+This incentive is based on the number of services delivered to unique customers each quarter. Services Attach requests must be submitted to GitLab via the Partner Portal as a deal registration (Deal Registration Type = Services Attach), must include reasonable information and documentation (as requested by GitLab) to demonstrate the Referral Client's receipt of the Partner Professional Services and must be approved by GitLab Sales.  Rebates are paid out no later than 45 days after the end of each quarter.  
 
-    Services Attach requests shall be submitted to GitLab via the Partner Portal as a deal registration, Services Attach requests shall be submitted to GitLab via the Partner Portal as a deal registration (Deal Registration Type = Services Attach), must include reasonable information and documentation (as requested by GitLab) to demonstrate the Referral Clients receipt of the Partner Professional Services and must be approved by GitLab Sales.
-
-    Rebates are paid out no later than 45 days after the end of each quarter.  
-
+    Visit the GitLab Partner Portal to view available incentives and additional information on qualifying services.
 
 *   **Referral Fees** - Referral fees are paid to partners for identifying Partner Initiated GitLab software sales opportunities that are not being resold by the partner. To qualify for a referral fee, partners must enter a referral fee deal registration in our Partner Portal. Each registration received by GitLab qualifies as a "Qualified Referral," provided that the referral is a GitLab sales opportunity that is new to GitLab, and the customer/prospect is willing to enter into a binding written agreement with GitLab to use our products and services.
-    *   All referral deal registrations must be approved by GitLab before becoming eligible for a referral fee. Referral fees are paid out quarterly, 45 days after the end of each quarter.
-*   **Services Resale** - Any partner-sold services delivered by the GitLab Professional Services team. Partners qualify for a program discount on services resale if the services are included on the order of a deal registered opportunity.
+    *   All referral deal registrations must be approved by GitLab before becoming eligible for a referral fee. Referral fees are paid out no later than 45 days after the end of each quarter.
+
+*   **Services Resale** - Partners can earn discounts on partner-sold services delivered by the GitLab Professional Services team. Partners qualify for a program discount on services resale if the services are included on the order of a deal registered opportunity.
+
 *   **Subscription Renewals** - At the end of their GitLab license subscription, customers must renew to continue their subscription. For customers whose most recent GitLab purchase was through a reseller partner, the incumbent reseller can earn a discount on the resale based on their program track, unless 1) the incumbent partner is no longer in compliance or 2) the customer provides a written request to GitLab to renew with a different partner.  A deal registration on the original opportunity is not required for a partner to earn incumbent status.
 
-    In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal.  GitLab has a significant install base of these customers with a high propensity for up/cross-sell and services opportunities. Partners are encouraged to engage with these customers but for now, the first renewal of a formerly direct customer will not be discounted for partners.  However, these new customers will create additional opportunities for growth through:  
+In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal.  GitLab has a significant install base of these customers with a high propensity for up/cross-sell and services opportunities. Partners are encouraged to engage with these customers but for now, the first renewal of a formerly direct customer will not be discounted for partners.  However, these new customers will create additional opportunities for growth through:  
 
     *   Upsell and expansion opportunities
     *   New integration, operational and other professional services opportunities
@@ -306,7 +299,6 @@ Only a properly completed Deal Registration Form can initiate an engagement. It 
 
 Only partners that have signed the GitLab Partner Program Agreement are able to register deals, earn program discounts and transact with GitLab. Unauthorized partners do not qualify.  Additionally, at least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.  In the GitLab Partner Program, you need to register individual sales opportunities. Partners may not register an account or combine opportunities.
 
-
 *   Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, partner relationship with customer.  Deal registration approval is required and will be made by GitLab Sales.
 *   Only one partner can earn a deal registration discount per opportunity.  Partners, other than the partner granted the deal registration discount that request a quote, will receive the fulfillment
 discount rate. 
@@ -318,7 +310,6 @@ discount rate.
 To learn how to enter a deal registration, visit the [Deal Registration Instructions](/handbook/resellers/#deal-registration-instructions) section below.
 
 ### NFR Program/Policy 
-
 
 The GitLab NFR (Not-for-Resale) Program offers qualified GitLab partners access to our solutions at no cost to our partners. The NFR program provides partners with an opportunity to develop greater expertise on the GitLab platform. We encourage all GitLab Partners to participate in the program and set up GitLab solutions. Consider using your environment to create integrations with GitLab Alliance solution partners.  This way your staff can fully understand the benefits and features of the GitLab products and be better prepared to demonstrate the products to customers. 
 
@@ -375,8 +366,6 @@ GitLab Open and Select partners have access to the proposal-based GitLab Marketi
 
 
 ##### MDF Investment Objectives
-
-
 
 1. Lead/Demand Generation
     *   The objective of these activities would be to gain net new end-user customers for you and GitLab. Examples of eligible activities include seminars, workshops, telemarketing or email marketing campaigns, participation in trade shows, exhibitions and direct mail.
@@ -465,6 +454,7 @@ To get started with GitLab,  register your company by going to https://partners.
 
 *   Work with to your GitLab Channel Account Manager to begin business and sales planning.
 *   Visit the portal and encourage your colleagues to sign up at https://partners.gitlab.com. 
+*   Complete the onboarding tasks that will help you familiarize you with available GitLab resources.
 *   Take the Sales training as well as other relevant learning.
 *   Register your first deal.
 
@@ -477,7 +467,7 @@ GitLab training programs are available primarily through the [GitLab Partner Por
 *   [Sales Quickstart Learning](/handbook/sales/onboarding/sales-learning-path/) - This is an overview of the GitLab Sales training plus additional learning materials.
 *   [Reseller Webcast Archive](https://about.gitlab.com/webcast/reseller/).  Review recent channel webcasts providing deep dive learning on key GitLab topics.
 *   [GitLab Training Handbook page](https://about.gitlab.com/training/) - This page provides a subset of on-demand product and technical content suggested based on your role and skill level.
-*   [GitLab Partner Bootcamp](/handbook/resellers/bootcamp) - Self paced, hands-on training for consultants and technical personnel
+*   [GitLab Partner Services Workshop](/handbook/resellers/bootcamp) - Self paced, hands-on training for consultants and technical personnel
 
 
 #### Deal Registration Instructions
@@ -526,9 +516,9 @@ If any of the above requirements are not met—or you fail to promptly schedule 
 #### Referral Fees and Discount Scenarios*
 *scenario percentages are for example only and may not reflect your actual discount
 
-| **Scenario #1** <br> - GitLab Finds Lead - Partner Fulfills | - 2% Discount of IACV |
+| **Scenario #1** <br> - GitLab Finds Lead - Partner Fulfills | - 2% Discount of Net ARR |
 |----------|--------------------------------------------------------------|
-| **Scenario #2** <br> - GitLab finds Premium Customer <br> - Requires OPEN Channel Assist <br> - Partner delivers QuickStart | 10% Discount or Referral Fee of IACV <br> - 2.5% Extra Discount or Referral for delivering services |
+| **Scenario #2** <br> - GitLab finds Premium Customer <br> - Requires OPEN Channel Assist <br> - Partner delivers QuickStart | 10% Discount or Referral Fee of net ARR <br> - 2.5% Extra Discount or Referral for delivering services |
 | **Scenario #3** <br> SELECT Partner finds Ultimate Customer <br> - Sells GitLab Education <br> - Delivers QuickStart <br> - Delivers DevOps Assessment (6 mo. later) | 20% Discount of IACV <br> - 10% Discount of GitLab Education Service <br> - 2.5% Discount of IACV (Service Attach/QuickStart) <br> - 2.5% Discount of IACV (Service Attach/QuickStart) |
 | **Scenario #4** <br> - OPEN Partner Finds Premium or Ultimate Customer |  <br> - 10% Discount or Referral Fee of IACV |
 
@@ -755,4 +745,4 @@ The GitLab team handbook is the central repository for how we run the company. P
 
 All authorized GitLab resellers are invited to the GitLab #resellers Slack channel. channel allows you to reach out to our sales and marketing team in a timely manner, as well as other resellers.
 
-Additionally, you can reach the GitLab channel team at partners@gitlab.com. 
+Additionally, you can reach the GitLab channel team at partnersupport@gitlab.com. 
