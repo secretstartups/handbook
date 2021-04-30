@@ -13,7 +13,7 @@ description: "This page is an overview of the processes, and systems that the Ca
 ## Candidate Experience Specialist Responsibilities
 {: #framework-coord}
 
-The CES team operates off of a queue style system with differing levels of priorities based on the request.  The CES team utilizes [GitLab Service Desk](/product/service-desk/) to track all incoming requests to the CES team.
+The CES team operates off of a queue style system with differing levels of priorities based on the request.  The CES team utilizes [GitLab Service Desk](/stages-devops-lifecycle/service-desk/) to track all incoming requests to the CES team.
 
 
 ### Best Practices
@@ -305,7 +305,7 @@ For questions about the new team member's laptop, ping [IT Ops](#it-ops) in Slac
 
 ### Interview Reimbursement Process
 
-For candidates requesting [interview reimbursment](/handbook/hiring/interviewing/#reimbursement-for-interviewing-with-gitlab) the CES team will partner with the Account Payable (AP) team to ensure requests are processed confidentially and in a timely manner. AP and the CES team utilize [GitLab Service Desk](/product/service-desk/) to track incoming emails to the Interviews@gitlab.com email.
+For candidates requesting [interview reimbursment](/handbook/hiring/interviewing/#reimbursement-for-interviewing-with-gitlab) the CES team will partner with the Account Payable (AP) team to ensure requests are processed confidentially and in a timely manner. AP and the CES team utilize [GitLab Service Desk](/stages-devops-lifecycle/service-desk/) to track incoming emails to the Interviews@gitlab.com email.
 
 Under the [Interview Reimbursement Service Desk](https://gitlab.com/interview-reimbursement/ap-ces/issues) set up the proper notifications
    - Click on the bell icon on the top right next to Star and Clone

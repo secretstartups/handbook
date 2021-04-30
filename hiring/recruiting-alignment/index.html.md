@@ -33,7 +33,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Infrastructure   | Matt Allen  | Joanna Michniewicz |
 | Product Management  | Matt Allen | Chris Cruz |
 
-The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/product/service-desk/).
+The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/stages-devops-lifecycle/service-desk/).
 
 ## Talent Acquisition Platform Directly Responsible Individual
 

@@ -75,7 +75,7 @@ Per the current [Referral Submission Process](/handbook/hiring/referral-process/
 
 #### How to Respond to Referral Update Requests
 
-The Talent Acquisition Team uses the [GitLab Service Desk](/product/service-desk/) to track incoming emails to the `referral@gitlab` email. These emails will, in turn, show up as `Issues`.
+The Talent Acquisition Team uses the [GitLab Service Desk](/stages-devops-lifecycle/service-desk/) to track incoming emails to the `referral@gitlab` email. These emails will, in turn, show up as `Issues`.
 
 To set-up notifications for the [Referral Service Desk Project](https://gitlab.com/gl-talent-acquisition/referrals), please do the following:
 
