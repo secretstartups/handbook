@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Endpoint Detection and Response at GitLab"
+description: "Endpoint Detection and Response: EDR, endpoint security, anti-virus, macOS, Windows, Linux, endpoint management"
 ---
 
 ## On this page
