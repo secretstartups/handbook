@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Endpoint Management at GitLab"
+description: "Endpoint Management: endpoint security, macOS, Windows, Linux, endpoint management, SentinelOne, Jamf"
 ---
 
 ## On this page
