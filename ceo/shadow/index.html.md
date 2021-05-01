@@ -1019,4 +1019,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-03-22 | 2021-04-02 | [Darwin Sanoy](https://gitlab.com/darwinjs) | Senior Solutions Architect, Alliances | |
 | 2021-03-29 | 2021-04-09 | [Anthony Ogunbowale - Thomas](https://gitlab.com/anthonyot) | Named, Account Executive EMEA | |
 | 2021-04-05 | 2021-04-16 | [Katie Gammon](https://gitlab.com/kgammon) | Executive Business Administrator | |
-| 2021-04-12 | 2021-04-23 | [Pilar Mejia](https://gitlab.com/pmejia) | Distribution Manager, Public Sector |[3 habits to maximize your work day: CEO Shadow insights](https://www.youtube.com/watch?v=JCgblax26LM) |
+| 2021-04-12 | 2021-04-23 | [Pilar Mejia](https://gitlab.com/pmejia) | Distribution Manager, Public Sector | [3 habits to maximize your work day: CEO Shadow insights](https://www.youtube.com/watch?v=JCgblax26LM) |
+| 2021-04-19 | 2021-04-30 | [Joanna Shih](https://gitlab.com/jo_shih) | Quality Engineering Manager, Ops | |
