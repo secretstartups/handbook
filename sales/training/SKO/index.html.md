@@ -22,3 +22,4 @@ This event sets the tone for the GitLab field organization for the new fiscal ye
 
 ## [Sales Kickoff 2020](/handbook/sales/training/SKO/2020)
 
+## [Sales Kickoff 2021](/handbook/sales/training/SKO/2021)
