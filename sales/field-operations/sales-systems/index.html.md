@@ -110,7 +110,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 6.  When you feel your iteration is complete run `git status` to make sure the changed files are the ones you expected.
 7.  Add in the files you wish to commit with `git add [filename]` or `git add *` if you want to add all changed files.
 8.  Commit your changes with a relevant message: `git commit -m "Fixing Apex CPU Errors"`.
-9.  Using the link provided by GitLab, open a merge request, [make it a `WIP:`](/handbook/git-page-update/#marking-a-merge-request-as-a-work-in-progress-wip), and assign it to the Architect on the project.
+9.  Using the link provided by GitLab, open a merge request, [make it a `Draft:`](/handbook/git-page-update/#marking-a-merge-request-as-draft), and assign it to the Architect on the project.
 10.  Comment on the related issue with an @ to the project's Architect for review, providing a link to the merge request. (this automatically links the merge request to the issue)
 11.  If the Architect calls for a live demo, schedule the meeting and prep your sandbox to do a run through with the end customer.
 12.  If the Architect calls for user acceptance testing, make sure the assigned testers have access to the sandbox where the work was done, and schedule testing.
