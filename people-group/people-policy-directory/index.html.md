@@ -129,7 +129,7 @@ GitLab currently contracts with [Sterling Talent Solutions](https://www.sterling
 
 All candidates who make it to the reference stage with GitLab will undergo a background screening according to this policy and in compliance with applicable local law. Contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to GitLab. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at GitLab. In the event the background check is not available on the scheduled hire date due to delays in processing, GitLab will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
-The Candidate Experience Specialists will [initiate](/handbook/hiring/talent-acquisition-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. The [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) will initiate all retroactive background checks for current team members.
+The Candidate Experience Specialists will [initiate](/handbook/hiring/talent-acquisition-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. The [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) will initiate any applicable retroactive background checks or requested enhanced background checks for current team members.
 
 #### Disclosure and Authorization
 
