@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Endpoint Management at GitLab"
+title: "Endpoint Management - Jamf"
+description: "Endpoint Management - Jamf: endpoint management, configuration, patching, asset inventory, endpoint policies, hardware health"
 ---
 
 ## On this page
