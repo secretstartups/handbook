@@ -14,7 +14,7 @@ description: "Endpoint Management: endpoint security, macOS, Windows, Linux, end
 
 ## What is an endpoint?
 
-An endpoint is any device that is physically an endpoint on a network. These can include laptops, desktops, mobile phones, tablets, servers, and virtual environments. For the purposes of this current project however, the scope is limited to Apple laptops.
+An endpoint is any device that is physically an endpoint on a network. These can include laptops, desktops, mobile phones, tablets, servers, and virtual environments.
 
 ## What is endpoint management?
 
@@ -45,7 +45,7 @@ Additionally, to meet the rigorous security requirements of enterprise customers
 1. Provide the ability to remotely wipe a device that has been lost or stolen
 1. Allow for the configuration of security features such as required passwords and OS updates
 1. Automatically identify and stop digital attacks on endpoints
-1. Alert the SIRT team of attacks on endpoints
+1. Alert the Security Incident Response Team (SIRT) of attacks on endpoints
 1. Provide the SIRT team with the ability to respond, investigate, and remediate attacks on endpoints
 1. Provide a flexible and configurable endpoint firewall solution
 1. Provide antivirus functionality for endpoints
@@ -64,6 +64,7 @@ What the endpoint management solution **does not** do:
 GitLab has chosen the following endpoint technologies to comply with the various security, compliance, regulatory, and customer requirements we face.
 
 #### Jamf
+
 Jamf is an Apple device management solution used by system administrators to configure and automate IT administration tasks for macOS, iOS, and tvOS devices. For more detail, please review the [Jamf endpoint management page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf).
 
 
