@@ -21,7 +21,7 @@ With an increased number of high profile breaches in the media today it is impor
 EDR is a collection of endpoint security technologies that together record and store endpoint-system-level behaviors, use various data analytics techniques to detect suspicious system behavior, provide contextual information, block malicious activity, and provide remediation paths to restore affected systems.
 
 ### What is SentinelOne?
-[SentinelOne](https://www.sentinelone.com/) is the EDR technology chosen by GitLab to help protect endpoint devices.
+[SentinelOne](https://www.sentinelone.com/) is the EDR technology chosen by GitLab to help protect endpoint devices. All data assocaited with the effort conducted to evaluate EDR vendors while ultimately resulted in the chosing of SentinelOne can be found in the efforts [project repo](https://gitlab.com/gitlab-com/gl-security/security-research/edr-proof-of-concept/-/tree/master).
 
 ### Why is this necessary?
 
@@ -35,11 +35,11 @@ Antivirus can be seen as one part of the EDR complete security technology soluti
 
 ### How does EDR technology work?
 
-The first line of defense is stopping (or if configured, alerting) common threats on the laptop. As for additional or more "layered" lines of defense, certain types of activity (mainly involving processes on the laptop) are recorded and uploaded to a private instance for further processing. This data is never shared with the EDR vendor, and much more sophisticated processing can take place for more thorough threat detection. As a result, the agent on the laptop is typically 40-60mb in size, as opposed to the older traditional antivirus solutions which can be well over a gigabyte. This results in less resources being used on the laptop including low CPU and low memory usage.
+The first line of defense is stopping (or if configured, alerting) common threats on the laptop. As for additional or more "layered" lines of defense, certain types of activity (mainly involving processes on the laptop) are recorded and uploaded to a private instance for further processing and investigation. Much more sophisticated processing can take place for more thorough threat detection. This data is never shared with the EDR vendor. As a result, the agent on the laptop is typically 40-60mb in size, as opposed to the older traditional antivirus solutions which can be well over a gigabyte. This results in less resources being used on the laptop including low CPU and low memory usage.
 
 ### Is this in addtion to Jamf or a replacement for Jamf?
 
-The EDR technology we end up choosing will be in addition to Jamf. While Jamf does offer security features and protections, an EDR solution combined with Jamf will offer great ability to detect and stop significant threats and advanced digital attacks on GitLab team member laptops.
+The EDR technology is in addition to Jamf. While Jamf does offer security features and protections, an EDR solution combined with Jamf will offer great ability to detect and stop significant threats and advanced digital attacks on GitLab team member laptops.
 
 ### Will it monitor my local network?
 
@@ -47,28 +47,28 @@ No. The EDR solution only monitors the GitLab laptop, like an antivirus solution
 
 ### What is not necessary?
 
-Monitoring of team member activity. We have no intention of doing this, and will purposely restrict this type of activity if it is available in an EDR solution. There will be times, such as during an active security incident where a SIRT team member may need to remotely perform actions to stop and contain the incident, but these will only be used if required and with the consent of the team member. All such actions will also be auditable.
+Monitoring of team member activity. We have no intention of doing this. There will be times, such as during an active security incident where a [Security Incident Response Team (SIRT)](https://about.gitlab.com/handbook/engineering/security/#sirt---security-incident-response-team) team member may need to remotely perform actions to stop and contain the incident, but these will only be used if required and with the consent of the team member. All such actions will also be auditable.
 
 ### Why are we using a third party endpoint management system?
 
-We do not want to write our own EDR solution, nor do we want to assemble a series of partial solutions into some type of chain to attempt to meet compliance requirements. Not only does a third party EDR solution allow us to meet requirements in a thorough and more economic way, it will show auditors, regulators, and customers that we are taking security seriously.
+We do not want to write our own EDR solution, nor do we want to assemble a series of partial solutions into some type of chain to attempt to meet compliance requirements. Not only does a third party EDR solution allow us to meet requirements in a thorough and more economic way, it will show auditors, regulators, and customers that we are taking security seriously and implementing it consistently.
 
 ### Can we self-host our own solution to have more control?
 
-We could, although this would require a substantial amount of effort to be able to have a self-hosted solution that would address both compliance requirements and customer concerns. It is possible that we can self-host or even single-tenant-host a third party EDR solution as a method of having more control (this is one of our evaluation criteria), which can more than meet our needs.
+We could, although this would require a substantial amount of effort to be able to have a self-hosted solution that would address both compliance requirements and customer concerns. The chosen EDR technology is a single-tenant-hosted third party EDR solution to help ensure GitLab and Team Member data privacy.
 
 ### I dual boot two different operating systems, do they both need an agent?
 
-Yes. Each operating system on a host computer that is used to access GitLab computing resources, infrastructure, or environments, will need have an EDR agent installed.
+Yes. Each operating system (with the exception of Linux) on a host computer that is used to access GitLab computing resources, infrastructure, or environments, will need have an EDR agent installed.
 
 ### I have several virtual hosts on my laptop, do they all need agents?
 
-Yes. Each operating system on a computer, to include the host operating system, and all guest operation systems, that are used to access GitLab computing resources, infrastructure, or environments, will need have an EDR agen installed.
+Yes. Each operating system on a computer (with the exception of Linux), to include the host operating system, and all guest operation systems, that are used to access GitLab computing resources, infrastructure, or environments, will need have an EDR agent installed.
 
 
 ### I run my own antivirus solution on my work laptop, isn’t that enough?
 
-While this effort is certainly appreciated, we need a way to be able to audit laptops to meet compliance requirements. We would still encourage you to run any such antivirus product up until you’ve been moved over to the EDR solution.
+While this effort is certainly appreciated, we need a way to be able to audit laptops to meet compliance requirements. We would still encourage you to run any such antivirus product up until the EDR solution has been rolled out to your laptop. After which time, we strongly encourage you to uninstall the antivirus solution previously installed. Multiple instances of these technologies, especially from different vendors, have the tendency to cause issues on an endpoint which may negatively impact system performance and your productivity.
 
 
 ### Who owns and manages the EDR solution at GitLab?
@@ -84,11 +84,7 @@ While such a possibility exists, we feel that the risk of something like this ha
  - A new security exploit is discovered, and unpatched applications start getting exploited in the wild.
  - GitLab experiencing a targeted attack on our endpoints, which could lead to a compromise of the GitLab Production environment resulting in a customer data breach.
 
-That being said, as a part of our evaluation criteria we are looking for the ability to audit any processes that allow us to monitor and even prevent such activity. This means that the solution must have role-based access controls to limit access to certain features, and all of the use of such features must be auditable.
-
-### There is a lot of information about our environment (laptop os configs, software apps that are used, etc) that's publicly available on our Handbook. Isn't the risk of someone using that information to exploit one of our machines higher due to our transparency?
-
-No software can mitigate all types of bad behaviour or abuse. Rather than relying on software to police itself, we would prefer to make the software transparent enough so that operations which violate company policies would be made plain to everyone. If you wish to see what data is being collected, and what policies are applied to your device, we would be happy to do a Zoom screen share with you. Simply reach out to ITOps by opening an issue in the IT Helpdesk tracker to schedule a time .
+That being said, the EDR solution provides the ability to audit any processes and actions that have been conducted by an Administrator or the technology itself. The solution has role-based access controls implemented to limit access to certain features, and all of the use of such features is auditable.
 
 ### What options does a team member have to protect their home network privacy?
 
