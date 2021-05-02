@@ -22,7 +22,7 @@ Note: this section only discusses items in the offboarding where People Engineer
 graph TD
   A[Offboarding is logged into the tracker] --> |All offboardings| B
   A --> |When the offboarding is voluntary| G
-  B[PEA triggers Slack command for offboarding issue] --> |Offboarding issue is created, manager is assigned| C
+  B[Offboarding issue is created, manager is assigned] --> C
   C[Offboarding merge request is created] --> D
   D[Team member is removed from gitlab-com and gitlab-org] --> E
   E[1 day after: removed from Guardian] --> F
