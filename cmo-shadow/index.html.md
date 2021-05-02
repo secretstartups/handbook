@@ -72,6 +72,7 @@ CMO staff will recommend who from their organizations should participate in the 
 | 2021-03-15 | 2021-03-26 | [William Chia](https://gitlab.com/williamchia) - Manager, Product Marketing |
 | 2021-03-29 | 2021-04-09 | [Hannah Woodward](https://gitlab.com/hwoodward) - Sr. Manager, AMER Sales Development |
 | 2021-04-19 | 2021-04-30 | [Natasha Woods](https://gitlab.com/nwoods1) - Director, Corporate Communications |
+| 2021-05-03 | 2021-05-14 | [Emily Luehrs](https://gitlab.com/emilyluehrs) - Manager, Account Based Marketing |
 
 ## Preparing for the Program
 {: #preparation .gitlab-purple}
