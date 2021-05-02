@@ -16,7 +16,10 @@ This event sets the tone for the GitLab field organization for the new fiscal ye
 1.  **Celebrate**: Recognize and enjoy the successes of the prior fiscal year
 1.  **Enable**: Ensure every field team member returns home with a clear understanding of what’s needed to plan and execute their business for the new fiscal year (based on functional enablement priorities from senior leadership) 
 
+# Sales Kickoff 2022
+GitLab SKO 2022 will take place from February 7-11, 2022 in National Harbor, MD USA at the [Gaylord National Resort & Convention Center](https://www.marriott.com/en-us/hotels/wasgn-gaylord-national-resort-and-convention-center/overview/) (just under 10 miles south of Washington, DC).
 
+This page will be updated as additional details are confirmed.
 
 ----
 
