@@ -19,7 +19,8 @@ description: "Successful management includes onboarding, reviewing Command Plans
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hambdfyj0xU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- blank line -->
  
-### Review Account Plans 
+ 
+## Review Account Plans 
 
 * Regularly review account plans with your team. Quarterly reviews of the account plan(s) are recommended. For more information, review the [Account Planning Coaching](/handbook/sales/account-planning/coaching/) page.  
 
