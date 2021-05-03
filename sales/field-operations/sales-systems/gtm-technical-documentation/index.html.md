@@ -400,7 +400,7 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
    - A closed opportunity has its owner updated
 
 **Logic Locations:** 
-   * [OpportunityClass.stampSATeam](###) - Link to Come
+   * [OpportunityClass.stampSATeam](###) - Link Pending Merge
 
 
 ## Automations
