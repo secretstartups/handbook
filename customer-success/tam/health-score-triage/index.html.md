@@ -174,8 +174,8 @@ An account risk issue should be created in the [Account Triage Project](https://
 
 When an account is in triage, keep the triage issue updated as follows:
 
-- **Red:** Weekly, and as new information is available
-- **Yellow:** Biweekly, and as new information is available
+- **Red:** All next steps should have an associated date and the update frequency needs to be ahead of expiring due dates.  The minimum update frequency on a red account should be bi-weekly to ensure that data is fresh and focus is not lost.
+- **Yellow:** At a minimum monthly, ahead of pending due dates and as new information is available
 
 If nothing of note has occured since the last update, indicate that as well as the next steps you are taking.
 
