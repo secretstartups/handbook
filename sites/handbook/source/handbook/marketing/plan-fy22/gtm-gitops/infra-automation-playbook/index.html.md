@@ -28,6 +28,19 @@ Expand DevOps best practices to Infrastructure teams
 
 More details [here](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#personas)
 
+### Keywords to hear
+
+
+- Infrastructure as code
+- GitOps
+- Infrastructure automation
+- Configuration as code
+- AWS Cloud formation
+- Terraform
+- Ansible
+- Policy as code
+- Approvals for infrastructure changes
+
 ### Discovery questions
 
 - How does your infrastructure team manage configurations, policies, variables etc consistently across your infrastructure?
