@@ -38,9 +38,9 @@ Managing and identifying underperformance is one of the hardest things a manager
 
 ### Managing Performance at GitLab
 
-GitLab strives to treat all team members with respect and dignity at all times. You can review GitLab's [Team Member Relation Philosophy](https://about.gitlab.com/handbook/people-group/team-member-relations-philosophy/) in the handboodk which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
+GitLab strives to treat all team members with respect and dignity at all times. You can review GitLab's [Team Member Relation Philosophy](https://about.gitlab.com/handbook/people-group/team-member-relations-philosophy/) in the handbook which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
 
-Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all managers do it early and provide team members with clear feedback and guidance.  There are many reasons why a manager may not actively manage an underperforming team member.  Below are a few reasons why managers avoid the difficult performance conversations:  
+Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all managers performance manage early and provide team members with clear feedback and guidance.  There are many reasons why a manager may not actively manage an underperforming team member.  Below are a few reasons why managers sometimes avoid the difficult performance conversations:  
 
 * Because it is hard and the manager fears having the hard conversations
 * Favourtism
@@ -131,11 +131,11 @@ This results in a lower rate of involuntary attrition than comparable companies,
 * Requiring that hiring managers write a "justification" scorecard that outlines the candidate's strengths, outlines their weaknesses, and articulates a plan for making them successfully
 * Requiring that hiring managers fill out a retrospection document for all unsuccessful hires
 
-### Options For Remediation 
+## Options For Remediation 
 
 Remediation options will vary based on if the team members underperformance is skill-based or will-based and local applicable law.  However, as a best practice and to provide a consistent experience for all team members the following remediation process is recommended. 
 
-## Skill-based performance remediation
+### Skill-based performance remediation
 
 * [Coaching](/handbook/leadership/underperformance/#coaching)
 * [Written Warning](/handbook/leadership/underperformance/#written-warning)
@@ -143,7 +143,7 @@ Remediation options will vary based on if the team members underperformance is s
 * Letting Someone Go
 
 
-## Will-based performance remediation
+### Will-based performance remediation
 
 * [Coaching](/handbook/leadership/underperformance/#coaching)
 * [Verbal Warning](/handbook/leadership/underperformance/#verbal-warning)
@@ -152,7 +152,7 @@ Remediation options will vary based on if the team members underperformance is s
  
 **It is important to note that there is no requirement for these options to be considered or presented consecutively. 
 
-### Coaching
+## Coaching
 
 [Coaching](/handbook/leadership/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
 
@@ -166,7 +166,7 @@ If there are extenuating circumstances, some leeway may be granted depending on 
 
 When underperformance is detected, managers compensate by checking their report's work more frequently. The company results should not be affected more than through under-hiring where the position was vacant and others would step in to compensate.
 
-### Verbal Warning
+## Verbal Warning
 
 A Verbal Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance issues. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please reach out to the team member relations group..
 
@@ -174,7 +174,7 @@ The template for a Verbal Warning is found in the confidential PBP resources fol
 
 Verbal warnings should be communicated in 1:1 meetings, and subsequently confirmed by email with the manager emailing the team member with a recap of the discussion. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder. The verbal warning will remain in the BHR file for the requisite time, as required by applicable local law.
 
-### Written Performance Letter
+## Written Performance Letter
 
 A Written Performance Letter is used to bring attention to performance issues or ongoing deficiencies previously addressed by your manager.  Team members should already be aware of the performance issues due to ongoing coaching in your 1x1's with your manager and the follow up coaching emails.  The Written Performance Letter will identify development areas/gaps, outline what success looks like and specific action/deliverables and due dates.  The Written Performance Letter is not a formal Performance Improvement Plan (PIP) it is a documented coaching mechanism to help provide the team member with clear guidance to immediately improve performance.  
 
@@ -182,13 +182,13 @@ The team member relations specialist will send the Written Performance Letter to
 
 The template for a Written Performance Letter is found in the confidential PBP resources folder.
 
-### Written Warning
+## Written Warning
 
 A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a written warning; whether (and/or when) a team member receives a written warning may depend on local regulations. Managers will work with the Team Member Relations Specialist to determine whether a written warning will be delivered to the team member. 
 
 The manager and team member relsations specialist will inform via a zoom meeting that the team member will be recieving a written warning.  The team member relation specialist will then send the Written Warning Letter via hellosign to the team member to review and sign.  Once signed the team member relations specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written warning, that will be noted on the document and stored in  BambooHR. The written warning will remain in the BHR file for the requisite time, as required by applicable local law.
  
-### Performance Improvement Plan (PIP)
+## Performance Improvement Plan (PIP)
 
 #### Not The First Step To Letting Someone Go
 
