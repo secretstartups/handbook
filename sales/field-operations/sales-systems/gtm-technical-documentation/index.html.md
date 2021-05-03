@@ -359,6 +359,19 @@ Code Unit:
    - [OpportunityClass.checkAndConfirmSplitPercentages](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L337)
    - Please also see the [OpportunityClass.singleWonOppSplitOwnerUpdate](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L126) where split are also handled but not directly in alignment with the needs for this process
 
+## Refund Opportunity 
+
+**Business Process this supports:** [Decommision Opportunity Process](/handbook/sales/field-operations/sales-operations/deal-desk/#creating-decomission-opportunties)
+
+**Overview:**  For this process to function properly there is a button that has been added to the Opportunity layout. This button should only be visible to users who should be working on our bookings (Deal Desk, Finance Users, etc.). This button, when clicked, updated a checkbox on that opportunity to mark it as a refunded opportunity. This checkbox causes the the trigger class to run and create a full clone of the existing opportunity. This class also updates a number of fields to null or the override fields are used to negate our bookings numbers. Additionally if the owner of the original opportunity is no longer active the Opportunity owner is updated to that users Manager. If that manager is also no longer active than the opportunity is assigned to the user who triggered the process. Because this process uses a checkbox field it is also possible to mass trigger refunds on through a dataload or similar mass update. 
+
+**Logic Locations:** 
+   * [OpportunityClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls)
+Code Unit: 
+      * CreateRefundOpp
+   * Create Refund Opportunity Button 
+
+
 ## Maintain Channel Manaher
 
 **Business Process this supports:** This automation maintains the correct Channel Manaher on Opportunities. This is important for trakcing which Channel Manager gets compensated on which Opportunity. 
@@ -374,18 +387,6 @@ Code Unit:
    - [AccountClass.maintainChannelManagerOpenOpps](###) - Link Coming soon
    - [AccountClassTest.maintainChannelManagerOpenOpps](###) - Link Coming soon
 
-
-## Refund Opportunity 
-
-**Business Process this supports:** [Decommision Opportunity Process](/handbook/sales/field-operations/sales-operations/deal-desk/#creating-decomission-opportunties)
-
-**Overview:**  For this process to function properly there is a button that has been added to the Opportunity layout. This button should only be visible to users who should be working on our bookings (Deal Desk, Finance Users, etc.). This button, when clicked, updated a checkbox on that opportunity to mark it as a refunded opportunity. This checkbox causes the the trigger class to run and create a full clone of the existing opportunity. This class also updates a number of fields to null or the override fields are used to negate our bookings numbers. Additionally if the owner of the original opportunity is no longer active the Opportunity owner is updated to that users Manager. If that manager is also no longer active than the opportunity is assigned to the user who triggered the process. Because this process uses a checkbox field it is also possible to mass trigger refunds on through a dataload or similar mass update. 
-
-**Logic Locations:** 
-   * [OpportunityClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls)
-Code Unit: 
-      * CreateRefundOpp
-   * Create Refund Opportunity Button 
 
 ## Automations
 
