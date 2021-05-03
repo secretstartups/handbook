@@ -58,7 +58,7 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 * Complete: [Remote and Virtual Package Repositories](https://docs.google.com/document/d/1HxStNvY5i4Qn6c_AvhsKNV2WOEqbAivEjZqFPwhKej8/edit#heading=h.4mt5fmtn0ax4)
 * Loveable: [Plan: Project Management, Fix Groups and Projects](https://docs.google.com/document/d/1a2xuEMAsWzPK-cb_wnS9DWh9YHXZLs34Lp7jdetODR4/edit#heading=h.4mt5fmtn0ax4)
 
-##### "Lite" Opportunity Canvas
+#### "Lite" Opportunity Canvas
 
 * [When and how to use an Opportunity Canvas "Lite"](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas-lite)
 * [Example: Opportunity Canvas Lite: Parent-child pipelines default behavior change](https://gitlab.com/gitlab-com/Product/-/issues/2030)
