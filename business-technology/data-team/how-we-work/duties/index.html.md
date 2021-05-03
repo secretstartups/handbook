@@ -148,3 +148,6 @@ The Data team operates as one team between the Data Analytics team and the Data 
 1. DE authors, DE reviews, Maintainer merges
 
 Since the Data Engineering team is responsible for the Data platform, every MR request should include a Data Engineer.
+
+## <i class="fas fa-users fa-fw color-orange font-awesome" aria-hidden="true"></i>Quarterly Data Health and Security Audit
+t.b.d.
