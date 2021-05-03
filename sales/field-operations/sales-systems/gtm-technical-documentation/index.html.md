@@ -410,8 +410,8 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 
 
 **Logic Locations:** 
-   - [AccountClass.maintainChannelManagerOpenOpps](###) - Link Coming soon
-   - [AccountClassTest.maintainChannelManagerOpenOpps](###) - Link Coming soon
+   - [AccountClass.maintainChannelManagerOpenOpps](###) - Link Pending Code Merge
+   - [AccountClassTest.maintainChannelManagerOpenOpps](###) - Link Pending Code Merge
 
 
 ## Automations
