@@ -333,25 +333,30 @@ Code Unit:
          - Deal Desk
          - Sales Ops
          - System Admins
-   - `Account Executives` / Opportunity Owner
+   - `Account Executives` / `Opportunity Owner`
       - All of these splits should only ever appear in ``Opportunity - Incremental ACV 2`` split type
       - When the Opportunity Owner is updated, the splits for the Opportunity Owner are updated.
       - If a split is needed for the Owner the split needs to be created manually by an approved user 
-   - `Sales Development Representatives` / `ISR` / `Primary Solutions Architect`
-      - All of these splits should only ever appear in `Opportunity - iACV Overlay` split type
+   - `Sales Development Representatives` / `ISR` / `Primary Solutions Architect` / `Technical Account Manager` / `Channel Manager`: Base split automation rules
       - When the corresponding lookup field on the Opportunity is populated (created or updated) a split for 100% is created for the user in the lookup field and added to the opportunity
       - The population of the above lookup fields follow the same rules and processes as they have before the rollout of this automation
       - If a lookup field is changed from User A to User B then ALL splits for that User Role on the Opportunity are deleted and a split for 100% is assigned to User B
       - If a lookup field is changed from a User to Null/Empty then ALL splits for that User Role on the Opportunity are deleted, and there will be not splits for that Team Role on the Opportunity
       - If a split is needed for any of these roles the split needs to be created manually by an approved user 
-   - `Technical Account Manager`
-      - All of these splits should only ever appear in `Opportunity - iACV Overlay` split type
-      - When the `Technical Account Manager` field on the Opportunity is populated a split for 100% 
+   - `Technical Account Manager` Special Use Cases
+      - When the `Technical Account Manager` field on the Opportunity is populated a split for 100% is created for whoever is added into the Technical Account Manager lookup 
          - The population of the `Technical Account Manager` is currently handled automatically, OpportunityClass.maintainTamTeamLookup, as they are only to be stamped onto Opportunities when the Opportunity is a Growth Opportunity
       - If a split is needed for a Technical Account Manager the split needs to be created manually by an approved user
-   -  **Split Validation** 
-   - When an Opportunity has its stage changed there is a validation run against the splits on the opportunity. The validation aims to ensure that all splits on the Opportunity when grouped by Role add up to 100%. If the splits do not add up to 100% an error is thrown and the splits must be updated prior to moving the opportunity forward
-   - For the purposes of this validation the Team Roles of `Opportunity Owner`, `Account Executive`, `null/Empty` are assumed to be the same role and are summed accordingly. 
+   - `Channel Manager` Special Use Cases
+      - When the corresponding lookup field on the Opportunity is populated a 100% split it creates. Because of the workflow of Channel Managers it is likely that a lot of these splits will end up being incorrectly updated to the Opportunity Owner instead of staying with the Channel Manager (See the general automation notes for more details). To work around this, when an opportunity moves from Open to Closed any Channel Manager splits are cleared and reinserted for the user that is in the Channel Manaher lookup field at the time of close. 
+
+**Split Validation** 
+   - `OpportunityClass.checkAndConfirmSplitPercentages`
+      - When an Opportunity has its stage changed there is a validation run against the splits on the opportunity. The validation aims to ensure that all splits on the Opportunity when grouped by Role add up to 100%. If the splits do not add up to 100% an error is thrown and the splits must be updated prior to moving the opportunity forward
+      - For the purposes of this validation the Team Roles of `Opportunity Owner`, `Account Executive`, `null/Empty` are assumed to be the same role and are summed accordingly. 
+   - Validation Rules
+      - For individual end users to avoid having their splits errased - see the general automation notes for more details - a number of validation rules have been created. These validaiton rule prevent the Opportunity Owner from ever being the same user as either the `Sales Development Representatives`, `ISR`, `Primary Solutions Architect` or `Technical Account Manager`. 
+         - `Channel Managers` are not included in this Validation rule because they are not paid until after the close, the validation rule would conflict with existing automations and because it is expected that Channel Maanagers will never have a split Opportunity.
 
 
 **Logic Locations:** 
@@ -359,6 +364,9 @@ Code Unit:
    - [OpportunityClass.maintainTeamMembersToSplits](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L399)
    - [OpportunityClass.checkAndConfirmSplitPercentages](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L337)
    - Please also see the [OpportunityClass.singleWonOppSplitOwnerUpdate](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls#L126) where split are also handled but not directly in alignment with the needs for this process
+
+**General Automation Notes**
+- Salesforce has a default behavior that when an opportunity is updated, any opportunity split that is owned by the old owner of the opporutnity is updated to the new owner of the opportunity. This is irregardless of what type of split it is, if it is split or not. Even if we try to work around this exception with an After trigger the SFDC automation fires after any after triggers we write. 
 
 ## Refund Opportunity 
 
