@@ -46,10 +46,11 @@ The account team should meet regularly to review their accounts. Some common top
 
 These meetings should be scheduled on a recurring basis, for the team to review their accounts and make sure they are aligned on their efforts. A weekly cadence is recommended, but if there is a small number of accounts or the accounts are low-touch, a biweekly cadence may be more appropriate.
 
-TAMs should leverage their Gainsight TAM Portfolio dashboard to open discussion and dialogue. See [Using Gainsight in Account Team Meetings](https://youtu.be/gT_pz9PoHHg) video. 
+TAMs should leverage their Gainsight TAM Portfolio dashboard to open discussion and dialogue. 
 
 Account teams may choose to include the [Sales Development Representative (SDR)](/job-families/marketing/sales-development-representative/) in their account meetings. The SDR primarily focuses on generating new business so they are not necessarily involved in existing customer accounts, but it may be beneficial to keep everyone informed across the entire account development lifecycle.
 
+To view more information about Account Team Meetings, please refer to the [SALSATAM Page](/handbook/customer-success/account-team/SALSATAM/) 
 ## SA-TAM Account Handoff and Overlap
 
 ### Account Handoff from SA to TAM
