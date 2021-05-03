@@ -452,6 +452,7 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 
 1. Thank people that did a great job in our `#thanks` Slack channel.
 1. If someone is a team member just `@`-mention them, if multiple people were working on something try `@`-mentioning each person.
+1. When announcing a completed project, list the key contributors.
 1. If possible please include a link with your thanks that points to the subject matter that you are giving thanks for, for example a link to a merge request.
 1. Please do not mention working outside of working hours, we want to minimize the pressure to do so.
 1. Please do not celebrate GitLab contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy [work/life harmony](/company/culture/all-remote/people/#worklife-harmony) for all team members. While GitLab team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
