@@ -6,7 +6,7 @@ canonical_path: "/handbook/product/product-manager-role/learning-and-development
 
 ---
 
-## On this page
+# On this page
 
 {:.no_toc .hidden-md .hidden-lg}
 
