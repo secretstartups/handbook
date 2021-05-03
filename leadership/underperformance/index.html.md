@@ -131,11 +131,11 @@ This results in a lower rate of involuntary attrition than comparable companies,
 * Requiring that hiring managers write a "justification" scorecard that outlines the candidate's strengths, outlines their weaknesses, and articulates a plan for making them successfully
 * Requiring that hiring managers fill out a retrospection document for all unsuccessful hires
 
-## Options For Remediation 
+### Options For Remediation 
 
 Remediation options will vary based on if the team members underperformance is skill-based or will-based and local applicable law.  However, as a best practice and to provide a consistent experience for all team members the following remediation process is recommended. 
 
-# Skill-based performance remediation
+## Skill-based performance remediation
 
 * [Coaching](/handbook/leadership/underperformance/#coaching)
 * [Written Warning](/handbook/leadership/underperformance/#written-warning)
@@ -143,7 +143,7 @@ Remediation options will vary based on if the team members underperformance is s
 * Letting Someone Go
 
 
-# Will-based performance remediation
+## Will-based performance remediation
 
 * [Coaching](/handbook/leadership/underperformance/#coaching)
 * [Verbal Warning](/handbook/leadership/underperformance/#verbal-warning)
@@ -176,7 +176,9 @@ Verbal warnings should be communicated in 1:1 meetings, and subsequently confirm
 
 ### Written Performance Letter
 
-A Written Performance Letter is used to bring attention to performance issues or ongoing deficiencies previously addressed by your manager.  Team members should already be aware of the performance issues due to ongoing coaching in your 1x1's with your manager and the follow up coaching emails.  The Written Performance Letter will identify development areas/gaps, outline what success looks like and specific action/deliverables and due dates.  The Written Performance Letter is not a formal Performance Improvement Plan (PIP) it is a documented coaching mechanism to help provide the team member with clear guidance to immediately improve performance.  The team member relations specialist will send the Written Performance Letter to the team member and manager to review in sign via Hellosign. Once signed the team member relations specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written performance letter, that will be noted on the document and stored in the BambooHR. The written performance letter will remain in the BHR file for the requisite time, as required by applicable local law.
+A Written Performance Letter is used to bring attention to performance issues or ongoing deficiencies previously addressed by your manager.  Team members should already be aware of the performance issues due to ongoing coaching in your 1x1's with your manager and the follow up coaching emails.  The Written Performance Letter will identify development areas/gaps, outline what success looks like and specific action/deliverables and due dates.  The Written Performance Letter is not a formal Performance Improvement Plan (PIP) it is a documented coaching mechanism to help provide the team member with clear guidance to immediately improve performance.  
+
+The team member relations specialist will send the Written Performance Letter to the team member and manager to review and sign via Hellosign. Once signed the team member relations specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written performance letter, that will be noted on the document and stored in BambooHR. The written performance letter will remain in the BHR file for the requisite time, as required by applicable local law.
 
 The template for a Written Performance Letter is found in the confidential PBP resources folder.
 
@@ -184,7 +186,7 @@ The template for a Written Performance Letter is found in the confidential PBP r
 
 A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a written warning; whether (and/or when) a team member receives a written warning may depend on local regulations. Managers will work with the Team Member Relations Specialist to determine whether a written warning will be delivered to the team member. 
 
-The manager and team member relsations specialist will inform via a zoom meeting that the team member will be recieving a written warning.  The team member relation specialist will then send the Written Warning Letter via hellosign to the team member to review and sign.  Once signed the team member relations specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written warning, that will be noted on the document and stored in the BambooHR. The written warning will remain in the BHR file for the requisite time, as required by applicable local law.
+The manager and team member relsations specialist will inform via a zoom meeting that the team member will be recieving a written warning.  The team member relation specialist will then send the Written Warning Letter via hellosign to the team member to review and sign.  Once signed the team member relations specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written warning, that will be noted on the document and stored in  BambooHR. The written warning will remain in the BHR file for the requisite time, as required by applicable local law.
  
 ### Performance Improvement Plan (PIP)
 
@@ -285,7 +287,7 @@ When the underperformance is resolved and you want to transfer to another role, 
 
 ### Talent Assessment and managing underperformance
 
-Managers need to be aware and take into consideration both skill-based and will-based performance issues when they are particpating in the [Talent Assessment Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/) listed in the handbook.  It is critical that a manager take in these performance issues when evaluating a team member.  If a team member is technically performing in their role but there are will-based performance issues that is impacting their ability or the teams ability to succeed these need to be taken into consideration.  
+Managers need to be aware and take into consideration both skill-based and will-based performance issues when they are particpating in the [Talent Assessment Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/) process as listed in the handbook.  It is critical that a manager take in these performance issues when evaluating a team member.  If a team member is technically performing in their role but there are will-based performance issues that is impacting their ability or the teams ability to succeed these need to be taken into consideration.  
 
 ### Letting Someone Go
 
