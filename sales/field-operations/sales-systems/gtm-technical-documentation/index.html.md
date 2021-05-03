@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Go-To-Market Technical Documentation"
+description: "This page is the key GitLab Handbook page for all the technical documentation relating to the main projects and automations that the sales systems has worked on, developed and deployed. It includes a high level business overview as well as technical details revolving around each projects technical lift."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -371,6 +372,24 @@ Code Unit:
       * CreateRefundOpp
    * Create Refund Opportunity Button 
 
+
+## SQS [ Sales Qualified Source] Override
+
+   **Business Process this supports:** Sales Cycle & Operations  [Tracking Sales Qualified Source in the Opportunity](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#tracking-sales-qualified-source-in-the-opportunity)
+
+   **Overview:** There are times in which we may need to override Sales Qualified Source. In this event, we have a system that will allow this. This ability is limited to James Harrison and Colleen Farris. To override Sales Qualified Source, enabling user with perform the following steps:
+
+1. Check the Override SQS checkbox
+2. Select the updated value in Sales Qualified Source
+
+Once this is complete, a validation rule will prohibit anyone other than the above mentioned users from editing this field. All automation that updates this field includes criteria that excludes them from firing if the Override SQS checkbox is checked.
+
+**Logic Locations:** 
+
+* Permission Set : [Edit SQS Override](https://gitlab.my.salesforce.com/0PS4M00000113aW)
+* Validation Rule : [Cannot edit overridden SQS](https://gitlab.my.salesforce.com/03d4M000001118T?setupid=OpportunityValidations )
+
+
 ## SA Team Stamping
 
 **Business Process this supports:** The primary area that this is used is for Compensation. As a number of teams and users are compensated on a regional nunmber, stamping the SA Team of the Opportunity Owner onto the Opportunity allos us to properly pay out this compensation. 
@@ -381,7 +400,8 @@ Code Unit:
    - A closed opportunity has its owner updated
 
 **Logic Locations:** 
-   * [OpportunityClass.stampSATeam](###) - Link to Come 
+   * [OpportunityClass.stampSATeam](###) - Link to Come
+
 
 ## Automations
 

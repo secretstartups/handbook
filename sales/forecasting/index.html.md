@@ -27,13 +27,13 @@ Weekly after Tuesday evening, reviews from weekly team meetings will all be comp
 
 The Regional Director/Vice President of each team will establish weekly due date/time for your forecasts submissions.The RD/VP will be responsible for using your data for forecast the following:
 
-* Net IACV Commit: this is your Gross IACV Commit minus your Renewal Loss Commit.
-* Net IACV Best Case: this is your Gross IACV Best Case minus your Renewal Loss Best Case.
-* Net IACV 50/50: this value serves as what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
+* Net ARR Commit: this is your Gross ARR Commit minus your Renewal Loss Commit.
+* Net ARR Best Case: this is your Gross ARR Best Case minus your Renewal Loss Best Case.
+* Net ARR 50/50: this value serves as what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
 
 (Note that the above requires Renewal Loss to be forecasted)
 
-Please watch the following videos on how to submit your [IACV forecast](https://drive.google.com/open?id=1b42doQGZ1H-3Yi_8boGF5wmk-7Fb7SL-) and your [Renewal ACV forecast](https://drive.google.com/open?id=1X8LRZVmC4Q4FQ__GiCGsG1Xq6SwZagqc).
+VIDEO COMING SOON on how to submit your ARR and your ARR Basis forecasts.
 The following sections provide you with additional information on our forecasting methodologies and practices.
 
 ### Opportunity Management Requirements
@@ -42,16 +42,16 @@ See the [Command Plan](/handbook/sales/command-of-the-message/command-plan/) Han
 
 ### Forecast Category and Churn Renewal Fields
 
-* **Forecast Category** will be used when forecasting any opportunity with Incremental IACV. For example, if you are submitting a New Business, Add On Business, or Renewal opportunity to your forecast, the IACV portion of the opportunity will be included in your number.
+* **Forecast Category** will be used when forecasting any opportunity with Net ARR. For example, if you are submitting a New Business, Add On Business, or Renewal opportunity to your forecast, the Net ARR portion of the opportunity will be included in your number.
 
-* **Churn Renewal** will be used **only** when forecasting any renewal opportunities that have a probability to churn. In these cases, the Renewal ACV portion of the deal will be included into your Renewal Loss forecast number.
+* **Churn Renewal** will be used **only** when forecasting any renewal opportunities that have a probability to churn. In these cases, the ARR Basis portion of the deal will be included into your Renewal Loss forecast number.
 
 ### Default Salesforce Stage to Forecast Category and Churn Renewal Mapping
 
 See the [Opportunity Stages overview](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) for more information. 
 
 ### Forecast Categories Definitions
-There are two types of categories we review when your forecasts are pushed to Clari:
+There are five types of categories we review when your forecasts are pushed to Clari:
 
 * **Closed**: Closed includes only those opportunities that are "Closed Won" only. In forecasting, Closed includes Closed Won.
 * **Commit**: Commit includes opportunities that you feel have a 95-100% probability to close in the given period as represented by the Close Date. If you do not believe it will close in that period, it should not be a Commit.  For forecasting purposes, Commit will include "Closed + Commit Deals".
@@ -63,7 +63,7 @@ There are two types of categories we review when your forecasts are pushed to Cl
 
 Please use these terms correctly and don't introduce other words. Apart from the above the company uses two other terms:
 
-* **Plan**: Our yearly operating plan that is our promise to the board. The IACV number has a 50% of being too low and 50% chance of being too high but we should always hit the TCV - Opex number.
+* **Plan**: Our yearly operating plan that is our promise to the board. The ARR number has a 50% of being too low and 50% chance of being too high but we should always hit the TCV - Opex number.
 * **Forecast**: Our latest estimate that has a 50% of being too low and 50% chance of being too high.
 
 
@@ -87,7 +87,7 @@ In Clari, you will update records individually via Opportunity tab:
   3. Click Save.
 
 ####  Opportunity Splits
-Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date. Opportunity splits must be documented in Chatter on the opportunity and require approval from Regional Director and VP. Under no circumstances will double compensation (more than 100% of deal value) on the same deal will be allowed. Note: Reports and Dashboards in Salesforce will reflect the opportunity IACV unless the report or dashboard is looking at the opportunity split object.  Clari will always pull in the split. 
+Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date. Opportunity splits must be documented in Chatter on the opportunity and require approval from Regional Director and VP. Under no circumstances will double compensation (more than 100% of deal value) on the same deal will be allowed. Note: Reports and Dashboards in Salesforce will reflect the opportunity ARR unless the report or dashboard is looking at the opportunity split object.  Clari will always pull in the split. 
 
 * **Sales Team**
 To request an opportunity split, a sales rep should indicate the split in Chatter, tag the ASM(s), RD(s), and VP(s) for each rep for approval, and tag Sales Support to make the update once approved. Opportunity splits should be requested before any work is shared on the opportunity.
@@ -99,7 +99,7 @@ On receiving an approved request for the split, SalesOps team will update the Op
 Opportunity split crediting will automatically be calculated in the commissions system through the Opportunity Splits section. The Commissions team will ensure that the commissions are calculated accurately based on the split % and confirm in Chatter on the opportunity.
 
 * **Clari**
-As of FY21Q3, our Clari instance will pull in Opportunity Splits.  The splits in Clari will be pulled directly from the Opportunity Split section in Salesforce.
+As of FY22Q2, our Clari instance will pull in Opportunity Splits.  The splits in Clari will be pulled directly from the Opportunity Split section in Salesforce.
 
 #### Advantages to Updating Opps in Clari
 
@@ -115,10 +115,10 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
    - [Watch this 8 minute video](https://youtu.be/_m3gn1kki20) looking at the activity with a deal, diving into the CRM score, also highlighting where the Force Management fields are located.
 * **Additional Functionality**
    - [Watch this 5 minute video](https://youtu.be/16-5cvEODAU) to learn more about Clari Connect, Open in Salesforce, LinkedIn Sales Navigator, and best practices.
-* **Introduction to Gross and Net IACV**
-   - [Watch this 8 minute video](https://youtu.be/4LEGrMs4KEo) for an introduction on where to forecast using Gross IACV and Renewal fields and how they relate to Net IACV population.
+* **Introduction to Gross and Net ARR**
+   - VIDEO COMING SOON for an introduction on where to forecast using Gross ARR and Renewal fields and how they relate to Net ARR population.
 * **Overview of Renewals**
-   - [Watch this 5 minute video](https://youtu.be/rh4i8Gg_4l0) for a further look at the Gross, TCV and Renewal Tabs as well as how to view past and future quarters.
+   - VIDEO COMING SOON for a further look at the Renewal Tabs as well as how to view past and future quarters.
 * **GitLab Forecasting 101**
    - [Watch the 20 minute video](https://youtu.be/3TGiyNHV4_k) on how we use Clari at GitLab led by Area Sales Manager Adam Johnson
 * **Gitlab Renewals Forecasting 101**
@@ -132,36 +132,58 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
 
 ### Forecasting and Sales Leaders
 
-If you are a Sales Leader, will have additional access to the **Forecasting Tab** in Clari. You will see four tabs:
+If you are a Sales Leader, will have additional access to the **Forecasting Tab** in Clari. You will see the following tabs:
 
-* **IACV**
-  * You will enter your Gross IACV Commit/Best Case and Renewal Loss Commit/Best Case in this tab.
-  * Gross IACV will be your bookings, a positive value; Renewal Loss will be for lost renewal ACV, represented by a negative value.
-      * The Won IACV is calculated dynamically. For Managers it will be the Net IACV amount while for individual reps it will be the Gross IACV amount, which excludes Renewals with Negative IACV.
-  * The result will be your Net IACV, which will be your official value submitted.
+* **ARR**
+   - On this tab, you will enter your forecast for the following:
+      - Net ARR - Commit, 50/50 & Best Case
+      - Gross ARR - Commit & Best Case
+      - Renewal Loss - Commit & Best Case
+   - Gross ARR will be your bookings, a positive value; Renewal Loss will be for lost ARR Basis, represented by a negative value.
+      - The Net Won column is calculated dynamically. For Managers and certain sales teams it will be the Net ARR amount while for individual reps on Gross plans, it will be the Gross ARR amount, which excludes Renewals with Negative ARR.
+   - The result will be your Net ARR, which will be your official value submitted.
+   - Also note that you will see the following columns on this tab:
+      - Plan: Net ARR Quota
+      - Net Won: Total of Won deals in Net ARR (includes lost renewals)
 
-* **Renewal ACV**
-  * This will be a read only tab. You will see your rep’s Closed Won Renewal ACV, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
+* **Renewal ARR**
+   - This will be a read only tab. You will see your rep’s Closed Won ARR Basis, Commit, Best Case, Renewal Loss Commit, and Renewal Loss Best Case.
 
 * **TCV**
-  * This will be a read only tab. You will see your rep’s Closed Won TCV, Commit, Best Case, and Pipeline.
+   - This will be a read only tab. You will see your rep’s Closed Won TCV, Commit, Best Case, and Pipeline.
 
 * **Pipeline Gen**
-  * This will be a read only tab. You will see your rep’s total open pipeline, pipeline in stage 3+ and coverage rates for both Next Quarter and Next Quarter+1. The pipeline coverage is calculated by looking at total pipeline in a given quarter divided by quota for that same quarter.
+   - This will be a read only tab. You will see your rep’s total open pipeline, pipeline in stage 3+ and coverage rates for both Next Quarter and Next Quarter+1. The pipeline coverage is calculated by looking at total pipeline in a given quarter divided by quota for that same quarter.
+
+* **Net ARR Attainment**
+   - For Sales Reps who are on a Net ARR plan, this tab reflects a consolidated view of the following details by rep:
+      - **Plan**: Net ARR Quota
+      - **Closed**: Net Won
+      - **Gap to Go**: Plan minus Closed
+      - **Open Pipeline**: Current quarter open pipeline (all stages)
+   - The Net ARR Attainment tab will only show for individuals and/or Sales Leaders who are on a Net ARR plan (or have team members on a Net ARR plan). 
+
+* **Gross ARR Attainment**
+   - For Sales Reps who are on a Gross ARR plan, this tab reflects a consolidated view of the following details by rep:
+      - **Plan**: Gross ARR Quota
+      - **Closed**: Gross Won
+      - **Gap to Go**: Plan minus Closed
+      - **Open Pipeline**: Current quarter open pipeline (all stages)
+   - The Gross ARR Attainment tab will only show for individuals and/or Sales Leaders who are on a Gross ARR plan (or have team members on a Gross ARR plan).
 
 #### Reviewing Forecasts
 
 On the right of each tab, you will see a Toggle Details button.
 You can click on this to expand the list of opportunities in the selected forecast category. You will have three options:
-* Total:  shows the combined deals for Closed + Open in that category (Closed, Commit, Best Case, or Pipeline)
-* Closed: shows deals Closed Deals
-* Open: shows open deals in that category
+* **Total:**  shows the combined deals for Closed + Open in that category (Closed, Commit, Best Case, or Pipeline)
+* **Closed:** shows deals Closed Deals
+* **Open:** shows open deals in that category
 
 Click on the radio button for the type of opportunities you want to see (normally for forecasting calls with AEs, you will select “Open”). Then click “View Deals” to go to a full list of opportunities.
 
 To overwrite your regional forecast:
 1. In Clari, go to the Forecasting tab.
-1. Go the IACV tab.
+1. Go the ARR tab.
 1. Go to Commit and override the value.
 1. Add a note on why the adjustment made.
 2. Repeat this process for Best Case.
@@ -179,8 +201,8 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
    - [Watch this 5 minute video](https://youtu.be/io4ysgxkicQ) to learn more about Clari Connect, Open in Salesforce, LinkedIn Sales Navigator, and best practices.
 * **Dashboards**
    - [Watch this 8 minute video](https://youtu.be/z_LT3JaR-78) for an overview of the 1:1 Rep/Manager Dashboard.
-* **Introduction to Gross and Net IACV**
-   - [Watch this 8 minute video](https://youtu.be/BXJsB2Frjxk) for an introduction on where to forecast using Gross IACV and Renewal fields and how they relate to Net IACV population.
+* **Introduction to Gross and Net ARR**
+   - VIDEO COMING SOON for an introduction on where to forecast using Gross ARR and Renewal fields and how they relate to Net ARR population.
 * **Overview of Renewals**
    - [Watch this 5 minute video](https://youtu.be/3b2Y3nY7-QY) for a further look at the TCV and Renewal Tabs as well as how to view past and future quarters.
 

@@ -23,7 +23,7 @@ We snapshot customer count on business day 4.
 
 ### First Order Customers
 
-A First Order customer is a customer within an Account Family that makes the first subscription order for the Account Family in the period.
+A First Order customer is a customer within an Account Family that makes the first subscription order for the Account Family in the period.  Any account that has an inactive subscription anywhere within the Account Family for >180 days will also be considered First Order.
 
 ### Connected New Customers
 

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "License Usage Salesforce App"
+description: "This page outlines the License Usage Salesforce App. It includes both information for the end user, answers frequently asked questions as well as highlights the location of the related techincal logic in the code."
 ---
 
 ## On this page

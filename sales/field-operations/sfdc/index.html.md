@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Business Operations - Salesforce Reference"
+description: "The purpose of this page is to provide insight into the internal workings of our Salesforce instance, how fields are populated, how fields are calculated, where they are used and more."
 ---
 
 ## On this page
