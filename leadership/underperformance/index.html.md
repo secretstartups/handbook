@@ -50,8 +50,33 @@ How do you know if a team member isn't reaching their goals? Identifying underpe
 8. Other team members start working around them
 9. Missed goals and timelines
 
+These are all signs of a performance issue, however are the performance issues skill-based or will- based?  Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to improve performance.  
+
+### Skills-based performance 
+
+Team members may have the motivation to be successful but performance is impacted due to the following reasons:
+
+- Team member lacks the technical capabilities to be successful in current role
+- Team member unables to prioritize work effectively
+- Team member lacks the understanding how to complete tasks required for role
+- Team member exhibits difficulties working with team members and/or communicating effectively
+
+Managers should review the skill- based performance issues and determine if the team member requires additional training, additional tools, clearer instructions and guidance or assign a mentor or buddy.
+
+### Will-based performance
+
+Team members who have the skills necessary to succeed in their current role but their performance may be impacted due to the following reasons:  
+
+- Team member is unmotivated or not engaged
+- Team member is unprofessional with their fellow team members
+- Team member exhibits undersirable behavior that impedes their success
+- Team member exhibits undersirable behavior that impedes the success of another Team member, Team or GitLab as a whole
+
+If a manager witnesses or is made aware of any team member behavior that violates our [Code of Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) they should immediately reach out to our [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/#team-member-relations-specialist).  
 
 ## Act Early
+
+The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the isue and improve their performance.  Managers should address performance concerns early and not wait until the performance problems have come to a situation where they are not recoverable.  [Feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#importance-of-feedback) should be given early, it should be specific and it should be documented.  
 
 ### Team Member: Discuss Circumstances Immediately With Your Manager
 
@@ -76,7 +101,7 @@ It is also hard because it is a hard message to give and receive that someone's 
 
 ### Loop in the Team Member Relations Specialist
 
-Looping in the [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) early is essential. The TMR specialist can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR specialist prior to delivering any formal action plan to team members. 
+Looping in the [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) early is essential. The TMR specialist can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR specialist prior to delivering any formal action plan to team members. Formal action includes Written Performance Letter, Verbal Warning, Written Warning and a Performance Improvement Plan.  Managers will partner with the team member relations group in the creation and delivery of any formal action.  
 
 ## Frequency and Metrics
  
@@ -90,44 +115,59 @@ This results in a lower rate of involuntary attrition than comparable companies,
 * Requiring that hiring managers write a "justification" scorecard that outlines the candidate's strengths, outlines their weaknesses, and articulates a plan for making them successfully
 * Requiring that hiring managers fill out a retrospection document for all unsuccessful hires
 
-## Options For Remediation
+## Options For Remediation 
+
+Remediation options will vary based on if the team members underperformance is skill-based or will-based and local applicable law.  However, as a best practice and to provide a consistent experience for all team members the following remediation process is recommended. 
+
+# Skill-based performance remediation
+
+* [Coaching](/handbook/leadership/underperformance/#coaching)
+* [Written Warning](/handbook/leadership/underperformance/#written-warning)
+* [Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
+* Letting Someone Go
+
+
+# Will-based performance remediation
 
 * [Coaching](/handbook/leadership/underperformance/#coaching)
 * [Verbal Warning](/handbook/leadership/underperformance/#verbal-warning)
 * [Written Warning](/handbook/leadership/underperformance/#written-warning)
-* [Performance Improvement Plan (PIP)](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
 * Letting Someone Go
  
-**It is important to note that there is no requirement for these options to be considered or presented consecutively.** 
+**It is important to note that there is no requirement for these options to be considered or presented consecutively. 
 
 ### Coaching
 
 [Coaching](/handbook/leadership/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
 
-Managers are expected to address performance concerns (poor results and/or behavior issues) in a timely manner.  Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team member. These conversations should be documented by the manager and shared with the team member so that everyone has a record of the discussion and is in alignment on where improvements needs to be made and by when. Documentation should be brief (a few key bullet points or a paragraph), and should be shared with the team member within 24 hours of the verbal discussion.
+Managers are expected to address performance concerns (skill-based or will-based) in a timely manner.  Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team member. These conversations should be documented by the manager and shared with the team member so that everyone has a record of the discussion and is in alignment on where improvements needs to be made and by when. Documentation should be brief (a few key bullet points or a paragraph), and should be sent via email to the team member within 24 hours of the verbal discussion.
 
 Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Tempate](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback. 
 
-Helping GitLab team-members understand clearly how their performance is below the standard expected quickly is very important to foster immediate improvement and continued success. It is also important to clarify when feedback given can provide helpful coaching vs. when to address a serious performance issue. It is not always clear how serious the feedback being provided is and setting the context can be critical.
+Helping GitLab team-members understand clearly how their performance is below the standard expected quickly is very important to foster immediate improvement and continued success. It is also important to clarify when feedback given can provide helpful coaching vs. when to address a skill/will based performance issue. It is not always clear how serious the feedback being provided is and setting the context can be critical.
 If there are extenuating circumstances, some leeway may be granted depending on the situation. This is an area where a People Business Partner or the Team Member Relations Specialist can provide a sounding board or voice of reason. 
 
 When underperformance is detected, managers compensate by checking their report's work more frequently. The company results should not be affected more than through under-hiring where the position was vacant and others would step in to compensate.
 
 ### Verbal Warning
 
-One or several Verbal Warning(s) are used to bring attention to new or ongoing deficiencies in conduct and/or performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please contact your aligned PBP.
+One Verbal Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance issues. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please reach out to the team member relations group..
 
 The template for a Verbal Warning is found in the confidential PBP resources folder.
 
 Verbal warnings should be communicated in 1:1 meetings, and subsequently confirmed by email with the manager emailing the team member. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder. The verbal warning will remain in the BHR file for the requisite time, as required by applicable local law.
 
+### Written Performance Letter
+
+A Written Performance Letter is used to bring attention to performance issues or ongoing deficiencies previously addressed by your manager.  Team members should already be aware of the performance issues due to ongoing coaching in your 1x1's with your manager and the follow up coaching emails.  The Written Performance Letter will identify development areas/gaps, outline what success looks like and specific action/deliverables and due dates.  The Written Performance Letter is not a formal Performance Improvement Plan (PIP) it is a documented coaching mechanism to help provide the team member with clear guidance to immediately improve performance.  The team member relations specialist will send the Written Performance Letter to the team member and manager to review in sign via Hellosign. Once signed the team member relations specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written performance letter, that will be noted on the document and stored in the BambooHR. The written performance letter will remain in the BHR file for the requisite time, as required by applicable local law.
+
+The template for a Written Performance Letter is found in the confidential PBP resources folder.
+
 ### Written Warning
 
-A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a written warning; whether (and/or when) a team member receives a written warning may depend on local regulations. If you have any questions about whether you should complete a written warning, please contact your aligned PBP.  
+A Written Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a written warning; whether (and/or when) a team member receives a written warning may depend on local regulations. Managers will work with the Team Member Relations Specialist to determine whether a written warning will be delivered to the team member. 
 
-Here is a [Sample Formal Written Warning](https://docs.google.com/document/d/12wveh-73CDw6mD70_lRNHRxcnqmdnHGLu5pKP00puZk/edit) you can use a template. 
-
-A Written warning should be communicated by email. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder.  The written warning will remain in the BHR file for the requisite time, as required by applicable local law.
+The manager and team member relsations specialist will inform via a zoom meeting that the team member will be recieving a written warning.  The team member relation specialist will then send the Written Warning Letter via hellosign to the team member to review and sign.  Once signed the team member relations specialist will save the documentation to the team member's BambooHR profile, in the Action Notices folder. There may be times when a team member will not sign a written warning, that will be noted on the document and stored in the BambooHR. The written warning will remain in the BHR file for the requisite time, as required by applicable local law.
  
 ### Performance Improvement Plan (PIP)
 
