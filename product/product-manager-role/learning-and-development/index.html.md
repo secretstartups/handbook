@@ -23,7 +23,7 @@ Most of the resources here are free but any content requiring payment [can be re
 
 Over time, we will add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/product-CDF-competencies/), [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
-### Recommended books and talks for all GitLab product managers
+## Recommended books and talks for all GitLab product managers
 
 These books are highly recommended to be read by every product manager at GitLab:
 
