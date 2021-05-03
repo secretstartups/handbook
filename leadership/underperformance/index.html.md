@@ -40,13 +40,13 @@ Managing and identifying underperformance is one of the hardest things a manager
 
 GitLab strives to treat all team members with respect and dignity at all times. You can review GitLab's [Team Member Relation Philosophy](https://about.gitlab.com/handbook/people-group/team-member-relations-philosophy/) in the handboodk which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
 
-Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all manager but it is an expected one that all managers at some time .  There are many reasons why a manager may not actively manage an underperforming team member.  Below are a few reasons why managers avoid the difficult performance conversations:  
+Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all managers do it early and provide team members with clear feedback and guidance.  There are many reasons why a manager may not actively manage an underperforming team member.  Below are a few reasons why managers avoid the difficult performance conversations:  
 
 * Because it is hard and the manager fears having the hard conversations
 * Favourtism
 * Unwilling to admit you made a mistake in the hiring process
-* Because it may not directly impact the you 
-* Believes the performance will resolve itself over time
+* Because it may not directly impact you 
+* Believes the performance issue will resolve itself over time
 
 For managers it is important that they address performance issues with team members early, failure to act early can greatly affect the performance of the team as a whole.  Effective teams require cohesion, collaboration and actively engaging and performing team members to be successful in reaching their goals.   Without this cohesiveness there is a risk to the overall team and GitLab's success.  
 
