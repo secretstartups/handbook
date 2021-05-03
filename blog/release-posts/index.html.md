@@ -640,7 +640,7 @@ After the 11th of the month, your list of tasks to prepare and deliver the relea
 
 The messaging lead orders the primary features in the release post to align with the themes they've identified and incorporated into their introduction for the release post. Primary feature content blocks are sorted alphabetically by file name so the messaging lead can affect the order of these items by adding a 2-digit numerical prefix to the file name of each individual content block. For example, `01_filename.yml`, `02_another_file.yml`, etc.
 
-Secondary features, bug fixes, usability, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. In cases where the messaging lead wants to manually affect the sort order of the secondary features, a change to the content block's `title` is required. It is recommended this be coordinated with the release post manager so the PM and the PMM of the content block are involved as needed.
+Secondary features, deprecations, removals, and upgrade notes are all sorted together alphabetically by title, grouped by stage. After release 13.11, bugs, performance improvement and usability sections were changed from secondary features to tertiary features so now will automatically come after the secondary features and prior to the Deprecations section. In cases where the messaging lead wants to manually affect the sort order of the secondary features, a change to the content block's `title` is required. It is recommended this be coordinated with the release post manager so the PM and the PMM of the content block are involved as needed.
 
 #### Template for reviews
 
