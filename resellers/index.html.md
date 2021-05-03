@@ -271,7 +271,7 @@ GitLab employees can access the discount table [here](https://gitlab.my.salesfor
 
 This incentive is based on the number of services delivered to unique customers each quarter. Services Attach requests must be submitted to GitLab via the Partner Portal as a deal registration (Deal Registration Type = Services Attach), must include reasonable information and documentation (as requested by GitLab) to demonstrate the Referral Client's receipt of the Partner Professional Services and must be approved by GitLab Sales.  Rebates are paid out no later than 45 days after the end of each quarter.  
 
-    To view the GitLab Services Attach incentive plan please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) (must be an authorized Partner) and access the resources in the Program Documents folder in the Asset Library. 
+To view the GitLab Services Attach incentive plan please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets)  and access the resources in the Program Documents folder in the Asset Library. 
 
 *   **Referral Fees** - Referral fees are paid to partners for identifying Partner Initiated GitLab software sales opportunities that are not being resold by the partner. To qualify for a referral fee, partners must enter a referral fee deal registration in our Partner Portal. Each registration received by GitLab qualifies as a "Qualified Referral," provided that the referral is a GitLab sales opportunity that is new to GitLab, and the customer/prospect is willing to enter into a binding written agreement with GitLab to use our products and services.
     *   All referral deal registrations must be approved by GitLab before becoming eligible for a referral fee. Referral fees are paid out no later than 45 days after the end of each quarter.
@@ -288,7 +288,6 @@ In some cases, a customer purchased their most recent subscription directly from
     *   Add-on sales of other non-GitLab products
     *   Subscription renewal discounts on future renewals
 
- ** **
 
 
 ### The Deal Registration Program Overview
@@ -516,11 +515,12 @@ If any of the above requirements are not met—or you fail to promptly schedule 
 #### Referral Fees and Discount Scenarios*
 *scenario percentages are for example only and may not reflect your actual discount
 
-| **Scenario #1** <br> - GitLab Finds Lead - Partner Fulfills | - 2% Discount of Net ARR |
+| **Scenario**  | Incentive |
 |----------|--------------------------------------------------------------|
-| **Scenario #2** <br> - GitLab finds Premium Customer <br> - Requires OPEN Channel Assist <br> - Partner delivers QuickStart | 10% Discount or Referral Fee of net ARR <br> - 2.5% Extra Discount or Referral for delivering services |
-| **Scenario #3** <br> SELECT Partner finds Ultimate Customer <br> - Sells GitLab Education <br> - Delivers QuickStart <br> - Delivers DevOps Assessment (6 mo. later) | 20% Discount of IACV <br> - 10% Discount of GitLab Education Service <br> - 2.5% Discount of IACV (Service Attach/QuickStart) <br> - 2.5% Discount of IACV (Service Attach/QuickStart) |
-| **Scenario #4** <br> - OPEN Partner Finds Premium or Ultimate Customer |  <br> - 10% Discount or Referral Fee of IACV |
+| **Scenario #1** <br> - GitLab Finds Lead - Partner Fulfills | - 2.5% Discount of Net ARR fulfillment <br> - up to 7.5% incentive of Net ARR |
+| **Scenario #2** <br> - GitLab finds Premium Customer <br> - Requires OPEN Channel Assist <br> - Partner delivers QuickStart | - 10% Discount or Referral Fee of net ARR <br> - up to 7.5% extra incentive for delivering services |
+| **Scenario #3** <br> SELECT Partner finds Ultimate Customer <br> - Sells GitLab Education <br> - Delivers QuickStart <br> - Delivers DevOps Assessment (6 mo. later) | - 20% Discount of net ARR <br> - 10% Discount of GitLab Education Service <br> - up to 7.5% incentive on Net ARR (Service Attach/QuickStart) <br>  |
+| **Scenario #4** <br> - OPEN Partner Finds Premium or Ultimate Customer |  <br> - 10% Discount or Referral Fee of Net ARR |
 
 
 #### Quote to Order
