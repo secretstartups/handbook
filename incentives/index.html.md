@@ -162,7 +162,7 @@ graph TD;
 **Any GitLab team-member**
 
 1. Write a description of how the working group has demonstrated a specific GitLab value in their work.
-1. Email that sentence to the managers of the individuals, suggesting a Working Group Bonus, and set-up a 15 minute Zoom meeting with all the managers to discuss your proposal.
+1. Email that sentence to the managers of the individuals, suggesting a Working Group Bonus, and set-up a 15 minute Zoom meeting with all the managers to discuss your proposal. _Note: The alignment with managers can also be done asynchronously in a private Slack channel._
 1. Remember that the manager(s) may or may not agree and they have full discretion (with approval of their manager) on whether their reports get a bonus.  Don't forget that you can also use the #thanks channel to recognize people, as well.
 
 **Manager Process**
