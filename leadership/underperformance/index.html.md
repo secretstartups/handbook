@@ -177,7 +177,11 @@ Many companies use a PIP for most involuntary offboarding, as documented support
 At GitLab we think that giving someone a plan while you intend to let them go is a bad experience for the team member, their manager, and the rest of the team.
 
 A PIP at GitLab is not used to "check the box;" a PIP is a genuine last chance to resolve underperformance.
-You should only offer a PIP if you are confident that the team member can successfully complete it. The team member should also be committed to successfully completing the PIP and maintaining the level of performance arrived at through the PIP.  A PIP will not be successful unless both the team member and the manager believes the team member can succeed.
+You should only offer a PIP if you are confident that the team member can successfully complete it.  The team member should also be committed to successfully completing the PIP and maintaining the level of performance arrived at through the PIP.  A PIP will not be successful unless both the team member and the manager believes the team member can succeed.
+
+For team members who truly lack the **skill** for the role or for those team members who lack the **will** to be successful a PIP should not be offered.  PIPs as mentioned above are for team members who with additional guidance, coaching, resources or tools have the ability to improve and sustain long term performance.  
+
+
 
 #### SMART Goals
 As part of the PIP the manager will work with the team member to define SMART goals,.  SMART goals, allow both the manager and team member to define requirements, track progress, and improve communication of expectations for success during the PIP period.
