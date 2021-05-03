@@ -25,7 +25,7 @@ NEW: Watch the video above for a recap of SKO 2021 – a full week (42 hours!) o
 
 Here are the follow-up resources and action items from SKO: 
 1. **Watch it Again:** You can now relive some of the best moments from SKO! All keynote and breakout recordings are [available in GitLab Learn](https://gitlab.edcast.com/channel/sales-kickoff-sko-2021). 
-1. **Dig Into the Slides:** You can find links to the slides for each presentation in its video description in [GitLab Learn](https://gitlab.edcast.com/channel/sales-kickoff-sko-2021). (You can also find links to the videos and slides on the [SKO Handbook page](/handbook/sales/training/SKO/#sko-2021-day-1-sessions).) 
+1. **Dig Into the Slides:** You can find links to the slides for each presentation in its video description in [GitLab Learn](https://gitlab.edcast.com/channel/sales-kickoff-sko-2021). (You can also find links to the videos and slides on the [SKO Handbook page](/handbook/sales/training/SKO/2021).) 
 
 Questions? Reach out in #sko-virtual-2021.
 

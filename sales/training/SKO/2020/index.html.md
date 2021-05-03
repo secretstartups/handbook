@@ -10,13 +10,10 @@ description: "GitLab Sales Kickoff 2020"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Sales Kickoff 2020
-In February 2020, the entire sales organization and their supporting teams gathered in Vancouver, BC Canada for the inaugural GitLab Sales Kickoff. This page includes slide decks, videos, and pictures from the event.
+# Overview
+In February 2020, the entire sales organization and their supporting teams gathered in Vancouver, BC Canada for the inaugural GitLab Sales Kickoff with the theme of **Level Up**. This page includes slide decks, videos, and pictures from the event.
 
-## SKO 2020 Theme
-**Level Up** - It works across nationalities / languages and has lots of ways we can tie it into the content. All about leveling up the business.
-
-## SKO 2020 Day 1 Sessions
+# SKO 2020 Day 1 Sessions
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
@@ -29,7 +26,7 @@ In February 2020, the entire sales organization and their supporting teams gathe
 | Sales Kickoff Awards Ceremony | [slides](https://drive.google.com/open?id=1deR4D2GplTGan1E2ENZbhZ0rt4YiUzZEJGX7RLj83yY) (GitLab internal) | [video](https://drive.google.com/open?id=1_lbLGvYhhB6ynyaWngeuE6nkDUcUXv1A) (GitLab internal) |
 
 
-## SKO 2020 Day 2 Sessions
+# SKO 2020 Day 2 Sessions
 
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
@@ -51,14 +48,14 @@ In February 2020, the entire sales organization and their supporting teams gathe
 | Next Level Engagements: Consulting Methodology | [slides](https://drive.google.com/open?id=1TWg_grUCegOnJK8yCXxq7lRgVCByoJMCd59u3A1QjMo) (public) | N/A (not recorded) |
 
 
-## SKO 2020 Wrap Up
+# SKO 2020 Wrap Up
 * [SKO Wrap Up presentation](https://docs.google.com/presentation/d/1MwJRWCGl-U2qic_h3xHQxGDCUf1s0R23aKEIrXqcXW0/edit?usp=sharing) (public)
 * [GitLab FY21 Sales Kickoff Wrap Up and Survey Results](https://youtu.be/_q9M9_nwNy4) video (public) 
 
-## GitLab Infomercial
+# GitLab Infomercial
 * [Public version on YouTube](https://youtu.be/gzYTZhJlHoI) featuring David Astor
 * [Long version](https://drive.google.com/open?id=1yhG_JLh4rpayRvJYkYE4EJYMcNZkrUXd) (GitLab internal)
 
-## SKO 2020 Pictures
+# SKO 2020 Pictures
 * [Sales Kickoff photo album](https://photos.app.goo.gl/hcvEyzH3wDdccrQw7)
 * [LinkedIn headshots](https://drive.google.com/open?id=1_Laql3qZBj9hp6CXrHCs7ovrCQOGR1gx) 
