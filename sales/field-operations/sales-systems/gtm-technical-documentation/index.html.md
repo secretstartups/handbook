@@ -380,7 +380,8 @@ Code Unit:
       * CreateRefundOpp
    * Create Refund Opportunity Button 
 
-   ## SQS [ Sales Qualified Source] Override
+
+## SQS [ Sales Qualified Source] Override
 
    **Business Process this supports:** Sales Cycle & Operations  [Tracking Sales Qualified Source in the Opportunity](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#tracking-sales-qualified-source-in-the-opportunity)
 
@@ -397,6 +398,17 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 * Validation Rule : [Cannot edit overridden SQS](https://gitlab.my.salesforce.com/03d4M000001118T?setupid=OpportunityValidations )
 
 
+## SA Team Stamping
+
+**Business Process this supports:** The primary area that this is used is for Compensation. As a number of teams and users are compensated on a regional nunmber, stamping the SA Team of the Opportunity Owner onto the Opportunity allos us to properly pay out this compensation. 
+
+**Overview:**  When a Opporuntiy meets one of the criteria below the SA Team from the Opportunity Owner is stamped onto the Opportunity. This allows for the field to track the owner of the Opporutnity at Close, adjust when the owner is updated but to still allow for the finance teams to override as needed. 
+   - Inserted as a closed opportunity
+   - A opportunity is updated from not closed to closed
+   - A closed opportunity has its owner updated
+
+**Logic Locations:** 
+   * [OpportunityClass.stampSATeam](###) - Link Pending Merge
 
 
 ## Automations
