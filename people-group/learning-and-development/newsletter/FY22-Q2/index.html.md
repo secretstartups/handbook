@@ -19,11 +19,7 @@ This quarter we are learning from [Christie Lenneville](/company/team/#clennevil
   <iframe width="560" height="315" src="https://www.youtube.com/embed/_FTV3xexuL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Fast Facts from our Interview with Christie
-
-1. What’s the best professional development resource you’ve utilized in the past year: [Executive Leadership LinkedIn Learning Course](https://www.linkedin.com/learning/executive-leadership/take-action-to-lead?u=2255073) 
-1. b
-1. c
+Check out Christie's favorite learning resource from the past year - [Executive Leadership LinkedIn Learning Course](https://www.linkedin.com/learning/executive-leadership/take-action-to-lead?u=2255073).  
 
 **Is there a leader at GitLab that you want to learn more about?** To nominate someone for our Learn from Leadership section in our next newsletter, use [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLSeuOIH2r_gaQlv6woW96_8BfjBUbzWxLuxoZA7TW-MXz7cT0g/viewform). 
 
@@ -140,13 +136,14 @@ If you want to learn more on this topic, see the [Managing Underperformance](/ha
 
 ### Learning & Development Blog Posts 
 
-* [text](AddURL 
+* [Building an All-Remote Management Enablement Program](https://about.gitlab.com/blog/2021/02/19/manager-training/) 
+* [Having crucial conversations on an all-remote team](https://about.gitlab.com/blog/2021/02/18/crucial-conversations/)
 
 ## Learning Spotlight 
 
 Skill of the Month launched in April and will continue thorughout FY22. April's skill of the month was Managing Stress, you can still find the courses and resources recommended for this topic in the [Skill of the Month (FY22) Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) on GitLab Learn. The May skill of the month is **Effective Communication**. 
 
-You can do two things at once by taking a course from the Skill of the Month recomendation and participate in the Walk and Learn initiative. If you aren't intersted in any of the courses for skill of the month. Join the [#walk-and-learn]() Slack channel to see what other things your peers are learning about. 
+You can do two things at once by taking a course from the Skill of the Month recomendation and participate in the Walk and Learn initiative. If you aren't intersted in any of the courses for skill of the month. Join the [#walk-and-learn](https://app.slack.com/client/T02592416/C01T24NNZ4G) Slack channel to see what other things your peers are learning about. 
 
 ## Learning Tips 
 
