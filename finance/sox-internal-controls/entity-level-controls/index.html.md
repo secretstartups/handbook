@@ -9,7 +9,14 @@ title: "Entity Level Controls"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Risk Control Matrix
+## What are ELCs?
+
+ELCs, or Entity Level contorls are a subset of the [SOX internal contol set](https://about.gitlab.com/handbook/finance/sox-internal-controls/). The objectives of ELCs are to mitigate risk threatening the organization as a whole and to provide assurance that organizational objectives are achieved.
+
+### What are GitLab's ELCs?
+
+Beginning in FY22 Q1 GitLab's ELCs for SOX compliance are:
+
 
 |Sl.no #|Process|Control Mapping
 |:---|:---|:---|
