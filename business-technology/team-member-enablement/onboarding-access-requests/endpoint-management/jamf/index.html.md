@@ -66,7 +66,7 @@ We do not have Linux-based endpoint management in place yet. There will be a sec
 
 # Windows laptops
 
-The Windows operating system is not a supported platform at GitLab, as described in the [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop). If you’re using a Windows laptop, please contact (Team Member Enablement)[/handbook/business-technology/team-member-enablement/#-how-to-reach-out-to-us] to have a company laptop shipped to you.
+The Windows operating system is not a supported platform at GitLab, as described in the [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop). If you’re using a Windows laptop, please contact [Team Member Enablement](/handbook/business-technology/team-member-enablement/#-how-to-reach-out-to-us) to have a company laptop shipped to you.
 
 # Support Information
 
