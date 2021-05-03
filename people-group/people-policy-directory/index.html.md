@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab People Policy Directory"
+title: "People Policy Directory"
 description: "This page is an overall directory listing important GitLab people-related policies."
 ---
 
@@ -10,9 +10,113 @@ description: "This page is an overall directory listing important GitLab people-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## GitLab People Policy Directory
+All of the policies listed below are important for GitLab team members to read and understand as they deal with people benefits, procedures, and requirements of the company. If you have any questions around the internal policies, please reach out to People Operations at `peopleops@gitlab.com`.
 
-All of the policies listed below are important for GitLab team members to read and understand as they deal with people benefits, procedures, and requirements of the company. If you have any questions around the internal policies, please reach out to People Operations.
+### Discrimination
+
+Having a diverse workforce, made up of team members who bring a wide variety of skills, abilities, experiences and perspectives, is essential to our success. We are committed to the principles of equal opportunity, inclusion, and respect. All employment-related decisions must be based on company needs, job requirements, and individual qualifications. Always take full advantage of what our team members have to offer; listen and be inclusive.
+
+* We do not tolerate discrimination against anyone, including team members, customers, business partners, or other stakeholders, on the basis of race, color, religion, national origin, sex (including pregnancy), age, disability, HIV status, sexual orientation, gender identity, marital status, past or present military service, or any other status protected by the laws or regulations in the locations where we operate.
+* We comply with laws regarding employment of immigrants and non-citizens and provide equal employment opportunity to everyone who is legally authorized to work in the applicable country.
+* We provide reasonable accommodations to individuals with disabilities and remove any artificial barriers to success.
+
+Report suspected discrimination right away and never retaliate against anyone who raises a good faith belief that unlawful discrimination has occurred. Employees and contractors should refer to the [GitLab Anti-Harassment Policy](/handbook/anti-harassment/#discrimination) for more information.
+
+### Harassment
+
+Every employee or contractor has a right to a work environment free from harassment, regardless of whether the harasser is a co-worker, supervisor, manager, customer, vendor, or visitor. Please refer to the [GitLab Anti-Harassment Policy](/handbook/anti-harassment/) for more information. As is the case with any violation of the Code, you have a responsibility to report any harassing behavior or condition, whether you are directly involved or just a witness.
+
+### Commitment to Non-Retaliation
+
+Any employee or contractor who reports a violation will be treated with dignity and respect and will not be subjected to any form of discipline or retaliation for reporting in good faith. Retaliation against anyone who provides information or otherwise assists in an investigation or proceeding will be treated as a violation of this Code.
+
+### Open Door Policy
+
+We encourage maximum communication between team members at all levels of the organization.  This is an important part of our culture.  Whenever problems or concerns arise, it is expected that they will be addressed as quickly as possible.  Your immediate manager is the person on the management team who is closest to you and your work.  When you need help or have questions, complaints, problems or suggestions, please contact your manager first.  It is your manager's responsibility to assist you - so please ask, and be willing to work the issue out with your manager.  They are interested in your success, the success of every team member in their department, and the overall success of GitLab.
+
+If your manager cannot help you or answer your questions, your questions will be referred to someone who can.  If you feel your particular question, concern or suggestion cannot be discussed with your manager, you are encouraged to contact your manager's manager, your assigned People Business Partner, the Chief People Officer or the CEO.  It is important to remember that a team member who takes these steps will not be reproached.  You can expect to be treated fairly and with respect.
+
+### Personal Hygiene
+
+When attending Contribute or any conference, public meeting, customer meeting or meet-up, kindly keep in mind you are representing GitLab. Personal hygiene and hygiene in general helps to maintain health and prevent the spread of diseases and various other illnesses. We motivate everyone to maintain cleanliness. For more information about our GitLab Events Code of Conduct, read more [here](/company/culture/contribute/coc/).
+
+### Social Responsibility
+
+We pride ourselves on being a company that operates with integrity, makes good choices, and does the right thing in every aspect of our business. We will continually challenge ourselves to define what being a responsible company means to us, and work to translate our definition into behavior and improvements at GitLab. We seek to align our social and environmental efforts with our business goals and continue to develop both qualitative and quantitative metrics to assess our progress.
+
+### Substance Abuse
+
+GitLab strives to maintain a workplace that is free from illegal use, possession, sale, or distribution of alcohol or controlled substances. Legal or illegal substances shall not be used in a manner that impairs a person’s performance of assigned tasks. This will help to maintain the efficient and effective operation of the business, and to ensure customers receive the proper service. GitLab team members must also adhere to the local laws of where they reside and where they travel to, including the [GitLab Contribute](/events/gitlab-contribute/).
+
+### Mental Health Awareness
+
+The World Health Organization (WHO) [defines health](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj3oZ7I1M_XAhUsI8AKHXWiC5EQFggmMAA&url=http%3A%2F%2Fwww.who.int%2Fgovernance%2Feb%2Fwho_constitution_en.pdf&usg=AOvVaw0usN4G0kSEScrW3HqENGIr) as:
+
+* "a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.  The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition."
+
+The WHO [defines **mental health**](http://www.who.int/features/factfiles/mental_health/en/) as:
+
+* “a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community.”
+
+Defining the terms from the sentence above:
+
+* *"A state of well-being"* is a self-reported measure of 'wellness'.
+* *"The individual realizes his or her own abilities"* requires feedback, positive or negative.
+* *"Can cope with the normal stresses of life"* i.e. does not find normal life overwhelming too much of the time.
+* *"Can work productively and fruitfully"* here GitLab clearly has a role to play as it can provide an opportunity for productive and fruitful work.
+* *"Is able to make a contribution to his or her community"* versus the inverse, which is only being able to draw from that community.
+
+1. Why is awareness of Mental Health important at GitLab?
+
+   * It can affect any and all of us. The statistics from the WHO are that [1 in 4](http://www.who.int/whr/2001/media_centre/press_release/en/) of us will be affected by mental or neurological disorders at some point in our life. That said, we are all subject to periods where we or those around us find the "the normal stresses of life" harder than usual to deal with.
+   * The more we are aware of mental health, the more inclusive we are. That will help encourage any colleagues currently experiencing mental health issues to talk about it.
+   * Our business at its core is a group of people working together towards a common goal. With awareness of what might affect our colleagues, we are better equipped to help them if they do discuss it with us and therefore help our business.
+   * Mental health has so much emotional baggage as a topic that it can initially seem scary to talk about. Promoting mental health awareness helps to remove the stigma and taboos associated with it.
+   * GitLab can offer "productive and fruitful" work for all of our employees. That should not be [underestimated](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwitr7eP18_XAhWIORoKHY2_CA4QFggrMAA&url=https%3A%2F%2Fcardinal-management.co.uk%2Fwp-content%2Fuploads%2F2016%2F04%2FBurton-Waddell-is-work-good-for-you.pdf&usg=AOvVaw0ROXJdWquGML5bIsBEIRLo).
+   * In the cold-light of business metrics, the healthier we are, [the more productive we are](https://www.rand.org/randeurope/research/projects/workplace-health-wellbeing-productivity.html).
+
+1. At GitLab we strive to create a stigma-free workplace. In accordance with the National Mental Health Association and the National Council for Behavioral Health we would like to:
+
+   * Educate employees about the signs and symptoms of mental health disorders.
+   * Encourage employees to talk about stress, workload, family commitments, and other issues.
+   * Communicate that mental illnesses are real, common, and treatable.
+   * Discourage stigmatizing language, including hurtful labels such as “crazy,” “loony” or “nuts.”
+   * Help employees transition back to work after they take leave.
+   * Encourage consultation with our employee assistance programs.
+
+1. What are we doing to get there?
+   * People Operations Learning and Development team will be developing training for managers on this topic.
+   * Talk about mental health issues and ideas in the [#mental_health_aware](https://gitlab.slack.com/messages/C834CM4HW) Slack channel.  Examples of what we discuss and share in there:
+     * [Imposter Syndrome](https://pbs.twimg.com/media/EboRwohXgAIYaVN.png)
+   * GitLab would also like to encourage GitLab team-members to take their [time off](/handbook/paid-time-off) to properly take care of themselves. We encourage the team to go to yoga, take a long lunch, or anything else in their day to day life that assists in their mental and emotional well-being.
+   * In addition to our current EAP programs available for employees, we encourage GitLab team-members to take a look at [Working Through It](https://www.workplacestrategiesformentalhealth.com/employee-resources/working-through-it) for insight into reclaiming well-being at work, off work, and return to work.
+   * We believe that our values and culture lends itself to being able to discuss mental health open and honestly without being stigmatized, but let's work together to make it even more inclusive. For example, Finding the right words:
+     * "How can we help you do your job?"
+     * "You’re not your usual self."
+     * "Do you want to talk about it?"
+     * "It's always OK to ask for help."
+     * "It’s hard for me to understand exactly what you’re going through, but I can see that it’s distressing for you."
+
+Any questions or concerns? Please feel free to speak with anyone in People Ops.
+
+### Employee Information Privacy
+
+GitLab respects the confidentiality of the personal information of employees and contractors. This includes employee and contractor medical and personnel records. All team member records are kept in [BambooHR](/handbook/people-group/#using-bamboohr). Team members have self service access to their profile. Where available, documents and information are shared with the team member within the platform. If a team member would like to view their entire profile from the admin view, please schedule a call with People Operations Specialists to walk through a screen share or request screenshots to be sent to your personal email address. Access to personal information is only authorized when there is a legitimate and lawful reason, and access is only granted to appropriate personnel. Requests for confidential employee or contractor information from anyone outside our company under any circumstances must be approved in accordance with applicable laws. It is important to remember, however, that employees and contractors should have no expectation of privacy with regard to normal workplace communication on any personal property used for GitLab business.
+
+If there is no requirement within someone's job description to be public-facing, then team members can opt-out of any public exposure. Team members can opt-out of being added to the [team page](/company/team/) or what content about them is shown on the team page and can use either only their initials or an alias if desired. Since GitLab publishes much of our content, including video calls and meetings, the only way to ensure no unwanted exposure from these videos is to have video turned off and initials or an alias added to the Zoom profile name whenever a call is being recorded. Zoom shows whether a call is being recorded at the top right of the video screen, and team members are always encouraged to ask if a video will be shared or not. For any GitLab livestreams through YouTube, a team member can watch and comment through YouTube instead of through the internal video call. Any questions can be sent directly to our People Business Partners or CPO.
+
+### Proprietary and Confidential Information
+
+In carrying out GitLab’s business, team members often learn confidential or proprietary information about our company, its customers, prospective customers, or other third parties. Team members must maintain the confidentiality of all information entrusted to them, except when disclosure is authorized or legally mandated.
+
+Confidential or proprietary information includes:
+* Any non-public information concerning GitLab, including its businesses, team members, financial performance, results or prospects
+* Any non-public information of a third party in GitLab's possession and under GitLab's protection
+  - With the expectation that the information will be kept confidential and used solely for the business purpose for which it was conveyed and accessed solely by those who have a need to access the information in fulfilling that purpose
+
+GitLab’s confidentiality provisions can be found in the [employee and contractor templates](/handbook/people-group/contracts-probation-periods/#employee-contractor-agreements), but these may vary from what you agreed to at the time of your contract. For specific information about your obligations regarding confidentiality, please reference your contract.
+
+In addition to confidentiality obligations owed to third parties, we also have obligations to protect the personal and sensitive information of our fellow team members. Therefore, you may not access and/or disseminate any team member's personal information (i.e. address, personal phone number, salary, etc.) that the team member has not made publicly available, unless the team member has provided written permission to share the information. An exception to this restriction would be when access is a necessary function of your job duties. A violation of this obligation is considered severe and could result in disciplinary action, up to and including termination.
 
 ### Workers' Compensation
 
@@ -67,59 +171,8 @@ The following are GitLab’s procedures in the event an employee feels threatene
 1. If at any point, an employee feels that they are in danger of physical harm, please contact the local authorities immediately.  Local law enforcement can act quickly to protect the individual and neutralize any threats.
 1. If at any point an employee feels like they or another employee may require immediate medical assistance, please contact the local authorities.
 1. Once the immediate threat is controlled, employees should report any safety concerns to People Ops.
-1. If you believe that a certain location, event or area presents greater risk or exposure to individuals, please notify People Ops.  People Ops can proactively communicate the concerns to other [potentially] affected employees.
+1. If you believe that a certain location, event or area presents greater risk or exposure to individuals, please notify People Ops.  People Ops can proactively communicate the concerns to other potentially affected employees.
 1. If at any point you believe you, personally, may commit an unsafe act, People Ops can assist in providing information about available [Employee Assistance Options](/handbook/total-rewards/benefits/general-and-entity-benefits/#employee-assistance-program).
-
-### Mental Health Awareness
-
-The World Health Organization (WHO) [defines health](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj3oZ7I1M_XAhUsI8AKHXWiC5EQFggmMAA&url=http%3A%2F%2Fwww.who.int%2Fgovernance%2Feb%2Fwho_constitution_en.pdf&usg=AOvVaw0usN4G0kSEScrW3HqENGIr) as:
-
-* "a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.  The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition."
-
-The WHO [defines **mental health**](http://www.who.int/features/factfiles/mental_health/en/) as:
-
-* “a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community.”
-
-Defining the terms from the sentence above:
-
-* *"A state of well-being"* is a self-reported measure of 'wellness'.
-* *"The individual realizes his or her own abilities"* requires feedback, positive or negative.
-* *"Can cope with the normal stresses of life"* i.e. does not find normal life overwhelming too much of the time.
-* *"Can work productively and fruitfully"* here GitLab clearly has a role to play as it can provide an opportunity for productive and fruitful work.
-* *"Is able to make a contribution to his or her community"* versus the inverse, which is only being able to draw from that community.
-
-1. Why is awareness of Mental Health important at GitLab?
-
-   * It can affect any and all of us. The statistics from the WHO are that [1 in 4](http://www.who.int/whr/2001/media_centre/press_release/en/) of us will be affected by mental or neurological disorders at some point in our life. That said, we are all subject to periods where we or those around us find the "the normal stresses of life" harder than usual to deal with.
-   * The more we are aware of mental health, the more inclusive we are. That will help encourage any colleagues currently experiencing mental health issues to talk about it.
-   * Our business at its core is a group of people working together towards a common goal. With awareness of what might affect our colleagues, we are better equipped to help them if they do discuss it with us and therefore help our business.
-   * Mental health has so much emotional baggage as a topic that it can initially seem scary to talk about. Promoting mental health awareness helps to remove the stigma and taboos associated with it.
-   * GitLab can offer "productive and fruitful" work for all of our employees. That should not be [underestimated](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwitr7eP18_XAhWIORoKHY2_CA4QFggrMAA&url=https%3A%2F%2Fcardinal-management.co.uk%2Fwp-content%2Fuploads%2F2016%2F04%2FBurton-Waddell-is-work-good-for-you.pdf&usg=AOvVaw0ROXJdWquGML5bIsBEIRLo).
-   * In the cold-light of business metrics, the healthier we are, [the more productive we are](https://www.rand.org/randeurope/research/projects/workplace-health-wellbeing-productivity.html).
-
-1. At GitLab we strive to create a stigma-free workplace. In accordance with the National Mental Health Association and the National Council for Behavioral Health we would like to:
-
-   * Educate employees about the signs and symptoms of mental health disorders.
-   * Encourage employees to talk about stress, workload, family commitments, and other issues.
-   * Communicate that mental illnesses are real, common, and treatable.
-   * Discourage stigmatizing language, including hurtful labels such as “crazy,” “loony” or “nuts.”
-   * Help employees transition back to work after they take leave.
-   * Encourage consultation with our employee assistance programs.
-
-1. What are we doing to get there?
-   * People Operations Learning and Development team will be developing training for managers on this topic.
-   * Talk about mental health issues and ideas in the [#mental_health_aware](https://gitlab.slack.com/messages/C834CM4HW) Slack channel.  Examples of what we discuss and share in there:
-     * [Imposter Syndrome](https://pbs.twimg.com/media/EboRwohXgAIYaVN.png)
-   * GitLab would also like to encourage GitLab team-members to take their [time off](/handbook/paid-time-off) to properly take care of themselves. We encourage the team to go to yoga, take a long lunch, or anything else in their day to day life that assists in their mental and emotional well-being.
-   * In addition to our current EAP programs available for employees, we encourage GitLab team-members to take a look at [Working Through It](https://www.workplacestrategiesformentalhealth.com/employee-resources/working-through-it) for insight into reclaiming well-being at work, off work, and return to work.
-   * We believe that our values and culture lends itself to being able to discuss mental health open and honestly without being stigmatized, but let's work together to make it even more inclusive. For example, Finding the right words:
-     * "How can we help you do your job?"
-     * "You’re not your usual self."
-     * "Do you want to talk about it?"
-     * "It's always OK to ask for help."
-     * "It’s hard for me to understand exactly what you’re going through, but I can see that it’s distressing for you."
-
-Any questions or concerns? Please feel free to speak with anyone in People Ops.
 
 ### Background Checks
 
@@ -131,7 +184,7 @@ All candidates who make it to the reference stage with GitLab will undergo a bac
 
 The Candidate Experience Specialists will [initiate](/handbook/hiring/talent-acquisition-framework/coordinator/#step-20c-initiate-background-check) all background screenings and employment verifications for candidates. The [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) will initiate any applicable retroactive background checks or requested enhanced background checks for current team members.
 
-#### Disclosure and Authorization
+### Disclosure and Authorization
 
 Candidates (and, as applicable, employees) will receive an email to fill out the background check application. The application will ask for personal and professional information. The application process includes signing a disclosure and a consent form which explains the rights of an individual undergoing a background examination. The application process is designed to take less than fifteen minutes to complete.
 
@@ -139,7 +192,7 @@ To prepare for the employment verification for those candidates being considered
 
 Background checks will act as an additional mechanism of transparency and will help to build trust with our clients.
 
-#### Review Criteria for Candidates
+### Review Criteria for Candidates
 
 Once the background check is completed, Candidate Experience Specialists will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes.  In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.  If the report shows any omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the Candidate Experience Specialist will reach out to the aligned People Business Partner and share the report.   The PBP will review the report and initiate a background check adjudication process in consultation with Legal - Employment, and, only to the extent necessary to ensure the requisite requirements of the job, the hiring manager, VP of department and VP of talent acquisition:
 
@@ -151,7 +204,7 @@ Once the background check is completed, Candidate Experience Specialists will re
 - The hiring manager and the department VP will make the final decision on whether to proceed with the hire
 - The hiring manager will inform the PBP and recruiter of their final decision on whether to proceed with the hire
 
-#### Review Criteria for Current Team Members
+### Review Criteria for Current Team Members
 
 Once the background check is completed, the People Compliance Specialist will review the report and determine if any criminal convictions have a direct connection with an applicant’s ability to fulfill their job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes. In addition, the report should be reviewed for serious omissions or inaccuracies contained in the employment application or made during the interview process. If the report is clear, then no action is taken. If the report shows any serious omissions, inaccuracies, or discrepencies with employment, or includes in it any criminal convictions, the People Compliance Specialist will reach out to the aligned People Business Partner and share the report.
 
@@ -164,7 +217,7 @@ Once the background check is completed, the People Compliance Specialist will re
 
 #### US Citizens only:
 
-#### Fair Credit Reporting Act (FCRA) and Related State Law Compliance
+### Fair Credit Reporting Act (FCRA) and Related State Law Compliance
 
 **Step 1: Disclosure and Authorization**
 
@@ -191,11 +244,11 @@ The Adverse Action Notice form should be sent along with the federal summary of 
 
 For all adverse decisions, document each step taken. Keep copies of all consent and disclosure forms and other documentation sent to the applicant in the event the company has to defend its decision at some later point.
 
-#### Record Retention
+### Record Retention
 
 All documents related to the background check process must be retained for the minimum period of time required by applicable law.
 
-#### Equal Employment Laws
+### Equal Employment Laws
 
 GitLab will adhere to all equal employment laws. When reviewing any criminal record information that appears on a background check, the company shall factor in any known factors relating to:
 
@@ -208,7 +261,7 @@ GitLab will adhere to all equal employment laws. When reviewing any criminal rec
 1. Employment or character references obtained regarding the individual’s fitness for the particular position.
 1. Whether the individual will be bonded for the position.
 
-#### Financial Checks
+### Financial Checks
 
 Finance team members **only** will be required to participate in a federal check through Sterling, which searches for any tax-related or financial offenses. See [this page](/handbook/hiring/talent-acquisition-framework/coordinator/#step-20c-initiate-background-check) for process details.
 
@@ -218,7 +271,7 @@ When a team member is absent from work for three consecutive workdays, there is 
 
 If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
 
-#### Exceptions
+### Exceptions
 
 GitLab understands there are extenuating circumstances that can occur. In the instance that a team member is absent from work for three consecutive workdays due to an emergency outside of the team members' control (I.E. internet outage in their country of residence), the recommendation is:
 
@@ -230,7 +283,7 @@ GitLab understands there are extenuating circumstances that can occur. In the in
 ### Other People Policies
 
 * [United States Employment Status](/handbook/contracts/#united-states-employment-status)
-* [PIAA Agreements](/handbook/contracts/#piaa-agreements)
+* [PIAA Agreements](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement)
 * [360 Feedback](/handbook/people-group/360-feedback/)
 * [Return of Property](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 * [Promotions and Transfers](/handbook/people-group/promotions-transfers/)
@@ -317,58 +370,4 @@ If a Partner’s efforts to comply with this Code have been deficient and Partne
 
 No matter where we operate around the world, we are steadfast in our dedication to service and integrity. Strong partnerships are a cornerstone of GitLab’s business and a vital link in setting and achieving expectations for ethical sourcing and corporate social responsibility. At GitLab, the way we conduct business is as important as the people with whom we conduct business. services we provide.
 
-### Commitment to Non-Retaliation
 
-Any employee or contractor who reports a violation will be treated with dignity and respect and will not be subjected to any form of discipline or retaliation for reporting in good faith. Retaliation against anyone who provides information or otherwise assists in an investigation or proceeding will be treated as a violation of this Code.
-
-### Open Door Policy
-
-We encourage maximum communication between team members at all levels of the organization.  This is an important part of our culture.  Whenever problems or concerns arise, it is expected that they will be addressed as quickly as possible.  Your immediate manager is the person on the management team who is closest to you and your work.  When you need help or have questions, complaints, problems or suggestions, please contact your manager first.  It is your manager's responsibility to assist you - so please ask, and be willing to work the issue out with your manager.  They are interested in your success, the success of every team member in their department, and the overall success of GitLab.
-
-If your manager cannot help you or answer your questions, your questions will be referred to someone who can.  If you feel your particular question, concern or suggestion cannot be discussed with your manager, you are encouraged to contact your manager's manager, your assigned People Business Partner, the Chief People Officer or the CEO.  It is important to remember that a team member who takes these steps will not be reproached.  You can expect to be treated fairly and with respect.
-
-### Discrimination
-
-Having a diverse workforce, made up of team members who bring a wide variety of skills, abilities, experiences and perspectives, is essential to our success. We are committed to the principles of equal opportunity, inclusion, and respect. All employment-related decisions must be based on company needs, job requirements, and individual qualifications. Always take full advantage of what our team members have to offer; listen and be inclusive.
-
-* We do not tolerate discrimination against anyone, including team members, customers, business partners, or other stakeholders, on the basis of race, color, religion, national origin, sex (including pregnancy), age, disability, HIV status, sexual orientation, gender identity, marital status, past or present military service, or any other status protected by the laws or regulations in the locations where we operate.
-* We comply with laws regarding employment of immigrants and non-citizens and provide equal employment opportunity to everyone who is legally authorized to work in the applicable country.
-* We provide reasonable accommodations to individuals with disabilities and remove any artificial barriers to success.
-
-Report suspected discrimination right away and never retaliate against anyone who raises a good faith belief that unlawful discrimination has occurred. Employees and contractors should refer to the [GitLab Anti-Harassment Policy](/handbook/anti-harassment/) for more information.
-
-### Harassment
-
-Every employee or contractor has a right to a work environment free from harassment, regardless of whether the harasser is a co-worker, supervisor, manager, customer, vendor, or visitor. Please refer to the [GitLab Anti-Harassment Policy](/handbook/anti-harassment/) for more information. As is the case with any violation of the Code, you have a responsibility to report any harassing behavior or condition, whether you are directly involved or just a witness.
-
-### Personal Hygiene
-
-When attending Contribute or any conference, public meeting, customer meeting or meet-up, kindly keep in mind you are representing GitLab. Personal hygiene and hygiene in general helps to maintain health and prevent the spread of diseases and various other illnesses. We motivate everyone to maintain cleanliness.
-For more information about our Contribute Code of Conduct, read more [here](/company/culture/contribute/coc/).
-
-### Social Responsibility
-
-We pride ourselves on being a company that operates with integrity, makes good choices, and does the right thing in every aspect of our business. We will continually challenge ourselves to define what being a responsible company means to us, and work to translate our definition into behavior and improvements at GitLab. We seek to align our social and environmental efforts with our business goals and continue to develop both qualitative and quantitative metrics to assess our progress.
-
-### Substance Abuse
-
-GitLab strives to maintain a workplace that is free from illegal use, possession, sale, or distribution of alcohol or controlled substances. Legal or illegal substances shall not be used in a manner that impairs a person’s performance of assigned tasks. This will help to maintain the efficient and effective operation of the business, and to ensure customers receive the proper service. GitLab team members must also adhere to the local laws of where they reside and where they travel to, including the [GitLab Contribute](/events/gitlab-contribute/).
-
-### Employee Information Privacy
-
-GitLab respects the confidentiality of the personal information of employees and contractors. This includes employee and contractor medical and personnel records. All team member records are kept in [BambooHR](/handbook/people-group/#sts=Using BambooHR). Team members have self service access to their profile. Where available, documents and information are shared with the team member within the platform. If a team member would like to view their entire profile from the admin view, please schedule a call with People Operations Specialists to walk through a screen share or request screenshots to be sent to your personal email address. Access to personal information is only authorized when there is a legitimate and lawful reason, and access is only granted to appropriate personnel. Requests for confidential employee or contractor information from anyone outside our company under any circumstances must be approved in accordance with applicable laws. It is important to remember, however, that employees and contractors should have no expectation of privacy with regard to normal workplace communication on any personal property used for GitLab business.
-
-If there is no requirement within someone's job description to be public-facing, then team members can opt-out of any public exposure. Team members can opt-out of being added to the [team page](/company/team/) or what content about them is shown on the team page and can use either only their initials or an alias if desired. Since GitLab publishes much of our content, including video calls and meetings, the only way to ensure no unwanted exposure from these videos is to have video turned off and initials or an alias added to the Zoom profile name whenever a call is being recorded. Zoom shows whether a call is being recorded at the top right of the video screen, and team members are always encouraged to ask if a video will be shared or not. For any GitLab livestreams through YouTube, a team member can watch and comment through YouTube instead of through the internal video call. Any questions can be sent directly to our People Business Partners or CPO.
-
-### Proprietary and Confidential Information
-
-In carrying out GitLab’s business, team members often learn confidential or proprietary information about our company, its customers, prospective customers, or other third parties. Team members must maintain the confidentiality of all information entrusted to them, except when disclosure is authorized or legally mandated.
-
-Confidential or proprietary information includes:
-* Any non-public information concerning GitLab, including its businesses, team members, financial performance, results or prospects
-* Any non-public information of a third party in GitLab's possession and under GitLab's protection
-  - With the expectation that the information will be kept confidential and used solely for the business purpose for which it was conveyed and accessed solely by those who have a need to access the information in fulfilling that purpose
-
-GitLab’s confidentiality provisions can be found in the [employee and contractor templates](/handbook/contracts/#employee-contractor-agreements), but these may vary from what you agreed to at the time of your contract. For specific information about your obligations regarding confidentiality, please reference your contract.
-
-In addition to confidentiality obligations owed to third parties, we also have obligations to protect the personal and sensitive information of our fellow team members. Therefore, you may not access and/or disseminate any team member's personal information (i.e. address, personal phone number, salary, etc.) that the team member has not made publicly available, unless the team member has provided written permission to share the information. An exception to this restriction would be when access is a necessary function of your job duties. A violation of this obligation is considered severe and could result in disciplinary action, up to and including termination.
