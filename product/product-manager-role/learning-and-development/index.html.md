@@ -61,7 +61,7 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 * [When and how to use an Opportunity Canvas "Lite"](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas-lite)
 * [Example: Opportunity Canvas Lite: Parent-child pipelines default behavior change](https://gitlab.com/gitlab-com/Product/-/issues/2030)
 
-##### Example Videos of Canvas Reviews
+#### Example Videos of Canvas Reviews
 
 - [Opportunity Canvas Unfiltered Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqR2kan56Ae7Di70WF3tpZJ)
 
