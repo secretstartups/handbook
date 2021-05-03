@@ -62,6 +62,21 @@ to mitigation.
 
 These definitions imply several on-call rotations for the different roles.
 
+#### Shared Incident Responsibilities
+
+##### Incident Status Updates
+1. During an active incident, the EOC is initially responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident.
+    1. These updates should occur at regular intervals based on the severity of the incident. Refer to [Frequency of Updates](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) for frequency guidelines.
+    1. These status updates are used to:
+        1. Help construct a detailed incident timeline to be used in Root Cause Analysis.
+        1. Ensure CMOC has up to date and accurate information to communicate to customers, executives and other stakeholders.
+        1. Ensure others in the company can track the state of the incident and the impact it is having on customers.
+1. Once an IMOC has been engaged in the incident these responsibilities shift to the IMOC.
+
+##### Incident Timeline Updates
+1. During an active incident, the EOC is initially responsible for ensuring that actions and events relevant to the issue and its resolution are captured in the timeline. These timeline updates should be captured in the `Timeline` section of the incident issue description, but can be captured in a comment thread, if rapid capture of events is needed. If capturing these events in comments on the incident issue, utilize the same format as the `Timeline` section of the incident issue.
+1. Once an IMOC has been engaged in the incident these responsibilities are shared with IMOC. With the IMOC taking the initiative to capture these to preserve space for the EOC to work on mitigation. The EOC should therefore update the IMOC in the incident call with items relevant to the timeline.
+
 #### Engineer on Call (EOC) Responsibilities
 
 1. **As EOC, your highest priority for the duration of your shift is the stability of GitLab.com.**
@@ -79,13 +94,6 @@ These definitions imply several on-call rotations for the different roles.
     1. The [GitLab Organizational Chart](/company/team/org-chart/) and the [GitLab Team Page](/company/team/), which lists areas of expertise for team members, are important tools for finding the right people.
 1. As soon as an [S1/S2](/handbook/engineering/infrastructure/production/#severity) [incident is declared](#declaring-an-incident), join the `The Situation Room Permanent Zoom`. The Zoom link is in the `#incident-management` topic.
     1. GitLab works in an asynchronous manner, but incidents require a synchronous response. Our collective goal is high availability of 99.95% and beyond, which means that the timescales over which communication needs to occur during an incident is measured in seconds and minutes, not hours.
-1. During an active S1, S2, S3 incident the EOC is responsible for posting regular status updates in the incident specific slack channel.  These updates should summarize the current customer impact of the incident and actions we are taking in response.
-    1. These updates should occur at regular intervals based on the severity of the incident. Refer to [Frequency of Updates](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) for frequency guidelines.
-    1. These status updates are used to:
-        1. Construct a detailed incident timeline to be used in Root Cause Analysis.
-        1. Ensure CMOC has up to date and accurate information to communicate to customers, executives and other stakeholders.
-        1. Ensure others in the company can track the state of the incident and the impact it is having on customers.
-    1. Once an IMOC has been engaged in the incident these responsibilities shift to the IMOC.
 1. Keep in mind that a GitLab.com incident is not an "infrastructure problem". It is a company-wide issue, and as EOC, you are leading the response on behalf of the company.
     1. If you need information or assistance, engage with Engineering teams. If you do not get the response you require within a reasonable period, escalate through the IMOC.
     1. As EOC, require that those who may be able to assist to join the Zoom call and ask them to post their findings in the incident issue or active incident Google doc. Debugging information in Slack will be lost and this should be strongly discouraged.
@@ -115,12 +123,6 @@ In some cases, we may choose not to post to status.io, the following are example
 1. The SSOT for who is the current IMOC is the [GitLab Production - IMOC](https://gitlab.pagerduty.com/service-directory/PE8A5MX) service definition in PagerDuty.
 1. The IMOC should [monitor](https://gitlab.slack.com/archives/CB7P5CJS1) ongoing [incidents](https://gitlab.com/gitlab-com/gl-infra/production/-/issues?scope=all&utf8=%E2%9C%93&state=opened) and engage with the incident if it escalates to a user-impacting (S1 or S2) incident.
 1. The IMOC should engage if requested by the EOC. [IMOC incident Checklist in runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/incidents/general_incidents.md#imoc-checklist)
-1. As IMOC once you have been requested by the EOC (or otherwise engaged in an incident) you are responsible for posting regular status updates in the incident specific slack channel.  These updates should summarize the current customer impact of the incident and actions we are taking in response.
-    1. These updates should occur at regular intervals based on the severity of the incident. Refer to [Frequency of Updates](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) for frequency guidelines.
-    1. These status updates are used to:
-        1. Construct a detailed incident timeline that can be used in Root Cause Analysis.
-        1. Ensure CMOC has up to date and accurate information to communicate to customers, executives and other stakeholders.
-        1. Ensure others in the company can track the state of the incident and the impact it is having on customers.
 1. For non-critical issues, or critical (S1, S2) issues with a short duration, the IMOC may also take on the role of CMOC.
     * Due to limited people on the IMOC rotation, there may be times of the day when the CMOC (if available; see [How to engage the CMOC](#how-to-engage-the-cmoc)) is a more friendly choice.
 1. The IMOC should ensure that the appropriate team members from other teams engage within an appropriate amount of time.
