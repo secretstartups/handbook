@@ -47,7 +47,7 @@ Your responsibilities are as follows:
 
 You can use [Support Team Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) to find appropriate engineers to assign.
 
-**NOTE:** GitLab team members may attempt to draw attention to tickets in regular support Slack channels (`#support_self-managed`, `#support_gitlab-com`, `#spt_managers`. Any such attempt constitutes an escalation. Redirect the team member by responding to their post with **only the `:escalate:` emoji**, which will send an automated and anonymous reply describing the correct process.
+**NOTE:** GitLab team members may attempt to draw attention to tickets in regular support Slack channels (`#support_self-managed`, `#support_gitlab-com`, `#spt_managers`). Any such attempt constitutes an escalation. Redirect the team member by responding to their post with **only the `:escalate:` emoji**, which will send an automated and anonymous reply describing the correct process.
 
 **NOTE:** There are two other distinct situations, not discussed on this page:
 
@@ -84,7 +84,7 @@ When an escalation is resolved:
 
 ## Act as a notification point for security incidents
 
-When GitLab experiences a [security incident](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC on-call](/handbook/support/workflows/cmoc_workflows.html).
+When GitLab experiences a [security incident](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
 
 ## Analyze and dispatch Live Upgrade Assistance Requests
 
