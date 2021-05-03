@@ -143,11 +143,15 @@ Review:
 
 We're expecting, broadly that emergencies will fall into one of four categories:
 
-- **broken functionality due to a regression being pushed to GitLab.com** => reproduce, identify, escalate to have a patch created and deployed.
-- **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. => reproduce, identify, escalate to have the specific data corrected (and create a bug report so our code is better)
-- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
+- **broken functionality due to a regression being pushed to GitLab.com** 
+   - Success may mean: reproducing, identifying or creating a bug report and escalating to have a patch created and deployed.
+- **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. 
+    - Success may mean reproducing the error, identifying it Sentry/Kibana, escalating to have the specific data corrected (and creating a bug report so our code is better)
+- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched. This is the hardest class, but will generally be operational emergencies. 
+   - Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) and letting the SRE team diagnose and correct the root cause.
 
 - **License / Consumption issues are preventing access to the product**
+   - Success here means getting the customer into a state where they're unblocked and making sure the license team is equipped to take the handover.
 
 ### Broken Functionality
 If a customer is reporting that behaviour has recently changed, first check [GitLab.com Status](https://status.gitlab.com) and `#incident-management` for any on-going incidents. If there's no known incident:
@@ -180,7 +184,7 @@ If there is a known incident, it's acceptable to link to the public status page 
 
 - [Feature flag broke previously working behaviour](https://gitlab.zendesk.com/agent/tickets/204073): resolution was to turn off a feature-flag.
 - [Regression on GitLab.com broke previously working pipeline](https://gitlab.zendesk.com/agent/tickets/147266): resolution was to revert a recently deployed MR.
-- [Customer locked themselves out of their group by changing SAML settings]()
+- [Customer locked themselves out of their group by changing SAML settings](https://gitlab.zendesk.com/agent/tickets/146611)
 
 ### Subscription Issues
 
@@ -196,7 +200,7 @@ A customer may be blocked because of a license expiring or neglecting to apply a
 A customer may be blocked because they have run out of CI minutes. 
 
 1. Advise them to purchase additional minutes or set up individual runners.
-1. As a courtesy, [set an additional 1000 minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
+1. At your discretion, as a courtesy, [set an additional 1000 minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
 
 #### Customer has exceeded their storage quota
 
@@ -209,4 +213,4 @@ A customer may be blocked because they've exceeded their storage quota.
 
 US Federal on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time.
 
-The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(Public Link). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.
+The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(GitLab Employees only). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.
