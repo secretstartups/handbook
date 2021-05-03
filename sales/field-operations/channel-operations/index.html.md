@@ -18,17 +18,17 @@ description: "This page serves as the Channel Operations team page and includes 
 
 # Welcome to the Channel Operations page
 
-## **Meet the Team**
-### **Who We Are**
+## Meet the Team
+### Who We Are
  - Colleen Farris - Director, Channel Operations
  - Emily Murphy  - Manager, Alliance Operations
  - Kim Stagg - Manager, Channel Operations
  - Dennis Zeissner - Associate Partner Operations Analyst
  
-### **How to Contact Us**
+### How to Contact Us
 The #channel-programs-ops Slack channel is monitored by several teams to provide direction and guidance. The entire Channel Operations team can be reached via this channel.
 
-### **The Channel Operations Issue Board**
+### The Channel Operations Issue Board
 The channel operations issue board can be found [here](https://gitlab.com/groups/gitlab-com/-/boards/2552402?&label_name[]=Channel%20Ops). Each column represents a type of request (feature request, alliances, data & reporting, etc.). When you submit a request to the Channel Operations board, the team will assign the issue and add the corresponding tags. 
 The Channel Operations Board also uses progress tags on issues to show the status of open issues. Each issue is updated regularly with notes and progress tags and should be checked before reaching out to the team for status updates. 
 
@@ -43,7 +43,7 @@ To open an issue with Channel Operations, [visit this link](https://gitlab.com/g
 Channel & Alliance SFDC Dashboards
 </summary>
 - [Global Channel Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXTJ): Dashboard that contains standard metrics for measuring overall Channel performance
-- [Channel Forecast Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYLJ): Dashboard that contains comparison between Partner Sourced and SQS = Channel pipe and bookings
+- [Channel Forecast Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYLJ): Dashboard that contains comparison between `Partner Sourced and SQS = Channel` pipe and bookings
 - [Channel Commercial Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYe4): Dashboard that is focused specifically on our Commercial segment
 - [Alliances Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp): Dashboard that contains standard metrics for measuring Alliance Partner performance
 - [Global Channel Program Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXeR): Dashboard that contains programmatic measurements and program performance
@@ -67,7 +67,7 @@ Sisense Reporting
 - [Channel Analysis Dashboard](https://app.periscopedata.com/app/gitlab/820617/WIP---Channel-Analysis-Dashboard): Overall Global Channel Performance specifically focused on Partner Sourced opportunities
 </details>
  
-### **Reports by Territory**
+### Reports by Territory
  
 <details>
 <summary markdown='span'>
@@ -127,13 +127,13 @@ PUB-SEC
 
 For a global view of current and next fiscal quarter channel renewals, [click here](https://gitlab.my.salesforce.com/00O4M000004aWY3).
 _All required team reporting is included above. In the event you need a special report, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/channel-operations/-/issues) on the Channel Operations Board._
-_For the reporting training video hosted by the Channel Operations team, as well as quick reference “cheats” to help with your Salesforce reporting, [click here](https://docs.google.com/document/d/1F1O3BUX80SJIqaFD9TF2RuyZ7DXB865AuiwaGctHnGo/edit?usp=sharing). _
+_For the reporting training video hosted by the Channel Operations team, as well as quick reference “cheats” to help with your Salesforce reporting, [click here](https://docs.google.com/document/d/1F1O3BUX80SJIqaFD9TF2RuyZ7DXB865AuiwaGctHnGo/edit?usp=sharing)._
 
-## **Standard Channel Practices**
+## Standard Channel Practices
 For detailed information on GitLab’s Channel Partner Program, visit the Channel Partner Handbook [here](https://about.gitlab.com/handbook/resellers/). Partners must be an Authorized GitLab Partner _and have completed one sales certification_ to transact any GitLab products or services. To achieve authorization, partners must have an executed agreement and meet the requirements of the GitLab Partner Program. Only GitLab partners in good standing may sell GitLab products and services unless specifically approved on a case-by-case basis by the GitLab partner program team. Partners can sign up to become authorized [here](https://partners.gitlab.com/).
 
 ### Policy and Process
-All **Partner Soured** and **Partner Assist** channel opportunities require a Partner to submit a Deal Registration via the Partner Portal in order to receive programmatic discounts. Fulfillment channel opportunities do not hold this requirement. In the event that a Partner does not submit a Deal Registration (excluding: Alliances and GSIs), but it is a Partner Sourced deal, the logic needs to match `Sales Qualified Source = Channel Generated` on the opportunity. For more details on the partner deal registration process and program click [here](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).
+All **Partner Soured** and **Partner Assist** channel opportunities require a Partner to submit a Deal Registration via the Partner Portal in order to receive programmatic discounts. Fulfillment channel opportunities do not hold this requirement. In the event that a Partner does not submit a Deal Registration (excluding: Alliances and GSIs), but it is a Partner Sourced deal, the logic needs to match `Sales Qualified Source = Channel Generated` on the opportunity. For more details on the partner deal registration process and program, click [here](https://about.gitlab.com/handbook/resellers/#the-deal-registration-program-overview).
 
 ### Transacting Through Distribution
 As of May 3, 2021, all partners in India must transact through our distribution partner, Redington.
@@ -145,10 +145,10 @@ At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-o
 
 Discounted quotes that are not in the system and sent to a Partner are not permitted. This includes providing product and pricing quotes details in email. This applies to all GEOs and Segments.
 
-### **SFDC Field Definitions**
+### SFDC Field Definitions
 *   _DR - Partner:_ The partner that submitted the Deal Registration.
 *   _DR - Partner Deal Type:_
-    *   _MSP: Get definition_
+    *   _MSP: The partner purchases _and owns_ the license on behalf of the customer. For more information, [click here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#managed-service-provider-msp-opportunities).
     *   _Resale:_ The partner is actually transacting the deal on their paper.
     *   _Referral:_ The partner is bringing us the lead/opportunity but will either transact direct with GitLab or through another partner.
     *   _Services Attach:_ Partner-delivered services provided to the end user related to their use of the GitLab software.
@@ -162,13 +162,13 @@ Discounted quotes that are not in the system and sent to a Partner are not permi
 *   _Platform Partner:_ Customer's platform that GitLab is being deployed.
 *   _Influence Partner:_ Other partners, generally SI/GSIs or alliance partners, that have helped influence a deal.
 
-_For more details on Partner Engagement definitions go [here.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions)_.
+_For more details on Partner Engagement definitions go [here.](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-engagement-types)._
 
 ## Deal Registration
 
 ### Rules of Engagement for Deal Registration
 
-*   Only one partner can earn a deal registration discount per opportunity. Partners, other than the partner granted the deal registration discount that requests a quote, will receive the fulfillment discount rate.Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, and partner relationship with customer. Final deal registration approval decision will be made by GitLab Channel after discussion with GitLab Sales.
+*   Only one partner can earn a deal registration discount per opportunity. Partners, other than the partner granted the deal registration discount that requests a quote, will receive the fulfillment discount rate. Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, and partner relationship with customer. Final deal registration approval decision will be made by GitLab Channel after discussion with GitLab Sales.
 *   Any partner opportunity can be a registered deal. These opportunities can be either Partner Sourced, Partner Assist, Partner Fulfilled or Partner Services Attach. Visit [Program and Incentive Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions) to learn what deals qualify for each category.
 *   Approved deal registrations have standard 90-day expiration from the date of original approval (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab).
 *   GitLab collaborates with partners holding the approved deal registration and is available to support partners throughout the entire sales process.
@@ -185,15 +185,15 @@ _Why is this important?_
 *   Mitigates liability
 *   Reinforces our Transparency value
 
-### **Deal Registration Process**
+### Deal Registration Process
 _Note: The Partner Portal is Impartner and  has SSO enabled with Vartopia, the partner-facing Deal Registration system. GitLab uses a third-party managed services team to help manage administrative processes for Deal Registration._
 
 When a partner submits a Deal Registration, the Managed Services team will handle the initial submission. Upon submission, the following things happen:
 
 
 
-1. An email is sent to the partner acknowledging that the deal registration has been successfully created
-2. The system notifies the Managed Services team to review the registration
+1. An email is sent to the partner acknowledging that the deal registration has been successfully created.
+2. The system notifies the Managed Services team to review the registration.
 3. The system creates a SFDC record on the registration object that includes all of the details of the registration.
 
 The Managed Services team will evaluate the Registration, link it to the appropriate Customer account and contact in SFDC, and then send an email to the applicable Channel Manager to approve/deny the registration.
@@ -203,27 +203,24 @@ The Channel Managers need to review the deal registration and either approve or 
 
 While multiple partners can submit a deal registration for an opportunity, only one deal registration can be approved for a specific opportunity. As a reminder, deal registrations are opportunity based and partners cannot register an account.
 
-Before approving or denying the Deal Registration the Channel Manager needs to check to see if an Opportunity already exists.
+Before approving or denying the Deal Registration the Channel Manager needs to check to see if an Opportunity already exists and either link or create one.
 
 When a CSM receives an email about a deal registration to be managed, they should click the link to the reg and review the notes from the partner. 
 
-![Reg_Record_Steps](/handbook/sales/field-operations/channel-operations/images/Reg_Record_Steps.jpg)
-
 **To Approve a Deal Registration**
+
+![Reg_Record_Steps](/handbook/sales/field-operations/channel-operations/images/Reg_Record_Steps.jpg)
 
 Follow these steps _in order:_
 
-
+![Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/Link_Opportunity_Select.jpg)
 
 1. Click “Link/Create Opportunity.” 
     1. On the Link/Create Opportunity page, first search for the opportunity in the provided list and/or by doing a “Global Search.”
-    2. **If the opportunity exists**, click “Select” next to the opportunity name. You will then be brought back to the deal registration record. \
-
-![Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/Link_Opportunity_Select.jpg)
-
-   3. **If there is no matching opportunity**, click “Create New,” and then choose “Standard” in the Opportunity Type. The system will then populate all the necessary fields, including the DR-mapped fields. Click “Save” and you will be brought back to the registration record.
-2. Click Approve/Deny/Return Registration
-3. On the next page, choose “Approve,” and if you have a message for the partner about the deal, you can add them into the “comments” section. This is not required, but anything included in this field will be sent back to the partner. 
+    2. **If the opportunity exists**, click “Select” next to the opportunity name. You will then be brought back to the deal registration record. 
+    3. **If there is no matching opportunity**, click “Create New,” and then choose “Standard” in the Opportunity Type. The system will then populate all the necessary fields, including the DR-mapped fields. Click “Save” and you will be brought back to the registration record.
+2. Click Approve/Deny/Return Registration.
+3. On the next page, choose “Approve,” and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner. 
  - If a distributor is involved, chose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
 4. Both the registration record and the opportunity record will be updated with the approval information.
 5. Chatter @sales-support, @kim stagg, or @dennis zeissner and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
@@ -232,8 +229,8 @@ When a new customer account is created by "User Vartopia" during a deal registra
 
 **To Deny or Request More Information on a Deal Registration**
 
-1. Skip # 1 in the “Approve” process above, and Click the “Approve/Deny/Return Registration.”
-2. Choose “Deny” or “Return”
+1. Skip # 1 in the “Approve” process above, and click the “Approve/Deny/Return Registration.”
+2. Choose “Deny” or “Return.”
     1. If you choose “Deny,” either choose the standard denial reason, or type out the reason for denial. This will be sent to the partner.
     2. If you choose “Return,” be sure to fill in the comments section with what the partner needs to do to complete a deal registration for approval. 
 
@@ -243,7 +240,7 @@ When a new customer account is created by "User Vartopia" during a deal registra
 *   A Deal Registration is valid 90 days but can be extended if needed.
 *   All Deal Registrations are individual objects in SFDC under Registrations. They do not come in as leads.
 
-### **Other Resources and Instructions**
+### Other Resources and Instructions
 *   [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal)
 *   [Channel Partner Handbook/Partner Program](https://about.gitlab.com/handbook/resellers)
 *   [Deal Registration Fields and Definitions](https://drive.google.com/file/d/1pdPHZpR_0sOUJlat-USGvcXfFjumDwC9/view?usp=sharing)
@@ -258,16 +255,16 @@ Any questions or issues, please reach out to the #channel-programs-ops Slack cha
 
 ### Managed Service Provider (MSP) Opportunities
 
-A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer - the end user - is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation.
+A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation.
 
-When you have an MSP opportunity, the Sales Reps need to follow these **_additional steps_** in the creation of the opportunity:
+With an MSP opportunity, the Sales Reps need to follow these **_additional steps_** in the creation of the opportunity:
 
 1. The opportunity must be created using the MSP partner account, NOT the potential customer on whose behalf they are purchasing.
-2. Change the opportunity owner to the correct Sales Rep that owns the end-user account even though the opportunity is created under the Partner MSP account.
+2. Change the opportunity owner to the correct Sales Rep that owns the end-user account, even though the opportunity is created under the Partner MSP account.
 3. Fill out the Partner and Deal Registration Information Section per the following:
-    1. DR-Partner: this must list the MSP’s _Partner_ account (same as the opportunity is created under)
-    2. DR-Deal type: "MSP"
-    3. DR-Engagement: Select applicable answer
+    1. _DR-Partner:_ this must list the MSP’s _Partner_ account (same as the opportunity is created under)
+    2. _DR-Deal type:_ "MSP"
+    3. _DR-Engagement:_ Select applicable answer
         1. _If there is an approved Deal Registration, the Partner data will automatically be added when the Deal Registration is linked to the Opportunity. The DR-Engagement will be the only piece that needs to be filled out._
 4. When filling out the quote for this opportunity, select the **MSP quote template**.
     4. Invoice owner: The MSP Partner (same as DR-Partner referenced above).
@@ -289,6 +286,15 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
 
 For opportunities where there are multiple partners bidding on the same opportunity, it’s important that each partner gets the appropriate pricing for the opportunity.
 
+*   The partner with the approved Deal Registration needs to receive the [documented discount for the program](https://gitlab.my.salesforce.com/0694M000008xAk4).
+*   **All other partners quoting/bidding on the opportunity do not receive any partner discounts. They should be provided MSRP only.**
+*   If the deal includes a distribution partner, that distributor receives their contracted margin.
+
+For more information on quoting or the Partner Program, please visit:
+
+*   [Deal Desk Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
+*   [Partner Program](https://about.gitlab.com/handbook/resellers/)
+*   [Channel Discount Matrices for GitLab Team Members](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts)
 
 
 
