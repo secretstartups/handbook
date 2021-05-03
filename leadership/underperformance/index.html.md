@@ -57,15 +57,15 @@ GitLab will use the **skill-based** and **will-based** peformance model to ident
 Team members may have the motivation to be successful but performance is impacted due to the following reasons:
 
 - Team member lacks the technical capabilities to be successful in current role
-- Team member unables to prioritize work effectively
-- Team member lacks the understanding how to complete tasks required for role
-- Team member exhibits difficulties working with team members and/or communicating effectively
+- Team member is unable to prioritize work effectively
+- Team member lacks the understanding of how to complete tasks required for role
+- Team member exhibits difficulties working with other team members and/or communicating effectively
 
-Managers should review the skill-based performance issues and determine if the team member requires additional training, additional tools, clearer instructions, guidance or assign a mentor or buddy.  
+Managers should review the skill-based performance issues and determine if the team member requires additional coaching, training, additional tools/resources, clearer instructions, guidance or assigning the team member a mentor or buddy.  
 
 ### Will-based performance
 
-Team members who have the skills necessary to succeed in their current role but their performance may be impacted due to the following reasons:  
+Team members who have the skills necessary to succeed in their current role but they lack the will to perform.   These may be impacted due to the following reasons:  
 
 - Team member is unmotivated or not fully engaged
 - Team member is unprofessional with their fellow team members
@@ -88,11 +88,11 @@ How do you know if a team member isn't reaching their goals? Identifying underpe
 8. Other team members start working around them
 9. Missed goals and timelines
 
-These are all signs of a performance issue, however are these performance issues skill-based or will- based?  Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to improve performance.  
+These are all signs of a performance issue, however are these performance issues skill-based or will- based?  Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to implement a plan to improve performance.  
 
 ## Act Early
 
-The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the isue and improve their performance.  Managers should address performance concerns early and not wait until the performance problems have come to a situation where they are not recoverable.  [Feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#importance-of-feedback) should be given early, it should be specific and it should be documented.  
+Managers should address performance concerns early and not wait until the performance problems have come to a situation where they are not recoverable.  [Feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#importance-of-feedback) should be given early, it should be specific and it should be documented. 
 
 ### Team Member: Discuss Circumstances Immediately With Your Manager
 
