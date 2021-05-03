@@ -36,7 +36,45 @@ Managing and identifying underperformance is one of the hardest things a manager
 
 > If someone is not going to make it after going through the underperformance process; and you've given the chance for them to improve, recognize that it's not only better for the company to move on, it's frequently also better for the direct report and their team members. Get them to a role where they can be successful, whether inside or outside of GitLab, but the longer you wait, the harder it will be to make a change. If it's not going to work out, take action as soon as possible. - GitLab co-founder and CEO [Sid Sijbrandij](/about.gitlab.com/handbook/ceo/)
 
-### Warning Signs/Patterns of Underperformance
+### Managing Performance at GitLab
+
+GitLab strives to treat all team members with respect and dignity at all times. You can review GitLab's [Team Member Relation Philosophy](https://about.gitlab.com/handbook/people-group/team-member-relations-philosophy/) in the handboodk which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
+
+Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all manager but it is an expected one that all managers at some time .  There are many reasons why a manager may not actively manage an underperforming team member.  Below are a few reasons why managers avoid the difficult performance conversations:  
+
+* Because it is hard and the manager fears having the hard conversations
+* Favourtism
+* Unwilling to admit you made a mistake in the hiring process
+* Because it may not directly impact the you 
+* Believes the performance will resolve itself over time
+
+For managers it is important that they address performance issues with team members early, failure to act early can greatly affect the performance of the team as a whole.  Effective teams require cohesion, collaboration and actively engaging and performing team members to be successful in reaching their goals.   Without this cohesiveness there is a risk to the overall team and GitLab's success.  
+
+GitLab will use the **skill-based** and **will-based** peformance model to identify a team members underperformance and remediation plan.  The remediation plan will differ based on the type of performance issue. The team member relations specialist will be able to assist you in identify the cause of the performance issue as well as the walking you through the performance management process.  Below are definitions of skills-based and will-based as well as the remediation plan.
+
+### Skills-based performance 
+
+Team members may have the motivation to be successful but performance is impacted due to the following reasons:
+
+- Team member lacks the technical capabilities to be successful in current role
+- Team member unables to prioritize work effectively
+- Team member lacks the understanding how to complete tasks required for role
+- Team member exhibits difficulties working with team members and/or communicating effectively
+
+Managers should review the skill-based performance issues and determine if the team member requires additional training, additional tools, clearer instructions, guidance or assign a mentor or buddy.  
+
+### Will-based performance
+
+Team members who have the skills necessary to succeed in their current role but their performance may be impacted due to the following reasons:  
+
+- Team member is unmotivated or not fully engaged
+- Team member is unprofessional with their fellow team members
+- Team member exhibits undersirable behavior that impedes their success
+- Team member exhibits undersirable behavior that impedes the success of another Team member, Team or GitLab as a whole
+
+If a manager witnesses or is made aware of any team member behavior that violates our [Code of Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) they should immediately reach out to our [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/#team-member-relations-specialist).  
+
+## Warning Signs/Patterns of Underperformance
 
 How do you know if a team member isn't reaching their goals? Identifying underperformance can be tricky. Below are some common warning signs and patterns of underperformance. 
 
@@ -50,29 +88,7 @@ How do you know if a team member isn't reaching their goals? Identifying underpe
 8. Other team members start working around them
 9. Missed goals and timelines
 
-These are all signs of a performance issue, however are the performance issues skill-based or will- based?  Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to improve performance.  
-
-### Skills-based performance 
-
-Team members may have the motivation to be successful but performance is impacted due to the following reasons:
-
-- Team member lacks the technical capabilities to be successful in current role
-- Team member unables to prioritize work effectively
-- Team member lacks the understanding how to complete tasks required for role
-- Team member exhibits difficulties working with team members and/or communicating effectively
-
-Managers should review the skill- based performance issues and determine if the team member requires additional training, additional tools, clearer instructions and guidance or assign a mentor or buddy.
-
-### Will-based performance
-
-Team members who have the skills necessary to succeed in their current role but their performance may be impacted due to the following reasons:  
-
-- Team member is unmotivated or not engaged
-- Team member is unprofessional with their fellow team members
-- Team member exhibits undersirable behavior that impedes their success
-- Team member exhibits undersirable behavior that impedes the success of another Team member, Team or GitLab as a whole
-
-If a manager witnesses or is made aware of any team member behavior that violates our [Code of Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) they should immediately reach out to our [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/#team-member-relations-specialist).  
+These are all signs of a performance issue, however are these performance issues skill-based or will- based?  Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to improve performance.  
 
 ## Act Early
 
@@ -145,17 +161,18 @@ Managers are expected to address performance concerns (skill-based or will-based
 Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Tempate](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback. 
 
 Helping GitLab team-members understand clearly how their performance is below the standard expected quickly is very important to foster immediate improvement and continued success. It is also important to clarify when feedback given can provide helpful coaching vs. when to address a skill/will based performance issue. It is not always clear how serious the feedback being provided is and setting the context can be critical.
+
 If there are extenuating circumstances, some leeway may be granted depending on the situation. This is an area where a People Business Partner or the Team Member Relations Specialist can provide a sounding board or voice of reason. 
 
 When underperformance is detected, managers compensate by checking their report's work more frequently. The company results should not be affected more than through under-hiring where the position was vacant and others would step in to compensate.
 
 ### Verbal Warning
 
-One Verbal Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance issues. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please reach out to the team member relations group..
+A Verbal Warning is used to bring attention to new or ongoing deficiencies in conduct and/or will-based performance issues. The intent is to define the seriousness of the situation to encourage immediate corrective action.  Not all team members will receive a verbal warning; whether (and/or when) a team member receives a verbal warning may depend on local regulations. If you have any questions about whether you should complete a verbal warning, please reach out to the team member relations group..
 
 The template for a Verbal Warning is found in the confidential PBP resources folder.
 
-Verbal warnings should be communicated in 1:1 meetings, and subsequently confirmed by email with the manager emailing the team member. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder. The verbal warning will remain in the BHR file for the requisite time, as required by applicable local law.
+Verbal warnings should be communicated in 1:1 meetings, and subsequently confirmed by email with the manager emailing the team member with a recap of the discussion. The manager will then save the documentation to the team member's BambooHR profile, in the Action Notices folder. The verbal warning will remain in the BHR file for the requisite time, as required by applicable local law.
 
 ### Written Performance Letter
 
@@ -265,6 +282,10 @@ It is important to note that when a PIP is active, the team member is not eligib
 When in the process of underperformance remediation, such as when a written warning, PEP or PIP is active, you are generally not eligible for transfer to other roles within GitLab. If the underperformance is exclusively a result of a skills mismatch (not of lack of motivation, commitment, delivery etc. or misalignment to our values) other roles within GitLab may be considered, however, a determination regarding your eligibility is at the discretion of your manager and People Business Partner. 
 
 When the underperformance is resolved and you want to transfer to another role, please review [the Internal Application Process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#for-internal-applicants---different-job-family) for transfer. Please note that an internal reference will be conducted before the transfer is final, with this the documented underperformance may be discussed.  
+
+### Talent Assessment and managing underperformance
+
+Managers need to be aware and take into consideration both skill-based and will-based performance issues when they are particpating in the [Talent Assessment Performance/Potential Matrix](https://about.gitlab.com/handbook/people-group/talent-assessment/) listed in the handbook.  It is critical that a manager take in these performance issues when evaluating a team member.  If a team member is technically performing in their role but there are will-based performance issues that is impacting their ability or the teams ability to succeed these need to be taken into consideration.  
 
 ### Letting Someone Go
 
