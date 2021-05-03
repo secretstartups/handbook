@@ -14,9 +14,6 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 The following incentives are available for GitLab team members. Also see our separate page on [benefits](/handbook/total-rewards/benefits/) available to GitLab team members.
 
-### IACV Target Dinner Evangelism Reimbursement
-
-As of Q2 FY21 we have removed the IACV Target Dinner incentive.
 
 ### Discretionary Bonuses
 
@@ -58,7 +55,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 
 #### Valid and Invalid criteria for discretionary bonuses
 
-Discretionary bonuses are to celebrate team members that live by our values. To make sure we are recognizing the right behaviors, below are some criteria to help you decide if a bonus meets the requirements for approval.
+Discretionary bonuses are to celebrate team members that live by our values. To make sure we are recognizing the right behaviors, below are some criteria to help you decide if a bonus meets the requirements for approval. Also in the nomination you are asked to elaborate on how this nomination is meeting the criteria. 
 
 *Valid bonus criteria*
 
@@ -122,12 +119,13 @@ If you received the same nomination twice (for the same person and the same reas
 1. Go to Slack and type `/nominate`
 1. Slack will open a dialog and ask you for some details about the nomination. Use the motivation text field, to write a few sentences describing how the GitLab team member has demonstrated a specific GitLab value in their work.  Please make sure you have viewed the valid and invalid criteria listed above. Don't forget that the nomination request should tie to our values and be detailed enough to ensure that the nomination meets the criteria. You can select the values it applies to.
 1. If applicable, please be sure to include any relevant issues or merge requests that support the nomination.
-1. Once submitted, the bot will send this over to the manager to kick-off the approval flow
+1. Once submitted, the bot will send this over to the manager to kick-off the approval flow. 
+1. If at any point in the approval flow the manager or the manager's manager has a question about approving the bonus they can reach out to the manager and/or nominator for more context. If they have remaining questions they can reach out to their [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division)
 1. Once everyone has approved the bot will report back to you with the good news. If it's rejected we ask the person who rejects, to reach out to you. That is not done by the bot.
 
 **Manager Process**
 1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination.
-1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager, PBP, Total Rewards team)
+1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager and Total Rewards team)
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
 1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel.
 
@@ -148,10 +146,7 @@ graph TD;
   C -->|Approve| F;
   F{Manager's Leader}
   F -->|Reject| H[Bot logs];
-  F -->|Approve| I;
-  I{PBP}
-  I --> |Reject| J[Bot logs];
-  I -->|Approve| L;
+  F -->|Approve| L;
   L{Total Rewards}
   L -->|Reject| M[Bot logs];
   L -->|Approve| N[Bot logs and sends to BambooHR];
@@ -166,7 +161,7 @@ graph TD;
 
 **Any GitLab team-member**
 
-1. Write a 1 sentence description of how the working group has demonstrated a specific GitLab value in their work.
+1. Write a description of how the working group has demonstrated a specific GitLab value in their work.
 1. Email that sentence to the managers of the individuals, suggesting a Working Group Bonus, and set-up a 15 minute Zoom meeting with all the managers to discuss your proposal.
 1. Remember that the manager(s) may or may not agree and they have full discretion (with approval of their manager) on whether their reports get a bonus.  Don't forget that you can also use the #thanks channel to recognize people, as well.
 
@@ -199,7 +194,6 @@ graph TD;
 **Approval Process:**
 
 1. The Manager's Manager receives an alert from BambooHR and can approve or deny.
-1. The request is then sent to the People Ops Admins for final approval and to confirm that there is a 1-sentence justification comment in the Bamboo record.
 1. Once approved, the request is sent to the Total Rewards Analyst to process the bonus in the applicable payroll and notify the manager via email.
 1. Notify Payroll of the bonus.
 1. Per the email from Total Rewards Analysts, the manager will notify the team member of the bonus and will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The announcement should include the “who” and “why” of the bonus.
@@ -211,6 +205,10 @@ As a general rule, the nominated team member's direct manager should be the only
 The exception to this rule could be for working group bonuses if a single person nominated a group. If the nominator would like to announce on behalf of the group, they should:
 * **Confirm that all bonuses have gone through all layers of approval**
 * Confirm with each nominees direct manager that it is ok for them to announce on behalf of the group
+
+#### Discretionary bonus reporting
+
+On a quarterly basis there's a review of the discretionary bonuses data. This includes: # approved per manager, # rejected per manager and any trends on the reason for rejection. This way we can act on any trends and ensure an efficient and consistent process across the whole organization. 
 
 #### GitLab Anniversaries
 
