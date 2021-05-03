@@ -64,7 +64,7 @@ These definitions imply several on-call rotations for the different roles.
 
 #### Shared Incident Responsibilities
 
-##### Incident Status Updates
+##### Incident Status Updates - EOC/IMOC
 1. During an active incident, the EOC is initially responsible for posting regular status updates in the `Current Status` section of the incident issue description. These updates should summarize the current customer impact of the incident and actions we are taking to mitigate the incident.
     1. These updates should occur at regular intervals based on the severity of the incident. Refer to [Frequency of Updates](/handbook/support/workflows/cmoc_workflows.html#frequency-of-updates) for frequency guidelines.
     1. These status updates are used to:
@@ -73,7 +73,7 @@ These definitions imply several on-call rotations for the different roles.
         1. Ensure others in the company can track the state of the incident and the impact it is having on customers.
 1. Once an IMOC has been engaged in the incident these responsibilities shift to the IMOC.
 
-##### Incident Timeline Updates
+##### Incident Timeline Updates - EOC/IMOC
 1. During an active incident, the EOC is initially responsible for ensuring that actions and events relevant to the issue and its resolution are captured in the timeline. These timeline updates should be captured in the `Timeline` section of the incident issue description, but can be captured in a comment thread, if rapid capture of events is needed. If capturing these events in comments on the incident issue, utilize the same format as the `Timeline` section of the incident issue.
 1. Once an IMOC has been engaged in the incident these responsibilities are shared with IMOC. With the IMOC taking the initiative to capture these to preserve space for the EOC to work on mitigation. The EOC should therefore update the IMOC in the incident call with items relevant to the timeline.
 
