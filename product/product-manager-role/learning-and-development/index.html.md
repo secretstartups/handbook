@@ -44,7 +44,7 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 ## Supporting materials for GitLab specific [product manager competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
-#### Opportunity Canvases 
+### Opportunity Canvases 
 
 GitLab's Chief Product Officer shares insights on what makes an opportunity canvas successful in a 10 minute video:
 
