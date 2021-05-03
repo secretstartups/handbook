@@ -17,15 +17,16 @@ The professional services process and methodology fits within the the [customer 
 
 <!--change the below link to the official source once we copy the PS stuff into that deck https://docs.google.com/presentation/d/e/2PACX-1vQNYu_4jB3j3i_fYukM3yMtcbhgbpKbivbaaiKnuih3X6pdn-oI9ic0k6TqtwP2qjqVAaC-HXIC0uD7/embed?start=false&loop=false&delayms=3000 -->
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIQP462bi4eoNkM1f289gx7ak5TR7cijHReiTXHVGJgXJSNXK3jQ_FUl7vYiGmNCOJXvs3KGC1rG5f/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1536" height="893" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNYu_4jB3j3i_fYukM3yMtcbhgbpKbivbaaiKnuih3X6pdn-oI9ic0k6TqtwP2qjqVAaC-HXIC0uD7/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1536" height="893" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
+
 
 <!--![](/handbook/customer-success/professional-services-engineering/processes/customer-journey-mapped-ps-process.png)-->
 
 [Source, GitLab Team Members Only](https://docs.google.com/presentation/d/1VQXESMods5HRIOADC95i9q6lq_AFe2FLj6BO45C3rnY/edit?usp=sharing)
 
 ## PS Process Methodology Stages
-The above diagram (slide 2) is meant to describe the Directly Responsible Individuals (DRIs), Activities, Outcomes, and Tools/Collateral for each sage of the methodology. We can also see clear categorization of stages in pre-sales and post-sales phases.
+The above diagram (slide 4) is meant to describe the Directly Responsible Individuals (DRIs), Activities, Outcomes, and Tools/Collateral for each sage of the methodology. We can also see clear categorization of stages in pre-sales and post-sales phases.
 
 In the linked pages below, you can see a detailed drill down into the steps within each stage that individuals use to perform activities to deliver desired outcomes per each stage. These pages are split by the Phase of the selling process (Pre-sales vs Post-sales).
 
