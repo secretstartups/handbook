@@ -11,28 +11,41 @@ title: "Account Planning"
 
 ## Overview 
 
-An account plan is a document or record that contains important details about a customer or prospect, including information about the organization's business, strategic objectives, mission-critical priorities, goals and motivations, competitive landscape, pertinent technology stack details, key contacts and relationship maps, and your strategy and action plan over varying time horizons (6 months, 12 months, 18 months) to establish and expand a mutually beneficial, long-term strategic relationship. 
+An account plan is a document or record that contains important details about a customer or prospect, including information about the organization's business, strategic objectives, mission-critical priorities, goals and motivations, competitive landscape, pertinent technology stack details, key contacts and relationship maps, and the Strategic Account Leader's (SAL) strategy and action plan over varying time horizons (6 months, 12 months, 18 months) to establish and expand a mutually beneficial, long-term strategic relationship. 
 
-Think about account planning as if you were the CEO of your own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps you analyze and execute on your business with a specific account.  Like a CEO, you need your leadership team to effectively plan for your account. Be sure to leverage your Solutions Architect, Technical Account Manager, and Channel Partners as you strategize and build your plan! 
+The SAL should think about account planning as if they were the CEO of their own territory. If you were a CEO, what information would you need to give banks, investors, or employees to demonstrate that you have a viable business plan that you can execute? An account plan is a business plan that helps the team analyze and execute on the business with a specific account.  Like a CEO, the SAL need a leadership team to effectively plan for the account. Be sure to leverage the Solutions Architect, Technical Account Manager, and Channel Partners as you strategize and build the account plan! 
 
 ## Why Account Planning?
 
-Account planning helps you elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help you focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping you create a strategic plan for long-term customer growth and retention.
+Account planning helps the SAL and the larger account ream elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help the team focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping the team create a strategic plan for long-term customer growth and retention.
 
-An effective account plan defines a clear strategy and action plan to grow and expand customer relationships and will help you:
+An effective account plan defines a clear strategy and action plan to grow and expand customer relationships and will help the SAL and the team:
 * Better understand the customer's financial health, market position, strategic objectives, risks, key partners, tech stack, relationships with other DevOps vendors, and more
 * Prioritize pursuits based on where GitLab can alleviate challenges and pain points that the customer is currently experiencing that are getting in the way of reaching desired business outcomes
-* Assess the "health" of your relationships within the account (access to power, strength of champions, breadth of relationships across lines of business, etc.)
+* Assess the "health" of relationships within the account (access to power, strength of champions, breadth of relationships across lines of business, etc.)
 * Identify resources and/or support needed to successfully execute against strategic account objectives and supporting action plans
 * Determine risks and developing proactive risk mitigation plans
 
 ### What is the Difference Between an Account Plan and a Success Plan? 
 
-The account plan focuses on the account team's strategy to win, retain, and expand the partnership and business relationship with key customers. Success plans, on the other hand, clearly document what and how GitLab will deliver value throughout the customer lifecycle to help the customer optimize their return on investment and achieve specific business objectives.
+The account plan focuses on the account team's strategy to win, retain, and expand the partnership and business relationship with key customers. Success plans, on the other hand, clearly document what and how GitLab will deliver value throughout the customer lifecycle to help the customer optimize their return on investment and achieve specific business objectives aligned to the value drivers in the account plan. Success plans and the associated outcomes can also help inform and validate the account plan. 
 
 ### What is the Difference Between an Account Plan and an Opportunity Plan? 
 
 The opportunity plan (aka the [Command Plan](/handbook/sales/command-of-the-message/command-plan/)) outlines the strategy for closing business related to a single budgeted customer initiative. In contrast, the account plan is a more comprehensive, holistic, organization-wide strategy and action plan for earning the trust and respect of the customer. This is achieved by delivering value to the customer over and over again. Unlike opportunity plans, account plans span multiple customer engagements and lines of business across the account over a longer period of time and may include actions that don't directly align to revenue (e.g. customer appreciation initiatives, other).
+
+## Types of Account Plans
+
+There are two types of Account Plans, one for Land and one for Expand. The Land Account Plan is focused on landing Prospects. The Expand Account Plan is focused on exxpanding existing customers, which includes things like uptiering and new business units within existing customers. 
+
+### Land Account Plans 
+
+Choose the "Land Account Plan" template in Gainsight. The team will not have as much information for this type of plan, but [Demandbase](handbook/marketing/revenue-marketing/account-based-strategy/demandbase/#demandbase-abm-analytics) has a wealth of information to help the team strategically approach the prospect. 
+
+### Expand Account plans 
+
+Choose the "Expand Account Plan" template in Gainsight. Separate from the Expand Account Plan, TAM may have a private success plans, called an [Internal Success Plan](/handbook/customer-success/tam/success-plans/#expansion-internal-only-success-plan). This Internal Account Plan is for the TAM to track their own objetives related to driving product adoption, including primary use cases and expanded use cases (e.g., expanding into CI or DevSecOps). For example, she/he may be working a plan to get the CI team engaged to adopt CI so there may be internal GitLab objectives.
+
 
 ## Components of an Account Plan 
 There are a few different components that are part of an account plan. 
@@ -40,6 +53,7 @@ There are a few different components that are part of an account plan.
 1. Relationship and Influence Mapping
 1. Whitespace Mapping
 1. *Action Plan*
+
 
 ### Account Profile
 Basic account details should already be entered into SalesForce. The purpose of the Account Profile section of the account plan is to capture important details about the customer or prospect, including information about the organization's business, strategic objectives, goals and motivations, competitive landscape, pertinent technology stack details, and more. The account profile is all about the customer (not GitLab).
@@ -56,22 +70,22 @@ Start at a high level, for example:
 
 ### Relationship and Influence Mapping
 Mapping the org allows us to analyze where we are strong and where we have vulnerabilities which will drive some of our actions later in the plan. Relationship mapping includes but is not limited to assessing:
-- The breadth and depth of your relationship "coverage" within an account (both within and across lines of business)
-- Your access to power, champions, and key influencers
+- The breadth and depth of relationship "coverage" within an account (both within and across lines of business)
+- Access to power, champions, and key influencers
 - The strength or health of key relationships (identify which contacts are promoters, detractors, or somewhere in between)
 - How different parts of the organization engage with and/or influence each other. This can be idependent of reporting structure.
 - Who and what has influence over key contacts in the account (e.g. specific analysts, partners, events, trade publications, user groups, other)
 
-If the account plan is with an existing customer, Net Promoter Score (NPS) data may provide helpful insights into and help you track relationship health and trends.
+If the account plan is with an existing customer, Net Promoter Score (NPS) data may provide helpful insights into and help track relationship health and trends.
 
-As you build and continue to refine your account plan, consider the following:
-- What existing relationships do you need to continue to nurture and strengthen?
-- What new relationships do you need to establish, why, and how will you do it?
+As the SAL builds and continues to refine the account plan, consider the following:
+- What existing relationships does the team need to continue to nurture and strengthen?
+- What new relationships does the team need to establish, why, and how will we do it?
 - Who is a GitLab champion, potential champion, detractor?
-- Who are the champions and detractors for your primary competitors in the account?
+- Who are the champions and detractors for the primary competitors in the account?
 - What is each person's level of influence and their professional/career trajectory?
-- Do any GitLab channel and/or alliance partners have relationships that you may be able to leverage with a co-selling strategy/approach?
-- Are you aware of any key contacts who plan to retire or leave the company soon? If yes, what is their succession plan (so you can proactively begin to engage with whomever will be assuming new responsibilities and influence)?
+- Do any GitLab channel and/or alliance partners have relationships that the team may be able to leverage with a co-selling strategy/approach?
+- Is the team aware of any key contacts who plan to retire or leave the company soon? If yes, what is their succession plan (so the team can proactively begin to engage with whomever will be assuming new responsibilities and influence)?
 
 ### White Space Mapping
 This is the part of the account plan where account teams seek to understand and document the organization's technology stack as it relates to how they develop and deploy applications and begin to identify where and how GitLab can deliver value. This mapping can be done for each discrete buying center or line of business within an account and/or at an aggregate account-level view. 
@@ -88,11 +102,11 @@ With this understanding, you can begin to formulate a strategy for where and how
 
 ### Action Plan
 
-*This is the most important part of the account plan!* Once you plan the work, be sure to work the plan! Account plans are meaningless if there is no clear plan of action for achieving your objectives. Once you've identified a prioritized set of objectives that will help you deliver more value to the customer in support of the customer's strategic business initiatives, begin to identify and assign action items that will enable you to achieve each objective. An action plan should clearly document the following:
-1. What you are trying to achieve
-1. How you will achieve success
-1. Who is taking the action
-1. The timeline for completing the action
+*This is the most important part of the account plan!* Once the SAL and the team plan the work, be sure to work the plan! Account plans are meaningless if there is no clear plan of action for achieving the objectives. Once the SAL and the team identify a prioritized set of objectives that will help the team deliver more value to the customer in support of the customer's strategic business initiatives, begin to identify and assign action items that will enable the team to achieve each objective. An action plan should clearly document the following:
+1. What is each team member trying to achieve?
+1. How  will each team member achieve success?
+1. Who is taking the action?
+1. What is the timeline for completing the action?
 1. What resources or support are needed
 
 Be sure to communicate and socialize the action plan with your account team to ensure alignment and understanding. Schedule periodic check-ins to drive accountability in execution. 
@@ -102,12 +116,12 @@ Lastly, one of the fundamental benefits of an account plan is to figure out what
 ## Building the Account Plan 
 
 ### Step 1: Account Prioritization 
-Rather than building an account plan for each and every one of your accounts, it is recommended that you prioritize your accounts with a process sometimes called [Territory Planning](/handbook/sales/territory-planning/). Ideally, focus your efforts on building up to three account plans at one time. A limited number of thoughtful and robust account plans for your most strategic accounts is a much better approach than spreading yourself too thin by trying to create, manage, and maintain a large number of account plans.   
+Rather than building an account plan for each and every one of your accounts, it is recommended that you prioritize your accounts with a process sometimes called [Territory Planning](/handbook/sales/territory-planning/). Ideally, focus your efforts on building up to three account plans at one time. A limited number of thoughtful and robust account plans for the most strategic accounts is a much better approach than spreading yourself too thin by trying to create, manage, and maintain a large number of account plans.   
 
 ### Step 2: Build the Account Profile
-Invest time in researching your customer and gathering data and insights. Document what you know about the account and try to answer the questions outlined in the Account Profile section above. Identify and work on closing information gaps until you have enough information to formulate a strategy.
+Invest time in researching the customer and gathering data and insights. Document what you know about the account and try to answer the questions outlined in the Account Profile section above. Identify and work on closing information gaps with your team until you have enough information to formulate a strategy.
 
-### Step 3: White Space and Relationship Mapping
+### Step 3: Relationship & White Space Mapping
 Collaborate with your account team to conduct this analysis. Discuss the implications of the team's observations and insights from this exercise. Identify and prioritize what additional information is needed to fill in gaps and help inform your account strategy. 
 
 ### Step 4: Define Strategic Objectives 
@@ -129,16 +143,16 @@ Some examples:
 * To get there the business will need to hire new talent, we will need to build the products, we will need to open 6 new regional entities.  We will also need to ensure that we are not over-extending the core profit making part of the business.  
 * Software development’s role will be: 1) the products will be either fully or partially digital; 2) to launch the new product lines, in the new markets we wish to enter, will require new technical expertise in… AI/robotics/VR etc; 3) dev will need to ensure that the core cash-cow products at least keep their current margins while reducing cost.  
 
-### Step 5: Document and Begin Executing Your Action Plan 
-See the Action Plan section above for details. When you're ready, share the plan with your manager and confirm next steps, resources needed, and review any information that is unclear. If appropriate, share the plan with partners to ensure alignment and commitment. 
+### Step 5: Document and Begin Executing the Action Plan 
+See the Action Plan section above for details. When the team is ready, share the plan with your manager and confirm next steps, resources needed, and review any information that is unclear. If appropriate, share the plan with partners to ensure alignment and commitment. 
 
 ### Step 6: Review, Monitor and Iterate  
-Account plans are living documents and are never truly complete. Plans will continue to evolve, and the account team should continue to iterate on them. Once you build the initial plan ask yourself:
-* How can you determine the validity of the plan?
-* What can you measure?
+Account plans are living documents and are never truly complete. Plans will continue to evolve, and the account team should continue to iterate on them. Once you build the initial plan ask yourself and the team:
+* How can we determine the validity of the plan?
+* What can we measure?
 * Have I verified my understanding with my champion?
 
-If a Technical Account Manager is assigned to this customer, check in with them on their [Success Plan](https://about.gitlab.com/handbook/customer-success/tam/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/tam/ebr/). These documents can help validate your account plan and determine if the vision is aligned with each customer's goals. 
+If a Technical Account Manager is assigned to this customer, check in with them on their [Success Plan](https://about.gitlab.com/handbook/customer-success/tam/success-plans/#overview) and ask if they are planning any [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/tam/ebr/). These documents can help validate the account plan and determine if the vision is aligned with each customer's goals. 
 
 A quarterly cadence to review and update plans can help to ensure that plans reflect our current understanding of the account and keep the account team aligned on plan strategy and execution. Major changes such as personnel changes, mergers/aquisitions, and competitive threats may trigger immediate review and updates. Structured review sessions can help keep the account team aligned and keep leadership informed of changes involving customers. 
 
