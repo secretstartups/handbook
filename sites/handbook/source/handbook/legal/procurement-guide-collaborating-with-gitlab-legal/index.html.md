@@ -20,3 +20,6 @@ For general questions that **_do not_** require legal advice, deliverables, or a
 - Update the standard [Mutual Non-Disclosure Agreement](https://drive.google.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view) with the Vendor information. 
 - Send the updated Mutual Non-Disclosure Agreement to the potential Vendor for signature. This should be done via HelloSign or other Electronic Signature method. 
 - **DO NOT SIGN THE NDA YOURSELF** Only authorized individuals can executed contracts on behalf of GitLab. Please view the [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) for who may counter-sign the Mutual Non-Disclosure Agreement. 
+- NOTE: If a potential vendor requires the use of their NDA template, please follow the process located on the [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) which will initiate the legal review process. 
+
+## Helpful Resources
