@@ -38,19 +38,19 @@ Managing and identifying underperformance is one of the hardest things a manager
 
 ### Managing Performance at GitLab
 
-GitLab strives to treat all team members with respect and dignity at all times. You can review GitLab's [Team Member Relation Philosophy](https://about.gitlab.com/handbook/people-group/team-member-relations-philosophy/) in the handbook which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
+GitLab strives to treat all team members with respect and dignity at all times. You can review GitLab's [Team Member Relation Philosophy](/handbook/people-group/team-member-relations-philosophy/) which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
 
 Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all managers performance manage early and provide team members with clear feedback and guidance.  There are many reasons why a manager may not actively manage an underperforming team member.  Below are a few reasons why managers sometimes avoid the difficult performance conversations:  
 
-* Because it is hard and the manager fears having the hard conversations
+* It is hard and the manager fears having the hard conversations
 * Favourtism
-* Unwilling to admit you made a mistake in the hiring process
+* Unwillingness to admit you made a mistake in the hiring process
 * Because it may not directly impact you 
 * Believes the performance issue will resolve itself over time
 
 For managers it is important that they address performance issues with team members early, failure to act early can greatly affect the performance of the team as a whole.  Effective teams require cohesion, collaboration and actively engaging and performing team members to be successful in reaching their goals.   Without this cohesiveness there is a risk to the overall team and GitLab's success as a whole.  
 
-GitLab will use the **skill-based** and **will-based** peformance model to identify a team members underperformance and remediation plan.  The remediation plan will differ based on the type of performance issue. The team member relations specialist will be able to assist you in identifying the cause of the performance issue as well as the walking you through the performance management process.  Below are definitions of skills-based and will-based as well as the remediation plan.
+GitLab will use the **skill-based** and **will-based** peformance model to identify a team members underperformance and remediation plan.  The remediation plan will differ based on the type of performance issue. The team member relations specialist will be able to assist you in identifying the cause of the performance issue as well as the walking you through the performance management process.  Below are definitions of skills-based and will-based as well as the remediation plans.
 
 ### Skills-based performance 
 
@@ -72,7 +72,7 @@ Team members who have the skills necessary to succeed in their current role but 
 - Team member exhibits undersirable behavior that impedes their success
 - Team member exhibits undersirable behavior that impedes the success of another Team member, Team or GitLab as a whole
 
-If a manager or any team member witnesses or is made aware of any team member behavior that violates our [Code of Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) they should immediately reach out to our [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/#team-member-relations-specialist).  
+If a manager or any team member witnesses or is made aware of any team member behavior that violates our [Code of Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) they should immediately reach out to our [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist).  
 
 ## Warning Signs/Patterns of Underperformance
 
@@ -81,7 +81,7 @@ How do you know if a team member isn't reaching their goals? Identifying underpe
 1. Volume of output
 2. Quality of output
 3. Response time
-4. Unclear status
+4. Unclear status of work
 5. Frustration of the team member
 6. Disagreements or confusion about the goals
 7. Frustration from other team members
@@ -92,7 +92,7 @@ These are all signs of a performance issue, however are these performance issues
 
 ## Act Early
 
-Managers should address performance concerns early and not wait until the performance problems have come to a situation where they are not recoverable.  [Feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#importance-of-feedback) should be given early, it should be specific and it should be documented. 
+Managers should address performance concerns early and not wait until the performance problems have come to a situation where they are not recoverable.  [Feedback](/handbook/people-group/guidance-on-feedback/#importance-of-feedback) should be given early, it should be specific and it should be documented. 
 
 ### Team Member: Discuss Circumstances Immediately With Your Manager
 
