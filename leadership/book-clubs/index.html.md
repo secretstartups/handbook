@@ -88,7 +88,7 @@ This book club was internal-only.
     1. Books that are also available as audiobooks increase the
        potential audience. The more ways people can experience the book,
        the more people can attend.
-3. Set up the meeting schedule.
+3. [Set up the meeting schedule.](/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
     1. Record the meetings and [post them to
        YouTube](/handbook/marketing/marketing-operations/youtube/). If the participants
        agree, make the videos public.
