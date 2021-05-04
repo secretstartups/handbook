@@ -29,11 +29,11 @@ _Note: for presales scoping and SOW signature, see the [pre-sales methodology pa
 
 ## 2. PS Project Planning
 
-### Sales to PS Handoff
-**TODO: Add content about what happens in this step**
-
 ### Resource Assignment
 Resource assignment happens only after the SOW is received with Customer signature. The Sr. PS Operations team identifies delivery resources based on the needs of the engagement. 
+
+### Sales to PS Handoff
+The Project Coordinator will schedule a handoff call with the account team (SAL/AE, SA, TAM), the EM who scoped the engagement, and the delivery team (PM, PSE, Trainer, Training Coordinator). The meeting will start with the EM and account team describing the customers high-level goals, current state, and desired business outcomes. Then the EM will discuss in more detail the details of the engagement. The Delivery team will ask clarifying questions for what is in scope and what is out of scope. The PMs will review where the project definition document is stored, which is usually in the [Active Projects](https://drive.google.com/drive/u/0/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U) folder under the Customer project. 
 
 **TODO: Add or link to content about what happens in this step. E.g. List link to the skills matrix,  Show example of skills requirements breakdown that come from a scoping issue, Link to the appropriate PS Operations handbook page to show the process in mavenlink**. 
 
