@@ -52,7 +52,7 @@ For managers it is important that they address performance issues with team memb
 
 GitLab will use the **skill-based** and **will-based** peformance model to identify a team members underperformance and remediation plan.  The remediation plan will differ based on the type of performance issue. 
 
-The skills-based and will-based model differs from our [Talent Assessment model](https://gitlab.com/gl-talent-acquisition/operations/-/issues/959#note_566742220) outlined in the handbook.   In determing the root cause of an underperformance issue we will look to determine if they are skill or will based issues.  Though they are separate managers should take into consideration skill and will based issues when participating in the Talent Assessment program.  
+The skills-based and will-based model differs from our [Talent Assessment model](https://gitlab.com/gl-talent-acquisition/operations/-/issues/959#note_566742220) outlined in the handbook.   In determing the root cause of an underperformance issue we will look to determine if the team member has the required skills needed to be successful in the role.  Or if the team member is lacks the  will(behavior) required to be successful.   Though they are separate managers should take into consideration skill and will based issues when participating in the Talent Assessment program.  
 
 The team member relations specialist will be able to assist you in identifying the cause of the performance issue as well as the walking you through the performance management process.  Below are definitions of skills-based and will-based as well as the remediation plans.
 
