@@ -414,6 +414,19 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
    - [AccountClassTest.maintainChannelManagerOpenOpps](###) - Link Pending Code Merge
 
 
+## SA Team Stamping
+
+**Business Process this supports:** The primary area that this is used is for Compensation. As a number of teams and users are compensated on a regional nunmber, stamping the SA Team of the Opportunity Owner onto the Opportunity allos us to properly pay out this compensation. 
+
+**Overview:**  When a Opporuntiy meets one of the criteria below the SA Team from the Opportunity Owner is stamped onto the Opportunity. This allows for the field to track the owner of the Opporutnity at Close, adjust when the owner is updated but to still allow for the finance teams to override as needed. 
+   - Inserted as a closed opportunity
+   - A opportunity is updated from not closed to closed
+   - A closed opportunity has its owner updated
+
+**Logic Locations:** 
+   * [OpportunityClass.stampSATeam](###) - Link Pending Merge
+
+
 ## Automations
 
 ### Email Alerts
