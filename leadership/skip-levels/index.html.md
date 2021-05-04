@@ -18,11 +18,7 @@ A skip-level meeting is a meeting during which a manager's manager meets directl
 The goal of skip level meetings is to help the senior leader be a better manager of 
 themselves, of the report of their function, and the rest of the management team.
 While [1-1s](/handbook/leadership/1-1) facilitate communication between a team
-member and their manager, skip levels should facilitate communication between a
-team member and their manager's manager.
-
-These meetings between a senior leader in the company and their "skips" serve 
-to promote communication across the leader's whole team, not just their direct 
+member and their manager, skip levels should facilitate communication between the leader's whole team, not just their direct 
 reports. 
 
 It also gives the skips and senior leaders an opportunity to:
