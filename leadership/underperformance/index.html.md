@@ -11,12 +11,12 @@ title: "Underperformance"
 
 ## Introduction
 
-We want people to be successful and should give every opportunity for individuals to work effectively.
-Important deliverables or being understaffed is not a good reason to keep a team member who is underperforming.
-We owe it to all of those on the team to maintain a high standard of performance amongst all teammates.
-In addition, we also want our teammates to be successful, and recognize that they may be more successful at another company.
+We want team members to be successful and should offer every opportunity for them to work effectively.
+Important deliverables or being understaffed are not good reasons to keep team members who are underperforming.
+We owe it to the team to maintain a high standard of performance amongst all team members.
+In addition, we also want our team members to be successful, and to recognize that they may be more successful at another company.
 
-In all cases, we want a manager who asks themselves the question "Is this the best person I could hire today?" to respond with a "yes".
+In all cases, we want a manager who asks the question "Is this the best person I could hire today?" to respond with a "Yes".
 
 ## Training Video
 
@@ -27,34 +27,33 @@ In all cases, we want a manager who asks themselves the question "Is this the be
 
 ## Managing Underperformance Handbook Learning Session
 
-Managing and identifying underperformance is one of the hardest things a manager has to do in their career. It's hard to do it in a way that is timely and structured to the report. As a people leader, you want to come to the same conclusion with your direct report. During a [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions), GitLab CEO, Sid, and the Learning & Development team discuss what underperformance is, how managing it aligns to our values, the impact it can have on teams, what are the signs. We also cover tips team members and manager can implement before it happens. 
+Managing and identifying underperformance can be one of the most difficult responsibilities of a manager, but its also one of the most important.  As a people leader, you want to address underperformance in a timely and structured way to be fair and transparent with the team member. During a [CEO Handbook Learning Session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions), GitLab CEO, Sid, and the Learning and Development team discuss what underperformance is, how managing it aligns to our values, the impact it can have on teams.  You will also be introduced to the signs to look for to identify underperformance.  We also cover tips team members and managers can implement along the way. 
 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/-mLpytnQtlY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-> If someone is not going to make it after going through the underperformance process; and you've given the chance for them to improve, recognize that it's not only better for the company to move on, it's frequently also better for the direct report and their team members. Get them to a role where they can be successful, whether inside or outside of GitLab, but the longer you wait, the harder it will be to make a change. If it's not going to work out, take action as soon as possible. - GitLab co-founder and CEO [Sid Sijbrandij](/about.gitlab.com/handbook/ceo/)
+> If someone is still not performing at an adequate level after going through the underperformance process, recognize that it's not only better for the company for the team member to move on, it's frequently also better for the team member.  Making a decision to move the team member out of the role allows them to find a role where they can be successful, whether in or outside of GitLab.  The longer you wait, the harder it will be to make a change. If it's not going to work out, take action as soon as possible. - GitLab co-founder and CEO [Sid Sijbrandij](/about.gitlab.com/handbook/ceo/)
 
 ### Managing Performance at GitLab
 
-GitLab strives to treat all team members with respect and dignity at all times. You can review GitLab's [Team Member Relation Philosophy](/handbook/people-group/team-member-relations-philosophy/) which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
+GitLab strives to treat all team members with dignity and respect at all times. You can review GitLab's [Team Member Relation Philosophy](/handbook/people-group/team-member-relations-philosophy/) which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
 
-Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all managers performance manage early and provide team members with clear feedback and guidance.  There are many reasons why a manager may not actively manage an underperforming team member.  Below are a few reasons why managers sometimes avoid the difficult performance conversations:  
+Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all leaders manage performance timely and provide team members with clear feedback and guidance.  There are many reasons why a leader may not actively manage an underperforming team member.  Below are a few reasons why managers sometimes avoid the difficult performance conversations:  
 
-* It is hard and the manager fears having the hard conversations
-* Favourtism
+* It is hard, uncomfortable and the leader fears having the hard conversations
+* Favortism
 * Unwillingness to admit you made a mistake in the hiring process
-* Because it may not directly impact you 
 * Believes the performance issue will resolve itself over time
 
-For managers it is important that they address performance issues with team members early, failure to act early can greatly affect the performance of the team as a whole.  Effective teams require cohesion, collaboration and actively engaging and performing team members to be successful in reaching their goals.   Without this cohesiveness there is a risk to the overall team and GitLab's success as a whole.  
+For managers it is important that they address performance issues with team members early, failure to act early can greatly affect the performance of the team as a whole.  Effective teams require cohesion, collaboration and actively engaging and performing team members to be successful in reaching their goals.   Without this cohesiveness there is a risk to the overall team and GitLab's success.
 
-GitLab will use the **skill-based** and **will-based** performance model to identify the root cause of the team members' underperformance and with that determine the suitable remediation plan.  The remediation plan will differ based on the type of performance issues. 
+GitLab will use the **skill-based** and **will-based** performance model to identify the root cause of the team members' underperformance and with that determine the suitable remediation plan.  The remediation plan will differ based on the type of performance issue. 
 
-The skills-based and will-based model differs from our [Talent Assessment model](https://gitlab.com/gl-talent-acquisition/operations/-/issues/959#note_566742220) outlined in the handbook.   In determing the root cause of an underperformance issue we will look to determine if the team member has the required skills needed to be successful in the role.  Or if the team member lacks the  will(behavior) required to be successful.   Though they are separate managers should take into consideration skill and will based issues when performing a Talent Assessment on the team member. Also considerations that went into the most recent Talent Assessment will be reviewed on order to determine a remediation plan. 
+The skills-based and will-based model differs from our [Talent Assessment model](https://gitlab.com/gl-talent-acquisition/operations/-/issues/959#note_566742220) outlined in the handbook.   In determining the root cause of an underperformance issue we will look to determine if the team member has the required skills needed to be successful in the role, or if the team member lacks the will (behavior) required to be successful.   Though they are separate, managers should take into consideration skill- and will-based issues when performing a Talent Assessment for the team member. 
 
-The team member relations specialist will be able to assist you in identifying the cause of the performance issue as well as the walking you through the performance management process.  Below are definitions of skills-based and will-based as well as the remediation plans.
+The team member relations specialist is here to assist you in identifying the cause of the performance issue and can walk you through the performance management process that applies best to the situation.  Below are definitions of skills-based and will-based concerns as well as the typical remediation plans.  As with all situations, there may be unique circumstances which require unique remediation plans.  
 
 ### Skills-based performance 
 
@@ -80,11 +79,11 @@ If a manager or any team member witnesses or is made aware of any team member be
 
 ## Warning Signs/Patterns of Underperformance
 
-How do you know if a team member isn't reaching their goals? Identifying underperformance can be tricky. Below are some common warning signs and patterns of underperformance. 
+How do you know if a team member isn't reaching their goals? Below are some common warning signs and patterns of underperformance as it relates to not meeting the expectations of the role. 
 
-1. Volume of output
-2. Quality of output
-3. Response time
+1. Volume of output 
+2. Quality of output 
+3. Response time 
 4. Unclear status of work
 5. Frustration of the team member
 6. Disagreements or confusion about the goals
@@ -92,18 +91,18 @@ How do you know if a team member isn't reaching their goals? Identifying underpe
 8. Other team members start working around them
 9. Missed goals and timelines
 
-These are all signs of a performance issue, however are these performance issues skill-based or will- based?  Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to implement a plan to improve performance.  
+These are all signs of a performance issue, however are these performance issues skill-based or will-based?  Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to implement a plan to improve performance.  
 
 ## Act Early
 
-Managers should address performance concerns early and not wait until the performance problems have come to a situation where they are not recoverable.  [Feedback](/handbook/people-group/guidance-on-feedback/#importance-of-feedback) should be given early, it should be specific and it should be documented. 
+Managers should address performance concerns early and not wait until the performance problems have become unrecoverable.  [Feedback](/handbook/people-group/guidance-on-feedback/#importance-of-feedback) should be given early, it should be specific and it must be documented. 
 
 ### Team Member: Discuss Circumstances Immediately With Your Manager
 
 Tell your manager immediately if there are circumstances in your life that cause you to be less effective.
 It isn't required to give details if you prefer not to.
 Tell your manager when it started, to what extent it hinders your work, and what your forecast is for your circumstances to improve.
-When you delay this conversation until your manager identifies underperformance you've lost trust that would be helpful to get through this period.
+When you delay this conversation until your manager identifies underperformance you've lost trust that would be helpful during this period.
 
 ### Manager: Identify And Take Action As Early As Possible
 Taking action sooner allows the action to be less severe and allows more time for coaching to have an effect.
@@ -116,7 +115,7 @@ Taking early action to address underperformance is an essential manager skill an
 Inform your manager immediately when you've identified possible underperformance. This is an excellent way to demonstrate initiative and rapidly improve your team. 
 If your manager warns you about possible underperformance before you notify them, you have not practiced [always tell us the bad news promptly](/company/team/structure/#management-group). This diminishes the trust that is needed to resolve the situation.
 Managing underperformance is very important because it reinforces acceptable standards of performance.
-It is hard because frequently the underperformance is due to a mistake we made in hiring, on boarding, and/or coaching.
+It is hard because frequently the underperformance is due to a mistake we made in hiring, onboarding, and/or coaching.
 It is also hard because it is a hard message to give and receive that someone's performance is not adequate.
 
 ### Loop in the Team Member Relations Specialist
@@ -160,15 +159,15 @@ Remediation options will vary based on if the team members underperformance is s
 
 [Coaching](/handbook/leadership/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
 
-Managers are expected to address performance concerns (skill-based or will-based) in a timely manner.  Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team member. These conversations should be documented by the manager and shared with the team member so that everyone has a record of the discussion and is in alignment on where improvements needs to be made and by when. Documentation should be brief (a few key bullet points or a paragraph), and should be sent via email to the team member within 24 hours of the verbal discussion.
+Managers are expected to address performance concerns (skill-based or will-based) in a timely manner.  Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team member. These conversations must be documented by the manager and shared with the team member so that everyone has a record of the discussion and is in alignment on where improvements needs to be made and by when. Documentation should be brief (a few key bullet points or a paragraph), and should be sent via email to the team member within 24 hours of the verbal discussion.
 
 Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Tempate](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback. 
 
 Helping GitLab team members understand clearly how their performance is below the standard expected quickly is very important to foster immediate improvement and continued success. It is also important to clarify when feedback given can provide helpful coaching vs. when to address a skill/will based performance issue. It is not always clear how serious the feedback being provided is and setting the context can be critical.
 
-If there are extenuating circumstances, some leeway may be granted depending on the situation. This is an area where a People Business Partner or the Team Member Relations Specialist can provide a sounding board or voice of reason. 
+If there are extenuating circumstances, some leeway may be granted depending on the situation. This is an area where a People Business Partner or the Team Member Relations Specialist can provide a sounding board or a needed perspective. 
 
-When underperformance is detected, managers compensate by checking their report's work more frequently. The company results should not be affected more than through under-hiring where the position was vacant and others would step in to compensate.
+When underperformance is detected, managers compensate by checking the team member's work more frequently. The company results should not be affected more than through under-hiring where the position was vacant and others would step in to compensate.
 
 ## Verbal Warning
 
@@ -204,10 +203,8 @@ You should only offer a PIP if you are confident that the team member can succes
 
 For team members who truly lack the **skill** for the role or for those team members who lack the **will** to be successful a PIP should not be offered.  PIPs as mentioned above are for team members who with additional guidance, coaching, resources or tools have the ability to improve and sustain long term performance.  
 
-
-
 #### SMART Goals
-As part of the PIP the manager will work with the team member to define SMART goals,.  SMART goals, allow both the manager and team member to define requirements, track progress, and improve communication of expectations for success during the PIP period.
+As part of the PIP the manager will work with the team member to define SMART goals. SMART goals allow both the manager and team member to define requirements, track progress, and improve communication of expectations for success during the PIP period.
 
 **SMART** is an acronym that can be used in creating the PIP requirements. Clear and reachable goals should meet the following criteria:
 
@@ -242,7 +239,7 @@ Our values should be top of mind in administering a PIP.
 
 It is important to remember that the root cause of issues can be a variety of things, PIPs are not intended to be a negative document. They are an opportunity for the manager and the team member to work together to get the team member back on track. We have an example of this to share here, it is anonymized in line with keeping job feedback private as per the [General Guidelines](/handbook/general-guidelines);
 
-**GitLab team-member:**
+**GitLab team member:**
 
 "Although nobody wants to be put on a PIP, for me it ended up ultimately being a positive experience.  My initial introduction to the plan was a shock and a serious blow to my self confidence, but the process was presented in a fair and open way with clearly defined steps and goals,.  The document presented an attitude of wanting to help me improve and thrive, not a pretext to send me out the door.  This helped me shape my attitude going through the process.  As it turns out I had several blind spots in my communication and time management skills that needed to be remedied, and over the course of the PIP with weekly updates with my manager and some personal efforts in activity logging I was able to improve in both of these areas".
 
