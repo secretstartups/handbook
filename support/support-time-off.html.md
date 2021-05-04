@@ -144,10 +144,10 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
    - The status text should contain one of the following strings: 'OOO', 'PTO', 'Parental Leave', or 'Friends and Family'
    - And the emoji should be one of the following: `:palm_tree:`, `:beach:`, `:beach_umbrella:`, `:beach_with_umbrella:`, `:ferris_wheel:`, `:thermometer:`, `:face_with_thermometer:`, `:red_circle:`, `:bulb:`, `:sun_with_face:`.
 
-## How Support Handles Pandemic Support Days
+## How Support Handles Family and Friends Days
 
-During [Pandemic Support Days](/company/pandemic-support-day/#upcoming-pandemic-support-days) GitLab Support continues
-to operate as normal. During the month of a Pandemic Support Days you should book off a day of your choosing to spend as you
+During [Family and Friends Days](/company/pandemic-support-day/#upcoming-pandemic-support-days) GitLab Support continues
+to operate as normal. During the month of a Family and Friends Days you should book off a day of your choosing to spend as you
 please. Please follow the same guidelines as you would in [Choosing Time Off](#choosing-time-off).
 
 ## How Support Handles Holidays
