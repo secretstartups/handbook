@@ -13,13 +13,11 @@ title: "Skip Level Meetings"
 
 ## Purpose and Benefits of Skip-Levels
 
-A skip-level meeting is a meeting during which a manager's manager meets directly with team members without the direct manager present. 
-
-The goal of skip level meetings is to help the senior leader be a better manager of 
-themselves, of the report of their function, and the rest of the management team.
-While [1-1s](/handbook/leadership/1-1) facilitate communication between a team
+A skip-level meeting is a meeting during which a manager's manager meets directly with team members without the direct manager present. While [1-1s](/handbook/leadership/1-1) facilitate communication between a team
 member and their manager, skip levels should facilitate communication between the leader's whole team, not just their direct 
 reports. 
+
+The CEO conducts quarterly skip-level meetings with all indirect reports. The goal of this meeting is to help the CEO be a better manager of him/herself, of the report of their function, and the rest of the executive team. What is going well, what needs improvement, how can the CEO help, and what should the CEO focus on when coaching the report?
 
 It also gives the skips and senior leaders an opportunity to:
 * Get to know each other and build rapport
