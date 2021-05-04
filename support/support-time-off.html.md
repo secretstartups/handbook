@@ -146,7 +146,7 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
 
 ## How Support Handles Family and Friends Days
 
-During [Family and Friends Days](/company/pandemic-support-day/#upcoming-pandemic-support-days) GitLab Support continues
+During [Family and Friends Days](/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
 to operate as normal. During the month of a Family and Friends Days you should book off a day of your choosing to spend as you
 please. Please follow the same guidelines as you would in [Choosing Time Off](#choosing-time-off).
 
