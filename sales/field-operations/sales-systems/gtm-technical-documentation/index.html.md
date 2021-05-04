@@ -398,15 +398,15 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 * Validation Rule : [Cannot edit overridden SQS](https://gitlab.my.salesforce.com/03d4M000001118T?setupid=OpportunityValidations )
 
 
-## Maintain Channel Manaher
+## Maintain Channel Manager
 
-**Business Process this supports:** This automation maintains the correct Channel Manaher on Opportunities. This is important for trakcing which Channel Manager gets compensated on which Opportunity. 
+**Business Process this supports:** This automation maintains the correct Channel Manager on Opportunities. This is important for trakcing which Channel Manager gets compensated on which Opportunity. 
 
 **Overview:** 
    - Currently there are a handful of automations that maintain the Channel Manager on Opportunity records. 
       - When a Deal Registration is associated with an Opportunity the Channel Manager on the Deal registration is stamped onto the Opportunity. This also happens when creating the Opportunity from the Deal registration. This is handeled through our managed package, Vartopia. 
-      - When a Deal Registration has its Channel Manaher updated, the new Channel Manager is stamped onto the Opportunity in the Channel Manager field. This is to accomadate for scenarios with Pub Sec Accounts. Instead of having two Channel accounts in SFDC have only one and update the channel manager on the Deal Registration when it is a Pub Sector Deal Registration. 
-      - `This Class/Automation` When the Channel Manaher on an account is updated. Find all open Opportunities where that Partner Account is the same as the account with the owner change and the Old Account Owner is stamped as the `Channel Manager` on the Opportunity and update the `Channel Manager` to the new Owner of the Partner Account. 
+      - When a Deal Registration has its Channel Manager updated, the new Channel Manager is stamped onto the Opportunity in the Channel Manager field. This is to accomadate for scenarios with Pub Sec Accounts. Instead of having two Channel accounts in SFDC have only one and update the channel manager on the Deal Registration when it is a Pub Sector Deal Registration. 
+      - `This Class/Automation` When the Channel Manager on an account is updated. Find all open Opportunities where that Partner Account is the same as the account with the owner change and the Old Account Owner is stamped as the `Channel Manager` on the Opportunity and update the `Channel Manager` to the new Owner of the Partner Account. 
 
 
 **Logic Locations:** 
