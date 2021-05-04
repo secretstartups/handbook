@@ -95,7 +95,9 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
    * July - Culture of Feedback 
 * [Manager Challenge Program (May)](/handbook/people-group/learning-and-development/manager-challenge/)
 * [Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/)
-* Develop Learning Hubs in GitLab Learn
+* [Develop Learning Hubs in GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team)
+* Planning a [Women at GitLab Mentorship program](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) as a second iteration to the Women in Sales Mentorship Pilot. 
+* [Learning speaker series](https://about.gitlab.com/handbook/people-group/learning-and-development/learning-initiatives/#learning-speaker-series-overview) on [manager enablement of mental wellness and building a rest ethic with John Fitch](https://www.google.com/url?q=https://docs.google.com/document/d/1E766piNneGCLod4LdT3_8wGd_i0Bj2w8T8BXCWbsqM8/edit&sa=D&source=calendar&ust=1620568745675000&usg=AOvVaw16iuM0GgUClxZNkOyLXJMD).
 
 **Note:** More learning activities may be added throughout the quarter. To stay up to date, please join our [#learninganddevelopment](https://app.slack.com/client/T02592416/CMRAWQ97W) Slack Channel and follow the [GitLab Learning & Development](https://gitlab.edcast.com/channel/gitlab-learning-development) channel in GitLab Learn. 
 
