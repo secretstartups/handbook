@@ -12,16 +12,13 @@ title: "SOX Internal Controls"
 
 ### 1. Risk Assessment and Scoping
 
-### 2. Sarbanes-Oxley(SOX) Management Control Assessment Plan
+### 2. [Control Assessment Procedure](handbook/finance/sox-internal-controls/sarbanes-oxley(sox)-management-control-assessment-plan/)
 
 ### 3. [Entity Level Controls](/handbook/finance/sox-internal-controls/entity-level-controls/)
 
 ### 4. [IT General Controls](/handbook/engineering/security/security-assurance/security-compliance/ITGC/)
 
 ### 5. Business Process Controls
-
-Business Process controls are the internal controls that are designed to provide reasonable assurance on business operations, process, efficiency & effectiveness. 
-
 
 1. [Quote to Cash](/handbook/finance/sox-internal-controls/quote-to-cash/) 
 1. [Procure to Pay](/handbook/finance/sox-internal-controls/procure-to-pay/)
