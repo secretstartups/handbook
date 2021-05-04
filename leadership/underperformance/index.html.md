@@ -50,7 +50,11 @@ Managing a team member who is underperforming is one of the more challenging asp
 
 For managers it is important that they address performance issues with team members early, failure to act early can greatly affect the performance of the team as a whole.  Effective teams require cohesion, collaboration and actively engaging and performing team members to be successful in reaching their goals.   Without this cohesiveness there is a risk to the overall team and GitLab's success as a whole.  
 
-GitLab will use the **skill-based** and **will-based** peformance model to identify a team members underperformance and remediation plan.  The remediation plan will differ based on the type of performance issue. The team member relations specialist will be able to assist you in identifying the cause of the performance issue as well as the walking you through the performance management process.  Below are definitions of skills-based and will-based as well as the remediation plans.
+GitLab will use the **skill-based** and **will-based** peformance model to identify a team members underperformance and remediation plan.  The remediation plan will differ based on the type of performance issue. 
+
+The skills-based and will-based model differs from our [Talent Assessment model](https://gitlab.com/gl-talent-acquisition/operations/-/issues/959#note_566742220) outlined in the handbook.   In determing the root cause of an underperformance issue we will look to determine if they are skill or will based issues.  Though they are separate managers should take into consideration skill and will based issues when participating in the Talent Assessment program.  
+
+The team member relations specialist will be able to assist you in identifying the cause of the performance issue as well as the walking you through the performance management process.  Below are definitions of skills-based and will-based as well as the remediation plans.
 
 ### Skills-based performance 
 
