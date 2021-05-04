@@ -5,6 +5,8 @@ title: "Procurement Guide: Collaborating with GitLab Legal"
 ## Overview
 Thank you for visiting! The purpose of this resource is to provide GitLab team members with information on how to engage legal as they work towards procuring products and services at GitLab. 
 
+For information on the Procurement Team and policies, visit [The Procurement](https://about.gitlab.com/handbook/finance/procurement/)
+
 For general questions that **_do not_** require legal advice, deliverables, or any discussion of confidential information, you can reach out to the GitLab Legal Team at *[`#legal`](https://gitlab.slack.com/archives/legal)*.
 
 | Type of Request | Process / Information |
@@ -23,3 +25,4 @@ For general questions that **_do not_** require legal advice, deliverables, or a
 - NOTE: If a potential vendor requires the use of their NDA template, please follow the process located on the [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) which will initiate the legal review process. 
 
 ## Helpful Resources
+
