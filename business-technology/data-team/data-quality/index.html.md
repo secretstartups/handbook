@@ -11,13 +11,35 @@ description: "The GitLab Data Quality Program seeks to identify, monitor, and re
 {:toc .hidden-md .hidden-lg}
 
 ## The Data Quality Program
-The GitLab **Data Quality Program** focuses on improving GitLab's productivity and efficiency through the improvement of Data.
+
+The **GitLab Data Quality Program** focuses on improving GitLab's productivity and efficiency through the improvement of Data.
+The program accomplishes this goal by identifing, monitoring, and helping to remediate Data problems.
+The scope of Data Quality is all of GitLab and is only bounded by availability of data in the Enterprise Data Warehouse.
+The Enterprise Data Warehouse is a key technology component because it provides the ability to scan and detect data quality issues over large data volumes at scale.
 
 
-The Data Quality Program is a set of processes and approaches for identifying, scoring, and remediating Data Quality problems across any subject area at GitLab. The Enterprise Data Warehouse is a key technology component because it provides the ability to rapidly scan and detect data quality issues.
-Data Quality Scorecard (DQS) - a dashboard (wireframe) which shows the overall quality of a table, schema, or system. Overall Quality is based on a set of one or more  Quality Detection Rules. Each dashboard contains a summary of statistics for all QDS.
+## Types Of Data Quality Problems
+
+Other dimensions may include precision, accessibility, credibility, traceability, and confidentiality. I have chosen to exclude these dimensions because they are either sufficiently covered by the other dimensions (precision and credibility) or not particularly relevant to the broader quality conversation (accessibility, traceability, and confidentiality).
+
+- **Accuracy**: Data accuracy is a measure of how well the values in the database match the real-world values they represent. Inaccurate data would be having an Opportunity list the wrong value of a contract.
+
+- **Completeness**: completeness refers to the extent to which data are of sufficient breadth, depth, and scope for the task at hand. There are absolute measures of breadth, depth, and scope that will return relative differences in completeness depending on the usage.
+
+- **Integrity**: Data Integrity is the trustworthiness of the data, typically built upon Consistency and Accuracy. Therefore, Data Integrity is a result of Data Quality. Data with a high degree of integrity can be of low quality if it’s not suited for the task at hand and does not provide value to the business.
+
+- **Duplication**: 
+
+Data uniqueness, also known as data deduplication, is a measure of whether or not real-world entities are represented multiple times in the same dataset. This could likewise apply to data features within a database entry. This can also have implications for reconciling data across databases (i.e. curated products database vs ordered products database.)
+
+## Data Quality System Components
+
+- Data Quality Scorecard (DQS) - a dashboard (wireframe) which displays the overall quality of a table, schema, or system. Overall Quality is based on a set of one or more  Quality Detection Rules. Each dashboard contains a summary of statistics for all QDS.
 Remediation is the process of fixing, correcting, or eliminating the quality problem. Remediations are owned by source system owners. The Data Team is responsible for helping to identify and report on problems and the Data Owner is responsible for remediating problems.
-Detection Rules (DRs) - SQL-based tests to check the quality of data
+
+- Data Quality Issues
+
+- Data Quality Detection Rule - SQL-based tests to check the quality of data
 Data must exist in EDW
 Detection Rules are numbered; 1 detection rule per quality test
 A set of detection rules are run together and the results saved for later analysis and remediation
@@ -25,48 +47,17 @@ A “Batch” run every week or month is responsible for processing every detect
 The Data Quality Scorecard presents the results of the detection rule output for Data Owners to work on.
 
 
-
-
-
-Data quality is a measurement of the value of data to the business, meaning it is dependent on the task trying to be accomplished. High quality data in one context can be low in another. However, there are common dimensions that span contexts and these are detailed here. Also discussed is the relation of Data Integrity to Data Quality, the kinds of Data Errors, and how to improve Data Quality by decreasing the number of errors.
-
-### Dimensions
-
-#### Data Accuracy
-
-Data accuracy is a measure of how well the values in the database match the real-world values they represent. Inaccurate data would be having an Opportunity list the wrong value of a contract.
-
-#### Information Completeness
-
-Information completeness refers to the extent to which data are of sufficient breadth, depth, and scope for the task at hand. There are absolute measures of breadth, depth, and scope that will return relative differences in completeness depending on the usage.
-
-#### Time Dimensions
-
-The time-related dimensions of data quality have three components: currency, volatility, and timeliness.
-
-- Data Currency refers to how promptly the data are updated when an external value changes. A common and useful measure of data currency is a last-updated and/or last-reviewed metadata tag.
-
-- Data Volatility refers to how frequently the real world values are updated. Company names are generally of low volatility while product offerings are highly volatile.
-
-- Data Timeliness is a measure of how current the data is for a given task. This is highly context dependent but can usually be expressed as a combination of currency and volatility along with specific data usage.
-
-#### Data Consistency
-
-Data consistency, also known as coherence and validity, is a measure of whether the data are violating or adhering to semantic rules. That is, given a set of values or ranges for a particular field, do the data adhere to the rules. An example of this would be Turn Around Time. Common values would be 0 to 365 days. That is, we would expect some amount of time to pass before a result is returned ( > 0) but more than a year seems unreasonable. Zero is an indication of no value for that field. With more experience we might realize that 0 to 180 might be more reasonable.
-
-#### Data Uniqueness
-
-Data uniqueness, also known as data deduplication, is a measure of whether or not real-world entities are represented multiple times in the same dataset. This could likewise apply to data features within a database entry. This can also have implications for reconciling data across databases (i.e. curated products database vs ordered products database.)
-
-Other dimensions may include precision, accessibility, credibility, traceability, and confidentiality. I have chosen to exclude these dimensions because they are either sufficiently covered by the other dimensions (precision and credibility) or not particularly relevant to the broader quality conversation (accessibility, traceability, and confidentiality).
-
-### Data Integrity
-
-Data Integrity is the trustworthiness of the data, typically built upon Consistency and Accuracy. Therefore, Data Integrity is a result of Data Quality. Data with a high degree of integrity can be of low quality if it’s not suited for the task at hand and does not provide value to the business.
-
 ### Data Errors
 
 Errors occur, by definition, when data is inaccurate, incomplete, out of date, inconsistent, or duplicated.
+
+
+
+## Prioritizing Data Quality Issues
+
+Data quality is a measurement of the value of data to the business, meaning it is dependent on the task trying to be accomplished. High quality data in one context can be low in another. 
+
+
 
 ### Data Quality Improvement
 
@@ -78,19 +69,7 @@ Data Quality improvement is separated into three categories: Prevention, Detecti
 
 - Repair - Data error repair is simply correcting an error once it has been identified via the prevention or detection methodologies.
 
-## Current Data Quality Checks
-
-There are two main places where we programmatically check and test our data quality. The first is on extraction and loading into the warehouse with proprietary jobs, the second is via our transformations within the warehouse.
-
-### Extraction Data Quality
-
-We extract data from and with a variety of tools and sources. Some are proprietary and others are managed services. For a complete list of sources and pipelines with a rating for data quality verification see [this table](/handbook/business-technology/data-team/#extract-and-load)
-
-| Rating | Description                                                                                                                                                           |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | No Data Validation                                                                                                                                                    |
-| 2      | Source / Target Row counts in extraction job or relying on Managed service                                                                                            |
-| 3      | Data Extraction, Loading, and Transformation metrics are monitored by third party system                                                                              |
+system                                                                              |
 | 4      | Implementation of [Data Lifecycle Management (DLM)](https://assets.red-gate.com/simple-talk/database-lifecycle-management-ebook.PDF) or equivalently robust approach. |
 
 #### SaaS Tools
