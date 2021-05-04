@@ -71,10 +71,13 @@ Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Onl
 ### Journal Epic
 TODO: 
 
-## Delivery Handoff
- Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed.
+## 4. Delivery Handoff 
+- **DRI**: Project Coordinator
+- **Supported By**: EN, PM, PSE, Account Team
 
-Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) methodology to understand the details around pre-sales handoff to the deliver team.
+Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed.
+
+Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) methodology to understand the details around pre-sales handoff to the delivery team.
 
 ![](../PS-delivery-workflow.png)
 

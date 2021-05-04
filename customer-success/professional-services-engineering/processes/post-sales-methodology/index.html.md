@@ -147,7 +147,9 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 1. <strong>For courses that have certification assessments</strong>: When an attendee submits their certification assessment, review their work in the demo lab cloud within 7 days of the attendee's submission and manually release their results using the attendee's completed Google Form. [Here are the detailed instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/wikis/GitLab-Certification-Instructions) for certifying customers.
 
 ### Complete 
-**TODO: Add or link to content about what happens in this step**
+For training engagements, check out the [close out procedures on our operations page](/handbook/customer-success/professional-services-engineering/professional-services-operations/#training-close-out). 
+
+For blended engagements, see the `Deploy & Close` section of our [project management page])(/handbook/customer-success/professional-services-engineering/project-mgmt/#project-workflow)
 
 ### Financial Closeout 
 **TODO: Add or link to content about what happens in this step**
@@ -159,7 +161,7 @@ The project manager should schedule a retrospective at the end of the project. I
 
 The [Retrospective TEMPLATE](https://docs.google.com/document/d/1CXfnCzjF_hwapy0R-89txiFUmSmvX7jvlEqWn48zN8A/edit#heading=h.yqd5ghhhm2lh) can be used to capture notes during the meeting. 
 
-The Retrospective meeting should be run by someone that is not intimately familiar with the execution of the project (typically PS Practice Manager or Engagement Manager). During the meeting, encourage contribtions into the notes doc in real time and offer for participants to verbalize their feedback. 
+The Retrospective meeting should be run by someone that is not intimately familiar with the execution of the project (typically PS Practice Manager or Engagement Manager). During the meeting, encourage contributions into the notes doc in real time and offer for participants to verbalize their feedback.
 
 Toward the end of the call, gather actions and assign owners to complete those actions.
 
@@ -170,7 +172,6 @@ At the end of a project the Project leader should document the customer value dr
 **TODO: Add or link to content about what happens in this step**
 
 ### Handoff (Support)
-**TODO: Add or link to content about what happens in this step**
 At the end of a small/medium sized projects or after the initial implementation phase of a large engagement, open a [support ops issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) and add a link to the collaboration project architecture diagram that was deployed. The Support team will load it into a field in Zendesk to help them have context for customer support requests. 
 
 ## Employing Subcontractors
