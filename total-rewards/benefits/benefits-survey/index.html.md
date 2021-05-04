@@ -609,7 +609,7 @@ By demographic:
    * Summary of Responses:
      * Giving team members a set amount of money to donate to causes they support each year.
      * Donation matching for donations made by team members or hours volunteered.
-     * Community/Volunteer Day(s) similar to Pandemic Support Day where everyone has the day off.
+     * Community/Volunteer Day(s) similar to Family and Friends Day where everyone has the day off.
      * Youth initiatives including supporting underrepresented, underprivileged, and/or minority youth in their education, coding, mentorship, etc.
      * Donating to and supporting causes that support ending inequality such as causes that support LGBTQ+ people, Black Lives Matter, organizations that support minorities and minorities in tech, etc.
      * Coding initiatives especially for women and minorities.
