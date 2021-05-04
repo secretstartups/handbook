@@ -6,7 +6,7 @@ canonical_path: "/handbook/product/product-manager-role/learning-and-development
 
 ---
 
-## On this page
+# On this page
 
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -17,11 +17,13 @@ canonical_path: "/handbook/product/product-manager-role/learning-and-development
 
 Welcome to Learning and Development for Product Management at GitLab! The resources here are meant to support product managers explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
 
+This page serves as the content catalog that feeds [GitLab Learn](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub). You are welcome to explore content here but if you prefer a more modular, personalizable, and trackable portal, please visit GitLab Learn. 
+
 Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
 Over time, we will add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/product-CDF-competencies/), [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
-### Recommended books and talks for all GitLab product managers
+## Recommended books and talks for all GitLab product managers
 
 These books are highly recommended to be read by every product manager at GitLab:
 
@@ -40,34 +42,36 @@ Discusses how to leverage efficiency to achieve optimal outcomes. <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RSaIOCHbuYw" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
-### Supporting materials for GitLab specific [product manager competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
+## Supporting materials for GitLab specific [product manager competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
-#### Opportunity Canvases 
+### Opportunity Canvases 
 
 GitLab's Chief Product Officer shares insights on what makes an opportunity canvas successful in a 10 minute video:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8k1jWejojA" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
-####  Overview and Example Canvases by Stage Maturity
+###  Overview and Example Canvases by Stage Maturity
 
 * [Opportunity Canvas Overview](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas)
 * Minimal: [Translating alerts into actionable incidents is challenging](https://docs.google.com/document/d/1-sJoVFr3ND_-N3EtXUNYF6oVROfhE4rcjVqpnQd5N6U/edit#heading=h.bjrjegyjyv9f)
 * Complete: [Remote and Virtual Package Repositories](https://docs.google.com/document/d/1HxStNvY5i4Qn6c_AvhsKNV2WOEqbAivEjZqFPwhKej8/edit#heading=h.4mt5fmtn0ax4)
 * Loveable: [Plan: Project Management, Fix Groups and Projects](https://docs.google.com/document/d/1a2xuEMAsWzPK-cb_wnS9DWh9YHXZLs34Lp7jdetODR4/edit#heading=h.4mt5fmtn0ax4)
 
-##### "Lite" Opportunity Canvas
+#### "Lite" Opportunity Canvas
 
 * [When and how to use an Opportunity Canvas "Lite"](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas-lite)
 * [Example: Opportunity Canvas Lite: Parent-child pipelines default behavior change](https://gitlab.com/gitlab-com/Product/-/issues/2030)
 
-##### Example Videos of Canvas Reviews
+#### Example Videos of Canvas Reviews
 
 - [Opportunity Canvas Unfiltered Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqR2kan56Ae7Di70WF3tpZJ)
 
 
 
 ## General Product Management learning content 
+
+### [This content is also available in a trackable format in GitLab Learn](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub). 
 
 This content is divided into five key competencies for Product Managers. 
 
