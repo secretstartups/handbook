@@ -12,6 +12,7 @@ description: "Learn about the GitLab Professional Services operations processes 
 
 ## Welcome to GitLab Professional Services Operations 
 Professional Services Operations is a collaboration of our consulting, training, schedululing, reporting and backend processes to support the Professional Services team.
+
 ___
 
 #### How to contact us
@@ -112,8 +113,11 @@ ___
 5: **Welcome to PS** - Send the Welcome to PS email to the customer per [template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
 
 6: **Training Scheduling** - After receiving customer confirmation and training intake questionnaire feedback, review trainer schedules in Mavenlink and confirm availability.
-   * Propose training dates and times to the customer.  Add soft allocations to the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and to the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing).
+   * Propose training dates and times to the customer.
+      * Add soft allocations to the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and to the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing).
+      * Add a placeholder on the Professional Services Training calendar and invite the trainer per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
    * Upon receiving the customer's confirmation of training dates and times, change the soft allocations to hard allocations within the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and update the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing) accordingly.
+      * Update the placeholder on the Professional Services Training calendar per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing), and notify the trainer that the customer confirmed the training dates.
    * **Partner Training Work Authorization** - If you are using a partner to deliver the training, create a draft of the applicable Training Work Authorization form and send to the partner for signature using the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
       * After receiving the signed Training Work Authorization form, save a copy in the partner SFDC account and the Professional Services Partner Google Drive folder.
       * Update the partner Statement of Work training funds Google sheet tracker to keep track of the training dollars remaining on the Statement of Work.  Notify the Professional Services Education Services Manager when the funds are getting low so a new Statement of Work and procurement issue can be generated for additional funds.
@@ -127,11 +131,13 @@ ___
    * After the customer call, send a pdf version of the meeting notes to the customer as part of the follow-up email using the [Post-Planning example email template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing) to draft the message.
    * Save a copy of the customer call notes to the customer Active Projects folder.
 
- 8: **Teleconferencing Set Up** - GitLab typically prefers to use Zoom as our primary teleconferencing system.  However, we can set up Webex or MS Teams as an alternative solution based on the training requirements.
+8: **Teleconferencing Set Up** - GitLab typically prefers to use Zoom as our primary teleconferencing system.  However, we can set up Webex or MS Teams as an alternative solution based on the training requirements.
    * If **Zoom** is the preferred teleconferencing system, then the Project Coordinator sets up the Zoom sessions per the [set up instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/). Make sure to add the trainers as alternate hosts for the sessions in order for the trainers to gain host rights for the meeting.
    * If **Webex** is the preferred teleconferencing system, then the Project Coordinator sets up the Webex sessions per the [set up instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing).  Make sure to add the trainers as attendees for the sessions so they can add the calendar placeholders.  The trainers will need to start the meeting via GitLab's shared account to gain host rights for the meeting.  The training attendees are also typically added to the meeting invite instead of requiring registration.  
 
-9: As you work through the training scheduling and preparation tasks, update the Professional Services GitLab.com epic training checklist.   
+9: **Training Calendar Update** - Update the placeholder on the Professional Services Training calendar per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) to include the teleconferencing information and notify the trainer.   
+
+10: As you work through the training scheduling and preparation tasks, update the Professional Services GitLab.com epic training checklist.   
 
 #### Training Preparation (T-1 Week)
 One week prior to the class start date, the Project Coordinator will send the following reminders and perform preparation tasks leading up to the training delivery.  
