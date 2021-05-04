@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Quality"
-description: "Tools and information about GitLab's data quality"
+description: "The GitLab Data Quality Program seeks to identify, monitor, and remediate problems with Data that effect GitLab's productivity and efficiency."
 ---
 
 ## On this page
@@ -10,7 +10,23 @@ description: "Tools and information about GitLab's data quality"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## What is data quality?
+## The Data Quality Program
+The GitLab **Data Quality Program** focuses on improving GitLab's productivity and efficiency through the improvement of Data.
+
+
+The Data Quality Program is a set of processes and approaches for identifying, scoring, and remediating Data Quality problems across any subject area at GitLab. The Enterprise Data Warehouse is a key technology component because it provides the ability to rapidly scan and detect data quality issues.
+Data Quality Scorecard (DQS) - a dashboard (wireframe) which shows the overall quality of a table, schema, or system. Overall Quality is based on a set of one or more  Quality Detection Rules. Each dashboard contains a summary of statistics for all QDS.
+Remediation is the process of fixing, correcting, or eliminating the quality problem. Remediations are owned by source system owners. The Data Team is responsible for helping to identify and report on problems and the Data Owner is responsible for remediating problems.
+Detection Rules (DRs) - SQL-based tests to check the quality of data
+Data must exist in EDW
+Detection Rules are numbered; 1 detection rule per quality test
+A set of detection rules are run together and the results saved for later analysis and remediation
+A “Batch” run every week or month is responsible for processing every detection rule and storing the results in an output table.
+The Data Quality Scorecard presents the results of the detection rule output for Data Owners to work on.
+
+
+
+
 
 Data quality is a measurement of the value of data to the business, meaning it is dependent on the task trying to be accomplished. High quality data in one context can be low in another. However, there are common dimensions that span contexts and these are detailed here. Also discussed is the relation of Data Integrity to Data Quality, the kinds of Data Errors, and how to improve Data Quality by decreasing the number of errors.
 
