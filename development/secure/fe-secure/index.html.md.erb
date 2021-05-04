@@ -31,10 +31,10 @@ appropriate implementation plan and finalize relative sizing of the candidate is
 
 ---
 
-### How to interface with the Quality team
+### How to work with the Quality team
 
 #### Frontend Responsibilities 
-1. Being able to identify what code changes would likely break E2E or System level tests and informing quality
+1. Being able to identify what code changes would likely break E2E or System level tests and informing Quality.
 1. Not to write E2E tests, but to catch potential failures and communicate gaps in coverage before landing to master.
 
 #### Quality Responsibilities
@@ -45,25 +45,22 @@ appropriate implementation plan and finalize relative sizing of the candidate is
 #### Identifying potential breakages
 1. Look to see if issue you are working on [has existing test coverage](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/736). These are the tests likely to fail
 
-1. If you are working around code that contains a selector like `data-qa-selector="<name>"`, then there is likely to be an existing E2E test
+1. If you are working around code that contains a selector like `data-qa-selector="<name>"`, then there is likely to be an existing E2E test. Tests can be found by searching our [E2E tests in Secure](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa/qa/specs/features/ee/browser_ui/secure).
 
-1. You can verify that a suspected breakage exists by running the E2E tests locally or on Gitlab.com. We have a [YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KoNUmi5MOeNURxjl_BtUBxH) with the relevant training.
-
-### Example of how to run a test locally
-`bundle exec bin/qa Test::Instance::All http://192.168.1.91:3000 ./qa/specs/features/ee/browser_ui/secure/security_reports_spec.rb`
 
 #### Communicating changes that may break tests
 
 Ping the DRI for quality assigned to Secure. You can find the person on the [team page](https://about.gitlab.com/handbook/engineering/development/secure/#team-members). If they are unavailable, then #quality on slack or the [triage DRI](https://about.gitlab.com/handbook/engineering/quality/guidelines/#schedule) dependent on severity. 
 
 
-#### Read
+#### Resources
 
 - [How to triage a QA test pipeline failure](https://about.gitlab.com/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#how-to-triage-a-qa-test-pipeline-failure )
 - [Beginner's guide to writing end-to-end tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/beginners_guide.html)
 - [GitLab QA README](https://gitlab.com/gitlab-org/gitlab/-/tree/master/qa)
 - [GitLab QA Scenarios](https://gitlab.com/gitlab-org/gitlab-qa/-/blob/master/docs/what_tests_can_be_run.md)
 - [E2E info for GitLab developers](https://docs.gitlab.com/ee/development/testing_guide/end_to_end/)
+- [Quality training video material](https://www.youtube.com/playlist?list=PL05JrBw4t0KoNUmi5MOeNURxjl_BtUBxH)
 
 ---
 
