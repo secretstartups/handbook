@@ -67,6 +67,8 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 ![configure stream](/handbook/marketing/marketing-operations/youtube/stream_settings.png)
 
+- Click the down arrow next to "Live on YouTube" in the top left once the streaming has begun. Then click "Copy Streaming Link" and paste in the agenda for easy refernce post meeting. 
+
 ### Livestream with OBS
 
 1. Install and launch [OBS Studio](https://obsproject.com/download)
