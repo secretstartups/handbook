@@ -103,7 +103,7 @@ When you delay this conversation until your manager identifies underperformance 
 
 ### Manager: Identify And Take Action As Early As Possible
 Taking action sooner allows the action to be less severe and allows more time for coaching to have an effect.
-The important thing to remember as a manager is to immediately address signs of underperformance. Make sure to consider current personal circumstances, whether the team member has taken sufficient [paid time off](https://about.gitlab.com/handbook/paid-time-off/) in the last 3 to 6 months, review previous performance feedback and any other indications of why there is underperformance or a team member is not meeting expectation for their role.
+The important thing to remember as a manager is to immediately address signs of underperformance. Make sure to consider current personal circumstances, whether the team member has taken sufficient [paid time off](/handbook/paid-time-off/) in the last 3 to 6 months, review previous performance feedback and any other indications of why there is underperformance or a team member is not meeting expectation for their role.
 
 ### Immediately Discuss With The Manager's Manager
 
