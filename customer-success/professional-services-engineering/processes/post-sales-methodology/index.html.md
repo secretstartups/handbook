@@ -161,7 +161,10 @@ The [Retrospective TEMPLATE](https://docs.google.com/document/d/1CXfnCzjF_hwapy0
 
 The Retrospective meeting should be run by someone that is not intimately familiar with the execution of the project (typically PS Practice Manager or Engagement Manager). During the meeting, encourage contribtions into the notes doc in real time and offer for participants to verbalize their feedback. 
 
-Toward the end of the call, gather actions and assign owners to complete those actions. 
+Toward the end of the call, gather actions and assign owners to complete those actions.
+
+### Project Go-live/Recap Document
+At the end of a project the Project leader should document the customer value drives/positive business outcomes they were looking to accomplish, what PS delivered to help them accelerate their journey, and special thanks to the project team. A [template of this write up](https://docs.google.com/document/d/1U0rOXcSEsBFRITQzIKopIspkrldl804PK08cU4onoUU/edit#) be found in the PMO templates Google Drive folder. An example can be found [here](https://docs.google.com/document/d/1ltSU_2UBKovVE6y6MxG2aKImsnIwicbYjCBS385Zx0A/edit#heading=h.huf1p7y95gl9). 
 
 ### Success Plan (TAM)
 **TODO: Add or link to content about what happens in this step**
