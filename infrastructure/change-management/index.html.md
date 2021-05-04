@@ -315,7 +315,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 | 16 April 2021              | Soft       | Family and Friends Day       |
 | 28 May 2021              | Soft       | Family and Friends Day       |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
-| Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/pandemic-support-day/#upcoming-pandemic-support-days)         | Soft       | Family and Friends Days                   |
+| Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
 
 There are 2 types of PCLs: soft and hard.
 
