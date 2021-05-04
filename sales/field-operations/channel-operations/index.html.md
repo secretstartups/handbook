@@ -210,6 +210,8 @@ Before approving or denying the Deal Registration the Channel Manager needs to c
 
 When a CSM receives an email about a deal registration to be managed, they should click the link to the reg and review the notes from the partner. 
 
+It is best practice for a CSM to respond to a licensing deal registration first, and a managed service deal registration second. The process to approve/deny a managed service deal registration is the same as a resale deal registration. 
+
 **To Approve a Deal Registration**
 
 ![Reg_Record_Steps](/handbook/sales/field-operations/channel-operations/images/Reg_Record_Steps.jpg)
