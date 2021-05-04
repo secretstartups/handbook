@@ -94,6 +94,7 @@ Our L&D team will have a variety of learning initiatives throughout the quarter 
    * June - Coaching 
    * July - Culture of Feedback 
 * [Manager Challenge Program (May)](/handbook/people-group/learning-and-development/manager-challenge/)
+* [Field Manager Development Program](/handbook/sales/field-manager-development/)
 * [Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q1/)
 * [Develop Learning Hubs in GitLab Learn](https://about.gitlab.com/handbook/people-group/learning-and-development/work-with-us/#creating-a-learning-hub-for-your-team)
 * Planning a [Women at GitLab Mentorship program](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) as a second iteration to the Women in Sales Mentorship Pilot. 
