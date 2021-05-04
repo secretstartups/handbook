@@ -160,7 +160,7 @@ Managers are expected to address performance concerns (skill-based or will-based
 
 Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Tempate](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback. 
 
-Helping GitLab team-members understand clearly how their performance is below the standard expected quickly is very important to foster immediate improvement and continued success. It is also important to clarify when feedback given can provide helpful coaching vs. when to address a skill/will based performance issue. It is not always clear how serious the feedback being provided is and setting the context can be critical.
+Helping GitLab team members understand clearly how their performance is below the standard expected quickly is very important to foster immediate improvement and continued success. It is also important to clarify when feedback given can provide helpful coaching vs. when to address a skill/will based performance issue. It is not always clear how serious the feedback being provided is and setting the context can be critical.
 
 If there are extenuating circumstances, some leeway may be granted depending on the situation. This is an area where a People Business Partner or the Team Member Relations Specialist can provide a sounding board or voice of reason. 
 
