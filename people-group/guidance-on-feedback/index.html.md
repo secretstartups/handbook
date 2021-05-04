@@ -85,6 +85,12 @@ There is a video below from Kim Malone Scott titled **Radical Candor-The Surpris
   <iframe src="https://www.youtube.com/embed/4yODalLQ2lM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+Radical Candor can be applied to giving constructive feedback: 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/0YaXSbLqork" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### What Comes First, Honesty or Trust?
 
 For many, it is more comfortable to give feedback to, and receive feedback from, those with whom you have already established trust. Somehow, the trust makes it easier to assume good intent and to be boldly honest with each other.  Often, however, we need to provide feedback benefiting from trust before that trust has been earned.  
