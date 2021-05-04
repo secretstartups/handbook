@@ -173,14 +173,14 @@ Other OOO options include;
 | Type of OOO                 | Consider PTO  | Slack Status  |
 |-----------------------------|---------------|---------------|
 | Mandatory Civilian Services | No            | Unavailable   |
-| Pandemic Support Day      | No            | Unavailable   |
+| Family and Friends Day      | No            | Unavailable   |
 | Conference                  | No            | Unavailable   |
 | Customer Visit              | No            | Unavailable   |
 | CEO Shadow Program          | No            | Available     |
 
 
 
-These other types of OOO categories, are to be used on Pandemic Support Day or if you have mandatory civilian service.  They are self-approved and do not count as PTO.  This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
+These other types of OOO categories, are to be used on Family and Friends Day or if you have mandatory civilian service.  They are self-approved and do not count as PTO.  This is an easy way to communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
 
 ### PTO by Roots
 
@@ -211,7 +211,7 @@ If you receive an error message **"Uh-oh! It doesn't look like you have access t
 * The **Vacation** OOO type in PTO by Roots syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR.
 * The **Out Sick** OOO type in PTO by Roots syncs to **Sick Time** in the team member's Time Off tab in BambooHR.
 * The **Parental Leave** OOO type in PTO by Roots syncs to **Parental Leave** in the team member's Time Off tab in BambooHR.
-* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Pandemic Support Day** OOO types in PTO by Roots do not sync to BambooHR.
+* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family and Friends Day** OOO types in PTO by Roots do not sync to BambooHR.
 
 #### Additional Features
 
