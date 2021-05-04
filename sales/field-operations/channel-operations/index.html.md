@@ -365,7 +365,7 @@ Partners can find the discount table in the Asset Library on the [GitLab Partner
 
 
 
-### *artner Engagement Types
+### Partner Engagement Types
 **Partner Sourced**
 
 
