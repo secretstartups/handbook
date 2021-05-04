@@ -70,6 +70,12 @@ skip level meetings:
 
 _Having a large organization is not a reason to not conduct skip-level meetings. Senior leaders with a a large organizations can opt to conduct skip-levels in a rotational fashion. If meeting with everyone is not scalable, instead meet with a new group of skip-level team members each quarter (or more frequently)._
 
+### Learning From the CEO on Skip Level Meetings
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="addURLhere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## Other Resources
 
 * [Skip Levels](https://www.manager-tools.com/2006/04/skip-levels) podcasts on
