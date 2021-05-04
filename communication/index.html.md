@@ -632,7 +632,7 @@ The goal of Focus Fridays is to maximize efficiency by creating designated meeti
 
 - Cancel or move any standing meetings occurring on Fridays
 - Customer, prospect, partner and other external meetings are exceptions. You should not decline an external meeting citing Focus Fridays as the reason 
-- Urgent and important one-off internal meetings might not be avoidable, we should aim to minimize them as much as possible and defer to async work where we can
+- Urgent and important one-off internal meetings might not be avoidable, but we should aim to minimize them as much as possible and defer to async work where we can
 - Consider blocking off your calendar as "busy" on Fridays to block your work time
 - Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work
 - Consider using Fridays to dedicate time to your [learning and development](/people-group/learning-and-development/)
