@@ -56,6 +56,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 ### Lifecycle Management
 
 ![Lifecycle Management Approach Leverages Product Usage Data](./images/lifecycle-product-usage.jpeg)
+[Link to pdf for improved viewing](./images/customer-lifecycle-journey.pdf)
 
 #### Success Planning and Outcome Delivery
 
