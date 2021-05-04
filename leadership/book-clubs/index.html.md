@@ -19,6 +19,15 @@ To propose a new book club, [create an
 issue](https://gitlab.com/gitlab-com/book-clubs/issues/new) in the [book
 clubs project](https://gitlab.com/gitlab-com/book-clubs).
 
+## Trustworthy Online Controlled Experiments (A Practical Guide to A/B Testing)
+
+* Dates: 2021-03-11 to 2021-08-12 (every week)
+* Time: 08:30 PT / 16:30 UTC
+* [Zoom](https://gitlab.zoom.us/j/99228304969) (password is in the calendar event info)
+* [Meeting agenda](https://docs.google.com/document/d/16-vWAEdQoV7pizQuErgBovEAqFlPq0pv3-fhfmPk5ec/edit#heading=h.50o15qg15kc0)
+* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/-/issues/23)
+* Suggested audience: growth, product & engineering
+
 ## Ruby under a Microscope
 
 * Dates: 2020-11-24 to 2021-03-03 (every week)
