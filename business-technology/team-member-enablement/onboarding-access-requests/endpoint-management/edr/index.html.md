@@ -29,6 +29,9 @@ GitLab is a growing global company and as such we are required to meet complianc
 
 Equally important is the security and privacy of our team members and their laptops. As GitLab continues to grow, we are increasing the likelihood that we will be targeted by malicious attackers. We want to ensure we have a way to protect team members and their laptops whether they are at home, on the road, or at the coffee shop down the street.
 
+### How to get help with SentinelOne
+If you need help with the SentinelOne agent on your endpoint please reach out to the Information Technology team in the [#it-help](https://join.slack.com/share/zt-pq971lw7-mj0nOlsSIwUkvYloz3u85g) Slack channel. If you have security concerns please reach out to the Security team in the [#security](https://join.slack.com/share/zt-pzvju0ok-Z5mjT~FlPuRJZICPE38STg) Slack channel.
+
 ### What is the difference between EDR and Antivirus?
 
 Antivirus can be seen as one part of the EDR complete security technology solution. Traditionally, antivirus software is a single program which serves basic purposes like scanning, detecting and removing viruses and different types of malware. For EDR, real time status, remediation paths, endpoint firewalls, and system behavioral analytics come together to create a comprehensive technology stack to protect against modern day digital attacks. 
