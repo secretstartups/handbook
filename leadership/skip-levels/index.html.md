@@ -42,6 +42,7 @@ skip level meetings:
 
 ## Conducting skip level meetings
 
+1. If your reports have multiple reports, a skip level meeting is strongly encouraged.  
 1. Skip level meetings should be held at least quarterly. Whether or not you
    choose to organize them more frequently is at your discretion, and likely
    impacted by the number of skips you have.
