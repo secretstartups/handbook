@@ -13,9 +13,6 @@ For general questions that **_do not_** require legal advice, deliverables, or a
 | ------ | ------ |
 | NDA Request / Signature | [NDA Process](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process)|
 | Procurement / Vendor (which includes any matters related to a potential purchase by GitLab) | [Procurement Page](https://about.gitlab.com/handbook/finance/procurement/) Procurement will engage legal as necessary|
-| *Any Non Sales or Procurement Request (Corporate, Marketing, Employment or Product & Privacy Questions) | Email: [Legal_Internal@gitlab.com](mailto:legal_internal@gitlab.com) |
-| Marketing Request | Follow the steps above, be sure to visit the [Marketing Guide: Collaborating with GitLab Legal](https://about.gitlab.com/handbook/legal/marketing-collaboration/) |
-| NDA Request | Use the [GitLab NDA](https://drive.google.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view) send to recipient using electronic signature. See [Signatory Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) for who can sign on behalf of
 
 ## NDA Process
 - Prior to exchanging any confidential information, GitLab and a potential Vendor should execute a Mutual Non-Disclosure Agreement. This will ensure the adequate protection of any / all information shared. 
