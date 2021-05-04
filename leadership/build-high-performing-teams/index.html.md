@@ -54,6 +54,14 @@ Let's explore the stages in more detail and strategies you can implement as a Ma
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiO3RkrjOgOJ6tqvEEg7BXIP6wJrlmazKHD-IUTDXTnGmDC3m4h7N0eXG1kUWoHmSGArkcsHOo1ln0/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
+### Video to Learn More About the Model
+
+Overview of the Drexler-Sibbet Team Performance Mdoel: 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hf8dOLeRvQQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Stage 1 Orientation - Why am I here?
 
 Why am I here? Team needs to move from complete freedom to a set of “boundaries and constraints” that are needed to operate. The first step is to understand the purpose of the team.
