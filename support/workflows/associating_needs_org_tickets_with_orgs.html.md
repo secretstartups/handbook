@@ -26,13 +26,9 @@ Potential reasons this might occur:
 
 ### Determining if this workflow applies
 
-This workflow applies if ZD is prompting you to create an organization.
+This workflow applies if ZD displays `No organization` for a ticket.
 
-![ZD prompts for an org to be created](/images/handbook/support/zendesk_needs_org-create.png)
-
-> **Note**: Please do not manually create organizations. This can break the ZD<>SFDC
-> integration and cause users to receive incorrect SLAs. If you notice an
-> organization needs to be created, please notify support-ops to rectify this.
+![ZD shows No Organization](/images/handbook/support/zendesk_needs_org-create.png)
 
 ## Overall Flow
 
