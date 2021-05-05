@@ -15,9 +15,9 @@ canonical_path: "/handbook/product/product-manager-role/learning-and-development
 
 [**Principles**](/handbook/product/product-principles/) - [**Processes**](/handbook/product/product-processes/) - [**Categorization**](/handbook/product/categories/) - [**GitLab the Product**](/handbook/product/gitlab-the-product) - [**Being a PM**](/handbook/product/product-manager-role) - [**Performance Indicators**](/handbook/product/performance-indicators/) - [**Leadership**](/handbook/product/product-leadership/)
 
-Welcome to Learning and Development for Product Management at GitLab! The resources here are meant to support product managers explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
+Welcome to Learning and Development for Product Management at GitLab! This page serves as the content library that feeds [GitLab Learn for Product Management](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub). You are welcome to explore content here but if you prefer a more modular, personalizable, and trackable portal, please visit GitLab Learn. This page, together with GitLab Learn for Product Management is what we consider and refer to as GitLab's "Product L & D Hub". 
 
-This page serves as the content catalog that feeds [GitLab Learn](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub). You are welcome to explore content here but if you prefer a more modular, personalizable, and trackable portal, please visit GitLab Learn. 
+The resources in the Product L & D Hub are meant to support product managers explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
 
 Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
@@ -567,5 +567,21 @@ One of the best ways to stay in the know is to follow people! There are a lot of
 - [Jeff Patton](https://twitter.com/jeffpatton)
 - [Roman Pichler](https://twitter.com/johncutlefish)
 
+## How to contribute to this library
 
+Keeping our Product L & D Hub robust and relevant is a team effort. We encourage to you to contribute as you come across resources that are helpful to you. And if there are resources in the produt learning and development hub that are outdated or you disagree with, we ecourage you to bring it to our attention as well.
+
+There are two components to the Product L & D hub:
+
+1. GitLab Learn for Product Management, which is a  more modular, personalizable, and trackable portal
+1. This page, which serves as required content library that feeds GitLab Learn for Product Mananament
+
+In order to add content to  [GitLab Learn for Product Management](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub), the content must first be added to and exist on this page. Then, the conent is added to GitLab Learn by [learning evangeists and curators](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions/#contributing-to-gitlab-learn-as-a-team-member). 
+
+If there’s content you want to to add or remove to this library, simply raise  an MR  and add any of the  [product learning evangelists](#-product-learning-evangelists) listed below for as `Reviewer`. Tell us in the MR whether you're recommending the resources for just the library or if you'd like to see it added to GitLab Learn for Product Management as well. Any details on what you value about the content and how you think it's helpful should be added to the description of the MR. Please add `milestone` and labels `product operations` `product handbook` and `prodops:release` to the MR.
+
+### Product learning evangelists
+
+[Michael Karsmpalas](https://gitlab.com/mkarampalas)
+[Farnoosh Seifoddini](https://gitlab.com/fseifoddini)
 
