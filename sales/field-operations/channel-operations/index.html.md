@@ -239,6 +239,9 @@ When a new customer account is created by "User Vartopia" during a deal registra
     1. If you choose “Deny,” either choose the standard denial reason, or type out the reason for denial. This will be sent to the partner.
     2. If you choose “Return,” be sure to fill in the comments section with what the partner needs to do to complete a deal registration for approval. 
 
+**Correcting Registrations Submitted Incorrectly**
+If a partner submits a deal registration incorrectly (example: the wrong type of deal registration, deal, or incorrect information), GitLab Team Members cannot update this. At any point during the opportunity (until it is closed), the `DR - status` field can be changed to "returned." This will send an alert to the partner that there needs to be an update made. Please be sure to communicate with the partner and help them to provide the most accurate information.   
+
 ### Deal Registration System Status and Information
 *   Deal Registration details will never override any information that the sales team forecasts on the Opportunity.
 *   There is a Deal Registration ID that can be used to track all Deal Registrations in the system.
