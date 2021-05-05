@@ -188,11 +188,16 @@ A calculation is then done by then taking into account the MQLs, region, segment
 
 ##### Strategy Tab
 
-This tab can be used to connect your line item to Marketing level quarterly OKRs or Project Compass. See more details below.
+We are discontinuing use of the Strategy tab at this time. We had thought we could use this tab to connect line item to Marketing level quarterly OKRs or Project Compass, but the bigger ask was to connect with GTM Motions and we moved those to the Details Panel in the Activities grid.
 
 ## Insights 📊
 
 Most reporting is done within the Insights tab within Allocadia. Reports are built at the highest level and then use a drill down feature so each team does not have to recreate reports.
+
+The reports in Allocadia make use of GoodData. The first time you attempt to access reports, you will be prompted to sign in to GoodData. Also, if you are using Safari as your browser, take note of the following:
+
+**Safari for OS X – Disable Blocking of Third Party Cookies** 
+Safari has moved away from their "Block Cookies" section. In order to make it work with the current version of Safari, you must have both "Prevent cross-site tracking" and "Block all cookies" checkboxes unchecked.
 
 ### Dashboards
 
@@ -272,8 +277,5 @@ Go to the home page. In the `Actuals` column, see if your `Map` column has a Map
 If you accidentally map something incorrectly, it can be corrected. You'll need to go to the Activities grid for the line item where you accidentally mapped it, right click and select `Go to Actuals`. A new screen will appear where hopefully you see your error line and you can delete by scrolling to the far right.
 
 
-##  Strategy tab - OKR connection
-
-We have entered the Corporate (CEO level), Marketing (CMO level) and Team (departmental level) OKRs in Allocadia so that we can connect our spend to our OKRs. In addition, we have added in the Project Compass objectives as well. This will NOT replace the current use of GitLab issues, but can supplement with reporting and mapping of dept to CMO to CEO OKRs to keep us all aligned.
 
 
