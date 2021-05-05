@@ -572,7 +572,7 @@ Keeping our Product L & D Hub robust and relevant is a team effort. We encourage
 
 There are two components to the Product L & D hub:
 
-1. [GitLab Learn for Product Management](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub)), which is a  more modular, personalizable, and trackable portal
+1. [GitLab Learn for Product Management](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub), which is a  more modular, personalizable, and trackable portal
 1. This page, which serves as the required content library that feeds GitLab Learn for Product Management
 
 In order to add content to  [GitLab Learn for Product Management](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub), the content must first be added to and exist on this page. Then, the content is added to GitLab Learn by [learning evangelists and curators](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions/#contributing-to-gitlab-learn-as-a-team-member). 
