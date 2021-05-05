@@ -51,7 +51,7 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 1.  The Gainsight Widget for Account Planning has two tabs for Whitespace mapping. Whitespace (Use Case) and Whitespace (Use Case Visual).
    - **Whitespace (Use Case):** This is where you will enter the data.  It will flow back into Salesforce, but can't be edited in Salesforce at this time. 
    - **Whitespace (Use Case Visual):** After data has been entered, use this tab to see a visual represetation of the data.  There are multiple views to choose from. 
-1. Reference this [Whitespace Mapping page](https://about.gitlab.com/handbook/sales/account-planning/#white-space-mapping) for further detail on the methodology.
+2. Reference this [Whitespace Mapping page](https://about.gitlab.com/handbook/sales/account-planning/#white-space-mapping) for further detail on the methodology.
 
 
 ### Company Intelligence
