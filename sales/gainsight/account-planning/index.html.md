@@ -21,12 +21,13 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 1. From the Gainsight Widget, use the top navigation bar to select the **Success Plan tab**.
 1. In the right corner select **New Success Plan**.
 1. Name your succes plan indicating Land or Expand and year(s).
-1. The **Type** will be Account Plan.
+1. The **Type** will be Account Planning.
 1. Add a due date. This will evovle as the plan evolves.
 1. Add a template to the Account Plan by using the ellipsis menu located in the gray bar on the right side of the page. The [Land Plan](https://about.gitlab.com/handbook/sales/account-planning/#land-account-plans) and [Expand Plan](https://about.gitlab.com/handbook/sales/account-planning/#expand-account-plans) templates will provide a guided action items and next steps.
-1. To learn about other plan types (Opportunity plan, command ploan, success plan), review [this page](https://about.gitlab.com/handbook/sales/account-planning/#what-is-the-difference-between-an-account-plan-and-a-success-plan).
+1. To learn about other plan types (Opportunity plan, Command Plan, Success Plan), review [this page](https://about.gitlab.com/handbook/sales/account-planning/#what-is-the-difference-between-an-account-plan-and-a-success-plan).
    
-### Locating an existing Account Plan
+
+### Locating an Existing Account Plan
 
 1. From the Gainsight Widget, use the top navigation bar to select the **Success Plan tab**.
 1. In the gray bar towards the top of the widget, use the **More Plans arrow** to view the existig plans.
@@ -48,8 +49,8 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 ### Whitespace Mapping
 
 1.  The Gainsight Widget for Account Planning has two tabs for Whitespace mapping. Whitespace (Use Case) and Whitespace (Use Case Visual).
-   - Whitespace (Use Case): This is where you will enter the data.  It will flow back into Salesforce, but can't be edited in Salesforce at this time. 
-   - Whitespace (Use Case Visual): After data has been entered, use this tab to see a visual represetation of the data.  There are multiple views to choose from. 
+   - **Whitespace (Use Case):** This is where you will enter the data.  It will flow back into Salesforce, but can't be edited in Salesforce at this time. 
+   - **Whitespace (Use Case Visual):** After data has been entered, use this tab to see a visual represetation of the data.  There are multiple views to choose from. 
 1. Reference this [Whitespace Mapping page](https://about.gitlab.com/handbook/sales/account-planning/#white-space-mapping) for further detail on the methodology.
 
 
@@ -66,7 +67,7 @@ Company Intelligence allows users to stay up-to-date on their key customers and 
 1.  In the action column, click the link and enter the LinkedIn URL to start tracking.
 1.  Private, Premium LinkedIn profiles can't be tracked at this time (May 2021).
    -  Profile with special characters can not be tracked unless a request is submitted to Gainsight customer support.
-1. For more detial on how sponsor tracking works, please [read this article](https://support.gainsight.com/SFDC_Edition/View_More_Categories/Sponsor_Tracking/User_Guides/How_to_Use_Sponsor_Tracking#Changes_in_Tracked_Contacts) from Gainsight. 
+1. For more detail on how Sponsor Tracking works, please [read this article](https://support.gainsight.com/SFDC_Edition/View_More_Categories/Sponsor_Tracking/User_Guides/How_to_Use_Sponsor_Tracking#Changes_in_Tracked_Contacts) from Gainsight. 
 
 ### Video Enablement 
 
