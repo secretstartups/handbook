@@ -302,14 +302,15 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ### Tool usage and tool access
 
-For budgetary reasons, Marketing Operations will be performing quarterly, and for some tools bi-quaterly, audits on the user activity of marketing tools. If a team member has not been actively taking advantage of a tool for 45 days or more, they will have access to that tool revoked without notification. Activity will be determined by user reports pulled by the tools' admins. These reports can be found by viewing issues from the Marketing Ops project with the issue label `Mktg Tool Audit`. The reports will utilize the audit issue template from the Marketing Ops project. To regain access to revoked tools, the team member will need to submit a new access request and follow standard access request procedures. However, user seats will be on a first-come-first-serve basis unless it is determined additional seats should be purchased.
+For budgetary reasons, Marketing Operations will be performing quarterly, and for some tools bi-quaterly, audits on the user activity of marketing tools. If a team member has not been actively taking advantage of a tool for 45 days or more, they will have access to that tool revoked with 5 business days of notification via email. Activity will be determined by user reports pulled by the tools' admins. These reports can be found by viewing issues from the Marketing Ops project with the issue label `Mktg Tool Audit`. The reports will utilize the audit issue template from the Marketing Ops project. To regain access to revoked tools, the team member will need to submit a new access request and follow standard access request procedures. However, user seats will be on a first-come-first-serve basis unless it is determined additional seats should be purchased.
+
 - Tools included under the quarterly guidelines
   - Outreach
   - ZoomInfo
   - Linkedin Sales Navigator
   - PathFactory
 - Tools included under the bi-quaterly guidelines, Q1 and Q3
-  - Sigstr
+  - Terminus (formerly Sigstr)
   - Drift
   - Marketo
 
