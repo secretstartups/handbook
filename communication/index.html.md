@@ -450,17 +450,21 @@ In informal acknowledgement scenarios, such as on Slack or on issue comments, it
 
 ## Say Thanks
 
-1. Thank people that did a great job in our `#thanks` Slack channel.
+As we continue to build on [inclusion](https://about.gitlab.com/handbook/values/#diversity-inclusion), recognition is a key and transformative tactic.  Thanking team members provides an opportunity for them to be recognized for their contributions, influences engagement behavior, and  acknowledges to team members their work is seen. By saying thanks, you are contributing to and supporting the value of [DIB](https://about.gitlab.com/handbook/values/#diversity-inclusion).
+
+1. Thank people that did a great job in our `#thanks` Slack channel. Almost [everyone in the company is active in this channel](https://twitter.com/sytses/status/1100071442576633856) so please don't be shy.
+1. Consider other channels where recognition can be acknowledged: team meetings, issues, company calls, 1-1 meetings, etc.
 1. If someone is a team member just `@`-mention them, if multiple people were working on something try `@`-mentioning each person.
 1. When announcing a completed project, list the key contributors.
+1. Please be as timely as possible with your recognition.
 1. If possible please include a link with your thanks that points to the subject matter that you are giving thanks for, for example a link to a merge request.
 1. Please do not mention working outside of working hours, we want to minimize the pressure to do so.
 1. Please do not celebrate GitLab contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy [work/life harmony](/company/culture/all-remote/people/#worklife-harmony) for all team members. While GitLab team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
-1. Almost [everyone in the company is active in this channel](https://twitter.com/sytses/status/1100071442576633856) so please don't be shy.
 1. Don't thank the CEO or other executives for something that the company paid for, thank GitLab instead.
 1. To thank someone who is not a team member please mention a Community Advocate, the name of the person, a quirky gift
 and link to their work. For example, "@manager, @communityadvocate: Joe deserves a lawnmower for _link_". The Community Advocate will approach the person in question for their address saying we want to send some swag. We'll ship it in gift wrap with "Thanks for your great work on _link_, love
 from @gitlab".
+1. Understand that everyone doesn't need or want recognition.  Once this is advised, please respect when they don't.
 
 ## Values emoji
 
