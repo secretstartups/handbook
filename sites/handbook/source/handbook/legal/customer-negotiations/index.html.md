@@ -140,7 +140,7 @@ _Please Note: This information is provided for educational purposes only and Git
 ### 🎥 [Watch the "Subscription Agreement Basics" video](Update with video)
 _Please Note: The purpose of this content is to understand where to find GitLab's terms, as well as, basic knowlege about the rights and obligations stated_
 
-1. GitLab terms can be found at our [Terms of Service](https://about.gitlab.com/terms/) Page
+1. GitLab terms can be found at our [Terms of Service](https://about.gitlab.com/terms/)
 2. GitLab provides full transparency by including historic version of the Terms. This can be found [Agreement History](https://about.gitlab.com/terms/#agreement-history)
 3. The [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) can be used for the sale of both On-Premise and SaaS Software. 
 4. The Subscription Agreement is agreed to by either, (i) Clicking-through when purchasing (or downloading) via the GitLab Website, (ii) Referenced in an Order Form that is signed by a Customer, or (iii) Passed through a Reseller if a Customer is buying through an Authorized Partner. 
