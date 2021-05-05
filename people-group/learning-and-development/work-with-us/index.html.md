@@ -49,9 +49,11 @@ We work closely with leaders across GitLab to develop landing pages for learning
 
 Here are some examples of Channels that teams have created in GitLab Learn to serve as a Learning Hub for their department or team:
 
-1. The [GitLab Learning and Development Channel](https://gitlab.edcast.com/channel/gitlab-learning-development) features certifications and newsletters produced by the L&D team
-1. The [Women TMRG Channel](https://gitlab.edcast.com/channel/gitlab-women-tmrg) features LinkedIn Learning courses the TMRG is studying together
-1. The Support Team created a [Professional Development Channel for Support Team Members](https://gitlab.edcast.com/channel/gitlab-support-team-professional-development) to curate existing LinkedIn Learning courses, organized based on skill.
+1. [Product Manager Learning Hub](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub)
+1. [Support Team Learning Hub](https://gitlab.edcast.com/channel/gitlab-support-team-professional-development)
+1. [Marketing Team Learning Hub](https://gitlab.edcast.com/channel/gitlab-marketing-learning-hub)
+1. [Finance Team Learning Hub](https://gitlab.edcast.com/channel/gitlab-finance-learning-hub)
+1. [Solution Architect Learning Hub](https://gitlab.edcast.com/channel/gitlab-solution-architect-learning-hub)
 
 To create a Learning Hub for your team using a Channel in GitLab Learn, complete these two steps:
 
