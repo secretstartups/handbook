@@ -580,7 +580,7 @@ In order to add content to  [GitLab Learn for Product Management](https://gitlab
 
 If there’s content you want to to add or remove to this library, simply raise  an MR  and add any of the  [product learning evangelists](#-product-learning-evangelists) listed below for as `Reviewer`. Tell us in the MR whether you're recommending the resources for just the library or if you'd like to see it added to GitLab Learn for Product Management as well. Any details on what you value about the content and how you think it's helpful should be added to the description of the MR. Please add `milestone` and labels `product operations` `product handbook` and `prodops:release` to the MR.
 
-### Product learning evangelists
+## Product learning evangelists
 
 [Michael Karampalas](https://gitlab.com/mkarampalas)
 [Farnoosh Seifoddini](https://gitlab.com/fseifoddini)
