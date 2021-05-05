@@ -118,7 +118,7 @@ The new Sales Standard Operating Procedures (SOP) page outlines in detail the pr
 New videos from Bryan Beck, IT Agility Director at a large Fortune 500 energy company, give a firsthand view into what life is like for a team using a fragmented DevOps toolchain, among other helpful insights. [Watch the videos -->](/handbook/sales/it-agility-director-interview/#challenges-with-a-fragmented-devops-toolchain-approach)
 
 ### Team Member Spotlight 🔦
-In the spirit of Pandemic Support Day, two nominations were chosen for this month’s spotlight – Mike and Steve Terhar. Learn why these brothers were both nominated for embodying our values of collaboration and results.
+In the spirit of Family and Friends Day, two nominations were chosen for this month’s spotlight – Mike and Steve Terhar. Learn why these brothers were both nominated for embodying our values of collaboration and results.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/YC5Vo1fWH-8" frameborder="0" allowfullscreen="true"> </iframe>
