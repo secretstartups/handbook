@@ -577,7 +577,7 @@ There are two components to the Product L & D hub:
 
 In order to add content to  [GitLab Learn for Product Management](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub), the content must first be added to and exist on this page. Then, the content is added to GitLab Learn by [learning evangelists and curators](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions/#contributing-to-gitlab-learn-as-a-team-member). 
 
-If there’s content you want to add to or remove from this library, simply raise an MR and add any of the [product learning evangelists](#-product-learning-evangelists) listed below as `Reviewer`. Tell us in the MR whether you're recommending the resources for just the library or if you'd like to see it added to GitLab Learn for Product Management as well. Details explaining what you value about the content and how you think it's helpful should be added to the description of the MR. Please add `milestone` and labels `product operations` `product handbook` and `prodops:release` to the MR.
+If there’s content you want to add to or remove from this library, simply raise an MR and add any of the [product learning evangelists](#product-learning-evangelists) listed below as `Reviewer`. Tell us in the MR whether you're recommending the resources for just the library or if you'd like to see it added to GitLab Learn for Product Management as well. Details explaining what you value about the content and how you think it's helpful should be added to the description of the MR. Please add `milestone` and labels `product operations` `product handbook` and `prodops:release` to the MR.
 
 ## Product learning evangelists
 
