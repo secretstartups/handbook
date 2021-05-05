@@ -178,3 +178,32 @@ Follow these steps to request a new project to be tracked:
 There is no need to remove archived projects from the `is_part_of_product` list. Removal of projects will remove historical merge requests from metrics and reduce Merge Request rates.
 
 Please reach out to a member of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) if more assistance is needed
+
+
+### Guidelines
+
+*  Each KPI chart should be a timeseries chart.
+    - Use Purple bars to denote values.
+    - Use a Red stepped-line for timeseries target.
+    - Directional targets will be used:
+      - `Above ...`
+      - `Below ...`
+      - `At ...`
+      - `At or above ...`
+      - `At or below ...`
+    - Optional: Use a single Green bar for the current month (in progress). Preferred for metrics which accumulate through a month but optional due to the performance impact to render the chart.
+    - Optional: Use a Black line for rolling average.
+*  Each Sisense dashboard for KPIs should consider the following settings to ensure timely updates:
+    - [Setting up auto-refresh](https://about.gitlab.com/handbook/business-ops/data-team/platform/periscope/#sts=Requesting%20Automatic%20Dashboard%20Refresh) for a frequency that fits the KPI
+    - [Excluding Dashboards from Auto Archive](https://dtdocs.sisense.com/article/auto-archive)
+*  Each KPI should have a standalone dashboard with a single chart representing the KPI and a text box with a link back to the handbook definition.
+    - In Sisense, [create a shared dashboard link](https://dtdocs.sisense.com/article/share-dashboards) to get the shared dashboard ID.
+    - In Sisense, [use the Share Link action of the chart](https://dtdocs.sisense.com/article/chart-options#ShareLink) to get the chart (widget_id) and the dashboard ID.
+    - Add the `shared_dashboard`, `chart` , and the `dashboard` key-value pairs to the [corresponding Performance Indicators data file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators/) under the `sisense_data` property
+*  Multi-series performance indicators should consider the following guidelines:
+    * If series are mutually exclusive, use stacked bars for each series with a monthly time series
+    * If series are not mutually exclusive, use grouped bars for each series with a monthly time series
+    * Do not graph any targets in the chart.
+    * Current month styling guidelines will not apply
+*  Avoid `:` in strings as it's an important character in YAML and will confuse the data parsing process. Put the string in "quotes" if you really need to use a `:`
+
