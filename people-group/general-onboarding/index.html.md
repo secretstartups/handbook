@@ -24,7 +24,7 @@ Each onboarding issue has a main section that contains tasks relevant to all Git
 
 Through onboarding issues, you should gain access to our team member [baseline entitlements](/handbook/engineering/security/#baseline-role-based-entitlements-access-runbooks--issue-templates). On Day 2 of onboarding an [Access Request](/handbook/people-group/engineering/#access-request-issue-creation) will be generated, if a template has been created for the role. Access requests are owned by the IT team. If you have any access requests related questions, please reach out to #it-help in Slack.
 
-In certain instances, the People Experience team may not be able to assist with onboardings due to a national holiday or Pandemic Support Day. These specific dates are documented in the People Experience team [Handbook page](https://about.gitlab.com/handbook/people-group/people-experience-team/#people-experience-team-availability).
+In certain instances, the People Experience team may not be able to assist with onboardings due to a national holiday or Family and Friends Day. These specific dates are documented in the People Experience team [Handbook page](https://about.gitlab.com/handbook/people-group/people-experience-team/#people-experience-team-availability).
 
 ## Ta-New-Ki Welcome Call (Pre-Onboarding)
 
