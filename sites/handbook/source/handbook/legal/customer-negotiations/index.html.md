@@ -30,14 +30,14 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**How to reach Legal** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Overview-of-GitLab-Agreements)  |
 | [**How do I get an Agreement signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-do-I-get-an-Agreement-signed)       | [**When does GitLab negotiate**](https://about.gitlab.com/handbook/legal/customer-negotiations/#When-does-GitLab-Negotiate)  |
 | [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | [**SKO 2021 Resources**](https://about.gitlab.com/handbook/legal/customer-negotiations/#GitLab-Legal-SKO-2021-Resources) |
-|[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | *COMING SOON: Commonly negotiated elements* |
-| *COMING SOON: How Partner's can execute a Partner Agreement*      | *COMING SOON: What is Intellectual Property?* |
+|[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | [**What is Open Source Software?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what-is-open-source?) |
+| [**What's needed to close a deal?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what's-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](https://about.gitlab.com/handbook/legal/customer-negotiations/#subscription-agreement-basics) |
 
 
 ## OPERATIONAL
 
 ## How to reach Legal 
-### 🎥 [Watch How to Reach Legal Video](https://www.youtube.com/embed/bCLagn_sWSI)
+### 🎥 [Watch the "How to Reach Legal" Video](https://www.youtube.com/embed/bCLagn_sWSI)
 *Learn about how to open a Legal Request, When to Open a Legal Request; 2:24 (Log into GitLab Unfiltered)*
 
 1. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
@@ -49,7 +49,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 [Field Operations Legal Request Overview](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) 
 
 ## How do I get an Agreement signed
-### 🎥 [Watch How do I get an Agreement Video](https://www.youtube.com/embed/FzD3j0RI8do)
+### 🎥 [Watch the "How do I get an Agreement" Video](https://www.youtube.com/embed/FzD3j0RI8do)
 *Learn about how to get an Agreement Signed; Who can sign on behalf of GitLab; 3:40 (Log into GitLab Unfiltered)*
 
 1. **Sales Reps cannot sign any Agreements.** Only certain individuals may execute on behalf of GitLab see Authorization Matrix [here](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix). 
@@ -91,11 +91,18 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 - Stock / Share ownership of the company
 - Finances, including annual and/or historical performance 
 
+## What's needed to close a Deal
+### 🎥 [Watch the "What's needed to close a Deal" Video](https://www.youtube.com/embed/bCLagn_sWSI)
+
+1. An Order Form with a base Agreement referenced. This will either be the current [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) as found at the [Terms of Service](https://about.gitlab.com/terms/#current-terms-of-use), or, if an executed Agreement is signed, this will be referenced within the Order Form. 
+2. Visit the presentation on the [Legal Requirements](https://docs.google.com/presentation/d/1IaGO8j--WOKZqAwuBQjKJJN0hU7rfpdgbIoj_kClGK0/edit#slide=id.g5d6196cc9d_2_219) _Note: This is locked for GitLab Team Members only_
+3. The fastest way to close a deal is to ensure the Customer signs the Order Form. If a Customer refuses to sign an Order Form, additional approvals will be required- per the presentation. In addition, the Customer may need to make changes to their Purchase Order (PO). 
+
 
 ## EDUCATIONAL
 
 ## Overview of GitLab Agreements
-### 🎥 [Watch Overview of GitLab Agreements Video](https://www.youtube.com/embed/M3ktHGDBebw)
+### 🎥 [Watch the "Overview of GitLab Agreements" Video](https://www.youtube.com/embed/M3ktHGDBebw)
 *Learn about what Agreements GitLab has; 2:45 (Log into GitLab Unfiltered)*
 
 1. GitLab provides our Software pursuant to the GitLab Subscription Agreement, and Professional Services pursuant to GitLab Professional Services Terms;
@@ -104,7 +111,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 4. Any modification(s) to Order Forms, or standard Terms and Conditions, require GitLab Legal Approval. 
 
 ## When does GitLab negotiate
-### 🎥 [Watch When does GitLab Negotiate Video](https://www.youtube.com/embed/zYvZKP5OohA)
+### 🎥 [Watch the "When does GitLab Negotiate Video"](https://www.youtube.com/embed/zYvZKP5OohA)
 *Learn about when GitLab negotiates; Where to find an NDA template; 3:20 (Log into GitLab Unfiltered)*
 
 1. GitLab will negotiate NDAs with our prospects. You can always send the prospect the GitLab NDA template and ask for them to sign. If they want to use their template, simply open a Legal Request for "Contract Review".
@@ -119,6 +126,27 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 1. Learn about the GitLab Legal Team! Look through basic questions and answers which will help you collaborate with legal and close deals faster!
 
 
+## What is Open Source?
+### 🎥 [Watch the "What is Open Source" video](Update with video)
+_Please Note: This information is provided for educational purposes only and GitLab is not providing any legal advice_
+
+1. Helpful resources on Open Source Software can be found at the [Opensource.com](https://opensource.com/) and the [Open Source Inititiave](https://opensource.org/)
+2. Open Source Software generally means that a recipient has the same rights as those of the distributor, and such rights include the ability to "use, copy, modify and distribute" the Software as they see fit. That being said, there are numerous different types of Open Source Software which have ranging requirements. 
+3. Visit the [GitLab Project](https://gitlab.com/gitlab-org/gitlab)
+4. GitLab uses Open Source Software as part of the Open Core Business Model, learn more about the [GitLab Open Core Business Model](https://about.gitlab.com/company/stewardship/#business-model)
+
+
+## Subscription Agreement 101
+### 🎥 [Watch the "Subscription Agreement Basics" video](Update with video)
+_Please Note: The purpose of this content is to understand where to find GitLab's terms, as well as, basic knowlege about the rights and obligations stated_
+
+1. GitLab terms can be found at our [Terms of Service](https://about.gitlab.com/terms/) Page
+2. GitLab provides full transparency by including historic version of the Terms. This can be found [Agreement History](https://about.gitlab.com/terms/#agreement-history)
+3. The [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) can be used for the sale of both On-Premise and SaaS Software. 
+4. The Subscription Agreement is agreed to by either, (i) Clicking-through when purchasing (or downloading) via the GitLab Website, (ii) Referenced in an Order Form that is signed by a Customer, or (iii) Passed through a Reseller if a Customer is buying through an Authorized Partner. 
+
+
 **Additional Resources**
 [Field Operations Negotiation Overview](/handbook/sales/field-operations/order-processing/#using-customer-form-agreements-and-negotiating-gitlabs-standard-agreement)
+
 
