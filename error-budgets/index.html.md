@@ -176,3 +176,11 @@ Notable items to be addressed in future iterations include:
 [eng comms]: /handbook/engineering/#keeping-yourself-informed
 [SLA dashboard]: https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now
 [stage group dashboards]: https://dashboards.gitlab.net/dashboards/f/stage-groups/stage-groups
+
+### Error Budget DRIs 
+
+| Role | K/PI | Target | Current Tracking Status |
+| --- | --- | --- | --- |
+| Product Management | [Maintaining the Spend of the Error Budget](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now) | 20 minutes over 28 days (equivalent to 99.95% availability) | In progress - In Grafana; Working to add per Stage data to Sisense [gitlab#1033](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1033) |
+| Infrastructure | [Setting the Error Budget Minutes and Availability Target](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability) | 99.95% (20 minutes over 28 days Error Budget) | Complete - In Grafana |
+
