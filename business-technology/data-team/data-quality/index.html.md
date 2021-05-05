@@ -12,21 +12,26 @@ description: "The GitLab Data Quality Program seeks to identify, monitor, and re
 
 ## The Data Quality Program
 
-The **GitLab Data Quality Program** focuses on improving GitLab's productivity and efficiency through the improvement of Data.
+The **GitLab Data Quality Program** focuses on improving GitLab's productivity and efficiency through continual improvement to Data.
 The program accomplishes this goal by identifing, monitoring, and helping to remediate Data problems.
-The scope of Data Quality is all of GitLab and is only bounded by availability of data in the Enterprise Data Warehouse.
-The Enterprise Data Warehouse is a key technology component because it provides the ability to scan and detect data quality issues over large data volumes at scale.
-
+The scope of Data Quality is all of GitLab and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large data volumes at scale.
 
 ## Types Of Data Quality Problems
 
-Other dimensions may include precision, accessibility, credibility, traceability, and confidentiality. I have chosen to exclude these dimensions because they are either sufficiently covered by the other dimensions (precision and credibility) or not particularly relevant to the broader quality conversation (accessibility, traceability, and confidentiality).
+Many traditional Data Quality programs cover several problem types, including completeness, accuracy, consistency, validity, uniqueness, and integrity but this variety can cause confusion when dealing with non-Data Quality experts.
+The GitLab Data Quality Problem recognizes the following problem types:
 
-- **Accuracy**: Data accuracy is a measure of how well the values in the database match the real-world values they represent. Inaccurate data would be having an Opportunity list the wrong value of a contract.
+- **Accuracy**: Data Accuracy is a measure of how well the values in the database match the real-world values they represent.
+Problems with Data Accuracy affect the ability to analyze or make use of the data, potentially leading to incorrect analysis or rendering its record useless.
+A common Data Accuracy problem is assignign the wrong Zip Code to a location record.
 
-- **Completeness**: completeness refers to the extent to which data are of sufficient breadth, depth, and scope for the task at hand. There are absolute measures of breadth, depth, and scope that will return relative differences in completeness depending on the usage.
+- **Completeness**: Data Completeness refers to the extent to which a data record contains the required fields to be useful.
+Problems with Data Completeness affect the ability to analyze or make use of a data record, potentially rendering it useless.
+A common Data Integrity problem is the inability to join a Customer record to a Contact record because the ID linking the two was changed.
 
-- **Integrity**: Data Integrity is the trustworthiness of the data, typically built upon Consistency and Accuracy. Therefore, Data Integrity is a result of Data Quality. Data with a high degree of integrity can be of low quality if it’s not suited for the task at hand and does not provide value to the business.
+- **Integrity**: Data Integrity is the trustworthiness of the data or ability of data to be linked/joined across tables or systems. 
+Problems with Data Integrity affecs the ability to develop relations between entities. 
+A common Data Integrity problem is the inability to join a Customer record to a Contact record because the ID linking the two was changed.
 
 - **Duplication**: 
 
