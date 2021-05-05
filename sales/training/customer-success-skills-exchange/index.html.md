@@ -23,9 +23,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Apr 28 | *No sessions during last week of the quarter* |                 |
-| May 5 | [Incident Management](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/127) |   Sarah Waldner          |
-| May 19 | [GitOps Demo Environment](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/118) |   Karen Kwentus              |
+| May 19 |  |              |
 | Jun 2 | [Breaking Changes in 14.0](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/124)  |  Julie Byrne               |
 | Jun 16 | [Container Host Security - Getting Started with Falco](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/125) |   Fern Diaz              |
 | Jun 30 | [Reporting Options & Metrics in GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/29) |   Sri Rangan              |
@@ -39,6 +37,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-05-04 | **[Incident Management](https://youtu.be/iEepe2uy1uM)** |   Public          |
 | 2021-04-21 |  **[GitLab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)**       | Public        |
 | 2021-03-31 | **[Integrate & Analyze Usage Data in Gainsight](https://youtu.be/h2mPxX-uotw)**              |   Private        |
 | 2021-03-24 | **[Product Roadmap Update](https://youtu.be/2K5wVhitfBk)**            |  Public          |
