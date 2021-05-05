@@ -55,20 +55,20 @@ We break down this metric into input metrics by product category and might come 
 ``` mermaid
 classDiagram
   Acquistion --|> Activation
-	Acquistion : Are users aware of the product or feature set?
-	Acquistion: Measurement (Count of Operations/Kubernetes docs views)
+	Acquistion: Are users aware of the product or feature set?
+	Acquistion: Count of Operations/Kubernetes docs views
   Activation --|> Retention
-	Activation : Are users applying the feature?
-	Activation: Measurement (Count of the number of the registered Kubernetes Agents with valid tokens)
+	Activation: Are users applying the feature?
+	Activation: Count of the number of the registered Kubernetes Agents with valid tokens
   Retention --|> Revenue
-	Retention : Are users applying the feature over time?
-	Retention: Measurement (Count of the number of GitOps synchronization operations)
+	Retention: Are users applying the feature over time?
+	Retention: Count of the number of GitOps synchronization operations
   Revenue --|> Referral
-	Revenue : Are users paying for the features?
-	Revenue: Measurement (# of paying users that have installed an agent / Total users that have installed an agent.)
+	Revenue: Are users paying for the features?
+	Revenue: Number of paying users that have installed an agent / Total users that have installed an agent.
   Referral --|> Acquistion
-	Referral : Are users encouraging others to use the feature?
-	Referral: Measurement (Count of pageviews on Kubernetes cluster documentation coming from referrals)
+	Referral: Are users encouraging others to use the feature?
+	Referral: Count of pageviews on Kubernetes cluster documentation coming from referrals
 ```
 
 #### AARRR for Infrastructure as Code
@@ -83,20 +83,20 @@ The following graph shows the metrics defined for Terraform reports. We want to 
 ``` mermaid
 classDiagram
   Acquistion --|> Activation
-	Acquistion : Are users aware of the product or feature set?
-	Acquistion: Measurement (Count of pageview on Infrastructure as Code documentation)
+	Acquistion: Potential users to use our IaC features 
+	Acquistion: Count of new projects with HCL code
   Activation --|> Retention
-	Activation : Are users applying the feature?
-	Activation: Measurement (Number of projects with Terraform reports in the last month)
+	Activation: Are users applying the feature?
+	Activation: Number of projects with Terraform reports in the last month
   Retention --|> Revenue
-	Retention : Are users applying the feature over time?
-	Retention: Measurement (Number of Terraform reports generated in the last month)
+	Retention: Are users applying the feature over time?
+	Retention: Number of Terraform reports generated in the last month
   Revenue --|> Referral
-	Revenue : Are users paying for the features?
-	Revenue: Measurement ((# of paying users that have Terraform reports / Total users that have have Terraform reports.))
+	Revenue: Are users paying for the features?
+	Revenue: Number of paying users that have Terraform reports / Total users that have have Terraform reports.
   Referral --|> Acquistion
-	Referral : Are users encouraging others to use the feature?
-	Referral: Measurement (Count of pageviews on Infrastructure as Code documentation coming from referrals)
+	Referral: Are users encouraging others to use the feature?
+	Referral: Count of pageviews on Infrastructure as Code documentation coming from referrals
 ```
 
 ### Contribution to GitLab
