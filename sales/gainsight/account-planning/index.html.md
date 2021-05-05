@@ -49,9 +49,9 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 ### Whitespace Mapping
 
 1.  The Gainsight Widget for Account Planning has two tabs for Whitespace mapping. Whitespace (Use Case) and Whitespace (Use Case Visual).
-   - **Whitespace (Use Case):** This is where you will enter the data.  It will flow back into Salesforce, but can't be edited in Salesforce at this time. 
-   - **Whitespace (Use Case Visual):** After data has been entered, use this tab to see a visual represetation of the data.  There are multiple views to choose from. 
-2. Reference this [Whitespace Mapping page](https://about.gitlab.com/handbook/sales/account-planning/#white-space-mapping) for further detail on the methodology.
+      - **Whitespace (Use Case):** This is where you will enter the data.  It will flow back into Salesforce, but can't be edited in Salesforce at this time. 
+      - **Whitespace (Use Case Visual):** After data has been entered, use this tab to see a visual represetation of the data.  There are multiple views to choose from. 
+1. Reference this [Whitespace Mapping page](https://about.gitlab.com/handbook/sales/account-planning/#white-space-mapping) for further detail on the methodology.
 
 
 ### Company Intelligence
@@ -66,7 +66,7 @@ Company Intelligence allows users to stay up-to-date on their key customers and 
 1.  Click **+Sponsor** to choose a contact from the list or add a new contact by using the search feature. 
 1.  In the action column, click the link and enter the LinkedIn URL to start tracking.
 1.  Private, Premium LinkedIn profiles can't be tracked at this time (May 2021).
-   -  Profile with special characters can not be tracked unless a request is submitted to Gainsight customer support.
+      - Profile with special characters can not be tracked unless a request is submitted to Gainsight customer support.
 1. For more detail on how Sponsor Tracking works, please [read this article](https://support.gainsight.com/SFDC_Edition/View_More_Categories/Sponsor_Tracking/User_Guides/How_to_Use_Sponsor_Tracking#Changes_in_Tracked_Contacts) from Gainsight. 
 
 ### Video Enablement 
