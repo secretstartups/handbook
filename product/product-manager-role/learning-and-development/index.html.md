@@ -567,7 +567,7 @@ One of the best ways to stay in the know is to follow people! There are a lot of
 - [Jeff Patton](https://twitter.com/jeffpatton)
 - [Roman Pichler](https://twitter.com/johncutlefish)
 
-## How to contribute to the Product L & D Hub
+# How to contribute to the Product L & D Hub
 
 Keeping our Product L & D Hub robust and relevant is a team effort. We encourage to you to contribute as you come across resources that are helpful to you. And if there are resources in the Product L & D Hub that are outdated or you disagree with, we encourage you to bring it to our attention as well.
 
