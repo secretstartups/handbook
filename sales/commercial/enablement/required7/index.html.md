@@ -95,7 +95,7 @@ Good call notes include:
 - A summary, a few bullet points on the key things mentioned in the meeting
 - Next steps, a summary of what needs to happen next that YOU will action and these should be pasted into your next steps on the opportunity too
 
-###
+Call notes must be logged against the opportunity record, _NOT_ the account. This means others can find them a lot easier and makes reporting more accurate, enabling us to tune our sales processes for better results. **It is the AE's responsibility to ensure that call notes are logged against the opportunity.**
 
 ### Examples & further resources
 
