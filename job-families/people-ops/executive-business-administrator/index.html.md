@@ -7,16 +7,17 @@ title: "Executive Business Administration"
 
 Executive Business Administrator's at GitLab toggle seamlessly between various systems including Google Workspace, Slack, Expensify, Zoom and GitLab to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues. EBA's at GitLab are self-driven, collaborative, and agile team members who are experienced in managing multiple priorities, juggling various responsibilities, and anticipating executives’ needs. EBA's at GitLab pride themselves with being exceptionally organized, relentlessly resourceful, calm under pressure, strategic multi-takser, with a deep love of logistics and ability to thrive in a dynamic start-up environment.
 
+## Levels
 
-## Executive Business Administrator (Junior) 
+### Executive Business Administrator (Junior) 
 
 Executive Business Administrators (Junior) report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead]. 
 
-### Job Grade
+#### Executive Business Administrator (Junior) Job Grade
 
 The Executive Business Administrator is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Executive Business Administrator (Junior) Responsibilities
 
 * Support members of our [Director+](https://about.gitlab.com/company/team/structure/#director-group) Leadership Team in various timezones
 * Manage multiple complex calendar including vetting, prioritizing and providing recommendations
@@ -34,7 +35,7 @@ The Executive Business Administrator is a [grade TBD](/handbook/total-rewards/co
 * Assist with ad hoc projects, events and travel arrangements as needed
 
 
-### Requirements
+#### Executive Business Administrator (Junior) Requirements
 
 * Previous 2+ years of administrative experience at a quickly-scaling or large company
 * Successful history of managing the calendars, expenses, and travel of multiple executives
@@ -57,19 +58,15 @@ The Executive Business Administrator is a [grade TBD](/handbook/total-rewards/co
 * Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
 * Ability to use GitLab
 
-### Performance Indicator
-* [Leadership SAT Survey](https://about.gitlab.com/handbook/eba/#leadership-sat-survey)
-
-
-## Executive Business Administrator (Intermediate)
+### Executive Business Administrator (Intermediate)
 
 Executive Business Administrators (Intermediate) report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead]. Others report directly to their leaders.
 
-### Job Grade
+#### Executive Business Administrator (Intermediate) Job Grade
 
 The Executive Business Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Executive Business Administrator (Intermediate) Responsibilities
 
 * Support our Leadership Team in various timezones
 * Manage complex calendar including vetting, prioritizing and providing recommendations
@@ -87,7 +84,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 * Provide general project support as needed including ad-hoc reporting
 * Provide coverage for other E-Group EBA's
 
-### Requirements
+#### Executive Business Administrator (Intermediate) Requirements
 
 * Previous 3+ years of administrative experience at a quickly-scaling or large company
 * Successful history of managing the calendars, expenses, and travel of multiple executives
@@ -111,19 +108,15 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 * Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks).
 * Ability to use GitLab
 
-### Performance Indicator
-* [Leadership SAT Survey](https://about.gitlab.com/handbook/eba/#leadership-sat-survey)
-
-
-## Senior Executive Business Administrator
+### Senior Executive Business Administrator
 
 Senior Executive Business Administrators report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead] in their department. Those who support an E-Group member report directly to their leader.
 
-### Job Grade
+#### Senior Executive Business Administrator Job Grade
 
 The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Senior Executive Business Administrator Responsibilities
 
 * Support members of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) or [All-Direct Leadership](https://about.gitlab.com/company/team/structure/#all-directs) across various time-zones
 * Own and proactively manage a complex, changing, high-volume calendar across multiple time-zones. Ensure Executive is preppared for every meeting
@@ -141,7 +134,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
 * Other duties as assigned in support of the business (ad hoc tasks)
 
-### Requirements
+#### Senior Executive Business Administrator Requirements
 
 * Previous 5+ years of administrative experience supporting a C-Staff Executive at a quickly-scaling or large company
 * Bachelor's’ Degree preferred. High school diploma or general education degree (GED) required
@@ -158,19 +151,15 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 * A passion for GitLab
 * A sincere willingness to help out
 
-### Performance Indicator
-* [Leadership SAT Survey](https://about.gitlab.com/handbook/eba/#leadership-sat-survey)
-
-
-## Senior Executive Business Administrator, Lead 
+### Senior Executive Business Administrator, Lead 
 
 Senior Executive Business Administrators report to the E-Group leader they support. 
 
-### Job Grade
+#### Senior Executive Business Administrator, Lead  Job Grade
 
 The Executive Business Administrator, Lead is a [TBD]
 
-### Responsibilities
+#### Senior Executive Business Administrator, Lead Responsibilities
 
 * Support a member of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) in various time-zones
 * Hire, develop and retain the function's EBA team by setting the strategy and prioritizing GitLab’s Objectives and Key Results (OKRs)
@@ -189,7 +178,7 @@ The Executive Business Administrator, Lead is a [TBD]
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
 * Other duties as assigned in support of the business (ad hoc tasks)
 
-### Requirements
+#### Senior Executive Business Administrator, Lead Requirements
 
 * Previous 7+ years of administrative experience supporting a C-Staff Executive at a quickly-scaling or large company
 * Bachelor's’ Degree preferred. High school diploma or general education degree (GED) required
@@ -207,19 +196,15 @@ The Executive Business Administrator, Lead is a [TBD]
 * A passion for GitLab
 * A sincere willingness to help out
 
-### Performance Indicator
-* [Leadership SAT Survey](https://about.gitlab.com/handbook/eba/#leadership-sat-survey)
-
-
-## Staff Executive Business Administrator to the CEO
+### Staff Executive Business Administrator to the CEO
 
 The Staff Executive Business Administrator to the CEO reports to the [Chief Revenue Officer](/job-families/sales/chief-revenue-officer/).
 
-### Job Grade
+#### Staff Executive Business Administrator to the CEO Job Grade
 
 The Staff Executive Business Administrator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Staff Executive Business Administrator to the CEO Responsibilities
 
 * Strategically and methodically support our Chief Executive Officer as your primary executive, and the Chief Revenue Officer as your secondary executive,  in the Pacific time zone - serving as a partner in handling correspondence, including confidential and sensitive materials
 * Proactively and without supervision, anticipate needs and follow through diligently, often using knowledge of the executive, their direct reports, external parties, and company values to make decisions that lead to more effective executive attention and communication
@@ -242,7 +227,7 @@ The Staff Executive Business Administrator is a [grade 8](/handbook/total-reward
 * Schedules, live streams and moderates [Group Conversations](/handbook/people-group/group-conversations/)
 * Other duties (and ad hoc tasks) as assigned in support of your executive and business
 
-### Requirements
+#### Staff Executive Business Administrator to the CEO Requirements
 
 * Minimum 8+ years supporting a C-Level Executive(s) as an executive business partner at a quickly-scaling company, effectively representing the personal brand of the executive as well as the company’s culture and value
 * Minimum 2 years experience managing a team
@@ -260,18 +245,21 @@ The Staff Executive Business Administrator is a [grade 8](/handbook/total-reward
 * A sincere willingness to help out
 * A passion for GitLab and for contributing to an exceptional work culture
 
-### Performance Indicator
+## Career Ladder
+
+An Executive Business Administrators career path can take various routes depending on the long term career goals and aspirations of an EBA. One path that is routinely taken is that of a career EBA and is someone who is passionate about being in the EBA role for the long-term resulting in becoming a Senior, Staff, or Principal EBA at GitLab to a member of our E-Group. Another path that is open to an EBA is one where they decide to leverage their experience as an EBA to transition into a new role such as (but not limited to) a Chief of Staff, Project Manager, Recruiter, Corporate Events Manager, Business Analyst, Executive Communications, PR, Internal Communications, People Operations Specialist, People Business Partner, etc.
+
+## Performance Indicator
 * [Leadership SAT Survey](https://about.gitlab.com/handbook/eba/#leadership-sat-survey)
 
-#### Hiring Process
+## Hiring Process
+
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
 * Qualified candidates will be invited to schedule an initial screening with a Global Recruiter
 * Next, candidates will be invited to schedule a first interview with an Executive Business Administrator
 * Next, candidates will be invited to schedule additional interviews with the Executive Business Administrator team
 * Next or in parallel with EBA team interview, candidates will be invited to complete a 5 hour timed assessment
 * Final candidates will then be invited to schedule interviews with members of the leadership team the role will be supporting
-* Successful candidates will subsequently be made an offer via phone call or video chat
 
-## Career Ladder
-
-An Executive Business Administrators career path can take various routes depending on the long term career goals and aspirations of an EBA. One path that is routinely taken is that of a career EBA and is someone who is passionate about being in the EBA role for the long-term resulting in becoming a Senior, Staff, or Principal EBA at GitLab to a member of our E-Group. Another path that is open to an EBA is one where they decide to leverage their experience as an EBA to transition into a new role such as (but not limited to) a Chief of Staff, Project Manager, Recruiter, Corporate Events Manager, Business Analyst, Executive Communications, PR, Internal Communications, People Operations Specialist, People Business Partner, etc.
-
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
