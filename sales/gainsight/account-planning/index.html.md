@@ -24,6 +24,7 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 1. The **Type** will be Account Plan.
 1. Add a due date. This will evovle as the plan evolves.
 1. Add a template to the Account Plan by using the ellipsis menu located in the gray bar on the right side of the page. The [Land Plan](https://about.gitlab.com/handbook/sales/account-planning/#land-account-plans) and [Expand Plan](https://about.gitlab.com/handbook/sales/account-planning/#expand-account-plans) templates will provide a guided action items and next steps.
+1. To learn about other plan types (Opportunity plan, command ploan, success plan), review [this page](https://about.gitlab.com/handbook/sales/account-planning/#what-is-the-difference-between-an-account-plan-and-a-success-plan).
    
 ### Locating an existing Account Plan
 
@@ -56,6 +57,16 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 
 Company Intelligence allows users to stay up-to-date on their key customers and prospects and can be located in the Company Intelligence tab. 
    - For a complete overview of Company Intelligence, read [this article](https://support.gainsight.com/SFDC_Edition/Company_Intelligence/About/Company_Intelligence_Overview?mt-draft=true#Overview).
+
+
+### Sponsor Tracking
+
+1.  From the Gainsight widged, use the top navigation bar to select the **Sponsor Tracking** tab.
+1.  Click **+Sponsor** to choose a contact from the list or add a new contact by using the search feature. 
+1.  In the action column, click the link and enter the LinkedIn URL to start tracking.
+1.  Private, Premium LinkedIn profiles can't be tracked at this time (May 2021).
+   -  Profile with special characters can not be tracked unless a request is submitted to Gainsight customer support.
+1. For more detial on how sponsor tracking works, please [read this article](https://support.gainsight.com/SFDC_Edition/View_More_Categories/Sponsor_Tracking/User_Guides/How_to_Use_Sponsor_Tracking#Changes_in_Tracked_Contacts) from Gainsight. 
 
 ### Video Enablement 
 
