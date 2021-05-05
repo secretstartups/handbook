@@ -92,7 +92,7 @@ Milestones start on Tuesdays and end on Mondays.
 Any issues that are at risk of slipping from the milestone must be raised by the assignee during the Milestone Midpoint meeting. 
 
 ### Last day to submit MR
-The last Friday prior to milestone end a MR can be submitted, but the merge of the MR will take place on Monday. No MRs are to be merged on Fridays, or on Thursday in the case of Pandemic Support Day. MRs must include documentation and testing to be ready to merge.
+The last Friday prior to milestone end a MR can be submitted, but the merge of the MR will take place on Monday. No MRs are to be merged on Fridays, or on Thursday in the case of Family and Friends Day. MRs must include documentation and testing to be ready to merge.
 
 ### Last day to merge MR 
 This is the last day of the milestone and the last day a MR can be merged for the milestone.
