@@ -44,6 +44,10 @@ Run this if you only need a clone of the raw `tap_postgres` schema in order to t
 
 Run this if you only need a clone of the raw `sheetload` schema in order to test changes or additions to sheetload.  If the raw clone already exists, this will do nothing.
 
+### clone_raw_specific_schema
+
+Specify which schema to run with the SCHEMA_NAME variable. Run this if you need a clone of any other individual schema in order to test changes or additions.  If the raw clone already exists, this will do nothing. 
+
 #### force_clone_both
 
 Run this if you want to force refresh raw, prod, and prep. This does a full clone of raw, but a shallow clone of `prep` and `prod`.
