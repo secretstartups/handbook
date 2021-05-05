@@ -120,16 +120,21 @@ The approach can be summarized like so:
 #### PM - EM
 
 Our team follows the general [Product Development Flow][product-development-flow] but this guide is intended to elaborate on a few elements to represent the team's internal flavor, emphasise certain points, and smooth the collaboration.
+
 #### Design
 
 - Feedback from the group will be solicited via the design management area of the related issue.
+    - Designs needing feedback from the group should be uploaded to the Design tab.
     - The group with be a mentioned for general awareness
     - Specific people will be mentioned when asking for direct feedback
     - Designs still in the early stages will have the prefix of `concept` to the design files
 - When designs are ready for planning and development
     - The designer will create a separate page in Figma called `Specifications` to collate what is to be the solution to be shipped.
         - This design may change through learning more information during the building phase. Changes should be logged on the "Specifications" page in a changelog so that there is a history trail to follow.
-    - A section called "Solution" will be added to the issue along with a link to the "Specifications" Figma page. It is recommended that some screenshots are to be attached to explain the solution directly in the issue.
+    - The proposed solution screenshots should be uploaded to the Design tab
+        - Old `concept` designs should be archived to reduce the noise in following the issue.
+        - Naming of the proposed solution screenshots should remain the same to leverage version history to track changes.
+        - There might cases were uploading the whole flow is not ideal so this should be noted in the Proposal area.
 
 #### Workflow labels
 
@@ -138,6 +143,7 @@ Let's look at a few of the workflow labels we should take as important cornersto
 `workflow::design`
 
 This is the general label for all things design and validation. For issues that need further exploration in either design approach or validation, it is recommended to create a separate issue (see below). This is to make the parent issue easier to parse the important decisions when it comes to the build phase.
+
 - Design exploration: A separate issue will be created in the [gitlab-design](https://gitlab.com/gitlab-org/gitlab-design) project and linked to the parent issue.
 - Problem/solution validation: A separate issue will be created in the [ux-research](https://gitlab.com/gitlab-org/ux-research) project and linked to the parent issue.
 
@@ -280,12 +286,12 @@ The Editor Team communicates based on the following guidelines:
 1. By default communicate in the open.
 1. All work related communication in Slack happens in the [#g_create_editor][slack] channel.
 1. We use the following emoji reactions in Slack for conveying action when writing a response is unnecessary:
+    - e.g.: Added comment on an GitLab Issue, Left a note on a Google Doc.
     1. `:ack:` = acknowledgement as in I have taken note of the message/request and will action - not appropriate for questions (see `:thumbsup:`)
     1. `:thumbsup: ` = acknowledgement as in I agree with a statement/question - appropriate for binary questions asking approval/consensus (as in this one)
     1. `:thumbsdown:` = acknowledgement as in I disagree with a statement/question - appropriate for binary questions asking approval/consensus (as in this one) - encouraged to follow up with a text response
     1. `:white_check_mark:` = acknowledgement as in I have taken action on a request
     1. `:speech_balloon:` = acknowledgement as in I have added to the conversation with a comment/question outside of Slack.
-    - e.g.: Added comment on an GitLab Issue, Left a note on a Google Doc.
 
 ### Ad-hoc sync calls
 
