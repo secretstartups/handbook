@@ -36,7 +36,9 @@ At times GitLab needs to communicate a "breaking" change or details related to a
       * Creating [Form request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request)
       * Creating [Landing Page request issue (if necessary)](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=marketo_landing_page_request)
 * Providing approval list and who signs off on the email
+    * Legal, Customer Service VP and VP of the function who is initiating the communication (i.e., Security, Engineering, Infrastructure) are required to sign off
 * Notifying affected field teams (Customer Success, TAM, SAL/AE, SA, Professional Services)
+   * Also make sure to notify #sales and #customer-success before email is set to go out
 * Approving test email 
 * Providing any edits to the test email
 * Providing send time and date 
@@ -81,6 +83,7 @@ This is the process to follow when there is an announcement that is an emergency
 The following approvers are needed for the copy and list size:
  - Vice President of Customer Success
  - Vice President of the function who is initiating the communication (i.e., Security, Engineering, Infrastructure)
+ - Legal (copy only)
  - Marketing Operations Manager
  - Appropriate field teams driven by the scope of customers receiving the communication (SAL/AE, SA, TAM, Professional Services)
  
@@ -88,6 +91,7 @@ The following approvers are needed for the copy and list size:
  ### 5. **Email Ready to Deploy**
 - Email team will send a sample to the requestor and approvers for their review - preferably, there is a quick Zoom sync to double check send size, variable fields, email copy and time of send.
 - Requestor and approvers must approve in the issue before the email will be sent.
+- Requestor sends alert to #sales and #customer-success on slack
 
 ### 6. **Email Launched** 
 - The email team will provide stats minutes after launch, and at a cadence determined by the announcement team as necessary. 
@@ -133,7 +137,7 @@ You can page the on-call Marketing Ops via entering `/pd` trigger command in any
 {: #customer-comms-email .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-This section should be used for non-emergency, planned customer communications. As much as possible, we will work across all teams at GitLab to understand upcoming needs to communicate via email to customers. All customer communications need to be approved by the Vice President of Customer Success.
+This section should be used for non-emergency, planned customer communications. As much as possible, we will work across all teams at GitLab to understand upcoming needs to communicate via email to customers. All customer communications need to be approved by the Vice President of Customer Success and Legal.
 
 ### Epic Code & Issues
 {: #customer-comms-epic-issues .gitlab-purple}
