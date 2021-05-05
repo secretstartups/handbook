@@ -213,7 +213,7 @@ The reports are broken out in folder format and once you click into the folders,
     - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://youtu.be/QTQeOKp3wDU](https://youtu.be/QTQeOKp3wDU)</span> - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE)
 1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
     - [Video walk through](https://youtu.be/bauTMmEnaXc) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
-1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. 
+1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. Please be sure you are filtering by Activity plan, NOT by Region. 
     - [Video walk through](https://youtu.be/XfgckiT9_1s) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
 1. Monthly forecasting report - at the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
 
