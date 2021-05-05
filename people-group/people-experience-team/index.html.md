@@ -165,8 +165,6 @@ The People Experience Team will complete a quarterly audit of which team members
 - HelloSign Audit
 
 On a quarterly basis, the People Experience Associate in the respective rotation will pull a report from HelloSign with the full list of active team members. 
-    - In the correct Slack channel `hellosign-review`, the Associate will cross reference the current team members in that channel vs the report from HelloSign (add any missing team members to the Channel).
-    - Announce in the channel that an audit is being completed and ask team member to update the spreadsheet confirming their usage. 
     - Create an access request to remove any non active team members as well as removing them from HelloSign. 
 
 - Anniversary Gift Stock Audit
