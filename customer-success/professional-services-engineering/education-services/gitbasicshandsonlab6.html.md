@@ -26,7 +26,7 @@ include:
 6. Navigate back to the Web IDE where you were editing `.gitlab-ci.yml`.
 7. **Paste the code** just copied below the **test1** section, leaving a blank line between the blocks of code. Ensure the first line of the pasted code is flush-left, and the second line is indented.
 8. Click the blue **Commit...** button.
-9. Add a commit message: `Add SAST to pipeline.`
+9. Add a commit message: `Add SAST to pipeline`
 10. Click **Commit to `master` branch** instead of creating a new branch.
 11. Click **Commit**. Now that you have committed this change, the pipeline will run.
 
