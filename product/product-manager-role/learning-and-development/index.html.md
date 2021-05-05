@@ -582,6 +582,6 @@ If there’s content you want to to add or remove to this library, simply raise 
 
 ### Product learning evangelists
 
-[Michael Karsmpalas](https://gitlab.com/mkarampalas)
+[Michael Karampalas](https://gitlab.com/mkarampalas)
 [Farnoosh Seifoddini](https://gitlab.com/fseifoddini)
 
