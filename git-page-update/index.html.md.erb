@@ -40,35 +40,36 @@ If you have questions, ask anyone for help or post in the #handbook Slack channe
 1. If Git is not installed, you should be prompted to install it. Follow this [guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) to installing Git and
 linking your account to Git.
 
-## 4. Install Ruby Version Manager (RVM)
+## 4. Install a Ruby version manager and Bundler
 
-There is more than one way to install Ruby. Using a version manager can make it easier to upgrade as the required version for this project changes.
-The [development.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/development.md#install-prerequisites) file describes how to install `rbenv`. Another version manager is `RVM`. You only need to install one.
+There is more than one way to install Ruby. Using a version manager can make it easier to upgrade as the required version for this project changes. It also prevents problems associated with different operating systems and their included version of Ruby.
 
-[Ruby Version Manager (RVM)](https://rvm.io/) is a command-line utility that allows you to easily install and switch between different versions of the [Ruby](https://www.ruby-lang.org/) programming language, which is used to build this website. It can be installed directly from a command prompt (e.g., in macOS Terminal) with the following command:
+There are three common version managers in use with this repository: [asdf](https://github.com/asdf-vm/asdf-ruby), [rbenv](https://github.com/rbenv/rbenv), and [rvm](https://rvm.io/). There are [ongoing conversations](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/81154) about which, if any, should be the default tool for the `www-gitlab-com` repository. If you just need to edit this website and you really don't care about all the nuance, you can get by just fine with the rbenv instructions.
 
-```bash
-curl -sSL https://get.rvm.io | bash -s stable
-```
+Any of these three options is perfectly suitable, but *you should only choose one*. The next sections include installation instructions for each. For the most part, we will not include specific commands or instructions, but rather link to the official documentation for each tool. That way, our documentation won't become out of date as tools change their workflows. However, if you are having trouble following along, please reach out in the #website Slack channel, or submit an issue to this repository with questions and problems.
 
-Once RVM has been installed, ensure that your updated terminal environment has been loaded by closing your terminal window and opening a new one.
+### asdf
 
-## 5. Install Ruby and Bundler
+1. [Follow the asdf installation instructions](https://asdf-vm.com/#/core-manage-asdf). This will install the more general asdf software on your machine.
+1. With asdf installed on your machine, you'll need to add the [asdf-ruby](https://github.com/asdf-vm/asdf-ruby) plugin. Refer to their [install heading](https://github.com/asdf-vm/asdf-ruby#install) for the specific commands. If this is your first time installing a Ruby version manager, you shouldn't need to worry about any additional items in their documentation. The default should just work. 
+1. Determine the current ruby version for this project by checking [`.ruby-version`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version).
+1. Execute `asdf install ruby <version-from-.ruby-version>` in your terminal. Replace `<version-from.ruby-version>` with the number in `.ruby-version`, as mentioned in the previous step.
+1. Execute `gem install bundler` in your terminal.
 
-The version of Ruby that you'll need to build this website will change from time to time, but you can always check what version that is by looking at the contents of `.ruby-version` in the root of the `www-gitlab-com` directory. You can always check it [on GitLab](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version) even if you haven't yet cloned your own local copy of the repository.
+### rbenv
 
-If `.ruby-version` specifies version `3.0.0`, you can install it with RVM like so:
+1. [Follow the rbenv installation instructions](https://github.com/rbenv/rbenv#installation)
+1. Determine the current ruby version for this project by checking [`.ruby-version`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version).
+1. Install the project's current ruby version by typing `rbenv install <version-from-.ruby-version>` in your terminal. Replace `<version-from.ruby-version>` with the number in `.ruby-version`, as mentioned in the previous step.
+1. Install bundler for this specific version of Ruby by typing `gem install bundler` in your terminal.
 
-1. In a terminal, execute: `rvm install 3.0.0` to install Ruby
-   (enter your system password if prompted).
-1. Execute: `rvm use 3.0.0 --default` to set your default Ruby to `3.0.0`.
-1. Execute: `ruby --version` to verify Ruby is installed. You should see `ruby 3.0.0` included in the output:
-   `ruby 3.0.0p0 (2020-12-25 revision 95aff21468)`.
+### rvm
+
+1. [Follow the rvm installation instructions](https://rvm.io/)
+1. Once RVM has been installed, ensure that your updated terminal environment has been loaded by closing your terminal window and opening a new one.
+1. Determine the current ruby version for this project by checking [`.ruby-version`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version).
+1. Then, Execute: `rvm use <version-from-.ruby-version> --default` to set your default Ruby to whichever version is specified in `.ruby-version`, as specified in the previous step.
 1. Execute: `gem install bundler` to install [Bundler](http://bundler.io/).
-
-**Ruby 3 note:**
-
-We upgraded to Ruby 3.0.0 on Monday, 2021-04-26. We put together some [upgrade instructions in the MR comments, which we shared throughout Slack](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/78850#note_559337911). If you're still having issues with the Ruby 3.0.0 upgrade, please reach out via the [follow-up issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1273)
 
 ## 6. Clone the source of the website
 
@@ -94,7 +95,7 @@ If you ever want to switch between SSH and https, execute `git remote remove ori
 
 1. Execute: `cd www-gitlab-com` to change to the www-gitlab-com directory created when you cloned the repository.
 1. Execute: `bundle install` to install all gem dependencies.
-1. Install additional dependencies [Homebrew, nvm, yarn, and rbenv](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md). If not installed, step 9 may result in an error.
+1. Install additional dependencies [Homebrew, nvm, and yarn](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md). If not installed, step 9 may result in an error.
 
 Each time you update this repository (`git pull`) new dependencies might be required. The following script will check your ruby version, bundle, and yarn and provide suggestions for updating these.
 
