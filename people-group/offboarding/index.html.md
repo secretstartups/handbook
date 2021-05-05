@@ -294,10 +294,13 @@ As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/pe
 However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on sharing a company-wide message about their departure. 
 
 Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departing team member’s manager shares the following message company-wide about the team member’s upcoming departure in the `#team-member-updates` Slack channel. 
-If they choose not to then the departing team member's manager shares the following in the #team-member-updates Slack channel. 
+(If they choose not to then the departing team member's manager can share a different message in the `#team-member-updates` Slack channel.)
 
-Managers can use this template as a guide to how to communicate a team member’s upcoming departure::
-"I want to share that (team member’s name) will be leaving GitLab, and [his/her/their] last day is (date of their last day). (Context to add about the team member’s time at GitLab - examples: their favorite contribution to the handbook or they can use the update to express gratitude towards teams and individuals that have made their experience at GitLab positive.) I would like to take this opportunity to thank (team member's name) for their contributions and wish them all the best for the future. If you have questions about tasks or projects that need to be picked up, please let me know. If you have concerns, please bring them up with your manager. To keep in touch with (team member's name) he/she/they can be reached at (contact info - e.g. LinkedIn, email, etc.)"
+Managers can use this template as a guide on how to communicate a team member’s upcoming departure:
+
+```
+I want to share that (team member’s name) will be leaving GitLab, and [his/her/their] last day is (date of their last day). (Context to add about the team member’s time at GitLab - examples: their favorite contribution to the handbook or they can use the update to express gratitude towards teams and individuals that have made their experience at GitLab positive.) I would like to take this opportunity to thank (team member's name) for their contributions and wish them all the best for the future. If you have questions about tasks or projects that need to be picked up, please let me know. If you have concerns, please bring them up with your manager. To keep in touch with (team member's name) he/she/they can be reached at (contact info - e.g. LinkedIn, email, etc.)
+```
 
 If someone is let go involuntarily, this generally cannot be shared since it affects the individual's privacy and job performance is intentionally kept [between an
 individual and their manager](/handbook/communication/#not-public).
