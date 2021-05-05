@@ -18,28 +18,31 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 
 ### Creating an Account Plan
 
-1. From the Gainsight Widget, use the top navigation bar to select the Success Plan tab.
-1. In the right corner select New Success Plan.
+1. From the Gainsight Widget, use the top navigation bar to select the **Success Plan tab**.
+1. In the right corner select **New Success Plan**.
 1. Name your succes plan indicating Land or Expand and year(s).
-1. The Yype will be Account Plan.
+1. The **Type** will be Account Plan.
 1. Add a due date. This will evovle as the plan evolves.
-1. Add a template to the Account Plan by using the three dots located in the gray bar on the right side of the page. The [Land Plan](https://about.gitlab.com/handbook/sales/account-planning/#land-account-plans) and [Expand Plan](https://about.gitlab.com/handbook/sales/account-planning/#expand-account-plans) templates will provide a guided workflow on action items and next steps.
+1. Add a template to the Account Plan by using the ellipsis menu located in the gray bar on the right side of the page. The [Land Plan](https://about.gitlab.com/handbook/sales/account-planning/#land-account-plans) and [Expand Plan](https://about.gitlab.com/handbook/sales/account-planning/#expand-account-plans) templates will provide a guided action items and next steps.
    
 ### Locating an existing Account Plan
 
-1. From the Gainsight Widget, use the top navigation bar to select the Success Plan tab.
-1. In the gray bar towards the top of the Widget, use the More Plans arrow to view the existig plans.
+1. From the Gainsight Widget, use the top navigation bar to select the **Success Plan tab**.
+1. In the gray bar towards the top of the widget, use the **More Plans arrow** to view the existig plans.
 
 ### Account Plan Info
 
 1. The default view of an Account Plan will be the Plan Info section.
 1. Plan Info is comprised of the Account Profile, Execution Plan and Go-To-Market Plan. 
 1. Add or edit content to the Plan Info by using the pencil icon located to the right of each text box. 
-1. For further detail on the methodology behind the Plan Info components [click here](https://about.gitlab.com/handbook/sales/account-planning/#account-profile).
+1. For further detail on the methodology behind the individual components [click here](https://about.gitlab.com/handbook/sales/account-planning/#account-profile).
 
 ### Relationship and Influence Mapping
 
-TBD
+1. From the Gainsight widget, use the top navigaion bar to select the **Contacts tab**.
+1. Use the drag and drop function to add contacts to the map or use the add person button located to the right of widget. 
+1. Add further detail (Influence, GitLab Role, Manager)to the contact card by double clicking in the card or using the ellipsis menu.
+1. Check out [this article](https://support.gainsight.com/Gainsight_NXT/07360/People_Maps/Build_People_Maps#Business_Use_Cases) from Gainsight on building maps as well as [this enablement](https://about.gitlab.com/handbook/sales/account-planning/#relationship-and-influence-mapping) page.
 
 ### Whitespace Mapping
 
