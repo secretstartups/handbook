@@ -17,7 +17,7 @@ canonical_path: "/handbook/product/product-manager-role/learning-and-development
 
 Welcome to Learning and Development for Product Management at GitLab! This page serves as the content library that feeds [GitLab Learn for Product Management](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub). You are welcome to explore content here but if you prefer a more modular, personalizable, and trackable portal, please visit GitLab Learn. This page, together with GitLab Learn for Product Management is what we consider and refer to as GitLab's "Product L & D Hub". 
 
-The resources in the Product L & D Hub are meant to support product managers explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
+The resources in the Product L & D Hub are meant to support product managers to explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
 
 Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
