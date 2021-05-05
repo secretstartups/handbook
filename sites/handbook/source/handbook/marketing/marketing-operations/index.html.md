@@ -210,7 +210,9 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 | `SDR-HB Update` | `#hbupdate-sdr` |
 | `ABM-HB Update` | `#hbupdate-abm` |
 
-**Please Note:** The marketing operations team uses 2 collective merge requests (1 per week in a milestone), known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109).  We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts.
+#### Milestone MRs 
+
+The marketing operations team uses 2 collective merge requests (1 per week in a milestone), known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109).  We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts.
 
 ### Marketing Ops Calendar
 
