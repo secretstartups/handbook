@@ -40,7 +40,8 @@ If you have questions, ask anyone for help or post in the #handbook Slack channe
 1. If Git is not installed, you should be prompted to install it. Follow this [guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) to installing Git and
 linking your account to Git.
 
-## 4. Install a Ruby version manager and Bundler
+## 4. Install a Ruby version manager
+<a name="4-install-ruby-version-manager-rvm"></a>
 
 There is more than one way to install Ruby. Using a version manager can make it easier to upgrade as the required version for this project changes. It also prevents problems associated with different operating systems and their included version of Ruby.
 
@@ -54,22 +55,18 @@ Any of these three options is perfectly suitable, but *you should only choose on
 1. With asdf installed on your machine, you'll need to add the [asdf-ruby](https://github.com/asdf-vm/asdf-ruby) plugin. Refer to their [install heading](https://github.com/asdf-vm/asdf-ruby#install) for the specific commands. If this is your first time installing a Ruby version manager, you shouldn't need to worry about any additional items in their documentation. The default should just work. 
 1. Determine the current ruby version for this project by checking [`.ruby-version`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version).
 1. Execute `asdf install ruby <version-from-.ruby-version>` in your terminal. Replace `<version-from.ruby-version>` with the number in `.ruby-version`, as mentioned in the previous step.
-1. Execute `gem install bundler` in your terminal.
 
 ### rbenv
 
 1. [Follow the rbenv installation instructions](https://github.com/rbenv/rbenv#installation)
 1. Determine the current ruby version for this project by checking [`.ruby-version`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version).
 1. Install the project's current ruby version by typing `rbenv install <version-from-.ruby-version>` in your terminal. Replace `<version-from.ruby-version>` with the number in `.ruby-version`, as mentioned in the previous step.
-1. Install bundler for this specific version of Ruby by typing `gem install bundler` in your terminal.
 
 ### rvm
 
 1. [Follow the rvm installation instructions](https://rvm.io/)
 1. Once RVM has been installed, ensure that your updated terminal environment has been loaded by closing your terminal window and opening a new one.
 1. Determine the current ruby version for this project by checking [`.ruby-version`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version).
-1. Then, Execute: `rvm use <version-from-.ruby-version> --default` to set your default Ruby to whichever version is specified in `.ruby-version`, as specified in the previous step.
-1. Execute: `gem install bundler` to install [Bundler](http://bundler.io/).
 
 ## 6. Clone the source of the website
 
