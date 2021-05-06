@@ -139,6 +139,14 @@ You can page the on-call Marketing Ops via entering `/pd` trigger command in any
 
 This section should be used for non-emergency, planned customer communications. As much as possible, we will work across all teams at GitLab to understand upcoming needs to communicate via email to customers. All customer communications need to be approved by the Vice President of Customer Success and Legal.
 
+### Recommended Format for Customer Emails
+The following is a recommended format for customer emails though this is a general template and may not suite all situations. Consider it a guideline versus the rule. 
+
+1.  Why are you (customer) getting this email
+1.  What is the issue/change/problem/etc? If it’s an issue, what is the impact? Is it resolved or still being worked?
+1.  What is your call to action? How do you do it? Where do you provide feedback? Where can you get more information?
+1.  Close. If follow-up, project next communication/step.
+
 ### Epic Code & Issues
 {: #customer-comms-epic-issues .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
