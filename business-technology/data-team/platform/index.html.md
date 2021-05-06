@@ -309,6 +309,10 @@ Here are the proper steps for provisioning a new user and user role:
 </div>
 </div>
 
+For a more information, check this recorded pairing session.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-vpH0aSeO9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Compute Resources
 
 Compute resources in Snowflake are known as "warehouses".
