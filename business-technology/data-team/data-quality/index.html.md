@@ -10,72 +10,60 @@ description: "The GitLab Data Quality Program seeks to identify, monitor, and re
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
 ## The Data Quality Program
 
 The **GitLab Data Quality Program** focuses on improving GitLab's productivity and efficiency through continual improvement to Data.
-The program accomplishes this goal by identifing, monitoring, and helping to remediate Data problems.
-The scope of Data Quality is all of GitLab and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large data volumes at scale.
+The program works to accomplish this goal by creating reliable processes to identify, monitor, and remediating Data problems.
+The scope of Data Quality all GitLab managed data and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large volumes of data data at scale.
+
+
+**Do you have a Data Quality issue? Please see [Data Quality Issue Workflow](handbook/source/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow).**
+{: .alert .alert-success}
 
 ## Types Of Data Quality Problems
 
-Many traditional Data Quality programs cover several problem types, including completeness, accuracy, consistency, validity, uniqueness, and integrity but this variety can cause confusion when dealing with non-Data Quality experts.
-The GitLab Data Quality Problem recognizes the following problem types:
+Traditional Data Quality programs break down quality problems into several types, including completeness, accuracy, consistency, validity, uniqueness, and integrity, and more. 
+These nuances can and do create confusion when dealing with non-Data Quality experts.
+To simplify the space, the GitLab Data Quality Program recognizes the following Data Quality problem types:
 
-- **Accuracy**: Data Accuracy is a measure of how well the values in the database match the real-world values they represent.
-Problems with Data Accuracy affect the ability to analyze or make use of the data, potentially leading to incorrect analysis or rendering its record useless.
-A common Data Accuracy problem is assignign the wrong Zip Code to a location record.
+- **Inaccurate Data**: Inaccurate Data is data that does not match a real-world value it _should_ represent. 
+An example of Inaccurate Data is a 3-digit US ZIPCODE.
 
-- **Completeness**: Data Completeness refers to the extent to which a data record contains the required fields to be useful.
-Problems with Data Completeness affect the ability to analyze or make use of a data record, potentially rendering it useless.
-A common Data Integrity problem is the inability to join a Customer record to a Contact record because the ID linking the two was changed.
+- **Missing Data**: Missing Data is a NULL or empty field or record that _should_ exist.
+An example of Missing Data is a NULL ZIPCODE value within an address record.
 
-- **Integrity**: Data Integrity is the trustworthiness of the data or ability of data to be linked/joined across tables or systems. 
-Problems with Data Integrity affecs the ability to develop relations between entities. 
-A common Data Integrity problem is the inability to join a Customer record to a Contact record because the ID linking the two was changed.
-
-- **Duplication**: 
-
-Data uniqueness, also known as data deduplication, is a measure of whether or not real-world entities are represented multiple times in the same dataset. This could likewise apply to data features within a database entry. This can also have implications for reconciling data across databases (i.e. curated products database vs ordered products database.)
+- **Duplicate Data**: Duplicate Data is the same data repeated when it should not be repeated.
+Duplicate data can be complex to identify because duplicates can naturally occur based on how data is reported.
+An example of Duplicate Data is two identical customer records in a CUSTOMER master table.
 
 ## Data Quality System Components
 
-- Data Quality Scorecard (DQS) - a dashboard (wireframe) which displays the overall quality of a table, schema, or system. Overall Quality is based on a set of one or more  Quality Detection Rules. Each dashboard contains a summary of statistics for all QDS.
-Remediation is the process of fixing, correcting, or eliminating the quality problem. Remediations are owned by source system owners. The Data Team is responsible for helping to identify and report on problems and the Data Owner is responsible for remediating problems.
+The Data Quality System is composed of Scorecards, which help us monitor problems over time, and Detection Rules, which identify and detect specific problems.
 
-- Data Quality Issues
+- **Data Quality Scorecard** - The Data Quality Scorecard is a dashboard used by Data Customers and Data Creators. The Dashboard displays the overall quality of a subject area as measured by the status of individual Detection Rules for the subject area.
 
-- Data Quality Detection Rule - SQL-based tests to check the quality of data
-Data must exist in EDW
-Detection Rules are numbered; 1 detection rule per quality test
-A set of detection rules are run together and the results saved for later analysis and remediation
-A “Batch” run every week or month is responsible for processing every detection rule and storing the results in an output table.
-The Data Quality Scorecard presents the results of the detection rule output for Data Owners to work on.
+- **Data Quality Detection Rule** - A Data Quality Detection Rule is a SQL-based test to check the quality of data versus a pre-defined condition. To run a Detection Rule data must exist in the Enterprise Data Warehouse. Detection Rules are enumerated and only 1 test is expressed per SQL statement. Examples of Detection Rules are:
+     - Detection Rule 1: Inaccurate Data - State Field in Account Location record
+     - Detection Rule 2: Duplicate Data - Account Nme in Account Master record
+     - Detection Rule 3: Missing Data - License Key should exist for new Usage Ping submissions
 
+### Operational Process
 
-### Data Errors
+Every week, the Detection Rule “Batch” is run and saves results in a persistent table. The persistent table includes a run date, detection rule identifier, and transaction id to enable linking to the source syste. The persistent table is the basis from which the Scorecard can be generated.
 
-Errors occur, by definition, when data is inaccurate, incomplete, out of date, inconsistent, or duplicated.
+### Fixing Data Quality Problems
 
+**Remediation** is the process of fixing, correcting, or eliminating the quality problem. Remediation is owned by 'Data Creators', the person or team repsonsible for creating the source data.
 
+## Additional Resources
 
-## Prioritizing Data Quality Issues
+### Guides and Books
 
-Data quality is a measurement of the value of data to the business, meaning it is dependent on the task trying to be accomplished. High quality data in one context can be low in another. 
-
-
-
-### Data Quality Improvement
-
-Data Quality improvement is separated into three categories: Prevention, Detection, and Repair of errors. Data errors are different for each of the above data quality dimensions, but they can be avoided in all cases using these three techniques.
-
-- Prevention - Data error prevention means slightly different things depending on the dimension. In general, however, it means putting rules in place during data input and curation so that common semantic errors are avoided.
-
-- Detection - Data error detection means using a combination of automated and manual checks to find issues within specific dimensions. Automated processes include data dimension-specific scripts that find common errors as well as audits of particular data by an expert curator.
-
-- Repair - Data error repair is simply correcting an error once it has been identified via the prevention or detection methodologies.
-
-system                                                                              |
-| 4      | Implementation of [Data Lifecycle Management (DLM)](https://assets.red-gate.com/simple-talk/database-lifecycle-management-ebook.PDF) or equivalently robust approach. |
+- [Getting In Front Of Data](https://www.amazon.com/Getting-Front-Data-Does-What-ebook/dp/B01KTTJXZ4)
+- [Non-Invasive Data Governance](https://www.amazon.com/Non-Invasive-Data-Governance-Robert-Seiner/dp/1935504851)
+- [Data Lifecycle Management (DLM)](https://assets.red-gate.com/simple-talk/database-lifecycle-management-ebook.PDF) or equivalently robust approach.
 
 #### SaaS Tools
 
