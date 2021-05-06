@@ -119,6 +119,22 @@ For more info on the capabilities of each role, [see the knowledge base article]
    - *This issue template should be used sparingly, as content should be added to Pathfactory by content owners ongoing as it becomes available. This is helpful for examples like a number of videos produced during a Commit event with many sessions.*
 1. [Pathfactory Track Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
 
+## Important Note Using PathFactory 
+
+PathFactory has no built-in audit log or trail for changes that are made within the content library (only that it was updated and by whom) or content tracks. It is critically important that everyone with `Author` role access to PathFactory follow the instructions and documentation outlined in this handbook. Any changes made to the content library or content tracks can have a negative impact on those content tracks which are tied to campaigns, reporting, and attribution. 
+
+For instance, if an asset is deleted from the content library and that asset exists in campaign-related content tracks, the user that visits that asset within that track will be redirected to `about.gitlab.com`, which has the following impacts:
+
+1. Breaks the content track experience for the user by de-railing them from their intended destination
+1. Skews data in the campaign, reporting, and attribution
+1. Potentially loses out on further nurturing that user, or making an unknown user known through gating
+
+The same impacts above can happen if an `Author` role makes changes to an existing content track without collaborating with the `Author` of that track. 
+
+**Before making any of these impactful changes, please collaborate with the `Author` of a content track _before_ making any changes or asking in `#mktgops` before deleting any assets in the content library.**
+
+If these changes are made, it is also critically important to input them to the [PathFactory changelog](#changelog) so that we can correct them accordingly.
+
 ## Changelog
 
 Periodically, significant changes are made or added to PathFactory and processes that affect overall data and reporting. As such we have a [changelog](https://docs.google.com/document/d/1qd9X-V0WNBTklCKNYVRmjJtiOcPu6dZYkfJ2uuQt_Co/edit?usp=sharing). Everyone with `Author` access that is making significant changes in PathFactory should add their changes to the changelog with a linked issue and/or relevant PathFactory links.
