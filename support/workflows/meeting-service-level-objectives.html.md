@@ -55,18 +55,36 @@ The response crew does **not** work with **Licensing and Subscription tickets**.
 
 #### 1. Sending first replies
 
-Currently the crew's main focus is to prevent SLA breaches. The [whole team are responsible for replying to new tickets](/handbook/support/workflows/working-on-tickets.html#faq-about-working-on-tickets-workflow). If a new ticket is close to breaching then the response crew will need to reply:
+Work with your crew to send first replies as tickets arrive.
 
-1. New tickets with an SLA will be visible in the main views and be alerted by the bot if they are close to breaching.
-1. Since the ticket won't have an assignee, it's the crew's responsibility to send the first reply if it is close to breaching
-1. If you send the first reply on a ticket we recommend assigning that ticket to yourself as long as the preferred region is 'your region' or 'all regions'. You can always unassign later if needed.
+When new self-managed or SaaS tickets with an SLA are received, there will be a notification in the `#support_response-crew` Slack channel. We have a contractual obligation to reply within the SLA so it's important we reply to all these tickets within the SLA.
+
+1. Look for new ticket notifications in the `#support_response-crew` Slack channel
+1. Add the `:eyes:` emoji reaction to to **show you're looking** at a ticket. (You can remove this if you've looked and don't know how to reply, or start a thread and ask your crew to collaborate with you.)
+1. Some new tickets will have received an **automatic reply** in Zendesk and already be `Pending`. Add the `:white_check_mark:` emoji reaction so the rest of your crew knows that it's been taken care of. (You might like to read the customer's request and send an additional human reply if that will be helpful to the customer.)
+1. Send a reply to the customer (see FAQ below for tips on how to send a quick initial reply and then work on the ticket later)
+    1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) let the customer know and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Changed%20priority.yaml).
+   1. We **strongly recommend assigning the ticket to yourself** when sending the first reply. You can always reassign later in the ticket's life. If the ticket has a preferred region outside of your region or you're taking PTO following your crew day, CC yourself on tickets you send during your crew shift. Doing so will keep you updated on the ticket progress while giving others the option to assign the ticket to themsselves.
+1. Add the `:white_check_mark:` emoji reaction to the bot message **when you've replied** to the ticket so the rest of your crew knows that it's been taken care of.
+1. If the ticket has the potential to become an emergency ping the engineer on-call for a heads-up.
+
+##### FAQ about sending first replies
+
+1. Which is most important, preventing 'First Reply' breaches or preventing 'Next Reply' breaches?  
+Preventing First Reply breaches is the most important. This is the contractual part of our SLAs.
+1. If I assign tickets I send first replies on, won't I end up with too many assigned tickets?  
+Since each person does the crew for one day a week, you'll pick up most of your tickets to work on during your crew day. If you find you have too many you can find another owner and reassign. Talk to your team and offer to swap tickets or find new owners. Assign to your manager if you have too many tickets and can't find someone to take ownership from you.
+1. I've got a nice new ticket I want to reply to, but it'll take a few hours to investigate. What should I do?  
+You can send a quick reply and follow up with the customer later. Ask any clarifying questions and let them know when you plan to work on it and when they can expect a reply. You should then assign to yourself and put on-hold. You can use the 'Due Date' and 'Reminder' apps in Zendesk to remind you when to follow up. If it's not an urgent ticket it might be that you'll work on it the next day. The customer has an opportunity to reply to you if this isn't soon enough for them. The [4-minute SLA Clock video](https://www.youtube.com/watch?v=CVue_aHcGlc&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=30) gives general guidance on this workflow.
+1. Can I reply to new tickets when I'm not in the crew?  
+Absolutely! All team members are encouraged to reply to new tickets even when not on a crew day. To find new tickets that need a reply when you're not on the crew, use the 'Needs Assignee' views for either self-managed or SaaS.
 
 #### 2. Preventing breaches
 
-Work with your crew to prevent breaches:
+Work with your crew to prevent breaches.
 
 1. Reply to tickets linked by bot alerts in Slack about imminent breaches
-    1. Add the `:eyes:` emoji reaction to the bot message to show you're looking at a ticket (you can remove this if you've looked and don't know how to reply - though ideally at this point start a thread and ask your crew to collaborate with you)
+    1. Add the `:eyes:` emoji reaction to the bot message to show you're looking at a ticket. (You can remove this if you've looked and don't know how to reply, or start a thread and ask your crew to collaborate with you.)
     1. Add the `:white_check_mark:` emoji reaction to the bot message when you've replied to the ticket so the rest of your crew knows that it's been taken care of.
     1. Prioritise `All Regions` and `Preferred Region = your region` tickets.
     1. At the end of your crew day, **all bot alerts for `All Regions` and `Preferred Region = your region` tickets should have an emoji response**.
@@ -83,10 +101,9 @@ Work with your crew to prevent breaches:
    E -->|No| G[Crew replies] --> H[Go to step 1] --> B
 ```
 
-**How to reply to tickets while in the crew:**
+**FAQ about preventing breaches**
 
-1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) reach out to the customer and agree on the new priority. Use the macro [`General::Changed priority`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360093631494).
-1. If the ticket **has an assignee**:
+1. What if the ticket **has an assignee**?
    1. If the assignee is in your Region, link the ticket in Slack and ping them asking if they are able to take a look.
    1. If the assignee is from another Region and it's during their “office hours” ask them if they could take a look.
    1. If the assignee is unavailable and the ticket/customer needs an update, follow the next step below.
@@ -122,6 +139,15 @@ You are responsible for collaborating with your crew. This is a key part of your
 **These responsibilities are not optional!** You are expected to communicate and collaborate on your crew day.
 
 ### Response Crew FAQ
+
+#### There are too many tickets and we can't keep up!
+
+If your crew is under pressure:
+
+1. Take care of new tickets first. It doesn't matter if there's an occasional breach of a 'next reply' ticket.
+1. First replies can usually be done quickly. Follow the advice in the [FAQ about sending first replies](#faq-about-sending-first-replies) section "I've got a nice new ticket I want to reply to, but it'll take a few hours to investigate. What should I do?".
+1. Ask in `#shpport_team-chat` if others can help out during busy periods.
+1. Ping the [manager on-call](https://gitlab-com.gitlab.io/support/team/oncall.html) and let them know the crew is under pressure.
 
 #### What about tickets that have already breached?
 
