@@ -664,7 +664,7 @@ Once processed, you'll be able to be added as a collaborator on reports in EdGra
 
 Existing reports on EdGraph key dashboards can be filtered and saved to create and share custom, specialized reports. Recorded examples of this functionality are included below.
 
-{add video training here}
+{Video training coming soon}
 
 ##### Using data sets to build custom reports
 
@@ -691,7 +691,7 @@ This process is currently being build by the L&D, Field Enablement and PeopleOps
 | Text | Add a textbox |
 | Border | Add a solid horizontal line to deliniate space on the dashboard | 
 
-{add video training buildnig a dashboard}
+{Video training coming soon}
 
 #### Share reports to a dashboard
 
@@ -703,7 +703,7 @@ This process is currently being build by the L&D, Field Enablement and PeopleOps
 1. Click `Save`
 1. Navigate to the dashboard where the report was saved. The report will appear in the `Appendix` section at the bottom of the report. From here, you can edit and filter the report, change the dispaly, and stylize/arrange the report on your dashboard.
 
-{add video training sharing reports}
+{Video training coming soon}
 
 #### Style a dashboard
 
@@ -715,7 +715,7 @@ Stylized dashboards can:
 
 This training video demonstrates some of the stylized additions you can make to your dashboards. Please not this is not an expansive training and that taking time to explore Domo and EdGraph is one of the best ways to try out different dashboard style options and arrangements. 
 
-{add video training custimizing a dashboard}
+{Video training coming soon}
 
 #### Add users to a dashboard
 
