@@ -336,6 +336,10 @@ The smaller we split things up, the smaller steps we take and the faster we can 
   <iframe src="https://www.youtube.com/embed/FAuwri0vsts" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+## Superstar Executives 
+
+I keep in touch with potential hires for executive roles and connect with many of them on a regular basis (montly, quarterly or annually). I prioritize people who would add [diversity](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) to the executive team. I have Superstar Executive conversations across all functions, regardless of existing executive performance, because GitLab executives could leave the company at any point for a variety of reasons.
+
 ## CEO scam
 
 See [CEO and executive fraud](/handbook/security/#ceo--executive-fraud) in the security practices section of the handbook.
