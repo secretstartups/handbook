@@ -391,7 +391,7 @@ Upon communication of the events, a GTM Team will commit to the event and be res
 
 **Rsponsibilities by team:**
 * PMM DRI - <!-- Corporate/PMM to fill out -->
-* TMM DRI - <!-- Corporate/TMM to fill out -->
+* TMM DRI - [DevOps Platform](@warias) [CI](@iganbaruch) [GitOps](@csaavedra1) [Security](@fjdiaz)
 * Content DRI - email copy <!-- Corporate/Content to fill out -->
 * Campaigns DRI - plan for post-event nurture to drive leads to MQL
 
