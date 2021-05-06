@@ -272,9 +272,24 @@ While the majority of GTM Motion work will take place asynchronously, aligned to
 {: #interlocked-teams}
 
 <!-- DO NOT CHANGE ANCHOR -->
-To be built upon through FY22, this section will be comprised of process related to collaboration and commitment (making sure nobody burns out, and we all run in the same direction).
+Interlocking the teams across marketing will help foster the most collaborative and effective results. This section outlines specific processes and concepts for the activities we drive in Marketing.
 
-To begin with, we will have a bi-weekly "scrum of scrums" call with the CMO staff, Core Team captains, Field Marketing and ABM to ensure sharing of great team learnings as well as keeping each other on track.
+The plans should be made in a collaborative manner to address in advance potential bandwidth contraints and discuss commitment from teams.
+
+### Corporate Marketing
+{: #interlock-corporate-marketing}
+<!-- DO NOT CHANGE ANCHOR -->
+In advance of a quarter, the Corporate Team will outline for the GTM Motions an update on upcoming events, their anticipated audience, and elements of the event. This will help the GTM teams to understand opportunities available to test messaging, promote demos and content, etc.
+
+*These corporate events are high investment, and also high return, and this will show in the results of the GTM Team.*
+
+Upon communication of the events, a GTM Team will commit to the event and be responsible for supporting all requested issues.
+
+**Rsponsibilities by team:**
+* PMM DRI - <!-- Corporate/PMM to fill out -->
+* TMM DRI - <!-- Corporate/TMM to fill out -->
+* Content DRI - email copy <!-- Corporate/Content to fill out -->
+* Campaigns DRI - plan for post-event nurture to drive leads to MQL
 
 ### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
