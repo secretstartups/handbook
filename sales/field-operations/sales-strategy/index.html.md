@@ -42,11 +42,11 @@ You can find information about specific projects [here](/handbook/sales/field-op
 
 The SS&A team is reponsible of maintaining a set of key reports for the Sales organization.
 
-| Report | Maintainer | Description |
+| Report | Description |
 | ----- | ----- | ----- |
-| [Pipeline X-Ray](/handbook/sales/field-operations/sales-strategy/analytics/pipeline-x-ray) |[@nfiguera](https://gitlab.com/nfiguera) | Current and forward view of pipeline coverage & generation by segment, region, order type & sales qualified source
-| [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab/799969/SS&A---Pipeline-Velocity-&-Generation)| [@nfiguera](https://gitlab.com/nfiguera) | Pipeline and Pacing evolution by day of current and previous quarter. I also includes Pipeline Generation charts | 
-| [SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab/850343/SS&A---Pipeline-Movement-Tracker) | [@nfiguera](https://gitlab.com/nfiguera) | Allows to dig into deal movements on specific days of the quarter by pipeline type ("starting pipeline"), resolution ("push out") and standard business cuts. Helps to answer questions like "Why our coverage drop day 50 on Large?" |
+| [Pipeline X-Ray](/handbook/sales/field-operations/sales-strategy/analytics/pipeline-x-ray) | Pipeline coverage & generation by segment, region, order type & sales qualified source for current and future fiscal quarters
+| [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab/799969/SS&A---Pipeline-Velocity-&-Generation)|  Pipeline and Pacing progression by day of current and previous fiscal quarters | 
+| [SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab/850343/SS&A---Pipeline-Movement-Tracker) | Helps to identify root causes of Open Pipeline and Pipeline Generation movements |
 
 ### FY22 Field Planning
 
