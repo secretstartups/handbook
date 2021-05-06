@@ -69,7 +69,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 | Clearbit | x | x | x | x / x |
 | [CustomersDot](https://customers.gitlab.com/plans) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |
 | [Gitter](https://gitter.im/) | x | `gitter` | x | x | x |
-| GitLab.com | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 6h / x |
+| [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#GitLab-Postgres-Database) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 6h / x |
 | GitLab Ops DB | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x |
 | GitLab Profiler DB | x | x | x | x | x / x |
 | [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | [Fivetran](https://fivetran.com/) | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h |
@@ -86,7 +86,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 | [Qualtrics](https://www.qualtrics.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `qualitrics` | `qualtrics` | Marketing | 12h / 48h |
 | [SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |
 | [Salesforce](https://www.salesforce.com/) | [Stitch](https://www.stitchdata.com/) | `salesforce_stitch` | `sfdc`| Sales | 6h / 24h |
-| [SheetLoad](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | [SheetLoad](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `sheetload` | `sheetload` | Multiple | 24h / 48h |
+| [SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload) | [SheetLoad](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) | `sheetload` | `sheetload` | Multiple | 24h / 48h |
 | [Snowplow](https://snowplowanalytics.com/) | [Snowpipe](/handbook/business-technology/data-team/platform/snowplow/index.html#snowpipe) | `snowplow` | `snowplow` | Product | 15m / 24h |
 | [Version DB](https://version.gitlab.com/users/sign_in) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-process-updating-version-db-and-license-db) | `version_db` | `version_db` | Product |  24 h / 48 h |
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |
