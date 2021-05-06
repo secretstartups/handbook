@@ -25,9 +25,11 @@ Aligning passionate TAM's with customers to ensure their success by...
 - [TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
 - [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
+### TAM Learning & Development
+- [Overview of available resources, training plans & career paths](https://about.gitlab.com/handbook/customer-success/tam/tam-development/)
+
 ### TAM Responsibilities
 
-- [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (GitLab Internal)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
