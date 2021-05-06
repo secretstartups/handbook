@@ -20,6 +20,10 @@ OneTrust is privacy, security, and data governance software that marketing uses 
 1. [Support Portal](https://support.onetrust.com/hc/en-us) (requires seperate account/login)
 1. `support@onetrust.com`
 
+## Access
+
+To access OneTrust, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). OneTrust is provisioned through Okta SSO via a Google group. A user is added via the Google group which is directly connected to Okta SSO and OneTrust. All users are added as a `Project Manager`. Please specify the role needed in OneTrust in the access request so it can be updated once you have access. [See system default roles](#system-default-roles) available below.
+
 ## Training
 
 ### Cookie Compliance module

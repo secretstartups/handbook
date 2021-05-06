@@ -111,6 +111,8 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 
 Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
 
+Please do not reopen issues that have been closed in a previous milestone. If you find that you have additional questions about a closed issue, comment in the issue and ping the marketing ops DRI who worked the issue. The DRI within our team will determine whether an issue needs to be reopened and pulled into a current milestone. 
+
 ### Weights
 
 To help prioritize issues and scope work in our milestones, we've adopted GitLab [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html#issue-weight) to our issues. By adding a weight to our issues, our team will have a better idea of how much time, value or complexity a given issue has or costs. For the numbering formula, we are using the traditional Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21. Anything marked `21` or above may be promoted to an epic. 
@@ -121,7 +123,7 @@ To indicate status of issues related to [OKRs](https://about.gitlab.com/company/
 
 ### Epics
 
-In order to categorize various related issues, we will make use of epics to help a team member organize our work, especially if it crosses multiple milestones. If it is a MktgOps epic, we will add the `In Epic` label to it, so that we can easily see that it is part of an epic on our kanban board.
+If an issue includes a weight of 21 or more, that issue may be promoted to an epic in order to properly scope the work across multiple issues. Epics will also be used by our team if it relates to an OKR and requires multiple issues in scope to complete the work. Tool implementations also often are tracked within epics. 
 
 ### Labeling
 
@@ -369,6 +371,8 @@ The Mural below shows the opt-in and opt-out/unsubscribe workflows for all forms
 </div>
 
 At GitLab, we strive to communicate with people in a way that is beneficial to them. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences.
+
+We have a Marketo enforced limit on how many emails a single address can recieve per day and week. The limits are 1/day and 3/week. Emails will not be sent systematically if the address has reached it's limit. However, emails marked as `operational` will still be sent.
 
 Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please folloow this decision tree for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email.
 

@@ -142,6 +142,8 @@ Below the graph you’ll find the bitrate, average bitrate, frame rate, average 
 
 Below stream metrics, click `Advanced Analytics` to see additional information about your stream, namely Video codec, Audio codec, AVC profile, and AVC level. These inform you of your stream’s video and audio compression format (AVC stands for Advanced Video Coding), and the Session ID is a unique string that identifies your stream for Vimeo.
 
+Ensure that you have the `GitLab` account selected to view video analytics specific to our account as each user also has a personal account.
+
 ## Sharing your screen while live
 
 You can [share your screen with your audience](https://vimeo.zendesk.com/hc/en-us/articles/360031406392-Sharing-your-screen-while-live) using the browser-based encoder. This is available as an input alongside your webcam on the `Vimeo Live Settings` page for your live events.

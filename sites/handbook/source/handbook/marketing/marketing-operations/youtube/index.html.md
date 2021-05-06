@@ -67,6 +67,10 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 ![configure stream](/handbook/marketing/marketing-operations/youtube/stream_settings.png)
 
+- Click the down arrow next to "Live on YouTube" in the top left once the streaming has begun. Then click "Copy Streaming Link" and paste in the agenda for easy reference post meeting. 
+
+![stream link](/handbook/marketing/marketing-operations/youtube/youtube-stream-link.png)
+
 ### Livestream with OBS
 
 1. Install and launch [OBS Studio](https://obsproject.com/download)
@@ -151,6 +155,9 @@ Always use YouTube and never use Google Drive, even for [private videos](#visibi
 1. public videos show up in Google search.
 1. easy to make public if the video is suitable for that.
 1. have playlists that allow for better organization of the video content.
+1. show the number of views, so you can see what resonates
+1. have the ability to comment, so people can contribute
+1. have voting so you can review what videos aren't meeting expectations
 
 ## Visibility
 

@@ -1126,6 +1126,12 @@ Note: There is a current transition to move towards the [Territory Success Plann
 1. [Stage Name](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=StageName&type=Opportunity&retURL=%2Fp%2Fsetup%2Flayout%2FLayoutFieldList%3Ftype%3DOpportunity%26setupid%3DOpportunityFields%26retURL%3D%252Fui%252Fsetup%252FSetup%253Fsetupid%253DOpportunity&setupid=OpportunityFields)
 1. [Order Type](https://gitlab.my.salesforce.com/00N4M00000Ib8Ok?setupid=OpportunityFields)
 
+## Dashboard Review Videos
+
+### [SDR Metrics](https://app.periscopedata.com/app/gitlab/641469/SDR-Metrics)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ygeZvKvU9uc1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Useful things to know when it comes to Sisense vs. SFDC data
 Given the way that our systems are connected and synched, you may see a discrepancy in the data within Sisense vs. Sales Force.com. A few things to note: 
 1. Opportunity amount will be updated immediately within sales force, but will NOT show up in Sisense until the next day, as our data synchs overnight. 

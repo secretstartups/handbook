@@ -44,7 +44,7 @@ Nearly all the forms on our website (`about.gitlab.com`) are Marketo embedded fo
 
 Form documentation can be found [here](https://docs.google.com/spreadsheets/d/1cV_hI2wAzLxYYDI-NQYF5-FDDPXPXH0VV5qRBUJAQQk). It contains all of our current forms, as well as standardized country and state picklists.
 
-**Translated Forms Available**: Spanish, French, Italian, German, Portuguese, and Japanese. If you require a new language, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for P0 countries.
+**Translated Forms Available**: Spanish, French, Italian, German, Portuguese, and Japanese. If you require a new language, please gather the [translations](/handbook/marketing/localization/#current-state) and then create an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=form_request). Due to resource constraints, we are only creating new forms for [P0 countries](https://about.gitlab.com/handbook/marketing/localization/#priority-countries).
 
 All forms should follow these guidelines:  
 - Field labels are always ALL CAPS
@@ -167,7 +167,8 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Inbound - Med|Inbound form, not above |	+60|{{my.Inbound - Med}}	|	Trigger	|1/day|
 |Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
 |Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
-|* Trial | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
+|* Trial - Business Email | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
+|* Trial - Personal Email | SaaS,<br>Self-Managed   |	+65|{{my.Trial - Personal}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
 |Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
@@ -376,6 +377,7 @@ Complete list of priority countries as seen [here](https://docs.google.com/sprea
 - French
 - Japanese
 - German
+- Korean
 - Default (English)
 
 </details>
