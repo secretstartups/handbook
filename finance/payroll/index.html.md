@@ -213,6 +213,8 @@ For employees of GitLab PTY (Australia), to view payslips visit the [iiPay sign-
 
 If you have not received an invitation to create an account, visit the [register URL](https://pay.iipaysp.com/RegisterUser/GITL).
 
+For Leavers, you can request for extended access to the iiPay portal to retrieve any payslips by emailing nonuspayroll@gitlab.com from your personal email address. You will receive a password-reset in your personal email. _Please Note:_ Your _GitLab email_ is your username to reset the password.
+
 #### Contractors:
 
 1. Team members must submit their salary invoices through BambooHR and expenses through Expensify by the 8th of each month. For example, submit May salary invoice in the month of May, which is the current month.
