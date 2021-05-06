@@ -15,18 +15,17 @@ description: "The GitLab Data Quality Program seeks to identify, monitor, and re
 ## The Data Quality Program
 
 The **GitLab Data Quality Program** focuses on improving GitLab's productivity and efficiency through continual improvement to Data.
-The program works to accomplish this goal by creating reliable processes to identify, monitor, and remediating Data problems.
+The program works to accomplish this goal by creating reliable processes to identify, monitor, and fix Data problems.
 The scope of Data Quality all GitLab managed data and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large volumes of data data at scale.
 
-
-**Do you have a Data Quality issue? Please see [Data Quality Issue Workflow](handbook/source/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow).**
+**Do you have a Data Quality issue?** Please see [Data Quality Issue Workflow](handbook/source/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow) for how to get started.
 {: .alert .alert-success}
 
 ## Types Of Data Quality Problems
 
 Traditional Data Quality programs break down quality problems into several types, including completeness, accuracy, consistency, validity, uniqueness, and integrity, and more. 
 These nuances can and do create confusion when dealing with non-Data Quality experts.
-To simplify the space, the GitLab Data Quality Program recognizes the following Data Quality problem types:
+To simplify this problem, the GitLab Data Quality Program recognizes the following Data Quality problem types:
 
 - **Inaccurate Data**: Inaccurate Data is data that does not match a real-world value it _should_ represent. 
 An example of Inaccurate Data is a 3-digit US ZIPCODE.
@@ -40,22 +39,22 @@ An example of Duplicate Data is two identical customer records in a CUSTOMER mas
 
 ## Data Quality System Components
 
-The Data Quality System is composed of Scorecards, which help us monitor problems over time, and Detection Rules, which identify and detect specific problems.
+The Data Quality System is composed of **Scorecards**, which help us monitor problems over time, and **Detection Rules**, which locate specific known problems with data.
 
-- **Data Quality Scorecard** - The Data Quality Scorecard is a dashboard used by Data Customers and Data Creators. The Dashboard displays the overall quality of a subject area as measured by the status of individual Detection Rules for the subject area.
+- **Data Quality Scorecard** - The Data Quality Scorecard is a dashboard used by Data Customers and Data Creators. The Dashboard displays the overall quality of a subject area as measured by the status of individual Detection Rules for the subject area. Specific and indepdendent Data Quality Scorecards can and will be created for specific purposes. For example, we are actively developing a "Data Quality Scorecard - Product Usage Data" and anticipate developing a separate "Data Quality Scorecard - Zuora" to measure quality of our Zuora billing system.
 
-- **Data Quality Detection Rule** - A Data Quality Detection Rule is a SQL-based test to check the quality of data versus a pre-defined condition. To run a Detection Rule data must exist in the Enterprise Data Warehouse. Detection Rules are enumerated and only 1 test is expressed per SQL statement. Examples of Detection Rules are:
+- **Data Quality Detection Rule** - A Data Quality Detection Rule is a SQL-based test to check the quality of data in a field or row versus a pre-defined condition. To run a Detection Rule, data must already exist in the Enterprise Data Warehouse. Detection Rules are enumerated and only one test is expressed per SQL statement. Examples of Detection Rules are:
      - Detection Rule 1: Inaccurate Data - State Field in Account Location record
      - Detection Rule 2: Duplicate Data - Account Nme in Account Master record
      - Detection Rule 3: Missing Data - License Key should exist for new Usage Ping submissions
 
 ### Operational Process
 
-Every week, the Detection Rule “Batch” is run and saves results in a persistent table. The persistent table includes a run date, detection rule identifier, and transaction id to enable linking to the source syste. The persistent table is the basis from which the Scorecard can be generated.
+Every week, the Detection Rule “Batch” is run and output is saved in a persistent table. The persistent table includes a run date, detection rule identifier, and transaction id to enable linking to the source syste. The persistent table is the basis from which the Scorecard is generated.
 
 ### Fixing Data Quality Problems
 
-**Remediation** is the process of fixing, correcting, or eliminating the quality problem. Remediation is owned by 'Data Creators', the person or team repsonsible for creating the source data.
+**Remediation** is the process of fixing, correcting, or eliminating the quality problem. Remediation is owned by 'Data Creators', the person or team repsonsible for creating the source data. Identifying or helping to identify quality problems is the responsibility of 'Data Customers'.
 
 ## Additional Resources
 
