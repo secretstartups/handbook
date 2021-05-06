@@ -58,9 +58,13 @@ Our AB tests include two files, the control and the test variant. Both exist on 
   * This file is the superstructure that includes the CSS, JS, and optional arguments.
 * [AB test files are stored here](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/marketing/source/experiments)
 
-### Video tutorial
+### Tutorials
 
-This has been recorded by Brandon but is TODO for editing and uploading.
+**Active**
+
+* [VIDEO: Part 1 of 2, explaining code paths and how to develop an AB test of the pricing page](https://youtu.be/H3-y5JRNDTM)
+* [VIDEO: Part 2 of 2, explaining how our feature flag vendor's system works and how to verify that the AB test is working](https://youtu.be/5Pll30nkqes)
+* [DEPRECATED: Outdated Google doc and video explainer outlining the system. Code and structure has changed a lot since this video was made.](https://docs.google.com/document/d/1_XztSRs_CMBulZDvrVbSHmCjtOnL0xd6gFUEVo_NxoA/edit?usp=sharing)
 
 ### Checklists
 
