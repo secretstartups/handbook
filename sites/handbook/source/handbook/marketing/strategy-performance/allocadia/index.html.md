@@ -268,7 +268,7 @@ We will be using CSV transfer files to upload plans from Allocadia to Adaptive. 
 
 ### Netsuite
 
-We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do its best guess but without the Allocadia ID, we will need to confirm or correct.
+We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do its best guess but without the Allocadia ID, we will need to confirm or correct.
 
 #### Mapping Expenses
 
