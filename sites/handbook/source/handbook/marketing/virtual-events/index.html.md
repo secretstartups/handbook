@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Virtual Events Overview
+title: Virtual Events
 description: An overview of virtual events at GitLab including webcasts, virtual workshops, and external virtual events.
 twitter_image: '/images/tweets/handbook-marketing.png'
 twitter_site: "@gitlab"
@@ -11,13 +11,15 @@ twitter_creator: "@gitlab"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Overview
+# Overview
 {: #overview .gitlab-purple}
 
 At GitLab, we believe everyone can contribute. Because nearly anyone with an internet connection and a device can participate in virtual events, as a speaker or an attendee, virtual events are an important part of fulfilling that mission. While our expertise in this area is still developing, this page documents the best practices we have studied and established for virtual events at GitLab.
 
 ## Calendar
 {: #calendar .gitlab-purple}
+
+**To see all upcoming marketing activities, view the [All-Marketing SSoT Calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493)**
 
 <figure>
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FLos_Angeles&amp;src=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;color=%239E69AF&amp;color=%23009688&amp;title=All%20GitLab%20Virtual%20Events&amp;showCalendars=1" style="border:solid 1px #777" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
