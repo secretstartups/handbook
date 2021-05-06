@@ -456,6 +456,10 @@ We can mitigate this risk by:
 * Automating reporting as much as possible
 * Give team members a voice in selecting KPIs
 
+## 30. Insufficient Investment in Innovation
+{:#insufficient-investment-in-innovation}
+
+We've seen other companies struggle when they have been unwilling or unable to invest in future product innovations or disrupt current offerings to meet future demands. We mitigate this by allocating a portion of R&D budget to future innovations and exploring new opportunities through [Single-Engineer Groups](/company/team/structure/#single-engineer-groups). [Iteration](/handbook/values/#iteration) helps us to place small bets and justify future investment after seeing initial momentum.
 
 
 
