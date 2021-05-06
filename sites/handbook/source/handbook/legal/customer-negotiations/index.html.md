@@ -32,7 +32,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | [**SKO 2021 Resources**](https://about.gitlab.com/handbook/legal/customer-negotiations/#GitLab-Legal-SKO-2021-Resources) |
 |[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | [**What is Open Source Software?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what-is-open-source?) |
 | [**What's needed to close a deal?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what's-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](https://about.gitlab.com/handbook/legal/customer-negotiations/#subscription-agreement-basics) |
-
+| [_Additional Content Coming Soon_ | [**Why GitLab does not sign BAAs (Business Associate Agreement**](https://about.gitlab.com/handbook/legal/customer-negotiations/#why-gitlab-does-not-sign-baas) |
 
 ## OPERATIONAL
 
@@ -144,6 +144,12 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 2. GitLab provides full transparency by including historic version of the Terms. This can be found [Agreement History](https://about.gitlab.com/terms/#agreement-history)
 3. The [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) can be used for the sale of both On-Premise and SaaS Software. 
 4. The Subscription Agreement is agreed to by either, (i) Clicking-through when purchasing (or downloading) via the GitLab Website, (ii) Referenced in an Order Form that is signed by a Customer, or (iii) Passed through a Reseller if a Customer is buying through an Authorized Partner. 
+
+## Why GitLab does not sign BAAs
+### 🎥 [Watch the "Subscription Agreement Basics" video](Update with video)
+_Please Note: The purpose of this content is to understand where to find GitLab's terms, as well as, basic knowlege about the rights and obligations stated_
+
+1. GitLab terms can be found at our [Terms of Service](https://about.gitlab.com/terms/)
 
 
 **Additional Resources**
