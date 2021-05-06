@@ -228,6 +228,7 @@ We can address this by:
 * [living out our customer results value](/handbook/values/#customer-results)
 * product managers continuing to do [customer validation cycles](/handbook/product-development-flow/#validation-track)
 * [dogfooding](/handbook/values/#dogfooding) so we experience the same pain points our customers do
+* optimizing for [user experience](/handbook/engineering/ux/). We manage toward improving performance for [UX KPIs](/company/kpis/#ux-department-kpis), including [SUS score](/handbook/engineering/ux/performance-indicators/#system-usability-scale-sus-score) 
 
 ## 12. Remote proliferation
 {:#remote-proliferation}
@@ -366,7 +367,6 @@ To ensure we avoid this risk we:
 1. Actively discourage a cult of personality around our CEO
 1. Have the CEO take normal vacations
 1. Actively help the CEO grow with the company, including training, coaching, and feedback
-
 
 
 ## 22. More layers of middle management creating problems
