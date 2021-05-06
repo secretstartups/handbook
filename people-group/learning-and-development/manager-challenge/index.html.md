@@ -124,9 +124,9 @@ For the May Manager Challenge, a buddy program will be encouraged for Managers d
 
 ### Post Manager Challenge
 
-L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. For the January 2021 Challenge, we will be piloting [Trust Metryx](https://www.xmetryx.com/) to participants that are interested in trying out the tool. 
+L&D is continuing to iterate on continuing education opportunities to build management skills for leading remote teams at GitLab. For the January 2021 Challenge, we piloted [TrustMetryx](https://www.xmetryx.com/) to participants that were interested in trying out the tool. 
 
-Trust Metryx is a behavioral change software that accelerates the development of remote team leaders. It helps leaders build trust and create lasting change by reducing friction, lowering stress, and improving performance. Checkout the [three-minute video](https://vimeo.com/493930605) to learn more about Trust Metryx. 
+Trust Metryx is a behavioral change software that accelerates the development of remote team leaders. It helps leaders build trust and create lasting change by reducing friction, lowering stress, and improving performance. Checkout the [three-minute video](https://vimeo.com/493930605) to learn more about TrustMetryx. 
 
 The tool accelerates your development as a manager/leader by: 
 - Helping you to identify behaviors that get in the way of team performance wellbeing
@@ -137,7 +137,11 @@ The tool accelerates your development as a manager/leader by:
 TrustMetryx compliments and builds on the basic principles of what it means to be a manager using the whole-person approach to leadership covered in the Manager Challenge. TrustMetryx gives you a data driven approach to ensuring that you’re embracing GitLab values and creating an inclusive team culture built on trust.
 
 **What do I need to do?**
-Learn more about Building Trust with Remote Teams from the co-founder of Trust Metryx by watching the recording of the [Learning Speaker Series](https://www.youtube.com/watch?v=hHMDY77upAE&feature=emb_title). If interested in participating please let the L&D team know in the January Manager Challenge Slack Channel, `#january-2021-manager-challenge.` Review [the onboarding plan](https://drive.google.com/file/d/1S1ynUb8bwpit-e03IP1e6uURYzOgI5KF/view?usp=sharing) for the use of Trust Metryx. 
+Learn more about Building Trust with Remote Teams from the co-founder of TrustMetryx by watching the recording of the [Learning Speaker Series](https://www.youtube.com/watch?v=hHMDY77upAE&feature=emb_title). If interested in participating please let the L&D team know in the January Manager Challenge Slack Channel, `#january-2021-manager-challenge.` Review [the onboarding plan](https://drive.google.com/file/d/1S1ynUb8bwpit-e03IP1e6uURYzOgI5KF/view?usp=sharing) for the use of TrustMetryx. 
+
+#### Interested in Using TrustMetryx
+
+If you are interested in using TrustMetryx, please contact the `#learninganddevelopment` team. Managers can use the [Growth & Development fund](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) to expense the price for their teams for the [under $1,000 benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits). 
 
 ## Self-paced Learning
 
