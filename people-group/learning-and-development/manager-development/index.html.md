@@ -21,7 +21,7 @@ Some of the challenges you might face are:
 * Making strategic decisions
 * Finding resources and support 
 
-[Research by HR consultancy DDI ](https://www.management-issues.com/news/3917/dealing-with-a-promotion-is-as-stressful-as-divorce/) has shown, that your transition may be one of the most demanding life experiences that you will ever endure. However, the satisfaction of leading teams to success makes that journey worthwhile and inspiring.
+[Research by HR consultancy DDI](https://www.management-issues.com/news/3917/dealing-with-a-promotion-is-as-stressful-as-divorce/) has shown, that your transition may be one of the most demanding life experiences that you will ever endure. However, the satisfaction of leading teams to success makes that journey worthwhile and inspiring.
 
 To reach that success, you will need a network of support, templates, tools, and training. At GitLab, we develop and iterate upon an engaging pathway that enables managers to lead teams to success. This pathway begins with a **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)**. This checklist will ensure that, as a new manager, you have a strong foundation, with all the tactical resources available. The Learning and Development team, your leader, and a peer network of experienced colleagues are ready to support you.
 
