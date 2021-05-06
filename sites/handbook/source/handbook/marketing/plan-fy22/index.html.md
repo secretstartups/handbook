@@ -286,7 +286,7 @@ In advance of a quarter, the Corporate Team will outline for the GTM Motions an 
 Upon communication of the events, a GTM Team will commit to the event and be responsible for supporting all requested issues.
 
 **Rsponsibilities by team:**
-* PMM DRI - <!-- Corporate/PMM to fill out -->
+* PMM DRI - Event-specific messaging and positioning for booth, ads, campaigns, etc. Product and Market SME to consult on strategy and tacits to target our efforts to right personas and segements. Content author/review. Booth duty. Pick up any other appropriate tasks (e.g. write survey questions, recurit a speaker for the sponsored talk, etc.)
 * TMM DRI - <!-- Corporate/TMM to fill out -->
 * Content DRI - email copy <!-- Corporate/Content to fill out -->
 * Campaigns DRI - plan for post-event nurture to drive leads to MQL
