@@ -63,12 +63,11 @@ By adopting GitLab's DevOps Platform, customers may experience one or more of th
 
 | Desired Future State (“After Scenarios”) | So What? (“Positive Business Outcomes”)   |
 | ------------- |:-------------:| 
-| TBD   | TBD |
-| TBD | TBD |
-| TBD   | TBD |
-| TBD | TBD |
-| TBD   | TBD |
-| TBD | TBD |
+| Seamless collaboration across entire SDLC.   | Complete context always available to any stakeholder, resulting in less misalignment of work, less context switching, and greater ability to execute quickly and independently. |
+| No integrations to create or maintain. | Staff can spend more time creating value, rather than managing infrastructure. Increased visibility across toolchain in the absence of API "chokepoints" between tools.  |
+| End-to-end traceability from discussion, to code, to review, to test and deploy.   | Painless audits, easy-to-understand forensic analysis to improve value flow and training. |
+| Complete suite of DevSecOps functionality available out-of-the-box | Predictable costs, even as needs evolve. Users more likely to partake of security and compliance features if they are readily available.  |
+| A single application with a single UX   | Reduce training costs and ramp time, increases ability of staff to move between roles and teams |
 
 
 ### Required Capabilities  
@@ -77,11 +76,14 @@ To achieve the positive business outcomes highlighted above, what required capab
 
 | Required capability |  Customer Metrics  |
 | ------------- |:-------------:| 
-| TBD   | TBD |
-| TBD | TBD |
-| TBD   | TBD |
-| TBD | TBD |
-| TBD   | TBD |
+| Agile planning: Planning, initiating, monitoring, controlling, closing, and measuring the value created by Agile teams and projects.   | TBD |
+| Control and manage different versions of the application assets from code to configuration and from design to deployment.| TBD |
+| Automate and streamline build and test to improve quality and velocity.   | TBD |
+| Shift security left and make it relevant throughout the delivery lifecycle. | TBD |
+| Streamline and automate delivering and deploying code to different environments. | TBD |
+| Define, enforce and report on compliance policies and frameworks | TBD |
+| Organize multiple inputs into actionable workflows to allow the appropriate people to remedy anomalous conditions. | TBD |
+| Extend the system to work with business applications, external data sources, and legacy point solutions.	Webhooks, APIs	Customize DevOps platform to any workflow or business need, adopt end-to-end DevOps incrementally | TBD |
 | TBD | TBD |
 
 ## Engaging the Customer
@@ -146,17 +148,15 @@ Below are one-sentence summaries of value you can deliver to user and buyer pers
 
 ### How GitLab Does It Better 
 
-With GitLab, organizations TBD. 
+With GitLab, organizations iterate faster, innovate together, and deliver more value, more quickly, at lower cost. 
 
-**[Key GitLab differentiators](TBD)** include:
+**Key GitLab differentiators]* include:
 
-1. TBD
-1. TBD
-1. TBD
-1. TBD
-1. TBD
-1. TBD
-1. TBD
+1. **One UX to learn.** Reduce onboarding and training time and complexity. Reduce friction as staff flows between projects.
+1. **One application to support.** Focus on building value instead.
+1. **One source of truth.** All information available to all roles at all times. True collaboration from ideation to delivery.
+1. **Where the work hapens.** Real-time data and actionable insights--fix problems as soon as you find them.
+1. **Built-in security and compliance.** Better coverage and peace of mind. 
 
 
 *see provided link for additional details including value and videos*
@@ -187,10 +187,7 @@ GitLab (or a GitLab partner) offers the below services to help accelerate time t
 ## Additional Resources 
 
 * TBD
-* TBD
-* TBD
-* TBD
-* TBD
+
 
 
 # Sales Play Tactics {#sales-play-tactics}

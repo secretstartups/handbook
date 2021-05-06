@@ -51,7 +51,7 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 **Measure:** How do we confirm everyone is aligned?
 
 - [Trusted Data Sales Funnel Target vs. Actual](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual): Trials, MQLs, SAOs, Pipeline
-- [Marketing Key Meeting Dashboard](https://app.periscopedata.com/app/gitlab/775108/WIP:-Key-Monthly-Marketing-Metrics): Views, Traffic, etc.
+- [Marketing Key Review Dashboard](https://app.periscopedata.com/app/gitlab/775108/WIP:-Key-Monthly-Marketing-Metrics): Views, Traffic, etc.
 - [Demand Gen Dashboards for Campaign Metrics](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard)
 - [Linear Attribution Tables](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution)
 - [WIP: SDR Efficiency Metrics](https://app.periscopedata.com/app/gitlab/641469/SDR-Metrics)
@@ -59,13 +59,24 @@ Everyone can contribute. See something you'd like to discuss or iterate on? Star
 #### Overview Slides of FY22 Marketing Plan
 Internal only - search for `GTM Slides - w Data`
 
+### Sales and Marketing Alignment
+{: #sales-marketing-alignment}
+<!-- DO NOT CHANGE ANCHOR -->
+
+* Quarterly Epic to present a proposed set of sales plays to deliver across the 3 GTM Motions
+    - PMMs list their proposed sales plays along with expected delivery dates in the Epic 
+    - Sales Enablement (@dcsomers @tanuja) review the proposed delivery dates and add expected dates for enablement sessions. 
+    - Sales Leadership (@mpyle @ronell) review the proposed plays and approve or provide input/requests on changes. 
+    - If plans/priorities change they will be communicated at minimum via a comment in the issue/Epic as the SSoT. 
+* Once agreed between sales and marketing, add campaign and enablement dates to [calendar](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1300837366) as the SSoT
+
 ### TOPO Marketing Model
 {: #topo}
 
 <!-- DO NOT CHANGE ANCHOR -->
 The TOPO Model is the agreed upon Finance/Sales/Marketing model that drives Marketing's goals for FY22, leveraging advisory services from [TOPO (now Gartner)](https://topohq.com/). In order to see the TOPO model please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `FY22_Mktg Model_TOPO_Machado - PLAN LOCKED`.
 
-On a monthly cadence, the **Marketing Key Meeting** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
+On a monthly cadence, the **Marketing Key Review** will be used as the venue for tracking where we are year-to-date on the agreed upon plan.
 
 ### Marketing Budgets
 {: #budgets}
@@ -78,11 +89,11 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 
 <!-- DO NOT CHANGE ANCHOR -->
 
-- <b>[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/marketing/strategic-marketing/usecase-gtm/). 
+- <b>[GTM Motion](/handbook/marketing/plan-fy22#gtm-motions)</b>: a set of sales and marketing activities and asssets centered around a [use case solution](/marketing/strategic-marketing/usecase-gtm/).
 - <b>[GTM Motion Core Team](/handbook/marketing/plan-fy22#core-teams)</b>: a group of marketers as functional DRIs for specific GTM strategies, campaigns, and aligned Sales Plays
 - <b>[Theme](/handbook/marketing/plan-fy22#themes)</b>: time-bound "push" in marketing calendar (example: focus on Partner Showcase in a specific month)
 - <b>[Solution GTM Strategy](/handbook/marketing/plan-fy22#solution-gtm-strategy)</b>: a document that describes what problem the solution solves for customers, buyer personas, messaging, positioning, and relevant competitive points. This doc is used to inform content for the Sales Play (sales audience) and the GTM Motion campaign (marketing audience).
-- <b>[Sales Play](/handbook/marketing/plan-fy22#sales-plays)</b>: a brief document to prepare the sales and SDR teams to take marketing generated leads to closure (can be inbound and/or outbound). Can also be used independent of a marketing campaign to prepare response to customer inquiry or to open a new conversation. Includes context (promise/offer), who to meet with, what to say, info to use, and how to measure progress.
+- <b>[Sales Play](/handbook/marketing/plan-fy22#sales-plays)</b>: A repeatable set of steps a sales rep can take to drive revenue. The Sales Play document includes background information such as which company profiles and personas to target, messaging and positioning, and resources to utilize along with the specific steps to take. 
 - <b>[GTM Motion Campaign](/handbook/marketing/plan-fy22#gtm-motion-campaign)</b>: campaign briefing document used to communicate relevant info to internal and external marketing teams to generate demand for solutions (aka GTM Motions) (aligned to sales playbooks).
 - <b>[GTM 4x2](/handbook/marketing/plan-fy22#gtm-4x2)</b>: document used to ensure that sales and marketing are aligned on all aspects of the strategy for different market segments
 - <b>[Prescriptive Buyer Journey](/handbook/marketing/prescriptive-buyer-journeys/)</b>: content aligned to buyer journey stages, leveraged in email nurture, digital marketing, and more
@@ -97,12 +108,12 @@ All FY22 Marketing budgets are loaded into Allocadia. Please refer to the [Alloc
 <!-- DO NOT CHANGE ANCHOR -->
 Based on discussions with Sales and Marketing leadership, feedback from Product & Product Management leadership and by consulting industry/analyst reports, we recommend that for FY22, our major GTM motions should be focused on **CI/CD**, **DevOps Platform**, and **GitOps**. The overall goal of our GTM motions and sales play initiative is to improve the predictability of attaining our FY22 New and Growth AR goals, and improve our GTM efficiency (e.g. CAC, Cost per SAO/CW). We will do this by concentrating our efforts on the most important GTM motions that align to customer’s main business goals/needs. where GitLab has a distinct competitive advantage and with accounts that have the highest LAM growth potential.
 
-To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`. 
+To view the GTM Motions Googlesheet, please go to your [Google Drive](https://drive.google.com/drive/u/1/my-drive) and search for `GTM Motions FY22 Marketing Plan`.
 
 The GTM Motions each include a [Core Team](/handbook/marketing/plan-fy22#core-teams), comprised of functional DRIs for subject-matter specific teams within marketing. If your specific group is not listed as a Core Team, don't worry! Each team and each individual in Marketing plays an integral role in making the FY22 Marketing Plan a reality and a success. Please see more information in [GTM Motion Core Teams](/handbook/marketing/plan-fy22#core-teams) and [Beyond the GTM Motion Core Teams](/handbook/marketing/plan-fy22#beyond-core-teams) below.
 All marketing team members should aim to focus ~70% of their time and plans around these GTM motions, allowing for ~30% of their time to be spent testing new messaging that's not a GTM motion.
 
-### What is included in a GTM Motion? 
+### What is included in a GTM Motion?
 {: #gtm-motion-includes}
 
 <!-- DO NOT CHANGE ANCHOR -->
@@ -110,17 +121,17 @@ _The list below includes potential and recommended items to include in a GTM Mot
 
 **Potential/Recommended Pieces of a GTM Motion:**
 
-- [Solution GTM Strategy Doc]((/handbook/marketing/strategic-marketing/usecase-gtm/#use-case-details)), including: 
+- [Solution GTM Strategy Doc]((/handbook/marketing/strategic-marketing/usecase-gtm/)), including:
     - Buyer personas
     - Messaging and positioning framework
     - Market landscape
     - Product capabilities
-    - etc. 
+    - etc.
 - [Campaign Brief(s)]((/handbook/marketing/plan-fy22#gtm-motion-campaign))
 - [Sales Play(s)]((/handbook/marketing/plan-fy22#sales-plays))
-- Supporting content 
+- Supporting content
     - Buyer journey content (including awareness, consideration, and decision)
-    - Competitive assets 
+    - Competitive assets
     - Analyst relations content and activitie
     - Customer references
 - Alliance partner joint GTM campaigns and activities
@@ -130,13 +141,13 @@ _The list below includes potential and recommended items to include in a GTM Mot
 
 ## Solution GTM Strategy
 
-The GTM Strategy doc includes the background market information to illustrates the context and personas experiencing a problem that attracts budget and describes how our soultion meets that need. GTM strategy docs, also refered to as [Use Case GTM pages](/handbook/marketing/strategic-marketing/usecase-gtm/#use-case-details), are kept in the handbook. 
+The GTM Strategy doc includes the background market information to illustrates the context and personas experiencing a problem that attracts budget and describes how our soultion meets that need. GTM strategy docs, also refered to as [Use Case GTM pages](/handbook/use-cases/), are kept in the handbook.
 
 ## GTM Motion Campaign
 {: #gtm-motion-campaign .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-A GTM motion can include one or more marketing campaigns. GTM motion campaigns can be designed to work independently or in tandem with an associated sales play. A campaign brief describes the tactics and channels to drive demand. 
+A GTM motion can include one or more marketing campaigns. GTM motion campaigns can be designed to work independently or in tandem with an associated sales play. A campaign brief describes the tactics and channels to drive demand.
 
 May include:
 - Full-funnel integrated tactics
@@ -159,9 +170,9 @@ May include:
 A sales play's intended audience is sales (SALs, SAs, TAMs, SDR as applicable) to arm the sales teams as a part the outbound motion. In some cases, there will also be inbound marketing campaign component. The playbook prepares the sales person with both prescriptive actions to take as part of the outbound motion, as well as how to respond in the case of a supporting inbound marketing campaign.
 
 The Sales Play should include (at minimum):  
-- Context (promise/offer) 
-- Who to meet with 
-- What to say 
+- Context (promise/offer)
+- Who to meet with
+- What to say
 - What to show/info to use
 - How to measure progress
 
@@ -181,7 +192,7 @@ _The list below includes potential and recommended items to include in a Sales P
 - Sales play training (SDR, Sales, Partners)
 - ABM named accounts, Focus Account Lists
 - Target personas, key contacts, prospect criteria, and other competitive and intel sources
-- Campaigns related to this Sales Play 
+- Campaigns related to this Sales Play
 - LinkedIn InMail campaigns/templates
 - Email campaigns/templates
 - Outreach guide with intro messages, objection handling, differentiation
@@ -195,15 +206,29 @@ _The list below includes potential and recommended items to include in a Sales P
 {: #core-teams .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-- The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the GTM Motion and related Sales Plays
+- The Core Team's purpose is to collaborate on the research, positioning, messaging, general strategy, and overall timeline of the GTM Motion as well as related
+Campaigns and Sales Plays.
+- The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Campaigns and Sales Plays.
+- Each team member should formally commit to due dates for their work.
+- Each team member is responsible for communicating as soon as possible when a due date is at risk.
 - The Core Teams are comprised of functional DRIs from teams aligned to product specializations (SMEs within their teams)
-- In each GTM Motion core team, there will be a team captain responsible for providing updates and participating in the scrum of scrums, collaborating with their respective core team to define deliverables and timelines to launch.
-- In each core team, a Product Marketing Manager will be the DRI for Sales Plays, responsible for production/enablement of Sales Plays and rallying relevant team members to be involved. 
-- In each core team, a Campaign Manager will be the DRI for Marketing Campaigns, responsible for the production of lead generation campaigns and rallying relevant team members to be involved.
-- The Core Teams will determine a relevant and realistic timeline in line with overarching marketing themes, and including Sales Plays
 - The Core Teams will kickoff together with the freedom to drive their GTM Motions as desired and with a strong team-oriented approach
 - The Core Teams will ensure nothing happens in a vacuum, by proactively integrating corresponding activities across marketing, and including those beyond the core team for input
 - The Core Teams are responsible for clearly communicating plans to all of Marketing ([also see Core Team communication](/handbook/marketing/plan-fy22#core-team-communication))
+
+### Roles & Responsibilities
+{: #roles-responsibilities}
+<!-- DO NOT CHANGE ANCHOR -->
+
+* **Team Captain:** Scrum Leader for the team Responsible for project planning and backlog refinement. Provides updates and participates in the scrum of scrums. Responsible for ensuring that due dates and timelines are defined and committed to by team members performing the work.  
+* **Product Marketing:** Responsible for the Solution GTM Strategy including narrative, messaging, and positioning. DRI for sales plays. Marketing DRI for Sales and SDR enablement . DRI for buyer and influencer personas. Responsible for fostering participation of the entire team in the research, positioning, messaging, general strategy.
+* **Marketing Campaigns:** DRI for marketing campaigns, both for overall GTM motions and campaigns related to Sales Plays. Responsible for the production of lead generation campaigns and rallying relevant teams and team members to deliver integrated marketing plans.
+* **Technical Marketing:** Responsible for technical narrative and value proposition. DRI for practitioner personas. DRI for Customers Success enablement including SAs, TAMs, and Support. Responsible for technical content production such as demos, blogs, workshops, webinars, etc.
+* **Content Marketing:** Responsible for content strategy and production related to the GTM motions and collaborating with other teams on prescriptive buyer journeys.
+* **Digital Marketing:** Responsible for digital strategy and defining ideal marketing channels to reach goals.
+* **Brand:** Responsible for cohesive branded journey across all tactics and between GTM Motions.
+* **Field Enablement:** Sales DRI for sales enablement and training, and collaborating with GTM core teams on launch timeline.
+* **Sales Leadership:** Responsible for providing insight into the prioritization of sales plays.
 
 ### Beyond the GTM Motion Core Teams
 {: #beyond-core-teams}
@@ -330,7 +355,7 @@ As a Field Marketer, you will be leveraging the GTM Motions in your regional str
 
 *You do not have to use all GTM Motions and you may go outside of these GTM Motions, although, as mentioned in the GTM Motions section, ~70% of your time should be spent focusing on the GTM Motions.
 
-While the majority of Field Marketing activities should be focused on middle of the funnel activies (i.e. grabbing the leads from our [focus account list](handbook/marketing/revenue-marketing/account-based-strategy/focus-account-lists/) (4300/4000) that are already in our system & pulling them through to SAO), there may be times where there is a gap in the focus account MQLs and Field Marketing will need to run a top of funnel campaign with the main goal being SAOs that support the Field Marketing FY22 goals. When Field Marketers run top of the funnel campaigns, they need to be sure to collaborate with the campaign manager aligned to their segment. This should be done to ensure there is alignment and that there is no overlap in team plans. This can be done in the bi-weekly FMM/MCM meetings that take place. There is not a formal approval process that the Field Marketer needs to go through with the campaigns team. There is much power in the teams working together and we already seeing the success of this happening! 
+While the majority of Field Marketing activities should be focused on middle of the funnel activies (i.e. grabbing the leads from our [focus account list](handbook/marketing/revenue-marketing/account-based-strategy/focus-account-lists/) (4300/4000) that are already in our system & pulling them through to SAO), there may be times where there is a gap in the focus account MQLs and Field Marketing will need to run a top of funnel campaign with the main goal being SAOs that support the Field Marketing FY22 goals. When Field Marketers run top of the funnel campaigns, they need to be sure to collaborate with the campaign manager aligned to their segment. This should be done to ensure there is alignment and that there is no overlap in team plans. This can be done in the bi-weekly FMM/MCM meetings that take place. There is not a formal approval process that the Field Marketer needs to go through with the campaigns team. There is much power in the teams working together and we already seeing the success of this happening!
 
 ### Campaigns Team
 {: #commentary-campaigns-team}
