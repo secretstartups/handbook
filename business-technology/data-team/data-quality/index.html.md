@@ -18,7 +18,7 @@ The **GitLab Data Quality Program** focuses on improving GitLab's productivity a
 The program works to accomplish this goal by creating reliable processes to identify, monitor, and fix Data problems.
 The scope of Data Quality all GitLab managed data and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large volumes of data data at scale.
 
-**Do you have a Data Quality issue?** Please see [Data Quality Issue Workflow](handbook/source/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow) for how to get started.
+**Do you have a Data Quality issue?** Please see [Data Quality Issue Workflow](handbook/source/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow) to get started.
 {: .alert .alert-success}
 
 ## Types Of Data Quality Problems
@@ -39,7 +39,7 @@ An example of Duplicate Data is two identical customer records in a CUSTOMER mas
 
 ## Data Quality System Components
 
-The Data Quality System is composed of **Scorecards**, which help us monitor problems over time, and **Detection Rules**, which locate specific known problems with data.
+The Data Quality System is composed of **Scorecards**, which help people monitor problems over time, and **Detection Rules**, which locate specific known problems with data.
 
 - **Data Quality Scorecard** - The Data Quality Scorecard is a dashboard used by Data Customers and Data Creators. The Dashboard displays the overall quality of a subject area as measured by the status of individual Detection Rules for the subject area. Specific and indepdendent Data Quality Scorecards can and will be created for specific purposes. For example, we are actively developing a "Data Quality Scorecard - Product Usage Data" and anticipate developing a separate "Data Quality Scorecard - Zuora" to measure quality of our Zuora billing system.
 
