@@ -170,6 +170,69 @@ irb(main):005:0> pp Order.where(customer_id: 000000)
   billing_rate_last_action: nil>]
 ```
 
+### Order history
+
+> **Note**: Having a way to view this in the UI has been requested in [customer #3081](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3081).
+
+You can view the change history of an order using `versions`.
+
+#### Example
+
+```ruby
+irb(main):005:0> pp Order.find(943369).versions
+[#<PaperTrail::Version:0x00000000023248d8
+  id: 943369,
+  item_type: "Order",
+  item_id: 159764,
+  event: "create",
+  whodunnit: nil,
+  object: nil,
+  created_at: Wed, 07 Apr 2021 00:19:21.297520000 UTC +00:00,
+  transaction_id: 943369,
+  object_changes:
+   "---\n" +
+   "id:\n" +
+   "- \n" +
+   "- 159764\n" +
+   "customer_id:\n" +
+   "- \n" +
+   "- 34580\n" +
+   "product_rate_plan_id:\n" +
+   "- \n" +
+   "- 2c92a0ff76f0d5250176f2f8c86f305a\n" +
+   "start_date:\n" +
+   "- \n" +
+   "- 2021-04-07\n" +
+   "end_date:\n" +
+   "- \n" +
+   "- 2021-05-07\n" +
+   "quantity:\n" +
+   "- \n" +
+   "- 1\n" +
+   "created_at:\n" +
+   "- \n" +
+   "- !ruby/object:ActiveSupport::TimeWithZone\n" +
+   "  utc: &1 2021-04-07 00:19:21.297520292 Z\n" +
+   "  zone: &2 !ruby/object:ActiveSupport::TimeZone\n" +
+   "    name: Etc/UTC\n" +
+   "  time: 2021-04-07 00:19:21.297520292 Z\n" +
+   "updated_at:\n" +
+   "- \n" +
+   "- !ruby/object:ActiveSupport::TimeWithZone\n" +
+   "  utc: *1\n" +
+   "  zone: *2\n" +
+   "  time: 2021-04-07 00:19:21.297520292 Z\n" +
+   "gl_namespace_id:\n" +
+   "- \n" +
+   "- '8981798'\n" +
+   "gl_namespace_name:\n" +
+   "- \n" +
+   "- to keep\n" +
+   "trial:\n" +
+   "- false\n" +
+   "- true\n">]
+```
+
 ### find_namespace
 
 > **Note**: Finding an account based on group name is available in the UI. However, accounts with trials typically do not show up due to [customers #978](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973).
