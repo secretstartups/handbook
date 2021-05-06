@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Data Team - PLanning Drumbeat"
+title: "Data Team - Planning Drumbeat"
 description: "GitLab Data Team OKR and Milestone planning process"
 ---
 
