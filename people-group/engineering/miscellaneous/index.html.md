@@ -37,4 +37,4 @@ The [People Experience](/handbook/people-group/people-experience-team) team will
 
 ## CXC contract renewal email
 
-Every day, a scheduled job looks for team members with a CXC contract expiring in two weeks. An email is sent to each of those team members to remind them of the contract renewal process. The GitLab CXC point of contact is also copied on this email to remind them to initiate the renewal process on their end.
+Every day, a scheduled job looks for team members with a CXC contract expiring in two weeks. An email is sent to each of those team members to remind them of the contract renewal process. The GitLab CXC point of contact (email listed in the `CXC_CONTACT_EMAIL` environment variable) is also copied on this email as a reminder to initiate the renewal process on their end.
