@@ -36,7 +36,7 @@ We [assume positive intent](/handbook/values/#assume-positive-intent) from the c
 
 ### (Optional) Contact the on-call Support Manager
 
-If at any point you would like advice or help finding additional support, please don't hesitate to [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call so you can share responsibilities (e.g. one person takes notes in Slack while the other commuincates verbally on the call). Managers are on-call during weekends so you can page for help at any time.
+If at any point you would like advice or help finding additional support, go ahead and [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call, so you can share responsibilities (e.g., one person takes notes in Slack while the other commuincates verbally on the call). Managers are on-call during weekends, so you can page for help at any time.
 
 ### Respond to PagerDuty alerts
 
