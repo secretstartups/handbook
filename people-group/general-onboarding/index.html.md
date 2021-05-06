@@ -161,7 +161,7 @@ These are added to the "All Team Member" Template
 
 * [Interviewing training issue](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/interview_training.md)
 * [Monitor group onboarding issue](https://gitlab.com/gitlab-org/monitor/onboarding/blob/master/.gitlab/issue_templates/Monitor_Onboarding.md)
-* [Becoming a GitLab manager issue](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)
+* [Becoming a GitLab manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)
 * [Production engineering onboarding issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md)
 * [Security products technical onboarding issue](https://gitlab.com/gitlab-org/security-products/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md)
 * [Support agent onboarding issue](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/Onboarding%20-%20GitLab.com%20Support%20Agent.md)
