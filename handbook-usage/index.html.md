@@ -187,6 +187,28 @@ If you require project-based access, you can request temporary developer access 
 
 [How to keep your Git-Fork up to date](https://stefanbauer.me/articles/how-to-keep-your-git-fork-up-to-date) is an easy tutorial to follow from the command line to keep the private handbook up-to-date, until mirroring is working.
 
+### The Internal handbook
+
+#### Where can it be found?
+
+[Internal Handbook Project]()
+
+#### Why is there a internal handbook?
+
+[add]
+
+#### The process of using this handbook
+
+- All team members will have this added to their Okta access 
+
+#### Accessing the internal handbook group.
+
+All team members will have this added to their Okta access
+
+#### Keeping the internal handbook up-to-date
+
+[add]
+
 ## Moving Pages and Adding Redirects to the Handbook
 
 The handbook is a living document and we'll occasionally need to change URLs or move pages. This is [the process Growth Marketing uses to set up and manage redirects](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect) for about.gitlab.com.
