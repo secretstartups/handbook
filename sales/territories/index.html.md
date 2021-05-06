@@ -159,7 +159,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | ---------- | ---- | -------------- | ----- | 
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	| Anthony Seguillon
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	| Anthony Seguillon
-|	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Christoph Stahl	| Anthony Seguillon
+|	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Dirk Dornseiff	| Anthony Seguillon
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	| Anthony Seguillon
 |	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	| Anthony Seguillon
 |	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon
