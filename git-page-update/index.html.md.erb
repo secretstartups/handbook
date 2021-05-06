@@ -33,14 +33,34 @@ If you have questions, ask anyone for help or post in the #handbook Slack channe
 1. Create your [SSH Keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html).
 1. For more information about using Git and GitLab see [GitLab University](https://docs.gitlab.com/ee/university/).
 
-## 3. Install Git
+## 3. The single script setup method (MacOS only)
+This method involves running a single ZSH script which will complete all of the setup steps below for you.
+
+**Note**: This script will only work on MacOS
+
+### Instructions
+1. Open your terminal (cmd + space and search for 'Terminal').
+1. Copy `/bin/zsh -c "$(curl -fsSL https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/scripts/setup-macos-dev-environment.sh)"` and paste into your terminal.
+1. Press enter to run the command
+
+### Troubleshooting
+* The script failed mid-execution, what do I do now?
+  * You can try and run it again, it's built to be run repeatedly if necessary.
+* I ran this script a while back, do I need to run it again?
+  * You can run it again, there's no harm in doing so and it will update to the correct versions of all your dependencies as well which might be useful to solve problems.
+* My handbook is broken
+  * Try and run this script again, it might fix things, but if not, please contact `#mr-buddies` on Slack for assistance.
+* This script no longer works, who can I contact?
+  * @dparker on Slack or [gitlab.com](https://gitlab.com/dparker)
+
+## 4. Install Git
 
 1. Open a terminal.
 1. Check your Git version by executing: `git --version`.
 1. If Git is not installed, you should be prompted to install it. Follow this [guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) to installing Git and
 linking your account to Git.
 
-## 4. Install a Ruby version manager and Bundler
+## 5. Install a Ruby version manager and Bundler
 
 There is more than one way to install Ruby. Using a version manager can make it easier to upgrade as the required version for this project changes. It also prevents problems associated with different operating systems and their included version of Ruby.
 
