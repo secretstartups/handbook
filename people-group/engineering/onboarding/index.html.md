@@ -30,7 +30,8 @@ graph TD
   K[1 day before: Team member BambooHR profile is activated and invited to gitlab-com and gitlab-org] --> I
   I[Start date: onboarding and swag email is send to the team member] --> C
   C[Day 2: Access Request issue and team page entry is created.] --> E
-  E[Day 5: Team members are synced to Modern Health] --> J
+  E[Day 5: Team members are synced to Modern Health] --> EE
+  EE[Day 6: Team members receive a Slack reminder about the anti-harrassment training] --> J
   J[Day 7: Manager and Interview training issues are opened if people manager] --> L
   L[Day 15: Team member is pinged if they have open compliance task on their onboarding issue] --> F
   F[Day 60: Onboarding issue is closed if it wasn't closed already] --> N
@@ -251,6 +252,10 @@ the following in a CSV file:
 
 This CSV file is then uploaded to a S3 bucket that is maintained by Modern Health. They process the file
 so the team members can have access to Modern Health.
+
+## Slack reminder for the anti-harrassment training
+We have a daily pipeline that checks everyday who started 6 days ago. For those team members, we send a reminder
+that they have to complete the anti-harrassment training.
 
 ## Manager and Interview training issues
 There's a scheduled pipeline that runs every day that checks for hires that started a week ago.
