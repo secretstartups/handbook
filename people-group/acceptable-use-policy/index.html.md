@@ -104,6 +104,8 @@ The use of removable and external storage devices such as USB flash drives and e
 
 GitLab provides a `panic@gitlab.com` email address and a [lost or stolen procedure](/handbook/security/#panic-email) for team members to use in situations that require an immediate security response. Should a team member lose a device such as a thumb drive, Yubikey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data, they should send an email to `panic@gitlab.com` right away. When the production and security teams receive an email sent to this address it will be handled immediately. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
+GitLab reserves the right to request documentation of the theft and/or a related police report in the case of a stolen laptop.
+
 ### Policy Compliance
 
 Compliance with this policy will be verified through various methods, including but not limited to, automated reporting, audits, and feedback to the policy owner.
