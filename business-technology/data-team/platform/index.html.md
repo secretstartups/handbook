@@ -20,6 +20,7 @@ description: "GitLab Data Team Platform"
 - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide)
 - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw)
 - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure)
+- [Data pipelines](/handbook/business-technology/data-team/platform/pipelines)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost)
@@ -61,7 +62,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 - SLO: Service Level Objective. Our SLO is the time between real-time and the analysis displayed in the [data visualization tool](#visualization)
 - `x` indicates undefined or not run
 
-| Data Source | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO|
+| [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO|
 |------------:|:--------:|:---------:|:--------:|:-------:|:--------:|
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h |
@@ -125,45 +126,6 @@ Sisense's access is always explicitly granted.
 #### DataSiren
 
 To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).  
-
-### Using SheetLoad
-
-SheetLoad is the process by which a Google Sheets and CSVs from GCS or S3 can be ingested into the data warehouse.
-
-Technical documentation on usage of SheetLoad can be found in the [readme](https://gitlab.com/gitlab-data/analytics/tree/master/extract/sheetload) in the data team project.
-
-If you want to import a Google Sheet or CSV into the warehouse, please [make an issue](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) in the data team project using the "CSV or GSheets Data Upload" issue template. This template has detailed instructions depending on the type of data you want to import and what you may want to do with it.
-
-#### Considerations
-{: #mind-about-sheetload}
-
-SheetLoad should primarily be used for data whose canonical source is a spreadsheet - i.e. Sales quotas. If there is a source of this data that is not a spreadsheet, you should at least [make an issue for a new data source](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=New%20Data%20Source) to get the data pulled automatically. However, if the spreadsheet is the SSOT for this data, then SheetLoad is the appropriate mechanism for getting it into the warehouse.
-
-##### Loading into Snowflake
-
-SheetLoad is designed to make the table in the database an exact copy of the sheet from which it is loading. Whenever SheetLoad detects a change in the source sheet, it will drop the database table and recreate it in the image of the updated spreadsheet. This means that if columns are added, changed, etc. it will all be reflected in the database. Changes are detected within 24 hours.
-
-##### Preparing for SheetLoad
-
-Except for where absolutely not possible, it is best that the SheetLoad sheet import from the original Google Sheet directly using the `importrange` function. This allows you to leave the upstream sheet alone while enabling you to format the SheetLoad version to be plain text. Any additional data type conversions or data cleanup can happen in the base dbt models. (This does not apply to the Boneyard.)
-
-Some additional considerations for preparing the data for loading:
-
-* format all numeric columns to have no commas or other symbols - 1000.46 instead of $1,000.46
-* use simple headers where possible - `user_name` instead of `GitLab - User Name`
-* use blank cells to indicate no data. blank cells are stored as `null` in the database.
-
-##### Modeling
-
-Before regular SheetLoad data can be accessible by Sisense, it has to be modeled via dbt. A minimum of 2 models will be made for the sheet: a [source model](/handbook/business-technology/data-team/platform/dbt-guide/#source-models) and a [staging model](/handbook/business-technology/data-team/platform/dbt-guide/#staging). These will be made by a member of the data team once you've [made an issue](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) in the data team project.
-
-##### Boneyard
-
-The `boneyard` schema is where data can be uploaded from a spreadsheet and it will be directly available for querying within Sisense. However, this is for instances where a one-off analysis is needed and/or you need to join this to data already in the warehouse. It is called Boneyard to highlight that this data is relevant only for an **_ad hoc/one off_** use case and will become stale within a relatively short period of time. We will periodically remove stale data from the `boneyard` schema.
-
-##### Certificates
-
-If you are adding Certificates to SheetLoad, refer to the instructions in the [People Group page](/handbook/people-group/learning-and-development/certifications/#step-5-add-to-sheetload)
 
 ### Qualtrics Data Push / Qualtrics SheetLoad
 
