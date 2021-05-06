@@ -32,7 +32,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | [**SKO 2021 Resources**](https://about.gitlab.com/handbook/legal/customer-negotiations/#GitLab-Legal-SKO-2021-Resources) |
 |[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | [**What is Open Source Software?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what-is-open-source?) |
 | [**What's needed to close a deal?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what's-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](https://about.gitlab.com/handbook/legal/customer-negotiations/#subscription-agreement-basics) |
-| [_Additional Content Coming Soon_ | [**Why GitLab does not sign BAAs (Business Associate Agreement**](https://about.gitlab.com/handbook/legal/customer-negotiations/#why-gitlab-does-not-sign-baas) |
+| _Additional Content Coming Soon_ | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](https://about.gitlab.com/handbook/legal/customer-negotiations/#why-gitlab-does-not-sign-baas) |
 
 ## OPERATIONAL
 
