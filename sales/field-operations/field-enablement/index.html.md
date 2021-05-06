@@ -243,7 +243,7 @@ If you have a Field Communications request (process change, announcement, etc.),
 - [Field Enablement Prioritization Board](https://gitlab.com/groups/gitlab-com/-/boards/2624997)
 
 ### Other
-- [Field Certification Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1637426)
+- [Field Certification Board](https://gitlab.com/groups/gitlab-com/-/boards/2714682?&label_name[]=Field%20Learning%20Programs)
 - [Value Framework Feedback (VFF) Board](https://gitlab.com/groups/gitlab-com/-/boards/2625246)
 - [Sales Enablement Sessions Board](https://gitlab.com/groups/gitlab-com/sales-team/-/boards/1231617)
 - [Customer Success Skills Exchange Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538)
