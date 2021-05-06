@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| May 6  | Channel Program Updates | Ed Cepulis |
 | May 13 | Sales Ops Update - Docusign Rollout |    Jesse Rabbits  |
 | May 20 | GitOps Infrastructure Automation Sales Play |      |
 | May 27 | Q2 FY22 Competitive Update 1 |    Aleeta Bell  |
@@ -46,6 +45,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-05-06  | **[Channel Program Updates](https://youtu.be/sOx3WSscAF8)** | Private |
 | 2021-04-22  | **[GitLab Premium to Ultimate Sales Playbook Launch](https://youtu.be/UY-J-SHcCC8)** | Private |
 | 2021-04-15 | **[Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://youtu.be/Pus0y34mIQA)** | Private |
 | 2021-04-08 | **[How to Avoid Common Discovery Pitfalls](https://youtu.be/04kviW1GkW4)** | Private |
