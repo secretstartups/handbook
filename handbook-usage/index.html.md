@@ -191,9 +191,8 @@ If you require project-based access, you can request temporary developer access 
 
 #### Where can it be found?
 
-- GitLab Team Members - Login to your Okta dashboard and click on the  `GitLab Internal Handbook` tile. You will have to authenticate with Okta first. 
-   - [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source)
-   - [Website](https://private-handbook.gitlab.io/handbook) 
+- [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source)
+- [Live Website](https://private-handbook.gitlab.io/handbook) 
 
 #### Why is there a internal handbook?
 
@@ -213,7 +212,9 @@ Only add items to the internal handbook that fall into the [not public](/handboo
 
 #### Accessing the internal handbook group.
 
-All team members will have this added to their Okta access when they join the company. 
+All team members will have this added to their Okta access when they join the company. Login to your Okta dashboard and click on the  `GitLab Internal Handbook` tile. You will have to authenticate with Okta first. 
+- [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source)
+- [Website](https://private-handbook.gitlab.io/handbook) 
 
 ## Moving Pages and Adding Redirects to the Handbook
 
