@@ -34,6 +34,10 @@ If the problem stated in the emergency ticket doesn't meet the [definition of an
 
 We [assume positive intent](/handbook/values/#assume-positive-intent) from the customer. Even though we may not think a particular ticket qualifies for [emergency support](/support/#priority-support), we treat all emergency pages from customers with priority support as if they qualify. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't qualify as an emergency, the customer's TAM or a Support Manager can discuss that with the customer.
 
+### (Optional) Contact the on-call Support Manager
+
+If at any point you would like advice or help finding additional support, please don't hesitate to [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call so you can share responsibilities (e.g. one person takes notes in Slack while the other commuincates verbally on the call). Managers are on-call during weekends so you can page for help at any time.
+
 ### Respond to PagerDuty alerts
 
 1. When an emergency is triggered, you will receive an alert from PD. This could be a text, phone call, email, Slack message, or a combination of those (depending on your PagerDuty notification preferences).
