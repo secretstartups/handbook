@@ -93,10 +93,10 @@ Credit splits are allowed at an opportunity level and can be requested by native
 To request an opportunity split, a sales rep should indicate the split in Chatter, tag the ASM(s), RD(s), and VP(s) for each rep for approval, and tag Sales Support to make the update once approved. Opportunity splits should be requested before any work is shared on the opportunity.
 
 * **SalesOps Team**
-On receiving an approved request for the split, SalesOps team will update the Opportunity Splits section of the opportunity with the split details. On completion SalesOps team will cc Commissions team and Clari team to process these splits in the systems accordingly.
+On receiving an approved request for the split, SalesOps team will update the Opportunity Splits section of the opportunity with the split details. On completion SalesOps team will cc Commissions team and Clari team to process these splits in the systems accordingly. Currently two types of splits have to be created, one for iACV splits and one for Net ARR Splits. All splits that are shared with the opportunity owner need to be created in the `Opportunity - Incremental ACV 2` and the `Net ARR` split types (AE's splitting an opportunity). Any splits relating to any other position (ISR, SDR etc.) are to be created using the overlay split, `Opportunity - iACV Overlay` and the `Net ARR Overlay` split types. 
 
-* **CaptivateIQ**
-Opportunity split crediting will automatically be calculated in the commissions system through the Opportunity Splits section. The Commissions team will ensure that the commissions are calculated accurately based on the split % and confirm in Chatter on the opportunity.
+* **Xactly**
+Opportunity split crediting will automatically be calculated in the commissions system through formulas that the commissions team has set up. The Commissions team will ensure that the commissions are calculated accurately based on the split % and confirm in Chatter on the opportunity.
 
 * **Clari**
 As of FY22Q2, our Clari instance will pull in Opportunity Splits.  The splits in Clari will be pulled directly from the Opportunity Split section in Salesforce.
