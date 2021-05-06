@@ -204,16 +204,19 @@ The [Support Response Crew Bot](https://gitlab.com/gitlab-com/support/toolbox/re
 
 #### How do I know what day I'm in the crew?
 
-Your day is documented on the [AMER Response Crew Schedule](https://docs.google.com/spreadsheets/d/15CZtGyjxUXbMxcnar-ghXLj9ao_8c28av7GjHdivkV8/edit#gid=2028591425) 
+Schedule is coordinated via [Pager Duty](https://gitlab.pagerduty.com/schedules#PHH614X)
 
 #### I'm not available for some or all of my day - what do I do?
 
 Please follow these steps in order:
 
-1. If you're **out for the whole week**, please update your entry on the spreadsheet to reflect your on-call or out-of-office status.
 1. If you're unavailable for **part of your day**, that's OK. **Help out with the crew when you can**, but do keep in touch with your crew in Slack and let them know when you'll be unavailable.
 1. If you're **on-call** for emergencies, that's OK too - **help with the crew as normal**, and it's OK to stop crew work if an emergency comes in.
 1. If you're **unavailable for more than half your day** on a given week, but are available on other days, please **swap** with someone else.
+
+#### Daily reminders to Slack
+
+The [Support Operations Bot](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/437) sends reminders to the crew in Slack each morning.
 
 ### Response Crew Dashboards
 
