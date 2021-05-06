@@ -68,9 +68,9 @@ The goal of the CoS is not to do the work of other teams, but help address work 
 There may be projects with no clear leader for a myriad of reasons, including we're still hiring the point person or the lead is on leave.
 Because of the CoS's ability to come up to speed quickly, they may be tasked something totally out of their domain with the expectation that they bring their leadership experience to the table, will do the work to make good decisions, and will lean on team members who are SMEs.
 
-Examples of a project with no clear leader:
+Examples of projects with no clear leader:
 * Learning and development initiatives shared by the Sales Enablement teams and the People org
-* [Internal Communications](/handbook/communication/internal-communications/)
+* Managing our ongoing relationship with [JiHu](https://about.gitlab.com/pricing/faq-jihu/) in China
 
 #### Broad
 
@@ -108,17 +108,7 @@ We work from the bottom up in agendas, unless told to prioritize otherwise.
 
 ## Board Meetings
 
-The Chief of Staff plays a key role in support Board Meetings.
-
-The Board Meetings page is the single source of truth for information on the Board, but some of the responsibilities of the Chief of staff include, as per the [timeline](/handbook/board-meetings/#timeline):
-
-1. reaching out before the meeting to collect questions from the board members.
-1. sending reminders, preparing the agenda and chairing the meeting.
-1. sends a reminder to the e-group two weeks in advance of the meeting.
-1. distributing the board materials the Friday before the meeting.
-1. ensuring that PDF versions of the materials including presentations, exhibits, minutes, option grants are stored in the Board of Directors folder on Google Drive in a folder labeled with the date of the meeting.
-1. coordinating the [CEO Video](/handbook/board-meetings/#ceo-video-and-memo)
-1. grouping questions in the [Agenda](/handbook/board-meetings/#agenda)
+The Chief of Staff supports Board activities as specified in the [Board Meeting](/handbook/board-meetings/) section of the handbook and as directed by the CEO.
 
 ## OKRs
 
@@ -136,7 +126,6 @@ While OKRs are [what's changing](/company/okrs/#okrs-are-what-is-different) ever
 KPIs occur at multiple [layers](/company/kpis/#layers-of-kpis) and have [multiple parts](/company/kpis/#parts-of-a-kpi).
 The CEO maintains [an index of GitLab KPIs and links to where they are defined](/company/kpis/).
 There is a process for [updating the list](/handbook/business-ops/data-team/kpi-index/#updating-an-existing-kpi) by adding, removing, or changing a KPI.
-
 
 ## General Group Conversation
 
@@ -170,7 +159,7 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 
 The executives get together every quarter for the [e-group offsite](/company/offsite/).
 The CoS plays an important [role](/company/offsite/#roles).
-It's [3-days long](/company/offsite/#schedule) with an All-Directs the following day.
+It's [3 to 4 days long](/company/offsite/#schedule) with an All-Directs the following day.
 [There is a content discussion](/company/offsite/#content-choice).
 There are [recurring content discussions](/company/offsite/#recurring-discussion-topics).
 Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gitlab-com/cos-team/-/issues/18).
@@ -188,13 +177,8 @@ The Staff EBA to the CEO assists the Chairperson to schedule the performance rev
 
 The results from the Board and E-Group team interviews are summarized (without attribution) by the Chairperson and shared for discussion at the March Board of Directors meeting. 
 
-The CoS is responsible for an update every other quarter to the Board on the progress made across focus areas. This will come in the form of a progress scorecard.
+The CoS is responsible for a mid-year and an end of year update to the Board on the progress made across focus areas. This will come in the form of a progress scorecard.
 For example, if one area of focus is "set 3-year strategy", the CoS will evaluate whether the activity is on track or needs attention. The scorecard will be updated with a progress score (on track, needs attention, or at risk) and a high level summary of relevant key activities.
-
-## Fiscal Year Kickoff
-
-The [Fiscall Year Kickoff](/company/gitlab-assembly/) is the only all-hands-style meeting at GitLab.
-The CoS is responsible for organizing it.
 
 ## Managing the All Directs
 
@@ -230,15 +214,6 @@ This is not the SSOT for these dates and is meant only for informational/organiz
 * June
 * October
 
-## Daily Standup
-
-On the CoST, we use [Geekbot](https://geekbot.com) for our Daily Standups.
-These are posted in #chief-of-staff-team-standups in Slack.
-Once team members are added to the daily standup list, they will receive a message from Geekbot via DM once they've been active on Slack after 6 AM in their local timezone.
-There is no pressure to respond to Geekbot as soon as it messages you.
-When Geekbot asks, "What will you do today?" try answering with specific details.
-Give responses to Geekbot that truly communicate to your team what you're working on that day, so that your team can help you understand if some priority has shifted or there is additional context you may need.
-
 ## Chief of Staff Shadow
 
 The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff.
@@ -248,7 +223,7 @@ If you are interested in participating in the Chief of Staff Shadow program, ope
 |  Start Date | End Date | First & Last Name | GitLab Handle |
 | --- | --- | --- | --- |
 |2020-05-23|2020-08-21  | Mike Miranda | @mmiranda |
-|2020-08-31|2020-12-18  | Jerome Ng | @jeromezng |
+|2020-08-31|2021-07-18  | Jerome Ng | @jeromezng |
 |   |  |  |  |
 |   |  |  |  |
 |   |  |  |  |
