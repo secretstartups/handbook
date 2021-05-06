@@ -55,6 +55,9 @@ Before reviewing the documented best practices below, take time to watch these r
 #### Applicable to all content
 
 1. URLs for SmartCards are generated automatically by the title that is first entered for the content and cannot be deleted or edited. This applies for all content in the platform, including Journeys, Channels, and Groups, so take care to properly name content when you're creating it for the first time for the most accurate URL. If content is deleted, that URL can no longer be used.
+1. Add clarifying language to explain progressive unlocking when used in both Pathways and Journeys. Some examples are included below:
+     - `Welcome to the GitLab 101 Certification! By completing this badge, you'll earn the GitLab 101 badge to share on your GitLab Learn and LinkedIn Profile. This training is geared toward GitLab team members and the wider community who are in non-engineering roles (i.e. recruiting, peopleops, marketing, finance, etc) and/or have not used a DevOps tool like GitLab before. This can also be helpful for non-engineering people outside of GitLab wanting to learn how to use GitLab for personal projects. You'll see that some of the SmartCards in this learning path are currently 'locked' - in order to unlock these SmartCards, please start with the first card in the pathway. When you've completed that card, the next card will unlock it for you to access.`
+     - `Welcome to the GitLab Values badge! By completing this badge, you'll earn the GitLab Values badge to share on your GitLab Learn and LinkedIn Profile. You'll see that some of the SmartCards in this learning path are currently 'locked' - in order to unlock these SmartCards, please start with the first card in the pathway. When you've completed that card, the next card will unlock it for you to access.To earn your GitLab Values badge, complete all the SmartCards in this pathway as well as pass the corresponding quiz with at least an 80%.`
 
 #### SmartCards
 
