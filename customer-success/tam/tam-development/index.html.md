@@ -13,7 +13,7 @@ description: "Available development paths and resources for Technical Account Ma
 
 As a Technical Account Manager, it is essential to understand what resources are available for your personal and professional development.   This page strives to be a place for leadership and TAMs to contribute to resources available for the progression and development of the TAM team.
 
-## Key handbook sections, roadmaps, and L&D platforms for enablement:
+## Key handbook sections, roadmaps and L&D platforms for enablement:
 1. [TAM Planned Enablement Roadmap for H1 FY22](https://docs.google.com/presentation/d/1HCoPkdjucC7nUaJl5eNzj3VNCWFdQ3nWvUNiMv2tcDU/edit#slide=id.g605d07d6c5_2_96)
 1. [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
 1. [New TAM Sales Quickstart Learning Path](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/): Delivered through scheduled training sessions and pre/post work, with portions applicable only to the TAM role.
@@ -50,7 +50,7 @@ We also have a list of [Recommended Learning Paths](https://about.gitlab.com/han
 - Self Certifications are available for the professional services courses on Edcast:
   * [CI/CD Specialist Pathway](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-ci-cd-specialist-pathway-what-s)
   * [GitLab Certified Associate](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway)
-- [GitLab Technical Training delivered by Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/#gitlab-certified-cicd-specialist)
+- [GitLab Technical Training delivered by Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
 - MIT's online program: [Cloud & DevOps: Continuous Transformation](https://professionalprograms.mit.edu/es/programa-online-cloud-devops-transformacion-continua/) covers strategical implementation of the DevOps and Cloud tools
 - [Cloud Infrastructure Technical Skills](https://about.gitlab.com/handbook/customer-success/education-enablement/#cloud-infrastructure) 
 
