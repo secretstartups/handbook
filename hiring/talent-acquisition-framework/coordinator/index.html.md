@@ -150,8 +150,7 @@ For additional information on reviewing Background checks see [this page](/handb
 1. Click `Complete Report`, which will redirect you to the Sterling website.
 1. Scroll down and click `Add Screening`.
 1. Next to `Comprehensive Criminal with Employment`, click on `Ticket`.
-1. Select `Add Products` and search for `FACIS® Level 3 Search` and hit Add.
-   - If you need to run a financial check as well for Finance team members, you will need to submit a second ticket.
+1. If you need to run a financial check as well for Finance team members, you will need to submit a second ticket.
       1. After you submit a ticket for the comprehensive criminal check, navigate back to the candidate's SterlingONE profile.
       1. Click `Add Screening`.
       1. Next to `Federal Criminal District Search` click `Ticket`.
