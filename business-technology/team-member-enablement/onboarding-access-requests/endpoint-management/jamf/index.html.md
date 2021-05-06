@@ -33,11 +33,6 @@ Jamf was selected as a best option that covered our list of requirements:
 1. Log data on user logins, IP address and machine info
 1. Allow users to see what's being collected
 
-## What data is Jamf collecting? How can I view it?
-
-The data collected from your company-issued Apple laptop can be viewed in XML format by accessing `~/Documents/Jamf.xml` on your Apple laptop. You can see an example of what this file looks like [here](https://drive.google.com/file/d/1zq2iY3jo3tmVTjcfkr7AtgyCYocKZa7H/view?usp=sharing)
-We recommend an XML parser to view the data.
-
 # Apple laptops
 
 We performed a proof of concept of multiple solutions and determined [Jamf](https://www.jamf.com/) to be the best option due to its complete suite of features that meets GitLab compliance and customer requirements as well as providing end-user transparency through accessible logs.
