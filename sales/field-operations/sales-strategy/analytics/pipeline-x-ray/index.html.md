@@ -50,8 +50,8 @@ Coverage is calculated at the specific cut level (e.g. Segment / Region) as `Ope
 **Remainder to Target** is calculated as  `Target - Booked Net ARR` for current quarter, and as `Total Booked at end of Quarter - Booked Net ARR` for historical quarters.
 
 ### Nuances / Considerations
-- Coverage to Remainder to Target is only calculated if the remainder is > 10k USD
-- **Historical Coverages** are calculate as `Open Pipeline with Stage X+ at day Y / Total Booked at end of Quarter`
+- Coverage to Remainder to Target is only calculated if the remainder is more than 10k USD
+- **Historical Coverages** are calculated as `Open Pipeline with Stage X+ at day Y / Total Booked at end of Quarter`
 - **Historical Win rates** are just the inverse of Historical Coverages as `Win Rate = 1 / Coverage`
 
 ### Refresh rates
@@ -60,9 +60,9 @@ The dashboard is refreshed once a day between 8:00 and 9:00 AM PST time.
 
 ### Data models - Sales Workspace in Snowflake
 
-A set of custom data models were created in the Snowflake `sales_workspace` to simplify reporting effort on Sisense / gSheet, looking at the SQL code is the best way to be sure that the metrics are presenting what it is expected from them.
+A set of custom data models were created in the Snowflake `sales_workspace` to simplify reporting efforts on Sisense / gSheet. 
 
-When posible the metrics logic is embeded in the source tables rather than in the report models.
+When posible the metrics logic is embeded in the source tables rather than in the report models and looking at the SQL code is the best way to be sure that the metrics are presenting what it is expected from them.
 
 Here is a table of the created models with links to their respective DBT model documentation.
 
