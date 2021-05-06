@@ -61,7 +61,7 @@ We do not have Linux-based endpoint management in place yet. There will be a sec
 
 # Windows laptops
 
-The Windows operating system is not a supported platform at GitLab, as described in the [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop). If you’re using a Windows laptop, please contact [Team Member Enablement](/handbook/business-technology/team-member-enablement/#-how-to-reach-out-to-us) to have a company laptop shipped to you.
+The Windows operating system is not a supported platform at GitLab, as described in the [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop). If you’re using a Windows laptop, please contact [Team Member Enablement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#-how-to-reach-out-to-us) to have a company laptop shipped to you.
 
 # Support Information
 
@@ -82,9 +82,9 @@ To install Jamf on your Mac hardware device, you will need to launch the **Safar
 
 **Note that the following instructions are being shown in Safari**
 
-**[TLDR](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#installation-completion-confirmation)** - Too long didn't read can be found at the end of the installation instruction.
+**[TLDR](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#installation-completion-confirmation)** - Too long didn't read can be found at the end of the installation instruction.
 
-**[Installation walkthrough video](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/#installation-walkthrough-video)**
+**[Installation walkthrough video](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#installation-walkthrough-video)**
 
 - Once you've opened your web browser and navigated to GitLab's Jamf instance, you will be directed to enter in your Okta credentials.
 
