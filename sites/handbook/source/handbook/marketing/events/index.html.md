@@ -83,17 +83,16 @@ Be sure you review the issue template and provide all necessary information that
 
 **NOTE**: Event owners are DRI to create/setup campaign names & tags!
 
-1. When **Corporate Marketing Event Owner** (DRI) begins campaign process, they will add the `campaign tag` (using proper `ISOdate_Name` format & within 31 character limit) into the associated budget line item. When **Field Marketing Event Owner** (DRI) begins campaign process, they will utilize the `campaign tag` that is auto-created in the Field Marketing budget document (this campaign tag is created in the campaign's line item by formula).
-    1. `Campaign Tag` ISO date = **first** day of event (if multiday) - Example: AWS reInvent Dec 2-5, 2019, `Campaign Tag` = `20191202_AWS_re:Invent` this will also be applied to the SFDC Campaign name & Marketo Program name
-    1. If budget line corresponds to one vendor and the vendor is known, they will add that information as well to make matching future invoices easier.
+1. When **Event Owner** begins campaign process and creates their line item in Allocadia, they will add the campaign tag in the details panel in the field `Campaign Tag to be Created`
+    1. `Campaign Tag` ISO date = **first** day of event (if multiday) - Example: AWS reInvent Dec 2-5, 2019, `Campaign Tag` = `20191202_AWSreInvent`. Campaign tag should not include any special characters and stay within the 31 character limit. 
     1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates) but it does need to be done when we go into contracting or before any money is spent toward said event.
 
 ### Step 3 - Netsuite campaign tag creation for events UNDER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** no contract or security review required
 
-1. **Event Owner** copy/paste the `campaign tag` form the budget document into the Corporate request issue or Field Marketing issue.
-1. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request campaign tag be created in Netsuite.
+1. **Event Owner** copy/paste the `Allocadia ID` (this can be found in the details panel of your Allocadia line item listed as `Line Item ID`) AND `Campaign Tag` into the event details section of the main event issue. The two IDs should be concatenated with a dash (example: 1114023-20211005_TheBestEventEver).
+1. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request the above combination tag be created in Netsuite. Please note that since this tag is what is entered into Netsuite, this will also be the tag utilized in Expensify for all expense reporting.
 1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match.
-1. MPM will use the <b>exact `campaign tag`</b> as the SFDC Campaign and Marketo Program name so it is the unique identifier across all systems.
+1. When creating the Marketo Program and SFDC Campaign, DRI (for Field Marketing, the FMCs) will still utilize just the `Campaign Tag` as the name of the campaign and not the combination tag mentioned above. 
 
 ##### **NOTE:** All events under the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** No contract or security review required can skip step 4- contracting process.
 
