@@ -315,6 +315,7 @@ For budgetary reasons, Marketing Operations will be performing quarterly, and fo
   - Terminus (formerly Sigstr)
   - Drift
   - Marketo
+  - Litmus 
 
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 
