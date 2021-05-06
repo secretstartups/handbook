@@ -34,7 +34,7 @@ Similar to prior year, if we do not use the full envelope provided to Marketing 
 - [Searching for your activity/ budget line item](https://support.allocadia.com/hc/en-us/articles/115005135427-Searching-your-Budget)
 - [Understanding Forecast Status Tags](https://support.allocadia.com/hc/en-us/articles/115000885934-Understanding-Forecast-Status-Tags)
 - [Switching between activity plans](https://support.allocadia.com/hc/en-us/articles/115004969207-Switching-Between-Activity-Plans)
-- [Budget Reallocations (transfers)](https://support.allocadia.com/hc/en-us/articles/360060630433-What-are-Budget-Reallocations-## )
+- [Budget Reallocations (transfers)](https://support.allocadia.com/hc/en-us/articles/360060630433-What-are-Budget-Reallocations-##)
 
 ## Activity Planning Tab
 
@@ -54,6 +54,13 @@ Within the view drop down you have the option to look at your targets by quarter
 - Vendor - this needs to be the name of the Vendor for the expense so that it will match with our eventual PO system coming in FY22.
 - Comments - this can be used for any notes about the spend, but it is not reportable nor sortable.
 - Months - this is where you enter the dollar amounts by month. You can use the cut and paste feature and tab between months for ease of entry. You can also enter formulas, such as 12000/12 if you have an annual $12K cost that you want calculating the $1K per month.
+
+##### Vendor
+
+For common vendors, its important to note that you must use the same upper and lower case terminology, as well as spacing to conform to a standard naming convention if you're trying to have the line items pull under the same vendor in any vendor report. A best practice is to visit the vendor's website and use their exact naming convention. Examples of common vendors we use and how they should be written out for reporting:
+1. Demandbase
+1. SimplyDIRECT
+1. Tenandone
 
 #### Detail panel
 
@@ -108,19 +115,18 @@ The reports are broken out in folder format and once you click into the folders,
 
 1. To understand your regions budget (referred to in Allocadia as `Target`) and what you are forecasting to spend -
     - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://youtu.be/QTQeOKp3wDU](https://youtu.be/QTQeOKp3wDU)</span> - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE)
-1. `Pipeline Planning - All Pipeline Plan by Segment - Drill In` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
-    - Video walk through - [https://youtu.be/ewqvzQo-hX0](https://youtu.be/ewqvzQo-hX0) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
-1. `Strategy Planning (OKRs), Strategy Planner - Objective Details (Team)` - This report allows you to see how your plans are aligned to the Strategy feature within Allocadia.
-    - Video walk through - [https://youtu.be/_VQG1BLjwmw](https://youtu.be/_VQG1BLjwmw)  - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
+1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
+    - [Video walk through](https://youtu.be/bauTMmEnaXc) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
+1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. 
+    - [Video walk through](https://youtu.be/XfgckiT9_1s) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
 
-##### Reporting folders breakdown 
-While the above listed reports are reports you use to get the information for your QBR, here's a breakdown on the other reporting folders. 
+##### Reporting folders breakdown
 
 1. Finance - we will view actuals here. We aren't using this folder in detail yet. More to come! 
 2. Health Check - We aren't using this folder in detail yet. More to come! 
 3. Investment Planning 
     1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary. 
-    2. Vendor Plan details - Management uses this section to understand how much we are spending with DemandBase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the 
+    2. Vendor Plan details - Management uses this section to understand how much we are spending with Demandbase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the 
 
 ## Integrations
 
@@ -128,24 +134,27 @@ While the above listed reports are reports you use to get the information for yo
 
 You have the ability to create a GitLab procurement issue directly from Allocadia for a given line item. You will not be creating from category or subcategory lines as we need the expense to match the Vendor and the issue approvals.
 
-[Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts. 
+[Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts.
 
-For Field Marketing, the reviewer/approver will click into the linked Allocaida line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue. 
+For Field Marketing, the reviewer/approver will click into the linked Allocaida line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue.
 
-More information on the [campaign tag creation](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags) can be found on the FMM handbook page. 
+More information on the [campaign tag creation](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags) can be found on the FMM handbook page.
 
 You may also create a procurement issue for software & that video will be forthcoming.
 
 #### Procurement issues that can be created from Allocadia
-1. Vendor Contracts Marketing Events 
-1. Software Vendor Contract Requests 
-1. General Vendor Requests 
+
+1. Vendor Contracts Marketing Events
+1. Software Vendor Contract Requests
+1. General Vendor Requests
 
 #### Making changes to the Procurement issues
-If you find yourself needing to update a procurement issue template for any of the issues above - nedd to add link, please [submit an issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for the Marketing Strategy & Performance team, as this must be done through our Allocadia CSM. 
 
-#### Wrong procurement issue template was pushed...what now? 
-If you've hit the GitLab Procurement issue template button and the wrong issue tempalte has been created, not to fear! More info coming soon! But we won't leave ya hanging! 
+If you find yourself needing to update a procurement issue template for any of the issues above - please [submit an issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for the Marketing Strategy & Performance team, as this must be done through our Allocadia CSM.
+
+#### Wrong procurement issue template was pushed...what now?
+
+If you've hit the GitLab Procurement issue template button and the wrong issue template has been created, not to fear! More info coming soon! But we won't leave ya hanging!
 
 ### SFDC
 
@@ -163,25 +172,29 @@ We will be using CSV transfer files to upload plans from Allocadia to Adaptive. 
 
 We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month.
 
-## Reporting available - Allocadia `Insights` :metrics:
+## Reporting available - Allocadia `Insights` 📊
 
 These dashboards and reports are still being built as we enter more data into the system and understand what we will need. AND you may build your own reports if you'd like.
 
-## OKR connection - Allocadia `Strategy` :knight:
+## OKR connection - Allocadia  `Strategy`♞
 
 We are looking into the ability to enter the Corporate (CEO level), Marketing (CMO level) and Team (departmental level) OKRs in Allocadia so that we can connect our spend to our OKRs. This will NOT replace the current use of GitLab issues, but can supplement with reporting and mapping of dept to CMO to CEO OKRs to keep us all aligned.
 
-## Lead to Goal - Allocadia `Metrics' :hash:
+## Lead to Goal - Allocadia `Metrics' #️⃣
 
-Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance. 
+Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance.
 
-By using the `Impact Modeller` feature we can forecast the ROI of our marketing efforts from an MQL>SAOs, SAO>Won, and pipeline standpoint taking into consideration the regional converstion rates by campaign type.
+We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. We have loaded two FY worth of data to get to these conversion rates given how different our campaigns types were in FY21 due to the pandemic. 
 
-We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. We have loaded two FY worth of data to get to these conversion rates given how different our campaigns types were in FY21 due to the pandemic. If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and then live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807). These charts will be added to the FMM Dashboard in a future iteration. 
+If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. 
 
-This calculation is done by then taking into account the MQLs and segment data that has been given at the line item level in the details panel. The ASPs (which we used the ASPs from the TOPO model per segment) are also loaded for calculation purposes. [Video walk through](https://youtu.be/LPMmah5tvT8) (and yes, you know you need to be logged into Unfiltered to see! ;))   
+Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807). These charts will be added to the FMM Dashboard in a future iteration. 
 
+The average deal size by campaign by region can be found [here](https://app.periscopedata.com/app/gitlab/823916/Field-Marketing-Metrics?widget=11036333&udv=1250443) (you'll have to refer back to dashboard to change the region if you want to see a specific regions data) are also loaded for calculation purposes. If there were less than 3 closed deals then we did NOT use that deal size information, but relied on the ASP from the TOPO model to fulfull that deal size. 
 
+A calculation is then done by then taking into account the MQLs, region, segment data and campaign type that has been given at the line item level in the details panel. 
+
+[Video walk through](https://youtu.be/bBLiwdpd5iY) (and yes, you know you need to be logged into Unfiltered to see! ;))   
 ## GitLab Internal Calendars
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
