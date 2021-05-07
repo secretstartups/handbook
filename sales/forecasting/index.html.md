@@ -120,7 +120,9 @@ The following instructional videos are located on the GitLab unfiltered YouTube 
 * **Overview of Renewals**
    - VIDEO COMING SOON for a further look at the Renewal Tabs as well as how to view past and future quarters.
 * **GitLab Forecasting 101**
-   - [Watch the 20 minute video](https://youtu.be/3TGiyNHV4_k) on how we use Clari at GitLab led by Area Sales Manager Adam Johnson
+   - [Watch this 20 minute video](https://youtu.be/3TGiyNHV4_k) on how we use Clari at GitLab led by Area Sales Manager Adam Johnson
+* **Monthly Forecasting overview**
+   - [Watch this 4 minute video](https://clari.zoom.us/rec/share/DvylG6q0l1yZWyrkFFmqkwUSO1G71QLTGs0cGTTvWFIYE0Yo6z7S5mS9N3yTFIX-.NSjsLeIMpnL9Ixtt) Password: 0TvRrgq!
 * **Gitlab Renewals Forecasting 101**
    - [Watch the 2 minute video](https://youtu.be/1aNxkKpoblA) on how to forecast renewals using renewal loss commit and renewal loss best case.
 * **Dashboards**
@@ -181,13 +183,31 @@ You can click on this to expand the list of opportunities in the selected foreca
 
 Click on the radio button for the type of opportunities you want to see (normally for forecasting calls with AEs, you will select “Open”). Then click “View Deals” to go to a full list of opportunities.
 
-To overwrite your regional forecast:
+##### To enter or overwrite your forecast: Quarterly View
 1. In Clari, go to the Forecasting tab.
-1. Go the ARR tab.
-1. Go to Commit and override the value.
-1. Add a note on why the adjustment made.
-2. Repeat this process for Best Case.
-1. Click Save.
+1. Go to the ARR tab.
+1. Go to Commit box, double-click and enter/override the value.
+1. Add a note on why the adjustment was made.
+1. Click Save
+1. Repeat this process for Best Case.
+
+##### To enter or overwrite your forecast: Monthly View
+1. In Clari, go to the Forecasting tab.
+1. Go to the ARR tab.
+1. On the top/middle of the screen you'll see a calendar icon with arrows pointing left or right.  **Select the right arrow to activate the Monthly view** within the given quarter. 
+1. For each month within the quarter, go to the respective Commit box, double-click and override the value.
+1. Add a note on why the adjustment was made.
+1. Click Save
+1. Repeat this process for Best Case.
+1. Once these steps are completed, toggle back to the Quarterly view by selecting the left arrow next to the calendar icon
+1. Here you will need to enter your Quarterly Commit and Best Case calls.  You have two options to make this happen:
+   1. In the Commit and Best Case boxes, manually enter the quarterly amount (recommend doing this if the sum of your monthly commits is not what you want to call for the quarter)
+   1. In the Commit and Best Case boxes, select the `Copy Total to Commit` button (recommend doing this if the sum or your monthly commit is equal to your quarterly commit)
+
+**Notable items related to Monthly Forecasting**
+- When a new month begins, the forecast call from the previous month will be displayed until a new forecast call is submitted for the new month.
+- When a new month begins, the quarterly forecast will not update based on the previous month's actuals until the forecast for the new month is updated. Clari does not update the quarterly forecast as soon as the month closes in case 1 or more opportunities slip from month 1 to month 2 (or month 2 to month 3), but not out of the quarter entirely — they do not want to assume that your quarterly forecast needs to be lowered in such cases. 
+- Monthly Forecasting Knowledge Base article: [Link here](https://clari.zendesk.com/hc/en-us/articles/360053542271-Monthly-Forecasting)
 
 #### Clari for Sales Leaders Instructional Videos
 
