@@ -164,12 +164,13 @@ Basically, we have a series of emails that deploy to net new namespaces. The goa
 - we only send emails if they have not fulfilled the previous action. For invite it would be if they have started a trial
 
 **Sisense data**  
-https://app.periscopedata.com/app/gitlab/820093/WIP:-Onboarding-Emails
-Control = not getting the email, candidate = getting the emails
+
+- [Dashboard](https://app.periscopedata.com/app/gitlab/820093/WIP:-Onboarding-Emails)
+- Control = not getting the email, candidate = getting the emails
 
 
 **From email and reply-to email**  
-Team@gitlab.com -  which is a group inbox. Amy is also a member of this group inbox.
+`Team @ gitlab.com` -  which is a group inbox. Amy is also a member of this group inbox.
 
 **Mailgun**  
 These emails are sent “from the product” meaning the growth engineers build the emails in the product and use Mailgun as the SMTP. All of these emails are tagged “marketing” in Mailgun so when you view analytics, it’s an aggregate look for all of these emails. There is also a Mailgun unsubscribe link. All of this data lives in Mailgun. 
