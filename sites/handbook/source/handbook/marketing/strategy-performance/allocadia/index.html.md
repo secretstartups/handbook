@@ -256,7 +256,8 @@ If you've hit the GitLab Procurement issue template button and the wrong issue t
 
 ### SalesForce.com (SFDC) 
 
-As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign, Allocadia will push over all the fields that have been completed in the details panel. In addition, we will be sending over forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget.
+As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign, Allocadia will push over all the fields that have been completed in the details panel. In addition, we will be sending over forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget. Keep this in mind when considering which line to map to a SFDC campaign: it does not matter which one you decide to use (line, category or subcategory). It's up to the user to figure out their folder structure and determine the highest level ID that houses all the information.
+When a category or sub-category ID is used, the SFDC Campaign will be auto-tagged to all the line items within that category or sub-category. 
 
 ### Okta
 
