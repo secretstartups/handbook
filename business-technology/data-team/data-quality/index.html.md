@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Quality"
-description: "Tools and information about GitLab's data quality"
+description: "The GitLab Data Quality Program seeks to identify, monitor, and remediate problems with Data quality that effect GitLab's productivity and efficiency."
 ---
 
 ## On this page
@@ -10,72 +10,59 @@ description: "Tools and information about GitLab's data quality"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## What is data quality?
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-Data quality is a measurement of the value of data to the business, meaning it is dependent on the task trying to be accomplished. High quality data in one context can be low in another. However, there are common dimensions that span contexts and these are detailed here. Also discussed is the relation of Data Integrity to Data Quality, the kinds of Data Errors, and how to improve Data Quality by decreasing the number of errors.
+## The Data Quality Program
 
-### Dimensions
+The **GitLab Data Quality Program** focuses on improving GitLab's productivity and efficiency through continual improvement to Data.
+The program works to accomplish this goal by creating reliable processes to identify, monitor, and fix Data problems.
+The scope of Data Quality all GitLab managed data and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large volumes of data at scale and across multiple source systems.
 
-#### Data Accuracy
+**Do you have a Data Quality issue?** Please see [Data Quality Issue Workflow](handbook/source/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow) to get started.
+{: .alert .alert-success}
 
-Data accuracy is a measure of how well the values in the database match the real-world values they represent. Inaccurate data would be having an Opportunity list the wrong value of a contract.
+## Types Of Data Quality Problems
 
-#### Information Completeness
+Traditional Data Quality programs break down quality problems into several types, including completeness, accuracy, consistency, validity, uniqueness, and integrity, and more. 
+These nuances can and do create confusion when dealing with non-Data Quality experts.
+To simplify this problem, the GitLab Data Quality Program recognizes the following Data Quality problem types:
 
-Information completeness refers to the extent to which data are of sufficient breadth, depth, and scope for the task at hand. There are absolute measures of breadth, depth, and scope that will return relative differences in completeness depending on the usage.
+- **Inaccurate Data**: Inaccurate Data is data that does not match a real-world value it _should_ represent. 
+An example of Inaccurate Data is a 3-digit US ZIPCODE.
 
-#### Time Dimensions
+- **Missing Data**: Missing Data is a NULL or empty field or record that _should_ exist.
+An example of Missing Data is a NULL ZIPCODE value within an address record.
 
-The time-related dimensions of data quality have three components: currency, volatility, and timeliness.
+- **Duplicate Data**: Duplicate Data is the same data repeated when it should not be repeated.
+Duplicate data can be complex to identify because duplicates can naturally occur based on how data is reported.
+An example of Duplicate Data is two (almost) identical customer records in a CUSTOMER master table and are related to a single 'real world' customer.
 
-- Data Currency refers to how promptly the data are updated when an external value changes. A common and useful measure of data currency is a last-updated and/or last-reviewed metadata tag.
+## Data Quality System Components
 
-- Data Volatility refers to how frequently the real world values are updated. Company names are generally of low volatility while product offerings are highly volatile.
+The Data Quality System is composed of **Scorecards**, which help people monitor problems over time, and **Detection Rules**, which locate specific known problems with data.
 
-- Data Timeliness is a measure of how current the data is for a given task. This is highly context dependent but can usually be expressed as a combination of currency and volatility along with specific data usage.
+- **Data Quality Scorecard** - The Data Quality Scorecard is a dashboard used by Data Customers and Data Creators. The Dashboard displays the overall quality of a subject area as measured by the status of individual Detection Rules for the subject area. Specific and indepdendent Data Quality Scorecards can and will be created for specific purposes. For example, we are actively developing a "Data Quality Scorecard - Product Usage Data" and anticipate developing a separate "Data Quality Scorecard - Zuora" to measure quality of our Zuora billing system.
 
-#### Data Consistency
+- **Data Quality Detection Rule** - A Data Quality Detection Rule is a SQL-based test to check the quality of data in a field or row versus a pre-defined condition. To run a Detection Rule, data must already exist in the Enterprise Data Warehouse. Detection Rules are enumerated and only one test is expressed per SQL statement. Examples of Detection Rules are:
+     - Detection Rule 1: Inaccurate Data - State Field in Account Location record
+     - Detection Rule 2: Duplicate Data - Account Nme in Account Master record
+     - Detection Rule 3: Missing Data - License Key should exist for new Usage Ping submissions
 
-Data consistency, also known as coherence and validity, is a measure of whether the data are violating or adhering to semantic rules. That is, given a set of values or ranges for a particular field, do the data adhere to the rules. An example of this would be Turn Around Time. Common values would be 0 to 365 days. That is, we would expect some amount of time to pass before a result is returned ( > 0) but more than a year seems unreasonable. Zero is an indication of no value for that field. With more experience we might realize that 0 to 180 might be more reasonable.
+### Operational Process
 
-#### Data Uniqueness
+Every week, the Detection Rule “Batch” is run and output is saved in a persistent table. The persistent table includes a run date, detection rule identifier, and transaction id to enable linking to the source syste. The persistent table is the basis from which the Scorecard is generated.
 
-Data uniqueness, also known as data deduplication, is a measure of whether or not real-world entities are represented multiple times in the same dataset. This could likewise apply to data features within a database entry. This can also have implications for reconciling data across databases (i.e. curated products database vs ordered products database.)
+### Fixing Data Quality Problems
 
-Other dimensions may include precision, accessibility, credibility, traceability, and confidentiality. I have chosen to exclude these dimensions because they are either sufficiently covered by the other dimensions (precision and credibility) or not particularly relevant to the broader quality conversation (accessibility, traceability, and confidentiality).
+**Remediation** is the process of fixing, correcting, or eliminating the quality problem. Remediation is owned by 'Data Creators', the person or team repsonsible for creating the source data. Identifying or helping to identify quality problems is the responsibility of 'Data Customers'.
 
-### Data Integrity
+## Additional Resources
 
-Data Integrity is the trustworthiness of the data, typically built upon Consistency and Accuracy. Therefore, Data Integrity is a result of Data Quality. Data with a high degree of integrity can be of low quality if it’s not suited for the task at hand and does not provide value to the business.
+### Guides and Books
 
-### Data Errors
-
-Errors occur, by definition, when data is inaccurate, incomplete, out of date, inconsistent, or duplicated.
-
-### Data Quality Improvement
-
-Data Quality improvement is separated into three categories: Prevention, Detection, and Repair of errors. Data errors are different for each of the above data quality dimensions, but they can be avoided in all cases using these three techniques.
-
-- Prevention - Data error prevention means slightly different things depending on the dimension. In general, however, it means putting rules in place during data input and curation so that common semantic errors are avoided.
-
-- Detection - Data error detection means using a combination of automated and manual checks to find issues within specific dimensions. Automated processes include data dimension-specific scripts that find common errors as well as audits of particular data by an expert curator.
-
-- Repair - Data error repair is simply correcting an error once it has been identified via the prevention or detection methodologies.
-
-## Current Data Quality Checks
-
-There are two main places where we programmatically check and test our data quality. The first is on extraction and loading into the warehouse with proprietary jobs, the second is via our transformations within the warehouse.
-
-### Extraction Data Quality
-
-We extract data from and with a variety of tools and sources. Some are proprietary and others are managed services. For a complete list of sources and pipelines with a rating for data quality verification see [this table](/handbook/business-technology/data-team/#extract-and-load)
-
-| Rating | Description                                                                                                                                                           |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | No Data Validation                                                                                                                                                    |
-| 2      | Source / Target Row counts in extraction job or relying on Managed service                                                                                            |
-| 3      | Data Extraction, Loading, and Transformation metrics are monitored by third party system                                                                              |
-| 4      | Implementation of [Data Lifecycle Management (DLM)](https://assets.red-gate.com/simple-talk/database-lifecycle-management-ebook.PDF) or equivalently robust approach. |
+- [Getting In Front Of Data](https://www.amazon.com/Getting-Front-Data-Does-What-ebook/dp/B01KTTJXZ4)
+- [Non-Invasive Data Governance](https://www.amazon.com/Non-Invasive-Data-Governance-Robert-Seiner/dp/1935504851)
+- [Data Lifecycle Management (DLM)](https://assets.red-gate.com/simple-talk/database-lifecycle-management-ebook.PDF) or equivalently robust approach.
 
 #### SaaS Tools
 
