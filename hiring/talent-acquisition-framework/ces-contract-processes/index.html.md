@@ -533,15 +533,15 @@ A wet signature is required for German employment agreements the following proce
 1. The Candidate Experience Specialist generates the German Contract form out of GreenHouse and stages for signature though GreenHouse and DocuSign. The Talent Acquisition Manager or the Senior Director of People Success (as listed on the signatory chart above) signs the German Contract.
 1. The Candidate Experience Specialist saves the unsigned contract to be used in a future step. It may require a manual edit to remove the signature tokens.
 1. Once the DocuSign contract is signed you may hire the candidate and send the Welcome Email in Greenhouse.
-1. The Candidate Experience Specialist saves the DocuSign Contract for upload into BambooHR as per the standard procedure.
 1. Using the Greenhouse email template "German Contract to Mail" the Candidate Experience Specialist emails the unsigned contract to a Talent Acquisition Manager, or the Talent Acquisition Director or CPO as backup. Be sure to attach the unsigned contract to that email.
    Information that will auto populate in the email includes;
    * German Power of Attorney (POA) document (Google Drive: Employee and Contractor Templates and Staging => German Contracts)
    * new team member's name
    * new team member's name address
+1. The CES will then add the candidates name to the [Germany Contracts Tracker](https://docs.google.com/spreadsheets/d/1AQLbzI1S9m8rftWaQMDl5p8YKXufpaeJtVFzumH0scw/edit?usp=sharing). 
 1. The Talent Acquisition Manager or the VP of Talent Acquisition will print two copies of the unsigned contract, sign and then send them to the new team member by postal service or FedEx (details of the fedex account can be found in 1Password => Secretarial Vault => Fedex).
-1. Once the documents have been sent the Talent Acquisition Manager will add the tracking number to the activity feed in the GreenHouse profile.
-1. The Candidate Experience Specialist should set a Greenhouse reminder for 2 weeks time to follow-up with the new team member if they have not received an update.
+1. Once the documents have been sent the Talent Acquisition Manager, the will add the tracking number to the [Germany Contracts Tracker](https://docs.google.com/spreadsheets/d/1AQLbzI1S9m8rftWaQMDl5p8YKXufpaeJtVFzumH0scw/edit?usp=sharing).
+1. The Candidate Experience Specialist should set a Greenhouse reminder for 1 week time to follow-up with the new team member if they have not received an update.
 1. When the new team member has emailed stating they received and signed the paper version, the Candidate Experience Specialist will email them back the GreenHouse email template German Contract Step 2.
 1. Once the law firm has received the contract they will scan and email a copy to People Operations Specialist to file in BambooHR.
 
