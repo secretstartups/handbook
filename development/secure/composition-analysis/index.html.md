@@ -76,7 +76,17 @@ These items must be triaged continuously throughout the month which means they m
 
 ### Security vulnerabilities triaging process
 
-We are responsible for triaging vulnerabilities reported on 2 sets of projects: our analyzers and their upstream scanner software. For the latter, we've set up mirrors to run our security scans. Triaging is achieved by relying on the Vulnerability Report with filters to focus on items with High and Critical severity and only for the relevant projects.
+We are responsible for triaging vulnerabilities reported on 2 sets of projects: our analyzers and their upstream scanner software. For the latter, we've set up mirrors to run our security scans. 
+
+#### Security Policy
+
+We currently focus on security findings with these severity levels:
+- Critical
+- High
+
+#### Triaging vulnerabilities
+
+We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
 
 1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&state=CONFIRMED&severity=HIGH&severity=CRITICAL&projectId=18446184&projectId=17987891&projectId=17450826&projectId=15369510&projectId=13150952&projectId=9450197&projectId=9450195&projectId=9450192&projectId=9396716&projectId=9358979&projectId=6126012) 
 1. [Upstream scanners Vulnerability Report][Upstream scanners Vulnerability Report]
@@ -180,6 +190,34 @@ To do so, we mirror their repository and execute our security scans on them:
 - [retire.js](https://gitlab.com/gitlab-org/security-products/dependencies/retire.js)
 
 The vulnerabilities reported on the currently used version of the scanner are automatically reported in [the group level Vulnerability Report][Upstream scanners Vulnerability Report] and triaged as part of our [security vulnerabilities triaging process](#security-vulnerabilities-triaging-process).
+
+#### Setting up a mirror
+
+1. create a new project in https://gitlab.com/gitlab-org/security-products/dependencies (blank project).
+2. set up the project repository as [a pull mirror](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html#pulling-from-a-remote-repository) of the upstream repository.
+3. find the git tag that matches the version currently used by our analyzer (usually represented by the `SCANNER_VERSION` variable in the analyzer's `Dockerfile`). Use exact commit if there is no git tag for the corresponding release we use.
+4. create a branch from that ref following naming convention `VERSION-security-checks` where `VERSION` is the version of the upstream scanner we currently use (e.g. `v6.12.0`).
+5. add a `.gitlab-ci.yml` configuration file to configure all compatible security scans.
+6. make `VERSION-security-checks` the default branch, so that reported vulnerabilities are showing up on the dashboards and vulnerability reports.
+
+#### Updating an upstream scanner
+
+We check for new releases of the upstream scanners on a monthly basis, as part of our [release issue](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/scripts/templates/release_issue.md.erb). When an update is available, a new issue is created using the [update scanner issue template](https://gitlab.com/gitlab-org/security-products/release/-/blob/master/scripts/templates/update_scanner_issue.md.erb) and added to the next milestone.
+
+Every analyzer relying on an upstream scanner has a "*How to update the upstream Scanner*" section in their readme detailing the process. This includes a verification for possible new security vulnerabilities and a license check which are detailed below.
+
+##### Security checks when updating an upstream scanner
+
+Before releasing an analyzer with a newer version of its upstream scanner, we must ensure it is exempt of security vulnerabilities matching our current policy.
+
+1. checkout the new tag (or commit) and create a new branch from it following naming convention `NEW_VERSION-security-checks`.
+1. copy/paste the existing `.gitlab-ci.yml` configuration file from the current `VERSION-security-check` branch.
+1. if there are new findings matching [our policy](#security-policy), address them according to our [triage process](#triaging-vulnerabilities).
+1. only when above mentionned findings are **fixed**, update the default_branch to be `NEW_VERSION-security-checks` and proceed with the update of the analyzer to use this newer version.
+
+##### License check when updating an upstream scanner
+
+Before releasing an analyzer with a newer version of its upstream scanner, we must ensure its license has not changed or is still compatible with [our policy](https://about.gitlab.com/handbook/engineering/open-source/#acceptable-licenses).
 
 ## Monitoring
 
