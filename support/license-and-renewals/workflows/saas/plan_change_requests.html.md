@@ -36,7 +36,7 @@ A plan change is when an existing GitLab SaaS plan will be modified on its plan 
 From CustomerDot you can only change the plan type not the subscription end date.
 
 1. From the left side menu click on `customers` and search for the customer.
-1. In the search results click on the GitLab groups icon.
+1. In the search results click on the GitLab groups icon for the customer you want to update.
 1. You'll see a list of groups owned by the customer and you can perform your change here.
 > If you receive an error, follow the usual troubleshooting procedures in
 > looking up the error in sentry and/or for an existing CustomersDot issue,
