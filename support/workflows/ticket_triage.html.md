@@ -34,7 +34,7 @@ graph TD
 
 A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields/#ticket-form-id-numbers) applied to it to help route it to the right set of individuals who can assist with that request.
 
-Below is a list of the most commonly used Zendesk forms with a brief explanation regarding their useage:
+Below is a list of the most commonly used Zendesk forms with a brief explanation regarding their usage:
 
 - Self-Managed: An issue where the customer is maintaining their own local instance of GitLab 
 - SaaS (GitLab.com): An issue involving the GitLab hosted SaaS offering
