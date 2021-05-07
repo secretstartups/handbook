@@ -59,4 +59,4 @@ Do:
 *   Obtain the authorisation of the owner if your proposed use does not constitute _fair use_.
 *   For logos, comply with any applicable brand guidelines or other terms of use imposed by the trademark owner. You are responsible for locating and interpreting any applicable brand guidelines; any onerous license terms will be identified and communicated to you by legal as part of the approval process.  
 *   For logos, obtain the image file from the owner’s repository of brand assets or another owner-authorized source. The file format can be changed, or the logo recreated in another file format, provided the result is visually identical to the original.
-*   For logos, save the image file in [directory].
+*   For logos, save the image file in the [illustrations/third-party-logos](https://gitlab.com/gitlab-org/gitlab-svgs/-/tree/main/illustrations/third-party-logos) directory in the [gitlab-svgs](https://gitlab.com/gitlab-org/gitlab-svgs) project.
