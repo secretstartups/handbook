@@ -186,7 +186,7 @@ These other types of OOO categories, are to be used on Family and Friends Day or
 
 [PTO by Roots](https://treehoppr.com/pto-ninja) allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
 
-[PTO by Roots Training Video](https://drive.google.com/file/d/1t-rRHvWxo9IguvtHuacR0pAlK3nHWS4H/view?usp=sharing)
+[PTO by Roots Training Video](https://vimeo.com/469045356)
 
 Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
 
