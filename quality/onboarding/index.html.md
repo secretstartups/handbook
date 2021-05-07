@@ -37,6 +37,8 @@ and complete the issue.
   * [dev.gitlab.org](https://dev.gitlab.org)
   * [staging.gitlab.com](https://staging.gitlab.com)
   * [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops)
+* Code Review
+  * [Quality team's code review checklists](https://gitlab.com/gitlab-org/quality/code-review-checklists)
 
 ### Slack channels
 
