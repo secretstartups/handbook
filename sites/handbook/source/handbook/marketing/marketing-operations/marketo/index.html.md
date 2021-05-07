@@ -403,5 +403,8 @@ The Field Marketing and Marketing Campaigns teams use targeted email lists as a 
 * List request is required 7 days prior to email deployment - FMM / MPM
 * Final Smart List is available 2 days prior to email deployment - MOps
 
+#### List Exports
+If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](/handbook/engineering/security/security-assurance/risk-field-security/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
+
 ## Mailchimp sends
 Our Mailchimp subscription is currently paused to prevent being billed while we deprecate. We are allowed to unpause 2x a year. We can unpause only in the rare case of needing to send a large security alert email. The External Communications person for security has access to Mailchimp to send these notices out. Prior training is required before a user can be given access. Please reach out to Mops if this access is required. 

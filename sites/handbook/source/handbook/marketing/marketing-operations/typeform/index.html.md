@@ -16,7 +16,7 @@ Typeform makes collecting and sharing information comfortable and conversational
 
 ### Access
 
-For Typeform access, team members will need their own accounts. Those accounts will need to have 2FA authenticated. With manager approval, you can [submit an access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to have your GitLab account added to Typeform.
+On our current plan with Typeform, there can only be 1 shared login. For access, please send a Slack DM to `@sdaily`. 
 
 ### Creating a Typeform for use on about.gitlab.com
 

@@ -234,3 +234,22 @@ Outreach sequences are a useful source of a/b testing data for customer response
 - Proceed to the top of the page and click the padlock icon, which shows the Lock and Restore feature. Select [Lock to lock the unneeded sequences](https://support.outreach.io/hc/en-us/articles/115005151633-Locking-vs-Deleting-Sequences)
 
 Congrats! You've just helped keep Outreach as a tidy tool for yourself and your teammates. Reward yourself with a tasty treat, if desired. 
+
+### Outreach Database Management
+
+Bi-quarterly, we will be deleting prospects out of Outreach with an aim of keeping Outreach clean. Below are the filters we will be using to delete out old prospects: 
+
+|Filters | 
+| ------ |
+| Opted Outed Prospects | 
+| Bounced- Invalid Email | 
+| No email and no mobile number | 
+| No email and created by ZoomInfo | 
+| Bad Data- Invalid Email | 
+| Bad Data- Spam | 
+| Unqualified- Competitor | 
+| Unqualified- No longer at company | 
+| No SFDC ID | 
+| Opted Out - No SFDC ID* | 
+
+We are using triggers in Outreach to tag those that we included in the next round of deletion. If you see your prospect with a delete tag on it and feel it should not be, just remove the tag and it won't be included. For more details please see [here](https://docs.google.com/document/d/1n4TCW3yWMQTRDY1uV19WYOUUCzmmWjuZPX_w6zbS-Wg/edit?usp=sharing).
