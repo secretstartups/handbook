@@ -21,9 +21,9 @@ Some of the challenges you might face are:
 * Making strategic decisions
 * Finding resources and support 
 
-[Research by HR consultancy DDI ](https://www.management-issues.com/news/3917/dealing-with-a-promotion-is-as-stressful-as-divorce/) has shown, that your transition may be one of the most demanding life experiences that you will ever endure. However, the satisfaction of leading teams to success makes that journey worthwhile and inspiring.
+[Research by HR consultancy DDI](https://www.management-issues.com/news/3917/dealing-with-a-promotion-is-as-stressful-as-divorce/) has shown, that your transition may be one of the most demanding life experiences that you will ever endure. However, the satisfaction of leading teams to success makes that journey worthwhile and inspiring.
 
-To reach that success, you will need a network of support, templates, tools, and training. At GitLab, we develop and iterate upon an engaging pathway that enables managers to lead teams to success. This pathway begins with a **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)**. This checklist will ensure that, as a new manager, you have a strong foundation, with all the tactical resources available. The Learning and Development team, your leader, and a peer network of experienced colleagues are ready to support you.
+To reach that success, you will need a network of support, templates, tools, and training. At GitLab, we develop and iterate upon an engaging pathway that enables managers to lead teams to success. This pathway begins with a **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)**. This checklist will ensure that, as a new manager, you have a strong foundation, with all the tactical resources available. The Learning and Development team, your leader, and a peer network of experienced colleagues are ready to support you.
 
 #### Finding the balance between contributing and managing 
 
@@ -41,7 +41,7 @@ If you have been promoted to a manager role, a second challenge you might face i
 
 The key to making this transition smooth is to be inclusive and communicate with your team and external collaborators. During your first few weeks as a new manager, try to identify a few small decisions you can make fairly quickly, but defer bigger ones until you’ve been in the role longer and have time to gather input from everyone. For example, set up a new schedule and agenda for team meetings, this is a small change but it clearly establishes your role as manager. 
 
-Also, in the first few weeks, take actions that establish your credibility and indicate how you’ll work as a manager. One of the best ways is to meet with your team, as a group and individually, and share with them your management style or review your Manager [README](/handbook/engineering/readmes/eric-johnson/).
+Also, in the first few weeks, take actions that establish your credibility and indicate how you’ll work as a manager. One of the best ways is to meet with your team, as a group and individually, and share with them your management style or review your Manager [README](/handbook/engineering/readmes/).
 
 During this type of transition, it’s easy to become overly focused on your former peers. Don’t forget to build relationships with your new leader and schedule coffee chats with other stakeholders across the organization.
 
@@ -51,7 +51,7 @@ There are many more challenges that you could face as a new manager. The goal of
 
 As a manager, you can lead your team to learn, grow and succeed. Following their progress and acknowledging their development can be the most rewarding aspect of your work. As issues arise, you can lean on a support network and receive guidance from experienced colleagues. This support consists of recurring Managers' coffee chats, dedicated slack channels, training modules, templates, leaders/mentors, and People Ops Business Partners all ready to answer questions and provide you with guidance.
 
-The **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)** is a launchpad, and it can connect you with crucial information about being a manager at GitLab. This issue is created automatically during the [career mobility process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue-creation-process), however, you can also assign it to yourself (Please ensure you use your legal name in the title). It is designed to ensure you start your journey as a manager with all the resources training available.  This checklist will evolve as we iterate upon it and continue to build this program. Your contributions as a new manager are essential, please submit a merge request with ideas for improvement.
+The **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)** is a launchpad, and it can connect you with crucial information about being a manager at GitLab. This issue is created automatically during the [career mobility process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue-creation-process), however, you can also assign it to yourself (Please ensure you use your legal name in the title). It is designed to ensure you start your journey as a manager with all the resources training available.  This checklist will evolve as we iterate upon it and continue to build this program. Your contributions as a new manager are essential, please submit a merge request with ideas for improvement.
 
 If you have questions as you work your way through this checklist please ask them in [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
 

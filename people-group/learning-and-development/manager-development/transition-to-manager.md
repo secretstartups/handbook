@@ -23,7 +23,7 @@ Some of the challenges you might face are:
 
 [Research by HR consultancy DDI ](https://www.management-issues.com/news/3917/dealing-with-a-promotion-is-as-stressful-as-divorce/) has shown, that your transition may be one of the most demanding life experiences that you will ever endure. However, the satisfaction of leading teams to success makes that journey worthwhile and inspiring.
 
-To reach that success, you will need a network of support, templates, tools, and training. At GitLab, we develop and iterate upon an engaging pathway that enables managers to lead teams to success. This pathway begins with a **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)**. This checklist will ensure that, as a new manager, you have a strong foundation, with all the tactical resources available. The Learning and Development team, your leader, and a peer network of experienced colleagues are ready to support you.
+To reach that success, you will need a network of support, templates, tools, and training. At GitLab, we develop and iterate upon an engaging pathway that enables managers to lead teams to success. This pathway begins with a **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)**. This checklist will ensure that, as a new manager, you have a strong foundation, with all the tactical resources available. The Learning and Development team, your leader, and a peer network of experienced colleagues are ready to support you.
 
 #### Working with a new team
 
@@ -69,7 +69,7 @@ There are many more challenges that you could face as a new manager.  The goal o
 
 As a manager, you can lead your team to learn, grow and succeed.  Following their progress and acknowledging their development can be the most rewarding aspect of your work. As issues arise, you can lean on a support network and receive guidance from experienced colleagues.  This support consists of recurring Managers' coffee chats, dedicated slack channels, training modules, templates, leaders/mentors, and People Ops Business Partners all ready to answer questions and provide you with guidance.
 
-The **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-ops/Training/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)** is a launchpad, and it can connect you with crucial information about being a manager at GitLab.  This issue should be assigned to you by your manager as part of your transition to the manager role, however, you can also assign it to yourself.  It is designed to ensure you start your journey as a manager with all the resources training available.   This checklist will evolve as we iterate upon it and continue to build this program.  Your contributions as a new manager are essential, please submit a merge request with ideas for improvement.
+The **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)** is a launchpad, and it can connect you with crucial information about being a manager at GitLab.  This issue should be assigned to you by your manager as part of your transition to the manager role, however, you can also assign it to yourself.  It is designed to ensure you start your journey as a manager with all the resources training available.   This checklist will evolve as we iterate upon it and continue to build this program.  Your contributions as a new manager are essential, please submit a merge request with ideas for improvement.
 
 If you have questions as you work your way through this checklist please ask them in [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
 
@@ -82,6 +82,3 @@ Take a moment to reflect on where you are in this transition. Then use this [goo
 * [Coping successfully with your transition, Lynda.com](https://www.lynda.com/Business-Skills-tutorials/Coping-successfully-your-transition/119004/132715-4.html)
 * [Are You A First-Time Manager? Here Are 5 Essential Tips for Success!, Inc.com](https://www.inc.com/melissa-lamson/5-success-strategies-for-first-time-managers.html)
 * [Use This Tactic To Avoid Burnout As A New Manager, American Management Association](https://playbook.amanet.org/training-articles-avoid-burnout-new-manager/)
-
-
-
