@@ -34,9 +34,11 @@ graph TD
 
 A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields/#ticket-form-id-numbers) applied to it to help route it to the right set of individuals who can assist with that request.
 
-Most of the forms are self-explanatory, but here are some extra considerations:
+Below is a list of the most commonly used Zendesk forms with a brief explanation regarding their useage:
 
-- SaaS Account: single user account issue only, all others go to GitLab.com (SaaS).
+- Self-Managed: An issue where the customer is maintaining their own local instance of GitLab 
+- SaaS (GitLab.com): An issue involving the GitLab hosted SaaS offering
+- SaaS Account: Single user account issue only, all others go to GitLab.com (SaaS).
 - Security: See [when to transfer to security](/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
 - Accounts Receivable: refunds, VAT and invoices.
 - L&R (License and Renewals): any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/workflows/#license-and-subscription).
