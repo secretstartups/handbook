@@ -338,7 +338,7 @@ The smaller we split things up, the smaller steps we take and the faster we can 
 
 ## Superstar Executives 
 
-I keep in touch with potential hires for executive roles and connect with many of them on a regular basis (monthly, quarterly or annually). I prioritize people who would add [diversity](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) to the executive team. I have Superstar Executive conversations across all functions, regardless of existing executive performance, because GitLab executives could leave the company at any point for a variety of reasons.
+I keep in touch with seasoned executives and connect with many of them on a regular basis (monthly, quarterly or annually). I prioritize people from [underrepresented groups](/company/culture/inclusion/#definitions), because I learn from folks from different backgrounds. These same folks may eventually become GitLab team members would add [diversity](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) to GitLab. I have Superstar Executive conversations across all functions, because it is important for me to have external, subject-specific mentors. This helps me to be a better boss and CEO. It also lets me maintain an important network as GitLab executives could leave the company at any point for a variety of reasons.
 
 ## CEO scam
 
