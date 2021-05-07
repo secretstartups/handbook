@@ -70,4 +70,4 @@ Jamf is an Apple device management solution used by system administrators to con
 
 #### SentinelOne
 
-SentinelOne is an endpoint detection and response technology used to secure and protect endpoints from malicious digital attacks. For more detail, please review the [Endpoint Detection & Response page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf).
+SentinelOne is an endpoint detection and response technology used to secure and protect endpoints from malicious digital attacks. For more detail, please review the [Endpoint Detection & Response page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr).
