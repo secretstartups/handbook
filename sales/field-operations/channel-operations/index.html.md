@@ -45,11 +45,10 @@ To open an issue with Channel Operations, [visit this link](https://gitlab.com/g
 <summary markdown='span'>
 Channel & Alliance SFDC Dashboards
 </summary>
-- [Global Channel Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXTJ): Dashboard that contains standard metrics for measuring overall Channel performance
+- [Global Channel Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYpV): Dashboard that contains standard metrics for measuring overall Channel performance
 - [Channel Forecast Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYLJ): Dashboard that contains comparison between `Partner Sourced and SQS = Channel` pipe and bookings
 - [Channel Commercial Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYe4): Dashboard that is focused specifically on our Commercial segment
 - [Alliances Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp): Dashboard that contains standard metrics for measuring Alliance Partner performance
-- [Global Channel Program Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXeR): Dashboard that contains programmatic measurements and program performance
  
 </details>
  
@@ -58,7 +57,6 @@ Channel & Alliance SFDC Dashboards
 Google Sheet Reporting
 </summary>
 - [Channel & Alliances Weekly Forecast Call Analysis](https://docs.google.com/spreadsheets/d/1t_9VbB_5vjMOAL_Rs7syPCJ4D8Argl6f6Tv39yuNDN0/edit#gid=1119532428): Standard metrics for the weekly Sales Forecast Call, updated weekly
-- [Channel & Alliances Weekly Forecast Call Analysis](https://docs.google.com/spreadsheets/d/1t_9VbB_5vjMOAL_Rs7syPCJ4D8Argl6f6Tv39yuNDN0/edit#gid=1119532428): Sales Forecast Call, updated weekly
 - [GitLab Certification Tracking Dashboard](https://docs.google.com/spreadsheets/d/147DUeV4k2ybqftcnJcBR6SOoZWxGpjoCfNyn1hNVfAg/edit#gid=569795884): Dashboard showing Partner certification data, updated weekly
  
 </details>
