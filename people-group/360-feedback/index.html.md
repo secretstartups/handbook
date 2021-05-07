@@ -18,7 +18,7 @@ description: >-
 
 **Next 360 Feedback Cycle**
 
-Around May of 2021 we will launch our next 360 feedback cycle. Last year, due to the additional pressure Covid-19 is putting on our team members, we had spread the process over 7 weeks, simplified the reviews and made participation optional but highly encouraged. In 2021, we might follow the same process as followed in 2020. From the People Group we encourage team members to gather feedback from peers, their manager and team members.
+In Q2 FY'22 we will launch our next 360 feedback cycle. Last year, due to the additional pressure Covid-19 is putting on our team members, we had spread the process over 7 weeks, simplified the reviews and made participation optional but highly encouraged. In 2021, we might follow the same process as followed in 2020. From the People Group we encourage team members to gather feedback from peers, their manager and team members.
 
 **Timeline**
 
