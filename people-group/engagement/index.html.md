@@ -122,7 +122,11 @@ GitLab was rated between 5-13% percent higher than the industry benchmark i.e. N
 GitLab scored 5% below the industry benchmark i.e. New Tech +1,000 2020 for the lowest scoring question surrounding positive changes however there was no comparative for the other two questions.
 
 #### 2021 E-Group Focus Areas
-The GitLab E-Group will be reviewing and discussing the outcome of the 2020 GitLab Team Member Engagement Survey in early January 2021 afterwhich plans for the year ahead will be documented.
+
+- Action (though action is our lowest score we have seen improvement year over year and will continue to focus on this area)
+- Growth & Development
+- Compensation
+- Resource Allocations
 
 #### Questions and Support
 The GitLab Team Member Engagement Survey is managed by the `People Operations Specialists`, if you require support or have any questions around the survey please be sure to reach out via `#peopleops`.
