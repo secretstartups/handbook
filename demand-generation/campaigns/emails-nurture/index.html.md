@@ -126,6 +126,61 @@ Note: Nurtures were moved from every-other-week to be weekly on 2021-01-16 to ac
 
 </details>
 
+#### In Product Email Campaigns
+
+To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth/-/epics/62#note_494532868)
+
+**These are also known as:**
+- User onboarding emails
+- Free user nurture
+- User nurture
+- User emails
+- Any sort of combination of the above
+
+**We launched these for:**  
+- Free SaaS users - Beginning of Feb, 2021
+- Free Self-managed users - Launching mid-late may, 2021
+
+**Iterations:**  
+We changed send time from 9am UTC every day (5am on the US east coast, 2am pacific) to 4PM UTC. This Change went live April 29, 2021. We could use April 30th forward for a comparison.
+
+**Who’s part of this project?**  
+- Michael Karampalas (Create path)
+- Sam Awezek (Trial and add Team paths)
+- Jensen Stava (Verify path)
+- Nout Boctor-Smith - email marketing DRI, mailgun analytics, & assist technical setup
+- Growth engineers - technical setup
+- Valerie Silverthorne - copywriter
+
+
+**So what’s the deal?**  
+
+Basically, we have a series of emails that deploy to net new namespaces. The goal is to get free users to use features of the product. There are 4 tracks - adopt Create, adopt Verify, invite Team, try a Trial. Each track has 3 emails that try to nudge users to take action. If a user takes the action referenced in the email, they will not get the next email in the series.
+
+**Keep in mind that:**  
+- only 50% namespaces get enrolled (control vs experiment)
+- sub-groups are excluded
+- the tracking of this data only started a few weeks ago (April 2021)
+- we only send emails if they have not fulfilled the previous action. For invite it would be if they have started a trial
+
+**Sisense data**  
+https://app.periscopedata.com/app/gitlab/820093/WIP:-Onboarding-Emails
+Control = not getting the email, candidate = getting the emails
+
+
+**From email and reply-to email**  
+Team@gitlab.com -  which is a group inbox. Amy is also a member of this group inbox.
+
+**Mailgun**  
+These emails are sent “from the product” meaning the growth engineers build the emails in the product and use Mailgun as the SMTP. All of these emails are tagged “marketing” in Mailgun so when you view analytics, it’s an aggregate look for all of these emails. There is also a Mailgun unsubscribe link. All of this data lives in Mailgun. 
+
+**HTML files**  
+All of the HTML email files are in [Litmus](https://litmus.com/folders/14964).
+
+**For more in-depth information about how these emails are implemented, please view the [project epic](https://gitlab.com/groups/gitlab-org/growth/-/epics/62) and all associated project issues.**
+
+
+
 ### Nurture entry (system logic and manual flow)
 {: #nurture-entry}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -355,24 +410,33 @@ The approval table below applies to non-Marketing emails.
 {: #email-templates .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+#### Please see [this epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/759) for more details and to see how the email templates look.
+
 **What are email templates?** An email template is a reusable HTML file that is used to build email campaigns (according to Litmus).
 
 **Why are email templates important?** Using an email template allows you to produce campaigns faster, since the underlying code is already written. Instead of having to rewrite an entire email from scratch for every send, you can simply add copy, images, and links to an existing template before testing and sending it to your subscribers (according to Litmus).
 
 **What email templates are available for us to use?** In Marketo (Design Studio > Email Templates), the following email templates are available:
 
-Standard marketing campaign email templates
-- A - Event Invite v2.0
-- B - ABM Email Template v1.0 **(WIP)**
-- C - Invite with date & time v1.0 **(WIP)**
-- D - Nurture standard v1.0 **(WIP)**
-- E - Corp Event v1.0 **(WIP)**
-- F - Newsletter standard v1.0 **(WIP)**
-- G - Newsletter dark mode v1.0 **(WIP)**
-- H - Letter format v1.0 **(WIP)**
+| Template Name in MKTO | Use For | Image Specs | Notes |
+| ------ | ------ | ------ | ------ |
+| A - Event Invite v2.0  | Events or asset downloads | Background image - jpg 600px wide. Example here. |  Top button is not removable |
+| B - Newsletter Dark Mode v1.0 | DevOps Download developer newsletter only | The only image we swap out is the background image of the release section - 600px wide. The top image (infinity loop) is 600px wide also. | For DevOps Download newsletter only |
+| C - Event Invite 2 buttons and speakers v1.0 | Webcast invitations, events, ABM, anything really | Headline background image - 600px wide; Speaker images - 300px wide | **The text version will need to be updated manually due to limitations with marketo variables** |
+| D - Letter format v1.0 | Any letter-like communication such as account update | N/A | N/A |
+| E - Newsletter Remote v1.0  | Remote newsletter only | TBD | N/A |
 
-Other email templates
-**(WIP)** currently but will include notification alert emails.
+- A - Event Invite v2.0 -- [COPY DOC TEMPLATE](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#heading=h.tl82wncgutxu)
+- B - Newsletter Dark Mode v1.0 **(Only for use by the DevOps Download newsletter)**
+- C - Event Invite 2 buttons and speakers v1.0 -- [COPY DOC TEMPLATE](https://docs.google.com/document/d/1lZDXHh7OcyLdCz2rt7YPyfK8_bfQz757EBI-2GiIdEI/edit#)
+- D - Letter format v1.0    
+- E - Newsletter Remote v1.0 **(Only for use by the All Remote team)**
+
+**Template notes** 
+- ABM Email Template - please use "Event Invite 2 buttons and speakers v1.0"
+- Nurture emails - please use "Event Invite 2 buttons and speakers v1.0"
+- Event invites or reminders - please use "Event Invite 2 buttons and speakers v1.0"
+- Privacy policy updates, account updates, or text-heavy emails - please use "Letter format v1.0"
 
 If you don't have Marketo access and would like to see what the email templates look like, [please view the project Epic and corresponding issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/759).
 
