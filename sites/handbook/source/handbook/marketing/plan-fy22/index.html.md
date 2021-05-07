@@ -286,10 +286,15 @@ In advance of a quarter, the Corporate Team will outline for the GTM Motions an 
 Upon communication of the events, a GTM Team will commit to the event and be responsible for supporting all requested issues.
 
 **Rsponsibilities by team:**
-* PMM DRI - Event-specific messaging and positioning for booth, ads, campaigns, etc. Product and Market SME to consult on strategy and tacits to target our efforts to right personas and segements. Content author/review. Booth duty. Pick up any other appropriate tasks (e.g. write survey questions, recurit a speaker for the sponsored talk, etc.)
+* PMM DRI - Event-specific messaging and positioning for booth, ads, emails, etc. Product and Market SME to consult on strategy and tactics to target our efforts to right personas and segements. Content author/review. Booth duty. Pick up any other appropriate tasks (e.g. write survey questions, recurit a speaker for the sponsored talk, etc.)
 * TMM DRI - <!-- Corporate/TMM to fill out -->
 * Content DRI - email copy <!-- Corporate/Content to fill out -->
 * Campaigns DRI - plan for post-event nurture to drive leads to MQL
+
+### Alliances
+{: #interlock-corporate-marketing}
+<!-- DO NOT CHANGE ANCHOR -->
+Saumya (and/or others) to provide insights from initial effort with Mayank. Process, templates, timing, who to connect, etc.
 
 ### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
@@ -379,21 +384,6 @@ While the majority of Field Marketing activities should be focused on middle of 
 As a Campaign Manager, you have a challenge on your plate: to plan and report from the perspective of GMT Motions, AND to plan/report from the perspective of your segment/region to ensure lead flow aligned to sales targets is on track. You will be an active contributor to a Core Team by sharing insight into existing data from the GTM Motions to-date; organizing and communicating existing buyer journeys, content, and nurture emails; and strategizing/communicating top funnel activities for FY22.
 
 You will be expected to become a subject matter expert of the GTM Motion as a Core Team member and ensure the Demand Generation team is up-to-date with what is planned for the GTM Motion (so that team members can best leverage the GTM Motions within their top-funnel campaign plans by segment/region.
-
-### Corporate Marketing
-{: #commentary-corporate-marketing}
-<!-- DO NOT CHANGE ANCHOR -->
-In advance of a quarter, the Corporate Team will outline for the GTM Motions an update on upcoming events, their anticipated audience, and elements of the event. This will help the GTM teams to understand opportunities available to test messaging, promote demos and content, etc.
-
-*These corporate events are high investment, and also high return, and this will show in the results of the GTM Team.*
-
-Upon communication of the events, a GTM Team will commit to the event and be responsible for supporting all requested issues.
-
-**Rsponsibilities by team:**
-* PMM DRI - <!-- Corporate/PMM to fill out -->
-* TMM DRI - [DevOps Platform](@warias) [CI](@iganbaruch) [GitOps](@csaavedra1) [Security](@fjdiaz)
-* Content DRI - email copy <!-- Corporate/Content to fill out -->
-* Campaigns DRI - plan for post-event nurture to drive leads to MQL
 
 ## Project Management
 {: #project-management .gitlab-purple}
