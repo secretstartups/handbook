@@ -17,7 +17,7 @@ description: "Effective ways to apply product data for Sales and Customer Succes
 
 ## Purpose
 
-To guide users in how to use the customer's product usage data within Gainsight, review use case adoption strategies, and understand how the data connects and what to do with data quality concerns.
+To guide users in how to use the customer's product usage data within Gainsight, review use case adoption strategies, and understand how the data connects and what to do with data quality concerns. See [Product Usage Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/) page for more information.
 
 ## Using Product Usage Data in Gainsight 
 
@@ -96,7 +96,26 @@ Remember, this is an MVC — please [create an issue to suggest new metrics](#re
 
 ## TAM Actions
 
+### Viewing all Unknown Self-Managed Instances
+
+New self-managed instances come online all the time. The different types include:
+
+* Production: The production instance tied to the subscription
+* Non-production: A test, staging, or dev server
+* Obsolete: No longer in use server
+* Unknown: Not yet labeled server
+* Geo Secondary Node: a secondary or mirror server
+
+To make sure we correctly identifying Production vs. other types, use these instructions to see a full list of instances yet to be labeled:
+
+1. Go to TAM Portfolio Dashboard
+1. Filter to your name
+1. Review Hostnames under Accounts with Unknown Instance Names Report (best to click the "Maximize Report" for viewing)
+   1. Optional: if you want to view hostname usage, use this dashboard and filter via Hostname to see the usage for any specific hostnames
+
+
 ### Updating Self-Managed Instance Type
+
 For your self-managed customers, label your customers' instances as Production, Staging, or Obsolete. Steps:
 1. Go to the customer in Gainsight
 1. On the left nav panel, click on "Instance Details" (bottom)
