@@ -62,7 +62,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 ## Launch date: `to be added`
 
-## [Live landing page link]() - `to be added when live`
+## [Pathfactory link]() - `to be added when live`
 
 #### :key: Key Details
 * **Content Marketing DRI:**  
@@ -75,10 +75,10 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Primary Persona:** 
 * **Language:** 
 * **Campaign Tag:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
-* [ ] [main salesforce program]()
-* [ ] [main marketo campaign]()
+* [ ] ~~[main salesforce program]()~~
+* [ ] ~~[main marketo campaign]()~~
 * [ ] [asset copy draft]() - `doc to be added by Content Marketing`
-* [ ] [pathfactory track link]() - `link to PF track when created`
+* [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 
 ### :books:  Issues to Create
@@ -91,7 +91,6 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * [ ] [Asset Design Issue](https://gitlab.com/gitlab-com/marketing/growth-marketing/global-content/content-marketing/-/issues/new?issuable_template=design-request-content-resource) - Digital Design
 * [ ] [Pathfactory Upload Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - Content
 * [ ] [Pathfactory Track Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - Campaigns
-* [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page) - Campaigns
 * [ ] [Resource Page Addition Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - Campaigns
 
 <details>
@@ -136,7 +135,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 ## Launch date: `to be added`
 
-## [Live landing page link]() - `to be added when live`
+## [Pathfactory link]() - `to be added when live`
 
 #### :key: Key Details
 * **External Content (i.e. AR) DRI:**  
@@ -150,9 +149,9 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Language:** 
 * **Budget:** <!-- Match to Allocadia -->
 * **Campaign Tag:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
-* [ ] [main salesforce program]()
-* [ ] [main marketo campaign]()
-* [ ] [pathfactory track link]() - `link to PF track when created`
+* [ ] ~~[main salesforce program]()~~
+* [ ] ~~[main marketo campaign]()~~
+* [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 ### :books:  Issues to Create
 
@@ -202,13 +201,104 @@ As a guide in developing timeline, please view the workback timeline calculator 
    * PathFactory URL/UTM [details](/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links)
    * PathFactory [form strategy](/handbook/marketing/marketing-operations/pathfactory/#form-strategy)
 
+## Adding new content to the Resources page
+{: #add-to-resources-page .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
+*Note from `@jgragnola`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
+
+1. Begin a new MR from [the resources yml](https://gitlab.com/gitlab-com/www-gitlab-com/edit/master/data/resources.yml)
+2. Use the code below to add a new entry with the relevant variables
+3. Add commit message `Add [resource name] to Resources page`, rename your target branch, leave "start a new merge request with these changes" and click "Commit Changes"
+5. Assign the merge request to yourself
+6. When you've tested the MR in the review app and all looks correct (remember to test the filtering!), assign to `@jgragnola`
+7. Comment to `@jgragnola` that the MR is ready to merge
+
+**Code:**
+```
+- title: 'Add name of resource - shorten if necessary'
+  url: 
+  image: /images/resources/security.png
+  type: 'eBook'
+  topics:
+    - 
+    - 
+  solutions:
+    - 
+    - 
+  teaser: 'Add a teaser that relates to the contents of the resource'
+```
+
+**Example:**
+```
+- title: '10 Steps Every CISO Should Take to Secure Next-Gen Software'
+  url: /resources/ebook-ciso-secure-software/
+  image: /images/resources/security.png
+  type: 'eBook'
+  topics:
+    - DevSecOps
+    - Security
+  solutions:
+    - Security and quality
+  teaser: 'Learn the three shifts of next-gen software and how they impact security.'
+```
+
+**IMAGES to choose from (select one):**
+*[Shortcuts to Images Folder](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/resources)
+* `/images/resources/cloud-native.png`
+* `/images/resources/code-review.png`
+* `/images/resources/continuous-integration.png`
+* `/images/resources/devops.png`
+* `/images/resources/git.png`
+* `/images/resources/gitlab.png`
+* `/images/resources/security.png`
+* `/images/resources/software-development.png`
+* `/images/resources/resources-gitops.png`
+
+**TOPICS to choose from (add all that apply):**
+*Note from @jgragnola: let's see if we can align this with topics in Pathfactory for efficiency (if we don't go the route of Pathfactory explore page).*
+
+* Agile
+* CD
+* CI
+* Cloud Native
+* DevOps
+* DevSecOps
+* Git
+* GitLab
+* Public Sector
+* Security
+* Single Applicaton
+* Software Development
+* Toolchain
+
+## How to retire analyst assets when they expire
+{: #retire-analyst-assets .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+*Note from @jgragnola: this process needs a lot of work and should be minimal time spent by campaigns team. Create section for ungated journeys, and section (hidden) for former gated pages, and pass to Verticurl.*
+
+* An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be open for each analyst asset, and related to the overarching Epic upon gating (with due date for when the asset is set to expire)
+* At times, we will extend the rights to an asset if it is heavily used by sales or performing well in later stage nurture. In that case the decisio nis indicated in the Expiration Issue, and the team is updated.
+
+### Retire Marketo landing page
+{: #retire-marketo-page .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+**First you will remove the form from the page and add a "no longer available" message**
+* In the Marketo program, click "edit" on the Registration Page
+* On right rail under "Variables" (below "Elements"), find `2column Visibility` and switch to "Hidden" 
+* On right rail under "Variables" (below "Elements"), find `2column Sidebar` and switch to "No Sidebar" 
+* On right rail under "Variables" (below "Elements"), find `flex1 Visibility` and switch to "Visible"
+* In flex1 section, double-click then click to edit in HTML > add the code below into the section and save
+* Approve Landing Page and test live. You should no longer be able to see the form or paragraph text, and only see the notice about resource no longer being available. 
+
+```
+<h1>This resource is no longer available.</h1>
+<p>Thank you for your interest in this resource, but it is no longer available for download. <a href="https://about.gitlab.com/analysts/" target="_blank" id="">Click here to visit our industry analysts page to view other reports and best practices!</a></p>
+```
 ## Gated Content Landing Pages (Historic Process/Format)
 {: #gated-content-landing-pages .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
-<details>
-<summary>The below processes are not to be followed, but are preserved on this page as historical context, and in case of specific need to revert to landing page process.</summary>
 
 ### Epic code and issues for gated landing page setup
 {: #epic-issues-gated-landing-pages}
@@ -380,104 +470,6 @@ As a guide in developing timeline, please view the workback timeline calculator 
   * Check that you received the follow up email
   * Final QA of confirmation email copy
   * Final QA that the confirmation email link sends to Pathfactory with the tracking for the email address  (`&lb_email=[email submitted in form]`)
-
-</details>
-
-## Adding new content to the Resources page
-{: #add-to-resources-page .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-*Note from `@jgragnola`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
-
-1. Begin a new MR from [the resources yml](https://gitlab.com/gitlab-com/www-gitlab-com/edit/master/data/resources.yml)
-2. Use the code below to add a new entry with the relevant variables
-3. Add commit message `Add [resource name] to Resources page`, rename your target branch, leave "start a new merge request with these changes" and click "Commit Changes"
-5. Assign the merge request to yourself
-6. When you've tested the MR in the review app and all looks correct (remember to test the filtering!), assign to `@jgragnola`
-7. Comment to `@jgragnola` that the MR is ready to merge
-
-**Code:**
-```
-- title: 'Add name of resource - shorten if necessary'
-  url: 
-  image: /images/resources/security.png
-  type: 'eBook'
-  topics:
-    - 
-    - 
-  solutions:
-    - 
-    - 
-  teaser: 'Add a teaser that relates to the contents of the resource'
-```
-
-**Example:**
-```
-- title: '10 Steps Every CISO Should Take to Secure Next-Gen Software'
-  url: /resources/ebook-ciso-secure-software/
-  image: /images/resources/security.png
-  type: 'eBook'
-  topics:
-    - DevSecOps
-    - Security
-  solutions:
-    - Security and quality
-  teaser: 'Learn the three shifts of next-gen software and how they impact security.'
-```
-
-**IMAGES to choose from (select one):**
-*[Shortcuts to Images Folder](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/resources)
-* `/images/resources/cloud-native.png`
-* `/images/resources/code-review.png`
-* `/images/resources/continuous-integration.png`
-* `/images/resources/devops.png`
-* `/images/resources/git.png`
-* `/images/resources/gitlab.png`
-* `/images/resources/security.png`
-* `/images/resources/software-development.png`
-* `/images/resources/resources-gitops.png`
-
-**TOPICS to choose from (add all that apply):**
-*Note from @jgragnola: let's see if we can align this with topics in Pathfactory for efficiency (if we don't go the route of Pathfactory explore page).*
-
-* Agile
-* CD
-* CI
-* Cloud Native
-* DevOps
-* DevSecOps
-* Git
-* GitLab
-* Public Sector
-* Security
-* Single Applicaton
-* Software Development
-* Toolchain
-
-## How to retire analyst assets when they expire
-{: #retire-analyst-assets .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-*Note from @jgragnola: this process needs a lot of work and should be minimal time spent by campaigns team. Create section for ungated journeys, and section (hidden) for former gated pages, and pass to Verticurl.*
-
-* An [Expiration Issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-expire-analyst) will be open for each analyst asset, and related to the overarching Epic upon gating (with due date for when the asset is set to expire)
-* At times, we will extend the rights to an asset if it is heavily used by sales or performing well in later stage nurture. In that case the decisio nis indicated in the Expiration Issue, and the team is updated.
-
-### Retire Marketo landing page
-{: #retire-marketo-page .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-**First you will remove the form from the page and add a "no longer available" message**
-* In the Marketo program, click "edit" on the Registration Page
-* On right rail under "Variables" (below "Elements"), find `2column Visibility` and switch to "Hidden" 
-* On right rail under "Variables" (below "Elements"), find `2column Sidebar` and switch to "No Sidebar" 
-* On right rail under "Variables" (below "Elements"), find `flex1 Visibility` and switch to "Visible"
-* In flex1 section, double-click then click to edit in HTML > add the code below into the section and save
-* Approve Landing Page and test live. You should no longer be able to see the form or paragraph text, and only see the notice about resource no longer being available. 
-
-```
-<h1>This resource is no longer available.</h1>
-<p>Thank you for your interest in this resource, but it is no longer available for download. <a href="https://about.gitlab.com/analysts/" target="_blank" id="">Click here to visit our industry analysts page to view other reports and best practices!</a></p>
-```
 
 ## Potential backup process
 {: #retire-marketo-page .gitlab-purple}
