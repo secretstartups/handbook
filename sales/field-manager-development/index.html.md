@@ -21,7 +21,7 @@ All people managers in the GitLab field organization
 ## Approach
 Managers will participate in a series of quarterly training & reinforcement exercises throughout FY22. While there will be formal training elements, a large focus will be on social learning (learning from others) and practical, real-world application to convert knowledge to action.
 - **Q1FY22** (2021-03-22): Program Launch & Recruiting Top Talent (virtual)
-- **Q2FY22** (Dates TBD): Field Manager Challenge (virtual)
+- **Q2FY22** (2021-05-24, 2021-05-26, and 2021-06-02): Field Manager Challenge (virtual)
 - **Q3FY22** (Dates TBD): Field Manager Summit (in-person at Contribute)
 
 ## Topics
@@ -46,13 +46,13 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 - [Assessing Candidates](https://youtu.be/OZMqIdrnaEg) (10 minutes, GitLab internal only)
 
 ### What is a High Performing Team
-- Coming soon
+- Please complete the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) by or before 2021-05-24
 
 ### Organizational and Team Health
-- Coming soon
+- Please see pre-work assignment above
 
 ### Giving Feedback and Coaching
-- Coming soon
+- Please see pre-work assignment above
 
 ### Management Operating Rhythm
 - Coming later this year
@@ -65,7 +65,6 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
     - [Helen Mason](/company/team/#hmason) (Area Sales Manager (SMB), EMEA)
     - [Jacob Potter](/company/team/#jpotter1) (Area Sales Manager, Mid Market First Order)
     - [Robbie Byrne](/company/team/#RobbieB) (Area Sales Manager, EMEA)
-    - [Tom Plumadore](/company/team/#Plumadore) (Area Sales Manager, ENT AMER Southeast)
     - [Dave Astor](/company/team/#disastor) (Manager, Solutions Architects, US East) 
     - [Michael Leutz](/company/team/#mrleutz) (Manager, Technical Account Managers, EMEA)
 
