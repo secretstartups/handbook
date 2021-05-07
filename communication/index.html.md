@@ -462,9 +462,7 @@ As we continue to build on [inclusion](https://about.gitlab.com/handbook/values/
 1. Please do not mention working outside of working hours, we want to minimize the pressure to do so.
 1. Please do not celebrate GitLab contribution graphs that include working for uninterrupted weeklong cycles, as this does not foster healthy [work/life harmony](/company/culture/all-remote/people/#worklife-harmony) for all team members. While GitLab team members are free to time-shift and work weekends in place of weekdays, we discourage celebrating the absence of time away from work.
 1. Don't thank the CEO or other executives for something that the company paid for, thank GitLab instead.
-1. To thank someone who is not a team member please mention a Community Advocate, the name of the person, a quirky gift
-and link to their work. For example, "@manager, @communityadvocate: Joe deserves a lawnmower for _link_". The Community Advocate will approach the person in question for their address saying we want to send some swag. We'll ship it in gift wrap with "Thanks for your great work on _link_, love
-from @gitlab".
+1. To thank someone who is not a team member, you can [nominate them for community swag](/handbook/marketing/community-relations/code-contributor-program/community-appreciation/).  
 1. Understand that everyone doesn't need or want recognition.  Once this is advised, please respect when they don't.
 
 ## Values emoji
