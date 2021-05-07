@@ -204,11 +204,10 @@ Only add items to the internal handbook that fall into the [not public](/handboo
 
 **Updating from the Website:** 
 
-1. a  
-
-**Updating from the Project:** 
-
-1. a 
+1. You are on the [live internal handbook website](https://internal-handbook.gitlab.io/handbook/)
+1. Click "Edit this Page" in the bottom left. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source). 
+1. Click folder titled "Source"
+1. If there is already a section you want to add to, you can select that folder now, go into the appropriate folder, and edit. If the section you are needing has not been created yet, click on the "+" and create a "new file".  
 
 #### Accessing the internal handbook group.
 
