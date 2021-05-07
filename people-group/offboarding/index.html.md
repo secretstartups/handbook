@@ -294,8 +294,6 @@ As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/pe
 However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on sharing a company-wide message about their departure. 
 
 Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departing team member’s manager shares the following message company-wide about the team member’s upcoming departure in the `#team-member-updates` Slack channel. 
-(If they choose not to then the departing team member's manager can share a different message in the `#team-member-updates` Slack channel.)
-
 Managers can use this template as a guide on how to communicate a team member’s upcoming departure:
 
 ```
