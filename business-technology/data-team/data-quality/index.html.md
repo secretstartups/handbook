@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Quality"
-description: "The GitLab Data Quality Program seeks to identify, monitor, and remediate problems with Data that effect GitLab's productivity and efficiency."
+description: "The GitLab Data Quality Program seeks to identify, monitor, and remediate problems with Data quality that effect GitLab's productivity and efficiency."
 ---
 
 ## On this page
@@ -16,7 +16,7 @@ description: "The GitLab Data Quality Program seeks to identify, monitor, and re
 
 The **GitLab Data Quality Program** focuses on improving GitLab's productivity and efficiency through continual improvement to Data.
 The program works to accomplish this goal by creating reliable processes to identify, monitor, and fix Data problems.
-The scope of Data Quality all GitLab managed data and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large volumes of data data at scale.
+The scope of Data Quality all GitLab managed data and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large volumes of data at scale and across multiple source systems.
 
 **Do you have a Data Quality issue?** Please see [Data Quality Issue Workflow](handbook/source/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow) to get started.
 {: .alert .alert-success}
@@ -35,7 +35,7 @@ An example of Missing Data is a NULL ZIPCODE value within an address record.
 
 - **Duplicate Data**: Duplicate Data is the same data repeated when it should not be repeated.
 Duplicate data can be complex to identify because duplicates can naturally occur based on how data is reported.
-An example of Duplicate Data is two identical customer records in a CUSTOMER master table.
+An example of Duplicate Data is two (almost) identical customer records in a CUSTOMER master table and are related to a single 'real world' customer.
 
 ## Data Quality System Components
 
