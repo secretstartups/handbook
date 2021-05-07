@@ -43,7 +43,7 @@ In some cases a user may see an error:
    - `json.jsonPayload.user_id: <user_id>`
 1. Observe the `msg` and `rejection_hint` fields to understand why the pipeline was blocked.
 
-For more, see the [pvs-runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/pvs-runbooks/docs/pipeline-validation-service/README.md#logging) (GitLab internal only)
+For more, see the [pvs-runbook](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/pipeline-validation-service/README.md#logging)
 
 The rules are documented in the [Trust and Safety - Repository Validation Service repository](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/pipeline-validation-service/-/blob/master/rules/rules.yaml)(GitLab internal only)
 
