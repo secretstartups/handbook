@@ -25,9 +25,13 @@ graph TD
     A -->|Yes| B{Is the ticket tied to an org?}
     A -->|No| H[Check if it falls under 'Other Requests']
     B -->|Yes| D{Does the ticket have an SLA?}
-    B -->|No| E[Use Needs Org workflow: Find and associate the organization]
+    B -->|No| J[Is it a Free User?]
     D -->|Yes| C[Done]
     D -->|No| F[Use SLA and Queue workflow: Take appropriate action]
+    J --> |No| E[Use Needs Org workflow: Find and associate the organization]
+    J --> |Yes| I[Does it quality for Support?]
+    I --> |No| K[Set form to 'Community']
+    I --> |Yes| E
 ```
 
 ## Applying the Correct Form
