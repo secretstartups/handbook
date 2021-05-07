@@ -22,12 +22,9 @@ Your access will be deactivated on your last day, when the offboarding issue is 
 
 ##### Can I provide my own update in the Team Member Updates Slack Channel?
 
-Yes! Once there is alignment with your leadership around timelines and interim team management (when 
-necessary), if you would like to provide GitLab Team Members (via #team-member-updates) an update 
-prior to your departure as to your reasons for leaving and one that is separate from the 
-manager-provided update, you are welcomed to do so. Please consider including your favorite 
-contribution to the handbook or use the update to express gratitude towards teams and individuals 
-that have made your experience at GitLab positive. 
+Departing team members are encouraged to work with their Manager to compile and release an announcement in the #team-member-updates channel.  This should only take place once there is complete alignment with your leadership around the timelines involved and the impacted team/stakeholders have been informed.
+
+A guideline and template for managers has been provided in the [Communicating Departures Company-Wide](https://about.gitlab.com/handbook/people-group/offboarding/#communicating-departures-company-wide) section of the Offboarding Guidelines which highlights options to add a little color to the announcement e.g. favourite contribution to the handbook in addition to outlining what [information should and should not](https://about.gitlab.com/handbook/people-group/offboarding/#what-do-we-share).
 
 ##### Do I need to wipe my laptop?
 
