@@ -202,7 +202,7 @@ As a company, we are [public by defualt](/handbook/values/#public-by-default), b
 
 Only add items to the internal handbook that fall into the [not public](/handbook/communication/#not-public) category. Everything else should be added to our [public company handbook](/handbook/). 
 
-**Updating from the Website:** 
+**Updating the Internal Handbook:** 
 
 1. You are on the [live internal handbook website](https://internal-handbook.gitlab.io/handbook/)
 1. Click "Edit this Page" in the bottom left. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source). 
