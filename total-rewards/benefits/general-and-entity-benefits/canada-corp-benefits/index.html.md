@@ -470,8 +470,10 @@ Great West Life uses the first day cohabitating as the date of eligibility to en
 
 ## Administrative Processes 
 
-**Adding a Beneficiary Designation Form to Collage:** 
+**Adding a Beneficiary Designation to Collage:** 
 1. Login to [Collage](https://secure.collage.co/)
-2. On the home page, navigate to the "Need Help" box and select submit a request. 
-3. Fill out the form and attach the beneficiary designation form. 
-The team member cannot upload this directly so it must be uploaded on behalf of the team member by the total rewards team. 
+2. Top right corner, where your initials are – click on initials
+3. Click on “Your Profile”
+4. Go to “Beneficiaries and Dependents” (this section states – add, change or remove beneficiaries and dependents)
+5. Click to review – “Your Benefits”
+6. If able to update – please update in this section 
