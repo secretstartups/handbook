@@ -14,44 +14,26 @@ description: "GitLab Data Team Workflow"
 
 ---
 
-### Working with the Data Team
+## Working With The Data Team
 
-1. Once a KPI or other Performance Indicate is defined and assigned a prioritization, the metric will need to be added to Sisense by the data team.
-1. **Before** syncing with the data team to add a KPI to Sisense, the metric must be:
-    - Clearly defined in the relevant section in the handbook and added to the GitLab KPIs [with all of its parts](/handbook/ceo/kpis/#parts-of-a-kpi).
-    - Reviewed with the Financial Business Partner for the group.
-    - Approved and reviewed by the executive of the group.
-1. Once the KPI is ready to be added into Sisense, create an issue on the [GitLab Data Team Issue Tracker](https://gitlab.com/gitlab-data/analytics/issues) using the [KPI Template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/KPI%20Template.md) or [PI Request Template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/Visualization%20or%20Dashboard-%20New%20Request.md).
-    - The Data team will verify the data sources and help to find a way to automate (if necessary).
-    - Once the import is complete, the data team will present the information to the owner of the KPI for approval who will document in the relevant section of the handbook.
+We're happy to help you achieve your goals with Data. Most of our work is driven through our [Data Fusion Teams](/handbook/business-technology/data-team/#how-data-teams-work-together), but we do [reserve some capacity](/handbook/business-technology/data-team/how-we-work/#standing-priorities) to work on  requests not linked to these initiatives. Here's the process to follow to create a new Data issue:
 
-### SLO for Issues and Merge Requests
+1. Open a **New Issue** in the [Data Team Analytics Project](https://gitlab.com/gitlab-data/analytics/-/issues) 
+2. Choose a **Template** from the table below that best matches the work you'd like us to perform
+3. Complete the templated **Description** as completely as possible.
+4. Leave the **Assignees** blank. The Data Team will process your request as a part of our [Daily Triage](/handbook/business-technology/data-team/how-we-work/triage/).
 
-- First-Response SLO for a new Issue or MR: 36 hours from the time of creation
-- Issue Close SLO is based on the [Issue Weight](/handbook/business-technology/data-team/how-we-work/#issue-pointing) assigned by the Data Team.
-    - Issue weight of 1-5 points: 4 weeks (2 milestones)
-    - Issue weight > 5 points: No SLO
-- MR Review SLO
-    - 4 weeks (2 milestones)
+**New Issue**
 
-### Request to Expedite Responses
+| Request Type | Template To Choose | 
+| ----- | ----- |
+| [New Dashboard](https://gitlab.com/gitlab-data/analytics/-/issues) | 'Visualization or Dashboard - New Request' |
+| [Add Data Source](https://gitlab.com/gitlab-data/analytics/-/issues) | 'New Data Source' |
+| [Data Export](https://gitlab.com/gitlab-data/analytics/-/issues) | 'Data Export Request' |
+| [New KPI](https://gitlab.com/gitlab-data/analytics/-/issues) | 'KPI Template' |
+| [Data Quality Issue](https://gitlab.com/gitlab-data/analytics/-/issues) | `Coming soon` |
 
-Requests to expedite responses, triage issues, or review MRs is rare. Given the Data Team's shared-service model, expediting an item is asking to de-prioritize other work. To request an expedited response:
-
-1. Confirm there is a valid reason for moving your request ahead of others.
-1. Post a note to #data, along with a link to your Issue and a reason why you need an expedited response. Please do not DM an individual on the Data Team directly.
-1. A member of the Data Team will respond within 1 business day.
-
-### Can I get an update on my dashboard?
-
-The data team's priorities come from our OKRs.
-We do our best to service as many of the requests from the organization as possible.
-You know that work has started on a request when it has been assigned to a milestone.
-Please communicate in the issue about any pressing priorities or timelines that may affect the data team's prioritization decisions.
-Please do not DM a member of the data team asking for an update on your request.
-Please keep the communication in the issue.
-
-## <i class="fas fa-tasks fa-fw icon-color font-awesome" aria-hidden="true"></i>How we Work
+## How we Work
 
 ### Documentation
 
@@ -67,11 +49,11 @@ The Data Team uses a **Value Calculator** to quantify the business value of new 
 
 Every day in Data brings a new challenge or opportunity. However, The Data Team strives to spend the majority of its time developing and operating the Enterprise Data Warehouse and related systems, keeping fresh data flowing through the system, regularly expanding the breadth of data available for analysis, and delivering high-impact strategic projects. Our standing priorities are listed below.
 
-| Rank | Priority              | Description                                                                                                                                                                                                                                              | Allocation We Aspire To                                                      |
-| ---- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 1    | Production Operations | Activities required to maintain efficient and reliable data services, including triage, bug fixes, and patching to meet established [Service Level Objectives](/handbook/business-technology/data-team/platform/#slos-service-level-objectives-by-data-source). | 10-20%, though will fluctuate as driven by incident frequency and complexity |
-| 2    | Data Team OKRs        | The Data Team identifies 3-4 strategic-level OKRs per quarter, primarily focused on core infrastructure and data development that will be beneficial to the entire company, aligned with CEO and Finance OKRs.                                           | 60-75%, though this will fluctuate as driven by larger Functional Team OKRs  |
-| 3    | Other work            | Other work, including Functional Team OKRs, as prioritized and ranked using the Value Calculator.                                                                                                                                                        | 15-25%                                                                       |
+| Rank | Priority | Description| Target Allocation |
+| --- | --- | --- | --- |
+| 1  | Production Operations | Activities required to maintain efficient and reliable data services, including triage, bug fixes, and patching to meet established [Service Level Objectives](/handbook/business-technology/data-team/platform/#slos-service-level-objectives-by-data-source). | 10-20%, though will fluctuate as driven by incident frequency and complexity |
+| 2  | Data Team OKRs | The Data Team identifies 3-4 strategic-level OKRs per quarter, primarily focused on core infrastructure and data development that will be beneficial to the entire company. | 60-75%, though this will fluctuate as driven by larger Functional Team OKRs  |
+| 3  | Other | Other work, including Functional Team OKRs, as prioritized and ranked using the Value Calculator | 15-25% |
 
 We use [scoped labels in GitLab](https://gitlab.com/groups/gitlab-data/-/labels?utf8=%E2%9C%93&subscribed=&search=priority%3A%3A) to track our issues across these priorities.
 
@@ -85,81 +67,9 @@ The calculator below is based on the following [Value Calculator](https://docs.g
 
 <%= partial 'includes/data_team_value_calculator_vue' %>
 
-### OKR Planning
+### Quarterly and Milestone Planning
 
-The Data Team OKRs aspire to align with Business Technology OKRs, Finance Division OKRs, and CEO OKRs, thereby aligning with the OKRs of the Divisions we support. Due to the nature of the the technical and data infrastructure work required to develop and operate an Enterprise Data Warehouse this will not always be the case.
-
-At the beginning of a FQ, the Data Team will outline all actions that are required to succeed with our KRs _and_ in helping other teams measure the success of their KRs.
-The best way to do that is via a team brain dump session in which everyone lays out all the steps they anticipate for each of the relevant actions.
-This is a great time for the team to raise any blockers or concerns they foresee.
-These should be recorded for future reference.
-
-These OKRs drive ~60% of the work that the central data team does in a given quarter.
-The remaining time is divided between urgent issues that come up and ad hoc/exploratory analyses.
-
-Examples of OKR alignment _in-action_ includes:
-
-1. [FY21-Q2 CEO](https://about.gitlab.com/company/okrs/fy21-q2/) Objective 2, aligns to [Data Team Objective 2](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/80) for delivering automated data pipelines in support of Growth initiatives.
-1. [FY21-Q2 CEO](https://about.gitlab.com/company/okrs/fy21-q2/) Objective 3, KR4 and KR5 align to [Data Team Objective 1](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/79) to deliver a Finance ARR Data Mart.
-
-### Milestone Planning
-
-The data team currently works in two-week intervals, called milestones.
-Milestones start on Tuesdays and end on Mondays.
-This discourages last-minute merging on Fridays and allows the team to have milestone planning meetings at the top of the milestone.
-
-Milestones may be three weeks long if they cover a major holiday or if the majority of the team is on vacation or at Contribute.
-As work is assigned to a person and a milestone, it gets a weight assigned to it.
-
-Milestone planning should take into consideration:
-
-- vacation timelines
-- conference schedules
-- team member availability
-- team member work preferences (specialties are different from preferences)
-
-
-The timeline for milestone planning is as follows:
-
-- Meeting Preparation - Responsible Party: Milestone Planner
-    - Investigate and flesh out open issues.
-    - Assign issues to the milestone based on alignment with the Team Roadmap.
-    - Note: Issues are not assigned to an individual at this stage, except where required.
-
-| Day               | Current Milestone                                                                                                                                            | Next Milestone                                                                                                                                                                                                             |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 - 1st Wednesday | **Milestone Start** <br><br>[Roll Milestone](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Milestone%20Rolling)                      | -                                                                                                                                                                                                                        |
-| 7 - 2nd Tuesday   | **Midpoint** <br><br>Any issues that are at risk of slipping from the milestone must be raised by the assignee                                               | -                                                                                                                                                                                                                        |
-| 10 - 2nd Friday   | **The last day to submit MRs for review** <br><br>MRs must include documentation and testing to be ready to merge <br><br>No MRs are to be merged on Fridays, or on Thursday in the case of Family and Friends Day. | **Milestone is roughly final** <br><br>Milestone Planner verifies issue priority and team capacity for next milestone.                                                                                                     |
-| 13 - 2nd Monday   | **Last day of Milestone** <br><br>Ready MRs can be merged                                                                                                    | -                                                                                                                                                                                                                        |
-| 14 - 2nd Tuesday  | **Meeting Day** <br><br> All unfinished issues either need to be removed from milestones or rolled to the next                                               | **Milestone Planning** <br><br> Scheduled DE meeting with a tactical discussion of the work to be completed next Milestone. Stakeholders and submitters are updated with what will or wont be added to the next milestone. |
-
-The short-term goal of this process is to improve our ability to plan and estimate work through better understanding of our velocity.
-In order to successfully evaluate how we're performing against the plan, any issues not raised at the T+7 mark should not be moved until the next milestone begins.
-
-During the milestone planning process, we point issues.
-Then we pull into the milestone the issues expected to be completed in the timeframe.
-Points are a good measure of consistency, as milestone over milestone should share an average.
-Then issues are prioritized according to these categories.
-
-Issues are not assigned to individual members of the team, except where necessary, until someone is ready to work on it.
-Work is not assigned and then managed into a milestone.
-Every person works on the top priority issue for their job type.
-As that issue is completed, they can pick up the next highest priority issue.
-People will likely be working on no more than 2 issues at a time.
-
-Data Engineers will work on Infrastructure issues.
-
-There is a demo of [what this proposal would look like in a board](https://gitlab.com/groups/gitlab-data/-/boards/1187725).
-
-This approach has many benefits, including:
-
-1. It helps ensure the highest priority projects are being completed
-1. It can help leadership identify issues that are blocked
-1. It provides leadership view into the work of the data team, including specialty analysts whose priorities are set from outside the data function
-1. It encourages consistent [merge request rate](/handbook/engineering/metrics/) from team members
-1. It makes clear to stakeholders where their ask is in priority
-1. It helps alleviate the pressure of planning the next milestone, as issues are already ranked
+Our planning process is called the [Planning Drumbeat](handbook/business-technology/data-team/planning/) and it encompasses Quarterly Planning and [Milestone Planning](/handbook/business-technology/data-team/planning/#milestone-planning). The Planning Drumbeat is one of the most important activities the Data Team performs because it helps us align our work with the broader company, while remaining agile enough to manage shifting business priorities.
 
 ### Issue Types
 
@@ -186,7 +96,7 @@ This helps verify that numbers are accurate and the original data source and the
 
 This umbrella term helps capture:
 
-- inbound requests from GitLab team-members that usually materialize into a dashboard
+- inbound requests from GitLab team-members that usually materialize into a report, dashboard, model, or new data source
 - housekeeping improvements/technical debt from the data team
 - goals of the data team
 - documentation notes
@@ -301,6 +211,43 @@ Other tips:
 1. Reviewers should have 48 hours to complete a review, so plan ahead with the end of the milestone.
 1. When possible, questions/problems should be discussed with your reviewer before submitting the MR for review. Particularly for large changes, review time is the least efficient time to have to make meaningful changes to code, because you’ve already done most of the work!
 1. Consider bringing the latest commits from the primary branch so the MR is caught up. You can do this quickly by typing `/rebase` into a comment and GitLab will make this happen automatically, barring any merge conflicts.
+
+
+##### KPI Development Workflow
+
+1. Once a KPI or other Performance Indicate is defined and assigned a prioritization, the metric will need to be added to Sisense by the data team.
+1. **Before** syncing with the data team to add a KPI to Sisense, the metric must be:
+    - Clearly defined in the relevant section in the handbook and added to the GitLab KPIs [with all of its parts](/handbook/ceo/kpis/#parts-of-a-kpi).
+    - Reviewed with the Financial Business Partner for the group.
+    - Approved and reviewed by the executive of the group.
+1. Once the KPI is ready to be added into Sisense, create an issue on the [GitLab Data Team Issue Tracker](https://gitlab.com/gitlab-data/analytics/issues) using the [KPI Template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/KPI%20Template.md) or [PI Request Template](https://gitlab.com/gitlab-data/analytics/blob/master/.gitlab/issue_templates/Visualization%20or%20Dashboard-%20New%20Request.md).
+    - The Data team will verify the data sources and help to find a way to automate (if necessary).
+    - Once the import is complete, the data team will present the information to the owner of the KPI for approval who will document in the relevant section of the handbook.
+
+##### Data Quality Issue Workflow
+
+_Ideally_, your workflow should be as follows:
+
+1. Create an issue, open an existing issue, or assign yourself to an existing issue. The issue is assigned to the person(s) who will be doing the work.
+1. Add appropriate labels to the issue (see above)
+    - The Data Team will Triage the issue and assign it a priority.
+
+### SLO for Issues and Merge Requests
+
+- First-Response SLO for a new Issue or MR: 36 hours from the time of creation
+- Issue Close SLO for a new Issue or MR is based on the [Issue Weight](/handbook/business-technology/data-team/how-we-work/#issue-pointing) assigned by the Data Team.
+    - Issue weight of 1-5 points: 4 weeks (2 milestones)
+    - Issue weight > 5 points: No SLO
+- MR Review SLO
+    - 4 weeks (2 milestones)
+
+### Request to Expedite Responses
+
+Requests to expedite responses, triage issues, or review MRs is rare. Given the Data Team's shared-service model, expediting an item is asking to de-prioritize other work. To request an expedited response:
+
+1. Confirm there is a valid reason for moving your request ahead of others.
+1. Post a note to #data, along with a link to your Issue and a reason why you need an expedited response. Please do not DM an individual on the Data Team directly.
+1. A member of the Data Team will respond within 1 business day.
 
 ### Customer Satisfaction Survey (CSAT)
 
