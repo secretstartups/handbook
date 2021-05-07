@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Pricing and Packaging - GitLab for Campuses"
-canonical_path: "/product/packaging-and-pricing/gitlab-for-campuses/"
+canonical_path: "/handbook/product/packaging-and-pricing/gitlab-for-campuses/"
 ---
 
 ## On this page
