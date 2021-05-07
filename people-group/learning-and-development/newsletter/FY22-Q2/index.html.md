@@ -16,7 +16,7 @@ You can find more information on the [structure and process](/handbook/people-gr
 This quarter we are learning from [Christie Lenneville](/company/team/#clenneville). 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_FTV3xexuL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSc4UnzqN1Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 Check out Christie's favorite learning resource from the past year - [Executive Leadership LinkedIn Learning Course](https://www.linkedin.com/learning/executive-leadership/take-action-to-lead?u=2255073).  
