@@ -58,6 +58,8 @@ All GitLab team members are eligible for the [Referral Bonus](/handbook/incentiv
 
 #### Submitting a Referral
 
+Before submitting your referral, please check the [Country Hiring Guidelines](https://about.gitlab.com/handbook/people-group/employment-solutions/#country-hiring-guidelines) page, **Entity** and **PEO** sections, to see if GitLab can hire in the country where your referral lives. If the country is **not** listed or is marked as `Not Open for Hiring`, we will have to reject the candidate for the open vacancy.
+
 All GitLab Team Members can submit a referral by either submitting them directly through Greenhouse - if the vacancy is open **externally** - or by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) using the `Referral Submission` template if the vacancy is open **internally**. We ask that you please try to submit the referral in Greenhouse first and, in the event that you can't find the vacancy, use Issues as the second option.
 
 ##### Submitting a Referral in Greenhouse
