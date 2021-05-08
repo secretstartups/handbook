@@ -135,6 +135,8 @@ Virtual visits for Cigna members can be accessed by visiting [myCigna](https://m
 
 #### Kaiser 2021 Calendar Year Plans
 
+In addition to the Cigna plans offered above, the following plans are also an option for team members in the United States located in California, Colorado, and Hawaii. 
+
 **Coverages:**
 
 | Plan Details               | [HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing)       | [HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)    | [HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing)     | [HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)       |
