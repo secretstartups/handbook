@@ -47,6 +47,25 @@ Reimbursements above $1,000 USD will be paid via payroll in the following pay cy
 
 If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab. If you opted to receive 50% of the reimbursement up front but the total amount on your form is at least $1,000 USD, the amount will still need to be refunded back to GitLab.
 
+#### Approval Flow for Benefits over $1,000
+
+If requesting over $1,000 for the Growth & Development benefit, the approval flow will follow the following sequence: 
+1. Form uploaded into HelloSign and sent
+2. Team Member signature
+3. Direct Manager signature
+4. [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) signature
+5. Executive Signature: E-Group or C-Suite Member 
+6. Once all signatures have been signed, the form will be saved in the team member's Bamboo HR file under the Documents tab, Growth & Development folder
+
+If approvals are taking longer than expected, the team member should send a message to all signatures to ask them to sign. 
+
+**Field organization executive signatures should be routed by the following:**
+- Enterprise Sales: Mike Pyle (VP of Enterprise Sales)
+- Customer Success: David Sakamoto (VP of Customer Success)
+- Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
+- Field Operations: David Hong (VP of Field Operations)
+- Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
+
 ### How to Apply for an Exception
 
 GitLab understands that tuition costs for academic study can cost more than the $10,000 USD yearly limit. If you have a strong business justification to take up a course or degree and the tuition costs will exceed this limit, then you can apply for an exception (for a maximum amount of up to $20,000 USD per calendar year). To apply, send Total Rewards and Learning & Development an e-mail (keep your manager copied) with the course information, business justification for the exception and the yearly cost. Please send the e-mail at least 30 days before your course commencement date.
