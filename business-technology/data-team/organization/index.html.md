@@ -14,16 +14,13 @@ description: "GitLab Data Team Organization"
 
 ---
 
-## <i class="far fa-compass fa-fw icon-color font-awesome" aria-hidden="true"></i> Team Organization
+## Data Team Organization
 
-The Data Team is organized into centers of technical and subject matter excellence, completemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivery data solutions that we call **Fusion Teams**.
-Each Fusion Team supports one or more business divisions  and works with stable business counterparts to coordinate priorities and requirements.
+The Data Team is organized into centers of technical and subject matter excellence, completemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivery data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform-team).
 
-The data fusion model emphasizes 2 elements:
-1. Enagagement with Business Partners & Data Champions to build better products and drive towards the same goal
-1. Visibility and Transparency around the plans, processes, and projects we use to reach those goals
+### Fusion Team Assignments
 
-| **Go To Market (GTM)** | **Product** | **G&A** |
+| **GTM** | **R&D** | **G&A** |
 | ----- | ----- | ----- |
 | `@iweeks` _Lead/DRI_ | `@rparker2` (Acting) _Lead/DRI_	| `@rparker2` (Acting) _Lead/DRI_ | 
 | `@jeanpeguero` |	`@mpeychet` |  |
@@ -32,8 +29,11 @@ The data fusion model emphasizes 2 elements:
 | `@ken_aguilar` |	`@laddula` | |	
 | `@michellecooper` | | |
 						
-### Engagement with Business Partners and Data Champions includes:
+## How Data Fusion Teams Work
 
+Critical to successful Data Fusion Teams are the following elements:
+
+1. Regular and transparent Engagement with Business Partners and Data Champions includes
 1. Bi-weekly Issue/Status updates
 1. Monthly Priority Alignment
 1. Quarterly OKR review
