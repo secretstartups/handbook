@@ -172,7 +172,7 @@ GitLab offers company paid International Group Life and Disability Plans through
 **Paternity Leave:** Team members can take up to 2 weeks of Paternity Leave.
 
 #### Maternity Leave Payment
-* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 26 weeks.
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
 
 #### Paternity Leave Payment
 * If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
@@ -306,3 +306,57 @@ To initiate your parental leave, submit your time off by selecting the `Parental
 #### Adoption Leave
 
 Adoptive parents can take paid leave for 14 weeks post-adoption. The adoptive parents can share the leave of 14 weeks between them, but only one of them can take leave at a given time. Additionally, one of the adoptive parents is entitled to paid leave of 2 consecutive weeks within the first 14 weeks after adoption of the child, allowing the adoptive parents to be on leave together during this period.
+
+## Latvia
+
+All of the benefits listed below are administered and managed by [Global Upside](https://globalupside.com/).
+
+### Medical (Healthcare Monthly Allowance)
+
+* Healthcare Monthly Allowance will be paid by Global Upside as an allowance to the team members for their own Medical Coverage.
+* This amount will be paid on monthly basis with the regular payroll as a reimbursement.
+* Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount.
+* The allowance will be up to 300 USD per month for team member and up to 500 USD per month for team member plus Dependents. (USD amount can be converted to the local currency using the latest [Currency Conversion Factor](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates))
+* The Total Rewards team will send a confirmation email to Global Upside to have the reimbursement processed.
+
+### Pension
+
+GitLab does not plan to offer pension benefit at this time as Latvia has their Pension system called as [State Funded Pension Scheme](https://latvija.lv/en/PPK/Socialie-pakalpojumi/Pensijas-un-pensiju-zmaksas). 
+
+### Life Insurance
+
+Most companies in Latvia do not offer life insurance as part of the benefits package. GitLab, similarly, does not offer a life insurance plan to the Team members.
+
+### Global Upside - Latvia Leave Policy
+
+#### Statutory Parental Leave
+
+**Maternity Leave:** 
+Team members are entitled to up to 56 calendar days of prenatal leave and 56 calendar days of maternity leave for a total of 112 days. 
+
+* Supplementary _prenatal_ leave of 14 days may be granted (for a total of 70 days of prenatal leave)if a woman who has initiated pregnancy-related medical care at a preventive medical institution by the 12th week of pregnancy has continued for the whole period of pregnancy.
+
+* Supplementary _maternity_ leave of 14 days bay be granted (for a total of 70 days of maternity leave) if there are complications in pregnancy, childbirth, or the postnatal period or if two or more children are born.
+ 
+**Paternity Leave:** 
+Team members are entitled to take up to 10 days of Paternity Leave which must be taken within the first two months of the child’s birth. 
+
+* In the event that the mother has died, refuses to care for the child, or cannot take care of the child due to illness, injury, or other health-related reason up to the 42nd day of the period following childbirth, the father (or another person who actually takes care of the child) will be entitled to leave for the period up to the 70th day of the child’s life. 
+
+**Adoption Leave**
+For a family which has adopted a child up to 18 years of age, one of the adopters is entitled to 10 days of leave.
+ 
+**Parental Leave**
+All team members are entitled to up to 1 ½ years of parental leave for the birth or adoption of a child until the child reaches eight years old. 
+* This leave may be taken in a single period or in parts. If taken in parts, the total leave must not exceed  1 ½ years. 
+* Team members must notify Total Rewards one month in advance of beginning parental leave, and at least two weeks in advance if returning from leave early. 
+
+
+#### Maternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Paternity Leave Payment
+* If you are [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), you will receive 100% paid Parental Leave from GitLab for up to 16 weeks.
+
+#### Applying for Parental Leave in Latvia
+To initiate your parental leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
