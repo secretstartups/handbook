@@ -59,11 +59,6 @@ Beyond the fore-mentioned engagement, we also have Monthly Release Communication
 
 Data Team Demos are available in [our YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). Every GitLab Team Member is invited to attend our [weekly Data Team Demo session](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTAzMDRUMTYwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL).
 
-### Development Approach
-
-To stay engaged and transparent in our work, we want our stakeholders to understand how the data team works and what they can expect out of us when we engage. We aim to follow the development process in the diagram below. This approach allows us to capture the requirements and goals of stakeholders upfront and include them in the process as we develop iteratively towards the end solution.
-![data team development_process](data_team_development_process.png)
-
 ### Data Team Roles:
 
 <div class="flex-row" markdown="0" style="height:80px">
