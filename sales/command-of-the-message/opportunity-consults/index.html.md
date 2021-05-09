@@ -25,6 +25,18 @@ Below is a general recommendation of the format and flow of an opportunity consu
 | Manager Consult (30 minutes) | - Job aid: [Opportunity Coaching Guide](https://docs.google.com/document/d/1IZA9Fo2SvZOrtUVpXOjwwqs76lKdXFs4hTezbxRq5v8/edit?usp=sharing) <br> - Ask open-ended, two-sided questions around focus areas to inspect (in a good, helpful way) the opportunity <br> - Provide relevant feedback and coaching based on the identified gaps and challenges <br> - Assist the seller in defining an action plan and exactly “how” to execute on the next steps |
 | Manager + Seller Agree to Action Plan (5 minutes) | - Seller recaps opportunity-specific sales strategy <br> - Seller documents next steps/critical actions in CRM or via email to manager |
 
+## Opportunity Consult Coverage
+Regular opportunity consults on strategic deals are a linchpin to successfully reinforcing and sustaining the critical skills and behaviors underlying [Command of the Message](/handbook/sales/command-of-the-message/) and [MEDDPPICC](/handbook/sales/meddppicc/) that maximize the likelihood of winning and securing the customer's business. To improve win rates, forecast accuracy, and predictability, front-line sales managers should conduct at least one opportunity consult every 30 days for any and all opportunities that warrant a full Command Plan as outlined [here](/handbook/sales/command-of-the-message/command-plan/#overview). **Opportunity Consult Coverage** is a pair of metrics that measures how well sales managers are adhering to the above policy. More specifically, Opportunity Consult Coverage measures:
+1. The % of Stage 3+ opportunities at or above defined ARR thresholds (**$50K+ for Enterprise**, **$20K+ for Mid-Market**, and **$10K+ for SMB**) that have had a documented opportunity consult (as measured by the [Manager Review](/handbook/sales/command-of-the-message/command-plan/#manager-review) field in the Command Plan) in the last 30 days.
+1. Same as above parameters but calculated based on opportunity pipeline _value_ (versus opportunity count) 
+
+The higher the Opportunity Consult Coverage, the greater confidence sales leadership will have in the accuracy of the forecast.
+
+### Opportunity Consult Coverage Dashboards
+- [Enterprise Sales](https://gitlab.my.salesforce.com/00O4M000004aic2) (internal only)
+- Mid-Market Sales (coming soon)
+- SMB Sales (coming soon)
+
 ## Best Practices
 
 - Conduct regular weekly Opportunity Consults with each rep on your team to review Command Plans for strategic opportunities
