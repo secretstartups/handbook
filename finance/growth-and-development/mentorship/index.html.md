@@ -40,6 +40,18 @@ The program will last for up to 3-months if both the mentor and the mentee remai
 * Preparing for calls (mentees will drive agenda)
 * Implementing learnings (namely for mentees)
 
+#### Recommendations for Mentees
+
+Mentees identify, at minimum, one development goal that they’d like to discuss with their mentor. 
+
+*_How to identify a goal?_*
+
+- Themes from 360 feedback
+- A skill that you’d like to improve 
+- An experience that you’d like to obtain to learn and grow closer to a career development milestone that you are interested in obtaining
+- Remember to make goals SMART (Specific, Measurable, Achievable, Realistic, Timely)
+
+
 #### Program Participants
 
 | Mentor | Mentee |
