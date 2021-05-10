@@ -83,13 +83,13 @@ Be sure you review the issue template and provide all necessary information that
 
 **NOTE**: Event owners are DRI to create/setup campaign names & tags!
 
-1. When **Event Owner** begins campaign process and creates their line item in Allocadia, they will add the campaign tag in the details panel in the field `Campaign Tag to be Created`
-    1. `Campaign Tag` ISO date = **first** day of event (if multiday) - Example: AWS reInvent Dec 2-5, 2019, `Campaign Tag` = `20191202_AWSreInvent`. Campaign tag should not include any special characters and stay within the 31 character limit. 
+1. When **Event Owner** begins campaign process and creates their line item in Allocadia, they will create the campaign tag in the details panel in the field `Campaign Tag to be Created`. 
+    1. `Campaign Tag` = `ISO date` (**first** day of event if multiday) underscore `tactic name` - Example: AWS reInvent Dec 2-5, 2019 - `Campaign Tag` = `20191202_AWSreInvent`. **Note:** Your `tactic name` in the tag should not be more than **14 characters long**. 
     1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates) but it does need to be done when we go into contracting or before any money is spent toward said event.
 
 ### Step 3 - Netsuite campaign tag creation for events UNDER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** no contract or security review required
 
-1. **Event Owner** copy/paste the `Allocadia ID` (this can be found in the details panel of your Allocadia line item listed as `Line Item ID`) AND `Campaign Tag` into the event details section of the main event issue. The two IDs should be concatenated with a dash (example: 1114023-20211005_TheBestEventEver).
+1. **Event Owner** copy/paste the `Allocadia ID` (this can be found in the details panel of your Allocadia line item) AND `Campaign Tag` (under the Campaign Tag to be Created field also in your details panel that was created during [this process](/handbook/marketing/events/#all-events---setting-up-the-campaign-tag)) into the event details section of the main event issue. This concatenated campaign tag formula = `Allocadia ID` dash `ISO date` (**first** day of event if multiday) underscore `tactic name` (example: 1114023-20211005_TheBestEvent). Full campaign tag should not include any special characters and stay within the 31 character limit, including Allocadia ID. **Note:** Your tactic title in the tag should not be more than 14 characters long as the combination of the Allocadia ID and ISO date is 17 characters. 
 1. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request the above combination tag be created in Netsuite. Please note that since this tag is what is entered into Netsuite, this will also be the tag utilized in Expensify for all expense reporting.
 1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match.
 1. When creating the Marketo Program and SFDC Campaign, DRI (for Field Marketing, the FMCs) will still utilize just the `Campaign Tag` as the name of the campaign and not the combination tag mentioned above. 
