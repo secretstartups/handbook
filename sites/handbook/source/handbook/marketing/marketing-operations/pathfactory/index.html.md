@@ -561,6 +561,11 @@ We currently use the `Visitor Session Webhook` to connect to Marketo. The `Visit
 
 ### Bizible
 
+There are 2 external forms in PathFactory with apply Bizible touchpoints using JavaScript. 
+
+1. `MOps: Form Submit-Bizible`: Applies a Bizible touchpoint upon form submit within a PathFactory track
+1. `MOps: Bizible-Met Threshold`: Applies a Bizible touchpoint when a visitor to a track has met the engagement threshold
+
 - [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
 
 ## Custom PathFactory Fields
