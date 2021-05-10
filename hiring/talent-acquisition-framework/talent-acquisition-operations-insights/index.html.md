@@ -364,6 +364,8 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. Move `Opening Status` to **Columb C**.
         1. Set the formula in `VLOOKUP` as follows in the row below the column header: `=VLOOKUP(A9,'Forecast to Plan'!A:A,1,0)`.
             * Copy the formula down to include all rows that have data.
+            * The following columns will need to be looked up manually:
+                * `Hiring Manager`, `Sales VP`, `Recruiter`, and `NQR/OQR`
         1. Sort the data by `Opening Status` (A -> Z).
         1. Look for any `#N/A` results in the `VLOOKUP` column where the `Opening Status` = **Open** and add the respective `GHP ID` to the `Forecast to Plan` tab.
     * Current Pipeline Per Job Report (`[GH] Req Status - Open + Draft` tab)
