@@ -92,7 +92,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 - Finances, including annual and/or historical performance 
 
 ## What's needed to close a Deal
-### 🎥 [Watch the "What's needed to close a Deal" Video](https://www.youtube.com/embed/bCLagn_sWSI)
+### 🎥 [Watch the "What's needed to close a Deal" Video](www.UPDATE.COM)
 
 1. An Order Form with a base Agreement referenced. This will either be the current [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) as found at the [Terms of Service](https://about.gitlab.com/terms/#current-terms-of-use), or, if an executed Agreement is signed, this will be referenced within the Order Form. 
 2. Visit the presentation on the [Legal Requirements](https://docs.google.com/presentation/d/1IaGO8j--WOKZqAwuBQjKJJN0hU7rfpdgbIoj_kClGK0/edit#slide=id.g5d6196cc9d_2_219) _Note: This is locked for GitLab Team Members only_
@@ -102,8 +102,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 
 1. For Tax Certificate requests please email the Finance team at [tax@gitlab.com](mailto:tax@gitlab.com)
 2. For Insurance Certificate requests please work with the Deal Desk team by tagging @sales-support in SFDC Chatter.  
-3. Regarding GitLab financial information (e.g., annual statements, equity ownership...etc) please note that GitLab is a private company and does not share this information with Customers. 
-
+3. Regarding GitLab financial information (e.g., annual statements, equity ownership...etc) please note that GitLab is a private company and does not share this information with Customers.  
 
 
 ## EDUCATIONAL
@@ -148,15 +147,23 @@ _Please Note: This information is provided for educational purposes only and Git
 _Please Note: The purpose of this content is to understand where to find GitLab's terms, as well as, basic knowlege about the rights and obligations stated_
 
 1. GitLab terms can be found at our [Terms of Service](https://about.gitlab.com/terms/)
-2. GitLab provides full transparency by including historic version of the Terms. This can be found [Agreement History](https://about.gitlab.com/terms/#agreement-history)
-3. The [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) can be used for the sale of both On-Premise and SaaS Software. 
-4. The Subscription Agreement is agreed to by either, (i) Clicking-through when purchasing (or downloading) via the GitLab Website, (ii) Referenced in an Order Form that is signed by a Customer, or (iii) Passed through a Reseller if a Customer is buying through an Authorized Partner. 
+2. GitLab provides full transparency by including historic version of the Terms. This can be found within the [Agreement History](https://about.gitlab.com/terms/#agreement-history) section
+3. The [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) can be used for the sale of both On-Premise and SaaS Software 
+4. The Subscription Agreement is agreed to by either, (i) Clicking-through when purchasing (or downloading) via the GitLab Website, (ii) Referenced in an Order Form that is signed by a Customer, or (iii) Passed through a Reseller if a Customer is buying through an Authorized Partner 
 
 ## Why GitLab does not sign BAAs
 ### 🎥 [Watch the "Subscription Agreement Basics" video](Update with video)
-_Please Note: The purpose of this content is to understand where to find GitLab's terms, as well as, basic knowlege about the rights and obligations stated_
 
-1. GitLab terms can be found at our [Terms of Service](https://about.gitlab.com/terms/)
+1. **GitLab will not sign a Business Associate Agreement (BAA)**
+
+2. Resources to provide your Customer if they request a BAA:
+
+**What do the GitLab Terms say?**
+- GitLab is transparent with respect to information it requires, or does not require, in order to provide our products and services. Please view [Section 14.3 of the Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#14-security--data-protection), which specifically highlights that GitLab will not receive Personal Heatlh Information. 
+
+**Why does GitLab not sign BAAs?**
+- GitLab, as a commercial software product, does not require nor is designed to be used to store Personal Health Information (PHI). In addition, GitLab, as an organiztion, does not desire or need to receive, process, store, transact or otherwise possess PHI in order to provide our products and servcies. As such, GitLab does not meet, or desire to meet, the definition of a "Business Associate" as defined under the Health Insurance Portability and Accountability Act (HIPAA).  
+- In the event a Customer questions "incidental dislcosures", please highlight the HIPAA definition itself, which states: _“Business associate functions or activities on behalf of a covered entity include claims processing, data analysis, utilization review, and billing.  Business associate services to a covered entity are limited to legal, actuarial, accounting, consulting, data aggregation, management, administrative, accreditation, or financial services. **However, persons or organizations are not considered business associates if their functions or services do not involve the use or disclosure of protected health information, and where any access to protected health information by such persons would be incidental, if at all.**”_
 
 
 **Additional Resources**
