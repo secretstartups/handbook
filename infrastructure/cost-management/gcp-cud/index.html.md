@@ -25,6 +25,10 @@ We can share CUD across projects, but the dimensions CUD are split across are li
 - Machine Type
 - Cost Type (CPU vs RAM)
 
+### CUD Tracking
+- Overview of our current CUD can now be viewed in [Sisense](https://app.periscopedata.com/app/gitlab/848796/WIP:-GCP-CUD-Overview)
+
+- In Infra, we have a PI to cover 80% or more of our total eligible compute usage with [CUD](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gcp-cud-coverage-)
 
 ### GCP CUD Purchase Approval Process
 #### 1. Fill out [CUD Analysis Template](https://docs.google.com/spreadsheets/d/1yAIpX875Mjcq-DfuyFi4C-y5FaWGoAvoHmW6qHj9Rlc) with relevant details for new request
@@ -38,10 +42,10 @@ The template should include the commitment details, important high level financi
 Before the commitment is considered, the infrastructure analyst should talk with the teams that use the majority of the usage that is being committed to make sure there aren't any major changes expected during the term of the commitment.
 Those teams should be cc'ed in the issue and if they have any concerns voice them at that time.
 
-Example Issue: https://gitlab.com/gitlab-com/finance/-/issues/2377
+Example Issue: https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/4010
 
 #### 3. Once approved, execute purchase
-The engineering manager assigned in the issue should make the actual purchase in the billing console. If needed, the requester should join a call with them so they can both confirm the purchase is correct.
+The infra analyst should make sure there are enough Committed CPU Quota to meet the request and execute this purchase in Billing-Tools GCP Project.
 
 #### 4. Add the commitment to CUD commitments [master spreadsheet](https://docs.google.com/spreadsheets/d/1qwsrRidYsYgoEIbCA6VDhdZW_P6ljeYcLMcja2bhCtc)
 

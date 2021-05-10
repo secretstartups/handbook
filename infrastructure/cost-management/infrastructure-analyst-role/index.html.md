@@ -33,8 +33,7 @@ Therefore, if requesting help or a review from an infrastructure analyst you sho
 If one or more of these is not known, then you should partner with the infrastructure analyst so you can define these together.
 
 ### Infra Analyst Board
-There is a separately maintained board for infra-analytics that is for ad-hoc requests specifically related to Infrastructure Analyst role
-Find more info at infra-analytics board [handbook page](/handbook/engineering/infrastructure/cost-management/infra-analyst-board)
+The infrastructure analyst role is now part of the centralized engineering analytics team, and serves as a stable counterpart for Infrastructure Department. To open a request for infra analyst please open an issue under [engineering metrics board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1942495?label_name[]=Engineering%20Metrics)
 
 ### Learning Track
 This section will go through the general skills that are needed to succeed as an infrastructure analyst. The skillset requires a mix of understanding that dips into three main areas: engineering, finance, and data.
