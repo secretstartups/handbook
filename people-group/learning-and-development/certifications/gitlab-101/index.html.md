@@ -72,7 +72,8 @@ This will make more sense once you understand all of the terminology.
    1. **Definition:** allows you to visualize and collaborate on the proposed changes to source code that exist as commits on a given Git branch. A Merge Request (MR) is the basis of GitLab as a code collaboration and version control platform. It is as simple as the name implies: a request to merge one branch into another.
    1. **Example:** This is a [Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/40563#0c7def9794ef444dbc7eb560126846353b630886).
 1. Commit
-   1. **Definition:** Merge requests allow you to visualize and collaborate on the proposed changes to source code that exist as commits on a given Git branch
+   1. **Definition:** a change, or set of changes, to one or more files in the source code on a given Git branch. A commit allows you to mark the project in its current state as a kind of snapshot in time.
+   1. **Example:** This is a [commit](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/e539128d235c084199047788d121141777a7fe2c).
 1. Branch
    1. **Definition:** a version of a project’s working tree. You create a branch for each set of related changes you make. This keeps each set of changes separate from each other, allowing changes to be made in parallel, without affecting each other.
 1. Markdown
