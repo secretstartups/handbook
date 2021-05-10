@@ -2,8 +2,6 @@
 layout: handbook-page-toc
 title: "Sales Strategy and Analytics Handbook"
 description: "To drive sales success by providing data, reporting, analytics, and actionable insights to leadership across GitLab"
-
-
 ---
 
 ## On this page
@@ -39,6 +37,16 @@ Please find instructions on how to initiate a Sales Headcount change [here](/han
 ### Projects
 
 You can find information about specific projects [here](/handbook/sales/field-operations/sales-strategy/projects)
+
+### Reporting & Analytics
+
+The SS&A team is reponsible of maintaining a set of key reports for the Sales organization.
+
+| Report | Description |
+| ----- | ----- | ----- |
+| [Pipeline X-Ray](/handbook/sales/field-operations/sales-strategy/analytics/pipeline-x-ray) | Pipeline coverage & generation by segment, region, order type & sales qualified source for current and future fiscal quarters
+| [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab/799969/SS&A---Pipeline-Velocity-&-Generation)|  Pipeline and Pacing progression by day of current and previous fiscal quarters | 
+| [SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab/850343/SS&A---Pipeline-Movement-Tracker) | Helps to identify root causes of Open Pipeline and Pipeline Generation movements |
 
 ### FY22 Field Planning
 
