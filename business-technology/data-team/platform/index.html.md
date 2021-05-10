@@ -261,7 +261,7 @@ Here are the proper steps for provisioning a new user and user role:
 - Copy the [`user_provision.sql`](https://gitlab.com/gitlab-data/analytics/-/blob/master/load/snowflake/user_provision.sql) script and replace the email, firstname, and lastname values in the initial block
 - If a password is needed, use [Password Generator](https://passwordsgenerator.net/) to create one
     - Send username and password credentials to user with [One Time Secret](https://onetimesecret.com/) or via Slack
-- Document in Snowflake roles.yml permifrost config file
+- Document in Snowflake [roles.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/load/snowflake/roles.yml) permifrost config file (this file is automaticaly loaded every day at 12:00a.m. UTC)
     - Add the user and user role you created
     - Assign the user role to new user
     - Assign any additional roles to user
