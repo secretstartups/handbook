@@ -57,7 +57,7 @@ We also have a list of [Recommended Learning Paths](https://about.gitlab.com/han
 ### Leadership
 
 - L&D is running another org-wide [Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/) program in early May, 2021-05-03 to 2021-05-14. Open to existing *and* aspiring managers! [Sign Up Here](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)
-- We are currently revamping our mentorship program and [manager leans coffee](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/123) as a first step
+- We are currently revamping our mentorship program and [manager lean coffees](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/123) as a first step
 - We have two team members in L&D who will be certified in [Crucial Conversations](https://about.gitlab.com/handbook/leadership/crucial-conversations/) at the end of Q1 FY22. We will start rolling this out to the organization in Q2/Q3, perhaps that is something the TAM team can take advantage of. More to details to come!
 - [CEO Shadow Program](/handbook/ceo/shadow/)
 - [Sounding Board](https://www.soundingboardinc.com/request-demo/): External resource with online coaching
