@@ -104,6 +104,10 @@ It isn't required to give details if you prefer not to.
 Tell your manager when it started, to what extent it hinders your work, and what your forecast is for your circumstances to improve.
 When you delay this conversation until your manager identifies underperformance you've lost trust that would be helpful during this period.
 
+### Loop in the Team Member Relations Specialist
+
+Looping in the [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) early is essential. The TMR specialist can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR specialist prior to delivering any formal action plan to team members. Formal action includes Written Performance Letter, Verbal Warning, Written Warning and a Performance Improvement Plan.  Managers will partner with the team member relations group in the creation and delivery of any formal action. 
+
 ### Manager: Identify And Take Action As Early As Possible
 Taking action sooner allows the action to be less severe and allows more time for coaching to have an effect.
 The important thing to remember as a manager is to immediately address signs of underperformance. Make sure to consider current personal circumstances, whether the team member has taken sufficient [paid time off](/handbook/paid-time-off/) in the last 3 to 6 months, review previous performance feedback and any other indications of why there is underperformance or a team member is not meeting expectation for their role.
@@ -116,11 +120,7 @@ Inform your manager immediately when you've identified possible underperformance
 If your manager warns you about possible underperformance before you notify them, you have not practiced [always tell us the bad news promptly](/company/team/structure/#management-group). This diminishes the trust that is needed to resolve the situation.
 Managing underperformance is very important because it reinforces acceptable standards of performance.
 It is hard because frequently the underperformance is due to a mistake we made in hiring, onboarding, and/or coaching.
-It is also hard because it is a hard message to give and receive that someone's performance is not adequate.
-
-### Loop in the Team Member Relations Specialist
-
-Looping in the [Team Member Relations Specialist](https://about.gitlab.com/handbook/people-group/) early is essential. The TMR specialist can offer support, guidance, coaching, and partner with Legal to ensure compliance. Please be sure to align with your TMR specialist prior to delivering any formal action plan to team members. Formal action includes Written Performance Letter, Verbal Warning, Written Warning and a Performance Improvement Plan.  Managers will partner with the team member relations group in the creation and delivery of any formal action.  
+It is also hard because it is a hard message to give and receive that someone's performance is not adequate. 
 
 ## Frequency and Metrics
  
