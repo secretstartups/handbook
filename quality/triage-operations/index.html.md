@@ -420,10 +420,9 @@ identified as eligible for auto-closure. At this point, the following actions oc
 Tier labels should be applied to issues to specify the license tier of feature. This policy prompts the Product Manager for the applied group label to add the license tier label to issues that are scheduled for the current milestone and labelled with `~direction`.
 
 The possible tier labels to be applied are:
-  - ~"GitLab Core"
-  - ~"GitLab Starter"
+  - ~"GitLab Free"
   - ~"GitLab Premium"
-  - ~"GitLab Enterprise"
+  - ~"GitLab Ultimate"
 
 * Automation condition: Open issue without tier labels, with group and `~direction` label, in current milestone
 * Automation action:
