@@ -401,15 +401,13 @@ You may be asking yourself:
 
 Great question! To assess how your team is doing, we've provided a couple of resources for you to leverage:
 
-- Check out the [High Performing Teams Diagnostic tool](https://docs.google.com/document/d/11s4DR-df0qEKf6L-G2FvDpZI8yBVrUz9hr5sMhsgzto/edit) to assess your team individually and as a group. You can replace the "I" with "We" when assessing your team as a whole in the assessment questions.
-- Have each member of the team make a copy of the tool, including the Manager.
-- Give them a few days to score each stage for how they currently assess your team's performance.
-- Come together as a group and identify common areas where the team needs to address. Have each team member come with at least one idea on how the team can improve its performance. Managers can use the [Managers High Performing Teams Toolkit](https://docs.google.com/document/d/1tLmpibrOPDLX9smXWLPOzgQ38zGwnlGtbQjxYejPBRM/edit) to facilitate the conversation.
-- Discuss the ideas as a team and vote to identify at least one idea for implementation (e.g. process improvements, new tools, sync versus async collaboration, communication approaches, etc). Leverage the [team action plan](https://docs.google.com/document/d/1EsfKfddU9Rk-OJ9qwZm4MTf7AAYMYahIALm8q3tkMTk/edit) for a future-focused discussion and plan of action for moving forward as a team.
-- Conduct a development discussion with each team member regularly during a 1:1 meeting. Inquire on the team members level of engagement. Ask them what else they would like to learn and explore how those development opportunities can be integrated into the role.
-- Review team accomplishments quarterly. Meet with each individual to review their accomplishments. Take a [coaching approach](/handbook/leadership/coaching/) and have the person talk through what their accomplishments were.
-- Identify opportunities for senior leadership to recognize the team. Recognize the team in front of executive management.
-- Write personal thank you notes leveraging the `#thanks` Slack channel.
+1. Check out the template: [High Performing Teams Diagnostic Tool](https://docs.google.com/forms/d/1z-Zw5XgtAqfhnDvP9ce7EilJztB6PCObE3MDfIOij_k/edit) 
+1. Make a copy of the [template](https://docs.google.com/forms/d/1z-Zw5XgtAqfhnDvP9ce7EilJztB6PCObE3MDfIOij_k/edit) for your own team and save in a secure folder.
+1. Have each team member complete the survey individually over a course of a few days to assess your team's performance
+1. Once the survey is complete, come together as a group and identify common areas where the team needs to address. Have each team member come with at least one idea on how the team can improve its performance. Managers can use the [Managers High Performing Teams Toolkit](https://docs.google.com/document/d/1tLmpibrOPDLX9smXWLPOzgQ38zGwnlGtbQjxYejPBRM/edit) to facilitate the conversation.
+1. Discuss the ideas as a team and vote to identify at least one idea for implementation (e.g. process improvements, new tools, sync versus async collaboration, communication approaches, etc). Leverage the [team action plan](https://docs.google.com/document/d/1EsfKfddU9Rk-OJ9qwZm4MTf7AAYMYahIALm8q3tkMTk/edit) for a future-focused discussion and plan of action for moving forward as a team.
+1. Conduct a development discussion with each team member regularly during a 1:1 meeting. Inquire on the team members level of engagement. Ask them what else they would like to learn and explore how those development opportunities can be integrated into the role.
+
 
 These are a few practices you can implement within your team to help all team members reach high performance!
 
