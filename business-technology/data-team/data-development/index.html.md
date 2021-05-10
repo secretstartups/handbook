@@ -24,7 +24,7 @@ These three approachs "Ad-Hoc","Business Insights", and "Trusted Data".
 | Built Using the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) | optional | optional | required |
 | Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog) | optional | required | required |
 | Follows [Trusted Data Development](/handbook/business-technology/data-team/organization/#development-approach) process | optional | optional | required |
-| Tested using the [Trusted Data Framework](/handbook/business-technology/data-team/platform/permifrost/#tdf) | optional | optional | required |
+| Tested using the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) | optional | optional | required |
 | 'Trusted Data' Branded |  N/A |  N/A | required |
 | 'Business Insights' Branded |  N/A | required | N/A |
 
