@@ -294,6 +294,12 @@ Managers need to be aware and take into consideration both skill-based and will-
 
 This should be discussed with a Team Member Relations Specialist before any action is taken in order to ensure it is done in compliance with local laws and regulation. As soon as you know you'll have to let someone go, do it immediately. The team member is entitled to know where they stand. Delaying it for days or weeks causes problems with confidentiality (finding out that they will be let go), causation (attributing it to another reason), and escalation (the working relationship is probably going downhill).
 
+### Team member leave during an investigation
+
+There may be times when a team member is placed on paid or unpaid leave during an investigation.  This action is taken to protect the team member and GitLab during the investigative process.  During this time, all access to GitLab's data and systems will be suspended.  The purpose of suspending accounts is to minimize risk to GitLab team members, systems, and reputation.  
+
+The investigation is considered high priority to minimize the amount of time the team member is on leave.  Our goal is to complete the investigation in no more than 5 business days. The team member must remain available during this time for further questions or other matters related to the investigation. The leave is meant to enable GitLab to conduct a thorough and speedy investigation and does not in itself carry any implication of prejudgement, nor does it constitute any form of disciplinary action. The leave will only remain in place as long as necessary and can be lifted at any time.  
+
 ### Underperformance in Senior Leadership
 
 Regardless of level in the organization, the expectation is that all team members are provided with both coaching and feedback prior to a decision to exit the team member. Feedback is critical to development at GitLab at all levels and should be done in real time as much as possible.
