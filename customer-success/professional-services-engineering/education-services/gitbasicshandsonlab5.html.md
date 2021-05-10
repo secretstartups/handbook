@@ -28,7 +28,7 @@ Resource: [SAST docs](https://docs.gitlab.com/ee/user/application_security/sast/
 3. To edit a file on this branch, click **Web IDE** near the top right of the window.
 4. Click `views` > `index.pug`.
 5. Click the blue **Edit** button and then modify the last line of `index.pug` to: `p GitLab welcomes you to #{title}` Note: be sure to include the `p` at the beginning of the line.
-6. In the **Commit message** field, type `update welcome message in index.pug`. Click **Commit changes**.
+6. In the **Commit message** field, type `Update welcome message in index.pug`. Click **Commit changes**.
 7. Click the blue **Create merge request** button.
 8. Assign the merge request to yourself.
 9. Add `Draft:`to the beginning of the text in the **Title** field to show that it isn't ready to be merged yet.
