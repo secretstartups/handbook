@@ -20,6 +20,11 @@ Ongoing feedback and participation from the field is imperative to the success o
 ## Target Audience
 The newsletter is sent to members of the field (sales + customer success) and stakeholders (i.e. SDRs). **Please note that this email is considered confidential and is, therefore, intended for internal audiences only.** Please do not forward externally. 
 
+## Newsletter Tool 
+The newsletter is sent using the internal comms newsletter platform [Bananatag](https://bananatag.com/). This tool allows GitLab internal communications professionals to send targeted email newsletters to team members based on department, region, manager, location, start date and more. 
+
+Access to this tool is shared amongst internal comms teams such as Field Communications, GitLab corporate internal comms and others. The benefit of this tool is that it is internal comms-specific, meaning that the newsletter can only be sent to team members with a GitLab email domain.
+
 ## Opportunities/Requirements 
 After interviewing GitLab team members from across the org and surveying the field, we identified the following as key requirements of the Field Flash newsletter: 
 
@@ -100,7 +105,7 @@ We build the newsletter in an issue in the [Enablement project](https://gitlab.c
 - The issue for the upcoming newsletter is opened at least three weeks before first Monday of the next month. 
 - Relevant stakeholders/contributors are tagged in the issue each month to provide content or review suggested content in the outline. 
 - Contributed content is due no later than one week before the planned send date (first Monday of each month) to allow time for drafting, design, and reviews. Exceptions can be made in special cases – please reach out to the Field Communications team in the #field-flash-contributors channel to discuss. 
-- Once the outline is complete, Field Communications drafts the newsletter in a Google document linked to in the issue  and then imports the content into the newsletter template in MailChimp. 
+- Once the outline is complete, Field Communications drafts the newsletter in a Google document linked to in the issue  and then imports the content into the newsletter template in Bananatag. 
 - Field Communications sends the newsletter test email to relevant leaders and stakeholders for review no more than two business days before planned send date.
 - Reviewers provide feedback no later than 3 pm CT on the business day before the planned send date to allow time for revisions and scheduling.
 - Field Communications schedules the newsletter to send at 9 am PT on the planned send date. 
