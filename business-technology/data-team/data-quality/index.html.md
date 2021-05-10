@@ -35,7 +35,7 @@ An example of Missing Data is a NULL ZIPCODE value within an address record.
 
 - **Duplicate Data**: Duplicate Data is the same data repeated when it should not be repeated.
 Duplicate data can be complex to identify because duplicates can naturally occur based on how data is reported.
-An example of Duplicate Data is two (almost) identical customer records in a CUSTOMER master table and are related to a single 'real world' customer.
+An example of Duplicate Data is two (almost) identical customer records in a CUSTOMER master table when both are linked to a single 'real world' customer.
 
 ## Data Quality System Components
 
@@ -45,7 +45,7 @@ The Data Quality System is composed of **Scorecards**, which help people monitor
 
 - **Data Quality Detection Rule** - A Data Quality Detection Rule is a SQL-based test to check the quality of data in a field or row versus a pre-defined condition. To run a Detection Rule, data must already exist in the Enterprise Data Warehouse. Detection Rules are enumerated and only one test is expressed per SQL statement. Examples of Detection Rules are:
      - Detection Rule 1: Inaccurate Data - State Field in Account Location record
-     - Detection Rule 2: Duplicate Data - Account Nme in Account Master record
+     - Detection Rule 2: Duplicate Data - Account Name in Account Master record
      - Detection Rule 3: Missing Data - License Key should exist for new Usage Ping submissions
 
 ### Operational Process
