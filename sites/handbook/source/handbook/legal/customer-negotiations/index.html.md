@@ -31,7 +31,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 | [**How do I get an Agreement signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-do-I-get-an-Agreement-signed)       | [**When does GitLab negotiate**](https://about.gitlab.com/handbook/legal/customer-negotiations/#When-does-GitLab-Negotiate)  |
 | [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | [**SKO 2021 Resources**](https://about.gitlab.com/handbook/legal/customer-negotiations/#GitLab-Legal-SKO-2021-Resources) |
 |[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | [**What is Open Source Software?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what-is-open-source?) |
-| [**What's needed to close a deal?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what's-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](https://about.gitlab.com/handbook/legal/customer-negotiations/#subscription-agreement-basics) |
+| [**What's needed to close a deal?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what's-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](https://about.gitlab.com/handbook/legal/customer-negotiations/#gitlab-subscription-agreement-101) |
 | [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](https://about.gitlab.com/handbook/legal/customer-negotiations/#requests-for-gitLab-financial-information-tax-and-insurance-certificates) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](https://about.gitlab.com/handbook/legal/customer-negotiations/#why-gitlab-does-not-sign-baas) |
 
 ## OPERATIONAL
@@ -94,9 +94,11 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 ## What's needed to close a Deal
 ### 🎥 [Watch the "What's needed to close a Deal" Video](www.UPDATE.COM)
 
-1. An Order Form with a base Agreement referenced. This will either be the current [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) as found at the [Terms of Service](https://about.gitlab.com/terms/#current-terms-of-use), or, if an executed Agreement is signed, this will be referenced within the Order Form. 
-2. Visit the presentation on the [Legal Requirements](https://docs.google.com/presentation/d/1IaGO8j--WOKZqAwuBQjKJJN0hU7rfpdgbIoj_kClGK0/edit#slide=id.g5d6196cc9d_2_219) _Note: This is locked for GitLab Team Members only_
-3. The fastest way to close a deal is to ensure the Customer signs the Order Form. If a Customer refuses to sign an Order Form, additional approvals will be required by both GitLab Legal and Finance team members. In addition, the Customer may need to make changes to their Purchase Order (PO). 
+1. Visit the [Sales Operations](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/) and [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) Handbook materials to review how to create an Order Form. 
+2. An Order Form with a base Agreement referenced. This will either be the current [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) as found at the [Terms of Service](https://about.gitlab.com/terms/#current-terms-of-use), or, if an executed Agreement is signed, this will be referenced within the Order Form. 
+3. Visit the presentation on the [Legal Requirements](https://docs.google.com/presentation/d/1IaGO8j--WOKZqAwuBQjKJJN0hU7rfpdgbIoj_kClGK0/edit#slide=id.g5d6196cc9d_2_219) _Note: This is locked for GitLab Team Members only_
+4. The fastest way to close a deal is to ensure the Customer signs the Order Form. If a Customer refuses to sign an Order Form, additional approvals will be required by both GitLab Legal and Finance team members. In addition, the Customer may need to make changes to their Purchase Order (PO). 
+
 
 ## Requests for GitLab Financial Information, Tax and Insurance Certificates
 
@@ -142,17 +144,16 @@ _Please Note: This information is provided for educational purposes only and Git
 4. GitLab uses Open Source Software as part of the Open Core Business Model, learn more about the [GitLab Open Core Business Model](https://about.gitlab.com/company/stewardship/#business-model)
 
 
-## Subscription Agreement 101
+## GitLab Subscription Agreement 101
 ### 🎥 [Watch the "Subscription Agreement Basics" video](Update with video)
 _Please Note: The purpose of this content is to understand where to find GitLab's terms, as well as, basic knowlege about the rights and obligations stated_
 
 1. GitLab terms can be found at our [Terms of Service](https://about.gitlab.com/terms/)
-2. GitLab provides full transparency by including historic version of the Terms. This can be found within the [Agreement History](https://about.gitlab.com/terms/#agreement-history) section
+2. GitLab provides full transparency by including historic versions of the Terms. This can be found within the [Agreement History](https://about.gitlab.com/terms/#agreement-history) section
 3. The [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) can be used for the sale of both On-Premise and SaaS Software 
 4. The Subscription Agreement is agreed to by either, (i) Clicking-through when purchasing (or downloading) via the GitLab Website, (ii) Referenced in an Order Form that is signed by a Customer, or (iii) Passed through a Reseller if a Customer is buying through an Authorized Partner 
 
 ## Why GitLab does not sign BAAs
-### 🎥 [Watch the "Subscription Agreement Basics" video](Update with video)
 
 1. **GitLab will not sign a Business Associate Agreement (BAA)**
 
