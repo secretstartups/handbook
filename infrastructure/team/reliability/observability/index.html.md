@@ -17,7 +17,7 @@ Observability is:
 | ------ | ------ |
 |To be hired|[Engineering Manager, Reliability](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability)|
 |[Cindy Pallares](/company/team/#cindy)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Igor Wiedler](/company/team/#igorwwwwwwwwwwwwwwwwwwww)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
+|[Igor Wiedler](/company/team/#igorwwwwwwwwwwwwwwwwwwww)|[Staff Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Michal Wasilewski](/company/team/#mwasilewski-gitlab)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Matt Smiley](/company/team/#msmiley)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Craig Furman](/company/team/#craigf)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
