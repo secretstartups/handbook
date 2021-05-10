@@ -138,6 +138,8 @@ This results in a lower rate of involuntary attrition than comparable companies,
 
 Remediation options will vary based on if the team members underperformance is skill-based or will-based and local applicable law.  However, as a best practice and to provide a consistent experience for all team members the following remediation process is recommended. 
 
+**It is important to note that there is no requirement for these options to be considered or presented consecutively.** 
+
 ### Skill-based performance remediation
 
 * [Coaching](/handbook/leadership/underperformance/#coaching)
@@ -156,8 +158,6 @@ Remediation options will vary based on if the team members underperformance is s
 * [Written Warning](/handbook/leadership/underperformance/#written-warning)
 * Letting Someone Go
  
-**It is important to note that there is no requirement for these options to be considered or presented consecutively. 
-
 ## Coaching
 
 [Coaching](/handbook/leadership/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
