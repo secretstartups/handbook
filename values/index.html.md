@@ -649,6 +649,14 @@ With internal meetings, consider using an agenda document for questions. For exa
 
 Customers are not used to working in this way. To promote inclusion with customers: ask participants for their goals; make sure during demos that you pause for question; leave time for discussion.
 
+##### Inclusive and fair policy to regions with less employees
+
+Being globally distributed has the benefit that someone can cover for you when you are off-work. However, the population density is not balanced across timezones. Policies should remain fair to those in less dense regions.
+
+For example, the Asia Pacific region covers more timezones while has less employees. If we use an algorithm to assign tasks to those in later timezones, all American tasks would fall into the fewer Asia Pacific employees, which can damage belonging and inclusivity and should be avoided.
+
+When planning for events, organizer should also be aware of location density differences to maximize participation in all regions.
+
 ##### See Something, Say Something
 {:.no_toc}
 As a globally-dispersed company, we have team members from many different backgrounds and cultures. That means it is important for each of us to use great judgment in being respectful and inclusive of our teammates. At the same time, we may sometimes not fully realize we have said or done something to offend someone. It is important that our teammates hold each other accountable and let them know if they have unintentionally or intentionally done something so they can learn and gain additional understanding of perspectives different from our own. It is also important that our teammates don't feel excluded or minimized by the words we use or the things we do. Thus, we all need to speak up when we see something that isn't respectful or inclusive.
