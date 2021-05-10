@@ -96,12 +96,14 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 
 1. An Order Form with a base Agreement referenced. This will either be the current [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) as found at the [Terms of Service](https://about.gitlab.com/terms/#current-terms-of-use), or, if an executed Agreement is signed, this will be referenced within the Order Form. 
 2. Visit the presentation on the [Legal Requirements](https://docs.google.com/presentation/d/1IaGO8j--WOKZqAwuBQjKJJN0hU7rfpdgbIoj_kClGK0/edit#slide=id.g5d6196cc9d_2_219) _Note: This is locked for GitLab Team Members only_
-3. The fastest way to close a deal is to ensure the Customer signs the Order Form. If a Customer refuses to sign an Order Form, additional approvals will be required- per the presentation. In addition, the Customer may need to make changes to their Purchase Order (PO). 
+3. The fastest way to close a deal is to ensure the Customer signs the Order Form. If a Customer refuses to sign an Order Form, additional approvals will be required by both GitLab Legal and Finance team members. In addition, the Customer may need to make changes to their Purchase Order (PO). 
 
 ## Requests for GitLab Financial Information, Tax and Insurance Certificates
-### 🎥 [Watch the "What's needed to close a Deal" Video](https://www.youtube.com/embed/bCLagn_sWSI)
 
-1. An Order Form with a base Agreement referenced. This will either be the current [Subscription Agreement](https://about.gitlab.com/handbook/legal/
+1. For Tax Certificate requests please email the Finance team at [tax@gitlab.com](mailto:tax@gitlab.com)
+2. For Insurance Certificate requests please work with the Deal Desk team by tagging @sales-support in SFDC Chatter.  
+3. Regarding GitLab financial information (e.g., annual statements, equity ownership...etc) please note that GitLab is a private company and does not share this information with Customers. 
+
 
 
 ## EDUCATIONAL
