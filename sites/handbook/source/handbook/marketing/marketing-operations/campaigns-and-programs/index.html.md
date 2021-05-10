@@ -350,6 +350,11 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
     - Click "Save"
 
+If you are a user of Allocadia, in this step you will also add the Allocadia ID to the `Description` field. It does not matter if you use the Category, subcategory, or line item ID. To determine which one you should use, you should be thinking "What is the highest level ID that houses all the information I want pushed from Allocadia>Marketo>SFDC."
+
+[Instructional Video](https://youtu.be/1681EBw5344)
+[Sync Results Video](https://youtu.be/PocOPnJY4w0)
+
 ##### Step 3: Update Marketo tokens
 
 - Complete the information for each token. Instructions for what to enter for each token are included in the template.
@@ -372,6 +377,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 
 ##### Step 5: Update the Salesforce campaign
+*If you are utilizing the Allocadia, please see below instructions.*  
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign owner` to your name
@@ -390,6 +396,17 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - All other fields on the campaign are not required and are not used for reporting - take `Status` as an example. You WOULD update this field to `Aborted` if the campaign was cancelled for any reason. We have a process that goes into more detail specifically when [offline events are cancelled](/handbook/marketing/events/#cancellation-of-offline-events). 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
+
+##### Step 5: Update the Salesforce campaign - Using Allocadia 
+Using an integration from Allocadia>Marketo, Marketo>SFDC, the information you've given to Allocadia will push to your SFDC campaign. Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
+    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+    - Budgeted Cost in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign.  
+
+You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from `Marketo Integration` to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed in [Step 5. above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign). 
+
+The Budgeted Cost in the campaign will synch overnight and as actuals come into the system, the `Actual Cost in Campaign` field will be populated.  
+
+The campaign meta data is a one time synch, where as the `Actual Cost in Campaign` (which is run off of the `Campaign Tag to be Created` field in Allocadia), synchs every night.   
 
 #### Steps to Setup Content Syndication in Marketo and SFDC
 
