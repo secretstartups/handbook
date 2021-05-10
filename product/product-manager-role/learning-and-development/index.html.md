@@ -51,23 +51,31 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8k1jWejojA" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
-###  Overview and Example Canvases by Stage Maturity
+####  Overview and Example Canvases by Stage Maturity
 
 * [Opportunity Canvas Overview](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas)
 * Minimal: [Translating alerts into actionable incidents is challenging](https://docs.google.com/document/d/1-sJoVFr3ND_-N3EtXUNYF6oVROfhE4rcjVqpnQd5N6U/edit#heading=h.bjrjegyjyv9f)
 * Complete: [Remote and Virtual Package Repositories](https://docs.google.com/document/d/1HxStNvY5i4Qn6c_AvhsKNV2WOEqbAivEjZqFPwhKej8/edit#heading=h.4mt5fmtn0ax4)
 * Loveable: [Plan: Project Management, Fix Groups and Projects](https://docs.google.com/document/d/1a2xuEMAsWzPK-cb_wnS9DWh9YHXZLs34Lp7jdetODR4/edit#heading=h.4mt5fmtn0ax4)
 
-#### "Lite" Opportunity Canvas
+##### "Lite" Opportunity Canvas
 
 * [When and how to use an Opportunity Canvas "Lite"](https://about.gitlab.com/handbook/product/product-processes/#opportunity-canvas-lite)
 * [Example: Opportunity Canvas Lite: Parent-child pipelines default behavior change](https://gitlab.com/gitlab-com/Product/-/issues/2030)
 
-#### Example Videos of Canvas Reviews
+##### Example Videos of Canvas Reviews
 
 - [Opportunity Canvas Unfiltered Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqR2kan56Ae7Di70WF3tpZJ)
 
+### Prioritization at GitLab 
 
+GitLab's Product and Engineering leaders discuss a change to our model of prioritization where for some teams we are allocating a percentage of capacity for making engineering improvements focused on medium to long term security, reliability, performance areas. 
+
+<iframe width="560" height="315" src=" https://youtu.be/KfIH61C0XiU" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+
+#### General Prioritization Guidance
+
+- [The GitLab prioritization guidelines table](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
 
 ## General Product Management learning content 
 [This content is also available in a trackable format in GitLab Learn](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub). 
@@ -210,6 +218,7 @@ This content is divided into five key competencies for Product Managers.
 - [Julie Zhuo: How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.q68swu2de)
 - [Jess Eddy: What do designers really want from product managers?](https://uxdesign.cc/what-do-designers-really-want-from-product-managers-9c0e14993a8)
 - [Jared Spool: Using the Kano Model to Build Delightful UX](https://youtu.be/ewpz2gR_oJQ) (45 min video)
+- [GitLab Kano Model and Feature Prioritization Survey](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/kano-model/)
 
 ##### Deeper dive
 
