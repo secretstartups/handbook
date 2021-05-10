@@ -16,7 +16,7 @@ GitLab has adopted the COSO 2013 framework to support its evaluation/assessment 
 
 ### Approach to evaluation
 
-
+<br>
 
 #### 1.  Assessing the entity-level control framework
 
@@ -51,7 +51,7 @@ In the evaluation of the monitoring component the following factors are consider
 *  Management responsiveness to recommendations on strengthening internal controls.
 *  Effectiveness of internal audit activities.
 
-
+<br>
 
 #### 2.  Assessing process-level controls
 
@@ -78,7 +78,6 @@ SOX PMO will execute testing procedures to support management’s evaluation of 
 
 Prior to performing test work on the operating effectiveness of internal control over financial reporting, audit programs will be prepared. The audit program will set out the nature, timing and extent of the procedures to be performed.
 
-<br>
 
 **i.  Selection of test type and control categories**
 
@@ -90,8 +89,6 @@ To determine the appropriate testing technique, it is first necessary to identif
 <summary markdown='span'>
   Authorization (Manual & System)
 </summary>
-
-<br>
 
 ***Definition***
 
@@ -112,13 +109,10 @@ Authorization includes:
 
 </details>
 
-
 <details>
 <summary markdown='span'>
   Exception/Edit Report Control
 </summary>
-
-<br>
 
 ***Definition***
 
@@ -145,7 +139,6 @@ In most instances, the underlying data for an exception/edit report is to be tes
 *  	Determine if the unresolved items are tracked and reported to the next level.
 *  	Evaluate if the exceptions on the selected reports have been documented and approved.
 
-
 </details>
 
 <details>
@@ -153,15 +146,13 @@ In most instances, the underlying data for an exception/edit report is to be tes
   Interface/conversion control
 </summary>
 
-<br>
-
-***Definition***
+**Definition**
 
 *`Data interfaces`* – Data interfaces transfer specifically defined portions of information (data) between two computer systems, using either manual or automated means or a hybrid of both, and should ensure accuracy, completeness and integrity of the data being transferred. The job of a data interface is to transfer the data securely, once and only once, completely, accurately, with integrity, and to highlight any exceptions. Interfaces can be two-way (back and forth between two systems) or one-way (from one system to another), and can link new systems to old/Legacy systems or old/Legacy systems to new systems.
 
 *`Data conversion`* – Data conversion is the process of migrating data from a Legacy system (which may have old, duplicate, inaccurate, incomplete data, which reside in several places within the system) to a new system. To perform this process, the data needs to be cleansed, reviewed and synchronized prior to conversion (a critical step), then mapped (which may include parsing or other manipulation), reformatted, translated, consolidated and loaded into the new system (which may include a time lag or delay during which new data is created). Once the data has been converted and loaded into the new system, it must be maintained to ensure its completeness, existence, accuracy and integrity.
 
-***Points to consider when performing the listed test steps:***
+**Points to consider when performing the listed test steps:**
 
 *  Select a sample of source data as per the sampling guidelines and trace to corresponding converted data/system in order to ensure the data was converted/interfaced accurately and completely.
    - Inspect documentation supporting initial design, function, implementation, including testing, and use judgement to gather sufficient evidence to conclude on whether it is appropriate.
@@ -186,15 +177,12 @@ In most instances, the underlying data for an exception/edit report is to be tes
    - Timeline for job run
    - Timeline for job completion
 
-
 </details>
 
 <details>
 <summary markdown='span'>
   Key performance indicators
 </summary>
-
-<br>
 
 ***Definition***
 
@@ -232,8 +220,6 @@ Select only those KPIs that are both relevant to financial statement assertions 
   Management review
 </summary>
 
-<br>
-
 ***Definition***
 
 Management review is the activity of a person different than the preparer, analyzing and performing oversight of activities performed. In many instances, it will be a manager reviewing the work of a subordinate. However, it is not limited to this. It may include co-workers reviewing each other’s work. Examples including internal audit activities, etc.
@@ -249,15 +235,12 @@ Management review is the activity of a person different than the preparer, analy
 *  Determine if management has adequately documented their review, identified unusual items/trends/variances and that the issues noted have been appropriately researched and resolved timely.
     - If management review is performed in excess of another control (e.g., a reconciliation the other control is reviewed by management) only one or the other controls may need to be tested (reconciliation or management review) depending on which is designed well and consider providing best evidence.
 
-
 </details>
 
 <details>
 <summary markdown='span'>
   Reconciliation
 </summary>
-
-<br>
 
 ***Definition***
 
@@ -285,8 +268,6 @@ Reconciliation is a control designed to verify that two items, such as computer 
   Segregation of duties
 </summary>
 
-<br>
-
 ***Definition***
 
 The separation of duties and responsibilities of authorizing transactions, recording transactions and maintaining custody to prevent individuals from being in a position to both perpetrate and conceal an error or irregularity.
@@ -298,15 +279,12 @@ The separation of duties and responsibilities of authorizing transactions, recor
    - Use the corroborative inquiry technique to corroborate segregation.
 *  Perform review of individuals and the tasks they perform, and review their user profile to determine if their system access allows the segregation of duties (i.e., the system access is limited to the tasks they perform and does not compromise the segregation of duties).
 
-
 </details>
 
 <details>
 <summary markdown='span'>
   System access
 </summary>
-
-<br>
 
 ***Definition***
 
@@ -328,15 +306,12 @@ The ability that individual users or groups of users have within a computer info
 *  	Determine if the user profiles and user access are subject to periodic review and if management has adequately documented their review and the issues of note have been appropriately researched and resolved.
 *  	Determine if security violation reports are generated & security breaches are followed up and investigated. Inspect exception reports generated highlighting exceptions to access restrictions. Follow through on the resolution of an exception that occurred this year and use judgment to obtain sufficient evidence to conclude on follow-up (this may include an online review of user profiles).
 
-
 </details>
 
 <details>
 <summary markdown='span'>
   System configuration / Account mapping control
 </summary>
-
-<br>
 
 ***Definition***
 
