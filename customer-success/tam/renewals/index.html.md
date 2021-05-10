@@ -63,13 +63,9 @@ The TAM will ask the initial renewal question, this should be a ['soft'](https:/
 
 The action items created from the “Renewal Review” meeting should be incorporated into the TAM customer cadence meetings and into any pending QBRs. The actual renewal plan will be documented by the SAL or AE in Salesforce.
 
-## Tracking Renewal Opportunity Health and Risks
+## Tracking Account Health and Risks
 
-**NOTE:** this process (Opp Health and Risks) is handled differently based on regions.
-* EMEA: TAM will own
-* Non-EMEA: TAM Manager will own, with the TAM owning the customer renewal process described above
-
-For greater predictability across the customer base for renewal, upselling, downgrade, and churn, tracking Opportunity Health and Risks is incorporated into Gainsight. This process creates tighter collaboration with the overall CRO Organization and the rest of GitLab.
+For greater predictability across the customer base for renewal, upselling, downgrade, and churn, tracking Account Health and Risks is incorporated into Gainsight. This process creates tighter collaboration with the overall CRO Organization and the rest of GitLab.
 
 To learn the full process, watch [Opportunity Health and Risks Process video](https://www.youtube.com/watch?v=taucYmcWZ6U&feature=youtu.be).
 
