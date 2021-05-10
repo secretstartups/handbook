@@ -110,6 +110,26 @@ However, every approver will have a section in the Nominator's Home tab on Slack
 This will load all the nominations you've reviewed, you will be able to see the state that nominations are in. These states are all the 
 same as mentioned in the above `I nominated someone recently and I still haven't heard back?` question.
 
+## Actions performed by engineers
+### Offboarding
+When a people manager offboards, it could be that the person still had pending nominations.
+To make sure these don't get stuck, we are pinged in the offboarding issue and we have to 
+run the following snippet on the production shell:
+
+```
+/bin/herokuish procfile exec bundle exec rake offboarding:run[BAMBOO_ID]
+```
+
+This will do a lookup on nominations that are pending for a manager or second level manager approver
+and will resend the nomination approval to the new manager.
+
+To take into account:
+- you can only perform this if the reports have been assigned new managers
+- if you're uncomfortable running an executing script, you can first to the `dry run` version: `/bin/herokuish procfile exec bundle exec rake offboarding:dry_run[BAMBOO_ID]`. This will print out the 
+nominations that we would retrigger.
+
+Don't forget to check off the task on the offboarding issue so the People Experience team knows it's been done.
+
 ## Requests and or bugs
 
 Upcoming iterations can be found [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/1655060?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=p-nominatorbot)
