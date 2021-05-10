@@ -315,7 +315,7 @@ Before creating a new content track, decide what type of content track (target v
 
 #### Form Strategy
 
-Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms.
+Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms. Even if you are sending to a known audience, you should consider using form strategy should a visitor forward the experience to an unknown user. 
 
 **Please Note:**  PathFactory activity is tied into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page.
 
