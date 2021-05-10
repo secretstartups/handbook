@@ -74,14 +74,14 @@ Sisense Reporting
 <summary markdown='span'>
 AMER
 </summary>
-- [Channel Book & Pipe - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aRjJ)
-- [Channel Book & Pipe by Partner - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aRjd)
-- [Deal Path Pipe & Book - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aRiz)
-- [Open Partner Sourced Pipeline by Partner - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aS13)
-- [Partner Sourced Bookings by Partner - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aRiL)
-- [Partner Sourced Creation by Partner - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aRhS)
-- [Partner Sourced New Logos - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aRkW)
-- [Channel Renewals - Current & Next Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aWXj)
+- [Channel Book & Pipe - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aqxE)
+- [Channel Book & Pipe by Partner - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aqxJ)
+- [Deal Path Pipe & Book - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aqxO)
+- [Open Partner Sourced Pipeline by Partner - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aqxT)
+- [Partner Sourced Bookings by Partner - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aqxY)
+- [Partner Sourced Creation by Partner - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aqxd)
+- [Partner Sourced New Logos - Current Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aqxs)
+- [Channel Renewals - Current & Next Fiscal Quarter](https://gitlab.my.salesforce.com/00O4M000004aqy2)
 </details>
  
 <details>
