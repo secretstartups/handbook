@@ -38,7 +38,7 @@ D --> F[Unfiltered]
 - Product announcements: A breaking change, new integration, announcing a partnership
 
  If you're still not sure where your post should live, ask in #content on Slack!
- 
+
 ## Advantages of publishing on Unfiltered
 
 The main blog is our official corporate blog, whereas the Unfiltered blog is more like a peer-to-peer publishing platform.
@@ -139,3 +139,9 @@ All content provided on this blog is for informational purposes only. Neither Gi
 Comments are welcome, and in fact, encouraged. However, GitLab reserves the right to edit or delete any comments submitted to this blog without notice should GitLab determine them to i) be spam or questionable spam; ii) include profanity; iii) include language or concepts that could be deemed offensive, hate speech, credible threats, or direct attacks on an individual or group; or iv) are in any other way a violation of GitLab's Website Terms of Use. GitLab is not responsible for the content in comments.
 This policy is subject to change at any time.
 {: .alert .alert-info .note}
+
+## After your Unfiltered blog post is published 
+
+### Share on relevant Slack channel
+
+Post a link to your published Unfiltered blog post on the #unfiltered-blog-updates channel on Slack. Be sure to tag the content editor in your Slack message @skassabian.
