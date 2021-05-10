@@ -68,9 +68,6 @@ The following members of other functional teams are our stable counterparts:
 
 <%= partial("handbook/engineering/development/ops/verify/includes/weighting_issues.erb") %>
 
-#### Implementation issues
-<%= partial("handbook/engineering/development/ops/verify/includes/implementation_issues.erb") %>
-
 ### Release Plans
 
 <%= partial("handbook/engineering/development/ops/verify/includes/release_plans.erb") %>
@@ -78,6 +75,23 @@ The following members of other functional teams are our stable counterparts:
 ### Workflow
 
 <%= partial("handbook/engineering/development/ops/verify/includes/dev_workflow.erb", locals: { group: 'Pipeline Authoring', board_id: '2019514' }) %>
+
+#### Engineering and design implementation issues
+
+We split up design and engineering implementation into separate issues.
+This makes it easier to know the status of an active issue at a glance.
+Design issues go through the first few stages of our workflow. 
+Once it's ready for dev, we create a new issue for the engineering implementation.
+This will be in the `planning breakdown` phase of the workflow until an implementation plan has been added and weighted.
+
+The health status should be enough to know the general status of an issue.
+If you need more information on what tasks remain, you can check the implementation plan.
+Every engineering implementation issue needs an implementation plan in the description.
+It is a list or a table that outlines all the steps required to complete the feature.
+The engineer assigned to the issue is responsible for creating this plan and keeping it up to date.
+Here is [an example of one an **implementation plan** in an issue](https://gitlab.com/gitlab-org/gitlab/-/issues/296547#implementation-breakdown).
+
+We will start this process in %14.0 and will retro on it at the end of that milestone.
 
 ### Spikes
 
