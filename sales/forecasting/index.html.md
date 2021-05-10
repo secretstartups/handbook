@@ -186,23 +186,23 @@ Click on the radio button for the type of opportunities you want to see (normall
 ##### To enter or overwrite your forecast: Quarterly View
 1. In Clari, go to the Forecasting tab.
 1. Go to the ARR tab.
-1. Go to Commit box, double-click and enter/override the value.
+1. Go to Gross ARR Commit box, double-click and enter/override the value.
 1. Add a note on why the adjustment was made.
 1. Click Save
-1. Repeat this process for Best Case.
+1. Repeat this process for Gross ARR Best Case and the Net 50/50.
 
 ##### To enter or overwrite your forecast: Monthly View
 1. In Clari, go to the Forecasting tab.
 1. Go to the ARR tab.
 1. On the top/middle of the screen you'll see a calendar icon with arrows pointing left or right.  **Select the right arrow to activate the Monthly view** within the given quarter. 
-1. For each month within the quarter, go to the respective Commit box, double-click and override the value.
+1. For each month within the quarter, go to the respective Gross ARR Commit box, double-click and override the value.
 1. Add a note on why the adjustment was made.
 1. Click Save
-1. Repeat this process for Best Case.
+1. Repeat this process for Gorss ARR Best Case and Net 50/50.
 1. Once these steps are completed, toggle back to the Quarterly view by selecting the left arrow next to the calendar icon
 1. Here you will need to enter your Quarterly Commit and Best Case calls.  You have two options to make this happen:
-   1. In the Commit and Best Case boxes, manually enter the quarterly amount (recommend doing this if the sum of your monthly commits is not what you want to call for the quarter)
-   1. In the Commit and Best Case boxes, select the `Copy Total to Commit` button (recommend doing this if the sum or your monthly commit is equal to your quarterly commit)
+   1. In the Gross ARR Commit, Gross ARR Best Case and Net 50/50 boxes, manually enter the quarterly amount (recommend doing this if the sum of your monthly commits is not what you want to call for the quarter)
+   1. In the Gross ARR Commit, Gross ARR Best Case and Net 50/50 boxes, select the `Copy Total to Commit` button (recommend doing this if the sum or your monthly commit is equal to your quarterly commit)
 
 **Notable items related to Monthly Forecasting**
 - When a new month begins, the forecast call from the previous month will be displayed until a new forecast call is submitted for the new month.
