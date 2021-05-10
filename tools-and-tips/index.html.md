@@ -520,7 +520,6 @@ Tip: The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is 
 1. While in a document with many other editors, click on the image or icon of any user at the top of the document to move focus to their cursor and what they are typing in the document.
    This is great when someone is speaking about something they are typing on a video call and you are not sure where they are in the document.
 1. Quickly find all action items assigned to you with a [search for `followup:actionitems`](https://drive.google.com/drive/search?q=followup:actionitems).
-1. During meetings, in the upper-right side of the window for a Google document, double-click on the picture (or first initial) of the person speaking to see where their cursor currently is in the document being discussed.
 1. To add additional rows to a numbered list in a Google Document, press `Return` to add additional spaces under the existing numbered list in the document, highlight those spaces, and click the numbered list icon in the formatting bar (or press `Command ⌘ + Shift + 7` on a Mac) to create a numbered list from the spaces. See video on [how to add more rows to a numbered list](https://www.youtube.com/watch?v=dgyttEJi-ZQ) for a quick tutorial.
 
 See also [Live Doc Meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) for more Google Doc tips.
