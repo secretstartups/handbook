@@ -26,7 +26,7 @@ Keep in mind only 1 SLA policy can be in place for a ticket. As such, it will
 use the top most SLA based on the list of our SLAs (see below).
 
 **NOTE**: What appears here is all titled SLA, but many of these are internal
-SLOs instead. They are titled SLA because that is what Zendesk calls the
+SLOs instead (For example, the Next response time is an SLO while the First response time is an SLA). They are titled SLA because that is what Zendesk calls the
 setting.
 
 
