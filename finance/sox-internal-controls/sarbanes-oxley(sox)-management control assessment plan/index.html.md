@@ -104,6 +104,7 @@ Authorization includes:
 - Discuss with Information Technology the mechanism for maintaining the appropriate schedule of authorizations within the system. Determine if terminated/resigned employees are removed from the list immediately on the effective dates.
 - Determine if the existing authorization capabilities within the system are consistent with the Corporate Policy and if the process is appropriately controlled. If management review is performed consider using their test work to gain evidence related to the effectiveness of the control.
 - Inquire if the control has ever been circumvented and if these instances are appropriately controlled with appropriate parties notified. If the computer facilitates authorization, perform a system query to determine whether the system access prohibits unauthorized processing.
+
 </details>
 
 <details>
