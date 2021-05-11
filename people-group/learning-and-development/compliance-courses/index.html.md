@@ -39,7 +39,7 @@ All team members, regardless of location, are required to take harassment preven
 1. You may be sent a link via email to verify your account
 1. Once you have logged in successfully, you will be taken to the course you selected. 
    1. You can use the navigation bar at the top right-hand side of the screen for volume and screen settings. To the left and right of the center screen, you should see this symbol: > which you can click on to move forward and back through the training.
-1. Once completed, please log into BambooHR and upload a copy of your certificate in the *Employee Uploads* folder
+1. Once completed, please log into BambooHR and upload a copy of your certificate in the *Employee Uploads* folder (Under the "My Info" tab, navigate to the "Documents" tab and click the Upload button).
 1. You may also keep a record of the certificate for your own files. To create the certificate, click on *view* in the course title, scroll down to *users* then click on *completion certificates* to download the PDFs. 
 
 If a Team Member moves from an individual contributor role to a manager role, they will be assigned a New Manager Enablement issue to work through. In this issue, it will be verified if they have completed the correct level of harassment prevention training. If the team member has completed the "Team Member" level of the training, they will have to take the "Supervisor" level of the training as well.
