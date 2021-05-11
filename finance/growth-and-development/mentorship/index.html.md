@@ -16,7 +16,7 @@ In the finance team, there's a great untapped opportunity for cross-training and
 #### Program Structure
 
 ##### 1:1 Coaching Sessions
-The program proposes a mentor/mentee relationship between selected applicants on the sales team and mentors in leadership roles across the company. Sessions will take place every other week for 30-minutes and will last for up to 3 months (with the possibility of an extension), as long as both mentors and mentees remain engaged. The mentor/mentee relationship will be cross-divisional, meaning that both parties will have the opportunity to work with and learn from team members outside of your respective divisions.
+Sessions will take place every other week for 30-minutes and will last for up to 3 months (with the possibility of an extension), as long as both mentors and mentees remain engaged. The mentor/mentee relationship will be cross-divisional, meaning that both parties will have the opportunity to work with and learn from team members outside of your usual roles.
 
 ##### Program Slack Channel
 All program communications will be sent through the slack channel [#finance-mentorship-program](https://gitlab.slack.com/archives/C01SELK5M18).
@@ -56,7 +56,21 @@ Mentees identify, at minimum, one development goal that they’d like to discuss
 
 | Mentor | Mentee |
 | ------- | ------- |
-|  |  |
+| Daniel Parker | Dillon Wheeler |
+| Melody Maradiaga | Sylwia Szepietowska |
+| Bryan Wise | Mark Quitevis |
+| Dale Brown | Nicole Ann Precilla |
+| Andrew Murray	| Michelle Cooper |
+| Igor Groenewegen-Mackintosh | Sindhu Srivastava |
+| Sindhu Tatimatla | Naomi Khan |
+| Craig Mestel | Erica de longpre |
+| Israel Weeks | Karuna Singh |
+| Brian Robins | Courtney Cote |
+| Aleshia Hansen | Alex Westbrook |
+| Paul Armstrong | Melody Maradiaga |
+| Justin Stark | Wendy Lam |
+| Sushma Nalamaru | Paul Laurinavicius |
+| Daniel Parker | Harley Devlin |
 
 #### Success Metrics
 * 80 or greater NPS score across mentors and mentees (9's or 10's for the following question: "Overall, I would recommend this program to another GitLab team member" at the end of the pilot program survey).
