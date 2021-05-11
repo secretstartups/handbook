@@ -54,7 +54,7 @@ All Trusted Data solutions must meet the following criteria:
 - [ ] A [Data project](https://gitlab.com/gitlab-data/analytics/-/issues) Epic is created to manage development
 - [ ] Requirements and success criteria are captured and tracked in the Epic
 - [ ] Scope is defined for v1.0 and v1.1, with a release cycle established up-front (e.g. weekly, bi-weekly, monthly)
-- [ ] A Dashboard Wireframe is created in Lucid and shared with users, iterating to "final draft"
+- [ ] A Dashboard Wireframe is created in Lucid or Sisense and shared with users, iterating to "final draft"
 - [ ] The Dimensional Data Model is designed and integrated into the [Enterprise Dimensional Model Bus Matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=742713121)
 - [ ] [Trusted Data Tests](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) are created and deployed
 - [ ] The solution enters a User Acceptance Testing phace, including data validations to source systems
