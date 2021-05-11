@@ -46,7 +46,7 @@ Run this if you only need a clone of the raw `sheetload` schema in order to test
 
 ### clone_raw_specific_schema
 
-Specify which schema to run with the SCHEMA_NAME variable. Run this if you need a clone of any other individual schema in order to test changes or additions.  If the raw clone already exists, this will do nothing. 
+Run this if you need a clone of any other raw schema in order to test changes or additions. Specify which raw schema to clone with the `SCHEMA_NAME` variable. If the raw clone already exists, this will do nothing. 
 
 #### force_clone_both
 
