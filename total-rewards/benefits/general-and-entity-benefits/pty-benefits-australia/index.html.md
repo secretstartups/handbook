@@ -94,7 +94,7 @@ Time in lieu should be requested via [PTO by Roots](/handbook/paid-time-off/#pto
 * This leave runs concurrently with GitLab PTO.  Team members should select `Vacation` in PTO by Roots to ensure that leave entitlements are properly tracked.  For team members who are not covered by a modern award or enterprise agreement, they may be asked to take a period of paid annual leave if such request is reasonable, such as when a team member has accrued an excessive amount of paid annual leave.
 
 #### Personal/Carer’s Leave
-* Team members will be entitled to personal/carer’s leave in accordance with the Fair Work Act 2009 (Cth) as varied from time to time.  Currently that entitlement is 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.t.
+* Team members will be entitled to personal/carer’s leave in accordance with the Fair Work Act 2009 (Cth) as varied from time to time.  Currently that entitlement is 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.
 * Personal/carer’s leave is cumulative and accrues progressively.
 * This leave runs concurrently with GitLab PTO.  Team members should select `Out Sick` in PTO by Roots to ensure that leave entitlements are properly tracked.  If you wish to take Carer's Leave but don't want to change your Slack status to Out Sick, send your Carer's Leave request to total-rewards@gitlab.com and the Total Rewards team will manually add your leave to BambooHR and notify payroll.
 
