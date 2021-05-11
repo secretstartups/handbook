@@ -70,7 +70,7 @@ Mentees identify, at minimum, one development goal that they’d like to discuss
 | Paul Armstrong | Melody Maradiaga |
 | Justin Stark | Wendy Lam |
 | Sushma Nalamaru | Paul Laurinavicius |
-| Daniel Parker | Harley Devlin |
+| Dennis van Rooijen | Harley Devlin |
 | Rob Parker | Daniel Parker |
 
 #### Success Metrics
