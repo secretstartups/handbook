@@ -13,7 +13,7 @@ description: "Product Usage Data provides quantitative measurement of how, when,
 ---
 ## Product Usage Data
 
-Product Usage Data provides quantitative measurement of how, when, and where the Customer is using GitLab as a product and how the utilization metrics can be integrated into business processes to accelerate customer adoption and improve customer retention. The Product Usage Data page will provide the information and tools that GitLab team members can use to explore Product Usage Data and develop customer insights.
+**Product Usage Data** provides quantitative measurement of how, when, and where the Customer is using GitLab as a product and is used by GitLab teams to build better products, accelerate customer adoption, and improve customer retention. The Product Usage Data page will provide the information and tools that GitLab team members can use to explore Product Usage Data and develop customer insights.
 
 ### Business Use Cases for Customer Product Usage Data:
 
@@ -34,11 +34,10 @@ In the future, we plan on adding support for the following use cases:
 
 | Data Type | Key Use Cases | Data Flow | dbt Flows | ERDs |
 | - | - | - | - | - |
-| [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/) | Gainsight Product Usage, [xMAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/), [Estimated MAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html) | JSON payload sent from Self-Managed instances to [version](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) to snowflake.raw.version_db |  |  |
-| [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link) |  |  |  |  |
-| Version Check |  | [version](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) postgres push to snowflake.raw.version_db  | [version_checks](https://dbt.gitlabdata.com/#!/source/source.gitlab_snowflake.version.version_checks) |  |
-| GitLab.com |  SaaS customer analysis, Adoption Trends, Gainsight Product Usage | gitlab.com -> replicas/clones <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.tap_postgres | `numerous` | [gitlab schema](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) |
-
+| [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/) | Gainsight Product Usage, [xMAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/), [Estimated MAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html) | [JSON payload](https://docs.gitlab.com/ee/development/usage_ping/index.html#example-usage-ping-payload) sent from Self-Managed instances -> [version.gitlab.com](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) -> [Version Postgres Database](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/db/schema.rb) <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.version_db |  |  |
+| [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link) | Gainsight Product Usage Data | [Customers Portal](https://docs.gitlab.com/ee/subscriptions/index.html#customers-portal) -> [Customers Postgres Database](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/db/schema.rb) <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.tap_postgres.customers_db_license_seat_links | | |
+| [Version Check](https://about.gitlab.com/handbook/sales/process/version-check/) | None | [version](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) -> [Version Postgres Database](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/db/schema.rb) <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.version_db.version_checks |  |  |
+| [GitLab.com](https://gitlab.com/gitlab-org/gitlab/-/tree/master) |  SaaS customer analysis, Adoption Trends, Gainsight Product Usage (coming soon) | gitlab.com -> replicas/clones <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.tap_postgres | `numerous` | [gitlab schema](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) |
 
 
 ## Available Self-Service Capabilities
