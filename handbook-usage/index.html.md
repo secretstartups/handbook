@@ -196,7 +196,7 @@ If you require project-based access, you can request temporary developer access 
 
 #### Why is there a internal handbook?
 
-As a company, we are [public by defualt](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. Items that falls into the [not public](/handbook/communication/#not-public) category will be added to this [Internal Handbook](https://internal-handbook.gitlab.io/handbook) . 
+As a company, we are [public by default](/handbook/values/#public-by-default), but there are things that we cannot discuss publicly. Items that falls into the [not public](/handbook/communication/#not-public) category will be added to this [Internal Handbook](https://internal-handbook.gitlab.io/handbook) . 
 
 #### The process of using this handbook
 
