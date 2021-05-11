@@ -81,15 +81,14 @@ If a manager or any team member witnesses or is made aware of any team member be
 
 How do you know if a team member isn't reaching their goals? Below are some common warning signs and patterns of underperformance as it relates to not meeting the expectations of the role. 
 
-1. Volume of output 
-2. Quality of output 
-3. Response time 
-4. Unclear status of work
-5. Frustration of the team member
-6. Disagreements or confusion about the goals
-7. Frustration from other team members
-8. Other team members start working around them
-9. Missed goals and timelines
+1. Produces [results](https://about.gitlab.com/handbook/values/#results)
+1. Response time 
+1. Unclear status of work
+1. Frustration of the team member
+1. Disagreements or confusion about the goals
+1. Frustration from other team members
+1. Other team members start working around them
+1. Missed goals and timelines
 
 These are all signs of a performance issue, however are these performance issues skill-based or will-based?  Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to implement a plan to improve performance.  
 
