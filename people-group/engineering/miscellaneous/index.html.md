@@ -18,6 +18,9 @@ means that if team members edit that field in the file, this will result in the 
 for this is that we consider BambooHR as the single source of truth for this data. Thus team members and managers will need to
 make adjustments in BambooHR first and this will be automatically propagated in the team page entry.
 
+To determine what to fill in for the specialty, we first look at the multi-select specialty field. If there is nothing present in 
+this field, we look at the single select specialty field. 
+
 ## Parental leave PTO to BambooHR
 
 From 2020-12-18 we will do a daily check to see if any new Parental leave PTO was requested for the day before on PTO by Roots. If there are any PTO events created on that day, we will add 3 employment statuses to the team member's BambooHR profile:
