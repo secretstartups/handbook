@@ -483,11 +483,11 @@ Tips:
 
 ##### Keeping time
 
-Shadows are responsible for being aware of the current time and providing timekeeping awareness so the meeting participants can comfortably wrap up the meeting. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes".
+Shadows are responsible for being aware of the current time and providing timekeeping in many [types of meetings](#responsibilities). This is for meeting participants to comfortably wrap up the meeting.  Past shadows have found it helpful for the individual in the second week of the program to commit to keeping time when applicable.
 
 Please use the calendar invite as an indication of how long the meeting should last. We do [speedy meetings](/handbook/communication/#scheduling-meetings).
 While it may feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly.
-Shadows should provide a 5-minute and 1-minute notification. If a meeting is running over the allocated time by saying "we're in overtime".
+Shadows should provide a 5-minute and 1-minute notification. If a meeting is running over the allocated time by saying "we're in overtime". Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes".
 
 You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat. At time, the same will occur with "We are at time". To use the script, download it, and use `source setalarm.sh` in your MacOS terminal to load the `setalarm` function. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if no argument is provided).
 
