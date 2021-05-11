@@ -164,6 +164,10 @@ If you are a Sales Leader, will have additional access to the **Forecasting Tab*
       - **Gap to Go**: Plan minus Closed
       - **Open Pipeline**: Current quarter open pipeline (all stages)
    - The Net ARR Attainment tab will only show for individuals and/or Sales Leaders who are on a Net ARR plan (or have team members on a Net ARR plan). 
+   - **Note**: 
+      - This view is an **estimate** of overall attainment 
+      - Attainment numbers are pulled from Salesforce; 
+      - Xactly statements should be consulted for final attainment results
 
 * **Gross ARR Attainment**
    - For Sales Reps who are on a Gross ARR plan, this tab reflects a consolidated view of the following details by rep:
@@ -172,6 +176,10 @@ If you are a Sales Leader, will have additional access to the **Forecasting Tab*
       - **Gap to Go**: Plan minus Closed
       - **Open Pipeline**: Current quarter open pipeline (all stages)
    - The Gross ARR Attainment tab will only show for individuals and/or Sales Leaders who are on a Gross ARR plan (or have team members on a Gross ARR plan).
+   - **Note**: 
+      - This view is an **estimate** of overall attainment 
+      - Attainment numbers are pulled from Salesforce; 
+      - Xactly statements should be consulted for final attainment results
 
 #### Reviewing Forecasts
 
