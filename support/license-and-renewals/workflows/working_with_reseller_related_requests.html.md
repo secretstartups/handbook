@@ -27,7 +27,7 @@ Note:  Sometimes you can also see Partners section in the end-user's SFDC accoun
 
 ### Handling the ticket
 
- tickets from customers who purchased through resellers are often seen in the following scenarios:
+ Tickets from customers who purchased through resellers are often seen in the following scenarios:
 
 - Cannot sign into to Customers Portal or Resetting password for Customers Portal is not working
 - License cannot upload because there's true-up
