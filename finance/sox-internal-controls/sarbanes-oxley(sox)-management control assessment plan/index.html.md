@@ -86,7 +86,9 @@ Test Type: Techniques that may be used to obtain evidence about the effectivenes
 To determine the appropriate testing technique, it is first necessary to identify the control category. Controls can generally be categorized into the following:
 
 <details>
-<summary markdown="span">Authorization (Manual & System)</summary>
+<summary markdown="span">
+Authorization (Manual & System)
+</summary>
 
 ***Definition***
 
