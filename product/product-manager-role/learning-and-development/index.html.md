@@ -290,7 +290,8 @@ _Please contribute your favorite resources here_
 
 ##### Quick reads and videos
 
-_Please contribute your favorite resources here_
+- [The Engineering Manager: The relationship with Product](https://www.theengineeringmanager.com/growth/the-engineering-product-relationship/) 
+- [Visha Soni: A Practical Prioritization Approach for Technical Debt](https://productcoalition.com/a-practical-prioritization-approach-for-technical-debt-f1eb31b8e409)
 
 ##### Deeper dive
 
