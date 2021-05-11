@@ -71,7 +71,7 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 GitLab's Product and Engineering leaders discuss a change to our model of prioritization where for some teams we are allocating a percentage of capacity for making engineering improvements focused on medium to long term security, reliability, performance areas. 
 
-<iframe width="560" height="315" src=" https://youtu.be/KfIH61C0XiU" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+<iframe width="560" height="315" src=" https://youtube.com/embed/KfIH61C0XiU" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
 #### General Prioritization Guidance
 
