@@ -149,7 +149,7 @@ If a `Global Account` has a lower segment than any of its child accounts, the `G
 - `Mid-Market` = 101-2000 total employees
 - `SMB` (Small Business) = 0-100 total employees
 
-![gtm-model](/handbook/sales/field-operations/gtm-resources/gtm-model.png)
+![gtm-model](/handbook/sales/field-operations/gtm-resources/gtm-model1mm.png)
 
 `Total Employee` count is based on the number of employees that our data tools return for that account <b>as determined in the [sales segment review process time period](#sales-segment-and-hierarchy-review-process)</b>.
 We use a hierarchy structure to determine what the number of employees is for the account.
