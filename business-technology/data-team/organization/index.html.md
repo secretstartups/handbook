@@ -16,7 +16,7 @@ description: "GitLab Data Team Organization"
 
 ## Data Team Organization
 
-The Data Team is organized into centers of technical and subject matter excellence, completemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivery data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform-team).
+The Data Team is organized into centers of technical and subject matter excellence, complemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform-team).
 
 ```mermaid
 classDiagram
