@@ -116,7 +116,7 @@ Outreach is able to sync some custom information about these meetings into event
 `Correct Contact: Answered`| The correct contact actully picked up the phone and you had a conversation with the contact|
 |`Correct Contact: Left Message`| You were able to reach the voicemail for the correct contact and you left a message on their machine or with their Personal Assistant |
 |`Correct Contact: Not Answered/Other`| You were able to reach the correct contact through a company directory but it kept ringing. You reached the contacts voicemail but their voicemail was not set up so you could not leave a message |
-|`Correct Contact: IQM Set`| You were able to schedule an IQM while on the phone call. Note that a trigger exists in Outreach to automatically change lead status to `Qualifying` if this option is selected. |
+|`Correct Contact: IQM Set`| You were able to schedule an IQM while on the phone call. Note that a trigger exists in Outreach to automatically change lead status to `Qualifying` when this option is selected |
 |`Busy`|Get a busy tone when calling|
 |`Bad Number`|The phone number is not valid|
 |`Incorrect Contact: Answered`| The wrong person answered the phone number that you had for this contact and it is the wrong persons phone number (They were not a personal assistant). They didn’t take a message for the correct person or give helpful information|
