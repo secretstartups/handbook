@@ -37,7 +37,7 @@ Becoming a maintainer involves consistent contributions to the codebase, a high 
 
 ##### Trainee Maintainer
 
-We follow the same trainee maintainer program as documented in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#trainee-maintainer). Anyone may nominate themselves as a trainee by opening a tracking issue using [the Trainee SAST maintainer template]()
+We follow the same trainee maintainer program as documented in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#trainee-maintainer). Anyone may nominate themselves as a trainee by opening a tracking issue using [the Trainee SAST maintainer template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/trainee-sast-maintainer.md)
 
 ### Gotchas
 
