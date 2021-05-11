@@ -199,8 +199,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager |
 | 2021-05-24 | 2021-05-28 | [Melissa Ushakov](https://gitlab.com/mushakov) - Sr. Product Manager - Manage:Access| [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
 | 2021-06-01 | 2021-06-04 | April Malone - Sijbrandij Personal EA | [Melissa Ushakov](https://gitlab.com/mushakov)- Sr. Product Manager - Manage:Access |
-| 2021-06-07 | 2021-06-11 | AVAILABLE - REMOTE | April Malone - Sijbrandij Personal EA |
-| 2021-06-14 | 2021-06-18 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-06-07 | 2021-06-11 | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial | April Malone - Sijbrandij Personal EA |
+| 2021-06-14 | 2021-06-18 | AVAILABLE - REMOTE | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial |
 | 2021-06-21 | 2021-06-25 | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager | AVAILABLE - REMOTE |
 | 2021-06-28 | 2021-07-01 | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager |
 | 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
