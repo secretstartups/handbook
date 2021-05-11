@@ -87,7 +87,7 @@ To determine the appropriate testing technique, it is first necessary to identif
 
 <details>
 <summary markdown="span">
-Authorization (Manual & System)
+Authorization (Manual System)
 </summary>
 
 ***Definition***
@@ -110,7 +110,7 @@ Authorization includes:
 </details>
 
 <details>
-<summary markdown="span">Exception/Edit Report Control</summary>
+<summary markdown='span'>Exception/Edit Report Control</summary>
 
 ***Definition***
 
