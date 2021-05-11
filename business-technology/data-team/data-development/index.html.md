@@ -36,7 +36,7 @@ Most of the time the ad-hoc report solves for the immediate business need and no
 
 ### Business Insights Data Development
 
-**Business Insights** constitute the majority of solutions where stable and reliable reports are required, but a structured enterprise dimensional model is not availableat. Business Insights solutions serve as the SSOT for their respective metrics and play an important role in the overall reporting landscape. 
+**Business Insights** constitute the majority of solutions where stable and reliable reports are required, but a structured enterprise dimensional model is not available yet. Business Insights solutions serve as the SSOT for their respective metrics and play an important role in the overall reporting landscape. 
 
 Business Insights solutions differ from ad-hoc reports because they include quality validations such as data testing, code review, and registration in the Data Catalog. Business Insights solutions may leverage portions of the EDM, but will not be based entirely on it. However, when compared to a Trusted Data Solution, a Business Insights solution lacks complete test coverage and EDM coverage.
 
