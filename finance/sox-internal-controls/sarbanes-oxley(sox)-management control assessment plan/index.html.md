@@ -86,16 +86,16 @@ Test Type: Techniques that may be used to obtain evidence about the effectivenes
 To determine the appropriate testing technique, it is first necessary to identify the control category. Controls can generally be categorized into the following:
 
 <details>
-  <summary markdown="span">Authorization (Manual & System)</summary>
+<summary markdown="span">Authorization (Manual & System)</summary>
 
-**Definition**
+***Definition***
 
 Authorization includes:
 
 - Approval of transactions executed in accordance with management’s general or specific policies and procedures.
 - Access to assets and records in accordance with management’s general or specific policies and procedures.
 
-**Points to consider when performing the listed test steps:**
+***Points to consider when performing the listed test steps:***
 
 - Select a sample of documents per the sampling guidelines.
 - Review the sample for evidence of documented approval/authorization. Inspect documentation evidencing authorization (signatures or computer-generated audit trail).
@@ -107,9 +107,7 @@ Authorization includes:
 </details>
 
 <details>
-<summary markdown='span'>
-  Exception/Edit Report Control
-</summary>
+<summary markdown="span">Exception/Edit Report Control</summary>
 
 ***Definition***
 
@@ -135,21 +133,19 @@ In most instances, the underlying data for an exception/edit report is to be tes
      - If the report is computer generated and key configured controls are used to compile the report, use the configuration/account mapping control category for consideration to ensure the compilation of the report and underlying configuration are appropriate.
 *  	Determine if the unresolved items are tracked and reported to the next level.
 *  	Evaluate if the exceptions on the selected reports have been documented and approved.
-
 </details>
 
-<details>
-<summary markdown='span'>
-  Interface/conversion control
-</summary>
 
-**Definition**
+<details>
+<summary markdown="span">Interface/conversion control</summary>
+
+***Definition***
 
 *`Data interfaces`* – Data interfaces transfer specifically defined portions of information (data) between two computer systems, using either manual or automated means or a hybrid of both, and should ensure accuracy, completeness and integrity of the data being transferred. The job of a data interface is to transfer the data securely, once and only once, completely, accurately, with integrity, and to highlight any exceptions. Interfaces can be two-way (back and forth between two systems) or one-way (from one system to another), and can link new systems to old/Legacy systems or old/Legacy systems to new systems.
 
 *`Data conversion`* – Data conversion is the process of migrating data from a Legacy system (which may have old, duplicate, inaccurate, incomplete data, which reside in several places within the system) to a new system. To perform this process, the data needs to be cleansed, reviewed and synchronized prior to conversion (a critical step), then mapped (which may include parsing or other manipulation), reformatted, translated, consolidated and loaded into the new system (which may include a time lag or delay during which new data is created). Once the data has been converted and loaded into the new system, it must be maintained to ensure its completeness, existence, accuracy and integrity.
 
-**Points to consider when performing the listed test steps:**
+***Points to consider when performing the listed test steps:***
 
 *  Select a sample of source data as per the sampling guidelines and trace to corresponding converted data/system in order to ensure the data was converted/interfaced accurately and completely.
    - Inspect documentation supporting initial design, function, implementation, including testing, and use judgement to gather sufficient evidence to conclude on whether it is appropriate.
@@ -177,9 +173,7 @@ In most instances, the underlying data for an exception/edit report is to be tes
 </details>
 
 <details>
-<summary markdown='span'>
-  Key performance indicators
-</summary>
+<summary markdown="span">Key performance indicators</summary>
 
 ***Definition***
 
@@ -213,9 +207,7 @@ Select only those KPIs that are both relevant to financial statement assertions 
 </details>
 
 <details>
-<summary markdown='span'>
-  Management review
-</summary>
+<summary markdown="span">Management review</summary>
 
 ***Definition***
 
@@ -235,9 +227,7 @@ Management review is the activity of a person different than the preparer, analy
 </details>
 
 <details>
-<summary markdown='span'>
-  Reconciliation
-</summary>
+<summary markdown="span">Reconciliation</summary>
 
 ***Definition***
 
@@ -261,9 +251,7 @@ Reconciliation is a control designed to verify that two items, such as computer 
 </details>
 
 <details>
-<summary markdown='span'>
-  Segregation of duties
-</summary>
+<summary markdown="span">Segregation of duties</summary>
 
 ***Definition***
 
@@ -279,9 +267,7 @@ The separation of duties and responsibilities of authorizing transactions, recor
 </details>
 
 <details>
-<summary markdown='span'>
-  System access
-</summary>
+<summary markdown="span">System access</summary>
 
 ***Definition***
 
@@ -306,9 +292,7 @@ The ability that individual users or groups of users have within a computer info
 </details>
 
 <details>
-<summary markdown='span'>
-  System configuration / Account mapping control
-</summary>
+<summary markdown='span'>System configuration / Account mapping control</summary>
 
 ***Definition***
 
@@ -336,7 +320,6 @@ System configuration and account mapping include “switches” that can be set 
 Account mapping may be changeable in a “live” production environment by users. Mis-mapped accounts may not appear on the financial statements, or they may appear in an inappropriate manner such as in a suspense account or in an “opposite” category such as revenue to liability. An end-user can circumvent configurable controls if the control is not appropriately set up to meet the company’s needs and user access appropriately. For example, using the warning message “can continue” may not be as appropriate to meet the company’s needs as “cannot continue - transaction is “held/blocked.”
 
 Configurable controls can override security control features. For example, not assigning “authorization groups” to certain accounts, tables or programs can result in ineffective security. On the other hand, a configurable control can be set up but may not be effective unless the system access supports the control as configured (for example - a user with super-user access can just change the configured control setting).
-
 </details>
 
 For controls not falling into the control categories listed above, testing procedures will be determined based on the distinct nature of the control.
