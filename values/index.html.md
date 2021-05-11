@@ -649,13 +649,13 @@ With internal meetings, consider using an agenda document for questions. For exa
 
 Customers are not used to working in this way. To promote inclusion with customers: ask participants for their goals; make sure during demos that you pause for question; leave time for discussion.
 
-##### Inclusive and fair policy to regions with less employees
+##### Inclusive and fair policy to regions with fewer employees
 
-Being globally distributed has the benefit that someone can cover for you when you are off-work. However, the population density is not balanced across timezones. Policies should remain fair to those in less dense regions.
+Being globally distributed has the benefit that someone can cover for you when you are off work. However, population density is not balanced across timezones. Policies should remain fair to those in less dense regions.
 
-For example, the Asia Pacific region covers more timezones while has less employees. If we use an algorithm to assign tasks to those in later timezones, all American tasks would fall into the fewer Asia Pacific employees, which can damage belonging and inclusivity and should be avoided.
+For example, the Asia Pacific region covers more timezones but has fewer team members. If we use an algorithm to assign tasks to those in later timezones, all American tasks would fall on the fewer Asia Pacific employees. This can damage belonging and inclusivity and should be avoided.
 
-When planning for events, organizer should also be aware of location density differences to maximize participation in all regions.
+When planning an event, the organizer should cater for location density differences to maximize participation in all regions.
 
 ##### See Something, Say Something
 {:.no_toc}
