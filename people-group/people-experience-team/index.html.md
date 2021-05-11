@@ -30,14 +30,8 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 ### OOO Handover Process for People Experience Team
 
-1. The People Experience Associate will create a document the day before their scheduled OOO with the following:
-- What urgent tasks are there that need to be reassigned:
-* Onboarding
-* Offboarding
-* Career Mobilities
-* Any other tasks
-- Is there anything else that we should be made aware of and contribute to whilst you are away?
-2. The People Experience Coordinator will then reassign tasks to an alternative People Experience Associate.
+1. The People Experience Associate will open a PEA Handover OOO [issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/PEA_OOO_Handover_Issue.md) and tag all Associates in the issue at least the day before their scheduled OOO. If there are confidential items/tasks that need to be handed over, please create a Google doc, share with the team and link to the issue.
+2. The People Experience Coordinator will then reassign tasks to an alternative People Experience Associate (where applicable).
 3. Get assistance from the People Operation Specialist team if additional hands are needed.
 
 
