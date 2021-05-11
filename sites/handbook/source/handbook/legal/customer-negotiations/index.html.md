@@ -134,14 +134,14 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 1. Learn about the GitLab Legal Team! Look through basic questions and answers which will help you collaborate with legal and close deals faster!
 
 
-## What is Open Source?
+## Open Source
 ### 🎥 [Watch the "What is Open Source" video](Update with video)
 _Please Note: This information is provided for educational purposes only and GitLab is not providing any legal advice_
 
-1. Helpful resources on Open Source Software can be found at the [Opensource.com](https://opensource.com/) and the [Open Source Inititiave](https://opensource.org/)
-2. Open Source Software generally means that a recipient has the same rights as those of the distributor, and such rights include the ability to "use, copy, modify and distribute" the Software as they see fit. That being said, there are numerous different types of Open Source Software which have ranging requirements. 
-3. Visit the [GitLab Project](https://gitlab.com/gitlab-org/gitlab)
-4. GitLab uses Open Source Software as part of the Open Core Business Model, learn more about the [GitLab Open Core Business Model](https://about.gitlab.com/company/stewardship/#business-model)
+1. For a general introduction to Open Source, including lists of acceptable and unacceptable Open Source licenses for use in GitLab, see [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/).
+1. Helpful external resources on Open Source Software can be found at [Opensource.com](https://opensource.com/) and the [Open Source Inititiave](https://opensource.org/).
+3. The Open Source project for GitLab can be found at [gitlab.com/gitlab-org/gitlab](gitlab.com/gitlab-org/gitlab).
+4. GitLab uses Open Source Software as part of its Open Core Business Model. Learn more about the [GitLab Open Core Business Model](https://about.gitlab.com/company/stewardship/#business-model).
 
 
 ## GitLab Subscription Agreement 101
