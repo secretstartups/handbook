@@ -71,6 +71,7 @@ Mentees identify, at minimum, one development goal that they’d like to discuss
 | Justin Stark | Wendy Lam |
 | Sushma Nalamaru | Paul Laurinavicius |
 | Daniel Parker | Harley Devlin |
+| Rob Parker | Daniel Parker |
 
 #### Success Metrics
 * 80 or greater NPS score across mentors and mentees (9's or 10's for the following question: "Overall, I would recommend this program to another GitLab team member" at the end of the pilot program survey).
