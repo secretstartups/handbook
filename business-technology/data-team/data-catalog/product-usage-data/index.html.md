@@ -13,7 +13,7 @@ description: "Product Usage Data provides quantitative measurement of how, when,
 ---
 ## Product Usage Data
 
-Product Usage Data provides quantitative measurement of how, when, and where the Customer is using GitLab as a product and how the utilization metrics can be integrated into CRO organization business processes to accelerate customer adoption and improve customer retention. The Product Usage Data page will provide the information and tools that GitLab team members can use to explore Product Usage Data and develop customer insights.
+Product Usage Data provides quantitative measurement of how, when, and where the Customer is using GitLab as a product and how the utilization metrics can be integrated into business processes to accelerate customer adoption and improve customer retention. The Product Usage Data page will provide the information and tools that GitLab team members can use to explore Product Usage Data and develop customer insights.
 
 ### Business Use Cases for Customer Product Usage Data:
 
@@ -26,19 +26,32 @@ Product Usage Data provides quantitative measurement of how, when, and where the
 - Visibility into GitLab implementation architecture, scaling up/down of infrastructure
 - Discussing utilization and adoption patterns with our internal champions to strategize on where to apply energy in terms of new user onboarding and overall value realization for the account
 
-#### Future use cases will also include:
-
+In the future, we plan on adding support for the following use cases:
 - Tracking of stage adoption by a customer and eventually teams for ROI and maturity. This will also act as insight to progress against the customer success plan objectives.
 - Driving digital engagement (i.e., actions and content) based on utilization, customer lifecycle phase and engagement (i.e., time-to-value).
 
+### Types of Product Data
+
+| Data Type | Key Use Cases | Data Flow | dbt Flows | ERDs |
+| - | - | - | - | - |
+| [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/) | Gainsight Product Usage, [xMAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/), [Estimated MAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html) | JSON payload sent from Self-Managed instances to [version](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) to snowflake.raw.version_db |  |  |
+| [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link) |  |  |  |  |
+| Version Check |  | [version](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) postgres push to snowflake.raw.version_db  | [version_checks](https://dbt.gitlabdata.com/#!/source/source.gitlab_snowflake.version.version_checks) |  |
+| GitLab.com |  SaaS customer analysis, Adoption Trends, Gainsight Product Usage | gitlab.com -> replicas/clones <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.tap_postgres | `numerous` | [gitlab schema](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) |
+
+
+
+## Available Self-Service Capabilities
 
 The data solution delivers three [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities:
 
-1. Gainsight Users:  The customer's product usage data ingested within Gainsight from Snowflake to create specific workflows, visualize trends, build customer health scorecards, review use case adoption strategies and understand how the data connects. 
-1. Dashboard Developer/User: A new Sisense data model containing the complete dimensional model components to build new dashboards and link existing dashboards to Customer Product Adoption Data.
-1. SQL Developer: An Enterprise Dimensional Model subject area
+1. **Gainsight Users**:  Self-Managed product usage data is now avilable within Gainsight, enabling Gainsight users to  create specific workflows, visualize trends, build customer health scorecards, and review use case adoption strategies. The [Using Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/) a full guide.
+1. **Dashboard Developer**: A new Sisense data model containing the complete dimensional model components to build new dashboards and link existing dashboards to Customer Product Adoption Data.
+1. **SQL Developer**: A [Enterprise Dimensional Model](https://lucid.app/lucidchart/12ee91c1-7ae5-4e99-96ae-bc51652dfa19/view?page=B47EyN20O.G6#) subject area. Refer to the `R2A Objects` tab.
 
-From a Data Platform perspective, the solution delivers:
+### Data Platform Components
+
+From a Data Platform technology perspective, the solution delivers:
 
 1. Gainsight Data Pump - EDW to Gainsight and Gainsight to EDW
 1. An extension to the Enterprise Dimensional Model for Product Usage data
@@ -91,13 +104,13 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 
 ### Key Terms
 
-1. [Customer](https://about.gitlab.com/handbook/sales/sales-term-glossary/#customer)
+1. [Customer](/handbook/sales/sales-term-glossary/#customer)
 1. [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/)
 1. [GitLab Self-Managed Subscription](https://docs.gitlab.com/ee/subscriptions/self_managed)
 1. [GitLab SaaS subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#gitlab-saas-subscription)
 1. [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link)
-1. [Product Category, Product Tier, Delivery](https://about.gitlab.com/handbook/marketing/strategic-marketing/tiers/#overview)
-
+1. [Product Category, Product Tier, Delivery](/handbook/marketing/strategic-marketing/tiers/#overview)
+1. [Version Check](/handbook/sales/process/version-check)
 
 ### Key Metrics, KPIs, and PIs
 
