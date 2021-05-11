@@ -88,22 +88,22 @@ To determine the appropriate testing technique, it is first necessary to identif
 <details>
   <summary markdown="span">Authorization (Manual & System)</summary>
 
-***Definition***
+**Definition**
 
 Authorization includes:
 
-*  	Approval of transactions executed in accordance with management’s general or specific policies and procedures.
-*  	Access to assets and records in accordance with management’s general or specific policies and procedures.
+- Approval of transactions executed in accordance with management’s general or specific policies and procedures.
+- Access to assets and records in accordance with management’s general or specific policies and procedures.
 
-***Points to consider when performing the listed test steps:***
+**Points to consider when performing the listed test steps:**
 
-*  	Select a sample of documents per the sampling guidelines.
-*  	Review the sample for evidence of documented approval/authorization. Inspect documentation evidencing authorization (signatures or computer-generated audit trail).
-*  	Review to ensure approval/authorization is in compliance with the company Policy.
-*  	Discuss the authorization process with those involved and understand if the process is appropriately controlled. Specifically, understand if the control has ever been circumvented and if these instances are appropriately controlled with appropriate parties notified.
-*  	Discuss with Information Technology the mechanism for maintaining the appropriate schedule of authorizations within the system. Determine if terminated/resigned employees are removed from the list immediately on the effective dates.
-*  	Determine if the existing authorization capabilities within the system are consistent with the Corporate Policy and if the process is appropriately controlled. If management review is performed consider using their test work to gain evidence related to the effectiveness of the control.
-*  	Inquire if the control has ever been circumvented and if these instances are appropriately controlled with appropriate parties notified. If the computer facilitates authorization, perform a system query to determine whether the system access prohibits unauthorized processing.
+- Select a sample of documents per the sampling guidelines.
+- Review the sample for evidence of documented approval/authorization. Inspect documentation evidencing authorization (signatures or computer-generated audit trail).
+- Review to ensure approval/authorization is in compliance with the company Policy.
+- Discuss the authorization process with those involved and understand if the process is appropriately controlled. Specifically, understand if the control has ever been circumvented and if these instances are appropriately controlled with appropriate parties notified.
+- Discuss with Information Technology the mechanism for maintaining the appropriate schedule of authorizations within the system. Determine if terminated/resigned employees are removed from the list immediately on the effective dates.
+- Determine if the existing authorization capabilities within the system are consistent with the Corporate Policy and if the process is appropriately controlled. If management review is performed consider using their test work to gain evidence related to the effectiveness of the control.
+- Inquire if the control has ever been circumvented and if these instances are appropriately controlled with appropriate parties notified. If the computer facilitates authorization, perform a system query to determine whether the system access prohibits unauthorized processing.
 </details>
 
 <details>
