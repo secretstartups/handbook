@@ -21,7 +21,7 @@ title: "CEO Scheduling & Preferences"
     1. Assists CoS with company-wide OKRs as required
     1. Coordinates the quarterly E-Group offsite and other social/team bonding events for the Executive team 
 1. **[Katie Gammon](https://about.gitlab.com/company/team/#kgammon) - Executive Business Adminstrator** 
-   1. Schedules internal and external meetings with CEO (exeption is Board Meetings)
+   1. Schedules internal and external meetings with CEO (exception is Board Meetings)
    1. Triage meeting requests in #eba-team, engage the Staff EBA to the CEO as necessary 
    1. Triage the CEO’s inbox and assign messages to the Staff EBA or the CoS to draft and follow up on. 
    1. Expense Reports for the CEO 
@@ -60,6 +60,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 1. Office hours hosted by the CEO like Iteration Office Hours should be live streamed publicly by default and the live stream should be hosted by a member of the EBA team or a CEO Shadow.
 1. Sid will attend one of the Monthly Diversity, Inclusion and Belonging calls (typically scheduled at 8am or 4pm PT). Please accept one and decline the other.
 1. If there is a video posted in advance of a [Group Conversation](/handbook/group-conversations/) in slack, the EBA to the CEO should schedule a meeting at 6am (Pacific time) on the CEO's calendar for him to watch the video in advance of the Group Conversation on the same day. Please include a link to the video in the calendar invite and indicate whether it is a private or public video.
+1. After an E-Group offsite, block at least 50 minutes to handle slack, emails, etc
 
 ### Prep Calls for Customer/Prospect Meetings
 1. Prep calls for Sales meeting should be scheduled for 10 minutes by default. A [Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) needs to be provided by the Sales team member at the time of requesting the meeting in order to schedule with the CEO. 
