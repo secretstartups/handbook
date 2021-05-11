@@ -101,6 +101,7 @@ While not organized under a sustainability banner, the following projects have b
 - Contribute to our monthly releases, focusing on features and stability improvements that aid efficiency
 - Join the #sustainability Slack channel to gather with other team members interested in the topic
 - Contribute to this handbook page. Does something you're working on aid in sustainability? Add it to the list of projects already in motion.
+- Reach out to @wspillane on Slack or in the #sustainability slack channel if you'd like to discuss how you can get involved with sustainability efforts at GitLab or how the work you're already doing is contributing
 
 #### The Community 
 
