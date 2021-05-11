@@ -208,8 +208,8 @@ Required tools
 Nice to have
 1. iTerm (`brew cask install iterm2`) or kitty (`brew cask install kitty`) (bear in mind that kitty requires more configuration to get it up and running so it's targeted at more advanced users)
 1. macOS doesn't source ~/.bashrc file by default, so if you want it to be processed, you need to source it in your profile file (which you might need to create manually). Why to create the rc file at all instead of keeping everything in the profile? some tools default to rc so they will not process the profile at all. There are actually more differences, see: [About bash_profile and bashrc on macOS](https://scriptingosx.com/2017/04/about-bash_profile-and-bashrc-on-macos/)
-1. macOS doesn't have bash completion feature by default, to install it: `brew install bash-completion` and enable it: `echo "[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion" >> ~/.bashrc"`
-1. fzf used for fuzzy completion in shell, e.g. history search or filepaths, (`brew install fzf` + `echo "[ -f ~/.fzf.bash ] && source ~/.fzf.bash" >> ~/.bashrc"`)
+1. macOS doesn't have bash completion feature by default, to install it: `brew install bash-completion` and enable it: `echo "[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion" >> ~/.bashrc`
+1. fzf used for fuzzy completion in shell, e.g. history search or filepaths, (`brew install fzf` + `echo "[ -f ~/.fzf.bash ] && source ~/.fzf.bash" >> ~/.bashrc`)
 1. the default length of bash history on macOS is 500, to extend the number of entries kept and save the timestamp you can add to your .bashrc for example:
 ```
 export HISTFILESIZE=2000000
