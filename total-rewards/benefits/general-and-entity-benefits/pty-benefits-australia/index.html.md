@@ -208,7 +208,7 @@ If it’s impossible to find a replacement and the team member ends up taking th
 * If the team member is not called in to work during their on-call shift, a regular time-in-lieu compensation for the shift should be applied.  
 * If the team member is called in to work during their on call shift, they are responsible for recording their hours worked during the shift and report to payroll/manager in order for overtime payment processing. 
 
-_Note: Prior to any approval it is important to check whether the day would normally be a working day (Mon-Fri). If the day is normally a working day, overtime payment does not apply, and time-in-lieu will compensation will apply._
+_Note: To stay in compliance with local laws we would follow [the New Zealand government website](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/) with regards to compensation for worked time during on-call._
 
 
 ### Sick Leave
