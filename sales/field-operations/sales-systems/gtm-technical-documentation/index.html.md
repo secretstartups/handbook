@@ -460,3 +460,32 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 **Logic Locations:**   
 * [Email Alerts](https://gitlab.my.salesforce.com/01W?setupid=WorkflowEmails&fcf=00B61000001XPLx)
 
+### Late Renewals Notifications and Closure
+ 
+**Business Process this supports:** Sales Cycle - [Late Renewal Notification & Auto Close Process](https://about.gitlab.com/handbook/sales/sales-renewal-process/#closed-lost-renewal-management)
+ 
+**Overview:** To keep the Sales Pipeline clean and for a systematic way to notify opportunity owners (and their managers) of renewal opportunities that are at risk of lapsing, automatically close late renewals that fall out of adherence to [Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy) this automation has been built. This automation triggers for all Open Renewal Opportunities based on Quote Start Date in the opportunity.
+This logic is included in the `OpportunityJob` to trigger the action (Field Update) & alert. The recipients who receive these emails are Opportunity Owner, Opportunity Owner's Manager & ISR. Specific templates have been created to match up with the notifications. The field updates made to `Admin Poke` field are used to trigger `Troops` to send email alerts to the SAs(Primay Solution Architect).
+To request updating these emails alerts/recipients/actions, please create an [issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in SalesSystems Board for Systems Team Member to review & make necessary updates.
+ 
+Here is the config table for the automation logic for reference:
+ 
+ 
+ 
+| For Open Renewal Opportunity Only                                 | Email Template ID Used  | Logic [Opportunity Quote Start Date]  | Field Update                                                                                                                                                                                                                      | Email Alerts Sent To                         | Troops Alerts Sent To |
+|-------------------------------------------------------|--------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------------|
+| First Notification - Email Alert - 15 days prior to Quote Start Date                      | 00X4M00000121nCUAQ | Today = Quote Start Date - 15 Days  | Admin Poke = 15 days prior lapsed renewal alert1 sent                                                                                                                                                                                       | Opportunity owner, ISR, opp owner manager | SAs          |
+| Second Notification - Email Alert - Day of Quote Start Date                    | 00X4M00000121nFUAQ | Today = Quote Start Date      | Admin Poke = on the day lapsed renewal alert2 sent                                                                                                                                                                                         | Opportunity owner, ISR, opp owner manager | SAs          |
+| Third Notification - Email Alert -30 days after Quote Start Date                      | 00X4M00000121nDUAQ | Today = Quote Start Date + 30 Days  | Admin Poke = 30 days prior lapsed renewal alert3 sent                                                                                                                                                                                      | Opportunity owner, ISR, opp owner manager | SAs          |
+| Final Notification - Email Alert + Closed Lost Update -46 days after Quote Start Date | 00X4M00000121nEUAQ | Today = Quote Start Date + 46 Days    | Admin Poke = opp closed lapsed renewal alert4 sent,        Opportunity Stage = Closed Lost,                                 Closed Lost/Unqualified Reason = Other,               Closed Lost/Unqualified Details = Auto closed lapsed renewal | Opportunity owner, ISR, opp owner manager | SAs          |
+ 
+**Logic Locations:**
+ 
+* [Email Templates](https://gitlab.my.salesforce.com/00X?setupid=CommunicationTemplatesEmail&retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DCommunicationTemplates)
+ 
+* [OpportunityJob.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityJob.cls)
+ 
+ 
+ 
+
+
