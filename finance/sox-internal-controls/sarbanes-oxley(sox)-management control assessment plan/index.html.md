@@ -86,7 +86,7 @@ Test Type: Techniques that may be used to obtain evidence about the effectivenes
 To determine the appropriate testing technique, it is first necessary to identify the control category. Controls can generally be categorized into the following:
 
 <details>
-<summary markdown="block">Authorization (Manual & System)</summary>
+<summary markdown="span">Authorization (Manual & System)</summary>
 
 ***Definition***
 
@@ -133,7 +133,7 @@ In most instances, the underlying data for an exception/edit report is to be tes
      - If the report is computer generated and key configured controls are used to compile the report, use the configuration/account mapping control category for consideration to ensure the compilation of the report and underlying configuration are appropriate.
 *  	Determine if the unresolved items are tracked and reported to the next level.
 *  	Evaluate if the exceptions on the selected reports have been documented and approved.
-</details>
+   </details>
 
 
 <details>
