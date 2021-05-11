@@ -25,12 +25,12 @@ All program communications will be sent through the slack channel [#finance-ment
 
 | Phase                             | Timeline                      |
 | -------                           | -------                       |
-| Call for Mentors and Mentees      | 5 April - 16 April 2021       |
-| Pairing process                   | 19 April - 23 April 2021      |
-| Mentor program kickoff meeting    | Monday 26th April 2021        |
-| Mentorship period                 | 26 April - 30 July 2021     |
-| Mid-program feedback survey       | 16 June 2021                |
-| End of program feedback survey    | 2 August 2021             |
+| Call for Mentors and Mentees      | 5 April - 30 April 2021       |
+| Pairing process                   | 3 May - 7 May 2021      |
+| Mentor program kickoff meeting    | Tuesday 10th May 2021        |
+| Mentorship period                 | 10th May - 10th August 2021     |
+| Mid-program feedback survey       | 1st July 2021                |
+| End of program feedback survey    | 10th August 2021             |
 
 #### Engagement Criteria
 The program will last for up to 3-months if both the mentor and the mentee remain engaged. Being engaged in the program will be defined as:
