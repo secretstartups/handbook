@@ -30,16 +30,16 @@ In the future, we plan on adding support for the following use cases:
 - Tracking of stage adoption by a customer and eventually teams for ROI and maturity. This will also act as insight to progress against the customer success plan objectives.
 - Driving digital engagement (i.e., actions and content) based on utilization, customer lifecycle phase and engagement (i.e., time-to-value).
 
-### Types of Product Data
+### Sources of Product Usage Data
 
-| Data Type | Key Use Cases | Data Flow |
+| Source | Key Use Cases | Data Flow From Source To EDW |
 | - | - | - |
 | [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/) | Gainsight Product Usage, [xMAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/), [Estimated MAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html) | [JSON payload](https://docs.gitlab.com/ee/development/usage_ping/index.html#example-usage-ping-payload) sent from Self-Managed instances -> [version.gitlab.com](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) -> [Version Postgres Database](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/db/schema.rb) <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.version_db | 
 | [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link) | Gainsight Product Usage | [Customers Portal](https://docs.gitlab.com/ee/subscriptions/index.html#customers-portal) -> [Customers Postgres Database](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/db/schema.rb) <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.tap_postgres.customers_db_license_seat_links |
 | [Version Check](https://about.gitlab.com/handbook/sales/process/version-check/) | None | [version](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master#versiongitlabcom-application) -> [Version Postgres Database](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/db/schema.rb) <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.version_db.version_checks | 
 | [GitLab.com](https://gitlab.com/gitlab-org/gitlab/-/tree/master) |  [Product Adoption Dashboard](https://app.periscopedata.com/app/gitlab/771580/Product-Adoption-Dashboard), Gainsight Product Usage (coming soon) | gitlab.com -> replicas/clones <- [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) -> snowflake.raw.tap_postgres |
 
-## Available Self-Service Capabilities
+## Self-Service Capabilities
 
 The data solution delivers three [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities:
 
