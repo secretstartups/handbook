@@ -44,7 +44,7 @@ The program will last for up to 3-months if both the mentor and the mentee remai
 
 Mentees identify, at minimum, one development goal that they’d like to discuss with their mentor. 
 
-*_How to identify a goal?_*
+***How to identify a goal?***
 
 - Themes from 360 feedback
 - A skill that you’d like to improve 
