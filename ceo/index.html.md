@@ -338,7 +338,11 @@ The smaller we split things up, the smaller steps we take and the faster we can 
 
 ## Superstar Executives 
 
-I keep in touch with seasoned executives and connect with many of them on a regular basis (monthly, quarterly or annually). I prioritize people from [underrepresented groups](/company/culture/inclusion/#definitions), because I see value in learning from folks with different backgrounds. These same folks may eventually become GitLab team members who would add [diversity](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) to GitLab. I have Superstar Executive conversations across all functions, because it is important for me to have external, subject-specific mentors. This helps me to be a better boss and CEO. It also lets me maintain an important network as GitLab executives could leave the company at any point for a variety of reasons.
+Superstar Executives are seasoned professionals who I keep in touch with and often connect with on a regular basis (monthly, quarterly or annually). In Superstar Executive meetings, I get to learn from and know senior leaders within the industry. This helps me to understand what great looks like as it offers me a lens into other companies and what has made them successful or held them back. I ask questions about how Superstar Executives would approach GitLab's current challenges or opportunities. I often share insights from my conversations with functional leaders and other team members.
+
+I have Superstar Executive conversations across all functions, because it is important for me to have external, subject-specific mentors. Better understanding individual functions helps me set better targets, ask better questions, and be a better partner to functional leaders. This allows me to be a better boss and CEO. 
+
+I prioritize people from [underrepresented groups](/company/culture/inclusion/#definitions), because I see value in learning from folks with different backgrounds. These same folks may eventually become GitLab team members who would add [diversity](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab) to GitLab. 
 
 ## CEO scam
 
