@@ -86,9 +86,7 @@ Test Type: Techniques that may be used to obtain evidence about the effectivenes
 To determine the appropriate testing technique, it is first necessary to identify the control category. Controls can generally be categorized into the following:
 
 <details>
-<summary markdown='span'>
-  Authorization (Manual & System)
-</summary>
+  <summary markdown="span">Authorization (Manual & System)</summary>
 
 ***Definition***
 
@@ -106,7 +104,6 @@ Authorization includes:
 *  	Discuss with Information Technology the mechanism for maintaining the appropriate schedule of authorizations within the system. Determine if terminated/resigned employees are removed from the list immediately on the effective dates.
 *  	Determine if the existing authorization capabilities within the system are consistent with the Corporate Policy and if the process is appropriately controlled. If management review is performed consider using their test work to gain evidence related to the effectiveness of the control.
 *  	Inquire if the control has ever been circumvented and if these instances are appropriately controlled with appropriate parties notified. If the computer facilitates authorization, perform a system query to determine whether the system access prohibits unauthorized processing.
-
 </details>
 
 <details>
