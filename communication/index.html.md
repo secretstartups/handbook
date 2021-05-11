@@ -971,7 +971,7 @@ We want to use MECEFU terms to describe a domain to ensure efficient communicati
 
 1. Mutually Exclusive: nothing is referenced by more than one term
 1. Collectively Exhaustive: everything is covered by one of the terms
-1. Few words: the longer terms are the more likely it is people will not use all of them and cause confusion. Strive for single word terms, to eliminate risk of shortened forms. Avoid acronyms because they are hard to remember (we're open to a few words to replace MECEFU as an acronym :)
+1. Few words: the longer terms are, the more likely it is that people will not use all of the words in them. Strive for single word terms to eliminate risk of unintentionally shortened terms causing unnecessary confusion. Avoid acronyms, because they are hard to remember (we're open to a few words to replace MECEFU as an acronym :)
 1. Ubiquitous language: [defined above](#ubiquitous-language)
 
 An example of a MECEFU term is our [sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation):
