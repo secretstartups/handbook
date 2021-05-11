@@ -36,7 +36,7 @@ The control environment sets the tone of an organization, influencing the contro
 
 `Risk Assessment`
 
-Control factors to be considered while evaluating this component include: 
+Control factors considered while evaluating this component include: 
 
 *  Definition of established objectives at both the strategic (entity-wide) level and the process (activity) level.
 *  Identification of relevant internal and external risk factors that could impact the achievement of the defined objectives.
@@ -57,7 +57,7 @@ In the evaluation of the monitoring component the following factors are consider
 
 Assessing process-level controls will include an evaluation of control design and an evaluation of control operation effectiveness.
 
-**a.  Evaluating design effectiveness of controls**
+`Evaluating design effectiveness of controls`
 
 Design effectiveness refers to whether the control is suitably designed to prevent or detect material misstatements in financial statements. It involves consideration of the financial reporting objectives that the control is meant to achieve and whether it will achieve them. When evaluating control design, the following factors are considered:
 
@@ -71,7 +71,7 @@ Design effectiveness refers to whether the control is suitably designed to preve
 
 The risk and control matrices, together with a listing of control gaps or deficiencies, will serve as evidence of this evaluation. If the design of a particular control is deemed to be inadequate or a control gap is identified, process/control owners will implement additional controls or changes in the design of existing controls. To maintain evaluation of design effectiveness current, process/control owners will review process, risk and control documentation at quarterly intervals to identify any new or changed risks and highlight the relevant controls that have been implemented to mitigate these risks.
 
-**b.  Evaluating operating effectiveness of controls**
+`Evaluating operating effectiveness of controls`
 
 Operating effectiveness refers to whether the control is functioning as designed. During the evaluation of operating effectiveness, evidence regarding how the control was applied, the consistency with which it was applied, and by whom it was applied will be gathered.
 SOX PMO will execute testing procedures to support management’s evaluation of operating effectiveness of controls for in-scope processes.
