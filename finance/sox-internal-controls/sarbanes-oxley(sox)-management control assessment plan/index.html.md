@@ -11,9 +11,9 @@ title: "Sarbanes-Oxley(SOX) Control Assessment Procedure"
 
 
 
-GitLab has adopted the COSO 2013 framework to support its evaluation/assessment of the effectiveness of internal control over financial reporting by:
+GitLab has adopted the [COSO 2013 framework](https://www.coso.org/pages/ic.aspx) to support its evaluation / assessment of the effectiveness of Internal Control Over Financial Reporting (ICOFR). ICOFR are assessed at entity and process level as detailed below.
 
-#### 1.  Assessing the entity-level controls
+##### 1.  Assessing the entity-level controls
 
 This includes evaluating the effectiveness of GitLab’s entity-wide controls particularly relating to the control environment, risk assessment, and monitoring components of COSO. Below are the key control factors considered while evaluating COSO components at an entity level.
 
@@ -48,7 +48,7 @@ In the evaluation of the monitoring component the following factors are consider
 
 <br>
 
-#### 2.  Assessing process-level controls
+##### 2.  Assessing process-level controls
 
 Assessing process-level controls will include an evaluation of control design and an evaluation of control operation effectiveness.
 
@@ -74,7 +74,7 @@ SOX PMO will execute testing procedures to support management’s evaluation of 
 Prior to performing test work on the operating effectiveness of internal control over financial reporting, audit programs will be prepared. The audit program will set out the nature, timing and extent of the procedures to be performed.
 
 <details markdown="block">
-<summary markdown="span">a.  Selection of Test type and Control Categories</summary>
+<summary markdown="span">a.  Selection of test type and control categories</summary>
 
 **Test Type:**  Techniques that may be used to obtain evidence about the effectiveness of the operation of controls include observation, inquiry, inspection, re-performance, knowledge assessment, corroborative inquiry, and system query. 
 
@@ -106,9 +106,9 @@ Controls that fall into the exception/edit report category relate to when a repo
 *  Exception - a violation of a set standard
 *  Edit - a change to a master file
 
-In most instances, the underlying data for an exception/edit report is to be tested.
+In most instances, the underlying data for an exception/edit report is tested.
 
-***Points considered while performing the listed test steps:***
+**Points considered while performing the listed test steps:**
 
 *  	Select a sample of exception/edit reports per the sampling guideline.
 *  	Inquire if operational or system changes have been made since the last review and if the exception/edit reports have been updated.
@@ -131,7 +131,7 @@ In most instances, the underlying data for an exception/edit report is to be tes
 
 *`Data conversion`* – Data conversion is the process of migrating data from a Legacy system (which may have old, duplicate, inaccurate, incomplete data, which reside in several places within the system) to a new system. To perform this process, the data needs to be cleansed, reviewed and synchronized prior to conversion (a critical step), then mapped (which may include parsing or other manipulation), reformatted, translated, consolidated and loaded into the new system (which may include a time lag or delay during which new data is created). Once the data has been converted and loaded into the new system, it must be maintained to ensure its completeness, existence, accuracy and integrity.
 
-***Points considered while performing the listed test steps:***
+**Points considered while performing the listed test steps:**
 
 *  Select a sample of source data as per the sampling guidelines and trace to corresponding converted data/system in order to ensure the data was converted/interfaced accurately and completely.
    - Inspect documentation supporting initial design, function, implementation, including testing, and use judgement to gather sufficient evidence to conclude on whether it is appropriate.
@@ -159,14 +159,13 @@ In most instances, the underlying data for an exception/edit report is to be tes
 <details markdown="block">
 <summary markdown="span">Key performance indicators</summary>
 
-***Definition***
 
 Key performance indicators (“KPIs”) are the financial and non-financial quantitative measurements that are:
 
 *  Collected by management, either continuously or periodically; and
 *  Used by management to evaluate the extent of progress toward meeting management’s defined objectives.
 
-***Points considered while performing the listed test steps:***
+**Points considered while performing the listed test steps:**
 
 *  Perform trend analysis of the selected KPI & identify any unusual fluctuations.
 *  Determine if the listed/expected KPIs are calculated appropriately and timely.
@@ -193,7 +192,7 @@ Select only those KPIs that are both relevant to financial statement assertions 
 
 Management review is the activity of a person different than the preparer, analyzing and performing oversight of activities performed. In many instances, it will be a manager reviewing the work of a subordinate. However, it is not limited to this. It may include co-workers reviewing each other’s work. Examples including internal audit activities, etc.
 
-***Points considered while performing the listed test steps:***
+**Points considered while performing the listed test steps:**
 
 *  Select a sample of documents per the sampling guideline.
 *  Review sample for documented evidence management review.
@@ -202,14 +201,14 @@ Management review is the activity of a person different than the preparer, analy
 *  Document name, dates, and summary of interview and follow-up action taken.
 *  Inspect supporting documentation evidencing review (e.g., signatures, board minutes, journal entries, etc.)
 *  Determine if management has adequately documented their review, identified unusual items/trends/variances and that the issues noted have been appropriately researched and resolved timely.
-    - If management review is performed in excess of another control (e.g., a reconciliation the other control is reviewed by management) only one or the other controls may need to be tested (reconciliation or management review) depending on which is designed well and consider providing best evidence.
+    - If management review is performed in excess of another control (e.g., a reconciliation the other control is reviewed by management) only one or the other controls may need to be tested (reconciliation or management review) depending on which is designed well and consider obtaining best evidence.
 </details>
 <details markdown="block">
 <summary markdown="span">Reconciliation</summary>
 
 Reconciliation is a control designed to verify that two items, such as computer systems, are consistent.
 
-***Points considered while performing the listed test steps:***
+**Points considered while performing the listed test steps:**
 
 *  Select a sample of reconciliation documents per the sampling guidelines.
 *  Review the sample for evidence of secondary review.
@@ -217,7 +216,7 @@ Reconciliation is a control designed to verify that two items, such as computer 
    - Agreement to the books/records reviewed
    - Timely date of preparation
    - Reconciliation balances
-   - Significant unidentified reconciling items that might represent a balancing amount (e.g., captions such as unlabeled “differences” or “other”)?
+   - Significant unidentified reconciling items that might represent a balancing amount (e.g., captions such as unlabeled “differences” or “other”)
 *  Review to ensure the review process is in compliance with the company Policy.
    - If there is a management review consider whether the initial preparation and follow-up or reviews will provide the best evidence control and test appropriately. (Also see management review control category)
 *  Verify balances to source systems (e.g., trace GL balance to GL).
@@ -229,10 +228,10 @@ Reconciliation is a control designed to verify that two items, such as computer 
 
 The separation of duties and responsibilities of authorizing transactions, recording transactions and maintaining custody to prevent individuals from being in a position to both perpetrate and conceal an error or irregularity.
 
-***Points considered while performing the listed test steps:***
+**Points considered while performing the listed test steps:**
 
 *  Understand by inquiry and observation whether there is adequate segregation of duties among those that authorize transactions, record transactions and maintain custody of assets.
-   - Inspect the accounting policies and procedures manual noting that segregation of duties policies and procedures (specific to the area reviewed) are documented.
+   - Inspect the accounting policies and procedures noting that segregation of duties policies and procedures (specific to the area reviewed) are documented.
    - Use the corroborative inquiry technique to corroborate segregation.
 *  Perform review of individuals and the tasks they perform, and review their user profile to determine if their system access allows the segregation of duties (i.e., the system access is limited to the tasks they perform and does not compromise the segregation of duties).
 </details>
@@ -241,10 +240,10 @@ The separation of duties and responsibilities of authorizing transactions, recor
 
 The ability that individual users or groups of users have within a computer information system processing environment, as determined and defined by access rights configured in the system. The access rights in the system agree to the access in practice.
 
-***Points considered while performing the listed test steps:***
+**Points considered while performing the listed test steps:**
 
 *  Inquire about the maintenance process of granting and limiting access to system/transaction to appropriate personnel and determine if:
-   - Terminated/resigned individuals are removed immediately from the system on the effective date; and
+   - Terminated/resigned individuals are removed timely from the system; and
    - Segregation of duties is maintained in granting access to individuals.
 *  Obtain a listing of individuals with access to the system/function noted in the control description from the IT department.
    - Corroborate knowledge of individuals with respect to their understanding of their own access capabilities. Compare responses to management's understanding and/or established guidelines.
