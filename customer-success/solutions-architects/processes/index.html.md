@@ -1,3 +1,7 @@
+---
+layout: handbook-page-toc
+title: Solutions Architect Processes
+---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -79,7 +83,11 @@ The entire cross-functional team should help in the preparation of the QBR conte
 
 Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation. Teams can handle this on a case by case basis.
 
-When reaching out to engage SAs during opportunity qualification and discovery, please provide them with the active SFDC opportunity id and any additional opportunity information (i.e., company background, initiatives, pain points, personas, etc.). The opportunity information will enable the SAs to execute an efficient and relevant discovery, ensuring our prospects' / customers' optimal experience.
+When reaching out to engage SAs during opportunity qualification and discovery, technical evaluations, please provide the below information. This will enable the SAs to execute an efficient and relevant discovery, ensuring our prospects' / customers' optimal experience. The SAs reserve the right to decline the meeting if the below information is missing/not provided after being asked & if the correct personas are not engaged. We will review the exceptions on a case-by-case basis in case the below information is not provided and/or not qualified.
+
+- Please provide active SFDC opportunity id
+- Any additional opportunity information (i.e., company background, initiatives, pain points, personas, etc.)
+- The successful outcome of the meeting
 
 Solution Architects should participate in [technical discovery](#technical-discovery-and-demo-preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
 
