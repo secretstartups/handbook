@@ -54,6 +54,10 @@ GitLab offers medical, dental, and vision coverage at no cost to the team member
 
 GitLab team members enrolled in Canada Life have the option of Akira Virtual Care. This is a on-demand virtual care solution. It gives members and their family direct access to secure medical consults with friendly, knowledgeable clinicians – 24/7. For more information, please see the [flyer](https://drive.google.com/file/d/1DIRQ2EaAelXKTsxG8o9mS9P0YIGBnj4j/view?usp=sharing). 
 
+#### Consult+ - Virtual Health Care
+
+Effective May 1, 2021 GitLab team members and their dependants enrolled in Canada Life have the option of Consult+. This gives members and their family online access to meet with medical professionals and spend less time in clinic waiting rooms. For more information, please see the [flyer](https://drive.google.com/file/d/16xwn32pwgbKXHIo1BvcXgI_Zv6N5ifon/view?usp=sharing)
+
 ### Dental Coverages
 
 **Coverage Summary:**
