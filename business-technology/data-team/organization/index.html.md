@@ -14,16 +14,34 @@ description: "GitLab Data Team Organization"
 
 ---
 
-## <i class="far fa-compass fa-fw icon-color font-awesome" aria-hidden="true"></i> Team Organization
+## Data Team Organization
 
-The Data Team is organized into centers of technical and subject matter excellence, completemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivery data solutions that we call **Fusion Teams**.
-Each Fusion Team supports one or more business divisions  and works with stable business counterparts to coordinate priorities and requirements.
+The Data Team is organized into centers of technical and subject matter excellence, complemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform-team).
 
-The data fusion model emphasizes 2 elements:
-1. Enagagement with Business Partners & Data Champions to build better products and drive towards the same goal
-1. Visibility and Transparency around the plans, processes, and projects we use to reach those goals
+```mermaid
+classDiagram
+   GTM <|-- Platform
+        GTM : + Business Partner
+        GTM : + Function Analyst
+        GTM : + Data Analyst
+        GTM : + Analytics Engineer
+    R_and_D <|-- Platform
+        R_and_D : + Business Partner
+        R_and_D : + Function Analyst
+        R_and_D : + Data Analyst
+        R_and_D : + Analytics Engineer
+    G_and_A <|-- Platform
+        G_and_A : + Business Partner
+        G_and_A : + Function Analyst
+        G_and_A : + Data Analyst
+        G_and_A : + Analytics Engineer
+    Platform : +Analytics Engineer
+    Platform : +Data Engineer
+  ```
 
-| **Go To Market (GTM)** | **Product** | **G&A** |
+### Fusion Team Assignments
+
+| **GTM** | **R&D** | **G&A** |
 | ----- | ----- | ----- |
 | `@iweeks` _Lead/DRI_ | `@rparker2` (Acting) _Lead/DRI_	| `@rparker2` (Acting) _Lead/DRI_ | 
 | `@jeanpeguero` |	`@mpeychet` |  |
@@ -32,8 +50,11 @@ The data fusion model emphasizes 2 elements:
 | `@ken_aguilar` |	`@laddula` | |	
 | `@michellecooper` | | |
 						
-### Engagement with Business Partners and Data Champions includes:
+## How Data Fusion Teams Work
 
+Critical to successful Data Fusion Teams are the following elements:
+
+1. Regular and transparent Engagement with Business Partners and Data Champions includes
 1. Bi-weekly Issue/Status updates
 1. Monthly Priority Alignment
 1. Quarterly OKR review
@@ -58,11 +79,6 @@ Beyond the fore-mentioned engagement, we also have Monthly Release Communication
 **Demo Sessions**
 
 Data Team Demos are available in [our YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). Every GitLab Team Member is invited to attend our [weekly Data Team Demo session](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTAzMDRUMTYwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL).
-
-### Development Approach
-
-To stay engaged and transparent in our work, we want our stakeholders to understand how the data team works and what they can expect out of us when we engage. We aim to follow the development process in the diagram below. This approach allows us to capture the requirements and goals of stakeholders upfront and include them in the process as we develop iteratively towards the end solution.
-![data team development_process](data_team_development_process.png)
 
 ### Data Team Roles:
 
