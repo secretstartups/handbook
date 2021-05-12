@@ -647,7 +647,7 @@ Below are the responsibilities of an Internal Customer DRI:
 
 1. **Any GitLab team member** can create an issue labeled `Dogfooding` and spur
 a discussion with PM. This label should never be removed so that the
-decision-making process gets memorialized on the [Dogfooding board](https://gitlab.com/groups/gitlab-org/-/boards/1212116). When creating a Dogfooding issue, consider using the [Dogfooding Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Dogfooding.md) for existing features that need Dogfooding or the [Feature Proposal template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md) for new features.
+decision-making process gets memorialized on the [Dogfooding board](https://gitlab.com/groups/gitlab-org/-/boards/1212116). When creating a Dogfooding issue, consider using the [Dogfooding Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Dogfooding.md) for existing features that need Dogfooding or the [Feature Proposal template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md) for new features.
 1. **PMs** will consider the issue, make an explicit decision, and **add** an appropriate label for next steps:
     1. `Dogfooding::Build in GitLab` when a new feature should be built into GitLab
     1. `Dogfooding::Rebuild in GitLab` when there is existing work (outside of GitLab) that needs to be rebuilt _inside_ of GitLab
@@ -724,7 +724,7 @@ is crisp and concise, and leave the original issue as a post-MVC meta item.
 
 Here are some guidelines to follow when exploring an [MVC](#the-minimal-viable-change-mvc):
 
-- The issue should be based off of the standard [Feature Proposal](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=Feature%20proposal) issue template.
+- The issue should be based off of the standard [Feature Proposal](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=Feature%20proposal%20-%20detailed) issue template.
 - The issue should be the smallest iteration we can create to address the problem.
 - The MVC should be buildable in one iteration.
 - If the issue generates a lot of discussion, make sure that the issue
@@ -2171,9 +2171,9 @@ issues.
 
 We have 3 templates PMs can leverage to create issues for features:
 
-1. [Basic proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Basic%20Proposal.md) for minor tasks or technical details for tracking larger issues.
-1. [Lean feature proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Lean%20Feature%20Proposal.md) and for all feature enhancements that will get proposals and potentially become release post items.
-1. [Feature proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md) for large new features that may require more information or details and will become release post items.
+1. [Basic proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20basic.md) for minor tasks or technical details for tracking larger issues.
+1. [Lean feature proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20lean.md) and for all feature enhancements that will get proposals and potentially become release post items.
+1. [Feature proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md) for large new features that may require more information or details and will become release post items.
 
 The goal of these different templates is to provide an efficient way of creating new issues and improve cross team collaboration. When appropriate, these templates may be leveraged for creating epic descriptions as well.
 
