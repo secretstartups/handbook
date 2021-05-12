@@ -294,7 +294,7 @@ To make sure this is clear we:
 
 1. Are clear with team members on which information cannot be public. This should be clearly captured in the [not public](/handbook/communication/#not-public) section of the handbook 
 1. Execute fast and efficiently to drive results and stay ahead of competitors who read our handbook. As Peter Drucker says, "Strategy is a commodity, execution is an art"
-1. Educate team members on effective and responsible transparency. For example, we offer a [transparency competancy](/handbook/values/#transparency-competency)
+1. Educate team members on effective and responsible transparency. For example, we offer a [transparency competency](/handbook/values/#transparency-competency)
 
 ## 18. Lowering the hiring bar
 {:#lowering-the-hiring-bar}
