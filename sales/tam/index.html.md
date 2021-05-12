@@ -28,7 +28,4 @@ Total Addressable Market (TAMkt) is derived by multiplying the estimated number 
  1. Network engineers
  1. Designers 
 
-
-
-
-
+For a breakdown of the future TAMkt serviceable by our current products, view [Total and Served Addressable Markets](/handbook/product/investment/#total-and-served-addressable-markets).
