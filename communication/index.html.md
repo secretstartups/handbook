@@ -360,7 +360,9 @@ The items below are not shared with all team members. Limited access is a more s
 1. GitLab's Risk Register, is maintained by the [Risk & Field Security Team](/handbook/engineering/security/security-assurance/risk-field-security/). Access to GitLab’s Risk Register is limited to the Security Compliance Team, VP of Security, Executive Leadership and individually identified employees on a need to know basis. This document is not publicly or internally available as there may be risks on the risk register that explicitly call out the mechanisms available for external actors or internal GitLab team members to access content that would violate confidentiality for a GitLab team-member, customer, or user, and may include Personally Identifiable Information (PII).
 1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive
 1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
-1. **Project Names:** Some projects require limited access internally due to the confidential or sensitive nature of the project, including but not limited to projects related to the items listed above. Often, in order to maintain the necessary confidentiality of these types of initiatives, we assign a code name for the project. For consistency and to make it easier to identify the genesis of these projects and their organizational affiliations, we've established the following naming conventions.
+
+#### Project Names
+Some projects require limited access internally due to the confidential or sensitive nature of the project, including but not limited to projects related to the items listed above. Often, in order to maintain the necessary confidentiality of these types of initiatives, we assign a code name for the project. For consistency and to make it easier to identify the genesis of these projects and their organizational affiliations, we've established the following naming conventions.
 
 | Team | Theme |
 | ---- | ----- |
