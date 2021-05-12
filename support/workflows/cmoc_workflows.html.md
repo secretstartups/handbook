@@ -306,3 +306,7 @@ In case there are any uncertainties around the status of an incident, please con
 ## CMOC Shadow PagerDuty Schedule
 
 The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can to be used by people who wish to shadow the CMOC as a learning process before acting as CMOC. A soon-to-be-CMOC can adjust the schedule to match their working hours by clicking _Edit this schedule_ > _Add Another Layer_; add your username, and the days/hours that you wish to shadow.
+
+## CMOC Training videos
+
+It is recommended to watch this video on how to perform CMOC duties effectively: https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy
