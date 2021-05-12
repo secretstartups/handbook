@@ -22,7 +22,7 @@ Types of requests:
    - e.g. [Runbooks](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10748)
 1. [Security and Compliance Requests](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10982)
 1. GitLab.com customer requests in remit of the Infrastructure department:
-   - GitLab.com customers, especially enterprises, may often have requests related to operational capabilities or [non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) of GitLab.com (e.g. availability, security, and performance of the service). Requests related to functionality [within the application itself](https://gitlab.com/gitlab-org/gitlab/) should be directed to the appropriate stage team using the standard [feature request template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md).
+   - GitLab.com customers, especially enterprises, may often have requests related to operational capabilities or [non-functional requirements](https://en.wikipedia.org/wiki/Non-functional_requirement) of GitLab.com (e.g. availability, security, and performance of the service). Requests related to functionality [within the application itself](https://gitlab.com/gitlab-org/gitlab/) should be directed to the appropriate stage team using the standard [feature request template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md).
 
 Examples of requests related to operational capabilities of GitLab.com include:
 1. Disaster Recovery SLA
