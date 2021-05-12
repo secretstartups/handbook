@@ -64,7 +64,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
     * Be sure to enter the correct URL under "Domain" as this impacts the identification of the customer and related sales segment.
     * Click Save.
 5. Be sure to enter detailed information regarding the customer or partner, including full legal name, full billing address, and other pertinent details.
-6. If the account is a `Channel` account, it should be created via the partner creating an account in Impartner or manually via Channel Operations. Sales should not create Channel accounts and should Slack [#channel-ops](https://gitlab.slack.com/archives/CTM4T5BPF).
+6. If the account is a `Channel` account, it should be created via the partner creating an account in Impartner or manually via Channel Operations. Sales should not create Channel accounts and should Slack [#channel-programs-ops](https://gitlab.slack.com/archives/CTM4T5BPF). 
 
 #### How to Create/Edit a Contact
 
@@ -432,7 +432,9 @@ In cases where a discount has been applied to a quote pursuant to a signed agree
 
 #### Channel Quote Approval
 
-Under the [**GitLab Partner Program**](/handbook/resellers/#gitlab-partner-program-overview), signed Channel Partners are granted specific, contractual discounts depending on the Partner Deal Type, the Partner Engagement type, and the Partner's program track (Open vs. Select). This information is automatically captured at the opportunity level. For more information, review the [SFDC Field Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#sfdc-field-definitions) and the [Partner Program Discount Table](https://gitlab.my.salesforce.com/0694M000008xAk4QAE?so=pvt).
+Under the [**GitLab Partner Program**](/handbook/resellers/#gitlab-partner-program-overview), signed Channel Partners are granted specific, contractual discounts depending on the product, Partner Deal Type, and the Partner Engagement type. This information is automatically captured at the opportunity level. For more information, review the [SFDC Field Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#sfdc-field-definitions) and the [Partner Program Discount Tables](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts).
+
+Only GitLab-authorized partners who have completed one sales certification may transact a GitLab order. Partners not authorized by GitLab may not transact.
 
 **Quote Approvals:** The Quote Approval module identifies channel deals (subscription deals only) and manages the necessary approvals automatically. **To request approval on a quote, follow the steps above: [Standard Quote Approval](/handbook/business-ops/order-processing/#standard-quote-approval)**
 
@@ -482,26 +484,6 @@ For a full overview of required channel quote approvals, select the appropriate 
 
 </details>
 
-<details>
-<summary markdown="span"><b>Approvals for Resellers Not Under Contract<b></summary>
-
-**Scenario 1: The reseller is not under contract, a discount has been applied, and there are no other non-standard terms.**
-1. Quote is routed to VP Global Channels for approval.
-2. If VP Global Channels approves, the quote will then go through the standard discount approval process, if applicable.
-
-**Scenario 2: The reseller is not under contract, no discount has been applied, and there are no other non-standard terms.**
-1. Quote is routed to VP Global Channels for approval.
-
-**Scenario 3: The reseller is not under contract, a discount has been applied, and there are other non-standard terms.**
-1. Quote is routed to VP Global Channels for approval.
-2. If VP Global Channels approves, the quote will then go through the standard discount approval process, if applicable.
-3. Quote goes to Deal Desk for approval on non-standard terms.
-
-**Scenario 4: The reseller is not under contract, no discount has been applied, and there are other non-standard terms.**
-1. Quote is routed to VP Global Channels for approval.
-2. Quote goes to Deal Desk for approval on non-standard terms.
-
-</details>
 
 In the event that you require escalation for an approval request, please [reach out to Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us). If possible, Deal Desk will override the approval. If Deal Desk cannot do so, Deal Desk will help to seek approvals from necessary parties.
 
@@ -509,10 +491,8 @@ The quote approval module and approval workflow outlined above **does not apply 
 
 ### Where do I find the partner's contractual discount?
 
-First, go to the Partner's Account page in Salesforce.
+The quoting system has been equipped to provide visibility into the correct programmatic partner discount. On the quote object, each line will be stamped with the “Partner Programmatic Discount.” This field is populated by the system, but does not provide any actual discount to the quote. In order to apply the discount to the quote, this amount should be entered into the “Discount %” field, as with any other quote discount. To confirm that the discount is correct, go to the opportunity and look at the Partner Deal Type, and then look at the Partner Engagement. Next, reference the appropriate [Partner Program Discount Table](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts). The product, Engagement, and Deal Type will allow you to find the proper discount in the matrix..
 
-- **For partners on the new program**, review the "Partner Track" field. Then, reference the [Partner Program Discount Table](https://gitlab.my.salesforce.com/0694M000008xON4).
-- **For partners under a previous contract**, review the "Reseller Discount" field.
 
 ### Service Attach Quote Approval
 
