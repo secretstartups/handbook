@@ -76,7 +76,8 @@ The process of contacting the candidates are as per the following scenarios:
 
 ## Upgrading your LinkedIn account
 
-We're eager to provide hiring managers and all hiring team members with a **LinkedIn Recruiter** seat. To upgrade your seat, please add your GitLab email to your LinkedIn profile, then submit an [Access Request Issue](https://gitlab.com/gl-talent-acquisition/operations/issues/new?issuable_template=LinkedIn%20Access%20Request) using the `LinkedIn Access Request` template within the [Recruiting Operations project](https://gitlab.com/gl-talent-acquisition/operations). To integrate your LinkedIn account with Greenhouse, please refer to the [Enabling LinkedIn Recruiter System Connect](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect) section on the [Greenhouse](/handbook/hiring/greenhouse/) page.
+We're eager to provide hiring managers and all hiring team members with a **LinkedIn Recruiter** seat. To upgrade your seat, please add your GitLab email to your LinkedIn profile (Login to Linkedin > click `Me` > `Settings & Privacy` > `Sign in & security` > `Email addresses` > add your GitLab email address and verify it.
+), then submit an [Access Request Issue](https://gitlab.com/gl-talent-acquisition/operations/issues/new?issuable_template=LinkedIn%20Access%20Request) using the `LinkedIn Access Request` template within the [Recruiting Operations project](https://gitlab.com/gl-talent-acquisition/operations). To integrate your LinkedIn account with Greenhouse, please refer to the [Enabling LinkedIn Recruiter System Connect](/handbook/hiring/greenhouse/#enabling-linkedin-recruiter-system-connect) section on the [Greenhouse](/handbook/hiring/greenhouse/) page.
 
 You can request one of the following seats (we recommend requesting a **Recruiter** seat):
 
