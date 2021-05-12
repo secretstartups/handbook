@@ -240,3 +240,31 @@ New testing file names should follow the pattern `test_*.py` so they are found b
 A testing file consists of one or more tests. An individual test is created by defining a function that has one or many plain Python `assert` statements.  If the asserts are all true, the test passes. If any asserts are false, then the test will fail.
 
 When writing imports, it is important to remember that tests are executed from the root directory.  In the future, additional directories may be added to the PythonPath for ease of testing as need allows.
+
+
+### Exception handling
+
+When writing a python class to extract data from an API it is the responsibility of that class to highlight any errors in the API process. Data modelling, source freshness and formatting issues should be highlighted using dbt tests. 
+
+Avoid use of general try/except blocks ie: 
+```python
+# Don't do this!
+try:
+   print("Do something")
+except:
+   print("Caught every type of exception")
+
+# Do this 
+while maximum_backoff_sec > (2 ** n):
+    try:
+        print("Do something")
+    except APIError as gspread_error:
+        if gspread_error.response.status_code in (429, 500, 502, 503):
+            self.wait_exponential_backoff(n)
+            n = n + 1
+        else:
+            raise
+else:
+    error(f"Max retries exceeded, giving up on {file_name}")
+```
+
