@@ -153,6 +153,13 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 3. The [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) can be used for the sale of both On-Premise and SaaS Software 
 4. The Subscription Agreement is agreed to by either, (i) Clicking-through when purchasing (or downloading) via the GitLab Website, (ii) Referenced in an Order Form that is signed by a Customer, or (iii) Passed through a Reseller if a Customer is buying through an Authorized Partner 
 
+## Data Privacy and the GitLab Data Processing Addendum
+
+1. The [GitLab Privacy Policy](https://about.gitlab.com/privacy/) explains how GitLab collects, uses and shares customer's personal information, and how they may exercise their rights in respect of that information. More information about privacy compliance at GitLab, including answers to a number of frequently asked questions concerning the GDPR, can be found on the [GitLab Privacy Compliance](https://about.gitlab.com/privacy/privacy-compliance/) handbook page.
+1. The GitLab Data Processing Addendum, usually referred to as the "DPA", can be accessed from the [GitLab Terms of Service page](https://gitlab.com/gitlab-com/legal-and-compliance/-/raw/master/BR_signed_Hosted_DPA_V1-brobins_gitlab.com.pdf). As stated in the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#14-security--data-protection), the terms of the DPA automatically apply to corporate customers.
+1. Some customers, particularly those based in Europe or otherwise subject to the GDPR, will require a signed copy of the DPA. To provide a customer with a signed DPA, follow the [Processing Signed DPAs workflow](https://about.gitlab.com/handbook/support/workflows/data_processing_addendums.html#workflow).    
+
+
 ## Why GitLab does not sign BAAs
 
 1. **GitLab will not sign a Business Associate Agreement (BAA)**
