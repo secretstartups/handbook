@@ -40,7 +40,7 @@ The following guidelines provide more detail, as well as suggested responsibilit
 {:.no_toc}
 
 * Use the issue to discuss how the change could affect the quality of the product and impact our users.
-  * Start the discussion by answering the questions in the Testing section of the [feature proposal template](https://gitlab.com/gitlab-org/gitlab/blob/master/.gitlab/issue_templates/Feature%20proposal.md). Note that those questions are not exhaustive.
+  * Start the discussion by answering the questions in the Testing section of the [feature proposal template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md). Note that those questions are not exhaustive.
   * [Optional] See the [Test Plan](#test-plan) section for advice on when a test plan might be useful.
 
 ##### As a Product Manager, Product Designer, Engineer (of any type), user, or anyone else involved in the change:
