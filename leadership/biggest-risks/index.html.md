@@ -287,7 +287,16 @@ To make sure this is clear we:
 1. Ensure that at least 90% of the population responds favorably to the Engagement Survey question "I know what is expected of me to be successful in my job."
 1. Celebrate our growth in revenue when we hit $100M in ARR instead of 1000 people. We put our attention in celebrating our output instead of input, per our [results value](/handbook/values/#results).
 
-## 17. Lowering the hiring bar
+## 17. Vulnerabilities from transparency
+{:#vulnerabilities-from-transparency}
+
+[Transparency](/handbook/values/#transparency) is a GitLab value. It is central to how we operate and our success as a company. It is important for employee recruitment and retention. It is also valued by GitLab customers, contributors, and the many folks who utilize GitLab's handbook to better their own businesses. While GitLab will continue to prioritize transparency, it must also recognize the importance of "responsible" transparency. Trasparency means that employees, competitors, potential investors, and others can easily know more about GitLab than most other companies. Openly sharing information can have unintended consequences. To mitigate risks from transparency, we:
+
+1. Are clear on which information cannot be public. This should be clearly captured in the [not public](/handbook/communication/#not-public) section of the handbook. Ensure that team members are aware of what can and cannot be shared
+1. Execute fast and efficiently to drive results. As Peter Drucker says, "Strategy is a commodity, execution is an art"
+1. Educate team members on effective and responsible transparency. For example, we offer a [transparency competancy](/handbook/values/#transparency-competency)
+
+## 18. Lowering the hiring bar
 {:#lowering-the-hiring-bar}
 
 As we continue to grow our company, there is pressure on departments to meet their [hiring targets](/handbook/hiring/charts/).
@@ -304,7 +313,7 @@ To ensure the people we hire make the company better, we:
 1. Conduct bar raiser interviews
 1. Review cohort performance in the company (completion of onboarding tasks, bonuses, performance review, 360 feedback, performance indicators)
 
-## 18. Ineffective onboarding
+## 19. Ineffective onboarding
 {:#ineffective-onboarding}
 
 We are onboarding many people quickly, making it easy for things to fall behind.
@@ -314,7 +323,7 @@ Therefore we:
 1. Measure the time to productivity in sales (ramp time) and engineering (time to first MR, MRs per engineer per month)
 1. Make sure we work [handbook-first](/handbook/handbook-usage/#why-handbook-first), so the handbook is up to date.
 
-## 19. Fork and commoditize
+## 20. Fork and commoditize
 {:#fork-and-commoditize}
 
 Since we are based on an open source product, there is the risk of fork and commoditize like what [AWS experienced with ElasticSearch](https://www.youtube.com/watch?v=G6ZupYzr_Zg).
@@ -336,7 +345,7 @@ What we need to do is:
 1. [Keep the open source community contributing](#loss-of-the-open-source-community)
 1. [Follow our buyer-based-open-core pricing model](/company/pricing/#buyer-based-open-core)
 
-## 20. Economic Downturn
+## 21. Economic Downturn
 {:#economic-downturn}
 
 An economic downturn will likely prolong our sales cycle.
@@ -357,7 +366,7 @@ Here are the things we can do at GitLab counter this risk:
 - When speaking with customers, lead with empathy and help support their transition to remote
 - Be the example for how to be even more effective as a remote company
 
-## 21. Founder Departure
+## 22. Founder Departure
 {:#founder-departure}
 
 Often startups struggle through the transition when founders leave the company, especially when those founders also serve as the CEO.
@@ -369,7 +378,7 @@ To ensure we avoid this risk we:
 1. Actively help the CEO grow with the company, including training, coaching, and feedback
 
 
-## 22. More layers of middle management creating problems
+## 23. More layers of middle management creating problems
 {:#more-layers-of-middle-management-creating-problems}
 
 As a company expands, you get more layers of middle management.
@@ -389,7 +398,7 @@ Each one of the problems above has a specific solution:
 1. Incent folks to take calculated risks. Make failure acceptable. There is a thin line between incentivizing risk and recklessness, so draw the line carefully. For example, when [team-member1 accidentally dropped our production database](/blog/2017/02/01/gitlab-dot-com-database-incident/), they were [still promoted](/blog/2017/03/17/how-is-team-member-1-doing/) because we [promote based on performance](/handbook/people-group/promotions-transfers/#creating-a-promotion-or-compensation-change-document).
 1. Focus on [customer centricity](/handbook/leadership/biggest-risks/#loss-of-customer-centricity).
 
-## 23. Technical debt ineffectively managed
+## 24. Technical debt ineffectively managed
 {:#technical-debt-ineffectively-managed}
 
 This is especially a problem if there are acquisitions of new technologies.
@@ -398,7 +407,7 @@ We address this for acquired technology by having [acquired organizations](/hand
 Otherwise, we have a [clear and consistent prioritization framework across engineering](/handbook/engineering/#prioritizing-technical-decisions) and [product](/handbook/product/product-processes/#how-we-prioritize-work) that helps ensure we are continuously making progress on the most important issues.
 
 
-## 24. Enterprise product management
+## 25. Enterprise product management
 {:#enterprise-product-management}
 
 While building enterprise software, we run the risk of optimizing the software for the buyer only while creating a bad experience for the end-users of the software.  This is seen in the [Concur effect](https://twitter.com/ryanfalor/status/1182647229414166528?s=12)
@@ -407,7 +416,7 @@ In order to prevent this effect, we will:
 * Create and maintain [UX scorecards](/handbook/engineering/ux/ux-scorecards/) and interviews from UX
 * [Validate problems and solutions before building](/handbook/product-development-flow/#validation-track)
 
-## 25. Frankenstein product
+## 26. Frankenstein product
 {:#frankenstein-product}
 
 Not following our acquisition strategy, not rebuilding what we acquire, could lead to poorly integrated acquisitions.
@@ -416,19 +425,19 @@ In order to manage this risk:
 * Follow our [acquisition strategy](/handbook/acquisitions/#acquisition-strategy)
 * For Engineering, the deciding factor is whether the senior-most technical stakeholder--who is not a founder--is on board or not. Because this person will either get the engineers on board or foment resistance.
 
-## 26. Setting expectations incorrectly
+## 27. Setting expectations incorrectly
 {:#setting-expectations-incorrectly}
 
 If we don't set targets appropriately and communicate about those expectations effectively, team members, investors, and other community members may not understand how we're performing.
 Missing a super-high goal while achieving really, really high results is still something to be acknowledged and celebrated.
 We need to set and communicate targets that both drive the highest possible results and also ensure constituents understand the business results and in context.
 
-## 27. Inability to respond to technological change
+## 28. Inability to respond to technological change
 {:#inability-to-respond-to-technical-change}
 
 Our value of iteration keeps us from marrying ourselves to timelines and product features that get planned years before development.
 
-## 28. Functional Silos
+## 29. Functional Silos
 {:#functional-silos}
 
 GitLab is a [functionally organized company](/company/team/structure/#gitlabcom-isnt-a-role).
@@ -443,7 +452,7 @@ We mitigate functional silos by encouraging cross-functional communication and r
 * Getting together in-person every 9 months for our [Contribute](/events/gitlab-contribute/)
 * [Contribute](/events/gitlab-contribute/) is multi-function; we try to do every in-person event as a multi-function event. An exception would be [Sales Kick Off](/handbook/sales/training/SKO/) (SKO). SKO is an anti-pattern, though some cross-functional groups are invited to SKO that support sales (product, legal and marketing, for example).
 
-## 29. Being obsessed with metrics (vs. being data-driven)
+## 30. Being obsessed with metrics (vs. being data-driven)
 {:#being-obsessed-with-metrics-versus-data-driven}
 
 Collecting as much data as possible is great. But then reporting on all of that data because you have it can lead to sub-optimal results, as team members won't know what is important or what to optimize for.
@@ -456,7 +465,7 @@ We can mitigate this risk by:
 * Automating reporting as much as possible
 * Give team members a voice in selecting KPIs
 
-## 30. Insufficient Investment in Innovation
+## 31. Insufficient Investment in Innovation
 {:#insufficient-investment-in-innovation}
 
 We've seen other companies struggle when they have been unwilling or unable to invest in future product innovations or disrupt current offerings to meet future demands. We mitigate this by allocating a portion of R&D budget to future innovations and exploring new opportunities through [Single-Engineer Groups](/company/team/structure/#single-engineer-groups). [Iteration](/handbook/values/#iteration) helps us to place small bets and justify future investment after seeing initial momentum.
