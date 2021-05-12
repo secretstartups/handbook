@@ -16,13 +16,13 @@ Hi 👋 my name is Michael Preuss. My last name is pronounced like Rolls Royce .
 
 - [GitLab Handle](https://gitlab.com/mpreuss22)
 - [Team Page](https://about.gitlab.com/company/team/#mpreuss22)
-- [My Website](http://assemblydigital.com/)
 - [LinkedIn](https://www.linkedin.com/in/michaelapreuss/)
+- [My Website](http://assemblydigital.com/)
 
 ## About Me
 
 - 🤙 I'm born and raised on the West Coast
-- 🇨🇦 I live in North Vancouver, BC
+- 🇨🇦 I live on Bowen Island in BC
 - 🔮 A psychic predicted I'd work in digital
 - ❤️ I love what I do
 - 📖 I'm a lifelong learner with a growth mindset
@@ -70,16 +70,16 @@ Identity: **65% Assertive**
 
 ### 10 Books On My Bookshelf
 
-1. Thinking Fast and Slow
-2. Tribal Leadership
-3. What Got You Here, Won't Get You There
-4. Thanks for the Feedback
-5. Good To Great
-6. Start with Why
-7. Seeing Around Corners
-8. The Signal and the Noise
-9. Radical Candor
-10. Principles
+1. [Thinking Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+2. [Tribal Leadership](https://www.triballeadership.net)
+3. [Predictably Irrational](https://en.wikipedia.org/wiki/Predictably_Irrational)
+4. [Trillion Dollar Coach](https://www.trilliondollarcoach.com)
+5. [Setting the Table](https://www.goodreads.com/book/show/213280.Setting_the_Table)
+6. [Empowered](https://svpg.com/empowered-ordinary-people-extraordinary-products/)
+7. [Inspired](https://svpg.com/inspired-how-to-create-products-customers-love/)
+8. [Thanks for the Feedback](https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
+9. [Radical Candor](https://www.radicalcandor.com/the-book/)
+10. [Principles](https://www.principles.com/)
 
 ## Working With Me
 
