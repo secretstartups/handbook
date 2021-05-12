@@ -11,8 +11,11 @@ title: "Edit this website locally"
 
 ## Introduction
 
-This is a guide on what you'll need to install and run on your machine so you can make edits locally. This is quicker than in the web interface and allows you a better overview and preview when making complex changes.
-Once you're set up, you will find the source files for the GitLab Marketing Website and GitLab Handbook here [/source/handbook/](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source)
+This is a guide on what you'll need to install and run a local development environment on your machine so you can make edits locally. This allows you a better overview and preview when making complex changes.
+
+Once you're set up, you will find the source files for the GitLab Marketing Website and GitLab Handbook [in the `www-gitlab-com` repo](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master)
+
+However, when you only need to make small or quick changes, the [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/) may be easier or faster than the local development environment.
 
 ## 1. Help is available for team members
 
@@ -34,6 +37,7 @@ If you have questions, ask anyone for help or post in the #handbook Slack channe
 1. For more information about using Git and GitLab see [GitLab University](https://docs.gitlab.com/ee/university/).
 
 ## 3. The single script setup method (MacOS only)
+
 This method involves running a single ZSH script which will complete all of the setup steps below for you.
 
 **Note**: This script will only work on MacOS
@@ -41,6 +45,7 @@ This method involves running a single ZSH script which will complete all of the 
 ### Instructions
 1. If you have previously installed `rvm` or `rbenv`, you will want to first uninstall it by following the [instructions here](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/migrate_to_asdf.md)
 1. Open your terminal (cmd + space and search for 'Terminal').
+1. If you have previously used this script or another method to clone the repo, you can `cd` to the repo and directly run `scripts/setup-macos-dev-environment`.  Otherwise, if you've never set any of this up before...
 1. Copy `/bin/zsh -c "$(curl -fsSL https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/scripts/setup-macos-dev-environment.sh)"` and paste into your terminal.
 1. Press enter to run the command
 
@@ -56,6 +61,8 @@ This method involves running a single ZSH script which will complete all of the 
 
 ## 4. Install Git
 
+(Note: This step can be skipped if you used the 'single script setup method' above)
+
 1. Open a terminal.
 1. Check your Git version by executing: `git --version`.
 1. If Git is not installed, you should be prompted to install it. Follow this [guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) to installing Git and
@@ -63,6 +70,8 @@ linking your account to Git.
 
 ## 5. Install a Ruby version manager
 <a name="5-install-ruby-version-manager-rvm"></a>
+
+(Note: This step can be skipped if you used the 'single script setup method' above)
 
 There is more than one way to install Ruby. Using a version manager can make it easier to upgrade as the required version for this project changes. It also prevents problems associated with different operating systems and their included version of Ruby.
 
@@ -91,6 +100,8 @@ Any of these three options is perfectly suitable, but *you should only choose on
 
 ## 6. Clone the source of the website
 
+(Note: This step can be skipped if you used the 'single script setup method' above)
+
 There are two ways to clone this repository: `ssh` or `https`. You only need to choose one.
 
 ### Clone via SSH
@@ -113,7 +124,7 @@ If you ever want to switch between SSH and https, execute `git remote remove ori
 
 1. Execute: `cd www-gitlab-com` to change to the www-gitlab-com directory created when you cloned the repository.
 1. Execute: `bundle install` to install all gem dependencies.
-1. Install additional dependencies [Homebrew, nvm, and yarn](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md). If not installed, step 9 may result in an error.
+1. Install additional dependencies [Homebrew, nvm, and yarn](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md). If not installed, step 9 may result in an error. (Note: This step can be skipped if you used the 'single script setup method' above)
 
 Each time you update this repository (`git pull`) new dependencies might be required. The following script will check your ruby version, bundle, and yarn and provide suggestions for updating these.
 
@@ -162,6 +173,8 @@ Read through our [Markdown Guide](/handbook/markdown-guide/) to understand its s
 
 Instructions on how to update the website are in the
 [readme of www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/README.md).
+
+For more in-depth details on setting up and using the local development environment, see [doc/development.md](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md).
 
 ## 12. Add yourself to the Team Page
 
