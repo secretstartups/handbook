@@ -82,7 +82,7 @@ Below are a few example responses an SA can provide customers that reach out for
 **Below are some additional items you can share with the customer.**
 
 - Search GitLab documentation and issues with these pro [tips](/handbook/tools-and-tips/searching/)!
-- If you do not find a proposed feature in the [GitLab issues list](https://gitlab.com/gitlab-org/gitlab/-/issues), please [contribute an idea](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20proposal&issue[title]=Docs%20feedback%20-%20feature%20proposal:%20Write%20your%20title) to our product team to improve the community's experience!
+- If you do not find a proposed feature in the [GitLab issues list](https://gitlab.com/gitlab-org/gitlab/-/issues), please [contribute an idea](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20proposal%20-%20detailed&issue[title]=Docs%20feedback%20-%20feature%20proposal:%20Write%20your%20title) to our product team to improve the community's experience!
 - [GitLab Documentation](https://docs.gitlab.com/) covering How-Tos for Installation and Day-to-Day usage.
 - GitLab is fortunate enough to have a strong community of contributors where you can search for ideas and issues within the GitLab [Forum](https://forum.gitlab.com/) or moderated [subreddit](https://www.reddit.com/r/gitlab/).
 - With transparency being a value of ours, we strive to push content daily to both the [GitLab Youtube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg) and [GitLab Unfiltered Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). You will find How-Tos and Daily Engineering conversations in these channels.
