@@ -33,6 +33,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 |[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | [**What is Open Source Software?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what-is-open-source?) |
 | [**What's needed to close a deal?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what's-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](https://about.gitlab.com/handbook/legal/customer-negotiations/#gitlab-subscription-agreement-101) |
 | [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](https://about.gitlab.com/handbook/legal/customer-negotiations/#requests-for-gitLab-financial-information-tax-and-insurance-certificates) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](https://about.gitlab.com/handbook/legal/customer-negotiations/#why-gitlab-does-not-sign-baas) |
+| [**How to get a Data Processing Agreement (DPA) Signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#How-to-get-a-Data-Processing-Addendum-(DPA)-Signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Intro-Data-Privacy-and-the-GitLab-Data-Processing-Addendum) |
 
 ## OPERATIONAL
 
@@ -106,6 +107,9 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 2. For Insurance Certificate requests please work with the Deal Desk team by tagging @sales-support in SFDC Chatter.  
 3. Regarding GitLab financial information (e.g., annual statements, equity ownership...etc) please note that GitLab is a private company and does not share this information with Customers.  
 
+## How to get a Data Processing Addendum (DPA) Signed
+1. Some customers, particularly those based in EMEA or otherwise subject to the GDPR, will require a signed copy of the DPA. To provide a customer with a signed DPA, follow the [Processing Signed DPAs workflow](https://about.gitlab.com/handbook/support/workflows/data_processing_addendums.html#workflow).   
+
 
 ## EDUCATIONAL
 
@@ -152,13 +156,7 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 3. The [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) can be used for the sale of both On-Premise and SaaS Software 
 4. The Subscription Agreement is agreed to by either, (i) Clicking-through when purchasing (or downloading) via the GitLab Website, (ii) Referenced in an Order Form that is signed by a Customer, or (iii) Passed through a Reseller if a Customer is buying through an Authorized Partner 
 
-## Data Privacy and the GitLab Data Processing Addendum
-
-1. The [GitLab Privacy Policy](https://about.gitlab.com/privacy/) explains how GitLab collects, uses and shares customer's personal information, and how they may exercise their rights in respect of that information. More information about privacy compliance at GitLab, including answers to a number of frequently asked questions concerning the GDPR, can be found on the [GitLab Privacy Compliance](https://about.gitlab.com/privacy/privacy-compliance/) handbook page.
-1. The GitLab Data Processing Addendum, usually referred to as the "DPA", can be accessed from the [GitLab Terms of Service page](https://gitlab.com/gitlab-com/legal-and-compliance/-/raw/master/BR_signed_Hosted_DPA_V1-brobins_gitlab.com.pdf). As stated in the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#14-security--data-protection), the terms of the DPA automatically apply to corporate customers.
-1. Some customers, particularly those based in Europe or otherwise subject to the GDPR, will require a signed copy of the DPA. To provide a customer with a signed DPA, follow the [Processing Signed DPAs workflow](https://about.gitlab.com/handbook/support/workflows/data_processing_addendums.html#workflow).    
-
-
+ 
 ## Why GitLab does not sign BAAs
 
 1. **GitLab will not sign a Business Associate Agreement (BAA)**
@@ -171,6 +169,12 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 **Why does GitLab not sign BAAs?**
 - GitLab, as a commercial software product, does not require nor is designed to be used to store Personal Health Information (PHI). In addition, GitLab, as an organiztion, does not desire or need to receive, process, store, transact or otherwise possess PHI in order to provide our products and servcies. As such, GitLab does not meet, or desire to meet, the definition of a "Business Associate" as defined under the Health Insurance Portability and Accountability Act (HIPAA).  
 - In the event a Customer questions "incidental dislcosures", please highlight the HIPAA definition itself, which states: _“Business associate functions or activities on behalf of a covered entity include claims processing, data analysis, utilization review, and billing.  Business associate services to a covered entity are limited to legal, actuarial, accounting, consulting, data aggregation, management, administrative, accreditation, or financial services. **However, persons or organizations are not considered business associates if their functions or services do not involve the use or disclosure of protected health information, and where any access to protected health information by such persons would be incidental, if at all.**”_
+
+## Intro Data Privacy and the GitLab Data Processing Addendum
+
+1. The [GitLab Privacy Policy](https://about.gitlab.com/privacy/) explains how GitLab collects, uses and shares customer's personal information, and how they may exercise their rights in respect of that information. More information about privacy compliance at GitLab, including answers to a number of frequently asked questions concerning the GDPR, can be found on the [GitLab Privacy Compliance](https://about.gitlab.com/privacy/privacy-compliance/) handbook page.
+1. The GitLab Data Processing Addendum, usually referred to as the "DPA", can be accessed from the [GitLab Terms of Service page](https://gitlab.com/gitlab-com/legal-and-compliance/-/raw/master/BR_signed_Hosted_DPA_V1-brobins_gitlab.com.pdf). As stated in the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#14-security--data-protection), the terms of the DPA automatically apply to corporate customers.
+
 
 
 **Additional Resources**
