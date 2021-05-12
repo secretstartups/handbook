@@ -32,7 +32,7 @@ The SET owns the completion of the `Availability and Testing` section in the Fea
       1. Issue should not have `bug` label
       1. Issue should have an upcoming release milestone added and it should not have any of `Backlog` or `Next x releases` milestones.
    1. After revewing each issue, the SET adds the testing requirements for each issue:
-      1. The SET adds the [Availability and Testing section](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal.md#L66) to the issue description, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
+      1. The SET adds the [Availability and Testing section](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md#L66) to the issue description, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
       1. The SET add a checklist of the testing requirements in the above section, as appropriate. The checklist could contain one or more of the below mentioned details:
          1. Run `package and qa` regression job
          1. Update an existing end to end test - Provide the link of the testcase to be updated. 
