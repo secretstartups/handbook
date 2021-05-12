@@ -135,8 +135,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 
 
 ## Open Source
-### 🎥 [Watch the "What is Open Source" video](Update with video)
-_Please Note: This information is provided for educational purposes only and GitLab is not providing any legal advice_
+
 
 1. For a general introduction to Open Source, including lists of acceptable and unacceptable Open Source licenses for use in GitLab, see [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/).
 1. Helpful external resources on Open Source Software can be found at [Opensource.com](https://opensource.com/) and the [Open Source Inititiave](https://opensource.org/).
