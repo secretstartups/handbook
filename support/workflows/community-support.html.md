@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Community Support
+title: Community Forum Workflows
 category: References
-description: How to provide technical support assistance to the wider GitLab community.
+description: Workflows for Support ticket deflection via the GitLab Community Forum.
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -10,21 +10,22 @@ description: How to provide technical support assistance to the wider GitLab com
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Community Support
+## Technical Support in the Community Forum
 
-All GitLab team members, customers, contributors, and users are important members of the GitLab Community.
+The Community Forum is the official place for our wider community to seek technical support assistance with GitLab.
 
-Problems encountered and questions asked by our wider community are often identical to problems solved and questions answered by Support Engineers when assisting customers.
+Technical support solutions shared in the forum reach a wide audience as they are indexed by search engines, making them easily discoverable to GitLab users looking for solutions.
 
-Community Support is sharing knowledge, answers, and solutions in a way that makes them available and discoverable to *everyone* in the GitLab Community.
+Oftentimes, technical problems encountered and questions asked by our wider community have known solutions and answers that were provided to customers by GitLab Support team members in Support tickets. In this situation, having Support Engineers sharing these known tech support solutions in the community forum can be a highly effective form of ticket deflection.
 
 ### Docs-first Community Support
 
-GitLab Documentation's library is vast, and users sometimes need assistance in finding the answers they need.
+Similar to GitLab Support ZenDesk tickets, unsolved GitLab technical support threads in the forum are often an opportunity to:
 
-GitLab employs a [Docs-first methodology](https://docs.gitlab.com/ee/development/documentation/styleguide.html#docs-first-methodology) to ensure our documentation is a SSoT resource where users can find answers, solutions, and information on using GitLab.
+- link to the relevant documentation
+- improve docs based on user interaction/feedback
 
-GitLab Support Engineers should default to using a **Docs-first approach to Community Support**.
+As such, GitLab Support Engineers should default to using a **Docs-first approach to Community Support**.
 
 The critical points of the Docs-first approach for Community Support are:
 
@@ -44,18 +45,14 @@ For example, these Community forum threads where answers and solutions are "spec
 - Context-based Explanation - (eg. "I read the docs, but I don't understand how to do X.")
 - Problem-specific Troubleshooting steps (eg. "I upgraded GitLab from 12.9 to 13.1 and now it's not working, I get 404 error on every page - please help!")
 
-### GitLab Community Forum
-
-Opening a thread in the GitLab Community Forum is the official and most efficient way for users of our free products to receive Technical Support.
-
-#### GitLab Support Modes of Work in Community Forum
+### Community Support Workflows
 
 - **[First Responder](#first-responder)** - early detection of customer-facing problems, bugs, and regressions
 - **[Silo-breaker](#silo-breaker)** - publicly share solutions/answers relevant to free users
 - **[Fruit picker](#fruit-picker)** - pick low-hanging fruit for quick, easy wins
 - **[Fishing Instructor](#fishing-instructor)** - teaching Self-service and Community-first GitLab Support
 
-##### First Responder
+#### First Responder
 
 For detecting bugs, improving documentation, and identifying problems in our product that will affect paying customers, the GitLab community is an excellent resource.
 
@@ -65,7 +62,7 @@ GitLab FOSS makes up over 80% of the GitLab codebase. Any technical problems wit
 
 Free users often surface up bugs, regressions, and problems with our product or docs in the Community forum before we start getting support tickets from customers about them.
 
-##### Silo breaker
+#### Silo breaker
 
 Silo-breakers take common answers/solutions in Support ZenDesk and ensure they're available and discoverable to all GitLab users.
 
@@ -75,7 +72,7 @@ We communicate internally, usually via Slack and Support Week in Review, to rais
 
 If these same patterns or trends are present in the Community forum, providing answers and solutions in forum threads helps ensure answers/solutions are discoverable via a search engine.
 
-##### Fruit-picker
+#### Fruit-picker
 
 Specializes in picking "low-hanging fruit" by publicly sharing known answers and solutions.
 
@@ -83,7 +80,7 @@ Specializes in picking "low-hanging fruit" by publicly sharing known answers and
 - The answer is in our documentation. (polite link to docs is sufficient)
 - Single-touch Solutions. (no follow-up required)
 
-##### Fishing Instructor
+#### Fishing Instructor
 
 It is more worthwhile to teach someone to do something (for themselves) than to do it for them (on an ongoing basis).
 
@@ -122,55 +119,11 @@ graph LR
   D --> F --> G
 ```
 
-The forum is a pond with fish, and the goal of this role is to:
+"Fishing instructors" enable and empower GitLab users and customers to catch their own fish - find solutions and answer questions without Support intervention.
 
-- make sure free users know how to fish
-- direct free users to the best fishing spots
-- keep our pond well stocked
+By directing incoming Free user tickets to the Community forum, free users get in the habit of finding answers/solutions without relying on GitLab Support.
 
-"Fishing instructors" enable and empower GitLab users to catch their own fish - find solutions and answer questions without Support intervention.
-
-By directing incoming Free user tickets to the Community forum, where fishing instructors are available, users get in the habit of finding answers/solutions without relying on GitLab Support.
-
-#### Accepted Answers
-
-Mark a response as an "accepted solution" in a situation where a single reply effectively answers or resolves a forum thread.
-
-#### Flagging Posts
-
-If you see a form post that is clearly abuse or spam, flag the post by clicking the flag icon. This marks the post as abuse, which gets processed by GitLab Forum moderators.
-
-#### Working alongside the wider community
-
-In the GitLab Community Forum, most tech support and troubleshooting assistance comes from community members volunteering their time and knowledge to help others.
-
-If you see a community member volunteering their time to help another community member, give their reply a :heart: to show appreciation for their contribution.
-
-#### Documentation updates and deficiencies
-
-Similar to GitLab Support ZenDesk tickets, unsolved GitLab technical support threads in the forum are often an opportunity to:
-
-- link to the relevant documentation
-- improve docs based on user interaction/feedback
-
-#### Community Support Experience
-
-We aim to optimize the self-serve Support experience for all GitLab users.
-
-##### Average Free User Support Experience
-
-```mermaid
-graph TD
-  A(GitLab technical problem question)
-  A --> C(Ask for help)
-  A --> D(Search for answer/solution)
-  C --> 1a(Support) --> 1b --> E
-  C --> 1b(Forum) --> E
-  D --> E(Find answer/solution)
-  D --> F(Don't find answer/solution) --> C(Ask for help)
-```
-
-##### Optimal Free User Support Experience
+### Optimal Free User Support Experience
 
 Win-win-win - benefits GitLab community, customers, and team members.
 
@@ -184,6 +137,6 @@ graph LR
   D --> E(Find answer/solution)
 ```
 
-#### Additional Resources
+### Additional Resources
 
-For additional tips and best practices when working in the Community forum, refer to the [Community Relations Handbook entry for the Community forum](/handbook/marketing/community-relations/community-operations/workflows/forum/#best-practices).
+For additional tips and best practices when working in the Community forum, refer to the [Community Relations Handbook entry for the Community forum](/handbook/marketing/community-relations/community-operations/workflows/forum/).
