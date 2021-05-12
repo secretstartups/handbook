@@ -42,10 +42,43 @@ Renewal opportunity `Close Date(s)` will be aligned to the respective subscripti
 ## Closed-Lost Renewal Management
 
 #### Renewal “Grace Period” Window:
-In the event the customer's decision to renew/cancel drags out beyond the term end date, **Sales will have 45 days to close the opportunity or it should be moved to Closed Lost** stage & appropriate Lost reason populated.
+In the event the customer's decision to renew/cancel drags out beyond the term end date, **Sales will have 45 days to close the opportunity or it will automatically be moved to the Closed Lost** stage with the appropriate Lost reason populated.
   - This will help ensure alignment with the Finance Cancellation Policy & ensure accurate renewal forecasting.
   - Accurate input of Lost Reason are also critical to understanding churn trends.
   - Customers will also begin to see downgraded product functionality starting at Day +14 after term end, and their  Zuora subscription will be cancelled on Day +31. 
+  - See below for details around the late renewal automated closed lost process
+
+#### Late Renewal Notification & Auto Close Process
+To ensure proper adherence to the 45 day late renewals Bookings Policy, notifications of upcoming, late and auto closed renewals have been automatically set up to allow adequate time for the renewal owner to review. 
+
+**Notification Timelines:** 
+- **First notification:** 15 days prior to Quote Start Date
+  - Warning that renewal will be expiring in 15 days and action needs to take place
+  - Audience: opportunity owner, ISR, opportunity owner manager
+- **Second notification:** Day of Quote Start Date
+  - Warning that renewal expires on this day and action needs to take place
+  - Audience: opportunity owner, ISR, opportunity owner manager
+- **Third notification:** 30 days after Quote Start Date
+  - Warning that renewal is 30 day lapsed and action needs to take place or we'll auto close (lose) in 15 days
+  - Audience: opportunity owner, ISR, opportunity owner manager
+- **Final notification:** 46 days after Quote Start Date
+  - Opportunity has been auto moved to Closed Lost
+  - Audience: opportunity owner, ISR, opportunity owner manager
+
+**Tracking**
+- Each notification is tracked as an activity in SFDC on the associated account
+- Opportunities that get automatically closed will reflect the following information:
+  - `Stage`: 8-Closed Lost
+  - `Closed Lost/Unqualified Reason`: Other
+  - `Closed Lost/Unqualified Details`: Auto closed late renewal
+
+**Steps to Take if Renewal Infomation is Incorrect**
+
+Prior to closure, if any questions or errors are discovered on the renewal opportunity, please chatter @sales-support on the renewal opportunity with details.  Sales Operations and/or Deal Desk will review and update the opportunity as necessary. 
+
+**Steps to Take if a Customer Returns after 45 Days**
+
+If a customer returns after 45 days and their renewal opportunity has been moved to Closed Lost (automatically or by a user), please refer to the [FY22 bookings policy handbook page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy) for details on how to open a new Renewal or New Business opportunity accordingly.
 
 #### Duplicate Opportunities
 Duplicate opportunity records should always be set to stage `10-Duplicate`. They should never be set to Closed Lost, as this distorts our renewal forecasting and churn metrics. It also has negative implications to anyone on a NET comp plan (ASM/RD/VPs).
