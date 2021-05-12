@@ -49,7 +49,7 @@ In the event the customer's decision to renew/cancel drags out beyond the term e
   - See below for details around the late renewal automated closed lost process
 
 #### Late Renewal Notification & Auto Close Process
-To ensure proper adherence to the 45 day late renewals bookings policy, notifications of upcoming, late and auto closed renewals have been automatically set up to allow adequate time for the renewal owner to review. 
+To ensure proper adherence to the 45 day late renewals Bookings Policy, notifications of upcoming, late and auto closed renewals have been automatically set up to allow adequate time for the renewal owner to review. 
 
 **Notification Timelines:** 
 - **First notification:** 15 days prior to Quote Start Date
