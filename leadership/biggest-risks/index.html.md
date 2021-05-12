@@ -293,7 +293,7 @@ To make sure this is clear we:
 [Transparency](/handbook/values/#transparency) is a GitLab value. It is central to how we operate and our success as a company. It is important for employee recruitment and retention. It is also valued by GitLab customers, contributors, and the many folks who utilize GitLab's handbook to better their own businesses. While GitLab will continue to prioritize transparency, it must also promote "responsible" transparency as openly sharing information can have unintended consequences. To mitigate risks from transparency, we:
 
 1. Are clear with team members on which information cannot be public. This should be clearly captured in the [not public](/handbook/communication/#not-public) section of the handbook 
-1. Execute fast and efficiently to drive results and stay ahead of competitors who read our handbook. As Peter Drucker says, "Strategy is a commodity, execution is an art"
+1. Execute fast and [efficiently](/handbook/values/#efficiency) to drive [results](/handbook/values/#results) and stay ahead of competitors who read our handbook. As Peter Drucker says, "Strategy is a commodity, execution is an art"
 1. Educate team members on effective and responsible transparency. For example, we offer a [transparency competency](/handbook/values/#transparency-competency)
 
 ## 18. Lowering the hiring bar
