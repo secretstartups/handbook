@@ -11,7 +11,7 @@ title: "Sarbanes-Oxley(SOX) Control Assessment Procedure"
 
 
 
-GitLab has adopted the [COSO 2013 framework](https://www.coso.org/pages/ic.aspx) to support its evaluation / assessment of the effectiveness of Internal Control Over Financial Reporting (ICOFR). ICOFR are assessed at entity and process level as detailed below.
+GitLab has adopted the [COSO 2013 framework](https://www.coso.org/pages/ic.aspx) to support its evaluation / assessment of the effectiveness of Internal Controls Over Financial Reporting (ICOFR). ICOFR are evaluated at an entity and process level as detailed below.
 
 ##### 1.  Assessing the entity-level controls
 
