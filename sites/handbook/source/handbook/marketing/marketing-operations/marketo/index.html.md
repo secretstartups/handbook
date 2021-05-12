@@ -371,7 +371,7 @@ Complete list of priority countries as seen [here](https://docs.google.com/sprea
 
 <details>
 <summary markdown='span'>
-[Language Preferencel](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)
+[Language Preference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)
 </summary>
 
 - French
