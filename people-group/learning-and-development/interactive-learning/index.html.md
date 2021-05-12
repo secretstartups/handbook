@@ -12,7 +12,7 @@ description: "All elearning courses tied to the Field Certification Program will
 
 ## Handbook First Learning Model
 
-All elearning courses at GitLab to the will utilize the Handbook as the Single Source of Truth (SSOT). 
+All elearning courses at GitLab will utilize the Handbook as the Single Source of Truth (SSOT). 
 
 ![gitlab-learning-content-diagram](/handbook/people-group/learning-and-development/interactive-learning/gitlab-learning-content-diagram.png)
 
