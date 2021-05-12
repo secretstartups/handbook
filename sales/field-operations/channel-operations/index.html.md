@@ -146,6 +146,8 @@ At a minimum, a [Draft Proposal](https://about.gitlab.com/handbook/sales/field-o
 
 Discounted quotes that are not in the system and sent to a Partner are not permitted. This includes providing product and pricing quotes details in email. This applies to all GEOs and Segments.
 
+Only GitLab-authorized partners with at least one sales certification are able to receive a discounted quote and transact GitLab products. 
+
 ### SFDC Field Definitions
 *   _DR - Partner:_ The partner that submitted the Deal Registration.
 *   _DR - Partner Deal Type:_
@@ -169,6 +171,7 @@ _For more details on Partner Engagement definitions go [here](https://about.gitl
 
 ### Rules of Engagement for Deal Registration
 
+*   In order to transact with GitLab, a partner must both be authorized by GitLab, and have completed at least one sales training. To receive a quote with a Partner Sourced or Partner Assist discount, they must complete a deal registration for the opportunity.
 *   Only one partner can earn a deal registration discount per opportunity. Partners, other than the partner granted the deal registration discount that requests a quote, will receive the fulfillment discount rate. Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, and partner relationship with customer. Final deal registration approval decision will be made by GitLab Channel after discussion with GitLab Sales.
 *   Any partner opportunity can be a registered deal. These opportunities can be either Partner Sourced, Partner Assist, Partner Fulfilled or Partner Services Attach. Visit [Program and Incentive Definitions](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions) to learn what deals qualify for each category.
 *   Approved deal registrations have standard 90-day expiration from the date of original approval (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab).
