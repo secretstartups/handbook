@@ -61,8 +61,9 @@ Our team use the following workflow stages defined in the [Product Development F
 
 | Label | Usage |
 | -- | -- | -- |
-| `~"workflow::planning breakdown"` | Applied by the Product Manager on or before the 4th of the month signaling an intent to prioritize the issue for the next milestone. |
-| `~"workflow::ready for development"` |  Applied by Product Manager. Issue has been broken down and prioritized by PM for development. Issue also has a milestone assigned at this point. |
+| `~"workflow::planning breakdown"` | Applied by the Product Manager for engineers to begin breaking down issue and adding estimates. |
+| `~"workflow::scheduling"` | Applied by the engineer signaling an intent to prioritize the issue for the next milestone. |
+| `~"workflow::ready for development"` |  Applied by engineer. Issue has been broken down and scheduled for development and has a milestone assigned at this point. |
 | `~"workflow::in dev"` | Applied by the engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. |
 | `~"workflow::in review"` | Applied by an engineer indicating that all MRs required to close an issue are in review. |
 | `~"workflow::verification"` | Applied by engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. |
@@ -152,16 +153,14 @@ In addition to these dates, our team also does the following:
 Planning a milestone is a collaborative effort between Product, Engineering, and UX.
 
 #### Milestone Planning Issue
-We utilize a milestone planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/216592). A milestone planning issue consists of:
+We utilize a milestone planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/330863). A milestone planning issue consists of:
 - Holidays
 - Validation Track
-  - UX Capacity
+  - Capacity (UX, Engineering)
   - Priorities
 - Build Track
-  - Engineering Capacity
+  - Capacity (Engineering)
   - Priorities
-- Roadmap
-- OKR Alignment
 - Things to Pay Attention To
 - Planning Tasks
 
@@ -274,7 +273,7 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 **Required labels**
 - [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
 - [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::product intelligence`
-- [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::In dev`, etc.
+- [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::in dev`, etc.
 
 **Optional labels**
 - [Experiment:](/handbook/engineering/development/growth/#experiment-issue-creation) `~growth::experiment`
