@@ -468,7 +468,7 @@ This list will continue to evolve and will be maintained during the onboarding a
 In addition to sponsored reporting, Sales Ops will maintain existing reports by archiving or deleting any report or dashboard not used in 180 days.
 
 <details>
-<summary markdown='span'>Enterprise Dashboards </summary>
+<summary markdown='span'>WW Sales Dashboards </summary>
 
 **WW Sales**
 
