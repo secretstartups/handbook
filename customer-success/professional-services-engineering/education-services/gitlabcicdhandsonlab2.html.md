@@ -62,9 +62,11 @@ You should see a message indicating that your Runner has registered successfully
 4. For simplicity, we will create a minimum .gitlab-ci.yml file. 
 5. From the editor -> Remove all lines above and below the build1 and test1 sections  
 6. Add build and test stages at the top of the file.  Hint: watch your spacing! 
-stages: 
-- build 
-- test 
+   ```yml
+   stages: 
+   - build 
+   - test
+   ``` 
 7. Click the green **Commit Changes** button.
 
 ### Review the CI/CD Section 
