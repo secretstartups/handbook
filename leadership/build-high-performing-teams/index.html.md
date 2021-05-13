@@ -445,6 +445,15 @@ A recording of the second of two sessions can be found here:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/aezVF1nOBWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
+### Roadmap Excercise
+
+During the [May Manager Challenge](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/), participants in the live learning challenge completed the building high performing teams roadmap as a group while a few completed independently asynchronously. 
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKm7AxyNsTjeyzOYqrvxCa1Q6fgTq0UmxVihEkJSVFT27NvHiZ8H4JwA0V5E0MLxjRfvZmPfAvl77p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
+
 ## Additional Resources
 
 - Read:[Building and Leading High-Performing Remote Teams](https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/building-leading-high-performing-remote-teams.aspx) - SHRM
