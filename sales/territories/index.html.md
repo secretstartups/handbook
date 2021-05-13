@@ -67,6 +67,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 - **NA West - Rockies/SoCal**: TBD
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Timm Ideker
+- **Inside Sales - Public Sector**: Brent Caldwell
+- **Inside Sales - Enterprise**: Matt Malcolm
 
 | Sub-Region | Area | **Territory Name** | Sales |Inside Sales Rep |
 | ---------- | ---- | -------------- | ----- | ----- |
@@ -168,15 +170,15 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	| Anthony Seguillon
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon
-|	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	| Anthony Seguillon
-|	Nordics	|	Nordics	|	Large-EMEA-UK/I-2	|	Aslihan Kurt	| Anthony Seguillon
-|	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	| Anthony Seguillon
-|	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	| Anthony Seguillon
-|	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	| Anthony Seguillon
-|	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	| Anthony Seguillon
-|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Simon Williams	| Anthony Seguillon
-|	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	| Anthony Seguillon
-|	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	| Anthony Seguillon
+|	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	| Chris Loudon
+|	Nordics	|	Nordics	|	Large-EMEA-UK/I-2	|	Aslihan Kurt	| Chris Loudon
+|	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	| Chris Loudon
+|	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	| Chris Loudon
+|	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	| Chris Loudon
+|	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	| Chris Loudon
+|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Simon Williams	| Chris Loudon
+|	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	| Chris Loudon
+|	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	| Chris Loudon
 
 
 ### Mid-Market
