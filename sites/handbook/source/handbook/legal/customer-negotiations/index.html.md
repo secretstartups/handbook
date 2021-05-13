@@ -44,6 +44,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 1. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
 2. Please note: There is a $25K ARR opportunity minimum threshold to review edits to our terms, and a $100K ARR opportunity minimum threshold to review Customer / Partner Terms. These thresholds do not apply to NDA's. 
 3. Step-by-Step directions on opening a Legal Request can be found [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-editable-version-of-gitlab-template)
+_NOTE:_ Once you open a Legal Request for "Contract Review", **DO NOT** open another Legal Request when updated red-lines are provided. All red-lines / negotiated versions will be stored in one (1) Legal Request to ensure version history is maintained. 
 4. A presentation on this topic can be found [here](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0)
 
 **Additional Resources:**
