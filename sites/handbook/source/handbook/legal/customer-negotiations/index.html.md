@@ -108,8 +108,9 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 2. For Insurance Certificate requests please work with the Deal Desk team by tagging @sales-support in SFDC Chatter.  
 3. Regarding GitLab financial information (e.g., annual statements, equity ownership...etc) please note that GitLab is a private company and does not share this information with Customers.  
 
+
 ## How to get a Data Processing Addendum (DPA) signed
-1. Some customers, particularly those based in EMEA or otherwise subject to the GDPR, will require a signed copy of the DPA. To provide a customer with a signed DPA, follow the [Processing Signed DPAs workflow](https://about.gitlab.com/handbook/support/workflows/data_processing_addendums.html#workflow).   
+1. GitLab includes a signed version of the DPA on the [Terms of Service](https://about.gitlab.com/terms/), as stated within the [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) this DPA is applicable to all Enterprise Customer's and does not need to be counter-signed. In addition, as stated within the header of the DPA, a Customer’s acceptance of the Subscription Agreement shall be treated as its execution of the DPA.  
 
 
 ## EDUCATIONAL
