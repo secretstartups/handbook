@@ -14,9 +14,13 @@ description: "Onboarding Feedback"
 
 Wondering if you are doing okay with your onboarding? Need some suggestions or guidance? Then this is the right page, let's hear from team members who share their onboarding experience and any helpful tips! 
 
-### {Insert team member name}
+### Eduardo Guillen
 
-- Embed the video created once uploaded to GitLab Unfiltered YouTube Channel
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/E0Lj_JhXzy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
 ### {Insert team member name}
 
