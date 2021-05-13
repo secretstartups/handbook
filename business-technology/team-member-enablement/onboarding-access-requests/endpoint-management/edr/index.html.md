@@ -32,6 +32,9 @@ Equally important is the security and privacy of our team members and their lapt
 ### How to get help with SentinelOne
 If you need help with the SentinelOne agent on your endpoint please reach out to the Information Technology team in the [#it-help](https://join.slack.com/share/zt-pq971lw7-mj0nOlsSIwUkvYloz3u85g) Slack channel. If you have security concerns please reach out to the Security team in the [#security](https://join.slack.com/share/zt-pzvju0ok-Z5mjT~FlPuRJZICPE38STg) Slack channel.
 
+### Exception request process
+If SentinelOne is causing issues with your ability to fulfill the responsibilities of your role, you may request an exception to be granted using the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/engineering/security/#information-security-policy-exception-management-process). Exceptions will be granted based on the goal of least needs, attempting to maximize effectiveness, efficiency, and security risk mitigation of SentinelOne while minimizing the negative impact on the team member. For this reason, rarely will an exception be granted to completely disable SentinelOne. Rather, an exception will be granted for specific directory paths, specific applications, or specific collections of data that SentinelOne may be negatively impacting through quarantine or system performance degradation. 
+
 ### What is the difference between EDR and Antivirus?
 
 Antivirus can be seen as one part of the EDR complete security technology solution. Traditionally, antivirus software is a single program which serves basic purposes like scanning, detecting and removing viruses and different types of malware. For EDR, real time status, remediation paths, endpoint firewalls, and system behavioral analytics come together to create a comprehensive technology stack to protect against modern day digital attacks. 
