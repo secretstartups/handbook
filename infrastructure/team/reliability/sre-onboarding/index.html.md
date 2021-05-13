@@ -206,7 +206,7 @@ Required tools
 1. kubectl (`brew install kubernetes-cli`)
 
 Nice to have
-1. iTerm (`brew cask install iterm2`) or kitty (`brew cask install kitty`) (bear in mind that kitty requires more configuration to get it up and running so it's targeted at more advanced users)
+1. iTerm (`brew install iterm2`) or kitty (`brew install kitty`) (bear in mind that kitty requires more configuration to get it up and running so it's targeted at more advanced users)
 1. macOS doesn't source ~/.bashrc file by default, so if you want it to be processed, you need to source it in your profile file (which you might need to create manually). Why to create the rc file at all instead of keeping everything in the profile? some tools default to rc so they will not process the profile at all. There are actually more differences, see: [About bash_profile and bashrc on macOS](https://scriptingosx.com/2017/04/about-bash_profile-and-bashrc-on-macos/)
 1. macOS doesn't have bash completion feature by default, to install it: `brew install bash-completion` and enable it: `echo "[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion" >> ~/.bashrc`
 1. fzf used for fuzzy completion in shell, e.g. history search or filepaths, (`brew install fzf` + `echo "[ -f ~/.fzf.bash ] && source ~/.fzf.bash" >> ~/.bashrc`)
@@ -217,7 +217,7 @@ export HISTSIZE=1000000
 export HISTTIMEFORMAT="%d/%m/%y %T "
 ```
 1. helm - "Kubernetes package manager" (`brew install kubernetes-helm`)
-1. minikube (`brew cask install minikube`) and virtualbox (`https://www.virtualbox.org/wiki/Downloads`)
+1. minikube (`brew install minikube`) and virtualbox (`https://www.virtualbox.org/wiki/Downloads`)
 1. GCP cli [gcloud quickstart macos](https://cloud.google.com/sdk/docs/quickstart-macos)
 1. Digital Ocean cli (`brew install doctl`)
 1. Azure cli (`brew install azure-cli`)
@@ -225,7 +225,7 @@ export HISTTIMEFORMAT="%d/%m/%y %T "
 1. A text editor such as [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/), [Textmate](https://macromates.com), [MacVim](http://macvim-dev.github.io/macvim/), or [neovim](https://neovim.io)
 1. watch (`brew install watch`)
 1. tmux/tmate (`brew install tmux tmate`)
-1. A markdown editor such as [macdown](https://macdown.uranusjr.com) (`brew cask install macdown`)
+1. A markdown editor such as [macdown](https://macdown.uranusjr.com) (`brew install macdown`)
 1. [BitBar](https://getbitbar.com) with [GitLab Plugin](https://gitlab.com/dsylva/gitlab-bitbar)
 1. To [install gnu utils and replace mac utilities]( https://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities) use the --with-default-names option.
 1. when using gpg, you will be asked for a password. Querying for passwords can be facilitated by different tools, but a fairly standard and widely supported one is pinentry-mac (`brew install pinentry-mac`). To tell your gpg agent to use it: `echo 'pinentry-program /usr/local/bin/pinentry-mac' >> ~/.gnupg/gpg-agent.conf`
