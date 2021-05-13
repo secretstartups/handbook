@@ -24,7 +24,6 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 - You are always encouraged to make requests for future content that will help you and the team. Simply complete the form [here](https://forms.gle/2zznmLFznSqJAQUH6).
 
 
-
 | OPERATIONAL| EDUCATIONAL |
 | ------ | ------ |
 | [**How to reach Legal** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Overview-of-GitLab-Agreements)  |
