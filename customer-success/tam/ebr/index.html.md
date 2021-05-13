@@ -21,7 +21,6 @@ TAMs should hold EBRs with each of their customers **at least** once per year. L
 
 The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps.  The most crucial element in all EBRs is giving the buyer the time to speak about what matters to them, and creating a framework to enable them to do so.
 
-
 ### How to bring up an EBR with your customers
 
 To schedule the EBR, the SALSA/TAM meeting or AE/TAM sync is the best time to review customers that are due an EBR, and agree on next steps, ensuring the economic buyer and key decision makers are invited and able to attend where possible.
@@ -34,32 +33,30 @@ Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjX
 
 #### Sample EBR Email
 
->>>
-Acme team, 
-
-As our partnership continues to grow, I would like to schedule an Executive Business Review between Acme stakeholders and the GitLab team. 
-
-This is an opportunity to showcase the growth of GitLab within Acme and the value it has provided your users over the last year. We will also spend time aligning on goals and how we can partner together for success over the next year.  
-
-Proposed agenda: 
-1. Introductions
-1. GitLab Overview
-1. Growth, Objectives, and Goals
-1. Product & Usage Insights
-1. Product Overview - (area of your choosing)
-1. Next Steps
-
-When would be a good date and time for you and your stakeholders for this meeting? We'd prefer to have an hour and a half if possible, but we understand your schedules are busy, so we're open to any open availability you have.
-
-Please let me know if you have any questions!
->>>
+> Acme team,
+>
+> As our partnership continues to grow, I would like to schedule an Executive Business Review between Acme stakeholders and the GitLab team.
+>
+> This is an opportunity to showcase the growth of GitLab within Acme and the value it has provided your users over the last year. We will also spend time aligning on goals and how we can partner together for success over the next year.  
+>
+>Proposed agenda:
+>
+> 1. Introductions
+> 1. GitLab Overview
+> 1. Growth, Objectives, and Goals
+> 1. Product & Usage Insights
+> 1. Product Overview - (area of your choosing)
+> 1. Next Steps
+>
+>When would be a good date and time for you and your stakeholders for this meeting? We'd prefer to have an hour and a half if possible, but we understand your schedules are busy, so we're open to any open availability you have.
+>
+>Please let me know if you have any questions!
 
 ### EBRs in Gainsight
 
 A [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas) that will automatically open seven months before renewal, with a due date of 45 days later to give time to schedule, prepare for and conduct the EBR. If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
 
 If no progress has been made on the CTA (no tasks have been completed) and there are less than 2 months before renewal, the CTA will be closed automatically. Alternatively, if you do not plan to hold the EBR within the next quarter, please close the CTA, chosing the appropriate close reason and including additional context in the CTA details.
-
 
 ### How to prepare an EBR
 
@@ -80,6 +77,7 @@ EBRs typically consists of the following content:
 1. Recommendations & Next Steps
 
 Also to be considered:
+
 1. Product Roadmap (focus on 1-2 specific categories important to them and loop in the Product team accordingly)
 1. Year in Review (more usage focused, see below)
 1. Support Review (how many tickets at what priority, SLAs, etc.)
@@ -87,7 +85,7 @@ Also to be considered:
 
 [Usage ping](https://docs.gitlab.com/ee/development/usage_ping/) can provide data to build the usage and growth story. If usage ping is not enabled, a [payload](https://docs.gitlab.com/ee/development/usage_ping/#usage-ping-payload) may be periodically requested from the customer. Extracting the payload is a simple process and only takes about 30 seconds. Some examples included in this data are historical and current user count, and CI build history. Please note usage ping only goes back 6 months, so it's worthwhile to keep old data for comparison in future EBRs.
 
-#### Before the call 
+#### Before the call
 
 Besides creating the deck, there are a few other items to consider to ensure your EBR will go as smoothly as possible.
 
