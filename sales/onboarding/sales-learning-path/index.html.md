@@ -12,7 +12,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ## Sales & Customer Success Quick Start Learning Path - Core Curriculum
 
-### 1.Welcome to GitLab Sales!
+### 1.[Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1471767)
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
@@ -33,7 +33,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - You can see more information about team members and who reports to whom on the team page. Throughout the course you will be asked to schedule a few brief meetings with your peers. Keep in mind that it is always ok to put a meeting on someone's calendar, if they can't make it and decline it is not a problem. We hope you enjoy getting to know your super cool co-workers!
    - Check out the [org chart](https://about.gitlab.com/company/team/org-chart/) and the [Team Page](https://about.gitlab.com/company/team/)
 
-### 2. DevOps Technology Landscape
+### 2. [DevOps Technology Landscape](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459977)
 *  **DevOps Technology Landscape**
    - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
    - [DevOps Technology Landscape](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/DevOps+Technology+Landscape+-+Storyline+output/story.html)
@@ -47,7 +47,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **QUIZ: Increase Operational Efficiencies (Assignment - 25 Minutes - 6 Points - Pre Work)**
    - GitLab is a single application for the entire DevOps lifecycle! Please read the "Manage Your Tool Chain Before it Manages You" white paper from Forrester (see link above) to answer the questions in the [Google Form Quiz.](https://forms.gle/namX7dcg1dbo5KQQ7)
 
-### 3. Our Customers
+### 3. [Our Customers](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459979)
 *  **Our Customers**
    - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
    - [Our Customers](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Customers+-+Storyline+output/story.html)
@@ -60,7 +60,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 
-### 4. Our Portfolio
+### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470260)
 *  **Our Portfolio**
    - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
    - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html)
@@ -95,7 +95,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
       - [GitLab Marketing Materials Repository](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/resources/downloads): Check out the GitLab.com marketing materials repository to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send downloaded copies to your clients to help them understand GitLab value.
       - [GitLab Pricing Model](https://about.gitlab.com/company/pricing/): Check out the chart to understand our pricing model. For additional context take a look at the handbook page on [pricing](https://about.gitlab.com/pricing/).
 
-### 5. Field Roles & Expectations
+### 5. [Field Roles & Expectations](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1460153)
 *  **Sales Roles (Material, - Handbook - 30 minutes)**
    - Review the sales roles based on the customer segment you will cover.
    - Read the [Handbook](/handbook/sales/)
@@ -122,26 +122,26 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 6. Sales Process
 *  **Command of the Message Intro Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please complete the [Command of the Message](https://classroom.google.com/c/MTIxMzIxNzE2NjIw) learning path. Instructions to join the class on your own:
-   - Go to [classroom.google.com](https://classroom.google.com/).
-   - On the top right of the Classes page, click + then > Join class.
-   - Enter the code: **rjs22en** and click Join.
+   - Please complete the [Command of the Message](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1447979) learning path.
    - Time to complete is approximately 1.5 hours
 *  **MEDDPPICC Full E-Learning Course (Assignment - 2 Hours - 10 Points - Pre Work)**
-   - Please sign in to [MEDDPPICC](https://classroom.google.com/c/MTIxMzIyMzc3ODA2?cjc=fi3gcwd) learning path and complete the MEDDPPICC full eLearning course. Instructions to join the class on your own:
-   - Go to [classroom.google.com](https://classroom.google.com/).
-   - On the top right of the Classes page, click + then > Join class.
-   - Enter the code: **fi3gcwd** and click Join.
+   - Please sign in to [MEDDPPICC](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459983) learning path and complete the MEDDPPICC full eLearning course.
    - Time to complete is approximately 1.5 hours
 *  **GitLab Value Framework (Material - Sales Collateral - 35 Minutes)**
    - The GitLab [value framework](/handbook/sales/command-of-the-message/#resources-core-content) is one of the most useful tools available for salespeople. Take a look to understand our value drivers, how to uncover customer needs, and how to articulate value and differentiation. A [framework summary](/handbook/sales/command-of-the-message/#resources-core-content) is also avaliable for quick reference.
 * **Seller Deficit Disorder (Material - Sales Collateral - 15 Minutes - Pre Work)**
    - Please read this [short document](https://drive.google.com/file/d/1heCPCI9bT1sc05Xj0hrp8BJrlzMc8VEc/view?usp=sharing) by Force Management to prepare for the Command of the Message training in Sales Quick Start.
+*  **[Co-Selling with Partners](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1316397) (Course - 30 Minutes - Pre Work)**
+*  **GitLab Sales Operating Procedures**
+    - **[Engage & Educate the Customer|GitLab Sales Operating Procedures](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472304) (Material - Handbook - 10 minutes)**
+    - **[Facilitate The Opportunity|GitLab Sales Operating Procedures](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472305) (Material - Handbook - 10 minutes)**
+    - **[Deal Closure|GitLab Sales Operating Procedures](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472306) (Material - Handbook - 10 minutes)**
+    - **[Retain and Expand|GitLab Sales Operating Procedures](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472312) (Material - Handbook - 10 minutes)**
 *  **Social Selling 101 ( Material - Video - 20 Minutes)**
    - Social selling is the art of using social networks to find, connect with, and nurture your customers and prospects. Watch the [video](https://www.youtube.com/watch?v=w-C4jts-zUw) and use this [guide](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) to learn how to make a profile that will resonate with your prospects.
-*  **QUESTION: Business Development (Assignment - 15 Minutes - 10 Points - Pre Work)**
+*  **[QUESTION: Business Development](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470149) (Assignment - 15 Minutes - 10 Points - Pre Work)**
    - Business development is hard... because not everyone gets marketing qualified leads or has a big referral network. Take a look at the [Sales Development](/handbook/marketing/revenue-marketing/sdr/) handbook page to understand more about your XDR partners and their processes. Please share 1-2 insights on strategy or best practices from your experience. How do you consistently keep the pipeline full of leads? Let's crowdsource some best practices!
-*  **QUESTION: Account Development (Assignment - 15 Minutes - 10 Points - Pre Work)**
+*  **[QUESTION: Account Development](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470151) (Assignment - 15 Minutes - 10 Points - Pre Work)**
    - One of the most important parts of a salesperson's job is account development. Your clients bought from you once, and they are very likely to do it again! Please share 1-2 insights on strategy or best practices from your experience. How do you keep your clients buying more and sending referrals? Let's crowdsource some experience!
 
 ### 7. Sales Action and Role Plays
@@ -153,7 +153,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Record your mock call with zoom, then upload the recording to Google Drive to submit the assignment.
 
 
-### 8. Our Competition
+### 8. [Our Competition](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1462204)
 *  **The Industry In Which GitLab Competes (Material - Video - 11 Minutes)**
    - Sid Sijbrandij, CEO of GitLab, discusses the overall industry where GitLab competes.
    - [You Tube - The Industry GitLab Competes In](https://www.youtube.com/watch?v=qQ0CL3J08lI)
@@ -199,7 +199,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - Reference Edge Software will help reps to easily see what available references are the best fit for their current opportunity. Check out the [video](/handbook/sales/training/#functional-skills--processes), and [Powerpoint](https://docs.google.com/presentation/d/18odHX0PTzifRJaeAr-yxa9jdg1_nw4RYDiBqAkYFAyM/edit?usp=sharing) on this new tool.
 
 
-### 10. Sales and Customer Success Support
+### 10. [Sales and Customer Success Support](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472289)
 *  **The Product Teams (Material - Handbook - 60 minutes)**
    -Review the Product Stages Handbook page to see who you should reach out if you have questions or need assistance with a [particular product.](/handbook/product/categories/)
 *  **The GitLab Legal Team (Material - Handbook - 10 Minutes)**
@@ -215,7 +215,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - Take a look at the [marketing issue board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) to see when and where we will be hosting marketing events.
 
 
-### 11. GitLab Customer Support Team
+### 11. [GitLab Customer Support Team](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1463667)
 
 - **Review the GitLab Customer Support Documentation (Material - Handbook - 5 minutes)**
   - The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository that explains our work processes and the reasons behind them. To learn more, check out the [Handbook](/handbook/support/).
