@@ -36,6 +36,7 @@ A few ways in which feedback is provided at GitLab are:
 * [360 Feedback](/handbook/people-group/360-feedback/)
 * Regularly during 1:1s (you can find details about that by going to the [1-1 page](/handbook/leadership/1-1/))
 * "365 feedback" - Feedback should be given 365 days a year and largely it’s done verbally and directly; not escalated.
+* [TrustMetryx](https://trustmetryx.com) - behavioral science based feedback measuring relationship strength between teams and among teammates.
 
 ## Guidance on Giving and Receiving Feedback
 
@@ -70,6 +71,21 @@ The consequences of holding back can have a significant impact to GitLab's cultu
 - Lack of Commitment
 - Fear of Conflict
 - Absence of Trust
+
+### Embracing Feedback
+“In teamwork, silence isn’t golden, it’s deadly.“ ~Mark Sanborn
+
+The habit of seeking feedback may not be easy to develop, but failing to seek honest input from your team can lead to reduced psychological safety, loss of trust, the deterioration of relationships, and ultimately disengagement. The impact on the performance and well-being of your team carries a heavy price.
+
+In this video, [Dr. Jeb Hurley](https://linkedin.com/in/jebhurley), Co-founder of Xmetryx, takes a look at why some leaders choose to avoid feedback, even when they have ample evidence that shows its benefits. He discusses why, if you want to play like a champion, you must become hungry for feedback and learn to give it as well as receive it wisely. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://player.vimeo.com/video/546933765" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+For additional reading, here’s an article on how [Brain Science is Turning Feedback Inside-Out](https://www.onehabit.blog/brain-science-is-turning-team-feedback-inside-out/)
+
+Note: The entire Remote Team Leadership Micro-course is part of a TrustMetryx subscription. [Learn more](https://about.gitlab.com/handbook/people-group/learning-and-development/manager-challenge/#interested-in-using-trustmetryx)
 
 ### Elements of Getting it Right
 
