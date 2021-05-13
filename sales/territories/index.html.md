@@ -67,6 +67,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 - **NA West - Rockies/SoCal**: TBD
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Timm Ideker
+- **Inside Sales - Public Sector**: Brent Caldwell
+- **Inside Sales - Enterprise**: Matt Malcolm
 
 | Sub-Region | Area | **Territory Name** | Sales |Inside Sales Rep |
 | ---------- | ---- | -------------- | ----- | ----- |
