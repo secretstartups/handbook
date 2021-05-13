@@ -44,7 +44,7 @@ Upon submission, the submitter will receive an [autoresponder](https://gitlab.co
 
 >**NOTE:** In order to keep track of which requests still require confirmation or answers to the challenge questions, you can optionally apply the `Awaiting Confirmation` or `Awaiting Challenge Answers` labels.
 
-1. **Deletion Confirmation:** Confirm that the user has replied back confirming that they wish for us to proceed, this will appear as a comment on the issue. If the user has not provided this confirmation within **7** days, remind them to with the `Confirmation Reminder` snippet below.
+1. **Deletion Confirmation:** Before proceeding further you need to ensure that the user has responded confirming that they wish for us to delete their account, this will appear as a comment on the issue. If the user has not provided this confirmation within **7** days, remind them to with the `Confirmation Reminder` snippet below.
 
    <details>
      <summary markdown="span">Confirmation Reminder</summary>
@@ -177,5 +177,6 @@ In these cases, we can delete the account so that a new user account can be crea
 1. Use the [`Support::SaaS::Group Managed Account Deletion` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073474899), which outlines the criteria and deletion.
 1. Once Support receives permission from *both* the account holder and a group owner:
 1. Create an [internal request issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new) titled "Account Deletion" with the username, email, ticket number, and the reason in brief in the description.
-1. Go to the user's admin page and click on "Delete user and all contributions".
+1. Email both the accound holder and group owner infoming that you are going to delete the account asking them to confirm for a final time.
+1. Once confirmation has been received go to the user's admin page and click on "Delete user and all contributions".
 1. Close the internal issue, and respond to the customer that the account has been deleted.
