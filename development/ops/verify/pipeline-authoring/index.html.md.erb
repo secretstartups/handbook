@@ -117,15 +117,19 @@ In order to keep our stakeholders informed of work in progress, we provide updat
 
 ##### Issue Health Status
 
-For issues in the current milestone, we use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to indicate probability that an issue will ship in the current milestone. This status is updated by the DRI ([directly responsible individual](/handbook/people-group/directly-responsible-individuals/)) as soon as they recognize the probability has changed. If there is no change to the status, a comment to indicate that it has been the status of the issue has been _assessed_ would be helpful. 
+We use the [Issue Health Status feature](https://docs.gitlab.com/ee/user/project/issues/#health-status) to indicate probability that an issue will ship in the assigned milestone.
+When a DRI ([directly responsible individual](/handbook/people-group/directly-responsible-individuals/)) picks up an issue to work on, they should add the appropriate health status.
+This status is also updated by the DRI as soon as they recognize the probability has changed.
 
 The following are definitions of the health status options:
 
+- `No Status` – If the status is left blank, we are unsure on the likelihood of an issue shipping. This is usually only before an issue has been picked up.
 - `On Track` - The issue has no current blockers, and is likely to be completed in the current milestone.
 - `Needs Attention` - The issue is still likely to be completed in the current milestone, but there are setbacks or time constraints that could cause the issue to miss the release due dates.
 - `At Risk` - The issue is highly **unlikely** to be completed in the current milestone, and will probably miss the release due dates.
 
 Examples of how status updates are added:
+1. If an engineer picks up an issue at the start of a milestone, the `On Track` health status will be applied.
 1. If the health status changes from `On Track` to `Needs attention` or `At Risk`, we recommend that the DRI add a short comment stating the reason for the change in an [issue status update](#issue-status-updates).
 1. If an issue continues to be `On Track`, the DRI could provide a comment to indicate solutions (whatever it may be) continue to be implemented, and it's still _on track_ to be delivered in the same milestone.
 
