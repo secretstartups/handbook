@@ -58,6 +58,13 @@ As with any new software being introduced at a company, users tend to need train
 #### Integration Services
 Customers tend to have tools and systems with which they need to establish integrations. We offer [integration services](/services/integration/) for customers who need systems like LDAP, Jira, Jenkins, etc. to work with gitlab.
 
+#### Advisory Services
+Advisory services can be helpful to customers who have questions on how to best leverage GitLab to meet their company's ambitious goals related to devops or digital transformation.
+Advisory Services typically follow a 3-step approach:
+* A Discovery Session to align with the customer to better understand their goals or challenges, aswell as the current tooling and process.
+* Asynchronous investigation to develop and iterate on a candidate solution.
+* Delivery workshop to demonstrate the proposed solution or workflow, together with any further supporting guidance or recommendations
+
 ### Why GitLab Professional Services?
 {:.no_toc}
 
@@ -83,6 +90,7 @@ Customers tend to have tools and systems with which they need to establish integ
 ## How to order
 
 Ordering services is done through an **Off-the-shelf SKU** or a custom-scoped **Statement of Work**.  See the [selling services workflow](/handbook/customer-success/professional-services-engineering/selling/) for more details.
+For custom SOW's, initiate a scoping issue to capture the requirement using the [Services Calculator](https://services-calculator.gitlab.io/), and collaborate with your local [Professional Services Engagement Manager](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/).
 
 ## Resources
 

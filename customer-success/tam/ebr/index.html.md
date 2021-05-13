@@ -15,7 +15,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ## What is an Executive Business Review?
 
-An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. Together with the SAL/AE, a TAM is responsible for scheduling and conducting EBRs and working with their customers to achieve the primary objectives and desired business outcomes. The TAM will own the content creation, and together the SAL/AE and TAM will determine the flow of the review based on best practices and insight into the customer relationship.
+An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. It is an extension of the account planning process and part of the TAM's regular business rhythm. In partnership with the SAL/ AE, a TAM is responsible for working with their customers to identify the primary objectives and desired business outcomes for the meeting, then scheduling and conducting the EBR. In addition, it is recommended to work with the champion to ensure the right content is covered for the audience. The TAM will own the content creation, and together with the SAL/AE, the TAM will determine the flow of the review based on best practices and insight into the customer relationship.
 
 TAMs should hold EBRs with each of their customers **at least** once per year. Larger ARR accounts or those with more strategic initiatives may benefit from or even require a biannual or quarterly cadence, a decision to be made by the TAM, SAL/AE, and Sales/CS leadership.
 

@@ -149,7 +149,7 @@ Project Close
 * [ ] Confirm all time has been tracked in your timesheet
 * [ ] Confirm all expenses have been logged and submitted
 
-#### Mavenlink Time Off Scheduling, Holidays, Friends & Family Days
+#### Mavenlink Time Off Scheduling, Holidays, Family and Friends Days
 
 ****Regional Holidays and Friends and Family Days****
 

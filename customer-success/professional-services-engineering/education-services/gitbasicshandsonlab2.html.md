@@ -78,7 +78,7 @@ Note: Git has detected that we have edited a file in our local repo, but since w
 ### Modify your content again
 1. In your local machine's text editor (not the GitLab.com editor), add a new line to your local copy of `README.md` that says `add a third line to file`, and save the file.
 2. In your terminal/command window, type `git add README.md` to move the edited file to git's staging area.
-3. Type `git commit -m "modified README.md"` to commit the file that was in the staging area.
+3. Type `git commit -m "Modified README.md"` to commit the file that was in the staging area.
 4. Type `git log` to see a description of the commit you just made.
 5. Type `git push` to copy the edited `README.md` to the repo on GitLab.com.
 - **Developer Tip:** To commit your changes to the upstream branch (that is, the branch on the remote server with the same name as the branch on your local machine), simply type `git push`. The system only needs to set the upstream branch once.

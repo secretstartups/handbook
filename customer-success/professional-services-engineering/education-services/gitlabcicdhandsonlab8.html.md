@@ -10,7 +10,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 
 ### Edit the Config.toml File
 1. In the GitLab Demo Cloud, locate your CICD Demo project from previous labs and open it.
-2. In a seperate tab, open the [ci-registry snippet](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training/gitlab-cicd-hands-on-demo/-/snippets/1694) and review the instructions at the top of the file.  
+2. In a seperate tab, open the **ci-registry snippet** and review the instructions at the top of the file.  
 3. Copy the following line of code:  
 > volumes = ["/var/run/docker.sock:/var/run/docker.sock", "/cache"]
 4. Navigate to your terminal/command line and locate the config.toml file located in the .gitlab-runner directory. 
@@ -19,7 +19,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 > gitlab-runner restart 
 
 ### Add a Dockerfile
-1. Navigate back to the window with the [Hands On Demo Project](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training/gitlab-cicd-hands-on-demo/) click on the Dockerfile. 
+1. Navigate back to the window with the **Hands On Demo Project** click on the Dockerfile. 
 2. In the upper right-hand corner of the file, click the **Copy file contents** button. 
 3. Return  to your CICD Demo project and click the (+) icon and click on **New File**  
 4. In the **File Name** field, type “**Dockerfile**”, and paste the contents from the Dockerfile into the body of the file.  
@@ -27,7 +27,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 
 ### Add Build Image
 1. Navigate back to your CICD Demo project from previous labs open it.
-2. In a seperate tab, open the [ci-registry snippet](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training/gitlab-cicd-hands-on-demo/-/snippets/1694) and click the **Copy File Contents**.  
+2. In a seperate tab, open the **ci-registry snippet** and click the **Copy File Contents**.  
 3. Return to your CICD Demo project in your other tab and click on your gitlab-ci.yml file and click the **Edit** button.
 4. At the end of your yml file, paste the contents from the ci-registry snippet. 
 5. Edit the ci-registry section of the .gitlab-ci.yml file by locating the tags section and replace the **byo-runner** tag with a **docker tag**

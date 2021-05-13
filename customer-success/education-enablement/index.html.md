@@ -117,10 +117,10 @@ To align our education and enablement with our product, each of the topics below
     <ul>
     <li><a href="https://docs.gitlab.com/ee/user/project/issues/">Issue Tracking Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/solutions/time-tracking/">Time Tracking Feature Docs</a></li>
-    <li><a href="https://about.gitlab.com/product/issueboard/">Boards Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/issueboard/">Boards Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/product/epics/">Epics Feature Docs</a></li>
-    <li><a href="https://about.gitlab.com/product/roadmaps/">Roadmaps Feature Docs</a></li>
-    <li><a href="https://about.gitlab.com/product/service-desk/">Service Desk Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/roadmaps/">Roadmaps Feature Docs</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/service-desk/">Service Desk Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/project/requirements/">Requirements Management Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/test_cases/index.html">Quality Management Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/project/issues/design_management.html">Design Management Feature Docs</a></li>
@@ -147,8 +147,8 @@ To align our education and enablement with our product, each of the topics below
     <li><code>Free</code><a href="https://about.gitlab.com/solutions/jira/">JIRA Integration Solution Overview</a></li>
     <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira/">JIRA Issues Integration Feature Docs</a></li>
     <li><code>Free</code><a href="https://docs.gitlab.com/ee/integration/jira/dvcs.html">JIRA Development Panel Integration Feature Docs</a></li>
-    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Multiple approvers in code review Feature Docs</a></li>
-    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_approvals.html">Approval rules for code review Feature Docs</a></li>
+    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html">Multiple approvers in code review Feature Docs</a></li>
+    <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/approvals/rules.html">Approval rules for code review Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/merge_requests/merge_request_dependencies.html">Merge request dependencies Feature Docs</a></li>
     <li><code>Premium</code><a href="https://docs.gitlab.com/ee/user/project/code_owners.html">Code Owners Feature Docs</a></li>
     </ul>
@@ -176,7 +176,7 @@ To align our education and enablement with our product, each of the topics below
 <td>
     <!-- Associate -->
     <ul>
-    <li><a href="https://about.gitlab.com/product/continuous-integration/">Continuous Integration (CI) Feature Overview</a><br />
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/">Continuous Integration (CI) Feature Overview</a><br />
     <ul>
     <li><a href="https://docs.gitlab.com/ee/ci/">CI/CD Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/introduction/">CI/CD Concepts Docs</a></li>
@@ -239,18 +239,18 @@ To align our education and enablement with our product, each of the topics below
 <td>
     <!-- Associate -->
     <ul>
-    <li><a href="https://about.gitlab.com/product/continuous-delivery/">Continuous Delivery Feature Overview</a>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/">Continuous Delivery Feature Overview</a>
     <ul>
     <li><a href="#verify-stage">See verify stage for full list of CI/CD resources</a></li>
     </ul>
     </li>
-    <li><a href="https://about.gitlab.com/product/pages/">Pages Feature Overview</a>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/pages/">Pages Feature Overview</a>
     <ul>
     <li><a href="https://about.gitlab.com/direction/release/pages">Pages Feature Direction and Roadmap</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/project/pages/">Pages Feature Docs</a></li>
     </ul>
     </li>
-    <li><a href="https://about.gitlab.com/product/review-apps/">Review Apps Feature Overview</a>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/review-apps/">Review Apps Feature Overview</a>
     <ul>
     <li><a href="https://www.youtube.com/watch?v=CteZol_7pxo&feature=youtu.be">YouTube Webcast Feature Overview</a></li>
     <li><a href="https://gitlab.com/groups/gitlab-org/-/epics/495">Review Apps Direction and Roadmap</a></li>
@@ -276,12 +276,12 @@ To align our education and enablement with our product, each of the topics below
     <!-- Associate -->
     <ul>
     <!--<li><a href="#"></a></li>-->
-    <li><a href="https://about.gitlab.com/product/auto-devops/">Auto DevOps Feature Overview</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/auto-devops/">Auto DevOps Feature Overview</a></li>
     <li><a href="https://docs.gitlab.com/ee/topics/autodevops/">Auto DevOps Feature Docs</a></li>
     <li><a href="https://about.gitlab.com/solutions/kubernetes/">Kubernetes Management Feature Overview</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/variables/">Secrets Management CI Variable Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/ci/chatops/">ChatOps Feature Docs</a></li>
-    <li><a href="https://about.gitlab.com/product/serverless/">Serverless Feature Overview</a></li>
+    <li><a href="https://about.gitlab.com/stages-devops-lifecycle/serverless/">Serverless Feature Overview</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/infrastructure/">Infrastructure-as-Code Feature Docs</a></li>
     <li><a href="https://docs.gitlab.com/ee/user/clusters/cost_management.html">Cluster Cost Management Feature Docs</a></li>
     </ul>
@@ -376,7 +376,29 @@ TODO AWS, GCP, DigitalOcean
 
 ### Container Technologies
 
-TODO Kubernetes, Openshift, Docker
+TODO Openshift, Docker
+
+<table>
+<thead>
+<tr>
+<th>Topic</th>
+<th>Foundations</th>
+<th>Associate</th>
+<th>Professional</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://kubernetes.io/training/" target="_blank">Kubernetes Certification</a></td>
+<td><ul><li><a href="https://www.udemy.com/course/learn-kubernetes/" target="_blank">Kubernetes for Beginners Udemy Training</a></li>
+<li><a href="https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/" target="_blank">CKA Udemy Training</a></li>
+<li><a href="https://www.udemy.com/course/certified-kubernetes-application-developer/" target="_blank">CKAD Udemy Training</a></li></ul></td>
+<td><a href="https://kubernetes.io/docs/home/" target="_blank">Kubernetes Doc</a></td>
+<td><ul><li><a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/" target="_blank">CKA Certification</a></li>
+<li><a href="https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/" target="_blank">CKAD Certification</a></li>
+<li><a href="https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/" target="_blank">CKS Certification</a></li></td></tr>
+</tbody>
+</table>
 
 ### Infrastructure-as-Code
 

@@ -1,11 +1,8 @@
 ---
 layout: handbook-page-toc
-title: "Scoping Professional Services"
+title: "Go To Market (Pre-Sales)"
 description: “Discover how GitLab Scopes Professional Services for customers who have requirements that fall outside the scope of the packaged services.”
 ---
-# Scoping Custom Professional Services
-{:.no_toc}
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -24,7 +21,9 @@ For custom SOWs, the [workflow for SOW creation](/handbook/customer-success/prof
 ![](./scoping-workflow.png)
 [Source](https://docs.google.com/presentation/d/1TOI2aoseBoyWYQC6-xpJVMknEncCNreSFfMvOHO7EBA/edit#slide=id.gbfb62d0c00_0_58) (GitLab Team Members Only)
 
-## Positioning
+## 1. Positioning
+- **DRI**: Account Team (SAL/AE, SA, TAM)
+- **Supported By**: Engagement Manager
 
 ### MEDDPICC
 Professional services can be positioned when a prospect becomes a customer (e.g. the Land of a new deal) or when an already existing customer is growing their staff or interesting in adopting new features of GitLab (e.g. expansion). The SA, SAL, AE, or TAM (e.g. "Account Team") is primarily responsible for this process, following the [Command of the Message](/handbook/sales/command-of-the-message/) and [MEDDPICC](/handbook/sales/meddppicc/) messaging frameworks.
@@ -37,15 +36,17 @@ The Account team should be encouraged to use the [Customer Terrain Mapping templ
 ### Services Needed
 Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to get in touch with the Engagement Manager in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel and/or by running the [services calculator](https://services-calculator.gitlab.io/)
 
-## Scoping
+## 2. Scoping
+- **DRI**: Engagement Manager
+- **Supported By**: PS Practice, Account Team (SAL/AE, SA, TAM)
 
 ### Gather Data
 After the [services calculator](https://services-calculator.gitlab.io/) is run by the Account Team, scoping issues are automatically created and land in the [PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-plan/-/issues) Project. Using this customer scoping issue, the engagement manager gathers data asynchronously from the account team. Questions about the potential engagement can sometimes be answered by the Account Team from the discovery that was done already. We want to make sure we avoid asking duplicate questions to the customer. In some cases when the account team cannot provide the level of detail to create an egagement, the EM will meet with the Account team and Customer to ask additional discovery questions to get to a level of detail needed.
 
-### Create Strawman
-A "Straw-man" is a placeholder spreadsheet used for scoping services. The Engagement Manager uses the [straw-man spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](/handbook/customer-success/professional-services-engineering/framework) page.
+### Create Engagement Estimate
+A PS Engagement Estimate spreadsheet used for scoping services. The Engagement Manager uses the [PS engagement estimate spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](/handbook/customer-success/professional-services-engineering/framework) page.
 
-### Iterate / Review Strawman
+### Iterate / Review Engagement Estimate
 After the first iteration of building detail into the straw-man, the Engagement manager posts a request for review in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel to the Account team. Often the Engagement Manager will get on a zoom call with the customer and provide context and gather feedback from the customer. 
 
 ### Generate SOW
@@ -57,21 +58,26 @@ Once the SOW is generated, it is ready for review by the account team. Iteration
 ### SOW Review/Approval
 After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. These review processes happen in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) and **at-mention** the specific people from whom the engagemenet manger is seeking approval.
 
-## SOW Execution
+## 3. SOW Execution/Close
+- **DRI**: Engagement Manager
+- **Supported By**: PS Leader, Sr. PSE, SAL, Legal, Finance, Deal Desk
 
 ### Finance & Legal Approval, Customer Signature
 Once the SOW has been approved by PS leadership, the account team is owns the process of executing the SOW. The engagement manager can kick off the finance approval process in Salesforce. The Account team is responsible for creating a Legal Approval in Salesforce from the button in the opportunity. Once PS Sr. Director, Finance, and Legal approve, they will should send it to the customer for signature.
 
 ### Deal Desk updates SFDC
-Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Only opportunity to `closed-won`. 
+Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Only opportunity to `closed-won`.
 
 ### Journal Epic
 TODO: 
 
-## Delivery Handoff
- Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed.
+## 4. Delivery Handoff 
+- **DRI**: Project Coordinator
+- **Supported By**: EN, PM, PSE, Account Team
 
-Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) methodology to understand the details around pre-sales handoff to the deliver team.
+Typically, once the engagement goes `closed-won` in salesforce, the project coordinator schedules a handoff meeting to discuss resource assignment, schedule, and technical details of discussions that occurred before the sale closed.
+
+Check out the [PS Delivery](/handbook/customer-success/professional-services-engineering/delivery/) methodology to understand the details around pre-sales handoff to the delivery team.
 
 ![](../PS-delivery-workflow.png)
 
