@@ -13,8 +13,7 @@ description: "This page is an overview of the processes, and systems that the Ca
 ## Candidate Experience Specialist Responsibilities
 {: #framework-coord}
 
-The CES team operates off of a queue style system with differing levels of priorities based on the request.  The CES team utilizes [GitLab Service Desk](/stages-devops-lifecycle/service-desk/) to track all incoming requests to the CES team.
-
+The CES team operates off of a queue style system with differing levels of priorities based on the request.  The CES team utilizes [GitLab Service Desk](/stages-devops-lifecycle/service-desk/) to track all incoming requests to the CES team. If you are a GitLab team member and you have a request or question for the Candidate Experience team, email `ces@gitlab.com` and a ticket will automatically be created within the CES Service Desk.
 
 ### Best Practices
 
