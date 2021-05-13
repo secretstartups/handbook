@@ -17,6 +17,9 @@ In the annual employee engagement and satisfaction survey, Marketing’s lowest 
 ### Proposed Solution: 
 Create a program for learning and development based on core competencies in the main areas all marketers should have. Working with the L&D team and resources available (ie. LinkedIn Learning) Marketing will curate a program with the goal of developing team members based on these competencies and make them eligible to move into internal roles. 
 
+### Welcome Video
+Todd provides an overview of the purpose and goals of the Marketing Career Development Program as well as insights into the marketing organizaton and what each team does, in this welcome [video](https://gitlab.edcast.com/insights/welcome-video). 
+
 
 ## Competencies 
 
