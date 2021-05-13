@@ -329,3 +329,9 @@ The People Experience Associate will assigned to this task, will pull this repor
 The People Experience team have admin access to Slack and can assist team members with any PTO queries as per the process listed on the PTO Handbook [page](https://about.gitlab.com/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). 
 
 The People Experience team will also receive notifications of any news items from Slack, as well as sync issues between BambooHR and PTO by Roots. When receiving the email about issues with the sync, the People Experience Associate will verify whether it is a specific issue or whether it is related to a recent offboarding of a team member or if it is related to team members starting that week. The sync takes about 24 hours when it will then update to remove/add the specific team members. 
+
+### Access Request Templates
+
+When a new tool is [added to the Tech Stack](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#adding-access-request-process-for-a-new-item-in-the-tech-stack), the People Experience team is automatically pinged in the Access Request to create the relevant MR adding the tool to the offboarding template. 
+
+- Important to check whether the tool should be in the main offboarding issue or if only a certain department/team will have access to the tool, in which case, this can be added to the specific department template. 
