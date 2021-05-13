@@ -34,7 +34,7 @@ The following people are permanent members of the Product Intelligence Group:
 
 ## Project management process
 
-Our team uses a hybrid of Kanban for our project management process. This process balances the continuous flow of Kanban with GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#monthly-releases).
+Our team uses a hybrid of Scrum for our project management process. This process follows GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#monthly-releases).
 
 - We only work off of issue boards which act as our single source of truth.
 - We continuously progress issues to the next workflow stage.
@@ -133,7 +133,7 @@ Refinement is the responsibility of every team member. Every Friday, Slack will 
 
 ### Timeline
 
-Our team pays close attention to the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/). Since our group uses a hybrid kanban process, we only pay attention to certain dates such as:
+Our team pays close attention to the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/):
 
 - Milestones starting on the 17th of the previous month.
 - Milestones ending on the 18th of the current month
@@ -146,6 +146,59 @@ In addition to these dates, our team also does the following:
 
 - Team Retrospective discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the last meeting of every month.
 - Monthly Roadmap Planning discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the first meeting of every month.
+
+### Milestone Planning
+
+Planning a milestone is a collaborative effort between Product, Engineering, and UX.
+#### Milestone Planning Issue
+We utilize a milestone planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/216592). A milestone planning issue consists of:
+- Holidays
+- Validation Track
+  - UX Capacity
+  - Priorities
+- Build Track
+  - Engineering Capacity
+  - Priorities
+- Roadmap
+- OKR Alignment
+- Things to Pay Attention To
+- Planning Tasks
+
+#### Planning Tasks
+The following tasks need to be completed for planning a milestone:
+* [ ] PM creates milestone planning issue
+* [ ] Team updates Holidays section
+* [ ] Designers update Validation Track - UX Capacity section
+* [ ] PM updates Validation Track - Priorities section
+* [ ] Engineers update Build Track - Engineering Capacity section
+* [ ] PM updates Build Track - Priorities section
+* [ ] PM updates Roadmap section
+* [ ] PM updates OKR Alignment section
+* [ ] Team updates Things to Pay Attention To section
+* [ ] On workflow board, PM adds `~milestone::p1/p2/p3/p4` labels to issues
+* [ ] On workflow board, Engineers create a milestone commitment by tagging issues with the current milestone and the `Deliverable` label until the sum of tagged issue weights equals the milestone capacity. 
+
+#### Milestone Capacity
+Our milestone capacity tells us how many issue weights we can expect to complete in a given milestone. This is calculated by taking the sum of issue weights completed in the last milestone prorated by holidays. If there is a large variation in the estimated capacity of the last milestone and the one before it, we will use an average estimated capacity of the last few milestones. Here is an example of how we calculate capacity:
+
+**Last Milestone:**
+* **Total weights completed:** 24
+* **Available work days:** 21.6 * 1 engineers = 21.6 available days
+* **Actual work days:** 21.6 available days - 5 days off = 16.6 actual days
+* **Ratio of available:actual work days:** 21.6 / 16.6 = 1.30
+* **Maximum capacity:** 24 * 1.3 = 31 weights
+
+**Current Milestone:**
+* **Available work days:** 21.6 days * 1 engineers = 21.6 available days
+* **Actual work days:** 21.6 av-days - 0 days off = 21.6 actual days
+* **Ratio of available:actual work days:** 21.6 / 21.6 = 1
+* **Maximum capacity:** 31 * 1 = 31 weights
+
+In this example, the current milestone capacity is 31 weights.
+
+#### Milestone Commitment
+
+A milestone commitment is a list of issues our team aims to complete in the milestone. After issues are broken down, estimated, and prioritized, we begin tagging issues with the current milestone until the sum of the tagged issue weights equals our team's milestone capacity. All issues in a milestone commitment should also have the `~Deliverable` label.
 
 ## Epics and issues
 
