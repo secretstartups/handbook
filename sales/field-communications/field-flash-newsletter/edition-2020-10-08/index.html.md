@@ -95,8 +95,8 @@ To see what's ahead in 13.5, watch the [kickoff videos](https://www.youtube.com/
 Check your emails for a link to a lightweight Product Knowledge Assessment for Sales that will help Enablement identify areas of strength and improvement - so the team can be more targeted in future enablements to create the strongest product knowledge foundation possible. (CS assessment available on Oct. 13.) **Please complete the assessment by 2020-10-16.**
 
 ----
-The newly-iterated Sales and Customer Success Quick Start Learning Path is a great refresher opportunity to ensure we understand the latest and most frequently-used support workflows such as escalating tickets. See: 
-1. GitLab Support Team section in the SQS learning path
+The newly-iterated [Sales and Customer Success Quick Start Learning Path](/handbook/sales/onboarding/sales-learning-path/) is a great refresher opportunity to ensure we understand the latest and most frequently-used support workflows such as escalating tickets. See: 
+1. [GitLab Support Team section](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/#11-gitlab-customer-support-team) in the SQS learning path
 1. [Working with GitLab Support](/handbook/support/internal-support/) Handbook page
 
 ### Team Member Spotlight 🔦
