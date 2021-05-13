@@ -138,7 +138,7 @@ engineering team may ship smaller improvements independently of Manage's direct 
 - The group ultimately owning the change - in this case, Manage - would review Growth's contributions into their area of the product
 and - like a contribution coming from the wider community - ultimately own the final result.
 
-### Working with UX counterparts
+### UX
 #### How UX Works
 We follow the [Product Designer workflows](/handbook/engineering/ux/ux-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [UX section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessy measure the impact of our design changes following the [experimentation workflow](https://about.gitlab.com/handbook/engineering/development/growth/#running-experiments). In addition:
 
@@ -186,6 +186,9 @@ There are times when it isn't possible or practical for a designer to complete t
 #### UX Scorecards
 All of the planned, in progress and completed UX Scorecards for Growth can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/2015).
 For more information, read about [UX Scorecards](/handbook/engineering/ux/ux-scorecards/).
+
+UX Scorecards can be used to evaluate onboarding experiences and we also include onboarding criteria in our [UX Heuristics](/handbook/engineering/ux/heuristics/).
+
 
 #### UX Themes and Labels
 
