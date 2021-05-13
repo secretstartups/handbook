@@ -75,10 +75,13 @@ _Tip:_ You can create a dedicated slack section for all of your Troops related c
 
 ### SA Specific Opportunity Fields
 
+A **Tech Evaluation** is a set of activities a prospect or a customer undertakes in order to make a decision on whether or not GitLab features cover their business requirements from technical standpoint. These activities include and not limited to Trial, POV, or functional validation of the features. Oftentimes, these technical evaluations will require guidance from the Solutions Architect. 
+
 To assist with the analysis of SA guided technical evaluations by our prospects and customer, the SA team maintains four opportunity fields in Salesforce. These four fields can be updated through Troops.ai or within the opportunity in Salesforce:
 
 - **Primary SA** - The primary SA assigned to and working on the opportunity.
-- **SA Validated Tech Evaluation Start Date** - The date the SA started engaging with a prospect or customer on a technical evaluation. This date should mark the first time the SA engages with the customer in which they soon after begin a technical evaluation such as a trial or proof of value.  When the SA joins an initial meeting and the prospect does not seriously engage months later, the start date should reflect when they seriously engaged.
+- **SA Validated Tech Evaluation Start Date** - The date the SA started engaging with a prospect or customer on a technical evaluation. This date should mark the first time the SA engages with the customer in which they soon after begin a technical evaluation such as a trial or proof of value.  When the SA joins an initial meeting and the prospect does not seriously engage months later, the start date should reflect when they seriously engaged. 
+  * In commercial, the start date oftentimes will be when next steps have been identified to take by the customer in partnership with a solution architect's guidance but will always start only after a solution architect is engaged, regardless of whether or not the customer had already been evaluating GitLab previously.
 - **SA Validated Tech Evaluation End Date** - The date the SA stopped engaging with a prospect or customer from an evaluation standpoint and the technical evaluation is deemed closed as a technical win, loss, or a stalled evaluation. This has no connection to whether or not the deal closes with a win or loss, as there may be non-technical variables that may impact the success of a deal after a technical evaluation.
 - **SA Validated Tech Evaluation Close Status** - The close status of the technical evaluation:
 There are two ways to update these fields in Troops.ai:
