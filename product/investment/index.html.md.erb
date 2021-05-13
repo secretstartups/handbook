@@ -171,7 +171,7 @@ For non-DevOps and Enabling stages we still track our overall investment, but do
 
 ## Total and Served Addressable Markets
 
-Served Addressable Market (SAM) is a key driver of our stage level investment. We calculate our SAM based on what percentage of the total addressable market is serviceable by our current products. Here is our future Total Addressable Market (TAMkt) for 2024, percent addressable and SAM for each stage which are used to determine our [SAM Driver score](#devops-stage-scoring-framework).
+Served Addressable Market (SAM) is a key driver of our stage level investment. We calculate our SAM based on what percentage of the total addressable market is serviceable by our current products. Here is our future Total Addressable Market (TAMkt) for 2024, percent addressable, and SAM for each stage which are used to determine our [SAM Driver score](#devops-stage-scoring-framework).
 
 <% totalTAMkt = 0 %>
 <% totalSAM = 0 %>
@@ -191,7 +191,7 @@ Served Addressable Market (SAM) is a key driver of our stage level investment. W
 <% end %>
 <%= "| <b>Total</b> | $#{number_with_delimiter(totalTAMkt.round(0), :delimiter => ',')}M | #{(totalSAM/totalTAMkt*100).round(2)}% | $#{number_with_delimiter(totalSAM.round(0), :delimiter => ',')}M |"%>
 
-_Note_ - It is difficult to find data sources that allow us to break down our TAMkt (and therefore) SAM by stages, groups and categories. The primary reference for this data is the [2020 IDC Worldwide DevOps Software Tools Market Shares report - internal](https://drive.google.com/drive/folders/1ulsSwvL_PUImVJc3r9wE0iDw1D_k1ijQ?usp=sharing) as it is the third party market size analysis that most closely maps to our overall product scope. We used the IDC report, plus some additional market analyses, to then derive a [TAMkt estimate for each stage - internal](https://docs.google.com/spreadsheets/d/1LO57cmXHDjE4QRf6NscRilpYA1mlXHeLFwM_tWlzcwI/edit?ts=5ddb7489#gid=1474156035).  We also publish a TAMkt estimate using a [different methodology](/handbook/sales/tam/) which is derived by multiplying the estimated number of potential users by GitLab's potential annual average revenue per user (ARPU). 
+_Note_ - It is difficult to find data sources that allow us to break down our TAMkt (and therefore) SAM by stages, groups and categories. The primary reference for this data is the [2020 IDC Worldwide DevOps Software Tools Market Shares report - internal](https://drive.google.com/drive/folders/1ulsSwvL_PUImVJc3r9wE0iDw1D_k1ijQ?usp=sharing) as it is the third party market size analysis that most closely maps to our overall product scope. We used the IDC report, plus some additional market analyses, to then derive a [TAMkt estimate for each stage - internal](https://docs.google.com/spreadsheets/d/1LO57cmXHDjE4QRf6NscRilpYA1mlXHeLFwM_tWlzcwI/edit?ts=5ddb7489#gid=1474156035). For historical growth and geographical distribution used as an input in planning GTM investments, we also publish a TAMkt estimate using a [different methodology](/handbook/sales/tam/)  derived by multiplying the estimated number of potential users by GitLab's potential annual average revenue per user (ARPU). 
 
 ## Changes
 
