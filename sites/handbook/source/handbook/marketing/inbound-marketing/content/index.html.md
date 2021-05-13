@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Global Content Team"
-description: "An overview of the strategy and processes for the Global Content team, which comprises content marketing, editorial, and digital production."
+description: "An overview of the strategy and processes for the Global Content team, which comprises content marketing, editorial, digital production, and search marketing."
 ---
 
 ## On this page
@@ -10,26 +10,19 @@ description: "An overview of the strategy and processes for the Global Content t
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## What does the Global Content Team do?
+The Global Content team is responsible for generating content growing GitLab's website traffic and share of voice.
 
-The Global Content team is part of the [Inbound Marketing department](/company/team/structure/#organizational-structure) and includes three (3) teams: 
-- Content marketing
-- Editorial
-- Digital Production
-
-Our team is responsible for content strategy, content development, content operations, and localization. 
+Global Content is part of the [Inbound Marketing department](/company/team/structure/#organizational-structure), and has four (4) teams: 
+- [Content Marketing](/handbook/marketing/inbound-marketing/content/content-marketing/)
+- [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
+- [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team)
+- Search Marketing
 
 ## Slack Channels
 
 - `#content` for general inquiries
 - `#content-updates` for updates and log of all new, published content
 - `#blog` RSS feed of published posts
-
-## Teams
-
-- [Content Marketing](/handbook/marketing/inbound-marketing/content/content-marketing/)
-- [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
-- [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team)
 
 ## Quick links
 
@@ -110,36 +103,23 @@ Our FY21-22 direction focuses on building inbound organic search traffic and get
 1. **A single gated content offer per persona per topic.** We will audit existing gated content for targeting and quality and may combine or choose to retire old assets in favor of a new one. This will allow us to ensure that the asset is quality enough to warrant gating and give a single asset to track success and make improvements on. 
 1. **Optimize the Path Factory track experience.** We will audit each track and retire, update, create, or add missing assets. The goal is a more curated, targeted experience that gets them to MQL quicker. 
 
-Following what we know about the stages of adoption, we are prioritizing our topics accordingly: 
-
-**Long-range view for content development**
-
-| FY21-Q3 | FY21-Q4 | FY22-Q1 | FY22-Q2 | FY22-Q3 | FY22-Q4 |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| VCC | VCC | Agile | Agile| Portfolio Mgmt | Portfolio Mgmt |
-| CI | CI| CD | CD | GitOps | GitOps |
-| DevSecOps| DevSecOps | Cloud Native |Cloud Native | Simplify DevOps | Simplify DevOps |
-
-
 ### Blog
 
 The Editorial team's [goals are to grow our blog audience, engage readers, and covert readers into subscribers](/handbook/marketing/inbound-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers). To achieve this our strategy is guided by our existing audience's needs and wants; prioritizing useful, educational, informative, and entertaining content that has value beyond promoting GitLab. 
 
-In FY21-Q3 and -Q4 the areas of focus for the Editorial team are laying the foundations for launching the editorial site:
-
+Areas of focus:
 - Continue to monitor traffic to posts and document takeaways on performance to inform our planning of future posts
 - Continue to document [best practices](/handbook/marketing/blog/#writing-blog-posts--best-practices) to enable contributors
 - Improve SEO in new blog posts and selected past posts
 - Experiment with curated content ("collections" of new and existing content on specific themes)
 - Experiment with editorial-first content (i.e. a journalistic approach to stories and covering industry trends or news that is relevant to our audience, but may not place GitLab front and center)
-- Collaborate with Brand and Digital on [blog redesign work](https://gitlab.com/groups/gitlab-com/-/epics/158)
+- Collaborate with Digital Experience on [blog redesign work](https://gitlab.com/groups/gitlab-com/-/epics/158)
 
 ### Content Marketing 
 
 The content market team creates, writes, and publishes awareness and consideration level content for the website. The content focuses primarily on topics pages, web articles, eBooks, infographics, case studies, and white papers. The team works closely with various groups to strategize and develop content for all integrated marketing campaigns, including creating assets and providing awareness level insights for email marketing.
 
-For Q3 and Q4 the content team will:
-
+Areas of focus:
 - Continue to create content for existing campaigns: VC&C, CI/CD, DevSecOps, GitOps.
 - Continue cross-team collaboration for partner campaigns.
 - Continue to produce case studies, web articles, and topics pages. 
