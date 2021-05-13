@@ -119,7 +119,6 @@ FY22-Q1 was full of Learning Initiatives by the Learning & Development Team. If 
    * [Learning System Administrator](https://about.gitlab.com/job-families/people-ops/learning-system-administrator/)
 * Mental Health Newsletter {add link when published}
 * [LinkedIn Learning Cohorts](https://about.gitlab.com/handbook/people-group/learning-and-development/linkedin-learning/#linkedin-learning-cohorts)
-* add more 
 
 ### New and Updated Leadership Pages 
 
