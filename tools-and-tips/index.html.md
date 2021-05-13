@@ -678,34 +678,11 @@ See the [Engineering handbook](/handbook/engineering/#resources) for a listing o
 We would be remiss if we didn't start this section off with this IMPORTANT message:  **Your default storage place for information that needs to persist and be available to others in the company should be ON THE WEBSITE/IN THE COMPANY HANDBOOK and not in Google Drive and Google Apps files!!** This is from the top.
 This is how we operate, because Google Docs/Apps can only be found and contributed to by team members, and not by users, customers, advocates, future employees, Google handbook searches, or developers.
 
-#### Which files and rules to using Google Drive/Apps
+#### Do not link directly to Google Drive/Apps
 
 Having said that, there is content which doesn’t make sense to be created on the website directly (e.g. large collections of data in tables, spreadsheets for calculations, etc) or for which Google Drive storage makes sense.
-For these, when creating or storing files in Google Drive, the web/handbook should have a link to this content and effectively be the index for finding things of relevance that are stored in the Google drive.
 
-There are a few ways to do this to maintain proper levels of privacy:
-
-##### Link from handbook but view for GitLab only
-{:.no_toc}
-
-Rarely, but sometimes, it is appropriate to store files in Google Drive but **NOT** let those outside GitLab see it.
-In general, this is when there is information which we need to keep, but which we are under obligation to not share.
-Examples of this are:
-
-* Any work with partner, customer, or investor information which we have not been cleared to share
-* Analyst reports and related information that are not redistributable
-* Customer interview videos which have not been approved for distribution
-
-##### Link from handbook, everybody view, but GitLab edit only
-{:.no_toc}
-
-Everything else should be viewable by the public, although not necessarily editable by them.
-Examples of this content are:
-
-* Meeting notes
-* WIP mockups/graphics
-
-Following are some tips for how to use Google Drive for the instances where it makes sense to.
+When directing folks to these files in Google Drive please include name of the file in the handbook so that team members can search for it in Google Drive. If you link directly to the URL, people from outside the organization can request access, creating workload and the potential for mistakes.
 
 #### Keeping it organized
 
