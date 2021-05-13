@@ -204,3 +204,21 @@ If a team member sees that an action or endpoint does not meet our target,
 they should create a performance issue if there's no existing one. If there's
 an existing one, team member can either update the issue, investigate or work
 on the issue (if they have spare time).
+
+### Service Level Objectives Monitoring
+
+We take proactive steps to avoid having reported bugs to go past the target duration defined in [Severity SLOs](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity-slos).
+
+When issues are not clearly visible, it is more likely they can slip out of our hands. By paying attention to our issues regularly, investigating, and scheduling them to be addressed in our upcoming releases if they require development, we often find that some of them can be closed by as duplicates or no longer an issue. This helps us to keep our velocity in responding to new issues high.
+
+The [Bug Triage Board](https://gitlab.com/groups/gitlab-org/-/boards/2546239) can be used to browse them together in one board.
+
+Generally, the engineering manager is responsible for monitoring this board and triaging issues, but this task can be delegated to a developer temporarily or permanently if we have a volunteer.
+
+#### Responsibilities of Issue Triage
+
+- Do a weekly review of the triage board and make sure these issues are investigated by assigning them to developers or performing the investigation
+- Coordinate with Product Manager to get those issues assigned to milestones so that they can be worked on in timely manner
+- Check issues in each column in the order of severity. `~missed-SLO` -> `~approaching-SLO` -> `~severity::1` -> `~severity::2` -> `~severity::3` -> `~severity::4`
+- Ensure the severity label is accurate based on the problem investigated
+- Our aim is getting to 0 issues in `~missed-SLO` column eventually and handle issues well before they get labeled as `~missed-SLO` and `~approaching-SLO`
