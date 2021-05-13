@@ -61,12 +61,12 @@ Our team use the following workflow stages defined in the [Product Development F
 
 | Label | Usage |
 | -- | -- | -- |
-| `~"workflow::planning breakdown"` | Applied by the Product Manager for engineers to begin breaking down issue and adding estimates. |
-| `~"workflow::scheduling"` | Applied by the engineer signaling an intent to prioritize the issue for the next milestone. |
-| `~"workflow::ready for development"` |  Applied by engineer. Issue has been broken down and scheduled for development and has a milestone assigned at this point. |
-| `~"workflow::in dev"` | Applied by the engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. |
-| `~"workflow::in review"` | Applied by an engineer indicating that all MRs required to close an issue are in review. |
-| `~"workflow::verification"` | Applied by engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. |
+| `~"workflow::planning breakdown"` | Applied by the Product Manager for Engineers to begin breaking down issues and adding estimates. |
+| `~"workflow::scheduling"` | Applied by the Engineer while an issue is awaiting milestone assignment. |
+| `~"workflow::ready for development"` |  Applied by the Engineer after an issue has been broken down and scheduled for development. |
+| `~"workflow::in dev"` | Applied by the Engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. |
+| `~"workflow::in review"` | Applied by the Engineer indicating that all MRs required to close an issue are in review. |
+| `~"workflow::verification"` | Applied by the Engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. |
 | `~"workflow::blocked"` | Applied by any team member if at any time during development the issue is blocked. For example: technical issue, open question to PM or PD, cross-group dependency. |
 
 
@@ -155,32 +155,37 @@ In addition to these dates, our team also does the following:
 Planning a milestone is a collaborative effort between Product, Engineering, and UX.
 
 #### Milestone Planning Issue
+
 We utilize a milestone planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/330863). A milestone planning issue consists of:
+- Links
 - Holidays
 - Validation Track
-  - Capacity (UX, Engineering)
+  - UX Capacity
   - Priorities
 - Build Track
-  - Capacity (Engineering)
+  - Engineering Capacity
   - Priorities
-- Things to Pay Attention To
 - Planning Tasks
 
 #### Planning Tasks
+
 The following tasks need to be completed for planning a milestone:
 * [ ] PM creates milestone planning issue
-* [ ] Team updates Holidays section
-* [ ] Designers update Validation Track - UX Capacity section
-* [ ] PM updates Validation Track - Priorities section
-* [ ] Engineers update Build Track - Engineering Capacity section
-* [ ] PM updates Build Track - Priorities section
-* [ ] PM updates Roadmap section
-* [ ] PM updates OKR Alignment section
-* [ ] Team updates Things to Pay Attention To section
-* [ ] On workflow board, PM adds `~milestone::p1/p2/p3/p4` labels to issues
-* [ ] On workflow board, Engineers create a milestone commitment by tagging issues with the current milestone and the `Deliverable` label until the sum of tagged issue weights equals the milestone capacity. 
+* [ ] Team updates `Holidays` section
+* [ ] UX updates `Validation Track - UX Capacity` section
+* [ ] Engineering updates `Build Track - Engineering Capacity` section
+* [ ] Team uses comments to suggest work for prioritization
+* [ ] PM reviews suggestions and updates `Validation Track - Priorities` and `Build Track - Priorities`
+* [ ] PM moves all work into ~"workflow::planning breakdown"`
+* [ ] PM assigns priority by using the scoped ~"milestone::p1" - ~"milestone::p4" labels
+* [ ] Engineers break down issues in ~"workflow::planning breakdown"
+* [ ] Engineers estimate issues in ~"workflow::planning breakdown" then move to ~"workflow::scheduling"
+* [ ] Engineers create milestone commitment by tagging issues in ~"workflow::scheduling" with the current milestone until milestone capacity is reached and milestone commitment is made. 
+* [ ] Engineers move issues into ~"workflow::ready for development"
+* [ ] Engineers begin working on issues in ~"workflow::ready for development"
 
 #### Milestone Capacity
+
 Our milestone capacity tells us how many issue weights we can expect to complete in a given milestone. This is calculated by taking the sum of issue weights completed in the last milestone prorated by holidays. If there is a large variation in the estimated capacity of the last milestone and the one before it, we will use an average estimated capacity of the last few milestones. Here is an example of how we calculate capacity:
 
 **Last Milestone:**
