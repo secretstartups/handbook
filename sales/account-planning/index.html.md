@@ -88,8 +88,8 @@ As the SAL builds and continues to refine the account plan, consider the followi
 - Is the team aware of any key contacts who plan to retire or leave the company soon? If yes, what is their succession plan (so the team can proactively begin to engage with whomever will be assuming new responsibilities and influence)?
 
 ### White Space Mapping
-This is the part of the account plan where account teams seek to understand and document the organization's technology stack as it relates to how they develop and deploy applications and begin to identify where and how GitLab can deliver value. This mapping can be done for each discrete buying center or line of business within an account and/or at an aggregate account-level view. 
-1. Start by identifying what vendor technologies are used across [each stage of the DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/) and how the customer develops and deploys applications
+This is the part of the account plan where account teams seek to understand and document the customer's technology stack as it relates to how they develop and deploy applications and begin to identify where and how GitLab can deliver value. This mapping can be done for each discrete buying center or line of business within an account and/or at an aggregate account-level view. 
+1. Start by identifying what vendor technologies are used across [each stage of the DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/), how that aligns to the [customer's use case](https://docs.google.com/presentation/d/1bC_TdQO917hLbj4jfdkhtP0l7w8p1SKEK9vVjga5Wec/edit#slide=id.g7fe53431a5_0_33), and how the customer develops and deploys applications
 1. Seek to understand what the customer would like to improve with how they develop and deploy applications and why
     - Do they want/need to accelerate their software delivery process? Reduce costs? Mitigate security and compliance risk? Other?
     - By how much?
