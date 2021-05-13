@@ -29,14 +29,15 @@ variables:
 1. We will now set our group and project level variables. 
 2. From your .gitlab-ci.yml file -> copy the following line: **group\_level\_variable**
 3. From your GitLab screen, navigate to your group by using the breadcrumbs at the top of the Project **Demo System Users > Username-Group**.
-4. Once. you are in your group, on the left-hand navigatin pange, click on **Settings > CI/CD**.
+4. Once you are in your group, on the left-hand navigation page, click on **Settings > CI/CD**.
 5. Locate the **Variable** and click the **Expand** button. 
 6. Click on **Add Variable** and paste the **group\_level\_variable** in the Key dialog box. (This will be shared among multiple projects and sub group) 
 7. Type "I’m a variable set at the group level" in the Value dialog box.
 8. Leave all other options at their defaults and click **Add Variable**.  
-9. Repeat these steps for our **project\_level\_variable** from our gitlab-ci.yml file. 
-10. Validate that the GitLab YML configuration is valid and that the pipeline is running by hovering over the blue icon in the upper right corner of the file, or clicking on CI/CD > Pipelines on the left-hand navigation pane.  
-11. Click on the widgets for each job and verify your work.    
+9. Navigate to your project by using the breadcrumbs at the top of the project **Demo System User > Username-Group > Project name**
+11. Repeat steps 4- 8, using **project\_level\_variable**  instead of **group\_level\_variable** and setting its value as "I’m a variable set at the project level". 
+11. Validate that the GitLab YML configuration is valid and that the pipeline is running by hovering over the blue icon in the upper right corner of the file, or clicking on CI/CD > Pipelines on the left-hand navigation pane.  
+12. Click on the widgets for each job and verify your work.    
 
 ### SUGGESTIONS?
 
