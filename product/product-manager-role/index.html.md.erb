@@ -129,49 +129,6 @@ This includes the entire stack and all its facets. The product team needs to
 weigh and prioritize not only bugs, features, regressions, performance, but also
 architectural changes and other aspects required for ensuring GitLab's excellence
 
-#### Cost profile and user experience
-
-Every Product Manager is responsible for the user experience and cost profile of their product area regardless of how the application is hosted (self-managed or gitlab.com). If a feature is unsustainable from a cost standpoint, that can erode the margins of our SaaS business while driving up the total cost of ownership for self-managed customers. If a feature is slow, it can impact the satisfaction of our users and potentially others on the platform.
-
-There are a few questions a Product Manager should ask when thinking about their features:
-
-* What are the costs associated with my product area? What is the impact on the margin for each tier of GitLab.com?
-  * Consider network, compute, and storage costs
-* Are there tools in place to help GitLab, Inc and self-managed admins optimize the cost footprint for running GitLab (e.g. node rebalancing, transitioning objects to less costly storage classes, garbage collection capabilities)
-* Are there features and default settings that help users stay within their [CI and Storage limits](https://about.gitlab.com/pricing/)?
-* Are there configurable [application limits](https://about.gitlab.com/handbook/product/product-processes/#introducing-application-limits) in place for admins to enhance the availability and performance of GitLab and reduce [abuse vectors](https://about.gitlab.com/handbook/engineering/security/security-operations/trustandsafety/#examples-of-common-forms-of-abuse-include-but-are-not-limited-to)?
-* What is the experience of users when interacting with these features on GitLab.com? Is it fast and enjoyable?
-
-These items do not all need to be implemented in an MVC, though potential costs and application limits should be considered for deployment on GitLab.com.
-
-Product Managers should also regularly assess the performance and cost of features and experiences that they are incrementally improving. While the MVC of the feature may be efficient, a few iterations may increase the cost profile.
-
-##### Tools to understand operational costs
-
-There are a few different tools PM's can utilize to understand the operational costs of their features. Some of these are maintained by Infrastructure, based on the operational data of GitLab.com. Others tools, like usage ping, can be utilized to better understand the costs of our self-managed users. Ultimately, each product group is responsible for ensuring they have the data needed to understand and optimize costs.
-
-* Useful Dashboards to Visualize Infrastructure Costs:
-  * [Overall GitLab.com GCP Costs](https://app.periscopedata.com/app/gitlab/742611/WIP:-GCP-Cost-Dashboard)
-  * [Group Cost PIs](https://app.periscopedata.com/app/gitlab/744908/Group-GCP-Cost-PI's)
-  * [GitLab.com Storage Costs](https://app.periscopedata.com/app/gitlab/690541/WIP:-GitLab.com-Storage-Cost-Stats)
-  * [GitLab.com CI Costs](https://app.periscopedata.com/app/gitlab/690666/WIP:-GitLab.com-CI-Cost-Stats)
-* [Access to Billing Console](https://console.cloud.google.com/billing/) ([Access Request](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) required)
-* [Usage ping](https://docs.gitlab.com/ee/development/usage_ping/)
-* Your Engineering Manager, #infrafin on Slack, and the broader GitLab team
-
-##### Links to Learn more about Infrastructure cost management initiatives
-
-* [Infrafin Board Workflow](https://gitlab.com/groups/gitlab-com/-/boards/1502173?label_name[]=infrafin)
-* [Infrafin Board by Group](https://gitlab.com/groups/gitlab-com/-/boards/2054211?label_name[]=infrafin)
-* [Infrafin Board by Savings Amount](https://gitlab.com/groups/gitlab-com/-/boards/992233?&label_name[]=infrafin)
-* [Infrafin Cost Management Handbook Page](https://about.gitlab.com/handbook/engineering/infrastructure/cost-management/)
-
-##### Tools to understand end user experience
-
-* [Snowplow data](https://about.gitlab.com/handbook/business-ops/data-team/platform/snowplow/) on GitLab.com
-* Quarterly NPS and SUS surveys
-* [Page load performance](../product-processes/#page-load-performance-metrics)
-
 ## Learning and Development for Product Management
 
 We have a library dedicated to collecting and highlighting the best resources to support the growth and success of product managers in doing their job at GitLab as well as beyond, to achieve their long term career goals. We encourage product managers to work with their managers to identify areas for improvement, and leverage the [learning and development for product management](./learning-and-development/) resources accordingly.
