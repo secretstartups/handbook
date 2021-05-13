@@ -81,7 +81,7 @@ If a manager or any team member witnesses or is made aware of any team member be
 
 How do you know if a team member isn't reaching their goals? Below are some common warning signs and patterns of underperformance as it relates to not meeting the expectations of the role. 
 
-1. Produces [results](https://about.gitlab.com/handbook/values/#results)
+1. Lack of [results](https://about.gitlab.com/handbook/values/#results)
 1. Response time 
 1. Unclear status of work
 1. Frustration of the team member
