@@ -23,7 +23,7 @@ Certification programs allow GitLab to validate skills, knowledge, and behavior 
 
 ### Current Certifications 
 
-Team members can use [GitLab Learn](https://gitlab.edcast.com/) to complete many of the certifications we have to offer. Our certifications can also be found on the [Learn](https://about.gitlab.com/learn/).  
+Team members can use [GitLab Learn](https://gitlab.edcast.com/) to complete many of the certifications we have to offer. Our certifications can also be found on the [Learn handbook page](https://about.gitlab.com/learn/).  
 
 ## Knowledge Assessments 
 
