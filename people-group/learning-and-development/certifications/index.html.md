@@ -23,14 +23,7 @@ Certification programs allow GitLab to validate skills, knowledge, and behavior 
 
 ### Current Certifications 
 
-Team members can use [GitLab Learn](https://gitlab.edcast.com/) to complete many of the certifications we have to offer. 
-
-* [GitLab 101](/handbook/people-group/learning-and-development/certifications/gitlab-101/)
-* [GitLab 201](/handbook/people-group/learning-and-development/certifications/gitlab-201/)
-* [Remote Work Foundations](/company/culture/all-remote/remote-certification/#remote-work-foundation-certification-criteria)
-* [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) - A certification featured on Coursera by GitLab 
-* [Manager Challenge Program](/handbook/people-group/learning-and-development/manager-challenge/)
-* [Diversity, Inclusion, and Belonging Certification](https://gitlab.edcast.com/journey/ECL-5c978980-c9f0-4479-bf44-45d44fc56d05)
+Team members can use [GitLab Learn](https://gitlab.edcast.com/) to complete many of the certifications we have to offer. Our certifications can also be found on the [Learn](https://about.gitlab.com/learn/).  
 
 ## Knowledge Assessments 
 
