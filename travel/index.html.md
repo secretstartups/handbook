@@ -257,7 +257,7 @@ Where Can GitLab Team Members Travel: While some areas of the world have decreas
 
 Required of/by Team Members Prior to Traveling:
 - All Team Members must abide by the guidelines enforced in all locations to which they are travelling.   
-- Travel is voluntary and no Team Member is required to travel against their own judgement or comfort level.
+- Travel is voluntary and no Team Member is required to travel.  Proposals are requests by the Team Member and should never be made against their own judgement or comfort level.  If you are not comfortable traveling, please don't make a request.
 
 Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the [E-Group Member](https://about.gitlab.com/company/team/structure/#e-group) of your function for final approval.  Request approval for business travel by completing this form:  [Travel Exception Request](https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform)
 
