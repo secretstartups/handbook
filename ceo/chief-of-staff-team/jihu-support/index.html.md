@@ -94,7 +94,8 @@ JiHu is responsible for building and releasing the JiHu Edition each month inclu
 
 ## Product
 
-
+### Differentiating Proprietary JiHu Features
+We differentiate proprietary features for JiHu distributions by including them in the `/jh` [directory](https://gitlab.com/gitlab-jh/gitlab/-/tree/main-jh/jh). However, the majority of contributiosn from JiHu team members should be outside of the `/jh` directory signaling the expectation that most contributions are to GitLab Core and only certain specific features are exclusive to the /jh offering.
 
 ## Design 
 
