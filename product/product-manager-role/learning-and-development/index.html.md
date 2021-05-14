@@ -397,7 +397,7 @@ _Please contribute your favorite resources here_
 
 - [Building a Story brand](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329/ref=sr_1_11?)
 
-### 💬 Communicate to inspire, align and activate 
+### 💬 Communicating to inspire, align and activate 
 
 ##### Quick reads and videos
 
