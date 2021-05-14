@@ -161,7 +161,16 @@ Remediation options will vary based on if the team members underperformance is s
 
 [Coaching](/handbook/leadership/coaching/) is the preferred option to deal with underperformance and is the first step in addressing performance issues.
 
-Managers are expected to address performance concerns (skill-based or will-based) in a timely manner.  Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team member. These conversations must be documented by the manager and shared with the team member so that everyone has a record of the discussion and is in alignment on where improvements needs to be made and by when. Documentation should be brief (a few key bullet points or a paragraph), and should be sent via email to the team member within 24 hours of the verbal discussion.
+Managers are expected to address performance concerns (skill-based or will-based) in a timely manner.  Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team member. These conversations must be documented by the manager and shared with the team member so that everyone has a record of the discussion and is in alignment on where improvements needs to be made and by when. Documentation should be brief (a few key bullet points or a paragraph), and should be sent via email to the team member within 24 hours of the verbal discussion.  See example coaching email below:
+
+Dear(Team member name)
+
+Thank you for meeting with me today to discuss (insert topics  of concerns or issues discussed and any agreed upon actions). 
+
+Please know that I am fully committed to working with you in addressing these issues.  If there is anything I can do to assist you in meeting these expectations, please do not hesitate to let me know. My goal in bringing this matter to your attention is partner together in improving these areas to be successful at GitLab.  
+
+Thanks,
+(Manager name)
 
 Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Tempate](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback. 
 
