@@ -249,19 +249,19 @@ If you have a question or feedback related to the working group, please post in 
 ### New Policy and Guidelines
 A change to our travel policy related to the Covid-19 pandemic is now in effect.  Guidelines on who can travel, to which locations, and for what purpose is necessary to avoid non-business critical travel during this time and to help keep GitLab Team Members safe.
 
-Purposes of travel:  Business critical events and/or customer-focused meetings or sessions to sell, support, or provide focused care for a current or potential customer account with GitLab.  Customer representatives must be present at the meeting or in-person session.  
+Purposes of travel: Business critical events and/or customer-focused meetings or sessions to sell, support, or provide focused care for a current or potential customer account with GitLab. Customer representatives must be present at the meeting or in-person session.  
 
-Who can travel:  GitLab Team Members responsible for business critical events or those responsible for selling, supporting or caring for customer accounts and whose presence will increase the effectiveness and outcomes of the meeting/session. This is voluntary only - no team member will be required to travel.
+Who can travel: GitLab Team Members responsible for business critical events or those responsible for selling, supporting or caring for customer accounts and whose presence will increase the effectiveness and outcomes of the meeting/session. This is voluntary only - no team member will be required to travel.
 
-Where Can GitLab Team Members Travel:  While some areas of the world have decreased cases of Covid-19, some are increasing.  Team Members must refer to the [CDC website]: {https://covid.cdc.gov/covid-data-tracker/#global-counts-rates} to ensure that both locations (traveling from and to) are safe locations in which to travel. 
+Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing.  Team Members must refer to the [CDC website]: {https://covid.cdc.gov/covid-data-tracker/#global-counts-rates} to ensure that both locations (traveling from and to) are safe locations in which to travel. 
 
 Required of/by Team Members Prior to Traveling:
 - All Team Members must abide by the guidelines enforced in all locations to which they are travelling.   
 - Travel is voluntary and no Team Member is required to travel against their own judgement or comfort level.
 
-Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the eTeam Member of your function for final approval.  Request approval for business travel by completing this form:  [Travel Exception Request] {https://docs.google.com/forms/d/197uSR7HlGmArmoqZevoQRMPOJqB51wXQVgrpA4JHQKw/edit}
+Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the [E-Group Member](https://about.gitlab.com/company/team/structure/#e-group) of your function for final approval.  Request approval for business travel by completing this form:  [Travel Exception Request] {https://docs.google.com/forms/d/197uSR7HlGmArmoqZevoQRMPOJqB51wXQVgrpA4JHQKw/edit}
 
-When expensing approved travel please attach a link to the eTeam approval.  
+When expensing approved travel please attach a link to the [E-Group member](https://about.gitlab.com/company/team/structure/#e-grou) approval.  
 
 General recommendations/precautions:
 
@@ -273,7 +273,7 @@ General recommendations/precautions:
 
 ### Personal Travel
 
-We encourage you to make your own decision about what is right for you regarding personal travel.  Please be aware that any risk of potential exposure to Covid-19 may subject you to potential restrictions from GitLab or third parties (ex. customers, vendors, conferences, etc.) on your ability to attend in-person meetings or events for some period of time, even after the removal of general travel restrictions.  Consult authoritative agencies at both departure and arrival locations before embarking on international travel.  If you choose to travel internationally, please note the resources provided by agencies such as the CDC (in the USA) and your local government, and we ask that you notify your manager with your travel dates so we can help set expectations for timing to return to possible in-person meetings in the future.  
+We encourage you to make your own decision about what is right for you regarding personal travel. Please be aware that any risk of potential exposure to Covid-19 may subject you to potential restrictions from GitLab or third parties (ex. customers, vendors, conferences, etc.) on your ability to attend in-person meetings or events for some period of time, even after the removal of general travel restrictions. Consult authoritative agencies at both departure and arrival locations before embarking on international travel. If you choose to travel internationally, please note the resources provided by agencies such as the CDC (in the USA) and your local government, and we ask that you notify your manager with your travel dates so we can help set expectations for timing to return to possible in-person meetings in the future.  
 
 ### Resources: 
 - [World Health Organization Guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
