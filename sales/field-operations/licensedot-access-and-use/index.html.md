@@ -19,7 +19,7 @@ description: "This page outlines how the Sales Org can access and use LicenseDot
 
 **Lookup all issued licenses for a customer/prospect**
 
-It gives me an understanding of who and how many trials they have requested, when, and for how many users. [Self-Requested Trials](https://about.gitlab.com/free-trial/self-managed/) are not easily reported.
+It provides an understanding of who and how many trials they have requested, when, and for how many users. [Self-Requested Trials](https://about.gitlab.com/free-trial/self-managed/) are not easily reported.
 
 **Cross-reference a license with version.gitlab.com**
 
