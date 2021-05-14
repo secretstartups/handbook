@@ -95,6 +95,10 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
 | [Documentation](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Documentation) | 1 Day | Become proficient in making documentation and merge requests |
 
+## GitLab.com Administration access
+
+Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to this module [GitLab.com Administration Access](https://gitlab.com/gitlab-com/support/support-training/issues/tba) 
+
 ## Support Engineer Area of Focus Pathway
 
 When you have completed the basic modules, work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
