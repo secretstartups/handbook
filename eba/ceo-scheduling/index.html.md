@@ -127,10 +127,10 @@ If people want advice on open source, remote work, or other things related to Gi
 > Thanks for being interested in GitLab. If we schedule a meeting it will follow GitLab's [Pick Your Brain format](/handbook/ceo/#pick-your-brain-interviews). Are you able to submit a draft post with us within 48 hours of interview?
 >
 > GitLab is a very transparent company and many things that are normally confidential can be found in our handbook, available online. Please consider looking at the following pages prior to our meeting.
->   * [Company strategy including planned going public date](/company/strategy/)
+>   * [Company strategy](/company/strategy/)
 >   * [Our Objectives and Key Results per quarter](/company/okrs/)
 >   * [All team members and numbers per department](/company/team/)
->   * [Handbook of 3000 pages with all our processes](/handbook/)
+>   * [Handbook with all our processes](/handbook/)
 >   * [Pricing plans](/pricing/)
 >   * [Pricing strategy](/company/pricing/)
 >   * [History](/company/history/)
