@@ -12,15 +12,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Hands On Lab Setup
-
-1. To begin lab, navigate to the sandbox link: <https://www.gitlabdemo.com/invite>  
-2. Enter your invitation code in the box and Click **Redeem**. 
-3. You will be brought to the link below: 
-4. Click **Download Credentials**. 
-5. Click the GitLab URL and launch your demo environment. 
-6. Enter your credentials and launch the demo environment. 
-
 ## GitLab Security Essentials Labs
 * [Lab 1- CREATE A PROJECT AND RUN Security Scanning](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson1.html)
 * [Lab 2- Review and create actions on Vulnerabilities](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson2.html)
@@ -34,6 +25,7 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 Here are some quick links that may be useful when reviewing this Hands On Guide.
 
 * [GitLab Demo Cloud](https://gitlabdemo.com/login)
+- After you redeem your invitation code, select the correct instance for your class type (instructor-led or self-paced)
 * [GitLab Security Essentials Course Description](https://about.gitlab.com/services/education/security-essentials/)
 * [GitLab Security Specialist Certifcation Details](https://about.gitlab.com/services/education/gitlab-security-specialist/)
 
