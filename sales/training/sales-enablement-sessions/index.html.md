@@ -23,10 +23,9 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| May 13 | Sales Ops Update - Docusign Rollout |    Jesse Rabbits  |
-| May 20 | GitOps Infrastructure Automation Sales Play |      |
-| May 27 | Q2 FY22 Competitive Update 1 |    Aleeta Bell  |
-| Jun 3  | Incident Management |    Kevin Chu  |
+| May 20  | Incident Management |    Kevin Chu  |
+| May 27 | GitOps Infrastructure Automation Sales Play |  Saumya Upadhyaya    |
+| June 3 | Q2 FY22 Competitive Update 1 |    Aleeta Bell  |
 | Jun 10 | DevOps Platform Sales Play |      |
 | Jun 17 | Q2 FY22 Product Update |    Brian Glanz  |
 | Jun 24 | Q2 FY22 Competitive Update 2 |    Aleeta Bell  |
@@ -45,6 +44,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-05-13 | **[Sales Ops Update - Docusign Rollout](https://youtu.be/Dch4zaUQOeg)** |    Private  |
 | 2021-05-06  | **[Channel Program Updates](https://youtu.be/sOx3WSscAF8)** | Private |
 | 2021-04-22  | **[GitLab Premium to Ultimate Sales Playbook Launch](https://youtu.be/UY-J-SHcCC8)** | Private |
 | 2021-04-15 | **[Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://youtu.be/Pus0y34mIQA)** | Private |
