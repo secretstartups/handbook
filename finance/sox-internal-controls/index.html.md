@@ -12,7 +12,7 @@ title: "SOX Internal Controls"
 
 ### 1. Risk Assessment and Scoping
 
-### 2. [Control Assessment Procedure](handbook/finance/sox-internal-controls/sarbanes-oxley(sox)-management-control-assessment-plan/)
+### 2. [Control Assessment Procedure](/handbook/finance/sox-internal-controls/sarbanes-oxley-sox-management-control-assessment-plan/)
 
 ### 3. [Entity Level Controls](/handbook/finance/sox-internal-controls/entity-level-controls/)
 
