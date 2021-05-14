@@ -58,9 +58,9 @@ Please follow the instructions above for scheduling a call with your customer, p
   1. In addition to an internal Partner Briefing Document, our CEO and CRO require a Customer/Partner Collaboration Document. This document is shared with the external party. Please make a copy of this [document](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit#heading=h.jpmxzuuccrty) and update with Attendees and Agenda. Please ensure it's editable by everyone at GitLab. Please include both the Executive Customer Briefing Document and the Customer Collaboration doc to the EBA with your meeting request.   
 
 ### Interview Requests with Executives
-The process outlined below should be followed for requesting interviews with any executives. The Candidate Experience team and Executive Business Administrator team will adhere to a 24 hour working day SLA response time for scheduling interviews. 
+The process outlined below should be followed for requesting interviews with any executives. The Candidate Experience team and Executive Business Administrator team will adhere to a 24 hour working day SLA response time for scheduling interviews. Hiring is a top priority at GitLab and the team should prioritize interview requests.
 
-1. The CES team will tag the [appropriate EBA](https://about.gitlab.com/handbook/eba/#executive-business-administrator-team) in the `#eba-team-interview-requests` slack channel with all the required details for the interview
+1. The CES team will tag the [appropriate EBA](https://about.gitlab.com/handbook/eba/#executive-business-administrator-team) in the private `#eba-team-interview-requests` slack channel with all the required details for the interview
    * Executive needing to be scheduled
    * Length of Interview
    * Any special timeframes 
@@ -68,8 +68,8 @@ The process outlined below should be followed for requesting interviews with any
 1. Within the thread of the message, the CES team will include a copy and pasted view of the candidates availability with the timezone specified
 1. The EBA can either: 
    * Provide the time and zoom link (if applicable) to the CES in the thread of the message to have the CES schedule within Greenhouse and send the confirmation email
-   * Navigate to Greenhouse to schedule the interview and then notify the CES team in the thread that the interview has been scheduled and the confirmation is ready to be sent 
-1. The CES team will follow up, as necessary, if no response has been heard within 24 working day business hours
+   * Navigate to Greenhouse to schedule the interview and then notify the CES team in the thread that the interview has been scheduled and the confirmation is ready to be sent. CEO and CRO scheduling is the exception and handled by the EBA to the CEO and CRO. Confirmations are sent directly from the EBA. 
+1. The CES team will follow up, as necessary if no response has been received from the EBA within the 24 working day business hours
 
 ## EBA Team Best Practices
 
