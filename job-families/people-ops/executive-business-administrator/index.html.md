@@ -150,15 +150,15 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 * A passion for GitLab
 * A sincere willingness to help out
 
-### Senior Executive Business Administrator, Lead 
+### Executive Business Administrator, Manager 
 
 Senior Executive Business Administrators report to the E-Group leader they support. 
 
-#### Senior Executive Business Administrator, Lead  Job Grade
+#### Executive Business Administrator, Manager Job Grade
 
 The Executive Business Administrator, Lead is a [TBD]
 
-#### Senior Executive Business Administrator, Lead Responsibilities
+#### Executive Business Administrator, Manager Responsibilities
 
 * Support a member of our Executive Group [E-Group](https://about.gitlab.com/company/team/structure/#e-group) in various time-zones
 * Hire, develop and retain the function's EBA team by setting the strategy and prioritizing GitLab’s Objectives and Key Results (OKRs)
@@ -177,7 +177,7 @@ The Executive Business Administrator, Lead is a [TBD]
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
 * Other duties as assigned in support of the business (ad hoc tasks)
 
-#### Senior Executive Business Administrator, Lead Requirements
+#### Executive Business Administrator, Manager Requirements
 
 * Previous 7+ years of administrative experience supporting a C-Staff Executive at a quickly-scaling or large company
 * Bachelor's’ Degree preferred. High school diploma or general education degree (GED) required
