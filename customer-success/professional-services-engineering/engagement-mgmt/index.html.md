@@ -15,7 +15,7 @@ description: "Describes the workflow and responsibilities of the GitLab Professi
 
 ## Role of the Engagement Manager
 
-The [Professional Services (PS) Engagement Manager] (https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) is responsible for helping Solution Architects (SAs) and the sales team develop and gain approval for custom Statement of Works (SoWs). The process typically includes the following activities.
+The [Professional Services (PS) Engagement Manager](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) is responsible for helping Solution Architects (SAs) and the sales team develop and gain approval for custom Statement of Works (SoWs). The process typically includes the following activities.
 
 * An initial meeting with the SA or Customer to understand the objective and/or specific requirements
 * Develop an initial Estimate based upon the Services Calculator
