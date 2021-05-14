@@ -27,12 +27,19 @@ For the Commercial market, we will require identifying the GitLab Admins at each
 1. There are multiple programs in Gainsight that listen on a daily basis for new contacts
 1. Below are the campaings and their conditions that must be met:
 
-| Program Name | Condition | 
-|-----------------|:-------------|
-| Customer <50K ARR Onboarding  | Role = GitLab Admin,  TAM = Null, Territory ≠ PubSec, Sales Segment ≠ Large, Customer Since < 3 days, ARR < 50K | 
-| Web Direct Onboarding     | Role = Billing Contact,  Source = Web Direct, Territory ≠ PubSec, Sales Segment ≠ Large, Customer Since < 3 days          | 
-| Monthly Customer Newsletter      | Role = GitLab Admin         | 
-| CI Digital Enablement (Verify)     |  Completed Onboarding Program            | 
-| AE to TAM Introduction   |  Role = Billing Contact,  TAM ≠ Null, Account Owner ≠ Null, Territory ≠ PubSec, Sales Segment ≠ Large, Customer Since < 15 days, ARR > 50K | 
+| Program Name | Condition Criteria | Email From | Currently Live |
+|-----------------|:-------------|:-------------|:-------------|
+| Customer Onboarding 20K<>50K  | Role = GitLab Admin,  TAM = Null, Territory ≠ PubSec, Sales Segment ≠ Large, Customer Since < 3 days, 20k<>50K | From: Digital TAM Assigned | Yes |
+| Customer Onboarding 5K<>20K | Role = GitLab Admin,  TAM = Null, Territory ≠ PubSec, Sales Segment ≠ Large, Customer Since < 3 days, ARR 5k< 20K | From: Account Owner   | Yes |
+| Customer Onboarding <5K   | Role = GitLab Admin,  TAM = Null, Territory ≠ PubSec, Sales Segment ≠ Large, Customer Since < 3 days, ARR 228<>5k | From: Account Owner   |  Yes |
+| Web Direct Onboarding  | Role = Billing Contact,  Source = Web Direct, Territory ≠ PubSec, Sales Segment ≠ Large, Customer Since < 3 days, ARR 228<>50k         | From: Account Owner  | Yes |
+| Post-Onboarding Survey      | Onboarding Program completed | From: Customer Enablement | Yes |
+| Monthly Customer Newsletter - TAM Assigned    | Role = GitLab Admin | From: TAM  | Yes |
+| Monthly Customer Newsletter - Digital / Web Direct  | Role = GitLab Admin OR Billing Contact for Web Direct, ARR<50K       | From: Account Owner  | Yes |
+| CI Enablement 5k<>50k   |  Completed Onboarding Program          | From: Digital TAM Assigned  | Yes |
+| CI Enablement <5k & web direct |  Completed Onboarding Program          | From: Account Owner  | Yes |
+| AE to TAM Introduction   |  Role = Billing Contact,  TAM ≠ Null, Account Owner ≠ Null, Territory ≠ PubSec, Sales Segment ≠ Large, Customer Since < 15 days, ARR > 50K | From: Account Owner, Cc: TAM  | Yes |
+| NPS post onboarding   |  Role = GitLab Admin, Customer Since = 60 days, Territory ≠ PubSec |From: Customer Enablement | No |
+| NPS pre-renewal   |  Role = GitLab Admin, Next Renewal Date = 60 days, Territory ≠ PubSec |From: Customer Enablement | No |
 
-Programs will not send to the same contact more than once. The only exclusion to this is the monthly Customer Newsletter.
+Programs will not send to the same contact more than once. The only exclusion to this is the monthly Customer Newsletter or Pre-renewal NPS.
