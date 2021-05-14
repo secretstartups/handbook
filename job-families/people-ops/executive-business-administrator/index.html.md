@@ -9,15 +9,15 @@ Executive Business Administrator's at GitLab toggle seamlessly between various s
 
 ## Levels
 
-### Executive Business Administrator (Junior) 
+### Executive Business Administrator (Associate) 
 
-Executive Business Administrators (Junior) report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead]. 
+Executive Business Administrators (Associate) report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or the [Sr. Executive Business Adminstrator, Lead]. 
 
-#### Executive Business Administrator (Junior) Job Grade
+#### Executive Business Administrator (Associate) Job Grade
 
 The Executive Business Administrator is a [grade TBD](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Executive Business Administrator (Junior) Responsibilities
+#### Executive Business Administrator (Associate) Responsibilities
 
 * Support members of our [Director+](https://about.gitlab.com/company/team/structure/#director-group) Leadership Team in various timezones
 * Manage multiple complex calendar including vetting, prioritizing and providing recommendations
@@ -34,8 +34,7 @@ The Executive Business Administrator is a [grade TBD](/handbook/total-rewards/co
 * Provide coverage for other EBA's
 * Assist with ad hoc projects, events and travel arrangements as needed
 
-
-#### Executive Business Administrator (Junior) Requirements
+#### Executive Business Administrator (Associate) Requirements
 
 * Previous 2+ years of administrative experience at a quickly-scaling or large company
 * Successful history of managing the calendars, expenses, and travel of multiple executives
