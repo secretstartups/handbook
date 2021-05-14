@@ -26,7 +26,7 @@ The GitLab Product team includes team members at various levels of [Product Mana
 
 ## Product Leaders
 
-All Managers and above in the Product function are considered product leaders. They can be referenced using the `@gl-product-leadership` handle. This document describes important leadership concepts specific to the product management team. See also our page on [general GitLab leadership guidance](/handbook/leadership).
+All Managers and above in the Product function are considered product leaders. They can be referenced using the `@gl-product-leadership` handle. This document describes important leadership concepts specific to the product management team. See also our page on [general GitLab leadership guidance](/handbook/leadership/).
 
 ### Product Leadership Team Structure
 
