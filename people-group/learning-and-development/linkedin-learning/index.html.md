@@ -248,6 +248,10 @@ Groups and sub-groups are outlined below
 - Product 
 - Sales
 
+### Updating Groups 
+
+Groups and sub-groups in LinkedIn Learning are updated on a monthly basis. (Note: Updates, such as internal transfers and promtions, are made in BambooHR each month on the 1st and 16th.) We utilize this [google sheet template](https://docs.google.com/spreadsheets/d/10vbUvv-iAA1Mx1X_zousfSTxoDf8KnPJ0ROGpbiU2w8/edit#gid=0) for uploading data with a CSV file.  
+
 ## Coordination with EdCast
 
 ### Set Up 
