@@ -173,6 +173,7 @@ We have high level views of the enterprise application ecosystem and can help tr
 ##### Finance Systems Covered
 
 1. Zuora: [Board](https://gitlab.com/groups/gitlab-com/-/boards/1723367?label_name[]=FinSys%20-%20Zuora) with everything slated to be done.
+1. Z-Revenue (RevPro)
 1. Netsuite
 1. Tipalti
 1. Expensify
@@ -186,7 +187,6 @@ We have high level views of the enterprise application ecosystem and can help tr
 
 ##### _Coming Soon_
 
-1. Z-Revenue (RevPro)
 1. Xactly
 1. Mavenlink
 1. EdCast
