@@ -116,24 +116,24 @@ We've build several automations and tools to support our People Group. In the fo
 
 ### Team member's employment
 
-- [Greenhouse <> BambooHR Sync](/handbook/people-group/engineering/gh-bhr-sync)
-- [Onboarding Automations](/handbook/people-group/engineering/onboarding)
-- [Career Mobility Automations](/handbook/people-group/engineering/career-mobility)
-- [Offboarding Automations](/handbook/people-group/engineering/offboarding)
+- [Greenhouse <> BambooHR Sync](/handbook/people-group/engineering/gh-bhr-sync/)
+- [Onboarding Automations](/handbook/people-group/engineering/onboarding/)
+- [Career Mobility Automations](/handbook/people-group/engineering/career-mobility/)
+- [Offboarding Automations](/handbook/people-group/engineering/offboarding/)
 
 ### Supportive tools for People Group
 
-- [Assessment Tool](/handbook/people-group/engineering/assessment-tool)
-- [Nominator Bot](/handbook/people-group/engineering/nominatorbot)
+- [Assessment Tool](/handbook/people-group/engineering/assessment-tool/)
+- [Nominator Bot](/handbook/people-group/engineering/nominatorbot/)
 - [Compensation Calculator](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/)
 - [Inclusive Language Check on Job Families](/handbook/hiring/job-families/#inclusive-language-check)
-- [BambooHR Audit](/handbook/people-group/engineering/bamboo-audit)
-- [People Ops Internal Handbook](/handbook/people-group/engineering/pops-internal-handbook)
+- [BambooHR Audit](/handbook/people-group/engineering/bamboo-audit/)
+- [People Ops Internal Handbook](/handbook/people-group/engineering/pops-internal-handbook/)
 
 ### Uncategorized
 
-- [Smaller syncs](/handbook/people-group/engineering/miscellaneous)
-- [Slack Integrations](/handbook/people-group/engineering/slack-integrations)
+- [Smaller syncs](/handbook/people-group/engineering/miscellaneous/)
+- [Slack Integrations](/handbook/people-group/engineering/slack-integrations/)
 
 ## Data
 

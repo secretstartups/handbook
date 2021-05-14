@@ -55,7 +55,7 @@ Our goal is that each course will have an associated Handbook page including lea
 Consider the following when documenting course content in the handbook:
 
 1. Outline clear learning objectives
-1. Make content discoverable. For example, leadership content should not live in the Learning and Development handbook, but instead in the [Leadership handbook](/handbook/leadership)
+1. Make content discoverable. For example, leadership content should not live in the Learning and Development handbook, but instead in the [Leadership handbook](/handbook/leadership/)
 1. Embed relevant YouTube videos in the handbook
 1. Link to knowledge assessments
 1. Cross reference any additional handbook content with links
