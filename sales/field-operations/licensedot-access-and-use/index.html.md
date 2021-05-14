@@ -1,6 +1,16 @@
+---
+layout: handbook-page-toc
+title: "LicenseDot Access and Use"
+description: "This page outlines how the Sales Org can access and use LicenseDot in support of their customers, including troubleshooting steps."
+---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
 
+- TOC
+{:toc .hidden-md .hidden-lg}
 
+{::options parse_block_html="true" /}
 
 
 ## LicenseDot Access and Use - Sales
