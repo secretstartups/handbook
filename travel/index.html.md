@@ -253,13 +253,13 @@ Purposes of travel: Business critical events and/or customer-focused meetings or
 
 Who can travel: GitLab Team Members responsible for business critical events or those responsible for selling, supporting or caring for customer accounts and whose presence will increase the effectiveness and outcomes of the meeting/session. This is voluntary only - no team member will be required to travel.
 
-Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing.  Team Members must refer to the [CDC website]: {https://covid.cdc.gov/covid-data-tracker/#global-counts-rates} to ensure that both locations (traveling from and to) are safe locations in which to travel. 
+Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing.  Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates) to ensure that both locations (traveling from and to) are safe locations in which to travel. 
 
 Required of/by Team Members Prior to Traveling:
 - All Team Members must abide by the guidelines enforced in all locations to which they are travelling.   
 - Travel is voluntary and no Team Member is required to travel against their own judgement or comfort level.
 
-Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the [E-Group Member](https://about.gitlab.com/company/team/structure/#e-group) of your function for final approval.  Request approval for business travel by completing this form:  [Travel Exception Request] {https://docs.google.com/forms/d/197uSR7HlGmArmoqZevoQRMPOJqB51wXQVgrpA4JHQKw/edit}
+Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the [E-Group Member](https://about.gitlab.com/company/team/structure/#e-group) of your function for final approval.  Request approval for business travel by completing this form:  [Travel Exception Request](https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform)
 
 When expensing approved travel please attach a link to the [E-Group member](https://about.gitlab.com/company/team/structure/#e-grou) approval.  
 
@@ -279,7 +279,7 @@ We encourage you to make your own decision about what is right for you regarding
 - [World Health Organization Guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [CDC Guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
 - [Government of Canada Guidance](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
-- TripActions Application found via Okta - TripActions has information regarding [Travel Restrictions] {https://app.tripactions.com/app/user2/travel-restrictions}
+- TripActions Application found via Okta - TripActions has information regarding [Travel Restrictions](https://app.tripactions.com/app/user2/travel-restrictions)
 
 
 
