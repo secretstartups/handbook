@@ -142,13 +142,11 @@ These are changes that are not expected to cause downtime, but which still carry
 
 **Examples of Criticality 2:**
 
-1. Any changes to databases which do not meet the requirements of being Criticality 1.
+1. Any changes to database configuration which do not meet the requirements of being Criticality 1 should be considered as Criticality 2 change.
 1. Load Balancer Configuration - major changes to backends or front ends, fundamental to traffic flow.
-1. IaC changes to cattle / quantity when there is a decrease.
-1. Minor version upgrades (**minor** definition following semver.org) of tools or components (e.g HAProxy, AlertManager, Chef, etc.).
-1. Removing old hosts from IaC (e.g. removals of legacy infrastructure).
-1. Changes to alerting routing or integrations.
-1. Any procedural invocation such as a SQL script, a ruby script module, a rake task which is performed on a production console server, either using `gitlab-rails` or `gitlab-rake`.
+1. IaC changes to production Virtual Machines outside of Kubernetes when there is a decrease.
+1. Major changes to alerting routing or integrations.
+1. Any procedural invocation such as a SQL script, a ruby script module, a rake task which is performed on a production console server, either using `gitlab-rails` or `gitlab-rake` should be considered as a Criticality 2 change.
 
 #### Approval
 
@@ -168,6 +166,8 @@ These are changes with either no or very-low risk of negative impact, but where 
 1. IaC changes that require manual intervention (e.g. Terraform state manipulation).
 1. Changes that are manual (e.g. Adding a plugin to Grafana, uploading a new SSL cert).
 1. Changes in configuration for service provider (e.g. CDN, transactional mail provider, DNS, etc.).
+1. Minor version upgrades (**minor** definition following semver.org) of tools or components (e.g HAProxy, AlertManager, Chef, etc.).
+1. Removing old hosts from IaC (e.g. removals of legacy infrastructure).
 
 #### Approval
 
