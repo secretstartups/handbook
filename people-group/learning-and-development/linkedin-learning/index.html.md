@@ -234,6 +234,20 @@ We recommend that all sub-admins take the [Getting Started as a LinkedIn Admin](
 
 If you would like to request access to be a sub-admin, please reach out to our team in the `#learninganddevelopment` Slack channel. 
 
+## Groups and Sub-Groups
+
+In LinkedIn Learning we have set up groups and sub-groups. The groups are equal to departments in BambooHR. The sub-groups under each group are equal to divisions within each department in BambooHR. 
+
+Groups and sub-groups are outlined below
+
+- CEO 
+- Engineering
+- Legal 
+- Marketing 
+- People Group 
+- Product 
+- Sales
+
 ## Coordination with EdCast
 
 ### Set Up 
