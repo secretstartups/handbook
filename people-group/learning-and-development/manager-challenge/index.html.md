@@ -13,13 +13,9 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
 
-L&D will be rolling out a **two-week iteration of the program** during the month of May 2021. **The program will start 2021-05-03 and end on 2021-05-14. If you are interested in participating in May, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/55)**. Aspiring leaders and managers are welcome to sign up for the May program! Currently, the program is being offered to GitLab team members only. 
+L&D will be rolling out a **two-week iteration of the program** following the GitLab Contribute event in September. The next Manager Challenge will start on 2021-10-04 to 2021-10-15. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/67)**. Aspiring managers are welcome to sign up for the program, however, seats will be prioritized for current people leaders with direct reports. Currently, the program is being offered to GitLab team members only. 
 
-Please note that if you plan on participating you will need to dedicate at least 20 to 30 minutes each day on the content as well as attend the 1 hour and 20 minute live learning sessions or complete the async live learning activities. Blocking your calendar each day during the program goes a long way!   
-
-One of the biggest benefits of completing the program is **Learning From Other Managers** across GitLab. Networking and async collaboration with learning is a central theme throughout the two-weeks. 
-
-We rolled out the first iteration of the [Week Manager Challenge in September 2020](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1), "The GitLab Manager Challenge Program." The pilot received a [Net Promoter Score of 4.6](https://drive.google.com/drive/folders/11J1b8jwxROFYH4Xgylkhgo6x3OEm4kyB?ths=true) by the participants. The [second iteration](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26) was run in January 2021 where we condensed the program to three weeks. For May, L&D iterated again and are rolling out a two week program.
+L&D will be making some significant changes to the program in the meantime, but expect to dedicate 30 minutes (daily challenges) to and 1.5 hours (live learnings) each day during the program. L&D is also focusing on building bite-sized management training that is consumed self-paced and social learning courses in the meantime. 
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
@@ -79,6 +75,8 @@ Before the challenge is offically kicked off, a kickoff meeting will take place 
 
 ### Week 1
 
+The below curriculum will be updated for the October program: 
+
 During week one we will discuss **The Art of Management** at GitLab. Information covered in week one can be found on the following handbook pages:  
 - [Leadership ](/handbook/leadership/)
 - [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/)
@@ -96,6 +94,8 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 | Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
 ### Week 2
+
+The below curriculum will be updated for the October program: 
 
 During week two we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages and external sites: 
 - [Leadership ](/handbook/leadership/)
@@ -120,7 +120,7 @@ The document is intended to be a starting point for managers to document where t
 
 ### Buddy Program
 
-For the May Manager Challenge, a buddy program will be encouraged for Managers during the event. Managers can select their buddies and complete the async activities together. It can also serve as an opportunity for Managers and team members participating to get to know one another. 
+A buddy program will be encouraged for Managers during the program. Managers can select their buddies and complete the async activities together. It can also serve as an opportunity for Managers and team members participating to get to know one another. 
 
 ### Post Manager Challenge
 
@@ -267,8 +267,9 @@ Pilot Kickoff Video:
 </figure>
 <!-- blank line -->
 
-## Past Manager Challenges
+## Previous Manager Challenges
 
+- [2021 May Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/38)
 - [2021 January Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26)
 - [2020 September Manager Challenge Pilot](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/1)
 
