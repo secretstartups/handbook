@@ -397,11 +397,12 @@ _Please contribute your favorite resources here_
 
 - [Building a Story brand](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329/ref=sr_1_11?)
 
-### 💬 Writing to inspire, align and activate 
+### 💬 Communicate to inspire, align and activate 
 
 ##### Quick reads and videos
 
-[Paul Graham: Write Simply](http://paulgraham.com/simply.html)
+- [Paul Graham: Write Simply](http://paulgraham.com/simply.html)
+- [Mastering communication: a product manager’s superpower](https://miro.com/blog/communication-product-managers-product-school/)
 
 ##### Deeper dive
 
@@ -467,6 +468,7 @@ _Please contribute your favorite resources here_
 ##### Quick reads and videos
 
 - [HBR: What cross functional teams need to succeed](https://hbr.org/tip/2015/10/what-cross-functional-teams-need-to-succeed)
+- [HBR: High performing teams need psychological safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
 
 ##### Deeper dive
 
