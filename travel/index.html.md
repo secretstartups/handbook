@@ -247,7 +247,7 @@ These meetings are subject to change and we will continue to evaluate the freque
 If you have a question or feedback related to the working group, please post in the slack channel: #covid19-response-committee
 
 ### Policy and Guidelines
-A change to our travel policy related to the Covid-19 pandemic is now in effect.  Guidelines on who can travel, to which locations, and for what purpose is necessary to avoid non-business critical travel during this time and to help keep GitLab Team Members safe.
+Guidelines on who can travel, to which locations, and for what purpose is necessary to avoid non-business critical travel during this time and to help keep GitLab Team Members safe.
 
 Purposes of travel: Business critical events and/or customer-focused meetings or sessions to sell, support, or provide focused care for a current or potential customer account with GitLab. Customer representatives must be present at the meeting or in-person session.  
 
