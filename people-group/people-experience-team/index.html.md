@@ -53,7 +53,7 @@ The following factors will also be taken into consideration:
 
 **The Rotation groups are listed as follows:**
 
-- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / Deleting LOE team member data / GSuite License Reminder/ Printfection Report
+- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / Deleting LOE team member data / Printfection Report
 
 - BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
 
