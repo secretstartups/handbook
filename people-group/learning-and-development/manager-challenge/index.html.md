@@ -75,6 +75,8 @@ Before the challenge is offically kicked off, a kickoff meeting will take place 
 
 ### Week 1
 
+The below curriculum will be updated for the October program: 
+
 During week one we will discuss **The Art of Management** at GitLab. Information covered in week one can be found on the following handbook pages:  
 - [Leadership ](/handbook/leadership/)
 - [Building High Performing Teams](/handbook/leadership/build-high-performing-teams/)
@@ -92,6 +94,8 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 | Day 5    | Manager action plan & weekly evaluation | 20 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
 
 ### Week 2
+
+The below curriculum will be updated for the October program: 
 
 During week two we will discuss **Effective Communications with Your Team**. Information covered in week two can be found on the following handbook pages and external sites: 
 - [Leadership ](/handbook/leadership/)
