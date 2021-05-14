@@ -151,6 +151,7 @@ The GitLab team understands the importance of inclusive interviewing, and we str
   * Corporate Marketing
   * Customer Support
   * Demand Generation
+  * Development
   * Field Marketing
   * Finance
   * Growth Marketing
