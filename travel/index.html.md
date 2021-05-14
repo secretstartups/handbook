@@ -249,7 +249,7 @@ If you have a question or feedback related to the working group, please post in 
 ### Policy and Guidelines
 Guidelines on who can travel, to which locations, and for what purpose is necessary to avoid non-business critical travel during this time and to help keep GitLab Team Members safe.
 
-Purposes of travel: Business critical events and/or customer-focused meetings or sessions to sell, support, or provide focused care for a current or potential customer account with GitLab. Customer representatives must be present at the meeting or in-person session.  
+Purposes of travel: Business critical events and/or customer-focused meetings or sessions to sell, support, or provide focused care for a current or potential customer account with GitLab. Customer/Partner representatives must be present at the meeting or in-person session.  
 
 Who can travel: GitLab Team Members responsible for business critical events or those responsible for selling, supporting or caring for customer accounts and whose presence will increase the effectiveness and outcomes of the meeting/session. This is voluntary only - no team member will be required to travel.
 
