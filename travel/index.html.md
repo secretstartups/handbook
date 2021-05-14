@@ -259,7 +259,7 @@ Required of/by Team Members Prior to Traveling:
 - All Team Members must abide by the guidelines enforced in all locations to which they are travelling.   
 - Travel is voluntary and no Team Member is required to travel against their own judgement or comfort level.
 
-Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the eTeam Member of your function for final approval.  Request approval for business travel by submitting your request:  LINK TO GOOGLE FORM
+Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the eTeam Member of your function for final approval.  Request approval for business travel by completing this form:  [Travel Exception Request] {https://docs.google.com/forms/d/197uSR7HlGmArmoqZevoQRMPOJqB51wXQVgrpA4JHQKw/edit}
 
 When expensing approved travel please attach a link to the eTeam approval.  
 
