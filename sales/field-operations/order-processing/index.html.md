@@ -1196,6 +1196,8 @@ Opportunity Rejection reasons are tracked to ensure efficiency inside and outsid
 
 The opportunity closed! Congrats! Wait... my customer still has questions! Here are some of the most common questions that come up after an opportunity has closed... and how to resolve them.
 
+**[LicenseDot Access and Use handbook page](/handbook/sales/field-operations/licensedot-access-and-use)**
+
 #### How do I know if a License Key was sent to the Customer?
 
 Licenses (Self-Managed) and Provisioning Details (SaaS) are automatically emailed to the Sold To contact entered on the quote.
