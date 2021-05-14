@@ -38,7 +38,7 @@ The GitLab Self-Service Data program helps GitLab move faster with trusted data 
 | Access Pre-Built Sisense Dashboards                                                      |                                                     Yes                                                    |                                                        Yes                                                       |                                                  Yes                                                 |
 | Build New Sisense Dashboards                                                             |                                                     No                                                     |                                                        Yes                                                       |                                                  No                                                  |
 | Write SQL to Explore Data                                                                |                                                     No                                                     |                                                        No                                                        |                                                  Yes                                                 |
-| Requires [Certification](/handbook/people-group/learning-and-development/certifications) |                                                     No                                                     |                                                        Yes                                                       |                                                  Yes                                                 |
+| Requires [Certification](/handbook/people-group/learning-and-development/certifications/) |                                                     No                                                     |                                                        Yes                                                       |                                                  Yes                                                 |
 
 ![Self-Service-Data](/handbook/business-technology/data-team/direction/self-service/self_service_data.png)
 
@@ -87,8 +87,8 @@ Prerequisites:
 
 - [ ] Ability to read [data models](https://www.lucidchart.com/pages/er-diagrams)
 - [ ] Prior experience developing reports and chart [data visualizations](https://datavizcatalogue.com/index.html)
-- [ ] [Review Sisense Training](/handbook/business-technology/data-team/platform/periscope)
-- [ ] Pass a [Self-Service Dashboard Developer Knowledge Assessment](/handbook/people-group/learning-and-development/certifications) from one of the Self-Service-ready Data Subject Areas published in the handbook
+- [ ] [Review Sisense Training](/handbook/business-technology/data-team/platform/periscope/)
+- [ ] Pass a [Self-Service Dashboard Developer Knowledge Assessment](/handbook/people-group/learning-and-development/certifications/) from one of the Self-Service-ready Data Subject Areas published in the handbook
 
 Access Requests:
 
