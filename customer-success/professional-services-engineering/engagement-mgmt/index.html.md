@@ -46,7 +46,9 @@ The [Professional Services (PS) Engagement Manager](https://about.gitlab.com/job
 - [Professional Services Offering Framework](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/framework/)
 - [Services Calculator](https://services-calculator.gitlab.io)
 
-## Salesforce - Tracking Professional Services Opportunities
+## Engagement Manager - Processes
+
+### Salesforce - Tracking Professional Services Opportunities
 
 Tracking the overall pipeline for Professional Services and individual opportunities is important to the Professional Services team to retain visbility and ensure capacity for future projects.
 This importance increases as we approach the end of the financial quarter (FQ), as we typically see a spike in **Closed Won** deals at this time.
