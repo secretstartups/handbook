@@ -238,15 +238,55 @@ If you would like to request access to be a sub-admin, please reach out to our t
 
 In LinkedIn Learning we have set up groups and sub-groups. The groups are equal to departments in BambooHR. The sub-groups under each group are equal to divisions within each department in BambooHR. 
 
-Groups and sub-groups are outlined below
+Current groups and sub-groups are outlined below: 
 
 - CEO 
 - Engineering
+   - Customer Support
+   - Development
+   - Incubation Engineering
+   - Infrastructure
+   - Quality
+   - Security
+   - UX
+- Finance 
+   - Accounting
+   - Business Technology
+   - Finance
 - Legal 
 - Marketing 
+   - Awareness
+   - Brand Activation
+   - Campaigns
+   - CMO Executive
+   - Communications
+   - Community Relations
+   - Content Marketing
+   - Digital Design
+   - Digital Marketing
+   - Field Marketing
+   - Marketing Ops
+   - Partner Marketing
+   - Product Marketing
+   - Sales Development
+   - Search Marketing 
+- Meltano 
 - People Group 
+   - Learning and Development (this group is mainly used for testing things if that is needed)
+   - People Success 
+   - Talent Acquisition 
 - Product 
+   - Product Management
 - Sales
+   - Alliances
+   - Channel
+   - Commercial Sales
+   - Consulting Delivery
+   - Customer Success
+   - Education Delivery
+   - Enterprise Sales
+   - Field Operations
+   - Practice Management
 
 ### Updating Groups 
 
