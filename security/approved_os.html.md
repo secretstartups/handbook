@@ -55,6 +55,4 @@ Users of Android 7.1.1 or older will be notified and required to upgrade to a su
 
 ## Exception Process
 
-Exception requests may be submitted to the [Security Compliance Team](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues) using the [Exception template](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/blob/master/.gitlab/issue_templates/Exception%20Request.md). Security Compliance and Security Operations will review requests as they come in.
-
-Further information about the Exception Management process is available in the [GitLab Handbook](/handbook/engineering/security/#information-security-policy-exception-management-process)
+Exceptions must follow the Exception Management process as outlined in the [GitLab Security Handbook page](/handbook/engineering/security/#information-security-policy-exception-management-process)
