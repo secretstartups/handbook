@@ -27,6 +27,8 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 Here are some quick links that may be useful when reviewing this Hands On Guide.
 
 * [GitLab Demo Cloud](https://gitlabdemo.com/login)
+- After you redeem your invitation code, select the correct instance for your class type (instructor-led or self-paced)
+
 * [GitLab Project Management Course Description](https://about.gitlab.com/services/education/pm/)
 * [GitLab Project Management Specialist Certifcation Details](https://about.gitlab.com/services/education/gitlab-project-management-specialist/)
 
