@@ -85,6 +85,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 | Sales Development Representative (SDR) | `Sales user` (PathFactory for Sales only) | PathFactory for Sales (SFDC) |
 | All Remote | `Author` | Upload new all remote content, create and edit content tracks for use in all-remote campaigns |
 | Partner Marketing | `Author` (select users) | View content library, create content tracks for partners, reporting |
+| Customer Programs | `Author` (select users) | View content library, create content tracks for customer onboarding where a TAM is not assigned or requested, reporting |
 
 ## Support
 
@@ -110,6 +111,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 1. [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_request)
 1. [PathFactory QA Review request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_qa_review)
 1. [New PathFactory form request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_form)
+1. [PathFactory Content Audit](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_content_audit)
 
 **[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
 
@@ -315,7 +317,7 @@ Before creating a new content track, decide what type of content track (target v
 
 #### Form Strategy
 
-Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms.
+Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms. Even if you are sending to a known audience, you should consider using form strategy should a visitor forward the experience to an unknown user. 
 
 **Please Note:**  PathFactory activity is tied into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page.
 
@@ -559,6 +561,11 @@ Webhooks allow PathFactory to automatically connect with a third party system an
 We currently use the `Visitor Session Webhook` to connect to Marketo. The `Visitor session` webhook is triggered off of session data. A `visitor session` begins when a visitor arrives on a content track and ends when that visitor has stopped engaging with content for thirty minutes. This webhook is triggered when a visitor session ends. This means that the webhook will trigger and send data to Marketo thirty minutes after the visitor has finished engaging with content. The data sent though this webhook provides an overview of the level of engagement the visitor had with your content track and the content assets inside them during the session. 
 
 ### Bizible
+
+There are 2 external forms in PathFactory with apply Bizible touchpoints using JavaScript. 
+
+1. `MOps: Form Submit-Bizible`: Applies a Bizible touchpoint upon form submit within a PathFactory track
+1. `MOps: Bizible-Met Threshold`: Applies a Bizible touchpoint when a visitor to a track has met the engagement threshold
 
 - [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
 

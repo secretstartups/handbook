@@ -50,6 +50,7 @@ If a team is needing access to Vimeo, please open a [bulk access request](https:
 
 ## Support
 
+1. `#mktgops`
 1. [Contact Support](https://vimeo.com/help/contact)
 1. [Help Center](https://vimeo.com/help)
 
@@ -74,6 +75,10 @@ You can also navigate to the `Videos` sidebar menu option to access the video ma
 1. If you want to share this folder with specific team members, add them by email address or by selecting them from the team members in the account list.
 1. In the `Notifications` tab, you can toggle the ability to connect to Slack to send folder notifications so you can track team activity on videos, review pages, and more.
 1. When done inputting your folder info and options, click `Create`. 
+
+### Video Deletion Policy
+
+Only the `Owner` role has the ability to delete videos in Vimeo. As such, we have a folder in Vimeo named `TO BE DELETED`. If you have a video that you would like to mark for deletion, please move it to this folder. Note that the `Owner` role will delete any videos in this folder that are older than 30 days or upon request. 
 
 ## Create
 
@@ -332,7 +337,7 @@ To access video [analytics](https://vimeo.zendesk.com/hc/en-us/articles/22482024
 
 [View the knowledgebase article](https://vimeo.zendesk.com/hc/en-us/articles/224820247-Analytics-overview) for a full tutorial.  
 
-### Integrations
+## Integrations
 
 #### Okta
 

@@ -281,3 +281,11 @@ When uploading third-party assets, always ensure they are secure URLs (`https://
 ### Content Expiration Policy
 
 Two years from the day it was uploaded. Please review any assets in the library older than two years and consider expiring from the content library. 
+
+**Important:** Please consult with marketing operations before [removing an asset from the library](#removing-an-asset-from-the-library) as it can have negative impacts (reporting, attribution) on content tracks that are tied to integrated campaigns.
+
+## PathFactory Content Audits
+
+On a quarterly to bi-quarterly basis, the marketing operations and content teams will conduct content audits in PathFactory to ensure the assets in the library are tagged with the correct metadata. Content audits in PathFactory are done to ensure the content performance reports are accurate. This helps all teams understand how certain types and topics of content perform. Without an accurate tagging of assets in the library, the data in our reports would be skewed, and thus our understanding of how our content performs. 
+
+Both marketing operations and the content marketing team work in collaboration with demand generation and product marketing to ensure alignment to GTM strategies as well. 

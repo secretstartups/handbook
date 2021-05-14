@@ -624,3 +624,30 @@ Once a landing page has been set up for a campaign, it is good practice to have 
 1. Select `Not in Program` in the drop down 
 1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
 
+## Pushing DemandBase Lists to Marketo
+Couple things to note:
+-  DB1 can only pass `person` lists, not `account` lists. Double check your list type before looking to send.
+-  DB1 Can only pass over existing leads to Marketo, if the prospect doesn't exist in Marketo, it will be skipped.
+-  You still need to include email compliance filters on your email sends. This action passes a list, some people may not have consent to email.
+
+#### Instructions: (some lists and campaigns may already exist, we are in the process of updating templates to speed up this process)
+1. Navigate to the Marketo Program that you would like to add your DB1 list to.
+1. Under `Lists` folder, create a static list with the name `DB_List Push`. 
+1. Under `Smart Campaigns` folder, create a new smart campaign (or if built already, click into the `DB1 List Push` smart campaign) The campaign name should be easily identifiable to you, as you will be searching for it in DB1. Please use `DB` prefix so it's purpose is easily identifiable in Marketo.
+     1. Update Smart List in the campaign
+        1. Smart List in the campaign should have the trigger filter `Campaign is Requested`
+        1. Update the source to `Web Service API`
+        1. You can add other filters here as necessary. Since your list will be made in DB1, you likely won't need any additional filters here.
+    1. Update Flow
+        1. `Add to List` and find the list you created in the step above
+        1. If you need this group to have a specific member status, you can add that step as well: `Change Program Status` and update the new status
+    1. Turn program on in the schedule tab. People should only pass through Once.
+1. Log into DB1 platform and navigate to your list in the Database section of DB1 *Must be a person list*
+1. Select the people you want to push to Marketo, and click the `Take Action` button
+    1. A sidebar on the right will pop up. Select `Add to Marketo Campaign` under `Partner Actions` section.
+    1. Select the campaign that you created a few steps ago. If you do not see your campaign, click the wheel next to the drop down to re-load the campaigns from Marketo. If it still does not show up, make sure that you turned the Marketo Smart Campaign on.
+    1. Click Confirm.
+    1. Leads will momentarily populate your Marketo static list. In the sidebar, there will be a link to check the status of the push. You can also view this in Settings>History>Action History in DB1.
+
+Once your list is passed over, you will need to reference that static list in your email programs or target lists (will be adding this to templates). **You still need to have the proper email compliance filters on any of your email programs.**
+

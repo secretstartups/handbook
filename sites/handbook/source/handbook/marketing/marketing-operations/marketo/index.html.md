@@ -191,6 +191,7 @@ These are boosters to scores that occur when a special action takes place above 
 |PF Fast Moving Buyer|Becomes fast moving buyer|+10|{{my.FMB Booster}}|Trigger|1/month|
 |LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
+|Trial + Action|Success in program within 40 days of starting a trial |+20|{{my.Trial plus Action Booster}}|Trigger|1/month|
 
 
 #### Demographic Scoring
@@ -371,7 +372,7 @@ Complete list of priority countries as seen [here](https://docs.google.com/sprea
 
 <details>
 <summary markdown='span'>
-[Language Preferencel](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)
+[Language Preference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)
 </summary>
 
 - French

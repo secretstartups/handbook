@@ -23,6 +23,9 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 - Data cleanliness and accuracy
 - Best practices and strategy on marketing technology
 - Continuous improvement of marketing systems
+- System integrations and data flow
+- Evaluate new marketing technology
+- Support procurement of new marketing technology
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
