@@ -38,8 +38,7 @@ The {Security Compliance Engineer} is a [6](/handbook/total-rewards/compensation
 * Conduct security control test of design and test of operating effectiveness activities
 * Identify observations and manage remediation tasks through to closure while adhering to strict deadlines
 * Support internal and external auditors or advisors as needed
-* Maintain handbook pages, policies, standards, procedures and runbooks related to security compliance
-* Participate in GRC application administration activities
+* Maintain handbook pages, procedures and runbooks related to security compliance
 * Identify opportunities for security compliance control automation
 * Maintain security compliance automation tasks
 
@@ -59,7 +58,7 @@ The {Senior Security Compliance Engineer} is a [7](/handbook/total-rewards/compe
 * Execute end to end compliance initiatives in accordance with the compliance roadmap
 * Design high-quality test plans and direct security control test activities
 * Continuously improve GitLab's security control framework
-* Draft and implement handbook pages, policies, standards, procedures and runbooks related to security compliance
+* Draft and implement handbook pages, procedures and runbooks related to security compliance
 * Direct external audits 
 * Build and maintain security controls that map to GitLab security compliance requirements and provide implementation recommendations
 * Peer review control test worksheets and provide feedback and guidance to Security Compliance Engineers
