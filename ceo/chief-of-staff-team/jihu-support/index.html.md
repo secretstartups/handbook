@@ -94,7 +94,7 @@ JiHu is responsible for building and releasing the JiHu Edition each month inclu
 
 ## Product
 
-Process to be added below.
+
 
 ## Design 
 
