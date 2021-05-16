@@ -39,8 +39,8 @@ The higher the Opportunity Consult Coverage, the greater confidence sales leader
 
 ### Opportunity Consult Coverage Dashboards
 - [Enterprise Sales](https://gitlab.my.salesforce.com/00O4M000004aic2) (internal only)
-- Mid-Market Sales (coming soon)
-- SMB Sales (coming soon)
+- [Mid-Market Sales](https://gitlab.my.salesforce.com/00O4M000004apxr) (internal only)
+- [SMB Sales](https://gitlab.my.salesforce.com/00O4M000004apy1) (internal only)
 
 ## Best Practices
 
