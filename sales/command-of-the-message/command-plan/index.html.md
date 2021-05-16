@@ -46,17 +46,17 @@ This section is comprised of the following 3 fields:
 
 ## Manager Review
 
-Continuing to improve the fidelity of Command Plans is a critical success factor to winning more deals and improving productivity and predictability. As such, at the bottom of the Command Plan is a section for Managers and above to enter review notes from opportunity consults (and/or Lightweight Deal Reviews for Commercial Sales) conducted. Manager Review notes should with “YYYY-MM-DD” to indicate the date when the opportunity consult was conducted, and the notes should succinctly highlight: 
+Continuing to improve the fidelity of Command Plans is a critical success factor to winning more deals and improving productivity and predictability. As such, at the bottom of the Command Plan is a section for Managers and above to enter review notes from [opportunity consults](/handbook/sales/command-of-the-message/opportunity-consults/) (and/or Lightweight Deal Reviews for Commercial Sales) conducted. Manager Review notes should begin with “YYYY-MM-DD” to indicate the date when the opportunity consult was conducted, and the notes should succinctly highlight: 
 1. Prioritized gaps identified during the opportunity consult 
 1. Specific action items that were agreed to (who will do what by when)
 
 Note: The Manager Review Info section (immediately below the Manager Review section) will auto-populate based on information entered in the Manager Review section.
 
-### Enterprise Sales Manager Expectations
-An opportunity consult should be conducted with Strategic Account Leaders (SALs) at least once a month for every $50K opportunity. Consider conducting monthly opportunity consults for the top 3 opportunities for SALs with fewer than three $50K+ opportunities.
+### Enterprise Area Sales Manager Expectations
+An opportunity consult should be conducted with Strategic Account Leaders (SALs) at least once a month for every $50K+ opportunity. For SALs with fewer than three $50K+ opportunities, consider conducting monthly opportunity consults for their top 3 opportunities.
 
-### Commercial Sales Manager Expectations
-
+### Commercial Area Sales Manager Expectations
+An opportunity consult should be conducted with Mid Market Account Executives (AEs) at least once a month for every $20K+ opportunity and with SMB Account Executives (AEs) at least once a month for every $10K+ opportunity. 
 
 ## Additional Resources
 
