@@ -85,16 +85,9 @@ An overview of this process is outlined in the chart below.
 ```mermaid
 graph TD
 A(Request Received)-->B
-B(User Confirmed Intent to Delete?)-->|Yes|C
-C(User Provided Account Username?)-->|Yes|F
+B(Perform Account Verification)-->E
 E(User Passed Account Verification Process?)-->|Yes|I
-F(User Has Access to Paid Namespace?)-->|Yes|X
-X(Inform User We Cannot Complete Request)
 B-->|No|Y
-Y(Wait For Confirmation)-->B
-C-->|No|Z
-Z(Ask User to Provide Account Username)-->C
-G(Perform Account Verification)-->E
 E-->|No|H
 H(Apply Account Verification Failed Label)
 F-->|No|G
