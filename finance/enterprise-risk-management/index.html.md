@@ -45,10 +45,10 @@ Our approach to ERM implementation is as follows:
 
 **Step 2** – Develop a Risk Appetite matrix to determine those high-level risks that GitLab is willing to take and not willing to take in the furtherance of the company’s strategies and objectives. This includes determining the maximum amount of risk the company is willing to accept in pursuit of value.
 
-**Step 3** – Document a [Risk Assessment Criteria](https://docs.google.com/presentation/d/1IwrFecdMD33sgjAfrVK7Z76M167Zdr7s/edit#slide=id.g7b2c7ce936_1_291) matrix to objectively state the definitions for high, moderate and low risk for GitLab. GitLab evaluates risk using three objective criteria: likelihood, impact and velocity.<br>
+**Step 3** – Document a [Risk Assessment Criteria](https://docs.google.com/presentation/d/1IwrFecdMD33sgjAfrVK7Z76M167Zdr7s/edit#slide=id.g7b2c7ce936_1_291) matrix to objectively state the definitions for high, moderate and low risk for GitLab. GitLab evaluates risk using three objective criteria such as likelihood, impact and velocity.<br>
 A composite risk score is then determined by multiplying likelihood times impact.
 
-**Step 4** – Understand each key business process, and the owners of those processes, that are directly related to the achievement of GitLab’s strategic objectives. This step forms the basis for the list of executives that will be interviewed or surveyed as part of the ERM assessment.
+**Step 4** – Identify each key business process and the owners of those processes, that are directly related to the achievement of GitLab’s strategic objectives. This step forms the basis for the list of executives that will be interviewed or surveyed as part of the ERM assessment.
 
 **Step 5** – Using the common risk themes from the interviews and surveys, as well as the outputs from the [StORM](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/operational-risk-management-methodology.html) risk assessment, Internal Audit assembles a list of top risks to the company. Those risks are then evaluated by risk category (strategic, operational, compliance and financial), and a business impact statement is then documented for each risk to develop a common understanding of the impact to GitLab if the risk were not addressed. The results are plotted on a heat map to show relative impact, likelihood and velocity of the risks. Please note at this stage, the key risks are categorized based on the results of interviews and surveys; no direct testing will have been performed to audit the risk themes.
  
