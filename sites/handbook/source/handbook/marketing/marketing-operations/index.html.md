@@ -120,7 +120,7 @@ To help prioritize issues and scope work in our milestones, we've adopted GitLab
 
 ### Health Status
 
-To indicate status of issues related to [OKRs](https://about.gitlab.com/company/okrs/), we've adopted [GitLab health status](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status). By adding health status to issues tied to OKRs, you can quickly see whether an OKR-related [epic is on track](https://docs.gitlab.com/ee/user/group/epics/#issue-health-status-in-epic-tree) to complete within a quarter based on the health status of the issues tied to it. 
+To indicate status of issues related to [OKRs](https://about.gitlab.com/company/okrs/), we've adopted [GitLab health status](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status). By adding health status to issues tied to OKRs, you can quickly see whether an OKR-related epic is on track to complete within a quarter based on the health status of the issues tied to it.
 
 ### Epics
 
