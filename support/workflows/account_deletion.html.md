@@ -1,9 +1,9 @@
 ---
 layout: handbook-page-toc
-title: Account Deletion
+title: Account Deletion and Data Access Requests
 category: GitLab.com
 subcategory: Legal
-description: "Support Engineering workflows for account deletion requests"
+description: "Support Engineering workflows for account deletion and data access requests"
 ---
 
 ## On this page
