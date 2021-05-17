@@ -24,7 +24,6 @@ Enterprise risks will be evaluated using three common risk assessment criteria:
 - Impact, or the negative financial, operational or compliance effects of a risk event; and 
 - Velocity, or the speed at which a risk event were to impact GitLab. 
 
- 
 ## Roles and Responsibilities
 
 A governance structure has been established to outline the overall roles and responsibilities for ERM at GitLab.
@@ -38,11 +37,32 @@ A governance structure has been established to outline the overall roles and res
 |Senior Internal Audit Manager| Responsible for coordinating and executing the ERM program and working with other GitLab risk assessment functions to ensure alignment on risk appetite, risk criteria and risk treatment|
 |Risk Owners| Makes decisions for their specific organizations and provides insight into the day-to-day operational procedures executed by their organization in support of Risk Treatment planning. Responsible for driving risk acceptance and/or implementing remediation activities for the risks identified|
 
+## ERM Implementation Approach 
+
+Our approach to ERM implementation is as follows:
+
+**Step 1** – Understand key [strategies and OKRs](https://about.gitlab.com/company/strategy/).
+
+**Step 2** – Develop a Risk Appetite matrix to determine those high-level risks that GitLab is willing to take and not willing to take in the furtherance of the company’s strategies and objectives. This includes determining the maximum amount of risk the company is willing to accept in pursuit of value.
+
+**Step 3** – Document a [Risk Assessment Criteria](https://docs.google.com/presentation/d/1IwrFecdMD33sgjAfrVK7Z76M167Zdr7s/edit#slide=id.g7b2c7ce936_1_291) matrix to objectively state the definitions for high, moderate and low risk for GitLab. GitLab evaluates risk using three objective criteria: likelihood, impact and velocity.<br>
+* Likelihood – the probability of risk occurring.
+* Impact - an estimate of the potential losses associated with an identified risk.
+* Velocity measures how fast a risk event can impact GitLab. This is the time that passes between the occurrence of an event and the point at which GitLab first feels its effects.<br>
+
+A composite risk score is then determined by multiplying likelihood times impact.
+
+**Step 4** – Understand each key business process, and the owners of those processes, that are directly related to the achievement of GitLab’s strategic objectives. This step forms the basis for the list of executives that will be interviewed or surveyed as part of the ERM assessment.
+
+**Step 5** – Using the common risk themes from the interviews and surveys, as well as the outputs from the [StORM](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/operational-risk-management-methodology.html) risk assessment, Internal Audit assembles a list of top risks to the company. Those risks are then evaluated by risk category (strategic, operational, compliance and financial), and a business impact statement is then documented for each risk to develop a common understanding of the impact to GitLab if the risk were not addressed. The results are plotted on a heat map to show relative impact, likelihood and velocity of the risks. Please note at this stage, the key risks are categorized based on the results of interviews and surveys; no direct testing will have been performed to audit the risk themes.
+ 
+**Step 6** – A risk treatment owner will be identified for each top risk. Each risk owner will be sent a survey asking them to develop a risk treatment that addresses the root cause of the risk with key action steps, process/system dependencies and/or obstacles with due dates for completion. Depending on the category or severity of the risk, a risk owner may be asked to present their risk plan and status to senior management and or the Audit Committee.
+The results of the ERM risk assessment will also be used as the basis for the creation of an internal audit plan. Internal Audit will conduct independent reviews of key areas of the company to determine whether processes and systems are functioning as intended and whether process owners are following GitLab policies and procedures, as well as good operating practices. 
+
+
 ## Communication of Risks, updates to the Risk Assessment and Risk Treatment Plans
 
-
 Internal Audit will communicate the top risks to management and the audit committee. Internal Audit will update the risk assessment on an annual basis or more frequently as the needs of the business changes. At the conclusion of the annual risk assessment, Risk Treatment Plans (RTPs) will be documented that summarize the: risk statement, the potential impact to GitLab, the type of risk (strategic, operational, financial or compliance), the assigned owner that will ensure the risk treatment is accomplished and a due date for the completion of the RTP. RTP status will be shared with the Audit Committee on a regular basis.
-
 
 ## Outputs of the ERM Program 
 
