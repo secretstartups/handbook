@@ -45,7 +45,7 @@ Our approach to ERM implementation is as follows:
 
 **Step 2** – Develop a Risk Appetite matrix to determine those high-level risks that GitLab is willing to take and not willing to take in the furtherance of the company’s strategies and objectives. This includes determining the maximum amount of risk the company is willing to accept in pursuit of value.
 
-**Step 3** – Document a [Risk Assessment Criteria](https://docs.google.com/presentation/d/1IwrFecdMD33sgjAfrVK7Z76M167Zdr7s/edit#slide=id.g7b2c7ce936_1_291) matrix to objectively state the definitions for high, moderate and low risk for GitLab. GitLab evaluates risk using three objective criteria such as likelihood, impact and velocity.<br>
+**Step 3** – Document a [Risk Assessment Criteria](https://docs.google.com/presentation/d/1IwrFecdMD33sgjAfrVK7Z76M167Zdr7s/edit#slide=id.g7b2c7ce936_1_291) matrix to objectively state the definitions for high, moderate and low enterprise risk for GitLab. GitLab evaluates enterprise risk using three objective criteria: likelihood, impact and velocity.<br>
 A composite risk score is then determined by multiplying likelihood times impact.
 
 **Step 4** – Identify each key business process and the owners of those processes, that are directly related to the achievement of GitLab’s strategic objectives. This step forms the basis for the list of executives that will be interviewed or surveyed as part of the ERM assessment.
