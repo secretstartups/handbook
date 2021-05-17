@@ -223,7 +223,7 @@ Training revenue release is followed dependant on training billing type:
 Training projects are typically considered fixed priced projects and are forecasted by the project milestones in the Mavenlink project.  Each milestone includes tasks for each training course that are used to capture training preparation/planning/closeout and delivery hours.  Each task is updated with the correct due date for the activities in the milestone.  Best practice is to ensure that the task due dates are updated to accurately reflect training completion dates for forecasting purposes.  
 If there is not confidence that the activities will be complete, then the task due date should be moved out to the next quarter.
 
-##### Revenue Release Training Projects
+#### Revenue Release Training Projects
 
 For training projects, revenue is released when training is complete and/or when acceptance is received dependant on the project SOW language.
 If required per the project SOW, the PC sends the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
