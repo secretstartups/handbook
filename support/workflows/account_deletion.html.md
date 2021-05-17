@@ -84,7 +84,7 @@ An overview of this process is outlined in the chart below.
 
 ```mermaid
 graph TD
-A(Request Received)-->B
+A(Validated Request Received)-->B
 B(Perform Account Verification)-->E
 E(User Passed Account Verification Process?)-->|Yes|I
 B-->|No|Y
