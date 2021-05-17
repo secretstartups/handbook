@@ -10,16 +10,16 @@ description: "PathFactory for Sales is an extension of PathFactory within Salesf
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## PathFactory for Sales
+## About
 
 PathFactory for Sales is an extension of PathFactory within Salesforce that gives the sales development and sales teams a direct view into content and lead insights, and allow them to select content tracks to send to prospects.
 
-### Training
+## Training
 
 - [PathFactory for Sales SDR onboarding track](https://internal.lookbookhq.com/c/pf-for-sales-one-pag?x=5RhDye)
 - [PathFactory for Sales SDR enablement training session](https://drive.google.com/file/d/1mD-rWd6W7d_5O4tHM1lUsQBvVsb5YpAG/view)
 
-### Saved searches
+## Saved searches
 
 PathFactory for Sales enables you to quickly search your accounts in Salesforce to locate accounts with specific attributes. You can save these search parameters to easily repeat the search in the future.
 
@@ -44,7 +44,7 @@ Shared Searches can be seen by all users, but can only be created by PathFactory
 1. Click `New Search`.
 1. Configure all desired filters and click `Save`.
 
-### Content activation
+## Content activation
 
 Use the `Content Activation` tab in the PathFactory for Sales app in Salesforce to share content asset links.
 
@@ -64,7 +64,7 @@ You can use this same process to share content from the lead, contact, account, 
 
 **Important: You must use the Outreach option to share links to properly track activity and associate it back to the person you sent it to. If you don't follow this process, the person you send it to may or may not be served a form if they are `unknown` within PathFactory.**
 
-### Fast-Moving Buyer Alerts
+## Fast-Moving Buyer Alerts
 
 A fast-moving buyer alert or FMB alert is an email alert set up in Marketo to send a lead’s details to the lead owner. The alert is triggered when a lead spends at least 90 seconds and views at least 3 assets in a PathFactory experience. Below is an example of what the FMB alert looks like:
 
@@ -74,7 +74,7 @@ The links in the alert will direct you to the lead or contact record in Salesfor
 
 The fast-moving buyer alert also triggers a global interesting moment from Marketo. 
 
-### FAQs
+## FAQs
 
 **Why do some of my accounts, leads, and contacts have no PathFactory engagement data in Salesforce?**
 
@@ -99,3 +99,54 @@ Engagement data is only available for download from within [PathFactory Analytic
 **Does a content track have to be activated for PathFactory for Sales in order for data to flow through to PathFactory for Sales analytics?**
 
 All content track analytics will appear in PathFactory for Sales even if it is not activated for PathFactory for Sales. 
+
+## Salesforce Fields
+
+### Account
+
+1. Account Name
+1. Account Owner
+1. Account Territory
+1. Account Type
+1. Billing Country
+1. DemandBase: Intent
+1. GTM Strategy
+1. Industry
+1. Named Account
+1. Number of Open Opportunities
+1. Region
+1. SDR Assigned
+1. Sales Segment
+
+### Contact
+
+1. Account
+1. Account Phone
+1. Contact Status
+1. Email
+1. First Name
+1. Last Name
+1. MQL Date
+1. Outreach Stage
+1. Person Score
+1. Region
+1. Title
+
+### Lead 
+
+1. Company
+1. Email
+1. First Name
+1. Last Name
+1. Matched Account Territory
+1. Region
+1. Title
+
+### Opportunity 
+
+1. Account
+1. Account Owner
+1. Name
+1. Opportunity Owner
+1. Opportunity Type
+1. Stage
