@@ -671,7 +671,7 @@ Existing reports on EdGraph key dashboards can be filtered and saved to create a
 
 ##### Using data sets to build custom reports
 
-This process is currently being build by the L&D, Field Enablement and PeopleOps team at GitLab. Additional information can be found in previous office hours recordings in this [Google Drive folder]([Google Drive](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6)) 
+This process is currently being build by the L&D, Field Enablement and PeopleOps team at GitLab. Additional information can be found in previous office hours recordings in this [Google Drive folder](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6) 
 
 ### Building Custom Dashboards
 
@@ -927,35 +927,35 @@ To make a feature request to the EdCast product, email the EdCast team along wit
 ```
 1. Indicate the Enhancement Request Subject Area:
 
-- Admin Functionality 
-- SmartCards / Journeys / Pathways 
-- Search 
-- Taxonomy 
-- Language 
-- Analytics / Reporting 
-- Users / Onboarding 
-- Group Management 
-- Content Curation  
-- Integrations 
-- Notifications 
-- Mobile  
-- Other 
+- Admin Functionality
+- SmartCards / Journeys / Pathways
+- Search
+- Taxonomy
+- Language
+- Analytics / Reporting
+- Users / Onboarding
+- Group Management
+- Content Curation 
+- Integrations
+- Notifications
+- Mobile 
+- Other
  
-2. In what way would the Enhancement Request enhance or impact your business (align use case)
-- [ ] Quality / Performance improvements 
-- [ ] Will drive usage, engagement and adoption 
-- [ ] Will improve overall usability / UX 
-- [ ] Will improve or enhance business outcomes 
-- [ ] Affects ability to achieve specific business goals (specify) 
-- [ ] Affects planned rollout, adoption and initiatives. 
-- [ ] Other 
+2. In what way would the Enhancement Request enhance or impact your business(align use case)
+- [ ] Quality / Performance improvements
+- [ ] Will drive usage, engagement and adoption
+- [ ] Will improve overall usability / UX
+- [ ] Will improve or enhance business outcomes
+- [ ] Affects ability to achieve specific business goals (specify)
+- [ ] Affects planned rollout, adoption and initiatives.
+- [ ] Other
  
 3. Enhancement Description - Please provide a detailed description of the business problem and use cases. Specify affected user flow, steps to recreate the scenario, add screenshots/videos.
-  
-4. Expected Outcome - Please provide a detailed description of what the expected outcome of the enhancement request would be. Please specify how these outcomes help achieve business goal(s),  
-5. Why is this feature important (State the business impact) 
+ 
+4. Expected Outcome - Please provide a detailed description of what the expected outcome of the enhancement request would be. Please specify how these outcomes help achieve business goal(s), 
+5. Why is this feature important (State the business impact)
 
-6. What is the level of urgency and expected timeframe? In months & quarters. If possible, quantify the value associated with business impact. (Remember, if everything is urgent then nothing is!) 
+6. What is the level of urgency and expected timeframe? In months & quarters. If possible, quantify the value associated with business impact. (Remember, if everything is urgent then nothing is!)
 ```
 
 
@@ -967,38 +967,38 @@ To engage the EdCast team in an incident on EdCast Web, email the EdCast team wi
 
 ```
  
-1. Incident Details 
-- Date / time of the incident 
-- User Information  
-- No of users affected 
+1. Incident Details
+- Date / time of the incident
+- User Information 
+- No of users affected
  
-2. Subject Area  
-- Admin Functionality 
-- SmartCards / Journeys / Pathways 
-- Search 
-- Taxonomy 
-- Language 
-- Analytics / Reporting 
-- Users / Onboarding 
-- Group Management 
-- Content Curation  
-- Integrations 
-- Notifications 
-- Other 
+2. Subject Area 
+- Admin Functionality
+- SmartCards / Journeys / Pathways
+- Search
+- Taxonomy
+- Language
+- Analytics / Reporting
+- Users / Onboarding
+- Group Management
+- Content Curation 
+- Integrations
+- Notifications
+- Other
  
-3. Incident Description - Please provide a detailed description. 
+3. Incident Description - Please provide a detailed description.
 
-4. Are you able to reproduce this incident in test environment (Yes/ No) 
+4. Are you able to reproduce this incident in test environment (Yes/ No)
 
-5. What are the steps to reproduce this incident 
+5. What are the steps to reproduce this incident
 
-6. What are the expected results 
+6. What are the expected results
 
-7. What was the actual results 
+7. What was the actual results
 
-8. Attach any screenshots or video recording of the incident 
+8. Attach any screenshots or video recording of the incident
 
-9. Any additional information that you would like to share with the support team 
+9. Any additional information that you would like to share with the support team
  ```
 
 ##### Mobile Incidents
@@ -1008,26 +1008,26 @@ To engage the EdCast team in an incident on EdCast Mobile, email the EdCast team
 ```
 Below is the information that would be needed when opening a “mobile” related support ticket.
  
-- Incident Details 
-- Date / time of the incident 
-- User Information - 
-- Mobile platform - Android or iOS 
-- Version number of the app 
-- No of users affected 
+- Incident Details
+- Date / time of the incident
+- User Information -
+- Mobile platform - Android or iOS
+- Version number of the app
+- No of users affected
 
-2. Incident Description - Please provide a detailed description. 
+2. Incident Description - Please provide a detailed description.
 
-3. Are you able to reproduce this incident in test environment (Yes/ No) 
+3. Are you able to reproduce this incident in test environment (Yes/ No)
 
-4. What are the steps to reproduce this incident 
+4. What are the steps to reproduce this incident
 
-5. What are the expected results 
+5. What are the expected results
 
-6. What was the actual results 
+6. What was the actual results
 
-7. Attach any screenshots or video recording of the incident 
+7. Attach any screenshots or video recording of the incident
 
-8. Any additional information that you would like to share with the support team 
+8. Any additional information that you would like to share with the support team
 
 ```
 
@@ -1036,41 +1036,41 @@ Below is the information that would be needed when opening a “mobile” relate
 To engage the EdCast team in a performance related incident, email the EdCast team with the following information:
 
 ``` 
-1. Incident Details 
-- Date / time of the incident 
-- User Information - user credentials 
-- No of users that are encountering the same behavior 
-- Location - is the incident isolated to user’s location or is it global 
+1. Incident Details
+- Date / time of the incident
+- User Information - user credentials
+- No of users that are encountering the same behavior
+- Location - is the incident isolated to user’s location or is it global
  
-2. Subject Area  
-- Admin Functionality 
-- SmartCards / Journeys / Pathways 
-- Search 
-- Taxonomy 
-- Language 
-- Analytics / Reporting 
-- Users / Onboarding 
-- Group Management 
-- Content Curation  
-- Integrations 
-- Notifications 
-- Other 
+2. Subject Area 
+- Admin Functionality
+- SmartCards / Journeys / Pathways
+- Search
+- Taxonomy
+- Language
+- Analytics / Reporting
+- Users / Onboarding
+- Group Management
+- Content Curation 
+- Integrations
+- Notifications
+- Other
  
-3. Incident Description - Please provide a detailed description. 
+3. Incident Description - Please provide a detailed description.
 
-4. Are you able to reproduce this incident in test environment (Yes/ No) 
+4. Are you able to reproduce this incident in test environment (Yes/ No)
 
-5. What are the steps to reproduce this incident 
+5. What are the steps to reproduce this incident
 
-6. What are the expected results 
+6. What are the expected results
 
-7. What was the actual results 
+7. What was the actual results
 
-8. Please provide video recording of the user behavior 
+8. Please provide video recording of the user behavior
 
-9. Please provide a (HAR) file.  
+9. Please provide a (HAR) file. 
 
-10. Any additional information that you would like to share with the support team 
+10. Any additional information that you would like to share with the support team
 ```
 
 ## Moderation
