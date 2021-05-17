@@ -41,7 +41,7 @@ There is a large amount of automation that uses stage, group, and category label
 ## Auto-labelling of issues and merge requests
 
 Our triage bot will automatically infer section, stage, and group labels based
-on the category/feature already set on an issue or MR. This is available for **open** issues/MRs.
+on the category/feature already set on an issue or MR. This is available for **open** issues/MRs within the `gitlab-org` group.
 
 The most important rules are:
 
