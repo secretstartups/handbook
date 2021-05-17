@@ -77,7 +77,7 @@ This section will usually be done by the peer reviewer.
 
 1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges.
    - Most commonly, an `Owner in the top level namespace` vouch is requested. Use the [`Support::SaaS::2FA::2FA ask owner vouch` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). The originating email of this request should match a verified email of the Owner's account.
-   - For large organizations, please check the ZenDesk organization notes to see if they're using the [large customers](#large-customers) workflow before offering the owner vouch challenge.
+   - For large organizations, please check the Zendesk organization notes to see if they're using the [large customers](#large-customers) workflow before offering the owner vouch challenge.
    - When we receive a subsequent response, go back to [evaluating the challenges](#evaluating-challenge-answers) to see if they now pass.
 1. If the user is unable to pass the available challenges:
    1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the [`Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103790308).
@@ -98,30 +98,36 @@ The (Technical) Account Manager ((T)AM) is responsible for the setup. If a custo
 1. Create an issue template called `2FA Verification.md` that contains the following:
 
    ```plain
-   - User to reset (required): `@user`
-   - ZD Ticket: `#ticket number`
+   - User to reset (required): `INSERT_USER_EMAIL_ADDRESS`
+   - Support Ticket: `INSERT_TICKET_NUMBER`
    /label ~"2FA Reset"
    ```
 
 1. Create a file called `2FA Reset Owners.md` that lists the customer's external Slack channel in the GitLab workspace, and the Slack handle of individuals who are authorized to request a 2FA reset.
     - If a Slack channel is not available, note at the top that no Slack channel exists, and list the GitLab username _and_ email address for each authorized individual.
-1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to add a note to the appropriate ZenDesk Organization's `Notes`, such as `2FA owner vouch: [link to 2FA Reset Owners file]`.
+1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to add a note to the appropriate Zendesk Organization's `Notes`, such as `2FA owner vouch: [link to 2FA Reset Owners file]` and also include a link to the customer's account management project.
 
 #### Usage
 
-If the ZenDesk organization's notes has a "2FA owner vouch" link, use the following process to ask for an owner vouch:
+If the Zendesk organization's notes has a "2FA owner vouch" link, use the following process to ask for an owner vouch:
 
-#### Slack owner contact
+#### Slack Owner Contact
 
-1. Use Slack and ping the individuals listed in the `2FA Reset Owners.md` file in the listed Slack channel, alerting them that a request exists, and that they can expedite the processing of the request. You can use the following as a template for this message:
+1. Use Slack and ping the individuals listed in the `2FA Reset Owners.md` file in the listed Slack channel, alerting them that a request exists, and that they can expedite the processing of the request. You can use the following as a template for this message, but just be sure to fill in all of the user details and adjust the issue link.
 
    ```plain
-   Hi @user - we got a request from `REQUESTOR_EMAIL` to disable 2FA on their account. Could you vouch for them by creating an issue via https://gitlab.com/path/to/account/project/issues/new?issuable_template=2FA%20Verification and filling in all of the details there?
+   Hi <CUSTOMER_SLACK_HANDLE> - we've received a request from the following user to disable 2FA on their account.
+   
+   GitLab Username:  
+   Email: 
+   Support Ticket: 
+   
+   Could you vouch for them by creating an issue via [this link](https://gitlab.com/path/to/account/project/issues/new?issuable_template=2FA%20Verification) and then fill in all of the details there?
 
    Once you've done that, link the issue here and I'll get them reset. If you don't get to this, we'll use our standard account verification procedures to determine if they're eligible for a 2FA reset.
    ```
 
-    - *Skip this step if* a listed owner has created and sent a link to the issue through ZenDesk prior to Support's request.
+    - *Skip this step if* a listed owner has created and sent a link to the issue through Zendesk prior to Support's request.
 1. Notify the user that you are getting an owner to vouch for them if needed (based on ticket SLA).
 1. Once a "2FA Reset Owner" gets back to you, include the vouch in your risk factor assessment.
 1. Acknowledge the response in the Slack thread.
