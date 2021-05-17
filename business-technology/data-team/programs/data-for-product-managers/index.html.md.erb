@@ -94,7 +94,7 @@ The first question we on the data team ask product managers is usually "are you 
 - It is optional but defaults to being on.
 - 30% of licensed instances successfully send usage ping every month. We don't know about unlicensed (core) users but assume the same rate. Here is more [information](https://gitlab.com/gitlab-org/product-intelligence/issues/291#note_276741996) on why some instances block data from being sent.
     <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 7861044, dashboard: 545874, embed: 'v2') %>">
-- Usage ping is supposed to send regularly at the instance-level for GitLab.com as well, but it hasn't done so successfully in some time. See [this issue](https://gitlab.com/gitlab-org/product-analytics/issues/299). GitLab.com usage pings can be filtered out of your query as they always come from the same UUID.
+- GitLab.com usage pings can be filtered out of your query as they always come from the same UUID.
 - Monthly totals for Usage Ping are added to Snowflake daily. By the 2nd all the data should be available from the previous month. You can always check the [Manual Usage Ping Validation Status Dashboard](https://app.periscopedata.com/app/gitlab/762611/Manual-Usage-Ping-Validation).
 
 **Query Example filtering out GitLab.com:**
@@ -181,7 +181,7 @@ This state is definitely not final! The Data Team is currently towards a more un
 
 - Because GitLab.com is a GitLab instance hosted by GitLab, we have access to the instance's postgres database and can load parts of it into our snowflake data warehouse. This means we can get a very detailed look into how our product is used on GitLab.com.
 - This is largely an **untapped resource** as historically not many PMs have known that this data was consistently available in Sisense.
-- Any part of the product that creates a table on the backend (see the [schema](https://gitlab.com/gitlab-org/gitlab/blob/master/db/schema.rb) file) can be added to the ELT job which will sync 3x a day to the warehouse. From there, all we need to do is build a dbt base model to make them accessible in Sisense.
+- Any part of the product that creates a table on the backend (see the [schema](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) file) can be added to the ELT job which will sync 3x a day to the warehouse. From there, all we need to do is build a dbt base model to make them accessible in Sisense.
 
 #### What if the table or column I want isn't in the data warehouse?
 
