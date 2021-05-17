@@ -307,6 +307,19 @@ _Please contribute your favorite resources here_
 <br>
 <br>
 
+### 👣 Iteration
+
+##### Quick reads and videos
+
+- What does [Iteration](https://about.gitlab.com/handbook/values/#iteration) mean for GitLab?
+- What is a [Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#sts=The%20Minimal%20Viable%20Change%20(MVC))?
+- A [video by Sid and Leif on iteration](https://www.youtube.com/watch?v=tPTweQlBS54)
+
+##### Deeper dive
+
+- Join the iteration office hours GitLab Team Meeting: [Calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_6ekbk8ffqnkus3qpj9o26rqejg%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+- Watch the videos from [the Iteration playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqJOf21O9cbAMxtpUpdLFoZ)
+
 ## <a id="business-acumen"></a> 📈 Business acumen
 
 ---
