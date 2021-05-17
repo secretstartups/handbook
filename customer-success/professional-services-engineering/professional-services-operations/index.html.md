@@ -79,11 +79,11 @@ If there is not confidence that the activities will be complete and the customer
 
 ##### Revenue Release T&M Projects
 
-For T&M projects revenue is released at each month end. Project hours are submitted weekly via the the time sheet function in Mavenlink.  The PSE or PM submits time against the project, and the Project PM or Lead approves on a weekly basis.  Each month end the PC, pulls a report of all approved time sheets and provides the consolidated report to Finance to review and release the revenue
+For T&M projects, revenue is released at each month end. Project hours are submitted weekly via the the time sheet function in Mavenlink.  The PSE or PM submits time against the project, and the Project PM or Lead approves on a weekly basis.  Each month end, the PC pulls a report of all approved time sheets and provides the consolidated report to Finance to review and release the revenue
 
 ##### Revenue Release FP Projects
 
-For FP projects revenue is released when customer acceptance is received or passive acceptance has passed as it pertains to the project SOW language.
+For FP projects, revenue is released when customer acceptance is received or passive acceptance has passed as it pertains to the project SOW language.
 The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
 *  Update Sign Off Sent, when email request is sent
 *  Update Sign Off received, when acceptance is received or Passive Acceptance is reached and add the PDF email of acceptance to the Milestone
@@ -225,10 +225,10 @@ If there is not confidence that the activities will be complete, then the task d
 
 ##### Revenue Release Training Projects
 
-For training projects revenue is released when training is complete and or when acceptance is received dependant as it pertains to the project SOW language.
-Dependent on the SOW language, the PC sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
+For training projects, revenue is released when training is complete and/or when acceptance is received dependant on the project SOW language.
+If required per the project SOW, the PC sends the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
 *  Update Sign Off Sent, when training is complete or email request is sent
-*  Update Sign Off received, when training is complete or acceptance is received or Passive Acceptance is reached and add the class roster or PDF email of acceptance to the Milestone
+*  Update Sign Off received, when training is complete, acceptance is received, or Passive Acceptance is reached and add the class roster or PDF email of acceptance to the Milestone
 *  Update if Passive Acceptance has been utilized for sign off
 
 ![trainingrelease](./trainingrelease.png)
