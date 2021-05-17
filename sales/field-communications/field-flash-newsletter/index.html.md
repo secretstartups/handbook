@@ -155,6 +155,7 @@ Qualitative Success Metrics
 
 | **Edition** | **Subj Line** | **Highlights** |
 | ------ | ------ | ------ |
+| [May 2021: 2021-05-03](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-05-03) | NEW ⚡️ GitLab Field Flash: May Edition ⚡️ | Upselling Premium to Ultimate Sales Play, Incident Management, Magic Quadrant for Enterprise Agile Tools |
 | [April 2021: 2021-04-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-04-06) | NEW ⚡️ GitLab Field Flash: April Edition ⚡️ | Field Ops updates, GitLab IDC feature, Co-selling with Partners & Alliances |
 | [March 2021: 2021-03-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-03-01) | NEW ⚡️ GitLab Field Flash: March Edition ⚡️ | SKO Recordings, Engagement Survey, DIB Certification, BoxBoat Partner Resources |
 | [February 2021: 2021-02-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-02-01) | NEW ⚡️ GitLab Field Flash: FY22 Kickoff Edition ⚡️ | SKO 2021, SOC Examinations, GitLab for Education, Gartner Market Guide for VSDP |
