@@ -125,7 +125,7 @@ Work with your crew to prevent breaches.
     1. If noone on your crew knows how to respond, try to locate a subject matter expert or ping a support manager for advice.
     1. It's OK to send a reply to the customer letting them know you're working on their ticket to prevent a breach. But you must be good on your promise and get back to them. We recommend such replies 'assign to self and submit as Open' while you work on the more detailed reply.
 1. If the ticket **has no assignee**
-    1. Read the ticket and if you you know what the next action is, do that (e.g. ask the customer for more information, send your own reply or the solve the ticket if the issue is resolved).
+    1. Read the ticket and if you know what the next action is, do that (e.g. ask the customer for more information, send your own reply or the solve the ticket if the issue is resolved).
     1. If you're not sure how to respond, talk with your crew in Slack or on Zoom and work together to get a reply out.
     1. Assign the ticket to yourself.
 
