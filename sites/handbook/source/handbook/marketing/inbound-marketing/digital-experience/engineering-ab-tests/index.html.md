@@ -68,5 +68,5 @@ Our AB tests include two files, the control and the test variant. Both exist on 
 
 ### Checklists
 
-* [Merge request checklist for AB testing](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-AB-checklist.md)
+* [Merge request checklist for AB testing](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Inbound-Marketing-AB-Checklist.md)
 * [Evaluating an experiment on the pricing page](https://gitlab.com/gitlab-com/marketing/inbound-marketing/marketing-website/-/issues/108#note_562999063)

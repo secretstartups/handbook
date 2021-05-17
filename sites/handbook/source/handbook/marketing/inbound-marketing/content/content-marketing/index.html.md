@@ -112,15 +112,6 @@ GitLab handle: @cbuchanan
 
 Slack handle: @chrissie
 
-**[Ash Withers](https://gitlab.com/awithers)**
-
-Title: Sr. Content Marketing Manager
-
-Area of focus: GitOps
-
-GitLab handle: @awithers
-
-Slack handle: @ashwithers
 
 ### Recommended slack channels
 
