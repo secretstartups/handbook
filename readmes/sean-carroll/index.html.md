@@ -1,11 +1,11 @@
 ---
 layout: markdown_page
 title: "Sean Carroll's Readme"
-job: "Engineering Manager, Source Code (Interim)"
+job: "Engineering Manager, Source Code"
 ---
 ## Sean Carroll's - README
 
-I'm [Sean Carroll](https://gitlab.com/sean_carroll), Engineering Manager for Source Code, currently Interim. I have been living in Geneva, Switzerland for a while now. I've also lived in the US, Turkey, Scotland and of course Australia, where I'm from. These experiences have given me a strong understanding of different cultures and work styles.
+I'm [Sean Carroll](https://gitlab.com/sean_carroll), Engineering Manager for Source Code. I have been living in Geneva, Switzerland for a while now. I've also lived in the US, Turkey, Scotland and of course Australia, where I'm from. These experiences have given me a strong understanding of different cultures and work styles.
 
 I studied [Computer Science](https://www.monash.edu/) and later [Business Systems](https://www.vu.edu.au/), and the first half of my career was in [ERP systems](https://en.wikipedia.org/wiki/Enterprise_resource_planning), mostly in a consulting capacity. Since then I have worked at startups and in innovation environments. I have a personal love for Ruby, and am excited to be working at GitLab, on what is probably one of the largest Ruby codebases in the world.
 
