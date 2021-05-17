@@ -64,15 +64,9 @@ CMO staff will recommend who from their organizations should participate in the 
 
 | Start date | End date | Shadow & Role |
 | ---------- | -------- | ------- |
-| 2021-01-04 | 2021-01-08 | [Jackie Gragnola](https://gitlab.com/jgragnola) - Manager, Campaigns |
-| 2021-01-18 | 2021-01-22 | [Jackie Gragnola](https://gitlab.com/jgragnola) - Manager, Campaigns and [Leslie Blanchard](https://gitlab.com/lblanchard) - Director, Global Field Marketing |
-| 2021-01-25 | 2021-01-29 | [Leslie Blanchard](https://gitlab.com/lblanchard) - Director, Global Field Marketing |
-| 2021-02-01 | 2021-02-12 | [Becky Reich](https://gitlab.com/rreich) - Awareness Campaign Manager |
-| 2021-02-22 | 2021-03-05 | [Emily Kyle](https://gitlab.com/emily) - Manager, Corporate Events and Branding |
-| 2021-03-15 | 2021-03-26 | [William Chia](https://gitlab.com/williamchia) - Manager, Product Marketing |
-| 2021-03-29 | 2021-04-09 | [Hannah Woodward](https://gitlab.com/hwoodward) - Sr. Manager, AMER Sales Development |
-| 2021-04-19 | 2021-04-30 | [Natasha Woods](https://gitlab.com/nwoods1) - Director, Corporate Communications |
-| 2021-05-03 | 2021-05-14 | [Emily Luehrs](https://gitlab.com/emilyluehrs) - Manager, Account Based Marketing |
+| 2021-05-17 | 2021-05-28 | [Michael Preuss](https://gitlab.com/mpreuss22) - Senior Manager, Digital Experience |
+| 2021-05-31 | 2021-06-11 | Available |
+| 2021-06-164 | 2021-06-25 | Available |
 
 ## Preparing for the Program
 {: #preparation .gitlab-purple}
@@ -145,5 +139,11 @@ CMO Shadow program alumni are welcome to join the `#cmo-shadow-alumni` Slack cha
 
 | Start date | End date | Name | Title | Takeaways |
 | ---------- | -------- | ---- | ----- | --------- |
-| 2021-01-04 | 2021-01-22 | Jackie Gragnola | Manager, Campaigns | [Youtube Title & Link]() |
-| 2021-01-18 | 2021-01-29 | Leslie Blanchard | Director, Field Marketing | [Youtube Title & Link]() |
+| 2021-01-04 | 2021-01-22 | Jackie Gragnola | Manager, Campaigns | |
+| 2021-01-18 | 2021-01-29 | Leslie Blanchard | Director, Field Marketing | |
+| 2021-02-01 | 2021-02-12 | Becky Reich | Awareness Campaign Manager | |
+| 2021-02-22 | 2021-03-05 | Emily Kyle | Manager, Corporate Events and Branding | |
+| 2021-03-15 | 2021-03-26 | William Chia | Manager, Product Marketing | |
+| 2021-03-29 | 2021-04-09 | Hannah Woodward | Sr. Manager, AMER Sales Development | |
+| 2021-04-19 | 2021-04-30 | Natasha Woods | Director, Corporate Communications | |
+| 2021-05-03 | 2021-05-14 | Emily Luehrs | Manager, Account Based Marketing | |
