@@ -234,6 +234,68 @@ We recommend that all sub-admins take the [Getting Started as a LinkedIn Admin](
 
 If you would like to request access to be a sub-admin, please reach out to our team in the `#learninganddevelopment` Slack channel. 
 
+## Groups and Sub-Groups
+
+In LinkedIn Learning we have set up groups and sub-groups. The groups are equal to departments in BambooHR. The sub-groups under each group are equal to divisions within each department in BambooHR. 
+
+Sub-admins are set up for each group and sub-group based on the [People Business Partner alignment](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division). 
+
+Current groups and sub-groups are outlined below: 
+
+- CEO 
+- Engineering
+   - Customer Support
+   - Development
+   - Incubation Engineering
+   - Infrastructure
+   - Quality
+   - Security
+   - UX
+- Finance 
+   - Accounting
+   - Business Technology
+   - Finance
+- Legal 
+- Marketing 
+   - Awareness
+   - Brand Activation
+   - Campaigns
+   - CMO Executive
+   - Communications
+   - Community Relations
+   - Content Marketing
+   - Digital Design
+   - Digital Marketing
+   - Field Marketing
+   - Marketing Ops
+   - Partner Marketing
+   - Product Marketing
+   - Sales Development
+   - Search Marketing 
+- Meltano 
+- People Group 
+   - Learning and Development (this group is mainly used for testing things if that is needed)
+   - People Success 
+   - Talent Acquisition 
+- Product 
+   - Product Management
+- Sales
+   - Alliances
+   - Channel
+   - Commercial Sales
+   - Consulting Delivery
+   - Customer Success
+   - Education Delivery
+   - Enterprise Sales
+   - Field Operations
+   - Practice Management
+
+### Updating Groups 
+
+Groups and sub-groups in LinkedIn Learning are updated on a monthly basis. (Note: Updates, such as internal transfers and promtions, are made in BambooHR each month on the 1st and 16th.) We utilize this [google sheet template](https://docs.google.com/spreadsheets/d/10vbUvv-iAA1Mx1X_zousfSTxoDf8KnPJ0ROGpbiU2w8/edit#gid=0) for uploading data with a CSV file.  
+
+The Learning & Development Generalist will be tagged on any [department name change issue](https://gitlab.com/gitlab-com/Finance-Division/finance/-/blob/master/.gitlab/issue_templates/dept_change.md) to update relevant groups in LinkedIn Learning. 
+
 ## Coordination with EdCast
 
 ### Set Up 
