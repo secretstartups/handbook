@@ -87,10 +87,8 @@ graph TD
 A(Validated Request Received)-->B
 B(Perform Account Verification)-->E
 E(User Passed Account Verification Process?)-->|Yes|I
-B-->|No|Y
 E-->|No|H
 H(Apply Account Verification Failed Label)
-F-->|No|G
 I(Create Deletion Meta Issue)
 ```
 
