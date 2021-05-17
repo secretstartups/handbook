@@ -209,18 +209,11 @@ It's composed of three sections:
 1. Idle merge requests authored by team members.
 1. Unassigned merge requests written by a community contributor.
 1. Idle merge requests authored by a community contributor.
-1. Merge requests that have more than 15 threads
 
 Some merge requests are idle with no activity for them and are merged
 more than 28 days from when they are opened. This report attempts to
 collect them for identifying the actions we need to take, such as nudging the author, reviewer,
 or maintainer.
-
-Merge requests with more than 15 threads are included as they have a much higher chance
-of taking > 30 days to merge than merge requests with fewer threads.  It is recommended that those working
-on the MR consider doing a
-[synchronous discussion](https://about.gitlab.com/company/culture/all-remote/asynchronous/#when-to-pivot-to-synchronous)
-*if* that would help with efficiency for this MR.
 
 * Triage owner: Engineering Manager(s) for that group.
 * Triage frequency: On 8th and 23rd every month.
