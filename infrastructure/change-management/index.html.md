@@ -313,7 +313,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 | 15 March 2021              | Hard       | [incident 3962](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3962)       |
 | 19 March 2021              | Soft       | Family and Friends Day       |
 | 16 April 2021              | Soft       | Family and Friends Day       |
-| 18 May 2021               | Hard        | https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2169 |
+| 2 June 2021               | Hard        | https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2169 |
 | 28 May 2021              | Soft       | Family and Friends Day       |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
