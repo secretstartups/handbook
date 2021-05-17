@@ -83,11 +83,11 @@ Communicate broadly when you will be away so other people can manage time effici
 1. If you are a people manager, please complete the following:
 - BambooHR: submit a job information request to move direct reports to the interim manager if you will be out of office for more than 25 days
 - Expensify: delegate expense approval to your back-up team member by following these steps:
-   * Expensify
-   * Settings
-   * Your Account
-   * Vacation Delegate - enter their email address and Payroll will grant the backup team member the necessary access
-   * Note - remove the vacation delegate after your PTO
+        - Expensify
+        - Settings
+        - Your Account
+        - Vacation Delegate - enter their email address and Payroll will grant the backup team member the necessary access
+        - _**Note** - remove the vacation delegate after your PTO_
 
 ### Returning from PTO
 
