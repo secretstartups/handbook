@@ -151,11 +151,11 @@ We review the below topics no less frequently than the following schedule:
 
 #### Security Compliance
 
-|#| Topics                                                           | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
+|#| Topics                                                                 | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :----------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Annual Security Risk Assessment                                                |       |   X   |       |       |      |      
-| 2 | Security update                                                      |       |   X   |   X   |   X   |      |
-| 3 | Finance application system reviews                                   |       |   X   |   X   |   X   |      |
+| 1 | Annual Security Operational Risk Assessment                          |       |   X   |       |       |      |      
+| 2 | Security update                                                      |   X   |   X   |   X   |   X   |   X  |
+| 3 | Finance application IT General Control audits                        |   X   |   X   |   X   |   X   |      |
 | 4 | Organization Overview                                                |       |   X   |       |       |      |
 
 
