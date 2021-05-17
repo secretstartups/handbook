@@ -153,7 +153,7 @@ We review the below topics no less frequently than the following schedule:
 
 |#| Topics                                                           | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :----------------------------------------------------------------- | :---: | :---: | :---: | :---: |:---: |
-| 1 | Cyber risk assessment                                                |       |   X   |       |       |      |      
+| 1 | Annual Security Risk Assessment                                                |       |   X   |       |       |      |      
 | 2 | Security update                                                      |       |   X   |   X   |   X   |      |
 | 3 | Finance application system reviews                                   |       |   X   |   X   |   X   |      |
 | 4 | Organization Overview                                                |       |   X   |       |       |      |
