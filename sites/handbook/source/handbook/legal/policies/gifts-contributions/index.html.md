@@ -16,7 +16,7 @@ Modest gifts, favors, and entertainment are often used to strengthen business re
 
 In general, unless you have manager approval you should not provide any gift or entertainment to customers, suppliers, or others that you would not be able to accept from a customer, supplier, or other applicable parties.
 
-All directors, executives, and anyone else in the company participating in vendor selection, must disclose all gifts and entertainment valuing over US$250 for the six months prior to the vendor selection and during the term of the services and for a period of twelve months after services have been completed. The disclosure shall be made to the Legal department, and shall include the value of the gift or entertainment, the individual or company providing the gift, favor, or entertainment, and the date on which it was received. If you have any questions relating to this section, feel free to contact the Legal department.
+All directors, executives, and anyone else in the company participating in vendor selection, must disclose all gifts and entertainment valuing over US$250 for the six months prior to the vendor selection and during the term of the services and for a period of twelve months after services have been completed. The disclosure shall be made to the Legal department, and shall include the value of the gift or entertainment, the individual or company providing the gift, favor, or entertainment, and the date on which it was received. If you have any questions relating to this section, feel free to contact the Legal department at leal_internal@gitlab.com.
 
 ### Political Activities and Contributions
 
