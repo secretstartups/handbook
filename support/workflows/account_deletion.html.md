@@ -14,13 +14,20 @@ description: "Support Engineering workflows for account deletion requests"
 
 ## Overview
 
-Use the appropriate workflow on this page when a user requests the deletion of their GitLab.com account either through a Zendesk ticket or via form submission to our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project. **These requests must be filled within 30 days.**
+Use the appropriate workflow on this page when a user requests one of the following through a Zendesk ticket or via form submission to our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project. **These requests must be filled within 30 days.**
+
+- deletion of everything (GitLab.com and all other data associated with their account)
+- deletion of their GitLab.com account only
+- deletion of their [Customer Portal](http://customers.gitlab.com/) data
+- access to their data or questions about their data
 
 ## Before You Begin
 
-Account deletion requests go through a few stages before they can be closed and it can be difficult to keep track of what stage in the process each request is in at any given time. To help, consider creating an issue board within the account deletion project and use the `Awaiting::Challenge Answers`, `Awaiting::Deletion`, and `meta-issue` labels to track the progress of each request. See [this board](https://gitlab.com/gitlab-com/gdpr-request/-/boards/2316580?assignee_username=tristan&) for an example.
+Account deletion and data access requests go through a few stages before they can be closed, and it can be difficult to keep track of what stage in the process each request is in at any given time. Consider creating an issue board within the account deletion project and use the `Awaiting::Challenge Answers`, `Awaiting::Deletion`, and `meta-issue` labels to track the progress of each request. See [this board](https://gitlab.com/gitlab-com/gdpr-request/-/boards/2316580?assignee_username=tristan&) for an example.
 
-The label `Awaiting::Confirmation` is no longer needed as the user must confirm their intent to delete when they submit the request form. Any invalid requests will still create an issue in our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project, however they will close automatically with no further action needed from Support.
+**NOTE:** The user must now confirm their intent to delete for any account deletion request when they submit the form, otherwise they will not be allowed to send us their request. After submission, the form entries are automatically checked and validated (such as the username, email address, and if the account is part of a paid namespace).
+
+An issue in our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project *will be created* for invalid requests, however all invalid requests will have `Invalid request received` in the title of the issue, and are scheduled to automatically close. No action is required for these issues.
 
 ## Workflows
 
@@ -40,7 +47,6 @@ The only requests we need to take action on are:
 - validated data access requests (user is automatically sent challenge questions)
 - general questions
 
-All invalid requests will have `Invalid request received` in the title of the issue, and will be scheduled to automatically close. Validated requests mean that the username and email address submitted through the form have been verified (they exist in GitLab.com and the account is not part of a paid namespace).
 
 ### Personal Account Requests Service Desk
 
@@ -52,14 +58,15 @@ Upon submission, the submitter will receive an autoresponder depending on the re
 
 >**NOTE:** Users have a total of 14 days to respond to the challenge questions.
 
->**NOTE:** In order to keep track of the requests that are pending a response to the challenge questions, you can apply the `Awaiting::Challenge Answers` label if it does not already exist.
+>**NOTE:** In order to keep track of the requests that are pending a response to the challenge questions, you can apply the `Awaiting::Challenge Answers` label, if it does not already exist.
 
 1. **Account Ownership Verification:**
-   The user will receive a set of [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) after form submission, as long as the following form entries have been validated:
+   The user will automatically receive a set of [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) after form submission, as long as the following form entries have been validated:
    - username is found / exists
    - email is found / exists
    - username and email match for the same account
-   - the user checked the box confirming their request to delete their account
+   - account is not part of a paid namespace
+   - the user checked the box confirming their intent to delete their account (required field)
    
    Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `RED` as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036). If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and respond with the following:
 
@@ -84,7 +91,7 @@ An overview of this process is outlined in the chart below.
 
 ```mermaid
 graph TD
-A(Validated Request Received)-->B
+A(Valid Request Received)-->B
 B(Perform Account Verification)-->E
 E(User Passed Account Verification Process?)-->|Yes|I
 E-->|No|H
