@@ -69,7 +69,6 @@ There may be projects with no clear leader for a myriad of reasons, including we
 Because of the CoS's ability to come up to speed quickly, they may be tasked something totally out of their domain with the expectation that they bring their leadership experience to the table, will do the work to make good decisions, and will lean on team members who are SMEs.
 
 Examples of projects with no clear leader:
-* Learning and development initiatives shared by the Sales Enablement teams and the People org
 * Managing our ongoing relationship with [JiHu](https://about.gitlab.com/pricing/faq-jihu/) in China
 
 #### Broad
