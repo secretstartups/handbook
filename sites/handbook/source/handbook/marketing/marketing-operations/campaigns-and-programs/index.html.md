@@ -313,7 +313,10 @@ For **Linkedin Social Ads** follow the instructions documented in [the Linkedin 
 
 For all other campaign types, follow Steps 1-5 below. All steps are required. 
 
-**NOTE**: The `Active` checkbox must be checked on the SFDC campaign for Marketo to be able to "see" the campaign. This will happen automatically if you follow the process below, but if there is a time you cannot find a SFDC campaign in Marketo, check to make sure that box is checked in SFDC. Additionally, if this box is unchecked, Marketo cannot send leads or update campaign member status for that SFDC campaign.
+**Important Notes**:
+1. The `Active` checkbox must be checked on the SFDC campaign for Marketo to be able to "see" the campaign. This will happen automatically if you follow the process below, but if there is a time you cannot find a SFDC campaign in Marketo, check to make sure that box is checked in SFDC. Additionally, if this box is unchecked, Marketo cannot send leads or update campaign member status for that SFDC campaign.
+1. We have a trigger in SFDC that stamps the start date, end date, reporting date, and fiscal quarter by taking the first 8 characters of the name of the campaign (if they are numbers) and converting that into a date (example: 20210505 == 5/5/2021, so YYYYMMDD). So, campaigns starting with a number must contain a valid date, otherwise you will receive an error.
+
 
 ##### Step 1: Clone the Marketo program indicated below
 
@@ -323,7 +326,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - Vendor Arranged Meetings (1:1 meetings): [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
 - Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
-- Alyce Direct Mail and Direct Mail not needing a Marketo Program: [skip to specific setup detais here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns)
+- Direct Mail not needing a Marketo Program: [skip to specific setup detais here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns)
 - Surveys (not SimplyDirect): [YYYYMMDD_SurveyName](https://app-ab13.marketo.com/#PG6402A1)
      - For SimplyDirect Surveys, [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc)
 - Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
@@ -347,6 +350,11 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - Click "Create New." The program will automatically populate the campaign tag, so you do not need to edit anything.
     - Click "Save"
 
+If you are a user of Allocadia, in this step you will also add the Allocadia ID to the `Description` field. It does not matter if you use the Category, subcategory, or line item ID. To determine which one you should use, you should be thinking "What is the highest level ID that houses all the information I want pushed from Allocadia>Marketo>SFDC."
+
+[Instructional Video](https://youtu.be/1681EBw5344)
+[Sync Results Video](https://youtu.be/PocOPnJY4w0)
+
 ##### Step 3: Update Marketo tokens
 
 - Complete the information for each token. Instructions for what to enter for each token are included in the template.
@@ -369,6 +377,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
 
 ##### Step 5: Update the Salesforce campaign
+*If you are utilizing the Allocadia, please see below instructions.*  
 
 - Now go to Salesforce.com and check the [All Campaigns by create date](https://gitlab.my.salesforce.com/701?fcf=00B4M000004oVF9) view. Sort by create date and your campaign should appear at the top. You may also search for your campaign tag in the search box. Select the campaign.
     - Change the `Campaign owner` to your name
@@ -387,6 +396,17 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
     - All other fields on the campaign are not required and are not used for reporting - take `Status` as an example. You WOULD update this field to `Aborted` if the campaign was cancelled for any reason. We have a process that goes into more detail specifically when [offline events are cancelled](/handbook/marketing/events/#cancellation-of-offline-events). 
     - Click "Save"
 - Add the Marketo program link and SFDC campaign link to the epic.
+
+##### Step 5: Update the Salesforce campaign - Using Allocadia 
+Using an integration from Allocadia>Marketo, Marketo>SFDC, the information you've given to Allocadia will push to your SFDC campaign. Based on the [Step 5. list above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign), the only thing you will need to manually update in SFDC is the following: 
+    - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
+    - Budgeted Cost in SFDC pulls from your `plan` number, not your `forecast` number from Allocadia. If you do not have a `plan` cost in Allocadia then Budgeted Cost in SFDC will remain blank. If this is the case, you will want to add in your Budgeted Cost manually into your SFDC campaign.  
+
+You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from `Marketo Integration` to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed in [Step 5. above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign). 
+
+The Budgeted Cost in the campaign will synch overnight and as actuals come into the system, the `Actual Cost in Campaign` field will be populated.  
+
+The campaign meta data is a one time synch, where as the `Actual Cost in Campaign` (which is run off of the `Campaign Tag to be Created` field in Allocadia), synchs every night.   
 
 #### Steps to Setup Content Syndication in Marketo and SFDC
 
@@ -481,13 +501,12 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
 #### Steps to Setup Direct Mail Campaigns
 
 ##### Step 1: Create the Salesforce campaign
-- For **ALYCE DIRECT MAIL** clone the [Alyce - Template](https://gitlab.my.salesforce.com/7014M000001dl5P).
-- For **OTHER DIRECT MAIL** clone the [#TEMPLATE - Direct Mail](https://gitlab.my.salesforce.com/7014M000001dlh9)
+- Clone the [#TEMPLATE - Direct Mail](https://gitlab.my.salesforce.com/7014M000001dlh9)
 - Update Campaign name to `whatever your campaign tag is`
 - NOTE: You do NOT need a corresponding Marketo campaign. All information and tracking is done via this campaign.
 
 ##### Step 2: Update the Salesforce campaign
-- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Alyce progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail) or [Direct Mail progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
+- Click on `Advanced Setup` to make sure statuses correspond to those listed in the [Direct Mail progression statuses](/handbook/marketing/marketing-operations/campaigns-and-programs/#direct-mail). Do not edit these, if you need them updated, please reach out to MktgOps.
 - Change the `Campaign Owner` to your name
 - Confirm the `type` is `Direct Mail`
 - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
@@ -604,4 +623,31 @@ Once a landing page has been set up for a campaign, it is good practice to have 
 1. Select `Change Status` at the top of the screen
 1. Select `Not in Program` in the drop down 
 1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
+
+## Pushing DemandBase Lists to Marketo
+Couple things to note:
+-  DB1 can only pass `person` lists, not `account` lists. Double check your list type before looking to send.
+-  DB1 Can only pass over existing leads to Marketo, if the prospect doesn't exist in Marketo, it will be skipped.
+-  You still need to include email compliance filters on your email sends. This action passes a list, some people may not have consent to email.
+
+#### Instructions: (some lists and campaigns may already exist, we are in the process of updating templates to speed up this process)
+1. Navigate to the Marketo Program that you would like to add your DB1 list to.
+1. Under `Lists` folder, create a static list with the name `DB_List Push`. 
+1. Under `Smart Campaigns` folder, create a new smart campaign (or if built already, click into the `DB1 List Push` smart campaign) The campaign name should be easily identifiable to you, as you will be searching for it in DB1. Please use `DB` prefix so it's purpose is easily identifiable in Marketo.
+     1. Update Smart List in the campaign
+        1. Smart List in the campaign should have the trigger filter `Campaign is Requested`
+        1. Update the source to `Web Service API`
+        1. You can add other filters here as necessary. Since your list will be made in DB1, you likely won't need any additional filters here.
+    1. Update Flow
+        1. `Add to List` and find the list you created in the step above
+        1. If you need this group to have a specific member status, you can add that step as well: `Change Program Status` and update the new status
+    1. Turn program on in the schedule tab. People should only pass through Once.
+1. Log into DB1 platform and navigate to your list in the Database section of DB1 *Must be a person list*
+1. Select the people you want to push to Marketo, and click the `Take Action` button
+    1. A sidebar on the right will pop up. Select `Add to Marketo Campaign` under `Partner Actions` section.
+    1. Select the campaign that you created a few steps ago. If you do not see your campaign, click the wheel next to the drop down to re-load the campaigns from Marketo. If it still does not show up, make sure that you turned the Marketo Smart Campaign on.
+    1. Click Confirm.
+    1. Leads will momentarily populate your Marketo static list. In the sidebar, there will be a link to check the status of the push. You can also view this in Settings>History>Action History in DB1.
+
+Once your list is passed over, you will need to reference that static list in your email programs or target lists (will be adding this to templates). **You still need to have the proper email compliance filters on any of your email programs.**
 

@@ -191,6 +191,7 @@ These are boosters to scores that occur when a special action takes place above 
 |PF Fast Moving Buyer|Becomes fast moving buyer|+10|{{my.FMB Booster}}|Trigger|1/month|
 |LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
+|Trial + Action|Success in program within 40 days of starting a trial |+20|{{my.Trial plus Action Booster}}|Trigger|1/month|
 
 
 #### Demographic Scoring
@@ -371,7 +372,7 @@ Complete list of priority countries as seen [here](https://docs.google.com/sprea
 
 <details>
 <summary markdown='span'>
-[Language Preferencel](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)
+[Language Preference](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SG1023A1)
 </summary>
 
 - French
@@ -402,6 +403,9 @@ The Field Marketing and Marketing Campaigns teams use targeted email lists as a 
 #### SLA for Targeted Lists: 
 * List request is required 7 days prior to email deployment - FMM / MPM
 * Final Smart List is available 2 days prior to email deployment - MOps
+
+#### List Exports
+If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](/handbook/engineering/security/security-assurance/risk-field-security/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
 
 ## Mailchimp sends
 Our Mailchimp subscription is currently paused to prevent being billed while we deprecate. We are allowed to unpause 2x a year. We can unpause only in the rare case of needing to send a large security alert email. The External Communications person for security has access to Mailchimp to send these notices out. Prior training is required before a user can be given access. Please reach out to Mops if this access is required. 

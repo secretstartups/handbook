@@ -57,13 +57,18 @@ I created this personal README document to help you get to know me and how I wor
 1. Disqus
 1. Figma
 1. Frame.io
+1. Google Adwords
+1. Google Analytics
+1. Google Search Console
+1. Google Tag Manager
 1. Hotjar
 1. Keyhole
+1. LaunchDarkly
 1. Litmus
 1. OneTrust
 1. PathFactory
-1. ScreamingFrog
 1. SEMrush
+1. Sitebulb
 1. Sprout Social
 1. Survey Monkey
 1. Swiftype

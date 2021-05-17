@@ -23,19 +23,22 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 - Data cleanliness and accuracy
 - Best practices and strategy on marketing technology
 - Continuous improvement of marketing systems
+- System integrations and data flow
+- Evaluate new marketing technology
+- Support procurement of new marketing technology
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
 
 Our team is structured as business partners to the rest of marketing. See focus next to the names below:
 
-| Person | Role | Focus |
-| ------ | ------ | ------ |
+| Person | Role | Focus | README |
+| ------ | ------ | ------ | ------ |
 | [Amy Waller](https://gitlab.com/amy.waller)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Campaigns |
 | [Beth Peterson](https://gitlab.com/bethpeterson)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | SDRs |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Localization, and SDRs |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Associate](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | Operations |
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Data |
-| [Sarah Daily](https://gitlab.com/sdaily)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Content |
+| [Sarah Daily](https://gitlab.com/sdaily)* | [Senior Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-marketing-operations-manager) | Content | [README](https://about.gitlab.com/handbook/marketing/marketing-operations/readme/sarah-daily/) |
 
 _*indicates business partner_
 
@@ -69,6 +72,10 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 
 - [#mktgops](https://gitlab.slack.com/archives/mktgops) - We use this channel for general marketing operations support, weekly marketing operations team standup updates, and key system status updates. We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
 - [#hbupdate-mktgops](https://gitlab.slack.com/archives/mktgops) - This channel is used to automatically post new [handbook updates](#handbook-updates) that have been merged. 
+
+**Emergency Comms and Pager Duty**
+
+If an emergency communication needs to be send out, Marketing Ops will need to assist. Follow directions on this [page](/handbook/marketing/emergency-response) to initiate the emergency response. You can also follow the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan) for security related issues.
 
 ## <i class="far fa-life-ring" id="biz-tech-icons"></i> How to Get Help
 
@@ -104,12 +111,6 @@ We do not use or create tool-specific Slack channels (e.g. `#marketo`).
 The MktgOps team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the ~MktgOps::0 - To Be Triaged label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to your business partner to see if there is already a related issue that you can add your comments to. If you have a bug, error or discrepancy you'd like the team to help and investigate, please use the [bug-request template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/bug_request.md).
 
 With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Operations team aims to follow many of the agile methodologies. 
-
-**Note:** This format is the [Agile user story](https://www.agilealliance.org/glossary/user-story-template/) format and helps the issue-requester (you) and the MOps team by clearly stating **what** as well as **why** for each request and concern.
-
-**Format:** `As a _____ (role in marketing), I would like to ____________(need), so that ________________(reason).`
-
-Please note that there is now a new [Marketing Strategy and Performance project](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance) for tracking work around Marketing overall strategy as well as reporting, dashboards and analysis.
 
 Please do not reopen issues that have been closed in a previous milestone. If you find that you have additional questions about a closed issue, comment in the issue and ping the marketing ops DRI who worked the issue. The DRI within our team will determine whether an issue needs to be reopened and pulled into a current milestone. 
 
@@ -212,7 +213,9 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 | `SDR-HB Update` | `#hbupdate-sdr` |
 | `ABM-HB Update` | `#hbupdate-abm` |
 
-**Please Note:** The marketing operations team uses 2 collective merge requests (1 per week in a milestone), known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109).  We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts.
+#### Milestone MRs 
+
+The marketing operations team uses 2 collective merge requests (1 per week in a milestone), known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109).  We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts.
 
 ### Marketing Ops Calendar
 
@@ -225,12 +228,6 @@ The Marketing Operations team had started an experiment on 2020-04-20 to commit 
 ### Marketing Changelog
 
 Periodically Marketing Operations and other teams through the marketing org make significant changes to our system and processes that affect overall tools, data and reporting or uncovers significant changes that affected reporting. As such we have a shared [changelog](https://docs.google.com/spreadsheets/d/1FHiKhQukMVfwKsBJDzyrsuzuw2bv97xQFhegvFXTeNQ/edit#gid=0). The MktgOps and Strategy/Perf teams update this document as needed as changes are made. If you are working on an issue or epic that will have a significant impact across marketing, add the label `MktgOps - changelog` so marketing oeprations can track changes across GitLab.
-
-### PagerDuty and Emergency Comms
-
-In any given week, there will be at least 1-2 team members scheduled for PagerDuty.
-
-If a security incident occurs, Marketing Ops supports multiple teams as part of the [security incident communication plan](handbook/engineering/security/security-operations/sirt/security-incident-communication-plan). Follow directions on this [page](/handbook/marketing/emergency-response) to initiate the emergency response, and contact us via: `@mktg-ops` in Slack. For urgent issues, like a security incident, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
 
 
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
@@ -268,6 +265,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 </summary>
 
 - [Bizzabo](/handbook/marketing/marketing-operations/bizzabo)
+- [Backblaze](/handbook/marketing/marketing-operations/backblaze)
 - Disqus
 - Eventbrite
 - Figma
@@ -283,8 +281,8 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - MailChimp
 - [OneTrust](/handbook/marketing/marketing-operations/onetrust)
 - [Rev](/handbook/marketing/marketing-operations/rev)
-- Screaming Frog
 - SEMrush
+- Sitebulb
 - [Smartling](/handbook/marketing/marketing-operations/smartling)
 - Sprout Social
 - Swiftype
@@ -309,16 +307,18 @@ If you are interested in or would like to request a new tool be added to the tec
 
 ### Tool usage and tool access
 
-For budgetary reasons, Marketing Operations will be performing quarterly, and for some tools bi-quaterly, audits on the user activity of marketing tools. If a team member has not been actively taking advantage of a tool for 45 days or more, they will have access to that tool revoked without notification. Activity will be determined by user reports pulled by the tools' admins. These reports can be found by viewing issues from the Marketing Ops project with the issue label `Mktg Tool Audit`. The reports will utilize the audit issue template from the Marketing Ops project. To regain access to revoked tools, the team member will need to submit a new access request and follow standard access request procedures. However, user seats will be on a first-come-first-serve basis unless it is determined additional seats should be purchased.
+For budgetary reasons, Marketing Operations will be performing quarterly, and for some tools bi-quaterly, audits on the user activity of marketing tools. If a team member has not been actively taking advantage of a tool for 45 days or more, they will have access to that tool revoked with 5 business days of notification via email. Activity will be determined by user reports pulled by the tools' admins. These reports can be found by viewing issues from the Marketing Ops project with the issue label `Mktg Tool Audit`. The reports will utilize the audit issue template from the Marketing Ops project. To regain access to revoked tools, the team member will need to submit a new access request and follow standard access request procedures. However, user seats will be on a first-come-first-serve basis unless it is determined additional seats should be purchased.
+
 - Tools included under the quarterly guidelines
   - Outreach
   - ZoomInfo
   - Linkedin Sales Navigator
   - PathFactory
 - Tools included under the bi-quaterly guidelines, Q1 and Q3
-  - Sigstr
+  - Terminus (formerly Sigstr)
   - Drift
   - Marketo
+  - Litmus 
 
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 

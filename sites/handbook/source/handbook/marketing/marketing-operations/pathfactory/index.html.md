@@ -84,6 +84,8 @@ For more info on the capabilities of each role, [see the knowledge base article]
 | Developer Evangelism | `Author` | Upload new technical content |
 | Sales Development Representative (SDR) | `Sales user` (PathFactory for Sales only) | PathFactory for Sales (SFDC) |
 | All Remote | `Author` | Upload new all remote content, create and edit content tracks for use in all-remote campaigns |
+| Partner Marketing | `Author` (select users) | View content library, create content tracks for partners, reporting |
+| Customer Programs | `Author` (select users) | View content library, create content tracks for customer onboarding where a TAM is not assigned or requested, reporting |
 
 ## Support
 
@@ -105,9 +107,11 @@ For more info on the capabilities of each role, [see the knowledge base article]
 
 **[Marketing Operations](https://about.gitlab.com/handbook/marketing/marketing-operations/)**
 
-1. [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_request.md)
-1. [PathFactory QA Review request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_qa_review.md)
-1. [New PathFactory form request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/pathfactory_form.md)
+1. [PathFactory Author Onboarding](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_author_onboarding) 
+1. [Generic PathFactory request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_request)
+1. [PathFactory QA Review request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_qa_review)
+1. [New PathFactory form request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_form)
+1. [PathFactory Content Audit](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_content_audit)
 
 **[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
 
@@ -116,6 +120,22 @@ For more info on the capabilities of each role, [see the knowledge base article]
 1. [Pathfactory Bulk Upload Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk)
    - *This issue template should be used sparingly, as content should be added to Pathfactory by content owners ongoing as it becomes available. This is helpful for examples like a number of videos produced during a Commit event with many sessions.*
 1. [Pathfactory Track Request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
+
+## Important Note Using PathFactory 
+
+PathFactory has no built-in audit log or trail for changes that are made within the content library (only that it was updated and by whom) or content tracks. It is critically important that everyone with `Author` role access to PathFactory follow the instructions and documentation outlined in this handbook. Any changes made to the content library or content tracks can have a negative impact on those content tracks which are tied to campaigns, reporting, and attribution. 
+
+For instance, if an asset is deleted from the content library and that asset exists in campaign-related content tracks, the user that visits that asset within that track will be redirected to `about.gitlab.com`, which has the following impacts:
+
+1. Breaks the content track experience for the user by de-railing them from their intended destination
+1. Skews data in the campaign, reporting, and attribution
+1. Potentially loses out on further nurturing that user, or making an unknown user known through gating
+
+The same impacts above can happen if an `Author` role makes changes to an existing content track without collaborating with the `Author` of that track. 
+
+**Before making any of these impactful changes, please collaborate with the `Author` of a content track _before_ making any changes or asking in `#mktgops` before deleting any assets in the content library.**
+
+If these changes are made, it is also critically important to input them to the [PathFactory changelog](#changelog) so that we can correct them accordingly.
 
 ## Changelog
 
@@ -196,6 +216,14 @@ Track labels are used to document the channels that a content track is distribut
 ### Track Folders 
 
 Track folders are set up by team as different teams within marketing use and distribute content tracks for various use cases. This helps to ensure that team members only make change to content tracks within their team folder. 
+
+### Forms
+
+When naming forms, please follow the naming convention:
+
+1. WIP forms: `[WIP] Language - Purpose - Marketo Form ID` (example: `[WIP] Korean - Contact Us - 2963`)
+1. Live forms: `[LIVE] Language - Purpose - Marketo Form ID`  (example: `[LIVE] Korean - Contact Us - 2963`)
+1. Test forms (MktgOps only): `[TEST] Language - Purpose - Marketo Form ID` (example: `[TEST] English - PF<>Bizible - 2715`)
 
 ## Content Tracks
 
@@ -289,7 +317,7 @@ Before creating a new content track, decide what type of content track (target v
 
 #### Form Strategy
 
-Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms.
+Form strategy is used on content tracks to collect data from unknown visitors. This is done by "gating" an asset within a track or by creating a track rule with an engagement threshold (example: spent at least 60 seconds in the track and viewed 2 assets). Not all content tracks will or should have form strategy turned on - it depends on the goal of your campaign. Form strategy should only be used when a track entry point is **not** from a webform or landing page (i.e. direct link from digital ad or web promoter). The forms used in PathFactory are directly tied to currently existing Marketo forms. Even if you are sending to a known audience, you should consider using form strategy should a visitor forward the experience to an unknown user. 
 
 **Please Note:**  PathFactory activity is tied into the [MQL scoring model](/handbook/marketing/marketing-operations/marketo/#scoring-model). This means that you do not need to add form strategy to a content track if entry point is from a landing page.
 
@@ -533,6 +561,11 @@ Webhooks allow PathFactory to automatically connect with a third party system an
 We currently use the `Visitor Session Webhook` to connect to Marketo. The `Visitor session` webhook is triggered off of session data. A `visitor session` begins when a visitor arrives on a content track and ends when that visitor has stopped engaging with content for thirty minutes. This webhook is triggered when a visitor session ends. This means that the webhook will trigger and send data to Marketo thirty minutes after the visitor has finished engaging with content. The data sent though this webhook provides an overview of the level of engagement the visitor had with your content track and the content assets inside them during the session. 
 
 ### Bizible
+
+There are 2 external forms in PathFactory with apply Bizible touchpoints using JavaScript. 
+
+1. `MOps: Form Submit-Bizible`: Applies a Bizible touchpoint upon form submit within a PathFactory track
+1. `MOps: Bizible-Met Threshold`: Applies a Bizible touchpoint when a visitor to a track has met the engagement threshold
 
 - [Bizible attribution with PathFactory](https://about.gitlab.com/handbook/marketing/marketing-operations/bizible/#bizible-attribution-with-pathfactory)
 
