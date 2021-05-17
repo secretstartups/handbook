@@ -9,10 +9,10 @@ title: "1-1 Suggested Agenda Format"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page describes how [Sid](/handbook/ceo) formats his 1-1 agendas. 
+This page describes how [Sid](/handbook/ceo) formats his 1-1 agendas.
 If you are new to 1-1s or not sure how to make your previous experience with 1-1s work in
-GitLab's culture, this can be a great starting place for you to learn. 
-However, remember that 1-1s are private meetings between a manager and their report, so consistency is secondary to effectiveness - 
+GitLab's culture, this can be a great starting place for you to learn.
+However, remember that 1-1s are private meetings between a manager and their report, so consistency is secondary to effectiveness -
 please make sure to find a format that works for you and your team.
 
 ## Agenda headers
@@ -26,7 +26,7 @@ Give your agenda document these headers:
 
 ## Performance management
 
-1. List reports with high or exceptional performance. Team members with high performance [should be recognized and praised](/company/team/structure/#management-group). 
+1. List reports with high or exceptional performance. Team members with high performance [should be recognized and praised](/company/team/structure/#management-group).
 1.  List reports who might be [underperforming](/handbook/leadership/underperformance/). Err on the side of putting people on too early and taking them off when it turns out there was no underperformance. It is important to bring people [up with your manager immediately](/handbook/leadership/underperformance#immediately-discuss-with-the-managers-manager) and not have your manager have to tell you about concerns.
 
 ## Feedback
@@ -66,7 +66,7 @@ Please see [our guide on giving feedback](/handbook/people-group/guidance-on-fee
     - This helps reassure that all these topic tags are readily available and encouraged to be used. This is especially important for `THANKS`, `SORRY` and `HELP` tags.
 1. As specified above items are removed after being set to `DONE`. The 1-1 is one list that is continually modified. It is not a meeting agenda that is duplicated every week under a new date.
 1. Add items to the end of the agenda. This is easier to do when using a numbered list.
-1. The order going thought the agenda is last-to-first, this way things that are still top of mind get handled first.
+1. The order going through the agenda is last-to-first, this way things that are still top of mind get handled first.
 1. Prefix a new item with your name. Do the same for all responses/follow-ups.
 1. Use `=>` to indicate a response/followup to an agenda item and prefix with your name. For example: `DISCUSS` Sid: Should we look into a collaboration with Walmart? => Kate: I think so, I created https://gitlab.com/gitlab-org/gitlab-ce/issues/101
 1. Use sub-bullets (a, b, c) if there sub topics .
@@ -77,8 +77,8 @@ Please see [our guide on giving feedback](/handbook/people-group/guidance-on-fee
 1. When you make a change link to diff or merge request instead of new content itself, this makes it easier to see what the change was.
 
 ## Order
-We move through the agenda top to bottom by header but bottom to top within those headers. 
-For example, the very first discussion item in the call should be the last item under High Performance. 
+We move through the agenda top to bottom by header but bottom to top within those headers.
+For example, the very first discussion item in the call should be the last item under High Performance.
 
 ## Example Agenda
 

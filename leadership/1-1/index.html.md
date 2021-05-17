@@ -53,13 +53,13 @@ We recorded a training about 1-1s which you can find here:
   - When x happened, what will you do differently next time?
   - Have you identified any career development opportunities that I can help you with? For example: [Internship for Learning](/handbook/people-group/promotions-transfers/#internship-for-learning)
   - Other great questions to consider can be found in the [Culture Amp Blog: 24 great one-on-one meeting questions](https://www.cultureamp.com/blog/great-one-on-one-meeting-questions/) or in 15Five's [The Great eBook of Employee Questions](https://www.15five.com/ebook/employee-questions/).
-1. Consider encouraging direct reports to keep their 1:1 document open in their browser throughout the week. As items come up, they can add them in real time instead of waiting until 30 minutes before the meeting to scramble to fill in the [agenda](/handbook/leadership/1-1/suggested-agenda-format/). 
+1. Consider encouraging direct reports to keep their 1:1 document open in their browser throughout the week. As items come up, they can add them in real time instead of waiting until 30 minutes before the meeting to scramble to fill in the [agenda](/handbook/leadership/1-1/suggested-agenda-format/).
 1. Asking open ended questions is important. "You doing alright?" is a yes/no question. There is no room for an answer unless you dig and prod to get more. Instead asking things like "Tell me how you've been doing since we last talked" leave more room for discussion and result in something both more actionable and results driven. Your goal is not just to know how they are doing, but why they feel that way.
-1. Consider populating the agenda to the 1-1 meeting at least 24 hours in advance of the meeting. This will enable the direct report and manager mental space to think more critically about each topic. 
+1. Consider populating the agenda to the 1-1 meeting at least 24 hours in advance of the meeting. This will enable the direct report and manager mental space to think more critically about each topic.
 
 ## Learning From the CEO on Conducting a 1-1
 
-The Learning & Development team and the CEO, discuss conducting a 1-to-1 in more detail during a handbook learning session. 
+The Learning & Development team and the CEO, discuss conducting a 1-to-1 in more detail during a handbook learning session.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/TAcfRjqGzOs" frameborder="0" allowfullscreen="true"> </iframe>
@@ -73,7 +73,7 @@ We recorded a training about career mapping which you can find here:
   <iframe src="https://www.youtube.com/embed/YoZH5Hhygc4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-These discussions should take place once a month and after the [360 Feedback](/handbook/people-group/360-feedback/) meeting has taken place. As a manager of people you play a crucial part in developing careers for your reports. This is for them but you should be able to support this process and help them achieve their goals. This is a join collaboration so prior to the meeting think about what questions to ask, specifically identifying **competencies(c)**,**skill gaps(sg)** and **career objectives (co)**. Adrienne Smith who wrote [increase employee retention with career pathing](https://www.geteverwise.com/human-resources/increase-employee-retention-with-career-pathing/) suggests the following:
+These discussions should take place once a month and after the [360 Feedback](/handbook/people-group/360-feedback/) meeting has taken place. As a manager of people you play a crucial part in developing careers for your reports. This is for them but you should be able to support this process and help them achieve their goals. This is a join collaboration so prior to the meeting think about what questions to ask, specifically identifying **competencies(c)**, **skill gaps(sg)** and **career objectives (co)**. Adrienne Smith who wrote [increase employee retention with career pathing](https://www.geteverwise.com/human-resources/increase-employee-retention-with-career-pathing/) suggests the following:
 
 1. Which projects are you most proud of that you’ve finished here? (c)
 1. What is your favorite part of your job? (c)
@@ -125,7 +125,7 @@ Career development conversations are vital for the team members, managers and Gi
 
 Not discounting these concerns, but as a manager it is your job to engage team members in meaningful career development conversations.
 
-If a team members expectations or timeframe is unrealistic, you can explore having them use their time to find opportunities that will engage and prepare them for when they opportunities arise. If they are ready for promotion but the opportunity is not in scope or plan for the business it is best to be transparent with the team member. Discuss any timeline of if/when a position may be available or if there is no plan currently to add that role. You can also work with the team member to look for internal opportunities like internship or cross collaborative projects to help keep the team member engaged while continuing in their role.
+If a team members expectations or timeframe is unrealistic, you can explore having them use their time to find opportunities that will engage and prepare them for when their opportunities arise. If they are ready for promotion but the opportunity is not in scope or plan for the business it is best to be transparent with the team member. Discuss any timeline of if/when a position may be available or if there is no plan currently to add that role. You can also work with the team member to look for internal opportunities like internship or cross collaborative projects to help keep the team member engaged while continuing in their role.
 
 If a team members expresses career ambitions that are beyond their current skill set, then that is an opportunity to talk about the next level skills and experience that might help prepare them to get them where they want to go. If your department or division has job matrices or competencies this is a good time to review those with the team member. Technical skills are only one part of the team members ability to continue to grow and succeed. If there are issues with attitude and behaviors this is a good time to also share what the team member needs to work on in regards soft skills as part of their career growth and development.
 
