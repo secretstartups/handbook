@@ -26,7 +26,7 @@ When you're "Working on Tickets", you're driving achievement of our KPI of [Supp
 
 ## How do we prioritize tickets?
 
-While there may be some regional variations as to how/by which group of people this set of priorities is handled (for example, [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew), the global priority order for handling tickets is:
+While there may be some regional variations as to how/by which group of people this set of priorities is handled (for example, [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew)), the global priority order for handling tickets is:
 
 
 | What | Description | Why? | What PI does this affect? |
