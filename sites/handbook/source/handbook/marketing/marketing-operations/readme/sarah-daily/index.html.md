@@ -64,7 +64,6 @@ I created this personal README document to help you get to know me and how I wor
 1. Hotjar
 1. Keyhole
 1. LaunchDarkly
-1. Litmus
 1. OneTrust
 1. PathFactory
 1. SEMrush
