@@ -81,4 +81,4 @@ You would **not** want to say:
 
 ## Reporting a false positive
 
-[Create an issue with Trust and Safety]((https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)). Include the username of the affected user, a copy of the JSON output from Kibana that shows the block happening, and a link to the Zendesk ticket reporting the request.
+[Create an issue with Trust and Safety](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new). Include the username of the affected user, a copy of the JSON output from Kibana that shows the block happening, and a link to the Zendesk ticket reporting the request.
