@@ -27,7 +27,7 @@ An A/B test is when we release two versions of a page and compare how well they 
 Below are some resources to learn more about feature flags. At a high level, a feature flag is an if-else wrapper around code that can be enabled, disabled, or served at a certain percentage to a certain group. This is controlled via a dashboard toggle, changing the production interface on-the-fly without having to wait for a release to change something.
 
 * [An introduction to feature flagging software](https://github.com/launchdarkly/featureflags/blob/master/1%20-%20Introduction.md)
-* [Feature flag use cases](\https://github.com/launchdarkly/featureflags/blob/master/2%20-%20Uses.md)
+* [Feature flag use cases](https://github.com/launchdarkly/featureflags/blob/master/2%20-%20Uses.md)
 
 ## Why did we choose LaunchDarkly
 
