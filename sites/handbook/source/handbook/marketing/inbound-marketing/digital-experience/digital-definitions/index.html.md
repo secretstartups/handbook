@@ -42,10 +42,10 @@ Related terms: partials, includes, fragments, organisms, molecules.
 
 ### What is a block?
 
-1. A block is a section where the presentation, goal, and required functionality remains the same, but content can be updated (wording, imagery, links, etc).
 1. A section of the page, generally kept as small as possible. It's usually a horizontal slice of layer cake across the page but can also be a chunk of a sidebar.
+1. A block is a section where the presentation, goal, and required functionality remains the same, but content can be updated (wording, imagery, links, etc).
 1. Blocks are often made up of many elements and components put together and organized around a common purpose.
-1. Blocks often have configurable options to facilitate reuse with different configurations. It might not always be desirable to have a title block for example.
+1. Blocks might have configurable options to facilitate reuse with different configurations. It is always be desirable to have a title block for example, so there might be an option to turn that off.
 
 Example: A gated content form.
 
