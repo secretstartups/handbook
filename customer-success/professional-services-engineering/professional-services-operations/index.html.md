@@ -75,7 +75,21 @@ T&M project revenue is forecasted by scheduled soft or hard allocations in the M
 Fixed priced projects are forecasted by the project milestones in the Mavenlink project.  Each milestone has a sign off task, that task is updated with correct sign off date for the activities in the milestone.  Best practice is update the sign off task to give time for the customer to review and obtain acceptance from the customer.
 If there is not confidence that the activities will be complete and the customer will sign off, then the Sign Off task should be moved out to the next quarter.
 
-___
+#### Revenue Sign Off
+
+##### Revenue Release T&M Projects
+
+For T&M projects revenue is released at each month end. Project hours are submitted weekly via the the time sheet function in Mavenlink.  The PSE or PM submits time against the project, and the Project PM or Lead approves on a weekly basis.  Each month end the PC, pulls a report of all approved time sheets and provides the consolidated report to Finance to review and release the revenue
+
+##### Revenue Release FP Projects
+
+For FP projects revenue is released when customer acceptance is received or passive acceptance has passed as it pertains to the project SOW language.
+The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
+*  Update Sign Off Sent, when email request is sent
+*  Update Sign Off received, when acceptance is received or Passive Acceptance is reached and add the PDF email of acceptance to the Milestone
+*  Update if Passive Acceptance has been utilized for sign off
+
+![fprevenuerelease](./fprevenuerelease.png)
 
 ## Project Coordination- Training
 
@@ -208,6 +222,16 @@ Training revenue release is followed dependant on training billing type:
 
 Training projects are typically considered fixed priced projects and are forecasted by the project milestones in the Mavenlink project.  Each milestone includes tasks for each training course that are used to capture training preparation/planning/closeout and delivery hours.  Each task is updated with the correct due date for the activities in the milestone.  Best practice is to ensure that the task due dates are updated to accurately reflect training completion dates for forecasting purposes.  
 If there is not confidence that the activities will be complete, then the task due date should be moved out to the next quarter.
+
+##### Revenue Release Training Projects
+
+For training projects revenue is released when training is complete and or when acceptance is received dependant as it pertains to the project SOW language.
+Dependent on the SOW language, the PC sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
+*  Update Sign Off Sent, when training is complete or email request is sent
+*  Update Sign Off received, when training is complete or acceptance is received or Passive Acceptance is reached and add the class roster or PDF email of acceptance to the Milestone
+*  Update if Passive Acceptance has been utilized for sign off
+
+![trainingrelease](./trainingrelease.png)
 
 ___
 
