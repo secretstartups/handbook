@@ -238,6 +238,8 @@ If you would like to request access to be a sub-admin, please reach out to our t
 
 In LinkedIn Learning we have set up groups and sub-groups. The groups are equal to departments in BambooHR. The sub-groups under each group are equal to divisions within each department in BambooHR. 
 
+Sub-admins are set up for each group and sub-group based on the [People Business Partner alignment](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division). 
+
 Current groups and sub-groups are outlined below: 
 
 - CEO 
