@@ -207,7 +207,7 @@ A customer may be blocked because they have run out of CI minutes.
 A customer may be blocked because they've exceeded their storage quota.
 
 1. Advise them to purchase additional storage
-1. As a courtesy, someone with GitLab.com admin can override the storage limit on a group.
+1. In cases where a customer is unable to complete a purchase because of a defect or outage, as a courtesy, someone with GitLab.com admin can override the storage limit on a group.
 
 ## US Federal on-call
 
