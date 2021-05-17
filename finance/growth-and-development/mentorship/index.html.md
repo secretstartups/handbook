@@ -13,6 +13,8 @@ As discussed in [GitLab’s Remote Playbook](https://about.gitlab.com/company/cu
 
 In the finance team, there's a great untapped opportunity for cross-training and relationship building. We are launching our first mentorship pilot program to establish whether mentorship is a good way for the finance team to faciliate learning and development and normalise knowledge sharing in our department.
 
+For reference and guidance, you can refer to the [L&D Mentorship Documentation](/handbook/people-group/learning-and-development/mentor/).
+
 #### Program Structure
 
 ##### 1:1 Coaching Sessions
