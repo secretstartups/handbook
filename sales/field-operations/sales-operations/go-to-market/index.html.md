@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Operations Go To Market"
+noindex: true
 ---
 
 ## On this page
