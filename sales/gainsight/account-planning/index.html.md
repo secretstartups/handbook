@@ -22,7 +22,7 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 1. In the right corner select **New Success Plan**.
 1. Name your success plan indicating Land or Expand and year(s).
 1. The **Type** will be Account Planning.
-1. Add a due date. This will evolve as the plan evolves.
+1. Add a due date. The account renewal date is a good place to start, although this will evolve as the plan evolves.
 1. Add a template to the Account Plan by using the ellipsis menu located in the gray bar on the right side of the page. The [Land Plan](/handbook/sales/account-planning/#land-account-plans) and [Expand Plan](/handbook/sales/account-planning/#expand-account-plans) templates will provide a guided action items and next steps.
 1. To learn about other plan types (Opportunity Plan, Command Plan, Success Plan), review [this page](/handbook/sales/account-planning/#what-is-the-difference-between-an-account-plan-and-a-success-plan).
    
@@ -35,9 +35,45 @@ Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll
 ### Account Plan Info
 
 1. The default view of an Account Plan will be the Plan Info section.
-1. Plan Info is comprised of the Account Profile, Execution Plan and Go-To-Market Plan. 
+1. Plan Info is comprised of the Customer Profile, Execution Plan and Go-To-Market Plan. 
 1. Add or edit content to the Plan Info by using the pencil icon located to the right of each text box. 
 1. For further detail on the methodology behind the individual components, [click here](/handbook/sales/account-planning/#account-profile).
+
+#### The Customer Profile 
+
+This section of the account plan serves to capture any relevant customer information. 
+
+| Field Name         | Field Description                                                                                                                                                                                                                                         |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Name               | Pulled from Salesforce                                                                                                                                                                                                                                    |
+| Account Rank       | Pulled from Salesforce                                                                                                                                                                                                                                    |
+| Account Rank Notes | Link a GoogleDoc, or add any context detailing why the account was ranked the way it was. We should be starting with Rank 1 Accounts.                                                                                                                     |
+| Business Overview  | High level overview of the organization, and any pertinent information that someone would need to know about the organization. This can include information such as key products and services, key customer business priorities, or financial challenges. |
+| Industry Trends    | Is there anything going on in the customer’s industry? New technology or changes that impact the customer’s org?                                                                                                                                          |
+
+#### The Account Snapshot
+
+This section of the account plan serves to capture relevant information about the customer and their engagement with GitLab.
+
+| Field Name                      | Field Description                                                                                                                                                                                                            |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Account Summary and History     | Relevant information about what is currently going on in the account, and anything pertinent that could impact the account. For example, organization has a new CTO or the organization is deciding on a new cloud strategy. |
+| Current Entitled Solutions      | Information on current subscriptions, adoption rates, and product usage data if it is available.                                                                                                                             |
+| IT/ Digital Strategy            | Where is the customer in their digital transformation journey? What is their strategy for the next 3, 6, 12 months?                                                                                                          |
+| Strategic Partnerships          | Information about partners engaged with the customer (e.g. their cloud provider) and partners involved in this account.                                                                                                      |
+| Goals/ Strategies/ Objectives   | Information about the customer’s pain, and desired positive business outcomes.                                                                                                                                               |
+| Customer High Level Initiatives | What is the customer working on? Do they have any key initiatives we should be aware of?                                                                                                                                     |
+
+#### Go-to-Market Plan 
+
+This section of the account plan serves to capture relevant information about our plan to drive success for the customer. 
+
+| Field Name                                    | Field Description                                                                                                                                                                                                                        |                                                                                                                                    |
+|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Overall Account Plan Goals (6, 12, 18 months) | What is your vision for the customer for the next 6 months? What about 12, and 18 months? Has the customer shared their vision/ strategy for the next year with you?                                                                     |                                                                                                                                    |
+| GitLab Initiatives                            | Information about any relevant internal initiatives that could impact the customer. For example are there impending pricing changes, or incentives around GitLab Ultimate?                                                               | initiatives that could impact the customer. For example are there impending pricing changes, or incentives around GitLab Ultimate? |
+| Threats/ Risks                                | Are you aware of any threats to your customer’s business, to the health of their GitLab adoption, or your plans to expand within the account? For example, are they downsizing? Is Microsoft making a strong play for their CI business? |                                                                                                                                    |
+| Action Plan                                   | Based on your vision for the next 6, 12, and 18 months, how do you plan to get there? Have you considered the role of yourself, the SDR, the SA, and the TAM?                                                                            |                                                                                                                                    |
 
 ### Relationship and Influence Mapping
 
