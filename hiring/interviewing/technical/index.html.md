@@ -33,4 +33,4 @@ It's also worth noting and making the candidate aware that we no longer request 
 
 ## Becoming qualified to conduct technical interviews
 
-If GitLab team-members are interested in becoming qualified to conduct technical interviews, they can read more about the process in the [interviewing best practices](/handbook/hiring/interviewing/#conducting-a-gitlab-interview) page.
+If GitLab team-members are interested in becoming qualified to conduct technical interviews, they can read more about the process in the [interviewing best practices](/handbook/hiring/conducting-a-gitlab-interview/) page.
