@@ -1,9 +1,3 @@
----
-layout: handbook-page-toc
-title: Sales Plays
-description: “Discover GitLab Solutions Architects’ Sales Plays practices”
----
- 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -34,6 +28,7 @@ Who is this sales play for?
 ## Who to meet
 {: .alert .alert-gitlab-orange}
 
+<br>
 **Ideal Customer Profile** - Prospects or new teams in existing customers who are listed in this qualification [list](https://gitlab.my.salesforce.com/00O4M000004aULR) for enterprise customers
 
 - Organizations/teams interested in shifting left & currently unhappy with their security tools OR not using security tool at all
@@ -76,8 +71,9 @@ Consider the following questions:
 1. Review how to position gitlab's values & why does gitlab does it better [here](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#positioning-value)
 
 | Stage | Sales Play | Expected Outcome | Owner |
-| ---------- | --------------- | ----------------- | ----- |
-| 0 | Qualification | 1. For SALs/SDRs please make sure the customers are on the qualification list for your region. Eg: For enterprise west look at [this](https://gitlab.my.salesforce.com/00O4M000004aULR)
+| ----- | ---------- | ---------------- | ----- |
+| 0 | Qualification | 1. For SALs/SDRs please make sure the customers are on the qualification list for your region. Eg: For enterprise west look at [this](https://gitlab.my.salesforce.com/00O4M000004aULR) |  |
+
 1. During qualification, make sure to identify the pain points, customer profile using the collaterals highlighted below:
     1. [Questions](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#engaging-the-customer) to better understand customer needs, future state & required capabilities
     1. Customer presentations & GTM use cases link [here](https://about.gitlab.com/handbook/marketing/strategic-marketing/#customer-facing-presentations)
@@ -115,18 +111,7 @@ Consider the following questions:
 ### Technical Evaluations
 
 1. Strategize with your sales team on which play would you like to run & agree on the expected outcome before the meeting. We dont recommend starting a technical evaluation with a POV.
-    1. [Compete : Argo CD/TeamCity](https://gitlabdemo.com/catalog/libraries/categories/ac509772)
-    1. [Gitlab advantages over competitors](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#competitive-comparison)
-    *Expected Outcomes
-    1. Hands Workshop
-    1. Deeper dive on a particular topic
-    1. POV
-    1. [Pilot/Professional Service](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9)
-    - Demo/Deck: Integrate vs Compete play
-    1. [DevSecops Nuts & Bolts deck] by Darwin Sanoy (https://docs.google.com/presentation/d/1NSowoLzyrb_8ACnxwbQ2FcqaoDmavaedUrd2rVidehw/edit#slide=id.gc2a4740e21_0_554)
-    1. [Building a continuous remediation habit](https://drive.google.com/file/d/1Gd7pb_-5V9jjJqT7zFNLpxoKjZuOFE63/view)
-    1. [Additional info including TCO workshop](https://gitlab.com/gitlab-com/customer-success/tko/nuts-and-bolts-devsecops-motion-feedback)
-    - Nuts/Bolts play where you will focus on specific secure/ultimate capabilities
+    - Demo/Deck: Vision & transformation play, where you would likely focus on Gitlab holistically
     1. [Customer facing slides](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit)
     1. [Why choose ultimate](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#ultimate)
     1. [Customer proof point](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#proof-points---customers)
@@ -136,7 +121,18 @@ Consider the following questions:
     1. [Demo catalog](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog)
     1. [End to End TCO planning workshop](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit#gid=467701643), Recording
     1. [End to end demo with secure]
-    - Demo/Deck: Vision & transformation play, where you would likely focus on Gitlab holistically
+    - Nuts/Bolts play where you will focus on specific secure/ultimate capabilities
+    1. [DevSecops Nuts & Bolts deck] by Darwin Sanoy (https://docs.google.com/presentation/d/1NSowoLzyrb_8ACnxwbQ2FcqaoDmavaedUrd2rVidehw/edit#slide=id.gc2a4740e21_0_554)
+    1. [Building a continuous remediation habit](https://drive.google.com/file/d/1Gd7pb_-5V9jjJqT7zFNLpxoKjZuOFE63/view)
+    1. [Additional info including TCO workshop](https://gitlab.com/gitlab-com/customer-success/tko/nuts-and-bolts-devsecops-motion-feedback)
+    - Demo/Deck: Integrate vs Compete play
+    1. [Compete : Argo CD/TeamCity](https://gitlabdemo.com/catalog/libraries/categories/ac509772)
+    1. [Gitlab advantages over competitors](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#competitive-comparison)
+    *Expected Outcomes
+    1. Hands Workshop
+    1. Deeper dive on a particular topic
+    1. POV
+    1. [Pilot/Professional Service](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9)
 
 ## Additional Resources to use
 
@@ -153,6 +149,7 @@ Will have specific resources under actions above. This is for additional resourc
 ## Measuring progress
 {: .alert .alert-gitlab-orange}
 
+<br>
 Consider these milestones and adjust stages in SDLC as you progress.
 
 **Milestones**
