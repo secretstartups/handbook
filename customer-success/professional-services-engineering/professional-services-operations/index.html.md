@@ -261,6 +261,12 @@ To provide Mavenlink access to an internal GitLab team members, provide access b
   * Request Okta
   * Request Mavenlink to be added to Okta
 
+#### New Hire 
+
+When there is a new team member on the PS Team.  We have some training and process links to review: 
+
+[New Hire Review](https://docs.google.com/spreadsheets/d/1ejvLWFPdRflzCkIhiDgcfU_B9I01ViPtwxmd30sTsIQ/edit#gid=714939102)
+
 #### Time Tracking 
 
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
