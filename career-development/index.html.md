@@ -247,6 +247,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
     qual:bemep(Backend Engineering Manager, Engineering Productivity)-->qual:dqe(Director of Quality Engineering);
     qual:qem(Quality Engineering Manager)-->qual:dqe(Director of Quality Engineering);
+    qual:dqe(Director of Quality Engineering)-->qual:vpq(VP of Quality);
   end
 
   click qual:jset "/job-families/engineering/software-engineer-in-test#intern-software-engineer-in-test";
@@ -259,6 +260,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click qual:bemep "/job-families/engineering/backend-engineer/#backend-manager-engineering";
   click qual:qem "/job-families/engineering/engineering-management-quality/#quality-engineering-manager";
   click qual:dqe "/job-families/engineering/engineering-management-quality/#director-of-quality-engineering";
+  click qual:vpq "/job-families/engineering/engineering-management-quality/#vp-of-quality";
 ```
 
 #### Support Department
