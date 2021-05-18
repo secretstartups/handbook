@@ -324,7 +324,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 ### Mid Market Roles
 
-1. **First Order MM AE**: These AEs work on the highest potential accounts that are not currently customers of GitLab. Once the customer has signed its first contract the customer transitioned to a Named MM Account Executive. However, if an account is won by this team and is deemed to be low potential it will be passed to a Territory MM AE. The rough guideline for these accounts is more than 500 employees total and more than 100 combined employees in engineering and IT.
+1. **First Order MM AE**: These AEs work on the highest potential accounts that are not currently customers of GitLab. Once the customer has signed its first contract the customer transitioned to a Named MM Account Executive. However, if an account is won by this team and is deemed to be low potential it will be passed to a Territory MM AE. The rough guideline for these accounts is more than 500 employees total and more than 100 combined employees in engineering and IT. We don't refer to First Order MM accounts as "Named Accounts", because we don't know the full list of possible accounts that will be routed to this group.
 
 1. **Named MM AE**: These AEs work on current customers that have been deemed to be high spending (high CARR) or have the potential to be high spending (high LAM). To be successful the Named MM AE must expand their accounts more than the standard expansion rate for their named list of accounts. The named list for each Named MM AE will grow through the fiscal year as the First Order MM AE wins new high potential customers.
 
