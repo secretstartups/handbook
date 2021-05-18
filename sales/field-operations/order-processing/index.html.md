@@ -533,7 +533,7 @@ If an opportunity meets the criteria listed above, but does not have a Professio
 **Summary: Waived True-Ups require executive approvals and  negatively impact Net ARR.**
 
 1. Waived True-Ups require written VP, CRO, and CFO approval, per the approval matrix [insert link]. Approvals should be sought in SFDC Chatter on the related Opportunity.
-2. After approval is obtained, Sales should request that @Sales-Support apply a $0 True-Up SKU, for the quantity being waived, to the quote.
+2. After approval is obtained, Sales should tag @Sales-Support  to request that Deal Desk apply a $0 True-Up SKU, for the quantity being waived, to the quote.
 3. Upon adding the $0 True-Up SKU to the quote and providing an Order Form, Deal Desk will notify @Revenue of the waiver in SFDC chatter.
 4. After being notified, the Revenue team will review the case, and will calculate the amount of the ARR allocation. The Revenue team will then add it to the ARR Allocations Tracker.
 5. After calculating the ARR allocation, the Revenue team will communicate the impact in chatter. This ARR allocation will be communicated wtihin 3-5 days of the initial notification to the Revenue Team.
