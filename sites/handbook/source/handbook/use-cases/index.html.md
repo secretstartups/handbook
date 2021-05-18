@@ -98,7 +98,7 @@ I want to manage my entire DevOps lifecycle more efficiently with better outcome
    1. *Deliver Better Products Faster:* More collaboration, working in parallel
    1. *Reduce Security and Compliance Risk:* Testing early, and enforcing common controls like single sign on, and shared view for collaboration, reporting and visibility.
 
-#### [8. Cloud Native](/handbook/marketing/strategic-marketing/usecase-gtm/cloud-native/)
+#### 8. Cloud Native
 **Want to use more modern, cloud-native approaches to application development** (**cloud native**)
 I want to use things like containers, K8s, and/or serverless for new development or containerize legacy applications. Help me lift and shift to cloud. Minimize my learning curve to set up, maintain and use clusters.
 
