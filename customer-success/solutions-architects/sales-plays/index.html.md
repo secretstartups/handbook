@@ -153,7 +153,7 @@ SA and SAL
     1. [End to End TCO planning workshop](https://docs.google.com/spreadsheets/d/1wVghmLv3E_IKs7rz-quc6jtjZW0p-u3h4iSaDqmm1Nc/edit#gid=467701643), Recording
     1. [End to end demo with secure]
     - Nuts/Bolts play where you will focus on specific secure/ultimate capabilities
-    1. [DevSecops Nuts & Bolts deck] by Darwin Sanoy (https://docs.google.com/presentation/d/1NSowoLzyrb_8ACnxwbQ2FcqaoDmavaedUrd2rVidehw/edit#slide=id.gc2a4740e21_0_554)
+    1. [DevSecops Nuts & Bolts deck](https://docs.google.com/presentation/d/1NSowoLzyrb_8ACnxwbQ2FcqaoDmavaedUrd2rVidehw/edit#slide=id.gc2a4740e21_0_554)by Darwin Sanoy 
     1. [Building a continuous remediation habit](https://drive.google.com/file/d/1Gd7pb_-5V9jjJqT7zFNLpxoKjZuOFE63/view)
     1. [Additional info including TCO workshop](https://gitlab.com/gitlab-com/customer-success/tko/nuts-and-bolts-devsecops-motion-feedback)
     - Demo/Deck: Integrate vs Compete play
