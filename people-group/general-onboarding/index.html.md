@@ -18,6 +18,8 @@ We highly recommend taking at least two full weeks for onboarding and only in we
 
 All onboarding steps are in the [onboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) which is owned by the People Experience Team. The onboarding process for the new team member is [self-driven and self-learning](/handbook/values/#self-service-and-self-learning), whilst also remaining as [asynchronous](/handbook/values/#bias-towards-asynchronous-communication) as possible settling into the remote life at GitLab.
 
+At GitLab we take great pride in [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) our own product, that is why all onboarding tasks are completed in a GitLab issue. First of all, what is an issue? You can learn more about what an issue is [here](https://docs.gitlab.com/ee/user/project/issues/).
+
 The People Experience Associate assigned to the team members specific onboarding will [open](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#onboarding-issue-creation) the onboarding issue at least 4 days prior to the hire date.
 
 Each onboarding issue has a main section that contains tasks relevant to all GitLab team-members and a due date of 30 days. Below the main section are department and role-specific tasks. Some roles and departments have tasks that link to a supplemental issue template or an additional onboarding page.  Reach out to your [onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/) or other GitLab team members if you need help understanding or completing any of your tasks.
@@ -95,6 +97,8 @@ If any tasks are still outstanding, the People Experience Associate will ping th
 The employment bot will automatically close any onboarding issues still open after 60 days.
 
 ## Completing Onboarding Issue
+
+First of all, what is an issue? You can learn more about what an issue is [here](https://docs.gitlab.com/ee/user/project/issues/). 
 
 To ensure a successful completion of the onboarding issue, it is important that all tasks are checked off, whether the task is applicable to the onboarding team member or not. Checking the box indicates one of the following:
 
