@@ -92,7 +92,7 @@ The ability to communicate and market to customers and prospects is an essential
 
 ## Media Consent and Model Release 
 
-For requests related to the use of an individuals image(s), print(s), scan(s), video(s) and/or audio recording(s) you may use the template provided below. Please be certain to follow the steps in getting the Media Consent and Model Release Form executed. 
+For requests related to the use of an individual's image or voice in print or digital media, use the [Media Consent and Model Release Form](https://drive.google.com/drive/folders/168iq07H0D6zdVe2_IRSoKc_ymvU_5ZOI?usp=sharing) and follow these steps: 
 
 1. Open the [Media Consent and Model Release Form](https://drive.google.com/drive/folders/168iq07H0D6zdVe2_IRSoKc_ymvU_5ZOI?usp=sharing)
     (**_NOTE:_** This template is only available for GitLab Team Members)
