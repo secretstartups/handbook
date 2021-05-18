@@ -27,9 +27,7 @@ The onboarding process should begin when the [customer opportunity reaches stage
 
 ### Internal transition
 
-The first part of onboarding is to do a review of the customer with the [account team](/handbook/customer-success/account-team/). The SAL/AE and SA should meet with the TAM to review the Command Plan, what the customer is trying to solve for, and anything else that's relevant for the TAM to know about what motivated the customer to purchase GitLab.
-
-As part of this discussion, the SAL/AE and TAM should [arrange an introduction of the TAM to the customer](#kickoff-call). Since the SAL/AE has the relationship with the customer, they are in the best position to facilitate that introduction and help clarify the role of the TAM.
+The first step is [completing the handoff from pre-sales to post-sales](/handbook/customer-success/pre-sales-post-sales-transition). This will ensure the entire account team is clear on the customer's status, and the TAM can be properly introduced to the customer.
 
 ### TAM intro email
 
