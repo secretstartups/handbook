@@ -311,6 +311,8 @@ There may be times when a team member is placed on paid or unpaid leave during a
 
 The investigation is considered high priority to minimize the amount of time the team member is on leave.  Our goal is to complete the investigation in no more than 5 business days. The team member must remain available during this time for further questions or other matters related to the investigation. The leave is meant to enable GitLab to conduct a thorough and speedy investigation and does not in itself carry any implication of prejudgement, nor does it constitute any form of disciplinary action. The leave will only remain in place as long as necessary and can be lifted at any time.  
 
+Please refer to the [Offboarding](https://about.gitlab.com/handbook/people-group/offboarding/#sts=Involuntary%20Offboarding) of the handbook for the process to initiate a leave.
+
 ### Underperformance in Senior Leadership
 
 Regardless of level in the organization, the expectation is that all team members are provided with both coaching and feedback prior to a decision to exit the team member. Feedback is critical to development at GitLab at all levels and should be done in real time as much as possible.
