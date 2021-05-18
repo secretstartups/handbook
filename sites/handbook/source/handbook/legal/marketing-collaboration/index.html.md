@@ -90,6 +90,21 @@ Once your issue description is completely filled out, Legal will review all the 
 
 The ability to communicate and market to customers and prospects is an essential activity for GitLab. To do this, we must ensure the collection of personal information and the ability to contact is done in a manner compliant with applicable laws.  It is also beneficial for GitLab to use consistent language across our sites and forms when obtaining consent to communicate with our customers.  [The Marketing Rule Book](https://docs.google.com/document/d/1UEfWo26DP7nRPrWRWo7O7oSrNp_rRuVqyN_vC7SwXME/edit?usp=sharing) is intended to be a reference guide to (a) help understand the email and phones rules for a few select countries; and (b) provide the standard consent language to be used, depending on the scenario. 
 
+## Media Consent and Model Release 
+
+For requests related to the use of an individuals image(s), print(s), scan(s), video(s) and/or audio recording(s) you may use the template provided below. Please be certain to follow the steps in getting the Media Consent and Model Release Form executed. 
+
+1. Open the [Media Consent and Model Release Form](https://drive.google.com/drive/folders/168iq07H0D6zdVe2_IRSoKc_ymvU_5ZOI?usp=sharing)
+    (**_NOTE:_** This template is only available for GitLab Team Members)
+
+2. Update the "Description of Images" Section of the Media Consent and Model Release Form
+
+3. Once updated, prepare and send for signature to the intended recipient using an electronic signature tool (e.g., HelloSign or DocUsign)
+    (**_NOTE:_** Do not send the Form as a PDF as it may be modified by the recipient) 
+
+4. Once executed by the recipient, please upload the signed Media Consent and Model Release Form into [ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
+    (**_NOTE_** Please be certain to upload the executed version into the "01" Folder) 
+
 ### CAN-SPAM
 
 Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM) came into effect in the United States in 2003 and impacts all mass electronic marketing communications. Other countries have similar e-mail spam laws. 
