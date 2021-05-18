@@ -79,7 +79,7 @@ Participants can sign up in the Key Rotation Schedule by making an MR to this pa
 | 2021-05 | [Danielle Morrill - Sr. Director Inbound Marketing](https://about.gitlab.com/company/team/#dmor) |
 | 2021-06 | [Mek Stittri - Director of Quality](https://gitlab.com/meks) |
 | 2021-07 | [David Sakamoto - VP Customer Success](https://about.gitlab.com/company/team/#dsakamoto)  |
-| 2021-08 | AVAILABLE |
+| 2021-08 | [Hila Qu - Director of Product Growth](https://about.gitlab.com/company/team/#hilaqu) |
 | 2021-09 | AVAILABLE |
 | 2021-10 | AVAILABLE |
 | 2021-11 | AVAILABLE |
