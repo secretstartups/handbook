@@ -150,7 +150,7 @@ irb(main):005:0> pp Order.where(customer_id: 000000)
 [#<Order:0x000000000bfd8990
   id: 00000,
   customer_id: 000000,
-  product_rate_plan_id: "2c92a0fc5a83f01d015aa6db83c45aac",
+  product_rate_plan_id: "2c92a0ff76f0d5250176f2f8c86f305a",
   subscription_id: nil,
   subscription_name: nil,
   start_date: Tue, 12 Jun 2020,
