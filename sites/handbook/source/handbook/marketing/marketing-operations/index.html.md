@@ -275,6 +275,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - Google Search Console
 - Google Tag Manager
 - Hotjar
+- [iconik](/handbook/marketing/marketing-operations/iconik)
 - Keyhole
 - LaunchDarkly
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
