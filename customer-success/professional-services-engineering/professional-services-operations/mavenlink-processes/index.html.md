@@ -255,7 +255,7 @@ There are steps to follow to update the Mavenlink project:
 
 Reponsible Role: PC
 
-Once the PS Opportunity is closed/ won a notification is sent from SFDC.
+Once the PS Opportunity is closed/ won, a notification is sent from SFDC.
 
 1. Review project opportunity and documentation
    - PS Project- SOW
@@ -270,8 +270,8 @@ Once the PS Opportunity is closed/ won a notification is sent from SFDC.
   - Update [Rate Card](https://docs.google.com/spreadsheets/d/1yzpCk68aomSxY1vvhZ7dLZEckknx63FQRz3k2bjkFxs/edit#gid=0)
   - Update task billing mode
   - Update task default
-  - Review Organization to be sure set up to GitLab
-4. Update the Custome Fields
+  - Review Organization to be sure it is set to GitLab
+4. Update the Custom Fields
   - Engagement Manager
   - Add GitLab Project Link
   - Security Requirements
@@ -282,14 +282,14 @@ Once the PS Opportunity is closed/ won a notification is sent from SFDC.
   - Revenue Release
 5. Review task tracker
   - For Customer SOW, remove the task and ask the EM to push over the tasks to the Mavenlink project
-  - Once tasks over pushed over review task hours and milestone budget to be sure they are correct
-  - For SKUd offerings review the task to be sure they match the SOW or Order form
+  - Once tasks are pushed over to the Mavenlink project, review task hours and milestone budget to be sure they are correct
+  - For SKUd offerings, review the task to be sure they match the SOW or Order form
     - Also update the task details
       - PS Category
       - PS Type
       - PS Services
 5. Be sure there are no start or due dates set in the task tracker
-6. Add Unnamed resources in the Master Planning until resouces have been selected
+6. Add Unnamed resources in the Master Planning until resources have been selected
 7. Add note in the activity section to include the following:
    - SOW
    - Order Form
