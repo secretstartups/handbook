@@ -756,7 +756,7 @@ If you do a gradual rollout of your change prefer: few users over many users, in
 
 ##### Reduce cycle time
 {:.no_toc}
-Short iterations reduce [our cycle time](/product/cycle-analytics/).
+Short iterations reduce [our cycle time](/stages-devops-lifecycle/value-stream-analytics/).
 
 ##### Work as part of the community
 {:.no_toc}
