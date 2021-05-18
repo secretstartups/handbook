@@ -26,7 +26,7 @@ flowchart TD
     H[Culture Amp]
     I[Assessment Tool]
     J[Nominator Bot]
-    K[Guide]
+    K[Guide by Resource.io]
     L[EdCast - GitLab Learn]
     N[ADP]
     O[Lumity]
@@ -35,11 +35,27 @@ flowchart TD
     R[LinkedIn]
     S[Navex Global]
     T[Compaas]
+    U[Slack]
+    V[Snowflake]
+    W[DocuSign]
+    X[Glassdoor]
+    Y[Zoom]
 
     A --> P 
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
     A <--> K
     linkStyle 1 stroke-width:2px,fill:none,stroke:blue;
+    A <--> W
+    linkStyle 1 stroke-width:2px,fill:none,stroke:blue;
+    A --> U
+    linkStyle 0 stroke-width:2px,fill:none,stroke:green;
+    A --> X
+    linkStyle 0 stroke-width:2px,fill:none,stroke:green;
+    A --> V
+    linkStyle 0 stroke-width:2px,fill:none,stroke:green;
+    Y --> A
+    linkStyle 0 stroke-width:2px,fill:none,stroke:green;
+
 
     B --> N
     linkStyle 2 stroke-width:2px,fill:none,stroke:black;
@@ -100,7 +116,12 @@ flowchart TD
 | Service | Type | Direction | Handbook link |
 | ------ | ------ | ---------|------------------|
 | BambooHR | API | two-way (writes and reads on both services) | [link](/handbook/people-group/engineering/gh-bhr-sync/#overview) |
-| Guide | API | two-way |TBD |
-| Interview Schedule | API | two-way |TBD |
-| LinkedIn| API | TBD |TBD |
 | Compensation Calculator | Webhooks | one-way (Greenhouse sends webhooks)| [link](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/#access-to-compensation-calculator) |
+| DocuSign | API | TBD | TBD |
+| Glassdoor | API | TBD | TBD |
+| Guide by Resource.io | API | two-way | TBD |
+| Interview Schedule | API | two-way | TBD |
+| LinkedIn | API | TBD | TBD |
+| Okta | TBD | TBD | TBD |
+| Snowflake | TBD | TBD | TBD |
+| Zoom | TBD | TBD | TBD |
