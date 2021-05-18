@@ -50,7 +50,7 @@ flowchart TD
     A --> U
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
     A --> X
-    inkStyle 0 stroke-width:2px,fill:none,stroke:green;
+    linkStyle 0 stroke-width:2px,fill:none,stroke:green;
     A --> V
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
     Y --> A
