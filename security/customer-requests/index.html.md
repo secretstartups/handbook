@@ -33,7 +33,7 @@ GitLab's Security Incident Response Team handles complex, extensive requests. In
 
 1. Customer contacts GitLab Support/TAM/Field Security with a request that meets the required [conditions and requirements](#conditions-and-requirements).
 2. GitLab Support/TAM/Field Security creates a `confidential` issue [in the SIRT tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/) using the `information_request` template. The author of the issue ensures that the request contains all [required information](#conditions-and-requirements).
-3. The author tags `@gitlab-com/support/dotcom`, `@gitlab-com/gl-security/sirt` on the issue. The requesting customer **must not** be added to the issue.
+3. The author tags  `@gitlab-com/gl-security/sirt` on the issue. The requesting customer **must not** be added to the issue.
 4. Approval from GitLab Legal `@lasayers` should only be requested if an exception is required.   
 5. GitLab Support verifies that the requesting customer complies with our [conditions and requirements](#conditions-and-requirements) for the request.
 6. The relevant team (either GitLab Support or GitLab Security) starts working on the case, depending on the type of requests. The issue is updated with every new finding.
