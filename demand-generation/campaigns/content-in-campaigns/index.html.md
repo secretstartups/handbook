@@ -129,6 +129,8 @@ All external content should be planned in advance of purchase with `at least a 3
 
 As a guide in developing timeline, please view the workback timeline calculator [here](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
+:exclamation: **ATTENTION: IF THIS CONTENT REQUIRES A LANDING PAGE (i.e. for strict analyst approval processes) PLEASE USE THE [GATED CONTENT EPIC TEMPLATE HERE](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#gated-content-landing-pages)**
+
 ```
 <!-- NAME EPIC: [type] <Name of Asset> (ex. [Guide] Gartner MQ for ARO) -->
 * [ ] Make sure epic is confidential, if applicable (i.e. Analyst Reports)
