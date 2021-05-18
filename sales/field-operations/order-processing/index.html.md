@@ -528,6 +528,10 @@ If an opportunity meets the criteria listed above, but does not have a Professio
 3. Approval is required first by Michael Lutz or David Sakamoto. If one of these leaders approvals the quote, a second and final Service Attach approval request will go to Mike Pyle. 
 4. If the approvals noted above are obtained, and no other approvals are required, the quote will be approved. If the approvals noted above are obtained, and other approvals are required (discount approvals, payment term approvals, etc.), the quote approval module will automatically enter the existing approval process. 
 
+### Waived True-Ups: Policy and Approval Requirements
+
+
+
 ### How to Request Quote Approval via Chatter
 
 Complex deals occasionally require approval via chatter, please copy and paste the below, applicable template and complete each line item. You will need to tag the approvers outlined in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0). For **standard quotes** please submit the quote for approval, do not request additional approval in chatter. 
