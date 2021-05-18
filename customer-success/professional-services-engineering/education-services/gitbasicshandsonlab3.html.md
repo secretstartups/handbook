@@ -12,15 +12,15 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 1. Navigate to your group, click the **New project** button, click **Create blank project**, and name your project `Second Project`.
 1. Under **Visibility Level**, click the radio button for **Private**.
 1. Enable the **Initialize repository with a README** checkbox.
-1. Click the green **Create project** button. After a few seconds it will take you to a page showing your new project's details.
+1. Click the blue **Create project** button. After a few seconds it will take you to a page showing your new project's details.
 1. On the left-hand side of the screen, click the **Issues** section on the taskbar.
 1. Click the blue **New issue** button.
 1. In the title field, type `new issue`.  Optionally, enter a comment in the **Description** dialog box.
 1. In the **Assignees** field, click the link for **Assign to me**.
-1. Click the **Submit issue** button to create the issue.
+1. Click the **Create issue** button to create the issue.
 
 ### Create a merge request
-1. Just above the comment box, click the **dropdown arrow** next to the green **Create merge request** button. The dropdown lets you customize the branch name for this new merge request. For this exercise, leave it at the default.
+1. Just above the comment box, click the **dropdown arrow** next to the blue **Create merge request** button. The dropdown lets you customize the branch name for this new merge request. For this exercise, leave it at the default.
 1. Click **Create merge request** to make a merge request for a branch named after the issue's title.
 
 ### Edit files on a branch, using GitLab's Web IDE
