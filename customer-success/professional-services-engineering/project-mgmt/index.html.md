@@ -30,7 +30,7 @@ Each PS engagement will have a Google Sheet that shows the contracted revenue an
    - PSE personality match with the customer
    - PSE technical growth path opportunity
    - PSE time zone
-2. Sr. PSE and/or Technical Architect: Communicates decision and reasoning to the #ps_planning slack channel
+2. Sr. PSE and/or Technical Architect: Communicates decision and reasoning to the #ps_planning slack channel with an @mention to the Sr. PS Project Coordinator
 3. Sr. PS Project Coordinator: Reviews resource allocation request and approves/accommodates if possible, depending on existing schedule
 
 **Initiate**
