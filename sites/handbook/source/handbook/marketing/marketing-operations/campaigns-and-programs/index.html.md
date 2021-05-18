@@ -625,12 +625,23 @@ Once a landing page has been set up for a campaign, it is good practice to have 
 1. Marketo will take a few moments to adjust the status and then the name will be removed from the `Members` list
 
 ## Pushing DemandBase Lists to Marketo
-Couple things to note:
--  DB1 can only pass `person` lists, not `account` lists. Double check your list type before looking to send.
--  DB1 Can only pass over existing leads to Marketo, if the prospect doesn't exist in Marketo, it will be skipped.
--  You still need to include email compliance filters on your email sends. This action passes a list, some people may not have consent to email.
+Notes: 
+- DB1 Can only pass over existing leads to Marketo, if the prospect doesn't exist in Marketo, it will be skipped.
+- You still need to include email compliance filters on your email sends. This action passes a list, some people may not have consent to email.
+
+### Checklist befor initiating push to Marketo:
+1. Check your list type. DB1 can only pass `person` lists, not `account` lists. 
+1. Check your numbers on the list. The following applies:
+    - Any list over 10k - you need opps approval to send - tag @amy.waller in the issue if you need to send over 10k 
+    - Use `Engagement Minute` filters at the person level to get down under 100 people per account  
+    - For *geo wide* - i.e. all of AMER West - send should be no more than 10K + 100 at an account 
+    - For *Sub-geo* - i.e all of NorCal - no more than 5k sends + 100 at an account
+    - For *territory* - i.e. Bay Area - no more than 2,500k + 100 at an account 
+
 
 #### Instructions: (some lists and campaigns may already exist, we are in the process of updating templates to speed up this process)
+.<!-->Refer to this video for a walkthrough-- video to be added.<!--><--->
+1. Ensure your list fits the criteria above.
 1. Navigate to the Marketo Program that you would like to add your DB1 list to.
 1. Under `Lists` folder, create a static list with the name `DB_List Push`. 
 1. Under `Smart Campaigns` folder, create a new smart campaign (or if built already, click into the `DB1 List Push` smart campaign) The campaign name should be easily identifiable to you, as you will be searching for it in DB1. Please use `DB` prefix so it's purpose is easily identifiable in Marketo.
