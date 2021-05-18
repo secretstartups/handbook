@@ -161,11 +161,11 @@ In order to make an exception, the TAM or SAL should discuss the details with th
 
 ### EMEA Enterprise
 
-TAM-assigned customers are segmented into three priority tiers: Priority 1 (P1), Priority 2 (P2) and Priority 3 (P3). The prioritization helps TAMs to focus on aligning, enabling and expanding on the customers journey with GitLab.
+TAM-assigned customers are segmented into two priority tiers: Priority 1 (P1) and Priority 2 (P2). Priority 3 (P3) is used for handeling Unmanaged Child Accounts. The prioritization helps TAMs to focus on aligning, enabling and expanding on the customers journey with GitLab.
 
 #### Guidance
 
-Each TAM should aim to have roughly 3 to 6 customers as Priority 1, and the rest as Priority 2 or Priority 3. A smaller number of Priority 1 customers will allow an increased focus, higher effectiveness and better results. A TAM should roughly spend 60% of their time with Priority 1 customers.
+Each TAM should aim to have roughly 5 to 8 customers as Priority 1, and the rest as Priority 2. A smaller number of Priority 1 customers will allow an increased focus, higher effectiveness and better results. A TAM should roughly spend 60% of their time with Priority 1 customers.
 
 #### Parameters influencing the customer prioritization
 
@@ -184,6 +184,6 @@ Following parameters and metrics define the prioritization:
 #### Prioritization process and exceptions
 1. TAM to propose a priority based on the available parameters
 2. Review during weekly 1:1s with the TAM Manager
-3. Alignment with the Sales team and ASMs as part of the account planning activities [SFDC report used during reviews](https://gitlab.my.salesforce.com/00O4M000004aYRs)
+3. Alignment with the Sales team and ASMs as part of the account planning activities in Gainsight)
 
 Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
