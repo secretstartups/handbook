@@ -204,6 +204,23 @@ The below table shows the rules how we select the demand gen related touchpoints
 | Japan-Digital Readiness             | 21q4-jp                                                                                           | ad campaign name incl. '21q4-jp' or campaign name ='2021_Social_Japan_LinkedIn Lead Gen'                                                       |
 | Publishers/Sponsorships             | utm_medium = 'sponsorship' and utm_source ='issa','stackoverflow','securityweekly-appsec'        | parent campaign name='Demand Gen Publishers/Sponsorships' |
 
+## Public Sector Specific Reporting
+{: #pubsec-reporting}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+There have been ongoing changes to best report on Public Sector. The following is the currently held truth on data (fields, next steps, etc.) related to PubSec across Sisense attribution dashboards and SFDC reporting, which should be consistent.
+
+* **Note as of 2021-03-12 `@jennyt`:** the [TD:-Sales-Funnel](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual) report accurately reports on Public Sector data. The Demand Gen and FMM Dashboards do not. Both the Demand Gen dash and FMM dash will be rebuilt on the dimensional model in a few weeks and will accurately report on PubSec after that is complete.
+* **Upcoming changes to comprehensively identify PubSec records:**
+    - (Leads/Contacts) [Split out PUBSEC as a new segment value](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1675) - This is complete.
+        - [Viki Comment 2021-02-22](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/133#note_514119804) Once it is done, it will be automatically visible on the current Demand Gen dashboard - However, this dashboard still is not accurately reporting on PubSec, possibly due to fields not being populated in SFDC or properly pulling into the dashboard.
+    - [Viki Comment 2021-02-22](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/133#note_514119804): Another project is to switch the Demand Gen dashboard to the new Dimensional Data Model that will have a different way of pulling sales segment on the opportunities: it is based on the `opportunity owner segment`
+        - Part of the dimensional model is to determine how to [define the user fields on the lead/contact object](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1201)
+* Background on some previous data point (and some data caveats):
+    - `[TSP] Territory = PubSec` is missing data because `Named` is an option, which means if it’s Named & PubSec, it would not be pulled in.
+    - `.PubSec Owner? [TEMP]` - DO NOT USE (not used in Sisense per [Robert's comment](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/133#note_453053428) 2020-09-30)
+* [Issue with some PubSec reporting digging](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/862)
+* Currently, the best field to use in SFDC is User Segment = PubSec for Contacts/Accounts. However, this is not available in reports at this time and sales ops needs to add it. It is unknown which field in SFDC to use for Leads.
 
 ## Tactic-Specific Dashboards
 {: #dashboard-by-tactic}
