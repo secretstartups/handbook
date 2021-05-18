@@ -123,7 +123,7 @@ irb(main):003:0> Order.find_by_gl_namespace_name "example"
 #<Order:0x0000000000000
  id: 0000,
  customer_id: 00000,
- product_rate_plan_id: "2c92a0fd5a840403015aa6d9ea2c46d6",
+ product_rate_plan_id: "2c92a00d76f0d5060176f2fb0a5029ff",
  subscription_id: nil,
  subscription_name: nil,
  start_date: Fri, 31 Aug 2019,
