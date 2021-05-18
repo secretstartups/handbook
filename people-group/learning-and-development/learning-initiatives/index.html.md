@@ -172,9 +172,9 @@ Check out recordings of previous Learning Speaker Series calls!
 
 The following process outlines steps for the L&D team to take when planning and implementing the calls.
 
-Anyone or any team can host a Learning Speaker Series for the organization! If interested and there is a topic & speaker lined up, please fill out a [Learning & Development Request template](/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
+Anyone or any team can host a Learning Speaker Series for the organization! If interested and there is a topic & speaker lined up, please fill out a [Learning & Development Request template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
 
-**Planning Issue Template:** Open a `learning-speaker-series` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps outlined below are also included in the issue template and are included here as reference.
+**Planning Issue Template:** Open a `learning-speaker-series` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-speaker-series.md) to host a session. Steps outlined below are also included in the issue template and are included here as reference.
 
 1. Collaborate with exec team, mid-level people leaders, and other interested GitLab Team members to gauge interest and availability to be featured in the call. Be mindful to include diverse voices from across the GitLab team.
 1. Determine if this is an internal or external speaker for the series call. If external speaker, ensure that the speaker has been validated and that the topic covered aligns with our values. External speaker presentations need to aling with how we deliver group conversations.
