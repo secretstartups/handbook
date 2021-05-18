@@ -165,7 +165,7 @@ How to identify if you need to have to lead with a GitOps conversation?
 
 #### Before discovery
 1. Familiarize yourself with the GitOps sales play above - at a minimum watch the enablement video.
-1. Ensure you are going to meet with one of the right [user personas](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#who-to-meet). If not, then inquire from the SAL/AE as to why you are not going to meet with the right user of GitOps.
+1. Ensure you are going to meet with one of the right [user personas](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#who-to-meet).
 1. Familiarize yourself with the top discovery questions, objection handling and differentiators for GitOps.
 
 #### During discovery
