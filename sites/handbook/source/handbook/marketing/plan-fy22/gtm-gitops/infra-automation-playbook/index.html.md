@@ -171,7 +171,7 @@ How to identify if you need to have to lead with a GitOps conversation?
 #### During discovery
 1. Ask the [discovery questions](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#value-discovery). Listen to the customer and understand their pains and challenges.
 1. As you hear their pains, challenges, business objectives and priorities, start using their own terms when explaining to them how GitOps with GitLab can help them.
-1. Understand their technical requirements. For example, look to get answers to the following questions:
+1. Understand their technical requirements. For example, look to get answers to the following technical discovery questions:
   - Do their applications require a hybrid cloud infrastructure or multi-cloud?
   - Do they have any hard-dependencies on any infrastructure-as-code tool? e.g. Terraform, Ansible, etc.
   - Do they need GitOps for K8s, non-K8s or both?
