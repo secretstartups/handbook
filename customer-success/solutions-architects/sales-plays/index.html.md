@@ -90,16 +90,19 @@ Secondary: SA
 
 **Sales Play: New Customers(new logos)**
 
-    1. Choose & create a list of discovery questions based on your customer profile in order to identify pain points
+1. Choose & create a list of discovery questions based on your customer profile in order to identify pain points
     1. Discover the pain points through general discovery questions & resources below:
     1. SA technical discovery [questionaire](https://docs.google.com/document/d/1GZnbqE_rtGFRAJxoeje4mtFyP1AfpLLueESijXgikm4/edit#heading=h.4b6ktib5prk9)
     1. Market [requirements](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#market-requirements-in-priority-order)
     1. Pick the ones that apply from value discovery pains, benefits & required capabilities[here](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#value-discovery)
     1. Discovery questions for customer currently not on secure/protect with specific entry points [highlighted](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions)
     1. Please review potential [objections](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling)from prospects/customers before the meeting
-    1. Identify & get access to high-level DRI for security
-    1. Identify & get access to high-level exec for higher-level initiatives for example: Gitlab is optimized for [cloud native](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gbb4f272403_0_546)
-    1. Propose next steps & get some time while you are speaking with the customer ideally a demo or workshop. We DONOT recommend starting with a POV since it leads to longer sales cycles & unexpected results before doing more discovery & agreeing to success criterias.
+1. Identify & get access to high-level DRI for security
+1. Identify & get access to high-level exec for higher-level initiatives using collateral below
+        1. [Accelerating Digital Transformation](https://about.gitlab.com/solutions/digital-transformation/)
+        1. [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/)
+        1. [Gitlab is optimized for cloud native](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gbb4f272403_0_546)
+1. Propose next steps & get some time while you are speaking with the customer ideally a demo or workshop. We DONOT recommend starting with a POV since it leads to longer sales cycles & unexpected results before doing more discovery & agreeing to success criterias.
 
 **Expected Outcome**
 
@@ -110,19 +113,22 @@ Secondary: SA
 
 SA and SAL
 
-**Sales Play: New team(existing customers)**
-    1. Choose & create a list of discovery questions based on your customer profile in order to identify pain points
-    1.Discover the pain points through general discovery questions
+**Sales Play: New Teams(existing customers)**
+
+1. Choose & create a list of discovery questions based on your customer profile in order to identify pain points
+    1. Discover the pain points through general discovery questions & resources below:
     1. SA technical discovery [questionaire](https://docs.google.com/document/d/1GZnbqE_rtGFRAJxoeje4mtFyP1AfpLLueESijXgikm4/edit#heading=h.4b6ktib5prk9)
     1. Market [requirements](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#market-requirements-in-priority-order)
     1. Pick the ones that apply from value discovery pains, benefits & required capabilities[here](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#value-discovery)
     1. Discovery questions for customer currently not on secure/protect with specific entry points [highlighted](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/#discovery-questions)
     1. Please review potential [objections](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#objection-handling)from prospects/customers before the meeting
     1. Please review all the this [sales play](https://about.gitlab.com/handbook/marketing/sales-plays-cicd/playbook-premium-to-ultimate/#meetings-to-get-to-a-pov-agreement) if your customer is already on Premium
-    1. Identify the director or DRI for secure within the existing customer
-    1. Identify some(smaller) teams within existing customers that will be willing to use Ultimate, so as to provide them with multi-tier pricing.
-    1. Identify & get access to high-level exec for higher-level initiatives for example: Gitlab is optimized for [cloud native](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gbb4f272403_0_546)
-    1. Propose next steps & get some time while you are speaking with the customer ideally a demo or workshop. We DONOT recommend starting with a POV since it leads to longer sales cycles & unexpected results before doing more discovery & agreeing to success criterias.
+1. Identify & get access to high-level DRI for security
+1. Identify & get access to high-level exec for higher-level initiatives using collateral below
+        1. [Accelerating Digital Transformation](https://about.gitlab.com/solutions/digital-transformation/)
+        1. [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/)
+        1. [Gitlab is optimized for cloud native](https://docs.google.com/presentation/d/1oq7ODy9TJpuZqH_tvVtCm2t-C0QkTbuG4ZRlRzRNcUY/edit#slide=id.gbb4f272403_0_546)
+1. Propose next steps & get some time while you are speaking with the customer ideally a demo or workshop. We DONOT recommend starting with a POV since it leads to longer sales cycles & unexpected results before doing more discovery & agreeing to success criterias.
 
 **Expected Outcome**
 
@@ -131,7 +137,7 @@ SA and SAL
 
 **Owner**
 
-SA
+SA and SAL
 
 ### Stage: Technical Evaluations
 
