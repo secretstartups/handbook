@@ -266,7 +266,6 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 1. ***TMR***: The TMR will stage the document in HelloSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
 
 
-
 *  When staging the document for signatures, please note:
     *  Remember to send the document to the team member's _personal_ email address
     *  Select the `assign signature order` option in HelloSign to ensure the team member signs the document first
@@ -283,6 +282,22 @@ _Important Notes:_
 * Make sure you understand the rules for over 40.
 * You must use language in your exit meeting that is in no way forceful of the ex-team member to sign the agreement. Use phrasing such as “if you choose to sign”; “you have a right to have legal council review this document before you sign”, etc.
 
+
+### Team member leave during and investigation
+
+For team members who will be placed on leave during an investigation please follow the process below.  
+
+1. **TMR**: Communicates with Legal, Aligned PBP regarding the decision to place a team member on leave and disable accounts during an investigation.
+1. **TMR**: TMR completes the Suspension bot in the '#offboarding' slack channel to request IT and People Ops support for disabling a team members accounts. This can be found by selecting the lightning bolt or shortcut button in slack in the `#offboarding` channel. 
+1. **TMR**: TMR coordinates with IT and the People experience team in the same manner as an involuntary term to be able to disable accounts when a team member is informed of the decision.
+1. **TMR**: TMR schedules a call with the teammember and manager to inform them of the decision to place the team member on leave while an investigation occurs.
+1. **TMR**: TMR informs the manager and PBP when the conversation is completed and accounts are disabled.  During this period managers will not have access to the team members accounts.
+1. **TMR**: TMR notify IT if a custom Out Of Office message needs to be set on the account and include the message contents. 
+1. **TMR**: TMR send the team member to their personal email the "Team member Suspension letter" via hellosign.  The TMR will upload this document to the team members BambooHR file in the performance folder.
+1. **TMR**: TMR once the investigation is completed the TMR will inform the aligned PBP and manager of the final decision.  If the team member is to be returned to work the TMR will reach out and schedule time to meet with the team member. 
+1. **TMR**: If the team member is returning to work the TMR will inform IT and People experience associate the date that access will be enabled and the team member is removed from leave.
+
+For more information please review the handook page regarding the [Leave during investigations](https://about.gitlab.com/handbook/leadership/underperformance/#team-member-leave-during-an-investigation).
 
 #### Process for Team Members Outside of the US
 
