@@ -285,16 +285,31 @@ In advance of a quarter, the Corporate Team will outline for the GTM Motions an 
 
 Upon communication of the events, a GTM Team will commit to the event and be responsible for supporting all requested issues.
 
-**Rsponsibilities by team:**
-* PMM DRI - Event-specific messaging and positioning for booth, ads, emails, etc. Product and Market SME to consult on strategy and tactics to target our efforts to right personas and segements. Content author/review. Booth duty. Pick up any other appropriate tasks (e.g. write survey questions, recurit a speaker for the sponsored talk, etc.)
-* TMM DRI - <!-- Corporate/TMM to fill out -->
-* Content DRI - email copy <!-- Corporate/Content to fill out -->
-* Campaigns DRI - plan for post-event nurture to drive leads to MQL
+A core need from the GTM Team is to develop a **cohesive** experience from the first email invitation to the final email follow up and SDR outreach.
 
-### Alliances
-{: #interlock-corporate-marketing}
-<!-- DO NOT CHANGE ANCHOR -->
-Saumya (and/or others) to provide insights from initial effort with Mayank. Process, templates, timing, who to connect, etc.
+**Usual Needs for Corp Events & Teams as DRIs:**
+* Cohesive event-specific messaging and positioning across event: PMM
+* Consult on tactics to target our efforts to right personas and segements: PMM
+* Website needs: Digital Experience
+* Ad copy: PMM
+* Relevant links for the booth experience: PMM/TMM
+* Invitation email copy: Content
+   - PMM review for cohesive message
+   - Campaigns review for email conversion best practices
+* Email setup: Verticurl (Agency)
+* Follow up email copy: Content
+   - PMM review for cohesive message
+   - Campaigns review for email conversion best practices
+* Post-event Marketo add to nurture: Verticurl (Agency)
+* Marketo program setup: Verticurl (Agency)
+   - when questions on program type arise, work with MOps
+* Track lead progression to MQL: Campaigns
+   - look for opportunities to optimize nurture
+* Setup SDR Outreach follow up template: ?? <!-- Do SDRs have these currently? Do they use them? -->
+* List upload: MOps
+* Miscellaneous (examples):
+   - write survey questions: PMM
+   - recruit speaker for sponsored talk: PMM
 
 ### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
