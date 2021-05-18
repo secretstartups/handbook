@@ -67,6 +67,13 @@ On each account's 360, there is a "Follow" button next to the account name. If y
 
 The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/index.html#customer-reference-program-at-gitlab). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer](/handbook/marketing/strategic-marketing/customer-reference-program/#process-for-adding-new-reference-customers).
 
+#### NPS/CSAT Survey Enrollment
+To enroll the correct contacts to recieve the NPS/CSAT Survey 60 days post-onboarding and 60 days pre-renewal it has been integrated as part of the New Customer Onboarding and Renewal Playbooks. A task will be created for the TAM to assign or update a `GitLab Admin` contact when completing these playbooks.
+
+The purpose of this survey is to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what TAM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
+
+Once a `GitLab Admin` is assigned it will require other conditions to be met in order to recieve the [survey program](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/#email-nurture-programs). For more information, see [process following contact role assignment](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/#process-following-contact-role-assignment).
+
 ### Sally the Slack bot
 
 Sally is an AI powered Slack bot that allows you to log customer calls, update customer data, provide information on health scoring, current risks, and opportunities.
