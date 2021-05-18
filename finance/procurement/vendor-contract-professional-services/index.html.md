@@ -20,7 +20,7 @@ title: Vendor Contract Issue Process - Professional Services and all Other Contr
 
 ## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I request approval for a Purchase?
 
-1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=general_vendor_contract_request) to begin the process.
+1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=professional_services_and_general_vendor_contract_request#) to begin the process.
 1. Create this issue **BEFORE** agreeing to business terms and/or pricing.
 1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
 
