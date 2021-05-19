@@ -33,7 +33,7 @@ The purpose of this page is to present some Figma process guidelines. This page 
 * Pages that are ready for engineering should be labeled with the ship icon:
     * 🚢 PAGE NAME 🚢*
 
-Example: In this example, the primary ready pages for engineering are at the top labeled with 🚢  and a divider separates other working pages. 
+Example: In this example, the pages ready for engineering are at the top labeled with a 🚢 icon and a divider separates other working pages. 
 
 ![Diagram of a headless CMS](/images/handbook/growth-marketing/figma-page-naming.png)
 
@@ -41,17 +41,16 @@ Example: In this example, the primary ready pages for engineering are at the top
 * MVCs (ex. 1.0, 1.1, 1.2, 2.0) to match with ENG updates
 
 ## READ:ME
-Add READ:ME boards when appropriate. Some reasons to add READ:MEs are:
+Add READ:ME frames when appropriate. Some reasons to add READ:MEs are:
 
-1. Additional rationale is needed to add clarity and reduce unnecessary feedback loops.
+1. Additional rationale is needed to add clarity and reduce unnecessary feedback loops
 1. Outline functionality that cannot be visually represented
 1. List key decisions made in long issue and MR threads
 1. Link to important issues or docs as needed
 
-[README Template >](https://www.figma.com/file/9GzJNLpyzlFmiimnmEfyt7/README-Templates?node-id=0%3A1)
+[READ:ME Template >](https://www.figma.com/file/9GzJNLpyzlFmiimnmEfyt7/README-Templates?node-id=0%3A1)
 
 ## Feedback loops:
-Add READ:ME boards when appropriate. Some reasons to add READ:ME text are:
 
 * Leave feedback in Issues and MRs when possible.
 * Link to the Figma frame when necessary (check “link to selected frame”)
