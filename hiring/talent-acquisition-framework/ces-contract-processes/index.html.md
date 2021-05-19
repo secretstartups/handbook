@@ -27,7 +27,7 @@ This chart reflects the available signatories for each of GitLab's entities. The
 
 | Entity | Signatory | 
 |-------- | -----|
-| GitLab Inc | Kelly Murdock, Pattie Egan, Wendy Nice Barnes, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document.   | 
+| GitLab Inc | Kelly Murdock, Rob Allen, Pattie Egan, Wendy Nice Barnes, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document.   | 
 | GitLab Federal LLC    |       Bob Stevens, Marc Kriz     |  
 | GitLab BV Belgium, Dutch & English | Carol Teskey (POA),Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab BV, Netherlands | Carol Teskey (POA), Craig Mestel, Igor Groenewegen-Mackintosh | 
