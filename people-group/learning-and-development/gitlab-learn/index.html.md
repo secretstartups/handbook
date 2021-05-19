@@ -394,13 +394,14 @@ Content Adminitrators and Learning Evangelists might request support from the `P
 | View card analytics | Off |
 | Get leaderboard information | On |
 | User opt out of leaderboard | Off |
+| Create Livestream/AMA | Off |
 | Upload | On |
 | Upload content cover images | On |
 | Enable edgraph | Off |
 | Custom labels | On |
 | Publish links | On |
-| Change author | Off |
-| Bypass curation | Off |
+| Change author | On |
+| Bypass curation | On |
 | Developer | Off |
 | Upload scorm content | On |
 | Use dynamic selection | On |
