@@ -34,7 +34,7 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 
 | Role  | Responsibility | 
 |-----------|-----------|
-| Infrastructure, ITOps and Security | Process Owners responsible for defining and implementing procedures to support Security policies and standards | 
+| Infrastructure | Process Owners responsible for defining and implementing procedures to support Security policies and standards | 
 | Infrastructure Management | Responsible for approving changes to this procedure |
 
 # Change Management Procedure
