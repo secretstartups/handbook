@@ -207,7 +207,7 @@ Follow the instructions for creating an internal gated asset and start the eBook
 
 **Examples:**
 1. [An intermediate guide to GitOps, Kubernetes, and GitLab](/resources-ebook-gitops-kubernetes-gitlab.html)
-2. [The GitLab Remote Playbook](/resources/ebook-remote-playbook/)
+2. [The GitLab Remote Playbook](/company/culture/all-remote/)
 3. [The benefits of single application CI/CD](/resources/ebook-single-app-cicd/)
 
 **Timeline:** 1-3 weeks to plan, research, and draft an eBook. All eBooks should have a launch date on the [editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar).
