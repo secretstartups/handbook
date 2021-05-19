@@ -311,6 +311,7 @@ The full company tech stack list with definitions can be found on the [Business 
 1. An overdue opportunity report goes out every Tuesday to managers.
 1. An email alert goes out directly to the opportunity owner when the oppty is past due upon edit of the opportunity. Ex: an action needs to happen to trigger the email.
 1. Managers have "over due" reports on their dashboards for review as needed.
+1. [Late Renewal Notification & Auto Close Process](https://about.gitlab.com/handbook/sales/sales-renewal-process/#late-renewal-notification--auto-close-process)
 
 </details>
 
