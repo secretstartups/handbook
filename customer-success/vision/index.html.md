@@ -75,7 +75,7 @@ To improve the customer experience, deliver on customer outcomes, and increase n
 
 * Product: License + User + Feature + Use Case
 * Risk: TAM Sentiment + Oppty risks
-* Outcomes: ROI + EBR (assuming EBR is the preso of the Verified Outcomes)
+* Outcomes: Success Plan + Return on Investment (ROI) + Verified Outcomes
 * Voice: Support + Services + Surveys + Digital
 * Engagement: customer + executive
 
