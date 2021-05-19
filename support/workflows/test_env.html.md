@@ -55,6 +55,8 @@ fields.
 
 You can create (ephemeral) testing environments. We recommend using the support-resources project for doing so.
 
+### GCP
+
 #### GCP `support-resources` project (preferred)
 
 Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project. This is the preferred way to create GitLab testing instances.
