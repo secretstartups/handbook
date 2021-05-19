@@ -34,7 +34,6 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 
 | Role  | Responsibility | 
 |-----------|-----------|
-| Security Compliance Team | Responsible for implementing and maintaining Security Policies and oversight of supporting standards and procedures as part of ongoing continuous control monitoring | 
 | Infrastructure, ITOps and Security | Process Owners responsible for defining and implementing procedures to support Security policies and standards | 
 
 # Change Management Standards
@@ -391,7 +390,7 @@ Additionally, during an incident investigation, knowing which high-risk features
 
 # Exceptions
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/engineering/security/#information-security-policy-exception-management-process).
+Exceptions to this process must be [tracked](https://gitlab.com/gitlab-com/gl-infra/production/-/issues) and approved by Infrastructure.
 
 # References
 * Parent Policy: [Information Security Policy](/handbook/engineering/security/)
