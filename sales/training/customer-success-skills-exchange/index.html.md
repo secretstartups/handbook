@@ -23,8 +23,8 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| May 19 |  |              |
-| Jun 2 | [Breaking Changes in 14.0](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/124)  |  Julie Byrne               |
+| May 19 | [Enablement Roundtable - Completed OKR's](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/130)|    John Woods          |
+| Jun 2 |   |               |
 | Jun 16 | [Container Host Security - Getting Started with Falco](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/125) |   Fern Diaz              |
 | Jun 30 | [Reporting Options & Metrics in GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/29) |   Sri Rangan              |
 | Jul 14 |  |                 |
