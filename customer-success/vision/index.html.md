@@ -69,6 +69,22 @@ As part of our customer journey, we highly value the customer's initial experien
 - **First Value**: Represents a small subset of users are using the product in a Production environment. This is achieved when a customer activates 10% of their licenses.
 - **Outcome Achieved**: Represents delivery to original purchase intent. We want to capture the delivery of outcomes against their original purchase intent. New and changed goals will continue to be tracked with the engagement, but not included in this milestone.
 
+### Customer Health 
+
+To improve the customer experience, deliver on customer outcomes, and increase net ARR, GitLab is focused on measuring and improving Customer Health. Customer Health includes multiple health measures that, when aggregated, gives a holistic view into the customer and allows drill-down into specific areas. We have created and adopted the PROVE Value approach:
+
+* Product: License + User + Feature + Consumption
+* Risk: TAM Sentiment + Oppty risks
+* Outcomes: ROI + EBR (assuming EBR is the preso of the Verified Outcomes)
+* Voice: Support + Services + Surveys + Digital
+* Engagement: customer + executive
+
+The intention, both of the P.R.O.V.E. components and overall philosophy, is that we need to "prove value" to the customer.
+
+
+
+
+
 ### Retention and Reasons for Churn
 
 We measure customer success through Net Retention.
@@ -127,11 +143,6 @@ We need to choose a single retention level to measure for customer success, so t
 #### Reasons for Churn / Expansion, Dollar Weighted
 
 A measure of the causes for retention (compared to the same time period for the previous year) MRR decreases (churn) or increases (expansion). Churn is specified as Cancellation or Downgrades. Expansion is specified as Seat Expansion, Product Change, Product Change/Seat Change Mix, or Discount/Price Change. These are reported as a percentage using the change in MRR for the given reason over the total MRR change for all types in either the Churn or Expansion category. Trueups are excluded from these metrics.
-
-### Customer Health 
-
-
-
 
 ## Professional Services Standard Cost
 
