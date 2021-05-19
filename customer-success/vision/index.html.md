@@ -81,7 +81,7 @@ To improve the customer experience, deliver on customer outcomes, and increase n
 
 The intention, both of the P.R.O.V.E. components and overall philosophy, is that we need to "prove value" to the customer.
 
-![Customer Health Vision](/images/)
+![Customer Health Vision](/images/customer-health-score-vision-v2.jpeg)
 
 
 
