@@ -69,13 +69,13 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Stage Adoption: Configure | **Yes** | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Monitor   | **Yes** | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Protect    | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Selling Ultimate to New Customers   | **Yes** | Manual | Success Plan | ROI Success | |
-| Ultimate uptier for existing customers  | **Yes** | Manual | Success Plan | ROI Success | |
+| Selling Ultimate to New Customers   | **Yes** | Manual | Success Plan | ROI Success | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/) |
+| Ultimate uptier for existing customers  | **Yes** | Manual | Success Plan | ROI Success | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/) |
 | Server Migration - On-Prem to On-Prem    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - On-Prem to Self-Managed Cloud    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - On-Prem/Cloud to K8S    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - Self-Managed to GitLab SaaS    |**Yes** | Manual | Success Plan | Stage Adoption | |
-| Geo Implementation  |**Yes** | Manual | Success Plan | ROI Success | |
+| Geo Implementation  |**Yes** | Manual | Success Plan | ROI Success | [Info Sheet](https://docs.google.com/document/d/1Gn93NUWq4RxPvfxJRodEyvb-6-dLqUV6euPV8k9yIvw/edit)<br>[Discovery Questions](https://docs.google.com/document/d/1KgSHHsYFHPB__xA9rlUEbLBRYDlPl6FyKzn1V8I2Wfk/edit)<br>[Implementation Tips&Tricks](https://docs.google.com/document/d/1EhXT-_Wf0GrmDSh2vthca0sl6bWb-1hQruv2lHd4aFs/edit?ts=60356ba2) |
 | Account Triage | **Yes** | Automated | CTA | Risk |      |
 | Low License Utilization | **Yes** | Automated | CTA | Risk |      |
 | Product Risk | **Yes** | Manual | CTA | Risk |      |
