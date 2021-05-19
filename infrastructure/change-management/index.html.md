@@ -36,7 +36,7 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 |-----------|-----------|
 | Infrastructure, ITOps and Security | Process Owners responsible for defining and implementing procedures to support Security policies and standards | 
 
-# Change Management Standards
+# Change Management Procedure
 
 ## Trust
 
