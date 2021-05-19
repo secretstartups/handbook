@@ -288,14 +288,14 @@ _Important Notes:_
 For team members who will be placed on leave during an investigation please follow the process below:  
 
 1. **TMR**: Communicates with Legal, Aligned PBP regarding the decision to place a team member on leave and disable accounts during an investigation.
-1. **TMR**: TMR completes the Suspension bot in the '#offboarding' slack channel to request IT and People Ops support for disabling a team members accounts. This can be found by selecting the lightning bolt or shortcut button in slack in the `#offboarding` channel. 
+1. **TMR**: TMR completes the Suspension bot in the '#offboarding' slack channel to request IT and People Ops support for disabling a team members accounts. This can be found by selecting the lightning bolt or shortcut button in slack in the `#offboarding` channel. Once you complete the form, a message will post to the slack channel, in this message thread you will find a message with a link to another form. This form is only needed/used when a team member is returning from leave. 
 1. **TMR**: TMR coordinates with IT and the People experience team in the same manner as an involuntary term to be able to disable accounts when a team member is informed of the decision.
 1. **TMR**: TMR schedules a call with the teammember and manager to inform them of the decision to place the team member on leave while an investigation occurs.
 1. **TMR**: TMR informs the manager and PBP when the conversation is completed and accounts are disabled.  During this period managers will not have access to the team members accounts.
 1. **TMR**: TMR notifies IT that an Out Of Office message needs to be set on the account and include the message that the team member is OOO and please reach out to their manager.. 
 1. **TMR**: TMR send the team member to their personal email the "Team member Suspension letter" via hellosign.  The TMR will upload this document to the team members BambooHR file in the performance folder.
 1. **TMR**: TMR once the investigation is completed the TMR will inform the aligned PBP and manager of the final decision.  If the team member is to be returned to work the TMR will reach out and schedule time to meet with the team member. 
-1. **TMR**: If the team member is returning to work the TMR complete the suspension bot to notify IT and People Ops that the team member will be returning from leave and the date that accounts should be enabled.
+1. **TMR**: If the team member is returning to work the TMR complete the suspension bot (The form will be located in the orginal slack thread) to notify IT and People Ops that the team member will be returning from leave and the date that accounts should be enabled.
 
 For more information please review the handook page regarding the [Leave during investigations](https://about.gitlab.com/handbook/leadership/underperformance/#team-member-leave-during-an-investigation).
 
