@@ -107,4 +107,4 @@ Company Intelligence allows users to stay up-to-date on their key customers and 
 
 ### Video Enablement 
 
-- [Getting Started with Gainsight](https://www.loom.com/share/b1c4b14020144f3ca6f3f015703a73d3)
+Coming Soon!
