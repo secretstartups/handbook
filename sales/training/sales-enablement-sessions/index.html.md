@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| May 20  | Incident Management |    Kevin Chu  |
+| May 20  |  |     |
 | May 27 | GitOps Infrastructure Automation Sales Play |  Saumya Upadhyaya    |
 | June 3 | Q2 FY22 Competitive Update 1 |    Aleeta Bell  |
 | Jun 10 | DevOps Platform Sales Play |      |
