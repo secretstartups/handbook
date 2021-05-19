@@ -99,6 +99,14 @@ Specifically for *Group* SAML/SCIM (GitLab.com) testing, shared account credenti
 
 For SAML/SCIM testing, please open an access request for GitLab's Okta Preview instance with `admin` role and ability to add *Applications*.
 
+### LDAP Testing Environments
+
+For testing LDAP integrations with a self-managed GitLab instance, you may consider any of these options:
+
+1. [GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/ldap.md).
+1. [Docker container](https://github.com/osixia/docker-openldap).
+1. [Jumpcloud](https://jumpcloud.com/) (Free for up to 10 users).
+
 ### gitlab.support testing domain
 
 If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can use a subdomain of `gitlab.support`. You can confgure this in GCP in the [gitlab-support project here](https://console.cloud.google.com/net-services/dns/zones/gitlabsupport/details?project=support-testing-168620).
