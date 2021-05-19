@@ -177,8 +177,6 @@ There are multiple types of PathFactory experiences that you can create under `C
 
 When adding assets to the [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/), please ensure both the public and internal titles match the title of the asset. Do not add any extra prefixes to the asset title (ex: `[BLOG] - Title of blog`). Content types are already indicated by the content type field. Remove any extra SEO meta title information such as `|GitLab` that is appended to the title once PathFactory pulls in the information about the asset from the URL. Follow the [editorial team's guidelines](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/) for formatting and [case](/handbook/marketing/inbound-marketing/content/editorial-team/#case) (sentence case).
 
-[Title of asset]
-
 ### Tracks 
 
 When creating and editing content tracks, please use the following naming convention to let others know the status of your track. These track names are not shown to the visitor of the track. Name the track so that other `Author` roles understand the use of your track. Add start and end dates for your campaign if relevant so it can be archived/deleted at a later date. Add [persona](/handbook/marketing/marketing-operations/pathfactory/content-library/#personas) in the track title if the track is for a specific persona. [Add a GTM motion](/handbook/marketing/marketing-operations/pathfactory/content-library/#how-to-upload-content) to the title if the track assets are focused toward a specific GTM motion.
