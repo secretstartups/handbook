@@ -65,6 +65,7 @@ In admin, rename the owner's namespace:
 1. Navigate to the namespace in admin - [users](https://gitlab.com/admin/users) or [groups](https://gitlab.com/admin/groups)
 1. Select “Edit” on the profile.
 1. Append "_idle" to the username in case of a user, or to the group URL in case of a group.
+1. Add an [Admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html)
 1. Save changes.
 
 In Zendesk:
