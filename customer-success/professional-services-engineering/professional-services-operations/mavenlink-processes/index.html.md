@@ -249,91 +249,57 @@ Method 3- Mavenlink project activity feed
 
 #### Mavenlink Project Creation
 
-Setting up a project within Mavenlink:
+When SFDC Opportunities reach a stage 5 status, there is a push to Mavenlink which creates the project.
 
-Responsible Role: PC
+There are steps to follow to update the Mavenlink project:
 
-Once the PS Opportunity is closed/ won a notification is sent from SFDC.
+Reponsible Role: PC
+
+Once the PS Opportunity is closed/ won, a notification is sent from SFDC.
 
 1. Review project opportunity and documentation
    - PS Project- SOW
    - Training Project- Order Form or SOW if custom training purchased
-2. Review the contact section of the PS Opportunity and confirm with sales
-3. Send the Welcome to PS Email to customer
+2. Update the project status to In Set Up
+3. Review project settings:
+  - Delete out the Start and End Date
+  - Update [project color](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-status-colors)
+  - Update the project budget to match the budget of the opportunity, SOW or Order Form
+  - Uncheck the include expenses box
+  - Target Margin should be 40%
+  - Update [Rate Card](https://docs.google.com/spreadsheets/d/1yzpCk68aomSxY1vvhZ7dLZEckknx63FQRz3k2bjkFxs/edit#gid=0)
+  - Update task billing mode
+  - Update task default
+  - Review Organization to be sure it is set to GitLab
+4. Update the Custom Fields
+  - Engagement Manager
+  - Add GitLab Project Link
+  - Security Requirements
+  - Project Components
+  - Billing Type
+  - Billing Terms
+  - Passice Acceptance Language
+  - Revenue Release
+5. Review task tracker
+  - For Customer SOW, remove the task and ask the EM to push over the tasks to the Mavenlink project
+  - Once tasks are pushed over to the Mavenlink project, review task hours and milestone budget to be sure they are correct
+  - For SKUd offerings, review the task to be sure they match the SOW or Order form
+    - Also update the task details
+      - PS Category
+      - PS Type
+      - PS Services
+5. Be sure there are no start or due dates set in the task tracker
+6. Add Unnamed resources in the Master Planning until resources have been selected
+7. Add note in the activity section to include the following:
+   - SOW
+   - Order Form
+   - Link to Google drive
+  
+8. Review the contact section of the PS Opportunity and confirm with sales
+9. Send the Welcome to PS Email to customer
    - [Training Template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit#heading=h.vylh0p2padiu)
    - [Consulting Project Template](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit)
-4. Create the project in Mavenlink
-  - Go to Projects => All Projects and then click on the +Add Project button. 
-  - You will want to select the correct template that you want to start your project from
 
-![](./projectfromtemplate.png)
-
-5. Create a New Project:
-- Project Name- Account Name/ Opportunity Name/ Budget Amount
-- Provider - Keep defaulted as **I am the Provider** and Provider Name is **GitLab Professional Services**.
-- Include Start Date and Due Date for the time period that is expected to work the project
-- Project Colors
-  - Blue- Training Only
-  - Yellow- PS Only
-  - Orange- Training & PS 
-  - Yellow- Internal 
-- Include Start date for template if date if tentative date is known
-- Privacy -
-  - Who Can Participate = Open to Organization Members
-  - Who Can See Communications = Posts are Public by Default
-- Remove or include Resources that will be added to the project template
-- Add the project lead if not known at creation, if not be sure to update lead when staffing
-- Add project budget (total amount of opportunity)
-- Add project Target Margin of 40%
-- Review project billing rate, to be sure correct Rate Card is assigned
-  - Currently use Account Rate Card for billable projects
-- Select Task Billing Mode
-  - Fixed Fee
-  - Time & Materials
-- Task Default- should be Billable 
-- Select the Group (Account Name)
-  - If the group name is not available, create the Group Name and assign the project to the group
-
-- Then click Create Project
-- When the project creates, verify the project settings:
-  - Project Name
-  - Project Color
-  - Budget
-  - Target Margin (40%)
-  - Rate Card
-  - Task Billing Mode
-  - Task Default
-  - Group
-- Projects => Project List
-  - Make sure that the project is assigned to the **GitLab-All (Global)** organization
-
-6.  Once the project is created then work through updating the following:
-
-- Within the project side panel, go to the Custom Fields section.
-  - Verify Account, Opportunity, Technical Account Manager, Primary Solutions Architect, Opportunity Owner, and SDR Assigned fields are populated from the SFDC opportunity and account.
-  - Enter Engagement Manager if necessary.
-  - Add GitLab Project Link (URL), Project Components, Security Requirements (if applicable), Passive Acceptance Language, Billing Type, Billing Terms, and Revenue Release.  
-
-- Project Gear sections:
-  - Verify Rates and Roles.
-  - Verify Project Permissions and change the Team Lead assignment, if necessary.
-- Project Status
-  - Change project status to In Setup
-- Project Activity
-  - Add a post to include the quote and PO
-- Project Task Tracker
-  - Modify the milestones and tasks as applicable for your project.
-  - Within each milestone or task, assign the appropriate assignments with the Custom Fields section:  Passive Acceptance Used for Sign Off, PS Category, PS Type, PS Services
-  - Make sure that the budget and billable time estimates are correct.
-  - Make sure that no dates are assigned to the milestones or tasks initially.  You will update the assignees and start and due dates as the project is being scheduled and worked.
-- Project Time & Expenses
-  - Go to the Budget section (right-hand side) and verify that the budget matches for your tasks.
-- Master Planner (add soft allocations)
-  - Go to Planning => Master Planning => Projects
-  - Search for your project
-  - Add an unnamed resource (if there isn't already one) to the project
-  - Add soft allocation for the unnamed resource
-  - You will change the resource to a team member and update to a hard allocation as you work on the project.
 
 #### Mavenlink Project Health Report
 
