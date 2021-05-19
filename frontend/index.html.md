@@ -29,6 +29,7 @@ Do you have a question concerning the frontend for a product area? As a product 
 - Portfolio Management + Geo - [Kushal Pandya](/company/team/#Kushal_Pandya)
 - Web IDE - [Denys Mishunov](/company/team/#mishunov), [Paul Slaughter](/company/team/#pslaughter)
 - Static Site Editor - [Enrique Alcántara](/company/team/#ealcantara)
+- Source Editor - [Denys Mishunov](/company/team/#mishunov)
 
 Technical:
 - Testing - [Illya Klymov](/company/team/#xanf), [Paul Slaughter](/company/team/#pslaughter), [Roman Kuba](/company/team/#rkuba)
