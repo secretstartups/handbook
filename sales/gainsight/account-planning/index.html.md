@@ -96,10 +96,10 @@ Company Intelligence allows users to stay up-to-date on their key customers and 
 1. Using the bell icon in the top right corner of Gainsight, select the gear icon.
 1. Select the Events drop down menue
 1. Next to Company Intelligence, select your notification preferences. Currently the only option is Slack and the updates will arrive via the Gainsight Sally app. 
-      1. Once opted in to Slack notifications [you can request additional real time updates](https://support.gainsight.com/SFDC_Edition/Sally_AI_Bot/User_Guides/Sally_-_the_Gainsight_bot_Overview). Go to slack and send a direct message to "Gainsight Sally." Ask for a summary of an Account you own.
- - [Setting up notifications](https://support.gainsight.com/Gainsight_NXT/Company_Intelligence/FAQs/Company_Intelligence_FAQs).
-  - [Company Intelligence FAQs](https://support.gainsight.com/Gainsight_NXT/Company_Intelligence/FAQs/Company_Intelligence_FAQs).
-   - For a complete overview of Company Intelligence, read [this article](https://support.gainsight.com/SFDC_Edition/Company_Intelligence/About/Company_Intelligence_Overview?mt-draft=true#Overview).
+      1. Bonus: Once opted in to Slack notifications [you can request additional real time updates](https://support.gainsight.com/SFDC_Edition/Sally_AI_Bot/User_Guides/Sally_-_the_Gainsight_bot_Overview). Go to slack and send a direct message to "Gainsight Sally." Ask for a summary of an Account you own.
+- [Setting up notifications](https://support.gainsight.com/Gainsight_NXT/Company_Intelligence/FAQs/Company_Intelligence_FAQs).
+- [Company Intelligence FAQs](https://support.gainsight.com/Gainsight_NXT/Company_Intelligence/FAQs/Company_Intelligence_FAQs).
+- [Company Intelligence, The long version](https://support.gainsight.com/SFDC_Edition/Company_Intelligence/About/Company_Intelligence_Overview?mt-draft=true#Overview).
 
 
 ### Sponsor Tracking
