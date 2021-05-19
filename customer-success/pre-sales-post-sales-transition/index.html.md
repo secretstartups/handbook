@@ -46,11 +46,11 @@ If the Solutions Architect created a collaboration project, the TAM and SA shoul
 
 ### TAM introduction to the customer
 
-At the conclusion of the POV, the Solutions Architect conducts a review meeting with the customer. During this meeting the TAM should be introduced, and provide the customer an overview of the TAM role and what their engagement will look like going forward.
+At the conclusion of the pre-sales engagement, the Solutions Architect conducts a review meeting with the customer. During this meeting the TAM should be introduced, and provide the customer an overview of the TAM role and what their engagement will look like going forward.
 
-The TAM should work with the SA to prepare the [TAM kickoff deck](https://docs.google.com/presentation/d/1JfMfma2IO1OV12QWoNxmIrR0irE7piQP9nUdAjDO2Wk/edit#slide=id.g20a53d489f_0_213) to be presented as part of the meeting. This will be starting point of the TAM's relationship with the customer, and it's important to convey what the TAM's role is, and the expectations from both sides.
+The TAM should work with the SA to prepare the [TAM program overview deck](https://docs.google.com/presentation/d/1n_Tex7gm8_UgxEaUy8YR3wccb73bsWOugdQ9mQX_oMU/edit?usp=sharing) to be presented as part of the meeting. This will be starting point of the TAM's relationship with the customer, and it's important to convey what the TAM's role is, and the expectations from both sides. As this is part of the SA's review with the customer, the TAM portion should not be extensive and should be used to set the stage for future conversations.
 
-Please [review the details for the TAM kickoff call](/handbook/customer-success/tam/onboarding/#kickoff-call) to learn more about how to conduct this meeting.
+From this initial introduction, the TAM should schedule the kickoff meeting with the customer to go into more detail about the customer's objectives and the TAM program. Please [review the details for the TAM kickoff call](/handbook/customer-success/tam/onboarding/#kickoff-call) to learn more about how to conduct this meeting.
 
 ### Shifting responsibility from SA to TAM
 
