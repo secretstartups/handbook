@@ -3,6 +3,29 @@ layout: markdown_page
 title: "GitLab Unfiltered blog handbook"
 ---
 
+# Why we are discontinued the GitLab Unfiltered Blog
+
+## GitLab is no longer publishing to the Unfiltered blog
+
+The last day any blog posts can be added to the GitLab Unfiltered Blog is **May 20, 2021**. Any blog posts with the `category: unfiltered` selection will not be published.
+
+## Why are we no longer publishing new blog posts to Unfiltered?
+
+The Global Content Team has made the thoughtful and conscious decision to cease publishing on the Unfiltered blog as of May 20, 2021. Existing Unfiltered content will remain intact, but we’ll be focusing our efforts on sharing contributions on the [main blog](/blog). We've come to this conclusion given some recent incidents where blog posts have been published without proper guardrails in place. Moving forward, we need to be more mindful of our public-facing posts in order to avoid any negative impact on our brand, the company, and our team members. As we iterate on this change, we hold strong to the values of collaboration and inclusivity and we'll continue prioritize giving team members a voice.
+
+## How can I contribute to the GitLab Blog?
+
+Everyone can contribute at GitLab, and the GitLab Blog is the perfect place to share your ideas for new blog posts. [Start by submitting a pitch for a blog post](/handbook/marketing/blog/#how-to-pitch-a-blog-post). The GitLab Editorial team [reviews pitches to the GitLab blog once a week](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/804552?scope=all&utf8=%E2%9C%93&label_name[]=Blog%3A%3APitch). If your blog pitch is accepted, work with the Editorial team to prepare a draft, which will be reviewed and published to the main GitLab blog.
+
+If for some reason your blog post idea is not a good fit for the GitLab blog, the Editorial team will explain why, and help you find another way to tell your story. There are plenty of other ways to contribute. Sometimes, a blog post is better suited for a content marketing asset like an e-book or topic page, or is a more personal story that could gain traction on a [personal LinkedIn or Medium account](/handbook/marketing/blog/#publishing-natively-on-linkedin-and-medium).
+
+We are working on developing more information about how GitLab team members can use external publishing platforms to share engineering stories related to their work at GitLab – stay tuned!
+
+## I tried publishing to the Unfiltered blog and my pipeline broke – why?
+
+
+# Old information about the Unfiltered blog
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -140,7 +163,7 @@ Comments are welcome, and in fact, encouraged. However, GitLab reserves the righ
 This policy is subject to change at any time.
 {: .alert .alert-info .note}
 
-## After your Unfiltered blog post is published 
+## After your Unfiltered blog post is published
 
 ### Share on relevant Slack channel
 
