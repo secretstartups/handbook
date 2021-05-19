@@ -16,12 +16,6 @@ The Search Marketing team focuses on helping grow revenue for GitLab by increasi
 
 ## Meet the Search Marketing team
 
-[**Shane Rice**](https://about.gitlab.com/company/team/#shanerice)
-
-* Title: Manager, Search Marketing
-* GitLab handle: shanerice
-* Slack handle: @shanerice
-
 [**Niall Cregan**](https://about.gitlab.com/company/team/#niallcregan)
 
 * Title: Search Marketing Manager
