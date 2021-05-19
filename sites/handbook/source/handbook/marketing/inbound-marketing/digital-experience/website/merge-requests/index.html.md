@@ -140,7 +140,6 @@ In our continuous integration environment, people with merge permissions are the
     * /free-trial/
     * /sales/
     * /support/
-    * /handbook/total-rewards/compensation/compensation-calculator/calculator/
 
 ### Handbook
 
