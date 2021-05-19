@@ -11,7 +11,7 @@ The last day any blog posts can be added to the GitLab Unfiltered Blog is **May 
 
 ## Why are we no longer publishing new blog posts to Unfiltered?
 
-The Global Content Team has made the thoughtful and conscious decision to cease publishing on the Unfiltered blog as of May 20, 2021. Existing Unfiltered content will remain intact, but we’ll be focusing our efforts on sharing contributions on the [main blog](/blog). We've come to this conclusion given some recent incidents where blog posts have been published without proper guardrails in place. Moving forward, we need to be more mindful of our public-facing posts in order to avoid any negative impact on our brand, the company, and our team members. As we iterate on this change, we hold strong to the values of collaboration and inclusivity and we'll continue prioritize giving team members a voice.
+The Global Content Team has made the thoughtful and conscious decision to cease publishing on the Unfiltered blog as of May 20, 2021. Existing Unfiltered content will remain intact, but we’ll be focusing our efforts on sharing contributions on the [corporate blog](/blog). We've come to this conclusion given some recent incidents where blog posts have been published without proper guardrails in place. Moving forward, we need to be more mindful of our public-facing posts in order to avoid any negative impact on our brand, the company, and our team members. As we iterate on this change, we hold strong to the values of collaboration and inclusivity and we'll continue to prioritize giving team members a voice.
 
 ## How can I contribute to the GitLab Blog?
 
