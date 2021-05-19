@@ -81,7 +81,7 @@ To improve the customer experience, deliver on customer outcomes, and increase n
 
 The intention, both of the P.R.O.V.E. components and overall philosophy, is that we need to "prove value" to the customer.
 
-![Customer Health Vision](images/customer-health-score-vision-v2.jpeg)
+![Customer Health Vision](images/customer-health-score-vision.jpeg)
 
 For a detailed description of Customer Health and Early Warning System methodology, see [Customer Health Scoring](/handbook/customer-success/customer-health-scoring). This will include the methodology around how we score the health of accounts, along with how we enable the team toward a proactive renewal approach. 
 
