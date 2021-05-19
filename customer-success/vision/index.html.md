@@ -73,7 +73,7 @@ As part of our customer journey, we highly value the customer's initial experien
 
 To improve the customer experience, deliver on customer outcomes, and increase net ARR, GitLab is focused on measuring and improving Customer Health. Customer Health includes multiple health measures that, when aggregated, gives a holistic view into the customer and allows drill-down into specific areas. We have created and adopted the PROVE Value approach:
 
-* Product: License + User + Feature + Consumption
+* Product: License + User + Feature + Use Case
 * Risk: TAM Sentiment + Oppty risks
 * Outcomes: ROI + EBR (assuming EBR is the preso of the Verified Outcomes)
 * Voice: Support + Services + Surveys + Digital
