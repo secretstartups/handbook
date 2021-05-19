@@ -56,4 +56,7 @@ Abuse Case:
 `2021-05-01 | Flagged for terms violation |  Abuse Case | https://gitlab.zendesk.com/agent/tickets/123`
 
 User Blocked:
-`2021-05-01 | User blocked by infra | see https://gitlab.com/gitlab-com/support/internal-requests/issues/441`
+`2021-05-01 | User blocked by infra | https://gitlab.com/gitlab-com/support/internal-requests/issues/441`
+
+Name Squatting Rename:
+`2021-05-01 | Name Squatting Request | https://gitlab.zendesk.com/agent/tickets/123`
