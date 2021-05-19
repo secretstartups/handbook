@@ -966,14 +966,14 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 
 This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
-**New Business/Add-On Opportunities:**
+##### New Business/Add-On Opportunities:
 - <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Quote Start Date* as reflected on the opportunity.
   - New Business and Add-On opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
     - _New Business Example: A customer would like to purchase a new subscription starting on May 1, 2021. The deal is worked out early, and all necessary booking documents are received on March 1, 2021. Sales submits the opportunity for approval on March 2, 2021. The deal is then reviewed by Deal Desk, but the close date is updated to April 16, 2021 upon Deal Desk approval. The opportunity is held in stage 7-Closing until April 16, 2021, when Billing approves the opportunity and sends an invoice to the customer._
   - Ramp Deals: All future-year ramp opportunities will be Closed Won at the same time as the first-year ramp opportunity. Post-closure, any out-year ramp opportunity close dates will updated to match the start date of the ramp. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
     - _Ramp Deal Example: A customer would like to purchase a new three-year ramped subscription starting on May 1, 2021. Three opportunities are built for this deal - one for Year 1 (2021-05-01 to 2022-04-30), one for Year 2 (2022-05-01 to 2023-04-30), and one for Year 3 (2023-05-01 to 2024-04-30). The deal is worked out early, and all necessary booking documents are received on March 1, 2021. Sales submits the opportunities for approval on March 2, 2021. The opportunities are then reviewed by Deal Desk. Upon Deal Desk Approval, the Year 1 close date is updated to April 16, 2021. The Year 2 close date is updated to April 16, 2022. The Year 3 close date is updated to April 16, 2023. The opportunity are held in stage 7-Closing until April 16, 2021, when Billing approves the opportunities and sends an invoice to the customer._
 
-**Renewal Opportunities:**
+##### Renewal Opportunities:
 - <ins>Renewal opportunities with Expansion or Contraction</ins> (Net ARR not equal to $0) will be Closed Won *no more than 15 days prior to the Quote Start Date* (i.e. the Renewal Date) as reflected on the opportunity.
   - Renewal opportunities with Expansion or Contraction submitted for approval after the Quote Start Date (i.e. Renewal Date) will be Closed Won on the date of approval submission.
     - _Renewal with Expansion Example: A customer's subscription has a renewal date of May 1, 2021. The renewal (with added users!) is worked out early, and all necessary booking documents are received on March 1, 2021. Sales submits the opportunity for approval on March 2, 2021. The deal is then reviewed by Deal Desk, but the close date is updated to April 16, 2021 upon Deal Desk approval. The opportunity is held in stage 7-Closing until April 16, 2021, when Billing approves the opportunity and sends an invoice to the customer._
@@ -982,7 +982,7 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
   - Flat Renewal opportunities submitted for approval after the Quote Start Date will be Closed Won on the date of approval submission.
     - _Flat Renewal Example: A customer's subscription has a renewal date of May 1, 2021. The renewal (flat, no Net ARR) is worked out early, and all necessary booking documents are received on March 1, 2021. Sales submits the opportunity for approval on March 2, 2021. The deal is then reviewed by Deal Desk, but the close date is updated to May 1, 2021 upon Deal Desk approval. The opportunity is held in stage 7-Closing until May 1, 2021, when Billing approves the opportunity and sends an invoice to the customer._
 
-**Late Renewals:**
+##### Late Renewals:
 - If a renewal is achieved *within 45 days after the Quote Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
 - **Renewal opportunities must be Closed Lost if the renewal is not achieved within 45 days after the Quote Start date (Renewal Date).**
 - If a renewal is achieved *more than 45 days after the Renewal Date, but less than 180 days after the Renewal Date*:
@@ -992,7 +992,11 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
   - The transaction should be recorded as a New Business opportunity, using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). The original Closed Lost opportunity will not be reversed.
 
 **Exceptions:**
-- Any exceptions to this policy must be approved in SFDC Chatter by the CFO.
+- Any exceptions to the Late Renewal Policy must be documented in SFDC Chatter and include the following details:
+  - Relevant details about the account/opp seeking a late renewal extension
+  - Why an exception is needed (justification)
+  - Impact to the business (Net ARR or Renewal ARR loss)
+  - **Approval from both** GitLab CRO and CFO (or Principal Accounting Officer)
 
 **Do I have to wait to submit my opportunity for approval?**
 - All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
