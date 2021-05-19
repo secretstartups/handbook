@@ -14,7 +14,7 @@ description: "This page is an overview of the processes, reports, and systems th
 
 ## People Technology & Insights Process Framework
 
-This page is an overview of the processes, reports, and systems that the People Technology & Insights Team is responsible for. While [Issues](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new) are best medium for fielding questions related to the aforementioned topics, we hold [Office Hours](https://docs.google.com/document/d/1JdyLg8OvYpGGLoNGpP6HhXvuoxInccZrpNJmX3pp91Y/edit) on the fourth Wednesday of each month at 11:00 am ET (3:00 pm GMT).
+This page is an overview of the processes, reports, and systems that the People Technology & Insights Team is responsible for.
 
 ### System Access
 
@@ -107,13 +107,14 @@ Please [contact the People Technology & Insights Team](https://gitlab.com/gl-tal
 * **Seat Management**
    * To provision a LinkedIn seat requested via an Issue, please do the following:
        1. Log into LinkedIn, then click the `Recruiter` icon in the upper-right corner.
-       1. Hover over your profile picture, then select `Manage user` from the menu.
-       1. Click `Assign seat`, select the `Seat type`, enter the Team Member's email, then click `Add`.
+       1. Hover over your profile picture, then select `Manage user in Account Center` from the menu.
+       1. Click `Add new users` > `Add users by email` > add the users GitLab email address > click `Add`.
+       1. Select the desired role and click `Confirm` to save.
   * To park (i.e. deactivate) a seat, please do the following:
        1. Log into LinkedIn, then click the `Recruiter` icon in the upper-right corner.
-       1. Hover over your profile picture, then select `Manage user` from the menu.
-       1. Search for the Team Member in the `Search for seat holders by name` search bar.
-       1. Click `Edit`, then `Park seat` to deactivate the seat.
+       1. Hover over your profile picture, then select `Manage user in Account Center` from the menu.
+       1. Search for the Team Member in the `Search by name, email, title, project... ` search bar.
+       1. Click `Actions`, then `Park` to deactivate their seat.
            * If the Team Member is a member of the *Talent Acquisition-* or *Sourcing Team*, please use the `Reassign seat` option and assign their seat to their Manager.
 * **Managing LinkedIn Recruiter tags**
     * For admins only: Navigate to `Product Settings` after hovering over your user icon. Under `Recruiter Settings`, select `Tags`.
@@ -121,8 +122,11 @@ Please [contact the People Technology & Insights Team](https://gitlab.com/gl-tal
     * If and when you encounter an error/issue with LinkedIn that you're unable to solve for, you can take one of two actions.
         1. Email GitLab's *Customer Success Manager* or...
         1. Submit a ticket by visiting the following link: https://www.linkedin.com/help/recruiter/ask.
-* **Changing a Hiring Manager Seat to a Recruiter Seat**
-    * Submit a ticket by visiting the following link: https://www.linkedin.com/help/recruiter/ask.
+* **Changing a Hiring Manager Seat to a Recruiter Seat (or Vice Versa)**
+    1. Log into LinkedIn, then click the `Recruiter` icon in the upper-right corner.
+    1. Hover over your profile picture, then select `Manage user in Account Center` from the menu.
+    1. Search for the Team Member in the `Search by name, email, title, project... ` search bar.
+    1. Click `Manage license` and select the desired role type.
 
 </details>
 
@@ -142,13 +146,12 @@ Please see the list below of roles where `Location Factor` is **not** applicable
   Roles Where Location Factor is Not Applicable
   </summary>
 
-  * Account Executive - Mid Market
-  * All SDR roles (IC and Management)
+  * Account Executive - Mid-Market
   * Area Sales Manager
   * Channel Sales Manager
   * Channel Services Manager
-  * Inside Sales Rep
-  * Junior Account Executive - Mid Market
+  * Inside Sales Representative
+  * Junior Account Executive - Mid-Market
   * Junior Channel Sales Manager
   * Junior Strategic Account Leader
   * Manager, Public Sector Inside Sales
@@ -156,9 +159,10 @@ Please see the list below of roles where `Location Factor` is **not** applicable
   * Public Sector Channel Manager
   * Public Sector Strategic Account Leader
   * Regional Sales Directors
+  * Sales Development Representative (IC and Management)
   * Senior Channel Sales Manager
   * Senior Channel Sales Manager
-  * Senior Inside Sales Rep
+  * Senior Inside Sales Representative
   * Senior Strategic Account Leader
   * SMB Customer Advocate
   * Strategic Account Leader
@@ -288,7 +292,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
     * Job Status = All
     * Departments = All Departments
     * Check *"Include Migrated Candidates"*
-* **Instructions**: Pull and export the report into the *Applies to Offer Accepts* sheet. Filter the report to the desired month and **add** a column for `Time to Accept`. Using the `DATEDIF` function, calculate the *Applied On Date* to the *Accepted Date* measuring days.
+* **Instructions**: Pull and export the report into the * FYXX Applies to Offer Accepts* sheet. Filter the report to the desired month and **add** a column for `Days to Accept`. Using the `DATEDIF` function, calculate the *Applied On Date* to the *Accepted Date* measuring days. Add three more columns - `Locality`, `Location Factor (Minus Applicable Sales Roles)`, and `Overall Location Factor` - and reference the candidate's Greenhouse **Offer Details** tab to determine their `Locality`. As for `Location Factor`, please reference the [Compensation Calculator](https://comp-calculator.gitlab.net/users/sign_in) and please be mindful to **exculde** roles where the `Location Factor` is not applicable.
 
 </details>
 
