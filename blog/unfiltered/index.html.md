@@ -23,8 +23,16 @@ We are working on developing more information about how GitLab team members can 
 
 ## I tried publishing to the Unfiltered blog and my pipeline broke – why?
 
+We added a linter to `lib/tasks/lint.rake` called `lint:blog:unfiltered`. It checks the blog directory for any files labelled past 2021-05-20 that use the `categories: unfiltered` frontmatter. 
 
-# Old information about the Unfiltered blog
+If the linter finds a blog post past 2021-05-20 with that category, it will trigger a failure status code in your pipeline, and should link back to this handbook page for a full explanation. 
+
+That linter relies on correctly formatted blog posts names with valid [ISO 8601 dates](https://en.wikipedia.org/wiki/ISO_8601) in their file name. It will also fail if you used an incorrect formatted date in your file name. For example: `2021-1-15-blog-post-title.md` would trigger a failure, even if it didn't use the `unfiltered` category, because it is missing one digit. The correct file name should be `2021-01-15-blog-post-title.md`. We require this to make the unfiltered linting quick and maintainable. 
+
+<!-- 
+
+This content should no longer be visible, but we have left it in a comment to maintain the work Rebecca did on this page in case we ever need to draw on the legal disclaimer and guidelines in the future.
+Please refer to this MR conversation for more details: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/82453#note_580039930
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -42,18 +50,18 @@ Corporate news, product announcements, or any post which requires promotion from
 
 ```mermaid
 graph TD
-A[My blog post...] --> B(Needs promotion on GitLab social channels)
-B --> C[Yes]
-C --> H[Main blog]
-A --> E[Is about...]
-E --> G[Product announcements]
-E --> J[Company news]
-E --> L[Something else]
-L --> M[Unfiltered]
-J --> K[Main blog]
-G -->K
-B --> D[No]
-D --> F[Unfiltered]
+A[My blog post...] -> B(Needs promotion on GitLab social channels)
+B -> C[Yes]
+C -> H[Main blog]
+A -> E[Is about...]
+E -> G[Product announcements]
+E -> J[Company news]
+E -> L[Something else]
+L -> M[Unfiltered]
+J -> K[Main blog]
+G ->K
+B -> D[No]
+D -> F[Unfiltered]
 ```
 ### Examples:
 
@@ -168,3 +176,5 @@ This policy is subject to change at any time.
 ### Share on relevant Slack channel
 
 Post a link to your published Unfiltered blog post on the #unfiltered-blog-updates channel on Slack. Be sure to tag the content editor in your Slack message @skassabian.
+
+-->
