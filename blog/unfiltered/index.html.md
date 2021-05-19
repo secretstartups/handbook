@@ -3,7 +3,7 @@ layout: markdown_page
 title: "GitLab Unfiltered blog handbook"
 ---
 
-# Why we are discontinued the GitLab Unfiltered Blog
+# Why we discontinued the GitLab Unfiltered Blog
 
 ## GitLab is no longer publishing to the Unfiltered blog
 
