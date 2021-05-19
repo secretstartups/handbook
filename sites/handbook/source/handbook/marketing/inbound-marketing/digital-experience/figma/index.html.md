@@ -30,8 +30,8 @@ The purpose of this page is to present some Figma process guidelines. This page 
 
 **Figma file pages:**
 * Workfile pages should be short and clear
-* Pages that are ready for engineering should be with the ship icon:
-    * * 🚢 PAGE NAME 🚢*
+* Pages that are ready for engineering should be labeled with the ship icon:
+    * 🚢 PAGE NAME 🚢*
 
 Example: In this example, the primary ready pages for engineering are at the top labeled with 🚢  and a divider separates other working pages. 
 
@@ -41,7 +41,7 @@ Example: In this example, the primary ready pages for engineering are at the top
 * MVCs (ex. 1.0, 1.1, 1.2, 2.0) to match with ENG updates
 
 ## READ:ME
-Add READ:ME boards when appropriate. Some reasons to add READ:ME text are:
+Add READ:ME boards when appropriate. Some reasons to add READ:MEs are:
 
 1. Additional rationale is needed to add clarity and reduce unnecessary feedback loops.
 1. Outline functionality that cannot be visually represented
@@ -54,9 +54,9 @@ Add READ:ME boards when appropriate. Some reasons to add READ:ME text are:
 Add READ:ME boards when appropriate. Some reasons to add READ:ME text are:
 
 * Leave feedback in Issues and MRs when possible.
-* Link to the Figma frame when necessary (check “Link to selected frame”)
+* Link to the Figma frame when necessary (check “link to selected frame”)
 * Use Figma commenting at your discretion. Ask yourself: Is this an important question that needs to be documented or is it something quick and minor like “this alignment is off, was this intentional?”
-* If another user wants to edit a frame ( artboard) within an existing file, please duplicate (copy and paste) the existing artboard rather than editing it. This will help preserve various iterations in case we want to go back or reuse a component from a previous iteration later.
+* If another user wants to edit a frame (artboard) within an existing file, please duplicate (copy and paste) the existing artboard rather than editing it. This will help preserve various iterations in case we want to go back or reuse a component from a previous iteration later.
 
 How to link to a Figma frame (artboard):
 
