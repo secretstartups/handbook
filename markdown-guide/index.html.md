@@ -90,14 +90,12 @@ Regular paragraphs are obtained by just writing text lines. If you hit **enter**
 both lines will be joined into a single paragraph, which is called [wrapping text][wrap].
 But, if you leave a blank line between them, they will split into two paragraphs.
 
-It is a best practice to write each a paragraph on a single line. Don't put line breaks at the end of each sentence, and don't break up lines at a certain character limit. It is very difficult to review and edit copy with artificial lines breaks.
-
 In some Git tools, `diffs` in future MRs may be easier to understand with additional line breaks, however GitLab's web interface as well as many desktop Git tools feature substring change highlighting within lines and side-by-side or similar version comparison so there is no need for artificial line breaks.
 
 ### Wrapping Text
 
-We usually break the lines within paragraphs to facilitate reviews. Do not leave blank spaces
-after the last word of the line broken within a paragraph, unless you want it to be intentionally
+Splitting long lines (preferably up to 100 characters) can make it easier to provide feedback on small chunks of text. Do
+not leave blank spaces after the last word of the line broken within a paragraph, unless you want it to be intentionally
 broken with a `<br>`.
 
 #### Regular paragraphs and automatic join
