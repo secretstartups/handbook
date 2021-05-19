@@ -997,6 +997,9 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
   - Why an exception is needed (justification)
   - Impact to the business (Net ARR or Renewal ARR loss)
   - **Approval from both** GitLab CRO and CFO (or Principal Accounting Officer)
+  
+- Once all of the above have been documented in Chatter, please tag @sales-support on the associated opporutnity so that Sales Operations can take the appropriate actions to exclude the opportunity from auto closure
+
 
 **Do I have to wait to submit my opportunity for approval?**
 - All opportunities that meet the [Opportunity Booking Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#opportunity-booking-requirements) listed above should be submitted for approval at the time that the requirements are met. Opportunities will remain in stage 7-Closing until they can be Closed Won per this Bookings Policy.
