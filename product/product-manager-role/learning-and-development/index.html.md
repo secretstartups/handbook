@@ -78,7 +78,7 @@ Nicole shares her approach towards prioritization of tech debt with her Engineer
 
 
 <iframe width="560" height="315" src=" https://youtube.com/embed/ofPUh5Um1Pk" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
-
+<p>
 
 <iframe width="560" height="315" src=" https://youtube.com/embed/oRLrNkyrEfw" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
