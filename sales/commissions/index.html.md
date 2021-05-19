@@ -13,7 +13,6 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 
 - Lisa Puzar, Senior Manager, Sales Commissions
 - Swetha Kashyap, Sales Commissions Manager
-- Rachel Davies, Sales Commissions Analyst
 
 ## **What's New?**
 
