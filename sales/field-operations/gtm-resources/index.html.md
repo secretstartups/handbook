@@ -1179,6 +1179,7 @@ Example Sponsor Activities
 - TAM should contribute to the briefing including:
   - Progress on delivering to outcomes, material delivery of value and/or improvements, and customer successes/wins
   - Any notable issues (past or present), concerns, and/or requests that may be presented by the customer
+- Make sure to brief your executive sponsor on the goals and objectives of the pending meeting or interaction as well as the follow-up meeting or interaction. This allows the executive sponsor to set expectations for the timing and goal for the next follow-up.
 
 ### Opportunity Sponsorship
 
