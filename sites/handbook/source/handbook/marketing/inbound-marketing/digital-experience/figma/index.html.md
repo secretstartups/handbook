@@ -29,9 +29,9 @@ The purpose of this page is to present some Figma process guidelines. This page 
     * *`Pricing Page / Mock / 1.0`*
 
 **Figma file pages:**
-* Workfile pages should be short and clear
+* Page names should be short and clear
 * Pages that are ready for engineering should be labeled with the ship icon:
-    * 🚢 PAGE NAME 🚢*
+    * 🚢 PAGE NAME 🚢
 
 Example: In this example, the pages ready for engineering are at the top labeled with a 🚢 icon and a divider separates other working pages. 
 
@@ -55,9 +55,9 @@ Add READ:ME frames when appropriate. Some reasons to add READ:MEs are:
 * Leave feedback in Issues and MRs when possible.
 * Link to the Figma frame when necessary (check “link to selected frame”)
 * Use Figma commenting at your discretion. Ask yourself: Is this an important question that needs to be documented or is it something quick and minor like “this alignment is off, was this intentional?”
-* If another user wants to edit a frame (artboard) within an existing file, please duplicate (copy and paste) the existing artboard rather than editing it. This will help preserve various iterations in case we want to go back or reuse a component from a previous iteration later.
+* If another user wants to edit a frame within an existing file, please duplicate (copy and paste) the existing artboard rather than editing it. This will help preserve various iterations in case we want to go back or reuse a component from a previous iteration later.
 
-How to link to a Figma frame (artboard):
+How to link to a Figma frame:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/742c94495ee8456cb59893659bd2688a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
