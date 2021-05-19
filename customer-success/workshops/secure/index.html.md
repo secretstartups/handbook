@@ -9,8 +9,6 @@ title: "Secure Workshop"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-⛔️⚠️ **This workshop is still under development and is not yet ready for scale beyond the MVC workshop delivery. This page, and the [OKR for the workshop's development](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/128), will be updated as it progresses.** ⚠️⛔️
-
 ## Overview
 
 The Secure Workshop is a Customer Success activity to provide customer enablement on [Secure stage features](https://about.gitlab.com/stages-devops-lifecycle/secure/).
@@ -79,7 +77,7 @@ Set up a planning review meeting in advance of the workshop delivery date with t
 
 The materials for this workshop are intended to be delivered based on the customer's expressed interest in Secure capabilities. Depending on your level of familiarity with the Secure stage capabilities, you (and your [supporting team members](#team-support)) can conduct the session directly, or utilize available pre-recorded videos.
 
-⚠️ _The slide decks provided are currently for the entire Secure stage, but we are developing per-feature decks to make the delivery modular._
+The slide decks provided contain information for the entire Secure stage. You can make a copy of the deck(s) you need for your workshop, and tailor the content to the features you'll be covering with the customer.
 
 ### Slide Decks
 
