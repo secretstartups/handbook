@@ -107,4 +107,11 @@ Company Intelligence allows users to stay up-to-date on their key customers and 
 
 ### Video Enablement 
 
-Coming Soon!
+- [Gainsight Kickoff and Demo](https://www.youtube.com/watch?v=Xhor2IIsCQQ)
+
+
+**Getting Started with Gainsight** 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3bc8692532e94a37ba693c14e36d1d8a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+**Completing the Account Snapshot in Gainsight**
+<div style="position: relative; padding-bottom: 69.76744186046511%; height: 0;"><iframe src="https://www.loom.com/embed/09f6d86b58f042da860185fe947814c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
