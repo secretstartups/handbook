@@ -25,14 +25,17 @@ The Support team use one of two systems to ensure tickets get replies within the
 
 ### What is the Support Response Crew?
 
-The Support Response Crew replaces SLA Hawk and FRT Hawk to help us meet our service level objectives and to ensure customers get timely replies. The [original issue where the idea was proposed](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2684) describes the reasons for introducing a new system.
+The Support Response Crew helps us to: 
+- identify DRIs for tickets
+- meet our service level objectives 
+- ensure customers get timely replies 
 
 ### How does it work?
 
 - Each regional team that participates will create their own schedule
 - The team is divided into five equal size 'crews' (one for each week day, Monday to Friday)
 - Think of 'crews' like an airline crew who look after the flight and then swap with another crew
-- On the day your crew is allocated, you follow the process below to help send first replies, prevent tickets breaching SLAs and triage tickets
+- On the day your crew is allocated, you follow the process below to help send first replies/take on new tickets, prevent tickets breaching SLAs and triage tickets
 - Work as a group to share the load and help each other
 - Each week the day your crew is active changes. This is to make work fair (e.g. Friday's are generally quieter)
 
@@ -47,24 +50,32 @@ The Support Response Crew replaces SLA Hawk and FRT Hawk to help us meet our ser
 
 ### The Response Crew in Action
 
-1. **Send first replies to tickets**
+1. **Send first replies to All-Regions and Preferred Region tickets and take ownership of those tickets**
+1. **Take ownership of any tickets that don't yet have an assignee**
 1. **Prevent breaches** for **SAAS (.com) and self-managed tickets**
 1. **Triage tickets (process 'needs-org' view)**
 
 The response crew does **not** work with **Licensing and Subscription tickets**. Support Engineers focused 100% on those tickets are not part of the response crew rotation.
 
+### Success Criteria
+
+A Support Response Crew is succesful when:
+
+1. All **new** All Regions and Preferred Region tickets receive a reply within SLA.
+1. 100% of All Regions and Preferred Region tickets have an assignee.
+
 #### 1. Sending first replies
 
 Work with your crew to send first replies as tickets arrive.
 
-When new self-managed or SaaS tickets with an SLA are received, there will be a notification in the `#support_response-crew` Slack channel. We have a contractual obligation to reply within the SLA so it's important we reply to all these tickets within the SLA.
+When new Self-managed or SaaS tickets with an SLA are received, there will be a notification in the `#support_response-crew` Slack channel. We have a contractual obligation to reply within the SLA so it's important we reply to all these tickets within the SLA.
 
 1. Look for new ticket notifications in the `#support_response-crew` Slack channel
 1. Add the `:eyes:` emoji reaction to to **show you're looking** at a ticket. (You can remove this if you've looked and don't know how to reply, or start a thread and ask your crew to collaborate with you.)
 1. Some new tickets will have received an **automatic reply** in Zendesk and already be `Pending`. Add the `:white_check_mark:` emoji reaction so the rest of your crew knows that it's been taken care of. (You might like to read the customer's request and send an additional human reply if that will be helpful to the customer.)
 1. Send a reply to the customer (see FAQ below for tips on how to send a quick initial reply and then work on the ticket later)
     1. If the **ticket priority** does not match our [Definitions of Support Impact](/support/#definitions-of-support-impact) let the customer know and agree on the new priority. Use the macro [General::Changed priority](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Changed%20priority.yaml).
-   1. We **strongly recommend assigning the ticket to yourself** when sending the first reply. You can always reassign later in the ticket's life. If the ticket has a preferred region outside of your region or you're taking PTO following your crew day, CC yourself on tickets you send during your crew shift. Doing so will keep you updated on the ticket progress while giving others the option to assign the ticket to themsselves.
+   1. **Assign the ticket to yourself** when sending the first reply for tickets within your preferred region. You can always reassign later in the ticket's life. If the ticket has a preferred region outside of your region or you're taking PTO following your crew day, CC yourself on tickets you send during your crew shift. Doing so will keep you updated on the ticket progress while giving others the option to assign the ticket to themselves.
 1. Add the `:white_check_mark:` emoji reaction to the bot message **when you've replied** to the ticket so the rest of your crew knows that it's been taken care of.
 1. If the ticket has the potential to become an emergency ping the engineer on-call for a heads-up.
 
@@ -103,16 +114,20 @@ Work with your crew to prevent breaches.
 
 **FAQ about preventing breaches**
 
-1. What if the ticket **has an assignee**?
+1. If the ticket **has an assignee**?
    1. If the assignee is in your Region, link the ticket in Slack and ping them asking if they are able to take a look.
    1. If the assignee is from another Region and it's during their “office hours” ask them if they could take a look.
    1. If the assignee is unavailable and the ticket/customer needs an update, follow the next step below.
    1. If the assignee can’t currently work the ticket ask them to follow the Process in action for [Working on Tickets](#the-process-in-action-2).
-1. If the ticket **has no assignee**, or **assignee is unavailable**:
+1. If the **assignee is unavailable**: 
     1. Read the ticket and if you you know what the next action is, do that (e.g. ask the customer for more information, send your own reply or the solve the ticket if the issue is resolved).
     1. If you're not sure how to respond, talk with your crew in Slack or on Zoom and work together to get a reply out.
     1. If noone on your crew knows how to respond, try to locate a subject matter expert or ping a support manager for advice.
     1. It's OK to send a reply to the customer letting them know you're working on their ticket to prevent a breach. But you must be good on your promise and get back to them. We recommend such replies 'assign to self and submit as Open' while you work on the more detailed reply.
+1. If the ticket **has no assignee**
+    1. Read the ticket and if you know what the next action is, do that (e.g. ask the customer for more information, send your own reply or the solve the ticket if the issue is resolved).
+    1. If you're not sure how to respond, talk with your crew in Slack or on Zoom and work together to get a reply out.
+    1. Assign the ticket to yourself.
 
 #### 3. Triaging tickets - process 'needs-org' view
 
