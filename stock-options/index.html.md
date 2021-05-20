@@ -246,11 +246,11 @@ All exercise activity will be suspended one week prior to the effective date of 
 
 The anticipated schedule is below and an announcement will also be made in Slack one week prior to the window closing, in an effort to keep team members aware.
 
-| **Anticipated 409a Effective Date**       | **Anticipated Board Meeting (Approval)** | **Anticipated Last Day to Exercise** |
-| :----------------------- | :--------------------------------------- | :----------------------------------- |        
-| June 1, 2021             | June 17, 2021             	              | May 24, 2021	                       |
-| September 1, 2021        | September 30, 2021                       | August 24, 2021   		               |
-| December 1, 2021         | December 14, 2021                        | November 24,2021		                 |
+| **Anticipated Last Day to Exercise** | **Anticipated 409a Effective Date**       | **Anticipated Board Meeting (Approval)** |
+| :----------------------------------- | :----------------------- | :--------------------------------------- |
+| May 24, 2021	                       | June 1, 2021             | June 17, 2021             	             |
+| August 24, 2021   		           | September 1, 2021        | September 30, 2021                       |
+| November 24,2021		               | December 1, 2021         | December 14, 2021                        |
 
 ### Option Expiration
  
