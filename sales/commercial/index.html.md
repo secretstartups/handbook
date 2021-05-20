@@ -196,6 +196,10 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 - Where possible, use the customer's logo.
 - It is appropriate to ask the customer for a blank template.
 
+1. **Customer Agreed-upon Agend**
+
+- When meeting with the customer, leverage an agreed upon agenda to aide in co-selling.
+
 1. **Calculated ROI of GitLab v. Next Best Option**
 
 - For New Business the next best option could be 'do nothing' or our competition.
