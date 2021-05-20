@@ -55,6 +55,28 @@ Sub-values clarify what a given core value means and looks like *at GitLab*.
 Understanding this distinction is critical to thriving at GitLab,
 particularly for [newer team members](/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
 
+#### Process for Managing Sub-values
+
+**Creating a new sub-value**
+
+1. A Team Member must submit a Merge Request to **add** a sub-value to the Handbook Page 
+1. The GitLab Value Handbook Page owner must approve and merge the request.
+
+**Modifying an existing sub-value**
+
+_There are instances when expanding the scope of an existing sub-value is a better approach an instead of adding a new sub-value_
+
+1. A Team Member must submit a Merge Request to **modify** a sub-value that already exists in the Handbook Page 
+1. The GitLab Value Handbook Page owner must approve and merge the request.
+
+**Removing an existing sub-value**
+
+_Values are not just things we do but things that actively drive good behaviour.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behaviour.  If we don't cull our sub-values, then we will be like every other company, things that make sense but are not leading to a better culture._
+
+1. A Team Member must submit a Merge Request to **remove** a sub-value from the Handbook Page 
+1. The GitLab Value Handbook Page owner must approve and merge the request.
+
+
 ## 🤝 Collaboration
 {:#collaboration .gitlab-purple}
 
