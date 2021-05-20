@@ -25,7 +25,7 @@ Use the appropriate workflow on this page when a user requests one of the follow
 
 Account deletion and data access requests go through a few stages before they can be closed, and it can be difficult to keep track of what stage in the process each request is in at any given time. Consider creating an issue board within the account deletion project and use the `Awaiting::Challenge Answers`, `Awaiting::Deletion`, and `meta-issue` labels to track the progress of each request. See [this board](https://gitlab.com/gitlab-com/gdpr-request/-/boards/2316580?assignee_username=tristan&) for an example.
 
-**NOTE:** The user must now confirm their intent to delete for any account deletion request when they submit the form, otherwise they will not be allowed to send us their request. After submission, the form entries are automatically checked and validated (such as the username, email address, and if the account is part of a paid namespace).
+**NOTE:** The user must now confirm their intent to delete for any account deletion request they submit, otherwise they will not be allowed to send in their request. After submission, the form entries are automatically checked and validated (such as the username, email address, and if the account is part of a paid namespace).
 
 An issue in our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project *will be created* for invalid requests, however all invalid requests will have `Invalid request received` in the title of the issue, and are scheduled to automatically close. No action is required for these issues.
 
@@ -74,7 +74,7 @@ The only requests we need to take action on are:
 
 ### Personal Account Requests Service Desk
 
-When a user submits a personal request using the [Personal Data Request form](https://gitlab-com.gitlab.io/support/support-ops/account-deletion-form-temp/),  an issue is automatically created in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/-/issues/service_desk), meaning comments made on it will be emailed to the submitter.
+When a user submits a personal request using the [Personal Data Request form](https://gitlab-com.gitlab.io/support/support-ops/account-deletion-form-temp/), an issue is automatically created in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/-/issues/service_desk), meaning comments made on it will be emailed to the submitter.
 
 Upon submission, the submitter will receive an autoresponder depending on the request and outcome of the initial validation. The autoresponse they receive will be in the initial description of the issue, along with a copy of the form entries that were submitted.
 
@@ -90,14 +90,16 @@ Upon submission, the submitter will receive an autoresponder depending on the re
    - account is not part of a paid namespace
    - the user checked the box confirming their intent to delete their account (required field)
    
-   Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `RED` as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036). If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and respond with the following:
+   Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `RED` as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036). 
+   
+   If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and respond with the following:
 
    <details>
      <summary markdown="span">Request Closed - Verification Failed</summary>
 
      <p>Greetings,</p>
 
-     <p>Unfortunately, your answers to our verification challenges have failed, so your request for account deletion is denied. This issue will be closed.</p>
+     <p>Unfortunately, the answers to our verification challenges have failed. As a result, we are unable to process your account deletion request. This issue will be closed.</p>
 
      <p>Regards,</p>
    </details>
