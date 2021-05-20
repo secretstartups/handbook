@@ -303,9 +303,11 @@ A core need from the GTM Team is to develop a **cohesive** experience from the f
 * Post-event Marketo add to nurture: Verticurl (Agency)
 * Marketo program setup: Verticurl (Agency)
    - when questions on program type arise, work with MOps
+* Define lead nurturing strategy: Campaigns
 * Track lead progression to MQL: Campaigns
    - look for opportunities to optimize nurture
 * Setup SDR Outreach follow up template: ?? <!-- Do SDRs have these currently? Do they use them? -->
+   - leads may not be MQLs and may require some "heating up" and additional action to MQL
 * List upload: MOps
 * Miscellaneous (examples):
    - write survey questions: PMM
