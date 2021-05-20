@@ -11,9 +11,9 @@ title: "Sarbanes-Oxley(SOX) Control Assessment Procedure"
 
 
 
-GitLab has adopted the [COSO 2013 framework](https://www.coso.org/pages/ic.aspx) to support its evaluation / assessment of the effectiveness of Internal Controls Over Financial Reporting (ICOFR). ICOFR are evaluated at an entity and process level as detailed below.
+GitLab has adopted the [COSO 2013 framework](https://www.coso.org/pages/ic.aspx) to support its evaluation / assessment of the effectiveness of Internal Controls Over Financial Reporting (ICOFR). ICOFR are assessed by evaluating entity-level controls, information technology controls  and process level controls as detailed below.
 
-##### 1.  Assessing the entity-level controls
+##### 1.  Assessing the [entity-level controls](https://about.gitlab.com/handbook/finance/sox-internal-controls/entity-level-controls/)
 
 This includes evaluating the effectiveness of GitLab’s entity-wide controls particularly relating to the control environment, risk assessment, and monitoring components of COSO. Below are the key control factors considered while evaluating COSO components at an entity level.
 
@@ -48,7 +48,13 @@ In the evaluation of the monitoring component the following factors are consider
 
 <br>
 
-##### 2.  Assessing process-level controls
+
+##### 2.  Assessing the [information technology general controls](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/ITGC/)
+
+SOX PMO will perform independent reliance testing on the audit work preformed by the security compliance team.
+
+
+##### 3.  Assessing [process-level controls](https://about.gitlab.com/handbook/finance/sox-internal-controls/#5-business-process-controls)
 
 Assessing process-level controls will include an evaluation of control design and an evaluation of control operation effectiveness.
 
