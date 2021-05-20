@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| May 20  | Office Hours for Giansight & Account Planning | Kris Reynolds & Lindsay Schoenfeld    |
+| May 20  | Office Hours for Gainsight & Account Planning | Kris Reynolds & Lindsay Schoenfeld    |
 | May 27 | GitOps Infrastructure Automation Sales Play |  Saumya Upadhyaya    |
 | June 3 | Q2 FY22 Competitive Update 1 |    Aleeta Bell  |
 | Jun 10 | DevOps Platform Sales Play |      |
