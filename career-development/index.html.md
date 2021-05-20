@@ -551,6 +551,7 @@ All exceptions should be documented in a handbook page local to the workgroup or
 | Vulnerability Research | Development | 2 Staff+ : Team | [Issue](https://gitlab.com/gitlab-org/secure/general/-/issues/155) |
 | Create:Ecosystem Team | Development | 3 Staff+ : Team | [Ecosystem Team Page](/handbook/engineering/development/dev/create/ecosystem/#team-ic-gearing) |
 | Create:Editor Team | Development | 2 Staff+ : Team | [Editor Team Page](/handbook/engineering/development/dev/create-editor/#team-ic-gearing) |
+| Sharding Team | Development | 4 Staff+ : Team | [Sharding Team Page](/handbook/engineering/development/enablement/sharding/#team-ic-gearing) |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
