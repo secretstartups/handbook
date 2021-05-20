@@ -147,13 +147,15 @@ Code Units:
 
 **Supported Groups**
 * `@sales-support`
-   * This alias is leveraged by the Deal Desk team to manage inbound request from the Sales Team 
+   * This alias is leveraged by the Deal Desk team to manage inbound request from the Sales Team.
 * `@billing ops`
-   * This alias is leveraged by the Billing team to manage inbound request as they pertain to Billing
+   * This alias is leveraged by the Billing team to manage inbound request as they pertain to Billing.
 * `@revenue`
-   * This alias is leveraged by the Revenue team to review Opportunities and how we will record revenue. [Detailed Response Here](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/859#note_386593491)
+   * This alias is leveraged by the Revenue team to review Opportunities and how we will record revenue.[Detailed Response Here](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/859#note_386593491).
 * `@SMB Flat Renewals`
-  * This alias is used by our SMB team for flat renewal support. Please see this [section of the handbook](###) for how this is used. 
+  * This alias is used by our SMB team for flat renewal support. Please see this [Section of the handbook](###) for how this is used. 
+* `@Partner Help Desk`
+  * This alias is used by Channel Partner Help Desk [PHD] Team. Please see this [Section of the handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-help-desk-support-and-communication) for more information.
 
 **Steps to add a Group:** 
 * Do to limitations with Salesforce much of the minor updates must be implemented manually in production
