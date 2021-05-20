@@ -16,6 +16,10 @@ description: "Common Questions about the Offboarding Process"
 
 It will be created on your last day, the People Experience Associate assigned to your offboarding will create the offboarding issue at either 5 pm your local time or 12 pm PST, whichever comes first. 
 
+##### Is there anything I need to do to get my offboarding issue created?
+
+No, there is nothing you need to action. The People Experience Associate handling your offboarding will be responsible. 
+
 ##### When will my access be deactivated? 
 
 Your access will be deactivated on your last day, when the offboarding issue is created. 
@@ -26,13 +30,7 @@ Departing team members are encouraged to work with their Manager to compile and 
 
 A guideline and template for managers has been provided in the [Communicating Departures Company-Wide](https://about.gitlab.com/handbook/people-group/offboarding/#communicating-departures-company-wide) section of the Offboarding Guidelines which highlights options to add a little color to the announcement e.g. favourite contribution to the handbook in addition to outlining what [information should and should not](https://about.gitlab.com/handbook/people-group/offboarding/#what-do-we-share).
 
-##### Do I need to wipe my laptop?
 
-A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address. If you have an Apple computer, please ensure you have enrolled in [JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) prior to your final day. Please under no circumstance should you perform your own disk wipe on the laptop. If someone from IT does not reach out within 1-2 business days prior to offboarding please send an email to it-help@gitlab.com
-
-##### Is there anything I need to do to get my offboarding issue created?
-
-No, there is nothing you need to action. The People Experience Associate handling your offboarding will be responsible. 
 
 ##### Is there anything I need to do before my last day?
 
@@ -50,6 +48,18 @@ The following can be used as a guide on what actions could need to be taken befo
   - Betterment (US 401(k)): https://wwws.betterment.com/app/login
   - Carta (Stock options): https://login.app.carta.com/credentials/login/
 
+### IT Ops - Laptops
+
+##### Do I need to wipe my laptop?
+
+A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address. If you have an Apple computer, please ensure you have enrolled in [JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) prior to your final day. Please under no circumstance should you perform your own disk wipe on the laptop. If someone from IT does not reach out within 1-2 business days prior to offboarding please send an email to it-help@gitlab.com
+
+##### Can I purchase my laptop from GitLab?
+
+IT Ops will contact you after your last day to determine if this is a possibility.
+
+### Compensation 
+
 ##### When will I receive my final pay?
 
 This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additonal questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com`. 
@@ -66,11 +76,16 @@ Please create your final expense report to Expensify (for employees), OR, please
 
 Finance provides an invoice template that can be emailed to your personal email. Return the completed form to `uspayroll@gitlab.com`
 
-### Benefits
+### Total Rewards - Benefits 
 
 ##### When will my benefits coverage end?
 
 Typically, benefits coverage ends at the end of the month during which you leave.
+
+##### How will my stock options be managed? What will happen to my stock options if I have been at GitLab less than a year at my date of departure? 
+
+
+All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
 
 #### USA
 
@@ -96,17 +111,11 @@ Collage: email `benefits.admin@collage.c`o or call 800.651.9632.
 
 If there are any issues that they cannot help with, please contact the Total Rewards team by emailing `total-rewards@gitlab.com`.
 
-##### How will my stock options be managed? What will happen to my stock options if I have been at GitLab less than a year at my date of departure? 
-
-
-All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
 
 ### Other
 
 ##### What if I move?
 
-If you move, please email `people-exp@gitlab.com` so that the People Experience team can keep your address up to date in BambooHR.
+If you move, please email `people-exp@gitlab.com` so that the People Experience team can keep your address up to date in BambooHR. 
 
-##### Can I purchase my laptop from GitLab?
 
-IT Ops will contact you after your last day to determine if this is a possibility.
