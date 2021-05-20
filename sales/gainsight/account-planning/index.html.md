@@ -101,6 +101,7 @@ Company Intelligence allows users to stay up-to-date on their key customers and 
 - [Company Intelligence FAQs](https://support.gainsight.com/Gainsight_NXT/Company_Intelligence/FAQs/Company_Intelligence_FAQs).
 - [Company Intelligence, The long version](https://support.gainsight.com/SFDC_Edition/Company_Intelligence/About/Company_Intelligence_Overview?mt-draft=true#Overview).
 
+_Note: Only 5,000 Accounts can be tracked at at time. To request an account be added to tracking, please submit an issue in the [Sales Ops project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and select the General Request template._
 
 ### Sponsor Tracking
 
