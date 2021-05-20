@@ -40,4 +40,5 @@ Please read instructions on how to request access to the following applications 
 
 - Managers of Temporary Service Providers will be need to be sure to open an offboarding issue in order to ensure Access Removal. 
 - Should the Temporary Service Provider become a Team Member, an offboarding issue will need to be completed at least one business day before their start date in order to ensure they have updated permissions and access.
+- If no offboarding or termination date is provided in the Access Request, a default of 6 months will be applied to the account and a reminder message sent to the manager 1 week before deactivation. 
 
