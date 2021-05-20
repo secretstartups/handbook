@@ -74,9 +74,9 @@ SOX PMO will execute testing procedures to support management’s evaluation of 
 Prior to performing test work on the operating effectiveness of internal control over financial reporting, audit programs will be prepared. The audit program will set out the nature, timing and extent of the procedures to be performed.
 
 <details markdown="block">
-<summary markdown="span">a.  Selection of test type and control categories</summary>
+<summary markdown="span">a.  Selection of testing technique and control categories</summary>
 
-**Test Type:**  Techniques that may be used to obtain evidence about the effectiveness of the operation of controls include observation, inquiry, inspection, re-performance, knowledge assessment, corroborative inquiry, and system query. 
+Techniques that may be used to obtain evidence about the effectiveness of the operation of controls include observation, inquiry, inspection, re-performance, knowledge assessment, corroborative inquiry, and system query. 
 
 To determine the appropriate testing technique, it is first necessary to identify the control category. Controls can generally be categorized into the following:
 
@@ -305,7 +305,9 @@ For controls not falling into the control categories listed above, testing proce
 
 `Automated or IT control is applied to every transaction:` 
 
-Testing will generally be minimal as management will have tested general computer controls to be satisfied that they are functioning appropriately. Therefore, system query will often be the most appropriate testing technique. In this technique, one query as a test is appropriate for an IT system that would be expected to operate consistently in a well-controlled environment. A well-controlled environment is one where the specific configuration, interfaces and system access are appropriately designed and subject to appropriate change control procedures. Observation should also be made to ascertain whether there is any violation to the security access such as sharing of passwords.
+Testing will generally be minimal as management will have tested general computer controls to be satisfied that they are functioning appropriately. Therefore, system query will often be the most appropriate testing technique. 
+
+In this technique, one query as a test is appropriate for an IT system that would be expected to operate consistently in a well-controlled environment. A well-controlled environment is one where the specific configuration, interfaces and system access are appropriately designed and subject to appropriate change control procedures. Observation should also be made to ascertain whether there is any violation to the security access such as sharing of passwords.
 
 Samples will be selected randomly to reflect an appropriate representation of the population. The specific sources and populations used for making sample selections will vary from control to control. Determining the appropriate source and population is a matter of judgment and should consider the following:
 
