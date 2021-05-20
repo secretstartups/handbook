@@ -51,7 +51,7 @@ Generally speaking, you should expect the workshop to follow this format:
 1. _Repeat the previous two steps for each planned module_
 1. Review and final Q&A (10-15 minutes)
 
-For planning and scheduling purposes, it's safe to aim for the upper end of each estimate. So, if you're only delivering a single module, you could potentially complete the workshop in 60 minutes. However, we'll likely be delivering more than one module, so it's best to plan for a minimum of 90 minutes to allow for extra questions and not feel rushed.
+For planning and scheduling purposes, it's safe to aim for the upper end of each estimate. So, if you're only delivering a single module, you could potentially complete the workshop in 60 minutes. However, we'll likely be delivering more than one module, so it's best to plan for a minimum of 90 minutes to not feel rushed and allow for extra questions. Generally, Q&A is recommended to be handled over chat throughout in order to keep the session more dynamic, but you can use extra time for live questions as well.
 
 ### Team Support
 
@@ -59,7 +59,10 @@ It is **highly recommended** that you have at least one other team member helpin
 
 ### Attendee Registration
 
-The recommended way to manage attendees is by setting up a [self-service virtual event](/handbook/marketing/revenue-marketing/field-marketing/#self-service-virtual-event-with-or-without-promotion). This will allow participants to register themselves, and will provide you with email addresses for attendees for follow-ups.
+The recommended way to manage attendees is [creating a signup page](https://support.zoom.us/hc/en-us/articles/211579443-Setting-up-registration-for-a-meeting) for the workshop for your customer to share internally. The benefit of a signup page is that:
+  - You can understand in advance the number of expected attendees, and prepare accordingly (i.e. by engaging volunteer resources to handle async Q&A)
+  - You will know who is coming and can tailor content to specific levels/titles of attendees (Don't forget to add a `title` question to your signup page!)
+  - You will have a list of attendees to follow up with, which is incredibly significant as this workshop becomes a means to engage with dev leads and end users that we often may not have otherwise.
 
 If your customer would prefer not to use this method, you can suggest that they provide you a list of attendees that you can subsequently send out a meeting invite to.
 
