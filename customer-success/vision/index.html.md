@@ -75,9 +75,9 @@ To improve the customer experience, deliver on customer outcomes, and increase n
 
 * Product: License + User + Feature + Use Case
 * Risk: TAM Sentiment + Opportunity risks
-* Outcomes: Success Plan + Return on Investment (ROI) + Verified Outcomes
+* Outcomes: Success Plan + Verified Outcomes + Reference Customer
 * Voice: Support + Surveys
-* Engagement: Customer + Executive + Events + Certifications
+* Engagement: Customer Engagement + Executive Sponsorship + Events + Certifications
 
 The intention, both of the P.R.O.V.E. components and overall philosophy, is that we need to "prove value" to the customer.
 
