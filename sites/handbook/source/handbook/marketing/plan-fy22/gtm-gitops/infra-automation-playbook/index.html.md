@@ -161,7 +161,32 @@ How to identify if you need to have to lead with a GitOps conversation?
 
 ### SA
 
-TBD: Cesar
+How to identify if you need to have to lead with a GitOps conversation?
+
+#### Before discovery
+1. Familiarize yourself with the GitOps sales play above - at a minimum watch the enablement video.
+1. Ensure you are going to meet with one of the right [user personas](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#who-to-meet).
+1. Familiarize yourself with the top discovery questions, objection handling and differentiators for GitOps.
+
+#### During discovery
+1. Ask the [discovery questions](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#value-discovery). Listen to the customer and understand their pains and challenges.
+1. As you hear their pains, challenges, business objectives and priorities, start using their own terms when explaining to them how GitOps with GitLab can help them.
+1. Understand their technical requirements. For example, look to get answers to the following technical discovery questions:
+  - Do their applications require a hybrid cloud infrastructure or multi-cloud?
+  - Do they have any hard-dependencies on any infrastructure-as-code tool? e.g. Terraform, Ansible, etc.
+  - Do they need GitOps for K8s, non-K8s or both?
+  - In the case of K8s, are their clusters available outside their firewall?
+1. Be prepared to do some competitive [objection handling](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#handling-objections)
+
+#### During evaluation
+1. Prepare your own GitOps environment for demo purposes by following the steps from the [GitOps lab](https://gitlab.com/tech-marketing/workshops/cicd/cd-labs-instructions/-/blob/master/11.%20GitOps%20with%20GitLab.md) of the SA CD Workshop. This lab covers AWS as a cloud provider. If you'd like to add Google and/or Azure, you can extend your environment by leveraring our public-facing [GitOps demo](https://gitlab.com/gitops-demo).
+1. Share technical demos, webinars that are path of the [pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content)
+1. If the customer requires you participate in a PoV, gather the PoV requirements and prepare to execute the PoV. Some helpful resources to help you prepare are:
+  - #gitops slack channel
+  - #s_configure slack channel
+  - GitOps Engineering
+  - GitOps TMM
+  - GitOps PM
 
 ### SDR
 
