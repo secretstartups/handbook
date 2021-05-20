@@ -75,5 +75,35 @@ The process so far involves small incremental changes. Before we have a place to
 * Support usage on same pages with `base2020.scss`, [roll out Slippers to the blog](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/slippers-blog-template.md)
 * [Support Slippers within Middleman templating and usage as a client side library](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/slippers.md)
 
+
+## Pages using Slippers
+
+#### Pages using Slippers CSS
+
+These are pages that are using Slippers CSS in the `frontmatter`, or using `2020base.css`:
+- [Homepage](https://about.gitlab.com/)
+- [Pricing](https://about.gitlab.com/pricing/)
+- [Free Trial](https://about.gitlab.com/free-trial/)
+- [Install page](https://about.gitlab.com/install/)
+- [Enterprise](https://about.gitlab.com/enterprise/)
+- [SMB](https://about.gitlab.com/small-business/)
+- [Campuses](https://about.gitlab.com/solutions/education/campus/)
+- [Partners landing](https://about.gitlab.com/partners/)
+- [Partner pages](https://about.gitlab.com/partners/technology-partners/aws/)
+- [Localized landing pages](https://about.gitlab.com/fr-fr/)
+- [Topic pages](https://about.gitlab.com/topics/version-control/)
+- [Continuous Integration](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+- [Out of the office report](https://about.gitlab.com/out-of-the-office/)
+- [Remote work report](https://about.gitlab.com/remote-work-report/)
+
+#### Pages using Slippers components
+
+These are pages that have been built in our [Storybook](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui) instance, and ported over to `about.gitlab.com`:
+- [Blog pages](https://about.gitlab.com/blog/2018/10/05/how-i-transitioned-from-frontend-to-ux/)
+- [DevSecOps Survey](https://about.gitlab.com/developer-survey/)
+- [DevOps Download](https://about.gitlab.com/devops-download/)
+- Event Template (coming soon!)
+- Site Navigation and Footer (coming soon!)
+
 ## Opportunities for Growth
 TODO
