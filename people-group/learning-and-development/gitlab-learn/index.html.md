@@ -54,10 +54,23 @@ The GitLab team is excited about growing new learning opportunities for team mem
 
 Future learning content coming to GitLab Learn:
 
-1. Trainings for managers in an all-remote setting
-1. Advanced GitLab topics
-1. Using GitLab for projecgt management
-1. Psychological safety, bias for asynchronous communication, and more training to reinforce GitLab values
+### FY22 Q2
+
+| Content | Team | Description and Audience | Expected Launch Date |
+| ----- | ----- | ----- | ----- |
+| GitLab Manager Enablement | L&D | Training for GitLab managers on topics including giving feedback, project management, and delegation | FY22 Q2 |
+
+### FY22 Q3
+
+| Content | Team | Description and Audience | Expected Launch Date |
+| ----- | ----- | ----- | ----- |
+| Enhancing GitLab 101 and GitLab 201 | L&D | Enhancements to the GitLab 101 and GitLab 201 basic trainings to reflect new product enhancements and GitLab team use cases | FY22 Q3 |
+| Psychological Safety Training | L&D | Self-paced study of how to build psychological safety in an all remote setting | FY22 Q3 |
+
+### FY22 Q4
+| Content | Team | Description and Audience | Expected Launch Date |
+| ----- | ----- | ----- | ----- |
+| `Content Title` | `Team DRI` | `Content description and target audience` | `Expected launch date in EdCast` |
 
 
 ## What will GitLab Learn do for the GitLab community
