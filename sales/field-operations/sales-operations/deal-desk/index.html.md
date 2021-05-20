@@ -350,26 +350,33 @@ Salesforce Guided Selling filters have been updated. Legacy SKUs have been remov
 * The quote approval module has been updated to recognize the new Premium and Ultimate SKUs referenced in the table above.
 * The quote approval module has been updated to recognize the [Starter/Bronze EoA Option 2 upgrade offer](https://docs.google.com/document/d/19T-ysFuEFWIlAv7Z9o1Q6-kVU9HKFb_nzGZ1uumpMLA/edit) (one year renewal/add-on upgrade).
 
-#### Professional Services Opportunities & Quotes
+#### Quoting Professional Services
 
-*   Create a New Business Opportunity and select “Professional Services Only” under “Opportunity Record Type.” **Note: Professional Services products must always exist on a separate, standalone opportunity.**
+**There are two separate ways to quote Professional Services, depending on whether the services are standard, or scoped/custom.**
 
-##### Creating a Professional Services Quote with Standard Product SKUs
+##### Creating a Professional Services Quote for Standard Services
 
-*   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select the required SKUs for Professional Services.
+*   Standard services are those for which a SKU exists in Zuora CPQ.
+*   Standard services can be added to any New Business, Add-On, or Renewal quote alongside subscription product SKUs. (i.e. If you are selling a 12 month SaaS Ultimate deal, you can add a separate SKU on the same quote to sell the Rapid Results offering.)
+*   For Standard Services, a signed Order Form is sufficient to book the deal. (Note, some customers may also require issuance of a PO)
 *   More information on [Professional Services SKUs](/handbook/customer-success/professional-services-engineering/#professional-services-skus) 
 
-##### Creating a Professional Services Quote with Custom SKUs
+##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
-*   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select **GitLab Service Package.** Update the price to reflect the price on the SOW.
+*   For [standard professional services skus](/handbook/customer-success/professional-services-engineering/#current-skus), only a signed order form is required.
 
-##### Before submitting a Professional Services Opportunity for Closure:
+##### Creating a Professional Services Quote for Scoped/Custom Services
+
+*   Scoped/Custom Services are those that require consultation with the Professional Services team, and require a custom SOW to be drafted and signed by the customer. This includes any Professional Services that are not fully prepaid.
+*   Scoped/Custom Services must always be quoted on a standalone opportunity, separately from any subscription products SKUs. (i.e. You may NOT sell a 12 month SaaS Ultimate SKU on the same quote/opp as Scoped/Custom Services).
+*   Create a New Business Opportunity and select “Professional Services Only” under “Opportunity Record Type.”
+*   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select the **GitLab Service Package** SKU. Update the price to reflect the total price on the SOW.
+
+##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
 *   Please note that the following items must be attached to the opportunity before it can be Closed Won:
-    *   SOW signed by **both the customer and Brian Robins.****
+    *   SOW signed by **both the customer and Dale Brown or Brian Robins.****
     *   Cost Estimate spreadsheet (Link provided by the PS team)
-    *   For a custom service package (Custom SOW), a fully executed SOW and Cost Estimate are required
-    *   For [standard professional services skus](/handbook/customer-success/professional-services-engineering/#current-skus), only a signed order form is required 
     *   For opportunities with both - standard professional services skus AND a custom service package - then both a fully executed SOW and Cost Estimate is required 
 
 #### How to Clone an Existing Quote
