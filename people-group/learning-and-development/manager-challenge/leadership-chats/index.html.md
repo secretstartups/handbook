@@ -79,7 +79,7 @@ If time allows, take the following action **before** each Leadership Chat you pl
 
 1. Contribute a new topic idea to the issue board
 1. Upvote any topics you'd like to talk about
-1. Add a topic you're passionate about to the agneda to review 
+1. Add a topic you're passionate about to the agenda to review
 1. Let another manager at GitLab know you're attending, and invite them to join you!
 
 ### After the meeting
