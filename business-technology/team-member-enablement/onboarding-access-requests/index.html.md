@@ -95,8 +95,6 @@ We strongly encourage Macs, but we do allow Linux if you are capable of self-sup
 
 \*\*NOTE: Max price: **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
 
-\*\* NOTE: [1Password](/handbook/security/#1password-guide) does not yet have a native client for Linux, but [there is a browser extension](https://support.1password.com/getting-started-1password-x/).
-
 For Linux laptops, our **standard laptop provider is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
 
 The reasons for using Dell for a Linux laptop are as follows:
