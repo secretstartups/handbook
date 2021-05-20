@@ -13,8 +13,7 @@ description: "Support Engineering workflows for account deletion and data access
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-
-Use the appropriate workflow on this page when a user requests one of the following through a Zendesk ticket or via form submission to our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project. **These requests must be filled within 30 days.**
+Use the appropriate workflow on this page when a user requests one of the following (under [GDPR Article 15](https://gdpr-text.com/read/article-15/), [CCPA](https://oag.ca.gov/privacy/ccpa)) through a Zendesk ticket or via form submission to our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project. **These requests must be filled within 30 days.**
 
 - deletion of everything (GitLab.com and all other data associated with their account)
 - deletion of their GitLab.com account only
