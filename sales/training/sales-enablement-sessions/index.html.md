@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| May 20  | Office Hours for Gainsight & Account Planning | Kris Reynolds & Lindsay Schoenfeld    |
 | May 27 | GitOps Infrastructure Automation Sales Play |  Saumya Upadhyaya    |
 | June 3 | Q2 FY22 Competitive Update 1 |    Aleeta Bell  |
 | Jun 10 | DevOps Platform Sales Play |      |
@@ -44,6 +43,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-05-20  | **[Office Hours for Gainsight & Account Planning](https://youtu.be/lnEkbLnxs-8)** | Private   |
 | 2021-05-13 | **[Sales Ops Update - Docusign Rollout](https://youtu.be/Dch4zaUQOeg)** |    Private  |
 | 2021-05-06  | **[Channel Program Updates](https://youtu.be/sOx3WSscAF8)** | Private |
 | 2021-04-22  | **[GitLab Premium to Ultimate Sales Playbook Launch](https://youtu.be/UY-J-SHcCC8)** | Private |
