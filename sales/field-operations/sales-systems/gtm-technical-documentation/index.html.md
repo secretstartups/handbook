@@ -155,7 +155,7 @@ Code Units:
 * `@SMB Flat Renewals`
   * This alias is used by our SMB team for flat renewal support. Please see this [Section of the handbook](###) for how this is used. 
 * `@Partner Help Desk`
-  * This alias is used by Channel Partner Help Desk [PHD] Team. Please see this [Section of the handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-help-desk-support-and-communication) for more information.
+  * This alias is used by Channel Partner Help Desk (PHD) Team. Please see this [Section of the handbook](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-help-desk-support-and-communication) for more information.
 
 **Steps to add a Group:** 
 * Do to limitations with Salesforce much of the minor updates must be implemented manually in production
