@@ -73,6 +73,17 @@ GitLab's Product and Engineering leaders discuss a change to our model of priori
 
 <iframe width="560" height="315" src=" https://youtube.com/embed/KfIH61C0XiU" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
+<br/>
+Nicole shares her approach towards prioritization of tech debt with her Engineering counterparts in these discussions with Mike and Olivier.
+<br/><br/>
+
+<iframe width="560" height="315" src=" https://youtube.com/embed/ofPUh5Um1Pk" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+
+<br/><br/>
+
+<iframe width="560" height="315" src=" https://youtube.com/embed/oRLrNkyrEfw" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+
+
 #### General Prioritization Guidance
 
 - [The GitLab prioritization guidelines table](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
