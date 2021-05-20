@@ -42,20 +42,20 @@ Process to be added below.
 
 ### Projects
 
-| GitLab Inc Project                                      | JiHu Project                                               |
-|---------------------------------------------------------|------------------------------------------------------------|
-| https://gitlab.com/gitlab-org/gitlab                    | https://gitlab.com/gitlab-jh/gitlab                        |
-| https://gitlab.com/gitlab-org/license-gitlab-com        | https://gitlab.com/gitlab-jh/license-gitlab-cn             |
-| https://gitlab.com/gitlab-org/customers-gitlab-com      | https://gitlab.com/gitlab-jh/customers-gitlab-cn           |
-|                                                         | https://gitlab.com/gitlab-jh/cookbook-customers-gitlab-com |
-| https://gitlab.com/gitlab-services/version-gitlab-com   | https://gitlab.com/gitlab-jh/version-gitlab-cn             |
-| https://gitlab.com/gitlab-jh/omnibus-gitlab             | https://gitlab.com/gitlab-jh/omnibus-gitlab                |
-| https://gitlab.com/gitlab-jh/gitlab-environment-toolkit | https://gitlab.com/gitlab-jh/gitlab-environment-toolkit    |
-| https://gitlab.com/gitlab-org/build/CNG                 | https://gitlab.com/gitlab-jh/cng-images                    |
-| https://gitlab.com/gitlab-org/charts/gitlab             | https://gitlab.com/gitlab-jh/jh-team/gitlab                |
-| https://gitlab.com/gitlab-com/www-gitlab-com            | https://gitlab.com/gitlab-jh/jh-team/www-gitlab-com        |
-| https://gitlab.com/gitlab-org/gitlab-docs               | https://gitlab.com/gitlab-jh/jh-team/gitlab-docs           |
-| https://gitlab.com/gitlab-org/gitlab-runner             | https://gitlab.com/gitlab-jh/jh-team/gitlab-runner         |
+| GitLab Inc Project                                      | JiHu Project                                               | Project Type |
+|---------------------------------------------------------|------------------------------------------------------------|--------------|
+| https://gitlab.com/gitlab-org/gitlab                    | https://gitlab.com/gitlab-jh/gitlab                        | Mirror       |
+| https://gitlab.com/gitlab-org/license-gitlab-com        | https://gitlab.com/gitlab-jh/license-gitlab-cn             |              |
+| https://gitlab.com/gitlab-org/customers-gitlab-com      | https://gitlab.com/gitlab-jh/customers-gitlab-cn           |              |
+|                                                         | https://gitlab.com/gitlab-jh/cookbook-customers-gitlab-com |              |
+| https://gitlab.com/gitlab-services/version-gitlab-com   | https://gitlab.com/gitlab-jh/version-gitlab-cn             |              |
+| https://gitlab.com/gitlab-jh/omnibus-gitlab             | https://gitlab.com/gitlab-jh/omnibus-gitlab                | Mirror       |
+| https://gitlab.com/gitlab-jh/gitlab-environment-toolkit | https://gitlab.com/gitlab-jh/gitlab-environment-toolkit    | Fork         |
+| https://gitlab.com/gitlab-org/build/CNG                 | https://gitlab.com/gitlab-jh/cng-images                    | Mirror       |
+| https://gitlab.com/gitlab-org/charts/gitlab             | https://gitlab.com/gitlab-jh/jh-team/gitlab                | Mirror       |
+| https://gitlab.com/gitlab-com/www-gitlab-com            | https://gitlab.com/gitlab-jh/jh-team/www-gitlab-com        |              |
+| https://gitlab.com/gitlab-org/gitlab-docs               | https://gitlab.com/gitlab-jh/jh-team/gitlab-docs           | Mirror       |
+| https://gitlab.com/gitlab-org/gitlab-runner             | https://gitlab.com/gitlab-jh/jh-team/gitlab-runner         | Mirror       |
 
 ### Merge Request Process
 
@@ -81,9 +81,11 @@ As the team gets more familiar we will move to Method 2. To get to this we will 
   * Ensure that maintainers are aware and can be productive in reviewing code:
 * In Progress: [Enable code mirroring and sync](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/85)
 
-#### Current Guidelines
+#### Guidelines for mirrored projects
 
-Code syncing between the `master` and `main-jh` repository is manual until <https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/107> but the following guidelines will apply for GitLab merge requests.
+Projects that are mirrored have changes mirrored and synced from the GitLab Inc equivalent to streamline contributions. Code syncing between the `master` and `main-jh` branches is manual until <https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/107>.
+
+Merge requests will use the following guidelines to have a streamlined review.
 
 1. The `gitlab-jh` Engineering team will open two MRs:
    1. JH MR with all changes against `gitlab-jh/gitlab`
@@ -94,6 +96,17 @@ Code syncing between the `master` and `main-jh` repository is manual until <http
 1. The `gitlab-jh` Engineering team will review and merge the JH MR against the `gitlab-jh/gitlab` default branch
 
 ![](gitlab-jh-mr-process.png)
+
+#### Guidelines for forked projects
+
+Forked projects do not have mirroring setup and all merge requests will be opened at the upstream GitLab Inc project.
+
+```mermaid
+graph LR
+  mr-->|Opened against upstream project|repo
+  mr[/Upstream MR/]
+  repo(GitLab Inc. Repo)
+```
 
 ### Security Release Process
 
