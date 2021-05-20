@@ -19,7 +19,7 @@ This includes evaluating the effectiveness of GitLab’s entity-wide controls pa
 
 `Control Environment`
 
-The control environment sets the tone of an organization, influencing the control consciousness of its people. It is the foundation for all components of internal control, providing discipline and structure. The control environment encompasses several control factors, including:
+The control environment will be evaluated to assess effectiveness of the below processes around:
 
 *  Integrity and Ethical Values
 *  Commitment to Competence
@@ -303,9 +303,11 @@ For controls not falling into the control categories listed above, testing proce
 | Weekly | 5 |
 | Daily / Recurring (multiple times per day)| 25 |
 
-`Automated or IT control is applied to every transaction:` Testing will generally be minimal as management will have tested general computer controls to be satisfied that they are functioning appropriately. Therefore, system query will often be the most appropriate testing technique. In this technique, one query as a test is appropriate for an IT system that would be expected to operate consistently in a well-controlled environment. A well-controlled environment is one where the specific configuration, interfaces and system access are appropriately designed and subject to appropriate change control procedures. Observation should also be made to ascertain whether there is any violation to the security access such as sharing of passwords.
+`Automated or IT control is applied to every transaction:` 
 
-Samples should be selected randomly to reflect an appropriate representation of the population. The specific sources and populations used for making sample selections will vary from control to control. Determining the appropriate source and population is a matter of judgment and should consider the following:
+Testing will generally be minimal as management will have tested general computer controls to be satisfied that they are functioning appropriately. Therefore, system query will often be the most appropriate testing technique. In this technique, one query as a test is appropriate for an IT system that would be expected to operate consistently in a well-controlled environment. A well-controlled environment is one where the specific configuration, interfaces and system access are appropriately designed and subject to appropriate change control procedures. Observation should also be made to ascertain whether there is any violation to the security access such as sharing of passwords.
+
+Samples will be selected randomly to reflect an appropriate representation of the population. The specific sources and populations used for making sample selections will vary from control to control. Determining the appropriate source and population is a matter of judgment and should consider the following:
 
 *  	Pervasiveness of the control and variety of instances in which the control is applied or by whom the control is applied.
 *  	Changes in key personnel who perform the control or monitor its performance.
@@ -339,7 +341,6 @@ Management will prepare a detailed timeline for evaluation of control design and
 <details markdown="block">
 <summary markdown='span'>d.  Documentation of Test Results</summary>
 
-In evaluating and developing the assessment of internal control over financial reporting, the evidential matter needs to be maintained to provide reasonable support in the review of management’s assessment and attestation conducted by the independent auditor. This evidential matter must provide sufficient documentation to enable the external auditor to conclude that there is a reasonable basis for the assertion on internal control over financial reporting that will be made by management.
 
 Working papers will be prepared and cross referenced to enable reviewers and external auditors to easily locate the documentation that supports the conclusion reached on the assessment of the selected internal controls over financial reporting. Working papers will include sufficient documentation to re-perform control testing (i.e. copies of sample documents tested) and will include supporting documentation for all testing exceptions.
 
@@ -348,14 +349,13 @@ Working papers will be prepared and cross referenced to enable reviewers and ext
 <details markdown="block">
 <summary markdown='span'>e.  Categorization and Escalation of Issues and Remediation</summary>
 
-When performing tests of operating effectiveness, management may find exceptions from prescribed control policies or procedures, as we do not expect controls to operate perfectly. In these instances, the nature and cause of the conditions must be investigated. Management is responsible for determining if a mitigating control compensates for the defective control and if that control is designed to achieve the same control objective. If the compensating control is appropriately designed, tests of operating effectiveness will then be performed on the compensating control.
+When performing tests of operating effectiveness, if exceptions are found the nature and cause of the conditions will be be investigated. SOX PMO will work with process owners to determine if a mitigating control compensates for the defective control and if that control is designed to achieve the same control objective. If the compensating control is appropriately designed, tests of operating effectiveness will then be performed on the compensating control.
 
 When control testing exceptions are identified, the following steps will be taken:
 
-*  The exception will be recorded in a repository of findings. The repository of findings will include the testing observation, control theme, potential implications, short-term and long-term action plans, the potential impact of the weakness and identification of mitigating controls. Maintenance of the repository will be the responsibility of the project leader.
-*  The exception will be brought to the attention of a “Resolution Team” which will include the process owner and appropriate management, including the project leader. The responsibility to determine whether a deficiency is a significant deficiency or a material weakness lies with management.
+*  The exception will be recorded in a repository of findings. The repository of findings will include the control theme, testing observation, potential implications, management response and action plans. Maintenance of the repository will be the responsibility of the SOX PMO.
 
-Deficiencies can range from inconsequential, to significant, to material weaknesses. In limited situations, there may be sufficient evidence to conclude that the error was an isolated incident. If this is the case, it may still be possible to conclude that the control is operating effectively. Management will assess whether deficiencies, either individually or in the aggregate, rise to the level of a significant deficiency or a material weakness. According to the [PCAOB](https://pcaobus.org/) Final Ruling, significant deficiencies and material weaknesses are defined as follows:
+Deficiencies can range from inconsequential, to significant, to material weaknesses. In limited situations, there may be sufficient evidence to conclude that the error was an isolated incident. If this is the case, it may still be possible to conclude that the control is operating effectively. Management will assess whether deficiencies, either individually or in the aggregate, rise to the level of a significant deficiency or a material weakness. According to the [PCAOB](https://pcaobus.org/), significant deficiencies and material weaknesses are defined as follows:
 
 *  **Significant deficiency**: A control deficiency, or combination of control deficiencies, that adversely affects the company’s ability to initiate, authorize, record, process and report external financial data reliably in accordance with generally accepted accounting principles such that there is more than a remote likelihood that a misstatement of the company’s annual or interim financial statements that is more than inconsequential will not be prevented or detected.
 *  **Material weakness**: A significant deficiency, or combination of significant deficiencies, that results in more than a remote likelihood that a material misstatement of the annual or interim financial statements will not be prevented or detected.
