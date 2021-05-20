@@ -471,40 +471,6 @@ This is not an exhaustive list of criteria, as the Editorial team member will al
 
 #### Review process
 
-##### Issue
-
-If an Unfiltered blog post has been identified as a good candidate for featuring, the Editorial team member should open an issue in the [gitlab.com/gitlab-com/www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com/issues) with the title "Feature Unfiltered post: [title of Unfiltered post]", using the `feature-unfiltered-post` issue template.
-
-Include a link to the original post in the issue description, and @ mention the author of the post so that they are aware it is being reviewed for featuring on the branded blog.
-
-##### Merge request review
-
-Once the issue is open, the Editorial team member can create an MR for the full editorial review of the post, in the same way as net new posts that are submitted to the branded blog for review.
-
-**Checklist for reviewer:**
-
-- Add the following statement to the top of the blog post file:
-
-```
-This blog post was originally published on the [GitLab Unfiltered blog](/blog/categories/unfiltered/). It was reviewed and republished on yyyy-mm-dd.
-{: .note .alert-info .text-center}
-```
-- Remove Unfiltered disclaimers from [top](/handbook/marketing/blog/unfiltered/#link-to-disclaimer) and [bottom](/handbook/marketing/blog/unfiltered/#legal-disclaimer) of blog post
-- Change [category](/handbook/marketing/blog/#categories) from `unfiltered` to another
-- Add a custom [cover image](/handbook/marketing/blog/#cover-image) if the default Unfiltered image (`/images/blogimages/gitlab-values-cover.png`) has been used
-- Check if any [frontmatter](/handbook/marketing/blog/#frontmatter) is missing. It might be worth adding merchandising, for example.
-- Add links to related blog posts, where relevant
-- Keep filename the same. Do not update to the current date (this will change the URL for the blog post and result in a 404 for existing links to the original post)
-- Assign the MR to the post's original author for review of any changes
-
-When the author has reviewed and all outstanding threads resolved, they should reassign the MR to the Editorial team member to merge the changes.
-
-##### Merging
-
-Featured Unfiltered posts can be merged straight away, and don't need to be scheduled like brand new posts. When the edited post is live, the Editorial team member who merged should share a link in the #content-updates channel on Slack so the social team is aware that the post is now on the branded blog and can be shared on GitLab social channels.
-
-The team will aim to have selected posts featured within a week of creating the issue. This may change depending on the availability of the post's author to review changes.
-
 ## Updating the handbook or issue/MR templates
 
 Occasionally team members may notice something is missing from or could be improved in the [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team/) or [blog](/handbook/marketing/blog/) handbooks, including the [style guide](#blog-style-guide), or issue/MR templates. 
