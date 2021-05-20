@@ -510,9 +510,9 @@ Shadows need to speak up in video calls, and speak up when the CEO's camera isn'
 
 ##### Notify CEO on use of 'I think'
 
-When attending **external meetings**, notify the CEO in a private Zoom chat message when he uses `I think`. Hedge words like `I think` can have the effect of making the speaker seem uncertain or unconfident. 
+When attending **external meetings**, notify the CEO in a private Zoom chat message when they uses the phrase `I think`. [Hedge words](https://ethos3.com/2020/02/hedging-the-speaking-habit-harming-your-credibility/) can have the effect of making the speaker seem uncertain or unconfident. 
 
-In internal meetings, `I think` can be used to provide opportunity for others to present a contrasting opinion.
+In internal meetings, `I think` can be used to signal opportunity for others to present a contrasting opinion.
 
 #### CEO shadow introductions
 
