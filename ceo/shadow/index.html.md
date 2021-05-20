@@ -457,7 +457,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | GitLab Board meeting or meeting with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)                   | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
 | Valley Meetings                  | No notes       | Timekeeping    |
-| L & D Weekly Learning Session    | Special ([See below](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
+| L & D Weekly Learning Session    | Special ([See below)](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 
