@@ -1018,7 +1018,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-02-15 | 2021-02-26 | [Lauren Barker](https://gitlab.com/laurenbarker) | Sr. Full Stack Engineer, Digital Experience | [CEO Shadow takeaways from Barker](/blog/2021/02/26/ceo-shadow-takeaways-from-barker/) |
 | 2021-02-22 | 2021-03-12 | [Jessica Reeder](https://gitlab.com/jessicareeder) | All-Remote Campaign Manager | |
 | 2021-03-08 | 2021-03-19 | [Robert Kohnke](https://gitlab.com/rkohnke) | Marketing Strategy and Performance, Data Analyst | |
-| 2021-03-15 | 2021-03-26 | [Sarah Daily](https://gitlab.com/sdaily) | Senior Marketing Operations Manager | |
+| 2021-03-15 | 2021-03-26 | [Sarah Daily](https://gitlab.com/sdaily) | Senior Marketing Operations Manager | [Interview with Sid: Non-Technical Roles to Technical Roles](https://www.youtube.com/watch?v=6_ux_eX4ZYU) |
 | 2021-03-22 | 2021-04-02 | [Darwin Sanoy](https://gitlab.com/darwinjs) | Senior Solutions Architect, Alliances | |
 | 2021-03-29 | 2021-04-09 | [Anthony Ogunbowale - Thomas](https://gitlab.com/anthonyot) | Named, Account Executive EMEA | |
 | 2021-04-05 | 2021-04-16 | [Katie Gammon](https://gitlab.com/kgammon) | Executive Business Administrator | |
