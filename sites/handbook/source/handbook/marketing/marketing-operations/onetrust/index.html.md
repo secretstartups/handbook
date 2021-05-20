@@ -33,6 +33,11 @@ To access OneTrust, please create an [access request](https://about.gitlab.com/h
 1. [Script Integration - Publishing the Cookie Banner Script Implementation Webinar](https://my.onetrust.com/articles/en_US/Knowledge/Script-integration-Publishing-the-Cookie-Banner-Script-Implementation-Webinar?r=56&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1)
 1. [Cookie Blocking - Blocking Cookies via Tag Managers and HTML Implementation Webinar](https://my.onetrust.com/articles/en_US/Knowledge/Cookie-Blocking-Blocking-cookies-via-Tag-Managers-and-HTML?r=56&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1)
 
+### Data Subject Access Requests (DSAR) module
+
+1. [Kick-off call recording 20210106](https://drive.google.com/file/d/1P7NeQaX8J5ybJYopbtMhPzNMgGyZP3Dx/view?usp=sharing)
+1. [Workshop recording 20210111](https://drive.google.com/file/d/12ZfyJq2m8TszkRndFgZE0WOL4aG3XOHI/view)
+
 ## System default roles
 
 1. **Assessments Manager:** Assessments Managers are business users who have access to most everyday and some administrative functions in the Assessment Automation module. By default, Assessments Managers have limited access to destructive and configuration functions.
