@@ -14,3 +14,4 @@ description: "Learn more about working with various members of the marketing tea
 - [Sanmi Ayotunde Ajanaku's README (Frontend Engineer)](https://about.gitlab.com/handbook/marketing/readmes/sanmiayotunde.html)
 - [Lauren Barker's README (Fullstack Engineer)](https://about.gitlab.com/handbook/marketing/readmes/lauren-barker.html)
 - [Laura Duggan's README (Frontend Engineer)](https://about.gitlab.com/handbook/marketing/readmes/laura-duggan.html)
+- [Nathan Dubord's README (Frontend Engineer)](https://about.gitlab.com/handbook/marketing/readmes/nathan-dubord.html)
