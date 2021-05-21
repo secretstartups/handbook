@@ -1,9 +1,3 @@
----
-layout: handbook-page-toc
-title: "Business Technology"
-description: "Business Technology"
----
-
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -12,10 +6,9 @@ description: "Business Technology"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+## <i id="biz-tech-icons" class="far fa-paper-plane"></i>How to reach out to us?
 
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to reach out to us?
-
+``` sse
 <div class="flex-row" markdown="0">
   <div>
     <h5>Team Member Enablement</h5>
@@ -28,7 +21,9 @@ description: "Business Technology"
     <a href="https://gitlab.com/gitlab-com/business-technology/Business-Technology/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
   </div>
 </div>
+```
 
+``` sse
 <div class="flex-row" markdown="0">
   <div>
     <h5>Procurement</h5>
@@ -41,7 +36,9 @@ description: "Business Technology"
     <a href="/handbook/business-technology/data-team/#contact-us" class="btn btn-purple" style="width:170px;margin:5px;">Contact the team</a>
   </div>
 </div>
+```
 
+``` sse
 <div class="flex-row" markdown="0">
   <div>
     <h5>IT Compliance</h5>
@@ -51,8 +48,9 @@ description: "Business Technology"
   <div style="width:50%;margin:5px;">
   </div>
 </div>
+```
 
-## <i class="far fa-newspaper" id="biz-tech-icons"></i> What's happening?
+## <i id="biz-tech-icons" class="far fa-newspaper"></i>What's happening?
 
 - [FY22 OKRs Business Technology](https://gitlab.com/gitlab-com/business-technology/okrs/-/blob/master/README.md)
 - [CIO Speaker Series](https://www.youtube.com/watch?v=dHtIR7Oya6o&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ)
@@ -62,8 +60,9 @@ description: "Business Technology"
 - [Endpoint management](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48867)
 - Book Club: [Truth from the Valley: A Practical Primer on Future IT Management Trends](https://gitlab.com/gitlab-com/book-clubs/-/issues/12)
 
-## <i class="fas fa-tasks" id="biz-tech-icons"></i> Objectives of our organization
+## <i id="biz-tech-icons" class="fas fa-tasks"></i>Objectives of our organization
 
+``` sse
 <table id="objectives-table-bizops">
   <tr>
     <th>
@@ -118,8 +117,9 @@ description: "Business Technology"
       </td>
   </tr>
 </table>
+```
 
-## <i class="fas fa-users" id="biz-tech-icons"></i>The team
+## <i id="biz-tech-icons" class="fas fa-users"></i>The team
 
 ### Reaching the Teams
 
