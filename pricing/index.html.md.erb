@@ -173,19 +173,13 @@ Here is a video of the CEO discussing this concept with a Product Leader.
 
 The following are our current set of capabilities:
 
-Premium:
-
-1. Cross-team project management
-1. Multiple Approval Rules
-1. More control over your code
-1. Multi-region support
-
-Ultimate (all above AND):
-
-1. Company-wide portfolio management
-1. Advanced Application Security
-1. Enterprise Level Insights
-1. Compliance Automation
+<% tier_names = ['Silver / Premium','Gold / Ultimate'] %>
+<% tier_names.each do |tier_name| %>
+<%= "### #{tier_name}" %>  <% tier_name == tier_names.first() ? " (all above AND)" %>:
+  <% data.pricing_capabilities.select{|capability| capability.tier == tier_name}.each do |capability| %>
+<%= "1. #{capability.name} " %>
+  <% end %>
+<% end %>
 
 #### What happens when capabilities don't match our Buyer Based Tiering Decisions?
 
@@ -390,7 +384,7 @@ Arguments to at least make them equal:
 1. Self-managed pricing tends to be higher, in general.
 1. There is more market demand for self-managed.
 1. No incentive for sales to sell SaaS over self-managed.
-1. We want to incentivize customers to move to SaaS with us because we have more data (better customers success outcomes) and we don't have to rewin their business when they do more from self-managed to SaaS
+1. We want to incentivize customers to move to SaaS with us because we have more data (better customer success outcomes) and we don't have to rewin their business when they do move from self-managed to SaaS
 
 Not sure what is normal in the market. Adobe did a good job, but they moved from perpetual licensing to subscriptions, where it is hard to [compare the two prices](http://blogs.adobe.com/acrolaw/2015/05/a-new-way-to-buy-acrobat-dc-subscription/).
 
