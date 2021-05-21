@@ -322,12 +322,20 @@ Midmarket Account Executives are the primary point of contact between prospectiv
 
 Mid-Market AEs work closely in tandem with the business development team and sales management to manage a broad book of business spread over a large opportunity value range and focus on exceeding client expectations.
 
+### Mid Market Roles
+
+1. **First Order MM AE**: These AEs work on the highest potential accounts that are not currently customers of GitLab. Once the customer has signed its first contract the customer transitioned to a Named MM Account Executive. However, if an account is won by this team and is deemed to be low potential it will be passed to a Territory MM AE. The rough guideline for these accounts is more than 500 employees total and more than 100 combined employees in engineering and IT. We don't refer to First Order MM accounts as "Named Accounts", because we don't know and likely could not maintain the full list of potential accounts that will be pursued by this group.
+
+1. **Named MM AE**: These AEs work on current customers that have been deemed to be high spending (high CARR) or have the potential to be high spending (high LAM). To be successful the Named MM AE must expand their accounts more than the standard expansion rate for their named list of accounts. The named list for each Named MM AE will grow through the fiscal year as the First Order MM AE wins new high potential customers.
+
+1. **Territory MM AE**: These AEs work geographic regions of accounts that have not been vetted to be First Order MM AE or Named MM AE. The role sells to both prospects and current accounts.
+
 ### Core Responsibilities
 
-- Own your territory - build & execute your territory plan.
+- Own your set of accounts - build & execute your plan.
 - Manage book of business: new business, expansion, renewals.
 - Collaborate with Sales Development channel for handover of inbound qualified opportunities to progress to closure.
-- Execute outbound campaigns for Key accounts.
+- Execute outbound campaigns.
 
 #### New Business
 
