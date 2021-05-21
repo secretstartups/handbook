@@ -39,7 +39,7 @@ ___
 
 [The PS Opportunity has closed, whats next](/handbook/customer-success/professional-services-engineering/working-with/#scheduling-professional-services)
 
-##### Internal Project
+##### Internal Project Scheduling
 
 If a Team Member would like to have time blocked on their schedule to allow time for non-customer project related items, certifications or ramp up,
 a request should be submitted via a comment and tag the PC on either Internal Projects:
@@ -307,6 +307,19 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
   - 45m should be .75
 
 ****Mavenlink Internal Projects****
+
+##### Internal Project Scheduling
+
+If a Team Member would like to have time blocked on their schedule to allow time for non-customer project related items, certifications or ramp up,
+a request should be submitted via a comment and tag the PC on either Internal Projects:
+
+- PS Time Tracking Creditable
+- PS Time Tracking Non Creditable
+
+Comment should be added to the activity page to include the following:
+- Task
+- Time Required
+- Priority Level
 
 Internal projects are set up to track internal time that is not customer project related. Below is the project name along with tasks and examples.
 
