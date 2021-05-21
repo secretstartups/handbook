@@ -41,8 +41,8 @@ ___
 
 ##### Internal Project
 
-If a Team Member would like to have time blocked on their schedule to allow time for non customer projecct related items, certifications or ramp up.
-A request should be submitted via a comment and tag the PC on either Internal Projects:
+If a Team Member would like to have time blocked on their schedule to allow time for non-customer project related items, certifications or ramp up,
+a request should be submitted via a comment and tag the PC on either Internal Projects:
 
 - PS Time Tracking Creditable
 - PS Time Tracking Non Creditable
