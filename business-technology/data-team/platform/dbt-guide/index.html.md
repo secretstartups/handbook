@@ -396,6 +396,8 @@ It is critical to be intentional when organizing a self-service data environment
     - model_updated_at timestamp - this is the last time the model was updated by someone
     - dbt_created_at timestamp - this is populated by dbt when the table is created
     - dbt_updated_at timestamp - this is the date the data was last loaded. For most models, this will be the same as dbt_created_at with the exception of incremental models.
+- The Prep(prep_) and mapping/look-up(map_) tables to support dimension tables should be created in `common_mapping` schema.
+- Additional Bridge(bdg_) tables should reside in `common` schema. These tables act as intermediate tables to resolve many-to-many relationships between two tables.
 
 ##### ERD Requirements
 
