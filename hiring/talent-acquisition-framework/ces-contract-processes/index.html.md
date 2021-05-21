@@ -53,6 +53,7 @@ Once the entity of the chosen candidate has been determined and the CES team has
 
 1. Once the offer package has been approved in Greenhouse and the recruiter has given the verbal offer, go to the candidate's profile in Greenhouse. Verify the address is listed on the details tab. If the address is not listed you can locate it on the background check, or in the reference request email reply.
 1. If necessary click Edit Profile to update the candidate's name to their legal name (given during the reference/background check stage) and list any preferred names in quotes as the first name. Legal names are required on contracts and for proper export to Bamboo HR.
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1.  Update signatory and entity by clicking "Update" under Offer Details. Add signatory name and title, as well as entity based on candidate's location.
 1. Next you'll need to update the signatory's permissions to ensure we're able to send the DocuSign contract to them.
     - Navigate to `Job Setup` at the top of the page.
@@ -318,6 +319,7 @@ The process for New Hires is as follows:
 
 1. The offer is made by the recruiter per the [hiring process](https://about.gitlab.com/handbook/hiring/).
 1. The Candidate Experience Specialist emails the new team member the Contract Info Request - the Netherlands from GreenHouse.
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will update the GreenHouse Offer Details with BSN and Date of Birth when the new team member provides the necessary details and then generates the "IT BV Employee Temporary - the Netherlands" contract out of GreenHouse.
 1. The Candidate Experience Specialist will stage the contract for signature via DocuSign, CC the hiring manager, and CC the HRSavvy group email. This will ensure our payroll provider in this location can start their onboarding, well ahead of ours.
 
@@ -326,13 +328,19 @@ The People Operation Specialist are in charge of [contract renewals](/handbook/p
 _GitLab IT BV contracts should only be used for contractors. All Netherlands **employees** should be issued the GitLab BV contract. PEO contract templates should be provided by the PEO directly. We should not use GitLab BV or GitLab IT BV contracts for PEO models._
 
 ## Process for GitLab Team Members in Australia
-GitLab has an entity in Australia and use this [contract](https://docs.google.com/document/d/1YjvQnYsXBVDIRdV950az7Nw7vfEdUZyrEzXl0Jqqivk/edit) in this location. All team members in this location are employees.
+GitLab has an entity in this location. All team members in this location are employees.
+
+Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
 ## Process for GitLab Team Members in New Zealand
-GitLab has an entity in Australia, and New Zealand falls under that entity. These two contracts are used for this location: [Without OTE](https://docs.google.com/document/d/1TWrlDF9geNZGfuQ7FK1UUh17mM9ocqP7saQjDM8NN2U/edit#) and [With OTE](https://docs.google.com/document/d/1lO4T32nK2tZEUZQ6_sLEmg1gIhYNaJSwExzzMVrV2vI/edit). All team members in this location are employees.
+GitLab has an entity in Australia, and New Zealand falls under that entity. All team members in this location are employees.
+
+Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
 ## Process for GitLab Team Members in Ireland
 GitLab has an entity (Ireland LTD) in Ireland . All team members in this location are employees.
+
+Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
 ## CXC
 
@@ -348,6 +356,7 @@ To create the contract:
     -Select “Contract Info Request-CXC” from dropdown.
     -CC Recruiter
     -Click “Send Email”
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
@@ -382,6 +391,7 @@ To create the contract:
    - From the GreenHouse profile, under tools, click to email the new team member
    - From the template drop down list select: Contract Info Request - Safeguard
    - Send Email
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
@@ -437,6 +447,7 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 The process for creating and sending an agreement is as follows:
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
 1. CES sends “Contract Info Request-Global Upside” email to the new hire to collect additional details.
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
@@ -474,6 +485,7 @@ To create the contract:
     -Select “Contract Info Request-Remote.com” from dropdown.
     -CC Recruiter
     -Click “Send Email”
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will check if there is a probationary period.
     - Go to [Probationary Periods for Team Members Employed by a PEO](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) and check the candidate's country.
     - Select the duration of the probationary period (if any) in the "Offer Details" dropdown. If there isn't one, select "N/A" in that field.
@@ -529,6 +541,7 @@ It is important that the start date for German new hires is far enough out that 
 A wet signature is required for German employment agreements the following process must be followed:
 
 1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
+1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist sends the new team member the GreenHouse email template: German Contract Step 1.
 1. The Candidate Experience Specialist generates the German Contract form out of GreenHouse and stages for signature though GreenHouse and DocuSign. The Talent Acquisition Manager or the Senior Director of People Success (as listed on the signatory chart above) signs the German Contract.
 1. The Candidate Experience Specialist saves the unsigned contract to be used in a future step. It may require a manual edit to remove the signature tokens.
@@ -549,13 +562,7 @@ A wet signature is required for German employment agreements the following proce
 
 GitLab has an entity in Japan (GitLab GK) and use the GitLab GK contracts in this location. All team members in this location are employees.
 
-After a Japan contract is signed, the CES should alert the People Experience team of the new hire in our shared slack channel so they can start the payroll onboarding that takes 2 weeks pre-hire to set up.
-
-## Employment Agreements for GitLab team-members in Serbia
-
-(Changing Effective May 1, 2021) Serbia is a unique situation as the PEO that is used in Serbia is owned by a current GitLab team member. When the CES team gets a request to send a contract for a candidate in Serbia, we should send the PEO New Hire Request using the `Offer through DocuSign - Serbia`. 
-
-After sending this, Matija Čupić, the owner of the PEO, will send the contract to the candidate. Once it has been signed, the CES team will be notified and we can mark as hired and send the welcome email.
+Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
 ## Employment Agreements for GitLab team-members located everywhere else (IT BV contractor agreements)
 
@@ -567,7 +574,6 @@ After sending this, Matija Čupić, the owner of the PEO, will send the contract
 1. Update the "To" field to include the GitLab signatory and include the hiring manager in CC field
 1. Select Preview on DocuSign
 1. Once in DocuSign, update the signing order as you would with other contracts and hit send
-
 
 ## Adding Relocation Verbiage to Entity Contracts
 
