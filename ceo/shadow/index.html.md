@@ -195,7 +195,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-05-17 | 2021-05-21 | [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement | [James Komara](https://gitlab.com/ja-me-sk) - Area Sales Manager |
 | 2021-05-24 | 2021-05-28 | [Melissa Ushakov](https://gitlab.com/mushakov) - Sr. Product Manager - Manage:Access| [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
 | 2021-06-01 | 2021-06-04 | April Malone - Sijbrandij Personal EA | [Melissa Ushakov](https://gitlab.com/mushakov)- Sr. Product Manager - Manage:Access |
 | 2021-06-07 | 2021-06-11 | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial | April Malone - Sijbrandij Personal EA |
