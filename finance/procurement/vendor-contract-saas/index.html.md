@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: Vendor Contract Issue Process - Software
 ---
 
+{::options parse_block_html="true" /}
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -30,6 +32,17 @@ If yes, then follow the instructions on the table below:
 | **Add on Software** | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
 | Subscriptions<br>**New Vendor** | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() |
 | Subscriptions<br>**Existing Vendor** | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() |  Create a [Coupa Requisition]() |  Create a [Coupa Requisition]() |
+
+<div class="panel panel-info">
+**Unsure if your vendor is new or existing?**
+{: .panel-heading}
+<div class="panel-body">
+
+- Check the [How to Search for a Supplier]() section for a detailed guide.
+- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps.
+
+</div>
+</div>
 
 ### <i class="far fa-question-circle" id="biz-tech-icons"></i> Learn how to create a Coupa Requisition
 
@@ -245,3 +258,5 @@ If you have additional questions, please ask in #procurement slack channel. Or a
 
 After the Vendor Contract Request issue is opened or the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
 > Create the request **BEFORE** agreeing to business terms and/or pricing.
+
+{::options parse_block_html="false" /}
