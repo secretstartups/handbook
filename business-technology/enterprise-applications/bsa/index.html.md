@@ -11,7 +11,7 @@ title: "Business Systems Analysts"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-##  Welcome to the Business Systems Analysts Handbook!
+##  Welcome to the BSA Handbook!
 * We are on a mission to **Improve the Efficiency of GitLab by Designing and Implementing Scalable Business Solutions.**
 
 
@@ -28,7 +28,7 @@ GitLab handle: [@courtmeddaugh](https://gitlab.com/courtmeddaugh)
 Slack handle: `@Courtney Meddaugh` <br>
 Location: Austin, TX, USA
 
-**Lis Vinueza - Business Systems Analyst**  
+**Lis Vinueza - Senior Business Systems Analyst**  
 GitLab handle: [@lisvinueza](https://gitlab.com/lisvinueza)  
 Slack handle: `@lis`    
 Location: Quito, Ecuador
@@ -45,15 +45,31 @@ Being business process first, we develop requirements, use cases, and process fl
 We often assist on the roll-out of new applications and systems. This involves vendor evaluations, current state documentation,  In the past, we have worked on implementations of:
 * Coupa
 * DocuSign
+* Zuora Revenue
 
 #### Business Process Enhancements
-We partner closely with business stakeholders to help them improve existing business processes and help to design new ones. 
+We partner closely with business stakeholders to help them improve existing business processes and help to design new ones. Some examples of business processes we have worked on include:
+* 
 
 #### Bug Fixes
 We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected.
 
 ### How Can You Contact Us?
-Slack: `#enterprise-apps` 
-GitLab: You can tag the Business Systems Analysts Team in GitLab using:  @gitlab-com/business-technology/enterprise-apps/bsa
+Slack Channel: `#enterprise-apps` 
+Slack Tag: `@bsa`
+GitLab: You can also tag the Business Systems Analysts Team in GitLab using:  @gitlab-com/business-technology/enterprise-apps/bsa
 
+
+### How We Work
+#### Projects - Mark Quitevis
+
+#### Rolly - Lis Vinueza
+Rolly is our status update tool
+
+#### Labels - Barbara Roncato
+Labels help us organize the status of issues
+
+
+#### Business Engagement - Meetings Barbara Roncato
+We meet weekly with our business stakeholders
 
