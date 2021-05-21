@@ -30,7 +30,7 @@ The goal of this page:
 
 ### Maintenance Schedule:
 
-1. As needed, scheduled Maintenance will be performed every two weeks on Friday, from 9am to 11am EST.
+1. As needed, Scheduled Maintenance will be performed every two weeks on Friday, from 9am to 11am EST.
 
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
