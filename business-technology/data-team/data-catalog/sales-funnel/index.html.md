@@ -23,6 +23,15 @@ The goal of this page:
     * To learn more about developing Sisense dashboards, take the [Dashboard Developer certification](https://docs.google.com/forms/d/e/1FAIpQLSdWz4VNYM5ItjzmgeU6H3hafY_zycd2NkAlAM4sPXJCqrtoUw/viewform).
 * And overall help everyone contribute!
 
+### Release Train Cadence:
+
+1. Requirements gathering due date: 1 week after the Sales Key Meeting.
+1. Release shipped for UAT: 1 week before Sales Key Meeting.
+
+### Maintenance Schedule:
+
+1. As needed, scheduled Maintenance will be performed every two weeks on Friday, from 9am to 11am EST.
+
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Targets-vs.-Actuals" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Sales Funnel - Targets vs. Actuals Dashboard</a>
