@@ -31,10 +31,9 @@ If yes, then follow the instructions on the table below:
 | Subscriptions<br>**New Vendor** | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() |
 | Subscriptions<br>**Existing Vendor** | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() |  Create a [Coupa Requisition]() |  Create a [Coupa Requisition]() |
 
-### How do I request approval for a Software Purchase?
+### <i class="far fa-question-circle" id="biz-tech-icons"></i> Learn how to create a Coupa Requisition
 
-1. After the Vendor Contract Request issue is opened or the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
-   - Create the request **BEFORE** agreeing to business terms and/or pricing.
+- Check the [How to Create a Requisition in Coupa]() page for a detailed walkthrough guide.
 
 
 ## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for any other GitLab entity?
@@ -42,11 +41,6 @@ If yes, then follow the instructions on the table below:
 > _GitLab GK, GitLab Korea Limited, GitLab UK Limited, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp., GitLab France SAS, GitLab Ireland Limited or GitLab Singapore Holding PTE LTD_
 
 As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa-faq/#does-the-coupa-implementation-impact-all-gitlab-entities), Purchase Requests for all other GitLab entities will continue to use the existing procurement issues. Check the [_Deep Dive on the Software Vendor Purchase Request issue_](/handbook/finance/procurement/vendor-contract-saas/#-deep-dive-on-the-software-vendor-purchase-request-process) section for a detailed walkthrough guide.
-
-
-### <i class="far fa-question-circle" id="biz-tech-icons"></i> Learn how to create a Coupa Requisition
-
-- Check the [How to Create a Requisition in Coupa]() page for a detailed walkthrough guide.
 
 
 ### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Software Vendor Purchase Request issue
@@ -246,3 +240,8 @@ Create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/l
 1. If your annual contract value is equal to or greater than $100K, a Purchase Order must be created to pay the vendor. See Creating a Purchase Order for steps to do so.
 
 If you have additional questions, please ask in #procurement slack channel. Or attend Purchasing Office Hours, available in the GitLab Team Calendar.
+
+### How do I request approval for a Software Purchase?
+
+After the Vendor Contract Request issue is opened or the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+> Create the request **BEFORE** agreeing to business terms and/or pricing.
