@@ -71,7 +71,9 @@ In the event of an severity::1 (critical) security vulnerability email communica
 {: #active-nurtures-visualization}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-To be updated and documented.
+To be updated and documented upon revamp of nurture engine and database nurutring FY22 Q2.
+- [Epic for Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022)
+- [Epic for overall nurture strategy - no lead left behind](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
 
 ### Active Nurture Programs
 {: #active-nurture-programs}
@@ -101,9 +103,9 @@ Self Hosted Ultimate trial nurture communication are sent via Marketo and Outrea
 {: #gtm-motion-nurtures}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-The following are active GTM motion nurture programs, which each contain content streams for awareness, consideration, and decision/purchase stages. They send bi-weekly with the date of deployment included in each bullet.
+The following are active GTM motion nurture programs, which each contain content streams for awareness, consideration, and decision/purchase stages. They send bi-weekly with the date of deployment included in each bullet. The Prespriptive Buyers Journey Nurtures have separate tracks for Practitioners and for Managers. They are designed so that they send the the right content at the right time to the right persona (aligning with to stage of the buyers journey).
 
-- [CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5001A1), sends on Tuesdays)
+- [CI Use Case Prespriptive Buyers Journey Nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/809) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP7537B2), sends on Wednesdays)
     - [French CI Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/752) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5239A1), sends on Thursdays)
     - [German CI Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5299A1), sends on Thursdays)
     - [Spanish CI Use Case Nurture]() - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP4863A1), sends on Tuesdays)
@@ -112,8 +114,8 @@ The following are active GTM motion nurture programs, which each contain content
 - [GitOps Use Case Nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2769) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5545A1), sends on Thursdays)
 - [Version Control & Collaboration Use Case Nurture](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2435) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP5465A1), sends on Thursdays)
 - [AWS Partner Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/624) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP4204A1), sends on Wednesdays)
-- [Jenkins Take Out](https://gitlab.com/groups/gitlab-com/marketing/-/epics/282) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP6880A1), sends on Thursdays)
-    - The messaging for this track is centered around why GitLab built-in CI/CD solution is a better alternative than Jenkins plug-in solution. This track is targeted towards director, tools owner, and chief/prinicipal architects in the functions of applications, development, QA, and DevOps.
+- [Jenkins Take Out Prescriptive Buyers Journey Nurture - ](https://gitlab.com/groups/gitlab-com/-/epics/1036) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP6880A1), sends on Thursdays)
+    - The messaging for this track is centered around why GitLab built-in CI/CD solution is a better alternative than Jenkins plug-in solution.
 - [Public Sector Digital Transformation Nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1659) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP6828A1), sends on Tuesdays)
 - [SMB Mixed Use Case Nurture](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/epics/2) - ([link to Marketo](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/NP7116A1), sends on ?)
 
@@ -126,61 +128,11 @@ Note: Nurtures were moved from every-other-week to be weekly on 2021-01-16 to ac
 
 </details>
 
-#### In Product Email Campaigns
+### How nurture programs are set up in Marketo
+{: #nurture-program-setup}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
-To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth/-/epics/62#note_494532868)
-
-**These are also known as:**
-- User onboarding emails
-- Free user nurture
-- User nurture
-- User emails
-- Any sort of combination of the above
-
-**We launched these for:**  
-- Free SaaS users - Beginning of Feb, 2021
-- Free Self-managed users - Launching mid-late may, 2021
-
-**Iterations:**  
-We changed send time from 9am UTC every day (5am on the US east coast, 2am pacific) to 4PM UTC. This Change went live April 29, 2021. We could use April 30th forward for a comparison.
-
-**Who’s part of this project?**  
-- Michael Karampalas (Create path)
-- Sam Awezek (Trial and add Team paths)
-- Jensen Stava (Verify path)
-- Nout Boctor-Smith - email marketing DRI, mailgun analytics, & assist technical setup
-- Growth engineers - technical setup
-- Valerie Silverthorne - copywriter
-
-
-**So what’s the deal?**  
-
-Basically, we have a series of emails that deploy to net new namespaces. The goal is to get free users to use features of the product. There are 4 tracks - adopt Create, adopt Verify, invite Team, try a Trial. Each track has 3 emails that try to nudge users to take action. If a user takes the action referenced in the email, they will not get the next email in the series.
-
-**Keep in mind that:**  
-- only 50% namespaces get enrolled (control vs experiment)
-- sub-groups are excluded
-- the tracking of this data only started a few weeks ago (April 2021)
-- we only send emails if they have not fulfilled the previous action. For invite it would be if they have started a trial
-
-**Sisense data**  
-
-- [Dashboard](https://app.periscopedata.com/app/gitlab/820093/WIP:-Onboarding-Emails)
-- Control = not getting the email, candidate = getting the emails
-
-
-**From email and reply-to email**  
-`Team @ gitlab.com` -  which is a group inbox. Amy is also a member of this group inbox.
-
-**Mailgun**  
-These emails are sent “from the product” meaning the growth engineers build the emails in the product and use Mailgun as the SMTP. All of these emails are tagged “marketing” in Mailgun so when you view analytics, it’s an aggregate look for all of these emails. There is also a Mailgun unsubscribe link. All of this data lives in Mailgun. 
-
-**HTML files**  
-All of the HTML email files are in [Litmus](https://litmus.com/folders/14964).
-
-**For more in-depth information about how these emails are implemented, please view the [project epic](https://gitlab.com/groups/gitlab-org/growth/-/epics/62) and all associated project issues.**
-
-
+**Note: Salesforce campaigns should NEVER be created for emails or nurture programs. This is because the utms within the emails are captured on the Bizible touchpoints to tell us about this channel driving engagement.**
 
 ### Nurture entry (system logic and manual flow)
 {: #nurture-entry}
@@ -220,6 +172,59 @@ While the future automated nurture system is in progress, to request to add a se
    - If any other team is DRI: [request-add-to-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
 
 These issue templates are also built into the epic codes throughout the handbook accordingly. As the overarching automated nurture logic is created, AND epic codes consistently indicate the required details for the logic, we will discontinue use of these issue templates.
+
+#### In Product Email Campaigns
+{: #in-product-emails .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth/-/epics/62#note_494532868)
+
+**These are also known as:**
+- User onboarding emails
+- Free user nurture
+- User nurture
+- User emails
+- Any sort of combination of the above
+
+**We launched these for:**  
+- Free SaaS users - Beginning of Feb, 2021
+- Free Self-managed users - Launching mid-late may, 2021
+
+**Iterations:**  
+We changed send time from 9am UTC every day (5am on the US east coast, 2am pacific) to 4PM UTC. This Change went live April 29, 2021. We could use April 30th forward for a comparison.
+
+**Who’s part of this project?**  
+- Michael Karampalas (Create path)
+- Sam Awezek (Trial and add Team paths)
+- Jensen Stava (Verify path)
+- Nout Boctor-Smith - email marketing DRI, mailgun analytics, & assist technical setup
+- Growth engineers - technical setup
+- Valerie Silverthorne - copywriter
+
+**So what’s the deal?**  
+Basically, we have a series of emails that deploy to net new namespaces. The goal is to get free users to use features of the product. There are 4 tracks - adopt Create, adopt Verify, invite Team, try a Trial. Each track has 3 emails that try to nudge users to take action. If a user takes the action referenced in the email, they will not get the next email in the series.
+
+**Keep in mind that:**  
+- only 50% namespaces get enrolled (control vs experiment)
+- sub-groups are excluded
+- the tracking of this data only started a few weeks ago (April 2021)
+- we only send emails if they have not fulfilled the previous action. For invite it would be if they have started a trial
+
+**Sisense data**  
+
+- [Dashboard](https://app.periscopedata.com/app/gitlab/820093/WIP:-Onboarding-Emails)
+- Control = not getting the email, candidate = getting the emails
+
+
+**From email and reply-to email**  
+`team @ gitlab.com` -  which is a group inbox. Amy is also a member of this group inbox.
+
+**Mailgun**  
+These emails are sent “from the product” meaning the growth engineers build the emails in the product and use Mailgun as the SMTP. All of these emails are tagged “marketing” in Mailgun so when you view analytics, it’s an aggregate look for all of these emails. There is also a Mailgun unsubscribe link. All of this data lives in Mailgun. 
+
+**HTML files**  
+All of the HTML email files are in [Litmus](https://litmus.com/folders/14964).
+
+**For more in-depth information about how these emails are implemented, please view the [project epic](https://gitlab.com/groups/gitlab-org/growth/-/epics/62) and all associated project issues.**
 
 ## Newsletter
 {: #newsletter .gitlab-purple}
@@ -274,7 +279,7 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 1. In the `Approval` box, click on `Approve program`.
 1. Return to the newsletter issue and leave a comment telling requestor  to double check all has been set up correctly. Close the issue when this is confirmed.
 
-## Ad-hoc (one-time) emails - requesting an email
+## Ad-hoc (one-time) emails
 {: #one-time-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -283,6 +288,29 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Until our foundational Marketo database segmentations (noted in the overview at the top of this handbook page) are rolled out, there are challenges in targeting audiences efficiencly. If you would like to propose an MVC email, please remember that the tactical execution may be beyond bandwidth constraints.
+
+### Steps to set up and edit emails
+{: #setting-up-emails}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [Video on how to create an email](https://www.youtube.com/watch?v=pfl71Hh5e2E)
+* [Video on how to edit an email](https://www.youtube.com/watch?v=RUvykCohLqI)
+
+### (Interim) target list creation
+{: #target-lists}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+Target list issue templates are an interim solution while foundational work is being complete for overall [Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022) (DRI: Nout Boctor-Smith).
+
+* **Lifecycle Stage (Lead Status):** Raw, Inquiry, Nurture, MQL, Accepted, Qualifying, Qualified
+* **Sales Segment:** add filter for `sales segment` Marketo segment
+* **Region:** add filter for `region` Marketo segment
+* **Sub-Region:** add filter for `sub-region` Marketo segment
+* **Sales Territory (if specific):** ??
+* **Key Persona:** ??
+* **Activity filters:** ??
+* **Inclusions:** ??
+* **Exclusions:** ??
+
+**What to do with DemandBase Lists:** In the Marketo smartlist, add filter for either `Account ID (18) ` or `Email Address` (depending on what is provided in the DemandBase target list export that the requester has submited) and paste the list of Account IDs or Email Address from the DemandBase target list export.
 
 #### Email Request Issue Template
 {: #email-request-issue}
