@@ -20,7 +20,7 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 - Please use confidential issues for topics that should only be visible to team members at GitLab.
 
-[Contract and Payment Approval Process](/handbook/finance/procure-to-pay)
+[Procurement](handbook/finance/procurement/)
 
 [Operating Metrics](/handbook/finance/operating-metrics/)
 
