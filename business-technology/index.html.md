@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Business Technology
+description: Business Technology
+---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -8,7 +14,6 @@
 
 ## <i id="biz-tech-icons" class="far fa-paper-plane"></i>How to reach out to us?
 
-``` sse
 <div class="flex-row" markdown="0">
   <div>
     <h5>Team Member Enablement</h5>
@@ -21,9 +26,7 @@
     <a href="https://gitlab.com/gitlab-com/business-technology/Business-Technology/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue tracker</a>
   </div>
 </div>
-```
 
-``` sse
 <div class="flex-row" markdown="0">
   <div>
     <h5>Procurement</h5>
@@ -36,9 +39,7 @@
     <a href="/handbook/business-technology/data-team/#contact-us" class="btn btn-purple" style="width:170px;margin:5px;">Contact the team</a>
   </div>
 </div>
-```
 
-``` sse
 <div class="flex-row" markdown="0">
   <div>
     <h5>IT Compliance</h5>
@@ -48,21 +49,20 @@
   <div style="width:50%;margin:5px;">
   </div>
 </div>
-```
 
 ## <i id="biz-tech-icons" class="far fa-newspaper"></i>What's happening?
 
 - [FY22 OKRs Business Technology](https://gitlab.com/gitlab-com/business-technology/okrs/-/blob/master/README.md)
 - [CIO Speaker Series](https://www.youtube.com/watch?v=dHtIR7Oya6o&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ)
-    - **Stephen Franchetti, CIO and VP of Business Technology, Slack** - [2020-08-19. **Topic:** Business Technology Rebranding](https://youtu.be/j9vjNMVuL9c)
-    - **Eric Johnson, CIO, Survey Monkey** - [2020-09-16. **Topic:** Business Engagement](https://www.youtube.com/watch?v=dHtIR7Oya6o)
+    - **Shobhana (Shobz) Ahluwalia, CIO, Peloton Interactive** - [2021-05-5. **Topic:** Diversity and Inclusion](https://www.youtube.com/watch?v=frHW0fNbm5c&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=6)
     - **Mark Settle, 7xCIO, Author** - [2020-10-14. **Topic:** Discuss Truth from the Valley: A practical Primer on IT Management for the Next Decade](https://www.youtube.com/watch?v=MLAboHCE434)
+    - **Eric Johnson, CIO, Survey Monkey** - [2020-09-16. **Topic:** Business Engagement](https://www.youtube.com/watch?v=dHtIR7Oya6o)
+    - **Stephen Franchetti, CIO and VP of Business Technology, Slack** - [2020-08-19. **Topic:** Business Technology Rebranding](https://youtu.be/j9vjNMVuL9c)
 - [Endpoint management](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48867)
 - Book Club: [Truth from the Valley: A Practical Primer on Future IT Management Trends](https://gitlab.com/gitlab-com/book-clubs/-/issues/12)
 
 ## <i id="biz-tech-icons" class="fas fa-tasks"></i>Objectives of our organization
 
-``` sse
 <table id="objectives-table-bizops">
   <tr>
     <th>
@@ -117,7 +117,6 @@
       </td>
   </tr>
 </table>
-```
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>The team
 
