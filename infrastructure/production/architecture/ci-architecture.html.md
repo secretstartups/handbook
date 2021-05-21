@@ -15,12 +15,10 @@ available for GitLab.com users and managed by the [Infrastructure teams](../).
 ## General Architecture
 {: #ci-general-arch}
 
-Our CI infrastructure is hosted on Google Cloud Engine (GCE) with a backup
-environment on Digital Ocean (DO). In GCE we use the `us-east1-c` and
-`us-east1-d` regions. In the event of GCE downtime, we can unpause the Digital
-Ocean runners which run in NYC1. All of them are configured via Chef. These
-machines are manually created and added to chef and do NOT use terraform at this
-time.
+Our CI infrastructure is hosted on Google Cloud Engine (GCE). In GCE we
+use the `us-east1-c` and `us-east1-d`  All of them are configured via
+Chef. These machines are manually created and added to chef and do NOT
+use terraform at this time.
 
 In each region we have few types of machines:
 
@@ -36,9 +34,6 @@ In each region we have few types of machines:
 - **Helpers** - hosts that provide auxiliary services such as monitoring and
   cache.
   - **Prometheus** - Prometheus servers in each region monitor machines.
-  - **Runners Cache** - Caches job data and images from Docker Hub (**DO ONLY**)
-  - **Consul** - Consul servers provide service discovery for prometheus (**DO
-    ONLY**)
 
 Runner managers connect to the GitLab.com and dev.gitlab.org API in order to
 fetch jobs that need to be run. The autoscaled machines clone the relevant
@@ -102,14 +97,14 @@ The runners are connected as follows:
 
 ### Cloud Region Internal Communication
 
-- **runners-manager-X** to **autoscaled-machine-N** - Runner starts jobs on
-  autoscaled machines using the Docker Engine API. After the machine is created,
-  Runner receives IP:PORT information about where the Docker Engine API endpoint
-  is available. In GCE this uses the internal IP address, but DO uses the
-  external address. Using the Docker Engine API, Runner first schedules the
-  different containers used for the purpose of the job. It then starts job’s
-  scripts and receive commands output. This output is then sent upstream to
-  GitLab as it was described above.
+- **runners-manager-X** to **autoscaled-machine-N** - Runner starts jobs
+  on autoscaled machines using the Docker Engine API. After the machine
+  is created, Runner receives IP:PORT information about where the Docker
+  Engine API endpoint is available. In GCE this uses the internal IP
+  address. Using the Docker Engine API, Runner first schedules the
+  different containers used for the purpose of the job. It then starts
+  job’s scripts and receive commands output. This output is then sent
+  upstream to GitLab as it was described above.
 
 - **prometheus-X** to **autoscaled-machine-N** - the Prometheus server requests
   the autoscaled machines for exported metrics. It uses the HTTP(S) protocol for
@@ -128,41 +123,6 @@ The runners are connected as follows:
 - **autoscaled-machine-N** to **external Docker Registry** - Docker Engine,
   using Docker Registry API, pulls Docker Images from external machines. This
   could be Docker Hub, GitLab Registry, or any other Docker compatible registry.
-
-### Digital Ocean Specific Services
-
-- **autoscaled-machine-N** to-and-from **runners-cache-X** - the job uses
-  `gitlab-runner-helper` binary which can access the Minio S3 service to
-  download and/or archive cache. This operation is done using the S3 protocol.
-  (**DO ONLY**)
-
-- **Docker Engine**, when started by Docker Machine on behalf of Runner, may
-  also be configured to use the Registry Mirror service on the cache server. In
-  that case, Docker Engine will try to access Registry Mirror using the Docker
-  Registry API in order to download required layers from the Mirror instead of
-  the external Registry. (**DO ONLY**)
-
-- **autoscaled-machine-N** to-and-from **Consul Cluster** - autoscaled machines
-  have Consul Agent installed on them. This Agent is using Consul’s GOSSIP
-  protocol to register/unregister themselves from the Cluster. During
-  registration machines provide information about services available on the
-  machine. Currently we export only information about metrics exporters for
-  Prometheus). (**DO ONLY**)
-
-- **prometheus-X** to **Consul Cluster** - the Prometheus server also contains
-  the Consul Agent. This agent is using Consul’s GOSSIP protocol to
-  register/unregister information about services (also restricted to metrics
-  exporters). Additionally Prometheus is using it’s Consul Service Discovery
-  mechanism to gather information about all targets that should be scraped.
-  (**DO ONLY**)
-
-- **prometheus-X** to **consul-X** - Prometheus server requests each of consul
-  servers for exported metrics. It uses the HTTP(S) protocol for this. (**DO
-  ONLY**)
-
-- **runners-cache-X** to **external Docker Registry** - if Registry Mirror is
-  used, it pulls requested images from external Registries using the Docker
-  Registry API. It pulls only layers that are not available locally already.
 
 ## Deployment and Configuration Updates
 {: #ci-configuration}
@@ -203,47 +163,6 @@ Some of the general configuration parameters can’t be refreshed without
 restarting the process. In that case we need to use the same script as for the
 Runner Upgrade.
 
-## Additional Features
-{: #ci-additional-features}
-
-We also have a few processes that are configured on some of the runner-manager-X
-machines and are not included in the graphs above:
-
-- **digitalocean-exporter** - currently started manually as Docker Containers
-  (with --restart always policy) on `private-runners-manager-1` and
-  `private-runners-manager-2`hosts. This process contacts the DO API and fetches
-  information about used droplets.
-
-- **hanging-droplets-cleaner** - currently started manually as Docker Containers
-  (with --restart always policy) on all DO Runners (`shared-runners-manager-1`,
-  `shared-runners-manager-2`, `gitlab-shared-runners-manager-1`,
-  `gitlab-shared-runners-manager-2`, `private-runners-manager-1`,
-  `private-runners-manager-2`). This process does a cross-check between machines
-  available locally for Docker Machine and Droplets existing in DO. If it find
-  any Droplet that doesn’t have an existing machine on the host, it removes the
-  Droplet. This process is also exporting Prometheus metrics about the number of
-  found and removed droplets and about errors occurred during such operations.
-
-- **droplet-zero-machines-cleaner** - is currently started manually as Docker
-  Containers (with --restart always policy) on all DO Runners
-  (`shared-runners-manager-1`, `shared-runners-manager-2`,
-  `gitlab-shared-runners-manager-1`, `gitlab-shared-runners-manager-2`,
-  `private-runners-manager-1`, `private-runners-manager-2`). This process looks
-  for a locally defined Docker Machines that in their configuration have
-  DropletId=0 value. If such machine is found, and is older than a defined
-  limit, it’s removed. The process is also exporting Prometheus metrics about
-  the number of found and removed machines and about errors occurred during such
-  operations.
-
-All above metrics can be tracked on our [CI
-Dashboard](https://dashboards.gitlab.net/d/000000159/ci).
-
-**hanging-droplets-cleaner** and **droplet-zero-machines-cleaner** processes are
-specific for DigitalOcean integration. We’ve discovered specific problems for
-this cloud provider and the tools were developed to automatically handle the
-cleanup.
-
-
 ## Important Links and Metrics
 {: #ci-important-info-links}
 
@@ -261,11 +180,6 @@ cleanup.
   `prometheus-01.us-east1-d.gce.gitlab-runners.gitlab.net` - for scraping
   metrics from exporters installed on autoscaled machines - currently node
   exporter only.
-  - DO environment is being slowly terminated and it exists only for backup
-    purposes. We’ve already had some strange outages on GCP and DO was enabled
-    during this time.
-  - In DO we’re using consul for service discovery for CI Prometheus to detect
-    all autoscaled machines.
   - In GCP we’re using native GCP service discovery support that is available in
     Prometheus.
 - Alerts are sent to #ci-cd-alerts channel on Slack
