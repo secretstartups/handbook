@@ -554,6 +554,24 @@ Custom carousels in a channel can help organize and guide users to highlighted c
 1. Click the `add item` box to add content to that carousel. Remember that only shared content to the specific channel will appear here.
 1. The changes will save automatically. Navigate to the channel in the GitLab Learn front end and refresh the page to see your changes
 
+#### Curating a channel as a Curator
+
+[GitLab Learn Curators](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/contribute/team-member-contributions/#become-a-gitlab-learn-curator) can organize and curate content on a channel using the EdCast front end. Below are the outlined steps and training video for this process:
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/P3hyrcfmIsw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+1. Open the channel where you're added as a `Curator`
+1. After you've shared related content to the channel, click into the `edit` button on the channel level
+1. Scroll down to open the `Advanced Settings` option
+1. Scroll down to the `Content Categories` section. Here, you will see all the existing carousels on your channel. All channels will automatically have the following carousels turned on: SmartCards, Pathways, Journeys, Courses and Streams
+1. Toggle these automatic carousels on and off as needed
+1. To add a new carousel, enter the name of your carousel and clikc the `+add` button
+1. Edit this caroulel by clicking into the pencil that appears to the right of the toggle enable/disable button
+1. Here, you can search and select any card shared to that channel to appear in the carousel
+
+It's best practice to create these custom carousel on a channel rather than use the automatic options as these provide a more curated and specific experience for the learner.
 
 ### Carousels
 
