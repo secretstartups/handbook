@@ -85,3 +85,6 @@ The focus is on **positioning GitLab as a viable and compelling solution to a po
 Users and buyers have concluded that they need to invest in solving a specific business problem and are now comparing and evaluating specific options.  In this stage, they are evaluating and comparing different options in order to identify the ideal solution for their specific situation.
 
 The focus is on key information that a buyer needs to **justify GitLab as their chosen solution**.
+
+## Adoption journey
+Our customers get the most value out of the GitLab product when they use multiple features together. The [Multi-feature usage: Adoption Journey](https://about.gitlab.com/handbook/product/product-principles/#multi-feature-usage-adoption-journey) page covers the most common path our customers follow to adopt GitLab's product stages.
