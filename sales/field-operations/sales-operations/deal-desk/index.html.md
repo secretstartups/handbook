@@ -201,6 +201,8 @@ F.  **Order Form Generation**
 
 This quote type should be only used when **new users are being added to an existing subscription during the current subscription term.** This includes both additional licenses to existing products, and true-ups. This also includes any scenario where the products are being changed during the term - i.e., an upgrade from Premium to Ultimate. Amendment quotes cannot extend a subscription term. 
 
+Amendments to subscriptions must be processed entirely before any changes can be made via additional amendments or a renewal opportunity. This means that the Add On Opportunity should be Closed-Won before submitting a Renewal opportuntiy for approval. 
+
 **A.  Add-On Quote Creation**
 
 *   Create the Add-on opportunity on the latest closed won annual opp (Renewal or New Business) that is related to that subscription (use the "New Add On Opportunity" button)
