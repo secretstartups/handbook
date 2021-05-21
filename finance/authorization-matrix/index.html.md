@@ -2,18 +2,19 @@
 layout: markdown_page
 title: "Authorization Matrix"
 ---
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-For instruction on how to get approval to purchase goods or services see our [Procure to Pay Process](/handbook/finance/procure-to-pay/).
+For instruction on how to get approval to purchase goods or services see our [Procure to Pay Process](/handbook/finance/procurement/).
 For instruction on how to get Sales contracts countersigned, please our [order processing - obtaining signatures process](/handbook/business-ops/order-processing/#obtain-signatures)
 
 ## Signing Legal Documents
 
 The table below designates team members that are authorized to sign legal documents, with the exception of NDAs covering a physical visit of another organization.
 When working with legal agreements with vendors, consultants, and so forth, bear in mind the [signature authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix).
-If you need to obtain approval for a vendor contract, please create a confidential issue in the finance issue tracker using our [Contract Approval Workflow](/handbook/finance/procure-to-pay/).
+If you need to obtain approval for a vendor contract, please create a confidential issue in the finance issue tracker using our [Contract Approval Workflow](/handbook/finance/procurement/).
 
-For all other documents that need to be signed, filled out, sent, or retrieved electronically, please do your best to fill out the form using the handbook and [wiki](https://gitlab.com/gitlab-com/finance/wikis/company-information ) then e-mail it to `legal@` with the following information:
+For all other documents that need to be signed, filled out, sent, or retrieved electronically, please do your best to fill out the form using the handbook and [wiki](https://gitlab.com/gitlab-com/finance/wikis/company-information) then e-mail it to `legal@` with the following information:
 
 1. Names and email addresses of those who need to sign the document.
 1. Any contractual information that needs to be included in the document.
@@ -27,13 +28,13 @@ The process that Legal will follow is:
 1. Review the document and prepare as requested.
 1. Have the requestor check the prepared document, AND obtain approval from the CFO or CEO (such approval may be explicit in the email thread that was sent to `legal@`, in which case a second approval is not needed unless there have been significant edits to the document).
 1. Requestor shall stage the document for signing in HelloSign and cc (at minimum) `legal@`.
-1. Once signed: 
-a. For customer contracts, the Requestor needs to attach the document to the applicable Contracts Object in Salesforce, and fill out all applicable fields in the Contracts Object. 
-b. For vendor agreements, Requestor will [file the document in ContractWorks](/handbook/legal/vendor-contract-filing-process/).
+1. Once signed:
+   a. For customer contracts, the Requestor needs to attach the document to the applicable Contracts Object in Salesforce, and fill out all applicable fields in the Contracts Object.
+   b. For vendor agreements, Requestor will [file the document in ContractWorks](/handbook/legal/vendor-contract-filing-process/).
 
 ## Authorization Matrix
 
-*(All Functional Approvals require approval from previous tiers in hierarchy - Example: A CEO approval must also be approved by the exec team member prior to the CEO)*
+_(All Functional Approvals require approval from previous tiers in hierarchy - Example: A CEO approval must also be approved by the exec team member prior to the CEO)_
 
 Changes or amendments to the authorization matrix is approved by the CEO and CFO. If authority to the CEO is changed then board approval is required.
 
@@ -452,10 +453,9 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="tr-auth-matrix">Chief Legal Officer Approves</div>
 </div>
 
-
 **Notes/Comments**:
 
-- (1) Delegation of authority not to exceed 90 days in duration is permitted. Written notice of delegation shall be provided by the  delegating team member to the CFO,  CLO,  PAO and Director of Legal, Corporate in order for the delegation to be effective.
+- (1) Delegation of authority not to exceed 90 days in duration is permitted. Written notice of delegation shall be provided by the delegating team member to the CFO, CLO, PAO and Director of Legal, Corporate in order for the delegation to be effective.
 - (2) If not included in Company Plan.
 - (3) Approved by Compensation Committee.
 - (4) Approval from [function](/company/team/structure/#table) responsible for supporting associated objectives and goals.
