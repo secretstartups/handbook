@@ -257,7 +257,7 @@ To use the dashboard select a Fiscal Quarter in the filters and any of the optio
 * The `US East` row shown in the sales segment drilldown field is composed of both the `East` and `LATAM` region
 * Sales segment drilldown = APAC is composed of all the regions that are not `East`, `West`, `LATAM` and `EMEA`
 * Sales segment drilldown = SMB is composed of the segment SMB plus all the segments that are not `Large` and `Mid-Market`
-* Channel Type = Fulfilled is composed of the Channel Type Fulfilled plus NULL|Missing Channel Type
+* Channel Type = Fulfilled is composed of the Channel Type Fulfilled plus NULL/Missing Channel Type
 
 </details>
 
