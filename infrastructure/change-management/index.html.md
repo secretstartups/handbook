@@ -37,7 +37,7 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 | Infrastructure | Responsible for implementing and executing this procedures | 
 | Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
-# Change Management Procedure
+# Infrastructure Change Management Procedure
 
 ## Trust
 
