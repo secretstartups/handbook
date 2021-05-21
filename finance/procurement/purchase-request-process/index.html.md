@@ -2,7 +2,6 @@
 layout: handbook-page-toc
 title: Purchase Request Process
 ---
-{::options parse_block_html="true" /}
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -138,27 +137,6 @@ In these instances, the vendor can invoice GitLab in Tipalti, and AP will route 
 
 ## How do I open a Purchase Request?
 
-### Is your request for one of the US (GitLab Inc / GitLab Federal LLC) or Netherlands (GitLab BV / GitLab IT BV) entities?
-
-If yes, then follow the instructions on the table below:
-
-|   | <$25K | >$25K | >$50K |
-| ------ | ------ | ------ | ------ |
-| [New Software](/handbook/finance/procurement/vendor-contract-saas/) | Coupa Requisition: “New Supplier” form | Procurement Intake Issue | Procurement Intake Issue |
-| [Software Renewal](/handbook/finance/procurement/vendor-contract-saas/) | Coupa Requisition | Procurement Intake Issue | Procurement Intake Issue |
-| [Add on Software](/handbook/finance/procurement/vendor-contract-saas/) | Procurement Intake Issue | Procurement Intake Issue | Procurement Intake Issue |
-| [Professional Services Agency/Contractor - **New Vendor**](/handbook/finance/procurement/vendor-contract-professional-services/) | Coupa Requisition: “New Supplier” form | Coupa Requisition | Coupa Requisition |
-| [Professional Services Agency/Contractor - **Existing Vendor**](/handbook/finance/procurement/vendor-contract-professional-services/) | Coupa Requisition | Coupa Requisition | Coupa Requisition |
-| [PS Partner Team](/handbook/finance/procurement/vendor-contract-professional-services/) | Coupa Requisition | Coupa Requisition | Coupa Requisition |
-| [Field Marketing & Events - **New Vendor**](/handbook/finance/procurement/vendor-contract-marketing/) | Coupa Requisition: “New Supplier” form | Coupa Requisition: “New Supplier” form | Procurement Intake Issue |
-| [Field Marketing & Events - **Existing Vendor**](/handbook/finance/procurement/vendor-contract-marketing/) | Coupa Requisition | Coupa Requisition | Procurement Intake Issue |
-| [Subscriptions - **New Vendor**](/handbook/finance/procurement/vendor-contract-saas/) | Coupa Requisition: “New Supplier” form | Coupa Requisition: “New Supplier” form |Coupa Requisition: “New Supplier” form |
-| [Subscriptions - **Existing Vendor**](/handbook/finance/procurement/vendor-contract-saas/) | Coupa Requisition: “New Supplier” form | Coupa Requisition | Coupa Requisition |
-
-### Is your request for any other GitLab entity? _(GitLab GK, GitLab Korea Limited, GitLab UK Limited, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp., GitLab France SAS, GitLab Ireland Limited or GitLab Singapore Holding PTE LTD)_
-
-If yes, then follow the instructions from each link below:
-
 #### [**Software/SaaS**](/handbook/finance/procurement/vendor-contract-saas/)
 - Read more about this purchase type BEFORE agreeing to business terms and/or pricing.
 - It is preferred we negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term relationships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
@@ -171,6 +149,4 @@ If yes, then follow the instructions from each link below:
 #### [**Professional Services and all other general contracts**](/handbook/finance/procurement/vendor-contract-professional-services/)
 - Read more about this purchase type BEFORE agreeing to business terms and/or pricing.
 - This type of request can be used for addendums that either do or do not change pricing.
-
-{::options parse_block_html="false" /}
 
