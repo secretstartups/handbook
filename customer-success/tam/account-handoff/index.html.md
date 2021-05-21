@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Account Hand-Off TAM-to-TAM Checklist"
+title: "Account Handoff TAM-to-TAM Checklist"
 ---
 
 ## On this page
@@ -88,7 +88,13 @@ If you're interested in past email exchanges, these can be found in the "Salesfo
 
 ### Meetings
 
-### Meeting Notes
+#### Cadence Calls
+
+Review the cadence call schedule, and the usual list of attendees. Also review agendas for recent cadence calls to familiarize on the topics that are currently being discussed.
+
+💡 **Tip:** When transitioning the cadence call to a new TAM, don't change the meeting owner but instead delete the current meeting and have the new TAM send a new invite. Changing the owner doesn't always work for all attendees, which can result in customer attendees having multiple and/or outdated meetings on their calendar.
+
+#### Meeting Notes
 
 Meeting notes docs should be in the standard location in [Google Drive](https://drive.google.com/drive/u/1/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U); if there isn't a folder for the customer there, create one. If there isn't a notes doc in the folder, ask the previous TAM for a link to their notes and ask them to move the notes to the folder. Also do a search within Google Drive of the customer name to identify any other relevant documents or materials and move any to the folder if not already there.
 
