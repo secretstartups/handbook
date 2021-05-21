@@ -166,7 +166,7 @@ We do understand that during extended periods of time off team members may still
 
 For managers it is ok to reach out to a team member every 3-4 weeks to just to say hello.  These conversations should remain social and avoid work related topics.  
 
-### Communicating Other Status Using PTO by Roots
+## Communicating Other Status Using PTO by Roots
 
 Other OOO options include:
 
@@ -181,7 +181,7 @@ Other OOO options include:
 
 These other types of OOO categories do not count as PTO.  These categories are an easy way to correctly track your time and communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service or Jury Duty, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
 
-### PTO by Roots
+## PTO by Roots
 
 [PTO by Roots](https://treehoppr.com/pto-ninja) allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
 
@@ -391,13 +391,24 @@ The following is a list of all statutory annual vacation entitlements by entity 
 | Quebec Only                  | 3 weeks after 1 year and going forward        | 6% for the first 9 years, 8% after 9 years |
 | Saskatchewan Only            | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years |
 
-### Processing Vacation Requirements
+#### Processing Vacation Requirements (People Ops Instructions)
 
-1. Each June, People Ops will need to review the BV (Netherlands) Accrual for all employees and remove any carry over from the previous calendar year that was not used.
-1. In January, People Ops will adjust any negative carryover back to zero, for all accruals in BambooHR for the year. To do this go to Time Off, Adjust Balance, and add any extra days.
-1. PTO by Roots will automatically add any time off taken for sick and vacation accruals.
+Review above section `Statutory Minimum Vacation Time` for questions around dates and amounts. Due to BambooHR's settings, it cannot automatically make some adjustments to the accruals. To keep these figures accurate we must perform some manual work. 
 
-_Note: In January, People Ops will adjust any negative carryover back to zero, for all accruals in BambooHR for the year. To do this go to Time Off, Adjust Balance, and add any extra days._
+##### GitLab BV (Netherlands)
+1. In **January**, People Ops will adjust any negative carryover back to zero for all accruals in BambooHR for the year. 
+1. Review the balance from December 31st of the previous year. If this balance is negative, move to the next step. 
+1. To do this, go to Time Off, Adjust Balance, and add the amount you determined in the previous step. Add a note "Adjustment to prevent negative rollover." 
+
+1. In **June**, People Ops will need to review the BV (Netherlands) Accrual for all employees and remove any carryover from the previous calendar year that was not used. 
+1. Review the balance from December 31st of the previous year, if this balance is positive, move to the next step. 
+1. To do this, go to Time Off, Adjust Balance, and add the amount you determined in the previous step. Add a note "Removal of previous year rollover." 
+
+##### GitLab BV (Belgium)
+1. In **January**, People Ops will adjust any negative carryover back to zero for all accruals in BambooHR for the year. 
+1. Review the balance from December 31st of the previous year. If this balance is negative, move to the next step. 
+1. To do this, go to Time Off, Adjust Balance, and add the amount you determined in the previous step. Add a note "Adjustment to prevent negative rollover."
+
 
 ## Returning to work after parental leave
 
