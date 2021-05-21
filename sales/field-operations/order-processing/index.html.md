@@ -1021,12 +1021,14 @@ Customer procurement cycles can take time. A start date on a quote may be in the
 1. If the Start Date on an Add-On is < 2 weeks in the past, the order will be booked as is. 
 2. Add on opportunities with a Start Date > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking. 
 3. The opportunity must meet all booking requirements and is still subject to the FY22 Bookings Policy.  
+4. Add On Opportunities must be processed in order based on Start Date. The add on opp needs to be "Closed-Won" prior to submitting any future amendments or renewal opportunities for approval. 
 
 **Renewal Opportunity**
 
 1. Renewal opportunties where the Start Date < 2 weeks in the past will be booked as is, without additional confirmation or intervention from the sales team. 
 2. Renewal opportuntiies where the Start Date is > 2 weeks in the past will require a chatter confirmation from the sales team confirming that the customer has had support/access to these users since the Start Date. Deal Desk will tag the opportunity owner directly to confirm the Start Date prior to booking. 
 3. The opportunity must meet all booking requirements and is still subject to the FY22 Bookings Policy.  
+
 
 #### Locked Bookings
 
