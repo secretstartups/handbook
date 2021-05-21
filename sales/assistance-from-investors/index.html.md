@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Sales Assistance from Investors"
-description: "This page overviews how GitLab's investors and board members can assist in deals"
+description: "This page provides details about how GitLab's investors can assist in deals"
 ---
 
 ## On this page
@@ -10,32 +10,90 @@ description: "This page overviews how GitLab's investors and board members can a
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The below page overviews how GitLab's investors and board members can assist in deals.
+The below page provides details about how GitLab's investors can assist in deals.
 
-# Requesting Assistance/Introductions Into Prospects from our Investors
+## Requesting Assistance/Introductions Into Prospects from our Investors
 
-We have great investors who can and want to help us penetrate strategic accounts.
-Please discuss with your Manager details of your request and fill out [this form](https://forms.gle/vbwjWr5sUN6Z35Rh7). Your request will be reviewed for completeness and facilitated directly to the Investor or included in the monthly investor update section called "Asks".
-All requests should be made before the 1st of the month so they are included in the upcoming investor update.
+We have great investors who can and want to help us penetrate strategic accounts by tapping into their expansive networks.  To ensure consistent and scalable engagement with them, please review and follow the below process. 
 
-If an investor can help, they will contact the CRO, and the CRO will introduce the salesperson and the investor.
-The salesperson shall ask how the investor wants to be updated on progress and follow up accordingly.
+### Top Account Criteria and Approval Process
+
+- Top Accounts should meet the below criteria:
+    - Minimum of 5000 total developers
+    - High LAM potential 
+    - GitLab does not have an active opportunity with the account that they’re already making good progress on 
+        - “Stalled” or Existing Closed Lost opportunities ARE eligible 
+    - Accounts with the largest potential/biggest impact (Fortune 500/Global 2000 and large marquee tech brands in the Investor's ecosystem)
+    - Account has not been introduced to Investor team in the past
+- Top Account Approval Process
+    - If the above minimum criteria is met, the SAL/AE must meet with their direct manager to review and seek their approval.
+    - Only approved Accounts can be added to the Investor Introductions Tracker.
+
+### Resources
+
+- [Investor Introductions Tracker](https://docs.google.com/spreadsheets/d/1VRijt9KQwx9szyazJaNUPgmg1MuMOub0zAeeuz3UdqM/edit#gid=1485322311)
+- [Approved Email Templates](https://docs.google.com/document/d/1O8064Oq2LHXkXyrqMM55Uv_LxdXJ50KCWF8Xf93T62Y/edit)
+- [Internal Sales Checklist](https://docs.google.com/document/d/1IC0AJa1yb_KU1rIE7s07ERWw1XzvpKXga6leZSgk47s/edit)
+
+### FAQ's
+
+- **Process Questions:**
+    - Q: Are introductions available to all segments (Large, PubSec, MM, SMB)?
+    - A: This is available to all segments, but primarily with Large -- want to focus on largest economic opportunities that make the biggest impact for GL, with focus on F500/Global2000 and large marquee tech brands in our investor's ecosystems
+
+    - Q: Where do I add my top account and what information do I need to provide?
+    - A:  Utilize the Investor Introductions Tracker sheet noted in the Resources section above where you will see the requested information do properly prepare the Investor team.
+
+- **Review and Feedback**
+    - Q: How often is the shared tracker reviewed by the Investor team - do we need to also notify them separately when a new account is added (and also ones that might be removed)?
+    - A: The tracker will be reviewed intermittently but at a minimum once a quarter during the GitLab <> Investor regular cadence.  If accounts are added or removed from the tracker, the GitLab Sales team member should let Sales Operations and the EBA team know of the change so they can communicate that with the ICONIQ team. 
+
+    - Q: How often does the Investor share feedback on progress and how is that feedback shared?
+    - A: Feedback will happen in two junctures:
+        1. Quarterly - during the GitLab <> Investor regular meeting schedule
+        2. Intermittently (between GitLab <> Investor quarterly cadence calls)  
+        - This feedback will be provided as ICONIQ makes progress against each account on the list.   During this time, progress will be shared via:
+            - Investor Introductions Tracker
+            - Directly through email
+            - Directly through Slack
+    - Q: Who from Investor team and GitLab will be involved in the regular cadence calls? 
+    - A: Investor: Dependent on Investor preference 
+    - A: GitLab: VP of Fields Ops, Sales Ops DRI, Relevant RDs/ASMs and Segment VPs (optional). 
+
+- **Emails, Template(s) & Introductions**
+    - Q: Is there a standardized email template I should use once my top account has been approved?
+    - A: Yes!  Leverage one of the following templates:
+https://docs.google.com/document/d/1O8064Oq2LHXkXyrqMM55Uv_LxdXJ50KCWF8Xf93T62Y/edit (NEEDS TO BE REVIEWED/EDITED)
+Critical that this context is complete, accurate and that ICONIQ can depend on it.  The email should be drafted in google doc format. 
+
+    - Q: Do I have the discretion to add my own content or are we limited to only the agreed upon email template content?
+    - A: Rep should leverage the above templates and add in relevant content for the top target ICONIQ believes it might be able to help with. 
+
+Q: What do I do after I’ve drafted the email in gdoc? 
+A: Share the gdoc with your manager and add the link to the introductions tracker.  Your manager will review and offer feedback as needed. 
+
+    - Q: How do the reps know when the email goes out? 
+    - A: Invesotr DRI typically sends text or email to advise that it went out to best relationship owner, who is expected to communicate directly with the contact 
+
+    - Q: How does GitLab know when a contact responds?  And if they do respond, what actions will the rep take?
+    - A: Contact will respond to whoever sent the email from the Investor and the Investor DRI typically notifies us via email. GitLab Sales team member should track the email in SFDC via an Activity
+
+- **Top Accounts**
+    - Q: How is a “Top Account” defined? 
+    - A: Please see definition noted above
+
+    - Q: How often do the top accounts get refreshed?
+    - A: Quarterly. 
+
+    - Q: Does the account have to have an active opportunity to be eligible 
+    - A: No, it does not have to be an active opportunity, so it’s important that account background is captured on the tracker as a minimum for context. 
+
+
+
 
 ## Email Intro
 
-_This introduction email is progressive. You can choose to use just the first paragraph or the first two, three, or four depending on the detail you feel is appropriate for your audience._
-
-GitLab is a complete DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate.
-GitLab helps teams accelerate software delivery from weeks to minutes, reduce development costs, and reduce the risk of application vulnerabilities while increasing developer productivity.
-GitLab provides unmatched visibility, radical new levels of efficiency and comprehensive governance to significantly compress the time between planning a change and monitoring its effect.
-
-GitLab collapses cycle times by driving higher efficiency across all stages of the software development lifecycle.
-For the first time, Product, Development, QA, Security, and Operations teams can collaborate in a single application. There’s no need to integrate and synchronize tools, or waste time waiting for handoffs.
-Everyone contributes to a single conversation, instead of managing multiple threads across disparate tools. Development teams have complete visibility across the lifecycle with a single, trusted source of data to simplify troubleshooting and drive accountability.
-All activity is governed by consistent controls, making security and compliance first-class citizens instead of an afterthought.
-
-Built on Open Source, GitLab leverages the community contributions of thousands of developers and millions of users to continuously deliver new DevOps innovations.
-More than 100,000 organizations from startups to global enterprise organizations, including Ticketmaster, Jaguar Land Rover, NASDAQ, Dish Network and Comcast trust GitLab to deliver great software at new speeds.
+CONTENT TO BE ADDED
 
 Some additional detail is linked below:
 
