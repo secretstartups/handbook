@@ -16,14 +16,20 @@ The data warehouse contains source data from different source systems, via diffe
 
 ## GitLab Postgres Database
 
-The gitlab.com read replica database used for data pulls into Snowflake occasionally has problems with replication lag. This means the database is behind in applying changes to the replica from the primary database. This can kill queries from pgp extracts and cause significant delays. The amount of lag can be monitored by [checking Thanos](https://thanos-query.ops.gitlab.net/graph?g0.range_input=2d&g0.max_source_resolution=0s&g0.expr=pg_replication_lag%7Btype%3D%22postgres-archive%22%2Cenv%3D%22gprd%22%7D&g0.tab=0&g1.range_input=3d&g1.max_source_resolution=0s&g1.expr=rate(pg_xlog_position_bytes%7Benv%3D%22gprd%22%7D%5B1m%5D)%20and%20on%20(instance)%20(pg_replication_is_replica%20%3D%3D%200)&g1.tab=0).  
+There are **dedicated** gitlab.com _read_ replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
 
 ```mermaid
-graph LR 
-GitLab.com-DB-Live --Replication Process --> GitLab.com-DB-Replica -- Postgres Pipeline --> Snowflake-DWH --> SiSense
+graph LR;
+A[GitLab.com-DB-Live] -->|build_destroy_mechanism| B[GitLab.com-DB clone running on  port 25432]
+    A --> |wal_files_mechanism| C(Gitlab.com-DB Live Replica)
+    B --> | Data Engineering Pipeline SCD| D(Snowflake_DWH)
+    B --> | Data Engineering Pipeline Incremental| D(Snowflake_DWH)
 ```
 
-The Infrastructure team has an alert setup to post to the `#alerts` slack channel when the replication lag is over 3 hours.  The name of this alert is `PostgreSQL_ReplicationLagTooLarge_ArchiveReplica`.  Monitoring the `#alerts` channel for this alert name can help proactively address high lag situations.
+ - `GitLab.com-DB clone` will be destroyed at 10:30PM UTC and rebuilt at 11:15PM UTC. This results in an available time window between 00:00AM UTC to 11:30PM UTC to query this database. If data is extracted from this replica outside the window, an error will occur, but it will not result in any data loss.
+- `Gitlab.com-DB Live Replica` is populated with data via WAL files continuously. 
+
+Currently, to ensure a stable data-feed, both the incremental and full loads utilise the `GitLab.com-DB clone` instance. During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
 
 ### Incremental and full loads
 1. Incremental extract 
