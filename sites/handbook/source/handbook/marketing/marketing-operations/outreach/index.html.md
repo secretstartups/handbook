@@ -123,6 +123,15 @@ Outreach is able to sync some custom information about these meetings into event
 |`Incorrect Contact: Left Message`|The wrong person answered the phone and it is the wrong persons phone number (They were not a personal assistant). They took a message for the correct person/gave you the correct number for the contact|
 |`Incorrect Contact: Not Answered/Other`| You got through to the voicemail but the voicemail was for someone other than the person who you were trying to contact. Or the person was not listed in the company directory and you were calling the companies main number|
 
+#### Outreach Call Troubleshooting
+
+If you are having issues with your Outreach calls, please use the following guides to troubleshoot the issue with your calls :
+
+- [Call Connection](https://support.outreach.io/hc/en-us/articles/360056028093-Troubleshooting-Call-Connection-Issues) issues (Call dropping, not connecting)
+- [Call Audio](https://support.outreach.io/hc/en-us/articles/360056030433-Troubleshooting-Call-Audio-Issues) issues (1-way, no, or robotic/choppy audio)
+
+If the issue persists after , please contact [Outreach Support](https://support.outreach.io/hc/en-us/articles/support.outreach.io).
+
 #### Outreach Meetings for SDR Team
 
 SDR teams will use the functionality for scheduling to save time and effort, providing the best customer experience.

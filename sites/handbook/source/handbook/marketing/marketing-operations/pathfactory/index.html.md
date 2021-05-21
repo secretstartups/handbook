@@ -84,7 +84,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 | Developer Evangelism | `Author` | Upload new technical content |
 | Sales Development Representative (SDR) | `Sales user` (PathFactory for Sales only) | PathFactory for Sales (SFDC) |
 | All Remote | `Author` | Upload new all remote content, create and edit content tracks for use in all-remote campaigns |
-| Partner Marketing | `Author` (select users) | View content library, create content tracks for partners, reporting |
+| Partner Marketing | `Author` (select users) | View content library, create and clone content tracks for partners, reporting |
 | Customer Programs | `Author` (select users) | View content library, create content tracks for customer onboarding where a TAM is not assigned or requested, reporting |
 
 ## Support
@@ -176,8 +176,6 @@ There are multiple types of PathFactory experiences that you can create under `C
 ### Assets
 
 When adding assets to the [content library](/handbook/marketing/marketing-operations/pathfactory/content-library/), please ensure both the public and internal titles match the title of the asset. Do not add any extra prefixes to the asset title (ex: `[BLOG] - Title of blog`). Content types are already indicated by the content type field. Remove any extra SEO meta title information such as `|GitLab` that is appended to the title once PathFactory pulls in the information about the asset from the URL. Follow the [editorial team's guidelines](https://about.gitlab.com/handbook/marketing/inbound-marketing/content/editorial-team/) for formatting and [case](/handbook/marketing/inbound-marketing/content/editorial-team/#case) (sentence case).
-
-[Title of asset]
 
 ### Tracks 
 

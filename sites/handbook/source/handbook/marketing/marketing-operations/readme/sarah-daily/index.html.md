@@ -53,6 +53,7 @@ I created this personal README document to help you get to know me and how I wor
 
 ### Tools in my purview
 
+1. Backblaze
 1. Cookiebot
 1. Disqus
 1. Figma
@@ -62,9 +63,9 @@ I created this personal README document to help you get to know me and how I wor
 1. Google Search Console
 1. Google Tag Manager
 1. Hotjar
+1. iconik
 1. Keyhole
 1. LaunchDarkly
-1. Litmus
 1. OneTrust
 1. PathFactory
 1. SEMrush
