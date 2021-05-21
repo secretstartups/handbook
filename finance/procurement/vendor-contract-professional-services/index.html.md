@@ -18,29 +18,27 @@ title: Vendor Contract Issue Process - Professional Services and all Other Contr
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-## <i class="fas fa-check-circle" id="biz-tech-icons"></i> When should I open a Requisition in Coupa?
-If you know which vendor to hire and already have a contract:
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for one of the US or Netherlands entities?
+> _GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV_
 
-1. Complete the "Professional Services Request" form in Coupa.
-   - Make sure to complete the the form **BEFORE** submitting the requisition.
-1. Create a Requisition in Coupa to begin the process.
-      - Check the [How to Create a Requisition in Coupa]() page for a detailed walkthrough guide.
+If yes, then follow the instructions on the table below:
 
-### How do I request approval for a purchase made in Coupa?
+|   | <$25K | >$25K | >$50K |
+| ------ | ------ | ------ | ------ |
+| Professional Services Agency/Contractor<br>**New Vendor** | - Create a [“New Supplier” form]() in Coupa<br>- Create a ["Professional Services Request" form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a ["Professional Services Request" form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a ["Professional Services Request" form]() in Coupa<br>- Create a [Coupa Requisition]() |
+| Professional Services Agency/Contractor<br>**Existing Vendor** | - Create a ["Professional Services Request" form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a ["Professional Services Request" form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a ["Professional Services Request" form]() in Coupa<br>- Create a ["Professional Services Request" form]() in Coupa<br> Create a [Coupa Requisition]() |
+| PS Partner Team | - Create a ["Professional Services Request" form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a ["Professional Services Request" form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a ["Professional Services Request" form]() in Coupa<br>- Create a [Coupa Requisition]() |
 
-1. After the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
-   - Create the requisition **BEFORE** agreeing to business terms and/or pricing.
+### <i class="far fa-question-circle" id="biz-tech-icons"></i> Learn how to create a Coupa Requisition
 
-## <i class="fas fa-check-circle" id="biz-tech-icons"></i> When should I open a Vendor Contract Request issue in GitLab?
-If no vendor has been identified:
+- Check the [How to Create a Requisition in Coupa]() page for a detailed walkthrough guide.
 
-1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=general_vendor_contract_request) to begin the process.
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for any other GitLab entity?
 
+> _GitLab GK, GitLab Korea Limited, GitLab UK Limited, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp., GitLab France SAS, GitLab Ireland Limited or GitLab Singapore Holding PTE LTD_
 
-### How do I request approval for a purchase made through a GitLab issue?
+As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa-faq/#does-the-coupa-implementation-impact-all-gitlab-entities), Purchase Requests for all other GitLab entities will continue to use the existing procurement issues. Check the [_Deep Dive on the Professional Services and all Other Purchase Types Request Process_](/handbook/finance/procurement/vendor-contract-professional-services/#-deep-dive-on-the-professional-services-and-all-other-purchase-types-request-process) section for a detailed walkthrough guide.
 
-1. After the Vendor Contract Request issue is opened, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
-   - Create the issue **BEFORE** agreeing to business terms and/or pricing.
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Professional Services and all Other Purchase Types Request Process
 Review the [Prior to Contacting Procurement](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/) page first.
@@ -208,3 +206,8 @@ More information about this process can be found in the [Team Member Enablement 
 1. If your annual contract value is equal to or greater than $100K, a Purchase Order must be created to pay the vendor. See Creating a Purchase Order for steps to do so.
 
 If you have additional questions, please ask in #procurement slack channel. Or attend Purchasing Office Hours, available in the GitLab Team Calendar.
+
+## How do I request approval for a purchase?
+
+After the Vendor Contract Request issue is opened or the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+> Create the requisition **BEFORE** agreeing to business terms and/or pricing.
