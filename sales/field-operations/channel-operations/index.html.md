@@ -319,7 +319,7 @@ For more information on quoting or the Partner Program, please visit:
 6. _Order Type_: Customer order designation in SFDC. New First Order or Growth.
 
 
-## Use Cases
+### Use Cases
 
 1. **1 and 3**
     *   Channel submits Deal Reg and no Opportunity exists in the system. Therefore the Initial source is CQL, and SQS and DR-Partner Engagement default to Channel and Partner Sourced.
