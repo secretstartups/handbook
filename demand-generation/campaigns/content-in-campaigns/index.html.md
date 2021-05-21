@@ -36,13 +36,22 @@ The epic code in each section below outlines the necessary issues to open in ord
 
 ## How to pick content for campaigns
 
-Leverage the Pathfactory Content Library: https://gitlab.lookbookhq.com/authoring/content-library/content
+**Search the entire Pathfactory Content Library**
+
+https://gitlab.lookbookhq.com/authoring/content-library/content
 
 Filter by one or multiple of the following:
 - Topic
-- need to add
+- Content Type
+- Funnel Stage
+- GTM Motion (Business Unit in Pathfactory)
+- Language
 
-Caveat: engagement time is a better indicator of content effectiveness than views, which can be a self-fulfilling prophesy; the more views, the more it is used, the more it continues to climb in comparison to other content. 
+**View reports to see what works**
+
+* **Key metric to analyze: Engagement Time**
+   - *"Why not total views?"* Engagement time is a better indicator of content effectiveness than views, which can be a self-fulfilling prophesy; the more views, the more it is used, the more it continues to climb in comparison to other content. 
+
 
 ## Ungated Content Journeys
 {: #ungated-content-journeys .gitlab-purple}
