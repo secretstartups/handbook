@@ -105,6 +105,12 @@ At any point, if an issue becomes blocked, it would be in the `workflow::blocked
 
 `Closed` means that all code changes associated with the issue are fully enabled on gitlab.com. If it is being rolled out behind a feature flag, it means the feature flag is enabled for all users on gitlab.com.
 
+### What is priority to on work for this milestone?
+
+In the Continuous Integration Group, we use a series of labels to indicate the highest priority issues in the milestone: `VerifyP1` + `group:continuous integration`. Once all of those issues have been picked up and are in `workflow:in dev` or beyond we have `VerifyP2` and `VerifyP3` to signal issues that will become `VerifyP1`s in the following milestones. These future product priorities will typically be `ready for development` and have designs or be weighed with proposals for implementation. Beyond the product `VerifyPX` priorities the `ready for development column will be stack ranked daily, such that each teammate can pull from the top of the column and know they are picking work that will be meaningful. 
+
+When teammates select issues, they will assign themselves to the issue and also add the milestone that they believe the issue will most likely ship in. This is also a good time to re-evaluate the weight in case the teammate picking the issue was not the teammate who originally weighed the issue. The milestone assigned, does not have to be the same milestone that you are currently starting work in. Aspriationally, we strive to iterate and want to break down the efforts to ship as much value in the milestone for our users as possible. So, if you see a faster path to doing that when you get an issue feel free to raise a comment and change the proposal to deliver more value. 
+
 #### "What do I work on next?"
 
 Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
