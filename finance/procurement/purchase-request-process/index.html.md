@@ -23,7 +23,13 @@ title: Purchase Request Process
 - The specific approvals needed are based on your spend type, spend threshold, key terms, and risk to GitLab. They are identified in the issue template links below. This is to ensure that GitLab purchases are strategically aligned and to ensure SOX Compliance.
 
 ## How can I create a Purchase Request?
-- Depending on the request type and dollar amount, a Purchase Request can be created by:
+There are **3 main conditions** that will determine the method of creating a Purchase Request:
+
+1. The [GitLab entity](/handbook/people-group/employment-solutions/#gitlab-entities) of the request.
+1. The [request type](/handbook/finance/procurement/purchase-request-process/#how-do-i-open-a-purchase-request-issue) (if Software/SaaS, Field Marketing and Events or Professional Services and all other general contracts).
+1. The dollar amount.
+
+Depending on the conditions above, a Purchase Request can be created by:
    - Opening a Vendor Contract Request issue to begin the process.
    - Creating a Requisition in Coupa.
       - You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/).
