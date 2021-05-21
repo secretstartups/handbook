@@ -24,6 +24,18 @@ Benefits of working on tickets assigned to yourself:
 
 When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
 
+## How do we prioritize tickets?
+
+While there may be some regional variations as to how/by which group of people this set of priorities is handled (for example, [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew)), the global priority order for handling tickets is:
+
+
+| What | Description | Why? | What PI does this affect? |
+| -- | -- | -- |
+| New Tickets | All Regions + Tickets in your Preferred Region | These tickets represent a contractual obligation. We must respond within SLA | [First Reply Time SLA](/handbook/support/performance-indicators/#service-level-agreement-sla) | 
+| Tickets without owners | All Regions + Preferred region tickets | These tickets represent risk. Without a DRI they are likely to languish. | [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times) |
+| Tickets you own | | These tickets are the ones you're the DRI of. Keep your customers up to date and moving towards solutions.| [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times) |
+| Everything else | Collaborate with others on the tickets they own, work on learning tasks, handbook or docs updates | | [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times), [Support MR Rate](/handbook/support/performance-indicators/#support-mr-rate-inherited), [Support Handbook MR Rate](/handbook/support/performance-indicators/#support-handbook-mr-rate-inherited) |
+
 ### The Process in Action
 
 #### Brief Summary
