@@ -176,8 +176,6 @@ graph themes;
 
 ### Capabilities
 
-
-
 Here is a video of the CEO discussing this concept with a Product Leader.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SI-IL7D5YPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -188,7 +186,7 @@ The following are our current set of capabilities:
 
 <% tier_names = ['Silver / Premium','Gold / Ultimate'] %>
 <% tier_names.each do |tier_name| %>
-<%= "### #{tier_name}" %>  <% if tier_name == tier_names.first() then " (all above AND)" end %>:
+<%= "### #{tier_name}" + ( tier_name != tier_names.first() ? " (all above AND)" : "") %>:
   <% data.pricing_capabilities.select{|capability| capability.tier == tier_name}.each do |capability| %>
 <%= "1. #{capability.name} " %>
   <% end %>
