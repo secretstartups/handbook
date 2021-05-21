@@ -508,6 +508,12 @@ If you notice that someone does not have their picture set in Google when a Goog
 Shadows need to speak up in video calls, and speak up when the CEO's camera isn't working or when the green screen isn't working correctly because of the sun angle.
 ![Sun on Green Screen Zoom Issue](/images/ceoshadow/ceo_sun_zoom_issue.png)
 
+##### Notify CEO on use of 'I think'
+
+When attending **external meetings**, notify the CEO in a private Zoom chat message when the CEO uses the phrase `I think`. [Hedge words](https://ethos3.com/2020/02/hedging-the-speaking-habit-harming-your-credibility/) can have the effect of making the speaker seem uncertain or unconfident. 
+
+In internal meetings, `I think` can be used to signal opportunity for others to present a contrasting opinion.
+
 #### CEO shadow introductions
 
 At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. The terms **first** and **second** shadow define the order of who has decided to speak in any relevant meeting.
