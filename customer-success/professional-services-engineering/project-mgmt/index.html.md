@@ -36,20 +36,19 @@ Each PS engagement will have a Google Sheet that shows the contracted revenue an
 **Initiate**
 
 
-4. Sr. PS Project Coordinator: Once a project has moved for Closed/Won in Salesforce, a PS Object is created in Salesforce, a PS project/issue is created in GitLab and a Mavenlink customer project is created.
+4. Sr. PS Project Coordinator: Once a project has moved for Closed/Won in Salesforce, a Mavenlink project is created.
    - A Project Owner is assigned; this can be a Project Manager, or Professional Services Engineer (PSE)
 5. Sr. PS Project Coordinator: Send [initiation email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing).
-6. Project Owner: Begin the project 
+6. Project Owner: Begin planning the project 
    - Internal PS project alignment meeting (includes Engagement Mgr, Project Coordinator, PSE)
    - Sales to PS hand-off meeting (complete the hand-off issue in the customer Epic)
 
 
 **Plan**
 
-7. Sr. PS Project Coordinator: 
-    - Assign PSE resource(s) via Mavenlink
-8. Project Owner:
+7. Project Owner:
     - External [Customer Project Kickoff](https://docs.google.com/presentation/d/1HtVIE64N94Rcc774ujllClGmYZ5y1_ApE4-O3pazR6k/edit?usp=sharing): Actions and meeting minutes can be added directly to the Project Definition Template.
+    - Request resources via Mavenlink and requests updates through project duration
     - Weekly project meeting (if applicable): Notes documented in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
     - Provide Weekly Status Report: Using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing).
     - [Change request template ](https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit?usp=sharing)(required for scope changes).
@@ -57,9 +56,9 @@ Each PS engagement will have a Google Sheet that shows the contracted revenue an
 
 **Develop, Configure, Integrate**
 
-9. PS Engineer: 
+8. PS Engineer: 
    -Complete work per the SOW
-10. Project Owner:
+9. Project Owner:
     - Weekly project meeting (if applicable): Notes documented in the Project Definition
     - Keep Mavenlink up to date:  project schedule, project health, milestone acceptance
     - Provide Weekly Status Report: Using the template in the Project Definition
@@ -67,17 +66,16 @@ Each PS engagement will have a Google Sheet that shows the contracted revenue an
 
 **Validate**
 
-11. Project Owner:
+10. Project Owner:
    - Send [activity-based acceptance requests](https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit?usp=sharing) to the customer for approval
-12. Customer:
+11. Customer:
    - Approves completion for each activity or deliverable via email
 
 **Deploy & Close**
 
-13. Project Owner:
+12. Project Owner:
     - Complete this [sign off workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
     - Complete this [financial wrap-up workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/financial-wrapup.html)
     - [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
     - Schedule [project closure meeting with agenda](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
-14. PS Project Coordinator: PSE object update (set to complete)
-15. Sr. PS Project Coordinator: Once a project has moved for Closed/Won in Salesforce, a PS Object is created in Salesforce and a PS project/issues is created in GitLab.  Then, a project owner is assigned; this can be Project Manager, or Professional Services Engineer (PSE).
+13. PS Project Coordinator: PSE object update (set to complete)
