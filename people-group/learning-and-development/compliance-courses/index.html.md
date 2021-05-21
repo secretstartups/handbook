@@ -56,6 +56,8 @@ The L&D Team performs bi-weekly audits of team members that have completed the t
 
 When tagged in an offboarding issue, follow these steps to check the completion/license status of appropriate anti-harassment courses in the WILL Learning platform.
 
+The following steps are outlined in this [private recording that can be found in the L&D Google Drive](https://drive.google.com/file/d/1dQPL321XtliHdzo8fuwxqcX9f8maaM-b/view?usp=sharing). 
+
 This step must be completed for each offboarding issue, as GitLab pays per license in WILL Learning. This compliance check ensures that GitLab is aware of, and making use of, all paid licenses.
 
 1. Navigate to the offboarding issue. Copy the user's email address.
