@@ -98,10 +98,10 @@ Facts:
 * There are three critical dates on opportunities to be aware of: created date, accepted date, and closed date. Created date is applicable when calculating the IACV created metrics. Accepted date is applicable when calculating the Sales Accepted Opportunity Metrics (SAOs). Closed date is applicable when calculating the closed won and lost related metrics. 
 * GitLab does not have a specific trial tier for the Gold and Ultimate trials; however, it is helpful to think about trials in the context of product tiers when building the Enterprise Dimensional Model (EDM) and producing insights and analytics from the EDM. We use Ultimate - Trial and Gold - Trial values in our Product Tier Dimension to be able to easily report on and analyze trials across the Enterprise.
 * Boolean flags are available to use in Sisense. These are helpful when creating charts that require repetitive filters.
-1. `is_net_arr_closed_deal` - Net_ARR from Closed Won and Closed Lost-Renewals.
-1. `is_new_logo_first_order` - The number of first order accounts that we acquire.
-1. `is_net_arr_pipeline_created` - The value of pipeline that was created on each day.
-1. `is_win_rate_calc` - Of the opportunities that get to resolution, how many do we win in a period.
+1. `is_net_arr_closed_deal` - Calculate metrics such as Net_ARR from Closed Won and Closed Lost-Renewals.
+1. `is_new_logo_first_order` - Calculate metrics such as Net_ARR from First Order Accounts that we acquire.
+1. `is_net_arr_pipeline_created` - Calculate metrics such as Net_ARR from the pipeline that was created.
+1. `is_win_rate_calc` - Fetch opportunities in scope for the win rate calculation.
 1. `is_closed_won` -  Calculate metrics such as Net_ARR for Closed Won deals.
 </details>
 
