@@ -104,9 +104,9 @@ The labels are (from left to right):
 ### Scheduling Professional Services
 
 For scheduling specific customer projects, we are currently scheduling projects in order of when the opportunity is updated to closed/won. If you have a concern about scheduling the project, this should be discussed at the Discovery phase during the [scoping](/handbook/customer-success/professional-services-engineering/scoping) process. If there are lead time or availability questions, ask the Project Coordinator by tagging the group `@ps-scheduling` in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack Channel. 
-In no case we should not commit to dates before receipt of Signed SOW, agreements, P.O., Closed/Won opportunity etc.
+You should not commit to dates before receipt of signed SOW, agreements, P.O., Closed/Won opportunity, etc.
 Once the opportunity is updated to Close/ Won, here are the next steps:
 
-- The PS Project Coordinator witll review the SOW, Order Form and work to set up the consulting project
-- the PS Project Coordinator will reach out the account team to confirm customer contacts
-- The PS Project Coordinator will send a Welcome to PS Email, within 72 business hours of booking of the opportunity, the account team and professional services leader on the Welcome to PS email.
+- The PS Project Coordinator will review the SOW and Order Form and work to set up the consulting project.
+- The PS Project Coordinator will reach out the account team to confirm customer contacts.
+- The PS Project Coordinator will send a Welcome to PS email within 72 business hours of the opportunity booking to the customer and copy the account team and Professional Services leaders.
