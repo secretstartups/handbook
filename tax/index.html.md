@@ -297,8 +297,29 @@ When the application is approved, the R&D tax credit can be deducted from the wa
 1. GitLab BV's employees working on the eligible projects have to keep track of their hours spent on the project in the [hour tracker](/handbook/people-group/#organizing-wbso)
 1. The hour tracker needs to be monitored on monthly basis by Finance in order to prevent an overclaim or underclaim of the WBSO
 
+## Tax procedure for adding a new tax location (all actions on Tax Accountant)
+1. Open an issue in the tax team [VAT/GST](https://gitlab.com/groups/gitlab-com/-/epics/215) epic, with the below information:
+* Description of the new tax location;
+* What triggered the tax to be collected;
+* Billing entity (current or new);
+* Review local invoice requirements (coordinate with Finance Systems Administrators any required changes) and add to the [invoice templates repository](https://docs.google.com/spreadsheets/d/1iVBPYz-Zq1JCFarYmayus4eQ33IcjHNvYYzyzE30AKE/edit?usp=sharing);
+* Provide the deadlines for the Avalara start date;
+* Will there be any fillings related to the tax? If yes, provide the schedule.
+* Tag the Tax, Billing and Sales teams.
+* Confirm in the issue, by Avalara due date, that tax collection has started.
+2. Share the issue in the #tax, #finance and #sales-support Slack channels.
+
+
 ## Withholding Tax Management
 
 The payment for the use of GitLab's software can be subject to withholding tax. Paragraph 6.7 of GitLab's [terms](https://about.gitlab.com/handbook/legal/subscription-agreement/) and conditions prescribe that the customer will pay any required withholding itself and will not reduce the amount paid to GitLab on account thereof.
 
 Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this agreement shall be paid without any withholding or deduction. In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.
+
+## Indirect Taxes Management
+
+The payment for the use of GitLab's software can be subject to any indirect taxes, taking into consideration the local indirect tax requirements. Please be aware that GiLab might charge any related indirect taxes, without prior notice, as a consequence of a required tax registration obligation for GitLab. Based on the local regulations, output indirect taxes charged by GitLab are generally claimable as input tax on the customer’s indirect tax return. 
+
+Paragraph 6.7 of GitLab's [terms](https://about.gitlab.com/handbook/legal/subscription-agreement/) and conditions prescribe that the customer will pay any required taxes itself and will not reduce the amount paid to GitLab on account thereof.
+Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.
+
