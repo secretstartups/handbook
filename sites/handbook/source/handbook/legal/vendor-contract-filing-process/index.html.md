@@ -5,29 +5,31 @@ description: "These instructions will walk GitLab Team Members through how to fi
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-{:toc .hidden-md .hidden-lg}
+  {:toc .hidden-md .hidden-lg}
 
 ## Steps to Filing Your New Vendor Contract in ContractWorks
 
-This process is used to file your contract or related vendor documents after they are fully executed (signed by all parties).  For the full contract approval process, see the [Vendor Contracts and Invoice Payment](/handbook/finance/procure-to-pay/) page.
+This process is used to file your contract or related vendor documents after they are fully executed (signed by all parties).  For the full contract approval process, see the [Vendor Contracts](/handbook/finance/procurement/purchase-request-process/) page.
 
 ### Requesting a ContractWorks Log In
 
 If you need access to ContractWorks, please process an access request [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request).
 
 The following considerations will be used to determine which priveleges are appropriate for each user:
+
 1. Vendor Contracts User - GitLab team members who need to upload contracts and view vendor contracts. This is most users.
 2. Vendor Contracts Plus User - GitLab team members who are designated to keep vendor files organized. These users can upload and view contracts, as well as tag and move folders and files.
 3. Full Access - GitLab team members who need access to all files in the system, including sensitive information. These users can run reports on their own activity. This is reserved mainly for Legal team members and Executive Group. Others can be added as needed with sufficient justification.
 4. Admin - Users who often need to run reports and audits with insight into other users' activity. Admins are the only users who can add other users.
-5. Custom Roles - Custom roles are available for users who need on-going or temporary access beyond Vendor Contracts Plus User, but below Full Access. 
+5. Custom Roles - Custom roles are available for users who need on-going or temporary access beyond Vendor Contracts Plus User, but below Full Access.
 
 ### Uploading the Document
 
-This process is used for Vendor contracts and Event-related contracts. 
+This process is used for Vendor contracts and Event-related contracts.
 
 **If your document is confidential, please e-mail directly to a GitLab paralegal for uploading to confidential folders.** Examples of confidential documents: contracts with individuals (such as team members who are contractors), IPO-related documents, documentation of internal investigations. If you have a doubt as to the confidentiality of a document, and to receive the name of a GitLab paralegal, please feel free to reach out to Legal via Slack.
 
@@ -67,11 +69,9 @@ When a contract is terminated, an Omega sign should be added to the front of the
 
 Ω - Standard File Name
 
-
 ### Tagging the Document
 
 Please watch the [ContractWorks tutorial](https://securedocs.wistia.com/medias/28tju1vqmw) for tagging your document.
-
 
 #### 1. Choose the Correct Template for the Contract Type.
 
@@ -100,11 +100,12 @@ You can watch the [training video](https://securedocs.wistia.com/medias/28tju1vq
 To set notifications for start and end dates, select the `Enable Notifications` option. This will bring up 3 different fields to fill in. Follow the best practices below for each type of notification.
 
 ###### End Date
+
 Order forms have auto-notifications as part of the template. These will send a notice to Procurement 120 before renewal is due. However, there is addtional information that needs to be added with the tags.
 
 1. Add the Business Owner's email address to the notification list.
 2. Fill in the vendor's name where noted in the notification template.
-3. Copy and paste the document's link in the notification text. 
+3. Copy and paste the document's link in the notification text.
 
 ##### Legal Terms
 
@@ -128,7 +129,7 @@ Legal Terms need to be filled in by the owner of the contract upon uploading. Th
 
 If your document is an Order Form, Addendum, or other sub-document that is connected to a Master Agreement, you will need to attach the document to the Master Agreement, as detailed below:
 
-1. Go to the folder where your Order Form and Master Agreement are filed. 
+1. Go to the folder where your Order Form and Master Agreement are filed.
 2. Select the new contract by clicking the checkbox on the left end of the contract information line. This will bring up a drop-down menu at the top of the folder window.
 3. In the drop-down menu, click `Attach`
 4. Hover over the Master Agreement and click the paperclip that has appeared next to the file name.
@@ -140,4 +141,3 @@ There may be times when you need to send your executed contract to another GitLa
 1. Navigate to your uploaded contract.
 2. Click on the contract file name, which will open a watermarked version of the contract in a new tab.
 3. Use the new tab's unique URL to link the document.
-
