@@ -27,7 +27,7 @@ The Data team has implemented the following triage schedule to take advantage of
 | Tuesday   | `@mpeychet`    | `@paul_armstrong` |
 | Wednesday | `@iweeks`      | `@m_walker`       |
 | Thursday  | `@ken_aguilar` | `@snalamaru`      |
-| Friday    | `@jeanpeguero` | `@jjstark`        |
+| Friday    | `@jeanpeguero` | `@jjstark` / `@laddula`|
 
 A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
 this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
@@ -41,6 +41,7 @@ Data triagers are the first responders to requests and problems for the Data tea
     - Daily, a link to the DBT Source Freshness dashboard is posted in **#analytics-pipelines**.  This dashboard should be reviewed by the Data Engineer triager.
     - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues onthe [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
 - The Data Analyst and Data Engineer triagers are secondarily responsible for platform problems and GitLab team member requests respectively.
+- For more information on responsibilities of a triager watch the [Data Engineer triage training session video](https://www.youtube.com/watch?v=0eGpgaQgEGg).
 
 Many issues that come into the data team project from other GitLab team members need additional info and/or context in order to be understood, estimated, and prioritized.
 It is the triager's priority to ask those questions and to surface issues sooner, rather than later.
