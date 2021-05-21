@@ -31,7 +31,7 @@ While there may be some regional variations as to how/by which group of people t
 
 | What | Description | Why? | What PI does this affect? |
 | -- | -- | -- |
-| New Tickets | All Regions + Preferred region tickets | These tickets represent a contractual obligation. We must respond within SLA | [First Reply Time SLA](/handbook/support/performance-indicators/#service-level-agreement-sla) | 
+| New Tickets | All Regions + Tickets in your Preferred Region | These tickets represent a contractual obligation. We must respond within SLA | [First Reply Time SLA](/handbook/support/performance-indicators/#service-level-agreement-sla) | 
 | Tickets without owners | All Regions + Preferred region tickets | These tickets represent risk. Without a DRI they are likely to languish. | [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times) |
 | Tickets you own | | These tickets are the ones you're the DRI of. Keep your customers up to date and moving towards solutions.| [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times) |
 | Everything else | Collaborate with others on the tickets they own, work on learning tasks, handbook or docs updates | | [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times), [Support MR Rate](/handbook/support/performance-indicators/#support-mr-rate-inherited), [Support Handbook MR Rate](/handbook/support/performance-indicators/#support-handbook-mr-rate-inherited) |
