@@ -33,6 +33,25 @@ ___
 
 ## Project Coordination- Consulting
 
+#### Consulting Project Scheduling
+
+[Lead Time for Professional Services Engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement)
+
+[The PS Opportunity has closed, whats next](/handbook/customer-success/professional-services-engineering/working-with/#scheduling-professional-services)
+
+##### Internal Project
+
+If a Team Member would like to have time blocked on their schedule to allow time for non customer projecct related items, certifications or ramp up.
+A request should be submitted via a comment and tag the PC on either Internal Projects:
+
+- PS Time Tracking Creditable
+- PS Time Tracking Non Creditable
+
+Comment should be added to the activity page to include the following:
+- Task
+- Time Required
+- Priority Level
+
 #### Consulting Project Assignment
 
 When the PC and PM have the project team aligned the PC will send [Consulting Project Assignment](https://docs.google.com/document/d/1HfIt30ksOlhv3zAxh8ZPX-5J59maiuhNgZT2E5lMpsk/edit) in the Mavenlink project activity, this allows the team to be aware of who will be working on the project.
