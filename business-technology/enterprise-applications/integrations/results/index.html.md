@@ -30,8 +30,8 @@ title: "Integrations Engineering Results"
             $(countProps).animate({
                 hoursSaved: hoursSavedTarget
             }, {
-                duration: 3000,
-                easing: 'easeOutQuint',
+                duration: 1000,
+                easing: 'easeOutQuad',
                 step: function() {
                     $('#hours-saved').text(Math.ceil(this.hoursSaved));
                 }
@@ -71,7 +71,7 @@ title: "Integrations Engineering Results"
 {::options parse_block_html="true" /}
 
 <div id="hours-saved-container">
-<p id="hours-saved" saved="20">-</p>
+<p id="hours-saved" saved="35">-</p>
 <p class="text-center text-5xl text-bigger">Work-hours saved <br/> per month</p>
 </div>
 
@@ -80,6 +80,62 @@ title: "Integrations Engineering Results"
 The results achieved by this team are a product of the various collaborations with different business partners at GitLab. We cannot take full credit for the work that has been completed in this list, but we think that the contributions of the integrations engineering team have made these projects possible and for that reason we include them in this list.
 
 ## Projects
+
+
+### FY2022 - Q1
+
+#### BambooHR > Navex Global
+
+**Synopsis:**  
+Automatically adds and removes team members to Navex Global to avoid manual work for the team and streamline the onboarding process.
+
+**Impacted team(s):**  
+
+- Legal
+
+**Work-hours saved per month:** 5
+
+#### BambooHR > EdCast (GitLab Learn)
+
+**Synopsis:**  
+Automatically adds and removes team members to EdCast to avoid manual work for the team and streamline the onboarding process.
+
+**Impacted team(s):**  
+
+- L&D
+
+**Work-hours saved per month:** 5
+
+#### Rolly the rollup bot
+
+**Synopsis:**  
+Automatically fetches status updates from program epics and rolls them up into one single status issue. This reduces manual work for teams as they prepare status rollups. [Learn more about Rolly](/business-technology/how-we-work/rolly).
+
+**Impacted team(s):**  
+
+- Business Technology
+
+**Work-hours saved per month:** 5
+
+
+
+---
+
+### FY2021 - Q4
+
+#### Zuora Billing > Netsuite
+
+**Synopsis:**  
+Automates the synchronization of billing journal entries to Netsuite for month close.
+
+**Impacted team(s):**  
+
+- Billing
+- Accounting
+
+**Work-hours saved per month:** TBD
+
+---
 
 ### FY2021 - Q3
 
@@ -96,15 +152,3 @@ Utilising Workato to automatically synchronise team members and their managers f
 **Work-hours saved per month:** 20
 
 ---
-
-#### Zuora Billing Preview Run Automation
-
-**Synopsis:**  
-Allow the Zuora team to trigger billing preview runs from Slack, and receive a link to the resulting report on completion in slack as well.
-In addition to that, we join on some additional columns that aren't available in the normal report.
-
-**Impacted team(s):**  
-
-- Billing
-
-**Work-hours saved per month:** TBD
