@@ -27,7 +27,7 @@ A[GitLab.com-DB-Live] -->|build_destroy_mechanism| B[GitLab.com-DB clone running
 ```
 
  - `GitLab.com-DB clone` will be destroyed at 10:30PM UTC and rebuilt at 11:15PM UTC. This results in an available time window between 00:00AM UTC to 11:30PM UTC to query this database. If data is extracted from this replica outside the window, an error will occur, but it will not result in any data loss.
-- `Gitlab.com-DB Live Replica` is populated with data via wall files continuously. 
+- `Gitlab.com-DB Live Replica` is populated with data via WAL files continuously. 
 
 Currently, to ensure a stable data-feed, both the incremental and full loads utilise the `GitLab.com-DB clone` instance. During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
 
