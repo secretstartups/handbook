@@ -81,7 +81,7 @@ GitLab understands that tuition costs for academic study can cost more than the 
 
 Total Rewards will get an approval from GitLab's Compensation Group then notify you and the L&D team the outcome. If approved, you can fill out a [Growth & Development Benefit Form (Over $1,000 USD)](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) for the upcoming semester. A new form submission will be needed for each following semester.
 
-#### Tax Implications for Tuition Reimbursement by Country
+### Tax Implications for Tuition Reimbursement by Country
 
 In some countries, the Growth and Development Benefit may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes.
 
@@ -125,14 +125,6 @@ The following programs have been contributed by leaders across the organization.
 | Engineering Managers/Directors | [PlatoHQ](https://www.platohq.com/) | Leadership mentorship for engineering teams |
 | Finance/Accounting | Licenses and CPE Credits | Program Examples: Certified public accountant, Certified financial analyst, Certified management accountant, Enrolled agent, Certified internal auditor, Certified fraud examiner, Chartered global management accountant, Certified Payroll Professional, Fundamental Payroll Certification |
 | Development and Product | [Certified Agile Leadership](https://www.scrumalliance.org/get-certified/agile-leadership/certified-agile-leadership) | `Scrum Alliance certified agilists who teach Certified Agile Leadership demonstrate years of real-world experience and success coaching agile teams and supporting agile transformations.` |
-
-#### Tax Implications for Tuition Reimbursement by Country
-
-In some countries, the Growth and Development Benefit may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes.
-
-For example, in the United States 2021 tax year, if GitLab pays over [$5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center).
-
-Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](peopleops@gitlab.com) for any tax-related questions in your country.
 
 
 ### Administration of Growth and Development Reimbursements (Over $1,000)
