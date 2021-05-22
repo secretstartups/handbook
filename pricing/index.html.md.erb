@@ -162,16 +162,16 @@ When building integrations to partners it is possible to make exceptions to our 
 
 ### Themes
 
-We've found that bundling our features within tiers into themes [resulted in improved conversion performance on our pricing page](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/11). While it is how we present the value of our tiers, this themes based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
+We've found that bundling our features within tiers into themes [resulted in improved conversion performance on our pricing page](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/11). While it is how we present the value of our tiers, this themes-based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
 
 ```mermaid
-graph themes;
+graph TD;
   Features-->Categories;
   Categories-->Groups;
   Groups-->Stages;
   Stages-->Sections;
   Features-->Themes;
-  Themes-->Value Drivers;
+  Themes-->ValueDrivers(Value Drivers);
 ```
 
 ### Capabilities
@@ -190,6 +190,7 @@ The following are our current set of capabilities:
   <% data.pricing_capabilities.select{|capability| capability.tier == tier_name}.each do |capability| %>
 <%= "1. #{capability.name} " %>
   <% end %>
+
 <% end %>
 
 #### What happens when capabilities don't match our Buyer Based Tiering Decisions?
