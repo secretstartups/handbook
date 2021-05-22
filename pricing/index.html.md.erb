@@ -164,6 +164,8 @@ When building integrations to partners it is possible to make exceptions to our 
 
 We've found that bundling our features within tiers into themes [resulted in improved conversion performance on our pricing page](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/11). While it is how we present the value of our tiers, this themes-based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
 
+Themes are then bundled into [customer value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers).
+
 ```mermaid
 graph TD;
   Features-->Categories;
@@ -174,34 +176,28 @@ graph TD;
   Themes-->ValueDrivers(Value Drivers);
 ```
 
-### Capabilities
-
-Here is a video of the CEO discussing this concept with a Product Leader.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SI-IL7D5YPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-#### Current Capabilities List
+#### Current Theme List
 
 The following are our current set of capabilities:
 
 <% tier_names = ['Silver / Premium','Gold / Ultimate'] %>
 <% tier_names.each do |tier_name| %>
 <%= "### #{tier_name}" + ( tier_name != tier_names.first() ? " (all above AND)" : "") %>:
-  <% data.pricing_capabilities.select{|capability| capability.tier == tier_name}.each do |capability| %>
-<%= "1. #{capability.name} " %>
+  <% data.pricing_themes.select{|theme| theme.tier == tier_name}.each do |theme| %>
+<%= "1. #{theme.name} " %>
   <% end %>
 
 <% end %>
 
-#### What happens when capabilities don't match our Buyer Based Tiering Decisions?
+#### What happens when themes don't match our Buyer Based Tiering Decisions?
 
-Because capabilities are filters for our Buyer Based tiers, there can occasionally be instances where a feature's tier and its natural capability don't match. In that case we should either:
+Because themes are filters for our Buyer Based tiers, there can occasionally be instances where a feature's tier and its natural capability don't match. In that case we should either:
 
 1. Adjust the feature's tier to match
-1. Adjust the feature to a different capability to match
-1. Adjust the naming of the capability to better capture the distinction between tiers
+1. Adjust the feature to a different theme to match
+1. Adjust the naming of the theme to better capture the distinction between tiers
 
-Note - it is OK for the features of a capability to be in the listed tier and any lower tier.
+Note - it is OK for the features of a theme to be in the listed tier and any lower tier.
 
 ## Lower tiers have more relative value
 
