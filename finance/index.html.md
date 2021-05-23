@@ -20,7 +20,7 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 - Please use confidential issues for topics that should only be visible to team members at GitLab.
 
-[Procurement](handbook/finance/procurement/)
+[Procurement](/handbook/finance/procurement/)
 
 [Operating Metrics](/handbook/finance/operating-metrics/)
 
@@ -30,7 +30,7 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 [Stock Options](/handbook/stock-options/)
 
-[Travel and Expense Guidelines](/handbook/finance/accounting/#travel-and-expense-guidelines)
+[Expense Guidelines](/handbook/finance/expenses/)
 
 ## Forms
 
