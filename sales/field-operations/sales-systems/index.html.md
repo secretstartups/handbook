@@ -40,15 +40,15 @@ Below is a list of the different technical skill sets found on the Sales System 
 
       ![The Systems Label Workflow](/handbook/sales/images/Systemsworkflow.png)
 
-      * ![Sales Systems](/handbook/sales/images/Salessystems.png) New Issues that are created will be automatically tagged and any existing issues related to sales systems gets tagged with this label
+      * ![Sales Systems](/handbook/sales/images/Salessystems.png) New Issues that are created in the systems board are automatically tagged and any existing issues related to sales systems are tagged with this label
       * ![Need More Information](/handbook/sales/images/SSNeedinformation.png) Issues awaiting for information from the requester, needs more clarity in requriements, no milestone and not assigned to systems team member yet
       * ![Out Of Scope](/handbook/sales/images/SSOutscope.png) Issues that are outside the parameters of an initiative, cannot be combined with current functionality and this issue will be closed
-      * ![Ready For Assignment](/handbook/sales/images/SSReadyassingment.png) Issues that are acknowledged(in review), gathering requirements, no milestone and not assigned to systems team members
+      * ![Ready For Assignment](/handbook/sales/images/SSReadyassingment.png) Issues that are acknowledged (in review), gathering requirements, no milestone and not assigned to systems team members
       * ![Assigned](/handbook/sales/images/SSAssign.png) Issues that are ready to moveforward, gathering requirements, slotted to a milestone (not current) & assigned to systems team member
-      * ![Build](/handbook/sales/images/SSBuilds.png) Issues assigned to systems team member that are worked in the current milestone
-      * ![Ready To Business Owner Review](/handbook/sales/images/SSBusinessowner.png) Issues in current milestone that are near the finish line, needs to be reviewed/demoed and awaiting for business owner(s) to signoff
+      * ![Build](/handbook/sales/images/SSBuild.png) Issues that are in the current milestone, assigned to systems team member that are actively to be worked on
+      * ![Ready To Business Owner Review](/handbook/sales/images/SSBusinessowner.png) Issues in current milestone that are near the finish line, needs to be reviewed and demoed to the business owner(s) to signoff
       * ![Ready To Deploy](/handbook/sales/images/SSReadydeploy.png) Issues in current milestones, sign-offs given by the business owner that are ready to be deployed by systems team member
-      * ![Blocked](/handbook/sales/images/SSBlocked.png) Issues in the current milestone which are assigned to systems team member which are stalled, blocked due to technical difficulties and/or assigned to business owner as pending to provide information for the systems member to move forward
+      * ![Blocked](/handbook/sales/images/SSBlocked.png) Issues in the current milestone which are assigned to systems team member which are stalled due to technical difficulties and/or assigned to business owner pending to provide information to the systems member to move forward
 
 4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
