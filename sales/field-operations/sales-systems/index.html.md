@@ -41,7 +41,7 @@ Below is a list of the different technical skill sets found on the Sales System 
       ![The Systems Label Workflow](/handbook/sales/images/Systemsworkflow.png)
 
       * ![Sales Systems](/handbook/sales/images/Salessystems.png) New Issues that are created in the systems board are automatically tagged and any existing issues related to sales systems are tagged with this label
-      * ![Need More Information](/handbook/sales/images/SSNeedinformation.png) Issues awaiting for information from the requester, needs more clarity in requriements, no milestone and not assigned to systems team member yet
+      * ![Need More Information](/handbook/sales/images/SSNeedinformation.png) Issues awaiting for information from the requester, needs more clarity in requirements, no milestone and not assigned to systems team member yet
       * ![Out Of Scope](/handbook/sales/images/SSOutscope.png) Issues that are outside the parameters of an initiative, cannot be combined with current functionality and this issue will be closed
       * ![Ready For Assignment](/handbook/sales/images/SSReadyassingment.png) Issues that are acknowledged (in review), gathering requirements, no milestone and not assigned to systems team member
       * ![Assigned](/handbook/sales/images/SSAssign.png) Issues that are ready to moveforward, slotted to a milestone (not current) & assigned to systems team member's queue
