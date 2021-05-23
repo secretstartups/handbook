@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Commercial Sales Enablement
+description: Welcome to the Commercial Sales Enablement Handbook Page
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -16,9 +22,9 @@ To improve sales efficiency & predictability as well as excellence in role, the 
 | R7 Reinforcement Module: [Meeting Roles](https://classroom.google.com/c/MTgxMzg1MjQ2NzY2?cjc=7veu3wf) | Ensure each AE/ASM can identify the correct co-selling role and apply in a given sales scenario | 10 min |
 | R7 Certification, Course 2: [Account Ranking](https://classroom.google.com/c/MTY4NzQyNjA0OTIx?cjc=s3kk7jx) | Ensure each AE/ASM can apply the Account Ranking criteria to build pipeline | 20-25 min |
 | R7 Certification, Course 3: [Capturing Key Information](https://classroom.google.com/c/MTgxMzg1MjQ2NzIy?cjc=3fnor2r) and [Logging Call Notes & Updating Next Steps](https://classroom.google.com/c/MTgxMzg1MjQ2NzIy?cjc=3fnor2r) | Ensure each AE/ASM can translate the customers "question behind the question" to capture key information; recall where and how to log call notes; and create actionable next steps | 25 min |
-| R7 Certification, Course 4: Command Plan | TBD: Scheduled release date: 2020-12-21 | TBD |
-| R7 Certification, Course 5: Keeping Opportunities Up to Date | TBD: Scheduled release date: 2021-03-08 | TBD |
-| R7 Certification, Course 6: Forecasting | TBD: Scheduled release date: 2021-04-08 | TBD |
+| R7 Certification, Course 4: [Command Plan](https://gitlab.edcast.com/pathways/r-course-command-plan) | Ensure each AE/ASM understand the CP architecture and can leverage informed curiosity to create a compelling "why now" and align value drivers with metrics to drive a sale to close | 30 min |
+| R7 Certification, Course 5: [Selling With The Custom Deck](https://gitlab.edcast.com/pathways/r-course-selling-with-the-custom-deck-welcome) | Ensure each AE/ASM can apply the Custom Deck requirements to position GitLab as a differentiated solution | 30 min |
+|  |  |  |
 
 ### Additional Commercial Courses
 
@@ -58,15 +64,6 @@ With all the uncertainty around Covid-19, we have developed a process to capture
     - Best Practice is to log an activity in ‘activity history’
     - For Call activity types, associate the record with the correct contact(s) list and as needed, include **(ii)** in the record subject to call attention to information inside
 1. Command Plan
-
-**This is what you’re going to learn in this course**
-
-1. Here are all the reasons why ppl say they can’t fill in the Command Plan
-    - I haven’t talked to them yet
-    - They didn’t tell me
-    - I don’t know anything about the account/company
-    - I’m going to learn that on the next call
-1. The above are **not** acceptable reasons not to fill in the required fields listed above.
 
 **How to get each of those required fields**
 
