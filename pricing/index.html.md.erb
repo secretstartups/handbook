@@ -180,7 +180,7 @@ graph TD;
 
 The following are our current set of capabilities:
 
-<% tier_names = ['Silver / Premium','Gold / Ultimate'] %>
+<% tier_names = ['Premium','Ultimate'] %>
 <% tier_names.each do |tier_name| %>
 <%= "### #{tier_name}" + ( tier_name != tier_names.first() ? " (all above AND)" : "") %>:
   <% data.pricing_themes.select{|theme| theme.tier == tier_name}.each do |theme| %>
@@ -191,7 +191,7 @@ The following are our current set of capabilities:
 
 #### What happens when themes don't match our Buyer Based Tiering Decisions?
 
-Because themes are filters for our Buyer Based tiers, there can occasionally be instances where a feature's tier and its natural capability don't match. In that case we should either:
+Because themes are filters for our Buyer Based tiers, there can occasionally be instances where a feature's tier and its natural theme don't match. In that case we should either:
 
 1. Adjust the feature's tier to match
 1. Adjust the feature to a different theme to match
