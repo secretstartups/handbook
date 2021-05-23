@@ -30,6 +30,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Notice to Employees - Injuries Caused by Work](https://www.dir.ca.gov/dwc/NoticePoster.pdf)
 * [Whistleblower Protections](https://www.dir.ca.gov/dlse/WhistleblowersNotice.pdf)
 * [Notice to Employees - unemployment, disability, and paid family leave insurance](https://www.edd.ca.gov/pdf_pub_ctr/de1857a.pdf)
+* [Sexual Harassment Fact Sheet](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/03/SexualHarassmentFactSheet_ENG.pdf)
 
 #### City of San Francisco
 * San Francisco Minimum Wage increases to $15.59 per hour [(June 2019)](ttps://gitlab.com/gitlab-com/people-ops/Compensation/uploads/e261b0f24e1b2d5bf382366bb400cf53/sf-minimum-wage-2019-06.pdf).
