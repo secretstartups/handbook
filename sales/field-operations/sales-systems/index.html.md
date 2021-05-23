@@ -43,10 +43,10 @@ Below is a list of the different technical skill sets found on the Sales System 
       * ![Sales Systems](/handbook/sales/images/Salessystems.png) New Issues that are created in the systems board are automatically tagged and any existing issues related to sales systems are tagged with this label
       * ![Need More Information](/handbook/sales/images/SSNeedinformation.png) Issues awaiting for information from the requester, needs more clarity in requriements, no milestone and not assigned to systems team member yet
       * ![Out Of Scope](/handbook/sales/images/SSOutscope.png) Issues that are outside the parameters of an initiative, cannot be combined with current functionality and this issue will be closed
-      * ![Ready For Assignment](/handbook/sales/images/SSReadyassingment.png) Issues that are acknowledged (in review), gathering requirements, no milestone and not assigned to systems team members
-      * ![Assigned](/handbook/sales/images/SSAssign.png) Issues that are ready to moveforward, gathering requirements, slotted to a milestone (not current) & assigned to systems team member
+      * ![Ready For Assignment](/handbook/sales/images/SSReadyassingment.png) Issues that are acknowledged (in review), gathering requirements, no milestone and not assigned to systems team member
+      * ![Assigned](/handbook/sales/images/SSAssign.png) Issues that are ready to moveforward, slotted to a milestone (not current) & assigned to systems team member's queue
       * ![Build](/handbook/sales/images/SSBuild.png) Issues that are in the current milestone, assigned to systems team member that are actively to be worked on
-      * ![Ready To Business Owner Review](/handbook/sales/images/SSBusinessowner.png) Issues in current milestone that are near the finish line, needs to be reviewed and demoed to the business owner(s) to signoff
+      * ![Ready To Business Owner Review](/handbook/sales/images/SSBusinessowner.png) Issues in current milestone that are near the finish line, needs to be reviewed and demoed to the business owner(s) to sign-off
       * ![Ready To Deploy](/handbook/sales/images/SSReadydeploy.png) Issues in current milestones, sign-offs given by the business owner that are ready to be deployed by systems team member
       * ![Blocked](/handbook/sales/images/SSBlocked.png) Issues in the current milestone which are assigned to systems team member which are stalled due to technical difficulties and/or assigned to business owner pending to provide information to the systems member to move forward
 
