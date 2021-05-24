@@ -1,0 +1,532 @@
+---
+layout: default
+title: All Remote
+description: "GitLab is the world's largest all-remote company"
+canonical_path: "/company/culture/all-remote/"
+image_title: '/images/opengraph/2021-remote-playbook-opengraph.png'
+twitter_creator: "@gitlab"
+twitter_site: "@gitlab"
+twitter_image_alt: "All About GitLab's remote work culture"
+twitter_image: "/images/opengraph/2021-remote-playbook-opengraph.png"
+extra_css:
+  - all-remote.css
+  - community.css
+  - bl-modal.css
+  - video-carousel.css
+extra_js:
+  - libs/slick.min.js
+  - video-carousel.js
+---
+
+#sticky-banner.sticky-banner.js-sticky-banner.active
+  .sticky-banner-content
+    .sticky-banner-text
+      %p.header-text
+        Empower your team to thrive remotely.
+      %p.subheader-text
+        Discover everything we've learned.
+    .action
+      .btn.featured-item-cta-btn.form-lightbox-open
+        Download Remote Playbook
+    %img#dismiss-trial.dismiss-trial{:alt => "Gitlab x icon svg", :src => "/images/icons/x.svg"}
+
+.wrapper.all-remote-landing
+  .hero
+    .container
+      .row.hero-row
+        .col-md-5.hero-image-col
+          .hero-image-wrap
+            .playbook-color-block.playbook-color-block-1
+            .playbook-color-block.playbook-color-block-2
+            = image_tag "/images/all-remote/remote-playbook-cover.png"
+          .playbook-share-block
+            .playbook-share-text 
+              Share: 
+            - url = full_url(current_page)
+            .share-butons.clearfix
+              %a.share-btn.share-btn-facebook{ href: "http://www.facebook.com/sharer.php?u=#{url}",
+                target: "_blank",
+                onclick: "openSocialLink(this, 500, 400); return false;" }
+                %i.fab.fa-facebook
+                %span.sr-only
+                  Share on Facebook
+              %a.share-btn.share-btn-twitter{ href: "http://twitter.com/share?url=#{url}&text=#{current_page.data.title}",
+                target: "_blank",
+                onclick: "openSocialLink(this, 500, 400); return false;" }
+                %i.fab.fa-twitter
+                %span.sr-only
+                  Share on Twitter
+              %a.share-btn.share-btn-linkedin{ href: "https://www.linkedin.com/shareArticle?mini=true&url=#{url}&title=#{current_page.data.title}&summary=&source=",
+                target: "_blank",
+                onclick: "openSocialLink(this, 500, 400); return false;" }
+                %i.fab.fa-linkedin
+                %span.sr-only
+                  Share on LinkedIn
+
+        .col-md-7.hero-content-col
+          .hero-content
+            %h1
+              %strong
+                Download GitLab's complete Remote Playbook 
+            %ul.margin-top20
+              %li
+                How the world's largest all-remote company manages teams and workflows
+              %li  
+                Understand the key steps every remote worker and manager should take now 
+              %li
+                Get tried and tested tactics for building remote fluency in your organization
+              %li
+                The most comprehensive remote work guide available, no strings attached and 100% free to use
+            
+            .a.btn.cta-btn.orange.margin-top20.form-lightbox-open
+              Download the Remote Playbook Now
+
+  .manifesto
+    .container
+      .row
+        .col-md-12.manifesto-heading-wrap
+          %h2.monospace-heading
+            Remote Manifesto
+
+      .row
+        .col-md-4
+          .manifesto-list-block
+            .manifesto-list-item
+              %span 1
+              %span Hiring and working from all over the world instead of from a central location.
+            .manifesto-list-item
+              %span 2
+              %span
+                Flexible working hours
+                %em over
+                set working hours.
+            .manifesto-list-item
+              %span 3
+              %span
+                Writing down and recording knowledge
+                %em over
+                verbal explanations.
+        .col-md-4
+          .manifesto-list-block
+            .manifesto-list-item
+              %span 4
+              %span
+                Written down processes
+                %em over
+                on-the-job training.
+            .manifesto-list-item
+              %span 5
+              %span
+                Public sharing of information
+                %em over
+                need-to-know access.
+            .manifesto-list-item
+              %span 6
+              %span
+                Opening up every document for editing by anyone
+                %em over
+                top-down control of documents.
+        .col-md-4
+          .manifesto-list-block
+            .manifesto-list-item
+              %span 7
+              %span
+                Asynchronous communication
+                %em over
+                synchronous communication.
+            .manifesto-list-item
+              %span 8
+              %span
+                The results of work
+                %em over
+                the hours put in.
+            .manifesto-list-item
+              %span 9
+              %span
+                Formal communication channels
+                %em over
+                informal communication channels.
+
+  .all-remote-webcast
+    .container
+      .row
+        .col-md-12
+          .all-remote-webcast-content
+            .webcast-background-img
+              %img{:src => "/images/all-remote/remote-computer-desk.png", :alt => "Watch our Remote Webcast"}/
+            .webcast-tagline
+              Join our weekly webcast series tackling all things remote work!
+            .webcast-btn-wrap
+              %a.btn.cta-btn.orange{:href => "/company/culture/all-remote/universal-remote/"}
+                Watch now
+
+  .why-remote
+    .why-remote-color-block.why-remote-color-block-1
+    .why-remote-color-block.why-remote-color-block-2
+    .why-remote-color-block.why-remote-color-block-3
+    .why-remote-col-wrap
+      .why-remote-col.why-remote-col-left
+        .why-remote-text
+          %h2 Why Remote?
+          %p
+            From cost savings on office space to more flexibility in employees'
+            %a{href: '/company/culture/all-remote/people/'} daily lives,
+            all-remote work offers a number of
+            %a{href: '/company/culture/all-remote/benefits/'} advantages
+            to organizations and their people. 
+          %br
+            Download the
+            %a{href: '/resources/downloads/remote-work-report-2021.pdf'} 2021 Remote Work Report by GitLab 
+            to learn more.
+      .why-remote-col.why-remote-col-right
+        .why-remote-video
+          .why-remote-color-block.why-remote-color-block-4
+          .why-remote-color-block.why-remote-color-block-5
+          .why-remote-color-block.why-remote-color-block-6
+          .video_container
+            %iframe{:allowscriptaccess => "always", :allowFullScreen => "true", :frameborder => "0", :src => "https://www.youtube.com/embed/GKMUs7WXm-E"}
+
+  .all-remote-case-studies 
+    .container
+      %h2.u-margin-bottom-md.text-center 
+        Remote Work Case Studies
+      .row
+        .col-md-4
+          .case-study-element
+            .case-study-img
+              = image_tag "/images/all-remote/case-study-hotjar.png", alt: "Case Study"
+            .case-study-content
+              %a{:href => "/customers/hotjar/"}
+                %h4.case-study-title 
+                  How Hotjar deploys 50% faster with GitLab
+              %div.case-study-author
+                by GitLab
+              %div.case-study-blurb
+              %a.case-study-btn{:href => "/customers/hotjar/"}
+                Read more
+
+        .col-md-4
+          .case-study-element
+            .case-study-img
+              = image_tag "/images/all-remote/case-study-hbr.png", alt: "Case Study"
+            .case-study-content
+              %a{:href => "https://store.hbr.org/product/gitlab-and-the-future-of-all-remote-work-a/620066"}
+                %h4.case-study-title 
+                  GitLab and the Future of All-Remote Work (A)
+              %div.case-study-author
+                by Prithwiraj Choudhury and Emma Salomon
+              %div.case-study-blurb
+              %a.case-study-btn{:href => "https://store.hbr.org/product/gitlab-and-the-future-of-all-remote-work-a/620066"}
+                Read more
+
+        .col-md-4
+          .case-study-element
+            .case-study-img
+              = image_tag "/images/all-remote/case-study-hbr.png", alt: "Case Study"
+            .case-study-content
+              %a{:href => "https://store.hbr.org/product/gitlab-and-the-future-of-all-remote-work-b/620117"}
+                %h4.case-study-title 
+                  GitLab and the Future of All-Remote Work (B)
+              %div.case-study-author
+                by Prithwiraj Choudhury and Emma Salomon
+              %div.case-study-blurb
+              %a.case-study-btn{:href => "https://store.hbr.org/product/gitlab-and-the-future-of-all-remote-work-b/620117"}
+                Read more
+
+
+  .all-remote-quick-links
+    .container
+      .row
+        .col-md-12
+          .all-remote-quick-links-intro.text-center
+            %h2
+              %a{href: '/company/culture/all-remote/guide/'} 
+                Read GitLab's Guide to Remote Work
+
+      .row.row-quick-links-wrap
+        .col-md-2
+          %h4 How & Why
+          %ul
+            %li
+              = link_to "Vision", "/company/culture/all-remote/vision/"
+            %li
+              = link_to "Tips", "/company/culture/all-remote/tips/"
+            %li
+              = link_to "Benefits", "/company/culture/all-remote/benefits/"
+            %li
+              = link_to "Drawbacks", "/company/culture/all-remote/drawbacks/"
+            %li
+              = link_to "Phases", "/company/culture/all-remote/phases-of-remote-adaptation/"
+            %li
+              = link_to "Forcing functions", "/company/culture/all-remote/how-to-work-remote-first/"
+            %li
+              = link_to "Stories", "/company/culture/all-remote/stories/"
+            %li
+              = link_to "History", "/company/culture/all-remote/history/"
+        .col-md-2
+          %h4 Getting Started
+          %ul
+            %li
+              = link_to "Getting started", "/company/culture/all-remote/getting-started/"
+            %li
+              = link_to "Ramping up", "/company/culture/all-remote/remote-work-starter-guide/"
+            %li
+              = link_to "Remote onboarding", "/company/culture/all-remote/onboarding/"
+            %li
+              = link_to "Defining All-Remote", "/company/culture/all-remote/terminology/"
+            %li
+              = link_to "What not to do", "/company/culture/all-remote/what-not-to-do/"
+            %li            
+              = link_to "Evaluate", "/company/culture/all-remote/evaluate/"
+            %li
+              = link_to "Workspace", "/company/culture/all-remote/workspace/"
+            %li
+              = link_to "Jobs", "/company/culture/all-remote/jobs/"
+            %li
+              = link_to "Interviews", "/company/culture/all-remote/interviews/"
+        .col-md-2
+          %h4 People & Values
+          %ul
+            %li
+              = link_to "People", "/company/culture/all-remote/people/"
+            %li
+              = link_to "Non-linear workday", "/company/culture/all-remote/non-linear-workday/"
+            %li
+              = link_to "Values", "/company/culture/all-remote/values/"
+            %li
+              = link_to "Building culture", "/company/culture/all-remote/building-culture/"
+            %li
+              = link_to "Mental health", "/company/culture/all-remote/mental-health/"
+            %li
+              = link_to "Informal communication", "/company/culture/all-remote/informal-communication/"
+            %li
+              = link_to "Parenting", "/company/culture/all-remote/parenting/"
+            %li
+              = link_to "Work while traveling", "/company/culture/all-remote/working-while-traveling/"
+            %li
+              = link_to "Scaling", "/company/culture/all-remote/scaling/"
+        .col-md-2
+          %h4 Management
+          %ul
+            %li
+              = link_to "Remote fast boot", "/company/culture/all-remote/remote-work-emergency-plan/"
+            %li
+              = link_to "Stages of remote", "/company/culture/all-remote/stages/"
+            %li
+              = link_to "Hybrid-remote", "/company/culture/all-remote/hybrid-remote/"
+            %li
+              = link_to "Asynchronous", "/company/culture/all-remote/asynchronous/"
+            %li
+              = link_to "Handbook-first documentation", "/company/culture/all-remote/handbook-first-documentation/"
+            %li
+              = link_to "Meetings", "/company/culture/all-remote/meetings/"
+            %li
+              = link_to "Transition to remote", "/company/culture/all-remote/transition/"
+            %li
+              = link_to "Effective management", "/company/culture/all-remote/management/"
+            %li
+              = link_to "In-person interactions", "/company/culture/all-remote/in-person/"
+            %li
+              = link_to "Leading teams", "/company/culture/all-remote/being-a-great-remote-manager/"
+        .col-md-2
+          %h4 Hiring & Learning
+          %ul
+            %li
+              = link_to "Hiring", "/company/culture/all-remote/hiring/"
+            %li
+              = link_to "Compensation", "/company/culture/all-remote/compensation/"
+            %li
+              = link_to "Collaboration", "/company/culture/all-remote/collaboration-and-whiteboarding/"
+            %li
+              = link_to "Remote internships", "/company/culture/all-remote/internship/"            
+            %li
+              = link_to "Textual communication", "/company/culture/all-remote/effective-communication/"
+            %li
+              = link_to "Self-service", "/company/culture/all-remote/self-service/"
+            %li
+              = link_to "L&D", "/company/culture/all-remote/learning-and-development/"
+            %li
+              = link_to "Events", "/company/culture/all-remote/events/"
+            %li
+              = link_to "Certification", "/company/culture/all-remote/remote-certification/"
+        .col-md-2
+          %h4 Want to contribute?
+          %ul
+            %li
+              = link_to "Pick your brain", "/company/culture/all-remote/pick-your-brain/"
+            %li
+              = link_to "Contribute now", "/company/culture/all-remote/contributions/"
+            %li
+              = link_to "Resources", "/company/culture/all-remote/resources/"
+
+  .featured-remote-posts
+    .featured-remote-posts-content
+      .featured-remote-posts-grid
+        // = partial "includes/recent-posts"
+        // Hard coding in high-performing content for now
+        .container
+          %h2.u-margin-bottom-md.text-center Remote tips, tricks and insights on the GitLab blog
+          .grid-layout.grid-layout3
+            %a.tile-resource.grid-item{:href => "/company/culture/all-remote/remote-work-emergency-plan/"}
+              .tile-background-container{:style => "background-image: url('/images/all-remote/featured-content/world-remote.jpg');"}
+              .tile-info
+                %h4.tile-title Remote work emergency plan: What to do (and where to start)
+                %p.tile-subtitle by Darren Murph
+                // %p.tile-description Our senior developer evangelist answers newbie questions about Git.
+                %p.tile-link
+                  Learn more
+                  %i.fas.fa-arrow-right
+            %a.tile-resource.grid-item{:href => "/company/culture/all-remote/remote-work-starter-guide/"}
+              .tile-background-container{:style => "background-image: url('/images/all-remote/featured-content/remote-desk.jpg');"}
+              .tile-info
+                %h4.tile-title Remote work starter guide for employees: how to adjust to work-from-home
+                %p.tile-subtitle by Darren Murph
+                // %p.tile-description Open source software presents unique security challenges. Here’s what you need to know.
+                %p.tile-link
+                  Learn more
+                  %i.fas.fa-arrow-right
+            %a.tile-resource.grid-item{:href => "/company/culture/all-remote/how-to-work-remote-first/"}
+              .tile-background-container{:style => "background-image: url('/images/all-remote/featured-content/remote-desktop-computer.png');"}
+              .tile-info
+                %h4.tile-title How to use forcing functions to work remote-first
+                %p.tile-subtitle by Darren Murph
+                //%p.tile-description Learn how to compare commits, delete stale branches, and write aliases to save you some time. It's time to dust off your command line and Git busy!
+                %p.tile-link
+                  Learn more
+                  %i.fas.fa-arrow-right
+
+      .text-center
+        %a.btn.cta-btn.orange.margin-top20{:href => "/blog/"}
+          Read more from our blog
+
+
+  .container.margin-bottom40
+    .row
+      %h2.u-margin-bottom-sm.text-center
+        Remote Work Videos
+      .video-slider
+        - data.video_carousel.each do |video|
+          -if video.carousel_identifier.include?("All Remote Carousel 1")
+            = partial "includes/components/video-carousel/video-item.html.haml", locals: {name: video.name, title: video.title, company: video.company, photourl: video.photourl, videolink: video.video_link}
+
+      - data.video_carousel.each do |video|
+        -if video.carousel_identifier.include?("All Remote Carousel 1")
+          = partial "includes/components/video-carousel/video-carousel-modal.html.haml", locals: {videolink: video.video_link, title: video.title, photourl: video.photourl}
+
+
+  .all-remote-connect-block#remote-newsletter-block
+    .all-remote-connect-block-content
+      .container
+        .row
+          .col-md-6
+            .all-remote-newsletter-block
+              %h3 Get Remote Newsletter
+              %p Do you want more remote (and less office) in your life? Sign-up for a biweekly dose of tips, tricks and new remote opportunities.
+              %script{src: "//page.gitlab.com/js/forms2/js/forms2.min.js"}
+              %form#mktoForm_2460
+              :javascript
+                MktoForms2.setOptions(
+                {
+                  formXDPath : "/rs/194-VVC-221/images/marketo-xdframe-relative.html"
+                });
+                MktoForms2.loadForm("//page.gitlab.com", "194-VVC-221", 2460, function(form) {
+                  form.onSuccess(function(values, followUpUrl) {
+                    dataLayer.push(
+                    {
+                      'event' : 'mktoLead', 
+                      'mktoFormId' : form.getId(),
+                      'eventCallback' : function()
+                      {
+                        form.getFormElem().hide();
+                        document.getElementById('confirmformnewlsetter').style.visibility = 'visible';
+                      }, 'eventTimeout' : 3000
+                    });
+                    return false;
+                  });
+                  function getgacid() {
+                    try {
+                      var tracker = ga.getAll()[0];
+                      return tracker.get('clientId');
+                    } catch (e) {
+                      return 'n/a';
+                    }
+                  }
+                  form.vals({
+                    'gacid': getgacid()
+                  });
+                });
+              #confirmformnewlsetter{style: "visibility:hidden;"}
+                %p.thanks-subscribing
+                  Thanks for subscribing!
+                  %a{href: "https://www.twitter.com/gitlab", target: "_blank"}
+                    Follow us on twitter
+                  for even more updates!
+          .col-md-6
+            .all-remote-social-block
+              %h3 Follow Us On:
+              %ul
+                %li
+                  = link_to('https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc') do
+                    = image_tag "/images/all-remote/icon-youtube.svg", alt: "Follow Us On YouTube"
+                    %span.sr-only YouTube
+                %li
+                  = link_to('https://www.facebook.com/gitlab') do
+                    = image_tag "/images/all-remote/icon-facebook.svg", alt: "Follow Us On Facebook"
+                    %span.sr-only Facebook
+                %li
+                  = link_to('https://www.linkedin.com/company/gitlab-com') do
+                    = image_tag "/images/all-remote/icon-linkedin.svg", alt: "Follow Us On LinkedIn"
+                    %span.sr-only LinkedIn
+                %li
+                  = link_to('https://twitter.com/gitlab') do
+                    = image_tag "/images/all-remote/icon-twitter.svg", alt: "Follow Us On Twitter"
+                    %span.sr-only Twitter
+
+            .all-remote-join-block
+              %h3 Careers at GitLab
+              = link_to "/jobs/", class: "btn btn-outlined cta-btn margin-top20" do
+                Join our Talent Community
+
+  .bl-modal#form-for-playbook
+    %span.bl-modal-close
+    .bl-modal-content
+      %h4.text-center
+        Download The Remote Playbook Now
+      %script{src: "//page.gitlab.com/js/forms2/js/forms2.min.js"}
+      - localvar_form_id = '2430'
+      - localvar_form_type = 'resources'
+      %form{id: "mktoForm_#{localvar_form_id}"}
+      :javascript
+        MktoForms2.setOptions(
+        {
+          formXDPath : "/rs/194-VVC-221/images/marketo-xdframe-relative.html"
+        });
+        MktoForms2.loadForm("//page.gitlab.com", "194-VVC-221", #{localvar_form_id}, function(form)
+        {
+          form.onSuccess(function()
+          {
+            dataLayer.push({
+              'event' : '#{localvar_form_type}', 
+              'mktoFormId' : form.getId(),
+              'eventCallback' : function() {
+                document.location.href = 'https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf';
+              },
+              'eventTimeout' : 3000
+            });
+            return false;
+          });
+        });
+
+  <script src="/javascripts/bl-modal.js" type="text/javascript" data-cookieconsent="ignore"></script>
+  %script{type: "text/javascript", "data-cookieconsent": "ignore"}
+    :plain
+      blOpenModal('.form-lightbox-open', '#form-for-playbook');
+
+  :javascript
+    (function() {
+      var trialDismissed = false
+      document.getElementById("dismiss-trial").addEventListener("click", dismissTrial)
+      function dismissTrial() {
+        document.getElementById('sticky-banner').style.display = "none";
+      }
+    })();
