@@ -183,6 +183,7 @@ Don't have time to set up your own boolean search? Use our [smart boolean search
 (now our full GitLab Talent Community is shown)
 3. Search with specific keywords/skills in the top left search bar. Turn on the "Full Text Search" function to get more results.
 4. Search using tags as filters. Profile details -> Candidate Tags
+5. Here is the [Video](https://drive.google.com/file/d/1pojTfH5S08T_1mMbbGT682URRO_nW4tm/view?usp=sharing)
 
 **How to source through LinkedIn our Greenhouse database**
 
